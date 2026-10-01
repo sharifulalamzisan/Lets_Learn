@@ -219,6 +219,7 @@ footer.site{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:20px
     <a class="brand" href="#" id="brand"><span id="brandmark"></span><span class="wm"><span id="brandtxt">Let's Learn</span><small id="brandsub">Class 9–10 Science</small></span></a>
     <span class="grow"></span>
     <button class="iconbtn" id="searchbtn" aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span id="searchlbl">Search</span></button>
+    <span id="acct"></span>
     <div class="langsw" role="group" aria-label="Language"><button data-l="bn">বাংলা</button><button data-l="en">English</button></div>
   </div>
 </header>
@@ -279,6 +280,8 @@ function parseHash(){
   const p = h.split(".").filter(Boolean);
   if(p[0]==="en"||p[0]==="bn"){ if(p[0]!==LANG){ LANG=p[0]; store.set("c10-lang",LANG); } p.shift(); }
   if(!p.length) return {view:"home"};
+  if(p[0]==="login") return {view:"login",mode:p[1]||"login"};
+  if(p[0]==="account") return {view:"account"};
   const subj = p.shift();
   if(!p.length) return {view:"subject",subj};
   if(/^c\d+$/.test(p[0])) return {view:"chapter",subj,n:+p[0].slice(1)};
@@ -290,22 +293,24 @@ function setChrome(){
   $("#brandtxt").textContent = UI[LANG].brand; $("#brandsub").textContent = UI[LANG].brandSub; $("#brand").href = href(); { const bm=$("#brandmark"); if(bm) bm.outerHTML = logoMark("mark"); }
   $("#searchlbl").textContent = UI[LANG].search;
   document.querySelectorAll(".langsw button").forEach(b=>b.setAttribute("aria-pressed", b.dataset.l===LANG));
-  $("#foot").textContent = UI[LANG].foot;
+  $("#foot").innerHTML = esc(UI[LANG].foot) + `<br><span class="credit">${CREDIT[LANG]}</span>`; acctChrome();
 }
 
 async function route(){
-  await loadMap();
-  const r = parseHash(); setChrome(); const main = $("#main");
+  await loadMap(); if(!AUTH.ready) await authInit();
+  let r = parseHash(); if(needsLogin(r)) r = {view:"login",mode:"login"}; setChrome(); const main = $("#main");
   main.className = r.subj ? "s-"+r.subj : "";
-  document.body.className = r.subj ? "s-"+r.subj : (r.view==="home" ? "is-landing" : "");
-  if(r.view==="lesson") store.set("c10-last",{s:r.subj,id:r.id,ts:Date.now()});
+  document.body.className = r.subj ? "s-"+r.subj : (r.view==="home" ? "is-landing" : r.view==="login" ? "is-auth" : "");
+  if(r.view==="lesson"){ store.set("c10-last",{s:r.subj,id:r.id,ts:Date.now()}); pushProgress(); }
   try{
     if(r.view==="home") main.innerHTML = viewLanding();
+    else if(r.view==="login") main.innerHTML = viewLogin(r.mode);
+    else if(r.view==="account") main.innerHTML = viewAccount();
     else if(r.view==="subject") main.innerHTML = viewSubject(r.subj);
     else if(r.view==="chapter") main.innerHTML = await viewChapter(r.subj,r.n);
     else main.innerHTML = await viewLesson(r.subj,r.id);
   }catch(e){ console.error(e); main.innerHTML = `<p class="empty">Something went wrong loading this page. Go back to <a href="${href()}">${UI[LANG].home}</a>.</p>`; }
-  wire(main); if(r.view==="home") wireLanding(main);
+  wire(main); if(r.view==="home") wireLanding(main); if(r.view==="login") wireLogin(main); if(r.view==="account") wireAccount(main);
   window.scrollTo(0,0);
 }
 
@@ -442,7 +447,7 @@ function wire(root){
   });
   root.querySelectorAll("a[data-jump]").forEach(a=>a.addEventListener("click",e=>{e.preventDefault(); const t=document.getElementById(a.dataset.jump); if(t) t.scrollIntoView({block:"start"});}));
   root.querySelectorAll("a.xref").forEach(a=>{ const r=parseHash(); a.href = href(r.subj,a.dataset.id); });
-  const md = $("#markdone",root); if(md) md.addEventListener("click",()=>{ const k=md.dataset.k; if(DONE.has(k)) DONE.delete(k); else DONE.add(k); store.set("c10-done",[...DONE]); const d=DONE.has(k); md.className="btn "+(d?"done":"solid"); md.textContent = d?UI[LANG].marked:UI[LANG].markDone; });
+  const md = $("#markdone",root); if(md) md.addEventListener("click",()=>{ const k=md.dataset.k; if(DONE.has(k)) DONE.delete(k); else DONE.add(k); store.set("c10-done",[...DONE]); pushProgress(); const d=DONE.has(k); md.className="btn "+(d?"done":"solid"); md.textContent = d?UI[LANG].marked:UI[LANG].markDone; });
   root.querySelectorAll(".tri").forEach(initTri);
   root.querySelectorAll(".widget").forEach(el=>{ const fn = W[el.dataset.w]; if(fn){ try{ fn(el, LANG, currentLesson()); }catch(e){ console.error(e); el.textContent=""; } } });
 }
@@ -668,6 +673,7 @@ W.error = (el) => {
 };
 
 /*__LANDINGJS__*/
+/*__ACCOUNTSJS__*/
 /*__WIDGETS__*/
 route();
 </script>

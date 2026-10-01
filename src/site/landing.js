@@ -94,7 +94,7 @@ function viewLanding(){
       <div class="ll-chips">${chips}${extra>0?`<span>${L.more(bnNum(extra,LANG))}</span>`:""}</div>
       ${d>0?`<div class="ll-mine"><span>${L.mine(bnNum(d,LANG),bnNum(n,LANG))}</span><span class="bar"><i style="width:${100*d/n}%"></i></span></div>`:""}</div>
       <a class="ll-btn line go" href="${href(sub.key)}">${L.openS(title(sub))}</a></article>`; }).join("");
-  const showBack = last || DONE.size>0;
+  const showBack = last || DONE.size>0 || AUTH.user;
   const ring=(sub)=>{ const [d,n]=progressOf(sub); const f=n?d/n:0, r=18, c=2*Math.PI*r; return `<span class="ring s-${sub.key}"><svg viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="${r}" fill="none" stroke="var(--rule)" stroke-width="5"/><circle cx="22" cy="22" r="${r}" fill="none" stroke="var(--c)" stroke-width="5" stroke-linecap="round" stroke-dasharray="${c*f} ${c}" transform="rotate(-90 22 22)"/></svg>${title(sub)}: ${bnNum(d,LANG)}/${bnNum(n,LANG)}</span>`; };
   return `
   <section class="ll-hero" aria-labelledby="ll-h1"><div class="ll-wrap">
@@ -109,7 +109,7 @@ function viewLanding(){
       <p class="ll-legend"><span><i style="background:var(--chalk-2)"></i>${L.ready}</span><span><i style="border:1.5px solid var(--chalk-2)"></i>${L.notyet}</span></p></div>
   </div></section>
 
-  ${showBack?`<section class="ll-sec" style="padding-bottom:0"><div class="ll-wrap"><div class="ll-back"><div><h2>${L.backH}</h2><p class="muted" style="margin:4px 0 0">${last?`${L.backI} <b>${esc(title(subjOf(last.s)))} → ${last.label}</b>`:L.backI}</p><div class="rings">${MAP.map(ring).join("")}</div><p class="note">${L.backNote}</p></div>${last?`<a class="ll-btn ink" href="${last.href}">${L.contBtn}</a>`:""}</div></div></section>`:""}
+  ${showBack?`<section class="ll-sec" style="padding-bottom:0"><div class="ll-wrap"><div class="ll-back"><div><h2>${AUTH.user?AU[LANG].hello(esc(AUTH.user.name.split(" ")[0])):L.backH}</h2><p class="muted" style="margin:4px 0 0">${last?`${L.backI} <b>${esc(title(subjOf(last.s)))} → ${last.label}</b>`:L.backI}</p><div class="rings">${MAP.map(ring).join("")}</div><p class="note">${AUTH.user?AU[LANG].synced:L.backNote}</p></div>${last?`<a class="ll-btn ink" href="${last.href}">${L.contBtn}</a>`:""}</div></div></section>`:""}
 
   <section class="ll-sec" id="ll-explore" aria-labelledby="ll-ex"><div class="ll-wrap">
     <h2 id="ll-ex">${L.exploreH}</h2><p class="intro">${L.exploreI}</p>
@@ -134,7 +134,7 @@ function viewLanding(){
     <div class="ll-ctas"><a class="ll-btn primary" href="${startHref}">${last?L.cont:L.start}</a><a class="ll-btn ghost" href="#" data-jump="ll-explore">${L.explore}</a></div>
   </div></section>
   <footer class="ll-foot"><div class="ll-wrap">
-    <div><div class="fb" style="color:var(--chalk)">${logoMark()}<span>Let's Learn</span></div><p style="margin:0;max-width:36em">${L.credit}</p></div>
+    <div><div class="fb" style="color:var(--chalk)">${logoMark()}<span>Let's Learn</span></div><p style="margin:0;max-width:36em">${L.credit}</p><p style="margin:10px 0 0;color:var(--chalk)">${CREDIT[LANG]}</p></div>
     <div><h4>${L.fSubjects}</h4>${MAP.map(s=>`<a href="${href(s.key)}">${title(s)}</a>`).join("")}</div>
     <div><h4>${L.fSite}</h4><a href="#" data-jump="ll-how">${L.fHow}</a><a href="#" data-jump="ll-explore">${L.explore}</a><a href="#" data-jump="ll-h1">${L.fTop}</a></div>
   </div></footer>`;

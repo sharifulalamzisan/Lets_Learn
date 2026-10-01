@@ -10,3 +10,11 @@ This repo is the user's Class 10 science website (Bangla + English). Vercel depl
   every page must report `"w":400` and no errors.
 - Writing new chapters: follow `src/site/AGENT_BRIEF*.md` (book OCR is not in the repo; ask the user for the PDFs if needed).
 - Commit with a clear message and push to `main`.
+
+## Accounts (api/)
+- `api/*.js` are Vercel serverless functions (CommonJS, no npm deps). Storage is Upstash Redis via its REST API
+  (env `KV_REST_API_URL`/`KV_REST_API_TOKEN` or `UPSTASH_REDIS_REST_URL`/`_TOKEN`); optional `AUTH_SECRET` signs session cookies.
+- Passwords: scrypt with per-user salt. Sessions: HMAC-signed HttpOnly cookie `ll_session` (30 days).
+- Keys: `user:<LL-ID>`, `contact:<email|+880phone>` → LL-ID, `llid:<LL-ID>`, `progress:<LL-ID>`, `rl:<contact>`.
+- If the API/DB is missing, the front end hides login and the site works as before.
+- Local test: `LL_LOCAL=1 node src/devserver.js 8767` (in-memory store) then open http://localhost:8767/.

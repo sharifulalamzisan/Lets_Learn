@@ -206,6 +206,7 @@ def assemble():
     js = "\n".join(parts)
     app = app.replace("/*__LANDINGCSS__*/", open(os.path.join(root, "landing.css"), encoding="utf-8").read())
     app = app.replace("/*__LANDINGJS__*/", open(os.path.join(root, "landing.js"), encoding="utf-8").read())
+    app = app.replace("/*__ACCOUNTSJS__*/", open(os.path.join(root, "accounts.js"), encoding="utf-8").read())
     open(os.path.join(root, "index.html"), "w", encoding="utf-8").write(app.replace("/*__WIDGETS__*/", js))
     open(os.path.join(root, "out", "index.html"), "w", encoding="utf-8").write('<meta charset="utf-8">\n' + app.replace("/*__WIDGETS__*/", js))
 
