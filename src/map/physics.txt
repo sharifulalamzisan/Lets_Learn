@@ -1,0 +1,359 @@
+S physics|Physics|পদার্থবিজ্ঞান
+C 1|Physical Quantities and Their Measurements|ভৌত রাশি এবং তাদের পরিমাপ|1-30
+T 1.1|What is physics? Its scope and branches|পদার্থবিজ্ঞান কী? এর পরিসর ও শাখা|D
+- Physics as the most fundamental science; matter and energy
+- Classical physics (mechanics, sound, heat, electricity & magnetism, optics) vs modern physics
+- Physics in other fields: biophysics, geophysics, astrophysics, medical physics
+T 1.3|Development of physics (history)|পদার্থবিজ্ঞানের ক্রমবিকাশ|D
+- 1.3.1 Initial stage: Greek, Indian, Chinese and Muslim contributions (Archimedes, Al-Khwarizmi)
+- 1.3.2 Rising stage: Copernicus, Galileo (experiment + observation), Newton
+- 1.3.3 Emergence of modern physics: Maxwell, Rutherford, Marie Curie, Einstein, Satyendranath Bose
+- 1.3.4 Contemporary physics
+- 1.3.5 Contributions of Acharya Jagadish Chandra Bose
+T 1.4|Objectives of physics|পদার্থবিজ্ঞানের উদ্দেশ্য|
+- 1.4.1 To unfold the mystery of nature
+- 1.4.2 To know the laws of nature
+- 1.4.3 To develop technology using the laws of nature
+T 1.5|Physical quantities: fundamental and derived|ভৌত রাশি: মৌলিক ও লব্ধ রাশি|D
+- Magnitude + unit; the seven SI base quantities (length, mass, time, temperature, current, luminous intensity, amount of substance)
+- Very large to very small values of distance, mass and time (orders of magnitude)
+T 1.5.1|Units of measurement and the SI system|পরিমাপের একক ও এককের আন্তর্জাতিক পদ্ধতি (SI)|D
+- Need for a common international system
+- Modern definitions of the seven base units from fixed constants (second, metre, kilogram, ampere, kelvin, mole, candela)
+T 1.5.2|Prefixes: multiples and sub-multiples|উপসর্গ বা গুণিতক|F,N,I
+- kilo, mega, giga… milli, micro, nano, pico etc.; converting between prefixed units
+T 1.5.3|Dimension of physical quantities|মাত্রা|F,N
+- Dimensions M, L, T; dimension of velocity [LT⁻¹], acceleration [LT⁻²], force [MLT⁻²]
+- Checking whether an equation is dimensionally consistent
+T 1.5.4|Scientific symbols and notations|বৈজ্ঞানিক প্রতীক ও সংকেত|
+- Writing units and symbols correctly (m s⁻¹ or m/s); scientific notation for big/small numbers
+T 1.6|Measuring instruments: scale, vernier calipers and screw gauge|পরিমাপের যন্ত্রপাতি: স্কেল, স্লাইড ক্যালিপার্স ও স্ক্রু গজ|F,D,N,I,X
+- 1.6.1 Metre scale and its limitation
+- Vernier scale; vernier constant VC = s/n; reading = main scale + vernier coincidence × VC
+- Screw gauge: pitch, least count, circular scale reading
+- Making a paper slide calipers (activity); Investigation 1.01: length, breadth, height and volume of a block
+T 1.6.2|Balance and stop watch|ব্যালান্স ও থামা ঘড়ি|D
+- 1.6.2 Balance (beam and digital) for measuring mass
+- 1.6.3 Stop watch for measuring time accurately
+T 1.7|Error and accuracy in measurement|পরিমাপের ত্রুটি ও নির্ভুলতা|F,N
+- Absolute error, relative error, percentage error
+- How error grows when calculating area and volume from measured lengths
+K Relative error = absolute error / measured value; % error = relative error × 100%
+
+C 2|Motion|গতি|31-60
+T 2.1|Rest and motion|স্থিতি এবং গতি|D,V
+- Rest and motion are relative; reference frame / reference point
+T 2.2|Different types of motion|বিভিন্ন প্রকার গতি|D,V
+- Linear, circular, rotational, translational motion
+- Periodic, oscillatory (vibratory) motion, simple harmonic motion (introduction)
+- Investigation 2.02: playing with different kinds of motion
+T 2.3|Scalar and vector quantities|স্কেলার ও ভেক্টর রাশি|D
+- Magnitude only vs magnitude + direction; examples; representing a vector by an arrow
+T 2.4|Distance and displacement|দূরত্ব ও সরণ|F,D,V
+- Path length vs straight-line change of position; AB = −BA; dimension L
+T 2.5|Speed and velocity|দ্রুতি এবং বেগ|F,N,D
+- Uniform and non-uniform speed/velocity; average speed; average velocity; instantaneous velocity
+- Units (m/s, km/h) and conversion; dimension LT⁻¹
+- Investigation 2.03: average speed of vehicles
+K v = s/t
+T 2.6|Acceleration and deceleration|ত্বরণ ও মন্দন|F,N,D
+- Uniform and non-uniform acceleration; negative acceleration (deceleration)
+K a = (v − u)/t; unit m s⁻²; dimension LT⁻²
+T 2.7|Equations of motion|গতির সমীকরণ|F,N,D,I
+- Derivation for uniform acceleration from v–t graph / average velocity
+- Solving problems: car braking, bullets, trains
+K v = u + at;  s = ut + ½at²;  v² = u² + 2as;  s = ((u+v)/2)t
+T 2.8|Free fall and the laws of falling bodies|মুক্তভাবে পড়ন্ত বস্তু ও পড়ন্ত বস্তুর সূত্র|F,N,D,V
+- Galileo's three laws of falling bodies; acceleration due to gravity g ≈ 9.8 m s⁻²
+- Motion thrown upward: v² = u² − 2gh, maximum height
+K v = gt; h = ½gt²; v² = 2gh
+T 2.9|Motion graphs: distance–time and velocity–time|গতির লেখচিত্র: দূরত্ব–সময় ও বেগ–সময়|F,D,I
+- Slope of distance–time graph = velocity; slope of velocity–time graph = acceleration; area = distance
+- Investigation 2.01: marble rolling on an inclined plane (measuring time by counting)
+N Not a numbered section in the book; built from the graph discussion after 2.8 (pages 55–58) as its own lesson.
+
+C 3|Force|বল|61-97
+T 3.1|Inertia and Newton's first law of motion|জড়তা এবং বলের ধারণা: নিউটনের প্রথম গতিসূত্র|D,V
+- Statement of Newton's first law
+- 3.1.1 Inertia: inertia of rest and inertia of motion, everyday examples; mass as measure of inertia
+- 3.1.2 Force: what force is, qualitative definition from first law
+T 3.2|Fundamental forces of nature|মৌলিক বলের প্রকৃতি|D
+- 3.2.1 Gravitational force  - 3.2.2 Electromagnetic force
+- 3.2.3 Weak nuclear force  - 3.2.4 Strong nuclear force; relative strength and range
+T 3.3|Balanced and unbalanced forces|বলের সাম্যাবস্থা ও অসাম্যাবস্থা|D,V
+- Resultant force; tug-of-war; why a rope cannot be pulled perfectly straight
+T 3.4|Momentum|ভরবেগ|F,N
+K p = mv; unit kg m s⁻¹; dimension MLT⁻¹; change of momentum on bouncing = 2mv
+T 3.5|Collision and conservation of momentum|সংঘর্ষ এবং ভরবেগ ও শক্তির সংরক্ষণশীলতা|F,N,D,V,I
+- 3.5.1 Conservation of momentum and kinetic energy in elastic collision; velocity after collision
+- Experiment with coins/marbles (Fig 3.05)
+- 3.5.2 Safe journey: velocity, momentum and road accidents
+K m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂
+T 3.6|Newton's second law of motion|বস্তুর গতির ওপর বলের প্রভাব: নিউটনের দ্বিতীয় গতিসূত্র|F,N,D,I
+- Rate of change of momentum ∝ force; derivation of F = ma; unit newton; dimension MLT⁻²
+- Worked problems combining F = ma with equations of motion
+K F = ma
+T 3.7|Gravitation, weight and acceleration due to gravity|মহাকর্ষ বল, ওজন ও অভিকর্ষজ ত্বরণ|F,N,D
+- Newton's law of universal gravitation; G = 6.67 × 10⁻¹¹ N m² kg⁻²
+- g = GM/R²; variation of g with height; weightlessness of astronauts
+- Weight W = mg; tension in strings and pulleys (Figs 3.09–3.10); lift problems
+- Activity: making a spring balance with a rubber band
+K F = G m₁m₂ / d²; g = GM/R²; W = mg
+T 3.8|Newton's third law of motion|নিউটনের তৃতীয় গতিসূত্র|D,N
+- Action and reaction act on different bodies; walking, rowing, rockets, earth–ball attraction
+T 3.9|Friction|ঘর্ষণ বল|F,D,N
+- Why friction arises (surface irregularities)
+- 3.9.1 Types: static, kinetic (sliding) and rolling friction; coefficient of friction
+- 3.9.2 Effects of friction on motion: tyres, road smoothness, braking force
+- 3.9.3 Increasing and decreasing friction (ball bearings, lubricants, treads)
+- 3.9.4 Friction: a necessary evil
+K fs ≤ μs N; fk = μk N
+
+C 4|Work, Power and Energy|কাজ, ক্ষমতা ও শক্তি|98-126
+T 4.1|Work|কাজ|F,N,D
+- Work in physics vs everyday meaning; positive and negative work; work against friction
+K W = Fs; unit joule; dimension ML²T⁻²
+T 4.2|Energy|শক্তি|
+- Energy as capacity to do work; unit joule; many forms
+T 4.3.1|Kinetic energy|গতিশক্তি|F,N,D
+- Derivation of ½mv²; work–energy theorem
+K Ek = ½mv²
+T 4.3.2|Potential energy (elastic and gravitational)|বিভবশক্তি (স্থিতিস্থাপক ও মহাকর্ষীয়)|F,N,D
+- Elastic potential energy of a spring ½kx²
+- Gravitational potential energy mgh; falling body v² = 2gh
+K Ep = mgh; spring: ½kx²
+T 4.4|Sources of energy: renewable and non-renewable|শক্তির উৎস: নবায়নযোগ্য ও অনবায়নযোগ্য|D
+- 4.4.1 Non-renewable: coal, oil, natural gas, nuclear
+- 4.4.2 Renewable: solar, hydroelectricity, biomass, wind, biofuel, geothermal
+- 4.4.3 Transformation of energy and its impact on environment
+T 4.5|Conservation and transformation of energy|শক্তির নিত্যতা ও রূপান্তর|D,V,I
+- 4.5.1 Law of conservation of energy; pendulum (KE ↔ PE)
+- 4.5.2 Transformation: electrical, chemical, heat, mechanical, nuclear; nuclear power plant (Rooppur)
+T 4.6|Mass–energy relation|ভর ও শক্তির সম্পর্ক|F,D
+- Einstein's E = mc²; fission of uranium-235; energy from nuclear reactions
+K E = mc²
+T 4.7|Power|ক্ষমতা|F,N,X
+- Rate of doing work; watt, kilowatt
+- Investigation 4.01: measure your own power by climbing stairs
+K P = W/t; dimension ML²T⁻³
+T 4.8|Efficiency|কর্মদক্ষতা|F,N
+K Efficiency = (useful output energy / input energy) × 100%
+
+C 5|State of Matter and Pressure|পদার্থের অবস্থা ও চাপ|127-159
+T 5.1|Pressure|চাপ|F,N,D
+- Force per unit area; why sharp knives cut; lying vs standing
+K P = F/A; unit pascal (N m⁻²); dimension ML⁻¹T⁻²
+T 5.2|Density and its uses|ঘনত্ব ও এর ব্যবহার|F,N,X
+- Definition, unit (kg m⁻³), densities of common substances; density of a nucleus
+- 5.2.1 Uses of density in daily life (purity tests, floating, choosing materials)
+- Investigation: determine the density of a solid/liquid
+K ρ = m/V
+T 5.3|Pressure in liquids|তরলের ভেতর চাপ|F,N,D,V
+- Pressure increases with depth; same at a given depth in all directions; dams
+K P = hρg
+T 5.3.1|Buoyancy and Archimedes' principle|আর্কিমিডিসের নীতি এবং প্লবতা|F,N,D,V
+- Derivation of upthrust from pressure difference; apparent loss of weight
+K Upthrust = Vρg (weight of displaced fluid)
+T 5.3.2|Floating and sinking|বস্তুর ভেসে থাকা বা ডুবে যাওয়া|F,N,D
+- Condition for floating; fraction immersed; ships, ice, river vs sea water
+T 5.3.3|Pascal's law and its applications|প্যাসকেলের সূত্র ও এর প্রয়োগ|F,N,D,V
+- Transmission of pressure in liquids; hydraulic press, hydraulic brake; work in = work out
+K F₂ = F₁ (A₂/A₁)
+T 5.4|Atmospheric pressure|বাতাসের চাপ|F,D,N
+- Air has weight; evidence (evacuated can); decrease of pressure with height
+- 5.4.1 Torricelli's experiment and the barometer (76 cm Hg)
+- 5.4.2 Air pressure and weather forecasting
+T 5.5|Elasticity: stress, strain and Hooke's law|স্থিতিস্থাপকতা: পীড়ন, বিকৃতি ও হুকের সূত্র|F,N,D
+- Stress, strain; Hooke's law; Young's modulus (table); bulk modulus
+K Stress = F/A; Strain = ΔL/L; Y = stress/strain
+T 5.6|Three states of matter and kinetic molecular theory|পদার্থের তিন অবস্থা ও আণবিক গতিতত্ত্ব|D,V
+- Molecular arrangement of solid, liquid, gas
+- 5.6.1 Kinetic molecular theory of matter
+- 5.6.2 Fourth state: plasma
+
+C 6|Effect of Heat on Matter|বস্তুর ওপর তাপের প্রভাব|160-186
+T 6.1|Heat, temperature and internal energy|তাপ, তাপমাত্রা ও অভ্যন্তরীণ শক্তি|D
+- Difference between heat and temperature
+- 6.1.1 Internal energy and flow of heat; thermal equilibrium
+T 6.2|Thermometric properties and temperature scales|পদার্থের তাপমাত্রিক ধর্ম ও তাপমাত্রার স্কেল|F,N,D,I
+- Thermometric properties; fixed points; Celsius, Fahrenheit, Kelvin
+- 6.2.1 Relation between scales
+K T_C/5 = (T_F − 32)/9 = (T_K − 273.15)/5
+T 6.3.1|Thermal expansion of solids|কঠিন পদার্থের প্রসারণ|F,N,D
+- Linear (α), area (β) and volume (γ) expansion; β = 2α, γ = 3α
+K L₂ = L₁[1 + α(T₂ − T₁)]
+T 6.3.2|Expansion of liquids and gases|তরল ও গ্যাসের প্রসারণ|F,D
+- 6.3.2 Real and apparent expansion of liquids
+- 6.3.3 Expansion of gases; PV = nRT
+T 6.4|Change of state: melting, boiling, evaporation and latent heat|পদার্থের অবস্থার পরিবর্তনে তাপের প্রভাব: গলন, স্ফুটন, বাষ্পায়ন ও সুপ্ততাপ|D,V,I
+- Melting (fusion) and melting point; latent heat of fusion
+- Boiling and boiling point; latent heat of vaporization; condensation, solidification
+- Heating curve (temperature stays constant during change of state)
+- Evaporation at any temperature; factors (air flow, surface area, nature of liquid, air pressure, temperature, dryness of air); evaporation causes cooling; energy of cyclones
+T 6.5|Specific heat and heat capacity|আপেক্ষিক তাপ ও তাপ ধারণ ক্ষমতা|F,N
+K Q = msΔT; C = ms
+T 6.6|Principle of calorimetry|ক্যালরিমিতির মূলনীতি|F,N,I
+- Heat lost = heat gained; mixing problems (ice + water, hot + cold water, hot iron in water)
+T 6.7|Effect of pressure on melting and boiling point|গলনাঙ্ক এবং স্ফুটনাঙ্কের ওপর চাপের প্রভাব|D
+- Boiling point rises with pressure (pressure cooker) and falls when pressure is low; melting point of ice falls with pressure (wire cutting through an ice bar)
+
+C 7|Waves and Sound|তরঙ্গ ও শব্দ|187-210
+T 7.1|Simple harmonic motion|সরল স্পন্দন গতি|D,V
+- Spring–mass system; restoring force; equilibrium position; oscillation
+T 7.2|Waves and their characteristics|তরঙ্গ ও এর বৈশিষ্ট্য|D,V
+- Waves carry energy, not matter
+- 7.2.1 Characteristics: reflection, superposition (addition of two waves)
+T 7.2.2|Transverse and longitudinal waves|অনুপ্রস্থ তরঙ্গ ও অনুদৈর্ঘ্য তরঙ্গ|D,V
+- Crest and trough; compression and rarefaction; sound as a longitudinal wave
+T 7.2.3|Wave-related quantities|তরঙ্গ-সংশ্লিষ্ট রাশি|F,N,D,I
+- Amplitude, wavelength, frequency, time period, phase, wave velocity
+- Graphs of a wave against position and against time
+K v = fλ; T = 1/f
+T 7.3|Sound waves and their characteristics|শব্দতরঙ্গ ও এর বৈশিষ্ট্য|F,D
+- Sound needs a medium; audible range 20 Hz–20 kHz; infrasonic and ultrasonic sound
+- Characteristics: mechanical longitudinal wave, speed depends on medium, intensity ∝ (amplitude)², can reflect, refract and superpose
+- Activity: string-and-cup telephone (sound travels through solids)
+T 7.3.1|Echo|প্রতিধ্বনি|F,N,D
+- Condition for echo (persistence of hearing 0.1 s ⇒ minimum distance ≈ 17 m); measuring depth
+K d = vt/2
+T 7.3.2|Variation of the velocity of sound|শব্দের বেগের পার্থক্য|F,N
+- Speed in different media (table); effect of temperature, humidity
+T 7.3.3|Uses of sound (ultrasound, SONAR)|শব্দের ব্যবহার|D
+- SONAR, ultrasound imaging, ultrasonic cleaner, bats and dolphins
+T 7.3.4|Musical sound and musical instruments|সুরযুক্ত শব্দ ও বাদ্যযন্ত্র|D
+- Musical sound vs noise; string, wind and percussion instruments
+T 7.3.5|Sound pollution|শব্দের দূষণ|D
+- Decibel scale (table of sources); health effects; headphones; prevention
+
+C 8|Reflection of Light|আলোর প্রতিফলন|211-241
+T 8.1|Nature of light|আলোর প্রকৃতি|D
+- Light as an electromagnetic wave; visible spectrum; sensitivity of the eye to colours
+T 8.2|Reflection of light and its laws|আলোর প্রতিফলন ও এর সূত্র|D,V,I
+- Incident ray, reflected ray, normal, angles
+- 8.2.1 Two laws of reflection; multiple images between parallel mirrors
+T 8.2.2|Reflection, absorption and colour of objects|প্রতিফলন, শোষণ ও বস্তুর বর্ণ|D
+- Why a rose looks red; objects under coloured light; reflection increases at larger angle
+- 8.2.3 Regular reflection (smooth surface) and diffuse reflection (rough surface)
+T 8.3|Plane mirror and image formation|সমতল আয়না ও প্রতিবিম্ব গঠন|D,V,I
+- 8.3.1 Real and virtual images; drawing the image of a point and an extended object
+- Kaleidoscope; minimum mirror height to see full image; pinhole image
+T 8.4|Spherical mirrors: key terms|গোলীয় আয়না: প্রয়োজনীয় সংজ্ঞা|D
+- Pole, centre of curvature, radius of curvature, principal axis, principal focus, focal length
+T 8.5|Convex mirror and its images|উত্তল আয়না ও প্রতিবিম্ব|F,D,I
+- f = r/2 (proof); 8.5.1 image always virtual, erect, diminished
+K f = r/2
+T 8.6|Concave mirror and its images|অবতল আয়না ও প্রতিবিম্ব|D,I
+- Focal length of a concave mirror; 8.6.1 image for different object positions (table), ray diagrams
+T 8.7|Magnification|বিবর্ধন|F,N
+K m = image height / object height = image distance / object distance
+T 8.8|Uses of mirrors|আয়নার ব্যবহার|D
+- 8.8.1 Plane mirror (lateral inversion, periscope)  - 8.8.2 Convex mirror (rear-view)
+- 8.8.3 Concave mirror (telescope, search light, torch, dentist)  - 8.8.5 Mirrors at blind turns of hilly roads
+N The English book numbers the hilly-roads section 8.8.5 (it has no 8.8.4); the Bangla book numbers the same section 8.8.4.
+
+C 9|Refraction of Light|আলোর প্রতিসরণ|242-269
+T 9.1|Refraction of light and refractive index|আলোর প্রতিসরণ ও প্রতিসরণাঙ্ক|D,V
+- Change in speed and direction; refractive index table
+T 9.1.1|Laws of refraction (Snell's law)|প্রতিসরণের সূত্র (স্নেলের সূত্র)|F,N,D,I
+- Bending towards/away from the normal; worked examples
+K n₁ sin θ₁ = n₂ sin θ₂
+T 9.1.2|Relative refractive index|আপেক্ষিক প্রতিসরণাঙ্ক|F,N
+K ₁n₂ = n₂/n₁
+T 9.2|Total internal reflection and critical angle|পূর্ণ অভ্যন্তরীণ প্রতিফলন ও ক্রান্তি কোণ|F,N,D,V
+- Denser to rarer medium; critical angle; sin θc = 1/n
+T 9.2.1|Rainbow and mirage|রংধনু ও মরীচিকা|D
+- 9.2.1 Rainbow formation  - 9.2.2 Mirage in deserts and on hot roads
+T 9.3|Uses of refraction: optical fibre, prism, periscope|প্রতিসরণের ব্যবহার: অপটিক্যাল ফাইবার, প্রিজম, পেরিস্কোপ|D
+- 9.3.1 Optical fibre  - 9.3.2 Prism (deviation and dispersion)  - 9.3.3 Periscope and binoculars (prism-based)
+T 9.4|Lenses: types and terms|লেন্স: প্রকারভেদ ও সংজ্ঞা|D
+- 9.3.4/9.4 Convex (converging) and concave (diverging) lenses; optical centre, principal axis, focus, focal length
+T 9.4.1|Image formation by a concave lens|অবতল লেন্সে প্রতিবিম্ব|D,I
+T 9.4.2|Image formation by a convex lens|উত্তল লেন্সে প্রতিবিম্ব|D,I
+- Object within f, between f and 2f, at 2f, beyond 2f — nature, position and size of image
+T 9.4.3|Power of a lens|লেন্সের ক্ষমতা|F,N
+K P = 1/f (f in metres); unit dioptre (D); convex +, concave −
+
+C 10|Static Electricity|স্থির বিদ্যুৎ|270-298
+T 10.1|Electric charge|আধান বা চার্জ|D
+- Atomic structure; electrons and protons; positive and negative charge; unit coulomb; e = 1.6 × 10⁻¹⁹ C
+T 10.2|Charging by friction|ঘর্ষণে স্থির বিদ্যুৎ তৈরি|D,V
+- Glass–silk, plastic–flannel; like charges repel, unlike attract
+T 10.3|Electrostatic induction and the electroscope|আবেশ ও তড়িৎবীক্ষণ যন্ত্র|D,V
+- 10.3 Induction; charging two spheres oppositely
+- 10.3.1 Gold-leaf/metal-leaf electroscope: charging, detecting type of charge
+- Investigation 10.01: friction and induction
+T 10.4|Electric force: Coulomb's law|বৈদ্যুতিক বল: কুলম্বের সূত্র|F,N,I
+K F = k q₁q₂ / r²; k = 9 × 10⁹ N m² C⁻²
+T 10.5|Electric field and lines of force|তড়িৎ ক্ষেত্র ও বলরেখা|F,D,V
+- Field intensity; properties of lines of force; field of single and pairs of charges
+K E = F/q
+T 10.6|Electric potential and potential difference|তড়িৎ বিভব ও বিভব পার্থক্য|F,N
+- Work done bringing a charge; V = kq/r; 10.6.1 potential difference; volt
+T 10.7|Capacitor|ধারক|F,N,D
+- Parallel-plate capacitor; storing charge; capacitance
+K C = Q/V
+T 10.8|Uses and dangers of static electricity|স্থির বিদ্যুতের ব্যবহার ও বিপদ|D
+- 10.8.1 Photocopier  - 10.8.2 Van de Graaff generator  - 10.8.3 Fuel trucks (earthing)
+- 10.8.4 Electronics  - 10.8.5 Lightning and lightning arrester  - 10.8.6 Electrostatic spray painting
+
+C 11|Current Electricity|চল বিদ্যুৎ|299-329
+T 11.1|Electric current|তড়িৎ প্রবাহ|F,N,D
+- Flow of charge between charged spheres; unit ampere
+K I = Q/t
+T 11.1.1|Electromotive force and potential difference|তড়িৎ চালক শক্তি এবং বিভব পার্থক্য|F,D
+- EMF of a cell; combining cells to make 1.5 V, 3 V, −1.5 V, −3 V
+T 11.1.2|Conductor, insulator and semiconductor|পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহী পদার্থ|D
+T 11.1.3|Direction of current|বিদ্যুৎপ্রবাহের দিক|D
+- Conventional current vs electron flow
+T 11.2.1|Ohm's law|ওহমের সূত্র|F,N,D,I
+- V–I relationship experiment; graph; triangle for V = IR
+K V = IR
+T 11.2.2|Resistance and resistivity|রোধ ও আপেক্ষিক রোধ|F,N,D
+- Factors: length, area, material, temperature; specific resistance table; conductivity
+- Fixed and variable resistors (rheostat)
+K R = ρL/A; σ = 1/ρ
+T 11.2.3|Circuit analysis|বর্তনী বা সার্কিট বিশ্লেষণ|F,N,D,I
+- Circuit symbols; potential at different points; voltage drops
+T 11.2.4|Series and parallel combination of resistors|তুল্য রোধ: শ্রেণি ও সমান্তরাল সংযোগ|F,N,D,I
+- 11.2.4 Series: R = R₁ + R₂ + …  - 11.2.5 Parallel: 1/R = 1/R₁ + 1/R₂ + …
+T 11.3|Electric power and energy|তড়িৎ ক্ষমতা ও শক্তি|F,N,I
+- Watt, kilowatt-hour (unit/BOT unit); calculating an electricity bill
+K P = VI = I²R = V²/R; W = Pt
+T 11.4|Electricity supply, system loss and load shedding|বিদ্যুৎ সরবরাহ, সিস্টেম লস ও লোডশেডিং|D
+- 11.4.1 System loss  - 11.4.2 Load shedding
+T 11.5|Safe use of electricity|বিদ্যুতের নিরাপদ ব্যবহার|D
+- Fuse, circuit breaker, earthing, switch on live wire, insulation; dangerous activities
+T 11.6|Electrical circuit design for a house|বাসাবাড়ির বৈদ্যুতিক বর্তনীর নকশা|D
+- Consumer unit, live/neutral/earth, lighting and socket circuits
+
+C 12|Magnetic Effects of Current|বিদ্যুতের চৌম্বক ক্রিয়া|330-346
+T 12.1|Magnet and magnetic field|চুম্বক ও চৌম্বকক্ষেত্র|D,V
+- Poles; attraction and repulsion; magnetic field lines
+T 12.2|Magnetic effect of current|বিদ্যুতের চৌম্বক ক্রিয়া|D,V
+- Oersted's observation; field around a straight wire; right-hand grip rule
+T 12.2.1|Solenoid and electromagnet|সলিনয়েড ও তাড়িতচুম্বক|D,V
+- 12.2.1 Solenoid field  - 12.2.2 Electromagnet and its uses
+T 12.2.3|Force on a current-carrying wire and the DC motor|তড়িৎবাহী তারের ওপর বল ও ডিসি মোটর|D,V
+- 12.2.3 Current-carrying wire in a magnetic field experiences a force
+- 12.2.4 DC motor: structure and working; commutator
+T 12.3|Electromagnetic induction|তড়িৎ চুম্বকীয় আবেশ|D,V
+- Faraday's experiment; induced current from changing magnetic field
+T 12.3.1|Generator|জেনারেটর|D,V
+T 12.3.2|Transformer|ট্রান্সফরমার|F,N,D
+- Step-up and step-down; use in power transmission
+K Vp/Vs = Np/Ns; ideal: VpIp = VsIs
+
+C 13|Radioactivity and Electronics|তেজস্ক্রিয়তা ও ইলেকট্রনিকস|347-363
+T 13.1|Radioactivity|তেজস্ক্রিয়তা|D
+- Discovery (Becquerel, Curie); unstable nuclei; nuclear notation (e.g. ¹⁴₆C)
+T 13.1.1|Alpha, beta and gamma rays|আলফা, বিটা ও গামা রশ্মি|D,V
+- 13.1.1 Alpha  - 13.1.2 Beta (with antineutrino)  - 13.1.3 Gamma; charge, mass, penetration power
+T 13.1.4|Half-life|অর্ধায়ু|F,N,I
+K Remaining = original × (½)^(t/T½)
+T 13.1.5|Uses of radioactivity and precautions|তেজস্ক্রিয়তার ব্যবহার ও সচেতনতা|D
+- 13.1.5 Medicine, agriculture, industry, carbon dating  - 13.1.6 Cautions and hazard symbol
+T 13.2|Development of electronics|ইলেকট্রনিক্সের ক্রমবিকাশ|D
+- 13.2.1 Vacuum tube  - 13.2.2 Transistor  - 13.2.3 Integrated circuit  - 13.2.4 Electronics of the future
+T 13.3|Analog and digital electronics|অ্যানালগ ও ডিজিটাল ইলেকট্রনিক্স|D,V
+T 13.4|Semiconductors|সেমিকন্ডাক্টর বা অর্ধপরিবাহী|D
+- Silicon crystal; n-type (phosphorus) and p-type semiconductors; joining p and n types

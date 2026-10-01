@@ -1,0 +1,5151 @@
+[
+ {
+  "key": "physics",
+  "en": "Physics",
+  "bn": "পদার্থবিজ্ঞান",
+  "chapters": [
+   {
+    "n": 1,
+    "en": "Physical Quantities and Their Measurements",
+    "bn": "মাপজোকের বিজ্ঞান: ভৌত রাশি ও পরিমাপ",
+    "pages": "1-30",
+    "topics": [
+     {
+      "id": "1.1",
+      "en": "What is physics? Its scope and branches",
+      "bn": "পদার্থবিজ্ঞান আসলে কী নিয়ে পড়ে?",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Physics as the most fundamental science; matter and energy",
+       "Classical physics (mechanics, sound, heat, electricity & magnetism, optics) vs modern physics",
+       "Physics in other fields: biophysics, geophysics, astrophysics, medical physics"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পদার্থবিজ্ঞান কী? এর পরিসর ও শাখা"
+     },
+     {
+      "id": "1.3",
+      "en": "Development of physics (history)",
+      "bn": "পদার্থবিজ্ঞান কীভাবে এত দূর এল: বিজ্ঞানীদের গল্প",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "1.3.1 Initial stage: Greek, Indian, Chinese and Muslim contributions (Archimedes, Al-Khwarizmi)",
+       "1.3.2 Rising stage: Copernicus, Galileo (experiment + observation), Newton",
+       "1.3.3 Emergence of modern physics: Maxwell, Rutherford, Marie Curie, Einstein, Satyendranath Bose",
+       "1.3.4 Contemporary physics",
+       "1.3.5 Contributions of Acharya Jagadish Chandra Bose"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পদার্থবিজ্ঞানের ক্রমবিকাশ"
+     },
+     {
+      "id": "1.4",
+      "en": "Objectives of physics",
+      "bn": "পদার্থবিজ্ঞান পড়ে আমরা কী পাই?",
+      "tags": [],
+      "subs": [
+       "1.4.1 To unfold the mystery of nature",
+       "1.4.2 To know the laws of nature",
+       "1.4.3 To develop technology using the laws of nature"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পদার্থবিজ্ঞানের উদ্দেশ্য"
+     },
+     {
+      "id": "1.5",
+      "en": "Physical quantities: fundamental and derived",
+      "bn": "ভৌত রাশি কী? মৌলিক আর লব্ধ রাশি চিনি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Magnitude + unit; the seven SI base quantities (length, mass, time, temperature, current, luminous intensity, amount of substance)",
+       "Very large to very small values of distance, mass and time (orders of magnitude)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভৌত রাশি: মৌলিক ও লব্ধ রাশি"
+     },
+     {
+      "id": "1.5.1",
+      "en": "Units of measurement and the SI system",
+      "bn": "এককের দরকার কেন? SI একক পদ্ধতি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Need for a common international system",
+       "Modern definitions of the seven base units from fixed constants (second, metre, kilogram, ampere, kelvin, mole, candela)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরিমাপের একক ও এককের আন্তর্জাতিক পদ্ধতি (SI)"
+     },
+     {
+      "id": "1.5.2",
+      "en": "Prefixes: multiples and sub-multiples",
+      "bn": "কিলো, মিলি, ন্যানো: উপসর্গ দিয়ে বড়-ছোট সংখ্যা লেখা",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [
+       "kilo, mega, giga… milli, micro, nano, pico etc.; converting between prefixed units"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "উপসর্গ বা গুণিতক"
+     },
+     {
+      "id": "1.5.3",
+      "en": "Dimension of physical quantities",
+      "bn": "মাত্রা: কোন রাশি কী দিয়ে তৈরি?",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [
+       "Dimensions M, L, T; dimension of velocity [LT⁻¹], acceleration [LT⁻²], force [MLT⁻²]",
+       "Checking whether an equation is dimensionally consistent"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মাত্রা"
+     },
+     {
+      "id": "1.5.4",
+      "en": "Scientific symbols and notations",
+      "bn": "একক আর প্রতীক ঠিকভাবে লেখার নিয়ম",
+      "tags": [],
+      "subs": [
+       "Writing units and symbols correctly (m s⁻¹ or m/s); scientific notation for big/small numbers"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বৈজ্ঞানিক প্রতীক ও সংকেত"
+     },
+     {
+      "id": "1.6",
+      "en": "Measuring instruments: scale, vernier calipers and screw gauge",
+      "bn": "সূক্ষ্ম মাপের যন্ত্র: স্লাইড ক্যালিপার্স ও স্ক্রু গজ",
+      "tags": [
+       "F",
+       "D",
+       "N",
+       "I",
+       "X"
+      ],
+      "subs": [
+       "1.6.1 Metre scale and its limitation",
+       "Vernier scale; vernier constant VC = s/n; reading = main scale + vernier coincidence × VC",
+       "Screw gauge: pitch, least count, circular scale reading",
+       "Making a paper slide calipers (activity); Investigation 1.01: length, breadth, height and volume of a block"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরিমাপের যন্ত্রপাতি: স্কেল, স্লাইড ক্যালিপার্স ও স্ক্রু গজ"
+     },
+     {
+      "id": "1.6.2",
+      "en": "Balance and stop watch",
+      "bn": "ভর আর সময় মাপি: ব্যালান্স ও থামা ঘড়ি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "1.6.2 Balance (beam and digital) for measuring mass",
+       "1.6.3 Stop watch for measuring time accurately"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ব্যালান্স ও থামা ঘড়ি"
+     },
+     {
+      "id": "1.7",
+      "en": "Error and accuracy in measurement",
+      "bn": "মাপে ভুল হয় কেন? ত্রুটি ও নির্ভুলতা",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [
+       "Absolute error, relative error, percentage error",
+       "How error grows when calculating area and volume from measured lengths"
+      ],
+      "key": [
+       "Relative error = absolute error / measured value; % error = relative error × 100%"
+      ],
+      "notes": [],
+      "bnBook": "পরিমাপের ত্রুটি ও নির্ভুলতা"
+     }
+    ],
+    "notes": [],
+    "bnBook": "ভৌত রাশি এবং তাদের পরিমাপ"
+   },
+   {
+    "n": 2,
+    "en": "Motion",
+    "bn": "কোনো কিছু কীভাবে চলে: গতি",
+    "pages": "31-60",
+    "topics": [
+     {
+      "id": "2.1",
+      "en": "Rest and motion",
+      "bn": "থেমে আছে না চলছে? স্থিতি ও গতি আপেক্ষিক",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Rest and motion are relative; reference frame / reference point"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "স্থিতি এবং গতি"
+     },
+     {
+      "id": "2.2",
+      "en": "Different types of motion",
+      "bn": "গতি কত রকমের হয়?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Linear, circular, rotational, translational motion",
+       "Periodic, oscillatory (vibratory) motion, simple harmonic motion (introduction)",
+       "Investigation 2.02: playing with different kinds of motion"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিভিন্ন প্রকার গতি"
+     },
+     {
+      "id": "2.3",
+      "en": "Scalar and vector quantities",
+      "bn": "শুধু মান, নাকি মান আর দিক? স্কেলার ও ভেক্টর",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Magnitude only vs magnitude + direction; examples; representing a vector by an arrow"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "স্কেলার ও ভেক্টর রাশি"
+     },
+     {
+      "id": "2.4",
+      "en": "Distance and displacement",
+      "bn": "কতটা হাঁটলে আর কতটা সরলে: দূরত্ব ও সরণ",
+      "tags": [
+       "F",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Path length vs straight-line change of position; AB = −BA; dimension L"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "দূরত্ব ও সরণ"
+     },
+     {
+      "id": "2.5",
+      "en": "Speed and velocity",
+      "bn": "দ্রুতি আর বেগের পার্থক্য কোথায়?",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Uniform and non-uniform speed/velocity; average speed; average velocity; instantaneous velocity",
+       "Units (m/s, km/h) and conversion; dimension LT⁻¹",
+       "Investigation 2.03: average speed of vehicles"
+      ],
+      "key": [
+       "v = s/t"
+      ],
+      "notes": [],
+      "bnBook": "দ্রুতি এবং বেগ"
+     },
+     {
+      "id": "2.6",
+      "en": "Acceleration and deceleration",
+      "bn": "বেগ বাড়ে-কমে কীভাবে: ত্বরণ ও মন্দন",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Uniform and non-uniform acceleration; negative acceleration (deceleration)"
+      ],
+      "key": [
+       "a = (v − u)/t; unit m s⁻²; dimension LT⁻²"
+      ],
+      "notes": [],
+      "bnBook": "ত্বরণ ও মন্দন"
+     },
+     {
+      "id": "2.7",
+      "en": "Equations of motion",
+      "bn": "গতির তিন সমীকরণ: সহজে অঙ্ক কষি",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Derivation for uniform acceleration from v–t graph / average velocity",
+       "Solving problems: car braking, bullets, trains"
+      ],
+      "key": [
+       "v = u + at;  s = ut + ½at²;  v² = u² + 2as;  s = ((u+v)/2)t"
+      ],
+      "notes": [],
+      "bnBook": "গতির সমীকরণ"
+     },
+     {
+      "id": "2.8",
+      "en": "Free fall and the laws of falling bodies",
+      "bn": "ওপর থেকে ফেললে কী হয়? পড়ন্ত বস্তুর সূত্র",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Galileo's three laws of falling bodies; acceleration due to gravity g ≈ 9.8 m s⁻²",
+       "Motion thrown upward: v² = u² − 2gh, maximum height"
+      ],
+      "key": [
+       "v = gt; h = ½gt²; v² = 2gh"
+      ],
+      "notes": [],
+      "bnBook": "মুক্তভাবে পড়ন্ত বস্তু ও পড়ন্ত বস্তুর সূত্র"
+     },
+     {
+      "id": "2.9",
+      "en": "Motion graphs: distance–time and velocity–time",
+      "bn": "গ্রাফ দেখে গতি বুঝি: দূরত্ব–সময় ও বেগ–সময় লেখচিত্র",
+      "tags": [
+       "F",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Slope of distance–time graph = velocity; slope of velocity–time graph = acceleration; area = distance",
+       "Investigation 2.01: marble rolling on an inclined plane (measuring time by counting)"
+      ],
+      "key": [],
+      "notes": [
+       "Not a numbered section in the book; built from the graph discussion after 2.8 (pages 55–58) as its own lesson."
+      ],
+      "bnBook": "গতির লেখচিত্র: দূরত্ব–সময় ও বেগ–সময়"
+     }
+    ],
+    "notes": [],
+    "bnBook": "গতি"
+   },
+   {
+    "n": 3,
+    "en": "Force",
+    "bn": "ঠেলা, টান আর নিউটন: বল",
+    "pages": "61-97",
+    "topics": [
+     {
+      "id": "3.1",
+      "en": "Inertia and Newton's first law of motion",
+      "bn": "বস্তু কেন নিজের অবস্থা বদলাতে চায় না? জড়তা ও নিউটনের প্রথম সূত্র",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Statement of Newton's first law",
+       "3.1.1 Inertia: inertia of rest and inertia of motion, everyday examples; mass as measure of inertia",
+       "3.1.2 Force: what force is, qualitative definition from first law"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জড়তা এবং বলের ধারণা: নিউটনের প্রথম গতিসূত্র"
+     },
+     {
+      "id": "3.2",
+      "en": "Fundamental forces of nature",
+      "bn": "প্রকৃতির চারটি মৌলিক বল",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "3.2.1 Gravitational force",
+       "3.2.2 Electromagnetic force",
+       "3.2.3 Weak nuclear force",
+       "3.2.4 Strong nuclear force; relative strength and range"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মৌলিক বলের প্রকৃতি"
+     },
+     {
+      "id": "3.3",
+      "en": "Balanced and unbalanced forces",
+      "bn": "টানাটানিতে কে জেতে? সাম্য ও অসাম্য বল",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Resultant force; tug-of-war; why a rope cannot be pulled perfectly straight"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বলের সাম্যাবস্থা ও অসাম্যাবস্থা"
+     },
+     {
+      "id": "3.4",
+      "en": "Momentum",
+      "bn": "চলন্ত বস্তুর ধাক্কার জোর: ভরবেগ",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [],
+      "key": [
+       "p = mv; unit kg m s⁻¹; dimension MLT⁻¹; change of momentum on bouncing = 2mv"
+      ],
+      "notes": [],
+      "bnBook": "ভরবেগ"
+     },
+     {
+      "id": "3.5",
+      "en": "Collision and conservation of momentum",
+      "bn": "ধাক্কা লাগলে কী হয়? সংঘর্ষ ও ভরবেগের সংরক্ষণ",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "3.5.1 Conservation of momentum and kinetic energy in elastic collision; velocity after collision",
+       "Experiment with coins/marbles (Fig 3.05)",
+       "3.5.2 Safe journey: velocity, momentum and road accidents"
+      ],
+      "key": [
+       "m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂"
+      ],
+      "notes": [],
+      "bnBook": "সংঘর্ষ এবং ভরবেগ ও শক্তির সংরক্ষণশীলতা"
+     },
+     {
+      "id": "3.6",
+      "en": "Newton's second law of motion",
+      "bn": "বল দিলে বস্তু কতটা জোরে চলে? F = ma",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Rate of change of momentum ∝ force; derivation of F = ma; unit newton; dimension MLT⁻²",
+       "Worked problems combining F = ma with equations of motion"
+      ],
+      "key": [
+       "F = ma"
+      ],
+      "notes": [],
+      "bnBook": "বস্তুর গতির ওপর বলের প্রভাব: নিউটনের দ্বিতীয় গতিসূত্র"
+     },
+     {
+      "id": "3.7",
+      "en": "Gravitation, weight and acceleration due to gravity",
+      "bn": "সবকিছু কেন মাটিতে পড়ে? মহাকর্ষ, ওজন ও g",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Newton's law of universal gravitation; G = 6.67 × 10⁻¹¹ N m² kg⁻²",
+       "g = GM/R²; variation of g with height; weightlessness of astronauts",
+       "Weight W = mg; tension in strings and pulleys (Figs 3.09–3.10); lift problems",
+       "Activity: making a spring balance with a rubber band"
+      ],
+      "key": [
+       "F = G m₁m₂ / d²; g = GM/R²; W = mg"
+      ],
+      "notes": [],
+      "bnBook": "মহাকর্ষ বল, ওজন ও অভিকর্ষজ ত্বরণ"
+     },
+     {
+      "id": "3.8",
+      "en": "Newton's third law of motion",
+      "bn": "প্রতিটি ক্রিয়ার সমান ও বিপরীত প্রতিক্রিয়া: নিউটনের তৃতীয় সূত্র",
+      "tags": [
+       "D",
+       "N"
+      ],
+      "subs": [
+       "Action and reaction act on different bodies; walking, rowing, rockets, earth–ball attraction"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "নিউটনের তৃতীয় গতিসূত্র"
+     },
+     {
+      "id": "3.9",
+      "en": "Friction",
+      "bn": "ঘর্ষণ: শত্রু না বন্ধু?",
+      "tags": [
+       "F",
+       "D",
+       "N"
+      ],
+      "subs": [
+       "Why friction arises (surface irregularities)",
+       "3.9.1 Types: static, kinetic (sliding) and rolling friction; coefficient of friction",
+       "3.9.2 Effects of friction on motion: tyres, road smoothness, braking force",
+       "3.9.3 Increasing and decreasing friction (ball bearings, lubricants, treads)",
+       "3.9.4 Friction: a necessary evil"
+      ],
+      "key": [
+       "fs ≤ μs N; fk = μk N"
+      ],
+      "notes": [],
+      "bnBook": "ঘর্ষণ বল"
+     }
+    ],
+    "notes": [],
+    "bnBook": "বল"
+   },
+   {
+    "n": 4,
+    "en": "Work, Power and Energy",
+    "bn": "কাজ, ক্ষমতা আর শক্তির খেলা",
+    "pages": "98-126",
+    "topics": [
+     {
+      "id": "4.1",
+      "en": "Work",
+      "bn": "পদার্থবিজ্ঞানে \"কাজ\" মানে কী?",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Work in physics vs everyday meaning; positive and negative work; work against friction"
+      ],
+      "key": [
+       "W = Fs; unit joule; dimension ML²T⁻²"
+      ],
+      "notes": [],
+      "bnBook": "কাজ"
+     },
+     {
+      "id": "4.2",
+      "en": "Energy",
+      "bn": "শক্তি মানে কাজ করার সামর্থ্য",
+      "tags": [],
+      "subs": [
+       "Energy as capacity to do work; unit joule; many forms"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শক্তি"
+     },
+     {
+      "id": "4.3.1",
+      "en": "Kinetic energy",
+      "bn": "চলার শক্তি: গতিশক্তি",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Derivation of ½mv²; work–energy theorem"
+      ],
+      "key": [
+       "Ek = ½mv²"
+      ],
+      "notes": [],
+      "bnBook": "গতিশক্তি"
+     },
+     {
+      "id": "4.3.2",
+      "en": "Potential energy (elastic and gravitational)",
+      "bn": "জমিয়ে রাখা শক্তি: বিভবশক্তি",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Elastic potential energy of a spring ½kx²",
+       "Gravitational potential energy mgh; falling body v² = 2gh"
+      ],
+      "key": [
+       "Ep = mgh; spring: ½kx²"
+      ],
+      "notes": [],
+      "bnBook": "বিভবশক্তি (স্থিতিস্থাপক ও মহাকর্ষীয়)"
+     },
+     {
+      "id": "4.4",
+      "en": "Sources of energy: renewable and non-renewable",
+      "bn": "শক্তি কোথা থেকে আসে? নবায়নযোগ্য ও অনবায়নযোগ্য উৎস",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "4.4.1 Non-renewable: coal, oil, natural gas, nuclear",
+       "4.4.2 Renewable: solar, hydroelectricity, biomass, wind, biofuel, geothermal",
+       "4.4.3 Transformation of energy and its impact on environment"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শক্তির উৎস: নবায়নযোগ্য ও অনবায়নযোগ্য"
+     },
+     {
+      "id": "4.5",
+      "en": "Conservation and transformation of energy",
+      "bn": "শক্তি হারায় না, শুধু রূপ বদলায়",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "4.5.1 Law of conservation of energy; pendulum (KE ↔ PE)",
+       "4.5.2 Transformation: electrical, chemical, heat, mechanical, nuclear; nuclear power plant (Rooppur)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শক্তির নিত্যতা ও রূপান্তর"
+     },
+     {
+      "id": "4.6",
+      "en": "Mass–energy relation",
+      "bn": "ভর থেকেই শক্তি: E = mc²",
+      "tags": [
+       "F",
+       "D"
+      ],
+      "subs": [
+       "Einstein's E = mc²; fission of uranium-235; energy from nuclear reactions"
+      ],
+      "key": [
+       "E = mc²"
+      ],
+      "notes": [],
+      "bnBook": "ভর ও শক্তির সম্পর্ক"
+     },
+     {
+      "id": "4.7",
+      "en": "Power",
+      "bn": "কত তাড়াতাড়ি কাজ হয়: ক্ষমতা",
+      "tags": [
+       "F",
+       "N",
+       "X"
+      ],
+      "subs": [
+       "Rate of doing work; watt, kilowatt",
+       "Investigation 4.01: measure your own power by climbing stairs"
+      ],
+      "key": [
+       "P = W/t; dimension ML²T⁻³"
+      ],
+      "notes": [],
+      "bnBook": "ক্ষমতা"
+     },
+     {
+      "id": "4.8",
+      "en": "Efficiency",
+      "bn": "কতটা শক্তি কাজে লাগল: কর্মদক্ষতা",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [],
+      "key": [
+       "Efficiency = (useful output energy / input energy) × 100%"
+      ],
+      "notes": [],
+      "bnBook": "কর্মদক্ষতা"
+     }
+    ],
+    "notes": [],
+    "bnBook": "কাজ, ক্ষমতা ও শক্তি"
+   },
+   {
+    "n": 5,
+    "en": "State of Matter and Pressure",
+    "bn": "পদার্থের অবস্থা আর চাপের রহস্য",
+    "pages": "127-159",
+    "topics": [
+     {
+      "id": "5.1",
+      "en": "Pressure",
+      "bn": "ধারালো ছুরি কেন সহজে কাটে? চাপ",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Force per unit area; why sharp knives cut; lying vs standing"
+      ],
+      "key": [
+       "P = F/A; unit pascal (N m⁻²); dimension ML⁻¹T⁻²"
+      ],
+      "notes": [],
+      "bnBook": "চাপ"
+     },
+     {
+      "id": "5.2",
+      "en": "Density and its uses",
+      "bn": "কোনটা ভারী, কোনটা হালকা: ঘনত্ব",
+      "tags": [
+       "F",
+       "N",
+       "X"
+      ],
+      "subs": [
+       "Definition, unit (kg m⁻³), densities of common substances; density of a nucleus",
+       "5.2.1 Uses of density in daily life (purity tests, floating, choosing materials)",
+       "Investigation: determine the density of a solid/liquid"
+      ],
+      "key": [
+       "ρ = m/V"
+      ],
+      "notes": [],
+      "bnBook": "ঘনত্ব ও এর ব্যবহার"
+     },
+     {
+      "id": "5.3",
+      "en": "Pressure in liquids",
+      "bn": "পানির যত গভীরে, চাপ তত বেশি",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Pressure increases with depth; same at a given depth in all directions; dams"
+      ],
+      "key": [
+       "P = hρg"
+      ],
+      "notes": [],
+      "bnBook": "তরলের ভেতর চাপ"
+     },
+     {
+      "id": "5.3.1",
+      "en": "Buoyancy and Archimedes' principle",
+      "bn": "পানিতে জিনিস হালকা লাগে কেন? আর্কিমিডিসের নীতি ও প্লবতা",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Derivation of upthrust from pressure difference; apparent loss of weight"
+      ],
+      "key": [
+       "Upthrust = Vρg (weight of displaced fluid)"
+      ],
+      "notes": [],
+      "bnBook": "আর্কিমিডিসের নীতি এবং প্লবতা"
+     },
+     {
+      "id": "5.3.2",
+      "en": "Floating and sinking",
+      "bn": "কোনটা ভাসে, কোনটা ডোবে, কেন?",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Condition for floating; fraction immersed; ships, ice, river vs sea water"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বস্তুর ভেসে থাকা বা ডুবে যাওয়া"
+     },
+     {
+      "id": "5.3.3",
+      "en": "Pascal's law and its applications",
+      "bn": "অল্প বলে ভারী গাড়ি তোলা: প্যাসকেলের সূত্র",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Transmission of pressure in liquids; hydraulic press, hydraulic brake; work in = work out"
+      ],
+      "key": [
+       "F₂ = F₁ (A₂/A₁)"
+      ],
+      "notes": [],
+      "bnBook": "প্যাসকেলের সূত্র ও এর প্রয়োগ"
+     },
+     {
+      "id": "5.4",
+      "en": "Atmospheric pressure",
+      "bn": "আমাদের মাথার ওপর বাতাসের চাপ",
+      "tags": [
+       "F",
+       "D",
+       "N"
+      ],
+      "subs": [
+       "Air has weight; evidence (evacuated can); decrease of pressure with height",
+       "5.4.1 Torricelli's experiment and the barometer (76 cm Hg)",
+       "5.4.2 Air pressure and weather forecasting"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাতাসের চাপ"
+     },
+     {
+      "id": "5.5",
+      "en": "Elasticity: stress, strain and Hooke's law",
+      "bn": "রাবার টানলে কী হয়? স্থিতিস্থাপকতা ও হুকের সূত্র",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Stress, strain; Hooke's law; Young's modulus (table); bulk modulus"
+      ],
+      "key": [
+       "Stress = F/A; Strain = ΔL/L; Y = stress/strain"
+      ],
+      "notes": [],
+      "bnBook": "স্থিতিস্থাপকতা: পীড়ন, বিকৃতি ও হুকের সূত্র"
+     },
+     {
+      "id": "5.6",
+      "en": "Three states of matter and kinetic molecular theory",
+      "bn": "কঠিন, তরল, গ্যাস: অণুরা কী করে?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Molecular arrangement of solid, liquid, gas",
+       "5.6.1 Kinetic molecular theory of matter",
+       "5.6.2 Fourth state: plasma"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পদার্থের তিন অবস্থা ও আণবিক গতিতত্ত্ব"
+     }
+    ],
+    "notes": [],
+    "bnBook": "পদার্থের অবস্থা ও চাপ"
+   },
+   {
+    "n": 6,
+    "en": "Effect of Heat on Matter",
+    "bn": "তাপ দিলে বস্তুর কী হয়?",
+    "pages": "160-186",
+    "topics": [
+     {
+      "id": "6.1",
+      "en": "Heat, temperature and internal energy",
+      "bn": "তাপ আর তাপমাত্রা কি একই জিনিস?",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Difference between heat and temperature",
+       "6.1.1 Internal energy and flow of heat; thermal equilibrium"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তাপ, তাপমাত্রা ও অভ্যন্তরীণ শক্তি"
+     },
+     {
+      "id": "6.2",
+      "en": "Thermometric properties and temperature scales",
+      "bn": "থার্মোমিটার ও তাপমাত্রার স্কেল: সেলসিয়াস, ফারেনহাইট, কেলভিন",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Thermometric properties; fixed points; Celsius, Fahrenheit, Kelvin",
+       "6.2.1 Relation between scales"
+      ],
+      "key": [
+       "T_C/5 = (T_F − 32)/9 = (T_K − 273.15)/5"
+      ],
+      "notes": [],
+      "bnBook": "পদার্থের তাপমাত্রিক ধর্ম ও তাপমাত্রার স্কেল"
+     },
+     {
+      "id": "6.3.1",
+      "en": "Thermal expansion of solids",
+      "bn": "গরমে লোহার রেললাইন কেন বাড়ে? কঠিনের প্রসারণ",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Linear (α), area (β) and volume (γ) expansion; β = 2α, γ = 3α"
+      ],
+      "key": [
+       "L₂ = L₁[1 + α(T₂ − T₁)]"
+      ],
+      "notes": [],
+      "bnBook": "কঠিন পদার্থের প্রসারণ"
+     },
+     {
+      "id": "6.3.2",
+      "en": "Expansion of liquids and gases",
+      "bn": "তরল আর গ্যাসও ফুলে ওঠে: তরল ও গ্যাসের প্রসারণ",
+      "tags": [
+       "F",
+       "D"
+      ],
+      "subs": [
+       "6.3.2 Real and apparent expansion of liquids",
+       "6.3.3 Expansion of gases; PV = nRT"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তরল ও গ্যাসের প্রসারণ"
+     },
+     {
+      "id": "6.4",
+      "en": "Change of state: melting, boiling, evaporation and latent heat",
+      "bn": "বরফ গলে, পানি ফোটে: অবস্থার পরিবর্তন ও সুপ্ততাপ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Melting (fusion) and melting point; latent heat of fusion",
+       "Boiling and boiling point; latent heat of vaporization; condensation, solidification",
+       "Heating curve (temperature stays constant during change of state)",
+       "Evaporation at any temperature; factors (air flow, surface area, nature of liquid, air pressure, temperature, dryness of air); evaporation causes cooling; energy of cyclones"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পদার্থের অবস্থার পরিবর্তনে তাপের প্রভাব: গলন, স্ফুটন, বাষ্পায়ন ও সুপ্ততাপ"
+     },
+     {
+      "id": "6.5",
+      "en": "Specific heat and heat capacity",
+      "bn": "কোনটা তাড়াতাড়ি গরম হয়? আপেক্ষিক তাপ",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [],
+      "key": [
+       "Q = msΔT; C = ms"
+      ],
+      "notes": [],
+      "bnBook": "আপেক্ষিক তাপ ও তাপ ধারণ ক্ষমতা"
+     },
+     {
+      "id": "6.6",
+      "en": "Principle of calorimetry",
+      "bn": "গরম আর ঠান্ডা মেশালে কী হয়? ক্যালরিমিতি",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [
+       "Heat lost = heat gained; mixing problems (ice + water, hot + cold water, hot iron in water)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ক্যালরিমিতির মূলনীতি"
+     },
+     {
+      "id": "6.7",
+      "en": "Effect of pressure on melting and boiling point",
+      "bn": "প্রেশার কুকারে রান্না তাড়াতাড়ি হয় কেন?",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Boiling point rises with pressure (pressure cooker) and falls when pressure is low; melting point of ice falls with pressure (wire cutting through an ice bar)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "গলনাঙ্ক এবং স্ফুটনাঙ্কের ওপর চাপের প্রভাব"
+     }
+    ],
+    "notes": [],
+    "bnBook": "বস্তুর ওপর তাপের প্রভাব"
+   },
+   {
+    "n": 7,
+    "en": "Waves and Sound",
+    "bn": "ঢেউ আর শব্দের দুনিয়া",
+    "pages": "187-210",
+    "topics": [
+     {
+      "id": "7.1",
+      "en": "Simple harmonic motion",
+      "bn": "দোলা আর কাঁপা: সরল স্পন্দন গতি",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Spring–mass system; restoring force; equilibrium position; oscillation"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সরল স্পন্দন গতি"
+     },
+     {
+      "id": "7.2",
+      "en": "Waves and their characteristics",
+      "bn": "ঢেউ কী? তরঙ্গ ও এর বৈশিষ্ট্য",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Waves carry energy, not matter",
+       "7.2.1 Characteristics: reflection, superposition (addition of two waves)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তরঙ্গ ও এর বৈশিষ্ট্য"
+     },
+     {
+      "id": "7.2.2",
+      "en": "Transverse and longitudinal waves",
+      "bn": "দুই রকম ঢেউ: অনুপ্রস্থ ও অনুদৈর্ঘ্য তরঙ্গ",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Crest and trough; compression and rarefaction; sound as a longitudinal wave"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অনুপ্রস্থ তরঙ্গ ও অনুদৈর্ঘ্য তরঙ্গ"
+     },
+     {
+      "id": "7.2.3",
+      "en": "Wave-related quantities",
+      "bn": "তরঙ্গ মাপার রাশি: বিস্তার, তরঙ্গদৈর্ঘ্য, কম্পাঙ্ক",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Amplitude, wavelength, frequency, time period, phase, wave velocity",
+       "Graphs of a wave against position and against time"
+      ],
+      "key": [
+       "v = fλ; T = 1/f"
+      ],
+      "notes": [],
+      "bnBook": "তরঙ্গ-সংশ্লিষ্ট রাশি"
+     },
+     {
+      "id": "7.3",
+      "en": "Sound waves and their characteristics",
+      "bn": "শব্দ কীভাবে আমাদের কানে আসে?",
+      "tags": [
+       "F",
+       "D"
+      ],
+      "subs": [
+       "Sound needs a medium; audible range 20 Hz–20 kHz; infrasonic and ultrasonic sound",
+       "Characteristics: mechanical longitudinal wave, speed depends on medium, intensity ∝ (amplitude)², can reflect, refract and superpose",
+       "Activity: string-and-cup telephone (sound travels through solids)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শব্দতরঙ্গ ও এর বৈশিষ্ট্য"
+     },
+     {
+      "id": "7.3.1",
+      "en": "Echo",
+      "bn": "শব্দ ফিরে আসে: প্রতিধ্বনি",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Condition for echo (persistence of hearing 0.1 s ⇒ minimum distance ≈ 17 m); measuring depth"
+      ],
+      "key": [
+       "d = vt/2"
+      ],
+      "notes": [],
+      "bnBook": "প্রতিধ্বনি"
+     },
+     {
+      "id": "7.3.2",
+      "en": "Variation of the velocity of sound",
+      "bn": "শব্দ কোথায় জোরে ছোটে? শব্দের বেগ",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [
+       "Speed in different media (table); effect of temperature, humidity"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শব্দের বেগের পার্থক্য"
+     },
+     {
+      "id": "7.3.3",
+      "en": "Uses of sound (ultrasound, SONAR)",
+      "bn": "শব্দের কাজে লাগানো: আল্ট্রাসাউন্ড ও সোনার",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "SONAR, ultrasound imaging, ultrasonic cleaner, bats and dolphins"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শব্দের ব্যবহার"
+     },
+     {
+      "id": "7.3.4",
+      "en": "Musical sound and musical instruments",
+      "bn": "গান আর গোলমালের পার্থক্য: সুরযুক্ত শব্দ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Musical sound vs noise; string, wind and percussion instruments"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সুরযুক্ত শব্দ ও বাদ্যযন্ত্র"
+     },
+     {
+      "id": "7.3.5",
+      "en": "Sound pollution",
+      "bn": "বেশি শব্দের বিপদ: শব্দদূষণ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Decibel scale (table of sources); health effects; headphones; prevention"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শব্দের দূষণ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "তরঙ্গ ও শব্দ"
+   },
+   {
+    "n": 8,
+    "en": "Reflection of Light",
+    "bn": "আয়নায় আলোর খেলা: প্রতিফলন",
+    "pages": "211-241",
+    "topics": [
+     {
+      "id": "8.1",
+      "en": "Nature of light",
+      "bn": "আলো আসলে কী?",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Light as an electromagnetic wave; visible spectrum; sensitivity of the eye to colours"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আলোর প্রকৃতি"
+     },
+     {
+      "id": "8.2",
+      "en": "Reflection of light and its laws",
+      "bn": "আলো ফিরে আসে কোন নিয়মে? প্রতিফলনের সূত্র",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Incident ray, reflected ray, normal, angles",
+       "8.2.1 Two laws of reflection; multiple images between parallel mirrors"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আলোর প্রতিফলন ও এর সূত্র"
+     },
+     {
+      "id": "8.2.2",
+      "en": "Reflection, absorption and colour of objects",
+      "bn": "গোলাপ লাল দেখায় কেন? প্রতিফলন, শোষণ ও রং",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Why a rose looks red; objects under coloured light; reflection increases at larger angle",
+       "8.2.3 Regular reflection (smooth surface) and diffuse reflection (rough surface)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রতিফলন, শোষণ ও বস্তুর বর্ণ"
+     },
+     {
+      "id": "8.3",
+      "en": "Plane mirror and image formation",
+      "bn": "আয়নায় নিজেকে দেখি: সমতল আয়নায় প্রতিবিম্ব",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "8.3.1 Real and virtual images; drawing the image of a point and an extended object",
+       "Kaleidoscope; minimum mirror height to see full image; pinhole image"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সমতল আয়না ও প্রতিবিম্ব গঠন"
+     },
+     {
+      "id": "8.4",
+      "en": "Spherical mirrors: key terms",
+      "bn": "বাঁকা আয়না চিনি: গোলীয় আয়নার শব্দগুলো",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Pole, centre of curvature, radius of curvature, principal axis, principal focus, focal length"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "গোলীয় আয়না: প্রয়োজনীয় সংজ্ঞা"
+     },
+     {
+      "id": "8.5",
+      "en": "Convex mirror and its images",
+      "bn": "গাড়ির লুকিং গ্লাসের আয়না: উত্তল আয়না",
+      "tags": [
+       "F",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "f = r/2 (proof); 8.5.1 image always virtual, erect, diminished"
+      ],
+      "key": [
+       "f = r/2"
+      ],
+      "notes": [],
+      "bnBook": "উত্তল আয়না ও প্রতিবিম্ব"
+     },
+     {
+      "id": "8.6",
+      "en": "Concave mirror and its images",
+      "bn": "বড় করে দেখায় যে আয়না: অবতল আয়না",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Focal length of a concave mirror; 8.6.1 image for different object positions (table), ray diagrams"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অবতল আয়না ও প্রতিবিম্ব"
+     },
+     {
+      "id": "8.7",
+      "en": "Magnification",
+      "bn": "প্রতিবিম্ব কত বড় হলো? বিবর্ধন",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [],
+      "key": [
+       "m = image height / object height = image distance / object distance"
+      ],
+      "notes": [],
+      "bnBook": "বিবর্ধন"
+     },
+     {
+      "id": "8.8",
+      "en": "Uses of mirrors",
+      "bn": "দৈনন্দিন জীবনে আয়নার ব্যবহার",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "8.8.1 Plane mirror (lateral inversion, periscope)",
+       "8.8.2 Convex mirror (rear-view)",
+       "8.8.3 Concave mirror (telescope, search light, torch, dentist)",
+       "8.8.5 Mirrors at blind turns of hilly roads"
+      ],
+      "key": [],
+      "notes": [
+       "The English book numbers the hilly-roads section 8.8.5 (it has no 8.8.4); the Bangla book numbers the same section 8.8.4."
+      ],
+      "bnBook": "আয়নার ব্যবহার"
+     }
+    ],
+    "notes": [],
+    "bnBook": "আলোর প্রতিফলন"
+   },
+   {
+    "n": 9,
+    "en": "Refraction of Light",
+    "bn": "আলো কেন বেঁকে যায়: প্রতিসরণ",
+    "pages": "242-269",
+    "topics": [
+     {
+      "id": "9.1",
+      "en": "Refraction of light and refractive index",
+      "bn": "পানিতে পেনসিল ভাঙা দেখায় কেন? প্রতিসরণ",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Change in speed and direction; refractive index table"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আলোর প্রতিসরণ ও প্রতিসরণাঙ্ক"
+     },
+     {
+      "id": "9.1.1",
+      "en": "Laws of refraction (Snell's law)",
+      "bn": "আলো কতটা বাঁকবে: প্রতিসরণের সূত্র",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Bending towards/away from the normal; worked examples"
+      ],
+      "key": [
+       "n₁ sin θ₁ = n₂ sin θ₂"
+      ],
+      "notes": [],
+      "bnBook": "প্রতিসরণের সূত্র (স্নেলের সূত্র)"
+     },
+     {
+      "id": "9.1.2",
+      "en": "Relative refractive index",
+      "bn": "এক মাধ্যম থেকে আরেক মাধ্যমে: আপেক্ষিক প্রতিসরণাঙ্ক",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [],
+      "key": [
+       "₁n₂ = n₂/n₁"
+      ],
+      "notes": [],
+      "bnBook": "আপেক্ষিক প্রতিসরণাঙ্ক"
+     },
+     {
+      "id": "9.2",
+      "en": "Total internal reflection and critical angle",
+      "bn": "আলো যখন বেরোতে পারে না: পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Denser to rarer medium; critical angle; sin θc = 1/n"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পূর্ণ অভ্যন্তরীণ প্রতিফলন ও ক্রান্তি কোণ"
+     },
+     {
+      "id": "9.2.1",
+      "en": "Rainbow and mirage",
+      "bn": "রংধনু আর মরীচিকার রহস্য",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "9.2.1 Rainbow formation",
+       "9.2.2 Mirage in deserts and on hot roads"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রংধনু ও মরীচিকা"
+     },
+     {
+      "id": "9.3",
+      "en": "Uses of refraction: optical fibre, prism, periscope",
+      "bn": "প্রতিসরণের কাজে লাগানো: অপটিক্যাল ফাইবার, প্রিজম, পেরিস্কোপ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "9.3.1 Optical fibre",
+       "9.3.2 Prism (deviation and dispersion)",
+       "9.3.3 Periscope and binoculars (prism-based)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রতিসরণের ব্যবহার: অপটিক্যাল ফাইবার, প্রিজম, পেরিস্কোপ"
+     },
+     {
+      "id": "9.4",
+      "en": "Lenses: types and terms",
+      "bn": "লেন্স কী? উত্তল আর অবতল লেন্স চিনি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "9.3.4/9.4 Convex (converging) and concave (diverging) lenses; optical centre, principal axis, focus, focal length"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "লেন্স: প্রকারভেদ ও সংজ্ঞা"
+     },
+     {
+      "id": "9.4.1",
+      "en": "Image formation by a concave lens",
+      "bn": "অবতল লেন্সে প্রতিবিম্ব কেমন হয়?",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "অবতল লেন্সে প্রতিবিম্ব"
+     },
+     {
+      "id": "9.4.2",
+      "en": "Image formation by a convex lens",
+      "bn": "উত্তল লেন্সে প্রতিবিম্ব কেমন হয়?",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Object within f, between f and 2f, at 2f, beyond 2f — nature, position and size of image"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "উত্তল লেন্সে প্রতিবিম্ব"
+     },
+     {
+      "id": "9.4.3",
+      "en": "Power of a lens",
+      "bn": "চশমার পাওয়ার মানে কী? লেন্সের ক্ষমতা",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [],
+      "key": [
+       "P = 1/f (f in metres); unit dioptre (D); convex +, concave −"
+      ],
+      "notes": [],
+      "bnBook": "লেন্সের ক্ষমতা"
+     }
+    ],
+    "notes": [],
+    "bnBook": "আলোর প্রতিসরণ"
+   },
+   {
+    "n": 10,
+    "en": "Static Electricity",
+    "bn": "ঘষলেই বিদ্যুৎ: স্থির বিদ্যুৎ",
+    "pages": "270-298",
+    "topics": [
+     {
+      "id": "10.1",
+      "en": "Electric charge",
+      "bn": "বিদ্যুতের মূলে: আধান বা চার্জ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Atomic structure; electrons and protons; positive and negative charge; unit coulomb; e = 1.6 × 10⁻¹⁹ C"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আধান বা চার্জ"
+     },
+     {
+      "id": "10.2",
+      "en": "Charging by friction",
+      "bn": "চিরুনি চুলে ঘষলে কাগজ টানে কেন?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Glass–silk, plastic–flannel; like charges repel, unlike attract"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ঘর্ষণে স্থির বিদ্যুৎ তৈরি"
+     },
+     {
+      "id": "10.3",
+      "en": "Electrostatic induction and the electroscope",
+      "bn": "না ছুঁয়েও চার্জ: আবেশ ও তড়িৎবীক্ষণ যন্ত্র",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "10.3 Induction; charging two spheres oppositely",
+       "10.3.1 Gold-leaf/metal-leaf electroscope: charging, detecting type of charge",
+       "Investigation 10.01: friction and induction"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আবেশ ও তড়িৎবীক্ষণ যন্ত্র"
+     },
+     {
+      "id": "10.4",
+      "en": "Electric force: Coulomb's law",
+      "bn": "চার্জে চার্জে টান-ধাক্কা: কুলম্বের সূত্র",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [],
+      "key": [
+       "F = k q₁q₂ / r²; k = 9 × 10⁹ N m² C⁻²"
+      ],
+      "notes": [],
+      "bnBook": "বৈদ্যুতিক বল: কুলম্বের সূত্র"
+     },
+     {
+      "id": "10.5",
+      "en": "Electric field and lines of force",
+      "bn": "চার্জের চারপাশের প্রভাব: তড়িৎ ক্ষেত্র ও বলরেখা",
+      "tags": [
+       "F",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Field intensity; properties of lines of force; field of single and pairs of charges"
+      ],
+      "key": [
+       "E = F/q"
+      ],
+      "notes": [],
+      "bnBook": "তড়িৎ ক্ষেত্র ও বলরেখা"
+     },
+     {
+      "id": "10.6",
+      "en": "Electric potential and potential difference",
+      "bn": "বিদ্যুৎ কোন দিকে যাবে? বিভব ও বিভব পার্থক্য",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [
+       "Work done bringing a charge; V = kq/r; 10.6.1 potential difference; volt"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তড়িৎ বিভব ও বিভব পার্থক্য"
+     },
+     {
+      "id": "10.7",
+      "en": "Capacitor",
+      "bn": "চার্জ জমিয়ে রাখার যন্ত্র: ধারক",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Parallel-plate capacitor; storing charge; capacitance"
+      ],
+      "key": [
+       "C = Q/V"
+      ],
+      "notes": [],
+      "bnBook": "ধারক"
+     },
+     {
+      "id": "10.8",
+      "en": "Uses and dangers of static electricity",
+      "bn": "স্থির বিদ্যুৎ কোথায় কাজে লাগে, কোথায় বিপদ: বজ্রপাতও",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "10.8.1 Photocopier",
+       "10.8.2 Van de Graaff generator",
+       "10.8.3 Fuel trucks (earthing)",
+       "10.8.4 Electronics",
+       "10.8.5 Lightning and lightning arrester",
+       "10.8.6 Electrostatic spray painting"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "স্থির বিদ্যুতের ব্যবহার ও বিপদ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "স্থির বিদ্যুৎ"
+   },
+   {
+    "n": 11,
+    "en": "Current Electricity",
+    "bn": "তারের ভেতর দিয়ে বিদ্যুৎ: চল বিদ্যুৎ",
+    "pages": "299-329",
+    "topics": [
+     {
+      "id": "11.1",
+      "en": "Electric current",
+      "bn": "বিদ্যুৎ প্রবাহ মানে কী?",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Flow of charge between charged spheres; unit ampere"
+      ],
+      "key": [
+       "I = Q/t"
+      ],
+      "notes": [],
+      "bnBook": "তড়িৎ প্রবাহ"
+     },
+     {
+      "id": "11.1.1",
+      "en": "Electromotive force and potential difference",
+      "bn": "বিদ্যুৎকে ঠেলে কে? তড়িৎ চালক শক্তি ও বিভব পার্থক্য",
+      "tags": [
+       "F",
+       "D"
+      ],
+      "subs": [
+       "EMF of a cell; combining cells to make 1.5 V, 3 V, −1.5 V, −3 V"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তড়িৎ চালক শক্তি এবং বিভব পার্থক্য"
+     },
+     {
+      "id": "11.1.2",
+      "en": "Conductor, insulator and semiconductor",
+      "bn": "কোনটা দিয়ে বিদ্যুৎ যায়, কোনটা দিয়ে যায় না?",
+      "tags": [
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরিবাহী, অপরিবাহী এবং অর্ধপরিবাহী পদার্থ"
+     },
+     {
+      "id": "11.1.3",
+      "en": "Direction of current",
+      "bn": "বিদ্যুৎ কোন দিকে চলে?",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Conventional current vs electron flow"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিদ্যুৎপ্রবাহের দিক"
+     },
+     {
+      "id": "11.2.1",
+      "en": "Ohm's law",
+      "bn": "ভোল্টেজ, কারেন্ট আর রোধের সম্পর্ক: ওহমের সূত্র",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "V–I relationship experiment; graph; triangle for V = IR"
+      ],
+      "key": [
+       "V = IR"
+      ],
+      "notes": [],
+      "bnBook": "ওহমের সূত্র"
+     },
+     {
+      "id": "11.2.2",
+      "en": "Resistance and resistivity",
+      "bn": "বিদ্যুতের পথে বাধা: রোধ ও আপেক্ষিক রোধ",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Factors: length, area, material, temperature; specific resistance table; conductivity",
+       "Fixed and variable resistors (rheostat)"
+      ],
+      "key": [
+       "R = ρL/A; σ = 1/ρ"
+      ],
+      "notes": [],
+      "bnBook": "রোধ ও আপেক্ষিক রোধ"
+     },
+     {
+      "id": "11.2.3",
+      "en": "Circuit analysis",
+      "bn": "সার্কিট পড়তে শিখি: বর্তনী বিশ্লেষণ",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Circuit symbols; potential at different points; voltage drops"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বর্তনী বা সার্কিট বিশ্লেষণ"
+     },
+     {
+      "id": "11.2.4",
+      "en": "Series and parallel combination of resistors",
+      "bn": "রোধ জোড়া দেওয়ার দুই উপায়: শ্রেণি ও সমান্তরাল",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "11.2.4 Series: R = R₁ + R₂ + …",
+       "11.2.5 Parallel: 1/R = 1/R₁ + 1/R₂ + …"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তুল্য রোধ: শ্রেণি ও সমান্তরাল সংযোগ"
+     },
+     {
+      "id": "11.3",
+      "en": "Electric power and energy",
+      "bn": "বিদ্যুৎ বিল কীভাবে হিসাব হয়? তড়িৎ ক্ষমতা ও শক্তি",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [
+       "Watt, kilowatt-hour (unit/BOT unit); calculating an electricity bill"
+      ],
+      "key": [
+       "P = VI = I²R = V²/R; W = Pt"
+      ],
+      "notes": [],
+      "bnBook": "তড়িৎ ক্ষমতা ও শক্তি"
+     },
+     {
+      "id": "11.4",
+      "en": "Electricity supply, system loss and load shedding",
+      "bn": "বিদ্যুৎ আমাদের বাসায় আসে কীভাবে? সিস্টেম লস ও লোডশেডিং",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "11.4.1 System loss",
+       "11.4.2 Load shedding"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিদ্যুৎ সরবরাহ, সিস্টেম লস ও লোডশেডিং"
+     },
+     {
+      "id": "11.5",
+      "en": "Safe use of electricity",
+      "bn": "বিদ্যুৎ ব্যবহারে নিরাপদ থাকি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Fuse, circuit breaker, earthing, switch on live wire, insulation; dangerous activities"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিদ্যুতের নিরাপদ ব্যবহার"
+     },
+     {
+      "id": "11.6",
+      "en": "Electrical circuit design for a house",
+      "bn": "বাসার বিদ্যুতের লাইন কীভাবে সাজানো হয়?",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Consumer unit, live/neutral/earth, lighting and socket circuits"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাসাবাড়ির বৈদ্যুতিক বর্তনীর নকশা"
+     }
+    ],
+    "notes": [],
+    "bnBook": "চল বিদ্যুৎ"
+   },
+   {
+    "n": 12,
+    "en": "Magnetic Effects of Current",
+    "bn": "বিদ্যুৎ থেকে চুম্বক, চুম্বক থেকে বিদ্যুৎ",
+    "pages": "330-346",
+    "topics": [
+     {
+      "id": "12.1",
+      "en": "Magnet and magnetic field",
+      "bn": "চুম্বক ও তার চারপাশের ক্ষেত্র",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Poles; attraction and repulsion; magnetic field lines"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "চুম্বক ও চৌম্বকক্ষেত্র"
+     },
+     {
+      "id": "12.2",
+      "en": "Magnetic effect of current",
+      "bn": "তারে বিদ্যুৎ চললে চুম্বক তৈরি হয়",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Oersted's observation; field around a straight wire; right-hand grip rule"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিদ্যুতের চৌম্বক ক্রিয়া"
+     },
+     {
+      "id": "12.2.1",
+      "en": "Solenoid and electromagnet",
+      "bn": "তার পেঁচিয়ে চুম্বক বানাই: সলিনয়েড ও তাড়িতচুম্বক",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "12.2.1 Solenoid field",
+       "12.2.2 Electromagnet and its uses"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সলিনয়েড ও তাড়িতচুম্বক"
+     },
+     {
+      "id": "12.2.3",
+      "en": "Force on a current-carrying wire and the DC motor",
+      "bn": "বিদ্যুৎ দিয়ে ঘোরানো: তারের ওপর বল ও ডিসি মোটর",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "12.2.3 Current-carrying wire in a magnetic field experiences a force",
+       "12.2.4 DC motor: structure and working; commutator"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তড়িৎবাহী তারের ওপর বল ও ডিসি মোটর"
+     },
+     {
+      "id": "12.3",
+      "en": "Electromagnetic induction",
+      "bn": "চুম্বক নাড়ালে বিদ্যুৎ: তড়িৎ চুম্বকীয় আবেশ",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Faraday's experiment; induced current from changing magnetic field"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তড়িৎ চুম্বকীয় আবেশ"
+     },
+     {
+      "id": "12.3.1",
+      "en": "Generator",
+      "bn": "বিদ্যুৎ বানানোর যন্ত্র: জেনারেটর",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "জেনারেটর"
+     },
+     {
+      "id": "12.3.2",
+      "en": "Transformer",
+      "bn": "ভোল্টেজ বাড়ানো-কমানোর যন্ত্র: ট্রান্সফরমার",
+      "tags": [
+       "F",
+       "N",
+       "D"
+      ],
+      "subs": [
+       "Step-up and step-down; use in power transmission"
+      ],
+      "key": [
+       "Vp/Vs = Np/Ns; ideal: VpIp = VsIs"
+      ],
+      "notes": [],
+      "bnBook": "ট্রান্সফরমার"
+     }
+    ],
+    "notes": [],
+    "bnBook": "বিদ্যুতের চৌম্বক ক্রিয়া"
+   },
+   {
+    "n": 13,
+    "en": "Radioactivity and Electronics",
+    "bn": "তেজস্ক্রিয়তা আর ইলেকট্রনিকসের গল্প",
+    "pages": "347-363",
+    "topics": [
+     {
+      "id": "13.1",
+      "en": "Radioactivity",
+      "bn": "অস্থির নিউক্লিয়াস থেকে রশ্মি: তেজস্ক্রিয়তা",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Discovery (Becquerel, Curie); unstable nuclei; nuclear notation (e.g. ¹⁴₆C)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তেজস্ক্রিয়তা"
+     },
+     {
+      "id": "13.1.1",
+      "en": "Alpha, beta and gamma rays",
+      "bn": "তিন রকম রশ্মি: আলফা, বিটা ও গামা",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "13.1.1 Alpha",
+       "13.1.2 Beta (with antineutrino)",
+       "13.1.3 Gamma; charge, mass, penetration power"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আলফা, বিটা ও গামা রশ্মি"
+     },
+     {
+      "id": "13.1.4",
+      "en": "Half-life",
+      "bn": "অর্ধেক হতে কত সময়? অর্ধায়ু",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [],
+      "key": [
+       "Remaining = original × (½)^(t/T½)"
+      ],
+      "notes": [],
+      "bnBook": "অর্ধায়ু"
+     },
+     {
+      "id": "13.1.5",
+      "en": "Uses of radioactivity and precautions",
+      "bn": "তেজস্ক্রিয়তার ভালো দিক আর সাবধানতা",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "13.1.5 Medicine, agriculture, industry, carbon dating",
+       "13.1.6 Cautions and hazard symbol"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তেজস্ক্রিয়তার ব্যবহার ও সচেতনতা"
+     },
+     {
+      "id": "13.2",
+      "en": "Development of electronics",
+      "bn": "ভ্যাকুয়াম টিউব থেকে মাইক্রোচিপ: ইলেকট্রনিকসের গল্প",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "13.2.1 Vacuum tube",
+       "13.2.2 Transistor",
+       "13.2.3 Integrated circuit",
+       "13.2.4 Electronics of the future"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ইলেকট্রনিক্সের ক্রমবিকাশ"
+     },
+     {
+      "id": "13.3",
+      "en": "Analog and digital electronics",
+      "bn": "অ্যানালগ আর ডিজিটাল: পার্থক্য কী?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "অ্যানালগ ও ডিজিটাল ইলেকট্রনিক্স"
+     },
+     {
+      "id": "13.4",
+      "en": "Semiconductors",
+      "bn": "সব যন্ত্রের প্রাণ: সেমিকন্ডাক্টর বা অর্ধপরিবাহী",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Silicon crystal; n-type (phosphorus) and p-type semiconductors; joining p and n types"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সেমিকন্ডাক্টর বা অর্ধপরিবাহী"
+     }
+    ],
+    "notes": [],
+    "bnBook": "তেজস্ক্রিয়তা ও ইলেকট্রনিকস"
+   }
+  ]
+ },
+ {
+  "key": "chemistry",
+  "en": "Chemistry",
+  "bn": "রসায়ন",
+  "chapters": [
+   {
+    "n": 1,
+    "en": "Concepts of Chemistry",
+    "bn": "রসায়ন কী আর কেন পড়ব?",
+    "pages": "1-16",
+    "topics": [
+     {
+      "id": "1.1",
+      "en": "What is chemistry? Origin and history",
+      "bn": "রসায়ন কী? আলকেমি থেকে আধুনিক রসায়ন",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Definition: composition, structure, properties and transformation of matter and the energy involved",
+       "Bronze and early metallurgy; ancient Greek/Indian ideas of atoms",
+       "Origin of the word \"Chemistry\": alchemy, Jabir ibn Hayyan; Lavoisier as father of modern chemistry",
+       "Explaining everyday events with chemistry (Table 1.01)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রসায়ন পরিচিতি ও রসায়নের ইতিহাস"
+     },
+     {
+      "id": "1.2",
+      "en": "Scope of chemistry",
+      "bn": "রান্নাঘর থেকে কারখানা: রসায়ন কোথায় কোথায়?",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Food, medicine, fertilizer, clothing, fuel, construction materials (Table 1.02)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রসায়নের পরিধি বা ক্ষেত্রসমূহ"
+     },
+     {
+      "id": "1.3",
+      "en": "Chemistry and other branches of science",
+      "bn": "বিজ্ঞানের অন্য শাখার সাথে রসায়নের যোগ",
+      "tags": [],
+      "subs": [
+       "Links with physics, biology, geology, mathematics, agriculture, medicine"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিজ্ঞানের অন্যান্য শাখার সাথে রসায়নের সম্পর্ক"
+     },
+     {
+      "id": "1.4",
+      "en": "Why study chemistry?",
+      "bn": "রসায়ন পড়ে আমাদের কী লাভ?",
+      "tags": [],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "রসায়ন পাঠের গুরুত্ব"
+     },
+     {
+      "id": "1.5",
+      "en": "The process of research in chemistry",
+      "bn": "বিজ্ঞানীর মতো ভাবি: রসায়নে গবেষণার ধাপ",
+      "tags": [
+       "D",
+       "X"
+      ],
+      "subs": [
+       "Identify problem → hypothesis → plan → experiment → observe & record data → analyse → conclusion → report",
+       "Worked example: how temperature affects solubility"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রসায়নে অনুসন্ধান বা গবেষণা প্রক্রিয়া"
+     },
+     {
+      "id": "1.6",
+      "en": "Laboratory safety and hazard symbols",
+      "bn": "ল্যাবে নিরাপদ থাকি: সতর্কতা চিহ্ন চিনি",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Apron, goggles, gloves, mask; safe handling of chemicals",
+       "Hazard pictograms: explosive, flammable, toxic, irritant, health hazard, radioactive, environmental hazard, corrosive (Table 1.04)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রসায়ন পরীক্ষাগারে নিরাপত্তা ও সতর্কতা চিহ্ন"
+     }
+    ],
+    "notes": [],
+    "bnBook": "রসায়নের ধারণা"
+   },
+   {
+    "n": 2,
+    "en": "States of Matter",
+    "bn": "কঠিন, তরল, গ্যাস: পদার্থের অবস্থা",
+    "pages": "17-34",
+    "topics": [
+     {
+      "id": "2.1",
+      "en": "Solids, liquids and gases",
+      "bn": "কঠিন, তরল আর গ্যাসের পার্থক্য",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "2.1.1 Solids",
+       "2.1.2 Liquids",
+       "2.1.3 Gases: shape, volume, particle arrangement"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পদার্থ ও পদার্থের অবস্থা: কঠিন, তরল, গ্যাস"
+     },
+     {
+      "id": "2.2",
+      "en": "Kinetic theory of particles",
+      "bn": "কণারা সবসময় নড়ছে: কণার গতিতত্ত্ব",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Particles always moving; intermolecular forces vs kinetic energy; effect of heating"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "কণার গতিতত্ত্ব"
+     },
+     {
+      "id": "2.3",
+      "en": "Diffusion",
+      "bn": "গন্ধ কীভাবে ঘরে ছড়ায়? ব্যাপন",
+      "tags": [
+       "D",
+       "V",
+       "X"
+      ],
+      "subs": [
+       "KMnO₄ in water; liquid in liquid; diffusion of two gases (NH₃ + HCl white ring)",
+       "Factors: temperature, molar mass, state"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ব্যাপন"
+     },
+     {
+      "id": "2.4",
+      "en": "Effusion",
+      "bn": "ছোট ছিদ্র দিয়ে গ্যাস বের হওয়া: নিঃসরণ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Gas escaping through a tiny hole; leak test with soapy water; idea of finding molar mass of a gas"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "নিঃসরণ"
+     },
+     {
+      "id": "2.5",
+      "en": "Burning candle and the three states of wax",
+      "bn": "মোমবাতি জ্বললে মোমের তিন রূপ",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "মোমবাতির প্রজ্বলন এবং মোমের তিন অবস্থা"
+     },
+     {
+      "id": "2.6",
+      "en": "Melting point and boiling point",
+      "bn": "কখন গলে, কখন ফোটে: গলনাঙ্ক ও স্ফুটনাঙ্ক",
+      "tags": [
+       "D",
+       "X",
+       "I"
+      ],
+      "subs": [
+       "Experiments: melting point of urea and wax; boiling point of water",
+       "Heating curve of ice → water → steam; cooling curve of vapour"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "গলন ও স্ফুটন (গলনাঙ্ক ও স্ফুটনাঙ্ক)"
+     },
+     {
+      "id": "2.7",
+      "en": "Distillation and sublimation",
+      "bn": "পানি বিশুদ্ধ করা আর ন্যাপথলিন উবে যাওয়া: পাতন ও ঊর্ধ্বপাতন",
+      "tags": [
+       "D",
+       "X"
+      ],
+      "subs": [
+       "Distillation = vaporization + condensation",
+       "Sublimation of volatile solids (iodine, camphor, naphthalene, NH₄Cl); separating iodine from sand; uses"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পাতন ও ঊর্ধ্বপাতন"
+     }
+    ],
+    "notes": [],
+    "bnBook": "পদার্থের অবস্থা"
+   },
+   {
+    "n": 3,
+    "en": "Structure of Matter",
+    "bn": "পদার্থ কী দিয়ে তৈরি? পরমাণুর ভেতরে",
+    "pages": "35-58",
+    "topics": [
+     {
+      "id": "3.1",
+      "en": "Elements and compounds",
+      "bn": "মৌলিক আর যৌগিক পদার্থ চিনি",
+      "tags": [
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "মৌলিক ও যৌগিক পদার্থ"
+     },
+     {
+      "id": "3.2",
+      "en": "Atoms and molecules",
+      "bn": "পরমাণু আর অণু: পদার্থের ক্ষুদ্রতম কণা",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Molecules of elements vs molecules of compounds"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরমাণু ও অণু"
+     },
+     {
+      "id": "3.3",
+      "en": "Symbols of elements",
+      "bn": "মৌলের সংক্ষিপ্ত নাম: প্রতীক",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "From English names (first letter / first two letters) and Latin names (Na, K, Fe, Cu, Ag, Au, Pb, Sn, Hg)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মৌলের প্রতীক"
+     },
+     {
+      "id": "3.4",
+      "en": "Chemical formula",
+      "bn": "H₂O মানে কী? রাসায়নিক সংকেত",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Molecular formulae of common substances; meaning of subscripts and coefficients"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সংকেত"
+     },
+     {
+      "id": "3.5",
+      "en": "Fundamental particles; atomic number and mass number",
+      "bn": "পরমাণুর ভেতরে কী আছে? প্রোটন, নিউট্রন, ইলেকট্রন",
+      "tags": [
+       "F",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Electron, proton, neutron: charge and mass (Table 3.05)",
+       "3.5.1 Atomic number (Z)",
+       "3.5.2 Mass number (A = Z + N); notation ᴬ_Z X"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরমাণুর সাংগঠনিক কণা; পারমাণবিক সংখ্যা ও ভরসংখ্যা"
+     },
+     {
+      "id": "3.6",
+      "en": "Atomic models: Rutherford and Bohr",
+      "bn": "পরমাণু দেখতে কেমন? রাদারফোর্ড ও বোর মডেল",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "3.6.1 Rutherford's gold-foil model and its limitations",
+       "3.6.2 Bohr's model: stationary orbits, energy levels, emission/absorption; successes and limitations"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরমাণু মডেল: রাদারফোর্ড ও বোর"
+     },
+     {
+      "id": "3.7",
+      "en": "Electronic configuration of atoms",
+      "bn": "ইলেকট্রনরা কোথায় থাকে? ইলেকট্রন বিন্যাস",
+      "tags": [
+       "F",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Shells K, L, M, N; 2n² rule; configuration of H(1)–Zn(30)",
+       "3.7.1 Energy sublevels s, p, d, f and their capacity",
+       "3.7.2 Principles: Aufbau (n + l rule) order 1s 2s 2p 3s 3p 4s 3d …",
+       "3.7.3 Exceptions: Cr and Cu"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরমাণুর শক্তিস্তরে ইলেকট্রন বিন্যাস"
+     },
+     {
+      "id": "3.8",
+      "en": "Isotopes",
+      "bn": "একই মৌল, ভিন্ন ভর: আইসোটোপ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Same Z, different A; isotopes of hydrogen (protium, deuterium, tritium)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আইসোটোপ"
+     },
+     {
+      "id": "3.9",
+      "en": "Relative atomic mass and relative molecular mass",
+      "bn": "পরমাণুর ভর মাপি কীভাবে? আপেক্ষিক পারমাণবিক ভর",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [
+       "Atomic mass unit (1/12 of C-12 mass = 1.66 × 10⁻²⁴ g)",
+       "3.9.1 Average relative atomic mass from isotope percentages (Cl, Cu examples)",
+       "3.9.2 Relative molecular mass from atomic masses"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আপেক্ষিক পারমাণবিক ভর ও আণবিক ভর"
+     },
+     {
+      "id": "3.10",
+      "en": "Radioactive isotopes and their uses",
+      "bn": "চিকিৎসা ও কৃষিতে তেজস্ক্রিয় আইসোটোপ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "3.10.1 Medicine: diagnosis and treatment",
+       "3.10.2 Agriculture: pest control, crop improvement",
+       "3.10.3 Electricity generation (Rooppur)",
+       "3.10.4 Harmful effects"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তেজস্ক্রিয় আইসোটোপ ও এর ব্যবহার"
+     }
+    ],
+    "notes": [],
+    "bnBook": "পদার্থের গঠন"
+   },
+   {
+    "n": 4,
+    "en": "Periodic Table",
+    "bn": "মৌলদের সাজানো ঘর: পর্যায় সারণি",
+    "pages": "59-81",
+    "topics": [
+     {
+      "id": "4.1",
+      "en": "History of the periodic table",
+      "bn": "পর্যায় সারণি কীভাবে তৈরি হলো?",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Lavoisier (metals/non-metals), Döbereiner's triads, Newlands' law of octaves, Mendeleev's table, modern periodic law (atomic number)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পর্যায় সারণির পটভূমি"
+     },
+     {
+      "id": "4.2",
+      "en": "Features of the modern periodic table",
+      "bn": "পর্যায় সারণি পড়তে শিখি: পর্যায় ও গ্রুপ",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "7 periods and 18 groups; blocks; metals, non-metals, metalloids; lanthanides and actinides"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পর্যায় সারণির বৈশিষ্ট্য"
+     },
+     {
+      "id": "4.3",
+      "en": "Finding the position of an element",
+      "bn": "কোন মৌল কোন ঘরে? অবস্থান নির্ণয়",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Period number = number of shells; group number from outer-shell electrons (Table 4.01)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পর্যায় সারণিতে মৌলের অবস্থান নির্ণয়"
+     },
+     {
+      "id": "4.4",
+      "en": "Electronic configuration: the basis of the periodic table",
+      "bn": "ইলেকট্রন বিন্যাসই সারণির চাবি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Why elements of a group have similar configurations and properties"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পর্যায় সারণির মূলভিত্তি ইলেকট্রন বিন্যাস"
+     },
+     {
+      "id": "4.5",
+      "en": "Anomalies in the periodic table",
+      "bn": "যে মৌলরা নিয়ম মানে না: সারণির ব্যতিক্রম",
+      "tags": [],
+      "subs": [
+       "Position of hydrogen (with group 1 and group 17); helium"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পর্যায় সারণির কিছু ব্যতিক্রম"
+     },
+     {
+      "id": "4.6",
+      "en": "Periodic properties",
+      "bn": "সারণিতে ডানে-বাঁয়ে, ওপরে-নিচে ধর্ম কীভাবে বদলায়",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Metallic and non-metallic character",
+       "Atomic radius (trend across a period and down a group)",
+       "Ionization energy",
+       "Electron affinity",
+       "Electronegativity"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পর্যায়বৃত্ত ধর্ম"
+     },
+     {
+      "id": "4.7",
+      "en": "Special names of groups",
+      "bn": "মৌলদের ডাকনাম: ক্ষার ধাতু, হ্যালোজেন, নিষ্ক্রিয় গ্যাস",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Alkali metals, alkaline-earth metals, coinage metals, transition metals, halogens, noble (inert) gases"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিভিন্ন গ্রুপের মৌলের বিশেষ নাম"
+     },
+     {
+      "id": "4.8",
+      "en": "Advantages of the periodic table",
+      "bn": "পর্যায় সারণি থাকায় কী সুবিধা?",
+      "tags": [],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "পর্যায় সারণির সুবিধা"
+     },
+     {
+      "id": "4.9",
+      "en": "Elements of the same group show similar properties",
+      "bn": "একই গ্রুপের মৌলরা কেন একই রকম আচরণ করে?",
+      "tags": [
+       "R",
+       "X"
+      ],
+      "subs": [
+       "Halogens: HF, HCl, HBr, HI dissolving in water to form acids",
+       "Experiment: preparing CO₂ and testing its properties"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "একই গ্রুপের মৌলের একই ধর্ম"
+     }
+    ],
+    "notes": [],
+    "bnBook": "পর্যায় সারণি"
+   },
+   {
+    "n": 5,
+    "en": "Chemical Bond",
+    "bn": "পরমাণুরা কীভাবে হাত ধরে: রাসায়নিক বন্ধন",
+    "pages": "82-108",
+    "topics": [
+     {
+      "id": "5.1",
+      "en": "Valence electrons",
+      "bn": "বাইরের কক্ষপথের ইলেকট্রন: যোজ্যতা ইলেকট্রন",
+      "tags": [
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "যোজ্যতা ইলেকট্রন"
+     },
+     {
+      "id": "5.2",
+      "en": "Valency",
+      "bn": "একটি মৌল কটি হাত বাড়ায়? যোজনী",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Valency of common elements; variable valency (Tables 5.02–5.03)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "যোজনী"
+     },
+     {
+      "id": "5.3",
+      "en": "Radicals and their valencies",
+      "bn": "দল বেঁধে চলা পরমাণু: যৌগমূলক",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Common radicals: NH₄⁺, OH⁻, NO₃⁻, SO₄²⁻, CO₃²⁻, PO₄³⁻, HCO₃⁻ …"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "যৌগমূলক ও এর যোজনী"
+     },
+     {
+      "id": "5.4",
+      "en": "Writing chemical formulae",
+      "bn": "যৌগের সংকেত লেখার সহজ কৌশল",
+      "tags": [
+       "I"
+      ],
+      "subs": [
+       "Criss-cross (valency exchange) rules"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "যৌগের রাসায়নিক সংকেত লিখন"
+     },
+     {
+      "id": "5.5",
+      "en": "Molecular formula and structural formula",
+      "bn": "সংকেতে অণুর ছবি: আণবিক ও গাঠনিক সংকেত",
+      "tags": [
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "আণবিক সংকেত ও গাঠনিক সংকেত"
+     },
+     {
+      "id": "5.6",
+      "en": "Octet and duet rules",
+      "bn": "আটটি ইলেকট্রনের খোঁজে: অষ্টক ও দুই-এর নিয়ম",
+      "tags": [
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "অষ্টক ও দুই-এর নিয়ম"
+     },
+     {
+      "id": "5.7",
+      "en": "Noble gases and their stability",
+      "bn": "নিষ্ক্রিয় গ্যাস কেন কারও সাথে মেশে না?",
+      "tags": [
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "নিষ্ক্রিয় গ্যাস ও এদের স্থিতিশীলতা"
+     },
+     {
+      "id": "5.8",
+      "en": "Chemical bonds and why they form",
+      "bn": "পরমাণুরা কেন জোড়া বাঁধে?",
+      "tags": [],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "রাসায়নিক বন্ধন ও এর কারণ"
+     },
+     {
+      "id": "5.9",
+      "en": "Cations and anions",
+      "bn": "ইলেকট্রন দিলে-নিলে আয়ন: ক্যাটায়ন ও অ্যানায়ন",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Na → Na⁺ + e⁻; Cl + e⁻ → Cl⁻"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ক্যাটায়ন ও অ্যানায়ন"
+     },
+     {
+      "id": "5.10",
+      "en": "Ionic (electrovalent) bond",
+      "bn": "ইলেকট্রন দেওয়া-নেওয়ার বন্ধন: আয়নিক বন্ধন",
+      "tags": [
+       "D",
+       "V",
+       "R"
+      ],
+      "subs": [
+       "Formation of NaCl and MgO; electron-dot diagrams"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আয়নিক বা তড়িৎযোজী বন্ধন"
+     },
+     {
+      "id": "5.11",
+      "en": "Covalent bond",
+      "bn": "ইলেকট্রন ভাগাভাগির বন্ধন: সমযোজী বন্ধন",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Single, double, triple bonds: H₂, O₂, N₂, H₂O, CH₄; polar covalent bonds (δ⁺/δ⁻)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সমযোজী বন্ধন"
+     },
+     {
+      "id": "5.12",
+      "en": "Properties of ionic and covalent compounds",
+      "bn": "লবণ আর চিনির পার্থক্য: আয়নিক ও সমযোজী যৌগ",
+      "tags": [
+       "D",
+       "X"
+      ],
+      "subs": [
+       "State, melting point, solubility, electrical conductivity (test with bulb and battery); crystals of salt"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আয়নিক ও সমযোজী যৌগের বৈশিষ্ট্য"
+     },
+     {
+      "id": "5.13",
+      "en": "Metallic bond",
+      "bn": "ধাতু কেন বিদ্যুৎ চালায়? ধাতব বন্ধন",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Sea of delocalised electrons; electrical and heat conductivity of metals"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ধাতব বন্ধন"
+     }
+    ],
+    "notes": [],
+    "bnBook": "রাসায়নিক বন্ধন"
+   },
+   {
+    "n": 6,
+    "en": "Concept of Mole and Chemical Counting",
+    "bn": "রসায়নের গণিত: মোল ও রাসায়নিক গণনা",
+    "pages": "109-141",
+    "topics": [
+     {
+      "id": "6.1",
+      "en": "Mole and Avogadro's number",
+      "bn": "রসায়নের \"ডজন\": মোল ও অ্যাভোগাড্রো সংখ্যা",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [
+       "1 mol = 6.023 × 10²³ particles = molar mass in grams",
+       "Mass of one molecule; number of molecules in a given mass"
+      ],
+      "key": [
+       "n = w/M; N = n × Nₐ"
+      ],
+      "notes": [],
+      "bnBook": "মোল ও অ্যাভোগাড্রো সংখ্যা"
+     },
+     {
+      "id": "6.1.1",
+      "en": "Molar volume of gases",
+      "bn": "এক মোল গ্যাসে কতটা জায়গা? মোলার আয়তন",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [
+       "22.4 L at STP; volume ↔ moles ↔ mass ↔ molecules"
+      ],
+      "key": [],
+      "notes": [
+       "The book uses 22.4 L at STP (0 °C, 1 atm) and Nₐ = 6.023 × 10²³; lessons will follow the book's values."
+      ],
+      "bnBook": "গ্যাসের মোলার আয়তন"
+     },
+     {
+      "id": "6.1.2",
+      "en": "Mole and molecular formula",
+      "bn": "মোল দিয়ে আণবিক সংকেত বুঝি",
+      "tags": [
+       "F"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "মোল ও আণবিক সংকেত"
+     },
+     {
+      "id": "6.1.3",
+      "en": "Solutions and molarity",
+      "bn": "দ্রবণ কতটা ঘন? মোলারিটি",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "X",
+       "I"
+      ],
+      "subs": [
+       "Solute, solvent, solution; dilute vs concentrated",
+       "Molarity; preparing solutions of given molarity in a volumetric flask",
+       "Experiment: preparing 0.1 M Na₂CO₃ solution"
+      ],
+      "key": [
+       "S = (w × 1000)/(M × V[mL])"
+      ],
+      "notes": [],
+      "bnBook": "মোলার দ্রবণ (মোলারিটি)"
+     },
+     {
+      "id": "6.2",
+      "en": "Percentage composition of elements",
+      "bn": "যৌগে কোন মৌল কত ভাগ? শতকরা সংযুতি",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [
+       "Examples: HCl, H₂O, Al₂(SO₄)₃; Experiment: percentage of water of crystallisation"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "যৌগে মৌলের শতকরা সংযুতি"
+     },
+     {
+      "id": "6.2.1",
+      "en": "Empirical and molecular formula",
+      "bn": "শতকরা থেকে সংকেত বের করি: স্থূল ও আণবিক সংকেত",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [
+       "6.2.1 Empirical formula from percentage composition",
+       "6.2.2 Molecular formula = (empirical formula)ₙ using molar mass"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "স্থূল সংকেত ও আণবিক সংকেত"
+     },
+     {
+      "id": "6.3",
+      "en": "Chemical equations and balancing",
+      "bn": "বিক্রিয়া লেখার ভাষা: রাসায়নিক সমীকরণ ও সমতাকরণ",
+      "tags": [
+       "R",
+       "I"
+      ],
+      "subs": [
+       "Writing equations with states (s, l, g, aq); 6.3.1 balancing step by step"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রাসায়নিক সমীকরণ ও সমতাকরণ"
+     },
+     {
+      "id": "6.3.2",
+      "en": "Stoichiometry: calculations from equations",
+      "bn": "সমীকরণ থেকে হিসাব: কতটা লাগবে, কতটা হবে",
+      "tags": [
+       "F",
+       "N",
+       "R"
+      ],
+      "subs": [
+       "Mass–mass, mass–volume, molecule counting (e.g. Mg + O₂, N₂ + H₂ → NH₃)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রাসায়নিক সমীকরণ থেকে গণনা"
+     },
+     {
+      "id": "6.4",
+      "en": "Limiting reactant",
+      "bn": "যে বিক্রিয়ক আগে ফুরিয়ে যায়: লিমিটিং বিক্রিয়ক",
+      "tags": [
+       "N",
+       "D",
+       "V"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "লিমিটিং বিক্রিয়ক"
+     },
+     {
+      "id": "6.5",
+      "en": "Percentage yield",
+      "bn": "আশানুরূপ উৎপাদ হলো কি? শতকরা উৎপাদ",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [],
+      "key": [
+       "% yield = (actual yield / theoretical yield) × 100"
+      ],
+      "notes": [],
+      "bnBook": "উৎপাদের শতকরা পরিমাণ হিসাব"
+     }
+    ],
+    "notes": [],
+    "bnBook": "মোলের ধারণা ও রাসায়নিক গণনা"
+   },
+   {
+    "n": 7,
+    "en": "Chemical Reactions",
+    "bn": "পদার্থ যখন বদলে যায়: রাসায়নিক বিক্রিয়া",
+    "pages": "142-167",
+    "topics": [
+     {
+      "id": "7.1",
+      "en": "Physical and chemical change",
+      "bn": "বরফ গলা আর কাগজ পোড়ার পার্থক্য: ভৌত ও রাসায়নিক পরিবর্তন",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "7.1.1 Physical change",
+       "7.1.2 Chemical change; how to tell them apart"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভৌত ও রাসায়নিক পরিবর্তন"
+     },
+     {
+      "id": "7.2.1",
+      "en": "Reversible and irreversible reactions",
+      "bn": "ফেরত যায় কি যায় না: উভমুখী ও একমুখী বিক্রিয়া",
+      "tags": [
+       "R"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "উভমুখী ও একমুখী বিক্রিয়া"
+     },
+     {
+      "id": "7.2.2",
+      "en": "Exothermic and endothermic reactions",
+      "bn": "গরম হয় না ঠান্ডা হয়: তাপোৎপাদী ও তাপহারী বিক্রিয়া",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "তাপোৎপাদী ও তাপহারী বিক্রিয়া"
+     },
+     {
+      "id": "7.2.3",
+      "en": "Redox reactions and oxidation number",
+      "bn": "ইলেকট্রন দেওয়া-নেওয়া: জারণ-বিজারণ বিক্রিয়া",
+      "tags": [
+       "R",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Oxidation = loss of electrons, reduction = gain; oxidising and reducing agents; half-reactions",
+       "Oxidation number rules and calculation (Table 7.01)",
+       "Redox reaction types: addition (synthesis), decomposition, substitution/displacement, combustion"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জারণ-বিজারণ বিক্রিয়া ও জারণ সংখ্যা"
+     },
+     {
+      "id": "7.2.4",
+      "en": "Non-redox reactions: neutralisation and precipitation",
+      "bn": "এসিড-ক্ষারের মিলন আর তলানি পড়া: প্রশমন ও অধঃক্ষেপণ",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "Acid–base neutralisation; precipitation reactions in water (Fe(OH)₃); ↓ sign"
+      ],
+      "key": [],
+      "notes": [
+       "Not a separate number in the book; this is the non-redox part of 7.2.3, given its own lesson."
+      ],
+      "bnBook": "নন-রেডক্স বিক্রিয়া: প্রশমন ও অধঃক্ষেপণ"
+     },
+     {
+      "id": "7.3",
+      "en": "Special types: hydrolysis, hydration, isomerisation, polymerisation",
+      "bn": "আরও কিছু বিক্রিয়া: আর্দ্র বিশ্লেষণ, পানিযোজন, পলিমারকরণ",
+      "tags": [
+       "R"
+      ],
+      "subs": [
+       "Hydrolysis (SiCl₄, AlCl₃); hydration and water of crystallisation (CuSO₄·5H₂O etc.)",
+       "Isomerisation (ammonium cyanate → urea); polymerisation (ethylene → polythene)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিশেষ ধরনের রাসায়নিক বিক্রিয়া: আর্দ্র বিশ্লেষণ, পানিযোজন, সমাণুকরণ, পলিমারকরণ"
+     },
+     {
+      "id": "7.4",
+      "en": "Chemical reactions in everyday life",
+      "bn": "রান্না, মরিচা আর হজম: চারপাশের বিক্রিয়া",
+      "tags": [
+       "R"
+      ],
+      "subs": [
+       "7.4.1 Real-life reactions (cooking, rusting, digestion, photosynthesis …)",
+       "7.4.2 Preventing harmful reactions (rust, food spoilage)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "দৈনন্দিন জীবনে রাসায়নিক বিক্রিয়া"
+     },
+     {
+      "id": "7.5",
+      "en": "Rate of reaction",
+      "bn": "কোন বিক্রিয়া দ্রুত, কোনটা ধীরে? বিক্রিয়ার হার",
+      "tags": [
+       "D",
+       "X"
+      ],
+      "subs": [
+       "Definition; fast (AgCl precipitate) vs slow (rusting) reactions",
+       "Investigation: Na₂CO₃ with vinegar/lemon juice in cold vs hot water (effect of temperature)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিক্রিয়ার গতিবেগ বা বিক্রিয়ার হার"
+     },
+     {
+      "id": "7.5.1",
+      "en": "Chemical equilibrium and Le Chatelier's principle",
+      "bn": "বিক্রিয়ার ভারসাম্য: সাম্যাবস্থা ও লা-শাতেলিয়ার নীতি",
+      "tags": [
+       "R",
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Dynamic equilibrium; effect of temperature, concentration and pressure on equilibrium"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রাসায়নিক সাম্যাবস্থা ও লা-শাতেলিয়ার নীতি"
+     }
+    ],
+    "notes": [],
+    "bnBook": "রাসায়নিক বিক্রিয়া"
+   },
+   {
+    "n": 8,
+    "en": "Chemistry and Energy",
+    "bn": "বিক্রিয়া থেকে শক্তি, শক্তি থেকে বিক্রিয়া",
+    "pages": "168-205",
+    "topics": [
+     {
+      "id": "8.1",
+      "en": "Chemical energy and its source",
+      "bn": "রাসায়নিক বন্ধনে লুকানো শক্তি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "8.1.1 Bond energy; intermolecular energy; energy transformation in reactions; units (J, kJ, cal)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রাসায়নিক শক্তি ও এর উৎস"
+     },
+     {
+      "id": "8.1.2",
+      "en": "Exothermic and endothermic reactions (heat of reaction)",
+      "bn": "তাপ দেয় না তাপ নেয়? বিক্রিয়ার শ্রেণিবিভাগ",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "ΔH negative / positive; energy diagrams"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তাপের পরিবর্তন অনুসারে বিক্রিয়ার শ্রেণিবিভাগ"
+     },
+     {
+      "id": "8.1.3",
+      "en": "Calculating heat of reaction from bond energies",
+      "bn": "বন্ধন শক্তি দিয়ে বিক্রিয়া তাপ হিসাব",
+      "tags": [
+       "F",
+       "N"
+      ],
+      "subs": [],
+      "key": [
+       "ΔH = Σ(bonds broken) − Σ(bonds formed)"
+      ],
+      "notes": [],
+      "bnBook": "বন্ধন শক্তি থেকে বিক্রিয়া তাপ গণনা"
+     },
+     {
+      "id": "8.2",
+      "en": "Uses of chemical energy",
+      "bn": "জ্বালানি, আতশবাজি আর ব্যাটারি: রাসায়নিক শক্তির ব্যবহার",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "8.2.1 Transformation into heat, light, electrical energy: fuel, fireworks, dry cell, Daniell cell",
+       "8.2.2 Chemical energy in living things (photosynthesis, respiration)",
+       "8.2.3 Appropriate use of chemical energy",
+       "8.2.4 Importance of fuel purity",
+       "8.2.5 Negative effects",
+       "8.2.6 Ethanol as a fuel"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রাসায়নিক শক্তির ব্যবহার"
+     },
+     {
+      "id": "8.3.1",
+      "en": "Electrochemistry basics: conductors, electrolytes, electrodes",
+      "bn": "বিদ্যুৎ ও রসায়নের যোগ: তড়িৎবিশ্লেষ্য ও তড়িৎদ্বার",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Electronic vs electrolytic conductors; strong and weak electrolytes; anode and cathode"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তড়িৎ রসায়ন: পরিবাহী, তড়িৎবিশ্লেষ্য, তড়িৎদ্বার"
+     },
+     {
+      "id": "8.3.2",
+      "en": "Electrolysis and its mechanism",
+      "bn": "বিদ্যুৎ দিয়ে যৌগ ভাঙা: তড়িৎবিশ্লেষণ",
+      "tags": [
+       "R",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Molten NaCl; concentrated NaCl solution; pure (acidified) water",
+       "Electrochemical series and which ion is discharged"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তড়িৎবিশ্লেষণ ও এর কৌশল"
+     },
+     {
+      "id": "8.3.3",
+      "en": "Uses of electrolysis: electroplating and extraction",
+      "bn": "চামচে রুপার প্রলেপ: তড়িৎবিশ্লেষণের ব্যবহার",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "Extraction of aluminium; silver electroplating; commercial products"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "তড়িৎবিশ্লেষণের ব্যবহার"
+     },
+     {
+      "id": "8.4",
+      "en": "Galvanic cells, batteries and their effects",
+      "bn": "বিক্রিয়া থেকে বিদ্যুৎ: ব্যাটারি কীভাবে কাজ করে",
+      "tags": [
+       "R",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Daniell cell; anode/cathode reactions; salt bridge; electrolytic vs galvanic cell (Table 8.03)",
+       "Dry cell, other batteries; health and environmental hazards of batteries"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রাসায়নিক বিক্রিয়ার মাধ্যমে বিদ্যুৎ উৎপাদন: গ্যালভানিক কোষ ও ব্যাটারি"
+     },
+     {
+      "id": "8.5",
+      "en": "Nuclear reactions and electricity generation",
+      "bn": "পরমাণু ভেঙে বিদ্যুৎ: নিউক্লিয়ার বিক্রিয়া",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Nuclear fission, chain reaction, fusion; nuclear reactor"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "নিউক্লিয়ার বিক্রিয়া ও বিদ্যুৎ শক্তি উৎপাদন"
+     }
+    ],
+    "notes": [],
+    "bnBook": "রসায়ন ও শক্তি"
+   },
+   {
+    "n": 9,
+    "en": "Acid–Base Balance",
+    "bn": "টক, কটু আর নিরপেক্ষ: এসিড-ক্ষারক",
+    "pages": "206-232",
+    "topics": [
+     {
+      "id": "9.1",
+      "en": "Acids and their properties",
+      "bn": "লেবু কেন টক? এসিড ও এর ধর্ম",
+      "tags": [
+       "R",
+       "X"
+      ],
+      "subs": [
+       "9.1.1 Properties of dilute acids by experiment: litmus, metals, carbonates, bases/metal oxides",
+       "9.1.2 Role of water in acidic properties (H⁺ ions)",
+       "9.1.3 Concentrated acids"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "এসিড ও এর ধর্ম"
+     },
+     {
+      "id": "9.2",
+      "en": "Bases and alkalis",
+      "bn": "সাবান কেন পিচ্ছিল? ক্ষারক ও ক্ষার",
+      "tags": [
+       "R",
+       "X"
+      ],
+      "subs": [
+       "9.2.1 Properties of dilute bases",
+       "9.2.2 Reaction with metallic salts",
+       "9.2.3 Role of water (OH⁻)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ক্ষারক ও ক্ষার"
+     },
+     {
+      "id": "9.3",
+      "en": "Corrosive nature of concentrated acids and alkalis",
+      "bn": "গাঢ় এসিড ও ক্ষার কেন বিপজ্জনক?",
+      "tags": [
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "গাঢ় এসিড ও ক্ষারের ক্ষয়কারী ধর্ম"
+     },
+     {
+      "id": "9.4",
+      "en": "pH and its importance",
+      "bn": "কতটা এসিড, কতটা ক্ষার? pH স্কেল",
+      "tags": [
+       "F",
+       "D",
+       "I",
+       "X"
+      ],
+      "subs": [
+       "pH scale 0–14; 9.4.1 measuring pH (indicator, pH paper, pH meter)",
+       "9.4.2 Importance of pH in body, soil, food, water (Table 9.01); making pH paper from plants"
+      ],
+      "key": [
+       "pH = −log[H⁺]"
+      ],
+      "notes": [],
+      "bnBook": "pH ও এর গুরুত্ব"
+     },
+     {
+      "id": "9.5",
+      "en": "Neutralisation and salts",
+      "bn": "এসিড আর ক্ষার মিললে লবণ: প্রশমন",
+      "tags": [
+       "R"
+      ],
+      "subs": [
+       "9.5.1 Neutralisation in daily life (antacid for stomach acidity, toothpaste, liming acidic soil)",
+       "9.5.2 Salts"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রশমন বিক্রিয়া ও লবণ"
+     },
+     {
+      "id": "9.6",
+      "en": "Acid rain",
+      "bn": "বৃষ্টি যখন এসিড হয়ে যায়",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "এসিড বৃষ্টি"
+     },
+     {
+      "id": "9.7",
+      "en": "Water: hardness, pollution and purification",
+      "bn": "খর পানি, দূষিত পানি আর বিশুদ্ধ পানি",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "9.7.1 Temporary and permanent hardness and their removal",
+       "9.7.2 Water pollution, control and purification methods",
+       "9.7.3 Testing the purity of water (activity)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পানি: খরতা, দূষণ, বিশুদ্ধতার পরীক্ষা ও বিশুদ্ধকরণ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "এসিড-ক্ষারক সমতা"
+   },
+   {
+    "n": 10,
+    "en": "Mineral Resources: Metals and Non-metals",
+    "bn": "মাটির নিচের সম্পদ: ধাতু ও অধাতু",
+    "pages": "233-260",
+    "topics": [
+     {
+      "id": "10.1",
+      "en": "Mineral resources: rocks, minerals and ores",
+      "bn": "শিলা, খনিজ আর আকরিক চিনি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Composition of the earth's crust",
+       "10.1.1 Igneous, sedimentary and metamorphic rocks",
+       "10.1.2 Minerals and ores (examples of ores of common metals)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "খনিজ সম্পদ: শিলা, খনিজ ও আকরিক"
+     },
+     {
+      "id": "10.2",
+      "en": "Extraction of metals",
+      "bn": "আকরিক থেকে ধাতু বের করা: ধাতু নিষ্কাশন",
+      "tags": [
+       "R",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Concentration of ore: hydraulic/gravity, froth flotation, magnetic separation, chemical method",
+       "Roasting and calcination; reactivity series (Table 10.01)",
+       "Reduction: electrolytic (aluminium with cryolite), carbon reduction, auto-reduction",
+       "Purification by electrolysis (copper)",
+       "Extraction of iron in the blast furnace"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ধাতু নিষ্কাশন"
+     },
+     {
+      "id": "10.3",
+      "en": "Alloys",
+      "bn": "মিশিয়ে বানানো ধাতু: সংকর ধাতু",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Steel, brass, bronze etc. and their uses"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "নির্বাচিত সংকর ধাতু"
+     },
+     {
+      "id": "10.4",
+      "en": "Corrosion of metals and its prevention",
+      "bn": "লোহায় মরিচা কেন ধরে, কীভাবে ঠেকাই?",
+      "tags": [
+       "R",
+       "D",
+       "X"
+      ],
+      "subs": [
+       "Rusting experiment (air, water, boiled water, oil layer)",
+       "Prevention: painting, galvanising, electroplating; recycling metals"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ধাতুর ক্ষয়: লক্ষণ, কারণ ও প্রতিরোধ"
+     },
+     {
+      "id": "10.5",
+      "en": "Non-metal minerals: sulfur and its compounds",
+      "bn": "অধাতু খনিজ: সালফার ও সালফিউরিক এসিড",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "Sulfur and its uses; sulfur dioxide",
+       "Sulfuric acid by the contact process; dehydrating action; uses"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "খনিজ অধাতু: সালফার ও এর যৌগ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "খনিজ সম্পদ: ধাতু-অধাতু"
+   },
+   {
+    "n": 11,
+    "en": "Mineral Resources: Fossils",
+    "bn": "লক্ষ বছরের পুরোনো জ্বালানি: জীবাশ্ম ও জৈব যৌগ",
+    "pages": "261-286",
+    "topics": [
+     {
+      "id": "11.1",
+      "en": "Fossil fuels: coal, natural gas and petroleum",
+      "bn": "কয়লা, গ্যাস আর পেট্রোল: জীবাশ্ম জ্বালানি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "11.1.1 Natural gas: composition and uses",
+       "11.1.2 Fractional distillation of petroleum and its fractions"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীবাশ্ম জ্বালানি: কয়লা, প্রাকৃতিক গ্যাস ও পেট্রোলিয়াম"
+     },
+     {
+      "id": "11.2",
+      "en": "Hydrocarbons and homologous series",
+      "bn": "কার্বন আর হাইড্রোজেনের পরিবার: হাইড্রোকার্বন",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "11.2.1 Aliphatic (open chain)",
+       "11.2.2 Aromatic (benzene, naphthalene)",
+       "Homologous series and general formulae (Table 11.01)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "হাইড্রোকার্বন ও সমগোত্রীয় শ্রেণি"
+     },
+     {
+      "id": "11.3",
+      "en": "Alkanes (saturated hydrocarbons)",
+      "bn": "এক বন্ধনের হাইড্রোকার্বন: অ্যালকেন",
+      "tags": [
+       "R",
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Naming alkanes; alkyl groups; preparation; properties: combustion, substitution with chlorine"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অ্যালকেন (সম্পৃক্ত হাইড্রোকার্বন)"
+     },
+     {
+      "id": "11.4",
+      "en": "Alkenes and alkynes (unsaturated hydrocarbons)",
+      "bn": "দ্বিবন্ধন আর ত্রিবন্ধন: অ্যালকিন ও অ্যালকাইন",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "Naming; preparation of ethene (from ethanol); addition reactions (H₂, Br₂…)",
+       "11.4.2 Alkynes: preparation of ethyne from calcium carbide; addition of water → ethanal"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অ্যালকিন ও অ্যালকাইন (অসম্পৃক্ত হাইড্রোকার্বন)"
+     },
+     {
+      "id": "11.5",
+      "en": "Alcohols, aldehydes and carboxylic (fatty) acids",
+      "bn": "অ্যালকোহল, অ্যালডিহাইড আর জৈব এসিড চিনি",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "11.5.1 Alcohol",
+       "11.5.2 Aldehyde (formalin misuse in food)",
+       "11.5.3 Organic acids",
+       "11.5.4 Converting between them (oxidation sequence)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অ্যালকোহল, অ্যালডিহাইড ও ফ্যাটি এসিড"
+     },
+     {
+      "id": "11.6",
+      "en": "Uses of alcohols, aldehydes and organic acids",
+      "bn": "অ্যালকোহল, অ্যালডিহাইড ও জৈব এসিড কোথায় লাগে?",
+      "tags": [],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "অ্যালকোহল, অ্যালডিহাইড ও জৈব এসিডের ব্যবহার"
+     },
+     {
+      "id": "11.7",
+      "en": "Polymers and plastics",
+      "bn": "পলিথিন থেকে প্লাস্টিক: পলিমার",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "11.7.1 Addition polymers (polythene, polypropene, PVC)",
+       "11.7.2 Condensation polymers; natural vs synthetic",
+       "11.7.3 Advantages and disadvantages of plastic"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পলিমার ও প্লাস্টিক"
+     },
+     {
+      "id": "11.7.4",
+      "en": "Organic vs inorganic compounds",
+      "bn": "জৈব আর অজৈব যৌগের পার্থক্য",
+      "tags": [],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "জৈব ও অজৈব যৌগের পার্থক্য"
+     }
+    ],
+    "notes": [],
+    "bnBook": "খনিজ সম্পদ: জীবাশ্ম"
+   },
+   {
+    "n": 12,
+    "en": "Chemistry in Our Lives",
+    "bn": "রোজকার জীবনে রসায়ন",
+    "pages": "287-304",
+    "topics": [
+     {
+      "id": "12.1",
+      "en": "Household chemistry: salt, baking soda, vinegar",
+      "bn": "রান্নাঘরের রসায়ন: লবণ, বেকিং সোডা, ভিনেগার",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "Table salt from sea water; baking soda and baking powder; making vinegar and how it preserves food"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "গৃহস্থালি রসায়ন: খাদ্য লবণ, বেকিং সোডা, ভিনেগার"
+     },
+     {
+      "id": "12.2",
+      "en": "Chemistry of cleaning",
+      "bn": "সাবান, ডিটারজেন্ট আর ব্লিচিং পাউডার কীভাবে পরিষ্কার করে?",
+      "tags": [
+       "R",
+       "D",
+       "X"
+      ],
+      "subs": [
+       "Washing soda; toilet cleaner and how it kills germs",
+       "Soap and detergent: cleaning mechanism, differences, harmful effects; making soap (experiment)",
+       "Bleaching powder: bleaching and disinfecting; glass cleaner (ammonia)",
+       "Laboratory and industrial (Haber) production of ammonia"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরিষ্কার-পরিচ্ছন্নতায় রসায়ন"
+     },
+     {
+      "id": "12.3",
+      "en": "Chemistry in agriculture and industry",
+      "bn": "খেতখামার আর কলকারখানায় রসায়ন",
+      "tags": [
+       "R",
+       "D"
+      ],
+      "subs": [
+       "Fertilisers (urea, ammonium sulphate)",
+       "Chemicals for processing and preserving agricultural products; recommended preservatives",
+       "Industrial waste and environmental pollution"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "কৃষি ও শিল্পক্ষেত্রে রসায়ন"
+     }
+    ],
+    "notes": [],
+    "bnBook": "আমাদের জীবনে রসায়ন"
+   }
+  ]
+ },
+ {
+  "key": "biology",
+  "en": "Biology",
+  "bn": "জীববিজ্ঞান",
+  "chapters": [
+   {
+    "n": 1,
+    "en": "Lessons on Life",
+    "bn": "জীবনকে জানি: জীববিজ্ঞানের শুরু",
+    "pages": "1-15",
+    "topics": [
+     {
+      "id": "1.1",
+      "en": "What is biology?",
+      "bn": "জীববিজ্ঞান কী নিয়ে পড়ে?",
+      "tags": [],
+      "subs": [
+       "Living vs non-living; the word \"biology\" (bios + logos); history of biology"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীববিজ্ঞানের ধারণা"
+     },
+     {
+      "id": "1.2",
+      "en": "Branches of biology",
+      "bn": "জীববিজ্ঞানের নানা শাখা",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Botany and zoology; 1.2.1 Pure (physical) branches: morphology, taxonomy, physiology, histology, embryology, cytology, genetics, ecology, evolution …",
+       "1.2.2 Applied branches: agriculture, medical science, fisheries, microbiology, biotechnology, genetic engineering …"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীববিজ্ঞানের শাখাসমূহ"
+     },
+     {
+      "id": "1.3",
+      "en": "Classification of living organisms and the five kingdoms",
+      "bn": "লাখো জীবকে সাজানো: পাঁচটি রাজ্য",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Aims and necessity of classification",
+       "Five-kingdom system: Monera, Protista, Fungi, Plantae, Animalia — key features and examples"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীবের শ্রেণিবিন্যাস ও পাঁচটি রাজ্য (ফাইভ কিংডম)"
+     },
+     {
+      "id": "1.4",
+      "en": "Steps (ranks) of classification",
+      "bn": "রাজ্য থেকে প্রজাতি: শ্রেণিবিন্যাসের ধাপ",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Kingdom → Phylum/Division → Class → Order → Family → Genus → Species; worked example (e.g. human, rice)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শ্রেণিবিন্যাসের ধাপ"
+     },
+     {
+      "id": "1.5",
+      "en": "Binomial nomenclature",
+      "bn": "সারা পৃথিবীতে এক নাম: দ্বিপদ নামকরণ",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "Carolus Linnaeus; genus + species; rules of writing scientific names",
+       "Examples: rice Oryza sativa, cockroach Periplaneta americana, honey bee Apis indica, hilsa Tenualosa ilisha, tiger Panthera tigris, human Homo sapiens"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "দ্বিপদ নামকরণ পদ্ধতি"
+     }
+    ],
+    "notes": [],
+    "bnBook": "জীবনপাঠ"
+   },
+   {
+    "n": 2,
+    "en": "Cells and Tissues of Organisms",
+    "bn": "জীবনের ইট: কোষ ও টিস্যু",
+    "pages": "16-47",
+    "topics": [
+     {
+      "id": "2.1",
+      "en": "The living cell and types of cells",
+      "bn": "কোষ কী? কত রকম কোষ আছে?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Cell as the unit of life; prokaryotic vs eukaryotic cells; somatic and reproductive cells"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীবকোষ ও কোষের প্রকারভেদ"
+     },
+     {
+      "id": "2.2",
+      "en": "Plant and animal cell: structure",
+      "bn": "উদ্ভিদকোষ আর প্রাণিকোষের পার্থক্য",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Labelled plant and animal cell; differences between them",
+       "Cell wall (plant) and 2.2.1 plasma membrane (plasmalemma)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "উদ্ভিদ ও প্রাণিকোষের গঠন"
+     },
+     {
+      "id": "2.2.2",
+      "en": "Cytoplasmic organelles and their functions",
+      "bn": "কোষের ভেতরের কারখানা: অঙ্গাণু ও তাদের কাজ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Membrane-bound: mitochondria, plastids (chloroplast, chromoplast, leucoplast), Golgi bodies, endoplasmic reticulum, lysosome, vacuole",
+       "Non-membranous: ribosome, centriole"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সাইটোপ্লাজমীয় অঙ্গাণু ও এদের কাজ"
+     },
+     {
+      "id": "2.2.3",
+      "en": "The nucleus and chromosomes",
+      "bn": "কোষের নিয়ন্ত্রণকেন্দ্র: নিউক্লিয়াস ও ক্রোমোজোম",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Nuclear membrane, nucleoplasm, nucleolus, chromatin; chromosome structure (centromere, arms)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "নিউক্লিয়াস বা কেন্দ্রিকা ও ক্রোমোজোম"
+     },
+     {
+      "id": "2.3.1",
+      "en": "Plant tissues",
+      "bn": "উদ্ভিদের দেহ কী দিয়ে তৈরি? উদ্ভিদ টিস্যু",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Meristematic tissue; permanent tissue: simple (parenchyma, collenchyma, sclerenchyma) and complex (xylem, phloem: sieve tube, companion cell)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "উদ্ভিদ টিস্যু"
+     },
+     {
+      "id": "2.3.2",
+      "en": "Animal tissues",
+      "bn": "আমাদের দেহের টিস্যু: প্রাণী টিস্যু",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Epithelial; connective (including blood, bone, cartilage); muscle (voluntary, involuntary, cardiac); nervous tissue (neuron)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রাণী টিস্যু"
+     },
+     {
+      "id": "2.4",
+      "en": "Organs and organ systems",
+      "bn": "কোষ থেকে দেহ: অঙ্গ ও তন্ত্র",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "From cell → tissue → organ → system; the human organ systems and their roles"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অঙ্গ ও তন্ত্র"
+     },
+     {
+      "id": "2.5",
+      "en": "Microscopes",
+      "bn": "চোখে না দেখা জিনিস দেখার যন্ত্র: অণুবীক্ষণযন্ত্র",
+      "tags": [
+       "D",
+       "X"
+      ],
+      "subs": [
+       "2.5.1 Simple microscope",
+       "2.5.2 Compound microscope: parts, use, staining a slide",
+       "2.5.3 Electron microscope"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অণুবীক্ষণযন্ত্র"
+     }
+    ],
+    "notes": [],
+    "bnBook": "জীবকোষ ও টিস্যু"
+   },
+   {
+    "n": 3,
+    "en": "Cell Division",
+    "bn": "এক কোষ থেকে দুই: কোষ বিভাজন",
+    "pages": "48-60",
+    "topics": [
+     {
+      "id": "3.1",
+      "en": "Cell division and its types",
+      "bn": "কোষ কেন ভাগ হয়? কোষ বিভাজনের প্রকার",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Why cells divide (growth and reproduction); unicellular vs multicellular; two main types: mitosis and meiosis"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "কোষ বিভাজন ও এর প্রকারভেদ"
+     },
+     {
+      "id": "3.2",
+      "en": "Mitosis and its stages",
+      "bn": "হুবহু দুই কোষ: মাইটোসিস ও এর ধাপ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Karyokinesis and cytokinesis; 3.2.1 prophase, prometaphase, metaphase, anaphase, telophase (plant vs animal cell)",
+       "Significance of mitosis"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মাইটোসিস ও এর পর্যায়"
+     },
+     {
+      "id": "3.3",
+      "en": "Meiosis and its significance",
+      "bn": "অর্ধেক ক্রোমোজোমের কোষ: মিয়োসিস",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Two divisions (meiosis-I and II); halving chromosome number; genetic variation; link to fertilisation"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মিয়োসিস ও এর গুরুত্ব"
+     }
+    ],
+    "notes": [],
+    "bnBook": "কোষ বিভাজন"
+   },
+   {
+    "n": 4,
+    "en": "Bioenergetics",
+    "bn": "জীব শক্তি পায় কোথা থেকে?",
+    "pages": "61-81",
+    "topics": [
+     {
+      "id": "4.1",
+      "en": "Bioenergetics and the role of ATP",
+      "bn": "শরীরের শক্তির মুদ্রা: ATP",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Energy flow from sun to living things; ATP ↔ ADP + Pi as the energy currency"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীবনীশক্তি ও ATP-এর ভূমিকা"
+     },
+     {
+      "id": "4.2",
+      "en": "Photosynthesis: what and where",
+      "bn": "গাছ কীভাবে খাবার বানায়? সালোকসংশ্লেষণ",
+      "tags": [
+       "R",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Leaf, mesophyll, chloroplast (grana, stroma)"
+      ],
+      "key": [
+       "6CO₂ + 12H₂O --(light, chlorophyll)--> C₆H₁₂O₆ + 6O₂ + 6H₂O"
+      ],
+      "notes": [],
+      "bnBook": "সালোকসংশ্লেষণ: কী ও কোথায়"
+     },
+     {
+      "id": "4.2.1",
+      "en": "The process of photosynthesis: light and dark reactions",
+      "bn": "পাতার ভেতরে কী ঘটে: আলোক ও অন্ধকার পর্যায়",
+      "tags": [
+       "R",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Light reaction (photolysis of water, ATP and NADPH) and dark reaction (Calvin cycle)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সালোকসংশ্লেষণ প্রক্রিয়া: আলোক ও অন্ধকার পর্যায়"
+     },
+     {
+      "id": "4.2.2",
+      "en": "Role of chlorophyll and light; factors affecting photosynthesis",
+      "bn": "ক্লোরোফিল, আলো আর যা যা সালোকসংশ্লেষণকে প্রভাবিত করে",
+      "tags": [
+       "D",
+       "X"
+      ],
+      "subs": [
+       "4.2.2 Chlorophyll",
+       "4.2.3 Light",
+       "4.2.4 Factors: light, CO₂, temperature, water, chlorophyll, mineral elements",
+       "Experiments (e.g. starch test in leaves; O₂ given off)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ক্লোরোফিল ও আলোর ভূমিকা; প্রভাবক"
+     },
+     {
+      "id": "4.2.5",
+      "en": "Importance of photosynthesis",
+      "bn": "সালোকসংশ্লেষণ না থাকলে কী হতো?",
+      "tags": [],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "সালোকসংশ্লেষণের গুরুত্ব"
+     },
+     {
+      "id": "4.3",
+      "en": "Respiration: aerobic and anaerobic",
+      "bn": "খাবার ভেঙে শক্তি: সবাত ও অবাত শ্বসন",
+      "tags": [
+       "R",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "4.3.1 Aerobic respiration: glycolysis, acetyl Co-A formation, Krebs cycle, electron transport system",
+       "Anaerobic respiration (fermentation): incomplete oxidation of glucose, pyruvic acid to alcohol/lactic acid"
+      ],
+      "key": [
+       "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy (ATP)"
+      ],
+      "notes": [],
+      "bnBook": "শ্বসন: সবাত ও অবাত"
+     },
+     {
+      "id": "4.3.2",
+      "en": "Factors affecting respiration and its significance",
+      "bn": "শ্বসন কীসে বাড়ে-কমে, আর কেন জরুরি",
+      "tags": [
+       "D",
+       "X"
+      ],
+      "subs": [
+       "4.3.2 Factors",
+       "4.3.3 Significance; experiment: germinating seeds give off CO₂ / heat"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শ্বসনের প্রভাবক ও গুরুত্ব"
+     }
+    ],
+    "notes": [],
+    "bnBook": "জীবনীশক্তি"
+   },
+   {
+    "n": 5,
+    "en": "Food, Nutrition and Digestion",
+    "bn": "খাবার, পুষ্টি আর হজম",
+    "pages": "82-121",
+    "topics": [
+     {
+      "id": "5.1",
+      "en": "Plant mineral nutrition",
+      "bn": "গাছের খাবারে খনিজ: উদ্ভিদের পুষ্টি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Macro- and micronutrients; 5.1.1 sources and roles",
+       "5.1.2 Deficiency symptoms (e.g. chlorosis)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "উদ্ভিদের খনিজ পুষ্টি"
+     },
+     {
+      "id": "5.2",
+      "en": "Food and its components",
+      "bn": "খাবারে কী কী থাকে? খাদ্য উপাদান",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "5.2.1 Carbohydrate, protein, fat, vitamins, minerals, water, roughage: composition, sources, roles"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "খাদ্য ও খাদ্যের উপাদান"
+     },
+     {
+      "id": "5.2.2",
+      "en": "Food pyramid and balanced diet",
+      "bn": "কী কতটা খাব? খাদ্য পিরামিড ও সুষম খাদ্য",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "5.2.2 Ideal food pyramid",
+       "5.2.3 Principles of food habits; characteristics of a balanced diet; making a food chart"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "খাদ্য পিরামিড ও সুষম খাদ্য"
+     },
+     {
+      "id": "5.3",
+      "en": "Vitamin and mineral deficiency diseases",
+      "bn": "পুষ্টির অভাবে যেসব রোগ হয়",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Goitre (iodine), night blindness (vitamin A), rickets (vitamin D), anaemia (iron)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পুষ্টির অভাবজনিত রোগ"
+     },
+     {
+      "id": "5.4",
+      "en": "Energy in food",
+      "bn": "খাবারে কত ক্যালরি?",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [
+       "5.4.1 Kilocalorie as the unit",
+       "5.4.2 Calculating the energy value of foods (carbohydrate 4, protein 4, fat 9 kcal/g)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পুষ্টির উপাদানে শক্তি"
+     },
+     {
+      "id": "5.5",
+      "en": "BMR and BMI",
+      "bn": "আমার ওজন ঠিক আছে তো? BMR ও BMI",
+      "tags": [
+       "F",
+       "N",
+       "I"
+      ],
+      "subs": [
+       "5.5.1 Basal metabolic rate and daily energy need",
+       "5.5.2 Body mass index and weight categories"
+      ],
+      "key": [
+       "BMI = weight (kg) / height² (m²)"
+      ],
+      "notes": [],
+      "bnBook": "BMR ও BMI"
+     },
+     {
+      "id": "5.6",
+      "en": "Exercise and rest",
+      "bn": "ব্যায়াম আর বিশ্রাম কেন দরকার",
+      "tags": [],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "ব্যায়াম ও বিশ্রাম"
+     },
+     {
+      "id": "5.7",
+      "en": "Chemicals in food preservation and food adulteration",
+      "bn": "খাবারে ভেজাল আর ক্ষতিকর রাসায়নিক",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Safe vs harmful preservatives; adulterants and artificial colours (formalin, carbide etc.)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "খাদ্য সংরক্ষণে রাসায়নিক ও খাদ্যে ভেজাল"
+     },
+     {
+      "id": "5.8",
+      "en": "Digestive system (alimentary canal and glands)",
+      "bn": "খাবার মুখ থেকে পেটে: পরিপাকতন্ত্র",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "5.8.1 Mouth, pharynx, oesophagus, stomach, small and large intestine",
+       "5.8.2 Salivary glands, liver, pancreas, gastric and intestinal glands"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরিপাকতন্ত্র (পৌষ্টিকনালি ও পরিপাক গ্রন্থি)"
+     },
+     {
+      "id": "5.8.3",
+      "en": "Digestion and absorption of food",
+      "bn": "খাবার ভেঙে রক্তে যাওয়া: পরিপাক ও শোষণ",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Digestion of carbohydrate, protein and fat; enzymes (amylase, pepsin, trypsin, lipase …); bile; absorption by villi"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "খাদ্যের পরিপাক ও শোষণ"
+     },
+     {
+      "id": "5.9",
+      "en": "Diseases of the digestive system",
+      "bn": "পেটের অসুখ: আন্ত্রিক সমস্যা ও প্রতিকার",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Dyspepsia, dysentery, constipation, gastric and peptic ulcer, appendicitis, worm infections, diarrhoea (ORS)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আন্ত্রিক সমস্যা ও পরিপাকতন্ত্রের রোগ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "খাদ্য, পুষ্টি এবং পরিপাক"
+   },
+   {
+    "n": 6,
+    "en": "Transport in Organisms",
+    "bn": "শরীরে জিনিস আনা-নেওয়া: জীবে পরিবহণ",
+    "pages": "122-156",
+    "topics": [
+     {
+      "id": "6.1",
+      "en": "Plant–water relationship; diffusion, osmosis and imbibition",
+      "bn": "গাছ পানি টানে কীভাবে? ব্যাপন ও অভিস্রবণ",
+      "tags": [
+       "D",
+       "V",
+       "X"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "উদ্ভিদ ও পানির সম্পর্ক: ব্যাপন, অভিস্রবণ, ইমবাইবিশন"
+     },
+     {
+      "id": "6.2",
+      "en": "Absorption of water and minerals; translocation",
+      "bn": "শিকড় থেকে পাতা পর্যন্ত পানি ও খাবারের পথ",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Root hairs; path of water to xylem; ascent of sap",
+       "6.2.1 Translocation and its necessity",
+       "6.2.2 Transport of food through phloem"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পানি ও খনিজ লবণ শোষণ; পরিবহণ"
+     },
+     {
+      "id": "6.2.3",
+      "en": "Transpiration",
+      "bn": "পাতা দিয়ে পানি বের হওয়া: প্রস্বেদন",
+      "tags": [
+       "D",
+       "X"
+      ],
+      "subs": [
+       "Types (stomatal, cuticular, lenticular); mechanism of stomatal opening; factors; experiment",
+       "Transpiration: a necessary evil"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রস্বেদন"
+     },
+     {
+      "id": "6.3",
+      "en": "Blood: composition and functions",
+      "bn": "রক্তে কী কী আছে, কী কাজ করে?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "6.3.1 Plasma; RBC, WBC (types), platelets; functions; RBC vs WBC comparison"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মানবদেহে রক্ত সংবহন: রক্তের উপাদান ও কাজ"
+     },
+     {
+      "id": "6.3.2",
+      "en": "Blood groups and transfusion",
+      "bn": "কার রক্ত কে নিতে পারে? রক্তের গ্রুপ",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "ABO and Rh systems; universal donor and recipient; donor–recipient table"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ব্লাড গ্রুপ বা রক্তের গ্রুপ ও রক্ত পরিসঞ্চালন"
+     },
+     {
+      "id": "6.4",
+      "en": "The human heart and circulation",
+      "bn": "শরীরের পাম্প: হৃৎপিণ্ড কীভাবে কাজ করে",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "6.4.1 Structure: pericardium, layers, chambers, valves",
+       "6.4.2 Circulation through the heart (cardiac cycle); pulmonary and systemic circulation"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "হৃৎপিণ্ডের গঠন ও কাজ"
+     },
+     {
+      "id": "6.4.3",
+      "en": "Blood vessels",
+      "bn": "রক্তের রাস্তা: ধমনি, শিরা ও কৈশিক জালিকা",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Artery, vein, capillary: structure and differences"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রক্তবাহিকা"
+     },
+     {
+      "id": "6.4.4",
+      "en": "Blood pressure and cholesterol",
+      "bn": "রক্তচাপ আর কোলেস্টেরল বুঝি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "6.4.4 Normal BP; hypertension: causes and risks",
+       "6.4.5 Cholesterol types (LDL, HDL) and healthy levels"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রক্তচাপ ও কোলেস্টেরল"
+     },
+     {
+      "id": "6.4.6",
+      "en": "Leukaemia and circulatory diseases",
+      "bn": "রক্ত ও হৃদ্‌রোগ: লিউকেমিয়া, হার্ট অ্যাটাক",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "6.4.6 Leukaemia (blood/bone marrow cancer) and treatment",
+       "6.5 Heart attack (angina, myocardial infarction), rheumatic fever; prevention and remedies"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "লিউকেমিয়া ও রক্ত সংবহনতন্ত্রের রোগ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "জীবে পরিবহণ"
+   },
+   {
+    "n": 7,
+    "en": "Exchange of Gases",
+    "bn": "নিঃশ্বাসের বিজ্ঞান: গ্যাসীয় বিনিময়",
+    "pages": "157-174",
+    "topics": [
+     {
+      "id": "7.1",
+      "en": "Gas exchange in plants",
+      "bn": "গাছও নিঃশ্বাস নেয়: উদ্ভিদে গ্যাসীয় বিনিময়",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Stomata, lenticels; exchange during photosynthesis and respiration"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "উদ্ভিদে গ্যাসীয় বিনিময়"
+     },
+     {
+      "id": "7.2",
+      "en": "Human respiratory system",
+      "bn": "নাক থেকে ফুসফুস: আমাদের শ্বসনতন্ত্র",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "7.2.1 Nose, pharynx, larynx, trachea, bronchi, bronchioles, lungs, alveoli"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মানব শ্বসনতন্ত্র"
+     },
+     {
+      "id": "7.2.2",
+      "en": "Breathing and gas exchange",
+      "bn": "শ্বাস নেওয়া-ছাড়া আর গ্যাস বদল",
+      "tags": [
+       "D",
+       "V",
+       "X"
+      ],
+      "subs": [
+       "Inhalation and exhalation (diaphragm, rib muscles); exchange in alveoli; transport of O₂ and CO₂",
+       "Experiment: exhaled air turns lime water milky"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শ্বাসকার্য ও গ্যাস বিনিময়"
+     },
+     {
+      "id": "7.3",
+      "en": "Diseases of the respiratory system",
+      "bn": "শ্বাসের অসুখ: হাঁপানি, নিউমোনিয়া, যক্ষ্মা",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Asthma, bronchitis, pneumonia, tuberculosis, lung cancer: symptoms, prevention, remedies; harm of smoking"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "শ্বাসনালি-সংক্রান্ত রোগ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "গ্যাসীয় বিনিময়"
+   },
+   {
+    "n": 8,
+    "en": "Excretory System",
+    "bn": "শরীরের বর্জ্য বের করা: রেচন",
+    "pages": "175-185",
+    "topics": [
+     {
+      "id": "8.1",
+      "en": "Excretion and excretory organs",
+      "bn": "শরীর বর্জ্য বের করে কীভাবে? রেচন অঙ্গ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Waste products (CO₂, urea, uric acid, excess water) and the organs that remove them"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "রেচন ও রেচন অঙ্গ"
+     },
+     {
+      "id": "8.2",
+      "en": "Kidney structure and the nephron",
+      "bn": "শরীরের ছাঁকনি: বৃক্ক ও নেফ্রন",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Cortex, medulla, pelvis, renal pyramid; nephron: Bowman's capsule, glomerulus, tubules, loop of Henle, collecting duct"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বৃক্কের গঠন ও নেফ্রন"
+     },
+     {
+      "id": "8.2.1",
+      "en": "Urine formation and osmoregulation",
+      "bn": "প্রস্রাব কীভাবে তৈরি হয়, পানির ভারসাম্য কে রাখে",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Ultrafiltration, selective reabsorption, secretion; role of kidneys in water balance"
+      ],
+      "key": [],
+      "notes": [
+       "Not a separate numbered section in the book; split out of 8.2 so the kidney lesson is not too long."
+      ],
+      "bnBook": "মূত্র তৈরি ও অভিস্রবণ নিয়ন্ত্রণ"
+     },
+     {
+      "id": "8.3",
+      "en": "Kidney diseases, dialysis and transplantation",
+      "bn": "কিডনি অকেজো হলে: পাথর, ডায়ালাইসিস ও প্রতিস্থাপন",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Kidney stones: causes and prevention; kidney failure; dialysis; kidney transplant",
+       "Why drinking excessive water is not advisable"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বৃক্ক বিকল, ডায়ালাইসিস ও প্রতিস্থাপন"
+     }
+    ],
+    "notes": [],
+    "bnBook": "রেচন প্রক্রিয়া"
+   },
+   {
+    "n": 9,
+    "en": "Firmness and Locomotion",
+    "bn": "হাড়, পেশি আর চলাফেরা",
+    "pages": "186-198",
+    "topics": [
+     {
+      "id": "9.1",
+      "en": "The human skeleton",
+      "bn": "শরীরের কাঠামো: মানব কঙ্কাল",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Axial and appendicular skeleton; 9.1.1 roles in support and movement"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মানবকঙ্কালের সাধারণ পরিচিতি"
+     },
+     {
+      "id": "9.1.2",
+      "en": "Bone, cartilage and joints",
+      "bn": "হাড়, তরুণাস্থি আর জোড়া",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Structure of bone; types of cartilage; types of joints (fixed, slightly movable, movable: hinge, ball-and-socket …)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অস্থি, তরুণাস্থি ও অস্থিসন্ধি"
+     },
+     {
+      "id": "9.2",
+      "en": "Muscles, tendons and ligaments in movement",
+      "bn": "পেশি টেনে হাড় নড়ায়: পেশি, টেন্ডন ও লিগামেন্ট",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "9.2 Muscle types",
+       "9.2.1 Antagonistic muscles (biceps–triceps) in locomotion",
+       "9.2.2 Tendon vs ligament"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পেশি, টেন্ডন ও লিগামেন্ট"
+     },
+     {
+      "id": "9.3",
+      "en": "Diseases of bones and joints",
+      "bn": "হাড় ও জোড়ার অসুখ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Osteoporosis, rheumatoid arthritis: symptoms, remedies, prevention"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অস্থিসংক্রান্ত রোগ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "দৃঢ়তা প্রদান ও চলন"
+   },
+   {
+    "n": 10,
+    "en": "Co-ordination",
+    "bn": "শরীর কীভাবে সব সামলায়: সমন্বয়",
+    "pages": "199-225",
+    "topics": [
+     {
+      "id": "10.1",
+      "en": "Co-ordination in plants: phytohormones and movement",
+      "bn": "গাছ আলোর দিকে বাঁকে কেন? উদ্ভিদ হরমোন",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "10.1.1 Auxin, gibberellin, cytokinin, ethylene (and florigen); roles in growth",
+       "Photoperiodism: short-day, long-day, day-neutral plants",
+       "Movement in plants: movement of locomotion and movement of curvature; phototropism (positive/negative)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "উদ্ভিদে সমন্বয়: ফাইটোহরমোন ও চলন"
+     },
+     {
+      "id": "10.2",
+      "en": "Co-ordination in animals",
+      "bn": "প্রাণীর শরীরে সমন্বয় কীভাবে হয়",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Nervous and hormonal co-ordination compared"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রাণীর সমন্বয় প্রক্রিয়া"
+     },
+     {
+      "id": "10.3",
+      "en": "Neuron and nerve impulse",
+      "bn": "স্নায়ুর বার্তাবাহক: নিউরন",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Neuron: cell body, dendrite, axon, myelin, nodes of Ranvier; synapse; how an impulse travels"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "নিউরন ও স্নায়ু উদ্দীপনা"
+     },
+     {
+      "id": "10.3.1",
+      "en": "Central nervous system: brain and spinal cord",
+      "bn": "শরীরের নিয়ন্ত্রণকক্ষ: মস্তিষ্ক ও সুষুম্নাকাণ্ড",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Forebrain (cerebrum), midbrain, hindbrain (cerebellum, pons, medulla); spinal cord",
+       "Reflex action and reflex arc"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "কেন্দ্রীয় স্নায়ুতন্ত্র: মস্তিষ্ক ও সুষুম্নাকাণ্ড"
+     },
+     {
+      "id": "10.3.2",
+      "en": "Peripheral nervous system",
+      "bn": "সারা শরীরে ছড়ানো স্নায়ু: প্রান্তীয় স্নায়ুতন্ত্র",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Cranial and spinal nerves; autonomic nervous system"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রান্তীয় স্নায়ুতন্ত্র"
+     },
+     {
+      "id": "10.4",
+      "en": "Hormones and endocrine glands",
+      "bn": "রাসায়নিক বার্তাবাহক: হরমোন ও গ্রন্থি",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "10.4.1 Pituitary, thyroid, parathyroid, thymus, adrenal, islets of Langerhans, gonads: hormones and functions"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "হরমোন ও অন্তঃক্ষরা গ্রন্থি"
+     },
+     {
+      "id": "10.5",
+      "en": "Hormonal disorders: thyroid problems and diabetes",
+      "bn": "হরমোনের গোলমাল: থাইরয়েড ও ডায়াবেটিস",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Thyroid problems; diabetes (insulin; types; control by discipline, diet, drug)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রাণরস বা হরমোনজনিত অস্বাভাবিকতা: থাইরয়েড সমস্যা ও ডায়াবেটিস"
+     },
+     {
+      "id": "10.6",
+      "en": "Disabilities from nerve disorders",
+      "bn": "স্নায়ুর অসুখ: স্ট্রোক, প্যারালাইসিস, মৃগী",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Stroke, paralysis, epilepsy, Parkinson's disease"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "স্নায়বিক বৈকল্যজনিত শারীরিক সমস্যা"
+     },
+     {
+      "id": "10.7",
+      "en": "Effects of tobacco and drugs on co-ordination",
+      "bn": "তামাক ও মাদক শরীরের কী ক্ষতি করে",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Harmful effects; ways out of addiction"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সমন্বয় কার্যক্রমে তামাক ও মাদকদ্রব্যের প্রভাব"
+     }
+    ],
+    "notes": [],
+    "bnBook": "সমন্বয়"
+   },
+   {
+    "n": 11,
+    "en": "Reproduction in Organisms",
+    "bn": "নতুন জীবের জন্ম: প্রজনন",
+    "pages": "226-248",
+    "topics": [
+     {
+      "id": "11.1",
+      "en": "Reproduction and its significance",
+      "bn": "জীব কেন প্রজনন করে?",
+      "tags": [],
+      "subs": [
+       "Asexual vs sexual reproduction"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রজনন ও এর গুরুত্ব"
+     },
+     {
+      "id": "11.2.1",
+      "en": "The flower: reproductive organ of plants",
+      "bn": "ফুল কেবল সুন্দর নয়: ফুলের অংশ ও কাজ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Calyx, corolla, androecium (stamen: filament, anther), gynoecium (pistil: stigma, style, ovary); complete/incomplete, bisexual/unisexual"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রজনন অঙ্গ: ফুল"
+     },
+     {
+      "id": "11.2.2",
+      "en": "Pollination; formation of gametes",
+      "bn": "পরাগ এক ফুল থেকে আরেক ফুলে: পরাগায়ন",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Self- and cross-pollination; agents (insect, wind, water, animal)",
+       "Microsporogenesis (pollen) and megasporogenesis (embryo sac)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরাগায়ন; গ্যামেট সৃষ্টি"
+     },
+     {
+      "id": "11.2.3",
+      "en": "Fertilisation and seed/fruit formation in plants",
+      "bn": "ফুল থেকে ফল ও বীজ: উদ্ভিদের নিষেক",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Pollen tube growth; double fertilisation; development of embryo, seed and fruit"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "উদ্ভিদের নিষেক ও বীজ গঠন"
+     },
+     {
+      "id": "11.3",
+      "en": "Animal reproduction and fertilisation",
+      "bn": "প্রাণীর প্রজনন ও নিষেক",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "11.3.1 Fertilisation: external and internal; its significance; formation of sperm and ovum by meiosis",
+       "11.3.2 Role of hormones in human reproduction"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রাণীর প্রজনন ও নিষেক"
+     },
+     {
+      "id": "11.3.3",
+      "en": "Development of the embryo",
+      "bn": "মাতৃগর্ভে শিশুর বেড়ে ওঠা: ভ্রূণের বিকাশ",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Zygote → embryo → foetus; placenta, umbilical cord, amnion"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভ্রূণের বিকাশ"
+     },
+     {
+      "id": "11.4",
+      "en": "Reproduction-related diseases: AIDS",
+      "bn": "এইডস: কীভাবে ছড়ায়, কীভাবে বাঁচি",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "11.4.1 HIV (structure), how it spreads and does not spread, symptoms, prevention"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রজনন-সংক্রান্ত রোগ: এইডস"
+     }
+    ],
+    "notes": [],
+    "bnBook": "জীবের প্রজনন"
+   },
+   {
+    "n": 12,
+    "en": "Heredity in Organisms and Biological Evolution",
+    "bn": "মা-বাবার বৈশিষ্ট্য আর জীবের বিবর্তন",
+    "pages": "249-277",
+    "topics": [
+     {
+      "id": "12.1",
+      "en": "Heredity and hereditary material: chromosome, DNA, RNA, gene",
+      "bn": "মা-বাবার বৈশিষ্ট্য সন্তানে আসে কীভাবে? DNA ও জিন",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "12.1.1 Chromosome structure; DNA double helix (nucleotides, base pairs A–T, G–C); RNA; gene",
+       "DNA replication (as covered in the book); activity: extracting DNA"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বংশগতি ও বংশগতির ধারক: ক্রোমোজোম, DNA, RNA, জিন"
+     },
+     {
+      "id": "12.1.2",
+      "en": "DNA test (DNA fingerprinting)",
+      "bn": "অপরাধী ধরা আর পরিচয় নিশ্চিত করা: DNA টেস্ট",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Uses in identifying criminals, parentage, victims"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "DNA টেস্ট"
+     },
+     {
+      "id": "12.2",
+      "en": "Sex determination in humans",
+      "bn": "ছেলে না মেয়ে, কে ঠিক করে? লিঙ্গ নির্ধারণ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "22 pairs of autosomes + XX / XY; how a child's sex is decided"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মানুষের লিঙ্গ নির্ধারণ"
+     },
+     {
+      "id": "12.3",
+      "en": "Genetic disorders: colour blindness and thalassaemia",
+      "bn": "বংশগত রোগ: বর্ণান্ধতা ও থ্যালাসেমিয়া",
+      "tags": [
+       "D",
+       "I"
+      ],
+      "subs": [
+       "X-linked inheritance of colour blindness (crosses)",
+       "Thalassaemia: inheritance from carrier parents; prevention (screening)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জেনেটিক ডিসঅর্ডার বা বংশগতি ব্যাধি: বর্ণান্ধতা ও থ্যালাসেমিয়া"
+     },
+     {
+      "id": "12.4",
+      "en": "Origin of life and evolution",
+      "bn": "পৃথিবীতে প্রাণের শুরু আর বিবর্তন",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "12.4.1 Origin of life; progression of life forms through time"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীবনের উৎপত্তি ও জৈব অভিব্যক্তি তত্ত্ব"
+     },
+     {
+      "id": "12.4.2",
+      "en": "Darwinism and evidence of evolution",
+      "bn": "ডারউইনের তত্ত্ব ও বিবর্তনের প্রমাণ",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Darwin's natural selection: conditions; non-Darwinian evolution",
+       "Evidences of evolution; applications (new varieties, mosquito/insect control)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ডারউইনবাদ ও জৈব অভিব্যক্তির প্রমাণ"
+     }
+    ],
+    "notes": [],
+    "bnBook": "জীবের বংশগতি ও জৈব অভিব্যক্তি"
+   },
+   {
+    "n": 13,
+    "en": "Environment of Life",
+    "bn": "আমাদের চারপাশের পরিবেশ",
+    "pages": "278-300",
+    "topics": [
+     {
+      "id": "13.1",
+      "en": "Ecosystem and its components",
+      "bn": "জীব আর পরিবেশ মিলে বাস্তুতন্ত্র",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "13.1.1 Abiotic and biotic components (producer, consumer, decomposer)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাস্তুতন্ত্র ও এর উপাদান"
+     },
+     {
+      "id": "13.2",
+      "en": "Pond ecosystem",
+      "bn": "একটি পুকুরের ভেতরের জগৎ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [],
+      "key": [],
+      "notes": [],
+      "bnBook": "পুকুরের বাস্তুতন্ত্র"
+     },
+     {
+      "id": "13.3",
+      "en": "Food chain",
+      "bn": "কে কাকে খায়: খাদ্যশৃঙ্খল",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Predator, parasitic and saprophytic food chains"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "খাদ্যশিকল বা খাদ্যশৃঙ্খল"
+     },
+     {
+      "id": "13.4",
+      "en": "Food web and energy flow",
+      "bn": "খাবারের জাল আর শক্তির প্রবাহ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Food web; nutrient cycling; energy flow between trophic levels (10% idea); energy pyramid"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "খাদ্যজাল ও শক্তিপ্রবাহ"
+     },
+     {
+      "id": "13.5",
+      "en": "Biodiversity",
+      "bn": "নানা রকম জীব: জীববৈচিত্র্য",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "13.5.1 Genetic, species and ecosystem diversity"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীববৈচিত্র্য"
+     },
+     {
+      "id": "13.5.2",
+      "en": "Interactions and interdependence among organisms",
+      "bn": "জীবেরা একে অপরের ওপর কীভাবে নির্ভর করে",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Mutualism (e.g. root nodule bacteria), commensalism, parasitism, predation, competition"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীবের মধ্যে মিথস্ক্রিয়া ও আন্তঃনির্ভরশীলতা"
+     },
+     {
+      "id": "13.6",
+      "en": "Conserving the environment",
+      "bn": "পরিবেশ বাঁচাই কেন আর কীভাবে",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Why conservation matters and the ways to conserve the environment and biodiversity"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পরিবেশ সংরক্ষণের গুরুত্ব ও উপায়"
+     }
+    ],
+    "notes": [],
+    "bnBook": "জীবের পরিবেশ"
+   },
+   {
+    "n": 14,
+    "en": "Biotechnology",
+    "bn": "জীব দিয়ে প্রযুক্তি: জীবপ্রযুক্তি",
+    "pages": "301-312",
+    "topics": [
+     {
+      "id": "14.1",
+      "en": "What is biotechnology?",
+      "bn": "জীবপ্রযুক্তি কী? জীব দিয়ে সমস্যার সমাধান",
+      "tags": [
+       "D"
+      ],
+      "subs": [
+       "Traditional and modern biotechnology; examples"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জীবপ্রযুক্তি বা বায়োটেকনোলজি কী?"
+     },
+     {
+      "id": "14.2",
+      "en": "Tissue culture",
+      "bn": "এক টুকরো থেকে হাজার চারা: টিস্যু কালচার",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "14.2.1 Steps: mother plant, culture medium, sterilisation, callus, shoot/root media, transfer to soil",
+       "14.2.2 Uses of tissue culture"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "টিস্যু কালচার"
+     },
+     {
+      "id": "14.3",
+      "en": "Genetic engineering and GMOs",
+      "bn": "জিন বদলে নতুন জীব: জেনেটিক ইঞ্জিনিয়ারিং ও GMO",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "14.3.1 Steps in making recombinant DNA / a GMO (cutting, joining, inserting, selecting)",
+       "14.3.2 Uses: crops, animals, fisheries, healthcare (insulin), environment protection"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জেনেটিক ইঞ্জিনিয়ারিং ও GMO"
+     }
+    ],
+    "notes": [],
+    "bnBook": "জীবপ্রযুক্তি"
+   }
+  ]
+ }
+]

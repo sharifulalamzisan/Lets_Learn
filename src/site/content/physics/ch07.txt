@@ -1,0 +1,1902 @@
+@@chapter
+== en
+## intro
+Throw a pebble into a pond and rings of ripples spread out to the bank. Shout in front of a tall building and your own voice comes back to you. Both are **waves**: a disturbance that travels from place to place and carries energy with it, while the water or air itself stays roughly where it was.
+
+In this chapter you will start with the simplest back-and-forth motion, simple harmonic motion, and use it to understand waves: their types (transverse and longitudinal), the quantities that describe them and the key relation v = fλ. Then you will study **sound**: how it is made, why it needs a medium, how fast it travels, echoes, its uses (from bats to ultrasonography), musical sound and the problem of sound pollution.
+## objectives
+- describe simple harmonic motion and the quantities time period, frequency, amplitude and phase
+- explain what a wave is and describe its characteristics
+- distinguish between transverse and longitudinal waves
+- use the relations v = fλ and T = 1/f
+- explain the characteristics of sound waves and the range of hearing
+- explain how an echo is formed and use it to measure distance
+- explain how the velocity of sound changes with medium, temperature and humidity
+- describe the uses of sound, including ultrasound and SONAR
+- explain musical sound, pitch and loudness
+- explain the causes and effects of sound pollution and how to reduce it
+== bn
+## intro
+পুকুরে একটা ঢিল ছুড়ে দাও, দেখবে ঢেউয়ের বৃত্তগুলো ছড়িয়ে পাড় পর্যন্ত চলে যায়। উঁচু দালানের সামনে জোরে ডাক দাও, নিজের গলাই ফিরে আসে তোমার কাছে। দুটোই **তরঙ্গ**: এমন এক আন্দোলন যা এক জায়গা থেকে আরেক জায়গায় ছুটে যায় আর সাথে শক্তি বয়ে নেয়, অথচ পানি বা বাতাস নিজে মোটামুটি নিজের জায়গাতেই থাকে।
+
+এই অধ্যায়ে সবচেয়ে সরল আসা-যাওয়ার গতি, সরল স্পন্দন গতি দিয়ে শুরু করে তরঙ্গ বুঝবে: এর প্রকারভেদ (অনুপ্রস্থ ও অনুদৈর্ঘ্য), তরঙ্গ বর্ণনার রাশিগুলো আর গুরুত্বপূর্ণ সম্পর্ক v = fλ। তারপর শিখবে **শব্দ** নিয়ে: শব্দ কীভাবে তৈরি হয়, কেন মাধ্যম লাগে, কত বেগে চলে, প্রতিধ্বনি, শব্দের ব্যবহার (বাদুড় থেকে আলট্রাসনোগ্রাফি), সুরযুক্ত শব্দ আর শব্দদূষণের সমস্যা।
+## objectives
+- সরল স্পন্দন গতি এবং পর্যায়কাল, কম্পাঙ্ক, বিস্তার ও দশা ব্যাখ্যা করতে পারবে
+- তরঙ্গ কী তা বলতে এবং এর বৈশিষ্ট্য বর্ণনা করতে পারবে
+- অনুপ্রস্থ ও অনুদৈর্ঘ্য তরঙ্গের পার্থক্য করতে পারবে
+- v = fλ ও T = ১/f সম্পর্ক ব্যবহার করতে পারবে
+- শব্দতরঙ্গের বৈশিষ্ট্য ও শ্রুতিসীমা ব্যাখ্যা করতে পারবে
+- প্রতিধ্বনি কীভাবে তৈরি হয় ব্যাখ্যা করতে এবং এর সাহায্যে দূরত্ব মাপতে পারবে
+- মাধ্যম, তাপমাত্রা ও আর্দ্রতার সাথে শব্দের বেগ কীভাবে বদলায় ব্যাখ্যা করতে পারবে
+- আলট্রাসাউন্ড ও সোনারসহ শব্দের ব্যবহার বর্ণনা করতে পারবে
+- সুরযুক্ত শব্দ, তীক্ষ্ণতা ও প্রাবল্য ব্যাখ্যা করতে পারবে
+- শব্দদূষণের কারণ, প্রভাব ও তা কমানোর উপায় ব্যাখ্যা করতে পারবে
+
+@@ 7.1
+@visual c7shm
+@related 7.2.3 5.5 4.3.2
+@media https://phet.colorado.edu/en/simulations/masses-and-springs | Masses and Springs (PhET simulation) | ভর ও স্প্রিং (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Simple harmonic motion** is the repeated back-and-forth motion of an object about its equilibrium position, driven by a restoring force that is proportional to the displacement and always points back towards equilibrium: F = −kx.
+## simple
+Hang a mass from a spring. It stretches the spring a little and then hangs still. This resting place is the **equilibrium position**: here the spring's pull exactly balances the weight.
+
+Now pull the mass down a small distance *a* and let go. The spring pulls it back up. It doesn't stop at equilibrium; it overshoots and rises the same distance *a* above it. Then it comes down again, passes equilibrium, and so on: up, down, up, down.
+
+Why does it keep going? Whenever the mass is away from equilibrium, the spring pushes or pulls it **back**. The farther away it is, the harder the pull (Hooke's law from [[5.5|chapter 5]]):
+
+**F = −kx**
+
+The minus sign says the force always points **opposite** to the displacement x. Motion produced by such a force is called **simple harmonic motion**. As the mass moves, its energy keeps changing between kinetic energy (fastest at equilibrium) and the spring's potential energy (largest at the two ends, where the mass stops for an instant). In a real spring friction slowly eats up the energy and the motion dies away; without friction it would go on forever.
+
+**Describing the motion.** A few quantities are enough:
+
+- **Time period T**: the time for one complete oscillation.
+- **Frequency f**: the number of complete oscillations per second, f = 1/T, measured in hertz (Hz).
+- **Amplitude a**: the largest distance from equilibrium, up or down.
+- **Phase**: the exact "state" of the motion at an instant: where the mass is **and** which way it is moving. The same phase comes back after every time period.
+
+**Careful with "complete oscillation".** If the mass starts at a point moving **upwards**, it passes that same point a little later moving **downwards**. That is not yet one oscillation. One complete oscillation is finished only when it is back at the same point moving the same way, upwards again.
+
+**Two useful results** (you don't need to derive them): for a mass m on a spring of constant k, T = 2π√(m/k). For a simple pendulum of length l, T = 2π√(l/g). Surprisingly, the pendulum's period does **not** depend on the mass hung on it.
+## analogy
+Think of a child on a swing. Pull it back and let go: it rushes to the middle, overshoots, slows down, stops for an instant at the other side, and comes back. The further it is from the middle, the harder it is pulled back towards the middle. That "always pulled back to the centre" is what makes simple harmonic motion.
+## definition
+**Simple harmonic motion**: the periodic motion of an object about its equilibrium position in which the restoring force (and so the acceleration) is proportional to the displacement from equilibrium and always directed towards the equilibrium position: F = −kx.
+
+**Time period (T)**: the time taken for one complete oscillation. **Frequency (f)**: the number of complete oscillations in one second; f = 1/T; unit hertz (Hz). **Amplitude**: the maximum displacement from the equilibrium position. **Phase**: the state of motion of the oscillating object at an instant (its position and direction of motion).
+## why
+Why does the mass overshoot equilibrium instead of stopping there? At equilibrium the force is zero, but the mass is moving at its **fastest**, so it carries on (inertia). As soon as it passes equilibrium, the restoring force starts pulling it back and slows it down, until it stops at the other end and returns. Inertia makes it overshoot; the restoring force brings it back. Together they make the motion repeat.
+## terms
+Equilibrium position | Resting position where the net force is zero
+Restoring force | Force that pulls the object back to equilibrium, F = −kx
+Complete oscillation | Back to the same position, moving in the same direction
+Time period (T) | Time for one complete oscillation (s)
+Frequency (f) | Number of oscillations per second (Hz)
+Amplitude (a) | Maximum displacement from equilibrium
+Phase | State of motion at an instant: position and direction
+## formula
+$$ F = −kx
+$$ f = 1/T
+$$ Spring: T = 2π√(m/k)
+$$ Pendulum: T = 2π√(l/g)
+k | spring constant | N/m
+x | displacement from equilibrium | m
+T | time period | s
+f | frequency | Hz (= s^{-1})
+l | length of pendulum | m
+! A pendulum's time period does not depend on the mass of the bob.
+## visual
+Change the mass, the spring constant and the amplitude. Watch the graph trace the motion and the energy bars swap between kinetic and potential.
+## real
+The pendulum of an old wall clock swings with a fixed time period, which is why it can keep time. The springs (shock absorbers) of a rickshaw or a car make the body bob up and down in nearly simple harmonic motion after a bump, and dampers are added so the bobbing dies out quickly.
+## example
+Q: A stone of mass 10 g hangs from a string 1 m long. What is its time period? (g = 9.8 m/s²)
+Given: l = 1 m, g = 9.8 m/s²
+Formula: T = 2π√(l/g)
+Substitution: T = 2 × 3.1416 × √(1 ÷ 9.8)
+Calculation: √(0.102) = 0.319; T = 6.283 × 0.319 ≈ 2.0 s
+> The mass (10 g) is not needed: a pendulum's period doesn't depend on it.
+Answer: about 2.0 s
+## example
+Q: A 0.5 kg mass hangs from a spring of spring constant 50 N/m. Find its time period and frequency.
+Given: m = 0.5 kg, k = 50 N/m
+Formula: T = 2π√(m/k); f = 1/T
+Calculation: m/k = 0.5 ÷ 50 = 0.01; √0.01 = 0.1; T = 2π × 0.1 = 0.628 s; f = 1 ÷ 0.628 ≈ 1.59 Hz
+Answer: T ≈ 0.63 s, f ≈ 1.6 Hz
+## mistakes
+x Returning to the starting point always means one complete oscillation.
+v It must be back at the same point **and** moving in the same direction.
+x A heavier pendulum bob swings more slowly.
+v The pendulum's period depends only on l and g, not on the mass.
+x The mass moves fastest at the ends of its path.
+v It stops for an instant at the ends and moves fastest at equilibrium.
+## remember
+- Simple harmonic motion: restoring force F = −kx, always towards equilibrium.
+- T = time for one complete oscillation; f = 1/T; unit Hz.
+- Amplitude = maximum displacement; phase = position + direction of motion.
+- Energy swaps between kinetic (max at equilibrium) and potential (max at the ends).
+- Spring: T = 2π√(m/k); pendulum: T = 2π√(l/g).
+## think
+You can find g yourself with a stone, a 1 m string and a stopwatch. What would you measure, and how would you calculate g from it?
+## quiz
+? A pendulum makes 20 complete oscillations in 10 s. Its frequency is:
+- 0.5 Hz
+* 2 Hz
+- 10 Hz
+- 200 Hz
+= f = number of oscillations per second = 20 ÷ 10 = 2 Hz.
+? In simple harmonic motion, the restoring force is:
+- Constant
+* Proportional to the displacement and directed towards equilibrium
+- Largest at the equilibrium position
+- In the same direction as the displacement
+= F = −kx: bigger displacement, bigger force, always pointing back.
+? If the length of a pendulum is made 4 times larger, its time period becomes:
+- 4 times
+* 2 times
+- Half
+- Unchanged
+= T ∝ √l, and √4 = 2.
+? The time period of an oscillation is 0.5 s. Its frequency is:
+- 0.5 Hz
+- 1 Hz
+* 2 Hz
+- 5 Hz
+= f = 1/T = 1 ÷ 0.5 = 2 Hz.
+== bn
+## what
+**সরল স্পন্দন গতি** হলো সাম্যাবস্থার দুপাশে কোনো বস্তুর বারবার আসা-যাওয়ার গতি, যেখানে প্রত্যয়নী বল সরণের সমানুপাতিক আর সবসময় সাম্যাবস্থার দিকে: F = −kx।
+## simple
+একটা স্প্রিংয়ের নিচে একটা ভর ঝোলাও। ভরটা স্প্রিংকে একটু লম্বা করে তারপর স্থির হয়ে ঝুলে থাকে। এই থেমে থাকার জায়গাটাই **সাম্যাবস্থা**: এখানে স্প্রিংয়ের টান ঠিক ওজনের সমান।
+
+এবার ভরটাকে একটু, ধরো *a* দূরত্ব, নিচে টেনে ছেড়ে দাও। স্প্রিং একে ওপরে টেনে তোলে। কিন্তু সাম্যাবস্থায় এসে থামে না; পার হয়ে গিয়ে ওপরে ঠিক *a* দূরত্ব উঠে যায়। তারপর আবার নামে, সাম্যাবস্থা পার হয়, এভাবে চলতেই থাকে: ওপর-নিচ, ওপর-নিচ।
+
+চলতে থাকে কেন? ভর যখনই সাম্যাবস্থা থেকে সরে থাকে, স্প্রিং একে **ফেরত** ঠেলে বা টানে। যত দূরে, টান তত জোরে ([[5.5|পঞ্চম অধ্যায়ের]] হুকের সূত্র):
+
+**F = −kx**
+
+ঋণ চিহ্নটি বলে বল সবসময় সরণ x-এর **বিপরীত** দিকে। এমন বলের কারণে যে গতি হয় তাকে বলে **সরল স্পন্দন গতি**। চলার সময় ভরের শক্তি বারবার গতিশক্তি (সাম্যাবস্থায় সবচেয়ে দ্রুত) আর স্প্রিংয়ের বিভবশক্তির (দুই প্রান্তে সবচেয়ে বেশি, যেখানে ভর এক মুহূর্তের জন্য থেমে যায়) মধ্যে বদলায়। বাস্তবে ঘর্ষণ ধীরে ধীরে শক্তি খেয়ে ফেলে বলে গতি থেমে যায়; ঘর্ষণ না থাকলে অনন্তকাল চলত।
+
+**গতিটা বর্ণনা করা।** কয়েকটা রাশিই যথেষ্ট:
+
+- **পর্যায়কাল বা দোলনকাল T**: একটি পূর্ণ স্পন্দনে যে সময় লাগে।
+- **কম্পাঙ্ক f**: প্রতি সেকেন্ডে পূর্ণ স্পন্দনের সংখ্যা, f = ১/T, একক হার্টজ (Hz)।
+- **বিস্তার a**: সাম্যাবস্থা থেকে ওপরে বা নিচে সবচেয়ে বেশি সরণ।
+- **দশা**: কোনো মুহূর্তে গতির নির্দিষ্ট "অবস্থা": ভরটি কোথায় **এবং** কোন দিকে যাচ্ছে। প্রতি পর্যায়কাল পরপর একই দশা ফিরে আসে।
+
+**"পূর্ণ স্পন্দন" নিয়ে সাবধান।** ভর যদি কোনো বিন্দু থেকে **ওপরের দিকে** চলা শুরু করে, একটু পরে সেই একই বিন্দু দিয়ে **নিচের দিকে** যায়। এটা এখনো একটি স্পন্দন নয়। একই বিন্দুতে একই দিকে, অর্থাৎ আবার ওপরের দিকে চলতে চলতে ফিরে এলে তবেই একটি পূর্ণ স্পন্দন হয়।
+
+**দুটি কাজের ফল** (প্রতিপাদন লাগবে না): k ধ্রুবকের স্প্রিংয়ে m ভরের জন্য T = ২π√(m/k)। l দৈর্ঘ্যের সরল দোলকের জন্য T = ২π√(l/g)। মজার ব্যাপার, দোলকের দোলনকাল ঝোলানো ভরের ওপর **নির্ভর করে না**।
+## analogy
+দোলনায় বসা শিশুর কথা ভাবো। পেছনে টেনে ছেড়ে দাও: দ্রুত মাঝখানে আসে, পেরিয়ে যায়, ধীর হয়, অন্য পাশে এক মুহূর্ত থামে, আবার ফিরে আসে। মাঝখান থেকে যত দূরে, তত জোরে মাঝের দিকে টান পড়ে। এই "সবসময় কেন্দ্রের দিকে ফেরার টান"-ই সরল ছন্দিত স্পন্দন তৈরি করে।
+## definition
+**সরল স্পন্দন গতি**: সাম্যাবস্থার দুপাশে বস্তুর এমন পর্যাবৃত্ত গতি, যেখানে প্রত্যয়নী বল (তাই ত্বরণও) সাম্যাবস্থা থেকে সরণের সমানুপাতিক এবং সবসময় সাম্যাবস্থার দিকে ক্রিয়া করে: F = −kx।
+
+**পর্যায়কাল (T)**: একটি পূর্ণ স্পন্দনে লাগা সময়। **কম্পাঙ্ক (f)**: এক সেকেন্ডে পূর্ণ স্পন্দনের সংখ্যা; f = ১/T; একক হার্টজ (Hz)। **বিস্তার**: সাম্যাবস্থা থেকে সর্বোচ্চ সরণ। **দশা**: কোনো মুহূর্তে স্পন্দনশীল বস্তুর গতির অবস্থা (তার অবস্থান ও গতির দিক)।
+## why
+ভরটা সাম্যাবস্থায় থেমে না গিয়ে পার হয়ে যায় কেন? সাম্যাবস্থায় বল শূন্য, কিন্তু তখন ভরের বেগ **সবচেয়ে বেশি**, তাই সে চলতেই থাকে (জড়তা)। সাম্যাবস্থা পার হওয়ামাত্র প্রত্যয়নী বল একে পেছনে টানতে থাকে আর ধীর করে, শেষে অন্য প্রান্তে থেমে ফিরে আসে। জড়তা একে পার করিয়ে দেয়; প্রত্যয়নী বল ফিরিয়ে আনে। দুটো মিলে গতিটা বারবার ঘটে।
+## terms
+সাম্যাবস্থা | থেমে থাকার অবস্থান, যেখানে লব্ধি বল শূন্য
+প্রত্যয়নী বল | যে বল বস্তুকে সাম্যাবস্থায় ফেরত টানে, F = −kx
+পূর্ণ স্পন্দন | একই অবস্থানে, একই দিকে চলতে চলতে ফিরে আসা
+পর্যায়কাল বা দোলনকাল (T) | একটি পূর্ণ স্পন্দনের সময় (s)
+কম্পাঙ্ক (f) | প্রতি সেকেন্ডে স্পন্দনের সংখ্যা (Hz)
+বিস্তার (a) | সাম্যাবস্থা থেকে সর্বোচ্চ সরণ
+দশা | কোনো মুহূর্তে গতির অবস্থা: অবস্থান ও দিক
+## formula
+$$ F = −kx
+$$ f = ১/T
+$$ স্প্রিং: T = ২π√(m/k)
+$$ দোলক: T = ২π√(l/g)
+k | স্প্রিং ধ্রুবক | N/m
+x | সাম্যাবস্থা থেকে সরণ | m
+T | পর্যায়কাল | s
+f | কম্পাঙ্ক | Hz (= s^{-১})
+l | দোলকের দৈর্ঘ্য | m
+! দোলকের দোলনকাল ববের ভরের ওপর নির্ভর করে না।
+## visual
+ভর, স্প্রিং ধ্রুবক আর বিস্তার বদলাও। লেখচিত্রে গতির ছাপ দেখো, আর দেখো শক্তির দণ্ড দুটো কীভাবে গতিশক্তি আর বিভবশক্তির মধ্যে অদলবদল হয়।
+## real
+পুরোনো দেয়ালঘড়ির দোলক একটি নির্দিষ্ট দোলনকালে দোলে, তাই সেটি সময় রাখতে পারে। রিকশা বা গাড়ির স্প্রিং (শক অ্যাবজর্বার) গর্তে পড়ার পর গাড়ির কাঠামোকে প্রায় সরল স্পন্দন গতিতে ওঠানামা করায়, আর ড্যাম্পার লাগানো থাকে যাতে এই দোলা দ্রুত থেমে যায়।
+## example
+প্রশ্ন: ১ m লম্বা একটি সুতা দিয়ে ১০ g ভরের একটি পাথর ঝোলানো হলো। এর দোলনকাল কত? (g = ৯.৮ m/s²)
+দেওয়া আছে: l = ১ m, g = ৯.৮ m/s²
+সূত্র: T = ২π√(l/g)
+মান বসাই: T = ২ × ৩.১৪১৬ × √(১ ÷ ৯.৮)
+হিসাব: √(০.১০২) = ০.৩১৯; T = ৬.২৮৩ × ০.৩১৯ ≈ ২.০ s
+> ভর (১০ g) লাগছে না: দোলকের দোলনকাল ভরের ওপর নির্ভর করে না।
+উত্তর: প্রায় ২.০ s
+## example
+প্রশ্ন: ৫০ N/m স্প্রিং ধ্রুবকের একটি স্প্রিং থেকে ০.৫ kg ভর ঝোলানো হলো। এর পর্যায়কাল ও কম্পাঙ্ক বের করো।
+দেওয়া আছে: m = ০.৫ kg, k = ৫০ N/m
+সূত্র: T = ২π√(m/k); f = ১/T
+হিসাব: m/k = ০.৫ ÷ ৫০ = ০.০১; √০.০১ = ০.১; T = ২π × ০.১ = ০.৬২৮ s; f = ১ ÷ ০.৬২৮ ≈ ১.৫৯ Hz
+উত্তর: T ≈ ০.৬৩ s, f ≈ ১.৬ Hz
+## mistakes
+x শুরুর বিন্দুতে ফিরে এলেই একটি পূর্ণ স্পন্দন হয়।
+v একই বিন্দুতে **এবং** একই দিকে চলতে চলতে ফিরে আসতে হবে।
+x ভারী ববের দোলক ধীরে দোলে।
+v দোলকের দোলনকাল শুধু l ও g-এর ওপর নির্ভর করে, ভরের ওপর নয়।
+x পথের দুই প্রান্তে ভর সবচেয়ে দ্রুত চলে।
+v প্রান্তে এক মুহূর্ত থেমে যায়, সবচেয়ে দ্রুত চলে সাম্যাবস্থায়।
+## remember
+- সরল স্পন্দন গতি: প্রত্যয়নী বল F = −kx, সবসময় সাম্যাবস্থার দিকে।
+- T = একটি পূর্ণ স্পন্দনের সময়; f = ১/T; একক Hz।
+- বিস্তার = সর্বোচ্চ সরণ; দশা = অবস্থান + গতির দিক।
+- শক্তি গতিশক্তি (সাম্যাবস্থায় সর্বোচ্চ) আর বিভবশক্তির (প্রান্তে সর্বোচ্চ) মধ্যে অদলবদল হয়।
+- স্প্রিং: T = ২π√(m/k); দোলক: T = ২π√(l/g)।
+## think
+একটা পাথর, ১ m সুতা আর একটা স্টপওয়াচ দিয়ে তুমি নিজেই g বের করতে পারো। কী মাপবে, আর তা থেকে g কীভাবে হিসাব করবে?
+## quiz
+? একটি দোলক ১০ s-এ ২০টি পূর্ণ স্পন্দন দেয়। এর কম্পাঙ্ক:
+- ০.৫ Hz
+* ২ Hz
+- ১০ Hz
+- ২০০ Hz
+= f = প্রতি সেকেন্ডে স্পন্দন সংখ্যা = ২০ ÷ ১০ = ২ Hz।
+? সরল স্পন্দন গতিতে প্রত্যয়নী বল:
+- ধ্রুব থাকে
+* সরণের সমানুপাতিক এবং সাম্যাবস্থার দিকে
+- সাম্যাবস্থায় সবচেয়ে বেশি
+- সরণের দিকেই ক্রিয়া করে
+= F = −kx: সরণ বেশি হলে বল বেশি, আর সবসময় ফেরত টানে।
+? দোলকের দৈর্ঘ্য ৪ গুণ করলে দোলনকাল হয়:
+- ৪ গুণ
+* ২ গুণ
+- অর্ধেক
+- অপরিবর্তিত
+= T ∝ √l, আর √৪ = ২।
+? কোনো স্পন্দনের পর্যায়কাল ০.৫ s। এর কম্পাঙ্ক:
+- ০.৫ Hz
+- ১ Hz
+* ২ Hz
+- ৫ Hz
+= f = ১/T = ১ ÷ ০.৫ = ২ Hz।
+
+@@ 7.2
+@visual c7super
+@related 7.2.2 7.2.3 7.3.1 8.2
+@media https://phet.colorado.edu/en/simulations/wave-on-a-string | Wave on a String (PhET simulation) | দড়িতে তরঙ্গ (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+A **wave** is a disturbance that travels from one place to another as time passes. It carries **energy** from place to place, but the particles of the medium only vibrate about their own positions; they don't travel along with the wave.
+## simple
+You have seen many waves already. Ripples spread out when a pebble falls into a pond. Light spreads across the room when you switch on a bulb. Your voice travels from your mouth to a friend's ear. A jerk at one end of a tight rope races along to the other end.
+
+What do they have in common? Something is **disturbed** (the height of the water, the air pressure, the position of the rope) and that disturbance **moves** from place to place. So the book defines it like this: if the disturbance in some quantity changes its position with time, it is a **wave**. A single disturbance (one jerk) is a wave pulse; a series of repeated disturbances is a **wavetrain**. Usually "wave" means such a repeating wavetrain.
+
+**Does the water travel with the ripple?** Put a small leaf on a pond and throw a pebble nearby. The ripples pass under the leaf; the leaf just bobs up and down and stays roughly where it was. The water is not flowing to the bank; only the **disturbance** and its **energy** are.
+
+**Two big families.** Some waves need a medium (solid, liquid or gas) to travel: water waves, waves on a rope, sound. These are **mechanical waves**, and the particles of the medium take part in passing the wave along. Others need no medium at all: light, microwaves, gamma rays. These are **electromagnetic waves**, oscillations of electric and magnetic fields, and they can cross empty space; that's how sunlight reaches us.
+
+**Characteristics of waves (7.2.1).** The first applies to mechanical waves; the rest to nearly all waves:
+
+1. **Particles vibrate in place.** The medium's particles oscillate about their own positions and are not carried away with the wave.
+2. **Waves carry energy.** The energy carried is proportional to the **square of the amplitude**: double the amplitude and the energy becomes **four** times.
+3. **Every wave has a velocity**, which depends on the medium. Sound travels at about 330 m/s in air but 1493 m/s in water. A wave runs faster along a tight rope than a slack one.
+4. **Reflection and refraction.** When a wave reaches a new medium, part of it can bounce back into the first medium (**reflection**, as in an echo) and part can go into the second medium (**refraction**, which is why you can hear sounds from outside when your head is under water).
+5. **Superposition.** When two waves arrive at the same place at the same time, their disturbances **add**. Two crests meeting make a bigger crest; a crest meeting an equal trough can cancel it out completely for a moment. Then each wave carries on unchanged, as if nothing had happened.
+## analogy
+Drop a stone into a still pond. Rings spread out to the edge, but a leaf floating on the water only bobs up and down; it doesn't travel to the bank. The **wave** travels; the water itself stays roughly where it was. A wave carries energy from place to place, not the material.
+## definition
+**Wave**: if the deviation or disturbance in the value of a quantity moves from one place to another with time, that disturbance is called a wave. A series of repeated disturbances is called a **wavetrain**.
+
+**Mechanical wave**: a wave that needs a material medium (solid, liquid or gas) to propagate. **Electromagnetic wave**: a wave of oscillating electric and magnetic fields that needs no medium.
+
+**Superposition**: when two or more waves meet at a point, the resultant disturbance is the sum of the individual disturbances.
+## why
+How can energy move forward if the particles stay put? Each particle is linked to its neighbours (by springs of elasticity in a solid, by pressure in air, by surface tension and gravity in water). When one particle vibrates, it tugs or pushes the next one, which starts vibrating a moment later, and so on. It is like a line of people passing a bucket: the bucket travels the whole line while each person stays in place.
+## terms
+Wave | A disturbance that travels with time
+Wavetrain | A series of repeated disturbances
+Mechanical wave | Needs a medium: sound, water waves, rope waves
+Electromagnetic wave | Needs no medium: light, microwaves, gamma rays
+Reflection | Part of a wave returns into the first medium
+Refraction | A wave passes into a second medium
+Superposition | Waves meeting at a point add their disturbances
+## formula
+$$ Energy carried ∝ (amplitude)²
+! Double the amplitude → 4 × the energy; triple it → 9 ×.
+## visual
+Send two pulses towards each other, either both upward or one upward and one downward, and watch them add as they pass through each other. Follow the marked particle: it only moves up and down.
+## real
+During a cyclone warning, the huge waves hitting Bangladesh's coast carry enormous energy, enough to smash embankments, even though the sea water far out is only moving up and down. Noise-cancelling headphones use superposition: they make a sound wave exactly opposite to the outside noise so that the two cancel.
+## example
+Q: The amplitude of a water wave increases from 2 cm to 6 cm. How many times does the energy it carries increase?
+Given: amplitude becomes 6 ÷ 2 = 3 times
+Formula: energy ∝ (amplitude)²
+Calculation: 3² = 9
+Answer: The energy becomes 9 times.
+## mistakes
+x A wave carries the water (or air) along with it.
+v Only the disturbance and its energy travel; the particles vibrate about their own positions.
+x All waves need a medium.
+v Mechanical waves need one; electromagnetic waves like light can travel through empty space.
+x When a crest meets an equal trough, both waves are destroyed forever.
+v They cancel only while overlapping; afterwards each wave continues unchanged.
+## remember
+- Wave = a disturbance that travels with time; it carries energy, not matter.
+- Mechanical waves need a medium; electromagnetic waves don't.
+- Energy carried ∝ (amplitude)².
+- Wave velocity depends on the medium.
+- Waves show reflection, refraction and superposition.
+## think
+A Mexican wave runs around a cricket stadium, yet every spectator just stands up and sits down in their own seat. Which characteristic of waves does this show?
+## quiz
+? When a wave passes through water, the water particles:
+- Move forward with the wave
+* Vibrate about their own positions
+- Stay completely still
+- Move backwards
+= The particles oscillate in place; only the disturbance travels.
+? Which of these does NOT need a medium to travel?
+- Sound
+- Water wave
+* Light
+- Wave on a rope
+= Light is an electromagnetic wave and can cross empty space.
+? If the amplitude of a wave is doubled, the energy it carries becomes:
+- Double
+* Four times
+- Half
+- The same
+= Energy ∝ (amplitude)², and 2² = 4.
+? Two equal pulses, one a crest and one a trough, meet exactly. At that moment the rope is:
+- Twice as high
+* Flat
+- Broken
+- Twice as low
+= Opposite disturbances add to zero (superposition).
+== bn
+## what
+**তরঙ্গ** হলো এমন এক আন্দোলন, যা সময়ের সাথে এক জায়গা থেকে আরেক জায়গায় স্থানান্তরিত হয়। এটি এক স্থান থেকে আরেক স্থানে **শক্তি** বয়ে নেয়, কিন্তু মাধ্যমের কণাগুলো শুধু নিজ অবস্থানে স্পন্দিত হয়; তরঙ্গের সাথে এগিয়ে যায় না।
+## simple
+তুমি অনেক তরঙ্গ দেখেছ। পুকুরে ঢিল পড়লে ঢেউ ছড়িয়ে পড়ে। বাতি জ্বালালে আলো ঘরে ছড়িয়ে যায়। তোমার গলার আওয়াজ মুখ থেকে বন্ধুর কানে পৌঁছায়। টান করা দড়ির এক মাথায় ঝাঁকুনি দিলে সেটা ছুটে অন্য মাথায় চলে যায়।
+
+এদের মধ্যে মিল কী? কোনো কিছু **আন্দোলিত** হয় (পানির উচ্চতা, বাতাসের চাপ, দড়ির অবস্থান) আর সেই আন্দোলন এক জায়গা থেকে আরেক জায়গায় **সরে যায়**। তাই বই এভাবে সংজ্ঞা দেয়: কোনো রাশির মানের বিচ্যুতি বা আন্দোলন যদি সময়ের সাথে স্থানান্তরিত হয়, তবে তা **তরঙ্গ**। একটি একক আন্দোলনও (একটা ঝাঁকুনি) তরঙ্গ; পরপর পুনরাবৃত্ত আন্দোলন হলো **তরঙ্গদল**। সাধারণত "তরঙ্গ" বলতে এমন পর্যাবৃত্ত তরঙ্গদলকেই বোঝায়।
+
+**পানি কি ঢেউয়ের সাথে চলে যায়?** পুকুরে একটা ছোট পাতা রেখে কাছে একটা ঢিল ফেলো। ঢেউগুলো পাতার নিচ দিয়ে চলে যায়; পাতাটা শুধু ওঠানামা করে, মোটামুটি নিজের জায়গাতেই থাকে। পানি পাড়ের দিকে বয়ে যাচ্ছে না; যাচ্ছে শুধু **আন্দোলন** আর তার **শক্তি**।
+
+**দুটি বড় পরিবার।** কিছু তরঙ্গ চলতে মাধ্যম (কঠিন, তরল বা বায়বীয়) লাগে: পানির ঢেউ, দড়ির তরঙ্গ, শব্দ। এগুলো **যান্ত্রিক তরঙ্গ**, আর মাধ্যমের কণাগুলো তরঙ্গ এগিয়ে নিতে অংশ নেয়। আবার কিছু তরঙ্গের কোনো মাধ্যমই লাগে না: আলো, মাইক্রোওয়েভ, গামা রশ্মি। এগুলো **তড়িৎচুম্বকীয় তরঙ্গ**, বৈদ্যুতিক ও চৌম্বকক্ষেত্রের স্পন্দন, যা শূন্যস্থানও পার হতে পারে; এভাবেই সূর্যের আলো আমাদের কাছে আসে।
+
+**তরঙ্গের বৈশিষ্ট্য (৭.২.১)।** প্রথমটি যান্ত্রিক তরঙ্গের জন্য; বাকিগুলো প্রায় সব তরঙ্গের জন্য:
+
+১. **কণাগুলো নিজ জায়গায় কাঁপে।** মাধ্যমের কণা নিজ অবস্থানে স্পন্দিত হয়, তরঙ্গের সাথে সরে যায় না।
+২. **তরঙ্গ শক্তি বয়ে নেয়।** প্রবাহিত শক্তি **বিস্তারের বর্গের** সমানুপাতিক: বিস্তার দ্বিগুণ হলে শক্তি **চার** গুণ।
+৩. **প্রতিটি তরঙ্গের বেগ আছে**, যা মাধ্যমের ওপর নির্ভর করে। বাতাসে শব্দের বেগ প্রায় ৩৩০ m/s, কিন্তু পানিতে ১৪৯৩ m/s। ঢিলে দড়ির চেয়ে টানটান দড়িতে তরঙ্গ দ্রুত চলে।
+৪. **প্রতিফলন ও প্রতিসরণ।** তরঙ্গ নতুন মাধ্যমে পৌঁছালে এর কিছু অংশ প্রথম মাধ্যমে ফিরে আসতে পারে (**প্রতিফলন**, যেমন প্রতিধ্বনি) আর কিছু অংশ দ্বিতীয় মাধ্যমে ঢুকতে পারে (**প্রতিসরণ**, এজন্যই পানির নিচে মাথা ডুবিয়েও বাইরের শব্দ শোনা যায়)।
+৫. **উপরিপাতন।** দুটি তরঙ্গ একই সময়ে একই জায়গায় পৌঁছালে তাদের আন্দোলন **যোগ হয়**। দুটি শীর্ষ মিললে আরও বড় শীর্ষ হয়; একটি শীর্ষ সমান মাপের একটি পাদের সাথে মিললে ক্ষণিকের জন্য পুরো নিঃশেষ হয়ে যেতে পারে। তারপর প্রতিটি তরঙ্গ কিছুই হয়নি এমনভাবে আগের মতো এগিয়ে যায়।
+## analogy
+স্থির পুকুরে একটি ঢিল ফেলো। ঢেউয়ের বৃত্ত পাড় পর্যন্ত ছড়ায়, কিন্তু পানিতে ভাসা একটি পাতা শুধু ওঠানামা করে; পাড়ে চলে যায় না। **তরঙ্গ** এগিয়ে যায়; পানি নিজে মোটামুটি একই জায়গায় থাকে। তরঙ্গ এক জায়গা থেকে আরেক জায়গায় শক্তি বয়ে নেয়, পদার্থ নয়।
+## definition
+**তরঙ্গ**: কোনো একটি রাশির মানের বিচ্যুতি বা আন্দোলন যদি সময়ের সাথে স্থানান্তরিত হয়, তবে সেই আন্দোলনকে তরঙ্গ বলে। পরপর পুনরাবৃত্ত আন্দোলনকে বলে **তরঙ্গদল**।
+
+**যান্ত্রিক তরঙ্গ**: যে তরঙ্গ প্রবাহের জন্য কঠিন, তরল বা বায়বীয় মাধ্যম লাগে। **তড়িৎচুম্বকীয় তরঙ্গ**: বৈদ্যুতিক ও চৌম্বকক্ষেত্রের স্পন্দনের তরঙ্গ, যার কোনো মাধ্যম লাগে না।
+
+**উপরিপাতন**: দুই বা ততোধিক তরঙ্গ কোনো বিন্দুতে মিললে লব্ধি আন্দোলন হয় আলাদা আলাদা আন্দোলনের যোগফল।
+## why
+কণাগুলো জায়গায় থাকলে শক্তি এগোয় কীভাবে? প্রতিটি কণা পাশের কণার সাথে যুক্ত (কঠিনে স্থিতিস্থাপকতা দিয়ে, বাতাসে চাপ দিয়ে, পানিতে পৃষ্ঠটান আর অভিকর্ষ দিয়ে)। একটি কণা কাঁপলে সেটি পাশেরটিকে টানে বা ঠেলে, সেটি একটু পরে কাঁপতে শুরু করে, এভাবে চলে। যেন একসারি মানুষ হাতে হাতে বালতি পার করছে: বালতি পুরো সারি পেরিয়ে যায়, অথচ প্রত্যেকে নিজের জায়গায় দাঁড়িয়ে।
+## terms
+তরঙ্গ | সময়ের সাথে স্থানান্তরিত আন্দোলন
+তরঙ্গদল | পরপর পুনরাবৃত্ত আন্দোলন
+যান্ত্রিক তরঙ্গ | মাধ্যম লাগে: শব্দ, পানির ঢেউ, দড়ির তরঙ্গ
+তড়িৎচুম্বকীয় তরঙ্গ | মাধ্যম লাগে না: আলো, মাইক্রোওয়েভ, গামা রশ্মি
+প্রতিফলন | তরঙ্গের অংশ প্রথম মাধ্যমে ফিরে আসা
+প্রতিসরণ | তরঙ্গ দ্বিতীয় মাধ্যমে প্রবেশ করা
+উপরিপাতন | এক বিন্দুতে মিলিত তরঙ্গের আন্দোলন যোগ হওয়া
+## formula
+$$ প্রবাহিত শক্তি ∝ (বিস্তার)²
+! বিস্তার দ্বিগুণ → শক্তি ৪ গুণ; তিন গুণ → ৯ গুণ।
+## visual
+দুটি স্পন্দ পরস্পরের দিকে পাঠাও, দুটোই ওপরের দিকে অথবা একটি ওপরে আর একটি নিচে, আর দেখো একে অপরকে পার হওয়ার সময় কীভাবে যোগ হয়। চিহ্নিত কণাটি লক্ষ করো: এটি শুধু ওঠানামা করে।
+## real
+ঘূর্ণিঝড়ের সময় বাংলাদেশের উপকূলে আছড়ে পড়া বিশাল ঢেউ প্রচণ্ড শক্তি বহন করে, বাঁধ ভেঙে দেওয়ার মতো, অথচ গভীর সমুদ্রে পানি শুধু ওঠানামা করে। নয়েজ-ক্যানসেলিং হেডফোন উপরিপাতন ব্যবহার করে: বাইরের শব্দের ঠিক বিপরীত একটি শব্দতরঙ্গ তৈরি করে, যাতে দুটো মিলে নিঃশেষ হয়ে যায়।
+## example
+প্রশ্ন: পানির একটি ঢেউয়ের বিস্তার ২ cm থেকে বেড়ে ৬ cm হলো। এর বহন করা শক্তি কত গুণ হলো?
+দেওয়া আছে: বিস্তার হলো ৬ ÷ ২ = ৩ গুণ
+সূত্র: শক্তি ∝ (বিস্তার)²
+হিসাব: ৩² = ৯
+উত্তর: শক্তি ৯ গুণ হলো।
+## mistakes
+x তরঙ্গ পানি (বা বাতাস) সাথে করে নিয়ে যায়।
+v শুধু আন্দোলন আর তার শক্তি যায়; কণাগুলো নিজ অবস্থানে স্পন্দিত হয়।
+x সব তরঙ্গের মাধ্যম লাগে।
+v যান্ত্রিক তরঙ্গের লাগে; আলোর মতো তড়িৎচুম্বকীয় তরঙ্গ শূন্যস্থান দিয়েও চলে।
+x শীর্ষ আর সমান পাদ মিললে দুটো তরঙ্গই চিরতরে ধ্বংস হয়।
+v শুধু মিলে থাকার সময়টুকু নিঃশেষ হয়; পরে প্রতিটি তরঙ্গ অপরিবর্তিত এগিয়ে যায়।
+## remember
+- তরঙ্গ = সময়ের সাথে স্থানান্তরিত আন্দোলন; শক্তি বয়ে নেয়, পদার্থ নয়।
+- যান্ত্রিক তরঙ্গের মাধ্যম লাগে; তড়িৎচুম্বকীয় তরঙ্গের লাগে না।
+- প্রবাহিত শক্তি ∝ (বিস্তার)²।
+- তরঙ্গের বেগ মাধ্যমের ওপর নির্ভর করে।
+- তরঙ্গের প্রতিফলন, প্রতিসরণ ও উপরিপাতন হয়।
+## think
+ক্রিকেট স্টেডিয়ামে দর্শকেরা "মেক্সিকান ওয়েভ" তৈরি করে: ঢেউটা পুরো গ্যালারি ঘুরে আসে, অথচ প্রত্যেক দর্শক নিজের আসনে শুধু দাঁড়ান আর বসেন। এটি তরঙ্গের কোন বৈশিষ্ট্য দেখায়?
+## quiz
+? পানির মধ্য দিয়ে তরঙ্গ গেলে পানির কণাগুলো:
+- তরঙ্গের সাথে সামনে চলে যায়
+* নিজ অবস্থানে স্পন্দিত হয়
+- একদম স্থির থাকে
+- পেছনের দিকে যায়
+= কণা নিজ জায়গায় স্পন্দিত হয়; শুধু আন্দোলন এগোয়।
+? কোনটি চলতে মাধ্যম লাগে না?
+- শব্দ
+- পানির ঢেউ
+* আলো
+- দড়ির তরঙ্গ
+= আলো তড়িৎচুম্বকীয় তরঙ্গ, শূন্যস্থানও পার হতে পারে।
+? তরঙ্গের বিস্তার দ্বিগুণ করলে বহন করা শক্তি হয়:
+- দ্বিগুণ
+* চার গুণ
+- অর্ধেক
+- একই
+= শক্তি ∝ (বিস্তার)², আর ২² = ৪।
+? সমান মাপের দুটি স্পন্দ, একটি শীর্ষ আর একটি পাদ, ঠিক এক জায়গায় মিলল। ঠিক সেই মুহূর্তে দড়িটি:
+- দ্বিগুণ উঁচু
+* সমতল
+- ছিঁড়ে যায়
+- দ্বিগুণ নিচু
+= বিপরীত আন্দোলন যোগ হয়ে শূন্য হয় (উপরিপাতন)।
+
+@@ 7.2.2
+@visual c7types
+@related 7.2 7.2.3 7.3
+== en
+## what
+In a **transverse wave** the particles of the medium vibrate **perpendicular** to the direction the wave travels (like a wave on a rope). In a **longitudinal wave** they vibrate **along** the direction the wave travels (like a wave in a spring, or sound).
+## simple
+Tie one end of a long rope to a pillar and shake the other end up and down. A wave runs along the rope towards the pillar. Look at any one bit of the rope: it goes **up and down**, while the wave goes **sideways**. The vibration is at right angles to the direction of travel. This is a **transverse wave**.
+
+In a transverse wave the high points are called **crests** and the low points **troughs**. Ripples on a pond are another example.
+
+Now take a long slinky spring on the floor and push one end forwards and back. A region where the coils are squeezed together (a **compression**) runs along the spring, followed by a region where they are spread apart (a **rarefaction**). Watch a single coil: it moves **forwards and backwards**, in the same line as the wave travels. This is a **longitudinal wave**.
+
+**Sound is a longitudinal wave.** When a drum skin moves out, it pushes the air in front of it together: a compression. When it moves back, it leaves the air thinner: a rarefaction. These compressions and rarefactions of air pressure travel outwards to your ear, while each air molecule only jiggles back and forth.
+
+**The one-line difference:** transverse → vibration ⊥ travel (crests and troughs); longitudinal → vibration ∥ travel (compressions and rarefactions).
+## analogy
+Picture a stadium "Mexican wave": each person only stands up and sits down, but the wave runs sideways around the stadium; that's **transverse** (up-down movement, sideways travel). Now picture a queue where the person at the back gives a push: each person jerks forward and back along the line; that's **longitudinal**, like sound.
+## definition
+**Transverse wave**: a wave in which the particles of the medium vibrate perpendicular to the direction of propagation of the wave. It forms crests and troughs. Example: waves on a rope, ripples on water.
+
+**Longitudinal wave**: a wave in which the particles of the medium vibrate along (parallel to) the direction of propagation of the wave. It forms compressions and rarefactions. Example: sound, a push wave in a spring.
+## why
+Why can't sound in air be transverse? A transverse wave needs each layer of the medium to drag the neighbouring layer sideways. Air layers slide past each other freely and can't pull each other sideways, but they **can** push on each other by pressure. So in air (and inside liquids) mechanical waves travel only as longitudinal pressure waves.
+## terms
+Transverse wave (অনুপ্রস্থ তরঙ্গ) | Vibration perpendicular to wave travel
+Longitudinal wave (অনুদৈর্ঘ্য তরঙ্গ) | Vibration along the wave travel
+Crest | Highest point of a transverse wave
+Trough | Lowest point of a transverse wave
+Compression | Region where particles are pushed close together (high pressure)
+Rarefaction | Region where particles are spread apart (low pressure)
+## visual
+Switch between transverse and longitudinal. Follow the red particle: compare the direction it moves with the direction the wave travels.
+## real
+When the wind blows over a paddy field, the plants sway and a wave of bending rolls across the field; each plant only sways in place. In an earthquake, the first shock that arrives is a longitudinal (push–pull) wave, and slower transverse (side-to-side) waves follow.
+## mistakes
+x In a longitudinal wave the particles travel along with the wave.
+v They vibrate back and forth about their own positions, along the line of travel.
+x Sound is a transverse wave like a water ripple.
+v Sound is longitudinal: compressions and rarefactions of air.
+x Crests and troughs occur in sound waves.
+v Sound has compressions and rarefactions; crests and troughs belong to transverse waves.
+## remember
+- Transverse: vibration ⊥ direction of travel; crests and troughs (rope, water ripples).
+- Longitudinal: vibration ∥ direction of travel; compressions and rarefactions (spring, sound).
+- Sound in air is a longitudinal wave.
+## think
+A water wave looks transverse, but a floating leaf actually moves in a small circle. What does that tell you about the motion of water particles in a water wave?
+## quiz
+? Sound is:
+- A transverse wave
+- An electromagnetic wave
+* A longitudinal wave
+- A radio wave
+= Sound travels as compressions and rarefactions along the direction of travel.
+? In a transverse wave, the particles vibrate:
+- Along the direction of the wave
+* Perpendicular to the direction of the wave
+- In circles only
+- Not at all
+= Transverse means vibration at right angles to the travel.
+? A region of a longitudinal wave where particles are spread apart is called a:
+- Crest
+- Compression
+* Rarefaction
+- Trough
+= Spread-out, low-pressure region = rarefaction.
+== bn
+## what
+**অনুপ্রস্থ তরঙ্গে** মাধ্যমের কণাগুলো তরঙ্গের গতির দিকের **লম্ব** বরাবর কাঁপে (যেমন দড়ির তরঙ্গ)। **অনুদৈর্ঘ্য তরঙ্গে** কণাগুলো তরঙ্গের গতির দিক **বরাবর** কাঁপে (যেমন স্প্রিংয়ের তরঙ্গ, বা শব্দ)।
+## simple
+একটা লম্বা দড়ির এক মাথা খুঁটিতে বেঁধে অন্য মাথা ওপর-নিচ ঝাঁকাও। একটা তরঙ্গ দড়ি বেয়ে খুঁটির দিকে ছুটে যায়। দড়ির যেকোনো একটা অংশ লক্ষ করো: সেটা **ওপর-নিচ** করে, অথচ তরঙ্গ যায় **পাশের দিকে**। কম্পন তরঙ্গের গতির সাথে সমকোণে। এটি **অনুপ্রস্থ তরঙ্গ**।
+
+অনুপ্রস্থ তরঙ্গের উঁচু অংশকে বলে **তরঙ্গশীর্ষ**, নিচু অংশকে **তরঙ্গপাদ**। পুকুরের ঢেউ এর আরেকটি উদাহরণ।
+
+এবার মেঝেতে একটা লম্বা স্প্রিং রেখে এক মাথা সামনে-পেছনে ঠেলো। একটা অংশ যেখানে প্যাঁচগুলো গাদাগাদি (**সংকোচন**) স্প্রিং বেয়ে ছুটে যায়, তার পেছনে আসে এমন অংশ যেখানে প্যাঁচগুলো ফাঁক ফাঁক (**প্রসারণ**)। একটা প্যাঁচ লক্ষ করো: সেটা তরঙ্গ যে রেখায় চলে সেই রেখাতেই **সামনে-পেছনে** যায়। এটি **অনুদৈর্ঘ্য তরঙ্গ**।
+
+**শব্দ একটি অনুদৈর্ঘ্য তরঙ্গ।** ঢোলের চামড়া বাইরের দিকে এলে সামনের বাতাসকে চেপে দেয়: সংকোচন। পেছনে গেলে বাতাস পাতলা হয়ে যায়: প্রসারণ। বাতাসের চাপের এই সংকোচন-প্রসারণ বাইরের দিকে ছুটে তোমার কানে পৌঁছায়, অথচ প্রতিটি বাতাসের অণু শুধু সামনে-পেছনে একটু কাঁপে।
+
+**এক লাইনে পার্থক্য:** অনুপ্রস্থ → কম্পন ⊥ গতি (শীর্ষ ও পাদ); অনুদৈর্ঘ্য → কম্পন ∥ গতি (সংকোচন ও প্রসারণ)।
+## analogy
+স্টেডিয়ামের "মেক্সিকান ওয়েভ" ভাবো: প্রত্যেকে শুধু দাঁড়ায় আর বসে, কিন্তু ঢেউ পাশাপাশি পুরো স্টেডিয়াম ঘোরে; এটা **অনুপ্রস্থ** (ওঠানামা, কিন্তু চলা পাশে)। এবার একটি লাইনের কথা ভাবো যেখানে পেছনের জন ধাক্কা দিল: প্রত্যেকে লাইন বরাবর সামনে-পেছনে ঝাঁকুনি খায়; এটা **অনুদৈর্ঘ্য**, শব্দের মতো।
+## definition
+**অনুপ্রস্থ তরঙ্গ**: যে তরঙ্গে মাধ্যমের কণাগুলো তরঙ্গ প্রবাহের দিকের সাথে লম্বভাবে কাঁপে। এতে তরঙ্গশীর্ষ ও তরঙ্গপাদ তৈরি হয়। উদাহরণ: দড়ির তরঙ্গ, পানির ঢেউ।
+
+**অনুদৈর্ঘ্য তরঙ্গ**: যে তরঙ্গে মাধ্যমের কণাগুলো তরঙ্গ প্রবাহের দিক বরাবর (সমান্তরালে) কাঁপে। এতে সংকোচন ও প্রসারণ তৈরি হয়। উদাহরণ: শব্দ, স্প্রিংয়ে ঠেলার তরঙ্গ।
+## why
+বাতাসে শব্দ অনুপ্রস্থ হতে পারে না কেন? অনুপ্রস্থ তরঙ্গের জন্য মাধ্যমের প্রতিটি স্তরকে পাশের স্তরকে পাশের দিকে টেনে নিতে হয়। বাতাসের স্তরগুলো অবাধে একে অপরের পাশ দিয়ে পিছলে যায়, পাশের দিকে টানতে পারে না, কিন্তু চাপ দিয়ে একে অপরকে **ঠেলতে পারে**। তাই বাতাসে (আর তরলের ভেতরে) যান্ত্রিক তরঙ্গ শুধু অনুদৈর্ঘ্য চাপ-তরঙ্গ হিসেবে চলে।
+## terms
+অনুপ্রস্থ তরঙ্গ (transverse wave) | কম্পন তরঙ্গের গতির লম্ব বরাবর
+অনুদৈর্ঘ্য তরঙ্গ (longitudinal wave) | কম্পন তরঙ্গের গতির দিক বরাবর
+তরঙ্গশীর্ষ (crest) | অনুপ্রস্থ তরঙ্গের সবচেয়ে উঁচু বিন্দু
+তরঙ্গপাদ (trough) | অনুপ্রস্থ তরঙ্গের সবচেয়ে নিচু বিন্দু
+সংকোচন (compression) | যেখানে কণাগুলো গাদাগাদি (বেশি চাপ)
+প্রসারণ (rarefaction) | যেখানে কণাগুলো ফাঁক ফাঁক (কম চাপ)
+## visual
+অনুপ্রস্থ আর অনুদৈর্ঘ্যের মধ্যে বদলাও। লাল কণাটি লক্ষ করো: এটি যে দিকে নড়ে তার সাথে তরঙ্গ যে দিকে চলে তা তুলনা করো।
+## real
+ধানক্ষেতের ওপর দিয়ে বাতাস বইলে গাছগুলো দোলে আর নুয়ে পড়ার একটা ঢেউ পুরো ক্ষেত জুড়ে গড়িয়ে যায়; প্রতিটি গাছ নিজ জায়গাতেই দোলে। ভূমিকম্পে প্রথমে যে ধাক্কা পৌঁছায় তা অনুদৈর্ঘ্য (ঠেলা-টানা) তরঙ্গ, পরে আসে ধীরগতির অনুপ্রস্থ (পাশাপাশি দোলা) তরঙ্গ।
+## mistakes
+x অনুদৈর্ঘ্য তরঙ্গে কণাগুলো তরঙ্গের সাথে চলে যায়।
+v কণাগুলো নিজ অবস্থানের দুপাশে গতির রেখা বরাবর সামনে-পেছনে কাঁপে।
+x শব্দ পানির ঢেউয়ের মতো অনুপ্রস্থ তরঙ্গ।
+v শব্দ অনুদৈর্ঘ্য: বাতাসের সংকোচন ও প্রসারণ।
+x শব্দতরঙ্গে তরঙ্গশীর্ষ ও তরঙ্গপাদ হয়।
+v শব্দে হয় সংকোচন ও প্রসারণ; শীর্ষ-পাদ অনুপ্রস্থ তরঙ্গের।
+## remember
+- অনুপ্রস্থ: কম্পন ⊥ গতির দিক; তরঙ্গশীর্ষ ও তরঙ্গপাদ (দড়ি, পানির ঢেউ)।
+- অনুদৈর্ঘ্য: কম্পন ∥ গতির দিক; সংকোচন ও প্রসারণ (স্প্রিং, শব্দ)।
+- বাতাসে শব্দ অনুদৈর্ঘ্য তরঙ্গ।
+## think
+পানির ঢেউ দেখতে অনুপ্রস্থ, কিন্তু ভাসমান পাতা আসলে ছোট একটা বৃত্তে ঘোরে। এ থেকে পানির ঢেউয়ে পানির কণার গতি সম্পর্কে কী বোঝা যায়?
+## quiz
+? শব্দ হলো:
+- অনুপ্রস্থ তরঙ্গ
+- তড়িৎচুম্বকীয় তরঙ্গ
+* অনুদৈর্ঘ্য তরঙ্গ
+- বেতার তরঙ্গ
+= শব্দ গতির দিক বরাবর সংকোচন ও প্রসারণ হিসেবে চলে।
+? অনুপ্রস্থ তরঙ্গে কণাগুলো কাঁপে:
+- তরঙ্গের দিক বরাবর
+* তরঙ্গের দিকের লম্ব বরাবর
+- শুধু বৃত্তাকারে
+- একদমই না
+= অনুপ্রস্থ মানে গতির সাথে সমকোণে কম্পন।
+? অনুদৈর্ঘ্য তরঙ্গের যে অংশে কণাগুলো ফাঁক ফাঁক থাকে তাকে বলে:
+- তরঙ্গশীর্ষ
+- সংকোচন
+* প্রসারণ
+- তরঙ্গপাদ
+= ফাঁক ফাঁক, কম চাপের অংশ = প্রসারণ।
+
+@@ 7.2.3
+@visual c7wave
+@related 7.1 7.2.2 7.3 7.3.2
+@media https://phet.colorado.edu/en/simulations/wave-on-a-string | Wave on a String (PhET simulation) | দড়িতে তরঙ্গ (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+A periodic wave is described by its **amplitude**, **time period**, **frequency**, **phase**, **wavelength** and **wave velocity**. They are linked by **v = fλ** and **T = 1/f**.
+## simple
+Watch a single particle of a medium while a steady wave passes: it moves up and down in **simple harmonic motion**, just like the mass on a spring in [[7.1|7.1]]. So everything we used there applies to waves too:
+
+- **Amplitude (a)**: the largest displacement of a particle from its rest position.
+- **Time period (T)**: the time for one complete oscillation of a particle.
+- **Frequency (f)**: the number of complete oscillations per second, f = 1/T (Hz).
+- **Phase**: the state of a particle at an instant: its displacement and which way it is moving.
+
+Waves add **two new quantities**:
+
+- **Wavelength (λ, lambda)**: the distance from any point of the wave to the **next point in the same phase**, for example from one crest to the next crest, or one compression to the next. It is also the distance the wave travels in one time period.
+- **Wave velocity (v)**: the distance the wave travels in one second.
+
+**Where does v = fλ come from?** In one time period T the wave moves forward exactly one wavelength λ. So v = λ/T. Since 1/T = f:
+
+**v = fλ**
+
+**Changing medium.** The frequency is fixed by the **source** (how fast it vibrates), so it never changes when the wave enters a new medium. The speed does change, so the wavelength must change to keep v = fλ true.
+
+**Two kinds of graphs.** A graph of displacement against **position** is like a photograph of the whole wave at one instant: from it you can read the **amplitude** and **wavelength**, but not the time period. A graph of displacement against **time** follows one particle as time passes: from it you can read the **amplitude** and **time period** (and so the frequency, f = 1/T), but not the wavelength. To find the wave velocity you need both: λ from the first, f from the second.
+
+**Same phase or not?** Two points one whole wavelength apart (crest and next crest) are **in the same phase**. A crest and a trough have equal-sized displacements but are in **opposite phase**. Two points at the same height but one going up and one going down are **not** in the same phase.
+## analogy
+Imagine a line of boats passing a jetty. If 2 boats pass every second (frequency f = 2 Hz) and the boats are 5 m apart (wavelength λ = 5 m), the line must be moving at 2 × 5 = 10 m/s. That's all v = fλ says: how many waves per second × length of each wave.
+## definition
+**Wavelength (λ)**: the distance between any point of a wave and the next point in the same phase; equivalently, the distance the wave travels during one time period. Unit: m.
+
+**Wave velocity (v)**: the distance travelled by a wave in one second. Unit: m/s. **Frequency (f)**: the number of complete oscillations (or wavelengths passing a point) per second. **Time period (T)**: the time for one complete oscillation.
+
+v = fλ and T = 1/f. When a wave passes from one medium to another, its velocity and wavelength change, but its frequency and time period do not.
+## why
+Why is the frequency fixed by the source? Each particle vibrates because the particle before it pushes it. The first particle is pushed by the source, so it vibrates at the source's frequency, the next copies it, and so on. Crossing into a new medium doesn't change how many pushes arrive each second, so the frequency stays the same; only how far each wave stretches (λ) changes with the new speed.
+## terms
+Amplitude (a) | Maximum displacement of a particle
+Wavelength (λ) | Distance between two nearest points in the same phase
+Time period (T) | Time for one complete oscillation
+Frequency (f) | Oscillations per second; f = 1/T (Hz)
+Wave velocity (v) | Distance travelled by the wave per second
+Phase | State of a particle: its displacement and direction of motion
+## formula
+$$ v = fλ
+tri v | f | λ
+$$ T = 1/f
+$$ v = λ/T
+v | wave velocity | m/s
+f | frequency | Hz
+λ | wavelength | m
+T | time period | s
+! Crossing into a new medium: f and T stay the same; v and λ change.
+## visual
+Change the amplitude, wavelength and frequency. The top graph is a snapshot against position; the lower one follows the red particle against time. See how v = fλ changes.
+## real
+FM radio stations are named by their frequency, for example 88.0 MHz. Radio waves travel at 3 × 10⁸ m/s, so their wavelength is about 3.4 m. A tabla player striking harder raises the amplitude (louder), but the frequency of each note stays set by the drum.
+## example
+Q: From a displacement–position graph of a wave, the amplitude is 0.1 m and the wavelength is 1 m. From a displacement–time graph of the same wave, the time period is 0.2 s. Find the frequency and velocity.
+Given: a = 0.1 m, λ = 1 m, T = 0.2 s
+Formula: f = 1/T; v = fλ
+Calculation: f = 1 ÷ 0.2 = 5 Hz; v = 5 × 1 = 5 m/s
+Answer: f = 5 Hz, v = 5 m/s
+## example
+Q: A displacement–time graph of a wave shows an amplitude of 0.2 m and a time period of 2 s. Which quantities can you find from it?
+Solution: amplitude = 0.2 m and T = 2 s can be read directly. Frequency also follows from T: f = 1/T = 1 ÷ 2 = 0.5 Hz.
+> Some textbooks list only amplitude and period here, but the frequency comes straight from T, so it can be found too.
+Answer: amplitude 0.2 m, T = 2 s, f = 0.5 Hz. The wavelength and velocity cannot be found, because the graph shows only one point over time, not the shape of the wave in space.
+## mistakes
+x When sound goes from air into water, its frequency changes.
+v The frequency stays the same; the velocity and wavelength change.
+x A displacement–position graph gives the time period.
+v It gives amplitude and wavelength; the time period comes from a displacement–time graph.
+x A crest and a trough are in the same phase because they have the same size of displacement.
+v They are in opposite phase.
+## remember
+- v = fλ; T = 1/f.
+- λ = distance between nearest points in the same phase = distance travelled in one period.
+- Frequency is set by the source; it doesn't change with the medium.
+- Position graph → amplitude, λ; time graph → amplitude, T (and f).
+## think
+When you tie a thin string to a thick rope and send a wave from the string into the rope, which of v, f and λ change, and which stays the same?
+## quiz
+? A wave has frequency 10 Hz and wavelength 2 m. Its velocity is:
+- 5 m/s
+- 12 m/s
+* 20 m/s
+- 0.2 m/s
+= v = fλ = 10 × 2 = 20 m/s.
+? The time period of a wave is 0.02 s. Its frequency is:
+- 0.02 Hz
+- 20 Hz
+* 50 Hz
+- 200 Hz
+= f = 1/T = 1 ÷ 0.02 = 50 Hz.
+? When a wave passes from one medium into another, which one stays the same?
+- Velocity
+- Wavelength
+* Frequency
+- All of them change
+= The frequency is set by the source.
+? From a displacement–position graph of a wave, you can find:
+* Amplitude and wavelength
+- Time period and frequency
+- Velocity only
+- Frequency and velocity
+= It is a snapshot in space: it shows the size and length of the wave.
+== bn
+## what
+পর্যাবৃত্ত তরঙ্গকে বর্ণনা করা হয় এর **বিস্তার**, **পর্যায়কাল**, **কম্পাঙ্ক**, **দশা**, **তরঙ্গদৈর্ঘ্য** আর **তরঙ্গের বেগ** দিয়ে। এরা **v = fλ** আর **T = ১/f** দিয়ে যুক্ত।
+## simple
+একটা স্থির তরঙ্গ চলার সময় মাধ্যমের একটা কণার দিকে তাকিয়ে থাকো: সেটি **সরল স্পন্দন গতিতে** ওঠানামা করে, ঠিক [[7.1|৭.১]]-এর স্প্রিংয়ের ভরের মতো। তাই সেখানে যা ব্যবহার করেছি সবই তরঙ্গে খাটে:
+
+- **বিস্তার (a)**: কণার স্থির অবস্থান থেকে সর্বোচ্চ সরণ।
+- **পর্যায়কাল (T)**: কণার একটি পূর্ণ স্পন্দনের সময়।
+- **কম্পাঙ্ক (f)**: প্রতি সেকেন্ডে পূর্ণ স্পন্দনের সংখ্যা, f = ১/T (Hz)।
+- **দশা**: কোনো মুহূর্তে কণার অবস্থা: তার সরণ আর সে কোন দিকে যাচ্ছে।
+
+তরঙ্গে যোগ হয় **দুটি নতুন রাশি**:
+
+- **তরঙ্গদৈর্ঘ্য (λ, ল্যামডা)**: তরঙ্গের যেকোনো বিন্দু থেকে **পরবর্তী একই দশার বিন্দু** পর্যন্ত দূরত্ব, যেমন এক শীর্ষ থেকে পরের শীর্ষ, বা এক সংকোচন থেকে পরের সংকোচন। এটি এক পর্যায়কালে তরঙ্গের অতিক্রান্ত দূরত্বও।
+- **তরঙ্গের বেগ (v)**: প্রতি সেকেন্ডে তরঙ্গ যতটুকু দূরত্ব অতিক্রম করে।
+
+**v = fλ কোথা থেকে এল?** এক পর্যায়কাল T-তে তরঙ্গ ঠিক এক তরঙ্গদৈর্ঘ্য λ এগোয়। তাই v = λ/T। যেহেতু ১/T = f:
+
+**v = fλ**
+
+**মাধ্যম বদলালে।** কম্পাঙ্ক ঠিক করে **উৎস** (সেটি কত দ্রুত কাঁপে), তাই নতুন মাধ্যমে ঢুকলেও কম্পাঙ্ক কখনো বদলায় না। বেগ বদলায়, তাই v = fλ ঠিক রাখতে তরঙ্গদৈর্ঘ্য বদলাতে হয়।
+
+**দুই ধরনের লেখচিত্র।** **অবস্থানের** সাপেক্ষে সরণের লেখচিত্র যেন এক মুহূর্তে পুরো তরঙ্গের একটা ছবি: এ থেকে **বিস্তার** আর **তরঙ্গদৈর্ঘ্য** পড়া যায়, পর্যায়কাল নয়। **সময়ের** সাপেক্ষে সরণের লেখচিত্র একটি কণাকে সময়ের সাথে অনুসরণ করে: এ থেকে **বিস্তার** আর **পর্যায়কাল** (তাই কম্পাঙ্কও, f = ১/T) পড়া যায়, তরঙ্গদৈর্ঘ্য নয়। তরঙ্গের বেগ বের করতে দুটোই লাগে: প্রথমটি থেকে λ, দ্বিতীয়টি থেকে f।
+
+**একই দশা কি না?** এক পূর্ণ তরঙ্গদৈর্ঘ্য দূরের দুটি বিন্দু (শীর্ষ আর পরের শীর্ষ) **একই দশায়** থাকে। শীর্ষ আর পাদের সরণের মান সমান হলেও তারা **বিপরীত দশায়**। একই উচ্চতার দুটি বিন্দু, যার একটি ওপরে আর অন্যটি নিচে যাচ্ছে, তারা একই দশায় **নয়**।
+## analogy
+জেটির পাশ দিয়ে এক সারি নৌকা যাচ্ছে ভাবো। প্রতি সেকেন্ডে ২টি নৌকা পেরোলে (কম্পাঙ্ক f = ২ Hz) আর নৌকাগুলো ৫ m দূরে দূরে থাকলে (তরঙ্গদৈর্ঘ্য λ = ৫ m), সারিটি চলছে ২ × ৫ = ১০ m/s বেগে। v = fλ শুধু এটুকুই বলে: প্রতি সেকেন্ডে কয়টি তরঙ্গ × প্রতিটি তরঙ্গের দৈর্ঘ্য।
+## definition
+**তরঙ্গদৈর্ঘ্য (λ)**: তরঙ্গের যেকোনো একটি বিন্দু থেকে পরবর্তী একই দশার বিন্দু পর্যন্ত দূরত্ব; অর্থাৎ এক পর্যায়কালে তরঙ্গ যে দূরত্ব অতিক্রম করে। একক: m।
+
+**তরঙ্গের বেগ (v)**: প্রতি সেকেন্ডে তরঙ্গের অতিক্রান্ত দূরত্ব। একক: m/s। **কম্পাঙ্ক (f)**: প্রতি সেকেন্ডে পূর্ণ স্পন্দনের (বা কোনো বিন্দু দিয়ে যাওয়া তরঙ্গের) সংখ্যা। **পর্যায়কাল (T)**: একটি পূর্ণ স্পন্দনের সময়।
+
+v = fλ এবং T = ১/f। তরঙ্গ এক মাধ্যম থেকে অন্য মাধ্যমে গেলে এর বেগ ও তরঙ্গদৈর্ঘ্য বদলায়, কিন্তু কম্পাঙ্ক ও পর্যায়কাল বদলায় না।
+## why
+কম্পাঙ্ক উৎস ঠিক করে কেন? প্রতিটি কণা কাঁপে কারণ তার আগের কণা তাকে ঠেলে। প্রথম কণাকে ঠেলে উৎস, তাই সেটি উৎসের কম্পাঙ্কে কাঁপে, পরেরটি তা নকল করে, এভাবে চলে। নতুন মাধ্যমে ঢুকলেও প্রতি সেকেন্ডে কয়টি ঠেলা পৌঁছায় তা বদলায় না, তাই কম্পাঙ্ক একই থাকে; নতুন বেগের সাথে বদলায় শুধু প্রতিটি তরঙ্গ কতটা লম্বা হয় (λ)।
+## terms
+বিস্তার (a) | কণার সর্বোচ্চ সরণ
+তরঙ্গদৈর্ঘ্য (λ) | একই দশার নিকটতম দুটি বিন্দুর দূরত্ব
+পর্যায়কাল (T) | একটি পূর্ণ স্পন্দনের সময়
+কম্পাঙ্ক (f) | প্রতি সেকেন্ডে স্পন্দন; f = ১/T (Hz)
+তরঙ্গের বেগ (v) | প্রতি সেকেন্ডে তরঙ্গের অতিক্রান্ত দূরত্ব
+দশা | কণার অবস্থা: সরণ ও গতির দিক
+## formula
+$$ v = fλ
+tri v | f | λ
+$$ T = ১/f
+$$ v = λ/T
+v | তরঙ্গের বেগ | m/s
+f | কম্পাঙ্ক | Hz
+λ | তরঙ্গদৈর্ঘ্য | m
+T | পর্যায়কাল | s
+! নতুন মাধ্যমে গেলে: f ও T একই থাকে; v ও λ বদলায়।
+## visual
+বিস্তার, তরঙ্গদৈর্ঘ্য আর কম্পাঙ্ক বদলাও। ওপরের লেখচিত্র অবস্থানের সাপেক্ষে এক মুহূর্তের ছবি; নিচেরটি সময়ের সাপেক্ষে লাল কণাটিকে অনুসরণ করে। দেখো v = fλ কীভাবে বদলায়।
+## real
+এফএম রেডিও স্টেশনের নাম হয় কম্পাঙ্ক দিয়ে, যেমন ৮৮.০ MHz। বেতার তরঙ্গ ৩ × ১০⁸ m/s বেগে চলে, তাই এর তরঙ্গদৈর্ঘ্য প্রায় ৩.৪ m। তবলাবাদক জোরে আঘাত করলে বিস্তার বাড়ে (শব্দ জোরালো হয়), কিন্তু প্রতিটি সুরের কম্পাঙ্ক তবলাই ঠিক করে দেয়।
+## example
+প্রশ্ন: একটি তরঙ্গের সরণ–অবস্থান লেখচিত্র থেকে বিস্তার ০.১ m আর তরঙ্গদৈর্ঘ্য ১ m পাওয়া গেল। একই তরঙ্গের সরণ–সময় লেখচিত্র থেকে পর্যায়কাল ০.২ s। কম্পাঙ্ক ও বেগ বের করো।
+দেওয়া আছে: a = ০.১ m, λ = ১ m, T = ০.২ s
+সূত্র: f = ১/T; v = fλ
+হিসাব: f = ১ ÷ ০.২ = ৫ Hz; v = ৫ × ১ = ৫ m/s
+উত্তর: f = ৫ Hz, v = ৫ m/s
+## example
+প্রশ্ন: একটি তরঙ্গের সরণ–সময় লেখচিত্রে বিস্তার ০.২ m আর পর্যায়কাল ২ s দেখা যাচ্ছে। এ থেকে কোন কোন রাশি বের করা যায়?
+সমাধান: বিস্তার = ০.২ m আর T = ২ s সরাসরি পড়া যায়। T থেকে কম্পাঙ্কও পাওয়া যায়: f = ১/T = ১ ÷ ২ = ০.৫ Hz।
+> কোনো কোনো বইয়ে এখানে শুধু বিস্তার আর পর্যায়কালের কথা বলা থাকে, কিন্তু কম্পাঙ্ক সরাসরি T থেকেই আসে, তাই এটিও বের করা যায়।
+উত্তর: বিস্তার ০.২ m, T = ২ s, f = ০.৫ Hz। তরঙ্গদৈর্ঘ্য ও বেগ বের করা যায় না, কারণ লেখচিত্রটি শুধু একটি বিন্দুকে সময়ের সাথে দেখায়, স্থানে তরঙ্গের আকার দেখায় না।
+## mistakes
+x শব্দ বাতাস থেকে পানিতে গেলে কম্পাঙ্ক বদলায়।
+v কম্পাঙ্ক একই থাকে; বেগ ও তরঙ্গদৈর্ঘ্য বদলায়।
+x সরণ–অবস্থান লেখচিত্র থেকে পর্যায়কাল পাওয়া যায়।
+v এ থেকে পাওয়া যায় বিস্তার ও তরঙ্গদৈর্ঘ্য; পর্যায়কাল আসে সরণ–সময় লেখচিত্র থেকে।
+x শীর্ষ আর পাদের সরণের মান সমান বলে তারা একই দশায়।
+v তারা বিপরীত দশায়।
+## remember
+- v = fλ; T = ১/f।
+- λ = একই দশার নিকটতম বিন্দুর দূরত্ব = এক পর্যায়কালে অতিক্রান্ত দূরত্ব।
+- কম্পাঙ্ক ঠিক করে উৎস; মাধ্যম বদলালে বদলায় না।
+- অবস্থান-লেখচিত্র → বিস্তার, λ; সময়-লেখচিত্র → বিস্তার, T (ও f)।
+## think
+সরু সুতার সাথে মোটা দড়ি বেঁধে সুতা থেকে দড়িতে তরঙ্গ পাঠালে v, f ও λ-এর কোনগুলো বদলাবে, আর কোনটি একই থাকবে?
+## quiz
+? একটি তরঙ্গের কম্পাঙ্ক ১০ Hz, তরঙ্গদৈর্ঘ্য ২ m। এর বেগ:
+- ৫ m/s
+- ১২ m/s
+* ২০ m/s
+- ০.২ m/s
+= v = fλ = ১০ × ২ = ২০ m/s।
+? একটি তরঙ্গের পর্যায়কাল ০.০২ s। এর কম্পাঙ্ক:
+- ০.০২ Hz
+- ২০ Hz
+* ৫০ Hz
+- ২০০ Hz
+= f = ১/T = ১ ÷ ০.০২ = ৫০ Hz।
+? তরঙ্গ এক মাধ্যম থেকে অন্য মাধ্যমে গেলে কোনটি একই থাকে?
+- বেগ
+- তরঙ্গদৈর্ঘ্য
+* কম্পাঙ্ক
+- সবই বদলায়
+= কম্পাঙ্ক ঠিক করে উৎস।
+? তরঙ্গের সরণ–অবস্থান লেখচিত্র থেকে বের করা যায়:
+* বিস্তার ও তরঙ্গদৈর্ঘ্য
+- পর্যায়কাল ও কম্পাঙ্ক
+- শুধু বেগ
+- কম্পাঙ্ক ও বেগ
+= এটি স্থানে তরঙ্গের এক মুহূর্তের ছবি: তরঙ্গের উচ্চতা আর দৈর্ঘ্য দেখায়।
+
+@@ 7.3
+@visual c7range
+@related 7.2.2 7.3.1 7.3.2 7.3.3
+== en
+## what
+**Sound** is a mechanical, longitudinal wave produced by a vibrating object. It needs a medium to travel, and we can hear it only if its frequency lies between about **20 Hz and 20 000 Hz**.
+## simple
+**Every sound starts with a vibration.** Touch your throat while you talk and you feel it buzzing: air from your lungs makes two thin membranes in your voice box (larynx), the **vocal cords**, vibrate. A speaker's thin diaphragm vibrates; a struck school bell vibrates, and if you grip it, the vibration and the sound stop at once.
+
+Why is a man's voice usually deep and a woman's or child's voice sharp? As men grow up, their vocal cords become heavier and stiffer, so they vibrate at a **lower frequency**. Women's and children's vocal cords vibrate at a **higher frequency**.
+
+**Sound needs a medium.** Put an electric bell inside a glass jar and pump the air out. As the air is removed, the ringing grows fainter, and when the jar is nearly empty you hear almost nothing, even though you can see the hammer still striking the bell. With no particles to pass the vibration along, sound cannot travel. That is why there is total silence in space.
+
+Sound travels through solids and liquids too. Make a **string telephone**: join the bottoms of two plastic cups with a long thread, keep it tight, and speak into one cup. Your friend hears you clearly through the thread.
+
+**The range of hearing.** Our ears can hear only sounds with frequency from about **20 Hz to 20 kHz** (20 000 Hz):
+
+- Below 20 Hz: **infrasound** (শব্দেতর). Elephants and many animals can sense it. Earthquakes produce low-frequency sound, and animals sometimes panic and run before one.
+- Above 20 kHz: **ultrasound** (শব্দোত্তর). Bats and dolphins use it; doctors use it to see inside the body.
+
+Constant loud music through headphones or living with heavy noise can reduce how well you hear.
+
+**Characteristics of sound waves:**
+
+1. It is a **mechanical wave**: produced by a vibrating body and needs an elastic medium.
+2. It is a **longitudinal wave**: the particles vibrate along the direction the wave travels.
+3. Its **speed depends on the medium**: slowest in gases, faster in liquids, fastest in solids. It also depends on the temperature and humidity of air.
+4. Its **intensity ∝ (amplitude)²**: bigger vibrations, louder sound.
+5. Like all waves, it shows **reflection, refraction and superposition**.
+
+And since sound is a wave, v = fλ holds for it too.
+## analogy
+Sound is like a push passed along a crowded bus aisle. The person who is pushed bumps the next, who bumps the next... The push travels to the back, but nobody walks to the back. Air molecules pass the vibration along in the same way. On the Moon there is no air, so there is nobody to pass the push: no sound.
+## definition
+**Sound**: a mechanical longitudinal wave, produced by the vibration of an object, that travels through an elastic medium and produces the sensation of hearing.
+
+**Audible range (range of hearing)**: 20 Hz to 20 000 Hz. **Infrasound**: sound of frequency below 20 Hz. **Ultrasound**: sound of frequency above 20 000 Hz (20 kHz). Neither can be heard by humans.
+## why
+Why can't we hear infrasound or ultrasound? Our eardrum and the tiny hair cells inside the ear respond only to vibrations within a certain range of frequency. Vibrations much slower or much faster than this range do not make these cells respond, so the brain gets no sound signal, even though the air is really vibrating.
+## terms
+Vocal cords | Two membranes in the larynx whose vibration makes our voice
+Medium | The material (solid, liquid, gas) through which sound travels
+Audible range | 20 Hz – 20 kHz
+Infrasound (শব্দেতর) | Frequency below 20 Hz
+Ultrasound (শব্দোত্তর) | Frequency above 20 kHz
+Intensity | How much energy the sound carries; ∝ (amplitude)²
+Tuning fork (সুরশলাকা) | A two-pronged fork that vibrates at one fixed frequency
+## formula
+$$ v = fλ
+$$ Intensity ∝ (amplitude)²
+! Audible range: 20 Hz ≤ f ≤ 20 000 Hz
+## visual
+Slide the frequency across the scale. See whether the sound is infrasonic, audible or ultrasonic, who can hear it, and its wavelength in air.
+## real
+Before a big earthquake, people have reported dogs barking and cattle becoming restless. Low-frequency vibrations that we can't hear may be part of the reason. Doctors in Bangladesh's hospitals use ultrasound machines (ultrasonography) every day to check on babies before birth.
+## example
+Q: A tuning fork of frequency 1 kHz produces sound. Its speed is 334 m/s in air, 1493 m/s in water and 5130 m/s in iron. Find the wavelength in each medium.
+Given: f = 1 kHz = 1000 Hz
+Formula: v = fλ → λ = v/f
+Calculation: air: λ = 334 ÷ 1000 = 0.334 m; water: λ = 1493 ÷ 1000 = 1.493 m; iron: λ = 5130 ÷ 1000 = 5.13 m
+> The frequency is the same in all three (set by the tuning fork); only λ changes with the speed.
+Answer: 0.334 m in air, 1.49 m in water, 5.13 m in iron
+## example
+Q: Navid's house is 16.6 m from a factory. How long does the factory's alarm take to reach his house? (speed of sound in air = 332 m/s)
+Given: s = 16.6 m, v = 332 m/s
+Formula: t = s/v
+Calculation: t = 16.6 ÷ 332 = 0.05 s
+Answer: 0.05 s
+## mistakes
+x Sound can travel through empty space.
+v Sound needs a medium; in a vacuum there is no sound.
+x Sound travels only through air.
+v It travels through solids and liquids too, and faster than in air.
+x Ultrasound is very loud sound.
+v Ultrasound means very high frequency (above 20 kHz), not loudness.
+## remember
+- Sound is produced by vibration; it is a mechanical, longitudinal wave.
+- It needs a medium: none in a vacuum.
+- Audible 20 Hz – 20 kHz; below → infrasound; above → ultrasound.
+- Speed: gas < liquid < solid; intensity ∝ (amplitude)².
+- v = fλ applies to sound.
+## think
+Astronauts outside the space station can't talk to each other directly even when standing close together, but if their helmets touch, they can hear each other faintly. Why?
+## quiz
+? The audible range of the human ear is:
+- 2 Hz to 2000 Hz
+* 20 Hz to 20 000 Hz
+- 200 Hz to 200 000 Hz
+- 20 kHz to 200 kHz
+= We hear roughly 20 Hz – 20 kHz.
+? A sound of frequency 50 kHz is:
+- Infrasound
+- Audible
+* Ultrasound
+- Not a sound at all
+= Above 20 kHz = ultrasound.
+? In which medium does sound travel fastest?
+* Solid
+- Liquid
+- Gas
+- Vacuum
+= Solids pass the vibration along fastest; in a vacuum sound can't travel at all.
+? As air is pumped out of a jar with a ringing bell inside, the sound:
+- Gets louder
+* Gets fainter
+- Stays the same
+- Becomes higher pitched
+= With fewer particles, less sound gets through; in a vacuum there is none.
+== bn
+## what
+**শব্দ** হলো কম্পনশীল বস্তু থেকে তৈরি যান্ত্রিক অনুদৈর্ঘ্য তরঙ্গ। চলতে এর মাধ্যম লাগে, আর এর কম্পাঙ্ক মোটামুটি **২০ Hz থেকে ২০ ০০০ Hz**-এর মধ্যে থাকলেই আমরা শুনতে পাই।
+## simple
+**প্রতিটি শব্দ শুরু হয় কম্পন দিয়ে।** কথা বলার সময় গলায় হাত রাখো, কাঁপুনি টের পাবে: ফুসফুসের বাতাস স্বরযন্ত্রের দুটি পাতলা পর্দা, **ভোকাল কর্ড**, কাঁপায়। স্পিকারের পাতলা পর্দা কাঁপে; স্কুলের ঘণ্টায় আঘাত করলে কাঁপে, আর চেপে ধরলে কম্পন আর শব্দ দুটোই সাথে সাথে থেমে যায়।
+
+ছেলেদের গলা সাধারণত মোটা আর মেয়েদের বা শিশুদের গলা তীক্ষ্ণ কেন? বড় হওয়ার সাথে ছেলেদের ভোকাল কর্ড ভারী আর শক্ত হয়ে যায়, তাই সেটি **কম কম্পাঙ্কে** কাঁপে। মেয়েদের ও শিশুদের ভোকাল কর্ড কাঁপে **বেশি কম্পাঙ্কে**।
+
+**শব্দের মাধ্যম লাগে।** একটা কাচের জারে বৈদ্যুতিক কলিং বেল রেখে পাম্প দিয়ে বাতাস বের করো। বাতাস যত কমে, ঘণ্টার শব্দ তত মৃদু হয়, আর জার প্রায় বায়ুশূন্য হলে প্রায় কিছুই শোনা যায় না, যদিও দেখা যায় হাতুড়িটা তখনো ঘণ্টায় বাড়ি দিচ্ছে। কম্পন এগিয়ে নেওয়ার মতো কণা না থাকলে শব্দ চলতে পারে না। এজন্যই মহাশূন্য একদম নিঃশব্দ।
+
+শব্দ কঠিন আর তরলের ভেতর দিয়েও চলে। একটা **সুতার ফোন** বানাও: দুটি প্লাস্টিকের গ্লাসের তলা একটা লম্বা সুতা দিয়ে জুড়ে দাও, সুতা টানটান রাখো, একটি গ্লাসে কথা বলো। সুতার ভেতর দিয়ে তোমার বন্ধু স্পষ্ট শুনতে পাবে।
+
+**শ্রুতিসীমা।** আমাদের কান শুধু মোটামুটি **২০ Hz থেকে ২০ kHz** (২০ ০০০ Hz) কম্পাঙ্কের শব্দ শুনতে পায়:
+
+- ২০ Hz-এর কম: **শব্দেতর** (ইনফ্রাসাউন্ড)। হাতি আর অনেক প্রাণী তা টের পায়। ভূমিকম্পে কম কম্পাঙ্কের শব্দ তৈরি হয়, আর অনেক সময় তার আগে পশুপাখি আতঙ্কে ছোটাছুটি করে।
+- ২০ kHz-এর বেশি: **শব্দোত্তর** (আলট্রাসাউন্ড)। বাদুড় আর ডলফিন এটি ব্যবহার করে; ডাক্তাররা শরীরের ভেতর দেখতে ব্যবহার করেন।
+
+কানে হেডফোন লাগিয়ে অবিরত জোরে গান শুনলে বা প্রচণ্ড শব্দদূষণে থাকলে শোনার ক্ষমতা কমে যেতে পারে।
+
+**শব্দতরঙ্গের বৈশিষ্ট্য:**
+
+১. এটি **যান্ত্রিক তরঙ্গ**: কম্পনশীল বস্তু থেকে তৈরি আর চলতে স্থিতিস্থাপক মাধ্যম লাগে।
+২. এটি **অনুদৈর্ঘ্য তরঙ্গ**: কণাগুলো তরঙ্গের গতির দিক বরাবর কাঁপে।
+৩. এর **বেগ মাধ্যমের ওপর নির্ভর করে**: গ্যাসে সবচেয়ে কম, তরলে বেশি, কঠিনে আরও বেশি। বাতাসের তাপমাত্রা ও আর্দ্রতার ওপরও নির্ভর করে।
+৪. এর **তীব্রতা ∝ (বিস্তার)²**: কম্পন বড় হলে শব্দ জোরালো।
+৫. সব তরঙ্গের মতো এরও **প্রতিফলন, প্রতিসরণ ও উপরিপাতন** হয়।
+
+আর শব্দ তরঙ্গ বলে এর জন্যও v = fλ খাটে।
+## analogy
+শব্দ যেন ভিড় বাসের মাঝপথে একটি ধাক্কা হাতবদল হওয়া। যাকে ধাক্কা দেওয়া হলো সে পাশের জনকে ধাক্কা দেয়, সে তার পাশের জনকে... ধাক্কাটা পেছন পর্যন্ত যায়, কিন্তু কেউ হেঁটে পেছনে যায় না। বাতাসের অণুরাও একইভাবে কম্পন হাতবদল করে। চাঁদে বাতাস নেই, তাই ধাক্কা হাতবদলের কেউ নেই: শব্দও নেই।
+## definition
+**শব্দ**: বস্তুর কম্পনের ফলে সৃষ্ট যান্ত্রিক অনুদৈর্ঘ্য তরঙ্গ, যা স্থিতিস্থাপক মাধ্যমের ভেতর দিয়ে চলে এবং আমাদের শ্রবণের অনুভূতি জাগায়।
+
+**শ্রুতিসীমা**: ২০ Hz থেকে ২০ ০০০ Hz। **শব্দেতর (ইনফ্রাসাউন্ড)**: ২০ Hz-এর কম কম্পাঙ্কের শব্দ। **শব্দোত্তর (আলট্রাসাউন্ড)**: ২০ ০০০ Hz (২০ kHz)-এর বেশি কম্পাঙ্কের শব্দ। মানুষ এ দুটোর কোনোটিই শুনতে পায় না।
+## why
+আমরা শব্দেতর বা শব্দোত্তর শুনতে পাই না কেন? আমাদের কানের পর্দা আর কানের ভেতরের ক্ষুদ্র লোমকোষগুলো শুধু একটা নির্দিষ্ট কম্পাঙ্ক-সীমার কম্পনে সাড়া দেয়। এর চেয়ে অনেক ধীর বা অনেক দ্রুত কম্পনে এই কোষগুলো সাড়া দেয় না, তাই বাতাস সত্যিই কাঁপলেও মস্তিষ্ক কোনো শব্দ-সংকেত পায় না।
+## terms
+ভোকাল কর্ড | স্বরযন্ত্রের দুটি পর্দা, যার কম্পনে আমাদের গলার স্বর তৈরি হয়
+মাধ্যম | যে পদার্থের (কঠিন, তরল, গ্যাস) ভেতর দিয়ে শব্দ চলে
+শ্রুতিসীমা | ২০ Hz – ২০ kHz
+শব্দেতর (infrasound) | ২০ Hz-এর কম কম্পাঙ্ক
+শব্দোত্তর (ultrasound) | ২০ kHz-এর বেশি কম্পাঙ্ক
+তীব্রতা | শব্দ কতটা শক্তি বহন করে; ∝ (বিস্তার)²
+সুরশলাকা (tuning fork) | দুই শাখার কাঁটা, যা একটি নির্দিষ্ট কম্পাঙ্কে কাঁপে
+## formula
+$$ v = fλ
+$$ তীব্রতা ∝ (বিস্তার)²
+! শ্রুতিসীমা: ২০ Hz ≤ f ≤ ২০ ০০০ Hz
+## visual
+স্কেল জুড়ে কম্পাঙ্ক সরাও। দেখো শব্দটি শব্দেতর, শ্রাব্য নাকি শব্দোত্তর, কে তা শুনতে পায়, আর বাতাসে এর তরঙ্গদৈর্ঘ্য কত।
+## real
+বড় ভূমিকম্পের আগে কুকুর ঘেউ ঘেউ করা বা গবাদিপশু অস্থির হওয়ার কথা মানুষ বলেছে। আমাদের অশ্রাব্য কম কম্পাঙ্কের কম্পন এর একটা কারণ হতে পারে। বাংলাদেশের হাসপাতালে ডাক্তাররা প্রতিদিন আলট্রাসাউন্ড যন্ত্র (আলট্রাসনোগ্রাফি) দিয়ে জন্মের আগে শিশুর অবস্থা দেখেন।
+## example
+প্রশ্ন: ১ kHz কম্পাঙ্কের একটি সুরশলাকা শব্দ তৈরি করল। এর বেগ বাতাসে ৩৩৪ m/s, পানিতে ১৪৯৩ m/s আর লোহায় ৫১৩০ m/s। প্রতিটি মাধ্যমে তরঙ্গদৈর্ঘ্য বের করো।
+দেওয়া আছে: f = ১ kHz = ১০০০ Hz
+সূত্র: v = fλ → λ = v/f
+হিসাব: বাতাসে: λ = ৩৩৪ ÷ ১০০০ = ০.৩৩৪ m; পানিতে: λ = ১৪৯৩ ÷ ১০০০ = ১.৪৯৩ m; লোহায়: λ = ৫১৩০ ÷ ১০০০ = ৫.১৩ m
+> তিন মাধ্যমেই কম্পাঙ্ক একই (সুরশলাকা ঠিক করে দেয়); বেগের সাথে শুধু λ বদলায়।
+উত্তর: বাতাসে ০.৩৩৪ m, পানিতে ১.৪৯ m, লোহায় ৫.১৩ m
+## example
+প্রশ্ন: নাভিদের বাড়ি একটি কারখানা থেকে ১৬.৬ m দূরে। কারখানার অ্যালার্মের শব্দ তার বাড়িতে পৌঁছাতে কত সময় লাগে? (বাতাসে শব্দের বেগ = ৩৩২ m/s)
+দেওয়া আছে: s = ১৬.৬ m, v = ৩৩২ m/s
+সূত্র: t = s/v
+হিসাব: t = ১৬.৬ ÷ ৩৩২ = ০.০৫ s
+উত্তর: ০.০৫ s
+## mistakes
+x শব্দ শূন্যস্থানের ভেতর দিয়ে চলতে পারে।
+v শব্দের মাধ্যম লাগে; শূন্যস্থানে কোনো শব্দ নেই।
+x শব্দ শুধু বাতাসের ভেতর দিয়ে চলে।
+v কঠিন আর তরলের ভেতর দিয়েও চলে, আর বাতাসের চেয়ে দ্রুত।
+x আলট্রাসাউন্ড মানে খুব জোরালো শব্দ।
+v আলট্রাসাউন্ড মানে খুব বেশি কম্পাঙ্ক (২০ kHz-এর বেশি), জোর নয়।
+## remember
+- কম্পন থেকে শব্দ তৈরি হয়; এটি যান্ত্রিক, অনুদৈর্ঘ্য তরঙ্গ।
+- মাধ্যম লাগে: শূন্যস্থানে শব্দ নেই।
+- শ্রাব্য ২০ Hz – ২০ kHz; এর কম → শব্দেতর; বেশি → শব্দোত্তর।
+- বেগ: গ্যাস < তরল < কঠিন; তীব্রতা ∝ (বিস্তার)²।
+- শব্দের জন্যও v = fλ খাটে।
+## think
+মহাকাশ স্টেশনের বাইরে নভোচারীরা পাশাপাশি দাঁড়িয়েও সরাসরি কথা বলতে পারেন না, কিন্তু দুজনের হেলমেট ছুঁয়ে থাকলে ক্ষীণভাবে একে অপরের কথা শুনতে পান। কেন?
+## quiz
+? মানুষের কানের শ্রুতিসীমা:
+- ২ Hz থেকে ২০০০ Hz
+* ২০ Hz থেকে ২০ ০০০ Hz
+- ২০০ Hz থেকে ২ ০০ ০০০ Hz
+- ২০ kHz থেকে ২০০ kHz
+= আমরা মোটামুটি ২০ Hz – ২০ kHz শুনি।
+? ৫০ kHz কম্পাঙ্কের শব্দ হলো:
+- শব্দেতর
+- শ্রাব্য
+* শব্দোত্তর
+- কোনো শব্দই নয়
+= ২০ kHz-এর বেশি = শব্দোত্তর।
+? কোন মাধ্যমে শব্দ সবচেয়ে দ্রুত চলে?
+* কঠিন
+- তরল
+- গ্যাস
+- শূন্যস্থান
+= কঠিন পদার্থ কম্পন সবচেয়ে দ্রুত এগিয়ে দেয়; শূন্যস্থানে শব্দ চলতেই পারে না।
+? ভেতরে বাজতে থাকা ঘণ্টাসহ জার থেকে বাতাস বের করতে থাকলে শব্দ:
+- জোরালো হয়
+* মৃদু হয়
+- একই থাকে
+- তীক্ষ্ণ হয়
+= কণা কমলে কম শব্দ পার হয়; শূন্যস্থানে একদমই না।
+
+@@ 7.3.1
+@visual c7echo
+@related 7.3 7.3.2 7.3.3 7.2
+== en
+## what
+An **echo** is a sound heard again after it reflects from a large surface such as a wall, a building or a cliff. We hear it as a separate sound only if it returns at least **0.1 s** after the original sound.
+## simple
+Stand in front of a tall building or a steep hillside and shout "Hello!". A moment later you hear "Hello!" coming back. The sound wave travelled to the wall, **reflected**, and came back to you. This returning sound is an **echo**.
+
+**Why don't we hear an echo in every room?** It's all about the ear's memory. The feeling of a sound stays in our brain for about **0.1 s** (persistence of hearing). If the reflected sound comes back sooner than that, it mixes with the original and we hear one long, booming sound instead of two separate ones. That's the rumbling you hear when you speak in a big empty hall (this blurred mixing is called **reverberation**). To hear a clear echo, the reflected sound must arrive **at least 0.1 s later**.
+
+**The minimum distance.** In 0.1 s sound in air (v ≈ 330 m/s) travels 330 × 0.1 = 33 m. But the sound must go **to** the wall **and back**, so the wall must be at least half of that away:
+
+d = vt/2 = 330 × 0.1 ÷ 2 = **16.5 m** (about 17 m).
+
+If you stand closer than about 17 m, you won't hear a separate echo. Since sound is faster on a hot day, the minimum distance is slightly larger in summer than in winter.
+
+**Measuring distance with echoes.** If you know the speed of sound and time how long the echo takes to return, you can find the distance to the reflector. The sound covers the distance twice (there and back), so:
+
+**d = vt/2**
+
+This is how ships measure the depth of the sea and how bats judge the distance to an insect.
+
+**Bats.** Bats can see quite well, yet they fly using echoes. While flying they give out very high-pitched calls, up to 100 kHz or more (ultrasound, which we can't hear). The calls bounce off walls, branches and insects, and from the time the echo takes to return the bat can tell how far away things are. So it can fly and hunt in complete darkness without bumping into anything.
+
+The reflecting surface must be **large** (compared with the wavelength of the sound). A small object scatters most of the sound in all directions, so too little comes back to hear.
+## analogy
+Throw a tennis ball at a wall and catch it as it bounces back. The ball travels to the wall **and** back, so the total trip is twice the distance to the wall. An echo is the same: the sound goes to the cliff and returns, which is why d = vt ÷ 2.
+## definition
+**Echo**: the repetition of a sound caused by the reflection of the sound from a large reflecting surface, heard separately from the original sound.
+
+**Condition for an echo**: the reflected sound must reach the listener at least 0.1 s after the original sound. In air (v ≈ 330 m/s) this means the reflector must be at least about 16.5–17 m away.
+
+Distance from echo time: d = vt/2, where t is the time between making the sound and hearing its echo.
+## why
+Why do we divide by 2 in d = vt/2? Because the time t you measure is for the round trip: the sound goes from you to the wall and then back from the wall to you. The total path is 2d, so 2d = vt, giving d = vt/2. Forgetting the 2 is the most common mistake in echo problems.
+## terms
+Echo (প্রতিধ্বনি) | Reflected sound heard separately
+Reflection | Bouncing back of a wave from a surface
+Persistence of hearing | The feeling of a sound lasts about 0.1 s
+Reverberation | Reflections arriving too quickly, blurring into one long sound
+Minimum distance for echo | About 16.5–17 m in air
+## formula
+$$ d = vt/2
+$$ Minimum distance: d = v × 0.1 ÷ 2
+d | distance to the reflecting surface | m
+v | speed of sound | m/s
+t | time between sound and its echo | s
+! t is the round-trip time, so the sound travels 2d.
+## visual
+Change the distance to the wall and the air temperature, or pick one of Farhan's cases. Send a clap and see whether the echo comes back late enough (0.1 s or more) to be heard separately.
+## real
+People who shout across a river towards a steep bank, or in the hills of Bandarban, often hear clear echoes. Fishing trawlers in the Bay of Bengal use echo sounders to find the depth of the water and schools of fish below.
+## example
+Q: On a winter morning (10°C), Farhan stands 17.25 m from a wall and shouts. On a hot summer day (30°C) he shouts from the same place. In which case does he hear an echo? (speed of sound: 338 m/s at 10°C, 349.8 m/s at 30°C)
+Given: d = 17.25 m, so the sound travels 2d = 34.5 m
+Formula: t = 2d/v; an echo is heard if t ≥ 0.1 s
+Calculation: winter: t = 34.5 ÷ 338 = 0.102 s; summer: t = 34.5 ÷ 349.8 = 0.0986 s
+> In summer sound is faster, so it returns a little sooner, just under the 0.1 s limit.
+Answer: In winter t ≥ 0.1 s, so he hears an echo; in summer t < 0.1 s, so he does not.
+## example
+Q: You clap in front of a cliff and hear the echo 1.5 s later. How far away is the cliff? (v = 332 m/s)
+Given: t = 1.5 s, v = 332 m/s
+Formula: d = vt/2
+Calculation: d = 332 × 1.5 ÷ 2 = 249 m
+Answer: 249 m
+## mistakes
+x d = vt, where t is the time until the echo is heard.
+v The sound goes there and back, so d = vt/2.
+x You can hear an echo from a wall 5 m away.
+v The echo returns in much less than 0.1 s and merges with the original sound.
+x Any object, however small, gives an echo.
+v The reflecting surface must be large; small objects scatter the sound.
+## remember
+- Echo = reflected sound heard separately.
+- Persistence of hearing ≈ 0.1 s → echo needs a delay of at least 0.1 s.
+- Minimum distance in air ≈ 16.5–17 m.
+- d = vt/2 (round trip).
+- Bats use ultrasonic echoes to find their way.
+## think
+What problem would a bat face if it used infrasound instead of ultrasound for finding insects? (Hint: think about the wavelength compared with the size of an insect.)
+## quiz
+? The minimum time gap needed to hear an echo is about:
+- 0.01 s
+* 0.1 s
+- 1 s
+- 10 s
+= The sensation of a sound persists for about 0.1 s.
+? A sound's echo returns after 2 s. If v = 340 m/s, the reflector is:
+- 170 m away
+* 340 m away
+- 680 m away
+- 1360 m away
+= d = vt/2 = 340 × 2 ÷ 2 = 340 m.
+? Why don't we hear a clear echo in a small room?
+- Sound can't reflect indoors
+* The reflected sound returns in less than 0.1 s
+- The walls absorb all sound
+- Sound travels too slowly indoors
+= The walls are too close, so the echo merges with the original sound.
+? With v = 330 m/s, the minimum distance from a wall to hear an echo is:
+- 33 m
+* 16.5 m
+- 3.3 m
+- 165 m
+= d = 330 × 0.1 ÷ 2 = 16.5 m.
+== bn
+## what
+**প্রতিধ্বনি** হলো দেয়াল, দালান বা খাড়া পাহাড়ের মতো বড় কোনো তলে প্রতিফলিত হয়ে আবার শোনা শব্দ। মূল শব্দের অন্তত **০.১ s** পরে ফিরে এলে তবেই একে আলাদা শব্দ হিসেবে শোনা যায়।
+## simple
+উঁচু দালান বা খাড়া পাহাড়ের সামনে দাঁড়িয়ে জোরে বলো "হ্যালো!"। একটু পরেই শুনবে "হ্যালো!" ফিরে আসছে। শব্দতরঙ্গ দেয়াল পর্যন্ত গিয়ে **প্রতিফলিত** হয়ে তোমার কাছে ফিরে এসেছে। এই ফিরে আসা শব্দই **প্রতিধ্বনি**।
+
+**প্রতিটি ঘরে প্রতিধ্বনি শুনি না কেন?** সব কারবার কানের স্মৃতির। কোনো শব্দের অনুভূতি মস্তিষ্কে প্রায় **০.১ s** থেকে যায় (শ্রবণের স্থায়িত্ব)। প্রতিফলিত শব্দ এর আগে ফিরে এলে মূল শব্দের সাথে মিশে যায়, আর দুটি আলাদা শব্দের বদলে একটা লম্বা গমগমে আওয়াজ শুনি। বড় ফাঁকা হলঘরে কথা বললে যে গমগম আওয়াজ হয় সেটাই এটা (এই ঝাপসা মিশে যাওয়াকে বলে **অনুরণন**)। স্পষ্ট প্রতিধ্বনি শুনতে প্রতিফলিত শব্দকে **অন্তত ০.১ s পরে** পৌঁছাতে হবে।
+
+**সর্বনিম্ন দূরত্ব।** ০.১ s-এ বাতাসে শব্দ (v ≈ ৩৩০ m/s) যায় ৩৩০ × ০.১ = ৩৩ m। কিন্তু শব্দকে দেয়াল পর্যন্ত **যেতে** আর **ফিরতে** হয়, তাই দেয়াল অন্তত এর অর্ধেক দূরে থাকতে হবে:
+
+d = vt/২ = ৩৩০ × ০.১ ÷ ২ = **১৬.৫ m** (প্রায় ১৭ m)।
+
+প্রায় ১৭ m-এর চেয়ে কাছে দাঁড়ালে আলাদা প্রতিধ্বনি শুনবে না। গরমের দিনে শব্দ দ্রুত চলে বলে শীতের চেয়ে গ্রীষ্মে এই সর্বনিম্ন দূরত্ব একটু বেশি।
+
+**প্রতিধ্বনি দিয়ে দূরত্ব মাপা।** শব্দের বেগ জানা থাকলে আর প্রতিধ্বনি ফিরতে কত সময় লাগে মাপলে প্রতিফলকের দূরত্ব বের করা যায়। শব্দ দূরত্বটা দুবার অতিক্রম করে (যাওয়া-আসা), তাই:
+
+**d = vt/২**
+
+এভাবেই জাহাজ সমুদ্রের গভীরতা মাপে আর বাদুড় পোকার দূরত্ব আন্দাজ করে।
+
+**বাদুড়।** বাদুড় বেশ ভালোই দেখতে পায়, তবুও ওড়ে প্রতিধ্বনি ব্যবহার করে। ওড়ার সময় এরা খুব তীক্ষ্ণ ডাক দেয়, ১০০ kHz বা তারও বেশি (শব্দোত্তর, যা আমরা শুনতে পাই না)। ডাকগুলো দেয়াল, ডাল আর পোকায় লেগে ফিরে আসে, আর প্রতিধ্বনি ফিরতে কত সময় লাগল তা থেকে বাদুড় বুঝতে পারে জিনিসগুলো কত দূরে। তাই ঘুটঘুটে অন্ধকারেও কোথাও ধাক্কা না খেয়ে উড়ে শিকার ধরতে পারে।
+
+প্রতিফলক তল **বড়** হতে হয় (শব্দের তরঙ্গদৈর্ঘ্যের তুলনায়)। ছোট বস্তু শব্দের বেশিরভাগ চারদিকে ছড়িয়ে দেয়, তাই শোনার মতো যথেষ্ট শব্দ ফিরে আসে না।
+## analogy
+দেয়ালে টেনিস বল ছুড়ে ফিরতি বল ধরো। বলটি দেয়াল পর্যন্ত যায় **এবং** ফিরে আসে, তাই মোট পথ দেয়ালের দূরত্বের দ্বিগুণ। প্রতিধ্বনিও তেমন: শব্দ পাহাড় পর্যন্ত যায় আর ফিরে আসে, তাই d = vt ÷ ২।
+## definition
+**প্রতিধ্বনি**: কোনো বড় প্রতিফলক তল থেকে শব্দের প্রতিফলনের ফলে শব্দের যে পুনরাবৃত্তি মূল শব্দ থেকে আলাদাভাবে শোনা যায়।
+
+**প্রতিধ্বনির শর্ত**: প্রতিফলিত শব্দকে মূল শব্দের অন্তত ০.১ s পরে শ্রোতার কাছে পৌঁছাতে হবে। বাতাসে (v ≈ ৩৩০ m/s) এর অর্থ প্রতিফলককে অন্তত প্রায় ১৬.৫–১৭ m দূরে থাকতে হবে।
+
+প্রতিধ্বনির সময় থেকে দূরত্ব: d = vt/২, যেখানে t হলো শব্দ করা আর প্রতিধ্বনি শোনার মাঝের সময়।
+## why
+d = vt/২-এ ২ দিয়ে ভাগ করি কেন? কারণ যে সময় t মাপো তা যাওয়া-আসার: শব্দ তোমার কাছ থেকে দেয়ালে যায়, তারপর দেয়াল থেকে তোমার কাছে ফেরে। মোট পথ ২d, তাই ২d = vt, অর্থাৎ d = vt/২। প্রতিধ্বনির অঙ্কে এই ২ ভুলে যাওয়াই সবচেয়ে সাধারণ ভুল।
+## terms
+প্রতিধ্বনি (echo) | আলাদাভাবে শোনা প্রতিফলিত শব্দ
+প্রতিফলন | কোনো তল থেকে তরঙ্গের ফিরে আসা
+শ্রবণের স্থায়িত্ব | শব্দের অনুভূতি প্রায় ০.১ s থাকে
+অনুরণন (reverberation) | খুব দ্রুত ফেরা প্রতিফলন, মিশে একটা লম্বা শব্দ
+প্রতিধ্বনির সর্বনিম্ন দূরত্ব | বাতাসে প্রায় ১৬.৫–১৭ m
+## formula
+$$ d = vt/২
+$$ সর্বনিম্ন দূরত্ব: d = v × ০.১ ÷ ২
+d | প্রতিফলক তলের দূরত্ব | m
+v | শব্দের বেগ | m/s
+t | শব্দ ও তার প্রতিধ্বনির মাঝের সময় | s
+! t হলো যাওয়া-আসার সময়, তাই শব্দ ২d পথ যায়।
+## visual
+দেয়ালের দূরত্ব আর বাতাসের তাপমাত্রা বদলাও, অথবা ফারহানের কোনো একটি ঘটনা বেছে নাও। একটা হাততালি পাঠাও আর দেখো প্রতিধ্বনি আলাদা শোনার মতো যথেষ্ট দেরিতে (০.১ s বা বেশি) ফেরে কি না।
+## real
+নদীর ওপারের খাড়া পাড়ের দিকে বা বান্দরবানের পাহাড়ে জোরে ডাক দিলে অনেকেই স্পষ্ট প্রতিধ্বনি শোনেন। বঙ্গোপসাগরে মাছ ধরার ট্রলার ইকো সাউন্ডার দিয়ে পানির গভীরতা আর নিচের মাছের ঝাঁক খোঁজে।
+## example
+প্রশ্ন: শীতের এক সকালে (১০°C) ফারহান একটি দেয়াল থেকে ১৭.২৫ m দূরে দাঁড়িয়ে চিৎকার করল। গ্রীষ্মের এক গরম দিনে (৩০°C) একই জায়গা থেকে চিৎকার করল। কোন ক্ষেত্রে সে প্রতিধ্বনি শুনবে? (শব্দের বেগ: ১০°C-এ ৩৩৮ m/s, ৩০°C-এ ৩৪৯.৮ m/s)
+দেওয়া আছে: d = ১৭.২৫ m, তাই শব্দ যায় ২d = ৩৪.৫ m
+সূত্র: t = ২d/v; t ≥ ০.১ s হলে প্রতিধ্বনি শোনা যায়
+হিসাব: শীতে: t = ৩৪.৫ ÷ ৩৩৮ = ০.১০২ s; গ্রীষ্মে: t = ৩৪.৫ ÷ ৩৪৯.৮ = ০.০৯৮৬ s
+> গ্রীষ্মে শব্দ দ্রুত চলে, তাই একটু আগে ফেরে, ০.১ s সীমার ঠিক নিচে।
+উত্তর: শীতে t ≥ ০.১ s, তাই প্রতিধ্বনি শোনে; গ্রীষ্মে t < ০.১ s, তাই শোনে না।
+## example
+প্রশ্ন: একটি খাড়া পাহাড়ের সামনে হাততালি দিয়ে ১.৫ s পরে প্রতিধ্বনি শুনলে। পাহাড় কত দূরে? (v = ৩৩২ m/s)
+দেওয়া আছে: t = ১.৫ s, v = ৩৩২ m/s
+সূত্র: d = vt/২
+হিসাব: d = ৩৩২ × ১.৫ ÷ ২ = ২৪৯ m
+উত্তর: ২৪৯ m
+## mistakes
+x d = vt, যেখানে t হলো প্রতিধ্বনি শোনা পর্যন্ত সময়।
+v শব্দ যায় আর ফেরে, তাই d = vt/২।
+x ৫ m দূরের দেয়াল থেকে প্রতিধ্বনি শোনা যায়।
+v প্রতিধ্বনি ০.১ s-এর অনেক আগেই ফেরে আর মূল শব্দের সাথে মিশে যায়।
+x যত ছোটই হোক, যেকোনো বস্তু থেকে প্রতিধ্বনি হয়।
+v প্রতিফলক তল বড় হতে হয়; ছোট বস্তু শব্দ ছড়িয়ে দেয়।
+## remember
+- প্রতিধ্বনি = আলাদাভাবে শোনা প্রতিফলিত শব্দ।
+- শ্রবণের স্থায়িত্ব ≈ ০.১ s → প্রতিধ্বনির জন্য অন্তত ০.১ s দেরি লাগে।
+- বাতাসে সর্বনিম্ন দূরত্ব ≈ ১৬.৫–১৭ m।
+- d = vt/২ (যাওয়া-আসা)।
+- বাদুড় শব্দোত্তর প্রতিধ্বনি দিয়ে পথ চেনে।
+## think
+পোকা খুঁজতে বাদুড় শব্দোত্তরের বদলে শব্দেতর ব্যবহার করলে কী সমস্যা হতো? (ইঙ্গিত: পোকার আকারের তুলনায় তরঙ্গদৈর্ঘ্যের কথা ভাবো।)
+## quiz
+? প্রতিধ্বনি শুনতে সর্বনিম্ন সময়ের ব্যবধান প্রায়:
+- ০.০১ s
+* ০.১ s
+- ১ s
+- ১০ s
+= শব্দের অনুভূতি প্রায় ০.১ s স্থায়ী হয়।
+? কোনো শব্দের প্রতিধ্বনি ২ s পরে ফিরল। v = ৩৪০ m/s হলে প্রতিফলক:
+- ১৭০ m দূরে
+* ৩৪০ m দূরে
+- ৬৮০ m দূরে
+- ১৩৬০ m দূরে
+= d = vt/২ = ৩৪০ × ২ ÷ ২ = ৩৪০ m।
+? ছোট ঘরে স্পষ্ট প্রতিধ্বনি শুনি না কেন?
+- ঘরের ভেতর শব্দ প্রতিফলিত হতে পারে না
+* প্রতিফলিত শব্দ ০.১ s-এর আগেই ফেরে
+- দেয়াল সব শব্দ শুষে নেয়
+- ঘরের ভেতর শব্দ খুব ধীরে চলে
+= দেয়াল খুব কাছে, তাই প্রতিধ্বনি মূল শব্দের সাথে মিশে যায়।
+? v = ৩৩০ m/s হলে প্রতিধ্বনি শুনতে দেয়াল থেকে সর্বনিম্ন দূরত্ব:
+- ৩৩ m
+* ১৬.৫ m
+- ৩.৩ m
+- ১৬৫ m
+= d = ৩৩০ × ০.১ ÷ ২ = ১৬.৫ m।
+
+@@ 7.3.2
+@visual c7speed
+@related 7.3 7.3.1 7.2.3 6.2
+== en
+## what
+The speed of sound depends on the **medium**: it is lowest in gases, higher in liquids and highest in solids. In air it also increases with **temperature** (v ∝ √T, T in kelvin) and with **humidity**, but not with pressure.
+## simple
+Put your ear on one end of a long table and ask a friend to tap the other end gently. You hear the tap loud and clear through the wood, much better than through the air. Solids are excellent carriers of sound.
+
+**Different media, different speeds.** Sound is a mechanical wave, so its speed depends on how the particles of the medium are linked together (the medium's **elasticity**) and how heavy they are. The book's table:
+
+- Air: 330 m/s
+- Hydrogen: 1284 m/s
+- Mercury: 1450 m/s
+- Water: 1493 m/s
+- Iron: 5130 m/s
+- Diamond: 12 000 m/s
+
+In general: **gas < liquid < solid**. (Hydrogen is a gas but very light, so sound is fast in it.)
+
+**Temperature.** In air, the speed of sound is proportional to the **square root of the absolute temperature**:
+
+**v ∝ √T**, so **v₂/v₁ = √(T₂/T₁)**
+
+Here T must be in **kelvin** (T = θ + 273), not Celsius. Warm air molecules move faster and pass the push along more quickly. Sound travels about 332 m/s at 0°C, about 338 m/s at 10°C and about 350 m/s at 30°C.
+
+**Pressure and humidity.** Changing the air pressure alone (at the same temperature) does **not** change the speed of sound. But the speed is inversely proportional to the square root of the air's density. Water vapour is lighter than dry air, so **humid air is less dense**, and sound travels a little **faster** in it. So sound is faster on a hot, humid monsoon day.
+## analogy
+Pass a message down a line of people. If they stand shoulder to shoulder and grip each other tightly, it passes quickly; if they are far apart, it is slow. In a solid, particles are close and tightly linked, so sound races through (about 5000 m/s in steel); in air they are far apart, so sound is slow (about 340 m/s).
+## definition
+**Velocity of sound**: the distance travelled by sound in one second in a given medium. It depends on the elasticity and density of the medium: v(solid) > v(liquid) > v(gas).
+
+**Effect of temperature**: in a gas, v ∝ √T, where T is the absolute (kelvin) temperature. **Effect of humidity**: moist air is less dense, so sound travels faster. **Effect of pressure**: at constant temperature, a change of pressure does not change the velocity of sound.
+## why
+Why is sound so much faster in iron than in air? In a solid the particles are tightly bound by strong forces, so a push on one particle is passed to the next almost instantly, like a push travelling down a row of people holding hands tightly. In air the molecules are far apart and must travel and collide to pass the push on, which takes longer.
+## terms
+Medium | Material through which sound travels
+Elasticity | How strongly a medium springs back when squeezed
+Absolute temperature (T) | Temperature in kelvin: T = θ(°C) + 273
+Humidity | Amount of water vapour in air
+Density | Mass per unit volume; less dense air → faster sound
+## formula
+$$ v ∝ √T
+$$ v₂/v₁ = √(T₂/T₁)
+$$ T = θ + 273
+v | speed of sound | m/s
+T | absolute temperature | K
+θ | temperature in Celsius | °C
+! Always convert °C to kelvin before using v ∝ √T.
+## visual
+Press Race to send sound through 1 km of each medium at the same moment, and change the air temperature to see how the speed in air changes.
+## real
+Lay your ear on a railway line (only where it is safe and no train is near!) and you can hear an approaching train through the rails long before you hear it through the air. In the old days people listened this way. During a thunderstorm you see lightning first and hear the thunder later, because light is almost a million times faster than sound.
+## example
+Q: At a place, the temperature in winter is 10°C and the speed of sound is 338 m/s. What is the speed of sound in summer when the temperature rises to 30°C?
+Given: v₁ = 338 m/s, T₁ = 10 + 273 = 283 K, T₂ = 30 + 273 = 303 K
+Formula: v₂/v₁ = √(T₂/T₁)
+Substitution: v₂ = 338 × √(303 ÷ 283)
+Calculation: 303 ÷ 283 = 1.0707; √1.0707 = 1.0347; v₂ = 338 × 1.0347 ≈ 349.7 m/s
+> Some textbooks round this to 349.6 m/s; the difference is only rounding.
+Answer: about 349.7 m/s
+## example
+Q: A hammer strikes one end of an iron rail 1 km long. How long does the sound take to reach the other end through the rail and through the air? (v in iron = 5130 m/s, in air = 330 m/s)
+Given: s = 1000 m
+Formula: t = s/v
+Calculation: iron: t = 1000 ÷ 5130 = 0.195 s; air: t = 1000 ÷ 330 = 3.03 s
+Answer: about 0.19 s through the rail but 3.03 s through the air, so a listener hears two bangs.
+## mistakes
+x Use Celsius temperature in v ∝ √T.
+v Use kelvin: T = θ + 273.
+x Sound travels faster when the air pressure is higher.
+v At the same temperature, pressure does not affect the speed of sound.
+x Humid air is heavier, so sound is slower in it.
+v Water vapour is lighter than dry air; humid air is less dense and sound is faster.
+## remember
+- Speed of sound: gas < liquid < solid (air 330, water 1493, iron 5130 m/s).
+- In air v ∝ √T (T in kelvin): hotter → faster.
+- Humid air → faster sound; pressure alone → no effect.
+- v₂/v₁ = √(T₂/T₁).
+## think
+A flute's length fixes the wavelength of the note it plays. On a hot day the speed of sound in the air inside it is higher. Using v = fλ, will the flute sound slightly higher or lower in pitch than on a cold day?
+## quiz
+? The speed of sound in air depends on:
+- Pressure only
+* Temperature and humidity
+- The loudness of the sound
+- The frequency of the sound
+= v ∝ √T and humid air is less dense; pressure alone has no effect.
+? If the absolute temperature of air becomes 4 times, the speed of sound becomes:
+- 4 times
+* 2 times
+- 16 times
+- Half
+= v ∝ √T, and √4 = 2.
+? In which medium is the speed of sound highest?
+- Water
+- Air
+- Mercury
+* Iron
+= Solids like iron carry sound fastest (5130 m/s).
+? 27°C in kelvin is:
+- 246 K
+* 300 K
+- 273 K
+- 27 K
+= T = 27 + 273 = 300 K.
+== bn
+## what
+শব্দের বেগ **মাধ্যমের** ওপর নির্ভর করে: গ্যাসে সবচেয়ে কম, তরলে বেশি, কঠিনে সবচেয়ে বেশি। বাতাসে এটি **তাপমাত্রা** (v ∝ √T, T কেলভিনে) আর **আর্দ্রতার** সাথে বাড়ে, কিন্তু চাপের সাথে নয়।
+## simple
+একটা লম্বা টেবিলের এক মাথায় কান লাগিয়ে বন্ধুকে বলো অন্য মাথায় আস্তে টোকা দিতে। কাঠের ভেতর দিয়ে টোকার শব্দ খুব স্পষ্ট শুনবে, বাতাসের চেয়ে অনেক ভালো। কঠিন পদার্থ শব্দের চমৎকার বাহক।
+
+**ভিন্ন মাধ্যম, ভিন্ন বেগ।** শব্দ যান্ত্রিক তরঙ্গ, তাই এর বেগ নির্ভর করে মাধ্যমের কণাগুলো কতটা জোরে পরস্পরের সাথে যুক্ত (মাধ্যমের **স্থিতিস্থাপকতা**) আর কণাগুলো কত ভারী তার ওপর। বইয়ের সারণি:
+
+- বাতাস: ৩৩০ m/s
+- হাইড্রোজেন: ১২৮৪ m/s
+- পারদ: ১৪৫০ m/s
+- পানি: ১৪৯৩ m/s
+- লোহা: ৫১৩০ m/s
+- হীরা: ১২ ০০০ m/s
+
+সাধারণভাবে: **গ্যাস < তরল < কঠিন**। (হাইড্রোজেন গ্যাস হলেও খুব হালকা, তাই এতে শব্দ দ্রুত চলে।)
+
+**তাপমাত্রা।** বাতাসে শব্দের বেগ **পরম তাপমাত্রার বর্গমূলের** সমানুপাতিক:
+
+**v ∝ √T**, তাই **v₂/v₁ = √(T₂/T₁)**
+
+এখানে T অবশ্যই **কেলভিনে** (T = θ + ২৭৩), সেলসিয়াসে নয়। গরম বাতাসের অণু দ্রুত চলে আর ঠেলাটা দ্রুত এগিয়ে দেয়। ০°C-এ শব্দের বেগ প্রায় ৩৩২ m/s, ১০°C-এ প্রায় ৩৩৮ m/s আর ৩০°C-এ প্রায় ৩৫০ m/s।
+
+**চাপ ও আর্দ্রতা।** একই তাপমাত্রায় শুধু বাতাসের চাপ বদলালে শব্দের বেগ **বদলায় না**। তবে বেগ বাতাসের ঘনত্বের বর্গমূলের ব্যস্তানুপাতিক। জলীয়বাষ্প শুষ্ক বাতাসের চেয়ে হালকা, তাই **আর্দ্র বাতাসের ঘনত্ব কম**, আর তাতে শব্দ একটু **দ্রুত** চলে। তাই বর্ষার গরম, ভ্যাপসা দিনে শব্দ দ্রুত চলে।
+## analogy
+এক সারি মানুষের মধ্যে একটি বার্তা হাতবদল করো। তারা কাঁধে কাঁধ মিলিয়ে শক্ত করে ধরে দাঁড়ালে বার্তা দ্রুত যায়; দূরে দূরে থাকলে ধীরে। কঠিন পদার্থে কণাগুলো কাছাকাছি আর শক্তভাবে যুক্ত, তাই শব্দ দ্রুত ছোটে (ইস্পাতে প্রায় ৫০০০ m/s); বাতাসে কণাগুলো দূরে দূরে, তাই শব্দ ধীর (প্রায় ৩৪০ m/s)।
+## definition
+**শব্দের বেগ**: কোনো মাধ্যমে এক সেকেন্ডে শব্দের অতিক্রান্ত দূরত্ব। এটি মাধ্যমের স্থিতিস্থাপকতা ও ঘনত্বের ওপর নির্ভর করে: v(কঠিন) > v(তরল) > v(গ্যাস)।
+
+**তাপমাত্রার প্রভাব**: গ্যাসে v ∝ √T, যেখানে T পরম (কেলভিন) তাপমাত্রা। **আর্দ্রতার প্রভাব**: আর্দ্র বাতাসের ঘনত্ব কম, তাই শব্দ দ্রুত চলে। **চাপের প্রভাব**: তাপমাত্রা স্থির থাকলে চাপ বদলালে শব্দের বেগ বদলায় না।
+## why
+লোহায় শব্দ বাতাসের চেয়ে এত দ্রুত চলে কেন? কঠিনে কণাগুলো শক্তিশালী বল দিয়ে শক্তভাবে বাঁধা, তাই একটা কণায় ঠেলা দিলে প্রায় সাথে সাথে পরেরটিতে পৌঁছে যায়, যেমন শক্ত করে হাত ধরা একসারি মানুষের মধ্য দিয়ে ধাক্কা ছুটে যায়। বাতাসে অণুগুলো দূরে দূরে, ঠেলা এগিয়ে দিতে এদের ছুটে গিয়ে ধাক্কা খেতে হয়, তাতে বেশি সময় লাগে।
+## terms
+মাধ্যম | যে পদার্থের ভেতর দিয়ে শব্দ চলে
+স্থিতিস্থাপকতা | চাপ দিলে মাধ্যম কতটা জোরে আগের অবস্থায় ফেরে
+পরম তাপমাত্রা (T) | কেলভিনে তাপমাত্রা: T = θ(°C) + ২৭৩
+আর্দ্রতা | বাতাসে জলীয়বাষ্পের পরিমাণ
+ঘনত্ব | একক আয়তনের ভর; কম ঘন বাতাস → দ্রুত শব্দ
+## formula
+$$ v ∝ √T
+$$ v₂/v₁ = √(T₂/T₁)
+$$ T = θ + ২৭৩
+v | শব্দের বেগ | m/s
+T | পরম তাপমাত্রা | K
+θ | সেলসিয়াসে তাপমাত্রা | °C
+! v ∝ √T ব্যবহারের আগে সবসময় °C-কে কেলভিনে নাও।
+## visual
+দৌড় চাপো: একই মুহূর্তে প্রতিটি মাধ্যমের ১ km পথে শব্দ পাঠানো হবে। আর বাতাসের তাপমাত্রা বদলে দেখো বাতাসে বেগ কীভাবে বদলায়।
+## real
+রেললাইনে কান পাতলে (শুধু নিরাপদ জায়গায়, আশেপাশে ট্রেন না থাকলে!) বাতাসে শোনার অনেক আগেই লাইনের ভেতর দিয়ে আসন্ন ট্রেনের শব্দ শোনা যায়। আগের দিনে মানুষ এভাবে শুনত। বজ্রঝড়ে আগে বিদ্যুৎ চমকানো দেখি, পরে বাজের শব্দ শুনি, কারণ আলো শব্দের চেয়ে প্রায় দশ লক্ষ গুণ দ্রুত।
+## example
+প্রশ্ন: কোনো জায়গায় শীতকালে তাপমাত্রা ১০°C আর শব্দের বেগ ৩৩৮ m/s। গ্রীষ্মকালে তাপমাত্রা বেড়ে ৩০°C হলে শব্দের বেগ কত?
+দেওয়া আছে: v₁ = ৩৩৮ m/s, T₁ = ১০ + ২৭৩ = ২৮৩ K, T₂ = ৩০ + ২৭৩ = ৩০৩ K
+সূত্র: v₂/v₁ = √(T₂/T₁)
+মান বসাই: v₂ = ৩৩৮ × √(৩০৩ ÷ ২৮৩)
+হিসাব: ৩০৩ ÷ ২৮৩ = ১.০৭০৭; √১.০৭০৭ = ১.০৩৪৭; v₂ = ৩৩৮ × ১.০৩৪৭ ≈ ৩৪৯.৭ m/s
+> কোনো কোনো বইয়ে এটি ৩৪৯.৬ m/s লেখা থাকে; পার্থক্যটা শুধু আসন্নমানের।
+উত্তর: প্রায় ৩৪৯.৭ m/s
+## example
+প্রশ্ন: ১ km লম্বা একটি লোহার রেলের এক মাথায় হাতুড়ি দিয়ে বাড়ি দেওয়া হলো। রেলের ভেতর দিয়ে আর বাতাসের ভেতর দিয়ে অন্য মাথায় শব্দ পৌঁছাতে কত সময় লাগবে? (লোহায় v = ৫১৩০ m/s, বাতাসে = ৩৩০ m/s)
+দেওয়া আছে: s = ১০০০ m
+সূত্র: t = s/v
+হিসাব: লোহায়: t = ১০০০ ÷ ৫১৩০ = ০.১৯৫ s; বাতাসে: t = ১০০০ ÷ ৩৩০ = ৩.০৩ s
+উত্তর: রেলের ভেতর দিয়ে প্রায় ০.১৯ s কিন্তু বাতাসে ৩.০৩ s, তাই শ্রোতা দুটি আলাদা শব্দ শোনে।
+## mistakes
+x v ∝ √T-তে সেলসিয়াস তাপমাত্রা বসাও।
+v কেলভিন বসাও: T = θ + ২৭৩।
+x বাতাসের চাপ বেশি হলে শব্দ দ্রুত চলে।
+v একই তাপমাত্রায় চাপ শব্দের বেগকে প্রভাবিত করে না।
+x আর্দ্র বাতাস ভারী, তাই এতে শব্দ ধীরে চলে।
+v জলীয়বাষ্প শুষ্ক বাতাসের চেয়ে হালকা; আর্দ্র বাতাস কম ঘন, তাই শব্দ দ্রুত চলে।
+## remember
+- শব্দের বেগ: গ্যাস < তরল < কঠিন (বাতাস ৩৩০, পানি ১৪৯৩, লোহা ৫১৩০ m/s)।
+- বাতাসে v ∝ √T (T কেলভিনে): বেশি গরম → বেশি দ্রুত।
+- আর্দ্র বাতাস → দ্রুত শব্দ; শুধু চাপ → কোনো প্রভাব নেই।
+- v₂/v₁ = √(T₂/T₁)।
+## think
+বাঁশির দৈর্ঘ্য তার সুরের তরঙ্গদৈর্ঘ্য ঠিক করে দেয়। গরমের দিনে বাঁশির ভেতরের বাতাসে শব্দের বেগ বেশি। v = fλ ব্যবহার করে বলো, ঠান্ডা দিনের তুলনায় বাঁশির সুর একটু চড়া শোনাবে নাকি খাদে?
+## quiz
+? বাতাসে শব্দের বেগ নির্ভর করে:
+- শুধু চাপের ওপর
+* তাপমাত্রা ও আর্দ্রতার ওপর
+- শব্দের জোরের ওপর
+- শব্দের কম্পাঙ্কের ওপর
+= v ∝ √T আর আর্দ্র বাতাস কম ঘন; শুধু চাপের কোনো প্রভাব নেই।
+? বাতাসের পরম তাপমাত্রা ৪ গুণ হলে শব্দের বেগ হয়:
+- ৪ গুণ
+* ২ গুণ
+- ১৬ গুণ
+- অর্ধেক
+= v ∝ √T, আর √৪ = ২।
+? কোন মাধ্যমে শব্দের বেগ সবচেয়ে বেশি?
+- পানি
+- বাতাস
+- পারদ
+* লোহা
+= লোহার মতো কঠিন পদার্থে শব্দ সবচেয়ে দ্রুত চলে (৫১৩০ m/s)।
+? ২৭°C কেলভিনে:
+- ২৪৬ K
+* ৩০০ K
+- ২৭৩ K
+- ২৭ K
+= T = ২৭ + ২৭৩ = ৩০০ K।
+
+@@ 7.3.3
+@visual c7sonar
+@related 7.3.1 7.3 7.3.2
+== en
+## what
+Besides speaking and listening, sound, especially **ultrasound** and **echoes**, has many special uses: **ultrasonography** to see inside the body, **SONAR** to measure sea depth and find objects under water, **seismic surveys** to find gas and oil, and **ultrasonic cleaners**.
+## simple
+The everyday uses of sound need no introduction: we talk, listen to songs, a doctor listens to your heartbeat with a stethoscope, and a mechanic listens to an engine to find a fault. But clever uses of sound go much further.
+
+**Ultrasonography.** Once there was no way to see a baby growing inside the mother's womb. Now a doctor places a small probe on the mother's belly. It sends out harmless ultrasound pulses, which reflect from the boundaries between different tissues. A computer uses the timing of these echoes to build a picture on the screen. Ultrasound is also used to look at the liver, kidneys, gallbladder and heart without any cut.
+
+**SONAR (Sound Navigation And Ranging).** A ship sends an ultrasound pulse down into the sea. It reflects from the sea bed (or a shoal of fish, a shipwreck, a submarine) and returns. Measuring the time t and knowing the speed of sound in water (about 1500 m/s), the depth is **d = vt/2**, the same echo formula as before.
+
+**Bats and dolphins** are nature's sonar experts. Bats send ultrasonic calls and listen for echoes to fly and catch insects in the dark. Dolphins use clicks of ultrasound to find fish in muddy water.
+
+**3D seismic survey.** To check whether gas or oil lies underground, engineers set off a small explosion a little below the surface. The sound waves travel down, reflect from the boundaries of different rock and soil layers, and come back up to special receivers called **geophones**. Because the positions of the source and geophones are known, the travel times reveal the depth of each layer, and a computer builds a 3-D picture of what lies below. Gas fields in Bangladesh were explored this way.
+
+**Ultrasonic cleaner.** Small instruments, jewellery or spectacles are dipped in a liquid through which ultrasound is passed. The rapid vibrations shake loose the dirt from even the tiniest corners.
+## definition
+**Ultrasonography**: a method of producing images of the inside of the body using the echoes of ultrasound reflected from different tissues.
+
+**SONAR**: a system that sends out ultrasound pulses under water and uses the time taken by their echoes to find the depth of the sea or the distance of underwater objects (d = vt/2).
+
+**Seismic survey**: a method of finding the structure of underground layers from the reflections of sound waves produced by a small explosion, detected by geophones.
+## why
+Why use **ultrasound** and not ordinary sound for these jobs? Its very high frequency means a very **short wavelength** (λ = v/f). Short waves reflect sharply from small objects and fine boundaries, so the echoes give a detailed picture. It can also be sent as a narrow beam, and since we can't hear it, it doesn't disturb anyone.
+## terms
+Ultrasonography | Imaging the inside of the body with ultrasound echoes
+SONAR | Finding depth or objects under water with ultrasound echoes
+Echo sounder | Ship's instrument that measures depth by echoes
+Seismic survey | Mapping underground layers with reflected sound
+Geophone | Receiver that detects reflected sound from underground
+Ultrasonic cleaner | Removes dirt using ultrasound vibrations in a liquid
+## formula
+$$ d = vt/2
+$$ λ = v/f
+! Speed of sound in sea water ≈ 1500 m/s (the book uses 1493 m/s for water).
+## visual
+Move the ship over the sea bed and send a pulse. Watch the echo return and see how the depth is calculated from the echo time.
+## real
+Doctors in Bangladesh routinely use ultrasonography during pregnancy. Bangladesh Navy ships and survey vessels use SONAR and echo sounders to chart the shifting channels of the Bay of Bengal and our rivers, which is essential because silt constantly changes the depth.
+## example
+Q: A ship sends an ultrasound pulse to the sea bed and receives the echo 0.8 s later. If sound travels at 1493 m/s in water, how deep is the sea?
+Given: t = 0.8 s, v = 1493 m/s
+Formula: d = vt/2
+Calculation: d = 1493 × 0.8 ÷ 2 = 597.2 m
+Answer: about 597 m
+## example
+Q: A bat produces sound of frequency 100 kHz. What is its wavelength in air? (v = 330 m/s)
+Given: f = 100 kHz = 100 000 Hz, v = 330 m/s
+Formula: λ = v/f
+Calculation: λ = 330 ÷ 100 000 = 0.0033 m = 3.3 mm
+> Such a short wavelength is similar in size to a small insect, so it reflects well from one.
+Answer: 3.3 mm
+## mistakes
+x Ultrasonography uses X-rays.
+v It uses ultrasound echoes, which is why it is considered safe in pregnancy.
+x In SONAR, depth = speed × echo time.
+v The pulse goes down and comes back, so depth = vt/2.
+## remember
+- Ultrasonography: ultrasound echoes make pictures inside the body.
+- SONAR / echo sounder: depth d = vt/2 under water.
+- Bats and dolphins navigate with ultrasonic echoes.
+- Seismic survey: reflected sound + geophones map underground layers.
+- Ultrasonic cleaner: vibrations remove dirt.
+## think
+A fishing boat's echo sounder suddenly shows the "sea bed" at 20 m, then back to 60 m a few seconds later. What might have passed under the boat?
+## quiz
+? SONAR works on the principle of:
+- Refraction of light
+* Echo (reflection) of sound
+- Magnetism
+- Superposition of light
+= It times the echo of ultrasound pulses.
+? An echo from the sea bed returns after 2 s. If v = 1500 m/s in water, the depth is:
+- 750 m
+* 1500 m
+- 3000 m
+- 6000 m
+= d = vt/2 = 1500 × 2 ÷ 2 = 1500 m.
+? The receivers used in a seismic survey are called:
+- Microphones
+* Geophones
+- Stethoscopes
+- Hydrometers
+= Geophones detect the reflected sound from underground layers.
+== bn
+## what
+কথা বলা আর শোনা ছাড়াও শব্দের, বিশেষ করে **শব্দোত্তর** আর **প্রতিধ্বনির**, অনেক বিশেষ ব্যবহার আছে: শরীরের ভেতর দেখতে **আলট্রাসনোগ্রাফি**, সমুদ্রের গভীরতা মাপতে আর পানির নিচের বস্তু খুঁজতে **সোনার**, গ্যাস ও তেল খুঁজতে **সিসমিক সার্ভে**, আর **আলট্রাসাউন্ড ক্লিনার**।
+## simple
+শব্দের দৈনন্দিন ব্যবহারের কথা আলাদা করে বলার দরকার নেই: আমরা কথা বলি, গান শুনি, ডাক্তার স্টেথোস্কোপ দিয়ে হৃৎস্পন্দন শোনেন, মিস্ত্রি ইঞ্জিনের শব্দ শুনে ত্রুটি ধরেন। কিন্তু শব্দের চতুর ব্যবহার এর চেয়ে অনেক দূর যায়।
+
+**আলট্রাসনোগ্রাফি।** একসময় মায়ের গর্ভে বেড়ে ওঠা শিশুকে দেখার কোনো উপায় ছিল না। এখন ডাক্তার মায়ের পেটে একটা ছোট প্রোব রাখেন। সেটি নিরাপদ আলট্রাসাউন্ড স্পন্দ পাঠায়, যা বিভিন্ন কলার সীমানা থেকে প্রতিফলিত হয়। প্রতিধ্বনিগুলোর সময় ব্যবহার করে কম্পিউটার পর্দায় ছবি তৈরি করে। কোনো কাটাছেঁড়া ছাড়াই যকৃৎ, কিডনি, পিত্তথলি আর হৃৎপিণ্ড দেখতেও আলট্রাসাউন্ড ব্যবহার হয়।
+
+**সোনার (SONAR: Sound Navigation And Ranging)।** জাহাজ সমুদ্রের নিচের দিকে একটা আলট্রাসাউন্ড স্পন্দ পাঠায়। সেটি সমুদ্রতল (বা মাছের ঝাঁক, ডুবে যাওয়া জাহাজ, ডুবোজাহাজ) থেকে প্রতিফলিত হয়ে ফেরে। সময় t মেপে আর পানিতে শব্দের বেগ (প্রায় ১৫০০ m/s) জেনে গভীরতা **d = vt/২**, আগের সেই প্রতিধ্বনির সূত্রই।
+
+**বাদুড় আর ডলফিন** প্রকৃতির সোনার বিশেষজ্ঞ। বাদুড় শব্দোত্তর ডাক পাঠিয়ে প্রতিধ্বনি শুনে অন্ধকারে ওড়ে আর পোকা ধরে। ডলফিন ঘোলা পানিতে মাছ খুঁজতে শব্দোত্তর ক্লিক ব্যবহার করে।
+
+**ত্রিমাত্রিক সিসমিক সার্ভে।** মাটির নিচে গ্যাস বা তেল আছে কি না দেখতে প্রকৌশলীরা ভূপৃষ্ঠের একটু নিচে ছোট বিস্ফোরণ ঘটান। শব্দতরঙ্গ নিচে যায়, বিভিন্ন শিলা ও মাটির স্তরের সীমানা থেকে প্রতিফলিত হয়ে ওপরে **জিওফোন** নামের বিশেষ রিসিভারে ফেরে। উৎস আর জিওফোনের অবস্থান জানা থাকায় সময় থেকে প্রতিটি স্তরের গভীরতা বের হয়, আর কম্পিউটার নিচের একটা ত্রিমাত্রিক ছবি তৈরি করে। বাংলাদেশের গ্যাসক্ষেত্রগুলো এভাবে অনুসন্ধান করা হয়েছে।
+
+**আলট্রাসাউন্ড ক্লিনার।** ছোট যন্ত্রপাতি, গয়না বা চশমা কোনো তরলে ডুবিয়ে তার ভেতর দিয়ে আলট্রাসাউন্ড পাঠানো হয়। দ্রুত কম্পন একদম ছোট কোনা থেকেও ময়লা ঝেড়ে বের করে আনে।
+## definition
+**আলট্রাসনোগ্রাফি**: বিভিন্ন কলা থেকে প্রতিফলিত আলট্রাসাউন্ডের প্রতিধ্বনি ব্যবহার করে শরীরের ভেতরের ছবি তৈরির পদ্ধতি।
+
+**সোনার**: যে ব্যবস্থা পানির নিচে আলট্রাসাউন্ড স্পন্দ পাঠিয়ে তার প্রতিধ্বনি ফিরতে লাগা সময় থেকে সমুদ্রের গভীরতা বা পানির নিচের বস্তুর দূরত্ব বের করে (d = vt/২)।
+
+**সিসমিক সার্ভে**: ছোট বিস্ফোরণে তৈরি শব্দতরঙ্গের প্রতিফলন জিওফোনে ধরে মাটির নিচের স্তরের গঠন বের করার পদ্ধতি।
+## why
+এসব কাজে সাধারণ শব্দ নয়, **শব্দোত্তর** কেন? খুব বেশি কম্পাঙ্ক মানে খুব **ছোট তরঙ্গদৈর্ঘ্য** (λ = v/f)। ছোট তরঙ্গ ছোট বস্তু আর সূক্ষ্ম সীমানা থেকে স্পষ্টভাবে প্রতিফলিত হয়, তাই প্রতিধ্বনি থেকে খুঁটিনাটি ছবি পাওয়া যায়। একে সরু রশ্মি হিসেবেও পাঠানো যায়, আর আমরা শুনতে পাই না বলে কাউকে বিরক্তও করে না।
+## terms
+আলট্রাসনোগ্রাফি | আলট্রাসাউন্ডের প্রতিধ্বনি দিয়ে শরীরের ভেতরের ছবি
+সোনার (SONAR) | আলট্রাসাউন্ডের প্রতিধ্বনি দিয়ে পানির নিচে গভীরতা বা বস্তু খোঁজা
+ইকো সাউন্ডার | প্রতিধ্বনি দিয়ে গভীরতা মাপার জাহাজের যন্ত্র
+সিসমিক সার্ভে | প্রতিফলিত শব্দ দিয়ে মাটির নিচের স্তরের মানচিত্র
+জিওফোন | মাটির নিচ থেকে প্রতিফলিত শব্দ ধরার রিসিভার
+আলট্রাসাউন্ড ক্লিনার | তরলে আলট্রাসাউন্ডের কম্পন দিয়ে ময়লা দূর করে
+## formula
+$$ d = vt/২
+$$ λ = v/f
+! সমুদ্রের পানিতে শব্দের বেগ ≈ ১৫০০ m/s (বইয়ে পানির জন্য ১৪৯৩ m/s)।
+## visual
+জাহাজটিকে সমুদ্রতলের ওপর দিয়ে সরাও আর একটা স্পন্দ পাঠাও। প্রতিধ্বনি ফেরা দেখো, আর দেখো প্রতিধ্বনির সময় থেকে গভীরতা কীভাবে হিসাব হয়।
+## real
+বাংলাদেশের ডাক্তাররা গর্ভাবস্থায় নিয়মিত আলট্রাসনোগ্রাফি করেন। বাংলাদেশ নৌবাহিনী আর জরিপ জাহাজগুলো সোনার ও ইকো সাউন্ডার দিয়ে বঙ্গোপসাগর আর আমাদের নদীগুলোর বদলে যাওয়া চ্যানেলের মানচিত্র তৈরি করে; পলি জমে গভীরতা প্রতিনিয়ত বদলায় বলে এটা খুব জরুরি।
+## example
+প্রশ্ন: একটি জাহাজ সমুদ্রতলে আলট্রাসাউন্ড স্পন্দ পাঠিয়ে ০.৮ s পরে প্রতিধ্বনি পেল। পানিতে শব্দের বেগ ১৪৯৩ m/s হলে সমুদ্র কত গভীর?
+দেওয়া আছে: t = ০.৮ s, v = ১৪৯৩ m/s
+সূত্র: d = vt/২
+হিসাব: d = ১৪৯৩ × ০.৮ ÷ ২ = ৫৯৭.২ m
+উত্তর: প্রায় ৫৯৭ m
+## example
+প্রশ্ন: একটি বাদুড় ১০০ kHz কম্পাঙ্কের শব্দ তৈরি করে। বাতাসে এর তরঙ্গদৈর্ঘ্য কত? (v = ৩৩০ m/s)
+দেওয়া আছে: f = ১০০ kHz = ১ ০০ ০০০ Hz, v = ৩৩০ m/s
+সূত্র: λ = v/f
+হিসাব: λ = ৩৩০ ÷ ১ ০০ ০০০ = ০.০০৩৩ m = ৩.৩ mm
+> এত ছোট তরঙ্গদৈর্ঘ্য একটা ছোট পোকার আকারের কাছাকাছি, তাই পোকা থেকে ভালোভাবে প্রতিফলিত হয়।
+উত্তর: ৩.৩ mm
+## mistakes
+x আলট্রাসনোগ্রাফিতে এক্স-রে ব্যবহার হয়।
+v এতে আলট্রাসাউন্ডের প্রতিধ্বনি ব্যবহার হয়, এজন্যই গর্ভাবস্থায় একে নিরাপদ ধরা হয়।
+x সোনারে গভীরতা = বেগ × প্রতিধ্বনির সময়।
+v স্পন্দ নিচে গিয়ে ফিরে আসে, তাই গভীরতা = vt/২।
+## remember
+- আলট্রাসনোগ্রাফি: আলট্রাসাউন্ডের প্রতিধ্বনি দিয়ে শরীরের ভেতরের ছবি।
+- সোনার / ইকো সাউন্ডার: পানির নিচে গভীরতা d = vt/২।
+- বাদুড় ও ডলফিন শব্দোত্তর প্রতিধ্বনি দিয়ে পথ চেনে।
+- সিসমিক সার্ভে: প্রতিফলিত শব্দ + জিওফোন দিয়ে মাটির নিচের স্তরের মানচিত্র।
+- আলট্রাসাউন্ড ক্লিনার: কম্পন দিয়ে ময়লা দূর করে।
+## think
+মাছ ধরার নৌকার ইকো সাউন্ডারে হঠাৎ "সমুদ্রতল" ২০ m-এ দেখাল, কয়েক সেকেন্ড পর আবার ৬০ m। নৌকার নিচ দিয়ে কী চলে গিয়ে থাকতে পারে?
+## quiz
+? সোনার যে নীতিতে কাজ করে:
+- আলোর প্রতিসরণ
+* শব্দের প্রতিধ্বনি (প্রতিফলন)
+- চুম্বকত্ব
+- আলোর উপরিপাতন
+= এটি আলট্রাসাউন্ড স্পন্দের প্রতিধ্বনির সময় মাপে।
+? সমুদ্রতল থেকে প্রতিধ্বনি ২ s পরে ফিরল। পানিতে v = ১৫০০ m/s হলে গভীরতা:
+- ৭৫০ m
+* ১৫০০ m
+- ৩০০০ m
+- ৬০০০ m
+= d = vt/২ = ১৫০০ × ২ ÷ ২ = ১৫০০ m।
+? সিসমিক সার্ভেতে ব্যবহৃত রিসিভারকে বলে:
+- মাইক্রোফোন
+* জিওফোন
+- স্টেথোস্কোপ
+- হাইড্রোমিটার
+= জিওফোন মাটির নিচের স্তর থেকে প্রতিফলিত শব্দ ধরে।
+
+@@ 7.3.4
+@visual c7music
+@related 7.3 7.2 7.2.3 7.3.5
+== en
+## what
+**Musical sound** is a pleasant sound made of regular, periodic vibrations; **noise** is an unpleasant sound made of irregular vibrations. Musical instruments are of three kinds: **string**, **wind** and **percussion**.
+## simple
+Some sounds are sweet to hear: a flute, a sitar, a well-tuned harmonium. Others annoy us: a car horn in a traffic jam, a pressure cooker's hiss, chalk screeching on a board. What makes the difference?
+
+If you record the sound of a musical instrument and draw its wave, you see a pattern that **repeats regularly**: it is **periodic**. A noise, on the other hand, gives a messy, irregular wave with no repeating pattern.
+
+A **tuning fork** gives the simplest sound of all: a single, perfect frequency (a smooth sine wave). But a real instrument's note is not just one wave. Many waves of different frequencies are **superposed** (added together) on top of a main frequency, and this mixture makes the sound rich and melodious. It is also why the same note on a violin and a flute sounds different: the mixture of waves is different. This property is called the **quality** or **timbre** of a sound.
+
+**Pitch and loudness.** Two other features describe any musical sound:
+
+- **Pitch** depends on the **frequency**. High frequency → high, shrill pitch (a whistle, a child's voice); low frequency → low, deep pitch (a big drum, a man's voice).
+- **Loudness** depends on the **amplitude** (intensity ∝ amplitude²). Pluck a guitar string harder: same pitch, louder sound.
+
+**Three families of instruments:**
+
+- **String instruments**: a stretched string vibrates: ektara, violin, sitar (also dotara, sarod, guitar). A tighter or shorter string gives a higher pitch.
+- **Wind instruments**: a column of air vibrates: flute (bashi), harmonium (also shehnai). A shorter air column gives a higher pitch.
+- **Percussion instruments**: a stretched skin or a solid is struck: dhol, tabla (also dugdugi, cymbals).
+
+Today, electronic keyboards and computers can also produce musical sounds by generating the waves electronically.
+## analogy
+Musical sound is like people marching in step: regular, repeating, pleasant. Noise is like a crowd rushing in all directions: no pattern. Pitch tells you how fast the steps are (frequency); loudness tells you how hard each step lands (amplitude).
+## definition
+**Musical sound**: a sound produced by regular, periodic vibrations that is pleasant to hear. **Noise**: a sound produced by irregular vibrations that is unpleasant to hear.
+
+**Pitch**: the characteristic of a sound by which we distinguish a high (shrill) sound from a low (deep) one; it depends on frequency. **Loudness**: how loud a sound seems; it depends on amplitude (intensity). **Quality (timbre)**: the characteristic that distinguishes two sounds of the same pitch and loudness from different sources; it depends on the mixture of superposed waves.
+## why
+Why does a flute sound different from a violin playing the same note? Both give the same main frequency, but each also produces a different set of extra, higher-frequency waves with different strengths. When these are superposed, the total wave shape is different, and our ears (and brain) are very good at recognising these shapes.
+## terms
+Musical sound (সুরযুক্ত শব্দ) | Pleasant, regular, periodic vibrations
+Noise | Unpleasant, irregular vibrations
+Pitch | Highness or lowness of a sound; depends on frequency
+Loudness | Strength of a sound; depends on amplitude
+Quality (timbre) | What makes the same note from different instruments sound different
+String instruments | Ektara, violin, sitar
+Wind instruments | Flute, harmonium
+Percussion instruments | Dhol, tabla
+## visual
+Compare the wave shapes of a tuning fork, a musical note and noise. Change the frequency and amplitude, and press Listen to hear how pitch and loudness change.
+## real
+During Pohela Boishakh processions you can hear all three families together: the dhol (percussion), the bashi (wind) and the ektara (string). A harmonium tuner adjusts the metal reeds so each key gives exactly the right frequency.
+## mistakes
+x A louder sound always has a higher pitch.
+v Loudness depends on amplitude; pitch depends on frequency. They are independent.
+x A flute and a violin playing the same note produce identical waves.
+v The main frequency is the same, but the superposed extra waves differ, giving a different quality.
+## remember
+- Musical sound: periodic, regular waves; noise: irregular waves.
+- Pitch ↔ frequency; loudness ↔ amplitude; quality ↔ mixture of superposed waves.
+- Tuning fork: a single pure frequency.
+- Instruments: string (ektara, violin, sitar), wind (flute, harmonium), percussion (dhol, tabla).
+## think
+When a sitar player presses a string against a higher fret, the vibrating part of the string gets shorter. What happens to the pitch, and why?
+## quiz
+? The pitch of a sound depends on its:
+- Amplitude
+* Frequency
+- Speed
+- Medium
+= High frequency → high pitch.
+? Which of these is a wind instrument?
+- Tabla
+- Sitar
+* Flute
+- Dhol
+= In a flute, a column of air vibrates.
+? The same note sounds different on a violin and a flute because of their different:
+- Pitch
+- Loudness
+* Quality (mixture of superposed waves)
+- Speed of sound
+= The quality or timbre depends on the mixture of waves.
+== bn
+## what
+**সুরযুক্ত শব্দ** হলো নিয়মিত, পর্যাবৃত্ত কম্পনে তৈরি শ্রুতিমধুর শব্দ; **কোলাহল** বা বেসুরো শব্দ হলো অনিয়মিত কম্পনে তৈরি বিরক্তিকর শব্দ। বাদ্যযন্ত্র তিন ধরনের: **তারের**, **বাতাসের** আর **আঘাতের**।
+## simple
+কিছু শব্দ শুনতে মধুর: বাঁশি, সেতার, সুরে বাঁধা হারমোনিয়াম। আবার কিছু শব্দ বিরক্ত করে: যানজটে গাড়ির হর্ন, প্রেশার কুকারের হিসহিস, বোর্ডে চকের কিচকিচ। পার্থক্যটা কোথায়?
+
+কোনো বাদ্যযন্ত্রের শব্দ রেকর্ড করে তার তরঙ্গ আঁকলে দেখবে একটা নকশা **নিয়মিতভাবে পুনরাবৃত্ত** হচ্ছে: এটি **পর্যাবৃত্ত**। অন্যদিকে কোলাহলের তরঙ্গ এলোমেলো, অনিয়মিত, কোনো পুনরাবৃত্ত নকশা নেই।
+
+**সুরশলাকা** থেকে আসে সবচেয়ে সরল শব্দ: একটিমাত্র নিখুঁত কম্পাঙ্ক (মসৃণ সাইন তরঙ্গ)। কিন্তু আসল বাদ্যযন্ত্রের সুরে শুধু একটা তরঙ্গ থাকে না। একটা মূল কম্পাঙ্কের ওপর ভিন্ন ভিন্ন কম্পাঙ্কের অনেক তরঙ্গ **উপরিপাতিত** হয় (যোগ হয়), আর এই মিশ্রণই শব্দটাকে ভরাট আর সুরেলা করে। এজন্যই বেহালা আর বাঁশিতে একই সুর আলাদা শোনায়: তরঙ্গের মিশ্রণ আলাদা। শব্দের এই বৈশিষ্ট্যকে বলে **গুণ** বা **জাতি**।
+
+**তীক্ষ্ণতা ও প্রাবল্য।** যেকোনো সুরযুক্ত শব্দের আরও দুটি বৈশিষ্ট্য:
+
+- **তীক্ষ্ণতা** নির্ভর করে **কম্পাঙ্কের** ওপর। বেশি কম্পাঙ্ক → তীক্ষ্ণ, চড়া স্বর (বাঁশি, শিশুর গলা); কম কম্পাঙ্ক → খাদের, মোটা স্বর (বড় ঢোল, পুরুষের গলা)।
+- **প্রাবল্য** (জোর) নির্ভর করে **বিস্তারের** ওপর (তীব্রতা ∝ বিস্তার²)। গিটারের তার আরও জোরে টানো: একই তীক্ষ্ণতা, জোরালো শব্দ।
+
+**বাদ্যযন্ত্রের তিন পরিবার:**
+
+- **তারের বাদ্যযন্ত্র**: টানা তার কাঁপে: একতারা, বেহালা, সেতার (দোতারা, সরোদ, গিটারও)। তার বেশি টানটান বা ছোট হলে তীক্ষ্ণতা বাড়ে।
+- **বাতাসের প্রবাহের বাদ্যযন্ত্র**: বায়ুস্তম্ভ কাঁপে: বাঁশি, হারমোনিয়াম (সানাইও)। বায়ুস্তম্ভ ছোট হলে তীক্ষ্ণতা বাড়ে।
+- **আঘাতের বাদ্যযন্ত্র**: টানা চামড়া বা কঠিন বস্তুতে আঘাত করা হয়: ঢোল, তবলা (ডুগডুগি, করতালও)।
+
+আজকাল ইলেকট্রনিক কি-বোর্ড আর কম্পিউটারও ইলেকট্রনিক উপায়ে তরঙ্গ তৈরি করে সুরেলা শব্দ বানাতে পারে।
+## analogy
+সুর যেন তালে তালে কুচকাওয়াজ: নিয়মিত, পুনরাবৃত্ত, মধুর। কোলাহল যেন ভিড় চারদিকে ছুটছে: কোনো নিয়ম নেই। তীক্ষ্ণতা বলে পা কত দ্রুত পড়ছে (কম্পাঙ্ক); প্রাবল্য বলে প্রতিটি পা কত জোরে পড়ছে (বিস্তার)।
+## definition
+**সুরযুক্ত শব্দ**: নিয়মিত, পর্যাবৃত্ত কম্পনে তৈরি শ্রুতিমধুর শব্দ। **কোলাহল (বেসুরো শব্দ)**: অনিয়মিত কম্পনে তৈরি শ্রুতিকটু শব্দ।
+
+**তীক্ষ্ণতা**: শব্দের যে বৈশিষ্ট্য দিয়ে চড়া (তীক্ষ্ণ) আর খাদের (মোটা) শব্দ আলাদা করা যায়; এটি কম্পাঙ্কের ওপর নির্ভর করে। **প্রাবল্য**: শব্দ কতটা জোরালো মনে হয়; এটি বিস্তারের (তীব্রতার) ওপর নির্ভর করে। **গুণ বা জাতি**: যে বৈশিষ্ট্য দিয়ে ভিন্ন উৎসের সমান তীক্ষ্ণতা ও প্রাবল্যের দুটি শব্দ আলাদা করা যায়; এটি উপরিপাতিত তরঙ্গের মিশ্রণের ওপর নির্ভর করে।
+## why
+একই সুর বাজালেও বাঁশি আর বেহালা আলাদা শোনায় কেন? দুটোই একই মূল কম্পাঙ্ক দেয়, কিন্তু প্রতিটি আলাদা আলাদা শক্তির ভিন্ন এক সেট বাড়তি, উচ্চ কম্পাঙ্কের তরঙ্গও তৈরি করে। এগুলো উপরিপাতিত হলে মোট তরঙ্গের আকার আলাদা হয়, আর আমাদের কান (ও মস্তিষ্ক) এসব আকার চিনতে খুবই দক্ষ।
+## terms
+সুরযুক্ত শব্দ (musical sound) | শ্রুতিমধুর, নিয়মিত, পর্যাবৃত্ত কম্পন
+কোলাহল (noise) | শ্রুতিকটু, অনিয়মিত কম্পন
+তীক্ষ্ণতা (pitch) | শব্দ চড়া না খাদের; কম্পাঙ্কের ওপর নির্ভর করে
+প্রাবল্য (loudness) | শব্দের জোর; বিস্তারের ওপর নির্ভর করে
+গুণ বা জাতি (quality) | একই সুর ভিন্ন যন্ত্রে ভিন্ন শোনানোর কারণ
+তারের বাদ্যযন্ত্র | একতারা, বেহালা, সেতার
+বাতাসের বাদ্যযন্ত্র | বাঁশি, হারমোনিয়াম
+আঘাতের বাদ্যযন্ত্র | ঢোল, তবলা
+## visual
+সুরশলাকা, সুরযুক্ত শব্দ আর কোলাহলের তরঙ্গের আকার তুলনা করো। কম্পাঙ্ক আর বিস্তার বদলাও, আর শোনো চেপে শুনে দেখো তীক্ষ্ণতা আর প্রাবল্য কীভাবে বদলায়।
+## real
+পহেলা বৈশাখের শোভাযাত্রায় তিন পরিবারই একসাথে শোনা যায়: ঢোল (আঘাতের), বাঁশি (বাতাসের) আর একতারা (তারের)। হারমোনিয়াম সারাইকারী ধাতব রিডগুলো ঠিক করেন যাতে প্রতিটি চাবি ঠিক সঠিক কম্পাঙ্ক দেয়।
+## mistakes
+x জোরালো শব্দের তীক্ষ্ণতা সবসময় বেশি।
+v প্রাবল্য বিস্তারের ওপর, তীক্ষ্ণতা কম্পাঙ্কের ওপর নির্ভর করে। এরা স্বাধীন।
+x একই সুরে বাঁশি আর বেহালা হুবহু একই তরঙ্গ তৈরি করে।
+v মূল কম্পাঙ্ক একই, কিন্তু উপরিপাতিত বাড়তি তরঙ্গ আলাদা, তাই গুণ আলাদা।
+## remember
+- সুরযুক্ত শব্দ: পর্যাবৃত্ত, নিয়মিত তরঙ্গ; কোলাহল: অনিয়মিত তরঙ্গ।
+- তীক্ষ্ণতা ↔ কম্পাঙ্ক; প্রাবল্য ↔ বিস্তার; গুণ ↔ উপরিপাতিত তরঙ্গের মিশ্রণ।
+- সুরশলাকা: একটিমাত্র বিশুদ্ধ কম্পাঙ্ক।
+- বাদ্যযন্ত্র: তারের (একতারা, বেহালা, সেতার), বাতাসের (বাঁশি, হারমোনিয়াম), আঘাতের (ঢোল, তবলা)।
+## think
+সেতারবাদক তার ওপরের দিকের পর্দায় চেপে ধরলে তারের কম্পনশীল অংশ ছোট হয়ে যায়। তীক্ষ্ণতার কী হয়, আর কেন?
+## quiz
+? শব্দের তীক্ষ্ণতা নির্ভর করে এর:
+- বিস্তারের ওপর
+* কম্পাঙ্কের ওপর
+- বেগের ওপর
+- মাধ্যমের ওপর
+= বেশি কম্পাঙ্ক → বেশি তীক্ষ্ণতা।
+? কোনটি বাতাসের প্রবাহের বাদ্যযন্ত্র?
+- তবলা
+- সেতার
+* বাঁশি
+- ঢোল
+= বাঁশিতে বায়ুস্তম্ভ কাঁপে।
+? বেহালা আর বাঁশিতে একই সুর আলাদা শোনায় কারণ এদের ভিন্ন:
+- তীক্ষ্ণতা
+- প্রাবল্য
+* গুণ (উপরিপাতিত তরঙ্গের মিশ্রণ)
+- শব্দের বেগ
+= গুণ বা জাতি তরঙ্গের মিশ্রণের ওপর নির্ভর করে।
+
+@@ 7.3.5
+@visual c7db
+@related 7.3 7.3.4 7.2
+== en
+## what
+**Sound pollution** (noise pollution) is unwanted, excessive sound that harms our health and comfort. Sound level is measured in **decibels (dB)**; long exposure to loud sound damages hearing.
+## simple
+Sound is essential in our lives, but too much of it makes life miserable. If you live beside a busy road in Dhaka, you know the roar of bus and truck engines and the endless horns. We get so used to it that we notice only when we visit a quiet village and suddenly realise how peaceful life can be.
+
+**Measuring loudness: the decibel.** Sound level is measured in **decibels (dB)**. The scale is not like a ruler: every **+10 dB** means the sound intensity is **10 times** greater. So 90 dB traffic is about 1000 times more intense than 60 dB conversation (though it doesn't sound 1000 times louder to our ears). The book's table gives typical levels:
+
+- Jet engine: 110–140 dB
+- Heavy traffic: 80–90 dB
+- A car: 60–80 dB
+- Television: 50–60 dB
+- Conversation: 40–60 dB
+- Breathing: 10 dB
+- Faintest sound we can hear: 0 dB
+
+**Effects on health.** Long exposure to loud noise **damages hearing**, gradually and permanently. It can also cause headaches, trouble sleeping, irritability and poor concentration in studies, and raise blood pressure. Listening to loud music on **headphones** for hours makes the problem worse, because the sound goes straight into the ear.
+
+**What can be done?**
+
+1. **Laws**: make and enforce laws against sound pollution, so that people who cause it face action.
+2. **Public awareness**: explain the harm to everyone.
+3. Use the **horn as little as possible**; use quieter vehicles.
+4. Install **sound-absorbing** equipment in factories; give workers ear protection.
+5. Reduce or stop the use of **loudspeakers (mic)**.
+6. **Plant trees** in the empty spaces of cities; leaves and branches absorb and scatter sound.
+7. Keep headphone volume low and take breaks.
+## analogy
+The decibel scale is like the steps of a staircase where every 10 steps multiply the sound energy by 10. A busy road (80 dB) is not just a little louder than a normal talk (60 dB): it carries 100 times the sound energy. That's why constant traffic horns damage hearing.
+## definition
+**Sound pollution**: the presence of unwanted, excessive or harmful sound in the environment, which disturbs people and damages health.
+
+**Decibel (dB)**: the unit used to measure the level of sound intensity. An increase of 10 dB means the intensity becomes 10 times greater.
+## why
+Why does loud sound damage hearing permanently? Inside the ear are thousands of tiny hair cells that bend when sound vibrations reach them. Very strong vibrations, again and again, bend and break these delicate cells. Unlike skin, they do not grow back, so the hearing lost is lost for good.
+## terms
+Sound pollution | Harmful, excessive, unwanted sound
+Decibel (dB) | Unit of sound level; +10 dB = 10 × intensity
+Hearing loss | Reduced ability to hear, often from long noise exposure
+Sound absorber | Material or device that soaks up sound
+## visual
+Slide the sound level along the decibel scale. See which everyday sources match it and when it becomes harmful.
+## real
+Areas around hospitals and schools in Bangladesh are declared "silent zones" where using horns is not allowed. The Department of Environment runs awareness campaigns against hydraulic horns, which can be louder than 100 dB.
+## mistakes
+x 80 dB is just twice as intense as 40 dB.
+v Each +10 dB is 10 times the intensity; 80 dB is 10 000 times as intense as 40 dB.
+x You get used to noise, so it stops harming you.
+v Getting used to it doesn't stop the damage to hearing and health.
+## remember
+- Sound pollution: excessive, unwanted sound that harms health.
+- Measured in decibels (dB); +10 dB = 10 × intensity.
+- Traffic 80–90 dB; conversation 40–60 dB; jet engine 110–140 dB.
+- Effects: hearing loss, headache, sleeplessness, stress, poor concentration.
+- Prevention: laws, awareness, fewer horns and loudspeakers, sound absorbers, trees, low headphone volume.
+## think
+Your neighbour plays a loudspeaker late at night before your exam. Using what you learned, suggest one personal step and one community step to reduce the problem.
+## quiz
+? Sound level is measured in:
+- Hertz
+* Decibels
+- Newtons
+- Metres per second
+= The decibel (dB) is the unit of sound level.
+? Which of these is typically the loudest?
+- Conversation
+- Television
+- Breathing
+* Jet engine
+= A jet engine is 110–140 dB.
+? Which step helps reduce sound pollution in cities?
+- Using hydraulic horns
+- More loudspeakers
+* Planting trees
+- Louder vehicles
+= Trees absorb and scatter sound.
+== bn
+## what
+**শব্দদূষণ** হলো অপ্রয়োজনীয়, মাত্রাতিরিক্ত শব্দ যা আমাদের স্বাস্থ্য ও স্বস্তির ক্ষতি করে। শব্দের মাত্রা মাপা হয় **ডেসিবেলে (dB)**; দীর্ঘদিন জোরালো শব্দে থাকলে শোনার ক্ষমতা নষ্ট হয়।
+## simple
+শব্দ আমাদের জীবনে অপরিহার্য, কিন্তু এর বাড়াবাড়ি জীবনকে অসহ্য করে তোলে। ঢাকার ব্যস্ত রাস্তার পাশে থাকলে তুমি বাস-ট্রাকের ইঞ্জিনের গর্জন আর অবিরাম হর্নের কথা জানো। আমরা এতে এতটাই অভ্যস্ত হয়ে যাই যে কোনো নিরিবিলি গ্রামে গেলে তবেই হঠাৎ টের পাই জীবন কতটা শান্ত হতে পারে।
+
+**প্রাবল্য মাপা: ডেসিবেল।** শব্দের মাত্রা মাপা হয় **ডেসিবেলে (dB)**। এই স্কেল রুলারের মতো নয়: প্রতি **+১০ dB** মানে শব্দের তীব্রতা **১০ গুণ** বেশি। তাই ৯০ dB-এর যানজট ৬০ dB-এর কথাবার্তার চেয়ে প্রায় ১০০০ গুণ তীব্র (যদিও আমাদের কানে ১০০০ গুণ জোরালো শোনায় না)। বইয়ের সারণিতে সাধারণ মাত্রাগুলো:
+
+- জেট ইঞ্জিন: ১১০–১৪০ dB
+- ট্রাফিক (যানজট): ৮০–৯০ dB
+- গাড়ি: ৬০–৮০ dB
+- টেলিভিশন: ৫০–৬০ dB
+- কথাবার্তা: ৪০–৬০ dB
+- নিঃশ্বাস: ১০ dB
+- আমাদের শোনা সবচেয়ে ক্ষীণ শব্দ: ০ dB
+
+**স্বাস্থ্যের ওপর প্রভাব।** দীর্ঘদিন জোরালো শব্দে থাকলে ধীরে ধীরে আর স্থায়ীভাবে **শোনার ক্ষমতা নষ্ট হয়**। মাথাব্যথা, ঘুমের সমস্যা, খিটখিটে মেজাজ, পড়ায় মনোযোগ কমে যাওয়া আর রক্তচাপ বেড়ে যাওয়াও হতে পারে। ঘণ্টার পর ঘণ্টা **হেডফোনে** জোরে গান শুনলে সমস্যা আরও বাড়ে, কারণ শব্দ সরাসরি কানের ভেতরে যায়।
+
+**কী করা যায়?**
+
+১. **আইন**: শব্দদূষণের বিরুদ্ধে আইন তৈরি ও প্রয়োগ, যাতে কেউ শব্দদূষণ করলে তার বিরুদ্ধে ব্যবস্থা নেওয়া যায়।
+২. **জনসচেতনতা**: সবাইকে ক্ষতির কথা বোঝানো।
+৩. **যথাসম্ভব কম হর্ন** বাজানো; কম শব্দের যানবাহন ব্যবহার।
+৪. কলকারখানায় **শব্দ শোষণের যন্ত্র** বসানো; শ্রমিকদের কান সুরক্ষার ব্যবস্থা।
+৫. **মাইকের** ব্যবহার কমানো বা বন্ধ করা।
+৬. শহরের ফাঁকা জায়গায় **গাছ লাগানো**; পাতা ও ডালপালা শব্দ শোষণ করে আর ছড়িয়ে দেয়।
+৭. হেডফোনের ভলিউম কম রাখা আর মাঝে মাঝে বিরতি নেওয়া।
+## analogy
+ডেসিবেল স্কেল যেন এমন সিঁড়ি, যার প্রতি ১০ ধাপে শব্দশক্তি ১০ গুণ হয়। ব্যস্ত রাস্তা (৮০ dB) সাধারণ কথাবার্তার (৬০ dB) চেয়ে সামান্য জোরে নয়: এতে ১০০ গুণ শব্দশক্তি। তাই অবিরাম গাড়ির হর্ন শ্রবণশক্তির ক্ষতি করে।
+## definition
+**শব্দদূষণ**: পরিবেশে অপ্রয়োজনীয়, মাত্রাতিরিক্ত বা ক্ষতিকর শব্দের উপস্থিতি, যা মানুষকে বিরক্ত করে আর স্বাস্থ্যের ক্ষতি করে।
+
+**ডেসিবেল (dB)**: শব্দের তীব্রতার মাত্রা মাপার একক। ১০ dB বাড়া মানে তীব্রতা ১০ গুণ হওয়া।
+## why
+জোরালো শব্দ শোনার ক্ষমতা স্থায়ীভাবে নষ্ট করে কেন? কানের ভেতরে হাজার হাজার ক্ষুদ্র লোমকোষ আছে, শব্দের কম্পন পৌঁছালে এগুলো বেঁকে যায়। খুব জোরালো কম্পন বারবার এলে এই নাজুক কোষগুলো বেঁকে ভেঙে যায়। চামড়ার মতো এরা আর গজায় না, তাই হারানো শ্রবণশক্তি চিরতরে হারায়।
+## terms
+শব্দদূষণ | ক্ষতিকর, মাত্রাতিরিক্ত, অপ্রয়োজনীয় শব্দ
+ডেসিবেল (dB) | শব্দের মাত্রার একক; +১০ dB = ১০ × তীব্রতা
+শ্রবণশক্তি হ্রাস | শোনার ক্ষমতা কমে যাওয়া, প্রায়ই দীর্ঘদিন শব্দে থাকার ফলে
+শব্দ শোষক | যে পদার্থ বা যন্ত্র শব্দ শুষে নেয়
+## visual
+ডেসিবেল স্কেল বরাবর শব্দের মাত্রা সরাও। দেখো কোন কোন দৈনন্দিন উৎসের সাথে মেলে আর কখন তা ক্ষতিকর হয়ে ওঠে।
+## real
+বাংলাদেশে হাসপাতাল আর স্কুলের আশেপাশের এলাকাকে "নীরব এলাকা" ঘোষণা করা হয়, যেখানে হর্ন বাজানো নিষেধ। পরিবেশ অধিদপ্তর হাইড্রোলিক হর্নের বিরুদ্ধে সচেতনতা অভিযান চালায়, যার শব্দ ১০০ dB-এরও বেশি হতে পারে।
+## mistakes
+x ৮০ dB শব্দ ৪০ dB-এর মাত্র দ্বিগুণ তীব্র।
+v প্রতি +১০ dB-এ তীব্রতা ১০ গুণ; ৮০ dB হলো ৪০ dB-এর ১০ ০০০ গুণ তীব্র।
+x শব্দে অভ্যস্ত হয়ে গেলে আর ক্ষতি হয় না।
+v অভ্যস্ত হলেও শ্রবণ আর স্বাস্থ্যের ক্ষতি থামে না।
+## remember
+- শব্দদূষণ: স্বাস্থ্যের ক্ষতি করা মাত্রাতিরিক্ত, অপ্রয়োজনীয় শব্দ।
+- মাপা হয় ডেসিবেলে (dB); +১০ dB = ১০ × তীব্রতা।
+- যানজট ৮০–৯০ dB; কথাবার্তা ৪০–৬০ dB; জেট ইঞ্জিন ১১০–১৪০ dB।
+- প্রভাব: শ্রবণশক্তি হ্রাস, মাথাব্যথা, অনিদ্রা, মানসিক চাপ, মনোযোগ কমা।
+- প্রতিকার: আইন, সচেতনতা, কম হর্ন ও মাইক, শব্দ শোষক, গাছ, হেডফোনের কম ভলিউম।
+## think
+তোমার পরীক্ষার আগের রাতে প্রতিবেশী গভীর রাত পর্যন্ত মাইক বাজাচ্ছে। যা শিখলে তা দিয়ে সমস্যা কমাতে একটি ব্যক্তিগত আর একটি সামাজিক পদক্ষেপ প্রস্তাব করো।
+## quiz
+? শব্দের মাত্রা মাপা হয়:
+- হার্টজে
+* ডেসিবেলে
+- নিউটনে
+- মিটার/সেকেন্ডে
+= শব্দের মাত্রার একক ডেসিবেল (dB)।
+? কোনটি সাধারণত সবচেয়ে জোরালো?
+- কথাবার্তা
+- টেলিভিশন
+- নিঃশ্বাস
+* জেট ইঞ্জিন
+= জেট ইঞ্জিন ১১০–১৪০ dB।
+? শহরে শব্দদূষণ কমাতে কোনটি সাহায্য করে?
+- হাইড্রোলিক হর্ন ব্যবহার
+- আরও বেশি মাইক
+* গাছ লাগানো
+- বেশি শব্দের যানবাহন
+= গাছ শব্দ শোষণ করে আর ছড়িয়ে দেয়।

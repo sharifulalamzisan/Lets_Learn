@@ -1,0 +1,1981 @@
+@@chapter
+== en
+## intro
+Squeeze a lemon, taste a tamarind, or smell the vinegar in a jar of achar: that sharp, sour taste is the taste of an **acid**. Rub a little soap between wet fingers and it feels slippery: that is the feel of a **base**. Acids, bases and the **salts** they make when they react are the chemicals used most often in a laboratory, and they are everywhere in daily life: in our food, in our stomach, in toothpaste, in fertiliser, in the soil of a paddy field and in the rain that falls on it.
+
+In this chapter you will learn what makes a substance an acid, a base or an alkali, and why water is needed for them to show their properties. You will meet strong and weak acids, the danger of concentrated acids and alkalis, and the **pH scale** that measures how acidic or alkaline a solution is. You will see how an acid and a base cancel each other in **neutralisation**, where salts come from, why rain can turn acidic, and finally how hard water forms, how water gets polluted and how we can test and purify it.
+## objectives
+- explain the properties of acids, bases and salts, and identify them around you
+- tell the difference between a base and an alkali
+- show the reactions of dilute acids with litmus, metals, carbonates, bicarbonates, metal oxides and hydroxides, with balanced equations
+- explain the role of water: H⁺ ions make a solution acidic and OH⁻ ions make it alkaline
+- distinguish strong and weak acids and alkalis, and concentrated and dilute solutions
+- describe the corrosive nature of concentrated acids and alkalis and how to handle them safely
+- explain pH, calculate it from [H⁺], and measure it with indicators, pH paper and a pH meter
+- explain the importance of pH in the body, in agriculture and in cosmetics
+- explain neutralisation and its everyday uses, and predict whether a salt solution is acidic, basic or neutral
+- explain the causes, harms and prevention of acid rain
+- explain temporary and permanent hardness of water and how to remove them
+- describe the causes of water pollution, ways to test the purity of water and methods of purification
+== bn
+## intro
+একটা লেবু চিপে দেখো, একটু তেঁতুল মুখে দাও, কিংবা আচারের বয়ামের ভিনেগারের গন্ধ নাও: ওই ঝাঁঝালো টক স্বাদটাই **এসিডের** স্বাদ। ভেজা আঙুলে একটু সাবান ঘষো, পিচ্ছিল লাগবে: এটাই **ক্ষারের** অনুভূতি। এসিড, ক্ষারক আর এদের বিক্রিয়ায় তৈরি **লবণ**: গবেষণাগারে এগুলোই সবচেয়ে বেশি ব্যবহৃত রাসায়নিক দ্রব্য। আর দৈনন্দিন জীবনেও এরা সবখানে আছে: আমাদের খাবারে, পাকস্থলীতে, টুথপেস্টে, সারে, ধানখেতের মাটিতে, এমনকি সেই মাটিতে পড়া বৃষ্টির পানিতেও।
+
+এই অধ্যায়ে শিখবে কোনো পদার্থ কেন এসিড, ক্ষারক বা ক্ষার, আর এদের ধর্ম দেখাতে পানি কেন দরকার। পরিচিত হবে তীব্র ও মৃদু এসিডের সাথে, জানবে গাঢ় এসিড ও ক্ষার কতটা বিপজ্জনক, আর শিখবে **pH স্কেল**, যা দিয়ে মাপা হয় একটি দ্রবণ কতটা এসিডীয় বা ক্ষারীয়। দেখবে **প্রশমন** বিক্রিয়ায় এসিড ও ক্ষারক কীভাবে একে অপরকে নিষ্ক্রিয় করে, লবণ কোথা থেকে আসে, বৃষ্টি কেন এসিডীয় হয়ে যায়, আর শেষে পানি কীভাবে খর হয়, কীভাবে দূষিত হয় এবং কীভাবে তার বিশুদ্ধতা পরীক্ষা করে পানিকে বিশুদ্ধ করা যায়।
+## objectives
+- এসিড, ক্ষারক ও লবণের ধর্ম ব্যাখ্যা করতে এবং চারপাশ থেকে এদের শনাক্ত করতে পারবে
+- ক্ষারক ও ক্ষারের পার্থক্য করতে পারবে
+- লিটমাস, ধাতু, কার্বনেট, বাইকার্বনেট, ধাতব অক্সাইড ও হাইড্রোক্সাইডের সাথে লঘু এসিডের বিক্রিয়া সমতাকৃত সমীকরণসহ দেখাতে পারবে
+- পানির ভূমিকা ব্যাখ্যা করতে পারবে: H⁺ আয়ন দ্রবণকে এসিডীয় আর OH⁻ আয়ন দ্রবণকে ক্ষারীয় করে
+- তীব্র ও মৃদু এসিড-ক্ষার এবং গাঢ় ও লঘু দ্রবণের পার্থক্য করতে পারবে
+- গাঢ় এসিড ও ক্ষারের ক্ষয়কারী ধর্ম এবং নিরাপদে ব্যবহারের নিয়ম বর্ণনা করতে পারবে
+- pH ব্যাখ্যা করতে, [H⁺] থেকে pH হিসাব করতে এবং নির্দেশক, pH পেপার ও pH মিটার দিয়ে pH মাপতে পারবে
+- শরীরে, কৃষিতে ও প্রসাধনীতে pH-এর গুরুত্ব ব্যাখ্যা করতে পারবে
+- প্রশমন বিক্রিয়া ও এর দৈনন্দিন ব্যবহার ব্যাখ্যা করতে এবং লবণের দ্রবণ এসিডীয়, ক্ষারীয় না নিরপেক্ষ হবে তা বলতে পারবে
+- এসিড বৃষ্টির কারণ, ক্ষতি ও প্রতিকার ব্যাখ্যা করতে পারবে
+- পানির অস্থায়ী ও স্থায়ী খরতা এবং তা দূর করার উপায় ব্যাখ্যা করতে পারবে
+- পানিদূষণের কারণ, পানির বিশুদ্ধতা পরীক্ষার উপায় এবং বিশুদ্ধকরণের পদ্ধতি বর্ণনা করতে পারবে
+
+@@ 9.1
+@visual k9acid
+@related 9.2 9.5 9.4 6.3
+== en
+## what
+An **acid** is a substance that gives **hydrogen ions (H⁺)**, also called protons, when it dissolves in water. Dilute acids taste sour, turn blue litmus red, and react with active metals, carbonates, bicarbonates, metal oxides and hydroxides.
+## simple
+Lemon (লেবু), tamarind (তেঁতুল), green mango, vinegar, yoghurt: all of them taste sour because they contain acids. The acids in our food are weak and harmless, and many of them are good for us.
+
+- lemon, orange: **citric acid**
+- tamarind: **tartaric acid**
+- vinegar: **ethanoic acid** (acetic acid, CH₃COOH)
+- milk, yoghurt: **lactic acid**
+- soft drinks: **carbonic acid** (H₂CO₃)
+- tea: **tannic acid**
+
+Our own stomach wall makes **hydrochloric acid (HCl)**, a strong acid that helps break down food. Too much of it, or an empty stomach for a long time, lets the acid attack the stomach lining and cause pain; a long-term sore there is called a **peptic ulcer**. That is one reason doctors advise not to skip meals.
+
+**What makes something an acid?** When an acid dissolves in water, its molecules break apart (**ionise**) and release H⁺ ions:
+
+- HCl(aq) → H⁺(aq) + Cl⁻(aq)
+- H₂SO₄(aq) → 2H⁺(aq) + SO₄²⁻(aq)
+
+HCl and H₂SO₄ break up **completely** (100%), so a single arrow (→) is used. They are **strong acids**. Ethanoic acid and carbonic acid break up only **partly**, so a double arrow (⇌) is used. They are **weak acids**:
+
+- CH₃COOH(aq) ⇌ H⁺(aq) + CH₃COO⁻(aq)
+- H₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)
+
+In a typical lab solution of ethanoic acid at 25 °C, only about **4 molecules out of every 1000** break up; the other 996 stay whole. So a weak acid gives far fewer H⁺ ions than the same amount of a strong acid.
+
+**9.1.1 Properties of dilute acids (with experiments)**
+
+**1.** **Taste:** dilute acids are sour. *Never taste anything in the laboratory.* Taste tamarind at home instead.
+
+**2.** **Corrosive:** acids eat away the surface of many metals; an iron strip left in acid becomes pitted.
+
+**3.** **Litmus test:** put 2–3 mL of dilute HCl in a test tube and drop in blue litmus paper. It turns **red**. Dilute H₂SO₄, HNO₃, tamarind water or pickle juice do the same.
+
+**4.** **With active metals** (Mg, Zn, Fe…): salt + hydrogen gas. A lighted splint held at the mouth of the tube goes out with a small **"pop"**: the test for hydrogen.
+- Mg(s) + H₂SO₄(aq) → MgSO₄(aq) + H₂(g)
+- Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)
+
+**5.** **With metal carbonates:** salt + water + carbon dioxide, which fizzes out as bubbles.
+- CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)
+- Na₂CO₃ + H₂SO₄ → Na₂SO₄ + H₂O + CO₂
+- CaCO₃ + 2HNO₃ → Ca(NO₃)₂ + H₂O + CO₂
+- **Test for CO₂:** bubble it through lime water (calcium hydroxide solution). The lime water turns **milky** because insoluble calcium carbonate forms. If you keep bubbling CO₂, the milkiness **disappears** and the solution becomes clear again, because soluble calcium bicarbonate forms:
+- Ca(OH)₂(aq) + CO₂(g) → CaCO₃(s) + H₂O(l)
+- CaCO₃(s) + CO₂(g) + H₂O(l) → Ca(HCO₃)₂(aq)
+
+**6.** **With metal bicarbonates** (hydrogen carbonates): again salt + water + CO₂.
+- NaHCO₃ + HNO₃ → NaNO₃ + H₂O + CO₂
+- 2NaHCO₃ + H₂SO₄ → Na₂SO₄ + 2H₂O + 2CO₂
+- Ca(HCO₃)₂ + 2HCl → CaCl₂ + 2H₂O + 2CO₂
+
+**7.** **With metal hydroxides (alkalis):** salt + water. This is **neutralisation** ([[9.5|lesson 9.5]]).
+- NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)
+
+**8.** **With metal oxides:** salt + water (also neutralisation, since metal oxides are basic).
+- CaO + 2HCl → CaCl₂ + H₂O
+- CuO(s) + H₂SO₄(aq) → CuSO₄(aq) + H₂O(l) (black powder dissolves into a blue solution)
+- CaO + 2HNO₃ → Ca(NO₃)₂ + H₂O
+
+**9.1.2 The role of water.** Touch a *dry* blue litmus paper to dry crystals of oxalic acid: nothing happens. Dissolve the crystals in water and dip the paper again: it turns red. Dry acid crystals contain no free H⁺ ions; only in water do the molecules ionise and release H⁺. Pure (water-free) sulfuric acid and nitric acid are colourless liquids made of molecules, not ions, so they show almost no acidic properties and hardly conduct electricity. Add them to water and they ionise:
+
+- H₂SO₄(aq) → 2H⁺(aq) + SO₄²⁻(aq)
+- HNO₃(aq) → H⁺(aq) + NO₃⁻(aq)
+
+So **the acidic properties belong to the H⁺ ion in water**.
+
+**9.1.3 Concentrated acids.** An acid with only a little water in it is a **concentrated acid**; one with a lot of water is a **dilute acid**. (Do not mix this up with strong/weak: *strong* means it ionises completely, *concentrated* means there is little water. A dilute solution of HCl is still a strong acid.)
+- **Conc. hydrochloric acid:** a lot of hydrogen chloride gas dissolved in a little water: HCl(g) + H₂O(l) → HCl(aq). Opening the bottle releases a misty fume with a choking smell, so wear a mask and goggles before opening it.
+- **Conc. nitric acid:** made by dissolving nitrogen dioxide in water: 3NO₂ + H₂O → 2HNO₃ + NO. It also fumes. It is kept in **brown bottles**, because light decomposes nitric acid.
+- **Conc. sulfuric acid:** made from sulfur **trioxide** and water: SO₃ + H₂O → H₂SO₄. (Some English translations say "sulfur dioxide" here, but the equation needs SO₃; SO₂ with water gives the weaker sulfurous acid, H₂SO₃.)
+
+**Safety:** always wear gloves, goggles, a mask and an apron when concentrated acids are in use, and work under your teacher's supervision.
+## analogy
+Think of an acid molecule as a packed tiffin box with an H⁺ inside. On a dry shelf the box stays shut, so nothing happens. Put it in water and the lid opens: a strong acid opens every box, a weak acid opens only a few. The "acid power" of a solution depends on how many H⁺ are actually out of their boxes.
+## definition
+**Acid (এসিড)**: a compound that ionises in aqueous solution to give hydrogen ions (H⁺, protons).
+
+**Strong acid (তীব্র এসিড)**: an acid that ionises completely in water, e.g. HCl, H₂SO₄, HNO₃. **Weak acid (মৃদু এসিড)**: an acid that ionises only partly in water, e.g. CH₃COOH, H₂CO₃, citric acid.
+
+**Concentrated acid (গাঢ় এসিড)**: an acid solution containing comparatively little water. **Dilute acid (লঘু এসিড)**: an acid solution containing a large proportion of water.
+
+General reactions of dilute acids:
+- acid + active metal → salt + hydrogen
+- acid + metal carbonate or bicarbonate → salt + water + carbon dioxide
+- acid + metal oxide or hydroxide (base) → salt + water
+## why
+Why do all acids behave so similarly, even though HCl, H₂SO₄ and CH₃COOH look so different? Because in water they all produce the same particle: H⁺. It is the H⁺ that changes the colour of litmus, that takes electrons from a metal atom (releasing H₂), that breaks up carbonate ions into CO₂ and water, and that joins OH⁻ or O²⁻ of a base to form water. The other part of the acid (Cl⁻, SO₄²⁻, CH₃COO⁻) mostly just stays in solution and ends up in the salt.
+## terms
+Acid (এসিড) | Gives H⁺ ions in water; sour; turns blue litmus red
+Ionisation (আয়নিকরণ/বিয়োজন) | Breaking of a molecule into ions in water
+Strong acid (তীব্র/সবল এসিড) | Ionises completely: HCl, H₂SO₄, HNO₃
+Weak acid (মৃদু/দুর্বল এসিড) | Ionises partly: CH₃COOH, H₂CO₃, citric acid
+Concentrated (গাঢ়) | Little water in the solution
+Dilute (লঘু) | Much water in the solution
+Lime water (চুনের পানি) | Calcium hydroxide solution; turns milky with CO₂
+→ and ⇌ | Complete (one-way) and partial (two-way) ionisation
+## visual
+Pick an acid and a substance to add. Watch the test tube, compare how fast the strong and weak acids fizz, and read the balanced equation.
+## real
+Vinegar and baking soda (NaHCO₃) fizz together in many kitchens in Bangladesh when people clean a blocked sink: NaHCO₃ + CH₃COOH → CH₃COONa + H₂O + CO₂. Farmers know that limestone and marble slowly crumble where acidic water drips, and a tube-well handle or tin roof corrodes faster in polluted, acidic air. Car and IPS batteries contain dilute sulfuric acid, which is why battery shops keep water nearby to wash off spills.
+## example
+Q: Write balanced equations for the reaction of dilute hydrochloric acid with (a) zinc, (b) sodium carbonate, (c) copper(II) oxide.
+Step: (a) Zn gives Zn²⁺, which needs 2 Cl⁻, so 2HCl: Zn + 2HCl → ZnCl₂ + H₂.
+Step: (b) Na₂CO₃ has 2 Na, so 2NaCl on the right and therefore 2HCl: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂.
+> Check O in (b): 3 on the left; 1 (in H₂O) + 2 (in CO₂) = 3 on the right.
+Step: (c) CuO + 2HCl → CuCl₂ + H₂O.
+Answer: Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g); Na₂CO₃(s) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g); CuO(s) + 2HCl(aq) → CuCl₂(aq) + H₂O(l)
+## example
+Q: A student adds a few marble chips (CaCO₃) to dilute HCl and passes the gas into lime water. What does she see, first after a short time and then after a long time? Write the equations.
+Step: The gas is CO₂: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂.
+Step: Lime water turns milky: Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O.
+Step: With much more CO₂ the milkiness disappears: CaCO₃ + CO₂ + H₂O → Ca(HCO₃)₂, which is soluble.
+Answer: Bubbles in the acid; the lime water first turns milky, then becomes clear again if CO₂ is passed for a long time.
+## mistakes
+x A strong acid is the same thing as a concentrated acid.
+v Strong/weak is about how completely the acid ionises; concentrated/dilute is about how much water is present. Dilute HCl is still a strong acid.
+x Dry acid crystals turn dry blue litmus red.
+v Acidic properties need water: only in aqueous solution does the acid release H⁺ ions.
+x Carbonic acid (H₂CO₃) and carbolic acid are the same.
+v Carbonic acid is H₂CO₃ (in soft drinks). Carbolic acid is phenol, a different compound. Some translations mix up the names.
+x Lime water stays milky however much CO₂ you pass.
+v Excess CO₂ turns the insoluble CaCO₃ into soluble Ca(HCO₃)₂, so the milkiness clears.
+## remember
+- Acid → gives H⁺ in water; sour; blue litmus → red.
+- acid + metal → salt + H₂ (squeaky pop test).
+- acid + carbonate/bicarbonate → salt + H₂O + CO₂ (lime water turns milky).
+- acid + base (metal oxide/hydroxide) → salt + H₂O (neutralisation).
+- Strong acids (HCl, H₂SO₄, HNO₃) ionise completely (→); weak acids (CH₃COOH, H₂CO₃) ionise partly (⇌).
+- Water is essential: no water, no free H⁺, no acidic properties.
+- Never taste lab chemicals; wear goggles and gloves with concentrated acids.
+## think
+Dilute ethanoic acid and dilute hydrochloric acid of the same concentration are each poured onto magnesium ribbon. Which fizzes faster, and why, if both contain the same number of acid molecules?
+## quiz
+? Which gas is produced when dilute sulfuric acid reacts with magnesium?
+- Carbon dioxide
+* Hydrogen
+- Oxygen
+- Sulfur dioxide
+= Mg + H₂SO₄ → MgSO₄ + H₂. Metals with acids give hydrogen.
+? What is produced when limestone (CaCO₃) reacts with dilute nitric acid?
+- NO₂
+* CO₂
+- SO₂
+- NH₃
+= CaCO₃ + 2HNO₃ → Ca(NO₃)₂ + H₂O + CO₂.
+? Which acid is found in oranges and lemons?
+- Lactic acid
+- Tartaric acid
+- Tannic acid
+* Citric acid
+= Citrus fruits contain citric acid; tamarind has tartaric acid.
+? Which of these is a weak acid?
+- HCl
+- HNO₃
+* CH₃COOH
+- H₂SO₄
+= Ethanoic (acetic) acid ionises only partly in water.
+? Why does dry blue litmus not change colour on dry oxalic acid crystals?
+- Oxalic acid is a base
+* Without water the acid does not release H⁺ ions
+- Litmus works only with strong acids
+- The crystals are too cold
+= H⁺ ions, which change litmus, form only when the acid ionises in water.
+== bn
+## what
+যে পদার্থ পানিতে দ্রবীভূত হলে **হাইড্রোজেন আয়ন (H⁺)** বা প্রোটন দান করে, তাকে **এসিড** বলে। লঘু এসিড টক স্বাদের, নীল লিটমাসকে লাল করে এবং সক্রিয় ধাতু, কার্বনেট, বাইকার্বনেট, ধাতব অক্সাইড ও হাইড্রোক্সাইডের সাথে বিক্রিয়া করে।
+## simple
+লেবু, তেঁতুল, কাঁচা আম, ভিনেগার, টক দই: সবই টক, কারণ এগুলোতে এসিড আছে। খাবারের এসিডগুলো মৃদু ও নিরাপদ, আর অনেকগুলো আমাদের জন্য উপকারীও।
+
+- লেবু, কমলা: **সাইট্রিক এসিড**
+- তেঁতুল: **টারটারিক এসিড**
+- ভিনেগার: **ইথানয়িক এসিড** (এসিটিক এসিড, CH₃COOH)
+- দুধ, দই: **ল্যাকটিক এসিড**
+- কোমল পানীয়: **কার্বনিক এসিড** (H₂CO₃)
+- চা: **ট্যানিক এসিড**
+
+আমাদের পাকস্থলীর দেয়াল নিজেই **হাইড্রোক্লোরিক এসিড (HCl)** তৈরি করে। এটি তীব্র এসিড, খাবার ভাঙতে সাহায্য করে। কিন্তু বেশি নিঃসরণ হলে বা অনেকক্ষণ পেট খালি থাকলে এই এসিড পাকস্থলীর দেয়ালের কোষ ক্ষয় করে ব্যথা তৈরি করে; দীর্ঘদিনের এমন ক্ষতকে বলে **পেপটিক আলসার**। এজন্যই ডাক্তাররা বেলা বাদ না দিয়ে খেতে বলেন।
+
+**কোনো পদার্থ এসিড হয় কেন?** এসিড পানিতে দ্রবীভূত হলে এর অণু ভেঙে (**আয়নিত** বা **বিয়োজিত** হয়ে) H⁺ আয়ন দেয়:
+
+- HCl(aq) → H⁺(aq) + Cl⁻(aq)
+- H₂SO₄(aq) → 2H⁺(aq) + SO₄²⁻(aq)
+
+HCl আর H₂SO₄ **সম্পূর্ণ** (১০০%) বিয়োজিত হয়, তাই একমুখী তির (→) ব্যবহার করা হয়। এরা **তীব্র এসিড** (সবল এসিড)। ইথানয়িক এসিড ও কার্বনিক এসিড **আংশিক** বিয়োজিত হয়, তাই উভমুখী তির (⇌)। এরা **মৃদু এসিড** (দুর্বল এসিড):
+
+- CH₃COOH(aq) ⇌ H⁺(aq) + CH₃COO⁻(aq)
+- H₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)
+
+২৫ °C-এ গবেষণাগারের সাধারণ ইথানয়িক এসিড দ্রবণে প্রতি **১০০০টি অণুর মধ্যে মাত্র ৪টি** ভাঙে; বাকি ৯৯৬টি অবিয়োজিত থাকে। তাই সমান পরিমাণ তীব্র এসিডের চেয়ে মৃদু এসিড অনেক কম H⁺ দেয়।
+
+**৯.১.১ লঘু এসিডের ধর্ম (পরীক্ষাসহ)**
+
+**১.** **স্বাদ:** লঘু এসিড টক। *গবেষণাগারে কখনো কিছুর স্বাদ নেবে না।* বরং বাড়িতে তেঁতুল চেখে দেখো।
+
+**২.** **ক্ষয়কারী:** এসিড অনেক ধাতুর পৃষ্ঠ ক্ষয় করে; এসিডে রাখা লোহার পাত ঝাঁজরা হয়ে যায়।
+
+**৩.** **লিটমাস পরীক্ষা:** একটি টেস্টটিউবে ২–৩ mL লঘু HCl নিয়ে নীল লিটমাস কাগজ দাও। এটি **লাল** হয়ে যাবে। লঘু H₂SO₄, HNO₃, তেঁতুল-গোলা পানি বা আচারের রসেও একই ফল।
+
+**৪.** **সক্রিয় ধাতুর সাথে** (Mg, Zn, Fe…): লবণ + হাইড্রোজেন গ্যাস। টেস্টটিউবের মুখে জ্বলন্ত কাঠি ধরলে ছোট্ট **"পপ"** শব্দে নিভে যায়: এটাই হাইড্রোজেনের পরীক্ষা।
+- Mg(s) + H₂SO₄(aq) → MgSO₄(aq) + H₂(g)
+- Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)
+
+**৫.** **ধাতব কার্বনেটের সাথে:** লবণ + পানি + কার্বন ডাইঅক্সাইড, যা বুদবুদ হয়ে বের হয়।
+- CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)
+- Na₂CO₃ + H₂SO₄ → Na₂SO₄ + H₂O + CO₂
+- CaCO₃ + 2HNO₃ → Ca(NO₃)₂ + H₂O + CO₂
+- **CO₂-এর পরীক্ষা:** গ্যাসটি চুনের পানিতে (ক্যালসিয়াম হাইড্রোক্সাইডের দ্রবণ) চালনা করো। অদ্রবণীয় ক্যালসিয়াম কার্বনেট তৈরি হয় বলে চুনের পানি **ঘোলা** হয়। আরও অনেকক্ষণ CO₂ চালনা করলে দ্রবণীয় ক্যালসিয়াম বাইকার্বনেট তৈরি হয়, ফলে ঘোলা ভাব **কেটে গিয়ে** দ্রবণ আবার স্বচ্ছ হয়:
+- Ca(OH)₂(aq) + CO₂(g) → CaCO₃(s) + H₂O(l)
+- CaCO₃(s) + CO₂(g) + H₂O(l) → Ca(HCO₃)₂(aq)
+
+**৬.** **ধাতব বাইকার্বনেটের** (হাইড্রোজেন কার্বনেট) **সাথে:** এবারও লবণ + পানি + CO₂।
+- NaHCO₃ + HNO₃ → NaNO₃ + H₂O + CO₂
+- 2NaHCO₃ + H₂SO₄ → Na₂SO₄ + 2H₂O + 2CO₂
+- Ca(HCO₃)₂ + 2HCl → CaCl₂ + 2H₂O + 2CO₂
+
+**৭.** **ধাতুর হাইড্রোক্সাইডের (ক্ষারের) সাথে:** লবণ + পানি। এটি **প্রশমন** বিক্রিয়া ([[9.5|পাঠ ৯.৫]])।
+- NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)
+
+**৮.** **ধাতুর অক্সাইডের সাথে:** লবণ + পানি (এটিও প্রশমন, কারণ ধাতুর অক্সাইড ক্ষারকীয়)।
+- CaO + 2HCl → CaCl₂ + H₂O
+- CuO(s) + H₂SO₄(aq) → CuSO₄(aq) + H₂O(l) (কালো গুঁড়া দ্রবীভূত হয়ে নীল দ্রবণ)
+- CaO + 2HNO₃ → Ca(NO₃)₂ + H₂O
+
+**৯.১.২ পানির ভূমিকা।** শুকনো অক্সালিক এসিডের দানায় *শুকনো* নীল লিটমাস কাগজ ছোঁয়াও: কিছুই হবে না। দানাগুলো পানিতে গুলে কাগজ ডোবাও: লাল হয়ে যাবে। অনার্দ্র এসিডের দানায় মুক্ত H⁺ আয়ন নেই; শুধু পানিতেই অণুগুলো আয়নিত হয়ে H⁺ দেয়। পানিবিহীন বিশুদ্ধ সালফিউরিক এসিড ও নাইট্রিক এসিড বর্ণহীন তরল, এরা আয়ন নয়, অণু হিসেবে থাকে; তাই এরা প্রায় কোনো এসিডের ধর্ম দেখায় না, বিদ্যুৎও প্রায় পরিবহণ করে না। পানিতে দিলে তবেই আয়নিত হয়:
+
+- H₂SO₄(aq) → 2H⁺(aq) + SO₄²⁻(aq)
+- HNO₃(aq) → H⁺(aq) + NO₃⁻(aq)
+
+অর্থাৎ **এসিডের ধর্ম আসলে পানিতে থাকা H⁺ আয়নের ধর্ম**।
+
+**৯.১.৩ গাঢ় এসিড।** যে এসিড দ্রবণে পানি তুলনামূলক কম, তা **গাঢ় এসিড**; যাতে পানি অনেক বেশি, তা **লঘু এসিড**। (তীব্র/মৃদুর সাথে গুলিয়ে ফেলো না: *তীব্র* মানে সম্পূর্ণ আয়নিত হয়, *গাঢ়* মানে পানি কম। লঘু HCl-ও তীব্র এসিড।)
+- **গাঢ় হাইড্রোক্লোরিক এসিড:** কম পানিতে অনেক হাইড্রোজেন ক্লোরাইড গ্যাস দ্রবীভূত: HCl(g) + H₂O(l) → HCl(aq)। বোতলের মুখ খুললেই কুয়াশার মতো ধোঁয়া আর তীব্র ঝাঁঝালো গন্ধ বের হয়, তাই খোলার আগে মাস্ক ও গগলস পরে নাও।
+- **গাঢ় নাইট্রিক এসিড:** নাইট্রোজেন ডাইঅক্সাইড পানিতে দ্রবীভূত করে তৈরি: 3NO₂ + H₂O → 2HNO₃ + NO। এটিও ধোঁয়া ছাড়ে। একে **বাদামি বোতলে** রাখা হয়, কারণ আলোতে নাইট্রিক এসিড ভেঙে যায়।
+- **গাঢ় সালফিউরিক এসিড:** সালফার **ট্রাইঅক্সাইড** আর পানি থেকে তৈরি: SO₃ + H₂O → H₂SO₄। (SO₂ পানির সাথে মৃদু সালফিউরাস এসিড, H₂SO₃ দেয়।)
+
+**সতর্কতা:** গাঢ় এসিড ব্যবহারের সময় সবসময় গ্লাভস, গগলস, মাস্ক ও অ্যাপ্রোন পরবে এবং শিক্ষকের তত্ত্বাবধানে কাজ করবে।
+## analogy
+এসিডের অণুকে ভাবো একটা বন্ধ টিফিন বক্স, যার ভেতরে একটা H⁺। শুকনো তাকে বক্স বন্ধই থাকে, কিছু ঘটে না। পানিতে দিলে ঢাকনা খোলে: তীব্র এসিড সব বক্স খুলে দেয়, মৃদু এসিড খোলে মাত্র কয়েকটা। দ্রবণের "এসিড-শক্তি" নির্ভর করে কয়টা H⁺ সত্যিই বক্সের বাইরে এসেছে তার ওপর।
+## definition
+**এসিড**: যে যৌগ জলীয় দ্রবণে আয়নিত হয়ে হাইড্রোজেন আয়ন (H⁺, প্রোটন) দান করে।
+
+**তীব্র এসিড**: যে এসিড পানিতে সম্পূর্ণ আয়নিত হয়, যেমন HCl, H₂SO₄, HNO₃। **মৃদু এসিড**: যে এসিড পানিতে আংশিক আয়নিত হয়, যেমন CH₃COOH, H₂CO₃, সাইট্রিক এসিড।
+
+**গাঢ় এসিড**: যে এসিড দ্রবণে পানির পরিমাণ তুলনামূলক কম। **লঘু এসিড**: যে এসিড দ্রবণে পানির পরিমাণ অনেক বেশি।
+
+লঘু এসিডের সাধারণ বিক্রিয়া:
+- এসিড + সক্রিয় ধাতু → লবণ + হাইড্রোজেন
+- এসিড + ধাতব কার্বনেট বা বাইকার্বনেট → লবণ + পানি + কার্বন ডাইঅক্সাইড
+- এসিড + ধাতব অক্সাইড বা হাইড্রোক্সাইড (ক্ষারক) → লবণ + পানি
+## why
+HCl, H₂SO₄, CH₃COOH দেখতে এত আলাদা, তবু সব এসিড প্রায় একই রকম আচরণ করে কেন? কারণ পানিতে সবাই একই কণা তৈরি করে: H⁺। এই H⁺-ই লিটমাসের রং বদলায়, ধাতুর পরমাণু থেকে ইলেকট্রন নিয়ে H₂ বানায়, কার্বনেট আয়ন ভেঙে CO₂ ও পানি তৈরি করে, আর ক্ষারকের OH⁻ বা O²⁻-এর সাথে যুক্ত হয়ে পানি বানায়। এসিডের বাকি অংশ (Cl⁻, SO₄²⁻, CH₃COO⁻) সাধারণত দ্রবণেই থেকে যায় এবং শেষে লবণের অংশ হয়।
+## terms
+এসিড | পানিতে H⁺ দেয়; টক; নীল লিটমাসকে লাল করে
+আয়নিকরণ/বিয়োজন | পানিতে অণু ভেঙে আয়নে পরিণত হওয়া
+তীব্র/সবল এসিড | সম্পূর্ণ আয়নিত হয়: HCl, H₂SO₄, HNO₃
+মৃদু/দুর্বল এসিড | আংশিক আয়নিত হয়: CH₃COOH, H₂CO₃, সাইট্রিক এসিড
+গাঢ় | দ্রবণে পানি কম
+লঘু | দ্রবণে পানি বেশি
+চুনের পানি | ক্যালসিয়াম হাইড্রোক্সাইডের দ্রবণ; CO₂-তে ঘোলা হয়
+→ ও ⇌ | সম্পূর্ণ (একমুখী) ও আংশিক (উভমুখী) আয়নিকরণ
+## visual
+একটি এসিড আর একটি যোগ করার পদার্থ বেছে নাও। টেস্টটিউবে কী ঘটে দেখো, তীব্র আর মৃদু এসিডে বুদবুদের গতি তুলনা করো, আর সমতাকৃত সমীকরণটি পড়ো।
+## real
+বাংলাদেশের অনেক রান্নাঘরে বন্ধ সিংক পরিষ্কার করতে ভিনেগার আর বেকিং সোডা (NaHCO₃) মেশানো হয়, তখন ফেনা ওঠে: NaHCO₃ + CH₃COOH → CH₃COONa + H₂O + CO₂। যেখানে এসিডীয় পানি চুইয়ে পড়ে, সেখানে চুনাপাথর আর মার্বেল ধীরে ধীরে ক্ষয়ে যায়; দূষিত বাতাসে টিউবওয়েলের হাতল বা টিনের চাল দ্রুত ক্ষয় হয়। গাড়ি আর আইপিএসের ব্যাটারিতে লঘু সালফিউরিক এসিড থাকে, তাই ব্যাটারির দোকানে ছলকে পড়া এসিড ধোয়ার জন্য পানি রাখা হয়।
+## example
+প্রশ্ন: লঘু হাইড্রোক্লোরিক এসিডের সাথে (ক) জিংক, (খ) সোডিয়াম কার্বনেট, (গ) কপার (II) অক্সাইডের বিক্রিয়ার সমতাকৃত সমীকরণ লেখো।
+ধাপ: (ক) Zn থেকে Zn²⁺ হয়, যার জন্য ২টি Cl⁻ লাগে, তাই 2HCl: Zn + 2HCl → ZnCl₂ + H₂।
+ধাপ: (খ) Na₂CO₃-এ ২টি Na, তাই ডানে 2NaCl এবং বামে 2HCl: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂।
+> (খ)-তে O মিলিয়ে দেখো: বামে ৩টি; ডানে ১ (H₂O-তে) + ২ (CO₂-তে) = ৩টি।
+ধাপ: (গ) CuO + 2HCl → CuCl₂ + H₂O।
+উত্তর: Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g); Na₂CO₃(s) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g); CuO(s) + 2HCl(aq) → CuCl₂(aq) + H₂O(l)
+## example
+প্রশ্ন: একজন শিক্ষার্থী লঘু HCl-এ কয়েক টুকরা মার্বেল (CaCO₃) দিয়ে উৎপন্ন গ্যাস চুনের পানিতে চালনা করল। অল্প সময় পরে এবং অনেকক্ষণ পরে সে কী দেখবে? সমীকরণ লেখো।
+ধাপ: গ্যাসটি CO₂: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂।
+ধাপ: চুনের পানি ঘোলা হয়: Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O।
+ধাপ: আরও অনেক CO₂ দিলে ঘোলা ভাব কেটে যায়: CaCO₃ + CO₂ + H₂O → Ca(HCO₃)₂, যা দ্রবণীয়।
+উত্তর: এসিডে বুদবুদ ওঠে; চুনের পানি প্রথমে ঘোলা হয়, অনেকক্ষণ CO₂ চালনা করলে আবার স্বচ্ছ হয়ে যায়।
+## mistakes
+x তীব্র এসিড আর গাঢ় এসিড একই জিনিস।
+v তীব্র/মৃদু বোঝায় এসিড কতটা সম্পূর্ণ আয়নিত হয়; গাঢ়/লঘু বোঝায় পানি কতটুকু আছে। লঘু HCl-ও তীব্র এসিড।
+x শুকনো এসিডের দানা শুকনো নীল লিটমাসকে লাল করে।
+v এসিডের ধর্মের জন্য পানি লাগে: শুধু জলীয় দ্রবণেই এসিড H⁺ আয়ন দেয়।
+x কার্বনিক এসিড (H₂CO₃) আর কার্বলিক এসিড একই।
+v কার্বনিক এসিড H₂CO₃ (কোমল পানীয়তে থাকে)। কার্বলিক এসিড হলো ফেনল, সম্পূর্ণ আলাদা যৌগ।
+x যত CO₂-ই দাও, চুনের পানি ঘোলাই থাকে।
+v অতিরিক্ত CO₂ অদ্রবণীয় CaCO₃-কে দ্রবণীয় Ca(HCO₃)₂-এ পরিণত করে, তাই ঘোলা ভাব কেটে যায়।
+## remember
+- এসিড → পানিতে H⁺ দেয়; টক; নীল লিটমাস → লাল।
+- এসিড + ধাতু → লবণ + H₂ ("পপ" শব্দের পরীক্ষা)।
+- এসিড + কার্বনেট/বাইকার্বনেট → লবণ + H₂O + CO₂ (চুনের পানি ঘোলা হয়)।
+- এসিড + ক্ষারক (ধাতব অক্সাইড/হাইড্রোক্সাইড) → লবণ + H₂O (প্রশমন)।
+- তীব্র এসিড (HCl, H₂SO₄, HNO₃) সম্পূর্ণ আয়নিত (→); মৃদু এসিড (CH₃COOH, H₂CO₃) আংশিক আয়নিত (⇌)।
+- পানি অপরিহার্য: পানি নেই তো মুক্ত H⁺ নেই, এসিডের ধর্মও নেই।
+- গবেষণাগারে কখনো স্বাদ নেবে না; গাঢ় এসিডে গগলস ও গ্লাভস পরবে।
+## think
+একই ঘনমাত্রার লঘু ইথানয়িক এসিড আর লঘু হাইড্রোক্লোরিক এসিড আলাদাভাবে ম্যাগনেসিয়াম ফিতার ওপর ঢালা হলো। দুটোতেই এসিডের অণুর সংখ্যা সমান হলে কোনটিতে বেশি জোরে বুদবুদ উঠবে, এবং কেন?
+## quiz
+? লঘু সালফিউরিক এসিড ম্যাগনেসিয়ামের সাথে বিক্রিয়ায় কোন গ্যাস উৎপন্ন হয়?
+- কার্বন ডাইঅক্সাইড
+* হাইড্রোজেন
+- অক্সিজেন
+- সালফার ডাইঅক্সাইড
+= Mg + H₂SO₄ → MgSO₄ + H₂। ধাতু ও এসিডের বিক্রিয়ায় হাইড্রোজেন উৎপন্ন হয়।
+? চুনাপাথর (CaCO₃) লঘু নাইট্রিক এসিডের সাথে বিক্রিয়ায় কী উৎপন্ন করে?
+- NO₂
+* CO₂
+- SO₂
+- NH₃
+= CaCO₃ + 2HNO₃ → Ca(NO₃)₂ + H₂O + CO₂।
+? কমলা ও লেবুতে কোন এসিড থাকে?
+- ল্যাকটিক এসিড
+- টারটারিক এসিড
+- ট্যানিক এসিড
+* সাইট্রিক এসিড
+= লেবুজাতীয় ফলে সাইট্রিক এসিড থাকে; তেঁতুলে থাকে টারটারিক এসিড।
+? নিচের কোনটি মৃদু এসিড?
+- HCl
+- HNO₃
+* CH₃COOH
+- H₂SO₄
+= ইথানয়িক (এসিটিক) এসিড পানিতে আংশিক আয়নিত হয়।
+? শুকনো অক্সালিক এসিডের দানায় শুকনো নীল লিটমাসের রং বদলায় না কেন?
+- অক্সালিক এসিড একটি ক্ষারক
+* পানি ছাড়া এসিড H⁺ আয়ন দেয় না
+- লিটমাস শুধু তীব্র এসিডে কাজ করে
+- দানাগুলো খুব ঠান্ডা
+= লিটমাসের রং বদলায় H⁺ আয়ন, যা শুধু পানিতে এসিড আয়নিত হলেই তৈরি হয়।
+
+@@ 9.2
+@visual k9ppt
+@related 9.1 9.5 9.3 9.4
+== en
+## what
+A **base** is a metal oxide or hydroxide (or that of a metal-like radical such as NH₄⁺) that reacts with an acid to give salt and water. An **alkali** is a base that dissolves in water; in solution it gives **hydroxide ions (OH⁻)**. All alkalis are bases, but not all bases are alkalis.
+## simple
+**Bases: the opposite partners of acids.** Whatever an acid is, a base "cancels" it. Metal oxides and metal hydroxides react with acids to give a salt and water:
+
+- CaO + 2HCl → CaCl₂ + H₂O
+- 2KOH + H₂SO₄ → K₂SO₄ + 2H₂O
+- NH₄OH + HCl → NH₄Cl + H₂O
+
+Other bases: sodium oxide (Na₂O), copper(II) oxide (CuO), iron(II) oxide (FeO), sodium hydroxide (NaOH), calcium hydroxide [Ca(OH)₂], iron(II) hydroxide [Fe(OH)₂] and ammonium hydroxide (NH₄OH, i.e. ammonia solution).
+
+Why is the ammonium ion (NH₄⁺) counted with metals? Because it behaves like a metal ion: just as Na⁺ joins Cl⁻ to form NaCl, NH₄⁺ joins Cl⁻ to form NH₄Cl, or SO₄²⁻ to form (NH₄)₂SO₄. The phosphonium ion (PH₄⁺) is similar. Such groups are called **metal-like radicals**.
+
+**Alkali: a base that dissolves in water.** A compound is an alkali only if **both** are true:
+1. it contains the hydroxide (OH) group, and
+2. it dissolves in water.
+
+- NaOH: has OH, dissolves in water → **alkali** (and a base).
+- Fe(OH)₂: has OH but does **not** dissolve → a base, **not** an alkali.
+- CaO: dissolves (reacting with water) but has **no** OH group itself → a base, not an alkali.
+
+So **every alkali is a base, but not every base is an alkali**. Common alkalis: NaOH, KOH, Ca(OH)₂ (lime water), NH₄OH.
+
+**At home:** toilet and drain cleaners often contain sodium hydroxide; glass cleaners contain ammonia solution (NH₄OH); soap solution is mildly alkaline.
+
+**9.2.1 Properties of dilute alkalis.** A dilute alkali has a little alkali in a lot of water.
+- **Litmus:** dip red litmus paper in dilute NaOH: it turns **blue**. Blue litmus stays blue. So an alkali turns only red litmus blue.
+- **Feel:** alkali solutions feel **slippery** (soapy). But do not touch them on purpose: alkalis damage the skin and are especially dangerous to the eyes.
+- **Taste:** bitter (never test this in the lab).
+
+**9.2.2 Dilute alkali with metal salts.** Add a few drops of dilute NaOH to a solution of a metal salt: the insoluble metal hydroxide separates out as a coloured **precipitate** (↓), while sodium nitrate stays dissolved and colourless. Chlorides and sulfates of these metals give the same hydroxides.
+
+- Al(NO₃)₃ + 3NaOH → Al(OH)₃↓ + 3NaNO₃ (**white** precipitate)
+- Fe(NO₃)₂ + 2NaOH → Fe(OH)₂↓ + 2NaNO₃ (**dirty green** precipitate)
+- Fe(NO₃)₃ + 3NaOH → Fe(OH)₃↓ + 3NaNO₃ (**reddish-brown** precipitate)
+- Cu(NO₃)₂ + 2NaOH → Cu(OH)₂↓ + 2NaNO₃ (**light blue** precipitate)
+- Zn(NO₃)₂ + 2NaOH → Zn(OH)₂↓ + 2NaNO₃ (**white** precipitate)
+
+The colour tells you which metal ion was present, so this is a simple way to identify metal ions. (Extra: the white Al(OH)₃ and Zn(OH)₂ dissolve again if a lot of excess NaOH is added; the others do not.)
+
+**Alkali with ammonium salts.** Warm an ammonium salt with an alkali and **ammonia gas** comes off. It has a sharp smell and turns moist red litmus blue. This is the test for an ammonium salt:
+
+- NH₄Cl + NaOH → NH₃↑ + NaCl + H₂O
+- NH₄Cl + KOH → NH₃↑ + KCl + H₂O
+- 2NH₄Cl + Ca(OH)₂ → 2NH₃↑ + CaCl₂ + 2H₂O
+- 2NH₄Cl + CaO → 2NH₃↑ + CaCl₂ + H₂O
+
+**9.2.3 The role of water.** Solid NaOH and KOH are made of ions, but in the solid the ions are locked in place. When they dissolve, the ions become free, and the solution contains mobile **hydroxide ions**:
+
+- NaOH(s) + water → Na⁺(aq) + OH⁻(aq)
+- KOH(s) + water → K⁺(aq) + OH⁻(aq)
+
+These are **strong alkalis**: they separate into ions completely. Ammonia is different. It dissolves in water, but only a small fraction of the molecules react to form ions:
+
+NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq)
+
+So ammonia solution contains mostly NH₃ and water molecules, with only a few NH₄⁺ and OH⁻ ions. It is a **weak alkali**. The alkaline properties come from the **OH⁻ ions**: the more free OH⁻, the stronger the alkali.
+## analogy
+"Base" is like the word "vehicle", and "alkali" is like "boat". Every boat is a vehicle, but a bus or a rickshaw is a vehicle that is not a boat. In the same way every alkali is a base, but CuO or Fe(OH)₂ is a base that cannot "float" in water as a solution, so it is not an alkali.
+## definition
+**Base (ক্ষারক)**: an oxide or hydroxide of a metal or of a metal-like radical (such as NH₄⁺) that reacts with an acid to form salt and water.
+
+**Alkali (ক্ষার)**: a base that contains the hydroxide (OH) group and dissolves in water, giving OH⁻ ions in solution, e.g. NaOH, KOH, Ca(OH)₂, NH₄OH.
+
+**Strong alkali**: ionises completely in water (NaOH, KOH). **Weak alkali**: ionises only partly (NH₄OH / ammonia solution).
+
+**Precipitate (অধঃক্ষেপ)**: an insoluble solid that forms in a solution during a reaction (shown by ↓).
+## why
+Why do alkalis turn red litmus blue and feel slippery? Both come from OH⁻ ions. OH⁻ removes H⁺ from the litmus dye, changing its structure and hence its colour. On skin, OH⁻ reacts with the natural oils and fats, turning them into a kind of soap: that is the slippery feel, and it is also why alkalis burn the skin. Metal hydroxides precipitate from salt solutions because OH⁻ joins metal ions such as Cu²⁺ or Fe³⁺ to form compounds that do not dissolve.
+## terms
+Base (ক্ষারক) | Metal oxide/hydroxide that neutralises an acid, giving salt + water
+Alkali (ক্ষার) | Water-soluble base containing OH; gives OH⁻ in solution
+Hydroxide ion (হাইড্রোক্সাইড আয়ন) | OH⁻; responsible for alkaline properties
+Metal-like radical (ধাতুর মতো ক্রিয়াশীল যৌগমূলক) | NH₄⁺, PH₄⁺: behave like metal ions
+Precipitate (অধঃক্ষেপ) | Insoluble solid formed in a solution (↓)
+Strong alkali (তীব্র ক্ষার) | NaOH, KOH: fully ionised
+Weak alkali (মৃদু ক্ষার) | NH₄OH: partly ionised
+## visual
+Choose a salt solution and add dilute NaOH drop by drop. Watch the colour of the precipitate, or the ammonia given off by the ammonium salt.
+## real
+Chunar pani (lime water, Ca(OH)₂) is what makes paan-er chun; it is an alkali, which is why too much of it burns the mouth. Toilet cleaners with sodium hydroxide carry a warning label: keep them away from children, never mix them with acidic cleaners, and wash splashes off at once. Fertiliser factories in Bangladesh handle ammonia every day; its strong smell is an early warning of a leak.
+## example
+Q: Which of these are alkalis: NaOH, CuO, Fe(OH)₃, KOH, CaO? Give reasons.
+Step: An alkali must contain OH and dissolve in water.
+Step: NaOH and KOH have OH and dissolve: alkalis. Fe(OH)₃ has OH but is insoluble: base only. CuO and CaO have no OH group: bases only.
+Answer: NaOH and KOH are alkalis; CuO, Fe(OH)₃ and CaO are bases but not alkalis.
+## example
+Q: A few drops of dilute NaOH are added to three test tubes containing CuSO₄, FeCl₃ and ZnSO₄ solutions. Predict the colour of each precipitate and write balanced equations.
+Step: CuSO₄ + 2NaOH → Cu(OH)₂↓ + Na₂SO₄: light blue.
+Step: FeCl₃ + 3NaOH → Fe(OH)₃↓ + 3NaCl: reddish-brown.
+Step: ZnSO₄ + 2NaOH → Zn(OH)₂↓ + Na₂SO₄: white.
+> Chlorides and sulfates give the same hydroxides as nitrates; only the dissolved sodium salt changes.
+Answer: light blue (Cu), reddish-brown (Fe³⁺), white (Zn).
+## mistakes
+x Every base is an alkali.
+v Only bases that contain OH and dissolve in water are alkalis. CuO and Fe(OH)₂ are bases but not alkalis.
+x Alkalis turn blue litmus red.
+v Alkalis turn red litmus blue; acids turn blue litmus red.
+x Ammonia solution is a strong alkali because it smells strong.
+v Smell has nothing to do with it: ammonia ionises only slightly, so it is a weak alkali.
+## remember
+- Base + acid → salt + water.
+- Alkali = base with OH that dissolves in water; gives OH⁻.
+- All alkalis are bases; not all bases are alkalis.
+- Alkali: red litmus → blue; slippery; harmful to skin and eyes.
+- NaOH + metal salt → coloured hydroxide precipitate: Al, Zn white; Fe²⁺ green; Fe³⁺ reddish-brown; Cu light blue.
+- Ammonium salt + alkali (warm) → NH₃ gas (turns moist red litmus blue).
+- NaOH, KOH strong alkalis; NH₄OH weak alkali.
+## think
+Why can you not make a solution of iron(III) hydroxide to test with litmus, even though it is a base?
+## quiz
+? Which of the following is a base but not an alkali?
+- NaOH
+- KOH
+* Fe(OH)₂
+- Ca(OH)₂
+= Fe(OH)₂ does not dissolve in water, so it is a base but not an alkali.
+? Dilute NaOH is added to copper nitrate solution. The precipitate is:
+- White
+- Green
+- Reddish-brown
+* Light blue
+= Cu(NO₃)₂ + 2NaOH → Cu(OH)₂↓ + 2NaNO₃; Cu(OH)₂ is light blue.
+? Which gas is given off when ammonium chloride is warmed with sodium hydroxide?
+- Hydrogen
+- Chlorine
+* Ammonia
+- Carbon dioxide
+= NH₄Cl + NaOH → NH₃ + NaCl + H₂O.
+? Ammonia solution is a weak alkali because:
+- It has no OH group
+* Only a few of its molecules form OH⁻ ions in water
+- It does not dissolve in water
+- It turns red litmus blue
+= NH₃ + H₂O ⇌ NH₄⁺ + OH⁻ lies mostly on the left, so there are few OH⁻ ions.
+== bn
+## what
+ধাতু বা ধাতুর মতো ক্রিয়াশীল যৌগমূলকের (যেমন NH₄⁺) যে অক্সাইড বা হাইড্রোক্সাইড এসিডের সাথে বিক্রিয়া করে লবণ ও পানি দেয়, তাকে **ক্ষারক** বলে। যে ক্ষারক পানিতে দ্রবীভূত হয় এবং দ্রবণে **হাইড্রোক্সাইড আয়ন (OH⁻)** দেয়, তাকে **ক্ষার** বলে। সব ক্ষারই ক্ষারক, কিন্তু সব ক্ষারক ক্ষার নয়।
+## simple
+**ক্ষারক: এসিডের বিপরীত সঙ্গী।** এসিড যা-ই হোক, ক্ষারক তাকে "নিষ্ক্রিয়" করে। ধাতুর অক্সাইড ও হাইড্রোক্সাইড এসিডের সাথে বিক্রিয়া করে লবণ ও পানি দেয়:
+
+- CaO + 2HCl → CaCl₂ + H₂O
+- 2KOH + H₂SO₄ → K₂SO₄ + 2H₂O
+- NH₄OH + HCl → NH₄Cl + H₂O
+
+আরও ক্ষারক: সোডিয়াম অক্সাইড (Na₂O), কপার (II) অক্সাইড (CuO), ফেরাস অক্সাইড (FeO), সোডিয়াম হাইড্রোক্সাইড (NaOH), ক্যালসিয়াম হাইড্রোক্সাইড [Ca(OH)₂], ফেরাস হাইড্রোক্সাইড [Fe(OH)₂] আর অ্যামোনিয়াম হাইড্রোক্সাইড (NH₄OH, অর্থাৎ অ্যামোনিয়া দ্রবণ)।
+
+অ্যামোনিয়াম আয়নকে (NH₄⁺) ধাতুর দলে ধরা হয় কেন? কারণ এটি ধাতব আয়নের মতো আচরণ করে: Na⁺ যেমন Cl⁻-এর সাথে যুক্ত হয়ে NaCl হয়, NH₄⁺ তেমনি Cl⁻-এর সাথে NH₄Cl, বা SO₄²⁻-এর সাথে (NH₄)₂SO₄ তৈরি করে। ফসফোনিয়াম আয়নও (PH₄⁺) এমন। এদের বলে **ধাতুর মতো ক্রিয়াশীল যৌগমূলক**।
+
+**ক্ষার: যে ক্ষারক পানিতে দ্রবীভূত হয়।** কোনো যৌগ ক্ষার হতে হলে **দুটি** শর্তই মানতে হবে:
+১. এতে হাইড্রোক্সাইড (OH) মূলক থাকতে হবে, এবং
+২. এটি পানিতে দ্রবীভূত হতে হবে।
+
+- NaOH: OH আছে, পানিতে দ্রবীভূত হয় → **ক্ষার** (এবং ক্ষারকও)।
+- Fe(OH)₂: OH আছে কিন্তু দ্রবীভূত **হয় না** → ক্ষারক, ক্ষার **নয়**।
+- CaO: পানির সাথে বিক্রিয়া করে মেশে, কিন্তু নিজে কোনো OH মূলক **নেই** → ক্ষারক, ক্ষার নয়।
+
+তাই **সব ক্ষারই ক্ষারক, কিন্তু সব ক্ষারক ক্ষার নয়**। পরিচিত ক্ষার: NaOH, KOH, Ca(OH)₂ (চুনের পানি), NH₄OH।
+
+**বাসাবাড়িতে:** টয়লেট ও ড্রেন ক্লিনারে প্রায়ই সোডিয়াম হাইড্রোক্সাইড থাকে; গ্লাস ক্লিনারে থাকে অ্যামোনিয়া দ্রবণ (NH₄OH); সাবানের দ্রবণ মৃদু ক্ষারীয়।
+
+**৯.২.১ লঘু ক্ষারের ধর্ম।** বেশি পানিতে অল্প ক্ষার মিশিয়ে লঘু ক্ষার দ্রবণ তৈরি হয়।
+- **লিটমাস:** লঘু NaOH-এ লাল লিটমাস কাগজ ডোবাও: **নীল** হয়ে যাবে। নীল লিটমাস নীলই থাকে। অর্থাৎ ক্ষার শুধু লাল লিটমাসকে নীল করে।
+- **অনুভূতি:** ক্ষারের দ্রবণ **পিচ্ছিল** (সাবানের মতো) লাগে। কিন্তু ইচ্ছে করে ছোঁবে না: ক্ষার ত্বকের ক্ষতি করে, আর চোখের জন্য বিশেষ বিপজ্জনক।
+- **স্বাদ:** তেতো (গবেষণাগারে কখনো পরীক্ষা করবে না)।
+
+**৯.২.২ ধাতব লবণের সাথে লঘু ক্ষারের বিক্রিয়া।** ধাতব লবণের দ্রবণে কয়েক ফোঁটা লঘু NaOH দিলে অদ্রবণীয় ধাতব হাইড্রোক্সাইড রঙিন **অধঃক্ষেপ** (↓) হিসেবে আলাদা হয়ে যায়, আর সোডিয়াম নাইট্রেট বর্ণহীন অবস্থায় দ্রবীভূত থাকে। এসব ধাতুর ক্লোরাইড বা সালফেট দিলেও একই হাইড্রোক্সাইড পাওয়া যায়।
+
+- Al(NO₃)₃ + 3NaOH → Al(OH)₃↓ + 3NaNO₃ (**সাদা** অধঃক্ষেপ)
+- Fe(NO₃)₂ + 2NaOH → Fe(OH)₂↓ + 2NaNO₃ (**ময়লা সবুজ** অধঃক্ষেপ)
+- Fe(NO₃)₃ + 3NaOH → Fe(OH)₃↓ + 3NaNO₃ (**লালচে বাদামি** অধঃক্ষেপ)
+- Cu(NO₃)₂ + 2NaOH → Cu(OH)₂↓ + 2NaNO₃ (**হালকা নীল** অধঃক্ষেপ)
+- Zn(NO₃)₂ + 2NaOH → Zn(OH)₂↓ + 2NaNO₃ (**সাদা** অধঃক্ষেপ)
+
+অধঃক্ষেপের রং দেখে বোঝা যায় কোন ধাতব আয়ন ছিল, তাই এটি ধাতব আয়ন শনাক্তের একটি সহজ উপায়। (বাড়তি তথ্য: অনেক বেশি NaOH দিলে সাদা Al(OH)₃ আর Zn(OH)₂ আবার দ্রবীভূত হয়ে যায়; বাকিগুলো হয় না।)
+
+**অ্যামোনিয়াম লবণের সাথে ক্ষার।** অ্যামোনিয়াম লবণকে ক্ষারের সাথে গরম করলে **অ্যামোনিয়া গ্যাস** বের হয়। এর ঝাঁঝালো গন্ধ, আর এটি ভেজা লাল লিটমাসকে নীল করে। এটাই অ্যামোনিয়াম লবণের পরীক্ষা:
+
+- NH₄Cl + NaOH → NH₃↑ + NaCl + H₂O
+- NH₄Cl + KOH → NH₃↑ + KCl + H₂O
+- 2NH₄Cl + Ca(OH)₂ → 2NH₃↑ + CaCl₂ + 2H₂O
+- 2NH₄Cl + CaO → 2NH₃↑ + CaCl₂ + H₂O
+
+**৯.২.৩ পানির ভূমিকা।** কঠিন NaOH আর KOH আয়ন দিয়েই তৈরি, কিন্তু কঠিন অবস্থায় আয়নগুলো জায়গায় আটকে থাকে। দ্রবীভূত হলে আয়নগুলো মুক্ত হয়, আর দ্রবণে চলমান **হাইড্রোক্সাইড আয়ন** পাওয়া যায়:
+
+- NaOH(s) + পানি → Na⁺(aq) + OH⁻(aq)
+- KOH(s) + পানি → K⁺(aq) + OH⁻(aq)
+
+এরা **তীব্র ক্ষার**: সম্পূর্ণ আয়নে বিভক্ত হয়। অ্যামোনিয়া আলাদা। এটি পানিতে দ্রবীভূত হয়, কিন্তু অণুগুলোর খুব সামান্য অংশ বিক্রিয়া করে আয়ন তৈরি করে:
+
+NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq)
+
+তাই অ্যামোনিয়া দ্রবণে প্রধানত NH₃ ও পানির অণু, আর অল্প কিছু NH₄⁺ ও OH⁻ আয়ন থাকে। এটি **মৃদু ক্ষার**। ক্ষারের ধর্ম আসে **OH⁻ আয়ন** থেকে: মুক্ত OH⁻ যত বেশি, ক্ষার তত তীব্র।
+## analogy
+"ক্ষারক" শব্দটা "যানবাহন"-এর মতো, আর "ক্ষার" হলো "নৌকা"। প্রতিটি নৌকাই যানবাহন, কিন্তু বাস বা রিকশা যানবাহন হলেও নৌকা নয়। তেমনি প্রতিটি ক্ষারই ক্ষারক, কিন্তু CuO বা Fe(OH)₂ ক্ষারক হলেও পানিতে দ্রবণ হয়ে "ভাসতে" পারে না, তাই এরা ক্ষার নয়।
+## definition
+**ক্ষারক**: ধাতু বা ধাতুর মতো ক্রিয়াশীল যৌগমূলকের (যেমন NH₄⁺) অক্সাইড বা হাইড্রোক্সাইড, যা এসিডের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে।
+
+**ক্ষার**: যে ক্ষারকে হাইড্রোক্সাইড (OH) মূলক আছে এবং যা পানিতে দ্রবীভূত হয়ে OH⁻ আয়ন দেয়, যেমন NaOH, KOH, Ca(OH)₂, NH₄OH।
+
+**তীব্র ক্ষার**: পানিতে সম্পূর্ণ আয়নিত হয় (NaOH, KOH)। **মৃদু ক্ষার**: আংশিক আয়নিত হয় (NH₄OH বা অ্যামোনিয়া দ্রবণ)।
+
+**অধঃক্ষেপ**: বিক্রিয়ার সময় দ্রবণে তৈরি হওয়া অদ্রবণীয় কঠিন পদার্থ (↓ চিহ্ন দিয়ে দেখানো হয়)।
+## why
+ক্ষার লাল লিটমাসকে নীল করে আর পিচ্ছিল লাগে কেন? দুটোর মূলেই OH⁻ আয়ন। OH⁻ লিটমাস রঞ্জক থেকে H⁺ সরিয়ে নেয়, ফলে রঞ্জকের গঠন ও রং বদলে যায়। ত্বকে OH⁻ প্রাকৃতিক তেল-চর্বির সাথে বিক্রিয়া করে এক রকম সাবান বানায়: সেটাই পিচ্ছিল ভাব, আর এ কারণেই ক্ষার ত্বক পুড়িয়ে দেয়। লবণের দ্রবণ থেকে ধাতব হাইড্রোক্সাইড অধঃক্ষিপ্ত হয়, কারণ OH⁻ আয়ন Cu²⁺ বা Fe³⁺-এর মতো ধাতব আয়নের সাথে যুক্ত হয়ে এমন যৌগ বানায় যা পানিতে দ্রবীভূত হয় না।
+## terms
+ক্ষারক | এসিডকে প্রশমিত করে লবণ + পানি দেয় এমন ধাতব অক্সাইড/হাইড্রোক্সাইড
+ক্ষার | OH যুক্ত, পানিতে দ্রবণীয় ক্ষারক; দ্রবণে OH⁻ দেয়
+হাইড্রোক্সাইড আয়ন | OH⁻; ক্ষারীয় ধর্মের জন্য দায়ী
+ধাতুর মতো ক্রিয়াশীল যৌগমূলক | NH₄⁺, PH₄⁺: ধাতব আয়নের মতো আচরণ করে
+অধঃক্ষেপ | দ্রবণে তৈরি অদ্রবণীয় কঠিন (↓)
+তীব্র ক্ষার | NaOH, KOH: সম্পূর্ণ আয়নিত
+মৃদু ক্ষার | NH₄OH: আংশিক আয়নিত
+## visual
+একটি লবণের দ্রবণ বেছে নিয়ে ফোঁটায় ফোঁটায় লঘু NaOH যোগ করো। অধঃক্ষেপের রং দেখো, অথবা অ্যামোনিয়াম লবণ থেকে বের হওয়া অ্যামোনিয়া লক্ষ করো।
+## real
+পানের চুন আসলে চুনের পানি বা Ca(OH)₂, একটি ক্ষার; তাই বেশি চুন খেলে মুখ পুড়ে যায়। সোডিয়াম হাইড্রোক্সাইডযুক্ত টয়লেট ক্লিনারের গায়ে সতর্কবার্তা থাকে: শিশুদের নাগালের বাইরে রাখো, কখনো এসিডীয় ক্লিনারের সাথে মেশাবে না, ছিটকে পড়লে সাথে সাথে ধুয়ে ফেলো। বাংলাদেশের সার কারখানাগুলোতে প্রতিদিন অ্যামোনিয়া নিয়ে কাজ হয়; এর তীব্র গন্ধ লিকের আগাম সংকেত দেয়।
+## example
+প্রশ্ন: NaOH, CuO, Fe(OH)₃, KOH, CaO: এদের কোনগুলো ক্ষার? কারণ দেখাও।
+ধাপ: ক্ষার হতে হলে OH থাকতে হবে এবং পানিতে দ্রবীভূত হতে হবে।
+ধাপ: NaOH ও KOH-এ OH আছে, দ্রবীভূতও হয়: ক্ষার। Fe(OH)₃-এ OH আছে কিন্তু অদ্রবণীয়: শুধু ক্ষারক। CuO ও CaO-তে OH মূলক নেই: শুধু ক্ষারক।
+উত্তর: NaOH ও KOH ক্ষার; CuO, Fe(OH)₃ ও CaO ক্ষারক, কিন্তু ক্ষার নয়।
+## example
+প্রশ্ন: CuSO₄, FeCl₃ ও ZnSO₄ দ্রবণভর্তি তিনটি টেস্টটিউবে কয়েক ফোঁটা লঘু NaOH দেওয়া হলো। প্রতিটি অধঃক্ষেপের রং বলো এবং সমতাকৃত সমীকরণ লেখো।
+ধাপ: CuSO₄ + 2NaOH → Cu(OH)₂↓ + Na₂SO₄: হালকা নীল।
+ধাপ: FeCl₃ + 3NaOH → Fe(OH)₃↓ + 3NaCl: লালচে বাদামি।
+ধাপ: ZnSO₄ + 2NaOH → Zn(OH)₂↓ + Na₂SO₄: সাদা।
+> ক্লোরাইড আর সালফেটও নাইট্রেটের মতো একই হাইড্রোক্সাইড দেয়; শুধু দ্রবীভূত সোডিয়াম লবণটা বদলায়।
+উত্তর: হালকা নীল (Cu), লালচে বাদামি (Fe³⁺), সাদা (Zn)।
+## mistakes
+x সব ক্ষারকই ক্ষার।
+v শুধু যেসব ক্ষারকে OH আছে এবং যা পানিতে দ্রবীভূত হয়, সেগুলোই ক্ষার। CuO আর Fe(OH)₂ ক্ষারক, কিন্তু ক্ষার নয়।
+x ক্ষার নীল লিটমাসকে লাল করে।
+v ক্ষার লাল লিটমাসকে নীল করে; এসিড নীল লিটমাসকে লাল করে।
+x অ্যামোনিয়ার গন্ধ তীব্র, তাই অ্যামোনিয়া দ্রবণ তীব্র ক্ষার।
+v গন্ধের সাথে এর সম্পর্ক নেই: অ্যামোনিয়া খুব সামান্য আয়নিত হয়, তাই এটি মৃদু ক্ষার।
+## remember
+- ক্ষারক + এসিড → লবণ + পানি।
+- ক্ষার = OH যুক্ত, পানিতে দ্রবণীয় ক্ষারক; OH⁻ দেয়।
+- সব ক্ষার ক্ষারক; সব ক্ষারক ক্ষার নয়।
+- ক্ষার: লাল লিটমাস → নীল; পিচ্ছিল; ত্বক ও চোখের জন্য ক্ষতিকর।
+- NaOH + ধাতব লবণ → রঙিন হাইড্রোক্সাইড অধঃক্ষেপ: Al, Zn সাদা; Fe²⁺ সবুজ; Fe³⁺ লালচে বাদামি; Cu হালকা নীল।
+- অ্যামোনিয়াম লবণ + ক্ষার (তাপে) → NH₃ গ্যাস (ভেজা লাল লিটমাসকে নীল করে)।
+- NaOH, KOH তীব্র ক্ষার; NH₄OH মৃদু ক্ষার।
+## think
+আয়রন (III) হাইড্রোক্সাইড ক্ষারক হলেও লিটমাস দিয়ে পরীক্ষার জন্য এর দ্রবণ বানানো যায় না কেন?
+## quiz
+? নিচের কোনটি ক্ষারক কিন্তু ক্ষার নয়?
+- NaOH
+- KOH
+* Fe(OH)₂
+- Ca(OH)₂
+= Fe(OH)₂ পানিতে দ্রবীভূত হয় না, তাই এটি ক্ষারক কিন্তু ক্ষার নয়।
+? কপার নাইট্রেট দ্রবণে লঘু NaOH দিলে অধঃক্ষেপের রং:
+- সাদা
+- সবুজ
+- লালচে বাদামি
+* হালকা নীল
+= Cu(NO₃)₂ + 2NaOH → Cu(OH)₂↓ + 2NaNO₃; Cu(OH)₂ হালকা নীল।
+? অ্যামোনিয়াম ক্লোরাইডকে সোডিয়াম হাইড্রোক্সাইডের সাথে গরম করলে কোন গ্যাস বের হয়?
+- হাইড্রোজেন
+- ক্লোরিন
+* অ্যামোনিয়া
+- কার্বন ডাইঅক্সাইড
+= NH₄Cl + NaOH → NH₃ + NaCl + H₂O।
+? অ্যামোনিয়া দ্রবণ মৃদু ক্ষার, কারণ:
+- এতে OH মূলক নেই
+* পানিতে এর অল্প কিছু অণুই OH⁻ আয়ন তৈরি করে
+- এটি পানিতে দ্রবীভূত হয় না
+- এটি লাল লিটমাসকে নীল করে
+= NH₃ + H₂O ⇌ NH₄⁺ + OH⁻ বিক্রিয়া বেশির ভাগ বাম দিকে থাকে, তাই OH⁻ আয়ন কম।
+
+@@ 9.3
+@visual k9ionise
+@related 9.1 9.2 9.4 1.5
+== en
+## what
+**Concentrated** acids and alkalis are **corrosive**: they destroy skin, eyes, clothes, wood and many metals on contact. Handling them safely, and always diluting them the right way, is one of the first rules of a chemistry lab.
+## simple
+A drop of dilute acid on your hand stings a little. A drop of **concentrated** sulfuric acid or concentrated sodium hydroxide can burn a hole in your skin, blind an eye, or eat through a cotton shirt. The difference is simply how many reactive particles are packed into the drop.
+
+**What they do:**
+- **Concentrated acids** (HCl, H₂SO₄, HNO₃) attack skin and flesh, char paper, wood and cloth (conc. H₂SO₄ pulls water out of them), and corrode metals.
+- **Concentrated alkalis** (NaOH, KOH) turn the fats in skin into soap, so the burn feels slippery at first and can go deep before it hurts. Alkali in the eye is especially dangerous.
+- The fumes of conc. HCl and conc. HNO₃ damage the nose, throat and lungs.
+
+**Safety rules in the lab**
+- Wear **goggles**, **gloves**, an **apron** (lab coat) and, for fuming acids, a **mask**; work in a well-ventilated place.
+- Always add **acid to water**, slowly, with stirring, **never water to acid**. Dissolving concentrated acid (especially H₂SO₄) or solid NaOH releases a lot of heat. If you pour water into concentrated acid, the first bit of water boils instantly and can splash hot acid out.
+- Never smell a bottle directly; waft the air towards your nose with your hand.
+- Carry bottles with both hands; keep stoppers on; label everything.
+- **If acid or alkali touches you:** wash the spot at once with plenty of running water for several minutes, again and again, then tell your teacher. For eyes, keep rinsing with clean water and get medical help.
+
+**Acid violence.** Throwing acid on a person is a terrible crime that disfigures and blinds victims. Bangladesh has strict laws controlling the sale of acid and punishing acid attacks. If you ever witness an attack, the most important first aid is to pour large amounts of clean water over the burned area immediately and keep doing it while help is called.
+
+**Experiment: strong or weak? (conductivity)** Pour 50 mL of dilute hydrochloric acid into a beaker and dip two graphite rods in it, not touching each other. Connect them through a torch bulb to a battery: the bulb glows brightly. Repeat with ethanoic acid of the same concentration: the bulb glows only dimly. The strong acid gives many more ions (H⁺ and Cl⁻) to carry the current; the weak acid gives few.
+- Weak acid → few H⁺ ions → dim bulb
+- Strong acid → many H⁺ ions → bright bulb
+
+Do the same with NaOH (strong alkali: bright) and ammonia solution, NH₄OH (weak alkali: dim). Pure water or sugar solution gives almost no glow because it has almost no ions.
+## analogy
+Diluting concentrated acid is like entering a crowded bus. If the new passengers (acid) get on slowly and spread out among many seats (water), there is no trouble. If a whole crowd of water is pushed into a tiny space of acid at once, everything heats up and bursts out of the door: the splash.
+## definition
+**Corrosive substance (ক্ষয়কারী পদার্থ)**: a substance that destroys or seriously damages living tissue and materials such as metal, cloth or wood on contact. Concentrated acids and concentrated alkalis are corrosive.
+
+**Dilution rule**: to dilute a concentrated acid, add the acid slowly to water with constant stirring, never water to the acid.
+
+**Conductivity test**: a solution that contains more free ions conducts electricity better; a strong acid or alkali lights a bulb more brightly than a weak one of equal concentration.
+## why
+Why is concentrated acid so much more dangerous than dilute acid, if both contain the same kind of particles? Because the rate of damage depends on how many reactive particles hit the surface each second. A concentrated solution delivers a huge number of H⁺ (or OH⁻) ions per drop, so tissue is destroyed faster than the body can repair it. Concentrated sulfuric acid adds a second danger: it strongly absorbs water, pulling it out of skin and cloth and releasing heat. Diluting with plenty of water both spreads the ions out and carries the heat away, which is why washing with lots of water is always the first aid.
+## terms
+Corrosive (ক্ষয়কারী) | Destroys skin, eyes and materials on contact
+Concentrated (গাঢ়) | Little water, many reactive particles per drop
+Acid to water | The safe way to dilute; never the reverse
+Goggles (গগলস) | Safety glasses that protect the eyes
+Conductivity (পরিবাহিতা) | How well a solution carries current; depends on free ions
+Graphite rod (গ্রাফাইট দণ্ড) | Electrode dipped in the solution in the bulb test
+## visual
+Choose a solution. Watch the particles in the beaker: strong acids and alkalis break up completely, weak ones only a little. The bulb glows as brightly as the number of ions allows.
+## real
+Battery-repair shops in Dhaka and Chattogram top up batteries with dilute sulfuric acid; workers who skip gloves often have small burns on their hands. Hospitals in Bangladesh treat acid burns by flushing with water for a long time. Because of the Acid Control Act (2002), shops need a licence to sell acid, and acid attacks have fallen sharply since then.
+## example
+Q: A student needs dilute sulfuric acid and has concentrated H₂SO₄ and water. Which should he pour into which, and why?
+Step: Dissolving conc. H₂SO₄ in water releases a large amount of heat.
+Step: If water is poured into the acid, the small amount of water boils instantly and spurts hot acid out.
+Step: If acid is poured slowly into a large amount of water with stirring, the heat is spread through much water and nothing boils.
+Answer: Pour the acid slowly into the water, stirring all the time, wearing goggles and gloves.
+## example
+Q: In the bulb test, 0.1 M HCl makes the bulb glow brightly, but 0.1 M CH₃COOH makes it glow dimly. Explain.
+Step: HCl → H⁺ + Cl⁻ completely: every molecule gives two ions.
+Step: CH₃COOH ⇌ H⁺ + CH₃COO⁻ only partly: only about 1 in 100 molecules at this concentration gives ions.
+> Current in a solution is carried by moving ions, so more ions means more current.
+Answer: HCl is a strong acid and supplies far more ions, so it conducts better; ethanoic acid is weak and supplies few ions.
+## mistakes
+x To dilute concentrated acid, pour water into the acid.
+v Always add acid slowly to water with stirring; water into acid can boil and splash.
+x Alkali burns are less serious than acid burns.
+v Concentrated alkalis are just as dangerous; they can penetrate deep and are especially harmful to the eyes.
+x A dim bulb means the solution is dilute.
+v At the same concentration, a dim bulb shows a weak acid or alkali: fewer molecules have broken into ions.
+## remember
+- Concentrated acids and alkalis are corrosive to skin, eyes, cloth and metals.
+- Goggles, gloves, apron, mask; good ventilation.
+- Acid into water, slowly, with stirring. Never water into acid.
+- Splash on skin → wash with plenty of running water, repeatedly; tell your teacher.
+- Bulb test: strong acid/alkali bright, weak acid/alkali dim, pure water almost none.
+## think
+Why is it safer to wash an acid splash with a lot of water than to try to neutralise it on the skin with a strong alkali?
+## quiz
+? The correct way to dilute concentrated sulfuric acid is:
+- Pour water quickly into the acid
+* Pour the acid slowly into water while stirring
+- Mix both quickly in a closed bottle
+- Heat the acid first
+= Adding acid to water spreads the heat through a large volume of water, so it does not boil and splash.
+? If concentrated acid falls on your hand, you should first:
+- Rub it with a cloth
+- Put oil on it
+* Wash it with plenty of running water
+- Cover it with a bandage
+= Plenty of water dilutes the acid and carries away heat; then inform the teacher.
+? In the bulb test, which solution makes the bulb glow most brightly (same concentration)?
+- Ethanoic acid
+- Ammonia solution
+* Hydrochloric acid
+- Sugar solution
+= HCl is fully ionised, so it has the most ions to carry current.
+? Concentrated alkalis are dangerous to the skin because:
+* They turn the fats in skin into soap and destroy tissue
+- They are always hot
+- They give off hydrogen
+- They contain H⁺ ions
+= OH⁻ ions react with the fats and proteins of skin, causing deep burns.
+== bn
+## what
+**গাঢ়** এসিড ও ক্ষার **ক্ষয়কারী**: স্পর্শ করলেই এরা ত্বক, চোখ, কাপড়, কাঠ ও অনেক ধাতু নষ্ট করে ফেলে। এদের নিরাপদে ব্যবহার করা এবং সবসময় সঠিক নিয়মে লঘু করা রসায়ন গবেষণাগারের প্রথম নিয়মগুলোর একটি।
+## simple
+লঘু এসিডের এক ফোঁটা হাতে পড়লে একটু জ্বালা করে। কিন্তু **গাঢ়** সালফিউরিক এসিড বা গাঢ় সোডিয়াম হাইড্রোক্সাইডের এক ফোঁটা ত্বক পুড়িয়ে গর্ত করে দিতে পারে, চোখ অন্ধ করে দিতে পারে, সুতির জামা ফুটো করে দিতে পারে। পার্থক্য শুধু এক ফোঁটায় কতগুলো সক্রিয় কণা ঠাসা আছে তাতে।
+
+**এরা কী করে:**
+- **গাঢ় এসিড** (HCl, H₂SO₄, HNO₃) ত্বক ও মাংস ক্ষয় করে, কাগজ-কাঠ-কাপড় পুড়িয়ে কালো করে দেয় (গাঢ় H₂SO₄ এদের থেকে পানি টেনে নেয়) এবং ধাতু ক্ষয় করে।
+- **গাঢ় ক্ষার** (NaOH, KOH) ত্বকের চর্বিকে সাবানে পরিণত করে, তাই শুরুতে পিচ্ছিল লাগে আর ব্যথা টের পাওয়ার আগেই গভীর ক্ষত হয়ে যেতে পারে। চোখে ক্ষার পড়া বিশেষ বিপজ্জনক।
+- গাঢ় HCl ও গাঢ় HNO₃-এর ধোঁয়া নাক, গলা ও ফুসফুসের ক্ষতি করে।
+
+**গবেষণাগারে নিরাপত্তার নিয়ম**
+- **গগলস**, **গ্লাভস**, **অ্যাপ্রোন** আর ধোঁয়া ছাড়া এসিডের জন্য **মাস্ক** পরবে; বাতাস চলাচল করে এমন জায়গায় কাজ করবে।
+- সবসময় **পানিতে এসিড** ঢালবে, ধীরে ধীরে, নাড়তে নাড়তে; **কখনো এসিডে পানি নয়**। গাঢ় এসিড (বিশেষত H₂SO₄) বা কঠিন NaOH দ্রবীভূত হওয়ার সময় প্রচুর তাপ বের হয়। গাঢ় এসিডে পানি ঢাললে প্রথম কয়েক ফোঁটা পানি সাথে সাথে ফুটে উঠে গরম এসিড ছিটকে বের করে দিতে পারে।
+- বোতল সরাসরি শুঁকবে না; হাত দিয়ে বাতাস নাকের দিকে একটু টেনে আনবে।
+- বোতল দুই হাতে বহন করবে; ছিপি লাগিয়ে রাখবে; সবকিছুতে লেবেল দেবে।
+- **এসিড বা ক্ষার গায়ে লাগলে:** সাথে সাথে জায়গাটি প্রচুর প্রবহমান পানিতে কয়েক মিনিট ধরে বারবার ধোবে, তারপর শিক্ষককে জানাবে। চোখে লাগলে পরিষ্কার পানি দিয়ে ধুতে থাকবে এবং চিকিৎসা নেবে।
+
+**এসিড সন্ত্রাস।** কারও গায়ে এসিড ছোড়া একটি ভয়ংকর অপরাধ, যা মানুষকে বিকৃত ও অন্ধ করে দেয়। বাংলাদেশে এসিড বিক্রি নিয়ন্ত্রণ ও এসিড নিক্ষেপের শাস্তির জন্য কঠোর আইন আছে। কখনো এমন ঘটনা দেখলে সবচেয়ে জরুরি প্রাথমিক চিকিৎসা হলো পোড়া জায়গায় তখনই প্রচুর পরিষ্কার পানি ঢালা, আর সাহায্য না আসা পর্যন্ত ঢালতে থাকা।
+
+**পরীক্ষা: তীব্র না মৃদু? (পরিবাহিতা)** একটি বিকারে ৫০ mL লঘু হাইড্রোক্লোরিক এসিড নাও এবং দুটি গ্রাফাইট দণ্ড এমনভাবে ডোবাও যেন একে অপরকে না ছোঁয়। একটি টর্চের বাল্বের মধ্য দিয়ে দণ্ড দুটিকে ব্যাটারির সাথে যুক্ত করো: বাল্ব উজ্জ্বলভাবে জ্বলবে। একই ঘনমাত্রার ইথানয়িক এসিড নিয়ে আবার করো: বাল্ব জ্বলবে মিটমিট করে। তীব্র এসিড বিদ্যুৎ বহনের জন্য অনেক বেশি আয়ন (H⁺ ও Cl⁻) দেয়; মৃদু এসিড দেয় অল্প।
+- মৃদু এসিড → কম H⁺ আয়ন → মিটমিটে বাল্ব
+- তীব্র এসিড → বেশি H⁺ আয়ন → উজ্জ্বল বাল্ব
+
+NaOH (তীব্র ক্ষার: উজ্জ্বল) ও অ্যামোনিয়া দ্রবণ, NH₄OH (মৃদু ক্ষার: মিটমিটে) দিয়েও একই পরীক্ষা করো। বিশুদ্ধ পানি বা চিনির দ্রবণে প্রায় কোনো আলো হয় না, কারণ এতে আয়ন প্রায় নেই।
+## analogy
+গাঢ় এসিড লঘু করা যেন ভিড়ের বাসে ওঠা। নতুন যাত্রীরা (এসিড) যদি ধীরে ধীরে উঠে অনেক সিটে (পানি) ছড়িয়ে বসে, কোনো ঝামেলা নেই। কিন্তু একসাথে একদল পানি যদি এসিডের ছোট্ট জায়গায় ঠেলে ঢোকানো হয়, সব গরম হয়ে দরজা দিয়ে ছিটকে বেরিয়ে আসে: সেটাই ছিটকে পড়া।
+## definition
+**ক্ষয়কারী পদার্থ**: যে পদার্থ স্পর্শে জীবন্ত কলা এবং ধাতু, কাপড় বা কাঠের মতো বস্তু নষ্ট বা মারাত্মক ক্ষতিগ্রস্ত করে। গাঢ় এসিড ও গাঢ় ক্ষার ক্ষয়কারী।
+
+**লঘুকরণের নিয়ম**: গাঢ় এসিড লঘু করতে এসিডকে ধীরে ধীরে, অনবরত নাড়তে নাড়তে পানিতে যোগ করতে হয়; কখনো এসিডে পানি নয়।
+
+**পরিবাহিতা পরীক্ষা**: যে দ্রবণে মুক্ত আয়ন বেশি, তা বিদ্যুৎ বেশি পরিবহণ করে; সমান ঘনমাত্রায় তীব্র এসিড বা ক্ষার মৃদুটির চেয়ে বাল্বকে বেশি উজ্জ্বল করে।
+## why
+দুটোতেই একই ধরনের কণা থাকলেও গাঢ় এসিড লঘু এসিডের চেয়ে এত বেশি বিপজ্জনক কেন? কারণ ক্ষতির হার নির্ভর করে প্রতি সেকেন্ডে কতগুলো সক্রিয় কণা পৃষ্ঠে আঘাত করে তার ওপর। গাঢ় দ্রবণের প্রতি ফোঁটায় বিপুল সংখ্যক H⁺ (বা OH⁻) আয়ন থাকে, তাই শরীর মেরামত করার আগেই কলা নষ্ট হয়ে যায়। গাঢ় সালফিউরিক এসিডের আরেকটি বিপদ: এটি তীব্রভাবে পানি শোষণ করে, ত্বক ও কাপড় থেকে পানি টেনে নেয় এবং তাপ ছাড়ে। প্রচুর পানি দিয়ে লঘু করলে আয়ন ছড়িয়ে পড়ে আর তাপও সরে যায়, এজন্যই প্রচুর পানি দিয়ে ধোয়াই সবসময় প্রথম চিকিৎসা।
+## terms
+ক্ষয়কারী | স্পর্শে ত্বক, চোখ ও বস্তু নষ্ট করে
+গাঢ় | পানি কম, প্রতি ফোঁটায় অনেক সক্রিয় কণা
+পানিতে এসিড | লঘু করার নিরাপদ উপায়; উল্টোটা কখনো নয়
+গগলস | চোখ রক্ষার নিরাপত্তা চশমা
+পরিবাহিতা | দ্রবণ কতটা বিদ্যুৎ বহন করে; মুক্ত আয়নের ওপর নির্ভর করে
+গ্রাফাইট দণ্ড | বাল্ব পরীক্ষায় দ্রবণে ডোবানো তড়িৎদ্বার
+## visual
+একটি দ্রবণ বেছে নাও। বিকারের কণাগুলো দেখো: তীব্র এসিড ও ক্ষার সম্পূর্ণ ভাঙে, মৃদুগুলো সামান্য। আয়ন যত বেশি, বাল্ব তত উজ্জ্বল।
+## real
+ঢাকা ও চট্টগ্রামের ব্যাটারি মেরামতের দোকানে লঘু সালফিউরিক এসিড দিয়ে ব্যাটারি ভরা হয়; যে কর্মীরা গ্লাভস পরেন না, তাঁদের হাতে প্রায়ই ছোট ছোট পোড়া দাগ থাকে। বাংলাদেশের হাসপাতালে এসিডে পোড়া রোগীর প্রথম চিকিৎসা হলো দীর্ঘ সময় পানি দিয়ে ধোয়া। এসিড নিয়ন্ত্রণ আইন (২০০২) অনুযায়ী এসিড বিক্রির জন্য লাইসেন্স লাগে, আর এরপর থেকে এসিড নিক্ষেপের ঘটনা অনেক কমে গেছে।
+## example
+প্রশ্ন: একজন শিক্ষার্থীর লঘু সালফিউরিক এসিড দরকার; তার কাছে গাঢ় H₂SO₄ ও পানি আছে। কোনটি কোনটিতে ঢালবে এবং কেন?
+ধাপ: গাঢ় H₂SO₄ পানিতে দ্রবীভূত হওয়ার সময় প্রচুর তাপ বের হয়।
+ধাপ: এসিডে পানি ঢাললে অল্প পানিটুকু সাথে সাথে ফুটে উঠে গরম এসিড ছিটকে বের করে।
+ধাপ: অনেক পানিতে ধীরে ধীরে নাড়তে নাড়তে এসিড ঢাললে তাপ অনেক পানিতে ছড়িয়ে যায়, কিছুই ফোটে না।
+উত্তর: গগলস ও গ্লাভস পরে এসিডকে ধীরে ধীরে, সারাক্ষণ নাড়তে নাড়তে পানিতে ঢালতে হবে।
+## example
+প্রশ্ন: বাল্ব পরীক্ষায় ০.১ M HCl বাল্বকে উজ্জ্বল করে, কিন্তু ০.১ M CH₃COOH করে মিটমিটে। ব্যাখ্যা করো।
+ধাপ: HCl → H⁺ + Cl⁻ সম্পূর্ণ: প্রতিটি অণু দুটি আয়ন দেয়।
+ধাপ: CH₃COOH ⇌ H⁺ + CH₃COO⁻ আংশিক: এই ঘনমাত্রায় প্রতি ১০০টি অণুর মাত্র প্রায় ১টি আয়ন দেয়।
+> দ্রবণে বিদ্যুৎ বহন করে চলমান আয়ন, তাই আয়ন বেশি মানে প্রবাহ বেশি।
+উত্তর: HCl তীব্র এসিড, অনেক বেশি আয়ন দেয়, তাই বেশি পরিবহণ করে; ইথানয়িক এসিড মৃদু, অল্প আয়ন দেয়।
+## mistakes
+x গাঢ় এসিড লঘু করতে এসিডে পানি ঢালতে হয়।
+v সবসময় নাড়তে নাড়তে ধীরে ধীরে পানিতে এসিড দেবে; এসিডে পানি দিলে ফুটে ছিটকে পড়তে পারে।
+x ক্ষারে পোড়া এসিডে পোড়ার চেয়ে কম গুরুতর।
+v গাঢ় ক্ষার সমান বিপজ্জনক; এটি গভীরে ঢুকে যেতে পারে এবং চোখের জন্য বিশেষ ক্ষতিকর।
+x বাল্ব মিটমিট করলে বোঝায় দ্রবণ লঘু।
+v একই ঘনমাত্রায় মিটমিটে বাল্ব বোঝায় মৃদু এসিড বা ক্ষার: কম অণু আয়নে ভেঙেছে।
+## remember
+- গাঢ় এসিড ও ক্ষার ত্বক, চোখ, কাপড় ও ধাতুর জন্য ক্ষয়কারী।
+- গগলস, গ্লাভস, অ্যাপ্রোন, মাস্ক; ভালো বাতাস চলাচল।
+- পানিতে এসিড, ধীরে, নাড়তে নাড়তে। কখনো এসিডে পানি নয়।
+- গায়ে লাগলে → প্রচুর প্রবহমান পানিতে বারবার ধোও; শিক্ষককে জানাও।
+- বাল্ব পরীক্ষা: তীব্র এসিড/ক্ষার উজ্জ্বল, মৃদু এসিড/ক্ষার মিটমিটে, বিশুদ্ধ পানি প্রায় অন্ধকার।
+## think
+ত্বকে পড়া এসিডকে তীব্র ক্ষার দিয়ে প্রশমিত করার চেষ্টার চেয়ে প্রচুর পানি দিয়ে ধোয়া বেশি নিরাপদ কেন?
+## quiz
+? গাঢ় সালফিউরিক এসিড লঘু করার সঠিক উপায়:
+- এসিডে দ্রুত পানি ঢালা
+* নাড়তে নাড়তে ধীরে ধীরে পানিতে এসিড ঢালা
+- বন্ধ বোতলে দুটোকে দ্রুত মেশানো
+- আগে এসিড গরম করা
+= পানিতে এসিড দিলে তাপ অনেক পানিতে ছড়িয়ে যায়, তাই ফুটে ছিটকে পড়ে না।
+? হাতে গাঢ় এসিড পড়লে প্রথমে করতে হবে:
+- কাপড় দিয়ে ঘষা
+- তেল লাগানো
+* প্রচুর প্রবহমান পানি দিয়ে ধোয়া
+- ব্যান্ডেজ দিয়ে ঢেকে দেওয়া
+= প্রচুর পানি এসিডকে লঘু করে এবং তাপ সরিয়ে নেয়; তারপর শিক্ষককে জানাতে হয়।
+? বাল্ব পরীক্ষায় (সমান ঘনমাত্রায়) কোন দ্রবণে বাল্ব সবচেয়ে উজ্জ্বল জ্বলবে?
+- ইথানয়িক এসিড
+- অ্যামোনিয়া দ্রবণ
+* হাইড্রোক্লোরিক এসিড
+- চিনির দ্রবণ
+= HCl সম্পূর্ণ আয়নিত, তাই বিদ্যুৎ বহনের জন্য এর আয়ন সবচেয়ে বেশি।
+? গাঢ় ক্ষার ত্বকের জন্য বিপজ্জনক, কারণ:
+* এটি ত্বকের চর্বিকে সাবানে পরিণত করে কলা নষ্ট করে
+- এটি সবসময় গরম থাকে
+- এটি হাইড্রোজেন ছাড়ে
+- এতে H⁺ আয়ন থাকে
+= OH⁻ আয়ন ত্বকের চর্বি ও প্রোটিনের সাথে বিক্রিয়া করে গভীর ক্ষত তৈরি করে।
+
+@@ 9.4
+@visual k9ph
+@related 9.1 9.2 9.5 6.1.3
+== en
+## what
+**pH** is a number that tells how acidic or alkaline a water solution is. It is the negative logarithm of the hydrogen-ion concentration: **pH = −log[H⁺]**. On the usual 0–14 scale, pH 7 is neutral, below 7 is acidic and above 7 is alkaline.
+## simple
+Saying "this solution is a bit acidic" is vague. Chemists want a number. The number they use is **pH** (small p, capital H).
+
+**Where the number comes from.** [H⁺] means the **molar concentration** of hydrogen ions: how many moles of H⁺ are in one litre of solution (see molarity in [[6.1.3|lesson 6.1.3]]). The square brackets always mean "concentration in mol/L".
+
+- Pure (distilled) water contains **10⁻⁷ mol** of H⁺ per litre. pH = −log(10⁻⁷) = **7**.
+- Add some acid so that [H⁺] becomes ten times larger, 10⁻⁶ mol/L: pH = −log(10⁻⁶) = **6**.
+- Add alkali instead: its OH⁻ ions react with H⁺ and use them up. If [H⁺] falls to 10⁻¹⁰ mol/L, pH = −log(10⁻¹⁰) = **10**.
+
+So: **more H⁺ → lower pH** (more acidic); **fewer H⁺ → higher pH** (more alkaline). A handy shortcut: if [H⁺] = 10⁻ⁿ, then pH = n.
+
+**Each step is ten times.** Because pH is a logarithm, going from pH 5 to pH 4 means **ten times** more H⁺; from pH 5 to pH 3 means **100 times** more. A small change in pH is a big change in acidity.
+
+**The pH scale.** Mathematically pH can be any number, even below 0 or above 14 for very concentrated solutions, but in practice we use a scale from **0 to 14**:
+- **pH < 7: acidic** (the lower, the more acidic)
+- **pH = 7: neutral** (pure water)
+- **pH > 7: alkaline** (the higher, the more alkaline)
+
+Some everyday values (approximate): car battery acid ≈ 0.5, stomach juice 1–3, lemon juice ≈ 2, vinegar ≈ 3, tomato ≈ 4.5, milk ≈ 6.5, pure water 7, blood ≈ 7.4, sea water ≈ 8, baking soda solution ≈ 8.5, toothpaste ≈ 9, soap ≈ 10, household ammonia ≈ 11.5, bleach ≈ 12.5, drain cleaner (NaOH) ≈ 14.
+
+**9.4.1 Measuring pH**
+- **Universal indicator:** a mixture of several indicators. Add a few drops to the solution and compare the colour with the **universal indicator colour chart**: red (strong acid) → orange → yellow → green (neutral, 7) → blue → violet (strong alkali).
+- **pH paper:** paper soaked in universal indicator. Dip a small strip in the solution and match its colour with the chart printed on the box.
+- **pH meter:** dip the electrode in the solution and read the pH directly on the digital display. This is the most accurate method.
+- **Litmus paper:** cheap and quick, but only tells acid or alkali. In acids litmus is red, in alkalis it is blue (it changes roughly between pH 5 and 8).
+- Other indicators used in titration ([[9.5|lesson 9.5]]): **phenolphthalein** is colourless in acid and neutral solutions and turns **pink** above about pH 8.2; **methyl orange** is **red** below about pH 3.1 and **yellow** above about 4.4.
+
+**9.4.2 Why pH matters**
+
+*In the human body (Table 9.01).* Every organ works best at its own pH:
+- stomach ≈ 1–3 (strongly acidic, to digest food and kill germs; the book lists 1)
+- skin 4.8–5.5
+- urine ≈ 6
+- blood 7.35–7.45 (kept within this very narrow range; a change of even a few tenths is dangerous)
+- pancreatic juice ≈ 8.1
+
+(Some printings give blood as 7.43–7.45; the accepted normal range is 7.35–7.45.)
+
+*In agriculture.* Crops take up nutrient ions from the soil best when the soil pH is about **6.0–8.0**. Below about 3 or above about 10, useful soil microbes die. If the soil is too **acidic**, farmers add measured amounts of **lime (CaO)**. If it is too **alkaline**, they use fertilisers such as **ammonium sulfate [(NH₄)₂SO₄]** or ammonium phosphate [(NH₄)₃PO₄], which lower the pH.
+
+*In cosmetics.* Healthy skin is slightly acidic (pH 4.8–5.5), and this acidity helps keep germs away. That is why good face washes and skin creams are made with a pH close to 4.8–5.5. Ordinary soap (pH ≈ 10) can dry the skin if overused.
+
+*In water and food.* Fish and water plants survive only within a certain pH range; water with a pH below 4.5 or above 9.5 is harmful to living things ([[9.7|lesson 9.7]]). Pickles stay safe because their low pH stops most bacteria from growing.
+
+**Activity: Is an apple acidic?** Grind a peeled apple with a little water in a mortar, add 10 mL of distilled water, stir and filter into a test tube. Dip blue and red litmus papers in the filtrate. Blue litmus turns red and red stays red: **apple is acidic**. Try boiled-rice water too: neither paper changes, so it is about neutral. (The textbook also suggests cucumber as a basic food, but measured cucumber juice is usually slightly acidic, around pH 5–6, so litmus may show little change. Test it and trust your own result.)
+
+**Activity: make your own pH paper.** Cut a coloured vegetable or flower (red cabbage, lal shak, beetroot, china rose/joba) into small pieces and heat gently in a little water to extract the colour. Soak strips of filter paper in the coloured extract and let them dry in the air. Dip strips in solutions whose pH you know (lemon juice, vinegar, water, soap solution, baking soda solution) and make your own colour chart. Compare several plants and keep the one that gives the clearest colours.
+## analogy
+pH works like the Richter scale for earthquakes: each step up or down is ten times. A pH 3 drink is not "a little" more acidic than pH 4; it has ten times as many H⁺ ions, just as a magnitude 6 earthquake shakes ten times harder than a magnitude 5.
+## definition
+**pH**: the negative logarithm (base 10) of the molar concentration of hydrogen ions in a solution: pH = −log[H⁺], where [H⁺] is in mol/L.
+
+At 25 °C: pH < 7 acidic; pH = 7 neutral; pH > 7 alkaline.
+
+**Indicator (নির্দেশক)**: a substance whose colour depends on the pH of the solution (litmus, phenolphthalein, methyl orange, universal indicator).
+## why
+Why use a logarithm at all? Because the H⁺ concentration of everyday solutions ranges from about 1 mol/L (strong acid) down to 0.000 000 000 000 01 mol/L (strong alkali): fourteen powers of ten. Writing such numbers is clumsy; the logarithm turns them into a neat scale from 0 to 14. The minus sign is there simply so that most pH values come out positive. And why is water neutral at 7? In pure water a tiny fraction of molecules split into H⁺ and OH⁻ in equal numbers, 10⁻⁷ mol/L each at 25 °C, so neither ion is in excess.
+## terms
+pH | −log[H⁺]; 0–14 scale of acidity
+[H⁺] | Molar concentration of H⁺ ions, mol/L
+Neutral (নিরপেক্ষ) | pH 7; [H⁺] = [OH⁻]
+Acidic (এসিডীয়/অম্লীয়) | pH below 7
+Alkaline (ক্ষারীয়) | pH above 7
+Universal indicator (ইউনিভার্সাল নির্দেশক) | Mixture of indicators; a different colour for each pH
+pH paper | Paper soaked in universal indicator
+pH meter | Electronic instrument that shows pH digitally
+## formula
+$$ pH = −log[H⁺]
+$$ [H⁺] = 10^{−pH}
+pH | pH of the solution | no unit
+[H⁺] | molar concentration of hydrogen ions | mol/L
+! If [H⁺] = 10^{−n} mol/L, then pH = n.
+! pH lower by 1 → [H⁺] ten times larger.
+! In water at 25 °C, [H⁺] × [OH⁻] = 10^{−14}, so pH of an alkali = 14 − (−log[OH⁻]).
+## visual
+Drag the pH slider or tap an everyday substance. See [H⁺], how many times more or less acidic it is than pure water, and the colour each indicator would show.
+## real
+The Soil Resource Development Institute (SRDI) in Bangladesh tests soil pH for farmers; many soils in the northern and hilly regions are acidic and are improved with lime, while some coastal soils are affected by salinity. Aquarium keepers and fish farmers check pond water with pH paper. Doctors watch blood pH closely in seriously ill patients because the body can tolerate only a very small change.
+## example
+Q: The hydrogen-ion concentration of a solution is 0.001 mol/L. Find its pH and say whether it is acidic or alkaline.
+Given: [H⁺] = 0.001 = 10⁻³ mol/L
+Formula: pH = −log[H⁺]
+Calculation: pH = −log(10⁻³) = 3
+Answer: pH = 3, so the solution is acidic.
+## example
+Q: A sample of rain has pH 4 and pure water has pH 7. How many times greater is [H⁺] in the rain?
+Given: pH(rain) = 4, pH(water) = 7
+Formula: [H⁺] = 10^{−pH}
+Calculation: [H⁺] rain = 10⁻⁴; water = 10⁻⁷; ratio = 10⁻⁴ ÷ 10⁻⁷ = 10³
+> Three pH units = three factors of ten.
+Answer: 1000 times greater.
+## example
+Q: In a 1 M solution of ethanoic acid, about 4 molecules in 1000 are ionised. Find [H⁺] and the pH. Compare with 1 M HCl.
+Given: C = 1 mol/L, fraction ionised = 4/1000 = 0.004
+Calculation: [H⁺] = 1 × 0.004 = 0.004 mol/L; pH = −log(0.004) = 2.40. For 1 M HCl, [H⁺] = 1 mol/L, pH = −log 1 = 0.
+Answer: ethanoic acid pH ≈ 2.4; HCl pH = 0. Same concentration, but the weak acid is far less acidic.
+## example
+Q: Find the pH of 0.001 M sodium hydroxide solution at 25 °C.
+Given: NaOH ionises completely, so [OH⁻] = 10⁻³ mol/L
+Formula: [H⁺] × [OH⁻] = 10⁻¹⁴
+Calculation: [H⁺] = 10⁻¹⁴ ÷ 10⁻³ = 10⁻¹¹ mol/L; pH = −log(10⁻¹¹) = 11
+Answer: pH = 11 (alkaline).
+## mistakes
+x A solution of pH 4 is twice as acidic as one of pH 8.
+v Each pH unit is a factor of ten: pH 4 has 10⁴ = 10 000 times more H⁺ than pH 8.
+x Higher pH means more acidic.
+v Lower pH means more H⁺, so more acidic; higher pH means more alkaline.
+x Litmus paper tells the exact pH.
+v Litmus only shows acid (red) or alkali (blue). Use universal indicator, pH paper or a pH meter for the value.
+x pH can never be below 0 or above 14.
+v The 0–14 scale covers normal solutions; very concentrated acids or alkalis can go slightly beyond it.
+## remember
+- pH = −log[H⁺]; [H⁺] = 10⁻ⁿ → pH = n.
+- pH 7 neutral; < 7 acidic; > 7 alkaline.
+- One pH unit = ten times the H⁺ concentration.
+- Measure pH with universal indicator, pH paper or a pH meter; litmus only tells acid/alkali.
+- Phenolphthalein: colourless in acid, pink in alkali. Methyl orange: red in acid, yellow in alkali.
+- Blood 7.35–7.45; stomach 1–3; skin 4.8–5.5; best soil 6–8.
+- Acidic soil → lime (CaO); alkaline soil → ammonium sulfate.
+## think
+The pH of ethanoic acid is 4. Which of these would raise its pH: adding ammonia solution, adding concentrated hydrochloric acid, adding solid magnesium carbonate? Explain each.
+## quiz
+? The pH of distilled water at 25 °C is:
+- 0
+- 1
+* 7
+- 14
+= [H⁺] = 10⁻⁷ mol/L, so pH = 7.
+? A solution has [H⁺] = 10⁻⁹ mol/L. It is:
+- Strongly acidic
+- Neutral
+* Alkaline
+- Weakly acidic
+= pH = 9, which is above 7, so alkaline.
+? The pH of ethanoic acid is 4. To increase the pH we can add: (i) ammonia solution, (ii) concentrated hydrochloric acid, (iii) solid magnesium carbonate
+- i and ii
+- ii and iii
+* i and iii
+- i, ii and iii
+= Ammonia and magnesium carbonate react with (use up) H⁺ and raise the pH; concentrated HCl adds more H⁺ and lowers it.
+? For best crop growth, the soil pH should be about:
+- 1–3
+- 3–5
+* 6–8
+- 10–12
+= Plants absorb nutrients best at pH 6.0–8.0.
+? Which instrument shows pH directly as a number?
+- Litmus paper
+- Phenolphthalein
+* pH meter
+- Methyl orange
+= A pH meter has an electrode and a digital display.
+== bn
+## what
+**pH** এমন একটি সংখ্যা যা বলে দেয় একটি জলীয় দ্রবণ কতটা এসিডীয় বা ক্ষারীয়। এটি হাইড্রোজেন আয়নের ঘনমাত্রার ঋণাত্মক লগারিদম: **pH = −log[H⁺]**। সাধারণ ০–১৪ স্কেলে pH ৭ নিরপেক্ষ, ৭-এর কম এসিডীয় আর ৭-এর বেশি ক্ষারীয়।
+## simple
+"এই দ্রবণটা একটু এসিডীয়" বললে ঠিক বোঝা যায় না। রসায়নবিদেরা একটা সংখ্যা চান। সেই সংখ্যাটাই **pH** (ছোট হাতের p, বড় হাতের H)।
+
+**সংখ্যাটা কোথা থেকে আসে।** [H⁺] মানে হাইড্রোজেন আয়নের **মোলার ঘনমাত্রা**: এক লিটার দ্রবণে কত মোল H⁺ আছে ([[6.1.3|পাঠ ৬.১.৩]]-এর মোলারিটি দেখো)। তৃতীয় বন্ধনী সবসময় বোঝায় "mol/L এককে ঘনমাত্রা"।
+
+- বিশুদ্ধ (পাতিত) পানির প্রতি লিটারে **১০^{−৭} mol** H⁺ থাকে। pH = −log(১০^{−৭}) = **৭**।
+- কিছু এসিড যোগ করে [H⁺] দশ গুণ বাড়িয়ে ১০^{−৬} mol/L করলে: pH = −log(১০^{−৬}) = **৬**।
+- বরং ক্ষার যোগ করলে এর OH⁻ আয়ন H⁺-এর সাথে বিক্রিয়া করে তা কমিয়ে দেয়। [H⁺] কমে ১০^{−১০} mol/L হলে pH = −log(১০^{−১০}) = **১০**।
+
+অর্থাৎ **H⁺ বেশি → pH কম** (বেশি এসিডীয়); **H⁺ কম → pH বেশি** (বেশি ক্ষারীয়)। সহজ নিয়ম: [H⁺] = ১০^{−n} হলে pH = n।
+
+**প্রতি ধাপে দশ গুণ।** pH লগারিদম বলে pH ৫ থেকে ৪ হওয়া মানে **দশ গুণ** বেশি H⁺; pH ৫ থেকে ৩ মানে **১০০ গুণ** বেশি। pH-এর ছোট পরিবর্তন মানেই এসিডিটির বড় পরিবর্তন।
+
+**pH স্কেল।** গাণিতিকভাবে pH যেকোনো সংখ্যা হতে পারে, খুব গাঢ় দ্রবণে ০-এর কম বা ১৪-এর বেশিও, কিন্তু বাস্তবে আমরা **০ থেকে ১৪** স্কেল ব্যবহার করি:
+- **pH < ৭: এসিডীয়** (যত কম, তত বেশি এসিডীয়)
+- **pH = ৭: নিরপেক্ষ** (বিশুদ্ধ পানি)
+- **pH > ৭: ক্ষারীয়** (যত বেশি, তত বেশি ক্ষারীয়)
+
+কিছু দৈনন্দিন মান (আনুমানিক): গাড়ির ব্যাটারির এসিড ≈ ০.৫, পাকস্থলীর রস ১–৩, লেবুর রস ≈ ২, ভিনেগার ≈ ৩, টমেটো ≈ ৪.৫, দুধ ≈ ৬.৫, বিশুদ্ধ পানি ৭, রক্ত ≈ ৭.৪, সমুদ্রের পানি ≈ ৮, বেকিং সোডার দ্রবণ ≈ ৮.৫, টুথপেস্ট ≈ ৯, সাবান ≈ ১০, গৃহস্থালি অ্যামোনিয়া ≈ ১১.৫, ব্লিচ ≈ ১২.৫, ড্রেন ক্লিনার (NaOH) ≈ ১৪।
+
+**৯.৪.১ pH পরিমাপ**
+- **ইউনিভার্সাল নির্দেশক:** কয়েকটি নির্দেশকের মিশ্রণ। দ্রবণে কয়েক ফোঁটা দিয়ে রংটি **ইউনিভার্সাল নির্দেশকের রঙের চার্টের** সাথে মেলাও: লাল (তীব্র এসিড) → কমলা → হলুদ → সবুজ (নিরপেক্ষ, ৭) → নীল → বেগুনি (তীব্র ক্ষার)।
+- **pH পেপার:** ইউনিভার্সাল নির্দেশকে ভেজানো কাগজ। এক টুকরা দ্রবণে ডুবিয়ে এর রং বাক্সে ছাপা চার্টের সাথে মেলাও।
+- **pH মিটার:** তড়িৎদ্বারটি দ্রবণে ডুবিয়ে ডিজিটাল পর্দায় সরাসরি pH পড়ো। এটিই সবচেয়ে নির্ভুল পদ্ধতি।
+- **লিটমাস পেপার:** সস্তা ও দ্রুত, কিন্তু শুধু এসিড না ক্ষার তা বলে। এসিডে লিটমাস লাল, ক্ষারে নীল (মোটামুটি pH ৫ থেকে ৮-এর মধ্যে রং বদলায়)।
+- টাইট্রেশনে ব্যবহৃত অন্য নির্দেশক ([[9.5|পাঠ ৯.৫]]): **ফেনলফথ্যালিন** এসিডীয় ও নিরপেক্ষ দ্রবণে বর্ণহীন, প্রায় pH ৮.২-এর বেশি হলে **গোলাপি**; **মিথাইল অরেঞ্জ** প্রায় pH ৩.১-এর নিচে **লাল**, প্রায় ৪.৪-এর ওপরে **হলুদ**।
+
+**৯.৪.২ pH-এর গুরুত্ব**
+
+*মানবদেহে (সারণি ৯.০১)।* প্রতিটি অঙ্গ নিজস্ব pH-এ সবচেয়ে ভালো কাজ করে:
+- পাকস্থলী ≈ ১–৩ (খাবার হজম ও জীবাণু ধ্বংসের জন্য তীব্র এসিডীয়; বইয়ে ১ দেওয়া আছে)
+- ত্বক ৪.৮–৫.৫
+- মূত্র ≈ ৬
+- রক্ত ৭.৩৫–৭.৪৫ (এই খুব সরু সীমার মধ্যে রাখা হয়; কয়েক দশমিক পরিবর্তনও বিপজ্জনক)
+- অগ্ন্যাশয় রস ≈ ৮.১
+
+(কোনো কোনো মুদ্রণে রক্তের pH ৭.৪৩–৭.৪৫ লেখা থাকে; স্বীকৃত স্বাভাবিক সীমা ৭.৩৫–৭.৪৫।)
+
+*কৃষিতে।* মাটির pH প্রায় **৬.০–৮.০** হলে ফসল মাটি থেকে সবচেয়ে ভালোভাবে পুষ্টি-আয়ন শোষণ করে। pH প্রায় ৩-এর নিচে বা ১০-এর ওপরে গেলে মাটির উপকারী অণুজীব মারা যায়। মাটি বেশি **এসিডীয়** হলে কৃষকেরা পরিমাণমতো **চুন (CaO)** দেন। বেশি **ক্ষারীয়** হলে **অ্যামোনিয়াম সালফেট [(NH₄)₂SO₄]** বা অ্যামোনিয়াম ফসফেট [(NH₄)₃PO₄] সার ব্যবহার করেন, যা pH কমায়।
+
+*প্রসাধনীতে।* সুস্থ ত্বক সামান্য এসিডীয় (pH ৪.৮–৫.৫), আর এই এসিডিটি জীবাণু দূরে রাখতে সাহায্য করে। এজন্যই ভালো ফেসওয়াশ আর ত্বকের ক্রিমের pH ৪.৮–৫.৫-এর কাছাকাছি রাখা হয়। সাধারণ সাবান (pH ≈ ১০) বেশি ব্যবহার করলে ত্বক শুষ্ক হতে পারে।
+
+*পানি ও খাবারে।* মাছ ও জলজ উদ্ভিদ নির্দিষ্ট pH সীমার মধ্যেই বাঁচে; pH ৪.৫-এর কম বা ৯.৫-এর বেশি পানি জীবের জন্য ক্ষতিকর ([[9.7|পাঠ ৯.৭]])। আচার নিরাপদ থাকে, কারণ এর কম pH-এ বেশির ভাগ ব্যাকটেরিয়া জন্মাতে পারে না।
+
+**কাজ: আপেল কি এসিডীয়?** খোসা ছাড়ানো আপেল একটু পানিসহ হামানদিস্তায় পিষে নাও, ১০ mL পাতিত পানি মিশিয়ে নাড়ো এবং ছেঁকে টেস্টটিউবে নাও। নীল ও লাল লিটমাস কাগজ ছাঁকা দ্রবণে ডোবাও। নীল লিটমাস লাল হয়, লালটি লালই থাকে: **আপেল এসিডীয়**। ভাতের মাড়-পানি দিয়েও করো: কোনো কাগজের রং বদলায় না, তাই এটি প্রায় নিরপেক্ষ। (পাঠ্যবইয়ে শসাকে ক্ষারীয় খাবারের উদাহরণ হিসেবে দেওয়া আছে, কিন্তু মাপলে শসার রস সাধারণত সামান্য এসিডীয়, pH প্রায় ৫–৬, তাই লিটমাসে তেমন পরিবর্তন নাও দেখা যেতে পারে। নিজে পরীক্ষা করে নিজের ফলের ওপর ভরসা রাখো।)
+
+**কাজ: নিজেই pH পেপার বানাও।** রঙিন সবজি বা ফুল (লাল বাঁধাকপি, লালশাক, বিট, রক্তজবা) ছোট টুকরা করে অল্প পানিতে হালকা আঁচে গরম করে রং বের করো। ছাঁকন কাগজের ফালি রঙিন নির্যাসে ভিজিয়ে বাতাসে শুকাও। জানা pH-এর দ্রবণে (লেবুর রস, ভিনেগার, পানি, সাবান পানি, বেকিং সোডার দ্রবণ) ফালি ডুবিয়ে নিজের রঙের চার্ট বানাও। কয়েকটি উদ্ভিদ তুলনা করে যেটির রং সবচেয়ে স্পষ্ট, সেটি রেখে দাও।
+## analogy
+pH কাজ করে ভূমিকম্পের রিখটার স্কেলের মতো: প্রতি ধাপ ওপরে বা নিচে দশ গুণ। pH ৩-এর পানীয় pH ৪-এর চেয়ে "একটু" বেশি এসিডীয় নয়; এতে দশ গুণ বেশি H⁺ আয়ন, ঠিক যেমন মাত্রা ৬-এর ভূমিকম্প মাত্রা ৫-এর চেয়ে দশ গুণ জোরে কাঁপায়।
+## definition
+**pH**: কোনো দ্রবণে হাইড্রোজেন আয়নের মোলার ঘনমাত্রার ঋণাত্মক লগারিদম (ভিত্তি ১০): pH = −log[H⁺], যেখানে [H⁺]-এর একক mol/L।
+
+২৫ °C-এ: pH < ৭ এসিডীয়; pH = ৭ নিরপেক্ষ; pH > ৭ ক্ষারীয়।
+
+**নির্দেশক**: যে পদার্থের রং দ্রবণের pH-এর ওপর নির্ভর করে (লিটমাস, ফেনলফথ্যালিন, মিথাইল অরেঞ্জ, ইউনিভার্সাল নির্দেশক)।
+## why
+লগারিদম কেন? কারণ দৈনন্দিন দ্রবণে H⁺-এর ঘনমাত্রা প্রায় ১ mol/L (তীব্র এসিড) থেকে ০.০০০ ০০০ ০০০ ০০০ ০১ mol/L (তীব্র ক্ষার) পর্যন্ত: দশের চোদ্দটি ঘাত। এমন সংখ্যা লেখা ঝামেলার; লগারিদম এদের ০ থেকে ১৪-এর সুন্দর একটি স্কেলে নিয়ে আসে। ঋণাত্মক চিহ্নটি আছে শুধু যেন বেশির ভাগ pH মান ধনাত্মক হয়। আর পানি ৭-এ নিরপেক্ষ কেন? বিশুদ্ধ পানির খুব সামান্য অণু সমান সংখ্যায় H⁺ ও OH⁻-এ ভাঙে, ২৫ °C-এ প্রতিটি ১০^{−৭} mol/L, তাই কোনো আয়নই বেশি থাকে না।
+## terms
+pH | −log[H⁺]; এসিডিটির ০–১৪ স্কেল
+[H⁺] | H⁺ আয়নের মোলার ঘনমাত্রা, mol/L
+নিরপেক্ষ | pH ৭; [H⁺] = [OH⁻]
+এসিডীয় (অম্লীয়) | pH ৭-এর কম
+ক্ষারীয় | pH ৭-এর বেশি
+ইউনিভার্সাল নির্দেশক | নির্দেশকের মিশ্রণ; প্রতিটি pH-এ আলাদা রং
+pH পেপার | ইউনিভার্সাল নির্দেশকে ভেজানো কাগজ
+pH মিটার | যে ইলেকট্রনিক যন্ত্র ডিজিটালভাবে pH দেখায়
+## formula
+$$ pH = −log[H⁺]
+$$ [H⁺] = 10^{−pH}
+pH | দ্রবণের pH | একক নেই
+[H⁺] | হাইড্রোজেন আয়নের মোলার ঘনমাত্রা | mol/L
+! [H⁺] = ১০^{−n} mol/L হলে pH = n।
+! pH ১ কমলে → [H⁺] দশ গুণ বাড়ে।
+! ২৫ °C-এ পানিতে [H⁺] × [OH⁻] = ১০^{−১৪}, তাই ক্ষারের pH = ১৪ − (−log[OH⁻])।
+## visual
+pH স্লাইডার টানো বা একটি দৈনন্দিন পদার্থে চাপ দাও। দেখো [H⁺] কত, বিশুদ্ধ পানির চেয়ে কত গুণ বেশি বা কম এসিডীয়, আর প্রতিটি নির্দেশক কোন রং দেখাবে।
+## real
+বাংলাদেশের মৃত্তিকা সম্পদ উন্নয়ন ইনস্টিটিউট (SRDI) কৃষকদের মাটির pH পরীক্ষা করে দেয়; উত্তরাঞ্চল ও পাহাড়ি এলাকার অনেক মাটি এসিডীয়, যা চুন দিয়ে উন্নত করা হয়, আর উপকূলের কিছু মাটি লবণাক্ততায় আক্রান্ত। অ্যাকোয়ারিয়ামের মালিক আর মাছচাষিরা pH পেপার দিয়ে পুকুরের পানি পরীক্ষা করেন। গুরুতর অসুস্থ রোগীর রক্তের pH ডাক্তাররা খুব মনোযোগ দিয়ে দেখেন, কারণ শরীর খুব সামান্য পরিবর্তনই সহ্য করতে পারে।
+## example
+প্রশ্ন: একটি দ্রবণে হাইড্রোজেন আয়নের ঘনমাত্রা ০.০০১ mol/L। এর pH বের করো এবং বলো এটি এসিডীয় না ক্ষারীয়।
+দেওয়া আছে: [H⁺] = ০.০০১ = ১০^{−৩} mol/L
+সূত্র: pH = −log[H⁺]
+হিসাব: pH = −log(১০^{−৩}) = ৩
+উত্তর: pH = ৩, তাই দ্রবণটি এসিডীয়।
+## example
+প্রশ্ন: বৃষ্টির পানির একটি নমুনার pH ৪ আর বিশুদ্ধ পানির pH ৭। বৃষ্টির পানিতে [H⁺] কত গুণ বেশি?
+দেওয়া আছে: pH(বৃষ্টি) = ৪, pH(পানি) = ৭
+সূত্র: [H⁺] = ১০^{−pH}
+হিসাব: বৃষ্টিতে [H⁺] = ১০^{−৪}; পানিতে = ১০^{−৭}; অনুপাত = ১০^{−৪} ÷ ১০^{−৭} = ১০^{৩}
+> তিন pH একক = দশের তিনটি গুণিতক।
+উত্তর: ১০০০ গুণ বেশি।
+## example
+প্রশ্ন: ১ M ইথানয়িক এসিড দ্রবণে প্রতি ১০০০টি অণুর প্রায় ৪টি আয়নিত হয়। [H⁺] ও pH বের করো। ১ M HCl-এর সাথে তুলনা করো।
+দেওয়া আছে: C = ১ mol/L, আয়নিত অংশ = ৪/১০০০ = ০.০০৪
+হিসাব: [H⁺] = ১ × ০.০০৪ = ০.০০৪ mol/L; pH = −log(০.০০৪) = ২.৪০। ১ M HCl-এ [H⁺] = ১ mol/L, pH = −log ১ = ০।
+উত্তর: ইথানয়িক এসিডের pH ≈ ২.৪; HCl-এর pH = ০। ঘনমাত্রা সমান, কিন্তু মৃদু এসিড অনেক কম এসিডীয়।
+## example
+প্রশ্ন: ২৫ °C-এ ০.০০১ M সোডিয়াম হাইড্রোক্সাইড দ্রবণের pH বের করো।
+দেওয়া আছে: NaOH সম্পূর্ণ আয়নিত হয়, তাই [OH⁻] = ১০^{−৩} mol/L
+সূত্র: [H⁺] × [OH⁻] = ১০^{−১৪}
+হিসাব: [H⁺] = ১০^{−১৪} ÷ ১০^{−৩} = ১০^{−১১} mol/L; pH = −log(১০^{−১১}) = ১১
+উত্তর: pH = ১১ (ক্ষারীয়)।
+## mistakes
+x pH ৪-এর দ্রবণ pH ৮-এর দ্রবণের চেয়ে দ্বিগুণ এসিডীয়।
+v প্রতি pH একক দশ গুণ: pH ৪-এ pH ৮-এর চেয়ে ১০^{৪} = ১০ ০০০ গুণ বেশি H⁺।
+x pH বেশি মানে বেশি এসিডীয়।
+v pH কম মানে H⁺ বেশি, তাই বেশি এসিডীয়; pH বেশি মানে বেশি ক্ষারীয়।
+x লিটমাস কাগজ নির্দিষ্ট pH বলে দেয়।
+v লিটমাস শুধু এসিড (লাল) বা ক্ষার (নীল) দেখায়। মান জানতে ইউনিভার্সাল নির্দেশক, pH পেপার বা pH মিটার লাগে।
+x pH কখনো ০-এর কম বা ১৪-এর বেশি হতে পারে না।
+v ০–১৪ স্কেল সাধারণ দ্রবণের জন্য; খুব গাঢ় এসিড বা ক্ষার এর সামান্য বাইরে যেতে পারে।
+## remember
+- pH = −log[H⁺]; [H⁺] = ১০^{−n} → pH = n।
+- pH ৭ নিরপেক্ষ; < ৭ এসিডীয়; > ৭ ক্ষারীয়।
+- এক pH একক = H⁺ ঘনমাত্রার দশ গুণ।
+- pH মাপো ইউনিভার্সাল নির্দেশক, pH পেপার বা pH মিটারে; লিটমাস শুধু এসিড/ক্ষার বলে।
+- ফেনলফথ্যালিন: এসিডে বর্ণহীন, ক্ষারে গোলাপি। মিথাইল অরেঞ্জ: এসিডে লাল, ক্ষারে হলুদ।
+- রক্ত ৭.৩৫–৭.৪৫; পাকস্থলী ১–৩; ত্বক ৪.৮–৫.৫; সেরা মাটি ৬–৮।
+- এসিডীয় মাটি → চুন (CaO); ক্ষারীয় মাটি → অ্যামোনিয়াম সালফেট।
+## think
+ইথানয়িক এসিডের pH ৪। নিচের কোনগুলো এর pH বাড়াবে: অ্যামোনিয়া দ্রবণ যোগ করা, গাঢ় হাইড্রোক্লোরিক এসিড যোগ করা, কঠিন ম্যাগনেসিয়াম কার্বনেট যোগ করা? প্রতিটি ব্যাখ্যা করো।
+## quiz
+? ২৫ °C-এ পাতিত পানির pH:
+- ০
+- ১
+* ৭
+- ১৪
+= [H⁺] = ১০^{−৭} mol/L, তাই pH = ৭।
+? একটি দ্রবণে [H⁺] = ১০^{−৯} mol/L। দ্রবণটি:
+- তীব্র এসিডীয়
+- নিরপেক্ষ
+* ক্ষারীয়
+- মৃদু এসিডীয়
+= pH = ৯, যা ৭-এর বেশি, তাই ক্ষারীয়।
+? ইথানয়িক এসিডের pH ৪। pH বাড়াতে যোগ করা যায়: (i) অ্যামোনিয়া দ্রবণ, (ii) গাঢ় হাইড্রোক্লোরিক এসিড, (iii) কঠিন ম্যাগনেসিয়াম কার্বনেট
+- i ও ii
+- ii ও iii
+* i ও iii
+- i, ii ও iii
+= অ্যামোনিয়া ও ম্যাগনেসিয়াম কার্বনেট H⁺ খরচ করে pH বাড়ায়; গাঢ় HCl আরও H⁺ যোগ করে pH কমায়।
+? ফসলের সবচেয়ে ভালো বৃদ্ধির জন্য মাটির pH হওয়া উচিত প্রায়:
+- ১–৩
+- ৩–৫
+* ৬–৮
+- ১০–১২
+= pH ৬.০–৮.০-এ উদ্ভিদ সবচেয়ে ভালো পুষ্টি শোষণ করে।
+? কোন যন্ত্র সরাসরি সংখ্যা হিসেবে pH দেখায়?
+- লিটমাস কাগজ
+- ফেনলফথ্যালিন
+* pH মিটার
+- মিথাইল অরেঞ্জ
+= pH মিটারে একটি তড়িৎদ্বার ও ডিজিটাল পর্দা থাকে।
+
+@@ 9.5
+@visual k9titr
+@related 9.1 9.2 9.4 6.3.2
+== en
+## what
+**Neutralisation** is the reaction of an acid with a base to form a **salt and water**. The H⁺ of the acid and the OH⁻ of the base join to make water: H⁺(aq) + OH⁻(aq) → H₂O(l). The leftover ions form the salt.
+## simple
+An acid supplies H⁺ ions in water; an alkali supplies OH⁻ ions. Put them together and they cancel each other out:
+
+H⁺(aq) + OH⁻(aq) → H₂O(l)
+
+Take hydrochloric acid and sodium hydroxide. HCl gives H⁺ and Cl⁻; NaOH gives Na⁺ and OH⁻. The H⁺ and OH⁻ become water; the Na⁺ and Cl⁻ that are left over make the salt, sodium chloride:
+
+- HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)
+- acid + base → salt + water
+
+Both the acid and the base lose their special properties; the solution becomes neutral salt water. The mixture also gets **warm**, because neutralisation gives out heat.
+
+**Fixed amounts.** The balanced equation tells you exactly how much base cancels how much acid:
+- HCl + NaOH → NaCl + H₂O: **1 mol** HCl neutralises **1 mol** NaOH (and 2 mol neutralises 2 mol).
+- H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O: **1 mol** H₂SO₄ neutralises **2 mol** NaOH, because each H₂SO₄ gives two H⁺.
+
+So a definite amount of a given acid always neutralises a definite amount of a given base. Chemists find the exact point by **titration**: an alkali is added from a burette, drop by drop, to a measured volume of acid containing an indicator. The drop that just changes the indicator colour marks the **end point**, where acid and base are exactly balanced. At that point:
+
+moles of H⁺ from the acid = moles of OH⁻ from the base
+
+For a 1 : 1 reaction such as HCl + NaOH, this becomes V(acid) × S(acid) = V(base) × S(base), where S is the molarity.
+
+**9.5.1 Neutralisation in daily life**
+- **Stomach acidity (acidity/ambol).** Too much HCl in the stomach causes a burning discomfort. **Antacids** contain weak bases such as aluminium hydroxide and magnesium hydroxide that neutralise the excess acid:
+- Al(OH)₃ + 3HCl → AlCl₃ + 3H₂O
+- Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O
+
+- **Tooth care.** Bacteria in the mouth turn leftover sugar into acids, which dissolve the calcium compounds of tooth enamel and cause decay. Toothpaste is mildly alkaline, so it neutralises these acids. Brushing after sweets really helps.
+- **Agriculture.** When crops take up metal ions such as K⁺, Ca²⁺, Mg²⁺ and Fe³⁺, and when acidic fertilisers or acid rain are added, soil can become acidic and lose fertility. Farmers spread **lime** (CaO, or powdered limestone CaCO₃), which neutralises the acid: CaO + H₂SO₄ → CaSO₄ + H₂O.
+- **Insect stings.** A red-ant sting injects formic acid; a paste of baking soda (NaHCO₃), a weak base, eases the pain.
+- **Factories** neutralise acidic waste water with lime before releasing it ([[9.7|lesson 9.7]]).
+
+**9.5.2 Salts.** A salt is made of a positive ion from the base and a negative ion from the acid.
+- The positive ion (Na⁺, K⁺, Ca²⁺, NH₄⁺…) comes from the base, so it is called the **basic radical**.
+- The negative ion (Cl⁻, SO₄²⁻, NO₃⁻, CO₃²⁻, CH₃COO⁻…) comes from the acid, so it is called the **acid radical**.
+
+**Not every salt solution is neutral.** It depends on the strength of the acid and base the salt came from:
+- **strong acid + strong base → neutral salt:** NaCl, Na₂SO₄, KNO₃ (pH ≈ 7)
+- **strong acid + weak base → acidic salt solution:** NH₄Cl, FeCl₃, Zn(NO₃)₂, CuSO₄ (pH < 7)
+- **weak acid + strong base → basic (alkaline) salt solution:** Na₂CO₃, CH₃COONa (sodium ethanoate), NaHCO₃ (pH > 7)
+
+The "stronger partner wins". That is why washing soda (Na₂CO₃) solution feels slippery and turns red litmus blue, while a solution of FeCl₃ turns blue litmus red.
+## analogy
+Think of H⁺ and OH⁻ as two dance partners who were each dancing alone. When acid and base meet, every H⁺ finds an OH⁻ and they pair off as water. The left-over "spectators", like Na⁺ and Cl⁻, simply stay in the hall: they are the salt.
+## definition
+**Neutralisation (প্রশমন বিক্রিয়া)**: the reaction between an acid and a base that produces salt and water; in solution the essential change is H⁺(aq) + OH⁻(aq) → H₂O(l).
+
+**Salt (লবণ)**: an ionic compound formed from the basic radical (positive ion) of a base and the acid radical (negative ion) of an acid.
+
+**Basic radical (ক্ষারকীয় মূলক)**: the positive ion of a salt, from the base. **Acid radical (অম্লীয় মূলক)**: the negative ion of a salt, from the acid.
+
+**Titration**: a method of finding the exact volume of one solution needed to react completely with a known volume of another, using an indicator to show the end point.
+## why
+Why does neutralisation happen so readily and give out heat? Water is a very stable molecule; H⁺ and OH⁻ attract each other strongly, and when they bond, energy is released as heat. Once they have paired off, neither ion is left over to show acidic or alkaline behaviour. Why is a salt like Na₂CO₃ alkaline? Its carbonate ion comes from a weak acid, so it tends to pull H⁺ back from water molecules (CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻), leaving extra OH⁻ in the solution. In the same way NH₄⁺ from a weak base gives H⁺ back to water, making NH₄Cl solution acidic.
+## terms
+Neutralisation (প্রশমন) | Acid + base → salt + water
+Salt (লবণ) | Ionic compound: basic radical + acid radical
+Basic radical (ক্ষারকীয় মূলক) | Positive ion of a salt, e.g. Na⁺, NH₄⁺
+Acid radical (অম্লীয় মূলক) | Negative ion of a salt, e.g. Cl⁻, SO₄²⁻
+Antacid (এন্টাসিড) | Weak base that neutralises excess stomach acid
+Titration (টাইট্রেশন) | Adding one solution from a burette to find the exact end point
+End point | Point where the indicator changes colour; acid and base just balanced
+Burette (ব্যুরেট) | Graduated tube with a tap, used in titration
+## formula
+$$ H⁺(aq) + OH⁻(aq) → H₂O(l)
+$$ moles of H⁺ = moles of OH⁻ (at the end point)
+$$ V_{a} × S_{a} = V_{b} × S_{b}
+V_{a}, V_{b} | volumes of acid and base | mL
+S_{a}, S_{b} | molarities of acid and base | mol/L (M)
+! V_{a}S_{a} = V_{b}S_{b} holds for a 1 : 1 reaction such as HCl + NaOH.
+! For H₂SO₄ + 2NaOH, 1 mol acid needs 2 mol base: 2 × V_{a} × S_{a} = V_{b} × S_{b}.
+## visual
+Choose an acid and an indicator, then add 0.1 M NaOH from the burette. Watch the pH curve rise, find the end point where the indicator changes, and see which salt forms.
+## real
+Pharmacies across Bangladesh sell antacid tablets and suspensions containing Al(OH)₃ and Mg(OH)₂; many people take them after heavy, oily meals during Eid or weddings. Tea gardens in Sylhet, where the soil is naturally very acidic, and farmers in the northern districts spread lime to correct soil acidity. Textile dyeing factories must neutralise their acidic or alkaline waste in effluent treatment plants before releasing it into rivers.
+## example
+Q: How many grams of NaOH are needed to neutralise 3.65 g of HCl completely? How much NaCl is formed? (Na = 23, O = 16, H = 1, Cl = 35.5)
+Given: M(HCl) = 36.5, M(NaOH) = 40, M(NaCl) = 58.5
+Formula: HCl + NaOH → NaCl + H₂O (1 : 1 : 1)
+Calculation: moles of HCl = 3.65 ÷ 36.5 = 0.1 mol; NaOH needed = 0.1 mol = 0.1 × 40 = 4.0 g; NaCl formed = 0.1 × 58.5 = 5.85 g
+Answer: 4.0 g NaOH; 5.85 g NaCl.
+## example
+Q: 9.8 g of sulfuric acid is neutralised by sodium hydroxide. Find the mass of NaOH needed and the mass of sodium sulfate formed. (S = 32)
+Given: M(H₂SO₄) = 98, M(NaOH) = 40, M(Na₂SO₄) = 142
+Formula: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O
+Calculation: moles of H₂SO₄ = 9.8 ÷ 98 = 0.1 mol; NaOH = 2 × 0.1 = 0.2 mol = 8.0 g; Na₂SO₄ = 0.1 mol = 14.2 g
+> Each H₂SO₄ gives 2 H⁺, so it needs 2 NaOH.
+Answer: 8.0 g NaOH; 14.2 g Na₂SO₄.
+## example
+Q: An antacid tablet contains 0.58 g of magnesium hydroxide. What mass of stomach HCl can it neutralise? (Mg = 24)
+Given: M(Mg(OH)₂) = 24 + 2 × 17 = 58
+Formula: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O
+Calculation: moles of Mg(OH)₂ = 0.58 ÷ 58 = 0.01 mol; HCl = 2 × 0.01 = 0.02 mol = 0.02 × 36.5 = 0.73 g
+Answer: 0.73 g of HCl.
+## example
+Q: In a titration, 25 mL of 0.1 M HCl is neutralised by 0.1 M NaOH. What volume of NaOH is needed? What if the acid were 20 mL of 0.1 M H₂SO₄?
+Formula: HCl: V_{a} × S_{a} = V_{b} × S_{b}; H₂SO₄: 2 × V_{a} × S_{a} = V_{b} × S_{b}
+Calculation: HCl: V_{b} = 25 × 0.1 ÷ 0.1 = 25 mL. H₂SO₄: V_{b} = 2 × 20 × 0.1 ÷ 0.1 = 40 mL
+Answer: 25 mL for the HCl; 40 mL for the H₂SO₄.
+## mistakes
+x All salt solutions are neutral.
+v Only salts of a strong acid and a strong base (NaCl, Na₂SO₄) are neutral. Na₂CO₃ solution is alkaline; NH₄Cl and FeCl₃ solutions are acidic.
+x Salt means only common salt, NaCl.
+v NaCl is one salt. CuSO₄, CaCO₃, KNO₃, NH₄Cl and many more are also salts.
+x 1 mol of any acid neutralises 1 mol of NaOH.
+v It depends on how many H⁺ each acid molecule gives: 1 mol H₂SO₄ needs 2 mol NaOH.
+## remember
+- Acid + base → salt + water; the key step is H⁺ + OH⁻ → H₂O; heat is released.
+- Use the balanced equation (mole ratio) to find amounts: 1 HCl : 1 NaOH; 1 H₂SO₄ : 2 NaOH.
+- Titration finds the end point with an indicator: moles H⁺ = moles OH⁻.
+- Daily life: antacids [Al(OH)₃, Mg(OH)₂], alkaline toothpaste, lime for acidic soil.
+- Salt = basic radical (+, from base) + acid radical (−, from acid).
+- Strong acid + strong base → neutral; strong acid + weak base → acidic; weak acid + strong base → basic.
+## think
+Why is it better to take an antacid made of a weak base like Mg(OH)₂ than to drink a solution of NaOH to cure acidity?
+## quiz
+? Which is the essential reaction in every acid–alkali neutralisation?
+- Na⁺ + Cl⁻ → NaCl
+* H⁺ + OH⁻ → H₂O
+- H₂ + O₂ → H₂O
+- CO₃²⁻ + 2H⁺ → CO₂ + H₂O
+= The H⁺ of the acid and the OH⁻ of the alkali combine to form water.
+? One mole of sulfuric acid completely neutralises how many moles of NaOH?
+- 0.5
+- 1
+* 2
+- 4
+= H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O.
+? What is the nature of an aqueous solution of FeCl₃?
+* Acidic
+- Basic
+- Neutral
+- It does not dissolve
+= FeCl₃ is the salt of a strong acid (HCl) and a weak base [Fe(OH)₃], so its solution is acidic.
+? Which substance in antacids neutralises stomach acid?
+- Sodium chloride
+* Magnesium hydroxide
+- Citric acid
+- Sulfuric acid
+= Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O.
+? In a salt, the positive ion that comes from the base is called the:
+- Acid radical
+* Basic radical
+- Hydroxide ion
+- Indicator
+= Positive ion from the base = basic radical; negative ion from the acid = acid radical.
+== bn
+## what
+এসিড ও ক্ষারকের বিক্রিয়ায় **লবণ ও পানি** উৎপন্ন হওয়াকে **প্রশমন বিক্রিয়া** বলে। এসিডের H⁺ আর ক্ষারের OH⁻ মিলে পানি তৈরি করে: H⁺(aq) + OH⁻(aq) → H₂O(l)। বাকি আয়নগুলো মিলে তৈরি হয় লবণ।
+## simple
+এসিড পানিতে H⁺ আয়ন দেয়; ক্ষার দেয় OH⁻ আয়ন। দুটোকে একসাথে মেশালে এরা একে অপরকে নিষ্ক্রিয় করে দেয়:
+
+H⁺(aq) + OH⁻(aq) → H₂O(l)
+
+হাইড্রোক্লোরিক এসিড আর সোডিয়াম হাইড্রোক্সাইড নাও। HCl দেয় H⁺ ও Cl⁻; NaOH দেয় Na⁺ ও OH⁻। H⁺ আর OH⁻ হয়ে যায় পানি; বাকি থাকা Na⁺ ও Cl⁻ মিলে তৈরি করে লবণ, সোডিয়াম ক্লোরাইড:
+
+- HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)
+- এসিড + ক্ষারক → লবণ + পানি
+
+এসিড আর ক্ষার দুটোই নিজেদের বিশেষ ধর্ম হারায়; দ্রবণ হয়ে যায় নিরপেক্ষ লবণ-পানি। মিশ্রণটি **গরমও** হয়, কারণ প্রশমন বিক্রিয়ায় তাপ বের হয়।
+
+**নির্দিষ্ট পরিমাণ।** সমতাকৃত সমীকরণ ঠিক বলে দেয় কতটুকু ক্ষারক কতটুকু এসিডকে প্রশমিত করে:
+- HCl + NaOH → NaCl + H₂O: **১ mol** HCl **১ mol** NaOH-কে প্রশমিত করে (২ mol করে ২ mol-কে)।
+- H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O: **১ mol** H₂SO₄ **২ mol** NaOH-কে প্রশমিত করে, কারণ প্রতিটি H₂SO₄ দুটি H⁺ দেয়।
+
+তাই নির্দিষ্ট এসিডের নির্দিষ্ট পরিমাণ সবসময় নির্দিষ্ট ক্ষারকের নির্দিষ্ট পরিমাণকে প্রশমিত করে। রসায়নবিদেরা এই সঠিক বিন্দু খুঁজে বের করেন **টাইট্রেশন** করে: নির্দেশক মেশানো মাপা আয়তনের এসিডে ব্যুরেট থেকে ফোঁটায় ফোঁটায় ক্ষার যোগ করা হয়। যে ফোঁটায় নির্দেশকের রং ঠিক বদলে যায়, সেটাই **প্রশমন বিন্দু** (end point), যেখানে এসিড ও ক্ষার ঠিক সমান। সেখানে:
+
+এসিড থেকে আসা H⁺-এর মোল = ক্ষার থেকে আসা OH⁻-এর মোল
+
+HCl + NaOH-এর মতো ১ : ১ বিক্রিয়ায় এটি হয় V(এসিড) × S(এসিড) = V(ক্ষার) × S(ক্ষার), যেখানে S হলো মোলারিটি।
+
+**৯.৫.১ দৈনন্দিন জীবনে প্রশমন বিক্রিয়া**
+- **পাকস্থলীর এসিডিটি (অম্বল)।** পাকস্থলীতে HCl বেশি হলে বুক-পেট জ্বালা করে। **এন্টাসিডে** অ্যালুমিনিয়াম হাইড্রোক্সাইড ও ম্যাগনেসিয়াম হাইড্রোক্সাইডের মতো মৃদু ক্ষারক থাকে, যা বাড়তি এসিডকে প্রশমিত করে:
+- Al(OH)₃ + 3HCl → AlCl₃ + 3H₂O
+- Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O
+
+- **দাঁতের যত্ন।** মুখের ব্যাকটেরিয়া লেগে থাকা চিনিকে এসিডে পরিণত করে, যা দাঁতের এনামেলের ক্যালসিয়াম যৌগ ক্ষয় করে দাঁত নষ্ট করে। টুথপেস্ট মৃদু ক্ষারীয়, তাই এটি এই এসিড প্রশমিত করে। মিষ্টি খাওয়ার পর দাঁত মাজা সত্যিই কাজে দেয়।
+- **কৃষি।** ফসল যখন K⁺, Ca²⁺, Mg²⁺, Fe³⁺-এর মতো ধাতব আয়ন শোষণ করে, আর এসিডীয় সার বা এসিড বৃষ্টি যোগ হয়, তখন মাটি এসিডীয় হয়ে উর্বরতা হারাতে পারে। কৃষকেরা **চুন** (CaO, বা চুনাপাথরের গুঁড়া CaCO₃) ছিটান, যা এসিড প্রশমিত করে: CaO + H₂SO₄ → CaSO₄ + H₂O।
+- **পোকার কামড়।** লাল পিঁপড়ার কামড়ে ফরমিক এসিড ঢোকে; মৃদু ক্ষারক বেকিং সোডার (NaHCO₃) পেস্ট লাগালে জ্বালা কমে।
+- **কারখানা** এসিডীয় বর্জ্য পানি নদীতে ছাড়ার আগে চুন দিয়ে প্রশমিত করে ([[9.7|পাঠ ৯.৭]])।
+
+**৯.৫.২ লবণ।** লবণ তৈরি হয় ক্ষারক থেকে আসা ধনাত্মক আয়ন আর এসিড থেকে আসা ঋণাত্মক আয়ন দিয়ে।
+- ধনাত্মক আয়ন (Na⁺, K⁺, Ca²⁺, NH₄⁺…) আসে ক্ষারক থেকে, তাই একে বলে **ক্ষারকীয় মূলক**।
+- ঋণাত্মক আয়ন (Cl⁻, SO₄²⁻, NO₃⁻, CO₃²⁻, CH₃COO⁻…) আসে এসিড থেকে, তাই একে বলে **অম্লীয় মূলক**।
+
+**সব লবণের দ্রবণ নিরপেক্ষ নয়।** এটি নির্ভর করে লবণটি কোন শক্তির এসিড ও ক্ষারক থেকে এসেছে তার ওপর:
+- **তীব্র এসিড + তীব্র ক্ষার → নিরপেক্ষ লবণ:** NaCl, Na₂SO₄, KNO₃ (pH ≈ ৭)
+- **তীব্র এসিড + মৃদু ক্ষারক → এসিডীয় লবণ-দ্রবণ:** NH₄Cl, FeCl₃, Zn(NO₃)₂, CuSO₄ (pH < ৭)
+- **মৃদু এসিড + তীব্র ক্ষার → ক্ষারীয় লবণ-দ্রবণ:** Na₂CO₃, CH₃COONa (সোডিয়াম ইথানয়েট), NaHCO₃ (pH > ৭)
+
+"যে সঙ্গী বেশি শক্তিশালী, সে-ই জেতে।" এজন্যই কাপড় কাচার সোডার (Na₂CO₃) দ্রবণ পিচ্ছিল লাগে আর লাল লিটমাসকে নীল করে, অথচ FeCl₃-এর দ্রবণ নীল লিটমাসকে লাল করে।
+## analogy
+H⁺ আর OH⁻-কে ভাবো দুজন নাচের সঙ্গী, যারা এতক্ষণ একা একা নাচছিল। এসিড আর ক্ষারক মিললে প্রতিটি H⁺ একটি OH⁻ খুঁজে নিয়ে জোড়া বেঁধে পানি হয়ে যায়। বাকি "দর্শকেরা", যেমন Na⁺ আর Cl⁻, হলঘরেই থেকে যায়: এরাই লবণ।
+## definition
+**প্রশমন বিক্রিয়া**: এসিড ও ক্ষারকের যে বিক্রিয়ায় লবণ ও পানি উৎপন্ন হয়; দ্রবণে মূল পরিবর্তনটি হলো H⁺(aq) + OH⁻(aq) → H₂O(l)।
+
+**লবণ**: ক্ষারকের ক্ষারকীয় মূলক (ধনাত্মক আয়ন) ও এসিডের অম্লীয় মূলক (ঋণাত্মক আয়ন) দিয়ে গঠিত আয়নিক যৌগ।
+
+**ক্ষারকীয় মূলক**: লবণের ধনাত্মক আয়ন, যা ক্ষারক থেকে আসে। **অম্লীয় মূলক**: লবণের ঋণাত্মক আয়ন, যা এসিড থেকে আসে।
+
+**টাইট্রেশন**: নির্দেশকের সাহায্যে প্রশমন বিন্দু দেখে, জানা আয়তনের একটি দ্রবণের সাথে সম্পূর্ণ বিক্রিয়ার জন্য আরেকটি দ্রবণের ঠিক কত আয়তন লাগে তা নির্ণয়ের পদ্ধতি।
+## why
+প্রশমন এত সহজে ঘটে আর তাপ ছাড়ে কেন? পানি খুবই স্থিতিশীল অণু; H⁺ আর OH⁻ একে অপরকে তীব্রভাবে আকর্ষণ করে, আর বন্ধন তৈরির সময় শক্তি তাপ হিসেবে বের হয়। জোড়া বাঁধার পর এসিডীয় বা ক্ষারীয় আচরণ দেখানোর মতো কোনো আয়ন আর বাকি থাকে না। Na₂CO₃-এর মতো লবণ ক্ষারীয় কেন? এর কার্বনেট আয়ন মৃদু এসিড থেকে এসেছে, তাই এটি পানির অণু থেকে H⁺ টেনে নিতে চায় (CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻), ফলে দ্রবণে বাড়তি OH⁻ থেকে যায়। একইভাবে মৃদু ক্ষারক থেকে আসা NH₄⁺ পানিকে H⁺ ফিরিয়ে দেয়, তাই NH₄Cl-এর দ্রবণ এসিডীয়।
+## terms
+প্রশমন | এসিড + ক্ষারক → লবণ + পানি
+লবণ | আয়নিক যৌগ: ক্ষারকীয় মূলক + অম্লীয় মূলক
+ক্ষারকীয় মূলক | লবণের ধনাত্মক আয়ন, যেমন Na⁺, NH₄⁺
+অম্লীয় মূলক | লবণের ঋণাত্মক আয়ন, যেমন Cl⁻, SO₄²⁻
+এন্টাসিড | পাকস্থলীর বাড়তি এসিড প্রশমনকারী মৃদু ক্ষারক
+টাইট্রেশন | ব্যুরেট থেকে একটি দ্রবণ যোগ করে সঠিক প্রশমন বিন্দু বের করা
+প্রশমন বিন্দু | যেখানে নির্দেশকের রং বদলায়; এসিড ও ক্ষারক ঠিক সমান
+ব্যুরেট | ট্যাপযুক্ত দাগাঙ্কিত নল, টাইট্রেশনে ব্যবহৃত
+## formula
+$$ H⁺(aq) + OH⁻(aq) → H₂O(l)
+$$ H⁺-এর মোল = OH⁻-এর মোল (প্রশমন বিন্দুতে)
+$$ V_{a} × S_{a} = V_{b} × S_{b}
+V_{a}, V_{b} | এসিড ও ক্ষারের আয়তন | mL
+S_{a}, S_{b} | এসিড ও ক্ষারের মোলারিটি | mol/L (M)
+! V_{a}S_{a} = V_{b}S_{b} খাটে HCl + NaOH-এর মতো ১ : ১ বিক্রিয়ায়।
+! H₂SO₄ + 2NaOH-এ ১ mol এসিডে ২ mol ক্ষার লাগে: ২ × V_{a} × S_{a} = V_{b} × S_{b}।
+## visual
+একটি এসিড ও একটি নির্দেশক বেছে নিয়ে ব্যুরেট থেকে ০.১ M NaOH যোগ করো। pH বক্ররেখা কীভাবে ওঠে দেখো, নির্দেশকের রং বদলানোর প্রশমন বিন্দু খুঁজে বের করো, আর দেখো কোন লবণ তৈরি হলো।
+## real
+বাংলাদেশের সব ফার্মেসিতে Al(OH)₃ ও Mg(OH)₂ যুক্ত এন্টাসিড ট্যাবলেট ও সাসপেনশন পাওয়া যায়; ঈদ বা বিয়ের দাওয়াতে ভারী তেলে ভাজা খাবারের পর অনেকেই তা খান। সিলেটের চা-বাগানে, যেখানে মাটি স্বাভাবিকভাবেই খুব এসিডীয়, আর উত্তরের জেলাগুলোতে কৃষকেরা মাটির এসিডিটি ঠিক করতে চুন ছিটান। কাপড় রং করার কারখানাগুলোকে এসিডীয় বা ক্ষারীয় বর্জ্য নদীতে ছাড়ার আগে বর্জ্য শোধনাগারে (ETP) প্রশমিত করতে হয়।
+## example
+প্রশ্ন: ৩.৬৫ g HCl-কে সম্পূর্ণ প্রশমিত করতে কত গ্রাম NaOH লাগবে? কত NaCl তৈরি হবে? (Na = ২৩, O = ১৬, H = ১, Cl = ৩৫.৫)
+দেওয়া আছে: M(HCl) = ৩৬.৫, M(NaOH) = ৪০, M(NaCl) = ৫৮.৫
+সূত্র: HCl + NaOH → NaCl + H₂O (১ : ১ : ১)
+হিসাব: HCl-এর মোল = ৩.৬৫ ÷ ৩৬.৫ = ০.১ mol; প্রয়োজনীয় NaOH = ০.১ mol = ০.১ × ৪০ = ৪.০ g; উৎপন্ন NaCl = ০.১ × ৫৮.৫ = ৫.৮৫ g
+উত্তর: ৪.০ g NaOH; ৫.৮৫ g NaCl।
+## example
+প্রশ্ন: ৯.৮ g সালফিউরিক এসিডকে সোডিয়াম হাইড্রোক্সাইড দিয়ে প্রশমিত করা হলো। প্রয়োজনীয় NaOH-এর ভর ও উৎপন্ন সোডিয়াম সালফেটের ভর বের করো। (S = ৩২)
+দেওয়া আছে: M(H₂SO₄) = ৯৮, M(NaOH) = ৪০, M(Na₂SO₄) = ১৪২
+সূত্র: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O
+হিসাব: H₂SO₄-এর মোল = ৯.৮ ÷ ৯৮ = ০.১ mol; NaOH = ২ × ০.১ = ০.২ mol = ৮.০ g; Na₂SO₄ = ০.১ mol = ১৪.২ g
+> প্রতিটি H₂SO₄ দুটি H⁺ দেয়, তাই দুটি NaOH লাগে।
+উত্তর: ৮.০ g NaOH; ১৪.২ g Na₂SO₄।
+## example
+প্রশ্ন: একটি এন্টাসিড ট্যাবলেটে ০.৫৮ g ম্যাগনেসিয়াম হাইড্রোক্সাইড আছে। এটি পাকস্থলীর কত গ্রাম HCl প্রশমিত করতে পারবে? (Mg = ২৪)
+দেওয়া আছে: M(Mg(OH)₂) = ২৪ + ২ × ১৭ = ৫৮
+সূত্র: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O
+হিসাব: Mg(OH)₂-এর মোল = ০.৫৮ ÷ ৫৮ = ০.০১ mol; HCl = ২ × ০.০১ = ০.০২ mol = ০.০২ × ৩৬.৫ = ০.৭৩ g
+উত্তর: ০.৭৩ g HCl।
+## example
+প্রশ্ন: একটি টাইট্রেশনে ২৫ mL ০.১ M HCl-কে ০.১ M NaOH দিয়ে প্রশমিত করা হলো। কত আয়তন NaOH লাগবে? এসিডটি ২০ mL ০.১ M H₂SO₄ হলে কত লাগত?
+সূত্র: HCl: V_{a} × S_{a} = V_{b} × S_{b}; H₂SO₄: ২ × V_{a} × S_{a} = V_{b} × S_{b}
+হিসাব: HCl: V_{b} = ২৫ × ০.১ ÷ ০.১ = ২৫ mL। H₂SO₄: V_{b} = ২ × ২০ × ০.১ ÷ ০.১ = ৪০ mL
+উত্তর: HCl-এর জন্য ২৫ mL; H₂SO₄-এর জন্য ৪০ mL।
+## mistakes
+x সব লবণের দ্রবণ নিরপেক্ষ।
+v শুধু তীব্র এসিড ও তীব্র ক্ষারের লবণ (NaCl, Na₂SO₄) নিরপেক্ষ। Na₂CO₃-এর দ্রবণ ক্ষারীয়; NH₄Cl ও FeCl₃-এর দ্রবণ এসিডীয়।
+x লবণ মানে শুধু খাবার লবণ, NaCl।
+v NaCl একটি লবণ মাত্র। CuSO₄, CaCO₃, KNO₃, NH₄Cl সহ আরও অনেক যৌগই লবণ।
+x যেকোনো এসিডের ১ mol, ১ mol NaOH-কে প্রশমিত করে।
+v নির্ভর করে প্রতিটি এসিড অণু কয়টি H⁺ দেয় তার ওপর: ১ mol H₂SO₄-এ ২ mol NaOH লাগে।
+## remember
+- এসিড + ক্ষারক → লবণ + পানি; মূল ধাপ H⁺ + OH⁻ → H₂O; তাপ বের হয়।
+- পরিমাণ বের করতে সমতাকৃত সমীকরণের মোল অনুপাত ব্যবহার করো: ১ HCl : ১ NaOH; ১ H₂SO₄ : ২ NaOH।
+- টাইট্রেশনে নির্দেশক দিয়ে প্রশমন বিন্দু বের করা হয়: H⁺-এর মোল = OH⁻-এর মোল।
+- দৈনন্দিন জীবনে: এন্টাসিড [Al(OH)₃, Mg(OH)₂], ক্ষারীয় টুথপেস্ট, এসিডীয় মাটিতে চুন।
+- লবণ = ক্ষারকীয় মূলক (+, ক্ষারক থেকে) + অম্লীয় মূলক (−, এসিড থেকে)।
+- তীব্র এসিড + তীব্র ক্ষার → নিরপেক্ষ; তীব্র এসিড + মৃদু ক্ষারক → এসিডীয়; মৃদু এসিড + তীব্র ক্ষার → ক্ষারীয়।
+## think
+এসিডিটি সারাতে NaOH-এর দ্রবণ খাওয়ার চেয়ে Mg(OH)₂-এর মতো মৃদু ক্ষারকের এন্টাসিড খাওয়া ভালো কেন?
+## quiz
+? প্রতিটি এসিড–ক্ষার প্রশমন বিক্রিয়ার মূল বিক্রিয়া কোনটি?
+- Na⁺ + Cl⁻ → NaCl
+* H⁺ + OH⁻ → H₂O
+- H₂ + O₂ → H₂O
+- CO₃²⁻ + 2H⁺ → CO₂ + H₂O
+= এসিডের H⁺ আর ক্ষারের OH⁻ মিলে পানি তৈরি করে।
+? এক মোল সালফিউরিক এসিড কত মোল NaOH-কে সম্পূর্ণ প্রশমিত করে?
+- ০.৫
+- ১
+* ২
+- ৪
+= H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O।
+? FeCl₃-এর জলীয় দ্রবণের প্রকৃতি কী?
+* এসিডীয়
+- ক্ষারীয়
+- নিরপেক্ষ
+- এটি দ্রবীভূত হয় না
+= FeCl₃ তীব্র এসিড (HCl) ও মৃদু ক্ষারক [Fe(OH)₃]-এর লবণ, তাই এর দ্রবণ এসিডীয়।
+? এন্টাসিডের কোন পদার্থ পাকস্থলীর এসিড প্রশমিত করে?
+- সোডিয়াম ক্লোরাইড
+* ম্যাগনেসিয়াম হাইড্রোক্সাইড
+- সাইট্রিক এসিড
+- সালফিউরিক এসিড
+= Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O।
+? লবণে ক্ষারক থেকে আসা ধনাত্মক আয়নকে বলে:
+- অম্লীয় মূলক
+* ক্ষারকীয় মূলক
+- হাইড্রোক্সাইড আয়ন
+- নির্দেশক
+= ক্ষারক থেকে আসা ধনাত্মক আয়ন = ক্ষারকীয় মূলক; এসিড থেকে আসা ঋণাত্মক আয়ন = অম্লীয় মূলক।
+
+@@ 9.6
+@visual k9rain
+@related 9.4 9.5 9.7 9.1
+== en
+## what
+**Acid rain** is rain that has become more acidic than normal because oxides of sulfur and nitrogen in the air dissolve in rain water to form sulfuric and nitric acids. Normal rain is already slightly acidic (pH about 5.6); acid rain has a lower pH, often around 4 or even less.
+## simple
+**Even clean rain is a little acidic.** Oxides of non-metals react with water to form acids. The air always contains some carbon dioxide (we breathe it out), and it dissolves in raindrops to form weak carbonic acid:
+
+CO₂(g) + H₂O(l) ⇌ H₂CO₃(aq)
+
+Lightning also plays a part. The air in a lightning flash becomes extremely hot (many thousands of degrees), hot enough to make nitrogen and oxygen react:
+- N₂(g) + O₂(g) → 2NO(g)
+- 2NO(g) + O₂(g) → 2NO₂(g)
+- 2NO₂(g) + H₂O(l) → HNO₂(aq) + HNO₃(aq)
+
+Because of these natural acids, ordinary rain has a pH of about 5–6 (close to 5.6).
+
+**How people make rain more acidic.** Coal, diesel, furnace oil and the fuels burned in brick kilns contain sulfur and nitrogen compounds. When they burn, they release **sulfur dioxide (SO₂)** and **nitrogen oxides (NO, NO₂)**. Vehicles, power plants and factories add NO₂ and extra CO₂. In the air these gases are oxidised and dissolve in cloud droplets:
+- S(s) + O₂(g) → SO₂(g)
+- SO₂(g) + H₂O(l) → H₂SO₃(aq) (sulfurous acid)
+- 2SO₂(g) + O₂(g) → 2SO₃(g)
+- SO₃(g) + H₂O(l) → H₂SO₄(aq) (sulfuric acid)
+- 4NO₂(g) + O₂(g) + 2H₂O(l) → 4HNO₃(aq) (nitric acid)
+
+Sulfuric and nitric acids are strong acids, so even small amounts lower the pH a lot. In polluted areas the pH of rain can drop to **4 or below**. Scientists usually call any rain with a pH below about 5.6 acid rain; the book describes the serious cases, pH 4 or less.
+
+**Harmful effects**
+- **Soil:** the pH of soil falls, useful nutrients (Ca²⁺, Mg²⁺, K⁺) wash away and harmful metal ions such as Al³⁺ are released. Crops and trees grow poorly; leaves get damaged.
+- **Water bodies:** ponds, rivers and lakes become acidic. Fish eggs fail to hatch below about pH 5, and many fish die below about pH 4.5. Fish production falls.
+- **Buildings and statues:** marble and limestone (CaCO₃) slowly dissolve:
+- CaCO₃(s) + H₂SO₄(aq) → CaSO₄(s) + H₂O(l) + CO₂(g)
+- **Metals:** iron bridges, railway lines and tin roofs corrode faster: Fe(s) + H₂SO₄(aq) → FeSO₄(aq) + H₂(g).
+- **Health:** the same SO₂ and NO₂ that cause acid rain irritate the lungs and worsen asthma and bronchitis.
+
+**Prevention**
+- Use low-sulfur fuels; remove sulfur from coal and oil before burning.
+- Fit **scrubbers** in chimneys: lime or limestone absorbs SO₂ before it escapes (CaO + SO₂ → CaSO₃).
+- Fit **catalytic converters** to vehicles to cut NO₂; keep engines well tuned.
+- Replace old fixed-chimney brick kilns with cleaner designs; plant trees; use public transport, solar power and other clean energy.
+- Add lime to acidified lakes and fields to neutralise the acid ([[9.5|lesson 9.5]]).
+## analogy
+The sky works like a giant glass of lemonade being mixed. Clean air adds only a pinch of "lemon" (CO₂), so rain is just slightly sour. Every chimney and exhaust pipe squeezes in another lemon (SO₂, NO₂). Mixed with the cloud water, the drink turns sharply sour before it pours down on fields, ponds and buildings.
+## definition
+**Acid rain (এসিড বৃষ্টি)**: rain (or snow, fog) whose pH is lower than that of normal rain (about 5.6), mainly because sulfuric acid and nitric acid formed from sulfur dioxide and nitrogen oxides in the air have dissolved in it.
+
+**Main pollutants**: SO₂ (from burning sulfur-containing fuel, e.g. coal in power plants and brick kilns) and NO/NO₂ (from vehicles, power plants and lightning).
+## why
+Why does rain with only a little pollution become so acidic? SO₂ and NO₂ turn into strong acids that ionise completely, while the natural carbonic acid is weak and ionises only slightly. A small amount of strong acid therefore adds far more H⁺ than a large amount of CO₂. And since pH is logarithmic, rain at pH 4.6 is already ten times more acidic than normal rain at 5.6. Why does marble crumble? The H⁺ ions react with the carbonate ions in CaCO₃, turning them into CO₂ gas and water, so the solid stone slowly dissolves.
+## terms
+Acid rain (এসিড বৃষ্টি) | Rain with pH below that of normal rain (≈ 5.6)
+Sulfur dioxide (SO₂) | Gas from burning sulfur-containing fuel; forms H₂SO₃/H₂SO₄
+Nitrogen dioxide (NO₂) | Brown gas from engines and lightning; forms HNO₃
+Carbonic acid (H₂CO₃) | Weak acid from CO₂ + water; makes normal rain slightly acidic
+Scrubber | Device in a chimney that removes SO₂ using lime
+Catalytic converter | Device in a vehicle exhaust that reduces nitrogen oxides
+## visual
+Move the sliders for sulfur-rich fuel burning and vehicle exhaust. Watch the pH of the rain change, and see what happens to the pond's fish, the marble statue and the crops.
+## real
+Brick kilns around Dhaka, Narayanganj and Gazipur burn huge amounts of coal each dry season and are among the biggest sources of SO₂ in the country, along with traffic exhaust. Scientists have measured rain samples with a pH below 5.6 in some industrial areas of Bangladesh. The government now encourages modern zigzag and Hybrid Hoffmann kilns and concrete blocks to cut this pollution.
+## example
+Q: Rain in a polluted area has pH 4.6 and normal rain has pH 5.6. How many times more H⁺ does the polluted rain contain?
+Given: pH₁ = 4.6, pH₂ = 5.6
+Formula: [H⁺] = 10^{−pH}
+Calculation: ratio = 10^{−4.6} ÷ 10^{−5.6} = 10^{1} = 10
+Answer: 10 times more H⁺.
+## example
+Q: A brick kiln burns 1 kg of coal containing 2% sulfur. What mass of SO₂ is produced, and what mass of sulfuric acid could it finally form? (S = 32, O = 16, H = 1)
+Given: mass of S = 2% of 1000 g = 20 g
+Formula: S + O₂ → SO₂; overall 1 mol S → 1 mol SO₂ → 1 mol H₂SO₄
+Calculation: moles of S = 20 ÷ 32 = 0.625 mol; SO₂ = 0.625 × 64 = 40 g; H₂SO₄ = 0.625 × 98 = 61.25 g
+Answer: 40 g of SO₂, enough to form about 61 g of sulfuric acid.
+## example
+Q: A marble statue is attacked by acid rain. What mass of marble (CaCO₃) can be dissolved by 0.98 g of sulfuric acid? (Ca = 40, C = 12)
+Formula: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂ (1 : 1)
+Calculation: moles of H₂SO₄ = 0.98 ÷ 98 = 0.01 mol; CaCO₃ = 0.01 mol = 0.01 × 100 = 1.0 g
+Answer: 1.0 g of marble.
+## mistakes
+x Any rain with a pH below 7 is acid rain.
+v Normal rain is naturally slightly acidic (pH ≈ 5.6) because of dissolved CO₂. Only rain more acidic than this is called acid rain.
+x Acid rain is caused mainly by carbon dioxide.
+v CO₂ forms only a weak acid. The main culprits are SO₂ and nitrogen oxides, which form strong sulfuric and nitric acids.
+x Acid rain only harms the place where the pollution is produced.
+v Winds carry SO₂ and NO₂ hundreds of kilometres, so acid rain can fall far away from the chimneys.
+## remember
+- Normal rain pH ≈ 5.6 (CO₂ + H₂O ⇌ H₂CO₃).
+- Acid rain: SO₂ → H₂SO₃/H₂SO₄ and NO₂ → HNO₃ lower the pH, often to 4 or below.
+- Sources: coal and oil burning (power plants, brick kilns), vehicles, factories; lightning (NO).
+- Harms: acidic soil, poor crops, fish deaths, corroded metal, crumbling marble (CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂).
+- Prevention: low-sulfur fuel, scrubbers, catalytic converters, cleaner kilns, clean energy, liming.
+## think
+Why might acid rain damage a marble monument more in a city than in a village, even if both get the same amount of rain?
+## quiz
+? The pH of normal (unpolluted) rain is about:
+- 7.0
+* 5.6
+- 3.0
+- 8.5
+= Dissolved CO₂ forms weak carbonic acid, giving a pH of about 5.6.
+? Which gas is mainly responsible for acid rain from coal-burning brick kilns?
+- Oxygen
+- Nitrogen
+* Sulfur dioxide
+- Helium
+= Sulfur in coal burns to SO₂, which forms sulfurous and sulfuric acids.
+? Acid rain damages marble because:
+- Marble is a metal
+* The acid reacts with calcium carbonate and releases CO₂
+- Marble absorbs water and swells
+- Marble is an alkali that turns into acid
+= CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂.
+? Which of these helps reduce acid rain?
+- Burning more high-sulfur coal
+* Fitting scrubbers in power-plant chimneys
+- Cutting down forests
+- Using more old vehicles
+= Scrubbers remove SO₂ with lime before it reaches the air.
+== bn
+## what
+বাতাসে থাকা সালফার ও নাইট্রোজেনের অক্সাইড বৃষ্টির পানিতে দ্রবীভূত হয়ে সালফিউরিক ও নাইট্রিক এসিড তৈরি করলে বৃষ্টি স্বাভাবিকের চেয়ে বেশি এসিডীয় হয়ে যায়; একে **এসিড বৃষ্টি** বলে। স্বাভাবিক বৃষ্টিও সামান্য এসিডীয় (pH প্রায় ৫.৬); এসিড বৃষ্টির pH আরও কম, প্রায়ই ৪ বা তারও নিচে।
+## simple
+**পরিষ্কার বৃষ্টিও একটু এসিডীয়।** অধাতুর অক্সাইড পানির সাথে বিক্রিয়া করে এসিড তৈরি করে। বাতাসে সবসময় কিছু কার্বন ডাইঅক্সাইড থাকে (আমরা শ্বাসে ছাড়ি), যা বৃষ্টির ফোঁটায় দ্রবীভূত হয়ে মৃদু কার্বনিক এসিড তৈরি করে:
+
+CO₂(g) + H₂O(l) ⇌ H₂CO₃(aq)
+
+বজ্রপাতেরও ভূমিকা আছে। বিদ্যুৎ চমকানোর সময় বাতাস অত্যন্ত গরম হয়ে যায় (কয়েক হাজার ডিগ্রি), এত গরম যে নাইট্রোজেন আর অক্সিজেন বিক্রিয়া করে:
+- N₂(g) + O₂(g) → 2NO(g)
+- 2NO(g) + O₂(g) → 2NO₂(g)
+- 2NO₂(g) + H₂O(l) → HNO₂(aq) + HNO₃(aq)
+
+এসব প্রাকৃতিক এসিডের জন্য সাধারণ বৃষ্টির pH প্রায় ৫–৬ (৫.৬-এর কাছাকাছি)।
+
+**মানুষ কীভাবে বৃষ্টিকে বেশি এসিডীয় করে।** কয়লা, ডিজেল, ফার্নেস অয়েল আর ইটভাটায় পোড়ানো জ্বালানিতে সালফার ও নাইট্রোজেনের যৌগ থাকে। এগুলো পুড়লে **সালফার ডাইঅক্সাইড (SO₂)** আর **নাইট্রোজেনের অক্সাইড (NO, NO₂)** বের হয়। যানবাহন, বিদ্যুৎকেন্দ্র আর কলকারখানা বাড়তি NO₂ ও CO₂ যোগ করে। বাতাসে এই গ্যাসগুলো জারিত হয়ে মেঘের ফোঁটায় দ্রবীভূত হয়:
+- S(s) + O₂(g) → SO₂(g)
+- SO₂(g) + H₂O(l) → H₂SO₃(aq) (সালফিউরাস এসিড)
+- 2SO₂(g) + O₂(g) → 2SO₃(g)
+- SO₃(g) + H₂O(l) → H₂SO₄(aq) (সালফিউরিক এসিড)
+- 4NO₂(g) + O₂(g) + 2H₂O(l) → 4HNO₃(aq) (নাইট্রিক এসিড)
+
+সালফিউরিক আর নাইট্রিক এসিড তীব্র এসিড, তাই অল্প পরিমাণেও pH অনেক কমে যায়। দূষিত এলাকায় বৃষ্টির pH **৪ বা তারও নিচে** নেমে যেতে পারে। বিজ্ঞানীরা সাধারণত pH প্রায় ৫.৬-এর কম যেকোনো বৃষ্টিকেই এসিড বৃষ্টি বলেন; বইয়ে গুরুতর ক্ষেত্রগুলো, অর্থাৎ pH ৪ বা তার কম, বর্ণনা করা হয়েছে।
+
+**ক্ষতিকর প্রভাব**
+- **মাটি:** মাটির pH কমে যায়, উপকারী পুষ্টি (Ca²⁺, Mg²⁺, K⁺) ধুয়ে যায়, আর Al³⁺-এর মতো ক্ষতিকর ধাতব আয়ন মুক্ত হয়। ফসল ও গাছ ঠিকমতো বাড়ে না; পাতা নষ্ট হয়।
+- **জলাশয়:** পুকুর, নদী, হ্রদ এসিডীয় হয়ে যায়। pH প্রায় ৫-এর নিচে মাছের ডিম ফোটে না, আর প্রায় ৪.৫-এর নিচে অনেক মাছ মারা যায়। মৎস্য উৎপাদন কমে যায়।
+- **দালান ও ভাস্কর্য:** মার্বেল আর চুনাপাথর (CaCO₃) ধীরে ধীরে ক্ষয়ে যায়:
+- CaCO₃(s) + H₂SO₄(aq) → CaSO₄(s) + H₂O(l) + CO₂(g)
+- **ধাতু:** লোহার সেতু, রেললাইন আর টিনের চাল দ্রুত ক্ষয় হয়: Fe(s) + H₂SO₄(aq) → FeSO₄(aq) + H₂(g)।
+- **স্বাস্থ্য:** যে SO₂ আর NO₂ এসিড বৃষ্টি ঘটায়, সেগুলোই ফুসফুসে জ্বালা করে এবং হাঁপানি ও ব্রংকাইটিস বাড়ায়।
+
+**প্রতিকার**
+- কম সালফারযুক্ত জ্বালানি ব্যবহার করা; পোড়ানোর আগে কয়লা ও তেল থেকে সালফার সরানো।
+- চিমনিতে **স্ক্রাবার** বসানো: চুন বা চুনাপাথর SO₂ বের হওয়ার আগেই শোষণ করে নেয় (CaO + SO₂ → CaSO₃)।
+- যানবাহনে **ক্যাটালিটিক কনভার্টার** লাগিয়ে NO₂ কমানো; ইঞ্জিন ঠিকঠাক রাখা।
+- পুরোনো স্থির-চিমনির ইটভাটার বদলে পরিচ্ছন্ন নকশার ভাটা; গাছ লাগানো; গণপরিবহন, সৌরবিদ্যুৎ ও অন্য পরিচ্ছন্ন শক্তি ব্যবহার।
+- এসিডীয় জলাশয় ও জমিতে চুন দিয়ে এসিড প্রশমিত করা ([[9.5|পাঠ ৯.৫]])।
+## analogy
+আকাশটাকে ভাবো লেবুর শরবতের বিশাল এক গ্লাস। পরিষ্কার বাতাস দেয় সামান্য একটু "লেবু" (CO₂), তাই বৃষ্টি হালকা টক। প্রতিটি চিমনি আর ধোঁয়ার পাইপ আরেকটা করে লেবু চিপে দেয় (SO₂, NO₂)। মেঘের পানির সাথে মিশে শরবতটা খুব টক হয়ে যায়, তারপর ঝরে পড়ে খেতে, পুকুরে আর দালানে।
+## definition
+**এসিড বৃষ্টি**: যে বৃষ্টির (বা তুষার, কুয়াশার) pH স্বাভাবিক বৃষ্টির (প্রায় ৫.৬) চেয়ে কম, প্রধানত বাতাসের সালফার ডাইঅক্সাইড ও নাইট্রোজেনের অক্সাইড থেকে তৈরি সালফিউরিক ও নাইট্রিক এসিড দ্রবীভূত হওয়ার কারণে।
+
+**প্রধান দূষক**: SO₂ (সালফারযুক্ত জ্বালানি পোড়ানো থেকে, যেমন বিদ্যুৎকেন্দ্র ও ইটভাটার কয়লা) এবং NO/NO₂ (যানবাহন, বিদ্যুৎকেন্দ্র ও বজ্রপাত থেকে)।
+## why
+অল্প দূষণেই বৃষ্টি এত এসিডীয় হয় কেন? SO₂ আর NO₂ তীব্র এসিডে পরিণত হয়, যা সম্পূর্ণ আয়নিত হয়; অথচ প্রাকৃতিক কার্বনিক এসিড মৃদু, সামান্য আয়নিত হয়। তাই অনেক CO₂-এর চেয়ে অল্প তীব্র এসিডও বহুগুণ বেশি H⁺ যোগ করে। আর pH লগারিদমিক বলে pH ৪.৬-এর বৃষ্টি স্বাভাবিক ৫.৬-এর বৃষ্টির চেয়েই দশ গুণ বেশি এসিডীয়। মার্বেল ক্ষয়ে যায় কেন? H⁺ আয়ন CaCO₃-এর কার্বনেট আয়নের সাথে বিক্রিয়া করে তাকে CO₂ গ্যাস ও পানিতে পরিণত করে, ফলে শক্ত পাথর ধীরে ধীরে গলে যায়।
+## terms
+এসিড বৃষ্টি | স্বাভাবিক বৃষ্টির (≈ ৫.৬) চেয়ে কম pH-এর বৃষ্টি
+সালফার ডাইঅক্সাইড (SO₂) | সালফারযুক্ত জ্বালানি পোড়ানোর গ্যাস; H₂SO₃/H₂SO₄ তৈরি করে
+নাইট্রোজেন ডাইঅক্সাইড (NO₂) | ইঞ্জিন ও বজ্রপাতের বাদামি গ্যাস; HNO₃ তৈরি করে
+কার্বনিক এসিড (H₂CO₃) | CO₂ + পানি থেকে মৃদু এসিড; স্বাভাবিক বৃষ্টিকে সামান্য এসিডীয় করে
+স্ক্রাবার | চিমনির যে যন্ত্র চুন দিয়ে SO₂ সরায়
+ক্যাটালিটিক কনভার্টার | যানবাহনের ধোঁয়ার পাইপের যে যন্ত্র নাইট্রোজেনের অক্সাইড কমায়
+## visual
+সালফারযুক্ত জ্বালানি পোড়ানো আর যানবাহনের ধোঁয়ার স্লাইডার সরাও। বৃষ্টির pH কীভাবে বদলায় দেখো, আর পুকুরের মাছ, মার্বেলের মূর্তি ও ফসলের কী হয় লক্ষ করো।
+## real
+ঢাকা, নারায়ণগঞ্জ ও গাজীপুরের আশপাশের ইটভাটাগুলো প্রতি শুকনো মৌসুমে বিপুল পরিমাণ কয়লা পোড়ায়, আর যানবাহনের ধোঁয়ার সাথে এরাই দেশে SO₂-এর সবচেয়ে বড় উৎসগুলোর একটি। বাংলাদেশের কিছু শিল্প এলাকায় বিজ্ঞানীরা ৫.৬-এর কম pH-এর বৃষ্টির নমুনা পেয়েছেন। এই দূষণ কমাতে সরকার এখন আধুনিক জিগজ্যাগ ও হাইব্রিড হফম্যান ভাটা আর কংক্রিট ব্লক ব্যবহারে উৎসাহ দিচ্ছে।
+## example
+প্রশ্ন: একটি দূষিত এলাকার বৃষ্টির pH ৪.৬ আর স্বাভাবিক বৃষ্টির pH ৫.৬। দূষিত বৃষ্টিতে কত গুণ বেশি H⁺ আছে?
+দেওয়া আছে: pH₁ = ৪.৬, pH₂ = ৫.৬
+সূত্র: [H⁺] = ১০^{−pH}
+হিসাব: অনুপাত = ১০^{−৪.৬} ÷ ১০^{−৫.৬} = ১০^{১} = ১০
+উত্তর: ১০ গুণ বেশি H⁺।
+## example
+প্রশ্ন: একটি ইটভাটা ২% সালফারযুক্ত ১ kg কয়লা পোড়ায়। কত গ্রাম SO₂ তৈরি হয়, আর শেষ পর্যন্ত তা থেকে কত গ্রাম সালফিউরিক এসিড তৈরি হতে পারে? (S = ৩২, O = ১৬, H = ১)
+দেওয়া আছে: S-এর ভর = ১০০০ g-এর ২% = ২০ g
+সূত্র: S + O₂ → SO₂; সব মিলিয়ে ১ mol S → ১ mol SO₂ → ১ mol H₂SO₄
+হিসাব: S-এর মোল = ২০ ÷ ৩২ = ০.৬২৫ mol; SO₂ = ০.৬২৫ × ৬৪ = ৪০ g; H₂SO₄ = ০.৬২৫ × ৯৮ = ৬১.২৫ g
+উত্তর: ৪০ g SO₂, যা থেকে প্রায় ৬১ g সালফিউরিক এসিড তৈরি হতে পারে।
+## example
+প্রশ্ন: এসিড বৃষ্টিতে একটি মার্বেলের মূর্তি ক্ষয় হচ্ছে। ০.৯৮ g সালফিউরিক এসিড কত গ্রাম মার্বেল (CaCO₃) গলাতে পারে? (Ca = ৪০, C = ১২)
+সূত্র: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂ (১ : ১)
+হিসাব: H₂SO₄-এর মোল = ০.৯৮ ÷ ৯৮ = ০.০১ mol; CaCO₃ = ০.০১ mol = ০.০১ × ১০০ = ১.০ g
+উত্তর: ১.০ g মার্বেল।
+## mistakes
+x pH ৭-এর কম যেকোনো বৃষ্টিই এসিড বৃষ্টি।
+v দ্রবীভূত CO₂-এর জন্য স্বাভাবিক বৃষ্টি এমনিতেই সামান্য এসিডীয় (pH ≈ ৫.৬)। শুধু এর চেয়ে বেশি এসিডীয় বৃষ্টিকেই এসিড বৃষ্টি বলে।
+x এসিড বৃষ্টির প্রধান কারণ কার্বন ডাইঅক্সাইড।
+v CO₂ শুধু মৃদু এসিড তৈরি করে। প্রধান দায়ী SO₂ আর নাইট্রোজেনের অক্সাইড, যা তীব্র সালফিউরিক ও নাইট্রিক এসিড তৈরি করে।
+x এসিড বৃষ্টি শুধু দূষণের উৎসের জায়গাতেই ক্ষতি করে।
+v বাতাস SO₂ ও NO₂-কে শত শত কিলোমিটার দূরে নিয়ে যায়, তাই চিমনি থেকে অনেক দূরেও এসিড বৃষ্টি হতে পারে।
+## remember
+- স্বাভাবিক বৃষ্টির pH ≈ ৫.৬ (CO₂ + H₂O ⇌ H₂CO₃)।
+- এসিড বৃষ্টি: SO₂ → H₂SO₃/H₂SO₄ আর NO₂ → HNO₃ pH কমায়, প্রায়ই ৪ বা তার নিচে।
+- উৎস: কয়লা ও তেল পোড়ানো (বিদ্যুৎকেন্দ্র, ইটভাটা), যানবাহন, কলকারখানা; বজ্রপাত (NO)।
+- ক্ষতি: এসিডীয় মাটি, কম ফসল, মাছের মৃত্যু, ধাতুর ক্ষয়, মার্বেলের ক্ষয় (CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂)।
+- প্রতিকার: কম সালফারের জ্বালানি, স্ক্রাবার, ক্যাটালিটিক কনভার্টার, পরিচ্ছন্ন ইটভাটা, পরিচ্ছন্ন শক্তি, চুন প্রয়োগ।
+## think
+একই পরিমাণ বৃষ্টি হলেও গ্রামের চেয়ে শহরে মার্বেলের স্মৃতিস্তম্ভ এসিড বৃষ্টিতে বেশি ক্ষতিগ্রস্ত হতে পারে কেন?
+## quiz
+? স্বাভাবিক (দূষণমুক্ত) বৃষ্টির pH প্রায়:
+- ৭.০
+* ৫.৬
+- ৩.০
+- ৮.৫
+= দ্রবীভূত CO₂ মৃদু কার্বনিক এসিড তৈরি করে, ফলে pH প্রায় ৫.৬ হয়।
+? কয়লা-পোড়ানো ইটভাটা থেকে এসিড বৃষ্টির জন্য প্রধানত কোন গ্যাস দায়ী?
+- অক্সিজেন
+- নাইট্রোজেন
+* সালফার ডাইঅক্সাইড
+- হিলিয়াম
+= কয়লার সালফার পুড়ে SO₂ হয়, যা সালফিউরাস ও সালফিউরিক এসিড তৈরি করে।
+? এসিড বৃষ্টি মার্বেলের ক্ষতি করে, কারণ:
+- মার্বেল একটি ধাতু
+* এসিড ক্যালসিয়াম কার্বনেটের সাথে বিক্রিয়া করে CO₂ ছাড়ে
+- মার্বেল পানি শুষে ফুলে ওঠে
+- মার্বেল একটি ক্ষার, যা এসিডে পরিণত হয়
+= CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂।
+? নিচের কোনটি এসিড বৃষ্টি কমাতে সাহায্য করে?
+- বেশি সালফারযুক্ত কয়লা আরও বেশি পোড়ানো
+* বিদ্যুৎকেন্দ্রের চিমনিতে স্ক্রাবার বসানো
+- বন উজাড় করা
+- আরও বেশি পুরোনো যানবাহন চালানো
+= স্ক্রাবার বাতাসে পৌঁছানোর আগেই চুন দিয়ে SO₂ সরিয়ে ফেলে।
+
+@@ 9.7
+@visual k9hard
+@related 9.4 9.6 9.1 9.5
+== en
+## what
+Water that does not easily form lather with soap is called **hard water**. **Temporary hardness** is caused by dissolved bicarbonates of calcium and magnesium and is removed by boiling; **permanent hardness** is caused by their chlorides and sulfates and is removed by adding washing soda. Water can also be **polluted**; we test its purity (colour, odour, temperature, pH, BOD, COD) and purify it by chlorination, boiling, sedimentation with alum and filtration.
+## simple
+"Pure water is life": plants and animals are mostly water, and all of them need a lot of clean water. We get water from rivers, canals, beels, ponds, the sea and tube-wells. As water flows over and through rocks and soil, it dissolves mineral salts. Rain water, freshly fallen from the **water cycle** (evaporation from seas and rivers → clouds → rain), contains very little dissolved salt, which is why it is soft.
+
+**9.7.1 Hardness of water**
+
+**Why soap will not lather.** Soap is the sodium (or potassium) salt of a long-chain organic acid, for example **sodium stearate, C₁₇H₃₅COONa**. When soap meets water containing Ca²⁺ or Mg²⁺ ions, it forms an insoluble, sticky **scum** instead of lather:
+
+2C₁₇H₃₅COONa(aq) + CaCl₂(aq) → (C₁₇H₃₅COO)₂Ca(s) + 2NaCl(aq)
+
+Until all the Ca²⁺ and Mg²⁺ have been used up this way, no lather forms: the soap is simply wasted. Iron and manganese salts also make water hard. The property of water that stops soap from cleaning properly is called **hardness**; water without it is **soft water**.
+
+**Temporary hardness** is caused by dissolved **bicarbonates** (HCO₃⁻) of calcium, magnesium or iron. It can be removed simply by **boiling**: the bicarbonate breaks down into an insoluble carbonate that settles at the bottom and can be filtered off.
+- Ca(HCO₃)₂(aq) →(heat) CaCO₃(s) + CO₂(g) + H₂O(l)
+- Mg(HCO₃)₂(aq) →(heat) MgCO₃(s) + CO₂(g) + H₂O(l)
+
+That white crust inside a kettle or a rice pot is this CaCO₃: **scale**.
+
+**Permanent hardness** is caused by dissolved **chlorides or sulfates** of calcium, magnesium or iron. Boiling does **not** remove it. Adding **sodium carbonate** (washing soda) precipitates the calcium and magnesium as carbonates:
+- CaCl₂(aq) + Na₂CO₃(aq) → CaCO₃(s) + 2NaCl(aq)
+- MgSO₄(aq) + Na₂CO₃(aq) → MgCO₃(s) + Na₂SO₄(aq)
+
+After filtering, the water is soft. (Water softeners in homes and factories often use ion-exchange resins, which swap Ca²⁺ and Mg²⁺ for Na⁺.)
+
+**Losses due to hard water:** wasted soap and detergent; scum on clothes, making them dull; scale inside kettles, pipes and boilers, which blocks water flow and wastes fuel because scale conducts heat poorly; in factory boilers, scale can cause overheating and even an explosion.
+
+**Some advantages of hard water:** its dissolved calcium and magnesium give drinking water a pleasant taste and supply minerals useful for bones and teeth; it also dissolves less lead from old lead pipes.
+
+**9.7.2 Water pollution and its control**
+
+**Causes:** household waste and sewage washed into water bodies; hospital waste; fertilisers and pesticides washed off fields; chemical waste dumped by factories (for example textile dyeing, tanneries); fuel and oil from boats and vehicles. Such water becomes foul-smelling and poisonous. Heavy metals such as **lead, cadmium, mercury and chromium** from industrial waste can cause serious illnesses, including cancer.
+
+**Arsenic.** Groundwater can also be contaminated. In many parts of Bangladesh the water of shallow tube-wells contains **arsenic**, a poison. Drinking arsenic-contaminated water for a long time causes skin lesions, organ damage and cancer, and can be fatal. Tube-wells tested as unsafe are painted red; safe ones green.
+
+**Control:**
+- Sewage treatment plants in cities (there are still too few). Sewage and kitchen waste can produce **biogas**, electricity and organic fertiliser; small biogas plants turn this waste into something useful.
+- By the Department of Environment's rules, every industry must have an **effluent treatment plant (ETP)**; industrial waste must never be dumped directly into open water. Citizens can report violations to the Department of Environment.
+- Public awareness and public opinion are the strongest weapons against water pollution.
+
+**9.7.3 Testing the purity of water**
+- **Colour and odour:** pure water is colourless, odourless and transparent, with only small amounts of dissolved minerals. Any smell, floating matter, or residue left on filtering means the water is polluted.
+- **Temperature:** surface water in summer is usually 30–35 °C, sometimes up to 40 °C. If hot water from power plants or boilers is released into a river, its temperature rises a few degrees: **heat pollution**, which lowers the dissolved oxygen fish need. A thermometer detects it.
+- **pH:** water with a pH below 4.5 or above 9.5 is harmful to living things (drinking water in Bangladesh should be about 6.5–8.5). Check with pH paper or a pH meter ([[9.4|lesson 9.4]]).
+- **BOD (biochemical oxygen demand):** the amount of oxygen that micro-organisms such as bacteria need to break down the biodegradable organic pollutants in 1 litre of water. Higher BOD → more polluted.
+- **COD (chemical oxygen demand):** the amount of oxygen needed to chemically break down **all** the organic and inorganic pollutants in 1 litre of water. Higher COD → more polluted. COD is always **greater than** BOD, because it counts all oxidisable matter, not only what bacteria can digest.
+
+**Purification of water**
+- **Chlorination:** adding a measured amount of **bleaching powder** releases chlorine, which oxidises and kills germs. After it settles, filter the water: it is fit to drink. This is the easiest way to disinfect water.
+- **Boiling:** boiling for 15–20 minutes kills germs. But boiling does **not** remove arsenic; in fact, as water evaporates, the arsenic becomes more concentrated and the water more harmful.
+- **Sedimentation with alum:** stir about one spoonful of powdered **alum** (ফিটকিরি, K₂SO₄·Al₂(SO₄)₃·24H₂O) into a bucket of water and leave it for half an hour. Suspended dirt clumps together and settles; pour off the clear water from the top. This removes insoluble impurities.
+- **Filtration:** modern household filters can remove germs, arsenic and other pollutants and give safe drinking water.
+## analogy
+Hard water is like a crowded bus stop where Ca²⁺ and Mg²⁺ "passengers" grab every soap molecule that arrives. Only when all those passengers have been taken away can the soap do its real job: making lather and lifting dirt. Boiling or washing soda simply clears the bus stop first.
+## definition
+**Hard water (খর পানি)**: water that does not readily form lather with soap because it contains dissolved salts of calcium, magnesium (or iron). **Soft water (মৃদু পানি)**: water that lathers easily with soap.
+
+**Temporary hardness (অস্থায়ী খরতা)**: hardness caused by bicarbonates of Ca, Mg or Fe; removed by boiling.
+
+**Permanent hardness (স্থায়ী খরতা)**: hardness caused by chlorides or sulfates of Ca, Mg or Fe; not removed by boiling, but removed by sodium carbonate.
+
+**BOD**: the mass of oxygen needed by micro-organisms to decompose the biodegradable organic matter in 1 L of water. **COD**: the mass of oxygen needed to chemically oxidise all the organic and inorganic matter in 1 L of water.
+## why
+Why does boiling remove only one kind of hardness? Calcium bicarbonate exists only in solution and is unstable to heat: heating drives out CO₂ and leaves insoluble CaCO₃, so the Ca²⁺ leaves the water. Calcium chloride and sulfate do not break down on heating, so Ca²⁺ stays dissolved. Adding carbonate ions from washing soda does the same job chemically: CO₃²⁻ grabs Ca²⁺ and Mg²⁺ and drags them out as insoluble carbonates. Why does alum clear muddy water? Its Al³⁺ ions neutralise the charges on tiny clay particles, so they stop repelling each other, stick together into bigger flakes and sink.
+## terms
+Hard water (খর পানি) | Does not lather easily; contains Ca²⁺/Mg²⁺ salts
+Soft water (মৃদু পানি) | Lathers easily with soap
+Temporary hardness (অস্থায়ী খরতা) | From bicarbonates; removed by boiling
+Permanent hardness (স্থায়ী খরতা) | From chlorides/sulfates; removed by washing soda
+Scale | CaCO₃ crust deposited in kettles and boilers
+Heat pollution (তাপ দূষণ) | Rise in water temperature from hot waste water
+BOD / COD | Oxygen demand for biological / chemical breakdown of pollutants in 1 L
+Chlorination (ক্লোরিনেশন) | Killing germs with chlorine from bleaching powder
+Alum (ফিটকিরি) | K₂SO₄·Al₂(SO₄)₃·24H₂O; used for sedimentation (থিতানো)
+## visual
+Choose a water sample and a treatment, then shake it with soap. Compare the lather and scum, and read the equation for what happened.
+## real
+In many districts of Bangladesh, tube-well water leaves orange-brown stains and white scale in cooking pots: iron and calcium salts at work. Garment and textile factories use water softeners before dyeing because hard water ruins colours. After floods, the Department of Public Health Engineering (DPHE) distributes water-purifying tablets and alum, and the red/green painting of tube-wells marks which are safe from arsenic.
+## example
+Q: A sample of water contains 16.2 g of calcium bicarbonate. What mass of calcium carbonate settles out when it is boiled? (Ca = 40, C = 12, O = 16, H = 1)
+Given: M(Ca(HCO₃)₂) = 40 + 2 × 61 = 162; M(CaCO₃) = 100
+Formula: Ca(HCO₃)₂ → CaCO₃ + CO₂ + H₂O (1 : 1)
+Calculation: moles = 16.2 ÷ 162 = 0.1 mol; CaCO₃ = 0.1 × 100 = 10 g
+Answer: 10 g of CaCO₃ (scale) is deposited.
+## example
+Q: A tank of water contains 1.11 g of dissolved CaCl₂. (a) What mass of sodium carbonate is needed to remove this hardness? (b) If it were not removed, what mass of soap (sodium stearate, M = 306) would be wasted? (Na = 23, Cl = 35.5)
+Given: M(CaCl₂) = 111; M(Na₂CO₃) = 106
+Formula: CaCl₂ + Na₂CO₃ → CaCO₃ + 2NaCl; 2C₁₇H₃₅COONa + CaCl₂ → (C₁₇H₃₅COO)₂Ca + 2NaCl
+Calculation: moles of CaCl₂ = 1.11 ÷ 111 = 0.01 mol; (a) Na₂CO₃ = 0.01 × 106 = 1.06 g; (b) soap = 2 × 0.01 = 0.02 mol = 0.02 × 306 = 6.12 g
+> One Ca²⁺ ties up two soap anions, so the soap needed is twice the moles of CaCl₂.
+Answer: (a) 1.06 g of Na₂CO₃; (b) 6.12 g of soap would be wasted.
+## mistakes
+x All hardness can be removed by boiling.
+v Boiling removes only temporary (bicarbonate) hardness. Permanent hardness (chlorides, sulfates) needs washing soda or ion exchange.
+x Boiling makes arsenic-contaminated water safe.
+v Boiling kills germs but does not remove arsenic; it concentrates it. Use a tested safe tube-well or an arsenic filter.
+x BOD is always greater than COD.
+v COD counts all oxidisable matter, so COD is always greater than BOD.
+x Clear, colourless water is always pure.
+v Water can look clear yet contain arsenic, germs or dissolved chemicals; it must be tested.
+## remember
+- Hard water: Ca²⁺/Mg²⁺ salts; soap forms scum, not lather.
+- Temporary hardness: bicarbonates; boiling: Ca(HCO₃)₂ → CaCO₃ + CO₂ + H₂O.
+- Permanent hardness: chlorides/sulfates; washing soda: CaCl₂ + Na₂CO₃ → CaCO₃ + 2NaCl.
+- Hard water wastes soap and fuel, forms scale, can make boilers burst; but it tastes better and supplies minerals.
+- Pollution: sewage, factory waste, fertilisers, pesticides, heavy metals; arsenic in groundwater.
+- Tests: colour, odour, temperature, pH (4.5–9.5 limit), BOD, COD (COD > BOD).
+- Purification: chlorination (bleaching powder), boiling 15–20 min (not for arsenic), alum sedimentation, filtration.
+## think
+A village family boils their tube-well water for 20 minutes every day, yet the water still tastes of metal and leaves white scale. What might be dissolved in it, and what would you advise them to do?
+## quiz
+? Temporary hardness of water is caused by:
+- Calcium chloride
+- Magnesium sulfate
+* Calcium bicarbonate
+- Sodium chloride
+= Bicarbonates of Ca and Mg cause temporary hardness, which boiling removes.
+? Which substance removes permanent hardness?
+- Heat alone
+* Sodium carbonate
+- Sodium chloride
+- Sugar
+= Na₂CO₃ precipitates Ca²⁺ and Mg²⁺ as insoluble carbonates.
+? Which statement about BOD and COD is correct?
+- BOD is always greater than COD
+* COD is always greater than BOD
+- They are always equal
+- A higher BOD means cleaner water
+= COD measures oxygen for all pollutants, BOD only for those microbes can break down.
+? Why is boiling not a solution for arsenic-contaminated water?
+- It adds arsenic
+* It does not remove arsenic and makes it more concentrated
+- It turns arsenic into a gas that escapes
+- Arsenic is killed at 100 °C
+= As water evaporates the arsenic is left behind in less water.
+? Alum is used in water purification to:
+- Kill germs
+- Remove arsenic
+* Make suspended particles settle
+- Make the water hard
+= Alum clumps fine suspended particles so they settle (sedimentation).
+== bn
+## what
+যে পানিতে সাবান সহজে ফেনা তৈরি করে না, তাকে **খর পানি** বলে। ক্যালসিয়াম ও ম্যাগনেসিয়ামের দ্রবীভূত বাইকার্বনেট থেকে হয় **অস্থায়ী খরতা**, যা ফোটালেই দূর হয়; এদের ক্লোরাইড ও সালফেট থেকে হয় **স্থায়ী খরতা**, যা কাপড় কাচার সোডা দিয়ে দূর করা হয়। পানি **দূষিতও** হতে পারে; রং, গন্ধ, তাপমাত্রা, pH, BOD, COD দিয়ে এর বিশুদ্ধতা পরীক্ষা করা হয়, আর ক্লোরিনেশন, ফোটানো, ফিটকিরি দিয়ে থিতানো ও ছাঁকনের মাধ্যমে বিশুদ্ধ করা হয়।
+## simple
+"পানির অপর নাম জীবন": উদ্ভিদ ও প্রাণীর দেহের বেশির ভাগই পানি, আর সবারই প্রচুর বিশুদ্ধ পানি দরকার। আমরা পানি পাই নদী, খাল, বিল, পুকুর, সমুদ্র আর নলকূপ থেকে। পাথর আর মাটির ওপর দিয়ে ও ভেতর দিয়ে বয়ে যাওয়ার সময় পানি খনিজ লবণ দ্রবীভূত করে নেয়। **পানিচক্র** থেকে সদ্য আসা বৃষ্টির পানিতে (সমুদ্র-নদী থেকে বাষ্পীভবন → মেঘ → বৃষ্টি) দ্রবীভূত লবণ খুব কম, তাই এটি মৃদু।
+
+**৯.৭.১ পানির খরতা**
+
+**সাবান কেন ফেনা তৈরি করে না।** সাবান হলো দীর্ঘ শিকলের জৈব এসিডের সোডিয়াম (বা পটাসিয়াম) লবণ, যেমন **সোডিয়াম স্টিয়ারেট, C₁₇H₃₅COONa**। Ca²⁺ বা Mg²⁺ আয়নযুক্ত পানিতে সাবান ফেনার বদলে অদ্রবণীয় চটচটে **গাদ** তৈরি করে:
+
+2C₁₇H₃₅COONa(aq) + CaCl₂(aq) → (C₁₇H₃₅COO)₂Ca(s) + 2NaCl(aq)
+
+সব Ca²⁺ আর Mg²⁺ এভাবে খরচ না হওয়া পর্যন্ত ফেনা হয় না: সাবান শুধু নষ্ট হয়। আয়রন ও ম্যাঙ্গানিজের লবণও পানিকে খর করে। পানির যে ধর্মের কারণে সাবান ময়লা ঠিকমতো পরিষ্কার করতে পারে না, তাকে **খরতা** বলে; খরতাহীন পানি **মৃদু পানি**।
+
+**অস্থায়ী খরতা** হয় ক্যালসিয়াম, ম্যাগনেসিয়াম বা আয়রনের দ্রবীভূত **বাইকার্বনেট** (HCO₃⁻) থেকে। শুধু **ফোটালেই** এটি দূর হয়: বাইকার্বনেট ভেঙে অদ্রবণীয় কার্বনেট হয়ে তলায় জমে, যা ছেঁকে আলাদা করা যায়।
+- Ca(HCO₃)₂(aq) →(তাপ) CaCO₃(s) + CO₂(g) + H₂O(l)
+- Mg(HCO₃)₂(aq) →(তাপ) MgCO₃(s) + CO₂(g) + H₂O(l)
+
+কেতলি বা ভাতের হাঁড়ির ভেতরের সাদা আস্তরটাই এই CaCO₃: **তলানি বা স্কেল**।
+
+**স্থায়ী খরতা** হয় ক্যালসিয়াম, ম্যাগনেসিয়াম বা আয়রনের দ্রবীভূত **ক্লোরাইড বা সালফেট** থেকে। ফোটালে এটি দূর **হয় না**। **সোডিয়াম কার্বনেট** (কাপড় কাচার সোডা) যোগ করলে ক্যালসিয়াম ও ম্যাগনেসিয়াম কার্বনেট হিসেবে অধঃক্ষিপ্ত হয়:
+- CaCl₂(aq) + Na₂CO₃(aq) → CaCO₃(s) + 2NaCl(aq)
+- MgSO₄(aq) + Na₂CO₃(aq) → MgCO₃(s) + Na₂SO₄(aq)
+
+ছেঁকে নিলে পানি মৃদু হয়ে যায়। (বাসাবাড়ি ও কারখানার ওয়াটার সফটনারে প্রায়ই আয়ন-বিনিময় রেজিন থাকে, যা Ca²⁺ ও Mg²⁺-এর বদলে Na⁺ দিয়ে দেয়।)
+
+**খর পানির ক্ষতি:** সাবান ও ডিটারজেন্টের অপচয়; কাপড়ে গাদ জমে কাপড় ম্লান হয়; কেতলি, পাইপ ও বয়লারে স্কেল জমে পানির প্রবাহ বন্ধ হয়, আর স্কেল তাপ কম পরিবহণ করে বলে জ্বালানি নষ্ট হয়; কারখানার বয়লারে স্কেলের কারণে অতিরিক্ত গরম হয়ে বিস্ফোরণও ঘটতে পারে।
+
+**খর পানির কিছু সুবিধা:** দ্রবীভূত ক্যালসিয়াম ও ম্যাগনেসিয়াম খাবার পানিকে সুস্বাদু করে এবং হাড় ও দাঁতের জন্য দরকারি খনিজ জোগায়; পুরোনো সিসার পাইপ থেকে এটি কম সিসা দ্রবীভূত করে।
+
+**৯.৭.২ পানিদূষণ ও তার নিয়ন্ত্রণ**
+
+**কারণ:** গৃহস্থালি বর্জ্য ও পয়ঃবর্জ্য জলাশয়ে গিয়ে পড়ে; হাসপাতালের বর্জ্য; খেত থেকে ধুয়ে আসা সার ও কীটনাশক; কলকারখানার (যেমন কাপড় রং করা, ট্যানারি) ফেলা রাসায়নিক বর্জ্য; নৌযান ও যানবাহনের জ্বালানি ও তেল। এমন পানি দুর্গন্ধযুক্ত ও বিষাক্ত হয়ে যায়। শিল্পবর্জ্যের **সিসা, ক্যাডমিয়াম, পারদ, ক্রোমিয়ামের** মতো ভারী ধাতু ক্যানসারসহ মারাত্মক রোগ সৃষ্টি করতে পারে।
+
+**আর্সেনিক।** ভূগর্ভস্থ পানিও দূষিত হতে পারে। বাংলাদেশের অনেক এলাকায় অগভীর নলকূপের পানিতে **আর্সেনিক** থাকে, যা একটি বিষ। দীর্ঘদিন আর্সেনিকযুক্ত পানি পান করলে চামড়ায় ক্ষত, অঙ্গের ক্ষতি ও ক্যানসার হয়, মৃত্যুও হতে পারে। পরীক্ষায় অনিরাপদ নলকূপ লাল রং করা হয়; নিরাপদগুলো সবুজ।
+
+**নিয়ন্ত্রণ:**
+- শহরে পয়ঃবর্জ্য শোধনাগার (এখনো সংখ্যায় অনেক কম)। পয়ঃবর্জ্য ও রান্নাঘরের বর্জ্য থেকে **বায়োগ্যাস**, বিদ্যুৎ ও জৈব সার পাওয়া যায়; ছোট বায়োগ্যাস প্ল্যান্ট এই বর্জ্যকে কাজে লাগায়।
+- পরিবেশ অধিদপ্তরের নিয়ম অনুযায়ী প্রতিটি শিল্পকারখানায় **বর্জ্য শোধনাগার (ETP)** থাকতে হবে; শিল্পবর্জ্য কখনো সরাসরি খোলা জলাশয়ে ফেলা যাবে না। নাগরিকেরা এমন অপরাধের খবর পরিবেশ অধিদপ্তরকে জানাতে পারেন।
+- সংঘবদ্ধ জনসচেতনতা ও জনমতই পানিদূষণ রোধের সবচেয়ে কার্যকর উপায়।
+
+**৯.৭.৩ পানির বিশুদ্ধতা পরীক্ষা**
+- **রং ও গন্ধ:** বিশুদ্ধ পানি বর্ণহীন, গন্ধহীন ও স্বচ্ছ, এতে সামান্য খনিজ দ্রবীভূত থাকে। কোনো গন্ধ, ভাসমান বস্তু বা ছাঁকার পর তলানি থাকলে পানি দূষিত।
+- **তাপমাত্রা:** গ্রীষ্মে জলাশয়ের পানির তাপমাত্রা সাধারণত ৩০–৩৫ °C, কখনো ৪০ °C পর্যন্ত। বিদ্যুৎকেন্দ্র বা বয়লারের গরম পানি নদীতে ছাড়লে তাপমাত্রা কয়েক ডিগ্রি বেড়ে যায়: **তাপ দূষণ**, যা মাছের প্রয়োজনীয় দ্রবীভূত অক্সিজেন কমিয়ে দেয়। থার্মোমিটার দিয়েই এটি ধরা যায়।
+- **pH:** pH ৪.৫-এর কম বা ৯.৫-এর বেশি পানি জীবের জন্য ক্ষতিকর (বাংলাদেশে খাবার পানির pH প্রায় ৬.৫–৮.৫ হওয়া উচিত)। pH পেপার বা pH মিটারে পরীক্ষা করো ([[9.4|পাঠ ৯.৪]])।
+- **BOD (জৈব রাসায়নিক অক্সিজেন চাহিদা):** ১ লিটার পানির জৈব-বিয়োজনযোগ্য জৈব দূষক ভাঙতে ব্যাকটেরিয়ার মতো অণুজীবের যে পরিমাণ অক্সিজেন লাগে। BOD বেশি → বেশি দূষিত।
+- **COD (রাসায়নিক অক্সিজেন চাহিদা):** ১ লিটার পানির **সব** জৈব ও অজৈব দূষককে রাসায়নিকভাবে ভাঙতে যে পরিমাণ অক্সিজেন লাগে। COD বেশি → বেশি দূষিত। COD সবসময় BOD-এর চেয়ে **বেশি**, কারণ এটি শুধু অণুজীবের হজমযোগ্য নয়, সব জারণযোগ্য পদার্থ গণনা করে।
+
+**পানি বিশুদ্ধকরণ**
+- **ক্লোরিনেশন:** পরিমাণমতো **ব্লিচিং পাউডার** মেশালে ক্লোরিন তৈরি হয়, যা জীবাণুকে জারিত করে মেরে ফেলে। থিতিয়ে গেলে ছেঁকে নিলেই পানি পানযোগ্য। জীবাণুমুক্ত করার এটিই সবচেয়ে সহজ উপায়।
+- **ফোটানো:** ১৫–২০ মিনিট ফোটালে জীবাণু মরে যায়। কিন্তু ফোটালে আর্সেনিক দূর **হয় না**; বরং পানি বাষ্প হয়ে কমে যাওয়ায় আর্সেনিক আরও ঘন হয়, পানি আরও ক্ষতিকর হয়।
+- **ফিটকিরি দিয়ে থিতানো:** এক বালতি পানিতে প্রায় এক চামচ **ফিটকিরির** গুঁড়া (K₂SO₄·Al₂(SO₄)₃·24H₂O) মিশিয়ে আধা ঘণ্টা রেখে দাও। ভাসমান ময়লা জমাট বেঁধে তলায় বসে যায়; ওপরের পরিষ্কার পানি আলাদা পাত্রে ঢেলে নাও। এতে অদ্রবণীয় ময়লা দূর হয়।
+- **ছাঁকন:** আধুনিক গৃহস্থালি ফিল্টার জীবাণু, আর্সেনিক ও অন্যান্য দূষক দূর করে নিরাপদ খাবার পানি দেয়।
+## analogy
+খর পানি যেন ভিড়ের বাসস্ট্যান্ড, যেখানে Ca²⁺ আর Mg²⁺ "যাত্রীরা" আসা প্রতিটি সাবানের অণুকে ধরে ফেলে। ওই যাত্রীরা সবাই সরে না যাওয়া পর্যন্ত সাবান তার আসল কাজ, অর্থাৎ ফেনা তৈরি আর ময়লা তোলা, করতে পারে না। ফোটানো বা কাপড় কাচার সোডা আগেভাগে বাসস্ট্যান্ডটা খালি করে দেয়।
+## definition
+**খর পানি**: দ্রবীভূত ক্যালসিয়াম, ম্যাগনেসিয়াম (বা আয়রন) লবণের কারণে যে পানিতে সাবান সহজে ফেনা তৈরি করে না। **মৃদু পানি**: যে পানিতে সাবান সহজে ফেনা তৈরি করে।
+
+**অস্থায়ী খরতা**: Ca, Mg বা Fe-এর বাইকার্বনেট থেকে সৃষ্ট খরতা; ফোটালে দূর হয়।
+
+**স্থায়ী খরতা**: Ca, Mg বা Fe-এর ক্লোরাইড বা সালফেট থেকে সৃষ্ট খরতা; ফোটালে দূর হয় না, সোডিয়াম কার্বনেট দিলে দূর হয়।
+
+**BOD**: ১ লিটার পানির জৈব-বিয়োজনযোগ্য জৈব পদার্থ ভাঙতে অণুজীবের প্রয়োজনীয় অক্সিজেনের পরিমাণ। **COD**: ১ লিটার পানির সব জৈব ও অজৈব পদার্থকে রাসায়নিকভাবে জারিত করতে প্রয়োজনীয় অক্সিজেনের পরিমাণ।
+## why
+ফোটালে শুধু এক ধরনের খরতা দূর হয় কেন? ক্যালসিয়াম বাইকার্বনেট শুধু দ্রবণেই থাকে এবং তাপে অস্থিতিশীল: গরম করলে CO₂ বেরিয়ে অদ্রবণীয় CaCO₃ থেকে যায়, ফলে Ca²⁺ পানি ছেড়ে চলে যায়। ক্যালসিয়াম ক্লোরাইড ও সালফেট তাপে ভাঙে না, তাই Ca²⁺ দ্রবীভূতই থাকে। কাপড় কাচার সোডার কার্বনেট আয়ন একই কাজ রাসায়নিকভাবে করে: CO₃²⁻ Ca²⁺ ও Mg²⁺-কে ধরে অদ্রবণীয় কার্বনেট হিসেবে টেনে বের করে। ফিটকিরি ঘোলা পানি পরিষ্কার করে কেন? এর Al³⁺ আয়ন কাদার ক্ষুদ্র কণার চার্জ নিষ্ক্রিয় করে, ফলে কণাগুলো আর একে অপরকে বিকর্ষণ করে না, জোড়া লেগে বড় দলা হয়ে ডুবে যায়।
+## terms
+খর পানি | সহজে ফেনা হয় না; Ca²⁺/Mg²⁺ লবণ থাকে
+মৃদু পানি | সাবানে সহজে ফেনা হয়
+অস্থায়ী খরতা | বাইকার্বনেট থেকে; ফোটালে দূর হয়
+স্থায়ী খরতা | ক্লোরাইড/সালফেট থেকে; কাপড় কাচার সোডায় দূর হয়
+স্কেল (তলানি) | কেতলি ও বয়লারে জমা CaCO₃-এর আস্তর
+তাপ দূষণ | গরম বর্জ্য পানিতে জলাশয়ের তাপমাত্রা বেড়ে যাওয়া
+BOD / COD | ১ লিটারে দূষক জৈবিক / রাসায়নিকভাবে ভাঙার অক্সিজেন চাহিদা
+ক্লোরিনেশন | ব্লিচিং পাউডারের ক্লোরিন দিয়ে জীবাণু মারা
+ফিটকিরি | K₂SO₄·Al₂(SO₄)₃·24H₂O; থিতানোর কাজে ব্যবহৃত
+## visual
+একটি পানির নমুনা আর একটি শোধন পদ্ধতি বেছে নিয়ে সাবান দিয়ে ঝাঁকাও। ফেনা আর গাদ তুলনা করো, আর কী ঘটল তার সমীকরণ পড়ো।
+## real
+বাংলাদেশের অনেক জেলায় নলকূপের পানি রান্নার হাঁড়িতে কমলা-বাদামি দাগ আর সাদা আস্তর ফেলে: এটি আয়রন ও ক্যালসিয়াম লবণের কাজ। পোশাক ও বস্ত্র কারখানাগুলো রং করার আগে ওয়াটার সফটনার ব্যবহার করে, কারণ খর পানি রং নষ্ট করে। বন্যার পর জনস্বাস্থ্য প্রকৌশল অধিদপ্তর (DPHE) পানি বিশুদ্ধকরণ ট্যাবলেট ও ফিটকিরি বিতরণ করে, আর নলকূপের লাল/সবুজ রং বলে দেয় কোনটি আর্সেনিকমুক্ত।
+## example
+প্রশ্ন: একটি পানির নমুনায় ১৬.২ g ক্যালসিয়াম বাইকার্বনেট আছে। ফোটালে কত গ্রাম ক্যালসিয়াম কার্বনেট তলায় জমবে? (Ca = ৪০, C = ১২, O = ১৬, H = ১)
+দেওয়া আছে: M(Ca(HCO₃)₂) = ৪০ + ২ × ৬১ = ১৬২; M(CaCO₃) = ১০০
+সূত্র: Ca(HCO₃)₂ → CaCO₃ + CO₂ + H₂O (১ : ১)
+হিসাব: মোল = ১৬.২ ÷ ১৬২ = ০.১ mol; CaCO₃ = ০.১ × ১০০ = ১০ g
+উত্তর: ১০ g CaCO₃ (স্কেল) জমবে।
+## example
+প্রশ্ন: একটি ট্যাংকের পানিতে ১.১১ g CaCl₂ দ্রবীভূত আছে। (ক) এই খরতা দূর করতে কত গ্রাম সোডিয়াম কার্বনেট লাগবে? (খ) দূর না করলে কত গ্রাম সাবান (সোডিয়াম স্টিয়ারেট, M = ৩০৬) নষ্ট হবে? (Na = ২৩, Cl = ৩৫.৫)
+দেওয়া আছে: M(CaCl₂) = ১১১; M(Na₂CO₃) = ১০৬
+সূত্র: CaCl₂ + Na₂CO₃ → CaCO₃ + 2NaCl; 2C₁₇H₃₅COONa + CaCl₂ → (C₁₇H₃₅COO)₂Ca + 2NaCl
+হিসাব: CaCl₂-এর মোল = ১.১১ ÷ ১১১ = ০.০১ mol; (ক) Na₂CO₃ = ০.০১ × ১০৬ = ১.০৬ g; (খ) সাবান = ২ × ০.০১ = ০.০২ mol = ০.০২ × ৩০৬ = ৬.১২ g
+> একটি Ca²⁺ দুটি সাবান-আয়নকে আটকে ফেলে, তাই সাবান লাগে CaCl₂-এর মোলের দ্বিগুণ।
+উত্তর: (ক) ১.০৬ g Na₂CO₃; (খ) ৬.১২ g সাবান নষ্ট হবে।
+## mistakes
+x ফোটালে সব খরতাই দূর হয়।
+v ফোটালে শুধু অস্থায়ী (বাইকার্বনেট) খরতা দূর হয়। স্থায়ী খরতার (ক্লোরাইড, সালফেট) জন্য কাপড় কাচার সোডা বা আয়ন-বিনিময় লাগে।
+x ফোটালে আর্সেনিকযুক্ত পানি নিরাপদ হয়।
+v ফোটালে জীবাণু মরে, কিন্তু আর্সেনিক দূর হয় না, বরং ঘন হয়। পরীক্ষিত নিরাপদ নলকূপ বা আর্সেনিক ফিল্টার ব্যবহার করো।
+x BOD সবসময় COD-এর চেয়ে বেশি।
+v COD সব জারণযোগ্য পদার্থ গণনা করে, তাই COD সবসময় BOD-এর চেয়ে বেশি।
+x স্বচ্ছ, বর্ণহীন পানি সবসময় বিশুদ্ধ।
+v পানি দেখতে স্বচ্ছ হলেও তাতে আর্সেনিক, জীবাণু বা দ্রবীভূত রাসায়নিক থাকতে পারে; পরীক্ষা করতে হয়।
+## remember
+- খর পানি: Ca²⁺/Mg²⁺ লবণ; সাবান ফেনার বদলে গাদ তৈরি করে।
+- অস্থায়ী খরতা: বাইকার্বনেট; ফোটানো: Ca(HCO₃)₂ → CaCO₃ + CO₂ + H₂O।
+- স্থায়ী খরতা: ক্লোরাইড/সালফেট; কাপড় কাচার সোডা: CaCl₂ + Na₂CO₃ → CaCO₃ + 2NaCl।
+- খর পানি সাবান ও জ্বালানি নষ্ট করে, স্কেল জমায়, বয়লার ফাটাতে পারে; তবে এর স্বাদ ভালো, খনিজও জোগায়।
+- দূষণ: পয়ঃবর্জ্য, শিল্পবর্জ্য, সার, কীটনাশক, ভারী ধাতু; ভূগর্ভস্থ পানিতে আর্সেনিক।
+- পরীক্ষা: রং, গন্ধ, তাপমাত্রা, pH (৪.৫–৯.৫ সীমা), BOD, COD (COD > BOD)।
+- বিশুদ্ধকরণ: ক্লোরিনেশন (ব্লিচিং পাউডার), ১৫–২০ মিনিট ফোটানো (আর্সেনিকের জন্য নয়), ফিটকিরি দিয়ে থিতানো, ছাঁকন।
+## think
+গ্রামের একটি পরিবার প্রতিদিন নলকূপের পানি ২০ মিনিট ফোটায়, তবু পানিতে ধাতব স্বাদ থাকে আর সাদা আস্তর জমে। পানিতে কী দ্রবীভূত থাকতে পারে, আর তুমি তাদের কী পরামর্শ দেবে?
+## quiz
+? পানির অস্থায়ী খরতার কারণ:
+- ক্যালসিয়াম ক্লোরাইড
+- ম্যাগনেসিয়াম সালফেট
+* ক্যালসিয়াম বাইকার্বনেট
+- সোডিয়াম ক্লোরাইড
+= Ca ও Mg-এর বাইকার্বনেট অস্থায়ী খরতা সৃষ্টি করে, যা ফোটালে দূর হয়।
+? কোন পদার্থ স্থায়ী খরতা দূর করে?
+- শুধু তাপ
+* সোডিয়াম কার্বনেট
+- সোডিয়াম ক্লোরাইড
+- চিনি
+= Na₂CO₃ Ca²⁺ ও Mg²⁺-কে অদ্রবণীয় কার্বনেট হিসেবে অধঃক্ষিপ্ত করে।
+? BOD ও COD সম্পর্কে কোন উক্তিটি সঠিক?
+- BOD সবসময় COD-এর চেয়ে বেশি
+* COD সবসময় BOD-এর চেয়ে বেশি
+- এরা সবসময় সমান
+- BOD বেশি মানে পানি বেশি পরিষ্কার
+= COD সব দূষকের জন্য অক্সিজেন মাপে, BOD শুধু অণুজীব যা ভাঙতে পারে তার জন্য।
+? আর্সেনিকযুক্ত পানির সমাধান ফোটানো নয় কেন?
+- এতে আর্সেনিক যোগ হয়
+* এতে আর্সেনিক দূর হয় না, বরং আরও ঘন হয়
+- আর্সেনিক গ্যাস হয়ে উড়ে যায়
+- ১০০ °C-এ আর্সেনিক মরে যায়
+= পানি বাষ্প হয়ে গেলে কম পানিতে আর্সেনিক থেকে যায়।
+? পানি বিশুদ্ধকরণে ফিটকিরি ব্যবহার করা হয়:
+- জীবাণু মারতে
+- আর্সেনিক দূর করতে
+* ভাসমান কণাকে তলায় বসাতে
+- পানিকে খর করতে
+= ফিটকিরি সূক্ষ্ম ভাসমান কণাগুলোকে জমাট বাঁধিয়ে তলায় বসিয়ে দেয় (থিতানো)।

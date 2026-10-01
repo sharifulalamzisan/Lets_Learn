@@ -1,0 +1,2057 @@
+@@chapter
+== en
+## intro
+The gas flame in your kitchen, the CNG in an auto-rickshaw, the diesel in a bus, the kerosene in a village lamp, the bitumen on the road outside: all of them come from things that lived and died hundreds of millions of years ago. Buried deep underground and cooked slowly by heat and pressure, ancient plants and tiny sea creatures turned into **coal**, **petroleum** and **natural gas**, the **fossil fuels**. Coal is mostly carbon, while petroleum and natural gas are mixtures of **hydrocarbons**, compounds made of carbon and hydrogen only.
+
+In this chapter you will see how fossil fuels formed, what Bangladesh's natural gas is made of, and how crude oil is separated into useful fractions. Then you will meet the families of organic compounds: **alkanes**, **alkenes** and **alkynes**, and the **alcohols**, **aldehydes** and **carboxylic acids** that can be made from them. You will learn how to name them, how to make them and how they react, why formalin in food is dangerous, how tiny molecules link up into giant **polymers** such as polythene and nylon, the good and bad sides of plastic, and finally how organic compounds differ from inorganic ones.
+## objectives
+- explain what fossil fuels are and how coal, petroleum and natural gas formed
+- describe the composition and uses of natural gas, especially in Bangladesh
+- explain petroleum as a mixture of hydrocarbons and describe its fractional distillation and the uses of each fraction
+- classify hydrocarbons (aliphatic, alicyclic, aromatic; saturated and unsaturated) and explain homologous series and general formulae
+- name alkanes, alkenes, alkynes, alcohols, aldehydes and carboxylic acids, and write their formulae
+- describe the preparation and reactions of alkanes (substitution, combustion), alkenes and alkynes (addition), with balanced equations
+- use the bromine water and potassium permanganate tests to tell unsaturated from saturated hydrocarbons
+- explain how alcohols, aldehydes and organic acids are prepared from hydrocarbons and from each other, and describe their uses
+- explain addition and condensation polymerisation (polythene, polypropene, PVC, nylon 6,6) and natural vs synthetic polymers
+- evaluate the advantages and disadvantages of plastic and our responsibility for the environment
+- distinguish organic compounds from inorganic compounds
+- show awareness about the careful use of fossil fuels
+== bn
+## intro
+তোমার রান্নাঘরের গ্যাসের চুলা, অটোরিকশার সিএনজি, বাসের ডিজেল, গ্রামের কুপিবাতির কেরোসিন, বাইরের রাস্তার পিচ: এসবই এসেছে এমন জিনিস থেকে, যা শত শত মিলিয়ন বছর আগে বেঁচে ছিল আর মারা গিয়েছিল। মাটির গভীরে চাপা পড়ে তাপ আর চাপে ধীরে ধীরে "রান্না" হয়ে প্রাচীন উদ্ভিদ আর সমুদ্রের ক্ষুদ্র জীব পরিণত হয়েছে **কয়লা**, **পেট্রোলিয়াম** আর **প্রাকৃতিক গ্যাসে**, অর্থাৎ **জীবাশ্ম জ্বালানিতে**। কয়লার প্রধান উপাদান কার্বন, আর পেট্রোলিয়াম ও প্রাকৃতিক গ্যাস হলো **হাইড্রোকার্বনের** মিশ্রণ; হাইড্রোকার্বন মানে শুধু কার্বন ও হাইড্রোজেন দিয়ে গঠিত যৌগ।
+
+এই অধ্যায়ে দেখবে জীবাশ্ম জ্বালানি কীভাবে তৈরি হলো, বাংলাদেশের প্রাকৃতিক গ্যাসে কী কী আছে, আর অপরিশোধিত তেলকে কীভাবে কাজের অংশে ভাগ করা হয়। তারপর পরিচিত হবে জৈব যৌগের পরিবারগুলোর সাথে: **অ্যালকেন**, **অ্যালকিন**, **অ্যালকাইন**, আর এদের থেকে তৈরি **অ্যালকোহল**, **অ্যালডিহাইড** ও **কার্বক্সিলিক এসিড**। শিখবে এদের নামকরণ, প্রস্তুতি আর বিক্রিয়া, খাবারে ফরমালিন কেন বিপজ্জনক, ছোট ছোট অণু কীভাবে জুড়ে গিয়ে পলিথিন ও নাইলনের মতো বিশাল **পলিমার** তৈরি করে, প্লাস্টিকের ভালো ও মন্দ দিক, আর শেষে জৈব যৌগ অজৈব যৌগ থেকে কীভাবে আলাদা।
+## objectives
+- জীবাশ্ম জ্বালানি কী এবং কয়লা, পেট্রোলিয়াম ও প্রাকৃতিক গ্যাস কীভাবে তৈরি হয়েছে ব্যাখ্যা করতে পারবে
+- প্রাকৃতিক গ্যাসের, বিশেষ করে বাংলাদেশের প্রাকৃতিক গ্যাসের উপাদান ও ব্যবহার বর্ণনা করতে পারবে
+- পেট্রোলিয়ামকে হাইড্রোকার্বনের মিশ্রণ হিসেবে ব্যাখ্যা করতে এবং এর আংশিক পাতন ও প্রতিটি অংশের ব্যবহার বর্ণনা করতে পারবে
+- হাইড্রোকার্বনের শ্রেণিবিভাগ (অ্যালিফেটিক, অ্যালিসাইক্লিক, অ্যারোমেটিক; সম্পৃক্ত ও অসম্পৃক্ত) করতে এবং সমগোত্রীয় শ্রেণি ও সাধারণ সংকেত ব্যাখ্যা করতে পারবে
+- অ্যালকেন, অ্যালকিন, অ্যালকাইন, অ্যালকোহল, অ্যালডিহাইড ও কার্বক্সিলিক এসিডের নামকরণ করতে ও সংকেত লিখতে পারবে
+- অ্যালকেনের (প্রতিস্থাপন, দহন) এবং অ্যালকিন ও অ্যালকাইনের (সংযোজন) প্রস্তুতি ও বিক্রিয়া সমতাকৃত সমীকরণসহ বর্ণনা করতে পারবে
+- ব্রোমিন পানি ও পটাশিয়াম পারম্যাঙ্গানেট পরীক্ষা দিয়ে অসম্পৃক্ত ও সম্পৃক্ত হাইড্রোকার্বন আলাদা করতে পারবে
+- হাইড্রোকার্বন থেকে এবং একটি থেকে আরেকটি থেকে অ্যালকোহল, অ্যালডিহাইড ও জৈব এসিড প্রস্তুতি এবং এদের ব্যবহার ব্যাখ্যা করতে পারবে
+- সংযোজন ও ঘনীভবন পলিমারকরণ (পলিথিন, পলিপ্রোপিন, পিভিসি, নাইলন ৬,৬) এবং প্রাকৃতিক ও কৃত্রিম পলিমার ব্যাখ্যা করতে পারবে
+- প্লাস্টিকের সুবিধা-অসুবিধা এবং পরিবেশের প্রতি আমাদের দায়িত্ব মূল্যায়ন করতে পারবে
+- জৈব যৌগ ও অজৈব যৌগের পার্থক্য করতে পারবে
+- জীবাশ্ম জ্বালানির সঠিক ও মিতব্যয়ী ব্যবহারে সচেতনতা দেখাতে পারবে
+
+@@ 11.1
+@visual k11fuel
+@related 8.2 2.7 11.2 11.3
+== en
+## what
+**Fossil fuels** (coal, petroleum and natural gas) formed over hundreds of millions of years from the buried remains of ancient plants and animals, changed by heat and pressure in the absence of air. Natural gas is mostly **methane**; petroleum (crude oil) is a mixture of many hydrocarbons that is separated into useful fractions by **fractional distillation**.
+## simple
+**How did fossil fuels form?** Imagine the Earth hundreds of millions of years ago: huge swampy forests, shallow seas full of floating microscopic life. The tiny floating plants are **phytoplankton** (microscopic algae) and the tiny floating animals are **zooplankton**. When these living things died, they sank into mud at the bottom of swamps and seas. Floods and other natural events buried them under more and more mud, sand and rock.
+
+Buried deeper and deeper, three things worked on them for millions of years:
+- **no air**, so they could not simply rot away into CO₂ and water;
+- **pressure** from the thousands of metres of rock above;
+- **heat** from inside the Earth (the deeper you go, the hotter it gets).
+
+Slowly the remains changed chemically:
+- **Big land plants** (trees and ferns of swampy forests) became **coal**. The longer and deeper they were buried, the richer in carbon the coal became: peat → lignite → bituminous coal → anthracite.
+- **Phytoplankton, zooplankton and other dead sea creatures** became **petroleum** (crude oil).
+- With even more heat and time, petroleum breaks down further into small molecules: **natural gas**. That is why oil and gas are often found together. At **Haripur gas field** in Sylhet, petroleum was found along with natural gas.
+
+Because the starting material was living matter, fossil fuels are made mainly of **carbon and its compounds**. They took hundreds of millions of years to form, but we burn them in a few hundred years, so they are **non-renewable**.
+
+**11.1.1 Natural gas.** The exact mixture depends on where the gas comes from, but the main component is always **methane (CH₄)**. There are smaller amounts of ethane (C₂H₆), propane (C₃H₈), butane and isobutane (C₄H₁₀) and pentane (C₅H₁₂). Bangladesh's gas is unusually pure methane:
+
+- methane: 93–98%
+- ethane: 0.2–3.9%
+- propane: 0.05–1.2%
+- butane: 0.1–0.72%
+- pentane: about 1.2%
+
+Bangladesh's natural gas comes mainly from fields in the north-east and east of the country, such as **Titas** (Brahmanbaria), **Bibiyana** and **Rashidpur** (Habiganj), and **Kailashtila** and **Haripur** (Sylhet). It is our most important fuel. We use it to:
+- **generate electricity** in power plants (the biggest use);
+- make **urea fertiliser**: methane supplies the hydrogen for ammonia (NH₃), which then becomes urea;
+- run **industries** (garment dyeing, glass, ceramics, steel re-rolling, brick kilns);
+- **cook** in homes through pipelines, and fuel vehicles as **CNG** (compressed natural gas).
+
+When methane burns, it gives a lot of heat and fairly clean products: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g) + heat.
+
+**11.1.2 Petroleum and its fractional distillation.** Petroleum usually lies about 5000 feet (1.5 km) or more underground, trapped in porous rock. Natural gas often sits on top of it and pushes down on the oil; when a well is drilled, this gas pressure helps push the oil up. The oil straight from the well is called **crude oil**. It is dark, opaque and often smelly (because of sulfur compounds), and it cannot be used directly: it is a mixture of hundreds of hydrocarbons, from 1 carbon atom to more than 30.
+
+Different hydrocarbons have different **boiling points**: small molecules boil at low temperatures, big molecules at high temperatures. So crude oil is separated by **fractional distillation** in a tall **fractionating column**:
+
+1. Crude oil is heated to about 350–400 °C so that most of it turns into vapour.
+2. The vapour enters near the **bottom** of the column. The column is **hottest at the bottom and coolest at the top**.
+3. As the vapour rises, it cools. Each hydrocarbon **condenses** when it reaches a level just below its boiling point, and is drawn off there on a tray.
+4. Big molecules (high boiling point) condense low down; small molecules (low boiling point) rise higher. The smallest ones stay as gas and leave from the top.
+
+Each liquid collected is a **fraction**: not a single compound but a group of hydrocarbons with boiling points in a certain range.
+
+- **Petroleum gas** (about 2%): below 20 °C; C₁–C₄. Liquefied under pressure as **LPG** in cylinders for cooking and heating.
+- **Petrol / gasoline** (about 5%): 21–70 °C; C₅–C₁₀. Fuel for car and motorcycle engines.
+- **Naphtha** (about 10%): 71–120 °C; C₇–C₁₄. Fuel; raw material for the petrochemical industry (plastics, chemicals).
+- **Kerosene** (about 13%): 121–170 °C; C₁₁–C₁₆. Jet engine fuel; lamps and stoves.
+- **Diesel**: 171–270 °C; C₁₇–C₂₀. Fuel for buses, trucks, pumps, generators; lubricant and solvent.
+- **Lubricating oil and paraffin wax**: 271–340 °C; C₂₀–C₃₀. Lubricants, candles, Vaseline and toiletries.
+- **Bitumen** (pitch): above 340 °C; more than C₃₀. Road surfacing, roofing.
+
+Going down the column, the molecules get **bigger**, the boiling point gets **higher**, the liquid gets **thicker (more viscous)**, darker and **harder to ignite**.
+
+*Note:* the carbon ranges of neighbouring fractions overlap, and different books give slightly different ranges (diesel, for example, is often quoted as C₁₂–C₂₀). The ranges above follow your textbook. Bangladesh's refinery, **Eastern Refinery Limited** in Chattogram, separates imported crude oil in this way.
+## analogy
+Think of a tall building on a hot day where people get out at different floors depending on how much heat they can stand. Everyone enters at the hot ground floor. The "tough" big molecules get off at the lower, hotter floors; the "delicate" small molecules keep climbing to the cool top floors. Each floor collects people of similar toughness: that is a fraction.
+## definition
+**Fossil fuels**: fuels (coal, petroleum and natural gas) formed from the remains of plants and animals of very ancient times, buried underground and changed by heat, pressure and chemical reactions in the absence of air over hundreds of millions of years.
+
+**Natural gas**: a naturally occurring mixture of gaseous hydrocarbons found underground, consisting mainly of methane with smaller amounts of ethane, propane, butane and pentane.
+
+**Crude oil (petroleum)**: the dark, unrefined liquid mixture of hydrocarbons obtained directly from an oil well.
+
+**Fractional distillation**: a method of separating a mixture of liquids with different boiling points by vaporising it and letting the vapours condense at different heights of a fractionating column. Each portion collected is called a **fraction**.
+## why
+Why does fractional distillation work? Hydrocarbon molecules are held to each other only by weak **intermolecular forces**. A long molecule has more surface in contact with its neighbours, so the total attraction is larger and more energy (a higher temperature) is needed to pull it into the vapour. So boiling point rises with the number of carbon atoms. In the column, the temperature falls steadily with height; every substance condenses at the level where the temperature has dropped just below its boiling point, so the mixture sorts itself by molecule size.
+
+Why did the buried remains not simply rot? Rotting (decomposition by bacteria and fungi) needs oxygen. Deep under mud and rock there is almost no oxygen, so instead of being broken down to CO₂ and H₂O, the carbon compounds were slowly rearranged by heat and pressure into coal, oil and gas, keeping their stored chemical energy.
+## terms
+Fossil fuel | Coal, petroleum or natural gas formed from ancient buried life
+Phytoplankton | Microscopic plants (algae) floating in water
+Zooplankton | Tiny animals floating in water
+Crude oil | Unrefined petroleum straight from a well
+Fractional distillation | Separation of liquids by boiling point in a fractionating column
+Fraction | A group of hydrocarbons with boiling points in a certain range
+LPG | Liquefied petroleum gas (mainly propane and butane) in cylinders
+CNG | Compressed natural gas (mainly methane) used as vehicle fuel
+Non-renewable | Used up far faster than nature can make it again
+## visual
+Use the three tabs: slide through time to watch buried life turn into coal, oil and gas; tap each level of the fractionating column to see its fraction; and compare the composition of Bangladesh's natural gas.
+## real
+Most of Bangladesh's electricity comes from natural gas, and our urea fertiliser factories (for example, in Ghorashal and Fenchuganj) use it as raw material, so the rice on your plate depends on it too. Many CNG auto-rickshaws run in Dhaka. In villages without a gas line, families cook with **LPG cylinders**, the petroleum-gas fraction of crude oil. Bangladesh also has coal: the **Barapukuria** coal mine in Dinajpur supplies a power station next to it. Because these fuels are limited, saving gas (turning off the stove when not cooking, fixing leaks) saves the country's resources.
+## example
+Q: Natural gas from a Bangladeshi field contains 96% methane by volume. How many litres of methane are there in 500 L of this gas?
+Given: total volume = 500 L; methane = 96%
+Formula: volume of methane = total volume × percentage ÷ 100
+Calculation: 500 × 96 ÷ 100 = 480 L
+Answer: 480 L of methane.
+## example
+Q: Pentane (C₅H₁₂) boils at 36 °C and hexadecane (C₁₆H₃₄) boils at 287 °C. Which one condenses higher up in the fractionating column, and in which fractions will they be found?
+Given: bp of pentane = 36 °C; bp of hexadecane = 287 °C; the column is hottest at the bottom
+Solution: 36 °C lies in the 21–70 °C range, so pentane is in the **petrol** fraction near the top. 287 °C lies in the 271–340 °C range, so hexadecane condenses low down with the **lubricating oil and paraffin wax**.
+> A substance keeps rising as vapour until the temperature falls below its boiling point; a low boiling point lets it climb higher.
+Answer: Pentane condenses higher (petrol fraction); hexadecane condenses lower (lubricating oil/paraffin wax fraction).
+## example
+Q: Write the balanced equation for the complete combustion of methane, and check it by counting atoms.
+Solution: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)
+> Left: C = 1, H = 4, O = 2 × 2 = 4. Right: C = 1, H = 2 × 2 = 4, O = 2 + 2 = 4. All atoms balance.
+Answer: CH₄ + 2O₂ → CO₂ + 2H₂O, with heat given out.
+## mistakes
+x Fossil fuels are made from dinosaur bones.
+v Coal came mainly from land plants of swampy forests, and oil and gas mainly from microscopic sea life (plankton), not from bones.
+x Each fraction from the column is a single pure compound.
+v Each fraction is a mixture of hydrocarbons whose boiling points fall in a certain range.
+x The top of the fractionating column is the hottest part.
+v The bottom is hottest; the temperature falls with height, so small, low-boiling molecules come off at the top.
+x Natural gas is mainly butane.
+v Natural gas is mainly methane (93–98% in Bangladesh). The butane and propane mixture in cylinders is LPG, which comes from petroleum.
+## remember
+- Fossil fuels: coal (from big plants), petroleum (from plankton and sea animals), natural gas (from further breakdown of petroleum); formed by heat and pressure without air.
+- Bangladesh's natural gas: 93–98% methane; used for electricity, urea fertiliser, industry, cooking and CNG.
+- Crude oil is separated by fractional distillation: hottest at the bottom, coolest at the top.
+- Order from top: petroleum gas (LPG) → petrol → naphtha → kerosene → diesel → lubricating oil/paraffin wax → bitumen.
+- Bigger molecules → higher boiling point → collected lower in the column.
+## think
+Bangladesh's gas reserves are running down. If you were planning the country's energy for 2050, which uses of natural gas would you protect first, and what would you replace it with elsewhere? Why?
+## quiz
+? The main component of Bangladesh's natural gas is:
+- Ethane
+* Methane
+- Butane
+- Propane
+= Bangladesh's natural gas contains 93–98% methane (CH₄).
+? In a fractionating column, bitumen is collected:
+- At the top, because it is lightest
+- In the middle
+* At the bottom, because it has the highest boiling point
+- It is not obtained from crude oil
+= Bitumen has the largest molecules (more than 30 C atoms) and boils above 340 °C, so it stays at the hot bottom.
+? Coal was formed mainly from:
+- Microscopic sea animals
+* Large plants of ancient swampy forests
+- Volcanic rocks
+- Dinosaur bones
+= Big land plants buried in swamps turned into coal; plankton and sea animals turned into petroleum.
+? Which fraction is used as fuel for jet aircraft?
+- Petrol
+- Naphtha
+* Kerosene
+- Bitumen
+= Kerosene (C₁₁–C₁₆, boiling range 121–170 °C) is the main jet fuel.
+== bn
+## what
+**জীবাশ্ম জ্বালানি** (কয়লা, পেট্রোলিয়াম ও প্রাকৃতিক গ্যাস) তৈরি হয়েছে শত শত মিলিয়ন বছর ধরে মাটিচাপা পড়া প্রাচীন উদ্ভিদ ও প্রাণীর দেহাবশেষ থেকে, বায়ুর অনুপস্থিতিতে তাপ ও চাপের প্রভাবে। প্রাকৃতিক গ্যাসের প্রধান উপাদান **মিথেন**; পেট্রোলিয়াম (অপরিশোধিত তেল) অনেক হাইড্রোকার্বনের মিশ্রণ, যাকে **আংশিক পাতন** পদ্ধতিতে বিভিন্ন কাজের অংশে ভাগ করা হয়।
+## simple
+**জীবাশ্ম জ্বালানি কীভাবে তৈরি হলো?** কল্পনা করো শত শত মিলিয়ন বছর আগের পৃথিবী: বিশাল জলাভূমির ঘন বনজঙ্গল, অগভীর সমুদ্রে ভাসছে অণুবীক্ষণিক জীব। পানিতে ভাসা ক্ষুদ্র উদ্ভিদ হলো **ফাইটোপ্লাংকটন** (এক ধরনের শৈবাল), আর পানিতে ভাসা ক্ষুদ্র প্রাণী হলো **জুওপ্লাংকটন**। এসব জীব মারা গেলে জলাভূমি ও সমুদ্রের তলায় কাদায় ডুবে যেত। বন্যা আর নানা প্রাকৃতিক বিপর্যয়ে তাদের ওপর জমতে থাকে আরও কাদা, বালু আর শিলা।
+
+যত গভীরে চাপা পড়ল, লক্ষ লক্ষ বছর ধরে তিনটি জিনিস তাদের ওপর কাজ করল:
+- **বায়ু নেই**, তাই এরা সাধারণভাবে পচে CO₂ আর পানি হয়ে মিলিয়ে যেতে পারেনি;
+- ওপরের হাজার হাজার মিটার শিলার **চাপ**;
+- পৃথিবীর ভেতরের **তাপ** (যত গভীরে যাবে, তত গরম)।
+
+ধীরে ধীরে দেহাবশেষে রাসায়নিক পরিবর্তন ঘটল:
+- **বড় বড় স্থলজ উদ্ভিদ** (জলাভূমির বনের গাছ ও ফার্ন) থেকে তৈরি হলো **কয়লা**। যত বেশি সময় আর যত গভীরে চাপা ছিল, কয়লায় কার্বনের ভাগ তত বেড়েছে: পিট → লিগনাইট → বিটুমিনাস কয়লা → অ্যানথ্রাসাইট।
+- **ফাইটোপ্লাংকটন, জুওপ্লাংকটন আর সমুদ্রের মৃত প্রাণী** থেকে তৈরি হলো **পেট্রোলিয়াম** (অপরিশোধিত তেল)।
+- আরও তাপ ও সময়ে পেট্রোলিয়াম ভেঙে ছোট ছোট অণুতে পরিণত হয়: **প্রাকৃতিক গ্যাস**। এজন্যই তেল আর গ্যাস প্রায়ই একসাথে পাওয়া যায়। সিলেটের **হরিপুর গ্যাসক্ষেত্রে** প্রাকৃতিক গ্যাসের সাথে পেট্রোলিয়ামও পাওয়া গেছে।
+
+শুরুর উপাদান জীবদেহ, তাই জীবাশ্ম জ্বালানির মূল উপাদান **কার্বন ও কার্বনের যৌগ**। এগুলো তৈরি হতে লেগেছে শত শত মিলিয়ন বছর, অথচ আমরা কয়েকশো বছরেই পুড়িয়ে ফেলছি; তাই এগুলো **অনবায়নযোগ্য**।
+
+**১১.১.১ প্রাকৃতিক গ্যাস।** কোন উৎস থেকে আসছে তার ওপর মিশ্রণের অনুপাত নির্ভর করে, তবে প্রধান উপাদান সবসময় **মিথেন (CH₄)**। সাথে অল্প পরিমাণে থাকে ইথেন (C₂H₆), প্রোপেন (C₃H₈), বিউটেন ও আইসোবিউটেন (C₄H₁₀) এবং পেন্টেন (C₅H₁₂)। বাংলাদেশের গ্যাসে মিথেনের ভাগ অনেক বেশি:
+
+- মিথেন: ৯৩–৯৮%
+- ইথেন: ০.২–৩.৯%
+- প্রোপেন: ০.০৫–১.২%
+- বিউটেন: ০.১–০.৭২%
+- পেন্টেন: প্রায় ১.২%
+
+বাংলাদেশের প্রাকৃতিক গ্যাস আসে মূলত দেশের উত্তর-পূর্ব ও পূর্বাঞ্চলের গ্যাসক্ষেত্র থেকে, যেমন **তিতাস** (ব্রাহ্মণবাড়িয়া), **বিবিয়ানা** ও **রশিদপুর** (হবিগঞ্জ), **কৈলাশটিলা** ও **হরিপুর** (সিলেট)। এটিই আমাদের সবচেয়ে গুরুত্বপূর্ণ জ্বালানি। আমরা একে ব্যবহার করি:
+- বিদ্যুৎকেন্দ্রে **বিদ্যুৎ উৎপাদনে** (সবচেয়ে বড় ব্যবহার);
+- **ইউরিয়া সার** তৈরিতে: মিথেন থেকে অ্যামোনিয়ার (NH₃) হাইড্রোজেন আসে, সেই অ্যামোনিয়া থেকে ইউরিয়া;
+- **শিল্পকারখানায়** (পোশাকের রং করা, কাচ, সিরামিক, স্টিল রি-রোলিং, ইটভাটা);
+- পাইপলাইনে বাসাবাড়িতে **রান্নায়**, আর **সিএনজি** (সংকুচিত প্রাকৃতিক গ্যাস) হিসেবে যানবাহনে।
+
+মিথেন পুড়লে প্রচুর তাপ পাওয়া যায়, আর উৎপাদও তুলনামূলক পরিষ্কার: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g) + তাপ।
+
+**১১.১.২ পেট্রোলিয়াম ও এর আংশিক পাতন।** পেট্রোলিয়াম সাধারণত মাটির প্রায় ৫০০০ ফুট (১.৫ km) বা আরও গভীরে সচ্ছিদ্র শিলার ভেতরে আটকে থাকে। অনেক সময় এর ওপরে প্রাকৃতিক গ্যাস থাকে, যা তেলের ওপর চাপ দেয়; কূপ খনন করলে এই গ্যাসের চাপই তেলকে ওপরে ঠেলে তুলতে সাহায্য করে। কূপ থেকে সরাসরি পাওয়া তেলকে বলে **অপরিশোধিত তেল** (crude oil)। এটি কালচে, অস্বচ্ছ, আর সালফারের যৌগের কারণে অনেক সময় দুর্গন্ধযুক্ত; সরাসরি ব্যবহার করা যায় না, কারণ এটি ১টি থেকে ৩০টিরও বেশি কার্বনবিশিষ্ট শত শত হাইড্রোকার্বনের মিশ্রণ।
+
+বিভিন্ন হাইড্রোকার্বনের **স্ফুটনাঙ্ক** বিভিন্ন: ছোট অণু কম তাপমাত্রায় ফোটে, বড় অণু বেশি তাপমাত্রায়। তাই লম্বা একটি **আংশিক পাতন কলামে** অপরিশোধিত তেলকে পৃথক করা হয়:
+
+১. অপরিশোধিত তেলকে প্রায় ৩৫০–৪০০ °C পর্যন্ত গরম করা হয়, যাতে এর বেশির ভাগ বাষ্পে পরিণত হয়।
+২. বাষ্প কলামের **নিচের দিকে** ঢোকে। কলামের **নিচে তাপমাত্রা সবচেয়ে বেশি, ওপরে সবচেয়ে কম**।
+৩. বাষ্প যত ওপরে ওঠে, তত ঠান্ডা হয়। প্রতিটি হাইড্রোকার্বন সেই উচ্চতায় গিয়ে **ঘনীভূত** হয়, যেখানে তাপমাত্রা তার স্ফুটনাঙ্কের একটু নিচে নেমে যায়, আর সেখানকার ট্রে থেকে তাকে সংগ্রহ করা হয়।
+৪. বড় অণু (উচ্চ স্ফুটনাঙ্ক) নিচেই ঘনীভূত হয়; ছোট অণু (নিম্ন স্ফুটনাঙ্ক) আরও ওপরে ওঠে। সবচেয়ে ছোটগুলো গ্যাস হিসেবেই ওপর দিয়ে বেরিয়ে যায়।
+
+প্রতিটি সংগৃহীত অংশকে বলে একটি **অংশ** বা ভগ্নাংশ (fraction): এটি একক কোনো যৌগ নয়, একটি নির্দিষ্ট স্ফুটনাঙ্কের পরিসরের হাইড্রোকার্বনের দল।
+
+- **পেট্রোলিয়াম গ্যাস** (প্রায় ২%): ২০ °C-এর নিচে; C₁–C₄। চাপে তরল করে সিলিন্ডারে **এলপিজি** হিসেবে রান্না ও তাপ উৎপাদনে।
+- **পেট্রোল বা গ্যাসোলিন** (প্রায় ৫%): ২১–৭০ °C; C₅–C₁₀। গাড়ি ও মোটরসাইকেলের ইঞ্জিনের জ্বালানি।
+- **ন্যাপথা** (প্রায় ১০%): ৭১–১২০ °C; C₇–C₁₄। জ্বালানি; পেট্রোকেমিক্যাল শিল্পের কাঁচামাল (প্লাস্টিক, রাসায়নিক)।
+- **কেরোসিন** (প্রায় ১৩%): ১২১–১৭০ °C; C₁₁–C₁₆। জেট ইঞ্জিনের জ্বালানি; কুপিবাতি ও স্টোভ।
+- **ডিজেল**: ১৭১–২৭০ °C; C₁₇–C₂₀। বাস, ট্রাক, সেচপাম্প, জেনারেটরের জ্বালানি; পিচ্ছিলকারক ও দ্রাবক।
+- **লুব্রিকেটিং তেল ও প্যারাফিন মোম**: ২৭১–৩৪০ °C; C₂₀–C₃₀। পিচ্ছিলকারক, মোমবাতি, ভ্যাসলিন ও টয়লেট্রিজ।
+- **বিটুমিন** (পিচ): ৩৪০ °C-এর ওপরে; ৩০-এর বেশি C। রাস্তা তৈরি, ছাদ।
+
+কলামে যত নিচে নামবে, অণু তত **বড়**, স্ফুটনাঙ্ক তত **বেশি**, তরল তত **ঘন (সান্দ্র)**, গাঢ় রঙের এবং তত **কঠিনে জ্বলে**।
+
+*লক্ষ করো:* পাশাপাশি অংশগুলোর কার্বন সংখ্যার পরিসর কিছুটা একটির ভেতরে আরেকটি ঢুকে যায়, আর বিভিন্ন বইয়ে পরিসর সামান্য আলাদা লেখা থাকে (যেমন ডিজেলকে অনেক বইয়ে C₁₂–C₂₀ বলা হয়)। ওপরের পরিসরগুলো তোমার পাঠ্যবই অনুযায়ী। চট্টগ্রামের **ইস্টার্ন রিফাইনারি লিমিটেড** আমদানি করা অপরিশোধিত তেলকে এভাবেই পৃথক করে।
+## analogy
+ভাবো গরমের দিনে একটি উঁচু দালান, যেখানে কে কতটা তাপ সইতে পারে সেই অনুযায়ী লোকজন বিভিন্ন তলায় নেমে যায়। সবাই ঢোকে গরম নিচতলা দিয়ে। "শক্তপোক্ত" বড় অণুগুলো নিচের গরম তলাতেই নেমে পড়ে; "নাজুক" ছোট অণুগুলো উঠতে থাকে ঠান্ডা ওপরের তলায়। প্রতিটি তলায় জড়ো হয় কাছাকাছি সহ্যক্ষমতার লোক: সেটাই একটি অংশ।
+## definition
+**জীবাশ্ম জ্বালানি**: বহু প্রাচীনকালের উদ্ভিদ ও প্রাণীর দেহাবশেষ মাটির নিচে চাপা পড়ে শত শত মিলিয়ন বছর ধরে বায়ুর অনুপস্থিতিতে তাপ, চাপ ও রাসায়নিক পরিবর্তনের মাধ্যমে যে জ্বালানিতে (কয়লা, পেট্রোলিয়াম ও প্রাকৃতিক গ্যাস) পরিণত হয়েছে।
+
+**প্রাকৃতিক গ্যাস**: মাটির নিচে প্রাকৃতিকভাবে পাওয়া গ্যাসীয় হাইড্রোকার্বনের মিশ্রণ, যার প্রধান উপাদান মিথেন, সাথে অল্প পরিমাণ ইথেন, প্রোপেন, বিউটেন ও পেন্টেন।
+
+**অপরিশোধিত তেল (পেট্রোলিয়াম)**: তেলকূপ থেকে সরাসরি পাওয়া কালচে, অপরিশোধিত হাইড্রোকার্বনের তরল মিশ্রণ।
+
+**আংশিক পাতন**: ভিন্ন ভিন্ন স্ফুটনাঙ্কের তরলের মিশ্রণকে বাষ্পীভূত করে আংশিক পাতন কলামের বিভিন্ন উচ্চতায় ঘনীভূত হতে দিয়ে পৃথক করার পদ্ধতি। প্রতিটি সংগৃহীত অংশকে একটি **অংশ** (fraction) বলে।
+## why
+আংশিক পাতন কাজ করে কেন? হাইড্রোকার্বনের অণুগুলো একে অপরের সাথে শুধু দুর্বল **আন্তঃআণবিক আকর্ষণে** যুক্ত। লম্বা অণুর পাশের অণুর সাথে সংস্পর্শের জায়গা বেশি, তাই মোট আকর্ষণ বেশি, আর একে টেনে বাষ্পে পাঠাতে বেশি শক্তি (বেশি তাপমাত্রা) লাগে। তাই কার্বন সংখ্যা বাড়লে স্ফুটনাঙ্ক বাড়ে। কলামে উচ্চতার সাথে তাপমাত্রা ক্রমশ কমে; প্রতিটি পদার্থ সেই উচ্চতায় ঘনীভূত হয় যেখানে তাপমাত্রা তার স্ফুটনাঙ্কের ঠিক নিচে নামে, ফলে মিশ্রণটি অণুর আকার অনুযায়ী আপনা-আপনি সাজিয়ে যায়।
+
+চাপা পড়া দেহাবশেষ সাধারণভাবে পচে গেল না কেন? পচন (ব্যাকটেরিয়া ও ছত্রাক দিয়ে বিয়োজন) ঘটতে অক্সিজেন লাগে। কাদা আর শিলার গভীরে প্রায় কোনো অক্সিজেন নেই, তাই কার্বনের যৌগগুলো ভেঙে CO₂ ও H₂O না হয়ে তাপ ও চাপে ধীরে ধীরে পুনর্বিন্যস্ত হয়ে কয়লা, তেল ও গ্যাসে পরিণত হয়েছে, আর তাদের সঞ্চিত রাসায়নিক শক্তি রয়ে গেছে।
+## terms
+জীবাশ্ম জ্বালানি | প্রাচীন চাপা পড়া জীব থেকে তৈরি কয়লা, পেট্রোলিয়াম বা প্রাকৃতিক গ্যাস
+ফাইটোপ্লাংকটন | পানিতে ভাসমান অণুবীক্ষণিক উদ্ভিদ (শৈবাল)
+জুওপ্লাংকটন | পানিতে ভাসমান ক্ষুদ্র প্রাণী
+অপরিশোধিত তেল | কূপ থেকে সরাসরি পাওয়া অপরিশোধিত পেট্রোলিয়াম
+আংশিক পাতন | আংশিক পাতন কলামে স্ফুটনাঙ্ক অনুযায়ী তরল পৃথক করার পদ্ধতি
+অংশ (fraction) | নির্দিষ্ট স্ফুটনাঙ্ক-পরিসরের হাইড্রোকার্বনের দল
+এলপিজি (LPG) | তরলীকৃত পেট্রোলিয়াম গ্যাস (মূলত প্রোপেন ও বিউটেন), সিলিন্ডারে থাকে
+সিএনজি (CNG) | সংকুচিত প্রাকৃতিক গ্যাস (মূলত মিথেন), যানবাহনের জ্বালানি
+অনবায়নযোগ্য | প্রকৃতি যত দ্রুত তৈরি করতে পারে, তার চেয়ে অনেক দ্রুত ফুরিয়ে যায়
+## visual
+তিনটি ট্যাব ব্যবহার করো: সময়ের স্লাইডার সরিয়ে দেখো চাপা পড়া জীব কীভাবে কয়লা, তেল ও গ্যাস হয়; পাতন কলামের প্রতিটি স্তরে চাপ দিয়ে তার অংশটি দেখো; আর বাংলাদেশের প্রাকৃতিক গ্যাসের উপাদান তুলনা করো।
+## real
+বাংলাদেশের বেশির ভাগ বিদ্যুৎ আসে প্রাকৃতিক গ্যাস থেকে, আর আমাদের ইউরিয়া সার কারখানাগুলো (যেমন ঘোড়াশাল ও ফেঞ্চুগঞ্জে) একে কাঁচামাল হিসেবে ব্যবহার করে, তাই তোমার পাতের ভাতও এর ওপর নির্ভর করে। ঢাকায় অসংখ্য সিএনজি অটোরিকশা চলে। গ্যাসলাইন নেই এমন গ্রামে পরিবারগুলো রান্না করে **এলপিজি সিলিন্ডারে**, যা অপরিশোধিত তেলের পেট্রোলিয়াম গ্যাস অংশ। বাংলাদেশে কয়লাও আছে: দিনাজপুরের **বড়পুকুরিয়া** কয়লাখনি পাশের বিদ্যুৎকেন্দ্রে কয়লা সরবরাহ করে। এসব জ্বালানি সীমিত, তাই গ্যাস বাঁচানো (রান্না না করলে চুলা বন্ধ রাখা, লিক সারানো) মানে দেশের সম্পদ বাঁচানো।
+## example
+প্রশ্ন: বাংলাদেশের একটি গ্যাসক্ষেত্রের প্রাকৃতিক গ্যাসে আয়তন অনুযায়ী ৯৬% মিথেন আছে। এই গ্যাসের ৫০০ L-এ কত লিটার মিথেন আছে?
+দেওয়া আছে: মোট আয়তন = ৫০০ L; মিথেন = ৯৬%
+সূত্র: মিথেনের আয়তন = মোট আয়তন × শতকরা হার ÷ ১০০
+হিসাব: ৫০০ × ৯৬ ÷ ১০০ = ৪৮০ L
+উত্তর: ৪৮০ L মিথেন।
+## example
+প্রশ্ন: পেন্টেন (C₅H₁₂) ফোটে ৩৬ °C-এ আর হেক্সাডেকেন (C₁₆H₃₄) ফোটে ২৮৭ °C-এ। আংশিক পাতন কলামে কোনটি বেশি ওপরে ঘনীভূত হবে, আর এরা কোন কোন অংশে পাওয়া যাবে?
+দেওয়া আছে: পেন্টেনের স্ফুটনাঙ্ক = ৩৬ °C; হেক্সাডেকেনের স্ফুটনাঙ্ক = ২৮৭ °C; কলামের নিচে সবচেয়ে গরম
+সমাধান: ৩৬ °C পড়ে ২১–৭০ °C পরিসরে, তাই পেন্টেন থাকে ওপরের দিকের **পেট্রোল** অংশে। ২৮৭ °C পড়ে ২৭১–৩৪০ °C পরিসরে, তাই হেক্সাডেকেন নিচের দিকে **লুব্রিকেটিং তেল ও প্যারাফিন মোমের** সাথে ঘনীভূত হয়।
+> তাপমাত্রা স্ফুটনাঙ্কের নিচে না নামা পর্যন্ত পদার্থটি বাষ্প হয়ে উঠতেই থাকে; স্ফুটনাঙ্ক কম হলে তাই বেশি ওপরে ওঠে।
+উত্তর: পেন্টেন বেশি ওপরে (পেট্রোল অংশে); হেক্সাডেকেন নিচে (লুব্রিকেটিং তেল/প্যারাফিন মোম অংশে)।
+## example
+প্রশ্ন: মিথেনের সম্পূর্ণ দহনের সমতাকৃত সমীকরণ লেখো এবং পরমাণু গুনে যাচাই করো।
+সমাধান: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)
+> বাম পাশে: C = ১, H = ৪, O = ২ × ২ = ৪। ডান পাশে: C = ১, H = ২ × ২ = ৪, O = ২ + ২ = ৪। সব পরমাণু সমান।
+উত্তর: CH₄ + 2O₂ → CO₂ + 2H₂O, সাথে তাপ উৎপন্ন হয়।
+## mistakes
+x জীবাশ্ম জ্বালানি ডাইনোসরের হাড় থেকে তৈরি।
+v কয়লা এসেছে মূলত জলাভূমির বনের স্থলজ উদ্ভিদ থেকে, আর তেল ও গ্যাস মূলত সমুদ্রের অণুবীক্ষণিক জীব (প্লাংকটন) থেকে, হাড় থেকে নয়।
+x কলাম থেকে পাওয়া প্রতিটি অংশ একটি বিশুদ্ধ যৌগ।
+v প্রতিটি অংশ এমন কয়েকটি হাইড্রোকার্বনের মিশ্রণ যাদের স্ফুটনাঙ্ক একটি নির্দিষ্ট পরিসরে পড়ে।
+x আংশিক পাতন কলামের ওপরের অংশ সবচেয়ে গরম।
+v নিচের অংশ সবচেয়ে গরম; উচ্চতার সাথে তাপমাত্রা কমে, তাই ছোট, কম স্ফুটনাঙ্কের অণু ওপর দিয়ে বের হয়।
+x প্রাকৃতিক গ্যাস মূলত বিউটেন।
+v প্রাকৃতিক গ্যাস মূলত মিথেন (বাংলাদেশে ৯৩–৯৮%)। সিলিন্ডারের বিউটেন-প্রোপেন মিশ্রণ হলো এলপিজি, যা আসে পেট্রোলিয়াম থেকে।
+## remember
+- জীবাশ্ম জ্বালানি: কয়লা (বড় উদ্ভিদ থেকে), পেট্রোলিয়াম (প্লাংকটন ও সামুদ্রিক প্রাণী থেকে), প্রাকৃতিক গ্যাস (পেট্রোলিয়াম আরও ভেঙে); বায়ুহীন অবস্থায় তাপ ও চাপে তৈরি।
+- বাংলাদেশের প্রাকৃতিক গ্যাস: ৯৩–৯৮% মিথেন; বিদ্যুৎ, ইউরিয়া সার, শিল্প, রান্না ও সিএনজিতে ব্যবহৃত।
+- অপরিশোধিত তেল আংশিক পাতনে পৃথক হয়: নিচে সবচেয়ে গরম, ওপরে সবচেয়ে ঠান্ডা।
+- ওপর থেকে ক্রম: পেট্রোলিয়াম গ্যাস (এলপিজি) → পেট্রোল → ন্যাপথা → কেরোসিন → ডিজেল → লুব্রিকেটিং তেল/প্যারাফিন মোম → বিটুমিন।
+- অণু যত বড় → স্ফুটনাঙ্ক তত বেশি → কলামের তত নিচে সংগৃহীত হয়।
+## think
+বাংলাদেশের গ্যাসের মজুত কমে আসছে। তুমি যদি ২০৫০ সালের জন্য দেশের জ্বালানি পরিকল্পনা করতে, প্রাকৃতিক গ্যাসের কোন ব্যবহারগুলো আগে রক্ষা করতে, আর অন্য জায়গায় এর বদলে কী ব্যবহার করতে? কেন?
+## quiz
+? বাংলাদেশের প্রাকৃতিক গ্যাসের প্রধান উপাদান:
+- ইথেন
+* মিথেন
+- বিউটেন
+- প্রোপেন
+= বাংলাদেশের প্রাকৃতিক গ্যাসে ৯৩–৯৮% মিথেন (CH₄) থাকে।
+? আংশিক পাতন কলামে বিটুমিন সংগৃহীত হয়:
+- ওপরে, কারণ এটি সবচেয়ে হালকা
+- মাঝখানে
+* নিচে, কারণ এর স্ফুটনাঙ্ক সবচেয়ে বেশি
+- এটি অপরিশোধিত তেল থেকে পাওয়া যায় না
+= বিটুমিনের অণু সবচেয়ে বড় (৩০-এর বেশি C) এবং এটি ৩৪০ °C-এর ওপরে ফোটে, তাই গরম নিচের অংশেই থেকে যায়।
+? কয়লা তৈরি হয়েছে মূলত:
+- সমুদ্রের অণুবীক্ষণিক প্রাণী থেকে
+* প্রাচীন জলাভূমির বনের বড় বড় উদ্ভিদ থেকে
+- আগ্নেয় শিলা থেকে
+- ডাইনোসরের হাড় থেকে
+= জলাভূমিতে চাপা পড়া বড় স্থলজ উদ্ভিদ থেকে কয়লা, আর প্লাংকটন ও সামুদ্রিক প্রাণী থেকে পেট্রোলিয়াম তৈরি হয়েছে।
+? কোন অংশটি জেট বিমানের জ্বালানি হিসেবে ব্যবহৃত হয়?
+- পেট্রোল
+- ন্যাপথা
+* কেরোসিন
+- বিটুমিন
+= কেরোসিন (C₁₁–C₁₆, স্ফুটনাঙ্ক-পরিসর ১২১–১৭০ °C) হলো প্রধান জেট জ্বালানি।
+
+@@ 11.2
+@visual k11series
+@related 11.3 11.4 11.5 5.11
+== en
+## what
+A **hydrocarbon** is a compound made of carbon and hydrogen only. Hydrocarbons are **aliphatic** (open chain or closed chain) or **aromatic** (benzene-type rings). Compounds with the same functional group form a **homologous series**: they share one general formula, and each member differs from the next by **–CH₂–**.
+## simple
+Methane (CH₄), ethene (C₂H₄), cyclohexane (C₆H₁₂) and benzene (C₆H₆) have one thing in common: no element other than carbon and hydrogen. They are all **hydrocarbons**. Carbon can form four bonds and can join to other carbon atoms in long chains and rings, so there are millions of hydrocarbons. Chemists sort them into families.
+
+**11.2.1 Aliphatic hydrocarbons.** "Aliphatic" comes from a Greek word meaning *fat* or *oil*; the name was given because the first compounds of this type studied were obtained from fats and oils. There are two kinds:
+
+**(i) Open chain hydrocarbons:** the carbon atoms form a chain whose two ends are free (not joined). Examples: butane CH₃–CH₂–CH₂–CH₃, ethene CH₂=CH₂. They can be:
+- **saturated**: only C–C single bonds. These are the **alkanes**, e.g. propane CH₃–CH₂–CH₃, pentane CH₃–CH₂–CH₂–CH₂–CH₃;
+- **unsaturated**: at least one C=C double bond (**alkenes**, e.g. propene CH₃–CH=CH₂) or C≡C triple bond (**alkynes**, e.g. ethyne CH≡CH, propyne CH₃–C≡CH). An unsaturated compound may also contain single bonds.
+
+"Saturated" means "full": every carbon already has as many hydrogen atoms as it can hold. An unsaturated compound can still take up more hydrogen (or other atoms) across its double or triple bond.
+
+**(ii) Closed chain (alicyclic) hydrocarbons:** the two end carbons of the chain join together to make a ring. They too can be saturated (cyclopropane C₃H₆, cyclobutane C₄H₈) or unsaturated (cyclopropene C₃H₄, cyclobutene C₄H₆).
+
+**11.2.2 Aromatic hydrocarbons.** "Aromatic" comes from the Greek *aroma*, meaning a pleasant smell, because the first such compounds discovered were sweet-smelling. They are flat (planar) rings, usually of 5, 6 or 7 atoms, with **alternating single and double bonds**. Examples: **benzene** (C₆H₆), one six-carbon ring, and **naphthalene** (C₁₀H₈), two benzene rings sharing a side. Naphthalene is the white "moth ball" (ন্যাপথলিন) put in clothes cupboards. In this chapter we mostly study aliphatic compounds.
+
+**Homologous series.** Look at the alkanes: CH₄, C₂H₆, C₃H₈, C₄H₁₀… Each one has one more CH₂ than the one before. All of them fit **CₙH₂ₙ₊₂**. Such a family is a **homologous series**. Members of a homologous series:
+- have the **same functional group** (the atom or group of atoms that decides the chemical reactions), so they have **similar chemical properties**;
+- can all be written with **one general formula**;
+- differ from the next member by **CH₂**, i.e. by 14 in relative molecular mass;
+- show a **gradual change** in physical properties (boiling point, melting point, density rise as the chain gets longer);
+- can be prepared by **similar methods**.
+
+The main homologous series of this chapter (Table 11.01):
+- **Alkane**, CₙH₂ₙ₊₂: methane CH₄, ethane C₂H₆, propane C₃H₈, butane C₄H₁₀
+- **Alkene**, CₙH₂ₙ (n ≥ 2), group C=C: ethene C₂H₄, propene C₃H₆
+- **Alkyne**, CₙH₂ₙ₋₂ (n ≥ 2), group C≡C: ethyne C₂H₂, propyne C₃H₄
+- **Alcohol**, CₙH₂ₙ₊₁OH, group –OH: methanol CH₃OH, ethanol C₂H₅OH
+- **Aldehyde**, CₙH₂ₙ₊₁CHO, group –CHO: ethanal CH₃CHO, propanal C₂H₅CHO (the first member, methanal HCHO, has n = 0)
+- **Carboxylic acid**, CₙH₂ₙ₊₁COOH, group –COOH: ethanoic acid CH₃COOH, propanoic acid C₂H₅COOH (first member methanoic acid HCOOH, n = 0)
+
+Notice: ethanol (C₂H₅OH) and ethene (C₂H₄) both have two carbons but belong to **different** series, because their functional groups (–OH and C=C) are different.
+## analogy
+A homologous series is like a family of brothers and sisters born one year apart. Each is a little taller than the one before (one more CH₂), they all share the family surname (the general formula), and they behave in very similar ways because they inherited the same "family habit" (the functional group).
+## definition
+**Hydrocarbon**: a compound formed from carbon and hydrogen only.
+
+**Saturated hydrocarbon**: a hydrocarbon in which all carbon–carbon bonds are single bonds. **Unsaturated hydrocarbon**: a hydrocarbon containing at least one carbon–carbon double or triple bond.
+
+**Aromatic hydrocarbon**: a planar cyclic hydrocarbon with alternating single and double bonds in the ring, such as benzene and naphthalene.
+
+**Homologous series**: a series of organic compounds with the same functional group and similar chemical properties, which can be represented by a common general formula and in which successive members differ by a –CH₂– unit.
+
+**Functional group**: the atom or group of atoms in an organic molecule that determines its characteristic chemical reactions (e.g. C=C, –OH, –CHO, –COOH).
+## why
+Why do members of a series react alike? A reaction happens at the functional group; the rest of the molecule is just a chain of C–C and C–H bonds, which hardly reacts. Ethanol and propanol both have an –OH group, so what –OH does in one, it does in the other. The longer chain only changes the *physical* properties: more CH₂ units mean stronger attractions between molecules, so the boiling point climbs step by step.
+
+Why do alkanes fit CₙH₂ₙ₊₂? In a chain of n carbons each carbon has 4 bonds. The chain uses (n − 1) C–C bonds, and every C–C bond uses one bond on each of two carbons. Total bonds on carbons = 4n; bonds used inside the chain = 2(n − 1); the remaining 4n − 2(n − 1) = 2n + 2 bonds hold hydrogen atoms. Each C=C "uses up" two more bonds, so alkenes have 2 fewer H (CₙH₂ₙ), and a C≡C removes 4 H (CₙH₂ₙ₋₂).
+## terms
+Aliphatic | Open chain or non-aromatic ring hydrocarbons (from Greek for fat)
+Open chain | The two end carbons of the chain are free
+Closed chain (alicyclic) | The chain ends join to form a ring
+Aromatic | Planar ring with alternating single and double bonds (benzene type)
+Saturated | Only C–C single bonds
+Unsaturated | Contains a C=C or C≡C bond
+Homologous series | Family with the same functional group and general formula, differing by CH₂
+Functional group | The part of a molecule that decides its reactions
+## formula
+$$ Alkane: CₙH₂ₙ₊₂ · Alkene: CₙH₂ₙ · Alkyne: CₙH₂ₙ₋₂
+$$ Alcohol: CₙH₂ₙ₊₁OH · Aldehyde: CₙH₂ₙ₊₁CHO · Acid: CₙH₂ₙ₊₁COOH
+$$ Mr of alkane = 14n + 2
+n | number of carbon atoms (in the chain part for aldehydes and acids) | —
+! Successive members differ by CH₂ = 12 + 2 × 1 = 14 in relative molecular mass.
+## visual
+Pick a homologous series and move the slider to change the number of carbon atoms. Watch the name, formula and structure change by one CH₂ at a time.
+## real
+The LPG in a cooking cylinder is mostly propane and butane, neighbours in the alkane series; the naphthalene balls in your grandmother's trunk are an aromatic hydrocarbon; the vinegar in achar contains ethanoic acid, a member of the carboxylic acid series.
+## example
+Q: Write the molecular formula and relative molecular mass of the alkane with 6 carbon atoms. (C = 12, H = 1)
+Given: n = 6; general formula CₙH₂ₙ₊₂
+Formula: CₙH₂ₙ₊₂; Mr = 14n + 2
+Substitution: H = 2 × 6 + 2 = 14 → C₆H₁₄
+Calculation: Mr = 6 × 12 + 14 × 1 = 72 + 14 = 86 (check: 14 × 6 + 2 = 86)
+Answer: C₆H₁₄ (hexane), Mr = 86
+## example
+Q: To which homologous series does each belong: (a) C₃H₄ (b) C₅H₁₀ (open chain) (c) C₄H₉OH?
+Solution: (a) n = 3, 2n − 2 = 4 → fits CₙH₂ₙ₋₂ → alkyne (propyne). (b) n = 5, 2n = 10 → fits CₙH₂ₙ → alkene (pentene). (c) C₄H₉ = CₙH₂ₙ₊₁ with n = 4, plus –OH → alcohol (butanol).
+> Count the carbons first (n), then compare the number of hydrogens with 2n + 2, 2n and 2n − 2.
+Answer: (a) alkyne (b) alkene (c) alcohol
+## mistakes
+x Ethanol and ethene are in the same homologous series because both have 2 carbons.
+v A series is decided by the functional group. Ethanol has –OH (alcohol); ethene has C=C (alkene).
+x Any compound containing carbon and hydrogen is a hydrocarbon.
+v A hydrocarbon contains ONLY carbon and hydrogen. Ethanol (C₂H₅OH) has oxygen, so it is not a hydrocarbon.
+x Members of a homologous series have the same physical properties.
+v Their chemical properties are similar, but physical properties such as boiling point change gradually along the series.
+## remember
+- Hydrocarbon = C and H only.
+- Aliphatic: open chain (alkane, alkene, alkyne) or closed chain (alicyclic); aromatic: benzene C₆H₆, naphthalene C₁₀H₈.
+- Saturated: only single bonds; unsaturated: C=C or C≡C.
+- Homologous series: same functional group, one general formula, differ by CH₂ (14), similar chemical and gradually changing physical properties.
+- Alkane CₙH₂ₙ₊₂, alkene CₙH₂ₙ, alkyne CₙH₂ₙ₋₂.
+## think
+Cyclopropane (C₃H₆) and propene (C₃H₆) have the same molecular formula. Are they in the same homologous series? How could you tell them apart?
+## quiz
+? Which of these is a hydrocarbon?
+- C₂H₅OH
+* C₆H₆
+- CH₃COOH
+- CH₃CHO
+= Benzene, C₆H₆, contains only carbon and hydrogen.
+? The general formula of alkynes is:
+- CₙH₂ₙ₊₂
+- CₙH₂ₙ
+* CₙH₂ₙ₋₂
+- CₙH₂ₙ₊₁OH
+= A C≡C triple bond takes the place of four hydrogen atoms compared with the alkane, so alkynes are CₙH₂ₙ₋₂.
+? Two successive members of a homologous series differ by:
+* CH₂
+- CH₃
+- CH₄
+- C₂H₄
+= Each member has one more –CH₂– unit (14 mass units) than the previous one.
+? Naphthalene is:
+- An alkane
+- An alicyclic hydrocarbon
+* An aromatic hydrocarbon
+- An alcohol
+= Naphthalene (C₁₀H₈) is made of two fused benzene rings, so it is aromatic.
+== bn
+## what
+শুধু কার্বন ও হাইড্রোজেন দিয়ে গঠিত যৌগকে **হাইড্রোকার্বন** বলে। হাইড্রোকার্বন হয় **অ্যালিফেটিক** (মুক্ত শিকল বা বদ্ধ শিকল) অথবা **অ্যারোমেটিক** (বেনজিন-জাতীয় বলয়)। একই কার্যকরী মূলকবিশিষ্ট যৌগগুলো মিলে গঠন করে **সমগোত্রীয় শ্রেণি**: এদের সবার একটি সাধারণ সংকেত থাকে, আর পরপর দুটি সদস্যের পার্থক্য **–CH₂–**।
+## simple
+মিথেন (CH₄), ইথিন (C₂H₄), সাইক্লোহেক্সেন (C₆H₁₂) আর বেনজিন (C₆H₆): এদের মধ্যে একটা মিল আছে, কার্বন আর হাইড্রোজেন ছাড়া আর কোনো মৌল নেই। এরা সবাই **হাইড্রোকার্বন**। কার্বন চারটি বন্ধন গঠন করতে পারে এবং অন্য কার্বনের সাথে যুক্ত হয়ে লম্বা শিকল ও বলয় বানাতে পারে, তাই হাইড্রোকার্বনের সংখ্যা লক্ষ লক্ষ। রসায়নবিদেরা এদের বিভিন্ন পরিবারে ভাগ করেন।
+
+**১১.২.১ অ্যালিফেটিক হাইড্রোকার্বন।** "অ্যালিফেটিক" শব্দটি এসেছে গ্রিক শব্দ থেকে, যার অর্থ *চর্বি* বা *তেল*; প্রথম দিকে এ ধরনের যে যৌগগুলো নিয়ে কাজ হয়েছিল, সেগুলো চর্বি ও তেল থেকে পাওয়া গিয়েছিল বলে এই নাম। এরা দুই ধরনের:
+
+**(ক) মুক্ত শিকল হাইড্রোকার্বন:** কার্বন পরমাণুগুলো এমন শিকল গঠন করে যার দুই প্রান্ত মুক্ত (পরস্পর যুক্ত নয়)। যেমন: বিউটেন CH₃–CH₂–CH₂–CH₃, ইথিন CH₂=CH₂। এরা হতে পারে:
+- **সম্পৃক্ত**: শুধু C–C একক বন্ধন। এরাই **অ্যালকেন**, যেমন প্রোপেন CH₃–CH₂–CH₃, পেন্টেন CH₃–CH₂–CH₂–CH₂–CH₃;
+- **অসম্পৃক্ত**: অন্তত একটি C=C দ্বিবন্ধন (**অ্যালকিন**, যেমন প্রোপিন CH₃–CH=CH₂) বা C≡C ত্রিবন্ধন (**অ্যালকাইন**, যেমন ইথাইন CH≡CH, প্রোপাইন CH₃–C≡CH)। অসম্পৃক্ত যৌগে একক বন্ধনও থাকতে পারে।
+
+"সম্পৃক্ত" মানে "পরিপূর্ণ": প্রতিটি কার্বন যত হাইড্রোজেন ধরে রাখতে পারে, ততগুলোই ধরে আছে। অসম্পৃক্ত যৌগ তার দ্বিবন্ধন বা ত্রিবন্ধনে আরও হাইড্রোজেন (বা অন্য পরমাণু) যুক্ত করতে পারে।
+
+**(খ) বদ্ধ শিকল (অ্যালিসাইক্লিক) হাইড্রোকার্বন:** শিকলের দুই প্রান্তের কার্বন পরস্পর যুক্ত হয়ে একটি বলয় বা চক্র তৈরি করে। এরাও সম্পৃক্ত (সাইক্লোপ্রোপেন C₃H₆, সাইক্লোবিউটেন C₄H₈) বা অসম্পৃক্ত (সাইক্লোপ্রোপিন C₃H₄, সাইক্লোবিউটিন C₄H₆) হতে পারে।
+
+**১১.২.২ অ্যারোমেটিক হাইড্রোকার্বন।** "অ্যারোমেটিক" শব্দটি এসেছে গ্রিক *অ্যারোমা* থেকে, যার অর্থ সুগন্ধ; প্রথম যে যৌগগুলো পাওয়া গিয়েছিল সেগুলো সুগন্ধযুক্ত ছিল বলে এই নাম। এরা সাধারণত ৫, ৬ বা ৭ সদস্যের সমতলীয় বলয়, যেখানে **একান্তর একক ও দ্বিবন্ধন** থাকে। যেমন: **বেনজিন** (C₆H₆), একটি ছয়-কার্বনের বলয়, আর **ন্যাপথলিন** (C₁₀H₈), একটি বাহু ভাগাভাগি করা দুটি বেনজিন বলয়। আলমারিতে কাপড়ের ভাঁজে রাখা সাদা গোল ন্যাপথলিন এটিই। এই অধ্যায়ে আমরা মূলত অ্যালিফেটিক যৌগ নিয়ে পড়ব।
+
+**সমগোত্রীয় শ্রেণি।** অ্যালকেনগুলো দেখো: CH₄, C₂H₆, C₃H₈, C₄H₁₀… প্রতিটিতে আগেরটির চেয়ে একটি করে CH₂ বেশি। সবাই **CₙH₂ₙ₊₂** সংকেতে খাপ খায়। এমন পরিবারকে বলে **সমগোত্রীয় শ্রেণি**। সমগোত্রীয় শ্রেণির সদস্যরা:
+- একই **কার্যকরী মূলক** বহন করে (যে পরমাণু বা পরমাণুগুচ্ছ রাসায়নিক বিক্রিয়া ঠিক করে দেয়), তাই এদের **রাসায়নিক ধর্ম একই রকম**;
+- সবাইকে **একটি সাধারণ সংকেতে** প্রকাশ করা যায়;
+- পরপর সদস্যের পার্থক্য **CH₂**, অর্থাৎ আপেক্ষিক আণবিক ভরে ১৪;
+- ভৌত ধর্মে (স্ফুটনাঙ্ক, গলনাঙ্ক, ঘনত্ব) **ক্রমিক পরিবর্তন** দেখায়, শিকল লম্বা হলে এগুলো বাড়ে;
+- **একই রকম পদ্ধতিতে** প্রস্তুত করা যায়।
+
+এই অধ্যায়ের প্রধান সমগোত্রীয় শ্রেণিগুলো (টেবিল ১১.০১):
+- **অ্যালকেন**, CₙH₂ₙ₊₂: মিথেন CH₄, ইথেন C₂H₆, প্রোপেন C₃H₈, বিউটেন C₄H₁₀
+- **অ্যালকিন**, CₙH₂ₙ (n ≥ ২), মূলক C=C: ইথিন C₂H₄, প্রোপিন C₃H₆
+- **অ্যালকাইন**, CₙH₂ₙ₋₂ (n ≥ ২), মূলক C≡C: ইথাইন C₂H₂, প্রোপাইন C₃H₄
+- **অ্যালকোহল**, CₙH₂ₙ₊₁OH, মূলক –OH: মিথানল CH₃OH, ইথানল C₂H₅OH
+- **অ্যালডিহাইড**, CₙH₂ₙ₊₁CHO, মূলক –CHO: ইথান্যাল CH₃CHO, প্রোপান্যাল C₂H₅CHO (প্রথম সদস্য মিথান্যাল HCHO-তে n = ০)
+- **কার্বক্সিলিক এসিড**, CₙH₂ₙ₊₁COOH, মূলক –COOH: ইথানয়িক এসিড CH₃COOH, প্রোপানয়িক এসিড C₂H₅COOH (প্রথম সদস্য মিথানয়িক এসিড HCOOH, n = ০)
+
+লক্ষ করো: ইথানল (C₂H₅OH) আর ইথিন (C₂H₄) দুটোতেই দুটি কার্বন, কিন্তু এরা **ভিন্ন** শ্রেণির, কারণ এদের কার্যকরী মূলক (–OH ও C=C) আলাদা।
+## analogy
+সমগোত্রীয় শ্রেণি যেন এক বছরের ব্যবধানে জন্মানো ভাইবোনের একটি পরিবার। প্রত্যেকে আগের জনের চেয়ে একটু লম্বা (একটি করে CH₂ বেশি), সবার পারিবারিক পদবি এক (সাধারণ সংকেত), আর সবাই প্রায় একই রকম আচরণ করে, কারণ সবাই একই "পারিবারিক স্বভাব" (কার্যকরী মূলক) পেয়েছে।
+## definition
+**হাইড্রোকার্বন**: শুধু কার্বন ও হাইড্রোজেন দিয়ে গঠিত যৌগ।
+
+**সম্পৃক্ত হাইড্রোকার্বন**: যে হাইড্রোকার্বনে সব কার্বন-কার্বন বন্ধন একক বন্ধন। **অসম্পৃক্ত হাইড্রোকার্বন**: যে হাইড্রোকার্বনে অন্তত একটি কার্বন-কার্বন দ্বিবন্ধন বা ত্রিবন্ধন আছে।
+
+**অ্যারোমেটিক হাইড্রোকার্বন**: বলয়ে একান্তর একক ও দ্বিবন্ধনবিশিষ্ট সমতলীয় চক্রাকার হাইড্রোকার্বন, যেমন বেনজিন ও ন্যাপথলিন।
+
+**সমগোত্রীয় শ্রেণি**: একই কার্যকরী মূলক ও একই রকম রাসায়নিক ধর্মবিশিষ্ট জৈব যৌগের এমন একটি শ্রেণি, যাদের একটি সাধারণ সংকেত দিয়ে প্রকাশ করা যায় এবং যার পরপর সদস্যের মধ্যে একটি –CH₂– এককের পার্থক্য থাকে।
+
+**কার্যকরী মূলক**: জৈব অণুর যে পরমাণু বা পরমাণুগুচ্ছ তার বৈশিষ্ট্যপূর্ণ রাসায়নিক বিক্রিয়া নির্ধারণ করে (যেমন C=C, –OH, –CHO, –COOH)।
+## why
+একই শ্রেণির সদস্যরা একইভাবে বিক্রিয়া করে কেন? বিক্রিয়া ঘটে কার্যকরী মূলকে; অণুর বাকি অংশ শুধু C–C আর C–H বন্ধনের শিকল, যা প্রায় বিক্রিয়াই করে না। ইথানল আর প্রোপানল দুটোতেই –OH আছে, তাই –OH একটিতে যা করে, অন্যটিতেও তা-ই করে। লম্বা শিকল শুধু *ভৌত* ধর্ম বদলায়: বেশি CH₂ মানে অণুগুলোর মধ্যে বেশি আকর্ষণ, তাই স্ফুটনাঙ্ক ধাপে ধাপে বাড়ে।
+
+অ্যালকেন CₙH₂ₙ₊₂ সংকেতে খাপ খায় কেন? n কার্বনের শিকলে প্রতিটি কার্বনের ৪টি বন্ধন, মোট ৪n। শিকলে (n − ১)টি C–C বন্ধন, আর প্রতিটি C–C বন্ধন দুটি কার্বনের একটি করে বন্ধন খরচ করে, অর্থাৎ মোট ২(n − ১)। বাকি ৪n − ২(n − ১) = ২n + ২টি বন্ধনে হাইড্রোজেন বসে। প্রতিটি C=C আরও দুটি বন্ধন "খরচ" করে, তাই অ্যালকিনে ২টি H কম (CₙH₂ₙ), আর C≡C থাকলে ৪টি H কম (CₙH₂ₙ₋₂)।
+## terms
+অ্যালিফেটিক | মুক্ত শিকল বা অ-অ্যারোমেটিক বলয়ের হাইড্রোকার্বন (গ্রিক শব্দ, অর্থ চর্বি)
+মুক্ত শিকল | শিকলের দুই প্রান্তের কার্বন মুক্ত
+বদ্ধ শিকল (অ্যালিসাইক্লিক) | শিকলের দুই প্রান্ত যুক্ত হয়ে বলয় গঠন করে
+অ্যারোমেটিক | একান্তর একক ও দ্বিবন্ধনবিশিষ্ট সমতলীয় বলয় (বেনজিন-জাতীয়)
+সম্পৃক্ত | শুধু C–C একক বন্ধন
+অসম্পৃক্ত | C=C বা C≡C বন্ধন আছে
+সমগোত্রীয় শ্রেণি | একই কার্যকরী মূলক ও সাধারণ সংকেতবিশিষ্ট পরিবার, পার্থক্য CH₂
+কার্যকরী মূলক | অণুর যে অংশ তার বিক্রিয়া ঠিক করে
+## formula
+$$ অ্যালকেন: CₙH₂ₙ₊₂ · অ্যালকিন: CₙH₂ₙ · অ্যালকাইন: CₙH₂ₙ₋₂
+$$ অ্যালকোহল: CₙH₂ₙ₊₁OH · অ্যালডিহাইড: CₙH₂ₙ₊₁CHO · এসিড: CₙH₂ₙ₊₁COOH
+$$ অ্যালকেনের Mr = 14n + 2
+n | কার্বন পরমাণুর সংখ্যা (অ্যালডিহাইড ও এসিডে শিকল অংশের) | —
+! পরপর সদস্যের পার্থক্য CH₂ = ১২ + ২ × ১ = ১৪ (আপেক্ষিক আণবিক ভরে)।
+## visual
+একটি সমগোত্রীয় শ্রেণি বেছে নাও আর স্লাইডার সরিয়ে কার্বন পরমাণুর সংখ্যা বদলাও। দেখো নাম, সংকেত আর গঠন কীভাবে একবারে একটি করে CH₂ বদলায়।
+## real
+রান্নার সিলিন্ডারের এলপিজি মূলত প্রোপেন আর বিউটেন, অ্যালকেন শ্রেণির পাশাপাশি দুই সদস্য; নানির ট্রাংকের ন্যাপথলিন একটি অ্যারোমেটিক হাইড্রোকার্বন; আচারের ভিনেগারে আছে ইথানয়িক এসিড, কার্বক্সিলিক এসিড শ্রেণির সদস্য।
+## example
+প্রশ্ন: ৬টি কার্বনবিশিষ্ট অ্যালকেনের আণবিক সংকেত ও আপেক্ষিক আণবিক ভর লেখো। (C = ১২, H = ১)
+দেওয়া আছে: n = ৬; সাধারণ সংকেত CₙH₂ₙ₊₂
+সূত্র: CₙH₂ₙ₊₂; Mr = 14n + 2
+মান বসাই: H = ২ × ৬ + ২ = ১৪ → C₆H₁₄
+হিসাব: Mr = ৬ × ১২ + ১৪ × ১ = ৭২ + ১৪ = ৮৬ (যাচাই: ১৪ × ৬ + ২ = ৮৬)
+উত্তর: C₆H₁₄ (হেক্সেন), Mr = ৮৬
+## example
+প্রশ্ন: কোনটি কোন সমগোত্রীয় শ্রেণির: (ক) C₃H₄ (খ) C₅H₁₀ (মুক্ত শিকল) (গ) C₄H₉OH?
+সমাধান: (ক) n = ৩, ২n − ২ = ৪ → CₙH₂ₙ₋₂-এ খাপ খায় → অ্যালকাইন (প্রোপাইন)। (খ) n = ৫, ২n = ১০ → CₙH₂ₙ → অ্যালকিন (পেন্টিন)। (গ) C₄H₉ = CₙH₂ₙ₊₁ যেখানে n = ৪, সাথে –OH → অ্যালকোহল (বিউটানল)।
+> আগে কার্বন গোনো (n), তারপর হাইড্রোজেনের সংখ্যা ২n + ২, ২n আর ২n − ২-এর সাথে মেলাও।
+উত্তর: (ক) অ্যালকাইন (খ) অ্যালকিন (গ) অ্যালকোহল
+## mistakes
+x ইথানল আর ইথিন একই সমগোত্রীয় শ্রেণির, কারণ দুটোতেই ২টি কার্বন।
+v শ্রেণি ঠিক হয় কার্যকরী মূলক দিয়ে। ইথানলে –OH (অ্যালকোহল); ইথিনে C=C (অ্যালকিন)।
+x কার্বন আর হাইড্রোজেন আছে এমন যেকোনো যৌগই হাইড্রোকার্বন।
+v হাইড্রোকার্বনে থাকে শুধুই কার্বন ও হাইড্রোজেন। ইথানলে (C₂H₅OH) অক্সিজেন আছে, তাই এটি হাইড্রোকার্বন নয়।
+x সমগোত্রীয় শ্রেণির সদস্যদের ভৌত ধর্ম একই।
+v এদের রাসায়নিক ধর্ম একই রকম, কিন্তু স্ফুটনাঙ্কের মতো ভৌত ধর্ম শ্রেণি বরাবর ক্রমশ বদলায়।
+## remember
+- হাইড্রোকার্বন = শুধু C ও H।
+- অ্যালিফেটিক: মুক্ত শিকল (অ্যালকেন, অ্যালকিন, অ্যালকাইন) বা বদ্ধ শিকল (অ্যালিসাইক্লিক); অ্যারোমেটিক: বেনজিন C₆H₆, ন্যাপথলিন C₁₀H₈।
+- সম্পৃক্ত: শুধু একক বন্ধন; অসম্পৃক্ত: C=C বা C≡C।
+- সমগোত্রীয় শ্রেণি: একই কার্যকরী মূলক, একটি সাধারণ সংকেত, পার্থক্য CH₂ (১৪), রাসায়নিক ধর্ম একই রকম আর ভৌত ধর্ম ক্রমপরিবর্তনশীল।
+- অ্যালকেন CₙH₂ₙ₊₂, অ্যালকিন CₙH₂ₙ, অ্যালকাইন CₙH₂ₙ₋₂।
+## think
+সাইক্লোপ্রোপেন (C₃H₆) আর প্রোপিন (C₃H₆)-এর আণবিক সংকেত একই। এরা কি একই সমগোত্রীয় শ্রেণির? এদের কীভাবে আলাদা করবে?
+## quiz
+? নিচের কোনটি হাইড্রোকার্বন?
+- C₂H₅OH
+* C₆H₆
+- CH₃COOH
+- CH₃CHO
+= বেনজিন, C₆H₆-এ শুধু কার্বন ও হাইড্রোজেন আছে।
+? অ্যালকাইনের সাধারণ সংকেত:
+- CₙH₂ₙ₊₂
+- CₙH₂ₙ
+* CₙH₂ₙ₋₂
+- CₙH₂ₙ₊₁OH
+= অ্যালকেনের তুলনায় একটি C≡C ত্রিবন্ধন চারটি হাইড্রোজেনের জায়গা নেয়, তাই অ্যালকাইন CₙH₂ₙ₋₂।
+? সমগোত্রীয় শ্রেণির পরপর দুটি সদস্যের পার্থক্য:
+* CH₂
+- CH₃
+- CH₄
+- C₂H₄
+= প্রতিটি সদস্যে আগেরটির চেয়ে একটি করে –CH₂– একক (ভরে ১৪) বেশি।
+? ন্যাপথলিন হলো:
+- একটি অ্যালকেন
+- একটি অ্যালিসাইক্লিক হাইড্রোকার্বন
+* একটি অ্যারোমেটিক হাইড্রোকার্বন
+- একটি অ্যালকোহল
+= ন্যাপথলিন (C₁₀H₈) দুটি জোড়া লাগানো বেনজিন বলয় দিয়ে তৈরি, তাই অ্যারোমেটিক।
+
+@@ 11.3
+@visual k11alkane
+@related 11.2 11.4 11.1 8.2
+== en
+## what
+**Alkanes** are saturated hydrocarbons: every carbon–carbon bond is a single bond. Their general formula is **CₙH₂ₙ₊₂** (methane CH₄, ethane C₂H₆, propane C₃H₈…). They are fairly unreactive, but they **burn** in oxygen and undergo **substitution** with chlorine in ultraviolet light.
+## simple
+The alkanes are the simplest family of hydrocarbons. The first member (n = 1) is **methane**, CH₄: one carbon with four hydrogens around it, pointing to the corners of a tetrahedron. The second (n = 2) is **ethane**, C₂H₆ (CH₃–CH₃). Add one CH₂ each time and you walk down the series.
+
+**Naming alkanes (IUPAC).** The name has two parts: a **stem** that tells the number of carbon atoms, and the ending **-ane** that says "alkane". The first four stems are special names; from 5 on they come from Greek numbers:
+
+- 1 C: **meth**ane CH₄
+- 2 C: **eth**ane CH₃–CH₃
+- 3 C: **prop**ane CH₃–CH₂–CH₃
+- 4 C: **but**ane CH₃–CH₂–CH₂–CH₃
+- 5 C: **pent**ane C₅H₁₂ · 6 C: **hex**ane C₆H₁₄ · 7 C: **hept**ane C₇H₁₆
+- 8 C: **oct**ane C₈H₁₈ · 9 C: **non**ane C₉H₂₀ · 10 C: **dec**ane C₁₀H₂₂
+
+(Memory help: pent = 5 as in pentagon, hex = 6 as in hexagon, oct = 8 as in octopus; the first four, meth–eth–prop–but, just have to be learnt.)
+
+**Alkyl groups.** Remove one H atom from an alkane and you get a group with one free bond, an **alkyl group**, general formula **CₙH₂ₙ₊₁–**, written **R–**. Name it by changing **-ane** to **-yl**: methane → **methyl** CH₃–, ethane → **ethyl** CH₃–CH₂–, propane → **propyl** CH₃–CH₂–CH₂–, butane → **butyl**, pentane → **pentyl**. So any alkane can be written R–H.
+
+**Why "paraffins"?** C–C and C–H bonds are strong and non-polar, and hard to break. So alkanes do not react with acids, bases, oxidising agents or reducing agents under ordinary conditions. That is why they are called **paraffins** (Latin: "little affinity"). They react only at high temperature, high pressure, in UV light or with a strong catalyst.
+
+**Physical properties.** The state depends on chain length:
+- C₁–C₄ (methane to butane): **gases** at room temperature (boiling points below room temperature).
+- C₅–C₁₅: **liquids** (pentane boils at 36.1 °C).
+- C₁₆ and above: gradually become waxy **solids** (paraffin wax, candles).
+
+Boiling points climb steadily: methane −162 °C, ethane −89 °C, propane −42 °C, butane −0.5 °C, pentane 36 °C, hexane 69 °C, octane 126 °C, decane 174 °C. Alkanes are insoluble in water but dissolve in organic solvents, and are less dense than water; that is why petrol and kerosene float on water.
+
+**Preparation of alkanes.**
+
+1. **From carbon dioxide:** CO₂ and hydrogen heated at 250 °C with a nickel catalyst give methane: CO₂(g) + 4H₂(g) → CH₄(g) + 2H₂O(g) (Ni, 250 °C)
+2. **From alkenes and alkynes (hydrogenation):** with a nickel catalyst at 180–200 °C: CH₂=CH₂ + H₂ → CH₃–CH₃ (Ni, 180–200 °C) CH≡CH + 2H₂ → CH₃–CH₃ (Ni, 180–200 °C)
+3. **Decarboxylation:** heating sodium ethanoate with **soda lime** (NaOH + CaO) removes the –COO part as sodium carbonate: CH₃COONa(s) + NaOH(s) → CH₄(g) + Na₂CO₃(s) (CaO, heat)
+
+**Chemical properties.**
+
+**(a) Substitution with chlorine.** In ultraviolet light (or sunlight), chlorine replaces the hydrogen atoms of methane **one by one**. Each step swaps one H for one Cl and gives off HCl:
+- CH₄ + Cl₂ → CH₃Cl + HCl (chloromethane)
+- CH₃Cl + Cl₂ → CH₂Cl₂ + HCl (dichloromethane)
+- CH₂Cl₂ + Cl₂ → CHCl₃ + HCl (trichloromethane, chloroform)
+- CHCl₃ + Cl₂ → CCl₄ + HCl (tetrachloromethane)
+
+This is a **substitution reaction**: one atom is replaced by another, and the carbon still has four single bonds. Saturated compounds can only react this way because there is no "spare" bond to open.
+
+**(b) Combustion.** Alkanes burn in plenty of oxygen to give carbon dioxide, water and a lot of heat. That is why they are such good fuels:
+- CH₄ + 2O₂ → CO₂ + 2H₂O + heat (natural gas in the kitchen)
+- C₃H₈ + 5O₂ → 3CO₂ + 4H₂O + heat (LPG)
+
+If there is **not enough air**, combustion is **incomplete** and poisonous **carbon monoxide** (or sooty carbon) forms: 2CH₄ + 3O₂ → 2CO + 4H₂O. A yellow, smoky flame on a gas stove is a warning sign.
+## analogy
+An alkane is like a bus in which every seat is taken. Nobody new can get on unless someone gets off first: a Cl can only come in if an H leaves (substitution). An alkene, as you will see next, is a bus with empty seats; new passengers can simply get on (addition).
+## definition
+**Alkane**: a saturated open-chain hydrocarbon in which all carbon–carbon bonds are single bonds; general formula CₙH₂ₙ₊₂.
+
+**Alkyl group (R–)**: the monovalent group formed by removing one hydrogen atom from an alkane; general formula CₙH₂ₙ₊₁–.
+
+**Substitution reaction**: a reaction in which an atom or group in a molecule is replaced by another atom or group.
+
+**Combustion**: the reaction of a substance with oxygen that gives out heat (and usually light). Complete combustion of a hydrocarbon gives CO₂ and H₂O.
+## why
+Why does chlorination need UV light? The Cl–Cl bond must first be split into two chlorine atoms (Cl•), each with an unpaired electron. UV light supplies that energy. A chlorine atom is very reactive: it pulls an H off methane, and the process continues as a chain until the reactants run out. In the dark, the Cl₂ molecule stays whole and nothing happens.
+
+Why does combustion give so much heat? Burning breaks C–H, C–C and O=O bonds, but forms very strong C=O bonds (in CO₂) and O–H bonds (in H₂O). More energy is released in forming the new bonds than is used to break the old ones, so the reaction is strongly exothermic (about 890 kJ for each mole of methane).
+## terms
+Alkane | Saturated hydrocarbon, CₙH₂ₙ₊₂
+Paraffin | Old name for alkanes: "little affinity" (unreactive)
+Alkyl group (R–) | Alkane minus one H: methyl, ethyl, propyl…
+Substitution | One atom replaced by another
+Hydrogenation | Adding hydrogen to a C=C or C≡C bond (Ni catalyst)
+Decarboxylation | Removing CO₂ (as carbonate) from a carboxylate salt
+Soda lime | A mixture of NaOH and CaO
+Incomplete combustion | Burning with too little oxygen, giving CO or soot
+## formula
+$$ General formula: CₙH₂ₙ₊₂; alkyl group: CₙH₂ₙ₊₁–
+$$ CₙH₂ₙ₊₂ + (3n+1)/2 O₂ → nCO₂ + (n+1)H₂O
+$$ Mr = 14n + 2
+n | number of carbon atoms | —
+! If (3n+1)/2 is a fraction (n even), multiply the whole equation by 2, e.g. 2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O.
+## visual
+Move the slider to build alkanes from methane to decane. Read the name, formula and boiling point, and see the balanced combustion equation. Switch to the chlorine tab and step through the four substitution steps of methane.
+## real
+In Bangladesh, methane (natural gas) cooks our food and runs power plants, the propane–butane mixture (LPG) comes in cylinders, and octane-rich petrol runs cars ("octane" at filling stations means high-quality petrol). Every year some families suffer carbon monoxide poisoning from gas stoves or charcoal burned in closed rooms in winter; always keep a window open when a flame is burning indoors.
+## example
+Q: Write the balanced equation for the complete combustion of propane and find the mass of CO₂ formed when 44 g of propane burns. (C = 12, H = 1, O = 16)
+Given: propane C₃H₈, mass = 44 g; Mr(C₃H₈) = 3 × 12 + 8 = 44; Mr(CO₂) = 44
+Formula: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O
+Calculation: 44 g C₃H₈ = 1 mol → 3 mol CO₂ = 3 × 44 = 132 g
+> Check atoms: left C 3, H 8, O 10; right C 3, H 8, O 3 × 2 + 4 = 10.
+Answer: 132 g of CO₂
+## example
+Q: Balance the combustion equation of butane.
+Given: C₄H₁₀ + O₂ → CO₂ + H₂O
+Solution: C: 4 → 4CO₂. H: 10 → 5H₂O. O needed on the right = 4 × 2 + 5 = 13 atoms = 13/2 O₂. So C₄H₁₀ + 13/2 O₂ → 4CO₂ + 5H₂O.
+> Whole numbers are preferred, so multiply everything by 2.
+Answer: 2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O
+## example
+Q: Methane and chlorine are mixed and kept in (a) a dark cupboard, (b) sunlight. What happens in each case? Write the first step.
+Solution: (a) In the dark, nothing happens: Cl₂ molecules must be split by UV light first. (b) In sunlight, substitution starts: CH₄ + Cl₂ → CH₃Cl + HCl, and with more chlorine it can go on to CH₂Cl₂, CHCl₃ and CCl₄.
+Answer: No reaction in the dark; stepwise substitution in sunlight, first step CH₄ + Cl₂ → CH₃Cl + HCl.
+## mistakes
+x Alkanes decolourise bromine water.
+v Alkanes are saturated and do not add bromine; bromine water stays orange (it reacts slowly only in bright light by substitution).
+x In CH₄ + Cl₂ → CH₃Cl + HCl, chlorine is added to methane.
+v It is substitution: one H is replaced by one Cl, and the H leaves as HCl.
+x Butane is C₄H₈.
+v Butane is an alkane: CₙH₂ₙ₊₂ with n = 4 gives C₄H₁₀ (2 × 4 + 2 = 10). C₄H₈ is butene (an alkene).
+## remember
+- Alkanes: saturated, CₙH₂ₙ₊₂, names end in -ane; alkyl groups CₙH₂ₙ₊₁– end in -yl.
+- C₁–C₄ gases, C₅–C₁₅ liquids, C₁₆ upward solids; boiling point rises with n.
+- Prepared from CO₂ + H₂ (Ni), by hydrogenating alkenes/alkynes (Ni), or by decarboxylation with soda lime.
+- React by substitution with Cl₂ in UV light (four steps to CCl₄) and by combustion.
+- Too little air → poisonous CO.
+## think
+Methane molecules are much lighter than octane molecules, yet a litre of liquid petrol gives far more heat than a litre of natural gas at room pressure. Why?
+## quiz
+? The formula of the alkane with 5 carbon atoms is:
+- C₅H₁₀
+* C₅H₁₂
+- C₅H₈
+- C₅H₁₁
+= CₙH₂ₙ₊₂ with n = 5 gives C₅H₁₂ (pentane).
+? CH₄ + Cl₂ → CH₃Cl + HCl in UV light is an example of:
+- Addition
+* Substitution
+- Polymerisation
+- Neutralisation
+= A hydrogen atom of methane is replaced by a chlorine atom.
+? Which product is formed when methane is heated with too little air?
+- Only CO₂
+* Carbon monoxide
+- Chlorine
+- Hydrogen
+= Incomplete combustion gives poisonous CO: 2CH₄ + 3O₂ → 2CO + 4H₂O.
+? Methane is obtained by heating sodium ethanoate with:
+- Dilute HCl
+- Water
+* Soda lime (NaOH + CaO)
+- Bromine water
+= CH₃COONa + NaOH → CH₄ + Na₂CO₃ (decarboxylation, with CaO).
+== bn
+## what
+**অ্যালকেন** হলো সম্পৃক্ত হাইড্রোকার্বন: এর প্রতিটি কার্বন-কার্বন বন্ধন একক বন্ধন। সাধারণ সংকেত **CₙH₂ₙ₊₂** (মিথেন CH₄, ইথেন C₂H₆, প্রোপেন C₃H₈…)। এরা বেশ নিষ্ক্রিয়, তবে অক্সিজেনে **পোড়ে** এবং অতিবেগুনি আলোয় ক্লোরিনের সাথে **প্রতিস্থাপন** বিক্রিয়া করে।
+## simple
+অ্যালকেন হলো হাইড্রোকার্বনের সবচেয়ে সরল পরিবার। প্রথম সদস্য (n = ১) **মিথেন**, CH₄: একটি কার্বন, তার চারপাশে চারটি হাইড্রোজেন, চতুস্তলকের চার কোণের দিকে মুখ করে। দ্বিতীয় সদস্য (n = ২) **ইথেন**, C₂H₆ (CH₃–CH₃)। প্রতিবার একটি করে CH₂ যোগ করলেই শ্রেণি বরাবর এগিয়ে যাবে।
+
+**অ্যালকেনের নামকরণ (IUPAC)।** নামের দুটি অংশ: একটি **মূল অংশ** যা কার্বন পরমাণুর সংখ্যা বলে, আর শেষে **-এন (-ane)**, যা বলে "অ্যালকেন"। প্রথম চারটির মূল অংশ বিশেষ নাম; ৫ থেকে এগুলো আসে গ্রিক সংখ্যাবাচক শব্দ থেকে:
+
+- ১ C: মিথেন (**মিথ-**) CH₄
+- ২ C: ইথেন (**ইথ-**) CH₃–CH₃
+- ৩ C: প্রোপেন (**প্রোপ-**) CH₃–CH₂–CH₃
+- ৪ C: বিউটেন (**বিউট-**) CH₃–CH₂–CH₂–CH₃
+- ৫ C: পেন্টেন (**পেন্ট-**) C₅H₁₂ · ৬ C: হেক্সেন (**হেক্স-**) C₆H₁₄ · ৭ C: হেপ্টেন (**হেপ্ট-**) C₇H₁₆
+- ৮ C: অক্টেন (**অক্ট-**) C₈H₁₈ · ৯ C: ননেন (**নন-**) C₉H₂₀ · ১০ C: ডেকেন (**ডেক-**) C₁₀H₂₂
+
+(মনে রাখার কৌশল: পেন্ট = ৫, যেমন পেন্টাগন বা পঞ্চভুজ; হেক্স = ৬, যেমন হেক্সাগন বা ষড়ভুজ; অক্ট = ৮, যেমন অক্টোপাসের আট বাহু।)
+
+**অ্যালকাইল মূলক।** অ্যালকেন থেকে একটি H পরমাণু সরালে একটি মুক্ত বন্ধনবিশিষ্ট একযোজী মূলক পাওয়া যায়, একে বলে **অ্যালকাইল মূলক**, সাধারণ সংকেত **CₙH₂ₙ₊₁–**, সংক্ষেপে **R–**। নামের **-এন** বাদ দিয়ে **-আইল** যোগ করে নাম দেওয়া হয়: মিথেন → **মিথাইল** CH₃–, ইথেন → **ইথাইল** CH₃–CH₂–, প্রোপেন → **প্রোপাইল** CH₃–CH₂–CH₂–, বিউটেন → **বিউটাইল**, পেন্টেন → **পেন্টাইল**। তাই যেকোনো অ্যালকেনকে লেখা যায় R–H।
+
+**"প্যারাফিন" কেন?** C–C ও C–H বন্ধন শক্তিশালী ও অপোলার, ভাঙা কঠিন। তাই সাধারণ অবস্থায় অ্যালকেন এসিড, ক্ষারক, জারক বা বিজারকের সাথে বিক্রিয়া করে না। এজন্যই এদের বলে **প্যারাফিন** (অর্থ "স্বল্প আসক্তি")। শুধু উচ্চ তাপমাত্রা, উচ্চ চাপ, অতিবেগুনি আলো বা শক্তিশালী প্রভাবকের উপস্থিতিতে এরা বিক্রিয়া করে।
+
+**ভৌত ধর্ম।** অবস্থা নির্ভর করে শিকলের দৈর্ঘ্যের ওপর:
+- C₁–C₄ (মিথেন থেকে বিউটেন): কক্ষ তাপমাত্রায় **গ্যাস** (স্ফুটনাঙ্ক কক্ষ তাপমাত্রার নিচে)।
+- C₅–C₁₅: **তরল** (পেন্টেনের স্ফুটনাঙ্ক ৩৬.১ °C)।
+- C₁₆ ও তার বেশি: ধীরে ধীরে মোমের মতো **কঠিন** (প্যারাফিন মোম, মোমবাতি)।
+
+স্ফুটনাঙ্ক ধাপে ধাপে বাড়ে: মিথেন −১৬২ °C, ইথেন −৮৯ °C, প্রোপেন −৪২ °C, বিউটেন −০.৫ °C, পেন্টেন ৩৬ °C, হেক্সেন ৬৯ °C, অক্টেন ১২৬ °C, ডেকেন ১৭৪ °C। অ্যালকেন পানিতে অদ্রবণীয় কিন্তু জৈব দ্রাবকে দ্রবণীয়, আর পানির চেয়ে হালকা; এজন্যই পেট্রোল ও কেরোসিন পানিতে ভাসে।
+
+**অ্যালকেনের প্রস্তুতি।**
+
+১. **কার্বন ডাই-অক্সাইড থেকে:** নিকেল প্রভাবকের উপস্থিতিতে CO₂ ও হাইড্রোজেনকে ২৫০ °C-এ উত্তপ্ত করলে মিথেন পাওয়া যায়: CO₂(g) + 4H₂(g) → CH₄(g) + 2H₂O(g) (Ni, ২৫০ °C)
+২. **অ্যালকিন ও অ্যালকাইন থেকে (হাইড্রোজেনেশন):** নিকেল প্রভাবকে ১৮০–২০০ °C তাপমাত্রায়: CH₂=CH₂ + H₂ → CH₃–CH₃ (Ni, ১৮০–২০০ °C) CH≡CH + 2H₂ → CH₃–CH₃ (Ni, ১৮০–২০০ °C)
+৩. **ডিকার্বক্সিলেশন:** সোডিয়াম ইথানয়েটকে **সোডালাইম** (NaOH + CaO)-এর সাথে উত্তপ্ত করলে –COO অংশটি সোডিয়াম কার্বনেট হিসেবে বেরিয়ে যায়: CH₃COONa(s) + NaOH(s) → CH₄(g) + Na₂CO₃(s) (CaO, তাপ)
+
+**রাসায়নিক ধর্ম।**
+
+**(ক) ক্লোরিনের সাথে প্রতিস্থাপন।** অতিবেগুনি আলো (বা সূর্যালোক) থাকলে ক্লোরিন মিথেনের হাইড্রোজেনগুলোকে **একটি একটি করে** প্রতিস্থাপন করে। প্রতি ধাপে একটি H-এর জায়গায় একটি Cl বসে এবং HCl বের হয়:
+- CH₄ + Cl₂ → CH₃Cl + HCl (ক্লোরোমিথেন)
+- CH₃Cl + Cl₂ → CH₂Cl₂ + HCl (ডাইক্লোরোমিথেন)
+- CH₂Cl₂ + Cl₂ → CHCl₃ + HCl (ট্রাইক্লোরোমিথেন, ক্লোরোফর্ম)
+- CHCl₃ + Cl₂ → CCl₄ + HCl (টেট্রাক্লোরোমিথেন)
+
+এটি **প্রতিস্থাপন বিক্রিয়া**: একটি পরমাণুর জায়গায় আরেকটি বসে, আর কার্বনের চারটি একক বন্ধনই থেকে যায়। সম্পৃক্ত যৌগ শুধু এভাবেই বিক্রিয়া করতে পারে, কারণ খোলার মতো কোনো "বাড়তি" বন্ধন নেই।
+
+**(খ) দহন।** পর্যাপ্ত অক্সিজেনে অ্যালকেন পুড়ে কার্বন ডাই-অক্সাইড, পানি আর প্রচুর তাপ দেয়। এজন্যই এরা চমৎকার জ্বালানি:
+- CH₄ + 2O₂ → CO₂ + 2H₂O + তাপ (রান্নাঘরের প্রাকৃতিক গ্যাস)
+- C₃H₈ + 5O₂ → 3CO₂ + 4H₂O + তাপ (এলপিজি)
+
+**বাতাস যথেষ্ট না থাকলে** দহন হয় **অসম্পূর্ণ**, তৈরি হয় বিষাক্ত **কার্বন মনোক্সাইড** (বা ঝুলকালি): 2CH₄ + 3O₂ → 2CO + 4H₂O। গ্যাসের চুলায় হলুদ, ধোঁয়াটে শিখা একটি সতর্কসংকেত।
+## analogy
+অ্যালকেন যেন এমন একটি বাস যার সব সিট ভরা। কেউ না নামলে নতুন কেউ উঠতে পারবে না: একটি H বেরিয়ে গেলে তবেই একটি Cl ঢুকতে পারে (প্রতিস্থাপন)। পরের পাঠে দেখবে, অ্যালকিন হলো খালি সিটওয়ালা বাস; নতুন যাত্রী সরাসরি উঠে পড়তে পারে (সংযোজন)।
+## definition
+**অ্যালকেন**: যে সম্পৃক্ত মুক্ত শিকল হাইড্রোকার্বনের সব কার্বন-কার্বন বন্ধন একক বন্ধন; সাধারণ সংকেত CₙH₂ₙ₊₂।
+
+**অ্যালকাইল মূলক (R–)**: অ্যালকেন থেকে একটি হাইড্রোজেন পরমাণু অপসারণ করলে যে একযোজী মূলক তৈরি হয়; সাধারণ সংকেত CₙH₂ₙ₊₁–।
+
+**প্রতিস্থাপন বিক্রিয়া**: যে বিক্রিয়ায় অণুর কোনো পরমাণু বা মূলকের জায়গায় অন্য পরমাণু বা মূলক বসে।
+
+**দহন**: কোনো পদার্থের অক্সিজেনের সাথে তাপ (ও সাধারণত আলো) উৎপাদী বিক্রিয়া। হাইড্রোকার্বনের সম্পূর্ণ দহনে CO₂ ও H₂O উৎপন্ন হয়।
+## why
+ক্লোরিনেশনে অতিবেগুনি আলো লাগে কেন? আগে Cl–Cl বন্ধন ভেঙে দুটি ক্লোরিন পরমাণু (Cl•) হতে হয়, যাদের প্রত্যেকের একটি করে বিজোড় ইলেকট্রন। সেই শক্তি জোগায় অতিবেগুনি আলো। ক্লোরিন পরমাণু খুব সক্রিয়: মিথেন থেকে একটি H টেনে নেয়, আর বিক্রিয়ক ফুরিয়ে না যাওয়া পর্যন্ত প্রক্রিয়াটি শিকলের মতো চলতে থাকে। অন্ধকারে Cl₂ অণু অটুট থাকে, কিছুই ঘটে না।
+
+দহনে এত তাপ বের হয় কেন? পোড়ার সময় C–H, C–C আর O=O বন্ধন ভাঙে, কিন্তু তৈরি হয় অত্যন্ত শক্তিশালী C=O (CO₂-এ) ও O–H (H₂O-তে) বন্ধন। পুরোনো বন্ধন ভাঙতে যত শক্তি লাগে, নতুন বন্ধন গড়তে তার চেয়ে বেশি শক্তি বের হয়, তাই বিক্রিয়াটি প্রবলভাবে তাপোৎপাদী (প্রতি মোল মিথেনে প্রায় ৮৯০ kJ)।
+## terms
+অ্যালকেন | সম্পৃক্ত হাইড্রোকার্বন, CₙH₂ₙ₊₂
+প্যারাফিন | অ্যালকেনের পুরোনো নাম: "স্বল্প আসক্তি" (নিষ্ক্রিয়)
+অ্যালকাইল মূলক (R–) | অ্যালকেন থেকে একটি H কম: মিথাইল, ইথাইল, প্রোপাইল…
+প্রতিস্থাপন | একটি পরমাণুর জায়গায় আরেকটি বসা
+হাইড্রোজেনেশন | C=C বা C≡C বন্ধনে হাইড্রোজেন যোগ (Ni প্রভাবক)
+ডিকার্বক্সিলেশন | কার্বক্সিলেট লবণ থেকে CO₂ (কার্বনেট হিসেবে) অপসারণ
+সোডালাইম | NaOH ও CaO-এর মিশ্রণ
+অসম্পূর্ণ দহন | কম অক্সিজেনে পোড়া, ফলে CO বা ঝুলকালি তৈরি
+## formula
+$$ সাধারণ সংকেত: CₙH₂ₙ₊₂; অ্যালকাইল মূলক: CₙH₂ₙ₊₁–
+$$ CₙH₂ₙ₊₂ + (3n+1)/2 O₂ → nCO₂ + (n+1)H₂O
+$$ Mr = 14n + 2
+n | কার্বন পরমাণুর সংখ্যা | —
+! (3n+1)/2 ভগ্নাংশ হলে (n জোড় হলে) পুরো সমীকরণকে ২ দিয়ে গুণ করো, যেমন 2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O।
+## visual
+স্লাইডার সরিয়ে মিথেন থেকে ডেকেন পর্যন্ত অ্যালকেন বানাও। নাম, সংকেত ও স্ফুটনাঙ্ক পড়ো, আর সমতাকৃত দহন সমীকরণটি দেখো। ক্লোরিন ট্যাবে গিয়ে মিথেনের চারটি প্রতিস্থাপন ধাপ একে একে দেখো।
+## real
+বাংলাদেশে মিথেন (প্রাকৃতিক গ্যাস) দিয়ে রান্না হয় আর বিদ্যুৎকেন্দ্র চলে, প্রোপেন-বিউটেনের মিশ্রণ (এলপিজি) আসে সিলিন্ডারে, আর অক্টেনসমৃদ্ধ পেট্রোলে গাড়ি চলে (পাম্পে "অকটেন" মানে উন্নত মানের পেট্রোল)। প্রতি শীতে কিছু পরিবার বন্ধ ঘরে গ্যাসের চুলা বা কয়লা জ্বালিয়ে কার্বন মনোক্সাইডে বিষক্রিয়ার শিকার হয়; ঘরের ভেতরে আগুন জ্বললে সবসময় একটি জানালা খোলা রাখো।
+## example
+প্রশ্ন: প্রোপেনের সম্পূর্ণ দহনের সমতাকৃত সমীকরণ লেখো এবং ৪৪ g প্রোপেন পুড়লে কত গ্রাম CO₂ তৈরি হবে বের করো। (C = ১২, H = ১, O = ১৬)
+দেওয়া আছে: প্রোপেন C₃H₈, ভর = ৪৪ g; Mr(C₃H₈) = ৩ × ১২ + ৮ = ৪৪; Mr(CO₂) = ৪৪
+সূত্র: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O
+হিসাব: ৪৪ g C₃H₈ = ১ mol → ৩ mol CO₂ = ৩ × ৪৪ = ১৩২ g
+> পরমাণু যাচাই: বামে C ৩, H ৮, O ১০; ডানে C ৩, H ৮, O ৩ × ২ + ৪ = ১০।
+উত্তর: ১৩২ g CO₂
+## example
+প্রশ্ন: বিউটেনের দহন সমীকরণটি সমতা করো।
+দেওয়া আছে: C₄H₁₀ + O₂ → CO₂ + H₂O
+সমাধান: C: ৪ → 4CO₂। H: ১০ → 5H₂O। ডানে O লাগবে = ৪ × ২ + ৫ = ১৩টি পরমাণু = ১৩/২ O₂। তাই C₄H₁₀ + 13/2 O₂ → 4CO₂ + 5H₂O।
+> পূর্ণসংখ্যা লেখাই রীতি, তাই সবকিছুকে ২ দিয়ে গুণ করি।
+উত্তর: 2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O
+## example
+প্রশ্ন: মিথেন ও ক্লোরিন মিশিয়ে (ক) অন্ধকার আলমারিতে, (খ) সূর্যালোকে রাখা হলো। প্রতিক্ষেত্রে কী ঘটবে? প্রথম ধাপটি লেখো।
+সমাধান: (ক) অন্ধকারে কিছুই ঘটবে না: আগে অতিবেগুনি আলোয় Cl₂ অণু ভাঙতে হয়। (খ) সূর্যালোকে প্রতিস্থাপন শুরু হবে: CH₄ + Cl₂ → CH₃Cl + HCl, আর ক্লোরিন বেশি থাকলে তা CH₂Cl₂, CHCl₃ ও CCl₄ পর্যন্ত যেতে পারে।
+উত্তর: অন্ধকারে বিক্রিয়া হয় না; সূর্যালোকে ধাপে ধাপে প্রতিস্থাপন, প্রথম ধাপ CH₄ + Cl₂ → CH₃Cl + HCl।
+## mistakes
+x অ্যালকেন ব্রোমিন পানির রং দূর করে।
+v অ্যালকেন সম্পৃক্ত, ব্রোমিন যুক্ত করে না; ব্রোমিন পানি কমলা থেকে যায় (শুধু তীব্র আলোয় ধীরে প্রতিস্থাপন হয়)।
+x CH₄ + Cl₂ → CH₃Cl + HCl বিক্রিয়ায় মিথেনে ক্লোরিন যুক্ত হয়।
+v এটি প্রতিস্থাপন: একটি H-এর জায়গায় একটি Cl বসে, আর H বেরিয়ে যায় HCl হিসেবে।
+x বিউটেনের সংকেত C₄H₈।
+v বিউটেন একটি অ্যালকেন: CₙH₂ₙ₊₂-এ n = ৪ বসালে C₄H₁₀ (২ × ৪ + ২ = ১০)। C₄H₈ হলো বিউটিন (অ্যালকিন)।
+## remember
+- অ্যালকেন: সম্পৃক্ত, CₙH₂ₙ₊₂, নামের শেষে -এন; অ্যালকাইল মূলক CₙH₂ₙ₊₁–, নামের শেষে -আইল।
+- C₁–C₄ গ্যাস, C₅–C₁₅ তরল, C₁₆ থেকে কঠিন; n বাড়লে স্ফুটনাঙ্ক বাড়ে।
+- প্রস্তুতি: CO₂ + H₂ (Ni), অ্যালকিন/অ্যালকাইনের হাইড্রোজেনেশন (Ni), সোডালাইম দিয়ে ডিকার্বক্সিলেশন।
+- অতিবেগুনি আলোয় Cl₂-এর সাথে প্রতিস্থাপন (চার ধাপে CCl₄) এবং দহন বিক্রিয়া দেয়।
+- বাতাস কম → বিষাক্ত CO।
+## think
+মিথেনের অণু অক্টেনের অণুর চেয়ে অনেক হালকা, তবু সাধারণ চাপে এক লিটার তরল পেট্রোল এক লিটার প্রাকৃতিক গ্যাসের চেয়ে অনেক বেশি তাপ দেয়। কেন?
+## quiz
+? ৫টি কার্বনবিশিষ্ট অ্যালকেনের সংকেত:
+- C₅H₁₀
+* C₅H₁₂
+- C₅H₈
+- C₅H₁₁
+= CₙH₂ₙ₊₂-এ n = ৫ বসালে C₅H₁₂ (পেন্টেন)।
+? অতিবেগুনি আলোয় CH₄ + Cl₂ → CH₃Cl + HCl কোন ধরনের বিক্রিয়া?
+- সংযোজন
+* প্রতিস্থাপন
+- পলিমারকরণ
+- প্রশমন
+= মিথেনের একটি হাইড্রোজেন পরমাণুর জায়গায় একটি ক্লোরিন পরমাণু বসে।
+? কম বাতাসে মিথেন পোড়ালে কোন উৎপাদ তৈরি হয়?
+- শুধু CO₂
+* কার্বন মনোক্সাইড
+- ক্লোরিন
+- হাইড্রোজেন
+= অসম্পূর্ণ দহনে বিষাক্ত CO তৈরি হয়: 2CH₄ + 3O₂ → 2CO + 4H₂O।
+? সোডিয়াম ইথানয়েটকে কীসের সাথে উত্তপ্ত করলে মিথেন পাওয়া যায়?
+- লঘু HCl
+- পানি
+* সোডালাইম (NaOH + CaO)
+- ব্রোমিন পানি
+= CH₃COONa + NaOH → CH₄ + Na₂CO₃ (ডিকার্বক্সিলেশন, CaO-এর উপস্থিতিতে)।
+
+@@ 11.4
+@visual k11brom
+@related 11.3 11.2 11.7 11.5
+== en
+## what
+**Alkenes** (CₙH₂ₙ) contain at least one C=C double bond and **alkynes** (CₙH₂ₙ₋₂) at least one C≡C triple bond. Because they are **unsaturated**, they are much more reactive than alkanes and take part in **addition reactions** with hydrogen, water, bromine and other reagents. The quick **bromine water test** shows unsaturation: the orange-red colour disappears.
+## simple
+**11.4.1 Alkenes.** An alkene has at least one carbon–carbon **double bond**. The general formula is **CₙH₂ₙ** (n = 2, 3, 4…). There is no alkene with one carbon, because a double bond needs two carbons. Alkenes are also called **olefins** (from *olefiant*, "oil-forming") because the lower members such as ethene and propene react with chlorine or bromine to give oily liquids.
+
+**Naming.** Take the alkane name and change **-ane** to **-ene**:
+- ethane → **ethene** CH₂=CH₂ (common name ethylene)
+- propane → **propene** CH₃–CH=CH₂
+- from 4 carbons, the position of the double bond is shown by a number: CH₂=CH–CH₂–CH₃ is **but-1-ene**.
+
+**Preparation of ethene.**
+1. **From ethanol (dehydration):** heat ethanol with excess **concentrated sulfuric acid** (at about 170 °C). The acid pulls a water molecule out of each ethanol molecule: CH₃–CH₂–OH → CH₂=CH₂ + H₂O (conc. H₂SO₄, about 170 °C).
+2. **From ethyl chloride:** heat chloroethane with a solution of sodium hydroxide **in alcohol** (alcoholic NaOH): CH₃–CH₂Cl + NaOH → CH₂=CH₂ + NaCl + H₂O. (With NaOH dissolved in *water*, the main product is ethanol instead, see 11.5.)
+
+**Chemical properties: addition reactions.** A double bond is made of one strong bond and one **weaker** bond. In a reaction the weaker bond opens, and each carbon gets a free "hand" to hold a new atom. Two molecules join to make **one** product and nothing is given off. This is **addition**.
+
+- **Hydrogen** (hydrogenation), Ni catalyst, 180–200 °C: CH₂=CH₂ + H₂ → CH₃–CH₃ (ethane)
+- **Water (steam)**, phosphoric acid catalyst, about 300 °C and 60 atm: CH₂=CH₂ + H₂O → CH₃–CH₂OH (ethanol). This is the main industrial way to make ethanol for fuel and solvents.
+- **Bromine**: shake ethene with orange-red bromine water; the colour quickly disappears as colourless **1,2-dibromoethane** forms: CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br. Every unsaturated hydrocarbon does this, so it is the standard **test for unsaturation**.
+- **Potassium permanganate (Baeyer's test)**: with a dilute pink-purple solution of KMnO₄ made alkaline with KOH, ethene is oxidised to **ethylene glycol** (ethane-1,2-diol) and the pink colour disappears: CH₂=CH₂ + H₂O + [O] → HO–CH₂–CH₂–OH. Here [O] stands for the "nascent" oxygen supplied by KMnO₄.
+- **Polymerisation**: at about 1000 atm and 200 °C with a trace of oxygen, thousands of ethene molecules join into **polythene**: n CH₂=CH₂ → (–CH₂–CH₂–)ₙ (see 11.7).
+
+**11.4.2 Alkynes.** An alkyne has at least one carbon–carbon **triple bond**. General formula **CₙH₂ₙ₋₂**. The smallest is **ethyne**, HC≡CH, commonly called **acetylene**.
+
+**Naming.** Change **-ane** to **-yne**: ethyne CH≡CH, **propyne** CH₃–C≡CH, and CH₃–C≡C–CH₃ is **but-2-yne** (some books write it "butyne-2").
+
+**Preparation of ethyne from calcium carbide.** Add water drop by drop to calcium carbide; ethyne gas bubbles off and calcium hydroxide is left:
+CaC₂(s) + 2H₂O(l) → HC≡CH(g) + Ca(OH)₂(aq)
+
+**Chemical properties.** A triple bond has one strong bond and **two weaker** bonds, so an alkyne can add **two** molecules of a reagent, in two steps.
+- **Hydrogen**, Ni, 180–200 °C: HC≡CH + H₂ → CH₂=CH₂, then CH₂=CH₂ + H₂ → CH₃–CH₃. Overall HC≡CH + 2H₂ → CH₃–CH₃.
+- **Bromine**: bromine water is decolourised; with enough bromine, **1,1,2,2-tetrabromoethane** forms: HC≡CH + 2Br₂ → CHBr₂–CHBr₂.
+- **Water**: passed into 20% sulfuric acid containing 2% mercury(II) sulfate at 80 °C, ethyne adds water and gives **ethanal** (acetaldehyde): HC≡CH + H₂O → CH₃CHO. (Mercury salts are poisonous, so industry avoids this method today.)
+
+*Safety:* concentrated sulfuric acid causes severe burns; ethyne and ethene are flammable. School demonstrations are done by the teacher, in small amounts, with goggles and good ventilation.
+## analogy
+A double bond is like holding a friend with both hands, one firm grip and one loose grip. When a new friend (Br) arrives, you let go with the loose hand to hold the newcomer, but you keep the firm grip. A triple bond has two loose grips, so it can welcome two newcomers.
+## definition
+**Alkene**: an unsaturated hydrocarbon containing at least one carbon–carbon double bond; general formula CₙH₂ₙ.
+
+**Alkyne**: an unsaturated hydrocarbon containing at least one carbon–carbon triple bond; general formula CₙH₂ₙ₋₂.
+
+**Addition reaction**: a reaction in which two or more molecules combine to form a single product, with atoms added across a double or triple bond and nothing removed.
+
+**Test for unsaturation**: an unsaturated compound decolourises orange-red bromine water (or pink alkaline KMnO₄ solution); a saturated compound does not.
+## why
+Why are alkenes and alkynes so much more reactive than alkanes? In a C=C bond, one bond (the σ bond) lies directly between the two nuclei and is strong. The second (the π bond) is formed by electron clouds above and below the line of the nuclei; its electrons are further away and easier to reach, so it breaks easily. Electron-seeking reagents such as Br₂ attack these exposed electrons. After addition, each carbon again has four single bonds, a more stable arrangement. An alkane has only strong σ bonds, so it has nothing easy to attack.
+
+Why does bromine water lose its colour? The colour comes from Br₂ molecules. When Br₂ adds to the double bond, it becomes part of the colourless product (CH₂Br–CH₂Br), so the colour fades away.
+## terms
+Alkene (olefin) | Hydrocarbon with a C=C bond, CₙH₂ₙ
+Alkyne | Hydrocarbon with a C≡C bond, CₙH₂ₙ₋₂
+Acetylene | Common name of ethyne, HC≡CH
+Addition reaction | Molecules join across a multiple bond to form one product
+Dehydration | Removal of water from a molecule (ethanol → ethene)
+Bromine water test | Orange-red colour disappears with unsaturated compounds
+Baeyer's test | Pink alkaline KMnO₄ decolourised by unsaturated compounds
+Calcium carbide | CaC₂; gives ethyne with water
+## formula
+$$ Alkene: CₙH₂ₙ (n ≥ 2) · Alkyne: CₙH₂ₙ₋₂ (n ≥ 2)
+$$ CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br
+$$ HC≡CH + 2Br₂ → CHBr₂–CHBr₂
+$$ CaC₂ + 2H₂O → HC≡CH + Ca(OH)₂
+! One C=C adds 1 mol of H₂ or Br₂; one C≡C adds 2 mol.
+## visual
+Choose a hydrocarbon and a reagent, then add it. Watch whether the bromine or permanganate colour fades, and read the addition product and balanced equation. Try ethane to see that a saturated compound does not react.
+## real
+Many fruit traders in Bangladesh have been caught using **calcium carbide** to ripen mangoes and bananas quickly. With moisture, carbide gives off ethyne, which acts like the natural ripening gas ethene. The practice is illegal and harmful: industrial carbide contains arsenic and phosphorus impurities, and the fruit looks ripe outside but is poor inside. On the useful side, ethyne burned with oxygen gives a flame hotter than 3000 °C, used by workshops to weld and cut steel (oxy-acetylene welding).
+## example
+Q: How can you tell ethane from ethene in the laboratory?
+Solution: Bubble each gas through a little orange-red bromine water. Ethene decolourises it: CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br. Ethane leaves the colour unchanged because it is saturated.
+> Alkaline KMnO₄ works the same way: pink → colourless with ethene only.
+Answer: Ethene decolourises bromine water; ethane does not.
+## example
+Q: What mass of bromine reacts completely with 2.8 g of ethene? (C = 12, H = 1, Br = 80)
+Given: mass of C₂H₄ = 2.8 g; Mr(C₂H₄) = 2 × 12 + 4 = 28; Mr(Br₂) = 160
+Formula: CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br (1 mol : 1 mol)
+Calculation: moles of ethene = 2.8 ÷ 28 = 0.1 mol → 0.1 mol Br₂ = 0.1 × 160 = 16 g
+Answer: 16 g of bromine
+## example
+Q: 64 g of calcium carbide reacts completely with water. Find the volume of ethyne produced at STP. (Ca = 40, C = 12; 1 mol of gas at STP = 22.4 L)
+Given: mass of CaC₂ = 64 g; Mr(CaC₂) = 40 + 24 = 64
+Formula: CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂ (1 mol CaC₂ gives 1 mol C₂H₂)
+Calculation: moles of CaC₂ = 64 ÷ 64 = 1 mol → 1 mol C₂H₂ = 22.4 L
+Answer: 22.4 L of ethyne at STP
+## mistakes
+x Ethene reacts with bromine by substitution, releasing HBr.
+v Ethene undergoes addition: both Br atoms join the carbons, giving CH₂Br–CH₂Br and no HBr.
+x The general formula of alkenes is CₙH₂ₙ₊₂.
+v Alkenes are CₙH₂ₙ; CₙH₂ₙ₊₂ is for alkanes.
+x Heating chloroethane with aqueous NaOH gives ethene.
+v Aqueous NaOH gives mainly ethanol (substitution); NaOH dissolved in alcohol gives ethene (elimination).
+x One mole of ethyne adds one mole of bromine at most.
+v A triple bond can add two moles of Br₂, giving 1,1,2,2-tetrabromoethane.
+## remember
+- Alkenes: C=C, CₙH₂ₙ, names end in -ene; alkynes: C≡C, CₙH₂ₙ₋₂, names end in -yne.
+- Ethene: from ethanol + conc. H₂SO₄ (dehydration) or chloroethane + alcoholic NaOH.
+- Ethyne: CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂.
+- Addition reactions: H₂ (Ni), H₂O (H₃PO₄ for alkenes; H₂SO₄/HgSO₄ for ethyne → ethanal), Br₂, KMnO₄, polymerisation.
+- Bromine water or alkaline KMnO₄ is decolourised by unsaturated compounds only.
+## think
+Vegetable oils are unsaturated, and margarine is made by adding hydrogen to them with a nickel catalyst. Which reaction in this lesson is this? What would you expect to happen to bromine water shaken with soybean oil before and after hydrogenation?
+## quiz
+? Which compound decolourises bromine water?
+- C₂H₆
+- C₃H₈
+* C₂H₄
+- CH₄
+= C₂H₄ (ethene) is unsaturated and adds Br₂ across its double bond.
+? CaC₂ + 2H₂O → X + Ca(OH)₂. X is:
+- Methane
+- Ethene
+* Ethyne
+- Ethanol
+= Calcium carbide and water give ethyne (acetylene), HC≡CH.
+? Ethyne adds water in the presence of dilute H₂SO₄ and HgSO₄ to give:
+- Ethanol
+* Ethanal
+- Ethanoic acid
+- Ethane
+= HC≡CH + H₂O → CH₃CHO (ethanal).
+? CH₃–C≡CH is named:
+- Propene
+- Propane
+* Propyne
+- Butyne
+= Three carbons (prop-) with a triple bond (-yne): propyne.
+== bn
+## what
+**অ্যালকিনে** (CₙH₂ₙ) অন্তত একটি C=C দ্বিবন্ধন আর **অ্যালকাইনে** (CₙH₂ₙ₋₂) অন্তত একটি C≡C ত্রিবন্ধন থাকে। এরা **অসম্পৃক্ত**, তাই অ্যালকেনের চেয়ে অনেক বেশি সক্রিয় এবং হাইড্রোজেন, পানি, ব্রোমিন ইত্যাদির সাথে **সংযোজন বিক্রিয়া** দেয়। দ্রুত **ব্রোমিন পানি পরীক্ষায়** অসম্পৃক্ততা ধরা পড়ে: লালচে-কমলা রং মিলিয়ে যায়।
+## simple
+**১১.৪.১ অ্যালকিন।** অ্যালকিনে অন্তত একটি কার্বন-কার্বন **দ্বিবন্ধন** থাকে। সাধারণ সংকেত **CₙH₂ₙ** (n = ২, ৩, ৪…)। এক কার্বনের কোনো অ্যালকিন নেই, কারণ দ্বিবন্ধনের জন্য দুটি কার্বন লাগে। অ্যালকিনকে **অলিফিন**ও বলে (*olefiant* মানে "তেল উৎপাদনকারী"), কারণ ইথিন, প্রোপিনের মতো নিম্নতর সদস্যরা ক্লোরিন বা ব্রোমিনের সাথে বিক্রিয়ায় তৈলাক্ত তরল তৈরি করে।
+
+**নামকরণ।** অ্যালকেনের নামের **-এন** বাদ দিয়ে **-ইন** যোগ করো:
+- ইথেন → **ইথিন** CH₂=CH₂ (প্রচলিত নাম ইথিলিন)
+- প্রোপেন → **প্রোপিন** CH₃–CH=CH₂
+- ৪টি কার্বন থেকে দ্বিবন্ধনের অবস্থান সংখ্যা দিয়ে দেখানো হয়: CH₂=CH–CH₂–CH₃ হলো **বিউট-১-ইন**।
+
+**ইথিনের প্রস্তুতি।**
+১. **ইথানল থেকে (পানি অপসারণ):** ইথানলকে অতিরিক্ত **গাঢ় সালফিউরিক এসিডের** সাথে (প্রায় ১৭০ °C-এ) উত্তপ্ত করো। এসিডটি প্রতিটি ইথানল অণু থেকে একটি পানির অণু টেনে বের করে নেয়: CH₃–CH₂–OH → CH₂=CH₂ + H₂O (গাঢ় H₂SO₄, প্রায় ১৭০ °C)।
+২. **ইথাইল ক্লোরাইড থেকে:** ক্লোরোইথেনকে সোডিয়াম হাইড্রোক্সাইডের **অ্যালকোহলীয় দ্রবণের** সাথে উত্তপ্ত করো: CH₃–CH₂Cl + NaOH → CH₂=CH₂ + NaCl + H₂O। (NaOH-এর *জলীয়* দ্রবণ নিলে প্রধান উৎপাদ হয় ইথানল, দেখো ১১.৫।)
+
+**রাসায়নিক ধর্ম: সংযোজন বিক্রিয়া।** দ্বিবন্ধনের একটি বন্ধন শক্তিশালী, অন্যটি তুলনামূলক **দুর্বল**। বিক্রিয়ার সময় দুর্বল বন্ধনটি খুলে যায়, আর প্রতিটি কার্বন নতুন একটি পরমাণু ধরার জন্য একটি মুক্ত "হাত" পায়। দুটি অণু জুড়ে **একটিই** উৎপাদ তৈরি হয়, কিছুই বের হয় না। এটিই **সংযোজন**।
+
+- **হাইড্রোজেন** (হাইড্রোজেনেশন), Ni প্রভাবক, ১৮০–২০০ °C: CH₂=CH₂ + H₂ → CH₃–CH₃ (ইথেন)
+- **পানি (বাষ্প)**, ফসফরিক এসিড প্রভাবক, প্রায় ৩০০ °C ও ৬০ atm: CH₂=CH₂ + H₂O → CH₃–CH₂OH (ইথানল)। জ্বালানি ও দ্রাবকের জন্য শিল্পে ইথানল তৈরির এটি প্রধান পদ্ধতি।
+- **ব্রোমিন**: ইথিনকে লালচে-কমলা ব্রোমিন পানির সাথে ঝাঁকালে রং দ্রুত মিলিয়ে যায়, তৈরি হয় বর্ণহীন **১,২-ডাইব্রোমোইথেন**: CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br। সব অসম্পৃক্ত হাইড্রোকার্বন এটি করে, তাই এটিই **অসম্পৃক্ততার আদর্শ পরীক্ষা**।
+- **পটাশিয়াম পারম্যাঙ্গানেট (বেয়ার পরীক্ষা)**: KOH দিয়ে ক্ষারীয় করা KMnO₄-এর লঘু গোলাপি-বেগুনি দ্রবণে ইথিন জারিত হয়ে **ইথিলিন গ্লাইকল** (ইথেন-১,২-ডাইঅল) হয় এবং গোলাপি রং মিলিয়ে যায়: CH₂=CH₂ + H₂O + [O] → HO–CH₂–CH₂–OH। এখানে [O] হলো KMnO₄ থেকে পাওয়া জায়মান অক্সিজেন।
+- **পলিমারকরণ**: প্রায় ১০০০ atm চাপ ও ২০০ °C তাপমাত্রায় সামান্য অক্সিজেনের উপস্থিতিতে হাজার হাজার ইথিন অণু জুড়ে **পলিথিন** তৈরি হয়: n CH₂=CH₂ → (–CH₂–CH₂–)ₙ (দেখো ১১.৭)।
+
+**১১.৪.২ অ্যালকাইন।** অ্যালকাইনে অন্তত একটি কার্বন-কার্বন **ত্রিবন্ধন** থাকে। সাধারণ সংকেত **CₙH₂ₙ₋₂**। সবচেয়ে ছোট সদস্য **ইথাইন**, HC≡CH, প্রচলিত নাম **এসিটিলিন**।
+
+**নামকরণ।** **-এন** বাদ দিয়ে **-আইন** যোগ করো: ইথাইন CH≡CH, **প্রোপাইন** CH₃–C≡CH, আর CH₃–C≡C–CH₃ হলো **বিউট-২-আইন** (কোনো কোনো বইয়ে "বিউটাইন-২")।
+
+**ক্যালসিয়াম কার্বাইড থেকে ইথাইন প্রস্তুতি।** ক্যালসিয়াম কার্বাইডে ফোঁটা ফোঁটা পানি দিলে ইথাইন গ্যাস বুদ্বুদ হয়ে বের হয় আর ক্যালসিয়াম হাইড্রোক্সাইড থেকে যায়:
+CaC₂(s) + 2H₂O(l) → HC≡CH(g) + Ca(OH)₂(aq)
+
+**রাসায়নিক ধর্ম।** ত্রিবন্ধনে একটি শক্তিশালী আর **দুটি দুর্বল** বন্ধন, তাই অ্যালকাইন দুই ধাপে বিকারকের **দুটি** অণু যুক্ত করতে পারে।
+- **হাইড্রোজেন**, Ni, ১৮০–২০০ °C: HC≡CH + H₂ → CH₂=CH₂, তারপর CH₂=CH₂ + H₂ → CH₃–CH₃। সব মিলিয়ে HC≡CH + 2H₂ → CH₃–CH₃।
+- **ব্রোমিন**: ব্রোমিন পানির রং দূর হয়; যথেষ্ট ব্রোমিন থাকলে তৈরি হয় **১,১,২,২-টেট্রাব্রোমোইথেন**: HC≡CH + 2Br₂ → CHBr₂–CHBr₂।
+- **পানি**: ৮০ °C-এ ২% মারকিউরিক সালফেটযুক্ত ২০% সালফিউরিক এসিডে ইথাইন চালনা করলে পানি যুক্ত হয়ে তৈরি হয় **ইথান্যাল** (এসিটালডিহাইড): HC≡CH + H₂O → CH₃CHO। (পারদের লবণ বিষাক্ত, তাই শিল্পে এখন এ পদ্ধতি নিরুৎসাহিত।)
+
+*নিরাপত্তা:* গাঢ় সালফিউরিক এসিড মারাত্মকভাবে পোড়ায়; ইথাইন ও ইথিন দাহ্য। বিদ্যালয়ে এ পরীক্ষাগুলো শিক্ষক অল্প পরিমাণে, চশমা পরে, ভালো বায়ু চলাচলের জায়গায় দেখান।
+## analogy
+দ্বিবন্ধন যেন দুই হাতে বন্ধুকে ধরে রাখা, এক হাতে শক্ত করে, আরেক হাতে আলগা করে। নতুন বন্ধু (Br) এলে তুমি আলগা হাতটা ছেড়ে তাকে ধরো, কিন্তু শক্ত হাতটা ছাড়ো না। ত্রিবন্ধনে আলগা হাত দুটি, তাই দুজন নতুন বন্ধুকে জায়গা দিতে পারে।
+## definition
+**অ্যালকিন**: অন্তত একটি কার্বন-কার্বন দ্বিবন্ধনবিশিষ্ট অসম্পৃক্ত হাইড্রোকার্বন; সাধারণ সংকেত CₙH₂ₙ।
+
+**অ্যালকাইন**: অন্তত একটি কার্বন-কার্বন ত্রিবন্ধনবিশিষ্ট অসম্পৃক্ত হাইড্রোকার্বন; সাধারণ সংকেত CₙH₂ₙ₋₂।
+
+**সংযোজন বিক্রিয়া**: যে বিক্রিয়ায় দুই বা ততোধিক অণু মিলে একটিমাত্র উৎপাদ তৈরি করে; দ্বিবন্ধন বা ত্রিবন্ধনে পরমাণু যুক্ত হয় এবং কিছুই অপসারিত হয় না।
+
+**অসম্পৃক্ততার পরীক্ষা**: অসম্পৃক্ত যৌগ লালচে-কমলা ব্রোমিন পানির (বা গোলাপি ক্ষারীয় KMnO₄ দ্রবণের) রং দূর করে; সম্পৃক্ত যৌগ করে না।
+## why
+অ্যালকিন ও অ্যালকাইন অ্যালকেনের চেয়ে এত সক্রিয় কেন? C=C বন্ধনের একটি বন্ধন (σ বন্ধন) দুই নিউক্লিয়াসের ঠিক মাঝ বরাবর থাকে, তাই শক্তিশালী। দ্বিতীয়টি (π বন্ধন) তৈরি হয় নিউক্লিয়াসের সংযোগরেখার ওপরে-নিচে ইলেকট্রন মেঘ দিয়ে; এর ইলেকট্রন দূরে ও সহজলভ্য, তাই বন্ধনটি সহজে ভাঙে। Br₂-এর মতো ইলেকট্রন-সন্ধানী বিকারক এই খোলা ইলেকট্রনকে আক্রমণ করে। সংযোজনের পর প্রতিটি কার্বনের আবার চারটি একক বন্ধন হয়, যা বেশি স্থিতিশীল। অ্যালকেনে শুধু শক্তিশালী σ বন্ধন, তাই সহজে আক্রমণ করার মতো কিছু নেই।
+
+ব্রোমিন পানির রং মিলিয়ে যায় কেন? রংটা Br₂ অণুর। Br₂ দ্বিবন্ধনে যুক্ত হয়ে বর্ণহীন উৎপাদের (CH₂Br–CH₂Br) অংশ হয়ে যায়, তাই রং মুছে যায়।
+## terms
+অ্যালকিন (অলিফিন) | C=C বন্ধনবিশিষ্ট হাইড্রোকার্বন, CₙH₂ₙ
+অ্যালকাইন | C≡C বন্ধনবিশিষ্ট হাইড্রোকার্বন, CₙH₂ₙ₋₂
+এসিটিলিন | ইথাইনের প্রচলিত নাম, HC≡CH
+সংযোজন বিক্রিয়া | বহুবন্ধনে অণু যুক্ত হয়ে একটি উৎপাদ তৈরি
+পানি অপসারণ (ডিহাইড্রেশন) | অণু থেকে পানি বের করে নেওয়া (ইথানল → ইথিন)
+ব্রোমিন পানি পরীক্ষা | অসম্পৃক্ত যৌগে লালচে-কমলা রং মিলিয়ে যায়
+বেয়ার পরীক্ষা | অসম্পৃক্ত যৌগে গোলাপি ক্ষারীয় KMnO₄-এর রং দূর হয়
+ক্যালসিয়াম কার্বাইড | CaC₂; পানির সাথে ইথাইন দেয়
+## formula
+$$ অ্যালকিন: CₙH₂ₙ (n ≥ ২) · অ্যালকাইন: CₙH₂ₙ₋₂ (n ≥ ২)
+$$ CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br
+$$ HC≡CH + 2Br₂ → CHBr₂–CHBr₂
+$$ CaC₂ + 2H₂O → HC≡CH + Ca(OH)₂
+! একটি C=C যুক্ত করে ১ mol H₂ বা Br₂; একটি C≡C যুক্ত করে ২ mol।
+## visual
+একটি হাইড্রোকার্বন আর একটি বিকারক বেছে নিয়ে যোগ করো। দেখো ব্রোমিন বা পারম্যাঙ্গানেটের রং মিলিয়ে যায় কি না, আর সংযোজন উৎপাদ ও সমতাকৃত সমীকরণ পড়ো। সম্পৃক্ত যৌগ যে বিক্রিয়া করে না তা দেখতে ইথেন দিয়ে চেষ্টা করো।
+## real
+বাংলাদেশে অনেক ফল ব্যবসায়ী আম ও কলা দ্রুত পাকাতে **ক্যালসিয়াম কার্বাইড** ব্যবহার করতে গিয়ে ধরা পড়েছেন। আর্দ্রতা পেলে কার্বাইড থেকে ইথাইন বের হয়, যা প্রাকৃতিক পাকানোর গ্যাস ইথিনের মতো কাজ করে। এটি বেআইনি ও ক্ষতিকর: শিল্প-কার্বাইডে আর্সেনিক ও ফসফরাসের অপদ্রব্য থাকে, আর ফল বাইরে পাকা দেখালেও ভেতরে মান খারাপ থাকে। উপকারী দিকও আছে: অক্সিজেনের সাথে ইথাইন পোড়ালে ৩০০০ °C-এর বেশি তাপমাত্রার শিখা পাওয়া যায়, যা ওয়ার্কশপে ইস্পাত ঝালাই ও কাটতে ব্যবহৃত হয় (অক্সি-এসিটিলিন ঝালাই)।
+## example
+প্রশ্ন: গবেষণাগারে ইথেন ও ইথিন কীভাবে আলাদা করবে?
+সমাধান: প্রতিটি গ্যাস অল্প লালচে-কমলা ব্রোমিন পানির মধ্য দিয়ে চালনা করো। ইথিন রং দূর করে: CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br। ইথেন সম্পৃক্ত, তাই রং অপরিবর্তিত থাকে।
+> ক্ষারীয় KMnO₄-ও একইভাবে কাজ করে: শুধু ইথিনে গোলাপি → বর্ণহীন।
+উত্তর: ইথিন ব্রোমিন পানির রং দূর করে; ইথেন করে না।
+## example
+প্রশ্ন: ২.৮ g ইথিনের সাথে সম্পূর্ণ বিক্রিয়া করতে কত গ্রাম ব্রোমিন লাগবে? (C = ১২, H = ১, Br = ৮০)
+দেওয়া আছে: C₂H₄-এর ভর = ২.৮ g; Mr(C₂H₄) = ২ × ১২ + ৪ = ২৮; Mr(Br₂) = ১৬০
+সূত্র: CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br (১ mol : ১ mol)
+হিসাব: ইথিনের মোল = ২.৮ ÷ ২৮ = ০.১ mol → ০.১ mol Br₂ = ০.১ × ১৬০ = ১৬ g
+উত্তর: ১৬ g ব্রোমিন
+## example
+প্রশ্ন: ৬৪ g ক্যালসিয়াম কার্বাইড পানির সাথে সম্পূর্ণ বিক্রিয়া করল। STP-তে উৎপন্ন ইথাইনের আয়তন বের করো। (Ca = ৪০, C = ১২; STP-তে ১ mol গ্যাস = ২২.৪ L)
+দেওয়া আছে: CaC₂-এর ভর = ৬৪ g; Mr(CaC₂) = ৪০ + ২৪ = ৬৪
+সূত্র: CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂ (১ mol CaC₂ থেকে ১ mol C₂H₂)
+হিসাব: CaC₂-এর মোল = ৬৪ ÷ ৬৪ = ১ mol → ১ mol C₂H₂ = ২২.৪ L
+উত্তর: STP-তে ২২.৪ L ইথাইন
+## mistakes
+x ইথিন ব্রোমিনের সাথে প্রতিস্থাপন বিক্রিয়া করে HBr দেয়।
+v ইথিন সংযোজন বিক্রিয়া দেয়: দুটি Br পরমাণুই কার্বনে যুক্ত হয়ে CH₂Br–CH₂Br তৈরি করে, কোনো HBr বের হয় না।
+x অ্যালকিনের সাধারণ সংকেত CₙH₂ₙ₊₂।
+v অ্যালকিন CₙH₂ₙ; CₙH₂ₙ₊₂ হলো অ্যালকেনের।
+x ক্লোরোইথেনকে জলীয় NaOH-এর সাথে উত্তপ্ত করলে ইথিন পাওয়া যায়।
+v জলীয় NaOH দেয় প্রধানত ইথানল (প্রতিস্থাপন); অ্যালকোহলীয় NaOH দেয় ইথিন (অপসারণ)।
+x এক মোল ইথাইন সর্বোচ্চ এক মোল ব্রোমিন যুক্ত করে।
+v ত্রিবন্ধন দুই মোল Br₂ যুক্ত করতে পারে, তৈরি হয় ১,১,২,২-টেট্রাব্রোমোইথেন।
+## remember
+- অ্যালকিন: C=C, CₙH₂ₙ, নামের শেষে -ইন; অ্যালকাইন: C≡C, CₙH₂ₙ₋₂, নামের শেষে -আইন।
+- ইথিন: ইথানল + গাঢ় H₂SO₄ (পানি অপসারণ) বা ক্লোরোইথেন + অ্যালকোহলীয় NaOH থেকে।
+- ইথাইন: CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂।
+- সংযোজন বিক্রিয়া: H₂ (Ni), H₂O (অ্যালকিনে H₃PO₄; ইথাইনে H₂SO₄/HgSO₄ → ইথান্যাল), Br₂, KMnO₄, পলিমারকরণ।
+- ব্রোমিন পানি বা ক্ষারীয় KMnO₄-এর রং দূর করে শুধু অসম্পৃক্ত যৌগ।
+## think
+উদ্ভিজ্জ তেল অসম্পৃক্ত, আর নিকেল প্রভাবক দিয়ে এতে হাইড্রোজেন যোগ করে মার্জারিন (বনস্পতি ঘি) তৈরি হয়। এই পাঠের কোন বিক্রিয়া এটি? হাইড্রোজেনেশনের আগে ও পরে সয়াবিন তেলের সাথে ব্রোমিন পানি ঝাঁকালে কী দেখবে বলে মনে করো?
+## quiz
+? কোন যৌগটি ব্রোমিন পানির রং দূর করে?
+- C₂H₆
+- C₃H₈
+* C₂H₄
+- CH₄
+= C₂H₄ (ইথিন) অসম্পৃক্ত, এর দ্বিবন্ধনে Br₂ যুক্ত হয়।
+? CaC₂ + 2H₂O → X + Ca(OH)₂। X হলো:
+- মিথেন
+- ইথিন
+* ইথাইন
+- ইথানল
+= ক্যালসিয়াম কার্বাইড ও পানি থেকে ইথাইন (এসিটিলিন), HC≡CH পাওয়া যায়।
+? লঘু H₂SO₄ ও HgSO₄-এর উপস্থিতিতে ইথাইন পানি যুক্ত করে তৈরি করে:
+- ইথানল
+* ইথান্যাল
+- ইথানয়িক এসিড
+- ইথেন
+= HC≡CH + H₂O → CH₃CHO (ইথান্যাল)।
+? CH₃–C≡CH-এর নাম:
+- প্রোপিন
+- প্রোপেন
+* প্রোপাইন
+- বিউটাইন
+= তিনটি কার্বন (প্রোপ-) আর ত্রিবন্ধন (-আইন): প্রোপাইন।
+
+@@ 11.5
+@visual k11oxid
+@related 11.4 11.6 9.1 7.2.3
+== en
+## what
+**Alcohols** contain the hydroxyl group **–OH** (R–OH), **aldehydes** contain the **–CHO** group, and **carboxylic (organic or fatty) acids** contain the carboxyl group **–COOH** (R–COOH). They can be made from hydrocarbons, and an alcohol can be oxidised step by step: **alcohol → aldehyde → carboxylic acid**.
+## simple
+Replace one hydrogen of a hydrocarbon with a small group of atoms, and you get a completely new family with new properties. The group is the **functional group**. Three important families contain oxygen:
+
+**11.5.1 Alcohols (–OH).** Organic compounds containing the **hydroxyl group –OH** attached to an alkyl group are alcohols, written **R–OH**. The general formula is **CₙH₂ₙ₊₁OH**.
+- **Naming:** drop the final **-e** of the alkane and add **-ol**: methane → **methanol** CH₃–OH; ethane → **ethanol** CH₃–CH₂–OH; propane → **propanol** CH₃–CH₂–CH₂–OH.
+- The first members are **colourless liquids** that **mix with water in all proportions** (the –OH group forms hydrogen bonds with water).
+- Not every –OH compound is an alcohol: in **phenol** (C₆H₅–OH) the –OH is on a benzene ring, and phenol behaves differently, so it is not called an alcohol.
+- **Preparation from bromoethane:** heat bromoethane with **aqueous** sodium hydroxide; the –OH replaces the Br: CH₃–CH₂Br + NaOH(aq) → CH₃–CH₂OH + NaBr
+
+**11.5.2 Aldehydes (–CHO).** Compounds containing the **aldehyde group –CHO** are aldehydes.
+- **Naming:** drop the **-e** of the alkane (counting the carbon of –CHO) and add **-al**: **methanal** H–CHO (formaldehyde), **ethanal** CH₃–CHO (acetaldehyde), **propanal** CH₃CH₂–CHO.
+- **Preparation:** (i) from ethyne and water (20% H₂SO₄, 2% HgSO₄, 80 °C): HC≡CH + H₂O → CH₃CHO. (ii) By gently oxidising ethanol with acidified potassium dichromate: CH₃CH₂OH + [O] → CH₃CHO + H₂O. The orange dichromate turns green as it works.
+
+**Formalin and its misuse.** A **40% solution of methanal (formaldehyde) in water** is called **formalin** (40 parts methanal, 60 parts water). It kills germs and stops decay, so laboratories use it to **preserve dead animal specimens** and museums to preserve biological samples.
+
+Some dishonest traders in Bangladesh have sprayed formalin on **fish, fruit, vegetables and even milk** to make them look fresh for longer. This is a serious crime against public health: formaldehyde irritates the eyes, throat and stomach, can damage the liver and kidneys, and is known to cause cancer with long exposure. Government mobile courts test markets with formalin detection kits. At home, buy fresh local produce, and if fish stays suspiciously stiff for days or flies avoid it, be suspicious. (Washing and soaking in water removes only some of it.)
+
+**11.5.3 Organic acids (–COOH).** Compounds containing the **carboxyl group –COOH** are carboxylic acids, written **R–COOH**, general formula **CₙH₂ₙ₊₁COOH**. Your textbook calls them organic acids or **fatty acids** (strictly, "fatty acid" is used for the long-chain members found in fats and oils).
+- **Naming:** drop the **-e** of the alkane (counting the carbon of –COOH) and add **-oic acid**: **methanoic acid** HCOOH (formic acid, in ant stings), **ethanoic acid** CH₃COOH (acetic acid, in vinegar), **propanoic acid** C₂H₅COOH.
+- **Preparation from ethanal:** oxidise with acidified potassium dichromate (K₂Cr₂O₇ + dilute H₂SO₄). The dichromate supplies nascent oxygen [O]: CH₃CHO + [O] → CH₃COOH
+- **Acidic properties:** organic acids are **weak acids**: only a small fraction of molecules ionise in water: CH₃COOH ⇌ CH₃COO⁻ + H⁺. Still, their solutions:
+ - turn **blue litmus red**;
+ - react with alkalis to give a salt and water: CH₃COOH + NaOH → CH₃COONa + H₂O (sodium ethanoate);
+ - fizz with carbonates, giving CO₂: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂;
+ - give hydrogen with active metals: 2CH₃COOH + Mg → (CH₃COO)₂Mg + H₂.
+- **Vinegar** is a **4–10% solution of ethanoic acid** in water. It is sour and slightly acidic, so bacteria and yeasts cannot grow in it; that is why vinegar preserves food.
+
+**11.5.4 Making them from hydrocarbons (and from each other).** Petroleum gives us hydrocarbons, and from them we can reach all three families:
+
+1. **Alkane → alkyl halide:** in sunlight (UV), an alkane reacts with a halogen: CH₃–CH₃ + Cl₂ → CH₃–CH₂Cl + HCl.
+2. **Alkene → alkyl bromide:** an alkene adds hydrogen bromide (in the presence of hydrogen peroxide) to give an alkyl bromide: CH₂=CH₂ + HBr → CH₃–CH₂Br.
+3. **Alkyl halide → alcohol:** with aqueous NaOH: CH₃–CH₂Cl + NaOH → CH₃–CH₂OH + NaCl.
+4. **Alkene → alcohol directly:** with steam at 300 °C and 60 atm, phosphoric acid catalyst: CH₂=CH₂ + H₂O → CH₃CH₂OH.
+5. **Alkyne → aldehyde:** ethyne + water (HgSO₄/H₂SO₄) → ethanal.
+6. **Alcohol → aldehyde → acid:** a strong oxidising agent (K₂Cr₂O₇ + H₂SO₄) first gives the aldehyde and then the acid: CH₃CH₂OH → CH₃CHO → CH₃COOH. (Some alcohols give a *ketone* instead of an aldehyde.)
+7. **Alkane → acid directly:** alkanes from petroleum can be oxidised by air at high temperature and pressure to give organic acids.
+
+The oxidation ladder is easy to remember: each step either removes 2 H (alcohol → aldehyde) or adds 1 O (aldehyde → acid).
+## analogy
+Think of a two-carbon "body" (CH₃–C…) wearing different "hats". With an –OH hat it is ethanol, gentle and mixable with water; swap to a –CHO hat and it becomes ethanal, sharp-smelling and reactive; with a –COOH hat it becomes ethanoic acid, sour like vinegar. Oxidation is the tailor who changes the hat, one step at a time.
+## definition
+**Alcohol**: an organic compound in which a hydroxyl group (–OH) is attached to an alkyl group; R–OH, general formula CₙH₂ₙ₊₁OH.
+
+**Aldehyde**: an organic compound containing the aldehyde group –CHO; R–CHO.
+
+**Carboxylic (organic) acid**: an organic compound containing the carboxyl group –COOH; R–COOH, general formula CₙH₂ₙ₊₁COOH.
+
+**Formalin**: a 40% aqueous solution of methanal (formaldehyde).
+
+**Vinegar**: a 4–10% aqueous solution of ethanoic acid.
+## why
+Why does oxidation go alcohol → aldehyde → acid? In ethanol, the carbon carrying the –OH also carries two H atoms. An oxidising agent removes one of those H atoms and the H of –OH (as water), leaving a C=O: the aldehyde. The aldehyde carbon still has one H, which is easily converted to –OH, giving the –COOH group. The acid carbon has no H left there, so the oxidation stops.
+
+Why are organic acids weak? The –COOH group can release H⁺, but the ethanoate ion left behind holds the proton back strongly, so in water only a few molecules in a thousand are ionised at any moment. Hydrochloric acid, by contrast, ionises completely.
+## terms
+Hydroxyl group | –OH, the functional group of alcohols
+Aldehyde group | –CHO
+Carboxyl group | –COOH, the functional group of carboxylic acids
+Formalin | 40% methanal in water; preserves specimens (never food)
+Vinegar | 4–10% ethanoic acid in water
+Nascent oxygen [O] | Freshly produced, very reactive oxygen from an oxidising agent
+Oxidation (organic) | Removal of hydrogen or addition of oxygen
+Acidified dichromate | K₂Cr₂O₇ + dilute H₂SO₄; orange → green when it oxidises
+## formula
+$$ Alcohol: CₙH₂ₙ₊₁OH · Aldehyde: CₙH₂ₙ₊₁CHO · Acid: CₙH₂ₙ₊₁COOH
+$$ CH₃CH₂OH + [O] → CH₃CHO + H₂O
+$$ CH₃CHO + [O] → CH₃COOH
+$$ CH₃COOH + NaOH → CH₃COONa + H₂O
+! Mr: ethanol 46, ethanal 44, ethanoic acid 60 (C = 12, H = 1, O = 16).
+## visual
+Tap a compound in the reaction map to see its structure, and tap an arrow to see the reagent and balanced equation. Follow the path from ethane or ethene all the way to vinegar's ethanoic acid.
+## real
+The vinegar used in achar and chutney in Bangladeshi homes, the ethanol-based hand sanitiser used during the COVID-19 pandemic, and the formalin jars of frogs and snakes in your school's biology lab all belong to this lesson. The formalin scandal in markets is a reminder that chemistry knowledge protects families: a chemical that is perfect for preserving a dead specimen is poison on a dinner plate.
+## example
+Q: A shop sells 500 g of vinegar that contains 5% ethanoic acid by mass. What mass of ethanoic acid does it contain, and how many moles is that? (C = 12, H = 1, O = 16)
+Given: mass of vinegar = 500 g; ethanoic acid = 5%; Mr(CH₃COOH) = 2 × 12 + 4 × 1 + 2 × 16 = 60
+Formula: mass = total mass × percentage ÷ 100; moles = mass ÷ Mr
+Calculation: mass = 500 × 5 ÷ 100 = 25 g; moles = 25 ÷ 60 ≈ 0.42 mol
+Answer: 25 g of ethanoic acid, about 0.42 mol
+## example
+Q: Show how ethanoic acid can be made from ethane in three steps, with equations.
+Step: 1. CH₃–CH₃ + Cl₂ → CH₃–CH₂Cl + HCl (UV light: substitution)
+Step: 2. CH₃–CH₂Cl + NaOH(aq) → CH₃–CH₂OH + NaCl (alkyl halide → alcohol)
+Step: 3. CH₃–CH₂OH + 2[O] → CH₃COOH + H₂O (acidified K₂Cr₂O₇, excess, heat)
+> Step 3 combines the two oxidations: CH₃CH₂OH + [O] → CH₃CHO + H₂O, then CH₃CHO + [O] → CH₃COOH.
+Answer: ethane → chloroethane → ethanol → ethanoic acid
+## example
+Q: Name and give the structure: (a) C₂H₅OH (b) HCHO (c) C₂H₅COOH.
+Solution: (a) 2 C with –OH → ethanol, CH₃–CH₂–OH. (b) 1 C, aldehyde → methanal (formaldehyde), H–CHO. (c) C₂H₅ plus the carbon of –COOH = 3 C → propanoic acid, CH₃–CH₂–COOH.
+> For aldehydes and acids, count the carbon inside –CHO or –COOH too.
+Answer: (a) ethanol (b) methanal (c) propanoic acid
+## mistakes
+x Formalin is a 40% solution of methanol.
+v Formalin is a 40% solution of methanal (formaldehyde), HCHO. Methanol (CH₃OH) is an alcohol.
+x Phenol is an alcohol because it has an –OH group.
+v In phenol the –OH is on a benzene ring; its properties are different, so it is not classed as an alcohol.
+x Ethanoic acid is a strong acid because vinegar tastes sharp.
+v Ethanoic acid is a weak acid; only a small fraction of its molecules ionise in water.
+x CH₃CH₂COOH is ethanoic acid because it has an ethyl group.
+v Counting the –COOH carbon it has 3 carbons, so it is propanoic acid.
+## remember
+- Alcohol R–OH (-ol), aldehyde R–CHO (-al), acid R–COOH (-oic acid).
+- Ethanol from bromoethane + aqueous NaOH, or ethene + steam.
+- Ethanal from ethyne + water (HgSO₄/H₂SO₄) or by oxidising ethanol.
+- Ethanoic acid from ethanal + [O] (K₂Cr₂O₇ + H₂SO₄); weak acid; vinegar = 4–10%.
+- Formalin = 40% methanal: preserves specimens; illegal and harmful in food.
+- Oxidation ladder: alcohol → aldehyde → carboxylic acid.
+## think
+If you left a bottle of palm toddy or fruit juice open for a few days, it would turn sour. Using this lesson, what chemical change do you think is happening?
+## quiz
+? The functional group of an aldehyde is:
+- –OH
+* –CHO
+- –COOH
+- C=C
+= Aldehydes contain the –CHO group; alcohols –OH; carboxylic acids –COOH.
+? Formalin is:
+- 40% methanol in water
+* 40% methanal in water
+- 5% ethanoic acid in water
+- 96% ethanol in water
+= Formalin is a 40% aqueous solution of methanal (formaldehyde).
+? Vinegar contains:
+- Methanoic acid
+* Ethanoic acid
+- Citric acid only
+- Ethanol
+= Vinegar is a 4–10% solution of ethanoic acid.
+? CH₃CH₂OH → X → CH₃COOH on oxidation. X is:
+- Ethane
+- Ethene
+* Ethanal
+- Methanol
+= The alcohol is first oxidised to the aldehyde (ethanal, CH₃CHO), then to the acid.
+== bn
+## what
+**অ্যালকোহলে** থাকে হাইড্রক্সিল মূলক **–OH** (R–OH), **অ্যালডিহাইডে** থাকে **–CHO** মূলক, আর **কার্বক্সিলিক (জৈব বা ফ্যাটি) এসিডে** থাকে কার্বক্সিল মূলক **–COOH** (R–COOH)। এদের হাইড্রোকার্বন থেকে তৈরি করা যায়, আর অ্যালকোহলকে ধাপে ধাপে জারিত করা যায়: **অ্যালকোহল → অ্যালডিহাইড → কার্বক্সিলিক এসিড**।
+## simple
+হাইড্রোকার্বনের একটি হাইড্রোজেনের জায়গায় ছোট একটি পরমাণুগুচ্ছ বসাও, পেয়ে যাবে নতুন ধর্মের সম্পূর্ণ নতুন একটি পরিবার। এই গুচ্ছটিই **কার্যকরী মূলক**। অক্সিজেনযুক্ত তিনটি গুরুত্বপূর্ণ পরিবার:
+
+**১১.৫.১ অ্যালকোহল (–OH)।** অ্যালকাইল মূলকের সাথে **হাইড্রক্সিল মূলক –OH** যুক্ত জৈব যৌগকে অ্যালকোহল বলে, লেখা হয় **R–OH**। সাধারণ সংকেত **CₙH₂ₙ₊₁OH**।
+- **নামকরণ:** অ্যালকেনের নামের শেষের **-e** বাদ দিয়ে **-ol (-অল)** যোগ করো: মিথেন → **মিথানল** CH₃–OH; ইথেন → **ইথানল** CH₃–CH₂–OH; প্রোপেন → **প্রোপানল** CH₃–CH₂–CH₂–OH।
+- প্রথম দিকের সদস্যরা **বর্ণহীন তরল** এবং **পানির সাথে যেকোনো অনুপাতে মেশে** (–OH মূলক পানির সাথে হাইড্রোজেন বন্ধন গড়ে)।
+- –OH থাকলেই অ্যালকোহল নয়: **ফেনলে** (C₆H₅–OH) –OH যুক্ত থাকে বেনজিন বলয়ে, আর ফেনলের আচরণ আলাদা, তাই একে অ্যালকোহল বলা হয় না।
+- **ব্রোমোইথেন থেকে প্রস্তুতি:** ব্রোমোইথেনকে সোডিয়াম হাইড্রোক্সাইডের **জলীয় দ্রবণের** সাথে উত্তপ্ত করো; Br-এর জায়গায় –OH বসে: CH₃–CH₂Br + NaOH(aq) → CH₃–CH₂OH + NaBr
+
+**১১.৫.২ অ্যালডিহাইড (–CHO)।** **অ্যালডিহাইড মূলক –CHO** যুক্ত যৌগকে অ্যালডিহাইড বলে।
+- **নামকরণ:** অ্যালকেনের নামের (–CHO-এর কার্বনসহ গুনে) শেষের **-e** বাদ দিয়ে **-al (-অ্যাল)** যোগ করো: **মিথান্যাল** H–CHO (ফরমালডিহাইড), **ইথান্যাল** CH₃–CHO (এসিটালডিহাইড), **প্রোপান্যাল** CH₃CH₂–CHO।
+- **প্রস্তুতি:** (ক) ইথাইন ও পানি থেকে (২০% H₂SO₄, ২% HgSO₄, ৮০ °C): HC≡CH + H₂O → CH₃CHO। (খ) অম্লীয় পটাশিয়াম ডাইক্রোমেট দিয়ে ইথানলকে মৃদুভাবে জারিত করে: CH₃CH₂OH + [O] → CH₃CHO + H₂O। কাজ করার সময় কমলা ডাইক্রোমেট সবুজ হয়ে যায়।
+
+**ফরমালিন ও এর অপব্যবহার।** **মিথান্যালের (ফরমালডিহাইডের) ৪০% জলীয় দ্রবণকে** বলে **ফরমালিন** (৪০ ভাগ মিথান্যাল, ৬০ ভাগ পানি)। এটি জীবাণু মারে আর পচন থামায়, তাই গবেষণাগারে **মৃত প্রাণীর নমুনা সংরক্ষণে** আর জাদুঘরে জৈব নমুনা সংরক্ষণে ব্যবহৃত হয়।
+
+বাংলাদেশে কিছু অসাধু ব্যবসায়ী **মাছ, ফল, সবজি, এমনকি দুধে** ফরমালিন মিশিয়েছে, যাতে এগুলো বেশি দিন তাজা দেখায়। এটি জনস্বাস্থ্যের বিরুদ্ধে গুরুতর অপরাধ: ফরমালডিহাইড চোখ, গলা ও পাকস্থলীতে জ্বালাপোড়া করে, যকৃৎ ও বৃক্কের ক্ষতি করতে পারে, আর দীর্ঘদিন সংস্পর্শে ক্যানসার ঘটায় বলে জানা। সরকারের ভ্রাম্যমাণ আদালত ফরমালিন শনাক্তকরণ কিট দিয়ে বাজারে পরীক্ষা চালায়। বাসায় টাটকা স্থানীয় পণ্য কেনো; মাছ যদি দিনের পর দিন অস্বাভাবিক শক্ত থাকে বা মাছি না বসে, সন্দেহ করো। (পানিতে ধুলে বা ভিজিয়ে রাখলে এর কিছু অংশই শুধু দূর হয়।)
+
+**১১.৫.৩ জৈব এসিড (–COOH)।** **কার্বক্সিল মূলক –COOH** যুক্ত যৌগকে কার্বক্সিলিক এসিড বলে, লেখা হয় **R–COOH**, সাধারণ সংকেত **CₙH₂ₙ₊₁COOH**। তোমার পাঠ্যবই এদের জৈব এসিড বা **ফ্যাটি এসিড** বলেছে (সূক্ষ্মভাবে বললে, "ফ্যাটি এসিড" নামটি ব্যবহৃত হয় চর্বি ও তেলে পাওয়া লম্বা শিকলের সদস্যদের জন্য)।
+- **নামকরণ:** অ্যালকেনের নামের (–COOH-এর কার্বনসহ গুনে) শেষের **-e** বাদ দিয়ে **-oic acid (-অয়িক এসিড)** যোগ করো: **মিথানয়িক এসিড** HCOOH (ফরমিক এসিড, পিঁপড়ার কামড়ে থাকে), **ইথানয়িক এসিড** CH₃COOH (এসিটিক এসিড, ভিনেগারে থাকে), **প্রোপানয়িক এসিড** C₂H₅COOH।
+- **ইথান্যাল থেকে প্রস্তুতি:** অম্লীয় পটাশিয়াম ডাইক্রোমেট (K₂Cr₂O₇ + লঘু H₂SO₄) দিয়ে জারিত করো। ডাইক্রোমেট জায়মান অক্সিজেন [O] জোগায়: CH₃CHO + [O] → CH₃COOH
+- **অম্লীয় ধর্ম:** জৈব এসিড **মৃদু এসিড**: পানিতে এদের অণুর সামান্য অংশই আয়নিত হয়: CH₃COOH ⇌ CH₃COO⁻ + H⁺। তবু এদের দ্রবণ:
+ - **নীল লিটমাসকে লাল** করে;
+ - ক্ষারের সাথে লবণ ও পানি দেয়: CH₃COOH + NaOH → CH₃COONa + H₂O (সোডিয়াম ইথানয়েট);
+ - কার্বনেটের সাথে বুদ্বুদ তুলে CO₂ দেয়: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂;
+ - সক্রিয় ধাতুর সাথে হাইড্রোজেন দেয়: 2CH₃COOH + Mg → (CH₃COO)₂Mg + H₂।
+- **ভিনেগার** হলো পানিতে **ইথানয়িক এসিডের ৪–১০% দ্রবণ**। এটি টক আর মৃদু অম্লীয়, তাই এতে ব্যাকটেরিয়া বা ইস্ট জন্মাতে পারে না; এজন্যই ভিনেগার খাদ্য সংরক্ষণ করে।
+
+**১১.৫.৪ হাইড্রোকার্বন থেকে (এবং একটি থেকে আরেকটি) প্রস্তুতি।** পেট্রোলিয়াম থেকে পাই হাইড্রোকার্বন, আর তা থেকে তিনটি পরিবারেই পৌঁছানো যায়:
+
+১. **অ্যালকেন → অ্যালকাইল হ্যালাইড:** সূর্যালোকে (অতিবেগুনি রশ্মি) অ্যালকেন হ্যালোজেনের সাথে বিক্রিয়া করে: CH₃–CH₃ + Cl₂ → CH₃–CH₂Cl + HCl।
+২. **অ্যালকিন → অ্যালকাইল ব্রোমাইড:** হাইড্রোজেন পার-অক্সাইডের উপস্থিতিতে অ্যালকিন হাইড্রোজেন ব্রোমাইড যুক্ত করে অ্যালকাইল ব্রোমাইড দেয়: CH₂=CH₂ + HBr → CH₃–CH₂Br।
+৩. **অ্যালকাইল হ্যালাইড → অ্যালকোহল:** জলীয় NaOH-এর সাথে: CH₃–CH₂Cl + NaOH → CH₃–CH₂OH + NaCl।
+৪. **অ্যালকিন → সরাসরি অ্যালকোহল:** ফসফরিক এসিড প্রভাবকে ৩০০ °C ও ৬০ atm চাপে জলীয় বাষ্পের সাথে: CH₂=CH₂ + H₂O → CH₃CH₂OH।
+৫. **অ্যালকাইন → অ্যালডিহাইড:** ইথাইন + পানি (HgSO₄/H₂SO₄) → ইথান্যাল।
+৬. **অ্যালকোহল → অ্যালডিহাইড → এসিড:** শক্তিশালী জারক (K₂Cr₂O₇ + H₂SO₄) প্রথমে অ্যালডিহাইড, পরে এসিড দেয়: CH₃CH₂OH → CH₃CHO → CH₃COOH। (কিছু অ্যালকোহল অ্যালডিহাইডের বদলে *কিটোন* দেয়।)
+৭. **অ্যালকেন → সরাসরি এসিড:** পেট্রোলিয়ামের অ্যালকেনকে উচ্চ তাপ ও চাপে বায়ুর অক্সিজেন দিয়ে জারিত করে জৈব এসিড পাওয়া যায়।
+
+জারণের সিঁড়িটা মনে রাখা সহজ: প্রতি ধাপে হয় ২টি H সরে (অ্যালকোহল → অ্যালডিহাইড), নয়তো ১টি O যুক্ত হয় (অ্যালডিহাইড → এসিড)।
+## analogy
+ভাবো দুই কার্বনের একটি "শরীর" (CH₃–C…) বিভিন্ন "টুপি" পরছে। –OH টুপি পরলে সে ইথানল, শান্ত আর পানিতে মিশে যায়; –CHO টুপিতে সে ইথান্যাল, ঝাঁঝালো গন্ধ আর সক্রিয়; –COOH টুপিতে সে ইথানয়িক এসিড, ভিনেগারের মতো টক। জারণ হলো সেই দর্জি, যে ধাপে ধাপে টুপি বদলে দেয়।
+## definition
+**অ্যালকোহল**: যে জৈব যৌগে অ্যালকাইল মূলকের সাথে হাইড্রক্সিল মূলক (–OH) যুক্ত থাকে; R–OH, সাধারণ সংকেত CₙH₂ₙ₊₁OH।
+
+**অ্যালডিহাইড**: অ্যালডিহাইড মূলক –CHO যুক্ত জৈব যৌগ; R–CHO।
+
+**কার্বক্সিলিক (জৈব) এসিড**: কার্বক্সিল মূলক –COOH যুক্ত জৈব যৌগ; R–COOH, সাধারণ সংকেত CₙH₂ₙ₊₁COOH।
+
+**ফরমালিন**: মিথান্যালের (ফরমালডিহাইডের) ৪০% জলীয় দ্রবণ।
+
+**ভিনেগার**: ইথানয়িক এসিডের ৪–১০% জলীয় দ্রবণ।
+## why
+জারণ কেন অ্যালকোহল → অ্যালডিহাইড → এসিড ক্রমে চলে? ইথানলে –OH বহনকারী কার্বনে আরও দুটি H থাকে। জারক ওই H-গুলোর একটি আর –OH-এর H সরিয়ে (পানি হিসেবে) একটি C=O তৈরি করে: এটিই অ্যালডিহাইড। অ্যালডিহাইডের কার্বনে তখনও একটি H থাকে, যা সহজে –OH-এ পরিণত হয়ে –COOH মূলক দেয়। এসিডের ওই কার্বনে আর কোনো H নেই, তাই জারণ থেমে যায়।
+
+জৈব এসিড মৃদু কেন? –COOH মূলক H⁺ ছাড়তে পারে, কিন্তু পড়ে থাকা ইথানয়েট আয়ন প্রোটনটিকে জোরে টেনে রাখে, তাই পানিতে যেকোনো মুহূর্তে হাজারে মাত্র কয়েকটি অণু আয়নিত থাকে। অন্যদিকে হাইড্রোক্লোরিক এসিড সম্পূর্ণ আয়নিত হয়।
+## terms
+হাইড্রক্সিল মূলক | –OH, অ্যালকোহলের কার্যকরী মূলক
+অ্যালডিহাইড মূলক | –CHO
+কার্বক্সিল মূলক | –COOH, কার্বক্সিলিক এসিডের কার্যকরী মূলক
+ফরমালিন | পানিতে ৪০% মিথান্যাল; নমুনা সংরক্ষণে (খাবারে কখনো নয়)
+ভিনেগার | পানিতে ৪–১০% ইথানয়িক এসিড
+জায়মান অক্সিজেন [O] | জারক থেকে সদ্য তৈরি, অত্যন্ত সক্রিয় অক্সিজেন
+জারণ (জৈব) | হাইড্রোজেন অপসারণ বা অক্সিজেন যোগ
+অম্লীয় ডাইক্রোমেট | K₂Cr₂O₇ + লঘু H₂SO₄; জারণের সময় কমলা → সবুজ
+## formula
+$$ অ্যালকোহল: CₙH₂ₙ₊₁OH · অ্যালডিহাইড: CₙH₂ₙ₊₁CHO · এসিড: CₙH₂ₙ₊₁COOH
+$$ CH₃CH₂OH + [O] → CH₃CHO + H₂O
+$$ CH₃CHO + [O] → CH₃COOH
+$$ CH₃COOH + NaOH → CH₃COONa + H₂O
+! Mr: ইথানল ৪৬, ইথান্যাল ৪৪, ইথানয়িক এসিড ৬০ (C = ১২, H = ১, O = ১৬)।
+## visual
+বিক্রিয়া-মানচিত্রের কোনো যৌগে চাপ দিয়ে তার গঠন দেখো, আর তীরে চাপ দিয়ে বিকারক ও সমতাকৃত সমীকরণ দেখো। ইথেন বা ইথিন থেকে শুরু করে ভিনেগারের ইথানয়িক এসিড পর্যন্ত পথটা অনুসরণ করো।
+## real
+বাংলাদেশের ঘরে আচার-চাটনিতে ব্যবহৃত ভিনেগার, কোভিড-১৯ মহামারির সময় ব্যবহৃত ইথানলভিত্তিক হ্যান্ড স্যানিটাইজার, আর তোমার স্কুলের জীববিজ্ঞান ল্যাবে ফরমালিনের বয়ামে রাখা ব্যাঙ-সাপ: সবই এই পাঠের অংশ। বাজারে ফরমালিন কেলেঙ্কারি মনে করিয়ে দেয় যে রসায়নের জ্ঞান পরিবারকে রক্ষা করে: যে রাসায়নিক মৃত নমুনা সংরক্ষণে চমৎকার, খাবারের থালায় সেটিই বিষ।
+## example
+প্রশ্ন: একটি দোকানে ৫০০ g ভিনেগার বিক্রি হয়, যাতে ভর অনুযায়ী ৫% ইথানয়িক এসিড আছে। এতে কত গ্রাম ইথানয়িক এসিড আছে, আর তা কত মোল? (C = ১২, H = ১, O = ১৬)
+দেওয়া আছে: ভিনেগারের ভর = ৫০০ g; ইথানয়িক এসিড = ৫%; Mr(CH₃COOH) = ২ × ১২ + ৪ × ১ + ২ × ১৬ = ৬০
+সূত্র: ভর = মোট ভর × শতকরা হার ÷ ১০০; মোল = ভর ÷ Mr
+হিসাব: ভর = ৫০০ × ৫ ÷ ১০০ = ২৫ g; মোল = ২৫ ÷ ৬০ ≈ ০.৪২ mol
+উত্তর: ২৫ g ইথানয়িক এসিড, প্রায় ০.৪২ mol
+## example
+প্রশ্ন: তিন ধাপে ইথেন থেকে কীভাবে ইথানয়িক এসিড তৈরি করা যায়, সমীকরণসহ দেখাও।
+ধাপ: ১. CH₃–CH₃ + Cl₂ → CH₃–CH₂Cl + HCl (অতিবেগুনি আলো: প্রতিস্থাপন)
+ধাপ: ২. CH₃–CH₂Cl + NaOH(aq) → CH₃–CH₂OH + NaCl (অ্যালকাইল হ্যালাইড → অ্যালকোহল)
+ধাপ: ৩. CH₃–CH₂OH + 2[O] → CH₃COOH + H₂O (অম্লীয় K₂Cr₂O₇, আধিক্যে, তাপ)
+> ৩ নম্বর ধাপে দুটি জারণ একসাথে: CH₃CH₂OH + [O] → CH₃CHO + H₂O, তারপর CH₃CHO + [O] → CH₃COOH।
+উত্তর: ইথেন → ক্লোরোইথেন → ইথানল → ইথানয়িক এসিড
+## example
+প্রশ্ন: নাম ও গঠন লেখো: (ক) C₂H₅OH (খ) HCHO (গ) C₂H₅COOH।
+সমাধান: (ক) ২টি C ও –OH → ইথানল, CH₃–CH₂–OH। (খ) ১টি C, অ্যালডিহাইড → মিথান্যাল (ফরমালডিহাইড), H–CHO। (গ) C₂H₅ আর –COOH-এর কার্বন মিলে ৩টি C → প্রোপানয়িক এসিড, CH₃–CH₂–COOH।
+> অ্যালডিহাইড ও এসিডে –CHO বা –COOH-এর ভেতরের কার্বনটিও গুনতে হয়।
+উত্তর: (ক) ইথানল (খ) মিথান্যাল (গ) প্রোপানয়িক এসিড
+## mistakes
+x ফরমালিন হলো মিথানলের ৪০% দ্রবণ।
+v ফরমালিন হলো মিথান্যালের (ফরমালডিহাইড, HCHO) ৪০% দ্রবণ। মিথানল (CH₃OH) একটি অ্যালকোহল।
+x ফেনলে –OH আছে, তাই এটি অ্যালকোহল।
+v ফেনলে –OH যুক্ত থাকে বেনজিন বলয়ে; এর ধর্ম আলাদা, তাই একে অ্যালকোহল ধরা হয় না।
+x ভিনেগার ঝাঁঝালো টক, তাই ইথানয়িক এসিড তীব্র এসিড।
+v ইথানয়িক এসিড মৃদু এসিড; পানিতে এর অণুর সামান্য অংশই আয়নিত হয়।
+x CH₃CH₂COOH-এ ইথাইল মূলক আছে, তাই এটি ইথানয়িক এসিড।
+v –COOH-এর কার্বনসহ এতে ৩টি কার্বন, তাই এটি প্রোপানয়িক এসিড।
+## remember
+- অ্যালকোহল R–OH (-অল), অ্যালডিহাইড R–CHO (-অ্যাল), এসিড R–COOH (-অয়িক এসিড)।
+- ইথানল: ব্রোমোইথেন + জলীয় NaOH, অথবা ইথিন + জলীয় বাষ্প থেকে।
+- ইথান্যাল: ইথাইন + পানি (HgSO₄/H₂SO₄) থেকে, বা ইথানলের জারণে।
+- ইথানয়িক এসিড: ইথান্যাল + [O] (K₂Cr₂O₇ + H₂SO₄); মৃদু এসিড; ভিনেগার = ৪–১০%।
+- ফরমালিন = ৪০% মিথান্যাল: নমুনা সংরক্ষণে; খাবারে বেআইনি ও ক্ষতিকর।
+- জারণের সিঁড়ি: অ্যালকোহল → অ্যালডিহাইড → কার্বক্সিলিক এসিড।
+## think
+খেজুরের রস বা ফলের রস কয়েক দিন খোলা রেখে দিলে টক হয়ে যায়। এই পাঠ অনুযায়ী তোমার কী মনে হয়, সেখানে কোন রাসায়নিক পরিবর্তন ঘটছে?
+## quiz
+? অ্যালডিহাইডের কার্যকরী মূলক:
+- –OH
+* –CHO
+- –COOH
+- C=C
+= অ্যালডিহাইডে –CHO মূলক থাকে; অ্যালকোহলে –OH; কার্বক্সিলিক এসিডে –COOH।
+? ফরমালিন হলো:
+- পানিতে ৪০% মিথানল
+* পানিতে ৪০% মিথান্যাল
+- পানিতে ৫% ইথানয়িক এসিড
+- পানিতে ৯৬% ইথানল
+= ফরমালিন হলো মিথান্যালের (ফরমালডিহাইড) ৪০% জলীয় দ্রবণ।
+? ভিনেগারে থাকে:
+- মিথানয়িক এসিড
+* ইথানয়িক এসিড
+- শুধু সাইট্রিক এসিড
+- ইথানল
+= ভিনেগার হলো ইথানয়িক এসিডের ৪–১০% দ্রবণ।
+? জারণে CH₃CH₂OH → X → CH₃COOH। X হলো:
+- ইথেন
+- ইথিন
+* ইথান্যাল
+- মিথানল
+= অ্যালকোহল প্রথমে অ্যালডিহাইডে (ইথান্যাল, CH₃CHO), পরে এসিডে জারিত হয়।
+
+@@ 11.6
+@related 11.5 11.7 12.1 8.2
+== en
+## what
+**Methanol** is poisonous and is used mainly to make other chemicals; **ethanol** is a solvent for perfumes, cosmetics and medicines, a disinfectant and a fuel, and is made by **fermentation** of starch or molasses. **Aldehydes** (formalin, methanal) are used to preserve specimens and to make plastics; **organic acids** such as vinegar are edible and preserve food.
+## simple
+**Alcohols**
+
+**Methanol (CH₃OH)** is a **poisonous** liquid. Even a small amount swallowed can cause **blindness or death**, because the body turns it into methanal and methanoic acid. Industry uses it mainly as a raw material to make other chemicals: methanal (for plastics), ethanoic acid and **esters** of organic acids; it is also a solvent and a fuel.
+
+**Ethanol (C₂H₅OH)** is the most useful alcohol:
+- **Solvent** in the perfume, cosmetics and pharmaceutical industries (many medicines and syrups are dissolved in it). For perfumes, ethanol is first made odourless.
+- **Rectified spirit** is about **95.6% ethanol** in water (often rounded to 96%). Pharmaceutical-grade ethanol is used in medicine factories, and rectified spirit in homeopathic medicines.
+- **Methylated spirit**: for industries other than food and medicine, rectified spirit is made poisonous by adding a little methanol so that nobody drinks it. It is used to polish (varnish) wooden and metal furniture and as a burner fuel.
+- **Disinfectant**: about 70% ethanol kills germs; this is the main ingredient of many hand sanitisers.
+- **Fuel**: in **Brazil**, ethanol made from sugarcane is used in car engines in place of (or mixed with) petrol. Using ethanol as a fuel reduces the demand for fossil fuels.
+
+**How ethanol is made: fermentation.** Starch from **rice, wheat, potato or maize** is broken down by enzymes, and then yeast turns the sugar into ethanol:
+- Starch → glucose (enzymes diastase and maltase, with water): (C₆H₁₀O₅)ₙ + nH₂O → nC₆H₁₂O₆
+- Glucose → ethanol (enzyme zymase from yeast): C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂
+
+**Molasses** (চিটাগুড়), the thick by-product left after sugar is made from sugarcane, is fermented the same way. In Bangladesh, **Carew & Co. (Bangladesh) Ltd.** at **Darshana** in Chuadanga makes ethanol from molasses from its sugar mill. Surplus potatoes, which often rot in cold-storage shortages, could also be fermented into fuel ethanol.
+
+**Aldehydes**
+- **Formalin** (40% methanal) preserves biological specimens in laboratories and museums (never food!).
+- **Plastics from methanal:** heating a concentrated solution of methanal at very low pressure polymerises it into **Delrin** (polyoxymethylene), a hard plastic used for chairs, dining tables, buckets and machine parts.
+- **Urea–formaldehyde resin**, made by condensation polymerisation of methanal with urea, is moulded into plates, cups, mugs and electrical fittings.
+
+**Organic acids**
+- Organic acids are **weaker** than inorganic (mineral) acids and many are **edible**: citric acid in lemons, tartaric acid in tamarind, lactic acid in yoghurt (doi), ethanoic acid in vinegar.
+- Because they stop bacteria from growing, they are used as **food preservatives**. Vinegar (4–10% ethanoic acid) preserves sauces, pickles (achar) and chutneys.
+## analogy
+Ethanol and methanol are like twins who look almost identical but behave very differently: one (ethanol) is a helpful worker in medicine and perfume factories; the other (methanol) looks the same in a bottle but is poison if swallowed. That is why methylated spirit is deliberately made poisonous and labelled.
+## definition
+**Rectified spirit**: an aqueous solution containing about 95.6% ethanol.
+
+**Methylated spirit**: rectified spirit made poisonous (unfit to drink) by adding a small amount of methanol; used for industrial purposes.
+
+**Fermentation**: the breakdown of carbohydrates such as starch and sugar into simpler substances such as ethanol and carbon dioxide by the enzymes of microorganisms (yeast).
+
+**Molasses**: the dark, thick syrup left over after sugar is crystallised from sugarcane juice.
+## why
+Why is methanol so dangerous while ethanol is far less toxic? The body's enzymes oxidise both, following the ladder alcohol → aldehyde → acid. Ethanol becomes ethanal and then ethanoic acid, which the body can use. Methanol becomes methanal (formaldehyde) and methanoic acid, which attack the optic nerve and make the blood acidic, causing blindness and death.
+
+Why does fermentation stop at about 12–15% ethanol? The yeast producing the ethanol is itself killed when the alcohol becomes too concentrated. To get rectified spirit, the fermented liquid is distilled (ethanol boils at 78 °C, water at 100 °C). Distillation cannot go beyond about 95.6% because at that point ethanol and water boil together as a fixed mixture.
+## terms
+Rectified spirit | About 95.6% ethanol
+Methylated spirit | Ethanol made poisonous with methanol; industrial use
+Fermentation | Enzymes of yeast convert sugar to ethanol and CO₂
+Molasses | By-product of sugar making; raw material for ethanol
+Delrin | A hard plastic made by polymerising methanal
+Urea–formaldehyde resin | Plastic from methanal and urea; plates, cups
+Preservative | A substance that stops food from spoiling
+## formula
+$$ (C₆H₁₀O₅)ₙ + nH₂O → nC₆H₁₂O₆ (diastase, maltase)
+$$ C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ (zymase)
+! Mr: glucose 180, ethanol 46, CO₂ 44. 180 g glucose gives 92 g ethanol + 88 g CO₂.
+## real
+During the COVID-19 pandemic, Bangladeshi pharmaceutical companies and even university chemistry departments produced ethanol-based hand sanitiser. Every year there are tragic news reports of people dying after drinking illegally made liquor containing methanol; knowing the difference between ethanol and methanol saves lives. In the kitchen, a spoon of vinegar keeps achar safe for months.
+## example
+Q: How much ethanol can be obtained by fermenting 360 g of glucose completely? (C = 12, H = 1, O = 16)
+Given: mass of glucose = 360 g; Mr(C₆H₁₂O₆) = 6 × 12 + 12 + 6 × 16 = 180; Mr(C₂H₅OH) = 46
+Formula: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂
+Calculation: moles of glucose = 360 ÷ 180 = 2 mol → ethanol = 2 × 2 = 4 mol = 4 × 46 = 184 g
+> Check mass: 360 g glucose → 184 g ethanol + 4 × 44 = 176 g CO₂; 184 + 176 = 360 g.
+Answer: 184 g of ethanol
+## example
+Q: A pharmacist wants 100 mL of 70% (by volume) ethanol hand sanitiser, starting from rectified spirit (95.6% ethanol). How much rectified spirit is needed?
+Given: final volume = 100 mL at 70%; rectified spirit = 95.6%
+Formula: volume of spirit × 95.6 = 100 × 70
+Calculation: volume of spirit = 100 × 70 ÷ 95.6 ≈ 73.2 mL; add water to make 100 mL
+Answer: about 73 mL of rectified spirit, made up to 100 mL with water
+## mistakes
+x Methylated spirit is safe to drink because it is mostly ethanol.
+v Methylated spirit contains methanol and is poisonous; it is made that way on purpose.
+x Formalin is a good preservative for fish and fruit.
+v Formalin is only for preserving dead biological specimens; in food it is harmful and illegal.
+x Rectified spirit is 100% ethanol.
+v Rectified spirit is about 95.6% ethanol; ordinary distillation cannot remove the last water.
+## remember
+- Methanol: poisonous; raw material for methanal, ethanoic acid, esters.
+- Ethanol: solvent (perfume, cosmetics, medicine), disinfectant, fuel (Brazil); rectified spirit ≈ 95.6%; methylated spirit = ethanol + a little methanol.
+- Fermentation: starch → glucose → ethanol + CO₂; molasses is also used (Carew & Co., Darshana).
+- Aldehydes: formalin preserves specimens; Delrin and urea–formaldehyde plastics.
+- Organic acids: edible (citric, tartaric, lactic, ethanoic); vinegar preserves pickles and sauces.
+## think
+Bangladesh produces more potatoes than it can store in some years. Would turning surplus potatoes into ethanol fuel be a good idea? What would be the benefits and the problems?
+## quiz
+? Rectified spirit contains about:
+- 40% ethanol
+- 70% ethanol
+* 95.6% ethanol
+- 100% ethanol
+= Rectified spirit is about 95.6% ethanol in water.
+? Methylated spirit is made by adding to ethanol a small amount of:
+* Methanol
+- Methanal
+- Ethanoic acid
+- Water only
+= A little methanol makes the spirit poisonous so that it is not drunk.
+? In fermentation, the enzyme zymase converts glucose into:
+- Starch and water
+* Ethanol and carbon dioxide
+- Ethanoic acid and hydrogen
+- Methanol and oxygen
+= C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂.
+? Which acid is found in tamarind?
+- Citric acid
+* Tartaric acid
+- Lactic acid
+- Ethanoic acid
+= Tamarind contains tartaric acid; lemon has citric acid and yoghurt lactic acid.
+== bn
+## what
+**মিথানল** বিষাক্ত এবং প্রধানত অন্য রাসায়নিক তৈরিতে ব্যবহৃত হয়; **ইথানল** পারফিউম, প্রসাধনী ও ওষুধের দ্রাবক, জীবাণুনাশক ও জ্বালানি, আর এটি তৈরি হয় স্টার্চ বা চিটাগুড়ের **গাঁজন** প্রক্রিয়ায়। **অ্যালডিহাইড** (ফরমালিন, মিথান্যাল) নমুনা সংরক্ষণে ও প্লাস্টিক তৈরিতে, আর ভিনেগারের মতো **জৈব এসিড** খাদ্য হিসেবে ও খাদ্য সংরক্ষণে ব্যবহৃত হয়।
+## simple
+**অ্যালকোহল**
+
+**মিথানল (CH₃OH)** একটি **বিষাক্ত** তরল। সামান্য পরিমাণ পেটে গেলেও **অন্ধত্ব বা মৃত্যু** হতে পারে, কারণ শরীর একে মিথান্যাল ও মিথানয়িক এসিডে পরিণত করে। শিল্পে একে মূলত অন্য রাসায়নিক তৈরির কাঁচামাল হিসেবে ব্যবহার করা হয়: মিথান্যাল (প্লাস্টিকের জন্য), ইথানয়িক এসিড আর জৈব এসিডের **এস্টার**; এটি দ্রাবক ও জ্বালানিও।
+
+**ইথানল (C₂H₅OH)** সবচেয়ে কাজের অ্যালকোহল:
+- পারফিউম, প্রসাধনী ও ওষুধ শিল্পে **দ্রাবক** (অনেক ওষুধ ও সিরাপ এতে দ্রবীভূত থাকে)। পারফিউমে ব্যবহারের আগে ইথানলকে গন্ধমুক্ত করা হয়।
+- **রেকটিফাইড স্পিরিট** হলো পানিতে প্রায় **৯৫.৬% ইথানল** (অনেক সময় ৯৬% বলা হয়)। ওষুধ কারখানায় ফার্মাসিউটিক্যাল গ্রেডের ইথানল আর হোমিও ওষুধে রেকটিফাইড স্পিরিট ব্যবহৃত হয়।
+- **মেথিলেটেড স্পিরিট**: খাদ্য ও ওষুধ ছাড়া অন্য শিল্পে ব্যবহারের জন্য রেকটিফাইড স্পিরিটে সামান্য মিথানল মিশিয়ে একে বিষাক্ত করা হয়, যাতে কেউ পান না করে। কাঠ ও ধাতুর আসবাব বার্নিশ করতে আর বার্নারের জ্বালানি হিসেবে এটি ব্যবহৃত হয়।
+- **জীবাণুনাশক**: প্রায় ৭০% ইথানল জীবাণু মারে; অনেক হ্যান্ড স্যানিটাইজারের প্রধান উপাদান এটিই।
+- **জ্বালানি**: **ব্রাজিলে** আখ থেকে তৈরি ইথানল পেট্রোলের বদলে (বা পেট্রোলের সাথে মিশিয়ে) গাড়ির ইঞ্জিনে ব্যবহার হয়। ইথানলকে জ্বালানি হিসেবে ব্যবহার করলে জীবাশ্ম জ্বালানির ওপর চাপ কমে।
+
+**ইথানল কীভাবে তৈরি হয়: গাঁজন।** **চাল, গম, আলু বা ভুট্টার** স্টার্চ প্রথমে এনজাইম দিয়ে ভাঙা হয়, তারপর ইস্ট চিনিকে ইথানলে পরিণত করে:
+- স্টার্চ → গ্লুকোজ (ডায়াস্টেজ ও মল্টেজ এনজাইম, পানিসহ): (C₆H₁₀O₅)ₙ + nH₂O → nC₆H₁₂O₆
+- গ্লুকোজ → ইথানল (ইস্টের জাইমেজ এনজাইম): C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂
+
+আখ থেকে চিনি তৈরির পর পড়ে থাকা ঘন উপজাত **চিটাগুড়ও** (molasses) একইভাবে গাঁজানো হয়। বাংলাদেশে চুয়াডাঙ্গার **দর্শনায় কেরু অ্যান্ড কোম্পানি (বাংলাদেশ) লিমিটেড** তাদের চিনিকলের চিটাগুড় থেকে ইথানল তৈরি করে। হিমাগারের অভাবে প্রায়ই পচে যাওয়া উদ্বৃত্ত আলুও গাঁজিয়ে জ্বালানি-ইথানল বানানো যেতে পারে।
+
+**অ্যালডিহাইড**
+- **ফরমালিন** (৪০% মিথান্যাল) গবেষণাগার ও জাদুঘরে জৈব নমুনা সংরক্ষণ করে (খাবারে কখনোই নয়!)।
+- **মিথান্যাল থেকে প্লাস্টিক:** মিথান্যালের ঘন দ্রবণকে অতি নিম্ন চাপে উত্তপ্ত করলে পলিমারকরণে তৈরি হয় **ডেরলিন** (পলিঅক্সিমিথিলিন), একটি শক্ত প্লাস্টিক, যা দিয়ে চেয়ার, ডাইনিং টেবিল, বালতি ও যন্ত্রাংশ তৈরি হয়।
+- মিথান্যাল ও ইউরিয়ার ঘনীভবন পলিমারকরণে তৈরি **ইউরিয়া-ফরমালডিহাইড রেজিন** ছাঁচে ঢেলে প্লেট, কাপ, মগ ও বৈদ্যুতিক ফিটিংস বানানো হয়।
+
+**জৈব এসিড**
+- জৈব এসিড অজৈব (খনিজ) এসিডের চেয়ে **দুর্বল**, আর অনেকগুলো **খাওয়া যায়**: লেবুতে সাইট্রিক এসিড, তেঁতুলে টারটারিক এসিড, দইয়ে ল্যাকটিক এসিড, ভিনেগারে ইথানয়িক এসিড।
+- এরা ব্যাকটেরিয়ার বৃদ্ধি থামায়, তাই **খাদ্য সংরক্ষক** হিসেবে ব্যবহৃত হয়। ভিনেগার (৪–১০% ইথানয়িক এসিড) সস, আচার ও চাটনি সংরক্ষণ করে।
+## analogy
+ইথানল আর মিথানল যেন দেখতে প্রায় একই রকম যমজ, কিন্তু আচরণে একদম আলাদা: একজন (ইথানল) ওষুধ আর পারফিউম কারখানার উপকারী কর্মী; অন্যজন (মিথানল) বোতলে একই রকম দেখালেও পেটে গেলে বিষ। এজন্যই মেথিলেটেড স্পিরিটকে ইচ্ছা করে বিষাক্ত করা ও লেবেল দেওয়া হয়।
+## definition
+**রেকটিফাইড স্পিরিট**: প্রায় ৯৫.৬% ইথানলযুক্ত জলীয় দ্রবণ।
+
+**মেথিলেটেড স্পিরিট**: সামান্য মিথানল মিশিয়ে বিষাক্ত (পানের অযোগ্য) করা রেকটিফাইড স্পিরিট; শিল্পকাজে ব্যবহৃত হয়।
+
+**গাঁজন (fermentation)**: অণুজীবের (ইস্টের) এনজাইমের সাহায্যে স্টার্চ ও চিনির মতো শর্করার ইথানল ও কার্বন ডাই-অক্সাইডের মতো সরল পদার্থে বিয়োজন।
+
+**চিটাগুড় (molasses)**: আখের রস থেকে চিনি কেলাসিত করার পর পড়ে থাকা গাঢ় রঙের ঘন সিরাপ।
+## why
+মিথানল এত বিপজ্জনক অথচ ইথানল অনেক কম বিষাক্ত কেন? শরীরের এনজাইম দুটোকেই জারিত করে, অ্যালকোহল → অ্যালডিহাইড → এসিড সিঁড়ি ধরে। ইথানল হয় ইথান্যাল, তারপর ইথানয়িক এসিড, যা শরীর কাজে লাগাতে পারে। মিথানল হয় মিথান্যাল (ফরমালডিহাইড) ও মিথানয়িক এসিড, যা চোখের স্নায়ু আক্রমণ করে আর রক্তকে অম্লীয় করে তোলে, ফলে অন্ধত্ব ও মৃত্যু ঘটে।
+
+গাঁজন প্রায় ১২–১৫% ইথানলে থেমে যায় কেন? অ্যালকোহল বেশি ঘন হলে যে ইস্ট ইথানল বানাচ্ছে, সে নিজেই মারা যায়। রেকটিফাইড স্পিরিট পেতে গাঁজানো তরলকে পাতন করা হয় (ইথানল ফোটে ৭৮ °C-এ, পানি ১০০ °C-এ)। পাতনে প্রায় ৯৫.৬%-এর বেশি পাওয়া যায় না, কারণ সেখানে ইথানল আর পানি একটি নির্দিষ্ট মিশ্রণ হিসেবে একসাথে ফোটে।
+## terms
+রেকটিফাইড স্পিরিট | প্রায় ৯৫.৬% ইথানল
+মেথিলেটেড স্পিরিট | মিথানল মিশিয়ে বিষাক্ত করা ইথানল; শিল্পকাজে
+গাঁজন | ইস্টের এনজাইম চিনিকে ইথানল ও CO₂-তে পরিণত করে
+চিটাগুড় | চিনি তৈরির উপজাত; ইথানলের কাঁচামাল
+ডেরলিন | মিথান্যাল পলিমারকরণে তৈরি শক্ত প্লাস্টিক
+ইউরিয়া-ফরমালডিহাইড রেজিন | মিথান্যাল ও ইউরিয়ার প্লাস্টিক; প্লেট, কাপ
+সংরক্ষক | যে পদার্থ খাদ্য নষ্ট হওয়া ঠেকায়
+## formula
+$$ (C₆H₁₀O₅)ₙ + nH₂O → nC₆H₁₂O₆ (ডায়াস্টেজ, মল্টেজ)
+$$ C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ (জাইমেজ)
+! Mr: গ্লুকোজ ১৮০, ইথানল ৪৬, CO₂ ৪৪। ১৮০ g গ্লুকোজ থেকে ৯২ g ইথানল + ৮৮ g CO₂।
+## real
+কোভিড-১৯ মহামারির সময় বাংলাদেশের ওষুধ কোম্পানি, এমনকি বিশ্ববিদ্যালয়ের রসায়ন বিভাগও ইথানলভিত্তিক হ্যান্ড স্যানিটাইজার তৈরি করেছিল। প্রতি বছর মিথানলযুক্ত অবৈধ মদ পান করে মানুষ মারা যাওয়ার মর্মান্তিক খবর আসে; ইথানল আর মিথানলের পার্থক্য জানা জীবন বাঁচায়। রান্নাঘরে এক চামচ ভিনেগার আচারকে মাসের পর মাস নিরাপদ রাখে।
+## example
+প্রশ্ন: ৩৬০ g গ্লুকোজ সম্পূর্ণ গাঁজন করলে কত গ্রাম ইথানল পাওয়া যাবে? (C = ১২, H = ১, O = ১৬)
+দেওয়া আছে: গ্লুকোজের ভর = ৩৬০ g; Mr(C₆H₁₂O₆) = ৬ × ১২ + ১২ + ৬ × ১৬ = ১৮০; Mr(C₂H₅OH) = ৪৬
+সূত্র: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂
+হিসাব: গ্লুকোজের মোল = ৩৬০ ÷ ১৮০ = ২ mol → ইথানল = ২ × ২ = ৪ mol = ৪ × ৪৬ = ১৮৪ g
+> ভর যাচাই: ৩৬০ g গ্লুকোজ → ১৮৪ g ইথানল + ৪ × ৪৪ = ১৭৬ g CO₂; ১৮৪ + ১৭৬ = ৩৬০ g।
+উত্তর: ১৮৪ g ইথানল
+## example
+প্রশ্ন: একজন ফার্মাসিস্ট রেকটিফাইড স্পিরিট (৯৫.৬% ইথানল) থেকে ১০০ mL ৭০% (আয়তন অনুযায়ী) ইথানলের হ্যান্ড স্যানিটাইজার বানাতে চান। কতটুকু রেকটিফাইড স্পিরিট লাগবে?
+দেওয়া আছে: চূড়ান্ত আয়তন = ১০০ mL, ৭০%; রেকটিফাইড স্পিরিট = ৯৫.৬%
+সূত্র: স্পিরিটের আয়তন × ৯৫.৬ = ১০০ × ৭০
+হিসাব: স্পিরিটের আয়তন = ১০০ × ৭০ ÷ ৯৫.৬ ≈ ৭৩.২ mL; পানি মিশিয়ে ১০০ mL করতে হবে
+উত্তর: প্রায় ৭৩ mL রেকটিফাইড স্পিরিট, পানি মিশিয়ে ১০০ mL
+## mistakes
+x মেথিলেটেড স্পিরিটের বেশির ভাগই ইথানল, তাই এটি পান করা নিরাপদ।
+v মেথিলেটেড স্পিরিটে মিথানল আছে এবং এটি বিষাক্ত; ইচ্ছা করেই এভাবে বানানো হয়।
+x ফরমালিন মাছ ও ফলের ভালো সংরক্ষক।
+v ফরমালিন শুধু মৃত জৈব নমুনা সংরক্ষণের জন্য; খাবারে এটি ক্ষতিকর ও বেআইনি।
+x রেকটিফাইড স্পিরিট ১০০% ইথানল।
+v রেকটিফাইড স্পিরিট প্রায় ৯৫.৬% ইথানল; সাধারণ পাতনে শেষ পানিটুকু দূর করা যায় না।
+## remember
+- মিথানল: বিষাক্ত; মিথান্যাল, ইথানয়িক এসিড, এস্টার তৈরির কাঁচামাল।
+- ইথানল: দ্রাবক (পারফিউম, প্রসাধনী, ওষুধ), জীবাণুনাশক, জ্বালানি (ব্রাজিল); রেকটিফাইড স্পিরিট ≈ ৯৫.৬%; মেথিলেটেড স্পিরিট = ইথানল + সামান্য মিথানল।
+- গাঁজন: স্টার্চ → গ্লুকোজ → ইথানল + CO₂; চিটাগুড়ও ব্যবহৃত হয় (কেরু অ্যান্ড কোম্পানি, দর্শনা)।
+- অ্যালডিহাইড: ফরমালিন নমুনা সংরক্ষণ করে; ডেরলিন ও ইউরিয়া-ফরমালডিহাইড প্লাস্টিক।
+- জৈব এসিড: খাওয়া যায় (সাইট্রিক, টারটারিক, ল্যাকটিক, ইথানয়িক); ভিনেগার আচার ও সস সংরক্ষণ করে।
+## think
+কোনো কোনো বছর বাংলাদেশে যত আলু সংরক্ষণ করা যায় তার চেয়ে বেশি উৎপাদন হয়। উদ্বৃত্ত আলুকে ইথানল জ্বালানিতে পরিণত করা কি ভালো ধারণা হবে? সুবিধা আর সমস্যাগুলো কী কী?
+## quiz
+? রেকটিফাইড স্পিরিটে থাকে প্রায়:
+- ৪০% ইথানল
+- ৭০% ইথানল
+* ৯৫.৬% ইথানল
+- ১০০% ইথানল
+= রেকটিফাইড স্পিরিট হলো পানিতে প্রায় ৯৫.৬% ইথানল।
+? ইথানলে সামান্য পরিমাণ কী মিশিয়ে মেথিলেটেড স্পিরিট তৈরি করা হয়?
+* মিথানল
+- মিথান্যাল
+- ইথানয়িক এসিড
+- শুধু পানি
+= সামান্য মিথানল স্পিরিটকে বিষাক্ত করে, যাতে কেউ পান না করে।
+? গাঁজনে জাইমেজ এনজাইম গ্লুকোজকে পরিণত করে:
+- স্টার্চ ও পানিতে
+* ইথানল ও কার্বন ডাই-অক্সাইডে
+- ইথানয়িক এসিড ও হাইড্রোজেনে
+- মিথানল ও অক্সিজেনে
+= C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂।
+? তেঁতুলে কোন এসিড থাকে?
+- সাইট্রিক এসিড
+* টারটারিক এসিড
+- ল্যাকটিক এসিড
+- ইথানয়িক এসিড
+= তেঁতুলে টারটারিক এসিড; লেবুতে সাইট্রিক আর দইয়ে ল্যাকটিক এসিড।
+
+@@ 11.7
+@visual k11poly
+@related 11.4 7.3 11.7.4 11.6
+== en
+## what
+A **polymer** is a giant molecule made by joining a very large number of small molecules called **monomers**. In **addition polymerisation** unsaturated monomers simply link up (ethene → polythene, propene → polypropene, vinyl chloride → PVC); in **condensation polymerisation** monomers join while giving off small molecules such as water (nylon 6,6). Polymers are **natural** (starch, cellulose, protein, rubber) or **synthetic** (plastics).
+## simple
+Think of a garland (mala) of flowers: each flower is small, but threaded together, hundreds of them make one long chain. Chemists do the same with molecules. The reaction in which many small molecules join to form one very large molecule is **polymerisation**. Each small unit is a **monomer** ("one part"), and the giant molecule is a **polymer** ("many parts"). Two monomers joined make a **dimer**, three make a **trimer**, and thousands make a polymer. Even the protein in our food is a polymer of **amino acids**.
+
+By the way they form, polymers are of two kinds:
+
+**11.7.1 Addition polymers.** Monomers with a C=C double bond open that bond and join end to end directly. Nothing else is formed, so the polymer has the same atoms as all the monomers put together.
+
+- **Polythene (polyethylene):** ethene heated at about **1000 atm** and **200 °C** with a trace of oxygen: n CH₂=CH₂ → (–CH₂–CH₂–)ₙ. The monomer is ethene; the repeating unit is –CH₂–CH₂–.
+- **Polypropene (polypropylene):** propene heated at about **140 atm** and **120 °C** with a titanium chloride catalyst: n CH₂=CH(CH₃) → [–CH₂–CH(CH₃)–]ₙ. It is stronger and lighter than polythene and can stand higher temperatures: ropes, pipes, carpets, bottles, plastic chairs.
+- **PVC (polyvinyl chloride):** vinyl chloride (chloroethene) heated at high pressure and temperature with an organic peroxide: n CH₂=CHCl → (–CH₂–CHCl–)ₙ. Hard and rigid: water pipes, electric wire insulation, even medical tubing and blood bags.
+
+**11.7.2 Condensation polymers.** Here each monomer has **two reactive groups**, one at each end. When two monomers join, a small molecule such as **water** is released at every link.
+
+- **Nylon 6,6:** adipic acid (hexanedioic acid, 6 carbons, a –COOH at each end) is heated with hexamethylenediamine (hexane-1,6-diamine, 6 carbons, an –NH₂ at each end). Each –COOH joins an –NH₂ to form an amide link –CO–NH– and a water molecule: n HOOC–(CH₂)₄–COOH + n H₂N–(CH₂)₆–NH₂ → [–OC–(CH₂)₄–CO–NH–(CH₂)₆–NH–]ₙ + 2n H₂O The "6,6" means both monomers have 6 carbon atoms. Nylon is shiny, strong and flexible: fabrics, ropes, fishing nets, toothbrush bristles.
+
+**Natural and synthetic polymers.**
+- **Natural polymers** are made by living things: **starch** and **cellulose** in plants (both made from many glucose units), **proteins** (from amino acids), and **natural rubber**, the milky latex (কষ) of the rubber tree. In Bangladesh, rubber is grown in the Chattogram Hill Tracts, Cox's Bazar, Habiganj, Sylhet and Tangail.
+- **Synthetic polymers** are made in factories, mostly from petroleum. These are the **plastics**. Today many times more plastic is made than natural rubber.
+
+Polymers at a glance (Table 11.03):
+- **Polythene**, monomer CH₂=CH₂: tough, not easily cut; plastic bags and sheets
+- **Polypropene**, monomer CH₂=CH–CH₃: tough, heat-resistant; ropes, bottles
+- **PVC**, monomer CH₂=CHCl: hard, less flexible than polythene; water pipes, electrical insulation
+- **Nylon 6,6**, monomers HOOC–(CH₂)₄–COOH and H₂N–(CH₂)₆–NH₂: shiny, durable, flexible; clothing, rope, toothbrushes
+
+**Plastics.** Plastics are strong, light, cheap and can be coloured in any shade. Many soften on heating and can be **moulded** into any shape; the word comes from the Greek *plastikos*, "able to be moulded". Some people melt waste plastic at home or in small workshops to make new things. This is **dangerous**: burning or melting plastic gives off **toxic gases** (burning PVC, for example, releases hydrogen chloride and other poisons).
+
+**11.7.3 Advantages and disadvantages of plastic.**
+
+*Advantages:* Plates, pipes, containers, bags, bottles, buckets, chairs, pens, car parts and water tanks are made of plastic. Earlier these were made from metal, wood, cotton, jute or silk. Plastic is lighter and thinner, does not rust or rot, resists water and chemicals, is a good electrical insulator, and can be shaped and coloured as we like.
+
+*Disadvantages:* The biggest problem is the **environment**. Food scraps, paper and leaves dumped in soil or water are broken down by bacteria and oxygen, so nature stays in balance. Plastic is **not biodegradable**: bacteria cannot digest it and it hardly reacts, so it stays for hundreds of years. Plastic bags block drains and cause waterlogging in cities; they choke rivers like the Buriganga and harm fish, birds and cattle that swallow them; tiny broken pieces (**microplastics**) enter the food chain. Burning plastic pollutes the air.
+
+*Our responsibilities:*
+- **Reduce**: carry a jute or cloth bag; avoid single-use plastic.
+- **Reuse** containers and bottles.
+- **Recycle**: separate plastic waste instead of dumping it anywhere.
+- Use more wood, metal and natural fibres such as **jute**.
+- Support **biodegradable plastics**. Scientists have already succeeded in many cases; in Bangladesh, a biodegradable bag made from jute cellulose (the "Sonali bag") has been developed.
+
+Bangladesh banned thin polythene shopping bags in **2002**, one of the first countries in the world to do so, after plastic bags were found clogging drains during floods.
+## analogy
+Addition polymerisation is like a human chain where everyone simply holds hands: nobody leaves the line. Condensation polymerisation is like a chain where each pair must drop a handkerchief on the ground before they can hold hands: a little something (water) is left behind at every link.
+## definition
+**Polymerisation**: a reaction in which a large number of small molecules (monomers) join together to form one very large molecule (a polymer).
+
+**Monomer**: the small molecule that takes part in polymerisation. **Polymer**: the large molecule formed.
+
+**Addition polymerisation**: polymerisation in which unsaturated monomer molecules join directly to each other without losing any atoms, forming a long chain; the product is an **addition polymer**.
+
+**Condensation polymerisation**: polymerisation in which monomers join while releasing small molecules such as H₂O at each link; the product is a **condensation polymer**.
+
+**Plastic**: a synthetic polymer that can be moulded into shape.
+## why
+Why can ethene form a polymer but ethane cannot? Polymerisation of ethene is really a chain of addition reactions: the weaker bond of each C=C opens, and each carbon uses its newly free bond to hold the next monomer. Ethane has no double bond to open, so its molecules have nothing to link with.
+
+Why does plastic last so long in nature? Bacteria digest natural polymers using enzymes that fit the particular links in starch, cellulose or protein. The long –CH₂–CH₂– chain of polythene contains only strong, non-polar C–C and C–H bonds, which no common microbe has an enzyme to break. So the plastic only crumbles into smaller and smaller pieces instead of disappearing.
+## terms
+Polymer | Giant molecule of many repeating units
+Monomer | The small unit molecule (e.g. ethene)
+Repeating unit | The part in brackets, repeated n times
+Addition polymer | Formed by direct joining of unsaturated monomers
+Condensation polymer | Formed with loss of small molecules (H₂O)
+Natural polymer | Starch, cellulose, protein, rubber
+Synthetic polymer (plastic) | Man-made polymer, e.g. polythene, PVC, nylon
+Biodegradable | Can be broken down by microorganisms
+## formula
+$$ n CH₂=CH₂ → (–CH₂–CH₂–)ₙ
+$$ n CH₂=CHCl → (–CH₂–CHCl–)ₙ
+$$ Mr(polymer) = n × Mr(repeating unit)
+n | number of repeating units (degree of polymerisation) | —
+! Repeating unit masses: polythene 28, polypropene 42, PVC 62.5 (C = 12, H = 1, Cl = 35.5).
+## visual
+Choose a monomer and press "Join" to watch the monomers open their double bonds and link into a chain. Change n to see the molar mass of the polymer grow. For nylon 6,6, notice a water molecule leaving at every link.
+## real
+Look around a Bangladeshi home: PVC water pipes, a polypropene plastic chair, a nylon mosquito net, polythene packets, a melamine-type plate. Now look at a canal in Dhaka after rain, blocked with plastic bags and bottles. Both pictures are this lesson. The jute bag your family carries to the bazar is a natural-polymer (cellulose) solution to a synthetic-polymer problem.
+## example
+Q: A sample of polythene has an average of 2000 repeating units per chain. Find its relative molecular mass. (C = 12, H = 1)
+Given: n = 2000; repeating unit –CH₂–CH₂– = C₂H₄
+Formula: Mr(polymer) = n × Mr(repeating unit)
+Substitution: Mr(C₂H₄) = 2 × 12 + 4 × 1 = 28
+Calculation: Mr = 2000 × 28 = 56 000
+Answer: 56 000
+## example
+Q: A PVC chain has relative molecular mass 125 000. How many vinyl chloride units does it contain? (C = 12, H = 1, Cl = 35.5)
+Given: Mr(polymer) = 125 000; repeating unit C₂H₃Cl
+Formula: n = Mr(polymer) ÷ Mr(repeating unit)
+Substitution: Mr(C₂H₃Cl) = 24 + 3 + 35.5 = 62.5
+Calculation: n = 125 000 ÷ 62.5 = 2000
+Answer: 2000 vinyl chloride units
+## example
+Q: Is polythene formation an addition or a condensation polymerisation? Is nylon 6,6? Explain.
+Solution: Polythene: ethene molecules only open their double bonds and join; no other product forms, so it is **addition**. Nylon 6,6: each –COOH reacts with an –NH₂ to form –CO–NH– and releases H₂O, so it is **condensation**.
+Answer: Polythene: addition polymer. Nylon 6,6: condensation polymer (water is released).
+## mistakes
+x All polymers are plastics made in factories.
+v Starch, cellulose, proteins and natural rubber are natural polymers made by living things.
+x In addition polymerisation water is given off.
+v In addition polymerisation nothing is given off; water (or another small molecule) is released only in condensation polymerisation.
+x Burning waste plastic is a clean way to get rid of it.
+v Burning plastic releases toxic gases; plastic should be reduced, reused and recycled.
+x The monomer of polythene is ethane.
+v The monomer is ethene (CH₂=CH₂); it needs a double bond to polymerise.
+## remember
+- Polymer = many monomers joined; protein, starch, cellulose, rubber are natural polymers.
+- Addition: polythene (ethene, 1000 atm, 200 °C, trace O₂), polypropene (propene, TiCl₄ catalyst), PVC (vinyl chloride, peroxide).
+- Condensation: nylon 6,6 from adipic acid + hexamethylenediamine, releasing water.
+- Plastic: light, strong, cheap, mouldable, but non-biodegradable and polluting.
+- Reduce, reuse, recycle; use jute; Bangladesh banned thin polythene bags in 2002.
+## think
+If you had to design a "perfect" plastic bag for Bangladesh, what properties would it need, and what would you make it from?
+## quiz
+? The monomer of PVC is:
+- Ethene
+- Propene
+* Vinyl chloride (CH₂=CHCl)
+- Adipic acid
+= PVC is polyvinyl chloride: n CH₂=CHCl → (–CH₂–CHCl–)ₙ.
+? Which is a condensation polymer?
+- Polythene
+- Polypropene
+- PVC
+* Nylon 6,6
+= Nylon 6,6 forms with loss of water at each amide link.
+? Which of these is a natural polymer?
+- Nylon
+* Cellulose
+- PVC
+- Polythene
+= Cellulose is made by plants from many glucose units.
+? The main environmental problem of plastic is that it:
+- Is too expensive
+- Dissolves in water
+* Is not broken down by bacteria
+- Conducts electricity
+= Plastic is non-biodegradable, so it stays in soil and water for a very long time.
+== bn
+## what
+অনেক বেশি সংখ্যক ছোট অণু (**মনোমার**) যুক্ত হয়ে যে বিশাল অণু তৈরি করে, তাকে **পলিমার** বলে। **সংযোজন পলিমারকরণে** অসম্পৃক্ত মনোমারগুলো সরাসরি জুড়ে যায় (ইথিন → পলিথিন, প্রোপিন → পলিপ্রোপিন, ভিনাইল ক্লোরাইড → পিভিসি); **ঘনীভবন পলিমারকরণে** মনোমার জোড়া লাগার সময় পানির মতো ছোট অণু বের হয় (নাইলন ৬,৬)। পলিমার হয় **প্রাকৃতিক** (স্টার্চ, সেলুলোজ, প্রোটিন, রাবার) বা **কৃত্রিম** (প্লাস্টিক)।
+## simple
+ফুলের মালার কথা ভাবো: প্রতিটি ফুল ছোট, কিন্তু সুতায় গাঁথলে শত শত ফুল মিলে একটি লম্বা শিকল হয়। রসায়নবিদেরা অণু নিয়ে একই কাজ করেন। যে বিক্রিয়ায় অনেকগুলো ছোট অণু জুড়ে একটি বিশাল অণু তৈরি হয়, তাকে বলে **পলিমারকরণ**। প্রতিটি ছোট একক **মনোমার** ("এক অংশ"), আর বিশাল অণুটি **পলিমার** ("বহু অংশ")। দুটি মনোমার জুড়লে **ডাইমার**, তিনটি জুড়লে **ট্রাইমার**, আর হাজার হাজার জুড়লে পলিমার। আমাদের খাদ্যের প্রোটিনও **অ্যামাইনো এসিডের** একটি পলিমার।
+
+গঠন প্রকৃতি অনুযায়ী পলিমার দুই প্রকার:
+
+**১১.৭.১ সংযোজন বা যুত পলিমার।** C=C দ্বিবন্ধনযুক্ত মনোমারগুলো সেই বন্ধন খুলে সরাসরি একটির পর একটি জুড়ে যায়। আর কিছুই তৈরি হয় না, তাই পলিমারে ঠিক ততগুলো পরমাণুই থাকে যতগুলো সব মনোমারে মিলে ছিল।
+
+- **পলিথিন (পলিইথিলিন):** সামান্য অক্সিজেনের উপস্থিতিতে প্রায় **১০০০ atm** চাপে ও **২০০ °C** তাপমাত্রায় ইথিনকে উত্তপ্ত করে: n CH₂=CH₂ → (–CH₂–CH₂–)ₙ। মনোমার ইথিন; পুনরাবৃত্ত একক –CH₂–CH₂–।
+- **পলিপ্রোপিন (পলিপ্রোপিলিন):** টাইটানিয়াম ক্লোরাইড প্রভাবকের উপস্থিতিতে প্রায় **১৪০ atm** চাপে ও **১২০ °C** তাপমাত্রায় প্রোপিনকে উত্তপ্ত করে: n CH₂=CH(CH₃) → [–CH₂–CH(CH₃)–]ₙ। এটি পলিথিনের চেয়ে মজবুত ও হালকা এবং বেশি তাপ সইতে পারে: দড়ি, পাইপ, কার্পেট, বোতল, প্লাস্টিকের চেয়ার।
+- **পিভিসি (পলিভিনাইল ক্লোরাইড):** জৈব পার-অক্সাইডের উপস্থিতিতে উচ্চ চাপ ও তাপমাত্রায় ভিনাইল ক্লোরাইডকে (ক্লোরোইথিন) উত্তপ্ত করে: n CH₂=CHCl → (–CH₂–CHCl–)ₙ। শক্ত ও অনমনীয়: পানির পাইপ, বিদ্যুতের তারের আবরণ, এমনকি চিকিৎসার টিউব ও রক্তের ব্যাগ।
+
+**১১.৭.২ ঘনীভবন পলিমার।** এখানে প্রতিটি মনোমারের দুই প্রান্তে **দুটি সক্রিয় মূলক** থাকে। দুটি মনোমার জোড়া লাগার সময় প্রতিটি সংযোগে **পানির** মতো একটি ছোট অণু বের হয়।
+
+- **নাইলন ৬,৬:** অ্যাডিপিক এসিড (হেক্সেনডাইঅয়িক এসিড, ৬টি কার্বন, দুই প্রান্তে –COOH) কে হেক্সামিথিলিন ডাইঅ্যামিনের (হেক্সেন-১,৬-ডাইঅ্যামিন, ৬টি কার্বন, দুই প্রান্তে –NH₂) সাথে উত্তপ্ত করা হয়। প্রতিটি –COOH একটি –NH₂-এর সাথে যুক্ত হয়ে অ্যামাইড সংযোগ –CO–NH– আর একটি পানির অণু তৈরি করে: n HOOC–(CH₂)₄–COOH + n H₂N–(CH₂)₆–NH₂ → [–OC–(CH₂)₄–CO–NH–(CH₂)₆–NH–]ₙ + 2n H₂O "৬,৬" মানে দুটি মনোমারেই ৬টি করে কার্বন। নাইলন চকচকে, মজবুত ও নমনীয়: কাপড়, দড়ি, মাছ ধরার জাল, টুথব্রাশের শলা।
+
+**প্রাকৃতিক ও কৃত্রিম পলিমার।**
+- **প্রাকৃতিক পলিমার** তৈরি করে জীব: উদ্ভিদের **স্টার্চ** ও **সেলুলোজ** (দুটোই বহু গ্লুকোজ একক দিয়ে তৈরি), **প্রোটিন** (অ্যামাইনো এসিড থেকে), আর রাবার গাছের দুধের মতো কষ বা **প্রাকৃতিক রাবার**। বাংলাদেশে পার্বত্য চট্টগ্রাম, কক্সবাজার, হবিগঞ্জ, সিলেট ও টাঙ্গাইলে রাবার চাষ হয়।
+- **কৃত্রিম পলিমার** তৈরি হয় কারখানায়, বেশির ভাগই পেট্রোলিয়াম থেকে। এগুলোই **প্লাস্টিক**। এখন প্রাকৃতিক রাবারের চেয়ে বহুগুণ বেশি প্লাস্টিক তৈরি হয়।
+
+এক নজরে পলিমার (টেবিল ১১.০৩):
+- **পলিথিন**, মনোমার CH₂=CH₂: সহজে কাটা যায় না, টেকসই; প্লাস্টিক ব্যাগ ও শিট
+- **পলিপ্রোপিন**, মনোমার CH₂=CH–CH₃: টেকসই, তাপসহ; প্লাস্টিকের দড়ি, বোতল
+- **পিভিসি**, মনোমার CH₂=CHCl: শক্ত, পলিথিনের চেয়ে কম নমনীয়; পানির পাইপ, বৈদ্যুতিক অন্তরক
+- **নাইলন ৬,৬**, মনোমার HOOC–(CH₂)₄–COOH ও H₂N–(CH₂)₆–NH₂: চকচকে, টেকসই, নমনীয়; কৃত্রিম কাপড়, দড়ি, টুথব্রাশ
+
+**প্লাস্টিক।** প্লাস্টিক শক্ত, হালকা, সস্তা এবং যেকোনো রঙে পাওয়া যায়। অনেক প্লাস্টিক তাপে নরম হয়, ছাঁচে ঢেলে যেকোনো আকার দেওয়া যায়; শব্দটি এসেছে গ্রিক *প্লাস্টিকোস* থেকে, অর্থ "ছাঁচে গড়া যায় এমন"। অনেকে বাড়িতে বা ছোট কারখানায় পরিত্যক্ত প্লাস্টিক গলিয়ে নতুন জিনিস বানায়। এটি **বিপজ্জনক**: প্লাস্টিক পোড়ালে বা গলালে **বিষাক্ত গ্যাস** বের হয় (যেমন পিভিসি পোড়ালে হাইড্রোজেন ক্লোরাইডসহ নানা বিষাক্ত পদার্থ বের হয়)।
+
+**১১.৭.৩ প্লাস্টিক ব্যবহারের সুবিধা ও অসুবিধা।**
+
+*সুবিধা:* থালাবাসন, পাইপ, পাত্র, ব্যাগ, বোতল, বালতি, চেয়ার, কলম, গাড়ির যন্ত্রাংশ, পানির ট্যাংক প্লাস্টিকে তৈরি। আগে এগুলো বানানো হতো ধাতু, কাঠ, তুলা, পাট বা রেশম দিয়ে। প্লাস্টিক হালকা ও পাতলা, মরিচা ধরে না বা পচে না, পানি ও রাসায়নিক সহ্য করে, ভালো বিদ্যুৎ অপরিবাহী, আর ইচ্ছেমতো আকার ও রং দেওয়া যায়।
+
+*অসুবিধা:* সবচেয়ে বড় সমস্যা **পরিবেশ**। মাটি বা পানিতে ফেলা খাবারের উচ্ছিষ্ট, কাগজ, পাতা ব্যাকটেরিয়া ও অক্সিজেনের সাহায্যে ক্ষয় হয়, ফলে প্রকৃতির ভারসাম্য বজায় থাকে। প্লাস্টিক **জৈব-বিয়োজনযোগ্য নয়**: ব্যাকটেরিয়া একে হজম করতে পারে না, আর এটি প্রায় বিক্রিয়াই করে না, তাই শত শত বছর থেকে যায়। প্লাস্টিক ব্যাগ ড্রেন আটকে শহরে জলাবদ্ধতা তৈরি করে; বুড়িগঙ্গার মতো নদীকে দম বন্ধ করে দেয়; গিলে ফেলা মাছ, পাখি ও গরুর ক্ষতি করে; ভেঙে যাওয়া ক্ষুদ্র টুকরা (**মাইক্রোপ্লাস্টিক**) খাদ্যশৃঙ্খলে ঢোকে। প্লাস্টিক পোড়ালে বায়ু দূষিত হয়।
+
+*আমাদের করণীয়:*
+- **কম ব্যবহার**: পাট বা কাপড়ের ব্যাগ নিয়ে বাজারে যাও; একবার ব্যবহারের প্লাস্টিক এড়িয়ে চলো।
+- **পুনর্ব্যবহার**: পাত্র ও বোতল আবার ব্যবহার করো।
+- **পুনঃপ্রক্রিয়াজাত (রিসাইকেল)**: যেখানে-সেখানে না ফেলে প্লাস্টিক বর্জ্য আলাদা করে রাখো।
+- কাঠ, ধাতু আর **পাটের** মতো প্রাকৃতিক তন্তুর ব্যবহার বাড়াও।
+- **পচনশীল প্লাস্টিককে** সমর্থন করো। বিজ্ঞানীরা অনেক ক্ষেত্রে সফল হয়েছেন; বাংলাদেশে পাটের সেলুলোজ থেকে পচনশীল ব্যাগ ("সোনালী ব্যাগ") উদ্ভাবিত হয়েছে।
+
+বন্যার সময় ড্রেন আটকে থাকার জন্য পলিথিন ব্যাগকে দায়ী পাওয়ার পর **২০০২ সালে** বাংলাদেশ পাতলা পলিথিন শপিং ব্যাগ নিষিদ্ধ করে; পৃথিবীতে প্রথম দিকে এমন উদ্যোগ নেওয়া দেশগুলোর একটি বাংলাদেশ।
+## analogy
+সংযোজন পলিমারকরণ যেন মানববন্ধন, যেখানে সবাই শুধু হাত ধরে: লাইন থেকে কেউ বেরিয়ে যায় না। ঘনীভবন পলিমারকরণ যেন এমন মানববন্ধন, যেখানে হাত ধরার আগে প্রতিটি জোড়াকে একটি রুমাল মাটিতে ফেলে দিতে হয়: প্রতিটি সংযোগে ছোট্ট কিছু (পানি) পড়ে থাকে।
+## definition
+**পলিমারকরণ**: যে বিক্রিয়ায় অনেকগুলো ছোট অণু (মনোমার) পরস্পর যুক্ত হয়ে একটি বৃহৎ অণু (পলিমার) গঠন করে।
+
+**মনোমার**: পলিমারকরণ বিক্রিয়ায় অংশ নেওয়া ছোট অণু। **পলিমার**: বিক্রিয়ায় গঠিত বৃহৎ অণু।
+
+**সংযোজন পলিমারকরণ**: যে পলিমারকরণে অসম্পৃক্ত মনোমার অণুগুলো কোনো পরমাণু না হারিয়ে সরাসরি একে অপরের সাথে যুক্ত হয়ে দীর্ঘ শিকল গঠন করে; উৎপাদকে বলে **সংযোজন পলিমার**।
+
+**ঘনীভবন পলিমারকরণ**: যে পলিমারকরণে মনোমারগুলো যুক্ত হওয়ার সময় প্রতিটি সংযোগে H₂O-এর মতো ছোট অণু অপসারিত হয়; উৎপাদকে বলে **ঘনীভবন পলিমার**।
+
+**প্লাস্টিক**: ছাঁচে ঢেলে আকার দেওয়া যায় এমন কৃত্রিম পলিমার।
+## why
+ইথিন পলিমার গঠন করতে পারে, কিন্তু ইথেন পারে না কেন? ইথিনের পলিমারকরণ আসলে একের পর এক সংযোজন বিক্রিয়ার শিকল: প্রতিটি C=C-এর দুর্বল বন্ধনটি খুলে যায়, আর প্রতিটি কার্বন সদ্য মুক্ত বন্ধন দিয়ে পরের মনোমারকে ধরে। ইথেনে খোলার মতো কোনো দ্বিবন্ধন নেই, তাই এর অণুগুলোর জোড়া লাগার উপায় নেই।
+
+প্রকৃতিতে প্লাস্টিক এত দিন টিকে থাকে কেন? ব্যাকটেরিয়া প্রাকৃতিক পলিমার হজম করে এমন এনজাইম দিয়ে, যা স্টার্চ, সেলুলোজ বা প্রোটিনের নির্দিষ্ট সংযোগে খাপ খায়। পলিথিনের লম্বা –CH₂–CH₂– শিকলে আছে শুধু শক্তিশালী, অপোলার C–C ও C–H বন্ধন, যা ভাঙার এনজাইম সাধারণ কোনো অণুজীবের নেই। তাই প্লাস্টিক মিলিয়ে না গিয়ে শুধু ছোট থেকে আরও ছোট টুকরায় ভাঙে।
+## terms
+পলিমার | বহু পুনরাবৃত্ত একক দিয়ে গঠিত বিশাল অণু
+মনোমার | ছোট একক অণু (যেমন ইথিন)
+পুনরাবৃত্ত একক | বন্ধনীর ভেতরের অংশ, যা n বার পুনরাবৃত্ত হয়
+সংযোজন পলিমার | অসম্পৃক্ত মনোমারের সরাসরি যুক্ত হয়ে গঠিত
+ঘনীভবন পলিমার | ছোট অণু (H₂O) হারিয়ে গঠিত
+প্রাকৃতিক পলিমার | স্টার্চ, সেলুলোজ, প্রোটিন, রাবার
+কৃত্রিম পলিমার (প্লাস্টিক) | মানুষের তৈরি পলিমার, যেমন পলিথিন, পিভিসি, নাইলন
+জৈব-বিয়োজনযোগ্য (পচনশীল) | অণুজীব দিয়ে ভেঙে যেতে পারে
+## formula
+$$ n CH₂=CH₂ → (–CH₂–CH₂–)ₙ
+$$ n CH₂=CHCl → (–CH₂–CHCl–)ₙ
+$$ Mr(পলিমার) = n × Mr(পুনরাবৃত্ত একক)
+n | পুনরাবৃত্ত এককের সংখ্যা (পলিমারকরণ মাত্রা) | —
+! পুনরাবৃত্ত এককের ভর: পলিথিন ২৮, পলিপ্রোপিন ৪২, পিভিসি ৬২.৫ (C = ১২, H = ১, Cl = ৩৫.৫)।
+## visual
+একটি মনোমার বেছে নিয়ে "জোড়া লাগাও" চাপো, আর দেখো মনোমারগুলো দ্বিবন্ধন খুলে কীভাবে শিকলে যুক্ত হয়। n বদলে দেখো পলিমারের মোলার ভর কীভাবে বাড়ে। নাইলন ৬,৬-এ লক্ষ করো, প্রতিটি সংযোগে একটি করে পানির অণু বেরিয়ে যাচ্ছে।
+## real
+বাংলাদেশের একটি বাড়ির চারপাশে তাকাও: পিভিসির পানির পাইপ, পলিপ্রোপিনের প্লাস্টিক চেয়ার, নাইলনের মশারি, পলিথিনের প্যাকেট, মেলামাইন-জাতীয় প্লেট। এবার বৃষ্টির পর ঢাকার একটি খালের দিকে তাকাও, প্লাস্টিক ব্যাগ আর বোতলে আটকে আছে। দুটি ছবিই এই পাঠের। তোমার পরিবার বাজারে যে পাটের ব্যাগ নিয়ে যায়, সেটি কৃত্রিম পলিমারের সমস্যার প্রাকৃতিক পলিমার (সেলুলোজ) দিয়ে সমাধান।
+## example
+প্রশ্ন: একটি পলিথিন নমুনার প্রতিটি শিকলে গড়ে ২০০০টি পুনরাবৃত্ত একক আছে। এর আপেক্ষিক আণবিক ভর বের করো। (C = ১২, H = ১)
+দেওয়া আছে: n = ২০০০; পুনরাবৃত্ত একক –CH₂–CH₂– = C₂H₄
+সূত্র: Mr(পলিমার) = n × Mr(পুনরাবৃত্ত একক)
+মান বসাই: Mr(C₂H₄) = ২ × ১২ + ৪ × ১ = ২৮
+হিসাব: Mr = ২০০০ × ২৮ = ৫৬ ০০০
+উত্তর: ৫৬ ০০০
+## example
+প্রশ্ন: একটি পিভিসি শিকলের আপেক্ষিক আণবিক ভর ১২৫ ০০০। এতে কতটি ভিনাইল ক্লোরাইড একক আছে? (C = ১২, H = ১, Cl = ৩৫.৫)
+দেওয়া আছে: Mr(পলিমার) = ১২৫ ০০০; পুনরাবৃত্ত একক C₂H₃Cl
+সূত্র: n = Mr(পলিমার) ÷ Mr(পুনরাবৃত্ত একক)
+মান বসাই: Mr(C₂H₃Cl) = ২৪ + ৩ + ৩৫.৫ = ৬২.৫
+হিসাব: n = ১২৫ ০০০ ÷ ৬২.৫ = ২০০০
+উত্তর: ২০০০টি ভিনাইল ক্লোরাইড একক
+## example
+প্রশ্ন: পলিথিন তৈরি সংযোজন না ঘনীভবন পলিমারকরণ? নাইলন ৬,৬? ব্যাখ্যা করো।
+সমাধান: পলিথিন: ইথিন অণুগুলো শুধু দ্বিবন্ধন খুলে জুড়ে যায়; অন্য কোনো উৎপাদ তৈরি হয় না, তাই এটি **সংযোজন**। নাইলন ৬,৬: প্রতিটি –COOH একটি –NH₂-এর সাথে বিক্রিয়া করে –CO–NH– গঠন করে আর H₂O বের হয়, তাই এটি **ঘনীভবন**।
+উত্তর: পলিথিন: সংযোজন পলিমার। নাইলন ৬,৬: ঘনীভবন পলিমার (পানি বের হয়)।
+## mistakes
+x সব পলিমারই কারখানায় তৈরি প্লাস্টিক।
+v স্টার্চ, সেলুলোজ, প্রোটিন ও প্রাকৃতিক রাবার জীবদেহে তৈরি প্রাকৃতিক পলিমার।
+x সংযোজন পলিমারকরণে পানি বের হয়।
+v সংযোজন পলিমারকরণে কিছুই বের হয় না; পানি (বা অন্য ছোট অণু) বের হয় শুধু ঘনীভবন পলিমারকরণে।
+x পরিত্যক্ত প্লাস্টিক পুড়িয়ে ফেলা পরিচ্ছন্ন সমাধান।
+v প্লাস্টিক পোড়ালে বিষাক্ত গ্যাস বের হয়; প্লাস্টিক কম ব্যবহার, পুনর্ব্যবহার ও রিসাইকেল করা উচিত।
+x পলিথিনের মনোমার ইথেন।
+v মনোমার ইথিন (CH₂=CH₂); পলিমারকরণের জন্য দ্বিবন্ধন লাগে।
+## remember
+- পলিমার = অনেক মনোমার যুক্ত হয়ে তৈরি; প্রোটিন, স্টার্চ, সেলুলোজ, রাবার প্রাকৃতিক পলিমার।
+- সংযোজন: পলিথিন (ইথিন, ১০০০ atm, ২০০ °C, সামান্য O₂), পলিপ্রোপিন (প্রোপিন, টাইটানিয়াম ক্লোরাইড প্রভাবক), পিভিসি (ভিনাইল ক্লোরাইড, পার-অক্সাইড)।
+- ঘনীভবন: অ্যাডিপিক এসিড + হেক্সামিথিলিন ডাইঅ্যামিন থেকে নাইলন ৬,৬, পানি বের হয়।
+- প্লাস্টিক: হালকা, মজবুত, সস্তা, ছাঁচে গড়া যায়, কিন্তু অপচনশীল ও দূষণকারী।
+- কম ব্যবহার, পুনর্ব্যবহার, রিসাইকেল; পাট ব্যবহার; ২০০২ সালে বাংলাদেশ পাতলা পলিথিন ব্যাগ নিষিদ্ধ করে।
+## think
+তোমাকে যদি বাংলাদেশের জন্য একটি "আদর্শ" প্লাস্টিক ব্যাগ নকশা করতে হয়, তার কী কী ধর্ম থাকা দরকার, আর তুমি সেটা কী দিয়ে বানাবে?
+## quiz
+? পিভিসির মনোমার:
+- ইথিন
+- প্রোপিন
+* ভিনাইল ক্লোরাইড (CH₂=CHCl)
+- অ্যাডিপিক এসিড
+= পিভিসি হলো পলিভিনাইল ক্লোরাইড: n CH₂=CHCl → (–CH₂–CHCl–)ₙ।
+? কোনটি ঘনীভবন পলিমার?
+- পলিথিন
+- পলিপ্রোপিন
+- পিভিসি
+* নাইলন ৬,৬
+= নাইলন ৬,৬ তৈরির সময় প্রতিটি অ্যামাইড সংযোগে পানি বের হয়।
+? নিচের কোনটি প্রাকৃতিক পলিমার?
+- নাইলন
+* সেলুলোজ
+- পিভিসি
+- পলিথিন
+= সেলুলোজ উদ্ভিদ বহু গ্লুকোজ একক দিয়ে তৈরি করে।
+? প্লাস্টিকের প্রধান পরিবেশগত সমস্যা হলো এটি:
+- খুব দামি
+- পানিতে দ্রবীভূত হয়
+* ব্যাকটেরিয়া দিয়ে ভাঙে না
+- বিদ্যুৎ পরিবহন করে
+= প্লাস্টিক জৈব-বিয়োজনযোগ্য নয়, তাই মাটি ও পানিতে বহু দিন থেকে যায়।
+
+@@ 11.7.4
+@related 5.12 11.2 5.10 5.11
+== en
+## what
+**Organic compounds** are compounds of carbon (usually with hydrogen, often with O, N, halogens), generally held together by **covalent bonds**. **Inorganic compounds** are the rest; with a few exceptions they contain no carbon, and they may be ionic or covalent. The two groups differ in melting point, solubility, flammability and speed of reaction.
+## simple
+Every compound in this chapter, from methane to nylon, is an **organic compound**. Long ago, people believed that organic compounds could only be made inside living things by a mysterious "vital force". In **1828** the German chemist **Friedrich Wöhler** made urea, a compound found in urine, by heating an inorganic salt (ammonium cyanate) in the laboratory. That showed organic compounds obey the same chemical laws as all others. Today "organic chemistry" simply means **the chemistry of carbon compounds**.
+
+A few simple carbon compounds are still counted as **inorganic**: carbon monoxide (CO), carbon dioxide (CO₂), carbonates (CaCO₃), hydrogen carbonates (NaHCO₃), cyanides and carbides (CaC₂).
+
+**How they differ:**
+- **Carbon:** organic compounds must contain carbon (e.g. methane CH₄); apart from a few exceptions, inorganic compounds do not (e.g. hydrogen sulfide H₂S, sodium chloride NaCl).
+- **Bonding:** organic compounds are generally **covalent** (atoms share electrons); inorganic compounds are often **ionic** (NaCl, CaO) but can also be covalent (H₂O, H₂S, NH₃).
+- **Melting and boiling points:** organic compounds usually have **low** ones, because only weak forces hold their molecules together (naphthalene melts at 80 °C). Ionic inorganic compounds have **high** ones (NaCl melts at 801 °C).
+- **Solubility:** many organic compounds are insoluble in water but dissolve in organic solvents such as kerosene, alcohol or benzene; many inorganic salts dissolve in water.
+- **Burning:** most organic compounds **burn** (paper, sugar, kerosene, plastic), often leaving black carbon; most inorganic compounds do not burn.
+- **Electrical conductivity:** organic compounds usually do not conduct electricity even when molten or dissolved; ionic inorganic compounds conduct when molten or in solution.
+- **Speed of reaction:** organic reactions involve breaking covalent bonds, so they are usually **slow** and often need heat or a catalyst; reactions between ions in inorganic solutions are usually **fast** (e.g. AgNO₃ + NaCl gives a white precipitate instantly).
+- **Number and isomerism:** there are millions of organic compounds, and many share the same molecular formula (isomers), because carbon forms chains and rings; inorganic compounds are far fewer.
+
+**Activity: sugar vs salt.** Put a little sugar and a little common salt in two separate old spoons and heat each gently over a spirit lamp (with your teacher's permission). Sugar melts, turns brown and then black (charring: carbon is left): it is organic. Salt does not melt or change at all at that temperature: it is inorganic.
+## analogy
+Organic compounds are like a big family of Lego models built mostly from the same few bricks (C and H) joined by snap-together links (covalent bonds): millions of shapes, easy to pull apart with heat. Inorganic ionic compounds are more like a stack of magnets packed tightly together: fewer kinds, but very hard to pull apart, so they melt only at high temperatures.
+## definition
+**Organic compound**: a compound of carbon, usually containing hydrogen and often oxygen, nitrogen or halogens, in which the atoms are mostly joined by covalent bonds (hydrocarbons and their derivatives). CO, CO₂, carbonates, hydrogen carbonates, cyanides and carbides are exceptions treated as inorganic.
+
+**Inorganic compound**: a compound that is not organic; generally without carbon (with the exceptions above), formed by ionic or covalent bonding.
+## why
+Why do organic compounds melt so easily? Inside each molecule, the atoms are joined by strong covalent bonds, but the molecules themselves are held to one another only by weak intermolecular forces. Melting or boiling only needs to separate molecules, not break bonds, so little heat is needed. In an ionic compound such as NaCl there are no separate molecules; every ion is held by strong electrostatic attraction to all its neighbours in a giant lattice, so a very high temperature is needed.
+
+Why are organic reactions slow? The reacting atoms are locked in covalent bonds that must be broken before new ones form, and this needs a lot of activation energy. Ions in solution are already free and simply meet and combine.
+## terms
+Organic compound | Carbon compound, mostly covalent (hydrocarbons and derivatives)
+Inorganic compound | Mostly non-carbon compounds; ionic or covalent
+Vital force theory | Old idea that only living things could make organic compounds
+Charring | Blackening on heating as carbon is left behind
+Isomers | Compounds with the same molecular formula but different structures
+## real
+In a Bangladeshi kitchen you can sort things quickly: sugar, rice, oil, kerosene and plastic are organic (they burn and char); table salt, baking soda (an inorganic carbon compound), lime (চুন) and alum (ফিটকিরি) are inorganic. This is also why oil and water do not mix: cooking oil is a covalent organic compound that does not dissolve in water.
+## example
+Q: Classify as organic or inorganic: CH₄, NaCl, C₂H₅OH, CO₂, CaCO₃, C₆H₁₂O₆, H₂S. Give a reason for CO₂.
+Solution: Organic: CH₄, C₂H₅OH, C₆H₁₂O₆ (carbon compounds with C–H bonds). Inorganic: NaCl, H₂S, and also CO₂ and CaCO₃, which contain carbon but are among the traditional exceptions (oxides of carbon and carbonates).
+Answer: Organic: CH₄, C₂H₅OH, C₆H₁₂O₆. Inorganic: NaCl, H₂S, CO₂, CaCO₃. CO₂ is inorganic by convention although it contains carbon.
+## example
+Q: Substance X melts at 80 °C, does not dissolve in water but dissolves in kerosene, and burns with a smoky flame. Substance Y melts at 801 °C and dissolves in water; its solution conducts electricity. Identify the type of each.
+Solution: X: low melting point, soluble in an organic solvent, burns → covalent organic compound (these are the properties of naphthalene). Y: high melting point, water-soluble, conducts in solution → ionic inorganic compound (these fit sodium chloride).
+Answer: X is organic (e.g. naphthalene); Y is inorganic ionic (e.g. NaCl).
+## mistakes
+x Every compound containing carbon is organic.
+v CO, CO₂, carbonates, hydrogen carbonates, cyanides and carbides contain carbon but are classed as inorganic.
+x All inorganic compounds are ionic.
+v Many inorganic compounds are covalent, e.g. H₂O, H₂S, NH₃, CO₂.
+x Organic compounds can only be made by living things.
+v Wöhler made urea in the laboratory in 1828; today millions of organic compounds are made in factories.
+## remember
+- Organic: carbon compounds, mostly covalent; low mp/bp; burn; soluble in organic solvents; slow reactions; non-conductors.
+- Inorganic: mostly no carbon; ionic or covalent; ionic ones have high mp/bp, dissolve in water, conduct when molten or dissolved; fast ionic reactions.
+- Exceptions: CO, CO₂, carbonates, hydrogen carbonates, cyanides, carbides are inorganic.
+- Heating test: sugar chars (organic), salt does not (inorganic).
+## think
+Urea is a fertiliser made in factories from natural gas and it is also produced in our bodies. Should it be called organic or inorganic? What does Wöhler's experiment tell you?
+## quiz
+? Which is an organic compound?
+- NaCl
+- CO₂
+* C₂H₅OH
+- CaCO₃
+= Ethanol is a carbon compound with C–H bonds; CO₂ and CaCO₃ are traditional inorganic exceptions.
+? Organic compounds generally have low melting points because:
+- They contain ions
+* Their molecules are held together by weak intermolecular forces
+- They are always gases
+- They contain metals
+= Only weak forces between covalent molecules need to be overcome.
+? Which statement about inorganic compounds is correct?
+- They always contain carbon
+- They are all covalent
+* They can be ionic or covalent
+- They all burn easily
+= NaCl is ionic, but H₂O and H₂S are covalent inorganic compounds.
+== bn
+## what
+**জৈব যৌগ** হলো কার্বনের যৌগ (সাধারণত হাইড্রোজেনসহ, প্রায়ই O, N, হ্যালোজেনসহ), যা সাধারণত **সমযোজী বন্ধনে** গঠিত। বাকিগুলো **অজৈব যৌগ**; দু-একটি ব্যতিক্রম ছাড়া এতে কার্বন থাকে না, আর এরা আয়নিক বা সমযোজী হতে পারে। গলনাঙ্ক, দ্রাব্যতা, দাহ্যতা ও বিক্রিয়ার গতিতে দুই দলের পার্থক্য আছে।
+## simple
+এই অধ্যায়ের প্রতিটি যৌগ, মিথেন থেকে নাইলন পর্যন্ত, **জৈব যৌগ**। অনেক আগে মানুষ বিশ্বাস করত, জৈব যৌগ শুধু জীবদেহের ভেতরে রহস্যময় এক "প্রাণশক্তি" দিয়েই তৈরি হতে পারে। **১৮২৮ সালে** জার্মান রসায়নবিদ **ফ্রিডরিখ ভোলার** গবেষণাগারে একটি অজৈব লবণ (অ্যামোনিয়াম সায়ানেট) উত্তপ্ত করে প্রস্রাবে থাকা যৌগ ইউরিয়া তৈরি করেন। এতে বোঝা গেল, জৈব যৌগও অন্য সব যৌগের মতো একই রাসায়নিক নিয়ম মানে। এখন "জৈব রসায়ন" মানে শুধু **কার্বনের যৌগের রসায়ন**।
+
+কার্বনের কয়েকটি সরল যৌগকে এখনো **অজৈব** ধরা হয়: কার্বন মনোক্সাইড (CO), কার্বন ডাই-অক্সাইড (CO₂), কার্বনেট (CaCO₃), হাইড্রোজেন কার্বনেট (NaHCO₃), সায়ানাইড ও কার্বাইড (CaC₂)।
+
+**এদের পার্থক্য:**
+- **কার্বন:** জৈব যৌগে কার্বন অবশ্যই থাকবে (যেমন মিথেন CH₄); দু-একটি ব্যতিক্রম ছাড়া অজৈব যৌগে কার্বন থাকে না (যেমন হাইড্রোজেন সালফাইড H₂S, সোডিয়াম ক্লোরাইড NaCl)।
+- **বন্ধন:** জৈব যৌগ সাধারণত **সমযোজী** (পরমাণুগুলো ইলেকট্রন ভাগাভাগি করে); অজৈব যৌগ প্রায়ই **আয়নিক** (NaCl, CaO), তবে সমযোজীও হতে পারে (H₂O, H₂S, NH₃)।
+- **গলনাঙ্ক ও স্ফুটনাঙ্ক:** জৈব যৌগের সাধারণত **কম**, কারণ এদের অণুগুলো শুধু দুর্বল আকর্ষণে যুক্ত (ন্যাপথলিন গলে ৮০ °C-এ)। আয়নিক অজৈব যৌগের **বেশি** (NaCl গলে ৮০১ °C-এ)।
+- **দ্রাব্যতা:** অনেক জৈব যৌগ পানিতে অদ্রবণীয় কিন্তু কেরোসিন, অ্যালকোহল বা বেনজিনের মতো জৈব দ্রাবকে দ্রবণীয়; অনেক অজৈব লবণ পানিতে দ্রবণীয়।
+- **দহন:** বেশির ভাগ জৈব যৌগ **পোড়ে** (কাগজ, চিনি, কেরোসিন, প্লাস্টিক), প্রায়ই কালো কার্বন রেখে যায়; বেশির ভাগ অজৈব যৌগ পোড়ে না।
+- **বিদ্যুৎ পরিবাহিতা:** জৈব যৌগ গলিত বা দ্রবীভূত অবস্থায়ও সাধারণত বিদ্যুৎ পরিবহন করে না; আয়নিক অজৈব যৌগ গলিত বা দ্রবণ অবস্থায় পরিবহন করে।
+- **বিক্রিয়ার গতি:** জৈব বিক্রিয়ায় সমযোজী বন্ধন ভাঙতে হয়, তাই সাধারণত **ধীর** এবং প্রায়ই তাপ বা প্রভাবক লাগে; অজৈব দ্রবণে আয়নের বিক্রিয়া সাধারণত **দ্রুত** (যেমন AgNO₃ + NaCl মুহূর্তেই সাদা অধঃক্ষেপ দেয়)।
+- **সংখ্যা ও সমাণুতা:** জৈব যৌগ লক্ষ লক্ষ, আর অনেকগুলোর আণবিক সংকেত একই (সমাণু), কারণ কার্বন শিকল ও বলয় গঠন করে; অজৈব যৌগ তুলনায় অনেক কম।
+
+**কাজ: চিনি বনাম লবণ।** দুটি পুরোনো চামচে অল্প চিনি আর অল্প খাবার লবণ নিয়ে (শিক্ষকের অনুমতি নিয়ে) স্পিরিট ল্যাম্পে আস্তে আস্তে গরম করো। চিনি গলে, বাদামি হয়, তারপর কালো হয়ে যায় (অঙ্গারীভবন: কার্বন থেকে যায়): এটি জৈব। ওই তাপমাত্রায় লবণ গলেও না, বদলায়ও না: এটি অজৈব।
+## analogy
+জৈব যৌগ যেন লেগো মডেলের বিশাল এক পরিবার, প্রায় একই কয়েকটি ইট (C ও H) দিয়ে খাপে খাপে জোড়া লাগিয়ে (সমযোজী বন্ধন) বানানো: লক্ষ লক্ষ আকার, তাপ দিলে সহজে আলাদা হয়ে যায়। আয়নিক অজৈব যৌগ যেন ঠাসাঠাসি করে সাজানো চুম্বকের স্তূপ: ধরন কম, কিন্তু টেনে আলাদা করা খুব কঠিন, তাই অনেক বেশি তাপমাত্রায় গলে।
+## definition
+**জৈব যৌগ**: কার্বনের যৌগ, সাধারণত হাইড্রোজেনসহ এবং প্রায়ই অক্সিজেন, নাইট্রোজেন বা হ্যালোজেনসহ, যার পরমাণুগুলো মূলত সমযোজী বন্ধনে যুক্ত (হাইড্রোকার্বন ও এদের থেকে উদ্ভূত যৌগ)। CO, CO₂, কার্বনেট, হাইড্রোজেন কার্বনেট, সায়ানাইড ও কার্বাইড ব্যতিক্রম, এগুলোকে অজৈব ধরা হয়।
+
+**অজৈব যৌগ**: যে যৌগ জৈব নয়; সাধারণত কার্বনবিহীন (ওপরের ব্যতিক্রম ছাড়া), আয়নিক বা সমযোজী বন্ধনে গঠিত।
+## why
+জৈব যৌগ এত সহজে গলে কেন? প্রতিটি অণুর ভেতরে পরমাণুগুলো শক্তিশালী সমযোজী বন্ধনে যুক্ত, কিন্তু অণুগুলো নিজেরা একে অপরের সাথে শুধু দুর্বল আন্তঃআণবিক আকর্ষণে যুক্ত। গলা বা ফোটার জন্য শুধু অণুগুলোকে আলাদা করতে হয়, বন্ধন ভাঙতে হয় না, তাই অল্প তাপেই হয়। NaCl-এর মতো আয়নিক যৌগে আলাদা কোনো অণু নেই; বিশাল জালিকায় প্রতিটি আয়ন চারপাশের সব আয়নের সাথে শক্তিশালী স্থিরবৈদ্যুতিক আকর্ষণে আটকে থাকে, তাই অনেক বেশি তাপমাত্রা লাগে।
+
+জৈব বিক্রিয়া ধীর কেন? বিক্রিয়ক পরমাণুগুলো সমযোজী বন্ধনে আটকে থাকে, নতুন বন্ধন গড়ার আগে এগুলো ভাঙতে হয়, আর এর জন্য অনেক সক্রিয়ণ শক্তি লাগে। দ্রবণে আয়নগুলো আগে থেকেই মুক্ত, শুধু মিলিত হয়ে যুক্ত হয়ে যায়।
+## terms
+জৈব যৌগ | কার্বনের যৌগ, মূলত সমযোজী (হাইড্রোকার্বন ও এদের জাতক)
+অজৈব যৌগ | মূলত কার্বনবিহীন যৌগ; আয়নিক বা সমযোজী
+প্রাণশক্তি মতবাদ | পুরোনো ধারণা যে শুধু জীবদেহই জৈব যৌগ তৈরি করতে পারে
+অঙ্গারীভবন | তাপে কালো হয়ে কার্বন পড়ে থাকা
+সমাণু | আণবিক সংকেত এক কিন্তু গঠন ভিন্ন এমন যৌগ
+## real
+বাংলাদেশের রান্নাঘরেই দ্রুত ভাগ করে ফেলা যায়: চিনি, চাল, তেল, কেরোসিন আর প্লাস্টিক জৈব (পোড়ে ও কালো হয়); খাবার লবণ, বেকিং সোডা (কার্বনের একটি অজৈব যৌগ), চুন আর ফিটকিরি অজৈব। এজন্যই তেল আর পানি মেশে না: রান্নার তেল একটি সমযোজী জৈব যৌগ, যা পানিতে দ্রবীভূত হয় না।
+## example
+প্রশ্ন: জৈব না অজৈব ভাগ করো: CH₄, NaCl, C₂H₅OH, CO₂, CaCO₃, C₆H₁₂O₆, H₂S। CO₂-এর ক্ষেত্রে কারণ দাও।
+সমাধান: জৈব: CH₄, C₂H₅OH, C₆H₁₂O₆ (C–H বন্ধনযুক্ত কার্বনের যৌগ)। অজৈব: NaCl, H₂S, আর CO₂ ও CaCO₃, যাদের কার্বন আছে কিন্তু প্রচলিত ব্যতিক্রমের (কার্বনের অক্সাইড ও কার্বনেট) মধ্যে পড়ে।
+উত্তর: জৈব: CH₄, C₂H₅OH, C₆H₁₂O₆। অজৈব: NaCl, H₂S, CO₂, CaCO₃। কার্বন থাকলেও প্রচলিত রীতিতে CO₂ অজৈব।
+## example
+প্রশ্ন: X পদার্থটি ৮০ °C-এ গলে, পানিতে দ্রবীভূত হয় না কিন্তু কেরোসিনে হয়, আর ধোঁয়াটে শিখায় পোড়ে। Y পদার্থটি ৮০১ °C-এ গলে এবং পানিতে দ্রবীভূত হয়; এর দ্রবণ বিদ্যুৎ পরিবহন করে। প্রতিটির ধরন শনাক্ত করো।
+সমাধান: X: কম গলনাঙ্ক, জৈব দ্রাবকে দ্রবণীয়, পোড়ে → সমযোজী জৈব যৌগ (এগুলো ন্যাপথলিনের ধর্ম)। Y: উচ্চ গলনাঙ্ক, পানিতে দ্রবণীয়, দ্রবণে বিদ্যুৎ পরিবহন করে → আয়নিক অজৈব যৌগ (সোডিয়াম ক্লোরাইডের সাথে মেলে)।
+উত্তর: X জৈব (যেমন ন্যাপথলিন); Y আয়নিক অজৈব (যেমন NaCl)।
+## mistakes
+x কার্বন থাকলেই যৌগটি জৈব।
+v CO, CO₂, কার্বনেট, হাইড্রোজেন কার্বনেট, সায়ানাইড ও কার্বাইডে কার্বন থাকলেও এদের অজৈব ধরা হয়।
+x সব অজৈব যৌগ আয়নিক।
+v অনেক অজৈব যৌগ সমযোজী, যেমন H₂O, H₂S, NH₃, CO₂।
+x জৈব যৌগ শুধু জীবদেহই তৈরি করতে পারে।
+v ১৮২৮ সালে ভোলার গবেষণাগারে ইউরিয়া তৈরি করেন; এখন কারখানায় লক্ষ লক্ষ জৈব যৌগ তৈরি হয়।
+## remember
+- জৈব: কার্বনের যৌগ, মূলত সমযোজী; কম গলনাঙ্ক/স্ফুটনাঙ্ক; পোড়ে; জৈব দ্রাবকে দ্রবণীয়; ধীর বিক্রিয়া; বিদ্যুৎ অপরিবাহী।
+- অজৈব: মূলত কার্বনবিহীন; আয়নিক বা সমযোজী; আয়নিকগুলোর গলনাঙ্ক/স্ফুটনাঙ্ক বেশি, পানিতে দ্রবণীয়, গলিত বা দ্রবণ অবস্থায় বিদ্যুৎ পরিবাহী; আয়নিক বিক্রিয়া দ্রুত।
+- ব্যতিক্রম: CO, CO₂, কার্বনেট, হাইড্রোজেন কার্বনেট, সায়ানাইড, কার্বাইড অজৈব।
+- তাপ পরীক্ষা: চিনি কালো হয় (জৈব), লবণ হয় না (অজৈব)।
+## think
+ইউরিয়া একটি সার, যা কারখানায় প্রাকৃতিক গ্যাস থেকে তৈরি হয়, আবার আমাদের শরীরেও তৈরি হয়। একে জৈব বলবে না অজৈব? ভোলারের পরীক্ষা তোমাকে কী বলে?
+## quiz
+? কোনটি জৈব যৌগ?
+- NaCl
+- CO₂
+* C₂H₅OH
+- CaCO₃
+= ইথানল C–H বন্ধনযুক্ত কার্বনের যৌগ; CO₂ ও CaCO₃ প্রচলিত অজৈব ব্যতিক্রম।
+? জৈব যৌগের গলনাঙ্ক সাধারণত কম, কারণ:
+- এতে আয়ন থাকে
+* এদের অণুগুলো দুর্বল আন্তঃআণবিক আকর্ষণে যুক্ত
+- এরা সবসময় গ্যাস
+- এতে ধাতু থাকে
+= সমযোজী অণুগুলোর মধ্যের দুর্বল আকর্ষণটুকু কাটালেই চলে।
+? অজৈব যৌগ সম্পর্কে কোন উক্তিটি সঠিক?
+- এতে সবসময় কার্বন থাকে
+- সবই সমযোজী
+* এরা আয়নিক বা সমযোজী হতে পারে
+- সবই সহজে পোড়ে
+= NaCl আয়নিক, কিন্তু H₂O ও H₂S সমযোজী অজৈব যৌগ।

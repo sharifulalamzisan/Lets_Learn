@@ -1,0 +1,2567 @@
+@@chapter
+== en
+## intro
+Why does a grain of salt stay a hard little crystal on your plate, while the camphor ball in the cupboard slowly disappears into the air? Why does copper wire carry electricity to every house in Dhaka, but the plastic around it does not? Why is water a liquid, when the carbon dioxide we breathe out is a gas? The answers lie in the way atoms hold on to one another. In a molecule the atoms are not scattered at random; they are held together by a force of attraction called a **chemical bond**.
+
+In this chapter you will first learn the language of bonding: valence electrons, valency, radicals, and how to write the formula of any compound from valencies. Then you will see why the noble gases are so stable and how the octet and duet rules explain why other atoms bond. Finally you will meet the three main kinds of bond (ionic, covalent and metallic), draw electron dot-and-cross diagrams, and use bonding to explain why ionic and covalent compounds differ in melting point, solubility and electrical conductivity, and why metals conduct electricity and heat.
+## objectives
+- explain what valence electrons are and find them from the electronic configuration
+- explain valency (including variable and latent valency) and the valency of radicals
+- write the formula of a compound from the valencies of its elements and radicals
+- tell a molecular formula from a structural formula
+- explain the stability of noble gases and the octet and duet rules
+- explain what a chemical bond is and why atoms form bonds
+- explain how and why cations and anions form
+- describe the formation of ionic bonds (NaCl, MgO, CaO) and covalent bonds (H₂, Cl₂, O₂, N₂, H₂O, CH₄)
+- explain polar covalent bonds using electronegativity
+- compare ionic and covalent compounds: melting point, boiling point, solubility, electrical conductivity and crystal formation
+- explain metallic bonding and why metals conduct electricity and heat
+- identify ionic and covalent compounds among everyday materials
+== bn
+## intro
+খাবারের থালায় লবণের দানা কেন শক্ত ছোট্ট কেলাস হয়ে থাকে, অথচ আলমারির ন্যাপথালিন বা কর্পূর আস্তে আস্তে বাতাসে মিলিয়ে যায়? তামার তার কেন ঢাকার প্রতিটি বাড়িতে বিদ্যুৎ পৌঁছে দেয়, কিন্তু তারের ওপরের প্লাস্টিক দেয় না? আমরা যে কার্বন ডাই-অক্সাইড নিঃশ্বাসে ছাড়ি তা গ্যাস, তাহলে পানি কেন তরল? সব প্রশ্নের উত্তর লুকিয়ে আছে পরমাণুগুলো একে অপরকে কীভাবে ধরে রাখে তার মধ্যে। অণুতে পরমাণুগুলো এলোমেলো ছড়িয়ে থাকে না; যে আকর্ষণ বল তাদের একসাথে ধরে রাখে, তাকে বলে **রাসায়নিক বন্ধন**।
+
+এই অধ্যায়ে প্রথমে শিখবে বন্ধনের ভাষা: যোজ্যতা ইলেকট্রন, যোজনী, যৌগমূলক, আর যোজনী থেকে যেকোনো যৌগের সংকেত লেখার নিয়ম। তারপর দেখবে নিষ্ক্রিয় গ্যাস কেন এত স্থিতিশীল, আর অষ্টক ও দুই-এর নিয়ম কীভাবে ব্যাখ্যা করে যে অন্য পরমাণুরা কেন বন্ধন গড়ে। শেষে পরিচিত হবে তিন প্রধান বন্ধনের সাথে (আয়নিক, সমযোজী ও ধাতব), ইলেকট্রনের ডট-ক্রস চিত্র আঁকবে, আর বন্ধন দিয়েই বুঝবে আয়নিক ও সমযোজী যৌগের গলনাঙ্ক, দ্রাব্যতা ও বিদ্যুৎ পরিবাহিতা কেন আলাদা, আর ধাতু কেন বিদ্যুৎ ও তাপ পরিবহণ করে।
+## objectives
+- যোজ্যতা ইলেকট্রন কী তা ব্যাখ্যা করতে এবং ইলেকট্রন বিন্যাস থেকে তা বের করতে পারবে
+- যোজনী (পরিবর্তনশীল ও সুপ্ত যোজনীসহ) এবং যৌগমূলকের যোজনী ব্যাখ্যা করতে পারবে
+- মৌল ও যৌগমূলকের যোজনী ব্যবহার করে যৌগের সংকেত লিখতে পারবে
+- আণবিক সংকেত ও গাঠনিক সংকেতের পার্থক্য করতে পারবে
+- নিষ্ক্রিয় গ্যাসের স্থিতিশীলতা এবং অষ্টক ও দুই-এর নিয়ম ব্যাখ্যা করতে পারবে
+- রাসায়নিক বন্ধন কী এবং পরমাণু কেন বন্ধন গঠন করে তা ব্যাখ্যা করতে পারবে
+- ক্যাটায়ন ও অ্যানায়ন কীভাবে ও কেন তৈরি হয় তা ব্যাখ্যা করতে পারবে
+- আয়নিক বন্ধন (NaCl, MgO, CaO) ও সমযোজী বন্ধন (H₂, Cl₂, O₂, N₂, H₂O, CH₄) গঠন বর্ণনা করতে পারবে
+- তড়িৎ ঋণাত্মকতার সাহায্যে পোলার সমযোজী বন্ধন ব্যাখ্যা করতে পারবে
+- আয়নিক ও সমযোজী যৌগের তুলনা করতে পারবে: গলনাঙ্ক, স্ফুটনাঙ্ক, দ্রাব্যতা, বিদ্যুৎ পরিবাহিতা ও কেলাস গঠন
+- ধাতব বন্ধন এবং ধাতু কেন বিদ্যুৎ ও তাপ পরিবহণ করে তা ব্যাখ্যা করতে পারবে
+- হাতের কাছের দ্রব্যের মধ্যে আয়নিক ও সমযোজী যৌগ শনাক্ত করতে পারবে
+
+@@ 5.1
+@visual k5valence
+@related 5.2 5.6 3.7 4.4
+== en
+## what
+**Valence electrons** are the electrons in the **outermost shell** (the last main energy level) of an atom. Potassium has 1 valence electron and oxygen has 6.
+## simple
+In [[3.7|Chapter 3]] you learned to arrange electrons in shells: K, L, M, N. Now look only at the **last** shell that has electrons. The electrons there are the atom's **valence electrons** (যোজ্যতা ইলেকট্রন).
+
+Why do we care about only the outer shell? Because when two atoms meet, the outer electrons are the ones that "touch" first. The inner electrons are tucked deep inside, held tightly by the nucleus, and take no part in bonding. So the outer shell is like the atom's hands: it uses them to give, take or share electrons.
+
+**How to find them, step by step:**
+- Write the electronic configuration by shells. Nitrogen (Z = 7): K 2, L 5.
+- Find the last shell that has electrons. For nitrogen it is L.
+- Count the electrons in it. Nitrogen has **5** valence electrons.
+
+More examples: fluorine (9) is 2, 7, so it has 7 valence electrons. Phosphorus (15) is 2, 8, 5, so 5. Chlorine (17) is 2, 8, 7, so 7. Calcium (20) is 2, 8, 8, 2, so only 2, even though it has 20 electrons in total.
+
+**A useful pattern:** for the main-group elements, the number of valence electrons is the same as the last digit of the group number: Group 1 has 1, Group 2 has 2, Group 13 has 3 … Group 17 has 7, and Group 18 has 8 (except helium, which has 2). That is why elements of the same group behave alike: they have the same number of valence electrons.
+## analogy
+Think of an onion. The dry outer skin is what touches the knife, the basket and the other onions; the inner layers are hidden. Valence electrons are the outer skin of the atom: every chemical "contact" happens through them.
+## definition
+**Valence electrons (যোজ্যতা ইলেকট্রন)**: the electrons present in the outermost principal energy level (outermost shell) of an atom in its electronic configuration. Their number is the **number of valence electrons** of that element.
+## why
+Chemical reactions happen when atoms come close together. The outermost electrons are farthest from the nucleus, so they are held least tightly and are the first to meet the electrons of another atom. Whether an atom gives electrons away, takes extra electrons, or shares them depends on how many valence electrons it has and how many more it needs to reach a stable, noble-gas-like arrangement. So the number of valence electrons controls how an element bonds.
+## terms
+Valence electrons (যোজ্যতা ইলেকট্রন) | Electrons in the outermost shell of an atom
+Outermost shell | The last main energy level that contains electrons
+Electronic configuration (ইলেকট্রন বিন্যাস) | The arrangement of an atom's electrons in shells and subshells
+Main-group element | An element of Groups 1, 2 and 13–18
+## formula
+$$ valence electrons = electrons in the last shell
+! Main-group elements: valence electrons = last digit of the group number (Group 1 → 1, Group 17 → 7).
+! Helium is the exception in Group 18: it has 2, not 8.
+## visual
+Move the slider to choose an element. The outer shell is highlighted; read its valence electrons and see how many it would need to give away or take to reach 8 (or 2).
+## real
+Sodium and potassium both have 1 valence electron, so both react with water in a similar, violent way; that is why school labs keep them under kerosene. Neon and argon have a full outer shell of 8, so they do not react at all, which is why argon is used inside some electric bulbs and neon in glowing signboards.
+## example
+Q: Find the number of valence electrons of magnesium (Z = 12) and sulfur (Z = 16).
+Solution: Mg: 2, 8, 2. The last shell (M) has 2 electrons.
+S: 2, 8, 6. The last shell (M) has 6 electrons.
+> Fill K with 2, L with 8, then put the rest in M.
+Answer: Mg has 2 valence electrons; S has 6 valence electrons.
+## example
+Q: An element has 2 electrons in its K shell, 8 in its L shell and 7 in its M shell. What is its atomic number, how many valence electrons does it have, and which element is it?
+Solution: Z = 2 + 8 + 7 = 17. The outermost shell is M with 7 electrons.
+> In a neutral atom the number of electrons equals the atomic number.
+Answer: Z = 17, 7 valence electrons: chlorine (Cl).
+## mistakes
+x Calcium has 20 valence electrons because it has 20 electrons.
+v Only the outermost shell counts: Ca is 2, 8, 8, 2, so it has 2 valence electrons.
+x Every noble gas has 8 valence electrons.
+v Helium has only 2; its only shell (K) is full with 2. The others have 8.
+x Valence electrons and valency are always the same number.
+v They are often different: fluorine has 7 valence electrons but its valency is 1 (it needs only 1 more electron).
+## remember
+- Valence electrons = electrons in the outermost shell.
+- N 5, F 7, P 5, Cl 7, Ca 2, K 1, O 6.
+- Main groups: valence electrons = last digit of the group number; He has 2.
+- Elements of the same group have the same number of valence electrons, so they behave alike.
+## think
+Lithium (2, 1) and sodium (2, 8, 1) have different numbers of shells. Why do they still behave in a very similar way in chemical reactions?
+## quiz
+? How many valence electrons does phosphorus (Z = 15) have?
+- 2
+- 3
+* 5
+- 15
+= P is 2, 8, 5; the outermost shell holds 5 electrons.
+? Which element has only 2 valence electrons although it has 20 electrons?
+- Argon
+* Calcium
+- Neon
+- Chlorine
+= Ca is 2, 8, 8, 2, so its outermost shell has 2 electrons.
+? The number of valence electrons of a Group 17 element is:
+- 1
+- 2
+* 7
+- 17
+= For main-group elements the valence electrons equal the last digit of the group number.
+? Why are the valence electrons the ones that take part in bonding?
+- They are in the nucleus
+* They are in the outermost shell, farthest from the nucleus and held least tightly
+- They have no charge
+- They are heavier than other electrons
+= Outer electrons meet other atoms first and are held less strongly by the nucleus.
+== bn
+## what
+পরমাণুর **সর্বশেষ শক্তিস্তরে** (সবচেয়ে বাইরের কক্ষপথে) যে ইলেকট্রনগুলো থাকে, সেগুলোকে **যোজ্যতা ইলেকট্রন** বলে। পটাশিয়ামের যোজ্যতা ইলেকট্রন ১টি, অক্সিজেনের ৬টি।
+## simple
+[[3.7|তৃতীয় অধ্যায়ে]] তুমি K, L, M, N কক্ষপথে ইলেকট্রন সাজাতে শিখেছ। এবার শুধু **শেষ** যে কক্ষপথে ইলেকট্রন আছে, সেটার দিকে তাকাও। সেখানকার ইলেকট্রনগুলোই পরমাণুর **যোজ্যতা ইলেকট্রন** (Valence electrons)।
+
+শুধু বাইরের কক্ষপথ নিয়ে এত মাথাব্যথা কেন? কারণ দুটি পরমাণু কাছাকাছি এলে সবার আগে "ছোঁয়া" লাগে বাইরের ইলেকট্রনগুলোর। ভেতরের ইলেকট্রনগুলো নিউক্লিয়াসের কাছে শক্ত করে আটকানো, বন্ধনে এরা অংশ নেয় না। তাই বাইরের কক্ষপথটা যেন পরমাণুর হাত: এই হাত দিয়েই সে ইলেকট্রন দেয়, নেয় বা ভাগাভাগি করে।
+
+**ধাপে ধাপে বের করার উপায়:**
+- কক্ষপথ অনুযায়ী ইলেকট্রন বিন্যাস লেখো। নাইট্রোজেন (Z = ৭): K ২, L ৫।
+- ইলেকট্রন আছে এমন শেষ কক্ষপথটি খোঁজো। নাইট্রোজেনের ক্ষেত্রে এটি L।
+- সেখানকার ইলেকট্রন গোনো। নাইট্রোজেনের যোজ্যতা ইলেকট্রন **৫টি**।
+
+আরও উদাহরণ: ফ্লোরিন (৯): ২, ৭, তাই যোজ্যতা ইলেকট্রন ৭টি। ফসফরাস (১৫): ২, ৮, ৫, তাই ৫টি। ক্লোরিন (১৭): ২, ৮, ৭, তাই ৭টি। ক্যালসিয়াম (২০): ২, ৮, ৮, ২, তাই মাত্র ২টি, যদিও মোট ইলেকট্রন ২০টি।
+
+**একটা কাজের প্যাটার্ন:** প্রধান গ্রুপের মৌলগুলোর যোজ্যতা ইলেকট্রনের সংখ্যা গ্রুপ নম্বরের শেষ অঙ্কের সমান: গ্রুপ ১-এ ১টি, গ্রুপ ২-এ ২টি, গ্রুপ ১৩-তে ৩টি … গ্রুপ ১৭-তে ৭টি, আর গ্রুপ ১৮-তে ৮টি (হিলিয়াম বাদে, তার ২টি)। এজন্যই একই গ্রুপের মৌলগুলোর আচরণ একই রকম: তাদের যোজ্যতা ইলেকট্রনের সংখ্যা সমান।
+## analogy
+একটা পেঁয়াজের কথা ভাবো। ছুরি, ঝুড়ি বা অন্য পেঁয়াজের সাথে ছোঁয়া লাগে শুধু বাইরের শুকনো খোসার; ভেতরের স্তরগুলো লুকানো থাকে। যোজ্যতা ইলেকট্রন হলো পরমাণুর বাইরের খোসা: সব রাসায়নিক "যোগাযোগ" হয় এদের মাধ্যমেই।
+## definition
+**যোজ্যতা ইলেকট্রন (Valence electrons)**: কোনো মৌলের পরমাণুর ইলেকট্রন বিন্যাসে সর্বশেষ প্রধান শক্তিস্তরে (সর্বশেষ কক্ষপথে) যে ইলেকট্রনগুলো থাকে, সেগুলোই যোজ্যতা ইলেকট্রন; এদের সংখ্যাকে ওই মৌলের **যোজ্যতা ইলেকট্রন সংখ্যা** বলে।
+## why
+পরমাণুগুলো কাছাকাছি এলেই রাসায়নিক বিক্রিয়া ঘটে। সবচেয়ে বাইরের ইলেকট্রনগুলো নিউক্লিয়াস থেকে সবচেয়ে দূরে, তাই সবচেয়ে আলগাভাবে আটকানো, আর এরাই প্রথমে অন্য পরমাণুর ইলেকট্রনের মুখোমুখি হয়। পরমাণু ইলেকট্রন ছেড়ে দেবে, বাড়তি ইলেকট্রন নেবে, নাকি ভাগাভাগি করবে, তা নির্ভর করে তার কয়টি যোজ্যতা ইলেকট্রন আছে আর নিষ্ক্রিয় গ্যাসের মতো স্থিতিশীল বিন্যাসে পৌঁছাতে আর কয়টি দরকার তার ওপর। তাই যোজ্যতা ইলেকট্রনের সংখ্যাই ঠিক করে মৌলটি কীভাবে বন্ধন গড়বে।
+## terms
+যোজ্যতা ইলেকট্রন (Valence electrons) | পরমাণুর সর্বশেষ কক্ষপথের ইলেকট্রন
+সর্বশেষ শক্তিস্তর (Outermost shell) | ইলেকট্রন আছে এমন শেষ প্রধান শক্তিস্তর
+ইলেকট্রন বিন্যাস (Electronic configuration) | শক্তিস্তর ও উপশক্তিস্তরে পরমাণুর ইলেকট্রনের সজ্জা
+প্রধান গ্রুপের মৌল | গ্রুপ ১, ২ ও ১৩–১৮-এর মৌল
+## formula
+$$ যোজ্যতা ইলেকট্রন = সর্বশেষ কক্ষপথের ইলেকট্রন সংখ্যা
+! প্রধান গ্রুপের মৌল: যোজ্যতা ইলেকট্রন = গ্রুপ নম্বরের শেষ অঙ্ক (গ্রুপ ১ → ১, গ্রুপ ১৭ → ৭)।
+! গ্রুপ ১৮-এর ব্যতিক্রম হিলিয়াম: এর ৮টি নয়, ২টি।
+## visual
+স্লাইডার সরিয়ে একটি মৌল বেছে নাও। বাইরের কক্ষপথটি আলাদা রঙে দেখানো আছে; এর যোজ্যতা ইলেকট্রন কয়টি পড়ো, আর ৮টি (বা ২টি) পূর্ণ করতে কয়টি ছাড়তে বা নিতে হবে তা দেখো।
+## real
+সোডিয়াম ও পটাশিয়াম দুটিরই যোজ্যতা ইলেকট্রন ১টি, তাই দুটিই পানির সাথে একই রকম প্রচণ্ড বিক্রিয়া করে; এজন্য স্কুলের ল্যাবে এদের কেরোসিনে ডুবিয়ে রাখা হয়। নিয়ন ও আর্গনের বাইরের কক্ষপথ ৮টি ইলেকট্রনে পূর্ণ, তাই এরা বিক্রিয়াই করে না; এ কারণে কিছু বৈদ্যুতিক বাল্বের ভেতরে আর্গন, আর জ্বলজ্বলে সাইনবোর্ডে নিয়ন ব্যবহার করা হয়।
+## example
+প্রশ্ন: ম্যাগনেসিয়াম (Z = ১২) ও সালফারের (Z = ১৬) যোজ্যতা ইলেকট্রন কয়টি?
+সমাধান: Mg: ২, ৮, ২। শেষ কক্ষপথে (M) ২টি ইলেকট্রন।
+S: ২, ৮, ৬। শেষ কক্ষপথে (M) ৬টি ইলেকট্রন।
+> K-তে ২টি, L-এ ৮টি, বাকিগুলো M-এ বসাও।
+উত্তর: Mg-এর যোজ্যতা ইলেকট্রন ২টি; S-এর ৬টি।
+## example
+প্রশ্ন: একটি মৌলের K কক্ষপথে ২টি, L-এ ৮টি এবং M-এ ৭টি ইলেকট্রন আছে। এর পারমাণবিক সংখ্যা কত, যোজ্যতা ইলেকট্রন কয়টি, আর মৌলটি কী?
+সমাধান: Z = ২ + ৮ + ৭ = ১৭। সর্বশেষ কক্ষপথ M, সেখানে ৭টি ইলেকট্রন।
+> নিরপেক্ষ পরমাণুতে ইলেকট্রন সংখ্যা = পারমাণবিক সংখ্যা।
+উত্তর: Z = ১৭, যোজ্যতা ইলেকট্রন ৭টি: ক্লোরিন (Cl)।
+## mistakes
+x ক্যালসিয়ামের ২০টি ইলেকট্রন, তাই যোজ্যতা ইলেকট্রনও ২০টি।
+v শুধু বাইরের কক্ষপথ গোনা হয়: Ca = ২, ৮, ৮, ২, তাই যোজ্যতা ইলেকট্রন ২টি।
+x সব নিষ্ক্রিয় গ্যাসের যোজ্যতা ইলেকট্রন ৮টি।
+v হিলিয়ামের মাত্র ২টি; এর একমাত্র কক্ষপথ K, যা ২টিতেই পূর্ণ। বাকিদের ৮টি।
+x যোজ্যতা ইলেকট্রন আর যোজনী সবসময় একই সংখ্যা।
+v প্রায়ই আলাদা: ফ্লোরিনের যোজ্যতা ইলেকট্রন ৭টি, কিন্তু যোজনী ১ (তার দরকার মাত্র ১টি ইলেকট্রন)।
+## remember
+- যোজ্যতা ইলেকট্রন = সর্বশেষ কক্ষপথের ইলেকট্রন।
+- N ৫, F ৭, P ৫, Cl ৭, Ca ২, K ১, O ৬।
+- প্রধান গ্রুপ: যোজ্যতা ইলেকট্রন = গ্রুপ নম্বরের শেষ অঙ্ক; He-এর ২টি।
+- একই গ্রুপের মৌলের যোজ্যতা ইলেকট্রন সমান, তাই আচরণও একই রকম।
+## think
+লিথিয়াম (২, ১) আর সোডিয়ামের (২, ৮, ১) কক্ষপথের সংখ্যা আলাদা। তবুও রাসায়নিক বিক্রিয়ায় এরা এত একই রকম আচরণ করে কেন?
+## quiz
+? ফসফরাসের (Z = ১৫) যোজ্যতা ইলেকট্রন কয়টি?
+- ২
+- ৩
+* ৫
+- ১৫
+= P = ২, ৮, ৫; সর্বশেষ কক্ষপথে ৫টি ইলেকট্রন।
+? কোন মৌলের মোট ইলেকট্রন ২০টি হলেও যোজ্যতা ইলেকট্রন মাত্র ২টি?
+- আর্গন
+* ক্যালসিয়াম
+- নিয়ন
+- ক্লোরিন
+= Ca = ২, ৮, ৮, ২, তাই সর্বশেষ কক্ষপথে ২টি ইলেকট্রন।
+? গ্রুপ ১৭-এর কোনো মৌলের যোজ্যতা ইলেকট্রন:
+- ১টি
+- ২টি
+* ৭টি
+- ১৭টি
+= প্রধান গ্রুপের মৌলের যোজ্যতা ইলেকট্রন গ্রুপ নম্বরের শেষ অঙ্কের সমান।
+? বন্ধন গঠনে যোজ্যতা ইলেকট্রনই অংশ নেয় কেন?
+- এরা নিউক্লিয়াসের ভেতরে থাকে
+* এরা বাইরের কক্ষপথে, নিউক্লিয়াস থেকে সবচেয়ে দূরে ও সবচেয়ে আলগাভাবে আটকানো
+- এদের কোনো আধান নেই
+- এরা অন্য ইলেকট্রনের চেয়ে ভারী
+= বাইরের ইলেকট্রনই আগে অন্য পরমাণুর মুখোমুখি হয় এবং নিউক্লিয়াস এদের কম জোরে ধরে রাখে।
+
+@@ 5.2
+@related 5.1 5.3 5.4 3.4
+== en
+## what
+**Valency** is the combining power of an atom: the number of bonds it can form with other atoms when a molecule is made. It is measured by how many hydrogen (or chlorine) atoms one atom can combine with.
+## simple
+Some atoms are "one-handed", some "two-handed", some "three- or four-handed". That number of hands is the **valency** (যোজনী).
+
+**Hydrogen is the measuring stick.** Hydrogen's valency is taken as **1**. Then:
+- One Cl atom joins one H atom to make HCl, so chlorine's valency is **1**.
+- One O atom joins two H atoms to make H₂O, so oxygen's valency is **2**.
+- One N atom joins three H atoms to make NH₃, so nitrogen's valency is **3**.
+- One C atom joins four H atoms to make CH₄, so carbon's valency is **4**.
+- One Na atom joins one Cl atom to make NaCl. Since Cl has valency 1, sodium's valency is also **1**.
+
+**Using oxygen instead.** Many metals do not combine with hydrogen, but they do form oxides. Oxygen has valency 2, so: **valency = number of O atoms joined to one atom × 2**. In CaO one Ca joins one O, so Ca has valency 1 × 2 = **2**. In CO₂ one C joins two O, so C has valency 2 × 2 = **4**.
+
+**Link with valence electrons.** For main-group elements, valency is usually either the number of valence electrons (if the atom gives or shares them all: Na 1, Mg 2, Al 3, C 4) or **8 minus** that number (if the atom takes or shares to complete 8: N 8 − 5 = 3, O 8 − 6 = 2, Cl 8 − 7 = 1).
+
+**Variable valency.** Some elements show more than one valency. Iron is 2 in FeCl₂ and 3 in FeCl₃. Copper is 1 in CuCl and 2 in CuCl₂. The valency an atom actually uses in a compound is its **active valency**. The difference between the highest valency and the active valency is the **latent valency** (সুপ্ত যোজনী). In FeCl₂: highest 3, active 2, latent 3 − 2 = 1. In FeCl₃ there is no latent valency (3 − 3 = 0).
+
+**Common valencies (from the book's tables):**
+- 1: H, F, Cl, Br, I, Li, Na, K, Ag
+- 2: O, Mg, Ca, Zn
+- 3: Al, B
+- Variable: Fe 2, 3 · Cu 1, 2 · C 2, 4 · Pb 2, 4 · N 3, 5 · P 3, 5 · S 2, 4, 6
+
+Old names tell you the valency of a variable-valency metal: **-ous** means the lower one (ferrous = iron(II), cuprous = copper(I)) and **-ic** means the higher one (ferric = iron(III), cupric = copper(II)). The modern (IUPAC) names put the valency in Roman numerals: iron(II) chloride is FeCl₂, iron(III) chloride is FeCl₃.
+## analogy
+Think of children holding hands in a game on the school field. Some children have one free hand (valency 1), some keep both hands free (valency 2). A "two-hand" child can hold two "one-hand" children, just as one O atom holds two H atoms in water. A child who sometimes uses both hands and sometimes only one is like iron with its variable valency.
+## definition
+**Valency (যোজনী বা যোজ্যতা)**: the combining capacity of an atom of an element with atoms of another element when forming a molecule; numerically, the number of hydrogen atoms (or chlorine atoms) with which one atom of the element combines, or twice the number of oxygen atoms with which it combines.
+
+**Variable valency (পরিবর্তনশীল যোজনী)**: the property of an element of showing more than one valency in different compounds.
+
+**Latent valency (সুপ্ত যোজনী)**: highest valency of an element − its active valency in a particular compound.
+## why
+Valency comes from the outer electrons. An atom bonds so as to reach a stable, noble-gas-like outer shell. Sodium does that by giving away its single outer electron, so it can make only one bond: valency 1. Oxygen is 2 short of an octet, so it forms two bonds: valency 2. Transition metals such as iron and copper can lose different numbers of electrons (Fe can form Fe²⁺ or Fe³⁺), and that is why they show variable valency.
+## terms
+Valency (যোজনী) | Combining capacity of an atom: number of H or Cl atoms it joins with
+Variable valency (পরিবর্তনশীল যোজনী) | Showing more than one valency (Fe 2, 3; Cu 1, 2)
+Active valency (সক্রিয় যোজনী) | The valency an atom actually uses in a given compound
+Latent valency (সুপ্ত যোজনী) | Highest valency − active valency
+-ous / -ic | Older names for the lower / higher valency of a metal (ferrous / ferric)
+## formula
+$$ valency = number of H (or Cl) atoms joined to one atom
+$$ valency = number of O atoms joined to one atom × 2
+$$ latent valency = highest valency − active valency
+! Main-group rule of thumb: valency = valence electrons, or 8 − valence electrons.
+! Valency is a plain number: it has no + or − sign.
+## real
+At a hardware shop in Old Dhaka you may see "ferrous sulfate" (FeSO₄, iron valency 2), used in some fertilisers and to treat iron deficiency in plants, and ferric chloride (FeCl₃, iron valency 3), used by electronics hobbyists to etch copper circuit boards. The same metal, iron, behaves differently in each because its valency is different.
+## example
+Q: Find the valency of the named element in: (a) H₂S (sulfur), (b) PCl₃ (phosphorus), (c) Al₂O₃ (aluminium).
+Solution: (a) One S joins 2 H, so valency of S = 2.
+(b) One P joins 3 Cl, so valency of P = 3.
+(c) 2 Al join 3 O, so one Al joins 3/2 O. Valency = 3/2 × 2 = 3.
+> With oxygen, always count the O atoms per ONE atom of the element, then multiply by 2.
+Answer: S = 2, P = 3, Al = 3.
+## example
+Q: Find the active valency and the latent valency of the metal in (a) FeCl₂, (b) CuCl, (c) PbCl₄. (Highest valencies: Fe 3, Cu 2, Pb 4.)
+Solution: (a) Fe joins 2 Cl: active 2, latent 3 − 2 = 1.
+(b) Cu joins 1 Cl: active 1, latent 2 − 1 = 1.
+(c) Pb joins 4 Cl: active 4, latent 4 − 4 = 0.
+Answer: (a) 2 and 1, (b) 1 and 1, (c) 4 and 0 (no latent valency).
+## mistakes
+x The valency of chlorine is −1.
+v Valency has no sign. Chlorine's valency is 1; the charge on a chloride ion is −1.
+x An element always has just one valency.
+v Many elements, especially transition metals, have variable valency: Fe 2 and 3, Cu 1 and 2.
+x Valency of oxygen in CaO is 1 because there is one O.
+v Oxygen is always 2 here; it is calcium whose valency we find: 1 O × 2 = 2.
+## remember
+- Valency = combining power; measured by H or Cl atoms joined, or O atoms × 2.
+- H 1, O 2, N 3, C 4; Na 1, Mg 2, Al 3.
+- Variable valency: Fe 2, 3; Cu 1, 2; Pb 2, 4; S 2, 4, 6.
+- Latent valency = highest − active (FeCl₂: 3 − 2 = 1).
+- -ous = lower valency, -ic = higher valency.
+## think
+Sulfur shows valencies 2, 4 and 6 in H₂S, SO₂ and SO₃. What is the latent valency of sulfur in SO₂?
+## quiz
+? One atom of an element combines with 3 hydrogen atoms. Its valency is:
+- 1
+- 2
+* 3
+- 6
+= Valency = number of H atoms joined to one atom.
+? In FeCl₂ the latent valency of iron is:
+- 0
+* 1
+- 2
+- 3
+= Highest valency of Fe is 3, active valency is 2; 3 − 2 = 1.
+? One Ca atom combines with one O atom to form CaO. The valency of Ca is:
+- 1
+* 2
+- 3
+- 4
+= Number of O atoms × 2 = 1 × 2 = 2.
+? Which pair shows the valencies of iron?
+- 1 and 2
+* 2 and 3
+- 2 and 4
+- 3 and 5
+= Iron forms FeCl₂ (valency 2) and FeCl₃ (valency 3).
+== bn
+## what
+**যোজনী** হলো পরমাণুর যুক্ত হওয়ার ক্ষমতা: অণু গঠনের সময় একটি পরমাণু অন্য পরমাণুর সাথে কয়টি বন্ধন গড়তে পারে। একটি পরমাণু কয়টি হাইড্রোজেন (বা ক্লোরিন) পরমাণুর সাথে যুক্ত হয়, তা দিয়ে এটি মাপা হয়।
+## simple
+কিছু পরমাণু যেন "এক হাতওয়ালা", কেউ "দুই হাতওয়ালা", কেউ আবার "তিন বা চার হাতওয়ালা"। এই হাতের সংখ্যাই **যোজনী** (Valency)।
+
+**মাপকাঠি হাইড্রোজেন।** হাইড্রোজেনের যোজনী ধরা হয় **১**। তাহলে:
+- একটি Cl পরমাণু একটি H-এর সাথে যুক্ত হয়ে HCl হয়, তাই ক্লোরিনের যোজনী **১**।
+- একটি O পরমাণু দুটি H-এর সাথে যুক্ত হয়ে H₂O হয়, তাই অক্সিজেনের যোজনী **২**।
+- একটি N পরমাণু তিনটি H-এর সাথে যুক্ত হয়ে NH₃ হয়, তাই নাইট্রোজেনের যোজনী **৩**।
+- একটি C পরমাণু চারটি H-এর সাথে যুক্ত হয়ে CH₄ হয়, তাই কার্বনের যোজনী **৪**।
+- একটি Na পরমাণু একটি Cl-এর সাথে যুক্ত হয়ে NaCl হয়। Cl-এর যোজনী ১, তাই সোডিয়ামের যোজনীও **১**।
+
+**অক্সিজেন দিয়েও মাপা যায়।** অনেক ধাতু হাইড্রোজেনের সাথে যুক্ত হয় না, কিন্তু অক্সাইড ঠিকই তৈরি করে। অক্সিজেনের যোজনী ২, তাই: **যোজনী = একটি পরমাণুর সাথে যুক্ত O পরমাণুর সংখ্যা × ২**। CaO-তে একটি Ca-এর সাথে একটি O, তাই Ca-এর যোজনী ১ × ২ = **২**। CO₂-তে একটি C-এর সাথে দুটি O, তাই C-এর যোজনী ২ × ২ = **৪**।
+
+**যোজ্যতা ইলেকট্রনের সাথে সম্পর্ক।** প্রধান গ্রুপের মৌলের যোজনী সাধারণত হয় যোজ্যতা ইলেকট্রনের সমান (যদি পরমাণু সবগুলো দিয়ে দেয় বা ভাগাভাগি করে: Na ১, Mg ২, Al ৩, C ৪), নয়তো **৮ বিয়োগ** সেই সংখ্যা (যদি ৮ পূর্ণ করতে ইলেকট্রন নেয় বা ভাগাভাগি করে: N ৮ − ৫ = ৩, O ৮ − ৬ = ২, Cl ৮ − ৭ = ১)।
+
+**পরিবর্তনশীল যোজনী।** কিছু মৌলের একাধিক যোজনী থাকে। FeCl₂-তে আয়রনের যোজনী ২, FeCl₃-তে ৩। CuCl-এ কপারের যোজনী ১, CuCl₂-তে ২। কোনো যৌগে পরমাণু আসলে যে যোজনী ব্যবহার করে, সেটা তার **সক্রিয় যোজনী**। সর্বোচ্চ যোজনী আর সক্রিয় যোজনীর পার্থক্যই **সুপ্ত যোজনী** (Latent valency)। FeCl₂-তে: সর্বোচ্চ ৩, সক্রিয় ২, সুপ্ত ৩ − ২ = ১। FeCl₃-তে সুপ্ত যোজনী নেই (৩ − ৩ = ০)।
+
+**পরিচিত কিছু যোজনী (বইয়ের সারণি থেকে):**
+- ১: H, F, Cl, Br, I, Li, Na, K, Ag
+- ২: O, Mg, Ca, Zn
+- ৩: Al, B
+- পরিবর্তনশীল: Fe ২, ৩ · Cu ১, ২ · C ২, ৪ · Pb ২, ৪ · N ৩, ৫ · P ৩, ৫ · S ২, ৪, ৬
+
+পুরোনো নাম থেকেই পরিবর্তনশীল যোজনীর ধাতুর যোজনী বোঝা যায়: **-আস (-ous)** মানে কম যোজনী (ফেরাস = আয়রন(II), কিউপ্রাস = কপার(I)), আর **-ইক (-ic)** মানে বেশি যোজনী (ফেরিক = আয়রন(III), কিউপ্রিক = কপার(II))। আধুনিক (IUPAC) নামে রোমান সংখ্যায় যোজনী লেখা হয়: আয়রন(II) ক্লোরাইড হলো FeCl₂, আয়রন(III) ক্লোরাইড হলো FeCl₃।
+## analogy
+স্কুলমাঠে হাত ধরাধরি খেলার কথা ভাবো। কারও একটা হাত খালি (যোজনী ১), কেউ দুই হাতই খালি রাখে (যোজনী ২)। "দুই হাতওয়ালা" একজন দুজন "এক হাতওয়ালা"-কে ধরতে পারে, ঠিক যেমন পানিতে একটি O পরমাণু দুটি H পরমাণুকে ধরে রাখে। যে কখনো দুই হাত, কখনো এক হাত ব্যবহার করে, সে যেন পরিবর্তনশীল যোজনীর আয়রন।
+## definition
+**যোজনী বা যোজ্যতা (Valency)**: অণু গঠনকালে কোনো মৌলের একটি পরমাণুর অন্য মৌলের পরমাণুর সাথে যুক্ত হওয়ার ক্ষমতা; সংখ্যায়, মৌলের একটি পরমাণু যতগুলো হাইড্রোজেন (বা ক্লোরিন) পরমাণুর সাথে যুক্ত হয় সেই সংখ্যা, অথবা যতগুলো অক্সিজেন পরমাণুর সাথে যুক্ত হয় তার দ্বিগুণ।
+
+**পরিবর্তনশীল যোজনী**: ভিন্ন ভিন্ন যৌগে কোনো মৌলের একাধিক যোজনী প্রদর্শনের ধর্ম।
+
+**সুপ্ত যোজনী**: মৌলের সর্বোচ্চ যোজনী − নির্দিষ্ট যৌগে তার সক্রিয় যোজনী।
+## why
+যোজনী আসে বাইরের ইলেকট্রন থেকে। পরমাণু এমনভাবে বন্ধন গড়ে যাতে তার বাইরের কক্ষপথ নিষ্ক্রিয় গ্যাসের মতো স্থিতিশীল হয়। সোডিয়াম তার একমাত্র বাইরের ইলেকট্রনটি ছেড়ে দিয়ে তা করে, তাই সে একটিই বন্ধন গড়তে পারে: যোজনী ১। অক্সিজেনের অষ্টক পূর্ণ হতে ২টি কম, তাই সে দুটি বন্ধন গড়ে: যোজনী ২। আয়রন, কপারের মতো অবস্থান্তর ধাতু ভিন্ন ভিন্ন সংখ্যক ইলেকট্রন ছাড়তে পারে (Fe থেকে Fe²⁺ বা Fe³⁺ হতে পারে), এজন্যই এদের যোজনী পরিবর্তনশীল।
+## terms
+যোজনী (Valency) | পরমাণুর যুক্ত হওয়ার ক্ষমতা: কয়টি H বা Cl পরমাণুর সাথে যুক্ত হয়
+পরিবর্তনশীল যোজনী (Variable valency) | একাধিক যোজনী দেখানো (Fe ২, ৩; Cu ১, ২)
+সক্রিয় যোজনী (Active valency) | কোনো যৌগে পরমাণু আসলে যে যোজনী ব্যবহার করে
+সুপ্ত যোজনী (Latent valency) | সর্বোচ্চ যোজনী − সক্রিয় যোজনী
+-আস / -ইক | ধাতুর কম / বেশি যোজনীর পুরোনো নাম (ফেরাস / ফেরিক)
+## formula
+$$ যোজনী = একটি পরমাণুর সাথে যুক্ত H (বা Cl) পরমাণুর সংখ্যা
+$$ যোজনী = একটি পরমাণুর সাথে যুক্ত O পরমাণুর সংখ্যা × ২
+$$ সুপ্ত যোজনী = সর্বোচ্চ যোজনী − সক্রিয় যোজনী
+! প্রধান গ্রুপের সহজ নিয়ম: যোজনী = যোজ্যতা ইলেকট্রন, অথবা ৮ − যোজ্যতা ইলেকট্রন।
+! যোজনী শুধু একটি সংখ্যা: এর কোনো + বা − চিহ্ন নেই।
+## real
+পুরান ঢাকার হার্ডওয়্যারের দোকানে "ফেরাস সালফেট" (FeSO₄, আয়রনের যোজনী ২) পাওয়া যায়, যা কিছু সারে আর গাছের আয়রনের ঘাটতি পূরণে ব্যবহৃত হয়; আবার ফেরিক ক্লোরাইড (FeCl₃, আয়রনের যোজনী ৩) দিয়ে ইলেকট্রনিক্সের শখের কারিগররা সার্কিট বোর্ডের তামা গলিয়ে নকশা তৈরি করেন। একই ধাতু আয়রন, কিন্তু যোজনী আলাদা বলে আচরণও আলাদা।
+## example
+প্রশ্ন: যোজনী বের করো: (ক) H₂S-এ সালফারের, (খ) PCl₃-এ ফসফরাসের, (গ) Al₂O₃-এ অ্যালুমিনিয়ামের।
+সমাধান: (ক) একটি S দুটি H-এর সাথে যুক্ত, তাই S-এর যোজনী = ২।
+(খ) একটি P তিনটি Cl-এর সাথে যুক্ত, তাই P-এর যোজনী = ৩।
+(গ) ২টি Al-এর সাথে ৩টি O, তাই একটি Al-এর সাথে ৩/২টি O। যোজনী = ৩/২ × ২ = ৩।
+> অক্সিজেনের ক্ষেত্রে সবসময় মৌলের একটি পরমাণুর সাথে কয়টি O আছে তা গুনে ২ দিয়ে গুণ করো।
+উত্তর: S = ২, P = ৩, Al = ৩।
+## example
+প্রশ্ন: ধাতুটির সক্রিয় যোজনী ও সুপ্ত যোজনী বের করো: (ক) FeCl₂, (খ) CuCl, (গ) PbCl₄। (সর্বোচ্চ যোজনী: Fe ৩, Cu ২, Pb ৪।)
+সমাধান: (ক) Fe দুটি Cl-এর সাথে যুক্ত: সক্রিয় ২, সুপ্ত ৩ − ২ = ১।
+(খ) Cu একটি Cl-এর সাথে যুক্ত: সক্রিয় ১, সুপ্ত ২ − ১ = ১।
+(গ) Pb চারটি Cl-এর সাথে যুক্ত: সক্রিয় ৪, সুপ্ত ৪ − ৪ = ০।
+উত্তর: (ক) ২ ও ১, (খ) ১ ও ১, (গ) ৪ ও ০ (সুপ্ত যোজনী নেই)।
+## mistakes
+x ক্লোরিনের যোজনী −১।
+v যোজনীর কোনো চিহ্ন নেই। ক্লোরিনের যোজনী ১; ক্লোরাইড আয়নের আধান −১।
+x একটি মৌলের সবসময় একটিই যোজনী থাকে।
+v অনেক মৌলের, বিশেষ করে অবস্থান্তর ধাতুর, যোজনী পরিবর্তনশীল: Fe ২ ও ৩, Cu ১ ও ২।
+x CaO-তে একটি O আছে, তাই অক্সিজেনের যোজনী ১।
+v এখানে অক্সিজেনের যোজনী সবসময় ২; আমরা বের করছি ক্যালসিয়ামের যোজনী: ১টি O × ২ = ২।
+## remember
+- যোজনী = যুক্ত হওয়ার ক্ষমতা; মাপা হয় যুক্ত H বা Cl পরমাণুর সংখ্যা, বা O পরমাণু × ২ দিয়ে।
+- H ১, O ২, N ৩, C ৪; Na ১, Mg ২, Al ৩।
+- পরিবর্তনশীল যোজনী: Fe ২, ৩; Cu ১, ২; Pb ২, ৪; S ২, ৪, ৬।
+- সুপ্ত যোজনী = সর্বোচ্চ − সক্রিয় (FeCl₂: ৩ − ২ = ১)।
+- -আস = কম যোজনী, -ইক = বেশি যোজনী।
+## think
+H₂S, SO₂ ও SO₃-তে সালফারের যোজনী যথাক্রমে ২, ৪ ও ৬। SO₂-তে সালফারের সুপ্ত যোজনী কত?
+## quiz
+? কোনো মৌলের একটি পরমাণু ৩টি হাইড্রোজেন পরমাণুর সাথে যুক্ত হয়। এর যোজনী:
+- ১
+- ২
+* ৩
+- ৬
+= যোজনী = একটি পরমাণুর সাথে যুক্ত H পরমাণুর সংখ্যা।
+? FeCl₂-তে আয়রনের সুপ্ত যোজনী:
+- ০
+* ১
+- ২
+- ৩
+= Fe-এর সর্বোচ্চ যোজনী ৩, সক্রিয় যোজনী ২; ৩ − ২ = ১।
+? একটি Ca পরমাণু একটি O পরমাণুর সাথে যুক্ত হয়ে CaO তৈরি করে। Ca-এর যোজনী:
+- ১
+* ২
+- ৩
+- ৪
+= O পরমাণুর সংখ্যা × ২ = ১ × ২ = ২।
+? কোন জোড়াটি আয়রনের যোজনী নির্দেশ করে?
+- ১ ও ২
+* ২ ও ৩
+- ২ ও ৪
+- ৩ ও ৫
+= আয়রন FeCl₂ (যোজনী ২) ও FeCl₃ (যোজনী ৩) তৈরি করে।
+
+@@ 5.3
+@related 5.2 5.4 5.9
+== en
+## what
+A **radical** (polyatomic ion) is a group of atoms of different elements that stays together and carries an overall positive or negative charge, behaving like a single ion. Its valency is the size of its charge, e.g. ammonium NH₄⁺ has valency 1, sulfate SO₄²⁻ has valency 2.
+## simple
+Some groups of atoms are like a team that always travels together. In a reaction they move from one compound to another as one unit, never splitting up. Such a group, carrying an electric charge, is called a **radical** (যৌগমূলক).
+
+Take **ammonium**, NH₄⁺. One nitrogen atom, four hydrogen atoms, and the whole group has lost one electron's worth of charge, so it carries **+1**. You can think of it as ammonia (NH₃) that has picked up an extra H⁺. It behaves just like a Na⁺ ion: NH₄Cl looks a lot like NaCl.
+
+Or take **sulfate**, SO₄²⁻: one S and four O atoms that together carry **two extra electrons**, so the charge is −2.
+
+**Charge vs valency.** The charge has a sign (+ or −). The valency is only the number. So NH₄⁺ has charge +1 and valency 1; SO₄²⁻ has charge −2 and valency 2; PO₄³⁻ has charge −3 and valency 3.
+
+**The radicals you must know (book's Table 5.04):**
+- Ammonium NH₄⁺ (1) · Phosphonium PH₄⁺ (1)
+- Hydroxide OH⁻ (1) · Nitrate NO₃⁻ (1) · Nitrite NO₂⁻ (1)
+- Hydrogen carbonate (bicarbonate) HCO₃⁻ (1) · Hydrogen sulfate HSO₄⁻ (1)
+- Carbonate CO₃²⁻ (2) · Sulfate SO₄²⁻ (2) · Sulfite SO₃²⁻ (2)
+- Phosphate PO₄³⁻ (3)
+
+**Memory tips:** "-ate" has more oxygen than "-ite" (nitrate NO₃⁻, nitrite NO₂⁻; sulfate SO₄²⁻, sulfite SO₃²⁻), but the charge stays the same. Putting an H in front of a −2 radical takes away one negative charge: CO₃²⁻ becomes HCO₃⁻, SO₄²⁻ becomes HSO₄⁻.
+## analogy
+A radical is like a band of musicians hired for a wedding. They arrive together, play together and leave together; you never book the drummer alone. In the same way, SO₄²⁻ goes from CuSO₄ to BaSO₄ as one complete group.
+## definition
+**Radical (যৌগমূলক)**: a group of atoms of two or more elements, bound together, that carries a positive or negative charge and takes part in chemical reactions as a single unit, like the ion of an element. **Valency of a radical** = the number of charges it carries (without the sign).
+
+A positive radical (e.g. NH₄⁺) is a **basic radical**; a negative radical (e.g. SO₄²⁻, NO₃⁻) is an **acid radical**.
+## why
+Inside a radical the atoms are joined by strong covalent bonds, so the group holds together. But the group as a whole has either one or more electrons too many or too few compared with its protons, so it carries a net charge. That charge lets it attract oppositely charged ions and form ionic compounds, exactly like a simple ion. Because it needs as many partner charges as its own charge, its valency equals the size of its charge.
+## terms
+Radical (যৌগমূলক) | Charged group of atoms that acts as one unit
+Charge (আধান) | Net electric charge of the group, with sign (+1, −2 …)
+Valency of a radical | Size of its charge, without sign
+Basic radical | Positive radical, e.g. NH₄⁺
+Acid radical | Negative radical, e.g. SO₄²⁻, NO₃⁻, CO₃²⁻
+## formula
+$$ valency of a radical = number of charges (no sign)
+! NH₄⁺, OH⁻, NO₃⁻, NO₂⁻, HCO₃⁻, HSO₄⁻: valency 1
+! CO₃²⁻, SO₄²⁻, SO₃²⁻: valency 2 · PO₄³⁻: valency 3
+## real
+Look at the packets around you: **baking soda** (sodium hydrogen carbonate, NaHCO₃) makes pitha and cakes rise; **washing soda** (sodium carbonate, Na₂CO₃·10H₂O) is used for washing clothes; farmers spread **urea and ammonium sulfate** ((NH₄)₂SO₄) on paddy fields; and **tutia** or blue vitriol (copper sulfate, CuSO₄·5H₂O) is used to protect crops from fungus. Each contains one of the radicals above.
+## example
+Q: Write the charge and valency of: (a) carbonate, (b) nitrate, (c) phosphate, (d) ammonium.
+Solution: (a) CO₃²⁻: charge −2, valency 2.
+(b) NO₃⁻: charge −1, valency 1.
+(c) PO₄³⁻: charge −3, valency 3.
+(d) NH₄⁺: charge +1, valency 1.
+> Valency is simply the charge written without its sign.
+Answer: 2, 1, 3, 1.
+## example
+Q: Name the radical in each compound: (a) KNO₂, (b) NaHSO₄, (c) Na₂SO₃, (d) NH₄OH.
+Solution: (a) NO₂⁻: nitrite. (b) HSO₄⁻: hydrogen sulfate. (c) SO₃²⁻: sulfite. (d) NH₄⁺: ammonium and OH⁻: hydroxide.
+> Split off the metal (or NH₄) first; what is left is the acid radical.
+Answer: nitrite; hydrogen sulfate; sulfite; ammonium and hydroxide.
+## mistakes
+x Sulfate is SO₄ with valency −2.
+v Sulfate is SO₄²⁻: its charge is −2 but its valency is 2 (no sign).
+x Nitrate and nitrite are the same radical.
+v Nitrate is NO₃⁻ (three O), nitrite is NO₂⁻ (two O); both have valency 1.
+x Ammonium, NH₄⁺, is a metal because it forms salts like NaCl.
+v NH₄⁺ contains no metal at all; it is a positive radical that only behaves like a metal ion.
+## remember
+- Radical = charged group of atoms that reacts as one unit.
+- Valency of a radical = its charge without the sign.
+- Valency 1: NH₄⁺, PH₄⁺, OH⁻, NO₃⁻, NO₂⁻, HCO₃⁻, HSO₄⁻.
+- Valency 2: CO₃²⁻, SO₄²⁻, SO₃²⁻. Valency 3: PO₄³⁻.
+- -ate has one more O than -ite; same charge.
+## think
+Carbonate is CO₃²⁻. Why does adding one H⁺ to it give HCO₃⁻, with a charge of only −1?
+## quiz
+? The valency of the phosphate radical is:
+- 1
+- 2
+* 3
+- 4
+= Phosphate is PO₄³⁻: charge −3, valency 3.
+? Which is a positive radical?
+- SO₄²⁻
+* NH₄⁺
+- OH⁻
+- NO₃⁻
+= Ammonium carries a +1 charge.
+? The formula of the sulfite radical is:
+- SO₄²⁻
+* SO₃²⁻
+- HSO₄⁻
+- S²⁻
+= "-ite" has one O less than "-ate": sulfite is SO₃²⁻.
+? Hydrogen carbonate is:
+- CO₃²⁻, valency 2
+* HCO₃⁻, valency 1
+- H₂CO₃, valency 0
+- HCO₃²⁻, valency 2
+= Adding H⁺ to CO₃²⁻ reduces the charge to −1: HCO₃⁻.
+== bn
+## what
+**যৌগমূলক** হলো একাধিক মৌলের কয়েকটি পরমাণুর এমন একটি গুচ্ছ, যা একসাথে থাকে, সামগ্রিকভাবে ধনাত্মক বা ঋণাত্মক আধান বহন করে এবং একটি আয়নের মতো আচরণ করে। এর আধান সংখ্যাই এর যোজনী, যেমন অ্যামোনিয়াম NH₄⁺-এর যোজনী ১, সালফেট SO₄²⁻-এর যোজনী ২।
+## simple
+কিছু পরমাণুর গুচ্ছ যেন একটা দল, যারা সবসময় একসাথে চলাফেরা করে। বিক্রিয়ার সময় এরা এক যৌগ থেকে আরেক যৌগে পুরো দল হিসেবেই যায়, কখনো ভাঙে না। আধানযুক্ত এমন পরমাণুগুচ্ছকে বলে **যৌগমূলক** (Radical)।
+
+ধরো **অ্যামোনিয়াম**, NH₄⁺। একটি নাইট্রোজেন, চারটি হাইড্রোজেন, আর পুরো গুচ্ছটিতে একটি ইলেকট্রন কম, তাই আধান **+১**। একে ভাবতে পারো অ্যামোনিয়া (NH₃), যে একটি বাড়তি H⁺ তুলে নিয়েছে। এটি ঠিক Na⁺ আয়নের মতো আচরণ করে: NH₄Cl দেখতে-শুনতে অনেকটা NaCl-এর মতো।
+
+আবার ধরো **সালফেট**, SO₄²⁻: একটি S ও চারটি O পরমাণু মিলে **দুটি বাড়তি ইলেকট্রন** বহন করে, তাই আধান −২।
+
+**আধান বনাম যোজনী।** আধানের চিহ্ন আছে (+ বা −)। যোজনী শুধু সংখ্যাটা। তাই NH₄⁺-এর আধান +১, যোজনী ১; SO₄²⁻-এর আধান −২, যোজনী ২; PO₄³⁻-এর আধান −৩, যোজনী ৩।
+
+**যে যৌগমূলকগুলো অবশ্যই জানতে হবে (বইয়ের সারণি ৫.০৪):**
+- অ্যামোনিয়াম NH₄⁺ (১) · ফসফোনিয়াম PH₄⁺ (১)
+- হাইড্রোক্সাইড OH⁻ (১) · নাইট্রেট NO₃⁻ (১) · নাইট্রাইট NO₂⁻ (১)
+- হাইড্রোজেন কার্বনেট (বাইকার্বনেট) HCO₃⁻ (১) · হাইড্রোজেন সালফেট HSO₄⁻ (১)
+- কার্বনেট CO₃²⁻ (২) · সালফেট SO₄²⁻ (২) · সালফাইট SO₃²⁻ (২)
+- ফসফেট PO₄³⁻ (৩)
+
+**মনে রাখার কৌশল:** "-এট"-এ "-আইট"-এর চেয়ে একটি O বেশি (নাইট্রেট NO₃⁻, নাইট্রাইট NO₂⁻; সালফেট SO₄²⁻, সালফাইট SO₃²⁻), কিন্তু আধান একই থাকে। −২ আধানের যৌগমূলকের সামনে একটি H বসালে একটি ঋণাত্মক আধান কমে যায়: CO₃²⁻ হয়ে যায় HCO₃⁻, SO₄²⁻ হয়ে যায় HSO₄⁻।
+## analogy
+যৌগমূলক যেন বিয়েবাড়িতে ভাড়া করা বাদক দল। তারা একসাথে আসে, একসাথে বাজায়, একসাথে চলে যায়; শুধু ঢোলবাদককে আলাদা করে কেউ ডাকে না। ঠিক তেমনি SO₄²⁻ পুরো দল হিসেবেই CuSO₄ থেকে BaSO₄-এ চলে যায়।
+## definition
+**যৌগমূলক (Radical)**: দুই বা ততোধিক মৌলের কয়েকটি পরমাণু পরস্পর যুক্ত হয়ে যে ধনাত্মক বা ঋণাত্মক আধানবিশিষ্ট পরমাণুগুচ্ছ তৈরি করে এবং রাসায়নিক বিক্রিয়ায় একটি মৌলের আয়নের মতো একক হিসেবে অংশ নেয়, তাকে যৌগমূলক বলে। **যৌগমূলকের যোজনী** = এর আধান সংখ্যা (চিহ্ন ছাড়া)।
+
+ধনাত্মক যৌগমূলককে (যেমন NH₄⁺) **ক্ষারীয় মূলক** এবং ঋণাত্মক যৌগমূলককে (যেমন SO₄²⁻, NO₃⁻) **অম্লীয় মূলক** বলে।
+## why
+যৌগমূলকের ভেতরে পরমাণুগুলো শক্ত সমযোজী বন্ধনে যুক্ত থাকে, তাই গুচ্ছটি ভাঙে না। কিন্তু পুরো গুচ্ছে প্রোটনের তুলনায় এক বা একাধিক ইলেকট্রন বেশি বা কম থাকে, তাই এর নিট আধান থাকে। এই আধানের জন্যই এটি বিপরীত আধানের আয়নকে আকর্ষণ করে সাধারণ আয়নের মতো আয়নিক যৌগ গঠন করে। নিজের আধানের সমান সংখ্যক বিপরীত আধান এর দরকার হয় বলে এর যোজনী আধানের মানের সমান।
+## terms
+যৌগমূলক (Radical) | একক হিসেবে আচরণকারী আধানযুক্ত পরমাণুগুচ্ছ
+আধান (Charge) | গুচ্ছের নিট বৈদ্যুতিক আধান, চিহ্নসহ (+১, −২ …)
+যৌগমূলকের যোজনী | চিহ্ন ছাড়া আধানের মান
+ক্ষারীয় মূলক (Basic radical) | ধনাত্মক যৌগমূলক, যেমন NH₄⁺
+অম্লীয় মূলক (Acid radical) | ঋণাত্মক যৌগমূলক, যেমন SO₄²⁻, NO₃⁻, CO₃²⁻
+## formula
+$$ যৌগমূলকের যোজনী = আধান সংখ্যা (চিহ্ন ছাড়া)
+! NH₄⁺, OH⁻, NO₃⁻, NO₂⁻, HCO₃⁻, HSO₄⁻: যোজনী ১
+! CO₃²⁻, SO₄²⁻, SO₃²⁻: যোজনী ২ · PO₄³⁻: যোজনী ৩
+## real
+চারপাশের প্যাকেটগুলো দেখো: **বেকিং সোডা** (সোডিয়াম হাইড্রোজেন কার্বনেট, NaHCO₃) পিঠা ও কেক ফোলায়; **কাপড় কাচা সোডা** (সোডিয়াম কার্বনেট, Na₂CO₃·10H₂O) দিয়ে কাপড় ধোয়া হয়; কৃষকেরা ধানখেতে **অ্যামোনিয়াম সালফেট** ((NH₄)₂SO₄) সার দেন; আর **তুঁতে** (কপার সালফেট, CuSO₄·5H₂O) দিয়ে ফসলকে ছত্রাক থেকে রক্ষা করা হয়। প্রতিটিতেই ওপরের কোনো না কোনো যৌগমূলক আছে।
+## example
+প্রশ্ন: আধান ও যোজনী লেখো: (ক) কার্বনেট, (খ) নাইট্রেট, (গ) ফসফেট, (ঘ) অ্যামোনিয়াম।
+সমাধান: (ক) CO₃²⁻: আধান −২, যোজনী ২।
+(খ) NO₃⁻: আধান −১, যোজনী ১।
+(গ) PO₄³⁻: আধান −৩, যোজনী ৩।
+(ঘ) NH₄⁺: আধান +১, যোজনী ১।
+> যোজনী মানে শুধু চিহ্ন বাদ দিয়ে আধানের সংখ্যাটি।
+উত্তর: ২, ১, ৩, ১।
+## example
+প্রশ্ন: প্রতিটি যৌগের যৌগমূলকের নাম লেখো: (ক) KNO₂, (খ) NaHSO₄, (গ) Na₂SO₃, (ঘ) NH₄OH।
+সমাধান: (ক) NO₂⁻: নাইট্রাইট। (খ) HSO₄⁻: হাইড্রোজেন সালফেট। (গ) SO₃²⁻: সালফাইট। (ঘ) NH₄⁺: অ্যামোনিয়াম ও OH⁻: হাইড্রোক্সাইড।
+> আগে ধাতুটি (বা NH₄) আলাদা করো; বাকি যা থাকে সেটাই অম্লীয় মূলক।
+উত্তর: নাইট্রাইট; হাইড্রোজেন সালফেট; সালফাইট; অ্যামোনিয়াম ও হাইড্রোক্সাইড।
+## mistakes
+x সালফেট হলো SO₄, যোজনী −২।
+v সালফেট হলো SO₄²⁻: আধান −২, কিন্তু যোজনী ২ (চিহ্ন নেই)।
+x নাইট্রেট আর নাইট্রাইট একই যৌগমূলক।
+v নাইট্রেট NO₃⁻ (তিনটি O), নাইট্রাইট NO₂⁻ (দুটি O); দুটিরই যোজনী ১।
+x অ্যামোনিয়াম (NH₄⁺) ধাতু, কারণ এটি NaCl-এর মতো লবণ তৈরি করে।
+v NH₄⁺-এ কোনো ধাতুই নেই; এটি একটি ধনাত্মক যৌগমূলক, যা শুধু ধাতব আয়নের মতো আচরণ করে।
+## remember
+- যৌগমূলক = একক হিসেবে বিক্রিয়াকারী আধানযুক্ত পরমাণুগুচ্ছ।
+- যৌগমূলকের যোজনী = চিহ্ন ছাড়া আধান।
+- যোজনী ১: NH₄⁺, PH₄⁺, OH⁻, NO₃⁻, NO₂⁻, HCO₃⁻, HSO₄⁻।
+- যোজনী ২: CO₃²⁻, SO₄²⁻, SO₃²⁻। যোজনী ৩: PO₄³⁻।
+- "-এট"-এ "-আইট"-এর চেয়ে একটি O বেশি; আধান একই।
+## think
+কার্বনেট হলো CO₃²⁻। এর সাথে একটি H⁺ যুক্ত হলে HCO₃⁻ হয়, যার আধান মাত্র −১। কেন?
+## quiz
+? ফসফেট যৌগমূলকের যোজনী:
+- ১
+- ২
+* ৩
+- ৪
+= ফসফেট হলো PO₄³⁻: আধান −৩, যোজনী ৩।
+? কোনটি ধনাত্মক যৌগমূলক?
+- SO₄²⁻
+* NH₄⁺
+- OH⁻
+- NO₃⁻
+= অ্যামোনিয়াম +১ আধান বহন করে।
+? সালফাইট যৌগমূলকের সংকেত:
+- SO₄²⁻
+* SO₃²⁻
+- HSO₄⁻
+- S²⁻
+= "-আইট"-এ "-এট"-এর চেয়ে একটি O কম: সালফাইট SO₃²⁻।
+? হাইড্রোজেন কার্বনেট হলো:
+- CO₃²⁻, যোজনী ২
+* HCO₃⁻, যোজনী ১
+- H₂CO₃, যোজনী ০
+- HCO₃²⁻, যোজনী ২
+= CO₃²⁻-এর সাথে H⁺ যুক্ত হলে আধান কমে −১ হয়: HCO₃⁻।
+
+@@ 5.4
+@visual k5criss
+@related 5.2 5.3 3.4 6.1.2
+== en
+## what
+To write the **formula of a compound** from valencies, write the positive part first, then the negative part, and give each one the other's valency as its subscript (the **criss-cross** or valency-exchange method); simplify if both numbers share a common factor, and put a radical in brackets when there is more than one of it.
+## simple
+You already know how to *read* a formula from [[3.4|Chapter 3]]. Now you will *write* one yourself, knowing only the valencies. The idea is simple: in a compound all the "hands" must be held. The total valency of one part must equal the total valency of the other.
+
+**Rule (a): elements on their own.** A molecule of an element gets a subscript for its number of atoms: nitrogen N₂, oxygen O₂, ozone O₃. Metals and noble gases are written with the symbol alone: Fe, Cu, He.
+
+**Rule (b): swap the valencies (criss-cross).**
+1. Write the symbols side by side, the metal (or positive radical) first: Al  O.
+2. Write each valency above its symbol: Al 3, O 2.
+3. Cross over: each valency goes down as the subscript of the *other* symbol. Al gets 2, O gets 3: **Al₂O₃**.
+4. A subscript of 1 is not written. Calcium chloride: Ca 2, Cl 1 → Ca₁Cl₂ → **CaCl₂**.
+
+**Brackets for radicals.** If a radical is needed more than once, put it in brackets and write the number outside: magnesium phosphate, Mg 2 and PO₄ 3 → **Mg₃(PO₄)₂**. Aluminium sulfate → **Al₂(SO₄)₃**. Ammonium phosphate → **(NH₄)₃PO₄**. No brackets if there is only one: NaOH, not Na(OH).
+
+**Rule (c): simplify when possible.** If both valencies can be divided by the same number, divide first. Carbon dioxide: C 4, O 2 → divide by 2 → 2 and 1 → C₁O₂ → **CO₂**. Ferrous sulfate: Fe 2, SO₄ 2 → 1 and 1 → **FeSO₄**. Boron nitride: B 3, N 3 → **BN**.
+
+**Always check your answer:** (valency × number) must be equal on both sides. Al₂O₃: 3 × 2 = 6 and 2 × 3 = 6. ✓
+## analogy
+Think of buying a set of matching cups and saucers when cups come in packs of 3 and saucers in packs of 2. To have the same number of each, you buy 2 packs of cups and 3 packs of saucers: 6 and 6. The criss-cross method does exactly that: each side takes the other's number so the totals match.
+## definition
+**Chemical formula (রাসায়নিক সংকেত) of a compound**: the representation of one molecule (or formula unit) of a compound using the symbols of its elements and/or the formulas of its radicals, with the number of each written as a subscript at the lower right.
+
+**Criss-cross (valency exchange) rule**: in a binary compound AₓBᵧ, x = valency of B and y = valency of A, after dividing both by any common factor, so that valency(A) × x = valency(B) × y.
+## why
+A compound is electrically neutral and every bond needs two partners. If aluminium can make 3 bonds and oxygen 2, then the smallest set in which all bonds are used is 2 Al (2 × 3 = 6 bonds) and 3 O (3 × 2 = 6 bonds). Swapping the valencies always gives this balance automatically; dividing by a common factor gives the simplest whole-number ratio.
+## terms
+Chemical formula (রাসায়নিক সংকেত) | Symbols plus subscripts showing the atoms in a compound
+Subscript | Small number at the lower right: how many of that atom or radical
+Criss-cross method | Each part takes the other's valency as its subscript
+Brackets ( ) | Used round a radical that appears more than once, e.g. (NO₃)₂
+## formula
+$$ AₓBᵧ: x = valency of B, y = valency of A (then simplify)
+$$ valency(A) × x = valency(B) × y
+! A subscript 1 is not written.
+! Put a radical in brackets only if its subscript is 2 or more: Ca(OH)₂ but NaOH.
+## visual
+Pick a positive part and a negative part. Watch the valencies cross over, see the numbers simplified, and check that the totals balance.
+## real
+Every medicine strip and fertiliser bag in Bangladesh lists chemical formulas written by exactly these rules: calcium carbonate CaCO₃ in calcium tablets, triple superphosphate made from calcium phosphate Ca₃(PO₄)₂-rich rock, potassium chloride KCl in MoP (muriate of potash) fertiliser, and aluminium sulfate Al₂(SO₄)₃ (alum's cousin) used at water treatment plants to settle mud.
+## example
+Q: Write the formula of aluminium sulfate.
+Given: valency of Al = 3; valency of sulfate (SO₄²⁻) = 2.
+Step: Al gets 2, SO₄ gets 3 → Al₂(SO₄)₃.
+> 3 and 2 have no common factor, so no simplifying. Sulfate is needed 3 times, so it goes in brackets.
+Step: Check: Al 3 × 2 = 6; SO₄ 2 × 3 = 6. ✓
+Answer: Al₂(SO₄)₃
+## example
+Q: Write the formulas of (a) calcium phosphate, (b) iron(III) oxide, (c) ammonium sulfate.
+Solution: (a) Ca 2, PO₄ 3 → Ca₃(PO₄)₂. Check 2 × 3 = 3 × 2 = 6.
+(b) Fe 3, O 2 → Fe₂O₃. Check 3 × 2 = 2 × 3 = 6.
+(c) NH₄ 1, SO₄ 2 → (NH₄)₂SO₄. Check 1 × 2 = 2 × 1 = 2.
+> In (c) the positive radical is the one needed twice, so NH₄ gets the brackets.
+Answer: Ca₃(PO₄)₂, Fe₂O₃, (NH₄)₂SO₄
+## example
+Q: Write the formula of the compound formed by carbon (valency 4) and sulfur (valency 2).
+Step: Swap: C₂S₄.
+Step: Both 2 and 4 divide by 2 → C₁S₂ → CS₂.
+> Always reduce to the simplest ratio (rule c), just as for CO₂.
+Answer: CS₂ (carbon disulfide)
+## mistakes
+x Aluminium oxide is Al₃O₂ (each keeps its own valency).
+v The valencies cross over: Al takes oxygen's 2, O takes aluminium's 3: Al₂O₃.
+x Ammonium sulfate is NH₄₂SO₄.
+v A radical needed more than once must be bracketed: (NH₄)₂SO₄.
+x Calcium oxide is Ca₂O₂.
+v Both valencies are 2; divide by 2 first: CaO.
+## remember
+- Positive part first, negative part second.
+- Swap valencies → subscripts; drop 1; divide by any common factor.
+- Radical used twice or more → brackets: Mg₃(PO₄)₂, Al₂(SO₄)₃, (NH₄)₃PO₄.
+- Check: valency × number is equal on both sides.
+## think
+Iron has valencies 2 and 3. Write the formulas of the two iron chlorides and the two iron oxides. Which pair would be called "ferrous" compounds?
+## quiz
+? The formula of magnesium phosphate is:
+- MgPO₄
+- Mg₂(PO₄)₃
+* Mg₃(PO₄)₂
+- Mg(PO₄)₂
+= Mg 2, PO₄ 3: swap to give Mg₃(PO₄)₂; check 2 × 3 = 3 × 2.
+? The valencies of C and O are 4 and 2. The formula of the compound is:
+- C₂O₄
+* CO₂
+- C₄O₂
+- CO
+= Swap gives C₂O₄; divide by 2 to get CO₂.
+? Which formula is written correctly?
+- Na(OH)
+- Ca(OH)
+* Ca(OH)₂
+- CaOH₂
+= Ca 2 and OH 1 give Ca(OH)₂; brackets are needed because OH appears twice.
+? Valency of X is 3 and of Y is 2. The compound is:
+- XY
+- X₃Y₂
+* X₂Y₃
+- XY₃
+= X takes Y's valency (2) and Y takes X's valency (3): X₂Y₃.
+== bn
+## what
+যোজনী থেকে **যৌগের সংকেত** লিখতে প্রথমে ধনাত্মক অংশ, পরে ঋণাত্মক অংশ লেখো, আর প্রতিটির নিচে ডান পাশে অপরটির যোজনী বসাও (**আড়াআড়ি** বা যোজনী বিনিময় পদ্ধতি); দুটি সংখ্যা একই সংখ্যা দিয়ে ভাগ গেলে সরল করো, আর কোনো যৌগমূলক একাধিকবার লাগলে তাকে বন্ধনীতে রাখো।
+## simple
+[[3.4|তৃতীয় অধ্যায়ে]] তুমি সংকেত *পড়তে* শিখেছ। এবার শুধু যোজনী জেনেই নিজে সংকেত *লিখবে*। মূল কথাটা সহজ: যৌগে সব "হাত" ধরা থাকতে হবে। এক অংশের মোট যোজনী অপর অংশের মোট যোজনীর সমান হতে হবে।
+
+**নিয়ম (ক): শুধু মৌল।** মৌলের অণুতে পরমাণুর সংখ্যা নিচে ছোট করে লেখা হয়: নাইট্রোজেন N₂, অক্সিজেন O₂, ওজোন O₃। ধাতু আর নিষ্ক্রিয় গ্যাস শুধু প্রতীক দিয়ে লেখা হয়: Fe, Cu, He।
+
+**নিয়ম (খ): যোজনী অদলবদল (আড়াআড়ি)।**
+১. প্রতীক দুটি পাশাপাশি লেখো, ধাতু (বা ধনাত্মক যৌগমূলক) আগে: Al  O।
+২. প্রতিটির ওপরে তার যোজনী লেখো: Al ৩, O ২।
+৩. আড়াআড়ি নামাও: প্রতিটি যোজনী *অন্য* প্রতীকের নিচে সংখ্যা হয়ে বসে। Al পায় ২, O পায় ৩: **Al₂O₃**।
+৪. নিচের সংখ্যা ১ হলে লেখা হয় না। ক্যালসিয়াম ক্লোরাইড: Ca ২, Cl ১ → Ca₁Cl₂ → **CaCl₂**।
+
+**যৌগমূলকের জন্য বন্ধনী।** কোনো যৌগমূলক একাধিকবার লাগলে তাকে প্রথম বন্ধনীতে রেখে বাইরে সংখ্যা লেখো: ম্যাগনেসিয়াম ফসফেট, Mg ২ ও PO₄ ৩ → **Mg₃(PO₄)₂**। অ্যালুমিনিয়াম সালফেট → **Al₂(SO₄)₃**। অ্যামোনিয়াম ফসফেট → **(NH₄)₃PO₄**। একটি থাকলে বন্ধনী লাগে না: NaOH, Na(OH) নয়।
+
+**নিয়ম (গ): সম্ভব হলে সরল করো।** দুটি যোজনী একই সংখ্যা দিয়ে ভাগ গেলে আগে ভাগ করো। কার্বন ডাই-অক্সাইড: C ৪, O ২ → ২ দিয়ে ভাগ → ২ ও ১ → C₁O₂ → **CO₂**। ফেরাস সালফেট: Fe ২, SO₄ ২ → ১ ও ১ → **FeSO₄**। বোরন নাইট্রাইড: B ৩, N ৩ → **BN**।
+
+**সবসময় উত্তর যাচাই করো:** দুই পাশে (যোজনী × সংখ্যা) সমান হতে হবে। Al₂O₃: ৩ × ২ = ৬ আর ২ × ৩ = ৬। ✓
+## analogy
+ধরো কাপ বিক্রি হয় ৩টির প্যাকেটে আর পিরিচ ২টির প্যাকেটে। সমান সংখ্যক কাপ-পিরিচ চাইলে কিনতে হবে ২ প্যাকেট কাপ আর ৩ প্যাকেট পিরিচ: ৬টি আর ৬টি। আড়াআড়ি পদ্ধতি ঠিক এটাই করে: প্রতিটি অংশ অপরটির সংখ্যা নেয়, ফলে মোট সমান হয়।
+## definition
+**যৌগের রাসায়নিক সংকেত (Chemical formula)**: মৌলের প্রতীক ও/অথবা যৌগমূলকের সংকেত এবং প্রতিটির সংখ্যা নিচে ডান পাশে ছোট করে লিখে যৌগের একটি অণুকে (বা সংকেত-একককে) প্রকাশ করার পদ্ধতি।
+
+**আড়াআড়ি (যোজনী বিনিময়) নিয়ম**: দ্বিমৌলিক যৌগ AₓBᵧ-তে x = B-এর যোজনী এবং y = A-এর যোজনী (সাধারণ গুণনীয়ক থাকলে তা দিয়ে ভাগ করে), যাতে A-এর যোজনী × x = B-এর যোজনী × y হয়।
+## why
+যৌগ বৈদ্যুতিকভাবে নিরপেক্ষ, আর প্রতিটি বন্ধনে দুজন অংশীদার লাগে। অ্যালুমিনিয়াম ৩টি আর অক্সিজেন ২টি বন্ধন গড়তে পারলে সবচেয়ে ছোট যে দলে সব বন্ধন কাজে লাগে তা হলো ২টি Al (২ × ৩ = ৬টি বন্ধন) আর ৩টি O (৩ × ২ = ৬টি বন্ধন)। যোজনী অদলবদল করলে এই সমতা আপনা থেকেই আসে; সাধারণ গুণনীয়ক দিয়ে ভাগ করলে পাওয়া যায় সবচেয়ে সরল পূর্ণসংখ্যার অনুপাত।
+## terms
+রাসায়নিক সংকেত (Chemical formula) | যৌগের পরমাণু বোঝাতে প্রতীক ও নিচের সংখ্যা
+পাদাঙ্ক (Subscript) | নিচে ডান পাশের ছোট সংখ্যা: ওই পরমাণু বা যৌগমূলক কয়টি
+আড়াআড়ি পদ্ধতি (Criss-cross) | প্রতিটি অংশ অপরটির যোজনীকে নিজের পাদাঙ্ক হিসেবে নেয়
+বন্ধনী ( ) | একাধিকবার আসা যৌগমূলকের চারপাশে, যেমন (NO₃)₂
+## formula
+$$ AₓBᵧ: x = B-এর যোজনী, y = A-এর যোজনী (তারপর সরল করো)
+$$ A-এর যোজনী × x = B-এর যোজনী × y
+! পাদাঙ্ক ১ লেখা হয় না।
+! যৌগমূলকের পাদাঙ্ক ২ বা তার বেশি হলেই শুধু বন্ধনী: Ca(OH)₂, কিন্তু NaOH।
+## visual
+একটি ধনাত্মক অংশ আর একটি ঋণাত্মক অংশ বেছে নাও। দেখো যোজনী কীভাবে আড়াআড়ি নামে, সংখ্যা কীভাবে সরল হয়, আর দুই পাশের মোট কীভাবে মিলে যায়।
+## real
+বাংলাদেশের প্রতিটি ওষুধের পাতা আর সারের বস্তায় এই নিয়মেই লেখা সংকেত থাকে: ক্যালসিয়াম ট্যাবলেটে ক্যালসিয়াম কার্বনেট CaCO₃, ফসফেট শিলার ক্যালসিয়াম ফসফেট Ca₃(PO₄)₂ থেকে তৈরি টিএসপি সার, এমওপি সারে পটাশিয়াম ক্লোরাইড KCl, আর পানি শোধনাগারে কাদা থিতাতে ব্যবহৃত অ্যালুমিনিয়াম সালফেট Al₂(SO₄)₃ (ফিটকিরির আত্মীয়)।
+## example
+প্রশ্ন: অ্যালুমিনিয়াম সালফেটের সংকেত লেখো।
+দেওয়া আছে: Al-এর যোজনী = ৩; সালফেটের (SO₄²⁻) যোজনী = ২।
+ধাপ: Al পায় ২, SO₄ পায় ৩ → Al₂(SO₄)₃।
+> ৩ আর ২-এর কোনো সাধারণ গুণনীয়ক নেই, তাই সরল করার কিছু নেই। সালফেট ৩ বার লাগছে, তাই বন্ধনীতে।
+ধাপ: যাচাই: Al ৩ × ২ = ৬; SO₄ ২ × ৩ = ৬। ✓
+উত্তর: Al₂(SO₄)₃
+## example
+প্রশ্ন: সংকেত লেখো: (ক) ক্যালসিয়াম ফসফেট, (খ) আয়রন(III) অক্সাইড, (গ) অ্যামোনিয়াম সালফেট।
+সমাধান: (ক) Ca ২, PO₄ ৩ → Ca₃(PO₄)₂। যাচাই ২ × ৩ = ৩ × ২ = ৬।
+(খ) Fe ৩, O ২ → Fe₂O₃। যাচাই ৩ × ২ = ২ × ৩ = ৬।
+(গ) NH₄ ১, SO₄ ২ → (NH₄)₂SO₄। যাচাই ১ × ২ = ২ × ১ = ২।
+> (গ)-তে ধনাত্মক যৌগমূলকটিই দুবার লাগছে, তাই বন্ধনী পাবে NH₄।
+উত্তর: Ca₃(PO₄)₂, Fe₂O₃, (NH₄)₂SO₄
+## example
+প্রশ্ন: কার্বন (যোজনী ৪) ও সালফার (যোজনী ২) দিয়ে গঠিত যৌগের সংকেত লেখো।
+ধাপ: অদলবদল: C₂S₄।
+ধাপ: ২ ও ৪ দুটিই ২ দিয়ে ভাগ যায় → C₁S₂ → CS₂।
+> CO₂-এর মতোই সবসময় সবচেয়ে সরল অনুপাতে নামাও (নিয়ম গ)।
+উত্তর: CS₂ (কার্বন ডাইসালফাইড)
+## mistakes
+x অ্যালুমিনিয়াম অক্সাইড হলো Al₃O₂ (প্রত্যেকে নিজের যোজনী রাখে)।
+v যোজনী আড়াআড়ি যায়: Al পায় অক্সিজেনের ২, O পায় অ্যালুমিনিয়ামের ৩: Al₂O₃।
+x অ্যামোনিয়াম সালফেট হলো NH₄₂SO₄।
+v একাধিকবার লাগা যৌগমূলক বন্ধনীতে রাখতে হয়: (NH₄)₂SO₄।
+x ক্যালসিয়াম অক্সাইড হলো Ca₂O₂।
+v দুটির যোজনীই ২; আগে ২ দিয়ে ভাগ করো: CaO।
+## remember
+- ধনাত্মক অংশ আগে, ঋণাত্মক অংশ পরে।
+- যোজনী অদলবদল → পাদাঙ্ক; ১ বাদ; সাধারণ গুণনীয়ক থাকলে ভাগ।
+- যৌগমূলক দুই বা ততোধিকবার → বন্ধনী: Mg₃(PO₄)₂, Al₂(SO₄)₃, (NH₄)₃PO₄।
+- যাচাই: দুই পাশে যোজনী × সংখ্যা সমান।
+## think
+আয়রনের যোজনী ২ ও ৩। আয়রনের দুটি ক্লোরাইড আর দুটি অক্সাইডের সংকেত লেখো। কোন জোড়াকে "ফেরাস" যৌগ বলা হবে?
+## quiz
+? ম্যাগনেসিয়াম ফসফেটের সংকেত:
+- MgPO₄
+- Mg₂(PO₄)₃
+* Mg₃(PO₄)₂
+- Mg(PO₄)₂
+= Mg ২, PO₄ ৩: অদলবদলে Mg₃(PO₄)₂; যাচাই ২ × ৩ = ৩ × ২।
+? C ও O-এর যোজনী ৪ ও ২। যৌগটির সংকেত:
+- C₂O₄
+* CO₂
+- C₄O₂
+- CO
+= অদলবদলে C₂O₄; ২ দিয়ে ভাগ করে CO₂।
+? কোন সংকেতটি সঠিকভাবে লেখা?
+- Na(OH)
+- Ca(OH)
+* Ca(OH)₂
+- CaOH₂
+= Ca ২ ও OH ১ থেকে Ca(OH)₂; OH দুবার আসায় বন্ধনী লাগে।
+? X-এর যোজনী ৩, Y-এর ২। যৌগটি:
+- XY
+- X₃Y₂
+* X₂Y₃
+- XY₃
+= X পায় Y-এর যোজনী (২), Y পায় X-এর যোজনী (৩): X₂Y₃।
+
+@@ 5.5
+@visual k5struct
+@related 5.4 5.11 3.4 11.2
+== en
+## what
+A **molecular formula** shows *which* atoms and *how many* are in a molecule (propane C₃H₈). A **structural formula** also shows *how the atoms are joined*, drawing each bond as a line (H–O–H for water).
+## simple
+Imagine two friends describe the same house. One says "it has 3 rooms and 8 windows." The other draws the floor plan. Both are correct, but the plan tells you much more. The **molecular formula** (আণবিক সংকেত) is the first description; the **structural formula** (গাঠনিক সংকেত) is the floor plan.
+
+**Water.** Molecular formula H₂O: two H and one O. Structural formula H–O–H: the O sits in the middle and holds each H with one bond. (Drawn with a bend, like a wide V, because that is closer to the real shape.)
+
+**Methane.** Molecular formula CH₄. Structural formula: the C in the centre with four lines going out to four H atoms, one up, one down, one left, one right.
+
+**Propane** (the gas in some LPG cylinders). Molecular formula C₃H₈. In the structural formula the three C atoms are joined in a chain, C–C–C, and the remaining bonds of each carbon are filled with H atoms, so that **every C has exactly 4 lines** and **every H has exactly 1 line**.
+
+**The lines are bonds.** Each line stands for one covalent bond (a shared pair of electrons, which you will learn in [[5.11|lesson 5.11]]). Count the lines around an atom and you get its **valency**: C 4, N 3, O 2, H 1, Cl 1. Two lines between the same pair (O=O, O=C=O) is a **double bond**; three lines (N≡N) is a **triple bond**.
+
+**Why bother?** Sometimes two different substances have the same molecular formula. C₂H₆O can be ethanol (the alcohol in spirit, CH₃–CH₂–OH) or dimethyl ether (CH₃–O–CH₃), a gas. Only the structural formula tells them apart.
+## analogy
+A molecular formula is like the list of ingredients on a packet of chanachur: it tells you what is inside and how much. A structural formula is like the recipe that shows how everything is put together. Same ingredients can make different dishes, just as C₂H₆O can be two different compounds.
+## definition
+**Molecular formula (আণবিক সংকেত)**: the formula that expresses one molecule of an element or compound using the symbols of the elements present and the actual number of atoms of each.
+
+**Structural formula (গাঠনিক সংকেত)**: the formula that shows how the atoms in a molecule are arranged and joined, using symbols for the atoms and lines for the bonds between them.
+## why
+A molecule's properties depend not only on which atoms it contains but on how they are connected. Bonds follow valency: carbon always makes 4 bonds, oxygen 2, nitrogen 3, hydrogen 1. So when you draw a structural formula, you are really checking that every atom's valency is satisfied. That is why structural formulas are the everyday language of organic chemistry.
+## terms
+Molecular formula (আণবিক সংকেত) | Symbols + actual number of each atom in one molecule
+Structural formula (গাঠনিক সংকেত) | Drawing showing which atom is joined to which, bonds as lines
+Single bond ( – ) | One shared pair of electrons
+Double bond ( = ) | Two shared pairs
+Triple bond ( ≡ ) | Three shared pairs
+## visual
+Choose a molecule. Compare its molecular formula with its structural formula, then tap "Count bonds" to see that the number of lines at each atom equals its valency.
+## real
+The LPG cylinders used for cooking in many Bangladeshi homes contain propane (C₃H₈) and butane (C₄H₁₀). The natural gas that comes through the Titas pipelines to Dhaka kitchens is mostly methane (CH₄). Chemists at the gas fields describe these fuels with structural formulas because the shape of the chain affects how the gas burns.
+## example
+Q: Draw the structural formula of ammonia (NH₃) and check the valencies.
+Solution: N is in the centre; three H atoms are each joined to N by one line: H–N–H with the third H below N.
+> N has 3 lines (valency 3); each H has 1 line (valency 1). The remaining two electrons on N form a lone pair and are not drawn as a line.
+Answer: N with three single bonds to three H atoms.
+## example
+Q: How many bonds in total are there in a propane molecule, C₃H₈?
+Solution: C–C bonds in the chain: 2. C–H bonds: 8 (one for every H).
+Calculation: 2 + 8 = 10 bonds.
+> Check with valency: 3 C × 4 = 12 and 8 H × 1 = 8; total 20 bond-ends, and each bond has 2 ends, so 20 ÷ 2 = 10.
+Answer: 10 single bonds.
+## mistakes
+x H₂O and H–O–H give exactly the same information.
+v H₂O only counts the atoms; H–O–H also shows that each H is joined to O, not to the other H.
+x In propane the H atoms can be joined to each other.
+v H has valency 1, so each H makes one bond, always to a C.
+x A double bond means two separate molecules.
+v A double bond is two shared electron pairs between the same two atoms, as in O=O.
+## remember
+- Molecular formula: which atoms and how many (C₃H₈).
+- Structural formula: how they are joined; each line = one bond.
+- Lines at an atom = valency: C 4, N 3, O 2, H 1.
+- Same molecular formula can hide different structures (C₂H₆O).
+## think
+Butane is C₄H₁₀. Can you draw two different structural formulas for it, one a straight chain and one with a branch?
+## quiz
+? The structural formula of a molecule shows:
+- only the number of atoms
+* how the atoms are joined to one another
+- only the mass of the molecule
+- only the state of the substance
+= It shows the arrangement of atoms and the bonds between them.
+? In a correct structural formula, each carbon atom has how many lines?
+- 1
+- 2
+- 3
+* 4
+= The valency of carbon is 4.
+? The molecular formula of propane is:
+- C₃H₆
+* C₃H₈
+- C₂H₆
+- CH₄
+= Three C in a chain; the rest of carbon's bonds are filled by 8 H.
+? How many bonds are there around the O atom in H–O–H?
+- 1
+* 2
+- 3
+- 4
+= Oxygen's valency is 2.
+== bn
+## what
+**আণবিক সংকেত** দেখায় অণুতে *কোন* পরমাণু *কয়টি* আছে (প্রোপেন C₃H₈)। **গাঠনিক সংকেত** এর সাথে দেখায় *পরমাণুগুলো কীভাবে যুক্ত*, প্রতিটি বন্ধনকে একটি রেখা দিয়ে (পানির জন্য H–O–H)।
+## simple
+ধরো দুই বন্ধু একই বাড়ির বর্ণনা দিচ্ছে। একজন বলল, "৩টা ঘর আর ৮টা জানালা।" অন্যজন বাড়ির নকশা এঁকে দেখাল। দুজনই ঠিক, কিন্তু নকশা থেকে অনেক বেশি জানা যায়। **আণবিক সংকেত** (Molecular formula) হলো প্রথম বর্ণনাটি; **গাঠনিক সংকেত** (Structural formula) হলো নকশা।
+
+**পানি।** আণবিক সংকেত H₂O: দুটি H ও একটি O। গাঠনিক সংকেত H–O–H: O মাঝখানে বসে একটি করে বন্ধন দিয়ে প্রতিটি H-কে ধরে রাখে। (একটু বাঁকিয়ে চওড়া V-এর মতো আঁকা হয়, কারণ আসল আকৃতি এর কাছাকাছি।)
+
+**মিথেন।** আণবিক সংকেত CH₄। গাঠনিক সংকেত: মাঝখানে C, সেখান থেকে চারটি রেখা চারটি H-এর দিকে, একটি ওপরে, একটি নিচে, একটি বামে, একটি ডানে।
+
+**প্রোপেন** (কিছু এলপিজি সিলিন্ডারের গ্যাস)। আণবিক সংকেত C₃H₈। গাঠনিক সংকেতে তিনটি C শিকলের মতো যুক্ত, C–C–C, আর প্রতিটি কার্বনের বাকি বন্ধনগুলো H দিয়ে পূর্ণ, যাতে **প্রতিটি C-এর ঠিক ৪টি রেখা** আর **প্রতিটি H-এর ঠিক ১টি রেখা** থাকে।
+
+**রেখাগুলোই বন্ধন।** প্রতিটি রেখা একটি সমযোজী বন্ধন (এক জোড়া ভাগাভাগি করা ইলেকট্রন, যা শিখবে [[5.11|পাঠ ৫.১১]]-এ)। কোনো পরমাণুর চারপাশের রেখা গুনলেই পাবে তার **যোজনী**: C ৪, N ৩, O ২, H ১, Cl ১। একই জোড়া পরমাণুর মাঝে দুটি রেখা (O=O, O=C=O) হলো **দ্বিবন্ধন**; তিনটি রেখা (N≡N) হলো **ত্রিবন্ধন**।
+
+**এত ঝামেলা কেন?** কখনো কখনো দুটি ভিন্ন পদার্থের আণবিক সংকেত একই হয়। C₂H₆O হতে পারে ইথানল (স্পিরিটের অ্যালকোহল, CH₃–CH₂–OH), আবার হতে পারে ডাইমিথাইল ইথার (CH₃–O–CH₃), যা একটি গ্যাস। শুধু গাঠনিক সংকেতই এদের আলাদা করে চেনায়।
+## analogy
+আণবিক সংকেত যেন চানাচুরের প্যাকেটের উপকরণের তালিকা: ভেতরে কী কী আর কতটুকু আছে তা বলে। গাঠনিক সংকেত যেন রেসিপি, যা দেখায় সব কীভাবে জোড়া লাগানো হয়েছে। একই উপকরণে ভিন্ন ভিন্ন খাবার হতে পারে, যেমন C₂H₆O দুটি ভিন্ন যৌগ হতে পারে।
+## definition
+**আণবিক সংকেত (Molecular formula)**: কোনো মৌল বা যৌগের অণুতে উপস্থিত মৌলগুলোর প্রতীক এবং প্রতিটির প্রকৃত পরমাণু সংখ্যা দিয়ে একটি অণুকে প্রকাশ করার সংকেত।
+
+**গাঠনিক সংকেত (Structural formula)**: পরমাণুর প্রতীক এবং তাদের মধ্যকার বন্ধনের জন্য রেখা ব্যবহার করে অণুতে পরমাণুগুলো কীভাবে সাজানো ও যুক্ত আছে তা প্রকাশ করার সংকেত।
+## why
+অণুর ধর্ম শুধু কোন পরমাণু আছে তার ওপর নয়, সেগুলো কীভাবে যুক্ত তার ওপরও নির্ভর করে। বন্ধন যোজনী মেনে চলে: কার্বন সবসময় ৪টি বন্ধন গড়ে, অক্সিজেন ২টি, নাইট্রোজেন ৩টি, হাইড্রোজেন ১টি। তাই গাঠনিক সংকেত আঁকা মানে আসলে যাচাই করা যে প্রতিটি পরমাণুর যোজনী পূর্ণ হয়েছে। এজন্যই জৈব রসায়নের রোজকার ভাষা হলো গাঠনিক সংকেত।
+## terms
+আণবিক সংকেত (Molecular formula) | একটি অণুতে প্রতীক + প্রতিটি পরমাণুর প্রকৃত সংখ্যা
+গাঠনিক সংকেত (Structural formula) | কোন পরমাণু কার সাথে যুক্ত তা দেখানো চিত্র, বন্ধন রেখা দিয়ে
+একবন্ধন ( – ) | এক জোড়া ভাগাভাগি করা ইলেকট্রন
+দ্বিবন্ধন ( = ) | দুই জোড়া ভাগাভাগি করা ইলেকট্রন
+ত্রিবন্ধন ( ≡ ) | তিন জোড়া ভাগাভাগি করা ইলেকট্রন
+## visual
+একটি অণু বেছে নাও। এর আণবিক সংকেতের সাথে গাঠনিক সংকেত মিলিয়ে দেখো, তারপর "বন্ধন গোনো" চাপ দিয়ে দেখো প্রতিটি পরমাণুর রেখার সংখ্যা তার যোজনীর সমান।
+## real
+বাংলাদেশের অনেক বাড়িতে রান্নার এলপিজি সিলিন্ডারে থাকে প্রোপেন (C₃H₈) ও বিউটেন (C₄H₁₀)। তিতাসের পাইপলাইন দিয়ে ঢাকার রান্নাঘরে যে প্রাকৃতিক গ্যাস আসে, তার প্রায় পুরোটাই মিথেন (CH₄)। গ্যাসক্ষেত্রের রসায়নবিদেরা এসব জ্বালানিকে গাঠনিক সংকেত দিয়ে বর্ণনা করেন, কারণ শিকলের আকৃতি গ্যাসটি কীভাবে জ্বলবে তাতে প্রভাব ফেলে।
+## example
+প্রশ্ন: অ্যামোনিয়ার (NH₃) গাঠনিক সংকেত আঁকো এবং যোজনী যাচাই করো।
+সমাধান: মাঝখানে N; তিনটি H প্রতিটি একটি রেখা দিয়ে N-এর সাথে যুক্ত: H–N–H, আর তৃতীয় H টি N-এর নিচে।
+> N-এর ৩টি রেখা (যোজনী ৩); প্রতিটি H-এর ১টি রেখা (যোজনী ১)। N-এর বাকি দুটি ইলেকট্রন একটি নিঃসঙ্গ জোড়, রেখা দিয়ে আঁকা হয় না।
+উত্তর: N তিনটি একবন্ধন দিয়ে তিনটি H-এর সাথে যুক্ত।
+## example
+প্রশ্ন: একটি প্রোপেন অণুতে (C₃H₈) মোট কয়টি বন্ধন আছে?
+সমাধান: শিকলে C–C বন্ধন: ২টি। C–H বন্ধন: ৮টি (প্রতিটি H-এর জন্য একটি)।
+হিসাব: ২ + ৮ = ১০টি বন্ধন।
+> যোজনী দিয়ে যাচাই: ৩টি C × ৪ = ১২ আর ৮টি H × ১ = ৮; মোট ২০টি বন্ধন-প্রান্ত, আর প্রতিটি বন্ধনের ২টি প্রান্ত, তাই ২০ ÷ ২ = ১০।
+উত্তর: ১০টি একবন্ধন।
+## mistakes
+x H₂O আর H–O–H হুবহু একই তথ্য দেয়।
+v H₂O শুধু পরমাণু গোনে; H–O–H আরও দেখায় যে প্রতিটি H যুক্ত O-এর সাথে, অন্য H-এর সাথে নয়।
+x প্রোপেনে H পরমাণুগুলো একে অপরের সাথেও যুক্ত থাকতে পারে।
+v H-এর যোজনী ১, তাই প্রতিটি H একটিই বন্ধন গড়ে, সবসময় কোনো C-এর সাথে।
+x দ্বিবন্ধন মানে দুটি আলাদা অণু।
+v দ্বিবন্ধন মানে একই দুটি পরমাণুর মাঝে দুই জোড়া ভাগাভাগি করা ইলেকট্রন, যেমন O=O।
+## remember
+- আণবিক সংকেত: কোন পরমাণু, কয়টি (C₃H₈)।
+- গাঠনিক সংকেত: কীভাবে যুক্ত; প্রতিটি রেখা = একটি বন্ধন।
+- কোনো পরমাণুর রেখার সংখ্যা = যোজনী: C ৪, N ৩, O ২, H ১।
+- একই আণবিক সংকেতে ভিন্ন গঠন লুকিয়ে থাকতে পারে (C₂H₆O)।
+## think
+বিউটেনের সংকেত C₄H₁₀। তুমি কি এর দুটি ভিন্ন গাঠনিক সংকেত আঁকতে পারবে, একটি সোজা শিকল আর একটি শাখাযুক্ত?
+## quiz
+? কোনো অণুর গাঠনিক সংকেত দেখায়:
+- শুধু পরমাণুর সংখ্যা
+* পরমাণুগুলো একে অপরের সাথে কীভাবে যুক্ত
+- শুধু অণুর ভর
+- শুধু পদার্থের অবস্থা
+= এটি পরমাণুর সজ্জা আর তাদের মধ্যকার বন্ধন দেখায়।
+? সঠিক গাঠনিক সংকেতে প্রতিটি কার্বন পরমাণুর কয়টি রেখা থাকে?
+- ১
+- ২
+- ৩
+* ৪
+= কার্বনের যোজনী ৪।
+? প্রোপেনের আণবিক সংকেত:
+- C₃H₆
+* C₃H₈
+- C₂H₆
+- CH₄
+= শিকলে তিনটি C; কার্বনের বাকি বন্ধনগুলো ৮টি H দিয়ে পূর্ণ।
+? H–O–H-এ O পরমাণুর চারপাশে কয়টি বন্ধন?
+- ১
+* ২
+- ৩
+- ৪
+= অক্সিজেনের যোজনী ২।
+
+@@ 5.6
+@visual k5octet
+@related 5.7 5.8 5.11 5.1
+== en
+## what
+**Octet rule**: when atoms form a molecule, they give, take or share electrons so that each ends up with **8 electrons** in its outer shell, like a noble gas. **Duet rule**: hydrogen (like helium) is stable with **2** electrons; the textbook states the duet rule more broadly: in a molecule every atom's outer shell holds its electrons **in pairs** (one or more pairs).
+## simple
+Neon, argon and the other noble gases (except helium) have **8 electrons** in their outer shell, and they are extremely stable. Other atoms "want" the same comfortable arrangement. When they form molecules they give away, take or share electrons until they too have 8 in the outer shell. This is the **octet rule** (অষ্টক নিয়ম). "Octet" simply means a group of eight.
+
+**See it in methane, CH₄.** Carbon has 4 valence electrons. Each of the four H atoms brings 1 electron and shares it with carbon. Count around the carbon: 4 of its own + 4 from the hydrogens = **8**. Octet complete!
+
+**What about hydrogen?** Hydrogen has only one shell, the K shell, which is full with **2** electrons, just like helium. In CH₄ each H shares a pair with C, so each H has 2: a **duet** (দ্বিত্ব). For hydrogen (and for ions such as Li⁺ and Be²⁺, which end up with helium's arrangement), 2 is the "full" number.
+
+**The octet rule has limits.** In beryllium chloride (BeCl₂), the Be atom in the middle has only **4** electrons around it (2 pairs). In boron trifluoride (BF₃), the B atom has only **6** (3 pairs). Neither reaches 8, yet both molecules exist. To cover such cases your textbook gives a broader **duet rule** (দুই-এর নিয়ম): *in a molecule, the outer shell of every atom holds one or more **pairs** of electrons.* Check it:
+- BeCl₂: Be has 2 pairs; each Cl has 4 pairs.
+- BF₃: B has 3 pairs; each F has 4 pairs.
+- CH₄: C has 4 pairs; each H has 1 pair.
+
+Every atom has its electrons in whole pairs, so every atom obeys this rule. Note that many other books use "duet (duplet) rule" only in the narrow sense, for H and He-like atoms with 2 electrons. Both ideas are useful; just remember which one a question means.
+
+For Class 9–10, elements 1 to 20 of the periodic table follow the octet and duet rules quite well.
+## analogy
+Think of a school bench made for 8 students. Any group sitting on it feels settled only when all 8 seats are filled. Atoms are like students who keep shuffling (giving, taking or sharing seats) until the bench is full. For the little first-row bench (hydrogen's shell), 2 students are enough.
+## definition
+**Octet rule (অষ্টক নিয়ম)**: during the formation of a molecule, atoms of elements donate, accept or share electrons so that each attains 8 electrons in its outermost shell, the electronic configuration of the nearest noble gas.
+
+**Duet rule (দুই-এর নিয়ম)**, as stated in the textbook: in a molecule, the outermost shell of every atom holds one or more pairs of electrons, just as noble gases hold 2 or 8 electrons. (Narrow sense used in many books: atoms such as H attain 2 electrons in their outer shell, like helium.)
+## why
+An outer shell of 8 (ns² np⁶), or a filled K shell of 2, is a very low-energy, stable arrangement: it is exactly what noble gases have, and they hardly react. By bonding, other atoms lower their energy and reach the same arrangement. Electrons also tend to settle in pairs with opposite spins, which is why even atoms that do not reach 8 (Be in BeCl₂, B in BF₃) still hold their electrons in pairs.
+## terms
+Octet (অষ্টক) | 8 electrons in the outermost shell
+Duet (দ্বিত্ব) | 2 electrons in the outermost shell (like He)
+Octet rule | Atoms bond to get 8 outer electrons
+Duet rule (দুই-এর নিয়ম) | Every atom in a molecule has its outer electrons in pairs (book's statement)
+Central atom | The atom in the middle of a molecule, joined to all the others (C in CH₄)
+## formula
+$$ electrons around an atom = 2 × (bonds) + 2 × (lone pairs)
+! Octet: total = 8. Duet: total = 2 for H.
+! BeCl₂: Be has 4 (2 pairs); BF₃: B has 6 (3 pairs): octet not reached, but electrons are in pairs.
+## visual
+Pick a molecule and tap each atom. The widget counts the electrons around that atom (shared pairs + lone pairs) and tells you whether it has an octet, a duet, or just pairs.
+## real
+The gas used to fill party balloons at Bangladeshi fairs is often hydrogen, which is dangerous because it burns, while helium is safe because its duet is already complete and it never burns. The same octet idea explains why nitrogen gas (N₂, each N with an octet) makes up most of the air and is so unreactive that it is used to fill packets of chips to keep them fresh.
+## example
+Q: Show that every atom in carbon tetrachloride (CCl₄) obeys the octet rule.
+Solution: C has 4 valence electrons; each Cl has 7.
+Step: C shares one pair with each of 4 Cl: 4 pairs = 8 electrons around C.
+Step: Each Cl has 1 shared pair + 3 lone pairs = 4 pairs = 8 electrons.
+> Count shared electrons for both atoms that share them.
+Answer: C has 8 and each Cl has 8, so the octet rule is obeyed by all atoms.
+## example
+Q: In BF₃, how many electrons are around B and around each F? Does B obey the octet rule? Does it obey the duet (pair) rule?
+Solution: B has 3 valence electrons and forms 3 shared pairs with 3 F atoms: 3 pairs = 6 electrons.
+Step: Each F: 1 shared pair + 3 lone pairs = 4 pairs = 8 electrons.
+Answer: B has 6 (not an octet), each F has 8. All atoms hold electrons in pairs, so the book's duet rule is obeyed.
+## mistakes
+x Hydrogen needs 8 electrons to be stable.
+v Hydrogen's only shell is full with 2, like helium: a duet.
+x Every atom in every molecule has exactly 8 outer electrons.
+v There are exceptions: Be in BeCl₂ has 4, B in BF₃ has 6.
+x In CH₄, carbon has 8 electrons of its own.
+v Only 4 are its own; the other 4 come from the hydrogen atoms and are shared.
+## remember
+- Octet rule: atoms bond to get 8 outer electrons (noble-gas configuration).
+- Hydrogen is stable with 2 (duet), like helium.
+- Book's duet rule: every atom in a molecule holds outer electrons in pairs.
+- Exceptions to the octet: BeCl₂ (Be: 4), BF₃ (B: 6).
+- Elements 1–20 mostly follow these rules.
+## think
+In water, H₂O, count the electrons around the O atom and around each H. Which rule does each atom satisfy?
+## quiz
+? In methane (CH₄), how many electrons are around the carbon atom?
+- 4
+- 6
+* 8
+- 10
+= 4 of its own + 4 shared from the H atoms = 8.
+? Which atom does NOT reach an octet?
+- C in CH₄
+- Cl in CCl₄
+* B in BF₃
+- O in H₂O
+= B in BF₃ has only 3 pairs, i.e. 6 electrons.
+? Hydrogen becomes stable with how many electrons in its shell?
+* 2
+- 4
+- 6
+- 8
+= Its only (K) shell holds 2, like helium.
+? According to the textbook's duet rule, the outer electrons of every atom in a molecule are present:
+- singly
+* in pairs
+- in groups of three
+- only as 8
+= The rule says each atom holds one or more pairs of electrons.
+== bn
+## what
+**অষ্টক নিয়ম**: অণু গঠনের সময় পরমাণুগুলো ইলেকট্রন দেয়, নেয় বা ভাগাভাগি করে, যাতে প্রত্যেকের সর্বশেষ কক্ষপথে নিষ্ক্রিয় গ্যাসের মতো **৮টি ইলেকট্রন** হয়। **দুই-এর নিয়ম**: হাইড্রোজেন (হিলিয়ামের মতো) **২টি** ইলেকট্রনে স্থিতিশীল; পাঠ্যবইয়ে দুই-এর নিয়মকে আরও বড় করে বলা হয়েছে: অণুতে প্রতিটি পরমাণুর সর্বশেষ কক্ষপথের ইলেকট্রনগুলো **জোড়ায় জোড়ায়** (এক বা একাধিক জোড়া) থাকে।
+## simple
+নিয়ন, আর্গনসহ নিষ্ক্রিয় গ্যাসগুলোর (হিলিয়াম বাদে) বাইরের কক্ষপথে থাকে **৮টি ইলেকট্রন**, আর এরা ভীষণ স্থিতিশীল। অন্য পরমাণুরাও এই আরামদায়ক বিন্যাস "চায়"। অণু গঠনের সময় তারা ইলেকট্রন ছেড়ে দেয়, নেয় বা ভাগাভাগি করে, যতক্ষণ না তাদের বাইরের কক্ষপথেও ৮টি হয়। এটাই **অষ্টক নিয়ম** (Octet rule)। "অষ্টক" মানে আটের দল।
+
+**মিথেনে (CH₄) দেখো।** কার্বনের যোজ্যতা ইলেকট্রন ৪টি। চারটি H পরমাণুর প্রত্যেকে ১টি করে ইলেকট্রন এনে কার্বনের সাথে ভাগাভাগি করে। কার্বনের চারপাশে গোনো: নিজের ৪টি + হাইড্রোজেন থেকে ৪টি = **৮টি**। অষ্টক পূর্ণ!
+
+**আর হাইড্রোজেন?** হাইড্রোজেনের একটিই কক্ষপথ, K, যা **২টি** ইলেকট্রনেই পূর্ণ, ঠিক হিলিয়ামের মতো। CH₄-এ প্রতিটি H কার্বনের সাথে এক জোড়া ভাগাভাগি করে, তাই প্রতিটি H-এর ২টি: একটি **দ্বিত্ব** (Duet)। হাইড্রোজেনের জন্য (আর Li⁺, Be²⁺-এর মতো আয়নের জন্য, যারা হিলিয়ামের বিন্যাস পায়) ২-ই হলো "পূর্ণ" সংখ্যা।
+
+**অষ্টক নিয়মের সীমাবদ্ধতা আছে।** বেরিলিয়াম ক্লোরাইডে (BeCl₂) মাঝখানের Be পরমাণুর চারপাশে মাত্র **৪টি** ইলেকট্রন (২ জোড়া)। বোরন ট্রাইফ্লোরাইডে (BF₃) B-এর চারপাশে মাত্র **৬টি** (৩ জোড়া)। কেউই ৮-এ পৌঁছায় না, তবু অণু দুটি দিব্যি আছে। এমন ক্ষেত্রগুলো ব্যাখ্যা করতে তোমার পাঠ্যবই একটি বড় পরিসরের **দুই-এর নিয়ম** (Duet rule) দিয়েছে: *অণুতে প্রতিটি পরমাণুর সর্বশেষ কক্ষপথে এক বা একাধিক **জোড়া** ইলেকট্রন থাকে।* যাচাই করো:
+- BeCl₂: Be-এর ২ জোড়া; প্রতিটি Cl-এর ৪ জোড়া।
+- BF₃: B-এর ৩ জোড়া; প্রতিটি F-এর ৪ জোড়া।
+- CH₄: C-এর ৪ জোড়া; প্রতিটি H-এর ১ জোড়া।
+
+প্রতিটি পরমাণুর ইলেকট্রন পূর্ণ জোড়ায় আছে, তাই সবাই এই নিয়ম মানে। খেয়াল রেখো, অনেক বইয়ে "দুই-এর নিয়ম" (duet/duplet rule) শুধু সংকীর্ণ অর্থে ব্যবহার হয়, অর্থাৎ হাইড্রোজেনের মতো পরমাণু হিলিয়ামের মতো ২টি ইলেকট্রন পায়। দুটি ধারণাই কাজের; শুধু প্রশ্নে কোনটা বোঝানো হচ্ছে সেটা খেয়াল রাখো।
+
+নবম-দশম শ্রেণির জন্য, পর্যায় সারণির ১ থেকে ২০ নম্বর মৌলগুলো অষ্টক ও দুই-এর নিয়ম বেশ ভালোভাবেই মেনে চলে।
+## analogy
+ক্লাসের একটা লম্বা বেঞ্চের কথা ভাবো, যেখানে ৮ জন বসতে পারে। বেঞ্চের ৮টি জায়গা ভরলেই দলটা স্থির হয়ে বসে। পরমাণুগুলো যেন সেই ছাত্রছাত্রী, যারা জায়গা ছেড়ে দিয়ে, নিয়ে বা ভাগাভাগি করে নড়াচড়া করতে থাকে, যতক্ষণ না বেঞ্চ ভরে। প্রথম সারির ছোট্ট বেঞ্চের (হাইড্রোজেনের কক্ষপথ) জন্য ২ জনই যথেষ্ট।
+## definition
+**অষ্টক নিয়ম (Octet rule)**: অণু গঠনকালে মৌলের পরমাণুগুলো ইলেকট্রন বর্জন, গ্রহণ বা ভাগাভাগির মাধ্যমে তাদের সর্বশেষ শক্তিস্তরে ৮টি ইলেকট্রন ধারণ করে নিকটতম নিষ্ক্রিয় গ্যাসের ইলেকট্রন বিন্যাস লাভ করে।
+
+**দুই-এর নিয়ম (Duet rule)**, পাঠ্যবই অনুযায়ী: নিষ্ক্রিয় গ্যাসগুলোর সর্বশেষ শক্তিস্তরে যেমন ২টি বা ৮টি ইলেকট্রন থাকে, তেমনি অণু গঠনে প্রতিটি পরমাণুর সর্বশেষ শক্তিস্তরে এক বা একাধিক জোড়া ইলেকট্রন থাকে। (অনেক বইয়ে সংকীর্ণ অর্থে: H-এর মতো পরমাণু হিলিয়ামের মতো সর্বশেষ কক্ষপথে ২টি ইলেকট্রন লাভ করে।)
+## why
+বাইরের কক্ষপথে ৮টি (ns² np⁶), বা পূর্ণ K কক্ষপথে ২টি ইলেকট্রন খুবই কম শক্তির, স্থিতিশীল বিন্যাস: নিষ্ক্রিয় গ্যাসের ঠিক এটাই আছে, আর তারা প্রায় বিক্রিয়াই করে না। বন্ধন গঠন করে অন্য পরমাণুরাও নিজেদের শক্তি কমায় এবং একই বিন্যাসে পৌঁছায়। ইলেকট্রনগুলো বিপরীত ঘূর্ণনে জোড় বেঁধে থাকতেও পছন্দ করে; এজন্যই যেসব পরমাণু ৮-এ পৌঁছায় না (BeCl₂-এ Be, BF₃-এ B), তারাও ইলেকট্রন জোড়ায় জোড়ায় রাখে।
+## terms
+অষ্টক (Octet) | সর্বশেষ কক্ষপথে ৮টি ইলেকট্রন
+দ্বিত্ব (Duet) | সর্বশেষ কক্ষপথে ২টি ইলেকট্রন (He-এর মতো)
+অষ্টক নিয়ম | ৮টি বাইরের ইলেকট্রন পেতে পরমাণুর বন্ধন গঠন
+দুই-এর নিয়ম (Duet rule) | অণুতে প্রতিটি পরমাণুর বাইরের ইলেকট্রন জোড়ায় জোড়ায় থাকে (বই অনুযায়ী)
+কেন্দ্রীয় পরমাণু | অণুর মাঝখানের পরমাণু, যার সাথে বাকি সবাই যুক্ত (CH₄-এ C)
+## formula
+$$ কোনো পরমাণুর চারপাশের ইলেকট্রন = ২ × (বন্ধন সংখ্যা) + ২ × (নিঃসঙ্গ জোড়)
+! অষ্টক: মোট = ৮। দ্বিত্ব: H-এর জন্য মোট = ২।
+! BeCl₂: Be-এর ৪টি (২ জোড়া); BF₃: B-এর ৬টি (৩ জোড়া): অষ্টক হয়নি, কিন্তু ইলেকট্রন জোড়ায় জোড়ায়।
+## visual
+একটি অণু বেছে নাও আর প্রতিটি পরমাণুতে চাপ দাও। উইজেটটি ওই পরমাণুর চারপাশের ইলেকট্রন গুনে (ভাগাভাগি জোড় + নিঃসঙ্গ জোড়) বলে দেবে এটি অষ্টক, দ্বিত্ব, নাকি শুধু জোড়ায় জোড়ায়।
+## real
+বাংলাদেশের মেলায় বেলুন ফোলানোর গ্যাস অনেক সময় হাইড্রোজেন, যা বিপজ্জনক কারণ এটি জ্বলে; অথচ হিলিয়াম নিরাপদ, কারণ এর দ্বিত্ব আগে থেকেই পূর্ণ, তাই এটি কখনো জ্বলে না। একই অষ্টকের ধারণা ব্যাখ্যা করে কেন নাইট্রোজেন গ্যাস (N₂, প্রতিটি N-এর অষ্টক পূর্ণ) বাতাসের বেশিরভাগ অংশ, আর এত নিষ্ক্রিয় যে চিপসের প্যাকেটে ভরে দেওয়া হয় যাতে চিপস তাজা থাকে।
+## example
+প্রশ্ন: দেখাও যে কার্বন টেট্রাক্লোরাইডের (CCl₄) প্রতিটি পরমাণু অষ্টক নিয়ম মেনে চলে।
+সমাধান: C-এর যোজ্যতা ইলেকট্রন ৪টি; প্রতিটি Cl-এর ৭টি।
+ধাপ: C চারটি Cl-এর প্রত্যেকের সাথে এক জোড়া ভাগাভাগি করে: ৪ জোড়া = C-এর চারপাশে ৮টি ইলেকট্রন।
+ধাপ: প্রতিটি Cl: ১টি ভাগাভাগি জোড় + ৩টি নিঃসঙ্গ জোড় = ৪ জোড়া = ৮টি ইলেকট্রন।
+> ভাগাভাগি করা ইলেকট্রন দুই পরমাণুর জন্যই গোনা হয়।
+উত্তর: C-এর ৮টি এবং প্রতিটি Cl-এর ৮টি, তাই সব পরমাণু অষ্টক নিয়ম মানে।
+## example
+প্রশ্ন: BF₃-এ B-এর চারপাশে এবং প্রতিটি F-এর চারপাশে কয়টি ইলেকট্রন? B কি অষ্টক নিয়ম মানে? দুই-এর (জোড়ের) নিয়ম মানে কি?
+সমাধান: B-এর যোজ্যতা ইলেকট্রন ৩টি, এটি ৩টি F-এর সাথে ৩টি ভাগাভাগি জোড় গড়ে: ৩ জোড়া = ৬টি ইলেকট্রন।
+ধাপ: প্রতিটি F: ১টি ভাগাভাগি জোড় + ৩টি নিঃসঙ্গ জোড় = ৪ জোড়া = ৮টি ইলেকট্রন।
+উত্তর: B-এর ৬টি (অষ্টক নয়), প্রতিটি F-এর ৮টি। সব পরমাণুর ইলেকট্রন জোড়ায় জোড়ায়, তাই বইয়ের দুই-এর নিয়ম মানা হয়েছে।
+## mistakes
+x স্থিতিশীল হতে হাইড্রোজেনের ৮টি ইলেকট্রন লাগে।
+v হাইড্রোজেনের একমাত্র কক্ষপথ হিলিয়ামের মতো ২টিতেই পূর্ণ: দ্বিত্ব।
+x প্রতিটি অণুর প্রতিটি পরমাণুর বাইরে ঠিক ৮টি ইলেকট্রন থাকে।
+v ব্যতিক্রম আছে: BeCl₂-এ Be-এর ৪টি, BF₃-এ B-এর ৬টি।
+x CH₄-এ কার্বনের নিজেরই ৮টি ইলেকট্রন।
+v নিজের মাত্র ৪টি; বাকি ৪টি হাইড্রোজেন থেকে আসে, ভাগাভাগি করা।
+## remember
+- অষ্টক নিয়ম: পরমাণু বন্ধন গড়ে বাইরে ৮টি ইলেকট্রন (নিষ্ক্রিয় গ্যাসের বিন্যাস) পায়।
+- হাইড্রোজেন ২টিতে (দ্বিত্ব) স্থিতিশীল, হিলিয়ামের মতো।
+- বইয়ের দুই-এর নিয়ম: অণুতে প্রতিটি পরমাণুর বাইরের ইলেকট্রন জোড়ায় জোড়ায়।
+- অষ্টকের ব্যতিক্রম: BeCl₂ (Be: ৪), BF₃ (B: ৬)।
+- ১–২০ নম্বর মৌল মূলত এই নিয়মগুলো মানে।
+## think
+পানিতে (H₂O) O পরমাণুর চারপাশে আর প্রতিটি H-এর চারপাশে ইলেকট্রন গোনো। কোন পরমাণু কোন নিয়ম পূরণ করে?
+## quiz
+? মিথেনে (CH₄) কার্বন পরমাণুর চারপাশে কয়টি ইলেকট্রন?
+- ৪
+- ৬
+* ৮
+- ১০
+= নিজের ৪টি + H পরমাণু থেকে ভাগাভাগি ৪টি = ৮টি।
+? কোন পরমাণুটি অষ্টক পূর্ণ করে না?
+- CH₄-এ C
+- CCl₄-এ Cl
+* BF₃-এ B
+- H₂O-তে O
+= BF₃-এ B-এর মাত্র ৩ জোড়া, অর্থাৎ ৬টি ইলেকট্রন।
+? হাইড্রোজেন কক্ষপথে কয়টি ইলেকট্রন পেলে স্থিতিশীল হয়?
+* ২
+- ৪
+- ৬
+- ৮
+= এর একমাত্র (K) কক্ষপথ হিলিয়ামের মতো ২টি ধরে।
+? পাঠ্যবইয়ের দুই-এর নিয়ম অনুযায়ী অণুতে প্রতিটি পরমাণুর বাইরের ইলেকট্রন থাকে:
+- একটি একটি করে
+* জোড়ায় জোড়ায়
+- তিনটি তিনটি করে
+- শুধু ৮টি করে
+= নিয়মটি বলে, প্রতিটি পরমাণুতে এক বা একাধিক জোড়া ইলেকট্রন থাকে।
+
+@@ 5.7
+@related 5.6 5.8 5.1 4.4
+== en
+## what
+The **noble gases** (inert gases, Group 18: He, Ne, Ar, Kr, Xe, Rn) have a completely filled outer shell: 2 electrons for helium (a duet) and 8 electrons (ns² np⁶) for all the others (an octet). This full outer shell makes them very stable, so they hardly react with anything.
+## simple
+Look at the electron arrangements of the noble gases, written shell by shell:
+- He (2): 2
+- Ne (10): 2, 8
+- Ar (18): 2, 8, 8
+- Kr (36): 2, 8, 18, 8
+- Xe (54): 2, 8, 18, 18, 8
+- Rn (86): 2, 8, 18, 32, 18, 8
+
+Do you see the pattern? The last shell always has **8**, except helium, whose only shell (K) can hold just **2** and is already full. In subshell language, every noble gas except He ends in **ns² np⁶**. For example Ne is 1s² 2s² 2p⁶ and Ar is 1s² 2s² 2p⁶ 3s² 3p⁶.
+
+**Why is this so special?** A full outer shell is the most comfortable, lowest-energy arrangement an atom can have. A noble-gas atom has nothing to gain by giving away an electron (it would break its full shell) and nothing to gain by taking one (there is no room left in that shell). So it neither gives nor takes electrons, and it does not need to share them either. Chemists say it has no "chemical appetite": it is **inert**.
+
+**Everyone else is jealous.** No other element has this full outer shell as a free atom. Sodium (2, 8, 1) has one electron too many; chlorine (2, 8, 7) has one too few. So every other atom tries to reach a noble-gas arrangement by **giving, taking or sharing** electrons with other atoms, and that is exactly what forms chemical bonds. The noble gases are the "target" that every other atom is aiming for.
+
+**A small note.** Your book says noble gases never give or take electrons. Under ordinary conditions that is true. But scientists have made a few compounds of the heavier noble gases in special conditions, for example xenon tetrafluoride (XeF₄), with very reactive fluorine. Helium, neon and argon form no stable compounds at all.
+## analogy
+Think of a full bus on the Dhaka–Chattogram highway with every seat taken and no standing room. Nobody wants to get off (they have their seats) and nobody can get on (there is no space). The bus just drives on, "uninterested" in the stops. A noble-gas atom with its full outer shell is like that full bus.
+## definition
+**Noble (inert) gases (নিষ্ক্রিয় গ্যাস)**: the elements of Group 18 of the periodic table (He, Ne, Ar, Kr, Xe, Rn), whose atoms have a completely filled outermost shell (2 electrons for He, ns² np⁶ for the rest) and which therefore show almost no tendency to give, accept or share electrons.
+
+**Stable electronic configuration (স্থিতিশীল ইলেকট্রন বিন্যাস)**: an outermost shell containing 2 electrons (duet, when it is the K shell) or 8 electrons (octet).
+## why
+An atom's energy is lowest when its outermost shell is full. Removing an electron from a noble gas needs a very large ionization energy, because the electron would come out of a complete, tightly held shell. Adding an electron is also unfavourable, because it would have to go into a new, outer shell far from the nucleus. Since both giving and taking cost energy and bring no gain, noble-gas atoms stay single and unreactive; they exist as single atoms (monatomic gases), not as molecules like O₂ or N₂.
+## terms
+Noble / inert gas (নিষ্ক্রিয় গ্যাস) | Group 18 element with a full outer shell
+Duet (দ্বিত্ব) | 2 electrons in the outer (K) shell: helium
+Octet (অষ্টক) | 8 electrons (ns² np⁶) in the outer shell
+Monatomic | Existing as single atoms (He, Ne, Ar)
+Stable configuration | Full outer shell: the arrangement other atoms try to reach
+## formula
+$$ noble gas outer shell = ns² np⁶ (8 electrons); He = 1s² (2 electrons)
+! Shells: He 2 · Ne 2, 8 · Ar 2, 8, 8 · Kr 2, 8, 18, 8
+! Other atoms bond in order to reach the configuration of the nearest noble gas.
+## real
+Because they do not react, noble gases have safe everyday uses. Helium fills party and weather balloons without any risk of fire. Argon fills filament bulbs so the hot tungsten wire does not burn, and it is used as a shield gas in welding workshops, for example when welding aluminium or steel. Neon glows red-orange in the old-style signboards you still see in some shopping streets.
+## example
+Q: Write the shell arrangement of argon (Z = 18) and of the ions K⁺ (Z = 19) and Cl⁻ (Z = 17). What do you notice?
+Solution: Ar: 18 electrons → 2, 8, 8.
+K⁺: a K atom has 19 electrons; K⁺ has lost one → 18 electrons → 2, 8, 8.
+Cl⁻: a Cl atom has 17 electrons; Cl⁻ has gained one → 18 electrons → 2, 8, 8.
+> Positive ion: subtract electrons; negative ion: add electrons.
+Answer: All three have the same arrangement, 2, 8, 8: K⁺ and Cl⁻ have reached argon's stable configuration.
+## example
+Q: Which of these configurations is a stable noble-gas configuration? (a) 2, 8, 1 (b) 2, 8 (c) 2, 8, 7 (d) 2
+Solution: (b) 2, 8 has an octet in the L shell: this is neon. (d) 2 has a full K shell: this is helium.
+> (a) has 1 extra electron and (c) is 1 short, so they are sodium and chlorine atoms, which are reactive.
+Answer: (b) and (d).
+## mistakes
+x Helium has 8 electrons in its outer shell like the other noble gases.
+v Helium has only one shell, K, which is full with 2 electrons (a duet).
+x Noble gases are stable because they have 8 electrons in total.
+v It is the outermost shell that matters: argon has 18 electrons in all, but 8 in its last shell.
+x Noble gases exist as molecules such as Ne₂.
+v They are monatomic: each particle is a single atom.
+## remember
+- Group 18: He, Ne, Ar, Kr, Xe, Rn.
+- He: 2 in the outer shell (duet); others: 8, ns² np⁶ (octet).
+- Full outer shell → very stable → they neither give, take nor share electrons (inert).
+- Other atoms bond to reach the configuration of the nearest noble gas.
+- A few compounds of heavy noble gases (e.g. XeF₄) exist, but only in special conditions.
+## think
+Na⁺, Mg²⁺, F⁻ and O²⁻ all have the same number of electrons. Which noble gas do they resemble, and why are they still not the same as that noble gas?
+## quiz
+? What is the outer-shell configuration of neon, argon, krypton and xenon?
+- ns²
+- ns² np³
+* ns² np⁶
+- ns¹
+= All noble gases except He have 8 outer electrons, ns² np⁶.
+? Why is helium stable with only 2 electrons?
+- It has 8 electrons in total
+* Its only shell, K, is full with 2 electrons
+- It has no nucleus
+- It shares electrons with other atoms
+= The K shell can hold at most 2 electrons, so 2 makes it full (a duet).
+? The ion Cl⁻ has the same electron arrangement as:
+- Neon
+* Argon
+- Helium
+- Sodium
+= Cl⁻ has 18 electrons: 2, 8, 8, like argon.
+? Noble gases are found in nature as:
+* single atoms
+- diatomic molecules
+- ions
+- ionic crystals
+= With a full outer shell they have no need to bond, so they are monatomic.
+== bn
+## what
+**নিষ্ক্রিয় গ্যাসগুলোর** (গ্রুপ ১৮: He, Ne, Ar, Kr, Xe, Rn) সর্বশেষ কক্ষপথ সম্পূর্ণ পূর্ণ: হিলিয়ামের ২টি ইলেকট্রন (দ্বিত্ব), আর বাকি সবার ৮টি ইলেকট্রন (ns² np⁶, অষ্টক)। এই পূর্ণ বাইরের কক্ষপথই এদের খুব স্থিতিশীল করে, তাই এরা প্রায় কারও সাথেই বিক্রিয়া করে না।
+## simple
+নিষ্ক্রিয় গ্যাসগুলোর ইলেকট্রন বিন্যাস কক্ষপথ ধরে ধরে দেখো:
+- He (২): ২
+- Ne (১০): ২, ৮
+- Ar (১৮): ২, ৮, ৮
+- Kr (৩৬): ২, ৮, ১৮, ৮
+- Xe (৫৪): ২, ৮, ১৮, ১৮, ৮
+- Rn (৮৬): ২, ৮, ১৮, ৩২, ১৮, ৮
+
+প্যাটার্নটা ধরতে পারছ? শেষ কক্ষপথে সবসময় **৮টি**, শুধু হিলিয়াম বাদে; তার একমাত্র কক্ষপথ K-তে জায়গাই মাত্র **২টির**, আর তা আগে থেকেই পূর্ণ। উপশক্তিস্তরের ভাষায়, He ছাড়া প্রতিটি নিষ্ক্রিয় গ্যাসের বিন্যাস শেষ হয় **ns² np⁶** দিয়ে। যেমন Ne হলো 1s² 2s² 2p⁶, আর Ar হলো 1s² 2s² 2p⁶ 3s² 3p⁶।
+
+**এতে বিশেষত্ব কী?** পূর্ণ বাইরের কক্ষপথই পরমাণুর সবচেয়ে আরামদায়ক, সবচেয়ে কম শক্তির বিন্যাস। নিষ্ক্রিয় গ্যাসের পরমাণু একটি ইলেকট্রন ছেড়ে দিলে তার পূর্ণ কক্ষপথ ভেঙে যাবে, তাই ছাড়ায় লাভ নেই; আবার নিতে চাইলে সেই কক্ষপথে জায়গাই নেই, তাই নেওয়াতেও লাভ নেই। ফলে সে ইলেকট্রন দেয়ও না, নেয়ও না, ভাগাভাগিরও দরকার পড়ে না। রসায়নবিদেরা বলেন, এর কোনো রাসায়নিক "ক্ষুধা" নেই: এটি **নিষ্ক্রিয়**।
+
+**বাকিরা সবাই ঈর্ষান্বিত।** মুক্ত পরমাণু হিসেবে আর কোনো মৌলের এমন পূর্ণ বাইরের কক্ষপথ নেই। সোডিয়ামের (২, ৮, ১) একটি ইলেকট্রন বেশি; ক্লোরিনের (২, ৮, ৭) একটি কম। তাই বাকি সব পরমাণু অন্য পরমাণুর সাথে ইলেকট্রন **দিয়ে, নিয়ে বা ভাগাভাগি করে** নিষ্ক্রিয় গ্যাসের মতো বিন্যাসে পৌঁছাতে চায়, আর ঠিক এভাবেই রাসায়নিক বন্ধন তৈরি হয়। নিষ্ক্রিয় গ্যাস হলো সেই "লক্ষ্য", যেদিকে বাকি সব পরমাণু ছুটছে।
+
+**একটা ছোট্ট কথা।** তোমার বই বলে, নিষ্ক্রিয় গ্যাস কখনো ইলেকট্রন দেয় না বা নেয় না। সাধারণ অবস্থায় কথাটা সত্য। তবে বিজ্ঞানীরা বিশেষ অবস্থায় ভারী নিষ্ক্রিয় গ্যাসের কয়েকটি যৌগ তৈরি করেছেন, যেমন অতি সক্রিয় ফ্লোরিনের সাথে জেনন টেট্রাফ্লোরাইড (XeF₄)। হিলিয়াম, নিয়ন ও আর্গনের কোনো স্থায়ী যৌগই নেই।
+## analogy
+ঢাকা–চট্টগ্রাম মহাসড়কে একটা বাসের কথা ভাবো, যার সব সিট ভরা, দাঁড়ানোর জায়গাও নেই। কেউ নামতে চায় না (সবার সিট আছে), কেউ উঠতেও পারে না (জায়গা নেই)। বাসটা থামাথামিতে "আগ্রহ" না দেখিয়ে চলতেই থাকে। পূর্ণ বাইরের কক্ষপথওয়ালা নিষ্ক্রিয় গ্যাসের পরমাণু ঠিক সেই ভরা বাস।
+## definition
+**নিষ্ক্রিয় গ্যাস (Noble/Inert gases)**: পর্যায় সারণির গ্রুপ ১৮-এর মৌলসমূহ (He, Ne, Ar, Kr, Xe, Rn), যাদের পরমাণুর সর্বশেষ কক্ষপথ সম্পূর্ণ পূর্ণ (He-এর ২টি, বাকিদের ns² np⁶) এবং এজন্য যারা ইলেকট্রন দান, গ্রহণ বা ভাগাভাগির প্রায় কোনো প্রবণতাই দেখায় না।
+
+**স্থিতিশীল ইলেকট্রন বিন্যাস**: সর্বশেষ কক্ষপথে ২টি ইলেকট্রন (দ্বিত্ব, যখন তা K কক্ষপথ) বা ৮টি ইলেকট্রন (অষ্টক)।
+## why
+বাইরের কক্ষপথ পূর্ণ হলে পরমাণুর শক্তি সবচেয়ে কম হয়। নিষ্ক্রিয় গ্যাস থেকে একটি ইলেকট্রন সরাতে অনেক বেশি আয়নিকরণ শক্তি লাগে, কারণ ইলেকট্রনটিকে একটি পূর্ণ, শক্ত করে ধরে রাখা কক্ষপথ থেকে বের করতে হবে। আবার একটি ইলেকট্রন যোগ করাও সুবিধাজনক নয়, কারণ তাকে নিউক্লিয়াস থেকে অনেক দূরের নতুন একটি কক্ষপথে বসতে হবে। দেওয়া আর নেওয়া দুটোতেই শক্তি খরচ, লাভ নেই; তাই নিষ্ক্রিয় গ্যাসের পরমাণুরা একা একা, নিষ্ক্রিয় অবস্থায় থাকে। এরা O₂ বা N₂-এর মতো অণু হিসেবে নয়, একক পরমাণু হিসেবে (এক-পরমাণুক গ্যাস) থাকে।
+## terms
+নিষ্ক্রিয় গ্যাস (Noble/Inert gas) | পূর্ণ বাইরের কক্ষপথওয়ালা গ্রুপ ১৮-এর মৌল
+দ্বিত্ব (Duet) | বাইরের (K) কক্ষপথে ২টি ইলেকট্রন: হিলিয়াম
+অষ্টক (Octet) | বাইরের কক্ষপথে ৮টি ইলেকট্রন (ns² np⁶)
+এক-পরমাণুক (Monatomic) | একক পরমাণু হিসেবে থাকে (He, Ne, Ar)
+স্থিতিশীল বিন্যাস | পূর্ণ বাইরের কক্ষপথ: অন্য পরমাণুরা যেখানে পৌঁছাতে চায়
+## formula
+$$ নিষ্ক্রিয় গ্যাসের বাইরের কক্ষপথ = ns² np⁶ (৮টি ইলেকট্রন); He = 1s² (২টি ইলেকট্রন)
+! কক্ষপথ: He ২ · Ne ২, ৮ · Ar ২, ৮, ৮ · Kr ২, ৮, ১৮, ৮
+! অন্য পরমাণুরা নিকটতম নিষ্ক্রিয় গ্যাসের বিন্যাস পেতেই বন্ধন গড়ে।
+## real
+বিক্রিয়া করে না বলে নিষ্ক্রিয় গ্যাসের রোজকার ব্যবহারগুলো নিরাপদ। হিলিয়াম দিয়ে বেলুন আর আবহাওয়া বেলুন ফোলানো হয়, আগুন লাগার ভয় নেই। ফিলামেন্ট বাল্বে আর্গন ভরা হয় যাতে গরম টাংস্টেন তার পুড়ে না যায়; ওয়েল্ডিং কারখানায় অ্যালুমিনিয়াম বা ইস্পাত ঝালাইয়ের সময় আর্গন দিয়ে জায়গাটা ঢেকে রাখা হয়। কিছু মার্কেটের পুরোনো ধাঁচের সাইনবোর্ডে যে লাল-কমলা আলো জ্বলে, তা নিয়ন গ্যাসের।
+## example
+প্রশ্ন: আর্গন (Z = ১৮) এবং K⁺ (Z = ১৯) ও Cl⁻ (Z = ১৭) আয়নের কক্ষপথভিত্তিক বিন্যাস লেখো। কী লক্ষ করলে?
+সমাধান: Ar: ১৮টি ইলেকট্রন → ২, ৮, ৮।
+K⁺: K পরমাণুর ১৯টি ইলেকট্রন; K⁺ একটি হারিয়েছে → ১৮টি → ২, ৮, ৮।
+Cl⁻: Cl পরমাণুর ১৭টি ইলেকট্রন; Cl⁻ একটি পেয়েছে → ১৮টি → ২, ৮, ৮।
+> ধনাত্মক আয়ন: ইলেকট্রন বিয়োগ; ঋণাত্মক আয়ন: ইলেকট্রন যোগ।
+উত্তর: তিনটিরই বিন্যাস একই, ২, ৮, ৮: K⁺ ও Cl⁻ আর্গনের স্থিতিশীল বিন্যাসে পৌঁছেছে।
+## example
+প্রশ্ন: কোনটি নিষ্ক্রিয় গ্যাসের স্থিতিশীল বিন্যাস? (ক) ২, ৮, ১ (খ) ২, ৮ (গ) ২, ৮, ৭ (ঘ) ২
+সমাধান: (খ) ২, ৮-এ L কক্ষপথে অষ্টক: এটি নিয়ন। (ঘ) ২-এ K কক্ষপথ পূর্ণ: এটি হিলিয়াম।
+> (ক)-তে ১টি ইলেকট্রন বেশি, (গ)-তে ১টি কম; এরা সোডিয়াম ও ক্লোরিন পরমাণু, যারা সক্রিয়।
+উত্তর: (খ) ও (ঘ)।
+## mistakes
+x অন্য নিষ্ক্রিয় গ্যাসের মতো হিলিয়ামের বাইরের কক্ষপথেও ৮টি ইলেকট্রন।
+v হিলিয়ামের একটিই কক্ষপথ, K, যা ২টি ইলেকট্রনেই পূর্ণ (দ্বিত্ব)।
+x নিষ্ক্রিয় গ্যাস স্থিতিশীল কারণ এদের মোট ইলেকট্রন ৮টি।
+v গুরুত্বপূর্ণ হলো সর্বশেষ কক্ষপথ: আর্গনের মোট ১৮টি ইলেকট্রন, কিন্তু শেষ কক্ষপথে ৮টি।
+x নিষ্ক্রিয় গ্যাস Ne₂-এর মতো অণু হিসেবে থাকে।
+v এরা এক-পরমাণুক: প্রতিটি কণা একটি একক পরমাণু।
+## remember
+- গ্রুপ ১৮: He, Ne, Ar, Kr, Xe, Rn।
+- He: বাইরের কক্ষপথে ২টি (দ্বিত্ব); বাকিরা: ৮টি, ns² np⁶ (অষ্টক)।
+- পূর্ণ বাইরের কক্ষপথ → খুব স্থিতিশীল → ইলেকট্রন দেয় না, নেয় না, ভাগাভাগিও করে না (নিষ্ক্রিয়)।
+- অন্য পরমাণুরা নিকটতম নিষ্ক্রিয় গ্যাসের বিন্যাস পেতে বন্ধন গড়ে।
+- ভারী নিষ্ক্রিয় গ্যাসের কয়েকটি যৌগ (যেমন XeF₄) আছে, তবে শুধু বিশেষ অবস্থায়।
+## think
+Na⁺, Mg²⁺, F⁻ ও O²⁻ সবার ইলেকট্রন সংখ্যা সমান। এরা কোন নিষ্ক্রিয় গ্যাসের মতো, আর তবুও এরা সেই নিষ্ক্রিয় গ্যাসের সমান নয় কেন?
+## quiz
+? নিয়ন, আর্গন, ক্রিপ্টন ও জেননের বাইরের কক্ষপথের বিন্যাস কী?
+- ns²
+- ns² np³
+* ns² np⁶
+- ns¹
+= He ছাড়া সব নিষ্ক্রিয় গ্যাসের বাইরে ৮টি ইলেকট্রন, ns² np⁶।
+? মাত্র ২টি ইলেকট্রনেই হিলিয়াম স্থিতিশীল কেন?
+- এর মোট ইলেকট্রন ৮টি
+* এর একমাত্র কক্ষপথ K, যা ২টি ইলেকট্রনেই পূর্ণ
+- এর কোনো নিউক্লিয়াস নেই
+- এটি অন্য পরমাণুর সাথে ইলেকট্রন ভাগাভাগি করে
+= K কক্ষপথে সর্বোচ্চ ২টি ইলেকট্রন থাকে, তাই ২টিতেই পূর্ণ (দ্বিত্ব)।
+? Cl⁻ আয়নের ইলেকট্রন বিন্যাস কোনটির মতো?
+- নিয়ন
+* আর্গন
+- হিলিয়াম
+- সোডিয়াম
+= Cl⁻-এর ১৮টি ইলেকট্রন: ২, ৮, ৮, আর্গনের মতো।
+? প্রকৃতিতে নিষ্ক্রিয় গ্যাস থাকে:
+* একক পরমাণু হিসেবে
+- দ্বিপরমাণুক অণু হিসেবে
+- আয়ন হিসেবে
+- আয়নিক কেলাস হিসেবে
+= বাইরের কক্ষপথ পূর্ণ বলে বন্ধনের দরকার নেই, তাই এরা এক-পরমাণুক।
+
+@@ 5.8
+@related 5.7 5.10 5.11 5.13
+== en
+## what
+A **chemical bond** is the force of attraction that holds atoms together in a molecule (or in a crystal). Atoms form bonds because by giving, taking or sharing outer electrons they reach the stable electronic configuration of the nearest noble gas.
+## simple
+Two hydrogen atoms join to make one hydrogen molecule, H₂. A hydrogen atom and a chlorine atom join to make hydrogen chloride, H–Cl. In each case something pulls the atoms together and keeps them there. That "something" is a force of attraction, and we call it a **chemical bond** (রাসায়নিক বন্ধন).
+
+This raises two big questions: why don't atoms just stay apart, and why do they join?
+
+**The answer is stability.** From [[5.7|lesson 5.7]] you know that only the noble gases have a full, stable outer shell. Every other atom is "incomplete". When two atoms come close, they can use their outer electrons to complete their shells:
+- **Give** electrons away (metals such as Na, Mg): the atom becomes a positive ion.
+- **Take** electrons (non-metals such as Cl, O): the atom becomes a negative ion.
+- **Share** electrons (two non-metals, such as H and Cl): both atoms count the shared pair as their own.
+
+Whichever way it happens, the atoms end up with a noble-gas arrangement and a lower energy, and an attraction appears between them. That attraction is the bond. So the root cause of every chemical bond is the tendency of atoms to reach a stable outer-shell configuration.
+
+**Three main kinds of bond** (you will study each one next):
+- **Ionic bond**: metal + non-metal; electrons are *transferred*; the + and − ions attract (NaCl, MgO).
+- **Covalent bond**: non-metal + non-metal; electrons are *shared* in pairs (H₂, Cl₂, H₂O, CH₄).
+- **Metallic bond**: metal atoms among themselves; outer electrons move freely through a lattice of positive ions (copper, iron, aluminium).
+## analogy
+Think of two classmates who each have half a textbook. On their own neither can study properly; together, sharing one complete book, both are happy, so they sit close and stay together. Atoms bond for the same reason: together they "complete" what each lacks alone.
+## definition
+**Chemical bond (রাসায়নিক বন্ধন)**: the force of attraction by which atoms (or ions) are held together in a molecule or crystal.
+
+**Cause of bond formation**: atoms other than those of noble gases have incomplete outer shells; to attain the stable electronic configuration of the nearest noble gas they donate, accept or share electrons, and the resulting attraction is the chemical bond.
+## why
+When atoms bond, the system ends up at lower energy than the separate atoms, just as a ball rolls down to the bottom of a slope and stays there. Energy is released when a bond forms, and the same amount of energy must be supplied to break it. This is why bonded atoms do not fall apart on their own. Reaching a noble-gas outer shell (by transfer or by sharing) is the way atoms get into that lower-energy state.
+## terms
+Chemical bond (রাসায়নিক বন্ধন) | Attraction that holds atoms together in a molecule or crystal
+Ionic bond (আয়নিক বন্ধন) | Attraction between oppositely charged ions formed by electron transfer
+Covalent bond (সমযোজী বন্ধন) | Bond formed by sharing a pair of electrons
+Metallic bond (ধাতব বন্ধন) | Attraction between metal ions and a sea of free electrons
+Stable configuration | Noble-gas outer shell: 2 (duet) or 8 (octet)
+## real
+Everything around you is held together by chemical bonds: the salt in your dal (ionic), the water in your glass and the rice starch on your plate (covalent), and the steel of a rickshaw frame or a cooking pot (metallic). When you cook, burn gas or digest food, some bonds break and new ones form; that is what a chemical reaction really is.
+## example
+Q: Predict the type of bond in: (a) KCl, (b) HCl, (c) a copper wire, (d) CH₄, (e) MgO.
+Solution: (a) K is a metal, Cl a non-metal: electron transfer → ionic.
+(b) H and Cl are both non-metals: sharing → covalent.
+(c) Only copper atoms: metallic.
+(d) C and H are non-metals: covalent.
+(e) Mg metal + O non-metal: ionic.
+> Metal + non-metal → ionic; non-metal + non-metal → covalent; metal alone → metallic.
+Answer: (a) ionic, (b) covalent, (c) metallic, (d) covalent, (e) ionic.
+## example
+Q: Two chlorine atoms (2, 8, 7) join to form Cl₂. Why can neither give its electron to the other, and how do both reach an octet?
+Solution: Both atoms want to *gain* one electron; neither wants to lose one, so a transfer cannot happen.
+Step: Each atom puts one electron into a shared pair between them. Each now counts 7 + 1 = 8 electrons.
+Answer: They share one pair of electrons (a covalent bond), and each Cl reaches argon's octet.
+## mistakes
+x Atoms bond because they like being together.
+v Atoms bond to reach a stable, noble-gas outer shell and a lower energy.
+x A chemical bond is a tiny physical stick joining atoms.
+v A bond is an electrical force of attraction; the "stick" in drawings only represents it.
+x All bonds form by transferring electrons.
+v Electrons can be transferred (ionic), shared (covalent) or set free in a lattice (metallic).
+## remember
+- Chemical bond = force of attraction holding atoms together.
+- Cause: to reach a noble-gas outer shell (2 or 8) by giving, taking or sharing electrons.
+- Metal + non-metal → ionic; non-metal + non-metal → covalent; metal + metal → metallic.
+- Forming a bond releases energy; breaking one needs energy.
+## think
+Noble gases do not form bonds. Using the idea of this lesson, explain why helium balloons contain single He atoms but hydrogen balloons contain H₂ molecules.
+## quiz
+? The main reason atoms form chemical bonds is:
+- to become heavier
+* to reach a stable noble-gas electron configuration
+- to increase their number of protons
+- to become radioactive
+= Atoms give, take or share electrons to reach a stable outer shell.
+? Which pair will most likely form an ionic bond?
+- H and Cl
+- C and O
+* Na and Cl
+- N and N
+= A metal (Na) and a non-metal (Cl) form an ionic bond by electron transfer.
+? In a copper wire, the atoms are held by:
+- ionic bonds
+- covalent bonds
+* metallic bonds
+- no bonds
+= Atoms of a metal are joined by metallic bonding.
+? When a chemical bond forms, energy is:
+* released
+- always absorbed
+- neither released nor absorbed
+- turned into mass
+= Bonded atoms are at lower energy, so energy is released when a bond forms.
+== bn
+## what
+**রাসায়নিক বন্ধন** হলো সেই আকর্ষণ বল, যা অণুতে (বা কেলাসে) পরমাণুগুলোকে একসাথে ধরে রাখে। পরমাণুরা বন্ধন গড়ে, কারণ বাইরের ইলেকট্রন দিয়ে, নিয়ে বা ভাগাভাগি করে তারা নিকটতম নিষ্ক্রিয় গ্যাসের স্থিতিশীল ইলেকট্রন বিন্যাস লাভ করে।
+## simple
+দুটি হাইড্রোজেন পরমাণু যুক্ত হয়ে একটি হাইড্রোজেন অণু, H₂, তৈরি করে। একটি হাইড্রোজেন ও একটি ক্লোরিন পরমাণু যুক্ত হয়ে তৈরি করে হাইড্রোজেন ক্লোরাইড, H–Cl। প্রতিটি ক্ষেত্রেই কিছু একটা পরমাণুগুলোকে টেনে কাছে এনে ধরে রাখে। সেই "কিছু একটা" হলো আকর্ষণ বল, আর একেই বলি **রাসায়নিক বন্ধন** (Chemical bond)।
+
+এখানে দুটি বড় প্রশ্ন আসে: পরমাণুরা আলাদা আলাদা থাকে না কেন, আর কেন তারা যুক্ত হয়?
+
+**উত্তর হলো স্থিতিশীলতা।** [[5.7|পাঠ ৫.৭]] থেকে জানো, শুধু নিষ্ক্রিয় গ্যাসেরই পূর্ণ, স্থিতিশীল বাইরের কক্ষপথ আছে। বাকি সব পরমাণু "অসম্পূর্ণ"। দুটি পরমাণু কাছে এলে বাইরের ইলেকট্রন দিয়ে তারা কক্ষপথ পূর্ণ করে নিতে পারে:
+- ইলেকট্রন **দিয়ে** দেয় (Na, Mg-এর মতো ধাতু): পরমাণুটি ধনাত্মক আয়ন হয়।
+- ইলেকট্রন **নেয়** (Cl, O-এর মতো অধাতু): পরমাণুটি ঋণাত্মক আয়ন হয়।
+- ইলেকট্রন **ভাগাভাগি** করে (দুটি অধাতু, যেমন H ও Cl): ভাগের জোড়াটিকে দুজনই নিজের বলে গোনে।
+
+যেভাবেই হোক, শেষে পরমাণুগুলো নিষ্ক্রিয় গ্যাসের বিন্যাস আর কম শক্তি পায়, আর তাদের মধ্যে একটা আকর্ষণ তৈরি হয়। সেই আকর্ষণই বন্ধন। অর্থাৎ প্রতিটি রাসায়নিক বন্ধনের মূল কারণ হলো বাইরের কক্ষপথে স্থিতিশীল বিন্যাস অর্জনের প্রবণতা।
+
+**প্রধান তিন ধরনের বন্ধন** (একে একে পরের পাঠগুলোতে পড়বে):
+- **আয়নিক বন্ধন**: ধাতু + অধাতু; ইলেকট্রন *স্থানান্তরিত* হয়; + ও − আয়ন পরস্পরকে আকর্ষণ করে (NaCl, MgO)।
+- **সমযোজী বন্ধন**: অধাতু + অধাতু; ইলেকট্রন জোড়ায় জোড়ায় *ভাগাভাগি* হয় (H₂, Cl₂, H₂O, CH₄)।
+- **ধাতব বন্ধন**: ধাতুর পরমাণুদের নিজেদের মধ্যে; বাইরের ইলেকট্রনগুলো ধনাত্মক আয়নের জালির মধ্যে মুক্তভাবে ঘোরে (কপার, আয়রন, অ্যালুমিনিয়াম)।
+## analogy
+দুই সহপাঠীর কথা ভাবো, যাদের প্রত্যেকের কাছে একটা পাঠ্যবইয়ের অর্ধেক। একা একা কেউই ঠিকমতো পড়তে পারে না; একসাথে একটা পূর্ণ বই ভাগ করে পড়লে দুজনই খুশি, তাই তারা পাশাপাশি বসে থাকে। পরমাণুরাও একই কারণে বন্ধন গড়ে: একা যা নেই, একসাথে তা "পূর্ণ" হয়।
+## definition
+**রাসায়নিক বন্ধন (Chemical bond)**: অণু বা কেলাসে পরমাণুসমূহ (বা আয়নসমূহ) যে আকর্ষণ বলের মাধ্যমে পরস্পরের সাথে যুক্ত থাকে, তাকে রাসায়নিক বন্ধন বলে।
+
+**বন্ধন গঠনের কারণ**: নিষ্ক্রিয় গ্যাস ছাড়া অন্য মৌলের পরমাণুর বাইরের কক্ষপথ অপূর্ণ; নিকটতম নিষ্ক্রিয় গ্যাসের স্থিতিশীল ইলেকট্রন বিন্যাস অর্জনের জন্য তারা ইলেকট্রন দান, গ্রহণ বা ভাগাভাগি করে, আর এর ফলে সৃষ্ট আকর্ষণই রাসায়নিক বন্ধন।
+## why
+পরমাণুরা বন্ধন গড়লে পুরো ব্যবস্থার শক্তি আলাদা পরমাণুগুলোর চেয়ে কমে যায়, ঠিক যেমন একটা বল ঢাল বেয়ে নিচে গড়িয়ে গিয়ে সেখানেই থেমে থাকে। বন্ধন তৈরির সময় শক্তি নির্গত হয়, আর বন্ধন ভাঙতে ঠিক ততটা শক্তি দিতে হয়। এজন্যই বন্ধনে যুক্ত পরমাণুরা নিজে থেকে আলাদা হয়ে যায় না। বাইরের কক্ষপথে নিষ্ক্রিয় গ্যাসের বিন্যাস পাওয়াই (স্থানান্তর বা ভাগাভাগির মাধ্যমে) সেই কম শক্তির অবস্থায় পৌঁছানোর উপায়।
+## terms
+রাসায়নিক বন্ধন (Chemical bond) | অণু বা কেলাসে পরমাণুদের ধরে রাখা আকর্ষণ
+আয়নিক বন্ধন (Ionic bond) | ইলেকট্রন স্থানান্তরে তৈরি বিপরীত আধানের আয়নের আকর্ষণ
+সমযোজী বন্ধন (Covalent bond) | এক জোড়া ইলেকট্রন ভাগাভাগিতে তৈরি বন্ধন
+ধাতব বন্ধন (Metallic bond) | ধাতব আয়ন আর মুক্ত ইলেকট্রনের সাগরের মধ্যে আকর্ষণ
+স্থিতিশীল বিন্যাস | নিষ্ক্রিয় গ্যাসের মতো বাইরের কক্ষপথ: ২টি (দ্বিত্ব) বা ৮টি (অষ্টক)
+## real
+তোমার চারপাশের সবকিছুই রাসায়নিক বন্ধনে বাঁধা: ডালের লবণ (আয়নিক), গ্লাসের পানি আর থালার ভাতের শ্বেতসার (সমযোজী), রিকশার ফ্রেম বা রান্নার হাঁড়ির লোহা-ইস্পাত (ধাতব)। রান্না করা, গ্যাস জ্বালানো বা খাবার হজমের সময় কিছু বন্ধন ভাঙে আর নতুন বন্ধন তৈরি হয়; রাসায়নিক বিক্রিয়া আসলে এটাই।
+## example
+প্রশ্ন: বন্ধনের ধরন অনুমান করো: (ক) KCl, (খ) HCl, (গ) কপারের তার, (ঘ) CH₄, (ঙ) MgO।
+সমাধান: (ক) K ধাতু, Cl অধাতু: ইলেকট্রন স্থানান্তর → আয়নিক।
+(খ) H ও Cl দুটিই অধাতু: ভাগাভাগি → সমযোজী।
+(গ) শুধু কপার পরমাণু: ধাতব।
+(ঘ) C ও H অধাতু: সমযোজী।
+(ঙ) Mg ধাতু + O অধাতু: আয়নিক।
+> ধাতু + অধাতু → আয়নিক; অধাতু + অধাতু → সমযোজী; শুধু ধাতু → ধাতব।
+উত্তর: (ক) আয়নিক, (খ) সমযোজী, (গ) ধাতব, (ঘ) সমযোজী, (ঙ) আয়নিক।
+## example
+প্রশ্ন: দুটি ক্লোরিন পরমাণু (২, ৮, ৭) যুক্ত হয়ে Cl₂ তৈরি করে। কেউ কাউকে ইলেকট্রন দিতে পারে না কেন, আর দুজনই কীভাবে অষ্টক পায়?
+সমাধান: দুটি পরমাণুই একটি ইলেকট্রন *নিতে* চায়; কেউই ছাড়তে চায় না, তাই স্থানান্তর সম্ভব নয়।
+ধাপ: প্রতিটি পরমাণু একটি করে ইলেকট্রন দিয়ে মাঝখানে একটি ভাগের জোড় তৈরি করে। এখন প্রত্যেকে গোনে ৭ + ১ = ৮টি।
+উত্তর: তারা এক জোড়া ইলেকট্রন ভাগাভাগি করে (সমযোজী বন্ধন), আর প্রতিটি Cl আর্গনের মতো অষ্টক পায়।
+## mistakes
+x পরমাণুরা একসাথে থাকতে ভালোবাসে বলে বন্ধন গড়ে।
+v পরমাণুরা বন্ধন গড়ে নিষ্ক্রিয় গ্যাসের মতো স্থিতিশীল বাইরের কক্ষপথ আর কম শক্তি পেতে।
+x রাসায়নিক বন্ধন হলো পরমাণুদের জোড়া দেওয়া ছোট্ট একটা কাঠি।
+v বন্ধন হলো বৈদ্যুতিক আকর্ষণ বল; ছবির "কাঠি" শুধু এটাকে বোঝায়।
+x সব বন্ধনই ইলেকট্রন স্থানান্তরে তৈরি।
+v ইলেকট্রন স্থানান্তরিত (আয়নিক), ভাগাভাগি (সমযোজী), বা জালির মধ্যে মুক্ত (ধাতব) হতে পারে।
+## remember
+- রাসায়নিক বন্ধন = পরমাণুদের একসাথে ধরে রাখা আকর্ষণ বল।
+- কারণ: ইলেকট্রন দিয়ে, নিয়ে বা ভাগাভাগি করে নিষ্ক্রিয় গ্যাসের মতো বাইরের কক্ষপথ (২ বা ৮) পাওয়া।
+- ধাতু + অধাতু → আয়নিক; অধাতু + অধাতু → সমযোজী; ধাতু + ধাতু → ধাতব।
+- বন্ধন তৈরিতে শক্তি নির্গত হয়; ভাঙতে শক্তি লাগে।
+## think
+নিষ্ক্রিয় গ্যাস বন্ধন গড়ে না। এই পাঠের ধারণা দিয়ে ব্যাখ্যা করো: হিলিয়াম বেলুনে একক He পরমাণু থাকে, কিন্তু হাইড্রোজেন বেলুনে থাকে H₂ অণু কেন?
+## quiz
+? পরমাণুর রাসায়নিক বন্ধন গঠনের প্রধান কারণ:
+- ভারী হওয়া
+* নিষ্ক্রিয় গ্যাসের স্থিতিশীল ইলেকট্রন বিন্যাস লাভ
+- প্রোটন সংখ্যা বাড়ানো
+- তেজস্ক্রিয় হওয়া
+= স্থিতিশীল বাইরের কক্ষপথ পেতে পরমাণু ইলেকট্রন দেয়, নেয় বা ভাগাভাগি করে।
+? কোন জোড়াটি সবচেয়ে সম্ভবত আয়নিক বন্ধন গড়বে?
+- H ও Cl
+- C ও O
+* Na ও Cl
+- N ও N
+= ধাতু (Na) ও অধাতু (Cl) ইলেকট্রন স্থানান্তরে আয়নিক বন্ধন গড়ে।
+? কপারের তারে পরমাণুগুলো যুক্ত থাকে:
+- আয়নিক বন্ধনে
+- সমযোজী বন্ধনে
+* ধাতব বন্ধনে
+- কোনো বন্ধন ছাড়াই
+= ধাতুর পরমাণুগুলো ধাতব বন্ধনে যুক্ত থাকে।
+? রাসায়নিক বন্ধন তৈরির সময় শক্তি:
+* নির্গত হয়
+- সবসময় শোষিত হয়
+- নির্গতও হয় না, শোষিতও হয় না
+- ভরে পরিণত হয়
+= বন্ধনে যুক্ত পরমাণুর শক্তি কম, তাই বন্ধন তৈরিতে শক্তি নির্গত হয়।
+
+@@ 5.9
+@visual k5ion
+@related 5.7 5.10 3.7 4.4
+== en
+## what
+A **cation** is a positively charged ion formed when an atom **loses** one or more electrons (Na → Na⁺ + e⁻). An **anion** is a negatively charged ion formed when an atom **gains** one or more electrons (Cl + e⁻ → Cl⁻). Metals usually form cations; non-metals usually form anions.
+## simple
+A normal atom is **neutral**: the number of protons (+) in its nucleus equals the number of electrons (−) around it, so the charges cancel. Sodium has 11 protons and 11 electrons: total charge 0.
+
+**Losing electrons → cation.** Sodium is 2, 8, 1. If it gives away that single outer electron, it becomes 2, 8, just like neon. Now it has 11 protons but only 10 electrons, so one positive charge is left over: **Na⁺**, a **cation** (ক্যাটায়ন).
+- Li (2, 1) → Li⁺ (2) + e⁻: like helium.
+- Mg (2, 8, 2) → Mg²⁺ (2, 8) + 2e⁻: like neon.
+- Al (2, 8, 3) → Al³⁺ (2, 8) + 3e⁻: like neon.
+
+**Gaining electrons → anion.** Chlorine is 2, 8, 7: one electron short of an octet. If it takes one electron, it becomes 2, 8, 8, like argon. Now it has 17 protons and 18 electrons, so one negative charge is extra: **Cl⁻**, an **anion** (অ্যানায়ন).
+- O (2, 6) + 2e⁻ → O²⁻ (2, 8): like neon.
+- F (2, 7) + e⁻ → F⁻ (2, 8): like neon.
+- S (2, 8, 6) + 2e⁻ → S²⁻ (2, 8, 8): like argon.
+
+**Notice:** the nucleus never changes. Only electrons move. The number on the charge tells you how many electrons were lost (+) or gained (−).
+
+**Why do metals give and non-metals take?** Metals sit on the left of the periodic table, have only 1, 2 or 3 outer electrons and are large atoms. Their outer electrons are far from the nucleus and held weakly, so the **ionization energy** (energy needed to remove an electron) is low: a small push is enough. Non-metals sit on the right, have 5, 6 or 7 outer electrons and are smaller. Their outer electrons are held strongly (high ionization energy), so they do not lose them in ordinary reactions. Instead they need only 1, 2 or 3 more electrons to complete an octet, and they take them eagerly (high **electron affinity**).
+## analogy
+Think of a mango seller with one leftover mango at the end of the day: it is easier to hand it to someone than to find seven more to fill a basket of eight. A customer whose basket already holds seven mangoes happily takes that one. Sodium is the seller with one spare electron; chlorine is the customer who needs just one more.
+## definition
+**Ion (আয়ন)**: an atom or group of atoms that carries an electric charge because the number of electrons is not equal to the number of protons.
+
+**Cation (ক্যাটায়ন)**: a positively charged ion, formed when a neutral atom loses one or more electrons from its outermost shell.
+
+**Anion (অ্যানায়ন)**: a negatively charged ion, formed when a neutral atom gains one or more electrons into its outermost shell.
+## why
+Both processes lead to a noble-gas configuration. For a metal with 1–3 outer electrons it costs far less energy to lose those few electrons than to gain 5–7 more. For a non-metal with 5–7 outer electrons, gaining 1–3 electrons releases energy (electron affinity), while losing 5–7 would need a huge amount of energy. Each atom takes the cheaper route to a full outer shell, which is why metals become cations and non-metals become anions.
+## terms
+Ion (আয়ন) | Charged atom or group of atoms
+Cation (ক্যাটায়ন) | Positive ion: atom has lost electrons (Na⁺, Mg²⁺, Al³⁺)
+Anion (অ্যানায়ন) | Negative ion: atom has gained electrons (Cl⁻, O²⁻, S²⁻)
+Ionization energy (আয়নিকরণ শক্তি) | Energy needed to remove an electron from a gaseous atom
+Electron affinity (ইলেকট্রন আসক্তি) | Energy released when a gaseous atom gains an electron
+## formula
+$$ charge of ion = number of protons − number of electrons
+$$ Na → Na⁺ + e⁻
+$$ Cl + e⁻ → Cl⁻
+! Group 1 → +1, Group 2 → +2, Group 13 (Al) → +3; Group 17 → −1, Group 16 → −2, Group 15 (N) → −3
+! The protons (atomic number) never change when an ion forms.
+## visual
+Choose an element and tap the button to remove or add electrons. Watch the outer shell change, and read the protons, electrons, charge and the noble gas the ion now resembles.
+## real
+Bangladeshi rivers and tube-well water contain dissolved ions such as Ca²⁺, Mg²⁺ (which make water "hard" and leave white scale in kettles), Na⁺, Cl⁻ and in some places Fe²⁺/Fe³⁺ (which turn water reddish). Oral saline (ORS), given for diarrhoea, works because it supplies the body with Na⁺, K⁺ and Cl⁻ ions lost from the body.
+## example
+Q: How many protons and electrons are in (a) Na⁺ (Z = 11), (b) Mg²⁺ (Z = 12), (c) O²⁻ (Z = 8), (d) Cl⁻ (Z = 17)?
+Solution: (a) Na⁺: 11 protons; 11 − 1 = 10 electrons.
+(b) Mg²⁺: 12 protons; 12 − 2 = 10 electrons.
+(c) O²⁻: 8 protons; 8 + 2 = 10 electrons.
+(d) Cl⁻: 17 protons; 17 + 1 = 18 electrons.
+> For a cation subtract the charge from Z; for an anion add it.
+Answer: (a) 11, 10 (b) 12, 10 (c) 8, 10 (d) 17, 18
+## example
+Q: An ion X³⁺ has the electron arrangement 2, 8. Find the atomic number of X and name it.
+Solution: The ion has 2 + 8 = 10 electrons. It lost 3 electrons, so the atom had 10 + 3 = 13 electrons.
+Calculation: Z = 13.
+Answer: X is aluminium (Al), and the ion is Al³⁺.
+## mistakes
+x Na⁺ has gained a proton.
+v The nucleus does not change; Na⁺ has lost one electron, leaving 11 protons and 10 electrons.
+x Cl⁻ is negative because it has lost a proton.
+v Cl⁻ has gained one electron: 17 protons, 18 electrons.
+x Non-metals become cations by losing their 6 or 7 outer electrons.
+v Losing so many electrons needs far too much energy; non-metals gain 1–3 electrons and become anions.
+## remember
+- Cation = positive ion (electrons lost); anion = negative ion (electrons gained).
+- Metals (1–3 outer electrons, low ionization energy) → cations.
+- Non-metals (5–7 outer electrons, high electron affinity) → anions.
+- Ions reach a noble-gas configuration: Na⁺, Mg²⁺, O²⁻, F⁻ are all 2, 8.
+- Charge = protons − electrons; the nucleus never changes.
+## think
+Potassium (2, 8, 8, 1) loses its outer electron even more easily than sodium (2, 8, 1). Using atomic size, can you explain why?
+## quiz
+? Na → Na⁺ + e⁻. The sodium ion has:
+- 11 protons and 11 electrons
+* 11 protons and 10 electrons
+- 10 protons and 11 electrons
+- 12 protons and 10 electrons
+= Losing one electron leaves 10 electrons; protons stay 11.
+? Which one is an anion?
+- K⁺
+- Ca²⁺
+* S²⁻
+- Al³⁺
+= S²⁻ carries a negative charge because sulfur gained 2 electrons.
+? Metals form cations easily because their:
+- ionization energy is very high
+* outer electrons are far from the nucleus and held weakly
+- atoms are very small
+- outer shells are almost full
+= Large atoms with few outer electrons have low ionization energy.
+? The electron arrangement of O²⁻ is:
+- 2, 6
+* 2, 8
+- 2, 8, 2
+- 2, 4
+= O (2, 6) gains 2 electrons → 2, 8, like neon.
+== bn
+## what
+পরমাণু এক বা একাধিক ইলেকট্রন **হারালে** যে ধনাত্মক আধানযুক্ত আয়ন তৈরি হয়, তা **ক্যাটায়ন** (Na → Na⁺ + e⁻)। পরমাণু এক বা একাধিক ইলেকট্রন **গ্রহণ করলে** যে ঋণাত্মক আধানযুক্ত আয়ন তৈরি হয়, তা **অ্যানায়ন** (Cl + e⁻ → Cl⁻)। ধাতু সাধারণত ক্যাটায়ন, আর অধাতু সাধারণত অ্যানায়ন তৈরি করে।
+## simple
+সাধারণ পরমাণু **আধান নিরপেক্ষ**: নিউক্লিয়াসের প্রোটন (+) আর চারপাশের ইলেকট্রন (−) সংখ্যায় সমান, তাই আধান কাটাকাটি হয়ে যায়। সোডিয়ামের ১১টি প্রোটন, ১১টি ইলেকট্রন: মোট আধান ০।
+
+**ইলেকট্রন হারালে → ক্যাটায়ন।** সোডিয়াম ২, ৮, ১। বাইরের একমাত্র ইলেকট্রনটি ছেড়ে দিলে সে হয় ২, ৮, ঠিক নিয়নের মতো। এখন তার প্রোটন ১১টি কিন্তু ইলেকট্রন ১০টি, তাই একটি ধনাত্মক আধান বাড়তি: **Na⁺**, একটি **ক্যাটায়ন** (Cation)।
+- Li (২, ১) → Li⁺ (২) + e⁻: হিলিয়ামের মতো।
+- Mg (২, ৮, ২) → Mg²⁺ (২, ৮) + 2e⁻: নিয়নের মতো।
+- Al (২, ৮, ৩) → Al³⁺ (২, ৮) + 3e⁻: নিয়নের মতো।
+
+**ইলেকট্রন নিলে → অ্যানায়ন।** ক্লোরিন ২, ৮, ৭: অষ্টক হতে একটি ইলেকট্রন কম। একটি ইলেকট্রন নিলে সে হয় ২, ৮, ৮, আর্গনের মতো। এখন তার প্রোটন ১৭টি আর ইলেকট্রন ১৮টি, তাই একটি ঋণাত্মক আধান বাড়তি: **Cl⁻**, একটি **অ্যানায়ন** (Anion)।
+- O (২, ৬) + 2e⁻ → O²⁻ (২, ৮): নিয়নের মতো।
+- F (২, ৭) + e⁻ → F⁻ (২, ৮): নিয়নের মতো।
+- S (২, ৮, ৬) + 2e⁻ → S²⁻ (২, ৮, ৮): আর্গনের মতো।
+
+**খেয়াল করো:** নিউক্লিয়াস কখনো বদলায় না। শুধু ইলেকট্রন আসা-যাওয়া করে। আধানের সংখ্যাটি বলে দেয় কয়টি ইলেকট্রন হারিয়েছে (+) বা পেয়েছে (−)।
+
+**ধাতু কেন দেয় আর অধাতু কেন নেয়?** ধাতুগুলো পর্যায় সারণির বাম দিকে, এদের বাইরের কক্ষপথে মাত্র ১, ২ বা ৩টি ইলেকট্রন, আর পরমাণুগুলো আকারে বড়। বাইরের ইলেকট্রনগুলো নিউক্লিয়াস থেকে দূরে, দুর্বলভাবে আটকানো, তাই **আয়নিকরণ শক্তি** (একটি ইলেকট্রন সরাতে যে শক্তি লাগে) কম: সামান্য ধাক্কাই যথেষ্ট। অধাতুগুলো ডান দিকে, এদের বাইরে ৫, ৬ বা ৭টি ইলেকট্রন, আর আকারে ছোট। বাইরের ইলেকট্রন শক্ত করে ধরা থাকে (আয়নিকরণ শক্তি বেশি), তাই সাধারণ বিক্রিয়ায় এরা ইলেকট্রন হারায় না। বরং অষ্টক পূর্ণ করতে মাত্র ১, ২ বা ৩টি ইলেকট্রন দরকার, আর তা এরা আগ্রহ নিয়ে নেয় (**ইলেকট্রন আসক্তি** বেশি)।
+## analogy
+দিনের শেষে একজন আমওয়ালার কাছে একটিমাত্র আম বেঁচে আছে: আটটার ঝুড়ি ভরাতে আরও সাতটা খোঁজার চেয়ে ওই একটা কাউকে দিয়ে দেওয়াই সহজ। যে ক্রেতার ঝুড়িতে আগেই সাতটা আম, সে খুশি হয়ে ওই একটা নিয়ে নেয়। সোডিয়াম হলো একটা বাড়তি ইলেকট্রনওয়ালা সেই আমওয়ালা; ক্লোরিন হলো সেই ক্রেতা, যার দরকার আর মাত্র একটা।
+## definition
+**আয়ন (Ion)**: ইলেকট্রন সংখ্যা প্রোটন সংখ্যার সমান না হওয়ায় যে পরমাণু বা পরমাণুগুচ্ছ বৈদ্যুতিক আধান বহন করে।
+
+**ক্যাটায়ন (Cation)**: আধান নিরপেক্ষ পরমাণু তার সর্বশেষ কক্ষপথ থেকে এক বা একাধিক ইলেকট্রন ত্যাগ করলে যে ধনাত্মক আধানযুক্ত আয়ন তৈরি হয়।
+
+**অ্যানায়ন (Anion)**: আধান নিরপেক্ষ পরমাণু তার সর্বশেষ কক্ষপথে এক বা একাধিক ইলেকট্রন গ্রহণ করলে যে ঋণাত্মক আধানযুক্ত আয়ন তৈরি হয়।
+## why
+দুটি প্রক্রিয়াই নিষ্ক্রিয় গ্যাসের বিন্যাসে পৌঁছে দেয়। বাইরে ১–৩টি ইলেকট্রনওয়ালা ধাতুর জন্য আরও ৫–৭টি নেওয়ার চেয়ে ওই কয়টি ছেড়ে দিতে অনেক কম শক্তি লাগে। বাইরে ৫–৭টি ইলেকট্রনওয়ালা অধাতুর জন্য ১–৩টি ইলেকট্রন নিলে শক্তি নির্গত হয় (ইলেকট্রন আসক্তি), অথচ ৫–৭টি ছাড়তে লাগত বিপুল শক্তি। প্রতিটি পরমাণু পূর্ণ কক্ষপথে পৌঁছানোর সস্তা পথটাই বেছে নেয়; এজন্য ধাতু ক্যাটায়ন আর অধাতু অ্যানায়ন হয়।
+## terms
+আয়ন (Ion) | আধানযুক্ত পরমাণু বা পরমাণুগুচ্ছ
+ক্যাটায়ন (Cation) | ধনাত্মক আয়ন: পরমাণু ইলেকট্রন হারিয়েছে (Na⁺, Mg²⁺, Al³⁺)
+অ্যানায়ন (Anion) | ঋণাত্মক আয়ন: পরমাণু ইলেকট্রন পেয়েছে (Cl⁻, O²⁻, S²⁻)
+আয়নিকরণ শক্তি (Ionization energy) | গ্যাসীয় পরমাণু থেকে একটি ইলেকট্রন সরাতে প্রয়োজনীয় শক্তি
+ইলেকট্রন আসক্তি (Electron affinity) | গ্যাসীয় পরমাণু একটি ইলেকট্রন গ্রহণ করলে নির্গত শক্তি
+## formula
+$$ আয়নের আধান = প্রোটন সংখ্যা − ইলেকট্রন সংখ্যা
+$$ Na → Na⁺ + e⁻
+$$ Cl + e⁻ → Cl⁻
+! গ্রুপ ১ → +১, গ্রুপ ২ → +২, গ্রুপ ১৩ (Al) → +৩; গ্রুপ ১৭ → −১, গ্রুপ ১৬ → −২, গ্রুপ ১৫ (N) → −৩
+! আয়ন তৈরির সময় প্রোটন সংখ্যা (পারমাণবিক সংখ্যা) কখনো বদলায় না।
+## visual
+একটি মৌল বেছে নাও আর বোতাম চেপে ইলেকট্রন সরাও বা যোগ করো। বাইরের কক্ষপথ কীভাবে বদলায় দেখো, আর প্রোটন, ইলেকট্রন, আধান এবং আয়নটি এখন কোন নিষ্ক্রিয় গ্যাসের মতো তা পড়ো।
+## real
+বাংলাদেশের নদী আর নলকূপের পানিতে দ্রবীভূত আয়ন থাকে, যেমন Ca²⁺, Mg²⁺ (এরা পানিকে "খর" করে, কেতলিতে সাদা আস্তর ফেলে), Na⁺, Cl⁻, আর কোথাও কোথাও Fe²⁺/Fe³⁺ (এরা পানিকে লালচে করে)। ডায়রিয়ায় যে খাবার স্যালাইন (ORS) দেওয়া হয়, তা কাজ করে কারণ এটি শরীর থেকে হারানো Na⁺, K⁺ ও Cl⁻ আয়ন ফিরিয়ে দেয়।
+## example
+প্রশ্ন: প্রোটন ও ইলেকট্রন সংখ্যা কত: (ক) Na⁺ (Z = ১১), (খ) Mg²⁺ (Z = ১২), (গ) O²⁻ (Z = ৮), (ঘ) Cl⁻ (Z = ১৭)?
+সমাধান: (ক) Na⁺: ১১টি প্রোটন; ১১ − ১ = ১০টি ইলেকট্রন।
+(খ) Mg²⁺: ১২টি প্রোটন; ১২ − ২ = ১০টি ইলেকট্রন।
+(গ) O²⁻: ৮টি প্রোটন; ৮ + ২ = ১০টি ইলেকট্রন।
+(ঘ) Cl⁻: ১৭টি প্রোটন; ১৭ + ১ = ১৮টি ইলেকট্রন।
+> ক্যাটায়নের জন্য Z থেকে আধান বিয়োগ; অ্যানায়নের জন্য যোগ।
+উত্তর: (ক) ১১, ১০ (খ) ১২, ১০ (গ) ৮, ১০ (ঘ) ১৭, ১৮
+## example
+প্রশ্ন: একটি আয়ন X³⁺-এর ইলেকট্রন বিন্যাস ২, ৮। X-এর পারমাণবিক সংখ্যা বের করো এবং নাম লেখো।
+সমাধান: আয়নটিতে ২ + ৮ = ১০টি ইলেকট্রন। এটি ৩টি ইলেকট্রন হারিয়েছে, তাই পরমাণুতে ছিল ১০ + ৩ = ১৩টি।
+হিসাব: Z = ১৩।
+উত্তর: X হলো অ্যালুমিনিয়াম (Al), আয়নটি Al³⁺।
+## mistakes
+x Na⁺ একটি প্রোটন পেয়েছে।
+v নিউক্লিয়াস বদলায় না; Na⁺ একটি ইলেকট্রন হারিয়েছে, তাই ১১টি প্রোটন আর ১০টি ইলেকট্রন।
+x Cl⁻ ঋণাত্মক, কারণ এটি একটি প্রোটন হারিয়েছে।
+v Cl⁻ একটি ইলেকট্রন পেয়েছে: ১৭টি প্রোটন, ১৮টি ইলেকট্রন।
+x অধাতুরা বাইরের ৬ বা ৭টি ইলেকট্রন হারিয়ে ক্যাটায়ন হয়।
+v এত ইলেকট্রন হারাতে অনেক বেশি শক্তি লাগে; অধাতুরা ১–৩টি ইলেকট্রন নিয়ে অ্যানায়ন হয়।
+## remember
+- ক্যাটায়ন = ধনাত্মক আয়ন (ইলেকট্রন হারায়); অ্যানায়ন = ঋণাত্মক আয়ন (ইলেকট্রন পায়)।
+- ধাতু (বাইরে ১–৩টি ইলেকট্রন, আয়নিকরণ শক্তি কম) → ক্যাটায়ন।
+- অধাতু (বাইরে ৫–৭টি ইলেকট্রন, ইলেকট্রন আসক্তি বেশি) → অ্যানায়ন।
+- আয়নগুলো নিষ্ক্রিয় গ্যাসের বিন্যাস পায়: Na⁺, Mg²⁺, O²⁻, F⁻ সবাই ২, ৮।
+- আধান = প্রোটন − ইলেকট্রন; নিউক্লিয়াস কখনো বদলায় না।
+## think
+পটাশিয়াম (২, ৮, ৮, ১) সোডিয়ামের (২, ৮, ১) চেয়েও সহজে বাইরের ইলেকট্রন হারায়। পরমাণুর আকার দিয়ে কারণটা ব্যাখ্যা করতে পারবে?
+## quiz
+? Na → Na⁺ + e⁻। সোডিয়াম আয়নে আছে:
+- ১১টি প্রোটন ও ১১টি ইলেকট্রন
+* ১১টি প্রোটন ও ১০টি ইলেকট্রন
+- ১০টি প্রোটন ও ১১টি ইলেকট্রন
+- ১২টি প্রোটন ও ১০টি ইলেকট্রন
+= একটি ইলেকট্রন হারালে থাকে ১০টি; প্রোটন ১১টিই থাকে।
+? কোনটি অ্যানায়ন?
+- K⁺
+- Ca²⁺
+* S²⁻
+- Al³⁺
+= সালফার ২টি ইলেকট্রন পেয়েছে বলে S²⁻ ঋণাত্মক আধান বহন করে।
+? ধাতু সহজে ক্যাটায়ন তৈরি করে, কারণ এদের:
+- আয়নিকরণ শক্তি অনেক বেশি
+* বাইরের ইলেকট্রন নিউক্লিয়াস থেকে দূরে ও দুর্বলভাবে আটকানো
+- পরমাণু খুব ছোট
+- বাইরের কক্ষপথ প্রায় পূর্ণ
+= কম বাইরের ইলেকট্রনওয়ালা বড় পরমাণুর আয়নিকরণ শক্তি কম।
+? O²⁻-এর ইলেকট্রন বিন্যাস:
+- ২, ৬
+* ২, ৮
+- ২, ৮, ২
+- ২, ৪
+= O (২, ৬) ২টি ইলেকট্রন নিয়ে হয় ২, ৮, নিয়নের মতো।
+
+@@ 5.10
+@visual k5ionic
+@related 5.9 5.12 5.4 5.8
+== en
+## what
+An **ionic (electrovalent) bond** is the strong electrostatic attraction between oppositely charged ions formed when a metal atom **transfers** one or more electrons to a non-metal atom. Sodium chloride (Na⁺Cl⁻) and magnesium oxide (Mg²⁺O²⁻) are ionic compounds.
+## simple
+Put the last lesson's two ideas together. A metal atom *wants* to lose electrons; a non-metal atom *wants* to gain them. When they meet, the metal simply **hands over** its outer electrons to the non-metal. Both reach a noble-gas arrangement, and now one is positive and the other negative. Opposite charges attract strongly (like the north and south poles of magnets), and this pull is the **ionic bond** (আয়নিক বা তড়িৎযোজী বন্ধন).
+
+**Sodium chloride, NaCl.**
+- Na (2, 8, 1) gives its 1 outer electron: Na → Na⁺ + e⁻. Na⁺ is 2, 8 (like neon).
+- Cl (2, 8, 7) takes that electron: Cl + e⁻ → Cl⁻. Cl⁻ is 2, 8, 8 (like argon).
+- Na⁺ and Cl⁻ attract: Na⁺ + Cl⁻ → NaCl.
+
+**Magnesium oxide, MgO.** Mg (2, 8, 2) gives **two** electrons: Mg → Mg²⁺ + 2e⁻. O (2, 6) takes both: O + 2e⁻ → O²⁻. Both ions are 2, 8. Because the charges are double (+2 and −2), the attraction is even stronger.
+
+**Calcium oxide, CaO.** Ca → Ca²⁺ + 2e⁻ and O + 2e⁻ → O²⁻; Ca²⁺ and O²⁻ attract.
+
+**Sodium hydride, NaH.** Here hydrogen *takes* an electron: Na → Na⁺ + e⁻ and H + e⁻ → H⁻. The hydride ion H⁻ has 2 electrons, a duet like helium.
+
+**When the numbers don't match.** Calcium gives 2 electrons but chlorine can take only 1. So one Ca needs **two** Cl atoms: Ca²⁺ and 2 Cl⁻, giving **CaCl₂**. Electrons lost must always equal electrons gained. Notice this gives exactly the formula you got by criss-cross in [[5.4|lesson 5.4]]!
+
+**Drawing it (electron dot diagram).** Show the metal's outer electrons as crosses (×) and the non-metal's as dots (•). Draw an arrow for the transfer, then write the ions in square brackets with their charges: [Na]⁺ and [Cl]⁻, where the chloride ion now shows 8 electrons around it (7 dots of its own + 1 cross from sodium).
+
+**Which elements do this?** Mostly the metals of Groups 1 and 2 with the non-metals of Groups 16 and 17. Your book also counts aluminium (Group 13) among them. That is true for compounds such as aluminium oxide, but note that aluminium chloride is mostly covalent, so aluminium is really a borderline case.
+
+**Not really "molecules".** In solid NaCl there are no separate NaCl pairs. Each Na⁺ is surrounded by 6 Cl⁻ and each Cl⁻ by 6 Na⁺, in a giant 3-D crystal. The formula NaCl only tells the 1 : 1 ratio.
+## analogy
+Picture a lonely one-rupee coin in a boy's pocket that he is happy to give away, and a girl who needs exactly one more coin to complete her set. He gives it; now he "owes" nothing and she "owns" one extra. They end up tied together by a strong pull, like opposite magnet poles snapping together. That snap is the ionic bond.
+## definition
+**Ionic or electrovalent bond (আয়নিক বা তড়িৎযোজী বন্ধন)**: the electrostatic (Coulomb) force of attraction that holds together the cations and anions formed by the transfer of one or more electrons from the outermost shell of a metal atom to the outermost shell of a non-metal atom.
+
+**Ionic compound (আয়নিক যৌগ)**: a compound in which the particles are held together by ionic bonds (e.g. NaCl, MgO, CaO, CaCl₂).
+## why
+A metal atom with a low ionization energy loses electrons easily; a non-metal with a high electron affinity gains them readily. After the transfer, each ion has a stable noble-gas configuration, and the oppositely charged ions attract each other strongly. The energy released when the ions pack together into a crystal is large, much larger than the small cost of the transfer, so the ionic compound is far more stable than the separate atoms. Because the force acts in all directions, each ion attracts many neighbours, building a strong 3-D lattice.
+## terms
+Ionic bond (আয়নিক বন্ধন) | Electrostatic attraction between cations and anions
+Electrovalent bond (তড়িৎযোজী বন্ধন) | Another name for ionic bond
+Electrostatic force (স্থির বৈদ্যুতিক আকর্ষণ) | Attraction between opposite charges
+Ionic compound (আয়নিক যৌগ) | Compound held by ionic bonds: NaCl, MgO
+Crystal lattice (কেলাস জালি) | Regular 3-D arrangement of ions in a solid
+Electron dot diagram | Drawing that shows outer electrons as dots and crosses
+## formula
+$$ Na → Na⁺ + e⁻ ;  Cl + e⁻ → Cl⁻ ;  Na⁺ + Cl⁻ → NaCl
+$$ Mg → Mg²⁺ + 2e⁻ ;  O + 2e⁻ → O²⁻ ;  Mg²⁺ + O²⁻ → MgO
+$$ 2Na(s) + Cl₂(g) → 2NaCl(s)
+! Electrons lost by the metal = electrons gained by the non-metal.
+! Total positive charge = total negative charge in the compound.
+## visual
+Pick a pair of elements and press Play (or Step). Watch the crosses (metal electrons) jump to the non-metal, the ions form with their charges, and the attraction appear. Check the electron count at the bottom.
+## real
+Common salt (NaCl) comes from sea water; along the coast of Cox's Bazar and Chattogram, salt farmers let sea water evaporate in shallow beds under the sun until white crystals of this ionic compound remain. Quicklime (calcium oxide, CaO), made by heating limestone, is used in construction and for whitewashing walls; it is another ionic compound.
+## example
+Q: Show, using electron configurations, how calcium chloride (CaCl₂) forms.
+Solution: Ca (Z = 20): 2, 8, 8, 2. Cl (Z = 17): 2, 8, 7.
+Step: Ca → Ca²⁺ + 2e⁻ (Ca²⁺: 2, 8, 8, like argon).
+Step: Each Cl takes one electron: 2Cl + 2e⁻ → 2Cl⁻ (each Cl⁻: 2, 8, 8).
+> One Cl can take only one electron, so two Cl atoms are needed for Ca's two electrons.
+Step: Ca²⁺ + 2Cl⁻ → CaCl₂.
+Answer: Ca transfers one electron to each of two Cl atoms; the Ca²⁺ and 2 Cl⁻ ions are held by ionic bonds in CaCl₂.
+## example
+Q: In aluminium oxide, Al₂O₃, how many electrons are transferred in one formula unit? Check that charges balance.
+Solution: Each Al gives 3 electrons: 2 Al → 2Al³⁺ + 6e⁻.
+Step: Each O takes 2 electrons: 3 O + 6e⁻ → 3O²⁻.
+Calculation: Positive charge 2 × (+3) = +6; negative charge 3 × (−2) = −6.
+Answer: 6 electrons are transferred; +6 and −6 balance, so Al₂O₃ is neutral.
+## mistakes
+x In NaCl, sodium and chlorine share a pair of electrons.
+v Sodium transfers its electron completely to chlorine; there is no sharing in an ionic bond.
+x Solid sodium chloride is made of separate NaCl molecules.
+v It is a giant lattice of Na⁺ and Cl⁻ ions; NaCl only gives their 1 : 1 ratio.
+x In MgO, Mg gives one electron to O.
+v Mg gives two electrons, forming Mg²⁺ and O²⁻.
+## remember
+- Ionic bond = electron transfer from metal to non-metal, then + and − ions attract.
+- NaCl: Na → Na⁺ + e⁻, Cl + e⁻ → Cl⁻. MgO: Mg → Mg²⁺ + 2e⁻, O + 2e⁻ → O²⁻.
+- Electrons lost = electrons gained; charges balance (CaCl₂, Al₂O₃).
+- Usually Group 1, 2 metals with Group 16, 17 non-metals.
+- Ionic solids are giant crystal lattices, not separate molecules; the bond is very strong.
+## think
+Both NaCl and MgO are ionic, but MgO melts at about 2850 °C while NaCl melts at about 800 °C. How could the size of the charges on the ions explain this?
+## quiz
+? In the formation of NaCl, the sodium atom:
+* loses one electron
+- gains one electron
+- shares one electron
+- loses one proton
+= Na → Na⁺ + e⁻: sodium transfers its outer electron to chlorine.
+? How many electrons does magnesium transfer to oxygen in forming MgO?
+- 1
+* 2
+- 3
+- 6
+= Mg (2, 8, 2) loses 2 electrons to become Mg²⁺; O gains 2 to become O²⁻.
+? Which compound is ionic?
+- CH₄
+- HCl
+* CaO
+- H₂O
+= Ca is a metal and O a non-metal: electron transfer gives Ca²⁺ and O²⁻.
+? In NaH, the hydride ion H⁻ has how many electrons?
+- 0
+- 1
+* 2
+- 8
+= H gains one electron, giving 2 electrons: a duet like helium.
+== bn
+## what
+ধাতুর পরমাণু অধাতুর পরমাণুকে এক বা একাধিক ইলেকট্রন **স্থানান্তর** করলে বিপরীত আধানের যে আয়ন তৈরি হয়, তাদের মধ্যকার শক্তিশালী স্থির বৈদ্যুতিক আকর্ষণকে **আয়নিক (তড়িৎযোজী) বন্ধন** বলে। সোডিয়াম ক্লোরাইড (Na⁺Cl⁻) ও ম্যাগনেসিয়াম অক্সাইড (Mg²⁺O²⁻) আয়নিক যৌগ।
+## simple
+আগের পাঠের দুটি ধারণা একসাথে করো। ধাতুর পরমাণু ইলেকট্রন ছাড়তে *চায়*; অধাতুর পরমাণু ইলেকট্রন নিতে *চায়*। দুজনের দেখা হলে ধাতুটি সরাসরি তার বাইরের ইলেকট্রন অধাতুকে **দিয়ে দেয়**। দুজনই নিষ্ক্রিয় গ্যাসের বিন্যাস পায়, আর এখন একজন ধনাত্মক, অন্যজন ঋণাত্মক। বিপরীত আধান পরস্পরকে জোরে আকর্ষণ করে (চুম্বকের উত্তর-দক্ষিণ মেরুর মতো), আর এই টানই **আয়নিক বা তড়িৎযোজী বন্ধন** (Ionic/Electrovalent bond)।
+
+**সোডিয়াম ক্লোরাইড, NaCl।**
+- Na (২, ৮, ১) তার বাইরের ১টি ইলেকট্রন দিয়ে দেয়: Na → Na⁺ + e⁻। Na⁺ হলো ২, ৮ (নিয়নের মতো)।
+- Cl (২, ৮, ৭) সেই ইলেকট্রনটি নেয়: Cl + e⁻ → Cl⁻। Cl⁻ হলো ২, ৮, ৮ (আর্গনের মতো)।
+- Na⁺ ও Cl⁻ পরস্পরকে আকর্ষণ করে: Na⁺ + Cl⁻ → NaCl।
+
+**ম্যাগনেসিয়াম অক্সাইড, MgO।** Mg (২, ৮, ২) **দুটি** ইলেকট্রন দেয়: Mg → Mg²⁺ + 2e⁻। O (২, ৬) দুটিই নেয়: O + 2e⁻ → O²⁻। দুটি আয়নই ২, ৮। আধান দ্বিগুণ (+২ ও −২) বলে আকর্ষণ আরও শক্তিশালী।
+
+**ক্যালসিয়াম অক্সাইড, CaO।** Ca → Ca²⁺ + 2e⁻ এবং O + 2e⁻ → O²⁻; Ca²⁺ ও O²⁻ পরস্পরকে আকর্ষণ করে।
+
+**সোডিয়াম হাইড্রাইড, NaH।** এখানে হাইড্রোজেন ইলেকট্রন *নেয়*: Na → Na⁺ + e⁻ এবং H + e⁻ → H⁻। হাইড্রাইড আয়ন H⁻-এর ২টি ইলেকট্রন, হিলিয়ামের মতো দ্বিত্ব।
+
+**সংখ্যা না মিললে।** ক্যালসিয়াম দেয় ২টি ইলেকট্রন, কিন্তু একটি ক্লোরিন নিতে পারে মাত্র ১টি। তাই একটি Ca-এর লাগে **দুটি** Cl পরমাণু: Ca²⁺ আর ২টি Cl⁻, অর্থাৎ **CaCl₂**। হারানো ইলেকট্রন সবসময় পাওয়া ইলেকট্রনের সমান হতে হবে। দেখো, [[5.4|পাঠ ৫.৪]]-এ আড়াআড়ি পদ্ধতিতে ঠিক এই সংকেতই পেয়েছিলে!
+
+**আঁকার নিয়ম (ইলেকট্রন ডট চিত্র)।** ধাতুর বাইরের ইলেকট্রন ক্রস (×) দিয়ে, অধাতুরগুলো ডট (•) দিয়ে দেখাও। স্থানান্তর বোঝাতে একটা তীর আঁকো, তারপর আয়নগুলোকে আধানসহ তৃতীয় বন্ধনীতে লেখো: [Na]⁺ ও [Cl]⁻, যেখানে ক্লোরাইড আয়নের চারপাশে এখন ৮টি ইলেকট্রন (নিজের ৭টি ডট + সোডিয়ামের ১টি ক্রস)।
+
+**কারা এমন করে?** মূলত গ্রুপ ১ ও ২-এর ধাতু আর গ্রুপ ১৬ ও ১৭-এর অধাতু। তোমার বই অ্যালুমিনিয়ামকেও (গ্রুপ ১৩) এদের মধ্যে গণ্য করে। অ্যালুমিনিয়াম অক্সাইডের মতো যৌগের ক্ষেত্রে কথাটা ঠিক, তবে খেয়াল রেখো, অ্যালুমিনিয়াম ক্লোরাইড মূলত সমযোজী; তাই অ্যালুমিনিয়াম আসলে সীমারেখার মৌল।
+
+**আসলে "অণু" নয়।** কঠিন NaCl-এ আলাদা আলাদা NaCl জোড়া থাকে না। প্রতিটি Na⁺-কে ঘিরে থাকে ৬টি Cl⁻, আর প্রতিটি Cl⁻-কে ঘিরে ৬টি Na⁺, একটি বিশাল ত্রিমাত্রিক কেলাসে। NaCl সংকেত শুধু ১ : ১ অনুপাতটা বলে।
+## analogy
+একটা ছেলের পকেটে একটা বাড়তি এক টাকার কয়েন, যেটা সে খুশি মনে দিয়ে দিতে রাজি; আর একটা মেয়ের সেট পূর্ণ করতে ঠিক একটা কয়েনই দরকার। ছেলেটা দিয়ে দিল; এখন তার কাছে একটা "পাওনা" কম, মেয়েটার একটা বেশি। শেষে তারা চুম্বকের বিপরীত মেরুর মতো শক্ত টানে বাঁধা পড়ে। সেই টানই আয়নিক বন্ধন।
+## definition
+**আয়নিক বা তড়িৎযোজী বন্ধন (Ionic/Electrovalent bond)**: ধাতব পরমাণুর সর্বশেষ কক্ষপথ থেকে অধাতব পরমাণুর সর্বশেষ কক্ষপথে এক বা একাধিক ইলেকট্রন স্থানান্তরের ফলে সৃষ্ট ক্যাটায়ন ও অ্যানায়ন যে স্থির বৈদ্যুতিক (কুলম্ব) আকর্ষণ বলের মাধ্যমে পরস্পরের সাথে যুক্ত থাকে, তাকে আয়নিক বন্ধন বলে।
+
+**আয়নিক যৌগ (Ionic compound)**: যে যৌগের কণাগুলো আয়নিক বন্ধনে যুক্ত থাকে (যেমন NaCl, MgO, CaO, CaCl₂)।
+## why
+কম আয়নিকরণ শক্তির ধাতব পরমাণু সহজে ইলেকট্রন হারায়; বেশি ইলেকট্রন আসক্তির অধাতু সহজে ইলেকট্রন নেয়। স্থানান্তরের পর প্রতিটি আয়ন নিষ্ক্রিয় গ্যাসের স্থিতিশীল বিন্যাস পায়, আর বিপরীত আধানের আয়নগুলো পরস্পরকে জোরে আকর্ষণ করে। আয়নগুলো কেলাসে সাজানোর সময় যে শক্তি নির্গত হয় তা বিশাল, স্থানান্তরের সামান্য খরচের চেয়ে অনেক বেশি; তাই আয়নিক যৌগ আলাদা পরমাণুর চেয়ে অনেক বেশি স্থিতিশীল। বলটি সব দিকে কাজ করে বলে প্রতিটি আয়ন অনেক প্রতিবেশীকে আকর্ষণ করে, ফলে তৈরি হয় শক্ত ত্রিমাত্রিক জালি।
+## terms
+আয়নিক বন্ধন (Ionic bond) | ক্যাটায়ন ও অ্যানায়নের মধ্যে স্থির বৈদ্যুতিক আকর্ষণ
+তড়িৎযোজী বন্ধন (Electrovalent bond) | আয়নিক বন্ধনের আরেক নাম
+স্থির বৈদ্যুতিক আকর্ষণ (Electrostatic force) | বিপরীত আধানের মধ্যে আকর্ষণ
+আয়নিক যৌগ (Ionic compound) | আয়নিক বন্ধনে গঠিত যৌগ: NaCl, MgO
+কেলাস জালি (Crystal lattice) | কঠিন পদার্থে আয়নের নিয়মিত ত্রিমাত্রিক সজ্জা
+ইলেকট্রন ডট চিত্র | বাইরের ইলেকট্রনগুলোকে ডট ও ক্রস দিয়ে দেখানো চিত্র
+## formula
+$$ Na → Na⁺ + e⁻ ;  Cl + e⁻ → Cl⁻ ;  Na⁺ + Cl⁻ → NaCl
+$$ Mg → Mg²⁺ + 2e⁻ ;  O + 2e⁻ → O²⁻ ;  Mg²⁺ + O²⁻ → MgO
+$$ 2Na(s) + Cl₂(g) → 2NaCl(s)
+! ধাতুর হারানো ইলেকট্রন = অধাতুর পাওয়া ইলেকট্রন।
+! যৌগে মোট ধনাত্মক আধান = মোট ঋণাত্মক আধান।
+## visual
+একজোড়া মৌল বেছে নিয়ে চালাও (বা ধাপে ধাপে) চাপো। দেখো ক্রসগুলো (ধাতুর ইলেকট্রন) কীভাবে অধাতুর দিকে লাফ দেয়, আধানসহ আয়ন তৈরি হয়, আর আকর্ষণ দেখা দেয়। নিচে ইলেকট্রনের হিসাব মিলিয়ে দেখো।
+## real
+খাবার লবণ (NaCl) আসে সমুদ্রের পানি থেকে; কক্সবাজার ও চট্টগ্রামের উপকূলে লবণচাষিরা অগভীর মাঠে সমুদ্রের পানি রোদে শুকাতে দেন, যতক্ষণ না এই আয়নিক যৌগের সাদা কেলাস পড়ে থাকে। চুনাপাথর পুড়িয়ে তৈরি চুন বা কলিচুন (ক্যালসিয়াম অক্সাইড, CaO) নির্মাণকাজে আর দেয়াল চুনকাম করতে ব্যবহৃত হয়; এটিও একটি আয়নিক যৌগ।
+## example
+প্রশ্ন: ইলেকট্রন বিন্যাসের সাহায্যে দেখাও ক্যালসিয়াম ক্লোরাইড (CaCl₂) কীভাবে তৈরি হয়।
+সমাধান: Ca (Z = ২০): ২, ৮, ৮, ২। Cl (Z = ১৭): ২, ৮, ৭।
+ধাপ: Ca → Ca²⁺ + 2e⁻ (Ca²⁺: ২, ৮, ৮, আর্গনের মতো)।
+ধাপ: প্রতিটি Cl একটি করে ইলেকট্রন নেয়: 2Cl + 2e⁻ → 2Cl⁻ (প্রতিটি Cl⁻: ২, ৮, ৮)।
+> একটি Cl মাত্র একটি ইলেকট্রন নিতে পারে, তাই Ca-এর দুটি ইলেকট্রনের জন্য দুটি Cl লাগে।
+ধাপ: Ca²⁺ + 2Cl⁻ → CaCl₂।
+উত্তর: Ca দুটি Cl পরমাণুর প্রত্যেককে একটি করে ইলেকট্রন দেয়; Ca²⁺ ও ২টি Cl⁻ আয়ন আয়নিক বন্ধনে যুক্ত হয়ে CaCl₂ গঠন করে।
+## example
+প্রশ্ন: অ্যালুমিনিয়াম অক্সাইডের (Al₂O₃) একটি সংকেত-এককে কয়টি ইলেকট্রন স্থানান্তরিত হয়? আধানের সমতা যাচাই করো।
+সমাধান: প্রতিটি Al দেয় ৩টি ইলেকট্রন: 2Al → 2Al³⁺ + 6e⁻।
+ধাপ: প্রতিটি O নেয় ২টি ইলেকট্রন: 3O + 6e⁻ → 3O²⁻।
+হিসাব: ধনাত্মক আধান ২ × (+৩) = +৬; ঋণাত্মক আধান ৩ × (−২) = −৬।
+উত্তর: ৬টি ইলেকট্রন স্থানান্তরিত হয়; +৬ ও −৬ সমান, তাই Al₂O₃ আধান নিরপেক্ষ।
+## mistakes
+x NaCl-এ সোডিয়াম ও ক্লোরিন এক জোড়া ইলেকট্রন ভাগাভাগি করে।
+v সোডিয়াম তার ইলেকট্রন সম্পূর্ণভাবে ক্লোরিনকে দিয়ে দেয়; আয়নিক বন্ধনে কোনো ভাগাভাগি নেই।
+x কঠিন সোডিয়াম ক্লোরাইড আলাদা আলাদা NaCl অণু দিয়ে তৈরি।
+v এটি Na⁺ ও Cl⁻ আয়নের বিশাল জালি; NaCl শুধু তাদের ১ : ১ অনুপাত বোঝায়।
+x MgO-তে Mg অক্সিজেনকে একটি ইলেকট্রন দেয়।
+v Mg দুটি ইলেকট্রন দেয়, ফলে তৈরি হয় Mg²⁺ ও O²⁻।
+## remember
+- আয়নিক বন্ধন = ধাতু থেকে অধাতুতে ইলেকট্রন স্থানান্তর, তারপর + ও − আয়নের আকর্ষণ।
+- NaCl: Na → Na⁺ + e⁻, Cl + e⁻ → Cl⁻। MgO: Mg → Mg²⁺ + 2e⁻, O + 2e⁻ → O²⁻।
+- হারানো ইলেকট্রন = পাওয়া ইলেকট্রন; আধান সমান থাকে (CaCl₂, Al₂O₃)।
+- সাধারণত গ্রুপ ১, ২-এর ধাতু আর গ্রুপ ১৬, ১৭-এর অধাতু।
+- আয়নিক কঠিন পদার্থ বিশাল কেলাস জালি, আলাদা অণু নয়; বন্ধনটি খুব শক্তিশালী।
+## think
+NaCl ও MgO দুটিই আয়নিক, কিন্তু MgO গলে প্রায় ২৮৫০ °C-এ আর NaCl প্রায় ৮০০ °C-এ। আয়নের আধানের মান দিয়ে এর কারণ কীভাবে ব্যাখ্যা করবে?
+## quiz
+? NaCl গঠনের সময় সোডিয়াম পরমাণু:
+* একটি ইলেকট্রন হারায়
+- একটি ইলেকট্রন গ্রহণ করে
+- একটি ইলেকট্রন ভাগাভাগি করে
+- একটি প্রোটন হারায়
+= Na → Na⁺ + e⁻: সোডিয়াম তার বাইরের ইলেকট্রন ক্লোরিনকে দেয়।
+? MgO গঠনে ম্যাগনেসিয়াম অক্সিজেনকে কয়টি ইলেকট্রন দেয়?
+- ১
+* ২
+- ৩
+- ৬
+= Mg (২, ৮, ২) ২টি ইলেকট্রন হারিয়ে Mg²⁺ হয়; O ২টি পেয়ে O²⁻ হয়।
+? কোনটি আয়নিক যৌগ?
+- CH₄
+- HCl
+* CaO
+- H₂O
+= Ca ধাতু, O অধাতু: ইলেকট্রন স্থানান্তরে Ca²⁺ ও O²⁻ তৈরি হয়।
+? NaH-এ হাইড্রাইড আয়ন H⁻-এর ইলেকট্রন কয়টি?
+- ০
+- ১
+* ২
+- ৮
+= H একটি ইলেকট্রন নিয়ে ২টি পায়: হিলিয়ামের মতো দ্বিত্ব।
+
+@@ 5.11
+@visual k5covalent
+@related 5.8 5.5 5.6 5.12
+== en
+## what
+A **covalent bond** is formed when two non-metal atoms **share** a pair of electrons, each atom giving one electron to the pair, so that both reach a noble-gas configuration. One shared pair is a single bond (H–H, Cl–Cl), two pairs a double bond (O=O), three pairs a triple bond (N≡N).
+## simple
+What happens when two **non-metals** meet? Take two chlorine atoms (2, 8, 7). Each wants to *gain* one electron; neither is willing to lose one. A transfer is impossible. So they do something clever: each puts **one** of its outer electrons into a **pair** that sits between the two nuclei. Both atoms count that pair as their own, so each now "has" 7 + 1 = **8**. Both nuclei are attracted to the shared pair, so the atoms cannot drift apart. This is a **covalent bond** (সমযোজী বন্ধন), and substances made this way are **covalent compounds**.
+
+**How we draw it.** Electrons of one atom are dots (•), of the other crosses (×); the shared pair sits between the symbols. A covalent bond is also drawn as a line: **one line = one shared pair = 2 electrons**.
+
+**Single bonds.**
+- **H₂**: each H (1s¹) shares its one electron: H•×H, or H–H. Each H now has 2, a duet like helium.
+- **Cl₂**: one shared pair; each Cl also keeps **3 lone pairs** (pairs not used in bonding): Cl–Cl.
+
+**Double bond: O₂.** Oxygen (2, 6) is 2 short. Each O shares **two** electrons, making **two** shared pairs: O=O. Each O: 4 shared + 4 in two lone pairs = 8.
+
+**Triple bond: N₂.** Nitrogen (2, 5) is 3 short. Each N shares **three** electrons, making **three** shared pairs: N≡N. Each N: 6 shared + 1 lone pair = 8. The triple bond is very strong, which is why nitrogen gas is so unreactive.
+
+**Compounds.**
+- **H₂O**: O shares one pair with each of two H atoms: two O–H bonds. O keeps 2 lone pairs (4 electrons) that do not take part in bonding.
+- **NH₃**: N shares one pair with each of three H atoms; N keeps 1 lone pair.
+- **CH₄**: C (2, 4) shares one pair with each of four H atoms: 4 C–H bonds and no lone pair.
+
+**Polar covalent bonds (δ⁺ / δ⁻).** In H₂ or Cl₂ both atoms are identical, so they pull the shared pair equally. But in water, oxygen pulls the shared electrons more strongly than hydrogen does. The pair shifts a little toward O. So O gets a small negative charge, written **δ⁻** (delta minus, "partly negative"), and each H a small positive charge, **δ⁺**. Such a bond is a **polar covalent bond**, and water is a **polar** molecule. The pulling power of an atom for a shared pair is its **electronegativity** (তড়িৎ ঋণাত্মকতা). On the common Pauling scale: F 4.0, O 3.4, N 3.0, Cl 3.2, C 2.6, H 2.2. The bigger the difference, the more polar the bond: O–H (difference 1.2) is quite polar, H–Cl (1.0) polar, C–H (0.4) almost non-polar.
+
+**Between molecules.** The bonds *inside* a covalent molecule are strong, but the attraction *between* separate molecules (the **van der Waals force**) is weak. That is why many covalent substances are gases (CO₂, NH₃, O₂, Cl₂) or liquids (H₂O, ethanol) at room temperature, and some are soft, low-melting solids (naphthalene, sulfur, iodine).
+
+**Can the same atom do both?** Oxygen can: it takes 2 electrons in ionic MgO and shares 2 in covalent H₂O. Sodium cannot: it only gives its electron away and forms ionic bonds.
+## analogy
+Two neighbours in a Dhaka building each have half the money for a water pump. Neither can buy it alone, so they chip in together and install one pump between their flats. Both use it as their own, and neither can move away without losing it. The shared pump is the shared electron pair. If one neighbour is "pushier" and uses the pump more, it is like a polar bond: shared, but not equally.
+## definition
+**Covalent bond (সমযোজী বন্ধন)**: the bond formed between two atoms (usually non-metals) by the mutual sharing of one or more pairs of electrons, each atom contributing one electron to each shared pair, so that both atoms attain a noble-gas configuration.
+
+**Covalent compound (সমযোজী যৌগ)**: a compound whose atoms are held together by covalent bonds (CH₄, CO₂, HCl, NH₃, H₂O).
+
+**Electronegativity (তড়িৎ ঋণাত্মকতা)**: the tendency of an atom in a covalent bond to attract the shared electron pair toward itself.
+
+**Polar covalent bond (পোলার সমযোজী বন্ধন)**: a covalent bond in which the shared pair lies closer to the more electronegative atom, giving it a partial negative charge (δ⁻) and the other atom a partial positive charge (δ⁺).
+## why
+Non-metal atoms have high ionization energies, so neither can lose electrons easily, and a full transfer between them does not happen. Sharing solves the problem: the shared electrons spend time near both nuclei, and both positively charged nuclei attract the same negative pair. That attraction holds the atoms together, and the atoms reach a stable octet (or duet) by counting the shared electrons. If the two atoms have different electronegativities, the pair is pulled unevenly and the bond becomes polar.
+## terms
+Covalent bond (সমযোজী বন্ধন) | Bond made by sharing an electron pair
+Shared (bond) pair | Pair of electrons shared between two atoms
+Lone pair (নিঃসঙ্গ জোড়) | Outer electron pair not used in bonding
+Single / double / triple bond | 1 / 2 / 3 shared pairs: –, =, ≡
+Electronegativity (তড়িৎ ঋণাত্মকতা) | Pull of an atom on a shared pair
+Polar covalent bond (পোলার সমযোজী বন্ধন) | Unequal sharing; ends marked δ⁺ and δ⁻
+Van der Waals force (ভ্যান্ডারওয়ালস আকর্ষণ বল) | Weak attraction between covalent molecules
+## formula
+$$ one covalent bond (–) = one shared pair = 2 electrons
+$$ number of bonds formed by an atom = 8 − valence electrons (H: 2 − 1 = 1)
+! H 1 bond, O 2 bonds, N 3 bonds, C 4 bonds, Cl 1 bond.
+! Electronegativity difference ≈ 0 → non-polar (H–H, Cl–Cl); larger difference → polar (O–H, H–Cl).
+! A very large difference (roughly above 1.7) usually means electron transfer, i.e. an ionic bond.
+## visual
+Choose a molecule and see its dot-and-cross diagram: dots and crosses show whose electrons they are, shaded pairs are shared. Turn on "Polarity" to see the δ⁺ and δ⁻ ends and the shared pair shifting toward the more electronegative atom.
+## real
+The natural gas cooking our rice in Dhaka (methane, CH₄), the LPG in cylinders, the water we drink, the sugar in our tea and the plastic of a water bottle are all covalent. The very strong N≡N triple bond is why fertiliser factories such as those at Ghorashal and Ashuganj need high temperature, high pressure and a catalyst to turn nitrogen from the air into ammonia (NH₃) for urea.
+## example
+Q: Show the bonding in a nitrogen molecule, N₂, and count the electrons around each N.
+Solution: N (Z = 7): 2, 5, so it needs 3 more electrons.
+Step: Each N contributes 3 electrons; they form 3 shared pairs: N≡N.
+Step: Around each N: 3 shared pairs (6 electrons) + 1 lone pair (2 electrons) = 8.
+> Shared electrons are counted for both atoms.
+Answer: N₂ has a triple bond; each N has an octet.
+## example
+Q: How many shared pairs and lone pairs are there around the central atom in (a) H₂O, (b) NH₃, (c) CH₄?
+Solution: (a) O (6 valence electrons) forms 2 bonds: 2 shared pairs; 6 − 2 = 4 electrons left = 2 lone pairs.
+(b) N (5) forms 3 bonds: 3 shared pairs; 5 − 3 = 2 electrons left = 1 lone pair.
+(c) C (4) forms 4 bonds: 4 shared pairs; 4 − 4 = 0: no lone pair.
+Answer: (a) 2 and 2, (b) 3 and 1, (c) 4 and 0; every central atom has 4 pairs = 8 electrons.
+## example
+Q: Using electronegativities H 2.2, Cl 3.2, O 3.4, C 2.6, decide which bond is most polar: H–H, C–H, H–Cl, O–H. Mark δ⁺ and δ⁻ on H–Cl.
+Solution: Differences: H–H 0; C–H 0.4; H–Cl 1.0; O–H 1.2.
+> The larger the difference, the more unequal the sharing.
+Answer: O–H is the most polar (H–H is non-polar). In H–Cl, Cl is more electronegative: Hδ⁺–Clδ⁻.
+## mistakes
+x In a covalent bond, one atom gives both electrons to the other.
+v In an ordinary covalent bond each atom gives one electron to the shared pair.
+x O₂ has a single bond because it has two atoms.
+v Each O needs 2 electrons, so they share 2 pairs: a double bond, O=O.
+x δ⁺ and δ⁻ mean the atoms have become ions.
+v They are only partial charges from uneven sharing; no electron has been fully transferred.
+x Melting ice breaks the O–H bonds in water.
+v Melting only overcomes the weak forces between molecules; the O–H bonds inside each molecule stay intact.
+## remember
+- Covalent bond = sharing an electron pair; usually between non-metals.
+- 1 line = 1 shared pair = 2 electrons; H–H, O=O, N≡N.
+- H₂O: 2 bonds + 2 lone pairs; NH₃: 3 + 1; CH₄: 4 + 0.
+- Unequal sharing → polar bond (δ⁺, δ⁻); water is polar.
+- Strong bonds inside molecules, weak van der Waals forces between them → low melting/boiling points.
+## think
+Carbon dioxide has two polar C=O bonds, yet the whole CO₂ molecule is non-polar. Looking at its straight shape, O=C=O, can you suggest why?
+## quiz
+? How many shared electron pairs are there in an N₂ molecule?
+- 1
+- 2
+* 3
+- 4
+= Each N needs 3 electrons, so they share 3 pairs: N≡N.
+? The number of lone pairs on the O atom in water is:
+- 0
+- 1
+* 2
+- 3
+= O has 6 valence electrons; 2 are used in bonds, leaving 4 = 2 lone pairs.
+? In a water molecule, the partial negative charge (δ⁻) is on:
+* the oxygen atom
+- each hydrogen atom
+- both H and O equally
+- neither atom
+= Oxygen is more electronegative, so the shared pairs shift toward it.
+? Why are many covalent compounds gases or liquids at room temperature?
+- Their covalent bonds are very weak
+* The forces between their molecules are weak
+- They contain ions
+- They have no electrons
+= Van der Waals forces between molecules are weak, so little energy separates them.
+== bn
+## what
+দুটি অধাতব পরমাণু প্রত্যেকে একটি করে ইলেকট্রন দিয়ে এক জোড়া ইলেকট্রন **ভাগাভাগি (শেয়ার)** করে নিষ্ক্রিয় গ্যাসের বিন্যাস লাভ করলে যে বন্ধন তৈরি হয়, তাকে **সমযোজী বন্ধন** বলে। এক জোড়া ভাগাভাগি হলে একবন্ধন (H–H, Cl–Cl), দুই জোড়ায় দ্বিবন্ধন (O=O), তিন জোড়ায় ত্রিবন্ধন (N≡N)।
+## simple
+দুটি **অধাতুর** দেখা হলে কী হয়? দুটি ক্লোরিন পরমাণু (২, ৮, ৭) নাও। প্রত্যেকেই একটি ইলেকট্রন *নিতে* চায়; কেউই ছাড়তে রাজি নয়। স্থানান্তর অসম্ভব। তাই তারা একটা চমৎকার বুদ্ধি খাটায়: প্রত্যেকে তার বাইরের **একটি** ইলেকট্রন দিয়ে দুই নিউক্লিয়াসের মাঝখানে একটি **জোড়া** তৈরি করে। দুজনই সেই জোড়াটিকে নিজের বলে গোনে, তাই প্রত্যেকের এখন ৭ + ১ = **৮টি**। দুটি নিউক্লিয়াসই ভাগের জোড়াটিকে আকর্ষণ করে, ফলে পরমাণুগুলো আর সরে যেতে পারে না। এটাই **সমযোজী বন্ধন** (Covalent bond), আর এভাবে তৈরি পদার্থ **সমযোজী যৌগ**।
+
+**কীভাবে আঁকি।** এক পরমাণুর ইলেকট্রন ডট (•), অন্যটির ক্রস (×); ভাগের জোড়াটি থাকে প্রতীক দুটির মাঝখানে। সমযোজী বন্ধনকে একটি রেখা দিয়েও আঁকা হয়: **একটি রেখা = এক জোড়া ভাগাভাগি = ২টি ইলেকট্রন**।
+
+**একবন্ধন।**
+- **H₂**: প্রতিটি H (1s¹) তার একমাত্র ইলেকট্রন ভাগাভাগি করে: H•×H, বা H–H। প্রতিটি H-এর এখন ২টি, হিলিয়ামের মতো দ্বিত্ব।
+- **Cl₂**: এক জোড়া ভাগাভাগি; প্রতিটি Cl নিজের কাছে আরও **৩টি নিঃসঙ্গ জোড়** (বন্ধনে অংশ না নেওয়া জোড়) রাখে: Cl–Cl।
+
+**দ্বিবন্ধন: O₂।** অক্সিজেনের (২, ৬) ২টি কম। প্রতিটি O **দুটি** করে ইলেকট্রন দেয়, তৈরি হয় **দুই** জোড়া: O=O। প্রতিটি O: ৪টি ভাগের + দুটি নিঃসঙ্গ জোড়ে ৪টি = ৮টি।
+
+**ত্রিবন্ধন: N₂।** নাইট্রোজেনের (২, ৫) ৩টি কম। প্রতিটি N **তিনটি** করে ইলেকট্রন দেয়, তৈরি হয় **তিন** জোড়া: N≡N। প্রতিটি N: ৬টি ভাগের + ১টি নিঃসঙ্গ জোড় = ৮টি। ত্রিবন্ধন খুবই শক্তিশালী, এজন্যই নাইট্রোজেন গ্যাস এত নিষ্ক্রিয়।
+
+**যৌগ।**
+- **H₂O**: O দুটি H-এর প্রত্যেকের সাথে এক জোড়া ভাগাভাগি করে: দুটি O–H বন্ধন। O-এর কাছে থাকে ২টি নিঃসঙ্গ জোড় (৪টি ইলেকট্রন), যারা বন্ধনে অংশ নেয় না।
+- **NH₃**: N তিনটি H-এর প্রত্যেকের সাথে এক জোড়া ভাগাভাগি করে; N-এর থাকে ১টি নিঃসঙ্গ জোড়।
+- **CH₄**: C (২, ৪) চারটি H-এর প্রত্যেকের সাথে এক জোড়া ভাগাভাগি করে: ৪টি C–H বন্ধন, কোনো নিঃসঙ্গ জোড় নেই।
+
+**পোলার সমযোজী বন্ধন (δ⁺ / δ⁻)।** H₂ বা Cl₂-তে দুটি পরমাণু একই রকম, তাই ভাগের জোড়াটিকে সমানভাবে টানে। কিন্তু পানিতে অক্সিজেন ভাগের ইলেকট্রনগুলোকে হাইড্রোজেনের চেয়ে জোরে টানে। জোড়াটি একটু O-এর দিকে সরে যায়। ফলে O পায় সামান্য ঋণাত্মক আধান, লেখা হয় **δ⁻** (ডেল্টা মাইনাস, "আংশিক ঋণাত্মক"), আর প্রতিটি H পায় সামান্য ধনাত্মক আধান, **δ⁺**। এমন বন্ধনকে বলে **পোলার সমযোজী বন্ধন**, আর পানি একটি **পোলার** অণু। ভাগের জোড়াকে নিজের দিকে টানার ক্ষমতাকেই বলে **তড়িৎ ঋণাত্মকতা** (Electronegativity)। প্রচলিত পাউলিং স্কেলে: F ৪.০, O ৩.৪, N ৩.০, Cl ৩.২, C ২.৬, H ২.২। পার্থক্য যত বেশি, বন্ধন তত পোলার: O–H (পার্থক্য ১.২) বেশ পোলার, H–Cl (১.০) পোলার, C–H (০.৪) প্রায় অপোলার।
+
+**অণুগুলোর মাঝে।** সমযোজী অণুর *ভেতরের* বন্ধনগুলো শক্ত, কিন্তু আলাদা অণুগুলোর *মধ্যকার* আকর্ষণ (**ভ্যান্ডারওয়ালস আকর্ষণ বল**) দুর্বল। এজন্যই অনেক সমযোজী পদার্থ সাধারণ তাপমাত্রায় গ্যাস (CO₂, NH₃, O₂, Cl₂) বা তরল (H₂O, ইথানল), আর কিছু নরম, কম গলনাঙ্কের কঠিন (ন্যাপথালিন, সালফার, আয়োডিন)।
+
+**একই পরমাণু কি দুটোই পারে?** অক্সিজেন পারে: আয়নিক MgO-তে সে ২টি ইলেকট্রন নেয়, আর সমযোজী H₂O-তে ২টি ভাগাভাগি করে। সোডিয়াম পারে না: সে শুধু ইলেকট্রন দিয়ে দেয় আর আয়নিক বন্ধন গড়ে।
+## analogy
+ঢাকার একটা ভবনে দুই প্রতিবেশীর প্রত্যেকের কাছে পানির পাম্প কেনার অর্ধেক টাকা আছে। একা কেউই কিনতে পারে না, তাই দুজনে টাকা মিলিয়ে দুই ফ্ল্যাটের মাঝখানে একটা পাম্প বসাল। দুজনই সেটা নিজের মতো ব্যবহার করে, আর কেউ সরে গেলে পাম্প হারাবে। ভাগের পাম্পটাই ভাগের ইলেকট্রন জোড়া। একজন যদি একটু "জোরালো" হয়ে পাম্প বেশি ব্যবহার করে, সেটা পোলার বন্ধনের মতো: ভাগাভাগি, তবে সমান নয়।
+## definition
+**সমযোজী বন্ধন (Covalent bond)**: দুটি পরমাণু (সাধারণত অধাতু) প্রতিটি ভাগের জোড়ে একটি করে ইলেকট্রন দিয়ে পারস্পরিকভাবে এক বা একাধিক জোড়া ইলেকট্রন ভাগাভাগি করে উভয়েই নিষ্ক্রিয় গ্যাসের বিন্যাস লাভ করলে যে বন্ধন তৈরি হয়।
+
+**সমযোজী যৌগ (Covalent compound)**: যে যৌগের পরমাণুগুলো সমযোজী বন্ধনে যুক্ত (CH₄, CO₂, HCl, NH₃, H₂O)।
+
+**তড়িৎ ঋণাত্মকতা (Electronegativity)**: সমযোজী বন্ধনে কোনো পরমাণুর ভাগের ইলেকট্রন জোড়াকে নিজের দিকে আকর্ষণ করার প্রবণতা।
+
+**পোলার সমযোজী বন্ধন (Polar covalent bond)**: যে সমযোজী বন্ধনে ভাগের জোড়াটি বেশি তড়িৎ ঋণাত্মক পরমাণুর কাছাকাছি থাকে, ফলে সেই পরমাণু আংশিক ঋণাত্মক (δ⁻) আর অন্যটি আংশিক ধনাত্মক (δ⁺) আধান পায়।
+## why
+অধাতব পরমাণুর আয়নিকরণ শক্তি বেশি, তাই কেউই সহজে ইলেকট্রন হারাতে পারে না, আর তাদের মধ্যে পুরো স্থানান্তর ঘটে না। ভাগাভাগি এই সমস্যার সমাধান: ভাগের ইলেকট্রনগুলো দুই নিউক্লিয়াসের কাছেই সময় কাটায়, আর ধনাত্মক দুটি নিউক্লিয়াসই একই ঋণাত্মক জোড়াকে আকর্ষণ করে। এই আকর্ষণই পরমাণুগুলোকে ধরে রাখে, আর ভাগের ইলেকট্রন গুনে পরমাণুরা স্থিতিশীল অষ্টক (বা দ্বিত্ব) পায়। দুটি পরমাণুর তড়িৎ ঋণাত্মকতা আলাদা হলে জোড়াটি অসমভাবে টানা হয়, আর বন্ধন পোলার হয়।
+## terms
+সমযোজী বন্ধন (Covalent bond) | এক জোড়া ইলেকট্রন ভাগাভাগিতে তৈরি বন্ধন
+ভাগের (বন্ধন) জোড় | দুই পরমাণুর মধ্যে ভাগাভাগি করা ইলেকট্রন জোড়া
+নিঃসঙ্গ জোড় (Lone pair) | বন্ধনে অংশ না নেওয়া বাইরের ইলেকট্রন জোড়া
+একবন্ধন / দ্বিবন্ধন / ত্রিবন্ধন | ১ / ২ / ৩ জোড়া ভাগাভাগি: –, =, ≡
+তড়িৎ ঋণাত্মকতা (Electronegativity) | ভাগের জোড়ার ওপর পরমাণুর টান
+পোলার সমযোজী বন্ধন (Polar covalent bond) | অসম ভাগাভাগি; প্রান্ত দুটি δ⁺ ও δ⁻ দিয়ে চিহ্নিত
+ভ্যান্ডারওয়ালস আকর্ষণ বল (Van der Waals force) | সমযোজী অণুগুলোর মধ্যে দুর্বল আকর্ষণ
+## formula
+$$ একটি সমযোজী বন্ধন (–) = এক জোড়া ভাগাভাগি = ২টি ইলেকট্রন
+$$ পরমাণুর গঠিত বন্ধন সংখ্যা = ৮ − যোজ্যতা ইলেকট্রন (H: ২ − ১ = ১)
+! H ১টি বন্ধন, O ২টি, N ৩টি, C ৪টি, Cl ১টি।
+! তড়িৎ ঋণাত্মকতার পার্থক্য ≈ ০ → অপোলার (H–H, Cl–Cl); পার্থক্য বেশি → পোলার (O–H, H–Cl)।
+! পার্থক্য খুব বেশি হলে (মোটামুটি ১.৭-এর বেশি) সাধারণত ইলেকট্রন স্থানান্তর ঘটে, অর্থাৎ আয়নিক বন্ধন।
+## visual
+একটি অণু বেছে নিয়ে তার ডট-ক্রস চিত্র দেখো: ডট আর ক্রস বলে দেয় কোন ইলেকট্রন কার, রং করা জোড়াগুলো ভাগের। "পোলারিটি" চালু করলে δ⁺ ও δ⁻ প্রান্ত দেখবে, আর দেখবে ভাগের জোড়া বেশি তড়িৎ ঋণাত্মক পরমাণুর দিকে সরে যাচ্ছে।
+## real
+ঢাকায় যে প্রাকৃতিক গ্যাসে ভাত রান্না হয় (মিথেন, CH₄), সিলিন্ডারের এলপিজি, খাবার পানি, চায়ের চিনি আর পানির বোতলের প্লাস্টিক সবই সমযোজী। N≡N ত্রিবন্ধন অত্যন্ত শক্ত বলেই ঘোড়াশাল ও আশুগঞ্জের মতো সার কারখানায় বাতাসের নাইট্রোজেন থেকে ইউরিয়ার জন্য অ্যামোনিয়া (NH₃) বানাতে উচ্চ তাপমাত্রা, উচ্চ চাপ আর প্রভাবক লাগে।
+## example
+প্রশ্ন: নাইট্রোজেন অণুতে (N₂) বন্ধন দেখাও এবং প্রতিটি N-এর চারপাশের ইলেকট্রন গোনো।
+সমাধান: N (Z = ৭): ২, ৫, তাই আরও ৩টি ইলেকট্রন দরকার।
+ধাপ: প্রতিটি N ৩টি করে ইলেকট্রন দেয়; তৈরি হয় ৩টি ভাগের জোড়: N≡N।
+ধাপ: প্রতিটি N-এর চারপাশে: ৩টি ভাগের জোড় (৬টি ইলেকট্রন) + ১টি নিঃসঙ্গ জোড় (২টি) = ৮টি।
+> ভাগের ইলেকট্রন দুই পরমাণুর জন্যই গোনা হয়।
+উত্তর: N₂-তে ত্রিবন্ধন; প্রতিটি N-এর অষ্টক পূর্ণ।
+## example
+প্রশ্ন: কেন্দ্রীয় পরমাণুর চারপাশে কয়টি ভাগের জোড় আর কয়টি নিঃসঙ্গ জোড়: (ক) H₂O, (খ) NH₃, (গ) CH₄?
+সমাধান: (ক) O (যোজ্যতা ইলেকট্রন ৬) ২টি বন্ধন গড়ে: ২টি ভাগের জোড়; ৬ − ২ = ৪টি বাকি = ২টি নিঃসঙ্গ জোড়।
+(খ) N (৫) ৩টি বন্ধন গড়ে: ৩টি ভাগের জোড়; ৫ − ৩ = ২টি বাকি = ১টি নিঃসঙ্গ জোড়।
+(গ) C (৪) ৪টি বন্ধন গড়ে: ৪টি ভাগের জোড়; ৪ − ৪ = ০: নিঃসঙ্গ জোড় নেই।
+উত্তর: (ক) ২ ও ২, (খ) ৩ ও ১, (গ) ৪ ও ০; প্রতিটি কেন্দ্রীয় পরমাণুর ৪ জোড়া = ৮টি ইলেকট্রন।
+## example
+প্রশ্ন: তড়িৎ ঋণাত্মকতা H ২.২, Cl ৩.২, O ৩.৪, C ২.৬ ব্যবহার করে বলো কোন বন্ধনটি সবচেয়ে পোলার: H–H, C–H, H–Cl, O–H। H–Cl-এ δ⁺ ও δ⁻ চিহ্নিত করো।
+সমাধান: পার্থক্য: H–H ০; C–H ০.৪; H–Cl ১.০; O–H ১.২।
+> পার্থক্য যত বেশি, ভাগাভাগি তত অসম।
+উত্তর: O–H সবচেয়ে পোলার (H–H অপোলার)। H–Cl-এ Cl বেশি তড়িৎ ঋণাত্মক: Hδ⁺–Clδ⁻।
+## mistakes
+x সমযোজী বন্ধনে একটি পরমাণু দুটি ইলেকট্রনই অন্যটিকে দিয়ে দেয়।
+v সাধারণ সমযোজী বন্ধনে প্রতিটি পরমাণু ভাগের জোড়ে একটি করে ইলেকট্রন দেয়।
+x O₂-তে দুটি পরমাণু, তাই একবন্ধন।
+v প্রতিটি O-এর ২টি ইলেকট্রন দরকার, তাই তারা ২ জোড়া ভাগাভাগি করে: দ্বিবন্ধন, O=O।
+x δ⁺ ও δ⁻ মানে পরমাণুগুলো আয়ন হয়ে গেছে।
+v এগুলো অসম ভাগাভাগির আংশিক আধান মাত্র; কোনো ইলেকট্রন পুরোপুরি স্থানান্তরিত হয়নি।
+x বরফ গলালে পানির O–H বন্ধন ভেঙে যায়।
+v গলানোর সময় শুধু অণুগুলোর মধ্যকার দুর্বল বল কাটে; প্রতিটি অণুর ভেতরের O–H বন্ধন অটুট থাকে।
+## remember
+- সমযোজী বন্ধন = এক জোড়া ইলেকট্রন ভাগাভাগি; সাধারণত অধাতুদের মধ্যে।
+- ১টি রেখা = ১ জোড়া ভাগাভাগি = ২টি ইলেকট্রন; H–H, O=O, N≡N।
+- H₂O: ২টি বন্ধন + ২টি নিঃসঙ্গ জোড়; NH₃: ৩ + ১; CH₄: ৪ + ০।
+- অসম ভাগাভাগি → পোলার বন্ধন (δ⁺, δ⁻); পানি পোলার।
+- অণুর ভেতরে শক্ত বন্ধন, অণুগুলোর মাঝে দুর্বল ভ্যান্ডারওয়ালস বল → কম গলনাঙ্ক/স্ফুটনাঙ্ক।
+## think
+কার্বন ডাই-অক্সাইডে দুটি পোলার C=O বন্ধন আছে, তবুও পুরো CO₂ অণুটি অপোলার। এর সোজা আকৃতি, O=C=O, দেখে কারণটা অনুমান করতে পারো?
+## quiz
+? N₂ অণুতে কয় জোড়া ইলেকট্রন ভাগাভাগি হয়?
+- ১
+- ২
+* ৩
+- ৪
+= প্রতিটি N-এর ৩টি ইলেকট্রন দরকার, তাই তারা ৩ জোড়া ভাগাভাগি করে: N≡N।
+? পানির O পরমাণুতে নিঃসঙ্গ জোড়ের সংখ্যা:
+- ০
+- ১
+* ২
+- ৩
+= O-এর যোজ্যতা ইলেকট্রন ৬টি; ২টি বন্ধনে যায়, বাকি ৪টি = ২টি নিঃসঙ্গ জোড়।
+? পানির অণুতে আংশিক ঋণাত্মক আধান (δ⁻) থাকে:
+* অক্সিজেন পরমাণুতে
+- প্রতিটি হাইড্রোজেন পরমাণুতে
+- H ও O-তে সমানভাবে
+- কোনোটিতেই না
+= অক্সিজেন বেশি তড়িৎ ঋণাত্মক, তাই ভাগের জোড়াগুলো তার দিকে সরে যায়।
+? অনেক সমযোজী যৌগ সাধারণ তাপমাত্রায় গ্যাস বা তরল কেন?
+- এদের সমযোজী বন্ধন খুব দুর্বল
+* এদের অণুগুলোর মধ্যকার বল দুর্বল
+- এদের মধ্যে আয়ন থাকে
+- এদের কোনো ইলেকট্রন নেই
+= অণুগুলোর মধ্যে ভ্যান্ডারওয়ালস বল দুর্বল, তাই অল্প শক্তিতেই আলাদা হয়ে যায়।
+
+@@ 5.12
+@visual k5props
+@related 5.10 5.11 5.13 3.1
+== en
+## what
+Ionic compounds usually have **high melting and boiling points**, **dissolve in water**, **conduct electricity when dissolved or molten**, and form **crystals**. Covalent compounds usually have **low melting and boiling points**, **do not dissolve in water** (except polar ones such as sugar and ethanol), **do not conduct electricity**, and many are not crystalline.
+## simple
+The type of bond decides how a substance behaves. Let's compare, property by property.
+
+**(a) Melting and boiling points.** In an ionic compound such as NaCl, huge numbers of Na⁺ and Cl⁻ ions are packed in a 3-D crystal, each held on all sides by strong electrostatic forces. To melt it you must shake those ions loose, which needs a lot of heat: NaCl melts at about **801 °C** and boils at about **1413 °C**. In a covalent substance the bonds *inside* each molecule are strong, but the molecules are held to *each other* only by weak van der Waals forces. Little heat separates them: naphthalene melts at about **80 °C**, water at **0 °C**, and methane boils at about **−162 °C**.
+
+**(b) Solubility in water.** Stir salt, washing soda (Na₂CO₃·10H₂O) or blue vitriol (CuSO₄·5H₂O) into water: they dissolve. (A few ionic compounds, such as silver chloride, AgCl, do not.) Try naphthalene, mustard oil or kerosene: they do not dissolve.
+
+Why? Water is a **polar** molecule (Oδ⁻, Hδ⁺). When salt is added, the δ⁺ ends of water molecules pull on Cl⁻ ions and the δ⁻ ends pull on Na⁺ ions. When this pull becomes stronger than the attraction between Na⁺ and Cl⁻, the ions come off the crystal one by one and are surrounded by water molecules: the salt dissolves. Non-polar covalent substances (methane, naphthalene, kerosene) have no charged ends for water to grab, so they stay out. Some covalent compounds are polar themselves (sugar, glucose, methanol CH₃OH, ethanol C₂H₅OH), and they do dissolve, but as whole molecules, not as ions. The rule of thumb is "**like dissolves like**".
+
+**(c) Electrical conductivity.** An electric current needs **free-moving charged particles**. Set up two carbon (graphite) rods in a beaker, joined through a small torch bulb to a torch battery. Salt solution: the bulb glows, because Na⁺ and Cl⁻ ions move through the water. Sugar solution: the bulb stays dark, because sugar dissolves as neutral molecules. CaCl₂ solution (Ca²⁺, Cl⁻) also conducts; glucose solution does not.
+
+Two important details:
+- **Solid** NaCl does **not** conduct: its ions are locked in place. **Molten** NaCl does conduct, because the ions can now move.
+- **HCl** is a covalent molecule, yet its water solution conducts. This is because HCl *reacts* with water and splits into H⁺ (really H₃O⁺) and Cl⁻ ions. So "covalent compounds never conduct in water" has exceptions: acids like HCl conduct because they form ions in water.
+
+**(d) Crystals.** Dissolve as much salt as you can in warm water in one beaker and sugar in another, hang a cotton thread in each and leave them for some days. Crystals grow on both threads. Almost all ionic compounds exist as crystals; some covalent compounds such as sugar also form crystals, but many covalent substances are gases, liquids or non-crystalline solids.
+
+**Careful with the simple solubility test.** Your book suggests sorting substances by whether they dissolve in water. It works for salt, washing soda, camphor and naphthalene, but not always: sugar dissolves yet is covalent, and silver chloride does not dissolve yet is ionic. Adding the bulb test (does the solution conduct?) makes the conclusion much more reliable.
+## analogy
+Ionic crystals are like a packed school assembly where every student holds hands with the students on all sides: hard to break up, and nobody can wander (no conduction) until the assembly is dismissed (molten or dissolved). Covalent molecules are like couples strolling in a park: each couple is firmly together, but the couples are hardly attached to one another, so a small push scatters them.
+## definition
+**Properties of ionic compounds**: usually crystalline solids with high melting and boiling points; most are soluble in water (a polar solvent) and insoluble in non-polar solvents; they conduct electricity in the molten state and in aqueous solution, but not as solids.
+
+**Properties of covalent compounds**: usually gases, liquids or low-melting solids; mostly insoluble in water (except polar ones); non-conductors of electricity in the pure state and, except for those that react with water to form ions (such as HCl), in solution.
+## why
+All four properties come from the particles and the forces between them. Ionic compounds are made of ions held by strong forces in all directions: hence high melting points, crystals, and conduction once the ions can move. Polar water can pull ions apart, so most ionic compounds dissolve. Covalent substances are made of neutral molecules held to each other by weak van der Waals forces: hence low melting points and no free charges to carry current. Non-polar molecules are not attracted by water, so they do not dissolve.
+## terms
+Melting point (গলনাঙ্ক) | Temperature at which a solid becomes liquid
+Boiling point (স্ফুটনাঙ্ক) | Temperature at which a liquid boils
+Solubility (দ্রাব্যতা) | Ability to dissolve in a solvent
+Polar solvent (পোলার দ্রাবক) | Solvent with δ⁺ and δ⁻ ends, e.g. water
+Electrical conductivity (বিদ্যুৎ পরিবাহিতা) | Ability to carry an electric current
+Crystal (কেলাস / স্ফটিক) | Solid with particles in a regular repeating pattern
+## formula
+$$ current needs free-moving charged particles (ions or electrons)
+! Ionic: solid ✗, molten ✓, in water ✓ (conducts).
+! Covalent: generally ✗; exceptions such as HCl form ions in water and conduct.
+! Like dissolves like: polar/ionic dissolve in water; non-polar in non-polar solvents (kerosene).
+## visual
+Choose a substance and a condition (solid, molten or dissolved in water). See whether the bulb lights, then read its bond type, melting point and solubility in the table below.
+## real
+In Bangladeshi kitchens you see these properties every day. Salt and sugar both dissolve in tea or water, but oil floats on water and never mixes. Naphthalene balls in wardrobes slowly vanish because weak forces between their covalent molecules let them turn directly to vapour (sublime), while salt never evaporates. And never touch electrical switches with wet, salty hands: dissolved ions make water on skin a good conductor.
+## example
+Q: A white solid X melts at 801 °C, dissolves in water, and its solution lights a bulb. Another white solid Y melts at 80 °C and does not dissolve in water. Which is ionic and which is covalent?
+Solution: X: high melting point, soluble, conducts in solution → ionic (it could be NaCl).
+Y: low melting point, insoluble → covalent (it could be naphthalene).
+Answer: X is ionic; Y is covalent.
+## example
+Q: Explain why (a) solid NaCl does not conduct but molten NaCl does, and (b) glucose solution does not conduct.
+Solution: (a) In the solid, Na⁺ and Cl⁻ are fixed in the lattice and cannot move. On melting, the lattice breaks and the ions move freely to the electrodes, carrying current.
+(b) Glucose (C₆H₁₂O₆) is covalent; it dissolves as neutral molecules and forms no ions.
+Answer: Conduction needs mobile ions: present in molten NaCl, absent in solid NaCl and in glucose solution.
+## mistakes
+x Everything that dissolves in water is ionic.
+v Sugar, glucose and ethanol dissolve but are covalent; they dissolve as polar molecules, not ions.
+x Solid salt conducts electricity because it contains ions.
+v The ions in a solid are fixed; salt conducts only when molten or dissolved.
+x Covalent compounds have low melting points because their covalent bonds are weak.
+v Their covalent bonds are strong; it is the forces *between* molecules that are weak.
+## remember
+- Ionic: high m.p./b.p., mostly soluble in water, conduct when molten or dissolved, crystalline.
+- Covalent: low m.p./b.p., mostly insoluble in water, do not conduct, often not crystalline.
+- Water is polar; it pulls ions out of a crystal ("like dissolves like").
+- Conduction needs moving ions: salt solution ✓, sugar solution ✗, solid salt ✗, molten salt ✓.
+- Exceptions: AgCl (ionic, insoluble), sugar (covalent, soluble), HCl (covalent, conducts in water).
+## think
+Kerosene does not dissolve in water, but it does dissolve naphthalene and grease. Using "like dissolves like", explain why petrol or kerosene can remove grease from a bicycle chain when water cannot.
+## quiz
+? Which property is typical of ionic compounds?
+* High melting point
+- Insoluble in water
+- Gas at room temperature
+- Never conducts electricity
+= Strong forces between ions in the crystal need a lot of energy to overcome.
+? Salt water lights the bulb but sugar water does not, because:
+- sugar is heavier than salt
+* salt forms free Na⁺ and Cl⁻ ions in water; sugar forms no ions
+- sugar does not dissolve
+- salt water is hotter
+= Current needs moving charged particles; sugar dissolves as neutral molecules.
+? Solid sodium chloride does not conduct electricity because:
+- it has no ions
+* its ions cannot move
+- it has free electrons
+- it is covalent
+= In the solid lattice the ions are fixed; they move only when molten or dissolved.
+? Which of these is covalent but still dissolves in water?
+- Naphthalene
+- Methane
+* Glucose
+- Kerosene
+= Glucose is a polar covalent molecule, so polar water dissolves it.
+== bn
+## what
+আয়নিক যৌগের সাধারণত **গলনাঙ্ক ও স্ফুটনাঙ্ক বেশি**, এরা **পানিতে দ্রবীভূত হয়**, **দ্রবীভূত বা গলিত অবস্থায় বিদ্যুৎ পরিবহণ করে**, আর **কেলাস** গঠন করে। সমযোজী যৌগের সাধারণত **গলনাঙ্ক ও স্ফুটনাঙ্ক কম**, এরা **পানিতে দ্রবীভূত হয় না** (চিনি, ইথানলের মতো পোলার যৌগ বাদে), **বিদ্যুৎ পরিবহণ করে না**, আর অনেকেই কেলাস গঠন করে না।
+## simple
+বন্ধনের ধরনই ঠিক করে পদার্থটি কেমন আচরণ করবে। চলো একটা একটা ধর্ম ধরে তুলনা করি।
+
+**(ক) গলনাঙ্ক ও স্ফুটনাঙ্ক।** NaCl-এর মতো আয়নিক যৌগে অসংখ্য Na⁺ ও Cl⁻ আয়ন ত্রিমাত্রিক কেলাসে ঠাসাঠাসি করে সাজানো, প্রতিটি চারদিক থেকে শক্তিশালী স্থির বৈদ্যুতিক বলে আটকানো। গলাতে হলে এই আয়নগুলোকে নাড়িয়ে আলগা করতে হয়, যাতে প্রচুর তাপ লাগে: NaCl গলে প্রায় **৮০১ °C**-এ, ফোটে প্রায় **১৪১৩ °C**-এ। সমযোজী পদার্থে প্রতিটি অণুর *ভেতরের* বন্ধন শক্ত, কিন্তু অণুগুলো *পরস্পরের* সাথে শুধু দুর্বল ভ্যান্ডারওয়ালস বলে আটকানো। অল্প তাপেই এরা আলাদা হয়: ন্যাপথালিন গলে প্রায় **৮০ °C**-এ, পানি **০ °C**-এ, আর মিথেন ফোটে প্রায় **−১৬২ °C**-এ।
+
+**(খ) পানিতে দ্রাব্যতা।** পানিতে লবণ, কাপড় কাচা সোডা (Na₂CO₃·10H₂O) বা তুঁতে (CuSO₄·5H₂O) মিশিয়ে নাড়ো: দ্রবীভূত হয়ে যায়। (সিলভার ক্লোরাইড, AgCl-এর মতো অল্প কয়েকটি আয়নিক যৌগ হয় না।) ন্যাপথালিন, সরিষার তেল বা কেরোসিন দিয়ে চেষ্টা করো: দ্রবীভূত হয় না।
+
+কেন? পানি একটি **পোলার** অণু (Oδ⁻, Hδ⁺)। লবণ দিলে পানির অণুর δ⁺ প্রান্ত Cl⁻ আয়নকে আর δ⁻ প্রান্ত Na⁺ আয়নকে টানে। এই টান যখন Na⁺ ও Cl⁻-এর মধ্যকার আকর্ষণের চেয়ে বেশি হয়, আয়নগুলো একে একে কেলাস থেকে খসে পানির অণু দিয়ে ঘেরাও হয়ে যায়: লবণ দ্রবীভূত হয়। অপোলার সমযোজী পদার্থের (মিথেন, ন্যাপথালিন, কেরোসিন) কোনো আধানযুক্ত প্রান্ত নেই যা পানি ধরতে পারে, তাই এরা আলাদা থাকে। কিছু সমযোজী যৌগ নিজেরাই পোলার (চিনি, গ্লুকোজ, মিথানল CH₃OH, ইথানল C₂H₅OH), আর এরা দ্রবীভূত হয়, তবে আয়ন হিসেবে নয়, পুরো অণু হিসেবে। মোটা দাগের নিয়ম: "**সমধর্মী সমধর্মীকে দ্রবীভূত করে**"।
+
+**(গ) বিদ্যুৎ পরিবাহিতা।** বিদ্যুৎ প্রবাহের জন্য দরকার **চলাচলে সক্ষম আধানযুক্ত কণা**। একটি বিকারে দুটি কার্বন (গ্রাফাইট) দণ্ড বসিয়ে একটি ছোট টর্চের বাল্বের মাধ্যমে টর্চের ব্যাটারির সাথে যুক্ত করো। লবণ পানি: বাল্ব জ্বলে, কারণ Na⁺ ও Cl⁻ আয়ন পানির মধ্য দিয়ে চলাচল করে। চিনির পানি: বাল্ব জ্বলে না, কারণ চিনি আধানহীন অণু হিসেবে দ্রবীভূত হয়। CaCl₂ দ্রবণও (Ca²⁺, Cl⁻) বিদ্যুৎ পরিবহণ করে; গ্লুকোজ দ্রবণ করে না।
+
+দুটি গুরুত্বপূর্ণ কথা:
+- **কঠিন** NaCl বিদ্যুৎ পরিবহণ **করে না**: এর আয়নগুলো জায়গায় আটকানো। **গলিত** NaCl করে, কারণ এখন আয়নগুলো চলতে পারে।
+- **HCl** একটি সমযোজী অণু, তবুও এর জলীয় দ্রবণ বিদ্যুৎ পরিবহণ করে। কারণ HCl পানির সাথে *বিক্রিয়া করে* H⁺ (আসলে H₃O⁺) ও Cl⁻ আয়নে ভেঙে যায়। তাই "সমযোজী যৌগ কখনো পানিতে বিদ্যুৎ পরিবহণ করে না" কথাটির ব্যতিক্রম আছে: HCl-এর মতো এসিড পানিতে আয়ন তৈরি করে বলে বিদ্যুৎ পরিবহণ করে।
+
+**(ঘ) কেলাস।** একটি বিকারে গরম পানিতে যতটা সম্ভব লবণ, আরেকটিতে চিনি গুলে নাও, প্রতিটিতে একটা সুতি সুতা ঝুলিয়ে কয়েক দিন রেখে দাও। দুটি সুতাতেই কেলাস জন্মাবে। প্রায় সব আয়নিক যৌগ কেলাস আকারে থাকে; চিনির মতো কিছু সমযোজী যৌগও কেলাস গঠন করে, তবে অনেক সমযোজী পদার্থ গ্যাস, তরল বা অকেলাসিত কঠিন।
+
+**শুধু দ্রাব্যতার পরীক্ষায় সাবধান।** তোমার বই পানিতে দ্রবীভূত হয় কি না তা দেখে পদার্থ ভাগ করার পরামর্শ দিয়েছে। লবণ, কাপড় কাচা সোডা, কর্পূর, ন্যাপথালিনের জন্য এটি কাজ করে, কিন্তু সবসময় নয়: চিনি দ্রবীভূত হয় অথচ সমযোজী, আর সিলভার ক্লোরাইড দ্রবীভূত হয় না অথচ আয়নিক। সাথে বাল্ব-পরীক্ষাটাও (দ্রবণ বিদ্যুৎ পরিবহণ করে কি না) যোগ করলে সিদ্ধান্ত অনেক নির্ভরযোগ্য হয়।
+## analogy
+আয়নিক কেলাস যেন স্কুলের ঠাসাঠাসি সমাবেশ, যেখানে প্রত্যেকে চারপাশের সবার হাত ধরে আছে: ভাঙা কঠিন, আর সমাবেশ ভাঙার আগে (গলিত বা দ্রবীভূত হওয়ার আগে) কেউ নড়তে পারে না (বিদ্যুৎ পরিবহণ নেই)। সমযোজী অণুগুলো যেন পার্কে হাঁটতে থাকা জুটি: প্রতিটি জুটি শক্ত করে একসাথে, কিন্তু জুটিগুলো একে অপরের সাথে প্রায় লাগানো নয়, তাই সামান্য ধাক্কাতেই ছড়িয়ে পড়ে।
+## definition
+**আয়নিক যৌগের ধর্ম**: সাধারণত উচ্চ গলনাঙ্ক ও স্ফুটনাঙ্কের কেলাসাকার কঠিন; অধিকাংশ পানিতে (পোলার দ্রাবক) দ্রবণীয় এবং অপোলার দ্রাবকে অদ্রবণীয়; গলিত অবস্থায় ও জলীয় দ্রবণে বিদ্যুৎ পরিবহণ করে, কিন্তু কঠিন অবস্থায় করে না।
+
+**সমযোজী যৌগের ধর্ম**: সাধারণত গ্যাস, তরল বা কম গলনাঙ্কের কঠিন; অধিকাংশ পানিতে অদ্রবণীয় (পোলার যৌগ বাদে); বিশুদ্ধ অবস্থায় বিদ্যুৎ অপরিবাহী এবং দ্রবণেও অপরিবাহী, তবে যারা পানির সাথে বিক্রিয়া করে আয়ন তৈরি করে (যেমন HCl) তারা ব্যতিক্রম।
+## why
+চারটি ধর্মই আসে কণা আর তাদের মধ্যকার বল থেকে। আয়নিক যৌগ তৈরি আয়ন দিয়ে, যারা সব দিকে শক্তিশালী বলে আটকানো: তাই উচ্চ গলনাঙ্ক, কেলাস, আর আয়ন চলতে পারলেই বিদ্যুৎ পরিবহণ। পোলার পানি আয়নগুলোকে টেনে আলাদা করতে পারে, তাই অধিকাংশ আয়নিক যৌগ দ্রবীভূত হয়। সমযোজী পদার্থ তৈরি আধানহীন অণু দিয়ে, যারা দুর্বল ভ্যান্ডারওয়ালস বলে পরস্পরের সাথে যুক্ত: তাই কম গলনাঙ্ক, আর বিদ্যুৎ বহনের মতো মুক্ত আধান নেই। অপোলার অণুকে পানি আকর্ষণ করে না, তাই এরা দ্রবীভূত হয় না।
+## terms
+গলনাঙ্ক (Melting point) | যে তাপমাত্রায় কঠিন তরলে পরিণত হয়
+স্ফুটনাঙ্ক (Boiling point) | যে তাপমাত্রায় তরল ফোটে
+দ্রাব্যতা (Solubility) | দ্রাবকে দ্রবীভূত হওয়ার ক্ষমতা
+পোলার দ্রাবক (Polar solvent) | δ⁺ ও δ⁻ প্রান্তযুক্ত দ্রাবক, যেমন পানি
+বিদ্যুৎ পরিবাহিতা (Electrical conductivity) | বিদ্যুৎ প্রবাহ বহনের ক্ষমতা
+কেলাস / স্ফটিক (Crystal) | নিয়মিত পুনরাবৃত্ত সজ্জায় কণাযুক্ত কঠিন
+## formula
+$$ বিদ্যুৎ প্রবাহের জন্য চলাচলে সক্ষম আধানযুক্ত কণা (আয়ন বা ইলেকট্রন) দরকার
+! আয়নিক: কঠিন ✗, গলিত ✓, পানিতে ✓ (বিদ্যুৎ পরিবহণ করে)।
+! সমযোজী: সাধারণত ✗; HCl-এর মতো ব্যতিক্রম পানিতে আয়ন তৈরি করে বিদ্যুৎ পরিবহণ করে।
+! সমধর্মী সমধর্মীকে দ্রবীভূত করে: পোলার/আয়নিক পানিতে; অপোলার অপোলার দ্রাবকে (কেরোসিন)।
+## visual
+একটি পদার্থ আর একটি অবস্থা (কঠিন, গলিত বা পানিতে দ্রবীভূত) বেছে নাও। বাল্ব জ্বলে কি না দেখো, তারপর নিচের সারণিতে এর বন্ধনের ধরন, গলনাঙ্ক ও দ্রাব্যতা পড়ো।
+## real
+বাংলাদেশের রান্নাঘরে এই ধর্মগুলো রোজই দেখো। লবণ আর চিনি দুটিই চা বা পানিতে গলে যায়, কিন্তু তেল পানির ওপর ভাসে, কখনো মেশে না। আলমারির ন্যাপথালিন বল আস্তে আস্তে উধাও হয়ে যায়, কারণ এর সমযোজী অণুগুলোর মধ্যকার দুর্বল বল এদের সরাসরি বাষ্পে পরিণত হতে (ঊর্ধ্বপাতিত হতে) দেয়, অথচ লবণ কখনো উবে যায় না। আর ভেজা, ঘামে নোনা হাতে কখনো বৈদ্যুতিক সুইচ ছুঁয়ো না: দ্রবীভূত আয়ন ত্বকের পানিকে ভালো পরিবাহী করে তোলে।
+## example
+প্রশ্ন: একটি সাদা কঠিন X ৮০১ °C-এ গলে, পানিতে দ্রবীভূত হয় এবং এর দ্রবণে বাল্ব জ্বলে। আরেকটি সাদা কঠিন Y ৮০ °C-এ গলে এবং পানিতে দ্রবীভূত হয় না। কোনটি আয়নিক আর কোনটি সমযোজী?
+সমাধান: X: উচ্চ গলনাঙ্ক, দ্রবণীয়, দ্রবণে বিদ্যুৎ পরিবহণ করে → আয়নিক (হতে পারে NaCl)।
+Y: কম গলনাঙ্ক, অদ্রবণীয় → সমযোজী (হতে পারে ন্যাপথালিন)।
+উত্তর: X আয়নিক; Y সমযোজী।
+## example
+প্রশ্ন: ব্যাখ্যা করো: (ক) কঠিন NaCl বিদ্যুৎ পরিবহণ করে না কিন্তু গলিত NaCl করে, (খ) গ্লুকোজ দ্রবণ বিদ্যুৎ পরিবহণ করে না।
+সমাধান: (ক) কঠিন অবস্থায় Na⁺ ও Cl⁻ জালিতে আটকানো, নড়তে পারে না। গলালে জালি ভেঙে যায় আর আয়নগুলো মুক্তভাবে তড়িৎদ্বারের দিকে চলে বিদ্যুৎ বহন করে।
+(খ) গ্লুকোজ (C₆H₁₂O₆) সমযোজী; এটি আধানহীন অণু হিসেবে দ্রবীভূত হয়, কোনো আয়ন তৈরি করে না।
+উত্তর: বিদ্যুৎ পরিবহণে চলমান আয়ন দরকার: গলিত NaCl-এ আছে, কঠিন NaCl ও গ্লুকোজ দ্রবণে নেই।
+## mistakes
+x পানিতে যা দ্রবীভূত হয় তা-ই আয়নিক।
+v চিনি, গ্লুকোজ ও ইথানল দ্রবীভূত হয় কিন্তু সমযোজী; এরা আয়ন নয়, পোলার অণু হিসেবে দ্রবীভূত হয়।
+x কঠিন লবণে আয়ন আছে, তাই এটি বিদ্যুৎ পরিবহণ করে।
+v কঠিনে আয়নগুলো আটকানো; লবণ শুধু গলিত বা দ্রবীভূত অবস্থায় বিদ্যুৎ পরিবহণ করে।
+x সমযোজী যৌগের গলনাঙ্ক কম, কারণ এদের সমযোজী বন্ধন দুর্বল।
+v এদের সমযোজী বন্ধন শক্ত; দুর্বল হলো অণুগুলোর *মধ্যকার* বল।
+## remember
+- আয়নিক: উচ্চ গলনাঙ্ক/স্ফুটনাঙ্ক, অধিকাংশ পানিতে দ্রবণীয়, গলিত বা দ্রবীভূত অবস্থায় বিদ্যুৎ পরিবাহী, কেলাসাকার।
+- সমযোজী: কম গলনাঙ্ক/স্ফুটনাঙ্ক, অধিকাংশ পানিতে অদ্রবণীয়, বিদ্যুৎ অপরিবাহী, প্রায়ই অকেলাসিত।
+- পানি পোলার; এটি কেলাস থেকে আয়ন টেনে বের করে ("সমধর্মী সমধর্মীকে দ্রবীভূত করে")।
+- বিদ্যুৎ পরিবহণে চলমান আয়ন দরকার: লবণ পানি ✓, চিনির পানি ✗, কঠিন লবণ ✗, গলিত লবণ ✓।
+- ব্যতিক্রম: AgCl (আয়নিক, অদ্রবণীয়), চিনি (সমযোজী, দ্রবণীয়), HCl (সমযোজী, পানিতে বিদ্যুৎ পরিবাহী)।
+## think
+কেরোসিন পানিতে দ্রবীভূত হয় না, কিন্তু ন্যাপথালিন আর গ্রিজ গলিয়ে ফেলে। "সমধর্মী সমধর্মীকে দ্রবীভূত করে" দিয়ে ব্যাখ্যা করো: সাইকেলের চেইনের গ্রিজ পানি দিয়ে ওঠে না, অথচ পেট্রল বা কেরোসিন দিয়ে ওঠে কেন?
+## quiz
+? কোন ধর্মটি আয়নিক যৌগের বৈশিষ্ট্য?
+* উচ্চ গলনাঙ্ক
+- পানিতে অদ্রবণীয়
+- সাধারণ তাপমাত্রায় গ্যাস
+- কখনো বিদ্যুৎ পরিবহণ করে না
+= কেলাসে আয়নগুলোর মধ্যকার শক্তিশালী বল কাটাতে অনেক শক্তি লাগে।
+? লবণ পানিতে বাল্ব জ্বলে কিন্তু চিনির পানিতে জ্বলে না, কারণ:
+- চিনি লবণের চেয়ে ভারী
+* লবণ পানিতে মুক্ত Na⁺ ও Cl⁻ আয়ন তৈরি করে; চিনি কোনো আয়ন তৈরি করে না
+- চিনি দ্রবীভূত হয় না
+- লবণ পানি বেশি গরম
+= বিদ্যুৎ প্রবাহে চলমান আধানযুক্ত কণা লাগে; চিনি আধানহীন অণু হিসেবে দ্রবীভূত হয়।
+? কঠিন সোডিয়াম ক্লোরাইড বিদ্যুৎ পরিবহণ করে না, কারণ:
+- এতে কোনো আয়ন নেই
+* এর আয়নগুলো নড়তে পারে না
+- এতে মুক্ত ইলেকট্রন আছে
+- এটি সমযোজী
+= কঠিন জালিতে আয়নগুলো আটকানো; গলালে বা দ্রবীভূত করলেই চলতে পারে।
+? কোনটি সমযোজী হলেও পানিতে দ্রবীভূত হয়?
+- ন্যাপথালিন
+- মিথেন
+* গ্লুকোজ
+- কেরোসিন
+= গ্লুকোজ পোলার সমযোজী অণু, তাই পোলার পানি একে দ্রবীভূত করে।
+
+@@ 5.13
+@visual k5metal
+@related 5.8 5.12 5.9
+== en
+## what
+A **metallic bond** is the attraction between the positive metal ions (**atomic cores**) arranged in a crystal lattice and the **delocalised electrons** that move freely among them like a "sea of electrons". These free electrons make metals good conductors of electricity and heat.
+## simple
+You know ionic bonds (metal + non-metal) and covalent bonds (non-metal + non-metal). But what holds the atoms of a *single metal* together, in a copper wire, a knife, a steel window grill, an aluminium window frame or a gold necklace? This is the **metallic bond** (ধাতব বন্ধন).
+
+**Step 1: atoms let go of their outer electrons.** Metal atoms have only 1, 2 or 3 outer electrons, held weakly because the atoms are large. In a piece of metal each atom releases these outer electrons. What remains of each atom is a positive ion, called the **atomic core** (পারমাণবিক শাঁস): Na⁺ in sodium, Mg²⁺ in magnesium, Al³⁺ in aluminium.
+
+**Step 2: the cores line up; the electrons roam.** The cores are arranged in a regular 3-D pattern, the **metal lattice**. The released electrons do not belong to any one atom. They wander freely through the whole lattice, shared by all the cores. These are **delocalised electrons** (সঞ্চরণশীল ইলেকট্রন). We picture it as **positive ions sitting in a sea of electrons**.
+
+**Step 3: attraction holds everything.** Each negative electron between two positive cores attracts both of them. Every core is pulled by the electron sea around it, so the whole piece holds together. That attraction is the metallic bond.
+
+**Why metals conduct electricity.** Connect the two ends of a metal wire to a battery. The free electrons drift away from the negative terminal toward the positive terminal. This flow of electrons **is** the electric current. (By convention, the direction of current is taken from + to −, opposite to the electron flow.) Without delocalised electrons, there would be no current.
+
+**Why metals conduct heat.** Heat one end of a metal spoon and the other end soon gets hot. The electrons at the hot end gain energy, move faster and rush toward the cooler end, carrying energy with them (the vibrating cores also pass energy along).
+
+**Other metal properties.** The electron sea also explains why metals are **shiny** (lustre), and why they can be hammered into sheets (**malleable**) and drawn into wires (**ductile**): layers of cores can slide past each other while the electron sea keeps holding them, so the metal bends instead of shattering.
+## analogy
+Imagine a pond full of fixed stepping stones (the metal cores) with water flowing freely around all of them (the electron sea). The water belongs to no single stone but holds them all in the same pond. If you tilt the pond (connect a battery), the water flows one way: that is an electric current.
+## definition
+**Metallic bond (ধাতব বন্ধন)**: the force of attraction that holds the atoms of a metal together; it is the electrostatic attraction between the positive metal ions (atomic cores) arranged in a lattice and the delocalised electrons that move freely throughout the lattice.
+
+**Delocalised electrons (সঞ্চরণশীল ইলেকট্রন)**: electrons released from the outer shells of metal atoms that do not belong to any particular atom but move freely through the whole metal.
+
+**Atomic core (পারমাণবিক শাঁস)**: the positive ion that remains when a metal atom releases its outer electrons into the electron sea.
+## why
+Metal atoms are large with few, weakly held outer electrons, so releasing them costs little energy. The released electrons are attracted by all the surrounding cores at once, and this shared attraction lowers the energy of the whole piece of metal, holding it together strongly in every direction. Because the electrons are free to move, they can carry charge (electricity) and energy (heat) through the metal, and because the bond is non-directional, layers of ions can slide without breaking the bond.
+## terms
+Metallic bond (ধাতব বন্ধন) | Attraction between metal cores and the electron sea
+Atomic core (পারমাণবিক শাঁস) | Positive metal ion left after releasing outer electrons
+Delocalised electrons (সঞ্চরণশীল ইলেকট্রন) | Free electrons that belong to the whole metal
+Sea of electrons (ইলেকট্রনের সাগর) | Picture of free electrons surrounding the metal ions
+Malleable (ঘাতসহ) | Can be hammered into sheets
+Ductile (নমনীয়) | Can be drawn into wires
+## formula
+$$ metal atom → atomic core (positive ion) + delocalised electron(s)
+$$ Na → Na⁺ + e⁻ ;  Mg → Mg²⁺ + 2e⁻ ;  Al → Al³⁺ + 3e⁻
+! Electric current in a metal = flow of delocalised electrons (from − to +; conventional current + to −).
+! In ionic solutions the carriers are ions; in metals the carriers are electrons.
+## visual
+Watch the metal cores and the moving electron sea. Switch on the battery to see the electrons drift toward the + terminal, heat one end to see energy spread, or hammer the metal to see layers slide without breaking.
+## real
+Bangladesh's electricity reaches homes through copper and aluminium wires, chosen because their delocalised electrons carry current easily. Cooking pots and karai are made of aluminium or steel because they conduct heat quickly to the food, while the handles are wood or plastic, which have no free electrons. Goldsmiths in Tanti Bazar beat gold into thin sheets and draw it into fine wire; only metallic bonding allows this.
+## example
+Q: A piece of aluminium contains 10 Al atoms (Z = 13). What is the charge on each atomic core, and how many delocalised electrons are in the electron sea?
+Solution: Al: 2, 8, 3. Each atom releases its 3 outer electrons → core Al³⁺.
+Calculation: 10 × 3 = 30 delocalised electrons.
+> The piece is still neutral overall: +30 from the cores and −30 from the electrons.
+Answer: Each core is Al³⁺; there are 30 delocalised electrons.
+## example
+Q: Explain why a copper wire conducts electricity in the solid state, but solid sodium chloride does not.
+Solution: In copper, the delocalised electrons are free to move through the lattice and carry charge.
+Step: In solid NaCl, all electrons are held by the ions and the ions themselves are fixed in the lattice: no mobile charge.
+Answer: Metals have mobile electrons even as solids; ionic solids have no mobile charged particles until they are melted or dissolved.
+## mistakes
+x In a metallic bond, metal atoms share electron pairs like covalent atoms.
+v The outer electrons are not in fixed pairs between two atoms; they are free to move through the whole metal.
+x Metals conduct electricity because their ions move.
+v In a metal the ions stay fixed; only the delocalised electrons move.
+x Heat travels in a metal only because atoms move from one end to the other.
+v Mainly the fast-moving free electrons carry energy toward the cooler end; the cores only vibrate in place.
+## remember
+- Metallic bond = attraction between positive atomic cores and a sea of delocalised electrons.
+- Metal atoms give up their 1–3 outer electrons to the sea.
+- Free electrons → metals conduct electricity and heat.
+- Electron sea also explains lustre, malleability and ductility.
+- Current in metals: electrons move from − to +.
+## think
+Magnesium gives 2 electrons per atom to the electron sea but sodium gives only 1. Which metal would you expect to have the stronger metallic bond and the higher melting point? Why?
+## quiz
+? In a metal, the atomic cores are:
+* positive ions
+- negative ions
+- neutral atoms
+- shared electron pairs
+= Each atom has released its outer electrons, leaving a positive ion.
+? Metals conduct electricity because they have:
+- ions that move freely
+* delocalised electrons that move freely
+- lone pairs of electrons
+- covalent bonds
+= The free electrons carry the charge through the metal.
+? The charge on the atomic core in magnesium metal is:
+- +1
+* +2
+- +3
+- −2
+= Mg (2, 8, 2) releases 2 electrons, leaving Mg²⁺.
+? Which property of metals is NOT explained by the sea of electrons?
+- Electrical conductivity
+- Heat conductivity
+- Malleability
+* Radioactivity
+= Radioactivity comes from the nucleus, not the outer electrons.
+== bn
+## what
+স্ফটিক জালিতে সাজানো ধনাত্মক ধাতব আয়ন (**পারমাণবিক শাঁস**) আর তাদের মাঝে "ইলেকট্রনের সাগরের" মতো মুক্তভাবে ঘুরে বেড়ানো **সঞ্চরণশীল ইলেকট্রনের** মধ্যকার আকর্ষণই **ধাতব বন্ধন**। এই মুক্ত ইলেকট্রনগুলোর জন্যই ধাতু বিদ্যুৎ ও তাপের সুপরিবাহী।
+## simple
+আয়নিক বন্ধন (ধাতু + অধাতু) আর সমযোজী বন্ধন (অধাতু + অধাতু) তুমি জেনেছ। কিন্তু *একটিমাত্র ধাতুর* পরমাণুগুলোকে কী ধরে রাখে, কপারের তারে, ছুরিতে, লোহার জানালার গ্রিলে, অ্যালুমিনিয়ামের জানালার ফ্রেমে বা সোনার হারে? এটাই **ধাতব বন্ধন** (Metallic bond)।
+
+**ধাপ ১: পরমাণুরা বাইরের ইলেকট্রন ছেড়ে দেয়।** ধাতুর পরমাণুর বাইরে মাত্র ১, ২ বা ৩টি ইলেকট্রন, আর পরমাণু বড় বলে এরা দুর্বলভাবে আটকানো। এক টুকরো ধাতুতে প্রতিটি পরমাণু এই বাইরের ইলেকট্রনগুলো ছেড়ে দেয়। প্রতিটি পরমাণুর যা বাকি থাকে তা একটি ধনাত্মক আয়ন, একে বলে **পারমাণবিক শাঁস** (Atomic core): সোডিয়ামে Na⁺, ম্যাগনেসিয়ামে Mg²⁺, অ্যালুমিনিয়ামে Al³⁺।
+
+**ধাপ ২: শাঁসগুলো সারি বাঁধে; ইলেকট্রনরা ঘুরে বেড়ায়।** শাঁসগুলো নিয়মিত ত্রিমাত্রিক নকশায় সাজানো থাকে, একে বলে **ধাতব জালি**। ছেড়ে দেওয়া ইলেকট্রনগুলো কোনো একটি পরমাণুর নয়। এরা পুরো জালি জুড়ে মুক্তভাবে ঘোরে, সব শাঁস মিলে এদের ভাগ করে নেয়। এরাই **সঞ্চরণশীল ইলেকট্রন** (Delocalised electrons)। আমরা ছবিটা কল্পনা করি এভাবে: **ইলেকট্রনের সাগরে ধনাত্মক আয়নগুলো বসে আছে**।
+
+**ধাপ ৩: আকর্ষণই সব ধরে রাখে।** দুটি ধনাত্মক শাঁসের মাঝের প্রতিটি ঋণাত্মক ইলেকট্রন দুজনকেই আকর্ষণ করে। প্রতিটি শাঁসকে চারপাশের ইলেকট্রন সাগর টেনে রাখে, তাই পুরো টুকরোটা একসাথে থাকে। এই আকর্ষণই ধাতব বন্ধন।
+
+**ধাতু কেন বিদ্যুৎ পরিবহণ করে।** একটি ধাতব তারের দুই প্রান্ত ব্যাটারির সাথে যুক্ত করো। মুক্ত ইলেকট্রনগুলো ঋণাত্মক প্রান্ত থেকে ধনাত্মক প্রান্তের দিকে সরে যেতে থাকে। ইলেকট্রনের এই প্রবাহই বিদ্যুৎ প্রবাহ। (প্রচলিত নিয়মে বিদ্যুৎ প্রবাহের দিক ধরা হয় + থেকে −, ইলেকট্রন প্রবাহের বিপরীতে।) সঞ্চরণশীল ইলেকট্রন না থাকলে কোনো বিদ্যুৎ প্রবাহ হতো না।
+
+**ধাতু কেন তাপ পরিবহণ করে।** ধাতুর চামচের এক প্রান্ত গরম করলে অন্য প্রান্তও শিগগিরই গরম হয়ে যায়। গরম প্রান্তের ইলেকট্রনগুলো শক্তি পেয়ে দ্রুত ছোটে আর শক্তি সাথে নিয়ে ঠান্ডা প্রান্তের দিকে ধেয়ে যায় (কম্পমান শাঁসগুলোও শক্তি এগিয়ে দেয়)।
+
+**ধাতুর অন্যান্য ধর্ম।** ইলেকট্রন সাগর দিয়েই বোঝা যায় ধাতু কেন **চকচকে** (ধাতব দ্যুতি), আর কেন পিটিয়ে পাত বানানো যায় (**ঘাতসহ**) ও টেনে তার বানানো যায় (**নমনীয়**): শাঁসের স্তরগুলো একে অপরের পাশ দিয়ে সরে যেতে পারে, অথচ ইলেকট্রন সাগর তাদের ধরে রাখে, তাই ধাতু ভেঙে না গিয়ে বেঁকে যায়।
+## analogy
+একটা পুকুর কল্পনা করো, যেখানে পা রাখার পাথরগুলো স্থির বসানো (ধাতব শাঁস), আর চারপাশে পানি অবাধে বইছে (ইলেকট্রন সাগর)। পানি কোনো একটা পাথরের নয়, কিন্তু সবাইকে একই পুকুরে ধরে রাখে। পুকুরটা কাত করলে (ব্যাটারি যুক্ত করলে) পানি এক দিকে বইতে থাকে: সেটাই বিদ্যুৎ প্রবাহ।
+## definition
+**ধাতব বন্ধন (Metallic bond)**: যে আকর্ষণ বল একখণ্ড ধাতুর পরমাণুগুলোকে একসাথে ধরে রাখে; এটি জালিতে সাজানো ধনাত্মক ধাতব আয়ন (পারমাণবিক শাঁস) আর পুরো জালি জুড়ে মুক্তভাবে চলাচলকারী সঞ্চরণশীল ইলেকট্রনের মধ্যকার স্থির বৈদ্যুতিক আকর্ষণ।
+
+**সঞ্চরণশীল ইলেকট্রন (Delocalised electrons)**: ধাতব পরমাণুর বাইরের কক্ষপথ থেকে মুক্ত হওয়া ইলেকট্রন, যা কোনো নির্দিষ্ট পরমাণুর অধীনে না থেকে পুরো ধাতুতে মুক্তভাবে চলাচল করে।
+
+**পারমাণবিক শাঁস (Atomic core)**: ধাতব পরমাণু বাইরের ইলেকট্রন ইলেকট্রন সাগরে ছেড়ে দেওয়ার পর যে ধনাত্মক আয়ন অবশিষ্ট থাকে।
+## why
+ধাতুর পরমাণু বড়, বাইরের ইলেকট্রন কম ও দুর্বলভাবে আটকানো, তাই এদের ছেড়ে দিতে সামান্য শক্তি লাগে। মুক্ত ইলেকট্রনগুলোকে চারপাশের সব শাঁস একসাথে আকর্ষণ করে, আর এই ভাগের আকর্ষণ পুরো ধাতুখণ্ডের শক্তি কমিয়ে একে সব দিক থেকে শক্ত করে ধরে রাখে। ইলেকট্রনগুলো মুক্তভাবে চলতে পারে বলে ধাতুর মধ্য দিয়ে আধান (বিদ্যুৎ) ও শক্তি (তাপ) বহন করতে পারে, আর বন্ধনটি কোনো নির্দিষ্ট দিকে নয় বলে আয়নের স্তর সরে গেলেও বন্ধন ভাঙে না।
+## terms
+ধাতব বন্ধন (Metallic bond) | ধাতব শাঁস আর ইলেকট্রন সাগরের মধ্যে আকর্ষণ
+পারমাণবিক শাঁস (Atomic core) | বাইরের ইলেকট্রন ছেড়ে দেওয়ার পর থাকা ধনাত্মক ধাতব আয়ন
+সঞ্চরণশীল ইলেকট্রন (Delocalised electrons) | পুরো ধাতুর মালিকানাধীন মুক্ত ইলেকট্রন
+ইলেকট্রনের সাগর (Sea of electrons) | ধাতব আয়নকে ঘিরে থাকা মুক্ত ইলেকট্রনের চিত্রকল্প
+ঘাতসহ (Malleable) | পিটিয়ে পাত বানানো যায়
+নমনীয় (Ductile) | টেনে তার বানানো যায়
+## formula
+$$ ধাতব পরমাণু → পারমাণবিক শাঁস (ধনাত্মক আয়ন) + সঞ্চরণশীল ইলেকট্রন
+$$ Na → Na⁺ + e⁻ ;  Mg → Mg²⁺ + 2e⁻ ;  Al → Al³⁺ + 3e⁻
+! ধাতুতে বিদ্যুৎ প্রবাহ = সঞ্চরণশীল ইলেকট্রনের প্রবাহ (− থেকে +; প্রচলিত প্রবাহ + থেকে −)।
+! আয়নিক দ্রবণে বাহক আয়ন; ধাতুতে বাহক ইলেকট্রন।
+## visual
+ধাতব শাঁস আর চলমান ইলেকট্রন সাগর দেখো। ব্যাটারি চালু করলে দেখবে ইলেকট্রন + প্রান্তের দিকে সরছে, এক প্রান্ত গরম করলে দেখবে শক্তি ছড়াচ্ছে, আর হাতুড়ি দিলে দেখবে স্তরগুলো না ভেঙে সরে যাচ্ছে।
+## real
+বাংলাদেশের বিদ্যুৎ ঘরে ঘরে পৌঁছায় কপার ও অ্যালুমিনিয়ামের তার দিয়ে, কারণ এদের সঞ্চরণশীল ইলেকট্রন সহজেই বিদ্যুৎ বহন করে। রান্নার হাঁড়ি-কড়াই অ্যালুমিনিয়াম বা ইস্পাতের, কারণ এরা দ্রুত খাবারে তাপ পৌঁছে দেয়; অথচ হাতল কাঠ বা প্লাস্টিকের, যাদের মুক্ত ইলেকট্রন নেই। তাঁতীবাজারের স্বর্ণকারেরা সোনা পিটিয়ে পাতলা পাত আর টেনে সরু তার বানান; ধাতব বন্ধন ছাড়া এটা সম্ভব হতো না।
+## example
+প্রশ্ন: এক টুকরো অ্যালুমিনিয়ামে ১০টি Al পরমাণু (Z = ১৩) আছে। প্রতিটি পারমাণবিক শাঁসের আধান কত, আর ইলেকট্রন সাগরে কয়টি সঞ্চরণশীল ইলেকট্রন?
+সমাধান: Al: ২, ৮, ৩। প্রতিটি পরমাণু বাইরের ৩টি ইলেকট্রন ছেড়ে দেয় → শাঁস Al³⁺।
+হিসাব: ১০ × ৩ = ৩০টি সঞ্চরণশীল ইলেকট্রন।
+> পুরো টুকরোটা তবুও আধান নিরপেক্ষ: শাঁস থেকে +৩০, ইলেকট্রন থেকে −৩০।
+উত্তর: প্রতিটি শাঁস Al³⁺; সঞ্চরণশীল ইলেকট্রন ৩০টি।
+## example
+প্রশ্ন: ব্যাখ্যা করো: কপারের তার কঠিন অবস্থায় বিদ্যুৎ পরিবহণ করে, কিন্তু কঠিন সোডিয়াম ক্লোরাইড করে না কেন?
+সমাধান: কপারে সঞ্চরণশীল ইলেকট্রনগুলো জালির মধ্যে মুক্তভাবে চলতে পারে এবং আধান বহন করে।
+ধাপ: কঠিন NaCl-এ সব ইলেকট্রন আয়নগুলোর দখলে, আর আয়নগুলোও জালিতে আটকানো: কোনো চলমান আধান নেই।
+উত্তর: কঠিন অবস্থাতেও ধাতুতে চলমান ইলেকট্রন থাকে; আয়নিক কঠিনে গলানো বা দ্রবীভূত করার আগে কোনো চলমান আধানযুক্ত কণা থাকে না।
+## mistakes
+x ধাতব বন্ধনে ধাতুর পরমাণুরা সমযোজী পরমাণুর মতো ইলেকট্রন জোড়া ভাগাভাগি করে।
+v বাইরের ইলেকট্রনগুলো দুই পরমাণুর মাঝে নির্দিষ্ট জোড়ায় থাকে না; এরা পুরো ধাতুতে মুক্তভাবে চলে।
+x ধাতু বিদ্যুৎ পরিবহণ করে, কারণ এর আয়নগুলো চলাচল করে।
+v ধাতুতে আয়নগুলো স্থির থাকে; শুধু সঞ্চরণশীল ইলেকট্রন চলে।
+x ধাতুতে তাপ যায় শুধু পরমাণুগুলো এক প্রান্ত থেকে আরেক প্রান্তে সরে যায় বলে।
+v মূলত দ্রুতগামী মুক্ত ইলেকট্রনই শক্তি ঠান্ডা প্রান্তে বয়ে নেয়; শাঁসগুলো জায়গায় দাঁড়িয়ে শুধু কাঁপে।
+## remember
+- ধাতব বন্ধন = ধনাত্মক পারমাণবিক শাঁস আর সঞ্চরণশীল ইলেকট্রন সাগরের মধ্যে আকর্ষণ।
+- ধাতুর পরমাণুরা তাদের বাইরের ১–৩টি ইলেকট্রন সাগরে ছেড়ে দেয়।
+- মুক্ত ইলেকট্রন → ধাতু বিদ্যুৎ ও তাপ পরিবহণ করে।
+- ইলেকট্রন সাগর দিয়েই ধাতব দ্যুতি, ঘাতসহতা ও নমনীয়তা ব্যাখ্যা হয়।
+- ধাতুতে বিদ্যুৎ প্রবাহ: ইলেকট্রন − থেকে + দিকে চলে।
+## think
+ম্যাগনেসিয়াম প্রতিটি পরমাণু থেকে ইলেকট্রন সাগরে ২টি ইলেকট্রন দেয়, সোডিয়াম দেয় মাত্র ১টি। কোন ধাতুর ধাতব বন্ধন বেশি শক্ত আর গলনাঙ্ক বেশি হবে বলে তোমার মনে হয়? কেন?
+## quiz
+? ধাতুতে পারমাণবিক শাঁসগুলো হলো:
+* ধনাত্মক আয়ন
+- ঋণাত্মক আয়ন
+- নিরপেক্ষ পরমাণু
+- ভাগের ইলেকট্রন জোড়া
+= প্রতিটি পরমাণু বাইরের ইলেকট্রন ছেড়ে দিয়েছে, রয়ে গেছে ধনাত্মক আয়ন।
+? ধাতু বিদ্যুৎ পরিবহণ করে, কারণ এতে আছে:
+- মুক্তভাবে চলমান আয়ন
+* মুক্তভাবে চলমান সঞ্চরণশীল ইলেকট্রন
+- নিঃসঙ্গ ইলেকট্রন জোড়
+- সমযোজী বন্ধন
+= মুক্ত ইলেকট্রনগুলো ধাতুর মধ্য দিয়ে আধান বহন করে।
+? ম্যাগনেসিয়াম ধাতুতে পারমাণবিক শাঁসের আধান:
+- +১
+* +২
+- +৩
+- −২
+= Mg (২, ৮, ২) ২টি ইলেকট্রন ছেড়ে দিয়ে Mg²⁺ হয়।
+? ইলেকট্রন সাগর দিয়ে ধাতুর কোন ধর্মটি ব্যাখ্যা করা যায় না?
+- বিদ্যুৎ পরিবাহিতা
+- তাপ পরিবাহিতা
+- ঘাতসহতা
+* তেজস্ক্রিয়তা
+= তেজস্ক্রিয়তা আসে নিউক্লিয়াস থেকে, বাইরের ইলেকট্রন থেকে নয়।

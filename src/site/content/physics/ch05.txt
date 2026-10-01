@@ -1,0 +1,1952 @@
+@@chapter
+== en
+## intro
+We are surrounded by three familiar states of matter: **solids**, **liquids** and **gases**. Liquids and gases can flow, so together they are called **fluids**. Every one of these states can push on the things around it, and physics measures that push with a quantity called **pressure**. Why does a sharp knife cut better than a blunt one? Why do divers feel a squeeze deep under water? Why does a steel ship float while a small iron nail sinks? Why does a barometer reading help forecast a cyclone? All the answers come from pressure and density.
+
+In this chapter you will learn about pressure and density, pressure inside liquids, Archimedes' principle and floating, Pascal's law and hydraulic machines, the pressure of the air around us, and elasticity (stress, strain and Hooke's law). Finally you will see how the arrangement and motion of molecules explain the three states of matter, and meet a fourth state: **plasma**.
+## objectives
+- explain how pressure changes with force and area
+- define density and explain its uses in everyday life
+- derive and use the expression P = hρg for pressure inside a liquid at rest
+- explain buoyancy (upthrust) and Archimedes' principle
+- explain why objects float or sink, and find the fraction of a floating body that is immersed
+- state Pascal's law and explain its applications (hydraulic press, hydraulic brake)
+- explain atmospheric pressure, Torricelli's experiment and the barometer
+- analyse how air pressure changes with height and how it is linked to the weather
+- explain stress, strain, Hooke's law and Young's modulus
+- explain the kinetic molecular theory of matter and the plasma state
+== bn
+## intro
+আমাদের চারপাশে পদার্থের তিনটি চেনা অবস্থা: **কঠিন**, **তরল** আর **গ্যাস** (বায়বীয়)। তরল আর গ্যাস প্রবাহিত হতে পারে, তাই এদের একসাথে বলে **প্রবাহী**। প্রতিটি অবস্থার পদার্থই চারপাশের জিনিসের ওপর ঠেলা দেয়, আর পদার্থবিজ্ঞানে সেই ঠেলাকে মাপা হয় **চাপ** দিয়ে। ধারালো ছুরি ভোঁতা ছুরির চেয়ে ভালো কাটে কেন? ডুবুরিরা গভীর পানিতে চাপ অনুভব করেন কেন? লোহার ছোট পেরেক ডুবে যায়, অথচ ইস্পাতের বিশাল জাহাজ ভাসে কেন? ব্যারোমিটারের পাঠ দেখে ঘূর্ণিঝড়ের পূর্বাভাস দেওয়া যায় কীভাবে? সব উত্তর লুকিয়ে আছে চাপ আর ঘনত্বে।
+
+এই অধ্যায়ে শিখবে চাপ ও ঘনত্ব, তরলের ভেতরের চাপ, আর্কিমিডিসের নীতি ও ভেসে থাকা, প্যাসকেলের সূত্র ও জলবাহী (হাইড্রলিক) যন্ত্র, আমাদের চারপাশের বাতাসের চাপ, আর স্থিতিস্থাপকতা (পীড়ন, বিকৃতি ও হুকের সূত্র)। শেষে দেখবে অণুর বিন্যাস ও গতি দিয়ে পদার্থের তিন অবস্থা কীভাবে ব্যাখ্যা করা যায়, আর পরিচিত হবে চতুর্থ অবস্থা **প্লাজমার** সাথে।
+## objectives
+- বল ও ক্ষেত্রফলের পরিবর্তনে চাপ কীভাবে বদলায় ব্যাখ্যা করতে পারবে
+- ঘনত্বের সংজ্ঞা দিতে এবং দৈনন্দিন জীবনে এর ব্যবহার ব্যাখ্যা করতে পারবে
+- স্থির তরলের ভেতরে চাপের রাশিমালা P = hρg প্রতিপাদন ও ব্যবহার করতে পারবে
+- প্লবতা ও আর্কিমিডিসের নীতি ব্যাখ্যা করতে পারবে
+- বস্তু কেন ভাসে বা ডোবে ব্যাখ্যা করতে এবং ভাসমান বস্তুর কত অংশ ডুবে থাকে বের করতে পারবে
+- প্যাসকেলের সূত্র বিবৃত করতে এবং এর প্রয়োগ (জলবাহী প্রেস, হাইড্রলিক ব্রেক) ব্যাখ্যা করতে পারবে
+- বাতাসের চাপ, টরিসেলির পরীক্ষা ও ব্যারোমিটার ব্যাখ্যা করতে পারবে
+- উচ্চতার সাথে বাতাসের চাপের পরিবর্তন এবং আবহাওয়ার সাথে এর সম্পর্ক বিশ্লেষণ করতে পারবে
+- পীড়ন, বিকৃতি, হুকের সূত্র ও ইয়াংস মডুলাস ব্যাখ্যা করতে পারবে
+- পদার্থের আণবিক গতিতত্ত্ব এবং প্লাজমা অবস্থা ব্যাখ্যা করতে পারবে
+
+@@ 5.1
+@visual c5press
+@related 5.3 5.5 3.3
+== en
+## what
+**Pressure** is the force acting perpendicularly on each unit of area: P = F/A. The same force produces a large pressure on a small area and a small pressure on a large area.
+## simple
+Push a heavy almirah with one palm, then with both palms, then lean your whole body against it. You may push with the **same force** each time, but it feels very different. With one palm the force is squeezed onto a small area; with your whole body it is spread over a large area. What changes is the **pressure**.
+
+**P = F ÷ A**
+
+So there are two ways to get a large pressure: push harder (bigger F), or push on a smaller area (smaller A).
+
+**Lying down or standing up.** Suppose your mass is 50 kg, so your weight is 50 × 9.8 = 490 N. Lying on your back, about 0.5 m² of your body touches the floor: P = 490 ÷ 0.5 = **980 Pa**. Standing, only the soles of your feet touch the floor, about 0.03 m²: P = 490 ÷ 0.03 ≈ **16 333 Pa**. Same weight, but about 17 times more pressure when standing! That is why a person caught in quicksand or soft mud should lie flat: the pressure drops and the body sinks less.
+
+**Small area, big pressure.** The tip of a nail and the edge of a knife have tiny areas. Even a modest force on such a small area gives an enormous pressure, which is why the nail goes into wood and the knife cuts vegetables easily. A blunt knife has a wider edge, so the same push gives less pressure.
+
+**Big area, small pressure.** Heavy trucks have many wide tyres, tractors used in muddy fields have broad wheels, and the straps of a school bag are made wide, all to spread the force over a larger area.
+
+**Pressure is a scalar.** Force is a vector, but pressure has no direction of its own. Area can be treated as a vector (its size is the area, its direction is perpendicular to the surface), and then F = PA. Because pressure has no direction, a liquid or gas pushes on any surface placed in it, whichever way that surface faces.
+## analogy
+Imagine someone stepping on your foot, first in a flat sandal, then in a thin high heel. Their weight (the force) is the same both times, but the heel pushes all of it onto a tiny spot, so it hurts far more. Pressure is **how concentrated the force is**.
+## definition
+**Pressure**: the force acting perpendicularly on unit area of a surface. If a force F acts perpendicularly on an area A, the pressure is P = F/A.
+
+Pressure is a scalar quantity. SI unit: N m^{-2}, called the **pascal (Pa)**; 1 Pa is the pressure when a force of 1 N acts on an area of 1 m². Dimension: [P] = ML^{-1}T^{-2}.
+## why
+Why does area matter so much? A force is shared among all the points of the surface it acts on. Spread over a large area, each small patch of the surface carries only a little of the force, so it is not dented or pierced. Concentrated on a tiny area, each patch carries a huge share, and the material gives way. What damages a surface is the force **per unit area**, not the total force.
+## terms
+Pressure (P) | Force per unit area, acting perpendicular to the surface
+Pascal (Pa) | Unit of pressure: 1 N m^{-2}
+Thrust | The total perpendicular force on a surface (F in P = F/A)
+Scalar | A quantity with size but no direction; pressure is one
+## formula
+$$ P = F/A
+$$ F = PA
+tri F | P | A
+P | pressure | Pa (N m^{-2})
+F | force acting perpendicular to the surface | N
+A | area | m²
+! Halve the area → double the pressure (same force).
+! [P] = ML^{-1}T^{-2}
+## visual
+Choose a situation or move the sliders for force and area, and watch how the pressure changes.
+## real
+Farmers in Bangladesh walk on soft, muddy paddy fields barefoot or on wide wooden planks rather than in narrow heels. Camels and cattle with broad hooves sink less in sand and mud. An injection needle is made extremely thin so that a gentle push creates enough pressure to go through the skin.
+## example
+Q: Your mass is 50 kg. The area of your back is 0.5 m² and the area of the soles of your two feet is 0.03 m². Find the pressure on the floor when you lie down and when you stand. (g = 9.8 m/s²)
+Given: m = 50 kg, A(lying) = 0.5 m², A(standing) = 0.03 m²
+Formula: P = F/A, with F = weight = mg
+Calculation: F = 50 × 9.8 = 490 N; lying: P = 490 ÷ 0.5 = 980 Pa; standing: P = 490 ÷ 0.03 ≈ 16 333 Pa
+> The force is the same in both cases; only the area changes.
+Answer: 980 Pa lying down; about 16 333 Pa (≈ 1.6 × 10^{4} Pa) standing.
+## example
+Q: You press a knife with a force of 20 N. Its sharp edge is 10 cm long and 0.1 mm wide. What pressure does the edge exert? What if the knife is blunt and the edge is 1 mm wide?
+Given: F = 20 N; sharp edge area A = 0.1 m × 0.0001 m = 1 × 10^{-5} m²; blunt edge area = 0.1 m × 0.001 m = 1 × 10^{-4} m²
+Formula: P = F/A
+Calculation: sharp: P = 20 ÷ (1 × 10^{-5}) = 2 × 10^{6} Pa; blunt: P = 20 ÷ (1 × 10^{-4}) = 2 × 10^{5} Pa
+Answer: The sharp knife exerts 2 × 10^{6} Pa, ten times the 2 × 10^{5} Pa of the blunt one, with the same push.
+## mistakes
+x A larger force always means a larger pressure.
+v Pressure depends on both force and area; a large force on a very large area can give a small pressure.
+x Pressure is a vector because force is a vector.
+v Pressure is a scalar; it has no direction of its own and acts on a surface whichever way it faces.
+x The unit of pressure is the newton.
+v Newton is the unit of force. Pressure is measured in N m^{-2}, i.e. pascal (Pa).
+## remember
+- P = F/A; unit pascal (Pa) = N m^{-2}; dimension ML^{-1}T^{-2}.
+- Smaller area → larger pressure (nail, knife, needle).
+- Larger area → smaller pressure (lying flat, wide tyres, wide bag straps).
+- Pressure is a scalar.
+## think
+Why can you lie on a bed of many sharp nails without being hurt, but stepping on a single nail hurts badly?
+## quiz
+? A force of 100 N acts on an area of 0.5 m². The pressure is:
+- 50 Pa
+* 200 Pa
+- 100.5 Pa
+- 0.005 Pa
+= P = F/A = 100 ÷ 0.5 = 200 Pa.
+? If the force stays the same and the area is halved, the pressure:
+- Is halved
+- Stays the same
+* Is doubled
+- Becomes four times
+= P = F/A, so halving A doubles P.
+? Why does a person sinking in quicksand lie flat?
+- To increase their weight
+* To spread their weight over a larger area and reduce the pressure
+- To increase the pressure
+- To reduce their mass
+= Lying flat increases the area, so the pressure falls and the body sinks less.
+? The SI unit of pressure is:
+- N
+- N m
+* N m^{-2} (Pa)
+- kg m^{-3}
+= 1 Pa = 1 N m^{-2}.
+== bn
+## what
+প্রতি একক ক্ষেত্রফলের ওপর লম্বভাবে ক্রিয়াশীল বলকে **চাপ** বলে: P = F/A। একই বল ছোট ক্ষেত্রফলে বড় চাপ, আর বড় ক্ষেত্রফলে ছোট চাপ তৈরি করে।
+## simple
+একটা ভারী আলমারি প্রথমে এক হাতের তালু দিয়ে ঠেলো, তারপর দুই হাতে, তারপর পুরো শরীর দিয়ে হেলান দিয়ে। প্রতিবার হয়তো **একই বল** দিচ্ছ, কিন্তু অনুভূতি একদম আলাদা। এক তালুতে বলটা ছোট একটা জায়গায় চেপে বসে; পুরো শরীরে তা বড় জায়গায় ছড়িয়ে যায়। যা বদলায় তা হলো **চাপ**।
+
+**P = F ÷ A**
+
+তাই বড় চাপ পাওয়ার দুটি উপায়: জোরে ঠেলা (F বড়), অথবা ছোট জায়গায় ঠেলা (A ছোট)।
+
+**শুয়ে থাকা নাকি দাঁড়িয়ে থাকা।** ধরো তোমার ভর ৫০ kg, তাহলে ওজন ৫০ × ৯.৮ = ৪৯০ N। চিত হয়ে শুয়ে থাকলে শরীরের প্রায় ০.৫ m² মেঝে স্পর্শ করে: P = ৪৯০ ÷ ০.৫ = **৯৮০ Pa**। দাঁড়ালে শুধু দুই পায়ের তলা মেঝে ছোঁয়, প্রায় ০.০৩ m²: P = ৪৯০ ÷ ০.০৩ ≈ **১৬ ৩৩৩ Pa**। ওজন একই, কিন্তু দাঁড়ালে চাপ প্রায় ১৭ গুণ! এজন্যই চোরাবালি বা নরম কাদায় আটকে গেলে শুয়ে পড়তে হয়: চাপ কমে যায়, শরীর কম ডোবে।
+
+**ছোট ক্ষেত্রফল, বড় চাপ।** পেরেকের আগা আর ছুরির ধারের ক্ষেত্রফল খুবই ছোট। এমন ছোট জায়গায় সামান্য বল দিলেও বিপুল চাপ হয়, তাই হাতুড়ির ঘায়ে পেরেক কাঠে ঢোকে আর ছুরি সহজে সবজি কাটে। ভোঁতা ছুরির ধার চওড়া, তাই একই ঠেলায় চাপ কম হয়।
+
+**বড় ক্ষেত্রফল, ছোট চাপ।** ভারী ট্রাকে অনেকগুলো চওড়া চাকা, কাদামাটির জমিতে চলা ট্রাক্টরের চাকা চওড়া, স্কুলব্যাগের ফিতা চওড়া: সবই বলকে বড় জায়গায় ছড়িয়ে দেওয়ার জন্য।
+
+**চাপ স্কেলার রাশি।** বল ভেক্টর, কিন্তু চাপের নিজের কোনো দিক নেই। ক্ষেত্রফলকে ভেক্টর ধরা যায় (মান হলো ক্ষেত্রফল, দিক হলো তলের লম্ব বরাবর), তখন F = PA। চাপের দিক নেই বলেই তরল বা গ্যাসে যেকোনো তল যেদিকেই মুখ করে থাকুক, তার ওপর চাপ পড়ে।
+## analogy
+ভাবো কেউ তোমার পায়ে পা দিল, প্রথমে চ্যাপ্টা স্যান্ডেল পরে, তারপর সরু হাই হিল পরে। দুবারই তার ওজন (বল) একই, কিন্তু হিল সবটুকু ওজন ছোট্ট একটি বিন্দুতে চাপায়, তাই অনেক বেশি ব্যথা লাগে। চাপ মানে **বল কতটা ঘনীভূত**।
+## definition
+**চাপ**: কোনো তলের একক ক্ষেত্রফলের ওপর লম্বভাবে ক্রিয়াশীল বল। A ক্ষেত্রফলের ওপর লম্বভাবে F বল ক্রিয়া করলে চাপ P = F/A।
+
+চাপ স্কেলার রাশি। SI একক: N m^{-২}, যার নাম **প্যাসকেল (Pa)**; ১ m² ক্ষেত্রফলের ওপর ১ N বল ক্রিয়া করলে চাপ ১ Pa। মাত্রা: [P] = ML^{-১}T^{-২}।
+## why
+ক্ষেত্রফল এত গুরুত্বপূর্ণ কেন? বল যে তলে ক্রিয়া করে, তার সব বিন্দুর মধ্যে ভাগ হয়ে যায়। বড় জায়গায় ছড়ালে তলের প্রতিটি ছোট অংশ বলের সামান্য ভাগ বহন করে, তাই তল দেবে যায় না বা ফুটো হয় না। ছোট্ট জায়গায় কেন্দ্রীভূত হলে প্রতিটি অংশের ভাগে বিশাল বল পড়ে, আর পদার্থ ভেঙে যায়। তলের ক্ষতি করে **একক ক্ষেত্রফলে বল**, মোট বল নয়।
+## terms
+চাপ (P) | একক ক্ষেত্রফলে তলের লম্বভাবে ক্রিয়াশীল বল
+প্যাসকেল (Pa) | চাপের একক: ১ N m^{-২}
+ঘাত বা মোট বল | তলের ওপর লম্বভাবে ক্রিয়াশীল মোট বল (P = F/A-এর F)
+স্কেলার | মান আছে কিন্তু দিক নেই এমন রাশি; চাপ এমন রাশি
+## formula
+$$ P = F/A
+$$ F = PA
+tri F | P | A
+P | চাপ | Pa (N m^{-২})
+F | তলের লম্বভাবে ক্রিয়াশীল বল | N
+A | ক্ষেত্রফল | m²
+! ক্ষেত্রফল অর্ধেক → চাপ দ্বিগুণ (বল একই থাকলে)।
+! [P] = ML^{-১}T^{-২}
+## visual
+একটি পরিস্থিতি বেছে নাও বা বল ও ক্ষেত্রফলের স্লাইডার সরাও, আর দেখো চাপ কীভাবে বদলায়।
+## real
+বাংলাদেশের কৃষকেরা নরম, কাদাভরা ধানখেতে সরু হিলের জুতা নয়, খালি পায়ে বা চওড়া তক্তার ওপর দিয়ে হাঁটেন। চওড়া খুরের উট আর গরু বালু ও কাদায় কম দেবে যায়। ইনজেকশনের সুই খুব সরু বানানো হয়, যেন আলতো ঠেলাতেই চামড়া ভেদ করার মতো যথেষ্ট চাপ তৈরি হয়।
+## example
+প্রশ্ন: তোমার ভর ৫০ kg। তোমার পিঠের ক্ষেত্রফল ০.৫ m² আর দুই পায়ের তলার ক্ষেত্রফল ০.০৩ m²। শুয়ে থাকলে ও দাঁড়ালে মেঝেতে কত চাপ দেবে? (g = ৯.৮ m/s²)
+দেওয়া আছে: m = ৫০ kg, A(শোয়া) = ০.৫ m², A(দাঁড়ানো) = ০.০৩ m²
+সূত্র: P = F/A, যেখানে F = ওজন = mg
+হিসাব: F = ৫০ × ৯.৮ = ৪৯০ N; শুয়ে: P = ৪৯০ ÷ ০.৫ = ৯৮০ Pa; দাঁড়িয়ে: P = ৪৯০ ÷ ০.০৩ ≈ ১৬ ৩৩৩ Pa
+> দুই ক্ষেত্রেই বল একই; শুধু ক্ষেত্রফল বদলেছে।
+উত্তর: শুয়ে থাকলে ৯৮০ Pa; দাঁড়ালে প্রায় ১৬ ৩৩৩ Pa (≈ ১.৬ × ১০^{৪} Pa)।
+## example
+প্রশ্ন: তুমি ২০ N বলে একটি ছুরি চাপ দিলে। এর ধারালো কিনারা ১০ cm লম্বা আর ০.১ mm চওড়া। কিনারা কত চাপ দেয়? ছুরি ভোঁতা হলে, মানে কিনারা ১ mm চওড়া হলে, কত?
+দেওয়া আছে: F = ২০ N; ধারালো কিনারার ক্ষেত্রফল A = ০.১ m × ০.০০০১ m = ১ × ১০^{-৫} m²; ভোঁতা কিনারার ক্ষেত্রফল = ০.১ m × ০.০০১ m = ১ × ১০^{-৪} m²
+সূত্র: P = F/A
+হিসাব: ধারালো: P = ২০ ÷ (১ × ১০^{-৫}) = ২ × ১০^{৬} Pa; ভোঁতা: P = ২০ ÷ (১ × ১০^{-৪}) = ২ × ১০^{৫} Pa
+উত্তর: একই ঠেলায় ধারালো ছুরি ২ × ১০^{৬} Pa চাপ দেয়, যা ভোঁতা ছুরির ২ × ১০^{৫} Pa-এর দশ গুণ।
+## mistakes
+x বল বড় হলেই চাপ সবসময় বড়।
+v চাপ বল আর ক্ষেত্রফল দুটোর ওপর নির্ভর করে; খুব বড় ক্ষেত্রফলে বড় বলও ছোট চাপ দিতে পারে।
+x বল ভেক্টর, তাই চাপও ভেক্টর।
+v চাপ স্কেলার; এর নিজের দিক নেই, তল যেদিকেই মুখ করে থাকুক তার ওপর ক্রিয়া করে।
+x চাপের একক নিউটন।
+v নিউটন বলের একক। চাপ মাপা হয় N m^{-২} বা প্যাসকেল (Pa) এককে।
+## remember
+- P = F/A; একক প্যাসকেল (Pa) = N m^{-২}; মাত্রা ML^{-১}T^{-২}।
+- ক্ষেত্রফল ছোট → চাপ বড় (পেরেক, ছুরি, সুই)।
+- ক্ষেত্রফল বড় → চাপ ছোট (শুয়ে পড়া, চওড়া চাকা, চওড়া ব্যাগের ফিতা)।
+- চাপ স্কেলার রাশি।
+## think
+অনেকগুলো ধারালো পেরেকের বিছানায় শুয়ে থাকলেও ব্যথা লাগে না, অথচ একটিমাত্র পেরেকে পা পড়লে খুব ব্যথা লাগে। কেন?
+## quiz
+? ০.৫ m² ক্ষেত্রফলের ওপর ১০০ N বল ক্রিয়া করছে। চাপ:
+- ৫০ Pa
+* ২০০ Pa
+- ১০০.৫ Pa
+- ০.০০৫ Pa
+= P = F/A = ১০০ ÷ ০.৫ = ২০০ Pa।
+? বল একই রেখে ক্ষেত্রফল অর্ধেক করলে চাপ:
+- অর্ধেক হয়
+- একই থাকে
+* দ্বিগুণ হয়
+- চার গুণ হয়
+= P = F/A, তাই A অর্ধেক হলে P দ্বিগুণ।
+? চোরাবালিতে ডুবতে থাকা মানুষ শুয়ে পড়ে কেন?
+- ওজন বাড়ানোর জন্য
+* ওজনকে বড় ক্ষেত্রফলে ছড়িয়ে চাপ কমানোর জন্য
+- চাপ বাড়ানোর জন্য
+- ভর কমানোর জন্য
+= শুয়ে পড়লে ক্ষেত্রফল বাড়ে, তাই চাপ কমে আর শরীর কম ডোবে।
+? চাপের SI একক:
+- N
+- N m
+* N m^{-২} (Pa)
+- kg m^{-৩}
+= ১ Pa = ১ N m^{-২}।
+
+@@ 5.2
+@visual c5dens
+@related 5.3.2 5.3.1 5.1
+@media https://phet.colorado.edu/en/simulations/density | Density (PhET simulation) | ঘনত্ব (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Density** is the mass of a substance per unit volume: ρ = m/V. It tells us how tightly matter is packed, and it decides what floats and what sinks.
+## simple
+Hold a 1 kg bag of cotton in one hand and a 1 kg iron dumbbell in the other. Both have the same mass, but the cotton bag is huge and the iron is small. Iron packs much more mass into each cubic metre: it has a higher **density**.
+
+**ρ = m ÷ V**
+
+(ρ is the Greek letter "rho".) The SI unit is **kg/m³**. In the laboratory we often use **g/cc** (grams per cubic centimetre). Since 1 g/cc = 1000 kg/m³, water's density is 1 g/cc = 1000 kg/m³.
+
+**Some densities (g/cc):** air 0.00127, cork 0.25, wood 0.4–0.5, human body 0.995, water 1.00, glass 2.60, iron 7.80, mercury 13.6, gold 19.3.
+
+**Temperature matters.** When a substance is heated it usually expands: its volume grows while its mass stays the same, so its density **falls**. That is why a density value should come with the temperature at which it was measured.
+
+**The densest thing you can imagine: a nucleus.** A proton or neutron has a mass of 1.67 × 10^{-27} kg and a radius of about 1.25 × 10^{-15} m. Dividing mass by the volume of such a sphere gives a density of about **2 × 10^{17} kg/m³**. A teaspoon holds about 1 cc (10^{-6} m³), so a teaspoon of pure nuclear matter would have a mass of about **2 × 10^{11} kg**, two hundred billion kilograms, comparable to the total mass of all the people on Earth! Ordinary matter is so much lighter because an atom is mostly empty space: its radius is about 100 000 times the radius of its nucleus.
+
+**5.2.1 Uses of density in daily life**
+- **Boiling water (convection).** Water at the bottom of a pot heats up, expands and becomes less dense, so it rises; cooler, denser water sinks to take its place. This circulation, called **convection**, heats the whole pot. Without it, only the bottom layer would get hot.
+- **A pond in summer.** The sun heats the surface water, which becomes less dense and stays on top, so the surface is warm while the bottom stays cool.
+- **Balloons.** A balloon rises if it is filled with a gas less dense than air. Helium is safe; hydrogen and methane are also lighter than air but catch fire easily, so they are dangerous.
+- **Sky lanterns and hot-air balloons.** Heating the air inside makes it less dense than the cooler air outside, so the lantern rises.
+- **Testing eggs.** A fresh egg sinks in water. An old, spoiled egg becomes less dense than water and floats.
+- **Checking purity.** Every pure substance has its own density. If a "gold" ornament's density is less than 19.3 g/cc, it is not pure gold (see Archimedes' crown in [[5.3.1|lesson 5.3.1]]).
+
+**Investigation: measuring the density of a solid.** Weigh a stone hanging from a spring balance, first in air (M₁ gram-weight) and then fully immersed in water (M₂). The loss, M₁ − M₂ grams, equals the mass of water pushed aside, and since 1 g of water occupies 1 cc, the stone's volume is (M₁ − M₂) cc. Then density = M₁ ÷ (M₁ − M₂) g/cc.
+## analogy
+Fill one bag with cotton and an identical bag with sand. Same size, very different weight. The sand packs much more mass into the same space: it is **denser**. Density answers the question "how much stuff is squeezed into each cubic metre?"
+## definition
+**Density**: the mass per unit volume of a substance. If a body of mass m has volume V, its density is ρ = m/V.
+
+SI unit: kg m^{-3} (also g/cc; 1 g/cc = 1000 kg m^{-3}). Dimension: [ρ] = ML^{-3}. Density generally depends on temperature.
+## why
+Why do different substances have different densities? Two things decide it: how heavy the individual atoms or molecules are, and how closely they are packed. Gold atoms are heavy and tightly packed, so gold is very dense. Gas molecules are far apart, so gases have very low density. Heating pushes molecules further apart, which is why heating lowers density.
+## terms
+Density (ρ) | Mass per unit volume
+kg m^{-3} | SI unit of density
+g/cc | Laboratory unit; 1 g/cc = 1000 kg m^{-3}
+Convection | Transfer of heat by a fluid rising when heated (less dense) and sinking when cooled (denser)
+Nuclear density | About 2 × 10^{17} kg m^{-3}, the density of nuclear matter
+## formula
+$$ ρ = m/V
+$$ m = ρV,  V = m/ρ
+tri m | ρ | V
+ρ | density | kg m^{-3}
+m | mass | kg
+V | volume | m³
+! 1 cc = 1 cm³ = 10^{-6} m³; 1 litre = 1000 cc = 10^{-3} m³
+! [ρ] = ML^{-3}
+## visual
+Change the mass and the volume of the block. See where its density falls on the scale of familiar substances, and whether it would float in water.
+## real
+Goldsmiths and jewellery buyers in Dhaka can check whether an ornament is pure by comparing its density with that of gold. The khichuri pot on a stove gets evenly hot thanks to convection currents driven by density differences. In winter, sky lanterns released during festivals rise because hot air is less dense than cold air.
+## example
+Q: 0.25 kg of salt is dissolved in 1 kg of water, and the total volume becomes 1200 cc. What is the density of the salt water?
+Given: m = 1 + 0.25 = 1.25 kg; V = 1200 cc = 1200 × 10^{-6} m³
+Formula: ρ = m/V
+Calculation: ρ = 1.25 ÷ (1200 × 10^{-6}) ≈ 1042 kg/m³
+> 1 cc = (10^{-2} m)³ = 10^{-6} m³.
+Answer: about 1.04 × 10^{3} kg/m³ (slightly denser than pure water).
+## example
+Q: The water of the Dead Sea has a density of 1.24 kg per litre. What is the volume of 1 kg of this water?
+Given: ρ = 1.24 kg/L = 1.24 kg ÷ 10^{-3} m³ = 1.24 × 10^{3} kg/m³; m = 1 kg
+Formula: V = m/ρ
+Calculation: V = 1 ÷ (1.24 × 10^{3}) ≈ 0.81 × 10^{-3} m³
+Answer: about 0.81 litre.
+## example
+Q: A proton (or neutron) has mass 1.67 × 10^{-27} kg and radius 1.25 × 10^{-15} m. Estimate the density of a nucleus and the mass of one teaspoon (1 cc) of nuclear matter.
+Formula: ρ = m ÷ (4/3 πr³)
+Calculation: volume = 4/3 × 3.14 × (1.25 × 10^{-15})³ ≈ 8.2 × 10^{-45} m³; ρ = 1.67 × 10^{-27} ÷ 8.2 × 10^{-45} ≈ 2 × 10^{17} kg/m³; mass of 1 cc = 2 × 10^{17} × 10^{-6} = 2 × 10^{11} kg
+Answer: density ≈ 2 × 10^{17} kg/m³; one teaspoon ≈ 2 × 10^{11} kg.
+## example
+Q: In the density investigation, a stone weighs 150 gram-weight in air and 100 gram-weight when fully immersed in water. Find its density.
+Given: M₁ = 150 g, M₂ = 100 g
+Formula: volume = (M₁ − M₂) cc; ρ = M₁ ÷ volume
+Calculation: volume = 150 − 100 = 50 cc; ρ = 150 ÷ 50 = 3 g/cc
+> The weight lost equals the weight of the displaced water, and 1 g of water has a volume of 1 cc.
+Answer: 3 g/cc = 3000 kg/m³
+## mistakes
+x Heavy objects have high density.
+v Density is mass per volume. A big log is heavy but less dense than a small iron nail.
+x Density of a substance never changes.
+v It changes with temperature (and for gases, strongly with pressure).
+x 1 g/cc = 1 kg/m³.
+v 1 g/cc = 1000 kg/m³.
+## remember
+- ρ = m/V; unit kg m^{-3}; 1 g/cc = 1000 kg m^{-3}; water = 1000 kg m^{-3}.
+- Heating → expansion → lower density → hot fluid rises (convection).
+- Less dense than water → floats; denser → sinks.
+- Nucleus ≈ 2 × 10^{17} kg m^{-3}.
+## think
+A tall glass holds honey, water and cooking oil, which don't mix. In what order will they settle from bottom to top, and why?
+## quiz
+? A block of mass 600 g has a volume of 200 cc. Its density is:
+- 0.33 g/cc
+* 3 g/cc
+- 120 g/cc
+- 800 g/cc
+= ρ = 600 ÷ 200 = 3 g/cc.
+? The SI unit of density is:
+- kg m^{-2}
+- g m^{-3}
+* kg m^{-3}
+- N m^{-3}
+= Mass (kg) ÷ volume (m³).
+? Water in a pot heated from below warms up throughout because hot water:
+- Becomes denser and sinks
+* Becomes less dense and rises
+- Stops moving
+- Turns into ice
+= Heated water expands, its density falls and it rises: convection.
+? A spoiled egg floats in water because:
+- It becomes heavier
+- Water becomes denser
+* Its density becomes less than that of water
+- Its volume decreases
+= An object less dense than water floats.
+== bn
+## what
+একক আয়তনে কোনো পদার্থের ভরকে **ঘনত্ব** বলে: ρ = m/V। এটি বলে পদার্থ কত ঘন হয়ে আছে, আর কোনটা ভাসবে, কোনটা ডুববে তা-ও ঠিক করে দেয়।
+## simple
+এক হাতে ১ kg তুলার বস্তা আর অন্য হাতে ১ kg লোহার ডাম্বেল ধরো। দুটোর ভর একই, কিন্তু তুলার বস্তা বিশাল আর লোহাটা ছোট্ট। প্রতি ঘনমিটারে লোহা অনেক বেশি ভর ধরে রাখে: এর **ঘনত্ব** বেশি।
+
+**ρ = m ÷ V**
+
+(ρ হলো গ্রিক অক্ষর "রো"।) SI একক **kg/m³**। পরীক্ষাগারে প্রায়ই **g/cc** (গ্রাম প্রতি ঘন সেন্টিমিটার) ব্যবহার করি। যেহেতু ১ g/cc = ১০০০ kg/m³, তাই পানির ঘনত্ব ১ g/cc = ১০০০ kg/m³।
+
+**কয়েকটি ঘনত্ব (g/cc):** বাতাস ০.০০১২৭, কর্ক ০.২৫, কাঠ ০.৪–০.৫, মানবদেহ ০.৯৯৫, পানি ১.০০, কাচ ২.৬০, লোহা ৭.৮০, পারদ ১৩.৬, সোনা ১৯.৩।
+
+**তাপমাত্রার প্রভাব।** তাপ দিলে পদার্থ সাধারণত প্রসারিত হয়: ভর একই থাকে কিন্তু আয়তন বাড়ে, তাই ঘনত্ব **কমে**। এজন্যই ঘনত্বের মান বলার সময় কোন তাপমাত্রায় মাপা হয়েছে তা-ও বলতে হয়।
+
+**কল্পনার সবচেয়ে ঘন জিনিস: নিউক্লিয়াস।** একটি প্রোটন বা নিউট্রনের ভর ১.৬৭ × ১০^{-২৭} kg আর ব্যাসার্ধ প্রায় ১.২৫ × ১০^{-১৫} m। ভরকে এমন একটি গোলকের আয়তন দিয়ে ভাগ করলে ঘনত্ব আসে প্রায় **২ × ১০^{১৭} kg/m³**। এক চা-চামচে প্রায় ১ cc (১০^{-৬} m³) ধরে, তাই এক চামচ বিশুদ্ধ নিউক্লীয় পদার্থের ভর হবে প্রায় **২ × ১০^{১১} kg**, মানে বিশ হাজার কোটি কিলোগ্রাম, পৃথিবীর সব মানুষের মোট ভরের কাছাকাছি! সাধারণ পদার্থ এত হালকা কারণ পরমাণুর বেশিরভাগটাই ফাঁকা: এর ব্যাসার্ধ নিউক্লিয়াসের ব্যাসার্ধের প্রায় ১ লক্ষ গুণ।
+
+**৫.২.১ দৈনন্দিন জীবনে ঘনত্বের ব্যবহার**
+- **পানি ফোটানো (পরিচলন)।** পাতিলের নিচের পানি গরম হয়ে প্রসারিত হয়, ঘনত্ব কমে, তাই ওপরে ওঠে; ঠান্ডা, বেশি ঘন পানি নিচে নেমে তার জায়গা নেয়। এই ঘূর্ণন, যাকে বলে **পরিচলন**, পুরো পাতিলের পানি গরম করে। এটা না হলে শুধু নিচের স্তরটাই গরম হতো।
+- **গ্রীষ্মের পুকুর।** রোদ ওপরের পানি গরম করে, তার ঘনত্ব কমে বলে সেটা ওপরেই থাকে, তাই ওপরের পানি গরম আর তলার পানি ঠান্ডা।
+- **বেলুন।** বাতাসের চেয়ে কম ঘনত্বের গ্যাস ভরলে বেলুন ওড়ে। হিলিয়াম নিরাপদ; হাইড্রোজেন আর মিথেনও বাতাসের চেয়ে হালকা, কিন্তু সহজে আগুন ধরে, তাই বিপজ্জনক।
+- **ফানুস ও গরম বাতাসের বেলুন।** ভেতরের বাতাস গরম করলে তা বাইরের ঠান্ডা বাতাসের চেয়ে কম ঘন হয়, তাই ফানুস ওপরে ওঠে।
+- **ডিম পরীক্ষা।** টাটকা ডিম পানিতে ডোবে। পুরোনো, নষ্ট ডিমের ঘনত্ব পানির চেয়ে কমে যায়, তাই ভাসে।
+- **বিশুদ্ধতা যাচাই।** প্রতিটি বিশুদ্ধ পদার্থের নিজস্ব ঘনত্ব আছে। কোনো "সোনার" গয়নার ঘনত্ব ১৯.৩ g/cc-এর কম হলে সেটা খাঁটি সোনা নয় (আর্কিমিডিসের মুকুট দেখো [[5.3.1|পাঠ ৫.৩.১]]-এ)।
+
+**পরীক্ষণ: কঠিন বস্তুর ঘনত্ব নির্ণয়।** একটি পাথরকে স্প্রিং নিক্তিতে ঝুলিয়ে প্রথমে বাতাসে (M₁ গ্রাম-ওজন) আর পরে পুরোপুরি পানিতে ডুবিয়ে (M₂) ওজন নাও। ওজন হ্রাস M₁ − M₂ গ্রাম হলো অপসারিত পানির ভর, আর ১ g পানির আয়তন ১ cc বলে পাথরের আয়তন (M₁ − M₂) cc। তাহলে ঘনত্ব = M₁ ÷ (M₁ − M₂) g/cc।
+## analogy
+একটি ব্যাগ তুলা দিয়ে আর একই মাপের আরেকটি ব্যাগ বালু দিয়ে ভরো। আকার একই, ওজনে বিশাল পার্থক্য। বালু একই জায়গায় অনেক বেশি ভর ঠেসে রাখে: এটি বেশি **ঘন**। ঘনত্ব এই প্রশ্নের উত্তর দেয়: "প্রতি ঘনমিটারে কতটা পদার্থ ঠাসা আছে?"
+## definition
+**ঘনত্ব**: কোনো পদার্থের একক আয়তনের ভর। m ভরের বস্তুর আয়তন V হলে এর ঘনত্ব ρ = m/V।
+
+SI একক: kg m^{-৩} (g/cc-ও চলে; ১ g/cc = ১০০০ kg m^{-৩})। মাত্রা: [ρ] = ML^{-৩}। ঘনত্ব সাধারণত তাপমাত্রার ওপর নির্ভর করে।
+## why
+ভিন্ন ভিন্ন পদার্থের ঘনত্ব ভিন্ন কেন? দুটি জিনিস এটা ঠিক করে: প্রতিটি পরমাণু বা অণু কত ভারী, আর তারা কত কাছাকাছি সাজানো। সোনার পরমাণু ভারী আর ঘেঁষাঘেঁষি করে থাকে, তাই সোনা খুব ঘন। গ্যাসের অণুগুলো অনেক দূরে দূরে থাকে, তাই গ্যাসের ঘনত্ব খুব কম। তাপ দিলে অণুগুলো দূরে সরে যায়, তাই ঘনত্ব কমে।
+## terms
+ঘনত্ব (ρ) | একক আয়তনের ভর
+kg m^{-৩} | ঘনত্বের SI একক
+g/cc | পরীক্ষাগারের একক; ১ g/cc = ১০০০ kg m^{-৩}
+পরিচলন | গরম হলে (কম ঘন) প্রবাহী ওপরে ওঠে আর ঠান্ডা হলে (বেশি ঘন) নামে, এভাবে তাপ সঞ্চালন
+নিউক্লীয় ঘনত্ব | প্রায় ২ × ১০^{১৭} kg m^{-৩}, নিউক্লীয় পদার্থের ঘনত্ব
+## formula
+$$ ρ = m/V
+$$ m = ρV,  V = m/ρ
+tri m | ρ | V
+ρ | ঘনত্ব | kg m^{-৩}
+m | ভর | kg
+V | আয়তন | m³
+! ১ cc = ১ cm³ = ১০^{-৬} m³; ১ লিটার = ১০০০ cc = ১০^{-৩} m³
+! [ρ] = ML^{-৩}
+## visual
+ব্লকের ভর আর আয়তন বদলাও। দেখো এর ঘনত্ব চেনা পদার্থগুলোর স্কেলে কোথায় পড়ে, আর পানিতে এটি ভাসবে কি না।
+## real
+ঢাকার স্বর্ণকার আর গয়নার ক্রেতারা ঘনত্বকে সোনার ঘনত্বের সাথে মিলিয়ে গয়না খাঁটি কি না যাচাই করতে পারেন। চুলায় খিচুড়ির হাঁড়ি সমানভাবে গরম হয় ঘনত্বের পার্থক্যে তৈরি পরিচলন স্রোতের কারণে। উৎসবে ওড়ানো ফানুস ওপরে ওঠে, কারণ গরম বাতাস ঠান্ডা বাতাসের চেয়ে কম ঘন।
+## example
+প্রশ্ন: ১ kg পানিতে ০.২৫ kg লবণ গুলে দেওয়ায় মোট আয়তন হলো ১২০০ cc। লবণপানির ঘনত্ব কত?
+দেওয়া আছে: m = ১ + ০.২৫ = ১.২৫ kg; V = ১২০০ cc = ১২০০ × ১০^{-৬} m³
+সূত্র: ρ = m/V
+হিসাব: ρ = ১.২৫ ÷ (১২০০ × ১০^{-৬}) ≈ ১০৪২ kg/m³
+> ১ cc = (১০^{-২} m)³ = ১০^{-৬} m³।
+উত্তর: প্রায় ১.০৪ × ১০^{৩} kg/m³ (বিশুদ্ধ পানির চেয়ে সামান্য বেশি ঘন)।
+## example
+প্রশ্ন: মৃত সাগরের (ডেড সি) পানির ঘনত্ব প্রতি লিটারে ১.২৪ kg। এই পানির ১ kg-এর আয়তন কত?
+দেওয়া আছে: ρ = ১.২৪ kg/L = ১.২৪ kg ÷ ১০^{-৩} m³ = ১.২৪ × ১০^{৩} kg/m³; m = ১ kg
+সূত্র: V = m/ρ
+হিসাব: V = ১ ÷ (১.২৪ × ১০^{৩}) ≈ ০.৮১ × ১০^{-৩} m³
+উত্তর: প্রায় ০.৮১ লিটার।
+## example
+প্রশ্ন: একটি প্রোটনের (বা নিউট্রনের) ভর ১.৬৭ × ১০^{-২৭} kg আর ব্যাসার্ধ ১.২৫ × ১০^{-১৫} m। নিউক্লিয়াসের ঘনত্ব এবং এক চা-চামচ (১ cc) নিউক্লীয় পদার্থের ভর আনুমানিক কত?
+সূত্র: ρ = m ÷ (৪/৩ πr³)
+হিসাব: আয়তন = ৪/৩ × ৩.১৪ × (১.২৫ × ১০^{-১৫})³ ≈ ৮.২ × ১০^{-৪৫} m³; ρ = ১.৬৭ × ১০^{-২৭} ÷ ৮.২ × ১০^{-৪৫} ≈ ২ × ১০^{১৭} kg/m³; ১ cc-এর ভর = ২ × ১০^{১৭} × ১০^{-৬} = ২ × ১০^{১১} kg
+উত্তর: ঘনত্ব ≈ ২ × ১০^{১৭} kg/m³; এক চা-চামচ ≈ ২ × ১০^{১১} kg।
+## example
+প্রশ্ন: ঘনত্ব নির্ণয়ের পরীক্ষণে একটি পাথরের ওজন বাতাসে ১৫০ গ্রাম-ওজন আর পুরোপুরি পানিতে ডুবালে ১০০ গ্রাম-ওজন। এর ঘনত্ব কত?
+দেওয়া আছে: M₁ = ১৫০ g, M₂ = ১০০ g
+সূত্র: আয়তন = (M₁ − M₂) cc; ρ = M₁ ÷ আয়তন
+হিসাব: আয়তন = ১৫০ − ১০০ = ৫০ cc; ρ = ১৫০ ÷ ৫০ = ৩ g/cc
+> হারানো ওজন অপসারিত পানির ওজনের সমান, আর ১ g পানির আয়তন ১ cc।
+উত্তর: ৩ g/cc = ৩০০০ kg/m³
+## mistakes
+x ভারী জিনিসের ঘনত্ব বেশি।
+v ঘনত্ব হলো প্রতি আয়তনে ভর। বড় একটা গাছের গুঁড়ি ভারী, কিন্তু ছোট্ট লোহার পেরেকের চেয়ে কম ঘন।
+x পদার্থের ঘনত্ব কখনো বদলায় না।
+v তাপমাত্রার সাথে বদলায় (আর গ্যাসের ক্ষেত্রে চাপের সাথে অনেক বদলায়)।
+x ১ g/cc = ১ kg/m³।
+v ১ g/cc = ১০০০ kg/m³।
+## remember
+- ρ = m/V; একক kg m^{-৩}; ১ g/cc = ১০০০ kg m^{-৩}; পানি = ১০০০ kg m^{-৩}।
+- তাপ → প্রসারণ → ঘনত্ব কমে → গরম প্রবাহী ওপরে ওঠে (পরিচলন)।
+- পানির চেয়ে কম ঘন → ভাসে; বেশি ঘন → ডোবে।
+- নিউক্লিয়াস ≈ ২ × ১০^{১৭} kg m^{-৩}।
+## think
+একটা লম্বা গ্লাসে মধু, পানি আর রান্নার তেল আছে, যারা মেশে না। নিচ থেকে ওপরে এরা কোন ক্রমে থিতু হবে, আর কেন?
+## quiz
+? ৬০০ g ভরের একটি ব্লকের আয়তন ২০০ cc। এর ঘনত্ব:
+- ০.৩৩ g/cc
+* ৩ g/cc
+- ১২০ g/cc
+- ৮০০ g/cc
+= ρ = ৬০০ ÷ ২০০ = ৩ g/cc।
+? ঘনত্বের SI একক:
+- kg m^{-২}
+- g m^{-৩}
+* kg m^{-৩}
+- N m^{-৩}
+= ভর (kg) ÷ আয়তন (m³)।
+? নিচ থেকে তাপ দিলে পাতিলের পুরো পানি গরম হয়, কারণ গরম পানি:
+- বেশি ঘন হয়ে নিচে নামে
+* কম ঘন হয়ে ওপরে ওঠে
+- নড়াচড়া বন্ধ করে
+- বরফ হয়ে যায়
+= গরম পানি প্রসারিত হয়, ঘনত্ব কমে আর ওপরে ওঠে: এটাই পরিচলন।
+? নষ্ট ডিম পানিতে ভাসে, কারণ:
+- এটি ভারী হয়ে যায়
+- পানি বেশি ঘন হয়ে যায়
+* এর ঘনত্ব পানির চেয়ে কমে যায়
+- এর আয়তন কমে যায়
+= পানির চেয়ে কম ঘন বস্তু ভাসে।
+
+@@ 5.3
+@visual c5depth
+@related 5.1 5.2 5.3.1 5.4
+@media https://phet.colorado.edu/en/simulations/under-pressure | Under Pressure (PhET simulation) | চাপের নিচে (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+A liquid presses on everything in it and on the walls of its container. The pressure grows with depth: at depth h in a liquid of density ρ, the pressure due to the liquid is **P = hρg**, and at any point it acts equally in all directions.
+## simple
+Dive to the bottom of a pond and you feel a squeeze in your ears. The deeper you go, the stronger it gets. Why?
+
+Think of all the water sitting **above** you. That water has weight, and it presses down on whatever is below it. The deeper you are, the taller the column of water above you, so the more weight presses on each square metre.
+
+**Finding the formula.** Imagine a small flat area A at depth h. Directly above it stands a column of liquid of height h and cross-section A.
+- Volume of the column = Ah
+- Mass of the column = volume × density = Ahρ
+- Weight of the column = Ahρg
+- Pressure = weight ÷ area = Ahρg ÷ A = **hρg**
+
+So **P = hρg**. Notice what is *not* in the formula: the area and the shape of the container. Only depth, density and g matter.
+
+**What this means:**
+- **Deeper → more pressure.** Pressure grows steadily with depth. In water, every **10 m** of depth adds about as much pressure as the whole atmosphere (1 atm ≈ 101 325 Pa).
+- **Denser liquid → more pressure** at the same depth. At 50 cm, mercury presses 13.6 times harder than water.
+- **Same depth → same pressure**, whatever the shape or width of the container.
+- **All directions.** At any point in a liquid, the pressure pushes equally up, down and sideways. That is why water squirts out of a hole in the side of a bottle, and it squirts **farthest from the lowest hole**, where the pressure is greatest.
+
+**Dams are thicker at the bottom.** The water pushes hardest on the deepest part of the dam wall, so engineers make the base much thicker than the top.
+
+(The air above the water also presses on the surface. hρg is the extra pressure due to the liquid itself; the total pressure at depth h is the air pressure plus hρg. We don't usually feel the air's part, because the fluids in our body push back equally.)
+## analogy
+Stack ten books on your hand. The top book presses lightly, but the bottom book is squeezed by the weight of all nine above it. Water is the same: each layer carries the weight of all the water above it, so the deeper you go, the greater the pressure. That's why a dam is much thicker at the bottom.
+## definition
+**Pressure in a liquid**: the pressure at a point inside a liquid at rest, due to the weight of the liquid above it, is P = hρg, where h is the depth of the point below the free surface, ρ the density of the liquid and g the acceleration due to gravity.
+
+At a given point in a liquid at rest, the pressure is the same in all directions, and it is the same at all points at the same depth.
+## why
+Why does the pressure act sideways and even upward, when the weight of the water acts only downward? Because liquid particles can move freely past each other. If the pressure at a point were larger in one direction than another, the liquid there would be pushed and would start to flow. In a liquid at rest nothing flows, so the pressure at each point must be balanced in every direction.
+## terms
+Depth (h) | Vertical distance of a point below the free surface of the liquid
+Liquid pressure | Pressure due to the weight of the liquid above: hρg
+Atmosphere (atm) | Unit of pressure: 1 atm ≈ 1.013 × 10^{5} Pa (76 cm of mercury)
+Free surface | The top surface of a liquid, open to the air
+## formula
+$$ P = hρg
+P | pressure due to the liquid | Pa
+h | depth below the surface | m
+ρ | density of the liquid | kg m^{-3}
+g | acceleration due to gravity | 9.8 m s^{-2}
+! In water, about 1 atm is added for every 10 m of depth.
+! Total pressure at depth h = air pressure + hρg.
+## visual
+Choose a liquid and move the depth slider. Watch the pressure grow and see that at any point the pressure pushes equally in all directions.
+## real
+Divers who go deep must come up slowly and wear special equipment because of the large water pressure. Water tanks are placed on rooftops so that the water reaching the taps below has enough pressure; the higher the tank, the faster the tap flows. The walls of Kaptai dam are much thicker at the base than at the top.
+## example
+Q: A whale can dive to a depth of 2100 m below sea level. How much pressure does it bear? (Take pressure to increase by 1 atm per 10 m of depth.)
+Given: h = 2100 m; 1 atm per 10 m
+Calculation: 2100 ÷ 10 = 210 atm
+> This is the pressure due to the water alone. Counting the air above the sea, the total is about 211 atm.
+Answer: about 210 atm due to the water.
+## example
+Q: Find the pressure at a depth of 50 cm in kerosene (800 kg/m³), water (1000 kg/m³) and mercury (13 600 kg/m³). (g = 9.8 m/s²)
+Given: h = 0.50 m
+Formula: P = hρg
+Calculation: kerosene: 0.50 × 800 × 9.8 = 3920 Pa; water: 0.50 × 1000 × 9.8 = 4900 Pa; mercury: 0.50 × 13 600 × 9.8 = 66 640 Pa
+Answer: 3920 Pa, 4900 Pa and 66 640 Pa. At the same depth, the densest liquid gives the greatest pressure.
+## example
+Q: 1 atm of pressure is produced by 76 cm of mercury. At what depth of water and of kerosene is the pressure 1 atm? (mercury is 13.6 times denser than water; kerosene's density is 0.8 times that of water)
+Formula: for the same P, hρ is the same, so h ∝ 1/ρ
+Calculation: water: 76 cm × 13.6 ≈ 1034 cm = 10.34 m; kerosene: 10.34 m ÷ 0.8 ≈ 12.9 m
+> A less dense liquid needs a taller column to produce the same pressure.
+Answer: about 10.34 m of water and about 12.9 m of kerosene.
+## mistakes
+x A wide tank of water has more pressure at the bottom than a narrow pipe of the same depth.
+v P = hρg does not depend on area or shape; at the same depth the pressure is the same.
+x Liquid pressure acts only downward.
+v At any point it acts equally in all directions, including sideways and upward.
+x Pressure depends on the total amount of liquid in the container.
+v It depends only on depth, density and g.
+## remember
+- P = hρg (depth × density × g).
+- Pressure increases with depth and with density.
+- Same depth → same pressure, in all directions, whatever the container shape.
+- Water: +1 atm about every 10 m; 1 atm ≈ 10.3 m of water ≈ 76 cm of mercury.
+## think
+A bottle has three holes at different heights on its side. From which hole does the water shoot out the farthest, and why?
+## quiz
+? Pressure inside a liquid does NOT depend on:
+- Depth
+- Density of the liquid
+- g
+* Area of the container's base
+= P = hρg contains no area.
+? The pressure at the bottom of a container of water 0.2 m deep is (g = 9.8 m/s²):
+- 98 Pa
+- 196 Pa
+- 980 Pa
+* 1960 Pa
+= P = 0.2 × 1000 × 9.8 = 1960 Pa.
+? At the same depth, which liquid gives the greatest pressure?
+- Kerosene
+- Water
+* Mercury
+- All give the same
+= Mercury has the highest density, and P ∝ ρ.
+? Dams are made thicker at the bottom because:
+- The bottom has more fish
+* Water pressure is greatest at the bottom
+- Water is lighter at the bottom
+- Pressure acts only at the top
+= Pressure increases with depth, so the base must withstand the largest force.
+== bn
+## what
+তরল তার ভেতরের সবকিছুর ওপর আর পাত্রের দেয়ালে চাপ দেয়। গভীরতার সাথে চাপ বাড়ে: ρ ঘনত্বের তরলের h গভীরতায় তরলের জন্য চাপ **P = hρg**, আর যেকোনো বিন্দুতে এই চাপ সব দিকে সমান।
+## simple
+পুকুরের তলায় ডুব দিলে কানে একটা চাপ টের পাও। যত গভীরে যাবে, চাপ তত বাড়বে। কেন?
+
+তোমার **ওপরে** থাকা সব পানির কথা ভাবো। সেই পানির ওজন আছে, আর সেটা নিচের সবকিছুর ওপর চেপে বসে। যত গভীরে যাবে, ওপরের পানির স্তম্ভ তত লম্বা, তাই প্রতি বর্গমিটারে তত বেশি ওজন চাপে।
+
+**সূত্রটি বের করি।** h গভীরতায় A ক্ষেত্রফলের একটি ছোট সমতল জায়গা কল্পনা করো। এর ঠিক ওপরে h উচ্চতা আর A প্রস্থচ্ছেদের একটি তরল স্তম্ভ।
+- স্তম্ভের আয়তন = Ah
+- স্তম্ভের ভর = আয়তন × ঘনত্ব = Ahρ
+- স্তম্ভের ওজন = Ahρg
+- চাপ = ওজন ÷ ক্ষেত্রফল = Ahρg ÷ A = **hρg**
+
+তাই **P = hρg**। খেয়াল করো সূত্রে কী *নেই*: ক্ষেত্রফল আর পাত্রের আকৃতি। শুধু গভীরতা, ঘনত্ব আর g-এর ওপর নির্ভর করে।
+
+**এর মানে:**
+- **বেশি গভীর → বেশি চাপ।** গভীরতার সাথে চাপ সমান হারে বাড়ে। পানিতে প্রতি **১০ m** গভীরতায় প্রায় পুরো বায়ুমণ্ডলের সমান চাপ যোগ হয় (১ atm ≈ ১০১ ৩২৫ Pa)।
+- **বেশি ঘন তরল → বেশি চাপ** একই গভীরতায়। ৫০ cm গভীরে পারদ পানির চেয়ে ১৩.৬ গুণ বেশি চাপ দেয়।
+- **একই গভীরতা → একই চাপ**, পাত্রের আকার বা চওড়া যেমনই হোক।
+- **সব দিকে।** তরলের যেকোনো বিন্দুতে চাপ ওপরে, নিচে, পাশে সমানভাবে ঠেলে। এজন্যই বোতলের পাশের ছিদ্র দিয়ে পানি ফিনকি দিয়ে বের হয়, আর **সবচেয়ে নিচের ছিদ্র দিয়ে সবচেয়ে দূরে** যায়, কারণ সেখানে চাপ সবচেয়ে বেশি।
+
+**বাঁধ নিচের দিকে মোটা।** পানি বাঁধের দেয়ালের সবচেয়ে গভীর অংশে সবচেয়ে জোরে ঠেলে, তাই প্রকৌশলীরা বাঁধের গোড়া ওপরের চেয়ে অনেক মোটা করে বানান।
+
+(পানির ওপরের বাতাসও তলে চাপ দেয়। hρg হলো শুধু তরলের জন্য বাড়তি চাপ; h গভীরতায় মোট চাপ হলো বাতাসের চাপ + hρg। বাতাসের অংশটা আমরা সাধারণত টের পাই না, কারণ শরীরের ভেতরের প্রবাহী সমান চাপে উল্টো ঠেলে।)
+## analogy
+হাতের ওপর দশটি বই রাখো। ওপরের বই হালকা চাপ দেয়, কিন্তু নিচের বইটির ওপর ওপরের নয়টির ওজন। পানিও তেমন: প্রতিটি স্তর তার ওপরের সব পানির ওজন বহন করে, তাই যত গভীরে যাবে, চাপ তত বেশি। এ কারণেই বাঁধের দেয়াল নিচের দিকে অনেক বেশি পুরু।
+## definition
+**তরলের চাপ**: স্থির তরলের ভেতরে কোনো বিন্দুতে তার ওপরের তরলের ওজনের জন্য চাপ P = hρg, যেখানে h হলো মুক্ত তল থেকে বিন্দুটির গভীরতা, ρ তরলের ঘনত্ব আর g অভিকর্ষজ ত্বরণ।
+
+স্থির তরলের কোনো বিন্দুতে চাপ সব দিকে সমান, আর একই গভীরতার সব বিন্দুতে চাপ সমান।
+## why
+পানির ওজন তো শুধু নিচের দিকে, তাহলে চাপ পাশে, এমনকি ওপরের দিকেও কাজ করে কেন? কারণ তরলের কণাগুলো একে অপরের পাশ দিয়ে সহজে সরতে পারে। কোনো বিন্দুতে এক দিকের চাপ অন্য দিকের চেয়ে বেশি হলে সেখানকার তরল ঠেলা খেয়ে প্রবাহিত হতে শুরু করত। স্থির তরলে কিছুই প্রবাহিত হয় না, তাই প্রতিটি বিন্দুতে চাপ সব দিকে সমান থাকতেই হবে।
+## terms
+গভীরতা (h) | তরলের মুক্ত তল থেকে কোনো বিন্দুর খাড়া দূরত্ব
+তরলের চাপ | ওপরের তরলের ওজনের জন্য চাপ: hρg
+বায়ুমণ্ডল (atm) | চাপের একক: ১ atm ≈ ১.০১৩ × ১০^{৫} Pa (৭৬ cm পারদ)
+মুক্ত তল | তরলের বাতাসের সংস্পর্শে থাকা ওপরের তল
+## formula
+$$ P = hρg
+P | তরলের জন্য চাপ | Pa
+h | তল থেকে গভীরতা | m
+ρ | তরলের ঘনত্ব | kg m^{-৩}
+g | অভিকর্ষজ ত্বরণ | ৯.৮ m s^{-২}
+! পানিতে প্রতি ১০ m গভীরতায় প্রায় ১ atm চাপ যোগ হয়।
+! h গভীরতায় মোট চাপ = বাতাসের চাপ + hρg।
+## visual
+একটি তরল বেছে নাও আর গভীরতার স্লাইডার সরাও। দেখো চাপ কীভাবে বাড়ে, আর যেকোনো বিন্দুতে চাপ সব দিকে সমানভাবে ঠেলে।
+## real
+যেসব ডুবুরি গভীরে যান, পানির বিশাল চাপের কারণে তাঁদের বিশেষ সরঞ্জাম পরতে হয় আর ধীরে ধীরে ওপরে উঠতে হয়। বাসার ছাদে পানির ট্যাংক রাখা হয় যেন নিচের কলে পানি যথেষ্ট চাপে আসে; ট্যাংক যত উঁচুতে, কলের পানি তত জোরে পড়ে। কাপ্তাই বাঁধের দেয়াল ওপরের চেয়ে গোড়ায় অনেক মোটা।
+## example
+প্রশ্ন: একটি তিমি সমুদ্রপৃষ্ঠ থেকে ২১০০ m গভীরে যেতে পারে। এটি কত চাপ সহ্য করে? (প্রতি ১০ m গভীরতায় ১ atm চাপ বাড়ে ধরো।)
+দেওয়া আছে: h = ২১০০ m; প্রতি ১০ m-এ ১ atm
+হিসাব: ২১০০ ÷ ১০ = ২১০ atm
+> এটা শুধু পানির জন্য চাপ। সমুদ্রের ওপরের বাতাস ধরলে মোট প্রায় ২১১ atm।
+উত্তর: পানির জন্য প্রায় ২১০ atm।
+## example
+প্রশ্ন: ৫০ cm গভীরতায় কেরোসিন (৮০০ kg/m³), পানি (১০০০ kg/m³) ও পারদে (১৩ ৬০০ kg/m³) চাপ কত? (g = ৯.৮ m/s²)
+দেওয়া আছে: h = ০.৫০ m
+সূত্র: P = hρg
+হিসাব: কেরোসিন: ০.৫০ × ৮০০ × ৯.৮ = ৩৯২০ Pa; পানি: ০.৫০ × ১০০০ × ৯.৮ = ৪৯০০ Pa; পারদ: ০.৫০ × ১৩ ৬০০ × ৯.৮ = ৬৬ ৬৪০ Pa
+উত্তর: ৩৯২০ Pa, ৪৯০০ Pa ও ৬৬ ৬৪০ Pa। একই গভীরতায় সবচেয়ে ঘন তরল সবচেয়ে বেশি চাপ দেয়।
+## example
+প্রশ্ন: ৭৬ cm পারদ স্তম্ভ ১ atm চাপ তৈরি করে। পানি ও কেরোসিনের কত গভীরতায় চাপ ১ atm হবে? (পারদ পানির চেয়ে ১৩.৬ গুণ ঘন; কেরোসিনের ঘনত্ব পানির ০.৮ গুণ)
+সূত্র: একই P-এর জন্য hρ একই, তাই h ∝ ১/ρ
+হিসাব: পানি: ৭৬ cm × ১৩.৬ ≈ ১০৩৪ cm = ১০.৩৪ m; কেরোসিন: ১০.৩৪ m ÷ ০.৮ ≈ ১২.৯ m
+> কম ঘন তরলের একই চাপ তৈরিতে লম্বা স্তম্ভ লাগে।
+উত্তর: প্রায় ১০.৩৪ m পানি আর প্রায় ১২.৯ m কেরোসিন।
+## mistakes
+x একই গভীরতার সরু পাইপের চেয়ে চওড়া ট্যাংকের তলায় চাপ বেশি।
+v P = hρg ক্ষেত্রফল বা আকৃতির ওপর নির্ভর করে না; একই গভীরতায় চাপ একই।
+x তরলের চাপ শুধু নিচের দিকে কাজ করে।
+v যেকোনো বিন্দুতে চাপ সব দিকে সমান, পাশে ও ওপরের দিকেও।
+x চাপ পাত্রে মোট কতটুকু তরল আছে তার ওপর নির্ভর করে।
+v শুধু গভীরতা, ঘনত্ব আর g-এর ওপর নির্ভর করে।
+## remember
+- P = hρg (গভীরতা × ঘনত্ব × g)।
+- গভীরতা ও ঘনত্ব বাড়লে চাপ বাড়ে।
+- একই গভীরতা → একই চাপ, সব দিকে, পাত্রের আকার যেমনই হোক।
+- পানি: প্রায় প্রতি ১০ m-এ +১ atm; ১ atm ≈ ১০.৩ m পানি ≈ ৭৬ cm পারদ।
+## think
+একটি বোতলের পাশে ভিন্ন ভিন্ন উচ্চতায় তিনটি ছিদ্র। কোন ছিদ্র দিয়ে পানি সবচেয়ে দূরে ছিটকে যাবে, আর কেন?
+## quiz
+? তরলের ভেতরের চাপ কোনটির ওপর নির্ভর করে না?
+- গভীরতা
+- তরলের ঘনত্ব
+- g
+* পাত্রের তলার ক্ষেত্রফল
+= P = hρg-এ কোনো ক্ষেত্রফল নেই।
+? ০.২ m গভীর পানিভর্তি পাত্রের তলায় চাপ (g = ৯.৮ m/s²):
+- ৯৮ Pa
+- ১৯৬ Pa
+- ৯৮০ Pa
+* ১৯৬০ Pa
+= P = ০.২ × ১০০০ × ৯.৮ = ১৯৬০ Pa।
+? একই গভীরতায় কোন তরল সবচেয়ে বেশি চাপ দেয়?
+- কেরোসিন
+- পানি
+* পারদ
+- সবাই সমান
+= পারদের ঘনত্ব সবচেয়ে বেশি, আর P ∝ ρ।
+? বাঁধ নিচের দিকে মোটা করা হয় কারণ:
+- তলায় মাছ বেশি থাকে
+* তলায় পানির চাপ সবচেয়ে বেশি
+- তলায় পানি হালকা
+- চাপ শুধু ওপরে কাজ করে
+= গভীরতার সাথে চাপ বাড়ে, তাই গোড়াকে সবচেয়ে বড় বল সহ্য করতে হয়।
+
+@@ 5.3.1
+@visual c5archi
+@related 5.3 5.3.2 5.2
+@media https://phet.colorado.edu/en/simulations/buoyancy | Buoyancy (PhET simulation) | প্লবতা (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+A liquid pushes up on any object immersed in it. This upward force is called **buoyancy** (upthrust). **Archimedes' principle**: the upthrust equals the weight of the liquid displaced by the object, so the object seems to lose that much weight.
+## simple
+Lift a friend in a swimming pool and they feel surprisingly light. Pull a full bucket up from a well: it is easy while it is under water, and suddenly heavy once it leaves the water. The water is pushing the bucket **up**. This upward push is called **buoyancy** (in Bangla, প্লবতা).
+
+**Where does the upward push come from?** From the fact that pressure increases with depth. Picture a cylinder of height h and end-area A held under water, with its top face at depth h₁ and its bottom face at depth h₂ (so h = h₂ − h₁).
+- Downward force on the top face: F₁ = P₁A = h₁ρgA
+- Upward force on the bottom face: F₂ = P₂A = h₂ρgA
+- The sideways forces on the curved surface cancel each other out.
+
+Since the bottom is deeper, h₂ > h₁, so F₂ > F₁. The net force is **upward**:
+
+F = F₂ − F₁ = A(h₂ − h₁)ρg = **Ahρg = Vρg**
+
+Here V = Ah is the volume of the cylinder, which is exactly the volume of liquid it pushes aside. So Vρg is the **weight of the displaced liquid**. We used a cylinder only to make the calculation easy; the result holds for an object of any shape.
+
+**Archimedes' principle:** when a body is immersed in a liquid, it experiences an upward force (buoyancy) equal to the weight of the liquid it displaces. So its weight appears to decrease by that amount.
+
+**Apparent weight = real weight − upthrust**
+
+**Try it yourself.** Hang a big potato from a rubber band and note how much the band stretches. Now lower the potato into a bowl of water: the band shortens a little, because the potato's apparent weight is less.
+
+**The golden crown.** The story goes that Archimedes had to find out whether a king's crown was pure gold without damaging it. Weighing it in air and in water gives its volume, and so its density. If the density is less than that of gold, the goldsmith cheated.
+## analogy
+Lift a friend in a pond: surprisingly easy! The water pushes up on them. The bottom of their body is deeper than the top, so the water pushes up from below harder than it pushes down from above. That extra upward push is **buoyancy**, and it equals the weight of the water their body has pushed aside.
+## definition
+**Buoyancy (upthrust)**: the net upward force exerted by a fluid on a body partly or wholly immersed in it.
+
+**Archimedes' principle**: when a body is partly or wholly immersed in a liquid (or gas), it experiences an upthrust equal to the weight of the fluid it displaces; its weight therefore appears to be reduced by that amount.
+## why
+Why doesn't the upthrust depend on how deep the object is? Because when you lower the object further, both F₁ and F₂ grow by the same amount. Their **difference**, Ahρg, stays the same. What matters is only the volume under the liquid and the liquid's density.
+## terms
+Buoyancy / upthrust | Upward force of a fluid on an immersed body
+Displaced liquid | The liquid pushed aside by the immersed part of a body
+Apparent weight | Weight of a body measured while it is immersed: real weight − upthrust
+Archimedes' principle | Upthrust = weight of displaced fluid
+## formula
+$$ Upthrust F = F₂ − F₁ = Ahρg = Vρg
+$$ Apparent weight = real weight − Vρg
+V | volume of the immersed part (= volume of displaced liquid) | m³
+ρ | density of the liquid | kg m^{-3}
+g | acceleration due to gravity | m s^{-2}
+! Upthrust does not depend on the depth or on the material of the object, only on the displaced volume and the liquid's density.
+## visual
+Lower the block into the liquid. Compare the downward push on the top face with the upward push on the bottom face; their difference, the upthrust, stays the same once the block is fully under.
+## real
+Fishermen on the Padma lift heavy nets easily while the nets are still in the water. Life jackets contain foam that displaces a large volume of water for very little weight, giving a big upthrust. A hydrogen or helium balloon rises because the upthrust of the air it displaces is more than its weight: Archimedes' principle works in gases too.
+## example
+Q: A stone of volume 0.002 m³ is fully immersed in water. Find the upthrust on it. If the stone weighs 50 N in air, what is its apparent weight in water? (g = 9.8 m/s²)
+Given: V = 0.002 m³, ρ = 1000 kg/m³, real weight = 50 N
+Formula: upthrust = Vρg; apparent weight = real weight − upthrust
+Calculation: upthrust = 0.002 × 1000 × 9.8 = 19.6 N; apparent weight = 50 − 19.6 = 30.4 N
+Answer: upthrust 19.6 N; apparent weight 30.4 N.
+## example
+Q: Archimedes' crown has a mass of 10 kg in air and an apparent mass of 9.4 kg in water. Find its density. Is it pure gold? (density of gold 19 300 kg/m³)
+Given: loss of mass = 10 − 9.4 = 0.6 kg = mass of displaced water
+Formula: V = mass of displaced water ÷ ρ(water); ρ(crown) = m ÷ V
+Calculation: V = 0.6 ÷ 1000 = 0.6 × 10^{-3} m³; ρ = 10 ÷ (0.6 × 10^{-3}) ≈ 16 667 kg/m³
+> Loss of weight = weight of displaced water, and that water has the same volume as the crown.
+Answer: about 16 667 kg/m³, less than 19 300 kg/m³, so the crown is not pure gold; it is mixed with a lighter metal.
+## mistakes
+x A heavier object gets a bigger upthrust.
+v Upthrust depends on the volume displaced and the liquid's density, not on the object's weight. An iron ball and a wooden ball of the same volume, both fully under water, get the same upthrust.
+x Upthrust increases the deeper an object goes.
+v Once fully immersed, the upthrust stays the same at any depth (for a liquid of constant density).
+x An object loses mass in water.
+v Its mass is unchanged; only its apparent weight is less because of the upward push.
+## remember
+- Upthrust comes from the pressure difference between the bottom and top faces.
+- Upthrust = weight of displaced liquid = Vρg.
+- Apparent weight = real weight − upthrust.
+- Weighing in air and in water gives volume, and so density (crown test).
+## think
+A bucket of water sits on a scale. You dip your finger into the water without touching the bucket. Does the scale reading change? Why?
+## quiz
+? The upthrust on a fully immersed body equals:
+- Its own weight
+* The weight of the liquid it displaces
+- Its mass
+- The pressure at its bottom
+= This is Archimedes' principle.
+? A body of volume 0.001 m³ is fully immersed in water. The upthrust is (g = 9.8 m/s²):
+- 0.98 N
+* 9.8 N
+- 98 N
+- 1000 N
+= Vρg = 0.001 × 1000 × 9.8 = 9.8 N.
+? Upthrust arises because:
+- Water is heavier than air
+* Pressure at the bottom face is greater than at the top face
+- The object becomes lighter
+- Water has no pressure sideways
+= Pressure increases with depth, so the upward push on the bottom is larger.
+? A body weighs 20 N in air and 15 N in water. The upthrust is:
+- 35 N
+- 20 N
+* 5 N
+- 15 N
+= Upthrust = 20 − 15 = 5 N.
+== bn
+## what
+তরল তার ভেতরে ডোবানো যেকোনো বস্তুকে ওপরের দিকে ঠেলে। এই ঊর্ধ্বমুখী বলকে বলে **প্লবতা**। **আর্কিমিডিসের নীতি**: প্লবতা বস্তু দ্বারা অপসারিত তরলের ওজনের সমান, তাই বস্তুর ওজন ততটুকু কমে গেছে মনে হয়।
+## simple
+সুইমিং পুলে বন্ধুকে কোলে তুললে অবাক হবে, কত হালকা লাগে! কুয়া থেকে পানিভর্তি বালতি তোলো: পানির নিচে থাকতে সহজ, আর পানি থেকে বের হতেই হঠাৎ ভারী। পানি বালতিকে **ওপরের দিকে** ঠেলছিল। এই ঊর্ধ্বমুখী ঠেলাকে বলে **প্লবতা**।
+
+**ঊর্ধ্বমুখী ঠেলা আসে কোথা থেকে?** গভীরতার সাথে চাপ বাড়ে, সেখান থেকেই। ধরো h উচ্চতা আর A প্রান্ত-ক্ষেত্রফলের একটি সিলিন্ডার পানিতে ডোবানো, এর ওপরের তল h₁ গভীরতায় আর নিচের তল h₂ গভীরতায় (তাহলে h = h₂ − h₁)।
+- ওপরের তলে নিচের দিকে বল: F₁ = P₁A = h₁ρgA
+- নিচের তলে ওপরের দিকে বল: F₂ = P₂A = h₂ρgA
+- বাঁকা পাশের তলে পাশের দিকের বলগুলো একে অপরকে কাটাকাটি করে।
+
+নিচের তল বেশি গভীরে, h₂ > h₁, তাই F₂ > F₁। লব্ধি বল **ওপরের দিকে**:
+
+F = F₂ − F₁ = A(h₂ − h₁)ρg = **Ahρg = Vρg**
+
+এখানে V = Ah হলো সিলিন্ডারের আয়তন, যা ঠিক যতটুকু তরল সে সরিয়ে দেয় তার আয়তন। তাই Vρg হলো **অপসারিত তরলের ওজন**। হিসাবের সুবিধার জন্য সিলিন্ডার নিয়েছি; যেকোনো আকৃতির বস্তুর জন্যই ফলটা সত্য।
+
+**আর্কিমিডিসের নীতি:** কোনো বস্তুকে তরলে ডোবালে বস্তুটি তার অপসারিত তরলের ওজনের সমান একটি ঊর্ধ্বমুখী বল (প্লবতা) অনুভব করে। তাই এর ওজন ততটুকু কমে গেছে বলে মনে হয়।
+
+**আপাত ওজন = প্রকৃত ওজন − প্লবতা**
+
+**নিজে করো।** একটা বড় আলু রাবার ব্যান্ডে ঝুলিয়ে দেখো ব্যান্ড কতটা লম্বা হয়। এবার আলুটা এক বাটি পানিতে নামাও: ব্যান্ড একটু ছোট হয়ে যায়, কারণ আলুর আপাত ওজন কমেছে।
+
+**সোনার মুকুট।** গল্পে আছে, আর্কিমিডিসকে মুকুট না ভেঙে বের করতে হয়েছিল রাজার মুকুট খাঁটি সোনার কি না। বাতাসে ও পানিতে ওজন নিলে এর আয়তন, আর তা থেকে ঘনত্ব পাওয়া যায়। ঘনত্ব সোনার চেয়ে কম হলে স্বর্ণকার ঠকিয়েছে।
+## analogy
+পুকুরে বন্ধুকে তুলে দেখো: আশ্চর্য রকম সহজ! পানি তাকে ওপরের দিকে ঠেলে। তার শরীরের নিচের অংশ ওপরের অংশের চেয়ে গভীরে, তাই পানি নিচ থেকে যত জোরে ওপরে ঠেলে, ওপর থেকে তত জোরে নিচে ঠেলে না। এই বাড়তি ঊর্ধ্বমুখী ঠেলাই **প্লবতা**, যা তার শরীর যতটুকু পানি সরিয়েছে তার ওজনের সমান।
+## definition
+**প্লবতা**: কোনো প্রবাহী তার ভেতরে আংশিক বা সম্পূর্ণ ডোবানো বস্তুর ওপর যে লব্ধি ঊর্ধ্বমুখী বল প্রয়োগ করে।
+
+**আর্কিমিডিসের নীতি**: কোনো বস্তুকে তরলে (বা গ্যাসে) আংশিক বা সম্পূর্ণ ডোবালে বস্তুটি তার অপসারিত প্রবাহীর ওজনের সমান প্লবতা অনুভব করে; ফলে এর ওজন ততটুকু কমে গেছে বলে মনে হয়।
+## why
+বস্তু কত গভীরে আছে তার ওপর প্লবতা নির্ভর করে না কেন? কারণ বস্তুকে আরও নিচে নামালে F₁ আর F₂ দুটোই একই পরিমাণ বাড়ে। তাদের **পার্থক্য** Ahρg একই থাকে। গুরুত্বপূর্ণ শুধু তরলের নিচে থাকা আয়তন আর তরলের ঘনত্ব।
+## terms
+প্লবতা | ডোবানো বস্তুর ওপর প্রবাহীর ঊর্ধ্বমুখী বল
+অপসারিত তরল | বস্তুর ডুবন্ত অংশ যতটুকু তরল সরিয়ে দেয়
+আপাত ওজন | ডুবন্ত অবস্থায় মাপা ওজন: প্রকৃত ওজন − প্লবতা
+আর্কিমিডিসের নীতি | প্লবতা = অপসারিত প্রবাহীর ওজন
+## formula
+$$ প্লবতা F = F₂ − F₁ = Ahρg = Vρg
+$$ আপাত ওজন = প্রকৃত ওজন − Vρg
+V | ডুবন্ত অংশের আয়তন (= অপসারিত তরলের আয়তন) | m³
+ρ | তরলের ঘনত্ব | kg m^{-৩}
+g | অভিকর্ষজ ত্বরণ | m s^{-২}
+! প্লবতা গভীরতা বা বস্তুর উপাদানের ওপর নির্ভর করে না, শুধু অপসারিত আয়তন ও তরলের ঘনত্বের ওপর নির্ভর করে।
+## visual
+ব্লকটিকে তরলে নামাও। ওপরের তলে নিচের দিকের ঠেলা আর নিচের তলে ওপরের দিকের ঠেলা তুলনা করো; পুরো ডুবে গেলে তাদের পার্থক্য, অর্থাৎ প্লবতা, একই থাকে।
+## real
+পদ্মার জেলেরা ভারী জাল পানির ভেতরে থাকতে সহজেই টেনে তোলেন। লাইফ জ্যাকেটে এমন ফোম থাকে যা খুব কম ওজনে অনেক পানি সরায়, তাই বড় প্লবতা পায়। হাইড্রোজেন বা হিলিয়াম বেলুন ওপরে ওঠে কারণ এর সরানো বাতাসের প্লবতা এর ওজনের চেয়ে বেশি: আর্কিমিডিসের নীতি গ্যাসেও খাটে।
+## example
+প্রশ্ন: ০.০০২ m³ আয়তনের একটি পাথর পুরোপুরি পানিতে ডোবানো। এর ওপর প্লবতা কত? বাতাসে পাথরের ওজন ৫০ N হলে পানিতে আপাত ওজন কত? (g = ৯.৮ m/s²)
+দেওয়া আছে: V = ০.০০২ m³, ρ = ১০০০ kg/m³, প্রকৃত ওজন = ৫০ N
+সূত্র: প্লবতা = Vρg; আপাত ওজন = প্রকৃত ওজন − প্লবতা
+হিসাব: প্লবতা = ০.০০২ × ১০০০ × ৯.৮ = ১৯.৬ N; আপাত ওজন = ৫০ − ১৯.৬ = ৩০.৪ N
+উত্তর: প্লবতা ১৯.৬ N; আপাত ওজন ৩০.৪ N।
+## example
+প্রশ্ন: আর্কিমিডিসের মুকুটের ভর বাতাসে ১০ kg আর পানিতে আপাত ভর ৯.৪ kg। এর ঘনত্ব কত? এটা কি খাঁটি সোনা? (সোনার ঘনত্ব ১৯ ৩০০ kg/m³)
+দেওয়া আছে: ভর হ্রাস = ১০ − ৯.৪ = ০.৬ kg = অপসারিত পানির ভর
+সূত্র: V = অপসারিত পানির ভর ÷ ρ(পানি); ρ(মুকুট) = m ÷ V
+হিসাব: V = ০.৬ ÷ ১০০০ = ০.৬ × ১০^{-৩} m³; ρ = ১০ ÷ (০.৬ × ১০^{-৩}) ≈ ১৬ ৬৬৭ kg/m³
+> ওজন হ্রাস = অপসারিত পানির ওজন, আর সেই পানির আয়তন মুকুটের আয়তনের সমান।
+উত্তর: প্রায় ১৬ ৬৬৭ kg/m³, যা ১৯ ৩০০ kg/m³-এর কম, তাই মুকুটটি খাঁটি সোনার নয়; এতে হালকা কোনো ধাতু মেশানো।
+## mistakes
+x ভারী বস্তু বেশি প্লবতা পায়।
+v প্লবতা নির্ভর করে অপসারিত আয়তন আর তরলের ঘনত্বের ওপর, বস্তুর ওজনের ওপর নয়। সমান আয়তনের লোহার বল আর কাঠের বল পুরো ডুবে থাকলে সমান প্লবতা পায়।
+x বস্তু যত গভীরে যায়, প্লবতা তত বাড়ে।
+v পুরো ডুবে যাওয়ার পর যেকোনো গভীরতায় প্লবতা একই থাকে (সুষম ঘনত্বের তরলে)।
+x পানিতে বস্তুর ভর কমে যায়।
+v ভর একই থাকে; ঊর্ধ্বমুখী ঠেলার জন্য শুধু আপাত ওজন কমে।
+## remember
+- প্লবতা আসে নিচের ও ওপরের তলের চাপের পার্থক্য থেকে।
+- প্লবতা = অপসারিত তরলের ওজন = Vρg।
+- আপাত ওজন = প্রকৃত ওজন − প্লবতা।
+- বাতাসে ও পানিতে ওজন নিলে আয়তন, তা থেকে ঘনত্ব পাওয়া যায় (মুকুট পরীক্ষা)।
+## think
+পানিভর্তি একটি বালতি দাঁড়িপাল্লায় রাখা। বালতি না ছুঁয়ে তুমি পানিতে আঙুল ডোবালে। পাল্লার পাঠ কি বদলাবে? কেন?
+## quiz
+? পুরো ডোবানো বস্তুর ওপর প্লবতা সমান:
+- বস্তুর নিজের ওজনের
+* বস্তু দ্বারা অপসারিত তরলের ওজনের
+- বস্তুর ভরের
+- বস্তুর তলার চাপের
+= এটিই আর্কিমিডিসের নীতি।
+? ০.০০১ m³ আয়তনের একটি বস্তু পুরোপুরি পানিতে ডোবানো। প্লবতা (g = ৯.৮ m/s²):
+- ০.৯৮ N
+* ৯.৮ N
+- ৯৮ N
+- ১০০০ N
+= Vρg = ০.০০১ × ১০০০ × ৯.৮ = ৯.৮ N।
+? প্লবতা তৈরি হয় কারণ:
+- পানি বাতাসের চেয়ে ভারী
+* নিচের তলের চাপ ওপরের তলের চাপের চেয়ে বেশি
+- বস্তু হালকা হয়ে যায়
+- পানির পাশের দিকে চাপ নেই
+= গভীরতার সাথে চাপ বাড়ে, তাই নিচের তলে ঊর্ধ্বমুখী ঠেলা বেশি।
+? একটি বস্তুর ওজন বাতাসে ২০ N আর পানিতে ১৫ N। প্লবতা:
+- ৩৫ N
+- ২০ N
+* ৫ N
+- ১৫ N
+= প্লবতা = ২০ − ১৫ = ৫ N।
+
+@@ 5.3.2
+@visual c5float
+@related 5.3.1 5.2 5.3
+== en
+## what
+A body **floats** if it can displace a weight of liquid equal to its own weight before it is completely under; otherwise it **sinks**. A floating body sinks just far enough that the weight of liquid displaced equals its own weight.
+## simple
+Two forces act on any object placed in water: its **weight** pulling down, and the **upthrust** pushing up. Compare them when the object is fully under water:
+- **Upthrust > weight** → the object is pushed up and **floats**, with part of it sticking out.
+- **Upthrust < weight** → the object **sinks** (though it feels lighter under water than in air).
+- **Upthrust = weight** → the object stays wherever you put it in the water, neither rising nor sinking. We rarely see this in daily life, but submarines use it: they take in or push out water to match their weight to the upthrust.
+
+**How much of a floating object is under water?** It sinks only until the displaced water weighs as much as the object. If the object has volume V and density ρ, and V₁ is the part under the liquid of density ρ_{w}:
+
+Vρg = V₁ρ_{w}g → **V₁/V = ρ/ρ_{w}**
+
+So the fraction under water equals **object's density ÷ liquid's density**. This gives a simple rule:
+- **Less dense than the liquid → floats.** Wood (0.5 g/cc) floats half-submerged in water.
+- **Denser than the liquid → sinks.** An iron nail (7.8 g/cc) sinks.
+
+**Then how does a steel ship float?** Steel is denser than water, but a ship is a hollow shell full of air. Its **average** density (steel + air inside) is less than water's, and its wide hull can displace a huge weight of water. Squash the same steel into a solid block and it sinks.
+
+**Ice floats** because it is slightly less dense than water (about 0.92 g/cc), so about nine-tenths of an iceberg is hidden under water.
+
+**River to sea.** Sea water is salty and denser (about 1.03 g/cc) than river water. A boat or log rises a little higher when it floats from a river out into the sea, because less volume is needed to displace its own weight. Iron even floats on mercury (13.6 g/cc)!
+## analogy
+A lump of clay sinks. Shape the same clay into a little boat, and it floats! Nothing about its weight changed, but the boat shape pushes aside much more water, so the upward push grows until it matches the weight. Huge steel ships float for exactly this reason.
+## definition
+**Condition for floating**: a body floats in a liquid if the weight of the liquid it would displace when fully immersed is greater than its own weight (i.e. its average density is less than the liquid's). It floats with a part immersed such that the weight of liquid displaced equals its own weight.
+
+**Condition for sinking**: a body sinks if its weight is greater than the weight of liquid it displaces when fully immersed (its average density is greater than the liquid's).
+## why
+Why does the average density decide it? Weight = Vρ_{object}g and maximum upthrust = Vρ_{liquid}g, for the same volume V. Comparing the two is the same as comparing the densities. That is why hollow objects, which contain air, can float even if their material is dense.
+## terms
+Float | Stay at the surface with part of the body above the liquid
+Sink | Go down to the bottom
+Fraction immersed | V₁/V = ρ(object)/ρ(liquid)
+Average density | Total mass ÷ total volume, including air spaces
+## formula
+$$ Floating: weight of body = weight of liquid displaced
+$$ Vρg = V₁ρ_{w}g
+$$ V₁/V = ρ/ρ_{w}
+V | total volume of the body | m³
+V₁ | volume of the part under the liquid | m³
+ρ | density of the body | kg m^{-3}
+ρ_{w} | density of the liquid | kg m^{-3}
+! ρ < ρ_{w} → floats; ρ > ρ_{w} → sinks; ρ = ρ_{w} → stays wherever placed.
+## visual
+Change the density of the block and pick the liquid. See whether it floats or sinks, and what fraction stays under the surface.
+## real
+Boats on the Buriganga float lower when heavily loaded, because they must displace more water to balance the extra weight; overloading is dangerous because the boat can take water over its sides. Cargo ships have a line painted on the hull (the load line) showing how deep they may safely sit.
+## example
+Q: What percentage of a piece of wood floats under water? (density of wood 0.5 × 10^{3} kg/m³, density of water 10^{3} kg/m³)
+Given: ρ = 0.5 × 10^{3} kg/m³, ρ_{w} = 10^{3} kg/m³
+Formula: V₁/V = ρ/ρ_{w}
+Calculation: V₁/V = 0.5 × 10^{3} ÷ 10^{3} = 0.5 = 50%
+Answer: 50% of the wood is under water.
+## example
+Q: A 10 kg piece of wood floats half-submerged in river water. It drifts out to sea. What percentage of it is submerged in sea water? (density of river water 10^{3} kg/m³, sea water 1.03 × 10^{3} kg/m³)
+Given: in river, V₁/V = 1/2
+Calculation: ρ(wood) = ½ × 10^{3} = 0.5 × 10^{3} kg/m³; in sea: V₁/V = 0.5 × 10^{3} ÷ 1.03 × 10^{3} ≈ 0.485
+> The mass of the wood (10 kg) is not needed: only the density ratio matters.
+Answer: about 48.5% (it floats slightly higher in the sea).
+## mistakes
+x Heavy things sink and light things float.
+v Density decides it, not weight. A huge wooden log floats; a tiny iron pin sinks.
+x A steel ship floats because steel is lighter than water.
+v Steel is denser than water; the hollow ship full of air has a lower average density and displaces a large weight of water.
+x A floating object has no weight.
+v It still has weight; the upthrust exactly balances it.
+## remember
+- Fully immersed: upthrust > weight → floats; < weight → sinks; = → stays put.
+- Floating: weight = weight of displaced liquid.
+- Fraction immersed = ρ(body)/ρ(liquid).
+- Denser liquid (sea water, mercury) → body floats higher.
+## think
+A piece of ice floats in a glass filled to the brim with water. When the ice melts, will the water overflow, go down, or stay at the same level?
+## quiz
+? A block of density 800 kg/m³ floats in water (1000 kg/m³). The fraction under water is:
+- 20%
+- 50%
+* 80%
+- 100%
+= V₁/V = 800 ÷ 1000 = 0.8.
+? An object fully immersed in water sinks when:
+- Its weight is less than the upthrust
+* Its weight is greater than the upthrust
+- Its weight equals the upthrust
+- It is made of wood
+= More weight than upthrust → net force downward.
+? A boat moves from a river into the sea. It will:
+- Sink deeper
+* Rise slightly higher
+- Stay at exactly the same level
+- Sink completely
+= Sea water is denser, so less volume must be displaced.
+== bn
+## what
+পুরো ডোবার আগেই নিজের ওজনের সমান ওজনের তরল সরাতে পারলে বস্তু **ভাসে**; না পারলে **ডুবে যায়**। ভাসমান বস্তু ঠিক ততটুকুই ডোবে যতটুকু ডুবলে অপসারিত তরলের ওজন তার নিজের ওজনের সমান হয়।
+## simple
+পানিতে রাখা যেকোনো বস্তুর ওপর দুটি বল কাজ করে: নিচের দিকে টানছে এর **ওজন**, আর ওপরের দিকে ঠেলছে **প্লবতা**। বস্তুটি পুরো পানির নিচে থাকলে দুটো তুলনা করো:
+- **প্লবতা > ওজন** → বস্তু ওপরে ঠেলা খায় আর **ভাসে**, এর কিছু অংশ পানির ওপরে থাকে।
+- **প্লবতা < ওজন** → বস্তু **ডুবে যায়** (যদিও পানির নিচে বাতাসের চেয়ে হালকা লাগে)।
+- **প্লবতা = ওজন** → বস্তু পানির ভেতরে যেখানে রাখবে সেখানেই থাকে, ওঠেও না, ডোবেও না। দৈনন্দিন জীবনে এমন খুব কম দেখি, তবে ডুবোজাহাজ (সাবমেরিন) এটা কাজে লাগায়: পানি ঢুকিয়ে বা বের করে এর ওজনকে প্লবতার সমান করে।
+
+**ভাসমান বস্তুর কতটুকু পানির নিচে থাকে?** অপসারিত পানির ওজন বস্তুর ওজনের সমান না হওয়া পর্যন্তই এটি ডোবে। বস্তুর আয়তন V আর ঘনত্ব ρ হলে, এবং ρ_{w} ঘনত্বের তরলের নিচে থাকা অংশ V₁ হলে:
+
+Vρg = V₁ρ_{w}g → **V₁/V = ρ/ρ_{w}**
+
+তাই পানির নিচের অংশ = **বস্তুর ঘনত্ব ÷ তরলের ঘনত্ব**। এ থেকে সহজ নিয়ম:
+- **তরলের চেয়ে কম ঘন → ভাসে।** কাঠ (০.৫ g/cc) পানিতে অর্ধেক ডুবে ভাসে।
+- **তরলের চেয়ে বেশি ঘন → ডোবে।** লোহার পেরেক (৭.৮ g/cc) ডুবে যায়।
+
+**তাহলে ইস্পাতের জাহাজ ভাসে কীভাবে?** ইস্পাত পানির চেয়ে ঘন, কিন্তু জাহাজ বাতাসে ভরা একটা ফাঁপা খোল। এর **গড়** ঘনত্ব (ইস্পাত + ভেতরের বাতাস) পানির চেয়ে কম, আর চওড়া খোল বিপুল ওজনের পানি সরাতে পারে। একই ইস্পাতকে চেপে নিরেট পিণ্ড বানালে ডুবে যাবে।
+
+**বরফ ভাসে** কারণ এটি পানির চেয়ে সামান্য কম ঘন (প্রায় ০.৯২ g/cc), তাই হিমশৈলের প্রায় দশ ভাগের নয় ভাগই পানির নিচে লুকানো থাকে।
+
+**নদী থেকে সমুদ্রে।** সমুদ্রের পানি লবণাক্ত আর নদীর পানির চেয়ে বেশি ঘন (প্রায় ১.০৩ g/cc)। নৌকা বা কাঠের গুঁড়ি নদী থেকে সমুদ্রে গেলে একটু ওপরে উঠে ভাসে, কারণ নিজের ওজনের সমান পানি সরাতে কম আয়তন লাগে। লোহাও পারদে (১৩.৬ g/cc) ভাসে!
+## analogy
+এক দলা কাদামাটি ডুবে যায়। একই মাটি দিয়ে ছোট্ট নৌকা বানাও, ভেসে থাকে! ওজন একটুও বদলায়নি, কিন্তু নৌকার আকার অনেক বেশি পানি সরায়, তাই ঊর্ধ্বমুখী ঠেলা বাড়তে বাড়তে ওজনের সমান হয়। বিশাল ইস্পাতের জাহাজ ঠিক এ কারণেই ভাসে।
+## definition
+**ভাসার শর্ত**: পুরো ডোবালে বস্তু যে তরল সরাত তার ওজন বস্তুর নিজের ওজনের চেয়ে বেশি হলে (অর্থাৎ এর গড় ঘনত্ব তরলের চেয়ে কম হলে) বস্তুটি ভাসে। এটি এমনভাবে আংশিক ডুবে ভাসে যে অপসারিত তরলের ওজন এর নিজের ওজনের সমান হয়।
+
+**ডোবার শর্ত**: পুরো ডোবালে অপসারিত তরলের ওজনের চেয়ে বস্তুর ওজন বেশি হলে (এর গড় ঘনত্ব তরলের চেয়ে বেশি হলে) বস্তুটি ডুবে যায়।
+## why
+গড় ঘনত্বই কেন ঠিক করে দেয়? একই আয়তন V-এর জন্য ওজন = Vρ_{বস্তু}g আর সর্বোচ্চ প্লবতা = Vρ_{তরল}g। এ দুটো তুলনা করা মানে ঘনত্ব তুলনা করা। এজন্যই বাতাস ভরা ফাঁপা বস্তু ভাসতে পারে, এর উপাদান ঘন হলেও।
+## terms
+ভাসা | বস্তুর কিছু অংশ তরলের ওপরে রেখে তলে থাকা
+ডোবা | নিচে তলায় চলে যাওয়া
+ডুবন্ত অংশ | V₁/V = ρ(বস্তু)/ρ(তরল)
+গড় ঘনত্ব | বাতাসের ফাঁকসহ মোট ভর ÷ মোট আয়তন
+## formula
+$$ ভাসলে: বস্তুর ওজন = অপসারিত তরলের ওজন
+$$ Vρg = V₁ρ_{w}g
+$$ V₁/V = ρ/ρ_{w}
+V | বস্তুর মোট আয়তন | m³
+V₁ | তরলের নিচে থাকা অংশের আয়তন | m³
+ρ | বস্তুর ঘনত্ব | kg m^{-৩}
+ρ_{w} | তরলের ঘনত্ব | kg m^{-৩}
+! ρ < ρ_{w} → ভাসে; ρ > ρ_{w} → ডোবে; ρ = ρ_{w} → যেখানে রাখা সেখানেই থাকে।
+## visual
+ব্লকের ঘনত্ব বদলাও আর তরল বেছে নাও। দেখো এটি ভাসে না ডোবে, আর কত অংশ তলের নিচে থাকে।
+## real
+বুড়িগঙ্গার নৌকা বেশি মাল বোঝাই করলে পানিতে বেশি ডুবে থাকে, কারণ বাড়তি ওজনের ভারসাম্য রাখতে বেশি পানি সরাতে হয়; অতিরিক্ত বোঝাই বিপজ্জনক, কারণ কিনারা দিয়ে পানি ঢুকে পড়তে পারে। মালবাহী জাহাজের গায়ে একটি দাগ (লোড লাইন) আঁকা থাকে, যা দেখায় জাহাজ নিরাপদে কত গভীর পর্যন্ত ডুবতে পারে।
+## example
+প্রশ্ন: এক টুকরা কাঠ পানিতে ভাসছে। এর কত শতাংশ পানির নিচে থাকবে? (কাঠের ঘনত্ব ০.৫ × ১০^{৩} kg/m³, পানির ঘনত্ব ১০^{৩} kg/m³)
+দেওয়া আছে: ρ = ০.৫ × ১০^{৩} kg/m³, ρ_{w} = ১০^{৩} kg/m³
+সূত্র: V₁/V = ρ/ρ_{w}
+হিসাব: V₁/V = ০.৫ × ১০^{৩} ÷ ১০^{৩} = ০.৫ = ৫০%
+উত্তর: কাঠের ৫০% পানির নিচে থাকবে।
+## example
+প্রশ্ন: ১০ kg ভরের একটি কাঠ নদীর পানিতে অর্ধেক ডুবে ভাসছিল। ভাসতে ভাসতে এটি সমুদ্রে গেল। সমুদ্রের পানিতে এর কত শতাংশ ডুবে থাকবে? (নদীর পানির ঘনত্ব ১০^{৩} kg/m³, সমুদ্রের পানি ১.০৩ × ১০^{৩} kg/m³)
+দেওয়া আছে: নদীতে V₁/V = ১/২
+হিসাব: ρ(কাঠ) = ½ × ১০^{৩} = ০.৫ × ১০^{৩} kg/m³; সমুদ্রে: V₁/V = ০.৫ × ১০^{৩} ÷ ১.০৩ × ১০^{৩} ≈ ০.৪৮৫
+> কাঠের ভর (১০ kg) লাগে না: শুধু ঘনত্বের অনুপাতই গুরুত্বপূর্ণ।
+উত্তর: প্রায় ৪৮.৫% (সমুদ্রে একটু ওপরে উঠে ভাসে)।
+## mistakes
+x ভারী জিনিস ডোবে আর হালকা জিনিস ভাসে।
+v ওজন নয়, ঘনত্ব ঠিক করে। বিশাল কাঠের গুঁড়ি ভাসে; ছোট্ট লোহার আলপিন ডোবে।
+x ইস্পাত পানির চেয়ে হালকা বলে ইস্পাতের জাহাজ ভাসে।
+v ইস্পাত পানির চেয়ে ঘন; বাতাসে ভরা ফাঁপা জাহাজের গড় ঘনত্ব কম আর এটি বিপুল ওজনের পানি সরায়।
+x ভাসমান বস্তুর কোনো ওজন নেই।
+v ওজন আছে; প্লবতা ঠিক তার সমান হয়ে ভারসাম্য রাখে।
+## remember
+- পুরো ডোবালে: প্লবতা > ওজন → ভাসে; < ওজন → ডোবে; = → যেখানে রাখা সেখানেই থাকে।
+- ভাসলে: ওজন = অপসারিত তরলের ওজন।
+- ডুবন্ত অংশ = ρ(বস্তু)/ρ(তরল)।
+- বেশি ঘন তরলে (সমুদ্রের পানি, পারদ) বস্তু বেশি ওপরে ভাসে।
+## think
+কানায় কানায় পানিভর্তি গ্লাসে এক টুকরা বরফ ভাসছে। বরফ গলে গেলে পানি কি উপচে পড়বে, নামবে, নাকি একই উচ্চতায় থাকবে?
+## quiz
+? ৮০০ kg/m³ ঘনত্বের একটি ব্লক পানিতে (১০০০ kg/m³) ভাসছে। পানির নিচে থাকা অংশ:
+- ২০%
+- ৫০%
+* ৮০%
+- ১০০%
+= V₁/V = ৮০০ ÷ ১০০০ = ০.৮।
+? পুরো পানিতে ডোবানো বস্তু ডুবে যায় যখন:
+- এর ওজন প্লবতার চেয়ে কম
+* এর ওজন প্লবতার চেয়ে বেশি
+- এর ওজন প্লবতার সমান
+- এটি কাঠের তৈরি
+= প্লবতার চেয়ে ওজন বেশি → লব্ধি বল নিচের দিকে।
+? একটি নৌকা নদী থেকে সমুদ্রে গেল। এটি:
+- আরও বেশি ডুববে
+* একটু ওপরে উঠে ভাসবে
+- হুবহু একই উচ্চতায় থাকবে
+- পুরো ডুবে যাবে
+= সমুদ্রের পানি বেশি ঘন, তাই কম আয়তন সরালেই চলে।
+
+@@ 5.3.3
+@visual c5hyd
+@related 5.3 5.1 4.1
+== en
+## what
+**Pascal's law**: pressure applied from outside to a liquid (or gas) enclosed in a container is transmitted equally to every part of the fluid and acts perpendicularly on the container walls. Hydraulic machines use it to turn a small force into a large one.
+## simple
+Squeeze a closed toothpaste tube in the middle: paste comes out at the far end. Press a sealed plastic bag of water anywhere, and the whole bag bulges. The push you give at one point is passed on to **every part** of the liquid.
+
+**Why must it be so?** If the pressure were higher in one part of a liquid than in a neighbouring part, the liquid would be pushed from the high-pressure part to the low-pressure part and would flow until the pressures became equal. So in an enclosed liquid at rest, any extra pressure you add spreads to all parts equally. Pascal stated this as a law.
+
+**The hydraulic machine.** Two cylinders of different sizes are joined by a pipe and filled with liquid. Each has a piston.
+- Push the small piston (area A₁) with force F₁. The extra pressure is P = F₁/A₁.
+- This pressure is transmitted through the liquid to the large piston (area A₂).
+- The force on the large piston is F₂ = PA₂ = **F₁ × (A₂/A₁)**.
+
+If A₂ is 100 times A₁, the output force is **100 times** the input force! A child's push can lift a car.
+
+**But no free energy.** Force is multiplied, energy is not. When the small piston moves down a distance l₁, it pushes a volume A₁l₁ of liquid into the big cylinder, which lifts the big piston only l₂ = l₁(A₁/A₂). Work in = F₁l₁; work out = F₂l₂ = F₁(A₂/A₁) × l₁(A₁/A₂) = F₁l₁. The big force moves a small distance, and the work done is the same (ignoring friction).
+
+**Applications:**
+- **Hydraulic press**: squeezes cotton or jute into tight bales, presses oil out of seeds, shapes metal sheets.
+- **Hydraulic jack/lift**: car workshops lift whole vehicles.
+- **Hydraulic brakes**: pressing the brake pedal pushes a small piston; the pressure travels through brake oil to larger pistons at all four wheels, which press the brake pads with a large force, and equally at every wheel.
+- **Heavy machinery and aircraft**: excavators, cranes and aircraft control surfaces are moved by hydraulic systems.
+## analogy
+Squeeze a toothpaste tube anywhere, at the bottom, the middle or the side, and paste comes out of the nozzle. The push you give at one place is passed on to every part of the paste. A liquid in a closed container does the same with pressure, and a hydraulic machine uses a small piston to push and a big piston to lift.
+## definition
+**Pascal's law**: if pressure is applied from outside to a liquid or gas enclosed in a container, this pressure is transmitted undiminished to all parts of the fluid and acts perpendicularly on the surfaces of the container in contact with it.
+## why
+Why use a liquid rather than air in hydraulic machines? Because a liquid is practically incompressible. When you push the small piston, the liquid passes the push on at once instead of being squashed. Air would compress like a spring, wasting the movement, which is why air bubbles in brake oil make brakes feel "spongy" and dangerous.
+## terms
+Pascal's law | Pressure applied to an enclosed fluid is transmitted equally in all directions
+Piston | A tightly fitting disc that slides in a cylinder
+Hydraulic press | Machine that multiplies force using Pascal's law
+Hydraulic brake | Brake system that uses oil to transmit pedal pressure to all wheels
+Mechanical advantage | Output force ÷ input force = A₂/A₁
+## formula
+$$ P = F₁/A₁ = F₂/A₂
+$$ F₂ = F₁ (A₂/A₁)
+$$ l₂ = l₁ (A₁/A₂)
+$$ F₁l₁ = F₂l₂ (work in = work out)
+F₁, F₂ | forces on the small and large pistons | N
+A₁, A₂ | areas of the small and large pistons | m²
+l₁, l₂ | distances moved by the pistons | m
+! The force is multiplied by A₂/A₁, but the distance is divided by the same factor.
+## visual
+Set the piston areas and the input force, then press the small piston. Compare the forces and the distances moved, and check that the work in equals the work out.
+## real
+When a bus driver on the Dhaka–Chattogram highway presses the brake pedal gently, hydraulic brakes multiply that small force enough to stop a vehicle weighing many tonnes. Roadside car-repair shops use hydraulic jacks to raise cars, and jute mills use hydraulic presses to compress raw jute into bales for export.
+## example
+Q: In a hydraulic press, the small piston has area 0.01 m² and the large piston 1 m². A force of 50 N is applied to the small piston. What force acts on the large piston?
+Given: A₁ = 0.01 m², A₂ = 1 m², F₁ = 50 N
+Formula: F₂ = F₁ (A₂/A₁)
+Calculation: F₂ = 50 × (1 ÷ 0.01) = 50 × 100 = 5000 N
+Answer: 5000 N (100 times the input force).
+## example
+Q: In the same press, the small piston is pushed down 20 cm. How far does the large piston rise, and show that work in = work out.
+Given: l₁ = 0.20 m, A₁/A₂ = 1/100, F₁ = 50 N, F₂ = 5000 N
+Formula: l₂ = l₁ (A₁/A₂); W = Fl
+Calculation: l₂ = 0.20 ÷ 100 = 0.002 m = 2 mm; work in = 50 × 0.20 = 10 J; work out = 5000 × 0.002 = 10 J
+> The volume of liquid leaving the small cylinder (A₁l₁) equals the volume entering the large one (A₂l₂).
+Answer: The large piston rises only 2 mm; work in = work out = 10 J.
+## mistakes
+x A hydraulic press gives out more energy than you put in.
+v It multiplies force, not energy; the large piston moves a proportionally smaller distance.
+x Pressure in the large cylinder is larger than in the small one.
+v The pressure is the same everywhere in the liquid; the force is larger because the area is larger.
+x Pascal's law applies only to water.
+v It applies to any enclosed liquid or gas; oil is used in brakes and presses.
+## remember
+- Pascal's law: pressure on an enclosed fluid is transmitted equally to all parts.
+- F₂ = F₁(A₂/A₁); force multiplier = A₂/A₁.
+- l₂ = l₁(A₁/A₂); work in = work out (no energy gain).
+- Uses: hydraulic press, jack, brakes, heavy machinery.
+## think
+Why is it dangerous if a small air bubble gets into the brake oil of a car?
+## quiz
+? In a hydraulic machine, A₂/A₁ = 50 and F₁ = 20 N. Then F₂ is:
+- 0.4 N
+- 70 N
+* 1000 N
+- 2.5 N
+= F₂ = 20 × 50 = 1000 N.
+? In a hydraulic press, which quantity is the same on both pistons?
+- Force
+- Distance moved
+* Pressure
+- Area
+= The same pressure is transmitted through the liquid (Pascal's law).
+? A hydraulic press multiplies the force 100 times. The work done on the large piston is:
+- 100 times the input work
+* Equal to the input work (ignoring friction)
+- 1/100 of the input work
+- Zero
+= Force ×100 but distance ÷100, so the work is the same.
+== bn
+## what
+**প্যাসকেলের সূত্র**: পাত্রে আবদ্ধ তরল (বা গ্যাসের) ওপর বাইরে থেকে চাপ প্রয়োগ করলে সেই চাপ প্রবাহীর সব অংশে সমানভাবে সঞ্চালিত হয় এবং পাত্রের দেয়ালে লম্বভাবে কাজ করে। জলবাহী (হাইড্রলিক) যন্ত্র এটা কাজে লাগিয়ে ছোট বলকে বড় বলে পরিণত করে।
+## simple
+বন্ধ টুথপেস্টের টিউবের মাঝখানে চাপ দাও: পেস্ট বের হয় দূরের মাথা দিয়ে। পানিভর্তি আটকানো পলিথিনের যেকোনো জায়গায় চাপো, পুরো ব্যাগটাই ফুলে ওঠে। এক বিন্দুতে দেওয়া ঠেলা তরলের **সব অংশে** পৌঁছে যায়।
+
+**এমন হতেই হবে কেন?** তরলের এক অংশে চাপ পাশের অংশের চেয়ে বেশি হলে তরল বেশি চাপের অংশ থেকে কম চাপের অংশে ঠেলা খেত আর চাপ সমান না হওয়া পর্যন্ত প্রবাহিত হতো। তাই আবদ্ধ স্থির তরলে যে বাড়তি চাপ দাও তা সব অংশে সমানভাবে ছড়িয়ে পড়ে। প্যাসকেল একে সূত্র আকারে বলেছিলেন।
+
+**জলবাহী যন্ত্র।** ভিন্ন আকারের দুটি সিলিন্ডার একটি নল দিয়ে যুক্ত আর তরলে ভরা। প্রতিটিতে একটি পিস্টন।
+- ছোট পিস্টনে (ক্ষেত্রফল A₁) F₁ বল দাও। বাড়তি চাপ P = F₁/A₁।
+- এই চাপ তরলের ভেতর দিয়ে বড় পিস্টনে (ক্ষেত্রফল A₂) সঞ্চালিত হয়।
+- বড় পিস্টনে বল F₂ = PA₂ = **F₁ × (A₂/A₁)**।
+
+A₂ যদি A₁-এর ১০০ গুণ হয়, তাহলে বেরিয়ে আসা বল প্রয়োগ করা বলের **১০০ গুণ**! একটি শিশুর ঠেলাতেও গাড়ি তোলা যায়।
+
+**তবে বিনা পয়সায় শক্তি নয়।** বল গুণিত হয়, শক্তি নয়। ছোট পিস্টন l₁ দূরত্ব নামলে A₁l₁ আয়তনের তরল বড় সিলিন্ডারে ঢোকে, যা বড় পিস্টনকে মাত্র l₂ = l₁(A₁/A₂) তোলে। প্রদত্ত কাজ = F₁l₁; প্রাপ্ত কাজ = F₂l₂ = F₁(A₂/A₁) × l₁(A₁/A₂) = F₁l₁। বড় বল অল্প দূরত্ব সরে, আর কাজ একই থাকে (ঘর্ষণ বাদে)।
+
+**প্রয়োগ:**
+- **জলবাহী প্রেস**: তুলা বা পাট চেপে শক্ত গাঁট বানায়, বীজ থেকে তেল বের করে, ধাতুর পাত আকার দেয়।
+- **হাইড্রলিক জ্যাক/লিফট**: গাড়ির ওয়ার্কশপে পুরো গাড়ি তোলা হয়।
+- **হাইড্রলিক ব্রেক**: ব্রেক প্যাডেল চাপলে একটি ছোট পিস্টন ঠেলা খায়; চাপ ব্রেক-তেলের ভেতর দিয়ে চার চাকার বড় পিস্টনে পৌঁছে ব্রেক প্যাডকে বড় বলে চেপে ধরে, আর প্রতিটি চাকায় সমানভাবে।
+- **ভারী যন্ত্র ও উড়োজাহাজ**: এক্সকাভেটর, ক্রেন আর উড়োজাহাজের নিয়ন্ত্রণ অংশ হাইড্রলিক ব্যবস্থায় চলে।
+## analogy
+টুথপেস্টের টিউব যেকোনো জায়গায় চাপো, নিচে, মাঝে বা পাশে, পেস্ট মুখ দিয়ে বের হয়। এক জায়গায় দেওয়া চাপ পেস্টের সব অংশে ছড়িয়ে যায়। বদ্ধ পাত্রের তরলও চাপের ক্ষেত্রে একই কাজ করে, আর হাইড্রোলিক যন্ত্র ছোট পিস্টনে ঠেলে বড় পিস্টনে তোলে।
+## definition
+**প্যাসকেলের সূত্র**: পাত্রে আবদ্ধ তরল বা গ্যাসের ওপর বাইরে থেকে চাপ প্রয়োগ করলে সেই চাপ সমানভাবে প্রবাহীর সব অংশে সঞ্চালিত হয় এবং প্রবাহীর সংস্পর্শে থাকা পাত্রের তলে লম্বভাবে ক্রিয়া করে।
+## why
+জলবাহী যন্ত্রে বাতাস নয়, তরল ব্যবহার করা হয় কেন? কারণ তরলকে প্রায় সংকুচিত করা যায় না। ছোট পিস্টন ঠেললে তরল চেপে না গিয়ে সাথে সাথে ঠেলাটা পৌঁছে দেয়। বাতাস স্প্রিংয়ের মতো সংকুচিত হয়ে নড়াচড়া নষ্ট করত; এজন্যই ব্রেক-তেলে বাতাসের বুদবুদ ঢুকলে ব্রেক "নরম" লাগে আর বিপজ্জনক হয়।
+## terms
+প্যাসকেলের সূত্র | আবদ্ধ প্রবাহীতে প্রয়োগ করা চাপ সব দিকে সমানভাবে সঞ্চালিত হয়
+পিস্টন | সিলিন্ডারের ভেতর আঁটসাঁটভাবে চলা চাকতি
+জলবাহী প্রেস | প্যাসকেলের সূত্রে বল বহুগুণ করার যন্ত্র
+হাইড্রলিক ব্রেক | তেলের মাধ্যমে প্যাডেলের চাপ সব চাকায় পৌঁছানোর ব্রেক ব্যবস্থা
+যান্ত্রিক সুবিধা | প্রাপ্ত বল ÷ প্রয়োগ করা বল = A₂/A₁
+## formula
+$$ P = F₁/A₁ = F₂/A₂
+$$ F₂ = F₁ (A₂/A₁)
+$$ l₂ = l₁ (A₁/A₂)
+$$ F₁l₁ = F₂l₂ (প্রদত্ত কাজ = প্রাপ্ত কাজ)
+F₁, F₂ | ছোট ও বড় পিস্টনে বল | N
+A₁, A₂ | ছোট ও বড় পিস্টনের ক্ষেত্রফল | m²
+l₁, l₂ | পিস্টনের সরণ | m
+! বল A₂/A₁ গুণ হয়, কিন্তু দূরত্ব একই গুণিতকে ভাগ হয়।
+## visual
+পিস্টনের ক্ষেত্রফল আর প্রয়োগ করা বল ঠিক করো, তারপর ছোট পিস্টন চাপো। বল আর সরণ তুলনা করো, আর মিলিয়ে দেখো প্রদত্ত কাজ = প্রাপ্ত কাজ।
+## real
+ঢাকা–চট্টগ্রাম মহাসড়কে বাসচালক আলতো করে ব্রেক প্যাডেল চাপলে হাইড্রলিক ব্রেক সেই ছোট বলকে এত গুণ করে যে কয়েক টন ভারী গাড়ি থেমে যায়। রাস্তার পাশের গাড়ি মেরামতের দোকানে হাইড্রলিক জ্যাক দিয়ে গাড়ি তোলা হয়, আর পাটকলে জলবাহী প্রেস দিয়ে কাঁচা পাট চেপে রপ্তানির গাঁট বানানো হয়।
+## example
+প্রশ্ন: একটি জলবাহী প্রেসের ছোট পিস্টনের ক্ষেত্রফল ০.০১ m² আর বড় পিস্টনের ১ m²। ছোট পিস্টনে ৫০ N বল প্রয়োগ করা হলো। বড় পিস্টনে কত বল ক্রিয়া করবে?
+দেওয়া আছে: A₁ = ০.০১ m², A₂ = ১ m², F₁ = ৫০ N
+সূত্র: F₂ = F₁ (A₂/A₁)
+হিসাব: F₂ = ৫০ × (১ ÷ ০.০১) = ৫০ × ১০০ = ৫০০০ N
+উত্তর: ৫০০০ N (প্রয়োগ করা বলের ১০০ গুণ)।
+## example
+প্রশ্ন: একই প্রেসে ছোট পিস্টনকে ২০ cm নামানো হলো। বড় পিস্টন কতটা উঠবে? দেখাও যে প্রদত্ত কাজ = প্রাপ্ত কাজ।
+দেওয়া আছে: l₁ = ০.২০ m, A₁/A₂ = ১/১০০, F₁ = ৫০ N, F₂ = ৫০০০ N
+সূত্র: l₂ = l₁ (A₁/A₂); W = Fl
+হিসাব: l₂ = ০.২০ ÷ ১০০ = ০.০০২ m = ২ mm; প্রদত্ত কাজ = ৫০ × ০.২০ = ১০ J; প্রাপ্ত কাজ = ৫০০০ × ০.০০২ = ১০ J
+> ছোট সিলিন্ডার থেকে যে আয়তনের তরল বের হয় (A₁l₁), বড় সিলিন্ডারে ঠিক ততটুকুই ঢোকে (A₂l₂)।
+উত্তর: বড় পিস্টন মাত্র ২ mm ওঠে; প্রদত্ত কাজ = প্রাপ্ত কাজ = ১০ J।
+## mistakes
+x জলবাহী প্রেস যতটুকু শক্তি নেয় তার চেয়ে বেশি দেয়।
+v এটি বল বাড়ায়, শক্তি নয়; বড় পিস্টন আনুপাতিক হারে কম দূরত্ব সরে।
+x বড় সিলিন্ডারে চাপ ছোট সিলিন্ডারের চেয়ে বেশি।
+v তরলের সবখানে চাপ একই; ক্ষেত্রফল বড় বলে বল বড়।
+x প্যাসকেলের সূত্র শুধু পানির জন্য।
+v যেকোনো আবদ্ধ তরল বা গ্যাসে খাটে; ব্রেক আর প্রেসে তেল ব্যবহার হয়।
+## remember
+- প্যাসকেলের সূত্র: আবদ্ধ প্রবাহীতে চাপ সব অংশে সমানভাবে সঞ্চালিত হয়।
+- F₂ = F₁(A₂/A₁); বল বৃদ্ধির গুণক = A₂/A₁।
+- l₂ = l₁(A₁/A₂); প্রদত্ত কাজ = প্রাপ্ত কাজ (শক্তি বাড়ে না)।
+- ব্যবহার: জলবাহী প্রেস, জ্যাক, ব্রেক, ভারী যন্ত্রপাতি।
+## think
+গাড়ির ব্রেক-তেলে ছোট্ট একটি বাতাসের বুদবুদ ঢুকলে বিপদ কেন?
+## quiz
+? একটি জলবাহী যন্ত্রে A₂/A₁ = ৫০ আর F₁ = ২০ N। তাহলে F₂:
+- ০.৪ N
+- ৭০ N
+* ১০০০ N
+- ২.৫ N
+= F₂ = ২০ × ৫০ = ১০০০ N।
+? জলবাহী প্রেসে দুই পিস্টনে কোন রাশিটি সমান?
+- বল
+- সরণ
+* চাপ
+- ক্ষেত্রফল
+= তরলের ভেতর দিয়ে একই চাপ সঞ্চালিত হয় (প্যাসকেলের সূত্র)।
+? একটি জলবাহী প্রেস বলকে ১০০ গুণ করে। বড় পিস্টনে কৃত কাজ:
+- প্রদত্ত কাজের ১০০ গুণ
+* প্রদত্ত কাজের সমান (ঘর্ষণ বাদে)
+- প্রদত্ত কাজের ১/১০০
+- শূন্য
+= বল ×১০০ কিন্তু দূরত্ব ÷১০০, তাই কাজ একই।
+
+@@ 5.4
+@visual c5baro
+@related 5.3 5.1 5.2 6.3.2
+== en
+## what
+The air around the Earth has weight, and the weight of the air column above us produces **atmospheric pressure**, about 10^{5} Pa at sea level (76 cm of mercury). It acts equally in all directions, decreases with height, and is measured with a **barometer**.
+## simple
+We live at the bottom of an ocean of air many kilometres deep. Air is light, but there is a lot of it, and all of it has weight. Above every square metre of the ground stands a column of air weighing about **10^{5} N**. So the air pressure at the Earth's surface is about **10^{5} N/m²** (more precisely 1 atm = 101 325 Pa). A force of 10^{5} N is the weight of about 10 tonnes, roughly the weight of a loaded truck or a couple of big elephants, on every square metre!
+
+**Why aren't we crushed?** Because the fluids inside our body push outward with the same pressure, so the two balance. In space there is no air and no outside pressure, so astronauts must wear pressurised space suits; without one, the body's inside pressure would be unbalanced, which (together with having no air to breathe) would be deadly within seconds.
+
+**Proof that air pushes from all sides.** Take a thin tin or aluminium can and pump the air out of it. The can is crushed, and it is crushed **from all sides**, not just flattened from the top. Outside air pressure is no longer balanced by air inside, and because pressure acts in all directions, it squeezes the can from every side. You can try a safe version: pour a little hot water into an empty plastic bottle, shake it, pour it out, cap the bottle tightly and cool it under a tap. As the air inside cools, its pressure drops and the outside air crumples the bottle.
+
+**Pressure decreases with height.** The higher you go, the shorter the column of air above you, so the pressure falls. It halves at a height of roughly 5–5.5 km. But it doesn't fall to zero after another 5 km, because air, unlike water, is **compressible**: the air near the ground is squeezed the most and is densest, and higher up it is thinner and lighter. At the top of Everest (8849 m), the pressure is only about a third of that at sea level, so each breath brings in only about a third as much oxygen. Climbers like Nishat Mojumder, the first Bangladeshi woman on Everest, use oxygen cylinders near the top. Jet planes fly high where the thin air causes less drag, but not too high, because their engines need oxygen to burn fuel.
+
+**5.4.1 Torricelli's experiment and the barometer**
+
+How does a drink come up a straw? When you suck, you lower the air pressure inside your mouth. The air pressure on the drink's surface outside is now greater, and it **pushes** the drink up the straw.
+
+Imagine a straw 10.5 m long. However hard you suck, water would rise only about **10.3 m** and stop: that is the height of water whose pressure equals the atmosphere's. Mercury is 13.6 times denser than water, so it would rise only about 10.3 m ÷ 13.6 ≈ **76 cm**.
+
+In 1643, Torricelli filled a glass tube about a metre long, closed at one end, with mercury and turned it upside down into a dish of mercury. The mercury fell and stopped when the column was **76 cm** high, leaving an almost empty space (a near-vacuum) at the top. Air pressure on the mercury in the dish holds up the column, and nothing pushes down from the top of the tube. So **the atmospheric pressure equals the pressure of a 76 cm column of mercury**:
+
+P = hρg = 0.76 × 13 600 × 9.8 ≈ 1.01 × 10^{5} Pa
+
+This instrument is a **mercury barometer**. When air pressure rises the column gets taller than 76 cm; when it falls the column gets shorter.
+
+**5.4.2 Air pressure and the weather**
+
+- **Low pressure (a depression).** Weather news often reports a "depression" in the Bay of Bengal: the air pressure there has dropped. Air rushes in from surrounding high-pressure areas, and it can start to spin. Under special conditions this spinning becomes a **cyclone**.
+- **Why humid air lowers pressure.** Warm air expands, becoming less dense. Humid air is also lighter: a water molecule (H₂O, molecular mass 18) is lighter than the nitrogen (N₂, 28) and oxygen (O₂, 32) molecules it replaces. Less dense air means lower pressure.
+- **Reading a barometer:** high and steady pressure → dry air, fair weather. Falling pressure → water vapour increasing, clouds coming. A sudden large fall → air rushing in, storm and rain likely.
+## analogy
+We live at the **bottom of an ocean of air** many kilometres deep. Just as a diver feels the water above pressing on them, we are pressed by the weight of all the air above us, about 10 tonnes on every square metre! We don't feel it because the air inside our bodies pushes back equally.
+## definition
+**Atmospheric (air) pressure**: the pressure exerted by the atmosphere, due to the weight of the column of air above a unit area. At sea level it is about 1.013 × 10^{5} Pa (1 atm), equal to the pressure of a 76 cm column of mercury.
+
+**Barometer**: an instrument for measuring atmospheric pressure.
+## why
+Why does air pressure fall faster near the ground and more slowly higher up? Because air is compressible. Near the ground the air is squeezed by all the air above it, so each metre of height contains a lot of air, and climbing that metre removes a lot of weight. Higher up the air is thin, each metre contains little air, and climbing removes little weight. Water is almost incompressible, which is why water pressure increases evenly with depth.
+## terms
+Atmospheric pressure | Pressure of the air due to the weight of the air column above
+1 atm | ≈ 1.013 × 10^{5} Pa = 76 cm of mercury
+Barometer | Instrument that measures air pressure
+Torricellian vacuum | Nearly empty space above the mercury in a barometer tube
+Depression | Region of low air pressure; can grow into a cyclone
+## formula
+$$ P(atm) = hρg = 0.76 m × 13 600 kg m^{-3} × 9.8 m s^{-2} ≈ 1.01 × 10^{5} Pa
+$$ Height of liquid supported: h = P(atm)/(ρg)
+! Water column ≈ 10.3 m; mercury column ≈ 76 cm.
+! Air pressure roughly halves by about 5–5.5 km; at the top of Everest it is about ⅓ of sea level.
+## visual
+Move the height slider from sea level up past Everest. Watch the air pressure fall and the mercury column in Torricelli's tube get shorter. Switch to water to see why a water barometer would need to be over 10 m tall.
+## real
+The Bangladesh Meteorological Department tracks air pressure over the Bay of Bengal. When a deep depression forms and the pressure keeps falling, it issues cyclone signals so that people in coastal districts like Cox's Bazar, Bhola and Satkhira can move to cyclone shelters in time.
+## example
+Q: At the top of Everest (8849 m), the air pressure is about 35% of the sea-level value (from the book's graph). About how much oxygen does each breath bring in there, compared with sea level?
+Given: P ≈ 0.35 × sea-level pressure
+Calculation: the amount of air (and oxygen) in a lungful is roughly proportional to the pressure: about 0.35 ≈ 1/3
+Answer: roughly one-third as much oxygen as at sea level, which is why climbers carry oxygen.
+## example
+Q: The air pressure is 1.01 × 10^{5} Pa. How tall a column of water can it support? (ρ = 1000 kg/m³, g = 9.8 m/s²)
+Formula: P = hρg → h = P/(ρg)
+Calculation: h = 1.01 × 10^{5} ÷ (1000 × 9.8) ≈ 10.3 m
+Answer: about 10.3 m, so no one can suck water up a straw taller than about 10 m.
+## example
+Q: What force does the atmosphere exert on one face of a table-top of area 1.5 m²? Why doesn't the table break? (P = 10^{5} Pa)
+Formula: F = PA
+Calculation: F = 10^{5} × 1.5 = 1.5 × 10^{5} N
+> Air presses on the underside of the table-top with the same pressure, so the forces balance.
+Answer: 1.5 × 10^{5} N on the top face, balanced by an equal upward push from below.
+## mistakes
+x Air pressure pushes only downward, because weight acts downward.
+v Pressure has no direction of its own; at any point air pushes equally in all directions (the crushed can proves it).
+x When you suck a straw, your mouth pulls the drink up.
+v You only lower the pressure in your mouth; the outside air pressure pushes the drink up.
+x Air pressure falls to zero at about 10 km because it halves at 5 km.
+v Air is compressible and thins out gradually; pressure keeps falling but does not reach zero so quickly.
+## remember
+- Air pressure at sea level ≈ 10^{5} Pa = 1 atm = 76 cm Hg ≈ 10.3 m of water.
+- It acts equally in all directions; our body pushes back equally.
+- It decreases with height (about half at 5–5.5 km, about ⅓ at Everest).
+- Torricelli (1643): mercury column 76 cm; barometer measures air pressure.
+- Falling pressure → rain, storm; very low pressure (depression) → possible cyclone.
+## think
+Is the space above the mercury in Torricelli's tube a perfect vacuum? What might be there?
+## quiz
+? The instrument used to measure atmospheric pressure is:
+- Thermometer
+* Barometer
+- Manometer
+- Seismometer
+= A barometer measures air pressure.
+? In Torricelli's experiment at sea level, the mercury column stands at about:
+- 10.3 m
+* 76 cm
+- 13.6 cm
+- 1 m
+= The pressure of 76 cm of mercury equals normal air pressure.
+? A rapidly falling barometer reading usually means:
+* Stormy weather is coming
+- Fair, dry weather
+- An earthquake
+- The temperature will not change
+= Falling pressure means humid air and air rushing in: storm and rain.
+? Air pressure decreases with height mainly because:
+- Gravity becomes zero higher up
+* The air column above becomes shorter and the air thinner
+- The Sun is closer
+- Air becomes heavier higher up
+= Less air above means less weight pressing down.
+== bn
+## what
+পৃথিবীর চারপাশের বাতাসের ওজন আছে, আর আমাদের ওপরের বায়ুস্তম্ভের ওজনে তৈরি হয় **বাতাসের চাপ** (বায়ুমণ্ডলীয় চাপ), সমুদ্রপৃষ্ঠে প্রায় ১০^{৫} Pa (৭৬ cm পারদ)। এটি সব দিকে সমানভাবে কাজ করে, উচ্চতার সাথে কমে, আর **ব্যারোমিটার** দিয়ে মাপা হয়।
+## simple
+আমরা বাস করি কয়েক কিলোমিটার গভীর বাতাসের এক মহাসাগরের তলায়। বাতাস হালকা, কিন্তু পরিমাণে অনেক, আর সবটারই ওজন আছে। মাটির প্রতি বর্গমিটারের ওপর প্রায় **১০^{৫} N** ওজনের একটা বায়ুস্তম্ভ দাঁড়িয়ে আছে। তাই পৃথিবীপৃষ্ঠে বাতাসের চাপ প্রায় **১০^{৫} N/m²** (আরও নিখুঁতভাবে ১ atm = ১০১ ৩২৫ Pa)। ১০^{৫} N বল হলো প্রায় ১০ টনের ওজন, মোটামুটি একটা মালবোঝাই ট্রাক বা দুটো বড় হাতির ওজন, প্রতিটি বর্গমিটারে!
+
+**তাহলে আমরা চ্যাপ্টা হয়ে যাই না কেন?** কারণ শরীরের ভেতরের প্রবাহী সমান চাপে বাইরের দিকে ঠেলে, তাই দুটো ভারসাম্যে থাকে। মহাশূন্যে বাতাস নেই, বাইরের চাপও নেই, তাই নভোচারীদের চাপ-নিয়ন্ত্রিত স্পেস স্যুট পরতে হয়; স্যুট ছাড়া শরীরের ভেতরের চাপ ভারসাম্যহীন হয়ে পড়ত, যা (শ্বাস নেওয়ার বাতাস না থাকার সাথে মিলে) কয়েক সেকেন্ডেই প্রাণঘাতী।
+
+**বাতাস যে সব দিক থেকে ঠেলে তার প্রমাণ।** পাতলা টিন বা অ্যালুমিনিয়ামের একটি কৌটা নিয়ে পাম্প দিয়ে ভেতরের বাতাস বের করে দাও। কৌটাটা দুমড়ে যায়, আর তা **সব দিক থেকে** দুমড়ায়, শুধু ওপর থেকে চ্যাপ্টা হয় না। বাইরের বাতাসের চাপকে ভেতরের বাতাস আর ঠেকাতে পারে না, আর চাপ সব দিকে কাজ করে বলে চারপাশ থেকেই চাপ দেয়। নিরাপদভাবে নিজে করে দেখতে পারো: খালি প্লাস্টিকের বোতলে সামান্য গরম পানি ঢেলে ঝাঁকাও, পানি ফেলে দিয়ে শক্ত করে ছিপি আটকাও, তারপর কলের পানিতে ঠান্ডা করো। ভেতরের বাতাস ঠান্ডা হলে তার চাপ কমে, আর বাইরের বাতাস বোতলটা দুমড়ে দেয়।
+
+**উচ্চতার সাথে চাপ কমে।** যত ওপরে যাবে, মাথার ওপরের বায়ুস্তম্ভ তত খাটো, তাই চাপ কমে। প্রায় ৫–৫.৫ km উচ্চতায় চাপ অর্ধেক হয়ে যায়। কিন্তু আরও ৫ km উঠলে তা শূন্য হয় না, কারণ পানির মতো নয়, বাতাস **সংকোচনযোগ্য**: মাটির কাছের বাতাস সবচেয়ে বেশি চাপা আর সবচেয়ে ঘন, ওপরে তা পাতলা আর হালকা। এভারেস্টের চূড়ায় (৮৮৪৯ m) চাপ সমুদ্রপৃষ্ঠের মাত্র প্রায় এক-তৃতীয়াংশ, তাই প্রতি নিঃশ্বাসে অক্সিজেনও আসে প্রায় এক-তৃতীয়াংশ। এভারেস্ট জয়ী প্রথম বাংলাদেশি নারী নিশাত মজুমদারের মতো পর্বতারোহীরা চূড়ার কাছে অক্সিজেন সিলিন্ডার ব্যবহার করেন। জেট বিমান অনেক উঁচুতে ওড়ে, যেখানে পাতলা বাতাসে বাধা কম, তবে খুব বেশি উঁচুতে নয়, কারণ ইঞ্জিনে জ্বালানি পোড়াতে অক্সিজেন লাগে।
+
+**৫.৪.১ টরিসেলির পরীক্ষা ও ব্যারোমিটার**
+
+স্ট্র দিয়ে কোল্ড ড্রিংক মুখে আসে কীভাবে? টান দিলে তুমি মুখের ভেতরের বাতাসের চাপ কমিয়ে দাও। তখন বাইরে পানীয়ের তলে বাতাসের চাপ বেশি, আর সেই চাপ পানীয়কে স্ট্র দিয়ে **ঠেলে** ওপরে তোলে।
+
+১০.৫ m লম্বা একটা স্ট্র কল্পনা করো। যত জোরেই টানো, পানি প্রায় **১০.৩ m** উঠে থেমে যাবে: এই উচ্চতার পানির চাপ বায়ুমণ্ডলের চাপের সমান। পারদ পানির চেয়ে ১৩.৬ গুণ ঘন, তাই তা উঠবে মাত্র ১০.৩ m ÷ ১৩.৬ ≈ **৭৬ cm**।
+
+১৬৪৩ সালে টরিসেলি এক মাথা বন্ধ প্রায় এক মিটার লম্বা একটি কাচের নল পারদে ভরে উল্টো করে পারদভরা পাত্রে বসালেন। পারদ নেমে গিয়ে স্তম্ভ **৭৬ cm** উঁচু থাকতে থেমে গেল, আর ওপরে প্রায় ফাঁকা জায়গা (প্রায় শূন্যস্থান) রইল। পাত্রের পারদের ওপর বাতাসের চাপ স্তম্ভটিকে ধরে রাখে, আর নলের ওপর থেকে কিছুই চাপ দেয় না। তাই **বাতাসের চাপ = ৭৬ cm পারদ স্তম্ভের চাপ**:
+
+P = hρg = ০.৭৬ × ১৩ ৬০০ × ৯.৮ ≈ ১.০১ × ১০^{৫} Pa
+
+এই যন্ত্রই **পারদ ব্যারোমিটার**। বাতাসের চাপ বাড়লে স্তম্ভ ৭৬ cm-এর বেশি হয়; কমলে খাটো হয়।
+
+**৫.৪.২ বাতাসের চাপ ও আবহাওয়া**
+
+- **নিম্নচাপ।** আবহাওয়ার খবরে প্রায়ই শোনো, বঙ্গোপসাগরে "নিম্নচাপ" সৃষ্টি হয়েছে: সেখানে বাতাসের চাপ কমে গেছে। আশপাশের উচ্চচাপের এলাকা থেকে বাতাস ছুটে আসে, আর ঘুরতে শুরু করতে পারে। বিশেষ অবস্থায় এই ঘূর্ণিই হয়ে ওঠে **ঘূর্ণিঝড়**।
+- **আর্দ্র বাতাসে চাপ কম কেন।** গরম বাতাস প্রসারিত হয়ে কম ঘন হয়। আর্দ্র বাতাসও হালকা: পানির অণু (H₂O, আণবিক ভর ১৮) যে নাইট্রোজেন (N₂, ২৮) আর অক্সিজেন (O₂, ৩২) অণুর জায়গা নেয় তাদের চেয়ে হালকা। কম ঘন বাতাস মানে কম চাপ।
+- **ব্যারোমিটার পড়া:** উচ্চ ও স্থির চাপ → শুকনো বাতাস, ভালো আবহাওয়া। চাপ কমছে → জলীয় বাষ্প বাড়ছে, মেঘ আসছে। হঠাৎ অনেক কমে গেলে → বাতাস ছুটে আসবে, ঝড়-বৃষ্টির সম্ভাবনা।
+## analogy
+আমরা বাস করি বহু কিলোমিটার গভীর **বাতাসের সাগরের তলায়**। ডুবুরি যেমন ওপরের পানির চাপ টের পান, আমরাও ওপরের সব বাতাসের ওজনে চাপা পড়ি, প্রতি বর্গমিটারে প্রায় ১০ টন! টের পাই না, কারণ শরীরের ভেতরের বাতাস সমান জোরে পাল্টা ঠেলে।
+## definition
+**বাতাসের চাপ (বায়ুমণ্ডলীয় চাপ)**: একক ক্ষেত্রফলের ওপরের বায়ুস্তম্ভের ওজনের কারণে বায়ুমণ্ডল যে চাপ দেয়। সমুদ্রপৃষ্ঠে এটি প্রায় ১.০১৩ × ১০^{৫} Pa (১ atm), যা ৭৬ cm পারদ স্তম্ভের চাপের সমান।
+
+**ব্যারোমিটার**: বাতাসের চাপ মাপার যন্ত্র।
+## why
+মাটির কাছে বাতাসের চাপ দ্রুত আর ওপরে ধীরে কমে কেন? কারণ বাতাস সংকোচনযোগ্য। মাটির কাছে ওপরের সব বাতাসের চাপে বাতাস চেপে থাকে, তাই প্রতি মিটার উচ্চতায় অনেক বাতাস, আর সেই মিটার উঠলে অনেক ওজন কমে। ওপরে বাতাস পাতলা, প্রতি মিটারে অল্প বাতাস, উঠলে অল্প ওজন কমে। পানি প্রায় সংকোচনহীন, তাই পানির চাপ গভীরতার সাথে সমান হারে বাড়ে।
+## terms
+বাতাসের চাপ | ওপরের বায়ুস্তম্ভের ওজনের কারণে বাতাসের চাপ
+১ atm | ≈ ১.০১৩ × ১০^{৫} Pa = ৭৬ cm পারদ
+ব্যারোমিটার | বাতাসের চাপ মাপার যন্ত্র
+টরিসেলির শূন্যস্থান | ব্যারোমিটারের নলে পারদের ওপরের প্রায় ফাঁকা জায়গা
+নিম্নচাপ | কম বায়ুচাপের এলাকা; ঘূর্ণিঝড়ে পরিণত হতে পারে
+## formula
+$$ P(বায়ু) = hρg = ০.৭৬ m × ১৩ ৬০০ kg m^{-৩} × ৯.৮ m s^{-২} ≈ ১.০১ × ১০^{৫} Pa
+$$ বাতাসের চাপ যত উঁচু তরল স্তম্ভ ধরে রাখে: h = P(বায়ু)/(ρg)
+! পানির স্তম্ভ ≈ ১০.৩ m; পারদের স্তম্ভ ≈ ৭৬ cm।
+! প্রায় ৫–৫.৫ km উচ্চতায় বাতাসের চাপ মোটামুটি অর্ধেক; এভারেস্টের চূড়ায় সমুদ্রপৃষ্ঠের প্রায় ⅓।
+## visual
+উচ্চতার স্লাইডার সমুদ্রপৃষ্ঠ থেকে এভারেস্ট ছাড়িয়ে ওপরে সরাও। দেখো বাতাসের চাপ কমছে আর টরিসেলির নলের পারদ স্তম্ভ খাটো হচ্ছে। পানিতে বদলে দেখো, পানির ব্যারোমিটার কেন ১০ m-এর বেশি লম্বা হতে হতো।
+## real
+বাংলাদেশ আবহাওয়া অধিদপ্তর বঙ্গোপসাগরের ওপর বাতাসের চাপ নজরে রাখে। গভীর নিম্নচাপ তৈরি হয়ে চাপ কমতে থাকলে ঘূর্ণিঝড় সংকেত দেওয়া হয়, যেন কক্সবাজার, ভোলা, সাতক্ষীরার মতো উপকূলীয় জেলার মানুষ সময়মতো আশ্রয়কেন্দ্রে যেতে পারে।
+## example
+প্রশ্ন: এভারেস্টের চূড়ায় (৮৮৪৯ m) বাতাসের চাপ সমুদ্রপৃষ্ঠের প্রায় ৩৫% (বইয়ের লেখচিত্র থেকে)। সেখানে প্রতি নিঃশ্বাসে সমুদ্রপৃষ্ঠের তুলনায় কতটুকু অক্সিজেন আসে?
+দেওয়া আছে: P ≈ ০.৩৫ × সমুদ্রপৃষ্ঠের চাপ
+হিসাব: এক নিঃশ্বাসে বাতাসের (এবং অক্সিজেনের) পরিমাণ মোটামুটি চাপের সমানুপাতিক: প্রায় ০.৩৫ ≈ ১/৩
+উত্তর: সমুদ্রপৃষ্ঠের প্রায় এক-তৃতীয়াংশ অক্সিজেন, তাই পর্বতারোহীরা অক্সিজেন সাথে নেন।
+## example
+প্রশ্ন: বাতাসের চাপ ১.০১ × ১০^{৫} Pa। এটি কত উঁচু পানির স্তম্ভ ধরে রাখতে পারে? (ρ = ১০০০ kg/m³, g = ৯.৮ m/s²)
+সূত্র: P = hρg → h = P/(ρg)
+হিসাব: h = ১.০১ × ১০^{৫} ÷ (১০০০ × ৯.৮) ≈ ১০.৩ m
+উত্তর: প্রায় ১০.৩ m, তাই প্রায় ১০ m-এর চেয়ে লম্বা স্ট্র দিয়ে কেউ পানি টেনে তুলতে পারবে না।
+## example
+প্রশ্ন: ১.৫ m² ক্ষেত্রফলের একটি টেবিলের ওপরের তলে বায়ুমণ্ডল কত বল প্রয়োগ করে? টেবিল ভাঙে না কেন? (P = ১০^{৫} Pa)
+সূত্র: F = PA
+হিসাব: F = ১০^{৫} × ১.৫ = ১.৫ × ১০^{৫} N
+> টেবিলের নিচের তলেও বাতাস একই চাপে ঠেলে, তাই বলগুলো ভারসাম্যে থাকে।
+উত্তর: ওপরের তলে ১.৫ × ১০^{৫} N, যা নিচ থেকে সমান ঊর্ধ্বমুখী ঠেলায় ভারসাম্যে থাকে।
+## mistakes
+x ওজন নিচের দিকে, তাই বাতাসের চাপও শুধু নিচের দিকে ঠেলে।
+v চাপের নিজের দিক নেই; যেকোনো বিন্দুতে বাতাস সব দিকে সমানভাবে ঠেলে (দুমড়ানো কৌটাই প্রমাণ)।
+x স্ট্রতে টান দিলে মুখ পানীয়কে টেনে তোলে।
+v তুমি শুধু মুখের ভেতরের চাপ কমাও; বাইরের বাতাসের চাপ পানীয়কে ঠেলে তোলে।
+x ৫ km-এ চাপ অর্ধেক হয়, তাই ১০ km-এ শূন্য হয়ে যায়।
+v বাতাস সংকোচনযোগ্য আর ধীরে ধীরে পাতলা হয়; চাপ কমতে থাকে কিন্তু এত তাড়াতাড়ি শূন্য হয় না।
+## remember
+- সমুদ্রপৃষ্ঠে বাতাসের চাপ ≈ ১০^{৫} Pa = ১ atm = ৭৬ cm পারদ ≈ ১০.৩ m পানি।
+- এটি সব দিকে সমানভাবে কাজ করে; আমাদের শরীর সমান চাপে উল্টো ঠেলে।
+- উচ্চতার সাথে কমে (৫–৫.৫ km-এ প্রায় অর্ধেক, এভারেস্টে প্রায় ⅓)।
+- টরিসেলি (১৬৪৩): পারদ স্তম্ভ ৭৬ cm; ব্যারোমিটার বাতাসের চাপ মাপে।
+- চাপ কমছে → বৃষ্টি, ঝড়; খুব কম চাপ (নিম্নচাপ) → ঘূর্ণিঝড়ের আশঙ্কা।
+## think
+টরিসেলির নলে পারদের ওপরের জায়গাটা কি নিখুঁত শূন্যস্থান? সেখানে কী থাকতে পারে?
+## quiz
+? বাতাসের চাপ মাপার যন্ত্রের নাম:
+- থার্মোমিটার
+* ব্যারোমিটার
+- ম্যানোমিটার
+- সিসমোমিটার
+= ব্যারোমিটার বাতাসের চাপ মাপে।
+? সমুদ্রপৃষ্ঠে টরিসেলির পরীক্ষায় পারদ স্তম্ভের উচ্চতা প্রায়:
+- ১০.৩ m
+* ৭৬ cm
+- ১৩.৬ cm
+- ১ m
+= ৭৬ cm পারদের চাপ স্বাভাবিক বাতাসের চাপের সমান।
+? ব্যারোমিটারের পাঠ দ্রুত কমতে থাকলে সাধারণত বোঝায়:
+* ঝড়ো আবহাওয়া আসছে
+- ভালো, শুকনো আবহাওয়া
+- ভূমিকম্প
+- তাপমাত্রা বদলাবে না
+= চাপ কমা মানে আর্দ্র বাতাস আর বাতাস ছুটে আসা: ঝড়-বৃষ্টি।
+? উচ্চতার সাথে বাতাসের চাপ কমে মূলত কারণ:
+- ওপরে অভিকর্ষ শূন্য হয়ে যায়
+* ওপরের বায়ুস্তম্ভ খাটো আর বাতাস পাতলা হয়
+- সূর্য কাছে আসে
+- ওপরে বাতাস ভারী হয়
+= ওপরে কম বাতাস মানে কম ওজন চাপ দেয়।
+
+@@ 5.5
+@visual c5hooke
+@related 5.1 4.3.2 5.6
+@media https://phet.colorado.edu/en/simulations/hookes-law | Hooke's Law (PhET simulation) | হুকের সূত্র (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Elasticity** is the property by which a body regains its original shape and size when the deforming force is removed. Within the elastic limit, **stress is proportional to strain** (Hooke's law); the constant of proportionality is the modulus of elasticity, such as **Young's modulus**.
+## simple
+Stretch a rubber band and let go: it snaps back to its old length. Bend a steel ruler slightly and release it: it springs back straight. In physics, the pull is called a **force** and the change in length or shape is called a **deformation** (বিকৃতি). The word sounds negative in daily life, but here it simply means "a change".
+
+When a force deforms a body, the body develops an inner **restoring force** that tries to undo the change. Remove the outside force, and the restoring force brings the body back. This property is **elasticity**.
+
+**The elastic limit.** There is a limit. Bend a steel rod a little and it straightens again; bend it too much and it stays bent. Stretch a rubber band too far and it stays a little longer. The largest force (or deformation) a body can take and still return fully is its **elastic limit**.
+
+**Strain: how much it changed, relative to its size.** A 1 cm stretch is a lot for a 10 cm rubber band but nothing for a 100 m steel cable. So we compare the change with the original length:
+
+**Strain = (L − L₀)/L₀ = ΔL/L₀**
+
+Being length ÷ length, strain has **no unit**. It is just a number.
+
+**Stress: the restoring force per unit area.** If a restoring force F develops across a cross-section of area A:
+
+**Stress = F/A**
+
+It looks just like pressure, and its unit is also **N m^{-2} or pascal (Pa)**.
+
+**Hooke's law.** Within the elastic limit, **stress is directly proportional to strain**: stress = constant × strain. The constant, called the **modulus of elasticity**, is a property of the material.
+
+**(i) Young's modulus (stretching a wire).** A wire of length L₀ and cross-section A holds a weight W and stretches to L. The tension T in the wire is the restoring force, so stress = T/A, strain = (L − L₀)/L₀, and
+
+**T/A = Y × (L − L₀)/L₀**
+
+Y is **Young's modulus**; its unit is N m^{-2} (Pa). A large Y means the material is hard to stretch: for the same stress, the change in length is small.
+
+Young's modulus (GPa, 1 GPa = 10^{9} Pa): rubber 0.01–0.1, bone 9, wood 10, glass 50–90, aluminium 69, copper 117, iron 200, diamond 1220.
+
+**(ii) Bulk modulus (squeezing a gas).** A gas of volume V₀ in a cylinder is squeezed by a pressure P to volume V. Here the stress is P and the strain is the fractional change in volume. Hooke's law gives
+
+**P = B × (V₀ − V)/V₀**
+
+B is the **bulk modulus** (unit Pa). (Some books write the strain as (V − V₀)/V₀; that is negative when the gas is compressed, so here we use its size, (V₀ − V)/V₀.)
+
+**Fahim's rubber band.** Fahim hung masses from a 10 cm rubber band. Up to 3 kg, the band stretched **5 cm for every kg**, and it went back to exactly 10 cm when the mass was removed. After 4 kg it stayed at 10.2 cm, and after 5 kg at 10.6 cm: it had been permanently stretched. So its elastic limit lies **between 3 kg and 4 kg**.
+## analogy
+Stretch a rubber band and let go: it snaps back. Stretch a piece of chewing gum: it stays long. The rubber band is **elastic**, the gum is not. But even a rubber band has a limit: pull too hard and it stays stretched or snaps, just like a spoon that stays bent if you bend it too far. That limit is the **elastic limit**.
+## definition
+**Elasticity**: the property of a body by which it regains its original shape and size when the deforming force is removed.
+
+**Elastic limit**: the maximum stress (or force) up to which a body shows elasticity; beyond it, the body is permanently deformed.
+
+**Strain**: the fractional change in length (or volume or shape) produced by an external force: strain = (L − L₀)/L₀. It has no unit.
+
+**Stress**: the restoring force per unit area developed inside a body due to deformation: stress = F/A. Unit: Pa (N m^{-2}).
+
+**Hooke's law**: within the elastic limit, stress is directly proportional to strain. Stress/strain = modulus of elasticity.
+
+**Young's modulus**: Y = (F/A)/((L − L₀)/L₀), the ratio of stress to strain for stretching. **Bulk modulus**: B = P/((V₀ − V)/V₀), the ratio of stress to volume strain.
+## why
+Why does Hooke's law hold only up to a limit? Inside a solid, atoms are held in place by forces that act like tiny springs. A small stretch pulls the atoms a little apart and the "springs" pull them back in proportion. Pulled too far, atoms slip past their neighbours into new positions, and they no longer return: the deformation becomes permanent.
+## terms
+Restoring force | Inner force that opposes the deformation
+Elasticity | Ability to return to the original shape and size
+Elastic limit | Largest stress after which the body still returns fully
+Strain (deformation, বিকৃতি) | Relative change in length, volume or shape: ΔL/L₀; no unit
+Stress | Restoring force per unit area; Pa
+Young's modulus (Y) | Stress ÷ strain for stretching; Pa
+Bulk modulus (B) | Pressure ÷ fractional volume change; Pa
+## formula
+$$ Strain = (L − L₀)/L₀
+$$ Stress = F/A
+$$ Stress = Y × strain → T/A = Y (L − L₀)/L₀
+$$ ΔL = (T/A) × L₀/Y
+$$ P = B (V₀ − V)/V₀
+L₀, L | original and stretched length | m
+F, T | restoring force (tension) | N
+A | cross-sectional area | m²
+Y | Young's modulus | Pa
+B | bulk modulus | Pa
+! Strain has no unit; stress, Y and B are all in Pa.
+! Same stress: larger Y → smaller stretch.
+## visual
+Hang masses on Fahim's rubber band. Watch the length and the graph, remove the mass, and find where the band stops returning to 10 cm (the elastic limit).
+## real
+Steel reinforcing rods in the concrete of Dhaka's buildings and flyovers are chosen for their high Young's modulus, so they stretch very little under load. Engineers design bridges like the Padma Bridge so that the steel is never stressed beyond its elastic limit, even in storms and with heavy traffic. The rubber in a catapult (gulti) is useful precisely because its Young's modulus is small: it stretches a lot.
+## example
+Q: An iron wire 2 m long with a cross-section of 1 mm² hangs a load that produces a tension of 100 N. How much does it stretch? What if the wire were copper? (Y(iron) = 200 GPa, Y(copper) = 117 GPa)
+Given: L₀ = 2 m, A = 1 mm² = 10^{-6} m², T = 100 N
+Formula: stress = T/A; strain = stress/Y; ΔL = strain × L₀
+Calculation: stress = 100 ÷ 10^{-6} = 10^{8} Pa; iron: strain = 10^{8} ÷ (200 × 10^{9}) = 5 × 10^{-4}, ΔL = 5 × 10^{-4} × 2 = 1 × 10^{-3} m; copper: strain = 10^{8} ÷ (117 × 10^{9}) ≈ 8.5 × 10^{-4}, ΔL ≈ 1.7 × 10^{-3} m
+> Same stress, but copper has the smaller Y, so it stretches more.
+Answer: iron stretches 1 mm; copper about 1.7 mm.
+## example
+Q: Fahim's rubber band is 10 cm long and stretches 5 cm for every kg hung on it (within its elastic limit). What is its length when a 2.7 kg mass hangs from it, and what is the strain?
+Given: L₀ = 10 cm, stretch = 5 cm per kg, M = 2.7 kg
+Calculation: ΔL = 5 × 2.7 = 13.5 cm; L = 10 + 13.5 = 23.5 cm; strain = 13.5 ÷ 10 = 1.35
+> 2.7 kg is below 3 kg, where the band still returned to 10 cm, so Hooke's law applies.
+Answer: L = 23.5 cm; strain = 1.35 (no unit).
+## example
+Q: Fahim's data: after removing the mass, the band's length was 10 cm for all masses up to 3 kg, 10.2 cm after 4 kg and 10.6 cm after 5 kg. What can you say about its elastic limit?
+Calculation: up to 3 kg the band returns fully (elastic); after 4 kg it keeps a permanent stretch of 0.2 cm (limit crossed)
+Answer: The elastic limit lies between 3 kg and 4 kg of hanging mass (a force of roughly 29–39 N).
+## mistakes
+x Strain is measured in metres.
+v Strain is length ÷ length, so it has no unit.
+x Rubber is "more elastic" than steel because it stretches more.
+v In physics, steel is more elastic: its Young's modulus is thousands of times larger, so it resists deformation strongly and returns to shape reliably.
+x Hooke's law holds for any force.
+v It holds only within the elastic limit.
+## remember
+- Strain = ΔL/L₀ (no unit); stress = F/A (Pa).
+- Hooke's law: within the elastic limit, stress ∝ strain.
+- Young's modulus Y = stress/strain; bulk modulus B = P/(fractional volume change).
+- Larger Y → stiffer: iron 200 GPa vs rubber 0.01–0.1 GPa.
+- Beyond the elastic limit → permanent deformation.
+## think
+Why do the steel cables of a suspension bridge or a lift carry loads far smaller than the load that would reach their elastic limit?
+## quiz
+? Within the elastic limit, Hooke's law says:
+- Stress ∝ 1/strain
+* Stress ∝ strain
+- Stress = strain
+- Strain ∝ area
+= Stress is directly proportional to strain.
+? The unit of strain is:
+- N m^{-2}
+- m
+- Pa
+* It has no unit
+= Strain = ΔL/L₀, a ratio of two lengths.
+? A 10 cm rubber band stretches to 12 cm. The strain is:
+- 2
+- 12
+* 0.2
+- 0.12
+= (12 − 10) ÷ 10 = 0.2.
+? For the same stress, which stretches the least?
+- Rubber
+- Copper
+- Aluminium
+* Iron
+= Iron has the largest Young's modulus of these (200 GPa).
+== bn
+## what
+বিকৃতি সৃষ্টিকারী বল সরিয়ে নিলে যে ধর্মের কারণে বস্তু তার আগের আকার ও আয়তন ফিরে পায় তাকে **স্থিতিস্থাপকতা** বলে। স্থিতিস্থাপক সীমার মধ্যে **পীড়ন বিকৃতির সমানুপাতিক** (হুকের সূত্র); সমানুপাতিক ধ্রুবকটি হলো স্থিতিস্থাপক গুণাঙ্ক, যেমন **ইয়াংস মডুলাস**।
+## simple
+একটা রাবার ব্যান্ড টেনে ছেড়ে দাও: ঝট করে আগের দৈর্ঘ্যে ফিরে আসে। একটা স্টিলের স্কেল একটু বাঁকিয়ে ছাড়ো: আবার সোজা হয়ে যায়। পদার্থবিজ্ঞানে টানাকে বলে **বল প্রয়োগ** আর দৈর্ঘ্য বা আকারের পরিবর্তনকে বলে **বিকৃতি**। দৈনন্দিন জীবনে শব্দটা নেতিবাচক শোনায়, কিন্তু এখানে এর মানে শুধু "পরিবর্তন"।
+
+বল কোনো বস্তুকে বিকৃত করলে বস্তুর ভেতরে একটা **প্রত্যয়নী বল** তৈরি হয়, যা পরিবর্তনটা ফিরিয়ে দিতে চায়। বাইরের বল সরিয়ে নিলে প্রত্যয়নী বল বস্তুকে আগের অবস্থায় ফিরিয়ে আনে। এই ধর্মই **স্থিতিস্থাপকতা**।
+
+**স্থিতিস্থাপক সীমা।** এর একটা সীমা আছে। স্টিলের রড একটু বাঁকালে আবার সোজা হয়; বেশি বাঁকালে বাঁকাই থেকে যায়। রাবার ব্যান্ড বেশি টানলে একটু লম্বা হয়ে থেকে যায়। যত বড় বল (বা বিকৃতি) পর্যন্ত বস্তু পুরোপুরি আগের অবস্থায় ফিরতে পারে, সেটাই এর **স্থিতিস্থাপক সীমা**।
+
+**বিকৃতি: আকারের তুলনায় কতটা বদলাল।** ১০ cm রাবার ব্যান্ডের জন্য ১ cm টান অনেক, কিন্তু ১০০ m স্টিলের তারের জন্য কিছুই না। তাই পরিবর্তনকে আদি দৈর্ঘ্যের সাথে তুলনা করি:
+
+**বিকৃতি = (L − L₀)/L₀ = ΔL/L₀**
+
+দৈর্ঘ্য ÷ দৈর্ঘ্য বলে বিকৃতির **কোনো একক নেই**। এটা শুধু একটা সংখ্যা।
+
+**পীড়ন: একক ক্ষেত্রফলে প্রত্যয়নী বল।** A ক্ষেত্রফলের প্রস্থচ্ছেদে F প্রত্যয়নী বল তৈরি হলে:
+
+**পীড়ন = F/A**
+
+দেখতে ঠিক চাপের মতো, আর এর এককও **N m^{-২} বা প্যাসকেল (Pa)**।
+
+**হুকের সূত্র।** স্থিতিস্থাপক সীমার মধ্যে **পীড়ন বিকৃতির সমানুপাতিক**: পীড়ন = ধ্রুবক × বিকৃতি। ধ্রুবকটির নাম **স্থিতিস্থাপক গুণাঙ্ক**, যা পদার্থের নিজস্ব ধর্ম।
+
+**(i) ইয়াংস মডুলাস (তার টানা)।** L₀ দৈর্ঘ্য আর A প্রস্থচ্ছেদের একটি তারে W ওজন ঝোলালে তারটি L দৈর্ঘ্যে লম্বা হয়। তারের টান T হলো প্রত্যয়নী বল, তাই পীড়ন = T/A, বিকৃতি = (L − L₀)/L₀, এবং
+
+**T/A = Y × (L − L₀)/L₀**
+
+Y হলো **ইয়াংস মডুলাস**; একক N m^{-২} (Pa)। Y বড় মানে পদার্থকে টেনে লম্বা করা কঠিন: একই পীড়নে দৈর্ঘ্যের পরিবর্তন কম।
+
+ইয়াংস মডুলাস (GPa, ১ GPa = ১০^{৯} Pa): রাবার ০.০১–০.১, হাড় ৯, কাঠ ১০, কাচ ৫০–৯০, অ্যালুমিনিয়াম ৬৯, তামা ১১৭, লোহা ২০০, হীরা ১২২০।
+
+**(ii) বাল্ক মডুলাস বা আয়তন গুণাঙ্ক (গ্যাস চাপা)।** সিলিন্ডারে V₀ আয়তনের গ্যাসকে P চাপে চেপে আয়তন V করা হলো। এখানে পীড়ন হলো P আর বিকৃতি হলো আয়তনের আনুপাতিক পরিবর্তন। হুকের সূত্র থেকে
+
+**P = B × (V₀ − V)/V₀**
+
+B হলো **বাল্ক মডুলাস** (একক Pa)। (কোনো কোনো বইয়ে বিকৃতি (V − V₀)/V₀ লেখা হয়; গ্যাস সংকুচিত হলে তা ঋণাত্মক, তাই এখানে এর মান (V₀ − V)/V₀ নিয়েছি।)
+
+**ফাহিমের রাবার ব্যান্ড।** ফাহিম ১০ cm লম্বা একটি রাবার ব্যান্ডে বিভিন্ন ভর ঝোলাল। ৩ kg পর্যন্ত প্রতি kg-এ ব্যান্ড **৫ cm** করে লম্বা হলো, আর ভর সরালে ঠিক ১০ cm-এ ফিরে এল। ৪ kg-এর পর তা ১০.২ cm-এ আর ৫ kg-এর পর ১০.৬ cm-এ থেকে গেল: স্থায়ীভাবে লম্বা হয়ে গেছে। তাই এর স্থিতিস্থাপক সীমা **৩ kg থেকে ৪ kg-এর মধ্যে**।
+## analogy
+রাবার ব্যান্ড টেনে ছেড়ে দাও: আগের জায়গায় ফিরে আসে। চুইংগাম টানো: লম্বাই থেকে যায়। রাবার ব্যান্ড **স্থিতিস্থাপক**, চুইংগাম নয়। তবে রাবার ব্যান্ডেরও সীমা আছে: বেশি টানলে লম্বা থেকে যায় বা ছিঁড়ে যায়, ঠিক যেমন চামচ বেশি বাঁকালে বাঁকাই থেকে যায়। এই সীমাই **স্থিতিস্থাপক সীমা**।
+## definition
+**স্থিতিস্থাপকতা**: বিকৃতি সৃষ্টিকারী বল সরিয়ে নিলে যে ধর্মের কারণে বস্তু তার আগের আকার ও আয়তন ফিরে পায়।
+
+**স্থিতিস্থাপক সীমা**: যে সর্বোচ্চ পীড়ন (বা বল) পর্যন্ত বস্তু স্থিতিস্থাপকতা দেখায়; এর বেশি হলে বস্তু স্থায়ীভাবে বিকৃত হয়।
+
+**বিকৃতি**: বাইরের বলের প্রভাবে দৈর্ঘ্যের (বা আয়তন বা আকারের) আনুপাতিক পরিবর্তন: বিকৃতি = (L − L₀)/L₀। এর কোনো একক নেই।
+
+**পীড়ন**: বিকৃতির ফলে বস্তুর ভেতরে তৈরি হওয়া একক ক্ষেত্রফলে প্রত্যয়নী বল: পীড়ন = F/A। একক: Pa (N m^{-২})।
+
+**হুকের সূত্র**: স্থিতিস্থাপক সীমার মধ্যে পীড়ন বিকৃতির সমানুপাতিক। পীড়ন/বিকৃতি = স্থিতিস্থাপক গুণাঙ্ক।
+
+**ইয়াংস মডুলাস**: Y = (F/A)/((L − L₀)/L₀), টানার ক্ষেত্রে পীড়ন ও বিকৃতির অনুপাত। **বাল্ক মডুলাস**: B = P/((V₀ − V)/V₀), পীড়ন ও আয়তন বিকৃতির অনুপাত।
+## why
+হুকের সূত্র কেন একটা সীমা পর্যন্তই খাটে? কঠিন পদার্থের ভেতরে পরমাণুগুলো এমন বল দিয়ে জায়গামতো আটকে থাকে যা ছোট ছোট স্প্রিংয়ের মতো কাজ করে। অল্প টানলে পরমাণুগুলো একটু দূরে সরে আর "স্প্রিং" তাদের সমানুপাতিক হারে ফিরিয়ে টানে। খুব বেশি টানলে পরমাণুগুলো প্রতিবেশীদের পাশ কাটিয়ে নতুন জায়গায় সরে যায়, আর ফেরে না: বিকৃতি স্থায়ী হয়ে যায়।
+## terms
+প্রত্যয়নী বল | বিকৃতির বিরোধিতা করা ভেতরের বল
+স্থিতিস্থাপকতা | আগের আকার ও আয়তনে ফেরার ক্ষমতা
+স্থিতিস্থাপক সীমা | যে সর্বোচ্চ পীড়নের পরও বস্তু পুরোপুরি ফেরে
+বিকৃতি | বলের কারণে দৈর্ঘ্য, আয়তন বা আকারের আপেক্ষিক পরিবর্তন: ΔL/L₀; কোনো একক নেই
+পীড়ন | একক ক্ষেত্রফলে প্রত্যয়নী বল; Pa
+ইয়াংস মডুলাস (Y) | টানার ক্ষেত্রে পীড়ন ÷ বিকৃতি; Pa
+বাল্ক মডুলাস (B) | চাপ ÷ আয়তনের আনুপাতিক পরিবর্তন; Pa
+## formula
+$$ বিকৃতি = (L − L₀)/L₀
+$$ পীড়ন = F/A
+$$ পীড়ন = Y × বিকৃতি → T/A = Y (L − L₀)/L₀
+$$ ΔL = (T/A) × L₀/Y
+$$ P = B (V₀ − V)/V₀
+L₀, L | আদি ও টানা দৈর্ঘ্য | m
+F, T | প্রত্যয়নী বল (টান) | N
+A | প্রস্থচ্ছেদের ক্ষেত্রফল | m²
+Y | ইয়াংস মডুলাস | Pa
+B | বাল্ক মডুলাস | Pa
+! বিকৃতির একক নেই; পীড়ন, Y ও B সবই Pa এককে।
+! একই পীড়নে: Y বড় → দৈর্ঘ্য বৃদ্ধি কম।
+## visual
+ফাহিমের রাবার ব্যান্ডে ভর ঝোলাও। দৈর্ঘ্য আর লেখচিত্র দেখো, ভর সরিয়ে নাও, আর খুঁজে বের করো কোথা থেকে ব্যান্ড আর ১০ cm-এ ফেরে না (স্থিতিস্থাপক সীমা)।
+## real
+ঢাকার ভবন আর ফ্লাইওভারের কংক্রিটের ভেতরের স্টিলের রড বেছে নেওয়া হয় এর বড় ইয়াংস মডুলাসের জন্য, যেন ভারে খুব কম লম্বা হয়। পদ্মা সেতুর মতো সেতু এমনভাবে নকশা করা হয় যেন ঝড়ে আর ভারী যানবাহনেও স্টিলের পীড়ন কখনো স্থিতিস্থাপক সীমা ছাড়িয়ে না যায়। গুলতির রাবার কাজের, কারণ এর ইয়াংস মডুলাস ছোট: অনেক লম্বা হয়।
+## example
+প্রশ্ন: ২ m লম্বা ও ১ mm² প্রস্থচ্ছেদের একটি লোহার তারে ঝোলানো ভারের কারণে ১০০ N টান তৈরি হলো। তারটি কতটা লম্বা হবে? তারটি তামার হলে কত? (Y(লোহা) = ২০০ GPa, Y(তামা) = ১১৭ GPa)
+দেওয়া আছে: L₀ = ২ m, A = ১ mm² = ১০^{-৬} m², T = ১০০ N
+সূত্র: পীড়ন = T/A; বিকৃতি = পীড়ন/Y; ΔL = বিকৃতি × L₀
+হিসাব: পীড়ন = ১০০ ÷ ১০^{-৬} = ১০^{৮} Pa; লোহা: বিকৃতি = ১০^{৮} ÷ (২০০ × ১০^{৯}) = ৫ × ১০^{-৪}, ΔL = ৫ × ১০^{-৪} × ২ = ১ × ১০^{-৩} m; তামা: বিকৃতি = ১০^{৮} ÷ (১১৭ × ১০^{৯}) ≈ ৮.৫ × ১০^{-৪}, ΔL ≈ ১.৭ × ১০^{-৩} m
+> পীড়ন একই, কিন্তু তামার Y ছোট, তাই বেশি লম্বা হয়।
+উত্তর: লোহা ১ mm লম্বা হয়; তামা প্রায় ১.৭ mm।
+## example
+প্রশ্ন: ফাহিমের রাবার ব্যান্ড ১০ cm লম্বা আর প্রতি kg ভরে ৫ cm লম্বা হয় (স্থিতিস্থাপক সীমার মধ্যে)। ২.৭ kg ভর ঝোলালে এর দৈর্ঘ্য কত হবে, আর বিকৃতি কত?
+দেওয়া আছে: L₀ = ১০ cm, প্রতি kg-এ ৫ cm, M = ২.৭ kg
+হিসাব: ΔL = ৫ × ২.৭ = ১৩.৫ cm; L = ১০ + ১৩.৫ = ২৩.৫ cm; বিকৃতি = ১৩.৫ ÷ ১০ = ১.৩৫
+> ২.৭ kg হলো ৩ kg-এর কম, যেখানে ব্যান্ড তখনো ১০ cm-এ ফিরছিল, তাই হুকের সূত্র খাটে।
+উত্তর: L = ২৩.৫ cm; বিকৃতি = ১.৩৫ (একক নেই)।
+## example
+প্রশ্ন: ফাহিমের উপাত্ত: ভর সরানোর পর ৩ kg পর্যন্ত সব ভরে ব্যান্ডের দৈর্ঘ্য ১০ cm, ৪ kg-এর পর ১০.২ cm আর ৫ kg-এর পর ১০.৬ cm। এর স্থিতিস্থাপক সীমা সম্পর্কে কী বলা যায়?
+হিসাব: ৩ kg পর্যন্ত ব্যান্ড পুরোপুরি ফেরে (স্থিতিস্থাপক); ৪ kg-এর পর ০.২ cm স্থায়ী দৈর্ঘ্য বৃদ্ধি থেকে যায় (সীমা পার হয়েছে)
+উত্তর: স্থিতিস্থাপক সীমা ৩ kg থেকে ৪ kg ঝোলানো ভরের মধ্যে (মোটামুটি ২৯–৩৯ N বল)।
+## mistakes
+x বিকৃতি মিটারে মাপা হয়।
+v বিকৃতি হলো দৈর্ঘ্য ÷ দৈর্ঘ্য, তাই এর কোনো একক নেই।
+x রাবার বেশি লম্বা হয় বলে রাবার স্টিলের চেয়ে "বেশি স্থিতিস্থাপক"।
+v পদার্থবিজ্ঞানে স্টিল বেশি স্থিতিস্থাপক: এর ইয়াংস মডুলাস হাজার গুণ বড়, তাই বিকৃতিতে জোরালো বাধা দেয় আর নির্ভরযোগ্যভাবে আগের আকারে ফেরে।
+x হুকের সূত্র যেকোনো বলের জন্য খাটে।
+v শুধু স্থিতিস্থাপক সীমার মধ্যে খাটে।
+## remember
+- বিকৃতি = ΔL/L₀ (একক নেই); পীড়ন = F/A (Pa)।
+- হুকের সূত্র: স্থিতিস্থাপক সীমার মধ্যে পীড়ন ∝ বিকৃতি।
+- ইয়াংস মডুলাস Y = পীড়ন/বিকৃতি; বাল্ক মডুলাস B = P/(আয়তনের আনুপাতিক পরিবর্তন)।
+- Y বড় → বেশি শক্ত: লোহা ২০০ GPa বনাম রাবার ০.০১–০.১ GPa।
+- স্থিতিস্থাপক সীমা পার হলে → স্থায়ী বিকৃতি।
+## think
+ঝুলন্ত সেতু বা লিফটের স্টিলের তার যে ভারে স্থিতিস্থাপক সীমায় পৌঁছায়, তার চেয়ে অনেক কম ভার বহন করানো হয় কেন?
+## quiz
+? স্থিতিস্থাপক সীমার মধ্যে হুকের সূত্র বলে:
+- পীড়ন ∝ ১/বিকৃতি
+* পীড়ন ∝ বিকৃতি
+- পীড়ন = বিকৃতি
+- বিকৃতি ∝ ক্ষেত্রফল
+= পীড়ন বিকৃতির সমানুপাতিক।
+? বিকৃতির একক:
+- N m^{-২}
+- m
+- Pa
+* এর কোনো একক নেই
+= বিকৃতি = ΔL/L₀, দুটি দৈর্ঘ্যের অনুপাত।
+? ১০ cm লম্বা একটি রাবার ব্যান্ড টেনে ১২ cm করা হলো। বিকৃতি:
+- ২
+- ১২
+* ০.২
+- ০.১২
+= (১২ − ১০) ÷ ১০ = ০.২।
+? একই পীড়নে কোনটি সবচেয়ে কম লম্বা হয়?
+- রাবার
+- তামা
+- অ্যালুমিনিয়াম
+* লোহা
+= এদের মধ্যে লোহার ইয়াংস মডুলাস সবচেয়ে বড় (২০০ GPa)।
+
+@@ 5.6
+@visual c5states
+@related 5.2 5.5 6.4 4.6
+@media https://phet.colorado.edu/en/simulations/states-of-matter | States of Matter (PhET simulation) | পদার্থের অবস্থা (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+Whether a substance is a **solid**, **liquid** or **gas** depends on how its molecules are arranged and how freely they move. The **kinetic molecular theory** says molecules are always moving; gas pressure is caused by molecules hitting the container walls. A fourth state, **plasma**, is a hot mixture of ions and free electrons.
+## simple
+Everything around us is made of **molecules**. (Molecules are made of atoms, atoms of electrons and a nucleus, the nucleus of protons and neutrons, and those of quarks!) We treat the molecule as the smallest unit of a substance, because it still has the substance's properties: a water molecule is water, but split it into one oxygen and two hydrogen atoms and it is no longer water.
+
+Water is the easiest example: **ice, water and steam** are the same molecules arranged in three different ways.
+
+**Solid (ice).** Molecules are packed very close, almost touching, and locked in fixed positions. They can only **vibrate** in place. So a solid has a **definite shape and volume**, cannot be compressed, and cannot flow.
+
+**Liquid (water).** Molecules are still close together (almost no empty space), but they can **slide past one another**. So a liquid has a **definite volume but no fixed shape**: it takes the shape of its container, flows easily, and is almost impossible to compress.
+
+**Gas (steam, air).** Molecules are **far apart** with lots of empty space between them, and they **move freely** and fast in all directions. So a gas has **no fixed shape or volume**: it spreads out to fill any container, flows easily, and can be compressed.
+
+**5.6.1 Kinetic molecular theory: where does gas pressure come from?**
+A solid on a table presses only where it touches. A liquid must be kept in a pot, and it presses on the bottom and on the walls (make a hole in the side and it spurts out). A gas must be kept in a closed container, like a balloon, and it presses on every part of the wall. Why?
+
+In a closed container, gas molecules rush about randomly. Each time a molecule hits the wall it bounces back, so its **momentum changes**. Changing momentum needs a force, so the wall pushes on the molecule, and by Newton's third law **the molecule pushes on the wall**. Billions upon billions of molecules hit every square centimetre every second, and their combined push is the **pressure** of the gas.
+
+**Heat the gas** and the molecules move faster and hit harder and more often, so the **pressure rises**. That is why a closed can should never be thrown into a fire.
+
+**5.6.2 The fourth state: plasma**
+Normally an atom has as many electrons as protons, so it is neutral. If a gas is made **very hot** or placed in a **very strong electric field**, electrons are knocked off many atoms. The result is a mixture of **positive ions and free electrons**, called **plasma**. It looks like a gas, but it behaves differently: it conducts electricity, and, unlike a gas, it can be held in a shape by a **magnetic field**.
+
+Where is plasma? Inside a glowing **tube light**, in **neon signs**, in the flash of **lightning**, and in the Sun and the stars; most of the visible matter in the universe is plasma. Scientists are researching how to use hot plasma to produce energy by **nuclear fusion** (joining light nuclei), a possible clean energy source for the future.
+## analogy
+Think of your school. In class, students sit in fixed seats, only fidgeting: that's a **solid**. In the crowded corridor at break, they move past each other but stay close: a **liquid**. On the playground, they run anywhere, far apart: a **gas**. Same students, different freedom of movement.
+## definition
+**Solid**: a state in which molecules are very close together in fixed positions and can only vibrate; it has a definite shape and volume.
+
+**Liquid**: a state in which molecules are close together but can move past one another; it has a definite volume but takes the shape of its container.
+
+**Gas**: a state in which molecules are far apart and move freely; it has no definite shape or volume.
+
+**Kinetic molecular theory**: matter is made of molecules in constant motion; the pressure of a gas is the combined force per unit area of its molecules colliding with the container walls, and it increases when the temperature (the molecules' kinetic energy) increases.
+
+**Plasma**: the fourth state of matter, an ionised gas consisting of positive ions and free electrons.
+## why
+Why can a gas be squeezed but a liquid cannot? In a gas the molecules are far apart, so pushing them closer just uses up empty space. In a liquid the molecules already touch; to squeeze them closer you would have to push against the strong repulsion between molecules, which needs an enormous force.
+## terms
+Molecule | Smallest unit of a substance that has its properties
+Vibration | Rapid to-and-fro motion about a fixed position
+Compressible | Can be squeezed into a smaller volume (gases)
+Kinetic molecular theory | Explains the states and gas pressure by moving molecules
+Ion | Atom or molecule that has lost (or gained) electrons
+Plasma | Ionised gas of ions and free electrons; fourth state of matter
+## visual
+Switch between solid, liquid, gas and plasma, and watch how the particles are arranged and how they move. Raise the temperature to see the gas molecules hit the walls harder.
+## real
+A tube light glows because an electric field turns the mercury vapour inside into plasma, which gives off ultraviolet light that makes the coating on the tube shine. A football or bicycle tyre stays firm because trillions of air molecules keep hitting its inner walls. On a hot afternoon, a tightly inflated tyre can burst, because heating raises the pressure.
+## mistakes
+x Molecules in a solid do not move at all.
+v They vibrate about fixed positions; they just cannot move from place to place.
+x Plasma is just a very hot gas.
+v It is ionised: it contains free electrons and ions, conducts electricity and can be shaped by a magnetic field, which ordinary gases cannot.
+x Gas pressure comes from the weight of the gas.
+v In a closed container it comes mainly from molecules colliding with the walls; that is why it acts equally on every wall, including the top.
+## remember
+- Solid: close, fixed, vibrate → definite shape and volume.
+- Liquid: close, slide past each other → definite volume, takes container's shape.
+- Gas: far apart, move freely → no fixed shape or volume; compressible.
+- Gas pressure = molecules hitting walls; hotter → more pressure.
+- Plasma = ions + free electrons (tube light, lightning, stars); shaped by magnetic fields.
+## think
+When you put a scotch tape patch on a balloon and push a needle through the tape, the balloon doesn't burst but slowly lets air out. Why do you think the tape stops it from bursting?
+## quiz
+? In which state do molecules only vibrate about fixed positions?
+* Solid
+- Liquid
+- Gas
+- Plasma
+= In a solid, molecules are locked in place and can only vibrate.
+? A substance that has a definite volume but takes the shape of its container is a:
+- Solid
+* Liquid
+- Gas
+- Plasma
+= Liquids have fixed volume but no fixed shape.
+? According to kinetic theory, gas pressure is caused by:
+- The weight of the container
+* Molecules colliding with the container walls
+- Molecules standing still
+- Light falling on the gas
+= Each collision changes a molecule's momentum and pushes on the wall.
+? The fourth state of matter is:
+- Vapour
+- Ice
+* Plasma
+- Fog
+= Plasma is an ionised gas of ions and free electrons.
+== bn
+## what
+কোনো পদার্থ **কঠিন**, **তরল** নাকি **গ্যাস**, তা নির্ভর করে এর অণুগুলো কীভাবে সাজানো আর কতটা মুক্তভাবে চলে তার ওপর। **আণবিক গতিতত্ত্ব** বলে অণুগুলো সবসময় চলমান; পাত্রের দেয়ালে অণুর ধাক্কায় গ্যাসের চাপ তৈরি হয়। চতুর্থ অবস্থা **প্লাজমা** হলো আয়ন ও মুক্ত ইলেকট্রনের গরম মিশ্রণ।
+## simple
+আমাদের চারপাশের সবকিছু **অণু** দিয়ে তৈরি। (অণু তৈরি পরমাণু দিয়ে, পরমাণু ইলেকট্রন আর নিউক্লিয়াস দিয়ে, নিউক্লিয়াস প্রোটন ও নিউট্রন দিয়ে, আর সেগুলো কোয়ার্ক দিয়ে!) অণুকে আমরা পদার্থের ক্ষুদ্রতম একক ধরি, কারণ এতে পদার্থের ধর্ম থাকে: পানির একটি অণু পানিই, কিন্তু একে ভেঙে একটি অক্সিজেন আর দুটি হাইড্রোজেন পরমাণু করলে তা আর পানি থাকে না।
+
+সবচেয়ে সহজ উদাহরণ পানি: **বরফ, পানি আর জলীয় বাষ্প** একই অণু, শুধু তিনভাবে সাজানো।
+
+**কঠিন (বরফ)।** অণুগুলো খুব কাছাকাছি, প্রায় গায়ে গায়ে লাগানো, আর নির্দিষ্ট জায়গায় আটকানো। এরা শুধু জায়গায় দাঁড়িয়ে **কাঁপতে** (কম্পন) পারে। তাই কঠিনের **নির্দিষ্ট আকার ও আয়তন** আছে, চাপ দিয়ে সংকুচিত করা যায় না, প্রবাহিতও হয় না।
+
+**তরল (পানি)।** অণুগুলো এখনো কাছাকাছি (প্রায় ফাঁকা জায়গা নেই), কিন্তু একে অপরের **পাশ দিয়ে সরে যেতে** পারে। তাই তরলের **নির্দিষ্ট আয়তন আছে কিন্তু নির্দিষ্ট আকার নেই**: যে পাত্রে রাখো তার আকার নেয়, সহজে প্রবাহিত হয়, আর সংকুচিত করা প্রায় অসম্ভব।
+
+**গ্যাস (বাষ্প, বাতাস)।** অণুগুলো **অনেক দূরে দূরে**, মাঝে বিস্তর ফাঁকা জায়গা, আর এরা সব দিকে **মুক্তভাবে** দ্রুত ছোটে। তাই গ্যাসের **নির্দিষ্ট আকার বা আয়তন নেই**: যেকোনো পাত্রে পুরোটা ছড়িয়ে পড়ে, সহজে প্রবাহিত হয়, আর চাপ দিয়ে সংকুচিত করা যায়।
+
+**৫.৬.১ আণবিক গতিতত্ত্ব: গ্যাসের চাপ আসে কোথা থেকে?**
+টেবিলে রাখা কঠিন বস্তু শুধু যেখানে ছোঁয় সেখানে চাপ দেয়। তরল রাখতে পাত্র লাগে, আর তা তলায় ও দেয়ালে চাপ দেয় (পাশে ছিদ্র করলে ফিনকি দিয়ে বের হয়)। গ্যাস রাখতে বেলুনের মতো বন্ধ পাত্র লাগে, আর তা দেয়ালের প্রতিটি অংশে চাপ দেয়। কেন?
+
+বন্ধ পাত্রে গ্যাসের অণুগুলো এলোমেলোভাবে ছোটাছুটি করে। প্রতিবার দেয়ালে ধাক্কা খেয়ে অণু ফিরে আসে, তাই এর **ভরবেগ বদলায়**। ভরবেগ বদলাতে বল লাগে, তাই দেয়াল অণুকে ঠেলে, আর নিউটনের তৃতীয় সূত্র অনুযায়ী **অণুও দেয়ালকে ঠেলে**। প্রতি সেকেন্ডে প্রতি বর্গসেন্টিমিটারে অগণিত অণু ধাক্কা দেয়, আর তাদের মিলিত ঠেলাই গ্যাসের **চাপ**।
+
+**গ্যাস গরম করলে** অণুগুলো আরও দ্রুত চলে, আরও জোরে আর ঘন ঘন ধাক্কা দেয়, তাই **চাপ বাড়ে**। এজন্যই বন্ধ কৌটা কখনো আগুনে ফেলতে নেই।
+
+**৫.৬.২ চতুর্থ অবস্থা: প্লাজমা**
+সাধারণত পরমাণুতে যতগুলো প্রোটন, ততগুলো ইলেকট্রন থাকে, তাই এটি নিস্তড়িৎ। কোনো গ্যাসকে **প্রচণ্ড গরম** করলে বা **খুব শক্তিশালী তড়িৎক্ষেত্রে** রাখলে অনেক পরমাণু থেকে ইলেকট্রন ছিটকে যায়। তখন তৈরি হয় **ধনাত্মক আয়ন আর মুক্ত ইলেকট্রনের** মিশ্রণ, যার নাম **প্লাজমা**। দেখতে গ্যাসের মতো, কিন্তু আচরণ আলাদা: এটি বিদ্যুৎ পরিবহন করে, আর গ্যাসের মতো নয়, **চৌম্বকক্ষেত্র** দিয়ে একে নির্দিষ্ট আকারে ধরে রাখা যায়।
+
+প্লাজমা কোথায়? জ্বলন্ত **টিউবলাইটের** ভেতরে, **নিয়ন সাইনে**, **বিদ্যুৎ চমকানোর** ঝলকে, আর সূর্য ও নক্ষত্রে; মহাবিশ্বের দৃশ্যমান পদার্থের বেশিরভাগই প্লাজমা। বিজ্ঞানীরা গবেষণা করছেন কীভাবে গরম প্লাজমা দিয়ে **নিউক্লীয় ফিউশনে** (হালকা নিউক্লিয়াস যুক্ত করে) শক্তি উৎপাদন করা যায়, যা ভবিষ্যতের এক সম্ভাব্য পরিচ্ছন্ন শক্তির উৎস।
+## analogy
+তোমার স্কুলের কথা ভাবো। ক্লাসে ছাত্রছাত্রীরা নির্দিষ্ট আসনে বসে, শুধু নড়াচড়া করে: এটা **কঠিন**। বিরতির সময় ভিড়ের বারান্দায় একে অপরের পাশ কাটিয়ে চলে, কিন্তু কাছাকাছি থাকে: **তরল**। মাঠে যেখানে খুশি ছোটে, দূরে দূরে: **গ্যাস**। একই ছাত্রছাত্রী, ভিন্ন চলাফেরার স্বাধীনতা।
+## definition
+**কঠিন**: যে অবস্থায় অণুগুলো খুব কাছাকাছি নির্দিষ্ট জায়গায় থাকে আর শুধু কাঁপতে পারে; এর নির্দিষ্ট আকার ও আয়তন আছে।
+
+**তরল**: যে অবস্থায় অণুগুলো কাছাকাছি থাকে কিন্তু একে অপরের পাশ দিয়ে সরতে পারে; এর নির্দিষ্ট আয়তন আছে কিন্তু পাত্রের আকার নেয়।
+
+**গ্যাস**: যে অবস্থায় অণুগুলো অনেক দূরে দূরে থাকে আর মুক্তভাবে চলে; এর নির্দিষ্ট আকার বা আয়তন নেই।
+
+**আণবিক গতিতত্ত্ব**: পদার্থ অবিরাম চলমান অণু দিয়ে তৈরি; গ্যাসের চাপ হলো পাত্রের দেয়ালে এর অণুগুলোর সংঘর্ষের মিলিত একক ক্ষেত্রফলে বল, আর তাপমাত্রা (অণুর গতিশক্তি) বাড়লে এটি বাড়ে।
+
+**প্লাজমা**: পদার্থের চতুর্থ অবস্থা, ধনাত্মক আয়ন ও মুক্ত ইলেকট্রন নিয়ে গঠিত আয়নিত গ্যাস।
+## why
+গ্যাসকে চেপে ছোট করা যায়, তরলকে যায় না কেন? গ্যাসে অণুগুলো দূরে দূরে, তাই কাছে ঠেললে শুধু ফাঁকা জায়গা কমে। তরলে অণুগুলো আগে থেকেই গায়ে গায়ে লাগানো; আরও কাছে আনতে অণুগুলোর মধ্যকার জোরালো বিকর্ষণের বিরুদ্ধে ঠেলতে হবে, যার জন্য বিপুল বল লাগে।
+## terms
+অণু | পদার্থের ধর্মসহ এর ক্ষুদ্রতম একক
+কম্পন | নির্দিষ্ট অবস্থানের দুই পাশে দ্রুত আসা-যাওয়া
+সংকোচনযোগ্য | চেপে কম আয়তনে আনা যায় (গ্যাস)
+আণবিক গতিতত্ত্ব | চলমান অণু দিয়ে পদার্থের অবস্থা ও গ্যাসের চাপের ব্যাখ্যা
+আয়ন | ইলেকট্রন হারানো (বা পাওয়া) পরমাণু বা অণু
+প্লাজমা | আয়ন ও মুক্ত ইলেকট্রনের আয়নিত গ্যাস; পদার্থের চতুর্থ অবস্থা
+## visual
+কঠিন, তরল, গ্যাস আর প্লাজমার মধ্যে বদলাও, আর দেখো কণাগুলো কীভাবে সাজানো ও কীভাবে চলে। তাপমাত্রা বাড়িয়ে দেখো গ্যাসের অণু দেয়ালে আরও জোরে ধাক্কা দেয়।
+## real
+টিউবলাইট জ্বলে কারণ তড়িৎক্ষেত্র ভেতরের পারদ বাষ্পকে প্লাজমায় পরিণত করে, যা অতিবেগুনি আলো ছাড়ে, আর সেই আলো টিউবের গায়ের প্রলেপকে উজ্জ্বল করে। ফুটবল বা সাইকেলের টায়ার শক্ত থাকে কারণ অগণিত বাতাসের অণু অবিরাম এর ভেতরের দেয়ালে ধাক্কা দেয়। গরম দুপুরে বেশি ফোলানো টায়ার ফেটে যেতে পারে, কারণ তাপে চাপ বাড়ে।
+## mistakes
+x কঠিন পদার্থের অণু একদম নড়ে না।
+v এরা নির্দিষ্ট অবস্থানের চারপাশে কাঁপে; শুধু এক জায়গা থেকে আরেক জায়গায় যেতে পারে না।
+x প্লাজমা মানে শুধু খুব গরম গ্যাস।
+v এটি আয়নিত: এতে মুক্ত ইলেকট্রন ও আয়ন থাকে, বিদ্যুৎ পরিবহন করে আর চৌম্বকক্ষেত্র দিয়ে আকার দেওয়া যায়, যা সাধারণ গ্যাসে হয় না।
+x গ্যাসের চাপ আসে গ্যাসের ওজন থেকে।
+v বন্ধ পাত্রে এটি মূলত দেয়ালে অণুর সংঘর্ষ থেকে আসে; এজন্যই ওপরের দেয়ালসহ সব দেয়ালে সমান চাপ পড়ে।
+## remember
+- কঠিন: কাছাকাছি, আটকানো, কাঁপে → নির্দিষ্ট আকার ও আয়তন।
+- তরল: কাছাকাছি, পাশ দিয়ে সরে → নির্দিষ্ট আয়তন, পাত্রের আকার নেয়।
+- গ্যাস: দূরে দূরে, মুক্তভাবে চলে → নির্দিষ্ট আকার বা আয়তন নেই; সংকোচনযোগ্য।
+- গ্যাসের চাপ = দেয়ালে অণুর ধাক্কা; বেশি গরম → বেশি চাপ।
+- প্লাজমা = আয়ন + মুক্ত ইলেকট্রন (টিউবলাইট, বিদ্যুৎ চমক, নক্ষত্র); চৌম্বকক্ষেত্রে আকার দেওয়া যায়।
+## think
+বেলুনের গায়ে স্কচটেপ লাগিয়ে টেপের ভেতর দিয়ে সুই ঢোকালে বেলুন ফাটে না, ধীরে ধীরে বাতাস বের হয়। তোমার কী মনে হয়, টেপ কীভাবে ফাটা আটকায়?
+## quiz
+? কোন অবস্থায় অণুগুলো শুধু নির্দিষ্ট অবস্থানের চারপাশে কাঁপে?
+* কঠিন
+- তরল
+- গ্যাস
+- প্লাজমা
+= কঠিনে অণুগুলো জায়গায় আটকানো, শুধু কাঁপতে পারে।
+? যে পদার্থের নির্দিষ্ট আয়তন আছে কিন্তু পাত্রের আকার নেয়:
+- কঠিন
+* তরল
+- গ্যাস
+- প্লাজমা
+= তরলের আয়তন নির্দিষ্ট, আকার নির্দিষ্ট নয়।
+? আণবিক গতিতত্ত্ব অনুযায়ী গ্যাসের চাপ তৈরি হয়:
+- পাত্রের ওজন থেকে
+* পাত্রের দেয়ালে অণুর সংঘর্ষ থেকে
+- অণুগুলো স্থির থাকার কারণে
+- গ্যাসে আলো পড়ার কারণে
+= প্রতিটি সংঘর্ষে অণুর ভরবেগ বদলায় আর দেয়ালে ঠেলা পড়ে।
+? পদার্থের চতুর্থ অবস্থা:
+- বাষ্প
+- বরফ
+* প্লাজমা
+- কুয়াশা
+= প্লাজমা হলো আয়ন ও মুক্ত ইলেকট্রনের আয়নিত গ্যাস।

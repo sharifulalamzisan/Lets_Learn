@@ -1,0 +1,1647 @@
+@@chapter
+== en
+## intro
+A cyclist on the road, a car, a plane in the sky, the Earth going round the Sun, a swinging bulb, a bullet leaving a rifle: these motions look completely different. The surprising thing is that all of them can be described with just a few quantities: **position, distance, displacement, speed, velocity, acceleration and time**.
+
+In this chapter you will learn what these quantities mean, their units and dimensions, and how they are connected by the **equations of motion**. You will also see Galileo's laws of falling bodies and learn to read motion from graphs, a skill you will use again and again.
+## objectives
+- explain rest and motion, and why all motion is relative
+- tell the different types of motion apart
+- explain scalar and vector quantities
+- tell distance from displacement and speed from velocity
+- calculate acceleration and use the equations of motion
+- explain the motion of freely falling bodies with Galileo's laws
+- find velocity and acceleration from graphs
+- relate motion to everyday life and road safety
+== bn
+## intro
+রাস্তায় সাইকেল, গাড়ি, আকাশে উড়োজাহাজ, সূর্যের চারপাশে পৃথিবী, দুলতে থাকা বাল্ব, রাইফেল থেকে ছোটা বুলেট: এই গতিগুলো দেখতে একদম আলাদা। মজার ব্যাপার হলো, এর সবগুলোকেই মাত্র কয়েকটি রাশি দিয়ে বর্ণনা করা যায়: **অবস্থান, দূরত্ব, সরণ, দ্রুতি, বেগ, ত্বরণ আর সময়**।
+
+এই অধ্যায়ে শিখবে এই রাশিগুলোর অর্থ, একক ও মাত্রা, আর **গতির সমীকরণ** দিয়ে এরা কীভাবে যুক্ত। আরও দেখবে গ্যালিলিওর পড়ন্ত বস্তুর সূত্র, আর লেখচিত্র দেখে গতি বোঝার কৌশল, যা বারবার কাজে লাগবে।
+## objectives
+- স্থিতি ও গতি ব্যাখ্যা করতে পারবে এবং সব গতি কেন আপেক্ষিক তা বলতে পারবে
+- বিভিন্ন প্রকার গতির পার্থক্য করতে পারবে
+- স্কেলার ও ভেক্টর রাশি ব্যাখ্যা করতে পারবে
+- দূরত্ব ও সরণ, দ্রুতি ও বেগের পার্থক্য করতে পারবে
+- ত্বরণ হিসাব করতে এবং গতির সমীকরণ ব্যবহার করতে পারবে
+- গ্যালিলিওর সূত্র দিয়ে মুক্তভাবে পড়ন্ত বস্তুর গতি ব্যাখ্যা করতে পারবে
+- লেখচিত্র থেকে বেগ ও ত্বরণ বের করতে পারবে
+- দৈনন্দিন জীবন ও সড়ক নিরাপত্তার সাথে গতির সম্পর্ক বুঝতে পারবে
+
+@@ 2.1
+@visual relative
+@related 2.2 2.4
+== en
+## what
+An object is **at rest** if its position does not change with time, and **in motion** if its position changes with time. But "position" only makes sense when we say **from where**, so rest and motion always depend on the point we measure from.
+## simple
+If someone asks where your school is and you say "Jhiltuli", they still don't know exactly where it is. If you say "1 km from our house gate", they still don't know which way. Only when you say "**1 km east of our house gate**" is the position clear.
+
+So to give a position you need three things: a **reference point** (here, the house gate), a **distance**, and a **direction**. The reference point is also called the **origin**, and you can choose any convenient point: a bus stop, a shop, a tree.
+
+Now imagine you are sitting in a moving train with a friend opposite you.
+
+- From **your seat**, your friend is not moving. Your friend is at rest.
+- For a person **standing on the platform**, you and your friend are both moving.
+
+Who is right? **Both are!** Each is describing the motion from a different reference point. That is why we say **all rest and all motion are relative**.
+
+Could we find a reference point that is truly at rest? The Earth spins, the Earth goes round the Sun, the Sun goes round the centre of our galaxy, and the galaxy itself moves. There is no point in the universe we can call absolutely at rest. So in practice we pick a point that seems still for our purpose, usually the ground, and measure everything from there.
+## analogy
+You and a friend sit side by side on a rickshaw. To each other, you are **at rest**: the distance between you never changes. To a tea-seller on the footpath, you are both **moving**. Nobody is wrong; each answer is true for a different reference point. That is all "relative" means.
+## definition
+**Rest**: if the position of an object does not change with time relative to a reference point, the object is at rest relative to that point.
+
+**Motion**: if the position of an object changes with time relative to a reference point, the object is in motion relative to that point.
+
+**Reference point (origin)**: the point from which the position of an object is measured.
+## why
+Why can't we tell who is "really" moving? If the train moves smoothly at a steady speed with no jerks, nothing inside the train tells you that it is moving. A ball dropped inside falls straight down, just like on the ground. So there is no experiment that can prove which one is "truly" at rest; we can only say how things move **relative to each other**.
+## terms
+Position | Where an object is: distance and direction from a reference point
+Reference point / origin | The point we measure position from
+Rest | Position not changing with time
+Motion | Position changing with time
+Relative | Depending on the reference point chosen
+## visual
+Switch between watching from the platform and from inside the train. The same scene is described in two different, equally correct ways.
+## real
+When you sit in a train at a station and the train on the next track starts moving, for a moment you often feel that **your** train has started. Your brain has taken the other train as the reference point. You only realise the truth when you look at the platform.
+## mistakes
+x A person sitting on a bus is at rest.
+v They are at rest relative to the bus, but in motion relative to the road. Always say "relative to what".
+x The Earth's surface is absolutely at rest.
+v The Earth rotates and revolves. We only treat the ground as at rest because it is convenient.
+## remember
+- Rest: position does not change with time; motion: position changes with time.
+- Position needs a reference point, a distance and a direction.
+- All rest and motion are relative; no point in the universe is absolutely at rest.
+- In daily life we usually take the ground as the reference point.
+## think
+An astronaut floats inside the International Space Station, which goes round the Earth at about 7.7 km every second. Is the astronaut at rest or moving? Answer twice: once relative to the station, once relative to the Earth.
+## quiz
+? To state the position of an object completely, we need:
+- Only its distance
+- Only its direction
+* A reference point, a distance and a direction
+- Its speed
+= Position is always given as a distance in a certain direction from a reference point.
+? You sit in a moving bus. Relative to the bus driver you are:
+* At rest
+- Moving forward
+- Moving backward
+- Accelerating
+= You and the driver keep the same positions relative to each other.
+? Why can't we find an object that is absolutely at rest?
+- Because objects are too small
+* Because the Earth, the Sun and the galaxy are all moving
+- Because time does not exist
+- Because we have no instruments
+= Every possible reference point in the universe is itself moving relative to something else.
+== bn
+## what
+কোনো বস্তুর অবস্থান সময়ের সাথে না বদলালে বস্তুটি **স্থির**, আর সময়ের সাথে বদলালে বস্তুটি **গতিশীল**। তবে "অবস্থান" বলতে গেলে বলতেই হয় **কোথা থেকে**, তাই স্থিতি আর গতি সবসময় নির্ভর করে কোন বিন্দু থেকে মাপছি তার ওপর।
+## simple
+কেউ যদি জানতে চায় তোমার স্কুল কোথায় আর তুমি বলো "ঝিলটুলি", তবুও সে ঠিক জায়গাটা জানে না। যদি বলো "আমাদের বাসার গেট থেকে ১ কিলোমিটার দূরে", তবুও সে জানে না কোন দিকে। শুধু যখন বলো "**আমাদের বাসার গেট থেকে ১ কিলোমিটার পূর্বে**", তখনই অবস্থান স্পষ্ট হয়।
+
+তাই অবস্থান বলতে তিনটি জিনিস লাগে: একটি **প্রসঙ্গ বিন্দু** (এখানে বাসার গেট), একটি **দূরত্ব**, আর একটি **দিক**। প্রসঙ্গ বিন্দুকে **মূলবিন্দু**ও বলে, আর সুবিধামতো যেকোনো বিন্দু বেছে নেওয়া যায়: বাসস্ট্যান্ড, দোকান, একটা গাছ।
+
+এবার ভাবো, তুমি চলন্ত ট্রেনে বসে আছ, সামনে বসে আছে তোমার বন্ধু।
+
+- **তোমার সিট থেকে** বন্ধু নড়ছে না। বন্ধু স্থির।
+- **প্ল্যাটফর্মে দাঁড়ানো** একজনের কাছে তুমি আর তোমার বন্ধু দুজনেই চলছ।
+
+কে ঠিক? **দুজনেই!** প্রত্যেকে আলাদা প্রসঙ্গ বিন্দু থেকে গতি বর্ণনা করছেন। তাই বলা হয় **সব স্থিতি ও সব গতিই আপেক্ষিক**।
+
+এমন কোনো প্রসঙ্গ বিন্দু কি পাওয়া যায় যা সত্যিই স্থির? পৃথিবী নিজের অক্ষে ঘোরে, সূর্যের চারপাশে ঘোরে, সূর্য ঘোরে আমাদের গ্যালাক্সির কেন্দ্রের চারপাশে, আর গ্যালাক্সি নিজেও চলছে। মহাবিশ্বে পরম স্থির বলা যায় এমন কোনো বিন্দু নেই। তাই বাস্তবে আমাদের কাজের জন্য যে বিন্দুটা স্থির মনে হয়, সাধারণত মাটি, সেটাকেই ধরে সব মাপি।
+## analogy
+তুমি আর তোমার বন্ধু রিকশায় পাশাপাশি বসে আছ। একে অপরের কাছে তোমরা **স্থির**: তোমাদের মাঝের দূরত্ব বদলায় না। ফুটপাতের চা-বিক্রেতার কাছে তোমরা দুজনই **গতিশীল**। কেউ ভুল নয়; প্রতিটি উত্তর আলাদা প্রসঙ্গ বিন্দুর জন্য সত্য। "আপেক্ষিক" মানে শুধু এটুকুই।
+## definition
+**স্থিতি**: কোনো প্রসঙ্গ বিন্দুর সাপেক্ষে সময়ের সাথে বস্তুর অবস্থানের পরিবর্তন না হলে বস্তুটি ওই বিন্দুর সাপেক্ষে স্থির।
+
+**গতি**: কোনো প্রসঙ্গ বিন্দুর সাপেক্ষে সময়ের সাথে বস্তুর অবস্থানের পরিবর্তন হলে বস্তুটি ওই বিন্দুর সাপেক্ষে গতিশীল।
+
+**প্রসঙ্গ বিন্দু (মূলবিন্দু)**: যে বিন্দু থেকে বস্তুর অবস্থান মাপা হয়।
+## why
+কে "আসলে" চলছে বলা যায় না কেন? ট্রেন যদি ঝাঁকুনি ছাড়া সমবেগে চলে, ট্রেনের ভেতরের কোনো কিছুই বলে দেয় না যে ট্রেন চলছে। ভেতরে একটা বল ফেললে সোজা নিচে পড়ে, ঠিক মাটিতে যেমন পড়ে। তাই এমন কোনো পরীক্ষা নেই যা প্রমাণ করে কে "সত্যিই" স্থির; আমরা শুধু বলতে পারি জিনিসগুলো **একে অপরের সাপেক্ষে** কীভাবে চলছে।
+## terms
+অবস্থান | বস্তু কোথায়: প্রসঙ্গ বিন্দু থেকে দূরত্ব ও দিক
+প্রসঙ্গ বিন্দু / মূলবিন্দু | যে বিন্দু থেকে অবস্থান মাপা হয়
+স্থিতি | সময়ের সাথে অবস্থান বদলায় না
+গতি | সময়ের সাথে অবস্থান বদলায়
+আপেক্ষিক | কোন প্রসঙ্গ বিন্দু বেছে নেওয়া হলো তার ওপর নির্ভরশীল
+## visual
+প্ল্যাটফর্ম থেকে আর ট্রেনের ভেতর থেকে দেখার মধ্যে বদলে দেখো। একই দৃশ্য দুইভাবে বর্ণনা করা যায়, আর দুটোই সমান সঠিক।
+## real
+স্টেশনে ট্রেনে বসে থাকার সময় পাশের লাইনের ট্রেনটা চলতে শুরু করলে অনেক সময় মুহূর্তের জন্য মনে হয় **তোমার** ট্রেনটাই চলছে। তোমার মস্তিষ্ক অন্য ট্রেনটাকে প্রসঙ্গ বিন্দু ধরে নিয়েছে। প্ল্যাটফর্মের দিকে তাকালে তবেই আসল ব্যাপারটা বোঝা যায়।
+## mistakes
+x বাসে বসে থাকা মানুষ স্থির।
+v বাসের সাপেক্ষে স্থির, কিন্তু রাস্তার সাপেক্ষে গতিশীল। সবসময় বলো "কীসের সাপেক্ষে"।
+x পৃথিবীর পৃষ্ঠ পরম স্থির।
+v পৃথিবী আহ্নিক ও বার্ষিক গতিতে চলছে। সুবিধার জন্য আমরা মাটিকে স্থির ধরি।
+## remember
+- স্থিতি: সময়ের সাথে অবস্থান বদলায় না; গতি: সময়ের সাথে অবস্থান বদলায়।
+- অবস্থান বলতে লাগে প্রসঙ্গ বিন্দু, দূরত্ব ও দিক।
+- সব স্থিতি ও গতি আপেক্ষিক; মহাবিশ্বে পরম স্থির কোনো বিন্দু নেই।
+- দৈনন্দিন জীবনে সাধারণত মাটিকেই প্রসঙ্গ বিন্দু ধরা হয়।
+## think
+আন্তর্জাতিক মহাকাশ স্টেশন প্রতি সেকেন্ডে প্রায় ৭.৭ কিলোমিটার বেগে পৃথিবীর চারপাশে ঘোরে। ভেতরে ভাসতে থাকা নভোচারী কি স্থির, না গতিশীল? দুইবার উত্তর দাও: একবার স্টেশনের সাপেক্ষে, একবার পৃথিবীর সাপেক্ষে।
+## quiz
+? কোনো বস্তুর অবস্থান পুরোপুরি বলতে লাগে:
+- শুধু দূরত্ব
+- শুধু দিক
+* প্রসঙ্গ বিন্দু, দূরত্ব ও দিক
+- দ্রুতি
+= অবস্থান সবসময় প্রসঙ্গ বিন্দু থেকে নির্দিষ্ট দিকে দূরত্ব হিসেবে বলা হয়।
+? তুমি চলন্ত বাসে বসে আছ। বাসচালকের সাপেক্ষে তুমি:
+* স্থির
+- সামনে চলছ
+- পেছনে চলছ
+- ত্বরণে আছ
+= তুমি আর চালক একে অপরের সাপেক্ষে একই অবস্থানে থাকো।
+? পরম স্থির কোনো বস্তু পাওয়া যায় না কেন?
+- বস্তু খুব ছোট বলে
+* পৃথিবী, সূর্য, গ্যালাক্সি সবই চলছে বলে
+- সময়ের অস্তিত্ব নেই বলে
+- যন্ত্র নেই বলে
+= মহাবিশ্বের সম্ভাব্য প্রতিটি প্রসঙ্গ বিন্দু নিজেও অন্য কিছুর সাপেক্ষে চলছে।
+
+@@ 2.2
+@visual motiontypes
+@related 2.1 7.1
+== en
+## what
+Motions around us come in a few basic **types**: linear, circular, translational, rotational, periodic and simple harmonic. Knowing the type helps us describe and analyse a motion.
+## simple
+Let's meet each type with an everyday example.
+
+**Linear motion**: moving along a **straight line**. A ball dropped from a roof falls straight down; a box pushed on a smooth floor slides straight.
+
+**Circular motion**: moving around a point or line while staying at the **same distance** from it. The tips of fan blades, the hands of a clock, and, most beautifully, the **Moon going round the Earth**. The Moon is not tied to the Earth, yet it neither flies away nor falls down.
+
+**Translational motion**: every particle of the object moves the **same distance, in the same direction, in the same time**. A car moving straight along a road (ignoring its spinning wheels) is a good example. The object moves without turning. Translational motion along a curve is possible but rare, because the object must not turn at all.
+
+**Rotational motion**: the object spins about a fixed axis, like a spinning top or a fan. Different points move in circles of different sizes.
+
+**Periodic motion**: the object passes the **same point, in the same direction, after equal intervals of time**. That interval is the **period**. Your heartbeat, a fan blade, the Earth going round the Sun, and a mass bouncing on a spring are all periodic.
+
+**Simple harmonic motion (SHM)**: a special periodic motion where the object moves **to and fro about an equilibrium point**. Its speed is zero at the two ends and greatest in the middle. A child on a swing, a clock pendulum and a mass on a spring move like this. When we speak, air molecules vibrate in this way to carry sound.
+## definition
+- **Linear motion**: motion along a straight line.
+- **Circular motion**: motion of a body around a fixed point or line, keeping its distance from that point unchanged.
+- **Translational motion**: motion in which every particle of a body moves the same distance in the same direction in the same time.
+- **Rotational motion**: motion of a body about a fixed axis, in which its particles move along circles.
+- **Periodic motion**: motion in which a body passes through a given point in the same direction in the same manner after equal intervals of time. The interval is called the **period**.
+- **Simple harmonic motion**: a periodic to-and-fro motion about an equilibrium point, in which the speed is zero at the extreme ends and maximum at the equilibrium point.
+## why
+Why can one motion belong to more than one type? Because the types describe different features. A fan blade's tip is in **circular** motion (same distance from the centre) and also **periodic** (it comes back every turn). A swing is **periodic** and also **simple harmonic** (to and fro about the lowest point). Linear and oscillatory can combine too: a runner swinging her arms while running straight.
+## terms
+Linear | Straight-line motion
+Circular | Round a point at a constant distance
+Translational | Every point moves equally, without turning
+Rotational | Spinning about an axis
+Period | Time for one repetition of a periodic motion
+Equilibrium point | The central position about which an object oscillates
+## visual
+Pick a type of motion to watch it. Red dots mark particular points of the object so you can follow them.
+## real
+A ceiling fan in your room shows rotational, circular and periodic motion at once. Its blade tips go round in circles, the whole blade spins about the axis, and the motion repeats every turn. A pendulum clock shows simple harmonic motion, which is why it keeps good time.
+## mistakes
+x Periodic motion must be circular.
+v Periodic motion only needs to repeat after equal time intervals. A mass on a spring moves in a straight line and is still periodic.
+x In simple harmonic motion the speed is the same everywhere.
+v The speed is zero at the two ends and greatest at the equilibrium point.
+x A car wheel is in translational motion.
+v The car body is in translational motion; the wheel also rotates.
+## remember
+- Linear: straight line. Circular: round a point at constant distance.
+- Translational: every point moves the same distance in the same direction at the same time.
+- Rotational: spinning about an axis.
+- Periodic: repeats after equal intervals (the period).
+- SHM: to and fro about an equilibrium point; zero speed at the ends, maximum in the middle.
+## think
+The Earth spins on its axis once a day and goes round the Sun once a year. Name all the types of motion the Earth has.
+## quiz
+? The motion of a clock's pendulum is best described as:
+- Linear
+- Translational
+* Simple harmonic
+- Not periodic
+= It swings to and fro about its lowest (equilibrium) point, repeating after equal intervals.
+? In simple harmonic motion, where is the speed greatest?
+- At the two ends
+* At the equilibrium point
+- Everywhere the same
+- Just before the ends
+= Speed is zero at the ends and increases to a maximum at the equilibrium point.
+? A box slides straight across the floor without turning. Every point moves the same distance in the same time. This is:
+* Translational motion
+- Rotational motion
+- Circular motion
+- Simple harmonic motion
+= Equal distance, same direction, same time for every particle defines translational motion.
+== bn
+## what
+আমাদের চারপাশের গতিগুলোকে কয়েকটি মূল **প্রকারে** ভাগ করা যায়: রৈখিক, বৃত্তাকার, চলন, ঘূর্ণন, পর্যায়বৃত্ত আর সরল ছন্দিত স্পন্দন। গতির প্রকার জানলে তা বর্ণনা ও বিশ্লেষণ করা সহজ হয়।
+## simple
+চলো প্রতিটি প্রকারকে রোজকার উদাহরণ দিয়ে চিনি।
+
+**রৈখিক গতি**: **সরলরেখা** বরাবর চলা। ছাদ থেকে ফেলা বল সোজা নিচে পড়ে; মসৃণ মেঝেতে ধাক্কা দেওয়া বাক্স সোজা সরে যায়।
+
+**বৃত্তাকার গতি**: কোনো বিন্দু বা রেখার চারদিকে **একই দূরত্বে** থেকে ঘোরা। ফ্যানের পাখার প্রান্ত, ঘড়ির কাঁটা, আর সবচেয়ে সুন্দর উদাহরণ **পৃথিবীর চারপাশে চাঁদ**। চাঁদ পৃথিবীর সাথে বাঁধা নয়, তবুও ছিটকে যায় না, পড়েও যায় না।
+
+**চলন গতি**: বস্তুর প্রতিটি কণা **একই সময়ে একই দিকে একই দূরত্ব** যায়। রাস্তায় সোজা চলা গাড়ি (চাকার ঘোরা বাদ দিলে) এর ভালো উদাহরণ। বস্তু না ঘুরে সরে যায়। বাঁকা পথেও চলন গতি সম্ভব, তবে বিরল, কারণ বস্তুকে একটুও ঘুরতে দেওয়া চলবে না।
+
+**ঘূর্ণন গতি**: বস্তু একটি স্থির অক্ষের চারদিকে ঘোরে, যেমন লাটিম বা ফ্যান। বিভিন্ন বিন্দু বিভিন্ন আকারের বৃত্তে চলে।
+
+**পর্যায়বৃত্ত গতি**: বস্তু **নির্দিষ্ট সময় পরপর একই বিন্দু দিয়ে একই দিকে** যায়। এই সময়টিকে বলে **পর্যায়কাল**। তোমার হৃৎস্পন্দন, ফ্যানের পাখা, সূর্যের চারপাশে পৃথিবী, স্প্রিংয়ে দোলা ভর সবই পর্যায়বৃত্ত।
+
+**সরল ছন্দিত স্পন্দন**: একটি বিশেষ পর্যায়বৃত্ত গতি, যেখানে বস্তু একটি **সাম্যাবস্থা বিন্দুর দুই পাশে আসা-যাওয়া** করে। দুই প্রান্তে দ্রুতি শূন্য, মাঝখানে সবচেয়ে বেশি। দোলনায় শিশু, ঘড়ির দোলক, স্প্রিংয়ে ঝোলানো ভর এভাবে চলে। কথা বলার সময় বাতাসের অণুগুলো এভাবে কেঁপে শব্দ বয়ে নেয়।
+## definition
+- **রৈখিক গতি**: সরলরেখা বরাবর গতি।
+- **বৃত্তাকার গতি**: কোনো নির্দিষ্ট বিন্দু বা রেখা থেকে দূরত্ব অপরিবর্তিত রেখে তার চারদিকে বস্তুর গতি।
+- **চলন গতি**: যে গতিতে বস্তুর প্রতিটি কণা একই সময়ে একই দিকে একই দূরত্ব অতিক্রম করে।
+- **ঘূর্ণন গতি**: একটি স্থির অক্ষের চারদিকে বস্তুর গতি, যেখানে কণাগুলো বৃত্তপথে চলে।
+- **পর্যায়বৃত্ত গতি**: যে গতিতে বস্তু নির্দিষ্ট সময় পরপর কোনো নির্দিষ্ট বিন্দু দিয়ে একই দিকে একইভাবে যায়। এই সময়কে **পর্যায়কাল** বলে।
+- **সরল ছন্দিত স্পন্দন**: সাম্যাবস্থা বিন্দুর দুই পাশে পর্যায়বৃত্ত আসা-যাওয়া গতি, যেখানে দুই প্রান্তে দ্রুতি শূন্য এবং সাম্যাবস্থা বিন্দুতে সর্বোচ্চ।
+## why
+একটি গতি একাধিক প্রকারে পড়তে পারে কেন? কারণ প্রকারগুলো গতির ভিন্ন ভিন্ন বৈশিষ্ট্য বোঝায়। ফ্যানের পাখার প্রান্ত **বৃত্তাকার** গতিতে (কেন্দ্র থেকে একই দূরত্বে), আবার **পর্যায়বৃত্ত**ও (প্রতি ঘূর্ণনে ফিরে আসে)। দোলনা **পর্যায়বৃত্ত** এবং **সরল ছন্দিত স্পন্দন** (সবচেয়ে নিচের বিন্দুর দুই পাশে আসা-যাওয়া)। রৈখিক আর স্পন্দন গতিও একসাথে হতে পারে: সোজা দৌড়াতে দৌড়াতে হাত দোলানো।
+## terms
+রৈখিক | সরলরেখায় গতি
+বৃত্তাকার | একটি বিন্দুর চারদিকে একই দূরত্বে ঘোরা
+চলন | না ঘুরে প্রতিটি বিন্দু সমান দূরত্ব যায়
+ঘূর্ণন | অক্ষের চারদিকে ঘোরা
+পর্যায়কাল | পর্যায়বৃত্ত গতির একবার পুনরাবৃত্তির সময়
+সাম্যাবস্থা বিন্দু | যে কেন্দ্রীয় অবস্থানের দুই পাশে বস্তু দোলে
+## visual
+একটি গতির প্রকার বেছে নিয়ে দেখো। লাল বিন্দুগুলো বস্তুর নির্দিষ্ট কিছু জায়গা চিহ্নিত করে, যাতে সেগুলো অনুসরণ করতে পারো।
+## real
+তোমার ঘরের সিলিং ফ্যান একসাথে ঘূর্ণন, বৃত্তাকার আর পর্যায়বৃত্ত গতি দেখায়। পাখার প্রান্ত বৃত্তে ঘোরে, পুরো পাখা অক্ষের চারদিকে ঘোরে, আর প্রতি ঘূর্ণনে গতির পুনরাবৃত্তি হয়। দোলক ঘড়ি সরল ছন্দিত স্পন্দন দেখায়, তাই এটি সঠিক সময় রাখে।
+## mistakes
+x পর্যায়বৃত্ত গতি অবশ্যই বৃত্তাকার।
+v পর্যায়বৃত্ত গতির শুধু সমান সময় পরপর পুনরাবৃত্তি হতে হয়। স্প্রিংয়ে ভর সরলরেখায় চলে, তবুও পর্যায়বৃত্ত।
+x সরল ছন্দিত স্পন্দনে সব জায়গায় দ্রুতি একই।
+v দুই প্রান্তে দ্রুতি শূন্য, সাম্যাবস্থা বিন্দুতে সবচেয়ে বেশি।
+x গাড়ির চাকা চলন গতিতে আছে।
+v গাড়ির দেহ চলন গতিতে; চাকা এর সাথে ঘূর্ণন গতিতেও আছে।
+## remember
+- রৈখিক: সরলরেখা। বৃত্তাকার: একটি বিন্দুর চারদিকে একই দূরত্বে।
+- চলন: প্রতিটি বিন্দু একই সময়ে একই দিকে একই দূরত্ব যায়।
+- ঘূর্ণন: অক্ষের চারদিকে ঘোরা।
+- পর্যায়বৃত্ত: সমান সময় পরপর পুনরাবৃত্তি (পর্যায়কাল)।
+- সরল ছন্দিত স্পন্দন: সাম্যাবস্থার দুই পাশে আসা-যাওয়া; প্রান্তে দ্রুতি শূন্য, মাঝে সর্বোচ্চ।
+## think
+পৃথিবী দিনে একবার নিজের অক্ষে ঘোরে আর বছরে একবার সূর্যের চারপাশে ঘোরে। পৃথিবীর কী কী প্রকার গতি আছে বলো।
+## quiz
+? ঘড়ির দোলকের গতিকে সবচেয়ে ভালোভাবে বলা যায়:
+- রৈখিক
+- চলন
+* সরল ছন্দিত স্পন্দন
+- পর্যায়বৃত্ত নয়
+= এটি সবচেয়ে নিচের (সাম্যাবস্থা) বিন্দুর দুই পাশে সমান সময় পরপর দোলে।
+? সরল ছন্দিত স্পন্দনে দ্রুতি কোথায় সবচেয়ে বেশি?
+- দুই প্রান্তে
+* সাম্যাবস্থা বিন্দুতে
+- সব জায়গায় সমান
+- প্রান্তের ঠিক আগে
+= প্রান্তে দ্রুতি শূন্য, সাম্যাবস্থা বিন্দুতে বেড়ে সর্বোচ্চ হয়।
+? একটি বাক্স না ঘুরে মেঝের ওপর দিয়ে সোজা সরে যাচ্ছে। প্রতিটি বিন্দু একই সময়ে একই দূরত্ব যাচ্ছে। এটি:
+* চলন গতি
+- ঘূর্ণন গতি
+- বৃত্তাকার গতি
+- সরল ছন্দিত স্পন্দন
+= প্রতিটি কণার একই সময়ে একই দিকে সমান দূরত্ব যাওয়াই চলন গতি।
+
+@@ 2.3
+@visual sortsv
+@related 2.4 2.5 1.5
+== en
+## what
+Some quantities are fully described by a **number with a unit** (scalars). Others also need a **direction** (vectors).
+## simple
+Your body temperature is 37 °C. That single number says everything; nobody asks "37 °C in which direction?" Temperature is a **scalar**.
+
+But if a friend says "the shop is 500 m away", you still don't know where to go. You need "500 m **north**". Position needs a direction, so it is a **vector**.
+
+A quick test: **ask "in which direction?"** If the question makes sense and matters, the quantity is a vector.
+
+- Scalars: mass, time, length, distance, speed, temperature, energy.
+- Vectors: position, displacement, velocity, acceleration, force.
+
+Note that joy and sadness are not quantities at all: we cannot measure them and give them a value.
+
+**How vectors are written.** In printed books a vector is shown in **bold** (like **A**). By hand, we draw a small arrow above the letter. A vector is drawn as an **arrow**: its length shows the size (magnitude) and its head shows the direction. Two arrows of the same length and direction represent equal vectors, even if they are drawn in different places.
+## analogy
+If you tell a rickshaw-puller "go 2 km", he will ask "which way?". 2 km is not enough to reach a place: you also need a **direction**. Quantities like that are **vectors**. But if you say "this bag has a mass of 2 kg", nobody asks "which way?": that is a **scalar**.
+## definition
+**Scalar quantity**: a quantity that is completely expressed by its magnitude (a number with a unit) alone. Examples: mass, time, length, temperature.
+
+**Vector quantity**: a quantity that needs both magnitude and direction to be completely expressed. Examples: displacement, velocity, acceleration, force.
+## why
+Why does direction matter so much? Because two vectors of the same size can have opposite effects. Two people pushing a car with the same force from opposite sides get nowhere. Walking 3 km east and then 3 km west brings you back home: your total displacement is zero, though you walked 6 km. Only by including direction can we add such quantities correctly.
+## terms
+Scalar | Only magnitude (number + unit)
+Vector | Magnitude and direction
+Magnitude | The size of a quantity
+Arrow representation | Length = magnitude, arrowhead = direction
+## visual
+Sort each quantity. Ask yourself: does it need a direction?
+## real
+A weather report says "wind speed 20 km/h from the south". That is a vector (wind velocity): pilots and fishermen need the direction, not just the speed. The temperature in the same report, 31 °C, is a scalar.
+## mistakes
+x Speed and velocity are both vectors.
+v Speed is a scalar. Velocity is speed in a given direction, so it is a vector.
+x Any quantity that can be negative is a vector.
+v Temperature can be −5 °C, but it is still a scalar. The minus sign there does not show a direction.
+## remember
+- Scalar: magnitude only (mass, time, length, distance, speed, temperature).
+- Vector: magnitude + direction (displacement, velocity, acceleration, force).
+- Vectors are printed bold or written with an arrow on top; drawn as arrows.
+## think
+Is "time" a vector? Time always moves forward; does that count as a direction in the physics sense?
+## quiz
+? Which of these is a vector quantity?
+- Mass
+- Temperature
+* Velocity
+- Distance
+= Velocity needs a direction as well as a magnitude.
+? Which of these is a scalar quantity?
+- Force
+- Displacement
+- Acceleration
+* Time
+= Time is fully given by a number with a unit.
+? Two equal vectors must have:
+- Only the same magnitude
+- Only the same direction
+* The same magnitude and the same direction
+- The same starting point
+= Equal vectors match in both size and direction, wherever they are drawn.
+== bn
+## what
+কিছু রাশি শুধু **একক সহ একটি সংখ্যা** দিয়েই পুরোপুরি বোঝা যায় (স্কেলার)। আর কিছু রাশির জন্য **দিকও** লাগে (ভেক্টর)।
+## simple
+তোমার শরীরের তাপমাত্রা ৩৭ °C। এই একটি সংখ্যাই সব বলে দেয়; কেউ জিজ্ঞেস করে না "৩৭ °C কোন দিকে?" তাপমাত্রা **স্কেলার**।
+
+কিন্তু বন্ধু যদি বলে "দোকানটা ৫০০ m দূরে", তুমি এখনো জানো না কোন দিকে যাবে। বলতে হবে "৫০০ m **উত্তরে**"। অবস্থানে দিক লাগে, তাই এটি **ভেক্টর**।
+
+সহজ পরীক্ষা: **জিজ্ঞেস করো "কোন দিকে?"** প্রশ্নটার অর্থ থাকলে আর গুরুত্বপূর্ণ হলে রাশিটি ভেক্টর।
+
+- স্কেলার: ভর, সময়, দৈর্ঘ্য, দূরত্ব, দ্রুতি, তাপমাত্রা, শক্তি।
+- ভেক্টর: অবস্থান, সরণ, বেগ, ত্বরণ, বল।
+
+মনে রেখো, আনন্দ বা দুঃখ রাশিই নয়: এগুলো মেপে মান দেওয়া যায় না।
+
+**ভেক্টর কীভাবে লেখা হয়।** ছাপা বইয়ে ভেক্টর **মোটা অক্ষরে** (যেমন **A**) দেখানো হয়। হাতে লিখলে অক্ষরের ওপর ছোট তীরচিহ্ন দিই। ভেক্টরকে **তীর** দিয়ে আঁকা হয়: তীরের দৈর্ঘ্য মান আর মাথা দিক দেখায়। একই দৈর্ঘ্য ও একই দিকের দুটি তীর সমান ভেক্টর, আলাদা জায়গায় আঁকা হলেও।
+## analogy
+রিকশাওয়ালাকে যদি বলো "২ km যাও", তিনি জিজ্ঞেস করবেন "কোন দিকে?"। কোথাও পৌঁছাতে শুধু ২ km যথেষ্ট নয়: **দিকও** লাগে। এমন রাশিই **ভেক্টর**। কিন্তু যদি বলো "ব্যাগটির ভর ২ kg", কেউ জিজ্ঞেস করে না "কোন দিকে?": এটা **স্কেলার**।
+## definition
+**স্কেলার রাশি**: যে রাশি শুধু মান (একক সহ সংখ্যা) দিয়েই পুরোপুরি প্রকাশ করা যায়। উদাহরণ: ভর, সময়, দৈর্ঘ্য, তাপমাত্রা।
+
+**ভেক্টর রাশি**: যে রাশি পুরোপুরি প্রকাশ করতে মান ও দিক দুটোই লাগে। উদাহরণ: সরণ, বেগ, ত্বরণ, বল।
+## why
+দিক এত গুরুত্বপূর্ণ কেন? কারণ একই মানের দুটি ভেক্টরের প্রভাব বিপরীত হতে পারে। দুজন মানুষ সমান বলে গাড়ির দুই পাশ থেকে ঠেললে গাড়ি নড়বে না। ৩ km পূর্বে হেঁটে আবার ৩ km পশ্চিমে হাঁটলে তুমি বাসায় ফিরে আসো: মোট সরণ শূন্য, যদিও হেঁটেছ ৬ km। দিক ধরলেই শুধু এমন রাশি সঠিকভাবে যোগ করা যায়।
+## terms
+স্কেলার | শুধু মান (সংখ্যা + একক)
+ভেক্টর | মান ও দিক
+মান | রাশির আকার বা পরিমাণ
+তীর দিয়ে প্রকাশ | দৈর্ঘ্য = মান, তীরের মাথা = দিক
+## visual
+প্রতিটি রাশি ভাগ করো। নিজেকে জিজ্ঞেস করো: এর কি দিক লাগে?
+## real
+আবহাওয়ার খবরে বলা হয় "দক্ষিণ দিক থেকে ঘণ্টায় ২০ km বেগে বাতাস"। এটি ভেক্টর (বাতাসের বেগ): বিমানচালক আর জেলেদের শুধু দ্রুতি নয়, দিকও জানা দরকার। একই খবরের তাপমাত্রা, ৩১ °C, স্কেলার।
+## mistakes
+x দ্রুতি আর বেগ দুটোই ভেক্টর।
+v দ্রুতি স্কেলার। বেগ হলো নির্দিষ্ট দিকে দ্রুতি, তাই ভেক্টর।
+x যে রাশি ঋণাত্মক হতে পারে তা ভেক্টর।
+v তাপমাত্রা −৫ °C হতে পারে, তবুও এটি স্কেলার। সেখানে ঋণ চিহ্ন কোনো দিক বোঝায় না।
+## remember
+- স্কেলার: শুধু মান (ভর, সময়, দৈর্ঘ্য, দূরত্ব, দ্রুতি, তাপমাত্রা)।
+- ভেক্টর: মান + দিক (সরণ, বেগ, ত্বরণ, বল)।
+- ভেক্টর ছাপায় মোটা অক্ষরে বা হাতে ওপরে তীর দিয়ে লেখা হয়; তীর দিয়ে আঁকা হয়।
+## think
+"সময়" কি ভেক্টর? সময় সবসময় সামনে এগোয়; পদার্থবিজ্ঞানের অর্থে এটা কি দিক হিসেবে গণ্য?
+## quiz
+? নিচের কোনটি ভেক্টর রাশি?
+- ভর
+- তাপমাত্রা
+* বেগ
+- দূরত্ব
+= বেগের মানের সাথে দিকও লাগে।
+? নিচের কোনটি স্কেলার রাশি?
+- বল
+- সরণ
+- ত্বরণ
+* সময়
+= সময় একক সহ একটি সংখ্যা দিয়েই পুরোপুরি বোঝা যায়।
+? দুটি ভেক্টর সমান হতে হলে তাদের থাকতে হবে:
+- শুধু একই মান
+- শুধু একই দিক
+* একই মান ও একই দিক
+- একই শুরুর বিন্দু
+= সমান ভেক্টরের মান ও দিক দুটোই মেলে, যেখানেই আঁকা হোক।
+
+@@ 2.4
+@visual pathdisp
+@related 2.3 2.5
+== en
+## what
+**Distance** is how much path you actually travel. **Displacement** is the straight-line change in position from start to finish, with a direction.
+## simple
+Imagine cycling from point A along a curvy road. After riding **4 km** along the road you reach point B. The **distance** you travelled is 4 km.
+
+But if you draw a straight arrow from A to B, it might be only **3 km** long. That arrow is your **displacement**: 3 km in the direction of the arrow.
+
+Ride on for 2 km more and you reach point C. Now you have travelled a total **distance of 6 km**, but because the road curved back, the straight arrow from A to C is only **1.5 km**. More distance does **not** mean more displacement!
+
+If you go round and come back to A, the distance may be many kilometres, but your displacement is **zero**: you ended where you started.
+
+Also notice: the distance from A to B and from B to A are the same (4 km). But the displacement from A to B and from B to A point in **opposite directions**:
+
+**AB = −BA**
+## analogy
+Walk once around your school field and come back to the gate. Your feet have covered maybe 400 m: that is **distance**, like a car's meter counting every step. But you are standing exactly where you started, so your **displacement** is zero: it only cares about "where are you now compared with where you began?", in a straight line.
+## definition
+**Distance**: the total length of the path travelled by an object. It is a scalar quantity.
+
+**Displacement**: the change in position of an object in a particular direction, measured by the straight line from the initial position to the final position. It is a vector quantity.
+
+Both have the dimension of length: [distance] = L, [displacement] = L. SI unit: metre (m).
+## why
+Why do we need both? Because they answer different questions. A taxi charges you for **distance** (how much road it used). A map app shows how far your destination is **as the crow flies** (displacement). In physics, velocity and acceleration are built on displacement, because direction matters for motion.
+## terms
+Distance | Total length of the path (scalar)
+Displacement | Straight-line change in position, with direction (vector)
+Initial position | Where the motion starts
+Final position | Where the motion ends
+## formula
+$$ AB = −BA
+$$ [distance] = [displacement] = L
+! The magnitude of displacement is always less than or equal to the distance. They are equal only for motion along a straight line in one direction.
+## visual
+Move the slider to ride along the curved path. Compare the distance travelled (blue) with the displacement (red arrow).
+## real
+A runner who completes one full lap of a 400 m track runs a distance of 400 m, but her displacement is zero because she finishes at the starting line.
+## example
+Q: A student walks 30 m east and then 40 m north. Find the distance and the magnitude of the displacement.
+Given: 30 m east, then 40 m north (at right angles)
+Solution: Distance = 30 m + 40 m = 70 m
+> Distance simply adds up the path.
+Calculation: Displacement = √(30² + 40²) = √(900 + 1600) = √2500 = 50 m
+> The two walks form the two shorter sides of a right-angled triangle; the displacement is the straight line from start to end, so we use Pythagoras' theorem.
+Answer: Distance = 70 m; displacement = 50 m towards the north-east (from start to finish)
+## mistakes
+x Displacement is just another word for distance.
+v Distance is the path length (scalar); displacement is the straight-line change of position with direction (vector).
+x The more you travel, the larger your displacement.
+v You can travel a long distance and still have a small or zero displacement if you come back near your start.
+## remember
+- Distance = path length (scalar); displacement = straight line from start to end, with direction (vector).
+- |displacement| ≤ distance.
+- AB = −BA: reversing the journey reverses the displacement.
+- Coming back to the start: displacement = 0.
+## think
+You go from home to school and back home in a day. Which is larger for the day, your distance or your displacement? What is the displacement?
+## quiz
+? A car goes round a circular track once and returns to the start. Its displacement is:
+- Equal to the circumference
+- Equal to the diameter
+* Zero
+- Twice the radius
+= It ends where it started, so the change in position is zero.
+? Which statement is always true?
+- Displacement is greater than distance
+* The magnitude of displacement is less than or equal to distance
+- Distance is a vector
+- Displacement has no unit
+= The straight line is the shortest path, so displacement cannot be greater than distance.
+? You walk 6 m north, then 8 m south. Your displacement is:
+- 14 m north
+- 2 m north
+* 2 m south
+- 14 m south
+= 6 m north and 8 m south leave you 2 m south of where you started.
+== bn
+## what
+**দূরত্ব** হলো তুমি আসলে কতটুকু পথ পাড়ি দিলে। **সরণ** হলো শুরু থেকে শেষ পর্যন্ত সরলরেখায় অবস্থানের পরিবর্তন, দিকসহ।
+## simple
+ভাবো, A বিন্দু থেকে একটি আঁকাবাঁকা রাস্তা ধরে সাইকেল চালাচ্ছ। রাস্তা ধরে **৪ km** যাওয়ার পর B বিন্দুতে পৌঁছালে। তোমার অতিক্রান্ত **দূরত্ব** ৪ km।
+
+কিন্তু A থেকে B পর্যন্ত একটি সোজা তীর আঁকলে সেটি হয়তো মাত্র **৩ km** লম্বা। সেই তীরটাই তোমার **সরণ**: তীরের দিকে ৩ km।
+
+আরও ২ km গিয়ে C বিন্দুতে পৌঁছালে। এখন মোট **দূরত্ব ৬ km**, কিন্তু রাস্তা বেঁকে ফিরে আসায় A থেকে C পর্যন্ত সোজা তীর মাত্র **১.৫ km**। বেশি দূরত্ব মানেই বেশি সরণ **নয়**!
+
+ঘুরে আবার A-তে ফিরে এলে দূরত্ব অনেক কিলোমিটার হতে পারে, কিন্তু সরণ **শূন্য**: যেখান থেকে শুরু সেখানেই শেষ।
+
+আরও লক্ষ করো: A থেকে B আর B থেকে A-এর দূরত্ব একই (৪ km)। কিন্তু A থেকে B আর B থেকে A-এর সরণ **বিপরীত দিকে**:
+
+**AB = −BA**
+## analogy
+স্কুলের মাঠ একবার ঘুরে গেটে ফিরে এসো। তোমার পা হয়তো ৪০০ m পথ পেরিয়েছে: এটা **দূরত্ব**, গাড়ির মিটারের মতো প্রতিটি পা গোনে। কিন্তু তুমি ঠিক শুরুর জায়গায় দাঁড়িয়ে, তাই তোমার **সরণ** শূন্য: সরণ শুধু দেখে "শুরুর তুলনায় এখন তুমি সোজাসুজি কোথায়?"।
+## definition
+**দূরত্ব**: বস্তু যে পথ অতিক্রম করে তার মোট দৈর্ঘ্য। এটি স্কেলার রাশি।
+
+**সরণ**: নির্দিষ্ট দিকে বস্তুর অবস্থানের পরিবর্তন, যা আদি অবস্থান থেকে শেষ অবস্থান পর্যন্ত সরলরেখা দিয়ে মাপা হয়। এটি ভেক্টর রাশি।
+
+দুটোর মাত্রাই দৈর্ঘ্যের: [দূরত্ব] = L, [সরণ] = L। SI একক: মিটার (m)।
+## why
+দুটোরই দরকার কেন? কারণ এরা ভিন্ন প্রশ্নের উত্তর দেয়। ট্যাক্সি ভাড়া নেয় **দূরত্ব** অনুযায়ী (কতটুকু রাস্তা ব্যবহার করল)। ম্যাপ অ্যাপ দেখায় গন্তব্য **সোজাসুজি** কত দূরে (সরণ)। পদার্থবিজ্ঞানে বেগ আর ত্বরণ সরণের ওপর দাঁড়িয়ে, কারণ গতিতে দিক গুরুত্বপূর্ণ।
+## terms
+দূরত্ব | পথের মোট দৈর্ঘ্য (স্কেলার)
+সরণ | দিকসহ সরলরেখায় অবস্থানের পরিবর্তন (ভেক্টর)
+আদি অবস্থান | যেখান থেকে গতি শুরু
+শেষ অবস্থান | যেখানে গতি শেষ
+## formula
+$$ AB = −BA
+$$ [দূরত্ব] = [সরণ] = L
+! সরণের মান সবসময় দূরত্বের সমান বা কম। শুধু একই দিকে সরলরেখায় চললে দুটো সমান হয়।
+## visual
+স্লাইডার সরিয়ে বাঁকা পথ ধরে চলো। অতিক্রান্ত দূরত্ব (নীল) আর সরণ (লাল তীর) তুলনা করো।
+## real
+৪০০ m ট্র্যাকে একটি পুরো চক্কর দেওয়া দৌড়বিদ ৪০০ m দূরত্ব দৌড়ান, কিন্তু তাঁর সরণ শূন্য, কারণ তিনি শুরুর লাইনেই শেষ করেন।
+## example
+প্রশ্ন: একজন শিক্ষার্থী ৩০ m পূর্বে হেঁটে তারপর ৪০ m উত্তরে হাঁটল। দূরত্ব ও সরণের মান বের করো।
+দেওয়া আছে: ৩০ m পূর্বে, তারপর ৪০ m উত্তরে (সমকোণে)
+সমাধান: দূরত্ব = ৩০ m + ৪০ m = ৭০ m
+> দূরত্বে শুধু পথগুলো যোগ হয়।
+হিসাব: সরণ = √(৩০² + ৪০²) = √(৯০০ + ১৬০০) = √২৫০০ = ৫০ m
+> দুটি হাঁটা একটি সমকোণী ত্রিভুজের ছোট দুই বাহু; সরণ হলো শুরু থেকে শেষ পর্যন্ত সোজা রেখা, তাই পিথাগোরাসের উপপাদ্য ব্যবহার করি।
+উত্তর: দূরত্ব = ৭০ m; সরণ = ৫০ m, শুরু থেকে উত্তর-পূর্ব দিকে
+## mistakes
+x সরণ দূরত্বেরই আরেক নাম।
+v দূরত্ব পথের দৈর্ঘ্য (স্কেলার); সরণ দিকসহ সরলরেখায় অবস্থানের পরিবর্তন (ভেক্টর)।
+x যত বেশি চলবে, সরণ তত বেশি।
+v শুরুর কাছে ফিরে এলে অনেক দূরত্ব পাড়ি দিয়েও সরণ ছোট বা শূন্য হতে পারে।
+## remember
+- দূরত্ব = পথের দৈর্ঘ্য (স্কেলার); সরণ = শুরু থেকে শেষ পর্যন্ত সোজা রেখা, দিকসহ (ভেক্টর)।
+- |সরণ| ≤ দূরত্ব।
+- AB = −BA: যাত্রা উল্টালে সরণও উল্টে যায়।
+- শুরুতে ফিরে এলে সরণ = ০।
+## think
+দিনে তুমি বাসা থেকে স্কুলে গিয়ে আবার বাসায় ফিরলে। দিনের হিসাবে কোনটা বড়, দূরত্ব না সরণ? সরণ কত?
+## quiz
+? একটি গাড়ি বৃত্তাকার ট্র্যাকে একবার ঘুরে শুরুর জায়গায় ফিরল। এর সরণ:
+- পরিধির সমান
+- ব্যাসের সমান
+* শূন্য
+- ব্যাসার্ধের দ্বিগুণ
+= যেখান থেকে শুরু সেখানেই শেষ, তাই অবস্থানের পরিবর্তন শূন্য।
+? কোন কথাটি সবসময় সত্য?
+- সরণ দূরত্বের চেয়ে বড়
+* সরণের মান দূরত্বের সমান বা কম
+- দূরত্ব ভেক্টর
+- সরণের একক নেই
+= সরলরেখাই সবচেয়ে ছোট পথ, তাই সরণ দূরত্বের চেয়ে বড় হতে পারে না।
+? তুমি ৬ m উত্তরে, তারপর ৮ m দক্ষিণে হাঁটলে। তোমার সরণ:
+- ১৪ m উত্তরে
+- ২ m উত্তরে
+* ২ m দক্ষিণে
+- ১৪ m দক্ষিণে
+= ৬ m উত্তর আর ৮ m দক্ষিণ মিলে তুমি শুরু থেকে ২ m দক্ষিণে।
+
+@@ 2.5
+@visual circvel
+@related 2.4 2.6 2.3
+== en
+## what
+**Speed** tells how fast something is moving. **Velocity** tells how fast **and in which direction**. Speed is the rate of change of distance; velocity is the rate of change of displacement.
+## simple
+If you cover 100 m in 20 s, your speed is 100 ÷ 20 = **5 m/s**.
+
+If your position changes by 50 m in a certain direction in 20 s, your velocity is 50 ÷ 20 = **2.5 m/s in that direction**.
+
+**Average speed.** On a bicycle ride you go fast sometimes and slow sometimes. So we usually talk about the **average speed**: total distance ÷ total time. In the book's example, 4 km along a curved road in 20 minutes:
+
+average speed = 4000 m ÷ 1200 s = **3.33 m/s**
+
+**Average velocity** = displacement ÷ time. The straight-line displacement was only 3 km, so:
+
+average velocity = 3000 m ÷ 1200 s = **2.5 m/s**
+
+On a curved path the average velocity is smaller than the average speed. On a straight path in one direction, the two are equal.
+
+**Uniform speed and uniform velocity.** If your speed never changes, it is **uniform speed**. But on a curved road your direction keeps changing, so your velocity keeps changing even at constant speed. **Uniform velocity is only possible in a straight line.**
+
+The book's example: whirl a stone on a string over your head at a steady rate. Its **speed** stays the same, but its **velocity** changes every instant because the direction changes. Let go, and it flies off in a straight line with uniform speed and uniform velocity (if we ignore air and gravity).
+## definition
+**Speed**: the rate of change of distance with time. It is a scalar.
+
+**Velocity**: the rate of change of displacement with time. It is a vector; its direction is the direction of the displacement.
+
+**Uniform speed**: equal distances are covered in equal intervals of time, however small the intervals.
+
+**Uniform velocity**: equal displacements in the same direction in equal intervals of time. It is possible only in straight-line motion.
+
+Unit of speed and velocity: m/s (m s^{-1}). Dimension: LT^{-1}.
+## why
+Why does velocity change when only the direction changes? Because velocity is a vector: it has magnitude **and** direction. Change either one and you have a different velocity. That is why a car going round a bend at a steady 40 km/h still has a changing velocity, and, as the next lesson shows, it is accelerating.
+## terms
+Speed | Distance ÷ time (scalar)
+Velocity | Displacement ÷ time (vector)
+Average speed | Total distance ÷ total time
+Average velocity | Total displacement ÷ total time
+Uniform velocity | Same speed and same direction all the time
+Instantaneous speed | Speed at one particular moment (shown by a speedometer)
+## formula
+$$ v = s ÷ t
+$$ average speed = total distance ÷ total time
+$$ average velocity = displacement ÷ time
+tri s | v | t
+v | speed or velocity | m/s
+s | distance or displacement | m
+t | time | s
+! 1 km/h = 1000 m ÷ 3600 s = 5/18 m/s. To change km/h to m/s, multiply by 5/18.
+## visual
+Watch the red velocity arrow: its length (the speed) never changes, but it points a new way every moment. The faded arrows show where it pointed earlier. Press "Release" to see what happens when the string is let go.
+## real
+A car's speedometer shows **instantaneous speed**, not velocity: it does not care which way you are driving. A GPS app that shows "heading north-east at 40 km/h" is giving you velocity.
+## example
+Q: A bus travels 90 km in 2 hours. Find its average speed in km/h and in m/s.
+Given: distance = 90 km, time = 2 h
+Formula: average speed = total distance ÷ total time
+Calculation: 90 km ÷ 2 h = 45 km/h; 45 × 5/18 = 12.5 m/s
+> Multiplying by 5/18 converts km/h to m/s.
+Answer: 45 km/h = 12.5 m/s
+## example
+Q: You cycle 4 km along a curved road in 20 minutes; your straight-line displacement is 3 km. Find the average speed and the magnitude of the average velocity.
+Given: distance = 4 km = 4000 m, displacement = 3 km = 3000 m, time = 20 min = 1200 s
+> Convert to metres and seconds first.
+Calculation: average speed = 4000 ÷ 1200 = 3.33 m/s; average velocity = 3000 ÷ 1200 = 2.5 m/s
+Answer: 3.33 m/s and 2.5 m/s. The velocity is smaller because the path is curved.
+## mistakes
+x Speed and velocity always have the same value.
+v They are equal in size only for straight-line motion in one direction.
+x An object moving at constant speed has constant velocity.
+v If its direction changes (like on a curve), its velocity changes even though its speed stays the same.
+x Average speed = (first speed + second speed) ÷ 2.
+v Average speed = total distance ÷ total time. Simply averaging two speeds is usually wrong.
+## remember
+- Speed = distance ÷ time (scalar); velocity = displacement ÷ time (vector).
+- Unit m/s; dimension LT^{-1}; 1 km/h = 5/18 m/s.
+- Average speed ≥ magnitude of average velocity.
+- Uniform velocity needs a straight line; circular motion can have uniform speed but not uniform velocity.
+## think
+The Moon goes round the Earth at almost the same speed all the time. Is its velocity constant? What does that tell you about whether a force is acting on it?
+## quiz
+? A stone whirled in a circle at constant speed has:
+- Constant velocity
+* Changing velocity
+- Zero velocity
+- Zero speed
+= Its direction changes every instant, so its velocity changes.
+? 72 km/h is equal to:
+- 7.2 m/s
+* 20 m/s
+- 36 m/s
+- 259 m/s
+= 72 × 5/18 = 20 m/s.
+? A runner covers 400 m in 80 s and finishes at the starting line. Her average velocity is:
+- 5 m/s
+- 4 m/s
+* 0 m/s
+- 80 m/s
+= Displacement is zero, so average velocity is zero. (Her average speed is 5 m/s.)
+== bn
+## what
+**দ্রুতি** বলে কোনো কিছু কত জোরে চলছে। **বেগ** বলে কত জোরে **এবং কোন দিকে**। দ্রুতি হলো দূরত্বের পরিবর্তনের হার; বেগ হলো সরণের পরিবর্তনের হার।
+## simple
+২০ s-এ ১০০ m গেলে তোমার দ্রুতি ১০০ ÷ ২০ = **৫ m/s**।
+
+২০ s-এ নির্দিষ্ট দিকে তোমার অবস্থান ৫০ m বদলালে তোমার বেগ ৫০ ÷ ২০ = **ওই দিকে ২.৫ m/s**।
+
+**গড় দ্রুতি।** সাইকেল চালানোর সময় কখনো জোরে, কখনো আস্তে চালাও। তাই সাধারণত **গড় দ্রুতির** কথা বলি: মোট দূরত্ব ÷ মোট সময়। বইয়ের উদাহরণে, ২০ মিনিটে বাঁকা রাস্তায় ৪ km:
+
+গড় দ্রুতি = ৪০০০ m ÷ ১২০০ s = **৩.৩৩ m/s**
+
+**গড় বেগ** = সরণ ÷ সময়। সোজা সরণ ছিল মাত্র ৩ km, তাই:
+
+গড় বেগ = ৩০০০ m ÷ ১২০০ s = **২.৫ m/s**
+
+বাঁকা পথে গড় বেগ গড় দ্রুতির চেয়ে কম। একই দিকে সোজা পথে দুটো সমান।
+
+**সুষম দ্রুতি ও সুষম বেগ।** দ্রুতি কখনো না বদলালে তা **সুষম দ্রুতি**। কিন্তু বাঁকা রাস্তায় দিক বদলাতে থাকে, তাই দ্রুতি স্থির থাকলেও বেগ বদলায়। **সুষম বেগ শুধু সরলরেখায় সম্ভব।**
+
+বইয়ের উদাহরণ: সুতায় একটি পাথর বেঁধে মাথার ওপর একই হারে ঘোরাও। এর **দ্রুতি** একই থাকে, কিন্তু প্রতি মুহূর্তে দিক বদলায় বলে **বেগ** বদলায়। ছেড়ে দিলে এটি সুষম দ্রুতি ও সুষম বেগে সরলরেখায় ছুটে যায় (বাতাস ও অভিকর্ষ বাদ দিলে)।
+## definition
+**দ্রুতি**: সময়ের সাথে দূরত্বের পরিবর্তনের হার। এটি স্কেলার।
+
+**বেগ**: সময়ের সাথে সরণের পরিবর্তনের হার। এটি ভেক্টর; এর দিক সরণের দিক।
+
+**সুষম দ্রুতি**: সমান সময় ব্যবধানে (যত ছোটই হোক) সমান দূরত্ব অতিক্রম করা।
+
+**সুষম বেগ**: সমান সময় ব্যবধানে একই দিকে সমান সরণ। এটি শুধু সরলরৈখিক গতিতে সম্ভব।
+
+দ্রুতি ও বেগের একক: m/s (m s^{-১})। মাত্রা: LT^{-১}।
+## why
+শুধু দিক বদলালেও বেগ বদলায় কেন? কারণ বেগ ভেক্টর: এর মান **আর** দিক আছে। যেকোনো একটা বদলালেই বেগ বদলে যায়। তাই বাঁকে একই ৪০ km/h-এ চলা গাড়ির বেগও বদলাচ্ছে, আর পরের পাঠে দেখব, এর ত্বরণ হচ্ছে।
+## terms
+দ্রুতি | দূরত্ব ÷ সময় (স্কেলার)
+বেগ | সরণ ÷ সময় (ভেক্টর)
+গড় দ্রুতি | মোট দূরত্ব ÷ মোট সময়
+গড় বেগ | মোট সরণ ÷ মোট সময়
+সুষম বেগ | সবসময় একই দ্রুতি ও একই দিক
+তাৎক্ষণিক দ্রুতি | কোনো নির্দিষ্ট মুহূর্তের দ্রুতি (স্পিডোমিটার দেখায়)
+## formula
+$$ v = s ÷ t
+$$ গড় দ্রুতি = মোট দূরত্ব ÷ মোট সময়
+$$ গড় বেগ = সরণ ÷ সময়
+tri s | v | t
+v | দ্রুতি বা বেগ | m/s
+s | দূরত্ব বা সরণ | m
+t | সময় | s
+! ১ km/h = ১০০০ m ÷ ৩৬০০ s = ৫/১৮ m/s। km/h থেকে m/s করতে ৫/১৮ দিয়ে গুণ করো।
+## visual
+লাল বেগ-তীরটি দেখো: এর দৈর্ঘ্য (দ্রুতি) কখনো বদলায় না, কিন্তু প্রতি মুহূর্তে নতুন দিকে তাক করে। হালকা তীরগুলো দেখায় আগে কোন দিকে ছিল। সুতা ছেড়ে দিলে কী হয় দেখতে "পাথরটি ছেড়ে দাও" চাপো।
+## real
+গাড়ির স্পিডোমিটার দেখায় **তাৎক্ষণিক দ্রুতি**, বেগ নয়: তুমি কোন দিকে চালাচ্ছ তাতে তার কিছু যায় আসে না। যে জিপিএস অ্যাপ দেখায় "উত্তর-পূর্ব দিকে ৪০ km/h", সেটি বেগ দিচ্ছে।
+## example
+প্রশ্ন: একটি বাস ২ ঘণ্টায় ৯০ km যায়। এর গড় দ্রুতি km/h ও m/s-এ বের করো।
+দেওয়া আছে: দূরত্ব = ৯০ km, সময় = ২ h
+সূত্র: গড় দ্রুতি = মোট দূরত্ব ÷ মোট সময়
+হিসাব: ৯০ km ÷ ২ h = ৪৫ km/h; ৪৫ × ৫/১৮ = ১২.৫ m/s
+> ৫/১৮ দিয়ে গুণ করলে km/h থেকে m/s হয়।
+উত্তর: ৪৫ km/h = ১২.৫ m/s
+## example
+প্রশ্ন: বাঁকা রাস্তায় ২০ মিনিটে ৪ km সাইকেল চালালে; সোজা সরণ ৩ km। গড় দ্রুতি ও গড় বেগের মান বের করো।
+দেওয়া আছে: দূরত্ব = ৪ km = ৪০০০ m, সরণ = ৩ km = ৩০০০ m, সময় = ২০ মিনিট = ১২০০ s
+> আগে মিটার ও সেকেন্ডে নিয়ে নিই।
+হিসাব: গড় দ্রুতি = ৪০০০ ÷ ১২০০ = ৩.৩৩ m/s; গড় বেগ = ৩০০০ ÷ ১২০০ = ২.৫ m/s
+উত্তর: ৩.৩৩ m/s এবং ২.৫ m/s। পথ বাঁকা বলে বেগ কম।
+## mistakes
+x দ্রুতি আর বেগের মান সবসময় সমান।
+v শুধু একই দিকে সরলরেখায় চললে এদের মান সমান হয়।
+x স্থির দ্রুতিতে চলা বস্তুর বেগও স্থির।
+v দিক বদলালে (যেমন বাঁকে), দ্রুতি একই থাকলেও বেগ বদলায়।
+x গড় দ্রুতি = (প্রথম দ্রুতি + দ্বিতীয় দ্রুতি) ÷ ২।
+v গড় দ্রুতি = মোট দূরত্ব ÷ মোট সময়। শুধু দুটি দ্রুতির গড় নিলে সাধারণত ভুল হয়।
+## remember
+- দ্রুতি = দূরত্ব ÷ সময় (স্কেলার); বেগ = সরণ ÷ সময় (ভেক্টর)।
+- একক m/s; মাত্রা LT^{-১}; ১ km/h = ৫/১৮ m/s।
+- গড় দ্রুতি ≥ গড় বেগের মান।
+- সুষম বেগের জন্য সরলরেখা লাগে; বৃত্তাকার গতিতে সুষম দ্রুতি হতে পারে, সুষম বেগ নয়।
+## think
+চাঁদ প্রায় একই দ্রুতিতে পৃথিবীর চারপাশে ঘোরে। এর বেগ কি স্থির? এ থেকে কি বোঝা যায় এর ওপর কোনো বল কাজ করছে কি না?
+## quiz
+? বৃত্তপথে স্থির দ্রুতিতে ঘোরানো পাথরের:
+- বেগ স্থির
+* বেগ পরিবর্তনশীল
+- বেগ শূন্য
+- দ্রুতি শূন্য
+= প্রতি মুহূর্তে দিক বদলায়, তাই বেগ বদলায়।
+? ৭২ km/h সমান:
+- ৭.২ m/s
+* ২০ m/s
+- ৩৬ m/s
+- ২৫৯ m/s
+= ৭২ × ৫/১৮ = ২০ m/s।
+? একজন দৌড়বিদ ৮০ s-এ ৪০০ m দৌড়ে শুরুর লাইনেই শেষ করলেন। তাঁর গড় বেগ:
+- ৫ m/s
+- ৪ m/s
+* ০ m/s
+- ৮০ m/s
+= সরণ শূন্য, তাই গড় বেগ শূন্য। (তাঁর গড় দ্রুতি ৫ m/s।)
+
+@@ 2.6
+@visual accel
+@related 2.5 2.7 2.8
+== en
+## what
+**Acceleration** is how quickly velocity changes. If velocity increases, the object accelerates; if it decreases, the object decelerates (negative acceleration).
+## simple
+When a bus leaves a stop, you feel pushed back into your seat: its velocity is increasing. When it brakes, you lurch forward: its velocity is decreasing. In both cases the velocity is **changing**, and that change is what physics calls **acceleration**.
+
+Since velocity has size and direction, it can change in two ways:
+
+1. **Its size changes**: speeding up or slowing down on a straight road.
+2. **Its direction changes**: going round a bend, even at a steady speed. The stone whirled on a string is accelerating all the time, because its direction keeps changing.
+
+In this chapter we study straight-line motion, so acceleration comes only from speeding up or slowing down.
+
+- If velocity **increases**, acceleration is **positive** (in the direction of motion).
+- If velocity **decreases**, acceleration is **negative**, also called **deceleration** or retardation.
+- If velocity does **not change**, there is **no acceleration**.
+
+If the velocity changes by the same amount every second, the acceleration is **uniform**. The best everyday example is gravity: an object falling freely near the Earth gains about **9.8 m/s of velocity every second**. We call this the acceleration due to gravity, g = 9.8 m/s².
+## analogy
+Watch a bus speedometer as it leaves a stop: 0, 2, 4, 6 m/s after each second. The needle climbs by 2 every second: that "climb per second" is the **acceleration**, 2 m/s². Acceleration is not how fast you go; it is **how fast your speed changes**, just as a savings account's growth per month is different from the money in it.
+## definition
+**Acceleration** is the rate of change of velocity with time.
+
+For uniform acceleration: acceleration = (final velocity − initial velocity) ÷ time.
+
+**Deceleration (retardation)** is negative acceleration, when velocity decreases with time.
+
+Unit: m/s² (m s^{-2}). Dimension: LT^{-2}. Acceleration is a vector.
+## why
+Why is the unit m/s²? Acceleration tells how many m/s of velocity are gained **each second**. So it is (m/s) per s, which is m/s². An acceleration of 2 m/s² means the velocity grows by 2 m/s every second: 0, 2, 4, 6, 8 m/s…
+## terms
+Acceleration | Rate of change of velocity
+Uniform acceleration | Velocity changes by equal amounts in equal times
+Deceleration / retardation | Negative acceleration (slowing down)
+Acceleration due to gravity (g) | About 9.8 m/s² near the Earth's surface
+## formula
+$$ a = (v − u) ÷ t
+$$ v = u + at
+tri v − u | a | t
+u | initial velocity | m/s
+v | final velocity | m/s
+t | time taken | s
+a | acceleration | m/s²
+! Starting from rest (u = 0): v = at. A freely falling body: v = gt.
+! These formulas are for uniform acceleration only.
+## visual
+Set the starting velocity and the acceleration, then run the car for 10 seconds. Watch the speedometer and the graph: the red step shows how much the velocity grows in each second. Try a negative acceleration to see the car slow down and stop.
+## real
+Car makers advertise how fast a car goes "from 0 to 100 km/h", which is really a measure of acceleration. Braking distance on a wet road is longer because tyres can give less deceleration, which is why drivers must keep a bigger gap in the rainy season.
+## example
+Q: A car starting from rest reaches 60 km/h in 1 minute. Find its acceleration.
+Given: u = 0; v = 60 km/h = 60 × 1000 m ÷ 3600 s = 16.67 m/s; t = 60 s
+> Always convert to m and s before using the formula.
+Formula: a = (v − u) ÷ t
+Calculation: a = (16.67 − 0) ÷ 60 = 0.278 m/s²
+Answer: 0.278 m/s²
+## example
+Q: A car moving at 60 miles per hour stops 5 minutes after its engine stops. Find its deceleration. (1 mile = 1.6 km)
+Given: u = 60 × 1.6 × 1000 m ÷ 3600 s = 26.8 m/s (the book rounds 26.67 to 26.8); v = 0; t = 300 s
+Formula: a = (v − u) ÷ t
+Calculation: a = (0 − 26.8) ÷ 300 = −0.089 m/s²
+Answer: Acceleration = −0.089 m/s², i.e. deceleration = 0.089 m/s²
+> The minus sign tells us the velocity is decreasing.
+## mistakes
+x Acceleration means moving fast.
+v A plane cruising at a steady 900 km/h in a straight line has zero acceleration. Acceleration is about changing velocity, not high velocity.
+x An object at constant speed cannot be accelerating.
+v If its direction changes, like on a circular path, it is accelerating.
+x Deceleration has a different unit from acceleration.
+v Both are measured in m/s². Deceleration is just negative acceleration.
+## remember
+- Acceleration = rate of change of velocity; a = (v − u) ÷ t.
+- Unit m/s²; dimension LT^{-2}; it is a vector.
+- Speeding up: positive; slowing down: negative (deceleration).
+- A change of direction alone also means acceleration.
+- g ≈ 9.8 m/s² is a uniform acceleration.
+## think
+At the very top of its flight, a ball thrown straight up stops for an instant. Is its acceleration zero at that moment? (Hint: what is gravity doing?)
+## quiz
+? A body's velocity changes from 5 m/s to 25 m/s in 4 s. Its acceleration is:
+- 20 m/s²
+* 5 m/s²
+- 7.5 m/s²
+- 100 m/s²
+= a = (25 − 5) ÷ 4 = 5 m/s².
+? The dimension of acceleration is:
+- LT^{-1}
+* LT^{-2}
+- MLT^{-2}
+- L^{2}T^{-2}
+= Acceleration = velocity ÷ time = LT^{-1} ÷ T.
+? A car moving at a steady 60 km/h goes round a curve. Its acceleration is:
+- Zero, because speed is constant
+* Not zero, because its direction changes
+- Negative
+- Equal to 60 km/h
+= A change in direction is a change in velocity, so there is acceleration.
+== bn
+## what
+**ত্বরণ** হলো বেগ কত দ্রুত বদলায়। বেগ বাড়লে বস্তু ত্বরিত হয়; কমলে মন্দিত হয় (ঋণাত্মক ত্বরণ)।
+## simple
+বাস স্টপ থেকে ছাড়ার সময় মনে হয় কেউ তোমাকে সিটে পেছনে ঠেলে দিল: বাসের বেগ বাড়ছে। ব্রেক কষলে তুমি সামনে ঝুঁকে পড়ো: বেগ কমছে। দুই ক্ষেত্রেই বেগ **বদলাচ্ছে**, আর এই পরিবর্তনকেই পদার্থবিজ্ঞানে বলে **ত্বরণ**।
+
+বেগের মান ও দিক আছে, তাই এটি দুইভাবে বদলাতে পারে:
+
+1. **মান বদলায়**: সোজা রাস্তায় জোরে বা আস্তে হওয়া।
+2. **দিক বদলায়**: স্থির দ্রুতিতেও বাঁক নেওয়া। সুতায় ঘোরানো পাথরের সারাক্ষণ ত্বরণ হচ্ছে, কারণ এর দিক বদলাতেই থাকে।
+
+এই অধ্যায়ে আমরা সরলরেখার গতি পড়ছি, তাই ত্বরণ আসবে শুধু জোরে বা আস্তে হওয়া থেকে।
+
+- বেগ **বাড়লে** ত্বরণ **ধনাত্মক** (গতির দিকে)।
+- বেগ **কমলে** ত্বরণ **ঋণাত্মক**, একে **মন্দন**ও বলে।
+- বেগ **না বদলালে** **ত্বরণ নেই**।
+
+প্রতি সেকেন্ডে বেগ একই পরিমাণ বদলালে ত্বরণ **সুষম**। রোজকার জীবনের সবচেয়ে ভালো উদাহরণ অভিকর্ষ: পৃথিবীর কাছে মুক্তভাবে পড়ন্ত বস্তুর বেগ **প্রতি সেকেন্ডে প্রায় ৯.৮ m/s করে বাড়ে**। একে বলে অভিকর্ষজ ত্বরণ, g = ৯.৮ m/s²।
+## analogy
+স্টপেজ ছাড়ার সময় বাসের স্পিডোমিটার দেখো: প্রতি সেকেন্ড পর ০, ২, ৪, ৬ m/s। কাঁটা প্রতি সেকেন্ডে ২ করে ওঠে: এই "প্রতি সেকেন্ডে ওঠা"-ই **ত্বরণ**, ২ m/s²। ত্বরণ মানে তুমি কত জোরে যাচ্ছ তা নয়; বরং **তোমার বেগ কত দ্রুত বদলাচ্ছে**, ঠিক যেমন সঞ্চয়ী হিসাবে টাকার পরিমাণ আর প্রতি মাসে কত বাড়ছে, দুটি আলাদা কথা।
+## definition
+সময়ের সাথে বেগের পরিবর্তনের হারকে **ত্বরণ** বলে।
+
+সুষম ত্বরণের জন্য: ত্বরণ = (শেষবেগ − আদিবেগ) ÷ সময়।
+
+সময়ের সাথে বেগ কমলে তাকে **মন্দন** বা ঋণাত্মক ত্বরণ বলে।
+
+একক: m/s² (m s^{-২})। মাত্রা: LT^{-২}। ত্বরণ একটি ভেক্টর রাশি।
+## why
+একক m/s² কেন? ত্বরণ বলে **প্রতি সেকেন্ডে** কত m/s বেগ বাড়ে। তাই এটি (m/s) প্রতি s, অর্থাৎ m/s²। ২ m/s² ত্বরণ মানে প্রতি সেকেন্ডে বেগ ২ m/s করে বাড়ে: ০, ২, ৪, ৬, ৮ m/s…
+## terms
+ত্বরণ | বেগের পরিবর্তনের হার
+সুষম ত্বরণ | সমান সময়ে বেগের সমান পরিবর্তন
+মন্দন | ঋণাত্মক ত্বরণ (ধীর হওয়া)
+অভিকর্ষজ ত্বরণ (g) | পৃথিবীপৃষ্ঠের কাছে প্রায় ৯.৮ m/s²
+## formula
+$$ a = (v − u) ÷ t
+$$ v = u + at
+tri v − u | a | t
+u | আদিবেগ | m/s
+v | শেষবেগ | m/s
+t | সময় | s
+a | ত্বরণ | m/s²
+! স্থির অবস্থা থেকে শুরু হলে (u = ০): v = at। মুক্তভাবে পড়ন্ত বস্তু: v = gt।
+! এই সূত্রগুলো শুধু সুষম ত্বরণের জন্য।
+## visual
+আদিবেগ আর ত্বরণ ঠিক করো, তারপর গাড়িটি ১০ সেকেন্ড চালাও। স্পিডোমিটার আর লেখচিত্র দেখো: লাল ধাপ দেখায় প্রতি সেকেন্ডে বেগ কতটা বাড়ে। ঋণাত্মক ত্বরণ দিয়ে দেখো গাড়ি কীভাবে ধীর হয়ে থেমে যায়।
+## real
+গাড়ি কোম্পানিগুলো বিজ্ঞাপনে বলে গাড়িটি কত সেকেন্ডে "০ থেকে ১০০ km/h" হয়, এটা আসলে ত্বরণের মাপ। ভেজা রাস্তায় টায়ার কম মন্দন দিতে পারে বলে থামতে বেশি দূরত্ব লাগে, তাই বর্ষাকালে চালকদের সামনের গাড়ি থেকে বেশি দূরত্ব রাখতে হয়।
+## example
+প্রশ্ন: স্থির অবস্থা থেকে একটি গাড়ি ১ মিনিটে ৬০ km/h বেগে পৌঁছায়। এর ত্বরণ কত?
+দেওয়া আছে: u = ০; v = ৬০ km/h = ৬০ × ১০০০ m ÷ ৩৬০০ s = ১৬.৬৭ m/s; t = ৬০ s
+> সূত্রে বসানোর আগে সবসময় m ও s-এ রূপান্তর করো।
+সূত্র: a = (v − u) ÷ t
+হিসাব: a = (১৬.৬৭ − ০) ÷ ৬০ = ০.২৭৮ m/s²
+উত্তর: ০.২৭৮ m/s²
+## example
+প্রশ্ন: ঘণ্টায় ৬০ মাইল বেগে চলা একটি গাড়ির ইঞ্জিন বন্ধ হওয়ার ৫ মিনিট পর গাড়িটি থামে। এর মন্দন কত? (১ মাইল = ১.৬ km)
+দেওয়া আছে: u = ৬০ × ১.৬ × ১০০০ m ÷ ৩৬০০ s = ২৬.৮ m/s (বই ২৬.৬৭ কে ২৬.৮ ধরেছে); v = ০; t = ৩০০ s
+সূত্র: a = (v − u) ÷ t
+হিসাব: a = (০ − ২৬.৮) ÷ ৩০০ = −০.০৮৯ m/s²
+উত্তর: ত্বরণ = −০.০৮৯ m/s², অর্থাৎ মন্দন = ০.০৮৯ m/s²
+> ঋণ চিহ্ন বলে দেয় বেগ কমছে।
+## mistakes
+x ত্বরণ মানে দ্রুত চলা।
+v সরলরেখায় স্থির ৯০০ km/h-এ উড়ন্ত বিমানের ত্বরণ শূন্য। ত্বরণ হলো বেগের পরিবর্তন, বেশি বেগ নয়।
+x স্থির দ্রুতিতে চলা বস্তুর ত্বরণ হতে পারে না।
+v দিক বদলালে, যেমন বৃত্তপথে, ত্বরণ হয়।
+x মন্দনের একক ত্বরণের চেয়ে আলাদা।
+v দুটোরই একক m/s²। মন্দন শুধু ঋণাত্মক ত্বরণ।
+## remember
+- ত্বরণ = বেগের পরিবর্তনের হার; a = (v − u) ÷ t।
+- একক m/s²; মাত্রা LT^{-২}; এটি ভেক্টর।
+- জোরে হওয়া: ধনাত্মক; আস্তে হওয়া: ঋণাত্মক (মন্দন)।
+- শুধু দিক বদলালেও ত্বরণ হয়।
+- g ≈ ৯.৮ m/s² একটি সুষম ত্বরণ।
+## think
+সোজা ওপরে ছোড়া বল সবচেয়ে উঁচু বিন্দুতে এক মুহূর্তের জন্য থামে। ওই মুহূর্তে কি এর ত্বরণ শূন্য? (ইঙ্গিত: অভিকর্ষ তখন কী করছে?)
+## quiz
+? একটি বস্তুর বেগ ৪ s-এ ৫ m/s থেকে ২৫ m/s হলো। এর ত্বরণ:
+- ২০ m/s²
+* ৫ m/s²
+- ৭.৫ m/s²
+- ১০০ m/s²
+= a = (২৫ − ৫) ÷ ৪ = ৫ m/s²।
+? ত্বরণের মাত্রা:
+- LT^{-১}
+* LT^{-২}
+- MLT^{-২}
+- L^{২}T^{-২}
+= ত্বরণ = বেগ ÷ সময় = LT^{-১} ÷ T।
+? স্থির ৬০ km/h-এ চলা একটি গাড়ি বাঁক নিচ্ছে। এর ত্বরণ:
+- শূন্য, কারণ দ্রুতি স্থির
+* শূন্য নয়, কারণ দিক বদলাচ্ছে
+- ঋণাত্মক
+- ৬০ km/h-এর সমান
+= দিকের পরিবর্তন মানেই বেগের পরিবর্তন, তাই ত্বরণ আছে।
+
+@@ 2.7
+@visual suvat
+@related 2.6 2.8 2.9
+== en
+## what
+The **equations of motion** connect five quantities for an object moving in a straight line with uniform acceleration: initial velocity **u**, final velocity **v**, acceleration **a**, time **t** and distance **s**.
+## simple
+If you know any **three** of the five quantities, these equations let you find the other two.
+
+**Start with no acceleration.** Velocity stays the same, so distance = velocity × time:
+
+s = vt
+
+**With uniform acceleration**, velocity changes, so we can't just multiply one velocity by time. The trick: for uniform acceleration, the **average velocity** is exactly halfway between the start and end velocities:
+
+average velocity = (u + v) ÷ 2
+
+So the distance is:
+
+**s = ((u + v) ÷ 2) × t**
+
+Now put v = u + at into it:
+
+s = ((u + u + at) ÷ 2) × t = **ut + ½at²**
+
+Finally, remove t. From v = u + at, squaring:
+
+v² = u² + 2uat + a²t² = u² + 2a(ut + ½at²) = **u² + 2as**
+
+So the four equations are:
+
+1. v = u + at (no s)
+2. s = ut + ½at² (no v)
+3. v² = u² + 2as (no t)
+4. s = ((u + v) ÷ 2)t (no a)
+
+**Choose the equation that does not contain the quantity you don't know and don't need.**
+## analogy
+Think of the three equations as three **tools**, each one missing a different quantity: v = u + at has no **s**; s = ut + ½at² has no **v**; v² = u² + 2as has no **t**. So first ask: "which quantity is neither given nor asked?" Then pick the tool that doesn't contain it.
+## definition
+For a body moving in a straight line with **uniform acceleration**:
+
+- v = u + at
+- s = ut + ½at²
+- v² = u² + 2as
+- s = ((u + v)/2) t
+
+Here u is the initial velocity, v the final velocity after time t, a the uniform acceleration and s the distance travelled in time t.
+## why
+Why only for uniform acceleration? Because the step "average velocity = (u + v) ÷ 2" is true only when velocity increases at a steady rate. The velocity–time graph is then a straight line, and its average height is halfway between the two ends. If acceleration changes, the graph is curved, and we need calculus instead.
+## terms
+u | Initial velocity
+v | Final velocity
+a | Uniform acceleration
+t | Time elapsed
+s | Distance (displacement) covered
+Uniform acceleration | Constant acceleration, needed for these equations
+## formula
+$$ v = u + at
+$$ s = ut + ½at²
+$$ v² = u² + 2as
+$$ s = ((u + v) ÷ 2) × t
+u, v | velocities | m/s
+a | acceleration | m/s²
+t | time | s
+s | distance | m
+! Signs matter: if the object slows down, a is negative.
+## visual
+Enter any three values. The solver chooses the right equations and finds the other two.
+## real
+Road engineers use v² = u² + 2as to calculate braking distances and set speed limits near schools. At 60 km/h (16.7 m/s), a car braking at 7 m/s² needs about 16.7² ÷ (2 × 7) ≈ 20 m to stop, before even adding the driver's reaction time.
+## example
+Q: A bullet moving at 1.5 km/s goes 10 cm into a wall before stopping. Find its deceleration.
+Given: u = 1.5 km/s = 1500 m/s; v = 0; s = 10 cm = 0.1 m
+> We don't know t and don't need it, so we choose the equation without t.
+Formula: v² = u² − 2as (a written as deceleration)
+Substitution: 0 = (1500)² − 2 × a × 0.1
+Calculation: a = (1500)² ÷ (2 × 0.1) = 2 250 000 ÷ 0.2 = 11 250 000 m/s²
+Answer: Deceleration = 1.125 × 10^{7} m/s²
+## example
+Q: A car starts from rest with an acceleration of 2 m/s². How far does it go in 10 s, and what is its velocity then?
+Given: u = 0, a = 2 m/s², t = 10 s
+Formula: s = ut + ½at²; v = u + at
+Calculation: s = 0 + ½ × 2 × 10² = 100 m; v = 0 + 2 × 10 = 20 m/s
+Answer: 100 m, and 20 m/s
+## mistakes
+x Using the equations of motion when acceleration is changing.
+v They work only for uniform (constant) acceleration.
+x Forgetting to convert km/h to m/s or cm to m.
+v Convert everything to SI units (m, s, m/s, m/s²) before substituting.
+x Using a positive a when the object is slowing down.
+v For slowing down, a is negative (or write the equation with −a and use the deceleration).
+## remember
+- v = u + at; s = ut + ½at²; v² = u² + 2as; s = ((u + v)/2)t.
+- Valid only for straight-line motion with uniform acceleration.
+- Know three of u, v, a, t, s → find the other two.
+- Pick the equation that leaves out the unknown you don't need.
+## think
+Two cars brake with the same deceleration. One is going twice as fast as the other. Using v² = u² + 2as, how many times longer is its braking distance? What does that tell you about speeding?
+## quiz
+? Which equation would you use if time is not given and not asked?
+- v = u + at
+- s = ut + ½at²
+* v² = u² + 2as
+- s = ((u + v)/2)t
+= v² = u² + 2as is the only equation without t.
+? A body starts from rest with a = 4 m/s². Its velocity after 5 s is:
+- 9 m/s
+* 20 m/s
+- 50 m/s
+- 100 m/s
+= v = 0 + 4 × 5 = 20 m/s.
+? The equations of motion are valid when:
+- Velocity is constant only
+* Acceleration is uniform
+- Acceleration keeps increasing
+- The path is circular
+= They are derived assuming constant acceleration along a straight line.
+== bn
+## what
+**গতির সমীকরণগুলো** সুষম ত্বরণে সরলরেখায় চলা বস্তুর পাঁচটি রাশিকে যুক্ত করে: আদিবেগ **u**, শেষবেগ **v**, ত্বরণ **a**, সময় **t** আর দূরত্ব **s**।
+## simple
+পাঁচটির যেকোনো **তিনটি** জানা থাকলে এই সমীকরণগুলো দিয়ে বাকি দুটি বের করা যায়।
+
+**ত্বরণ না থাকলে শুরু করি।** বেগ একই থাকে, তাই দূরত্ব = বেগ × সময়:
+
+s = vt
+
+**সুষম ত্বরণ থাকলে** বেগ বদলায়, তাই একটা বেগকে সময় দিয়ে গুণ করা যায় না। কৌশলটা হলো: সুষম ত্বরণে **গড় বেগ** ঠিক আদি ও শেষ বেগের মাঝামাঝি:
+
+গড় বেগ = (u + v) ÷ ২
+
+তাই দূরত্ব:
+
+**s = ((u + v) ÷ ২) × t**
+
+এবার এতে v = u + at বসাই:
+
+s = ((u + u + at) ÷ ২) × t = **ut + ½at²**
+
+শেষে t বাদ দিই। v = u + at কে বর্গ করলে:
+
+v² = u² + ২uat + a²t² = u² + ২a(ut + ½at²) = **u² + ২as**
+
+তাহলে চারটি সমীকরণ:
+
+1. v = u + at (s নেই)
+2. s = ut + ½at² (v নেই)
+3. v² = u² + ২as (t নেই)
+4. s = ((u + v) ÷ ২)t (a নেই)
+
+**যে রাশি অজানা এবং লাগবেও না, সেটি যে সমীকরণে নেই, সেটাই বেছে নাও।**
+## analogy
+তিনটি সমীকরণকে তিনটি **যন্ত্র** ভাবো, প্রতিটিতে আলাদা একটি রাশি নেই: v = u + at-এ **s** নেই; s = ut + ½at²-এ **v** নেই; v² = u² + 2as-এ **t** নেই। তাই আগে নিজেকে জিজ্ঞেস করো: "কোন রাশিটি দেওয়াও নেই, চাওয়াও হয়নি?" তারপর সেই যন্ত্রটি নাও যাতে ওই রাশি নেই।
+## definition
+**সুষম ত্বরণে** সরলরেখায় চলা বস্তুর জন্য:
+
+- v = u + at
+- s = ut + ½at²
+- v² = u² + ২as
+- s = ((u + v)/২) t
+
+এখানে u আদিবেগ, v হলো t সময় পরের শেষবেগ, a সুষম ত্বরণ এবং s হলো t সময়ে অতিক্রান্ত দূরত্ব।
+## why
+শুধু সুষম ত্বরণের জন্য কেন? কারণ "গড় বেগ = (u + v) ÷ ২" ধাপটি সত্য শুধু তখনই, যখন বেগ স্থির হারে বাড়ে। তখন বেগ–সময় লেখ একটি সরলরেখা, আর এর গড় উচ্চতা দুই প্রান্তের ঠিক মাঝামাঝি। ত্বরণ বদলালে লেখ বাঁকা হয়, তখন ক্যালকুলাস লাগে।
+## terms
+u | আদিবেগ
+v | শেষবেগ
+a | সুষম ত্বরণ
+t | অতিবাহিত সময়
+s | অতিক্রান্ত দূরত্ব (সরণ)
+সুষম ত্বরণ | স্থির ত্বরণ, এই সমীকরণগুলোর জন্য জরুরি
+## formula
+$$ v = u + at
+$$ s = ut + ½at²
+$$ v² = u² + ২as
+$$ s = ((u + v) ÷ ২) × t
+u, v | বেগ | m/s
+a | ত্বরণ | m/s²
+t | সময় | s
+s | দূরত্ব | m
+! চিহ্ন গুরুত্বপূর্ণ: বস্তু ধীর হলে a ঋণাত্মক।
+## visual
+যেকোনো তিনটি মান দাও। সমাধানকারী নিজেই সঠিক সমীকরণ বেছে বাকি দুটি বের করবে।
+## real
+সড়ক প্রকৌশলীরা v² = u² + ২as দিয়ে ব্রেক কষার দূরত্ব হিসাব করে স্কুলের কাছে গতিসীমা ঠিক করেন। ৬০ km/h (১৬.৭ m/s) বেগে চলা গাড়ি ৭ m/s² মন্দনে ব্রেক কষলে থামতে লাগে প্রায় ১৬.৭² ÷ (২ × ৭) ≈ ২০ m, চালকের প্রতিক্রিয়ার সময় বাদ দিয়েই।
+## example
+প্রশ্ন: ১.৫ km/s বেগের একটি বুলেট দেয়ালে ১০ cm ঢুকে থেমে গেল। এর মন্দন কত?
+দেওয়া আছে: u = ১.৫ km/s = ১৫০০ m/s; v = ০; s = ১০ cm = ০.১ m
+> t জানা নেই, লাগবেও না, তাই t ছাড়া সমীকরণটি বেছে নিই।
+সূত্র: v² = u² − ২as (a কে মন্দন ধরে লেখা)
+মান বসাই: ০ = (১৫০০)² − ২ × a × ০.১
+হিসাব: a = (১৫০০)² ÷ (২ × ০.১) = ২২,৫০,০০০ ÷ ০.২ = ১,১২,৫০,০০০ m/s²
+উত্তর: মন্দন = ১.১২৫ × ১০^{৭} m/s²
+## example
+প্রশ্ন: একটি গাড়ি স্থির অবস্থা থেকে ২ m/s² ত্বরণে চলতে শুরু করল। ১০ s-এ এটি কত দূর যাবে এবং তখন এর বেগ কত?
+দেওয়া আছে: u = ০, a = ২ m/s², t = ১০ s
+সূত্র: s = ut + ½at²; v = u + at
+হিসাব: s = ০ + ½ × ২ × ১০² = ১০০ m; v = ০ + ২ × ১০ = ২০ m/s
+উত্তর: ১০০ m এবং ২০ m/s
+## mistakes
+x ত্বরণ বদলাতে থাকলেও গতির সমীকরণ ব্যবহার করা।
+v এগুলো শুধু সুষম (স্থির) ত্বরণের জন্য খাটে।
+x km/h কে m/s-এ বা cm কে m-এ না নেওয়া।
+v মান বসানোর আগে সব SI এককে (m, s, m/s, m/s²) নাও।
+x বস্তু ধীর হচ্ছে অথচ a ধনাত্মক ধরা।
+v ধীর হলে a ঋণাত্মক (অথবা সমীকরণে −a লিখে মন্দনের মান বসাও)।
+## remember
+- v = u + at; s = ut + ½at²; v² = u² + ২as; s = ((u + v)/২)t।
+- শুধু সুষম ত্বরণে সরলরৈখিক গতির জন্য প্রযোজ্য।
+- u, v, a, t, s-এর তিনটি জানা থাকলে বাকি দুটি বের করা যায়।
+- যে অজানা রাশি লাগবে না, সেটি যে সমীকরণে নেই সেটি নাও।
+## think
+দুটি গাড়ি একই মন্দনে ব্রেক কষল। একটি অন্যটির দ্বিগুণ বেগে চলছিল। v² = u² + ২as দিয়ে বলো, এর থামার দূরত্ব কত গুণ বেশি? অতিরিক্ত গতি নিয়ে এ থেকে কী বোঝা যায়?
+## quiz
+? সময় দেওয়া নেই এবং চাওয়াও হয়নি, তাহলে কোন সমীকরণ ব্যবহার করবে?
+- v = u + at
+- s = ut + ½at²
+* v² = u² + ২as
+- s = ((u + v)/২)t
+= শুধু v² = u² + ২as-এ t নেই।
+? স্থির অবস্থা থেকে একটি বস্তু a = ৪ m/s² ত্বরণে চলে। ৫ s পর এর বেগ:
+- ৯ m/s
+* ২০ m/s
+- ৫০ m/s
+- ১০০ m/s
+= v = ০ + ৪ × ৫ = ২০ m/s।
+? গতির সমীকরণগুলো প্রযোজ্য যখন:
+- শুধু বেগ স্থির
+* ত্বরণ সুষম
+- ত্বরণ বাড়তে থাকে
+- পথ বৃত্তাকার
+= সরলরেখায় স্থির ত্বরণ ধরে এগুলো বের করা হয়েছে।
+
+@@ 2.8
+@visual freefall
+@related 2.6 2.7 3.7
+== en
+## what
+A body falling under gravity alone, with no air resistance, is called a **freely falling body**. Galileo discovered three simple laws for such bodies.
+## simple
+Drop a stone and a sheet of paper together. The stone lands first. Does that mean heavy things fall faster? Galileo said **no**: the paper is slower only because **air resistance** pushes up on it more. In a vacuum tube with no air, a coin and a feather fall side by side and land together.
+
+Near the Earth, every freely falling body speeds up with the same uniform acceleration, **g ≈ 9.8 m/s²**. So we can use the equations of motion, writing **h** (height) instead of s and **g** instead of a:
+
+- v = u + gt
+- h = ut + ½gt²
+- v² = u² + 2gh
+
+For a body **dropped from rest** (u = 0):
+
+- v = gt → velocity is proportional to time.
+- h = ½gt² → height fallen is proportional to time squared.
+
+These are exactly **Galileo's three laws**:
+
+1. Bodies falling from rest from the same height, with no resistance, fall **equal distances in equal times**, whatever their mass.
+2. The velocity gained is **proportional to the time**: v ∝ t.
+3. The distance fallen is **proportional to the square of the time**: h ∝ t².
+
+**Throwing upward.** When a ball goes up, gravity slows it down, so g acts as a deceleration: **v² = u² − 2gh**. At the top, v = 0.
+## analogy
+Drop a pebble into a village well and count the seconds until the splash. If it takes 1 second, the water is about 4.9 m down; if 2 seconds, about 19.6 m, **four times** deeper, not two. The pebble keeps speeding up, so it covers more ground in each new second.
+## definition
+**Freely falling body**: a body falling under the influence of gravity alone, with no air resistance.
+
+**Galileo's laws of falling bodies:**
+
+1. **First law**: all bodies falling from rest from the same height, without any resistance, travel equal distances in equal times.
+2. **Second law**: the velocity (v) acquired by a freely falling body from rest is directly proportional to the time (t): v ∝ t.
+3. **Third law**: the distance (h) travelled by a freely falling body from rest is directly proportional to the square of the time: h ∝ t².
+## why
+Why does mass not matter? Look at the equations: v = gt and h = ½gt². **Mass does not appear anywhere.** Gravity gives the same acceleration to heavy and light bodies. (A heavier body is pulled harder, but it is also harder to speed up by exactly the same factor, as you will see in Chapter 3.)
+## terms
+Free fall | Falling under gravity alone
+Air resistance | Upward push of air on a moving object
+g | Acceleration due to gravity, about 9.8 m/s²
+h | Height fallen (used instead of s)
+∝ | "Is proportional to"
+## formula
+$$ v = gt
+$$ h = ½gt²
+$$ v² = 2gh
+$$ Thrown up: v² = u² − 2gh
+g | acceleration due to gravity | 9.8 m/s²
+h | height | m
+! The first three are for a body dropped from rest.
+! These assume g stays constant, which is true only near the Earth's surface.
+## visual
+Drop a stone and a piece of paper, with air and in a vacuum. The faint copies show the stone every 0.25 s: the gaps keep growing, because h = ½gt².
+## real
+Skydivers speed up at first, but air resistance grows with speed until it balances their weight; after that they fall at a steady "terminal velocity" of around 55 m/s. Opening the parachute increases air resistance hugely, slowing them to a safe landing speed.
+## example
+Q: A fast bowler throws a cricket ball straight up at 150 km/h. How high will it go? (g = 9.8 m/s²)
+Given: u = 150 km/h = 150 × 1000 ÷ 3600 = 41.67 m/s; v = 0 at the top
+> At the highest point the ball stops for an instant, so v = 0.
+Formula: v² = u² − 2gh, so h = u² ÷ 2g
+Substitution: h = (41.67)² ÷ (2 × 9.8)
+Calculation: h = 1736.4 ÷ 19.6 ≈ 88.6 m
+Answer: About 88.6 m, roughly the height of a 30-storey building.
+## example
+Q: A stone is dropped from the top of a building and hits the ground after 3 s. How tall is the building, and how fast does the stone hit the ground?
+Given: u = 0, t = 3 s, g = 9.8 m/s²
+Formula: h = ½gt²; v = gt
+Calculation: h = ½ × 9.8 × 3² = 44.1 m; v = 9.8 × 3 = 29.4 m/s
+Answer: 44.1 m tall; it lands at 29.4 m/s
+## mistakes
+x Heavier objects always fall faster.
+v Without air resistance, all objects fall with the same acceleration g. In air, light and spread-out objects fall slower only because of air resistance.
+x At the top of its flight, a ball has zero acceleration.
+v Its velocity is zero for an instant, but gravity still acts: its acceleration is still g, downward.
+x h = ½gt² works for any height.
+v It assumes g is constant. Very far from the Earth, g becomes smaller, so the formula no longer applies. (The book shows that firing a ball up at 10 km/s would give a wrong answer for this reason.)
+## remember
+- Free fall: under gravity alone, acceleration g ≈ 9.8 m/s², same for all masses.
+- From rest: v = gt, h = ½gt², v² = 2gh.
+- Galileo: equal distances in equal times; v ∝ t; h ∝ t².
+- Thrown up: v² = u² − 2gh; at the top v = 0.
+## think
+If you drop a stone into a deep well and hear the splash after 2 s, is the well exactly ½ × 9.8 × 2² = 19.6 m deep? What have we ignored? (Hint: sound also takes time.)
+## quiz
+? In a vacuum, a feather and a coin are dropped together. What happens?
+- The coin lands first
+- The feather lands first
+* They land together
+- The feather floats
+= With no air resistance, both fall with the same acceleration g.
+? According to Galileo's third law, if a body falls 5 m in the first second, how far does it fall in 2 s (from rest)?
+- 10 m
+* 20 m
+- 15 m
+- 40 m
+= h ∝ t²: doubling the time multiplies the distance by 4, so 4 × 5 = 20 m.
+? A ball is thrown straight up at 19.6 m/s. The maximum height it reaches is (g = 9.8 m/s²):
+- 9.8 m
+* 19.6 m
+- 39.2 m
+- 2 m
+= h = u² ÷ 2g = 19.6² ÷ 19.6 = 19.6 m.
+== bn
+## what
+বায়ুর বাধা ছাড়া শুধু অভিকর্ষের প্রভাবে পড়তে থাকা বস্তুকে **মুক্তভাবে পড়ন্ত বস্তু** বলে। গ্যালিলিও এমন বস্তুর জন্য তিনটি সহজ সূত্র আবিষ্কার করেন।
+## simple
+একটি পাথর আর এক টুকরো কাগজ একসাথে ছেড়ে দাও। পাথর আগে পড়ে। তার মানে কি ভারী জিনিস দ্রুত পড়ে? গ্যালিলিও বললেন, **না**: কাগজ ধীর হয় শুধু কারণ **বায়ুর বাধা** একে বেশি ঠেলে। বায়ুশূন্য নলে একটি মুদ্রা আর একটি পালক পাশাপাশি পড়ে, একসাথে মাটিতে পৌঁছায়।
+
+পৃথিবীর কাছে প্রতিটি মুক্তভাবে পড়ন্ত বস্তু একই সুষম ত্বরণে দ্রুততর হয়, **g ≈ ৯.৮ m/s²**। তাই গতির সমীকরণগুলোই ব্যবহার করা যায়, s-এর বদলে **h** (উচ্চতা) আর a-এর বদলে **g** লিখে:
+
+- v = u + gt
+- h = ut + ½gt²
+- v² = u² + ২gh
+
+**স্থির অবস্থা থেকে ছেড়ে দেওয়া** বস্তুর জন্য (u = ০):
+
+- v = gt → বেগ সময়ের সমানুপাতিক।
+- h = ½gt² → অতিক্রান্ত উচ্চতা সময়ের বর্গের সমানুপাতিক।
+
+এগুলোই হুবহু **গ্যালিলিওর তিনটি সূত্র**:
+
+1. বাধা না থাকলে একই উচ্চতা থেকে স্থির অবস্থা থেকে পড়ন্ত বস্তুগুলো, ভর যা-ই হোক, **সমান সময়ে সমান দূরত্ব** অতিক্রম করে।
+2. অর্জিত বেগ **সময়ের সমানুপাতিক**: v ∝ t।
+3. অতিক্রান্ত দূরত্ব **সময়ের বর্গের সমানুপাতিক**: h ∝ t²।
+
+**ওপরে ছোড়া।** বল ওপরে উঠলে অভিকর্ষ একে ধীর করে, তাই g মন্দন হিসেবে কাজ করে: **v² = u² − ২gh**। সর্বোচ্চ বিন্দুতে v = ০।
+## analogy
+গ্রামের কুয়ায় একটি নুড়ি ফেলে পানিতে পড়ার শব্দ পর্যন্ত সেকেন্ড গোনো। ১ সেকেন্ড লাগলে পানি প্রায় ৪.৯ m নিচে; ২ সেকেন্ড লাগলে প্রায় ১৯.৬ m, দ্বিগুণ নয়, **চার গুণ** গভীর। নুড়িটি ক্রমাগত দ্রুত হতে থাকে, তাই প্রতি নতুন সেকেন্ডে আরও বেশি পথ পেরোয়।
+## definition
+**মুক্তভাবে পড়ন্ত বস্তু**: বায়ুর বাধা ছাড়া শুধু অভিকর্ষের প্রভাবে পড়তে থাকা বস্তু।
+
+**গ্যালিলিওর পড়ন্ত বস্তুর সূত্র:**
+
+1. **প্রথম সূত্র**: স্থির অবস্থান থেকে এবং একই উচ্চতা থেকে বিনা বাধায় পড়ন্ত সকল বস্তু সমান সময়ে সমান পথ অতিক্রম করে।
+2. **দ্বিতীয় সূত্র**: স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তুর নির্দিষ্ট সময়ে প্রাপ্ত বেগ (v) ওই সময়ের (t) সমানুপাতিক: v ∝ t।
+3. **তৃতীয় সূত্র**: স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তু নির্দিষ্ট সময়ে যে দূরত্ব (h) অতিক্রম করে তা ওই সময়ের বর্গের সমানুপাতিক: h ∝ t²।
+## why
+ভর কেন গুরুত্বপূর্ণ নয়? সমীকরণগুলো দেখো: v = gt আর h = ½gt²। **কোথাও ভর নেই।** অভিকর্ষ ভারী আর হালকা বস্তুকে একই ত্বরণ দেয়। (ভারী বস্তুকে বেশি জোরে টানা হয়, কিন্তু তাকে দ্রুত করাও ঠিক ততটাই কঠিন, তৃতীয় অধ্যায়ে দেখবে।)
+## terms
+মুক্ত পতন | শুধু অভিকর্ষের প্রভাবে পড়া
+বায়ুর বাধা | চলন্ত বস্তুর ওপর বাতাসের উল্টো দিকের ঠেলা
+g | অভিকর্ষজ ত্বরণ, প্রায় ৯.৮ m/s²
+h | পতনের উচ্চতা (s-এর বদলে)
+∝ | "সমানুপাতিক"
+## formula
+$$ v = gt
+$$ h = ½gt²
+$$ v² = ২gh
+$$ ওপরে ছুড়লে: v² = u² − ২gh
+g | অভিকর্ষজ ত্বরণ | ৯.৮ m/s²
+h | উচ্চতা | m
+! প্রথম তিনটি স্থির অবস্থা থেকে ছেড়ে দেওয়া বস্তুর জন্য।
+! এগুলোতে ধরা হয় g স্থির, যা শুধু পৃথিবীপৃষ্ঠের কাছে সত্য।
+## visual
+বাতাসে আর শূন্যস্থানে একটি পাথর ও এক টুকরো কাগজ ছেড়ে দাও। হালকা ছবিগুলো প্রতি ০.২৫ s পরপর পাথরের অবস্থান দেখায়: ফাঁক বাড়তেই থাকে, কারণ h = ½gt²।
+## real
+স্কাইডাইভাররা শুরুতে দ্রুততর হন, কিন্তু দ্রুতির সাথে বায়ুর বাধা বাড়তে বাড়তে ওজনের সমান হয়; এরপর তাঁরা প্রায় ৫৫ m/s স্থির "প্রান্তিক বেগে" পড়েন। প্যারাসুট খুললে বায়ুর বাধা অনেক বেড়ে যায়, ফলে নিরাপদে নামার মতো ধীর হয়ে যান।
+## example
+প্রশ্ন: একজন ফাস্ট বোলার ১৫০ km/h বেগে ক্রিকেট বল সোজা ওপরে ছুড়লেন। বলটি কত উঁচুতে উঠবে? (g = ৯.৮ m/s²)
+দেওয়া আছে: u = ১৫০ km/h = ১৫০ × ১০০০ ÷ ৩৬০০ = ৪১.৬৭ m/s; সর্বোচ্চ বিন্দুতে v = ০
+> সর্বোচ্চ বিন্দুতে বল এক মুহূর্ত থামে, তাই v = ০।
+সূত্র: v² = u² − ২gh, তাই h = u² ÷ ২g
+মান বসাই: h = (৪১.৬৭)² ÷ (২ × ৯.৮)
+হিসাব: h = ১৭৩৬.৪ ÷ ১৯.৬ ≈ ৮৮.৬ m
+উত্তর: প্রায় ৮৮.৬ m, মোটামুটি ৩০ তলা ভবনের উচ্চতা।
+## example
+প্রশ্ন: একটি ভবনের ছাদ থেকে একটি পাথর ছেড়ে দেওয়া হলো; ৩ s পর এটি মাটিতে পড়ল। ভবনটি কত উঁচু এবং পাথরটি কত বেগে মাটিতে আঘাত করে?
+দেওয়া আছে: u = ০, t = ৩ s, g = ৯.৮ m/s²
+সূত্র: h = ½gt²; v = gt
+হিসাব: h = ½ × ৯.৮ × ৩² = ৪৪.১ m; v = ৯.৮ × ৩ = ২৯.৪ m/s
+উত্তর: ৪৪.১ m উঁচু; পাথরটি ২৯.৪ m/s বেগে পড়ে
+## mistakes
+x ভারী বস্তু সবসময় দ্রুত পড়ে।
+v বায়ুর বাধা না থাকলে সব বস্তু একই ত্বরণ g-তে পড়ে। বাতাসে হালকা ও ছড়ানো বস্তু ধীরে পড়ে শুধু বায়ুর বাধার কারণে।
+x সর্বোচ্চ বিন্দুতে বলের ত্বরণ শূন্য।
+v এক মুহূর্তের জন্য বেগ শূন্য, কিন্তু অভিকর্ষ তখনো কাজ করে: ত্বরণ তখনো g, নিচের দিকে।
+x h = ½gt² যেকোনো উচ্চতার জন্য খাটে।
+v এতে ধরা হয় g স্থির। পৃথিবী থেকে অনেক দূরে g কমে যায়, তাই সূত্রটি আর খাটে না। (বইয়ে দেখানো হয়েছে, ১০ km/s বেগে বল ওপরে ছুড়লে এই কারণে উত্তর ভুল হয়।)
+## remember
+- মুক্ত পতন: শুধু অভিকর্ষের প্রভাবে, ত্বরণ g ≈ ৯.৮ m/s², সব ভরের জন্য একই।
+- স্থির অবস্থা থেকে: v = gt, h = ½gt², v² = ২gh।
+- গ্যালিলিও: সমান সময়ে সমান দূরত্ব; v ∝ t; h ∝ t²।
+- ওপরে ছুড়লে: v² = u² − ২gh; সর্বোচ্চ বিন্দুতে v = ০।
+## think
+গভীর কুয়োয় পাথর ফেলে ২ s পর পানিতে পড়ার শব্দ শুনলে। কুয়োটি কি ঠিক ½ × ৯.৮ × ২² = ১৯.৬ m গভীর? কী বাদ দিলাম? (ইঙ্গিত: শব্দেরও আসতে সময় লাগে।)
+## quiz
+? শূন্যস্থানে একটি পালক আর একটি মুদ্রা একসাথে ছেড়ে দেওয়া হলো। কী ঘটবে?
+- মুদ্রা আগে পড়বে
+- পালক আগে পড়বে
+* দুটো একসাথে পড়বে
+- পালক ভেসে থাকবে
+= বায়ুর বাধা না থাকায় দুটোই একই ত্বরণ g-তে পড়ে।
+? গ্যালিলিওর তৃতীয় সূত্র অনুযায়ী, স্থির অবস্থা থেকে একটি বস্তু প্রথম সেকেন্ডে ৫ m পড়লে ২ s-এ কত পড়বে?
+- ১০ m
+* ২০ m
+- ১৫ m
+- ৪০ m
+= h ∝ t²: সময় দ্বিগুণ হলে দূরত্ব ৪ গুণ, তাই ৪ × ৫ = ২০ m।
+? একটি বল ১৯.৬ m/s বেগে সোজা ওপরে ছোড়া হলো। এটি সর্বোচ্চ কত উঁচুতে উঠবে? (g = ৯.৮ m/s²)
+- ৯.৮ m
+* ১৯.৬ m
+- ৩৯.২ m
+- ২ m
+= h = u² ÷ ২g = ১৯.৬² ÷ ১৯.৬ = ১৯.৬ m।
+
+@@ 2.9
+@visual graphs
+@related 2.5 2.6 2.7
+== en
+## what
+A **graph** turns a table of numbers into a picture of motion. From a distance–time graph we can find velocity, and from a velocity–time graph we can find acceleration and distance.
+## simple
+The book gives this table for an object moving with uniform acceleration:
+
+- time 0, 1, 2, 3, 4, 5 s
+- distance 0, 1, 4, 9, 16, 25 m
+
+Plot distance against time and you get a **curve that bends upward**. From it you can read the distance at any time: at 2.5 s it is about 6.25 m.
+
+**Finding velocity from the distance–time graph.** Velocity is the rate of change of distance.
+
+- From 0 to 1 s the object went 1 m → average velocity 1 m/s (use it for t = 0.5 s).
+- From 1 to 2 s it went 3 m → 3 m/s (for t = 1.5 s).
+- Then 5, 7, 9 m/s for t = 2.5, 3.5, 4.5 s.
+
+Plot these velocities against time: they lie on a **straight line**. Now you can read the velocity at any moment: at t = 3 s it is 6 m/s.
+
+**Finding acceleration from the velocity–time graph.** Acceleration is the rate of change of velocity. Between 2 s and 3 s, velocity goes from 4 to 6 m/s, so a = 2 m/s². Because the velocity–time graph is a straight line, **you get the same 2 m/s² everywhere**. The acceleration–time graph is a flat horizontal line.
+
+Three rules to remember:
+
+1. **Slope of distance–time graph = velocity.** A straight line means uniform velocity; a steeper line means faster; a flat line means at rest.
+2. **Slope of velocity–time graph = acceleration.** Straight sloping line = uniform acceleration; flat line = uniform velocity.
+3. **Area under the velocity–time graph = distance travelled.**
+## analogy
+Read a graph like a road on a hill. On a distance–time graph, a **steep** road means you are covering distance fast (high velocity), a **flat** road means you are standing still. On a velocity–time graph, steepness tells you the acceleration, and the **area** under the line is like counting all the small distances you covered, second by second.
+## definition
+**Distance–time graph**: a graph of distance (y-axis) against time (x-axis). Its slope gives the velocity.
+
+**Velocity–time graph**: a graph of velocity against time. Its slope gives the acceleration, and the area between the graph and the time axis gives the distance travelled.
+
+**Slope** of a straight line = (change in y) ÷ (change in x).
+## why
+Why is the slope the velocity? Slope is "how much y changes for each unit of x". On a distance–time graph that is "how many metres for each second", which is exactly the definition of velocity. The same reasoning on a velocity–time graph gives "how many m/s gained each second", which is acceleration.
+
+Why is the area the distance? For uniform velocity, the graph is a flat line at height v; the area is a rectangle v × t, which is the distance. The same idea works for any shape.
+## terms
+Slope (gradient) | Steepness of a graph: rise ÷ run
+Distance–time graph | Slope = velocity
+Velocity–time graph | Slope = acceleration; area = distance
+Uniform acceleration | Straight, sloping velocity–time line
+## formula
+$$ velocity = slope of s–t graph = Δs ÷ Δt
+$$ acceleration = slope of v–t graph = Δv ÷ Δt
+$$ distance = area under v–t graph
+Δ | "change in" | –
+! For the book's table, s = t² (in m and s), so v = 2t and a = 2 m/s².
+## visual
+Move the slider to pick a time. The red dashed line is the slope of each graph at that moment.
+## real
+Delivery companies and ride-sharing apps record distance–time data from GPS. The slope shows where the vehicle was fast, slow or stuck in traffic (flat parts). Scientists in labs use air tracks, where a glider floats on air with almost no friction, and electronic sensors to collect such data.
+## example
+Q: From the table (t: 0, 1, 2, 3, 4, 5 s; s: 0, 1, 4, 9, 16, 25 m), find the average velocity between 3 s and 4 s, and the acceleration.
+Given: at 3 s, s = 9 m; at 4 s, s = 16 m
+Formula: average velocity = Δs ÷ Δt
+Calculation: (16 − 9) ÷ (4 − 3) = 7 m/s (this is the velocity at t = 3.5 s)
+> Similarly the velocity at 2.5 s is 5 m/s.
+Step: acceleration = (7 − 5) ÷ (3.5 − 2.5) = 2 m/s²
+Answer: 7 m/s; 2 m/s²
+## example
+Q: Use the book's second data set (t: 0, 2, 4, 6, 8, 10 s; s: 0, 6, 24, 54, 96, 150 m) to find the acceleration.
+Step: velocities: (6 − 0) ÷ 2 = 3 m/s at 1 s; (24 − 6) ÷ 2 = 9 m/s at 3 s; (54 − 24) ÷ 2 = 15 m/s at 5 s
+> Velocity goes up by 6 m/s every 2 s.
+Calculation: a = (9 − 3) ÷ (3 − 1) = 3 m/s²
+Answer: a = 3 m/s² (check: s = ½ × 3 × t² gives 150 m at 10 s ✓)
+## mistakes
+x A distance–time graph that slopes upward means the object is accelerating.
+v A straight upward line means uniform velocity. Only a curve that gets steeper means acceleration.
+x A flat line on a velocity–time graph means the object is at rest.
+v A flat v–t line means constant velocity. The object is at rest only if that flat line is at v = 0.
+x The height of a velocity–time graph gives distance.
+v The height gives velocity; the area under it gives distance.
+## remember
+- Slope of distance–time graph = velocity.
+- Slope of velocity–time graph = acceleration.
+- Area under velocity–time graph = distance.
+- Straight v–t line = uniform acceleration; flat a–t line = constant acceleration.
+## think
+Sketch the velocity–time graph of a ball thrown straight up that comes back to your hand. What does the point where the line crosses the time axis mean?
+## quiz
+? On a distance–time graph, a horizontal line means the object is:
+* At rest
+- Moving with uniform velocity
+- Accelerating
+- Decelerating
+= Distance does not change with time, so the object is not moving.
+? The slope of a velocity–time graph gives:
+- Distance
+- Velocity
+* Acceleration
+- Time
+= Slope = change in velocity ÷ change in time = acceleration.
+? A velocity–time graph is a horizontal line at 10 m/s for 5 s. The distance travelled is:
+- 2 m
+- 15 m
+* 50 m
+- 10 m
+= Area under the graph = 10 m/s × 5 s = 50 m.
+== bn
+## what
+**লেখচিত্র** সংখ্যার সারণিকে গতির ছবিতে বদলে দেয়। দূরত্ব–সময় লেখ থেকে বেগ, আর বেগ–সময় লেখ থেকে ত্বরণ ও দূরত্ব বের করা যায়।
+## simple
+সুষম ত্বরণে চলা একটি বস্তুর জন্য বই এই সারণিটি দিয়েছে:
+
+- সময় ০, ১, ২, ৩, ৪, ৫ s
+- দূরত্ব ০, ১, ৪, ৯, ১৬, ২৫ m
+
+সময়ের বিপরীতে দূরত্ব আঁকলে পাবে **ওপরের দিকে বেঁকে যাওয়া একটি বক্ররেখা**। এ থেকে যেকোনো সময়ের দূরত্ব পড়া যায়: ২.৫ s-এ প্রায় ৬.২৫ m।
+
+**দূরত্ব–সময় লেখ থেকে বেগ।** বেগ হলো দূরত্বের পরিবর্তনের হার।
+
+- ০ থেকে ১ s-এ বস্তু ১ m গেল → গড় বেগ ১ m/s (t = ০.৫ s-এর জন্য ধরি)।
+- ১ থেকে ২ s-এ গেল ৩ m → ৩ m/s (t = ১.৫ s-এর জন্য)।
+- এরপর t = ২.৫, ৩.৫, ৪.৫ s-এর জন্য ৫, ৭, ৯ m/s।
+
+এই বেগগুলো সময়ের বিপরীতে আঁকলে সব একটি **সরলরেখায়** পড়ে। এখন যেকোনো মুহূর্তের বেগ পড়া যায়: t = ৩ s-এ ৬ m/s।
+
+**বেগ–সময় লেখ থেকে ত্বরণ।** ত্বরণ হলো বেগের পরিবর্তনের হার। ২ s থেকে ৩ s-এ বেগ ৪ থেকে ৬ m/s হয়, তাই a = ২ m/s²। বেগ–সময় লেখ সরলরেখা বলে **সব জায়গায় একই ২ m/s² পাওয়া যায়**। ত্বরণ–সময় লেখ একটি সমতল অনুভূমিক রেখা।
+
+মনে রাখার তিনটি নিয়ম:
+
+1. **দূরত্ব–সময় লেখের ঢাল = বেগ।** সরলরেখা মানে সুষম বেগ; রেখা যত খাড়া তত দ্রুত; সমতল রেখা মানে স্থির।
+2. **বেগ–সময় লেখের ঢাল = ত্বরণ।** ঢালু সরলরেখা = সুষম ত্বরণ; সমতল রেখা = সুষম বেগ।
+3. **বেগ–সময় লেখের নিচের ক্ষেত্রফল = অতিক্রান্ত দূরত্ব।**
+## analogy
+লেখচিত্রকে পাহাড়ি রাস্তার মতো পড়ো। দূরত্ব–সময় লেখে **খাড়া** রাস্তা মানে দ্রুত দূরত্ব পেরোচ্ছ (বেগ বেশি), **সমতল** রাস্তা মানে তুমি দাঁড়িয়ে। বেগ–সময় লেখে খাড়াভাব বলে ত্বরণ, আর রেখার নিচের **ক্ষেত্রফল** মানে সেকেন্ডে সেকেন্ডে পেরোনো ছোট ছোট দূরত্বগুলো যোগ করা।
+## definition
+**দূরত্ব–সময় লেখ**: সময়ের (x-অক্ষ) বিপরীতে দূরত্বের (y-অক্ষ) লেখচিত্র। এর ঢাল বেগ দেয়।
+
+**বেগ–সময় লেখ**: সময়ের বিপরীতে বেগের লেখচিত্র। এর ঢাল ত্বরণ দেয়, আর লেখ ও সময়-অক্ষের মাঝের ক্ষেত্রফল অতিক্রান্ত দূরত্ব দেয়।
+
+সরলরেখার **ঢাল** = (y-এর পরিবর্তন) ÷ (x-এর পরিবর্তন)।
+## why
+ঢাল কেন বেগ? ঢাল মানে "x-এর প্রতি এককে y কতটা বদলায়"। দূরত্ব–সময় লেখে তা হলো "প্রতি সেকেন্ডে কত মিটার", যা হুবহু বেগের সংজ্ঞা। বেগ–সময় লেখে একই যুক্তিতে পাই "প্রতি সেকেন্ডে কত m/s বাড়ল", অর্থাৎ ত্বরণ।
+
+ক্ষেত্রফল কেন দূরত্ব? সুষম বেগে লেখটি v উচ্চতায় একটি সমতল রেখা; ক্ষেত্রফল একটি আয়ত v × t, যা দূরত্ব। যেকোনো আকারের লেখেও একই ধারণা খাটে।
+## terms
+ঢাল | লেখচিত্রের খাড়াভাব: উত্থান ÷ অনুভূমিক দূরত্ব
+দূরত্ব–সময় লেখ | ঢাল = বেগ
+বেগ–সময় লেখ | ঢাল = ত্বরণ; ক্ষেত্রফল = দূরত্ব
+সুষম ত্বরণ | বেগ–সময় লেখে ঢালু সরলরেখা
+## formula
+$$ বেগ = s–t লেখের ঢাল = Δs ÷ Δt
+$$ ত্বরণ = v–t লেখের ঢাল = Δv ÷ Δt
+$$ দূরত্ব = v–t লেখের নিচের ক্ষেত্রফল
+Δ | "এর পরিবর্তন" | –
+! বইয়ের সারণিতে s = t² (m ও s এককে), তাই v = ২t এবং a = ২ m/s²।
+## visual
+স্লাইডার সরিয়ে একটি সময় বেছে নাও। লাল ড্যাশ রেখাটি ওই মুহূর্তে প্রতিটি লেখের ঢাল।
+## real
+ডেলিভারি কোম্পানি আর রাইড শেয়ারিং অ্যাপগুলো জিপিএস থেকে দূরত্ব–সময় তথ্য রাখে। ঢাল দেখে বোঝা যায় গাড়ি কোথায় দ্রুত, কোথায় ধীর বা যানজটে আটকে ছিল (সমতল অংশ)। ল্যাবে বিজ্ঞানীরা এয়ার ট্র্যাক ব্যবহার করেন, যেখানে একটি গ্লাইডার প্রায় ঘর্ষণ ছাড়া বাতাসে ভাসে, আর ইলেকট্রনিক সেন্সর দিয়ে এমন তথ্য সংগ্রহ করেন।
+## example
+প্রশ্ন: সারণি থেকে (t: ০, ১, ২, ৩, ৪, ৫ s; s: ০, ১, ৪, ৯, ১৬, ২৫ m) ৩ s ও ৪ s-এর মধ্যে গড় বেগ এবং ত্বরণ বের করো।
+দেওয়া আছে: ৩ s-এ s = ৯ m; ৪ s-এ s = ১৬ m
+সূত্র: গড় বেগ = Δs ÷ Δt
+হিসাব: (১৬ − ৯) ÷ (৪ − ৩) = ৭ m/s (এটি t = ৩.৫ s-এর বেগ)
+> একইভাবে ২.৫ s-এ বেগ ৫ m/s।
+ধাপ: ত্বরণ = (৭ − ৫) ÷ (৩.৫ − ২.৫) = ২ m/s²
+উত্তর: ৭ m/s; ২ m/s²
+## example
+প্রশ্ন: বইয়ের দ্বিতীয় তথ্যসারি (t: ০, ২, ৪, ৬, ৮, ১০ s; s: ০, ৬, ২৪, ৫৪, ৯৬, ১৫০ m) থেকে ত্বরণ বের করো।
+ধাপ: বেগ: (৬ − ০) ÷ ২ = ৩ m/s (১ s-এ); (২৪ − ৬) ÷ ২ = ৯ m/s (৩ s-এ); (৫৪ − ২৪) ÷ ২ = ১৫ m/s (৫ s-এ)
+> প্রতি ২ s-এ বেগ ৬ m/s করে বাড়ছে।
+হিসাব: a = (৯ − ৩) ÷ (৩ − ১) = ৩ m/s²
+উত্তর: a = ৩ m/s² (যাচাই: s = ½ × ৩ × t² থেকে ১০ s-এ ১৫০ m ✓)
+## mistakes
+x দূরত্ব–সময় লেখ ওপরের দিকে ঢালু মানে বস্তুর ত্বরণ হচ্ছে।
+v ওপরের দিকে সরলরেখা মানে সুষম বেগ। শুধু যে বক্ররেখা ক্রমশ খাড়া হয় তা ত্বরণ বোঝায়।
+x বেগ–সময় লেখে সমতল রেখা মানে বস্তু স্থির।
+v সমতল v–t রেখা মানে স্থির বেগ। রেখাটি v = ০-তে থাকলে তবেই বস্তু স্থির।
+x বেগ–সময় লেখের উচ্চতা দূরত্ব দেয়।
+v উচ্চতা বেগ দেয়; এর নিচের ক্ষেত্রফল দূরত্ব দেয়।
+## remember
+- দূরত্ব–সময় লেখের ঢাল = বেগ।
+- বেগ–সময় লেখের ঢাল = ত্বরণ।
+- বেগ–সময় লেখের নিচের ক্ষেত্রফল = দূরত্ব।
+- সোজা v–t রেখা = সুষম ত্বরণ; সমতল a–t রেখা = স্থির ত্বরণ।
+## think
+সোজা ওপরে ছুড়ে আবার হাতে ফিরে আসা বলের বেগ–সময় লেখ আঁকো। রেখাটি যেখানে সময়-অক্ষ ছেদ করে, সেই বিন্দু কী বোঝায়?
+## quiz
+? দূরত্ব–সময় লেখে অনুভূমিক রেখা মানে বস্তু:
+* স্থির
+- সুষম বেগে চলছে
+- ত্বরণে আছে
+- মন্দনে আছে
+= সময়ের সাথে দূরত্ব বদলায় না, তাই বস্তু নড়ছে না।
+? বেগ–সময় লেখের ঢাল দেয়:
+- দূরত্ব
+- বেগ
+* ত্বরণ
+- সময়
+= ঢাল = বেগের পরিবর্তন ÷ সময়ের পরিবর্তন = ত্বরণ।
+? একটি বেগ–সময় লেখ ৫ s ধরে ১০ m/s-এ অনুভূমিক রেখা। অতিক্রান্ত দূরত্ব:
+- ২ m
+- ১৫ m
+* ৫০ m
+- ১০ m
+= লেখের নিচের ক্ষেত্রফল = ১০ m/s × ৫ s = ৫০ m।

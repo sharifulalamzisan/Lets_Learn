@@ -1,0 +1,1871 @@
+@@chapter
+== en
+## intro
+Before we can study motion, force, heat or electricity, we need one skill: **measuring things properly**. A scientist who says "the water got hot" has said very little. A scientist who says "the water reached 100 °C at normal air pressure" has said something anyone in the world can check.
+
+This chapter starts with what physics is and how it grew, from Archimedes to Satyendranath Bose. Then it gives you the tools you will use in every later chapter: physical quantities, SI units, prefixes, dimensions, measuring instruments like the vernier calipers and screw gauge, and how to report the error in a measurement honestly.
+## objectives
+- explain what physics studies and name its main branches
+- describe how physics developed and name key scientists, including those from our region
+- state the objectives of studying physics
+- tell fundamental quantities from derived quantities and name the seven SI base units
+- use SI prefixes to write very large and very small numbers
+- find the dimension of a quantity and check an equation with dimensions
+- write units and symbols correctly
+- measure length with a vernier calipers and a screw gauge
+- calculate absolute, relative and percentage error
+== bn
+## intro
+গতি, বল, তাপ বা বিদ্যুৎ পড়ার আগে একটা দক্ষতা লাগবেই: **ঠিকভাবে মাপতে পারা**। কেউ যদি বলে "পানি গরম হয়েছে", তাতে খুব বেশি কিছু বলা হয় না। কিন্তু কেউ যদি বলে "স্বাভাবিক বায়ুচাপে পানির তাপমাত্রা ১০০ °C হয়েছে", তাহলে পৃথিবীর যেকোনো মানুষ কথাটা যাচাই করে দেখতে পারে।
+
+এই অধ্যায়ের শুরুতে আমরা দেখব পদার্থবিজ্ঞান কী আর আর্কিমিডিস থেকে সত্যেন্দ্রনাথ বসু পর্যন্ত এটি কীভাবে বড় হয়েছে। তারপর শিখব এমন কিছু জিনিস যা পরের প্রতিটি অধ্যায়ে কাজে লাগবে: ভৌত রাশি, SI একক, উপসর্গ, মাত্রা, স্লাইড ক্যালিপার্স ও স্ক্রু গজের মতো মাপার যন্ত্র, আর পরিমাপের ত্রুটি কীভাবে সৎভাবে লিখতে হয়।
+## objectives
+- পদার্থবিজ্ঞান কী নিয়ে পড়ে তা বলতে পারবে এবং এর প্রধান শাখাগুলোর নাম বলতে পারবে
+- পদার্থবিজ্ঞানের ক্রমবিকাশ বর্ণনা করতে পারবে এবং আমাদের অঞ্চলের বিজ্ঞানীসহ প্রধান বিজ্ঞানীদের নাম বলতে পারবে
+- পদার্থবিজ্ঞান পড়ার উদ্দেশ্য বলতে পারবে
+- মৌলিক ও লব্ধ রাশির পার্থক্য করতে পারবে এবং সাতটি মৌলিক SI এককের নাম বলতে পারবে
+- SI উপসর্গ দিয়ে খুব বড় ও খুব ছোট সংখ্যা লিখতে পারবে
+- কোনো রাশির মাত্রা বের করতে এবং মাত্রা দিয়ে সমীকরণ যাচাই করতে পারবে
+- একক ও প্রতীক সঠিকভাবে লিখতে পারবে
+- স্লাইড ক্যালিপার্স ও স্ক্রু গজ দিয়ে দৈর্ঘ্য মাপতে পারবে
+- চূড়ান্ত, আপেক্ষিক ও শতকরা ত্রুটি হিসাব করতে পারবে
+
+@@ 1.1
+@visual branches
+@related 1.3 1.4 1.5
+== en
+## what
+Physics is the study of **matter and energy, and how they act on each other**. It asks the most basic questions about the world: why things move, why they fall, what light is, where electricity comes from.
+## simple
+Look around your room. A fan is turning. Light comes through the window. Your phone is charging. A glass of water sits on the table without falling through it.
+
+Every one of these is a physics question:
+
+- Why does the fan keep turning once it starts? (motion and force)
+- What is light, and why can it pass through glass but not through a wall? (light)
+- How does energy get from the socket into the phone battery? (electricity)
+- Why doesn't the glass fall through the table? (force and matter)
+
+Physics is often called the **most fundamental science**. Chemistry explains how atoms join, but *why* atoms behave that way comes from physics. Biology explains living things, but a heartbeat, nerve signals and eyesight all run on physics. That is why people say chemistry grew on the base of physics, and biology on the base of chemistry.
+
+Physics is not only about tiny things like atoms, electrons and quarks. It is also about huge things like planets, stars and galaxies, and about invisible things like gravity and the energy stored inside a nucleus.
+## definition
+**Physics** is the branch of science that studies matter and energy and the interaction between them.
+
+For study, physics is divided into two broad parts:
+
+- **Classical physics**: mechanics, sound, heat and thermodynamics, electricity and magnetism, and optics (light).
+- **Modern physics**: relativity, quantum mechanics, atomic and nuclear physics, solid-state physics and particle physics, which grew mainly in the 20th century.
+## why
+Why study everything with physics first? Because physics looks for the **few simple rules** that everything else follows. Once you know that energy is never created or destroyed, you can use it for a bicycle, a power plant, a plant making food, or a star shining. One rule, countless uses.
+
+When physics joins other subjects, new fields are born: **biophysics** (physics of living things), **chemical physics**, **geophysics** (physics of the Earth), **astrophysics** (physics of stars and space) and **medical physics** (X-ray, MRI, radiotherapy).
+## terms
+Matter | Anything that has mass and takes up space
+Energy | The capacity to do work
+Classical physics | Mechanics, sound, heat, electricity & magnetism, optics
+Modern physics | Relativity, quantum mechanics, atomic, nuclear and particle physics
+Astrophysics | Physics applied to stars, planets and the universe
+Biophysics | Physics applied to living things
+## visual
+The main branches of physics, and the new fields that appear when physics joins other sciences.
+## real
+Your mobile phone is a small museum of physics: the touch screen uses electricity, the camera uses lenses (light), the speaker uses vibration (sound), GPS uses satellites that obey gravity and even relativity, and the battery stores energy chemically. Doctors use X-rays and ultrasound, both born in physics labs.
+## mistakes
+x Physics is only about formulas and sums.
+v Formulas are a short way to write ideas. The ideas come first: why something happens and how nature behaves.
+x Physics only deals with big machines.
+v Physics covers everything from quarks inside a proton to galaxies, including your own body.
+## remember
+- Physics studies matter, energy and their interaction.
+- It is the most fundamental science; chemistry and biology build on it.
+- Classical physics: mechanics, sound, heat, electricity & magnetism, optics.
+- Modern physics: relativity, quantum, atomic, nuclear, particle physics.
+- New fields: biophysics, chemical physics, geophysics, astrophysics, medical physics.
+## think
+A doctor takes an X-ray of a broken arm. Which part of that process is physics, which part is biology, and where do they meet?
+## quiz
+? Which is the best description of physics?
+- The study of living things
+* The study of matter and energy and their interaction
+- The study of how elements combine
+- The study of rocks and minerals
+= Physics studies matter, energy and how they act on each other.
+? Which of these is a branch of classical physics?
+- Quantum mechanics
+- Particle physics
+* Optics
+- Relativity
+= Optics (the study of light) is part of classical physics. The others grew in the 20th century as modern physics.
+? Physics applied to stars and galaxies is called:
+- Geophysics
+* Astrophysics
+- Biophysics
+- Chemical physics
+= Astro- means star. Geophysics is about the Earth; biophysics about living things.
+== bn
+## what
+পদার্থবিজ্ঞান হলো **পদার্থ আর শক্তি, এবং এরা একে অপরের ওপর কীভাবে কাজ করে** তা নিয়ে পড়াশোনা। এটি প্রকৃতির একেবারে মৌলিক প্রশ্নগুলো করে: জিনিস কেন চলে, কেন নিচে পড়ে, আলো কী, বিদ্যুৎ কোথা থেকে আসে।
+## simple
+তোমার ঘরের চারপাশে তাকাও। ফ্যান ঘুরছে। জানালা দিয়ে আলো আসছে। ফোন চার্জ হচ্ছে। টেবিলের ওপর পানির গ্লাস রাখা, সেটি টেবিল ভেদ করে পড়ে যাচ্ছে না।
+
+এর প্রত্যেকটিই পদার্থবিজ্ঞানের প্রশ্ন:
+
+- ফ্যান একবার ঘুরতে শুরু করলে কেন ঘুরতেই থাকে? (গতি ও বল)
+- আলো কী, আর সেটি কাচ ভেদ করে যায় কিন্তু দেয়াল ভেদ করে যায় না কেন? (আলো)
+- সকেট থেকে শক্তি ফোনের ব্যাটারিতে যায় কীভাবে? (বিদ্যুৎ)
+- গ্লাসটি টেবিল ভেদ করে পড়ে না কেন? (বল ও পদার্থ)
+
+পদার্থবিজ্ঞানকে অনেক সময় **সবচেয়ে মৌলিক বিজ্ঞান** বলা হয়। রসায়ন বলে পরমাণু কীভাবে যুক্ত হয়, কিন্তু পরমাণু *কেন* এমন আচরণ করে তার উত্তর আসে পদার্থবিজ্ঞান থেকে। জীববিজ্ঞান জীবন্ত জিনিস ব্যাখ্যা করে, কিন্তু হৃৎস্পন্দন, স্নায়ুর সংকেত, চোখে দেখা সবই পদার্থবিজ্ঞানের নিয়মে চলে। তাই বলা হয়, পদার্থবিজ্ঞানের ভিত্তির ওপর রসায়ন আর রসায়নের ভিত্তির ওপর জীববিজ্ঞান গড়ে উঠেছে।
+
+পদার্থবিজ্ঞান শুধু অণু-পরমাণু, ইলেকট্রন বা কোয়ার্কের মতো ক্ষুদ্র জিনিস নিয়ে নয়। গ্রহ, নক্ষত্র, গ্যালাক্সির মতো বিশাল জিনিস, আর মহাকর্ষ বা নিউক্লিয়াসের ভেতরে লুকানো শক্তির মতো অদৃশ্য জিনিসও এর বিষয়।
+## definition
+**পদার্থবিজ্ঞান** বিজ্ঞানের সেই শাখা, যেখানে পদার্থ ও শক্তি এবং এদের পারস্পরিক ক্রিয়া নিয়ে আলোচনা করা হয়।
+
+পড়ার সুবিধার জন্য পদার্থবিজ্ঞানকে দুই ভাগে ভাগ করা হয়:
+
+- **ক্লাসিক্যাল পদার্থবিজ্ঞান**: বলবিদ্যা, শব্দ, তাপ ও তাপগতিবিদ্যা, তড়িৎ ও চুম্বকত্ব, এবং আলো।
+- **আধুনিক পদার্থবিজ্ঞান**: আপেক্ষিকতা, কোয়ান্টাম বলবিদ্যা, পারমাণবিক ও নিউক্লীয় পদার্থবিজ্ঞান, কঠিন অবস্থার পদার্থবিজ্ঞান ও কণা পদার্থবিজ্ঞান, যেগুলো মূলত বিশ শতকে গড়ে উঠেছে।
+## why
+সবকিছু আগে পদার্থবিজ্ঞান দিয়ে কেন বুঝতে চাই? কারণ পদার্থবিজ্ঞান খোঁজে **অল্প কয়েকটি সহজ নিয়ম**, যা বাকি সবকিছু মেনে চলে। যেমন, শক্তি সৃষ্টি বা ধ্বংস হয় না, শুধু রূপ বদলায়। এই এক নিয়ম দিয়ে সাইকেল, বিদ্যুৎকেন্দ্র, গাছের খাবার তৈরি বা নক্ষত্রের জ্বলা সবই বোঝা যায়।
+
+পদার্থবিজ্ঞান অন্য বিষয়ের সাথে মিললে নতুন শাখা তৈরি হয়: **জীবপদার্থবিজ্ঞান**, **রাসায়নিক পদার্থবিজ্ঞান**, **ভূপদার্থবিজ্ঞান**, **জ্যোতির্পদার্থবিজ্ঞান** আর **চিকিৎসা পদার্থবিজ্ঞান** (এক্স-রে, এমআরআই, রেডিওথেরাপি)।
+## terms
+পদার্থ (Matter) | যার ভর আছে এবং যা জায়গা দখল করে
+শক্তি (Energy) | কাজ করার সামর্থ্য
+ক্লাসিক্যাল পদার্থবিজ্ঞান | বলবিদ্যা, শব্দ, তাপ, তড়িৎ ও চুম্বকত্ব, আলো
+আধুনিক পদার্থবিজ্ঞান | আপেক্ষিকতা, কোয়ান্টাম, পারমাণবিক, নিউক্লীয় ও কণা পদার্থবিজ্ঞান
+জ্যোতির্পদার্থবিজ্ঞান (Astrophysics) | নক্ষত্র, গ্রহ ও মহাবিশ্বের পদার্থবিজ্ঞান
+জীবপদার্থবিজ্ঞান (Biophysics) | জীবদেহে পদার্থবিজ্ঞানের প্রয়োগ
+## visual
+পদার্থবিজ্ঞানের প্রধান শাখা, আর অন্য বিজ্ঞানের সাথে মিলে তৈরি হওয়া নতুন শাখাগুলো।
+## real
+তোমার মোবাইল ফোন যেন পদার্থবিজ্ঞানের একটি ছোট জাদুঘর: টাচস্ক্রিন চলে বিদ্যুতে, ক্যামেরায় আছে লেন্স (আলো), স্পিকার কাজ করে কম্পন দিয়ে (শব্দ), জিপিএস নির্ভর করে উপগ্রহের ওপর, যা মহাকর্ষ মেনে চলে। ডাক্তাররা যে এক্স-রে আর আল্ট্রাসাউন্ড ব্যবহার করেন, দুটোই পদার্থবিজ্ঞানের ল্যাবে জন্ম নিয়েছে।
+## mistakes
+x পদার্থবিজ্ঞান মানে শুধু সূত্র আর অঙ্ক।
+v সূত্র হলো ধারণাকে সংক্ষেপে লেখার উপায়। আগে আসে ধারণা: কেন ঘটে, প্রকৃতি কীভাবে আচরণ করে।
+x পদার্থবিজ্ঞান শুধু বড় বড় যন্ত্রপাতি নিয়ে।
+v প্রোটনের ভেতরের কোয়ার্ক থেকে গ্যালাক্সি, এমনকি তোমার নিজের শরীরও পদার্থবিজ্ঞানের বিষয়।
+## remember
+- পদার্থবিজ্ঞান পদার্থ, শক্তি ও এদের পারস্পরিক ক্রিয়া নিয়ে পড়ে।
+- এটি সবচেয়ে মৌলিক বিজ্ঞান; রসায়ন ও জীববিজ্ঞান এর ওপর দাঁড়িয়ে আছে।
+- ক্লাসিক্যাল: বলবিদ্যা, শব্দ, তাপ, তড়িৎ ও চুম্বকত্ব, আলো।
+- আধুনিক: আপেক্ষিকতা, কোয়ান্টাম, পারমাণবিক, নিউক্লীয়, কণা পদার্থবিজ্ঞান।
+- নতুন শাখা: জীবপদার্থবিজ্ঞান, রাসায়নিক পদার্থবিজ্ঞান, ভূপদার্থবিজ্ঞান, জ্যোতির্পদার্থবিজ্ঞান, চিকিৎসা পদার্থবিজ্ঞান।
+## think
+একজন ডাক্তার ভাঙা হাতের এক্স-রে করলেন। এই কাজের কোন অংশটা পদার্থবিজ্ঞান, কোনটা জীববিজ্ঞান, আর দুটো কোথায় এসে মিলেছে?
+## quiz
+? পদার্থবিজ্ঞানের সবচেয়ে ভালো বর্ণনা কোনটি?
+- জীবন্ত জিনিস নিয়ে পড়াশোনা
+* পদার্থ ও শক্তি এবং এদের পারস্পরিক ক্রিয়া নিয়ে পড়াশোনা
+- মৌল কীভাবে যুক্ত হয় তা নিয়ে পড়াশোনা
+- শিলা ও খনিজ নিয়ে পড়াশোনা
+= পদার্থবিজ্ঞান পদার্থ, শক্তি এবং এরা একে অপরের ওপর কীভাবে কাজ করে তা নিয়ে পড়ে।
+? নিচের কোনটি ক্লাসিক্যাল পদার্থবিজ্ঞানের শাখা?
+- কোয়ান্টাম বলবিদ্যা
+- কণা পদার্থবিজ্ঞান
+* আলো (Optics)
+- আপেক্ষিকতা
+= আলোবিজ্ঞান ক্লাসিক্যাল পদার্থবিজ্ঞানের অংশ। বাকিগুলো বিশ শতকে আধুনিক পদার্থবিজ্ঞান হিসেবে গড়ে উঠেছে।
+? নক্ষত্র ও গ্যালাক্সির পদার্থবিজ্ঞানকে বলে:
+- ভূপদার্থবিজ্ঞান
+* জ্যোতির্পদার্থবিজ্ঞান
+- জীবপদার্থবিজ্ঞান
+- রাসায়নিক পদার্থবিজ্ঞান
+= জ্যোতি মানে নক্ষত্র বা আলোকিত বস্তু। ভূপদার্থবিজ্ঞান পৃথিবী নিয়ে, জীবপদার্থবিজ্ঞান জীবদেহ নিয়ে।
+
+@@ 1.3
+@visual timeline
+@related 1.1 1.4
+== en
+## what
+This lesson is the **story of physics**: how people slowly moved from guessing about nature to testing ideas with experiments and mathematics.
+## simple
+Science was not built by one person in one day. Think of it like a relay race lasting thousands of years, where each runner hands the baton to the next.
+
+**1. The early stage.** Ancient Greek, Indian, Chinese and Muslim thinkers made the first big steps. **Thales** predicted a solar eclipse. **Pythagoras** found the maths of vibrating strings. **Democritus** imagined that matter is made of tiny indivisible particles called atoms. **Archimedes** discovered the principle of floating bodies and the lever. Indian thinkers also imagined matter made of small particles (*anu*). Later, Muslim scholars such as **Al-Khwarizmi** (whose name gives us the word "algorithm") and **Ibn al-Haytham** (who studied light and vision through experiments) kept science alive and pushed it forward.
+
+**2. The rising stage.** In Europe's Renaissance, **Copernicus** (1543) said the Sun, not the Earth, is at the centre of the solar system. **Galileo** supported it with observations and, most importantly, taught the world to **check ideas with experiments**. That is why he is called the father of modern science. In 1687 **Newton** published the three laws of motion and the law of gravitation, and developed calculus (Leibniz developed it too).
+
+**3. The birth of modern physics.** **Maxwell** combined electricity and magnetism and showed that light is an electromagnetic wave. **Rutherford** discovered the atomic nucleus. **Marie Curie** researched radioactivity. **Einstein** gave the theory of relativity (E = mc²) and explained the photoelectric effect. **Satyendranath Bose** of Dhaka University worked out a new way of counting particles of light; particles that follow his rule are called **bosons** after him.
+
+**4. Contemporary physics.** Huge particle accelerators smash particles together to discover new ones, and the **Standard Model** arranges them all. The **Higgs boson**, predicted to explain why particles have mass, was found at CERN in 2012. In the 1920s **Hubble** showed that galaxies are moving away from each other, so the universe is expanding; it began about 14 billion years ago in the **Big Bang**. Yet everything we can see (stars, planets, galaxies) is only about 4% of the universe; the rest is mysterious **dark matter** and **dark energy**. Research on solids gave us **semiconductors**, the base of all modern electronics.
+
+**Our own scientist: Acharya Jagadish Chandra Bose (1858–1937).** Born in Mymensingh, with ancestral roots in Bikrampur, Dhaka, he was the first internationally recognised scientist of the subcontinent. In **1895** he sent a wireless radio signal to a distant place and demonstrated it publicly. He produced electromagnetic waves only about **5 mm** long (microwaves) and used semiconductor junctions to detect radio signals, and he chose not to patent this, leaving it open for everyone. Later he invented the **crescograph** to record the tiny growth and movements of plants, and showed that a plant's response to a stimulus is electrical in nature. In 1917 he founded the Bose Institute (Bose Biggan Mandir) in Kolkata.
+## definition
+The **development of physics** is usually described in stages: the early stage (ancient Greek, Indian, Chinese and Muslim contributions), the rising stage of science (Copernicus, Galileo, Newton), the emergence of modern physics (Maxwell, Rutherford, Curie, Einstein, S. N. Bose) and contemporary physics.
+## why
+Why did science speed up so much after Galileo? Because before him, many ideas were accepted just because a famous person said them. Galileo insisted: **test it**. When experiments decide which idea is right, wrong ideas get thrown out quickly and good ones grow. That method, observe, guess, test, repeat, is still how science works.
+## terms
+Heliocentric model | The Sun is at the centre and planets go around it (Copernicus)
+Scientific method | Observe, form an idea, test it with experiments, check the result
+Boson | A type of particle named after Satyendranath Bose
+Electromagnetic wave | A wave of electric and magnetic fields; light is one (Maxwell)
+## timeline
+c. 600 BC | Thales | Predicted a solar eclipse
+c. 400 BC | Democritus | Idea that matter is made of atoms
+c. 250 BC | Archimedes | Principle of floating bodies; the lever
+c. 820 | Al-Khwarizmi | Algebra; the word "algorithm" comes from his name
+c. 1020 | Ibn al-Haytham | Experiments on light and vision
+1543 | Copernicus | Sun-centred model of the solar system
+1609 | Galileo | Telescope observations; experiments as the test of truth
+1687 | Newton | Laws of motion and gravitation
+1865 | Maxwell | Light is an electromagnetic wave
+1898 | Marie Curie | Discovered radium and polonium; radioactivity research
+1895 | Jagadish Chandra Bose | Public demonstration of wireless radio signals; millimetre waves
+1905 | Einstein | Special relativity; photoelectric effect
+1911 | Rutherford | Discovered the atomic nucleus
+1924 | Satyendranath Bose | Bose statistics; bosons are named after him
+2012 | CERN scientists | Higgs boson discovered
+## visual
+Some milestones in the story of physics. Dates marked "c." are approximate.
+## real
+When you use the word "algorithm" in computer class, you are using Al-Khwarizmi's name. When you read about the "Higgs boson" in the news, you are reading Satyendranath Bose's name. The history of physics is closer to us than it looks.
+## mistakes
+x Science was created only in Europe.
+v Greek, Indian, Chinese and Muslim scholars made important contributions long before the European Renaissance, and scientists from our own region, like J. C. Bose and S. N. Bose, made world-class discoveries.
+x Newton discovered gravity by seeing an apple fall.
+v People always knew things fall. Newton's achievement was the mathematical law that the same gravity pulls the apple and holds the Moon in orbit.
+## remember
+- Early stage: Thales, Pythagoras, Democritus, Archimedes; Indian, Chinese and Muslim scholars (Al-Khwarizmi, Ibn al-Haytham).
+- Galileo made experiments the test of truth; father of modern science.
+- Copernicus 1543 (Sun-centred); Newton 1687 (laws of motion, gravitation).
+- Modern physics: Maxwell, Rutherford, Marie Curie, Einstein, S. N. Bose (bosons).
+- J. C. Bose: wireless radio signal (1895), 5 mm microwaves, semiconductor detector, crescograph.
+- Today: Standard Model, Higgs boson (2012), expanding universe, dark matter and dark energy.
+## think
+Galileo was punished for supporting the idea that the Earth moves around the Sun. Why do you think a new scientific idea sometimes faces strong opposition, even when experiments support it?
+## quiz
+? Who is called the father of modern science because he made experiments the test of ideas?
+- Newton
+* Galileo
+- Copernicus
+- Archimedes
+= Galileo insisted that ideas must be tested by experiment and observation.
+? Particles named "bosons" honour which scientist?
+- Jagadish Chandra Bose
+* Satyendranath Bose
+- Niels Bohr
+- Robert Boyle
+= Satyendranath Bose's work on counting particles of light gave us the name "boson".
+? Who first proposed the Sun-centred (heliocentric) model in a book in 1543?
+- Galileo
+- Newton
+* Copernicus
+- Ptolemy
+= Copernicus proposed it; Galileo later supported it with observations.
+? Which instrument did Jagadish Chandra Bose invent to record the tiny growth of plants?
+- Barometer
+* Crescograph
+- Electroscope
+- Spectroscope
+= The crescograph magnified and recorded very small movements and growth of plants.
+== bn
+## what
+এই পাঠটি **পদার্থবিজ্ঞানের গল্প**: মানুষ কীভাবে প্রকৃতি নিয়ে অনুমান করা থেকে ধীরে ধীরে পরীক্ষা আর গণিত দিয়ে ধারণা যাচাই করতে শিখল।
+## simple
+বিজ্ঞান একজন মানুষ এক দিনে তৈরি করেননি। এটা যেন হাজার বছরের এক রিলে দৌড়, যেখানে প্রত্যেক দৌড়বিদ পরের জনের হাতে কাঠি তুলে দিয়েছেন।
+
+**১. আদি পর্ব।** প্রাচীন গ্রিক, ভারতীয়, চীনা আর মুসলিম চিন্তাবিদরা প্রথম বড় পদক্ষেপগুলো নেন। **থেলিস** সূর্যগ্রহণের ভবিষ্যদ্বাণী করেছিলেন। **পিথাগোরাস** কম্পমান তারের গণিত খুঁজে পান। **ডেমোক্রিটাস** কল্পনা করেন, পদার্থ অবিভাজ্য ক্ষুদ্র কণা দিয়ে তৈরি, যার নাম পরমাণু। **আর্কিমিডিস** ভাসমান বস্তুর নীতি আর লিভার আবিষ্কার করেন। ভারতীয় দার্শনিকরাও পদার্থকে ক্ষুদ্র কণা (*অণু*) দিয়ে তৈরি বলে ভেবেছিলেন। পরে **আল-খোয়ারিজমি** (যাঁর নাম থেকে "অ্যালগরিদম" শব্দ এসেছে) আর **ইবনে আল-হাইসাম** (যিনি পরীক্ষা করে আলো ও দৃষ্টি নিয়ে গবেষণা করেন) এর মতো মুসলিম বিজ্ঞানীরা বিজ্ঞানকে বাঁচিয়ে রাখেন ও সামনে এগিয়ে নেন।
+
+**২. উত্থান পর্ব।** ইউরোপের রেনেসাঁর সময় **কোপার্নিকাস** (১৫৪৩) বলেন, সৌরজগতের কেন্দ্রে পৃথিবী নয়, সূর্য। **গ্যালিলিও** পর্যবেক্ষণ দিয়ে এটি সমর্থন করেন এবং সবচেয়ে বড় কথা, পৃথিবীকে শেখান **পরীক্ষা করে ধারণা যাচাই** করতে। এজন্য তাঁকে আধুনিক বিজ্ঞানের জনক বলা হয়। ১৬৮৭ সালে **নিউটন** গতির তিনটি সূত্র আর মহাকর্ষ সূত্র প্রকাশ করেন এবং ক্যালকুলাস তৈরি করেন (লিবনিজও আলাদাভাবে তৈরি করেছিলেন)।
+
+**৩. আধুনিক পদার্থবিজ্ঞানের জন্ম।** **ম্যাক্সওয়েল** তড়িৎ ও চুম্বককে এক করেন এবং দেখান আলো একটি তড়িৎচৌম্বক তরঙ্গ। **রাদারফোর্ড** পরমাণুর নিউক্লিয়াস আবিষ্কার করেন। **মেরি কুরি** তেজস্ক্রিয়তা নিয়ে গবেষণা করেন। **আইনস্টাইন** আপেক্ষিকতা তত্ত্ব (E = mc²) দেন এবং আলোক-তড়িৎ ক্রিয়া ব্যাখ্যা করেন। ঢাকা বিশ্ববিদ্যালয়ের **সত্যেন্দ্রনাথ বসু** আলোর কণা গোনার একটি নতুন পদ্ধতি বের করেন; যেসব কণা তাঁর নিয়ম মানে, তাঁর নামে সেগুলোকে বলা হয় **বোসন**।
+
+**৪. বর্তমান পদার্থবিজ্ঞান।** বিশাল কণা ত্বরকযন্ত্রে কণার সংঘর্ষ ঘটিয়ে নতুন নতুন কণা আবিষ্কার হচ্ছে, আর **স্ট্যান্ডার্ড মডেল** সেগুলোকে সুন্দরভাবে সাজিয়েছে। কণার ভর কেন আছে তা ব্যাখ্যা করতে যে **হিগস বোসন** কণার কথা বলা হয়েছিল, ২০১২ সালে সার্নের ল্যাবে সেটি খুঁজে পাওয়া যায়। ১৯২০-এর দশকে **হাবল** দেখান যে গ্যালাক্সিগুলো একে অপর থেকে দূরে সরে যাচ্ছে, অর্থাৎ মহাবিশ্ব প্রসারিত হচ্ছে; প্রায় ১৪০০ কোটি বছর আগে **বিগ ব্যাং** থেকে এর শুরু। অথচ আমরা যা দেখতে পাই (নক্ষত্র, গ্রহ, গ্যালাক্সি) তা মহাবিশ্বের মাত্র ৪% এর মতো; বাকিটা রহস্যময় **ডার্ক ম্যাটার** আর **ডার্ক এনার্জি**। কঠিন পদার্থ নিয়ে গবেষণা থেকে এসেছে **সেমিকন্ডাক্টর**, যা আধুনিক সব ইলেকট্রনিকসের ভিত্তি।
+
+**আমাদের বিজ্ঞানী: আচার্য জগদীশচন্দ্র বসু (১৮৫৮–১৯৩৭)।** তাঁর জন্ম ময়মনসিংহে, পূর্বপুরুষের বাড়ি ঢাকার বিক্রমপুরে। তিনি এই উপমহাদেশের প্রথম আন্তর্জাতিকভাবে স্বীকৃত বিজ্ঞানী। **১৮৯৫** সালে তিনি তার ছাড়া দূরে রেডিও সংকেত পাঠিয়ে প্রকাশ্যে দেখান। তিনি মাত্র প্রায় **৫ মিলিমিটার** তরঙ্গদৈর্ঘ্যের তড়িৎচৌম্বক তরঙ্গ (মাইক্রোওয়েভ) তৈরি করেন এবং রেডিও সংকেত ধরতে সেমিকন্ডাক্টর জংশন ব্যবহার করেন; এর পেটেন্ট না নিয়ে তিনি সবার জন্য উন্মুক্ত রাখেন। পরে তিনি গাছের অতি সূক্ষ্ম বৃদ্ধি ও নড়াচড়া মাপার জন্য **ক্রেস্কোগ্রাফ** আবিষ্কার করেন এবং দেখান, উদ্দীপনায় গাছের সাড়া আসলে বৈদ্যুতিক প্রকৃতির। ১৯১৭ সালে কলকাতায় তিনি বসু বিজ্ঞান মন্দির প্রতিষ্ঠা করেন।
+## definition
+**পদার্থবিজ্ঞানের ক্রমবিকাশ** সাধারণত কয়েকটি পর্বে বলা হয়: আদি পর্ব (গ্রিক, ভারতবর্ষ, চীন ও মুসলিম সভ্যতার অবদান), বিজ্ঞানের উত্থান পর্ব (কোপার্নিকাস, গ্যালিলিও, নিউটন), আধুনিক পদার্থবিজ্ঞানের উদ্ভব (ম্যাক্সওয়েল, রাদারফোর্ড, কুরি, আইনস্টাইন, সত্যেন্দ্রনাথ বসু) এবং বর্তমান পদার্থবিজ্ঞান।
+## why
+গ্যালিলিওর পরে বিজ্ঞান এত দ্রুত এগোল কেন? কারণ তাঁর আগে অনেক ধারণা মেনে নেওয়া হতো শুধু বিখ্যাত কেউ বলেছেন বলে। গ্যালিলিও বললেন: **পরীক্ষা করে দেখো**। যখন পরীক্ষাই ঠিক করে কোন ধারণা সঠিক, তখন ভুল ধারণা দ্রুত বাদ পড়ে আর ভালো ধারণা টিকে থাকে। পর্যবেক্ষণ, অনুমান, পরীক্ষা, আবার যাচাই: বিজ্ঞান আজও এভাবেই চলে।
+## terms
+সূর্যকেন্দ্রিক মডেল | সূর্য কেন্দ্রে, গ্রহগুলো তার চারপাশে ঘোরে (কোপার্নিকাস)
+বৈজ্ঞানিক পদ্ধতি | পর্যবেক্ষণ, অনুমান, পরীক্ষা, ফলাফল যাচাই
+বোসন (Boson) | সত্যেন্দ্রনাথ বসুর নামে নামকরণ করা এক ধরনের কণা
+তড়িৎচৌম্বক তরঙ্গ | তড়িৎ ও চৌম্বক ক্ষেত্রের তরঙ্গ; আলো এমন তরঙ্গ (ম্যাক্সওয়েল)
+## timeline
+আনু. খ্রিস্টপূর্ব ৬০০ | থেলিস | সূর্যগ্রহণের ভবিষ্যদ্বাণী
+আনু. খ্রিস্টপূর্ব ৪০০ | ডেমোক্রিটাস | পদার্থ পরমাণু দিয়ে তৈরি, এই ধারণা
+আনু. খ্রিস্টপূর্ব ২৫০ | আর্কিমিডিস | ভাসমান বস্তুর নীতি; লিভার
+আনু. ৮২০ | আল-খোয়ারিজমি | বীজগণিত; তাঁর নাম থেকে "অ্যালগরিদম" শব্দ
+আনু. ১০২০ | ইবনে আল-হাইসাম | আলো ও দৃষ্টি নিয়ে পরীক্ষা
+১৫৪৩ | কোপার্নিকাস | সূর্যকেন্দ্রিক সৌরজগতের মডেল
+১৬০৯ | গ্যালিলিও | দুরবিনে পর্যবেক্ষণ; পরীক্ষাই সত্যের মাপকাঠি
+১৬৮৭ | নিউটন | গতির সূত্র ও মহাকর্ষ সূত্র
+১৮৬৫ | ম্যাক্সওয়েল | আলো তড়িৎচৌম্বক তরঙ্গ
+১৮৯৮ | মেরি কুরি | রেডিয়াম ও পোলোনিয়াম আবিষ্কার; তেজস্ক্রিয়তা গবেষণা
+১৮৯৫ | জগদীশচন্দ্র বসু | তারবিহীন রেডিও সংকেতের প্রকাশ্য প্রদর্শন; মিলিমিটার তরঙ্গ
+১৯০৫ | আইনস্টাইন | বিশেষ আপেক্ষিকতা; আলোক-তড়িৎ ক্রিয়া
+১৯১১ | রাদারফোর্ড | পরমাণুর নিউক্লিয়াস আবিষ্কার
+১৯২৪ | সত্যেন্দ্রনাথ বসু | বসু পরিসংখ্যান; তাঁর নামে বোসন
+২০১২ | সার্নের বিজ্ঞানীরা | হিগস বোসন আবিষ্কার
+## visual
+পদার্থবিজ্ঞানের গল্পের কিছু মাইলফলক। "আনু." মানে আনুমানিক সময়।
+## real
+কম্পিউটার ক্লাসে যখন "অ্যালগরিদম" শব্দটি বলো, তখন আসলে আল-খোয়ারিজমির নাম উচ্চারণ করছ। খবরে যখন "হিগস বোসন" পড়ো, তখন পড়ছ সত্যেন্দ্রনাথ বসুর নাম। পদার্থবিজ্ঞানের ইতিহাস আমাদের যতটা দূরের মনে হয়, আসলে ততটা নয়।
+## mistakes
+x বিজ্ঞান শুধু ইউরোপেই তৈরি হয়েছে।
+v ইউরোপীয় রেনেসাঁর অনেক আগেই গ্রিক, ভারতীয়, চীনা ও মুসলিম বিজ্ঞানীরা গুরুত্বপূর্ণ অবদান রেখেছেন, আর আমাদের অঞ্চলের জগদীশচন্দ্র বসু ও সত্যেন্দ্রনাথ বসু বিশ্বমানের আবিষ্কার করেছেন।
+x আপেল পড়তে দেখে নিউটন মহাকর্ষ আবিষ্কার করেন।
+v জিনিস যে নিচে পড়ে, মানুষ সবসময়ই জানত। নিউটনের কৃতিত্ব হলো গাণিতিক সূত্র, যা দেখায় একই মহাকর্ষ আপেলকে টানে আর চাঁদকে কক্ষপথে ধরে রাখে।
+## remember
+- আদি পর্ব: থেলিস, পিথাগোরাস, ডেমোক্রিটাস, আর্কিমিডিস; ভারতীয়, চীনা ও মুসলিম বিজ্ঞানী (আল-খোয়ারিজমি, ইবনে আল-হাইসাম)।
+- গ্যালিলিও পরীক্ষাকে সত্যের মাপকাঠি বানান; আধুনিক বিজ্ঞানের জনক।
+- কোপার্নিকাস ১৫৪৩ (সূর্যকেন্দ্রিক); নিউটন ১৬৮৭ (গতির সূত্র, মহাকর্ষ)।
+- আধুনিক পদার্থবিজ্ঞান: ম্যাক্সওয়েল, রাদারফোর্ড, মেরি কুরি, আইনস্টাইন, সত্যেন্দ্রনাথ বসু (বোসন)।
+- জগদীশচন্দ্র বসু: তারবিহীন রেডিও সংকেত (১৮৯৫), ৫ mm মাইক্রোওয়েভ, সেমিকন্ডাক্টর ডিটেক্টর, ক্রেস্কোগ্রাফ।
+- বর্তমান: স্ট্যান্ডার্ড মডেল, হিগস বোসন (২০১২), প্রসারণশীল মহাবিশ্ব, ডার্ক ম্যাটার ও ডার্ক এনার্জি।
+## think
+পৃথিবী সূর্যের চারপাশে ঘোরে, এই ধারণা সমর্থন করায় গ্যালিলিওকে শাস্তি পেতে হয়েছিল। তোমার কী মনে হয়, পরীক্ষা সমর্থন করলেও নতুন বৈজ্ঞানিক ধারণা কখনো কখনো এত বাধার মুখে পড়ে কেন?
+## quiz
+? পরীক্ষাকে ধারণা যাচাইয়ের মাপকাঠি বানানোর জন্য কাকে আধুনিক বিজ্ঞানের জনক বলা হয়?
+- নিউটন
+* গ্যালিলিও
+- কোপার্নিকাস
+- আর্কিমিডিস
+= গ্যালিলিও জোর দিয়েছিলেন, ধারণাকে পরীক্ষা ও পর্যবেক্ষণ দিয়ে যাচাই করতে হবে।
+? "বোসন" কণার নাম কোন বিজ্ঞানীর সম্মানে?
+- জগদীশচন্দ্র বসু
+* সত্যেন্দ্রনাথ বসু
+- নিলস বোর
+- রবার্ট বয়েল
+= আলোর কণা গোনা নিয়ে সত্যেন্দ্রনাথ বসুর কাজ থেকে "বোসন" নাম এসেছে।
+? ১৫৪৩ সালে বইয়ে সূর্যকেন্দ্রিক মডেল প্রথম কে প্রস্তাব করেন?
+- গ্যালিলিও
+- নিউটন
+* কোপার্নিকাস
+- টলেমি
+= কোপার্নিকাস এটি প্রস্তাব করেন; পরে গ্যালিলিও পর্যবেক্ষণ দিয়ে সমর্থন করেন।
+? গাছের অতি সূক্ষ্ম বৃদ্ধি মাপতে জগদীশচন্দ্র বসু কোন যন্ত্র আবিষ্কার করেন?
+- ব্যারোমিটার
+* ক্রেস্কোগ্রাফ
+- তড়িৎবীক্ষণ যন্ত্র
+- বর্ণালিবীক্ষণ যন্ত্র
+= ক্রেস্কোগ্রাফ গাছের খুব ছোট নড়াচড়া ও বৃদ্ধিকে বড় করে রেকর্ড করত।
+
+@@ 1.4
+@visual objectives
+@related 1.1 1.3 1.5
+== en
+## what
+Why do we study physics at all? The book gives **three objectives**: to unfold the mysteries of nature, to discover the laws of nature, and to use those laws to build technology.
+## simple
+Think of physics as a three-step journey.
+
+**Step 1: Wonder and find out (unfold the mystery).** Why is the sky blue? Why does lightning come before thunder? Physics starts with curiosity about things we see every day and tries to explain them.
+
+**Step 2: Find the rule behind it (know the laws of nature).** After many observations and experiments, scientists find a pattern that always holds, like "every action has an equal and opposite reaction" or "energy is never destroyed". Nature follows these rules everywhere, on Earth and in space.
+
+**Step 3: Put the rule to work (develop technology).** Once we know a rule, we can use it. Knowing how magnets and electric current affect each other gave us electric motors and generators. Knowing how light bends gave us spectacles, cameras and optical fibre internet.
+
+So physics moves from **"why?"** to **"what is the rule?"** to **"what can we build with it?"**
+## definition
+The objectives of physics are:
+
+1. **To unfold the mystery of nature**: to explain natural events through observation and experiment.
+2. **To know the laws of nature**: to find the general rules (laws and principles) that natural events follow, and express them precisely, often in mathematical form.
+3. **To develop technology using the laws of nature**: to apply these laws to make tools, machines and systems that improve human life.
+## why
+Why does step 2 come before step 3? Because technology built on guesswork fails. A bridge designed without the laws of force and motion can collapse. A power plant built without the laws of energy can be dangerous. Knowing the exact law lets engineers predict what will happen **before** building anything.
+## terms
+Law of nature | A rule that natural events always follow, such as the law of gravitation
+Observation | Carefully watching and recording what happens
+Experiment | A planned test to check an idea
+Technology | Using scientific knowledge to make useful tools and systems
+## visual
+Pick an example and follow the three aims of physics: a mystery of nature, the law behind it, and the technology built from that law.
+## real
+Electricity at home is a perfect example. Faraday was curious about magnets and electricity (step 1), discovered the law of electromagnetic induction (step 2), and that law is why the power station can generate the electricity that runs your fan (step 3).
+## mistakes
+x Physics is useful only for scientists and engineers.
+v Everyone uses technology built on physics every day: phones, electric lights, vehicles, medical scans. Understanding physics also helps you make safe choices, like using electricity carefully.
+## remember
+- Objective 1: unfold the mystery of nature (explain what happens).
+- Objective 2: know the laws of nature (find the rules).
+- Objective 3: develop technology using those laws (use the rules).
+## think
+Pick one device in your home. Can you trace it back through the three steps: what natural question, which law, what technology?
+## quiz
+? Finding a rule that natural events always follow belongs to which objective of physics?
+- Unfolding the mystery of nature
+* Knowing the laws of nature
+- Developing technology
+- None of these
+= A law is a general rule that nature follows; finding it is the second objective.
+? The electric motor is mainly an example of:
+- Unfolding a mystery
+- A law of nature
+* Technology built from a law of nature
+- An observation
+= The motor is a machine built by applying the laws of electricity and magnetism.
+== bn
+## what
+আমরা পদার্থবিজ্ঞান পড়ি কেন? বইয়ে এর **তিনটি উদ্দেশ্য** বলা হয়েছে: প্রকৃতির রহস্য উদ্ঘাটন করা, প্রকৃতির নিয়মগুলো জানা, আর সেই নিয়ম কাজে লাগিয়ে প্রযুক্তি তৈরি করা।
+## simple
+পদার্থবিজ্ঞানকে তিন ধাপের একটি যাত্রা হিসেবে ভাবো।
+
+**ধাপ ১: অবাক হও, খুঁজে বের করো (রহস্য উদ্ঘাটন)।** আকাশ নীল কেন? বজ্রপাতের আলো আগে দেখা যায়, শব্দ পরে শোনা যায় কেন? রোজকার দেখা জিনিস নিয়ে কৌতূহল থেকেই পদার্থবিজ্ঞানের শুরু।
+
+**ধাপ ২: পেছনের নিয়মটা বের করো (প্রকৃতির নিয়ম জানা)।** অনেক পর্যবেক্ষণ আর পরীক্ষার পর বিজ্ঞানীরা এমন একটি নিয়ম খুঁজে পান যা সবসময় খাটে, যেমন "প্রত্যেক ক্রিয়ার সমান ও বিপরীত প্রতিক্রিয়া আছে" বা "শক্তি কখনো ধ্বংস হয় না"। প্রকৃতি এই নিয়মগুলো পৃথিবীতে যেমন মানে, মহাকাশেও তেমনি মানে।
+
+**ধাপ ৩: নিয়মটাকে কাজে লাগাও (প্রযুক্তির বিকাশ)।** নিয়ম জানলে তা ব্যবহার করা যায়। চুম্বক আর বিদ্যুৎপ্রবাহ একে অপরকে কীভাবে প্রভাবিত করে তা জেনে আমরা পেয়েছি বৈদ্যুতিক মোটর আর জেনারেটর। আলো কীভাবে বাঁকে তা জেনে পেয়েছি চশমা, ক্যামেরা আর অপটিক্যাল ফাইবারের ইন্টারনেট।
+
+তাহলে পদার্থবিজ্ঞান এগোয় **"কেন?"** থেকে **"নিয়মটা কী?"**, তারপর **"এ দিয়ে কী বানানো যায়?"** এর দিকে।
+## definition
+পদার্থবিজ্ঞানের উদ্দেশ্য:
+
+1. **প্রকৃতির রহস্য উদ্ঘাটন**: পর্যবেক্ষণ ও পরীক্ষার মাধ্যমে প্রাকৃতিক ঘটনার ব্যাখ্যা দেওয়া।
+2. **প্রকৃতির নিয়মগুলো জানা**: প্রাকৃতিক ঘটনা যে সাধারণ নিয়ম (সূত্র ও নীতি) মেনে চলে তা খুঁজে বের করা এবং নিখুঁতভাবে, প্রায়ই গাণিতিক রূপে প্রকাশ করা।
+3. **প্রাকৃতিক নিয়ম ব্যবহার করে প্রযুক্তির বিকাশ**: এসব নিয়ম প্রয়োগ করে এমন যন্ত্র, কৌশল ও ব্যবস্থা তৈরি করা যা মানুষের জীবনকে উন্নত করে।
+## why
+ধাপ ২ কেন ধাপ ৩-এর আগে? কারণ অনুমানের ওপর তৈরি প্রযুক্তি ব্যর্থ হয়। বল ও গতির নিয়ম না মেনে বানানো সেতু ভেঙে পড়তে পারে। শক্তির নিয়ম না জেনে বানানো বিদ্যুৎকেন্দ্র বিপজ্জনক হতে পারে। নিখুঁত নিয়ম জানা থাকলে কিছু বানানোর **আগেই** প্রকৌশলীরা বলে দিতে পারেন কী ঘটবে।
+## terms
+প্রাকৃতিক নিয়ম | যে নিয়ম প্রাকৃতিক ঘটনা সবসময় মেনে চলে, যেমন মহাকর্ষ সূত্র
+পর্যবেক্ষণ | মনোযোগ দিয়ে দেখা ও লিখে রাখা কী ঘটছে
+পরীক্ষা | কোনো ধারণা যাচাইয়ের জন্য পরিকল্পিত কাজ
+প্রযুক্তি | বৈজ্ঞানিক জ্ঞান দিয়ে দরকারি যন্ত্র ও ব্যবস্থা তৈরি
+## visual
+একটি উদাহরণ বেছে নাও আর পদার্থবিজ্ঞানের তিনটি উদ্দেশ্য অনুসরণ করো: প্রকৃতির রহস্য, এর পেছনের সূত্র, আর সেই সূত্র থেকে তৈরি প্রযুক্তি।
+## real
+বাসার বিদ্যুৎ এর চমৎকার উদাহরণ। ফ্যারাডে চুম্বক আর বিদ্যুৎ নিয়ে কৌতূহলী ছিলেন (ধাপ ১), তড়িৎচুম্বকীয় আবেশের সূত্র আবিষ্কার করলেন (ধাপ ২), আর সেই সূত্রের জন্যই বিদ্যুৎকেন্দ্র বিদ্যুৎ উৎপাদন করতে পারে যা তোমার ফ্যান চালায় (ধাপ ৩)।
+## mistakes
+x পদার্থবিজ্ঞান শুধু বিজ্ঞানী আর প্রকৌশলীদের কাজে লাগে।
+v আমরা সবাই প্রতিদিন পদার্থবিজ্ঞানের ওপর তৈরি প্রযুক্তি ব্যবহার করি: ফোন, বৈদ্যুতিক বাতি, যানবাহন, চিকিৎসার স্ক্যান। পদার্থবিজ্ঞান বুঝলে নিরাপদ সিদ্ধান্ত নেওয়াও সহজ হয়, যেমন সাবধানে বিদ্যুৎ ব্যবহার করা।
+## remember
+- উদ্দেশ্য ১: প্রকৃতির রহস্য উদ্ঘাটন (কী ঘটে তার ব্যাখ্যা)।
+- উদ্দেশ্য ২: প্রকৃতির নিয়ম জানা (নিয়ম খুঁজে বের করা)।
+- উদ্দেশ্য ৩: নিয়ম ব্যবহার করে প্রযুক্তির বিকাশ (নিয়ম কাজে লাগানো)।
+## think
+তোমার বাসার একটি যন্ত্র বেছে নাও। তিনটি ধাপ ধরে কি পেছনে যেতে পারো: কোন প্রাকৃতিক প্রশ্ন, কোন নিয়ম, কোন প্রযুক্তি?
+## quiz
+? প্রাকৃতিক ঘটনা সবসময় যে নিয়ম মেনে চলে তা খুঁজে বের করা পদার্থবিজ্ঞানের কোন উদ্দেশ্যের মধ্যে পড়ে?
+- প্রকৃতির রহস্য উদ্ঘাটন
+* প্রকৃতির নিয়মগুলো জানা
+- প্রযুক্তির বিকাশ
+- কোনোটিই নয়
+= সূত্র হলো প্রকৃতির মেনে চলা সাধারণ নিয়ম; তা খুঁজে বের করা দ্বিতীয় উদ্দেশ্য।
+? বৈদ্যুতিক মোটর মূলত কীসের উদাহরণ?
+- রহস্য উদ্ঘাটনের
+- একটি প্রাকৃতিক নিয়মের
+* প্রাকৃতিক নিয়ম থেকে তৈরি প্রযুক্তির
+- একটি পর্যবেক্ষণের
+= তড়িৎ ও চুম্বকের নিয়ম প্রয়োগ করে তৈরি যন্ত্র হলো মোটর।
+
+@@ 1.5
+@visual magnitudes
+@related 1.5.1 1.5.2 1.5.3
+== en
+## what
+A **physical quantity** is anything in nature that we can measure and express as a number with a unit, like length, mass, time or temperature. This lesson shows that just **seven** of them are enough to build all the rest.
+## simple
+Saying "water freezes when it is cold" is observation. Saying "pure water freezes at 0 °C at normal air pressure" is **science**. The difference is measurement.
+
+There seem to be endless things we can measure: length, volume, speed, weight, temperature, pressure, density, electric current, brightness... You might think we need a separate unit invented for each one. The good news: we don't.
+
+Scientists found that if we fix units for just **seven quantities**, every other quantity can be built from them. These seven are the **fundamental quantities**. Everything built from them is a **derived quantity**.
+
+For example, speed is not fundamental. It is distance divided by time, so it is built from **length** and **time**. Area is length × length. Density is mass ÷ volume. Force comes from mass, length and time together.
+
+A measurement always has two parts: a **number** and a **unit**. "5" means nothing by itself. "5 m", "5 kg" or "5 s" tell you exactly what was measured.
+## definition
+A **physical quantity** is anything that can be measured.
+
+**Fundamental quantities** are quantities that do not depend on any other quantity. There are seven: length, mass, time, temperature, electric current, luminous intensity and amount of substance.
+
+**Derived quantities** are quantities that are expressed in terms of one or more fundamental quantities, such as velocity, acceleration, force, work, area and volume.
+## why
+Why only seven? Because every derived quantity can be written as a combination of these. If everyone in the world agrees on these seven units, then every other unit, like m/s for speed or kg/m³ for density, follows automatically. This keeps science simple and lets scientists in Dhaka, Tokyo or London compare results.
+## terms
+Physical quantity | Anything that can be measured (number + unit)
+Fundamental quantity | Does not depend on other quantities; there are seven
+Derived quantity | Built from fundamental quantities (e.g. speed, area, force)
+Unit | The standard used to express a quantity (e.g. metre)
+SI | Système International d'Unités, the international system of units
+## formula
+$$ Measurement = number × unit
+Length | metre | m
+Mass | kilogram | kg
+Time | second | s
+Electric current | ampere | A
+Temperature | kelvin | K
+Amount of substance | mole | mol
+Luminous intensity | candela | cd
+! These are the seven fundamental quantities with their SI units and symbols.
+## visual
+Switch between length, mass and time. Tap any two rows to see how many "×10 steps" separate them.
+## real
+When a doctor writes your weight (kg), height (m or cm), temperature (°C) and pulse (beats per minute, which is per unit time), every one of those is a physical quantity. Pulse rate is derived: it uses time.
+## example
+Q: Is "speed = 20 m/s" a fundamental or derived quantity? Which fundamental quantities does it use?
+Solution: Speed = distance ÷ time.
+> Speed is found by dividing one quantity by another, so it cannot be fundamental.
+Answer: Speed is a derived quantity. It uses length (m) and time (s).
+> The unit m/s itself shows the two fundamental quantities inside it.
+## mistakes
+x Weight is a fundamental quantity.
+v Mass is fundamental. Weight is a force (mass × acceleration due to gravity), so it is derived.
+x A number alone is a measurement.
+v A measurement needs both a number and a unit: "3" is meaningless, "3 kg" is a measurement.
+## remember
+- Physical quantity = anything measurable, written as number + unit.
+- Seven fundamental quantities: length, mass, time, electric current, temperature, amount of substance, luminous intensity.
+- SI units: m, kg, s, A, K, mol, cd.
+- Everything else (speed, area, force, density…) is derived.
+## think
+Colour and beauty are both things we notice. Which one can be turned into a physical quantity with a number and a unit? (Hint: colour of light depends on something measurable.)
+## quiz
+? Which of these is a fundamental quantity?
+- Velocity
+- Area
+* Electric current
+- Force
+= Electric current (ampere) is one of the seven fundamental quantities. The others are derived.
+? The SI unit of amount of substance is:
+- kilogram
+* mole
+- candela
+- kelvin
+= Amount of substance is measured in moles (mol).
+? Density = mass ÷ volume. Density is therefore:
+- A fundamental quantity
+* A derived quantity
+- Not a physical quantity
+- A unit
+= It is built from mass and length (volume = length³), so it is derived.
+== bn
+## what
+**ভৌত রাশি** হলো প্রকৃতির এমন যেকোনো কিছু যা মাপা যায় এবং একক সহ একটি সংখ্যা দিয়ে প্রকাশ করা যায়, যেমন দৈর্ঘ্য, ভর, সময় বা তাপমাত্রা। এই পাঠে দেখব, মাত্র **সাতটি** রাশি দিয়েই বাকি সব রাশি তৈরি করা যায়।
+## simple
+"ঠান্ডায় পানি জমে যায়" বলা হলো পর্যবেক্ষণ। "স্বাভাবিক বায়ুচাপে বিশুদ্ধ পানি ০ °C তাপমাত্রায় জমে বরফ হয়" বলা হলো **বিজ্ঞান**। পার্থক্যটা পরিমাপে।
+
+মাপা যায় এমন জিনিসের যেন শেষ নেই: দৈর্ঘ্য, আয়তন, দ্রুতি, ওজন, তাপমাত্রা, চাপ, ঘনত্ব, বিদ্যুৎপ্রবাহ, উজ্জ্বলতা... মনে হতে পারে প্রত্যেকটির জন্য আলাদা একক বানাতে হবে। সুখবর হলো, তা লাগে না।
+
+বিজ্ঞানীরা দেখেছেন, মাত্র **সাতটি রাশির** একক ঠিক করে দিলেই বাকি সব রাশি সেগুলো দিয়ে তৈরি করা যায়। এই সাতটি হলো **মৌলিক রাশি**। এদের দিয়ে তৈরি বাকি সবই **লব্ধ রাশি**।
+
+যেমন, দ্রুতি মৌলিক নয়। দ্রুতি = দূরত্ব ÷ সময়, অর্থাৎ এটি **দৈর্ঘ্য** আর **সময়** দিয়ে তৈরি। ক্ষেত্রফল = দৈর্ঘ্য × দৈর্ঘ্য। ঘনত্ব = ভর ÷ আয়তন। বল আসে ভর, দৈর্ঘ্য আর সময় মিলে।
+
+প্রতিটি পরিমাপের দুটি অংশ: একটি **সংখ্যা** আর একটি **একক**। শুধু "৫" এর কোনো অর্থ নেই। "৫ m", "৫ kg" বা "৫ s" বললে বোঝা যায় ঠিক কী মাপা হয়েছে।
+## definition
+যা কিছু পরিমাপ করা যায় তাকে **ভৌত রাশি** বলে।
+
+যেসব রাশি অন্য কোনো রাশির ওপর নির্ভর করে না, সেগুলো **মৌলিক রাশি**। মৌলিক রাশি সাতটি: দৈর্ঘ্য, ভর, সময়, তাপমাত্রা, তড়িৎপ্রবাহ, দীপন তীব্রতা ও পদার্থের পরিমাণ।
+
+যেসব রাশি এক বা একাধিক মৌলিক রাশির সাহায্যে প্রকাশ করা হয়, সেগুলো **লব্ধ রাশি**, যেমন বেগ, ত্বরণ, বল, কাজ, ক্ষেত্রফল, আয়তন।
+## why
+মাত্র সাতটি কেন? কারণ প্রতিটি লব্ধ রাশিকে এদের কোনো না কোনো মিশ্রণ হিসেবে লেখা যায়। পৃথিবীর সবাই যদি এই সাতটি এককে একমত হয়, তাহলে বাকি সব একক, যেমন দ্রুতির m/s বা ঘনত্বের kg/m³, আপনা থেকেই ঠিক হয়ে যায়। এতে বিজ্ঞান সহজ থাকে, আর ঢাকা, টোকিও বা লন্ডনের বিজ্ঞানীরা নিজেদের ফলাফল মিলিয়ে দেখতে পারেন।
+## terms
+ভৌত রাশি | যা মাপা যায় (সংখ্যা + একক)
+মৌলিক রাশি | অন্য রাশির ওপর নির্ভর করে না; মোট সাতটি
+লব্ধ রাশি | মৌলিক রাশি দিয়ে তৈরি (যেমন দ্রুতি, ক্ষেত্রফল, বল)
+একক | যে আদর্শ দিয়ে রাশি প্রকাশ করা হয় (যেমন মিটার)
+SI | আন্তর্জাতিক একক পদ্ধতি (Système International d'Unités)
+## formula
+$$ পরিমাপ = সংখ্যা × একক
+দৈর্ঘ্য | মিটার | m
+ভর | কিলোগ্রাম | kg
+সময় | সেকেন্ড | s
+তড়িৎপ্রবাহ | অ্যাম্পিয়ার | A
+তাপমাত্রা | কেলভিন | K
+পদার্থের পরিমাণ | মোল | mol
+দীপন তীব্রতা | ক্যান্ডেলা | cd
+! এগুলো সাতটি মৌলিক রাশি, তাদের SI একক ও প্রতীক।
+## visual
+দৈর্ঘ্য, ভর আর সময়ের মধ্যে বদলাও। যেকোনো দুটি সারিতে চাপ দিয়ে দেখো এদের মধ্যে কতগুলো "×১০ ধাপ"।
+## real
+ডাক্তার যখন তোমার ওজন (kg), উচ্চতা (m বা cm), তাপমাত্রা (°C) আর নাড়ির স্পন্দন (প্রতি মিনিটে কতবার, অর্থাৎ একক সময়ে) লেখেন, প্রত্যেকটিই ভৌত রাশি। নাড়ির হার লব্ধ রাশি, কারণ এতে সময় লাগে।
+## example
+প্রশ্ন: "দ্রুতি = ২০ m/s" মৌলিক না লব্ধ রাশি? এতে কোন কোন মৌলিক রাশি আছে?
+সমাধান: দ্রুতি = দূরত্ব ÷ সময়।
+> একটি রাশিকে আরেকটি দিয়ে ভাগ করে দ্রুতি পাওয়া যায়, তাই এটি মৌলিক হতে পারে না।
+উত্তর: দ্রুতি লব্ধ রাশি। এতে আছে দৈর্ঘ্য (m) ও সময় (s)।
+> m/s এককটিই ভেতরের দুটি মৌলিক রাশিকে দেখিয়ে দেয়।
+## mistakes
+x ওজন একটি মৌলিক রাশি।
+v ভর মৌলিক রাশি। ওজন হলো বল (ভর × অভিকর্ষজ ত্বরণ), তাই এটি লব্ধ রাশি।
+x শুধু সংখ্যাই একটি পরিমাপ।
+v পরিমাপে সংখ্যা ও একক দুটোই লাগে: "৩" অর্থহীন, "৩ kg" হলো পরিমাপ।
+## remember
+- ভৌত রাশি = যা মাপা যায়, লেখা হয় সংখ্যা + একক দিয়ে।
+- সাতটি মৌলিক রাশি: দৈর্ঘ্য, ভর, সময়, তড়িৎপ্রবাহ, তাপমাত্রা, পদার্থের পরিমাণ, দীপন তীব্রতা।
+- SI একক: m, kg, s, A, K, mol, cd।
+- বাকি সব (দ্রুতি, ক্ষেত্রফল, বল, ঘনত্ব…) লব্ধ রাশি।
+## think
+রং আর সৌন্দর্য দুটোই আমরা টের পাই। এর কোনটিকে সংখ্যা ও একক দিয়ে ভৌত রাশি বানানো যায়? (ইঙ্গিত: আলোর রং এমন কিছুর ওপর নির্ভর করে যা মাপা যায়।)
+## quiz
+? নিচের কোনটি মৌলিক রাশি?
+- বেগ
+- ক্ষেত্রফল
+* তড়িৎপ্রবাহ
+- বল
+= তড়িৎপ্রবাহ (অ্যাম্পিয়ার) সাতটি মৌলিক রাশির একটি। বাকিগুলো লব্ধ।
+? পদার্থের পরিমাণের SI একক:
+- কিলোগ্রাম
+* মোল
+- ক্যান্ডেলা
+- কেলভিন
+= পদার্থের পরিমাণ মোল (mol) এককে মাপা হয়।
+? ঘনত্ব = ভর ÷ আয়তন। তাহলে ঘনত্ব:
+- মৌলিক রাশি
+* লব্ধ রাশি
+- ভৌত রাশি নয়
+- একটি একক
+= এটি ভর আর দৈর্ঘ্য (আয়তন = দৈর্ঘ্য³) দিয়ে তৈরি, তাই লব্ধ রাশি।
+
+@@ 1.5.1
+@visual siunits
+@related 1.5 1.5.2 1.5.4
+== en
+## what
+A **unit** is an agreed standard we compare a quantity with. This lesson explains why the whole world uses one system, the **SI**, and how its seven units are now defined using fixed constants of nature.
+## simple
+Imagine buying cloth where each shopkeeper uses the length of his own arm as "one hand". You would get a different amount from every shop! That is why we need **standard units** that mean exactly the same everywhere.
+
+The world agreed on the **International System of Units (SI)**. Its seven base units are the metre, kilogram, second, ampere, kelvin, mole and candela.
+
+But how do we make sure "one metre" is exactly the same in Dhaka and in Paris? In the past, some units were defined by physical objects. For example, the kilogram was the mass of a special metal cylinder kept in France. Objects can get scratched, dusty or change slightly, so that was not perfect.
+
+So since **May 2019**, all seven units are defined using **constants of nature** that never change, like the speed of light. Any well-equipped laboratory in the world can now realise these units very accurately.
+## definition
+A **unit** is a fixed, agreed amount of a quantity, used as a standard to measure other amounts of the same quantity.
+
+The **SI (Système International d'Unités)** is the internationally accepted system of units. Its seven base units are defined from fixed values of natural constants:
+
+- **Second (s)**: from the frequency of radiation of the caesium-133 atom, fixed at 9 192 631 770 Hz.
+- **Metre (m)**: from the speed of light in vacuum, fixed at 299 792 458 m/s. One metre is the distance light travels in 1/299 792 458 of a second.
+- **Kilogram (kg)**: from the Planck constant, fixed at 6.626 070 15 × 10^{-34} J s.
+- **Ampere (A)**: from the charge of an electron, fixed at 1.602 176 634 × 10^{-19} C.
+- **Kelvin (K)**: from the Boltzmann constant, fixed at 1.380 649 × 10^{-23} J/K.
+- **Mole (mol)**: from the Avogadro constant, fixed at 6.022 140 76 × 10^{23} particles per mole.
+- **Candela (cd)**: from the luminous efficacy of a particular green light, fixed at 683 lumens per watt.
+## why
+Why use constants of nature? Because they are the same everywhere in the universe and never wear out. A metal cylinder can lose a few atoms; the speed of light cannot change. Defining units this way makes them permanent and available to every lab.
+## terms
+Unit | Agreed standard amount used for measuring
+SI | International System of Units
+Base unit | One of the seven SI units of fundamental quantities
+Speed of light (c) | 299 792 458 m/s, used to define the metre
+Planck constant (h) | Used to define the kilogram
+Avogadro constant | 6.022 140 76 × 10^{23} per mole, used to define the mole
+## visual
+First measure one table with hand-spans and a metre scale to see why we need a standard unit. Then open the seven SI base units.
+## real
+The textbook gives a nice "feel" for each unit:
+
+- About **1 metre**: from your feet to your stomach.
+- About **1 kg**: the water in a 1-litre bottle, or four glasses of water.
+- About **1 second**: the time to say "one thousand one".
+- About **1 ampere**: three mobile phones charging at the same time.
+- About **1 kelvin**: the temperature rise you can feel on someone with a mild fever. (A change of 1 K is the same size as a change of 1 °C.)
+- About **1 mole of water**: a large spoonful; a cup holds roughly ten moles.
+- About **1 candela**: the light from one candle.
+
+These are not exact, but they help you judge whether an answer makes sense.
+## mistakes
+x The kilogram is still defined by a metal block in France.
+v Since May 2019 the kilogram is defined from the Planck constant, a constant of nature.
+x "Kilogram" and "gram" are both base units.
+v The SI base unit of mass is the kilogram. The gram is 1/1000 of it.
+## remember
+- A unit is an agreed standard for measuring a quantity.
+- SI has seven base units: m, kg, s, A, K, mol, cd.
+- Since 2019 all seven are defined using fixed constants of nature (speed of light, Planck constant, electron charge, Boltzmann constant, Avogadro constant, caesium frequency, luminous efficacy).
+## think
+If you told a friend a pencil is "about 15 hands long", why would that be a bad measurement even if you measured carefully?
+## quiz
+? Which constant is used to define the metre?
+* Speed of light
+- Planck constant
+- Avogadro constant
+- Boltzmann constant
+= One metre is the distance light travels in vacuum in 1/299 792 458 of a second.
+? Which is the SI base unit of mass?
+- gram
+* kilogram
+- tonne
+- milligram
+= The kilogram (kg) is the SI base unit of mass.
+? Why were the SI units redefined using constants of nature?
+- Because objects are cheaper
+* Because constants never change and are the same everywhere
+- Because the old units were too small
+- Because only France could use them
+= A physical object can change slightly; a constant of nature cannot.
+== bn
+## what
+**একক** হলো সবাই মিলে ঠিক করা একটি আদর্শ, যার সাথে তুলনা করে কোনো রাশি মাপা হয়। এই পাঠে দেখব পুরো পৃথিবী কেন একটি পদ্ধতি, **SI**, ব্যবহার করে, আর এর সাতটি একক এখন প্রকৃতির স্থির ধ্রুবক দিয়ে কীভাবে সংজ্ঞায়িত।
+## simple
+ভাবো, কাপড় কিনতে গিয়ে দেখলে প্রত্যেক দোকানদার নিজের হাতের দৈর্ঘ্যকে "এক হাত" ধরে মাপছেন। প্রতিটি দোকান থেকে আলাদা পরিমাণ কাপড় পাবে! তাই দরকার **আদর্শ একক**, যার অর্থ সব জায়গায় হুবহু এক।
+
+পৃথিবী একমত হয়েছে **আন্তর্জাতিক একক পদ্ধতি (SI)** তে। এর সাতটি মৌলিক একক হলো মিটার, কিলোগ্রাম, সেকেন্ড, অ্যাম্পিয়ার, কেলভিন, মোল ও ক্যান্ডেলা।
+
+কিন্তু ঢাকার "এক মিটার" আর প্যারিসের "এক মিটার" যে হুবহু এক, তা নিশ্চিত করব কীভাবে? আগে কিছু একক কোনো বস্তু দিয়ে ঠিক করা হতো। যেমন, ফ্রান্সে রাখা একটি বিশেষ ধাতব সিলিন্ডারের ভরকে এক কিলোগ্রাম ধরা হতো। বস্তুতে দাগ পড়তে পারে, ধুলা জমতে পারে, সামান্য বদলে যেতে পারে, তাই এটি নিখুঁত ছিল না।
+
+তাই **২০১৯ সালের মে মাস** থেকে সাতটি এককই প্রকৃতির এমন **ধ্রুবক** দিয়ে সংজ্ঞায়িত, যা কখনো বদলায় না, যেমন আলোর বেগ। এখন পৃথিবীর যেকোনো ভালো ল্যাবরেটরিতে এই এককগুলো খুব নিখুঁতভাবে পাওয়া যায়।
+## definition
+কোনো রাশির একটি নির্দিষ্ট, সর্বসম্মত পরিমাণ, যাকে আদর্শ ধরে ওই রাশির অন্য পরিমাণ মাপা হয়, তাকে **একক** বলে।
+
+**SI (আন্তর্জাতিক একক পদ্ধতি)** হলো আন্তর্জাতিকভাবে স্বীকৃত একক পদ্ধতি। এর সাতটি মৌলিক একক প্রাকৃতিক ধ্রুবকের নির্দিষ্ট মান থেকে সংজ্ঞায়িত:
+
+- **সেকেন্ড (s)**: সিজিয়াম-১৩৩ পরমাণুর বিকিরণের কম্পাঙ্ক থেকে, যার মান ৯ ১৯২ ৬৩১ ৭৭০ Hz ধরা হয়েছে।
+- **মিটার (m)**: শূন্যস্থানে আলোর বেগ থেকে, যার মান ২৯৯ ৭৯২ ৪৫৮ m/s। আলো ১/২৯৯ ৭৯২ ৪৫৮ সেকেন্ডে যতটুকু দূরত্ব যায়, তা-ই এক মিটার।
+- **কিলোগ্রাম (kg)**: প্ল্যাঙ্কের ধ্রুবক থেকে, যার মান ৬.৬২৬ ০৭০ ১৫ × ১০^{-৩৪} J s।
+- **অ্যাম্পিয়ার (A)**: ইলেকট্রনের আধান থেকে, যার মান ১.৬০২ ১৭৬ ৬৩৪ × ১০^{-১৯} C।
+- **কেলভিন (K)**: বোলজম্যান ধ্রুবক থেকে, যার মান ১.৩৮০ ৬৪৯ × ১০^{-২৩} J/K।
+- **মোল (mol)**: অ্যাভোগাড্রো ধ্রুবক থেকে, যার মান প্রতি মোলে ৬.০২২ ১৪০ ৭৬ × ১০^{২৩}টি কণা।
+- **ক্যান্ডেলা (cd)**: একটি নির্দিষ্ট সবুজ আলোর দীপন কার্যকারিতা থেকে, যার মান ৬৮৩ লুমেন প্রতি ওয়াট।
+## why
+প্রকৃতির ধ্রুবক কেন? কারণ মহাবিশ্বের সব জায়গায় এগুলো এক এবং কখনো ক্ষয় হয় না। ধাতব সিলিন্ডার থেকে কয়েকটি পরমাণু হারিয়ে যেতে পারে, কিন্তু আলোর বেগ বদলাতে পারে না। এভাবে সংজ্ঞা দিলে একক চিরস্থায়ী হয় আর প্রতিটি ল্যাবে পাওয়া যায়।
+## terms
+একক | মাপার জন্য সর্বসম্মত আদর্শ পরিমাণ
+SI | আন্তর্জাতিক একক পদ্ধতি
+মৌলিক একক | মৌলিক রাশির সাতটি SI এককের একটি
+আলোর বেগ (c) | ২৯৯ ৭৯২ ৪৫৮ m/s, মিটারের সংজ্ঞায় ব্যবহৃত
+প্ল্যাঙ্কের ধ্রুবক (h) | কিলোগ্রামের সংজ্ঞায় ব্যবহৃত
+অ্যাভোগাড্রো ধ্রুবক | প্রতি মোলে ৬.০২২ ১৪০ ৭৬ × ১০^{২৩}, মোলের সংজ্ঞায় ব্যবহৃত
+## visual
+প্রথমে একটি টেবিল বিঘত আর মিটার স্কেল দিয়ে মেপে দেখো কেন মানক একক দরকার। তারপর SI-এর সাতটি মৌলিক একক খুলে দেখো।
+## real
+পাঠ্যবই প্রতিটি এককের একটা "আন্দাজ" দিয়েছে:
+
+- প্রায় **১ মিটার**: পা থেকে পেট পর্যন্ত।
+- প্রায় **১ kg**: ১ লিটারের বোতলের পানি, বা চার গ্লাস পানি।
+- প্রায় **১ সেকেন্ড**: "এক হাজার এক" বলতে যে সময় লাগে।
+- প্রায় **১ অ্যাম্পিয়ার**: একসাথে তিনটি মোবাইল ফোন চার্জ হলে।
+- প্রায় **১ কেলভিন**: কারও হালকা জ্বর হলে হাতে যে তাপমাত্রা বৃদ্ধি টের পাওয়া যায়। (১ K পরিবর্তন আর ১ °C পরিবর্তন সমান।)
+- প্রায় **১ মোল পানি**: এক বড় চামচ; এক কাপে প্রায় দশ মোল।
+- প্রায় **১ ক্যান্ডেলা**: একটি মোমবাতির আলো।
+
+এগুলো নিখুঁত নয়, কিন্তু উত্তরটা যুক্তিসংগত কি না বুঝতে সাহায্য করে।
+## mistakes
+x কিলোগ্রাম এখনো ফ্রান্সের একটি ধাতব খণ্ড দিয়ে সংজ্ঞায়িত।
+v ২০১৯ সালের মে থেকে কিলোগ্রাম প্রকৃতির ধ্রুবক প্ল্যাঙ্কের ধ্রুবক দিয়ে সংজ্ঞায়িত।
+x "কিলোগ্রাম" আর "গ্রাম" দুটোই মৌলিক একক।
+v ভরের SI মৌলিক একক কিলোগ্রাম। গ্রাম হলো এর ১/১০০০ অংশ।
+## remember
+- একক হলো রাশি মাপার সর্বসম্মত আদর্শ।
+- SI-তে সাতটি মৌলিক একক: m, kg, s, A, K, mol, cd।
+- ২০১৯ থেকে সাতটিই প্রকৃতির স্থির ধ্রুবক দিয়ে সংজ্ঞায়িত (আলোর বেগ, প্ল্যাঙ্কের ধ্রুবক, ইলেকট্রনের আধান, বোলজম্যান ধ্রুবক, অ্যাভোগাড্রো ধ্রুবক, সিজিয়ামের কম্পাঙ্ক, দীপন কার্যকারিতা)।
+## think
+বন্ধুকে যদি বলো একটি পেনসিল "প্রায় আধা হাত লম্বা", যত যত্ন করেই মাপো, এটা খারাপ পরিমাপ কেন?
+## quiz
+? মিটারের সংজ্ঞায় কোন ধ্রুবক ব্যবহার করা হয়?
+* আলোর বেগ
+- প্ল্যাঙ্কের ধ্রুবক
+- অ্যাভোগাড্রো ধ্রুবক
+- বোলজম্যান ধ্রুবক
+= আলো শূন্যস্থানে ১/২৯৯ ৭৯২ ৪৫৮ সেকেন্ডে যতটুকু যায়, তা-ই এক মিটার।
+? ভরের SI মৌলিক একক কোনটি?
+- গ্রাম
+* কিলোগ্রাম
+- টন
+- মিলিগ্রাম
+= ভরের SI মৌলিক একক কিলোগ্রাম (kg)।
+? SI এককগুলো প্রকৃতির ধ্রুবক দিয়ে নতুন করে সংজ্ঞায়িত করা হলো কেন?
+- বস্তু সস্তা বলে
+* ধ্রুবক কখনো বদলায় না এবং সব জায়গায় এক
+- পুরোনো একক খুব ছোট ছিল বলে
+- শুধু ফ্রান্স ব্যবহার করতে পারত বলে
+= বস্তু সামান্য বদলে যেতে পারে; প্রকৃতির ধ্রুবক বদলায় না।
+
+@@ 1.5.2
+@visual prefix
+@related 1.5.1 1.5.4
+== en
+## what
+**Prefixes** are short words (like kilo, milli, nano) placed in front of a unit to make it bigger or smaller by a power of 10. They let us write huge and tiny values without long strings of zeros.
+## simple
+The size of a galaxy is about 6 × 10^{20} m. The radius of a nucleus is about 10^{-15} m. Writing those with all their zeros would be tiring and easy to get wrong.
+
+Prefixes solve this. Each prefix is a shortcut for a power of 10:
+
+- **kilo (k)** = 10^{3} = 1000. So 1 km = 1000 m.
+- **centi (c)** = 10^{-2} = 1/100. So 1 cm = 0.01 m.
+- **milli (m)** = 10^{-3} = 1/1000. So 1 mm = 0.001 m, and 10 mL is one-hundredth of a litre.
+- **mega (M)** = 10^{6}, **giga (G)** = 10^{9}: your phone's storage in GB, a power plant in MW.
+- **micro (µ)** = 10^{-6}, **nano (n)** = 10^{-9}: sizes of cells and viruses.
+
+You already use prefixes every day: kilometre, kilogram, millilitre, megabyte.
+## analogy
+Prefixes work like money. One 1000-taka note is worth 1000 one-taka coins; in the same way, 1 **kilo**metre is 1000 metres. And just as 1 taka = 100 paisa, 1 metre = 100 **centi**metres. The prefix only tells you how big the "note" is; the thing you are counting stays the same.
+## definition
+**SI prefixes** are symbols placed before a unit to denote multiples or sub-multiples of that unit by powers of 10.
+
+Multiples: deca (da) 10^{1}, hecto (h) 10^{2}, kilo (k) 10^{3}, mega (M) 10^{6}, giga (G) 10^{9}, tera (T) 10^{12}, peta (P) 10^{15}, exa (E) 10^{18}.
+
+Sub-multiples: deci (d) 10^{-1}, centi (c) 10^{-2}, milli (m) 10^{-3}, micro (µ) 10^{-6}, nano (n) 10^{-9}, pico (p) 10^{-12}, femto (f) 10^{-15}, atto (a) 10^{-18}.
+## why
+Why powers of 10? Because our number system is based on 10, so changing a prefix just moves the decimal point. Converting 3.2 km to metres means moving the decimal three places to the right: 3200 m. No difficult division is needed.
+## terms
+Prefix | A symbol before a unit meaning a power of 10
+Multiple | A larger unit (kilo, mega, giga…)
+Sub-multiple | A smaller unit (milli, micro, nano…)
+Scientific notation | Writing a number as a × 10^{n}
+## formula
+$$ value in new unit = value × 10^{(old power − new power)}
+k | kilo | 10^{3}
+c | centi | 10^{-2}
+m | milli | 10^{-3}
+µ | micro | 10^{-6}
+n | nano | 10^{-9}
+! Example: 2.5 km → m: 2.5 × 10^{(3 − 0)} = 2500 m.
+## visual
+Type a value and choose the prefixes to convert between them. Watch how the power of 10 changes.
+## real
+Mobile data packs are sold in MB and GB (1 GB = 1000 MB in SI). Medicine doses are written in mg (1 mg = 0.001 g). Wi-Fi works at 2.4 GHz (2.4 × 10^{9} vibrations per second). A human hair is about 70 µm thick.
+## example
+Q: Convert 450 mg into kilograms.
+Given: 450 mg; milli = 10^{-3}, kilo = 10^{3}.
+Formula: value in kg = 450 × 10^{(−3 − 3)}
+> We subtract the new power (3) from the old power (−3).
+Calculation: 450 × 10^{-6} kg = 4.5 × 10^{-4} kg
+> 10^{-6} means move the decimal 6 places left.
+Answer: 450 mg = 4.5 × 10^{-4} kg = 0.00045 kg
+## example
+Q: A radio station broadcasts at 100 MHz. Write this in Hz.
+Given: mega = 10^{6}
+Calculation: 100 × 10^{6} Hz = 1 × 10^{8} Hz
+Answer: 10^{8} Hz, one hundred million vibrations per second.
+## mistakes
+x mm and Mm are the same.
+v Case matters: m (milli) = 10^{-3}, M (mega) = 10^{6}. 1 Mm is a billion times bigger than 1 mm.
+x 1 km = 100 m.
+v kilo means 1000, so 1 km = 1000 m.
+x Writing "kg" as "Kg".
+v Prefixes up to kilo are small letters: k. Prefixes from mega upward are capitals: M, G, T.
+## remember
+- Prefix = power of 10 in front of a unit.
+- kilo 10^{3}, mega 10^{6}, giga 10^{9}; centi 10^{-2}, milli 10^{-3}, micro 10^{-6}, nano 10^{-9}.
+- Small letters up to kilo (k); capital letters from mega (M) upward.
+- Changing prefix = moving the decimal point.
+## think
+Your phone's camera is "12 megapixels". How many pixels is that, written as a plain number?
+## quiz
+? 1 nanometre is equal to:
+- 10^{-6} m
+* 10^{-9} m
+- 10^{-3} m
+- 10^{9} m
+= nano = 10^{-9}.
+? 3.6 km equals:
+- 36 m
+- 360 m
+* 3600 m
+- 36 000 m
+= kilo = 1000, so 3.6 × 1000 = 3600 m.
+? Which prefix symbol is written correctly?
+- Km for kilometre
+* GHz for gigahertz
+- mHz for megahertz
+- NM for nanometre
+= Giga is written with capital G. Kilo is small k, mega is capital M, nano is small n.
+== bn
+## what
+**উপসর্গ** হলো এককের আগে বসানো ছোট শব্দ (যেমন কিলো, মিলি, ন্যানো), যা এককটিকে ১০-এর ঘাত অনুযায়ী বড় বা ছোট করে। এর ফলে অনেক শূন্য না লিখেই বিশাল বা ক্ষুদ্র মান লেখা যায়।
+## simple
+একটি গ্যালাক্সির আকার প্রায় ৬ × ১০^{২০} m। একটি নিউক্লিয়াসের ব্যাসার্ধ প্রায় ১০^{-১৫} m। এগুলো সব শূন্যসহ লিখতে গেলে ক্লান্ত লাগবে, ভুলও হবে সহজে।
+
+উপসর্গ এই সমস্যার সমাধান করে। প্রতিটি উপসর্গ ১০-এর একটি ঘাতের সংক্ষিপ্ত রূপ:
+
+- **কিলো (k)** = ১০^{৩} = ১০০০। তাই ১ km = ১০০০ m।
+- **সেন্টি (c)** = ১০^{-২} = ১/১০০। তাই ১ cm = ০.০১ m।
+- **মিলি (m)** = ১০^{-৩} = ১/১০০০। তাই ১ mm = ০.০০১ m, আর ১০ mL হলো এক লিটারের একশ ভাগের এক ভাগ।
+- **মেগা (M)** = ১০^{৬}, **গিগা (G)** = ১০^{৯}: ফোনের স্টোরেজ GB-তে, বিদ্যুৎকেন্দ্রের ক্ষমতা MW-তে।
+- **মাইক্রো (µ)** = ১০^{-৬}, **ন্যানো (n)** = ১০^{-৯}: কোষ আর ভাইরাসের আকার।
+
+তুমি প্রতিদিনই উপসর্গ ব্যবহার করো: কিলোমিটার, কিলোগ্রাম, মিলিলিটার, মেগাবাইট।
+## analogy
+উপসর্গ টাকার মতো কাজ করে। একটি ১০০০ টাকার নোট ১০০০টি এক টাকার কয়েনের সমান; একইভাবে ১ **কিলো**মিটার = ১০০০ মিটার। আবার ১ টাকা = ১০০ পয়সা যেমন, তেমনি ১ মিটার = ১০০ **সেন্টি**মিটার। উপসর্গ শুধু বলে "নোটটি" কত বড়; যা গুনছ তা একই থাকে।
+## definition
+এককের গুণিতক বা উপগুণিতক ১০-এর ঘাতে প্রকাশ করার জন্য এককের আগে যে প্রতীক বসানো হয়, তাকে **SI উপসর্গ** বলে।
+
+গুণিতক: ডেকা (da) ১০^{১}, হেক্টো (h) ১০^{২}, কিলো (k) ১০^{৩}, মেগা (M) ১০^{৬}, গিগা (G) ১০^{৯}, টেরা (T) ১০^{১২}, পেটা (P) ১০^{১৫}, এক্সা (E) ১০^{১৮}।
+
+উপগুণিতক: ডেসি (d) ১০^{-১}, সেন্টি (c) ১০^{-২}, মিলি (m) ১০^{-৩}, মাইক্রো (µ) ১০^{-৬}, ন্যানো (n) ১০^{-৯}, পিকো (p) ১০^{-১২}, ফেমটো (f) ১০^{-১৫}, অ্যাটো (a) ১০^{-১৮}।
+## why
+১০-এর ঘাত কেন? কারণ আমাদের সংখ্যা পদ্ধতি ১০-ভিত্তিক, তাই উপসর্গ বদলালে শুধু দশমিক বিন্দু সরে। ৩.২ km-কে মিটারে নিতে দশমিক তিন ঘর ডানে সরাও: ৩২০০ m। কঠিন ভাগ লাগে না।
+## terms
+উপসর্গ | এককের আগে বসানো প্রতীক, যা ১০-এর ঘাত বোঝায়
+গুণিতক | বড় একক (কিলো, মেগা, গিগা…)
+উপগুণিতক | ছোট একক (মিলি, মাইক্রো, ন্যানো…)
+বৈজ্ঞানিক প্রতীকে লেখা | সংখ্যাকে a × ১০^{n} আকারে লেখা
+## formula
+$$ নতুন এককে মান = মান × ১০^{(পুরোনো ঘাত − নতুন ঘাত)}
+k | কিলো | ১০^{৩}
+c | সেন্টি | ১০^{-২}
+m | মিলি | ১০^{-৩}
+µ | মাইক্রো | ১০^{-৬}
+n | ন্যানো | ১০^{-৯}
+! উদাহরণ: ২.৫ km → m: ২.৫ × ১০^{(৩ − ০)} = ২৫০০ m।
+## visual
+একটি মান লেখো আর উপসর্গ বেছে নিয়ে রূপান্তর করো। দেখো ১০-এর ঘাত কীভাবে বদলায়।
+## real
+মোবাইল ডেটা প্যাক বিক্রি হয় MB আর GB-তে (SI অনুযায়ী ১ GB = ১০০০ MB)। ওষুধের মাত্রা লেখা হয় mg-তে (১ mg = ০.০০১ g)। ওয়াই-ফাই চলে ২.৪ GHz-এ (প্রতি সেকেন্ডে ২.৪ × ১০^{৯} বার কম্পন)। একটি চুল প্রায় ৭০ µm পুরু।
+## example
+প্রশ্ন: ৪৫০ mg-কে কিলোগ্রামে প্রকাশ করো।
+দেওয়া আছে: ৪৫০ mg; মিলি = ১০^{-৩}, কিলো = ১০^{৩}।
+সূত্র: kg-তে মান = ৪৫০ × ১০^{(−৩ − ৩)}
+> পুরোনো ঘাত (−৩) থেকে নতুন ঘাত (৩) বিয়োগ করি।
+হিসাব: ৪৫০ × ১০^{-৬} kg = ৪.৫ × ১০^{-৪} kg
+> ১০^{-৬} মানে দশমিক ৬ ঘর বাঁয়ে সরাও।
+উত্তর: ৪৫০ mg = ৪.৫ × ১০^{-৪} kg = ০.০০০৪৫ kg
+## example
+প্রশ্ন: একটি রেডিও স্টেশন ১০০ MHz-এ সম্প্রচার করে। এটি Hz-এ লেখো।
+দেওয়া আছে: মেগা = ১০^{৬}
+হিসাব: ১০০ × ১০^{৬} Hz = ১ × ১০^{৮} Hz
+উত্তর: ১০^{৮} Hz, অর্থাৎ প্রতি সেকেন্ডে দশ কোটি কম্পন।
+## mistakes
+x mm আর Mm একই জিনিস।
+v ছোট-বড় হাতের অক্ষরে অর্থ বদলায়: m (মিলি) = ১০^{-৩}, M (মেগা) = ১০^{৬}। ১ Mm, ১ mm-এর চেয়ে একশ কোটি গুণ বড়।
+x ১ km = ১০০ m।
+v কিলো মানে ১০০০, তাই ১ km = ১০০০ m।
+x "kg" কে "Kg" লেখা।
+v কিলো পর্যন্ত উপসর্গ ছোট হাতের অক্ষরে: k। মেগা থেকে ওপরের উপসর্গ বড় হাতের: M, G, T।
+## remember
+- উপসর্গ = এককের আগে ১০-এর ঘাত।
+- কিলো ১০^{৩}, মেগা ১০^{৬}, গিগা ১০^{৯}; সেন্টি ১০^{-২}, মিলি ১০^{-৩}, মাইক্রো ১০^{-৬}, ন্যানো ১০^{-৯}।
+- কিলো পর্যন্ত ছোট হাতের অক্ষর (k); মেগা থেকে বড় হাতের (M)।
+- উপসর্গ বদলানো = দশমিক বিন্দু সরানো।
+## think
+তোমার ফোনের ক্যামেরা "১২ মেগাপিক্সেল"। সাধারণ সংখ্যায় লিখলে সেটি কত পিক্সেল?
+## quiz
+? ১ ন্যানোমিটার সমান:
+- ১০^{-৬} m
+* ১০^{-৯} m
+- ১০^{-৩} m
+- ১০^{৯} m
+= ন্যানো = ১০^{-৯}।
+? ৩.৬ km সমান:
+- ৩৬ m
+- ৩৬০ m
+* ৩৬০০ m
+- ৩৬ ০০০ m
+= কিলো = ১০০০, তাই ৩.৬ × ১০০০ = ৩৬০০ m।
+? কোন উপসর্গ-প্রতীক সঠিকভাবে লেখা?
+- কিলোমিটারের জন্য Km
+* গিগাহার্জের জন্য GHz
+- মেগাহার্জের জন্য mHz
+- ন্যানোমিটারের জন্য NM
+= গিগা লেখা হয় বড় হাতের G দিয়ে। কিলো ছোট k, মেগা বড় M, ন্যানো ছোট n।
+
+@@ 1.5.3
+@visual dimension
+@related 1.5 1.5.1 2.5
+== en
+## what
+The **dimension** of a quantity tells us which fundamental quantities it is made of, and to what power. For example, velocity is length divided by time, so its dimension is **LT^{-1}**.
+## simple
+Think of dimensions as a quantity's **recipe**. Every derived quantity is cooked from a few basic ingredients: **M** (mass), **L** (length) and **T** (time), and sometimes others like temperature or current.
+
+- Area = length × length → recipe **L^{2}**
+- Volume = length × length × length → **L^{3}**
+- Velocity = distance ÷ time → **LT^{-1}** (the −1 means "divided by time")
+- Acceleration = velocity ÷ time = distance ÷ time ÷ time → **LT^{-2}**
+- Force = mass × acceleration → **MLT^{-2}**
+
+The number part of a quantity does not matter here. A 2 m road and a 5000 km road both have dimension L. Dimension tells you **what kind** of quantity it is, not how much.
+
+In this book, the dimension of a quantity is written inside square brackets: [F] = MLT^{-2} means "the dimension of force is MLT^{-2}".
+## analogy
+Think of dimension as the **ingredient list** of a quantity. Velocity is "one length, divided by one time" (LT^{-1}); force is "one mass, one length, divided by time twice" (MLT^{-2}). You can't add 2 cups of rice to 3 spoons of salt and call it "5 of something"; in the same way, you can only add or compare quantities that have the same ingredient list.
+## definition
+The **dimension** of a physical quantity is the powers to which the fundamental quantities must be raised to express that quantity.
+
+It is written in square brackets. For example: [velocity] = LT^{-1}, [acceleration] = LT^{-2}, [force] = MLT^{-2}.
+## why
+Why is this useful? Because **both sides of a correct equation must have the same dimension**. You cannot add a length to a time, just as you cannot add 3 apples to 2 hours. So if you forget whether a formula is v = u + at or v = u + at^{2}, dimensions can tell you which one is possible:
+
+- [u] = LT^{-1}
+- [at] = LT^{-2} × T = LT^{-1} ✓ matches
+- [at^{2}] = LT^{-2} × T^{2} = L ✗ does not match velocity
+
+So v = u + at is dimensionally correct, and v = u + at^{2} cannot be right.
+## terms
+Dimension | The powers of fundamental quantities in a quantity
+M, L, T | Symbols for mass, length and time
+Dimensionally consistent | Both sides of an equation have the same dimension
+[ ] | Square brackets mean "dimension of"
+## formula
+$$ [velocity] = L / T = LT^{-1}
+$$ [acceleration] = LT^{-1} / T = LT^{-2}
+$$ [force] = M × LT^{-2} = MLT^{-2}
+M | mass | kg
+L | length | m
+T | time | s
+! A dimension check can show an equation is wrong, but it cannot find pure numbers like ½ or 2π.
+## visual
+Choose a quantity to see how its dimension is built from M, L and T.
+## real
+Engineers and scientists check dimensions all the time as a quick safety test. If a calculation for the strength of a bridge gives an answer with the dimension of time instead of force, they know immediately that a mistake was made somewhere, before anyone builds anything.
+## example
+Q: Find the dimension of momentum (momentum = mass × velocity).
+Given: [mass] = M, [velocity] = LT^{-1}
+> Write the dimension of each part first.
+Calculation: [momentum] = M × LT^{-1} = MLT^{-1}
+> Multiplying quantities means multiplying their dimensions.
+Answer: [momentum] = MLT^{-1}
+## example
+Q: Check whether s = ut + ½at^{2} is dimensionally correct (s = distance, u = velocity, a = acceleration, t = time).
+Step: [s] = L
+Step: [ut] = LT^{-1} × T = L
+Step: [½at^{2}] = LT^{-2} × T^{2} = L
+> ½ is a pure number and has no dimension.
+Answer: Every term has dimension L, so the equation is dimensionally correct.
+## mistakes
+x If an equation is dimensionally correct, it must be completely correct.
+v It could still have a wrong number, for example s = ut + at^{2} (missing ½) also has correct dimensions.
+x The dimension of velocity is m/s.
+v m/s is the unit. The dimension is LT^{-1}.
+## remember
+- Dimension = which fundamental quantities, and to what power.
+- [velocity] = LT^{-1}, [acceleration] = LT^{-2}, [force] = MLT^{-2}.
+- Both sides of a correct equation must have the same dimension.
+- Pure numbers (½, 2, π) have no dimension.
+## think
+Speed and velocity have the same dimension, LT^{-1}. Can two quantities have the same dimension but be different things? Can you find another pair? (Hint: work and energy.)
+## quiz
+? The dimension of acceleration is:
+- LT^{-1}
+* LT^{-2}
+- MLT^{-2}
+- L^{2}T^{-1}
+= Acceleration = velocity ÷ time = LT^{-1} ÷ T = LT^{-2}.
+? Which quantity has the dimension MLT^{-2}?
+- Momentum
+- Velocity
+* Force
+- Density
+= Force = mass × acceleration = M × LT^{-2}.
+? What does a dimensional check NOT tell you?
+- Whether the equation is possible
+* The value of pure numbers like ½
+- Whether two terms can be added
+- The dimension of the answer
+= Pure numbers have no dimension, so a dimensional check cannot find them.
+== bn
+## what
+কোনো রাশির **মাত্রা** বলে দেয় রাশিটি কোন কোন মৌলিক রাশি দিয়ে এবং কোন ঘাতে তৈরি। যেমন, বেগ = দৈর্ঘ্য ÷ সময়, তাই বেগের মাত্রা **LT^{-1}**।
+## simple
+মাত্রাকে ভাবো রাশির **রেসিপি** হিসেবে। প্রতিটি লব্ধ রাশি কয়েকটি মূল উপাদান দিয়ে রান্না করা: **M** (ভর), **L** (দৈর্ঘ্য) আর **T** (সময়), কখনো কখনো তাপমাত্রা বা তড়িৎপ্রবাহের মতো আরও কিছু।
+
+- ক্ষেত্রফল = দৈর্ঘ্য × দৈর্ঘ্য → রেসিপি **L^{২}**
+- আয়তন = দৈর্ঘ্য × দৈর্ঘ্য × দৈর্ঘ্য → **L^{৩}**
+- বেগ = দূরত্ব ÷ সময় → **LT^{-১}** (−১ মানে "সময় দিয়ে ভাগ")
+- ত্বরণ = বেগ ÷ সময় = দূরত্ব ÷ সময় ÷ সময় → **LT^{-২}**
+- বল = ভর × ত্বরণ → **MLT^{-২}**
+
+এখানে রাশির সংখ্যার অংশ গুরুত্বপূর্ণ নয়। ২ m রাস্তা আর ৫০০০ km রাস্তা, দুটোরই মাত্রা L। মাত্রা বলে রাশিটি **কোন ধরনের**, কতটুকু তা নয়।
+
+এই বইয়ে রাশির মাত্রা তৃতীয় বন্ধনী [ ] এর ভেতরে লেখা হয়: [F] = MLT^{-২} মানে "বলের মাত্রা MLT^{-২}"।
+## analogy
+মাত্রাকে একটি রাশির **উপকরণের তালিকা** ভাবো। বেগ হলো "একটি দৈর্ঘ্য, ভাগ একটি সময়" (LT^{-১}); বল হলো "একটি ভর, একটি দৈর্ঘ্য, ভাগ দুবার সময়" (MLT^{-২})। ২ কাপ চাল আর ৩ চামচ লবণ যোগ করে "৫টা কিছু" বলা যায় না; তেমনি একই উপকরণ-তালিকার রাশিগুলোই কেবল যোগ বা তুলনা করা যায়।
+## definition
+কোনো ভৌত রাশিকে প্রকাশ করতে মৌলিক রাশিগুলোকে যে ঘাতে উন্নীত করতে হয়, তাকে ওই রাশির **মাত্রা** বলে।
+
+মাত্রা তৃতীয় বন্ধনীতে লেখা হয়। যেমন: [বেগ] = LT^{-১}, [ত্বরণ] = LT^{-২}, [বল] = MLT^{-২}।
+## why
+এটা কাজে লাগে কেন? কারণ **সঠিক সমীকরণের দুই পাশের মাত্রা সমান হতেই হবে**। দৈর্ঘ্যের সাথে সময় যোগ করা যায় না, যেমন ৩টি আপেলের সাথে ২ ঘণ্টা যোগ করা যায় না। তাই সূত্রটা v = u + at নাকি v = u + at^{২} মনে না পড়লে মাত্রা বলে দিতে পারে কোনটা সম্ভব:
+
+- [u] = LT^{-১}
+- [at] = LT^{-২} × T = LT^{-১} ✓ মিলে গেছে
+- [at^{২}] = LT^{-২} × T^{২} = L ✗ বেগের সাথে মেলে না
+
+তাই v = u + at মাত্রার দিক থেকে সঠিক, আর v = u + at^{২} সঠিক হতে পারে না।
+## terms
+মাত্রা | কোনো রাশিতে মৌলিক রাশিগুলোর ঘাত
+M, L, T | ভর, দৈর্ঘ্য ও সময়ের প্রতীক
+মাত্রাগতভাবে সঠিক | সমীকরণের দুই পাশের মাত্রা সমান
+[ ] | তৃতীয় বন্ধনী মানে "এর মাত্রা"
+## formula
+$$ [বেগ] = L / T = LT^{-১}
+$$ [ত্বরণ] = LT^{-১} / T = LT^{-২}
+$$ [বল] = M × LT^{-২} = MLT^{-২}
+M | ভর | kg
+L | দৈর্ঘ্য | m
+T | সময় | s
+! মাত্রা যাচাই দিয়ে বোঝা যায় সমীকরণ ভুল কি না, কিন্তু ½ বা ২π এর মতো বিশুদ্ধ সংখ্যা ধরা যায় না।
+## visual
+একটি রাশি বেছে নাও, দেখো M, L আর T দিয়ে তার মাত্রা কীভাবে তৈরি হয়।
+## real
+প্রকৌশলী আর বিজ্ঞানীরা দ্রুত নিরাপত্তা-পরীক্ষা হিসেবে সবসময় মাত্রা মিলিয়ে দেখেন। সেতুর শক্তি হিসাব করতে গিয়ে উত্তরের মাত্রা যদি বলের বদলে সময়ের হয়, তারা সঙ্গে সঙ্গে বোঝেন কোথাও ভুল হয়েছে, কিছু বানানোর আগেই।
+## example
+প্রশ্ন: ভরবেগের মাত্রা বের করো (ভরবেগ = ভর × বেগ)।
+দেওয়া আছে: [ভর] = M, [বেগ] = LT^{-১}
+> আগে প্রতিটি অংশের মাত্রা লিখি।
+হিসাব: [ভরবেগ] = M × LT^{-১} = MLT^{-১}
+> রাশি গুণ করা মানে তাদের মাত্রাও গুণ করা।
+উত্তর: [ভরবেগ] = MLT^{-১}
+## example
+প্রশ্ন: s = ut + ½at^{২} সমীকরণটি মাত্রাগতভাবে সঠিক কি না যাচাই করো (s = দূরত্ব, u = বেগ, a = ত্বরণ, t = সময়)।
+ধাপ: [s] = L
+ধাপ: [ut] = LT^{-১} × T = L
+ধাপ: [½at^{২}] = LT^{-২} × T^{২} = L
+> ½ একটি বিশুদ্ধ সংখ্যা, এর কোনো মাত্রা নেই।
+উত্তর: প্রতিটি পদের মাত্রা L, তাই সমীকরণটি মাত্রাগতভাবে সঠিক।
+## mistakes
+x সমীকরণ মাত্রাগতভাবে সঠিক হলে সেটি পুরোপুরি সঠিক।
+v সংখ্যাটা তবুও ভুল থাকতে পারে, যেমন s = ut + at^{২} (½ বাদ পড়েছে) এরও মাত্রা সঠিক।
+x বেগের মাত্রা m/s।
+v m/s হলো একক। মাত্রা হলো LT^{-১}।
+## remember
+- মাত্রা = কোন মৌলিক রাশি, কোন ঘাতে।
+- [বেগ] = LT^{-১}, [ত্বরণ] = LT^{-২}, [বল] = MLT^{-২}।
+- সঠিক সমীকরণের দুই পাশের মাত্রা সমান।
+- বিশুদ্ধ সংখ্যার (½, ২, π) কোনো মাত্রা নেই।
+## think
+দ্রুতি আর বেগের মাত্রা একই, LT^{-১}। দুটি রাশির মাত্রা এক হলেও কি তারা আলাদা জিনিস হতে পারে? এমন আরেকটি জোড়া খুঁজে পাও? (ইঙ্গিত: কাজ ও শক্তি।)
+## quiz
+? ত্বরণের মাত্রা:
+- LT^{-১}
+* LT^{-২}
+- MLT^{-২}
+- L^{২}T^{-১}
+= ত্বরণ = বেগ ÷ সময় = LT^{-১} ÷ T = LT^{-২}।
+? কোন রাশির মাত্রা MLT^{-২}?
+- ভরবেগ
+- বেগ
+* বল
+- ঘনত্ব
+= বল = ভর × ত্বরণ = M × LT^{-২}।
+? মাত্রা যাচাই কোনটি বলতে পারে না?
+- সমীকরণটি সম্ভব কি না
+* ½ এর মতো বিশুদ্ধ সংখ্যার মান
+- দুটি পদ যোগ করা যায় কি না
+- উত্তরের মাত্রা
+= বিশুদ্ধ সংখ্যার মাত্রা নেই, তাই মাত্রা যাচাই এগুলো খুঁজে পায় না।
+
+@@ 1.5.4
+@visual scinote
+@related 1.5.1 1.5.2
+== en
+## what
+Scientists everywhere follow the same **rules for writing units and symbols**, so a value written in one country is read the same way in every other.
+## simple
+Is it "5kg", "5 Kg", "5 kgs" or "5 kg"? Only the last one is correct. These small rules matter because in science a wrong letter can change the meaning completely (m is metre or milli, M is mega).
+
+Here are the rules from the book, in simple words:
+
+1. Write the number, **leave a space**, then the unit: 2.21 kg, 22 K. The % sign follows the same rule (25 %). But no space before degree, minute and second signs of angles: 30°.
+2. A unit made by **multiplying** units has a space between them: N m (newton metre).
+3. A unit made by **dividing** is written with a slash or a negative power: m/s or m s^{-1}.
+4. **No full stop** after a unit symbol: "5 cm" not "5 cm." (unless the sentence ends there). Unit symbols are not abbreviations.
+5. **Unit symbols are upright**: m, s, kg. **Quantity symbols are italic**: *m* for mass, *v* for velocity.
+6. Unit symbols are **small letters**, except units named after scientists, which start with a capital: N (Newton), Pa (Pascal), W (Watt).
+7. A prefix is joined to the unit **with no space**: km, GW, MHz.
+8. Prefixes **larger than kilo** are capitals: M, G, T. (kilo itself is small k.)
+9. Unit symbols are **never plural**: 25 kg, not 25 kgs.
+10. Try to keep a number and its unit **on the same line**.
+## definition
+**Scientific symbols and notations** are the internationally agreed rules for writing the values, units and symbols of physical quantities, so that every scientist reads them in exactly the same way.
+## why
+Why be so strict? Because symbols carry meaning. "mN" is millinewton, "Nm" is newton metre. "mm" is millimetre, "Mm" is megametre, a billion times bigger. In medicine, engineering or science, a small writing mistake can cause a large, even dangerous, error.
+## terms
+Unit symbol | Short form of a unit, written upright (m, kg, s)
+Quantity symbol | Letter standing for a quantity, written in italics (*m*, *v*, *t*)
+Compound unit | A unit made from other units (N m, m/s)
+## visual
+Choose a number and move the decimal point until only one non-zero digit is left before it. Watch how the power of 10 changes with each move.
+## real
+Look at a medicine strip: "500 mg". A nutrition label: "Energy 250 kcal". An electricity meter: "kWh". All follow these rules. If a label said "500 Mg", it would mean 500 tonnes!
+## example
+Q: Correct these: (a) 10Kgs (b) 5 m.s (c) 3 Km (d) 25 °C.
+Answer: (a) 10 kg  (b) 5 m s or better 5 m/s if speed was meant  (c) 3 km  (d) 25 °C is correct
+> (a) needs a space, a small k and no plural s. (b) has an unnecessary dot. (c) kilo is small k. (d) °C is written with a space between the number and the unit symbol.
+## mistakes
+x 5 Kgs
+v 5 kg (small k, no s, one space)
+x 60 km/hr.
+v 60 km/h (the symbol for hour is h, and no full stop)
+x Writing velocity as "v" upright and metre as italic "*m*".
+v Quantity symbols in italics (*v*), unit symbols upright (m).
+## remember
+- Number, space, unit: 2.21 kg.
+- No full stop, no plural: 25 kg.
+- Units named after people start with a capital: N, Pa, W.
+- Prefix joins the unit with no space: km, MHz; prefixes above kilo are capitals.
+- Quantity symbols italic, unit symbols upright.
+## think
+Why do you think the unit of force, newton, is written N (capital) but spoken and spelled "newton" with a small n?
+## quiz
+? Which is written correctly?
+- 25 kgs
+- 25 Kg
+* 25 kg
+- 25kg.
+= Small k, no plural, a space between number and unit, no full stop.
+? The unit symbol of pressure (named after Pascal) is:
+- pa
+* Pa
+- PA
+- pA
+= Units named after scientists start with a capital letter; only the first letter is capital: Pa.
+? Which is correct for 3 megahertz?
+- 3 mHz
+- 3 M Hz
+* 3 MHz
+- 3 Mhz
+= Prefix M (mega) joins Hz with no space; Hz (hertz) starts with a capital.
+== bn
+## what
+পৃথিবীর সব বিজ্ঞানী **একক ও প্রতীক লেখার একই নিয়ম** মেনে চলেন, যাতে এক দেশে লেখা মান অন্য সব দেশে একইভাবে পড়া যায়।
+## simple
+"5kg", "5 Kg", "5 kgs" নাকি "5 kg"? শুধু শেষেরটি সঠিক। এই ছোট নিয়মগুলো গুরুত্বপূর্ণ, কারণ বিজ্ঞানে একটি অক্ষর ভুল হলে অর্থ পুরো বদলে যেতে পারে (m মানে মিটার বা মিলি, M মানে মেগা)।
+
+বইয়ের নিয়মগুলো সহজ ভাষায়:
+
+1. আগে সংখ্যা, তারপর **একটি ফাঁকা জায়গা**, তারপর একক: 2.21 kg, 22 K। % চিহ্নেও একই নিয়ম (25 %)। তবে কোণের ডিগ্রি, মিনিট ও সেকেন্ড চিহ্নের আগে ফাঁকা নয়: 30°।
+2. এককের **গুণ** দিয়ে তৈরি একক লিখতে মাঝে ফাঁকা রাখো: N m (নিউটন মিটার)।
+3. এককের **ভাগ** দিয়ে তৈরি একক স্ল্যাশ বা ঋণাত্মক ঘাত দিয়ে লেখো: m/s বা m s^{-1}।
+4. একক প্রতীকের পর **দাঁড়ি/ফুলস্টপ নয়**: "5 cm", "5 cm." নয় (বাক্য শেষ না হলে)। একক প্রতীক কোনো কিছুর সংক্ষিপ্ত রূপ নয়।
+5. **একক প্রতীক সোজা অক্ষরে**: m, s, kg। **রাশির প্রতীক বাঁকা (ইটালিক) অক্ষরে**: ভরের জন্য *m*, বেগের জন্য *v*।
+6. একক প্রতীক **ছোট হাতের অক্ষরে**, তবে বিজ্ঞানীর নামে যে একক তার প্রথম অক্ষর বড় হাতের: N (নিউটন), Pa (প্যাসকেল), W (ওয়াট)।
+7. উপসর্গ এককের সাথে **ফাঁকা ছাড়া** যুক্ত হয়: km, GW, MHz।
+8. **কিলোর চেয়ে বড়** উপসর্গ বড় হাতের অক্ষরে: M, G, T। (কিলো নিজে ছোট k।)
+9. একক প্রতীক **কখনো বহুবচন নয়**: 25 kg, 25 kgs নয়।
+10. সংখ্যা আর এর একক যতটা সম্ভব **একই লাইনে** রাখো।
+## definition
+ভৌত রাশির মান, একক ও প্রতীক লেখার আন্তর্জাতিকভাবে স্বীকৃত নিয়মকে **বৈজ্ঞানিক প্রতীক ও সংকেত** বলে, যাতে সব বিজ্ঞানী এগুলো হুবহু একইভাবে পড়েন।
+## why
+এত কড়াকড়ি কেন? কারণ প্রতীক অর্থ বহন করে। "mN" হলো মিলিনিউটন, "N m" হলো নিউটন মিটার। "mm" হলো মিলিমিটার, "Mm" হলো মেগামিটার, যা একশ কোটি গুণ বড়। চিকিৎসা, প্রকৌশল বা বিজ্ঞানে লেখার ছোট ভুল বড়, এমনকি বিপজ্জনক ভুল ঘটাতে পারে।
+## terms
+একক প্রতীক | এককের সংক্ষিপ্ত রূপ, সোজা অক্ষরে লেখা (m, kg, s)
+রাশির প্রতীক | কোনো রাশি বোঝানো অক্ষর, ইটালিকে লেখা (*m*, *v*, *t*)
+যৌগিক একক | অন্য একক দিয়ে তৈরি একক (N m, m/s)
+## visual
+একটি সংখ্যা বেছে নাও, আর দশমিক বিন্দু সরাতে থাকো যতক্ষণ না এর আগে একটিমাত্র অশূন্য অঙ্ক থাকে। প্রতি ঘর সরানোয় ১০-এর ঘাত কীভাবে বদলায় দেখো।
+## real
+ওষুধের পাতায় দেখো: "500 mg"। খাবারের লেবেলে: "Energy 250 kcal"। বিদ্যুৎ মিটারে: "kWh"। সবই এই নিয়ম মেনে লেখা। লেবেলে যদি "500 Mg" লেখা থাকত, তার মানে হতো ৫০০ টন!
+## example
+প্রশ্ন: শুদ্ধ করো: (ক) 10Kgs (খ) 5 m.s (গ) 3 Km (ঘ) 25 °C
+উত্তর: (ক) 10 kg  (খ) 5 m s, দ্রুতি বোঝালে 5 m/s  (গ) 3 km  (ঘ) 25 °C সঠিক
+> (ক)-তে ফাঁকা জায়গা, ছোট k লাগবে আর বহুবচনের s বাদ যাবে। (খ)-তে অপ্রয়োজনীয় বিন্দু আছে। (গ)-তে কিলো ছোট k। (ঘ)-তে সংখ্যা আর একক প্রতীক °C এর মাঝে ফাঁকা রাখা হয়েছে।
+## mistakes
+x 5 Kgs
+v 5 kg (ছোট k, s নেই, একটি ফাঁকা)
+x 60 km/hr.
+v 60 km/h (ঘণ্টার প্রতীক h, আর কোনো ফুলস্টপ নয়)
+x বেগের প্রতীক "v" সোজা আর মিটার ইটালিক "*m*" লেখা।
+v রাশির প্রতীক ইটালিকে (*v*), একক প্রতীক সোজা অক্ষরে (m)।
+## remember
+- সংখ্যা, ফাঁকা, একক: 2.21 kg।
+- ফুলস্টপ নয়, বহুবচন নয়: 25 kg।
+- মানুষের নামে একক বড় হাতের অক্ষরে শুরু: N, Pa, W।
+- উপসর্গ ফাঁকা ছাড়া যুক্ত হয়: km, MHz; কিলোর চেয়ে বড় উপসর্গ বড় হাতের।
+- রাশির প্রতীক ইটালিক, একক প্রতীক সোজা।
+## think
+বলের একক নিউটনের প্রতীক N (বড় হাতের), অথচ ইংরেজিতে পুরো নাম লেখা হয় ছোট হাতের "newton"। কেন বলে তোমার মনে হয়?
+## quiz
+? কোনটি সঠিকভাবে লেখা?
+- 25 kgs
+- 25 Kg
+* 25 kg
+- 25kg.
+= ছোট k, বহুবচন নয়, সংখ্যা ও এককের মাঝে ফাঁকা, ফুলস্টপ নয়।
+? চাপের একক (প্যাসকেলের নামে) এর প্রতীক:
+- pa
+* Pa
+- PA
+- pA
+= বিজ্ঞানীর নামে একক বড় হাতের অক্ষরে শুরু; শুধু প্রথম অক্ষর বড়: Pa।
+? ৩ মেগাহার্জ লেখার সঠিক রূপ কোনটি?
+- 3 mHz
+- 3 M Hz
+* 3 MHz
+- 3 Mhz
+= M (মেগা) উপসর্গ Hz-এর সাথে ফাঁকা ছাড়া বসে; Hz (হার্জ) বড় হাতের H দিয়ে শুরু।
+
+@@ 1.6
+@visual vernier screw
+@related 1.6.2 1.7 1.5.2
+== en
+## what
+A metre scale can only measure to the nearest **millimetre**. To measure smaller lengths, like the thickness of a coin or the diameter of a wire, we use a **vernier calipers** (reads to 0.1 mm) or a **screw gauge** (reads to 0.01 mm).
+## simple
+**The metre scale.** Your ruler is marked in centimetres and millimetres (the other side often shows inches; 1 inch = 2.54 cm). You can read it only up to its smallest division, 1 mm. So you can say a pencil is 0.364 m (36 cm 4 mm), but never 0.3643 m. That last digit is beyond what the ruler can show.
+
+**The vernier trick.** Suppose an object is longer than 4 mm but shorter than 5 mm. How much more than 4 mm? A clever sliding scale, the **vernier scale**, answers this.
+
+On the vernier, **9 mm of the main scale is divided into 10 equal parts**. So each vernier division is 0.9 mm, which is **0.1 mm shorter** than a main-scale division.
+
+Now slide the vernier until its zero sits just past the 4 mm mark. The first vernier mark is 0.1 mm behind the next mm mark, the second is 0.2 mm behind, and so on. Exactly **one** vernier mark will line up perfectly with a main-scale mark. If it is mark number 3, the extra bit is 3 × 0.1 mm = 0.3 mm. The length is 4.3 mm.
+
+That difference, 0.1 mm, is called the **vernier constant (VC)**.
+
+**The screw gauge.** For something even thinner, like a wire or a sheet of paper, we use a screw gauge. It has a U-shaped frame with a fixed **anvil** on one side and a moving **spindle** on the other. The spindle is a very fine screw. You turn the **thimble** (the round cap), and the spindle moves towards the anvil until the wire is held gently between them.
+
+Two scales do the reading:
+- The **linear scale** is marked in mm on the fixed **sleeve**, along a **reference line**. As the thimble moves back, more mm marks come into view.
+- The **circular scale** is the edge of the thimble, divided into **100 equal parts**.
+
+One full turn of the thimble moves the spindle forward by 1 mm: this is the **pitch**. So turning it by just **one division** moves the spindle 1 mm ÷ 100 = **0.01 mm**. This smallest length it can measure is its **least count**.
+
+**How to read it** (same idea as the vernier):
+1. Linear scale reading (L): the last mm mark you can see beside the thimble, say **4 mm**.
+2. Circular scale reading (C): the thimble division that sits exactly on the reference line, say **37**.
+3. Reading = L + C × least count = 4 mm + 37 × 0.01 mm = **4.37 mm**.
+
+**Zero error.** Close the jaws with nothing between them. The circular-scale zero should sit exactly on the reference line. If it stops a few divisions **past** zero (say at 4), the gauge reads too much: a positive zero error of +4 × 0.01 = +0.04 mm. If it stops a few divisions **before** zero (say at 96, that is 4 short), the error is −0.04 mm. Always subtract the zero error: correct reading = observed reading − zero error.
+
+Today there are also dial and **digital** slide calipers that show the reading directly.
+## analogy
+A vernier is like a **magnifying helper** for the leftover bit. The main scale tells you "more than 2.3 cm", but not how much more. The vernier's lines are each a tiny bit shorter than the main-scale lines, so only one of them lines up exactly. Which one lines up tells you the leftover in tenths of a millimetre.
+
+A screw gauge is like the **lid of a water bottle**: you turn it a long way round, but it only moves a tiny distance up or down. The screw gauge uses that: a big turn you can see clearly becomes a tiny forward movement of 0.01 mm per division.
+## definition
+**Vernier constant (VC)**: the difference between one division of the main scale and one division of the vernier scale. It equals the smallest main-scale division divided by the number of vernier divisions.
+
+**Reading of a vernier calipers** = main scale reading + (coinciding vernier division × VC).
+
+**Pitch** of a screw gauge: the distance the screw moves forward in one complete turn.
+
+**Least count** of a screw gauge: the distance moved by the screw when the circular scale turns by one division; least count = pitch ÷ number of divisions on the circular scale.
+## why
+Why does the vernier work? Because the two scales are **slightly different**. Their marks drift apart by 0.1 mm per division, so the mark that lines up tells you how many tenths of a millimetre the vernier zero has moved past the last mm mark. It is like reading a tiny difference by counting how far two patterns are out of step.
+
+The screw gauge works because a screw **turns a big, easy-to-see rotation into a very small forward movement**. Turning the thimble through one small division, which you can see clearly, moves the jaw only 0.01 mm.
+## terms
+Main scale | The fixed scale marked in mm
+Vernier scale | The sliding scale; 10 divisions = 9 mm
+Vernier constant (VC) | 1 mm ÷ 10 = 0.1 mm for the usual calipers
+Coinciding division | The vernier mark that lines up exactly with a main-scale mark
+Pitch | Forward movement for one full turn of the screw (here 1 mm)
+Least count | Smallest length an instrument can read (screw gauge: 0.01 mm)
+Linear scale | The mm scale on the sleeve of a screw gauge, along the reference line
+Circular scale | The thimble edge, divided into 100 equal parts
+Zero error | The reading shown when the jaws are closed with nothing between them; it must be subtracted
+## formula
+$$ VC = s ÷ n
+$$ Length = M + (V × VC)
+$$ Least count = pitch ÷ N
+$$ Screw gauge reading = L + (C × least count)
+$$ Correct reading = observed reading − zero error
+tri s | VC | n
+s | smallest main-scale division | mm
+n | number of vernier divisions | –
+M | main scale reading | mm or cm
+V | coinciding vernier division | –
+N | number of circular-scale divisions | –
+L | linear scale reading | mm
+C | circular-scale division on the reference line | –
+! With s = 1 mm and n = 10: VC = 0.1 mm = 0.01 cm = 0.0001 m.
+## visual
+**Vernier calipers:** drag the slider to change the object's length. Try to read it yourself using the vernier, then press "Show the reading" to check. The coinciding vernier line turns red.
+
+**Screw gauge:** just like in the lab. In "Measure a wire", press **Close** to turn the thimble until the spindle touches the wire and the ratchet clicks. Read the scales in the zoomed window, type your answer and press **Check**, or tap ① ② ③ to see each step highlighted. "How it works" lets you turn the thimble one division or one full turn. "Zero error" shows a gauge that doesn't read zero when closed, and how to correct the reading.
+## real
+Vernier calipers are used in workshops to measure the inner and outer diameter of pipes and nuts, and by jewellers. Screw gauges measure the thickness of wires and thin sheets. Mechanics check how worn a brake disc is with them. In the lab you will use both in practical classes.
+## example
+Q: In a vernier calipers, 10 vernier divisions equal 9 main-scale divisions of 1 mm each. The main scale reading is 2.1 cm and the 6th vernier division coincides. Find the length.
+Given: s = 1 mm, n = 10, M = 2.1 cm, V = 6
+Formula: VC = s ÷ n; Length = M + V × VC
+Substitution: VC = 1 mm ÷ 10 = 0.1 mm = 0.01 cm
+> Change VC to cm so both parts of the reading have the same unit.
+Calculation: Length = 2.1 cm + 6 × 0.01 cm = 2.1 cm + 0.06 cm
+Answer: 2.16 cm
+## example
+Q: A screw gauge has a pitch of 1 mm and 100 circular divisions. The linear scale shows 4 mm and the 37th circular division is on the reference line. Find the thickness of the wire.
+Given: pitch = 1 mm, N = 100, linear reading = 4 mm, circular division = 37
+Formula: Least count = pitch ÷ N; Reading = linear reading + circular division × least count
+Substitution: Least count = 1 mm ÷ 100 = 0.01 mm
+Calculation: 4 mm + 37 × 0.01 mm = 4 mm + 0.37 mm
+Answer: 4.37 mm
+## example
+Q: With the jaws of a screw gauge closed, the 3rd circular division (past zero) is on the reference line. Measuring a wire, the linear scale shows 2 mm and the circular scale shows 58. Least count = 0.01 mm. Find the correct diameter.
+Given: zero error = +3 × 0.01 mm = +0.03 mm; L = 2 mm, C = 58
+Formula: Reading = L + C × least count; Correct reading = observed − zero error
+Calculation: observed = 2 + 58 × 0.01 = 2.58 mm; correct = 2.58 − 0.03 = 2.55 mm
+> The gauge already read +0.03 mm with nothing in it, so that extra must be taken away.
+Answer: 2.55 mm
+## mistakes
+x The vernier reading is the vernier mark nearest to the zero.
+v Look for the vernier mark that lines up exactly with any main-scale mark, wherever it is along the vernier.
+x Adding VC directly: 2.1 cm + 6 = 8.1 cm.
+v Multiply the coinciding division by VC first (6 × 0.01 cm), and make sure both parts are in the same unit.
+x The least count of a screw gauge is equal to its pitch.
+v Least count = pitch ÷ number of circular divisions, so it is much smaller than the pitch.
+x A negative zero error should be subtracted, so the reading gets smaller.
+v Subtracting a negative error makes the reading bigger: correct = observed − (−0.04 mm) = observed + 0.04 mm.
+## remember
+- Metre scale: reads to 1 mm.
+- Vernier calipers: VC = 1 mm ÷ 10 = 0.1 mm; length = M + V × VC.
+- Screw gauge: least count = pitch ÷ circular divisions = 1 mm ÷ 100 = 0.01 mm.
+- Screw gauge reading = L + C × least count; correct reading = observed − zero error.
+- Always write both parts of the reading in the same unit before adding.
+## think
+If the vernier had 20 divisions covering 19 mm, what would its vernier constant be? Would it be more or less precise than the usual one?
+## quiz
+? For a vernier calipers where 10 vernier divisions = 9 mm, the vernier constant is:
+- 1 mm
+- 0.9 mm
+* 0.1 mm
+- 0.01 mm
+= VC = 1 mm ÷ 10 = 0.1 mm.
+? Main scale reading 3.4 cm, coinciding vernier division 7, VC = 0.01 cm. The length is:
+- 3.47 mm
+* 3.47 cm
+- 10.4 cm
+- 3.407 cm
+= 3.4 cm + 7 × 0.01 cm = 3.47 cm.
+? A screw gauge has pitch 0.5 mm and 50 circular divisions. Its least count is:
+- 0.1 mm
+* 0.01 mm
+- 0.05 mm
+- 25 mm
+= 0.5 mm ÷ 50 = 0.01 mm.
+? A screw gauge (least count 0.01 mm) has a zero error of −0.02 mm. The observed reading is 3.45 mm. The correct reading is:
+- 3.43 mm
+- 3.45 mm
+* 3.47 mm
+- 3.25 mm
+= Correct = observed − zero error = 3.45 − (−0.02) = 3.47 mm.
+== bn
+## what
+মিটার স্কেল দিয়ে শুধু নিকটতম **মিলিমিটার** পর্যন্ত মাপা যায়। এর চেয়ে ছোট দৈর্ঘ্য, যেমন একটি মুদ্রার পুরুত্ব বা তারের ব্যাস মাপতে আমরা ব্যবহার করি **স্লাইড ক্যালিপার্স** (০.১ mm পর্যন্ত) বা **স্ক্রু গজ** (০.০১ mm পর্যন্ত)।
+## simple
+**মিটার স্কেল।** তোমার স্কেলে সেন্টিমিটার আর মিলিমিটারের দাগ আছে (উল্টো পাশে প্রায়ই ইঞ্চি থাকে; ১ ইঞ্চি = ২.৫৪ cm)। স্কেলের সবচেয়ে ছোট ঘর ১ mm পর্যন্তই পড়া যায়। তাই বলা যায় পেনসিলটি ০.৩৬৪ m (৩৬ cm ৪ mm) লম্বা, কিন্তু কখনো ০.৩৬৪৩ m নয়। শেষ অঙ্কটা স্কেলের দেখানোর ক্ষমতার বাইরে।
+
+**ভার্নিয়ারের কৌশল।** ধরো একটি বস্তু ৪ mm-এর চেয়ে বড়, কিন্তু ৫ mm-এর চেয়ে ছোট। ৪ mm-এর চেয়ে ঠিক কতটুকু বেশি? এই প্রশ্নের উত্তর দেয় একটি চতুর সরানো যায় এমন স্কেল, **ভার্নিয়ার স্কেল**।
+
+ভার্নিয়ারে **প্রধান স্কেলের ৯ mm কে ১০টি সমান ভাগে** ভাগ করা হয়। তাই ভার্নিয়ারের প্রতিটি ঘর ০.৯ mm, যা প্রধান স্কেলের এক ঘরের চেয়ে **০.১ mm ছোট**।
+
+এখন ভার্নিয়ারের শূন্য দাগ ৪ mm দাগের একটু পরে বসাও। ভার্নিয়ারের প্রথম দাগ পরের mm দাগ থেকে ০.১ mm পিছনে, দ্বিতীয়টি ০.২ mm পিছনে, এভাবে চলতে থাকে। ঠিক **একটি** ভার্নিয়ার দাগ প্রধান স্কেলের কোনো দাগের সাথে পুরোপুরি মিলে যাবে। সেটি যদি ৩ নম্বর দাগ হয়, বাড়তি অংশ ৩ × ০.১ mm = ০.৩ mm। দৈর্ঘ্য ৪.৩ mm।
+
+এই পার্থক্য, ০.১ mm, কে বলে **ভার্নিয়ার ধ্রুবক (VC)**।
+
+**স্ক্রু গজ।** আরও সরু জিনিস, যেমন তার বা কাগজের পুরুত্ব মাপতে আমরা স্ক্রু গজ ব্যবহার করি। এর U-আকৃতির কাঠামোর এক পাশে স্থির **নেহাই** (anvil), অন্য পাশে সরানো যায় এমন **স্পিন্ডল**। স্পিন্ডলটি আসলে একটি খুব সূক্ষ্ম স্ক্রু। গোল টুপির মতো **থিম্বল** ঘোরালে স্পিন্ডল নেহাইয়ের দিকে এগোয়, যতক্ষণ না তারটি দুটোর মাঝে আলতো করে আটকে যায়।
+
+পাঠ নেয় দুটি স্কেল:
+- **রৈখিক স্কেল** স্থির **হাতার** (sleeve) গায়ে একটি **নির্দেশক রেখা** বরাবর mm-এ দাগ কাটা। থিম্বল পেছনে সরলে আরও mm দাগ বেরিয়ে আসে।
+- **বৃত্তাকার স্কেল** হলো থিম্বলের কিনারা, যা **১০০টি সমান ভাগে** ভাগ করা।
+
+থিম্বল একবার পুরো ঘোরালে স্পিন্ডল ১ mm এগোয়: এটাই **পিচ**। তাই মাত্র **এক ঘর** ঘোরালে স্পিন্ডল সরে ১ mm ÷ ১০০ = **০.০১ mm**। এটি যে সবচেয়ে ছোট দৈর্ঘ্য মাপতে পারে তা-ই এর **লঘিষ্ঠ গণন**।
+
+**কীভাবে পাঠ নেবে** (ভার্নিয়ারের মতোই ধারণা):
+১. রৈখিক স্কেল পাঠ (L): থিম্বলের পাশে দেখা শেষ mm দাগ, ধরো **৪ mm**।
+২. বৃত্তাকার স্কেল পাঠ (C): থিম্বলের যে দাগটি ঠিক নির্দেশক রেখার ওপর, ধরো **৩৭**।
+৩. পাঠ = L + C × লঘিষ্ঠ গণন = ৪ mm + ৩৭ × ০.০১ mm = **৪.৩৭ mm**।
+
+**শূন্য ত্রুটি।** মাঝে কিছু না রেখে দুই মুখ বন্ধ করো। বৃত্তাকার স্কেলের শূন্য দাগ ঠিক নির্দেশক রেখায় থাকার কথা। যদি শূন্য **পেরিয়ে** কয়েক ঘর পরে থামে (ধরো ৪-এ), যন্ত্রটি বেশি পড়ে: ধনাত্মক শূন্য ত্রুটি +৪ × ০.০১ = +০.০৪ mm। যদি শূন্যের কয়েক ঘর **আগে** থামে (ধরো ৯৬-এ, অর্থাৎ ৪ ঘর কম), ত্রুটি −০.০৪ mm। সবসময় শূন্য ত্রুটি বিয়োগ করো: সঠিক পাঠ = প্রাপ্ত পাঠ − শূন্য ত্রুটি।
+
+আজকাল ডায়ালযুক্ত ও **ডিজিটাল** স্লাইড ক্যালিপার্সও পাওয়া যায়, যা সরাসরি পাঠ দেখায়।
+## analogy
+ভার্নিয়ার হলো বাড়তি অংশটুকুর জন্য একটি **বিবর্ধক সহকারী**। প্রধান স্কেল বলে "২.৩ cm-এর বেশি", কিন্তু কতটা বেশি বলে না। ভার্নিয়ারের দাগগুলো প্রধান স্কেলের দাগের চেয়ে সামান্য ছোট, তাই শুধু একটি দাগই ঠিকঠাক মিলে যায়। কোন দাগটি মিলল, তা থেকেই বাড়তি অংশ মিলিমিটারের দশমাংশে জানা যায়।
+
+স্ক্রু গজ যেন **পানির বোতলের ঢাকনা**: অনেকটা ঘোরাও, কিন্তু ওপরে-নিচে সরে খুব সামান্য। স্ক্রু গজ এটাই কাজে লাগায়: স্পষ্ট দেখা যায় এমন বড় ঘূর্ণন হয়ে যায় প্রতি ঘরে মাত্র ০.০১ mm সামনে সরণ।
+## definition
+**ভার্নিয়ার ধ্রুবক (VC)**: প্রধান স্কেলের এক ঘর ও ভার্নিয়ার স্কেলের এক ঘরের পার্থক্য। এটি প্রধান স্কেলের ক্ষুদ্রতম এক ঘরের দৈর্ঘ্যকে ভার্নিয়ার স্কেলের মোট ঘর সংখ্যা দিয়ে ভাগ করলে পাওয়া যায়।
+
+**স্লাইড ক্যালিপার্সের পাঠ** = প্রধান স্কেল পাঠ + (মিলে যাওয়া ভার্নিয়ার দাগ × VC)।
+
+স্ক্রু গজের **পিচ**: স্ক্রু একবার পুরো ঘুরলে যতটুকু সামনে এগোয়।
+
+স্ক্রু গজের **লঘিষ্ঠ গণন**: বৃত্তাকার স্কেল এক ঘর ঘোরালে স্ক্রু যতটুকু সরে; লঘিষ্ঠ গণন = পিচ ÷ বৃত্তাকার স্কেলের ঘর সংখ্যা।
+## why
+ভার্নিয়ার কাজ করে কেন? কারণ দুটি স্কেল **সামান্য আলাদা**। প্রতি ঘরে এদের দাগ ০.১ mm করে সরে যায়, তাই কোন দাগটি মিলে গেছে তা থেকে বোঝা যায় ভার্নিয়ারের শূন্য দাগ শেষ mm দাগ পেরিয়ে কত দশমাংশ মিলিমিটার এগিয়েছে। দুটি নকশা কতটা বেমিল তা গুনে একটা ক্ষুদ্র পার্থক্য পড়ে ফেলার মতো।
+
+স্ক্রু গজ কাজ করে কারণ স্ক্রু **বড়, সহজে দেখা যায় এমন ঘূর্ণনকে খুব ছোট সামনের দিকের সরণে** বদলে দেয়। থিম্বল এক ছোট ঘর ঘোরালে, যা স্পষ্ট দেখা যায়, চোয়াল সরে মাত্র ০.০১ mm।
+## terms
+প্রধান স্কেল | mm দাগ কাটা স্থির স্কেল
+ভার্নিয়ার স্কেল | সরানো যায় এমন স্কেল; ১০ ঘর = ৯ mm
+ভার্নিয়ার ধ্রুবক (VC) | সাধারণ ক্যালিপার্সে ১ mm ÷ ১০ = ০.১ mm
+মিলে যাওয়া দাগ | যে ভার্নিয়ার দাগ প্রধান স্কেলের কোনো দাগের সাথে হুবহু মেলে
+পিচ | স্ক্রু একবার পুরো ঘুরলে সামনের সরণ (এখানে ১ mm)
+লঘিষ্ঠ গণন | যন্ত্রটি সবচেয়ে ছোট যে দৈর্ঘ্য পড়তে পারে (স্ক্রু গজ: ০.০১ mm)
+রৈখিক স্কেল | স্ক্রু গজের হাতার গায়ে নির্দেশক রেখা বরাবর mm স্কেল
+বৃত্তাকার স্কেল | থিম্বলের কিনারা, ১০০টি সমান ভাগে ভাগ করা
+শূন্য ত্রুটি | মাঝে কিছু না রেখে মুখ বন্ধ করলে যে পাঠ দেখায়; এটি বিয়োগ করতে হয়
+## formula
+$$ VC = s ÷ n
+$$ দৈর্ঘ্য = M + (V × VC)
+$$ লঘিষ্ঠ গণন = পিচ ÷ N
+$$ স্ক্রু গজের পাঠ = L + (C × লঘিষ্ঠ গণন)
+$$ সঠিক পাঠ = প্রাপ্ত পাঠ − শূন্য ত্রুটি
+tri s | VC | n
+s | প্রধান স্কেলের ক্ষুদ্রতম এক ঘর | mm
+n | ভার্নিয়ারের ঘর সংখ্যা | –
+M | প্রধান স্কেল পাঠ | mm বা cm
+V | মিলে যাওয়া ভার্নিয়ার দাগ | –
+N | বৃত্তাকার স্কেলের ঘর সংখ্যা | –
+L | রৈখিক স্কেল পাঠ | mm
+C | নির্দেশক রেখায় বৃত্তাকার স্কেলের দাগ | –
+! s = ১ mm আর n = ১০ হলে: VC = ০.১ mm = ০.০১ cm = ০.০০০১ m।
+## visual
+**স্লাইড ক্যালিপার্স:** স্লাইডার টেনে বস্তুর দৈর্ঘ্য বদলাও। আগে নিজে ভার্নিয়ার দেখে পাঠ নেওয়ার চেষ্টা করো, তারপর "পাঠ দেখাও" চেপে মিলিয়ে নাও। মিলে যাওয়া ভার্নিয়ার দাগটি লাল হয়ে যাবে।
+
+**স্ক্রু গজ:** ঠিক ল্যাবের মতো। "তার মাপো"-তে **বন্ধ করো** চেপে থিম্বল ঘোরাও, যতক্ষণ না স্পিন্ডল তারকে ছোঁয় আর র‍্যাচেট খট করে ওঠে। বড় করা জানালায় স্কেল পড়ো, উত্তর লিখে **মিলাও** চাপো, অথবা ① ② ③ চেপে প্রতিটি ধাপ রঙিন করে দেখো। "কীভাবে কাজ করে"-তে থিম্বল এক ঘর বা এক পূর্ণ পাক ঘোরাতে পারবে। "শূন্য ত্রুটি" দেখায় বন্ধ অবস্থায় শূন্য না দেখানো যন্ত্র, আর কীভাবে পাঠ সংশোধন করতে হয়।
+## real
+ওয়ার্কশপে পাইপ আর নাটের ভেতরের ও বাইরের ব্যাস মাপতে স্লাইড ক্যালিপার্স ব্যবহার হয়, স্বর্ণকাররাও ব্যবহার করেন। তারের পুরুত্ব আর পাতলা পাতের পুরুত্ব মাপা হয় স্ক্রু গজ দিয়ে। মেকানিকরা ব্রেক ডিস্ক কতটা ক্ষয়ে গেছে তা এ দিয়ে দেখেন। ব্যবহারিক ক্লাসে তুমি দুটোই ব্যবহার করবে।
+## example
+প্রশ্ন: একটি স্লাইড ক্যালিপার্সে ভার্নিয়ারের ১০ ঘর প্রধান স্কেলের ৯ ঘরের সমান, প্রধান স্কেলের প্রতি ঘর ১ mm। প্রধান স্কেল পাঠ ২.১ cm এবং ভার্নিয়ারের ৬ নম্বর দাগ মিলে গেছে। দৈর্ঘ্য বের করো।
+দেওয়া আছে: s = ১ mm, n = ১০, M = ২.১ cm, V = ৬
+সূত্র: VC = s ÷ n; দৈর্ঘ্য = M + V × VC
+মান বসাই: VC = ১ mm ÷ ১০ = ০.১ mm = ০.০১ cm
+> পাঠের দুই অংশ একই এককে রাখতে VC কে cm-এ নিলাম।
+হিসাব: দৈর্ঘ্য = ২.১ cm + ৬ × ০.০১ cm = ২.১ cm + ০.০৬ cm
+উত্তর: ২.১৬ cm
+## example
+প্রশ্ন: একটি স্ক্রু গজের পিচ ১ mm এবং বৃত্তাকার স্কেলে ১০০ ঘর। রৈখিক স্কেলে ৪ mm দেখা যাচ্ছে এবং বৃত্তাকার স্কেলের ৩৭ নম্বর দাগ নির্দেশক রেখায় আছে। তারের পুরুত্ব কত?
+দেওয়া আছে: পিচ = ১ mm, N = ১০০, রৈখিক পাঠ = ৪ mm, বৃত্তাকার দাগ = ৩৭
+সূত্র: লঘিষ্ঠ গণন = পিচ ÷ N; পাঠ = রৈখিক পাঠ + বৃত্তাকার দাগ × লঘিষ্ঠ গণন
+মান বসাই: লঘিষ্ঠ গণন = ১ mm ÷ ১০০ = ০.০১ mm
+হিসাব: ৪ mm + ৩৭ × ০.০১ mm = ৪ mm + ০.৩৭ mm
+উত্তর: ৪.৩৭ mm
+## example
+প্রশ্ন: একটি স্ক্রু গজের মুখ বন্ধ অবস্থায় বৃত্তাকার স্কেলের ৩ নম্বর দাগ (শূন্য পেরিয়ে) নির্দেশক রেখায় থাকে। একটি তার মাপতে রৈখিক স্কেলে ২ mm এবং বৃত্তাকার স্কেলে ৫৮ দেখা গেল। লঘিষ্ঠ গণন = ০.০১ mm। তারের সঠিক ব্যাস কত?
+দেওয়া আছে: শূন্য ত্রুটি = +৩ × ০.০১ mm = +০.০৩ mm; L = ২ mm, C = ৫৮
+সূত্র: পাঠ = L + C × লঘিষ্ঠ গণন; সঠিক পাঠ = প্রাপ্ত পাঠ − শূন্য ত্রুটি
+হিসাব: প্রাপ্ত পাঠ = ২ + ৫৮ × ০.০১ = ২.৫৮ mm; সঠিক = ২.৫৮ − ০.০৩ = ২.৫৫ mm
+> মাঝে কিছু না থাকতেই যন্ত্রটি +০.০৩ mm দেখাচ্ছিল, তাই ওই বাড়তিটুকু বাদ দিতে হবে।
+উত্তর: ২.৫৫ mm
+## mistakes
+x শূন্য দাগের সবচেয়ে কাছের ভার্নিয়ার দাগটিই পাঠ।
+v ভার্নিয়ারের যে দাগটি প্রধান স্কেলের কোনো দাগের সাথে হুবহু মিলেছে সেটি খোঁজো, ভার্নিয়ারের যেখানেই থাকুক।
+x সরাসরি যোগ করা: ২.১ cm + ৬ = ৮.১ cm।
+v আগে মিলে যাওয়া দাগকে VC দিয়ে গুণ করো (৬ × ০.০১ cm), আর দুই অংশ একই এককে আছে কি না দেখো।
+x স্ক্রু গজের লঘিষ্ঠ গণন তার পিচের সমান।
+v লঘিষ্ঠ গণন = পিচ ÷ বৃত্তাকার স্কেলের ঘর সংখ্যা, তাই এটি পিচের চেয়ে অনেক ছোট।
+x ঋণাত্মক শূন্য ত্রুটি বিয়োগ করলে পাঠ ছোট হয়।
+v ঋণাত্মক ত্রুটি বিয়োগ করলে পাঠ বড় হয়: সঠিক = প্রাপ্ত − (−০.০৪ mm) = প্রাপ্ত + ০.০৪ mm।
+## remember
+- মিটার স্কেল: ১ mm পর্যন্ত পড়া যায়।
+- স্লাইড ক্যালিপার্স: VC = ১ mm ÷ ১০ = ০.১ mm; দৈর্ঘ্য = M + V × VC।
+- স্ক্রু গজ: লঘিষ্ঠ গণন = পিচ ÷ বৃত্তাকার ঘর = ১ mm ÷ ১০০ = ০.০১ mm।
+- স্ক্রু গজের পাঠ = L + C × লঘিষ্ঠ গণন; সঠিক পাঠ = প্রাপ্ত পাঠ − শূন্য ত্রুটি।
+- যোগ করার আগে পাঠের দুই অংশ একই এককে লেখো।
+## think
+ভার্নিয়ারে যদি ২০ ঘর থাকত যা ১৯ mm জুড়ে, তাহলে ভার্নিয়ার ধ্রুবক কত হতো? এটি সাধারণটির চেয়ে বেশি না কম সূক্ষ্ম হতো?
+## quiz
+? যে স্লাইড ক্যালিপার্সে ভার্নিয়ারের ১০ ঘর = ৯ mm, তার ভার্নিয়ার ধ্রুবক:
+- ১ mm
+- ০.৯ mm
+* ০.১ mm
+- ০.০১ mm
+= VC = ১ mm ÷ ১০ = ০.১ mm।
+? প্রধান স্কেল পাঠ ৩.৪ cm, মিলে যাওয়া ভার্নিয়ার দাগ ৭, VC = ০.০১ cm। দৈর্ঘ্য:
+- ৩.৪৭ mm
+* ৩.৪৭ cm
+- ১০.৪ cm
+- ৩.৪০৭ cm
+= ৩.৪ cm + ৭ × ০.০১ cm = ৩.৪৭ cm।
+? একটি স্ক্রু গজের পিচ ০.৫ mm এবং বৃত্তাকার স্কেলে ৫০ ঘর। এর লঘিষ্ঠ গণন:
+- ০.১ mm
+* ০.০১ mm
+- ০.০৫ mm
+- ২৫ mm
+= ০.৫ mm ÷ ৫০ = ০.০১ mm।
+? একটি স্ক্রু গজের (লঘিষ্ঠ গণন ০.০১ mm) শূন্য ত্রুটি −০.০২ mm। প্রাপ্ত পাঠ ৩.৪৫ mm। সঠিক পাঠ:
+- ৩.৪৩ mm
+- ৩.৪৫ mm
+* ৩.৪৭ mm
+- ৩.২৫ mm
+= সঠিক = প্রাপ্ত − শূন্য ত্রুটি = ৩.৪৫ − (−০.০২) = ৩.৪৭ mm।
+
+@@ 1.6.2
+@visual stopwatch
+@related 1.6 1.7 1.5
+== en
+## what
+Two more everyday instruments: the **balance**, used to find the mass of an object, and the **stop watch**, used to measure a time interval.
+## simple
+**Balance.** We cannot see mass directly. What we can feel and measure is how strongly the Earth pulls on an object (its weight). A balance uses this: an old beam balance compares the object's pull with the pull on known standard masses. When the two sides balance, the masses are equal.
+
+That is why, in daily life, when someone says "this rice weighs 1 kg", they really mean its **mass** is 1 kg.
+
+Today, **electronic (digital) balances** are common in shops, kitchens and labs. A sensor inside feels the push of the object and shows the mass on a screen very precisely.
+
+**Stop watch.** A stop watch measures how long something takes: you start it at one moment and stop it at another, and it shows the time between. Accurate stop watches were once expensive, but now every mobile phone has one.
+
+Here is the interesting part: a stop watch can measure to 0.01 s, but **your hand cannot press the button that accurately**. Your reaction time is usually 0.2 s or more. So when timing by hand, the human, not the watch, limits the accuracy. Try the challenge below!
+## definition
+A **balance** is an instrument used to determine the mass of an object, either by comparing it with standard masses (beam balance) or by using a sensor (electronic balance).
+
+A **stop watch** is an instrument that measures a time interval by being started at one instant and stopped at another.
+## why
+Why does a balance measure mass even though it works using weight? Because both sides of a beam balance are pulled by the same gravity. If the pulls are equal, the masses must be equal, whether you are in Dhaka or on a mountain. An electronic balance is set (calibrated) for the local gravity, so it also shows mass.
+## terms
+Mass | The amount of matter in an object (kg)
+Weight | The force with which the Earth pulls an object
+Beam balance | Compares an object with standard masses
+Electronic balance | Uses a sensor to show mass on a display
+Reaction time | Delay between seeing something and pressing a button
+## visual
+Try to stop the watch at exactly 5.00 s. After 3 seconds the numbers are hidden, so you have to judge it yourself.
+## real
+Shopkeepers use digital balances for fish, vegetables and gold. Sports timekeepers once used hand-held stop watches, but for races where hundredths of a second decide the winner, electronic timing with sensors is used because human reaction time is too slow.
+## example
+Q: You time a friend's 100 m run with a stop watch and get 14.62 s. Your reaction time may add or remove about 0.2 s. Between which values does the real time probably lie?
+Given: measured time = 14.62 s, uncertainty ≈ ±0.2 s
+Calculation: 14.62 − 0.2 = 14.42 s; 14.62 + 0.2 = 14.82 s
+Answer: The real time is probably between about 14.4 s and 14.8 s.
+> The watch shows two decimal places, but because of hand timing only the first decimal place can really be trusted.
+## mistakes
+x A stop watch reading to 0.01 s means hand timing is accurate to 0.01 s.
+v The watch is precise, but human reaction time adds an error of about 0.2 s.
+x Mass and weight are the same thing.
+v Mass is the amount of matter (kg). Weight is a force (it depends on gravity). In daily speech we say "weight" but mean mass.
+## remember
+- A balance finds mass: beam balance compares with standard masses; electronic balance uses a sensor.
+- Everyday "weight in kg" really means mass.
+- A stop watch measures a time interval.
+- In hand timing, reaction time (about 0.2 s) limits accuracy more than the watch does.
+## think
+How could you time the fall of a ball from a high roof more accurately than with one hand-held stop watch? (Hint: think of repeating the measurement, or recording a video.)
+## quiz
+? An electronic balance mainly measures:
+- Time
+* Mass
+- Length
+- Temperature
+= A balance is used to find the mass of an object.
+? Why is hand timing with a stop watch less accurate than the watch itself?
+- The watch runs slowly
+* Human reaction time delays starting and stopping
+- The watch shows too many digits
+- Time cannot be measured
+= The watch is precise to 0.01 s; our reaction adds a delay of around 0.2 s.
+== bn
+## what
+আরও দুটি রোজকার যন্ত্র: **ব্যালান্স** (তুলাযন্ত্র), যা দিয়ে বস্তুর ভর মাপা হয়, আর **থামা ঘড়ি** (স্টপ ওয়াচ), যা দিয়ে সময়ের ব্যবধান মাপা হয়।
+## simple
+**ব্যালান্স।** ভর সরাসরি দেখা যায় না। আমরা যা টের পাই ও মাপতে পারি তা হলো পৃথিবী বস্তুটিকে কত জোরে টানছে (ওজন)। ব্যালান্স এটাকেই কাজে লাগায়: পুরোনো দাঁড়িপাল্লা বস্তুর টানকে জানা আদর্শ বাটখারার টানের সাথে তুলনা করে। দুই পাশ সমান হলে ভরও সমান।
+
+তাই রোজকার জীবনে কেউ যখন বলে "এই চালের ওজন ১ কেজি", আসলে বোঝায় এর **ভর** ১ কেজি।
+
+আজকাল দোকান, রান্নাঘর আর ল্যাবে **ইলেকট্রনিক (ডিজিটাল) ব্যালান্স** খুব প্রচলিত। ভেতরের সেন্সর বস্তুর চাপ অনুভব করে পর্দায় খুব নিখুঁতভাবে ভর দেখায়।
+
+**থামা ঘড়ি।** থামা ঘড়ি মাপে কোনো কাজে কত সময় লাগল: এক মুহূর্তে চালু করো, আরেক মুহূর্তে থামাও, মাঝের সময় দেখাবে। একসময় নিখুঁত থামা ঘড়ি খুব দামি ছিল, এখন প্রতিটি মোবাইল ফোনেই আছে।
+
+মজার ব্যাপার হলো: থামা ঘড়ি ০.০১ সেকেন্ড পর্যন্ত মাপতে পারে, কিন্তু **তোমার হাত এত নিখুঁতভাবে বোতাম চাপতে পারে না**। আমাদের প্রতিক্রিয়ার সময় সাধারণত ০.২ সেকেন্ড বা তার বেশি। তাই হাতে সময় মাপলে ঘড়ি নয়, মানুষই নির্ভুলতার সীমা ঠিক করে। নিচের চ্যালেঞ্জটা চেষ্টা করে দেখো!
+## definition
+যে যন্ত্র দিয়ে বস্তুর ভর নির্ণয় করা হয়, আদর্শ বাটখারার সাথে তুলনা করে (দাঁড়িপাল্লা) বা সেন্সর ব্যবহার করে (ইলেকট্রনিক ব্যালান্স), তাকে **ব্যালান্স** বলে।
+
+যে যন্ত্র এক মুহূর্তে চালু ও আরেক মুহূর্তে বন্ধ করে সময়ের ব্যবধান মাপা হয়, তাকে **থামা ঘড়ি** বলে।
+## why
+ব্যালান্স ওজনের সাহায্যে কাজ করলেও ভর মাপে কেন? কারণ দাঁড়িপাল্লার দুই পাশ একই অভিকর্ষ দিয়ে টানা হয়। টান সমান হলে ভরও সমান, তুমি ঢাকায় থাকো বা পাহাড়ে। ইলেকট্রনিক ব্যালান্স স্থানীয় অভিকর্ষ অনুযায়ী ঠিক (ক্যালিব্রেট) করা থাকে, তাই এটিও ভর দেখায়।
+## terms
+ভর | বস্তুতে পদার্থের পরিমাণ (kg)
+ওজন | পৃথিবী যে বল দিয়ে বস্তুকে টানে
+দাঁড়িপাল্লা | বস্তুকে আদর্শ বাটখারার সাথে তুলনা করে
+ইলেকট্রনিক ব্যালান্স | সেন্সর দিয়ে পর্দায় ভর দেখায়
+প্রতিক্রিয়ার সময় | কিছু দেখা আর বোতাম চাপার মধ্যে দেরি
+## visual
+ঘড়িটা ঠিক ৫.০০ সেকেন্ডে থামানোর চেষ্টা করো। ৩ সেকেন্ডের পর সংখ্যা লুকিয়ে যাবে, তাই নিজে আন্দাজ করতে হবে।
+## real
+দোকানিরা মাছ, সবজি আর সোনা মাপেন ডিজিটাল ব্যালান্সে। খেলাধুলায় একসময় হাতে ধরা থামা ঘড়ি ব্যবহার হতো, কিন্তু যেসব দৌড়ে সেকেন্ডের শতভাগ দিয়ে বিজয়ী ঠিক হয়, সেখানে সেন্সরসহ ইলেকট্রনিক টাইমিং লাগে, কারণ মানুষের প্রতিক্রিয়া খুব ধীর।
+## example
+প্রশ্ন: বন্ধুর ১০০ মিটার দৌড়ের সময় থামা ঘড়িতে মেপে পেলে ১৪.৬২ s। তোমার প্রতিক্রিয়ার সময় প্রায় ০.২ s যোগ বা বিয়োগ করতে পারে। আসল সময় সম্ভবত কোন দুই মানের মধ্যে?
+দেওয়া আছে: মাপা সময় = ১৪.৬২ s, অনিশ্চয়তা ≈ ±০.২ s
+হিসাব: ১৪.৬২ − ০.২ = ১৪.৪২ s; ১৪.৬২ + ০.২ = ১৪.৮২ s
+উত্তর: আসল সময় সম্ভবত প্রায় ১৪.৪ s থেকে ১৪.৮ s এর মধ্যে।
+> ঘড়ি দুই দশমিক ঘর দেখায়, কিন্তু হাতে মাপার কারণে শুধু প্রথম দশমিক ঘরকেই আসলে ভরসা করা যায়।
+## mistakes
+x থামা ঘড়ি ০.০১ s পর্যন্ত দেখায় মানে হাতে মাপাও ০.০১ s পর্যন্ত নিখুঁত।
+v ঘড়ি নিখুঁত, কিন্তু মানুষের প্রতিক্রিয়ার সময় প্রায় ০.২ s ত্রুটি যোগ করে।
+x ভর আর ওজন একই জিনিস।
+v ভর হলো পদার্থের পরিমাণ (kg)। ওজন একটি বল (অভিকর্ষের ওপর নির্ভর করে)। রোজকার কথায় আমরা "ওজন" বলি, কিন্তু বোঝাই ভর।
+## remember
+- ব্যালান্স ভর মাপে: দাঁড়িপাল্লা বাটখারার সাথে তুলনা করে; ইলেকট্রনিক ব্যালান্স সেন্সর ব্যবহার করে।
+- রোজকার "কেজিতে ওজন" আসলে ভর।
+- থামা ঘড়ি সময়ের ব্যবধান মাপে।
+- হাতে সময় মাপলে ঘড়ির চেয়ে প্রতিক্রিয়ার সময় (প্রায় ০.২ s) নির্ভুলতাকে বেশি সীমিত করে।
+## think
+উঁচু ছাদ থেকে বল পড়ার সময় একটি হাতে ধরা থামা ঘড়ির চেয়ে আরও নিখুঁতভাবে কীভাবে মাপতে পারো? (ইঙ্গিত: কয়েকবার মেপে গড় নেওয়া, বা ভিডিও করা।)
+## quiz
+? ইলেকট্রনিক ব্যালান্স মূলত কী মাপে?
+- সময়
+* ভর
+- দৈর্ঘ্য
+- তাপমাত্রা
+= ব্যালান্স দিয়ে বস্তুর ভর নির্ণয় করা হয়।
+? হাতে থামা ঘড়ি দিয়ে সময় মাপা ঘড়ির নিজের চেয়ে কম নিখুঁত কেন?
+- ঘড়ি আস্তে চলে
+* মানুষের প্রতিক্রিয়ার সময়ের কারণে চালু ও বন্ধ করতে দেরি হয়
+- ঘড়ি বেশি অঙ্ক দেখায়
+- সময় মাপা যায় না
+= ঘড়ি ০.০১ s পর্যন্ত নিখুঁত; আমাদের প্রতিক্রিয়া প্রায় ০.২ s দেরি যোগ করে।
+
+@@ 1.7
+@visual error
+@related 1.6 1.6.2 1.5
+== en
+## what
+No measurement is perfectly exact. **Error** in physics does not mean a silly mistake; it means the **uncertainty** that every measurement has. This lesson shows how to find it and report it honestly.
+## simple
+If a scale is marked only in centimetres and an object's end falls near 4 cm, you cannot say it is exactly 4 cm. It could be anything from 3.5 cm to 4.5 cm. So a scientist writes:
+
+**length = (4.0 ± 0.5) cm**
+
+The "± 0.5 cm" is the uncertainty. With a millimetre scale, an object near 7 mm is written **(7 ± 0.5) mm**, meaning anywhere from 6.5 mm to 7.5 mm.
+
+**Absolute error** is the size of that uncertainty, here 0.5 mm. We usually don't know the true value, so we use the largest probable error.
+
+But is 0.5 mm a big error or a small one? It depends! For an object 1 mm long, 0.5 mm is huge (50%). For an object 1 m long, 0.5 mm is tiny. So we compare the error with the measured value. That is the **relative error**. Multiply by 100 to get the **percentage error**.
+
+**Errors grow in calculations.** If each side of a square has a 10% error, the area's error is about **20%**. For a cube, the volume's error is about **30%**. Errors in length add up when you multiply lengths together. Use the calculator below to see this.
+## analogy
+Imagine you make the same 1 cm mistake twice: once measuring a 2 m door, once measuring a 2 cm eraser. For the door the mistake is tiny (0.5%); for the eraser it is huge (50%)! The **absolute error** (1 cm) is the same, but the **relative error** tells you how serious the mistake really is.
+## definition
+**Absolute error**: the difference between the measured value and the actual value. Since the actual value is usually unknown, the most probable (largest likely) error is used.
+
+**Relative error** = absolute error ÷ measured value.
+
+**Percentage error** = relative error × 100%.
+## why
+Why report error at all? Because a result is only useful if we know how much to trust it. Two students measure the same table: 1.52 m and 1.53 m. Are they disagreeing? If each measurement is ± 0.01 m, they actually agree. Error tells other scientists how reliable a result is, which is why the book says the **reliability of a result increases** when its accuracy is reported.
+## terms
+Error / uncertainty | How far a measurement might be from the true value
+Absolute error | Size of the uncertainty (same unit as the measurement)
+Relative error | Absolute error ÷ measured value (no unit)
+Percentage error | Relative error × 100%
+Accuracy | How close a measurement is to the true value
+## formula
+$$ Relative error = absolute error ÷ measured value
+$$ Percentage error = relative error × 100%
+! Relative and percentage errors have no unit, because the units cancel.
+! For small errors: % error in area ≈ 2 × % error in length; % error in volume ≈ 3 × % error in length.
+## visual
+Enter a measured value and its absolute error. Then see how the error grows when that length is used as the side of a square or a cube.
+## real
+A tailor measuring your waist with a tape marked in half-inches, a carpenter cutting wood, a pharmacist measuring medicine: all of them live with measurement error. In medicine, a 10% error in a dose can be serious, which is why pharmacists use very precise balances.
+## example
+Q: A mm scale shows an object's length as 7 mm. Find the absolute, relative and percentage error.
+Given: measured value = 7 mm; smallest division = 1 mm, so absolute error = 0.5 mm
+> Half of the smallest division is taken as the probable error.
+Formula: relative error = absolute error ÷ measured value
+Calculation: 0.5 mm ÷ 7 mm = 0.071
+Answer: Absolute error 0.5 mm; relative error 0.071; percentage error 0.071 × 100 = 7.1%
+## example
+Q: A square book is measured as 10 cm on each side with a 10% relative error. What is the error in its area?
+Given: side = 10 cm, 10% error, so side lies between 9 cm and 11 cm
+Calculation: measured area = 10 × 10 = 100 cm²; smallest = 9 × 9 = 81 cm²; largest = 11 × 11 = 121 cm²
+> Differences from 100 cm² are 19 cm² and 21 cm². We take the larger one, 21 cm².
+Answer: Absolute error = 21 cm²; relative error = 21 ÷ 100 = 0.21, i.e. 21%, about double the 10% error in length.
+## example
+Q: A box measures 10 cm × 5 cm × 4 cm, each with an error of ± 0.5 cm. Find the percentage error in its volume.
+Calculation: measured volume = 10 × 5 × 4 = 200 cm³; smallest = 9.5 × 4.5 × 3.5 = 149.625 cm³; largest = 10.5 × 5.5 × 4.5 = 259.875 cm³
+> The larger difference is 259.875 − 200 = 59.875 cm³.
+Answer: Relative error = 59.875 ÷ 200 ≈ 0.30, so about 30%.
+## mistakes
+x Error means the person measuring made a mistake.
+v Every instrument has a limit, so every measurement has some uncertainty, even when done perfectly carefully.
+x Relative error has the same unit as the measurement.
+v Relative error is absolute error ÷ measured value; the units cancel, so it has no unit.
+x If length has a 10% error, area also has a 10% error.
+v The error roughly doubles for area (about 20%) and triples for volume (about 30%).
+## remember
+- Every measurement has an uncertainty: write it as value ± error.
+- Absolute error: size of the uncertainty (with unit).
+- Relative error = absolute error ÷ measured value (no unit); × 100 gives percentage error.
+- Errors grow: area ≈ 2×, volume ≈ 3× the % error in length.
+## think
+You need to measure the thickness of one page of your textbook, but it is far thinner than 1 mm. How could you use an ordinary ruler to get a good answer with a small percentage error? (Hint: measure many pages together.)
+## quiz
+? Length is measured as 20 mm with an absolute error of 0.5 mm. The percentage error is:
+- 0.5%
+* 2.5%
+- 5%
+- 25%
+= 0.5 ÷ 20 = 0.025 → 2.5%.
+? Relative error has the unit:
+- metre
+- the same as the measurement
+* no unit
+- percent per metre
+= The units cancel when you divide absolute error by the measured value.
+? The side of a cube has a 2% error. The percentage error in its volume is about:
+- 2%
+- 4%
+* 6%
+- 8%
+= For volume the percentage error is about 3 times that of the length: 3 × 2% = 6%.
+== bn
+## what
+কোনো পরিমাপই পুরোপুরি নিখুঁত নয়। পদার্থবিজ্ঞানে **ত্রুটি** মানে বোকামির ভুল নয়; মানে প্রতিটি পরিমাপে থাকা **অনিশ্চয়তা**। এই পাঠে দেখব কীভাবে এটি বের করতে হয় আর সৎভাবে লিখতে হয়।
+## simple
+কোনো স্কেলে যদি শুধু সেন্টিমিটারের দাগ থাকে আর বস্তুর প্রান্ত ৪ cm-এর কাছে পড়ে, তুমি বলতে পারো না এটি হুবহু ৪ cm। এটি ৩.৫ cm থেকে ৪.৫ cm-এর মধ্যে যেকোনো কিছু হতে পারে। তাই বিজ্ঞানীরা লেখেন:
+
+**দৈর্ঘ্য = (৪.০ ± ০.৫) cm**
+
+"± ০.৫ cm" হলো অনিশ্চয়তা। মিলিমিটার স্কেলে ৭ mm-এর কাছের একটি বস্তুকে লেখা হয় **(৭ ± ০.৫) mm**, অর্থাৎ ৬.৫ mm থেকে ৭.৫ mm-এর মধ্যে যেকোনো মান।
+
+**চূড়ান্ত ত্রুটি** হলো এই অনিশ্চয়তার পরিমাণ, এখানে ০.৫ mm। আমরা সাধারণত আসল মান জানি না, তাই সবচেয়ে বেশি সম্ভাব্য ত্রুটিটাই নিই।
+
+কিন্তু ০.৫ mm কি বড় ত্রুটি, না ছোট? সেটা নির্ভর করে! ১ mm লম্বা বস্তুর জন্য ০.৫ mm বিশাল (৫০%)। ১ m লম্বা বস্তুর জন্য ০.৫ mm খুবই সামান্য। তাই আমরা ত্রুটিকে মাপা মানের সাথে তুলনা করি। এটিই **আপেক্ষিক ত্রুটি**। ১০০ দিয়ে গুণ করলে পাই **শতকরা ত্রুটি**।
+
+**হিসাবে ত্রুটি বাড়ে।** বর্গের প্রতিটি বাহুতে ১০% ত্রুটি থাকলে ক্ষেত্রফলে ত্রুটি হয় প্রায় **২০%**। ঘনকের আয়তনে ত্রুটি হয় প্রায় **৩০%**। দৈর্ঘ্যগুলো গুণ করলে তাদের ত্রুটিও যোগ হতে থাকে। নিচের ক্যালকুলেটরে নিজে দেখো।
+## analogy
+ধরো তুমি একই ১ cm ভুল দুবার করলে: একবার ২ m দরজা মাপতে, আরেকবার ২ cm রাবার মাপতে। দরজার ক্ষেত্রে ভুলটি খুব ছোট (০.৫%); রাবারের ক্ষেত্রে বিশাল (৫০%)! **চূড়ান্ত ত্রুটি** (১ cm) একই, কিন্তু **আপেক্ষিক ত্রুটি** বলে দেয় ভুলটি আসলে কতটা গুরুতর।
+## definition
+**চূড়ান্ত ত্রুটি**: মাপা মান আর প্রকৃত মানের পার্থক্য। প্রকৃত মান সাধারণত অজানা থাকে বলে সবচেয়ে বেশি সম্ভাব্য ত্রুটি ব্যবহার করা হয়।
+
+**আপেক্ষিক ত্রুটি** = চূড়ান্ত ত্রুটি ÷ মাপা মান।
+
+**শতকরা ত্রুটি** = আপেক্ষিক ত্রুটি × ১০০%।
+## why
+ত্রুটি লেখার দরকার কী? কারণ কোনো ফলাফলে কতটা ভরসা করা যায় তা জানা থাকলেই ফলাফলটি কাজের। দুজন শিক্ষার্থী একই টেবিল মেপে পেল ১.৫২ m আর ১.৫৩ m। তারা কি একমত নয়? প্রতিটি পরিমাপ যদি ± ০.০১ m হয়, তাহলে আসলে তারা একমত। ত্রুটি অন্য বিজ্ঞানীদের জানায় ফলাফল কতটা নির্ভরযোগ্য, তাই বইয়ে বলা হয়েছে নির্ভুলতা জানালে **ফলাফলের গ্রহণযোগ্যতা বাড়ে**।
+## terms
+ত্রুটি / অনিশ্চয়তা | পরিমাপ প্রকৃত মান থেকে কতটা দূরে হতে পারে
+চূড়ান্ত ত্রুটি | অনিশ্চয়তার পরিমাণ (পরিমাপের এককেই)
+আপেক্ষিক ত্রুটি | চূড়ান্ত ত্রুটি ÷ মাপা মান (একক নেই)
+শতকরা ত্রুটি | আপেক্ষিক ত্রুটি × ১০০%
+নির্ভুলতা | পরিমাপ প্রকৃত মানের কতটা কাছে
+## formula
+$$ আপেক্ষিক ত্রুটি = চূড়ান্ত ত্রুটি ÷ মাপা মান
+$$ শতকরা ত্রুটি = আপেক্ষিক ত্রুটি × ১০০%
+! আপেক্ষিক ও শতকরা ত্রুটির কোনো একক নেই, কারণ একক কেটে যায়।
+! ত্রুটি ছোট হলে: ক্ষেত্রফলের % ত্রুটি ≈ ২ × দৈর্ঘ্যের % ত্রুটি; আয়তনের % ত্রুটি ≈ ৩ × দৈর্ঘ্যের % ত্রুটি।
+## visual
+একটি মাপা মান আর তার চূড়ান্ত ত্রুটি লেখো। তারপর দেখো ওই দৈর্ঘ্যকে বর্গ বা ঘনকের বাহু ধরলে ত্রুটি কীভাবে বাড়ে।
+## real
+আধা-ইঞ্চি দাগের ফিতা দিয়ে দর্জির কোমর মাপা, কাঠমিস্ত্রির কাঠ কাটা, ফার্মাসিস্টের ওষুধ মাপা: সবাইকেই পরিমাপের ত্রুটি নিয়ে কাজ করতে হয়। ওষুধের মাত্রায় ১০% ত্রুটি গুরুতর হতে পারে, তাই ফার্মাসিস্টরা খুব সূক্ষ্ম ব্যালান্স ব্যবহার করেন।
+## example
+প্রশ্ন: একটি mm স্কেলে বস্তুর দৈর্ঘ্য ৭ mm দেখা যাচ্ছে। চূড়ান্ত, আপেক্ষিক ও শতকরা ত্রুটি বের করো।
+দেওয়া আছে: মাপা মান = ৭ mm; ক্ষুদ্রতম ঘর = ১ mm, তাই চূড়ান্ত ত্রুটি = ০.৫ mm
+> ক্ষুদ্রতম ঘরের অর্ধেককে সম্ভাব্য ত্রুটি ধরা হয়।
+সূত্র: আপেক্ষিক ত্রুটি = চূড়ান্ত ত্রুটি ÷ মাপা মান
+হিসাব: ০.৫ mm ÷ ৭ mm = ০.০৭১
+উত্তর: চূড়ান্ত ত্রুটি ০.৫ mm; আপেক্ষিক ত্রুটি ০.০৭১; শতকরা ত্রুটি ০.০৭১ × ১০০ = ৭.১%
+## example
+প্রশ্ন: একটি বর্গাকার বইয়ের প্রতিটি বাহু ১০% আপেক্ষিক ত্রুটিসহ ১০ cm মাপা হলো। এর ক্ষেত্রফলে ত্রুটি কত?
+দেওয়া আছে: বাহু = ১০ cm, ১০% ত্রুটি, তাই বাহু ৯ cm থেকে ১১ cm এর মধ্যে
+হিসাব: মাপা ক্ষেত্রফল = ১০ × ১০ = ১০০ cm²; সর্বনিম্ন = ৯ × ৯ = ৮১ cm²; সর্বোচ্চ = ১১ × ১১ = ১২১ cm²
+> ১০০ cm² থেকে পার্থক্য ১৯ cm² আর ২১ cm²। বড়টি, ২১ cm², নিই।
+উত্তর: চূড়ান্ত ত্রুটি = ২১ cm²; আপেক্ষিক ত্রুটি = ২১ ÷ ১০০ = ০.২১, অর্থাৎ ২১%, দৈর্ঘ্যের ১০% ত্রুটির প্রায় দ্বিগুণ।
+## example
+প্রশ্ন: একটি বাক্স ১০ cm × ৫ cm × ৪ cm, প্রতিটিতে ± ০.৫ cm ত্রুটি। আয়তনের শতকরা ত্রুটি বের করো।
+হিসাব: মাপা আয়তন = ১০ × ৫ × ৪ = ২০০ cm³; সর্বনিম্ন = ৯.৫ × ৪.৫ × ৩.৫ = ১৪৯.৬২৫ cm³; সর্বোচ্চ = ১০.৫ × ৫.৫ × ৪.৫ = ২৫৯.৮৭৫ cm³
+> বড় পার্থক্যটি ২৫৯.৮৭৫ − ২০০ = ৫৯.৮৭৫ cm³।
+উত্তর: আপেক্ষিক ত্রুটি = ৫৯.৮৭৫ ÷ ২০০ ≈ ০.৩০, অর্থাৎ প্রায় ৩০%।
+## mistakes
+x ত্রুটি মানে যিনি মাপছেন তিনি ভুল করেছেন।
+v প্রতিটি যন্ত্রের একটা সীমা আছে, তাই পুরোপুরি যত্ন নিয়ে মাপলেও প্রতিটি পরিমাপে কিছু অনিশ্চয়তা থাকে।
+x আপেক্ষিক ত্রুটির একক পরিমাপের এককের মতোই।
+v আপেক্ষিক ত্রুটি = চূড়ান্ত ত্রুটি ÷ মাপা মান; একক কেটে যায়, তাই এর কোনো একক নেই।
+x দৈর্ঘ্যে ১০% ত্রুটি থাকলে ক্ষেত্রফলেও ১০% ত্রুটি।
+v ক্ষেত্রফলে ত্রুটি প্রায় দ্বিগুণ (প্রায় ২০%) আর আয়তনে প্রায় তিন গুণ (প্রায় ৩০%) হয়।
+## remember
+- প্রতিটি পরিমাপে অনিশ্চয়তা থাকে: মান ± ত্রুটি আকারে লেখো।
+- চূড়ান্ত ত্রুটি: অনিশ্চয়তার পরিমাণ (একক সহ)।
+- আপেক্ষিক ত্রুটি = চূড়ান্ত ত্রুটি ÷ মাপা মান (একক নেই); × ১০০ করলে শতকরা ত্রুটি।
+- ত্রুটি বাড়ে: ক্ষেত্রফলে ≈ ২ গুণ, আয়তনে ≈ ৩ গুণ দৈর্ঘ্যের % ত্রুটি।
+## think
+তোমার পাঠ্যবইয়ের একটি পাতার পুরুত্ব মাপতে হবে, কিন্তু এটি ১ mm-এর চেয়ে অনেক পাতলা। সাধারণ স্কেল দিয়ে কীভাবে কম শতকরা ত্রুটিসহ ভালো উত্তর পেতে পারো? (ইঙ্গিত: অনেকগুলো পাতা একসাথে মাপো।)
+## quiz
+? দৈর্ঘ্য ২০ mm মাপা হলো, চূড়ান্ত ত্রুটি ০.৫ mm। শতকরা ত্রুটি:
+- ০.৫%
+* ২.৫%
+- ৫%
+- ২৫%
+= ০.৫ ÷ ২০ = ০.০২৫ → ২.৫%।
+? আপেক্ষিক ত্রুটির একক:
+- মিটার
+- পরিমাপের এককের মতোই
+* কোনো একক নেই
+- প্রতি মিটারে শতাংশ
+= চূড়ান্ত ত্রুটিকে মাপা মান দিয়ে ভাগ করলে একক কেটে যায়।
+? একটি ঘনকের বাহুতে ২% ত্রুটি। এর আয়তনে শতকরা ত্রুটি প্রায়:
+- ২%
+- ৪%
+* ৬%
+- ৮%
+= আয়তনের শতকরা ত্রুটি দৈর্ঘ্যের প্রায় ৩ গুণ: ৩ × ২% = ৬%।

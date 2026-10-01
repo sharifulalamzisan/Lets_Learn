@@ -1,0 +1,228 @@
+S biology|Biology|জীববিজ্ঞান
+C 1|Lessons on Life|জীবনপাঠ|1-15
+T 1.1|What is biology?|জীববিজ্ঞানের ধারণা|
+- Living vs non-living; the word "biology" (bios + logos); history of biology
+T 1.2|Branches of biology|জীববিজ্ঞানের শাখাসমূহ|D
+- Botany and zoology; 1.2.1 Pure (physical) branches: morphology, taxonomy, physiology, histology, embryology, cytology, genetics, ecology, evolution …
+- 1.2.2 Applied branches: agriculture, medical science, fisheries, microbiology, biotechnology, genetic engineering …
+T 1.3|Classification of living organisms and the five kingdoms|জীবের শ্রেণিবিন্যাস ও পাঁচটি রাজ্য (ফাইভ কিংডম)|D,V,I
+- Aims and necessity of classification
+- Five-kingdom system: Monera, Protista, Fungi, Plantae, Animalia — key features and examples
+T 1.4|Steps (ranks) of classification|শ্রেণিবিন্যাসের ধাপ|D,I
+- Kingdom → Phylum/Division → Class → Order → Family → Genus → Species; worked example (e.g. human, rice)
+T 1.5|Binomial nomenclature|দ্বিপদ নামকরণ পদ্ধতি|D,I
+- Carolus Linnaeus; genus + species; rules of writing scientific names
+- Examples: rice Oryza sativa, cockroach Periplaneta americana, honey bee Apis indica, hilsa Tenualosa ilisha, tiger Panthera tigris, human Homo sapiens
+
+C 2|Cells and Tissues of Organisms|জীবকোষ ও টিস্যু|16-47
+T 2.1|The living cell and types of cells|জীবকোষ ও কোষের প্রকারভেদ|D,V
+- Cell as the unit of life; prokaryotic vs eukaryotic cells; somatic and reproductive cells
+T 2.2|Plant and animal cell: structure|উদ্ভিদ ও প্রাণিকোষের গঠন|D,V,I
+- Labelled plant and animal cell; differences between them
+- Cell wall (plant) and 2.2.1 plasma membrane (plasmalemma)
+T 2.2.2|Cytoplasmic organelles and their functions|সাইটোপ্লাজমীয় অঙ্গাণু ও এদের কাজ|D,V,I
+- Membrane-bound: mitochondria, plastids (chloroplast, chromoplast, leucoplast), Golgi bodies, endoplasmic reticulum, lysosome, vacuole
+- Non-membranous: ribosome, centriole
+T 2.2.3|The nucleus and chromosomes|নিউক্লিয়াস বা কেন্দ্রিকা ও ক্রোমোজোম|D,V
+- Nuclear membrane, nucleoplasm, nucleolus, chromatin; chromosome structure (centromere, arms)
+T 2.3.1|Plant tissues|উদ্ভিদ টিস্যু|D,V,I
+- Meristematic tissue; permanent tissue: simple (parenchyma, collenchyma, sclerenchyma) and complex (xylem, phloem: sieve tube, companion cell)
+T 2.3.2|Animal tissues|প্রাণী টিস্যু|D,V,I
+- Epithelial; connective (including blood, bone, cartilage); muscle (voluntary, involuntary, cardiac); nervous tissue (neuron)
+T 2.4|Organs and organ systems|অঙ্গ ও তন্ত্র|D
+- From cell → tissue → organ → system; the human organ systems and their roles
+T 2.5|Microscopes|অণুবীক্ষণযন্ত্র|D,X
+- 2.5.1 Simple microscope  - 2.5.2 Compound microscope: parts, use, staining a slide  - 2.5.3 Electron microscope
+
+C 3|Cell Division|কোষ বিভাজন|48-60
+T 3.1|Cell division and its types|কোষ বিভাজন ও এর প্রকারভেদ|D
+- Why cells divide (growth and reproduction); unicellular vs multicellular; two main types: mitosis and meiosis
+T 3.2|Mitosis and its stages|মাইটোসিস ও এর পর্যায়|D,V,I
+- Karyokinesis and cytokinesis; 3.2.1 prophase, prometaphase, metaphase, anaphase, telophase (plant vs animal cell)
+- Significance of mitosis
+T 3.3|Meiosis and its significance|মিয়োসিস ও এর গুরুত্ব|D,V
+- Two divisions (meiosis-I and II); halving chromosome number; genetic variation; link to fertilisation
+
+C 4|Bioenergetics|জীবনীশক্তি|61-81
+T 4.1|Bioenergetics and the role of ATP|জীবনীশক্তি ও ATP-এর ভূমিকা|D,V
+- Energy flow from sun to living things; ATP ↔ ADP + Pi as the energy currency
+T 4.2|Photosynthesis: what and where|সালোকসংশ্লেষণ: কী ও কোথায়|R,D,V
+- Leaf, mesophyll, chloroplast (grana, stroma)
+K 6CO₂ + 12H₂O --(light, chlorophyll)--> C₆H₁₂O₆ + 6O₂ + 6H₂O
+T 4.2.1|The process of photosynthesis: light and dark reactions|সালোকসংশ্লেষণ প্রক্রিয়া: আলোক ও অন্ধকার পর্যায়|R,D,V
+- Light reaction (photolysis of water, ATP and NADPH) and dark reaction (Calvin cycle)
+T 4.2.2|Role of chlorophyll and light; factors affecting photosynthesis|ক্লোরোফিল ও আলোর ভূমিকা; প্রভাবক|D,X
+- 4.2.2 Chlorophyll  - 4.2.3 Light  - 4.2.4 Factors: light, CO₂, temperature, water, chlorophyll, mineral elements
+- Experiments (e.g. starch test in leaves; O₂ given off)
+T 4.2.5|Importance of photosynthesis|সালোকসংশ্লেষণের গুরুত্ব|
+T 4.3|Respiration: aerobic and anaerobic|শ্বসন: সবাত ও অবাত|R,D,V
+- 4.3.1 Aerobic respiration: glycolysis, acetyl Co-A formation, Krebs cycle, electron transport system
+- Anaerobic respiration (fermentation): incomplete oxidation of glucose, pyruvic acid to alcohol/lactic acid
+K C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy (ATP)
+T 4.3.2|Factors affecting respiration and its significance|শ্বসনের প্রভাবক ও গুরুত্ব|D,X
+- 4.3.2 Factors  - 4.3.3 Significance; experiment: germinating seeds give off CO₂ / heat
+
+C 5|Food, Nutrition and Digestion|খাদ্য, পুষ্টি এবং পরিপাক|82-121
+T 5.1|Plant mineral nutrition|উদ্ভিদের খনিজ পুষ্টি|D
+- Macro- and micronutrients; 5.1.1 sources and roles
+- 5.1.2 Deficiency symptoms (e.g. chlorosis)
+T 5.2|Food and its components|খাদ্য ও খাদ্যের উপাদান|D,I
+- 5.2.1 Carbohydrate, protein, fat, vitamins, minerals, water, roughage: composition, sources, roles
+T 5.2.2|Food pyramid and balanced diet|খাদ্য পিরামিড ও সুষম খাদ্য|D,I
+- 5.2.2 Ideal food pyramid  - 5.2.3 Principles of food habits; characteristics of a balanced diet; making a food chart
+T 5.3|Vitamin and mineral deficiency diseases|পুষ্টির অভাবজনিত রোগ|D
+- Goitre (iodine), night blindness (vitamin A), rickets (vitamin D), anaemia (iron)
+T 5.4|Energy in food|পুষ্টির উপাদানে শক্তি|F,N,I
+- 5.4.1 Kilocalorie as the unit  - 5.4.2 Calculating the energy value of foods (carbohydrate 4, protein 4, fat 9 kcal/g)
+T 5.5|BMR and BMI|BMR ও BMI|F,N,I
+- 5.5.1 Basal metabolic rate and daily energy need  - 5.5.2 Body mass index and weight categories
+K BMI = weight (kg) / height² (m²)
+T 5.6|Exercise and rest|ব্যায়াম ও বিশ্রাম|
+T 5.7|Chemicals in food preservation and food adulteration|খাদ্য সংরক্ষণে রাসায়নিক ও খাদ্যে ভেজাল|D
+- Safe vs harmful preservatives; adulterants and artificial colours (formalin, carbide etc.)
+T 5.8|Digestive system (alimentary canal and glands)|পরিপাকতন্ত্র (পৌষ্টিকনালি ও পরিপাক গ্রন্থি)|D,V,I
+- 5.8.1 Mouth, pharynx, oesophagus, stomach, small and large intestine
+- 5.8.2 Salivary glands, liver, pancreas, gastric and intestinal glands
+T 5.8.3|Digestion and absorption of food|খাদ্যের পরিপাক ও শোষণ|D,V
+- Digestion of carbohydrate, protein and fat; enzymes (amylase, pepsin, trypsin, lipase …); bile; absorption by villi
+T 5.9|Diseases of the digestive system|আন্ত্রিক সমস্যা ও পরিপাকতন্ত্রের রোগ|D
+- Dyspepsia, dysentery, constipation, gastric and peptic ulcer, appendicitis, worm infections, diarrhoea (ORS)
+
+C 6|Transport in Organisms|জীবে পরিবহণ|122-156
+T 6.1|Plant–water relationship; diffusion, osmosis and imbibition|উদ্ভিদ ও পানির সম্পর্ক: ব্যাপন, অভিস্রবণ, ইমবাইবিশন|D,V,X
+T 6.2|Absorption of water and minerals; translocation|পানি ও খনিজ লবণ শোষণ; পরিবহণ|D,V
+- Root hairs; path of water to xylem; ascent of sap
+- 6.2.1 Translocation and its necessity  - 6.2.2 Transport of food through phloem
+T 6.2.3|Transpiration|প্রস্বেদন|D,X
+- Types (stomatal, cuticular, lenticular); mechanism of stomatal opening; factors; experiment
+- Transpiration: a necessary evil
+T 6.3|Blood: composition and functions|মানবদেহে রক্ত সংবহন: রক্তের উপাদান ও কাজ|D,V,I
+- 6.3.1 Plasma; RBC, WBC (types), platelets; functions; RBC vs WBC comparison
+T 6.3.2|Blood groups and transfusion|ব্লাড গ্রুপ বা রক্তের গ্রুপ ও রক্ত পরিসঞ্চালন|D,I
+- ABO and Rh systems; universal donor and recipient; donor–recipient table
+T 6.4|The human heart and circulation|হৃৎপিণ্ডের গঠন ও কাজ|D,V,I
+- 6.4.1 Structure: pericardium, layers, chambers, valves
+- 6.4.2 Circulation through the heart (cardiac cycle); pulmonary and systemic circulation
+T 6.4.3|Blood vessels|রক্তবাহিকা|D
+- Artery, vein, capillary: structure and differences
+T 6.4.4|Blood pressure and cholesterol|রক্তচাপ ও কোলেস্টেরল|D
+- 6.4.4 Normal BP; hypertension: causes and risks  - 6.4.5 Cholesterol types (LDL, HDL) and healthy levels
+T 6.4.6|Leukaemia and circulatory diseases|লিউকেমিয়া ও রক্ত সংবহনতন্ত্রের রোগ|D
+- 6.4.6 Leukaemia (blood/bone marrow cancer) and treatment
+- 6.5 Heart attack (angina, myocardial infarction), rheumatic fever; prevention and remedies
+
+C 7|Exchange of Gases|গ্যাসীয় বিনিময়|157-174
+T 7.1|Gas exchange in plants|উদ্ভিদে গ্যাসীয় বিনিময়|D
+- Stomata, lenticels; exchange during photosynthesis and respiration
+T 7.2|Human respiratory system|মানব শ্বসনতন্ত্র|D,V,I
+- 7.2.1 Nose, pharynx, larynx, trachea, bronchi, bronchioles, lungs, alveoli
+T 7.2.2|Breathing and gas exchange|শ্বাসকার্য ও গ্যাস বিনিময়|D,V,X
+- Inhalation and exhalation (diaphragm, rib muscles); exchange in alveoli; transport of O₂ and CO₂
+- Experiment: exhaled air turns lime water milky
+T 7.3|Diseases of the respiratory system|শ্বাসনালি-সংক্রান্ত রোগ|D
+- Asthma, bronchitis, pneumonia, tuberculosis, lung cancer: symptoms, prevention, remedies; harm of smoking
+
+C 8|Excretory System|রেচন প্রক্রিয়া|175-185
+T 8.1|Excretion and excretory organs|রেচন ও রেচন অঙ্গ|D
+- Waste products (CO₂, urea, uric acid, excess water) and the organs that remove them
+T 8.2|Kidney structure and the nephron|বৃক্কের গঠন ও নেফ্রন|D,V,I
+- Cortex, medulla, pelvis, renal pyramid; nephron: Bowman's capsule, glomerulus, tubules, loop of Henle, collecting duct
+T 8.2.1|Urine formation and osmoregulation|মূত্র তৈরি ও অভিস্রবণ নিয়ন্ত্রণ|D,V
+N Not a separate numbered section in the book; split out of 8.2 so the kidney lesson is not too long.
+- Ultrafiltration, selective reabsorption, secretion; role of kidneys in water balance
+T 8.3|Kidney diseases, dialysis and transplantation|বৃক্ক বিকল, ডায়ালাইসিস ও প্রতিস্থাপন|D
+- Kidney stones: causes and prevention; kidney failure; dialysis; kidney transplant
+- Why drinking excessive water is not advisable
+
+C 9|Firmness and Locomotion|দৃঢ়তা প্রদান ও চলন|186-198
+T 9.1|The human skeleton|মানবকঙ্কালের সাধারণ পরিচিতি|D,V,I
+- Axial and appendicular skeleton; 9.1.1 roles in support and movement
+T 9.1.2|Bone, cartilage and joints|অস্থি, তরুণাস্থি ও অস্থিসন্ধি|D,V
+- Structure of bone; types of cartilage; types of joints (fixed, slightly movable, movable: hinge, ball-and-socket …)
+T 9.2|Muscles, tendons and ligaments in movement|পেশি, টেন্ডন ও লিগামেন্ট|D,V
+- 9.2 Muscle types  - 9.2.1 Antagonistic muscles (biceps–triceps) in locomotion  - 9.2.2 Tendon vs ligament
+T 9.3|Diseases of bones and joints|অস্থিসংক্রান্ত রোগ|D
+- Osteoporosis, rheumatoid arthritis: symptoms, remedies, prevention
+
+C 10|Co-ordination|সমন্বয়|199-225
+T 10.1|Co-ordination in plants: phytohormones and movement|উদ্ভিদে সমন্বয়: ফাইটোহরমোন ও চলন|D,V
+- 10.1.1 Auxin, gibberellin, cytokinin, ethylene (and florigen); roles in growth
+- Photoperiodism: short-day, long-day, day-neutral plants
+- Movement in plants: movement of locomotion and movement of curvature; phototropism (positive/negative)
+T 10.2|Co-ordination in animals|প্রাণীর সমন্বয় প্রক্রিয়া|D
+- Nervous and hormonal co-ordination compared
+T 10.3|Neuron and nerve impulse|নিউরন ও স্নায়ু উদ্দীপনা|D,V
+- Neuron: cell body, dendrite, axon, myelin, nodes of Ranvier; synapse; how an impulse travels
+T 10.3.1|Central nervous system: brain and spinal cord|কেন্দ্রীয় স্নায়ুতন্ত্র: মস্তিষ্ক ও সুষুম্নাকাণ্ড|D,V,I
+- Forebrain (cerebrum), midbrain, hindbrain (cerebellum, pons, medulla); spinal cord
+- Reflex action and reflex arc
+T 10.3.2|Peripheral nervous system|প্রান্তীয় স্নায়ুতন্ত্র|D
+- Cranial and spinal nerves; autonomic nervous system
+T 10.4|Hormones and endocrine glands|হরমোন ও অন্তঃক্ষরা গ্রন্থি|D,V,I
+- 10.4.1 Pituitary, thyroid, parathyroid, thymus, adrenal, islets of Langerhans, gonads: hormones and functions
+T 10.5|Hormonal disorders: thyroid problems and diabetes|প্রাণরস বা হরমোনজনিত অস্বাভাবিকতা: থাইরয়েড সমস্যা ও ডায়াবেটিস|D
+- Thyroid problems; diabetes (insulin; types; control by discipline, diet, drug)
+T 10.6|Disabilities from nerve disorders|স্নায়বিক বৈকল্যজনিত শারীরিক সমস্যা|D
+- Stroke, paralysis, epilepsy, Parkinson's disease
+T 10.7|Effects of tobacco and drugs on co-ordination|সমন্বয় কার্যক্রমে তামাক ও মাদকদ্রব্যের প্রভাব|D
+- Harmful effects; ways out of addiction
+
+C 11|Reproduction in Organisms|জীবের প্রজনন|226-248
+T 11.1|Reproduction and its significance|প্রজনন ও এর গুরুত্ব|
+- Asexual vs sexual reproduction
+T 11.2.1|The flower: reproductive organ of plants|প্রজনন অঙ্গ: ফুল|D,V,I
+- Calyx, corolla, androecium (stamen: filament, anther), gynoecium (pistil: stigma, style, ovary); complete/incomplete, bisexual/unisexual
+T 11.2.2|Pollination; formation of gametes|পরাগায়ন; গ্যামেট সৃষ্টি|D,V
+- Self- and cross-pollination; agents (insect, wind, water, animal)
+- Microsporogenesis (pollen) and megasporogenesis (embryo sac)
+T 11.2.3|Fertilisation and seed/fruit formation in plants|উদ্ভিদের নিষেক ও বীজ গঠন|D,V
+- Pollen tube growth; double fertilisation; development of embryo, seed and fruit
+T 11.3|Animal reproduction and fertilisation|প্রাণীর প্রজনন ও নিষেক|D
+- 11.3.1 Fertilisation: external and internal; its significance; formation of sperm and ovum by meiosis
+- 11.3.2 Role of hormones in human reproduction
+T 11.3.3|Development of the embryo|ভ্রূণের বিকাশ|D,V
+- Zygote → embryo → foetus; placenta, umbilical cord, amnion
+T 11.4|Reproduction-related diseases: AIDS|প্রজনন-সংক্রান্ত রোগ: এইডস|D
+- 11.4.1 HIV (structure), how it spreads and does not spread, symptoms, prevention
+
+C 12|Heredity in Organisms and Biological Evolution|জীবের বংশগতি ও জৈব অভিব্যক্তি|249-277
+T 12.1|Heredity and hereditary material: chromosome, DNA, RNA, gene|বংশগতি ও বংশগতির ধারক: ক্রোমোজোম, DNA, RNA, জিন|D,V,I
+- 12.1.1 Chromosome structure; DNA double helix (nucleotides, base pairs A–T, G–C); RNA; gene
+- DNA replication (as covered in the book); activity: extracting DNA
+T 12.1.2|DNA test (DNA fingerprinting)|DNA টেস্ট|D
+- Uses in identifying criminals, parentage, victims
+T 12.2|Sex determination in humans|মানুষের লিঙ্গ নির্ধারণ|D,V,I
+- 22 pairs of autosomes + XX / XY; how a child's sex is decided
+T 12.3|Genetic disorders: colour blindness and thalassaemia|জেনেটিক ডিসঅর্ডার বা বংশগতি ব্যাধি: বর্ণান্ধতা ও থ্যালাসেমিয়া|D,I
+- X-linked inheritance of colour blindness (crosses)
+- Thalassaemia: inheritance from carrier parents; prevention (screening)
+T 12.4|Origin of life and evolution|জীবনের উৎপত্তি ও জৈব অভিব্যক্তি তত্ত্ব|D,V
+- 12.4.1 Origin of life; progression of life forms through time
+T 12.4.2|Darwinism and evidence of evolution|ডারউইনবাদ ও জৈব অভিব্যক্তির প্রমাণ|D
+- Darwin's natural selection: conditions; non-Darwinian evolution
+- Evidences of evolution; applications (new varieties, mosquito/insect control)
+
+C 13|Environment of Life|জীবের পরিবেশ|278-300
+T 13.1|Ecosystem and its components|বাস্তুতন্ত্র ও এর উপাদান|D,V
+- 13.1.1 Abiotic and biotic components (producer, consumer, decomposer)
+T 13.2|Pond ecosystem|পুকুরের বাস্তুতন্ত্র|D,V,I
+T 13.3|Food chain|খাদ্যশিকল বা খাদ্যশৃঙ্খল|D,V,I
+- Predator, parasitic and saprophytic food chains
+T 13.4|Food web and energy flow|খাদ্যজাল ও শক্তিপ্রবাহ|D,V,I
+- Food web; nutrient cycling; energy flow between trophic levels (10% idea); energy pyramid
+T 13.5|Biodiversity|জীববৈচিত্র্য|D
+- 13.5.1 Genetic, species and ecosystem diversity
+T 13.5.2|Interactions and interdependence among organisms|জীবের মধ্যে মিথস্ক্রিয়া ও আন্তঃনির্ভরশীলতা|D
+- Mutualism (e.g. root nodule bacteria), commensalism, parasitism, predation, competition
+T 13.6|Conserving the environment|পরিবেশ সংরক্ষণের গুরুত্ব ও উপায়|D
+- Why conservation matters and the ways to conserve the environment and biodiversity
+
+C 14|Biotechnology|জীবপ্রযুক্তি|301-312
+T 14.1|What is biotechnology?|জীবপ্রযুক্তি বা বায়োটেকনোলজি কী?|D
+- Traditional and modern biotechnology; examples
+T 14.2|Tissue culture|টিস্যু কালচার|D,V,I
+- 14.2.1 Steps: mother plant, culture medium, sterilisation, callus, shoot/root media, transfer to soil
+- 14.2.2 Uses of tissue culture
+T 14.3|Genetic engineering and GMOs|জেনেটিক ইঞ্জিনিয়ারিং ও GMO|D,V
+- 14.3.1 Steps in making recombinant DNA / a GMO (cutting, joining, inserting, selecting)
+- 14.3.2 Uses: crops, animals, fisheries, healthcare (insulin), environment protection

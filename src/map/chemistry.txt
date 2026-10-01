@@ -1,0 +1,262 @@
+S chemistry|Chemistry|রসায়ন
+C 1|Concepts of Chemistry|রসায়নের ধারণা|1-16
+T 1.1|What is chemistry? Origin and history|রসায়ন পরিচিতি ও রসায়নের ইতিহাস|D
+- Definition: composition, structure, properties and transformation of matter and the energy involved
+- Bronze and early metallurgy; ancient Greek/Indian ideas of atoms
+- Origin of the word "Chemistry": alchemy, Jabir ibn Hayyan; Lavoisier as father of modern chemistry
+- Explaining everyday events with chemistry (Table 1.01)
+T 1.2|Scope of chemistry|রসায়নের পরিধি বা ক্ষেত্রসমূহ|D
+- Food, medicine, fertilizer, clothing, fuel, construction materials (Table 1.02)
+T 1.3|Chemistry and other branches of science|বিজ্ঞানের অন্যান্য শাখার সাথে রসায়নের সম্পর্ক|
+- Links with physics, biology, geology, mathematics, agriculture, medicine
+T 1.4|Why study chemistry?|রসায়ন পাঠের গুরুত্ব|
+T 1.5|The process of research in chemistry|রসায়নে অনুসন্ধান বা গবেষণা প্রক্রিয়া|D,X
+- Identify problem → hypothesis → plan → experiment → observe & record data → analyse → conclusion → report
+- Worked example: how temperature affects solubility
+T 1.6|Laboratory safety and hazard symbols|রসায়ন পরীক্ষাগারে নিরাপত্তা ও সতর্কতা চিহ্ন|D,I
+- Apron, goggles, gloves, mask; safe handling of chemicals
+- Hazard pictograms: explosive, flammable, toxic, irritant, health hazard, radioactive, environmental hazard, corrosive (Table 1.04)
+
+C 2|States of Matter|পদার্থের অবস্থা|17-34
+T 2.1|Solids, liquids and gases|পদার্থ ও পদার্থের অবস্থা: কঠিন, তরল, গ্যাস|D,V
+- 2.1.1 Solids  - 2.1.2 Liquids  - 2.1.3 Gases: shape, volume, particle arrangement
+T 2.2|Kinetic theory of particles|কণার গতিতত্ত্ব|D,V
+- Particles always moving; intermolecular forces vs kinetic energy; effect of heating
+T 2.3|Diffusion|ব্যাপন|D,V,X
+- KMnO₄ in water; liquid in liquid; diffusion of two gases (NH₃ + HCl white ring)
+- Factors: temperature, molar mass, state
+T 2.4|Effusion|নিঃসরণ|D
+- Gas escaping through a tiny hole; leak test with soapy water; idea of finding molar mass of a gas
+T 2.5|Burning candle and the three states of wax|মোমবাতির প্রজ্বলন এবং মোমের তিন অবস্থা|D,V
+T 2.6|Melting point and boiling point|গলন ও স্ফুটন (গলনাঙ্ক ও স্ফুটনাঙ্ক)|D,X,I
+- Experiments: melting point of urea and wax; boiling point of water
+- Heating curve of ice → water → steam; cooling curve of vapour
+T 2.7|Distillation and sublimation|পাতন ও ঊর্ধ্বপাতন|D,X
+- Distillation = vaporization + condensation
+- Sublimation of volatile solids (iodine, camphor, naphthalene, NH₄Cl); separating iodine from sand; uses
+
+C 3|Structure of Matter|পদার্থের গঠন|35-58
+T 3.1|Elements and compounds|মৌলিক ও যৌগিক পদার্থ|D
+T 3.2|Atoms and molecules|পরমাণু ও অণু|D
+- Molecules of elements vs molecules of compounds
+T 3.3|Symbols of elements|মৌলের প্রতীক|D,I
+- From English names (first letter / first two letters) and Latin names (Na, K, Fe, Cu, Ag, Au, Pb, Sn, Hg)
+T 3.4|Chemical formula|সংকেত|D
+- Molecular formulae of common substances; meaning of subscripts and coefficients
+T 3.5|Fundamental particles; atomic number and mass number|পরমাণুর সাংগঠনিক কণা; পারমাণবিক সংখ্যা ও ভরসংখ্যা|F,D,I
+- Electron, proton, neutron: charge and mass (Table 3.05)
+- 3.5.1 Atomic number (Z)  - 3.5.2 Mass number (A = Z + N); notation ᴬ_Z X
+T 3.6|Atomic models: Rutherford and Bohr|পরমাণু মডেল: রাদারফোর্ড ও বোর|D,V
+- 3.6.1 Rutherford's gold-foil model and its limitations
+- 3.6.2 Bohr's model: stationary orbits, energy levels, emission/absorption; successes and limitations
+T 3.7|Electronic configuration of atoms|পরমাণুর শক্তিস্তরে ইলেকট্রন বিন্যাস|F,D,I
+- Shells K, L, M, N; 2n² rule; configuration of H(1)–Zn(30)
+- 3.7.1 Energy sublevels s, p, d, f and their capacity
+- 3.7.2 Principles: Aufbau (n + l rule) order 1s 2s 2p 3s 3p 4s 3d …
+- 3.7.3 Exceptions: Cr and Cu
+T 3.8|Isotopes|আইসোটোপ|D
+- Same Z, different A; isotopes of hydrogen (protium, deuterium, tritium)
+T 3.9|Relative atomic mass and relative molecular mass|আপেক্ষিক পারমাণবিক ভর ও আণবিক ভর|F,N,I
+- Atomic mass unit (1/12 of C-12 mass = 1.66 × 10⁻²⁴ g)
+- 3.9.1 Average relative atomic mass from isotope percentages (Cl, Cu examples)
+- 3.9.2 Relative molecular mass from atomic masses
+T 3.10|Radioactive isotopes and their uses|তেজস্ক্রিয় আইসোটোপ ও এর ব্যবহার|D
+- 3.10.1 Medicine: diagnosis and treatment  - 3.10.2 Agriculture: pest control, crop improvement
+- 3.10.3 Electricity generation (Rooppur)  - 3.10.4 Harmful effects
+
+C 4|Periodic Table|পর্যায় সারণি|59-81
+T 4.1|History of the periodic table|পর্যায় সারণির পটভূমি|D
+- Lavoisier (metals/non-metals), Döbereiner's triads, Newlands' law of octaves, Mendeleev's table, modern periodic law (atomic number)
+T 4.2|Features of the modern periodic table|পর্যায় সারণির বৈশিষ্ট্য|D,I
+- 7 periods and 18 groups; blocks; metals, non-metals, metalloids; lanthanides and actinides
+T 4.3|Finding the position of an element|পর্যায় সারণিতে মৌলের অবস্থান নির্ণয়|D,I
+- Period number = number of shells; group number from outer-shell electrons (Table 4.01)
+T 4.4|Electronic configuration: the basis of the periodic table|পর্যায় সারণির মূলভিত্তি ইলেকট্রন বিন্যাস|D
+- Why elements of a group have similar configurations and properties
+T 4.5|Anomalies in the periodic table|পর্যায় সারণির কিছু ব্যতিক্রম|
+- Position of hydrogen (with group 1 and group 17); helium
+T 4.6|Periodic properties|পর্যায়বৃত্ত ধর্ম|D,V,I
+- Metallic and non-metallic character
+- Atomic radius (trend across a period and down a group)
+- Ionization energy
+- Electron affinity
+- Electronegativity
+T 4.7|Special names of groups|বিভিন্ন গ্রুপের মৌলের বিশেষ নাম|D,I
+- Alkali metals, alkaline-earth metals, coinage metals, transition metals, halogens, noble (inert) gases
+T 4.8|Advantages of the periodic table|পর্যায় সারণির সুবিধা|
+T 4.9|Elements of the same group show similar properties|একই গ্রুপের মৌলের একই ধর্ম|R,X
+- Halogens: HF, HCl, HBr, HI dissolving in water to form acids
+- Experiment: preparing CO₂ and testing its properties
+
+C 5|Chemical Bond|রাসায়নিক বন্ধন|82-108
+T 5.1|Valence electrons|যোজ্যতা ইলেকট্রন|D
+T 5.2|Valency|যোজনী|D,I
+- Valency of common elements; variable valency (Tables 5.02–5.03)
+T 5.3|Radicals and their valencies|যৌগমূলক ও এর যোজনী|D,I
+- Common radicals: NH₄⁺, OH⁻, NO₃⁻, SO₄²⁻, CO₃²⁻, PO₄³⁻, HCO₃⁻ …
+T 5.4|Writing chemical formulae|যৌগের রাসায়নিক সংকেত লিখন|I
+- Criss-cross (valency exchange) rules
+T 5.5|Molecular formula and structural formula|আণবিক সংকেত ও গাঠনিক সংকেত|D
+T 5.6|Octet and duet rules|অষ্টক ও দুই-এর নিয়ম|D
+T 5.7|Noble gases and their stability|নিষ্ক্রিয় গ্যাস ও এদের স্থিতিশীলতা|D
+T 5.8|Chemical bonds and why they form|রাসায়নিক বন্ধন ও এর কারণ|
+T 5.9|Cations and anions|ক্যাটায়ন ও অ্যানায়ন|D,V
+- Na → Na⁺ + e⁻; Cl + e⁻ → Cl⁻
+T 5.10|Ionic (electrovalent) bond|আয়নিক বা তড়িৎযোজী বন্ধন|D,V,R
+- Formation of NaCl and MgO; electron-dot diagrams
+T 5.11|Covalent bond|সমযোজী বন্ধন|D,V
+- Single, double, triple bonds: H₂, O₂, N₂, H₂O, CH₄; polar covalent bonds (δ⁺/δ⁻)
+T 5.12|Properties of ionic and covalent compounds|আয়নিক ও সমযোজী যৌগের বৈশিষ্ট্য|D,X
+- State, melting point, solubility, electrical conductivity (test with bulb and battery); crystals of salt
+T 5.13|Metallic bond|ধাতব বন্ধন|D,V
+- Sea of delocalised electrons; electrical and heat conductivity of metals
+
+C 6|Concept of Mole and Chemical Counting|মোলের ধারণা ও রাসায়নিক গণনা|109-141
+T 6.1|Mole and Avogadro's number|মোল ও অ্যাভোগাড্রো সংখ্যা|F,N,I
+- 1 mol = 6.023 × 10²³ particles = molar mass in grams
+- Mass of one molecule; number of molecules in a given mass
+K n = w/M; N = n × Nₐ
+T 6.1.1|Molar volume of gases|গ্যাসের মোলার আয়তন|F,N
+- 22.4 L at STP; volume ↔ moles ↔ mass ↔ molecules
+N The book uses 22.4 L at STP (0 °C, 1 atm) and Nₐ = 6.023 × 10²³; lessons will follow the book's values.
+T 6.1.2|Mole and molecular formula|মোল ও আণবিক সংকেত|F
+T 6.1.3|Solutions and molarity|মোলার দ্রবণ (মোলারিটি)|F,N,D,X,I
+- Solute, solvent, solution; dilute vs concentrated
+- Molarity; preparing solutions of given molarity in a volumetric flask
+- Experiment: preparing 0.1 M Na₂CO₃ solution
+K S = (w × 1000)/(M × V[mL])
+T 6.2|Percentage composition of elements|যৌগে মৌলের শতকরা সংযুতি|F,N
+- Examples: HCl, H₂O, Al₂(SO₄)₃; Experiment: percentage of water of crystallisation
+T 6.2.1|Empirical and molecular formula|স্থূল সংকেত ও আণবিক সংকেত|F,N,I
+- 6.2.1 Empirical formula from percentage composition
+- 6.2.2 Molecular formula = (empirical formula)ₙ using molar mass
+T 6.3|Chemical equations and balancing|রাসায়নিক সমীকরণ ও সমতাকরণ|R,I
+- Writing equations with states (s, l, g, aq); 6.3.1 balancing step by step
+T 6.3.2|Stoichiometry: calculations from equations|রাসায়নিক সমীকরণ থেকে গণনা|F,N,R
+- Mass–mass, mass–volume, molecule counting (e.g. Mg + O₂, N₂ + H₂ → NH₃)
+T 6.4|Limiting reactant|লিমিটিং বিক্রিয়ক|N,D,V
+T 6.5|Percentage yield|উৎপাদের শতকরা পরিমাণ হিসাব|F,N
+K % yield = (actual yield / theoretical yield) × 100
+
+C 7|Chemical Reactions|রাসায়নিক বিক্রিয়া|142-167
+T 7.1|Physical and chemical change|ভৌত ও রাসায়নিক পরিবর্তন|D,V
+- 7.1.1 Physical change  - 7.1.2 Chemical change; how to tell them apart
+T 7.2.1|Reversible and irreversible reactions|উভমুখী ও একমুখী বিক্রিয়া|R
+T 7.2.2|Exothermic and endothermic reactions|তাপোৎপাদী ও তাপহারী বিক্রিয়া|R,D
+T 7.2.3|Redox reactions and oxidation number|জারণ-বিজারণ বিক্রিয়া ও জারণ সংখ্যা|R,D,I
+- Oxidation = loss of electrons, reduction = gain; oxidising and reducing agents; half-reactions
+- Oxidation number rules and calculation (Table 7.01)
+- Redox reaction types: addition (synthesis), decomposition, substitution/displacement, combustion
+T 7.2.4|Non-redox reactions: neutralisation and precipitation|নন-রেডক্স বিক্রিয়া: প্রশমন ও অধঃক্ষেপণ|R,D
+N Not a separate number in the book; this is the non-redox part of 7.2.3, given its own lesson.
+- Acid–base neutralisation; precipitation reactions in water (Fe(OH)₃); ↓ sign
+T 7.3|Special types: hydrolysis, hydration, isomerisation, polymerisation|বিশেষ ধরনের রাসায়নিক বিক্রিয়া: আর্দ্র বিশ্লেষণ, পানিযোজন, সমাণুকরণ, পলিমারকরণ|R
+- Hydrolysis (SiCl₄, AlCl₃); hydration and water of crystallisation (CuSO₄·5H₂O etc.)
+- Isomerisation (ammonium cyanate → urea); polymerisation (ethylene → polythene)
+T 7.4|Chemical reactions in everyday life|দৈনন্দিন জীবনে রাসায়নিক বিক্রিয়া|R
+- 7.4.1 Real-life reactions (cooking, rusting, digestion, photosynthesis …)
+- 7.4.2 Preventing harmful reactions (rust, food spoilage)
+T 7.5|Rate of reaction|বিক্রিয়ার গতিবেগ বা বিক্রিয়ার হার|D,X
+- Definition; fast (AgCl precipitate) vs slow (rusting) reactions
+- Investigation: Na₂CO₃ with vinegar/lemon juice in cold vs hot water (effect of temperature)
+T 7.5.1|Chemical equilibrium and Le Chatelier's principle|রাসায়নিক সাম্যাবস্থা ও লা-শাতেলিয়ার নীতি|R,D,V,I
+- Dynamic equilibrium; effect of temperature, concentration and pressure on equilibrium
+
+C 8|Chemistry and Energy|রসায়ন ও শক্তি|168-205
+T 8.1|Chemical energy and its source|রাসায়নিক শক্তি ও এর উৎস|D
+- 8.1.1 Bond energy; intermolecular energy; energy transformation in reactions; units (J, kJ, cal)
+T 8.1.2|Exothermic and endothermic reactions (heat of reaction)|তাপের পরিবর্তন অনুসারে বিক্রিয়ার শ্রেণিবিভাগ|R,D
+- ΔH negative / positive; energy diagrams
+T 8.1.3|Calculating heat of reaction from bond energies|বন্ধন শক্তি থেকে বিক্রিয়া তাপ গণনা|F,N
+K ΔH = Σ(bonds broken) − Σ(bonds formed)
+T 8.2|Uses of chemical energy|রাসায়নিক শক্তির ব্যবহার|D
+- 8.2.1 Transformation into heat, light, electrical energy: fuel, fireworks, dry cell, Daniell cell
+- 8.2.2 Chemical energy in living things (photosynthesis, respiration)
+- 8.2.3 Appropriate use of chemical energy  - 8.2.4 Importance of fuel purity
+- 8.2.5 Negative effects  - 8.2.6 Ethanol as a fuel
+T 8.3.1|Electrochemistry basics: conductors, electrolytes, electrodes|তড়িৎ রসায়ন: পরিবাহী, তড়িৎবিশ্লেষ্য, তড়িৎদ্বার|D
+- Electronic vs electrolytic conductors; strong and weak electrolytes; anode and cathode
+T 8.3.2|Electrolysis and its mechanism|তড়িৎবিশ্লেষণ ও এর কৌশল|R,D,V
+- Molten NaCl; concentrated NaCl solution; pure (acidified) water
+- Electrochemical series and which ion is discharged
+T 8.3.3|Uses of electrolysis: electroplating and extraction|তড়িৎবিশ্লেষণের ব্যবহার|R,D
+- Extraction of aluminium; silver electroplating; commercial products
+T 8.4|Galvanic cells, batteries and their effects|রাসায়নিক বিক্রিয়ার মাধ্যমে বিদ্যুৎ উৎপাদন: গ্যালভানিক কোষ ও ব্যাটারি|R,D,V
+- Daniell cell; anode/cathode reactions; salt bridge; electrolytic vs galvanic cell (Table 8.03)
+- Dry cell, other batteries; health and environmental hazards of batteries
+T 8.5|Nuclear reactions and electricity generation|নিউক্লিয়ার বিক্রিয়া ও বিদ্যুৎ শক্তি উৎপাদন|D,V
+- Nuclear fission, chain reaction, fusion; nuclear reactor
+
+C 9|Acid–Base Balance|এসিড-ক্ষারক সমতা|206-232
+T 9.1|Acids and their properties|এসিড ও এর ধর্ম|R,X
+- 9.1.1 Properties of dilute acids by experiment: litmus, metals, carbonates, bases/metal oxides
+- 9.1.2 Role of water in acidic properties (H⁺ ions)  - 9.1.3 Concentrated acids
+T 9.2|Bases and alkalis|ক্ষারক ও ক্ষার|R,X
+- 9.2.1 Properties of dilute bases  - 9.2.2 Reaction with metallic salts
+- 9.2.3 Role of water (OH⁻)
+T 9.3|Corrosive nature of concentrated acids and alkalis|গাঢ় এসিড ও ক্ষারের ক্ষয়কারী ধর্ম|D
+T 9.4|pH and its importance|pH ও এর গুরুত্ব|F,D,I,X
+- pH scale 0–14; 9.4.1 measuring pH (indicator, pH paper, pH meter)
+- 9.4.2 Importance of pH in body, soil, food, water (Table 9.01); making pH paper from plants
+K pH = −log[H⁺]
+T 9.5|Neutralisation and salts|প্রশমন বিক্রিয়া ও লবণ|R
+- 9.5.1 Neutralisation in daily life (antacid for stomach acidity, toothpaste, liming acidic soil)  - 9.5.2 Salts
+T 9.6|Acid rain|এসিড বৃষ্টি|R,D
+T 9.7|Water: hardness, pollution and purification|পানি: খরতা, দূষণ, বিশুদ্ধতার পরীক্ষা ও বিশুদ্ধকরণ|R,D
+- 9.7.1 Temporary and permanent hardness and their removal
+- 9.7.2 Water pollution, control and purification methods
+- 9.7.3 Testing the purity of water (activity)
+
+C 10|Mineral Resources: Metals and Non-metals|খনিজ সম্পদ: ধাতু-অধাতু|233-260
+T 10.1|Mineral resources: rocks, minerals and ores|খনিজ সম্পদ: শিলা, খনিজ ও আকরিক|D
+- Composition of the earth's crust
+- 10.1.1 Igneous, sedimentary and metamorphic rocks
+- 10.1.2 Minerals and ores (examples of ores of common metals)
+T 10.2|Extraction of metals|ধাতু নিষ্কাশন|R,D,V
+- Concentration of ore: hydraulic/gravity, froth flotation, magnetic separation, chemical method
+- Roasting and calcination; reactivity series (Table 10.01)
+- Reduction: electrolytic (aluminium with cryolite), carbon reduction, auto-reduction
+- Purification by electrolysis (copper)
+- Extraction of iron in the blast furnace
+T 10.3|Alloys|নির্বাচিত সংকর ধাতু|D
+- Steel, brass, bronze etc. and their uses
+T 10.4|Corrosion of metals and its prevention|ধাতুর ক্ষয়: লক্ষণ, কারণ ও প্রতিরোধ|R,D,X
+- Rusting experiment (air, water, boiled water, oil layer)
+- Prevention: painting, galvanising, electroplating; recycling metals
+T 10.5|Non-metal minerals: sulfur and its compounds|খনিজ অধাতু: সালফার ও এর যৌগ|R,D
+- Sulfur and its uses; sulfur dioxide
+- Sulfuric acid by the contact process; dehydrating action; uses
+
+C 11|Mineral Resources: Fossils|খনিজ সম্পদ: জীবাশ্ম|261-286
+T 11.1|Fossil fuels: coal, natural gas and petroleum|জীবাশ্ম জ্বালানি: কয়লা, প্রাকৃতিক গ্যাস ও পেট্রোলিয়াম|D
+- 11.1.1 Natural gas: composition and uses
+- 11.1.2 Fractional distillation of petroleum and its fractions
+T 11.2|Hydrocarbons and homologous series|হাইড্রোকার্বন ও সমগোত্রীয় শ্রেণি|D
+- 11.2.1 Aliphatic (open chain)  - 11.2.2 Aromatic (benzene, naphthalene)
+- Homologous series and general formulae (Table 11.01)
+T 11.3|Alkanes (saturated hydrocarbons)|অ্যালকেন (সম্পৃক্ত হাইড্রোকার্বন)|R,D,I
+- Naming alkanes; alkyl groups; preparation; properties: combustion, substitution with chlorine
+T 11.4|Alkenes and alkynes (unsaturated hydrocarbons)|অ্যালকিন ও অ্যালকাইন (অসম্পৃক্ত হাইড্রোকার্বন)|R,D
+- Naming; preparation of ethene (from ethanol); addition reactions (H₂, Br₂…)
+- 11.4.2 Alkynes: preparation of ethyne from calcium carbide; addition of water → ethanal
+T 11.5|Alcohols, aldehydes and carboxylic (fatty) acids|অ্যালকোহল, অ্যালডিহাইড ও ফ্যাটি এসিড|R,D
+- 11.5.1 Alcohol  - 11.5.2 Aldehyde (formalin misuse in food)  - 11.5.3 Organic acids
+- 11.5.4 Converting between them (oxidation sequence)
+T 11.6|Uses of alcohols, aldehydes and organic acids|অ্যালকোহল, অ্যালডিহাইড ও জৈব এসিডের ব্যবহার|
+T 11.7|Polymers and plastics|পলিমার ও প্লাস্টিক|R,D
+- 11.7.1 Addition polymers (polythene, polypropene, PVC)  - 11.7.2 Condensation polymers; natural vs synthetic
+- 11.7.3 Advantages and disadvantages of plastic
+T 11.7.4|Organic vs inorganic compounds|জৈব ও অজৈব যৌগের পার্থক্য|
+
+C 12|Chemistry in Our Lives|আমাদের জীবনে রসায়ন|287-304
+T 12.1|Household chemistry: salt, baking soda, vinegar|গৃহস্থালি রসায়ন: খাদ্য লবণ, বেকিং সোডা, ভিনেগার|R,D
+- Table salt from sea water; baking soda and baking powder; making vinegar and how it preserves food
+T 12.2|Chemistry of cleaning|পরিষ্কার-পরিচ্ছন্নতায় রসায়ন|R,D,X
+- Washing soda; toilet cleaner and how it kills germs
+- Soap and detergent: cleaning mechanism, differences, harmful effects; making soap (experiment)
+- Bleaching powder: bleaching and disinfecting; glass cleaner (ammonia)
+- Laboratory and industrial (Haber) production of ammonia
+T 12.3|Chemistry in agriculture and industry|কৃষি ও শিল্পক্ষেত্রে রসায়ন|R,D
+- Fertilisers (urea, ammonium sulphate)
+- Chemicals for processing and preserving agricultural products; recommended preservatives
+- Industrial waste and environmental pollution

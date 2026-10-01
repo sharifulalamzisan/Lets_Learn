@@ -1,0 +1,1599 @@
+@@chapter
+== en
+## intro
+In Chapter 2 we described motion: how fast, which way, how quickly it changes. But **why** does anything start moving, speed up, slow down or turn? The answer is **force**.
+
+This chapter is built around Isaac Newton's three laws of motion. You will see what inertia is, the four fundamental forces of nature, balanced and unbalanced forces, momentum and collisions (and why a head-on crash with a truck is so dangerous for a small car), how to measure force with F = ma, why things have weight, how we can walk at all, and why friction is both a nuisance and something we cannot live without.
+## objectives
+- explain inertia and the idea of force using Newton's first law
+- describe the four fundamental forces of nature
+- explain the effect of balanced and unbalanced forces
+- define momentum and use the law of conservation of momentum
+- analyse collisions and relate them to road safety
+- measure force using Newton's second law, F = ma
+- use Newton's law of gravitation to find g and weight
+- explain action and reaction using Newton's third law
+- describe the types of friction, how to increase or reduce it, and its role in daily life
+== bn
+## intro
+দ্বিতীয় অধ্যায়ে আমরা গতি বর্ণনা করেছি: কত জোরে, কোন দিকে, কত দ্রুত বদলায়। কিন্তু কোনো কিছু চলতে শুরু করে, জোরে হয়, আস্তে হয় বা বাঁক নেয় **কেন**? উত্তর হলো **বল**।
+
+এই অধ্যায় সাজানো হয়েছে আইজ্যাক নিউটনের তিনটি গতিসূত্রকে ঘিরে। দেখবে জড়তা কী, প্রকৃতির চারটি মৌলিক বল, সাম্য ও অসাম্য বল, ভরবেগ ও সংঘর্ষ (আর ট্রাকের সাথে মুখোমুখি সংঘর্ষ ছোট গাড়ির জন্য কেন এত ভয়ংকর), F = ma দিয়ে কীভাবে বল মাপা যায়, জিনিসের ওজন কেন হয়, আমরা হাঁটতে পারি কীভাবে, আর ঘর্ষণ কেন একই সাথে ঝামেলা এবং অপরিহার্য।
+## objectives
+- নিউটনের প্রথম সূত্র দিয়ে জড়তা ও বলের ধারণা ব্যাখ্যা করতে পারবে
+- প্রকৃতির চারটি মৌলিক বল বর্ণনা করতে পারবে
+- সাম্য ও অসাম্য বলের প্রভাব ব্যাখ্যা করতে পারবে
+- ভরবেগের সংজ্ঞা দিতে এবং ভরবেগের সংরক্ষণ সূত্র ব্যবহার করতে পারবে
+- সংঘর্ষ বিশ্লেষণ করে নিরাপদ চলাচলের সাথে সম্পর্ক বুঝতে পারবে
+- নিউটনের দ্বিতীয় সূত্র F = ma দিয়ে বল পরিমাপ করতে পারবে
+- নিউটনের মহাকর্ষ সূত্র দিয়ে g ও ওজন বের করতে পারবে
+- নিউটনের তৃতীয় সূত্র দিয়ে ক্রিয়া-প্রতিক্রিয়া ব্যাখ্যা করতে পারবে
+- ঘর্ষণের প্রকারভেদ, বাড়ানো-কমানোর উপায় এবং দৈনন্দিন জীবনে এর ভূমিকা বর্ণনা করতে পারবে
+
+@@ 3.1
+@visual inertia
+@related 3.3 3.6 2.5
+== en
+## what
+**Newton's first law** says that an object at rest stays at rest, and an object moving with uniform velocity keeps moving that way, **unless a force acts on it**. This "laziness" of objects to change their state is called **inertia**.
+## simple
+The first half is easy to believe: a book on a table does not start moving by itself. Someone has to push it.
+
+The second half feels strange. When you kick a ball on the ground, it slows down and stops. So doesn't a moving object need a force to keep moving? **No.** It stops because a force acts on it: **friction** from the ground and **air resistance**, both pushing backwards. Remove those, and the ball would roll on forever in a straight line at the same speed. In space, where there is almost no friction or air, a spacecraft coasts for years without its engines on.
+
+**Inertia** is the name for this tendency:
+
+- **Inertia of rest**: a still object "wants" to stay still. When a bus suddenly starts, your feet move with the bus but your upper body tends to stay where it was, so you fall **backwards**.
+- **Inertia of motion**: a moving object "wants" to keep moving. When you jump off a moving bus, your feet stop on the ground but your upper body keeps moving forward, so you may fall **forwards**. That is why you should never get off a moving bus.
+
+**Try it yourself:** put a card on top of a glass and a coin on the card. Flick the card away quickly. The coin does not go with the card; it drops straight into the glass.
+
+**More mass, more inertia.** Push an empty trolley and a loaded one with the same force: the loaded one is much harder to start or stop. Mass is a measure of inertia.
+
+Newton's first law also tells us **what a force is**: whatever makes a still object move, or changes the velocity of a moving one.
+## analogy
+Objects are a bit **lazy**: whatever they are doing, they want to keep doing it. When a bus brakes suddenly, your feet stop with the bus, but your upper body "wants" to keep going, so you jerk forward. When the bus starts suddenly, your body "wants" to stay behind, so you fall back. That laziness is **inertia**, and heavier things are lazier.
+## definition
+**Newton's first law of motion**: an object at rest remains at rest, and an object in uniform motion continues its uniform motion in a straight line, unless an external force acts on it.
+
+**Inertia**: the property of an object by which it tends to remain at rest if it is at rest, or to keep moving uniformly in a straight line if it is moving, unless a force acts on it.
+
+**Force**: that which changes, or tends to change, the state of rest or uniform motion of an object.
+## why
+Why did people believe for 2000 years that moving things need a push to keep going? Because on Earth, friction is everywhere and always stops things. Galileo and Newton realised that friction is itself a force. Once you count it, the pattern is simple: **no net force, no change in velocity**.
+## terms
+Inertia | Tendency of an object to keep its state of rest or uniform motion
+Inertia of rest | A still object tends to stay still
+Inertia of motion | A moving object tends to keep moving
+Force | Something that changes an object's state of rest or motion
+Contact force | Force that needs touching (push, friction, tension)
+Non-contact force | Force that acts from a distance (gravity, magnetism)
+## visual
+Flick the card fast and the coin falls into the glass. Pull it slowly and friction has time to drag the coin along.
+## real
+**Seat belts** exist because of inertia of motion: when a car stops suddenly, your body keeps moving forward at the car's old speed until something stops it. The belt stops you safely instead of the windscreen. Shaking a wet umbrella or beating a dusty carpet also uses inertia: the umbrella or carpet stops, but the water drops or dust keep going.
+## example
+Q: A graph shows an object's position staying constant from 0 to t₁, increasing steadily (straight line) from t₁ to t₂, then constant again. When was a force acting?
+Solution: From 0 to t₁ and after t₂, position doesn't change, so the object is at rest; no force.
+> No change in velocity means no net force (first law).
+Step: From t₁ to t₂ the position changes at a steady rate, so velocity is uniform; no force during this time either.
+Answer: A force acted only at the instants t₁ (to start the motion) and t₂ (to stop it).
+## mistakes
+x A moving object needs a continuous force to keep moving.
+v A moving object keeps moving uniformly by itself. A force is needed only to change its velocity, or to cancel forces like friction.
+x Inertia is a force.
+v Inertia is a property of matter, not a force. Its measure is mass.
+x Heavier objects have less inertia because they are "stuck".
+v Greater mass means greater inertia: it is harder to start, stop or turn.
+## remember
+- First law: no net force → rest stays rest, uniform motion stays uniform (straight line, constant speed).
+- Inertia: tendency to keep the present state; mass measures inertia.
+- Inertia of rest (fall back when a bus starts); inertia of motion (fall forward when getting off a moving bus).
+- The first law defines force: whatever changes the state of rest or motion.
+## think
+In a sudden stop, why does a person standing in a bus fall forward, while a helium balloon inside a closed car moves backward? (Hint: think about the air in the car.)
+## quiz
+? When a stationary bus suddenly starts, passengers fall backwards. This is due to:
+* Inertia of rest
+- Inertia of motion
+- Friction
+- Gravity
+= The upper body tends to stay at rest while the feet move with the bus.
+? A ball rolling on the ground eventually stops because:
+- Its inertia runs out
+* Friction and air resistance act on it
+- No force acts on it
+- Its mass decreases
+= By the first law it would keep moving; opposing forces stop it.
+? Which object has the greatest inertia?
+- A 1 kg ball
+- A 5 kg bag
+* A 1000 kg car
+- A 50 g pen
+= Inertia depends on mass; the car has the largest mass.
+== bn
+## what
+**নিউটনের প্রথম গতিসূত্র** বলে, স্থির বস্তু স্থিরই থাকবে, আর সুষম বেগে চলা বস্তু সেভাবেই চলতে থাকবে, **যদি না তার ওপর বল প্রয়োগ করা হয়**। অবস্থা বদলাতে বস্তুর এই "আলস্যকে" বলে **জড়তা**।
+## simple
+প্রথম অংশটা বিশ্বাস করা সহজ: টেবিলের বই নিজে থেকে চলতে শুরু করে না। কাউকে ঠেলতে হয়।
+
+দ্বিতীয় অংশটা অদ্ভুত লাগে। মাঠে বলে লাথি দিলে বলটা ধীরে ধীরে থেমে যায়। তাহলে চলন্ত বস্তুকে চালু রাখতে কি বল লাগে না? **না।** বলটা থামে কারণ এর ওপর বল কাজ করে: মাটির **ঘর্ষণ** আর **বায়ুর বাধা**, দুটোই পেছনের দিকে ঠেলে। এগুলো সরিয়ে দিলে বলটা একই দ্রুতিতে সরলরেখায় চিরকাল গড়াতে থাকত। মহাকাশে, যেখানে ঘর্ষণ বা বাতাস প্রায় নেই, মহাকাশযান ইঞ্জিন বন্ধ রেখেও বছরের পর বছর চলতে থাকে।
+
+এই প্রবণতার নামই **জড়তা**:
+
+- **স্থিতি জড়তা**: স্থির বস্তু স্থির থাকতে "চায়"। বাস হঠাৎ চলতে শুরু করলে পা বাসের সাথে এগোয়, কিন্তু শরীরের ওপরের অংশ আগের জায়গায় থাকতে চায়, তাই তুমি **পেছনে** হেলে পড়ো।
+- **গতি জড়তা**: চলন্ত বস্তু চলতেই "চায়"। চলন্ত বাস থেকে লাফিয়ে নামলে পা মাটিতে থেমে যায়, কিন্তু ওপরের অংশ সামনে এগোতে থাকে, তাই **সামনে** পড়ে যেতে পারো। এজন্যই চলন্ত বাস থেকে কখনো নামা উচিত নয়।
+
+**নিজে করে দেখো:** একটি গ্লাসের ওপর একটি কার্ড, কার্ডের ওপর একটি কয়েন রাখো। জোরে টোকা দিয়ে কার্ড সরিয়ে দাও। কয়েনটি কার্ডের সাথে যায় না; সোজা গ্লাসে পড়ে।
+
+**বেশি ভর, বেশি জড়তা।** খালি আর মালভর্তি ট্রলি একই বলে ঠেলো: মালভর্তিটা চালু বা থামানো অনেক কঠিন। ভর হলো জড়তার পরিমাপ।
+
+নিউটনের প্রথম সূত্র আমাদের এটাও বলে **বল কী**: যা স্থির বস্তুকে চালায়, বা চলন্ত বস্তুর বেগ বদলায়।
+## analogy
+বস্তুরা একটু **অলস**: যা করছে, তা-ই করে যেতে চায়। বাস হঠাৎ ব্রেক করলে তোমার পা বাসের সাথে থেমে যায়, কিন্তু শরীরের ওপরের অংশ চলতে "চায়", তাই তুমি সামনে ঝুঁকে পড়ো। বাস হঠাৎ চললে শরীর পেছনে থেকে যেতে "চায়", তাই পেছনে হেলে পড়ো। এই অলসতাই **জড়তা**, আর ভারী জিনিস বেশি অলস।
+## definition
+**নিউটনের প্রথম গতিসূত্র**: বাহ্যিক কোনো বল প্রয়োগ না করলে স্থির বস্তু স্থিরই থাকবে এবং গতিশীল বস্তু সুষম দ্রুতিতে সরলপথে চলতে থাকবে।
+
+**জড়তা**: বস্তুর যে ধর্মের কারণে বস্তু বল প্রয়োগ না করা পর্যন্ত স্থির থাকলে স্থির থাকতে চায়, আর গতিশীল থাকলে সুষম দ্রুতিতে সরলপথে চলতে চায়।
+
+**বল**: যা স্থির বস্তুর স্থিতি বা গতিশীল বস্তুর গতির পরিবর্তন করে বা করতে চায়।
+## why
+মানুষ ২০০০ বছর ধরে কেন বিশ্বাস করত চলন্ত জিনিসকে চালু রাখতে ঠেলা লাগে? কারণ পৃথিবীতে ঘর্ষণ সবখানে আছে এবং সবসময় জিনিস থামিয়ে দেয়। গ্যালিলিও আর নিউটন বুঝলেন, ঘর্ষণ নিজেই একটি বল। এটাকে হিসাবে ধরলে নিয়মটা সহজ: **লব্ধি বল নেই, বেগের পরিবর্তনও নেই**।
+## terms
+জড়তা | বস্তুর স্থিতি বা সুষম গতি বজায় রাখার প্রবণতা
+স্থিতি জড়তা | স্থির বস্তু স্থির থাকতে চায়
+গতি জড়তা | চলন্ত বস্তু চলতে চায়
+বল | যা বস্তুর স্থিতি বা গতির অবস্থা বদলায়
+স্পর্শ বল | যে বলে ছোঁয়া লাগে (ঠেলা, ঘর্ষণ, টান)
+অস্পর্শ বল | দূর থেকে কাজ করা বল (মহাকর্ষ, চুম্বক)
+## visual
+কার্ডে জোরে টোকা দিলে কয়েন গ্লাসে পড়ে। আস্তে টানলে ঘর্ষণ কয়েনটিকে সাথে টেনে নেওয়ার সময় পায়।
+## real
+**সিট বেল্ট** আছে গতি জড়তার কারণে: গাড়ি হঠাৎ থামলে তোমার শরীর গাড়ির আগের বেগে সামনে এগোতে থাকে, যতক্ষণ না কিছু একে থামায়। বেল্ট তোমাকে উইন্ডস্ক্রিনের বদলে নিরাপদে থামায়। ভেজা ছাতা ঝাঁকানো বা ধুলোমাখা কার্পেট পেটানোতেও জড়তা কাজে লাগে: ছাতা বা কার্পেট থেমে যায়, কিন্তু পানির ফোঁটা বা ধুলো এগিয়ে যায়।
+## example
+প্রশ্ন: একটি লেখে দেখা যায় বস্তুর অবস্থান ০ থেকে t₁ পর্যন্ত একই, t₁ থেকে t₂ পর্যন্ত সমহারে বাড়ছে (সরলরেখা), তারপর আবার একই। কখন বল কাজ করেছে?
+সমাধান: ০ থেকে t₁ এবং t₂-এর পরে অবস্থান বদলায় না, তাই বস্তু স্থির; বল নেই।
+> বেগের পরিবর্তন নেই মানে লব্ধি বল নেই (প্রথম সূত্র)।
+ধাপ: t₁ থেকে t₂ পর্যন্ত অবস্থান সমহারে বদলায়, তাই বেগ সুষম; এ সময়েও বল নেই।
+উত্তর: বল কাজ করেছে শুধু t₁ মুহূর্তে (গতি শুরু করতে) আর t₂ মুহূর্তে (থামাতে)।
+## mistakes
+x চলন্ত বস্তুকে চালু রাখতে অবিরাম বল লাগে।
+v চলন্ত বস্তু নিজে থেকেই সুষম গতিতে চলে। বল লাগে শুধু বেগ বদলাতে, বা ঘর্ষণের মতো বল বাতিল করতে।
+x জড়তা একটি বল।
+v জড়তা পদার্থের ধর্ম, বল নয়। এর পরিমাপ হলো ভর।
+x ভারী বস্তুর জড়তা কম।
+v ভর বেশি মানে জড়তা বেশি: চালু, থামানো বা ঘোরানো বেশি কঠিন।
+## remember
+- প্রথম সূত্র: লব্ধি বল নেই → স্থির বস্তু স্থির, সুষম গতি সুষম (সরলরেখা, স্থির দ্রুতি)।
+- জড়তা: বর্তমান অবস্থা বজায় রাখার প্রবণতা; ভর জড়তার পরিমাপ।
+- স্থিতি জড়তা (বাস চললে পেছনে হেলা); গতি জড়তা (চলন্ত বাস থেকে নামলে সামনে পড়া)।
+- প্রথম সূত্র বলের সংজ্ঞা দেয়: যা স্থিতি বা গতির অবস্থা বদলায়।
+## think
+হঠাৎ ব্রেক কষলে বাসে দাঁড়ানো মানুষ সামনে ঝুঁকে পড়ে, অথচ বন্ধ গাড়ির ভেতরে হিলিয়াম বেলুন পেছনে সরে যায়। কেন? (ইঙ্গিত: গাড়ির ভেতরের বাতাসের কথা ভাবো।)
+## quiz
+? স্থির বাস হঠাৎ চলতে শুরু করলে যাত্রীরা পেছনে হেলে পড়ে। এর কারণ:
+* স্থিতি জড়তা
+- গতি জড়তা
+- ঘর্ষণ
+- অভিকর্ষ
+= পা বাসের সাথে এগোলেও শরীরের ওপরের অংশ স্থির থাকতে চায়।
+? মাটিতে গড়ানো বল শেষে থেমে যায় কারণ:
+- এর জড়তা ফুরিয়ে যায়
+* এর ওপর ঘর্ষণ ও বায়ুর বাধা কাজ করে
+- এর ওপর কোনো বল কাজ করে না
+- এর ভর কমে যায়
+= প্রথম সূত্র অনুযায়ী এটি চলতেই থাকত; বিপরীত বল একে থামায়।
+? কোনটির জড়তা সবচেয়ে বেশি?
+- ১ kg বল
+- ৫ kg ব্যাগ
+* ১০০০ kg গাড়ি
+- ৫০ g কলম
+= জড়তা ভরের ওপর নির্ভর করে; গাড়ির ভর সবচেয়ে বেশি।
+
+@@ 3.2
+@visual forces4
+@related 3.7 10.4 13.1
+== en
+## what
+Pushes, pulls, magnets, storms, cranes: there seem to be endless kinds of forces. Amazingly, every force in nature is one of just **four fundamental forces**: gravitational, electromagnetic, weak nuclear and strong nuclear.
+## simple
+**1. Gravitational force.** Every object with mass attracts every other object with mass. It keeps stars in the galaxy, the Earth going round the Sun and the Moon round the Earth. The Earth's pull on us is called **gravity**, and it gives us our weight. It acts over any distance, but it is by far the **weakest** force.
+
+**2. Electromagnetic force.** Electric and magnetic forces are really one force. It is enormously stronger than gravity (about 10^{36} times). Proof: rub a plastic comb in your hair and it lifts a scrap of paper. A tiny amount of electric charge on the comb beats the pull of the **whole Earth** on that paper! Almost every everyday force (push, pull, friction, tension in a rope, the support of a table) is electromagnetic at the level of atoms.
+
+**3. Weak nuclear force.** It acts only over a tiny distance, about 10^{-18} m, inside nuclei. It causes **beta (β) decay**, where a radioactive nucleus gives out an electron. It is much weaker than the electromagnetic force, but far stronger than gravity.
+
+**4. Strong nuclear force.** The **strongest** force, about 100 times stronger than the electromagnetic force, but it acts only over about 10^{-15} m. It holds protons and neutrons together inside the nucleus, even though the protons repel each other electrically. This force is why nuclei store huge energy, released in nuclear power plants and in the Sun.
+
+Scientists have already shown that the electromagnetic and weak forces are two faces of one **electroweak** force, and they are trying to unify all four.
+## definition
+The **fundamental forces** are the four basic forces of nature from which all other forces arise:
+
+- **Gravitational force**: the attractive force between any two bodies due to their masses.
+- **Electromagnetic force**: the force between electrically charged particles, including electric and magnetic forces.
+- **Weak nuclear force**: a very short-range force inside the nucleus responsible for beta decay.
+- **Strong nuclear force**: the strongest force, very short-range, which binds protons and neutrons in the nucleus.
+## why
+Why don't we feel the two nuclear forces? Because they act only across distances about the size of a nucleus. At the scale of your body, only the long-range forces, gravity and electromagnetism, are noticeable. And why do we notice gravity even though it is so weak? Because it only attracts and it adds up: the Earth's huge mass makes its total pull large, while positive and negative charges in ordinary objects mostly cancel out.
+## terms
+Gravity | The Earth's gravitational pull on objects
+Electromagnetic force | Electric + magnetic force between charges
+Weak nuclear force | Short-range; causes beta decay
+Strong nuclear force | Strongest; holds the nucleus together
+Range | The distance over which a force acts
+Electroweak | The unified electromagnetic + weak force
+## visual
+The four forces compared by strength (on a logarithmic scale) and range.
+## real
+When you stand on the floor, gravity pulls you down and the floor pushes you up. That upward push is electromagnetic: the electrons in the atoms of your shoes and of the floor repel each other. And the sunlight warming you right now is energy released by the strong nuclear force in the Sun's core.
+## mistakes
+x Friction, tension and air resistance are separate fundamental forces.
+v They are all forms of the electromagnetic force between atoms.
+x Because gravity is the weakest force, it is unimportant.
+v It dominates on large scales: it shapes planets, holds the solar system together and gives us weight.
+## remember
+- Four fundamental forces: gravitational, electromagnetic, weak nuclear, strong nuclear.
+- Strongest: strong nuclear (~100 × electromagnetic), range ~10^{-15} m.
+- Weakest: gravitational (~10^{-36} of electromagnetic), but acts over any distance.
+- Weak nuclear: range ~10^{-18} m; causes β decay.
+- Electromagnetic and weak forces are unified as the electroweak force.
+## think
+If the strong nuclear force suddenly switched off, what would happen to the nucleus of every atom? (Hint: what do protons do to each other?)
+## quiz
+? Which is the strongest fundamental force?
+- Gravitational
+- Electromagnetic
+- Weak nuclear
+* Strong nuclear
+= The strong nuclear force is about 100 times stronger than the electromagnetic force.
+? Beta (β) emission from a radioactive nucleus is caused by:
+- Gravitational force
+- Strong nuclear force
+* Weak nuclear force
+- Friction
+= The weak nuclear force is responsible for beta decay.
+? A comb rubbed on hair lifts a piece of paper against the Earth's gravity. This shows that:
+* The electromagnetic force is much stronger than gravity
+- Gravity is stronger than electromagnetism
+- Paper has no mass
+- The comb has no charge
+= A small charge on the comb overcomes the pull of the entire Earth.
+== bn
+## what
+ঠেলা, টান, চুম্বক, ঝড়, ক্রেন: বলের যেন শেষ নেই। অবাক করা ব্যাপার হলো, প্রকৃতির প্রতিটি বলই মাত্র **চারটি মৌলিক বলের** কোনো একটি: মহাকর্ষ, তড়িৎচৌম্বক, দুর্বল নিউক্লীয় আর সবল নিউক্লীয় বল।
+## simple
+**১. মহাকর্ষ বল।** ভর আছে এমন প্রতিটি বস্তু অন্য প্রতিটি বস্তুকে আকর্ষণ করে। এই বল গ্যালাক্সিতে নক্ষত্রদের, সূর্যের চারপাশে পৃথিবীকে আর পৃথিবীর চারপাশে চাঁদকে ধরে রাখে। আমাদের ওপর পৃথিবীর টানকে বলে **অভিকর্ষ**, আর এটিই আমাদের ওজন দেয়। এটি যেকোনো দূরত্ব থেকে কাজ করে, কিন্তু সবচেয়ে **দুর্বল** বল।
+
+**২. তড়িৎচৌম্বক বল।** তড়িৎ আর চৌম্বক বল আসলে একই বল। এটি মহাকর্ষের চেয়ে বিপুল শক্তিশালী (প্রায় ১০^{৩৬} গুণ)। প্রমাণ: প্লাস্টিকের চিরুনি চুলে ঘষলে কাগজের টুকরা তুলে ফেলে। চিরুনির সামান্য আধান ওই কাগজের ওপর **পুরো পৃথিবীর** টানকে হারিয়ে দেয়! রোজকার প্রায় সব বলই (ঠেলা, টান, ঘর্ষণ, দড়ির টান, টেবিলের ঠেকা) পরমাণুর স্তরে তড়িৎচৌম্বক বল।
+
+**৩. দুর্বল নিউক্লীয় বল।** এটি নিউক্লিয়াসের ভেতরে খুব ছোট দূরত্বে, প্রায় ১০^{-১৮} m-এ কাজ করে। এর কারণে ঘটে **বিটা (β) ক্ষয়**, যেখানে তেজস্ক্রিয় নিউক্লিয়াস একটি ইলেকট্রন বের করে দেয়। এটি তড়িৎচৌম্বক বলের চেয়ে অনেক দুর্বল, কিন্তু মহাকর্ষের চেয়ে অনেক শক্তিশালী।
+
+**৪. সবল নিউক্লীয় বল।** সবচেয়ে **শক্তিশালী** বল, তড়িৎচৌম্বক বলের চেয়ে প্রায় ১০০ গুণ, কিন্তু কাজ করে মাত্র প্রায় ১০^{-১৫} m দূরত্বে। প্রোটনগুলো তড়িৎভাবে একে অপরকে বিকর্ষণ করলেও এই বল নিউক্লিয়াসে প্রোটন আর নিউট্রনকে একসাথে ধরে রাখে। এই বলের কারণেই নিউক্লিয়াসে বিপুল শক্তি জমা থাকে, যা পারমাণবিক বিদ্যুৎকেন্দ্রে আর সূর্যে মুক্ত হয়।
+
+বিজ্ঞানীরা ইতোমধ্যে দেখিয়েছেন তড়িৎচৌম্বক আর দুর্বল বল একই **তড়িৎ-দুর্বল** বলের দুই রূপ, আর তাঁরা চারটি বলকেই এক সূত্রে বাঁধার চেষ্টা করছেন।
+## definition
+প্রকৃতির যে চারটি মূল বল থেকে অন্য সব বল উৎপন্ন হয়, সেগুলো **মৌলিক বল**:
+
+- **মহাকর্ষ বল**: ভরের কারণে যেকোনো দুটি বস্তুর মধ্যকার আকর্ষণ বল।
+- **তড়িৎচৌম্বক বল**: তড়িৎ ও চৌম্বক বলসহ আহিত কণার মধ্যকার বল।
+- **দুর্বল নিউক্লীয় বল**: নিউক্লিয়াসের ভেতরে খুব স্বল্প পাল্লার বল, যা বিটা ক্ষয়ের জন্য দায়ী।
+- **সবল নিউক্লীয় বল**: সবচেয়ে শক্তিশালী, খুব স্বল্প পাল্লার বল, যা নিউক্লিয়াসে প্রোটন ও নিউট্রনকে আবদ্ধ রাখে।
+## why
+নিউক্লীয় বল দুটি আমরা টের পাই না কেন? কারণ এরা শুধু নিউক্লিয়াসের আকারের দূরত্বে কাজ করে। আমাদের শরীরের মাপে শুধু দীর্ঘ পাল্লার বল, মহাকর্ষ আর তড়িৎচৌম্বক বল, টের পাওয়া যায়। আর মহাকর্ষ এত দুর্বল হয়েও টের পাই কেন? কারণ এটি শুধু আকর্ষণ করে এবং যোগ হতে থাকে: পৃথিবীর বিশাল ভর এর মোট টানকে বড় করে, অথচ সাধারণ বস্তুতে ধনাত্মক আর ঋণাত্মক আধান প্রায় কাটাকাটি হয়ে যায়।
+## terms
+অভিকর্ষ | বস্তুর ওপর পৃথিবীর মহাকর্ষীয় টান
+তড়িৎচৌম্বক বল | আধানের মধ্যে তড়িৎ + চৌম্বক বল
+দুর্বল নিউক্লীয় বল | স্বল্প পাল্লা; বিটা ক্ষয় ঘটায়
+সবল নিউক্লীয় বল | সবচেয়ে শক্তিশালী; নিউক্লিয়াস ধরে রাখে
+পাল্লা | যে দূরত্ব পর্যন্ত বল কাজ করে
+তড়িৎ-দুর্বল বল | একীভূত তড়িৎচৌম্বক + দুর্বল বল
+## visual
+চারটি বলের আপেক্ষিক শক্তি (লগারিদমিক স্কেলে) ও পাল্লার তুলনা।
+## real
+তুমি মেঝেতে দাঁড়ালে অভিকর্ষ তোমাকে নিচে টানে আর মেঝে ওপরে ঠেলে। এই ওপরের ঠেলাটা তড়িৎচৌম্বক: তোমার জুতা আর মেঝের পরমাণুর ইলেকট্রনগুলো একে অপরকে বিকর্ষণ করে। আর এই মুহূর্তে যে রোদ তোমাকে উষ্ণ করছে, তা সূর্যের কেন্দ্রে সবল নিউক্লীয় বল থেকে মুক্ত হওয়া শক্তি।
+## mistakes
+x ঘর্ষণ, টান আর বায়ুর বাধা আলাদা আলাদা মৌলিক বল।
+v এগুলো সবই পরমাণুর মধ্যকার তড়িৎচৌম্বক বলের রূপ।
+x মহাকর্ষ সবচেয়ে দুর্বল, তাই এটি গুরুত্বহীন।
+v বড় মাপে এটিই প্রধান: গ্রহ গড়ে, সৌরজগৎ ধরে রাখে, আমাদের ওজন দেয়।
+## remember
+- চারটি মৌলিক বল: মহাকর্ষ, তড়িৎচৌম্বক, দুর্বল নিউক্লীয়, সবল নিউক্লীয়।
+- সবচেয়ে শক্তিশালী: সবল নিউক্লীয় (~১০০ × তড়িৎচৌম্বক), পাল্লা ~১০^{-১৫} m।
+- সবচেয়ে দুর্বল: মহাকর্ষ (~তড়িৎচৌম্বকের ১০^{-৩৬} ভাগ), তবে যেকোনো দূরত্বে কাজ করে।
+- দুর্বল নিউক্লীয়: পাল্লা ~১০^{-১৮} m; β ক্ষয় ঘটায়।
+- তড়িৎচৌম্বক ও দুর্বল বল মিলে তড়িৎ-দুর্বল বল।
+## think
+সবল নিউক্লীয় বল হঠাৎ বন্ধ হয়ে গেলে প্রতিটি পরমাণুর নিউক্লিয়াসের কী হতো? (ইঙ্গিত: প্রোটনগুলো একে অপরের সাথে কী করে?)
+## quiz
+? সবচেয়ে শক্তিশালী মৌলিক বল কোনটি?
+- মহাকর্ষ
+- তড়িৎচৌম্বক
+- দুর্বল নিউক্লীয়
+* সবল নিউক্লীয়
+= সবল নিউক্লীয় বল তড়িৎচৌম্বক বলের চেয়ে প্রায় ১০০ গুণ শক্তিশালী।
+? তেজস্ক্রিয় নিউক্লিয়াস থেকে বিটা (β) নিঃসরণ ঘটে কোন বলের কারণে?
+- মহাকর্ষ বল
+- সবল নিউক্লীয় বল
+* দুর্বল নিউক্লীয় বল
+- ঘর্ষণ
+= বিটা ক্ষয়ের জন্য দুর্বল নিউক্লীয় বল দায়ী।
+? চুলে ঘষা চিরুনি পৃথিবীর অভিকর্ষের বিরুদ্ধে কাগজ তুলে ফেলে। এ থেকে বোঝা যায়:
+* তড়িৎচৌম্বক বল মহাকর্ষের চেয়ে অনেক শক্তিশালী
+- মহাকর্ষ তড়িৎচৌম্বক বলের চেয়ে শক্তিশালী
+- কাগজের ভর নেই
+- চিরুনিতে আধান নেই
+= চিরুনির সামান্য আধান পুরো পৃথিবীর টানকে হারিয়ে দেয়।
+
+@@ 3.3
+@visual tug
+@related 3.1 3.6
+== en
+## what
+When several forces act on an object, what matters is their **combined effect**, called the **resultant force**. If the resultant is zero, the forces are **balanced** and the object's motion does not change. If not, they are **unbalanced** and the object accelerates.
+## simple
+Force is a vector: it has size and direction. So two forces can cancel each other if they are equal and opposite.
+
+**Balanced forces.** A tug of war where both teams pull equally hard: the rope does not move. A lamp hanging from a string: its weight pulls down, the string's **tension** pulls up by the same amount. Resultant = 0, so the lamp stays at rest.
+
+**Unbalanced forces.** Cut the string: the tension disappears, only the weight is left. Now there is an unbalanced force, and the lamp falls with the acceleration due to gravity. Or pull a hanging bob to one side and let go: the tension and weight no longer point in opposite directions, their resultant is not zero, and the bob starts swinging.
+
+**Three forces can balance too.** Hang a heavy book in the middle of a rope and pull the two ends. The book's weight and the two tensions together give zero. Try to pull the rope perfectly straight. You can't! However hard you pull, a perfectly horizontal rope has no upward part to hold up the weight, so the rope always sags a little.
+## definition
+**Resultant force**: the single force that has the same effect as all the forces acting on an object together.
+
+**Balanced forces**: forces whose resultant is zero. They produce no acceleration; the object stays at rest or keeps moving uniformly.
+
+**Unbalanced forces**: forces whose resultant is not zero. They produce acceleration in the direction of the resultant.
+## why
+Why doesn't a book on a table fall, even though gravity pulls it? Because the table pushes up with an equal force (the **normal force**). The forces are balanced, so by Newton's first law nothing changes. Balanced does not mean "no forces"; it means the forces cancel.
+## terms
+Resultant force | The combined effect of all forces
+Balanced forces | Resultant = 0; no acceleration
+Unbalanced forces | Resultant ≠ 0; acceleration
+Tension | Pull along a string or rope
+Normal force | Push of a surface, perpendicular to it
+## formula
+$$ Resultant (same line) = F₁ − F₂ (opposite directions)
+$$ Resultant (same line) = F₁ + F₂ (same direction)
+! If the resultant is zero, acceleration is zero.
+## visual
+Change how hard each team pulls. Equal pulls: the forces are balanced and the rope stays put. Unequal pulls: the red arrow shows the resultant and the rope moves towards the stronger team.
+## real
+A plane flying level at a steady speed has four balanced forces: engine thrust forward, air drag backward, lift upward and weight downward. When the pilot increases thrust, the forces become unbalanced and the plane speeds up.
+## example
+Q: Two boys push a box: one with 30 N to the right, the other with 20 N to the left. What is the resultant force?
+Given: 30 N right, 20 N left
+Calculation: Resultant = 30 N − 20 N = 10 N
+> Opposite directions, so we subtract.
+Answer: 10 N to the right. The forces are unbalanced, so the box accelerates to the right.
+## mistakes
+x If an object is not moving, no forces act on it.
+v Forces may be acting but balanced, like a book on a table (weight and normal force).
+x Balanced forces make a moving object stop.
+v Balanced forces keep velocity unchanged. A moving object with balanced forces keeps moving uniformly.
+x You can pull a rope holding a hanging weight perfectly straight if you are strong enough.
+v A perfectly straight horizontal rope cannot provide any upward force to balance the weight, so it always sags.
+## remember
+- Resultant force = combined effect of all forces.
+- Balanced: resultant zero → no acceleration (rest or uniform motion).
+- Unbalanced: resultant not zero → acceleration in its direction.
+- A hanging object: weight down, tension up → balanced; cut the string → unbalanced.
+## think
+A car moves along a straight road at a steady 50 km/h. Are the forces on it balanced or unbalanced? Name the forces.
+## quiz
+? Forces of 50 N east and 50 N west act on a box. The box:
+- Accelerates east
+- Accelerates west
+* Does not accelerate
+- Must be at rest
+= The resultant is zero, so there is no acceleration (it may be at rest or moving uniformly).
+? A lamp hangs from a string. If the string is cut, the lamp falls because:
+- Its weight increases
+* The weight is now unbalanced
+- The tension becomes larger
+- Air pushes it down
+= Without tension, only the weight acts, so the force is unbalanced.
+? Forces of 12 N and 5 N act on an object in the same direction. The resultant is:
+- 7 N
+* 17 N
+- 60 N
+- 2.4 N
+= Same direction, so they add: 12 + 5 = 17 N.
+== bn
+## what
+একটি বস্তুর ওপর কয়েকটি বল কাজ করলে গুরুত্বপূর্ণ হলো এদের **সম্মিলিত ফল**, যাকে বলে **লব্ধি বল**। লব্ধি শূন্য হলে বলগুলো **সাম্য**, আর বস্তুর গতি বদলায় না। শূন্য না হলে বলগুলো **অসাম্য**, আর বস্তু ত্বরিত হয়।
+## simple
+বল ভেক্টর: এর মান ও দিক আছে। তাই সমান ও বিপরীত হলে দুটি বল একে অপরকে বাতিল করতে পারে।
+
+**সাম্য বল।** দড়ি টানাটানিতে দুই দল সমান জোরে টানলে দড়ি নড়ে না। সুতায় ঝোলানো বাতি: এর ওজন নিচে টানে, সুতার **টান** সমান পরিমাণে ওপরে টানে। লব্ধি = ০, তাই বাতি স্থির থাকে।
+
+**অসাম্য বল।** সুতা কেটে দাও: টান আর নেই, শুধু ওজন বাকি। এখন অসাম্য বল কাজ করে, বাতি অভিকর্ষজ ত্বরণে নিচে পড়ে। অথবা ঝোলানো ববটিকে একপাশে টেনে ছেড়ে দাও: টান আর ওজন আর বিপরীত দিকে থাকে না, লব্ধি শূন্য হয় না, তাই বব দুলতে শুরু করে।
+
+**তিনটি বলেও সাম্য হয়।** একটি দড়ির মাঝখানে ভারী বই ঝুলিয়ে দুই প্রান্ত টানো। বইয়ের ওজন আর দুই টান মিলে লব্ধি শূন্য। দড়িটা পুরোপুরি সোজা করার চেষ্টা করো। পারবে না! যত জোরেই টানো, পুরোপুরি অনুভূমিক দড়িতে ওজন ধরার মতো ওপরের দিকের কোনো অংশ থাকে না, তাই দড়ি সবসময় একটু ঝুলে থাকে।
+## definition
+**লব্ধি বল**: বস্তুর ওপর ক্রিয়াশীল সব বল একসাথে যে ফল দেয়, সেই ফল দেয় এমন একক বল।
+
+**সাম্য বল**: যেসব বলের লব্ধি শূন্য। এরা কোনো ত্বরণ সৃষ্টি করে না; বস্তু স্থির থাকে বা সুষম গতিতে চলতে থাকে।
+
+**অসাম্য বল**: যেসব বলের লব্ধি শূন্য নয়। এরা লব্ধির দিকে ত্বরণ সৃষ্টি করে।
+## why
+অভিকর্ষ টানলেও টেবিলের ওপরের বই পড়ে না কেন? কারণ টেবিল সমান বলে ওপরে ঠেলে (**লম্ব বল**)। বলগুলো সাম্য, তাই প্রথম সূত্র অনুযায়ী কিছু বদলায় না। সাম্য মানে "কোনো বল নেই" নয়; মানে বলগুলো কাটাকাটি হয়ে গেছে।
+## terms
+লব্ধি বল | সব বলের সম্মিলিত ফল
+সাম্য বল | লব্ধি = ০; ত্বরণ নেই
+অসাম্য বল | লব্ধি ≠ ০; ত্বরণ আছে
+টান | সুতা বা দড়ি বরাবর টান
+লম্ব বল | তলের ঠেলা, তলের সাথে লম্বভাবে
+## formula
+$$ লব্ধি (একই রেখায়) = F₁ − F₂ (বিপরীত দিকে)
+$$ লব্ধি (একই রেখায়) = F₁ + F₂ (একই দিকে)
+! লব্ধি শূন্য হলে ত্বরণ শূন্য।
+## visual
+প্রতিটি দল কত জোরে টানবে বদলাও। টান সমান হলে বল সাম্য, দড়ি নড়ে না। টান অসমান হলে লাল তীর লব্ধি দেখায়, আর দড়ি শক্তিশালী দলের দিকে সরে।
+## real
+স্থির দ্রুতিতে সমতলে উড়ন্ত বিমানে চারটি বল সাম্যে থাকে: ইঞ্জিনের সামনের ঠেলা, বাতাসের পেছনের টান, ওপরের উত্তোলন বল আর নিচের ওজন। পাইলট ঠেলা বাড়ালে বলগুলো অসাম্য হয়, বিমান দ্রুততর হয়।
+## example
+প্রশ্ন: দুটি ছেলে একটি বাক্স ঠেলছে: একজন ডানে ৩০ N, অন্যজন বাঁয়ে ২০ N। লব্ধি বল কত?
+দেওয়া আছে: ডানে ৩০ N, বাঁয়ে ২০ N
+হিসাব: লব্ধি = ৩০ N − ২০ N = ১০ N
+> বিপরীত দিক, তাই বিয়োগ করি।
+উত্তর: ডানে ১০ N। বলগুলো অসাম্য, তাই বাক্সটি ডানে ত্বরিত হয়।
+## mistakes
+x বস্তু না নড়লে এর ওপর কোনো বল কাজ করে না।
+v বল কাজ করতে পারে, তবে সাম্যে, যেমন টেবিলের বই (ওজন ও লম্ব বল)।
+x সাম্য বল চলন্ত বস্তুকে থামিয়ে দেয়।
+v সাম্য বল বেগ অপরিবর্তিত রাখে। সাম্য বলের অধীনে চলন্ত বস্তু সুষম গতিতে চলতেই থাকে।
+x যথেষ্ট শক্তি থাকলে ওজন ঝোলানো দড়ি পুরোপুরি সোজা করা যায়।
+v পুরোপুরি সোজা অনুভূমিক দড়ি ওজন সামলানোর মতো কোনো ওপরের বল দিতে পারে না, তাই সবসময় ঝুলে থাকে।
+## remember
+- লব্ধি বল = সব বলের সম্মিলিত ফল।
+- সাম্য: লব্ধি শূন্য → ত্বরণ নেই (স্থির বা সুষম গতি)।
+- অসাম্য: লব্ধি শূন্য নয় → লব্ধির দিকে ত্বরণ।
+- ঝোলানো বস্তু: ওজন নিচে, টান ওপরে → সাম্য; সুতা কাটলে → অসাম্য।
+## think
+একটি গাড়ি সোজা রাস্তায় স্থির ৫০ km/h-এ চলছে। এর ওপর বলগুলো সাম্য না অসাম্য? বলগুলোর নাম বলো।
+## quiz
+? একটি বাক্সে পূর্বে ৫০ N ও পশ্চিমে ৫০ N বল কাজ করছে। বাক্সটি:
+- পূর্বে ত্বরিত হবে
+- পশ্চিমে ত্বরিত হবে
+* ত্বরিত হবে না
+- অবশ্যই স্থির
+= লব্ধি শূন্য, তাই ত্বরণ নেই (স্থির থাকতে পারে বা সুষম গতিতে চলতে পারে)।
+? একটি বাতি সুতায় ঝুলছে। সুতা কাটলে বাতি পড়ে যায় কারণ:
+- এর ওজন বেড়ে যায়
+* ওজন এখন অসাম্য বল
+- টান বেড়ে যায়
+- বাতাস একে নিচে ঠেলে
+= টান না থাকায় শুধু ওজন কাজ করে, তাই বল অসাম্য।
+? একটি বস্তুর ওপর একই দিকে ১২ N ও ৫ N বল কাজ করছে। লব্ধি:
+- ৭ N
+* ১৭ N
+- ৬০ N
+- ২.৪ N
+= একই দিকে, তাই যোগ হয়: ১২ + ৫ = ১৭ N।
+
+@@ 3.4
+@visual momentum
+@related 3.5 3.6 2.5
+== en
+## what
+**Momentum** is the "quantity of motion" of an object: its mass multiplied by its velocity. A heavy truck and a bicycle at the same speed have very different momentum.
+## simple
+Imagine a truck and a bicycle each hitting a small car at the same speed. Which does more damage? Obviously the truck. Their velocities are equal, but the truck has far more mass, so it carries far more **momentum**.
+
+**momentum = mass × velocity, p = mv**
+
+A slow, heavy object can have as much momentum as a fast, light one. A bullet is tiny but very fast; a ship is slow but enormous. Both are hard to stop.
+
+Because velocity is a vector, **momentum is a vector** too: it points in the direction of motion. A ball moving right has positive momentum; the same ball moving left has negative momentum.
+
+**Changing momentum.** Throw a 100 g tennis ball at a wall at 10 m/s; it bounces back at 10 m/s. Its momentum changes from +mv to −mv, a change of **2mv**. The wall had to push on the ball for a short time to make that change. When a batsman hits a cricket ball, the bat changes the ball's momentum in a tiny fraction of a second.
+
+**Why a new word?** Usually p = mv is enough. But light is made of **photons**, which have **no mass** and yet carry momentum. So momentum is actually a more fundamental quantity than mass times velocity.
+
+**Conservation of momentum.** When objects collide, their velocities change, but if no outside force acts, the **total momentum stays the same**. We use this in the next lesson.
+## analogy
+Momentum is **how hard it is to stop something**. A tennis ball and a cricket ball both come at you at 20 m/s: which would you rather catch? The cricket ball is heavier, so it carries more momentum and hits harder. A slow truck and a fast cricket ball can both be hard to stop: one has huge mass, the other has high speed.
+## definition
+**Momentum**: the product of the mass and velocity of an object. p = mv. It is a vector quantity in the direction of the velocity.
+
+Unit: kg m/s (kg m s^{-1}). Dimension: MLT^{-1}.
+
+**Law of conservation of momentum**: if no external force acts on a system of objects, the total momentum of the system remains constant.
+## why
+Why is momentum conserved? When two objects collide, by Newton's third law they push each other with equal and opposite forces for the same short time. So one gains exactly as much momentum as the other loses. The total cannot change unless something outside the system pushes.
+## terms
+Momentum (p) | Mass × velocity
+Change in momentum | Final momentum − initial momentum
+Conservation of momentum | Total momentum stays constant without external force
+Photon | Particle of light: no mass, but has momentum
+## formula
+$$ p = mv
+$$ Change in momentum = mv − mu
+tri p | m | v
+p | momentum | kg m/s
+m | mass | kg
+v | velocity | m/s
+! Dimension: [p] = MLT^{-1}
+## visual
+Change the speed and compare the momentum of a bicycle with its rider and a loaded truck moving at the same speed.
+## real
+Heavy vehicles need longer braking distances partly because of their large momentum. That is why speed limits for trucks are lower, and why a loaded truck should never tailgate.
+## example
+Q: A 100 g tennis ball hits a wall at 10 m/s and bounces back at 10 m/s. Find the change in momentum.
+Given: m = 100 g = 0.1 kg; initial velocity = +10 m/s; final velocity = −10 m/s
+> We call the direction towards the wall positive, so the bounce is negative.
+Formula: change = mv − mu
+Calculation: 0.1 × (−10) − 0.1 × 10 = −1 − 1 = −2 kg m/s
+Answer: The momentum changes by 2 kg m/s (directed away from the wall).
+## example
+Q: Which has more momentum: a 60 kg runner at 5 m/s or a 0.2 kg cricket ball at 40 m/s?
+Calculation: runner: 60 × 5 = 300 kg m/s; ball: 0.2 × 40 = 8 kg m/s
+Answer: The runner has more momentum.
+## mistakes
+x Faster objects always have more momentum.
+v Momentum depends on both mass and velocity; a slow heavy object can have more momentum than a fast light one.
+x Momentum is a scalar.
+v It is a vector; its direction is the direction of motion.
+x When a ball bounces back at the same speed, its momentum doesn't change.
+v Its direction reverses, so the change is 2mv.
+## remember
+- p = mv; unit kg m/s; dimension MLT^{-1}; vector.
+- Bouncing back at the same speed: change in momentum = 2mv.
+- With no external force, total momentum is conserved.
+- Photons have momentum but no mass.
+## think
+Why does a fielder pull his hands back while catching a fast cricket ball? (Hint: the ball's momentum must change to zero; what happens if that change happens over a longer time?)
+## quiz
+? The unit of momentum is:
+- kg m/s²
+* kg m/s
+- N/s
+- kg/m
+= p = mv, so kg × m/s.
+? A 2 kg ball moves at 3 m/s. Its momentum is:
+- 1.5 kg m/s
+- 5 kg m/s
+* 6 kg m/s
+- 9 kg m/s
+= p = 2 × 3 = 6 kg m/s.
+? The total momentum of two colliding balls stays the same if:
+- They have the same mass
+* No external force acts on them
+- They stick together
+- They move in the same direction
+= Momentum is conserved when there is no external force.
+== bn
+## what
+**ভরবেগ** হলো বস্তুর "গতির পরিমাণ": এর ভর আর বেগের গুণফল। একই দ্রুতিতে একটি ভারী ট্রাক আর একটি সাইকেলের ভরবেগ খুবই আলাদা।
+## simple
+ভাবো, একটি ট্রাক আর একটি সাইকেল একই বেগে একটি ছোট গাড়িকে ধাক্কা দিল। কোনটায় বেশি ক্ষতি হবে? অবশ্যই ট্রাক। বেগ সমান, কিন্তু ট্রাকের ভর অনেক বেশি, তাই এর **ভরবেগ** অনেক বেশি।
+
+**ভরবেগ = ভর × বেগ, p = mv**
+
+ধীর কিন্তু ভারী বস্তুর ভরবেগ দ্রুত কিন্তু হালকা বস্তুর সমান হতে পারে। বুলেট খুব ছোট কিন্তু খুব দ্রুত; জাহাজ ধীর কিন্তু বিশাল। দুটোকেই থামানো কঠিন।
+
+বেগ ভেক্টর, তাই **ভরবেগও ভেক্টর**: এর দিক গতির দিক। ডানে চলা বলের ভরবেগ ধনাত্মক ধরলে, বাঁয়ে চলা একই বলের ভরবেগ ঋণাত্মক।
+
+**ভরবেগের পরিবর্তন।** ১০০ g একটি টেনিস বল ১০ m/s বেগে দেয়ালে ছোড়ো; এটি ১০ m/s বেগে ফিরে আসে। এর ভরবেগ +mv থেকে −mv হয়, পরিবর্তন **২mv**। এই পরিবর্তন ঘটাতে দেয়ালকে অল্প সময়ের জন্য বলটিকে ঠেলতে হয়েছে। ব্যাটসম্যান যখন বলে আঘাত করেন, ব্যাট সেকেন্ডের খুব ছোট একটা অংশে বলের ভরবেগ বদলে দেয়।
+
+**নতুন শব্দের দরকার কেন?** সাধারণত p = mv যথেষ্ট। কিন্তু আলো তৈরি **ফোটন** দিয়ে, যার **ভর নেই**, অথচ ভরবেগ আছে। তাই ভরবেগ আসলে ভর × বেগের চেয়েও মৌলিক রাশি।
+
+**ভরবেগের সংরক্ষণ।** বস্তুগুলো সংঘর্ষে বেগ বদলায়, কিন্তু বাইরের কোনো বল কাজ না করলে **মোট ভরবেগ একই থাকে**। পরের পাঠে এটি ব্যবহার করব।
+## analogy
+ভরবেগ মানে **কোনো কিছুকে থামানো কতটা কঠিন**। একটি টেনিস বল আর একটি ক্রিকেট বল দুটোই ২০ m/s বেগে তোমার দিকে আসছে: কোনটি ধরতে চাইবে? ক্রিকেট বল ভারী, তাই এর ভরবেগ বেশি, আঘাতও জোরে। ধীর ট্রাক আর দ্রুত ক্রিকেট বল দুটোকেই থামানো কঠিন হতে পারে: একটির ভর বিশাল, অন্যটির বেগ বেশি।
+## definition
+**ভরবেগ**: বস্তুর ভর ও বেগের গুণফল। p = mv। এটি বেগের দিকে ক্রিয়াশীল একটি ভেক্টর রাশি।
+
+একক: kg m/s (kg m s^{-১})। মাত্রা: MLT^{-১}।
+
+**ভরবেগের সংরক্ষণ সূত্র**: কোনো বস্তুব্যবস্থার ওপর বাহ্যিক বল ক্রিয়া না করলে ব্যবস্থার মোট ভরবেগ অপরিবর্তিত থাকে।
+## why
+ভরবেগ সংরক্ষিত হয় কেন? দুটি বস্তুর সংঘর্ষে নিউটনের তৃতীয় সূত্র অনুযায়ী তারা একই অল্প সময় ধরে একে অপরকে সমান ও বিপরীত বলে ঠেলে। তাই একটি যতটুকু ভরবেগ পায়, অন্যটি ঠিক ততটুকু হারায়। ব্যবস্থার বাইরের কিছু না ঠেললে মোট ভরবেগ বদলাতে পারে না।
+## terms
+ভরবেগ (p) | ভর × বেগ
+ভরবেগের পরিবর্তন | শেষ ভরবেগ − আদি ভরবেগ
+ভরবেগের সংরক্ষণ | বাহ্যিক বল ছাড়া মোট ভরবেগ স্থির
+ফোটন | আলোর কণা: ভর নেই, কিন্তু ভরবেগ আছে
+## formula
+$$ p = mv
+$$ ভরবেগের পরিবর্তন = mv − mu
+tri p | m | v
+p | ভরবেগ | kg m/s
+m | ভর | kg
+v | বেগ | m/s
+! মাত্রা: [p] = MLT^{-১}
+## visual
+দ্রুতি বদলাও আর একই দ্রুতিতে চলা আরোহীসহ সাইকেল ও মালবোঝাই ট্রাকের ভরবেগ তুলনা করো।
+## real
+ভারী যানবাহনের থামতে বেশি দূরত্ব লাগে, এর একটা কারণ এদের বিপুল ভরবেগ। এজন্যই ট্রাকের গতিসীমা কম, আর মালবোঝাই ট্রাকের কখনো সামনের গাড়ির খুব কাছ ঘেঁষে চলা উচিত নয়।
+## example
+প্রশ্ন: ১০০ g একটি টেনিস বল ১০ m/s বেগে দেয়ালে লেগে ১০ m/s বেগে ফিরে এলো। ভরবেগের পরিবর্তন কত?
+দেওয়া আছে: m = ১০০ g = ০.১ kg; আদিবেগ = +১০ m/s; শেষবেগ = −১০ m/s
+> দেয়ালের দিককে ধনাত্মক ধরলাম, তাই ফিরে আসা ঋণাত্মক।
+সূত্র: পরিবর্তন = mv − mu
+হিসাব: ০.১ × (−১০) − ০.১ × ১০ = −১ − ১ = −২ kg m/s
+উত্তর: ভরবেগের পরিবর্তন ২ kg m/s (দেয়াল থেকে দূরে যাওয়ার দিকে)।
+## example
+প্রশ্ন: কার ভরবেগ বেশি: ৫ m/s বেগে দৌড়ানো ৬০ kg-এর একজন দৌড়বিদ, না ৪০ m/s বেগের ০.২ kg-এর একটি ক্রিকেট বল?
+হিসাব: দৌড়বিদ: ৬০ × ৫ = ৩০০ kg m/s; বল: ০.২ × ৪০ = ৮ kg m/s
+উত্তর: দৌড়বিদের ভরবেগ বেশি।
+## mistakes
+x দ্রুত বস্তুর ভরবেগ সবসময় বেশি।
+v ভরবেগ ভর ও বেগ দুটোর ওপর নির্ভর করে; ধীর ভারী বস্তুর ভরবেগ দ্রুত হালকা বস্তুর চেয়ে বেশি হতে পারে।
+x ভরবেগ স্কেলার।
+v এটি ভেক্টর; এর দিক গতির দিক।
+x একই দ্রুতিতে ফিরে এলে বলের ভরবেগ বদলায় না।
+v এর দিক উল্টে যায়, তাই পরিবর্তন ২mv।
+## remember
+- p = mv; একক kg m/s; মাত্রা MLT^{-১}; ভেক্টর।
+- একই দ্রুতিতে ফিরে এলে ভরবেগের পরিবর্তন = ২mv।
+- বাহ্যিক বল না থাকলে মোট ভরবেগ সংরক্ষিত।
+- ফোটনের ভর নেই, কিন্তু ভরবেগ আছে।
+## think
+দ্রুতগতির ক্রিকেট বল ধরার সময় ফিল্ডার হাত পেছনে টেনে নেন কেন? (ইঙ্গিত: বলের ভরবেগ শূন্য করতে হবে; এই পরিবর্তন বেশি সময় ধরে ঘটলে কী হয়?)
+## quiz
+? ভরবেগের একক:
+- kg m/s²
+* kg m/s
+- N/s
+- kg/m
+= p = mv, তাই kg × m/s।
+? ২ kg একটি বল ৩ m/s বেগে চলছে। এর ভরবেগ:
+- ১.৫ kg m/s
+- ৫ kg m/s
+* ৬ kg m/s
+- ৯ kg m/s
+= p = ২ × ৩ = ৬ kg m/s।
+? সংঘর্ষরত দুটি বলের মোট ভরবেগ একই থাকে যদি:
+- তাদের ভর সমান হয়
+* তাদের ওপর কোনো বাহ্যিক বল কাজ না করে
+- তারা জোড়া লেগে যায়
+- তারা একই দিকে চলে
+= বাহ্যিক বল না থাকলে ভরবেগ সংরক্ষিত থাকে।
+
+@@ 3.5
+@visual collision
+@related 3.4 4.3.1 3.8
+== en
+## what
+In a **collision**, objects hit each other and their velocities change. Using the **conservation of momentum** (and, for bouncy collisions, the conservation of kinetic energy) we can predict the velocities afterwards. This also explains why road accidents with heavy vehicles are so deadly.
+## simple
+Two objects of masses m₁ and m₂ move along a straight line with velocities u₁ and u₂. They collide and come out with velocities v₁ and v₂.
+
+**Conservation of momentum** gives one equation:
+
+m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂
+
+But there are two unknowns (v₁ and v₂), so we need a second equation. If no energy is lost as heat or sound (a perfectly **elastic** collision), the total **kinetic energy** (½mv², which you will study in Chapter 4) is also conserved:
+
+½m₁u₁² + ½m₂u₂² = ½m₁v₁² + ½m₂v₂²
+
+Solving both gives:
+
+- v₁ = [(m₁ − m₂)u₁ + 2m₂u₂] ÷ (m₁ + m₂)
+- v₂ = [(m₂ − m₁)u₂ + 2m₁u₁] ÷ (m₁ + m₂)
+
+**Equal masses swap velocities.** If m₁ = m₂, then v₁ = u₂ and v₂ = u₁. Roll one marble into an identical still marble: the moving one stops dead and the other rolls away at the same speed. Line up several marbles touching each other in a groove between two books and hit the row with one marble: exactly one flies out from the other end. Hit with two, and two fly out.
+
+**Safe journey.** Kinetic energy depends on the **square** of velocity: double the speed, four times the energy to be absorbed in a crash. That is why speed is the biggest killer on our roads.
+
+Now take a head-on collision between a heavy truck (mass m₁, velocity u) and a small car (mass m₂, velocity −u). If the car's mass is tiny compared to the truck's, the formulas give v₁ ≈ u and v₂ ≈ **3u**. The truck carries on almost unaffected, but the car's velocity changes from −u to 3u: a change of **4u**. The car is thrown backwards and crushed. (This is simplified: real crashes also lose energy in bending metal, but the lesson is the same.) Heavy vehicles must be driven very carefully.
+## analogy
+Think of momentum like **money passed between two friends**. If Rafi has 50 taka and Mitu has 30 taka, together they have 80 taka. Rafi can give some to Mitu, but as long as nobody else puts money in or takes it out, the total stays 80. In a collision the two bodies pass momentum to each other, but the total stays the same when no outside force acts.
+## definition
+**Collision**: an event in which two or more bodies exert strong forces on each other for a short time, changing their velocities.
+
+In every collision without external force, **momentum is conserved**: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂.
+
+In an **elastic collision**, kinetic energy is also conserved.
+## why
+Why does the small car suffer so much more? Both vehicles feel the same force (Newton's third law), but acceleration = force ÷ mass. The car's small mass gives it a huge acceleration, so its velocity changes enormously in a fraction of a second, and so do the bodies of its passengers.
+## terms
+Collision | Short, strong interaction that changes velocities
+Elastic collision | Kinetic energy is conserved (perfect bounce)
+Head-on collision | Objects moving towards each other along the same line
+Kinetic energy | Energy of motion, ½mv²
+## formula
+$$ m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂
+$$ v₁ = [(m₁ − m₂)u₁ + 2m₂u₂] ÷ (m₁ + m₂)
+$$ v₂ = [(m₂ − m₁)u₂ + 2m₁u₁] ÷ (m₁ + m₂)
+m₁, m₂ | masses | kg
+u₁, u₂ | velocities before | m/s
+v₁, v₂ | velocities after | m/s
+! The v₁, v₂ formulas are for elastic collisions only. Momentum conservation holds for all collisions.
+## visual
+Set the masses and velocities and press Collide. Try "Equal masses" to see the velocities swap, and "Truck vs car" for a head-on crash. Momentum before and after is always the same.
+## real
+Crumple zones in modern cars are designed to crush slowly during a crash. This makes the car's change of momentum happen over a longer time, which reduces the force on passengers. Airbags and helmets work the same way.
+## example
+Q: A 2 kg ball moving at 3 m/s hits an identical 2 kg ball at rest (elastic collision). Find their velocities afterwards.
+Given: m₁ = m₂ = 2 kg, u₁ = 3 m/s, u₂ = 0
+Formula: v₁ = [(m₁ − m₂)u₁ + 2m₂u₂] ÷ (m₁ + m₂)
+Calculation: v₁ = [0 × 3 + 2 × 2 × 0] ÷ 4 = 0; v₂ = [0 × 0 + 2 × 2 × 3] ÷ 4 = 3 m/s
+Answer: The first ball stops; the second moves off at 3 m/s. Equal masses exchange velocities.
+## example
+Q: A 5 kg trolley at 4 m/s collides with a 3 kg trolley at rest, and they stick together. Find their common velocity.
+Given: m₁ = 5 kg, u₁ = 4 m/s, m₂ = 3 kg, u₂ = 0; after: common velocity v
+> This collision is not elastic (they stick), but momentum is still conserved.
+Formula: m₁u₁ + m₂u₂ = (m₁ + m₂)v
+Calculation: 5 × 4 + 0 = 8v → v = 20 ÷ 8 = 2.5 m/s
+Answer: 2.5 m/s
+## mistakes
+x Momentum is conserved only in elastic collisions.
+v Momentum is conserved in all collisions without external force. Kinetic energy is conserved only in elastic ones.
+x In a crash between a truck and a car, both feel the same change in velocity.
+v Both feel the same force, but the car, with far less mass, gets a much larger change in velocity.
+## remember
+- Momentum conservation: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂ (always, without external force).
+- Elastic collision: kinetic energy is also conserved.
+- Equal masses in an elastic collision exchange velocities.
+- Truck vs small car head-on: the car's velocity changes by about 4u; heavy vehicles must be driven carefully.
+- Kinetic energy ∝ v²: double speed → four times the energy in a crash.
+## think
+A gun recoils backwards when it fires a bullet forwards. Use conservation of momentum to explain why. (Hint: what was the total momentum before firing?)
+## quiz
+? In an elastic collision between two equal masses where one was at rest:
+* The moving mass stops and the other moves off with its velocity
+- Both move together
+- Both stop
+- The moving mass bounces back at double speed
+= Equal masses exchange velocities in an elastic collision.
+? Which quantity is conserved in every collision with no external force?
+- Kinetic energy
+- Velocity
+* Momentum
+- Speed
+= Momentum is always conserved when there is no external force.
+? A 4 kg object at 6 m/s sticks to a 2 kg object at rest. Their common velocity is:
+- 3 m/s
+* 4 m/s
+- 6 m/s
+- 12 m/s
+= 4 × 6 = 6 × v, so v = 4 m/s.
+== bn
+## what
+**সংঘর্ষে** বস্তুগুলো একে অপরকে ধাক্কা দেয় এবং তাদের বেগ বদলে যায়। **ভরবেগের সংরক্ষণ** (আর স্থিতিস্থাপক সংঘর্ষে গতিশক্তির সংরক্ষণ) দিয়ে পরের বেগ বলে দেওয়া যায়। এ থেকেই বোঝা যায় ভারী যানবাহনের সাথে দুর্ঘটনা কেন এত প্রাণঘাতী।
+## simple
+m₁ ও m₂ ভরের দুটি বস্তু u₁ ও u₂ বেগে সরলরেখায় চলছে। সংঘর্ষের পর এদের বেগ হলো v₁ ও v₂।
+
+**ভরবেগের সংরক্ষণ** থেকে একটি সমীকরণ পাই:
+
+m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂
+
+কিন্তু অজানা দুটি (v₁ ও v₂), তাই আরেকটি সমীকরণ লাগে। তাপ বা শব্দে কোনো শক্তি না হারালে (পুরোপুরি **স্থিতিস্থাপক** সংঘর্ষ), মোট **গতিশক্তিও** (½mv², চতুর্থ অধ্যায়ে পড়বে) সংরক্ষিত থাকে:
+
+½m₁u₁² + ½m₂u₂² = ½m₁v₁² + ½m₂v₂²
+
+দুটি সমাধান করলে পাই:
+
+- v₁ = [(m₁ − m₂)u₁ + ২m₂u₂] ÷ (m₁ + m₂)
+- v₂ = [(m₂ − m₁)u₂ + ২m₁u₁] ÷ (m₁ + m₂)
+
+**সমান ভর বেগ বদলাবদলি করে।** m₁ = m₂ হলে v₁ = u₂ এবং v₂ = u₁। একটি মার্বেল গড়িয়ে একই রকম স্থির মার্বেলে ধাক্কা দাও: চলন্তটি থেমে যায়, অন্যটি একই বেগে গড়িয়ে যায়। দুটি বইয়ের মাঝের খাঁজে কয়েকটি মার্বেল গায়ে গায়ে সাজিয়ে একটি মার্বেল দিয়ে আঘাত করো: অন্য প্রান্ত থেকে ঠিক একটিই ছিটকে বের হয়। দুটি দিয়ে আঘাত করলে দুটি বের হয়।
+
+**নিরাপদ ভ্রমণ।** গতিশক্তি বেগের **বর্গের** ওপর নির্ভর করে: বেগ দ্বিগুণ হলে সংঘর্ষে শোষণ করতে হয় চার গুণ শক্তি। এজন্যই আমাদের সড়কে অতিরিক্ত গতি সবচেয়ে বড় ঘাতক।
+
+এবার একটি ভারী ট্রাক (ভর m₁, বেগ u) আর একটি ছোট গাড়ির (ভর m₂, বেগ −u) মুখোমুখি সংঘর্ষ ধরো। ট্রাকের তুলনায় গাড়ির ভর খুব কম হলে সূত্র থেকে পাই v₁ ≈ u এবং v₂ ≈ **৩u**। ট্রাক প্রায় অক্ষত অবস্থায় চলতে থাকে, কিন্তু গাড়ির বেগ −u থেকে ৩u হয়: পরিবর্তন **৪u**। গাড়িটি পেছনে ছিটকে যায় আর দুমড়ে-মুচড়ে যায়। (এটা সরল হিসাব: বাস্তব সংঘর্ষে ধাতু বাঁকতেও শক্তি খরচ হয়, কিন্তু শিক্ষাটা একই।) ভারী যানবাহন খুব সাবধানে চালাতে হয়।
+## analogy
+ভরবেগকে **দুই বন্ধুর মধ্যে লেনদেন হওয়া টাকার** মতো ভাবো। রাফির ৫০ টাকা আর মিতুর ৩০ টাকা থাকলে দুজনের মোট ৮০ টাকা। রাফি মিতুকে কিছু দিতে পারে, কিন্তু বাইরের কেউ টাকা না দিলে বা না নিলে মোট ৮০-ই থাকে। সংঘর্ষে দুটি বস্তু একে অপরকে ভরবেগ দেয়, কিন্তু বাইরের বল না থাকলে মোট ভরবেগ একই থাকে।
+## definition
+**সংঘর্ষ**: যে ঘটনায় দুই বা ততোধিক বস্তু অল্প সময়ের জন্য একে অপরের ওপর শক্তিশালী বল প্রয়োগ করে তাদের বেগ বদলে দেয়।
+
+বাহ্যিক বল ছাড়া প্রতিটি সংঘর্ষে **ভরবেগ সংরক্ষিত** থাকে: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂।
+
+**স্থিতিস্থাপক সংঘর্ষে** গতিশক্তিও সংরক্ষিত থাকে।
+## why
+ছোট গাড়ির এত বেশি ক্ষতি হয় কেন? দুটি যানই একই বল অনুভব করে (নিউটনের তৃতীয় সূত্র), কিন্তু ত্বরণ = বল ÷ ভর। গাড়ির ভর কম বলে এর ত্বরণ বিশাল, তাই সেকেন্ডের একটা ভগ্নাংশে এর বেগ বিপুলভাবে বদলায়, আর যাত্রীদের শরীরেরও।
+## terms
+সংঘর্ষ | অল্প সময়ের শক্তিশালী মিথস্ক্রিয়া যা বেগ বদলায়
+স্থিতিস্থাপক সংঘর্ষ | গতিশক্তি সংরক্ষিত (পুরোপুরি লাফিয়ে ফেরা)
+মুখোমুখি সংঘর্ষ | একই রেখায় একে অপরের দিকে চলা বস্তুর সংঘর্ষ
+গতিশক্তি | গতির শক্তি, ½mv²
+## formula
+$$ m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂
+$$ v₁ = [(m₁ − m₂)u₁ + ২m₂u₂] ÷ (m₁ + m₂)
+$$ v₂ = [(m₂ − m₁)u₂ + ২m₁u₁] ÷ (m₁ + m₂)
+m₁, m₂ | ভর | kg
+u₁, u₂ | আগের বেগ | m/s
+v₁, v₂ | পরের বেগ | m/s
+! v₁, v₂-এর সূত্র শুধু স্থিতিস্থাপক সংঘর্ষের জন্য। ভরবেগের সংরক্ষণ সব সংঘর্ষে খাটে।
+## visual
+ভর আর বেগ ঠিক করে "সংঘর্ষ ঘটাও" চাপো। বেগ বদলাবদলি দেখতে "সমান ভর", আর মুখোমুখি সংঘর্ষ দেখতে "ট্রাক বনাম গাড়ি" চাপো। আগে ও পরের ভরবেগ সবসময় সমান।
+## real
+আধুনিক গাড়ির "ক্রাম্পল জোন" সংঘর্ষের সময় ধীরে ধীরে দুমড়ে যাওয়ার জন্য তৈরি। এতে গাড়ির ভরবেগের পরিবর্তন বেশি সময় ধরে ঘটে, ফলে যাত্রীদের ওপর বল কমে। এয়ারব্যাগ আর হেলমেটও একইভাবে কাজ করে।
+## example
+প্রশ্ন: ৩ m/s বেগে চলা ২ kg-এর একটি বল একই রকম স্থির ২ kg-এর বলে ধাক্কা দিল (স্থিতিস্থাপক সংঘর্ষ)। পরে এদের বেগ কত?
+দেওয়া আছে: m₁ = m₂ = ২ kg, u₁ = ৩ m/s, u₂ = ০
+সূত্র: v₁ = [(m₁ − m₂)u₁ + ২m₂u₂] ÷ (m₁ + m₂)
+হিসাব: v₁ = [০ × ৩ + ২ × ২ × ০] ÷ ৪ = ০; v₂ = [০ × ০ + ২ × ২ × ৩] ÷ ৪ = ৩ m/s
+উত্তর: প্রথম বলটি থেমে যায়; দ্বিতীয়টি ৩ m/s বেগে চলে যায়। সমান ভর বেগ বদলাবদলি করে।
+## example
+প্রশ্ন: ৪ m/s বেগে চলা ৫ kg-এর একটি ট্রলি ৩ kg-এর একটি স্থির ট্রলিতে ধাক্কা দিয়ে জোড়া লেগে গেল। এদের সাধারণ বেগ কত?
+দেওয়া আছে: m₁ = ৫ kg, u₁ = ৪ m/s, m₂ = ৩ kg, u₂ = ০; পরে সাধারণ বেগ v
+> এই সংঘর্ষ স্থিতিস্থাপক নয় (জোড়া লাগে), তবুও ভরবেগ সংরক্ষিত।
+সূত্র: m₁u₁ + m₂u₂ = (m₁ + m₂)v
+হিসাব: ৫ × ৪ + ০ = ৮v → v = ২০ ÷ ৮ = ২.৫ m/s
+উত্তর: ২.৫ m/s
+## mistakes
+x ভরবেগ শুধু স্থিতিস্থাপক সংঘর্ষে সংরক্ষিত।
+v বাহ্যিক বল ছাড়া সব সংঘর্ষেই ভরবেগ সংরক্ষিত। গতিশক্তি সংরক্ষিত শুধু স্থিতিস্থাপক সংঘর্ষে।
+x ট্রাক আর গাড়ির সংঘর্ষে দুটির বেগের পরিবর্তন সমান।
+v দুটি একই বল অনুভব করে, কিন্তু অনেক কম ভরের গাড়ির বেগের পরিবর্তন অনেক বেশি।
+## remember
+- ভরবেগের সংরক্ষণ: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂ (বাহ্যিক বল না থাকলে সবসময়)।
+- স্থিতিস্থাপক সংঘর্ষে গতিশক্তিও সংরক্ষিত।
+- স্থিতিস্থাপক সংঘর্ষে সমান ভর বেগ বদলাবদলি করে।
+- ট্রাক বনাম ছোট গাড়ির মুখোমুখি সংঘর্ষ: গাড়ির বেগ প্রায় ৪u বদলায়; ভারী যান সাবধানে চালাতে হয়।
+- গতিশক্তি ∝ v²: বেগ দ্বিগুণ → সংঘর্ষে চার গুণ শক্তি।
+## think
+বন্দুক সামনে গুলি ছুড়লে পেছনে ধাক্কা খায়। ভরবেগের সংরক্ষণ দিয়ে ব্যাখ্যা করো। (ইঙ্গিত: গুলি ছোড়ার আগে মোট ভরবেগ কত ছিল?)
+## quiz
+? দুটি সমান ভরের স্থিতিস্থাপক সংঘর্ষে, যেখানে একটি স্থির ছিল:
+* চলন্তটি থেমে যায় আর অন্যটি তার বেগে চলে যায়
+- দুটি একসাথে চলে
+- দুটিই থেমে যায়
+- চলন্তটি দ্বিগুণ বেগে ফিরে আসে
+= স্থিতিস্থাপক সংঘর্ষে সমান ভর বেগ বদলাবদলি করে।
+? বাহ্যিক বল ছাড়া প্রতিটি সংঘর্ষে কোন রাশি সংরক্ষিত থাকে?
+- গতিশক্তি
+- বেগ
+* ভরবেগ
+- দ্রুতি
+= বাহ্যিক বল না থাকলে ভরবেগ সবসময় সংরক্ষিত।
+? ৬ m/s বেগের ৪ kg-এর একটি বস্তু ২ kg-এর একটি স্থির বস্তুর সাথে জোড়া লাগল। এদের সাধারণ বেগ:
+- ৩ m/s
+* ৪ m/s
+- ৬ m/s
+- ১২ m/s
+= ৪ × ৬ = ৬ × v, তাই v = ৪ m/s।
+
+@@ 3.6
+@visual fma
+@related 3.1 3.4 3.7 2.7
+== en
+## what
+**Newton's second law** tells us exactly how a force changes motion: the rate of change of momentum equals the applied force. For a fixed mass this becomes the famous equation **F = ma**, which lets us measure force.
+## simple
+A footballer kicks a still ball: the force acts only for the instant of contact, yet the ball flies off. You push a go-cart for a while and release it: it keeps moving until friction stops it. A batsman turns a ball in a new direction. In every case, a force **changes the velocity**, which means it produces **acceleration**.
+
+Newton said: the **rate of change of momentum** is proportional to the force, and happens in the direction of the force.
+
+If velocity changes from u to v in time t, the change of momentum is mv − mu, so the rate of change is:
+
+(mv − mu) ÷ t = m(v − u) ÷ t = **ma**
+
+So ma ∝ F, i.e. ma = kF. Newton's first law told us **what** force is, but not how to measure it. Now we can **choose** the unit of force so that k = 1. That gives:
+
+**F = ma**
+
+The unit of force is the **newton (N)**: 1 N is the force that gives a 1 kg mass an acceleration of 1 m/s².
+
+This simple equation works everywhere: for a football, a car, a rocket, even planets going round the Sun. If you know the force and mass, you can find the acceleration (a = F ÷ m). If you see an acceleration and know the mass, you can find the force.
+## analogy
+Push an empty shopping trolley and then a full one with the same effort. The empty one shoots off; the full one barely speeds up. Same force, more mass → less acceleration. Push harder and either one speeds up faster. That everyday feeling, written as a formula, is **F = ma**.
+## definition
+**Newton's second law of motion**: the rate of change of momentum of a body is proportional to the applied force, and the change of momentum takes place in the direction of the force.
+
+For constant mass: **F = ma**.
+
+**1 newton (N)**: the force that produces an acceleration of 1 m/s² in a mass of 1 kg. Dimension of force: MLT^{-2}.
+## why
+Why does the same force move a light object more than a heavy one? Because a = F ÷ m. Doubling the mass halves the acceleration. This is the same "inertia" from the first law, now in numbers: mass tells you how hard it is to change an object's motion.
+## terms
+Newton's second law | Force = rate of change of momentum
+Newton (N) | Unit of force: 1 N = 1 kg m/s²
+Net force | The resultant of all forces on an object
+## formula
+$$ F = ma
+$$ F = (mv − mu) ÷ t
+tri F | m | a
+F | net force | N
+m | mass | kg
+a | acceleration | m/s²
+! Use the net (resultant) force. Dimension: [F] = MLT^{-2}.
+## visual
+Choose a force and a mass, then push for 3 seconds and watch the velocity–time line. Press "Keep this line", change the mass or force and push again to compare: a steeper line means a bigger acceleration.
+## real
+A loaded bus needs a more powerful engine than an empty one to pick up speed equally fast. Rockets are built to be as light as possible, because for the same engine force, a smaller mass means a larger acceleration.
+## example
+Q: A force of 100 N acts on a 5 kg body at rest for 10 s, then stops. Find (a) its acceleration, (b) its velocity after 10 s, (c) its velocity after 20 s, (d) the distance travelled in 20 s.
+Given: F = 100 N, m = 5 kg, u = 0
+Formula: a = F ÷ m
+Calculation: (a) a = 100 ÷ 5 = 20 m/s². (b) v = u + at = 0 + 20 × 10 = 200 m/s.
+Step: (c) After 10 s there is no force, so no acceleration: velocity stays 200 m/s at 20 s.
+> Newton's first law: no force, no change in velocity.
+Step: (d) First 10 s: s₁ = ½ × 20 × 10² = 1000 m. Next 10 s: s₂ = 200 × 10 = 2000 m.
+Answer: 20 m/s²; 200 m/s; 200 m/s; total distance 3000 m = 3 km
+## example
+Q: A 20 N force acting on a body at rest for 10 s makes it move 100 m. Find the mass.
+Given: F = 20 N, u = 0, t = 10 s, s = 100 m
+Formula: s = ut + ½at², then m = F ÷ a
+Calculation: 100 = ½ × a × 10² → a = 2 m/s²; m = 20 ÷ 2 = 10 kg
+Answer: 10 kg
+## mistakes
+x A force is needed to keep an object moving at constant velocity.
+v F = ma: constant velocity means a = 0, so the net force is zero.
+x In F = ma, F is any one force acting on the body.
+v F is the net (resultant) force of all the forces acting.
+x 1 N = 1 kg.
+v 1 N = 1 kg m/s². Newton is a unit of force; kilogram is a unit of mass.
+## remember
+- Second law: force = rate of change of momentum, in the direction of the force.
+- F = ma for constant mass; a = F ÷ m.
+- 1 N = force giving 1 kg an acceleration of 1 m/s²; [F] = MLT^{-2}.
+- Once the force stops, velocity stays constant (first law).
+## think
+If you push a wall with 100 N, it doesn't move. Does that break Newton's second law? Where does your force "go"? (Hint: think about the net force.)
+## quiz
+? A net force of 30 N acts on a 6 kg mass. Its acceleration is:
+- 180 m/s²
+* 5 m/s²
+- 0.2 m/s²
+- 36 m/s²
+= a = F ÷ m = 30 ÷ 6 = 5 m/s².
+? 1 newton is equal to:
+- 1 kg m/s
+* 1 kg m/s²
+- 1 kg/m²
+- 1 m/s²
+= F = ma, so N = kg × m/s².
+? The same force acts on a 2 kg and a 4 kg object. The acceleration of the 2 kg object is:
+- Half that of the 4 kg object
+- The same
+* Twice that of the 4 kg object
+- Four times that of the 4 kg object
+= a = F ÷ m, so halving the mass doubles the acceleration.
+== bn
+## what
+**নিউটনের দ্বিতীয় সূত্র** ঠিক করে বলে দেয় বল কীভাবে গতি বদলায়: ভরবেগের পরিবর্তনের হার প্রযুক্ত বলের সমানুপাতিক। নির্দিষ্ট ভরের জন্য এটি বিখ্যাত সমীকরণ **F = ma**, যা দিয়ে বল মাপা যায়।
+## simple
+একজন ফুটবলার স্থির বলে লাথি দেন: বল কাজ করে শুধু ছোঁয়ার মুহূর্তটুকু, তবুও বল উড়ে যায়। তুমি কিছুক্ষণ একটি গো-কার্ট ঠেলে ছেড়ে দিলে: ঘর্ষণ থামানো পর্যন্ত এটি চলতে থাকে। ব্যাটসম্যান বলকে নতুন দিকে পাঠান। প্রতিটি ক্ষেত্রে বল **বেগ বদলায়**, অর্থাৎ **ত্বরণ** সৃষ্টি করে।
+
+নিউটন বললেন: **ভরবেগের পরিবর্তনের হার** বলের সমানুপাতিক, আর পরিবর্তন ঘটে বলের দিকে।
+
+t সময়ে বেগ u থেকে v হলে ভরবেগের পরিবর্তন mv − mu, তাই পরিবর্তনের হার:
+
+(mv − mu) ÷ t = m(v − u) ÷ t = **ma**
+
+তাহলে ma ∝ F, অর্থাৎ ma = kF। প্রথম সূত্র বলেছিল বল **কী**, কিন্তু কীভাবে মাপতে হয় তা নয়। এখন আমরা বলের একক এমনভাবে **বেছে নিতে পারি** যাতে k = ১ হয়। তাহলে পাই:
+
+**F = ma**
+
+বলের একক **নিউটন (N)**: যে বল ১ kg ভরের বস্তুতে ১ m/s² ত্বরণ সৃষ্টি করে, তা-ই ১ N।
+
+এই সরল সমীকরণ সব জায়গায় খাটে: ফুটবল, গাড়ি, রকেট, এমনকি সূর্যের চারপাশে ঘোরা গ্রহ। বল আর ভর জানলে ত্বরণ বের করা যায় (a = F ÷ m)। ত্বরণ দেখে আর ভর জেনে বল বের করা যায়।
+## analogy
+একই জোরে একবার খালি, একবার ভরা শপিং ট্রলি ঠেলো। খালিটা ছুটে যায়; ভরাটা সামান্যই দ্রুত হয়। একই বল, বেশি ভর → কম ত্বরণ। আরও জোরে ঠেললে যেকোনোটাই আরও দ্রুত গতি বাড়ায়। এই রোজকার অনুভূতিকে সূত্রে লিখলে দাঁড়ায় **F = ma**।
+## definition
+**নিউটনের দ্বিতীয় গতিসূত্র**: বস্তুর ভরবেগের পরিবর্তনের হার তার ওপর প্রযুক্ত বলের সমানুপাতিক এবং বল যেদিকে ক্রিয়া করে ভরবেগের পরিবর্তনও সেদিকে ঘটে।
+
+ভর স্থির থাকলে: **F = ma**।
+
+**১ নিউটন (N)**: যে বল ১ kg ভরের বস্তুতে ১ m/s² ত্বরণ সৃষ্টি করে। বলের মাত্রা: MLT^{-২}।
+## why
+একই বল হালকা বস্তুকে ভারী বস্তুর চেয়ে বেশি নড়ায় কেন? কারণ a = F ÷ m। ভর দ্বিগুণ হলে ত্বরণ অর্ধেক। এটি প্রথম সূত্রের সেই "জড়তা", এবার সংখ্যায়: ভর বলে দেয় বস্তুর গতি বদলানো কতটা কঠিন।
+## terms
+নিউটনের দ্বিতীয় সূত্র | বল = ভরবেগের পরিবর্তনের হার
+নিউটন (N) | বলের একক: ১ N = ১ kg m/s²
+লব্ধি বল | বস্তুর ওপর সব বলের লব্ধি
+## formula
+$$ F = ma
+$$ F = (mv − mu) ÷ t
+tri F | m | a
+F | লব্ধি বল | N
+m | ভর | kg
+a | ত্বরণ | m/s²
+! লব্ধি বল ব্যবহার করো। মাত্রা: [F] = MLT^{-২}।
+## visual
+একটি বল আর একটি ভর বেছে নিয়ে ৩ সেকেন্ড ঠেলো, আর বেগ–সময় রেখা দেখো। "রেখা রেখে দাও" চেপে ভর বা বল বদলাও, আবার ঠেলে তুলনা করো: রেখা যত খাড়া, ত্বরণ তত বেশি।
+## real
+খালি বাসের সমান দ্রুত গতি তুলতে যাত্রীভর্তি বাসের আরও শক্তিশালী ইঞ্জিন লাগে। রকেট যতটা সম্ভব হালকা বানানো হয়, কারণ একই ইঞ্জিন-বলে ভর কম হলে ত্বরণ বেশি।
+## example
+প্রশ্ন: স্থির অবস্থায় থাকা ৫ kg ভরের একটি বস্তুর ওপর ১০০ N বল ১০ s ধরে কাজ করে থেমে গেল। বের করো (ক) ত্বরণ, (খ) ১০ s পর বেগ, (গ) ২০ s পর বেগ, (ঘ) ২০ s-এ অতিক্রান্ত দূরত্ব।
+দেওয়া আছে: F = ১০০ N, m = ৫ kg, u = ০
+সূত্র: a = F ÷ m
+হিসাব: (ক) a = ১০০ ÷ ৫ = ২০ m/s²। (খ) v = u + at = ০ + ২০ × ১০ = ২০০ m/s।
+ধাপ: (গ) ১০ s-এর পর বল নেই, তাই ত্বরণ নেই: ২০ s-এও বেগ ২০০ m/s।
+> নিউটনের প্রথম সূত্র: বল নেই, বেগের পরিবর্তনও নেই।
+ধাপ: (ঘ) প্রথম ১০ s: s₁ = ½ × ২০ × ১০² = ১০০০ m। পরের ১০ s: s₂ = ২০০ × ১০ = ২০০০ m।
+উত্তর: ২০ m/s²; ২০০ m/s; ২০০ m/s; মোট দূরত্ব ৩০০০ m = ৩ km
+## example
+প্রশ্ন: স্থির একটি বস্তুর ওপর ১০ s ধরে ২০ N বল কাজ করায় এটি ১০০ m গেল। ভর কত?
+দেওয়া আছে: F = ২০ N, u = ০, t = ১০ s, s = ১০০ m
+সূত্র: s = ut + ½at², তারপর m = F ÷ a
+হিসাব: ১০০ = ½ × a × ১০² → a = ২ m/s²; m = ২০ ÷ ২ = ১০ kg
+উত্তর: ১০ kg
+## mistakes
+x স্থির বেগে চালু রাখতে বল লাগে।
+v F = ma: স্থির বেগ মানে a = ০, তাই লব্ধি বল শূন্য।
+x F = ma-তে F হলো বস্তুর ওপর যেকোনো একটি বল।
+v F হলো ক্রিয়াশীল সব বলের লব্ধি।
+x ১ N = ১ kg।
+v ১ N = ১ kg m/s²। নিউটন বলের একক; কিলোগ্রাম ভরের একক।
+## remember
+- দ্বিতীয় সূত্র: বল = ভরবেগের পরিবর্তনের হার, বলের দিকে।
+- ভর স্থির হলে F = ma; a = F ÷ m।
+- ১ N = যে বল ১ kg-তে ১ m/s² ত্বরণ দেয়; [F] = MLT^{-২}।
+- বল থেমে গেলে বেগ স্থির থাকে (প্রথম সূত্র)।
+## think
+দেয়ালে ১০০ N বলে ঠেললে দেয়াল নড়ে না। এতে কি নিউটনের দ্বিতীয় সূত্র ভেঙে যায়? তোমার বল "কোথায় যায়"? (ইঙ্গিত: লব্ধি বলের কথা ভাবো।)
+## quiz
+? ৬ kg ভরের ওপর ৩০ N লব্ধি বল কাজ করছে। ত্বরণ:
+- ১৮০ m/s²
+* ৫ m/s²
+- ০.২ m/s²
+- ৩৬ m/s²
+= a = F ÷ m = ৩০ ÷ ৬ = ৫ m/s²।
+? ১ নিউটন সমান:
+- ১ kg m/s
+* ১ kg m/s²
+- ১ kg/m²
+- ১ m/s²
+= F = ma, তাই N = kg × m/s²।
+? ২ kg ও ৪ kg-এর দুটি বস্তুর ওপর একই বল কাজ করছে। ২ kg বস্তুর ত্বরণ:
+- ৪ kg বস্তুর অর্ধেক
+- সমান
+* ৪ kg বস্তুর দ্বিগুণ
+- ৪ kg বস্তুর চার গুণ
+= a = F ÷ m, তাই ভর অর্ধেক হলে ত্বরণ দ্বিগুণ।
+
+@@ 3.7
+@visual gravity
+@related 3.2 3.6 2.8
+== en
+## what
+Every object with mass attracts every other object with mass. **Newton's law of gravitation** tells us how strong this pull is. It explains why things have **weight**, and why g is 9.8 m/s².
+## simple
+Two masses m₁ and m₂ separated by a distance d attract each other with a force
+
+**F = G m₁m₂ ÷ d²**
+
+where G = 6.67 × 10^{-11} N m² kg^{-2} is the **gravitational constant**, a tiny number. That is why you don't feel pulled towards your friend or a wall: the force between ordinary objects is extremely small. It becomes large only when at least one mass is huge, like the Earth.
+
+Two important things:
+
+- The pull is **mutual**: m₁ pulls m₂, and m₂ pulls m₁ with the same force.
+- It gets weaker quickly with distance: double the distance, and the force becomes **one quarter**.
+
+**Why g = 9.8 m/s².** For an object of mass m on the Earth (mass M, radius R), the distance is measured from the **centre** of the Earth, because a sphere pulls as if all its mass were at its centre. So the force is GMm ÷ R². By Newton's second law this force is mg:
+
+mg = GMm ÷ R² → **g = GM ÷ R²**
+
+Putting in M = 5.98 × 10^{24} kg and R = 6.37 × 10^{6} m gives **g ≈ 9.8 m/s²**. Notice the object's own mass m cancels, which is why all objects fall with the same acceleration.
+
+**Weight.** The force with which the Earth pulls an object is its weight: **W = mg**. A 50 kg student weighs 50 × 9.8 = 490 N.
+
+**Going higher.** At height h above the surface, g' = g ÷ (1 + h/R)². At a space station 100 km up, g' ≈ 9.5 m/s², not zero! Astronauts float because they and their station are falling freely around the Earth together.
+
+**Pulleys and strings.** A string pulls along its length with a **tension** T. If a mass M hangs over a pulley and pulls a mass m on a smooth table, apply F = ma to each: T = ma for the table mass, and Mg − T = Ma for the hanging mass. Adding them: **a = Mg ÷ (M + m)**.
+## analogy
+Think of gravity like the light from a lamp spreading out in a dark room. Go twice as far and the light is spread over four times the area, so it looks four times dimmer. Gravity weakens the same way: **twice the distance → one quarter of the force**. That is what the d² in the formula means.
+## definition
+**Newton's law of gravitation**: every body in the universe attracts every other body with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centres.
+
+F = G m₁m₂ / d², where G = 6.67 × 10^{-11} N m² kg^{-2}.
+
+**Weight**: the force with which the Earth attracts a body towards its centre. W = mg; unit newton (N).
+
+**Acceleration due to gravity (g)**: the acceleration of a freely falling body due to the Earth's gravity; g = GM/R² ≈ 9.8 m/s² at the surface.
+## why
+Why do astronauts feel weightless if g is still 9.5 m/s² up there? Weightlessness is what you feel when **you and everything around you fall together**. The station is falling towards the Earth all the time, but it is moving sideways so fast that it keeps missing it: that is an orbit. Since the floor falls as fast as you do, it doesn't push on you, and you feel no weight.
+## terms
+Gravitational constant (G) | 6.67 × 10^{-11} N m² kg^{-2}
+Weight (W) | Earth's pull on a body, W = mg
+Mass | Amount of matter; the same everywhere
+g | 9.8 m/s² at the Earth's surface; smaller higher up
+Tension (T) | Pull along a string, directed away from the object
+## formula
+$$ F = G m₁m₂ ÷ d²
+$$ g = GM ÷ R²
+$$ W = mg
+$$ g' = g ÷ (1 + h/R)²
+tri W | m | g
+G | gravitational constant | N m² kg⁻²
+M, R | mass and radius of the Earth | 5.98 × 10²⁴ kg, 6.37 × 10⁶ m
+d | distance between centres | m
+! Mass stays the same everywhere; weight changes with g.
+## visual
+Move the slider or tap a place (Everest, space station, h = R) to go higher above the Earth. The arrow and the graph show g getting weaker; at h = R it is only a quarter of 9.8 m/s².
+## real
+Your mass is the same on the Moon, but your weight is only about one sixth, because the Moon's g is about 1.6 m/s². Tides in the Bay of Bengal are caused by the Moon's gravity pulling unequally on different sides of the Earth.
+## example
+Q: Calculate g at the Earth's surface. (G = 6.67 × 10^{-11} N m² kg^{-2}, M = 5.98 × 10^{24} kg, R = 6.37 × 10^{6} m)
+Formula: g = GM ÷ R²
+Substitution: g = (6.67 × 10^{-11} × 5.98 × 10^{24}) ÷ (6.37 × 10^{6})²
+Calculation: = (3.99 × 10^{14}) ÷ (4.06 × 10^{13}) ≈ 9.8
+Answer: g ≈ 9.8 m/s²
+## example
+Q: A space station is 100 km above the Earth's surface. What is g there? (R = 6370 km)
+Formula: g' = g ÷ (1 + h/R)²
+Substitution: g' = 9.8 ÷ (1 + 100/6370)²
+Calculation: = 9.8 ÷ (1.0157)² = 9.8 ÷ 1.0317 ≈ 9.5
+Answer: g' ≈ 9.5 m/s², far from zero.
+## example
+Q: A 2 kg mass hangs over a pulley and is tied by a string to a 3 kg block on a smooth table. Find the acceleration and the tension.
+Given: M = 2 kg (hanging), m = 3 kg (on table), g = 9.8 m/s²
+Formula: a = Mg ÷ (M + m); T = ma
+Calculation: a = 2 × 9.8 ÷ 5 = 3.92 m/s²; T = 3 × 3.92 = 11.76 N
+Answer: a = 3.92 m/s², T ≈ 11.8 N
+> The tension is less than the hanging weight (19.6 N), which is why the hanging mass accelerates downward.
+## mistakes
+x Mass and weight are the same.
+v Mass (kg) is the amount of matter and never changes. Weight (N) is a force, W = mg, and changes with g.
+x There is no gravity in space, so astronauts float.
+v Gravity at the station is still about 95% of that on the surface. Astronauts float because they are in free fall together with the station.
+x g depends on the mass of the falling object.
+v In g = GM/R², only the Earth's mass appears; the object's mass cancels.
+## remember
+- F = Gm₁m₂/d²; G = 6.67 × 10^{-11} N m² kg^{-2}; the pull is mutual.
+- g = GM/R² ≈ 9.8 m/s²; decreases with height: g' = g/(1 + h/R)².
+- Weight W = mg (newtons); mass stays constant.
+- Pulley with hanging mass M and table mass m: a = Mg/(M + m).
+## think
+If the distance between the Earth and the Moon doubled, how would the gravitational force between them change?
+## quiz
+? If the distance between two masses is doubled, the gravitational force becomes:
+- Double
+- Half
+* One quarter
+- Four times
+= F ∝ 1/d²; doubling d makes F one quarter.
+? The weight of a 10 kg bag on Earth (g = 9.8 m/s²) is:
+- 10 N
+- 0.98 N
+* 98 N
+- 980 N
+= W = mg = 10 × 9.8 = 98 N.
+? Astronauts in an orbiting space station feel weightless because:
+- There is no gravity there
+* They and the station are falling freely together
+- Their mass becomes zero
+- The station has no air
+= Gravity still acts; free fall together removes the feeling of weight.
+== bn
+## what
+ভর আছে এমন প্রতিটি বস্তু অন্য প্রতিটি বস্তুকে আকর্ষণ করে। **নিউটনের মহাকর্ষ সূত্র** বলে এই টান কত শক্তিশালী। এ থেকেই বোঝা যায় জিনিসের **ওজন** কেন হয়, আর g কেন ৯.৮ m/s²।
+## simple
+d দূরত্বে থাকা m₁ ও m₂ ভরের দুটি বস্তু একে অপরকে আকর্ষণ করে এই বলে:
+
+**F = G m₁m₂ ÷ d²**
+
+এখানে G = ৬.৬৭ × ১০^{-১১} N m² kg^{-২} হলো **মহাকর্ষীয় ধ্রুবক**, খুব ছোট একটি সংখ্যা। এজন্যই বন্ধু বা দেয়ালের দিকে টান অনুভব করো না: সাধারণ বস্তুর মধ্যে বলটা খুবই ক্ষুদ্র। অন্তত একটি ভর বিশাল হলে, যেমন পৃথিবী, তবেই এটি বড় হয়।
+
+দুটি গুরুত্বপূর্ণ কথা:
+
+- টান **পারস্পরিক**: m₁ যে বলে m₂ কে টানে, m₂ ও সমান বলে m₁ কে টানে।
+- দূরত্ব বাড়লে দ্রুত দুর্বল হয়: দূরত্ব দ্বিগুণ হলে বল হয় **এক-চতুর্থাংশ**।
+
+**g = ৯.৮ m/s² কেন।** পৃথিবীর (ভর M, ব্যাসার্ধ R) ওপর m ভরের বস্তুর জন্য দূরত্ব মাপা হয় পৃথিবীর **কেন্দ্র** থেকে, কারণ গোলক এমনভাবে টানে যেন সব ভর এর কেন্দ্রে। তাই বল = GMm ÷ R²। নিউটনের দ্বিতীয় সূত্র অনুযায়ী এই বল mg:
+
+mg = GMm ÷ R² → **g = GM ÷ R²**
+
+M = ৫.৯৮ × ১০^{২৪} kg আর R = ৬.৩৭ × ১০^{৬} m বসালে পাই **g ≈ ৯.৮ m/s²**। লক্ষ করো, বস্তুর নিজের ভর m কেটে যায়, তাই সব বস্তু একই ত্বরণে পড়ে।
+
+**ওজন।** পৃথিবী যে বলে বস্তুকে টানে তা-ই ওজন: **W = mg**। ৫০ kg-এর একজন শিক্ষার্থীর ওজন ৫০ × ৯.৮ = ৪৯০ N।
+
+**আরও উঁচুতে।** পৃষ্ঠ থেকে h উচ্চতায় g' = g ÷ (১ + h/R)²। ১০০ km উঁচুতে মহাকাশ স্টেশনে g' ≈ ৯.৫ m/s², শূন্য নয়! নভোচারীরা ভাসেন কারণ তাঁরা আর স্টেশন একসাথে পৃথিবীর চারপাশে মুক্তভাবে পড়ছেন।
+
+**কপিকল ও সুতা।** সুতা তার দৈর্ঘ্য বরাবর **টান** T দিয়ে টানে। কপিকলের ওপর দিয়ে ঝোলানো M ভর যদি মসৃণ টেবিলের m ভরকে টানে, প্রতিটিতে F = ma প্রয়োগ করো: টেবিলের ভরের জন্য T = ma, ঝোলানো ভরের জন্য Mg − T = Ma। যোগ করলে: **a = Mg ÷ (M + m)**।
+## analogy
+মহাকর্ষকে অন্ধকার ঘরে বাতির আলো ছড়িয়ে পড়ার মতো ভাবো। দ্বিগুণ দূরে গেলে আলো চার গুণ জায়গায় ছড়ায়, তাই চার গুণ ম্লান লাগে। মহাকর্ষও একইভাবে দুর্বল হয়: **দূরত্ব দ্বিগুণ → বল এক-চতুর্থাংশ**। সূত্রের d²-এর মানে এটাই।
+## definition
+**নিউটনের মহাকর্ষ সূত্র**: মহাবিশ্বের প্রতিটি বস্তুকণা অপর প্রতিটি বস্তুকণাকে আকর্ষণ করে এবং এই আকর্ষণ বলের মান বস্তুকণাদ্বয়ের ভরের গুণফলের সমানুপাতিক এবং এদের কেন্দ্রের মধ্যবর্তী দূরত্বের বর্গের ব্যস্তানুপাতিক।
+
+F = G m₁m₂ / d², যেখানে G = ৬.৬৭ × ১০^{-১১} N m² kg^{-২}।
+
+**ওজন**: পৃথিবী যে বলে কোনো বস্তুকে এর কেন্দ্রের দিকে আকর্ষণ করে। W = mg; একক নিউটন (N)।
+
+**অভিকর্ষজ ত্বরণ (g)**: পৃথিবীর অভিকর্ষের কারণে মুক্তভাবে পড়ন্ত বস্তুর ত্বরণ; পৃষ্ঠে g = GM/R² ≈ ৯.৮ m/s²।
+## why
+ওখানে g এখনো ৯.৫ m/s² হলে নভোচারীরা ওজনহীন অনুভব করেন কেন? **তুমি আর তোমার চারপাশের সবকিছু একসাথে পড়লে** যে অনুভূতি হয়, সেটিই ওজনহীনতা। স্টেশন সারাক্ষণ পৃথিবীর দিকে পড়ছে, কিন্তু পাশের দিকে এত দ্রুত চলছে যে বারবার পৃথিবীকে "মিস" করছে: এটিই কক্ষপথ। মেঝেও তোমার সমান দ্রুত পড়ছে বলে তোমাকে ঠেলে না, তাই ওজন অনুভব করো না।
+## terms
+মহাকর্ষীয় ধ্রুবক (G) | ৬.৬৭ × ১০^{-১১} N m² kg^{-২}
+ওজন (W) | বস্তুর ওপর পৃথিবীর টান, W = mg
+ভর | পদার্থের পরিমাণ; সব জায়গায় একই
+g | পৃথিবীপৃষ্ঠে ৯.৮ m/s²; উঁচুতে কম
+টান (T) | সুতা বরাবর টান, বস্তু থেকে দূরে
+## formula
+$$ F = G m₁m₂ ÷ d²
+$$ g = GM ÷ R²
+$$ W = mg
+$$ g' = g ÷ (১ + h/R)²
+tri W | m | g
+G | মহাকর্ষীয় ধ্রুবক | N m² kg⁻²
+M, R | পৃথিবীর ভর ও ব্যাসার্ধ | ৫.৯৮ × ১০²⁴ kg, ৬.৩৭ × ১০⁶ m
+d | কেন্দ্রদ্বয়ের দূরত্ব | m
+! ভর সব জায়গায় একই; ওজন g-এর সাথে বদলায়।
+## visual
+স্লাইডার সরিয়ে বা একটি জায়গায় (এভারেস্ট, মহাকাশ স্টেশন, h = R) চাপ দিয়ে পৃথিবী থেকে ওপরে যাও। তীর আর লেখচিত্র দেখায় g কমছে; h = R উচ্চতায় এটি ৯.৮ m/s²-এর মাত্র এক-চতুর্থাংশ।
+## real
+চাঁদে তোমার ভর একই থাকে, কিন্তু ওজন হয় প্রায় এক-ষষ্ঠাংশ, কারণ চাঁদের g প্রায় ১.৬ m/s²। বঙ্গোপসাগরে জোয়ার-ভাটা হয় চাঁদের মহাকর্ষ পৃথিবীর বিভিন্ন পাশে অসমানভাবে টানার কারণে।
+## example
+প্রশ্ন: পৃথিবীপৃষ্ঠে g হিসাব করো। (G = ৬.৬৭ × ১০^{-১১} N m² kg^{-২}, M = ৫.৯৮ × ১০^{২৪} kg, R = ৬.৩৭ × ১০^{৬} m)
+সূত্র: g = GM ÷ R²
+মান বসাই: g = (৬.৬৭ × ১০^{-১১} × ৫.৯৮ × ১০^{২৪}) ÷ (৬.৩৭ × ১০^{৬})²
+হিসাব: = (৩.৯৯ × ১০^{১৪}) ÷ (৪.০৬ × ১০^{১৩}) ≈ ৯.৮
+উত্তর: g ≈ ৯.৮ m/s²
+## example
+প্রশ্ন: একটি মহাকাশ স্টেশন পৃথিবীপৃষ্ঠ থেকে ১০০ km উঁচুতে। সেখানে g কত? (R = ৬৩৭০ km)
+সূত্র: g' = g ÷ (১ + h/R)²
+মান বসাই: g' = ৯.৮ ÷ (১ + ১০০/৬৩৭০)²
+হিসাব: = ৯.৮ ÷ (১.০১৫৭)² = ৯.৮ ÷ ১.০৩১৭ ≈ ৯.৫
+উত্তর: g' ≈ ৯.৫ m/s², শূন্যের ধারেকাছেও নয়।
+## example
+প্রশ্ন: কপিকলের ওপর দিয়ে ঝোলানো ২ kg একটি ভর সুতা দিয়ে মসৃণ টেবিলের ওপরের ৩ kg একটি ব্লকের সাথে বাঁধা। ত্বরণ ও টান বের করো।
+দেওয়া আছে: M = ২ kg (ঝোলানো), m = ৩ kg (টেবিলে), g = ৯.৮ m/s²
+সূত্র: a = Mg ÷ (M + m); T = ma
+হিসাব: a = ২ × ৯.৮ ÷ ৫ = ৩.৯২ m/s²; T = ৩ × ৩.৯২ = ১১.৭৬ N
+উত্তর: a = ৩.৯২ m/s², T ≈ ১১.৮ N
+> টান ঝোলানো ওজনের (১৯.৬ N) চেয়ে কম, তাই ঝোলানো ভর নিচের দিকে ত্বরিত হয়।
+## mistakes
+x ভর আর ওজন একই জিনিস।
+v ভর (kg) পদার্থের পরিমাণ, কখনো বদলায় না। ওজন (N) একটি বল, W = mg, g-এর সাথে বদলায়।
+x মহাকাশে অভিকর্ষ নেই, তাই নভোচারীরা ভাসেন।
+v স্টেশনে অভিকর্ষ পৃষ্ঠের প্রায় ৯৫%। নভোচারীরা ভাসেন কারণ তাঁরা স্টেশনসহ মুক্তভাবে পড়ছেন।
+x g পড়ন্ত বস্তুর ভরের ওপর নির্ভর করে।
+v g = GM/R²-এ শুধু পৃথিবীর ভর আছে; বস্তুর ভর কেটে যায়।
+## remember
+- F = Gm₁m₂/d²; G = ৬.৬৭ × ১০^{-১১} N m² kg^{-২}; টান পারস্পরিক।
+- g = GM/R² ≈ ৯.৮ m/s²; উচ্চতায় কমে: g' = g/(১ + h/R)²।
+- ওজন W = mg (নিউটন); ভর স্থির।
+- ঝোলানো ভর M ও টেবিলের ভর m সহ কপিকল: a = Mg/(M + m)।
+## think
+পৃথিবী ও চাঁদের দূরত্ব দ্বিগুণ হলে তাদের মধ্যকার মহাকর্ষ বল কীভাবে বদলাত?
+## quiz
+? দুটি ভরের দূরত্ব দ্বিগুণ করলে মহাকর্ষ বল হয়:
+- দ্বিগুণ
+- অর্ধেক
+* এক-চতুর্থাংশ
+- চার গুণ
+= F ∝ ১/d²; d দ্বিগুণ হলে F এক-চতুর্থাংশ।
+? পৃথিবীতে (g = ৯.৮ m/s²) ১০ kg একটি ব্যাগের ওজন:
+- ১০ N
+- ০.৯৮ N
+* ৯৮ N
+- ৯৮০ N
+= W = mg = ১০ × ৯.৮ = ৯৮ N।
+? কক্ষপথে ঘোরা মহাকাশ স্টেশনে নভোচারীরা ওজনহীন অনুভব করেন কারণ:
+- সেখানে অভিকর্ষ নেই
+* তাঁরা আর স্টেশন একসাথে মুক্তভাবে পড়ছেন
+- তাঁদের ভর শূন্য হয়ে যায়
+- স্টেশনে বাতাস নেই
+= অভিকর্ষ তখনো কাজ করে; একসাথে মুক্ত পতনে ওজনের অনুভূতি থাকে না।
+
+@@ 3.8
+@visual push
+@related 3.6 3.5 3.9
+== en
+## what
+**Newton's third law**: when one object pushes or pulls another, the second object pushes or pulls back on the first with a force of **equal size in the opposite direction**. These two forces act on **different** objects.
+## simple
+You may have heard it as "every action has an equal and opposite reaction". A beginner's first question is: if every force has an equal and opposite partner, why don't they cancel and leave nothing?
+
+The answer is the most important part of the law: **the two forces act on two different objects**. Forces cancel only when they act on the same object. If A pushes B, then B pushes A. One force is on B, the other is on A. There is nothing to cancel.
+
+**You pull the Earth!** When a 1 kg stone falls, the Earth pulls it with about 9.8 N. By the third law, the stone pulls the Earth with 9.8 N too. The stone accelerates at 9.8 m/s². The Earth, with its enormous mass (6 × 10^{24} kg), accelerates by only about 1.6 × 10^{-24} m/s², far too small to notice. Next time you jump, remember you pulled the whole Earth towards you!
+
+**How do we walk?** To start walking you need a forward force, but nobody pushes you. Here is the trick: your foot pushes the ground **backwards**. By the third law, the ground pushes you **forwards**. That forward push accelerates you.
+
+That is why walking on loose sand is hard (the sand slides away, so you can't push on it properly), and walking on a floor covered with soapy water or oil is nearly impossible: with no friction, your foot can't push the floor backwards, so the floor can't push you forwards.
+## analogy
+You can't touch something without it touching you back. Clap your hands: both hands feel the hit. When you walk, your foot pushes the ground **backwards**, and the ground pushes you **forwards**; that is why walking on a slippery floor is hard: the floor can't push back well. Forces always come in pairs.
+## definition
+**Newton's third law of motion**: when an object exerts a force on another object, the second object exerts a force of equal magnitude on the first object in the opposite direction.
+
+The two forces (action and reaction) act on different objects and are of the same kind (both gravitational, both contact forces, etc.).
+## why
+Why doesn't the Earth visibly move when you jump? The forces are equal, but a = F ÷ m. The Earth's mass is about 10^{23} times yours, so its acceleration is 10^{23} times smaller than yours. Equal forces do **not** mean equal effects.
+## terms
+Action and reaction | The two equal and opposite forces between two objects
+Third-law pair | The two forces always act on different objects
+Recoil | Backward motion of a gun or cannon when it fires
+## formula
+$$ F_{A on B} = −F_{B on A}
+! Equal in size, opposite in direction, acting on different objects.
+## visual
+On a frictionless surface, a 50 kg person pushes a 100 kg stone with 50 N for 2 s. Both feel the same force in opposite directions; the lighter one moves off faster.
+## real
+A rocket pushes hot gas downwards out of its nozzle; the gas pushes the rocket upwards. A boat rower pushes water backwards with the oar; the water pushes the boat forwards. A garden hose pushes back in your hands when water rushes out.
+## example
+Q: You (50 kg) stand on a frictionless floor and push a 100 kg stone with 50 N for 2 s. What happens to you and the stone?
+Given: F = 50 N on the stone; by the third law, 50 N on you in the opposite direction
+Calculation: stone: a = 50 ÷ 100 = 0.5 m/s² → after 2 s, v = 1 m/s; you: a = 50 ÷ 50 = 1 m/s² → after 2 s, v = 2 m/s backwards
+Answer: The stone moves forward at 1 m/s and you slide backwards at 2 m/s. You can't keep pushing, because a gap opens between you.
+## mistakes
+x Action and reaction cancel each other, so there is no motion.
+v They act on different objects, so they never cancel each other.
+x A heavier object exerts a bigger force than a lighter one in a collision.
+v Both forces are always equal. The lighter object simply accelerates more.
+x The weight of a book and the table's push on it are an action–reaction pair.
+v Both act on the book, so they are not a third-law pair. The partner of the book's weight is the book pulling the Earth upward.
+## remember
+- Third law: A on B = −(B on A): equal size, opposite direction.
+- The two forces act on different objects, so they don't cancel.
+- Walking: foot pushes ground back → ground pushes you forward (needs friction).
+- Equal forces, unequal effects: a = F/m.
+## think
+A horse pulls a cart. By the third law, the cart pulls back on the horse with an equal force. So how do the horse and cart ever start moving? (Hint: look at the forces on the horse only, including the ground.)
+## quiz
+? Action and reaction forces:
+- Act on the same object
+* Act on different objects
+- Are unequal in size
+- Act in the same direction
+= The third-law pair always acts on two different objects.
+? When you walk, the forward force on you comes from:
+- Your muscles directly
+* The ground pushing you forward
+- Air pressure
+- Gravity
+= Your foot pushes the ground backwards, and the ground pushes you forwards.
+? A 60 kg person and a 30 kg person on ice push each other apart. Compared with the 60 kg person, the 30 kg person gets:
+- Half the force
+- Half the acceleration
+* Twice the acceleration
+- Twice the force
+= Equal forces; a = F/m, so half the mass gives twice the acceleration.
+== bn
+## what
+**নিউটনের তৃতীয় গতিসূত্র**: একটি বস্তু অন্য বস্তুকে ঠেললে বা টানলে দ্বিতীয় বস্তুও প্রথম বস্তুকে **সমান মানের ও বিপরীত দিকের** বল দিয়ে ঠেলে বা টানে। এই দুটি বল **ভিন্ন ভিন্ন** বস্তুর ওপর কাজ করে।
+## simple
+হয়তো শুনেছ, "প্রত্যেক ক্রিয়ারই সমান ও বিপরীত প্রতিক্রিয়া আছে"। নতুনদের প্রথম প্রশ্ন: প্রতিটি বলের যদি সমান ও বিপরীত একটি জোড়া থাকে, তাহলে এরা কাটাকাটি হয়ে শূন্য হয় না কেন?
+
+উত্তরটাই সূত্রের সবচেয়ে গুরুত্বপূর্ণ অংশ: **দুটি বল দুটি আলাদা বস্তুর ওপর কাজ করে**। বল কাটাকাটি হয় শুধু একই বস্তুর ওপর কাজ করলে। A যদি B কে ঠেলে, তাহলে B ঠেলে A কে। একটি বল B-এর ওপর, অন্যটি A-এর ওপর। কাটাকাটির কিছু নেই।
+
+**তুমি পৃথিবীকে টানো!** ১ kg একটি পাথর পড়লে পৃথিবী একে প্রায় ৯.৮ N বলে টানে। তৃতীয় সূত্র অনুযায়ী পাথরও পৃথিবীকে ৯.৮ N বলে টানে। পাথরের ত্বরণ ৯.৮ m/s²। বিশাল ভরের (৬ × ১০^{২৪} kg) পৃথিবীর ত্বরণ মাত্র প্রায় ১.৬ × ১০^{-২৪} m/s², টের পাওয়ার মতো নয়। এরপর লাফ দিলে মনে রেখো, তুমি পুরো পৃথিবীকে নিজের দিকে টেনেছ!
+
+**আমরা হাঁটি কীভাবে?** হাঁটা শুরু করতে সামনের দিকে বল লাগে, কিন্তু কেউ তোমাকে ঠেলছে না। কৌশলটা হলো: তোমার পা মাটিকে **পেছনে** ঠেলে। তৃতীয় সূত্র অনুযায়ী মাটি তোমাকে **সামনে** ঠেলে। এই সামনের ঠেলাই তোমাকে ত্বরিত করে।
+
+এজন্যই আলগা বালুতে হাঁটা কঠিন (বালু সরে যায়, তাই ঠিকমতো ঠেলা যায় না), আর সাবান-পানি বা তেলে ঢাকা মেঝেতে হাঁটা প্রায় অসম্ভব: ঘর্ষণ না থাকায় পা মেঝেকে পেছনে ঠেলতে পারে না, তাই মেঝেও তোমাকে সামনে ঠেলতে পারে না।
+## analogy
+কোনো কিছু ছুঁলে সেটিও তোমাকে ছোঁয়। হাততালি দাও: দুই হাতই আঘাত টের পায়। হাঁটার সময় তোমার পা মাটিকে **পেছনে** ঠেলে, আর মাটি তোমাকে **সামনে** ঠেলে; তাই পিচ্ছিল মেঝেতে হাঁটা কঠিন: মেঝে ঠিকমতো পাল্টা ঠেলতে পারে না। বল সবসময় জোড়ায় জোড়ায় আসে।
+## definition
+**নিউটনের তৃতীয় গতিসূত্র**: যখন একটি বস্তু অন্য একটি বস্তুর ওপর বল প্রয়োগ করে, তখন দ্বিতীয় বস্তুটিও প্রথম বস্তুর ওপর বিপরীত দিকে সমান মানের বল প্রয়োগ করে।
+
+দুটি বল (ক্রিয়া ও প্রতিক্রিয়া) ভিন্ন বস্তুর ওপর কাজ করে এবং একই ধরনের (দুটোই মহাকর্ষ, দুটোই স্পর্শ বল, ইত্যাদি)।
+## why
+তুমি লাফ দিলে পৃথিবী দৃশ্যমানভাবে নড়ে না কেন? বল সমান, কিন্তু a = F ÷ m। পৃথিবীর ভর তোমার প্রায় ১০^{২৩} গুণ, তাই এর ত্বরণ তোমার চেয়ে ১০^{২৩} গুণ কম। সমান বল মানে সমান প্রভাব **নয়**।
+## terms
+ক্রিয়া ও প্রতিক্রিয়া | দুটি বস্তুর মধ্যে সমান ও বিপরীত দুটি বল
+তৃতীয় সূত্রের জোড়া | দুটি বল সবসময় ভিন্ন বস্তুর ওপর কাজ করে
+পশ্চাৎ ধাক্কা | গুলি ছোড়ার সময় বন্দুক বা কামানের পেছনে সরে যাওয়া
+## formula
+$$ F_{A দ্বারা B-তে} = −F_{B দ্বারা A-তে}
+! মানে সমান, দিকে বিপরীত, ভিন্ন বস্তুর ওপর।
+## visual
+ঘর্ষণহীন তলে ৫০ kg-এর একজন মানুষ ১০০ kg-এর একটি পাথরকে ২ s ধরে ৫০ N বলে ঠেলেন। দুজনেই বিপরীত দিকে একই বল অনুভব করেন; হালকাজন দ্রুত সরে যান।
+## real
+রকেট তার নল দিয়ে গরম গ্যাস নিচে ঠেলে বের করে; গ্যাস রকেটকে ওপরে ঠেলে। নৌকার মাঝি বৈঠা দিয়ে পানিকে পেছনে ঠেলেন; পানি নৌকাকে সামনে ঠেলে। পানির পাইপ দিয়ে জোরে পানি বের হলে পাইপ হাতে পেছনে ধাক্কা দেয়।
+## example
+প্রশ্ন: তুমি (৫০ kg) ঘর্ষণহীন মেঝেতে দাঁড়িয়ে ১০০ kg-এর একটি পাথরকে ২ s ধরে ৫০ N বলে ঠেললে। তোমার আর পাথরের কী হবে?
+দেওয়া আছে: পাথরের ওপর F = ৫০ N; তৃতীয় সূত্র অনুযায়ী তোমার ওপর বিপরীত দিকে ৫০ N
+হিসাব: পাথর: a = ৫০ ÷ ১০০ = ০.৫ m/s² → ২ s পর v = ১ m/s; তুমি: a = ৫০ ÷ ৫০ = ১ m/s² → ২ s পর পেছনে v = ২ m/s
+উত্তর: পাথর ১ m/s বেগে সামনে যায় আর তুমি ২ m/s বেগে পেছনে সরে যাও। একটানা ঠেলতে পারবে না, কারণ মাঝে ফাঁক তৈরি হয়।
+## mistakes
+x ক্রিয়া ও প্রতিক্রিয়া কাটাকাটি হয়, তাই গতি হয় না।
+v এরা ভিন্ন বস্তুর ওপর কাজ করে, তাই কখনো একে অপরকে বাতিল করে না।
+x সংঘর্ষে ভারী বস্তু হালকা বস্তুর চেয়ে বেশি বল দেয়।
+v দুটি বল সবসময় সমান। হালকা বস্তুর শুধু ত্বরণ বেশি হয়।
+x বইয়ের ওজন আর বইয়ের ওপর টেবিলের ঠেলা একটি ক্রিয়া-প্রতিক্রিয়া জোড়া।
+v দুটিই বইয়ের ওপর কাজ করে, তাই এরা তৃতীয় সূত্রের জোড়া নয়। বইয়ের ওজনের জোড়া হলো বই পৃথিবীকে ওপরের দিকে টানা।
+## remember
+- তৃতীয় সূত্র: A দ্বারা B-তে = −(B দ্বারা A-তে): মানে সমান, দিকে বিপরীত।
+- দুটি বল ভিন্ন বস্তুর ওপর, তাই কাটাকাটি হয় না।
+- হাঁটা: পা মাটিকে পেছনে ঠেলে → মাটি তোমাকে সামনে ঠেলে (ঘর্ষণ লাগে)।
+- সমান বল, অসমান প্রভাব: a = F/m।
+## think
+একটি ঘোড়া গাড়ি টানছে। তৃতীয় সূত্র অনুযায়ী গাড়িও ঘোড়াকে সমান বলে পেছনে টানে। তাহলে ঘোড়া আর গাড়ি চলতে শুরু করে কীভাবে? (ইঙ্গিত: শুধু ঘোড়ার ওপরের বলগুলো দেখো, মাটিসহ।)
+## quiz
+? ক্রিয়া ও প্রতিক্রিয়া বল:
+- একই বস্তুর ওপর কাজ করে
+* ভিন্ন বস্তুর ওপর কাজ করে
+- মানে অসমান
+- একই দিকে কাজ করে
+= তৃতীয় সূত্রের জোড়া সবসময় দুটি আলাদা বস্তুর ওপর কাজ করে।
+? হাঁটার সময় তোমার ওপর সামনের দিকের বল আসে:
+- সরাসরি তোমার পেশি থেকে
+* মাটি তোমাকে সামনে ঠেলে বলে
+- বায়ুচাপ থেকে
+- অভিকর্ষ থেকে
+= পা মাটিকে পেছনে ঠেলে, আর মাটি তোমাকে সামনে ঠেলে।
+? বরফের ওপর ৬০ kg ও ৩০ kg-এর দুজন একে অপরকে ঠেলে সরে গেল। ৬০ kg-এর তুলনায় ৩০ kg-এর জন পান:
+- অর্ধেক বল
+- অর্ধেক ত্বরণ
+* দ্বিগুণ ত্বরণ
+- দ্বিগুণ বল
+= বল সমান; a = F/m, তাই অর্ধেক ভরে দ্বিগুণ ত্বরণ।
+
+@@ 3.9
+@visual friction
+@related 3.8 3.1 4.1
+== en
+## what
+**Friction** is the force that opposes motion (or attempted motion) between two surfaces in contact. It slows things down and wastes energy as heat, but without it we could not walk, drive, write or even hold things.
+## simple
+**Why friction happens.** Even surfaces that look perfectly smooth are rough under a microscope, full of tiny bumps and grooves. When two surfaces touch, these bumps catch on each other and resist sliding. Press the surfaces together harder, and the bumps dig in more, so friction increases. That is why a heavier box is harder to slide.
+
+Friction always acts **opposite to the direction** in which an object moves or tries to move.
+
+**Three types of friction:**
+
+1. **Static friction**: between surfaces **not yet moving** relative to each other. It is what stops your shoes slipping when you walk. Its size adjusts to match your push, up to a maximum: f_{s,max} = μ_{s}N, where N is the normal force and μ_{s} is the **coefficient of static friction**.
+2. **Kinetic (sliding) friction**: between surfaces **sliding** over each other. A bicycle brake pad rubbing the wheel is an example. f_{k} = μ_{k}N. It is usually a little less than the maximum static friction, which is why it's harder to start pushing a heavy box than to keep it going.
+3. **Rolling friction**: when something **rolls** over a surface. It is the **smallest** type of friction, which is why vehicles have wheels and suitcases have little wheels.
+
+**Friction on the road.** Tyres have grooves to grip the road; worn-out, flat tyres make a car skid when braking. Pitch-carpeted (bitumen) roads increase grip and keep water out. Water-logged roads, gravel or ice reduce friction and cause accidents. Brakes work by pressing a pad against a disc: the friction between them stops the wheel.
+
+**Reducing friction:** make surfaces smoother, use lubricants (oil, grease, "Mobil"), use wheels and **ball bearings** (rolling instead of sliding), give vehicles a **streamlined** shape, reduce the contact area, and reduce the force pressing the surfaces together.
+
+**Increasing friction:** roughen surfaces, press them together harder, make grooves or treads (tyres, shoe soles), and remove wheels or bearings.
+
+**A necessary evil.** Friction wastes fuel, heats up engines and wears out machines. But without it we couldn't walk, cars couldn't move or stop, a pencil couldn't write, nails and screws wouldn't hold, and parachutes (air friction) couldn't slow a skydiver.
+## analogy
+Press two hairbrushes together, bristles facing each other, and try to slide them. The bristles catch on each other. Every surface, even one that looks smooth, has tiny bumps like those bristles when seen under a microscope. **Friction** is those bumps catching. Press harder (bigger N) and they catch more.
+## definition
+**Friction (frictional force)**: the force that develops at the surface of contact between two objects and opposes their relative motion or attempted motion.
+
+- **Static friction**: friction between two surfaces at rest relative to each other. Maximum value f_{s} = μ_{s}N.
+- **Kinetic friction**: friction between two surfaces in relative sliding motion. f_{k} = μ_{k}N.
+- **Rolling friction**: friction when an object rolls over a surface; the smallest of the three.
+
+Here N is the normal force pressing the surfaces together, and μ is the coefficient of friction (no unit).
+## why
+Why does a matchbox on a tilted book start sliding at a certain angle, no matter how many boxes you stack? The pull down the slope and the maximum static friction both grow in proportion to the weight. So the weight cancels out, and the box slides when **tan θ = μ_{s}**. The angle depends only on the surfaces, not on the load.
+## terms
+Friction | Force opposing relative motion of surfaces in contact
+Normal force (N) | Force pressing the surfaces together
+Coefficient of friction (μ) | Friction ÷ normal force; no unit
+Static friction | Friction before sliding starts
+Kinetic friction | Friction during sliding
+Rolling friction | Friction during rolling; the smallest
+Lubricant | Oil or grease used to reduce friction
+Ball bearing | Small steel balls that replace sliding with rolling
+## formula
+$$ f_{s} ≤ μ_{s}N
+$$ f_{k} = μ_{k}N
+$$ On a level floor: N = mg
+$$ Sliding starts on a slope when tan θ = μ_{s}
+f | friction force | N
+N | normal force | N
+μ | coefficient of friction | –
+## visual
+Tilt the book slowly. The red arrow is the pull down the slope; the green arrow is friction holding the box back. The box stays while friction can match the pull, and slides once tan θ is bigger than μs. Try a rougher surface (bigger μs).
+## real
+Rubbing your palms together on a winter morning warms them by friction. Anti-skid tiles in bathrooms, grooved rubber soles on football boots and chalk on a gymnast's hands all increase friction on purpose. Engine oil in a motorbike reduces friction between moving metal parts so they don't overheat and wear out.
+## example
+Q: A 10 kg wooden block rests on a floor with coefficient of friction μ = 0.01. What force is needed to move it? What if a 100 kg stone is placed on the block? (g = 9.8 m/s²)
+Given: μ = 0.01; m = 10 kg (then 110 kg); on a level floor N = mg
+Formula: f = μN = μmg
+Calculation: f = 0.01 × 10 × 9.8 = 0.98 N; with the stone: f = 0.01 × 110 × 9.8 = 10.78 N
+Answer: About 0.98 N without the stone and 10.78 N with it. On a completely frictionless floor, any tiny force would start it moving.
+## mistakes
+x Friction always acts opposite to the applied force.
+v Friction acts opposite to the (attempted) relative motion. When you walk, friction on your foot actually points forward.
+x Friction is always harmful.
+v It is a necessary evil: we need it to walk, drive, brake, write and hold things.
+x Smooth-looking surfaces have no friction.
+v Under a microscope all surfaces are rough; smoothness only reduces friction.
+## remember
+- Friction opposes relative motion between surfaces; caused by microscopic roughness.
+- Static (before sliding, max μ_{s}N), kinetic (sliding, μ_{k}N), rolling (smallest).
+- Reduce: smooth surfaces, lubricants, wheels, ball bearings, streamlining.
+- Increase: rough surfaces, grooves/treads, more pressing force.
+- Friction is a "necessary evil".
+## think
+Why is it dangerous to drive fast on a road just after the first rain following a long dry spell? (Hint: think about dust, oil and water on the road surface.)
+## quiz
+? Which type of friction is the smallest?
+- Static friction
+- Kinetic friction
+* Rolling friction
+- They are all equal
+= Rolling friction is the least, which is why wheels are used.
+? Ball bearings reduce friction by:
+- Making surfaces rough
+* Replacing sliding with rolling
+- Increasing the normal force
+- Adding water
+= Small steel balls roll between the parts instead of the parts sliding.
+? A 5 kg box on a floor with μ = 0.2. The friction force while it slides is (g = 9.8 m/s²):
+- 1 N
+- 5 N
+* 9.8 N
+- 49 N
+= f = μmg = 0.2 × 5 × 9.8 = 9.8 N.
+== bn
+## what
+**ঘর্ষণ** হলো সংস্পর্শে থাকা দুটি তলের মধ্যে গতি (বা গতির চেষ্টা) বাধা দেওয়া বল। এটি জিনিস ধীর করে আর শক্তিকে তাপ হিসেবে নষ্ট করে, কিন্তু এটা না থাকলে আমরা হাঁটতে, গাড়ি চালাতে, লিখতে, এমনকি কিছু ধরে রাখতেও পারতাম না।
+## simple
+**ঘর্ষণ কেন হয়।** পুরোপুরি মসৃণ মনে হওয়া তলও অণুবীক্ষণ যন্ত্রে খসখসে, ছোট ছোট উঁচু-নিচু খাঁজে ভরা। দুটি তল ছুঁলে এই খাঁজগুলো একে অপরের সাথে আটকে যায় আর পিছলানোয় বাধা দেয়। তলগুলো জোরে চেপে ধরলে খাঁজ আরও ঢুকে যায়, তাই ঘর্ষণ বাড়ে। এজন্যই ভারী বাক্স টানা কঠিন।
+
+ঘর্ষণ সবসময় বস্তু যে দিকে চলে বা চলতে চায় তার **বিপরীত দিকে** কাজ করে।
+
+**ঘর্ষণ তিন প্রকার:**
+
+1. **স্থিতি ঘর্ষণ**: যে তলগুলো একে অপরের সাপেক্ষে **এখনো নড়ছে না**, তাদের মধ্যে। হাঁটার সময় জুতা যে পিছলে যায় না, তা এরই কারণে। এর মান তোমার ঠেলার সাথে মিলিয়ে বদলায়, একটা সর্বোচ্চ সীমা পর্যন্ত: f_{s,max} = μ_{s}N, যেখানে N লম্ব বল আর μ_{s} হলো **স্থিতি ঘর্ষণ গুণাঙ্ক**।
+2. **গতীয় (পিছলানো) ঘর্ষণ**: একে অপরের ওপর দিয়ে **পিছলে চলা** তলের মধ্যে। সাইকেলের ব্রেক প্যাড চাকায় ঘষা এর উদাহরণ। f_{k} = μ_{k}N। এটি সাধারণত সর্বোচ্চ স্থিতি ঘর্ষণের চেয়ে একটু কম, তাই ভারী বাক্স ঠেলা শুরু করা চালু রাখার চেয়ে কঠিন।
+3. **আবর্ত (গড়ানো) ঘর্ষণ**: কোনো কিছু তলের ওপর দিয়ে **গড়িয়ে** চললে। এটি **সবচেয়ে কম** ঘর্ষণ, তাই যানবাহনে চাকা থাকে আর স্যুটকেসে ছোট চাকা লাগানো হয়।
+
+**রাস্তায় ঘর্ষণ।** রাস্তা আঁকড়ে ধরতে টায়ারে খাঁজ থাকে; খাঁজ ক্ষয়ে সমান হয়ে গেলে ব্রেক কষলে গাড়ি পিছলে যায়। পিচ-কার্পেটিং রাস্তা ঘর্ষণ বাড়ায় আর পানি ঢুকতে দেয় না। জলাবদ্ধ রাস্তা, নুড়ি বা বরফ ঘর্ষণ কমায় আর দুর্ঘটনা ঘটায়। ব্রেক কাজ করে একটি প্যাডকে ডিস্কে চেপে: তাদের মধ্যকার ঘর্ষণ চাকা থামায়।
+
+**ঘর্ষণ কমানোর উপায়:** তল মসৃণ করা, পিচ্ছিলকারক (তেল, গ্রিজ, মবিল) ব্যবহার, চাকা আর **বল বিয়ারিং** (পিছলানোর বদলে গড়ানো), যানবাহনকে **প্রবাহরেখী** আকার দেওয়া, স্পর্শের জায়গা কমানো, তলগুলোকে চেপে ধরা বল কমানো।
+
+**ঘর্ষণ বাড়ানোর উপায়:** তল খসখসে করা, জোরে চেপে ধরা, খাঁজ বা নকশা কাটা (টায়ার, জুতার তলা), চাকা বা বিয়ারিং সরিয়ে ফেলা।
+
+**একটি প্রয়োজনীয় উপদ্রব।** ঘর্ষণ জ্বালানি নষ্ট করে, ইঞ্জিন গরম করে, যন্ত্র ক্ষয় করে। কিন্তু এটা না থাকলে আমরা হাঁটতে পারতাম না, গাড়ি চলতে বা থামতে পারত না, পেনসিল লিখতে পারত না, পেরেক-স্ক্রু আটকে থাকত না, প্যারাসুট (বায়ুর ঘর্ষণ) স্কাইডাইভারকে ধীর করতে পারত না।
+## analogy
+দুটি চুলের ব্রাশ মুখোমুখি চেপে ধরে পিছলানোর চেষ্টা করো। শলাগুলো একে অপরে আটকে যায়। প্রতিটি তল, মসৃণ দেখালেও, অণুবীক্ষণ যন্ত্রে দেখলে ওই শলার মতো ছোট ছোট উঁচু-নিচু থাকে। সেগুলোর আটকে যাওয়াই **ঘর্ষণ**। জোরে চাপলে (N বড়) বেশি আটকায়।
+## definition
+**ঘর্ষণ (ঘর্ষণ বল)**: দুটি বস্তুর স্পর্শতলে উৎপন্ন যে বল তাদের আপেক্ষিক গতি বা গতির চেষ্টাকে বাধা দেয়।
+
+- **স্থিতি ঘর্ষণ**: একে অপরের সাপেক্ষে স্থির দুটি তলের মধ্যকার ঘর্ষণ। সর্বোচ্চ মান f_{s} = μ_{s}N।
+- **গতীয় ঘর্ষণ**: আপেক্ষিক পিছলানো গতিতে থাকা দুটি তলের মধ্যকার ঘর্ষণ। f_{k} = μ_{k}N।
+- **আবর্ত ঘর্ষণ**: কোনো বস্তু তলের ওপর দিয়ে গড়িয়ে চলার সময়ের ঘর্ষণ; তিনটির মধ্যে সবচেয়ে কম।
+
+এখানে N হলো তলগুলোকে চেপে ধরা লম্ব বল, আর μ ঘর্ষণ গুণাঙ্ক (একক নেই)।
+## why
+হেলানো বইয়ের ওপর দেশলাইয়ের বাক্স যত বাক্সই চাপাও, একটি নির্দিষ্ট কোণেই পিছলাতে শুরু করে কেন? ঢাল বরাবর টান আর সর্বোচ্চ স্থিতি ঘর্ষণ, দুটোই ওজনের সমানুপাতে বাড়ে। তাই ওজন কেটে যায়, আর **tan θ = μ_{s}** হলে বাক্স পিছলায়। কোণটি শুধু তলের ওপর নির্ভর করে, ভারের ওপর নয়।
+## terms
+ঘর্ষণ | সংস্পর্শে থাকা তলের আপেক্ষিক গতিতে বাধাদানকারী বল
+লম্ব বল (N) | তলগুলোকে চেপে ধরা বল
+ঘর্ষণ গুণাঙ্ক (μ) | ঘর্ষণ ÷ লম্ব বল; একক নেই
+স্থিতি ঘর্ষণ | পিছলানো শুরুর আগের ঘর্ষণ
+গতীয় ঘর্ষণ | পিছলানোর সময়ের ঘর্ষণ
+আবর্ত ঘর্ষণ | গড়ানোর সময়ের ঘর্ষণ; সবচেয়ে কম
+পিচ্ছিলকারক | ঘর্ষণ কমাতে ব্যবহৃত তেল বা গ্রিজ
+বল বিয়ারিং | পিছলানোর বদলে গড়ানোর জন্য ছোট ইস্পাতের বল
+## formula
+$$ f_{s} ≤ μ_{s}N
+$$ f_{k} = μ_{k}N
+$$ সমতল মেঝেতে: N = mg
+$$ ঢালে পিছলানো শুরু হয় যখন tan θ = μ_{s}
+f | ঘর্ষণ বল | N
+N | লম্ব বল | N
+μ | ঘর্ষণ গুণাঙ্ক | –
+## visual
+বইটি আস্তে আস্তে হেলাও। লাল তীর ঢাল বরাবর নিচের টান; সবুজ তীর ঘর্ষণ, যা বাক্সকে আটকে রাখে। ঘর্ষণ টানের সমান হতে পারলে বাক্স স্থির থাকে, আর tan θ, μs-এর চেয়ে বড় হলেই পিছলে যায়। বেশি অমসৃণ তল (বড় μs) দিয়ে চেষ্টা করো।
+## real
+শীতের সকালে দুই হাতের তালু ঘষলে ঘর্ষণে গরম হয়। বাথরুমের অ্যান্টি-স্কিড টাইলস, ফুটবল বুটের খাঁজকাটা রাবারের তলা আর জিমন্যাস্টের হাতে চক, সবই ইচ্ছে করে ঘর্ষণ বাড়ায়। মোটরসাইকেলের ইঞ্জিন অয়েল চলন্ত ধাতব অংশের মধ্যে ঘর্ষণ কমায়, যাতে এগুলো অতিরিক্ত গরম হয়ে ক্ষয়ে না যায়।
+## example
+প্রশ্ন: ১০ kg-এর একটি কাঠের টুকরা এমন মেঝেতে আছে যার ঘর্ষণ গুণাঙ্ক μ = ০.০১। এটি সরাতে কত বল লাগবে? টুকরাটির ওপর ১০০ kg-এর একটি পাথর রাখলে কত লাগবে? (g = ৯.৮ m/s²)
+দেওয়া আছে: μ = ০.০১; m = ১০ kg (পরে ১১০ kg); সমতল মেঝেতে N = mg
+সূত্র: f = μN = μmg
+হিসাব: f = ০.০১ × ১০ × ৯.৮ = ০.৯৮ N; পাথরসহ: f = ০.০১ × ১১০ × ৯.৮ = ১০.৭৮ N
+উত্তর: পাথর ছাড়া প্রায় ০.৯৮ N, পাথরসহ ১০.৭৮ N। সম্পূর্ণ ঘর্ষণহীন মেঝেতে সামান্যতম বলেও এটি চলতে শুরু করত।
+## mistakes
+x ঘর্ষণ সবসময় প্রযুক্ত বলের বিপরীতে কাজ করে।
+v ঘর্ষণ আপেক্ষিক গতির (বা চেষ্টার) বিপরীতে কাজ করে। হাঁটার সময় পায়ের ওপর ঘর্ষণ আসলে সামনের দিকে।
+x ঘর্ষণ সবসময় ক্ষতিকর।
+v এটি প্রয়োজনীয় উপদ্রব: হাঁটা, গাড়ি চালানো, ব্রেক কষা, লেখা আর কিছু ধরে রাখতে এটা লাগে।
+x মসৃণ দেখতে তলে ঘর্ষণ নেই।
+v অণুবীক্ষণে সব তলই খসখসে; মসৃণতা শুধু ঘর্ষণ কমায়।
+## remember
+- ঘর্ষণ তলের আপেক্ষিক গতিতে বাধা দেয়; কারণ অণুবীক্ষণিক খসখসে ভাব।
+- স্থিতি (পিছলানোর আগে, সর্বোচ্চ μ_{s}N), গতীয় (পিছলানোর সময়, μ_{k}N), আবর্ত (সবচেয়ে কম)।
+- কমানো: মসৃণ তল, পিচ্ছিলকারক, চাকা, বল বিয়ারিং, প্রবাহরেখী আকার।
+- বাড়ানো: খসখসে তল, খাঁজ, বেশি চেপে ধরা।
+- ঘর্ষণ একটি "প্রয়োজনীয় উপদ্রব"।
+## think
+দীর্ঘ শুকনো মৌসুমের পর প্রথম বৃষ্টিতে জোরে গাড়ি চালানো বিপজ্জনক কেন? (ইঙ্গিত: রাস্তার ওপরের ধুলা, তেল আর পানির কথা ভাবো।)
+## quiz
+? কোন প্রকার ঘর্ষণ সবচেয়ে কম?
+- স্থিতি ঘর্ষণ
+- গতীয় ঘর্ষণ
+* আবর্ত ঘর্ষণ
+- সবগুলো সমান
+= আবর্ত ঘর্ষণ সবচেয়ে কম, তাই চাকা ব্যবহার করা হয়।
+? বল বিয়ারিং ঘর্ষণ কমায়:
+- তল খসখসে করে
+* পিছলানোর বদলে গড়ানো ঘটিয়ে
+- লম্ব বল বাড়িয়ে
+- পানি যোগ করে
+= অংশগুলো পিছলানোর বদলে মাঝখানের ছোট ইস্পাতের বল গড়ায়।
+? μ = ০.২ মেঝেতে ৫ kg-এর একটি বাক্স পিছলে চলছে। ঘর্ষণ বল (g = ৯.৮ m/s²):
+- ১ N
+- ৫ N
+* ৯.৮ N
+- ৪৯ N
+= f = μmg = ০.২ × ৫ × ৯.৮ = ৯.৮ N।

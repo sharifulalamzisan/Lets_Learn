@@ -1,0 +1,2369 @@
+@@chapter
+== en
+## intro
+Chemistry asks two kinds of questions about a substance. **What is it?** (identifying an element or compound and its properties) is *qualitative analysis*. **How much of it is there?** is *quantitative analysis*. Answering "how much" needs calculation, and all these calculations together are called **chemical counting**. How many grams of oxygen does 5 g of magnesium need to burn? How much salt must you weigh out to make a solution of a given strength? How many molecules are in one drop of water? This chapter gives you the tool to answer all of them: the **mole**.
+
+You will learn what a mole is and why chemists count atoms in "packets" of 6.023 × 10^{23}, how moles connect mass, number of particles and gas volume, how to make solutions of a chosen molarity, how to find the percentage composition, empirical formula and molecular formula of a compound, how to write and balance chemical equations, and how to use a balanced equation to calculate the amounts of reactants and products, including the limiting reactant and the percentage yield.
+## objectives
+- explain the mole and Avogadro's number and do simple calculations with them
+- convert between mass, moles, number of particles and gas volume at STP
+- explain what a molecular formula tells us in terms of moles
+- prepare solutions of a given molarity and solve molarity problems
+- calculate the percentage composition of elements in a compound, including the water of crystallisation in blue vitriol
+- find the empirical and molecular formulae from percentage composition
+- write chemical equations with states and balance them
+- calculate masses, volumes and numbers of particles of reactants and products from a balanced equation
+- identify the limiting reactant and calculate the percentage yield
+== bn
+## intro
+রসায়নে কোনো পদার্থ নিয়ে দুই রকম প্রশ্ন করা হয়। **এটা কী?** (কোন মৌল বা যৌগ, এর ধর্ম কী) শনাক্ত করাকে বলে *গুণগত বিশ্লেষণ*। **এটা কতটুকু আছে?** তা নির্ণয় করাকে বলে *পরিমাণগত বিশ্লেষণ*। "কতটুকু" জানতে হিসাব-নিকাশ লাগে, আর এসব হিসাব-নিকাশকে একসাথে বলে **রাসায়নিক গণনা**। ৫ g ম্যাগনেসিয়াম পোড়াতে কত গ্রাম অক্সিজেন লাগবে? নির্দিষ্ট ঘনমাত্রার দ্রবণ বানাতে কত গ্রাম লবণ মাপতে হবে? এক ফোঁটা পানিতে কয়টি অণু আছে? এই সব প্রশ্নের উত্তর দেওয়ার হাতিয়ার এই অধ্যায়ে পাবে: **মোল**।
+
+তুমি শিখবে মোল কী এবং রসায়নবিদেরা কেন পরমাণুকে ৬.০২৩ × ১০^{২৩}টির "প্যাকেটে" গোনেন, মোল কীভাবে ভর, কণার সংখ্যা আর গ্যাসের আয়তনকে জুড়ে দেয়, নির্দিষ্ট মোলারিটির দ্রবণ কীভাবে বানাতে হয়, যৌগে মৌলের শতকরা সংযুতি, স্থূল সংকেত ও আণবিক সংকেত কীভাবে বের করতে হয়, রাসায়নিক সমীকরণ কীভাবে লিখে সমতা করতে হয়, আর সমতাকৃত সমীকরণ থেকে বিক্রিয়ক ও উৎপাদের পরিমাণ, লিমিটিং বিক্রিয়ক এবং উৎপাদের শতকরা পরিমাণ কীভাবে হিসাব করতে হয়।
+## objectives
+- মোল ও অ্যাভোগাড্রো সংখ্যা ব্যাখ্যা করতে এবং এদের দিয়ে সহজ হিসাব করতে পারবে
+- ভর, মোল, কণার সংখ্যা আর প্রমাণ অবস্থায় গ্যাসের আয়তন একটি থেকে আরেকটিতে রূপান্তর করতে পারবে
+- মোলের ভাষায় আণবিক সংকেত কী তথ্য দেয় ব্যাখ্যা করতে পারবে
+- নির্দিষ্ট মোলারিটির দ্রবণ প্রস্তুত করতে এবং মোলারিটির সমস্যা সমাধান করতে পারবে
+- যৌগে মৌলের শতকরা সংযুতি, তুঁতের কেলাস পানির শতকরা পরিমাণসহ, হিসাব করতে পারবে
+- শতকরা সংযুতি থেকে স্থূল সংকেত ও আণবিক সংকেত নির্ণয় করতে পারবে
+- ভৌত অবস্থাসহ রাসায়নিক সমীকরণ লিখতে ও সমতা করতে পারবে
+- সমতাকৃত সমীকরণ থেকে বিক্রিয়ক ও উৎপাদের ভর, আয়তন ও কণার সংখ্যা হিসাব করতে পারবে
+- লিমিটিং বিক্রিয়ক শনাক্ত করতে এবং উৎপাদের শতকরা পরিমাণ হিসাব করতে পারবে
+
+@@ 6.1
+@visual k6mole
+@related 6.1.1 6.1.2 3.9 3.2
+== en
+## what
+A **mole** is the amount of a substance that contains **6.023 × 10^{23}** particles (atoms, molecules or ions). This number is **Avogadro's number** (Nₐ), and one mole of a substance has a mass equal to its atomic or molecular mass written in grams.
+## simple
+At the bazar, nobody sells eggs one by one; they sell them by the **hali** (4) or the **dozen** (12). Paper comes in **reams** (500 sheets). A convenient "counting unit" makes large numbers easy to handle.
+
+Atoms are so tiny that even a pinch of salt contains billions of billions of them. So chemists use a much bigger counting unit:
+
+- 12 O₂ molecules = 1 dozen O₂
+- 1000 O₂ molecules = 1 thousand O₂
+- **6.023 × 10^{23} O₂ molecules = 1 mole O₂**
+
+The mole works for any kind of particle: 1 mole of atoms contains 6.023 × 10^{23} atoms, 1 mole of molecules contains 6.023 × 10^{23} molecules, and 1 mole of ions contains 6.023 × 10^{23} ions. This special number is called **Avogadro's number**, Nₐ.
+
+**Why such a strange number?** Because it makes the masses come out beautifully. It is exactly the number of carbon atoms in **12 g of carbon**, and carbon's atomic mass is 12. The same trick works for every substance: **1 mole has a mass equal to its atomic or molecular mass in grams.**
+
+- 1 mole C = 12 g C (6.023 × 10^{23} C atoms)
+- 1 mole H₂O = 18 g H₂O (6.023 × 10^{23} H₂O molecules)
+- 1 mole Cl₂ = 71 g Cl₂
+
+**Finding the molecular mass.** Add up the atomic masses of all the atoms in the formula (from [[3.9|lesson 3.9]]).
+- Cl₂: 2 × 35.5 = 71
+- NaCl: 23 + 35.5 = 58.5
+- CuSO₄·5H₂O (blue vitriol, তুঁতে): 1 Cu, 1 S, 9 O and 10 H, so 63.5 + 32 + 9 × 16 + 10 × 1 = 249.5
+
+The mass of one mole, in grams, is often called the **molar mass** (M), unit g/mol.
+
+**The two key relations.** If a sample has mass w grams and molecular mass M, then
+- number of moles: **n = w ÷ M**
+- number of particles: **N = n × Nₐ**
+
+With these two you can go from grams to moles to particles and back again. The book uses Nₐ = 6.023 × 10^{23}; the modern measured value is 6.022 × 10^{23}, and the difference is too small to matter in our calculations.
+## analogy
+Think of a mole as a very big **dozen**. A dozen bananas and a dozen jackfruits contain the same *number* of fruits, but the jackfruits weigh far more. Likewise, 1 mole of hydrogen (2 g) and 1 mole of sugar (342 g) contain the same number of molecules; only the mass of each packet differs.
+## definition
+**Mole (মোল)**: the amount of a substance that contains Avogadro's number (6.023 × 10^{23}) of its particles (atoms, molecules or ions). Equivalently, one mole is the atomic mass (for atoms) or molecular mass (for molecules) of the substance expressed in grams.
+
+**Avogadro's number (Nₐ)**: the number of particles in one mole, 6.023 × 10^{23} (it equals the number of atoms in exactly 12 g of carbon-12).
+
+**Molecular mass**: the sum of the atomic masses of all the atoms in one molecule.
+## why
+Why does "atomic mass in grams" always contain the same number of particles? Atomic masses are *relative*: an oxygen atom is 16/12 times as heavy as a carbon atom. So if 12 g of carbon holds Nₐ atoms, then 16 g of oxygen, being 16/12 times as heavy per atom and 16/12 times as heavy in total, must hold the same Nₐ atoms. The ratios cancel. That is why one number works for every substance.
+## terms
+Mole (mol) | Amount of substance containing 6.023 × 10^{23} particles
+Avogadro's number (Nₐ) | 6.023 × 10^{23}, the number of particles in 1 mole
+Molecular mass | Sum of the atomic masses of all atoms in a molecule
+Molar mass (M) | Mass of 1 mole of a substance in grams (g/mol)
+Chemical counting | All the calculations of the amounts of substances in chemistry
+## formula
+$$ n = w/M
+$$ N = n × Nₐ
+tri w | n | M
+tri N | n | Nₐ
+n | number of moles | mol
+w | mass of the sample | g
+M | molecular (or atomic) mass | g/mol
+N | number of particles (atoms, molecules or ions) | —
+Nₐ | Avogadro's number, 6.023 × 10^{23} | per mol
+! Mass of one particle = M ÷ Nₐ grams.
+! Combining the two: N = (w/M) × Nₐ.
+## visual
+Choose a substance, then type a mass or slide the number of moles; watch the other quantities change, and see the molecules counted out in "mole packets".
+## real
+A pharmacist making oral saline (ORS) follows a recipe in grams, but the recipe was designed in moles, so that the right *number* of sodium ions and glucose molecules reach your body. When a doctor's report says blood glucose is "5.5 mmol/L", it is counting glucose molecules in millimoles, not grams.
+## example
+Q: What is the mass of one H₂O molecule?
+Given: M(H₂O) = 2 × 1 + 16 = 18, so 1 mole H₂O = 18 g = 6.023 × 10^{23} molecules
+Formula: mass of one molecule = M ÷ Nₐ
+Substitution: 18 ÷ (6.023 × 10^{23})
+Calculation: 18 ÷ 6.023 = 2.99, so the mass is 2.99 × 10^{-23} g
+> 6.023 × 10^{23} molecules together weigh 18 g, so one molecule weighs 18 g shared among all of them.
+Answer: about 2.99 × 10^{-23} g
+## example
+Q: How many H₂SO₄ molecules are there in 1 g of H₂SO₄? How many H, S and O atoms?
+Given: w = 1 g; M(H₂SO₄) = 2 × 1 + 32 + 4 × 16 = 98
+Formula: n = w/M; N = n × Nₐ
+Calculation: n = 1 ÷ 98 = 0.0102 mol; N = (6.023 × 10^{23}) ÷ 98 = 6.15 × 10^{21} molecules
+> Each H₂SO₄ molecule has 2 H, 1 S and 4 O atoms, so multiply the number of molecules by 2, 1 and 4.
+Calculation: H atoms = 2 × 6.15 × 10^{21} = 1.23 × 10^{22}; S atoms = 6.15 × 10^{21}; O atoms = 4 × 6.15 × 10^{21} = 2.46 × 10^{22}
+Answer: 6.15 × 10^{21} molecules; 1.23 × 10^{22} H atoms, 6.15 × 10^{21} S atoms, 2.46 × 10^{22} O atoms
+## example
+Q: How many moles of water are there in 5 g of water?
+Given: w = 5 g, M = 18
+Formula: n = w/M
+Substitution: n = 5 ÷ 18
+Calculation: n = 0.278 mol
+Answer: 0.278 mole H₂O
+Unit: mol
+## example
+Q: What is the mass of 2 × 10^{23} molecules of CO₂?
+Given: N = 2 × 10^{23}; M(CO₂) = 12 + 2 × 16 = 44
+Formula: n = N/Nₐ; w = n × M
+Calculation: n = 2 × 10^{23} ÷ 6.023 × 10^{23} = 0.332 mol; w = 0.332 × 44 = 14.6 g
+Answer: 14.6 g
+## mistakes
+x 1 mole of every substance has the same mass.
+v 1 mole of every substance has the same number of particles (6.023 × 10^{23}); the mass depends on the molecular mass (1 mol H₂ = 2 g, 1 mol CO₂ = 44 g).
+x Avogadro's number is only for atoms.
+v It counts any particles: atoms, molecules or ions. Always say which particle you mean ("1 mole of O atoms" = 16 g, "1 mole of O₂ molecules" = 32 g).
+x n = M/w
+v n = w/M: moles = mass ÷ molar mass. A bigger mass gives more moles.
+## remember
+- 1 mole = 6.023 × 10^{23} particles = atomic/molecular mass in grams.
+- n = w/M and N = n × Nₐ.
+- Mass of one particle = M/Nₐ.
+- Molecular mass = sum of atomic masses (H 1, C 12, N 14, O 16, Na 23, S 32, Cl 35.5).
+## think
+A spoonful of water is about 18 g. If you could count one molecule every second, day and night, roughly how many years would it take to count the molecules in that spoon? (A year has about 3.15 × 10^{7} seconds.)
+## quiz
+? One mole of any substance contains:
+- 6.023 × 10^{22} particles
+* 6.023 × 10^{23} particles
+- 12 particles
+- as many particles as its mass in grams
+= By definition, 1 mole contains Avogadro's number, 6.023 × 10^{23}, of particles.
+? The mass of 1 mole of NaCl is:
+- 35.5 g
+- 23 g
+* 58.5 g
+- 117 g
+= M(NaCl) = 23 + 35.5 = 58.5, so 1 mole = 58.5 g.
+? How many molecules are there in 10 g of CaCO₃ (M = 100)?
+- 6.023 × 10^{23}
+* 6.023 × 10^{22}
+- 6.023 × 10^{24}
+- 1.0 × 10^{23}
+= n = 10 ÷ 100 = 0.1 mol; N = 0.1 × 6.023 × 10^{23} = 6.023 × 10^{22}.
+? Which contains the largest number of molecules?
+* 2 g H₂
+- 16 g O₂
+- 22 g CO₂
+- 9 g H₂O
+= 2 g H₂ = 1 mol; 16 g O₂ = 0.5 mol; 22 g CO₂ = 0.5 mol; 9 g H₂O = 0.5 mol. More moles means more molecules.
+== bn
+## what
+যে পরিমাণ পদার্থে **৬.০২৩ × ১০^{২৩}**টি কণা (পরমাণু, অণু বা আয়ন) থাকে, তাকে ঐ পদার্থের **এক মোল** বলে। এই সংখ্যাটির নাম **অ্যাভোগাড্রো সংখ্যা** (Nₐ), আর কোনো পদার্থের এক মোলের ভর হলো তার পারমাণবিক বা আণবিক ভরকে গ্রাম এককে লিখলে যা হয় তা।
+## simple
+বাজারে কেউ ডিম একটা একটা করে বেচে না; বেচে **হালি** (৪টি) বা **ডজন** (১২টি) হিসেবে। কাগজ আসে **রিম** (৫০০ তা) হিসেবে। সুবিধামতো একটা "গোনার একক" থাকলে বড় সংখ্যা সামলানো সহজ হয়।
+
+পরমাণু এত ছোট যে এক চিমটি লবণেই শত কোটি কোটি পরমাণু থাকে। তাই রসায়নবিদেরা অনেক বড় একটা গোনার একক ব্যবহার করেন:
+
+- ১২টি O₂ অণু = ১ ডজন O₂
+- ১০০০টি O₂ অণু = ১ হাজার O₂
+- **৬.০২৩ × ১০^{২৩}টি O₂ অণু = ১ মোল O₂**
+
+মোল যেকোনো কণার জন্য খাটে: ১ মোল পরমাণুতে ৬.০২৩ × ১০^{২৩}টি পরমাণু, ১ মোল অণুতে ৬.০২৩ × ১০^{২৩}টি অণু, আর ১ মোল আয়নে ৬.০২৩ × ১০^{২৩}টি আয়ন থাকে। এই বিশেষ সংখ্যাটির নাম **অ্যাভোগাড্রো সংখ্যা**, Nₐ।
+
+**এমন অদ্ভুত সংখ্যা কেন?** কারণ এতে ভরের হিসাব চমৎকার মিলে যায়। **১২ g কার্বনে** ঠিক এতগুলো কার্বন পরমাণু থাকে, আর কার্বনের পারমাণবিক ভর ১২। সব পদার্থেই একই কৌশল খাটে: **১ মোলের ভর = পারমাণবিক বা আণবিক ভর, গ্রাম এককে।**
+
+- ১ মোল C = ১২ g C (৬.০২৩ × ১০^{২৩}টি C পরমাণু)
+- ১ মোল H₂O = ১৮ g H₂O (৬.০২৩ × ১০^{২৩}টি H₂O অণু)
+- ১ মোল Cl₂ = ৭১ g Cl₂
+
+**আণবিক ভর বের করা।** সংকেতের সব পরমাণুর পারমাণবিক ভর যোগ করো ([[3.9|পাঠ ৩.৯]] থেকে)।
+- Cl₂: ২ × ৩৫.৫ = ৭১
+- NaCl: ২৩ + ৩৫.৫ = ৫৮.৫
+- CuSO₄·5H₂O (তুঁতে): ১টি Cu, ১টি S, ৯টি O আর ১০টি H, তাই ৬৩.৫ + ৩২ + ৯ × ১৬ + ১০ × ১ = ২৪৯.৫
+
+এক মোলের ভরকে (গ্রামে) প্রায়ই **মোলার ভর** (M) বলা হয়, একক g/mol।
+
+**দুটি মূল সম্পর্ক।** কোনো নমুনার ভর w গ্রাম আর আণবিক ভর M হলে,
+- মোল সংখ্যা: **n = w ÷ M**
+- কণার সংখ্যা: **N = n × Nₐ**
+
+এই দুটি দিয়েই গ্রাম থেকে মোল, মোল থেকে কণা, আবার উল্টো দিকেও যাওয়া যায়। বইয়ে Nₐ = ৬.০২৩ × ১০^{২৩} ধরা হয়েছে; আধুনিক মাপা মান ৬.০২২ × ১০^{২৩}, পার্থক্য এত সামান্য যে আমাদের হিসাবে কোনো প্রভাব পড়ে না।
+## analogy
+মোলকে ভাবো বিশাল এক **ডজন** হিসেবে। এক ডজন কলা আর এক ডজন কাঁঠালে ফলের *সংখ্যা* একই, কিন্তু কাঁঠালগুলোর ওজন অনেক বেশি। তেমনি ১ মোল হাইড্রোজেন (২ g) আর ১ মোল চিনিতে (৩৪২ g) অণুর সংখ্যা একই; শুধু প্রতিটি প্যাকেটের ভর আলাদা।
+## definition
+**মোল**: যে পরিমাণ পদার্থে অ্যাভোগাড্রো সংখ্যক (৬.০২৩ × ১০^{২৩}টি) কণা (পরমাণু, অণু বা আয়ন) থাকে, সেই পরিমাণকে ঐ পদার্থের এক মোল বলে। অন্যভাবে, পদার্থের পারমাণবিক ভর (পরমাণুর ক্ষেত্রে) বা আণবিক ভরকে (অণুর ক্ষেত্রে) গ্রাম এককে প্রকাশ করলে যে পরিমাণ পাওয়া যায়, তা-ই এক মোল।
+
+**অ্যাভোগাড্রো সংখ্যা (Nₐ)**: এক মোলে কণার সংখ্যা, ৬.০২৩ × ১০^{২৩} (ঠিক ১২ g কার্বন-১২-তে যতগুলো পরমাণু থাকে)।
+
+**আণবিক ভর**: একটি অণুর সব পরমাণুর পারমাণবিক ভরের যোগফল।
+## why
+"গ্রামে পারমাণবিক ভর" সবসময় একই সংখ্যক কণা ধরে কেন? পারমাণবিক ভর *আপেক্ষিক*: একটি অক্সিজেন পরমাণু একটি কার্বন পরমাণুর ১৬/১২ গুণ ভারী। তাই ১২ g কার্বনে Nₐটি পরমাণু থাকলে, ১৬ g অক্সিজেনেও (প্রতিটি পরমাণু ১৬/১২ গুণ ভারী, মোট ভরও ১৬/১২ গুণ) ঠিক Nₐটিই পরমাণু থাকবে। অনুপাত কেটে যায়। এজন্যই একটি সংখ্যা সব পদার্থের জন্য খাটে।
+## terms
+মোল (mol) | যে পরিমাণ পদার্থে ৬.০২৩ × ১০^{২৩}টি কণা থাকে
+অ্যাভোগাড্রো সংখ্যা (Nₐ) | ৬.০২৩ × ১০^{২৩}, ১ মোলে কণার সংখ্যা
+আণবিক ভর | অণুর সব পরমাণুর পারমাণবিক ভরের যোগফল
+মোলার ভর (M) | ১ মোল পদার্থের গ্রাম এককে ভর (g/mol)
+রাসায়নিক গণনা | রসায়নে পদার্থের পরিমাণ নির্ণয়ের সব হিসাব-নিকাশ
+## formula
+$$ n = w/M
+$$ N = n × Nₐ
+tri w | n | M
+tri N | n | Nₐ
+n | মোল সংখ্যা | mol
+w | নমুনার ভর | g
+M | আণবিক (বা পারমাণবিক) ভর | g/mol
+N | কণার সংখ্যা (পরমাণু, অণু বা আয়ন) | —
+Nₐ | অ্যাভোগাড্রো সংখ্যা, ৬.০২৩ × ১০^{২৩} | প্রতি mol
+! একটি কণার ভর = M ÷ Nₐ গ্রাম।
+! দুটি মিলিয়ে: N = (w/M) × Nₐ।
+## visual
+একটি পদার্থ বেছে নাও, তারপর ভর লেখো বা মোল সংখ্যা স্লাইড করো; অন্য রাশিগুলো কীভাবে বদলায় দেখো, আর দেখো অণুগুলো "মোল-প্যাকেটে" গোনা হচ্ছে।
+## real
+খাবার স্যালাইন (ORS) বানানোর রেসিপি গ্রামে লেখা থাকে, কিন্তু রেসিপিটা তৈরি হয়েছে মোলের হিসাবে, যেন শরীরে ঠিক *সংখ্যক* সোডিয়াম আয়ন আর গ্লুকোজ অণু পৌঁছায়। ডাক্তারের রিপোর্টে রক্তে গ্লুকোজ "৫.৫ mmol/L" লেখা থাকলে সেটা গ্লুকোজ অণু মিলিমোলে গুনছে, গ্রামে নয়।
+## example
+প্রশ্ন: একটি H₂O অণুর ভর কত?
+দেওয়া আছে: M(H₂O) = ২ × ১ + ১৬ = ১৮, তাই ১ মোল H₂O = ১৮ g = ৬.০২৩ × ১০^{২৩}টি অণু
+সূত্র: একটি অণুর ভর = M ÷ Nₐ
+মান বসাই: ১৮ ÷ (৬.০২৩ × ১০^{২৩})
+হিসাব: ১৮ ÷ ৬.০২৩ = ২.৯৯, তাই ভর ২.৯৯ × ১০^{-২৩} g
+> ৬.০২৩ × ১০^{২৩}টি অণুর মোট ভর ১৮ g, তাই একটি অণুর ভর হলো ১৮ g-কে সবার মধ্যে ভাগ করলে যা হয়।
+উত্তর: প্রায় ২.৯৯ × ১০^{-২৩} g
+## example
+প্রশ্ন: ১ g H₂SO₄-এ কয়টি H₂SO₄ অণু আছে? কয়টি H, S ও O পরমাণু আছে?
+দেওয়া আছে: w = ১ g; M(H₂SO₄) = ২ × ১ + ৩২ + ৪ × ১৬ = ৯৮
+সূত্র: n = w/M; N = n × Nₐ
+হিসাব: n = ১ ÷ ৯৮ = ০.০১০২ mol; N = (৬.০২৩ × ১০^{২৩}) ÷ ৯৮ = ৬.১৫ × ১০^{২১}টি অণু
+> প্রতিটি H₂SO₄ অণুতে ২টি H, ১টি S ও ৪টি O পরমাণু, তাই অণুর সংখ্যাকে ২, ১ ও ৪ দিয়ে গুণ করো।
+হিসাব: H পরমাণু = ২ × ৬.১৫ × ১০^{২১} = ১.২৩ × ১০^{২২}; S পরমাণু = ৬.১৫ × ১০^{২১}; O পরমাণু = ৪ × ৬.১৫ × ১০^{২১} = ২.৪৬ × ১০^{২২}
+উত্তর: ৬.১৫ × ১০^{২১}টি অণু; ১.২৩ × ১০^{২২}টি H, ৬.১৫ × ১০^{২১}টি S, ২.৪৬ × ১০^{২২}টি O পরমাণু
+## example
+প্রশ্ন: ৫ g পানিতে কত মোল পানি আছে?
+দেওয়া আছে: w = ৫ g, M = ১৮
+সূত্র: n = w/M
+মান বসাই: n = ৫ ÷ ১৮
+হিসাব: n = ০.২৭৮ mol
+উত্তর: ০.২৭৮ মোল H₂O
+একক: mol
+## example
+প্রশ্ন: ২ × ১০^{২৩}টি CO₂ অণুর ভর কত?
+দেওয়া আছে: N = ২ × ১০^{২৩}; M(CO₂) = ১২ + ২ × ১৬ = ৪৪
+সূত্র: n = N/Nₐ; w = n × M
+হিসাব: n = ২ × ১০^{২৩} ÷ ৬.০২৩ × ১০^{২৩} = ০.৩৩২ mol; w = ০.৩৩২ × ৪৪ = ১৪.৬ g
+উত্তর: ১৪.৬ g
+## mistakes
+x সব পদার্থের ১ মোলের ভর সমান।
+v সব পদার্থের ১ মোলে কণার *সংখ্যা* সমান (৬.০২৩ × ১০^{২৩}); ভর নির্ভর করে আণবিক ভরের ওপর (১ mol H₂ = ২ g, ১ mol CO₂ = ৪৪ g)।
+x অ্যাভোগাড্রো সংখ্যা শুধু পরমাণুর জন্য।
+v এটি যেকোনো কণা গোনে: পরমাণু, অণু বা আয়ন। কোন কণার কথা বলছ তা সবসময় বলো ("১ মোল O পরমাণু" = ১৬ g, "১ মোল O₂ অণু" = ৩২ g)।
+x n = M/w
+v n = w/M: মোল = ভর ÷ মোলার ভর। ভর বেশি হলে মোলও বেশি।
+## remember
+- ১ মোল = ৬.০২৩ × ১০^{২৩}টি কণা = গ্রাম এককে পারমাণবিক/আণবিক ভর।
+- n = w/M এবং N = n × Nₐ।
+- একটি কণার ভর = M/Nₐ।
+- আণবিক ভর = পারমাণবিক ভরের যোগফল (H ১, C ১২, N ১৪, O ১৬, Na ২৩, S ৩২, Cl ৩৫.৫)।
+## think
+এক চামচ পানি প্রায় ১৮ g। তুমি যদি দিনরাত প্রতি সেকেন্ডে একটি করে অণু গুনতে পারতে, তাহলে ঐ চামচের সব অণু গুনতে মোটামুটি কত বছর লাগত? (এক বছরে প্রায় ৩.১৫ × ১০^{৭} সেকেন্ড।)
+## quiz
+? যেকোনো পদার্থের ১ মোলে থাকে:
+- ৬.০২৩ × ১০^{২২}টি কণা
+* ৬.০২৩ × ১০^{২৩}টি কণা
+- ১২টি কণা
+- গ্রামে এর ভরের সমান সংখ্যক কণা
+= সংজ্ঞা অনুযায়ী ১ মোলে অ্যাভোগাড্রো সংখ্যক, অর্থাৎ ৬.০২৩ × ১০^{২৩}টি কণা থাকে।
+? ১ মোল NaCl-এর ভর:
+- ৩৫.৫ g
+- ২৩ g
+* ৫৮.৫ g
+- ১১৭ g
+= M(NaCl) = ২৩ + ৩৫.৫ = ৫৮.৫, তাই ১ মোল = ৫৮.৫ g।
+? ১০ g CaCO₃-এ (M = ১০০) কয়টি অণু আছে?
+- ৬.০২৩ × ১০^{২৩}
+* ৬.০২৩ × ১০^{২২}
+- ৬.০২৩ × ১০^{২৪}
+- ১.০ × ১০^{২৩}
+= n = ১০ ÷ ১০০ = ০.১ mol; N = ০.১ × ৬.০২৩ × ১০^{২৩} = ৬.০২৩ × ১০^{২২}।
+? কোনটিতে অণুর সংখ্যা সবচেয়ে বেশি?
+* ২ g H₂
+- ১৬ g O₂
+- ২২ g CO₂
+- ৯ g H₂O
+= ২ g H₂ = ১ mol; ১৬ g O₂ = ০.৫ mol; ২২ g CO₂ = ০.৫ mol; ৯ g H₂O = ০.৫ mol। মোল বেশি মানে অণুও বেশি।
+
+@@ 6.1.1
+@visual k6gas
+@related 6.1 6.3.2 2.2
+== en
+## what
+The **molar volume** of a gas is the volume occupied by one mole of it. At **standard temperature and pressure (STP: 0 °C and 1 atm)** one mole of *any* gas occupies **22.4 litres**.
+## simple
+Here is a surprising fact. Take 2 g of hydrogen, 32 g of oxygen and 44 g of carbon dioxide. Each is exactly 1 mole. Put each into a balloon at 0 °C and normal atmospheric pressure. All three balloons come out the **same size: 22.4 litres**, about the volume of a big water bucket.
+
+Why the same? In a gas the molecules are very far apart compared with their own size (remember the particle picture of gases from [[2.2|lesson 2.2]]). The volume of a gas is almost all empty space between molecules, so it depends on **how many** molecules there are, not on how big or heavy each one is. Equal numbers of molecules, at the same temperature and pressure, take up equal volumes.
+
+**Standard conditions.** A gas expands when heated and shrinks when squeezed, so a gas volume means nothing unless we say the temperature and pressure. Chemists agree on **0 °C and 1 atmosphere** and call it *standard temperature and pressure* (STP), or simply the standard condition.
+
+**The chain of conversions.** Now you have four ways to describe an amount of gas, all linked through moles:
+
+- mass (w) ⟷ moles: n = w/M
+- volume (V, litres at STP) ⟷ moles: **n = V/22.4**
+- number of molecules (N) ⟷ moles: n = N/Nₐ
+
+So **n = w/M = V/22.4 = N/(6.023 × 10^{23})**. Whatever you are given, first turn it into moles, then turn the moles into whatever you need.
+
+**Careful:** 22.4 L/mol is only for **gases**, and only at **STP**. A mole of water (18 g of liquid) fills only about 18 mL, not 22.4 L.
+## analogy
+Imagine a big school field during a PT class. Whether the students are small Class 6 children or tall Class 10 students, if 100 of them stand in a grid with arms stretched out, they cover the same area, because the space is set by the gaps between them, not by their size. Gas molecules are like that: the gaps decide the volume.
+## definition
+**Molar volume of a gas (গ্যাসের মোলার আয়তন)**: the volume occupied by one mole of a gaseous substance. At standard temperature and pressure (0 °C or 273 K, and 1 atm), the molar volume of any gas is 22.4 L.
+
+**Standard temperature and pressure (STP, প্রমাণ অবস্থা)**: a temperature of 0 °C together with a pressure of 1 atmosphere.
+## why
+Why does the kind of gas not matter? Gas molecules are tiny and spread far apart; the molecules themselves fill well under 1% of the container. Their pushing on the walls (pressure) depends on how many of them hit the walls and how fast they move, and at the same temperature the average kinetic energy is the same for all gases. So equal volumes at the same temperature and pressure hold equal numbers of molecules (Avogadro's law), and one mole of any gas fills the same volume.
+## terms
+Molar volume | Volume of 1 mole of a gas; 22.4 L at STP
+STP (standard condition) | 0 °C (273 K) and 1 atm pressure
+Litre (L) | 1 L = 1000 mL = 1 dm³
+Avogadro's law | Equal volumes of all gases at the same temperature and pressure contain equal numbers of molecules
+## formula
+$$ n = V/22.4
+$$ n = w/M = V/22.4 = N/Nₐ
+tri V | n | 22.4
+n | number of moles of gas | mol
+V | volume of the gas at STP | L
+22.4 | molar volume at STP | L/mol
+! Only for gases, and only at STP (0 °C, 1 atm).
+! 1 L of any gas at STP contains 6.023 × 10^{23} ÷ 22.4 = 2.69 × 10^{22} molecules.
+## visual
+Pick a gas and change the number of moles. The box shows the volume at STP; compare the masses of different gases filling the same volume.
+## real
+The gas cylinders used for cooking (LPG) and in hospitals (oxygen) are sold by mass or pressure, but engineers use the molar volume to work out how many litres of gas each cylinder will deliver. The CO₂ that makes a bottle of soft drink fizz would fill a volume several times the bottle's size if it all came out at normal pressure.
+## example
+Q: How many molecules are there in 1 litre of CO₂ at STP?
+Given: V = 1 L
+Formula: n = V/22.4; N = n × Nₐ
+Substitution: N = (1 ÷ 22.4) × 6.023 × 10^{23}
+Calculation: 6.023 × 10^{23} ÷ 22.4 = 2.69 × 10^{22}
+> 22.4 L of CO₂ contains 6.023 × 10^{23} molecules, so 1 L contains 1/22.4 of that.
+Answer: 2.69 × 10^{22} molecules
+## example
+Q: What is the volume of 5 moles of CO₂ at STP?
+Given: n = 5 mol
+Formula: V = n × 22.4
+Calculation: V = 5 × 22.4 = 112 L
+Answer: 112 L
+## example
+Q: What is the volume of 10 g of hydrogen gas at STP?
+Given: w = 10 g; M(H₂) = 2
+Formula: n = w/M = V/22.4
+Calculation: n = 10 ÷ 2 = 5 mol; V = 5 × 22.4 = 112 L
+> Hydrogen gas is H₂, so its molecular mass is 2, not 1.
+Answer: 112 L
+## example
+Q: How many H atoms are there in 5 L of CH₄ gas at STP?
+Given: V = 5 L; each CH₄ molecule has 4 H atoms
+Formula: n = V/22.4; N = n × Nₐ
+Calculation: n = 5 ÷ 22.4 = 0.223 mol; molecules = 0.223 × 6.023 × 10^{23} = 1.34 × 10^{23}; H atoms = 4 × 1.34 × 10^{23} = 5.38 × 10^{23}
+Answer: 5.38 × 10^{23} H atoms
+## mistakes
+x 1 mole of any substance occupies 22.4 L.
+v Only 1 mole of a gas, and only at STP. 1 mole of liquid water is about 18 mL.
+x Heavier gases take up more volume per mole.
+v At the same temperature and pressure, 1 mole of every gas has the same volume; 2 g of H₂ and 44 g of CO₂ both fill 22.4 L at STP.
+x STP means room temperature (25 °C).
+v In this book STP is 0 °C (273 K) and 1 atm.
+## remember
+- 1 mole of any gas at STP = 22.4 L.
+- STP = 0 °C and 1 atm.
+- n = w/M = V/22.4 = N/Nₐ: always go through moles.
+- 1 L of gas at STP ≈ 2.69 × 10^{22} molecules.
+## think
+A balloon holds 11.2 L of gas at STP. Would it weigh more filled with oxygen or with carbon dioxide? By how many grams?
+## quiz
+? What is the volume of 2 g of hydrogen at STP?
+- 2.24 L
+- 11.2 L
+* 22.4 L
+- 44.8 L
+= 2 g H₂ = 2 ÷ 2 = 1 mol, and 1 mol of gas at STP occupies 22.4 L.
+? 44.8 L of O₂ at STP has a mass of:
+- 32 g
+* 64 g
+- 16 g
+- 44.8 g
+= n = 44.8 ÷ 22.4 = 2 mol; w = 2 × 32 = 64 g.
+? Standard temperature and pressure means:
+- 25 °C and 1 atm
+* 0 °C and 1 atm
+- 0 °C and 0 atm
+- 100 °C and 1 atm
+= STP is 0 °C (273 K) and 1 atmosphere.
+? 11.2 L of CO₂ and 11.2 L of H₂, both at STP, contain:
+- different numbers of molecules
+* the same number of molecules
+- the same mass
+- the same number of atoms
+= Equal volumes of gases at the same temperature and pressure hold equal numbers of molecules (0.5 mol each). Their masses (22 g and 1 g) and atom counts differ.
+== bn
+## what
+এক মোল গ্যাস যে আয়তন দখল করে, তাকে ঐ গ্যাসের **মোলার আয়তন** বলে। **প্রমাণ তাপমাত্রা ও চাপে (০ °C ও ১ atm)** *যেকোনো* গ্যাসের এক মোল **২২.৪ লিটার** আয়তন দখল করে।
+## simple
+একটা অবাক করা তথ্য দিয়ে শুরু করি। ২ g হাইড্রোজেন, ৩২ g অক্সিজেন আর ৪৪ g কার্বন ডাই-অক্সাইড নাও। প্রতিটিই ঠিক ১ মোল। প্রতিটিকে ০ °C আর স্বাভাবিক বায়ুমণ্ডলীয় চাপে একটি করে বেলুনে ভরো। তিনটি বেলুনই হবে **একই মাপের: ২২.৪ লিটার**, মোটামুটি একটা বড় পানির বালতির সমান।
+
+একই কেন? গ্যাসে অণুগুলো নিজেদের আকারের তুলনায় অনেক দূরে দূরে থাকে ([[2.2|পাঠ ২.২]]-এর গ্যাসের কণা-চিত্র মনে করো)। গ্যাসের আয়তনের প্রায় পুরোটাই অণুর মাঝের ফাঁকা জায়গা, তাই আয়তন নির্ভর করে অণু **কয়টি** তার ওপর, প্রতিটি কত বড় বা ভারী তার ওপর নয়। একই তাপমাত্রা ও চাপে সমান সংখ্যক অণু সমান আয়তন নেয়।
+
+**প্রমাণ অবস্থা।** তাপ দিলে গ্যাস প্রসারিত হয়, চাপ দিলে সংকুচিত হয়, তাই তাপমাত্রা আর চাপ না বললে গ্যাসের আয়তনের কোনো অর্থ নেই। রসায়নবিদেরা একমত হয়েছেন **০ °C তাপমাত্রা আর ১ বায়ুমণ্ডল চাপে**, একে বলে *প্রমাণ তাপমাত্রা ও চাপ* (STP), বা সংক্ষেপে প্রমাণ অবস্থা বা আদর্শ অবস্থা।
+
+**রূপান্তরের শিকল।** এখন গ্যাসের পরিমাণ বোঝানোর চারটি উপায় তোমার হাতে, সবই মোল দিয়ে জোড়া:
+
+- ভর (w) ⟷ মোল: n = w/M
+- আয়তন (V, প্রমাণ অবস্থায় লিটারে) ⟷ মোল: **n = V/২২.৪**
+- অণুর সংখ্যা (N) ⟷ মোল: n = N/Nₐ
+
+তাই **n = w/M = V/২২.৪ = N/(৬.০২৩ × ১০^{২৩})**। যা-ই দেওয়া থাকুক, আগে সেটাকে মোলে আনো, তারপর মোল থেকে যা দরকার তাতে যাও।
+
+**সাবধান:** ২২.৪ L/mol শুধু **গ্যাসের** জন্য, আর শুধু **প্রমাণ অবস্থায়**। এক মোল পানি (১৮ g তরল) মাত্র প্রায় ১৮ mL জায়গা নেয়, ২২.৪ L নয়।
+## analogy
+স্কুলমাঠে পিটি ক্লাসের কথা ভাবো। ছোট ষষ্ঠ শ্রেণির ছেলেমেয়েরা হোক বা লম্বা দশম শ্রেণির শিক্ষার্থীরা, ১০০ জন যদি হাত ছড়িয়ে সারি বেঁধে দাঁড়ায়, তারা একই জায়গা জোড়ে, কারণ জায়গা ঠিক করে তাদের মাঝের ফাঁক, তাদের আকার নয়। গ্যাসের অণুও তেমন: ফাঁকই আয়তন ঠিক করে।
+## definition
+**গ্যাসের মোলার আয়তন**: এক মোল গ্যাসীয় পদার্থ যে আয়তন দখল করে। প্রমাণ তাপমাত্রা ও চাপে (০ °C বা ২৭৩ K, এবং ১ atm) যেকোনো গ্যাসের মোলার আয়তন ২২.৪ L।
+
+**প্রমাণ তাপমাত্রা ও চাপ (STP, প্রমাণ অবস্থা)**: ০ °C তাপমাত্রা এবং ১ বায়ুমণ্ডল চাপকে একত্রে প্রমাণ অবস্থা বলে।
+## why
+গ্যাসের ধরন কোনো ব্যাপার না কেন? গ্যাসের অণুগুলো খুব ছোট আর অনেক দূরে দূরে ছড়ানো; পাত্রের ১%-এরও অনেক কম জায়গা অণুগুলো নিজেরা দখল করে। দেয়ালে এদের ধাক্কা (চাপ) নির্ভর করে কয়টি অণু দেয়ালে আঘাত করে আর কত বেগে, আর একই তাপমাত্রায় সব গ্যাসের অণুর গড় গতিশক্তি সমান। তাই একই তাপমাত্রা ও চাপে সমান আয়তনে সমান সংখ্যক অণু থাকে (অ্যাভোগাড্রোর সূত্র), আর যেকোনো গ্যাসের এক মোল একই আয়তন জোড়ে।
+## terms
+মোলার আয়তন | ১ মোল গ্যাসের আয়তন; প্রমাণ অবস্থায় ২২.৪ L
+প্রমাণ অবস্থা (STP) | ০ °C (২৭৩ K) তাপমাত্রা ও ১ atm চাপ
+লিটার (L) | ১ L = ১০০০ mL = ১ dm³
+অ্যাভোগাড্রোর সূত্র | একই তাপমাত্রা ও চাপে সব গ্যাসের সমান আয়তনে সমান সংখ্যক অণু থাকে
+## formula
+$$ n = V/22.4
+$$ n = w/M = V/22.4 = N/Nₐ
+tri V | n | 22.4
+n | গ্যাসের মোল সংখ্যা | mol
+V | প্রমাণ অবস্থায় গ্যাসের আয়তন | L
+22.4 | প্রমাণ অবস্থায় মোলার আয়তন | L/mol
+! শুধু গ্যাসের জন্য, আর শুধু প্রমাণ অবস্থায় (০ °C, ১ atm)।
+! প্রমাণ অবস্থায় যেকোনো গ্যাসের ১ L-এ ৬.০২৩ × ১০^{২৩} ÷ ২২.৪ = ২.৬৯ × ১০^{২২}টি অণু থাকে।
+## visual
+একটি গ্যাস বেছে নাও আর মোল সংখ্যা বদলাও। বাক্সটি প্রমাণ অবস্থায় আয়তন দেখায়; একই আয়তন ভরাট করা ভিন্ন ভিন্ন গ্যাসের ভর তুলনা করো।
+## real
+রান্নার (LPG) আর হাসপাতালের (অক্সিজেন) গ্যাস সিলিন্ডার ভর বা চাপ হিসেবে বিক্রি হয়, কিন্তু প্রতিটি সিলিন্ডার কত লিটার গ্যাস দেবে তা প্রকৌশলীরা মোলার আয়তন দিয়ে হিসাব করেন। কোমল পানীয়ের বোতলে যে CO₂ বুদবুদ তোলে, তা স্বাভাবিক চাপে পুরোটা বের হলে বোতলের কয়েক গুণ জায়গা ভরে ফেলত।
+## example
+প্রশ্ন: প্রমাণ অবস্থায় ১ লিটার CO₂ গ্যাসে কয়টি অণু আছে?
+দেওয়া আছে: V = ১ L
+সূত্র: n = V/২২.৪; N = n × Nₐ
+মান বসাই: N = (১ ÷ ২২.৪) × ৬.০২৩ × ১০^{২৩}
+হিসাব: ৬.০২৩ × ১০^{২৩} ÷ ২২.৪ = ২.৬৯ × ১০^{২২}
+> ২২.৪ L CO₂-তে ৬.০২৩ × ১০^{২৩}টি অণু, তাই ১ L-এ তার ১/২২.৪ অংশ।
+উত্তর: ২.৬৯ × ১০^{২২}টি অণু
+## example
+প্রশ্ন: প্রমাণ অবস্থায় ৫ মোল CO₂ গ্যাসের আয়তন কত?
+দেওয়া আছে: n = ৫ mol
+সূত্র: V = n × ২২.৪
+হিসাব: V = ৫ × ২২.৪ = ১১২ L
+উত্তর: ১১২ L
+## example
+প্রশ্ন: প্রমাণ অবস্থায় ১০ g হাইড্রোজেন গ্যাসের আয়তন কত?
+দেওয়া আছে: w = ১০ g; M(H₂) = ২
+সূত্র: n = w/M = V/২২.৪
+হিসাব: n = ১০ ÷ ২ = ৫ mol; V = ৫ × ২২.৪ = ১১২ L
+> হাইড্রোজেন গ্যাস হলো H₂, তাই এর আণবিক ভর ২, ১ নয়।
+উত্তর: ১১২ L
+## example
+প্রশ্ন: প্রমাণ অবস্থায় ৫ L CH₄ গ্যাসে কয়টি H পরমাণু আছে?
+দেওয়া আছে: V = ৫ L; প্রতিটি CH₄ অণুতে ৪টি H পরমাণু
+সূত্র: n = V/২২.৪; N = n × Nₐ
+হিসাব: n = ৫ ÷ ২২.৪ = ০.২২৩ mol; অণু = ০.২২৩ × ৬.০২৩ × ১০^{২৩} = ১.৩৪ × ১০^{২৩}; H পরমাণু = ৪ × ১.৩৪ × ১০^{২৩} = ৫.৩৮ × ১০^{২৩}
+উত্তর: ৫.৩৮ × ১০^{২৩}টি H পরমাণু
+## mistakes
+x যেকোনো পদার্থের ১ মোল ২২.৪ L জায়গা নেয়।
+v শুধু গ্যাসের ১ মোল, আর শুধু প্রমাণ অবস্থায়। ১ মোল তরল পানি মাত্র প্রায় ১৮ mL।
+x ভারী গ্যাস প্রতি মোলে বেশি জায়গা নেয়।
+v একই তাপমাত্রা ও চাপে সব গ্যাসের ১ মোলের আয়তন সমান; প্রমাণ অবস্থায় ২ g H₂ আর ৪৪ g CO₂ দুটোই ২২.৪ L ভরায়।
+x প্রমাণ অবস্থা মানে ঘরের তাপমাত্রা (২৫ °C)।
+v এই বইয়ে প্রমাণ অবস্থা হলো ০ °C (২৭৩ K) ও ১ atm।
+## remember
+- প্রমাণ অবস্থায় যেকোনো গ্যাসের ১ মোল = ২২.৪ L।
+- প্রমাণ অবস্থা = ০ °C ও ১ atm।
+- n = w/M = V/২২.৪ = N/Nₐ: সবসময় মোলের মধ্য দিয়ে যাও।
+- প্রমাণ অবস্থায় ১ L গ্যাসে ≈ ২.৬৯ × ১০^{২২}টি অণু।
+## think
+একটি বেলুনে প্রমাণ অবস্থায় ১১.২ L গ্যাস ধরে। অক্সিজেন ভরলে বেশি ভারী হবে নাকি কার্বন ডাই-অক্সাইড ভরলে? কত গ্রাম বেশি?
+## quiz
+? প্রমাণ অবস্থায় ২ g হাইড্রোজেনের আয়তন কত?
+- ২.২৪ L
+- ১১.২ L
+* ২২.৪ L
+- ৪৪.৮ L
+= ২ g H₂ = ২ ÷ ২ = ১ mol, আর প্রমাণ অবস্থায় ১ mol গ্যাসের আয়তন ২২.৪ L।
+? প্রমাণ অবস্থায় ৪৪.৮ L O₂-এর ভর:
+- ৩২ g
+* ৬৪ g
+- ১৬ g
+- ৪৪.৮ g
+= n = ৪৪.৮ ÷ ২২.৪ = ২ mol; w = ২ × ৩২ = ৬৪ g।
+? প্রমাণ তাপমাত্রা ও চাপ মানে:
+- ২৫ °C ও ১ atm
+* ০ °C ও ১ atm
+- ০ °C ও ০ atm
+- ১০০ °C ও ১ atm
+= প্রমাণ অবস্থা হলো ০ °C (২৭৩ K) ও ১ বায়ুমণ্ডল চাপ।
+? প্রমাণ অবস্থায় ১১.২ L CO₂ আর ১১.২ L H₂-তে থাকে:
+- ভিন্ন সংখ্যক অণু
+* সমান সংখ্যক অণু
+- সমান ভর
+- সমান সংখ্যক পরমাণু
+= একই তাপমাত্রা ও চাপে গ্যাসের সমান আয়তনে সমান সংখ্যক অণু থাকে (প্রতিটিতে ০.৫ mol)। এদের ভর (২২ g ও ১ g) আর পরমাণুর সংখ্যা আলাদা।
+
+@@ 6.1.2
+@visual k6molar
+@related 6.1 5.5 6.2 6.2.1
+== en
+## what
+A **molecular formula** tells us far more than the name of a substance: it gives the number of atoms of each element in **one molecule**, and equally the number of **moles** of each element's atoms in **one mole** of the substance, and hence its molecular mass.
+## simple
+Look at the formula **H₂O**. It is a tiny sentence packed with information. Read it at two levels: the single molecule, and the mole.
+
+**What H₂O tells us:**
+1. The substance is water.
+2. One molecule of water is H₂O.
+3. One **mole** of water is also written H₂O.
+4. One molecule of H₂O contains **2 hydrogen atoms and 1 oxygen atom**.
+5. One mole of H₂O contains **2 moles of H atoms and 1 mole of O atoms**.
+6. In 1 mole of H₂O, the hydrogen weighs 1 × 2 = 2 g and the oxygen weighs 16 × 1 = 16 g, so 1 mole of water weighs 2 + 16 = **18 g**.
+7. In 1 mole of H₂O there are 6.023 × 10^{23} water molecules, 2 × 6.023 × 10^{23} = **1.20 × 10^{24} H atoms** and **6.023 × 10^{23} O atoms**.
+
+**Mole = gram molecular mass.** Because the molecular mass of water (18) comes straight from its formula, 18 g of water is called **one gram-molecular mass** of water, which is the same as **1 mole**. So whenever you know the formula, you know how many grams make a mole.
+
+**Scaling up.** The subscripts in a formula act like a recipe: if you have 0.5 mole of H₂SO₄, you have 2 × 0.5 = 1 mole of H atoms, 0.5 mole of S atoms and 4 × 0.5 = 2 moles of O atoms. Multiply the moles of the compound by each subscript. Brackets and dots multiply too: in Al₂(SO₄)₃ there are 3 × 4 = 12 O atoms; in CuSO₄·5H₂O there are 4 + 5 = 9 O atoms.
+## analogy
+A formula is like the recipe card for one plate of khichuri: "2 cups rice, 1 cup dal". The same card tells you what a big pot for 100 plates needs, just multiply everything by 100. A molecular formula describes one molecule, and multiplying by Nₐ gives you the recipe for one mole.
+## definition
+**Molecular formula (আণবিক সংকেত)**: the formula that shows the actual number of atoms of each element present in one molecule of a substance.
+
+**Gram-molecular mass**: the molecular mass of a substance expressed in grams; it is the mass of 1 mole of that substance.
+## why
+Why can we read a formula as moles as well as atoms? One mole of H₂O is just Nₐ molecules. Each molecule brings 2 H atoms and 1 O atom, so Nₐ molecules bring 2Nₐ H atoms (2 moles) and Nₐ O atoms (1 mole). Multiplying every count by the same number Nₐ keeps the ratio unchanged.
+## terms
+Molecular formula | Actual number of atoms of each element in one molecule
+Subscript | Small number after a symbol showing how many atoms (H₂ → 2 H atoms)
+Gram-molecular mass | Molecular mass in grams = mass of 1 mole
+Water of crystallisation | Water molecules held in a crystal, shown after a dot (CuSO₄·5H₂O)
+## formula
+$$ moles of an element's atoms = moles of compound × number of its atoms in the formula
+$$ molecular mass = Σ (atomic mass × number of atoms)
+! Brackets multiply everything inside: (SO₄)₃ = 3 S + 12 O.
+! A dot adds: CuSO₄·5H₂O = CuSO₄ + 5 H₂O.
+## visual
+Type a formula (for example H₂O, Al2(SO4)3 or CuSO4.5H2O) or tap a chip. See the atom count, the molecular mass and what one mole of it contains.
+## real
+Fertiliser bags in Bangladesh say "Urea, 46% N". That number comes from the formula CO(NH₂)₂: one mole (60 g) contains 2 moles of N atoms (28 g). Farmers and agricultural officers use it to work out how much nitrogen a field is actually getting.
+## example
+Q: Write down everything the formula CO₂ tells you (use C = 12, O = 16).
+Solution: (1) The substance is carbon dioxide. (2) One molecule contains 1 C atom and 2 O atoms. (3) One mole of CO₂ contains 1 mole of C atoms and 2 moles of O atoms. (4) Molecular mass = 12 + 2 × 16 = 44, so 1 mole = 44 g, of which 12 g is carbon and 32 g is oxygen. (5) One mole contains 6.023 × 10^{23} CO₂ molecules, 6.023 × 10^{23} C atoms and 1.20 × 10^{24} O atoms.
+Answer: The formula gives the identity, the atom counts per molecule and per mole, and the molar mass (44 g).
+## example
+Q: How many moles of O atoms, and how many O atoms, are there in 49 g of H₂SO₄?
+Given: w = 49 g; M = 98; each molecule has 4 O atoms
+Formula: n = w/M; moles of O = 4 × n
+Calculation: n = 49 ÷ 98 = 0.5 mol H₂SO₄; moles of O = 4 × 0.5 = 2 mol; O atoms = 2 × 6.023 × 10^{23} = 1.20 × 10^{24}
+Answer: 2 moles of O atoms, i.e. 1.20 × 10^{24} O atoms
+## example
+Q: In 90 g of glucose (C₆H₁₂O₆), how many moles of glucose are there, how many C atoms, and what mass of carbon?
+Given: M = 6 × 12 + 12 × 1 + 6 × 16 = 180
+Formula: n = w/M
+Calculation: n = 90 ÷ 180 = 0.5 mol; moles of C = 6 × 0.5 = 3 mol; C atoms = 3 × 6.023 × 10^{23} = 1.81 × 10^{24}; mass of C = 3 × 12 = 36 g
+Answer: 0.5 mol glucose; 1.81 × 10^{24} C atoms; 36 g of carbon
+## mistakes
+x In CuSO₄·5H₂O there are only 4 O atoms.
+v The 5H₂O also counts: 4 + 5 × 1 = 9 O atoms and 10 H atoms; molecular mass 249.5.
+x 1 mole of H₂O contains 1 mole of atoms.
+v It contains 3 moles of atoms: 2 moles of H and 1 mole of O.
+x In Al₂(SO₄)₃ there are 4 O atoms.
+v The bracket is multiplied by 3: 3 × 4 = 12 O atoms (and 3 S atoms).
+## remember
+- A formula gives atoms per molecule AND moles of atoms per mole.
+- Moles of an element = moles of compound × its subscript.
+- 1 mole = gram-molecular mass (H₂O: 18 g).
+- Brackets multiply; a dot (·) adds.
+## think
+Which contains more oxygen atoms: 1 mole of CO₂ or 1 mole of H₂SO₄? And which contains more oxygen by mass: 44 g of CO₂ or 98 g of H₂SO₄?
+## quiz
+? How many moles of H atoms are in 1 mole of H₂O?
+- 1
+* 2
+- 3
+- 18
+= The subscript 2 means 2 H atoms per molecule, so 2 moles of H atoms per mole of H₂O.
+? The total number of atoms in one molecule of CuSO₄·5H₂O is:
+- 6
+- 15
+* 21
+- 9
+= 1 Cu + 1 S + 9 O + 10 H = 21 atoms.
+? 0.5 mole of H₂SO₄ contains how many moles of O atoms?
+- 0.5
+- 4
+* 2
+- 1
+= Moles of O = 4 × 0.5 = 2.
+== bn
+## what
+**আণবিক সংকেত** শুধু পদার্থের নাম বলে না: এটি **একটি অণুতে** প্রতিটি মৌলের কয়টি পরমাণু আছে তা দেয়, আর একইভাবে পদার্থের **এক মোলে** প্রতিটি মৌলের কত **মোল** পরমাণু আছে এবং এর আণবিক ভর কত তা-ও দেয়।
+## simple
+**H₂O** সংকেতটা দেখো। এটা যেন তথ্যে ঠাসা একটা ছোট্ট বাক্য। একে দুই স্তরে পড়ো: একটি অণু, আর এক মোল।
+
+**H₂O আমাদের যা বলে:**
+১. পদার্থটি পানি।
+২. পানির একটি অণুর সংকেত H₂O।
+৩. পানির এক **মোলের** সংকেতও H₂O।
+৪. একটি H₂O অণুতে **২টি হাইড্রোজেন পরমাণু ও ১টি অক্সিজেন পরমাণু** আছে।
+৫. এক মোল H₂O-তে **২ মোল H পরমাণু ও ১ মোল O পরমাণু** আছে।
+৬. এক মোল H₂O-তে হাইড্রোজেনের ভর ১ × ২ = ২ g আর অক্সিজেনের ভর ১৬ × ১ = ১৬ g, তাই এক মোল পানির ভর ২ + ১৬ = **১৮ g**।
+৭. এক মোল H₂O-তে ৬.০২৩ × ১০^{২৩}টি পানির অণু, ২ × ৬.০২৩ × ১০^{২৩} = **১.২০ × ১০^{২৪}টি H পরমাণু** আর **৬.০২৩ × ১০^{২৩}টি O পরমাণু** আছে।
+
+**মোল = গ্রাম-আণবিক ভর।** পানির আণবিক ভর (১৮) সরাসরি সংকেত থেকেই আসে, তাই ১৮ g পানিকে বলে পানির **এক গ্রাম-আণবিক ভর**, যা **১ মোলের** সমান। তাই সংকেত জানলেই জানো কত গ্রামে এক মোল হয়।
+
+**বড় করে ভাবা।** সংকেতের নিচের ছোট সংখ্যাগুলো রেসিপির মতো কাজ করে: তোমার কাছে ০.৫ মোল H₂SO₄ থাকলে H পরমাণু আছে ২ × ০.৫ = ১ মোল, S পরমাণু ০.৫ মোল আর O পরমাণু ৪ × ০.৫ = ২ মোল। যৌগের মোলকে প্রতিটি সংখ্যা দিয়ে গুণ করো। বন্ধনী আর ডট-ও হিসাবে ঢোকে: Al₂(SO₄)₃-এ O পরমাণু ৩ × ৪ = ১২টি; CuSO₄·5H₂O-তে O পরমাণু ৪ + ৫ = ৯টি।
+## analogy
+সংকেত যেন এক প্লেট খিচুড়ির রেসিপি কার্ড: "২ কাপ চাল, ১ কাপ ডাল"। ১০০ প্লেটের বড় ডেকচির জন্য কী লাগবে তা-ও একই কার্ড বলে দেয়, শুধু সবকিছু ১০০ দিয়ে গুণ করো। আণবিক সংকেত একটি অণুর বর্ণনা দেয়, আর Nₐ দিয়ে গুণ করলে পাও এক মোলের রেসিপি।
+## definition
+**আণবিক সংকেত**: যে সংকেত কোনো পদার্থের একটি অণুতে উপস্থিত প্রতিটি মৌলের পরমাণুর প্রকৃত সংখ্যা প্রকাশ করে।
+
+**গ্রাম-আণবিক ভর**: কোনো পদার্থের আণবিক ভরকে গ্রাম এককে প্রকাশ করলে যা হয়; এটি ঐ পদার্থের ১ মোলের ভর।
+## why
+সংকেতকে পরমাণুর মতো মোলের ভাষাতেও পড়া যায় কেন? এক মোল H₂O মানে শুধু Nₐটি অণু। প্রতিটি অণু আনে ২টি H আর ১টি O পরমাণু, তাই Nₐটি অণু আনে ২Nₐটি H পরমাণু (২ মোল) আর Nₐটি O পরমাণু (১ মোল)। সব সংখ্যাকে একই Nₐ দিয়ে গুণ করলে অনুপাত বদলায় না।
+## terms
+আণবিক সংকেত | একটি অণুতে প্রতিটি মৌলের পরমাণুর প্রকৃত সংখ্যা
+নিম্নসংখ্যা (সাবস্ক্রিপ্ট) | প্রতীকের পরের ছোট সংখ্যা, কয়টি পরমাণু বোঝায় (H₂ → ২টি H পরমাণু)
+গ্রাম-আণবিক ভর | গ্রাম এককে আণবিক ভর = ১ মোলের ভর
+কেলাস পানি | কেলাসে আটকে থাকা পানির অণু, ডটের পরে লেখা হয় (CuSO₄·5H₂O)
+## formula
+$$ কোনো মৌলের পরমাণুর মোল = যৌগের মোল × সংকেতে ঐ মৌলের পরমাণুর সংখ্যা
+$$ আণবিক ভর = Σ (পারমাণবিক ভর × পরমাণুর সংখ্যা)
+! বন্ধনী ভেতরের সবকিছুকে গুণ করে: (SO₄)₃ = ৩টি S + ১২টি O।
+! ডট যোগ করে: CuSO₄·5H₂O = CuSO₄ + ৫টি H₂O।
+## visual
+একটি সংকেত লেখো (যেমন H₂O, Al2(SO4)3 বা CuSO4.5H2O) বা একটি চিপে চাপ দাও। পরমাণুর হিসাব, আণবিক ভর আর এক মোলে কী কী আছে দেখো।
+## real
+বাংলাদেশে সারের বস্তায় লেখা থাকে "ইউরিয়া, ৪৬% N"। এই সংখ্যা আসে সংকেত CO(NH₂)₂ থেকে: এক মোলে (৬০ g) ২ মোল N পরমাণু (২৮ g) থাকে। কৃষক আর কৃষি কর্মকর্তারা এটা দিয়ে হিসাব করেন জমি আসলে কতটুকু নাইট্রোজেন পাচ্ছে।
+## example
+প্রশ্ন: CO₂ সংকেত থেকে যা যা জানা যায় সব লেখো (C = ১২, O = ১৬)।
+সমাধান: (১) পদার্থটি কার্বন ডাই-অক্সাইড। (২) একটি অণুতে ১টি C ও ২টি O পরমাণু। (৩) এক মোল CO₂-তে ১ মোল C পরমাণু ও ২ মোল O পরমাণু। (৪) আণবিক ভর = ১২ + ২ × ১৬ = ৪৪, তাই ১ মোল = ৪৪ g, যার ১২ g কার্বন আর ৩২ g অক্সিজেন। (৫) এক মোলে ৬.০২৩ × ১০^{২৩}টি CO₂ অণু, ৬.০২৩ × ১০^{২৩}টি C পরমাণু আর ১.২০ × ১০^{২৪}টি O পরমাণু।
+উত্তর: সংকেত থেকে পদার্থের পরিচয়, অণুপ্রতি ও মোলপ্রতি পরমাণুর সংখ্যা এবং মোলার ভর (৪৪ g) জানা যায়।
+## example
+প্রশ্ন: ৪৯ g H₂SO₄-এ কত মোল O পরমাণু এবং কয়টি O পরমাণু আছে?
+দেওয়া আছে: w = ৪৯ g; M = ৯৮; প্রতিটি অণুতে ৪টি O পরমাণু
+সূত্র: n = w/M; O-এর মোল = ৪ × n
+হিসাব: n = ৪৯ ÷ ৯৮ = ০.৫ mol H₂SO₄; O-এর মোল = ৪ × ০.৫ = ২ mol; O পরমাণু = ২ × ৬.০২৩ × ১০^{২৩} = ১.২০ × ১০^{২৪}
+উত্তর: ২ মোল O পরমাণু, অর্থাৎ ১.২০ × ১০^{২৪}টি O পরমাণু
+## example
+প্রশ্ন: ৯০ g গ্লুকোজে (C₆H₁₂O₆) কত মোল গ্লুকোজ, কয়টি C পরমাণু আর কত গ্রাম কার্বন আছে?
+দেওয়া আছে: M = ৬ × ১২ + ১২ × ১ + ৬ × ১৬ = ১৮০
+সূত্র: n = w/M
+হিসাব: n = ৯০ ÷ ১৮০ = ০.৫ mol; C-এর মোল = ৬ × ০.৫ = ৩ mol; C পরমাণু = ৩ × ৬.০২৩ × ১০^{২৩} = ১.৮১ × ১০^{২৪}; C-এর ভর = ৩ × ১২ = ৩৬ g
+উত্তর: ০.৫ mol গ্লুকোজ; ১.৮১ × ১০^{২৪}টি C পরমাণু; ৩৬ g কার্বন
+## mistakes
+x CuSO₄·5H₂O-তে মাত্র ৪টি O পরমাণু।
+v 5H₂O-ও গুনতে হবে: ৪ + ৫ × ১ = ৯টি O আর ১০টি H পরমাণু; আণবিক ভর ২৪৯.৫।
+x ১ মোল H₂O-তে ১ মোল পরমাণু থাকে।
+v এতে ৩ মোল পরমাণু: ২ মোল H আর ১ মোল O।
+x Al₂(SO₄)₃-এ ৪টি O পরমাণু।
+v বন্ধনীকে ৩ দিয়ে গুণ করতে হয়: ৩ × ৪ = ১২টি O পরমাণু (আর ৩টি S)।
+## remember
+- সংকেত দেয় অণুপ্রতি পরমাণু এবং মোলপ্রতি পরমাণুর মোল।
+- কোনো মৌলের মোল = যৌগের মোল × তার নিম্নসংখ্যা।
+- ১ মোল = গ্রাম-আণবিক ভর (H₂O: ১৮ g)।
+- বন্ধনী গুণ করে; ডট (·) যোগ করে।
+## think
+কোনটিতে অক্সিজেন পরমাণু বেশি: ১ মোল CO₂ নাকি ১ মোল H₂SO₄? আর ভরের হিসাবে কোনটিতে অক্সিজেন বেশি: ৪৪ g CO₂ নাকি ৯৮ g H₂SO₄?
+## quiz
+? ১ মোল H₂O-তে কত মোল H পরমাণু আছে?
+- ১
+* ২
+- ৩
+- ১৮
+= নিম্নসংখ্যা ২ মানে অণুপ্রতি ২টি H পরমাণু, তাই H₂O-এর প্রতি মোলে ২ মোল H পরমাণু।
+? CuSO₄·5H₂O-এর একটি অণুতে মোট পরমাণুর সংখ্যা:
+- ৬
+- ১৫
+* ২১
+- ৯
+= ১টি Cu + ১টি S + ৯টি O + ১০টি H = ২১টি পরমাণু।
+? ০.৫ মোল H₂SO₄-এ কত মোল O পরমাণু আছে?
+- ০.৫
+- ৪
+* ২
+- ১
+= O-এর মোল = ৪ × ০.৫ = ২।
+
+@@ 6.1.3
+@visual k6flask
+@related 6.1 6.1.2 9.4 6.3.2
+== en
+## what
+A **solution** is a uniform mixture of a **solute** dissolved in a **solvent**. Its **molarity** (S) is the number of moles of solute dissolved in **1 litre of solution** at a given temperature; a solution with 1 mole of solute per litre is a **molar (1 M) solution**.
+## simple
+Stir a spoonful of salt into half a glass of water. After a while the salt disappears: you have made a **solution** (দ্রবণ). The salt, which dissolved, is the **solute** (দ্রব); the water, which did the dissolving, is the **solvent** (দ্রাবক).
+
+**Solution = solute + solvent.** When the solvent is water, we call it an **aqueous solution**, marked (aq).
+
+**Dilute or concentrated?** Mix 10 g of salt in 250 mL of water in one glass, and 15 g of salt in 250 mL of water in another. The first has less solute, so it is **dilute** (লঘু); the second is **concentrated** (গাঢ়). Or dissolve 10 g of salt in 250 mL of water and another 10 g in 200 mL: the one with more water is more dilute. These words are only *relative*; there is no fixed line between dilute and concentrated. To say exactly how strong a solution is, chemists use a number: **molarity**.
+
+**Molarity.** Molarity = moles of solute ÷ litres of solution.
+- 1 mole of solute in 1 L of solution → **1 molar (1 M)**, a *molar solution*
+- 2 moles in 1 L → **2 M**
+- 0.5 mole in 1 L → **0.5 M**, called a **semimolar** solution
+- 0.1 mole in 1 L → **0.1 M**, called a **decimolar** solution
+
+Notice: it is per litre of **solution** (solute + water together), not per litre of water.
+
+**The working formula.** If you want a volume V mL of an S molar solution of a substance with molecular mass M, the mass you must weigh is
+
+**w = S × V × M ÷ 1000**
+
+(The ÷ 1000 turns mL into litres.) Rearranged: S = 1000w ÷ (M × V). This one equation solves every molarity problem: any three of w, S, V, M give the fourth.
+
+**Making a solution in a volumetric flask.** A **volumetric flask** has a long neck with one etched mark; filled to that mark it holds exactly 100, 250, 500 or 1000 mL.
+1. Choose a flask of the volume you need.
+2. Calculate w and weigh that much solute accurately.
+3. Transfer it into the flask through a funnel, rinsing the funnel with a little distilled water.
+4. Add distilled water to about half, stopper and swirl until all the solid dissolves.
+5. Add more water, the last drops with a dropper, until the bottom of the curved water surface (meniscus) sits on the mark. Stopper and invert several times to mix.
+
+Important: you fill **up to the mark**, you do not pour in 250 mL of water on top of the solid. The solid itself takes up some room, so "250 mL of solution" needs a little less than 250 mL of water. (Some books say "add 250 mL water"; what is really meant is "make the volume up to 250 mL".)
+
+**Experiment: preparing 0.1 M Na₂CO₃ solution in a 250 mL volumetric flask.** Sodium carbonate is a *primary standard*: it is available pure and dry, can be weighed directly, and its solution keeps well. Calculation: w = 0.1 × 250 × 106 ÷ 1000 = **2.65 g**. Weigh a dry weighing bottle, add sodium carbonate until the mass has risen by 2.65 g, tip it through a funnel into the clean flask, wash in the last traces with distilled water from a wash bottle, dissolve with swirling, then make up to the 250 mL mark. Precautions: use dry, pure sodium carbonate, a dry weighing bottle and distilled water only; wear safety goggles. Weighing exactly 2.65 g is hard, so in practice you weigh close to it (say 2.70 g) and calculate the actual molarity from what you weighed.
+## analogy
+Molarity is like the strength of a glass of sherbet. Two spoons of sugar in one glass tastes twice as sweet as one spoon in the same glass. What matters is how much sugar is in each glassful, not the total amount of sugar in the jug. Molarity counts "moles of solute per litre-glass".
+## definition
+**Solution (দ্রবণ)**: a homogeneous mixture formed when a solute dissolves in a solvent. **Solute (দ্রব)**: the substance that dissolves. **Solvent (দ্রাবক)**: the substance in which it dissolves.
+
+**Molarity (মোলারিটি)**: the number of moles of solute dissolved in 1 litre of solution at a fixed temperature. Unit: mol/L, written M (molar).
+
+**Molar solution**: a solution containing 1 mole of solute in 1 litre of solution at a fixed temperature. **Semimolar**: 0.5 M. **Decimolar**: 0.1 M.
+## why
+Why define molarity per litre of solution and not per litre of solvent? Because in the laboratory we measure out solutions by volume (with pipettes, burettes and flasks). If we know the moles per litre of the solution, any volume we pour out tells us directly how many moles of solute we used, and moles are what reactions count. Temperature is mentioned because liquids expand when warmed: the same solution fills a slightly larger volume, so its molarity changes a little.
+## terms
+Solute (দ্রব) | The substance that dissolves (salt in salt water)
+Solvent (দ্রাবক) | The substance that does the dissolving (water)
+Aqueous solution (জলীয় দ্রবণ) | A solution in which water is the solvent; symbol (aq)
+Dilute / concentrated (লঘু / গাঢ়) | Relatively little / much solute in a given amount of solvent
+Molarity (S) | Moles of solute per litre of solution, mol/L (M)
+Semimolar / decimolar | 0.5 M / 0.1 M solution
+Volumetric flask (আয়তনিক ফ্লাস্ক) | Flask with one mark that holds an exact volume
+## formula
+$$ S = n/V(L)
+$$ w = S × V × M / 1000
+$$ S = (w × 1000)/(M × V)
+tri n | S | V
+S | molarity of the solution | mol/L (M)
+n | moles of solute | mol
+V | volume of solution (in the triangle: litres; in w = SVM/1000: mL) | L or mL
+w | mass of solute | g
+M | molecular mass of solute | g/mol
+! 1 L = 1000 mL, so n = S × V(mL)/1000.
+! Always use the volume of the SOLUTION, not of the water added.
+## visual
+Choose a solute and a flask size, then set the molarity you want. The widget tells you how many grams to weigh, and the colour and particle density show how concentrated the solution is.
+## real
+Saline drip in hospitals (0.9% NaCl, about 0.154 M) must match the salt concentration of blood exactly; too dilute or too concentrated would damage blood cells. The Department of Public Health Engineering tests tube-well water for arsenic and iron using standard solutions of exactly known molarity.
+## example
+Q: How will you prepare 0.2 M NaCl solution in a 250 mL volumetric flask?
+Given: V = 250 mL, S = 0.2 M, M(NaCl) = 23 + 35.5 = 58.5
+Formula: w = SVM/1000
+Substitution: w = 0.2 × 250 × 58.5 ÷ 1000
+Calculation: w = 2.925 g
+> Check another way: 1 L of 0.2 M needs 0.2 × 58.5 = 11.7 g; 250 mL is a quarter of a litre, so 11.7 ÷ 4 = 2.925 g.
+Answer: Weigh 2.925 g of NaCl, put it in the 250 mL flask, dissolve in some distilled water and make up to the mark.
+## example
+Q: How much Na₂CO₃ is there in 2 litres of 0.1 M Na₂CO₃ solution?
+Given: V = 2000 mL, S = 0.1 M, M = 23 × 2 + 12 + 16 × 3 = 106
+Formula: w = SVM/1000
+Calculation: w = 0.1 × 2000 × 106 ÷ 1000 = 21.2 g
+Answer: 21.2 g
+## example
+Q: What is the molarity of a solution containing 20 g Na₂CO₃ in 250 mL of solution?
+Given: w = 20 g, V = 250 mL, M = 106
+Formula: S = (w × 1000)/(M × V)
+Substitution: S = 20 × 1000 ÷ (106 × 250)
+Calculation: S = 20 000 ÷ 26 500 = 0.755 M
+> The book rounds this to 0.75 M.
+Answer: about 0.75 M
+## example
+Q: What volume of 0.5 M Na₂CO₃ solution contains 26.5 g of Na₂CO₃?
+Given: w = 26.5 g, S = 0.5 M, M = 106
+Formula: V = (w × 1000)/(S × M)
+Calculation: V = 26.5 × 1000 ÷ (0.5 × 106) = 26 500 ÷ 53 = 500 mL
+Answer: 500 mL
+## example
+Q: A 250 mL solution contains 2.65 g of a substance and its molarity is 0.1 M. What is the molecular mass of the solute?
+Given: w = 2.65 g, V = 250 mL, S = 0.1 M
+Formula: M = (w × 1000)/(S × V)
+Calculation: M = 2.65 × 1000 ÷ (0.1 × 250) = 2650 ÷ 25 = 106
+Answer: 106 (the solute could be Na₂CO₃)
+## example
+Q: Find the molarity of a solution containing 4 g of NaOH in 100 mL of solution.
+Given: w = 4 g, V = 100 mL, M(NaOH) = 23 + 16 + 1 = 40
+Formula: S = (w × 1000)/(M × V)
+Calculation: S = 4 × 1000 ÷ (40 × 100) = 1 M
+> NaOH is corrosive: handle it with gloves and goggles.
+Answer: 1 M
+## mistakes
+x Molarity = moles of solute per litre of water.
+v Molarity = moles of solute per litre of SOLUTION.
+x To make 250 mL of solution, add 250 mL of water to the weighed solid.
+v Dissolve the solid in a little water, then add water only up to the 250 mL mark.
+x A "concentrated" solution always has a molarity above 1 M.
+v Dilute and concentrated are relative words; only molarity gives an exact strength.
+x In w = SVM/1000 the volume is in litres.
+v In w = SVM/1000 the volume V is in mL; the 1000 converts it to litres.
+## remember
+- Solution = solute + solvent; (aq) means water is the solvent.
+- Molarity S = moles of solute per litre of solution (M).
+- 1 M molar, 0.5 M semimolar, 0.1 M decimolar.
+- w = SVM/1000 (V in mL).
+- Volumetric flask: dissolve, then make up to the mark.
+## think
+You have 100 mL of 1 M NaCl solution. You pour half of it into another beaker. What is the molarity of the half you poured? How many moles of NaCl does it contain?
+## quiz
+? What mass of NaOH (M = 40) is needed to make 500 mL of 0.1 M solution?
+- 4 g
+* 2 g
+- 20 g
+- 0.2 g
+= w = 0.1 × 500 × 40 ÷ 1000 = 2 g.
+? A decimolar solution has a molarity of:
+- 10 M
+- 0.5 M
+* 0.1 M
+- 1 M
+= Deci = one tenth: 0.1 mole per litre.
+? 5.85 g NaCl (M = 58.5) is dissolved to make 500 mL of solution. The molarity is:
+- 0.1 M
+* 0.2 M
+- 0.5 M
+- 2 M
+= n = 5.85 ÷ 58.5 = 0.1 mol; S = 0.1 ÷ 0.5 L = 0.2 M.
+? In a solution of sugar in water, the solvent is:
+- sugar
+* water
+- the solution
+- both sugar and water
+= The solvent is the substance that dissolves the other; here water dissolves the sugar.
+== bn
+## what
+**দ্রাবকে** **দ্রব** দ্রবীভূত হয়ে যে সমসত্ত্ব মিশ্রণ তৈরি হয়, তাকে **দ্রবণ** বলে। নির্দিষ্ট তাপমাত্রায় **১ লিটার দ্রবণে** যত মোল দ্রব দ্রবীভূত থাকে, তা-ই দ্রবণের **মোলারিটি** (S); প্রতি লিটারে ১ মোল দ্রব থাকলে সেটি **মোলার (১ M) দ্রবণ**।
+## simple
+আধা গ্লাস পানিতে এক চামচ লবণ মেশাও। কিছুক্ষণ পর লবণ আর দেখা যায় না: তুমি একটি **দ্রবণ** বানালে। যে লবণ দ্রবীভূত হলো সেটি **দ্রব**; যে পানি তাকে দ্রবীভূত করল সেটি **দ্রাবক**।
+
+**দ্রবণ = দ্রব + দ্রাবক।** পানি দ্রাবক হলে দ্রবণকে বলে **জলীয় দ্রবণ**, চিহ্ন (aq)।
+
+**লঘু নাকি গাঢ়?** একটি গ্লাসে ২৫০ mL পানিতে ১০ g লবণ, আরেকটিতে ২৫০ mL পানিতে ১৫ g লবণ মেশাও। প্রথমটিতে দ্রব কম, তাই এটি **লঘু দ্রবণ**; দ্বিতীয়টি **গাঢ় দ্রবণ**। অথবা ১০ g লবণ ২৫০ mL পানিতে আর আরও ১০ g লবণ ২০০ mL পানিতে গোলো: যেটিতে পানি বেশি সেটি বেশি লঘু। এই শব্দগুলো শুধু *তুলনামূলক*; লঘু আর গাঢ়ের মাঝে কোনো নির্দিষ্ট সীমারেখা নেই। দ্রবণ ঠিক কতটা শক্তিশালী তা বলতে রসায়নবিদেরা একটি সংখ্যা ব্যবহার করেন: **মোলারিটি**।
+
+**মোলারিটি।** মোলারিটি = দ্রবের মোল ÷ দ্রবণের লিটার।
+- ১ লিটার দ্রবণে ১ মোল দ্রব → **১ মোলার (১ M)**, *মোলার দ্রবণ*
+- ১ লিটারে ২ মোল → **২ M**
+- ১ লিটারে ০.৫ মোল → **০.৫ M**, একে বলে **সেমিমোলার** দ্রবণ
+- ১ লিটারে ০.১ মোল → **০.১ M**, একে বলে **ডেসিমোলার** দ্রবণ
+
+খেয়াল করো: এটি প্রতি লিটার **দ্রবণে** (দ্রব আর পানি মিলিয়ে), প্রতি লিটার পানিতে নয়।
+
+**কাজের সূত্র।** M আণবিক ভরের কোনো পদার্থের S মোলার দ্রবণ V mL বানাতে চাইলে যত গ্রাম ওজন করতে হবে:
+
+**w = S × V × M ÷ ১০০০**
+
+(÷ ১০০০ দিয়ে mL-কে লিটারে আনা হয়।) সাজিয়ে লিখলে: S = ১০০০w ÷ (M × V)। এই একটি সমীকরণ দিয়েই মোলারিটির সব সমস্যার সমাধান: w, S, V, M-এর যেকোনো তিনটি দিলে চতুর্থটি পাওয়া যায়।
+
+**আয়তনিক ফ্লাস্কে দ্রবণ তৈরি।** **আয়তনিক ফ্লাস্কের** লম্বা গলায় একটি দাগ কাটা থাকে; দাগ পর্যন্ত ভরলে এতে ঠিক ১০০, ২৫০, ৫০০ বা ১০০০ mL ধরে।
+১. যত আয়তন দরকার সেই মাপের ফ্লাস্ক বাছো।
+২. w হিসাব করে তত গ্রাম দ্রব নিখুঁতভাবে ওজন করো।
+৩. ফানেল দিয়ে ফ্লাস্কে ঢালো, অল্প পাতিত পানি দিয়ে ফানেল ধুয়ে দাও।
+৪. প্রায় অর্ধেক পর্যন্ত পাতিত পানি দাও, ছিপি লাগিয়ে ঝাঁকাও যতক্ষণ না সব কঠিন দ্রবীভূত হয়।
+৫. আরও পানি দাও, শেষ ফোঁটাগুলো ড্রপার দিয়ে, যতক্ষণ না পানির বাঁকা তলের (মেনিস্কাস) নিচের অংশ দাগে বসে। ছিপি লাগিয়ে কয়েকবার উল্টে মেশাও।
+
+গুরুত্বপূর্ণ: তুমি **দাগ পর্যন্ত** পানি ভরবে, কঠিন পদার্থের ওপর ২৫০ mL পানি ঢেলে দেবে না। কঠিন পদার্থ নিজেও কিছু জায়গা নেয়, তাই "২৫০ mL দ্রবণ" বানাতে ২৫০ mL-এর চেয়ে সামান্য কম পানি লাগে। (কোনো কোনো বইয়ে "২৫০ mL পানি যোগ করো" লেখা থাকে; আসল অর্থ হলো "আয়তন ২৫০ mL পর্যন্ত পূর্ণ করো"।)
+
+**পরীক্ষণ: ২৫০ mL আয়তনিক ফ্লাস্কে ০.১ M Na₂CO₃ দ্রবণ প্রস্তুতি।** সোডিয়াম কার্বনেট একটি *প্রাইমারি স্ট্যান্ডার্ড* পদার্থ: এটি বিশুদ্ধ ও শুষ্ক অবস্থায় পাওয়া যায়, সরাসরি ওজন করা যায়, আর এর দ্রবণ অনেক দিন টেকে। হিসাব: w = ০.১ × ২৫০ × ১০৬ ÷ ১০০০ = **২.৬৫ g**। একটি শুষ্ক ওজন-বোতল ওজন করো, তাতে সোডিয়াম কার্বনেট দাও যতক্ষণ না ভর ২.৬৫ g বাড়ে, ফানেল দিয়ে পরিষ্কার ফ্লাস্কে ঢালো, ওয়াশ বোতলের পাতিত পানি দিয়ে শেষ কণাটুকুও ধুয়ে ঢোকাও, ঝাঁকিয়ে দ্রবীভূত করো, তারপর ২৫০ mL দাগ পর্যন্ত পূর্ণ করো। সতর্কতা: শুষ্ক ও বিশুদ্ধ সোডিয়াম কার্বনেট, শুষ্ক ওজন-বোতল আর শুধু পাতিত পানি ব্যবহার করো; নিরাপত্তা চশমা পরো। ঠিক ২.৬৫ g মাপা কঠিন, তাই বাস্তবে কাছাকাছি (ধরো ২.৭০ g) মেপে যা মাপলে তা দিয়ে প্রকৃত মোলারিটি হিসাব করা হয়।
+## analogy
+মোলারিটি হলো এক গ্লাস শরবতের মিষ্টতার মতো। একই গ্লাসে দুই চামচ চিনি দিলে এক চামচের চেয়ে দ্বিগুণ মিষ্টি লাগে। জগে মোট কত চিনি আছে তা নয়, প্রতি গ্লাসে কতটুকু চিনি তা-ই আসল। মোলারিটি গোনে "প্রতি লিটার-গ্লাসে দ্রবের মোল"।
+## definition
+**দ্রবণ**: দ্রাবকে দ্রব দ্রবীভূত হয়ে তৈরি সমসত্ত্ব মিশ্রণ। **দ্রব**: যে পদার্থ দ্রবীভূত হয়। **দ্রাবক**: যে পদার্থে দ্রবীভূত হয়।
+
+**মোলারিটি**: নির্দিষ্ট তাপমাত্রায় ১ লিটার দ্রবণে দ্রবীভূত দ্রবের মোল সংখ্যা। একক: mol/L, লেখা হয় M (মোলার)।
+
+**মোলার দ্রবণ**: নির্দিষ্ট তাপমাত্রায় ১ লিটার দ্রবণে ১ মোল দ্রব দ্রবীভূত থাকলে সেই দ্রবণ। **সেমিমোলার**: ০.৫ M। **ডেসিমোলার**: ০.১ M।
+## why
+মোলারিটিকে দ্রাবকের লিটারে নয়, দ্রবণের লিটারে সংজ্ঞায়িত করা হয় কেন? কারণ পরীক্ষাগারে আমরা দ্রবণ আয়তন দিয়ে মেপে নিই (পিপেট, ব্যুরেট, ফ্লাস্ক দিয়ে)। দ্রবণের প্রতি লিটারে কত মোল তা জানলে যেকোনো আয়তন ঢাললেই সরাসরি জানা যায় কত মোল দ্রব নেওয়া হলো, আর বিক্রিয়া মোলই গোনে। তাপমাত্রার কথা বলা হয় কারণ গরম করলে তরল প্রসারিত হয়: একই দ্রবণ সামান্য বেশি আয়তন নেয়, তাই মোলারিটি একটু বদলায়।
+## terms
+দ্রব | যে পদার্থ দ্রবীভূত হয় (লবণপানিতে লবণ)
+দ্রাবক | যে পদার্থ দ্রবীভূত করে (পানি)
+জলীয় দ্রবণ | পানি দ্রাবক এমন দ্রবণ; চিহ্ন (aq)
+লঘু / গাঢ় দ্রবণ | নির্দিষ্ট দ্রাবকে তুলনামূলক কম / বেশি দ্রব
+মোলারিটি (S) | প্রতি লিটার দ্রবণে দ্রবের মোল, mol/L (M)
+সেমিমোলার / ডেসিমোলার | ০.৫ M / ০.১ M দ্রবণ
+আয়তনিক ফ্লাস্ক | একটি দাগওয়ালা ফ্লাস্ক, যা নির্দিষ্ট আয়তন ধরে
+## formula
+$$ S = n/V(L)
+$$ w = S × V × M / 1000
+$$ S = (w × 1000)/(M × V)
+tri n | S | V
+S | দ্রবণের মোলারিটি | mol/L (M)
+n | দ্রবের মোল | mol
+V | দ্রবণের আয়তন (ত্রিভুজে: লিটার; w = SVM/১০০০-এ: mL) | L বা mL
+w | দ্রবের ভর | g
+M | দ্রবের আণবিক ভর | g/mol
+! ১ L = ১০০০ mL, তাই n = S × V(mL)/১০০০।
+! সবসময় দ্রবণের আয়তন নেবে, যোগ করা পানির আয়তন নয়।
+## visual
+একটি দ্রব আর ফ্লাস্কের মাপ বেছে নাও, তারপর যত মোলার চাও তা ঠিক করো। উইজেট বলে দেবে কত গ্রাম ওজন করতে হবে, আর রং ও কণার ঘনত্ব দেখাবে দ্রবণ কতটা গাঢ়।
+## real
+হাসপাতালের স্যালাইন (০.৯% NaCl, প্রায় ০.১৫৪ M) রক্তের লবণের ঘনমাত্রার সাথে ঠিক মিলতে হয়; বেশি লঘু বা বেশি গাঢ় হলে রক্তকণিকার ক্ষতি হয়। জনস্বাস্থ্য প্রকৌশল অধিদপ্তর টিউবওয়েলের পানিতে আর্সেনিক আর আয়রন পরীক্ষা করে নিখুঁতভাবে জানা মোলারিটির প্রমাণ দ্রবণ দিয়ে।
+## example
+প্রশ্ন: ২৫০ mL আয়তনিক ফ্লাস্কে ০.২ M NaCl দ্রবণ কীভাবে তৈরি করবে?
+দেওয়া আছে: V = ২৫০ mL, S = ০.২ M, M(NaCl) = ২৩ + ৩৫.৫ = ৫৮.৫
+সূত্র: w = SVM/১০০০
+মান বসাই: w = ০.২ × ২৫০ × ৫৮.৫ ÷ ১০০০
+হিসাব: w = ২.৯২৫ g
+> অন্যভাবে যাচাই: ১ L ০.২ M দ্রবণে লাগে ০.২ × ৫৮.৫ = ১১.৭ g; ২৫০ mL হলো লিটারের এক-চতুর্থাংশ, তাই ১১.৭ ÷ ৪ = ২.৯২৫ g।
+উত্তর: ২.৯২৫ g NaCl ওজন করে ২৫০ mL ফ্লাস্কে নাও, কিছু পাতিত পানিতে দ্রবীভূত করে দাগ পর্যন্ত পূর্ণ করো।
+## example
+প্রশ্ন: ২ লিটার ০.১ M Na₂CO₃ দ্রবণে কত গ্রাম Na₂CO₃ আছে?
+দেওয়া আছে: V = ২০০০ mL, S = ০.১ M, M = ২৩ × ২ + ১২ + ১৬ × ৩ = ১০৬
+সূত্র: w = SVM/১০০০
+হিসাব: w = ০.১ × ২০০০ × ১০৬ ÷ ১০০০ = ২১.২ g
+উত্তর: ২১.২ g
+## example
+প্রশ্ন: ২৫০ mL দ্রবণে ২০ g Na₂CO₃ থাকলে দ্রবণের মোলারিটি কত?
+দেওয়া আছে: w = ২০ g, V = ২৫০ mL, M = ১০৬
+সূত্র: S = (w × ১০০০)/(M × V)
+মান বসাই: S = ২০ × ১০০০ ÷ (১০৬ × ২৫০)
+হিসাব: S = ২০ ০০০ ÷ ২৬ ৫০০ = ০.৭৫৫ M
+> বইয়ে এটিকে আসন্ন মান ০.৭৫ M ধরা হয়েছে।
+উত্তর: প্রায় ০.৭৫ M
+## example
+প্রশ্ন: ০.৫ M Na₂CO₃ দ্রবণের কত আয়তনে ২৬.৫ g Na₂CO₃ থাকে?
+দেওয়া আছে: w = ২৬.৫ g, S = ০.৫ M, M = ১০৬
+সূত্র: V = (w × ১০০০)/(S × M)
+হিসাব: V = ২৬.৫ × ১০০০ ÷ (০.৫ × ১০৬) = ২৬ ৫০০ ÷ ৫৩ = ৫০০ mL
+উত্তর: ৫০০ mL
+## example
+প্রশ্ন: ২৫০ mL দ্রবণে ২.৬৫ g পদার্থ দ্রবীভূত আছে এবং মোলারিটি ০.১ M। দ্রবের আণবিক ভর কত?
+দেওয়া আছে: w = ২.৬৫ g, V = ২৫০ mL, S = ০.১ M
+সূত্র: M = (w × ১০০০)/(S × V)
+হিসাব: M = ২.৬৫ × ১০০০ ÷ (০.১ × ২৫০) = ২৬৫০ ÷ ২৫ = ১০৬
+উত্তর: ১০৬ (দ্রবটি Na₂CO₃ হতে পারে)
+## example
+প্রশ্ন: ১০০ mL দ্রবণে ৪ g NaOH থাকলে মোলারিটি কত?
+দেওয়া আছে: w = ৪ g, V = ১০০ mL, M(NaOH) = ২৩ + ১৬ + ১ = ৪০
+সূত্র: S = (w × ১০০০)/(M × V)
+হিসাব: S = ৪ × ১০০০ ÷ (৪০ × ১০০) = ১ M
+> NaOH ক্ষয়কারী: গ্লাভস আর চশমা পরে নাড়াচাড়া করো।
+উত্তর: ১ M
+## mistakes
+x মোলারিটি = প্রতি লিটার পানিতে দ্রবের মোল।
+v মোলারিটি = প্রতি লিটার দ্রবণে দ্রবের মোল।
+x ২৫০ mL দ্রবণ বানাতে ওজন করা কঠিনের ওপর ২৫০ mL পানি ঢালো।
+v কঠিনকে অল্প পানিতে দ্রবীভূত করো, তারপর শুধু ২৫০ mL দাগ পর্যন্ত পানি দাও।
+x "গাঢ়" দ্রবণের মোলারিটি সবসময় ১ M-এর বেশি।
+v লঘু আর গাঢ় তুলনামূলক শব্দ; শুধু মোলারিটিই নিখুঁত শক্তি বলে।
+x w = SVM/১০০০ সূত্রে আয়তন লিটারে।
+v w = SVM/১০০০ সূত্রে V হলো mL-এ; ১০০০ দিয়ে তাকে লিটারে আনা হয়।
+## remember
+- দ্রবণ = দ্রব + দ্রাবক; (aq) মানে পানি দ্রাবক।
+- মোলারিটি S = প্রতি লিটার দ্রবণে দ্রবের মোল (M)।
+- ১ M মোলার, ০.৫ M সেমিমোলার, ০.১ M ডেসিমোলার।
+- w = SVM/১০০০ (V mL-এ)।
+- আয়তনিক ফ্লাস্ক: দ্রবীভূত করো, তারপর দাগ পর্যন্ত পূর্ণ করো।
+## think
+তোমার কাছে ১০০ mL ১ M NaCl দ্রবণ আছে। এর অর্ধেক আরেকটি বিকারে ঢাললে। ঢালা অর্ধেকের মোলারিটি কত? এতে কত মোল NaCl আছে?
+## quiz
+? ৫০০ mL ০.১ M দ্রবণ বানাতে কত গ্রাম NaOH (M = ৪০) লাগবে?
+- ৪ g
+* ২ g
+- ২০ g
+- ০.২ g
+= w = ০.১ × ৫০০ × ৪০ ÷ ১০০০ = ২ g।
+? ডেসিমোলার দ্রবণের মোলারিটি:
+- ১০ M
+- ০.৫ M
+* ০.১ M
+- ১ M
+= ডেসি = এক-দশমাংশ: প্রতি লিটারে ০.১ মোল।
+? ৫.৮৫ g NaCl (M = ৫৮.৫) দ্রবীভূত করে ৫০০ mL দ্রবণ বানানো হলো। মোলারিটি:
+- ০.১ M
+* ০.২ M
+- ০.৫ M
+- ২ M
+= n = ৫.৮৫ ÷ ৫৮.৫ = ০.১ mol; S = ০.১ ÷ ০.৫ L = ০.২ M।
+? পানিতে চিনির দ্রবণে দ্রাবক হলো:
+- চিনি
+* পানি
+- দ্রবণটি
+- চিনি ও পানি দুটোই
+= যে পদার্থ অন্যটিকে দ্রবীভূত করে সেটিই দ্রাবক; এখানে পানি চিনিকে দ্রবীভূত করে।
+
+@@ 6.2
+@visual k6pct
+@related 6.1.2 6.2.1 3.9
+== en
+## what
+The **percentage composition** of an element in a compound is the mass of that element present in **100 g** of the compound. It is calculated from the molecular formula: (atomic mass × number of atoms × 100) ÷ molecular mass.
+## simple
+Suppose a shopkeeper tells you a 100 g packet of mixed nuts has 40 g peanuts, 35 g cashews and 25 g raisins. Then peanuts make up 40%, cashews 35% and raisins 25%. **Percentage composition** does exactly this for the elements in a compound: how many grams of each element are in every 100 g of it.
+
+**Working it out step by step: HCl.** Molecular mass of HCl = 1 + 35.5 = 36.5.
+- 36.5 g of HCl contains 1 g of H.
+- So 1 g of HCl contains 1/36.5 g of H.
+- So 100 g of HCl contains 1 × 100 ÷ 36.5 = **2.74 g** of H. Hydrogen is **2.74%** of HCl.
+- In the same way chlorine is 35.5 × 100 ÷ 36.5 = **97.26%**. (Or simply 100 − 2.74 = 97.26%.)
+
+**The shortcut formula.** Folding those steps into one line:
+
+**% of an element = (atomic mass × number of its atoms × 100) ÷ molecular mass**
+
+For H₂SO₄ (M = 98): H = 1 × 2 × 100 ÷ 98 = 2.04%; S = 32 × 1 × 100 ÷ 98 = 32.65%; O = 16 × 4 × 100 ÷ 98 = 65.31%. The three add up to 100%, which is a good check.
+
+**Experiment: percentage of water of crystallisation in blue vitriol (তুঁতে).** Blue vitriol is copper(II) sulfate pentahydrate, CuSO₄·5H₂O: each formula unit of copper sulfate holds 5 water molecules inside its blue crystal. Heating drives that water off, and the crystals turn into white anhydrous copper sulfate:
+
+CuSO₄·5H₂O(s) → CuSO₄(s) + 5H₂O(g) (on heating)
+
+1. Weigh a clean, dry porcelain dish: **a** g.
+2. Add some powdered blue vitriol and weigh again: **b** g. Mass of blue vitriol = (b − a) g.
+3. Place the dish on a wire gauze on a tripod and heat gently with a spirit lamp or Bunsen burner, stirring now and then, until all the blue colour has turned white.
+4. Stop heating, let the dish cool in a desiccator (so the white powder cannot soak up moisture from the air and turn blue again), and weigh it: **c** g.
+5. Mass of water driven off = (b − a) − (c − a) = **(b − c)** g.
+
+**% of water of crystallisation = (b − c) × 100 ÷ (b − a)**
+
+From the formula, the expected value is 5 × 18 × 100 ÷ 249.5 = **36.07%**. Safety: heat slowly and evenly, never point the dish at anyone, handle the hot dish with tongs, wear goggles, and wash your hands, because copper sulfate is harmful if swallowed.
+## analogy
+Think of a 100 taka note made up of coins: if 60 taka of it is in 5-taka coins and 40 taka in 2-taka coins, you say "60% fives, 40% twos". The coins' **values** (atomic masses), multiplied by how many there are, decide the share, not just the number of coins. In H₂O there are twice as many H atoms as O atoms, yet oxygen makes up almost 89% of the mass because each O atom is 16 times heavier.
+## definition
+**Percentage composition of an element in a compound (যৌগে মৌলের শতকরা সংযুতি)**: the mass in grams of that element present in 100 g of the compound.
+
+% of element = (atomic mass of the element × number of its atoms in the formula × 100) ÷ molecular mass of the compound.
+
+**Water of crystallisation (কেলাস পানি)**: water molecules that are part of the crystal structure of a salt, e.g. the 5H₂O in CuSO₄·5H₂O.
+## why
+Why can percentage composition be found from the formula alone? Because a compound always has a fixed composition (law of constant proportions). The formula fixes the number of atoms of each element in each molecule, and each atom has a fixed mass, so the fraction of the mass contributed by each element is the same in every sample, whether you take 1 g or 1 tonne.
+## terms
+Percentage composition | Mass of an element in 100 g of a compound
+Water of crystallisation (কেলাস পানি) | Water held in a crystal, written after a dot
+Blue vitriol (তুঁতে) | CuSO₄·5H₂O, copper(II) sulfate pentahydrate; blue
+Anhydrous | Without water of crystallisation (white CuSO₄)
+Desiccator | Closed container with a drying agent, used to cool a substance without it absorbing moisture
+## formula
+$$ % of element = (atomic mass × number of atoms × 100)/molecular mass
+$$ % water of crystallisation = (b − c) × 100/(b − a)
+! The percentages of all elements in a compound add up to 100%.
+! a = empty dish, b = dish + blue vitriol, c = dish + white residue after heating.
+## visual
+Pick a compound or type a formula. The bar splits 100 g of it into the mass of each element; tap CuSO₄·5H₂O to see the share of water.
+## real
+Fertiliser labels show percentage composition: urea CO(NH₂)₂ is 46.7% nitrogen, while ammonium sulfate (NH₄)₂SO₄ is only 21.2% nitrogen. A farmer who needs 10 kg of nitrogen for a field needs far less urea than ammonium sulfate, which is one reason urea is the most used fertiliser in Bangladesh.
+## example
+Q: Find the percentage composition of H and O in H₂O.
+Given: M(H₂O) = 2 × 1 + 16 = 18
+Formula: % = (atomic mass × number of atoms × 100)/M
+Calculation: H = 1 × 2 × 100 ÷ 18 = 11.11%; O = 16 × 1 × 100 ÷ 18 = 88.89%
+> Check: 11.11 + 88.89 = 100.
+Answer: H 11.11%, O 88.89%
+## example
+Q: Find the percentage of aluminium, sulfur and oxygen in Al₂(SO₄)₃.
+Given: M = 27 × 2 + (32 + 16 × 4) × 3 = 54 + 288 = 342; atoms: 2 Al, 3 S, 12 O
+Formula: % = (atomic mass × number of atoms × 100)/M
+Calculation: Al = 27 × 2 × 100 ÷ 342 = 15.79%; S = 32 × 3 × 100 ÷ 342 = 28.07%; O = 16 × 12 × 100 ÷ 342 = 56.14%
+> The bracket (SO₄)₃ gives 3 S and 12 O atoms. The book writes 15.78% for Al by cutting off the decimals instead of rounding.
+Answer: Al 15.79%, S 28.07%, O 56.14%
+## example
+Q: Find the percentage of Na and Cl in NaCl.
+Given: M = 23 + 35.5 = 58.5
+Calculation: Na = 23 × 100 ÷ 58.5 = 39.32%; Cl = 35.5 × 100 ÷ 58.5 = 60.68%
+Answer: Na 39.32%, Cl 60.68%
+## example
+Q: In the blue vitriol experiment: empty dish a = 30.00 g, dish + blue vitriol b = 35.00 g, dish + white residue c = 33.20 g. Find the percentage of water of crystallisation and compare it with the value from the formula.
+Given: a = 30.00 g, b = 35.00 g, c = 33.20 g
+Formula: % water = (b − c) × 100 ÷ (b − a)
+Calculation: blue vitriol = 35.00 − 30.00 = 5.00 g; water lost = 35.00 − 33.20 = 1.80 g; % = 1.80 × 100 ÷ 5.00 = 36.0%
+> From the formula: 5 × 18 × 100 ÷ 249.5 = 36.07%. The experiment agrees closely.
+Answer: 36.0% (theoretical 36.07%)
+## mistakes
+x The element with more atoms always has the larger percentage.
+v Percentage depends on atomic mass × number of atoms. H₂O has 2 H and 1 O, but O is 88.89% of the mass.
+x In Al₂(SO₄)₃, % O = 16 × 4 × 100 ÷ 342.
+v The bracket multiplies: there are 12 O atoms, so % O = 16 × 12 × 100 ÷ 342 = 56.14%.
+x The dish can be weighed after cooling in open air.
+v Cool it in a desiccator; anhydrous CuSO₄ absorbs moisture from the air and the result would come out too low.
+## remember
+- % = (atomic mass × number of atoms × 100) ÷ molecular mass.
+- All percentages add up to 100%.
+- HCl: H 2.74%, Cl 97.26%. H₂O: H 11.11%, O 88.89%.
+- Water in CuSO₄·5H₂O: (b − c) × 100 ÷ (b − a); theory 36.07%.
+## think
+If you forgot to cool the dish in a desiccator and the white powder absorbed a little moisture before weighing, would your percentage of water come out higher or lower than 36%? Why?
+## quiz
+? The percentage of hydrogen in H₂O is:
+- 5.55%
+* 11.11%
+- 88.89%
+- 66.67%
+= 1 × 2 × 100 ÷ 18 = 11.11%.
+? The percentage of carbon in CO₂ (M = 44) is:
+* 27.27%
+- 72.73%
+- 33.33%
+- 12%
+= 12 × 1 × 100 ÷ 44 = 27.27%.
+? When blue vitriol is heated strongly, its colour changes from:
+- white to blue
+* blue to white
+- blue to green
+- white to black
+= Losing its water of crystallisation turns blue CuSO₄·5H₂O into white anhydrous CuSO₄.
+? The percentage of water of crystallisation in CuSO₄·5H₂O (M = 249.5) is about:
+- 18%
+- 7.2%
+* 36%
+- 64%
+= 5 × 18 × 100 ÷ 249.5 = 36.07%.
+== bn
+## what
+কোনো যৌগের **১০০ g**-এ কোনো মৌলের যত গ্রাম উপস্থিত থাকে, তাকে ঐ যৌগে মৌলটির **শতকরা সংযুতি** বলে। আণবিক সংকেত থেকে এটি হিসাব করা হয়: (পারমাণবিক ভর × পরমাণুর সংখ্যা × ১০০) ÷ আণবিক ভর।
+## simple
+ধরো দোকানদার বলল, ১০০ g মিক্সড বাদামের প্যাকেটে ৪০ g চিনাবাদাম, ৩৫ g কাজুবাদাম আর ২৫ g কিশমিশ আছে। তাহলে চিনাবাদাম ৪০%, কাজু ৩৫%, কিশমিশ ২৫%। যৌগের মৌলগুলোর জন্য **শতকরা সংযুতি** ঠিক এটাই করে: যৌগের প্রতি ১০০ g-এ প্রতিটি মৌল কত গ্রাম।
+
+**ধাপে ধাপে হিসাব: HCl।** HCl-এর আণবিক ভর = ১ + ৩৫.৫ = ৩৬.৫।
+- ৩৬.৫ g HCl-এ H আছে ১ g।
+- তাই ১ g HCl-এ H আছে ১/৩৬.৫ g।
+- তাই ১০০ g HCl-এ H আছে ১ × ১০০ ÷ ৩৬.৫ = **২.৭৪ g**। HCl-এ হাইড্রোজেন **২.৭৪%**।
+- একইভাবে ক্লোরিন ৩৫.৫ × ১০০ ÷ ৩৬.৫ = **৯৭.২৬%**। (অথবা সহজে ১০০ − ২.৭৪ = ৯৭.২৬%।)
+
+**সংক্ষিপ্ত সূত্র।** ধাপগুলো এক লাইনে ভাঁজ করলে:
+
+**মৌলের শতকরা সংযুতি = (পারমাণবিক ভর × পরমাণুর সংখ্যা × ১০০) ÷ আণবিক ভর**
+
+H₂SO₄-এর জন্য (M = ৯৮): H = ১ × ২ × ১০০ ÷ ৯৮ = ২.০৪%; S = ৩২ × ১ × ১০০ ÷ ৯৮ = ৩২.৬৫%; O = ১৬ × ৪ × ১০০ ÷ ৯৮ = ৬৫.৩১%। তিনটির যোগফল ১০০%, এটা ভালো যাচাই।
+
+**পরীক্ষণ: তুঁতের কেলাস পানির শতকরা পরিমাণ নির্ণয়।** তুঁতে হলো কপার (II) সালফেট পেন্টাহাইড্রেট, CuSO₄·5H₂O: কপার সালফেটের প্রতিটি সংকেত-এককের সাথে নীল কেলাসের ভেতরে ৫টি পানির অণু আটকে থাকে। উত্তপ্ত করলে সেই পানি বাষ্প হয়ে বেরিয়ে যায়, আর কেলাস সাদা অনার্দ্র কপার সালফেটে পরিণত হয়:
+
+CuSO₄·5H₂O(s) → CuSO₄(s) + 5H₂O(g) (তাপে)
+
+১. একটি পরিষ্কার, শুষ্ক পোর্সেলিন বাটি ওজন করো: **a** g।
+২. কিছু গুঁড়া তুঁতে নিয়ে আবার ওজন করো: **b** g। তুঁতের ভর = (b − a) g।
+৩. ত্রিপদী স্ট্যান্ডের ওপর তারজালি রেখে বাটিটি বসাও, স্পিরিট ল্যাম্প বা বুনসেন বার্নারে আস্তে আস্তে তাপ দাও, মাঝে মাঝে নাড়ো, যতক্ষণ না সব নীল রং সাদা হয়ে যায়।
+৪. তাপ দেওয়া বন্ধ করে বাটিটি ডেসিকেটরে ঠান্ডা করো (যেন সাদা গুঁড়া বাতাস থেকে আর্দ্রতা টেনে আবার নীল না হয়), তারপর ওজন নাও: **c** g।
+৫. বেরিয়ে যাওয়া পানির ভর = (b − a) − (c − a) = **(b − c)** g।
+
+**কেলাস পানির শতকরা পরিমাণ = (b − c) × ১০০ ÷ (b − a)**
+
+সংকেত থেকে প্রত্যাশিত মান ৫ × ১৮ × ১০০ ÷ ২৪৯.৫ = **৩৬.০৭%**। নিরাপত্তা: আস্তে ও সমানভাবে তাপ দাও, বাটির মুখ কারও দিকে রেখো না, গরম বাটি চিমটা দিয়ে ধরো, চশমা পরো, আর কাজ শেষে হাত ধোও, কারণ কপার সালফেট গিলে ফেললে ক্ষতিকর।
+## analogy
+ভাবো ১০০ টাকা কয়েনে ভাঙানো আছে: ৬০ টাকা ৫ টাকার কয়েনে আর ৪০ টাকা ২ টাকার কয়েনে। তুমি বলবে "৬০% পাঁচ টাকা, ৪০% দুই টাকা"। ভাগ ঠিক করে কয়েনের **মূল্য** (পারমাণবিক ভর) × কয়টি আছে, শুধু কয়েনের সংখ্যা নয়। H₂O-তে O-এর দ্বিগুণ H পরমাণু, তবু ভরের প্রায় ৮৯% অক্সিজেন, কারণ প্রতিটি O পরমাণু ১৬ গুণ ভারী।
+## definition
+**যৌগে মৌলের শতকরা সংযুতি**: ১০০ g যৌগে ঐ মৌলের যত গ্রাম উপস্থিত থাকে।
+
+মৌলের শতকরা সংযুতি = (মৌলের পারমাণবিক ভর × সংকেতে তার পরমাণুর সংখ্যা × ১০০) ÷ যৌগের আণবিক ভর।
+
+**কেলাস পানি**: যে পানির অণু লবণের কেলাস-গঠনের অংশ, যেমন CuSO₄·5H₂O-এর 5H₂O।
+## why
+শুধু সংকেত থেকেই শতকরা সংযুতি বের করা যায় কেন? কারণ যৌগের সংযুতি সবসময় নির্দিষ্ট (স্থিরানুপাত সূত্র)। সংকেত প্রতিটি অণুতে প্রতিটি মৌলের পরমাণুর সংখ্যা ঠিক করে দেয়, আর প্রতিটি পরমাণুর ভর নির্দিষ্ট, তাই ভরের কতটা অংশ কোন মৌলের তা যেকোনো নমুনায় একই, ১ g নাও বা ১ টন।
+## terms
+শতকরা সংযুতি | ১০০ g যৌগে কোনো মৌলের ভর
+কেলাস পানি | কেলাসে আটকে থাকা পানি, ডটের পরে লেখা হয়
+তুঁতে (ব্লু ভিট্রিয়ল) | CuSO₄·5H₂O, কপার (II) সালফেট পেন্টাহাইড্রেট; নীল
+অনার্দ্র | কেলাস পানি ছাড়া (সাদা CuSO₄)
+ডেসিকেটর | শুষ্ককারক পদার্থওয়ালা বন্ধ পাত্র, যেখানে কোনো পদার্থ আর্দ্রতা না টেনে ঠান্ডা হয়
+## formula
+$$ মৌলের শতকরা সংযুতি = (পারমাণবিক ভর × পরমাণুর সংখ্যা × 100)/আণবিক ভর
+$$ কেলাস পানির শতকরা পরিমাণ = (b − c) × 100/(b − a)
+! যৌগের সব মৌলের শতকরা সংযুতির যোগফল ১০০%।
+! a = খালি বাটি, b = বাটি + তুঁতে, c = তাপ দেওয়ার পর বাটি + সাদা অবশেষ।
+## visual
+একটি যৌগ বেছে নাও বা সংকেত লেখো। বারটি যৌগের ১০০ g-কে প্রতিটি মৌলের ভরে ভাগ করে দেখায়; পানির ভাগ দেখতে CuSO₄·5H₂O-তে চাপ দাও।
+## real
+সারের লেবেলে শতকরা সংযুতি লেখা থাকে: ইউরিয়া CO(NH₂)₂-এ নাইট্রোজেন ৪৬.৭%, অথচ অ্যামোনিয়াম সালফেট (NH₄)₂SO₄-এ মাত্র ২১.২%। কোনো জমিতে ১০ kg নাইট্রোজেন দরকার হলে অ্যামোনিয়াম সালফেটের চেয়ে অনেক কম ইউরিয়া লাগে, বাংলাদেশে ইউরিয়া সবচেয়ে বেশি ব্যবহৃত সার হওয়ার এটি একটি কারণ।
+## example
+প্রশ্ন: H₂O-তে H ও O-এর শতকরা সংযুতি বের করো।
+দেওয়া আছে: M(H₂O) = ২ × ১ + ১৬ = ১৮
+সূত্র: % = (পারমাণবিক ভর × পরমাণুর সংখ্যা × ১০০)/M
+হিসাব: H = ১ × ২ × ১০০ ÷ ১৮ = ১১.১১%; O = ১৬ × ১ × ১০০ ÷ ১৮ = ৮৮.৮৯%
+> যাচাই: ১১.১১ + ৮৮.৮৯ = ১০০।
+উত্তর: H ১১.১১%, O ৮৮.৮৯%
+## example
+প্রশ্ন: Al₂(SO₄)₃-এ অ্যালুমিনিয়াম, সালফার ও অক্সিজেনের শতকরা সংযুতি বের করো।
+দেওয়া আছে: M = ২৭ × ২ + (৩২ + ১৬ × ৪) × ৩ = ৫৪ + ২৮৮ = ৩৪২; পরমাণু: ২টি Al, ৩টি S, ১২টি O
+সূত্র: % = (পারমাণবিক ভর × পরমাণুর সংখ্যা × ১০০)/M
+হিসাব: Al = ২৭ × ২ × ১০০ ÷ ৩৪২ = ১৫.৭৯%; S = ৩২ × ৩ × ১০০ ÷ ৩৪২ = ২৮.০৭%; O = ১৬ × ১২ × ১০০ ÷ ৩৪২ = ৫৬.১৪%
+> বন্ধনী (SO₄)₃ থেকে ৩টি S ও ১২টি O পরমাণু আসে। বইয়ে দশমিক আসন্ন না করে কেটে দেওয়ায় Al ১৫.৭৮% লেখা হয়েছে।
+উত্তর: Al ১৫.৭৯%, S ২৮.০৭%, O ৫৬.১৪%
+## example
+প্রশ্ন: NaCl-এ Na ও Cl-এর শতকরা সংযুতি বের করো।
+দেওয়া আছে: M = ২৩ + ৩৫.৫ = ৫৮.৫
+হিসাব: Na = ২৩ × ১০০ ÷ ৫৮.৫ = ৩৯.৩২%; Cl = ৩৫.৫ × ১০০ ÷ ৫৮.৫ = ৬০.৬৮%
+উত্তর: Na ৩৯.৩২%, Cl ৬০.৬৮%
+## example
+প্রশ্ন: তুঁতের পরীক্ষণে: খালি বাটি a = ৩০.০০ g, বাটি + তুঁতে b = ৩৫.০০ g, বাটি + সাদা অবশেষ c = ৩৩.২০ g। কেলাস পানির শতকরা পরিমাণ বের করো এবং সংকেত থেকে পাওয়া মানের সাথে তুলনা করো।
+দেওয়া আছে: a = ৩০.০০ g, b = ৩৫.০০ g, c = ৩৩.২০ g
+সূত্র: পানির % = (b − c) × ১০০ ÷ (b − a)
+হিসাব: তুঁতে = ৩৫.০০ − ৩০.০০ = ৫.০০ g; হারানো পানি = ৩৫.০০ − ৩৩.২০ = ১.৮০ g; % = ১.৮০ × ১০০ ÷ ৫.০০ = ৩৬.০%
+> সংকেত থেকে: ৫ × ১৮ × ১০০ ÷ ২৪৯.৫ = ৩৬.০৭%। পরীক্ষার ফল প্রায় মিলে গেছে।
+উত্তর: ৩৬.০% (তাত্ত্বিক ৩৬.০৭%)
+## mistakes
+x যে মৌলের পরমাণু বেশি, তার শতকরা সংযুতি সবসময় বেশি।
+v শতকরা সংযুতি নির্ভর করে পারমাণবিক ভর × পরমাণুর সংখ্যার ওপর। H₂O-তে ২টি H আর ১টি O, কিন্তু ভরের ৮৮.৮৯% O।
+x Al₂(SO₄)₃-এ O-এর % = ১৬ × ৪ × ১০০ ÷ ৩৪২।
+v বন্ধনী গুণ করে: O পরমাণু ১২টি, তাই O-এর % = ১৬ × ১২ × ১০০ ÷ ৩৪২ = ৫৬.১৪%।
+x খোলা বাতাসে ঠান্ডা করেই বাটি ওজন করা যায়।
+v ডেসিকেটরে ঠান্ডা করো; অনার্দ্র CuSO₄ বাতাস থেকে আর্দ্রতা টানে, তাতে ফল কম আসবে।
+## remember
+- % = (পারমাণবিক ভর × পরমাণুর সংখ্যা × ১০০) ÷ আণবিক ভর।
+- সব শতকরা সংযুতির যোগফল ১০০%।
+- HCl: H ২.৭৪%, Cl ৯৭.২৬%। H₂O: H ১১.১১%, O ৮৮.৮৯%।
+- CuSO₄·5H₂O-তে পানি: (b − c) × ১০০ ÷ (b − a); তাত্ত্বিক ৩৬.০৭%।
+## think
+তুমি যদি বাটিটি ডেসিকেটরে ঠান্ডা করতে ভুলে যাও আর ওজনের আগে সাদা গুঁড়া সামান্য আর্দ্রতা টেনে নেয়, তাহলে পানির শতকরা পরিমাণ ৩৬%-এর বেশি আসবে নাকি কম? কেন?
+## quiz
+? H₂O-তে হাইড্রোজেনের শতকরা সংযুতি:
+- ৫.৫৫%
+* ১১.১১%
+- ৮৮.৮৯%
+- ৬৬.৬৭%
+= ১ × ২ × ১০০ ÷ ১৮ = ১১.১১%।
+? CO₂-তে (M = ৪৪) কার্বনের শতকরা সংযুতি:
+* ২৭.২৭%
+- ৭২.৭৩%
+- ৩৩.৩৩%
+- ১২%
+= ১২ × ১ × ১০০ ÷ ৪৪ = ২৭.২৭%।
+? তুঁতেকে জোরে উত্তপ্ত করলে এর রং বদলায়:
+- সাদা থেকে নীলে
+* নীল থেকে সাদায়
+- নীল থেকে সবুজে
+- সাদা থেকে কালোয়
+= কেলাস পানি হারিয়ে নীল CuSO₄·5H₂O সাদা অনার্দ্র CuSO₄-এ পরিণত হয়।
+? CuSO₄·5H₂O-তে (M = ২৪৯.৫) কেলাস পানির শতকরা পরিমাণ প্রায়:
+- ১৮%
+- ৭.২%
+* ৩৬%
+- ৬৪%
+= ৫ × ১৮ × ১০০ ÷ ২৪৯.৫ = ৩৬.০৭%।
+
+@@ 6.2.1
+@visual k6emp
+@related 6.2 6.1.2 5.5
+== en
+## what
+The **empirical formula** shows the simplest whole-number ratio of the atoms of each element in a compound; the **molecular formula** shows the actual number of atoms in one molecule. Molecular formula = (empirical formula)ₙ, where n = molecular mass ÷ empirical formula mass.
+## simple
+Hydrogen peroxide (the antiseptic used to clean wounds) has the molecular formula **H₂O₂**: 2 H atoms and 2 O atoms per molecule. The *ratio* H : O is 2 : 2 = 1 : 1. Written in its simplest ratio, the formula is **HO**. That is its **empirical formula** (স্থূল সংকেত). The molecular formula tells the true count; the empirical formula tells only the ratio.
+
+- Glucose C₆H₁₂O₆: 6 : 12 : 6 = 1 : 2 : 1, so empirical formula **CH₂O**
+- Benzene C₆H₆: empirical formula **CH**
+- Ethene C₂H₄: empirical formula **CH₂**
+- Water H₂O and sulfuric acid H₂SO₄: the numbers cannot be divided any further, so empirical formula = molecular formula
+
+**Why do we need it?** When chemists analyse an unknown compound, the laboratory gives them the **percentage composition**, and from percentages alone you can only find the *ratio* of atoms, i.e. the empirical formula. To find the real molecular formula you also need the molecular mass.
+
+**6.2.1 Empirical formula from percentage composition: the steps**
+1. Divide the percentage of each element by its atomic mass. (This gives the relative number of moles of atoms in 100 g.)
+2. Divide every result by the smallest one. If a result is not close to a whole number (for example 1.5 or 1.33), multiply all of them by the same small number (2 or 3) to make them whole.
+3. Write these whole numbers as subscripts after the symbols.
+4. A subscript of 1 is not written.
+
+Example: carbon 92.31%, hydrogen 7.69%. Step 1: C = 92.31 ÷ 12 = 7.69; H = 7.69 ÷ 1 = 7.69. Step 2: divide by 7.69: C = 1, H = 1. Empirical formula: **CH**.
+
+**6.2.2 Molecular formula from the empirical formula.** The molecular formula is a whole-number multiple of the empirical formula:
+
+**Molecular formula = (Empirical formula)ₙ, n = molecular mass ÷ mass of the empirical formula**
+
+If that compound (CH) has a molecular mass of 78: mass of CH = 12 + 1 = 13, so n = 78 ÷ 13 = 6, and the molecular formula is (CH)₆ = **C₆H₆** (benzene). If n comes out as 1, the empirical and molecular formulae are the same.
+## analogy
+A recipe says "1 cup dal for every 2 cups rice". That ratio (the empirical formula) is the same whether you cook for 2 people or 12. To know how much is actually in *this* pot (the molecular formula), you also need to know the total weight of the pot (the molecular mass).
+## definition
+**Empirical formula (স্থূল সংকেত)**: the formula that shows the simplest whole-number ratio of the numbers of atoms of the different elements present in a molecule of a compound.
+
+**Molecular formula (আণবিক সংকেত)**: the formula that shows the actual number of atoms of each element in one molecule. Molecular formula = (empirical formula)ₙ, where n = molecular mass ÷ empirical formula mass, and n is a whole number (1, 2, 3 …).
+## why
+Why does dividing the percentage by atomic mass give the ratio of atoms? A percentage is the mass of the element in 100 g. Mass ÷ atomic mass = number of moles of atoms, and equal moles contain equal numbers of atoms. So those quotients are proportional to the numbers of atoms, and dividing by the smallest turns them into the simplest ratio. Percentages cannot tell C₂H₂ from C₆H₆, because both are 92.31% C; only the molecular mass can.
+## terms
+Empirical formula (স্থূল সংকেত) | Simplest whole-number ratio of atoms
+Molecular formula (আণবিক সংকেত) | Actual number of atoms in one molecule
+Empirical formula mass | Sum of atomic masses in the empirical formula
+n | Molecular mass ÷ empirical formula mass (a whole number)
+## formula
+$$ Molecular formula = (Empirical formula)ₙ
+$$ n = molecular mass/empirical formula mass
+tri M | n | E
+M | molecular mass of the compound | g/mol
+E | mass of the empirical formula | g/mol
+n | whole-number multiplier | —
+! Step 1: % ÷ atomic mass. Step 2: ÷ smallest, make whole. Step 3: write as subscripts.
+! Ratios like 1.5 → multiply all by 2; 1.33 → multiply all by 3.
+## visual
+Choose a compound's analysis (or edit the percentages) and follow the steps: divide by atomic mass, divide by the smallest, make whole numbers. Then set the molecular mass to find the molecular formula.
+## real
+When a new medicine is discovered, say a compound found in a plant from the Sundarbans, one of the first things a laboratory does is burn a tiny sample and measure how much carbon, hydrogen and other elements it contains. From those percentages it gets the empirical formula, and a mass spectrometer then gives the molecular mass, and hence the molecular formula.
+## example
+Q: A compound contains H = 2.04%, S = 32.65% and O = 65.30%. Find its empirical formula.
+Step: ÷ atomic mass: H = 2.04 ÷ 1 = 2.04; S = 32.65 ÷ 32 = 1.02; O = 65.30 ÷ 16 = 4.08
+Step: ÷ smallest (1.02): H = 2; S = 1; O = 4
+Answer: H₂SO₄
+## example
+Q: A compound of hydrogen and oxygen contains 11.11% H and 88.89% O. Find its empirical formula.
+Step: ÷ atomic mass: H = 11.11 ÷ 1 = 11.11; O = 88.89 ÷ 16 = 5.56
+Step: ÷ smallest (5.56): H = 2; O = 1
+Answer: H₂O
+## example
+Q: An experiment showed that a compound contains 3 g of carbon and 8 g of oxygen. Find its empirical formula.
+Given: masses instead of percentages; the method is the same
+Step: moles of atoms: C = 3 ÷ 12 = 0.25; O = 8 ÷ 16 = 0.5
+Step: ÷ smallest (0.25): C = 1; O = 2
+> You don't need to convert masses into percentages first; any masses in the right ratio work.
+Answer: CO₂
+## example
+Q: An iron oxide contains 70% iron and 30% oxygen (Fe = 56). Find its empirical formula.
+Step: ÷ atomic mass: Fe = 70 ÷ 56 = 1.25; O = 30 ÷ 16 = 1.875
+Step: ÷ smallest (1.25): Fe = 1; O = 1.5
+> 1.5 is not a whole number, so multiply both by 2: Fe = 2, O = 3.
+Answer: Fe₂O₃
+## example
+Q: A compound contains C = 92.31% and H = 7.69%, and its molecular mass is 78. Find its molecular formula.
+Step: empirical formula: C = 92.31 ÷ 12 = 7.69, H = 7.69 ÷ 1 = 7.69; ratio 1 : 1, so CH
+Formula: n = molecular mass ÷ empirical formula mass
+Calculation: mass of CH = 12 + 1 = 13; n = 78 ÷ 13 = 6
+Answer: (CH)₆ = C₆H₆ (benzene)
+## example
+Q: A compound contains C = 40%, H = 6.67% and O = 53.33%; its molecular mass is 180. Find its molecular formula.
+Step: ÷ atomic mass: C = 40 ÷ 12 = 3.33; H = 6.67 ÷ 1 = 6.67; O = 53.33 ÷ 16 = 3.33
+Step: ÷ smallest (3.33): C = 1; H = 2; O = 1, so the empirical formula is CH₂O
+Calculation: mass of CH₂O = 12 + 2 + 16 = 30; n = 180 ÷ 30 = 6
+Answer: C₆H₁₂O₆ (glucose)
+## mistakes
+x The empirical formula of glucose is C₆H₁₂O₆.
+v That is its molecular formula; the empirical formula is CH₂O (ratio 1 : 2 : 1).
+x A ratio of 1 : 1.5 can be rounded to 1 : 2.
+v Only round numbers that are very close to whole (like 1.98 → 2). For 1.5, multiply everything by 2 to get 2 : 3.
+x Divide the percentage by the atomic number.
+v Divide by the atomic MASS (C 12, not 6).
+## remember
+- Empirical = simplest ratio; molecular = actual numbers.
+- Steps: % ÷ atomic mass → ÷ smallest → whole numbers → subscripts.
+- n = molecular mass ÷ empirical formula mass; molecular formula = (empirical)ₙ.
+- H₂O₂ → HO, C₆H₆ → CH, C₂H₄ → CH₂, C₆H₁₂O₆ → CH₂O.
+## think
+Ethyne (acetylene, C₂H₂, the gas used for welding) and benzene (C₆H₆) have the same percentage composition. Which single measurement would let you tell them apart?
+## quiz
+? The empirical formula of glucose (C₆H₁₂O₆) is:
+- C₆H₁₂O₆
+- C₂H₄O₂
+* CH₂O
+- CHO
+= 6 : 12 : 6 simplifies to 1 : 2 : 1.
+? A compound has empirical formula CH₂ and molecular mass 28. Its molecular formula is:
+- CH₂
+* C₂H₄
+- C₃H₆
+- C₄H₈
+= Mass of CH₂ = 14; n = 28 ÷ 14 = 2; (CH₂)₂ = C₂H₄.
+? After dividing by the smallest quotient you get C = 1, H = 1.5. The empirical formula is:
+- CH
+- CH₂
+* C₂H₃
+- C₃H₂
+= Multiply both by 2 to get whole numbers: C₂H₃.
+? For which compound are the empirical and molecular formulae the same?
+- H₂O₂
+- C₆H₆
+* H₂SO₄
+- C₂H₄
+= In H₂SO₄ the numbers 2, 1, 4 have no common factor, so it is already the simplest ratio.
+== bn
+## what
+**স্থূল সংকেত** যৌগে প্রতিটি মৌলের পরমাণুর সরলতম পূর্ণসংখ্যার অনুপাত দেখায়; **আণবিক সংকেত** একটি অণুতে পরমাণুর প্রকৃত সংখ্যা দেখায়। আণবিক সংকেত = (স্থূল সংকেত)ₙ, যেখানে n = আণবিক ভর ÷ স্থূল সংকেতের ভর।
+## simple
+হাইড্রোজেন পার-অক্সাইডের (যা দিয়ে ক্ষত পরিষ্কার করা হয়) আণবিক সংকেত **H₂O₂**: প্রতি অণুতে ২টি H আর ২টি O পরমাণু। H : O *অনুপাত* ২ : ২ = ১ : ১। সরলতম অনুপাতে লিখলে সংকেত হয় **HO**। এটিই এর **স্থূল সংকেত**। আণবিক সংকেত বলে প্রকৃত সংখ্যা; স্থূল সংকেত বলে শুধু অনুপাত।
+
+- গ্লুকোজ C₆H₁₂O₆: ৬ : ১২ : ৬ = ১ : ২ : ১, তাই স্থূল সংকেত **CH₂O**
+- বেনজিন C₆H₆: স্থূল সংকেত **CH**
+- ইথিন C₂H₄: স্থূল সংকেত **CH₂**
+- পানি H₂O আর সালফিউরিক এসিড H₂SO₄: সংখ্যাগুলোকে আর ভাগ করা যায় না, তাই স্থূল সংকেত = আণবিক সংকেত
+
+**এটা দরকার কেন?** রসায়নবিদেরা অজানা কোনো যৌগ বিশ্লেষণ করলে পরীক্ষাগার তাদের দেয় **শতকরা সংযুতি**, আর শুধু শতকরা থেকে পরমাণুর *অনুপাত*, অর্থাৎ স্থূল সংকেতই পাওয়া যায়। আসল আণবিক সংকেত পেতে আণবিক ভরও লাগে।
+
+**৬.২.১ শতকরা সংযুতি থেকে স্থূল সংকেত: ধাপগুলো**
+১. প্রতিটি মৌলের শতকরা সংযুতিকে তার পারমাণবিক ভর দিয়ে ভাগ করো। (এতে ১০০ g-এ পরমাণুর আপেক্ষিক মোল সংখ্যা পাওয়া যায়।)
+২. প্রতিটি ভাগফলকে সবচেয়ে ছোট ভাগফল দিয়ে ভাগ করো। কোনো ফল পূর্ণসংখ্যার কাছাকাছি না হলে (যেমন ১.৫ বা ১.৩৩), সবগুলোকে একই ছোট সংখ্যা (২ বা ৩) দিয়ে গুণ করে পূর্ণসংখ্যা বানাও।
+৩. এই পূর্ণসংখ্যাগুলো প্রতীকের ডান পাশে নিচে লেখো।
+৪. সংখ্যা ১ হলে কিছু লিখতে হয় না।
+
+উদাহরণ: কার্বন ৯২.৩১%, হাইড্রোজেন ৭.৬৯%। ধাপ ১: C = ৯২.৩১ ÷ ১২ = ৭.৬৯; H = ৭.৬৯ ÷ ১ = ৭.৬৯। ধাপ ২: ৭.৬৯ দিয়ে ভাগ: C = ১, H = ১। স্থূল সংকেত: **CH**।
+
+**৬.২.২ স্থূল সংকেত থেকে আণবিক সংকেত।** আণবিক সংকেত স্থূল সংকেতের পূর্ণসংখ্যা গুণিতক:
+
+**আণবিক সংকেত = (স্থূল সংকেত)ₙ, n = আণবিক ভর ÷ স্থূল সংকেতের ভর**
+
+ঐ যৌগের (CH) আণবিক ভর ৭৮ হলে: CH-এর ভর = ১২ + ১ = ১৩, তাই n = ৭৮ ÷ ১৩ = ৬, আর আণবিক সংকেত (CH)₆ = **C₆H₆** (বেনজিন)। n = ১ হলে স্থূল আর আণবিক সংকেত একই।
+## analogy
+রেসিপিতে লেখা "প্রতি ২ কাপ চালে ১ কাপ ডাল"। এই অনুপাত (স্থূল সংকেত) ২ জনের জন্য রাঁধো বা ১২ জনের, একই থাকে। কিন্তু *এই* হাঁড়িতে আসলে কতটা আছে (আণবিক সংকেত) জানতে হাঁড়ির মোট ওজনও (আণবিক ভর) জানতে হবে।
+## definition
+**স্থূল সংকেত**: যে সংকেত কোনো যৌগের অণুতে উপস্থিত বিভিন্ন মৌলের পরমাণুর সংখ্যার সরলতম পূর্ণসংখ্যার অনুপাত প্রকাশ করে।
+
+**আণবিক সংকেত**: যে সংকেত একটি অণুতে প্রতিটি মৌলের পরমাণুর প্রকৃত সংখ্যা প্রকাশ করে। আণবিক সংকেত = (স্থূল সংকেত)ₙ, যেখানে n = আণবিক ভর ÷ স্থূল সংকেতের ভর, আর n একটি পূর্ণসংখ্যা (১, ২, ৩ …)।
+## why
+শতকরা সংযুতিকে পারমাণবিক ভর দিয়ে ভাগ করলে পরমাণুর অনুপাত আসে কেন? শতকরা সংযুতি হলো ১০০ g-এ মৌলের ভর। ভর ÷ পারমাণবিক ভর = পরমাণুর মোল সংখ্যা, আর সমান মোলে সমান সংখ্যক পরমাণু। তাই ভাগফলগুলো পরমাণুর সংখ্যার সমানুপাতিক, আর সবচেয়ে ছোটটি দিয়ে ভাগ করলে সরলতম অনুপাত পাওয়া যায়। শতকরা দিয়ে C₂H₂ আর C₆H₆-কে আলাদা করা যায় না, কারণ দুটোতেই C ৯২.৩১%; শুধু আণবিক ভরই পারে।
+## terms
+স্থূল সংকেত | পরমাণুর সরলতম পূর্ণসংখ্যার অনুপাত
+আণবিক সংকেত | একটি অণুতে পরমাণুর প্রকৃত সংখ্যা
+স্থূল সংকেতের ভর | স্থূল সংকেতের পারমাণবিক ভরগুলোর যোগফল
+n | আণবিক ভর ÷ স্থূল সংকেতের ভর (একটি পূর্ণসংখ্যা)
+## formula
+$$ আণবিক সংকেত = (স্থূল সংকেত)ₙ
+$$ n = আণবিক ভর/স্থূল সংকেতের ভর
+tri M | n | E
+M | যৌগের আণবিক ভর | g/mol
+E | স্থূল সংকেতের ভর | g/mol
+n | পূর্ণসংখ্যার গুণক | —
+! ধাপ ১: % ÷ পারমাণবিক ভর। ধাপ ২: ÷ ক্ষুদ্রতম, পূর্ণসংখ্যা বানাও। ধাপ ৩: নিচে সংখ্যা হিসেবে লেখো।
+! ১.৫-এর মতো অনুপাত → সবগুলোকে ২ দিয়ে গুণ; ১.৩৩ → ৩ দিয়ে গুণ।
+## visual
+একটি যৌগের বিশ্লেষণ বেছে নাও (বা শতকরা মান বদলাও) আর ধাপগুলো অনুসরণ করো: পারমাণবিক ভর দিয়ে ভাগ, ক্ষুদ্রতম দিয়ে ভাগ, পূর্ণসংখ্যা বানানো। তারপর আণবিক ভর ঠিক করে আণবিক সংকেত বের করো।
+## real
+নতুন কোনো ওষুধ আবিষ্কৃত হলে, ধরো সুন্দরবনের কোনো গাছে পাওয়া একটি যৌগ, পরীক্ষাগার প্রথমেই অল্প একটু নমুনা পুড়িয়ে মাপে তাতে কতটা কার্বন, হাইড্রোজেন ও অন্যান্য মৌল আছে। সেই শতকরা থেকে পাওয়া যায় স্থূল সংকেত, তারপর মাস স্পেকট্রোমিটার দেয় আণবিক ভর, আর তা থেকে আণবিক সংকেত।
+## example
+প্রশ্ন: একটি যৌগে H = ২.০৪%, S = ৩২.৬৫% ও O = ৬৫.৩০%। এর স্থূল সংকেত বের করো।
+ধাপ: ÷ পারমাণবিক ভর: H = ২.০৪ ÷ ১ = ২.০৪; S = ৩২.৬৫ ÷ ৩২ = ১.০২; O = ৬৫.৩০ ÷ ১৬ = ৪.০৮
+ধাপ: ÷ ক্ষুদ্রতম (১.০২): H = ২; S = ১; O = ৪
+উত্তর: H₂SO₄
+## example
+প্রশ্ন: হাইড্রোজেন ও অক্সিজেনের একটি যৌগে H ১১.১১% ও O ৮৮.৮৯%। এর স্থূল সংকেত বের করো।
+ধাপ: ÷ পারমাণবিক ভর: H = ১১.১১ ÷ ১ = ১১.১১; O = ৮৮.৮৯ ÷ ১৬ = ৫.৫৬
+ধাপ: ÷ ক্ষুদ্রতম (৫.৫৬): H = ২; O = ১
+উত্তর: H₂O
+## example
+প্রশ্ন: একটি পরীক্ষায় দেখা গেল একটি যৌগে ৩ g কার্বন ও ৮ g অক্সিজেন আছে। এর স্থূল সংকেত বের করো।
+দেওয়া আছে: শতকরার বদলে ভর; পদ্ধতি একই
+ধাপ: পরমাণুর মোল: C = ৩ ÷ ১২ = ০.২৫; O = ৮ ÷ ১৬ = ০.৫
+ধাপ: ÷ ক্ষুদ্রতম (০.২৫): C = ১; O = ২
+> আগে ভরকে শতকরায় রূপান্তর করার দরকার নেই; সঠিক অনুপাতে যেকোনো ভরেই কাজ হয়।
+উত্তর: CO₂
+## example
+প্রশ্ন: আয়রনের একটি অক্সাইডে ৭০% আয়রন ও ৩০% অক্সিজেন (Fe = ৫৬)। এর স্থূল সংকেত বের করো।
+ধাপ: ÷ পারমাণবিক ভর: Fe = ৭০ ÷ ৫৬ = ১.২৫; O = ৩০ ÷ ১৬ = ১.৮৭৫
+ধাপ: ÷ ক্ষুদ্রতম (১.২৫): Fe = ১; O = ১.৫
+> ১.৫ পূর্ণসংখ্যা নয়, তাই দুটোকেই ২ দিয়ে গুণ করো: Fe = ২, O = ৩।
+উত্তর: Fe₂O₃
+## example
+প্রশ্ন: একটি যৌগে C = ৯২.৩১% ও H = ৭.৬৯%, আর এর আণবিক ভর ৭৮। এর আণবিক সংকেত বের করো।
+ধাপ: স্থূল সংকেত: C = ৯২.৩১ ÷ ১২ = ৭.৬৯, H = ৭.৬৯ ÷ ১ = ৭.৬৯; অনুপাত ১ : ১, তাই CH
+সূত্র: n = আণবিক ভর ÷ স্থূল সংকেতের ভর
+হিসাব: CH-এর ভর = ১২ + ১ = ১৩; n = ৭৮ ÷ ১৩ = ৬
+উত্তর: (CH)₆ = C₆H₆ (বেনজিন)
+## example
+প্রশ্ন: একটি যৌগে C = ৪০%, H = ৬.৬৭% ও O = ৫৩.৩৩%; এর আণবিক ভর ১৮০। এর আণবিক সংকেত বের করো।
+ধাপ: ÷ পারমাণবিক ভর: C = ৪০ ÷ ১২ = ৩.৩৩; H = ৬.৬৭ ÷ ১ = ৬.৬৭; O = ৫৩.৩৩ ÷ ১৬ = ৩.৩৩
+ধাপ: ÷ ক্ষুদ্রতম (৩.৩৩): C = ১; H = ২; O = ১, তাই স্থূল সংকেত CH₂O
+হিসাব: CH₂O-এর ভর = ১২ + ২ + ১৬ = ৩০; n = ১৮০ ÷ ৩০ = ৬
+উত্তর: C₆H₁₂O₆ (গ্লুকোজ)
+## mistakes
+x গ্লুকোজের স্থূল সংকেত C₆H₁₂O₆।
+v ওটা আণবিক সংকেত; স্থূল সংকেত CH₂O (অনুপাত ১ : ২ : ১)।
+x ১ : ১.৫ অনুপাতকে আসন্ন করে ১ : ২ লেখা যায়।
+v শুধু পূর্ণসংখ্যার খুব কাছের মান আসন্ন করো (যেমন ১.৯৮ → ২)। ১.৫ হলে সবগুলোকে ২ দিয়ে গুণ করে ২ : ৩ পাও।
+x শতকরাকে পারমাণবিক সংখ্যা দিয়ে ভাগ করতে হয়।
+v ভাগ করতে হয় পারমাণবিক ভর দিয়ে (C ১২, ৬ নয়)।
+## remember
+- স্থূল = সরলতম অনুপাত; আণবিক = প্রকৃত সংখ্যা।
+- ধাপ: % ÷ পারমাণবিক ভর → ÷ ক্ষুদ্রতম → পূর্ণসংখ্যা → নিচে লেখো।
+- n = আণবিক ভর ÷ স্থূল সংকেতের ভর; আণবিক সংকেত = (স্থূল)ₙ।
+- H₂O₂ → HO, C₆H₆ → CH, C₂H₄ → CH₂, C₆H₁₂O₆ → CH₂O।
+## think
+ইথাইন (অ্যাসিটিলিন, C₂H₂, ঝালাইয়ে ব্যবহৃত গ্যাস) আর বেনজিনের (C₆H₆) শতকরা সংযুতি একই। কোন একটি মাত্র পরিমাপ দিয়ে এদের আলাদা করা যাবে?
+## quiz
+? গ্লুকোজের (C₆H₁₂O₆) স্থূল সংকেত:
+- C₆H₁₂O₆
+- C₂H₄O₂
+* CH₂O
+- CHO
+= ৬ : ১২ : ৬ সরল করলে ১ : ২ : ১।
+? একটি যৌগের স্থূল সংকেত CH₂ আর আণবিক ভর ২৮। এর আণবিক সংকেত:
+- CH₂
+* C₂H₄
+- C₃H₆
+- C₄H₈
+= CH₂-এর ভর = ১৪; n = ২৮ ÷ ১৪ = ২; (CH₂)₂ = C₂H₄।
+? ক্ষুদ্রতম ভাগফল দিয়ে ভাগ করে পাওয়া গেল C = ১, H = ১.৫। স্থূল সংকেত:
+- CH
+- CH₂
+* C₂H₃
+- C₃H₂
+= পূর্ণসংখ্যা পেতে দুটোকেই ২ দিয়ে গুণ করো: C₂H₃।
+? কোন যৌগের স্থূল ও আণবিক সংকেত একই?
+- H₂O₂
+- C₆H₆
+* H₂SO₄
+- C₂H₄
+= H₂SO₄-এ ২, ১, ৪ সংখ্যাগুলোর কোনো সাধারণ গুণনীয়ক নেই, তাই এটি আগে থেকেই সরলতম অনুপাত।
+
+@@ 6.3
+@visual k6bal
+@related 6.3.2 5.4 7.1 6.1.2
+== en
+## what
+A **chemical equation** is a short way of writing a chemical reaction with symbols and formulae: **reactants** on the left, **products** on the right, and an arrow (→) or equals sign between them. **Balancing** means making the number of atoms of each element the same on both sides, by putting suitable numbers in front of the formulae.
+## simple
+When a substance loses its own properties and becomes something new with new properties, a **chemical change** has happened, and the process is a **chemical reaction**. Burning gas in the chula, rust forming on a tin roof, and rice cooking are all chemical reactions. Writing "methane burns in oxygen to give carbon dioxide and water" every time is slow, so chemists write a **chemical equation**:
+
+CH₄ + 2O₂ → CO₂ + 2H₂O
+
+**Rules for writing an equation**
+1. **Reactants** (the starting substances) go on the left; **products** (the new substances) go on the right; an arrow (→) or equals sign (=) goes in between.
+2. Use the correct symbols and formulae; join several reactants or products with + signs.
+3. Make the number of atoms of every element equal on both sides. This is **balancing**. A balanced equation may be written with "=".
+4. If an equation is not balanced, use an arrow, not "=": H₂ + O₂ → H₂O.
+5. Physical states can be shown in brackets after each formula: **(s)** solid, **(l)** liquid, **(g)** gas, **(aq)** dissolved in water (aqueous solution): 2H₂(g) + O₂(g) → 2H₂O(l).
+6. Heat needed for a reaction is shown with a delta (Δ) over the arrow.
+
+An equation's first job is to show which substances react and which form, so for that purpose it need not be balanced. But whenever you want to calculate amounts or heat, it **must** be balanced and should show states.
+
+**More examples with states**
+- C(s) + O₂(g) → CO₂(g)
+- CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g) + H₂O(l)
+- 2Mg(NO₃)₂(s) →(Δ) 2MgO(s) + 4NO₂(g) + O₂(g)
+
+**6.3.1 Balancing step by step.** Atoms are never created or destroyed in a reaction (law of conservation of mass), so the atoms on the left must all turn up on the right. The rules:
+1. Write the correct formulae first. **Never change a formula** (a subscript) to balance; only put numbers (coefficients) in front.
+2. Balance the elements that appear in compounds first; leave elements that appear alone (like H₂, O₂, Mg) until last.
+3. Count every element on both sides again at the end.
+
+*Example 1:* Mg + HCl → MgCl₂ + H₂. Left: 1 Cl, 1 H; right: 2 Cl, 2 H. Put 2 before HCl: **Mg + 2HCl = MgCl₂ + H₂**. Now Mg 1 = 1, H 2 = 2, Cl 2 = 2. Balanced.
+
+*Example 2:* Na₂CO₃ + HCl → NaCl + H₂O + CO₂. Na: 2 on left, 1 on right, so write 2NaCl. Now Cl: 1 on left, 2 on right, so write 2HCl: **Na₂CO₃ + 2HCl = 2NaCl + H₂O + CO₂**.
+
+*Example 3:* Al₂O₃ + HCl → AlCl₃ + H₂O. Al: write 2AlCl₃. Cl: now 6 on the right, so 6HCl. O: 3 on the left, so 3H₂O (which also makes H 6 = 6): **Al₂O₃ + 6HCl = 2AlCl₃ + 3H₂O**.
+## analogy
+Balancing is like settling accounts after a picnic: every taka that went into the pot must be accounted for at the end. Nothing can vanish or appear from nowhere. You may buy more "packets" of something (coefficients), but you cannot change what is inside a packet (the formula).
+## definition
+**Chemical reaction (রাসায়নিক বিক্রিয়া)**: the process by which one or more substances change into new substances with new properties.
+
+**Chemical equation (রাসায়নিক সমীকরণ)**: the short representation of a chemical reaction using symbols, formulae and signs.
+
+**Reactant (বিক্রিয়ক)**: a substance that takes part at the start of a reaction. **Product (উৎপাদ)**: a new substance formed by the reaction.
+
+**Balanced equation (সমতাকৃত সমীকরণ)**: an equation in which the number of atoms of each element is the same on both sides.
+## why
+Why must equations be balanced? In a chemical reaction, bonds break and new bonds form, but the atoms themselves are only rearranged: none disappear and none are made. This is the law of conservation of mass. An unbalanced equation would claim that atoms appeared or vanished. And why not change the subscripts? Because H₂O₂ is hydrogen peroxide, not water: changing a subscript changes the substance.
+## terms
+Reactant (বিক্রিয়ক) | Starting substance, written on the left
+Product (উৎপাদ) | New substance formed, written on the right
+Coefficient | Number in front of a formula (the 2 in 2H₂O)
+(s), (l), (g), (aq) | Solid, liquid, gas, aqueous solution
+Δ | Heat is applied
+Balancing (সমতাকরণ) | Making atom counts equal on both sides
+## visual
+Pick an unbalanced equation and use the + and − buttons to change the coefficients. The bars compare the atoms of each element on the two sides; they turn green when balanced.
+## real
+The LPG or natural gas burning in kitchens across Dhaka follows CH₄ + 2O₂ → CO₂ + 2H₂O. The balanced equation shows that each molecule of methane needs two molecules of oxygen, which is why a chula in a closed, airless room burns badly and can produce poisonous carbon monoxide: always keep the kitchen ventilated.
+## example
+Q: Balance: H₂ + O₂ → H₂O
+Step: O is 2 on the left, 1 on the right, so write 2H₂O. Now H is 4 on the right.
+Step: Write 2H₂ on the left: H 4 = 4, O 2 = 2.
+Answer: 2H₂(g) + O₂(g) = 2H₂O(l)
+## example
+Q: Balance: CaCO₃ + HCl → CaCl₂ + CO₂ + H₂O
+Step: Ca 1 = 1 and C 1 = 1 already. Cl: 1 on the left, 2 on the right, so write 2HCl.
+Step: Check H: 2 = 2; O: 3 on the left, 2 + 1 = 3 on the right.
+Answer: CaCO₃(s) + 2HCl(aq) = CaCl₂(aq) + CO₂(g) + H₂O(l)
+## example
+Q: Balance: CH₄ + O₂ → CO₂ + H₂O
+Step: C is 1 = 1. H: 4 on the left, so write 2H₂O.
+Step: O on the right = 2 (in CO₂) + 2 (in 2H₂O) = 4, so write 2O₂.
+> Oxygen appears alone (O₂), so balance it last.
+Answer: CH₄(g) + 2O₂(g) = CO₂(g) + 2H₂O(l)
+## example
+Q: Balance: Fe + O₂ → Fe₂O₃
+Step: O: 2 on the left, 3 on the right. The lowest common multiple of 2 and 3 is 6, so write 3O₂ and 2Fe₂O₃.
+Step: Fe on the right is now 4, so write 4Fe.
+Answer: 4Fe(s) + 3O₂(g) = 2Fe₂O₃(s)
+## mistakes
+x To balance H₂ + O₂ → H₂O, change it to H₂ + O₂ → H₂O₂.
+v Never change a formula; H₂O₂ is a different substance. Change coefficients: 2H₂ + O₂ → 2H₂O.
+x An equation only needs the correct reactants and products.
+v That is enough to show what reacts, but for any calculation the equation must be balanced.
+x (aq) means the substance is a liquid.
+v (aq) means dissolved in water; a pure liquid is (l).
+## remember
+- Reactants → products; states (s), (l), (g), (aq); Δ = heat.
+- Balance with coefficients only, never by changing subscripts.
+- Balance compounds first, lone elements (H₂, O₂, metals) last; recount at the end.
+- Mg + 2HCl = MgCl₂ + H₂; Al₂O₃ + 6HCl = 2AlCl₃ + 3H₂O.
+## think
+Is the equation 4H₂ + 2O₂ → 4H₂O balanced? Is it wrong? Why do we usually prefer 2H₂ + O₂ → 2H₂O?
+## quiz
+? Which of these is balanced?
+- Mg + HCl → MgCl₂ + H₂
+* Mg + 2HCl → MgCl₂ + H₂
+- Mg + 2HCl → 2MgCl₂ + H₂
+- 2Mg + HCl → MgCl₂ + H₂
+= With 2HCl, both sides have 1 Mg, 2 H and 2 Cl.
+? In the balanced equation Al₂O₃ + xHCl → 2AlCl₃ + 3H₂O, x is:
+- 2
+- 3
+* 6
+- 4
+= The right side has 2 × 3 = 6 Cl atoms, so 6HCl.
+? The symbol (aq) after a formula means:
+- solid
+- liquid
+- gas
+* dissolved in water
+= (aq) stands for aqueous solution.
+? When balancing an equation you may change:
+- the subscripts in formulae
+* the coefficients in front of formulae
+- both subscripts and coefficients
+- the arrow into an equals sign only
+= Changing a subscript changes the substance; only coefficients may change.
+== bn
+## what
+প্রতীক ও সংকেত দিয়ে রাসায়নিক বিক্রিয়াকে সংক্ষেপে লেখার উপায় হলো **রাসায়নিক সমীকরণ**: বাঁয়ে **বিক্রিয়ক**, ডানে **উৎপাদ**, মাঝে তীর (→) বা সমান চিহ্ন। সংকেতের আগে উপযুক্ত সংখ্যা বসিয়ে দুই পাশে প্রতিটি মৌলের পরমাণুর সংখ্যা সমান করাকে **সমতাকরণ** বলে।
+## simple
+কোনো পদার্থ নিজের ধর্ম হারিয়ে নতুন ধর্মের নতুন পদার্থে পরিণত হলে তাকে **রাসায়নিক পরিবর্তন** বলে, আর প্রক্রিয়াটিকে বলে **রাসায়নিক বিক্রিয়া**। চুলায় গ্যাস জ্বলা, টিনের চালে মরিচা পড়া, ভাত রান্না হওয়া, সবই রাসায়নিক বিক্রিয়া। প্রতিবার "মিথেন অক্সিজেনে পুড়ে কার্বন ডাই-অক্সাইড আর পানি দেয়" লেখা সময়সাপেক্ষ, তাই রসায়নবিদেরা লেখেন **রাসায়নিক সমীকরণ**:
+
+CH₄ + 2O₂ → CO₂ + 2H₂O
+
+**সমীকরণ লেখার নিয়ম**
+১. **বিক্রিয়ক** (শুরুর পদার্থ) বাঁয়ে, **উৎপাদ** (নতুন পদার্থ) ডানে, মাঝে তীর (→) বা সমান চিহ্ন (=)।
+২. সঠিক প্রতীক ও সংকেত ব্যবহার করো; একাধিক বিক্রিয়ক বা উৎপাদ + চিহ্ন দিয়ে জোড়ো।
+৩. দুই পাশে প্রতিটি মৌলের পরমাণুর সংখ্যা সমান করো। একেই বলে **সমতাকরণ**। সমতাকৃত সমীকরণে "=" লেখা যায়।
+৪. সমীকরণ সমতাকৃত না হলে "=" নয়, তীর ব্যবহার করো: H₂ + O₂ → H₂O।
+৫. প্রতিটি সংকেতের পরে প্রথম বন্ধনীতে ভৌত অবস্থা দেখানো যায়: **(s)** কঠিন, **(l)** তরল, **(g)** গ্যাস, **(aq)** পানিতে দ্রবীভূত (জলীয় দ্রবণ): 2H₂(g) + O₂(g) → 2H₂O(l)।
+৬. বিক্রিয়ায় তাপ লাগলে তীরের ওপর ডেল্টা (Δ) চিহ্ন দেওয়া হয়।
+
+সমীকরণের প্রথম কাজ হলো কোন পদার্থ বিক্রিয়া করে কী তৈরি হয় তা দেখানো, সেজন্য সমতা না করলেও চলে। কিন্তু পরিমাণ বা তাপ হিসাব করতে চাইলে সমীকরণ অবশ্যই **সমতাকৃত** হতে হবে, আর অবস্থা দেখানো উচিত।
+
+**অবস্থাসহ আরও উদাহরণ**
+- C(s) + O₂(g) → CO₂(g)
+- CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g) + H₂O(l)
+- 2Mg(NO₃)₂(s) →(Δ) 2MgO(s) + 4NO₂(g) + O₂(g)
+
+**৬.৩.১ ধাপে ধাপে সমতাকরণ।** বিক্রিয়ায় পরমাণু কখনো সৃষ্টি বা ধ্বংস হয় না (ভরের নিত্যতা সূত্র), তাই বাঁ পাশের সব পরমাণু ডান পাশে পাওয়া যাবেই। নিয়মগুলো:
+১. আগে সঠিক সংকেত লেখো। সমতা করতে **কখনো সংকেত (নিচের সংখ্যা) বদলাবে না**; শুধু সামনে সংখ্যা (সহগ) বসাবে।
+২. যৌগে থাকা মৌলগুলো আগে সমতা করো; একা থাকা মৌল (যেমন H₂, O₂, Mg) শেষে।
+৩. শেষে দুই পাশে প্রতিটি মৌল আবার গোনো।
+
+*উদাহরণ ১:* Mg + HCl → MgCl₂ + H₂। বাঁয়ে: ১টি Cl, ১টি H; ডানে: ২টি Cl, ২টি H। HCl-এর আগে ২ বসাও: **Mg + 2HCl = MgCl₂ + H₂**। এখন Mg ১ = ১, H ২ = ২, Cl ২ = ২। সমতা হয়ে গেছে।
+
+*উদাহরণ ২:* Na₂CO₃ + HCl → NaCl + H₂O + CO₂। Na: বাঁয়ে ২, ডানে ১, তাই 2NaCl লেখো। এখন Cl: বাঁয়ে ১, ডানে ২, তাই 2HCl: **Na₂CO₃ + 2HCl = 2NaCl + H₂O + CO₂**।
+
+*উদাহরণ ৩:* Al₂O₃ + HCl → AlCl₃ + H₂O। Al: 2AlCl₃ লেখো। Cl: এখন ডানে ৬, তাই 6HCl। O: বাঁয়ে ৩, তাই 3H₂O (এতে H-ও ৬ = ৬): **Al₂O₃ + 6HCl = 2AlCl₃ + 3H₂O**।
+## analogy
+সমতাকরণ হলো পিকনিকের পর হিসাব মেলানোর মতো: হাঁড়িতে যত টাকা ঢুকেছে, শেষে তার প্রতিটি টাকার হিসাব থাকতে হবে। কিছুই হারাতে বা শূন্য থেকে আসতে পারে না। কোনো জিনিসের "প্যাকেট" বেশি কেনা যায় (সহগ), কিন্তু প্যাকেটের ভেতরের জিনিস (সংকেত) বদলানো যায় না।
+## definition
+**রাসায়নিক বিক্রিয়া**: যে প্রক্রিয়ায় এক বা একাধিক পদার্থ নতুন ধর্মবিশিষ্ট নতুন পদার্থে পরিণত হয়।
+
+**রাসায়নিক সমীকরণ**: প্রতীক, সংকেত ও চিহ্নের সাহায্যে রাসায়নিক বিক্রিয়ার সংক্ষিপ্ত প্রকাশ।
+
+**বিক্রিয়ক**: বিক্রিয়ার শুরুতে অংশ নেওয়া পদার্থ। **উৎপাদ**: বিক্রিয়ায় তৈরি নতুন পদার্থ।
+
+**সমতাকৃত সমীকরণ**: যে সমীকরণে দুই পাশে প্রতিটি মৌলের পরমাণুর সংখ্যা সমান।
+## why
+সমীকরণ সমতা করতেই হবে কেন? রাসায়নিক বিক্রিয়ায় বন্ধন ভাঙে আর নতুন বন্ধন তৈরি হয়, কিন্তু পরমাণুগুলো শুধু নতুনভাবে সাজে: কোনোটি হারায় না, কোনোটি নতুন তৈরিও হয় না। এটাই ভরের নিত্যতা সূত্র। অসমতাকৃত সমীকরণ দাবি করত যে পরমাণু উদয় বা উধাও হয়েছে। আর নিচের সংখ্যা বদলানো যাবে না কেন? কারণ H₂O₂ হলো হাইড্রোজেন পার-অক্সাইড, পানি নয়: নিচের সংখ্যা বদলালে পদার্থই বদলে যায়।
+## terms
+বিক্রিয়ক | শুরুর পদার্থ, বাঁয়ে লেখা হয়
+উৎপাদ | তৈরি হওয়া নতুন পদার্থ, ডানে লেখা হয়
+সহগ | সংকেতের সামনের সংখ্যা (2H₂O-এর 2)
+(s), (l), (g), (aq) | কঠিন, তরল, গ্যাস, জলীয় দ্রবণ
+Δ | তাপ প্রয়োগ
+সমতাকরণ | দুই পাশে পরমাণুর সংখ্যা সমান করা
+## visual
+একটি অসমতাকৃত সমীকরণ বেছে নাও আর + ও − বোতাম দিয়ে সহগ বদলাও। বারগুলো দুই পাশে প্রতিটি মৌলের পরমাণু তুলনা করে; সমতা হলে সবুজ হয়ে যায়।
+## real
+ঢাকার ঘরে ঘরে রান্নার গ্যাস জ্বলে CH₄ + 2O₂ → CO₂ + 2H₂O অনুযায়ী। সমতাকৃত সমীকরণ দেখায় প্রতিটি মিথেন অণুর জন্য দুটি অক্সিজেন অণু লাগে, তাই বন্ধ, বাতাসহীন ঘরে চুলা ঠিকমতো জ্বলে না আর বিষাক্ত কার্বন মনোক্সাইড তৈরি হতে পারে: রান্নাঘরে সবসময় বাতাস চলাচলের ব্যবস্থা রাখো।
+## example
+প্রশ্ন: সমতা করো: H₂ + O₂ → H₂O
+ধাপ: O বাঁয়ে ২, ডানে ১, তাই 2H₂O লেখো। এখন ডানে H ৪টি।
+ধাপ: বাঁয়ে 2H₂ লেখো: H ৪ = ৪, O ২ = ২।
+উত্তর: 2H₂(g) + O₂(g) = 2H₂O(l)
+## example
+প্রশ্ন: সমতা করো: CaCO₃ + HCl → CaCl₂ + CO₂ + H₂O
+ধাপ: Ca ১ = ১ আর C ১ = ১ আগেই আছে। Cl: বাঁয়ে ১, ডানে ২, তাই 2HCl লেখো।
+ধাপ: যাচাই: H ২ = ২; O বাঁয়ে ৩, ডানে ২ + ১ = ৩।
+উত্তর: CaCO₃(s) + 2HCl(aq) = CaCl₂(aq) + CO₂(g) + H₂O(l)
+## example
+প্রশ্ন: সমতা করো: CH₄ + O₂ → CO₂ + H₂O
+ধাপ: C ১ = ১। H: বাঁয়ে ৪, তাই 2H₂O লেখো।
+ধাপ: ডানে O = ২ (CO₂-তে) + ২ (2H₂O-তে) = ৪, তাই 2O₂ লেখো।
+> অক্সিজেন একা (O₂) আছে, তাই একে শেষে সমতা করো।
+উত্তর: CH₄(g) + 2O₂(g) = CO₂(g) + 2H₂O(l)
+## example
+প্রশ্ন: সমতা করো: Fe + O₂ → Fe₂O₃
+ধাপ: O: বাঁয়ে ২, ডানে ৩। ২ ও ৩-এর লসাগু ৬, তাই 3O₂ আর 2Fe₂O₃ লেখো।
+ধাপ: এখন ডানে Fe ৪টি, তাই 4Fe লেখো।
+উত্তর: 4Fe(s) + 3O₂(g) = 2Fe₂O₃(s)
+## mistakes
+x H₂ + O₂ → H₂O সমতা করতে একে H₂ + O₂ → H₂O₂ বানাও।
+v কখনো সংকেত বদলাবে না; H₂O₂ ভিন্ন পদার্থ। সহগ বদলাও: 2H₂ + O₂ → 2H₂O।
+x সমীকরণে শুধু সঠিক বিক্রিয়ক আর উৎপাদ থাকলেই হলো।
+v কী বিক্রিয়া করে দেখাতে তা যথেষ্ট, কিন্তু যেকোনো হিসাবের জন্য সমীকরণ সমতাকৃত হতে হবে।
+x (aq) মানে পদার্থটি তরল।
+v (aq) মানে পানিতে দ্রবীভূত; বিশুদ্ধ তরল হলো (l)।
+## remember
+- বিক্রিয়ক → উৎপাদ; অবস্থা (s), (l), (g), (aq); Δ = তাপ।
+- শুধু সহগ দিয়ে সমতা করো, নিচের সংখ্যা কখনো বদলাবে না।
+- আগে যৌগ, শেষে একা মৌল (H₂, O₂, ধাতু); শেষে আবার গোনো।
+- Mg + 2HCl = MgCl₂ + H₂; Al₂O₃ + 6HCl = 2AlCl₃ + 3H₂O।
+## think
+4H₂ + 2O₂ → 4H₂O সমীকরণটি কি সমতাকৃত? এটি কি ভুল? আমরা সাধারণত 2H₂ + O₂ → 2H₂O লিখতে পছন্দ করি কেন?
+## quiz
+? কোনটি সমতাকৃত?
+- Mg + HCl → MgCl₂ + H₂
+* Mg + 2HCl → MgCl₂ + H₂
+- Mg + 2HCl → 2MgCl₂ + H₂
+- 2Mg + HCl → MgCl₂ + H₂
+= 2HCl হলে দুই পাশেই ১টি Mg, ২টি H ও ২টি Cl।
+? সমতাকৃত সমীকরণ Al₂O₃ + xHCl → 2AlCl₃ + 3H₂O-এ x হলো:
+- ২
+- ৩
+* ৬
+- ৪
+= ডানে ২ × ৩ = ৬টি Cl পরমাণু, তাই 6HCl।
+? সংকেতের পরে (aq) চিহ্ন মানে:
+- কঠিন
+- তরল
+- গ্যাস
+* পানিতে দ্রবীভূত
+= (aq) মানে জলীয় দ্রবণ।
+? সমীকরণ সমতা করার সময় বদলানো যায়:
+- সংকেতের নিচের সংখ্যা
+* সংকেতের সামনের সহগ
+- নিচের সংখ্যা ও সহগ দুটোই
+- শুধু তীরকে সমান চিহ্নে
+= নিচের সংখ্যা বদলালে পদার্থ বদলে যায়; শুধু সহগ বদলানো যায়।
+
+@@ 6.3.2
+@visual k6stoich
+@related 6.3 6.4 6.1.1 6.5
+== en
+## what
+**Stoichiometry** is the part of chemistry that calculates the amounts of products from the amounts of reactants (and the reverse). A balanced equation, read in moles, gives the exact ratio in which substances react and form: by number of particles, by moles, by mass, and for gases by volume.
+## simple
+A balanced equation is a recipe written in moles. Take magnesium burning in oxygen (the bright white flame in a school lab):
+
+2Mg(s) + O₂(g) → 2MgO(s)
+
+Read it at every level:
+- **Particles:** 2 Mg atoms + 1 O₂ molecule → 2 MgO units
+- **Moles:** 2 mol Mg + 1 mol O₂ → 2 mol MgO
+- **Numbers:** 2 × 6.023 × 10^{23} Mg atoms + 6.023 × 10^{23} O₂ molecules → 2 × 6.023 × 10^{23} MgO
+- **Mass:** 2 × 24 = **48 g** Mg + 1 × 32 = **32 g** O₂ → 2 × 40 = **80 g** MgO
+
+Check: 48 + 32 = 80. Mass is conserved. These amounts written under a balanced equation are its **stoichiometry**.
+
+**Gases: volumes too.** If a substance is a gas, 1 mole of it occupies 22.4 L at STP, so you can also write volumes. For N₂(g) + 3H₂(g) → 2NH₃(g): 22.4 L N₂ + 3 × 22.4 L H₂ → 2 × 22.4 L NH₃. For gases at the same temperature and pressure, the **volume ratio is the same as the mole ratio**: 1 : 3 : 2.
+
+**The method (unitary method).** Write the balanced equation, write the stoichiometric amounts under the substances in the question, then scale:
+- 48 g Mg reacts with 32 g O₂
+- so 1 g Mg reacts with 32/48 g O₂
+- so 5 g Mg reacts with 32 × 5 ÷ 48 = **3.33 g O₂**
+
+Or with moles: 5 g Mg = 5 ÷ 24 = 0.208 mol; O₂ needed = half of that = 0.104 mol = 0.104 × 32 = 3.33 g. Both ways give the same answer.
+## analogy
+A fuchka stall's recipe: 1 plate = 6 puris + 1 bowl of tetul water. If you have 30 puris, you know at once you need 5 bowls of tetul water and will serve 5 plates. A balanced equation is that recipe for atoms and molecules; stoichiometry is simply scaling the recipe.
+## definition
+**Stoichiometry (স্টয়কিওমিতি)**: the branch of chemistry that deals with the quantitative relationships between reactants and products in a chemical reaction, i.e. calculating the amounts of products from reactants and of reactants from products. The mole relationships written under a balanced equation are called the stoichiometry of that reaction.
+## why
+Why do the coefficients give the reacting ratio? The coefficients count particles: 2Mg + O₂ says two magnesium atoms combine with one oxygen molecule. Scaling every count by Nₐ changes particles into moles without changing the ratio, and multiplying moles by molar masses turns them into grams. Because atoms are only rearranged, the total mass on each side must be equal.
+## terms
+Stoichiometry (স্টয়কিওমিতি) | Calculating amounts of reactants and products from a balanced equation
+Mole ratio | Ratio of coefficients in a balanced equation (2 : 1 : 2 for 2Mg + O₂ → 2MgO)
+Mass–mass problem | Given a mass, find a mass
+Mass–volume problem | Given a mass, find a gas volume at STP (or the reverse)
+## formula
+$$ moles of B = moles of A × (coefficient of B ÷ coefficient of A)
+$$ n = w/M = V/22.4 = N/Nₐ
+! Always use a BALANCED equation.
+! For gases at the same temperature and pressure: volume ratio = mole ratio.
+## visual
+Choose a reaction and set the mass of the first reactant. The widget scales the balanced equation and shows the amounts of every substance in moles, grams and (for gases) litres at STP.
+## real
+Fertiliser factories in Bangladesh (such as those at Ghorasal and Ashuganj) make ammonia from nitrogen and hydrogen, N₂ + 3H₂ → 2NH₃, and then urea from it. Engineers use exactly these stoichiometric calculations to decide how much natural gas and air to feed in for every tonne of fertiliser.
+## example
+Q: How much oxygen is needed to convert 5 g of magnesium completely into magnesium oxide?
+Given: 2Mg + O₂ → 2MgO; 48 g Mg reacts with 32 g O₂
+Formula: unitary method
+Calculation: 1 g Mg reacts with 32/48 g O₂; 5 g Mg reacts with 32 × 5 ÷ 48 = 3.33 g O₂
+Answer: 3.33 g of oxygen
+## example
+Q: What mass of magnesium oxide is formed when 2 g of magnesium burns completely?
+Given: 48 g Mg → 80 g MgO
+Calculation: 2 g Mg → 80 × 2 ÷ 48 = 3.33 g MgO
+Answer: 3.33 g MgO
+## example
+Q: How much oxygen is needed to make 10 g of magnesium oxide? How much magnesium?
+Given: 32 g O₂ → 80 g MgO; 48 g Mg → 80 g MgO
+Calculation: O₂ = 32 × 10 ÷ 80 = 4 g; Mg = 48 × 10 ÷ 80 = 6 g
+> Check: 6 + 4 = 10 g, as conservation of mass demands.
+Answer: 4 g O₂ and 6 g Mg
+## example
+Q: How many NH₃ molecules are formed from 5 N₂ molecules? What volume of NH₃ forms from 4 L of N₂ at STP?
+Given: N₂(g) + 3H₂(g) → 2NH₃(g): 1 molecule N₂ → 2 molecules NH₃; 22.4 L N₂ → 2 × 22.4 L NH₃
+Calculation: molecules: 5 × 2 = 10 NH₃; volume: 4 × 2 = 8 L NH₃
+> For gases, the volume ratio equals the mole ratio (1 : 2), so no need to convert to moles.
+Answer: 10 molecules; 8 L of NH₃
+## example
+Q: 10 g of CaCO₃ reacts completely with hydrochloric acid. What volume of CO₂ is produced at STP?
+Given: CaCO₃ + 2HCl → CaCl₂ + CO₂ + H₂O; M(CaCO₃) = 100; 1 mol CaCO₃ → 1 mol CO₂
+Calculation: n(CaCO₃) = 10 ÷ 100 = 0.1 mol; n(CO₂) = 0.1 mol; V = 0.1 × 22.4 = 2.24 L
+Answer: 2.24 L of CO₂ (mass 0.1 × 44 = 4.4 g)
+## example
+Q: How many moles of O₂ are needed to produce 6 moles of water?
+Given: 2H₂ + O₂ → 2H₂O: 1 mol O₂ → 2 mol H₂O
+Calculation: O₂ = 6 × 1 ÷ 2 = 3 mol
+Answer: 3 mol O₂
+## mistakes
+x In 2Mg + O₂ → 2MgO, 24 g Mg reacts with 32 g O₂.
+v The coefficient counts: 2 × 24 = 48 g Mg reacts with 32 g O₂.
+x Mass ratio = mole ratio.
+v Mole ratio is 2 : 1 : 2, but mass ratio is 48 : 32 : 80, because each substance has a different molar mass.
+x Stoichiometry can be done with an unbalanced equation.
+v Always balance first; otherwise every ratio is wrong.
+## remember
+- Balanced equation = recipe in moles; write moles, masses (and 22.4 L for gases) under it.
+- 2Mg + O₂ → 2MgO: 48 g + 32 g → 80 g.
+- N₂ + 3H₂ → 2NH₃: volume ratio 1 : 3 : 2.
+- Mass of reactants = mass of products.
+## think
+When magnesium ribbon burns in air, the white ash weighs more than the ribbon did. Does this break the law of conservation of mass? Explain using the equation.
+## quiz
+? According to 2Mg + O₂ → 2MgO, 12 g of Mg needs how much O₂?
+- 32 g
+- 16 g
+* 8 g
+- 4 g
+= 48 g Mg needs 32 g O₂, so 12 g needs 32 × 12 ÷ 48 = 8 g.
+? For N₂(g) + 3H₂(g) → 2NH₃(g) at STP, 10 L of N₂ needs how much H₂?
+- 10 L
+- 20 L
+* 30 L
+- 3 L
+= Volume ratio N₂ : H₂ = 1 : 3.
+? The study of quantitative relations between reactants and products is called:
+- electrolysis
+* stoichiometry
+- titration
+- balancing
+= Stoichiometry deals with amounts of reactants and products.
+== bn
+## what
+বিক্রিয়কের পরিমাণ থেকে উৎপাদের পরিমাণ (আর উল্টোটা) হিসাব করার রসায়নকে **স্টয়কিওমিতি** বলে। সমতাকৃত সমীকরণকে মোলের ভাষায় পড়লে পদার্থগুলো ঠিক কোন অনুপাতে বিক্রিয়া করে ও তৈরি হয় তা পাওয়া যায়: কণার সংখ্যায়, মোলে, ভরে, আর গ্যাস হলে আয়তনে।
+## simple
+সমতাকৃত সমীকরণ হলো মোলে লেখা একটি রেসিপি। অক্সিজেনে ম্যাগনেসিয়ামের দহনের কথা ধরো (স্কুল ল্যাবের উজ্জ্বল সাদা শিখা):
+
+2Mg(s) + O₂(g) → 2MgO(s)
+
+প্রতিটি স্তরে পড়ো:
+- **কণা:** ২টি Mg পরমাণু + ১টি O₂ অণু → ২টি MgO
+- **মোল:** ২ mol Mg + ১ mol O₂ → ২ mol MgO
+- **সংখ্যা:** ২ × ৬.০২৩ × ১০^{২৩}টি Mg পরমাণু + ৬.০২৩ × ১০^{২৩}টি O₂ অণু → ২ × ৬.০২৩ × ১০^{২৩}টি MgO
+- **ভর:** ২ × ২৪ = **৪৮ g** Mg + ১ × ৩২ = **৩২ g** O₂ → ২ × ৪০ = **৮০ g** MgO
+
+যাচাই: ৪৮ + ৩২ = ৮০। ভর সংরক্ষিত। সমতাকৃত সমীকরণের নিচে লেখা এই পরিমাণগুলোই এর **স্টয়কিওমিতি**।
+
+**গ্যাস: আয়তনও।** কোনো পদার্থ গ্যাস হলে প্রমাণ অবস্থায় এর ১ মোল ২২.৪ L জায়গা নেয়, তাই আয়তনও লেখা যায়। N₂(g) + 3H₂(g) → 2NH₃(g)-এর জন্য: ২২.৪ L N₂ + ৩ × ২২.৪ L H₂ → ২ × ২২.৪ L NH₃। একই তাপমাত্রা ও চাপে গ্যাসের **আয়তনের অনুপাত মোলের অনুপাতের সমান**: ১ : ৩ : ২।
+
+**পদ্ধতি (ঐকিক নিয়ম)।** সমতাকৃত সমীকরণ লেখো, প্রশ্নের পদার্থগুলোর নিচে স্টয়কিওমিতিক পরিমাণ লেখো, তারপর অনুপাতে বাড়াও-কমাও:
+- ৪৮ g Mg বিক্রিয়া করে ৩২ g O₂-এর সাথে
+- তাই ১ g Mg বিক্রিয়া করে ৩২/৪৮ g O₂-এর সাথে
+- তাই ৫ g Mg বিক্রিয়া করে ৩২ × ৫ ÷ ৪৮ = **৩.৩৩ g O₂**-এর সাথে
+
+অথবা মোলে: ৫ g Mg = ৫ ÷ ২৪ = ০.২০৮ mol; দরকারি O₂ = তার অর্ধেক = ০.১০৪ mol = ০.১০৪ × ৩২ = ৩.৩৩ g। দুইভাবেই একই উত্তর।
+## analogy
+ফুচকার দোকানের রেসিপি: ১ প্লেট = ৬টি ফুচকা + ১ বাটি তেঁতুলপানি। তোমার কাছে ৩০টি ফুচকা থাকলে সাথে সাথে বোঝো ৫ বাটি তেঁতুলপানি লাগবে আর ৫ প্লেট দেওয়া যাবে। সমতাকৃত সমীকরণ হলো পরমাণু-অণুর সেই রেসিপি; স্টয়কিওমিতি মানে শুধু রেসিপিটা বড়-ছোট করা।
+## definition
+**স্টয়কিওমিতি**: রসায়নের যে শাখায় রাসায়নিক বিক্রিয়ার বিক্রিয়ক ও উৎপাদের পরিমাণগত সম্পর্ক, অর্থাৎ বিক্রিয়কের পরিমাণ থেকে উৎপাদের এবং উৎপাদের পরিমাণ থেকে বিক্রিয়কের পরিমাণ হিসাব করা হয়। সমতাকৃত সমীকরণের নিচে লেখা মোলের সম্পর্কগুলোকে ঐ বিক্রিয়ার স্টয়কিওমিতি বলে।
+## why
+সহগগুলো বিক্রিয়ার অনুপাত দেয় কেন? সহগ কণা গোনে: 2Mg + O₂ বলে দুটি ম্যাগনেসিয়াম পরমাণু একটি অক্সিজেন অণুর সাথে যুক্ত হয়। প্রতিটি সংখ্যাকে Nₐ দিয়ে গুণ করলে কণা মোলে পরিণত হয়, অনুপাত বদলায় না; আর মোলকে মোলার ভর দিয়ে গুণ করলে গ্রাম পাওয়া যায়। পরমাণু শুধু নতুনভাবে সাজে বলে দুই পাশের মোট ভর সমান হতেই হবে।
+## terms
+স্টয়কিওমিতি | সমতাকৃত সমীকরণ থেকে বিক্রিয়ক ও উৎপাদের পরিমাণ হিসাব
+মোল অনুপাত | সমতাকৃত সমীকরণের সহগগুলোর অনুপাত (2Mg + O₂ → 2MgO-তে ২ : ১ : ২)
+ভর-ভর সমস্যা | ভর দেওয়া, ভর বের করতে হবে
+ভর-আয়তন সমস্যা | ভর দেওয়া, প্রমাণ অবস্থায় গ্যাসের আয়তন বের করতে হবে (বা উল্টো)
+## formula
+$$ B-এর মোল = A-এর মোল × (B-এর সহগ ÷ A-এর সহগ)
+$$ n = w/M = V/22.4 = N/Nₐ
+! সবসময় সমতাকৃত সমীকরণ ব্যবহার করো।
+! একই তাপমাত্রা ও চাপে গ্যাসের জন্য: আয়তনের অনুপাত = মোলের অনুপাত।
+## visual
+একটি বিক্রিয়া বেছে নাও আর প্রথম বিক্রিয়কের ভর ঠিক করো। উইজেট সমতাকৃত সমীকরণকে অনুপাতে বাড়িয়ে-কমিয়ে প্রতিটি পদার্থের পরিমাণ মোলে, গ্রামে আর (গ্যাস হলে) প্রমাণ অবস্থায় লিটারে দেখায়।
+## real
+বাংলাদেশের সার কারখানাগুলো (যেমন ঘোড়াশাল ও আশুগঞ্জে) নাইট্রোজেন আর হাইড্রোজেন থেকে অ্যামোনিয়া বানায়, N₂ + 3H₂ → 2NH₃, তারপর তা থেকে ইউরিয়া। প্রতি টন সারের জন্য কতটা প্রাকৃতিক গ্যাস আর বাতাস দিতে হবে তা প্রকৌশলীরা ঠিক এই স্টয়কিওমিতিক হিসাব দিয়েই ঠিক করেন।
+## example
+প্রশ্ন: ৫ g ম্যাগনেসিয়ামকে সম্পূর্ণভাবে ম্যাগনেসিয়াম অক্সাইডে পরিণত করতে কত অক্সিজেন লাগবে?
+দেওয়া আছে: 2Mg + O₂ → 2MgO; ৪৮ g Mg বিক্রিয়া করে ৩২ g O₂-এর সাথে
+সূত্র: ঐকিক নিয়ম
+হিসাব: ১ g Mg বিক্রিয়া করে ৩২/৪৮ g O₂-এর সাথে; ৫ g Mg বিক্রিয়া করে ৩২ × ৫ ÷ ৪৮ = ৩.৩৩ g O₂-এর সাথে
+উত্তর: ৩.৩৩ g অক্সিজেন
+## example
+প্রশ্ন: ২ g ম্যাগনেসিয়াম সম্পূর্ণ পুড়লে কত গ্রাম ম্যাগনেসিয়াম অক্সাইড তৈরি হবে?
+দেওয়া আছে: ৪৮ g Mg → ৮০ g MgO
+হিসাব: ২ g Mg → ৮০ × ২ ÷ ৪৮ = ৩.৩৩ g MgO
+উত্তর: ৩.৩৩ g MgO
+## example
+প্রশ্ন: ১০ g ম্যাগনেসিয়াম অক্সাইড তৈরি করতে কত অক্সিজেন লাগবে? কত ম্যাগনেসিয়াম?
+দেওয়া আছে: ৩২ g O₂ → ৮০ g MgO; ৪৮ g Mg → ৮০ g MgO
+হিসাব: O₂ = ৩২ × ১০ ÷ ৮০ = ৪ g; Mg = ৪৮ × ১০ ÷ ৮০ = ৬ g
+> যাচাই: ৬ + ৪ = ১০ g, ভরের নিত্যতা সূত্র যেমন বলে।
+উত্তর: ৪ g O₂ ও ৬ g Mg
+## example
+প্রশ্ন: ৫টি N₂ অণু থেকে কয়টি NH₃ অণু তৈরি হবে? প্রমাণ অবস্থায় ৪ L N₂ থেকে কত আয়তন NH₃ তৈরি হবে?
+দেওয়া আছে: N₂(g) + 3H₂(g) → 2NH₃(g): ১টি N₂ অণু → ২টি NH₃ অণু; ২২.৪ L N₂ → ২ × ২২.৪ L NH₃
+হিসাব: অণু: ৫ × ২ = ১০টি NH₃; আয়তন: ৪ × ২ = ৮ L NH₃
+> গ্যাসের ক্ষেত্রে আয়তনের অনুপাত = মোলের অনুপাত (১ : ২), তাই মোলে রূপান্তরের দরকার নেই।
+উত্তর: ১০টি অণু; ৮ L NH₃
+## example
+প্রশ্ন: ১০ g CaCO₃ হাইড্রোক্লোরিক এসিডের সাথে সম্পূর্ণ বিক্রিয়া করল। প্রমাণ অবস্থায় কত আয়তন CO₂ তৈরি হবে?
+দেওয়া আছে: CaCO₃ + 2HCl → CaCl₂ + CO₂ + H₂O; M(CaCO₃) = ১০০; ১ mol CaCO₃ → ১ mol CO₂
+হিসাব: n(CaCO₃) = ১০ ÷ ১০০ = ০.১ mol; n(CO₂) = ০.১ mol; V = ০.১ × ২২.৪ = ২.২৪ L
+উত্তর: ২.২৪ L CO₂ (ভর ০.১ × ৪৪ = ৪.৪ g)
+## example
+প্রশ্ন: ৬ মোল পানি তৈরি করতে কত মোল O₂ লাগবে?
+দেওয়া আছে: 2H₂ + O₂ → 2H₂O: ১ mol O₂ → ২ mol H₂O
+হিসাব: O₂ = ৬ × ১ ÷ ২ = ৩ mol
+উত্তর: ৩ mol O₂
+## mistakes
+x 2Mg + O₂ → 2MgO-তে ২৪ g Mg বিক্রিয়া করে ৩২ g O₂-এর সাথে।
+v সহগও গুনতে হবে: ২ × ২৪ = ৪৮ g Mg বিক্রিয়া করে ৩২ g O₂-এর সাথে।
+x ভরের অনুপাত = মোলের অনুপাত।
+v মোলের অনুপাত ২ : ১ : ২, কিন্তু ভরের অনুপাত ৪৮ : ৩২ : ৮০, কারণ প্রতিটি পদার্থের মোলার ভর আলাদা।
+x অসমতাকৃত সমীকরণ দিয়েও স্টয়কিওমিতি করা যায়।
+v সবসময় আগে সমতা করো; না হলে প্রতিটি অনুপাতই ভুল হবে।
+## remember
+- সমতাকৃত সমীকরণ = মোলে রেসিপি; এর নিচে মোল, ভর (আর গ্যাসের জন্য ২২.৪ L) লেখো।
+- 2Mg + O₂ → 2MgO: ৪৮ g + ৩২ g → ৮০ g।
+- N₂ + 3H₂ → 2NH₃: আয়তনের অনুপাত ১ : ৩ : ২।
+- বিক্রিয়কের মোট ভর = উৎপাদের মোট ভর।
+## think
+বাতাসে ম্যাগনেসিয়াম ফিতা পোড়ালে যে সাদা ছাই হয় তার ভর ফিতার চেয়ে বেশি। এটা কি ভরের নিত্যতা সূত্র ভাঙে? সমীকরণ দিয়ে ব্যাখ্যা করো।
+## quiz
+? 2Mg + O₂ → 2MgO অনুযায়ী ১২ g Mg-এর জন্য কত O₂ লাগবে?
+- ৩২ g
+- ১৬ g
+* ৮ g
+- ৪ g
+= ৪৮ g Mg-এর জন্য ৩২ g O₂, তাই ১২ g-এর জন্য ৩২ × ১২ ÷ ৪৮ = ৮ g।
+? প্রমাণ অবস্থায় N₂(g) + 3H₂(g) → 2NH₃(g) বিক্রিয়ায় ১০ L N₂-এর জন্য কত H₂ লাগবে?
+- ১০ L
+- ২০ L
+* ৩০ L
+- ৩ L
+= আয়তনের অনুপাত N₂ : H₂ = ১ : ৩।
+? বিক্রিয়ক ও উৎপাদের পরিমাণগত সম্পর্কের আলোচনাকে বলে:
+- তড়িৎ বিশ্লেষণ
+* স্টয়কিওমিতি
+- টাইট্রেশন
+- সমতাকরণ
+= স্টয়কিওমিতি বিক্রিয়ক ও উৎপাদের পরিমাণ নিয়ে কাজ করে।
+
+@@ 6.4
+@visual k6limit
+@related 6.3.2 6.5 6.1
+== en
+## what
+When reactants are not mixed in exactly the ratio of the balanced equation, one of them gets used up first. That reactant, present in less than the stoichiometric amount, is the **limiting reactant**: it decides how much product forms. The other reactant is **in excess**, and some of it is left over.
+## simple
+You are making egg sandwiches: each sandwich needs **2 slices of bread and 1 egg**. You have 10 slices and 8 eggs. The bread makes 5 sandwiches; the eggs could make 8. You can only make **5**, and 3 eggs are left over. Bread is the **limiting** ingredient; eggs are **in excess**.
+
+Reactions behave exactly the same way. For 2Mg + O₂ → 2MgO, every 2 Mg atoms need 1 O₂ molecule.
+
+**4 Mg atoms and 4 O₂ molecules.** 4 Mg atoms need only 2 O₂ molecules. All the Mg is used up, and 4 − 2 = **2 O₂ molecules are left over**. Magnesium is the limiting reactant, and it makes 4 MgO.
+
+**70 Mg atoms and 30 O₂ molecules.** 70 Mg atoms would need 70 ÷ 2 = 35 O₂ molecules, but only 30 are there. This time **oxygen runs out first**: it is the limiting reactant. The 30 O₂ react with 60 Mg, leaving **10 Mg atoms** unused, and 60 MgO form.
+
+**How to find the limiting reactant**
+1. Write the balanced equation and its stoichiometry (moles or grams).
+2. Take one reactant and calculate how much of the other it would need.
+3. If less than that is available, the *other* reactant is limiting; if more is available, the one you started with is limiting.
+4. Calculate the product from the limiting reactant only, and the leftover of the excess reactant by subtraction.
+
+A quick alternative: divide the moles of each reactant by its coefficient; the **smallest** result is the limiting reactant.
+## analogy
+At a school sports day each three-legged-race pair needs 2 students and 1 rope. If there are 40 students but only 15 ropes, only 15 pairs (30 students) can run; the ropes limit the race, and 10 students sit out. The ropes are the limiting reactant.
+## definition
+**Limiting reactant (লিমিটিং বিক্রিয়ক)**: in a reaction with more than one reactant, the reactant present in less than the stoichiometric amount; it is completely used up first, and so it determines how much of each product forms, and how much of the other reactants reacts and remains.
+
+**Excess reactant**: a reactant present in more than the stoichiometric amount; some of it remains unreacted.
+## why
+Why does only the limiting reactant decide the product? A product molecule can form only when all its ingredients meet in the right ratio. Once the limiting reactant is finished, the remaining particles of the other reactant have nothing to react with, so the reaction stops, however much of the excess reactant is still there.
+## terms
+Limiting reactant (লিমিটিং বিক্রিয়ক) | Reactant used up first; controls the amount of product
+Excess reactant | Reactant left over at the end
+Stoichiometric amount | The exact amount required by the balanced equation
+Leftover (অবশিষ্ট) | Amount of the excess reactant that does not react
+## formula
+$$ for each reactant: moles ÷ coefficient; the smallest value marks the limiting reactant
+$$ leftover = amount given − amount that reacts
+! Calculate the product from the limiting reactant, never from the excess one.
+## visual
+Change the numbers of Mg atoms and O₂ molecules. Watch them pair up into MgO; the particles left over show the excess reactant, and the label names the limiting one. Switch to the H₂ + Cl₂ mode to do the same with masses.
+## real
+A car engine needs petrol and air in a fixed ratio. If there is too little air, oxygen is the limiting reactant: some petrol does not burn completely, forming poisonous carbon monoxide and black smoke, the kind you see from badly tuned buses in city traffic.
+## example
+Q: 75 g of chlorine gas is mixed with 5 g of hydrogen gas. Which is the limiting reactant, and how much of which reactant is left over?
+Given: H₂(g) + Cl₂(g) → 2HCl(g); 2 g H₂ reacts with 71 g Cl₂ to give 73 g HCl
+Formula: unitary method
+Calculation: 5 g H₂ would need 71 × 5 ÷ 2 = 177.5 g Cl₂; only 75 g is present, so Cl₂ is limiting
+> Now work from the limiting reactant: how much H₂ does 75 g Cl₂ use?
+Calculation: H₂ used = 2 × 75 ÷ 71 = 2.11 g; H₂ left = 5 − 2.11 = 2.89 g = 2.89 ÷ 2 = 1.44 mol; HCl formed = 73 × 75 ÷ 71 = 77.1 g
+Answer: Cl₂ is limiting; 2.89 g (1.44 mol) of H₂ is left over; 77.1 g HCl forms.
+## example
+Q: In the reaction above, how many chlorine atoms react?
+Given: 75 g Cl₂; M(Cl₂) = 71; all the Cl₂ reacts because it is limiting
+Calculation: n(Cl₂) = 75 ÷ 71 = 1.056 mol; Cl atoms = 2 × 1.056 × 6.023 × 10^{23} = 1.27 × 10^{24}
+Answer: 1.27 × 10^{24} Cl atoms
+## example
+Q: 4.4 g of CO₂ and 5 g of CaO are mixed to make CaCO₃: CaO(s) + CO₂(g) → CaCO₃(s). Which is limiting, and what is the maximum mass of CaCO₃ that can form?
+Given: M(CaO) = 56, M(CO₂) = 44, M(CaCO₃) = 100; mole ratio 1 : 1 : 1
+Calculation: n(CaO) = 5 ÷ 56 = 0.0893 mol; n(CO₂) = 4.4 ÷ 44 = 0.1 mol; CaO has fewer moles, so CaO is limiting
+Calculation: CaCO₃ = 0.0893 mol × 100 = 8.93 g; CO₂ left = 0.1 − 0.0893 = 0.0107 mol = 0.47 g
+> Even a perfect reaction cannot give 10 g of CaCO₃ from this mixture; the most is 8.93 g.
+Answer: CaO is limiting; at most 8.93 g of CaCO₃
+## mistakes
+x The reactant with the smaller mass is always the limiting reactant.
+v Compare moles divided by coefficients, not masses. In H₂ + Cl₂, 75 g of Cl₂ is limiting against only 5 g of H₂.
+x Calculate the product from whichever reactant is given first.
+v Always calculate the product from the limiting reactant.
+x The limiting reactant is the one left over.
+v The limiting reactant is used up completely; the EXCESS reactant is left over.
+## remember
+- Limiting reactant = used up first = decides the amount of product.
+- Excess reactant = partly left over.
+- Test: moles ÷ coefficient; the smallest is limiting.
+- 5 g H₂ + 75 g Cl₂: Cl₂ limiting, 2.89 g H₂ left.
+## think
+In a cooking gas stove, which reactant would you like to be in excess, the gas or the oxygen of the air? Why?
+## quiz
+? For 2Mg + O₂ → 2MgO, 6 Mg atoms are mixed with 5 O₂ molecules. The limiting reactant is:
+* Mg
+- O₂
+- MgO
+- neither
+= 6 Mg need only 3 O₂; Mg runs out first and 2 O₂ remain.
+? In the same reaction, 70 Mg atoms and 30 O₂ molecules are mixed. How many Mg atoms are left over?
+- 0
+* 10
+- 35
+- 40
+= 30 O₂ react with 60 Mg; 70 − 60 = 10 Mg atoms remain.
+? 5 g H₂ is mixed with 75 g Cl₂ (H₂ + Cl₂ → 2HCl). What remains at the end?
+* 1.44 mol H₂
+- 1.44 mol Cl₂
+- 2.89 mol H₂
+- 2.89 mol Cl₂
+= Cl₂ is limiting; 2.89 g of H₂ is left over, which is 2.89 ÷ 2 = 1.44 mol.
+? The amount of product in a reaction is determined by:
+- the excess reactant
+* the limiting reactant
+- the heavier reactant
+- the reactant written first
+= Once the limiting reactant is used up, no more product can form.
+== bn
+## what
+বিক্রিয়কগুলো সমতাকৃত সমীকরণের ঠিক অনুপাতে মেশানো না হলে একটি আগে ফুরিয়ে যায়। স্টয়কিওমিতিক পরিমাণের চেয়ে কম পরিমাণে থাকা সেই বিক্রিয়কই **লিমিটিং বিক্রিয়ক**: কতটা উৎপাদ হবে তা এটিই ঠিক করে। অন্য বিক্রিয়কটি **অতিরিক্ত**, এর কিছু অংশ অবশিষ্ট থাকে।
+## simple
+তুমি ডিম-স্যান্ডউইচ বানাচ্ছ: প্রতিটি স্যান্ডউইচে লাগে **২ স্লাইস পাউরুটি আর ১টি ডিম**। তোমার কাছে ১০ স্লাইস রুটি আর ৮টি ডিম। রুটি দিয়ে ৫টি স্যান্ডউইচ হয়; ডিম দিয়ে হতে পারত ৮টি। তুমি বানাতে পারবে মাত্র **৫টি**, আর ৩টি ডিম বেঁচে যাবে। রুটি হলো **লিমিটিং** উপকরণ; ডিম **অতিরিক্ত**।
+
+বিক্রিয়াও ঠিক এভাবে চলে। 2Mg + O₂ → 2MgO-তে প্রতি ২টি Mg পরমাণুর জন্য ১টি O₂ অণু লাগে।
+
+**৪টি Mg পরমাণু আর ৪টি O₂ অণু।** ৪টি Mg পরমাণুর দরকার মাত্র ২টি O₂ অণু। সব Mg শেষ হয়ে যায়, আর ৪ − ২ = **২টি O₂ অণু বেঁচে থাকে**। ম্যাগনেসিয়াম লিমিটিং বিক্রিয়ক, এটি ৪টি MgO তৈরি করে।
+
+**৭০টি Mg পরমাণু আর ৩০টি O₂ অণু।** ৭০টি Mg পরমাণুর দরকার ৭০ ÷ ২ = ৩৫টি O₂ অণু, কিন্তু আছে মাত্র ৩০টি। এবার **অক্সিজেন আগে ফুরায়**: এটিই লিমিটিং বিক্রিয়ক। ৩০টি O₂ ৬০টি Mg-এর সাথে বিক্রিয়া করে, **১০টি Mg পরমাণু** অব্যবহৃত থাকে, আর ৬০টি MgO তৈরি হয়।
+
+**লিমিটিং বিক্রিয়ক খুঁজে বের করার উপায়**
+১. সমতাকৃত সমীকরণ আর তার স্টয়কিওমিতি (মোল বা গ্রাম) লেখো।
+২. একটি বিক্রিয়ক নিয়ে হিসাব করো অন্যটির কতটা লাগবে।
+৩. তার চেয়ে কম থাকলে *অন্যটি* লিমিটিং; বেশি থাকলে প্রথমটি লিমিটিং।
+৪. উৎপাদ হিসাব করো শুধু লিমিটিং বিক্রিয়ক থেকে, আর অতিরিক্ত বিক্রিয়কের অবশিষ্ট বের করো বিয়োগ করে।
+
+দ্রুত বিকল্প: প্রতিটি বিক্রিয়কের মোলকে তার সহগ দিয়ে ভাগ করো; **সবচেয়ে ছোট** ফল যার, সেটিই লিমিটিং বিক্রিয়ক।
+## analogy
+স্কুলের ক্রীড়া প্রতিযোগিতায় তিন-পায়ের দৌড়ে প্রতি জোড়ায় লাগে ২ জন শিক্ষার্থী আর ১টি দড়ি। ৪০ জন শিক্ষার্থী কিন্তু মাত্র ১৫টি দড়ি থাকলে দৌড়াতে পারবে ১৫ জোড়া (৩০ জন); দড়ি দৌড়কে সীমিত করে, আর ১০ জন বসে থাকে। দড়িই লিমিটিং বিক্রিয়ক।
+## definition
+**লিমিটিং বিক্রিয়ক**: একাধিক বিক্রিয়কের মধ্যে যে বিক্রিয়কের পরিমাণ স্টয়কিওমিতিক পরিমাণের চেয়ে কম; এটি সবার আগে সম্পূর্ণ শেষ হয়ে যায়, তাই কোন উৎপাদ কতটা তৈরি হবে এবং অন্য বিক্রিয়কের কতটা বিক্রিয়া করবে ও অবশিষ্ট থাকবে তা এটিই নির্ধারণ করে।
+
+**অতিরিক্ত বিক্রিয়ক**: যে বিক্রিয়ক স্টয়কিওমিতিক পরিমাণের চেয়ে বেশি থাকে; এর কিছু অংশ বিক্রিয়া না করে থেকে যায়।
+## why
+শুধু লিমিটিং বিক্রিয়কই উৎপাদ ঠিক করে কেন? একটি উৎপাদ-অণু তৈরি হতে পারে শুধু তখনই, যখন তার সব উপকরণ সঠিক অনুপাতে মেলে। লিমিটিং বিক্রিয়ক শেষ হয়ে গেলে অন্য বিক্রিয়কের বাকি কণাগুলোর বিক্রিয়া করার মতো কেউ থাকে না, তাই অতিরিক্ত বিক্রিয়ক যত বেশিই থাকুক, বিক্রিয়া থেমে যায়।
+## terms
+লিমিটিং বিক্রিয়ক | যে বিক্রিয়ক আগে শেষ হয়; উৎপাদের পরিমাণ নিয়ন্ত্রণ করে
+অতিরিক্ত বিক্রিয়ক | শেষে যে বিক্রিয়ক বেঁচে থাকে
+স্টয়কিওমিতিক পরিমাণ | সমতাকৃত সমীকরণ অনুযায়ী ঠিক যতটুকু দরকার
+অবশিষ্ট | অতিরিক্ত বিক্রিয়কের যে অংশ বিক্রিয়া করে না
+## formula
+$$ প্রতিটি বিক্রিয়কের জন্য: মোল ÷ সহগ; সবচেয়ে ছোট মান যার, সেটিই লিমিটিং বিক্রিয়ক
+$$ অবশিষ্ট = দেওয়া পরিমাণ − বিক্রিয়া করা পরিমাণ
+! উৎপাদ সবসময় লিমিটিং বিক্রিয়ক থেকে হিসাব করো, অতিরিক্তটি থেকে কখনো নয়।
+## visual
+Mg পরমাণু আর O₂ অণুর সংখ্যা বদলাও। দেখো তারা জোড় বেঁধে MgO হচ্ছে; বেঁচে থাকা কণাগুলো অতিরিক্ত বিক্রিয়ক, আর লেবেল লিমিটিং বিক্রিয়কের নাম বলে। ভর দিয়ে একই কাজ করতে H₂ + Cl₂ মোডে যাও।
+## real
+গাড়ির ইঞ্জিনে পেট্রোল আর বাতাস নির্দিষ্ট অনুপাতে লাগে। বাতাস কম হলে অক্সিজেন লিমিটিং বিক্রিয়ক: কিছু পেট্রোল পুরোপুরি পোড়ে না, তৈরি হয় বিষাক্ত কার্বন মনোক্সাইড আর কালো ধোঁয়া, যা শহরের যানজটে ঠিকমতো মেরামত না করা বাস থেকে বের হতে দেখো।
+## example
+প্রশ্ন: ৫ g হাইড্রোজেন গ্যাসের সাথে ৭৫ g ক্লোরিন গ্যাস মেশানো হলো। কোনটি লিমিটিং বিক্রিয়ক, আর বিক্রিয়া শেষে কোন বিক্রিয়ক কতটা অবশিষ্ট থাকবে?
+দেওয়া আছে: H₂(g) + Cl₂(g) → 2HCl(g); ২ g H₂ ৭১ g Cl₂-এর সাথে বিক্রিয়া করে ৭৩ g HCl দেয়
+সূত্র: ঐকিক নিয়ম
+হিসাব: ৫ g H₂-এর দরকার ৭১ × ৫ ÷ ২ = ১৭৭.৫ g Cl₂; আছে মাত্র ৭৫ g, তাই Cl₂ লিমিটিং
+> এবার লিমিটিং বিক্রিয়ক থেকে হিসাব করো: ৭৫ g Cl₂ কত H₂ ব্যবহার করে?
+হিসাব: ব্যবহৃত H₂ = ২ × ৭৫ ÷ ৭১ = ২.১১ g; অবশিষ্ট H₂ = ৫ − ২.১১ = ২.৮৯ g = ২.৮৯ ÷ ২ = ১.৪৪ mol; উৎপন্ন HCl = ৭৩ × ৭৫ ÷ ৭১ = ৭৭.১ g
+উত্তর: Cl₂ লিমিটিং; ২.৮৯ g (১.৪৪ mol) H₂ অবশিষ্ট থাকে; ৭৭.১ g HCl তৈরি হয়।
+## example
+প্রশ্ন: ওপরের বিক্রিয়ায় কয়টি ক্লোরিন পরমাণু বিক্রিয়া করে?
+দেওয়া আছে: ৭৫ g Cl₂; M(Cl₂) = ৭১; লিমিটিং বলে সব Cl₂ বিক্রিয়া করে
+হিসাব: n(Cl₂) = ৭৫ ÷ ৭১ = ১.০৫৬ mol; Cl পরমাণু = ২ × ১.০৫৬ × ৬.০২৩ × ১০^{২৩} = ১.২৭ × ১০^{২৪}
+উত্তর: ১.২৭ × ১০^{২৪}টি Cl পরমাণু
+## example
+প্রশ্ন: CaCO₃ তৈরির জন্য ৪.৪ g CO₂ আর ৫ g CaO মেশানো হলো: CaO(s) + CO₂(g) → CaCO₃(s)। কোনটি লিমিটিং, আর সর্বোচ্চ কত গ্রাম CaCO₃ তৈরি হতে পারে?
+দেওয়া আছে: M(CaO) = ৫৬, M(CO₂) = ৪৪, M(CaCO₃) = ১০০; মোল অনুপাত ১ : ১ : ১
+হিসাব: n(CaO) = ৫ ÷ ৫৬ = ০.০৮৯৩ mol; n(CO₂) = ৪.৪ ÷ ৪৪ = ০.১ mol; CaO-এর মোল কম, তাই CaO লিমিটিং
+হিসাব: CaCO₃ = ০.০৮৯৩ mol × ১০০ = ৮.৯৩ g; অবশিষ্ট CO₂ = ০.১ − ০.০৮৯৩ = ০.০১০৭ mol = ০.৪৭ g
+> নিখুঁত বিক্রিয়া হলেও এই মিশ্রণ থেকে ১০ g CaCO₃ পাওয়া সম্ভব নয়; সর্বোচ্চ ৮.৯৩ g।
+উত্তর: CaO লিমিটিং; সর্বোচ্চ ৮.৯৩ g CaCO₃
+## mistakes
+x যে বিক্রিয়কের ভর কম, সেটিই সবসময় লিমিটিং।
+v ভর নয়, মোল ÷ সহগ তুলনা করো। H₂ + Cl₂-এ মাত্র ৫ g H₂-এর বিপরীতে ৭৫ g Cl₂ লিমিটিং।
+x যে বিক্রিয়ক আগে দেওয়া আছে তা থেকেই উৎপাদ হিসাব করো।
+v উৎপাদ সবসময় লিমিটিং বিক্রিয়ক থেকে হিসাব করো।
+x লিমিটিং বিক্রিয়ক হলো যেটি বেঁচে থাকে।
+v লিমিটিং বিক্রিয়ক পুরোপুরি শেষ হয়ে যায়; বেঁচে থাকে অতিরিক্ত বিক্রিয়ক।
+## remember
+- লিমিটিং বিক্রিয়ক = আগে শেষ হয় = উৎপাদের পরিমাণ ঠিক করে।
+- অতিরিক্ত বিক্রিয়ক = কিছুটা বেঁচে থাকে।
+- পরীক্ষা: মোল ÷ সহগ; সবচেয়ে ছোটটি লিমিটিং।
+- ৫ g H₂ + ৭৫ g Cl₂: Cl₂ লিমিটিং, ২.৮৯ g H₂ অবশিষ্ট।
+## think
+রান্নার গ্যাসের চুলায় তুমি কোন বিক্রিয়কটিকে অতিরিক্ত রাখতে চাইবে, গ্যাস নাকি বাতাসের অক্সিজেন? কেন?
+## quiz
+? 2Mg + O₂ → 2MgO বিক্রিয়ায় ৬টি Mg পরমাণুর সাথে ৫টি O₂ অণু মেশানো হলো। লিমিটিং বিক্রিয়ক:
+* Mg
+- O₂
+- MgO
+- কোনোটিই নয়
+= ৬টি Mg-এর দরকার মাত্র ৩টি O₂; Mg আগে শেষ হয় আর ২টি O₂ বেঁচে থাকে।
+? একই বিক্রিয়ায় ৭০টি Mg পরমাণু আর ৩০টি O₂ অণু মেশানো হলো। কয়টি Mg পরমাণু অবশিষ্ট থাকবে?
+- ০
+* ১০
+- ৩৫
+- ৪০
+= ৩০টি O₂ ৬০টি Mg-এর সাথে বিক্রিয়া করে; ৭০ − ৬০ = ১০টি Mg থাকে।
+? ৫ g H₂-এর সাথে ৭৫ g Cl₂ মেশানো হলো (H₂ + Cl₂ → 2HCl)। শেষে কী অবশিষ্ট থাকবে?
+* ১.৪৪ mol H₂
+- ১.৪৪ mol Cl₂
+- ২.৮৯ mol H₂
+- ২.৮৯ mol Cl₂
+= Cl₂ লিমিটিং; ২.৮৯ g H₂ অবশিষ্ট থাকে, যা ২.৮৯ ÷ ২ = ১.৪৪ mol।
+? বিক্রিয়ায় উৎপাদের পরিমাণ নির্ধারণ করে:
+- অতিরিক্ত বিক্রিয়ক
+* লিমিটিং বিক্রিয়ক
+- ভারী বিক্রিয়কটি
+- প্রথমে লেখা বিক্রিয়কটি
+= লিমিটিং বিক্রিয়ক শেষ হলে আর উৎপাদ তৈরি হতে পারে না।
+
+@@ 6.5
+@visual k6yield
+@related 6.4 6.3.2 1.5
+== en
+## what
+The **theoretical yield** is the amount of product calculated from the limiting reactant using the balanced equation; the **actual yield** is the amount really obtained. **Percentage yield = (actual yield ÷ theoretical yield) × 100.**
+## simple
+Your mother's recipe says 1 kg of flour makes 40 luchis. You make 36, because some dough stuck to the bowl and a few tore. Your "yield" was 36 out of an expected 40, i.e. **90%**.
+
+Chemical reactions are similar. The balanced equation tells you the most product you could possibly get: the **theoretical yield**. In practice you almost always get less, the **actual yield**, because:
+- the reactants are **not 100% pure**;
+- some reactant may not react completely, or side reactions make other products;
+- some product is lost while filtering, transferring, drying or weighing.
+
+**Purity of chemicals.** The purest grade of chemicals sold for laboratories is called **AnalaR** (analytical reagent) grade, which is at least about 99% pure. Impure substances are purified by crystallisation, distillation, fractional distillation, chromatography and similar methods, which you will study in higher classes. Even after purification, a substance is rarely exactly 100% pure.
+
+**Percentage yield = (actual yield × 100) ÷ theoretical yield**
+
+A percentage yield tells a chemist or a factory how efficient a process is. It can never truly exceed 100%; if a calculation gives more than 100%, the product is probably still wet or impure.
+## analogy
+Think of a paddy field: from the seed sown, an agricultural officer calculates that the field could give 100 maunds of rice. Pests, rain and losses at threshing mean the farmer actually takes home 85 maunds. The yield was 85%. The calculation from the equation is the officer's estimate; the actual yield is what reaches the farmer's home.
+## definition
+**Theoretical yield**: the amount of product calculated from the balanced equation, using the amount of the limiting reactant.
+
+**Actual yield**: the amount of product actually obtained from the reaction.
+
+**Percentage yield (উৎপাদের শতকরা পরিমাণ)**: (amount of product actually obtained ÷ amount of product calculated from the equation) × 100.
+
+**AnalaR (অ্যানালার) substance**: the purest laboratory grade of a chemical, about 99% pure or better.
+## why
+Why is the actual yield less than the theoretical yield? The theoretical yield assumes a perfect world: pure reactants, every particle of the limiting reactant reacting, only the desired reaction happening, and not a grain of product lost. Real reactants contain impurities that do not give the product, and real handling always loses a little material.
+## terms
+Theoretical yield | Product amount calculated from the equation
+Actual yield | Product amount really obtained
+Percentage yield | (actual ÷ theoretical) × 100
+AnalaR grade (অ্যানালার) | Purest laboratory grade, about 99% pure
+Purification methods | Crystallisation, distillation, fractional distillation, chromatography
+## formula
+$$ % yield = (actual yield/theoretical yield) × 100
+! Theoretical yield is always calculated from the limiting reactant.
+! Actual and theoretical yields must be in the same unit (both in g).
+## visual
+Choose a reaction, set the mass of reactant and the mass of product you actually collected. The bars compare the actual yield with the theoretical yield and show the percentage.
+## real
+Pharmaceutical companies in Bangladesh, which export medicines to many countries, work hard to raise the percentage yield of each step in making a medicine: a few per cent more yield on a large batch saves a great deal of raw material and money, and means less chemical waste.
+## example
+Q: 2 g of magnesium reacts with the necessary oxygen and 3.25 g of magnesium oxide is obtained. What is the percentage yield?
+Given: 2Mg + O₂ → 2MgO; 48 g Mg → 80 g MgO; actual yield = 3.25 g
+Formula: % yield = actual × 100 ÷ theoretical
+Calculation: theoretical = 80 × 2 ÷ 48 = 3.333 g; % yield = 3.25 × 100 ÷ 3.333 = 97.5%
+> The book rounds the theoretical yield to 3.33 g first and gets 97.6%; keeping more digits gives 97.5%. Round only at the end.
+Answer: 97.5%
+## example
+Q: On heating, 80 g of CaCO₃ gives 39 g of CaO. Find the percentage yield. (Ca = 40, C = 12, O = 16)
+Given: CaCO₃(s) →(Δ) CaO(s) + CO₂(g); 100 g CaCO₃ → 56 g CaO; actual yield = 39 g
+Calculation: theoretical = 56 × 80 ÷ 100 = 44.8 g; % yield = 39 × 100 ÷ 44.8 = 87.1%
+Answer: about 87.1%
+## example
+Q: From 5 g CaO and 4.4 g CO₂ (see lesson 6.4), 8.0 g of CaCO₃ was collected. What is the percentage yield?
+Given: CaO is limiting; theoretical yield = 8.93 g; actual yield = 8.0 g
+Calculation: % yield = 8.0 × 100 ÷ 8.93 = 89.6%
+> Always work out the theoretical yield from the limiting reactant, not from the hoped-for 10 g.
+Answer: about 89.6%
+## mistakes
+x % yield = theoretical ÷ actual × 100.
+v % yield = actual ÷ theoretical × 100; it is normally below 100%.
+x The theoretical yield can be calculated from either reactant.
+v Use the limiting reactant; the excess reactant would give a yield that can never be reached.
+x A yield above 100% means the reaction worked extra well.
+v It means an error: the product is wet, impure or wrongly weighed.
+## remember
+- % yield = (actual ÷ theoretical) × 100.
+- Theoretical yield comes from the limiting reactant.
+- Yield < 100% because of impure reactants, incomplete reaction and losses.
+- AnalaR grade ≈ 99% pure.
+## think
+A student gets a 104% yield of a salt she has just filtered and weighed. Give two possible reasons for this impossible result.
+## quiz
+? Theoretical yield 20 g, actual yield 15 g. The percentage yield is:
+- 133%
+* 75%
+- 25%
+- 15%
+= 15 × 100 ÷ 20 = 75%.
+? The purest laboratory grade of a chemical is called:
+- technical grade
+* AnalaR grade
+- commercial grade
+- crude grade
+= AnalaR (analytical reagent) grade is about 99% pure.
+? The theoretical yield of a reaction is calculated from:
+- the excess reactant
+* the limiting reactant
+- the actual yield
+- the heavier product
+= The limiting reactant decides the maximum product.
+== bn
+## what
+সমতাকৃত সমীকরণ ব্যবহার করে লিমিটিং বিক্রিয়ক থেকে হিসাব করা উৎপাদের পরিমাণকে **তাত্ত্বিক উৎপাদ**, আর বাস্তবে যতটা পাওয়া যায় তাকে **প্রকৃত উৎপাদ** বলে। **উৎপাদের শতকরা পরিমাণ = (প্রকৃত উৎপাদ ÷ তাত্ত্বিক উৎপাদ) × ১০০।**
+## simple
+আম্মার রেসিপি বলে ১ kg ময়দায় ৪০টি লুচি হয়। তুমি বানালে ৩৬টি, কারণ কিছু খামির গামলায় লেগে রইল আর কয়েকটা ছিঁড়ে গেল। তোমার "উৎপাদ" হলো প্রত্যাশিত ৪০টির মধ্যে ৩৬টি, অর্থাৎ **৯০%**।
+
+রাসায়নিক বিক্রিয়াও এমন। সমতাকৃত সমীকরণ বলে দেয় সর্বোচ্চ কতটা উৎপাদ পাওয়া সম্ভব: **তাত্ত্বিক উৎপাদ**। বাস্তবে প্রায় সবসময় কম পাওয়া যায়, **প্রকৃত উৎপাদ**, কারণ:
+- বিক্রিয়কগুলো **১০০% বিশুদ্ধ নয়**;
+- কিছু বিক্রিয়ক পুরোপুরি বিক্রিয়া করে না, বা পার্শ্ব-বিক্রিয়ায় অন্য উৎপাদ তৈরি হয়;
+- ছাঁকা, ঢালা, শুকানো বা ওজন করার সময় কিছু উৎপাদ হারিয়ে যায়।
+
+**রাসায়নিক পদার্থের বিশুদ্ধতা।** পরীক্ষাগারের জন্য বিক্রি হওয়া সবচেয়ে বিশুদ্ধ মানের রাসায়নিককে বলে **অ্যানালার** (অ্যানালিটিক্যাল রিএজেন্ট) গ্রেড, যা অন্তত প্রায় ৯৯% বিশুদ্ধ। অবিশুদ্ধ পদার্থকে কেলাসন, পাতন, আংশিক পাতন, ক্রোমাটোগ্রাফি ইত্যাদি পদ্ধতিতে বিশুদ্ধ করা হয়, যা তুমি পরের শ্রেণিতে শিখবে। বিশুদ্ধ করার পরেও কোনো পদার্থ কদাচিৎ ঠিক ১০০% বিশুদ্ধ হয়।
+
+**উৎপাদের শতকরা পরিমাণ = (প্রকৃত উৎপাদ × ১০০) ÷ তাত্ত্বিক উৎপাদ**
+
+উৎপাদের শতকরা পরিমাণ রসায়নবিদ বা কারখানাকে জানায় প্রক্রিয়াটি কতটা দক্ষ। এটি সত্যিকার অর্থে কখনো ১০০% ছাড়াতে পারে না; হিসাবে ১০০%-এর বেশি এলে বুঝতে হবে উৎপাদ সম্ভবত এখনো ভেজা বা অবিশুদ্ধ।
+## analogy
+একটি ধানখেতের কথা ভাবো: বোনা বীজ দেখে কৃষি কর্মকর্তা হিসাব করলেন খেত থেকে ১০০ মণ ধান হতে পারে। পোকা, বৃষ্টি আর মাড়াইয়ের সময়ের অপচয়ে কৃষক আসলে ঘরে তুললেন ৮৫ মণ। উৎপাদ হলো ৮৫%। সমীকরণ থেকে হিসাব হলো কর্মকর্তার অনুমান; প্রকৃত উৎপাদ হলো যা কৃষকের ঘরে পৌঁছায়।
+## definition
+**তাত্ত্বিক উৎপাদ**: লিমিটিং বিক্রিয়কের পরিমাণ থেকে সমতাকৃত সমীকরণ অনুযায়ী হিসাব করা উৎপাদের পরিমাণ।
+
+**প্রকৃত উৎপাদ**: বিক্রিয়া থেকে বাস্তবে পাওয়া উৎপাদের পরিমাণ।
+
+**উৎপাদের শতকরা পরিমাণ**: (বিক্রিয়ার পরে প্রাপ্ত প্রকৃত উৎপাদের পরিমাণ ÷ সমীকরণ থেকে হিসাবকৃত উৎপাদের পরিমাণ) × ১০০।
+
+**অ্যানালার পদার্থ**: পরীক্ষাগারের সবচেয়ে বিশুদ্ধ মানের রাসায়নিক, প্রায় ৯৯% বা তার বেশি বিশুদ্ধ।
+## why
+প্রকৃত উৎপাদ তাত্ত্বিক উৎপাদের চেয়ে কম হয় কেন? তাত্ত্বিক উৎপাদ ধরে নেয় এক নিখুঁত জগৎ: বিশুদ্ধ বিক্রিয়ক, লিমিটিং বিক্রিয়কের প্রতিটি কণা বিক্রিয়া করবে, শুধু কাঙ্ক্ষিত বিক্রিয়াই ঘটবে, আর উৎপাদের একটি দানাও হারাবে না। বাস্তব বিক্রিয়কে ভেজাল থাকে যা উৎপাদ দেয় না, আর বাস্তবে নাড়াচাড়া করতে গেলে সবসময় কিছুটা পদার্থ হারায়।
+## terms
+তাত্ত্বিক উৎপাদ | সমীকরণ থেকে হিসাব করা উৎপাদের পরিমাণ
+প্রকৃত উৎপাদ | বাস্তবে পাওয়া উৎপাদের পরিমাণ
+উৎপাদের শতকরা পরিমাণ | (প্রকৃত ÷ তাত্ত্বিক) × ১০০
+অ্যানালার গ্রেড | পরীক্ষাগারের সবচেয়ে বিশুদ্ধ মান, প্রায় ৯৯% বিশুদ্ধ
+বিশুদ্ধকরণ পদ্ধতি | কেলাসন, পাতন, আংশিক পাতন, ক্রোমাটোগ্রাফি
+## formula
+$$ উৎপাদের শতকরা পরিমাণ = (প্রকৃত উৎপাদ/তাত্ত্বিক উৎপাদ) × 100
+! তাত্ত্বিক উৎপাদ সবসময় লিমিটিং বিক্রিয়ক থেকে হিসাব করা হয়।
+! প্রকৃত ও তাত্ত্বিক উৎপাদ একই এককে হতে হবে (দুটোই g-এ)।
+## visual
+একটি বিক্রিয়া বেছে নাও, বিক্রিয়কের ভর আর বাস্তবে সংগ্রহ করা উৎপাদের ভর ঠিক করো। বারগুলো প্রকৃত উৎপাদকে তাত্ত্বিক উৎপাদের সাথে তুলনা করে শতকরা পরিমাণ দেখায়।
+## real
+বাংলাদেশের ওষুধ কোম্পানিগুলো, যারা অনেক দেশে ওষুধ রপ্তানি করে, ওষুধ তৈরির প্রতিটি ধাপে উৎপাদের শতকরা পরিমাণ বাড়াতে কঠোর চেষ্টা করে: বড় ব্যাচে কয়েক শতাংশ বেশি উৎপাদ মানে অনেক কাঁচামাল আর টাকার সাশ্রয়, আর কম রাসায়নিক বর্জ্য।
+## example
+প্রশ্ন: ২ g ম্যাগনেসিয়াম প্রয়োজনীয় অক্সিজেনের সাথে বিক্রিয়া করে ৩.২৫ g ম্যাগনেসিয়াম অক্সাইড পাওয়া গেল। উৎপাদের শতকরা পরিমাণ কত?
+দেওয়া আছে: 2Mg + O₂ → 2MgO; ৪৮ g Mg → ৮০ g MgO; প্রকৃত উৎপাদ = ৩.২৫ g
+সূত্র: উৎপাদের % = প্রকৃত × ১০০ ÷ তাত্ত্বিক
+হিসাব: তাত্ত্বিক = ৮০ × ২ ÷ ৪৮ = ৩.৩৩৩ g; উৎপাদের % = ৩.২৫ × ১০০ ÷ ৩.৩৩৩ = ৯৭.৫%
+> বইয়ে তাত্ত্বিক উৎপাদ আগেই ৩.৩৩ g-এ আসন্ন করে ৯৭.৬% পাওয়া গেছে; বেশি অঙ্ক রাখলে আসে ৯৭.৫%। আসন্ন করো শুধু শেষে।
+উত্তর: ৯৭.৫%
+## example
+প্রশ্ন: ৮০ g CaCO₃ উত্তপ্ত করে ৩৯ g CaO পাওয়া গেল। উৎপাদের শতকরা পরিমাণ বের করো। (Ca = ৪০, C = ১২, O = ১৬)
+দেওয়া আছে: CaCO₃(s) →(Δ) CaO(s) + CO₂(g); ১০০ g CaCO₃ → ৫৬ g CaO; প্রকৃত উৎপাদ = ৩৯ g
+হিসাব: তাত্ত্বিক = ৫৬ × ৮০ ÷ ১০০ = ৪৪.৮ g; উৎপাদের % = ৩৯ × ১০০ ÷ ৪৪.৮ = ৮৭.১%
+উত্তর: প্রায় ৮৭.১%
+## example
+প্রশ্ন: ৫ g CaO আর ৪.৪ g CO₂ থেকে (পাঠ ৬.৪ দেখো) ৮.০ g CaCO₃ সংগ্রহ করা হলো। উৎপাদের শতকরা পরিমাণ কত?
+দেওয়া আছে: CaO লিমিটিং; তাত্ত্বিক উৎপাদ = ৮.৯৩ g; প্রকৃত উৎপাদ = ৮.০ g
+হিসাব: উৎপাদের % = ৮.০ × ১০০ ÷ ৮.৯৩ = ৮৯.৬%
+> তাত্ত্বিক উৎপাদ সবসময় লিমিটিং বিক্রিয়ক থেকে বের করো, প্রত্যাশিত ১০ g থেকে নয়।
+উত্তর: প্রায় ৮৯.৬%
+## mistakes
+x উৎপাদের % = তাত্ত্বিক ÷ প্রকৃত × ১০০।
+v উৎপাদের % = প্রকৃত ÷ তাত্ত্বিক × ১০০; সাধারণত এটি ১০০%-এর কম।
+x তাত্ত্বিক উৎপাদ যেকোনো বিক্রিয়ক থেকে হিসাব করা যায়।
+v লিমিটিং বিক্রিয়ক ব্যবহার করো; অতিরিক্ত বিক্রিয়ক থেকে এমন উৎপাদ আসবে যা কখনো পাওয়া সম্ভব নয়।
+x ১০০%-এর বেশি উৎপাদ মানে বিক্রিয়া খুব ভালো হয়েছে।
+v এর মানে ভুল হয়েছে: উৎপাদ ভেজা, অবিশুদ্ধ বা ওজনে ভুল।
+## remember
+- উৎপাদের % = (প্রকৃত ÷ তাত্ত্বিক) × ১০০।
+- তাত্ত্বিক উৎপাদ আসে লিমিটিং বিক্রিয়ক থেকে।
+- অবিশুদ্ধ বিক্রিয়ক, অসম্পূর্ণ বিক্রিয়া আর অপচয়ের কারণে উৎপাদ ১০০%-এর কম।
+- অ্যানালার গ্রেড ≈ ৯৯% বিশুদ্ধ।
+## think
+একজন শিক্ষার্থী সদ্য ছেঁকে ওজন করা একটি লবণের ১০৪% উৎপাদ পেল। এই অসম্ভব ফলের দুটি সম্ভাব্য কারণ বলো।
+## quiz
+? তাত্ত্বিক উৎপাদ ২০ g, প্রকৃত উৎপাদ ১৫ g। উৎপাদের শতকরা পরিমাণ:
+- ১৩৩%
+* ৭৫%
+- ২৫%
+- ১৫%
+= ১৫ × ১০০ ÷ ২০ = ৭৫%।
+? পরীক্ষাগারের সবচেয়ে বিশুদ্ধ মানের রাসায়নিককে বলে:
+- টেকনিক্যাল গ্রেড
+* অ্যানালার গ্রেড
+- বাণিজ্যিক গ্রেড
+- অপরিশোধিত গ্রেড
+= অ্যানালার (অ্যানালিটিক্যাল রিএজেন্ট) গ্রেড প্রায় ৯৯% বিশুদ্ধ।
+? বিক্রিয়ার তাত্ত্বিক উৎপাদ হিসাব করা হয়:
+- অতিরিক্ত বিক্রিয়ক থেকে
+* লিমিটিং বিক্রিয়ক থেকে
+- প্রকৃত উৎপাদ থেকে
+- ভারী উৎপাদ থেকে
+= লিমিটিং বিক্রিয়কই সর্বোচ্চ উৎপাদ ঠিক করে।

@@ -1,0 +1,1521 @@
+@@chapter
+== en
+## intro
+Deep inside every atom sits a tiny nucleus. Most nuclei are perfectly stable, but some are not: they suddenly throw out a particle or a burst of energy and turn into a different nucleus. This is **radioactivity**. It was discovered only at the start of modern physics, yet today it helps doctors treat cancer, lets scientists find the age of ancient bones, and powers nuclear power plants like Rooppur. Because the radiation can also damage living cells, we must understand it and handle it with care.
+
+The second half of the chapter is about **electronics**, the physics behind your phone, computer and television. You will see how electronics grew from glowing vacuum tubes to tiny transistors and chips holding billions of them, how analog and digital signals differ, and why a humble material called a **semiconductor** made all of this possible.
+## objectives
+- explain radioactivity, isotopes and nuclear notation
+- explain the nature and properties of alpha, beta and gamma rays
+- explain half-life and use it to calculate how much of a radioactive substance remains
+- describe the uses of radioactivity and the precautions needed
+- describe the development of electronics: vacuum tube, transistor and integrated circuit
+- differentiate between analog and digital electronics and use binary numbers
+- explain semiconductors and n-type and p-type semiconductors
+== bn
+## intro
+প্রতিটি পরমাণুর গভীরে বসে আছে ছোট্ট একটি নিউক্লিয়াস। বেশির ভাগ নিউক্লিয়াস পুরোপুরি স্থিতিশীল, কিন্তু কিছু নিউক্লিয়াস তা নয়: এরা হঠাৎ একটি কণা বা এক ঝলক শক্তি ছুড়ে দিয়ে অন্য নিউক্লিয়াসে পরিণত হয়। এটাই **তেজস্ক্রিয়তা**। আধুনিক পদার্থবিজ্ঞানের শুরুতেই এটি আবিষ্কৃত হয়, অথচ আজ এটি ডাক্তারদের ক্যানসারের চিকিৎসায় সাহায্য করে, বিজ্ঞানীদের প্রাচীন হাড়ের বয়স বের করতে দেয়, আর রূপপুরের মতো নিউক্লিয়ার বিদ্যুৎকেন্দ্র চালায়। এই বিকিরণ জীবন্ত কোষের ক্ষতিও করতে পারে, তাই একে বুঝতে হবে আর সাবধানে ব্যবহার করতে হবে।
+
+অধ্যায়ের দ্বিতীয় ভাগ **ইলেকট্রনিকস** নিয়ে, অর্থাৎ তোমার ফোন, কম্পিউটার আর টেলিভিশনের পেছনের পদার্থবিজ্ঞান। দেখবে কীভাবে জ্বলজ্বলে ভ্যাকুয়াম টিউব থেকে ছোট্ট ট্রানজিস্টর আর কোটি কোটি ট্রানজিস্টরসহ চিপ পর্যন্ত ইলেকট্রনিকস এগিয়েছে, অ্যানালগ আর ডিজিটাল সিগন্যালের পার্থক্য কী, আর **অর্ধপরিবাহী** বা সেমিকন্ডাক্টর নামের সাধারণ একটি পদার্থ কেন এসব সম্ভব করেছে।
+## objectives
+- তেজস্ক্রিয়তা, আইসোটোপ ও নিউক্লিয়াসের প্রতীক ব্যাখ্যা করতে পারবে
+- আলফা, বিটা ও গামা রশ্মির প্রকৃতি ও বৈশিষ্ট্য ব্যাখ্যা করতে পারবে
+- অর্ধায়ু ব্যাখ্যা করতে এবং এর সাহায্যে তেজস্ক্রিয় পদার্থের অবশিষ্ট পরিমাণ হিসাব করতে পারবে
+- তেজস্ক্রিয়তার ব্যবহার ও প্রয়োজনীয় সতর্কতা বর্ণনা করতে পারবে
+- ইলেকট্রনিকসের ক্রমবিকাশ বর্ণনা করতে পারবে: ভ্যাকুয়াম টিউব, ট্রানজিস্টর ও সমন্বিত বর্তনী
+- অ্যানালগ ও ডিজিটাল ইলেকট্রনিকসের পার্থক্য করতে এবং বাইনারি সংখ্যা ব্যবহার করতে পারবে
+- অর্ধপরিবাহী এবং n ধরনের ও p ধরনের অর্ধপরিবাহী ব্যাখ্যা করতে পারবে
+
+@@ 13.1
+@visual c13nuc
+@related 13.1.1 13.1.4 4.6 10.1
+== en
+## what
+**Radioactivity** is the process in which an unstable nucleus gives out radiation on its own and, in doing so, usually changes into the nucleus of a different element.
+## simple
+First, a quick picture of the atom. At the centre is the **nucleus**, made of **protons** (positive) and **neutrons** (no charge). Electrons move around it. The nucleus is incredibly small, about **one lakh (100 000) times smaller** in radius than the whole atom, yet it holds almost all the mass, because an electron is about **1836 times lighter** than a proton or neutron.
+
+**Why do nuclei need neutrons?** Protons are all positive, so they repel each other strongly. A nucleus made only of protons would fly apart. Neutrons add the very strong, short-range **nuclear force** without adding any repulsion, and this glue holds the nucleus together.
+
+**Isotopes.** An element is decided by its number of protons (equal to its number of electrons in a neutral atom). But atoms of the same element can have **different numbers of neutrons**. These are called **isotopes**. Carbon, for example, always has 6 protons, and has three main isotopes:
+
+- carbon-12: 6 protons + 6 neutrons (stable)
+- carbon-13: 6 protons + 7 neutrons (stable)
+- carbon-14: 6 protons + 8 neutrons (**radioactive**)
+
+So one isotope of an element can be stable while another is radioactive.
+
+**Writing a nucleus.** We write the symbol with the **nucleon number A** (protons + neutrons) on top and the **atomic number Z** (protons) below: ^{14}_{6}C means 6 protons and 14 − 6 = 8 neutrons.
+
+**When is a nucleus unstable?** Heavier nuclei need more and more neutrons to stay together. Once the number of protons goes past **82**, no nucleus is truly stable. Lighter nuclei can be radioactive too if their mix of protons and neutrons is wrong (like carbon-14), and two light elements, **technetium (43)** and **promethium (61)**, have no stable isotope at all.
+
+An unstable nucleus tries to become stable by throwing out radiation. That is radioactivity, and the radiation is called a **radioactive ray**.
+
+**Discovery.** In **1896 Henri Becquerel** found that uranium gives out invisible rays all by itself. Soon **Marie Curie, Pierre Curie, Ernest Rutherford** and others found radioactivity in other elements.
+## analogy
+An unstable nucleus is like an overloaded bookshelf that is bound to shed some books sooner or later. It throws out a small piece (an α or β particle) or a burst of energy (γ) to become more stable. Nobody can say which shelf will drop its books next, but in a huge library you can predict how many will fall each year.
+## definition
+**Radioactivity**: the spontaneous emission of radiation (alpha, beta or gamma rays) from the nucleus of an unstable atom. It happens by itself and cannot be speeded up, slowed down or stopped by pressure, heat, or electric or magnetic fields, so it is a **nuclear** phenomenon, not a chemical one.
+
+**Isotopes**: atoms of the same element (same number of protons) with different numbers of neutrons.
+
+**Nuclear notation**: ^{A}_{Z}X, where A = nucleon (mass) number = protons + neutrons, Z = atomic number = protons; number of neutrons N = A − Z.
+## why
+Why can't heat or pressure change radioactivity? Heating, pressing or chemical reactions only disturb the **outer electrons** of an atom, and the energies involved are tiny. The events inside the nucleus involve energies about a million times larger. Nothing in an ordinary lab reaches in and affects them, so the nucleus decays at its own natural rate.
+## terms
+Nucleus | Tiny positive centre of an atom, made of protons and neutrons
+Nucleon | A proton or a neutron
+Atomic number (Z) | Number of protons in the nucleus
+Nucleon number (A) | Protons + neutrons (also called mass number)
+Isotope | Same element (same Z), different number of neutrons
+Nuclear force | Very strong attraction between nucleons that holds the nucleus together
+Radioactivity | Spontaneous emission of radiation by an unstable nucleus
+Radioactive ray | The radiation coming out of the nucleus: α, β or γ
+## formula
+$$ A = Z + N
+$$ N = A − Z
+A | nucleon number (protons + neutrons) | none (a count)
+Z | atomic number (protons) | none (a count)
+N | number of neutrons | none (a count)
+! The chemical element is fixed by Z alone; changing N gives another isotope of the same element.
+## visual
+Pick a nucleus, count its protons and neutrons, then make it emit α or β and watch it turn into another element. Try following uranium-238 all the way to stable lead.
+## real
+The Rooppur Nuclear Power Plant in Pabna uses uranium, a radioactive element. Hospitals in Bangladesh use radioactive isotopes to scan organs and treat cancer, and archaeologists use carbon-14 to date ancient remains.
+## example
+Q: How many protons and neutrons are there in ^{238}_{92}U?
+Given: A = 238, Z = 92
+Formula: N = A − Z
+Calculation: protons = Z = 92; neutrons = 238 − 92 = 146
+Answer: 92 protons and 146 neutrons
+## example
+Q: Which of these are isotopes of the same element: ^{12}_{6}C, ^{14}_{6}C, ^{14}_{7}N?
+Given: Z = 6, 6 and 7
+> Isotopes must have the same number of protons (same Z). The nucleon number A does not decide the element.
+Answer: ^{12}_{6}C and ^{14}_{6}C are isotopes (both carbon, Z = 6). ^{14}_{7}N has the same A as carbon-14 but is a different element (nitrogen).
+## mistakes
+x Isotopes of an element have different numbers of protons.
+v Isotopes have the same number of protons but different numbers of neutrons.
+x Heating a radioactive substance makes it decay faster.
+v Radioactivity is a nuclear process; heat, pressure and fields do not change it.
+x The upper number in ^{14}_{6}C is the number of neutrons.
+v The upper number is protons + neutrons (A); neutrons = 14 − 6 = 8.
+## remember
+- Nucleus = protons + neutrons; tiny but holds almost all the mass.
+- Isotopes: same Z, different number of neutrons; some are stable, some radioactive.
+- Notation ^{A}_{Z}X: A = protons + neutrons, Z = protons, N = A − Z.
+- Radioactivity: an unstable nucleus spontaneously emits α, β or γ rays; heat, pressure and fields cannot control it.
+- Discovered by Becquerel in 1896 (uranium); the Curies and Rutherford extended it.
+## think
+If radioactivity cannot be switched off, how do you think a nuclear power plant stores its used fuel safely?
+## quiz
+? The nucleus ^{14}_{6}C contains how many neutrons?
+- 6
+* 8
+- 14
+- 20
+= N = A − Z = 14 − 6 = 8.
+? Isotopes of an element have the same number of:
+* Protons
+- Neutrons
+- Nucleons
+- Protons and neutrons
+= The element is fixed by the proton number; isotopes differ in neutrons.
+? Radioactivity was first discovered in uranium by:
+- Marie Curie
+- Ernest Rutherford
+* Henri Becquerel
+- Albert Einstein
+= Becquerel discovered it in 1896.
+? Which of the following can change the rate of radioactive decay?
+- Heating strongly
+- High pressure
+- A strong magnetic field
+* None of these
+= Radioactivity is a nuclear process and is not affected by these.
+== bn
+## what
+**তেজস্ক্রিয়তা** হলো সেই প্রক্রিয়া যেখানে অস্থিতিশীল নিউক্লিয়াস নিজে নিজেই বিকিরণ ছাড়ে এবং সাধারণত এর ফলে অন্য একটি মৌলের নিউক্লিয়াসে পরিণত হয়।
+## simple
+আগে পরমাণুর একটা ছবি মনে করি। কেন্দ্রে আছে **নিউক্লিয়াস**, যা **প্রোটন** (ধনাত্মক) আর **নিউট্রন** (চার্জহীন) দিয়ে তৈরি। এর চারপাশে ঘোরে ইলেকট্রন। নিউক্লিয়াস অবিশ্বাস্য রকম ছোট, এর ব্যাসার্ধ পুরো পরমাণুর চেয়ে প্রায় **এক লক্ষ গুণ ছোট**, তবু পরমাণুর প্রায় সব ভর এতেই, কারণ একটি ইলেকট্রন প্রোটন বা নিউট্রনের চেয়ে প্রায় **১৮৩৬ গুণ হালকা**।
+
+**নিউক্লিয়াসে নিউট্রন লাগে কেন?** সব প্রোটন ধনাত্মক, তাই এরা একে অপরকে জোরে বিকর্ষণ করে। শুধু প্রোটন দিয়ে নিউক্লিয়াস বানালে তা ছিটকে যেত। নিউট্রন কোনো বিকর্ষণ যোগ না করে অত্যন্ত শক্তিশালী, স্বল্প-পাল্লার **নিউক্লিয়ার বল** যোগ করে, আর এই "আঠা" নিউক্লিয়াসকে ধরে রাখে।
+
+**আইসোটোপ।** কোন মৌল, তা ঠিক হয় প্রোটনের সংখ্যা দিয়ে (নিরপেক্ষ পরমাণুতে যা ইলেকট্রনের সংখ্যার সমান)। কিন্তু একই মৌলের পরমাণুতে **নিউট্রনের সংখ্যা ভিন্ন** হতে পারে। এদের বলে **আইসোটোপ**। যেমন কার্বনে সবসময় ৬টি প্রোটন, আর এর প্রধান তিনটি আইসোটোপ:
+
+- কার্বন-১২: ৬টি প্রোটন + ৬টি নিউট্রন (স্থিতিশীল)
+- কার্বন-১৩: ৬টি প্রোটন + ৭টি নিউট্রন (স্থিতিশীল)
+- কার্বন-১৪: ৬টি প্রোটন + ৮টি নিউট্রন (**তেজস্ক্রিয়**)
+
+অর্থাৎ একই মৌলের একটি আইসোটোপ স্থিতিশীল, আরেকটি তেজস্ক্রিয় হতে পারে।
+
+**নিউক্লিয়াস লেখার নিয়ম।** প্রতীকের ওপরে লিখি **নিউক্লিওন সংখ্যা A** (প্রোটন + নিউট্রন) আর নিচে **পারমাণবিক সংখ্যা Z** (প্রোটন): ^{১৪}_{৬}C মানে ৬টি প্রোটন আর ১৪ − ৬ = ৮টি নিউট্রন।
+
+**নিউক্লিয়াস কখন অস্থিতিশীল?** ভারী নিউক্লিয়াসকে একসাথে রাখতে ক্রমেই বেশি নিউট্রন লাগে। প্রোটনের সংখ্যা **৮২** পার হলে কোনো নিউক্লিয়াসই সত্যিকার স্থিতিশীল থাকে না। হালকা নিউক্লিয়াসও তেজস্ক্রিয় হতে পারে যদি প্রোটন-নিউট্রনের মিশ্রণ ঠিক না থাকে (যেমন কার্বন-১৪), আর দুটি হালকা মৌল, **টেকনিশিয়াম (৪৩)** ও **প্রোমেথিয়াম (৬১)**, এদের কোনো স্থিতিশীল আইসোটোপই নেই।
+
+অস্থিতিশীল নিউক্লিয়াস বিকিরণ ছুড়ে দিয়ে স্থিতিশীল হওয়ার চেষ্টা করে। এটাই তেজস্ক্রিয়তা, আর সেই বিকিরণকে বলে **তেজস্ক্রিয় রশ্মি**।
+
+**আবিষ্কার।** **১৮৯৬ সালে হেনরি বেকেরেল** দেখেন ইউরেনিয়াম নিজে নিজেই অদৃশ্য রশ্মি ছাড়ে। এরপর **মেরি কুরি, পিয়ারে কুরি, আর্নেস্ট রাদারফোর্ড** সহ অন্য বিজ্ঞানীরা অন্যান্য মৌলের তেজস্ক্রিয়তা আবিষ্কার করেন।
+## analogy
+অস্থিতিশীল নিউক্লিয়াস যেন অতিরিক্ত বোঝাই বইয়ের তাক, যা আগে বা পরে কিছু বই ফেলবেই। স্থিতিশীল হতে এটি একটি ছোট টুকরো (α বা β কণা) বা শক্তির ঝলক (γ) বের করে দেয়। কোন তাক পরে বই ফেলবে কেউ বলতে পারে না, কিন্তু বিশাল গ্রন্থাগারে প্রতি বছর কতগুলো পড়বে তা অনুমান করা যায়।
+## definition
+**তেজস্ক্রিয়তা**: অস্থিতিশীল পরমাণুর নিউক্লিয়াস থেকে স্বতঃস্ফূর্তভাবে বিকিরণ (আলফা, বিটা বা গামা রশ্মি) নির্গত হওয়া। এটি নিজে নিজে ঘটে, চাপ, তাপ, বৈদ্যুতিক বা চৌম্বক ক্ষেত্র দিয়ে একে দ্রুত, ধীর বা বন্ধ করা যায় না, তাই এটি একটি **নিউক্লীয়** ঘটনা, রাসায়নিক নয়।
+
+**আইসোটোপ**: একই মৌলের (একই প্রোটন সংখ্যা) ভিন্ন নিউট্রন সংখ্যাবিশিষ্ট পরমাণু।
+
+**নিউক্লিয়াসের প্রতীক**: ^{A}_{Z}X, যেখানে A = নিউক্লিওন (ভর) সংখ্যা = প্রোটন + নিউট্রন, Z = পারমাণবিক সংখ্যা = প্রোটন; নিউট্রন সংখ্যা N = A − Z।
+## why
+তাপ বা চাপ তেজস্ক্রিয়তা বদলাতে পারে না কেন? উত্তপ্ত করা, চাপ দেওয়া বা রাসায়নিক বিক্রিয়া শুধু পরমাণুর **বাইরের ইলেকট্রনগুলোকে** নাড়া দেয়, আর তাতে জড়িত শক্তি খুব সামান্য। নিউক্লিয়াসের ভেতরের ঘটনায় শক্তি এর চেয়ে প্রায় দশ লক্ষ গুণ বেশি। সাধারণ গবেষণাগারের কোনো কিছুই ভেতরে পৌঁছে একে প্রভাবিত করতে পারে না, তাই নিউক্লিয়াস নিজের স্বাভাবিক হারেই ক্ষয় হয়।
+## terms
+নিউক্লিয়াস | পরমাণুর ক্ষুদ্র ধনাত্মক কেন্দ্র, প্রোটন ও নিউট্রন দিয়ে তৈরি
+নিউক্লিওন | প্রোটন বা নিউট্রন
+পারমাণবিক সংখ্যা (Z) | নিউক্লিয়াসে প্রোটনের সংখ্যা
+নিউক্লিওন সংখ্যা (A) | প্রোটন + নিউট্রন (ভর সংখ্যাও বলে)
+আইসোটোপ | একই মৌল (একই Z), ভিন্ন নিউট্রন সংখ্যা
+নিউক্লিয়ার বল | নিউক্লিওনগুলোর মধ্যে অতি শক্তিশালী আকর্ষণ, যা নিউক্লিয়াসকে ধরে রাখে
+তেজস্ক্রিয়তা | অস্থিতিশীল নিউক্লিয়াস থেকে স্বতঃস্ফূর্ত বিকিরণ
+তেজস্ক্রিয় রশ্মি | নিউক্লিয়াস থেকে বের হওয়া বিকিরণ: α, β বা γ
+## formula
+$$ A = Z + N
+$$ N = A − Z
+A | নিউক্লিওন সংখ্যা (প্রোটন + নিউট্রন) | একক নেই (গণনা)
+Z | পারমাণবিক সংখ্যা (প্রোটন) | একক নেই (গণনা)
+N | নিউট্রনের সংখ্যা | একক নেই (গণনা)
+! মৌল ঠিক হয় শুধু Z দিয়ে; N বদলালে একই মৌলের অন্য আইসোটোপ পাওয়া যায়।
+## visual
+একটি নিউক্লিয়াস বেছে নাও, এর প্রোটন ও নিউট্রন গোনো, তারপর α বা β নির্গত করিয়ে দেখো এটি অন্য মৌলে পরিণত হচ্ছে। ইউরেনিয়াম-২৩৮ থেকে শুরু করে স্থিতিশীল সিসা পর্যন্ত পৌঁছানোর চেষ্টা করো।
+## real
+পাবনার রূপপুর নিউক্লিয়ার বিদ্যুৎকেন্দ্রে তেজস্ক্রিয় মৌল ইউরেনিয়াম ব্যবহৃত হয়। বাংলাদেশের হাসপাতালে তেজস্ক্রিয় আইসোটোপ দিয়ে শরীরের অঙ্গ স্ক্যান আর ক্যানসারের চিকিৎসা করা হয়, আর প্রত্নতত্ত্ববিদেরা কার্বন-১৪ দিয়ে প্রাচীন দেহাবশেষের বয়স বের করেন।
+## example
+প্রশ্ন: ^{২৩৮}_{৯২}U নিউক্লিয়াসে কয়টি প্রোটন ও কয়টি নিউট্রন আছে?
+দেওয়া আছে: A = ২৩৮, Z = ৯২
+সূত্র: N = A − Z
+হিসাব: প্রোটন = Z = ৯২; নিউট্রন = ২৩৮ − ৯২ = ১৪৬
+উত্তর: ৯২টি প্রোটন ও ১৪৬টি নিউট্রন
+## example
+প্রশ্ন: এগুলোর মধ্যে কোনগুলো একই মৌলের আইসোটোপ: ^{১২}_{৬}C, ^{১৪}_{৬}C, ^{১৪}_{৭}N?
+দেওয়া আছে: Z = ৬, ৬ ও ৭
+> আইসোটোপ হতে হলে প্রোটনের সংখ্যা (Z) একই হতে হবে। নিউক্লিওন সংখ্যা A দিয়ে মৌল ঠিক হয় না।
+উত্তর: ^{১২}_{৬}C ও ^{১৪}_{৬}C আইসোটোপ (দুটোই কার্বন, Z = ৬)। ^{১৪}_{৭}N-এর A কার্বন-১৪-এর সমান হলেও এটি ভিন্ন মৌল (নাইট্রোজেন)।
+## mistakes
+x একটি মৌলের আইসোটোপগুলোর প্রোটন সংখ্যা ভিন্ন।
+v আইসোটোপের প্রোটন সংখ্যা একই, নিউট্রন সংখ্যা ভিন্ন।
+x তেজস্ক্রিয় পদার্থ গরম করলে দ্রুত ক্ষয় হয়।
+v তেজস্ক্রিয়তা নিউক্লীয় প্রক্রিয়া; তাপ, চাপ বা ক্ষেত্র একে বদলায় না।
+x ^{১৪}_{৬}C-এর ওপরের সংখ্যাটি নিউট্রনের সংখ্যা।
+v ওপরের সংখ্যাটি প্রোটন + নিউট্রন (A); নিউট্রন = ১৪ − ৬ = ৮।
+## remember
+- নিউক্লিয়াস = প্রোটন + নিউট্রন; আকারে ক্ষুদ্র কিন্তু প্রায় সব ভর এতেই।
+- আইসোটোপ: একই Z, ভিন্ন নিউট্রন সংখ্যা; কিছু স্থিতিশীল, কিছু তেজস্ক্রিয়।
+- প্রতীক ^{A}_{Z}X: A = প্রোটন + নিউট্রন, Z = প্রোটন, N = A − Z।
+- তেজস্ক্রিয়তা: অস্থিতিশীল নিউক্লিয়াস স্বতঃস্ফূর্তভাবে α, β বা γ রশ্মি ছাড়ে; তাপ, চাপ বা ক্ষেত্র একে নিয়ন্ত্রণ করতে পারে না।
+- ১৮৯৬ সালে বেকেরেল (ইউরেনিয়াম থেকে) আবিষ্কার করেন; কুরি দম্পতি ও রাদারফোর্ড একে এগিয়ে নেন।
+## think
+তেজস্ক্রিয়তা যদি বন্ধ করা না যায়, তাহলে নিউক্লিয়ার বিদ্যুৎকেন্দ্র তার ব্যবহৃত জ্বালানি কীভাবে নিরাপদে রাখে বলে তোমার মনে হয়?
+## quiz
+? ^{১৪}_{৬}C নিউক্লিয়াসে কয়টি নিউট্রন আছে?
+- ৬
+* ৮
+- ১৪
+- ২০
+= N = A − Z = ১৪ − ৬ = ৮।
+? একটি মৌলের আইসোটোপগুলোতে কোনটির সংখ্যা একই থাকে?
+* প্রোটন
+- নিউট্রন
+- নিউক্লিওন
+- প্রোটন ও নিউট্রন
+= মৌল ঠিক হয় প্রোটন সংখ্যা দিয়ে; আইসোটোপে নিউট্রন সংখ্যা ভিন্ন।
+? ইউরেনিয়াম থেকে প্রথম তেজস্ক্রিয়তা আবিষ্কার করেন:
+- মেরি কুরি
+- আর্নেস্ট রাদারফোর্ড
+* হেনরি বেকেরেল
+- আলবার্ট আইনস্টাইন
+= বেকেরেল ১৮৯৬ সালে এটি আবিষ্কার করেন।
+? নিচের কোনটি তেজস্ক্রিয় ক্ষয়ের হার বদলাতে পারে?
+- জোরে উত্তপ্ত করা
+- উচ্চ চাপ
+- শক্তিশালী চৌম্বক ক্ষেত্র
+* এগুলোর কোনোটিই নয়
+= তেজস্ক্রিয়তা নিউক্লীয় প্রক্রিয়া, এগুলো একে প্রভাবিত করে না।
+
+@@ 13.1.1
+@visual c13rays
+@related 13.1 13.1.4 13.1.5 10.5
+== en
+## what
+A radioactive nucleus mainly gives out three kinds of rays: **alpha (α)** particles (helium nuclei), **beta (β)** particles (fast electrons) and **gamma (γ)** rays (high-energy electromagnetic waves). They differ in charge, mass, how strongly they ionize and how far they can penetrate.
+## simple
+Think of the three rays as three very different "bullets".
+
+**Alpha (α): the heavy, slow bowling ball.** An alpha particle is a **helium nucleus**: 2 protons + 2 neutrons, so its charge is **+2** and its mass is about **4 u** (roughly 7300 times an electron). It leaves the nucleus with a few MeV of energy and smashes into air molecules, knocking electrons off them: it **ionizes very strongly**. Because it uses up its energy so quickly, it travels only **a few centimetres in air** (the book says about 6 cm) and is **stopped by a single sheet of paper**. It makes a zinc sulfide screen glow with tiny flashes.
+
+When a nucleus emits an alpha particle it loses 2 protons and 2 neutrons, so **Z goes down by 2 and A goes down by 4**:
+
+^{238}_{92}U → ^{234}_{90}Th + ^{4}_{2}He
+
+Uranium (Z = 92) has become thorium (Z = 90).
+
+**Beta (β): the light, fast marble.** A beta particle is an **electron**. But a nucleus contains no electrons, so where does it come from? Inside the nucleus a **neutron turns into a proton**, creating an electron and a tiny, chargeless particle called an **antineutrino** (ν̄):
+
+n → p⁺ + e⁻ + ν̄
+
+The total charge stays zero (0 = +1 − 1 + 0). The electron shoots out as the beta particle. Since a neutron became a proton, **Z goes up by 1 but A stays the same**:
+
+^{14}_{6}C → ^{14}_{7}N + e⁻ + ν̄
+
+A beta particle is much smaller than an alpha particle, so it ionizes less and goes **further**: it takes **a few millimetres of aluminium** to stop it.
+
+(There is also a positive beta decay, where a proton becomes a neutron and a **positron** e⁺, the antiparticle of the electron, is emitted with a neutrino. Then Z goes down by 1. This can only happen inside a nucleus, because a free proton is lighter than a neutron.)
+
+Neutrinos are not counted as radioactive rays: they have no charge and hardly interact with anything; they can pass through the whole Earth.
+
+**Gamma (γ): the invisible, very penetrating light.** A gamma ray is an **electromagnetic wave** of very short wavelength (very high frequency and energy). It has **no charge and no mass** and travels at the **speed of light**. After emitting α or β, a nucleus is often left "excited" with extra energy; it gets rid of that energy as a gamma ray. So **Z and A do not change**. Gamma rays ionize weakly, so they go very far: **several centimetres of lead** are needed to cut them down greatly.
+
+**In electric and magnetic fields**, α and β bend (in opposite directions, because their charges are opposite), while γ goes straight. The light β particle bends much more than the heavy α particle.
+## analogy
+Think of α, β and γ as a football, a tennis ball and a bullet of light thrown at a wall of paper, a sheet of aluminium and a block of lead. The big, heavy football (α) is stopped by paper; the small, fast tennis ball (β) gets through paper but not aluminium; γ, being pure energy, goes through almost everything and needs thick lead to weaken it.
+## definition
+**Alpha particle (α)**: a helium nucleus, ^{4}_{2}He (2 protons + 2 neutrons), charge +2e. Emitting it lowers Z by 2 and A by 4.
+
+**Beta particle (β⁻)**: a fast electron, charge −e, produced when a neutron in the nucleus changes into a proton (n → p⁺ + e⁻ + ν̄). Emitting it raises Z by 1; A is unchanged.
+
+**Gamma ray (γ)**: high-energy electromagnetic radiation from an excited nucleus; no charge, no mass, speed = speed of light. Emitting it changes neither Z nor A.
+
+Comparison:
+
+- **Charge**: α +2e; β −e; γ 0
+- **Mass**: α about 4 u (heavy); β electron mass (very light); γ 0
+- **Ionizing power**: α very strong; β medium; γ weak
+- **Stopped by**: α a sheet of paper; β a few mm of aluminium; γ several cm of lead (reduced greatly)
+- **Bent by electric/magnetic fields**: α yes, slightly; β yes, strongly (opposite way); γ no
+## why
+Why does the strongest ionizer penetrate the least? Every time a ray ionizes an atom, it spends some energy. An alpha particle, heavy and doubly charged, ionizes thousands of atoms in every millimetre, so it runs out of energy almost at once. A gamma ray, having no charge, rarely interacts, so it keeps its energy and travels much further. **More ionizing means less penetrating.**
+## terms
+Alpha particle (α) | Helium nucleus: 2p + 2n, charge +2
+Beta particle (β) | Fast electron from the nucleus, charge −1
+Gamma ray (γ) | High-energy electromagnetic wave from the nucleus
+Antineutrino (ν̄) | Tiny chargeless particle emitted with β⁻
+Positron (e⁺) | Antiparticle of the electron, charge +1
+Ionization | Knocking electrons off atoms, making ions
+Penetrating power | How far a ray can go into matter
+Excited nucleus | Nucleus with extra energy, which it releases as γ
+## formula
+$$ α decay: ^{A}_{Z}X → ^{A−4}_{Z−2}Y + ^{4}_{2}He
+$$ β⁻ decay: ^{A}_{Z}X → ^{A}_{Z+1}Y + e⁻ + ν̄
+$$ γ emission: A and Z unchanged
+! In every decay the total nucleon number and the total charge are the same on both sides.
+## visual
+Choose a ray and see which barrier stops it. Then switch on the electric field and watch α and β bend in opposite directions while γ goes straight.
+## real
+Smoke detectors contain a tiny alpha source: its particles ionize the air so a small current flows, and smoke blocks that current and sets off the alarm. Paper-mill machines use beta rays to check paper thickness, and hospitals use gamma rays from cobalt-60 to treat cancer, behind thick concrete walls.
+## example
+Q: ^{238}_{92}U emits one alpha particle. What nucleus is formed?
+Given: Z = 92, A = 238; α = ^{4}_{2}He
+Formula: new Z = Z − 2, new A = A − 4
+Calculation: Z = 92 − 2 = 90; A = 238 − 4 = 234
+> The element with Z = 90 is thorium.
+Answer: ^{234}_{90}Th (thorium-234)
+## example
+Q: ^{14}_{6}C decays by emitting a beta particle. What nucleus is formed?
+Given: Z = 6, A = 14; β⁻ decay
+Formula: new Z = Z + 1, A unchanged
+Calculation: Z = 6 + 1 = 7; A = 14
+> A neutron has become a proton, so there is one more proton but the same number of nucleons. Z = 7 is nitrogen.
+Answer: ^{14}_{7}N (nitrogen-14)
+## mistakes
+x A beta particle is an electron that was orbiting the atom.
+v It is created in the nucleus when a neutron turns into a proton.
+x Gamma rays are particles with a small mass.
+v Gamma rays are electromagnetic waves with no mass and no charge.
+x Several centimetres of lead stop every gamma ray completely.
+v Lead reduces gamma rays greatly, but a tiny fraction can still pass, which is why thick shields are used.
+x Alpha particles are harmless because paper stops them.
+v Outside the body they are easily stopped, but if an alpha source is swallowed or breathed in it is very harmful.
+## remember
+- α = helium nucleus (+2); β = electron (−1); γ = electromagnetic wave (no charge, no mass).
+- α: Z − 2, A − 4. β⁻: Z + 1, A same. γ: nothing changes.
+- Ionizing power: α > β > γ. Penetrating power: γ > β > α.
+- Stopped by: α → paper; β → a few mm aluminium; γ → several cm lead (greatly reduced).
+- In fields: α and β bend opposite ways (β more); γ is not bent.
+## think
+The book asks: if a neutron can turn into a proton by giving out a beta particle, why don't all the neutrons in a nucleus slowly turn into protons?
+## quiz
+? An alpha particle is:
+- An electron
+* A helium nucleus
+- A photon
+- A neutron
+= It contains 2 protons and 2 neutrons.
+? Which radiation can be stopped by a sheet of paper?
+* Alpha
+- Beta
+- Gamma
+- All three
+= Alpha particles ionize so strongly that they lose all their energy very quickly.
+? When a nucleus emits a beta particle (β⁻), its atomic number:
+- Decreases by 2
+- Stays the same
+* Increases by 1
+- Decreases by 1
+= A neutron becomes a proton, so Z increases by 1 while A stays the same.
+? Which radiation is NOT bent by a magnetic field?
+- Alpha
+- Beta
+* Gamma
+- Both alpha and beta
+= Gamma rays have no charge.
+== bn
+## what
+তেজস্ক্রিয় নিউক্লিয়াস মূলত তিন ধরনের রশ্মি ছাড়ে: **আলফা (α)** কণা (হিলিয়াম নিউক্লিয়াস), **বিটা (β)** কণা (দ্রুতগতির ইলেকট্রন) আর **গামা (γ)** রশ্মি (উচ্চ শক্তির বিদ্যুৎচৌম্বকীয় তরঙ্গ)। চার্জ, ভর, আয়নিত করার ক্ষমতা আর ভেদনক্ষমতায় এরা আলাদা।
+## simple
+তিনটি রশ্মিকে তিন রকম "গুলি" ভাবো।
+
+**আলফা (α): ভারী, ধীর বোলিং বল।** আলফা কণা হলো একটি **হিলিয়াম নিউক্লিয়াস**: ২টি প্রোটন + ২টি নিউট্রন, তাই এর চার্জ **+২** আর ভর প্রায় **৪ u** (ইলেকট্রনের প্রায় ৭৩০০ গুণ)। এটি কয়েক MeV শক্তি নিয়ে নিউক্লিয়াস থেকে বের হয়, বাতাসের অণুতে ধাক্কা দিয়ে ইলেকট্রন ছিটকে দেয়: এটি **তীব্রভাবে আয়নিত করে**। এত দ্রুত শক্তি খরচ করে বলে এটি **বাতাসে মাত্র কয়েক সেন্টিমিটার** যায় (বইয়ে প্রায় ৬ cm বলা আছে), আর **একটি কাগজের পাতাই একে থামিয়ে দেয়**। জিংক সালফাইড পর্দায় এটি ছোট ছোট ঝলক (অনুপ্রভা) তৈরি করে।
+
+নিউক্লিয়াস আলফা কণা ছাড়লে ২টি প্রোটন ও ২টি নিউট্রন হারায়, তাই **Z কমে ২ আর A কমে ৪**:
+
+^{২৩৮}_{৯২}U → ^{২৩৪}_{৯০}Th + ^{৪}_{২}He
+
+ইউরেনিয়াম (Z = ৯২) হয়ে গেল থোরিয়াম (Z = ৯০)।
+
+**বিটা (β): হালকা, দ্রুত মার্বেল।** বিটা কণা হলো একটি **ইলেকট্রন**। কিন্তু নিউক্লিয়াসে তো ইলেকট্রন নেই, তাহলে এটি আসে কোথা থেকে? নিউক্লিয়াসের ভেতরে একটি **নিউট্রন প্রোটনে পরিণত হয়**, তৈরি হয় একটি ইলেকট্রন আর **অ্যান্টি-নিউট্রিনো** (ν̄) নামের ছোট্ট চার্জহীন কণা:
+
+n → p⁺ + e⁻ + ν̄
+
+মোট চার্জ শূন্যই থাকে (০ = +১ − ১ + ০)। ইলেকট্রনটি বিটা কণা হিসেবে ছুটে বের হয়। নিউট্রন প্রোটন হয়েছে বলে **Z বাড়ে ১ কিন্তু A একই থাকে**:
+
+^{১৪}_{৬}C → ^{১৪}_{৭}N + e⁻ + ν̄
+
+বিটা কণা আলফা কণার চেয়ে অনেক ছোট, তাই কম আয়নিত করে আর **বেশি দূর** যায়: একে থামাতে **কয়েক মিলিমিটার পুরু অ্যালুমিনিয়াম** লাগে।
+
+(ধনাত্মক বিটা ক্ষয়ও আছে, যেখানে একটি প্রোটন নিউট্রনে পরিণত হয় আর ইলেকট্রনের প্রতিকণা **পজিট্রন** e⁺ একটি নিউট্রিনোসহ বের হয়। তখন Z কমে ১। এটি কেবল নিউক্লিয়াসের ভেতরেই ঘটতে পারে, কারণ মুক্ত প্রোটন নিউট্রনের চেয়ে হালকা।)
+
+নিউট্রিনোকে তেজস্ক্রিয় রশ্মি ধরা হয় না: এর চার্জ নেই আর প্রায় কোনো কিছুর সাথেই বিক্রিয়া করে না; পুরো পৃথিবী ভেদ করে চলে যেতে পারে।
+
+**গামা (γ): অদৃশ্য, অতি ভেদী আলো।** গামা রশ্মি হলো খুব ছোট তরঙ্গদৈর্ঘ্যের (খুব বেশি কম্পাঙ্ক ও শক্তির) **বিদ্যুৎচৌম্বকীয় তরঙ্গ**। এর **চার্জ নেই, ভরও নেই**, আর এটি চলে **আলোর বেগে**। α বা β ছাড়ার পর নিউক্লিয়াস প্রায়ই বাড়তি শক্তি নিয়ে "উত্তেজিত" থাকে; সেই শক্তি গামা রশ্মি হিসেবে ছেড়ে নিরুত্তেজ হয়। তাই **Z আর A বদলায় না**। গামা রশ্মি দুর্বলভাবে আয়নিত করে, তাই অনেক দূর যায়: একে অনেকখানি কমাতে **কয়েক সেন্টিমিটার পুরু সিসা** লাগে।
+
+**বৈদ্যুতিক ও চৌম্বক ক্ষেত্রে** α আর β বেঁকে যায় (বিপরীত দিকে, কারণ এদের চার্জ বিপরীত), কিন্তু γ সোজা চলে। হালকা β কণা ভারী α কণার চেয়ে অনেক বেশি বাঁকে।
+## analogy
+α, β আর γ-কে ভাবো কাগজ, অ্যালুমিনিয়ামের পাত আর সিসার ব্লকের দিকে ছোড়া একটি ফুটবল, একটি টেনিস বল আর আলোর গুলি। বড়, ভারী ফুটবল (α) কাগজেই থেমে যায়; ছোট, দ্রুত টেনিস বল (β) কাগজ পেরোয়, কিন্তু অ্যালুমিনিয়াম নয়; γ বিশুদ্ধ শক্তি হওয়ায় প্রায় সবকিছু ভেদ করে, একে দুর্বল করতে পুরু সিসা লাগে।
+## definition
+**আলফা কণা (α)**: হিলিয়াম নিউক্লিয়াস, ^{৪}_{২}He (২টি প্রোটন + ২টি নিউট্রন), চার্জ +২e। এটি নির্গত হলে Z কমে ২, A কমে ৪।
+
+**বিটা কণা (β⁻)**: দ্রুতগতির ইলেকট্রন, চার্জ −e; নিউক্লিয়াসের একটি নিউট্রন প্রোটনে পরিণত হলে তৈরি হয় (n → p⁺ + e⁻ + ν̄)। এটি নির্গত হলে Z বাড়ে ১; A অপরিবর্তিত।
+
+**গামা রশ্মি (γ)**: উত্তেজিত নিউক্লিয়াস থেকে আসা উচ্চ শক্তির বিদ্যুৎচৌম্বকীয় বিকিরণ; চার্জ নেই, ভর নেই, বেগ = আলোর বেগ। এটি নির্গত হলে Z বা A কোনোটিই বদলায় না।
+
+তুলনা:
+
+- **চার্জ**: α +২e; β −e; γ ০
+- **ভর**: α প্রায় ৪ u (ভারী); β ইলেকট্রনের ভর (খুব হালকা); γ ০
+- **আয়নিত করার ক্ষমতা**: α অনেক বেশি; β মাঝারি; γ কম
+- **যা দিয়ে থামে**: α এক পাতা কাগজ; β কয়েক mm অ্যালুমিনিয়াম; γ কয়েক cm সিসা (অনেকখানি কমে)
+- **বৈদ্যুতিক/চৌম্বক ক্ষেত্রে বাঁকে?**: α হ্যাঁ, অল্প; β হ্যাঁ, অনেক (বিপরীত দিকে); γ না
+## why
+সবচেয়ে বেশি আয়নিত করে যে রশ্মি, সেটাই সবচেয়ে কম ভেদ করে কেন? প্রতিবার একটি পরমাণুকে আয়নিত করতে রশ্মির কিছু শক্তি খরচ হয়। ভারী ও দ্বিগুণ চার্জযুক্ত আলফা কণা প্রতি মিলিমিটারে হাজার হাজার পরমাণু আয়নিত করে, তাই প্রায় সাথে সাথে শক্তি ফুরিয়ে যায়। চার্জহীন গামা রশ্মি কদাচিৎ বিক্রিয়া করে, তাই শক্তি ধরে রেখে অনেক দূর যায়। **বেশি আয়নিত করা মানে কম ভেদ করা।**
+## terms
+আলফা কণা (α) | হিলিয়াম নিউক্লিয়াস: ২p + ২n, চার্জ +২
+বিটা কণা (β) | নিউক্লিয়াস থেকে আসা দ্রুতগতির ইলেকট্রন, চার্জ −১
+গামা রশ্মি (γ) | নিউক্লিয়াস থেকে আসা উচ্চ শক্তির বিদ্যুৎচৌম্বকীয় তরঙ্গ
+অ্যান্টি-নিউট্রিনো (ν̄) | β⁻-এর সাথে বের হওয়া ছোট্ট চার্জহীন কণা
+পজিট্রন (e⁺) | ইলেকট্রনের প্রতিকণা, চার্জ +১
+আয়নিত করা | পরমাণু থেকে ইলেকট্রন ছিটকে দিয়ে আয়ন তৈরি
+ভেদনক্ষমতা | রশ্মি পদার্থের কতটা ভেতরে যেতে পারে
+উত্তেজিত নিউক্লিয়াস | বাড়তি শক্তিসহ নিউক্লিয়াস, যা γ হিসেবে শক্তি ছাড়ে
+## formula
+$$ α ক্ষয়: ^{A}_{Z}X → ^{A−৪}_{Z−২}Y + ^{৪}_{২}He
+$$ β⁻ ক্ষয়: ^{A}_{Z}X → ^{A}_{Z+১}Y + e⁻ + ν̄
+$$ γ নির্গমন: A ও Z অপরিবর্তিত
+! প্রতিটি ক্ষয়ে দুই পাশে মোট নিউক্লিওন সংখ্যা আর মোট চার্জ সমান থাকে।
+## visual
+একটি রশ্মি বেছে নিয়ে দেখো কোন বাধা একে থামায়। তারপর বৈদ্যুতিক ক্ষেত্র চালু করে দেখো α আর β বিপরীত দিকে বাঁকে, কিন্তু γ সোজা যায়।
+## real
+ধোঁয়া শনাক্তকারী যন্ত্রে (স্মোক ডিটেক্টর) খুব সামান্য আলফা উৎস থাকে: এর কণা বাতাসকে আয়নিত করে ছোট একটি প্রবাহ চালু রাখে, ধোঁয়া সেই প্রবাহ বাধা দিলে অ্যালার্ম বাজে। কাগজের কলে বিটা রশ্মি দিয়ে কাগজের পুরুত্ব যাচাই করা হয়, আর হাসপাতালে পুরু কংক্রিটের দেয়ালের আড়ালে কোবাল্ট-৬০-এর গামা রশ্মি দিয়ে ক্যানসারের চিকিৎসা করা হয়।
+## example
+প্রশ্ন: ^{২৩৮}_{৯২}U একটি আলফা কণা নির্গত করল। কোন নিউক্লিয়াস তৈরি হলো?
+দেওয়া আছে: Z = ৯২, A = ২৩৮; α = ^{৪}_{২}He
+সূত্র: নতুন Z = Z − ২, নতুন A = A − ৪
+হিসাব: Z = ৯২ − ২ = ৯০; A = ২৩৮ − ৪ = ২৩৪
+> Z = ৯০ মৌলটি থোরিয়াম।
+উত্তর: ^{২৩৪}_{৯০}Th (থোরিয়াম-২৩৪)
+## example
+প্রশ্ন: ^{১৪}_{৬}C একটি বিটা কণা নির্গত করে ক্ষয় হয়। কোন নিউক্লিয়াস তৈরি হয়?
+দেওয়া আছে: Z = ৬, A = ১৪; β⁻ ক্ষয়
+সূত্র: নতুন Z = Z + ১, A অপরিবর্তিত
+হিসাব: Z = ৬ + ১ = ৭; A = ১৪
+> একটি নিউট্রন প্রোটন হয়েছে, তাই প্রোটন একটি বেড়েছে কিন্তু নিউক্লিওন সংখ্যা একই। Z = ৭ হলো নাইট্রোজেন।
+উত্তর: ^{১৪}_{৭}N (নাইট্রোজেন-১৪)
+## mistakes
+x বিটা কণা হলো পরমাণুর চারপাশে ঘোরা একটি ইলেকট্রন।
+v নিউট্রন প্রোটনে পরিণত হওয়ার সময় এটি নিউক্লিয়াসের ভেতরে তৈরি হয়।
+x গামা রশ্মি অল্প ভরের কণা।
+v গামা রশ্মি বিদ্যুৎচৌম্বকীয় তরঙ্গ, এর ভর ও চার্জ কোনোটিই নেই।
+x কয়েক সেন্টিমিটার সিসা সব গামা রশ্মি পুরোপুরি থামিয়ে দেয়।
+v সিসা গামা রশ্মিকে অনেকখানি কমায়, তবু সামান্য অংশ পার হতে পারে, তাই পুরু আবরণ ব্যবহার করা হয়।
+x কাগজ থামাতে পারে বলে আলফা কণা নিরীহ।
+v শরীরের বাইরে একে সহজে থামানো যায়, কিন্তু আলফা উৎস গিলে ফেললে বা শ্বাসের সাথে ঢুকলে তা খুব ক্ষতিকর।
+## remember
+- α = হিলিয়াম নিউক্লিয়াস (+২); β = ইলেকট্রন (−১); γ = বিদ্যুৎচৌম্বকীয় তরঙ্গ (চার্জ নেই, ভর নেই)।
+- α: Z − ২, A − ৪। β⁻: Z + ১, A একই। γ: কিছুই বদলায় না।
+- আয়নিত করার ক্ষমতা: α > β > γ। ভেদনক্ষমতা: γ > β > α।
+- যা দিয়ে থামে: α → কাগজ; β → কয়েক mm অ্যালুমিনিয়াম; γ → কয়েক cm সিসা (অনেকখানি কমে)।
+- ক্ষেত্রে: α ও β বিপরীত দিকে বাঁকে (β বেশি); γ বাঁকে না।
+## think
+বইয়ের প্রশ্ন: নিউট্রন যদি বিটা কণা ছেড়ে প্রোটনে পরিণত হতে পারে, তাহলে নিউক্লিয়াসের সব নিউট্রন ধীরে ধীরে প্রোটনে পরিণত হয়ে যায় না কেন?
+## quiz
+? আলফা কণা হলো:
+- একটি ইলেকট্রন
+* একটি হিলিয়াম নিউক্লিয়াস
+- একটি ফোটন
+- একটি নিউট্রন
+= এতে ২টি প্রোটন ও ২টি নিউট্রন থাকে।
+? কোন বিকিরণ এক পাতা কাগজ দিয়ে থামানো যায়?
+* আলফা
+- বিটা
+- গামা
+- তিনটিই
+= আলফা কণা এত তীব্রভাবে আয়নিত করে যে খুব দ্রুত সব শক্তি হারায়।
+? নিউক্লিয়াস একটি বিটা কণা (β⁻) নির্গত করলে এর পারমাণবিক সংখ্যা:
+- ২ কমে
+- একই থাকে
+* ১ বাড়ে
+- ১ কমে
+= একটি নিউট্রন প্রোটন হয়, তাই Z বাড়ে ১, A একই থাকে।
+? কোন বিকিরণ চৌম্বক ক্ষেত্রে বাঁকে না?
+- আলফা
+- বিটা
+* গামা
+- আলফা ও বিটা দুটোই
+= গামা রশ্মির চার্জ নেই।
+
+@@ 13.1.4
+@visual c13decay
+@related 13.1 13.1.5 13.1.1
+== en
+## what
+The **half-life** (অর্ধায়ু) of a radioactive substance is the time in which **half** of its radioactive nuclei decay. After every half-life, the amount left is halved again.
+## simple
+Imagine 400 radioactive nuclei in a box. You cannot say **when** any one particular nucleus will decay; it is like tossing a coin for each one. Physics can only tell the **chance** that it decays in a given time.
+
+But with a huge number of nuclei, the chances average out beautifully. In a certain fixed time, about **half** of them will have decayed. That time is the **half-life**, written T½.
+
+Follow the halving:
+
+- start: 400 nuclei
+- after 1 half-life: 200 left
+- after 2 half-lives: 100 left
+- after 3 half-lives: 50 left
+- after 4 half-lives: 25 left
+
+Notice: it never "finishes" in two half-lives. Each half-life removes **half of what is left**, not half of the original. The curve drops quickly at first and then more and more slowly.
+
+So after n half-lives the fraction remaining is **(½)ⁿ**, where n = t ÷ T½.
+
+**Short and long.** A strongly radioactive substance decays quickly, so its half-life is short. Half-lives range from tiny fractions of a second to billions of years: iodine-131 about 8 days, carbon-14 about 5730 years, uranium-238 about 4.5 billion years. A **stable** nucleus never decays, so we can say its half-life is **infinite**.
+
+**Does the sample get lighter?** Hardly. The book's example: 1 kg of a radioactive element with half-life 100 years. After 200 years (2 half-lives), only ¼ of the original nuclei, 250 g, are **still that element**; three-quarters have decayed. But the decayed nuclei did not vanish; they became **other nuclei** (plus any escaping α or β particles, which carry off only a tiny mass). So the sample's total mass stays almost 1 kg. What drops to 250 g is the amount of the **original radioactive element**.
+## analogy
+Half-life is like a big bowl of 1000 popcorn kernels where, every minute, half of the unpopped ones pop at random. After 1 minute 500 are left, after 2 minutes 250, after 3 minutes 125... It never reaches exactly zero in a fixed time, but it keeps halving at the same regular pace.
+## definition
+**Half-life (T½)**: the time taken for half of the radioactive nuclei in a sample to decay (disintegrate). It is a fixed property of each radioactive isotope and does not depend on how much of the substance there is, or on temperature or pressure.
+
+After time t, the amount remaining is N = N₀(½)^{t/T½}.
+## why
+Why is the half-life the same whether you have 1 g or 1 kg? Because each nucleus decays independently, with the same chance per second. With twice as many nuclei, twice as many decay each second, so halving always takes the same time. That is why the count falls by the same **fraction** in every equal time interval.
+## terms
+Half-life (T½) | Time for half of the radioactive nuclei to decay
+Decay | A nucleus emitting radiation and changing
+Original amount (N₀) | Radioactive nuclei (or mass) at the start
+Remaining amount (N) | Radioactive nuclei (or mass) still undecayed
+Random | No one can predict when a particular nucleus will decay
+## formula
+$$ N = N₀ × (½)^{n}
+$$ n = t ÷ T½
+$$ Fraction decayed = 1 − (½)^{n}
+N₀ | original amount (nuclei or mass of the radioactive element) | count or kg / g
+N | amount remaining after time t | same unit as N₀
+t | time passed | s, days, years…
+T½ | half-life | same unit as t
+n | number of half-lives | none
+! t and T½ must be in the same unit.
+## visual
+Press Start and watch the nuclei decay at random. The count follows the dashed halving curve: after each half-life about half of what was left is gone. Change the half-life and compare.
+## real
+Doctors choose isotopes with short half-lives for scans so the radioactivity in the patient dies away quickly. Nuclear power plants must store spent fuel for a very long time because some of the waste has half-lives of thousands of years or more.
+## example
+Q: A 1 kg sample of a radioactive element has a half-life of 100 years. How much of that element remains after 200 years? (Book example)
+Given: N₀ = 1 kg = 1000 g, T½ = 100 years, t = 200 years
+Formula: N = N₀ × (½)^{n}, n = t ÷ T½
+Substitution: n = 200 ÷ 100 = 2; N = 1000 × (½)^{2}
+Calculation: N = 1000 × ¼ = 250 g
+> The other 750 g of nuclei have changed into other elements; the total mass of the sample hardly changes.
+Answer: 250 g of the original element remains (three-quarters of its nuclei have decayed).
+## example
+Q: Tanmoy stores 1 kg of a radioactive element. After 900 years, 250 g of it remains. Find its half-life.
+Given: N₀ = 1000 g, N = 250 g, t = 900 years
+Formula: N ÷ N₀ = (½)^{n}
+Calculation: 250 ÷ 1000 = ¼ = (½)^{2}, so n = 2; T½ = t ÷ n = 900 ÷ 2 = 450 years
+Answer: 450 years
+## example
+Q: Iodine-131, used in treating thyroid disease, has a half-life of 8 days. A hospital receives 80 mg of it. How much remains after 24 days?
+Given: N₀ = 80 mg, T½ = 8 days, t = 24 days
+Substitution: n = 24 ÷ 8 = 3
+Calculation: N = 80 × (½)^{3} = 80 ÷ 8 = 10 mg
+Answer: 10 mg
+## mistakes
+x After two half-lives the whole substance has decayed.
+v After two half-lives ¼ remains; each half-life removes half of what is left.
+x A bigger sample has a longer half-life.
+v Half-life does not depend on the amount; it is fixed for each isotope.
+x After one half-life the sample's mass becomes half.
+v Half of the radioactive nuclei change into other nuclei; the total mass stays almost the same.
+## remember
+- Half-life = time for half the radioactive nuclei to decay.
+- N = N₀ × (½)^{n}, n = t ÷ T½.
+- After 1, 2, 3, 4 half-lives: ½, ¼, ⅛, 1/16 remains.
+- Decay of one nucleus is random; half-life works because there are huge numbers of nuclei.
+- More radioactive → shorter half-life; stable nucleus → half-life infinite.
+## think
+If you had only 4 radioactive nuclei, could you be sure that exactly 2 would be left after one half-life? Why does the rule work so well for a speck of real material?
+## quiz
+? A radioactive sample has a half-life of 5 days. What fraction remains after 15 days?
+- ½
+- ¼
+* ⅛
+- 1/15
+= n = 15 ÷ 5 = 3, so (½)³ = ⅛.
+? 64 g of a radioactive isotope decays to 16 g in 12 hours. Its half-life is:
+- 3 hours
+* 6 hours
+- 12 hours
+- 24 hours
+= 64 → 32 → 16 is 2 half-lives, so T½ = 12 ÷ 2 = 6 hours.
+? The half-life of a stable nucleus can be considered:
+- Zero
+- One second
+* Infinite
+- One year
+= A stable nucleus never decays.
+? The half-life of a radioactive isotope depends on:
+- The mass of the sample
+- Its temperature
+- The pressure on it
+* Only the kind of isotope
+= Half-life is a fixed property of each isotope.
+== bn
+## what
+তেজস্ক্রিয় পদার্থের **অর্ধায়ু** (half-life) হলো সেই সময়, যার মধ্যে এর তেজস্ক্রিয় নিউক্লিয়াসগুলোর **অর্ধেক** ক্ষয় হয়। প্রতিটি অর্ধায়ু পরপর অবশিষ্ট পরিমাণ আবার অর্ধেক হয়।
+## simple
+ধরো একটি বাক্সে ৪০০টি তেজস্ক্রিয় নিউক্লিয়াস আছে। নির্দিষ্ট কোনো একটি নিউক্লিয়াস **কখন** ক্ষয় হবে তা বলা যায় না; প্রতিটির জন্য যেন একটা করে মুদ্রা টস করা হচ্ছে। পদার্থবিজ্ঞান শুধু বলতে পারে নির্দিষ্ট সময়ে এটি ক্ষয় হওয়ার **সম্ভাবনা** কত।
+
+কিন্তু নিউক্লিয়াসের সংখ্যা বিশাল হলে সম্ভাবনাগুলো সুন্দরভাবে গড় হয়ে যায়। একটি নির্দিষ্ট সময়ের মধ্যে প্রায় **অর্ধেক** ক্ষয় হয়ে যায়। সেই সময়টাই **অর্ধায়ু**, লেখা হয় T½।
+
+অর্ধেক হওয়ার ধারাটা দেখো:
+
+- শুরুতে: ৪০০টি নিউক্লিয়াস
+- ১টি অর্ধায়ু পর: ২০০টি বাকি
+- ২টি অর্ধায়ু পর: ১০০টি বাকি
+- ৩টি অর্ধায়ু পর: ৫০টি বাকি
+- ৪টি অর্ধায়ু পর: ২৫টি বাকি
+
+খেয়াল করো: দুই অর্ধায়ুতে এটা "শেষ" হয়ে যায় না। প্রতিটি অর্ধায়ু **যা বাকি আছে তার অর্ধেক** সরায়, মূল পরিমাণের অর্ধেক নয়। লেখচিত্রটি শুরুতে দ্রুত নামে, তারপর ক্রমেই ধীরে।
+
+তাই n সংখ্যক অর্ধায়ু পর অবশিষ্ট ভগ্নাংশ **(½)ⁿ**, যেখানে n = t ÷ T½।
+
+**ছোট আর বড় অর্ধায়ু।** যে পদার্থ বেশি তেজস্ক্রিয়, সেটি দ্রুত ক্ষয় হয়, তাই এর অর্ধায়ু কম। অর্ধায়ু সেকেন্ডের অতি ক্ষুদ্র ভগ্নাংশ থেকে শতকোটি বছর পর্যন্ত হতে পারে: আয়োডিন-১৩১ প্রায় ৮ দিন, কার্বন-১৪ প্রায় ৫৭৩০ বছর, ইউরেনিয়াম-২৩৮ প্রায় ৪৫০ কোটি বছর। **স্থিতিশীল** নিউক্লিয়াস কখনো ক্ষয় হয় না, তাই বলা যায় এর অর্ধায়ু **অসীম**।
+
+**নমুনা কি হালকা হয়ে যায়?** প্রায় না। বইয়ের উদাহরণ: অর্ধায়ু ১০০ বছর এমন একটি তেজস্ক্রিয় মৌলের ১ kg। ২০০ বছর (২টি অর্ধায়ু) পর মূল নিউক্লিয়াসের মাত্র ¼ অংশ, অর্থাৎ ২৫০ g, **এখনো সেই মৌল** আছে; তিন-চতুর্থাংশ ক্ষয় হয়ে গেছে। কিন্তু ক্ষয় হওয়া নিউক্লিয়াসগুলো হারিয়ে যায়নি; এরা **অন্য নিউক্লিয়াসে** পরিণত হয়েছে (বেরিয়ে যাওয়া α বা β কণা খুব সামান্য ভরই নিয়ে যায়)। তাই নমুনার মোট ভর প্রায় ১ kg-ই থাকে। ২৫০ g-এ নেমে আসে শুধু **মূল তেজস্ক্রিয় মৌলের** পরিমাণ।
+## analogy
+অর্ধায়ু যেন ১০০০টি পপকর্নের দানার একটি বড় বাটি, যেখানে প্রতি মিনিটে না-ফোটা দানার অর্ধেক এলোমেলোভাবে ফোটে। ১ মিনিট পর বাকি ৫০০, ২ মিনিট পর ২৫০, ৩ মিনিট পর ১২৫... নির্দিষ্ট সময়ে কখনো ঠিক শূন্য হয় না, কিন্তু একই নিয়মিত হারে অর্ধেক হতে থাকে।
+## definition
+**অর্ধায়ু (T½)**: কোনো নমুনার তেজস্ক্রিয় নিউক্লিয়াসগুলোর অর্ধেক ক্ষয় (বিকিরণ) হতে যে সময় লাগে। এটি প্রতিটি তেজস্ক্রিয় আইসোটোপের নির্দিষ্ট বৈশিষ্ট্য; পদার্থের পরিমাণ, তাপমাত্রা বা চাপের ওপর নির্ভর করে না।
+
+t সময় পর অবশিষ্ট পরিমাণ N = N₀(½)^{t/T½}।
+## why
+১ g থাকুক বা ১ kg, অর্ধায়ু একই কেন? কারণ প্রতিটি নিউক্লিয়াস স্বাধীনভাবে, প্রতি সেকেন্ডে একই সম্ভাবনায় ক্ষয় হয়। নিউক্লিয়াস দ্বিগুণ হলে প্রতি সেকেন্ডে দ্বিগুণ সংখ্যক ক্ষয় হয়, তাই অর্ধেক হতে সবসময় একই সময় লাগে। এজন্যই সমান সময়ে সংখ্যাটি একই **ভগ্নাংশে** কমে।
+## terms
+অর্ধায়ু (T½) | তেজস্ক্রিয় নিউক্লিয়াসের অর্ধেক ক্ষয় হওয়ার সময়
+ক্ষয় | নিউক্লিয়াস বিকিরণ ছেড়ে পরিবর্তিত হওয়া
+আদি পরিমাণ (N₀) | শুরুতে তেজস্ক্রিয় নিউক্লিয়াস (বা ভর)
+অবশিষ্ট পরিমাণ (N) | এখনো ক্ষয় না হওয়া তেজস্ক্রিয় নিউক্লিয়াস (বা ভর)
+এলোমেলো (random) | নির্দিষ্ট নিউক্লিয়াস কখন ক্ষয় হবে তা কেউ আগে বলতে পারে না
+## formula
+$$ N = N₀ × (½)^{n}
+$$ n = t ÷ T½
+$$ ক্ষয়প্রাপ্ত ভগ্নাংশ = ১ − (½)^{n}
+N₀ | আদি পরিমাণ (তেজস্ক্রিয় মৌলের নিউক্লিয়াস বা ভর) | সংখ্যা বা kg / g
+N | t সময় পর অবশিষ্ট পরিমাণ | N₀-এর একই একক
+t | অতিক্রান্ত সময় | s, দিন, বছর…
+T½ | অর্ধায়ু | t-এর একই একক
+n | অর্ধায়ুর সংখ্যা | একক নেই
+! t আর T½ একই এককে হতে হবে।
+## visual
+"শুরু" চাপো আর দেখো নিউক্লিয়াসগুলো এলোমেলোভাবে ক্ষয় হচ্ছে। সংখ্যাটি ড্যাশ দেওয়া অর্ধেক-হওয়ার বক্ররেখা মেনে চলে: প্রতি অর্ধায়ুতে যা বাকি ছিল তার প্রায় অর্ধেক চলে যায়। অর্ধায়ু বদলে তুলনা করো।
+## real
+স্ক্যানের জন্য ডাক্তারেরা কম অর্ধায়ুর আইসোটোপ বেছে নেন, যেন রোগীর শরীরের তেজস্ক্রিয়তা দ্রুত কমে যায়। নিউক্লিয়ার বিদ্যুৎকেন্দ্রকে ব্যবহৃত জ্বালানি অনেক দীর্ঘ সময় সংরক্ষণ করতে হয়, কারণ কিছু বর্জ্যের অর্ধায়ু হাজার হাজার বছর বা তারও বেশি।
+## example
+প্রশ্ন: একটি তেজস্ক্রিয় মৌলের ১ kg নমুনার অর্ধায়ু ১০০ বছর। ২০০ বছর পর ওই মৌলের কতটুকু অবশিষ্ট থাকবে? (বইয়ের উদাহরণ)
+দেওয়া আছে: N₀ = ১ kg = ১০০০ g, T½ = ১০০ বছর, t = ২০০ বছর
+সূত্র: N = N₀ × (½)^{n}, n = t ÷ T½
+মান বসাই: n = ২০০ ÷ ১০০ = ২; N = ১০০০ × (½)^{২}
+হিসাব: N = ১০০০ × ¼ = ২৫০ g
+> বাকি ৭৫০ g-এর নিউক্লিয়াস অন্য মৌলে পরিণত হয়েছে; নমুনার মোট ভর প্রায় বদলায় না।
+উত্তর: মূল মৌলের ২৫০ g অবশিষ্ট থাকবে (এর নিউক্লিয়াসের তিন-চতুর্থাংশ ক্ষয় হয়েছে)।
+## example
+প্রশ্ন: তন্ময় একটি তেজস্ক্রিয় মৌলের ১ kg সংরক্ষণ করল। ৯০০ বছর পর এর ২৫০ g অবশিষ্ট রইল। অর্ধায়ু কত?
+দেওয়া আছে: N₀ = ১০০০ g, N = ২৫০ g, t = ৯০০ বছর
+সূত্র: N ÷ N₀ = (½)^{n}
+হিসাব: ২৫০ ÷ ১০০০ = ¼ = (½)^{২}, তাই n = ২; T½ = t ÷ n = ৯০০ ÷ ২ = ৪৫০ বছর
+উত্তর: ৪৫০ বছর
+## example
+প্রশ্ন: থাইরয়েডের রোগের চিকিৎসায় ব্যবহৃত আয়োডিন-১৩১-এর অর্ধায়ু ৮ দিন। একটি হাসপাতাল এর ৮০ mg পেল। ২৪ দিন পর কতটুকু থাকবে?
+দেওয়া আছে: N₀ = ৮০ mg, T½ = ৮ দিন, t = ২৪ দিন
+মান বসাই: n = ২৪ ÷ ৮ = ৩
+হিসাব: N = ৮০ × (½)^{৩} = ৮০ ÷ ৮ = ১০ mg
+উত্তর: ১০ mg
+## mistakes
+x দুই অর্ধায়ু পর পুরো পদার্থ ক্ষয় হয়ে যায়।
+v দুই অর্ধায়ু পর ¼ অবশিষ্ট থাকে; প্রতি অর্ধায়ু যা বাকি তার অর্ধেক সরায়।
+x বড় নমুনার অর্ধায়ু বেশি।
+v অর্ধায়ু পরিমাণের ওপর নির্ভর করে না; প্রতিটি আইসোটোপের জন্য এটি নির্দিষ্ট।
+x এক অর্ধায়ু পর নমুনার ভর অর্ধেক হয়ে যায়।
+v অর্ধেক তেজস্ক্রিয় নিউক্লিয়াস অন্য নিউক্লিয়াসে পরিণত হয়; মোট ভর প্রায় একই থাকে।
+## remember
+- অর্ধায়ু = তেজস্ক্রিয় নিউক্লিয়াসের অর্ধেক ক্ষয় হওয়ার সময়।
+- N = N₀ × (½)^{n}, n = t ÷ T½।
+- ১, ২, ৩, ৪টি অর্ধায়ু পর অবশিষ্ট: ½, ¼, ⅛, ১/১৬।
+- একটি নিউক্লিয়াসের ক্ষয় এলোমেলো; বিপুল সংখ্যক নিউক্লিয়াস থাকে বলেই অর্ধায়ুর নিয়ম খাটে।
+- বেশি তেজস্ক্রিয় → কম অর্ধায়ু; স্থিতিশীল নিউক্লিয়াস → অর্ধায়ু অসীম।
+## think
+তোমার কাছে যদি মাত্র ৪টি তেজস্ক্রিয় নিউক্লিয়াস থাকত, তুমি কি নিশ্চিত হতে পারতে যে এক অর্ধায়ু পর ঠিক ২টি থাকবে? বাস্তব পদার্থের এক কণাতেই নিয়মটা এত ভালো খাটে কেন?
+## quiz
+? একটি তেজস্ক্রিয় নমুনার অর্ধায়ু ৫ দিন। ১৫ দিন পর কত ভগ্নাংশ অবশিষ্ট থাকবে?
+- ½
+- ¼
+* ⅛
+- ১/১৫
+= n = ১৫ ÷ ৫ = ৩, তাই (½)³ = ⅛।
+? একটি তেজস্ক্রিয় আইসোটোপের ৬৪ g, ১২ ঘণ্টায় ক্ষয় হয়ে ১৬ g হয়। এর অর্ধায়ু:
+- ৩ ঘণ্টা
+* ৬ ঘণ্টা
+- ১২ ঘণ্টা
+- ২৪ ঘণ্টা
+= ৬৪ → ৩২ → ১৬ মানে ২টি অর্ধায়ু, তাই T½ = ১২ ÷ ২ = ৬ ঘণ্টা।
+? স্থিতিশীল নিউক্লিয়াসের অর্ধায়ু ধরা যায়:
+- শূন্য
+- এক সেকেন্ড
+* অসীম
+- এক বছর
+= স্থিতিশীল নিউক্লিয়াস কখনো ক্ষয় হয় না।
+? তেজস্ক্রিয় আইসোটোপের অর্ধায়ু নির্ভর করে:
+- নমুনার ভরের ওপর
+- এর তাপমাত্রার ওপর
+- এর ওপর চাপের ওপর
+* শুধু আইসোটোপের ধরনের ওপর
+= অর্ধায়ু প্রতিটি আইসোটোপের নির্দিষ্ট বৈশিষ্ট্য।
+
+@@ 13.1.5
+@visual c13date
+@related 13.1.4 13.1.1 4.4
+== en
+## what
+Radioactivity is used in **medicine, agriculture, industry and in finding the age of ancient remains (carbon dating)**. Because its radiation can damage living cells, it must always be used with **precautions**, and radioactive material is marked with a warning sign.
+## simple
+**Uses in medicine.**
+
+- **Tracers for scanning.** A very small amount of a radioactive substance is put into the body. Detectors outside the body follow where it goes, showing how an organ such as the thyroid, heart or kidney is working. Isotopes with a **short half-life** are chosen (from minutes to a few hours), so the radioactivity dies away quickly.
+- **Cancer treatment (radiotherapy).** Radiation damages cells, and this can be turned into a cure: carefully aimed gamma rays (for example from cobalt-60), or radioactive substances placed inside the body, destroy cancer cells.
+- **Sterilising equipment.** Syringes, gloves and surgical tools are sealed in packets and exposed to gamma rays, which kill germs right through the packaging.
+
+**Carbon dating.** Living things constantly take in carbon from the air and food, and a fixed tiny share of that carbon is radioactive carbon-14. When a plant or animal **dies**, no new carbon-14 enters, and the carbon-14 already inside keeps decaying with a half-life of about **5730 years**. By measuring how much carbon-14 is left compared with a living sample, scientists work out how long ago it died. If only ¼ remains, 2 half-lives have passed: about 11 460 years. The method works for remains up to roughly 50 000 years old.
+
+**Agriculture.** Radiation is used to create new crop varieties with useful traits; the Bangladesh Institute of Nuclear Agriculture (BINA) has developed rice and other crop varieties this way. Gamma rays are also used to keep food fresh longer by killing bacteria and insects. (Food treated this way does **not** become radioactive.)
+
+**Industry and daily life.** Smoke detectors use a small alpha source; beta rays check the thickness of paper and metal sheets; radioactivity helps measure the amounts of different metals in minerals; and gamma rays can reveal cracks in welded pipes.
+
+**Precautions.** A large dose of radiation can burn the skin, damage the blood-forming system, weaken the body's resistance to disease, cause cancer, and damage the genes that parents pass on to their children. Early researchers did not know this. Marie Curie, who worked with radioactive substances for many years without protection, died of a serious blood disease caused by her exposure. (Many books, including ours, call it leukaemia; her death is usually recorded as aplastic anaemia, another blood disease caused by radiation.)
+
+Radioactive waste from nuclear power plants can stay dangerous for lakhs of years. Accidents at nuclear power plants and in nuclear-powered submarines have released radioactivity, and the atomic bombs dropped on **Hiroshima and Nagasaki** in 1945 exposed huge numbers of people. Because of this, scientists set **safe limits** for radiation, and radioactive material is labelled with the **radiation warning sign**: a black **trefoil** (three blades around a central dot) on a **yellow** background, often with the words "DANGER: RADIOACTIVE MATERIAL".
+
+The three golden rules of protection are:
+
+- **Time**: stay near a source for as short a time as possible.
+- **Distance**: keep as far away as possible (the dose falls very quickly with distance; sources are handled with long tongs).
+- **Shielding**: put lead, concrete or water between you and the source.
+
+Radiation workers wear badges (dosimeters) that record the dose they receive. If you ever find an unknown metal object with the trefoil sign, **do not touch it**; move away and tell an adult or the authorities.
+
+(We are all exposed to a small natural "background" radiation from rocks, soil and space, even from our own bodies. At that everyday level it is not harmful.)
+## analogy
+Carbon dating is like a candle that starts burning at a known rate the moment a plant or animal dies. While alive it keeps topping up its carbon-14; after death the "candle" of C-14 slowly burns down, halving every 5730 years. Measure how much candle is left and you know how long ago it was lit.
+## definition
+**Carbon dating**: finding the age of once-living remains by measuring how much of their radioactive carbon-14 (half-life about 5730 years) is left.
+
+**Radioactive tracer**: a small amount of a short half-life radioactive isotope put into a body or system, so that its path can be followed from outside by detecting its radiation.
+
+**Radiation hazard (warning) sign**: a black trefoil on a yellow background, marking places or containers with radioactive material.
+## why
+Why does radiation harm living cells? Alpha, beta and gamma rays are **ionizing**: they knock electrons off atoms. Inside a cell this breaks molecules, including DNA, the cell's instruction book. A damaged cell may die, or may start growing wrongly and become cancerous. The same effect, carefully aimed, is what kills cancer cells and germs.
+## terms
+Tracer | Small amount of radioactive isotope followed inside the body
+Radiotherapy | Treating cancer by destroying cells with radiation
+Carbon dating | Finding age from remaining carbon-14
+Sterilisation | Killing germs (here, with gamma rays)
+Background radiation | Small natural radiation always around us
+Dosimeter | Badge that records the radiation dose a worker receives
+Trefoil sign | Black three-bladed symbol on yellow, warning of radioactivity
+Time, distance, shielding | The three rules of radiation protection
+## formula
+$$ Age = n × T½, where remaining C-14 fraction = (½)^{n}
+$$ For carbon-14: T½ ≈ 5730 years
+! If ½ remains → 1 half-life; ¼ → 2; ⅛ → 3; 1/16 → 4.
+## visual
+Move the slider to set how much carbon-14 is left in a sample, and read off its age from the decay curve.
+## real
+The Institute of Nuclear Medicine and Allied Sciences centres of the Bangladesh Atomic Energy Commission use radioactive tracers to scan patients, and cancer hospitals in Dhaka use radiotherapy machines inside rooms with thick concrete walls and warning signs outside.
+## example
+Q: A piece of ancient wood contains only ¼ of the carbon-14 found in a living tree. How old is it? (T½ of carbon-14 ≈ 5730 years)
+Given: remaining fraction = ¼, T½ = 5730 years
+Formula: ¼ = (½)^{n}; age = n × T½
+Calculation: ¼ = (½)^{2}, so n = 2; age = 2 × 5730 = 11 460 years
+Answer: about 11 460 years
+## example
+Q: A tracer used in a hospital scan has a half-life of 6 hours. What fraction of it is still radioactive after 24 hours?
+Given: T½ = 6 hours, t = 24 hours
+Calculation: n = 24 ÷ 6 = 4; remaining = (½)^{4} = 1/16
+> 1/16 is about 6%: most of the radioactivity is gone within a day, which is why such isotopes are chosen.
+Answer: 1/16 (about 6%)
+## mistakes
+x Food treated with gamma rays becomes radioactive.
+v Gamma rays kill germs in the food but do not make it radioactive.
+x Any amount of radiation, however small, is deadly.
+v A small natural background dose is always present and harmless; the danger grows with the size of the dose.
+x Carbon dating can find the age of any rock.
+v It works only for once-living things (which took in carbon) and only up to about 50 000 years.
+## remember
+- Medicine: tracers (short half-life), cancer radiotherapy, sterilising equipment.
+- Carbon dating: carbon-14, T½ ≈ 5730 years; age = number of half-lives × T½.
+- Agriculture and industry: new crop varieties, food preservation, smoke detectors, thickness gauges, mineral analysis.
+- Radiation damages cells; protect with time, distance and shielding.
+- Warning sign: black trefoil on yellow.
+## think
+Why do doctors use tracers with half-lives of hours, instead of seconds or of many years?
+## quiz
+? Carbon dating uses the decay of:
+- Carbon-12
+- Carbon-13
+* Carbon-14
+- Uranium-238
+= Carbon-14 is the radioactive isotope of carbon.
+? Isotopes chosen as medical tracers usually have:
+* A short half-life
+- An infinite half-life
+- A half-life of thousands of years
+- No radiation at all
+= So the radioactivity in the patient's body dies away quickly.
+? A bone has ⅛ of the carbon-14 of living bone. Its age is about (T½ = 5730 years):
+- 5730 years
+- 11 460 years
+* 17 190 years
+- 45 840 years
+= ⅛ = (½)³, so 3 × 5730 = 17 190 years.
+? Which is NOT one of the three rules of radiation protection?
+- Keep the time short
+- Keep your distance
+- Use shielding
+* Heat the source
+= Heating does not change radioactivity; time, distance and shielding protect you.
+== bn
+## what
+তেজস্ক্রিয়তা ব্যবহৃত হয় **চিকিৎসা, কৃষি, শিল্পে এবং প্রাচীন দেহাবশেষের বয়স নির্ণয়ে (কার্বন ডেটিং)**। এর বিকিরণ জীবন্ত কোষের ক্ষতি করতে পারে বলে এটি সবসময় **সতর্কতার** সাথে ব্যবহার করতে হয়, আর তেজস্ক্রিয় পদার্থ একটি সতর্কতামূলক চিহ্ন দিয়ে চিহ্নিত করা হয়।
+## simple
+**চিকিৎসায় ব্যবহার।**
+
+- **স্ক্যানের জন্য ট্রেসার।** খুব সামান্য তেজস্ক্রিয় পদার্থ শরীরে ঢোকানো হয়। বাইরে থেকে ডিটেক্টর দেখে এটি কোথায় যাচ্ছে, তা থেকে বোঝা যায় থাইরয়েড, হৃৎপিণ্ড বা কিডনির মতো অঙ্গ কেমন কাজ করছে। **কম অর্ধায়ুর** আইসোটোপ (কয়েক মিনিট থেকে কয়েক ঘণ্টা) বেছে নেওয়া হয়, যেন তেজস্ক্রিয়তা দ্রুত কমে যায়।
+- **ক্যানসারের চিকিৎসা (রেডিওথেরাপি)।** বিকিরণ কোষের ক্ষতি করে, আর এটাকেই চিকিৎসায় কাজে লাগানো হয়: নিখুঁতভাবে তাক করা গামা রশ্মি (যেমন কোবাল্ট-৬০ থেকে) বা শরীরের ভেতরে রাখা তেজস্ক্রিয় পদার্থ ক্যানসার কোষ ধ্বংস করে।
+- **যন্ত্রপাতি জীবাণুমুক্ত করা।** সিরিঞ্জ, গ্লাভস আর অস্ত্রোপচারের যন্ত্র প্যাকেটে ভরে গামা রশ্মি দেওয়া হয়, যা প্যাকেটের ভেতর পর্যন্ত জীবাণু মেরে ফেলে।
+
+**কার্বন ডেটিং।** জীবিত প্রাণী ও উদ্ভিদ বাতাস আর খাবার থেকে প্রতিনিয়ত কার্বন নেয়, আর সেই কার্বনের নির্দিষ্ট ছোট্ট একটি অংশ তেজস্ক্রিয় কার্বন-১৪। উদ্ভিদ বা প্রাণী **মারা গেলে** নতুন কার্বন-১৪ আর ঢোকে না, আর ভেতরে যা ছিল তা প্রায় **৫৭৩০ বছর** অর্ধায়ুতে ক্ষয় হতে থাকে। জীবিত নমুনার তুলনায় কতটুকু কার্বন-১৪ বাকি আছে মেপে বিজ্ঞানীরা বের করেন কত আগে সেটি মারা গেছে। মাত্র ¼ বাকি থাকলে ২টি অর্ধায়ু পার হয়েছে: প্রায় ১১ ৪৬০ বছর। মোটামুটি ৫০ ০০০ বছর পর্যন্ত পুরোনো দেহাবশেষে এই পদ্ধতি কাজ করে।
+
+**কৃষি।** বিকিরণ দিয়ে উপকারী বৈশিষ্ট্যের নতুন ফসলের জাত তৈরি করা হয়; বাংলাদেশ পরমাণু কৃষি গবেষণা ইনস্টিটিউট (বিনা) এভাবে ধানসহ বিভিন্ন ফসলের জাত উদ্ভাবন করেছে। ব্যাকটেরিয়া ও পোকা মেরে খাবার বেশি দিন তাজা রাখতেও গামা রশ্মি ব্যবহৃত হয়। (এভাবে প্রক্রিয়াজাত খাবার তেজস্ক্রিয় হয়ে যায় **না**।)
+
+**শিল্প ও দৈনন্দিন জীবন।** ধোঁয়া শনাক্তকারী যন্ত্রে সামান্য আলফা উৎস থাকে; বিটা রশ্মি দিয়ে কাগজ ও ধাতব পাতের পুরুত্ব যাচাই হয়; খনিজ পদার্থে বিভিন্ন ধাতুর পরিমাণ নির্ণয়ে তেজস্ক্রিয়তা সাহায্য করে; আর গামা রশ্মি দিয়ে ঝালাই করা পাইপের ফাটল ধরা যায়।
+
+**সতর্কতা।** বেশি মাত্রার বিকিরণ ত্বক পুড়িয়ে দিতে পারে, রক্ত তৈরির ব্যবস্থার ক্ষতি করে, রোগ প্রতিরোধক্ষমতা কমায়, ক্যানসার ঘটাতে পারে, আর বাবা-মা থেকে সন্তানে যাওয়া জিনের ক্ষতি করে বংশপরম্পরায় বিকলাঙ্গ শিশুর জন্ম দিতে পারে। প্রথম দিকের গবেষকেরা এটা জানতেন না। কোনো সুরক্ষা ছাড়া বহু বছর তেজস্ক্রিয় পদার্থ নিয়ে কাজ করা মেরি কুরি বিকিরণজনিত একটি গুরুতর রক্তের রোগে মারা যান। (আমাদের বইসহ অনেক বইয়ে একে লিউকেমিয়া বলা হয়; সাধারণত তাঁর মৃত্যুর কারণ হিসেবে অ্যাপ্লাস্টিক অ্যানিমিয়া লেখা হয়, যা বিকিরণজনিত আরেকটি রক্তের রোগ।)
+
+নিউক্লিয়ার বিদ্যুৎকেন্দ্রের তেজস্ক্রিয় বর্জ্য লক্ষ বছর পর্যন্ত বিপজ্জনক থাকতে পারে। নিউক্লিয়ার বিদ্যুৎকেন্দ্র আর নিউক্লিয়ার শক্তিতে চলা সাবমেরিনের দুর্ঘটনায় তেজস্ক্রিয়তা ছড়িয়েছে, আর ১৯৪৫ সালে **হিরোশিমা ও নাগাসাকিতে** ফেলা পারমাণবিক বোমায় অসংখ্য মানুষ তেজস্ক্রিয়তার শিকার হয়েছে। এজন্য বিজ্ঞানীরা বিকিরণের **নিরাপদ মাত্রা** নির্ধারণ করেছেন, আর তেজস্ক্রিয় পদার্থে **সতর্কতামূলক চিহ্ন** দেওয়া হয়: **হলুদ** পটভূমিতে কালো **তিন-পাখার চিহ্ন** (মাঝখানে একটি বিন্দু ঘিরে তিনটি পাখা), প্রায়ই সাথে লেখা থাকে "DANGER: RADIOACTIVE MATERIAL"।
+
+সুরক্ষার তিনটি সোনালি নিয়ম:
+
+- **সময়**: উৎসের কাছে যত কম সময় সম্ভব থাকো।
+- **দূরত্ব**: যত দূরে সম্ভব থাকো (দূরত্ব বাড়লে মাত্রা খুব দ্রুত কমে; উৎস লম্বা চিমটা দিয়ে ধরা হয়)।
+- **আবরণ (শিল্ডিং)**: তোমার আর উৎসের মাঝে সিসা, কংক্রিট বা পানি রাখো।
+
+বিকিরণ নিয়ে যাঁরা কাজ করেন, তাঁরা একটি ব্যাজ (ডোসিমিটার) পরেন, যা তাঁদের পাওয়া মাত্রা রেকর্ড করে। তিন-পাখার চিহ্নওয়ালা অচেনা কোনো ধাতব বস্তু পেলে **ছুঁয়ো না**; সরে যাও আর বড় কাউকে বা কর্তৃপক্ষকে জানাও।
+
+(আমরা সবাই পাথর, মাটি, মহাকাশ, এমনকি নিজেদের শরীর থেকে আসা সামান্য প্রাকৃতিক "পটভূমি বিকিরণের" মধ্যে থাকি। এই দৈনন্দিন মাত্রায় এটি ক্ষতিকর নয়।)
+## analogy
+কার্বন ডেটিং যেন একটি মোমবাতি, যা কোনো গাছ বা প্রাণী মারা যাওয়ার মুহূর্ত থেকে জানা হারে জ্বলতে শুরু করে। জীবিত অবস্থায় এটি কার্বন-১৪ পূরণ করতে থাকে; মৃত্যুর পর C-১৪-এর "মোমবাতি" ধীরে ধীরে ক্ষয় হয়, প্রতি ৫৭৩০ বছরে অর্ধেক। কতটুকু মোম বাকি আছে মাপলেই জানা যায় কত আগে জ্বালানো হয়েছিল।
+## definition
+**কার্বন ডেটিং**: একসময় জীবিত ছিল এমন দেহাবশেষে তেজস্ক্রিয় কার্বন-১৪ (অর্ধায়ু প্রায় ৫৭৩০ বছর) কতটুকু অবশিষ্ট আছে মেপে এর বয়স নির্ণয়।
+
+**তেজস্ক্রিয় ট্রেসার**: কম অর্ধায়ুর তেজস্ক্রিয় আইসোটোপের সামান্য পরিমাণ, যা শরীর বা কোনো ব্যবস্থায় ঢুকিয়ে এর বিকিরণ শনাক্ত করে বাইরে থেকে এর গতিপথ অনুসরণ করা হয়।
+
+**তেজস্ক্রিয়তার সতর্কতামূলক চিহ্ন**: হলুদ পটভূমিতে কালো তিন-পাখার চিহ্ন, যা তেজস্ক্রিয় পদার্থসহ স্থান বা পাত্র চিহ্নিত করে।
+## why
+বিকিরণ জীবন্ত কোষের ক্ষতি করে কেন? আলফা, বিটা ও গামা রশ্মি **আয়নিত করে**: পরমাণু থেকে ইলেকট্রন ছিটকে দেয়। কোষের ভেতরে এটি অণু ভেঙে দেয়, কোষের নির্দেশনা-বই DNA-সহ। ক্ষতিগ্রস্ত কোষ মরে যেতে পারে, অথবা ভুলভাবে বাড়তে শুরু করে ক্যানসার কোষে পরিণত হতে পারে। এই একই প্রভাব নিখুঁতভাবে তাক করেই ক্যানসার কোষ ও জীবাণু মারা হয়।
+## terms
+ট্রেসার | শরীরের ভেতরে অনুসরণ করা সামান্য তেজস্ক্রিয় আইসোটোপ
+রেডিওথেরাপি | বিকিরণ দিয়ে কোষ ধ্বংস করে ক্যানসারের চিকিৎসা
+কার্বন ডেটিং | অবশিষ্ট কার্বন-১৪ থেকে বয়স নির্ণয়
+জীবাণুমুক্তকরণ | জীবাণু মেরে ফেলা (এখানে গামা রশ্মি দিয়ে)
+পটভূমি বিকিরণ | চারপাশে সবসময় থাকা সামান্য প্রাকৃতিক বিকিরণ
+ডোসিমিটার | কর্মীর পাওয়া বিকিরণের মাত্রা রেকর্ড করার ব্যাজ
+তিন-পাখার চিহ্ন | হলুদের ওপর কালো চিহ্ন, তেজস্ক্রিয়তার সতর্কবার্তা
+সময়, দূরত্ব, আবরণ | বিকিরণ থেকে সুরক্ষার তিন নিয়ম
+## formula
+$$ বয়স = n × T½, যেখানে অবশিষ্ট C-১৪ ভগ্নাংশ = (½)^{n}
+$$ কার্বন-১৪-এর জন্য: T½ ≈ ৫৭৩০ বছর
+! ½ বাকি → ১টি অর্ধায়ু; ¼ → ২; ⅛ → ৩; ১/১৬ → ৪।
+## visual
+স্লাইডার সরিয়ে ঠিক করো নমুনায় কতটুকু কার্বন-১৪ বাকি আছে, আর ক্ষয়ের লেখচিত্র থেকে এর বয়স পড়ো।
+## real
+বাংলাদেশ পরমাণু শক্তি কমিশনের নিউক্লিয়ার মেডিসিন ইনস্টিটিউটগুলো তেজস্ক্রিয় ট্রেসার দিয়ে রোগীদের স্ক্যান করে, আর ঢাকার ক্যানসার হাসপাতালে রেডিওথেরাপি যন্ত্র থাকে পুরু কংক্রিটের দেয়ালঘেরা কক্ষে, বাইরে সতর্কতামূলক চিহ্নসহ।
+## example
+প্রশ্ন: প্রাচীন এক টুকরো কাঠে জীবিত গাছের তুলনায় মাত্র ¼ অংশ কার্বন-১৪ আছে। এর বয়স কত? (কার্বন-১৪-এর T½ ≈ ৫৭৩০ বছর)
+দেওয়া আছে: অবশিষ্ট ভগ্নাংশ = ¼, T½ = ৫৭৩০ বছর
+সূত্র: ¼ = (½)^{n}; বয়স = n × T½
+হিসাব: ¼ = (½)^{২}, তাই n = ২; বয়স = ২ × ৫৭৩০ = ১১ ৪৬০ বছর
+উত্তর: প্রায় ১১ ৪৬০ বছর
+## example
+প্রশ্ন: হাসপাতালের স্ক্যানে ব্যবহৃত একটি ট্রেসারের অর্ধায়ু ৬ ঘণ্টা। ২৪ ঘণ্টা পর এর কত ভগ্নাংশ তেজস্ক্রিয় থাকবে?
+দেওয়া আছে: T½ = ৬ ঘণ্টা, t = ২৪ ঘণ্টা
+হিসাব: n = ২৪ ÷ ৬ = ৪; অবশিষ্ট = (½)^{৪} = ১/১৬
+> ১/১৬ মানে প্রায় ৬%: এক দিনের মধ্যেই বেশির ভাগ তেজস্ক্রিয়তা চলে যায়, এজন্যই এমন আইসোটোপ বেছে নেওয়া হয়।
+উত্তর: ১/১৬ (প্রায় ৬%)
+## mistakes
+x গামা রশ্মি দেওয়া খাবার তেজস্ক্রিয় হয়ে যায়।
+v গামা রশ্মি খাবারের জীবাণু মারে, কিন্তু খাবারকে তেজস্ক্রিয় করে না।
+x যত সামান্যই হোক, যেকোনো বিকিরণ প্রাণঘাতী।
+v সামান্য প্রাকৃতিক পটভূমি বিকিরণ সবসময় থাকে এবং ক্ষতিকর নয়; মাত্রা যত বেশি, বিপদ তত বেশি।
+x কার্বন ডেটিং দিয়ে যেকোনো পাথরের বয়স বের করা যায়।
+v এটি শুধু একসময় জীবিত ছিল (কার্বন গ্রহণ করত) এমন জিনিসে, প্রায় ৫০ ০০০ বছর পর্যন্ত কাজ করে।
+## remember
+- চিকিৎসা: ট্রেসার (কম অর্ধায়ু), ক্যানসারের রেডিওথেরাপি, যন্ত্রপাতি জীবাণুমুক্তকরণ।
+- কার্বন ডেটিং: কার্বন-১৪, T½ ≈ ৫৭৩০ বছর; বয়স = অর্ধায়ুর সংখ্যা × T½।
+- কৃষি ও শিল্প: নতুন ফসলের জাত, খাদ্য সংরক্ষণ, ধোঁয়া শনাক্তকারী, পুরুত্ব মাপা, খনিজ বিশ্লেষণ।
+- বিকিরণ কোষের ক্ষতি করে; সুরক্ষা: সময়, দূরত্ব ও আবরণ।
+- সতর্কতামূলক চিহ্ন: হলুদের ওপর কালো তিন-পাখা।
+## think
+ডাক্তারেরা কয়েক সেকেন্ড বা বহু বছরের বদলে কয়েক ঘণ্টা অর্ধায়ুর ট্রেসার ব্যবহার করেন কেন?
+## quiz
+? কার্বন ডেটিংয়ে কোনটির ক্ষয় ব্যবহৃত হয়?
+- কার্বন-১২
+- কার্বন-১৩
+* কার্বন-১৪
+- ইউরেনিয়াম-২৩৮
+= কার্বন-১৪ হলো কার্বনের তেজস্ক্রিয় আইসোটোপ।
+? চিকিৎসায় ট্রেসার হিসেবে বেছে নেওয়া আইসোটোপের সাধারণত থাকে:
+* কম অর্ধায়ু
+- অসীম অর্ধায়ু
+- হাজার বছরের অর্ধায়ু
+- কোনো বিকিরণই নেই
+= যেন রোগীর শরীরের তেজস্ক্রিয়তা দ্রুত কমে যায়।
+? একটি হাড়ে জীবিত হাড়ের তুলনায় ⅛ অংশ কার্বন-১৪ আছে। এর বয়স প্রায় (T½ = ৫৭৩০ বছর):
+- ৫৭৩০ বছর
+- ১১ ৪৬০ বছর
+* ১৭ ১৯০ বছর
+- ৪৫ ৮৪০ বছর
+= ⅛ = (½)³, তাই ৩ × ৫৭৩০ = ১৭ ১৯০ বছর।
+? কোনটি বিকিরণ থেকে সুরক্ষার তিন নিয়মের একটি নয়?
+- সময় কম রাখা
+- দূরত্ব বজায় রাখা
+- আবরণ ব্যবহার করা
+* উৎস গরম করা
+= তাপ তেজস্ক্রিয়তা বদলায় না; সময়, দূরত্ব ও আবরণ তোমাকে রক্ষা করে।
+
+@@ 13.2
+@visual c13evo
+@related 13.4 13.3 11.1.2
+== en
+## what
+Electronics developed in three big steps: the **vacuum tube**, the **transistor** and the **integrated circuit (IC)**. Each step made devices smaller, cheaper, more reliable and less power-hungry.
+## simple
+**1. The vacuum tube.** In **1883 Thomas Edison** noticed something odd inside a light bulb: a current could flow through the empty (vacuum) space from the hot filament to a separate metal plate. This is the **Edison effect**. (The hot filament gives off electrons, which fly across the vacuum.)
+
+In **1904 John Ambrose Fleming** used this effect to build a vacuum tube with **two electrodes** (a diode). It let current flow in one direction only, so it worked as a **rectifier**, turning alternating current into direct current. This tube is often called the start of electronics. It came just when people were beginning to send messages by radio waves; Guglielmo Marconi needed such tubes to handle radio signals. (Marconi was long called the inventor of radio, but today the contribution of the Bengali scientist **Jagadish Chandra Bose** is also recognised.)
+
+In **1906 Lee De Forest** added a **third electrode**, making the **triode**. A small voltage on this third electrode could control a large current, so the triode could work as an **amplifier**, making weak signals strong. Vacuum tubes improved first telegraph (Morse code) and then telephone communication, and were used in both World Wars for weapons control, radar and navigation. The first general-purpose electronic computer, **ENIAC**, completed in 1945, used **17 468 vacuum tubes**, filled a large room and used huge amounts of power.
+
+But tubes were big, hot, fragile and power-hungry, and they burnt out like bulbs.
+
+**2. The transistor.** In **1947** the **transistor** was invented at **Bell Laboratories**; **John Bardeen, Walter Brattain and William Shockley** received the Nobel Prize for it. A transistor, made from a semiconductor, can do the same jobs as a vacuum tube (switching and amplifying), but it is:
+
+- very small and light,
+- needs very little electricity,
+- very reliable (nothing to burn out),
+- and, above all, very cheap to make.
+
+Transistors quickly replaced tubes, and ordinary people could now buy cheap radios and other electronic goods. In Bangladesh, a small battery radio was long simply called a "transistor".
+
+**3. The integrated circuit (IC).** The idea of an IC was discussed from about 1952, and real ICs began to be made in the 1960s. In the 1950s many transistors were made together on a thin slice of silicon (a **wafer**) and then cut apart. The next step was to make not just transistors but also **diodes, resistors and capacitors** on the same piece of silicon, forming a **complete circuit** on one tiny chip: an **integrated circuit**. As technology improved, more and more transistors fitted in a small area: first **Large Scale Integration (LSI)**, then **Very Large Scale Integration (VLSI)**. Microcomputers, medical equipment, video cameras and communication satellites would be impossible without ICs. A modern phone chip holds billions of transistors.
+
+**4. Electronics of the future.** Engineers are building ICs that use **light (optics)** to carry information, and **programmable ICs** such as the **FPGA (Field Programmable Gate Array)**, whose circuit you can set up yourself to suit your own needs.
+## definition
+**Vacuum tube**: an electronic device in which electrons flow through a vacuum from a heated electrode (cathode) to another electrode; the two-electrode tube (diode) rectifies, the three-electrode tube (triode) amplifies.
+
+**Transistor**: a small semiconductor device (invented in 1947) that can amplify signals or act as a switch.
+
+**Integrated circuit (IC)**: a complete electronic circuit, with transistors, diodes, resistors and capacitors, made together on a single small chip of semiconductor (silicon).
+## why
+Why did the transistor win so easily? A vacuum tube needs a glowing hot filament just to release electrons, which wastes power, makes heat and eventually burns out. In a transistor the charges already move inside a solid semiconductor, so no heater is needed. That makes it tiny, cool, long-lasting and cheap to mass-produce.
+## terms
+Edison effect | Current through vacuum from a hot filament to a plate (1883)
+Diode (vacuum) | Two-electrode tube; lets current flow one way (rectifier)
+Rectifier | Converts alternating current to direct current
+Triode | Three-electrode tube that can amplify (1906)
+Amplifier | Device that makes a weak signal stronger
+Transistor | Semiconductor device for amplifying or switching (1947)
+Wafer | Thin slice of silicon on which chips are made
+Integrated circuit (IC) | Whole circuit made on one chip
+LSI / VLSI | Large / Very Large Scale Integration: many / very many transistors per chip
+FPGA | Programmable IC whose circuit the user can set
+## visual
+Tap each era to see what the device looked like and how size, power use, reliability and cost changed.
+## real
+The phone in your family's hand contains more transistors than all the vacuum tubes ever made, yet runs for a day on a small battery. The ENIAC computer with its 17 468 tubes was far less powerful than a cheap calculator today.
+## mistakes
+x The transistor was invented before the vacuum tube.
+v The vacuum tube came first (1904); the transistor came in 1947 and replaced it.
+x An integrated circuit contains only transistors.
+v An IC also contains diodes, resistors and capacitors, forming a complete circuit on one chip.
+x A triode is used only as a rectifier.
+v The two-electrode diode rectifies; the triode can control current and amplify.
+## remember
+- 1883 Edison effect → 1904 Fleming's diode (rectifier) → 1906 De Forest's triode (amplifier).
+- ENIAC (1945): 17 468 vacuum tubes.
+- 1947 transistor at Bell Labs (Bardeen, Brattain, Shockley): small, light, low power, reliable, cheap.
+- IC: complete circuit on one silicon chip; LSI → VLSI; made modern computers possible.
+- Future: optical ICs and programmable ICs (FPGA).
+## think
+Why do you think making everything on one chip (an IC) made circuits more reliable than joining many separate transistors with wires?
+## quiz
+? Who first made a two-electrode vacuum tube (diode), in 1904?
+- Edison
+* Fleming
+- De Forest
+- Shockley
+= John Ambrose Fleming built it using the Edison effect.
+? The triode, which could work as an amplifier, was invented by:
+- Marconi
+- Bardeen
+* Lee De Forest
+- Jagadish Chandra Bose
+= De Forest added a third electrode in 1906.
+? What is a silicon chip carrying a complete circuit with millions of components called?
+- Parallel circuit
+- Semiconductor transistor
+* Integrated circuit
+- Semiconductor diode
+= It is an integrated circuit (IC).
+? Which is NOT an advantage of the transistor over the vacuum tube?
+- Smaller size
+- Less power needed
+- Lower cost
+* Needs a hot filament
+= It is the vacuum tube that needs a hot filament.
+== bn
+## what
+ইলেকট্রনিকস তিনটি বড় ধাপে এগিয়েছে: **ভ্যাকুয়াম টিউব**, **ট্রানজিস্টর** আর **সমন্বিত বর্তনী বা ইন্টিগ্রেটেড সার্কিট (আইসি)**। প্রতিটি ধাপে যন্ত্র আরও ছোট, সস্তা, নির্ভরযোগ্য আর কম বিদ্যুৎ-খরুচে হয়েছে।
+## simple
+**১. ভ্যাকুয়াম টিউব।** **১৮৮৩ সালে টমাস এডিসন** একটি বাল্বের ভেতরে অদ্ভুত জিনিস লক্ষ করেন: গরম ফিলামেন্ট থেকে আলাদা একটি ধাতব প্লেটে ফাঁকা (বায়ুশূন্য) জায়গা দিয়েও বিদ্যুৎ প্রবাহিত হতে পারে। এটাই **এডিসন ক্রিয়া**। (গরম ফিলামেন্ট ইলেকট্রন ছাড়ে, আর সেগুলো শূন্যস্থান পার হয়ে উড়ে যায়।)
+
+**১৯০৪ সালে জন অ্যামব্রোস ফ্লেমিং** এই ক্রিয়া কাজে লাগিয়ে **দুই ইলেকট্রোডের** একটি ভ্যাকুয়াম টিউব (ডায়োড) তৈরি করেন। এটি বিদ্যুৎকে শুধু একদিকে যেতে দিত, তাই **রেকটিফায়ার** হিসেবে পরিবর্তী প্রবাহকে একমুখী প্রবাহে বদলাত। এই টিউবকে প্রায়ই ইলেকট্রনিকসের শুরু বলা হয়। ঠিক তখনই রেডিও তরঙ্গে তথ্য পাঠানো শুরু হচ্ছিল; রেডিও সিগন্যাল নিয়ন্ত্রণে গুগলিয়েলমো মার্কনির এমন টিউব খুব দরকার ছিল। (রেডিওর আবিষ্কারক হিসেবে দীর্ঘদিন শুধু মার্কনির নাম বলা হলেও এখন বাঙালি বিজ্ঞানী **জগদীশচন্দ্র বসুর** অবদানও স্বীকৃত।)
+
+**১৯০৬ সালে লি দ্য ফরেস্ট** একটি **তৃতীয় ইলেকট্রোড** যোগ করে তৈরি করেন **ট্রায়োড**। এই তৃতীয় ইলেকট্রোডের ছোট একটি ভোল্টেজ বড় একটি প্রবাহকে নিয়ন্ত্রণ করতে পারত, তাই ট্রায়োড **অ্যামপ্লিফায়ার** হিসেবে দুর্বল সিগন্যালকে শক্তিশালী করতে পারত। ভ্যাকুয়াম টিউবের উন্নতি হয় প্রথমে টেলিগ্রাফ (মোর্স কোড), পরে টেলিফোন যোগাযোগে, আর দুই বিশ্বযুদ্ধে অস্ত্র নিয়ন্ত্রণ, রাডার ও দিক নির্ণয়ে এগুলো ব্যবহৃত হয়। প্রথম সাধারণ-কাজের ইলেকট্রনিক কম্পিউটার **এনিয়াক (ENIAC)**, ১৯৪৫ সালে তৈরি, এতে ছিল **১৭ ৪৬৮টি ভ্যাকুয়াম টিউব**, যা একটি বড় ঘর ভরিয়ে দিত আর বিপুল বিদ্যুৎ খরচ করত।
+
+কিন্তু টিউব ছিল বড়, গরম, ভঙ্গুর আর বিদ্যুৎ-খরুচে, আর বাল্বের মতোই কেটে যেত।
+
+**২. ট্রানজিস্টর।** **১৯৪৭ সালে বেল ল্যাবরেটরিতে** **ট্রানজিস্টর** আবিষ্কৃত হয়; এজন্য **জন বারডিন, ওয়াল্টার ব্রাটেইন ও উইলিয়াম শকলি** নোবেল পুরস্কার পান। অর্ধপরিবাহী দিয়ে তৈরি ট্রানজিস্টর ভ্যাকুয়াম টিউবের কাজগুলো (সুইচ ও অ্যামপ্লিফায়ার) করতে পারে, কিন্তু এটি:
+
+- খুব ছোট আর হালকা,
+- খুব অল্প বিদ্যুৎ লাগে,
+- অনেক নির্ভরযোগ্য (কেটে যাওয়ার মতো কিছু নেই),
+- আর সবচেয়ে বড় কথা, তৈরি করতে খুব সস্তা।
+
+ট্রানজিস্টর দ্রুত টিউবের জায়গা নিল, আর সাধারণ মানুষ সস্তায় রেডিওসহ নানা ইলেকট্রনিক যন্ত্র পেতে লাগল। বাংলাদেশে ব্যাটারিচালিত ছোট রেডিওকে দীর্ঘদিন সোজাসুজি "ট্রানজিস্টর" বলা হতো।
+
+**৩. সমন্বিত বর্তনী (আইসি)।** ১৯৫২ সালের দিকেই আইসি নিয়ে আলোচনা শুরু হলেও সত্যিকারের আইসি তৈরি শুরু হয় ষাটের দশকে। পঞ্চাশের দশকে সিলিকনের একটি পাতলা পাতে (**ওয়েফার**) অনেক ট্রানজিস্টর একসাথে বানিয়ে পরে কেটে আলাদা করা হতো। পরের ধাপে একই সিলিকনের টুকরায় শুধু ট্রানজিস্টর নয়, **ডায়োড, রেজিস্টর ও ক্যাপাসিটর** বসিয়ে ছোট্ট একটি চিপে **পূর্ণাঙ্গ একটি সার্কিট** তৈরি করা হলো: **সমন্বিত বর্তনী**। প্রযুক্তির উন্নতির সাথে অল্প জায়গায় আরও বেশি ট্রানজিস্টর বসানো গেল: প্রথমে **লার্জ স্কেল ইন্টিগ্রেশন (LSI)**, পরে **ভেরি লার্জ স্কেল ইন্টিগ্রেশন (VLSI)**। মাইক্রোকম্পিউটার, চিকিৎসার যন্ত্র, ভিডিও ক্যামেরা আর যোগাযোগ উপগ্রহ আইসি ছাড়া অসম্ভব হতো। আধুনিক ফোনের চিপে থাকে শত শত কোটি ট্রানজিস্টর।
+
+**৪. ভবিষ্যতের ইলেকট্রনিকস।** প্রকৌশলীরা এমন আইসি বানাচ্ছেন যা তথ্য বহনে **আলো (অপটিকস)** ব্যবহার করে, আর **FPGA (ফিল্ড প্রোগ্রামেবল গেট অ্যারে)**-এর মতো **প্রোগ্রাম করা যায় এমন আইসি**, যার সার্কিট তুমি নিজের প্রয়োজনমতো সাজিয়ে নিতে পারো।
+## definition
+**ভ্যাকুয়াম টিউব**: এমন ইলেকট্রনিক যন্ত্র যেখানে উত্তপ্ত ইলেকট্রোড (ক্যাথোড) থেকে ইলেকট্রন শূন্যস্থান দিয়ে অন্য ইলেকট্রোডে যায়; দুই ইলেকট্রোডের টিউব (ডায়োড) রেকটিফায়ার, তিন ইলেকট্রোডের টিউব (ট্রায়োড) অ্যামপ্লিফায়ার হিসেবে কাজ করে।
+
+**ট্রানজিস্টর**: অর্ধপরিবাহী দিয়ে তৈরি ছোট যন্ত্র (১৯৪৭ সালে আবিষ্কৃত), যা সিগন্যাল বিবর্ধন করতে বা সুইচ হিসেবে কাজ করতে পারে।
+
+**সমন্বিত বর্তনী (আইসি)**: ট্রানজিস্টর, ডায়োড, রেজিস্টর ও ক্যাপাসিটরসহ পূর্ণাঙ্গ ইলেকট্রনিক সার্কিট, যা অর্ধপরিবাহীর (সিলিকনের) একটি ছোট চিপে একসাথে তৈরি।
+## why
+ট্রানজিস্টর এত সহজে জিতল কেন? ভ্যাকুয়াম টিউবে শুধু ইলেকট্রন বের করতেই একটি জ্বলন্ত গরম ফিলামেন্ট লাগে, যা বিদ্যুৎ নষ্ট করে, তাপ তৈরি করে আর একসময় কেটে যায়। ট্রানজিস্টরে চার্জ আগে থেকেই কঠিন অর্ধপরিবাহীর ভেতরে চলাচল করে, তাই কোনো হিটার লাগে না। এজন্য এটি ক্ষুদ্র, ঠান্ডা, দীর্ঘস্থায়ী আর বিপুল পরিমাণে সস্তায় বানানো যায়।
+## terms
+এডিসন ক্রিয়া | গরম ফিলামেন্ট থেকে প্লেটে শূন্যস্থান দিয়ে প্রবাহ (১৮৮৩)
+ডায়োড (টিউব) | দুই ইলেকট্রোডের টিউব; একদিকে প্রবাহ যেতে দেয় (রেকটিফায়ার)
+রেকটিফায়ার | পরিবর্তী প্রবাহকে একমুখী প্রবাহে রূপান্তর করে
+ট্রায়োড | তিন ইলেকট্রোডের টিউব, বিবর্ধন করতে পারে (১৯০৬)
+অ্যামপ্লিফায়ার | দুর্বল সিগন্যালকে শক্তিশালী করার যন্ত্র
+ট্রানজিস্টর | বিবর্ধন বা সুইচের কাজে অর্ধপরিবাহী যন্ত্র (১৯৪৭)
+ওয়েফার | সিলিকনের পাতলা পাত, যার ওপর চিপ তৈরি হয়
+সমন্বিত বর্তনী (আইসি) | একটি চিপে তৈরি পূর্ণাঙ্গ সার্কিট
+LSI / VLSI | লার্জ / ভেরি লার্জ স্কেল ইন্টিগ্রেশন: চিপে অনেক / অনেক অনেক ট্রানজিস্টর
+FPGA | প্রোগ্রাম করা যায় এমন আইসি, যার সার্কিট ব্যবহারকারী ঠিক করে
+## visual
+প্রতিটি যুগে চাপ দিয়ে দেখো যন্ত্রটি দেখতে কেমন ছিল, আর আকার, বিদ্যুৎ খরচ, নির্ভরযোগ্যতা ও দাম কীভাবে বদলেছে।
+## real
+তোমার পরিবারের হাতের ফোনে যত ট্রানজিস্টর আছে, এ পর্যন্ত তৈরি সব ভ্যাকুয়াম টিউব মিলিয়েও তত হবে না, অথচ ফোনটি ছোট একটি ব্যাটারিতে সারা দিন চলে। ১৭ ৪৬৮টি টিউবের এনিয়াক কম্পিউটার আজকের সস্তা ক্যালকুলেটরের চেয়েও অনেক কম ক্ষমতাশালী ছিল।
+## mistakes
+x ভ্যাকুয়াম টিউবের আগে ট্রানজিস্টর আবিষ্কৃত হয়।
+v ভ্যাকুয়াম টিউব আগে (১৯০৪); ট্রানজিস্টর এসেছে ১৯৪৭ সালে এবং টিউবের জায়গা নিয়েছে।
+x আইসিতে শুধু ট্রানজিস্টর থাকে।
+v আইসিতে ডায়োড, রেজিস্টর ও ক্যাপাসিটরও থাকে, মিলে একটি চিপে পূর্ণাঙ্গ সার্কিট।
+x ট্রায়োড শুধু রেকটিফায়ার হিসেবে ব্যবহৃত হয়।
+v দুই ইলেকট্রোডের ডায়োড রেকটিফায়ার; ট্রায়োড প্রবাহ নিয়ন্ত্রণ ও বিবর্ধন করতে পারে।
+## remember
+- ১৮৮৩ এডিসন ক্রিয়া → ১৯০৪ ফ্লেমিংয়ের ডায়োড (রেকটিফায়ার) → ১৯০৬ দ্য ফরেস্টের ট্রায়োড (অ্যামপ্লিফায়ার)।
+- এনিয়াক (১৯৪৫): ১৭ ৪৬৮টি ভ্যাকুয়াম টিউব।
+- ১৯৪৭ বেল ল্যাবে ট্রানজিস্টর (বারডিন, ব্রাটেইন, শকলি): ছোট, হালকা, কম বিদ্যুৎ, নির্ভরযোগ্য, সস্তা।
+- আইসি: একটি সিলিকন চিপে পূর্ণাঙ্গ সার্কিট; LSI → VLSI; আধুনিক কম্পিউটার সম্ভব করেছে।
+- ভবিষ্যৎ: আলোভিত্তিক আইসি ও প্রোগ্রামযোগ্য আইসি (FPGA)।
+## think
+অনেক আলাদা ট্রানজিস্টর তার দিয়ে জোড়ার চেয়ে সবকিছু একটি চিপে (আইসি) বানালে সার্কিট বেশি নির্ভরযোগ্য হলো কেন বলে তোমার মনে হয়?
+## quiz
+? ১৯০৪ সালে প্রথম দুই ইলেকট্রোডের ভ্যাকুয়াম টিউব (ডায়োড) তৈরি করেন কে?
+- এডিসন
+* ফ্লেমিং
+- দ্য ফরেস্ট
+- শকলি
+= জন অ্যামব্রোস ফ্লেমিং এডিসন ক্রিয়া কাজে লাগিয়ে এটি তৈরি করেন।
+? অ্যামপ্লিফায়ার হিসেবে কাজ করতে পারা ট্রায়োড আবিষ্কার করেন:
+- মার্কনি
+- বারডিন
+* লি দ্য ফরেস্ট
+- জগদীশচন্দ্র বসু
+= দ্য ফরেস্ট ১৯০৬ সালে তৃতীয় ইলেকট্রোড যোগ করেন।
+? লক্ষ লক্ষ উপাদানসহ পূর্ণাঙ্গ সার্কিট বহনকারী সিলিকন চিপকে কী বলে?
+- সমান্তরাল বর্তনী
+- অর্ধপরিবাহী ট্রানজিস্টর
+* সমন্বিত বর্তনী
+- অর্ধপরিবাহী ডায়োড
+= এটি সমন্বিত বর্তনী বা আইসি।
+? কোনটি ভ্যাকুয়াম টিউবের তুলনায় ট্রানজিস্টরের সুবিধা নয়?
+- ছোট আকার
+- কম বিদ্যুৎ লাগে
+- কম দাম
+* গরম ফিলামেন্ট লাগে
+= গরম ফিলামেন্ট লাগে ভ্যাকুয়াম টিউবে।
+
+@@ 13.3
+@visual c13signal
+@related 13.2 13.4 7.2
+== en
+## what
+An **analog signal** changes **continuously** and can take any value; a **digital signal** has only **separate (discrete) values**, usually just two, written **1** and **0**. Electronics that processes each kind is called analog or digital electronics.
+## simple
+Sound, light, pressure and temperature around us change **smoothly** from moment to moment. A microphone turns your voice into a voltage that rises and falls smoothly in the same pattern. Such a smoothly varying electrical signal is an **analog signal**, and circuits that handle it directly (like an old radio amplifier) are **analog electronics**.
+
+**Going digital.** We can treat the same signal quite differently:
+
+1. **Sample** it: measure its value again and again at fixed short time intervals.
+2. **Turn each value into a number.**
+3. **Store the numbers** one after another, and process them with electronics.
+4. When we need the original signal back (to play through a speaker, say), make voltages equal to the stored numbers, one after another.
+
+Electronics that works with these separate values is **digital electronics**.
+
+**Why binary?** In daily life we count in **decimal** (ten digits, 0–9). Digital circuits use **binary**, which has only two digits, **0 and 1**. This is easy for electronics: **some voltage = 1**, **no voltage = 0**, like a switch that is either on or off. Each binary digit is a **bit**.
+
+In binary, place values go 1, 2, 4, 8, 16… instead of 1, 10, 100. So 1101 in binary = 8 + 4 + 0 + 1 = **13** in decimal. With 3 bits you can make 2³ = 8 different numbers (000 to 111); with 8 bits, 2⁸ = 256.
+
+**The big advantage: noise.** Unwanted disturbances, called **noise**, easily creep into an analog signal and spoil its quality, and once mixed in they are hard to remove. A digital signal only has to be recognised as "high" or "low". A little noise does not change a 1 into a 0, so the circuit can read the value correctly and rebuild a clean signal. That is why digital copies stay perfect.
+
+So sound, pictures and video usually **begin** as analog signals and are **used** as analog (we hear sound and see light), but they are **stored, processed and sent** as digital signals. Computers, the internet and mobile networks all run on digital electronics, using special ICs that process enormous numbers of signals quickly and accurately.
+## analogy
+An analog signal is like a ramp: you can stand at any height on it. A digital signal is like a staircase: you can only stand on the steps. Stairs lose a little detail, but they are easy to read exactly, even if the picture gets a bit blurry (noise). That's why digital signals travel long distances without getting worse.
+## definition
+**Analog signal**: an electrical signal whose value varies continuously with time, following the quantity it represents.
+
+**Digital signal**: a signal that takes only certain discrete values, usually two levels represented by 1 and 0.
+
+**Analog electronics**: electronics that processes analog signals directly. **Digital electronics**: electronics that processes information as discrete values (binary numbers).
+
+**Binary number system**: a number system that uses only the two digits 0 and 1, with place values that are powers of 2.
+## why
+Why is a digital signal so hard to spoil? Because the receiver only asks one question: "Is the voltage closer to high or to low?" Noise would have to be larger than half the gap between the two levels to flip a bit. An analog receiver has no such way to tell which part is signal and which part is noise, so every disturbance stays in.
+## terms
+Analog signal | Varies continuously; can have any value
+Digital signal | Only discrete values, usually 1 and 0
+Sampling | Measuring a signal's value at regular time intervals
+Binary | Number system with only digits 0 and 1
+Bit | One binary digit (0 or 1)
+Decimal | Everyday number system with digits 0–9
+Noise | Unwanted disturbance added to a signal
+## formula
+$$ Binary place values: … 16, 8, 4, 2, 1
+$$ Number of values with n bits = 2^{n}
+! Example: 1011 (binary) = 8 + 0 + 2 + 1 = 11 (decimal)
+## visual
+In "Digitize" mode, change the number of samples and bits and see how closely the digital steps follow the smooth analog wave. In "Noise" mode, send both signals through a noisy line and compare what arrives.
+## real
+A mercury thermometer and a clock with hands are analog; a digital thermometer and a phone clock are digital. When you record a voice message on WhatsApp, the microphone gives an analog signal, which your phone converts to digital to send; the other phone turns it back into analog sound in the speaker.
+## example
+Q: Convert the binary number 1101 into decimal.
+Given: binary 1101; place values 8, 4, 2, 1
+Calculation: 1 × 8 + 1 × 4 + 0 × 2 + 1 × 1 = 8 + 4 + 0 + 1 = 13
+Answer: 13
+## example
+Q: Write the decimal number 6 in binary.
+Solution: split 6 into powers of 2: 6 = 4 + 2
+Calculation: 4 → 1, 2 → 1, 1 → 0; so the digits are 1 1 0
+> Check: 1 × 4 + 1 × 2 + 0 × 1 = 6.
+Answer: 110
+## example
+Q: A digital system stores each sample using 4 bits. How many different levels can each sample have?
+Formula: number of values = 2^{n}
+Calculation: 2^{4} = 16
+Answer: 16 levels (0000 to 1111)
+## mistakes
+x Digital signals can take any value between high and low.
+v Digital signals take only discrete values, usually just 1 and 0.
+x Binary 10 means ten.
+v Binary 10 = 1 × 2 + 0 × 1 = 2.
+x Digital means the information was never analog.
+v Most information begins as analog; it is converted to digital to store, process and send.
+## remember
+- Analog: continuous values. Digital: discrete values (1 and 0).
+- Digitizing: sample → convert to numbers → store and process.
+- Binary uses 0 and 1 (voltage = 1, no voltage = 0); place values 1, 2, 4, 8, 16…
+- n bits give 2ⁿ values.
+- Digital signals resist noise, so their quality stays unchanged.
+## think
+If you sampled a song only a few times per second, what would it sound like when played back? Why do you think music is sampled tens of thousands of times per second?
+## quiz
+? Which of these is an analog quantity?
+* The temperature of a room changing through the day
+- The number of students in a class
+- A light switch that is either on or off
+- The number of pages in a book
+= Temperature changes smoothly and can take any value.
+? The binary number 101 equals, in decimal:
+- 3
+* 5
+- 101
+- 6
+= 1 × 4 + 0 × 2 + 1 × 1 = 5.
+? How many different values can be written with 3 bits?
+- 3
+- 6
+* 8
+- 9
+= 2³ = 8 (000 to 111).
+? The main reason digital signals keep their quality is:
+- They use more power
+* Noise cannot easily change a 1 into a 0
+- They are always louder
+- They never use electricity
+= The receiver only needs to tell high from low, so small noise does not matter.
+== bn
+## what
+**অ্যানালগ সিগন্যাল** **নিরবচ্ছিন্নভাবে** বদলায় এবং যেকোনো মান নিতে পারে; **ডিজিটাল সিগন্যালের** মান শুধু **আলাদা আলাদা (বিচ্ছিন্ন)**, সাধারণত মাত্র দুটি, লেখা হয় **১** ও **০**। প্রতিটি ধরনের সিগন্যাল প্রক্রিয়া করা ইলেকট্রনিকসকে বলে অ্যানালগ বা ডিজিটাল ইলেকট্রনিকস।
+## simple
+আমাদের চারপাশের শব্দ, আলো, চাপ, তাপমাত্রা মুহূর্তে মুহূর্তে **মসৃণভাবে** বদলায়। মাইক্রোফোন তোমার কণ্ঠস্বরকে এমন একটি ভোল্টেজে বদলায় যা একই ছন্দে মসৃণভাবে ওঠানামা করে। এমন মসৃণভাবে বদলানো বৈদ্যুতিক সিগন্যালই **অ্যানালগ সিগন্যাল**, আর যে সার্কিট একে সরাসরি প্রক্রিয়া করে (যেমন পুরোনো রেডিওর অ্যামপ্লিফায়ার), সেটা **অ্যানালগ ইলেকট্রনিকস**।
+
+**ডিজিটালে যাওয়া।** একই সিগন্যালকে সম্পূর্ণ অন্যভাবেও সামলানো যায়:
+
+1. **নমুনা নাও**: নির্দিষ্ট অল্প সময় পরপর বারবার এর মান মাপো।
+2. **প্রতিটি মানকে একটি সংখ্যায় বদলাও।**
+3. **সংখ্যাগুলো ধারাবাহিকভাবে সংরক্ষণ করো**, আর ইলেকট্রনিকস দিয়ে প্রক্রিয়া করো।
+4. আবার মূল সিগন্যাল দরকার হলে (যেমন স্পিকারে বাজাতে), সংরক্ষিত সংখ্যাগুলোর সমান ভোল্টেজ একটার পর একটা তৈরি করো।
+
+এমন বিচ্ছিন্ন মান নিয়ে কাজ করা ইলেকট্রনিকসই **ডিজিটাল ইলেকট্রনিকস**।
+
+**বাইনারি কেন?** দৈনন্দিন জীবনে আমরা **দশমিক** পদ্ধতিতে গুনি (দশটি অঙ্ক, ০–৯)। ডিজিটাল সার্কিট ব্যবহার করে **বাইনারি**, যেখানে মাত্র দুটি অঙ্ক, **০ ও ১**। ইলেকট্রনিকসের জন্য এটা সহজ: **কিছু ভোল্টেজ = ১**, **ভোল্টেজ নেই = ০**, ঠিক যেন একটি সুইচ, হয় চালু নয়তো বন্ধ। প্রতিটি বাইনারি অঙ্ককে বলে **বিট**।
+
+বাইনারিতে স্থানীয় মান ১, ১০, ১০০-এর বদলে ১, ২, ৪, ৮, ১৬… তাই বাইনারি ১১০১ = ৮ + ৪ + ০ + ১ = দশমিকে **১৩**। ৩ বিট দিয়ে ২³ = ৮টি ভিন্ন সংখ্যা (০০০ থেকে ১১১) বানানো যায়; ৮ বিট দিয়ে ২⁸ = ২৫৬টি।
+
+**বড় সুবিধা: নয়েজ।** **নয়েজ** নামের অনাকাঙ্ক্ষিত গোলমাল অ্যানালগ সিগন্যালে সহজেই ঢুকে এর গুণগত মান নষ্ট করে, আর একবার মিশে গেলে সরানো কঠিন। ডিজিটাল সিগন্যালকে শুধু "উঁচু" না "নিচু" চিনতে হয়। সামান্য নয়েজ ১-কে ০ বানাতে পারে না, তাই সার্কিট মানটি ঠিকঠাক পড়ে আবার পরিষ্কার সিগন্যাল তৈরি করতে পারে। এজন্যই ডিজিটাল কপি অবিকৃত থাকে।
+
+তাই শব্দ, ছবি, ভিডিও সাধারণত **শুরু হয়** অ্যানালগ সিগন্যাল হিসেবে আর **ব্যবহারও হয়** অ্যানালগ হিসেবে (আমরা শব্দ শুনি, আলো দেখি), কিন্তু **সংরক্ষণ, প্রক্রিয়া ও প্রেরণ** হয় ডিজিটাল সিগন্যাল হিসেবে। কম্পিউটার, ইন্টারনেট আর মোবাইল নেটওয়ার্ক সবই ডিজিটাল ইলেকট্রনিকসে চলে, বিশেষ আইসি ব্যবহার করে যা অল্প সময়ে নির্ভুলভাবে বিপুল পরিমাণ সিগন্যাল প্রক্রিয়া করে।
+## analogy
+অ্যানালগ সংকেত যেন একটি ঢালু পথ: যেকোনো উচ্চতায় দাঁড়ানো যায়। ডিজিটাল সংকেত যেন সিঁড়ি: শুধু ধাপগুলোতেই দাঁড়ানো যায়। সিঁড়িতে সামান্য খুঁটিনাটি হারায়, কিন্তু ছবি একটু ঝাপসা হলেও (নয়েজ) ধাপগুলো ঠিকঠাক পড়া সহজ। তাই ডিজিটাল সংকেত খারাপ না হয়ে অনেক দূর যায়।
+## definition
+**অ্যানালগ সিগন্যাল**: যে বৈদ্যুতিক সিগন্যালের মান সময়ের সাথে নিরবচ্ছিন্নভাবে বদলায় এবং যে রাশিকে প্রকাশ করে তাকে অনুসরণ করে।
+
+**ডিজিটাল সিগন্যাল**: যে সিগন্যাল শুধু নির্দিষ্ট কিছু বিচ্ছিন্ন মান নেয়, সাধারণত ১ ও ০ দিয়ে প্রকাশিত দুটি স্তর।
+
+**অ্যানালগ ইলেকট্রনিকস**: যে ইলেকট্রনিকস অ্যানালগ সিগন্যাল সরাসরি প্রক্রিয়া করে। **ডিজিটাল ইলেকট্রনিকস**: যে ইলেকট্রনিকস তথ্যকে বিচ্ছিন্ন মান (বাইনারি সংখ্যা) হিসেবে প্রক্রিয়া করে।
+
+**বাইনারি সংখ্যা পদ্ধতি**: শুধু ০ ও ১ এই দুটি অঙ্ক দিয়ে গঠিত সংখ্যা পদ্ধতি, যার স্থানীয় মানগুলো ২-এর ঘাত।
+## why
+ডিজিটাল সিগন্যাল নষ্ট করা এত কঠিন কেন? কারণ গ্রাহক যন্ত্র শুধু একটি প্রশ্ন করে: "ভোল্টেজটা উঁচুর কাছাকাছি না নিচুর কাছাকাছি?" একটি বিট উল্টে দিতে নয়েজকে দুই স্তরের ব্যবধানের অর্ধেকের চেয়ে বড় হতে হবে। অ্যানালগ গ্রাহকের কাছে কোনটা সিগন্যাল আর কোনটা নয়েজ তা আলাদা করার এমন কোনো উপায় নেই, তাই প্রতিটি গোলমালই থেকে যায়।
+## terms
+অ্যানালগ সিগন্যাল | নিরবচ্ছিন্নভাবে বদলায়; যেকোনো মান নিতে পারে
+ডিজিটাল সিগন্যাল | শুধু বিচ্ছিন্ন মান, সাধারণত ১ ও ০
+নমুনায়ন (sampling) | নির্দিষ্ট সময় পরপর সিগন্যালের মান মাপা
+বাইনারি | শুধু ০ ও ১ অঙ্কের সংখ্যা পদ্ধতি
+বিট | একটি বাইনারি অঙ্ক (০ বা ১)
+দশমিক | ০–৯ অঙ্কের দৈনন্দিন সংখ্যা পদ্ধতি
+নয়েজ | সিগন্যালে যোগ হওয়া অনাকাঙ্ক্ষিত গোলমাল
+## formula
+$$ বাইনারি স্থানীয় মান: … ১৬, ৮, ৪, ২, ১
+$$ n বিটে সম্ভাব্য মানের সংখ্যা = ২^{n}
+! উদাহরণ: ১০১১ (বাইনারি) = ৮ + ০ + ২ + ১ = ১১ (দশমিক)
+## visual
+"ডিজিটাল করো" অবস্থায় নমুনা ও বিটের সংখ্যা বদলে দেখো ডিজিটাল ধাপগুলো মসৃণ অ্যানালগ তরঙ্গকে কতটা কাছ থেকে অনুসরণ করে। "নয়েজ" অবস্থায় দুটি সিগন্যালকে গোলমালপূর্ণ লাইনে পাঠিয়ে তুলনা করো কী পৌঁছায়।
+## real
+পারদ থার্মোমিটার আর কাঁটাওয়ালা ঘড়ি অ্যানালগ; ডিজিটাল থার্মোমিটার আর ফোনের ঘড়ি ডিজিটাল। হোয়াটসঅ্যাপে ভয়েস মেসেজ রেকর্ড করলে মাইক্রোফোন দেয় অ্যানালগ সিগন্যাল, তোমার ফোন পাঠানোর জন্য একে ডিজিটালে বদলায়; অন্য ফোন স্পিকারে একে আবার অ্যানালগ শব্দে ফিরিয়ে আনে।
+## example
+প্রশ্ন: বাইনারি সংখ্যা ১১০১-কে দশমিকে রূপান্তর করো।
+দেওয়া আছে: বাইনারি ১১০১; স্থানীয় মান ৮, ৪, ২, ১
+হিসাব: ১ × ৮ + ১ × ৪ + ০ × ২ + ১ × ১ = ৮ + ৪ + ০ + ১ = ১৩
+উত্তর: ১৩
+## example
+প্রশ্ন: দশমিক সংখ্যা ৬-কে বাইনারিতে লেখো।
+সমাধান: ৬-কে ২-এর ঘাতে ভাঙি: ৬ = ৪ + ২
+হিসাব: ৪ → ১, ২ → ১, ১ → ০; তাই অঙ্কগুলো ১ ১ ০
+> যাচাই: ১ × ৪ + ১ × ২ + ০ × ১ = ৬।
+উত্তর: ১১০
+## example
+প্রশ্ন: একটি ডিজিটাল ব্যবস্থা প্রতিটি নমুনা ৪ বিটে সংরক্ষণ করে। প্রতিটি নমুনার কতগুলো ভিন্ন স্তর হতে পারে?
+সূত্র: মানের সংখ্যা = ২^{n}
+হিসাব: ২^{৪} = ১৬
+উত্তর: ১৬টি স্তর (০০০০ থেকে ১১১১)
+## mistakes
+x ডিজিটাল সিগন্যাল উঁচু আর নিচুর মাঝের যেকোনো মান নিতে পারে।
+v ডিজিটাল সিগন্যাল শুধু বিচ্ছিন্ন মান নেয়, সাধারণত মাত্র ১ ও ০।
+x বাইনারি ১০ মানে দশ।
+v বাইনারি ১০ = ১ × ২ + ০ × ১ = ২।
+x ডিজিটাল মানে তথ্যটি কখনো অ্যানালগ ছিল না।
+v বেশির ভাগ তথ্য অ্যানালগ হিসেবে শুরু হয়; সংরক্ষণ, প্রক্রিয়া ও প্রেরণের জন্য ডিজিটালে বদলানো হয়।
+## remember
+- অ্যানালগ: নিরবচ্ছিন্ন মান। ডিজিটাল: বিচ্ছিন্ন মান (১ ও ০)।
+- ডিজিটাল করা: নমুনা নেওয়া → সংখ্যায় রূপান্তর → সংরক্ষণ ও প্রক্রিয়া।
+- বাইনারি ০ ও ১ ব্যবহার করে (ভোল্টেজ = ১, ভোল্টেজ নেই = ০); স্থানীয় মান ১, ২, ৪, ৮, ১৬…
+- n বিটে ২ⁿটি মান।
+- ডিজিটাল সিগন্যালে নয়েজ সহজে ঢোকে না, তাই গুণগত মান অবিকৃত থাকে।
+## think
+একটি গানের যদি প্রতি সেকেন্ডে মাত্র কয়েকবার নমুনা নেওয়া হতো, বাজালে কেমন শোনাত? গানের প্রতি সেকেন্ডে হাজার হাজার বার নমুনা নেওয়া হয় কেন বলে তোমার মনে হয়?
+## quiz
+? নিচের কোনটি অ্যানালগ রাশি?
+* সারা দিনে বদলাতে থাকা ঘরের তাপমাত্রা
+- শ্রেণিকক্ষে শিক্ষার্থীর সংখ্যা
+- হয় চালু নয় বন্ধ এমন একটি বাতির সুইচ
+- একটি বইয়ের পৃষ্ঠা সংখ্যা
+= তাপমাত্রা মসৃণভাবে বদলায় এবং যেকোনো মান নিতে পারে।
+? বাইনারি সংখ্যা ১০১ দশমিকে:
+- ৩
+* ৫
+- ১০১
+- ৬
+= ১ × ৪ + ০ × ২ + ১ × ১ = ৫।
+? ৩ বিট দিয়ে কতগুলো ভিন্ন মান লেখা যায়?
+- ৩
+- ৬
+* ৮
+- ৯
+= ২³ = ৮ (০০০ থেকে ১১১)।
+? ডিজিটাল সিগন্যালের গুণগত মান অবিকৃত থাকার প্রধান কারণ:
+- এটি বেশি বিদ্যুৎ ব্যবহার করে
+* নয়েজ সহজে ১-কে ০ বানাতে পারে না
+- এটি সবসময় বেশি জোরালো
+- এতে বিদ্যুৎ লাগেই না
+= গ্রাহককে শুধু উঁচু-নিচু চিনতে হয়, তাই সামান্য নয়েজে কিছু যায় আসে না।
+
+@@ 13.4
+@visual c13dope
+@related 11.1.2 11.2.2 13.2
+== en
+## what
+A **semiconductor** such as silicon conducts electricity better than an insulator but worse than a conductor. Adding a tiny amount of a suitable impurity turns it into an **n-type** (extra free electrons) or **p-type** (positive "holes") semiconductor, the building blocks of diodes, transistors and ICs.
+## simple
+If we had to thank one material for modern electronics, it would be the **semiconductor**. Earlier you met conductors, insulators and semiconductors; now let's look inside one.
+
+**Silicon, the star.** Atoms are especially stable when their outermost shell holds **eight** electrons. Silicon, the most used semiconductor, has only **four** outer electrons. Yet in a silicon **crystal** every atom behaves as if it had eight! The trick is **sharing**: each silicon atom is joined to **four neighbours**, and each pair shares two electrons (one from each). So every atom "feels" 4 + 4 = 8 electrons around it. (Pictures are drawn flat, but the real crystal is three-dimensional, with each atom touching four others.)
+
+**Pure silicon conducts only a little.** Normally all these electrons are tied up in bonds, so there are almost no free electrons to carry current. As the temperature rises, a few electrons shake loose and become free, so silicon conducts a bit better; its **resistance falls as temperature rises** (the opposite of a metal). Interesting physics, but not very useful yet.
+
+**n-type: add phosphorus.** Mix in a very small amount of **phosphorus**, which has **five** outer electrons. Four of them join bonds with neighbouring silicon atoms; the **fifth is left over**. It is only loosely held, so it wanders through the crystal like a free electron, leaving behind a fixed **positive phosphorus ion**. Now there are plenty of free electrons (negative charges) to carry current. This is an **n-type** semiconductor (n for negative carriers).
+
+**p-type: add boron.** Now do the opposite: add **boron**, with only **three** outer electrons. One bond around each boron atom is missing an electron, leaving an **empty place**. An electron from a neighbouring bond can jump in to fill it, but that leaves a new empty place in the neighbour; another electron jumps in there, and so on. It looks as if the **empty place itself is moving** from atom to atom, like a **positive particle**. We call it a **hole**. The boron atom, having gained an electron, stays behind as a fixed **negative ion**. Current is carried by these positive holes, so this is a **p-type** semiconductor (p for positive carriers).
+
+Think of a row of full bus seats with one empty seat: as each passenger moves up one seat, the empty seat travels backwards down the bus. The hole moves the same way.
+
+Important: an n-type or p-type piece as a whole is still **electrically neutral**; for every free electron there is a positive ion, and for every hole a negative ion.
+
+**The real magic: joining p and n.** On their own, n-type and p-type materials were not very useful. But when a piece of **p-type is joined to n-type**, the greatest advance in science and technology began. A **p-n junction** lets current flow easily in one direction only: it is a **diode**. Layers of p- and n-type make **transistors**, and millions of those on one chip make an **IC**. LEDs and solar cells are p-n junctions too.
+## analogy
+Pure silicon is like a classroom where every student is busy holding hands with neighbours, so nobody moves around: a poor conductor. Add a few phosphorus atoms (n-type) and it's like adding a few extra students with free hands who can wander about; add boron (p-type) and it's like leaving some empty seats (holes) that others can shuffle into. Either way, charge can now move.
+## definition
+**Semiconductor**: a material (e.g. silicon, germanium) whose ability to conduct lies between conductors and insulators, and whose conductivity increases with temperature and with added impurities.
+
+**n-type semiconductor**: a semiconductor made by adding a small amount of an element with five outer electrons (e.g. phosphorus) to silicon; current is carried mainly by free **electrons**.
+
+**p-type semiconductor**: a semiconductor made by adding a small amount of an element with three outer electrons (e.g. boron) to silicon; current is carried mainly by positive **holes**.
+
+**Hole**: a vacancy left by a missing electron in a bond, which moves through the crystal and behaves like a positive charge.
+## why
+Why does such a tiny impurity change silicon so much? Pure silicon at room temperature has extremely few free charges. Even one phosphorus atom per million silicon atoms adds far more free electrons than heat alone produces, so the conductivity jumps enormously. And by choosing **where** to put n-type and p-type regions, engineers can design exactly how current flows.
+## terms
+Semiconductor | Conducts between a conductor and an insulator
+Silicon crystal | Silicon atoms each bonded to four neighbours, sharing electrons
+Outer shell | Outermost electron orbit; eight electrons is stable
+Impurity (doping) | Small amount of another element added on purpose
+n-type | Silicon + five-electron atoms (phosphorus); extra free electrons
+p-type | Silicon + three-electron atoms (boron); positive holes
+Hole | Missing-electron place that moves and acts as a positive charge
+p-n junction | Join of p-type and n-type; conducts one way (diode)
+## visual
+Choose pure silicon (cold or warm), n-type or p-type, and watch how charges move when a voltage is applied: free electrons drift toward the positive side, holes toward the negative side.
+## real
+Every phone, computer, calculator, solar panel and LED lamp in Bangladesh depends on silicon doped into n-type and p-type regions. Solar home systems in villages use large silicon p-n junctions that turn sunlight directly into electricity.
+## example
+Q: Arsenic has five electrons in its outer shell. If a small amount is added to pure silicon, which type of semiconductor is formed, and what carries the current?
+Given: arsenic: 5 outer electrons; silicon: 4
+Solution: four of arsenic's electrons form bonds with silicon neighbours; the fifth is left over and becomes almost free.
+Answer: n-type; current is carried mainly by free electrons.
+## example
+Q: What happens to the resistance of a pure semiconductor when its temperature increases? Explain.
+Solution: at higher temperature more electrons break free from their bonds, so there are more charge carriers.
+> A metal behaves the other way: its resistance rises with temperature, because it already has plenty of free electrons and they just collide more.
+Answer: The resistance decreases, because more free electrons (and holes) are available to carry current.
+## mistakes
+x An n-type semiconductor is negatively charged.
+v It is electrically neutral overall; each free electron is balanced by a fixed positive ion.
+x A hole is a real positive particle, like a proton.
+v A hole is just the place of a missing electron; it only behaves like a positive charge.
+x Heating a semiconductor increases its resistance, like a metal.
+v Heating frees more electrons, so a semiconductor's resistance decreases.
+## remember
+- Silicon: 4 outer electrons; in the crystal each atom shares with 4 neighbours → 8.
+- Pure semiconductor conducts a little; resistance falls as temperature rises.
+- n-type: add phosphorus (5 electrons) → free electrons carry current.
+- p-type: add boron (3 electrons) → holes (positive) carry current.
+- Joining p and n makes a p-n junction (diode), the basis of transistors and ICs.
+## think
+In the p-type semiconductor the electrons are really what move, jumping from bond to bond. Why do we still find it useful to say that a positive hole moves the other way?
+## quiz
+? How many electrons does silicon have in its outermost shell?
+- 3
+* 4
+- 5
+- 8
+= Silicon has four outer electrons and shares them with four neighbours.
+? Adding phosphorus to silicon produces:
+* An n-type semiconductor
+- A p-type semiconductor
+- An insulator
+- A superconductor
+= Phosphorus has five outer electrons; the extra one becomes free.
+? In a p-type semiconductor current is carried mainly by:
+- Free electrons
+* Holes
+- Protons
+- Phosphorus ions
+= Boron leaves missing-electron places (holes) that move like positive charges.
+? When the temperature of a pure semiconductor rises, its resistance:
+- Increases
+* Decreases
+- Stays the same
+- Becomes infinite
+= More electrons become free to carry current.
+== bn
+## what
+সিলিকনের মতো **অর্ধপরিবাহী** (সেমিকন্ডাক্টর) অপরিবাহীর চেয়ে ভালো, কিন্তু পরিবাহীর চেয়ে কম বিদ্যুৎ পরিবহন করে। উপযুক্ত অপদ্রব্য খুব সামান্য মেশালে এটি **n ধরনের** (বাড়তি মুক্ত ইলেকট্রন) বা **p ধরনের** (ধনাত্মক "হোল") অর্ধপরিবাহীতে পরিণত হয়, যা ডায়োড, ট্রানজিস্টর আর আইসির মূল উপাদান।
+## simple
+আধুনিক ইলেকট্রনিকসের জন্য যদি একটি পদার্থকে ধন্যবাদ দিতে হয়, তা হবে **অর্ধপরিবাহী**। আগে তুমি পরিবাহী, অপরিবাহী আর অর্ধপরিবাহীর কথা জেনেছ; এবার একটার ভেতরে তাকাই।
+
+**তারকা সিলিকন।** শেষ কক্ষপথে **আটটি** ইলেকট্রন থাকলে পরমাণু বিশেষভাবে স্থিতিশীল হয়। সবচেয়ে বেশি ব্যবহৃত অর্ধপরিবাহী সিলিকনের শেষ কক্ষপথে মাত্র **চারটি** ইলেকট্রন। তবু সিলিকন **কেলাসে** প্রতিটি পরমাণু এমন আচরণ করে যেন তার আটটি আছে! কৌশলটা হলো **ভাগাভাগি**: প্রতিটি সিলিকন পরমাণু **চারটি প্রতিবেশীর** সাথে যুক্ত, আর প্রতিটি জোড়া দুটি ইলেকট্রন ভাগ করে (প্রত্যেকে একটি করে দেয়)। তাই প্রতিটি পরমাণু চারপাশে ৪ + ৪ = ৮টি ইলেকট্রন "অনুভব" করে। (ছবি সমতলে আঁকা হয়, কিন্তু আসল কেলাস ত্রিমাত্রিক, প্রতিটি পরমাণু অন্য চারটিকে স্পর্শ করে।)
+
+**বিশুদ্ধ সিলিকন সামান্যই পরিবহন করে।** সাধারণত সব ইলেকট্রন বন্ধনে আটকে থাকে, তাই প্রবাহ বহনের মতো মুক্ত ইলেকট্রন প্রায় নেই। তাপমাত্রা বাড়লে কয়েকটি ইলেকট্রন ছুটে মুক্ত হয়, তাই সিলিকন একটু ভালো পরিবহন করে; **তাপমাত্রা বাড়লে এর রোধ কমে** (ধাতুর উল্টো)। পদার্থবিজ্ঞানের দিক থেকে চমৎকার, কিন্তু এখনো তেমন কাজের নয়।
+
+**n ধরন: ফসফরাস মেশাও।** খুব সামান্য **ফসফরাস** মেশাও, যার শেষ কক্ষপথে **পাঁচটি** ইলেকট্রন। চারটি প্রতিবেশী সিলিকনের সাথে বন্ধনে যোগ দেয়; **পঞ্চমটি বাড়তি থেকে যায়**। এটি আলগাভাবে আটকানো, তাই মুক্ত ইলেকট্রনের মতো কেলাসে ঘুরে বেড়ায়, পেছনে রেখে যায় একটি স্থির **ধনাত্মক ফসফরাস আয়ন**। এখন প্রবাহ বহনের জন্য প্রচুর মুক্ত ইলেকট্রন (ঋণাত্মক চার্জ) আছে। এটাই **n ধরনের** অর্ধপরিবাহী (n মানে negative বা ঋণাত্মক বাহক)।
+
+**p ধরন: বোরন মেশাও।** এবার উল্টোটা করো: মেশাও **বোরন**, যার শেষ কক্ষপথে মাত্র **তিনটি** ইলেকট্রন। প্রতিটি বোরন পরমাণুর চারপাশে একটি বন্ধনে একটি ইলেকট্রন কম, তৈরি হয় একটি **ফাঁকা জায়গা**। পাশের বন্ধন থেকে একটি ইলেকট্রন লাফিয়ে এসে তা ভরাট করতে পারে, কিন্তু তাতে পাশের পরমাণুতে নতুন একটি ফাঁকা জায়গা হয়; সেখানে আরেকটি ইলেকট্রন লাফিয়ে আসে, এভাবে চলতে থাকে। মনে হয় যেন **ফাঁকা জায়গাটাই** পরমাণু থেকে পরমাণুতে **ঘুরে বেড়াচ্ছে**, একটি **ধনাত্মক কণার** মতো। একে বলে **হোল**। একটি ইলেকট্রন পেয়ে বোরন পরমাণু স্থির **ঋণাত্মক আয়ন** হয়ে থেকে যায়। প্রবাহ বহন করে এই ধনাত্মক হোলগুলো, তাই এটি **p ধরনের** অর্ধপরিবাহী (p মানে positive বা ধনাত্মক বাহক)।
+
+ভাবো একটি বাসের সারিতে সব সিট ভরা, শুধু একটি খালি: প্রত্যেক যাত্রী এক সিট করে এগিয়ে বসলে খালি সিটটা বাসের পেছনের দিকে সরে যায়। হোলও ঠিক এভাবে চলে।
+
+গুরুত্বপূর্ণ: n ধরনের বা p ধরনের একটি টুকরা সামগ্রিকভাবে **বৈদ্যুতিকভাবে নিরপেক্ষ**; প্রতিটি মুক্ত ইলেকট্রনের জন্য একটি ধনাত্মক আয়ন, আর প্রতিটি হোলের জন্য একটি ঋণাত্মক আয়ন থাকে।
+
+**আসল জাদু: p আর n জোড়া দেওয়া।** আলাদাভাবে n ধরনের আর p ধরনের পদার্থ তেমন কাজে লাগত না। কিন্তু যখন **p ধরনকে n ধরনের সাথে যুক্ত** করা হলো, তখনই বিজ্ঞান ও প্রযুক্তির সবচেয়ে বড় অগ্রগতির সূচনা হলো। একটি **p-n জংশন** সহজে প্রবাহ যেতে দেয় শুধু একদিকে: এটাই **ডায়োড**। p ও n ধরনের স্তর দিয়ে তৈরি হয় **ট্রানজিস্টর**, আর একটি চিপে লক্ষ লক্ষ ট্রানজিস্টর মিলে **আইসি**। LED আর সোলার সেলও p-n জংশন।
+## analogy
+বিশুদ্ধ সিলিকন যেন এমন ক্লাসরুম, যেখানে প্রত্যেক ছাত্র পাশের জনের হাত ধরে ব্যস্ত, তাই কেউ ঘোরাফেরা করে না: দুর্বল পরিবাহী। অল্প কিছু ফসফরাস পরমাণু যোগ করলে (n-টাইপ) যেন কয়েকজন খালি হাতের বাড়তি ছাত্র এল, যারা ঘুরে বেড়াতে পারে; বোরন যোগ করলে (p-টাইপ) যেন কিছু আসন খালি রইল (হোল), যেখানে অন্যরা সরে বসতে পারে। দুইভাবেই আধান এখন চলতে পারে।
+## definition
+**অর্ধপরিবাহী**: যে পদার্থের (যেমন সিলিকন, জার্মেনিয়াম) পরিবহন ক্ষমতা পরিবাহী ও অপরিবাহীর মাঝামাঝি, আর তাপমাত্রা বাড়লে ও অপদ্রব্য মেশালে যার পরিবাহিতা বাড়ে।
+
+**n ধরনের অর্ধপরিবাহী**: শেষ কক্ষপথে পাঁচটি ইলেকট্রনবিশিষ্ট মৌল (যেমন ফসফরাস) সিলিকনে সামান্য মিশিয়ে তৈরি অর্ধপরিবাহী; প্রবাহ বহন করে মূলত মুক্ত **ইলেকট্রন**।
+
+**p ধরনের অর্ধপরিবাহী**: শেষ কক্ষপথে তিনটি ইলেকট্রনবিশিষ্ট মৌল (যেমন বোরন) সিলিকনে সামান্য মিশিয়ে তৈরি অর্ধপরিবাহী; প্রবাহ বহন করে মূলত ধনাত্মক **হোল**।
+
+**হোল**: বন্ধনে একটি ইলেকট্রনের অভাবে তৈরি ফাঁকা জায়গা, যা কেলাসে চলাচল করে এবং ধনাত্মক চার্জের মতো আচরণ করে।
+## why
+এত সামান্য অপদ্রব্য সিলিকনকে এত বদলে দেয় কেন? কক্ষ তাপমাত্রায় বিশুদ্ধ সিলিকনে মুক্ত চার্জ অত্যন্ত কম। প্রতি দশ লক্ষ সিলিকন পরমাণুতে একটি ফসফরাস পরমাণুও শুধু তাপে তৈরি মুক্ত ইলেকট্রনের চেয়ে অনেক বেশি মুক্ত ইলেকট্রন যোগ করে, তাই পরিবাহিতা বিপুলভাবে বেড়ে যায়। আর n ও p ধরনের অঞ্চল **কোথায়** বসবে তা বেছে নিয়ে প্রকৌশলীরা প্রবাহ ঠিক কীভাবে চলবে তা নকশা করতে পারেন।
+## terms
+অর্ধপরিবাহী | পরিবাহী ও অপরিবাহীর মাঝামাঝি পরিবহন করে
+সিলিকন কেলাস | প্রতিটি সিলিকন পরমাণু চার প্রতিবেশীর সাথে ইলেকট্রন ভাগ করে যুক্ত
+শেষ কক্ষপথ | সবচেয়ে বাইরের ইলেকট্রন কক্ষপথ; আটটি ইলেকট্রন হলে স্থিতিশীল
+অপদ্রব্য মেশানো (ডোপিং) | ইচ্ছা করে অন্য মৌলের সামান্য পরিমাণ যোগ করা
+n ধরন | সিলিকন + পাঁচ-ইলেকট্রন পরমাণু (ফসফরাস); বাড়তি মুক্ত ইলেকট্রন
+p ধরন | সিলিকন + তিন-ইলেকট্রন পরমাণু (বোরন); ধনাত্মক হোল
+হোল | ইলেকট্রনের অভাবের জায়গা, যা চলাচল করে ধনাত্মক চার্জের মতো আচরণ করে
+p-n জংশন | p ও n ধরনের সংযোগ; একদিকে পরিবহন করে (ডায়োড)
+## visual
+বিশুদ্ধ সিলিকন (ঠান্ডা বা গরম), n ধরন বা p ধরন বেছে নাও, আর দেখো ভোল্টেজ দিলে চার্জ কীভাবে চলে: মুক্ত ইলেকট্রন ধনাত্মক দিকে, হোল ঋণাত্মক দিকে সরে।
+## real
+বাংলাদেশের প্রতিটি ফোন, কম্পিউটার, ক্যালকুলেটর, সোলার প্যানেল আর LED বাতি n ও p ধরনের অঞ্চলে সাজানো সিলিকনের ওপর নির্ভর করে। গ্রামের সোলার হোম সিস্টেমে বড় সিলিকন p-n জংশন সূর্যের আলোকে সরাসরি বিদ্যুতে পরিণত করে।
+## example
+প্রশ্ন: আর্সেনিকের শেষ কক্ষপথে পাঁচটি ইলেকট্রন। বিশুদ্ধ সিলিকনে এর সামান্য পরিমাণ মেশালে কোন ধরনের অর্ধপরিবাহী তৈরি হবে, আর প্রবাহ বহন করবে কে?
+দেওয়া আছে: আর্সেনিক: শেষ কক্ষপথে ৫টি ইলেকট্রন; সিলিকন: ৪টি
+সমাধান: আর্সেনিকের চারটি ইলেকট্রন প্রতিবেশী সিলিকনের সাথে বন্ধন গড়ে; পঞ্চমটি বাড়তি থেকে প্রায় মুক্ত হয়ে যায়।
+উত্তর: n ধরন; প্রবাহ বহন করে মূলত মুক্ত ইলেকট্রন।
+## example
+প্রশ্ন: তাপমাত্রা বাড়লে বিশুদ্ধ অর্ধপরিবাহীর রোধের কী হয়? ব্যাখ্যা করো।
+সমাধান: বেশি তাপমাত্রায় বেশি ইলেকট্রন বন্ধন ছেড়ে মুক্ত হয়, তাই চার্জ বাহকের সংখ্যা বাড়ে।
+> ধাতু উল্টো আচরণ করে: এর রোধ তাপমাত্রার সাথে বাড়ে, কারণ এতে আগে থেকেই প্রচুর মুক্ত ইলেকট্রন আছে, আর তাপে শুধু সংঘর্ষ বাড়ে।
+উত্তর: রোধ কমে, কারণ প্রবাহ বহনের জন্য বেশি মুক্ত ইলেকট্রন (ও হোল) পাওয়া যায়।
+## mistakes
+x n ধরনের অর্ধপরিবাহী ঋণাত্মক চার্জযুক্ত।
+v সামগ্রিকভাবে এটি নিরপেক্ষ; প্রতিটি মুক্ত ইলেকট্রনের বিপরীতে একটি স্থির ধনাত্মক আয়ন আছে।
+x হোল প্রোটনের মতো সত্যিকারের একটি ধনাত্মক কণা।
+v হোল হলো শুধু একটি ইলেকট্রনের অভাবের জায়গা; এটি কেবল ধনাত্মক চার্জের মতো আচরণ করে।
+x ধাতুর মতোই অর্ধপরিবাহী গরম করলে রোধ বাড়ে।
+v গরম করলে বেশি ইলেকট্রন মুক্ত হয়, তাই অর্ধপরিবাহীর রোধ কমে।
+## remember
+- সিলিকন: শেষ কক্ষপথে ৪টি ইলেকট্রন; কেলাসে প্রতিটি পরমাণু ৪ প্রতিবেশীর সাথে ভাগ করে → ৮।
+- বিশুদ্ধ অর্ধপরিবাহী সামান্য পরিবহন করে; তাপমাত্রা বাড়লে রোধ কমে।
+- n ধরন: ফসফরাস (৫ ইলেকট্রন) মেশাও → মুক্ত ইলেকট্রন প্রবাহ বহন করে।
+- p ধরন: বোরন (৩ ইলেকট্রন) মেশাও → হোল (ধনাত্মক) প্রবাহ বহন করে।
+- p ও n যুক্ত করলে p-n জংশন (ডায়োড), যা ট্রানজিস্টর ও আইসির ভিত্তি।
+## think
+p ধরনের অর্ধপরিবাহীতে আসলে ইলেকট্রনই চলে, বন্ধন থেকে বন্ধনে লাফিয়ে। তবু একটি ধনাত্মক হোল উল্টো দিকে চলছে বলাটা আমাদের কাছে কাজের মনে হয় কেন?
+## quiz
+? সিলিকনের শেষ কক্ষপথে কয়টি ইলেকট্রন থাকে?
+- ৩
+* ৪
+- ৫
+- ৮
+= সিলিকনের চারটি বাইরের ইলেকট্রন, যা এটি চার প্রতিবেশীর সাথে ভাগ করে।
+? সিলিকনে ফসফরাস মেশালে তৈরি হয়:
+* n ধরনের অর্ধপরিবাহী
+- p ধরনের অর্ধপরিবাহী
+- অপরিবাহী
+- অতিপরিবাহী
+= ফসফরাসের শেষ কক্ষপথে পাঁচটি ইলেকট্রন; বাড়তিটি মুক্ত হয়।
+? p ধরনের অর্ধপরিবাহীতে প্রবাহ বহন করে মূলত:
+- মুক্ত ইলেকট্রন
+* হোল
+- প্রোটন
+- ফসফরাস আয়ন
+= বোরন ইলেকট্রনের অভাবের জায়গা (হোল) তৈরি করে, যা ধনাত্মক চার্জের মতো চলে।
+? বিশুদ্ধ অর্ধপরিবাহীর তাপমাত্রা বাড়লে এর রোধ:
+- বাড়ে
+* কমে
+- একই থাকে
+- অসীম হয়
+= বেশি ইলেকট্রন মুক্ত হয়ে প্রবাহ বহন করে।

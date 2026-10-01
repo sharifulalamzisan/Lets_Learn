@@ -1,0 +1,2197 @@
+@@chapter
+== en
+## intro
+What is everything around us made of: the air, the water in the pond, the rice on your plate, even your own body? Thinkers have asked this for thousands of years. The Greek philosopher Democritus guessed that matter is built from tiny, uncuttable pieces, which he called *atoms*, but he had no experiment to prove it. More than two thousand years later, in 1803, the British scientist John Dalton used real laboratory data to put forward an atomic theory, and the old name "atom" came back to life.
+
+In this chapter you will learn how elements and compounds differ, how atoms join to make molecules, and how chemists write symbols and formulas. Then we go inside the atom: its three fundamental particles (electrons, protons and neutrons), atomic number and mass number, the atomic models of Rutherford and Bohr, and how electrons are arranged in shells and subshells. Finally you will meet isotopes, learn why the atomic mass of chlorine is 35.5 and not a whole number, and see how radioactive isotopes are used in hospitals, farms and the Rooppur nuclear power plant.
+## objectives
+- tell elements, compounds and mixtures apart, and explain atoms and molecules
+- write the symbols of elements from their English and Latin names
+- read a chemical formula: what the subscripts and the coefficient mean
+- describe the charge and mass of electrons, protons and neutrons
+- explain atomic number and mass number, and find the numbers of electrons, protons and neutrons in an atom
+- describe the Rutherford and Bohr atomic models and explain which one is more acceptable, and why
+- arrange the electrons of atoms (up to Z = 30) in shells and subshells
+- explain isotopes and the uses and dangers of radioactive isotopes
+- calculate relative atomic mass (including from isotope abundances) and relative molecular mass
+== bn
+## intro
+আমাদের চারপাশের সবকিছু কী দিয়ে তৈরি: বাতাস, পুকুরের পানি, থালার ভাত, এমনকি তোমার নিজের শরীর? হাজার হাজার বছর ধরে মানুষ এই প্রশ্ন করে আসছে। গ্রিক দার্শনিক ডেমোক্রিটাস অনুমান করেছিলেন, পদার্থ এমন ক্ষুদ্র কণা দিয়ে তৈরি যাকে আর ভাঙা যায় না; তিনি এর নাম দেন *এটম* বা পরমাণু। কিন্তু প্রমাণ করার মতো কোনো পরীক্ষা তাঁর ছিল না। দুই হাজার বছরেরও বেশি পরে, ১৮০৩ সালে, ব্রিটিশ বিজ্ঞানী জন ডাল্টন পরীক্ষাগারের সত্যিকার তথ্যের ওপর ভিত্তি করে পরমাণুবাদ দেন, আর পুরোনো নাম "এটম" আবার ফিরে আসে।
+
+এই অধ্যায়ে শিখবে মৌল আর যৌগের পার্থক্য, পরমাণু মিলে কীভাবে অণু তৈরি করে, আর রসায়নবিদেরা কীভাবে প্রতীক ও সংকেত লেখেন। তারপর আমরা ঢুকব পরমাণুর ভেতরে: এর তিনটি মৌলিক কণা (ইলেকট্রন, প্রোটন, নিউট্রন), পারমাণবিক সংখ্যা ও ভরসংখ্যা, রাদারফোর্ড ও বোরের পরমাণু মডেল, আর শক্তিস্তর ও উপশক্তিস্তরে ইলেকট্রন কীভাবে সাজানো থাকে। শেষে পরিচিত হবে আইসোটোপের সাথে, জানবে ক্লোরিনের পারমাণবিক ভর কেন পূর্ণসংখ্যা না হয়ে ৩৫.৫, আর দেখবে হাসপাতাল, কৃষিখেত ও রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রে তেজস্ক্রিয় আইসোটোপ কীভাবে কাজে লাগে।
+## objectives
+- মৌল, যৌগ ও মিশ্রণের পার্থক্য করতে এবং পরমাণু ও অণু ব্যাখ্যা করতে পারবে
+- মৌলের ইংরেজি ও ল্যাটিন নাম থেকে প্রতীক লিখতে পারবে
+- রাসায়নিক সংকেত পড়তে পারবে: নিচের ছোট সংখ্যা আর সামনের সংখ্যা (সহগ) কী বোঝায়
+- ইলেকট্রন, প্রোটন ও নিউট্রনের আধান ও ভর বর্ণনা করতে পারবে
+- পারমাণবিক সংখ্যা ও ভরসংখ্যা ব্যাখ্যা করতে এবং পরমাণুর ইলেকট্রন, প্রোটন ও নিউট্রন সংখ্যা বের করতে পারবে
+- রাদারফোর্ড ও বোরের পরমাণু মডেল বর্ণনা করতে এবং কোনটি বেশি গ্রহণযোগ্য ও কেন, তা ব্যাখ্যা করতে পারবে
+- পরমাণুর (Z = ৩০ পর্যন্ত) ইলেকট্রনগুলো শক্তিস্তর ও উপশক্তিস্তরে বিন্যাস করতে পারবে
+- আইসোটোপ এবং তেজস্ক্রিয় আইসোটোপের ব্যবহার ও ক্ষতিকর দিক ব্যাখ্যা করতে পারবে
+- আপেক্ষিক পারমাণবিক ভর (আইসোটোপের শতকরা পরিমাণ থেকেও) এবং আপেক্ষিক আণবিক ভর হিসাব করতে পারবে
+
+@@ 3.1
+@related 3.2 3.3 2.1
+== en
+## what
+An **element** is a pure substance that cannot be broken down into any simpler substance: however you divide it, you get only that element (gold, oxygen, carbon). A **compound** is a pure substance made of two or more elements joined in a **fixed ratio** (water, chalk, table salt).
+## simple
+Take a piece of pure gold and cut it in half, then in half again, and again. However small the piece, it is still gold. No chemical trick will split gold into something simpler. That is what makes gold an **element** (মৌল).
+
+Now take some water. Pass electricity through it and it splits into two gases: **hydrogen** and **oxygen**. So water is not an element; it is built from two elements. Heat a piece of writing chalk strongly and analyse it: you find **calcium, carbon and oxygen**. Substances like these are **compounds** (যৌগ).
+
+**How many elements are there?** So far **118** elements have been discovered. Most of them are found in nature; the rest were made in laboratories and are called **synthetic elements** (textbooks give slightly different counts of natural elements, usually 94 or 98, because a few occur only in tiny traces). Your own body contains about 26 different elements, mostly oxygen, carbon, hydrogen and nitrogen.
+
+**Two big facts about compounds:**
+- **Fixed ratio.** Water collected from a tube-well in Rajshahi, from the Padma or from a rain shower always contains hydrogen and oxygen atoms in the ratio **2 : 1**. A compound's recipe never changes.
+- **New properties.** A compound behaves completely differently from the elements it is made of. Hydrogen and oxygen are gases at room temperature, and hydrogen even burns; yet water, made of them, is a liquid that puts out fire. Sodium is a soft metal that reacts violently with water, and chlorine is a poisonous green gas; together they make **sodium chloride**, the salt we sprinkle on our food.
+
+**What about a mixture?** If you stir sugar into water, or sand into salt, no fixed ratio is needed and each part keeps its own properties: the sugar water is still sweet, and you can get the sugar back by evaporating the water. That is a **mixture** (মিশ্রণ), not a compound. Air is a mixture of nitrogen, oxygen, argon, carbon dioxide and other gases.
+## analogy
+Think of the letters of the alphabet and the words made from them. Letters (like elements) cannot be split into anything simpler. A word (like a compound) uses letters in a fixed order and number: "tea" is always t-e-a, and it means something no single letter means. A handful of scattered Scrabble tiles in a bag is like a mixture: any amounts, no fixed pattern, each tile still itself.
+## definition
+**Element (মৌলিক পদార্থ)**: a pure substance that cannot be broken down into two or more different substances by chemical means; it consists of only one kind of atom (atoms with the same atomic number).
+
+**Compound (যৌগিক পদার্থ)**: a pure substance formed when two or more elements combine chemically in a fixed ratio by mass (and by number of atoms). Its properties are different from those of its constituent elements.
+
+**Mixture**: two or more substances mixed in any ratio without chemical combination; each component keeps its own properties and can be separated by physical methods.
+## why
+Why does a compound behave so differently from its elements? Because in a compound the atoms are **chemically bonded**: they share or transfer electrons and form a new particle (a molecule or an ionic lattice). The properties we see (colour, state, taste, reactivity) come from these new particles, not from the separate atoms. In a mixture no bonds form, so every component keeps its own particles and its own properties.
+## terms
+Element (মৌল) | Pure substance made of only one kind of atom; cannot be split into simpler substances
+Compound (যৌগ) | Pure substance of two or more elements chemically combined in a fixed ratio
+Mixture (মিশ্রণ) | Substances mixed in any ratio without chemical combination
+Synthetic element | An element made in the laboratory (e.g. technetium and most elements beyond uranium)
+## real
+The iodised salt sold in Bangladesh is a mixture: sodium chloride (a compound) with a very small amount of an iodine compound added to prevent iodine deficiency. The iron rod in a building is almost pure iron, an element, while the rust that forms on it is a compound of iron, oxygen and water.
+## example
+Q: Classify each as element, compound or mixture: (a) copper wire, (b) water, (c) air, (d) carbon dioxide, (e) sugar dissolved in tea.
+Solution: (a) copper: element (only copper atoms). (b) water: compound (H and O in a fixed 2 : 1 ratio). (c) air: mixture (N₂, O₂, Ar, CO₂ … in varying amounts). (d) carbon dioxide: compound (one C to two O). (e) sweet tea: mixture (you can add as much sugar as you like).
+> Ask two questions: can it be broken into simpler substances? If yes, is the ratio fixed?
+Answer: Elements: (a). Compounds: (b), (d). Mixtures: (c), (e).
+## example
+Q: Hydrogen and oxygen are both gases that help burning (hydrogen burns, oxygen supports burning). Why doesn't water, made from them, burn or help things burn?
+Solution: In water the hydrogen and oxygen atoms are chemically bonded into H₂O molecules. The new molecule has its own properties, which are completely different from those of hydrogen gas and oxygen gas.
+Answer: Because a compound's properties are different from those of its elements.
+## mistakes
+x Water is a mixture of hydrogen and oxygen.
+v Water is a compound: its hydrogen and oxygen are chemically bonded in a fixed 2 : 1 ratio, and it has properties quite unlike either gas.
+x A compound keeps the properties of the elements in it.
+v A compound has new properties; sodium chloride is neither a reactive metal nor a poisonous gas.
+x Air is a compound because it is always around us.
+v Air is a mixture; its composition varies (for example, water vapour changes from day to day).
+## remember
+- Element: only one kind of atom; cannot be broken into simpler substances. 118 known.
+- Compound: two or more elements chemically combined in a fixed ratio; new properties.
+- Mixture: any ratio, no chemical bond, components keep their properties.
+- Water: H : O = 2 : 1 wherever it comes from.
+## think
+When you boil salt water until all the water is gone, salt is left behind. Does this show that salt water is a compound or a mixture? Why?
+## quiz
+? Which of these is an element?
+- Water
+- Salt
+* Oxygen
+- Chalk
+= Oxygen cannot be broken into simpler substances; the others are compounds.
+? Chalk, on analysis, gives calcium, carbon and oxygen. So chalk is:
+- An element
+* A compound
+- A mixture of three gases
+- A synthetic element
+= It is made of more than one element chemically combined in a fixed ratio.
+? The ratio of hydrogen atoms to oxygen atoms in any sample of pure water is:
+- 1 : 1
+* 2 : 1
+- 1 : 2
+- It depends on where the water comes from
+= A compound always has a fixed ratio: H₂O has 2 H for 1 O.
+? Which statement is true for a mixture but NOT for a compound?
+- It is made of more than one element
+* Its components can be present in any ratio
+- It has a fixed composition
+- It has properties different from its components
+= Only a mixture can have any ratio; a compound's ratio is fixed.
+== bn
+## what
+যে বিশুদ্ধ পদার্থকে ভেঙে আর কোনো সরল পদার্থ পাওয়া যায় না, যতই ভাঙো শুধু সেই পদার্থই পাওয়া যায় (সোনা, অক্সিজেন, কার্বন), তাকে **মৌলিক পদার্থ বা মৌল** বলে। দুই বা ততোধিক মৌল **নির্দিষ্ট অনুপাতে** রাসায়নিকভাবে যুক্ত হয়ে যে বিশুদ্ধ পদার্থ তৈরি হয় (পানি, চক, খাবার লবণ), তাকে **যৌগিক পদার্থ বা যৌগ** বলে।
+## simple
+এক টুকরা খাঁটি সোনা নাও, অর্ধেক করো, আবার অর্ধেক করো, আবারও। টুকরা যত ছোটই হোক, সেটা সোনাই থাকে। কোনো রাসায়নিক কৌশলেই সোনাকে এর চেয়ে সরল কিছুতে ভাঙা যায় না। এ কারণেই সোনা একটি **মৌল**।
+
+এবার একটু পানি নাও। এর মধ্য দিয়ে বিদ্যুৎ চালালে এটি দুটি গ্যাসে ভেঙে যায়: **হাইড্রোজেন** আর **অক্সিজেন**। তাহলে পানি মৌল নয়; এটি দুটি মৌল দিয়ে গড়া। লেখার চককে বিশ্লেষণ করলে পাওয়া যায় **ক্যালসিয়াম, কার্বন ও অক্সিজেন**। এ ধরনের পদার্থই **যৌগ**।
+
+**মৌল কয়টি?** এ পর্যন্ত **১১৮টি** মৌল আবিষ্কৃত হয়েছে। এদের বেশিরভাগ প্রকৃতিতে পাওয়া যায়; বাকিগুলো গবেষণাগারে তৈরি, এদের বলে **কৃত্রিম মৌল** (প্রকৃতিতে পাওয়া মৌলের সংখ্যা একেক বইয়ে একেক রকম, সাধারণত ৯৪ বা ৯৮, কারণ কয়েকটি মৌল প্রকৃতিতে খুবই সামান্য চিহ্নমাত্রায় থাকে)। তোমার নিজের শরীরেই প্রায় ২৬ ধরনের মৌল আছে, যার বেশিরভাগ অক্সিজেন, কার্বন, হাইড্রোজেন আর নাইট্রোজেন।
+
+**যৌগ সম্পর্কে দুটি বড় কথা:**
+- **নির্দিষ্ট অনুপাত।** রাজশাহীর নলকূপ, পদ্মা নদী বা বৃষ্টি, যেখান থেকেই পানি নাও, তাতে হাইড্রোজেন ও অক্সিজেন পরমাণুর অনুপাত সবসময় **২ : ১**। যৌগের "রেসিপি" কখনো বদলায় না।
+- **নতুন ধর্ম।** যৌগের আচরণ তার উপাদান মৌলগুলো থেকে সম্পূর্ণ আলাদা। সাধারণ তাপমাত্রায় হাইড্রোজেন ও অক্সিজেন গ্যাস, আর হাইড্রোজেন তো জ্বলেও; অথচ এদের তৈরি পানি তরল, যা আগুন নেভায়। সোডিয়াম একটি নরম ধাতু যা পানির সাথে প্রচণ্ড বিক্রিয়া করে, আর ক্লোরিন বিষাক্ত সবুজাভ গ্যাস; অথচ দুটো মিলে তৈরি হয় **সোডিয়াম ক্লোরাইড**, যে লবণ আমরা খাবারে দিই।
+
+**তাহলে মিশ্রণ কী?** পানিতে চিনি গুললে বা লবণে বালু মেশালে কোনো নির্দিষ্ট অনুপাত লাগে না, আর প্রতিটি উপাদান নিজের ধর্ম ধরে রাখে: চিনির শরবত মিষ্টিই থাকে, আর পানি বাষ্প করে চিনি ফেরত পাওয়া যায়। এটা **মিশ্রণ**, যৌগ নয়। বাতাস হলো নাইট্রোজেন, অক্সিজেন, আর্গন, কার্বন ডাই-অক্সাইডসহ নানা গ্যাসের মিশ্রণ।
+## analogy
+বর্ণমালার অক্ষর আর সেগুলো দিয়ে বানানো শব্দের কথা ভাবো। অক্ষরকে (মৌলের মতো) আর সরল কিছুতে ভাঙা যায় না। একটি শব্দ (যৌগের মতো) নির্দিষ্ট অক্ষর নির্দিষ্ট সংখ্যায় ব্যবহার করে: "চা" সবসময় চ আর আ-কার, আর এর এমন অর্থ আছে যা আলাদা কোনো অক্ষরের নেই। আর একটা থলেতে এলোমেলো কিছু অক্ষরের টুকরা হলো মিশ্রণের মতো: যত খুশি পরিমাণ, কোনো নির্দিষ্ট নকশা নেই, প্রতিটি টুকরা নিজের মতোই থাকে।
+## definition
+**মৌলিক পদার্থ (Element)**: যে বিশুদ্ধ পদার্থকে রাসায়নিক উপায়ে ভেঙে দুই বা ততোধিক ভিন্ন পদার্থ পাওয়া যায় না; এটি মাত্র এক ধরনের পরমাণু (একই পারমাণবিক সংখ্যার পরমাণু) দিয়ে গঠিত।
+
+**যৌগিক পদার্থ (Compound)**: দুই বা ততোধিক মৌল নির্দিষ্ট ভর-অনুপাতে (এবং নির্দিষ্ট পরমাণু-সংখ্যার অনুপাতে) রাসায়নিকভাবে যুক্ত হয়ে যে বিশুদ্ধ পদার্থ গঠন করে। এর ধর্ম উপাদান মৌলগুলোর ধর্ম থেকে আলাদা।
+
+**মিশ্রণ (Mixture)**: রাসায়নিক সংযোগ ছাড়াই দুই বা ততোধিক পদার্থ যেকোনো অনুপাতে মিশে থাকলে তাকে মিশ্রণ বলে; প্রতিটি উপাদান নিজের ধর্ম বজায় রাখে এবং ভৌত উপায়ে আলাদা করা যায়।
+## why
+যৌগের আচরণ তার মৌলগুলো থেকে এত আলাদা কেন? কারণ যৌগে পরমাণুগুলো **রাসায়নিক বন্ধনে** যুক্ত থাকে: তারা ইলেকট্রন ভাগাভাগি বা আদান-প্রদান করে নতুন কণা (অণু বা আয়নের কেলাস) তৈরি করে। আমরা যে ধর্ম দেখি (রং, অবস্থা, স্বাদ, বিক্রিয়াশীলতা), তা আসে এই নতুন কণা থেকে, আলাদা আলাদা পরমাণু থেকে নয়। মিশ্রণে কোনো বন্ধন তৈরি হয় না, তাই প্রতিটি উপাদানের কণা ও ধর্ম অপরিবর্তিত থাকে।
+## terms
+মৌল (Element) | মাত্র এক ধরনের পরমাণু দিয়ে গঠিত বিশুদ্ধ পদার্থ; সরলতর পদার্থে ভাঙা যায় না
+যৌগ (Compound) | দুই বা ততোধিক মৌল নির্দিষ্ট অনুপাতে রাসায়নিকভাবে যুক্ত হয়ে তৈরি বিশুদ্ধ পদার্থ
+মিশ্রণ (Mixture) | রাসায়নিক সংযোগ ছাড়া যেকোনো অনুপাতে মেশানো পদার্থ
+কৃত্রিম মৌল | গবেষণাগারে তৈরি মৌল (যেমন টেকনেশিয়াম, ইউরেনিয়ামের পরের মৌলগুলো)
+## real
+বাংলাদেশে বিক্রি হওয়া আয়োডিনযুক্ত লবণ একটি মিশ্রণ: সোডিয়াম ক্লোরাইড (যৌগ) আর তার সাথে সামান্য আয়োডিনের যৌগ, যা আয়োডিনের অভাবজনিত সমস্যা ঠেকাতে মেশানো হয়। বাড়ি বানানোর রড প্রায় খাঁটি লোহা, অর্থাৎ মৌল; কিন্তু এর গায়ে যে মরিচা পড়ে তা লোহা, অক্সিজেন ও পানির একটি যৌগ।
+## example
+প্রশ্ন: মৌল, যৌগ না মিশ্রণ, শনাক্ত করো: (ক) তামার তার, (খ) পানি, (গ) বাতাস, (ঘ) কার্বন ডাই-অক্সাইড, (ঙ) চায়ে গোলানো চিনি।
+সমাধান: (ক) তামা: মৌল (শুধু কপার পরমাণু)। (খ) পানি: যৌগ (H ও O নির্দিষ্ট ২ : ১ অনুপাতে)। (গ) বাতাস: মিশ্রণ (N₂, O₂, Ar, CO₂ … পরিবর্তনশীল পরিমাণে)। (ঘ) কার্বন ডাই-অক্সাইড: যৌগ (একটি C-এর সাথে দুটি O)। (ঙ) মিষ্টি চা: মিশ্রণ (যত খুশি চিনি দেওয়া যায়)।
+> দুটি প্রশ্ন করো: একে কি সরলতর পদার্থে ভাঙা যায়? যদি যায়, অনুপাত কি নির্দিষ্ট?
+উত্তর: মৌল: (ক)। যৌগ: (খ), (ঘ)। মিশ্রণ: (গ), (ঙ)।
+## example
+প্রশ্ন: হাইড্রোজেন ও অক্সিজেন দুটিই দহনের সাথে জড়িত গ্যাস (হাইড্রোজেন জ্বলে, অক্সিজেন জ্বলতে সাহায্য করে)। তাহলে এদের তৈরি পানি কেন জ্বলে না বা জ্বলতে সাহায্য করে না?
+সমাধান: পানিতে হাইড্রোজেন ও অক্সিজেন পরমাণু রাসায়নিক বন্ধনে যুক্ত হয়ে H₂O অণু তৈরি করেছে। নতুন অণুটির নিজস্ব ধর্ম আছে, যা হাইড্রোজেন গ্যাস ও অক্সিজেন গ্যাসের ধর্ম থেকে সম্পূর্ণ আলাদা।
+উত্তর: কারণ যৌগের ধর্ম তার উপাদান মৌলগুলোর ধর্ম থেকে ভিন্ন।
+## mistakes
+x পানি হলো হাইড্রোজেন ও অক্সিজেনের মিশ্রণ।
+v পানি যৌগ: এর হাইড্রোজেন ও অক্সিজেন নির্দিষ্ট ২ : ১ অনুপাতে রাসায়নিক বন্ধনে যুক্ত, আর এর ধর্ম দুটি গ্যাসের কোনোটির মতোই নয়।
+x যৌগ তার মৌলগুলোর ধর্ম ধরে রাখে।
+v যৌগের ধর্ম নতুন; সোডিয়াম ক্লোরাইড বিক্রিয়াশীল ধাতুও নয়, বিষাক্ত গ্যাসও নয়।
+x বাতাস সবসময় আমাদের চারপাশে থাকে, তাই এটি যৌগ।
+v বাতাস মিশ্রণ; এর উপাদানের পরিমাণ বদলায় (যেমন জলীয় বাষ্পের পরিমাণ দিনে দিনে বদলায়)।
+## remember
+- মৌল: মাত্র এক ধরনের পরমাণু; সরলতর পদার্থে ভাঙা যায় না। জানা মৌল ১১৮টি।
+- যৌগ: দুই বা ততোধিক মৌল নির্দিষ্ট অনুপাতে রাসায়নিকভাবে যুক্ত; ধর্ম নতুন।
+- মিশ্রণ: যেকোনো অনুপাত, রাসায়নিক বন্ধন নেই, উপাদানগুলো নিজের ধর্ম রাখে।
+- পানিতে H : O = ২ : ১, পানি যেখান থেকেই আসুক।
+## think
+লবণপানি ফুটিয়ে সব পানি শুকিয়ে ফেললে তলায় লবণ পড়ে থাকে। এতে কি বোঝা যায় লবণপানি যৌগ, নাকি মিশ্রণ? কেন?
+## quiz
+? নিচের কোনটি মৌল?
+- পানি
+- লবণ
+* অক্সিজেন
+- চক
+= অক্সিজেনকে সরলতর পদার্থে ভাঙা যায় না; বাকিগুলো যৌগ।
+? চককে বিশ্লেষণ করলে ক্যালসিয়াম, কার্বন ও অক্সিজেন পাওয়া যায়। তাই চক:
+- একটি মৌল
+* একটি যৌগ
+- তিনটি গ্যাসের মিশ্রণ
+- একটি কৃত্রিম মৌল
+= এটি একাধিক মৌল নির্দিষ্ট অনুপাতে রাসায়নিকভাবে যুক্ত হয়ে তৈরি।
+? যেকোনো বিশুদ্ধ পানির নমুনায় হাইড্রোজেন ও অক্সিজেন পরমাণুর অনুপাত:
+- ১ : ১
+* ২ : ১
+- ১ : ২
+- পানি কোথা থেকে এসেছে তার ওপর নির্ভর করে
+= যৌগের অনুপাত সবসময় নির্দিষ্ট: H₂O-তে ১টি O-এর সাথে ২টি H।
+? কোন কথাটি মিশ্রণের ক্ষেত্রে সত্য কিন্তু যৌগের ক্ষেত্রে নয়?
+- এটি একাধিক মৌল দিয়ে তৈরি
+* এর উপাদানগুলো যেকোনো অনুপাতে থাকতে পারে
+- এর সংযুতি নির্দিষ্ট
+- এর ধর্ম উপাদানগুলোর ধর্ম থেকে ভিন্ন
+= শুধু মিশ্রণেই যেকোনো অনুপাত সম্ভব; যৌগের অনুপাত নির্দিষ্ট।
+
+@@ 3.2
+@visual k3sort
+@related 3.1 3.4 2.2
+== en
+## what
+An **atom** is the smallest particle of an element that still has the properties of that element. A **molecule** is formed when two or more atoms are held together by chemical bonds. If the atoms are of the same element we get a **molecule of an element** (O₂); if they are of different elements we get a **molecule of a compound** (CO₂).
+## simple
+Imagine cutting a lump of sulfur into smaller and smaller pieces. Eventually you reach a single particle that is still sulfur and behaves like sulfur. Cut that and it would no longer be sulfur at all. That smallest "still-sulfur" particle is a **sulfur atom** (পরমাণু). A nitrogen atom has the properties of nitrogen; an oxygen atom has the properties of oxygen.
+
+Atoms rarely stay alone. They hold on to each other with **chemical bonds** (you will study bonds in Chapter 5). A group of bonded atoms is a **molecule** (অণু).
+
+**Molecules of elements.** Sometimes the bonded atoms are all the same:
+- two oxygen atoms → one oxygen molecule, **O₂**
+- two hydrogen atoms → **H₂**; two nitrogen atoms → **N₂**; two chlorine atoms → **Cl₂**
+- three oxygen atoms → ozone, **O₃**; four phosphorus atoms → **P₄**; eight sulfur atoms → **S₈**
+
+**Molecules of compounds.** When atoms of different elements bond, we get a molecule of a compound:
+- one carbon atom + two oxygen atoms → carbon dioxide, **CO₂**
+- two hydrogen atoms + one oxygen atom → water, **H₂O**
+- one nitrogen atom + three hydrogen atoms → ammonia, **NH₃**
+
+**Atoms that stay single.** Noble gases such as helium (He), neon (Ne) and argon (Ar) do not bond even with themselves; their smallest free particle is a single atom, so their molecule is just one atom (a *monatomic* molecule).
+
+So: every molecule is made of atoms, but not every atom is part of a molecule, and a molecule of an element contains only one kind of atom.
+## analogy
+Think of atoms as Lego bricks. A single red brick is an "atom". Snap two red bricks together and you have a small model made of one colour: a molecule of an element, like O₂. Snap a red brick to two blue bricks and you have a new two-colour model: a molecule of a compound, like CO₂.
+## definition
+**Atom (পরমাণু)**: the smallest particle of an element that has the characteristic properties of that element.
+
+**Molecule (অণু)**: a particle formed by two or more atoms joined by chemical bonds; it is the smallest particle of an element or compound that can exist freely and shows its properties.
+
+**Molecule of an element**: a molecule whose atoms are all of the same element (H₂, O₂, N₂, O₃).
+**Molecule of a compound**: a molecule containing atoms of two or more different elements (H₂O, CO₂, NH₃).
+## why
+Why do most atoms join into molecules instead of staying alone? A lone atom of hydrogen, oxygen or chlorine is unstable: its outer electrons are arranged in a way that is not "complete". By bonding with other atoms (sharing electrons), each atom gets a more stable arrangement, so the pair or group has lower energy than the separate atoms. Noble gas atoms already have a stable arrangement, which is why they stay single.
+## terms
+Atom (পরমাণু) | Smallest particle of an element that shows its properties
+Molecule (অণু) | Two or more atoms joined by chemical bonds
+Molecule of an element | All atoms the same, e.g. O₂, N₂, P₄
+Molecule of a compound | Atoms of different elements, e.g. H₂O, CO₂
+Monatomic | Existing as single atoms, e.g. He, Ne, Ar
+## visual
+Look at each particle picture and decide: atoms of an element, molecules of an element, molecules of a compound, or a mixture? Tap your answer and check.
+## real
+The oxygen we breathe is O₂. High up in the atmosphere some oxygen exists as ozone, O₃, a molecule of the same element but with three atoms; the ozone layer absorbs harmful ultraviolet rays from the sun. The gas in a filled balloon at a mela may be helium, whose particles are single He atoms.
+## example
+Q: Which of these are molecules of elements and which are molecules of compounds? N₂, NH₃, O₃, HCl, P₄, CH₄.
+Solution: Molecules of elements (only one kind of atom): N₂, O₃, P₄. Molecules of compounds (two or more kinds of atom): NH₃ (N, H), HCl (H, Cl), CH₄ (C, H).
+Answer: Elements: N₂, O₃, P₄. Compounds: NH₃, HCl, CH₄.
+## example
+Q: How many atoms are there in one molecule of each: O₂, O₃, H₂O, CO₂, S₈?
+Solution: O₂: 2; O₃: 3; H₂O: 2 + 1 = 3; CO₂: 1 + 2 = 3; S₈: 8.
+> The small number after a symbol tells how many of that atom are in the molecule; no number means one.
+Answer: 2, 3, 3, 3 and 8 atoms.
+## mistakes
+x A molecule is always made of different kinds of atoms.
+v A molecule of an element (O₂, N₂, S₈) has only one kind of atom.
+x An atom and a molecule of oxygen are the same thing.
+v An oxygen atom is O; an oxygen molecule is O₂, two atoms bonded together.
+x All gases are made of molecules with two atoms.
+v Noble gases (He, Ne, Ar) exist as single atoms; ozone has three atoms.
+## remember
+- Atom: smallest particle of an element with its properties.
+- Molecule: two or more atoms joined by chemical bonds.
+- Molecule of an element: O₂, H₂, N₂, Cl₂, O₃, P₄, S₈.
+- Molecule of a compound: H₂O, CO₂, NH₃, HCl, CH₄.
+- Noble gases exist as single atoms.
+## think
+Oxygen gas (O₂) keeps us alive, while ozone (O₃) at ground level irritates the lungs. Both contain only oxygen atoms. What does this tell you about how the number of atoms in a molecule affects its properties?
+## quiz
+? Which is a molecule of an element?
+- CO₂
+- H₂O
+* N₂
+- NH₃
+= N₂ contains only nitrogen atoms.
+? How many atoms are there in one molecule of ammonia, NH₃?
+- 1
+- 3
+* 4
+- 5
+= 1 N + 3 H = 4 atoms.
+? The smallest particle of an element that shows the properties of that element is:
+* An atom
+- A molecule of a compound
+- An electron
+- A mixture
+= By definition, that is an atom.
+? Which substance exists as single atoms?
+- Oxygen
+- Chlorine
+* Argon
+- Hydrogen
+= Argon is a noble gas; its atoms do not bond with each other.
+== bn
+## what
+মৌলের যে ক্ষুদ্রতম কণায় ঐ মৌলের ধর্ম বজায় থাকে, তাকে **পরমাণু** বলে। দুই বা ততোধিক পরমাণু রাসায়নিক বন্ধনে যুক্ত থাকলে তাকে **অণু** বলে। পরমাণুগুলো একই মৌলের হলে তা **মৌলের অণু** (O₂), আর ভিন্ন ভিন্ন মৌলের হলে তা **যৌগের অণু** (CO₂)।
+## simple
+ধরো এক টুকরা সালফারকে ছোট থেকে আরও ছোট করে কাটছ। একসময় এমন একটি কণায় পৌঁছাবে যা তখনো সালফার, আর সালফারের মতোই আচরণ করে। সেটাকে ভাঙলে আর সালফার থাকবে না। "এখনো সালফার" এমন সেই ক্ষুদ্রতম কণাটিই **সালফারের পরমাণু**। নাইট্রোজেনের পরমাণুতে নাইট্রোজেনের ধর্ম থাকে, অক্সিজেনের পরমাণুতে অক্সিজেনের ধর্ম।
+
+পরমাণু সাধারণত একা থাকে না। এরা **রাসায়নিক বন্ধন** দিয়ে একে অপরকে আঁকড়ে ধরে (বন্ধন সম্পর্কে বিস্তারিত শিখবে পঞ্চম অধ্যায়ে)। বন্ধনে যুক্ত পরমাণুর একটি দলই হলো **অণু**।
+
+**মৌলের অণু।** কখনো বন্ধনে যুক্ত সব পরমাণু একই রকম:
+- দুটি অক্সিজেন পরমাণু → একটি অক্সিজেন অণু, **O₂**
+- দুটি হাইড্রোজেন পরমাণু → **H₂**; দুটি নাইট্রোজেন পরমাণু → **N₂**; দুটি ক্লোরিন পরমাণু → **Cl₂**
+- তিনটি অক্সিজেন পরমাণু → ওজোন, **O₃**; চারটি ফসফরাস পরমাণু → **P₄**; আটটি সালফার পরমাণু → **S₈**
+
+**যৌগের অণু।** ভিন্ন ভিন্ন মৌলের পরমাণু যুক্ত হলে পাওয়া যায় যৌগের অণু:
+- একটি কার্বন পরমাণু + দুটি অক্সিজেন পরমাণু → কার্বন ডাই-অক্সাইড, **CO₂**
+- দুটি হাইড্রোজেন পরমাণু + একটি অক্সিজেন পরমাণু → পানি, **H₂O**
+- একটি নাইট্রোজেন পরমাণু + তিনটি হাইড্রোজেন পরমাণু → অ্যামোনিয়া, **NH₃**
+
+**যে পরমাণু একা থাকে।** হিলিয়াম (He), নিয়ন (Ne), আর্গন (Ar) এর মতো নিষ্ক্রিয় গ্যাসগুলো নিজেদের সাথেও বন্ধন গড়ে না; এদের ক্ষুদ্রতম মুক্ত কণা একটি মাত্র পরমাণু, তাই এদের অণু আসলে একটি পরমাণুই (*এক-পরমাণুক* অণু)।
+
+সুতরাং: প্রতিটি অণু পরমাণু দিয়ে তৈরি, কিন্তু প্রতিটি পরমাণু অণুর অংশ নয়; আর মৌলের অণুতে শুধু এক ধরনের পরমাণু থাকে।
+## analogy
+পরমাণুকে লেগো ব্রিক ভাবো। একটি লাল ব্রিক হলো একটি "পরমাণু"। দুটি লাল ব্রিক জুড়ে দিলে এক রঙের একটি ছোট মডেল হয়: মৌলের অণু, যেমন O₂। একটি লাল ব্রিকের সাথে দুটি নীল ব্রিক জুড়লে তৈরি হয় দুই রঙের নতুন মডেল: যৌগের অণু, যেমন CO₂।
+## definition
+**পরমাণু (Atom)**: মৌলের যে ক্ষুদ্রতম কণায় ঐ মৌলের বৈশিষ্ট্যসূচক ধর্ম বর্তমান থাকে।
+
+**অণু (Molecule)**: দুই বা ততোধিক পরমাণু রাসায়নিক বন্ধনে যুক্ত হয়ে যে কণা তৈরি করে; এটি মৌল বা যৌগের ক্ষুদ্রতম কণা যা স্বাধীনভাবে থাকতে পারে এবং ঐ পদার্থের ধর্ম প্রকাশ করে।
+
+**মৌলের অণু**: যে অণুর সব পরমাণু একই মৌলের (H₂, O₂, N₂, O₃)।
+**যৌগের অণু**: যে অণুতে দুই বা ততোধিক ভিন্ন মৌলের পরমাণু থাকে (H₂O, CO₂, NH₃)।
+## why
+বেশিরভাগ পরমাণু একা না থেকে অণু গঠন করে কেন? একা একটি হাইড্রোজেন, অক্সিজেন বা ক্লোরিন পরমাণু অস্থিতিশীল: এর বাইরের ইলেকট্রনগুলোর বিন্যাস "পূর্ণ" নয়। অন্য পরমাণুর সাথে বন্ধন গড়ে (ইলেকট্রন ভাগাভাগি করে) প্রতিটি পরমাণু বেশি স্থিতিশীল বিন্যাস পায়, তাই জোড়া বা দলের শক্তি আলাদা পরমাণুগুলোর চেয়ে কম হয়। নিষ্ক্রিয় গ্যাসের পরমাণুর বিন্যাস আগে থেকেই স্থিতিশীল, তাই এরা একা থাকে।
+## terms
+পরমাণু (Atom) | মৌলের ক্ষুদ্রতম কণা যাতে মৌলের ধর্ম থাকে
+অণু (Molecule) | রাসায়নিক বন্ধনে যুক্ত দুই বা ততোধিক পরমাণু
+মৌলের অণু | সব পরমাণু একই মৌলের, যেমন O₂, N₂, P₄
+যৌগের অণু | ভিন্ন ভিন্ন মৌলের পরমাণু, যেমন H₂O, CO₂
+এক-পরমাণুক | একক পরমাণু হিসেবে থাকে, যেমন He, Ne, Ar
+## visual
+প্রতিটি কণার ছবি দেখে ঠিক করো: মৌলের পরমাণু, মৌলের অণু, যৌগের অণু, নাকি মিশ্রণ? উত্তরে চাপ দিয়ে মিলিয়ে দেখো।
+## real
+আমরা যে অক্সিজেন শ্বাসের সাথে নিই তা O₂। বায়ুমণ্ডলের অনেক ওপরে কিছু অক্সিজেন থাকে ওজোন, O₃ হিসেবে, একই মৌলের অণু কিন্তু তিনটি পরমাণুর; ওজোন স্তর সূর্যের ক্ষতিকর অতিবেগুনি রশ্মি শোষণ করে। মেলায় কেনা উড়ন্ত বেলুনে হিলিয়াম থাকতে পারে, যার কণাগুলো একক He পরমাণু।
+## example
+প্রশ্ন: নিচের কোনগুলো মৌলের অণু আর কোনগুলো যৌগের অণু? N₂, NH₃, O₃, HCl, P₄, CH₄।
+সমাধান: মৌলের অণু (এক ধরনের পরমাণু): N₂, O₃, P₄। যৌগের অণু (দুই বা ততোধিক ধরনের পরমাণু): NH₃ (N, H), HCl (H, Cl), CH₄ (C, H)।
+উত্তর: মৌলের অণু: N₂, O₃, P₄। যৌগের অণু: NH₃, HCl, CH₄।
+## example
+প্রশ্ন: প্রতিটির একটি অণুতে কয়টি পরমাণু আছে: O₂, O₃, H₂O, CO₂, S₈?
+সমাধান: O₂: ২; O₃: ৩; H₂O: ২ + ১ = ৩; CO₂: ১ + ২ = ৩; S₈: ৮।
+> প্রতীকের পরের ছোট সংখ্যাটি বলে অণুতে ঐ পরমাণু কয়টি আছে; সংখ্যা না থাকলে একটি।
+উত্তর: যথাক্রমে ২, ৩, ৩, ৩ ও ৮টি পরমাণু।
+## mistakes
+x অণু সবসময় ভিন্ন ভিন্ন পরমাণু দিয়ে তৈরি।
+v মৌলের অণুতে (O₂, N₂, S₈) একই ধরনের পরমাণু থাকে।
+x অক্সিজেনের পরমাণু আর অণু একই জিনিস।
+v অক্সিজেন পরমাণু হলো O; অক্সিজেন অণু হলো O₂, দুটি পরমাণু বন্ধনে যুক্ত।
+x সব গ্যাসের অণুতে দুটি করে পরমাণু থাকে।
+v নিষ্ক্রিয় গ্যাস (He, Ne, Ar) একক পরমাণু হিসেবে থাকে; ওজোনে তিনটি পরমাণু।
+## remember
+- পরমাণু: মৌলের ধর্মযুক্ত ক্ষুদ্রতম কণা।
+- অণু: রাসায়নিক বন্ধনে যুক্ত দুই বা ততোধিক পরমাণু।
+- মৌলের অণু: O₂, H₂, N₂, Cl₂, O₃, P₄, S₈।
+- যৌগের অণু: H₂O, CO₂, NH₃, HCl, CH₄।
+- নিষ্ক্রিয় গ্যাস একক পরমাণু হিসেবে থাকে।
+## think
+অক্সিজেন গ্যাস (O₂) আমাদের বাঁচিয়ে রাখে, অথচ ভূপৃষ্ঠের কাছের ওজোন (O₃) ফুসফুসের ক্ষতি করে। দুটিতেই শুধু অক্সিজেন পরমাণু। এ থেকে অণুতে পরমাণুর সংখ্যা তার ধর্মকে কীভাবে প্রভাবিত করে, সে সম্পর্কে কী বোঝা যায়?
+## quiz
+? কোনটি মৌলের অণু?
+- CO₂
+- H₂O
+* N₂
+- NH₃
+= N₂-তে শুধু নাইট্রোজেন পরমাণু আছে।
+? অ্যামোনিয়ার (NH₃) একটি অণুতে কয়টি পরমাণু?
+- ১
+- ৩
+* ৪
+- ৫
+= ১টি N + ৩টি H = ৪টি পরমাণু।
+? মৌলের যে ক্ষুদ্রতম কণায় ঐ মৌলের ধর্ম থাকে, তা হলো:
+* পরমাণু
+- যৌগের অণু
+- ইলেকট্রন
+- মিশ্রণ
+= সংজ্ঞা অনুযায়ী এটিই পরমাণু।
+? কোন পদার্থ একক পরমাণু হিসেবে থাকে?
+- অক্সিজেন
+- ক্লোরিন
+* আর্গন
+- হাইড্রোজেন
+= আর্গন নিষ্ক্রিয় গ্যাস; এর পরমাণুগুলো নিজেদের মধ্যে বন্ধন গড়ে না।
+
+@@ 3.3
+@visual k3sym
+@related 3.4 3.5 4.2
+== en
+## what
+The **symbol** of an element is a short form of its English or Latin name, one capital letter or a capital letter followed by a small letter. H stands for hydrogen, Cl for chlorine, and Na (from the Latin *Natrium*) for sodium.
+## simple
+Writing "hydrogen", "oxygen" and "sodium chloride" again and again would be slow, and every language would spell them differently. So chemists all over the world use the same short **symbols** (প্রতীক). A Bangladeshi, a Japanese and a Brazilian student all write water as H₂O.
+
+There are three rules.
+
+**Rule (a): the first letter, as a capital.** Hydrogen → **H**, Carbon → **C**, Oxygen → **O**, Nitrogen → **N**, Sulfur → **S**, Phosphorus → **P**, Fluorine → **F**, Iodine → **I**.
+
+**Rule (b): when first letters clash, add a second letter (small).** Many elements start with C. Carbon, discovered long ago, keeps **C**; the others get two letters: Chlorine → **Cl**, Calcium → **Ca**, Cobalt → **Co**, Cadmium → **Cd**, Chromium → **Cr**. The second letter is not always the second letter of the name (Chlorine gives Cl, not Ch), but the first letter is always capital and the second always small.
+
+That small letter matters! **Co** is cobalt, a metal; **CO** (capital C, capital O) is carbon monoxide, a poisonous gas made of two elements.
+
+**Rule (c): some symbols come from Latin names.** These elements were known in ancient times, and their symbols come from their old Latin names:
+
+- Sodium: *Natrium* → **Na**
+- Potassium: *Kalium* → **K**
+- Copper: *Cuprum* → **Cu**
+- Silver: *Argentum* → **Ag**
+- Gold: *Aurum* → **Au**
+- Iron: *Ferrum* → **Fe**
+- Lead: *Plumbum* → **Pb**
+- Tin: *Stannum* → **Sn**
+- Mercury: *Hydrargyrum* ("liquid silver") → **Hg**
+- Antimony: *Stibium* → **Sb**
+- Tungsten: *Wolfram* → **W** (this name is actually German, not Latin, but it is usually listed with these)
+
+(Some books misprint mercury's Latin name as "Hydrurgyrum"; the correct spelling is *Hydrargyrum*.)
+
+Learning these few Latin names by heart saves a lot of confusion: there is no "S" for sodium and no "I" for iron!
+## analogy
+Symbols are like the short codes on bus routes or airport luggage tags: DAC means Dhaka's airport and CGP means Chattogram. The code is sometimes obvious and sometimes comes from an older name, but everyone in the world reads it the same way.
+## definition
+**Symbol of an element (মৌলের প্রতীক)**: the abbreviated form of the English or Latin name of an element. It is written with one capital letter, or a capital letter followed by a small letter. A symbol also represents one atom of that element.
+## why
+Why do we need a system of rules instead of just any abbreviation? With 118 elements, many names start with the same letter. The rules make every symbol unique, and the capital/small pattern lets you read a formula like CoCl₂ without confusion: a capital letter always starts a new element. Using old Latin names for anciently known metals keeps the symbols the same as those chemists have used for about two hundred years, all over the world.
+## terms
+Symbol (প্রতীক) | Short form of an element's English or Latin name, e.g. O, Ca, Fe
+Latin name | Old scientific name from which some symbols come (Natrium → Na)
+Capital + small letter | Two-letter symbols: first letter capital, second small (Cl, not CL)
+## visual
+Tap a card to flip it and see the element's symbol and where it comes from. Try to guess before you flip.
+## real
+Look at a medicine strip from a pharmacy: an iron supplement lists "Fe" and a calcium tablet "Ca". Fertiliser bags in Bangladesh are marked N-P-K for nitrogen, phosphorus and potassium (K, from *Kalium*). Jewellers talk about Au (gold) and Ag (silver) purity.
+## example
+Q: Write the symbols of: nitrogen, calcium, chlorine, sodium, iron, lead, silver.
+Solution: nitrogen N (first letter); calcium Ca, chlorine Cl (two letters because C is taken by carbon); sodium Na (*Natrium*); iron Fe (*Ferrum*); lead Pb (*Plumbum*); silver Ag (*Argentum*).
+Answer: N, Ca, Cl, Na, Fe, Pb, Ag
+## example
+Q: A student wrote the symbol of cobalt as "CO". What is wrong?
+Solution: A capital O after C means a second element (oxygen). "CO" is carbon monoxide, a compound. In a two-letter symbol the second letter must be small.
+Answer: Cobalt is Co (capital C, small o).
+## mistakes
+x The symbol of sodium is S and of potassium is P.
+v Sodium is Na (*Natrium*) and potassium is K (*Kalium*). S is sulfur and P is phosphorus.
+x Two-letter symbols can be written with two capital letters, like CL.
+v The second letter is always small: Cl. Two capitals mean two different elements.
+x The symbol of iron is I.
+v Iron is Fe (*Ferrum*). I is iodine.
+## remember
+- Rule a: first letter, capital (H, C, O, N).
+- Rule b: clash → add a small second letter (Ca, Cl, Co, Cr, Cd).
+- Rule c: Latin names: Na, K, Cu, Ag, Au, Fe, Pb, Sn, Hg, Sb (and W from Wolfram).
+- A symbol also stands for one atom of that element.
+## think
+Why do you think the old metals like gold, silver, copper, iron, tin and lead have symbols from Latin, while newer elements such as oxygen or chlorine do not?
+## quiz
+? The symbol of potassium is:
+- P
+- Po
+* K
+- Pt
+= From its Latin name, *Kalium*.
+? Which symbol is written correctly?
+- CL
+- cl
+* Cl
+- cL
+= First letter capital, second letter small.
+? "Plumbum" is the Latin name of:
+- Platinum
+* Lead
+- Mercury
+- Tin
+= Plumbum → Pb, lead.
+? Which pair is matched correctly?
+- Silver: Si
+- Gold: Go
+* Mercury: Hg
+- Tin: Ti
+= Mercury: Hydrargyrum → Hg. Silver is Ag, gold Au, tin Sn.
+== bn
+## what
+মৌলের ইংরেজি বা ল্যাটিন নামের সংক্ষিপ্ত রূপকে **প্রতীক** বলে; এটি একটি বড় হাতের অক্ষর, অথবা একটি বড় হাতের অক্ষর ও তার পরে একটি ছোট হাতের অক্ষর দিয়ে লেখা হয়। H মানে হাইড্রোজেন, Cl মানে ক্লোরিন, আর Na (ল্যাটিন *Natrium* থেকে) মানে সোডিয়াম।
+## simple
+বারবার "হাইড্রোজেন", "অক্সিজেন", "সোডিয়াম ক্লোরাইড" লেখা সময়সাপেক্ষ, আর একেক ভাষায় বানান একেক রকম। তাই পৃথিবীর সব রসায়নবিদ একই সংক্ষিপ্ত **প্রতীক** ব্যবহার করেন। বাংলাদেশ, জাপান বা ব্রাজিল, সব দেশের শিক্ষার্থী পানিকে লেখে H₂O।
+
+প্রতীক লেখার তিনটি নিয়ম আছে।
+
+**নিয়ম (ক): প্রথম অক্ষর, বড় হাতের।** Hydrogen → **H**, Carbon → **C**, Oxygen → **O**, Nitrogen → **N**, Sulfur → **S**, Phosphorus → **P**, Fluorine → **F**, Iodine → **I**।
+
+**নিয়ম (খ): প্রথম অক্ষর মিলে গেলে একটি দ্বিতীয় (ছোট হাতের) অক্ষর যোগ হয়।** অনেক মৌলের নাম C দিয়ে শুরু। অনেক আগে আবিষ্কৃত কার্বন পেয়েছে **C**; বাকিরা পেয়েছে দুই অক্ষর: Chlorine → **Cl**, Calcium → **Ca**, Cobalt → **Co**, Cadmium → **Cd**, Chromium → **Cr**। দ্বিতীয় অক্ষরটি সবসময় নামের দ্বিতীয় অক্ষর নয় (Chlorine থেকে Cl, Ch নয়), কিন্তু প্রথম অক্ষর সবসময় বড় হাতের আর দ্বিতীয়টি সবসময় ছোট হাতের।
+
+এই ছোট হাতের অক্ষরটা খুব গুরুত্বপূর্ণ! **Co** হলো কোবাল্ট, একটি ধাতু; অথচ **CO** (বড় C, বড় O) হলো কার্বন মনোক্সাইড, দুটি মৌলের তৈরি একটি বিষাক্ত গ্যাস।
+
+**নিয়ম (গ): কিছু প্রতীক এসেছে ল্যাটিন নাম থেকে।** এই মৌলগুলো প্রাচীনকাল থেকে পরিচিত, তাই এদের প্রতীক এসেছে পুরোনো ল্যাটিন নাম থেকে:
+
+- সোডিয়াম: *Natrium* → **Na**
+- পটাশিয়াম: *Kalium* → **K**
+- কপার (তামা): *Cuprum* → **Cu**
+- সিলভার (রুপা): *Argentum* → **Ag**
+- গোল্ড (সোনা): *Aurum* → **Au**
+- আয়রন (লোহা): *Ferrum* → **Fe**
+- লেড (সিসা): *Plumbum* → **Pb**
+- টিন: *Stannum* → **Sn**
+- মারকারি (পারদ): *Hydrargyrum* ("তরল রুপা") → **Hg**
+- এন্টিমনি: *Stibium* → **Sb**
+- টাংস্টেন: *Wolfram* → **W** (এই নামটি আসলে জার্মান, ল্যাটিন নয়, তবে সাধারণত এই তালিকাতেই রাখা হয়)
+
+(কোনো কোনো বইয়ে পারদের ল্যাটিন নাম ছাপা হয় "Hydrurgyrum"; সঠিক বানান হলো *Hydrargyrum*।)
+
+এই কয়েকটি ল্যাটিন নাম মুখস্থ রাখলে অনেক ভুল এড়ানো যায়: সোডিয়ামের প্রতীক "S" নয়, লোহার প্রতীক "I" নয়!
+## analogy
+প্রতীক অনেকটা বিমানবন্দরের লাগেজ ট্যাগের কোডের মতো: DAC মানে ঢাকার বিমানবন্দর, CGP মানে চট্টগ্রাম। কোডটি কখনো সহজেই বোঝা যায়, কখনো পুরোনো নাম থেকে আসে, কিন্তু সারা পৃথিবীর মানুষ একইভাবে পড়ে।
+## definition
+**মৌলের প্রতীক (Symbol)**: কোনো মৌলের ইংরেজি বা ল্যাটিন নামের সংক্ষিপ্ত রূপ। এটি একটি বড় হাতের অক্ষর, অথবা বড় হাতের অক্ষরের পরে একটি ছোট হাতের অক্ষর দিয়ে লেখা হয়। প্রতীক ঐ মৌলের একটি পরমাণুকেও বোঝায়।
+## why
+যেকোনো সংক্ষেপ না লিখে নিয়ম মেনে প্রতীক লিখতে হয় কেন? ১১৮টি মৌলের অনেকগুলোর নাম একই অক্ষরে শুরু। নিয়মগুলো প্রতিটি প্রতীককে অনন্য করে, আর বড়-ছোট অক্ষরের নকশার কারণে CoCl₂ এর মতো সংকেত বিভ্রান্তি ছাড়াই পড়া যায়: বড় হাতের অক্ষর মানেই নতুন একটি মৌল শুরু। প্রাচীন ধাতুগুলোর জন্য পুরোনো ল্যাটিন নাম ব্যবহার করায় প্রায় দুশো বছর ধরে সারা পৃথিবীর রসায়নবিদেরা একই প্রতীক ব্যবহার করে আসছেন।
+## terms
+প্রতীক (Symbol) | মৌলের ইংরেজি বা ল্যাটিন নামের সংক্ষিপ্ত রূপ, যেমন O, Ca, Fe
+ল্যাটিন নাম | পুরোনো বৈজ্ঞানিক নাম, যা থেকে কিছু প্রতীক এসেছে (Natrium → Na)
+বড় + ছোট হাতের অক্ষর | দুই অক্ষরের প্রতীক: প্রথমটি বড়, দ্বিতীয়টি ছোট (Cl, CL নয়)
+## visual
+একটি কার্ডে চাপ দিয়ে উল্টাও, দেখো মৌলের প্রতীক আর তা কোথা থেকে এসেছে। উল্টানোর আগে নিজে অনুমান করার চেষ্টা করো।
+## real
+ফার্মেসির ওষুধের পাতা দেখো: আয়রন সাপ্লিমেন্টে লেখা থাকে "Fe", ক্যালসিয়াম ট্যাবলেটে "Ca"। বাংলাদেশে সারের বস্তায় N-P-K লেখা থাকে, মানে নাইট্রোজেন, ফসফরাস আর পটাশিয়াম (K, *Kalium* থেকে)। স্বর্ণকারেরা Au (সোনা) আর Ag (রুপা) এর বিশুদ্ধতা নিয়ে কথা বলেন।
+## example
+প্রশ্ন: প্রতীক লেখো: নাইট্রোজেন, ক্যালসিয়াম, ক্লোরিন, সোডিয়াম, আয়রন, লেড, সিলভার।
+সমাধান: নাইট্রোজেন N (প্রথম অক্ষর); ক্যালসিয়াম Ca, ক্লোরিন Cl (C কার্বনের দখলে, তাই দুই অক্ষর); সোডিয়াম Na (*Natrium*); আয়রন Fe (*Ferrum*); লেড Pb (*Plumbum*); সিলভার Ag (*Argentum*)।
+উত্তর: N, Ca, Cl, Na, Fe, Pb, Ag
+## example
+প্রশ্ন: একজন শিক্ষার্থী কোবাল্টের প্রতীক লিখেছে "CO"। ভুলটা কোথায়?
+সমাধান: C-এর পরে বড় হাতের O মানে দ্বিতীয় একটি মৌল (অক্সিজেন)। "CO" হলো কার্বন মনোক্সাইড, একটি যৌগ। দুই অক্ষরের প্রতীকে দ্বিতীয় অক্ষর অবশ্যই ছোট হাতের হবে।
+উত্তর: কোবাল্টের প্রতীক Co (বড় C, ছোট o)।
+## mistakes
+x সোডিয়ামের প্রতীক S আর পটাশিয়ামের প্রতীক P।
+v সোডিয়াম Na (*Natrium*), পটাশিয়াম K (*Kalium*)। S হলো সালফার, P হলো ফসফরাস।
+x দুই অক্ষরের প্রতীক দুটি বড় হাতের অক্ষরে লেখা যায়, যেমন CL।
+v দ্বিতীয় অক্ষর সবসময় ছোট হাতের: Cl। দুটি বড় হাতের অক্ষর মানে দুটি ভিন্ন মৌল।
+x লোহার প্রতীক I।
+v লোহা Fe (*Ferrum*)। I হলো আয়োডিন।
+## remember
+- নিয়ম ক: প্রথম অক্ষর, বড় হাতের (H, C, O, N)।
+- নিয়ম খ: মিলে গেলে ছোট হাতের দ্বিতীয় অক্ষর যোগ (Ca, Cl, Co, Cr, Cd)।
+- নিয়ম গ: ল্যাটিন নাম: Na, K, Cu, Ag, Au, Fe, Pb, Sn, Hg, Sb (আর Wolfram থেকে W)।
+- প্রতীক ঐ মৌলের একটি পরমাণুকেও বোঝায়।
+## think
+সোনা, রুপা, তামা, লোহা, টিন, সিসার মতো পুরোনো ধাতুগুলোর প্রতীক ল্যাটিন থেকে এসেছে, অথচ অক্সিজেন বা ক্লোরিনের মতো নতুন মৌলের ক্ষেত্রে তা হয়নি। তোমার কী মনে হয়, কেন?
+## quiz
+? পটাশিয়ামের প্রতীক:
+- P
+- Po
+* K
+- Pt
+= এর ল্যাটিন নাম *Kalium* থেকে।
+? কোন প্রতীকটি সঠিকভাবে লেখা?
+- CL
+- cl
+* Cl
+- cL
+= প্রথম অক্ষর বড় হাতের, দ্বিতীয় অক্ষর ছোট হাতের।
+? "Plumbum" কোন মৌলের ল্যাটিন নাম?
+- প্লাটিনাম
+* লেড (সিসা)
+- মারকারি
+- টিন
+= Plumbum → Pb, লেড।
+? কোন জোড়াটি সঠিক?
+- সিলভার: Si
+- গোল্ড: Go
+* মারকারি: Hg
+- টিন: Ti
+= মারকারি: Hydrargyrum → Hg। সিলভার Ag, গোল্ড Au, টিন Sn।
+
+@@ 3.4
+@visual k3formula
+@related 3.2 3.3 3.9 6.1.2
+== en
+## what
+A **chemical formula** (সংকেত) shows, with symbols and numbers, which elements a molecule contains and how many atoms of each. H₂O means one water molecule has 2 hydrogen atoms and 1 oxygen atom. A number written **in front** (the coefficient) tells how many molecules: 3H₂O means three water molecules.
+## simple
+A symbol stands for one atom. A **formula** combines symbols to describe a whole molecule.
+
+**Reading a formula.** Look at the small number written low, just after a symbol. It is called a **subscript**, and it tells how many atoms of that element are in **one** molecule. If there is no subscript, there is just one atom.
+- H₂: 2 hydrogen atoms (one hydrogen molecule)
+- H₂O: 2 hydrogen atoms + 1 oxygen atom
+- NH₃ (ammonia): 1 nitrogen + 3 hydrogen
+- H₂SO₄ (sulfuric acid): 2 hydrogen + 1 sulfur + 4 oxygen = 7 atoms
+
+**The big number in front.** A number written at full size **before** the formula is the **coefficient**. It multiplies the whole molecule.
+- 2H₂O = two water molecules = 4 H atoms + 2 O atoms
+- 3CO₂ = three carbon dioxide molecules = 3 C + 6 O
+
+**Don't mix these up:**
+- **2H** = two separate hydrogen atoms
+- **H₂** = one hydrogen molecule (two atoms bonded together)
+- **2H₂** = two hydrogen molecules (four atoms in total)
+
+**Formulas of some common substances:**
+- Hydrogen H₂, Oxygen O₂, Nitrogen N₂, Chlorine Cl₂
+- Water H₂O, Carbon dioxide CO₂, Ammonia NH₃, Methane CH₄
+- Hydrochloric acid HCl, Sulfuric acid H₂SO₄, Nitric acid HNO₃
+- Sodium chloride (table salt) NaCl, Calcium carbonate (limestone, chalk) CaCO₃, Glucose C₆H₁₂O₆
+
+(Compounds like NaCl are made of ions, not separate molecules; their formula gives the simplest ratio of the ions. You will learn more in Chapter 5. How to work out a formula from valency is also in Chapter 5.)
+## analogy
+A formula is like a recipe card for one plate of food. "H₂O" says: for one plate, take 2 H and 1 O. The coefficient is the number of plates you are serving: "3H₂O" means cook three plates, so you need 6 H and 3 O in total.
+## definition
+**Chemical formula (সংকেত)**: the symbolic expression of one molecule of an element or compound, using the symbols of its elements and subscripts that give the number of atoms of each element in the molecule.
+
+**Subscript**: the small number written at the lower right of a symbol; the number of atoms of that element in one molecule.
+**Coefficient**: the number written in front of a formula; the number of molecules.
+## why
+Why must a formula be exact? Because a compound has a fixed composition. H₂O and H₂O₂ contain the same elements, yet water is harmless to drink while hydrogen peroxide (H₂O₂) is a bleach used to clean wounds. Change one subscript and you describe a different substance. The formula is therefore the "identity card" of a compound, and it is also the starting point for calculating molecular mass and for balancing chemical equations.
+## terms
+Formula (সংকেত) | Symbols + subscripts showing the atoms in one molecule
+Subscript | Small lower number after a symbol: atoms of that element in one molecule
+Coefficient | Number in front of a formula: number of molecules
+Molecule of compound | Represented by a formula such as H₂O, CO₂
+## formula
+$$ atoms of an element = coefficient × subscript
+! 3H₂SO₄: H = 3 × 2 = 6, S = 3 × 1 = 3, O = 3 × 4 = 12
+! No subscript means 1; no coefficient means 1 molecule.
+## visual
+Choose a substance and change the number of molecules. Watch the particle picture and the atom count change.
+## real
+Labels on products in Bangladeshi shops show formulas: NaCl on a salt packet, NaHCO₃ (baking soda) on a box used for making pitha rise, and CaCO₃ in antacid tablets. Car battery acid is dilute H₂SO₄.
+## example
+Q: How many atoms of each element are there in 3H₂SO₄? How many atoms in total?
+Given: coefficient = 3; one H₂SO₄ has H 2, S 1, O 4
+Formula: atoms = coefficient × subscript
+Calculation: H = 3 × 2 = 6; S = 3 × 1 = 3; O = 3 × 4 = 12; total = 6 + 3 + 12 = 21
+Answer: 6 H, 3 S and 12 O atoms: 21 atoms in all.
+## example
+Q: What is the difference between 2O, O₂ and 2O₂?
+Solution: 2O: two separate oxygen atoms. O₂: one oxygen molecule made of two bonded atoms. 2O₂: two oxygen molecules, 4 oxygen atoms in total.
+Answer: 2O = 2 atoms (not bonded); O₂ = 1 molecule (2 atoms); 2O₂ = 2 molecules (4 atoms).
+## example
+Q: One molecule of glucose is C₆H₁₂O₆. How many atoms are in 2 molecules of glucose?
+Calculation: one molecule: 6 + 12 + 6 = 24 atoms; two molecules: 2 × 24 = 48 atoms (C 12, H 24, O 12)
+Answer: 48 atoms
+## mistakes
+x In 2H₂O the 2 in front only applies to hydrogen.
+v The coefficient multiplies the whole formula: 2H₂O has 4 H and 2 O.
+x H₂ and 2H mean the same thing.
+v H₂ is one molecule of two bonded atoms; 2H is two separate atoms.
+x In H₂SO₄ there are 2 sulfur atoms because the 2 comes first.
+v A subscript belongs to the symbol just before it: H₂ S O₄, so 2 H, 1 S, 4 O.
+## remember
+- Subscript = atoms in one molecule; it belongs to the symbol just before it.
+- Coefficient = number of molecules; it multiplies everything.
+- 2H (2 atoms) ≠ H₂ (1 molecule) ≠ 2H₂ (2 molecules).
+- N₂, NH₃, Cl₂, H₂SO₄, HCl, H₂O, CO₂, CH₄, NaCl, CaCO₃.
+## think
+H₂O is water and H₂O₂ is hydrogen peroxide. Why can adding just one oxygen atom to each molecule make such a different substance?
+## quiz
+? How many oxygen atoms are there in 2CO₂?
+- 2
+- 3
+* 4
+- 6
+= 2 × 2 = 4.
+? What does the "4" in H₂SO₄ mean?
+- 4 molecules of sulfuric acid
+* 4 oxygen atoms in one molecule
+- 4 atoms in total
+- 4 sulfur atoms
+= A subscript counts the atoms of the element written just before it.
+? Which represents two hydrogen molecules?
+- 2H
+- H₂
+* 2H₂
+- H₄
+= Coefficient 2 × molecule H₂.
+? The total number of atoms in one molecule of ammonia, NH₃, is:
+- 3
+* 4
+- 5
+- 6
+= 1 N + 3 H = 4.
+== bn
+## what
+**রাসায়নিক সংকেত** প্রতীক ও সংখ্যা দিয়ে দেখায় একটি অণুতে কোন কোন মৌল আছে আর প্রতিটির কয়টি পরমাণু আছে। H₂O মানে পানির একটি অণুতে ২টি হাইড্রোজেন ও ১টি অক্সিজেন পরমাণু আছে। সংকেতের **সামনে** লেখা সংখ্যা (সহগ) বলে কয়টি অণু: 3H₂O মানে পানির তিনটি অণু।
+## simple
+একটি প্রতীক একটি পরমাণুকে বোঝায়। কয়েকটি প্রতীক মিলিয়ে **সংকেত** পুরো একটি অণুকে বর্ণনা করে।
+
+**সংকেত পড়া।** প্রতীকের ঠিক পরে নিচের দিকে লেখা ছোট সংখ্যাটি দেখো। একে বলে **পাদাঙ্ক বা সাবস্ক্রিপ্ট**, আর এটি বলে **একটি** অণুতে ঐ মৌলের কয়টি পরমাণু আছে। কোনো সংখ্যা না থাকলে পরমাণু একটি।
+- H₂: ২টি হাইড্রোজেন পরমাণু (একটি হাইড্রোজেন অণু)
+- H₂O: ২টি হাইড্রোজেন + ১টি অক্সিজেন পরমাণু
+- NH₃ (অ্যামোনিয়া): ১টি নাইট্রোজেন + ৩টি হাইড্রোজেন
+- H₂SO₄ (সালফিউরিক এসিড): ২টি হাইড্রোজেন + ১টি সালফার + ৪টি অক্সিজেন = ৭টি পরমাণু
+
+**সামনের বড় সংখ্যা।** সংকেতের **আগে** পূর্ণ আকারে লেখা সংখ্যাটি হলো **সহগ**। এটি পুরো অণুকে গুণ করে।
+- 2H₂O = পানির দুটি অণু = ৪টি H পরমাণু + ২টি O পরমাণু
+- 3CO₂ = কার্বন ডাই-অক্সাইডের তিনটি অণু = ৩টি C + ৬টি O
+
+**এগুলো গুলিয়ে ফেলো না:**
+- **2H** = আলাদা দুটি হাইড্রোজেন পরমাণু
+- **H₂** = একটি হাইড্রোজেন অণু (বন্ধনে যুক্ত দুটি পরমাণু)
+- **2H₂** = দুটি হাইড্রোজেন অণু (মোট চারটি পরমাণু)
+
+**কিছু পরিচিত পদার্থের সংকেত:**
+- হাইড্রোজেন H₂, অক্সিজেন O₂, নাইট্রোজেন N₂, ক্লোরিন Cl₂
+- পানি H₂O, কার্বন ডাই-অক্সাইড CO₂, অ্যামোনিয়া NH₃, মিথেন CH₄
+- হাইড্রোক্লোরিক এসিড HCl, সালফিউরিক এসিড H₂SO₄, নাইট্রিক এসিড HNO₃
+- সোডিয়াম ক্লোরাইড (খাবার লবণ) NaCl, ক্যালসিয়াম কার্বনেট (চুনাপাথর, চক) CaCO₃, গ্লুকোজ C₆H₁₂O₆
+
+(NaCl এর মতো যৌগ আলাদা অণু দিয়ে নয়, আয়ন দিয়ে তৈরি; এদের সংকেত আয়নগুলোর সরলতম অনুপাত দেখায়। পঞ্চম অধ্যায়ে এ বিষয়ে আরও জানবে। যোজনী থেকে কীভাবে সংকেত লিখতে হয়, সেটিও পঞ্চম অধ্যায়ে।)
+## analogy
+সংকেত যেন এক প্লেট খাবারের রেসিপি কার্ড। "H₂O" বলছে: এক প্লেটের জন্য ২টি H আর ১টি O নাও। সহগ হলো কয় প্লেট পরিবেশন করবে: "3H₂O" মানে তিন প্লেট রান্না করো, তাই মোট লাগবে ৬টি H আর ৩টি O।
+## definition
+**রাসায়নিক সংকেত (Formula)**: কোনো মৌল বা যৌগের একটি অণুর প্রতীকী প্রকাশ, যাতে উপাদান মৌলগুলোর প্রতীক এবং অণুতে প্রতিটি মৌলের পরমাণু-সংখ্যা নির্দেশক পাদাঙ্ক ব্যবহার করা হয়।
+
+**পাদাঙ্ক (Subscript)**: প্রতীকের ডান পাশে নিচে লেখা ছোট সংখ্যা; একটি অণুতে ঐ মৌলের পরমাণুর সংখ্যা।
+**সহগ (Coefficient)**: সংকেতের সামনে লেখা সংখ্যা; অণুর সংখ্যা।
+## why
+সংকেত একদম নির্ভুল হতে হয় কেন? কারণ যৌগের সংযুতি নির্দিষ্ট। H₂O আর H₂O₂ তে একই মৌল আছে, অথচ পানি নিরাপদে পান করা যায়, আর হাইড্রোজেন পার-অক্সাইড (H₂O₂) একটি বিরঞ্জক যা ক্ষত পরিষ্কারে ব্যবহার হয়। একটি পাদাঙ্ক বদলালেই অন্য পদার্থ হয়ে যায়। তাই সংকেত হলো যৌগের "পরিচয়পত্র", আর আণবিক ভর হিসাব ও রাসায়নিক সমীকরণ সমতাকরণের শুরুও এখান থেকেই।
+## terms
+সংকেত (Formula) | প্রতীক + পাদাঙ্ক, যা একটি অণুর পরমাণুগুলো দেখায়
+পাদাঙ্ক (Subscript) | প্রতীকের পরে নিচের ছোট সংখ্যা: একটি অণুতে ঐ মৌলের পরমাণু-সংখ্যা
+সহগ (Coefficient) | সংকেতের সামনের সংখ্যা: অণুর সংখ্যা
+যৌগের অণু | H₂O, CO₂ এর মতো সংকেত দিয়ে প্রকাশ করা হয়
+## formula
+$$ কোনো মৌলের পরমাণু-সংখ্যা = সহগ × পাদাঙ্ক
+! 3H₂SO₄: H = ৩ × ২ = ৬, S = ৩ × ১ = ৩, O = ৩ × ৪ = ১২
+! পাদাঙ্ক না থাকলে ১; সহগ না থাকলে ১টি অণু।
+## visual
+একটি পদার্থ বেছে নাও আর অণুর সংখ্যা বদলাও। দেখো কণার ছবি আর পরমাণুর হিসাব কীভাবে বদলায়।
+## real
+বাংলাদেশের দোকানের পণ্যের মোড়কে সংকেত দেখা যায়: লবণের প্যাকেটে NaCl, পিঠা ফোলানোর জন্য বেকিং সোডার বাক্সে NaHCO₃, অ্যান্টাসিড ট্যাবলেটে CaCO₃। গাড়ির ব্যাটারির এসিড হলো লঘু H₂SO₄।
+## example
+প্রশ্ন: 3H₂SO₄ তে প্রতিটি মৌলের কয়টি করে পরমাণু আছে? মোট কয়টি পরমাণু?
+দেওয়া আছে: সহগ = ৩; একটি H₂SO₄ এ H ২টি, S ১টি, O ৪টি
+সূত্র: পরমাণু-সংখ্যা = সহগ × পাদাঙ্ক
+হিসাব: H = ৩ × ২ = ৬; S = ৩ × ১ = ৩; O = ৩ × ৪ = ১২; মোট = ৬ + ৩ + ১২ = ২১
+উত্তর: ৬টি H, ৩টি S ও ১২টি O পরমাণু: মোট ২১টি পরমাণু।
+## example
+প্রশ্ন: 2O, O₂ এবং 2O₂ এর মধ্যে পার্থক্য কী?
+সমাধান: 2O: আলাদা দুটি অক্সিজেন পরমাণু। O₂: বন্ধনে যুক্ত দুটি পরমাণু দিয়ে তৈরি একটি অক্সিজেন অণু। 2O₂: দুটি অক্সিজেন অণু, মোট ৪টি অক্সিজেন পরমাণু।
+উত্তর: 2O = ২টি পরমাণু (বন্ধন নেই); O₂ = ১টি অণু (২টি পরমাণু); 2O₂ = ২টি অণু (৪টি পরমাণু)।
+## example
+প্রশ্ন: গ্লুকোজের একটি অণু C₆H₁₂O₆। গ্লুকোজের ২টি অণুতে কয়টি পরমাণু আছে?
+হিসাব: একটি অণুতে: ৬ + ১২ + ৬ = ২৪টি পরমাণু; দুটি অণুতে: ২ × ২৪ = ৪৮টি পরমাণু (C ১২, H ২৪, O ১২)
+উত্তর: ৪৮টি পরমাণু
+## mistakes
+x 2H₂O এর সামনের ২ শুধু হাইড্রোজেনের জন্য।
+v সহগ পুরো সংকেতকে গুণ করে: 2H₂O তে ৪টি H ও ২টি O।
+x H₂ আর 2H একই কথা।
+v H₂ হলো বন্ধনে যুক্ত দুটি পরমাণুর একটি অণু; 2H হলো আলাদা দুটি পরমাণু।
+x H₂SO₄ এ সালফার ২টি, কারণ ২ আগে এসেছে।
+v পাদাঙ্ক তার ঠিক আগের প্রতীকের: H₂ S O₄, অর্থাৎ ২টি H, ১টি S, ৪টি O।
+## remember
+- পাদাঙ্ক = একটি অণুতে পরমাণু-সংখ্যা; এটি ঠিক আগের প্রতীকের।
+- সহগ = অণুর সংখ্যা; এটি সবকিছুকে গুণ করে।
+- 2H (২টি পরমাণু) ≠ H₂ (১টি অণু) ≠ 2H₂ (২টি অণু)।
+- N₂, NH₃, Cl₂, H₂SO₄, HCl, H₂O, CO₂, CH₄, NaCl, CaCO₃।
+## think
+H₂O হলো পানি, আর H₂O₂ হলো হাইড্রোজেন পার-অক্সাইড। প্রতিটি অণুতে মাত্র একটি অক্সিজেন পরমাণু বেশি হওয়ায় পদার্থটি এত আলাদা হয়ে যায় কেন?
+## quiz
+? 2CO₂ তে কয়টি অক্সিজেন পরমাণু আছে?
+- ২
+- ৩
+* ৪
+- ৬
+= ২ × ২ = ৪।
+? H₂SO₄ এর "৪" দিয়ে কী বোঝায়?
+- সালফিউরিক এসিডের ৪টি অণু
+* একটি অণুতে ৪টি অক্সিজেন পরমাণু
+- মোট ৪টি পরমাণু
+- ৪টি সালফার পরমাণু
+= পাদাঙ্ক তার ঠিক আগে লেখা মৌলের পরমাণু গোনে।
+? কোনটি দুটি হাইড্রোজেন অণু বোঝায়?
+- 2H
+- H₂
+* 2H₂
+- H₄
+= সহগ ২ × অণু H₂।
+? অ্যামোনিয়ার (NH₃) একটি অণুতে মোট পরমাণু:
+- ৩টি
+* ৪টি
+- ৫টি
+- ৬টি
+= ১টি N + ৩টি H = ৪টি।
+
+@@ 3.5
+@visual k3atom
+@related 3.6 3.8 3.9 4.2
+== en
+## what
+Every atom is built from three **fundamental particles**: negatively charged **electrons** moving around a tiny central **nucleus**, which contains positively charged **protons** and uncharged **neutrons**. The number of protons is the **atomic number (Z)**; protons + neutrons is the **mass number (A)**.
+## simple
+Dalton thought atoms could not be broken. Later experiments showed that an atom is made of even smaller particles. Three of them are stable and present in atoms: the **electron**, the **proton** and the **neutron**. They are called the **fundamental particles** (মৌলিক বা সাংগঠনিক কণা) of the atom.
+
+**Where are they?** Protons and neutrons sit together in the **nucleus**, a tiny, heavy core at the centre. Electrons move around the nucleus, far away from it.
+
+**Electron (e):** negative charge, −1.60 × 10^{-19} coulomb. Mass 9.11 × 10^{-28} g. This is about 1840 times less than a proton (more precisely 1836 times), so small that for most purposes we take the electron's **relative mass as 0**. Relative charge: **−1**.
+
+**Proton (p):** positive charge, +1.60 × 10^{-19} coulomb (exactly equal in size to the electron's charge, but opposite). Mass 1.673 × 10^{-24} g. Relative charge **+1**, relative mass **1**.
+
+**Neutron (n):** no charge. Mass 1.675 × 10^{-24} g, slightly more than a proton. Relative charge **0**, relative mass **1**. Every atom has neutrons except ordinary hydrogen (protium, ¹H), whose nucleus is a single proton.
+
+**3.5.1 Atomic number (Z).** The number of protons in the nucleus is the atomic number. It is the atom's **ID card**: Z = 1 is always hydrogen, Z = 2 always helium, Z = 8 always oxygen, Z = 9 always fluorine. Change the number of protons and you have a different element.
+
+Because an atom is electrically neutral, the number of electrons equals the number of protons. An oxygen atom (Z = 8) has 8 protons and 8 electrons.
+
+**3.5.2 Mass number (A).** Electrons are almost weightless, so nearly all the mass of an atom is in its nucleus. The total number of protons and neutrons is called the **mass number**:
+
+**A = Z + N**, so **N = A − Z** (N = number of neutrons)
+
+Sodium has A = 23 and Z = 11, so it has 23 − 11 = **12 neutrons**, 11 protons and 11 electrons.
+
+**Writing it.** We write the mass number at the upper left of the symbol and the atomic number at the lower left: ^{23}_{11}Na. Hydrogen is ^{1}_{1}H (1 proton, 0 neutrons) and helium is ^{4}_{2}He (2 protons, 2 neutrons).
+
+**Ions (a preview).** If an atom loses or gains electrons, the protons no longer balance the electrons and the particle carries a charge: it becomes an **ion**. A sodium atom that loses one electron becomes Na⁺ (11 p, 10 e); a chlorine atom that gains one becomes Cl⁻ (17 p, 18 e). The atomic number does not change, because the protons don't change.
+## analogy
+Think of a cricket stadium with a single cricket ball placed at the centre spot. The ball is the nucleus: tiny, yet it holds almost all the mass. The electrons are like a few flies buzzing around the outermost stands. Almost all of the atom is empty space.
+## definition
+**Fundamental particles**: the electron, proton and neutron, the stable particles of which all atoms are made.
+
+**Atomic number (Z)**: the number of protons in the nucleus of an atom of an element. In a neutral atom it also equals the number of electrons.
+
+**Mass number (A)**: the total number of protons and neutrons in the nucleus of an atom. A = Z + N.
+## why
+Why is the proton number, and not the neutron or electron number, the identity of an element? Electrons can be lost or gained easily in reactions (forming ions), and atoms of the same element can have different numbers of neutrons (isotopes). But the number of protons fixes the positive charge of the nucleus, which decides how many electrons a neutral atom holds and therefore how it behaves chemically. Changing the proton number requires a nuclear change, which turns it into a new element.
+## terms
+Electron (e) | Charge −1 (−1.60 × 10^{-19} C), relative mass ≈ 0
+Proton (p) | Charge +1 (+1.60 × 10^{-19} C), relative mass 1
+Neutron (n) | No charge, relative mass 1
+Nucleus | Tiny central core containing protons and neutrons
+Atomic number (Z) | Number of protons
+Mass number (A) | Number of protons + neutrons
+Ion | Atom that has lost or gained electrons, so it carries a charge
+## formula
+$$ A = Z + N
+$$ N = A − Z
+$$ electrons (neutral atom) = Z
+$$ charge of an ion = protons − electrons
+Z | atomic number = number of protons | —
+A | mass number = protons + neutrons | —
+N | number of neutrons | —
+! Notation: ^{A}_{Z}X, e.g. ^{23}_{11}Na
+## visual
+Add or remove protons, neutrons and electrons. The widget tells you which element you have built, its mass number, its charge and how to write it.
+## real
+Doctors, engineers and scientists in Bangladesh working with X-ray machines, cancer-treatment units and the Rooppur nuclear power plant all rely on this simple bookkeeping of protons and neutrons. In a TV or a phone charger, it is the flow of the tiny electrons that carries the current.
+## example
+Q: Sodium has atomic number 11 and mass number 23. Find its numbers of protons, electrons and neutrons, and write its symbol with A and Z.
+Given: Z = 11, A = 23
+Formula: protons = Z; electrons = Z (neutral atom); N = A − Z
+Calculation: protons = 11; electrons = 11; N = 23 − 11 = 12
+Answer: 11 protons, 11 electrons, 12 neutrons; written ^{23}_{11}Na.
+## example
+Q: Find the mass number and the numbers of protons, electrons and neutrons for ^{7}_{3}Li and ^{9}_{4}Be.
+Solution: Li: A = 7, p = 3, e = 3, N = 7 − 3 = 4. Be: A = 9, p = 4, e = 4, N = 9 − 4 = 5.
+Answer: Li: 7, 3, 3, 4. Be: 9, 4, 4, 5.
+## example
+Q: An aluminium ion Al³⁺ has mass number 27 and atomic number 13. How many protons, neutrons and electrons does it have?
+Given: Z = 13, A = 27, charge +3
+Calculation: protons = 13; neutrons = 27 − 13 = 14; electrons = 13 − 3 = 10
+> A charge of +3 means 3 more protons than electrons: the atom has lost 3 electrons.
+Answer: 13 p, 14 n, 10 e
+## mistakes
+x The mass number is the number of all particles, including electrons.
+v Mass number counts only protons and neutrons; electrons are not counted.
+x The atomic number equals the number of neutrons.
+v Atomic number = number of protons. (In a neutral atom it also equals the number of electrons.)
+x An ion has a different atomic number from its atom.
+v Only electrons change when an ion forms; the number of protons, and so Z, stays the same.
+## remember
+- Electron: −1, mass ≈ 0 (9.11 × 10^{-28} g). Proton: +1, mass 1. Neutron: 0, mass 1.
+- Protons + neutrons in the nucleus; electrons outside.
+- Z = protons (= electrons in a neutral atom); A = Z + N.
+- Write ^{A}_{Z}X, e.g. ^{23}_{11}Na.
+- Every atom has neutrons except protium (¹H).
+## think
+If electrons have almost no mass, why do chemists care so much about them when explaining how elements react?
+## quiz
+? The relative mass of an electron is taken as:
+* 0
+- 1
+- −1
+- 1840
+= Its mass is about 1/1840 of a proton's, so it is treated as zero.
+? An atom has 17 protons and 18 neutrons. Its mass number is:
+- 17
+- 18
+* 35
+- 1
+= A = Z + N = 17 + 18 = 35.
+? How many neutrons are in ^{39}_{19}K?
+- 19
+* 20
+- 39
+- 58
+= N = 39 − 19 = 20.
+? Which particle has no charge?
+- Electron
+- Proton
+* Neutron
+- Nucleus
+= The neutron is neutral.
+? The atomic number of an element tells us the number of:
+- Neutrons
+* Protons
+- Protons + neutrons
+- Molecules
+= Z = number of protons in the nucleus.
+== bn
+## what
+প্রতিটি পরমাণু তিনটি **মৌলিক কণা** দিয়ে তৈরি: কেন্দ্রের ক্ষুদ্র **নিউক্লিয়াসকে** ঘিরে ঘোরে ঋণাত্মক আধানযুক্ত **ইলেকট্রন**; নিউক্লিয়াসে থাকে ধনাত্মক আধানযুক্ত **প্রোটন** আর আধানহীন **নিউট্রন**। প্রোটনের সংখ্যা হলো **পারমাণবিক সংখ্যা (Z)**; প্রোটন + নিউট্রনের সংখ্যা হলো **ভরসংখ্যা (A)**।
+## simple
+ডাল্টন ভেবেছিলেন পরমাণু ভাঙা যায় না। পরের পরীক্ষাগুলো দেখাল, পরমাণু আরও ক্ষুদ্র কণা দিয়ে তৈরি। এদের তিনটি স্থায়ী এবং পরমাণুতে থাকে: **ইলেকট্রন**, **প্রোটন** ও **নিউট্রন**। এদের বলে পরমাণুর **মৌলিক বা সাংগঠনিক কণা**।
+
+**এরা কোথায় থাকে?** প্রোটন ও নিউট্রন একসাথে থাকে **নিউক্লিয়াসে**, কেন্দ্রের একটি ক্ষুদ্র কিন্তু ভারী অংশে। ইলেকট্রনগুলো নিউক্লিয়াস থেকে অনেক দূরে, এর চারপাশে ঘোরে।
+
+**ইলেকট্রন (e):** ঋণাত্মক আধান, −১.৬০ × ১০^{-১৯} কুলম্ব। ভর ৯.১১ × ১০^{-২৮} g। এটি প্রোটনের চেয়ে প্রায় ১৮৪০ গুণ (আরও নিখুঁতভাবে ১৮৩৬ গুণ) কম, এত কম যে সাধারণ হিসাবে ইলেকট্রনের **আপেক্ষিক ভর ০** ধরা হয়। আপেক্ষিক আধান **−১**।
+
+**প্রোটন (p):** ধনাত্মক আধান, +১.৬০ × ১০^{-১৯} কুলম্ব (মানে ইলেকট্রনের আধানের ঠিক সমান, কিন্তু বিপরীত)। ভর ১.৬৭৩ × ১০^{-২৪} g। আপেক্ষিক আধান **+১**, আপেক্ষিক ভর **১**।
+
+**নিউট্রন (n):** কোনো আধান নেই। ভর ১.৬৭৫ × ১০^{-২৪} g, প্রোটনের চেয়ে সামান্য বেশি। আপেক্ষিক আধান **০**, আপেক্ষিক ভর **১**। সাধারণ হাইড্রোজেন (প্রোটিয়াম, ¹H) ছাড়া সব পরমাণুতেই নিউট্রন আছে; প্রোটিয়ামের নিউক্লিয়াস একটি মাত্র প্রোটন।
+
+**৩.৫.১ পারমাণবিক সংখ্যা (Z)।** নিউক্লিয়াসে প্রোটনের সংখ্যাই পারমাণবিক সংখ্যা। এটি পরমাণুর **আইডি কার্ড**: Z = ১ মানে সবসময় হাইড্রোজেন, Z = ২ মানে হিলিয়াম, Z = ৮ মানে অক্সিজেন, Z = ৯ মানে ফ্লোরিন। প্রোটনের সংখ্যা বদলালে মৌলটাই বদলে যায়।
+
+পরমাণু আধান-নিরপেক্ষ, তাই এতে ইলেকট্রনের সংখ্যা প্রোটনের সংখ্যার সমান। অক্সিজেন পরমাণুতে (Z = ৮) ৮টি প্রোটন আর ৮টি ইলেকট্রন।
+
+**৩.৫.২ ভরসংখ্যা (A)।** ইলেকট্রন প্রায় ভরহীন, তাই পরমাণুর প্রায় সব ভর নিউক্লিয়াসে। প্রোটন ও নিউট্রনের মোট সংখ্যাকে বলে **ভরসংখ্যা**:
+
+**A = Z + N**, তাই **N = A − Z** (N = নিউট্রনের সংখ্যা)
+
+সোডিয়ামের A = ২৩ আর Z = ১১, তাই এতে নিউট্রন ২৩ − ১১ = **১২টি**, প্রোটন ১১টি, ইলেকট্রন ১১টি।
+
+**লেখার নিয়ম।** প্রতীকের বাম পাশে ওপরে ভরসংখ্যা আর বাম পাশে নিচে পারমাণবিক সংখ্যা লেখা হয়: ^{23}_{11}Na। হাইড্রোজেন ^{1}_{1}H (১টি প্রোটন, ০টি নিউট্রন), হিলিয়াম ^{4}_{2}He (২টি প্রোটন, ২টি নিউট্রন)।
+
+**আয়ন (একটু আগাম পরিচয়)।** কোনো পরমাণু ইলেকট্রন হারালে বা গ্রহণ করলে প্রোটন আর ইলেকট্রনের সংখ্যা আর সমান থাকে না, কণাটি আধানযুক্ত হয়ে যায়: একে বলে **আয়ন**। সোডিয়াম পরমাণু একটি ইলেকট্রন হারালে হয় Na⁺ (১১টি p, ১০টি e); ক্লোরিন পরমাণু একটি ইলেকট্রন গ্রহণ করলে হয় Cl⁻ (১৭টি p, ১৮টি e)। প্রোটন বদলায় না বলে পারমাণবিক সংখ্যাও বদলায় না।
+## analogy
+একটি ক্রিকেট স্টেডিয়ামের মাঝখানে একটি মাত্র ক্রিকেট বল রাখা আছে ভাবো। বলটি হলো নিউক্লিয়াস: ক্ষুদ্র, কিন্তু প্রায় সব ভর এতেই। ইলেকট্রনগুলো যেন গ্যালারির একেবারে বাইরের দিকে উড়ে বেড়ানো কয়েকটি মাছি। পরমাণুর প্রায় পুরোটাই ফাঁকা জায়গা।
+## definition
+**মৌলিক কণা (Fundamental particles)**: ইলেকট্রন, প্রোটন ও নিউট্রন, যে স্থায়ী কণাগুলো দিয়ে সব পরমাণু গঠিত।
+
+**পারমাণবিক সংখ্যা (Z)**: কোনো মৌলের পরমাণুর নিউক্লিয়াসে উপস্থিত প্রোটনের সংখ্যা। নিরপেক্ষ পরমাণুতে এটি ইলেকট্রনের সংখ্যারও সমান।
+
+**ভরসংখ্যা (A)**: কোনো পরমাণুর নিউক্লিয়াসে উপস্থিত প্রোটন ও নিউট্রনের মোট সংখ্যা। A = Z + N।
+## why
+নিউট্রন বা ইলেকট্রনের সংখ্যা নয়, প্রোটনের সংখ্যাই কেন মৌলের পরিচয়? বিক্রিয়ায় ইলেকট্রন সহজেই হারানো বা গ্রহণ করা যায় (আয়ন তৈরি হয়), আর একই মৌলের পরমাণুতে নিউট্রনের সংখ্যা ভিন্ন হতে পারে (আইসোটোপ)। কিন্তু প্রোটনের সংখ্যা নিউক্লিয়াসের ধনাত্মক আধান ঠিক করে দেয়, যা ঠিক করে নিরপেক্ষ পরমাণুতে কয়টি ইলেকট্রন থাকবে, আর তাই পরমাণুটি রাসায়নিকভাবে কেমন আচরণ করবে। প্রোটনের সংখ্যা বদলাতে নিউক্লিয়াসেই পরিবর্তন লাগে, আর তাতে মৌলটাই নতুন হয়ে যায়।
+## terms
+ইলেকট্রন (e) | আধান −১ (−১.৬০ × ১০^{-১৯} C), আপেক্ষিক ভর ≈ ০
+প্রোটন (p) | আধান +১ (+১.৬০ × ১০^{-১৯} C), আপেক্ষিক ভর ১
+নিউট্রন (n) | আধান নেই, আপেক্ষিক ভর ১
+নিউক্লিয়াস | প্রোটন ও নিউট্রনযুক্ত ক্ষুদ্র কেন্দ্রীয় অংশ
+পারমাণবিক সংখ্যা (Z) | প্রোটনের সংখ্যা
+ভরসংখ্যা (A) | প্রোটন + নিউট্রনের সংখ্যা
+আয়ন | যে পরমাণু ইলেকট্রন হারিয়ে বা গ্রহণ করে আধানযুক্ত হয়েছে
+## formula
+$$ A = Z + N
+$$ N = A − Z
+$$ ইলেকট্রন (নিরপেক্ষ পরমাণু) = Z
+$$ আয়নের আধান = প্রোটন − ইলেকট্রন
+Z | পারমাণবিক সংখ্যা = প্রোটনের সংখ্যা | —
+A | ভরসংখ্যা = প্রোটন + নিউট্রন | —
+N | নিউট্রনের সংখ্যা | —
+! লেখার নিয়ম: ^{A}_{Z}X, যেমন ^{23}_{11}Na
+## visual
+প্রোটন, নিউট্রন ও ইলেকট্রন যোগ করো বা সরাও। উইজেট বলে দেবে তুমি কোন মৌল বানালে, এর ভরসংখ্যা, আধান আর কীভাবে লিখতে হয়।
+## real
+বাংলাদেশে যাঁরা এক্স-রে যন্ত্র, ক্যানসার চিকিৎসার ইউনিট বা রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রে কাজ করেন, সেই চিকিৎসক, প্রকৌশলী ও বিজ্ঞানীরা সবাই প্রোটন-নিউট্রনের এই সহজ হিসাবের ওপর নির্ভর করেন। টিভি বা ফোনের চার্জারে ক্ষুদ্র ইলেকট্রনের প্রবাহই বিদ্যুৎ বয়ে নেয়।
+## example
+প্রশ্ন: সোডিয়ামের পারমাণবিক সংখ্যা ১১ আর ভরসংখ্যা ২৩। এর প্রোটন, ইলেকট্রন ও নিউট্রনের সংখ্যা বের করো এবং A ও Z সহ প্রতীক লেখো।
+দেওয়া আছে: Z = ১১, A = ২৩
+সূত্র: প্রোটন = Z; ইলেকট্রন = Z (নিরপেক্ষ পরমাণু); N = A − Z
+হিসাব: প্রোটন = ১১; ইলেকট্রন = ১১; N = ২৩ − ১১ = ১২
+উত্তর: ১১টি প্রোটন, ১১টি ইলেকট্রন, ১২টি নিউট্রন; লেখা হয় ^{23}_{11}Na।
+## example
+প্রশ্ন: ^{7}_{3}Li এবং ^{9}_{4}Be এর ভরসংখ্যা, প্রোটন, ইলেকট্রন ও নিউট্রনের সংখ্যা বের করো।
+সমাধান: Li: A = ৭, p = ৩, e = ৩, N = ৭ − ৩ = ৪। Be: A = ৯, p = ৪, e = ৪, N = ৯ − ৪ = ৫।
+উত্তর: Li: ৭, ৩, ৩, ৪। Be: ৯, ৪, ৪, ৫।
+## example
+প্রশ্ন: অ্যালুমিনিয়াম আয়ন Al³⁺ এর ভরসংখ্যা ২৭ ও পারমাণবিক সংখ্যা ১৩। এতে কয়টি প্রোটন, নিউট্রন ও ইলেকট্রন আছে?
+দেওয়া আছে: Z = ১৩, A = ২৭, আধান +৩
+হিসাব: প্রোটন = ১৩; নিউট্রন = ২৭ − ১৩ = ১৪; ইলেকট্রন = ১৩ − ৩ = ১০
+> +৩ আধান মানে ইলেকট্রনের চেয়ে প্রোটন ৩টি বেশি: পরমাণুটি ৩টি ইলেকট্রন হারিয়েছে।
+উত্তর: ১৩টি p, ১৪টি n, ১০টি e
+## mistakes
+x ভরসংখ্যা হলো ইলেকট্রনসহ সব কণার সংখ্যা।
+v ভরসংখ্যায় শুধু প্রোটন ও নিউট্রন গোনা হয়; ইলেকট্রন নয়।
+x পারমাণবিক সংখ্যা নিউট্রনের সংখ্যার সমান।
+v পারমাণবিক সংখ্যা = প্রোটনের সংখ্যা। (নিরপেক্ষ পরমাণুতে এটি ইলেকট্রনের সংখ্যারও সমান।)
+x আয়নের পারমাণবিক সংখ্যা তার পরমাণুর চেয়ে আলাদা।
+v আয়ন তৈরিতে শুধু ইলেকট্রন বদলায়; প্রোটনের সংখ্যা, তাই Z-ও, একই থাকে।
+## remember
+- ইলেকট্রন: −১, ভর ≈ ০ (৯.১১ × ১০^{-২৮} g)। প্রোটন: +১, ভর ১। নিউট্রন: ০, ভর ১।
+- প্রোটন ও নিউট্রন নিউক্লিয়াসে; ইলেকট্রন বাইরে।
+- Z = প্রোটন (নিরপেক্ষ পরমাণুতে = ইলেকট্রন); A = Z + N।
+- লেখা হয় ^{A}_{Z}X, যেমন ^{23}_{11}Na।
+- প্রোটিয়াম (¹H) ছাড়া সব পরমাণুতে নিউট্রন আছে।
+## think
+ইলেকট্রনের ভর প্রায় শূন্য, তবু মৌলগুলো কীভাবে বিক্রিয়া করে তা ব্যাখ্যা করতে রসায়নবিদেরা ইলেকট্রন নিয়ে এত মাথা ঘামান কেন?
+## quiz
+? ইলেকট্রনের আপেক্ষিক ভর ধরা হয়:
+* ০
+- ১
+- −১
+- ১৮৪০
+= এর ভর প্রোটনের প্রায় ১/১৮৪০, তাই শূন্য ধরা হয়।
+? একটি পরমাণুতে ১৭টি প্রোটন ও ১৮টি নিউট্রন আছে। এর ভরসংখ্যা:
+- ১৭
+- ১৮
+* ৩৫
+- ১
+= A = Z + N = ১৭ + ১৮ = ৩৫।
+? ^{39}_{19}K তে নিউট্রন কয়টি?
+- ১৯
+* ২০
+- ৩৯
+- ৫৮
+= N = ৩৯ − ১৯ = ২০।
+? কোন কণার আধান নেই?
+- ইলেকট্রন
+- প্রোটন
+* নিউট্রন
+- নিউক্লিয়াস
+= নিউট্রন আধান-নিরপেক্ষ।
+? মৌলের পারমাণবিক সংখ্যা কীসের সংখ্যা নির্দেশ করে?
+- নিউট্রন
+* প্রোটন
+- প্রোটন + নিউট্রন
+- অণু
+= Z = নিউক্লিয়াসে প্রোটনের সংখ্যা।
+
+@@ 3.6
+@visual k3model
+@related 3.5 3.7 4.4
+@media https://phet.colorado.edu/en/simulations/rutherford-scattering | Rutherford Scattering (PhET simulation) | রাদারফোর্ড বিক্ষেপণ (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Rutherford's model (1911)** pictures the atom as a tiny, heavy, positive **nucleus** with electrons circling it like planets around the sun, and mostly empty space in between. **Bohr's model (1913)** corrected it: electrons move only in certain fixed **orbits (energy levels)**, where they neither gain nor lose energy; an electron absorbs energy to jump up a level and emits it (as light) when it falls down.
+## simple
+**3.6.1 Rutherford's model.** How do you find out what is inside something you can never see? Rutherford's team fired tiny, fast, positively charged **alpha particles** at a very thin sheet of gold foil and watched where they went.
+- **Most went straight through**, as if nothing were there. So an atom is **mostly empty space**.
+- **A few were deflected** through large angles. Something **positive** inside the atom was pushing them away.
+- **A very few (roughly one in several thousand) bounced almost straight back.** That could happen only if they hit something tiny but very heavy. So all the positive charge and nearly all the mass of an atom are packed into a tiny centre: the **nucleus**.
+
+From this, Rutherford proposed his model:
+- a. At the centre of every atom is a very small, dense, positively charged **nucleus**. The protons and neutrons are inside it (the electrons are outside), so the nucleus holds almost all the mass of the atom.
+- b. The nucleus is extremely small; most of the atom is empty space.
+- c. Electrons move round the nucleus in orbits, like planets round the sun. The number of electrons equals the number of protons, so the atom as a whole is neutral.
+- d. The negative electrons are attracted by the positive nucleus. This attraction provides the centripetal force that keeps each electron going round.
+
+Because it resembles the solar system it is called the **solar-system model**, and because it first introduced the nucleus it is also called the **nuclear model**.
+
+**Limitations of Rutherford's model**
+- a. It said nothing about the size (radius) or shape of the electron orbits.
+- b. The sun and planets are electrically neutral, but the nucleus and electrons are charged, so the comparison with the solar system is not really correct.
+- c. It could not explain how several electrons move round the nucleus in atoms with more than one electron.
+- d. According to Maxwell's electromagnetic theory, a charged particle moving in a circle keeps **radiating energy**. The electron would lose energy, spiral inwards and finally crash into the nucleus, so atoms could not be stable. But real atoms are stable. So Rutherford's model cannot be completely correct.
+
+**3.6.2 Bohr's model.** Niels Bohr kept Rutherford's nucleus but added new rules:
+- a. Electrons can move only in certain **permanent circular orbits** of fixed radius, called **energy levels, shells** or **principal energy levels**. While moving in such an orbit, an electron neither absorbs nor emits energy. The orbits are numbered n = 1, 2, 3, 4 … and named **K, L, M, N …** The smaller n is, the lower the energy.
+- b. Only those orbits are allowed in which the electron's angular momentum is a whole-number multiple of h/2π: **mvr = nh/2π**.
+- c. An electron **absorbs** energy when it jumps from a lower level to a higher one, and **emits** energy when it falls from a higher level to a lower one. The energy absorbed or emitted is exactly the difference between the two levels: **ΔE = hν = hc/λ**.
+
+When the light given out by falling electrons is passed through a prism, it does not form a continuous rainbow but separate bright lines: the **atomic spectrum**. Every element has its own line pattern, like a fingerprint.
+
+**Successes of Bohr's model**
+- a. It gave the orbits a definite size, which Rutherford's model did not.
+- b. It explained what happens inside the atom when it absorbs or emits energy (electrons jump between levels).
+- c. It explained the atomic spectrum of hydrogen, the atom with one electron.
+
+**Limitations of Bohr's model**
+- a. It cannot explain the spectra of atoms or ions with more than one electron.
+- b. With high-resolution instruments, each spectral line turns out to be several very fine lines close together; Bohr's model cannot explain this.
+- c. It assumed only circular orbits; later work showed that elliptical (oval) orbits also have to be considered.
+
+**Which model is more acceptable?** Bohr's model, because it explains the stability of the atom and the hydrogen spectrum, which Rutherford's cannot. Even so, it is not the final word: the modern (quantum-mechanical) model, which you will study in higher classes, replaced fixed orbits with regions where electrons are likely to be found.
+## analogy
+Think of a staircase in your school. You can stand on the first step or the second step, but not halfway between them. Climbing up needs energy; jumping down releases it. Bohr's electrons live on such steps (energy levels): they can only stand on a step, and each jump down gives out a packet of light with exactly the energy of that step difference.
+## definition
+**Rutherford's atomic model (nuclear model)**: an atom consists of a tiny, dense, positively charged nucleus containing almost all its mass, surrounded by electrons revolving in orbits; most of the atom is empty space.
+
+**Bohr's atomic model**: electrons revolve round the nucleus only in certain permitted circular orbits (stationary orbits or energy levels) for which mvr = nh/2π; in these orbits they do not radiate energy. Energy is absorbed or emitted only when an electron moves from one level to another, and its amount is ΔE = hν = hc/λ.
+
+**Atomic spectrum**: the pattern of separate lines produced when the light emitted (or absorbed) by atoms is passed through a prism.
+## why
+Why must the energy come in fixed packets? Because the energy levels themselves are fixed. An electron falling from level 3 to level 2 always loses the same amount of energy, so it always gives out light of exactly the same wavelength. That is why the hydrogen spectrum has sharp lines at fixed positions instead of a continuous band of colour. A larger energy drop gives light of higher frequency (shorter wavelength): from red towards violet.
+## terms
+Alpha particle | Fast, positively charged particle (helium nucleus) used by Rutherford
+Nucleus | Tiny, dense, positive centre of the atom
+Stationary orbit / energy level | Allowed orbit where the electron does not radiate energy
+Principal quantum number (n) | Number of the energy level: 1 (K), 2 (L), 3 (M), 4 (N) …
+Atomic spectrum (পারমাণবিক বর্ণালি) | Separate bright lines from light emitted by atoms
+Planck's constant (h) | 6.626 × 10^{-34} J s (m² kg/s)
+## formula
+$$ mvr = nh/2π
+$$ ΔE = E_{higher} − E_{lower} = hν = hc/λ
+$$ c = νλ
+m | mass of electron | 9.11 × 10^{-31} kg
+v | speed of the electron in the orbit | m s^{-1}
+r | radius of the orbit | m
+n | principal quantum number (1, 2, 3 …) | —
+h | Planck's constant | 6.626 × 10^{-34} J s
+ν | frequency of the absorbed or emitted light | Hz (s^{-1})
+λ | wavelength of the light | m
+c | speed of light | 3 × 10^{8} m s^{-1}
+! Absorbed energy → electron goes up; emitted energy → electron comes down.
+## visual
+In "Gold foil", fire alpha particles at the gold atoms and see how few of them bounce back. In "Bohr jumps", tap an energy level to move the electron and see whether light is absorbed or emitted, and its wavelength.
+## real
+Street lamps that glow orange (sodium lamps) and the coloured lights of neon signs in Dhaka's shopping areas work because excited electrons fall back to lower levels and emit light of fixed colours. Fireworks at celebrations get their colours the same way: strontium salts give red, copper salts give blue-green. Astronomers identify the elements in distant stars from their spectral lines.
+## example
+Q: When the electron in a hydrogen atom falls from level n = 3 to n = 2, it emits red light of wavelength 656 nm. Find the frequency and the energy of this light. (h = 6.626 × 10^{-34} J s, c = 3 × 10^{8} m s^{-1})
+Given: λ = 656 nm = 656 × 10^{-9} m
+Formula: ν = c/λ; E = hν
+Calculation: ν = 3 × 10^{8} ÷ (656 × 10^{-9}) ≈ 4.57 × 10^{14} Hz; E = 6.626 × 10^{-34} × 4.57 × 10^{14} ≈ 3.03 × 10^{-19} J
+> This energy equals the difference between energy levels 3 and 2 of hydrogen.
+Answer: ν ≈ 4.57 × 10^{14} Hz; E ≈ 3.03 × 10^{-19} J
+## example
+Q: Using Bohr's rule mvr = nh/2π, find the angular momentum of an electron in the K shell (n = 1) and in the M shell (n = 3). How do they compare?
+Formula: mvr = nh/2π
+Calculation: h/2π = 6.626 × 10^{-34} ÷ (2 × 3.1416) ≈ 1.055 × 10^{-34} kg m² s^{-1}; K (n = 1): 1.055 × 10^{-34}; M (n = 3): 3 × 1.055 × 10^{-34} ≈ 3.16 × 10^{-34} kg m² s^{-1}
+Answer: The M-shell electron has 3 times the angular momentum of the K-shell electron (angular momentum is proportional to n).
+## mistakes
+x In Rutherford's experiment most alpha particles bounced back.
+v Most passed straight through; only a very few bounced back. That is why the atom was found to be mostly empty space with a tiny nucleus.
+x An electron gives out light while it moves in its orbit.
+v In Bohr's model an electron in a fixed orbit does not radiate; it emits light only when it drops to a lower level.
+x Bohr's model explains the spectra of all atoms.
+v It explains only the hydrogen (one-electron) spectrum.
+## remember
+- Gold foil: most pass through (empty space), a few deflect, very few bounce back (tiny, heavy, positive nucleus).
+- Rutherford: nucleus + electrons in orbits; fails on stability (Maxwell), orbit size, many electrons.
+- Bohr: fixed orbits K, L, M, N (n = 1, 2, 3, 4); mvr = nh/2π; no radiation in an orbit.
+- Up = absorb, down = emit: ΔE = hν = hc/λ; explains the hydrogen spectrum.
+- Bohr's model is more acceptable than Rutherford's but fails for many-electron atoms.
+## think
+If Rutherford had used a thick block of gold instead of a very thin foil, why would the experiment have told him much less about the structure of an atom?
+## quiz
+? In Rutherford's gold-foil experiment, most alpha particles passed straight through. This shows that:
+- The nucleus is negative
+* Most of an atom is empty space
+- Electrons are heavy
+- Gold has no nucleus
+= If most pass undisturbed, there is almost nothing in their way.
+? According to Bohr, an electron emits energy when it:
+- Revolves in a fixed orbit
+- Jumps from a lower to a higher level
+* Falls from a higher to a lower level
+- Enters the nucleus
+= Falling to a lower level releases the energy difference as light.
+? The M shell corresponds to:
+- n = 1
+- n = 2
+* n = 3
+- n = 4
+= K, L, M, N ↔ n = 1, 2, 3, 4.
+? Which limitation of Rutherford's model is based on Maxwell's theory?
+- It did not give the orbit size
+* A revolving electron would lose energy and fall into the nucleus
+- It compared charged particles with neutral planets
+- It could not explain many-electron atoms
+= A charged particle in circular motion radiates energy according to Maxwell.
+== bn
+## what
+**রাদারফোর্ডের মডেল (১৯১১)** অনুযায়ী পরমাণুর কেন্দ্রে থাকে ক্ষুদ্র, ভারী, ধনাত্মক **নিউক্লিয়াস**, আর সূর্যের চারপাশে গ্রহের মতো ইলেকট্রনগুলো এর চারপাশে ঘোরে; মাঝের বেশিরভাগ জায়গা ফাঁকা। **বোরের মডেল (১৯১৩)** একে সংশোধন করে: ইলেকট্রন কেবল কয়েকটি নির্দিষ্ট **কক্ষপথে (শক্তিস্তরে)** ঘোরে, যেখানে সে শক্তি শোষণ বা বিকিরণ করে না; শক্তি শোষণ করলে ইলেকট্রন ওপরের স্তরে লাফিয়ে ওঠে, আর নিচে নামলে শক্তি (আলো হিসেবে) বিকিরণ করে।
+## simple
+**৩.৬.১ রাদারফোর্ডের মডেল।** যা কখনো চোখে দেখা যায় না, তার ভেতরে কী আছে কীভাবে জানবে? রাদারফোর্ডের দল খুব পাতলা সোনার পাতের দিকে অতি ক্ষুদ্র, দ্রুতগামী, ধনাত্মক আধানযুক্ত **আলফা কণা** ছুড়ে দেখলেন সেগুলো কোথায় যায়।
+- **বেশিরভাগ কণা সোজা বেরিয়ে গেল**, যেন সামনে কিছুই নেই। তাহলে পরমাণুর **বেশিরভাগটাই ফাঁকা**।
+- **কিছু কণা বড় কোণে বেঁকে গেল।** পরমাণুর ভেতরের **ধনাত্মক** কিছু একটা এদের ঠেলে সরিয়েছে।
+- **খুব অল্প কিছু কণা (মোটামুটি কয়েক হাজারে একটি) প্রায় সোজা ফিরে এল।** এটা তখনই সম্ভব যদি কণাটি ক্ষুদ্র কিন্তু খুব ভারী কিছুতে ধাক্কা খায়। অর্থাৎ পরমাণুর সব ধনাত্মক আধান আর প্রায় সব ভর একটি ক্ষুদ্র কেন্দ্রে জমা: এটাই **নিউক্লিয়াস**।
+
+এ থেকে রাদারফোর্ড তাঁর মডেল দেন:
+- ক. প্রতিটি পরমাণুর কেন্দ্রে আছে একটি অতি ক্ষুদ্র, ঘন, ধনাত্মক আধানযুক্ত **নিউক্লিয়াস**। প্রোটন ও নিউট্রন এর ভেতরে থাকে (ইলেকট্রন থাকে বাইরে), তাই পরমাণুর প্রায় সব ভর নিউক্লিয়াসে।
+- খ. নিউক্লিয়াস অত্যন্ত ক্ষুদ্র; পরমাণুর বেশিরভাগ জায়গাই ফাঁকা।
+- গ. সূর্যের চারদিকে গ্রহের মতো ইলেকট্রনগুলো নিউক্লিয়াসের চারদিকে বিভিন্ন কক্ষপথে ঘোরে। ইলেকট্রনের সংখ্যা প্রোটনের সংখ্যার সমান, তাই পরমাণু সামগ্রিকভাবে আধান-নিরপেক্ষ।
+- ঘ. ঋণাত্মক ইলেকট্রন ধনাত্মক নিউক্লিয়াসের প্রতি আকর্ষণ অনুভব করে। এই আকর্ষণই কেন্দ্রমুখী বল জোগায়, যা ইলেকট্রনকে ঘুরিয়ে রাখে।
+
+সৌরজগতের সাথে মিল থাকায় একে বলে **সৌর মডেল**, আর প্রথমবার নিউক্লিয়াসের ধারণা দেওয়ায় একে **নিউক্লিয়ার মডেলও** বলা হয়।
+
+**রাদারফোর্ড মডেলের সীমাবদ্ধতা**
+- ক. ইলেকট্রনের কক্ষপথের আকার (ব্যাসার্ধ) ও আকৃতি সম্পর্কে কিছু বলা হয়নি।
+- খ. সূর্য ও গ্রহগুলো আধানহীন, কিন্তু নিউক্লিয়াস ও ইলেকট্রন আধানযুক্ত; তাই সৌরজগতের সাথে তুলনাটি পুরোপুরি ঠিক নয়।
+- গ. একাধিক ইলেকট্রনবিশিষ্ট পরমাণুতে ইলেকট্রনগুলো কীভাবে নিউক্লিয়াসের চারপাশে ঘোরে, তার ব্যাখ্যা নেই।
+- ঘ. ম্যাক্সওয়েলের তড়িৎচুম্বকীয় তত্ত্ব অনুযায়ী বৃত্তপথে ঘুরতে থাকা আধানযুক্ত কণা ক্রমাগত **শক্তি বিকিরণ করে**। তাহলে ইলেকট্রন শক্তি হারিয়ে ঘুরতে ঘুরতে ভেতরে ঢুকবে আর শেষে নিউক্লিয়াসে পড়ে যাবে, ফলে পরমাণু স্থিতিশীল থাকতে পারবে না। কিন্তু বাস্তবে পরমাণু স্থিতিশীল। তাই রাদারফোর্ডের মডেল পুরোপুরি সঠিক হতে পারে না।
+
+**৩.৬.২ বোরের মডেল।** নীলস বোর রাদারফোর্ডের নিউক্লিয়াস রেখে দিয়ে কয়েকটি নতুন নিয়ম যোগ করেন:
+- ক. ইলেকট্রন কেবল নির্দিষ্ট ব্যাসার্ধের কয়েকটি **স্থির বৃত্তাকার কক্ষপথে** ঘুরতে পারে, যাদের বলে **শক্তিস্তর, শেল** বা **প্রধান শক্তিস্তর**। এমন কক্ষপথে ঘোরার সময় ইলেকট্রন শক্তি শোষণ বা বিকিরণ করে না। কক্ষপথগুলোকে n = ১, ২, ৩, ৪ … দিয়ে চিহ্নিত করা হয় এবং নাম দেওয়া হয় **K, L, M, N …**। n যত ছোট, শক্তি তত কম।
+- খ. শুধু সেই কক্ষপথগুলোই অনুমোদিত, যেখানে ইলেকট্রনের কৌণিক ভরবেগ h/2π এর পূর্ণসংখ্যা গুণিতক: **mvr = nh/2π**।
+- গ. ইলেকট্রন নিম্ন শক্তিস্তর থেকে উচ্চ শক্তিস্তরে লাফালে শক্তি **শোষণ** করে, আর উচ্চ থেকে নিম্ন শক্তিস্তরে নামলে শক্তি **বিকিরণ** করে। শোষিত বা বিকিরিত শক্তি ঠিক দুই স্তরের শক্তির পার্থক্যের সমান: **ΔE = hν = hc/λ**।
+
+নেমে আসা ইলেকট্রনের বিকিরিত আলো প্রিজমের মধ্য দিয়ে পাঠালে একটানা রংধনু হয় না, আলাদা আলাদা উজ্জ্বল রেখা পাওয়া যায়: এটাই **পারমাণবিক বর্ণালি**। প্রতিটি মৌলের রেখার নকশা আলাদা, যেন আঙুলের ছাপ।
+
+**বোর মডেলের সাফল্য**
+- ক. এটি কক্ষপথের নির্দিষ্ট আকার দিয়েছে, যা রাদারফোর্ডের মডেলে ছিল না।
+- খ. পরমাণু শক্তি শোষণ বা বিকিরণ করলে ভেতরে কী ঘটে (ইলেকট্রন স্তর বদলায়) তা ব্যাখ্যা করেছে।
+- গ. এক ইলেকট্রনবিশিষ্ট পরমাণু হাইড্রোজেনের পারমাণবিক বর্ণালি ব্যাখ্যা করেছে।
+
+**বোর মডেলের সীমাবদ্ধতা**
+- ক. একাধিক ইলেকট্রনবিশিষ্ট পরমাণু বা আয়নের বর্ণালি ব্যাখ্যা করতে পারে না।
+- খ. শক্তিশালী যন্ত্রে দেখা যায় প্রতিটি বর্ণালি রেখা আসলে কাছাকাছি কয়েকটি সূক্ষ্ম রেখার সমষ্টি; বোর মডেল এর ব্যাখ্যা দিতে পারে না।
+- গ. এতে শুধু বৃত্তাকার কক্ষপথ ধরা হয়েছে; পরে দেখা গেছে উপবৃত্তাকার (ডিম্বাকার) কক্ষপথও বিবেচনা করতে হয়।
+
+**কোন মডেলটি বেশি গ্রহণযোগ্য?** বোরের মডেল, কারণ এটি পরমাণুর স্থিতিশীলতা আর হাইড্রোজেনের বর্ণালি ব্যাখ্যা করে, যা রাদারফোর্ডের মডেল পারে না। তবু এটাই শেষ কথা নয়: উচ্চতর শ্রেণিতে যে আধুনিক (কোয়ান্টাম বলবিদ্যাভিত্তিক) মডেল পড়বে, তাতে নির্দিষ্ট কক্ষপথের বদলে এমন অঞ্চলের কথা বলা হয় যেখানে ইলেকট্রন পাওয়ার সম্ভাবনা বেশি।
+## analogy
+তোমার স্কুলের সিঁড়ির কথা ভাবো। তুমি প্রথম ধাপে বা দ্বিতীয় ধাপে দাঁড়াতে পারো, কিন্তু দুই ধাপের মাঝখানে নয়। ওপরে উঠতে শক্তি লাগে; নিচে লাফ দিলে শক্তি বেরিয়ে যায়। বোরের ইলেকট্রনেরা এমন ধাপে (শক্তিস্তরে) থাকে: শুধু ধাপের ওপরেই দাঁড়াতে পারে, আর প্রতিবার নিচে নামলে ঠিক সেই ধাপের পার্থক্যের সমান শক্তির এক প্যাকেট আলো বের হয়।
+## definition
+**রাদারফোর্ডের পরমাণু মডেল (নিউক্লিয়ার মডেল)**: পরমাণুর কেন্দ্রে প্রায় সব ভরসহ একটি ক্ষুদ্র, ঘন, ধনাত্মক নিউক্লিয়াস আছে, যাকে ঘিরে ইলেকট্রনগুলো কক্ষপথে ঘোরে; পরমাণুর বেশিরভাগ জায়গা ফাঁকা।
+
+**বোরের পরমাণু মডেল**: ইলেকট্রন নিউক্লিয়াসের চারদিকে কেবল কয়েকটি অনুমোদিত বৃত্তাকার কক্ষপথে (স্থির কক্ষপথ বা শক্তিস্তরে) ঘোরে, যাদের জন্য mvr = nh/2π; এসব কক্ষপথে ইলেকট্রন শক্তি বিকিরণ করে না। ইলেকট্রন এক স্তর থেকে অন্য স্তরে গেলেই কেবল শক্তি শোষিত বা বিকিরিত হয়, যার পরিমাণ ΔE = hν = hc/λ।
+
+**পারমাণবিক বর্ণালি**: পরমাণুর বিকিরিত (বা শোষিত) আলো প্রিজমের মধ্য দিয়ে পাঠালে যে আলাদা আলাদা রেখার নকশা পাওয়া যায়।
+## why
+শক্তি কেন নির্দিষ্ট প্যাকেটে আসে? কারণ শক্তিস্তরগুলোই নির্দিষ্ট। ৩ নম্বর স্তর থেকে ২ নম্বর স্তরে নামা ইলেকট্রন সবসময় একই পরিমাণ শক্তি হারায়, তাই সবসময় ঠিক একই তরঙ্গদৈর্ঘ্যের আলো দেয়। এজন্যই হাইড্রোজেনের বর্ণালিতে একটানা রঙের পট্টি নয়, নির্দিষ্ট জায়গায় তীক্ষ্ণ রেখা থাকে। শক্তির পতন যত বড়, আলোর কম্পাঙ্ক তত বেশি (তরঙ্গদৈর্ঘ্য তত ছোট): লাল থেকে বেগুনির দিকে।
+## terms
+আলফা কণা | রাদারফোর্ডের ব্যবহৃত দ্রুতগামী, ধনাত্মক আধানযুক্ত কণা (হিলিয়াম নিউক্লিয়াস)
+নিউক্লিয়াস | পরমাণুর ক্ষুদ্র, ঘন, ধনাত্মক কেন্দ্র
+স্থির কক্ষপথ / শক্তিস্তর | অনুমোদিত কক্ষপথ, যেখানে ইলেকট্রন শক্তি বিকিরণ করে না
+প্রধান কোয়ান্টাম সংখ্যা (n) | শক্তিস্তরের নম্বর: ১ (K), ২ (L), ৩ (M), ৪ (N) …
+পারমাণবিক বর্ণালি | পরমাণুর বিকিরিত আলো থেকে পাওয়া আলাদা উজ্জ্বল রেখা
+প্লাংকের ধ্রুবক (h) | ৬.৬২৬ × ১০^{-৩৪} J s (m² kg/s)
+## formula
+$$ mvr = nh/2π
+$$ ΔE = E_{উচ্চ} − E_{নিম্ন} = hν = hc/λ
+$$ c = νλ
+m | ইলেকট্রনের ভর | ৯.১১ × ১০^{-৩১} kg
+v | কক্ষপথে ইলেকট্রনের বেগ | m s^{-১}
+r | কক্ষপথের ব্যাসার্ধ | m
+n | প্রধান কোয়ান্টাম সংখ্যা (১, ২, ৩ …) | —
+h | প্লাংকের ধ্রুবক | ৬.৬২৬ × ১০^{-৩৪} J s
+ν | শোষিত বা বিকিরিত আলোর কম্পাঙ্ক | Hz (s^{-১})
+λ | আলোর তরঙ্গদৈর্ঘ্য | m
+c | আলোর বেগ | ৩ × ১০^{৮} m s^{-১}
+! শক্তি শোষণ → ইলেকট্রন ওপরে ওঠে; শক্তি বিকিরণ → ইলেকট্রন নিচে নামে।
+## visual
+"সোনার পাত" অংশে সোনার পরমাণুর দিকে আলফা কণা ছোড়ো, দেখো কত কম কণা ফিরে আসে। "বোরের লাফ" অংশে একটি শক্তিস্তরে চাপ দিয়ে ইলেকট্রন সরাও, দেখো আলো শোষিত হলো না বিকিরিত হলো, আর তার তরঙ্গদৈর্ঘ্য কত।
+## real
+কমলা আলোর রাস্তার বাতি (সোডিয়াম বাতি) আর ঢাকার বিপণিবিতানের নিয়ন সাইনের রঙিন আলো জ্বলে কারণ উত্তেজিত ইলেকট্রন নিচের স্তরে নেমে নির্দিষ্ট রঙের আলো দেয়। উৎসবের আতশবাজির রংও এভাবেই আসে: স্ট্রনসিয়ামের লবণ লাল, কপারের লবণ নীলাভ-সবুজ। জ্যোতির্বিদেরা দূরের নক্ষত্রের বর্ণালি রেখা দেখে সেখানে কোন কোন মৌল আছে তা বের করেন।
+## example
+প্রশ্ন: হাইড্রোজেন পরমাণুর ইলেকট্রন n = ৩ থেকে n = ২ স্তরে নামলে ৬৫৬ nm তরঙ্গদৈর্ঘ্যের লাল আলো বিকিরণ করে। এই আলোর কম্পাঙ্ক ও শক্তি বের করো। (h = ৬.৬২৬ × ১০^{-৩৪} J s, c = ৩ × ১০^{৮} m s^{-১})
+দেওয়া আছে: λ = ৬৫৬ nm = ৬৫৬ × ১০^{-৯} m
+সূত্র: ν = c/λ; E = hν
+হিসাব: ν = ৩ × ১০^{৮} ÷ (৬৫৬ × ১০^{-৯}) ≈ ৪.৫৭ × ১০^{১৪} Hz; E = ৬.৬২৬ × ১০^{-৩৪} × ৪.৫৭ × ১০^{১৪} ≈ ৩.০৩ × ১০^{-১৯} J
+> এই শক্তি হাইড্রোজেনের ৩ ও ২ নম্বর শক্তিস্তরের শক্তির পার্থক্যের সমান।
+উত্তর: ν ≈ ৪.৫৭ × ১০^{১৪} Hz; E ≈ ৩.০৩ × ১০^{-১৯} J
+## example
+প্রশ্ন: বোরের নিয়ম mvr = nh/2π ব্যবহার করে K শেলে (n = ১) আর M শেলে (n = ৩) ইলেকট্রনের কৌণিক ভরবেগ বের করো। এদের তুলনা কী?
+সূত্র: mvr = nh/2π
+হিসাব: h/2π = ৬.৬২৬ × ১০^{-৩৪} ÷ (২ × ৩.১৪১৬) ≈ ১.০৫৫ × ১০^{-৩৪} kg m² s^{-১}; K (n = ১): ১.০৫৫ × ১০^{-৩৪}; M (n = ৩): ৩ × ১.০৫৫ × ১০^{-৩৪} ≈ ৩.১৬ × ১০^{-৩৪} kg m² s^{-১}
+উত্তর: M শেলের ইলেকট্রনের কৌণিক ভরবেগ K শেলের ইলেকট্রনের ৩ গুণ (কৌণিক ভরবেগ n এর সমানুপাতিক)।
+## mistakes
+x রাদারফোর্ডের পরীক্ষায় বেশিরভাগ আলফা কণা ফিরে এসেছিল।
+v বেশিরভাগ কণা সোজা বেরিয়ে গিয়েছিল; খুব অল্প কিছু ফিরে এসেছিল। এ থেকেই বোঝা যায় পরমাণুর বেশিরভাগ ফাঁকা, আর নিউক্লিয়াস ক্ষুদ্র।
+x ইলেকট্রন কক্ষপথে ঘোরার সময় আলো দেয়।
+v বোরের মডেলে স্থির কক্ষপথে ইলেকট্রন শক্তি বিকিরণ করে না; নিচের স্তরে নামলেই কেবল আলো দেয়।
+x বোরের মডেল সব পরমাণুর বর্ণালি ব্যাখ্যা করে।
+v এটি শুধু হাইড্রোজেনের (এক ইলেকট্রনবিশিষ্ট) বর্ণালি ব্যাখ্যা করে।
+## remember
+- সোনার পাত: বেশিরভাগ কণা পার হয় (ফাঁকা জায়গা), কিছু বেঁকে যায়, খুব অল্প ফিরে আসে (ক্ষুদ্র, ভারী, ধনাত্মক নিউক্লিয়াস)।
+- রাদারফোর্ড: নিউক্লিয়াস + কক্ষপথে ইলেকট্রন; স্থিতিশীলতা (ম্যাক্সওয়েল), কক্ষপথের আকার, একাধিক ইলেকট্রন ব্যাখ্যায় ব্যর্থ।
+- বোর: স্থির কক্ষপথ K, L, M, N (n = ১, ২, ৩, ৪); mvr = nh/2π; কক্ষপথে বিকিরণ নেই।
+- ওপরে = শোষণ, নিচে = বিকিরণ: ΔE = hν = hc/λ; হাইড্রোজেনের বর্ণালি ব্যাখ্যা করে।
+- বোরের মডেল রাদারফোর্ডের চেয়ে বেশি গ্রহণযোগ্য, তবে বহু-ইলেকট্রন পরমাণুর ক্ষেত্রে ব্যর্থ।
+## think
+রাদারফোর্ড যদি খুব পাতলা পাতের বদলে সোনার মোটা একটি টুকরা ব্যবহার করতেন, তাহলে পরীক্ষাটি পরমাণুর গঠন সম্পর্কে অনেক কম তথ্য দিত কেন?
+## quiz
+? রাদারফোর্ডের সোনার পাত পরীক্ষায় বেশিরভাগ আলফা কণা সোজা বেরিয়ে গিয়েছিল। এ থেকে বোঝা যায়:
+- নিউক্লিয়াস ঋণাত্মক
+* পরমাণুর বেশিরভাগ জায়গা ফাঁকা
+- ইলেকট্রন ভারী
+- সোনায় নিউক্লিয়াস নেই
+= বেশিরভাগ কণা বাধাহীনভাবে গেলে বোঝা যায় পথে প্রায় কিছুই নেই।
+? বোরের মতে ইলেকট্রন শক্তি বিকিরণ করে যখন সে:
+- স্থির কক্ষপথে ঘোরে
+- নিম্ন থেকে উচ্চ স্তরে লাফায়
+* উচ্চ থেকে নিম্ন স্তরে নামে
+- নিউক্লিয়াসে ঢোকে
+= নিচের স্তরে নামলে শক্তির পার্থক্যটুকু আলো হিসেবে বেরিয়ে যায়।
+? M শেলের জন্য:
+- n = ১
+- n = ২
+* n = ৩
+- n = ৪
+= K, L, M, N ↔ n = ১, ২, ৩, ৪।
+? রাদারফোর্ড মডেলের কোন সীমাবদ্ধতা ম্যাক্সওয়েলের তত্ত্বের ওপর ভিত্তি করে?
+- কক্ষপথের আকার বলা হয়নি
+* ঘূর্ণায়মান ইলেকট্রন শক্তি হারিয়ে নিউক্লিয়াসে পড়ে যাবে
+- আধানযুক্ত কণাকে আধানহীন গ্রহের সাথে তুলনা
+- বহু-ইলেকট্রন পরমাণু ব্যাখ্যা করতে পারে না
+= ম্যাক্সওয়েলের মতে বৃত্তপথে ঘোরা আধানযুক্ত কণা শক্তি বিকিরণ করে।
+
+@@ 3.7
+@visual k3config
+@related 3.6 4.4 5.1 4.3
+== en
+## what
+**Electronic configuration** is the way an atom's electrons are arranged in its energy levels (K, L, M, N …) and sublevels (s, p, d, f). A shell n can hold at most **2n²** electrons (K 2, L 8, M 18, N 32), and electrons fill the sublevels in order of increasing energy: **1s 2s 2p 3s 3p 4s 3d 4p …**
+## simple
+**Shell capacity: 2n².** Bohr's energy levels fill from the inside out, but each has a limit:
+- K (n = 1): 2 × 1² = **2**
+- L (n = 2): 2 × 2² = **8**
+- M (n = 3): 2 × 3² = **18**
+- N (n = 4): 2 × 4² = **32**
+
+Hydrogen (1 electron): K1. Helium (2): K2, full. Lithium (3): K is full with 2, so the third goes into L: **2, 1**. Sodium (11): **2, 8, 1**. Chlorine (17): **2, 8, 7**. Argon (18): **2, 8, 8**.
+
+**A surprise at potassium.** Up to argon everything follows the simple rule. M can hold 18, so you would expect potassium (19) to be 2, 8, 9. But in fact it is **2, 8, 8, 1**: the 19th electron goes into N before M is full. Calcium (20) is **2, 8, 8, 2**. Then from scandium (21) onwards, new electrons **go back** into M: Sc is 2, 8, 9, 2; Ti 2, 8, 10, 2 … up to zinc (30), 2, 8, 18, 2. To understand why, we need sublevels.
+
+**3.7.1 Energy sublevels (subshells).** Each shell n is divided into sublevels, numbered by l = 0, 1, … (n − 1) and named s, p, d, f:
+- n = 1: l = 0 → **1s**
+- n = 2: l = 0, 1 → **2s, 2p**
+- n = 3: l = 0, 1, 2 → **3s, 3p, 3d**
+- n = 4: l = 0, 1, 2, 3 → **4s, 4p, 4d, 4f**
+
+So shell n has **n sublevels**. A sublevel with value l can hold **2(2l + 1)** electrons: **s 2, p 6, d 10, f 14**. (It contains 2l + 1 orbitals, and each orbital holds 2 electrons.) Add them up and you get 2n² again: L = 2 + 6 = 8; M = 2 + 6 + 10 = 18; N = 2 + 6 + 10 + 14 = 32.
+
+(For n = 5 and higher there would in theory be even more sublevels (5g …), but no known atom in its normal state puts electrons there, so s, p, d, f are all we need. The Bangla and English versions of the textbook use the word "orbital" for these sublevels; strictly, an orbital is a smaller unit inside a sublevel.)
+
+**3.7.2 Principles of filling.** Three principles govern it: **Pauli's exclusion principle** (an orbital holds at most two electrons), the **Aufbau principle** (electrons enter the lowest-energy sublevel available first) and **Hund's rule** (electrons spread out singly over orbitals of the same sublevel before pairing). You will study them in detail in higher classes; here we use Aufbau.
+
+**Which sublevel has lower energy? The (n + l) rule.**
+- The sublevel with the **smaller (n + l)** has lower energy and fills first.
+- If two sublevels have the **same (n + l)**, the one with **smaller n** fills first.
+
+Example: 4s has n + l = 4 + 0 = 4; 3d has 3 + 2 = 5. So **4s fills before 3d**. That is why potassium's 19th electron goes into 4s (the N shell), not 3d. Again, 3d (3 + 2 = 5) and 4p (4 + 1 = 5) tie; 3d has the smaller n, so it fills first.
+
+The resulting order is:
+**1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f < 6d < 7p**
+
+A diagonal-arrow chart helps you remember it: write 1s; 2s 2p; 3s 3p 3d; 4s 4p 4d 4f … in rows and read along diagonal arrows from top right to bottom left.
+
+**Examples:**
+- K (19): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹
+- Ca (20): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²
+- Sc (21): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s²
+- Fe (26): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s²
+
+Notice: 4s **fills** before 3d, but when **writing** the final configuration we keep all sublevels of the same shell together (3s 3p 3d, then 4s). This makes it easy to count the electrons in each shell and avoid mistakes.
+
+**3.7.3 Exceptions: Cr and Cu.** A sublevel that is exactly **half-full** (p³, d⁵) or **completely full** (p⁶, d¹⁰) is extra stable.
+- Chromium (24) "should" be 3d⁴ 4s², but one 4s electron moves into 3d to make a half-full 3d⁵: **Cr: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹** (shells 2, 8, 13, 1).
+- Copper (29) "should" be 3d⁹ 4s², but one 4s electron moves in to complete 3d¹⁰: **Cu: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹** (shells 2, 8, 18, 1).
+## analogy
+Think of filling seats in a cinema hall where the cheapest seats fill first. Row 4s turns out to be cheaper than row 3d, even though "3" sounds like it should come first, so people sit in 4s before 3d. And a group of friends would rather have a whole row or exactly half a row to themselves: that is why chromium and copper move one electron to make 3d half-full or full.
+## definition
+**Electronic configuration**: the arrangement of the electrons of an atom in its principal energy levels and sublevels.
+
+**2n² rule**: the maximum number of electrons in principal energy level n is 2n².
+
+**Energy sublevel (subshell)**: a division of a principal energy level, identified by l = 0, 1, 2, 3 (s, p, d, f), holding at most 2(2l + 1) electrons.
+
+**Aufbau principle**: electrons enter sublevels in order of increasing energy; the sublevel with lower (n + l) fills first, and for equal (n + l) the one with lower n fills first.
+## why
+Why does 4s fill before 3d even though it belongs to a higher shell? The energy of a sublevel depends not only on n but also on its shape (l). The 4s electrons spend part of their time very close to the nucleus (they "penetrate" the inner shells), which lowers their energy. In atoms like potassium and calcium this makes 4s slightly lower in energy than 3d, so it fills first. The (n + l) rule is a simple way to capture this.
+## terms
+Shell / principal energy level | K, L, M, N for n = 1, 2, 3, 4; capacity 2n²
+Subshell / sublevel | s, p, d, f (l = 0, 1, 2, 3); capacity 2, 6, 10, 14
+Aufbau principle | Fill the lowest-energy sublevel first
+(n + l) rule | Lower n + l → lower energy; tie → lower n first
+Pauli's exclusion principle | At most two electrons in one orbital
+Hund's rule | Electrons occupy orbitals of a sublevel singly before pairing
+## formula
+$$ maximum electrons in shell n = 2n²
+$$ maximum electrons in a sublevel = 2(2l + 1)
+$$ number of sublevels in shell n = n
+n | principal quantum number (shell number) | —
+l | sublevel number: s = 0, p = 1, d = 2, f = 3 (l = 0 … n − 1) | —
+! K 2, L 8, M 18, N 32; s 2, p 6, d 10, f 14
+! Order: 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s 4f …
+## visual
+Move the atomic number slider from 1 to 30. Watch the electrons fill the shells, and read the shell configuration (2, 8, …) and the subshell configuration. Look closely at K, Ca, Sc, Cr and Cu.
+## real
+Electronic configuration is the key to the periodic table (Chapter 4) and to chemical bonding (Chapter 5). Iron's partly filled 3d sublevel is why iron compounds are coloured and why iron can form both Fe²⁺ and Fe³⁺, which matters in the iron-rich groundwater of many parts of Bangladesh. Copper's single 4s electron makes copper an excellent conductor for household wiring.
+## example
+Q: Write the shell (K, L, M, N) configuration of oxygen (8), aluminium (13), chlorine (17) and calcium (20).
+Solution: O: 2, 6. Al: 2, 8, 3. Cl: 2, 8, 7. Ca: 2, 8, 8, 2.
+> For calcium, the 19th and 20th electrons go to the N shell (4s) before M gets more than 8.
+Answer: O 2,6; Al 2,8,3; Cl 2,8,7; Ca 2,8,8,2
+## example
+Q: Write the subshell configuration of sulfur (16) and of iron (26), and give the number of electrons in each shell of iron.
+Solution: S: 1s² 2s² 2p⁶ 3s² 3p⁴. Fe: fill 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² (20 electrons), then the remaining 6 go into 3d: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s².
+Calculation: Fe shells: K = 2; L = 2 + 6 = 8; M = 2 + 6 + 6 = 14; N = 2
+Answer: S: 1s² 2s² 2p⁶ 3s² 3p⁴; Fe: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s² (2, 8, 14, 2)
+## example
+Q: Using the (n + l) rule, decide which fills first: (a) 4s or 3d, (b) 3d or 4p, (c) 5s or 4d.
+Solution: (a) 4s: 4 + 0 = 4; 3d: 3 + 2 = 5 → 4s first. (b) 3d: 5; 4p: 4 + 1 = 5, a tie → smaller n, so 3d first. (c) 5s: 5 + 0 = 5; 4d: 4 + 2 = 6 → 5s first.
+Answer: (a) 4s, (b) 3d, (c) 5s
+## example
+Q: Why is copper's configuration 3d¹⁰ 4s¹ and not 3d⁹ 4s²?
+Solution: A completely filled d sublevel (d¹⁰) is especially stable. By moving one electron from 4s into 3d, copper completes its 3d sublevel, which gives a lower-energy, more stable atom.
+Answer: Cu(29): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹, because a full 3d¹⁰ is more stable.
+## mistakes
+x Potassium's configuration is 2, 8, 9 because M can hold 18.
+v It is 2, 8, 8, 1: the 4s sublevel (N shell) has lower energy than 3d and fills first.
+x Every shell has 2n² sublevels.
+v Shell n has n sublevels; 2n² is its maximum number of electrons.
+x Chromium is 3d⁴ 4s².
+v Chromium is 3d⁵ 4s¹, because a half-full d⁵ sublevel is extra stable (and copper is 3d¹⁰ 4s¹).
+## remember
+- Shell capacity 2n²: K 2, L 8, M 18, N 32.
+- Sublevels s, p, d, f (l = 0, 1, 2, 3) hold 2, 6, 10, 14.
+- Fill in (n + l) order: 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s …
+- K 2,8,8,1; Ca 2,8,8,2; Sc 2,8,9,2; Zn 2,8,18,2.
+- Exceptions: Cr 3d⁵ 4s¹, Cu 3d¹⁰ 4s¹ (half-full / full d is stable).
+## think
+Scandium's 21st electron enters 3d, yet when scandium forms an ion (Sc³⁺), the 4s electrons are removed first. What does this suggest about the energies of 4s and 3d once the 3d sublevel starts to fill?
+## quiz
+? The maximum number of electrons in the M shell is:
+- 8
+* 18
+- 32
+- 2
+= 2n² = 2 × 3² = 18.
+? What is the electron configuration of calcium (Z = 20) in shells?
+- 2, 8, 10
+- 2, 8, 9, 1
+* 2, 8, 8, 2
+- 2, 10, 8
+= The 19th and 20th electrons enter 4s (N shell) before 3d.
+? How many sublevels are there in the N shell?
+- 1
+- 2
+- 3
+* 4
+= n = 4 → 4s, 4p, 4d, 4f.
+? How many electrons are in the M shell of scandium (Z = 21)?
+- 8
+* 9
+- 10
+- 11
+= Sc: 2, 8, 9, 2 (3s² 3p⁶ 3d¹).
+? Which is the correct configuration of chromium (Z = 24)?
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s²
+* 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4p⁴
+= A half-full 3d⁵ is more stable, so one 4s electron moves to 3d.
+== bn
+## what
+পরমাণুর ইলেকট্রনগুলো তার প্রধান শক্তিস্তর (K, L, M, N …) ও উপশক্তিস্তরে (s, p, d, f) যেভাবে সাজানো থাকে, তাকে **ইলেকট্রন বিন্যাস** বলে। n তম শক্তিস্তরে সর্বোচ্চ **2n²** টি ইলেকট্রন থাকতে পারে (K ২, L ৮, M ১৮, N ৩২), আর ইলেকট্রন উপশক্তিস্তরগুলো ভরাট করে শক্তির ক্রমবর্ধমান ক্রমে: **1s 2s 2p 3s 3p 4s 3d 4p …**
+## simple
+**শক্তিস্তরের ধারণক্ষমতা: 2n²।** বোরের শক্তিস্তরগুলো ভেতর থেকে বাইরের দিকে ভরাট হয়, কিন্তু প্রতিটির একটা সীমা আছে:
+- K (n = ১): ২ × ১² = **২**
+- L (n = ২): ২ × ২² = **৮**
+- M (n = ৩): ২ × ৩² = **১৮**
+- N (n = ৪): ২ × ৪² = **৩২**
+
+হাইড্রোজেন (১টি ইলেকট্রন): K-তে ১। হিলিয়াম (২): K-তে ২, পূর্ণ। লিথিয়াম (৩): K তে ২টি ভরে গেছে, তাই তৃতীয়টি যায় L-এ: **২, ১**। সোডিয়াম (১১): **২, ৮, ১**। ক্লোরিন (১৭): **২, ৮, ৭**। আর্গন (১৮): **২, ৮, ৮**।
+
+**পটাশিয়ামে এসে চমক।** আর্গন পর্যন্ত সবকিছু সহজ নিয়ম মেনে চলে। M এ ১৮টি ধরে, তাই আশা করবে পটাশিয়াম (১৯) হবে ২, ৮, ৯। কিন্তু আসলে এটি **২, ৮, ৮, ১**: ১৯তম ইলেকট্রনটি M পূর্ণ হওয়ার আগেই N এ চলে যায়। ক্যালসিয়াম (২০): **২, ৮, ৮, ২**। তারপর স্ক্যান্ডিয়াম (২১) থেকে নতুন ইলেকট্রনগুলো আবার **M এ ফিরে আসে**: Sc ২, ৮, ৯, ২; Ti ২, ৮, ১০, ২ … জিংক (৩০) পর্যন্ত, ২, ৮, ১৮, ২। কেন এমন হয় বুঝতে হলে উপশক্তিস্তর জানতে হবে।
+
+**৩.৭.১ উপশক্তিস্তরের ধারণা।** প্রতিটি প্রধান শক্তিস্তর n কয়েকটি উপশক্তিস্তরে বিভক্ত; এদের চিহ্নিত করা হয় l = ০, ১, … (n − ১) দিয়ে, আর নাম দেওয়া হয় s, p, d, f:
+- n = ১: l = ০ → **1s**
+- n = ২: l = ০, ১ → **2s, 2p**
+- n = ৩: l = ০, ১, ২ → **3s, 3p, 3d**
+- n = ৪: l = ০, ১, ২, ৩ → **4s, 4p, 4d, 4f**
+
+অর্থাৎ n তম শক্তিস্তরে **n টি উপশক্তিস্তর**। l মানের একটি উপশক্তিস্তরে সর্বোচ্চ **2(2l + 1)** টি ইলেকট্রন থাকতে পারে: **s ২, p ৬, d ১০, f ১৪**। (এতে 2l + 1 টি অরবিটাল থাকে, আর প্রতিটি অরবিটালে ২টি করে ইলেকট্রন।) যোগ করলে আবার 2n² পাওয়া যায়: L = ২ + ৬ = ৮; M = ২ + ৬ + ১০ = ১৮; N = ২ + ৬ + ১০ + ১৪ = ৩২।
+
+(n = ৫ বা তার বেশি হলে তাত্ত্বিকভাবে আরও উপশক্তিস্তর (5g …) থাকার কথা, কিন্তু কোনো জানা পরমাণু স্বাভাবিক অবস্থায় সেখানে ইলেকট্রন রাখে না, তাই s, p, d, f দিয়েই কাজ চলে। পাঠ্যবইয়ে এই উপশক্তিস্তরগুলোকে "অরবিটাল" বলা হয়েছে; আরও নিখুঁতভাবে বললে অরবিটাল হলো উপশক্তিস্তরের ভেতরের ছোট একক।)
+
+**৩.৭.২ ইলেকট্রন বিন্যাসের নীতি।** তিনটি নীতি এটি নিয়ন্ত্রণ করে: **পাউলির বর্জন নীতি** (একটি অরবিটালে সর্বোচ্চ দুটি ইলেকট্রন), **আউফবাউ নীতি** (ইলেকট্রন আগে সর্বনিম্ন শক্তির খালি উপশক্তিস্তরে ঢোকে) আর **হুন্ডের নীতি** (একই উপশক্তিস্তরের অরবিটালগুলোতে ইলেকট্রন জোড় বাঁধার আগে একটি একটি করে ছড়িয়ে বসে)। উচ্চ মাধ্যমিকে এগুলো বিস্তারিত পড়বে; এখানে আমরা আউফবাউ নীতি ব্যবহার করব।
+
+**কোন উপশক্তিস্তরের শক্তি কম? (n + l) নিয়ম।**
+- যে উপশক্তিস্তরের **(n + l) এর মান কম**, তার শক্তি কম, আর সেটি আগে ভরাট হয়।
+- দুটির **(n + l) সমান** হলে, যার **n কম** সেটি আগে ভরাট হয়।
+
+উদাহরণ: 4s এর n + l = ৪ + ০ = ৪; 3d এর ৩ + ২ = ৫। তাই **3d এর আগে 4s ভরাট হয়**। এজন্যই পটাশিয়ামের ১৯তম ইলেকট্রন 3d তে না গিয়ে 4s এ (N শেলে) যায়। আবার 3d (৩ + ২ = ৫) ও 4p (৪ + ১ = ৫) সমান; 3d এর n কম, তাই এটি আগে ভরাট হয়।
+
+এভাবে পাওয়া ক্রম:
+**1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f < 6d < 7p**
+
+কোনাকুনি তীরের একটি ছক এটি মনে রাখতে সাহায্য করে: 1s; 2s 2p; 3s 3p 3d; 4s 4p 4d 4f … সারি করে লিখে ডান-ওপর থেকে বাম-নিচে কোনাকুনি তীর ধরে পড়ো।
+
+**উদাহরণ:**
+- K (১৯): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹
+- Ca (২০): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²
+- Sc (২১): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s²
+- Fe (২৬): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s²
+
+লক্ষ করো: 3d এর আগে 4s **ভরাট হয়**, কিন্তু চূড়ান্ত বিন্যাস **লেখার** সময় একই শক্তিস্তরের সব উপশক্তিস্তর পাশাপাশি রাখা হয় (3s 3p 3d, তারপর 4s)। এতে প্রতিটি শেলে কয়টি ইলেকট্রন তা গোনা সহজ হয় আর ভুল কম হয়।
+
+**৩.৭.৩ ব্যতিক্রম: Cr ও Cu।** যে উপশক্তিস্তর ঠিক **অর্ধপূর্ণ** (p³, d⁵) বা **সম্পূর্ণ পূর্ণ** (p⁶, d¹⁰), তা বাড়তি সুস্থিত।
+- ক্রোমিয়ামের (২৪) "হওয়ার কথা" 3d⁴ 4s², কিন্তু 4s এর একটি ইলেকট্রন 3d তে চলে এসে অর্ধপূর্ণ 3d⁵ বানায়: **Cr: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹** (শেলে ২, ৮, ১৩, ১)।
+- কপারের (২৯) "হওয়ার কথা" 3d⁹ 4s², কিন্তু 4s এর একটি ইলেকট্রন এসে 3d¹⁰ পূর্ণ করে: **Cu: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹** (শেলে ২, ৮, ১৮, ১)।
+## analogy
+একটি সিনেমা হলের কথা ভাবো, যেখানে সস্তা আসনগুলো আগে ভরে। দেখা গেল 4s সারিটি 3d সারির চেয়ে সস্তা, যদিও "৩" শুনে মনে হয় সেটাই আগে আসার কথা; তাই দর্শকেরা 3d এর আগে 4s এ বসে। আর একদল বন্ধু চায় পুরো একটা সারি বা ঠিক অর্ধেক সারি নিজেদের জন্য: এজন্যই ক্রোমিয়াম ও কপার একটি ইলেকট্রন সরিয়ে 3d কে অর্ধপূর্ণ বা পূর্ণ করে।
+## definition
+**ইলেকট্রন বিন্যাস (Electronic configuration)**: পরমাণুর প্রধান শক্তিস্তর ও উপশক্তিস্তরগুলোতে তার ইলেকট্রনগুলোর বিন্যাস।
+
+**2n² নিয়ম**: n তম প্রধান শক্তিস্তরে সর্বোচ্চ ইলেকট্রন সংখ্যা 2n²।
+
+**উপশক্তিস্তর (Sublevel)**: প্রধান শক্তিস্তরের একটি ভাগ, যা l = ০, ১, ২, ৩ (s, p, d, f) দিয়ে চিহ্নিত এবং যাতে সর্বোচ্চ 2(2l + 1) টি ইলেকট্রন থাকে।
+
+**আউফবাউ নীতি**: ইলেকট্রন শক্তির ক্রমবর্ধমান ক্রমে উপশক্তিস্তরে প্রবেশ করে; যার (n + l) কম সেটি আগে, আর (n + l) সমান হলে যার n কম সেটি আগে ভরাট হয়।
+## why
+উচ্চতর শেলের হয়েও 4s কেন 3d এর আগে ভরাট হয়? উপশক্তিস্তরের শক্তি শুধু n এর ওপর নয়, এর আকৃতির (l) ওপরও নির্ভর করে। 4s এর ইলেকট্রন কিছু সময় নিউক্লিয়াসের খুব কাছে কাটায় (ভেতরের শেলগুলো "ভেদ" করে), এতে এর শক্তি কমে যায়। পটাশিয়াম ও ক্যালসিয়ামের মতো পরমাণুতে এ কারণে 4s এর শক্তি 3d এর চেয়ে সামান্য কম হয়, তাই এটি আগে ভরাট হয়। (n + l) নিয়ম এই ব্যাপারটিকে সহজভাবে ধরে।
+## terms
+শেল / প্রধান শক্তিস্তর | n = ১, ২, ৩, ৪ এর জন্য K, L, M, N; ধারণক্ষমতা 2n²
+উপশক্তিস্তর | s, p, d, f (l = ০, ১, ২, ৩); ধারণক্ষমতা ২, ৬, ১০, ১৪
+আউফবাউ নীতি | সর্বনিম্ন শক্তির উপশক্তিস্তর আগে ভরাট হয়
+(n + l) নিয়ম | n + l কম → শক্তি কম; সমান হলে n কম যেটির সেটি আগে
+পাউলির বর্জন নীতি | একটি অরবিটালে সর্বোচ্চ দুটি ইলেকট্রন
+হুন্ডের নীতি | জোড় বাঁধার আগে ইলেকট্রন একই উপশক্তিস্তরের অরবিটালে একা একা বসে
+## formula
+$$ n তম শেলে সর্বোচ্চ ইলেকট্রন = 2n²
+$$ একটি উপশক্তিস্তরে সর্বোচ্চ ইলেকট্রন = 2(2l + 1)
+$$ n তম শেলে উপশক্তিস্তরের সংখ্যা = n
+n | প্রধান কোয়ান্টাম সংখ্যা (শেলের নম্বর) | —
+l | উপশক্তিস্তরের নম্বর: s = ০, p = ১, d = ২, f = ৩ (l = ০ … n − ১) | —
+! K ২, L ৮, M ১৮, N ৩২; s ২, p ৬, d ১০, f ১৪
+! ক্রম: 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s 4f …
+## visual
+পারমাণবিক সংখ্যার স্লাইডার ১ থেকে ৩০ পর্যন্ত সরাও। দেখো ইলেকট্রন কীভাবে শেলগুলো ভরাট করে, আর শেলভিত্তিক বিন্যাস (২, ৮, …) ও উপশক্তিস্তরভিত্তিক বিন্যাস পড়ো। K, Ca, Sc, Cr ও Cu ভালো করে লক্ষ করো।
+## real
+ইলেকট্রন বিন্যাসই পর্যায় সারণি (চতুর্থ অধ্যায়) আর রাসায়নিক বন্ধন (পঞ্চম অধ্যায়) বোঝার চাবি। লোহার আংশিক পূর্ণ 3d উপশক্তিস্তরের কারণেই লোহার যৌগ রঙিন হয়, আর লোহা Fe²⁺ ও Fe³⁺ দুই রকম আয়ন তৈরি করতে পারে; বাংলাদেশের অনেক এলাকার আয়রনযুক্ত নলকূপের পানিতে এটা গুরুত্বপূর্ণ। কপারের একমাত্র 4s ইলেকট্রনের কারণে তামা চমৎকার বিদ্যুৎ পরিবাহী, তাই বাড়ির তারে ব্যবহৃত হয়।
+## example
+প্রশ্ন: অক্সিজেন (৮), অ্যালুমিনিয়াম (১৩), ক্লোরিন (১৭) ও ক্যালসিয়ামের (২০) শেলভিত্তিক (K, L, M, N) বিন্যাস লেখো।
+সমাধান: O: ২, ৬। Al: ২, ৮, ৩। Cl: ২, ৮, ৭। Ca: ২, ৮, ৮, ২।
+> ক্যালসিয়ামের ১৯তম ও ২০তম ইলেকট্রন M শেলে ৮টির বেশি হওয়ার আগেই N শেলে (4s) যায়।
+উত্তর: O ২,৬; Al ২,৮,৩; Cl ২,৮,৭; Ca ২,৮,৮,২
+## example
+প্রশ্ন: সালফার (১৬) ও আয়রনের (২৬) উপশক্তিস্তরভিত্তিক বিন্যাস লেখো, আর আয়রনের প্রতিটি শেলের ইলেকট্রন সংখ্যা বলো।
+সমাধান: S: 1s² 2s² 2p⁶ 3s² 3p⁴। Fe: প্রথমে 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² (২০টি ইলেকট্রন) ভরাট, তারপর বাকি ৬টি যায় 3d তে: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s²।
+হিসাব: Fe এর শেল: K = ২; L = ২ + ৬ = ৮; M = ২ + ৬ + ৬ = ১৪; N = ২
+উত্তর: S: 1s² 2s² 2p⁶ 3s² 3p⁴; Fe: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s² (২, ৮, ১৪, ২)
+## example
+প্রশ্ন: (n + l) নিয়ম ব্যবহার করে বলো কোনটি আগে ভরাট হবে: (ক) 4s না 3d, (খ) 3d না 4p, (গ) 5s না 4d।
+সমাধান: (ক) 4s: ৪ + ০ = ৪; 3d: ৩ + ২ = ৫ → 4s আগে। (খ) 3d: ৫; 4p: ৪ + ১ = ৫, সমান → n কম যেটির, তাই 3d আগে। (গ) 5s: ৫ + ০ = ৫; 4d: ৪ + ২ = ৬ → 5s আগে।
+উত্তর: (ক) 4s, (খ) 3d, (গ) 5s
+## example
+প্রশ্ন: কপারের বিন্যাস 3d⁹ 4s² না হয়ে 3d¹⁰ 4s¹ হয় কেন?
+সমাধান: সম্পূর্ণ পূর্ণ d উপশক্তিস্তর (d¹⁰) বিশেষভাবে সুস্থিত। 4s থেকে একটি ইলেকট্রন 3d তে সরিয়ে কপার তার 3d উপশক্তিস্তর পূর্ণ করে, এতে পরমাণুর শক্তি কমে এবং এটি বেশি সুস্থিত হয়।
+উত্তর: Cu(২৯): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹, কারণ পূর্ণ 3d¹⁰ বেশি সুস্থিত।
+## mistakes
+x M শেলে ১৮টি ধরে, তাই পটাশিয়ামের বিন্যাস ২, ৮, ৯।
+v এটি ২, ৮, ৮, ১: 4s উপশক্তিস্তরের (N শেল) শক্তি 3d এর চেয়ে কম, তাই আগে ভরাট হয়।
+x প্রতিটি শেলে 2n² টি উপশক্তিস্তর থাকে।
+v n তম শেলে n টি উপশক্তিস্তর; 2n² হলো এর সর্বোচ্চ ইলেকট্রন সংখ্যা।
+x ক্রোমিয়ামের বিন্যাস 3d⁴ 4s²।
+v ক্রোমিয়াম 3d⁵ 4s¹, কারণ অর্ধপূর্ণ d⁵ বাড়তি সুস্থিত (আর কপার 3d¹⁰ 4s¹)।
+## remember
+- শেলের ধারণক্ষমতা 2n²: K ২, L ৮, M ১৮, N ৩২।
+- উপশক্তিস্তর s, p, d, f (l = ০, ১, ২, ৩) এ ধরে ২, ৬, ১০, ১৪।
+- (n + l) ক্রমে ভরাট: 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s …
+- K ২,৮,৮,১; Ca ২,৮,৮,২; Sc ২,৮,৯,২; Zn ২,৮,১৮,২।
+- ব্যতিক্রম: Cr 3d⁵ 4s¹, Cu 3d¹⁰ 4s¹ (অর্ধপূর্ণ / পূর্ণ d সুস্থিত)।
+## think
+স্ক্যান্ডিয়ামের ২১তম ইলেকট্রন 3d তে ঢোকে, অথচ স্ক্যান্ডিয়াম আয়ন (Sc³⁺) তৈরির সময় আগে 4s এর ইলেকট্রনগুলোই সরে যায়। 3d ভরাট শুরু হওয়ার পর 4s ও 3d এর শক্তি সম্পর্কে এ থেকে কী ধারণা পাওয়া যায়?
+## quiz
+? M শেলে সর্বোচ্চ ইলেকট্রন সংখ্যা:
+- ৮
+* ১৮
+- ৩২
+- ২
+= 2n² = ২ × ৩² = ১৮।
+? ক্যালসিয়ামের (Z = ২০) শেলভিত্তিক ইলেকট্রন বিন্যাস কোনটি?
+- ২, ৮, ১০
+- ২, ৮, ৯, ১
+* ২, ৮, ৮, ২
+- ২, ১০, ৮
+= ১৯তম ও ২০তম ইলেকট্রন 3d এর আগে 4s এ (N শেলে) যায়।
+? N শেলে কয়টি উপশক্তিস্তর আছে?
+- ১
+- ২
+- ৩
+* ৪
+= n = ৪ → 4s, 4p, 4d, 4f।
+? স্ক্যান্ডিয়ামের (Z = ২১) M শেলে কয়টি ইলেকট্রন?
+- ৮
+* ৯
+- ১০
+- ১১
+= Sc: ২, ৮, ৯, ২ (3s² 3p⁶ 3d¹)।
+? ক্রোমিয়ামের (Z = ২৪) সঠিক ইলেকট্রন বিন্যাস কোনটি?
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s²
+* 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4p⁴
+= অর্ধপূর্ণ 3d⁵ বেশি সুস্থিত, তাই 4s এর একটি ইলেকট্রন 3d তে যায়।
+
+@@ 3.8
+@visual k3iso
+@related 3.5 3.9 3.10
+== en
+## what
+**Isotopes** are atoms of the same element that have the **same number of protons** (same atomic number) but **different numbers of neutrons**, and therefore different mass numbers. Hydrogen's three natural isotopes are protium ¹H, deuterium ²H (D) and tritium ³H (T).
+## simple
+Imagine three brothers who look exactly alike, have the same name, and behave the same way at school, but one weighs a little more than the others. Isotopes are like that.
+
+Every hydrogen atom has **1 proton**; that is what makes it hydrogen. But the number of neutrons can differ:
+- **Protium** (ordinary hydrogen) ¹₁H: 1 proton, **0 neutrons**, A = 1
+- **Deuterium** ²₁H or D: 1 proton, **1 neutron**, A = 2
+- **Tritium** ³₁H or T: 1 proton, **2 neutrons**, A = 3
+
+All three are hydrogen (Z = 1), so they are **isotopes** of one another. Hydrogen actually has seven known isotopes (¹H to ⁷H), but only these three occur in nature; the others have been made in laboratories and exist only for a tiny fraction of a second.
+
+**Other examples:**
+- Carbon: ¹²C (6 n), ¹³C (7 n), ¹⁴C (8 n)
+- Chlorine: ³⁵Cl (18 n) and ³⁷Cl (20 n)
+- Uranium: ²³⁵U (143 n) and ²³⁸U (146 n)
+
+**Same chemistry, different mass.** Isotopes of an element have the same number of electrons arranged the same way, so they react in almost exactly the same way. What differs is mass (and sometimes whether the nucleus is stable). Water made with deuterium, D₂O, is called **heavy water**: it looks and tastes like ordinary water but is about 10% denser. Some isotopes, such as tritium and carbon-14, have unstable nuclei and are **radioactive** (lesson 3.10).
+
+(The word *isotope* means "same place": all isotopes of an element sit in the same box of the periodic table.)
+## analogy
+Think of three identical cricket bats from the same company, with the same name and shape, but one has a little extra wood inside the handle. They hit the ball the same way (same chemistry), but one weighs more (different mass). Isotopes are "the same element with a different weight".
+## definition
+**Isotopes (আইসোটোপ)**: atoms of the same element having the same atomic number (number of protons) but different mass numbers, because they contain different numbers of neutrons.
+## why
+Why do isotopes behave the same in chemical reactions? Chemical reactions involve only the electrons, especially the outer ones. Isotopes have the same number of protons, so the same nuclear charge and the same number and arrangement of electrons. The extra neutrons sit quietly in the nucleus: they add mass but no charge, so they barely affect how the atom bonds.
+## terms
+Isotope (আইসোটোপ) | Same Z, different A (different number of neutrons)
+Protium (¹H) | Hydrogen with 0 neutrons (about 99.98% of natural hydrogen)
+Deuterium (²H, D) | Hydrogen with 1 neutron
+Tritium (³H, T) | Hydrogen with 2 neutrons; radioactive
+Heavy water | D₂O, water made with deuterium
+## visual
+Pick an element and step through its isotopes. The number of protons stays fixed while neutrons are added; watch the mass number change.
+## real
+Deuterium and tritium are fuels studied for future fusion power. Carbon-14 is used to find the age of old wood, bones and cloth (radiocarbon dating). Uranium-235, the isotope that can undergo fission easily, is the fuel of the Rooppur nuclear power plant; natural uranium has only about 0.7% of it, so the fuel is "enriched".
+## example
+Q: Find the numbers of protons, neutrons and electrons in ³⁵₁₇Cl and ³⁷₁₇Cl. Are they isotopes?
+Given: Z = 17 for both; A = 35 and 37
+Formula: N = A − Z
+Calculation: ³⁵Cl: p = 17, e = 17, N = 35 − 17 = 18. ³⁷Cl: p = 17, e = 17, N = 37 − 17 = 20
+Answer: Same protons (17), different neutrons (18 and 20): yes, they are isotopes of chlorine.
+## example
+Q: Which pairs are isotopes? (a) ¹²₆C and ¹⁴₆C, (b) ¹⁴₆C and ¹⁴₇N, (c) ¹⁶₈O and ¹⁸₈O.
+Solution: (a) Z = 6 for both, A different → isotopes. (b) Z = 6 and 7 → different elements, not isotopes (they only share the mass number). (c) Z = 8 for both → isotopes.
+Answer: (a) and (c)
+## mistakes
+x Isotopes have different numbers of protons.
+v Isotopes have the same number of protons; only the neutrons (and so the mass number) differ.
+x Isotopes of an element have different chemical properties.
+v Their chemical properties are almost identical because they have the same electrons; mainly their mass differs.
+x ¹⁴C and ¹⁴N are isotopes because both have mass number 14.
+v They have different atomic numbers (6 and 7), so they are different elements.
+## remember
+- Isotopes: same Z, different A (different neutrons).
+- Hydrogen: protium ¹H (0 n), deuterium ²H (1 n), tritium ³H (2 n).
+- Same electrons → same chemistry; different mass.
+- Chlorine ³⁵Cl, ³⁷Cl; carbon ¹²C, ¹³C, ¹⁴C; uranium ²³⁵U, ²³⁸U.
+## think
+If isotopes behave the same chemically, how could scientists separate uranium-235 from uranium-238 to make nuclear fuel?
+## quiz
+? Isotopes of an element have the same number of:
+* Protons
+- Neutrons
+- Nucleons (protons + neutrons)
+- Mass number
+= Same element → same atomic number (protons).
+? How many neutrons are in tritium?
+- 0
+- 1
+* 2
+- 3
+= Tritium ³₁H: N = 3 − 1 = 2.
+? Which pair are isotopes?
+- ⁴⁰₁₈Ar and ⁴⁰₂₀Ca
+* ¹⁶₈O and ¹⁷₈O
+- ²³₁₁Na and ²⁴₁₂Mg
+- ¹H and ⁴He
+= Both have Z = 8 but different A.
+? Heavy water is:
+- H₂O₂
+* D₂O
+- T₂
+- H₂O at 4 °C
+= Water made from deuterium.
+== bn
+## what
+একই মৌলের যেসব পরমাণুর **প্রোটন সংখ্যা সমান** (পারমাণবিক সংখ্যা সমান) কিন্তু **নিউট্রন সংখ্যা ভিন্ন**, ফলে ভরসংখ্যা ভিন্ন, তাদেরকে একে অপরের **আইসোটোপ** বলে। হাইড্রোজেনের তিনটি প্রাকৃতিক আইসোটোপ হলো প্রোটিয়াম ¹H, ডিউটেরিয়াম ²H (D) আর ট্রিটিয়াম ³H (T)।
+## simple
+ভাবো তিন ভাই, দেখতে হুবহু এক, নামও এক, স্কুলে আচরণও এক রকম; শুধু একজনের ওজন অন্যদের চেয়ে একটু বেশি। আইসোটোপ এমনই।
+
+প্রতিটি হাইড্রোজেন পরমাণুতে **১টি প্রোটন** থাকে; এটাই একে হাইড্রোজেন বানায়। কিন্তু নিউট্রনের সংখ্যা ভিন্ন হতে পারে:
+- **প্রোটিয়াম** (সাধারণ হাইড্রোজেন) ¹₁H: ১টি প্রোটন, **০টি নিউট্রন**, A = ১
+- **ডিউটেরিয়াম** ²₁H বা D: ১টি প্রোটন, **১টি নিউট্রন**, A = ২
+- **ট্রিটিয়াম** ³₁H বা T: ১টি প্রোটন, **২টি নিউট্রন**, A = ৩
+
+তিনটিই হাইড্রোজেন (Z = ১), তাই এরা একে অপরের **আইসোটোপ**। হাইড্রোজেনের আসলে সাতটি জানা আইসোটোপ আছে (¹H থেকে ⁷H), কিন্তু শুধু এই তিনটি প্রকৃতিতে পাওয়া যায়; বাকিগুলো গবেষণাগারে তৈরি এবং এক সেকেন্ডের অতি ক্ষুদ্র ভগ্নাংশ সময় টেকে।
+
+**আরও উদাহরণ:**
+- কার্বন: ¹²C (৬টি n), ¹³C (৭টি n), ¹⁴C (৮টি n)
+- ক্লোরিন: ³⁵Cl (১৮টি n) ও ³⁷Cl (২০টি n)
+- ইউরেনিয়াম: ²³⁵U (১৪৩টি n) ও ²³⁸U (১৪৬টি n)
+
+**রসায়ন একই, ভর আলাদা।** একই মৌলের আইসোটোপগুলোর ইলেকট্রন সংখ্যা ও বিন্যাস একই, তাই এরা প্রায় হুবহু একইভাবে বিক্রিয়া করে। পার্থক্য হয় ভরে (আর কখনো নিউক্লিয়াস স্থিতিশীল কি না তাতে)। ডিউটেরিয়াম দিয়ে তৈরি পানি D₂O কে বলে **ভারী পানি**: দেখতে ও স্বাদে সাধারণ পানির মতো, কিন্তু প্রায় ১০% বেশি ঘন। ট্রিটিয়াম ও কার্বন-১৪ এর মতো কিছু আইসোটোপের নিউক্লিয়াস অস্থিতিশীল, এরা **তেজস্ক্রিয়** (পাঠ ৩.১০)।
+
+(*আইসোটোপ* শব্দের অর্থ "একই স্থান": একটি মৌলের সব আইসোটোপ পর্যায় সারণির একই ঘরে বসে।)
+## analogy
+একই কোম্পানির হুবহু একই রকম তিনটি ক্রিকেট ব্যাট ভাবো, নাম আর আকার এক, কিন্তু একটির হাতলের ভেতরে একটু বাড়তি কাঠ। বলে একইভাবে মারে (রসায়ন একই), কিন্তু একটি ভারী (ভর আলাদা)। আইসোটোপ হলো "ভিন্ন ওজনের একই মৌল"।
+## definition
+**আইসোটোপ (Isotopes)**: একই মৌলের যেসব পরমাণুর পারমাণবিক সংখ্যা (প্রোটন সংখ্যা) সমান কিন্তু নিউট্রন সংখ্যা ভিন্ন হওয়ায় ভরসংখ্যা ভিন্ন, তাদেরকে একে অপরের আইসোটোপ বলে।
+## why
+রাসায়নিক বিক্রিয়ায় আইসোটোপগুলো একই রকম আচরণ করে কেন? রাসায়নিক বিক্রিয়ায় কেবল ইলেকট্রন, বিশেষ করে বাইরের ইলেকট্রনগুলো অংশ নেয়। আইসোটোপগুলোর প্রোটন সংখ্যা সমান, তাই নিউক্লিয়াসের আধান আর ইলেকট্রনের সংখ্যা ও বিন্যাস একই। বাড়তি নিউট্রনগুলো চুপচাপ নিউক্লিয়াসে বসে থাকে: ভর বাড়ায় কিন্তু আধান দেয় না, তাই পরমাণু কীভাবে বন্ধন গড়বে তাতে প্রায় কোনো প্রভাব ফেলে না।
+## terms
+আইসোটোপ | Z সমান, A ভিন্ন (নিউট্রন সংখ্যা ভিন্ন)
+প্রোটিয়াম (¹H) | ০টি নিউট্রনযুক্ত হাইড্রোজেন (প্রাকৃতিক হাইড্রোজেনের প্রায় ৯৯.৯৮%)
+ডিউটেরিয়াম (²H, D) | ১টি নিউট্রনযুক্ত হাইড্রোজেন
+ট্রিটিয়াম (³H, T) | ২টি নিউট্রনযুক্ত হাইড্রোজেন; তেজস্ক্রিয়
+ভারী পানি | D₂O, ডিউটেরিয়াম দিয়ে তৈরি পানি
+## visual
+একটি মৌল বেছে নাও আর এর আইসোটোপগুলো একে একে দেখো। প্রোটনের সংখ্যা একই থাকে, নিউট্রন যোগ হয়; দেখো ভরসংখ্যা কীভাবে বদলায়।
+## real
+ডিউটেরিয়াম ও ট্রিটিয়াম ভবিষ্যতের ফিউশন বিদ্যুতের জ্বালানি হিসেবে গবেষণাধীন। পুরোনো কাঠ, হাড় বা কাপড়ের বয়স বের করতে কার্বন-১৪ ব্যবহার করা হয় (রেডিওকার্বন ডেটিং)। যে আইসোটোপ সহজে ফিশন ঘটায়, সেই ইউরেনিয়াম-২৩৫ রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রের জ্বালানি; প্রাকৃতিক ইউরেনিয়ামে এর পরিমাণ মাত্র প্রায় ০.৭%, তাই জ্বালানিকে "সমৃদ্ধ" করে নিতে হয়।
+## example
+প্রশ্ন: ³⁵₁₇Cl ও ³⁷₁₇Cl এ প্রোটন, নিউট্রন ও ইলেকট্রনের সংখ্যা বের করো। এরা কি আইসোটোপ?
+দেওয়া আছে: দুটিরই Z = ১৭; A = ৩৫ ও ৩৭
+সূত্র: N = A − Z
+হিসাব: ³⁵Cl: p = ১৭, e = ১৭, N = ৩৫ − ১৭ = ১৮। ³⁷Cl: p = ১৭, e = ১৭, N = ৩৭ − ১৭ = ২০
+উত্তর: প্রোটন সমান (১৭), নিউট্রন ভিন্ন (১৮ ও ২০): হ্যাঁ, এরা ক্লোরিনের আইসোটোপ।
+## example
+প্রশ্ন: কোন জোড়াগুলো আইসোটোপ? (ক) ¹²₆C ও ¹⁴₆C, (খ) ¹⁴₆C ও ¹⁴₇N, (গ) ¹⁶₈O ও ¹⁸₈O।
+সমাধান: (ক) দুটিরই Z = ৬, A ভিন্ন → আইসোটোপ। (খ) Z = ৬ ও ৭ → ভিন্ন মৌল, আইসোটোপ নয় (শুধু ভরসংখ্যা এক)। (গ) দুটিরই Z = ৮ → আইসোটোপ।
+উত্তর: (ক) ও (গ)
+## mistakes
+x আইসোটোপগুলোর প্রোটন সংখ্যা ভিন্ন।
+v আইসোটোপগুলোর প্রোটন সংখ্যা সমান; শুধু নিউট্রন (তাই ভরসংখ্যা) ভিন্ন।
+x একই মৌলের আইসোটোপগুলোর রাসায়নিক ধর্ম ভিন্ন।
+v ইলেকট্রন একই বলে এদের রাসায়নিক ধর্ম প্রায় একই; মূলত ভর আলাদা।
+x ¹⁴C ও ¹⁴N আইসোটোপ, কারণ দুটিরই ভরসংখ্যা ১৪।
+v এদের পারমাণবিক সংখ্যা ভিন্ন (৬ ও ৭), তাই এরা ভিন্ন মৌল।
+## remember
+- আইসোটোপ: Z সমান, A ভিন্ন (নিউট্রন ভিন্ন)।
+- হাইড্রোজেন: প্রোটিয়াম ¹H (০টি n), ডিউটেরিয়াম ²H (১টি n), ট্রিটিয়াম ³H (২টি n)।
+- ইলেকট্রন একই → রসায়ন একই; ভর ভিন্ন।
+- ক্লোরিন ³⁵Cl, ³⁷Cl; কার্বন ¹²C, ¹³C, ¹⁴C; ইউরেনিয়াম ²³⁵U, ²³⁸U।
+## think
+আইসোটোপগুলো রাসায়নিকভাবে একই আচরণ করলে পারমাণবিক জ্বালানি বানাতে বিজ্ঞানীরা ইউরেনিয়াম-২৩৫ কে ইউরেনিয়াম-২৩৮ থেকে কীভাবে আলাদা করতে পারেন?
+## quiz
+? একই মৌলের আইসোটোপগুলোতে কোনটির সংখ্যা সমান?
+* প্রোটন
+- নিউট্রন
+- নিউক্লিয়ন (প্রোটন + নিউট্রন)
+- ভরসংখ্যা
+= একই মৌল → একই পারমাণবিক সংখ্যা (প্রোটন)।
+? ট্রিটিয়ামে কয়টি নিউট্রন?
+- ০
+- ১
+* ২
+- ৩
+= ট্রিটিয়াম ³₁H: N = ৩ − ১ = ২।
+? কোন জোড়াটি আইসোটোপ?
+- ⁴⁰₁₈Ar ও ⁴⁰₂₀Ca
+* ¹⁶₈O ও ¹⁷₈O
+- ²³₁₁Na ও ²⁴₁₂Mg
+- ¹H ও ⁴He
+= দুটিরই Z = ৮ কিন্তু A ভিন্ন।
+? ভারী পানি হলো:
+- H₂O₂
+* D₂O
+- T₂
+- ৪ °C তাপমাত্রার H₂O
+= ডিউটেরিয়াম দিয়ে তৈরি পানি।
+
+@@ 3.9
+@visual k3ram
+@related 3.8 3.4 6.1 3.5
+== en
+## what
+The **relative atomic mass** of an element tells how many times heavier one of its atoms is than 1/12 of the mass of a carbon-12 atom (the **atomic mass unit**, 1.66 × 10^{-24} g). For an element with several isotopes it is the **average** weighted by their natural abundance (chlorine: 35.5). The **relative molecular mass** is the sum of the relative atomic masses of all atoms in a molecule (H₂SO₄ = 98).
+## simple
+**Why "relative"?** One aluminium atom has a mass of 4.482 × 10^{-23} g; one fluorine atom, 3.16 × 10^{-23} g. Numbers like these are awkward to work with. So chemists chose a tiny standard mass and compare every atom with it.
+
+**The standard: the atomic mass unit (amu or u).** Take one atom of the carbon-12 isotope and divide its mass by 12. That is **1 amu = 1.66 × 10^{-24} g**. Then:
+
+**Relative atomic mass = mass of one atom ÷ (1/12 × mass of one C-12 atom)**
+
+For aluminium: 4.482 × 10^{-23} ÷ 1.66 × 10^{-24} = **27**. Because it is one mass divided by another, relative atomic mass has **no unit**. (In everyday use it is simply called the "atomic mass".)
+
+**But why is chlorine's atomic mass 35.5, not a whole number?** Mass numbers (protons + neutrons) are always whole numbers. The catch is that most elements are a mixture of isotopes. Natural chlorine is about 75% ³⁵Cl and 25% ³⁷Cl. The atomic mass in the periodic table is the **average** mass of a chlorine atom in that natural mixture.
+
+**3.9.1 Average from isotope percentages: three steps**
+- Step 1: multiply the mass number of each isotope by its percentage abundance.
+- Step 2: add the results.
+- Step 3: divide by 100.
+
+Chlorine: (35 × 75 + 37 × 25) ÷ 100 = (2625 + 925) ÷ 100 = **35.5**. Think of it like this: in every 100 chlorine atoms, 75 have mass 35 and 25 have mass 37, so the average is pulled closer to 35.
+
+**Working backwards.** If you know the average and there are only two isotopes, you can find the percentages. Copper has ⁶³Cu and ⁶⁵Cu with average 63.5. Let ⁶³Cu be x%: [63x + 65(100 − x)] ÷ 100 = 63.5 → x = 75. So ⁶³Cu ≈ 75% and ⁶⁵Cu ≈ 25% (using whole mass numbers, as the textbook does).
+
+**3.9.2 Relative molecular mass.** Add up the atomic masses of all the atoms in the formula (atomic mass × number of atoms, for each element).
+- H₂: 1 × 2 = **2**
+- H₂O: 1 × 2 + 16 = **18**
+- CO₂: 12 + 16 × 2 = **44**
+- H₂SO₄: 1 × 2 + 32 + 16 × 4 = **98**
+- NaCl: 23 + 35.5 = **58.5**
+- CaCO₃: 40 + 12 + 16 × 3 = **100**
+
+Useful atomic masses: H 1, C 12, N 14, O 16, Na 23, Mg 24, Al 27, S 32, Cl 35.5, K 39, Ca 40, Fe 56, Cu 63.5.
+## analogy
+Think of the average mark of your class. If 75 students scored 35 and 25 students scored 37, the class average is 35.5, even though nobody scored 35.5. Chlorine's atomic mass is the "class average" of all its atoms.
+## definition
+**Atomic mass unit (amu, u)**: 1/12 of the mass of one carbon-12 atom = 1.66 × 10^{-24} g.
+
+**Relative atomic mass**: the ratio of the mass of one atom of an element to 1/12 of the mass of one carbon-12 atom. It has no unit. For an element with isotopes it is the average of the isotope masses weighted by their natural percentage abundance.
+
+**Relative molecular mass**: the sum of the relative atomic masses of all the atoms in one molecule of a substance (no unit).
+## why
+Why carbon-12 as the standard? Carbon-12 is common, stable and easy to measure precisely, and choosing it makes the relative masses of almost all atoms come out close to whole numbers (hydrogen ≈ 1, oxygen ≈ 16). Because the same standard is used everywhere, a chemist in Dhaka and one in Tokyo get the same atomic masses, and chemical calculations (Chapter 6) work anywhere.
+## terms
+Atomic mass unit (amu) | 1/12 of the mass of a C-12 atom = 1.66 × 10^{-24} g
+Relative atomic mass | Mass of an atom compared with 1 amu; no unit
+Average relative atomic mass | Weighted average over natural isotopes (Cl 35.5, Cu 63.5)
+Percentage abundance | Percentage of an isotope in the natural element
+Relative molecular mass | Sum of atomic masses of all atoms in a molecule
+## formula
+$$ relative atomic mass = mass of one atom ÷ (1/12 × mass of one C-12 atom)
+$$ relative atomic mass = mass of one atom (g) ÷ 1.66 × 10^{-24} g
+$$ average relative atomic mass = (p × m + q × n) ÷ 100
+$$ relative molecular mass = Σ (atomic mass × number of atoms)
+p, q | mass numbers of the two isotopes | —
+m, n | their percentage abundances (m + n = 100) | %
+! Relative masses are ratios, so they have no unit.
+## visual
+Choose an element, or set your own two isotopes, and move the abundance slider. Watch the balance tip and the average atomic mass change. Then try the molecular mass builder.
+## real
+When a pharmacist in Bangladesh prepares oral rehydration saline (ORS), the amounts of NaCl, KCl and glucose in each packet are worked out using molecular masses. Fertiliser factories use the molecular mass of urea, CO(NH₂)₂ = 60, to find how much nitrogen a bag supplies: 28 of every 60 parts, about 47%.
+## example
+Q: The mass of one aluminium atom is 4.482 × 10^{-23} g. Find the relative atomic mass of aluminium.
+Given: mass of one Al atom = 4.482 × 10^{-23} g; 1 amu = 1.66 × 10^{-24} g
+Formula: relative atomic mass = mass of one atom ÷ 1.66 × 10^{-24} g
+Calculation: 4.482 × 10^{-23} ÷ 1.66 × 10^{-24} = 27.0
+Answer: 27 (no unit)
+## example
+Q: Natural chlorine is 75% ³⁵Cl and 25% ³⁷Cl. Find the average relative atomic mass of chlorine.
+Formula: average = (p × m + q × n) ÷ 100
+Substitution: (35 × 75 + 37 × 25) ÷ 100
+Calculation: (2625 + 925) ÷ 100 = 3550 ÷ 100 = 35.5
+Answer: 35.5
+## example
+Q: Copper has two isotopes, ⁶³Cu and ⁶⁵Cu, and its average relative atomic mass is 63.5. Find the percentage of each isotope.
+Given: let ⁶³Cu = x %, ⁶⁵Cu = (100 − x) %
+Formula: [63x + 65(100 − x)] ÷ 100 = 63.5
+Calculation: 63x + 6500 − 65x = 6350 → −2x = −150 → x = 75
+> This uses whole-number mass numbers. Real isotope masses are slightly less than whole numbers (62.93 and 64.93), so precise measurements give about 69% ⁶³Cu and 31% ⁶⁵Cu.
+Answer: ⁶³Cu = 75%, ⁶⁵Cu = 25% (by this method)
+## example
+Q: Element X has three isotopes: ²⁰X (90.92%), ²¹X (0.25%) and ²²X (8.82%). Find its relative atomic mass.
+Calculation: 20 × 90.92 = 1818.4; 21 × 0.25 = 5.25; 22 × 8.82 = 194.04; sum = 2017.69; ÷ 100 = 20.18
+Answer: about 20.2 (this is neon)
+## example
+Q: Find the relative molecular mass of H₂SO₄ and of CaCO₃. (H = 1, S = 32, O = 16, Ca = 40, C = 12)
+Formula: relative molecular mass = Σ (atomic mass × number of atoms)
+Calculation: H₂SO₄ = 1 × 2 + 32 × 1 + 16 × 4 = 2 + 32 + 64 = 98; CaCO₃ = 40 + 12 + 16 × 3 = 100
+Answer: H₂SO₄ = 98; CaCO₃ = 100
+## mistakes
+x The relative atomic mass of oxygen is 16 g.
+v Relative atomic mass is a ratio and has no unit: oxygen's is 16.
+x Chlorine's atomic mass is 35.5 because it has 18.5 neutrons.
+v No atom has half a neutron; 35.5 is the average of ³⁵Cl and ³⁷Cl atoms in nature.
+x To find a molecular mass, add the atomic masses of the different elements once each.
+v Multiply each atomic mass by the number of atoms of that element in the formula, then add.
+## remember
+- 1 amu = 1/12 of a C-12 atom = 1.66 × 10^{-24} g.
+- Relative atomic mass = mass of atom ÷ 1.66 × 10^{-24} g; no unit.
+- Average = Σ(mass number × %) ÷ 100: Cl = 35.5, Cu = 63.5.
+- Molecular mass = Σ(atomic mass × atoms): H₂O 18, CO₂ 44, H₂SO₄ 98, CaCO₃ 100.
+## think
+Natural boron has atomic mass 10.8 and two isotopes, ¹⁰B and ¹¹B. Without calculating, which isotope is more common? How can you tell?
+## quiz
+? 1 atomic mass unit is equal to:
+- 1 g
+- 1.66 × 10^{-27} g
+* 1.66 × 10^{-24} g
+- 9.11 × 10^{-28} g
+= 1/12 of a C-12 atom's mass = 1.66 × 10^{-24} g (= 1.66 × 10^{-27} kg).
+? An element has isotopes of mass 10 (20%) and 11 (80%). Its average atomic mass is:
+- 10.2
+- 10.5
+* 10.8
+- 11.2
+= (10 × 20 + 11 × 80) ÷ 100 = 1080 ÷ 100 = 10.8.
+? The relative molecular mass of CO₂ (C = 12, O = 16) is:
+- 28
+* 44
+- 32
+- 60
+= 12 + 16 × 2 = 44.
+? The unit of relative atomic mass is:
+- g
+- kg
+- amu per gram
+* It has no unit
+= It is a ratio of two masses.
+== bn
+## what
+কোনো মৌলের একটি পরমাণু একটি কার্বন-১২ পরমাণুর ভরের ১/১২ অংশের (**পারমাণবিক ভর একক**, ১.৬৬ × ১০^{-২৪} g) তুলনায় কত গুণ ভারী, তা-ই ঐ মৌলের **আপেক্ষিক পারমাণবিক ভর**। একাধিক আইসোটোপ থাকলে প্রাকৃতিক শতকরা পরিমাণ অনুযায়ী **গড়** নিতে হয় (ক্লোরিন: ৩৫.৫)। অণুর সব পরমাণুর আপেক্ষিক পারমাণবিক ভরের যোগফলই **আপেক্ষিক আণবিক ভর** (H₂SO₄ = ৯৮)।
+## simple
+**"আপেক্ষিক" কেন?** একটি অ্যালুমিনিয়াম পরমাণুর ভর ৪.৪৮২ × ১০^{-২৩} g; একটি ফ্লোরিন পরমাণুর ৩.১৬ × ১০^{-২৩} g। এমন সংখ্যা নিয়ে কাজ করা ঝামেলার। তাই রসায়নবিদেরা একটি ক্ষুদ্র আদর্শ ভর বেছে নিয়ে প্রতিটি পরমাণুকে তার সাথে তুলনা করেন।
+
+**আদর্শ: পারমাণবিক ভর একক (amu বা u)।** কার্বন-১২ আইসোটোপের একটি পরমাণু নিয়ে এর ভরকে ১২ দিয়ে ভাগ করো। এটাই **১ amu = ১.৬৬ × ১০^{-২৪} g**। তাহলে:
+
+**আপেক্ষিক পারমাণবিক ভর = একটি পরমাণুর ভর ÷ (একটি C-12 পরমাণুর ভরের ১/১২)**
+
+অ্যালুমিনিয়ামের জন্য: ৪.৪৮২ × ১০^{-২৩} ÷ ১.৬৬ × ১০^{-২৪} = **২৭**। এটি এক ভরকে আরেক ভর দিয়ে ভাগ, তাই আপেক্ষিক পারমাণবিক ভরের **কোনো একক নেই**। (সাধারণত একে সংক্ষেপে "পারমাণবিক ভর" বলা হয়।)
+
+**তাহলে ক্লোরিনের পারমাণবিক ভর পূর্ণসংখ্যা না হয়ে ৩৫.৫ কেন?** ভরসংখ্যা (প্রোটন + নিউট্রন) সবসময় পূর্ণসংখ্যা। আসল কথা হলো, বেশিরভাগ মৌল কয়েকটি আইসোটোপের মিশ্রণ। প্রাকৃতিক ক্লোরিনে প্রায় ৭৫% ³⁵Cl আর ২৫% ³⁷Cl। পর্যায় সারণিতে যে পারমাণবিক ভর দেওয়া থাকে, তা এই প্রাকৃতিক মিশ্রণে একটি ক্লোরিন পরমাণুর **গড়** ভর।
+
+**৩.৯.১ আইসোটোপের শতকরা পরিমাণ থেকে গড়: তিন ধাপ**
+- ধাপ ১: প্রতিটি আইসোটোপের ভরসংখ্যাকে তার শতকরা পরিমাণ দিয়ে গুণ করো।
+- ধাপ ২: গুণফলগুলো যোগ করো।
+- ধাপ ৩: যোগফলকে ১০০ দিয়ে ভাগ করো।
+
+ক্লোরিন: (৩৫ × ৭৫ + ৩৭ × ২৫) ÷ ১০০ = (২৬২৫ + ৯২৫) ÷ ১০০ = **৩৫.৫**। এভাবে ভাবো: প্রতি ১০০টি ক্লোরিন পরমাণুর ৭৫টির ভর ৩৫ আর ২৫টির ভর ৩৭, তাই গড় ৩৫ এর দিকে বেশি ঝুঁকে থাকে।
+
+**উল্টো দিক থেকে হিসাব।** গড় জানা থাকলে আর আইসোটোপ মাত্র দুটি হলে শতকরা পরিমাণ বের করা যায়। কপারের ⁶³Cu ও ⁶⁵Cu আইসোটোপ আছে, গড় ৬৩.৫। ধরো ⁶³Cu হলো x%: [৬৩x + ৬৫(১০০ − x)] ÷ ১০০ = ৬৩.৫ → x = ৭৫। তাই ⁶³Cu ≈ ৭৫% ও ⁶⁵Cu ≈ ২৫% (পাঠ্যবইয়ের মতো পূর্ণসংখ্যার ভরসংখ্যা ধরে)।
+
+**৩.৯.২ আপেক্ষিক আণবিক ভর।** সংকেতের সব পরমাণুর পারমাণবিক ভর যোগ করো (প্রতিটি মৌলের পারমাণবিক ভর × পরমাণুর সংখ্যা)।
+- H₂: ১ × ২ = **২**
+- H₂O: ১ × ২ + ১৬ = **১৮**
+- CO₂: ১২ + ১৬ × ২ = **৪৪**
+- H₂SO₄: ১ × ২ + ৩২ + ১৬ × ৪ = **৯৮**
+- NaCl: ২৩ + ৩৫.৫ = **৫৮.৫**
+- CaCO₃: ৪০ + ১২ + ১৬ × ৩ = **১০০**
+
+কাজের পারমাণবিক ভর: H ১, C ১২, N ১৪, O ১৬, Na ২৩, Mg ২৪, Al ২৭, S ৩২, Cl ৩৫.৫, K ৩৯, Ca ৪০, Fe ৫৬, Cu ৬৩.৫।
+## analogy
+তোমার ক্লাসের গড় নম্বরের কথা ভাবো। ৭৫ জন ৩৫ আর ২৫ জন ৩৭ পেলে ক্লাসের গড় ৩৫.৫, যদিও কেউই ৩৫.৫ পায়নি। ক্লোরিনের পারমাণবিক ভর হলো তার সব পরমাণুর "ক্লাসের গড়"।
+## definition
+**পারমাণবিক ভর একক (amu, u)**: একটি কার্বন-১২ পরমাণুর ভরের ১/১২ অংশ = ১.৬৬ × ১০^{-২৪} g।
+
+**আপেক্ষিক পারমাণবিক ভর**: কোনো মৌলের একটি পরমাণুর ভর এবং একটি কার্বন-১২ পরমাণুর ভরের ১/১২ অংশের অনুপাত। এর কোনো একক নেই। আইসোটোপযুক্ত মৌলের ক্ষেত্রে এটি প্রাকৃতিক শতকরা পরিমাণ অনুযায়ী আইসোটোপগুলোর ভরের গড়।
+
+**আপেক্ষিক আণবিক ভর**: কোনো পদার্থের একটি অণুর সব পরমাণুর আপেক্ষিক পারমাণবিক ভরের যোগফল (একক নেই)।
+## why
+আদর্শ হিসেবে কার্বন-১২ কেন? কার্বন-১২ সহজলভ্য, স্থিতিশীল আর নিখুঁতভাবে মাপা সহজ; একে আদর্শ ধরলে প্রায় সব পরমাণুর আপেক্ষিক ভর পূর্ণসংখ্যার কাছাকাছি আসে (হাইড্রোজেন ≈ ১, অক্সিজেন ≈ ১৬)। সারা পৃথিবীতে একই আদর্শ ব্যবহার হয় বলে ঢাকা আর টোকিওর রসায়নবিদ একই পারমাণবিক ভর পান, আর রাসায়নিক গণনা (ষষ্ঠ অধ্যায়) সবখানে একইভাবে কাজ করে।
+## terms
+পারমাণবিক ভর একক (amu) | একটি C-12 পরমাণুর ভরের ১/১২ = ১.৬৬ × ১০^{-২৪} g
+আপেক্ষিক পারমাণবিক ভর | ১ amu এর তুলনায় পরমাণুর ভর; একক নেই
+গড় আপেক্ষিক পারমাণবিক ভর | প্রাকৃতিক আইসোটোপগুলোর ভারযুক্ত গড় (Cl ৩৫.৫, Cu ৬৩.৫)
+শতকরা পরিমাণ | প্রাকৃতিক মৌলে কোনো আইসোটোপের শতকরা অংশ
+আপেক্ষিক আণবিক ভর | অণুর সব পরমাণুর পারমাণবিক ভরের যোগফল
+## formula
+$$ আপেক্ষিক পারমাণবিক ভর = একটি পরমাণুর ভর ÷ (একটি C-12 পরমাণুর ভরের ১/১২)
+$$ আপেক্ষিক পারমাণবিক ভর = একটি পরমাণুর ভর (g) ÷ ১.৬৬ × ১০^{-২৪} g
+$$ গড় আপেক্ষিক পারমাণবিক ভর = (p × m + q × n) ÷ ১০০
+$$ আপেক্ষিক আণবিক ভর = Σ (পারমাণবিক ভর × পরমাণুর সংখ্যা)
+p, q | দুটি আইসোটোপের ভরসংখ্যা | —
+m, n | এদের শতকরা পরিমাণ (m + n = ১০০) | %
+! আপেক্ষিক ভর অনুপাত, তাই এর একক নেই।
+## visual
+একটি মৌল বেছে নাও, অথবা নিজের মতো দুটি আইসোটোপ ঠিক করো, আর শতকরা পরিমাণের স্লাইডার সরাও। দেখো দাঁড়িপাল্লা কোন দিকে হেলে আর গড় পারমাণবিক ভর কীভাবে বদলায়। তারপর আণবিক ভর নির্মাতাটি চেষ্টা করো।
+## real
+বাংলাদেশে খাবার স্যালাইন (ORS) বানানোর সময় প্রতিটি প্যাকেটে NaCl, KCl ও গ্লুকোজের পরিমাণ আণবিক ভর দিয়ে হিসাব করা হয়। সার কারখানায় ইউরিয়ার আণবিক ভর, CO(NH₂)₂ = ৬০, ব্যবহার করে বের করা হয় এক বস্তা সারে কতটা নাইট্রোজেন আছে: প্রতি ৬০ ভাগে ২৮ ভাগ, প্রায় ৪৭%।
+## example
+প্রশ্ন: একটি অ্যালুমিনিয়াম পরমাণুর ভর ৪.৪৮২ × ১০^{-২৩} g। অ্যালুমিনিয়ামের আপেক্ষিক পারমাণবিক ভর বের করো।
+দেওয়া আছে: একটি Al পরমাণুর ভর = ৪.৪৮২ × ১০^{-২৩} g; ১ amu = ১.৬৬ × ১০^{-২৪} g
+সূত্র: আপেক্ষিক পারমাণবিক ভর = একটি পরমাণুর ভর ÷ ১.৬৬ × ১০^{-২৪} g
+হিসাব: ৪.৪৮২ × ১০^{-২৩} ÷ ১.৬৬ × ১০^{-২৪} = ২৭.০
+উত্তর: ২৭ (একক নেই)
+## example
+প্রশ্ন: প্রাকৃতিক ক্লোরিনে ৭৫% ³⁵Cl ও ২৫% ³⁷Cl আছে। ক্লোরিনের গড় আপেক্ষিক পারমাণবিক ভর বের করো।
+সূত্র: গড় = (p × m + q × n) ÷ ১০০
+মান বসাই: (৩৫ × ৭৫ + ৩৭ × ২৫) ÷ ১০০
+হিসাব: (২৬২৫ + ৯২৫) ÷ ১০০ = ৩৫৫০ ÷ ১০০ = ৩৫.৫
+উত্তর: ৩৫.৫
+## example
+প্রশ্ন: কপারের দুটি আইসোটোপ ⁶³Cu ও ⁶⁵Cu, আর গড় আপেক্ষিক পারমাণবিক ভর ৬৩.৫। প্রতিটি আইসোটোপের শতকরা পরিমাণ বের করো।
+দেওয়া আছে: ধরি ⁶³Cu = x %, ⁶⁵Cu = (১০০ − x) %
+সূত্র: [৬৩x + ৬৫(১০০ − x)] ÷ ১০০ = ৬৩.৫
+হিসাব: ৬৩x + ৬৫০০ − ৬৫x = ৬৩৫০ → −২x = −১৫০ → x = ৭৫
+> এখানে পূর্ণসংখ্যার ভরসংখ্যা ধরা হয়েছে। আইসোটোপের আসল ভর পূর্ণসংখ্যার চেয়ে সামান্য কম (৬২.৯৩ ও ৬৪.৯৩), তাই নিখুঁত পরিমাপে পাওয়া যায় প্রায় ৬৯% ⁶³Cu ও ৩১% ⁶⁵Cu।
+উত্তর: ⁶³Cu = ৭৫%, ⁶⁵Cu = ২৫% (এই পদ্ধতিতে)
+## example
+প্রশ্ন: X মৌলের তিনটি আইসোটোপ: ²⁰X (৯০.৯২%), ²¹X (০.২৫%) ও ²²X (৮.৮২%)। এর আপেক্ষিক পারমাণবিক ভর বের করো।
+হিসাব: ২০ × ৯০.৯২ = ১৮১৮.৪; ২১ × ০.২৫ = ৫.২৫; ২২ × ৮.৮২ = ১৯৪.০৪; যোগফল = ২০১৭.৬৯; ÷ ১০০ = ২০.১৮
+উত্তর: প্রায় ২০.২ (এটি নিয়ন)
+## example
+প্রশ্ন: H₂SO₄ ও CaCO₃ এর আপেক্ষিক আণবিক ভর বের করো। (H = ১, S = ৩২, O = ১৬, Ca = ৪০, C = ১২)
+সূত্র: আপেক্ষিক আণবিক ভর = Σ (পারমাণবিক ভর × পরমাণুর সংখ্যা)
+হিসাব: H₂SO₄ = ১ × ২ + ৩২ × ১ + ১৬ × ৪ = ২ + ৩২ + ৬৪ = ৯৮; CaCO₃ = ৪০ + ১২ + ১৬ × ৩ = ১০০
+উত্তর: H₂SO₄ = ৯৮; CaCO₃ = ১০০
+## mistakes
+x অক্সিজেনের আপেক্ষিক পারমাণবিক ভর ১৬ g।
+v আপেক্ষিক পারমাণবিক ভর একটি অনুপাত, এর একক নেই: অক্সিজেনের ১৬।
+x ক্লোরিনের পারমাণবিক ভর ৩৫.৫ কারণ এতে ১৮.৫টি নিউট্রন আছে।
+v কোনো পরমাণুতে অর্ধেক নিউট্রন থাকে না; ৩৫.৫ হলো প্রকৃতির ³⁵Cl ও ³⁷Cl পরমাণুর গড়।
+x আণবিক ভর বের করতে প্রতিটি ভিন্ন মৌলের পারমাণবিক ভর একবার করে যোগ করলেই হয়।
+v প্রতিটি পারমাণবিক ভরকে সংকেতে ঐ মৌলের পরমাণুর সংখ্যা দিয়ে গুণ করে তারপর যোগ করতে হয়।
+## remember
+- ১ amu = একটি C-12 পরমাণুর ১/১২ = ১.৬৬ × ১০^{-২৪} g।
+- আপেক্ষিক পারমাণবিক ভর = পরমাণুর ভর ÷ ১.৬৬ × ১০^{-২৪} g; একক নেই।
+- গড় = Σ(ভরসংখ্যা × %) ÷ ১০০: Cl = ৩৫.৫, Cu = ৬৩.৫।
+- আণবিক ভর = Σ(পারমাণবিক ভর × পরমাণু): H₂O ১৮, CO₂ ৪৪, H₂SO₄ ৯৮, CaCO₃ ১০০।
+## think
+প্রাকৃতিক বোরনের পারমাণবিক ভর ১০.৮, আর এর দুটি আইসোটোপ ¹⁰B ও ¹¹B। হিসাব না করেই বলো তো কোন আইসোটোপটি বেশি পাওয়া যায়? কীভাবে বুঝলে?
+## quiz
+? ১ পারমাণবিক ভর একক সমান:
+- ১ g
+- ১.৬৬ × ১০^{-২৭} g
+* ১.৬৬ × ১০^{-২৪} g
+- ৯.১১ × ১০^{-২৮} g
+= একটি C-12 পরমাণুর ভরের ১/১২ = ১.৬৬ × ১০^{-২৪} g (= ১.৬৬ × ১০^{-২৭} kg)।
+? একটি মৌলের আইসোটোপ দুটির ভর ১০ (২০%) ও ১১ (৮০%)। এর গড় পারমাণবিক ভর:
+- ১০.২
+- ১০.৫
+* ১০.৮
+- ১১.২
+= (১০ × ২০ + ১১ × ৮০) ÷ ১০০ = ১০৮০ ÷ ১০০ = ১০.৮।
+? CO₂ এর আপেক্ষিক আণবিক ভর (C = ১২, O = ১৬):
+- ২৮
+* ৪৪
+- ৩২
+- ৬০
+= ১২ + ১৬ × ২ = ৪৪।
+? আপেক্ষিক পারমাণবিক ভরের একক:
+- g
+- kg
+- amu প্রতি গ্রাম
+* এর কোনো একক নেই
+= এটি দুটি ভরের অনুপাত।
+
+@@ 3.10
+@visual k3half
+@related 3.8 3.5 3.6
+== en
+## what
+**Radioactive isotopes** are isotopes whose nuclei are unstable and break down on their own, giving out **alpha (α), beta (β) or gamma (γ) rays**. Used carefully, they help diagnose and treat diseases, improve farming, preserve food, date old objects and generate electricity; used carelessly, their radiation can damage living cells.
+## simple
+Some isotopes have a nucleus with an unbalanced mix of protons and neutrons. Such a nucleus is unstable: sooner or later it breaks down by itself (spontaneously) and throws out radiation. Isotopes like this are **radioactive isotopes** (তেজস্ক্রিয় আইসোটোপ). Scientists know of more than 3000 isotopes; some radioactive ones occur in nature (uranium-238, carbon-14) and many are made in nuclear reactors. (Your physics book explains radioactivity itself; here we focus on uses.)
+
+**Half-life.** Each radioactive isotope loses its activity at its own fixed rate. The time in which half of its atoms break down is its **half-life**: technetium-99m about 6 hours, iodine-131 about 8 days, cobalt-60 about 5.3 years, carbon-14 about 5730 years.
+
+**3.10.1 Medicine**
+- **Diagnosis.** A small amount of **technetium-99m** (⁹⁹ᵐTc) is injected. It collects in a particular organ and gives out gamma rays, which a special gamma camera outside the body detects to make an image. Its half-life is only about 6 hours, so its radioactivity fades quickly, which makes it relatively safe.
+- **Treatment.** Radioactive iodine (**¹³¹I**) was the first isotope used to treat thyroid disease: the patient drinks a solution, the iodine collects in the thyroid, and its beta rays destroy the diseased cells. Gamma rays from **cobalt-60** are used to destroy cancer cells in tumours. An **iridium** isotope (¹⁹²Ir) is placed near tumours, for example in the brain, and **phosphorus-32** has been used to treat some blood cancers (leukaemia). Hospital equipment is also sterilised with gamma rays.
+
+**3.10.2 Agriculture**
+- **Crop nutrition.** Too much fertiliser wastes money and harms the environment; too little lowers the harvest. Fertiliser labelled with a traceable isotope (for example radioactive phosphorus-32) lets scientists follow how much the roots take up and where it goes, using a **Geiger–Müller counter**. This tells farmers the right amount of fertiliser for a crop. (For nitrogen, the tracer normally used is nitrogen-15, a heavy isotope that is not radioactive but can still be traced by its mass.)
+- **Pest control.** Insecticides labelled with isotopes help find the right dose for a crop, so less poison is sprayed. Radiation is also used to sterilise male insects so that they cannot breed (the sterile insect technique).
+- **Better crops.** Radiation can cause changes in the genes of seeds; the best new varieties are selected. The Bangladesh Institute of Nuclear Agriculture (BINA) in Mymensingh has developed improved crop varieties in this way.
+- **Food preservation.** Gamma rays kill germs and insects in food and stop potatoes and onions from sprouting, so they keep longer.
+
+**Dating.** The amount of carbon-14 left in old wood, bone or cloth tells its age (radiocarbon dating).
+
+**3.10.3 Generating electricity.** When a heavy nucleus such as uranium-235 is struck by a neutron, it splits into smaller nuclei (**fission**) and releases a huge amount of heat. This heat boils water into steam, and the steam turns turbines and generators, just like in other power stations. Bangladesh's **Rooppur Nuclear Power Plant** at Ishwardi in Pabna has two units designed to produce a total of **2400 MW** of electricity.
+
+**3.10.4 Harmful effects.** Alpha, beta and gamma rays can damage the cells of the body and change their genes, which can cause cancer and harm future generations. The atomic bombs dropped on **Hiroshima and Nagasaki** in Japan in 1945, during the Second World War, killed hundreds of thousands of people. The **Chernobyl** nuclear accident of 1986, in Ukraine (then part of the Soviet Union), killed many people and contaminated a large area. That is why radioactive materials are handled only by trained people, behind shielding, for as short a time and at as great a distance as possible, and why radioactive waste must be stored safely.
+## analogy
+Radiation is like fire. In a kitchen stove, controlled and at a safe distance, fire cooks rice for the whole family. Out of control, it burns the house down. Radioactive isotopes are similar: the same rays that kill a cancer can harm healthy cells if they are not controlled.
+## definition
+**Radioactive isotope**: an isotope whose nucleus is unstable and spontaneously disintegrates, emitting radiation such as alpha (α), beta (β) or gamma (γ) rays.
+
+**Half-life**: the time taken for half of the atoms of a radioactive isotope in a sample to disintegrate.
+
+**Nuclear fission**: the splitting of a heavy nucleus (e.g. uranium-235) into smaller nuclei, releasing a large amount of energy.
+## why
+Why is a short half-life useful for diagnosis? The doctor needs radiation only long enough to take the images, a few hours. An isotope like technetium-99m has lost half its activity after 6 hours and about 94% after one day, so the patient receives only a small dose. For treatment, on the other hand, a steady source that lasts years, like cobalt-60, is convenient, but it must be kept inside thick shielding.
+## terms
+Radioactive isotope (তেজস্ক্রিয় আইসোটোপ) | Isotope with an unstable nucleus that emits α, β or γ rays
+Alpha (α), beta (β), gamma (γ) rays | Types of radiation given out by radioactive nuclei
+Half-life | Time for half of a radioactive sample to decay
+Geiger–Müller counter | Instrument that detects radiation
+Fission | Splitting of a heavy nucleus, releasing energy
+Tracer | A detectable isotope used to follow where a substance goes
+## visual
+Choose an isotope and move the time slider. See how much of the radioactive sample is left after each half-life, and why technetium-99m is safe for scans while carbon-14 can date ancient objects.
+## real
+Hospitals in Bangladesh, such as the nuclear medicine institutes run by the Bangladesh Atomic Energy Commission, use technetium-99m scans and radioactive iodine treatment every day. BINA's improved crop varieties are grown by farmers in many districts. The Rooppur plant on the bank of the Padma is the country's first nuclear power station.
+## example
+Q: Technetium-99m has a half-life of 6 hours. A patient receives a dose in the morning. What fraction of it is still radioactive after 24 hours?
+Given: half-life = 6 h; time = 24 h
+Calculation: number of half-lives = 24 ÷ 6 = 4; fraction left = (1/2)⁴ = 1/16 ≈ 6.25%
+> After each half-life, half of what remains decays: 100% → 50% → 25% → 12.5% → 6.25%.
+Answer: 1/16 (about 6%) remains; about 94% has decayed.
+## example
+Q: The Rooppur plant has two units of 1200 MW each. What is its total planned capacity, and why is it called a nuclear power plant?
+Calculation: 2 × 1200 MW = 2400 MW
+Answer: 2400 MW. Its heat comes from the fission of uranium-235 nuclei rather than from burning gas or coal.
+## mistakes
+x All isotopes are radioactive.
+v Most natural isotopes (¹²C, ¹⁶O, ³⁵Cl …) are stable; only isotopes with unstable nuclei are radioactive.
+x A radioactive isotope used for a scan stays in the body and stays radioactive forever.
+v Isotopes for scans, like ⁹⁹ᵐTc, have short half-lives; their activity drops to a tiny fraction within a day or two.
+x Radioactive isotopes are only harmful.
+v Used under control, they save lives in medicine, improve crops, preserve food and generate electricity.
+## remember
+- Radioactive isotope: unstable nucleus, emits α, β, γ rays.
+- Medicine: ⁹⁹ᵐTc (diagnosis, half-life ~6 h), ¹³¹I (thyroid), ⁶⁰Co (cancer), ¹⁹²Ir, ³²P.
+- Agriculture: tracers for fertiliser, pest control, mutation breeding (BINA), food preservation.
+- Electricity: fission of U-235; Rooppur, Pabna, 2400 MW.
+- Harm: cell and gene damage, cancer; Hiroshima–Nagasaki (1945), Chernobyl (1986).
+## think
+Why do you think hospitals choose isotopes with half-lives of hours for scans, while a school laboratory must never keep any radioactive source without special permission and storage?
+## quiz
+? Which isotope is used to take images of organs inside the body?
+* Technetium-99m
+- Carbon-12
+- Uranium-238
+- Oxygen-16
+= ⁹⁹ᵐTc emits gamma rays detected by a gamma camera and has a short half-life.
+? Radioactive iodine (¹³¹I) is mainly used to treat diseases of the:
+- Lungs
+* Thyroid gland
+- Bones
+- Skin
+= Iodine collects in the thyroid, where its beta rays destroy diseased cells.
+? The heat in the Rooppur power plant comes from:
+- Burning natural gas
+- Burning coal
+* Nuclear fission of uranium
+- Solar panels
+= Splitting uranium-235 nuclei releases heat.
+? A sample has a half-life of 8 days. After 16 days, the fraction left is:
+- 1/2
+* 1/4
+- 1/8
+- 0
+= 16 ÷ 8 = 2 half-lives → (1/2)² = 1/4.
+== bn
+## what
+যেসব আইসোটোপের নিউক্লিয়াস অস্থিতিশীল এবং নিজে নিজেই ভেঙে **আলফা (α), বিটা (β) বা গামা (γ) রশ্মি** বিকিরণ করে, তাদের **তেজস্ক্রিয় আইসোটোপ** বলে। সতর্কভাবে ব্যবহার করলে এরা রোগ নির্ণয় ও চিকিৎসা, কৃষির উন্নতি, খাদ্য সংরক্ষণ, পুরোনো বস্তুর বয়স নির্ণয় আর বিদ্যুৎ উৎপাদনে সাহায্য করে; অসাবধানে ব্যবহার করলে এদের বিকিরণ জীবকোষের ক্ষতি করতে পারে।
+## simple
+কিছু আইসোটোপের নিউক্লিয়াসে প্রোটন আর নিউট্রনের মিশেল ভারসাম্যহীন। এমন নিউক্লিয়াস অস্থিতিশীল: আগে বা পরে এটি নিজে নিজেই (স্বতঃস্ফূর্তভাবে) ভেঙে বিকিরণ ছুড়ে দেয়। এ ধরনের আইসোটোপই **তেজস্ক্রিয় আইসোটোপ**। বিজ্ঞানীরা ৩০০০ এর বেশি আইসোটোপের কথা জানেন; কিছু তেজস্ক্রিয় আইসোটোপ প্রকৃতিতে পাওয়া যায় (ইউরেনিয়াম-২৩৮, কার্বন-১৪), আর অনেকগুলো পারমাণবিক চুল্লিতে তৈরি হয়। (তেজস্ক্রিয়তা নিজে কী, তা পদার্থবিজ্ঞান বইয়ে আছে; এখানে আমরা এর ব্যবহারে মনোযোগ দেব।)
+
+**অর্ধায়ু।** প্রতিটি তেজস্ক্রিয় আইসোটোপ নিজস্ব নির্দিষ্ট হারে তেজস্ক্রিয়তা হারায়। যে সময়ে এর অর্ধেক পরমাণু ভেঙে যায়, তা এর **অর্ধায়ু**: টেকনেশিয়াম-৯৯m প্রায় ৬ ঘণ্টা, আয়োডিন-১৩১ প্রায় ৮ দিন, কোবাল্ট-৬০ প্রায় ৫.৩ বছর, কার্বন-১৪ প্রায় ৫৭৩০ বছর।
+
+**৩.১০.১ চিকিৎসাবিজ্ঞান**
+- **রোগ নির্ণয়।** শরীরে সামান্য **টেকনেশিয়াম-৯৯m** (⁹⁹ᵐTc) ইনজেকশন দেওয়া হয়। এটি নির্দিষ্ট কোনো অঙ্গে জমা হয়ে গামা রশ্মি দেয়, যা শরীরের বাইরে রাখা বিশেষ গামা ক্যামেরা ধরে ছবি তৈরি করে। এর অর্ধায়ু মাত্র প্রায় ৬ ঘণ্টা, তাই এর তেজস্ক্রিয়তা দ্রুত কমে যায়, আর এটি তুলনামূলকভাবে নিরাপদ।
+- **রোগের চিকিৎসা।** থাইরয়েডের রোগের চিকিৎসায় প্রথম ব্যবহৃত আইসোটোপ হলো তেজস্ক্রিয় আয়োডিন (**¹³¹I**): রোগী একটি দ্রবণ পান করেন, আয়োডিন থাইরয়েডে জমা হয়, আর এর বিটা রশ্মি রোগাক্রান্ত কোষ ধ্বংস করে। **কোবাল্ট-৬০** এর গামা রশ্মি টিউমারের ক্যানসার কোষ ধ্বংসে ব্যবহৃত হয়। **ইরিডিয়াম** আইসোটোপ (¹⁹²Ir) টিউমারের কাছে, যেমন মস্তিষ্কে, স্থাপন করা হয়, আর কিছু রক্তের ক্যানসারে (লিউকেমিয়া) **ফসফরাস-৩২** ব্যবহার করা হয়েছে। হাসপাতালের যন্ত্রপাতিও গামা রশ্মি দিয়ে জীবাণুমুক্ত করা হয়।
+
+**৩.১০.২ কৃষি**
+- **ফসলের পুষ্টি।** বেশি সার দিলে টাকা নষ্ট হয় আর পরিবেশের ক্ষতি হয়; কম দিলে ফলন কমে। শনাক্তযোগ্য আইসোটোপযুক্ত সার (যেমন তেজস্ক্রিয় ফসফরাস-৩২) দিয়ে বিজ্ঞানীরা **গাইগার-মুলার কাউন্টার** ব্যবহার করে দেখতে পারেন শিকড় কতটা সার নিল আর তা কোথায় গেল। এতে কৃষক জানতে পারেন কোনো ফসলে ঠিক কতটা সার লাগবে। (নাইট্রোজেনের ক্ষেত্রে সাধারণত নাইট্রোজেন-১৫ ব্যবহার করা হয়, এটি তেজস্ক্রিয় নয় এমন একটি ভারী আইসোটোপ, তবু এর ভর দিয়ে একে শনাক্ত করা যায়।)
+- **ক্ষতিকর পোকা দমন।** আইসোটোপযুক্ত কীটনাশক দিয়ে কোনো ফসলের জন্য সঠিক মাত্রা বের করা যায়, ফলে কম বিষ ছিটাতে হয়। বিকিরণ দিয়ে পুরুষ পোকাকে বন্ধ্যা করেও বংশবৃদ্ধি থামানো হয় (বন্ধ্যা পোকা কৌশল)।
+- **উন্নত ফসল।** বিকিরণ বীজের জিনে পরিবর্তন আনতে পারে; তা থেকে সেরা নতুন জাত বাছাই করা হয়। ময়মনসিংহের বাংলাদেশ পরমাণু কৃষি গবেষণা ইনস্টিটিউট (বিনা) এভাবে উন্নত জাতের ফসল উদ্ভাবন করেছে।
+- **খাদ্য সংরক্ষণ।** গামা রশ্মি খাবারের জীবাণু ও পোকা মারে, আর আলু-পেঁয়াজে অঙ্কুর গজানো ঠেকায়, ফলে এগুলো বেশিদিন ভালো থাকে।
+
+**বয়স নির্ণয়।** পুরোনো কাঠ, হাড় বা কাপড়ে কতটা কার্বন-১৪ বাকি আছে, তা দেখে এর বয়স বের করা যায় (রেডিওকার্বন ডেটিং)।
+
+**৩.১০.৩ বিদ্যুৎ উৎপাদন।** ইউরেনিয়াম-২৩৫ এর মতো ভারী নিউক্লিয়াসে একটি নিউট্রন আঘাত করলে তা ভেঙে ছোট ছোট নিউক্লিয়াসে পরিণত হয় (**ফিশন**) এবং বিপুল তাপ দেয়। এই তাপে পানি ফুটে বাষ্প হয়, আর বাষ্প টারবাইন ও জেনারেটর ঘোরায়, অন্য বিদ্যুৎকেন্দ্রের মতোই। পাবনার ঈশ্বরদীতে বাংলাদেশের **রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্রে** দুটি ইউনিট মিলে মোট **২৪০০ MW** বিদ্যুৎ উৎপাদনের পরিকল্পনা।
+
+**৩.১০.৪ ক্ষতিকর প্রভাব।** আলফা, বিটা ও গামা রশ্মি দেহকোষের ক্ষতি করতে এবং জিনে পরিবর্তন আনতে পারে, যা ক্যানসার ঘটাতে এবং ভবিষ্যৎ প্রজন্মের ক্ষতি করতে পারে। দ্বিতীয় বিশ্বযুদ্ধের সময় ১৯৪৫ সালে জাপানের **হিরোশিমা ও নাগাসাকিতে** ফেলা পারমাণবিক বোমায় লক্ষ লক্ষ মানুষ মারা যায়। ১৯৮৬ সালে ইউক্রেনের (তখন সোভিয়েত ইউনিয়নের অংশ) **চেরনোবিল** পারমাণবিক দুর্ঘটনায় বহু মানুষ মারা যায় এবং বিশাল এলাকা দূষিত হয়। এজন্যই তেজস্ক্রিয় পদার্থ শুধু প্রশিক্ষিত লোকেরা, সুরক্ষা আবরণের আড়ালে, যত কম সময় ও যত বেশি দূরত্বে সম্ভব থেকে নাড়াচাড়া করেন, আর তেজস্ক্রিয় বর্জ্য নিরাপদে সংরক্ষণ করতে হয়।
+## analogy
+বিকিরণ আগুনের মতো। রান্নাঘরের চুলায়, নিয়ন্ত্রিত অবস্থায় আর নিরাপদ দূরত্বে আগুন পুরো পরিবারের ভাত রাঁধে। নিয়ন্ত্রণ হারালে ঘর পুড়িয়ে দেয়। তেজস্ক্রিয় আইসোটোপও তেমন: যে রশ্মি ক্যানসার কোষ মারে, নিয়ন্ত্রণ না থাকলে সেটাই সুস্থ কোষের ক্ষতি করে।
+## definition
+**তেজস্ক্রিয় আইসোটোপ**: যে আইসোটোপের নিউক্লিয়াস অস্থিতিশীল এবং স্বতঃস্ফূর্তভাবে ভেঙে আলফা (α), বিটা (β) বা গামা (γ) রশ্মির মতো বিকিরণ নির্গত করে।
+
+**অর্ধায়ু**: কোনো নমুনার তেজস্ক্রিয় আইসোটোপের অর্ধেক পরমাণু ভেঙে যেতে যে সময় লাগে।
+
+**নিউক্লীয় ফিশন**: ভারী নিউক্লিয়াসের (যেমন ইউরেনিয়াম-২৩৫) ভেঙে ছোট নিউক্লিয়াসে পরিণত হওয়া, যাতে বিপুল শক্তি নির্গত হয়।
+## why
+রোগ নির্ণয়ে ছোট অর্ধায়ু কেন সুবিধাজনক? চিকিৎসকের বিকিরণ লাগে শুধু ছবি তোলার সময়টুকু, কয়েক ঘণ্টা। টেকনেশিয়াম-৯৯m এর মতো আইসোটোপ ৬ ঘণ্টায় অর্ধেক আর এক দিনে প্রায় ৯৪% তেজস্ক্রিয়তা হারায়, তাই রোগীর দেহে অল্প মাত্রাই যায়। অন্যদিকে চিকিৎসার জন্য বছরের পর বছর টেকে এমন স্থির উৎস, যেমন কোবাল্ট-৬০, সুবিধাজনক; তবে একে মোটা সুরক্ষা আবরণের ভেতরে রাখতে হয়।
+## terms
+তেজস্ক্রিয় আইসোটোপ | অস্থিতিশীল নিউক্লিয়াসযুক্ত আইসোটোপ, যা α, β বা γ রশ্মি দেয়
+আলফা (α), বিটা (β), গামা (γ) রশ্মি | তেজস্ক্রিয় নিউক্লিয়াস থেকে নির্গত বিকিরণের ধরন
+অর্ধায়ু | তেজস্ক্রিয় নমুনার অর্ধেক ক্ষয় হতে লাগা সময়
+গাইগার-মুলার কাউন্টার | বিকিরণ শনাক্ত করার যন্ত্র
+ফিশন | ভারী নিউক্লিয়াস ভেঙে শক্তি নির্গমন
+ট্রেসার | কোনো পদার্থ কোথায় যায় তা অনুসরণে ব্যবহৃত শনাক্তযোগ্য আইসোটোপ
+## visual
+একটি আইসোটোপ বেছে নাও আর সময়ের স্লাইডার সরাও। দেখো প্রতিটি অর্ধায়ু পরে তেজস্ক্রিয় নমুনার কতটা বাকি থাকে, আর কেন টেকনেশিয়াম-৯৯m স্ক্যানের জন্য নিরাপদ অথচ কার্বন-১৪ দিয়ে প্রাচীন বস্তুর বয়স বের করা যায়।
+## real
+বাংলাদেশ পরমাণু শক্তি কমিশন পরিচালিত নিউক্লিয়ার মেডিসিন প্রতিষ্ঠানগুলোর মতো দেশের হাসপাতালে প্রতিদিন টেকনেশিয়াম-৯৯m স্ক্যান আর তেজস্ক্রিয় আয়োডিন চিকিৎসা হয়। বিনার উদ্ভাবিত উন্নত জাতের ফসল অনেক জেলার কৃষক চাষ করছেন। পদ্মার তীরে রূপপুর বিদ্যুৎকেন্দ্র দেশের প্রথম পারমাণবিক বিদ্যুৎকেন্দ্র।
+## example
+প্রশ্ন: টেকনেশিয়াম-৯৯m এর অর্ধায়ু ৬ ঘণ্টা। একজন রোগীকে সকালে এর একটি মাত্রা দেওয়া হলো। ২৪ ঘণ্টা পরে এর কত ভগ্নাংশ তেজস্ক্রিয় থাকবে?
+দেওয়া আছে: অর্ধায়ু = ৬ h; সময় = ২৪ h
+হিসাব: অর্ধায়ুর সংখ্যা = ২৪ ÷ ৬ = ৪; অবশিষ্ট ভগ্নাংশ = (১/২)⁴ = ১/১৬ ≈ ৬.২৫%
+> প্রতি অর্ধায়ুতে বাকি অংশের অর্ধেক ক্ষয় হয়: ১০০% → ৫০% → ২৫% → ১২.৫% → ৬.২৫%।
+উত্তর: ১/১৬ (প্রায় ৬%) বাকি থাকে; প্রায় ৯৪% ক্ষয় হয়ে গেছে।
+## example
+প্রশ্ন: রূপপুর বিদ্যুৎকেন্দ্রে ১২০০ MW এর দুটি ইউনিট আছে। এর মোট পরিকল্পিত ক্ষমতা কত, আর একে পারমাণবিক বিদ্যুৎকেন্দ্র বলা হয় কেন?
+হিসাব: ২ × ১২০০ MW = ২৪০০ MW
+উত্তর: ২৪০০ MW। এর তাপ গ্যাস বা কয়লা পুড়িয়ে নয়, ইউরেনিয়াম-২৩৫ নিউক্লিয়াসের ফিশন থেকে আসে।
+## mistakes
+x সব আইসোটোপই তেজস্ক্রিয়।
+v বেশিরভাগ প্রাকৃতিক আইসোটোপ (¹²C, ¹⁶O, ³⁵Cl …) স্থিতিশীল; শুধু অস্থিতিশীল নিউক্লিয়াসযুক্ত আইসোটোপই তেজস্ক্রিয়।
+x স্ক্যানে ব্যবহৃত তেজস্ক্রিয় আইসোটোপ দেহে থেকে যায় আর চিরকাল তেজস্ক্রিয় থাকে।
+v স্ক্যানের আইসোটোপ, যেমন ⁹⁹ᵐTc, এর অর্ধায়ু ছোট; এক-দুই দিনের মধ্যেই এর তেজস্ক্রিয়তা সামান্য অংশে নেমে আসে।
+x তেজস্ক্রিয় আইসোটোপ শুধুই ক্ষতিকর।
+v নিয়ন্ত্রিতভাবে ব্যবহার করলে এরা চিকিৎসায় জীবন বাঁচায়, ফসলের উন্নতি করে, খাদ্য সংরক্ষণ করে আর বিদ্যুৎ উৎপাদন করে।
+## remember
+- তেজস্ক্রিয় আইসোটোপ: অস্থিতিশীল নিউক্লিয়াস, α, β, γ রশ্মি দেয়।
+- চিকিৎসা: ⁹⁹ᵐTc (রোগ নির্ণয়, অর্ধায়ু ~৬ h), ¹³¹I (থাইরয়েড), ⁶⁰Co (ক্যানসার), ¹⁹²Ir, ³²P।
+- কৃষি: সারের ট্রেসার, পোকা দমন, বিকিরণে নতুন জাত (বিনা), খাদ্য সংরক্ষণ।
+- বিদ্যুৎ: U-235 এর ফিশন; রূপপুর, পাবনা, ২৪০০ MW।
+- ক্ষতি: কোষ ও জিনের ক্ষতি, ক্যানসার; হিরোশিমা-নাগাসাকি (১৯৪৫), চেরনোবিল (১৯৮৬)।
+## think
+হাসপাতাল স্ক্যানের জন্য কয়েক ঘণ্টা অর্ধায়ুর আইসোটোপ বেছে নেয়, অথচ বিশেষ অনুমতি ও সংরক্ষণব্যবস্থা ছাড়া কোনো স্কুলের পরীক্ষাগারে কোনো তেজস্ক্রিয় উৎস রাখা একেবারেই চলে না। তোমার কী মনে হয়, কেন?
+## quiz
+? দেহের ভেতরের অঙ্গের ছবি তুলতে কোন আইসোটোপ ব্যবহৃত হয়?
+* টেকনেশিয়াম-৯৯m
+- কার্বন-১২
+- ইউরেনিয়াম-২৩৮
+- অক্সিজেন-১৬
+= ⁹⁹ᵐTc গামা রশ্মি দেয়, যা গামা ক্যামেরায় ধরা পড়ে, আর এর অর্ধায়ু ছোট।
+? তেজস্ক্রিয় আয়োডিন (¹³¹I) মূলত কোন অঙ্গের রোগের চিকিৎসায় ব্যবহৃত হয়?
+- ফুসফুস
+* থাইরয়েড গ্রন্থি
+- হাড়
+- ত্বক
+= আয়োডিন থাইরয়েডে জমা হয়, সেখানে এর বিটা রশ্মি রোগাক্রান্ত কোষ ধ্বংস করে।
+? রূপপুর বিদ্যুৎকেন্দ্রের তাপ আসে:
+- প্রাকৃতিক গ্যাস পুড়িয়ে
+- কয়লা পুড়িয়ে
+* ইউরেনিয়ামের নিউক্লীয় ফিশন থেকে
+- সৌর প্যানেল থেকে
+= ইউরেনিয়াম-২৩৫ নিউক্লিয়াস ভাঙলে তাপ নির্গত হয়।
+? একটি নমুনার অর্ধায়ু ৮ দিন। ১৬ দিন পরে কত ভগ্নাংশ বাকি থাকবে?
+- ১/২
+* ১/৪
+- ১/৮
+- ০
+= ১৬ ÷ ৮ = ২টি অর্ধায়ু → (১/২)² = ১/৪।

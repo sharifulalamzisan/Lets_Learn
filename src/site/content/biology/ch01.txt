@@ -1,0 +1,1091 @@
+@@chapter
+== en
+## intro
+Feeding a growing population, fighting disease and protecting every living thing on a changing planet are among the biggest challenges of this century, and biology sits at the centre of all of them. Before we study cells, digestion, heredity or the environment, we need to ask a simple-sounding question: what is life, and what is the science that studies it?
+
+In this chapter you will learn what biology is and where its name comes from, how it is divided into pure (physical) and applied branches, and why scientists had to sort millions of organisms into groups. You will meet the **five kingdoms** of living things, climb the seven steps (ranks) of classification from kingdom down to species, and learn how every organism gets a two-part scientific name under Carolus Linnaeus's **binomial nomenclature**.
+## objectives
+- explain the concept of biology and the difference between living and non-living things
+- describe the main pure (physical) and applied branches of biology
+- explain the concept of classification of organisms and evaluate why it is needed
+- describe the five-kingdom system with the key features and examples of each kingdom
+- arrange the seven taxonomic ranks and classify an organism (such as the human) step by step
+- explain binomial nomenclature, its rules and its importance
+- become aware of the practical value of classifying organisms in daily life
+== bn
+## intro
+বাড়তে থাকা জনসংখ্যার জন্য খাদ্য জোগানো, রোগের সাথে লড়াই আর বদলে যাওয়া পৃথিবীতে সব জীবের অস্তিত্ব রক্ষা করা, এই শতাব্দীর সবচেয়ে বড় চ্যালেঞ্জগুলোর মধ্যে এগুলো অন্যতম। আর এর প্রতিটির কেন্দ্রে আছে জীববিজ্ঞান। কোষ, পরিপাক, বংশগতি বা পরিবেশ পড়ার আগে তাই একটি আপাত-সহজ প্রশ্ন করা দরকার: জীবন কী, আর যে বিজ্ঞান জীবন নিয়ে কাজ করে সেটি কী?
+
+এই অধ্যায়ে জানবে জীববিজ্ঞান কী আর এর নাম এলো কোথা থেকে, কীভাবে একে ভৌত (মৌলিক) ও ফলিত শাখায় ভাগ করা হয়, আর কেন বিজ্ঞানীদের লক্ষ লক্ষ জীবকে দলে দলে সাজাতে হলো। পরিচিত হবে জীবজগতের **পাঁচটি রাজ্যের** সাথে, রাজ্য থেকে প্রজাতি পর্যন্ত শ্রেণিবিন্যাসের সাতটি ধাপ বেয়ে নামবে, আর শিখবে ক্যারোলাস লিনিয়াসের **দ্বিপদ নামকরণ** পদ্ধতিতে প্রতিটি জীব কীভাবে দুই অংশের একটি বৈজ্ঞানিক নাম পায়।
+## objectives
+- জীববিজ্ঞানের ধারণা এবং জীব ও জড়ের পার্থক্য ব্যাখ্যা করতে পারবে
+- জীববিজ্ঞানের প্রধান ভৌত (মৌলিক) ও ফলিত শাখাগুলো বর্ণনা করতে পারবে
+- জীবের শ্রেণিবিন্যাসের ধারণা ব্যাখ্যা করতে এবং এর প্রয়োজনীয়তা মূল্যায়ন করতে পারবে
+- পাঁচ রাজ্য পদ্ধতি এবং প্রতিটি রাজ্যের প্রধান বৈশিষ্ট্য ও উদাহরণ বর্ণনা করতে পারবে
+- শ্রেণিবিন্যাসের সাতটি ধাপ সাজাতে এবং কোনো জীবকে (যেমন মানুষকে) ধাপে ধাপে বিন্যস্ত করতে পারবে
+- দ্বিপদ নামকরণ, এর নিয়মাবলি ও গুরুত্ব ব্যাখ্যা করতে পারবে
+- বাস্তব জীবনে জীবের শ্রেণিবিন্যাসের প্রয়োজনীয়তা সম্পর্কে সচেতন হবে
+
+@@ 1.1
+@visual b1alive
+@related 1.2 1.3 2.1
+== en
+## what
+**Biology** is the branch of science that studies living organisms: their structure, life processes, behaviour, origin and their relationship with the environment. The word comes from the Greek *bios* (life) and *logos* (knowledge).
+## simple
+Look around your classroom. The bench, the blackboard, the fan and the chalk are **non-living things** (জড়). You, your friends, the fly on the window and the mango tree outside are **living organisms** (জীব). Even a small child can sort most things into these two groups. Biology is the science of the second group: **everything that has life**.
+
+**So what makes something alive?** Scientists look for a set of features that all living things share:
+- **Made of cells.** Every organism is built from one cell (a bacterium, an amoeba) or from many cells (a banyan tree, a cow, you).
+- **Nutrition.** Living things take in food or make it. A paddy plant makes its food by photosynthesis; a goat eats grass.
+- **Respiration.** Food is broken down inside the cells to release energy.
+- **Growth from inside.** A seedling becomes a tree by making new cells and new material. (A salt crystal also "grows", but only by layers sticking on from outside, so that is not true growth.)
+- **Reproduction.** Living things make more of their own kind: a hen lays eggs, a mango seed gives a new mango tree.
+- **Response to stimuli.** Touch a lajjaboti (touch-me-not) leaf and it folds; your eyes blink when dust flies at them.
+- **Excretion.** Waste produced in the body is removed.
+- **Movement.** Animals move from place to place; plants move parts, such as a sunflower turning or a leaf folding.
+
+A stone shows none of these. A car moves and "uses fuel", but it is not made of cells, does not grow or reproduce. So we judge life by the **whole set** of features together, not by one.
+
+**The line is not always sharp.** Your book points out something important: in fact the boundary between living and non-living is very faint. Living bodies are made of exactly the same atoms (carbon, hydrogen, oxygen, nitrogen…) as non-living things, and the same laws of physics and chemistry work inside them. Then why study biology separately? Because when non-living components join in a very complex, organised way, **new properties appear** that the parts did not have. Water is made of hydrogen and oxygen, yet water puts out fire while hydrogen burns and oxygen helps burning. In the same way, a cell is made of non-living molecules, but the cell can grow, respond and reproduce. **Viruses** sit right on this border: outside a living cell they behave like lifeless particles, but inside a host cell they multiply.
+
+**Where the name came from.** *Biology* = Greek *bios* (life) + *logos* (knowledge or study), so biology means "the study of life".
+
+**A very old science.** Because knowledge of plants and animals was essential for farming and for treating illness, people practised some biology from the very beginning of civilisation, in Greece, Egypt, the Middle East, India and China. That early knowledge was not science in the modern sense (it was not tested by careful experiments), but it laid the ground on which modern biology was built.
+## analogy
+Think of a cricket team. Eleven players standing separately are just eleven people. Put them together with a plan, positions and teamwork, and something new appears: a team that can defend a total or chase a target. Life is like that: non-living molecules, organised together in a cell, show new abilities, such as growing and reproducing, that no single molecule has.
+## definition
+**Biology**: the branch of science that deals with living organisms, including their structure, life processes, behaviour, classification, origin, evolution and relationship with the environment. Biology = *bios* (life) + *logos* (knowledge).
+
+**Living organism (জীব)**: something that is made of one or more cells and shows the characteristics of life, such as nutrition, respiration, growth, reproduction, response to stimuli and excretion.
+
+**Non-living thing (জড়)**: something that has no life and does not show these characteristics.
+## why
+Why can't physics and chemistry alone explain life? Because the special properties of life come from **organisation**. The same molecules, scattered in a beaker, do nothing; arranged into a cell with membranes, enzymes and genes, they can take in food, release energy and copy themselves. These new properties belong to the organised whole, so we need a separate science, biology, to study them, while still using physics and chemistry to understand how they work.
+## terms
+Biology (জীববিজ্ঞান) | The science of life; Greek *bios* = life, *logos* = knowledge
+Organism (জীব) | Any living thing, made of one or more cells
+Non-living (জড়) | Things with no life, e.g. stone, water, air, a car
+Stimulus (উদ্দীপনা) | A change around an organism that it responds to, e.g. touch, light
+Reproduction (প্রজনন) | Producing new organisms of the same kind
+Virus | A particle that can multiply only inside a living host cell; on the border of living and non-living
+## visual
+Tap a card, decide whether it is living or non-living, and read the reason. Watch out for the tricky ones!
+## real
+A farmer checking whether stored paddy seeds are still alive soaks a few in water: living seeds germinate, dead ones do not. Doctors judge whether a person is alive by signs of life processes such as breathing and heartbeat. And the dengue virus, which spreads in Bangladesh every monsoon, is a real-life reminder that the border between living and non-living matters: it only multiplies inside our cells.
+## example
+Q: A salt crystal kept in a saturated salt solution becomes bigger day by day. Rahim says, "It grows, so it is alive." Is he right?
+Solution: Check the whole set of features of life, not just one.
+Step: The crystal grows only by new layers of salt sticking on from outside; it does not make new material from inside.
+Step: It is not made of cells, takes no food, does not respire, cannot reproduce and does not respond to stimuli.
+Answer: Rahim is wrong. The salt crystal is non-living; increasing in size from outside is not true growth.
+## example
+Q: A dry gram seed lies in a jar for months without any sign of life. Is it living or non-living? How can you check?
+Solution: Some living things can stay inactive (dormant) for a long time.
+Step: Inside the seed is a tiny living embryo, made of cells, respiring very slowly.
+Step: Soak the seed in water and keep it in a warm place. In a few days it germinates and grows: a clear sign of life.
+Answer: The seed is living (dormant). Germination proves it.
+## mistakes
+x Anything that moves is alive.
+v Cars, clouds and rivers move but are non-living. Life is judged by the whole set of features: cells, nutrition, respiration, growth, reproduction, response and so on.
+x Living things are made of special "living" atoms.
+v Living things are made of the same atoms as non-living things; life arises from the complex, organised way they are combined.
+x Plants are not living because they do not move.
+v Plants are living. They grow, respire, reproduce and respond (stems bend towards light, lajjaboti leaves fold), and they move their parts.
+## remember
+- Biology = *bios* (life) + *logos* (knowledge): the science of life.
+- Features of life: cells, nutrition, respiration, growth, reproduction, response to stimuli, excretion, movement.
+- Judge life by all the features together, not by one.
+- Living bodies are made of non-living components, but their organisation produces new properties.
+- Viruses lie on the border between living and non-living.
+- Some biology was practised in Greece, Egypt, the Middle East, India and China from ancient times.
+## think
+Fire "eats" fuel, "breathes" oxygen, grows and can spread to make new fires. Using the features of life, explain why fire is still not a living thing.
+## quiz
+? The word "biology" comes from Greek words meaning:
+- Body and mind
+* Life and knowledge
+- Plant and animal
+- Cell and tissue
+= *Bios* means life and *logos* means knowledge, so biology is the study of life.
+? Which of these is a living thing?
+- A salt crystal growing in solution
+- A moving car
+* A dormant gram seed
+- A cloud
+= The seed contains a living embryo that respires slowly and germinates in water. The others do not show the features of life.
+? Water has properties unlike hydrogen and oxygen. The book uses this to show that:
+- Water is a living thing
+* Organised combinations of non-living parts can show new properties, as life does
+- Hydrogen and oxygen are living
+- Physics and chemistry are not needed in biology
+= A cell is made of non-living molecules but, being organised, shows new properties such as growth and reproduction.
+== bn
+## what
+**জীববিজ্ঞান** হলো বিজ্ঞানের সেই শাখা, যেখানে জীবের গঠন, জীবনপ্রক্রিয়া, আচরণ, উৎপত্তি এবং পরিবেশের সাথে এর সম্পর্ক নিয়ে আলোচনা করা হয়। শব্দটি এসেছে গ্রিক *bios* (জীবন) আর *logos* (জ্ঞান) থেকে।
+## simple
+তোমার শ্রেণিকক্ষে চারপাশে তাকাও। বেঞ্চ, ব্ল্যাকবোর্ড, ফ্যান আর চক হলো **জড়** বস্তু। তুমি, তোমার বন্ধুরা, জানালার মাছি আর বাইরের আমগাছ হলো **জীব**। ছোট্ট একটা শিশুও বেশিরভাগ জিনিসকে এই দুই দলে ভাগ করে ফেলতে পারে। জীববিজ্ঞান হলো দ্বিতীয় দলটির বিজ্ঞান: **যাদের জীবন আছে, তাদের সবার**।
+
+**তাহলে কোনো কিছুকে জীবিত বলি কখন?** বিজ্ঞানীরা এমন কিছু বৈশিষ্ট্য খোঁজেন, যা সব জীবের মধ্যে আছে:
+- **কোষ দিয়ে গঠিত।** প্রতিটি জীব একটি কোষ (ব্যাকটেরিয়া, অ্যামিবা) অথবা অনেক কোষ (বটগাছ, গরু, তুমি) দিয়ে তৈরি।
+- **পুষ্টি।** জীব খাদ্য গ্রহণ করে অথবা নিজেই তৈরি করে। ধানগাছ সালোকসংশ্লেষণে খাদ্য তৈরি করে; ছাগল ঘাস খায়।
+- **শ্বসন।** কোষের ভেতরে খাদ্য ভেঙে শক্তি বের হয়।
+- **ভেতর থেকে বৃদ্ধি।** চারাগাছ নতুন কোষ আর নতুন উপাদান তৈরি করে বড় গাছ হয়। (লবণের কেলাসও "বড়" হয়, তবে শুধু বাইরে থেকে স্তর জমে জমে, তাই এটা প্রকৃত বৃদ্ধি নয়।)
+- **প্রজনন।** জীব নিজের মতো নতুন জীব তৈরি করে: মুরগি ডিম পাড়ে, আমের আঁটি থেকে নতুন আমগাছ হয়।
+- **উদ্দীপনায় সাড়া।** লজ্জাবতীর পাতা ছুঁলে গুটিয়ে যায়; চোখের দিকে ধুলো উড়ে এলে চোখের পাতা বন্ধ হয়।
+- **রেচন।** দেহে তৈরি বর্জ্য বের করে দেওয়া।
+- **চলন।** প্রাণী এক জায়গা থেকে আরেক জায়গায় যায়; উদ্ভিদ অঙ্গ নাড়ায়, যেমন সূর্যমুখীর ঘুরে যাওয়া বা পাতা গুটিয়ে যাওয়া।
+
+পাথরে এর কোনোটিই নেই। গাড়ি চলে, "জ্বালানি খায়", কিন্তু কোষ দিয়ে তৈরি নয়, বাড়ে না, বংশবৃদ্ধিও করে না। তাই জীবন বিচার করি **সবগুলো বৈশিষ্ট্য একসাথে** দেখে, একটি দেখে নয়।
+
+**সীমারেখা সবসময় স্পষ্ট নয়।** তোমার বই একটি গুরুত্বপূর্ণ কথা মনে করিয়ে দেয়: কোথায় জড়ের শেষ আর কোথায় জীবনের শুরু, তা অনেক সময় বলা খুব কঠিন। জীবদেহ ঠিক সেই পরমাণুগুলো দিয়েই তৈরি (কার্বন, হাইড্রোজেন, অক্সিজেন, নাইট্রোজেন…) যা দিয়ে জড়বস্তু তৈরি, আর এর ভেতরেও পদার্থবিজ্ঞান ও রসায়নের একই নিয়ম কাজ করে। তাহলে আলাদা করে জীববিজ্ঞান পড়ব কেন? কারণ জড় উপাদানগুলো যখন খুব জটিল, সুশৃঙ্খলভাবে একত্র হয়, তখন এমন **নতুন বৈশিষ্ট্যের উদ্ভব** ঘটে যা আলাদা উপাদানগুলোর মধ্যে ছিল না। পানি হাইড্রোজেন আর অক্সিজেন দিয়ে তৈরি, অথচ পানি আগুন নেভায়, আর হাইড্রোজেন নিজে জ্বলে, অক্সিজেন জ্বলতে সাহায্য করে। ঠিক তেমনি কোষ জড় অণু দিয়ে তৈরি হলেও কোষ বাড়তে পারে, সাড়া দিতে পারে, বংশবৃদ্ধি করতে পারে। **ভাইরাস** ঠিক এই সীমানায় দাঁড়িয়ে: জীবিত কোষের বাইরে এটি প্রাণহীন কণার মতো আচরণ করে, কিন্তু পোষক কোষের ভেতরে ঢুকে সংখ্যায় বাড়ে।
+
+**নামটি এলো কোথা থেকে?** জীববিজ্ঞানকে ইংরেজিতে বলে *Biology*, যা গ্রিক *bios* (জীবন) + *logos* (জ্ঞান) শব্দ দুটি মিলে গঠিত। তাই জীববিজ্ঞান মানে "জীবন সম্পর্কে জ্ঞান"।
+
+**খুব পুরোনো বিজ্ঞান।** চাষাবাদ আর রোগের চিকিৎসার জন্য উদ্ভিদ ও প্রাণী সম্পর্কে জ্ঞান অপরিহার্য ছিল, তাই সভ্যতার একেবারে শুরু থেকেই গ্রিস, মিসর, মধ্যপ্রাচ্য, ভারতবর্ষ ও চীনে কিছু না কিছু জীববিজ্ঞানচর্চা হয়েছে। আধুনিক অর্থে সেগুলো ঠিক বিজ্ঞান ছিল না (যত্নশীল পরীক্ষা দিয়ে যাচাই করা হতো না), কিন্তু সেই জ্ঞানের ভিত্তির ওপরই আধুনিক জীববিজ্ঞান গড়ে উঠেছে।
+## analogy
+একটি ক্রিকেট দলের কথা ভাবো। এগারোজন খেলোয়াড় আলাদা আলাদা দাঁড়িয়ে থাকলে তারা শুধুই এগারোজন মানুষ। পরিকল্পনা, ফিল্ডিং পজিশন আর বোঝাপড়া দিয়ে একসাথে করলে নতুন কিছুর জন্ম হয়: এমন একটি দল, যা রান আটকাতে বা লক্ষ্য তাড়া করতে পারে। জীবনও তেমন: জড় অণুগুলো কোষে সুশৃঙ্খলভাবে একত্র হলে বাড়া বা বংশবৃদ্ধির মতো নতুন ক্ষমতা দেখায়, যা কোনো একক অণুর নেই।
+## definition
+**জীববিজ্ঞান**: বিজ্ঞানের যে শাখায় জীবের গঠন, জীবনপ্রক্রিয়া, আচরণ, শ্রেণিবিন্যাস, উৎপত্তি, বিবর্তন এবং পরিবেশের সাথে জীবের সম্পর্ক নিয়ে আলোচনা করা হয়, তাকে জীববিজ্ঞান বলে। Biology = *bios* (জীবন) + *logos* (জ্ঞান)।
+
+**জীব**: যা এক বা একাধিক কোষ দিয়ে গঠিত এবং পুষ্টি, শ্বসন, বৃদ্ধি, প্রজনন, উদ্দীপনায় সাড়া, রেচন ইত্যাদি জীবনের বৈশিষ্ট্য প্রদর্শন করে।
+
+**জড়**: যার জীবন নেই এবং যা এসব বৈশিষ্ট্য প্রদর্শন করে না।
+## why
+শুধু পদার্থবিজ্ঞান আর রসায়ন দিয়ে জীবন পুরোপুরি ব্যাখ্যা করা যায় না কেন? কারণ জীবনের বিশেষ বৈশিষ্ট্যগুলো আসে **সুশৃঙ্খল বিন্যাস** থেকে। একই অণুগুলো বিকারে ছড়িয়ে রাখলে কিছুই করে না; কিন্তু পর্দা, এনজাইম আর জিনসহ একটি কোষে সাজানো থাকলে খাদ্য গ্রহণ করতে, শক্তি বের করতে, এমনকি নিজের প্রতিলিপি তৈরি করতে পারে। এই নতুন বৈশিষ্ট্যগুলো পুরো সুশৃঙ্খল ব্যবস্থার, তাই এগুলো পড়ার জন্য আলাদা বিজ্ঞান, জীববিজ্ঞান দরকার। আর সেগুলো কীভাবে কাজ করে তা বুঝতে পদার্থবিজ্ঞান ও রসায়নও লাগে।
+## terms
+জীববিজ্ঞান (Biology) | জীবন সম্পর্কিত বিজ্ঞান; গ্রিক *bios* = জীবন, *logos* = জ্ঞান
+জীব (organism) | যেকোনো জীবিত সত্তা, এক বা একাধিক কোষে গঠিত
+জড় (non-living) | যার জীবন নেই, যেমন পাথর, পানি, বাতাস, গাড়ি
+উদ্দীপনা (stimulus) | জীবের চারপাশের যে পরিবর্তনে জীব সাড়া দেয়, যেমন স্পর্শ, আলো
+প্রজনন (reproduction) | নিজের মতো নতুন জীব সৃষ্টি করা
+ভাইরাস | যে কণা শুধু জীবিত পোষক কোষের ভেতরে সংখ্যাবৃদ্ধি করতে পারে; জীব ও জড়ের সীমানায় অবস্থিত
+## visual
+একটি কার্ডে চাপ দাও, ঠিক করো সেটি জীব না জড়, তারপর কারণটি পড়ো। কয়েকটি কিন্তু বেশ কৌশলী!
+## real
+গোলায় রাখা ধানের বীজ এখনো জীবিত কি না দেখতে কৃষক কয়েকটি বীজ পানিতে ভিজিয়ে রাখেন: জীবিত বীজ অঙ্কুরিত হয়, মৃত বীজ হয় না। কোনো মানুষ জীবিত কি না, চিকিৎসক তা বোঝেন শ্বাস-প্রশ্বাস আর হৃৎস্পন্দনের মতো জীবনপ্রক্রিয়ার চিহ্ন দেখে। আর প্রতি বর্ষায় বাংলাদেশে যে ডেঙ্গু ভাইরাস ছড়ায়, সেটি মনে করিয়ে দেয় জীব আর জড়ের সীমারেখা কতটা বাস্তব: এটি শুধু আমাদের কোষের ভেতরেই সংখ্যায় বাড়ে।
+## example
+প্রশ্ন: সম্পৃক্ত লবণ-দ্রবণে রাখা একটি লবণের কেলাস দিন দিন বড় হচ্ছে। রহিম বলল, "এটা বাড়ছে, তাই এটা জীব।" সে কি ঠিক বলেছে?
+সমাধান: শুধু একটি নয়, জীবনের সবগুলো বৈশিষ্ট্য মিলিয়ে দেখো।
+ধাপ: কেলাসটি শুধু বাইরে থেকে নতুন লবণের স্তর জমে বড় হয়; ভেতর থেকে নতুন উপাদান তৈরি করে না।
+ধাপ: এটি কোষ দিয়ে গঠিত নয়, খাদ্য গ্রহণ করে না, শ্বসন করে না, বংশবৃদ্ধি করতে পারে না, উদ্দীপনায় সাড়াও দেয় না।
+উত্তর: রহিম ভুল বলেছে। লবণের কেলাস জড়; বাইরে থেকে আকারে বড় হওয়া প্রকৃত বৃদ্ধি নয়।
+## example
+প্রশ্ন: একটি শুকনো ছোলার বীজ কয়েক মাস ধরে বয়ামে পড়ে আছে, জীবনের কোনো লক্ষণ নেই। এটি জীব না জড়? কীভাবে যাচাই করবে?
+সমাধান: কিছু জীব দীর্ঘ সময় নিষ্ক্রিয় (সুপ্ত) অবস্থায় থাকতে পারে।
+ধাপ: বীজের ভেতরে আছে কোষ দিয়ে গঠিত একটি ক্ষুদ্র জীবিত ভ্রূণ, যা খুব ধীরে শ্বসন করছে।
+ধাপ: বীজটি পানিতে ভিজিয়ে উষ্ণ জায়গায় রাখো। কয়েক দিনের মধ্যে এটি অঙ্কুরিত হয়ে বাড়তে থাকবে: জীবনের স্পষ্ট প্রমাণ।
+উত্তর: বীজটি জীব (সুপ্ত অবস্থায় আছে)। অঙ্কুরোদ্‌গমই তার প্রমাণ।
+## mistakes
+x যা কিছু নড়াচড়া করে, তাই জীব।
+v গাড়ি, মেঘ, নদী নড়ে কিন্তু এরা জড়। জীবন বিচার করতে হয় সবগুলো বৈশিষ্ট্য দিয়ে: কোষ, পুষ্টি, শ্বসন, বৃদ্ধি, প্রজনন, সাড়া ইত্যাদি।
+x জীব বিশেষ ধরনের "জীবিত" পরমাণু দিয়ে তৈরি।
+v জীব আর জড় একই পরমাণু দিয়ে তৈরি; পরমাণুগুলোর জটিল, সুশৃঙ্খল সমাবেশ থেকেই জীবনের উদ্ভব।
+x উদ্ভিদ চলাফেরা করে না, তাই উদ্ভিদ জীব নয়।
+v উদ্ভিদ অবশ্যই জীব। এরা বাড়ে, শ্বসন করে, বংশবৃদ্ধি করে, সাড়া দেয় (কাণ্ড আলোর দিকে বাঁকে, লজ্জাবতীর পাতা গুটিয়ে যায়), আর অঙ্গ নাড়াতেও পারে।
+## remember
+- জীববিজ্ঞান = *bios* (জীবন) + *logos* (জ্ঞান): জীবন সম্পর্কিত বিজ্ঞান।
+- জীবনের বৈশিষ্ট্য: কোষ, পুষ্টি, শ্বসন, বৃদ্ধি, প্রজনন, উদ্দীপনায় সাড়া, রেচন, চলন।
+- একটি নয়, সব বৈশিষ্ট্য একসাথে দেখে জীবন বিচার করতে হয়।
+- জীবদেহ জড় উপাদানে গঠিত, কিন্তু সুশৃঙ্খল বিন্যাসের কারণে এতে নতুন বৈশিষ্ট্যের উদ্ভব ঘটে।
+- ভাইরাস জীব ও জড়ের সীমানায় অবস্থিত।
+- প্রাচীনকাল থেকেই গ্রিস, মিসর, মধ্যপ্রাচ্য, ভারতবর্ষ ও চীনে জীববিজ্ঞানচর্চা হয়েছে।
+## think
+আগুন জ্বালানি "খায়", অক্সিজেনে "শ্বাস নেয়", বড় হয়, এমনকি ছড়িয়ে নতুন আগুনও জ্বালায়। জীবনের বৈশিষ্ট্যগুলো দিয়ে ব্যাখ্যা করো, তবুও আগুন কেন জীব নয়।
+## quiz
+? "Biology" শব্দটি যে গ্রিক শব্দ দুটি থেকে এসেছে, তাদের অর্থ:
+- দেহ ও মন
+* জীবন ও জ্ঞান
+- উদ্ভিদ ও প্রাণী
+- কোষ ও টিস্যু
+= *Bios* অর্থ জীবন আর *logos* অর্থ জ্ঞান, তাই জীববিজ্ঞান হলো জীবন সম্পর্কিত জ্ঞান।
+? নিচের কোনটি জীব?
+- দ্রবণে বড় হতে থাকা লবণের কেলাস
+- চলন্ত গাড়ি
+* সুপ্ত অবস্থার একটি ছোলার বীজ
+- মেঘ
+= বীজের ভেতরে জীবিত ভ্রূণ আছে, যা ধীরে শ্বসন করে এবং পানি পেলে অঙ্কুরিত হয়। বাকিগুলো জীবনের বৈশিষ্ট্য দেখায় না।
+? পানির ধর্ম হাইড্রোজেন বা অক্সিজেনের মতো নয়। বইয়ে এই উদাহরণ দিয়ে দেখানো হয়েছে যে:
+- পানি একটি জীব
+* জড় উপাদানের সুশৃঙ্খল সমাবেশে নতুন বৈশিষ্ট্যের উদ্ভব হতে পারে, যেমন জীবনে হয়
+- হাইড্রোজেন ও অক্সিজেন জীবিত
+- জীববিজ্ঞানে পদার্থবিজ্ঞান ও রসায়নের দরকার নেই
+= কোষ জড় অণু দিয়ে তৈরি হলেও সুশৃঙ্খল বিন্যাসের কারণে বৃদ্ধি ও প্রজননের মতো নতুন বৈশিষ্ট্য দেখায়।
+
+@@ 1.2
+@visual b1branch
+@related 1.1 1.3 14.1 13.1
+== en
+## what
+Biology is so vast that it is divided into many **branches**. Traditionally it was split into **Botany** (plants) and **Zoology** (animals); today its branches are grouped into **pure or physical biology** (theory-centred) and **applied biology** (use-centred).
+## simple
+**Two old branches.** Look around and you see two kinds of living things: plants and animals. So for a long time biology was split into **Botany** (উদ্ভিদবিজ্ঞান, the study of plants) and **Zoology** (প্রাণিবিজ্ঞান, the study of animals). Schools and universities still use these names.
+
+**Why that is not enough now.** Many organisms are neither plants nor animals: bacteria and fungi, for example. And when scientists want to study something common to all of them (how any cell divides, how genes are passed on), sorting by "plant or animal" does not help. So biology has been split into many branches by **what aspect** is studied. These branches are grouped in two families:
+- **Pure (physical) biology** (ভৌত জীববিজ্ঞান): the main aim is to understand the theory, the "how and why" of life.
+- **Applied biology** (ফলিত জীববিজ্ঞান): the main aim is to use that knowledge for human needs: food, health, industry, environment.
+
+**Pure (physical) branches** (from your book):
+- **Morphology** (অঙ্গসংস্থান): form and structure of organisms; *external* morphology describes the outside of the body, *internal* morphology the inside.
+- **Taxonomy** (শ্রেণিবিন্যাসবিদ্যা): classification of organisms and its principles.
+- **Physiology** (শারীরবিদ্যা): life processes of organs, such as respiration, excretion and photosynthesis.
+- **Histology** (টিস্যুবিদ্যা): microscopic structure, arrangement and function of tissues.
+- **Embryology** (ভ্রূণবিদ্যা): origin of gametes, formation of the embryo from the fertilised egg (zygote) and its development.
+- **Cytology** (কোষবিদ্যা): structure, function and division of cells.
+- **Genetics** (বংশগতিবিদ্যা): genes and heredity.
+- **Evolution** (বিবর্তনবিদ্যা): how life developed and organisms changed over many generations.
+- **Ecology** (বাস্তুবিদ্যা): the relationship between organisms and their environment.
+- **Endocrinology** (এন্ডোক্রাইনোলজি): endocrine glands and the hormones they secrete.
+- **Biogeography** (জীবভূগোল): geographical distribution of organisms.
+
+**Applied branches** (some examples from your book): **Fisheries** (মৎস্যবিজ্ঞান: fish, fish production, management and conservation), **Biostatistics** (statistics applied to living things), **Parasitology** (parasites and the diseases they cause), **Palaeontology** (fossils and prehistoric life), **Entomology** (কীটতত্ত্ব: insects, their benefits, harm and control), **Microbiology** (viruses, bacteria, microscopic fungi and other microbes), **Agriculture**, **Medical science**, **Genetic engineering** (gene technology), **Biochemistry**, **Environmental science**, **Marine biology**, **Forestry**, **Biotechnology** (using organisms for human welfare), **Pharmacy** (medicine technology and industry), **Wildlife** studies and **Bioinformatics** (computer-based analysis of biological data).
+
+Notice the names: *-logy* (from *logos*) means "study of": entomo-logy = study of insects (Greek *entomon* = insect), cyto-logy = study of cells. Ichthyology (study of fish) is part of zoology and the base of fisheries.
+
+**The two families need each other.** Genetics (pure) explains how traits are inherited; genetic engineering and plant breeding (applied) use that to make better crops. Understanding comes first, use follows, and practical problems in turn raise new questions for pure research.
+## analogy
+Think of a hospital and a medical college. In the college, students learn how the heart works (like pure biology). In the hospital, doctors use that knowledge to treat a heart patient (like applied biology). Both deal with the same heart, but one aims to understand, the other to use.
+## definition
+**Pure (physical) biology**: the group of branches of biology in which investigating the theoretical basis of life gets more importance than its practical application, e.g. morphology, taxonomy, physiology, cytology, genetics, ecology.
+
+**Applied biology**: the group of branches of biology in which the practical use of biological knowledge for human welfare gets more importance, e.g. fisheries, agriculture, medical science, microbiology, biotechnology, genetic engineering.
+## why
+Why split biology into so many branches? Because no one can master everything about millions of organisms. Dividing the subject by aspect lets scientists go deep: a cytologist studies cells in every kind of organism, an ecologist studies relationships in a whole beel or forest. And separating theory from application lets research flow in both directions: discoveries in pure branches lead to new technology, and practical problems point pure research in new directions.
+## terms
+Botany (উদ্ভিদবিজ্ঞান) | Study of plants
+Zoology (প্রাণিবিজ্ঞান) | Study of animals
+Pure / physical biology (ভৌত জীববিজ্ঞান) | Branches focused on theory: morphology, taxonomy, physiology, histology, embryology, cytology, genetics, evolution, ecology, endocrinology, biogeography
+Applied biology (ফলিত জীববিজ্ঞান) | Branches focused on use: fisheries, agriculture, medicine, microbiology, biotechnology, genetic engineering…
+Entomology (কীটতত্ত্ব) | Study of insects, their benefits, harm and control
+Palaeontology (জীবাশ্মবিজ্ঞান) | Study of fossils and prehistoric life
+Ichthyology | Study of fish
+## visual
+Switch between pure and applied branches and tap a branch to see what it studies. Then try the "Which branch?" challenge.
+## real
+When the Bangladesh Fisheries Research Institute studies the breeding season of hilsa so that fishing can be banned at the right time, that is fisheries (applied) built on ecology and physiology (pure). Bangladeshi scientists decoding the jute genome used genetics, biotechnology and bioinformatics together. And BRRI's flood-tolerant and salt-tolerant rice varieties are the fruit of genetics and agriculture working hand in hand.
+## example
+Q: A news report says scientists are studying how the Aedes mosquito breeds and how to control it to stop dengue. Which branches of biology are involved? Are they pure or applied?
+Solution: Find the main subject (an insect) and the aim (control a disease).
+Step: The study of insects, their harm and control is **entomology** (applied).
+Step: Dengue is a disease of humans, so **medical science** (applied) is involved; the virus itself belongs to **microbiology** (applied).
+Step: Knowing where the mosquito breeds (stagnant water, its surroundings) is **ecology** (pure).
+Answer: Entomology, medical science and microbiology (applied), supported by ecology (pure).
+## example
+Q: Is genetics a pure or an applied branch? Explain.
+Solution: Ask whether the main aim is understanding theory or practical use.
+Step: Genetics studies genes and how traits pass from parents to offspring: its main aim is to understand the theory of heredity.
+Answer: Genetics is a pure (physical) branch. Its knowledge is applied in genetic engineering and plant breeding, which are applied branches.
+## mistakes
+x Biology has only two branches: botany and zoology.
+v That is the traditional division. Today biology has many branches, grouped into pure (physical) and applied biology, because organisms such as bacteria and fungi are neither plants nor animals.
+x Entomology is the study of parasites.
+v Entomology is the study of insects. Parasites are studied in parasitology.
+x Cytology and histology mean the same thing.
+v Cytology studies individual cells; histology studies tissues (groups of similar cells).
+## remember
+- Traditional: Botany (plants) and Zoology (animals).
+- Pure (physical) biology: theory first. Morphology, taxonomy, physiology, histology, embryology, cytology, genetics, evolution, ecology, endocrinology, biogeography.
+- Applied biology: use first. Fisheries, biostatistics, parasitology, palaeontology, entomology, microbiology, agriculture, medical science, genetic engineering, biochemistry, environmental science, marine biology, forestry, biotechnology, pharmacy, wildlife, bioinformatics.
+- *-logy* = study of: entomology (insects), cytology (cells), histology (tissues).
+## think
+Tasnim wants to find out why the number of Royal Bengal tigers in the Sundarbans is falling and how to protect them. Which branches of biology would she need, and which of them are pure and which applied?
+## quiz
+? Which branch of biology discusses insects?
+* Entomology
+- Parasitology
+- Endocrinology
+- Microbiology
+= Entomology (Greek *entomon* = insect) studies insects, their benefits, harm and control.
+? The study of the structure, function and division of cells is:
+- Histology
+* Cytology
+- Morphology
+- Embryology
+= Cytology studies cells; histology studies tissues.
+? Which of these is an applied branch of biology?
+- Taxonomy
+- Ecology
+* Fisheries
+- Genetics
+= Fisheries deals with the production, management and conservation of fish, a practical use. The others are pure branches.
+? The relationship between organisms and their environment is studied in:
+- Physiology
+- Biogeography
+* Ecology
+- Evolution
+= Ecology is the science of the interrelationship between organisms and their environment.
+== bn
+## what
+জীববিজ্ঞান এত বিশাল যে একে অনেকগুলো **শাখায়** ভাগ করা হয়। প্রচলিতভাবে একে **উদ্ভিদবিজ্ঞান** ও **প্রাণিবিজ্ঞান** এই দুই ভাগে ভাগ করা হতো; এখন এর শাখাগুলোকে **ভৌত বা মৌলিক জীববিজ্ঞান** (তত্ত্বকেন্দ্রিক) এবং **ফলিত জীববিজ্ঞান** (প্রয়োগকেন্দ্রিক) এই দুই ভাগে সাজানো হয়।
+## simple
+**পুরোনো দুই শাখা।** চারপাশে তাকালেই দুই ধরনের জীব দেখি: উদ্ভিদ আর প্রাণী। তাই বহুদিন জীববিজ্ঞানকে দুই ভাগে ভাগ করে পড়া হতো: **উদ্ভিদবিজ্ঞান** (Botany) আর **প্রাণিবিজ্ঞান** (Zoology)। স্কুল-বিশ্ববিদ্যালয়ে এ নামগুলো এখনো চালু আছে।
+
+**এখন কেন তা যথেষ্ট নয়?** অনেক জীব আছে যারা উদ্ভিদও নয়, প্রাণীও নয়, যেমন ব্যাকটেরিয়া আর ছত্রাক। আবার বিজ্ঞানীরা যখন সব জীবের কোনো সাধারণ বিষয় (যেকোনো কোষ কীভাবে বিভাজিত হয়, জিন কীভাবে পরের প্রজন্মে যায়) পড়তে চান, তখন "উদ্ভিদ না প্রাণী" ভাগ কাজে আসে না। তাই জীবের **কোন দিক** পড়া হচ্ছে, সেই অনুযায়ী জীববিজ্ঞানকে অনেক শাখায় ভাগ করা হয়েছে। শাখাগুলো দুই পরিবারে পড়ে:
+- **ভৌত বা মৌলিক জীববিজ্ঞান**: মূল লক্ষ্য তাত্ত্বিক ভিত্তি বোঝা, জীবনের "কীভাবে ও কেন"।
+- **ফলিত জীববিজ্ঞান**: মূল লক্ষ্য সেই জ্ঞান মানুষের কাজে লাগানো: খাদ্য, স্বাস্থ্য, শিল্প, পরিবেশ।
+
+**ভৌত শাখাগুলো** (তোমার বই অনুযায়ী):
+- **অঙ্গসংস্থান** (Morphology): জীবের আকার ও দৈহিক গঠন; দেহের বাইরের বর্ণনা *বহিঃঅঙ্গসংস্থান*, ভেতরের বর্ণনা *অন্তঃঅঙ্গসংস্থান*।
+- **শ্রেণিবিন্যাসবিদ্যা বা ট্যাক্সোনমি** (Taxonomy): জীবের শ্রেণিবিন্যাস ও তার রীতিনীতি।
+- **শারীরবিদ্যা** (Physiology): দেহের নানা অঙ্গের জৈবরাসায়নিক কাজ, যেমন শ্বসন, রেচন, সালোকসংশ্লেষণ।
+- **হিস্টোলজি বা টিস্যুবিদ্যা** (Histology): টিস্যুর আণুবীক্ষণিক গঠন, বিন্যাস ও কাজ।
+- **ভ্রূণবিদ্যা** (Embryology): জননকোষের উৎপত্তি, নিষিক্ত জাইগোট থেকে ভ্রূণ সৃষ্টি, এর গঠন ও বিকাশ।
+- **কোষবিদ্যা** (Cytology): কোষের গঠন, কাজ ও বিভাজন।
+- **বংশগতিবিদ্যা** (Genetics): জিন ও বংশগতিধারা।
+- **বিবর্তনবিদ্যা** (Evolution): পৃথিবীতে প্রাণের বিকাশ এবং বহু প্রজন্ম ধরে জীবের ক্রমবিকাশ।
+- **বাস্তুবিদ্যা** (Ecology): পরিবেশের সাথে জীবের আন্তঃসম্পর্ক।
+- **এন্ডোক্রাইনোলজি** (Endocrinology): অন্তঃক্ষরা গ্রন্থি ও এদের নিঃসৃত হরমোন।
+- **জীবভূগোল** (Biogeography): পৃথিবীর বিভিন্ন ভৌগোলিক অঞ্চলে জীবের বিস্তৃতি।
+
+**ফলিত শাখাগুলো** (বইয়ের কিছু উদাহরণ): **মৎস্যবিজ্ঞান** (মাছ, মাছ উৎপাদন, মৎস্যসম্পদ ব্যবস্থাপনা ও সংরক্ষণ), **জীবপরিসংখ্যানবিদ্যা**, **পরজীবীবিদ্যা** (পরজীবী ও এদের সৃষ্ট রোগ), **জীবাশ্মবিজ্ঞান** (জীবাশ্ম ও প্রাগৈতিহাসিক জীব), **কীটতত্ত্ব** (কীটপতঙ্গের জীবন, উপকারিতা, অপকারিতা ও দমন), **অণুজীববিজ্ঞান** (ভাইরাস, ব্যাকটেরিয়া, আণুবীক্ষণিক ছত্রাক ও অন্যান্য অণুজীব), **কৃষিবিজ্ঞান**, **চিকিৎসাবিজ্ঞান**, **জিনপ্রযুক্তি** (Genetic engineering), **প্রাণরসায়ন**, **পরিবেশবিজ্ঞান**, **সামুদ্রিক জীববিজ্ঞান**, **বনবিজ্ঞান**, **জীবপ্রযুক্তি** (মানুষের কল্যাণে জীব ব্যবহারের প্রযুক্তি), **ফার্মেসি** (ওষুধশিল্প ও প্রযুক্তি), **বন্যপ্রাণিবিদ্যা** আর **বায়োইনফরমেটিকস** (কম্পিউটারনির্ভর জৈবিক তথ্য বিশ্লেষণ)।
+
+নামগুলো খেয়াল করো: ইংরেজি নামের শেষে *-logy* (*logos* থেকে) মানে "বিষয়ক জ্ঞান": Entomology = কীটপতঙ্গবিষয়ক জ্ঞান (গ্রিক *entomon* = কীট), Cytology = কোষবিষয়ক জ্ঞান। Ichthyology বা মৎস্যবিদ্যা (মাছ সম্পর্কিত জ্ঞান) প্রাণিবিজ্ঞানের অংশ, আর মৎস্যবিজ্ঞানের ভিত্তি।
+
+**দুই পরিবার একে অপরের ওপর নির্ভরশীল।** বংশগতিবিদ্যা (ভৌত) ব্যাখ্যা করে বৈশিষ্ট্য কীভাবে বংশানুক্রমে যায়; জিনপ্রযুক্তি আর উদ্ভিদ প্রজনন (ফলিত) সেই জ্ঞান দিয়ে উন্নত ফসল তৈরি করে। আগে বোঝা, তারপর প্রয়োগ; আবার বাস্তব সমস্যা থেকেই ভৌত গবেষণার নতুন প্রশ্ন জন্মায়।
+## analogy
+একটি মেডিকেল কলেজ আর একটি হাসপাতালের কথা ভাবো। কলেজে শিক্ষার্থীরা শেখে হৃৎপিণ্ড কীভাবে কাজ করে (ভৌত জীববিজ্ঞানের মতো)। হাসপাতালে চিকিৎসক সেই জ্ঞান দিয়ে হৃদ্‌রোগীর চিকিৎসা করেন (ফলিত জীববিজ্ঞানের মতো)। দুই জায়গাতেই একই হৃৎপিণ্ড, কিন্তু একটির লক্ষ্য বোঝা, অন্যটির লক্ষ্য কাজে লাগানো।
+## definition
+**ভৌত বা মৌলিক জীববিজ্ঞান**: জীববিজ্ঞানের যেসব শাখায় প্রয়োগের চেয়ে জীবনের তাত্ত্বিক ভিত্তি অনুসন্ধান বেশি গুরুত্ব পায়, যেমন অঙ্গসংস্থান, শ্রেণিবিন্যাসবিদ্যা, শারীরবিদ্যা, কোষবিদ্যা, বংশগতিবিদ্যা, বাস্তুবিদ্যা।
+
+**ফলিত জীববিজ্ঞান**: জীববিজ্ঞানের যেসব শাখায় মানুষের কল্যাণে জৈবিক জ্ঞানের প্রয়োগ বেশি গুরুত্ব পায়, যেমন মৎস্যবিজ্ঞান, কৃষিবিজ্ঞান, চিকিৎসাবিজ্ঞান, অণুজীববিজ্ঞান, জীবপ্রযুক্তি, জিনপ্রযুক্তি।
+## why
+জীববিজ্ঞানকে এত শাখায় ভাগ করতে হলো কেন? কারণ লক্ষ লক্ষ জীবের সবকিছু একজনের পক্ষে আয়ত্ত করা অসম্ভব। দিক অনুযায়ী ভাগ করলে বিজ্ঞানীরা গভীরে যেতে পারেন: একজন কোষবিদ সব ধরনের জীবের কোষ নিয়ে কাজ করেন, একজন বাস্তুবিদ পুরো একটি বিল বা বনের জীবদের সম্পর্ক নিয়ে কাজ করেন। আবার তত্ত্ব আর প্রয়োগ আলাদা করায় গবেষণা দুই দিকেই এগোয়: ভৌত শাখার আবিষ্কার থেকে নতুন প্রযুক্তি আসে, আর বাস্তব সমস্যা ভৌত গবেষণাকে নতুন পথ দেখায়।
+## terms
+উদ্ভিদবিজ্ঞান (Botany) | উদ্ভিদ সম্পর্কিত বিজ্ঞান
+প্রাণিবিজ্ঞান (Zoology) | প্রাণী সম্পর্কিত বিজ্ঞান
+ভৌত বা মৌলিক জীববিজ্ঞান | তত্ত্বকেন্দ্রিক শাখা: অঙ্গসংস্থান, শ্রেণিবিন্যাসবিদ্যা, শারীরবিদ্যা, হিস্টোলজি, ভ্রূণবিদ্যা, কোষবিদ্যা, বংশগতিবিদ্যা, বিবর্তনবিদ্যা, বাস্তুবিদ্যা, এন্ডোক্রাইনোলজি, জীবভূগোল
+ফলিত জীববিজ্ঞান | প্রয়োগকেন্দ্রিক শাখা: মৎস্যবিজ্ঞান, কৃষিবিজ্ঞান, চিকিৎসাবিজ্ঞান, অণুজীববিজ্ঞান, জীবপ্রযুক্তি, জিনপ্রযুক্তি…
+কীটতত্ত্ব (Entomology) | কীটপতঙ্গের জীবন, উপকারিতা, অপকারিতা ও দমন সম্পর্কিত বিজ্ঞান
+জীবাশ্মবিজ্ঞান (Palaeontology) | জীবাশ্ম ও প্রাগৈতিহাসিক জীব সম্পর্কিত বিজ্ঞান
+মৎস্যবিদ্যা (Ichthyology) | মাছ সম্পর্কিত বিদ্যা
+## visual
+ভৌত আর ফলিত শাখার মধ্যে বদল করো, আর কোনো শাখায় চাপ দিয়ে দেখো সেটি কী নিয়ে কাজ করে। তারপর "কোন শাখা?" চ্যালেঞ্জটি চেষ্টা করো।
+## real
+বাংলাদেশ মৎস্য গবেষণা ইনস্টিটিউট যখন ইলিশের প্রজনন মৌসুম নিয়ে গবেষণা করে, যাতে ঠিক সময়ে মাছ ধরা নিষিদ্ধ করা যায়, তখন সেটি মৎস্যবিজ্ঞান (ফলিত), যা দাঁড়িয়ে আছে বাস্তুবিদ্যা ও শারীরবিদ্যার (ভৌত) ওপর। বাংলাদেশের বিজ্ঞানীরা পাটের জিনোম উন্মোচনে একসাথে কাজে লাগিয়েছেন বংশগতিবিদ্যা, জীবপ্রযুক্তি আর বায়োইনফরমেটিকস। আর ব্রির বন্যাসহিষ্ণু ও লবণসহিষ্ণু ধানের জাত বংশগতিবিদ্যা আর কৃষিবিজ্ঞানের যৌথ ফসল।
+## example
+প্রশ্ন: পত্রিকার একটি খবরে বলা হয়েছে, ডেঙ্গু ঠেকাতে বিজ্ঞানীরা এডিস মশা কোথায় ও কীভাবে বংশবৃদ্ধি করে এবং কীভাবে তা দমন করা যায় তা নিয়ে গবেষণা করছেন। এখানে জীববিজ্ঞানের কোন কোন শাখা জড়িত? সেগুলো ভৌত না ফলিত?
+সমাধান: মূল বিষয় (একটি কীট) আর লক্ষ্য (একটি রোগ দমন) খুঁজে বের করো।
+ধাপ: কীটপতঙ্গের জীবন, ক্ষতি ও দমন নিয়ে কাজ করে **কীটতত্ত্ব** (ফলিত)।
+ধাপ: ডেঙ্গু মানুষের রোগ, তাই **চিকিৎসাবিজ্ঞান** (ফলিত) জড়িত; ভাইরাসটি নিজে **অণুজীববিজ্ঞানের** (ফলিত) বিষয়।
+ধাপ: মশা কোথায় বংশবৃদ্ধি করে (জমে থাকা পানি, তার চারপাশের পরিবেশ) তা জানা **বাস্তুবিদ্যার** (ভৌত) বিষয়।
+উত্তর: কীটতত্ত্ব, চিকিৎসাবিজ্ঞান ও অণুজীববিজ্ঞান (ফলিত), সাথে বাস্তুবিদ্যা (ভৌত)।
+## example
+প্রশ্ন: বংশগতিবিদ্যা ভৌত না ফলিত শাখা? ব্যাখ্যা করো।
+সমাধান: দেখো, মূল লক্ষ্য তত্ত্ব বোঝা নাকি ব্যবহারিক প্রয়োগ।
+ধাপ: বংশগতিবিদ্যা জিন এবং বাবা-মা থেকে সন্তানে বৈশিষ্ট্য কীভাবে যায় তা নিয়ে কাজ করে: মূল লক্ষ্য বংশগতির তত্ত্ব বোঝা।
+উত্তর: বংশগতিবিদ্যা ভৌত বা মৌলিক শাখা। এর জ্ঞান প্রয়োগ করা হয় জিনপ্রযুক্তি ও উদ্ভিদ প্রজননে, যেগুলো ফলিত শাখা।
+## mistakes
+x জীববিজ্ঞানের শাখা মাত্র দুটি: উদ্ভিদবিজ্ঞান আর প্রাণিবিজ্ঞান।
+v এটি প্রচলিত ভাগ। এখন জীববিজ্ঞানের অনেক শাখা, যেগুলো ভৌত ও ফলিত এই দুই ভাগে সাজানো, কারণ ব্যাকটেরিয়া ও ছত্রাকের মতো জীব উদ্ভিদও নয়, প্রাণীও নয়।
+x কীটতত্ত্ব হলো পরজীবী সম্পর্কিত বিদ্যা।
+v কীটতত্ত্ব হলো কীটপতঙ্গ সম্পর্কিত বিদ্যা। পরজীবী নিয়ে কাজ করে পরজীবীবিদ্যা।
+x কোষবিদ্যা আর হিস্টোলজি একই জিনিস।
+v কোষবিদ্যা একেকটি কোষ নিয়ে কাজ করে; হিস্টোলজি কাজ করে টিস্যু (একই রকম কোষের সমষ্টি) নিয়ে।
+## remember
+- প্রচলিত ভাগ: উদ্ভিদবিজ্ঞান ও প্রাণিবিজ্ঞান।
+- ভৌত জীববিজ্ঞান: তত্ত্ব আগে। অঙ্গসংস্থান, শ্রেণিবিন্যাসবিদ্যা, শারীরবিদ্যা, হিস্টোলজি, ভ্রূণবিদ্যা, কোষবিদ্যা, বংশগতিবিদ্যা, বিবর্তনবিদ্যা, বাস্তুবিদ্যা, এন্ডোক্রাইনোলজি, জীবভূগোল।
+- ফলিত জীববিজ্ঞান: প্রয়োগ আগে। মৎস্যবিজ্ঞান, জীবপরিসংখ্যানবিদ্যা, পরজীবীবিদ্যা, জীবাশ্মবিজ্ঞান, কীটতত্ত্ব, অণুজীববিজ্ঞান, কৃষিবিজ্ঞান, চিকিৎসাবিজ্ঞান, জিনপ্রযুক্তি, প্রাণরসায়ন, পরিবেশবিজ্ঞান, সামুদ্রিক জীববিজ্ঞান, বনবিজ্ঞান, জীবপ্রযুক্তি, ফার্মেসি, বন্যপ্রাণিবিদ্যা, বায়োইনফরমেটিকস।
+- *-logy* = বিষয়ক জ্ঞান: Entomology (কীটপতঙ্গ), Cytology (কোষ), Histology (টিস্যু)।
+## think
+তাসনিম জানতে চায় সুন্দরবনে রয়েল বেঙ্গল টাইগারের সংখ্যা কেন কমছে এবং কীভাবে তাদের রক্ষা করা যায়। তার জীববিজ্ঞানের কোন কোন শাখা লাগবে, আর সেগুলোর কোনটি ভৌত, কোনটি ফলিত?
+## quiz
+? জীববিজ্ঞানের কোন শাখায় কীটপতঙ্গ নিয়ে আলোচনা করা হয়?
+* এন্টোমোলজি (কীটতত্ত্ব)
+- প্যারাসাইটোলজি
+- এন্ডোক্রাইনোলজি
+- মাইক্রোবায়োলজি
+= এন্টোমোলজি (গ্রিক *entomon* = কীট) কীটপতঙ্গের জীবন, উপকারিতা, অপকারিতা ও দমন নিয়ে কাজ করে।
+? কোষের গঠন, কাজ ও বিভাজন নিয়ে আলোচনা করে:
+- হিস্টোলজি
+* কোষবিদ্যা
+- অঙ্গসংস্থান
+- ভ্রূণবিদ্যা
+= কোষবিদ্যা কোষ নিয়ে, হিস্টোলজি টিস্যু নিয়ে কাজ করে।
+? নিচের কোনটি জীববিজ্ঞানের ফলিত শাখা?
+- শ্রেণিবিন্যাসবিদ্যা
+- বাস্তুবিদ্যা
+* মৎস্যবিজ্ঞান
+- বংশগতিবিদ্যা
+= মৎস্যবিজ্ঞান মাছ উৎপাদন, ব্যবস্থাপনা ও সংরক্ষণ নিয়ে কাজ করে, যা ব্যবহারিক প্রয়োগ। বাকিগুলো ভৌত শাখা।
+? পরিবেশের সাথে জীবের আন্তঃসম্পর্ক নিয়ে আলোচনা করা হয়:
+- শারীরবিদ্যায়
+- জীবভূগোলে
+* বাস্তুবিদ্যায়
+- বিবর্তনবিদ্যায়
+= বাস্তুবিদ্যা হলো পরিবেশের সাথে জীবের পারস্পরিক সম্পর্ক বিষয়ক বিজ্ঞান।
+
+@@ 1.3
+@visual b1kingdom
+@related 1.4 1.5 2.1 1.2
+== en
+## what
+**Classification** is the grouping of organisms according to their similarities and differences. In the **five-kingdom system** (R. H. Whittaker, 1969) all organisms are placed in five kingdoms: **Monera, Protista, Fungi, Plantae** and **Animalia**.
+## simple
+**Too many organisms to remember one by one.** About **4 lakh** (four hundred thousand) plant species and about **13 lakh** (1.3 million) animal species have been named and described so far, and new species are added almost every day. Scientists estimate that when all organisms are finally described, the number may reach about **one crore** (ten million). Imagine trying to learn ten million names with no order at all!
+
+Think of a big library. If its books were piled randomly, you would never find the one you need. So books are arranged by subject, then by topic, then by author. Biologists do the same with organisms: they put similar ones into groups, and groups into bigger groups. This is **classification**, and the branch of biology that does it is **taxonomy** (শ্রেণিবিন্যাসবিদ্যা).
+
+**Aims of classification** (from your book):
+- to gain knowledge about the groups and subgroups of organisms;
+- to store all the collected knowledge in an orderly way;
+- to present that huge knowledge in a short, organised form;
+- to identify each organism and give it a name;
+- above all, to recognise organisms useful to people and to nature, and to become conscious about conserving them.
+
+**From two kingdoms to five.** The Swedish naturalist **Carolus Linnaeus** (1707–1778) laid the foundation of complete classification and naming. Studying a vast number of specimens, he divided the living world into just two kingdoms: **plants** and **animals**. This two-kingdom idea lasted until the middle of the twentieth century. But bacteria, amoebae and mushrooms do not fit well into either. With better microscopes and more data (the type of cell, whether it has a true nucleus, the number of cells and the mode of nutrition), the American ecologist **R. H. Whittaker** proposed the **five-kingdom** system in **1969**. In 1974 **Lynn Margulis** modified and expanded it by grouping the five kingdoms under two **super kingdoms**:
+
+**Super kingdom 1: Prokaryotae** (আদিকোষী): primitive, microscopic, mostly unicellular organisms whose cells have **no well-formed nucleus** (no nuclear membrane).
+- **Kingdom 1: Monera.** Unicellular, filamentous (cells joined end to end in a chain) or colonial. Chromatin material is present but there is **no nuclear membrane and no nucleolus**. No plastids, mitochondria or endoplasmic reticulum, but **ribosomes are present**. Cells divide by **binary fission**. Most take in food by **absorption**; some make food by **photosynthesis**. *Examples:* bacteria, blue-green algae (such as *Nostoc*).
+
+**Super kingdom 2: Eukaryota** (প্রকৃতকোষী): cells with a **well-formed nucleus**; unicellular or multicellular, living singly or in colonies.
+- **Kingdom 2: Protista.** Unicellular or multicellular; single, colonial or filamentous. The nucleus is well formed: the chromatin (containing DNA, RNA and protein) is enclosed by a nuclear membrane, and all kinds of organelles are present. Food is taken by **absorption, ingestion or photosynthesis**. Asexual reproduction by mitosis; sexual reproduction by **conjugation** (union of two gametes that look alike but differ physiologically). **No embryo** is formed. *Examples:* *Amoeba*, *Paramecium*, algae (diatoms, *Spirogyra*).
+- **Kingdom 3: Fungi.** Mostly terrestrial, **saprophytic** (living on dead matter) or **parasitic**. The body is one cell (yeast) or a **mycelium** (a mass of thin thread-like hyphae). Nucleus well formed. **Cell wall made of chitin.** Food by **absorption**. **No chloroplast**, so no photosynthesis. Reproduce by haploid **spores**; cells divide by mitosis. *Examples:* yeast, *Penicillium*, mushroom.
+- **Kingdom 4: Plantae.** Mainly **photosynthetic** eukaryotes with advanced tissue systems. They form an **embryo**, from which the diploid stage begins. Mostly terrestrial, with many aquatic species. Sexual reproduction is by the union of two gametes that differ in size, shape or physiology. *Examples:* green plants, such as the jackfruit tree, paddy, fern.
+- **Kingdom 5: Animalia.** Eukaryotic and **multicellular**. Cells have **no cell wall and no plastids** (and no large vacuole like a plant cell's). Without plastids they cannot make food, so they are **heterotrophic**: they **ingest** food and digest it. Complex tissue systems. Reproduction is mainly sexual: mature diploid males and females produce haploid gametes, and **embryonic layers** form during development. *Examples:* all invertebrate and vertebrate animals **except protozoa** (such as amoeba, which are protists).
+
+**A look ahead.** Classification keeps improving as we learn more. In 2004 **Thomas Cavalier-Smith** of Oxford University split Protista into two kingdoms, **Protozoa** and **Chromista**, and renamed Monera as kingdom **Bacteria**, giving **six kingdoms**. You will study such newer systems at higher levels. (Modern biologists also note that "blue-green algae" are really bacteria, now called cyanobacteria, which is exactly why they sit in Monera and not with the true algae.)
+
+**Where are viruses?** None of the five kingdoms includes viruses, because they are not made of cells.
+## analogy
+Classifying organisms is like a post office sorting letters: first by country, then by division, district, upazila, and finally by house. The five kingdoms are like the "countries" of the living world; the first big question, "does the cell have a true nucleus?", is like separating local mail from foreign mail.
+## definition
+**Classification of organisms**: the process of arranging organisms into groups and subgroups on the basis of their similarities and differences.
+
+**Taxonomy**: the branch of biology that deals with the classification of organisms and its principles.
+
+**Five-kingdom system**: the classification proposed by R. H. Whittaker (1969), placing all cellular organisms in five kingdoms: Monera, Protista, Fungi, Plantae and Animalia. Margulis (1974) grouped Monera under super kingdom Prokaryotae and the other four under super kingdom Eukaryota.
+## why
+Why did the two-kingdom system fail? Because it forced very different organisms together. Bacteria have no true nucleus, unlike every plant and animal. Mushrooms were called plants, yet they have no chlorophyll, cannot photosynthesise, have chitin (not cellulose) in their cell walls and absorb food like decomposers. *Euglena* has chlorophyll like a plant but swims and eats like an animal. Whittaker's three key questions sort these out cleanly: **What kind of cell?** (prokaryotic or eukaryotic) **How many cells?** (unicellular or multicellular) **How does it get food?** (photosynthesis, absorption or ingestion).
+## terms
+Taxonomy (শ্রেণিবিন্যাসবিদ্যা) | Branch of biology dealing with classification
+Prokaryotic (আদিকোষী) | Cell without a well-formed nucleus (no nuclear membrane), e.g. bacteria
+Eukaryotic (প্রকৃতকোষী) | Cell with a well-formed nucleus enclosed by a nuclear membrane
+Monera (মনেরা) | Prokaryotic kingdom: bacteria, blue-green algae
+Protista (প্রোটিস্টা) | Simple eukaryotes, no embryo: amoeba, paramecium, diatoms
+Fungi (ফানজাই) | Eukaryotes with chitin cell walls, no chlorophyll, absorb food: yeast, mushroom
+Plantae (প্লানটি) | Photosynthetic eukaryotes that form embryos: green plants
+Animalia (অ্যানিমেলিয়া) | Multicellular heterotrophs without cell walls that ingest food
+Mycelium (মাইসেলিয়াম) | Thread-like body of a fungus
+Saprophytic (মৃতজীবী) | Feeding on dead organic matter
+Heterotrophic (পরভোজী) | Depending on other organisms for food
+## visual
+Tap a kingdom to see a drawing and its key features. Then switch to "Sort" and place each organism into its kingdom.
+## real
+Knowing kingdoms has practical value. Doctors know that antibiotics such as penicillin (first obtained from the fungus *Penicillium*) act on bacteria (Monera) but not on viruses, so they are useless against a cold or dengue. The yeast that makes the dough of bakery bread rise and the mushrooms now farmed in Savar are fungi, not plants: they grow in the dark on straw or sawdust because they absorb food rather than make it. Cholera is caused by a bacterium (*Vibrio cholerae*, Monera), but malaria by a protist (*Plasmodium*), which is why they are treated with completely different medicines.
+## example
+Q: An organism has a body made of thin threads, grows on stale bread, has no chlorophyll and its cell walls contain chitin. Which kingdom does it belong to?
+Solution: Check the key features one at a time.
+Step: Thread-like body (mycelium), no chlorophyll, so it cannot photosynthesise and must absorb food from the bread (saprophytic).
+Step: Cell wall of chitin is a feature of fungi, not plants (plant cell walls are cellulose).
+Answer: Kingdom Fungi (it is a bread mould, such as *Rhizopus* or *Penicillium*).
+## example
+Q: Figure A shows a single cell with no nuclear membrane; Figure B shows a unicellular organism with a well-formed nucleus that moves with pseudopodia and ingests food. Name the kingdom of each.
+Solution: The first question is always: is there a well-formed nucleus?
+Step: A: no nuclear membrane, so it is prokaryotic: kingdom **Monera** (e.g. a bacterium).
+Step: B: eukaryotic, unicellular, no embryo, ingests food: kingdom **Protista** (e.g. *Amoeba*).
+Answer: A belongs to Monera; B belongs to Protista.
+## mistakes
+x Mushrooms are plants because they grow from the ground and do not move.
+v Mushrooms are fungi: they have no chlorophyll, absorb their food and have chitin in their cell walls.
+x Amoeba is an animal because it moves and eats.
+v In the five-kingdom system amoeba is a protist: it is unicellular and forms no embryo. Animalia includes all animals except protozoa.
+x Blue-green algae belong to the plant kingdom.
+v Blue-green algae are prokaryotic (no nuclear membrane), so they belong to Monera; they are really bacteria (cyanobacteria).
+x Viruses belong to Monera.
+v Viruses are not cells, so they are not placed in any of the five kingdoms.
+## remember
+- Named species: about 4 lakh plants and 13 lakh animals; the total may reach about one crore.
+- Linnaeus: two kingdoms (plants, animals). Whittaker (1969): five kingdoms. Margulis (1974): two super kingdoms.
+- Prokaryotae → Monera (no nuclear membrane; bacteria, blue-green algae).
+- Eukaryota → Protista (no embryo), Fungi (chitin wall, absorption, no chlorophyll), Plantae (photosynthesis, embryo), Animalia (no cell wall, ingestion, embryonic layers).
+- Cavalier-Smith (2004): six kingdoms (Protista split into Protozoa and Chromista; Monera renamed Bacteria).
+## think
+*Euglena* is a single-celled organism with a nucleus and chloroplasts; in light it makes food, but in darkness it absorbs food from the water. Why would it be hard to place in Linnaeus's two kingdoms, and where does the five-kingdom system put it?
+## quiz
+? In which kingdom are the cells prokaryotic?
+* Monera
+- Protista
+- Fungi
+- Plantae
+= Monera (bacteria, blue-green algae) lack a nuclear membrane, so their cells are prokaryotic.
+? The cell wall of fungi is made of:
+- Cellulose
+* Chitin
+- Protein only
+- Lignin
+= Fungal cell walls contain chitin; plant cell walls contain cellulose.
+? Who proposed the five-kingdom system, and when?
+- Linnaeus, 1753
+- Margulis, 1974
+* Whittaker, 1969
+- Cavalier-Smith, 2004
+= R. H. Whittaker proposed it in 1969; Margulis expanded it in 1974.
+? Which feature belongs to kingdom Protista?
+- No nuclear membrane
+- Cell wall of chitin
+* Well-formed nucleus but no embryo formation
+- Embryonic layers form during development
+= Protists are eukaryotic but do not form embryos.
+== bn
+## what
+সাদৃশ্য ও বৈসাদৃশ্যের ভিত্তিতে জীবদের দলে দলে সাজানোকে **শ্রেণিবিন্যাস** বলে। **পাঁচ রাজ্য পদ্ধতিতে** (আর. এইচ. হুইটেকার, ১৯৬৯) সব জীবকে পাঁচটি রাজ্যে রাখা হয়: **মনেরা, প্রোটিস্টা, ফানজাই, প্লানটি** ও **অ্যানিমেলিয়া**।
+## simple
+**একটা একটা করে মনে রাখার পক্ষে জীব অনেক বেশি।** আজ পর্যন্ত উদ্ভিদের প্রায় **চার লক্ষ** আর প্রাণীর প্রায় **তেরো লক্ষ** প্রজাতির নামকরণ ও বর্ণনা করা হয়েছে, আর প্রায় প্রতিদিনই নতুন প্রজাতি যোগ হচ্ছে। বিজ্ঞানীদের অনুমান, সব জীবের বর্ণনা শেষ হলে সংখ্যাটা দাঁড়াতে পারে প্রায় **এক কোটিতে**। ভাবো তো, কোনো নিয়ম ছাড়া এক কোটি নাম শিখতে হলে কী অবস্থা হতো!
+
+একটি বড় গ্রন্থাগারের কথা ভাবো। বইগুলো এলোমেলো স্তূপ করে রাখলে দরকারি বইটা কখনো খুঁজে পেতে না। তাই বই সাজানো হয় বিষয় অনুযায়ী, তারপর উপবিষয়, তারপর লেখক অনুযায়ী। জীববিজ্ঞানীরাও জীবদের নিয়ে ঠিক তাই করেন: একই রকম জীবদের এক দলে রাখেন, আবার ছোট দলগুলোকে বড় দলে। এটাই **শ্রেণিবিন্যাস**, আর জীববিজ্ঞানের যে শাখা এ কাজ করে তার নাম **ট্যাক্সোনমি** বা **শ্রেণিবিন্যাসবিদ্যা**।
+
+**শ্রেণিবিন্যাসের উদ্দেশ্য** (তোমার বই অনুযায়ী):
+- প্রতিটি জীবের দল ও উপদল সম্বন্ধে জ্ঞান আহরণ করা;
+- আহরিত জ্ঞানকে সুশৃঙ্খলভাবে সংরক্ষণ করা;
+- বিপুল জ্ঞানকে সংক্ষিপ্ত ও সাজানো আকারে উপস্থাপন করা;
+- প্রতিটি জীবকে শনাক্ত করে তার নামকরণের ব্যবস্থা করা;
+- সর্বোপরি জীবজগৎ ও মানুষের কল্যাণে প্রয়োজনীয় জীবগুলোকে শনাক্ত করে তাদের সংরক্ষণে সচেতন হওয়া।
+
+**দুই রাজ্য থেকে পাঁচ রাজ্য।** সুইডিশ প্রকৃতিবিদ **ক্যারোলাস লিনিয়াস** (১৭০৭–১৭৭৮) জীবের পূর্ণ শ্রেণিবিন্যাস ও নামকরণের ভিত্তি গড়ে দেন। অসংখ্য নমুনা জীবের বৈশিষ্ট্য পর্যবেক্ষণ করে তিনি জীবজগৎকে মাত্র দুটি রাজ্যে ভাগ করেন: **উদ্ভিদজগৎ** আর **প্রাণিজগৎ**। বিংশ শতাব্দীর মাঝামাঝি পর্যন্ত এই দুই রাজ্যের ধারণাই চলেছে। কিন্তু ব্যাকটেরিয়া, অ্যামিবা বা মাশরুম কোনোটিতেই ঠিকমতো খাপ খায় না। উন্নত অণুবীক্ষণযন্ত্র আর আরও তথ্য-উপাত্তের (কোষের প্রকৃতি, সুগঠিত নিউক্লিয়াস আছে কি না, কোষের সংখ্যা আর খাদ্যগ্রহণের পদ্ধতি) ভিত্তিতে আমেরিকান বাস্তুবিদ **আর. এইচ. হুইটেকার** **১৯৬৯** সালে **পাঁচ রাজ্য** বা ফাইভ কিংডম পদ্ধতির প্রস্তাব করেন। পরে ১৯৭৪ সালে **লিন মারগুলিস** একে পরিবর্তিত ও বিস্তারিত রূপ দেন: পাঁচটি রাজ্যকে তিনি দুটি **সুপার কিংডমের** আওতায় আনেন:
+
+**সুপার কিংডম ১: প্রোক্যারিওটা** (আদিকোষী): আদি, আণুবীক্ষণিক, প্রধানত এককোষী জীব, যাদের কোষে **নিউক্লিয়াস সুগঠিত নয়** (নিউক্লিয়ার পর্দা নেই)।
+- **রাজ্য ১: মনেরা।** এককোষী, ফিলামেন্টাস (কোষ একটির পর একটি লম্বালম্বি যুক্ত হয়ে সুতার মতো) বা কলোনিয়াল। ক্রোমাটিন বস্তু থাকে কিন্তু **নিউক্লিয়ার পর্দা ও নিউক্লিওলাস নেই**। প্লাস্টিড, মাইটোকন্ড্রিয়া, এন্ডোপ্লাজমিক জালিকা নেই, তবে **রাইবোজোম আছে**। কোষ বিভাজন হয় **দ্বিবিভাজন** প্রক্রিয়ায়। প্রধানত **শোষণ** পদ্ধতিতে খাদ্য গ্রহণ করে; কেউ কেউ **সালোকসংশ্লেষণে** খাদ্য তৈরি করে। *উদাহরণ:* ব্যাকটেরিয়া, নীলাভ সবুজ শৈবাল (যেমন *Nostoc*)।
+
+**সুপার কিংডম ২: ইউক্যারিওটা** (প্রকৃতকোষী): কোষে **সুগঠিত নিউক্লিয়াস** আছে; এককোষী বা বহুকোষী, একা অথবা কলোনি আকারে দলবদ্ধভাবে বাস করে।
+- **রাজ্য ২: প্রোটিস্টা।** এককোষী বা বহুকোষী; একক, কলোনিয়াল বা ফিলামেন্টাস। নিউক্লিয়াস সুগঠিত: ক্রোমাটিন বস্তু (যাতে DNA, RNA ও প্রোটিন থাকে) নিউক্লিয়ার পর্দায় ঘেরা, আর সব ধরনের অঙ্গাণু থাকে। খাদ্যগ্রহণ **শোষণ, গলাধঃকরণ বা সালোকসংশ্লেষণ** পদ্ধতিতে। মাইটোসিসে অযৌন প্রজনন; **কনজুগেশনে** (গঠনে এক রকম কিন্তু জৈবনিকভাবে ভিন্ন দুটি গ্যামেটের মিলন) যৌন প্রজনন। **কোনো ভ্রূণ গঠিত হয় না।** *উদাহরণ:* *Amoeba*, *Paramecium*, শৈবাল (ডায়াটম, *Spirogyra*)।
+- **রাজ্য ৩: ফানজাই।** অধিকাংশই স্থলজ, **মৃতজীবী** বা **পরজীবী**। দেহ এককোষী (ইস্ট) অথবা **মাইসেলিয়াম** (সরু সুতার মতো হাইফির সমষ্টি) দিয়ে গঠিত। নিউক্লিয়াস সুগঠিত। **কোষপ্রাচীর কাইটিন দিয়ে তৈরি।** খাদ্যগ্রহণ **শোষণ** পদ্ধতিতে। **ক্লোরোপ্লাস্ট নেই**, তাই সালোকসংশ্লেষণ করে না। হ্যাপ্লয়েড **স্পোর** দিয়ে বংশবৃদ্ধি; মাইটোসিসে কোষ বিভাজন। *উদাহরণ:* ইস্ট, *Penicillium*, মাশরুম।
+- **রাজ্য ৪: প্লানটি।** প্রধানত **সালোকসংশ্লেষণকারী** প্রকৃতকোষী জীব, দেহে উন্নত টিস্যুতন্ত্র। এদের **ভ্রূণ** সৃষ্টি হয় এবং তা থেকে ডিপ্লয়েড পর্যায় শুরু হয়। প্রধানত স্থলজ, তবে অনেক জলজ প্রজাতিও আছে। আকার, আকৃতি বা শারীরবৃত্তীয় দিক থেকে ভিন্ন দুটি গ্যামেটের মিলনে যৌন জনন ঘটে। *উদাহরণ:* সবুজ উদ্ভিদ, যেমন কাঁঠালগাছ, ধান, ফার্ন।
+- **রাজ্য ৫: অ্যানিমেলিয়া।** প্রকৃতকোষী ও **বহুকোষী**। কোষে **কোষপ্রাচীর ও প্লাস্টিড নেই** (উদ্ভিদকোষের মতো বড় কোষগহ্বরও নেই)। প্লাস্টিড না থাকায় খাদ্য তৈরি করতে পারে না, তাই এরা **পরভোজী**: খাদ্য **গলাধঃকরণ** করে পরিপাক করে। দেহে জটিল টিস্যুতন্ত্র। প্রধানত যৌন জননে বংশবৃদ্ধি: পরিণত ডিপ্লয়েড পুরুষ ও স্ত্রী প্রাণী হ্যাপ্লয়েড গ্যামেট তৈরি করে, আর ভ্রূণ বিকাশের সময় **ভ্রূণীয় স্তর** সৃষ্টি হয়। *উদাহরণ:* **প্রোটোজোয়া ছাড়া** সব অমেরুদণ্ডী ও মেরুদণ্ডী প্রাণী (অ্যামিবার মতো প্রোটোজোয়া প্রোটিস্টা রাজ্যের)।
+
+**সামনে কী?** যত বেশি জানা যাচ্ছে, শ্রেণিবিন্যাসও তত উন্নত হচ্ছে। ২০০৪ সালে অক্সফোর্ড বিশ্ববিদ্যালয়ের **টমাস ক্যাভালিয়ার-স্মিথ** প্রোটিস্টাকে **প্রোটোজোয়া** ও **ক্রোমিস্টা** নামে দুটি রাজ্যে ভাগ করেন এবং মনেরার নাম দেন **ব্যাকটেরিয়া** রাজ্য; এভাবে হয় **ছয়টি রাজ্য**। এ বিষয়ে উপরের শ্রেণিতে আরও জানবে। (আধুনিক জীববিজ্ঞানীরা আরও বলেন, "নীলাভ সবুজ শৈবাল" আসলে ব্যাকটেরিয়া, যাদের এখন সায়ানোব্যাকটেরিয়া বলা হয়; ঠিক এ কারণেই এরা প্রকৃত শৈবালের সাথে নয়, মনেরায় আছে।)
+
+**ভাইরাস কোথায়?** পাঁচ রাজ্যের কোনোটিতেই ভাইরাস নেই, কারণ ভাইরাস কোষ দিয়ে গঠিত নয়।
+## analogy
+জীবের শ্রেণিবিন্যাস যেন ডাকঘরে চিঠি বাছাই: প্রথমে দেশ, তারপর বিভাগ, জেলা, উপজেলা, শেষে বাড়ি। পাঁচটি রাজ্য যেন জীবজগতের পাঁচটি "দেশ"; আর প্রথম বড় প্রশ্ন, "কোষে কি সুগঠিত নিউক্লিয়াস আছে?", যেন দেশের চিঠি আর বিদেশের চিঠি আলাদা করা।
+## definition
+**জীবের শ্রেণিবিন্যাস**: সাদৃশ্য ও বৈসাদৃশ্যের ভিত্তিতে জীবদের বিভিন্ন দল ও উপদলে বিন্যস্ত করার প্রক্রিয়া।
+
+**শ্রেণিবিন্যাসবিদ্যা (ট্যাক্সোনমি)**: জীববিজ্ঞানের যে শাখায় জীবের শ্রেণিবিন্যাস ও তার রীতিনীতি নিয়ে আলোচনা করা হয়।
+
+**পাঁচ রাজ্য পদ্ধতি**: আর. এইচ. হুইটেকার (১৯৬৯) প্রস্তাবিত শ্রেণিবিন্যাস, যেখানে সব কোষীয় জীবকে পাঁচটি রাজ্যে রাখা হয়: মনেরা, প্রোটিস্টা, ফানজাই, প্লানটি ও অ্যানিমেলিয়া। মারগুলিস (১৯৭৪) মনেরাকে সুপার কিংডম প্রোক্যারিওটা আর বাকি চারটিকে সুপার কিংডম ইউক্যারিওটার অন্তর্ভুক্ত করেন।
+## why
+দুই রাজ্য পদ্ধতি টিকল না কেন? কারণ এটি খুব ভিন্ন ধরনের জীবকে জোর করে এক দলে রাখত। ব্যাকটেরিয়ার সুগঠিত নিউক্লিয়াস নেই, যা সব উদ্ভিদ আর প্রাণীর আছে। মাশরুমকে উদ্ভিদ বলা হতো, অথচ এর ক্লোরোফিল নেই, সালোকসংশ্লেষণ করতে পারে না, কোষপ্রাচীরে সেলুলোজ নয় কাইটিন থাকে, আর পচনকারীর মতো খাদ্য শোষণ করে। *Euglena*-র উদ্ভিদের মতো ক্লোরোফিল আছে, আবার প্রাণীর মতো সাঁতার কাটে ও খাবার খায়। হুইটেকারের তিনটি মূল প্রশ্ন এদের পরিষ্কারভাবে আলাদা করে দেয়: **কোষ কেমন?** (আদিকোষী না প্রকৃতকোষী) **কোষ কয়টি?** (এককোষী না বহুকোষী) **খাদ্য পায় কীভাবে?** (সালোকসংশ্লেষণ, শোষণ না গলাধঃকরণ)।
+## terms
+শ্রেণিবিন্যাসবিদ্যা (Taxonomy) | জীবের শ্রেণিবিন্যাস নিয়ে আলোচনাকারী শাখা
+আদিকোষী (prokaryotic) | সুগঠিত নিউক্লিয়াসবিহীন (নিউক্লিয়ার পর্দা নেই) কোষ, যেমন ব্যাকটেরিয়া
+প্রকৃতকোষী (eukaryotic) | নিউক্লিয়ার পর্দায় ঘেরা সুগঠিত নিউক্লিয়াসযুক্ত কোষ
+মনেরা (Monera) | আদিকোষী রাজ্য: ব্যাকটেরিয়া, নীলাভ সবুজ শৈবাল
+প্রোটিস্টা (Protista) | সরল প্রকৃতকোষী জীব, ভ্রূণ হয় না: অ্যামিবা, প্যারামেসিয়াম, ডায়াটম
+ফানজাই (Fungi) | কাইটিনের কোষপ্রাচীর, ক্লোরোফিল নেই, শোষণে খাদ্যগ্রহণ: ইস্ট, মাশরুম
+প্লানটি (Plantae) | সালোকসংশ্লেষণকারী, ভ্রূণ সৃষ্টিকারী প্রকৃতকোষী জীব: সবুজ উদ্ভিদ
+অ্যানিমেলিয়া (Animalia) | কোষপ্রাচীরহীন, বহুকোষী, খাদ্য গলাধঃকরণকারী পরভোজী জীব
+মাইসেলিয়াম (mycelium) | ছত্রাকের সুতার মতো দেহ
+মৃতজীবী (saprophytic) | মৃত জৈব বস্তু থেকে খাদ্য গ্রহণকারী
+পরভোজী (heterotrophic) | খাদ্যের জন্য অন্য জীবের ওপর নির্ভরশীল
+## visual
+কোনো রাজ্যে চাপ দিয়ে তার ছবি আর প্রধান বৈশিষ্ট্য দেখো। তারপর "সাজাও" বেছে প্রতিটি জীবকে তার রাজ্যে রাখো।
+## real
+রাজ্য চেনার বাস্তব মূল্য আছে। চিকিৎসকেরা জানেন, পেনিসিলিনের মতো অ্যান্টিবায়োটিক (প্রথম পাওয়া গিয়েছিল *Penicillium* ছত্রাক থেকে) ব্যাকটেরিয়ার (মনেরা) বিরুদ্ধে কাজ করে, ভাইরাসের বিরুদ্ধে নয়; তাই সর্দি বা ডেঙ্গুতে এগুলো কাজে আসে না। বেকারির পাউরুটির ময়দা ফোলায় যে ইস্ট, আর সাভারে এখন যে মাশরুম চাষ হয়, দুটিই ছত্রাক, উদ্ভিদ নয়: এরা খড় বা কাঠের গুঁড়ায় অন্ধকারেই জন্মায়, কারণ খাদ্য তৈরি করে না, শোষণ করে। কলেরা হয় একটি ব্যাকটেরিয়ার (*Vibrio cholerae*, মনেরা) কারণে, আর ম্যালেরিয়া হয় একটি প্রোটিস্টের (*Plasmodium*) কারণে; তাই এদের চিকিৎসার ওষুধও সম্পূর্ণ আলাদা।
+## example
+প্রশ্ন: একটি জীবের দেহ সরু সুতার মতো, বাসি পাউরুটিতে জন্মায়, ক্লোরোফিল নেই, কোষপ্রাচীরে কাইটিন আছে। এটি কোন রাজ্যের?
+সমাধান: প্রধান বৈশিষ্ট্যগুলো একটি একটি করে মিলাও।
+ধাপ: সুতার মতো দেহ (মাইসেলিয়াম), ক্লোরোফিল নেই, তাই সালোকসংশ্লেষণ করতে পারে না, পাউরুটি থেকে খাদ্য শোষণ করে (মৃতজীবী)।
+ধাপ: কাইটিনের কোষপ্রাচীর ছত্রাকের বৈশিষ্ট্য, উদ্ভিদের নয় (উদ্ভিদের কোষপ্রাচীর সেলুলোজের)।
+উত্তর: রাজ্য ফানজাই (এটি পাউরুটির ছত্রাক, যেমন *Rhizopus* বা *Penicillium*)।
+## example
+প্রশ্ন: চিত্র A-তে নিউক্লিয়ার পর্দাবিহীন একটি কোষ; চিত্র B-তে সুগঠিত নিউক্লিয়াসযুক্ত একটি এককোষী জীব, যা ক্ষণপদ দিয়ে চলে ও খাদ্য গলাধঃকরণ করে। প্রত্যেকটির রাজ্যের নাম বলো।
+সমাধান: প্রথম প্রশ্ন সবসময়: সুগঠিত নিউক্লিয়াস আছে কি?
+ধাপ: A: নিউক্লিয়ার পর্দা নেই, তাই আদিকোষী: রাজ্য **মনেরা** (যেমন ব্যাকটেরিয়া)।
+ধাপ: B: প্রকৃতকোষী, এককোষী, ভ্রূণ হয় না, খাদ্য গলাধঃকরণ করে: রাজ্য **প্রোটিস্টা** (যেমন *Amoeba*)।
+উত্তর: A মনেরা রাজ্যের; B প্রোটিস্টা রাজ্যের।
+## mistakes
+x মাশরুম মাটি থেকে জন্মায় আর নড়ে না, তাই এটি উদ্ভিদ।
+v মাশরুম ছত্রাক: এর ক্লোরোফিল নেই, খাদ্য শোষণ করে, আর কোষপ্রাচীরে কাইটিন থাকে।
+x অ্যামিবা চলাফেরা করে আর খায়, তাই এটি প্রাণী।
+v পাঁচ রাজ্য পদ্ধতিতে অ্যামিবা প্রোটিস্টা: এটি এককোষী এবং ভ্রূণ গঠন করে না। অ্যানিমেলিয়ায় প্রোটোজোয়া ছাড়া সব প্রাণী থাকে।
+x নীলাভ সবুজ শৈবাল উদ্ভিদ রাজ্যের।
+v নীলাভ সবুজ শৈবাল আদিকোষী (নিউক্লিয়ার পর্দা নেই), তাই মনেরা রাজ্যের; এরা আসলে ব্যাকটেরিয়া (সায়ানোব্যাকটেরিয়া)।
+x ভাইরাস মনেরা রাজ্যের।
+v ভাইরাস কোষ নয়, তাই পাঁচ রাজ্যের কোনোটিতেই একে রাখা হয় না।
+## remember
+- নামকরণ করা প্রজাতি: উদ্ভিদ প্রায় ৪ লক্ষ, প্রাণী প্রায় ১৩ লক্ষ; মোট সংখ্যা হতে পারে প্রায় এক কোটি।
+- লিনিয়াস: দুই রাজ্য (উদ্ভিদ, প্রাণী)। হুইটেকার (১৯৬৯): পাঁচ রাজ্য। মারগুলিস (১৯৭৪): দুটি সুপার কিংডম।
+- প্রোক্যারিওটা → মনেরা (নিউক্লিয়ার পর্দা নেই; ব্যাকটেরিয়া, নীলাভ সবুজ শৈবাল)।
+- ইউক্যারিওটা → প্রোটিস্টা (ভ্রূণ হয় না), ফানজাই (কাইটিনের প্রাচীর, শোষণ, ক্লোরোফিল নেই), প্লানটি (সালোকসংশ্লেষণ, ভ্রূণ), অ্যানিমেলিয়া (কোষপ্রাচীর নেই, গলাধঃকরণ, ভ্রূণীয় স্তর)।
+- ক্যাভালিয়ার-স্মিথ (২০০৪): ছয় রাজ্য (প্রোটিস্টা ভেঙে প্রোটোজোয়া ও ক্রোমিস্টা; মনেরার নতুন নাম ব্যাকটেরিয়া)।
+## think
+*Euglena* একটি এককোষী জীব, যার নিউক্লিয়াস আর ক্লোরোপ্লাস্ট দুটোই আছে; আলোতে এটি খাদ্য তৈরি করে, কিন্তু অন্ধকারে পানি থেকে খাদ্য শোষণ করে। লিনিয়াসের দুই রাজ্যে একে রাখা কঠিন কেন, আর পাঁচ রাজ্য পদ্ধতি একে কোথায় রাখে?
+## quiz
+? কোন রাজ্যের জীবের কোষ আদিকোষী?
+* মনেরা
+- প্রোটিস্টা
+- ফানজাই
+- প্লানটি
+= মনেরার (ব্যাকটেরিয়া, নীলাভ সবুজ শৈবাল) নিউক্লিয়ার পর্দা নেই, তাই এদের কোষ আদিকোষী।
+? ছত্রাকের কোষপ্রাচীর তৈরি:
+- সেলুলোজ দিয়ে
+* কাইটিন দিয়ে
+- শুধু প্রোটিন দিয়ে
+- লিগনিন দিয়ে
+= ছত্রাকের কোষপ্রাচীরে কাইটিন, উদ্ভিদের কোষপ্রাচীরে সেলুলোজ থাকে।
+? পাঁচ রাজ্য পদ্ধতি কে, কবে প্রস্তাব করেন?
+- লিনিয়াস, ১৭৫৩
+- মারগুলিস, ১৯৭৪
+* হুইটেকার, ১৯৬৯
+- ক্যাভালিয়ার-স্মিথ, ২০০৪
+= আর. এইচ. হুইটেকার ১৯৬৯ সালে প্রস্তাব করেন; মারগুলিস ১৯৭৪ সালে একে বিস্তারিত রূপ দেন।
+? কোন বৈশিষ্ট্যটি প্রোটিস্টা রাজ্যের?
+- নিউক্লিয়ার পর্দা নেই
+- কাইটিনের কোষপ্রাচীর
+* সুগঠিত নিউক্লিয়াস আছে কিন্তু ভ্রূণ গঠিত হয় না
+- ভ্রূণ বিকাশের সময় ভ্রূণীয় স্তর সৃষ্টি হয়
+= প্রোটিস্টরা প্রকৃতকোষী, কিন্তু ভ্রূণ গঠন করে না।
+
+@@ 1.4
+@visual b1ladder
+@related 1.3 1.5 12.4.2
+== en
+## what
+Organisms are classified through a series of **ranks** (taxa), from the largest, **kingdom**, to the smallest, **species**. The seven main ranks are: **Kingdom → Phylum (Division) → Class → Order → Family → Genus → Species**.
+## simple
+**Seven steps, from wide to narrow.** Classification works like an address that gets more and more exact. "Bangladesh" includes crores of people; "Dhaka division" fewer; "Mirpur" fewer still; "House 12, Road 3" just one family. Taxonomy uses seven main steps, called **ranks** or **taxa** (singular: *taxon*), fixed by the international codes:
+
+- **Kingdom** (রাজ্য)
+- **Phylum** (পর্ব), called **Division** (বিভাগ) for plants
+- **Class** (শ্রেণি)
+- **Order** (বর্গ)
+- **Family** (গোত্র)
+- **Genus** (গণ; plural *genera*)
+- **Species** (প্রজাতি)
+
+A handy memory line: "**K**ing **P**hilip **C**ame **O**ver **F**or **G**ood **S**oup."
+
+**Fewer features at the top, more at the bottom.** Each step down **adds new features** to those of the step above. So:
+- the **higher** the rank, the **fewer** shared features and the **more** organisms it contains (kingdom Animalia holds every animal from earthworm to elephant);
+- the **lower** the rank, the **more** shared features and the **fewer** organisms (species *Homo sapiens* holds only us).
+
+**Nested hierarchy.** Each rank is like a big **set**, and the rank below is a **subset** of it: phylum is a subset of kingdom, class a subset of phylum, order a subset of class, and so on. This arrangement is called a **nested hierarchy**, like boxes inside boxes or the layers of an onion. Because every member of a lower rank automatically has all the features of the higher ranks, those features are usually not repeated at the next step.
+
+**The human being, step by step** (your book's example):
+- **Kingdom: Animalia**: eukaryotic cells, multicellular, heterotrophic, complex tissue systems.
+- **Phylum: Chordata**: has a **notochord** at some stage of life.
+- **Class: Mammalia**: feeds its young on milk; body has hair.
+- **Order: Primates**: hands with five fingers that can grasp; eyesight more developed than the sense of smell.
+- **Family: Hominidae**: similar to chimpanzees, gorillas and orangutans.
+- **Genus: *Homo***: brain largest in proportion to body; walks upright on two legs.
+- **Species: *Homo sapiens***: broad, high forehead; skull bones thinner than in other species of *Homo*; most intelligent.
+
+(Your English textbook writes the order as "Primate"; the correct scientific name of the order is **Primates**.)
+
+**Rice, a plant example** (not in your book; plant classifications differ slightly between books):
+- Kingdom: Plantae · Division: Magnoliophyta (flowering plants) · Class: Liliopsida (monocots) · Order: Poales · Family: Poaceae (grass family) · Genus: *Oryza* · Species: *Oryza sativa*
+
+Usually a classification is written only as the list of ranks and names, without reasons. But as a biology student you should know **why** an organism is placed in each rank.
+## analogy
+Think of a set of nested tiffin boxes, or Russian dolls. The biggest box (kingdom) holds several smaller boxes (phyla), each holding still smaller ones, until the tiniest box (species) holds just one kind of organism. Open the boxes one by one and you narrow down from "all animals" to "only humans".
+## definition
+**Taxon / taxonomic rank**: a defined unit or level used in classifying organisms, such as kingdom, phylum, class, order, family, genus and species.
+
+**Species**: the smallest basic rank of classification; a group of organisms that are very similar in structure and can interbreed naturally to produce fertile offspring.
+
+**Nested hierarchy**: the system of classification in which each higher rank is a set that contains the lower ranks as its subsets (kingdom ⊃ phylum ⊃ class ⊃ order ⊃ family ⊃ genus ⊃ species).
+## why
+Why use so many ranks instead of just kingdoms and species? Because millions of species in a single list would be impossible to handle. The ranks let us zoom in step by step and see **relationships**: humans and tigers share a class (Mammalia) but not an order, so they are more closely related to each other than either is to a frog, which shares only the phylum (Chordata). The closer two organisms are in the ladder, the more features they share, which also reflects how closely related they are in evolution.
+## terms
+Taxon (ট্যাক্সন) | A rank or unit of classification; plural taxa
+Kingdom (রাজ্য) | Largest rank
+Phylum / Division (পর্ব / বিভাগ) | Rank below kingdom; "division" is used for plants
+Class (শ্রেণি) | Rank below phylum, e.g. Mammalia
+Order (বর্গ) | Rank below class, e.g. Primates
+Family (গোত্র) | Rank below order, e.g. Hominidae
+Genus (গণ) | Rank below family, e.g. *Homo*; plural genera
+Species (প্রজাতি) | Smallest basic rank, e.g. *Homo sapiens*
+Notochord (নটোকর্ড) | A flexible rod along the back, present at some stage in all chordates
+Nested hierarchy (নেস্টেড হায়ারার্কি) | Ranks arranged as sets within sets
+## visual
+Choose an organism and step down the ladder from kingdom to species. Watch how the group of organisms sharing each rank gets smaller.
+## real
+When a new species of frog or fish is found in a haor or in the Sundarbans, scientists first decide its kingdom, phylum, class, order, family and genus by comparing its features; only then can it get a proper name. Agricultural officers use family-level knowledge too: rice, wheat, maize and sugarcane all belong to the grass family (Poaceae), so they often share pests and diseases.
+## example
+Q: Which class does the human belong to? Explain.
+Solution: Recall the features used at the class level.
+Step: Humans feed their babies on milk produced by the mammary glands.
+Step: The human body has hair.
+Answer: Humans belong to class **Mammalia**, because mammals feed their young on milk and have hair on their bodies.
+## example
+Q: The tiger is *Panthera tigris* and the lion is *Panthera leo*. Up to which rank do they share their classification? Which has more organisms: the genus *Panthera* or kingdom Animalia?
+Solution: Organisms with the same genus name share every rank above the genus too.
+Step: Both are in genus *Panthera*, so they also share family (Felidae), order (Carnivora), class (Mammalia), phylum (Chordata) and kingdom (Animalia).
+Step: They differ only at the species level (*tigris* vs *leo*).
+> The higher the rank, the more organisms it contains.
+Answer: They share all ranks from kingdom down to genus. Kingdom Animalia contains far more organisms than genus *Panthera*.
+## mistakes
+x The species is the largest rank and the kingdom is the smallest.
+v Kingdom is the largest rank; species is the smallest.
+x A higher rank has more shared features.
+v A higher rank has fewer shared features but more organisms; a lower rank has more shared features but fewer organisms.
+x Family comes before order.
+v The sequence is kingdom, phylum, class, order, family, genus, species: order comes before family.
+## remember
+- Seven ranks: Kingdom → Phylum/Division → Class → Order → Family → Genus → Species.
+- Higher rank: fewer features, more organisms. Lower rank: more features, fewer organisms.
+- Each rank is a subset of the one above: nested hierarchy.
+- Human: Animalia · Chordata · Mammalia · Primates · Hominidae · *Homo* · *Homo sapiens*.
+- "Division" replaces "phylum" for plants.
+## think
+A cat and a tiger share the family Felidae; a cat and a dog share only the order Carnivora. Which pair is more closely related, and how does the classification ladder show it?
+## quiz
+? Which is the correct order of ranks, from largest to smallest?
+- Kingdom, Class, Phylum, Order, Genus, Family, Species
+* Kingdom, Phylum, Class, Order, Family, Genus, Species
+- Kingdom, Phylum, Order, Class, Family, Genus, Species
+- Species, Genus, Family, Order, Class, Phylum, Kingdom
+= Remember "King Philip Came Over For Good Soup".
+? Humans are placed in phylum Chordata because:
+- They feed their young on milk
+* They have a notochord at some stage of life
+- They walk upright
+- They have grasping hands
+= Having a notochord at some stage of life is the feature of Chordata.
+? Moving from kingdom towards species, the number of organisms in each rank:
+* Decreases
+- Increases
+- Stays the same
+- First increases, then decreases
+= Each lower rank adds features, so fewer organisms qualify.
+? Which order does the human belong to?
+- Mammalia
+- Hominidae
+* Primates
+- Chordata
+= Mammalia is the class, Hominidae the family, Chordata the phylum; the order is Primates.
+== bn
+## what
+জীবদের শ্রেণিবিন্যাস করা হয় কয়েকটি **ধাপের** (ট্যাক্সা) মধ্য দিয়ে, সবচেয়ে বড় **রাজ্য** থেকে সবচেয়ে ছোট **প্রজাতি** পর্যন্ত। সাতটি প্রধান ধাপ: **রাজ্য → পর্ব (বিভাগ) → শ্রেণি → বর্গ → গোত্র → গণ → প্রজাতি**।
+## simple
+**সাতটি ধাপ, বড় থেকে ছোট।** শ্রেণিবিন্যাস কাজ করে একটা ঠিকানার মতো, যা ধাপে ধাপে আরও নির্দিষ্ট হয়। "বাংলাদেশ" বললে কোটি কোটি মানুষ; "ঢাকা বিভাগ" বললে কম; "মিরপুর" আরও কম; "বাড়ি ১২, রোড ৩" বললে মাত্র একটি পরিবার। ট্যাক্সোনমিতে আন্তর্জাতিক কোড অনুযায়ী সাতটি প্রধান ধাপ আছে, যাদের বলে **ধাপ** বা **ট্যাক্সা** (একবচনে *ট্যাক্সন*):
+
+- **রাজ্য** (Kingdom)
+- **পর্ব** (Phylum); উদ্ভিদের ক্ষেত্রে বলা হয় **বিভাগ** (Division)
+- **শ্রেণি** (Class)
+- **বর্গ** (Order)
+- **গোত্র** (Family)
+- **গণ** (Genus)
+- **প্রজাতি** (Species)
+
+মনে রাখার একটা সহজ উপায়: "**রা**জার **প**রে **শ্রে**ষ্ঠ **ব**ন্ধু **গো**পাল, **গ**ণেশ, **প্র**দীপ" (রাজ্য, পর্ব, শ্রেণি, বর্গ, গোত্র, গণ, প্রজাতি)।
+
+**ওপরে বৈশিষ্ট্য কম, নিচে বেশি।** প্রতিটি নিচের ধাপে আগের ধাপের বৈশিষ্ট্যের সাথে **নতুন বৈশিষ্ট্য যোগ হয়**। তাই:
+- যত **ওপরের** ধাপ, তার অন্তর্ভুক্ত বৈশিষ্ট্যের সংখ্যা তত **কম** আর জীবের সংখ্যা তত **বেশি** (অ্যানিমেলিয়া রাজ্যে কেঁচো থেকে হাতি পর্যন্ত সব প্রাণী);
+- যত **নিচের** ধাপ, বৈশিষ্ট্যের সংখ্যা তত **বেশি** আর জীবের সংখ্যা তত **কম** (*Homo sapiens* প্রজাতিতে শুধু আমরা)।
+
+**নেস্টেড হায়ারার্কি।** প্রতিটি ধাপ যেন একটা বড় **সেট**, আর তার নিচের ধাপ সেই সেটের **উপসেট**: রাজ্যের উপসেট পর্ব, পর্বের উপসেট শ্রেণি, শ্রেণির উপসেট বর্গ, এভাবে চলে। এই বিন্যাসকে বলে **নেস্টেড হায়ারার্কি**, বাক্সের ভেতরে বাক্স বা পেঁয়াজের খোসার স্তরের মতো। নিচের ধাপের প্রতিটি সদস্যের মধ্যে ওপরের ধাপের সব বৈশিষ্ট্য এমনিতেই থাকে, তাই পুনরাবৃত্তি এড়াতে সেগুলো পরের ধাপে আর লেখা হয় না।
+
+**ধাপে ধাপে মানুষ** (তোমার বইয়ের উদাহরণ):
+- **রাজ্য: Animalia**: সুকেন্দ্রিক (প্রকৃত) কোষ, বহুকোষী, পরভোজী, জটিল টিস্যুতন্ত্র আছে।
+- **পর্ব: Chordata**: জীবনের কোনো এক পর্যায়ে **নটোকর্ড** থাকে।
+- **শ্রেণি: Mammalia**: বাচ্চাকে দুধ খাওয়ায়; দেহে লোম বা চুল আছে।
+- **বর্গ: Primates**: আঁকড়ে ধরার উপযোগী পাঁচ আঙুলের হাত; ঘ্রাণশক্তির চেয়ে দৃষ্টিশক্তি বেশি উন্নত।
+- **গোত্র: Hominidae**: শিম্পাঞ্জি, গরিলা, ওরাংওটাং প্রভৃতির সাথে সাদৃশ্য আছে।
+- **গণ: *Homo***: দেহের অনুপাতে মস্তিষ্ক সবচেয়ে বড়; খাড়াভাবে দুই পায়ে হাঁটতে পারে।
+- **প্রজাতি: *Homo sapiens***: চওড়া ও উঁচু কপাল; খুলির হাড় *Homo* গণের অন্য প্রজাতির তুলনায় পাতলা; সবচেয়ে বুদ্ধিমান।
+
+(ইংরেজি পাঠ্যবইয়ে বর্গটির নাম "Primate" লেখা আছে; বর্গটির সঠিক বৈজ্ঞানিক নাম **Primates**।)
+
+**ধান, একটি উদ্ভিদের উদাহরণ** (বইয়ে নেই; উদ্ভিদের শ্রেণিবিন্যাসে বিভিন্ন বইয়ে নামে সামান্য পার্থক্য থাকতে পারে):
+- রাজ্য: Plantae · বিভাগ: Magnoliophyta (সপুষ্পক উদ্ভিদ) · শ্রেণি: Liliopsida (একবীজপত্রী) · বর্গ: Poales · গোত্র: Poaceae (ঘাস গোত্র) · গণ: *Oryza* · প্রজাতি: *Oryza sativa*
+
+সাধারণত কোনো প্রজাতির শ্রেণিবিন্যাস লেখার প্রচলিত রীতিতে শুধু ধাপ আর নাম লেখা হয়, কারণগুলো আলাদা করে লেখা হয় না। কিন্তু জীববিজ্ঞানের শিক্ষার্থী হিসেবে তোমাকে জানতে হবে প্রতিটি ধাপে জীবটিকে **কেন** রাখা হলো।
+## analogy
+একটার ভেতরে আরেকটা রাখা টিফিন বাটির সেট ভাবো। সবচেয়ে বড় বাটি (রাজ্য) এর ভেতরে কয়েকটি ছোট বাটি (পর্ব), তাদের ভেতরে আরও ছোট, এভাবে সবচেয়ে ছোট বাটিতে (প্রজাতি) থাকে মাত্র এক ধরনের জীব। একটা একটা করে বাটি খুললে "সব প্রাণী" থেকে নেমে আসবে "শুধু মানুষ"-এ।
+## definition
+**ট্যাক্সন বা শ্রেণিবিন্যাসের ধাপ**: জীবের শ্রেণিবিন্যাসে ব্যবহৃত নির্দিষ্ট একক বা স্তর, যেমন রাজ্য, পর্ব, শ্রেণি, বর্গ, গোত্র, গণ ও প্রজাতি।
+
+**প্রজাতি**: শ্রেণিবিন্যাসের সবচেয়ে ছোট মৌলিক ধাপ; গঠনে খুব সদৃশ এমন জীবের দল, যারা প্রাকৃতিকভাবে নিজেদের মধ্যে প্রজনন করে উর্বর সন্তান জন্ম দিতে পারে।
+
+**নেস্টেড হায়ারার্কি**: শ্রেণিবিন্যাসের যে পদ্ধতিতে প্রতিটি ওপরের ধাপ একটি সেট, যার উপসেট হিসেবে নিচের ধাপগুলো থাকে (রাজ্য ⊃ পর্ব ⊃ শ্রেণি ⊃ বর্গ ⊃ গোত্র ⊃ গণ ⊃ প্রজাতি)।
+## why
+শুধু রাজ্য আর প্রজাতি না রেখে এতগুলো ধাপ কেন? কারণ লক্ষ লক্ষ প্রজাতির একটিমাত্র তালিকা সামলানো অসম্ভব। ধাপগুলো দিয়ে আমরা ধীরে ধীরে কাছে যেতে পারি এবং **সম্পর্ক** দেখতে পারি: মানুষ আর বাঘ একই শ্রেণিতে (Mammalia) কিন্তু ভিন্ন বর্গে; তাই এরা একে অপরের যত নিকটাত্মীয়, ব্যাঙের সাথে তত নয়, কারণ ব্যাঙের সাথে মিল শুধু পর্বে (Chordata)। ধাপের সিঁড়িতে দুটি জীব যত কাছাকাছি, তাদের মিল তত বেশি, আর বিবর্তনের দিক থেকেও তারা তত ঘনিষ্ঠ।
+## terms
+ট্যাক্সন (taxon) | শ্রেণিবিন্যাসের একটি ধাপ বা একক; বহুবচনে ট্যাক্সা
+রাজ্য (Kingdom) | সবচেয়ে বড় ধাপ
+পর্ব / বিভাগ (Phylum / Division) | রাজ্যের নিচের ধাপ; উদ্ভিদের ক্ষেত্রে "বিভাগ"
+শ্রেণি (Class) | পর্বের নিচের ধাপ, যেমন Mammalia
+বর্গ (Order) | শ্রেণির নিচের ধাপ, যেমন Primates
+গোত্র (Family) | বর্গের নিচের ধাপ, যেমন Hominidae
+গণ (Genus) | গোত্রের নিচের ধাপ, যেমন *Homo*
+প্রজাতি (Species) | সবচেয়ে ছোট মৌলিক ধাপ, যেমন *Homo sapiens*
+নটোকর্ড (notochord) | পিঠ বরাবর নমনীয় দণ্ড, সব কর্ডাটা প্রাণীর জীবনের কোনো এক পর্যায়ে থাকে
+নেস্টেড হায়ারার্কি | সেটের ভেতরে সেটের মতো সাজানো ধাপসমূহ
+## visual
+একটি জীব বেছে নাও আর রাজ্য থেকে প্রজাতি পর্যন্ত সিঁড়ি বেয়ে নামো। দেখো প্রতিটি ধাপে একই দলে থাকা জীবের সংখ্যা কীভাবে কমে আসে।
+## real
+হাওর বা সুন্দরবনে নতুন কোনো ব্যাঙ বা মাছের প্রজাতি পাওয়া গেলে বিজ্ঞানীরা আগে বৈশিষ্ট্য মিলিয়ে ঠিক করেন এর রাজ্য, পর্ব, শ্রেণি, বর্গ, গোত্র ও গণ; তারপরই এর সঠিক নাম দেওয়া যায়। কৃষি কর্মকর্তারাও গোত্রের জ্ঞান কাজে লাগান: ধান, গম, ভুট্টা আর আখ সবই ঘাস গোত্রের (Poaceae), তাই এদের অনেক পোকা আর রোগ একই রকম।
+## example
+প্রশ্ন: মানুষ কোন শ্রেণির প্রাণী? ব্যাখ্যা করো।
+সমাধান: শ্রেণি পর্যায়ে কোন বৈশিষ্ট্য দেখা হয় তা মনে করো।
+ধাপ: মানুষ স্তনগ্রন্থির দুধ খাইয়ে সন্তান লালন করে।
+ধাপ: মানুষের দেহে লোম বা চুল আছে।
+উত্তর: মানুষ **Mammalia** (স্তন্যপায়ী) শ্রেণির, কারণ স্তন্যপায়ীরা বাচ্চাকে দুধ খাওয়ায় এবং দেহে লোম থাকে।
+## example
+প্রশ্ন: বাঘের বৈজ্ঞানিক নাম *Panthera tigris* আর সিংহের *Panthera leo*। এরা কোন ধাপ পর্যন্ত একই শ্রেণিবিন্যাসে আছে? কোনটিতে জীবের সংখ্যা বেশি: *Panthera* গণে নাকি Animalia রাজ্যে?
+সমাধান: যাদের গণের নাম একই, তারা গণের ওপরের সব ধাপেও একই।
+ধাপ: দুটিই *Panthera* গণের, তাই গোত্র (Felidae), বর্গ (Carnivora), শ্রেণি (Mammalia), পর্ব (Chordata) আর রাজ্যও (Animalia) একই।
+ধাপ: পার্থক্য শুধু প্রজাতি পর্যায়ে (*tigris* বনাম *leo*)।
+> যত ওপরের ধাপ, তাতে জীবের সংখ্যা তত বেশি।
+উত্তর: রাজ্য থেকে গণ পর্যন্ত সব ধাপে এরা একই। *Panthera* গণের চেয়ে Animalia রাজ্যে জীবের সংখ্যা অনেক বেশি।
+## mistakes
+x প্রজাতি সবচেয়ে বড় ধাপ আর রাজ্য সবচেয়ে ছোট।
+v রাজ্য সবচেয়ে বড় ধাপ; প্রজাতি সবচেয়ে ছোট।
+x ওপরের ধাপে সাধারণ বৈশিষ্ট্য বেশি থাকে।
+v ওপরের ধাপে বৈশিষ্ট্য কম কিন্তু জীব বেশি; নিচের ধাপে বৈশিষ্ট্য বেশি কিন্তু জীব কম।
+x গোত্র বর্গের আগে আসে।
+v ক্রম হলো রাজ্য, পর্ব, শ্রেণি, বর্গ, গোত্র, গণ, প্রজাতি: বর্গ আগে, তারপর গোত্র।
+## remember
+- সাতটি ধাপ: রাজ্য → পর্ব/বিভাগ → শ্রেণি → বর্গ → গোত্র → গণ → প্রজাতি।
+- ওপরের ধাপ: বৈশিষ্ট্য কম, জীব বেশি। নিচের ধাপ: বৈশিষ্ট্য বেশি, জীব কম।
+- প্রতিটি ধাপ ওপরের ধাপের উপসেট: নেস্টেড হায়ারার্কি।
+- মানুষ: Animalia · Chordata · Mammalia · Primates · Hominidae · *Homo* · *Homo sapiens*।
+- উদ্ভিদের ক্ষেত্রে "পর্বের" বদলে "বিভাগ"।
+## think
+বিড়াল আর বাঘ একই গোত্রের (Felidae); বিড়াল আর কুকুরের মিল শুধু বর্গে (Carnivora)। কোন জোড়া বেশি ঘনিষ্ঠ আত্মীয়, আর শ্রেণিবিন্যাসের সিঁড়ি তা কীভাবে দেখায়?
+## quiz
+? বড় থেকে ছোট ধাপগুলোর সঠিক ক্রম কোনটি?
+- রাজ্য, শ্রেণি, পর্ব, বর্গ, গণ, গোত্র, প্রজাতি
+* রাজ্য, পর্ব, শ্রেণি, বর্গ, গোত্র, গণ, প্রজাতি
+- রাজ্য, পর্ব, বর্গ, শ্রেণি, গোত্র, গণ, প্রজাতি
+- প্রজাতি, গণ, গোত্র, বর্গ, শ্রেণি, পর্ব, রাজ্য
+= মনে রাখো: "রাজার পরে শ্রেষ্ঠ বন্ধু গোপাল, গণেশ, প্রদীপ"।
+? মানুষকে Chordata পর্বে রাখা হয়েছে কারণ:
+- বাচ্চাকে দুধ খাওয়ায়
+* জীবনের কোনো এক পর্যায়ে নটোকর্ড থাকে
+- খাড়া হয়ে হাঁটে
+- আঁকড়ে ধরার মতো হাত আছে
+= জীবনের কোনো এক পর্যায়ে নটোকর্ড থাকা Chordata পর্বের বৈশিষ্ট্য।
+? রাজ্য থেকে প্রজাতির দিকে যেতে থাকলে প্রতিটি ধাপে জীবের সংখ্যা:
+* কমে
+- বাড়ে
+- একই থাকে
+- প্রথমে বাড়ে, পরে কমে
+= প্রতিটি নিচের ধাপে নতুন বৈশিষ্ট্য যোগ হয়, তাই কম জীব তাতে পড়ে।
+? মানুষ কোন বর্গের অন্তর্ভুক্ত?
+- Mammalia
+- Hominidae
+* Primates
+- Chordata
+= Mammalia শ্রেণি, Hominidae গোত্র, Chordata পর্ব; বর্গ হলো Primates।
+
+@@ 1.5
+@visual b1name
+@related 1.4 1.3 1.2
+== en
+## what
+**Binomial nomenclature** is the system of giving every organism a scientific name made of two parts: the **genus** name followed by the **species** name, e.g. rice is *Oryza sativa* and humans are *Homo sapiens*.
+## simple
+**One organism, many common names.** The fish we call *ilish* in Bangla is "hilsa" in English and has yet other names in other languages and regions. The same word can even mean different things in different places. If a scientist in Japan and one in Bangladesh want to talk about exactly the same organism, common names are confusing. So every organism is given one **scientific name** that is the same all over the world.
+
+**Two parts, like your own name.** A scientific name has two words, which is why it is called **bi-nomial** ("two names"):
+- the **first word** is the **genus** (গণ) name, a bit like a family name shared by close relatives;
+- the **second word** is the **species** name (the specific epithet), which identifies this particular species within the genus.
+
+For example, potato is *Solanum tuberosum*: *Solanum* is the genus and *tuberosum* the species. The tiger *Panthera tigris* and the lion *Panthera leo* share the genus *Panthera* because they are close relatives.
+
+**Who started it?** The Swedish naturalist **Carolus Linnaeus** laid the foundation of this system. In **1753** his book *Species Plantarum* used two-part names consistently for plants, and he defined the terms genus and species and used the ranks class, order, genus and species. This simple idea was a unique step in the history of biology, and so Linnaeus is often called the father of taxonomy.
+
+**International rules.** Plant names follow the **International Code of Botanical Nomenclature (ICBN)** and animal names follow the **International Code of Zoological Nomenclature (ICZN)**. (Since 2011 the botanical code has been called the International Code of Nomenclature for algae, fungi, and plants, ICN.) The main rules are:
+- **Latin.** Names are in Latin, or written in Latin form. Example: a frog found only in Dhaka was described by young Bangladeshi zoologist Sajid Ali Howlader as *Zakerana dhaka*; the genus *Zakerana* honours **Kazi Zaker Husain**, founder of the Zoology Department of Dhaka University.
+- **Two parts, genus first.** E.g. *Labeo rohita* (rui fish): *Labeo* is the genus, *rohita* the species.
+- **Unique.** The same name cannot be used for two different organisms.
+- **Capitals.** The genus starts with a **capital letter**; the species name is written entirely in **small letters**. E.g. onion *Allium cepa*, lion *Panthera leo*.
+- **Italics in print.** Printed scientific names are always in *italics*: rice *Oryza sativa*, catla fish *Catla catla*.
+- **Underline when handwritten.** In handwriting (in your exam script!), underline the genus and the species **separately**: O̲r̲y̲z̲a̲ s̲a̲t̲i̲v̲a̲, C̲a̲t̲l̲a̲ c̲a̲t̲l̲a̲.
+- **Priority.** If several scientists name the same organism, the **earliest** validly published name is accepted (law of priority).
+- **Author's name.** The name of the scientist who first named it may be added in short form after the binomial, with the year: *Homo sapiens* L., 1758; *Oryza sativa* L., 1753 (L. = Linnaeus). In daily use this part is often left out.
+
+**Binomial names from your book:**
+- Rice: *Oryza sativa* · Jute: *Corchorus capsularis* · Mango: *Mangifera indica* · Jackfruit: *Artocarpus heterophyllus* · Water lily (shapla): *Nymphaea nouchali* · China rose (joba): *Hibiscus rosa-sinensis*
+- Cholera bacterium: *Vibrio cholerae* · Malaria parasite: *Plasmodium vivax*
+- Cockroach: *Periplaneta americana* · Honey bee: *Apis indica* · Hilsa: *Tenualosa ilisha* · Asian toad: *Duttaphrynus melanostictus* (earlier *Bufo melanostictus*) · Oriental magpie-robin (doyel): *Copsychus saularis* · Tiger: *Panthera tigris* · Human: *Homo sapiens*
+
+(Names can change as scientists learn more: the toad was moved from *Bufo* to *Duttaphrynus*, and hilsa was once called *Hilsa ilisha*. Many scientists today treat the Asian honey bee as *Apis cerana*, with *indica* as one of its subspecies; your book uses *Apis indica*.)
+
+Notice the hyphen in *rosa-sinensis*: it is still one species word, written in small letters.
+## analogy
+A scientific name works like the name on your school ID: "Rahman Tanvir" would be written with the family name first. Everyone in the Rahman family shares the first word (the genus), but only you have "Tanvir" with it. Two different families may both have a "Tanvir", just as two genera may share a species word, but the full two-word name is unique.
+## definition
+**Binomial nomenclature**: the internationally accepted system of naming organisms in which each scientific name consists of two parts, the first being the genus name and the second the species name, written according to the rules of the international codes (ICBN/ICN for plants, ICZN for animals).
+
+**Scientific name**: the unique, internationally accepted two-part Latin name of an organism, e.g. *Homo sapiens*.
+## why
+Why is binomial nomenclature necessary? Common names change from language to language and region to region, and one common name may refer to several organisms. A single Latin name, governed by fixed international rules, lets scientists everywhere identify an organism **without any confusion**. The genus part also tells you something useful: organisms with the same genus name are close relatives. And because Latin is no longer anyone's everyday language, its words do not change their meaning over time.
+## terms
+Binomial nomenclature (দ্বিপদ নামকরণ) | Two-part scientific naming system: genus + species
+Genus name (গণ নাম) | First part of a scientific name; starts with a capital letter
+Species name (প্রজাতিক নাম) | Second part; all small letters
+ICBN / ICN | International code for naming plants (and algae, fungi)
+ICZN | International code for naming animals
+Law of priority (অগ্রাধিকার আইন) | The earliest valid name is the accepted one
+*Species Plantarum* | Linnaeus's 1753 book that founded binomial naming of plants
+## visual
+Pick an organism to see its name in print and in handwriting, with each part explained. Then play "Spot the correct name" and find which rule each wrong version breaks.
+## real
+When the Department of Fisheries or the Bangladesh Forest Department writes reports on hilsa, Royal Bengal tigers or Sundarbans plants, they use scientific names so that scientists worldwide know exactly which species is meant. Medicine and food packets list organisms such as *Lactobacillus* in yoghurt by their scientific names. In your SSC exam, writing O̲r̲y̲z̲a̲ s̲a̲t̲i̲v̲a̲ with both parts underlined is the correct handwritten form.
+## example
+Q: A student wrote the scientific name of the mango as "Mangifera Indica" in her exam script. Find the mistakes and write it correctly.
+Solution: Check each rule of writing.
+Step: The genus starts with a capital letter: "Mangifera" is fine.
+Step: The species name must be entirely in small letters: "Indica" is wrong; it should be "indica".
+Step: In handwriting, the genus and the species must each be underlined separately.
+Answer: Correct form in handwriting: M̲a̲n̲g̲i̲f̲e̲r̲a̲ i̲n̲d̲i̲c̲a̲ (in print: *Mangifera indica*).
+## example
+Q: In *Homo sapiens* L., 1758, what does each part mean?
+Solution: Read the name from left to right.
+Step: *Homo* is the genus name (capital H); *sapiens* is the species name (small s). Both are in italics because the name is printed.
+Step: "L." is the short form of Linnaeus, the scientist who named it; 1758 is the year the name was published.
+Answer: Genus *Homo* + species *sapiens*, named by Linnaeus in 1758.
+## mistakes
+x The species name also starts with a capital letter: Oryza Sativa.
+v Only the genus starts with a capital: *Oryza sativa*.
+x In handwriting, underline the whole name with one continuous line.
+v Underline the genus and the species separately.
+x The species name comes first, then the genus.
+v The genus always comes first, followed by the species: *Panthera tigris*.
+x Scientific names are written in English so that everyone can read them.
+v Scientific names are in Latin (or Latinised form), and that is why they are the same worldwide.
+## remember
+- Scientific name = Genus + species; introduced by Carolus Linnaeus (*Species Plantarum*, 1753).
+- Genus: capital first letter. Species: all small letters.
+- Printed: italics. Handwritten: underline each part separately.
+- Language: Latin. Each name is unique. Earliest valid name wins (priority).
+- Plants: ICBN (now ICN); animals: ICZN.
+- Rice *Oryza sativa*, cockroach *Periplaneta americana*, honey bee *Apis indica*, hilsa *Tenualosa ilisha*, tiger *Panthera tigris*, human *Homo sapiens*.
+## think
+The same fish is called *ilish* in Bangla, "hilsa" in English and *palla* in Sindh, Pakistan, while a word like "kakra" can mean different animals in different districts. How does a scientific name remove this confusion when an international team studies the fish of the Bay of Bengal?
+## quiz
+? Which of these is correctly written in print?
+- oryza sativa
+- Oryza Sativa
+* *Oryza sativa*
+- Sativa oryza
+= Genus capitalised, species in small letters, both in italics, genus first.
+? Binomial nomenclature was introduced by:
+- R. H. Whittaker
+* Carolus Linnaeus
+- Lynn Margulis
+- Thomas Cavalier-Smith
+= Linnaeus laid the foundation in *Species Plantarum* (1753).
+? In *Tenualosa ilisha*, "*Tenualosa*" is the:
+* Genus name
+- Species name
+- Family name
+- Name of the scientist
+= The first part of a binomial is always the genus.
+? When a scientific name is handwritten, it should be:
+- Written in capital letters
+- Put inside quotation marks
+* Underlined, genus and species separately
+- Written in italics only
+= You cannot write italics by hand, so each part is underlined separately.
+== bn
+## what
+**দ্বিপদ নামকরণ** হলো প্রতিটি জীবকে দুই অংশের একটি বৈজ্ঞানিক নাম দেওয়ার পদ্ধতি: প্রথমে **গণের** নাম, তারপর **প্রজাতির** নাম; যেমন ধান *Oryza sativa*, মানুষ *Homo sapiens*।
+## simple
+**একই জীবের অনেক নাম।** যে মাছকে আমরা বাংলায় ইলিশ বলি, ইংরেজিতে তা "hilsa", আর অন্য ভাষা ও অঞ্চলে এর আরও নানা নাম। আবার একই শব্দ ভিন্ন জায়গায় ভিন্ন জিনিস বোঝাতে পারে। জাপানের একজন আর বাংলাদেশের একজন বিজ্ঞানী যদি ঠিক একই জীব নিয়ে কথা বলতে চান, স্থানীয় নাম তখন বিভ্রান্তি তৈরি করে। তাই প্রতিটি জীবকে এমন একটি **বৈজ্ঞানিক নাম** দেওয়া হয়, যা সারা পৃথিবীতে একই।
+
+**দুই অংশ, তোমার নিজের নামের মতো।** বৈজ্ঞানিক নামে দুটি শব্দ বা পদ থাকে, তাই একে বলে **দ্বিপদ** নাম:
+- **প্রথম পদ** হলো **গণ** নাম, অনেকটা পারিবারিক নামের মতো, যা নিকটাত্মীয়দের মধ্যে একই;
+- **দ্বিতীয় পদ** হলো **প্রজাতিক** নাম, যা গণের মধ্যে নির্দিষ্ট এই প্রজাতিটিকে চিনিয়ে দেয়।
+
+যেমন গোল আলুর বৈজ্ঞানিক নাম *Solanum tuberosum*: *Solanum* গণ নাম, *tuberosum* প্রজাতিক নাম। বাঘ *Panthera tigris* আর সিংহ *Panthera leo* একই গণ *Panthera*-র, কারণ এরা নিকটাত্মীয়।
+
+**কে শুরু করলেন?** সুইডিশ প্রকৃতিবিদ **ক্যারোলাস লিনিয়াস** এই পদ্ধতির ভিত্তি গড়েন। **১৭৫৩** সালে তাঁর *Species Plantarum* বইয়ে তিনি উদ্ভিদের জন্য ধারাবাহিকভাবে দুই পদের নাম ব্যবহার করেন, গণ ও প্রজাতির সংজ্ঞা দেন, এবং শ্রেণি, বর্গ, গণ ও প্রজাতি ধাপগুলো ব্যবহার করেন। এই সহজ ধারণাটি জীববিজ্ঞানের ইতিহাসে এক অনন্য পদক্ষেপ; তাই লিনিয়াসকে প্রায়ই শ্রেণিবিন্যাসবিদ্যার জনক বলা হয়।
+
+**আন্তর্জাতিক নিয়ম।** উদ্ভিদের নাম হয় **International Code of Botanical Nomenclature (ICBN)** অনুসারে, আর প্রাণীর নাম **International Code of Zoological Nomenclature (ICZN)** অনুসারে। (২০১১ সাল থেকে উদ্ভিদের কোডটির নাম International Code of Nomenclature for algae, fungi, and plants, সংক্ষেপে ICN।) প্রধান নিয়মগুলো:
+- **ল্যাটিন ভাষা।** নাম হবে ল্যাটিন ভাষায় বা ল্যাটিনের মতো করে। যেমন: শুধু ঢাকায় পাওয়া যায় এমন একটি ব্যাঙের বর্ণনা দিয়েছেন তরুণ প্রাণিবিজ্ঞানী সাজিদ আলী হাওলাদার; এর নাম *Zakerana dhaka*। ঢাকা বিশ্ববিদ্যালয়ের প্রাণিবিদ্যা বিভাগের প্রতিষ্ঠাতা **কাজী জাকের হোসেনের** প্রতি সম্মান জানিয়ে গণের নাম রাখা হয়েছে *Zakerana*।
+- **দুই পদ, গণ আগে।** যেমন *Labeo rohita* (রুই মাছ): *Labeo* গণ, *rohita* প্রজাতিক পদ।
+- **অনন্য।** একই নাম দুটি ভিন্ন জীবের জন্য ব্যবহার করা যায় না।
+- **বড় হাতের অক্ষর।** গণ নামের প্রথম অক্ষর **বড় হাতের** (capital); প্রজাতিক নাম পুরোটা **ছোট হাতের** অক্ষরে। যেমন পেঁয়াজ *Allium cepa*, সিংহ *Panthera leo*।
+- **ছাপায় ইটালিক।** মুদ্রণের সময় বৈজ্ঞানিক নাম সবসময় *ইটালিক* (বাঁকা) অক্ষরে: ধান *Oryza sativa*, কাতলা মাছ *Catla catla*।
+- **হাতে লিখলে নিচে দাগ।** হাতে লেখার সময় (তোমার পরীক্ষার খাতায়!) গণ ও প্রজাতিক নামের নিচে **আলাদা আলাদা** দাগ দিতে হবে: O̲r̲y̲z̲a̲ s̲a̲t̲i̲v̲a̲, C̲a̲t̲l̲a̲ c̲a̲t̲l̲a̲।
+- **অগ্রাধিকার।** কয়েকজন বিজ্ঞানী একই জীবের ভিন্ন ভিন্ন নাম দিলে, অগ্রাধিকার আইন অনুসারে **প্রথম** বৈধভাবে প্রকাশিত নামটি গৃহীত হবে।
+- **নামদাতার নাম।** যিনি প্রথম নাম দিয়েছেন, তাঁর নাম সংক্ষেপে প্রকাশের সালসহ বৈজ্ঞানিক নামের শেষে যুক্ত করা যায়: *Homo sapiens* L., 1758; *Oryza sativa* L., 1753 (L. = লিনিয়াস)। দৈনন্দিন ব্যবহারে এটুকু প্রায়ই লেখা হয় না।
+
+**বইয়ের কয়েকটি জীবের দ্বিপদ নাম:**
+- ধান: *Oryza sativa* · পাট: *Corchorus capsularis* · আম: *Mangifera indica* · কাঁঠাল: *Artocarpus heterophyllus* · শাপলা: *Nymphaea nouchali* · জবা: *Hibiscus rosa-sinensis*
+- কলেরা জীবাণু: *Vibrio cholerae* · ম্যালেরিয়া জীবাণু: *Plasmodium vivax*
+- আরশোলা (তেলাপোকা): *Periplaneta americana* · মৌমাছি: *Apis indica* · ইলিশ: *Tenualosa ilisha* · কুনো ব্যাঙ: *Duttaphrynus melanostictus* (আগের নাম *Bufo melanostictus*) · দোয়েল: *Copsychus saularis* · রয়েল বেঙ্গল টাইগার: *Panthera tigris* · মানুষ: *Homo sapiens*
+
+(বিজ্ঞানীরা নতুন তথ্য পেলে নাম বদলাতেও পারে: কুনো ব্যাঙকে *Bufo* থেকে *Duttaphrynus* গণে সরানো হয়েছে, আর ইলিশের আগের নাম ছিল *Hilsa ilisha*। এখন অনেক বিজ্ঞানী এশীয় মৌমাছিকে *Apis cerana* ধরেন, আর *indica*-কে এর একটি উপপ্রজাতি; তোমার বইয়ে *Apis indica* লেখা আছে।)
+
+*rosa-sinensis*-এর হাইফেনটি খেয়াল করো: এটি তবুও একটিই প্রজাতিক পদ, ছোট হাতের অক্ষরে লেখা।
+## analogy
+বৈজ্ঞানিক নাম যেন স্কুলের আইডি কার্ডে পারিবারিক নাম আগে লেখা কোনো নাম: "Rahman Tanvir"। রহমান পরিবারের সবার প্রথম শব্দ একই (গণ), কিন্তু তার সাথে "Tanvir" শুধু তোমার। দুটি ভিন্ন পরিবারে "Tanvir" থাকতে পারে, যেমন দুটি গণে একই প্রজাতিক শব্দ থাকতে পারে, কিন্তু পুরো দুই শব্দের নামটি অনন্য।
+## definition
+**দ্বিপদ নামকরণ**: জীবের নামকরণের আন্তর্জাতিকভাবে স্বীকৃত পদ্ধতি, যেখানে প্রতিটি বৈজ্ঞানিক নাম দুটি অংশ নিয়ে গঠিত: প্রথম অংশ গণ নাম, দ্বিতীয় অংশ প্রজাতিক নাম; এবং নামগুলো আন্তর্জাতিক কোডের (উদ্ভিদের জন্য ICBN/ICN, প্রাণীর জন্য ICZN) নিয়ম মেনে লেখা হয়।
+
+**বৈজ্ঞানিক নাম**: কোনো জীবের অনন্য, আন্তর্জাতিকভাবে স্বীকৃত, দুই পদের ল্যাটিন নাম, যেমন *Homo sapiens*।
+## why
+দ্বিপদ নামকরণ কেন দরকার? স্থানীয় নাম ভাষা আর অঞ্চলভেদে বদলায়, আবার একটি স্থানীয় নাম একাধিক জীবকে বোঝাতে পারে। নির্দিষ্ট আন্তর্জাতিক নিয়মে বাঁধা একটিমাত্র ল্যাটিন নাম থাকলে সব দেশের বিজ্ঞানী **কোনো বিভ্রান্তি ছাড়াই** জীবটিকে চিনতে পারেন। গণ অংশটিও কাজের তথ্য দেয়: যাদের গণ নাম একই, তারা নিকটাত্মীয়। আর ল্যাটিন এখন কারও দৈনন্দিন ভাষা নয় বলে এর শব্দের অর্থ সময়ের সাথে বদলায় না।
+## terms
+দ্বিপদ নামকরণ (binomial nomenclature) | দুই পদের বৈজ্ঞানিক নামকরণ পদ্ধতি: গণ + প্রজাতি
+গণ নাম (genus name) | বৈজ্ঞানিক নামের প্রথম পদ; বড় হাতের অক্ষরে শুরু
+প্রজাতিক নাম (species name) | দ্বিতীয় পদ; পুরোটা ছোট হাতের অক্ষরে
+ICBN / ICN | উদ্ভিদের (এবং শৈবাল, ছত্রাকের) নামকরণের আন্তর্জাতিক কোড
+ICZN | প্রাণীর নামকরণের আন্তর্জাতিক কোড
+অগ্রাধিকার আইন (law of priority) | প্রথম বৈধভাবে প্রকাশিত নামটিই গৃহীত হয়
+*Species Plantarum* | লিনিয়াসের ১৭৫৩ সালের বই, যা উদ্ভিদের দ্বিপদ নামকরণের সূচনা করে
+## visual
+একটি জীব বেছে নিয়ে দেখো এর নাম ছাপায় আর হাতের লেখায় কেমন হয়, প্রতিটি অংশের ব্যাখ্যাসহ। তারপর "সঠিক নামটি খোঁজো" খেলো আর দেখো প্রতিটি ভুল নাম কোন নিয়ম ভেঙেছে।
+## real
+মৎস্য অধিদপ্তর বা বন অধিদপ্তর যখন ইলিশ, রয়েল বেঙ্গল টাইগার বা সুন্দরবনের উদ্ভিদ নিয়ে প্রতিবেদন লেখে, তখন বৈজ্ঞানিক নাম ব্যবহার করে, যাতে সারা বিশ্বের বিজ্ঞানীরা ঠিক বুঝতে পারেন কোন প্রজাতির কথা বলা হচ্ছে। দইয়ের প্যাকেটে *Lactobacillus*-এর মতো অণুজীবের নাম বৈজ্ঞানিক নামেই লেখা থাকে। আর এসএসসি পরীক্ষায় হাতে লিখলে O̲r̲y̲z̲a̲ s̲a̲t̲i̲v̲a̲, দুই অংশের নিচে আলাদা দাগ, এটিই সঠিক রূপ।
+## example
+প্রশ্ন: একজন শিক্ষার্থী পরীক্ষার খাতায় আমের বৈজ্ঞানিক নাম লিখেছে "Mangifera Indica"। ভুলগুলো খুঁজে সঠিকভাবে লেখো।
+সমাধান: লেখার প্রতিটি নিয়ম মিলিয়ে দেখো।
+ধাপ: গণ নাম বড় হাতের অক্ষরে শুরু: "Mangifera" ঠিক আছে।
+ধাপ: প্রজাতিক নাম পুরোটা ছোট হাতের অক্ষরে হতে হবে: "Indica" ভুল; হবে "indica"।
+ধাপ: হাতে লেখায় গণ ও প্রজাতিক নামের নিচে আলাদা আলাদা দাগ দিতে হবে।
+উত্তর: হাতে লেখার সঠিক রূপ: M̲a̲n̲g̲i̲f̲e̲r̲a̲ i̲n̲d̲i̲c̲a̲ (ছাপায়: *Mangifera indica*)।
+## example
+প্রশ্ন: *Homo sapiens* L., 1758 নামের প্রতিটি অংশের অর্থ কী?
+সমাধান: নামটি বাম থেকে ডানে পড়ো।
+ধাপ: *Homo* গণ নাম (বড় হাতের H); *sapiens* প্রজাতিক নাম (ছোট হাতের s)। ছাপা হয়েছে বলে দুটিই ইটালিকে।
+ধাপ: "L." হলো নামদাতা বিজ্ঞানী লিনিয়াসের নামের সংক্ষিপ্ত রূপ; 1758 নামটি প্রকাশের সাল।
+উত্তর: গণ *Homo* + প্রজাতি *sapiens*, লিনিয়াস ১৭৫৮ সালে নামটি দেন।
+## mistakes
+x প্রজাতিক নামও বড় হাতের অক্ষরে শুরু হয়: Oryza Sativa।
+v শুধু গণ নাম বড় হাতের অক্ষরে শুরু: *Oryza sativa*।
+x হাতে লেখার সময় পুরো নামের নিচে একটানা একটি দাগ দিতে হয়।
+v গণ ও প্রজাতিক নামের নিচে আলাদা আলাদা দাগ দিতে হয়।
+x আগে প্রজাতিক নাম, পরে গণ নাম।
+v সবসময় গণ নাম আগে, তারপর প্রজাতিক নাম: *Panthera tigris*।
+x সবাই পড়তে পারবে বলে বৈজ্ঞানিক নাম ইংরেজিতে লেখা হয়।
+v বৈজ্ঞানিক নাম ল্যাটিন (বা ল্যাটিনের মতো) ভাষায়, আর এ কারণেই নামটি সারা বিশ্বে এক।
+## remember
+- বৈজ্ঞানিক নাম = গণ + প্রজাতি; প্রবর্তক ক্যারোলাস লিনিয়াস (*Species Plantarum*, ১৭৫৩)।
+- গণ: প্রথম অক্ষর বড় হাতের। প্রজাতি: পুরোটা ছোট হাতের।
+- ছাপায়: ইটালিক। হাতে লেখায়: প্রতিটি পদের নিচে আলাদা দাগ।
+- ভাষা: ল্যাটিন। প্রতিটি নাম অনন্য। প্রথম বৈধ নামটিই গৃহীত (অগ্রাধিকার আইন)।
+- উদ্ভিদ: ICBN (এখন ICN); প্রাণী: ICZN।
+- ধান *Oryza sativa*, তেলাপোকা *Periplaneta americana*, মৌমাছি *Apis indica*, ইলিশ *Tenualosa ilisha*, বাঘ *Panthera tigris*, মানুষ *Homo sapiens*।
+## think
+একই মাছকে বাংলায় বলে ইলিশ, ইংরেজিতে "hilsa", আর পাকিস্তানের সিন্ধু অঞ্চলে *পাল্লা*; আবার কোনো একটি স্থানীয় নাম ভিন্ন জেলায় ভিন্ন প্রাণীকে বোঝাতে পারে। আন্তর্জাতিক কোনো দল বঙ্গোপসাগরের মাছ নিয়ে গবেষণা করলে বৈজ্ঞানিক নাম এই বিভ্রান্তি কীভাবে দূর করবে?
+## quiz
+? ছাপার অক্ষরে কোনটি সঠিকভাবে লেখা?
+- oryza sativa
+- Oryza Sativa
+* *Oryza sativa*
+- Sativa oryza
+= গণ নাম বড় হাতের অক্ষরে শুরু, প্রজাতিক নাম ছোট হাতের অক্ষরে, দুটিই ইটালিকে, গণ আগে।
+? দ্বিপদ নামকরণ পদ্ধতির প্রবর্তক:
+- আর. এইচ. হুইটেকার
+* ক্যারোলাস লিনিয়াস
+- লিন মারগুলিস
+- টমাস ক্যাভালিয়ার-স্মিথ
+= লিনিয়াস *Species Plantarum* (১৭৫৩) বইয়ে এর ভিত্তি গড়েন।
+? *Tenualosa ilisha* নামে "*Tenualosa*" হলো:
+* গণ নাম
+- প্রজাতিক নাম
+- গোত্রের নাম
+- বিজ্ঞানীর নাম
+= দ্বিপদ নামের প্রথম অংশ সবসময় গণ নাম।
+? হাতে বৈজ্ঞানিক নাম লেখার সময়:
+- সব অক্ষর বড় হাতের লিখতে হয়
+- উদ্ধৃতিচিহ্নের মধ্যে রাখতে হয়
+* গণ ও প্রজাতিক নামের নিচে আলাদা আলাদা দাগ দিতে হয়
+- শুধু ইটালিকে লিখতে হয়
+= হাতে ইটালিক লেখা যায় না, তাই প্রতিটি পদের নিচে আলাদা দাগ দিতে হয়।

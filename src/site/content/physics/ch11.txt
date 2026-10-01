@@ -1,0 +1,2323 @@
+@@chapter
+== en
+## intro
+Switch on a light, a fan or a phone charger, and something invisible starts moving through the wires: **electric charge**. In the last chapter, charges mostly sat still (static electricity). In this chapter they **flow**, and that flow, **current electricity**, runs almost everything around us.
+
+You will learn what makes charge flow (potential difference and the EMF of a cell), why some materials carry current and others don't, Ohm's law and resistance, how to find the voltage and current anywhere in a circuit, how resistors combine in series and parallel, how to calculate electric power and your electricity bill, why electricity is sent at high voltage, and how to use electricity safely at home.
+## objectives
+- explain how current electricity is produced from a potential difference, and define current and the ampere
+- explain electromotive force (EMF) and potential difference
+- distinguish conductors, insulators and semiconductors
+- explain the direction of conventional current and of electron flow
+- state Ohm's law and relate current and potential difference using a graph
+- explain resistance, the factors it depends on, resistivity and conductivity, fixed and variable resistors
+- draw circuits with standard symbols and find the voltage and current at different points
+- find the equivalent resistance of series and parallel combinations
+- calculate electric power, energy in kilowatt-hours and an electricity bill
+- explain system loss and load shedding
+- describe the safe use of electricity: fuse, circuit breaker, earthing, switch on the live wire
+- draw and explain a typical house wiring circuit
+== bn
+## intro
+লাইট, ফ্যান বা ফোনের চার্জার চালু করলেই তারের ভেতর দিয়ে অদৃশ্য কিছু চলতে শুরু করে: **বৈদ্যুতিক চার্জ**। আগের অধ্যায়ে চার্জ মোটামুটি এক জায়গায় বসে ছিল (স্থির বিদ্যুৎ)। এই অধ্যায়ে চার্জ **প্রবাহিত হয়**, আর সেই প্রবাহ, অর্থাৎ **চল বিদ্যুৎ**, আমাদের চারপাশের প্রায় সবকিছু চালায়।
+
+তুমি শিখবে কী চার্জকে প্রবাহিত করে (বিভব পার্থক্য আর কোষের তড়িৎ চালক শক্তি), কেন কিছু পদার্থ বিদ্যুৎ পরিবহন করে আর কিছু করে না, ওহমের সূত্র ও রোধ, বর্তনীর যেকোনো বিন্দুতে বিভব ও প্রবাহ কীভাবে বের করতে হয়, রোধ শ্রেণি ও সমান্তরালে কীভাবে যুক্ত হয়, তড়িৎ ক্ষমতা আর বিদ্যুৎ বিল কীভাবে হিসাব করতে হয়, কেন উচ্চ ভোল্টেজে বিদ্যুৎ পাঠানো হয়, আর বাসায় কীভাবে নিরাপদে বিদ্যুৎ ব্যবহার করতে হয়।
+## objectives
+- বিভব পার্থক্য থেকে কীভাবে চল বিদ্যুৎ তৈরি হয় তা ব্যাখ্যা করতে এবং তড়িৎ প্রবাহ ও অ্যাম্পিয়ারের সংজ্ঞা দিতে পারবে
+- তড়িৎ চালক শক্তি ও বিভব পার্থক্য ব্যাখ্যা করতে পারবে
+- পরিবাহী, অপরিবাহী ও অর্ধপরিবাহী পদার্থের পার্থক্য করতে পারবে
+- প্রচলিত বিদ্যুৎপ্রবাহ ও ইলেকট্রন প্রবাহের দিক ব্যাখ্যা করতে পারবে
+- ওহমের সূত্র বিবৃত করতে এবং লেখচিত্রের সাহায্যে বিদ্যুৎপ্রবাহ ও বিভব পার্থক্যের সম্পর্ক দেখাতে পারবে
+- রোধ, রোধের নির্ভরশীলতা, আপেক্ষিক রোধ ও পরিবাহকত্ব, স্থির ও পরিবর্তনশীল রোধ ব্যাখ্যা করতে পারবে
+- প্রতীক ব্যবহার করে বর্তনী আঁকতে এবং বিভিন্ন বিন্দুতে বিভব ও প্রবাহ বের করতে পারবে
+- শ্রেণি ও সমান্তরাল সংযোগে তুল্য রোধ বের করতে পারবে
+- তড়িৎ ক্ষমতা, কিলোওয়াট-ঘণ্টায় শক্তি এবং বিদ্যুৎ বিল হিসাব করতে পারবে
+- সিস্টেম লস ও লোডশেডিং ব্যাখ্যা করতে পারবে
+- বিদ্যুতের নিরাপদ ব্যবহার বর্ণনা করতে পারবে: ফিউজ, সার্কিট ব্রেকার, ভূসংযোগ, লাইভ তারে সুইচ
+- বাসাবাড়ির একটি সাধারণ বৈদ্যুতিক বর্তনী আঁকতে ও ব্যাখ্যা করতে পারবে
+
+@@ 11.1
+@visual c11flow
+@related 10.6 11.1.1 11.1.3 11.2.1
+== en
+## what
+**Electric current** is the flow of electric charge. Its size is the amount of charge passing a point per second: I = Q/t, measured in **amperes (A)**.
+## simple
+Remember from the last chapter: if two bodies are at different **potentials**, charge flows from one to the other when you join them with a metal wire. Take a charged metal sphere A and an uncharged sphere B. Join them with a wire and charge rushes along the wire until both are at the **same potential**. Then the flow stops.
+
+That flow of charge is what we call **electric current**, or simply "electricity". It is the same thing that lights your bulb, spins your fan and charges your phone. The only difference is that at home the flow **doesn't stop**, because something (a generator far away, or a battery) keeps the potential difference alive. We will see how in the next lesson.
+
+**How big is a current?** Think of people walking through a school gate. To say how "busy" the gate is, you count how many people pass **each second**. For current, we count how much **charge** passes a point in the wire each second:
+
+**I = Q / t**
+
+If Q coulombs pass in t seconds, the current is I. The unit is the **ampere (A)**: 1 A means 1 coulomb of charge passes every second. In fact the coulomb itself is defined the other way round: 1 C is the charge carried past a point in 1 s by a current of 1 A.
+
+**How many electrons is that?** One electron carries only 1.6 × 10^{-19} C, so 1 C needs about **6.25 × 10^{18} electrons**. A 1 A current means more than six billion billion electrons passing every second! Small currents are measured in **milliamperes**: 1 mA = 10^{-3} A.
+
+A phone charger gives about 1–2 A, a ceiling fan draws about 0.3 A, and an electric iron about 4–5 A.
+## analogy
+Current is like the flow of water in a pipe. Current (amperes) is how much charge passes a point each second, just as flow tells you how many litres pass each second. 1 A = 1 coulomb of charge passing every second.
+## definition
+**Electric current**: the rate of flow of electric charge through a conductor. If charge Q passes a cross-section of a conductor in time t, the current is I = Q/t.
+
+**Ampere (A)**: the SI unit of current. If 1 coulomb of charge flows through any cross-section of a conductor in 1 second, the current is 1 ampere.
+## why
+Why does charge flow at all? Because a potential difference means one point is "higher" than the other for charge, just as one end of a pipe may be higher than the other for water. Charge flows from high potential to low potential until the difference disappears, exactly as water stops flowing when the two levels become equal.
+## terms
+Current electricity | Electricity due to charge flowing through a conductor
+Electric current (I) | Charge passing a point per second
+Ampere (A) | 1 C per second
+Coulomb (C) | Unit of charge; 1 C = 1 A × 1 s
+Milliampere (mA) | 10^{-3} A
+## formula
+$$ I = Q / t
+tri Q | I | t
+$$ Q = It
+I | electric current | A
+Q | charge | C
+t | time | s
+! 1 C ≈ 6.25 × 10^{18} electrons, since one electron carries 1.6 × 10^{-19} C.
+## visual
+Change the current and watch the charges move through the wire. Count how many coulombs (and electrons) pass the marked point in the time you set.
+## real
+A mobile phone battery marked 4000 mAh can supply 4000 mA (4 A) for 1 hour, or 1 A for 4 hours. The total charge it can move is Q = It = 4 A × 3600 s = 14 400 C.
+## example
+Q: A current of 2 A flows through a bulb for 5 minutes. How much charge passes through it?
+Given: I = 2 A, t = 5 min = 300 s
+Formula: Q = It
+Substitution: Q = 2 × 300
+Answer: Q = 600 C
+Unit: coulomb (C)
+> Time must be in seconds, so 5 minutes becomes 300 seconds.
+## example
+Q: 3.125 × 10^{18} electrons pass a point in a wire every second. Find the current. (charge of an electron = 1.6 × 10^{-19} C)
+Given: n = 3.125 × 10^{18} per second, e = 1.6 × 10^{-19} C
+Formula: I = Q/t = ne/t
+Calculation: Q in 1 s = 3.125 × 10^{18} × 1.6 × 10^{-19} = 0.5 C
+Answer: I = 0.5 A
+## mistakes
+x Current is used up in a bulb, so less current comes out than goes in.
+v Charge is not used up. The same current that enters the bulb comes out of it; it is the **energy** carried by the charge that is used.
+x 1 ampere is one electron per second.
+v 1 A is 1 coulomb per second, which is about 6.25 × 10^{18} electrons per second.
+## remember
+- Current = rate of flow of charge: I = Q/t.
+- Unit: ampere (A); 1 A = 1 C/s.
+- Charge flows only while there is a potential difference.
+- 1 C ≈ 6.25 × 10^{18} electrons.
+## think
+When two charged spheres are joined, current flows for only a tiny moment. What would you need to keep the current flowing for hours?
+## quiz
+? A charge of 60 C flows through a wire in 30 s. The current is:
+- 0.5 A
+* 2 A
+- 30 A
+- 1800 A
+= I = Q/t = 60 ÷ 30 = 2 A.
+? 1 ampere means:
+- 1 electron passes per second
+* 1 coulomb of charge passes per second
+- 1 joule of energy per second
+- 1 volt per ohm per second
+= Current is charge per second, so 1 A = 1 C/s.
+? When a charged sphere is joined to an uncharged sphere by a wire, charge flows until:
+- The first sphere loses all its charge
+- The wire becomes hot
+* Both spheres reach the same potential
+- The second sphere becomes negative
+= Flow needs a potential difference; it stops when the potentials are equal.
+== bn
+## what
+**তড়িৎ প্রবাহ** বা বিদ্যুৎপ্রবাহ হলো বৈদ্যুতিক চার্জের প্রবাহ। প্রতি সেকেন্ডে কোনো বিন্দু দিয়ে যতটুকু চার্জ যায়, সেটাই প্রবাহের মান: I = Q/t, একক **অ্যাম্পিয়ার (A)**।
+## simple
+আগের অধ্যায়ের কথা মনে করো: দুটি বস্তুর **বিভব** আলাদা হলে ধাতব তার দিয়ে জুড়ে দিলে একটি থেকে অন্যটিতে চার্জ প্রবাহিত হয়। একটি আহিত ধাতব গোলক A আর একটি চার্জহীন গোলক B নাও। তার দিয়ে জুড়ে দিলে দুটির বিভব **সমান** না হওয়া পর্যন্ত তার দিয়ে চার্জ ছুটে যায়। তারপর প্রবাহ থেমে যায়।
+
+চার্জের এই প্রবাহকেই আমরা বলি **তড়িৎ প্রবাহ**, বা সহজ কথায় "বিদ্যুৎ"। এটাই তোমার বাল্ব জ্বালায়, ফ্যান ঘোরায়, ফোন চার্জ দেয়। পার্থক্য শুধু এটুকু: বাসায় প্রবাহ **থামে না**, কারণ কিছু একটা (দূরের জেনারেটর বা একটি ব্যাটারি) বিভব পার্থক্যটা বাঁচিয়ে রাখে। কীভাবে, তা পরের পাঠে দেখব।
+
+**প্রবাহ কত বড়?** স্কুলের গেট দিয়ে মানুষ ঢোকার কথা ভাবো। গেটটা কত "ব্যস্ত" বোঝাতে তুমি গুনবে **প্রতি সেকেন্ডে** কতজন যাচ্ছে। বিদ্যুৎপ্রবাহের বেলায় আমরা গুনি তারের কোনো বিন্দু দিয়ে প্রতি সেকেন্ডে কতটুকু **চার্জ** যাচ্ছে:
+
+**I = Q / t**
+
+t সেকেন্ডে Q কুলম্ব চার্জ গেলে প্রবাহ I। একক **অ্যাম্পিয়ার (A)**: ১ A মানে প্রতি সেকেন্ডে ১ কুলম্ব চার্জ যাচ্ছে। আসলে কুলম্বের সংজ্ঞাই দেওয়া হয় উল্টো দিক থেকে: ১ A প্রবাহ ১ s ধরে চললে যতটুকু চার্জ যায়, সেটাই ১ C।
+
+**এটা কতগুলো ইলেকট্রন?** একটি ইলেকট্রনের চার্জ মাত্র ১.৬ × ১০^{-১৯} C, তাই ১ C-এ লাগে প্রায় **৬.২৫ × ১০^{১৮}টি ইলেকট্রন**। ১ A প্রবাহ মানে প্রতি সেকেন্ডে ছয় শ কোটি কোটি কোটিরও বেশি ইলেকট্রন যাচ্ছে! ছোট প্রবাহ মাপা হয় **মিলিঅ্যাম্পিয়ারে**: ১ mA = ১০^{-৩} A।
+
+ফোনের চার্জার দেয় প্রায় ১–২ A, সিলিং ফ্যান নেয় প্রায় ০.৩ A, আর ইস্ত্রি নেয় প্রায় ৪–৫ A।
+## analogy
+তড়িৎ প্রবাহ যেন পাইপে পানির প্রবাহ। প্রবাহ (অ্যাম্পিয়ার) হলো প্রতি সেকেন্ডে একটি বিন্দু দিয়ে কত আধান যায়, ঠিক যেমন পানির প্রবাহ বলে প্রতি সেকেন্ডে কত লিটার যায়। ১ A = প্রতি সেকেন্ডে ১ কুলম্ব আধান যাওয়া।
+## definition
+**তড়িৎ প্রবাহ**: কোনো পরিবাহীর মধ্য দিয়ে চার্জ প্রবাহের হার। t সময়ে পরিবাহীর কোনো প্রস্থচ্ছেদ দিয়ে Q চার্জ গেলে প্রবাহ I = Q/t।
+
+**অ্যাম্পিয়ার (A)**: প্রবাহের SI একক। পরিবাহীর যেকোনো প্রস্থচ্ছেদ দিয়ে ১ সেকেন্ডে ১ কুলম্ব চার্জ প্রবাহিত হলে প্রবাহকে ১ অ্যাম্পিয়ার বলে।
+## why
+চার্জ প্রবাহিত হয় কেন? কারণ বিভব পার্থক্য মানে চার্জের জন্য একটি বিন্দু আরেকটির চেয়ে "উঁচু", ঠিক যেমন পানির জন্য পাইপের এক মাথা আরেক মাথার চেয়ে উঁচু হতে পারে। উচ্চ বিভব থেকে নিম্ন বিভবের দিকে চার্জ প্রবাহিত হয়, পার্থক্য মুছে না যাওয়া পর্যন্ত; যেমন দুই পাশের পানির উচ্চতা সমান হলে পানি চলা থেমে যায়।
+## terms
+চল বিদ্যুৎ | পরিবাহীর মধ্য দিয়ে চার্জ প্রবাহের ফলে বিদ্যুৎ
+তড়িৎ প্রবাহ (I) | প্রতি সেকেন্ডে কোনো বিন্দু দিয়ে যাওয়া চার্জ
+অ্যাম্পিয়ার (A) | প্রতি সেকেন্ডে ১ C
+কুলম্ব (C) | চার্জের একক; ১ C = ১ A × ১ s
+মিলিঅ্যাম্পিয়ার (mA) | ১০^{-৩} A
+## formula
+$$ I = Q / t
+tri Q | I | t
+$$ Q = It
+I | তড়িৎ প্রবাহ | A
+Q | চার্জ | C
+t | সময় | s
+! ১ C ≈ ৬.২৫ × ১০^{১৮}টি ইলেকট্রন, কারণ একটি ইলেকট্রনের চার্জ ১.৬ × ১০^{-১৯} C।
+## visual
+প্রবাহ বদলাও আর দেখো তারের ভেতর চার্জ কীভাবে চলে। তুমি যে সময় দিলে, তাতে চিহ্নিত বিন্দু দিয়ে কত কুলম্ব (আর কতগুলো ইলেকট্রন) গেল গুনে দেখো।
+## real
+৪০০০ mAh লেখা মোবাইল ব্যাটারি ১ ঘণ্টা ধরে ৪০০০ mA (৪ A), অথবা ৪ ঘণ্টা ধরে ১ A দিতে পারে। এটি মোট যত চার্জ চালাতে পারে: Q = It = ৪ A × ৩৬০০ s = ১৪ ৪০০ C।
+## example
+প্রশ্ন: একটি বাল্বের মধ্য দিয়ে ৫ মিনিট ধরে ২ A প্রবাহ চলল। কত চার্জ গেল?
+দেওয়া আছে: I = ২ A, t = ৫ min = ৩০০ s
+সূত্র: Q = It
+মান বসাই: Q = ২ × ৩০০
+উত্তর: Q = ৬০০ C
+একক: কুলম্ব (C)
+> সময় সেকেন্ডে নিতে হয়, তাই ৫ মিনিট হলো ৩০০ সেকেন্ড।
+## example
+প্রশ্ন: তারের একটি বিন্দু দিয়ে প্রতি সেকেন্ডে ৩.১২৫ × ১০^{১৮}টি ইলেকট্রন যায়। প্রবাহ কত? (ইলেকট্রনের চার্জ = ১.৬ × ১০^{-১৯} C)
+দেওয়া আছে: n = প্রতি সেকেন্ডে ৩.১২৫ × ১০^{১৮}টি, e = ১.৬ × ১০^{-১৯} C
+সূত্র: I = Q/t = ne/t
+হিসাব: ১ s-এ Q = ৩.১২৫ × ১০^{১৮} × ১.৬ × ১০^{-১৯} = ০.৫ C
+উত্তর: I = ০.৫ A
+## mistakes
+x বাল্বে প্রবাহ খরচ হয়ে যায়, তাই যতটুকু ঢোকে তার চেয়ে কম বের হয়।
+v চার্জ খরচ হয় না। বাল্বে যে প্রবাহ ঢোকে, ঠিক ততটুকুই বের হয়; খরচ হয় চার্জের বয়ে আনা **শক্তি**।
+x ১ অ্যাম্পিয়ার মানে প্রতি সেকেন্ডে একটি ইলেকট্রন।
+v ১ A মানে প্রতি সেকেন্ডে ১ কুলম্ব, অর্থাৎ প্রায় ৬.২৫ × ১০^{১৮}টি ইলেকট্রন।
+## remember
+- প্রবাহ = চার্জ প্রবাহের হার: I = Q/t।
+- একক: অ্যাম্পিয়ার (A); ১ A = ১ C/s।
+- বিভব পার্থক্য থাকলেই কেবল চার্জ প্রবাহিত হয়।
+- ১ C ≈ ৬.২৫ × ১০^{১৮}টি ইলেকট্রন।
+## think
+দুটি আহিত গোলক জুড়ে দিলে প্রবাহ চলে মাত্র এক মুহূর্ত। ঘণ্টার পর ঘণ্টা প্রবাহ চালু রাখতে তোমার কী দরকার হবে?
+## quiz
+? একটি তারের মধ্য দিয়ে ৩০ s-এ ৬০ C চার্জ প্রবাহিত হলো। প্রবাহ:
+- ০.৫ A
+* ২ A
+- ৩০ A
+- ১৮০০ A
+= I = Q/t = ৬০ ÷ ৩০ = ২ A।
+? ১ অ্যাম্পিয়ার মানে:
+- প্রতি সেকেন্ডে ১টি ইলেকট্রন যায়
+* প্রতি সেকেন্ডে ১ কুলম্ব চার্জ যায়
+- প্রতি সেকেন্ডে ১ জুল শক্তি
+- প্রতি সেকেন্ডে প্রতি ওহমে ১ ভোল্ট
+= প্রবাহ হলো প্রতি সেকেন্ডে চার্জ, তাই ১ A = ১ C/s।
+? আহিত একটি গোলককে চার্জহীন গোলকের সাথে তার দিয়ে জুড়লে চার্জ প্রবাহিত হয় যতক্ষণ না:
+- প্রথম গোলক সব চার্জ হারায়
+- তার গরম হয়ে যায়
+* দুটি গোলকের বিভব সমান হয়
+- দ্বিতীয় গোলক ঋণাত্মক হয়
+= প্রবাহের জন্য বিভব পার্থক্য লাগে; বিভব সমান হলে প্রবাহ থামে।
+
+@@ 11.1.1
+@visual c11cells
+@related 11.1 10.6 10.7 11.2.3
+== en
+## what
+The **electromotive force (EMF)** of a cell or generator is the work it does to move each coulomb of charge from its low-potential terminal to its high-potential terminal: E = W/Q. It keeps a potential difference alive so that current can flow continuously.
+## simple
+**The problem.** Join a charged sphere to an uncharged one, or join the two plates of a charged capacitor with a wire: charge flows for a moment, the potentials become equal, and the current stops. To run a fan all day, we need something that **keeps** the potential difference from falling, however much charge flows.
+
+**The solution: a cell or a generator.** Think of a water pump on a roof tank. Water runs down through the pipes by itself, but the pump keeps lifting it back up, so the flow never stops. A **battery cell** does the same for charge: a **chemical reaction** inside it keeps pushing charge from its low-potential terminal back up to its high-potential terminal. A **generator** in a power station does the same job for the supply in your home. When the chemicals in a cell are used up, it can no longer do this, and we say the battery is "dead".
+
+Lifting charge "uphill" needs energy. If the cell does work W to carry charge Q from its low terminal to its high terminal, its **EMF** is
+
+**E = W / Q**
+
+Its unit is J/C, which is the **volt (V)**. An ordinary torch cell has an EMF of **1.5 V**: it gives 1.5 joules of energy to every coulomb of charge that passes through it.
+
+**A confusing name.** Despite the word "force", EMF is **not a force**, and it is not energy either. It is energy per unit charge, measured in volts, just like potential difference. Physics is usually careful with words; this old name is an unlucky exception.
+
+**Only the difference matters.** A 1.5 V cell keeps its + terminal 1.5 V above its − terminal. But what is the actual potential of each terminal? It depends on what you call zero. If the − terminal is connected to earth (0 V), the + terminal is at +1.5 V. If instead the + terminal is earthed, it is at 0 V and the − terminal is at −1.5 V. Both are correct; the **difference** is 1.5 V either way.
+
+With two 1.5 V cells joined + to −, the total is 3 V, and by choosing which point to earth you can get +1.5 V, +3 V, −1.5 V or −3 V at the ends.
+
+**EMF and potential difference.** The EMF is the energy given to each coulomb **by the source**. The **potential difference** between two points of a circuit is the energy each coulomb **gives up** (for example as heat and light) as it moves between those points. When no current is drawn, the potential difference across a cell's terminals equals its EMF; when a current flows, it is slightly less, because a little energy is lost inside the cell itself.
+## analogy
+A cell is like a **water pump** that lifts water up to a tank so it can flow down through the pipes again. The EMF tells you how much energy the pump gives to each coulomb of charge it lifts: a 1.5 V cell gives each coulomb 1.5 J.
+## definition
+**Electromotive force (EMF)**: the work done by a source (cell, battery or generator) in moving a unit positive charge from its low-potential terminal to its high-potential terminal, i.e. around the complete circuit: E = W/Q. Unit: volt (V).
+
+**Potential difference** between two points: the work done in moving a unit positive charge from one point to the other. Unit: volt (V).
+## why
+Why can't a capacitor replace a battery for long? A capacitor only stores separated charge; once that charge flows away, the potential difference is gone. A cell has a **store of chemical energy** that keeps separating charge again and again, so the potential difference is maintained until the chemicals run out.
+## terms
+Electromotive force (EMF, E) | Work done by a source per coulomb of charge it moves
+Cell | A source that makes EMF by a chemical reaction
+Battery | Two or more cells joined together
+Generator | A machine that maintains a potential difference using motion
+Terminal | Connecting point of a cell (+ or −)
+Earth / ground | Reference point taken as zero potential
+## formula
+$$ E = W / Q
+tri W | E | Q
+E | electromotive force | V (J/C)
+W | work done by the source | J
+Q | charge moved | C
+! EMF is measured in volts, not newtons: it is not a force.
+! Cells joined + to − (in series) add their EMFs: 1.5 V + 1.5 V = 3 V.
+## visual
+Choose how the two 1.5 V cells are joined and which point is earthed. Read the potential at each terminal and see that only the differences stay the same.
+## real
+A TV remote uses two 1.5 V cells in series to get 3 V. A motorbike or car battery has six 2 V cells inside, giving 12 V. The mains supply in Bangladesh is kept at about 220 V by generators at the power stations.
+## example
+Q: A cell does 12 J of work to move 8 C of charge around a circuit. What is its EMF?
+Given: W = 12 J, Q = 8 C
+Formula: E = W/Q
+Substitution: E = 12 ÷ 8
+Answer: E = 1.5 V
+## example
+Q: The potential difference of a cell is 1.5 V. What are the actual potentials of its two terminals: is the negative terminal at 0 V and the positive at 1.5 V, or is the negative at −1.5 V and the positive at 0 V?
+Solution: Both can be true. It depends on which terminal is taken as zero (earthed).
+Step: If the − terminal is earthed, − = 0 V and + = +1.5 V. If the + terminal is earthed, + = 0 V and − = −1.5 V.
+Answer: In both cases the difference is 1.5 V, and that is what drives the current.
+## mistakes
+x EMF is a kind of force, measured in newtons.
+v EMF is work per unit charge, measured in volts. The name is historical.
+x The + terminal of a cell is always at +1.5 V.
+v Only the difference is fixed. The actual potential depends on which point is taken as zero.
+## remember
+- A cell or generator maintains a potential difference so current can flow continuously.
+- EMF E = W/Q; unit volt (V) = J/C.
+- An ordinary dry cell: 1.5 V. Cells in series add up.
+- Only potential **difference** matters; the zero can be chosen.
+## think
+Is it possible to use a charged capacitor as a battery? For how long could it light a small LED, and why?
+## quiz
+? A cell gives 3 J of energy to 2 C of charge. Its EMF is:
+- 6 V
+* 1.5 V
+- 0.67 V
+- 5 V
+= E = W/Q = 3 ÷ 2 = 1.5 V.
+? The unit of electromotive force is:
+- newton
+- joule
+* volt
+- ampere
+= EMF is energy per coulomb, J/C = volt.
+? The + terminal of a 1.5 V cell is earthed. The potential of its − terminal is:
+- +1.5 V
+- 0 V
+* −1.5 V
+- −3 V
+= The − terminal is 1.5 V below the + terminal, which is at 0 V.
+== bn
+## what
+কোনো কোষ বা জেনারেটরের **তড়িৎ চালক শক্তি (EMF)** হলো প্রতি কুলম্ব চার্জকে এর নিম্ন বিভবের প্রান্ত থেকে উচ্চ বিভবের প্রান্তে নিতে এটি যে কাজ করে: E = W/Q। এটি বিভব পার্থক্য বাঁচিয়ে রাখে, ফলে প্রবাহ অবিরাম চলতে পারে।
+## simple
+**সমস্যাটা কী?** আহিত একটি গোলককে চার্জহীন গোলকের সাথে জুড়ে দাও, কিংবা আহিত ধারকের দুটি পাত একটা তার দিয়ে জুড়ে দাও: এক মুহূর্ত চার্জ প্রবাহিত হয়, বিভব সমান হয়ে যায়, প্রবাহ থেমে যায়। সারা দিন ফ্যান চালাতে আমাদের এমন কিছু দরকার, যা যত চার্জই প্রবাহিত হোক, বিভব পার্থক্যকে কমতে **দেবে না**।
+
+**সমাধান: কোষ বা জেনারেটর।** ছাদের ট্যাংকের পানির পাম্পের কথা ভাবো। পানি নিজে থেকেই পাইপ বেয়ে নিচে নামে, কিন্তু পাম্প আবার সেটাকে ওপরে তোলে, তাই প্রবাহ কখনো থামে না। **ব্যাটারি কোষ** চার্জের জন্য ঠিক এই কাজটা করে: ভেতরের **রাসায়নিক বিক্রিয়া** চার্জকে নিম্ন বিভবের প্রান্ত থেকে বারবার উচ্চ বিভবের প্রান্তে ঠেলে তোলে। বাসার বিদ্যুতের জন্য একই কাজ করে বিদ্যুৎকেন্দ্রের **জেনারেটর**। কোষের রাসায়নিক পদার্থ ফুরিয়ে গেলে এটি আর তা পারে না, তখন বলি ব্যাটারি "শেষ"।
+
+চার্জকে "ওপরে" তুলতে শক্তি লাগে। Q চার্জকে নিম্ন প্রান্ত থেকে উচ্চ প্রান্তে নিতে কোষ W কাজ করলে এর **তড়িৎ চালক শক্তি**:
+
+**E = W / Q**
+
+এর একক J/C, অর্থাৎ **ভোল্ট (V)**। সাধারণ টর্চের কোষের তড়িৎ চালক শক্তি **১.৫ V**: এর মধ্য দিয়ে যাওয়া প্রতি কুলম্ব চার্জকে এটি ১.৫ জুল শক্তি দেয়।
+
+**নামটা বিভ্রান্তিকর।** "শক্তি" বা "ফোর্স" শব্দ থাকলেও EMF কোনো **বল নয়**, শক্তিও নয়। এটা প্রতি একক চার্জে শক্তি, ভোল্টে মাপা হয়, ঠিক বিভব পার্থক্যের মতো। পদার্থবিজ্ঞান সাধারণত শব্দ নিয়ে খুব সাবধান; এই পুরোনো নামটা দুর্ভাগ্যজনক ব্যতিক্রম।
+
+**শুধু পার্থক্যই আসল।** ১.৫ V কোষ এর + প্রান্তকে − প্রান্তের চেয়ে ১.৫ V ওপরে রাখে। কিন্তু প্রতিটি প্রান্তের আসল বিভব কত? সেটা নির্ভর করে তুমি কোনটাকে শূন্য ধরছ তার ওপর। − প্রান্ত ভূমিসংলগ্ন (০ V) করলে + প্রান্ত +১.৫ V। আবার + প্রান্ত ভূমিসংলগ্ন করলে সেটি ০ V আর − প্রান্ত −১.৫ V। দুটোই ঠিক; **পার্থক্য** দুই ক্ষেত্রেই ১.৫ V।
+
+দুটি ১.৫ V কোষ + থেকে − করে জুড়লে মোট ৩ V হয়, আর কোন বিন্দু ভূমিসংলগ্ন করছ সেটা বেছে প্রান্তে +১.৫ V, +৩ V, −১.৫ V বা −৩ V পাওয়া যায়।
+
+**তড়িৎ চালক শক্তি আর বিভব পার্থক্য।** তড়িৎ চালক শক্তি হলো **উৎস** প্রতি কুলম্বকে যে শক্তি দেয়। বর্তনীর দুটি বিন্দুর **বিভব পার্থক্য** হলো ওই দুই বিন্দুর মধ্যে চলার সময় প্রতি কুলম্ব যে শক্তি **ছেড়ে দেয়** (যেমন তাপ ও আলো হিসেবে)। কোনো প্রবাহ না নিলে কোষের দুই প্রান্তের বিভব পার্থক্য এর তড়িৎ চালক শক্তির সমান; প্রবাহ চললে সামান্য কম হয়, কারণ কোষের ভেতরেই একটু শক্তি খরচ হয়।
+## analogy
+কোষ যেন একটি **পানির পাম্প**, যা পানিকে ট্যাংকে তোলে যাতে তা আবার পাইপ দিয়ে নিচে নামতে পারে। তড়িচ্চালক শক্তি বলে পাম্প প্রতি কুলম্ব আধানকে কত শক্তি দেয়: ১.৫ V কোষ প্রতি কুলম্বকে দেয় ১.৫ J।
+## definition
+**তড়িৎ চালক শক্তি (EMF)**: কোনো উৎস (কোষ, ব্যাটারি বা জেনারেটর) একক ধনাত্মক চার্জকে এর নিম্ন বিভবের প্রান্ত থেকে উচ্চ বিভবের প্রান্তে, অর্থাৎ পুরো বর্তনী ঘুরিয়ে আনতে যে কাজ করে: E = W/Q। একক: ভোল্ট (V)।
+
+দুটি বিন্দুর **বিভব পার্থক্য**: একক ধনাত্মক চার্জকে একটি বিন্দু থেকে অন্য বিন্দুতে নিতে কৃত কাজ। একক: ভোল্ট (V)।
+## why
+ধারক দিয়ে কেন বেশিক্ষণ ব্যাটারির কাজ চলে না? ধারক শুধু আলাদা করা চার্জ জমিয়ে রাখে; সেই চার্জ বয়ে গেলেই বিভব পার্থক্য শেষ। কোষের ভেতরে থাকে **রাসায়নিক শক্তির মজুদ**, যা বারবার চার্জ আলাদা করতে থাকে, তাই রাসায়নিক পদার্থ ফুরানো পর্যন্ত বিভব পার্থক্য বজায় থাকে।
+## terms
+তড়িৎ চালক শক্তি (EMF, E) | উৎস প্রতি কুলম্ব চার্জ চালাতে যে কাজ করে
+কোষ | রাসায়নিক বিক্রিয়ায় তড়িৎ চালক শক্তি তৈরির উৎস
+ব্যাটারি | দুই বা ততোধিক কোষ একসাথে যুক্ত
+জেনারেটর | গতি ব্যবহার করে বিভব পার্থক্য বজায় রাখার যন্ত্র
+প্রান্ত | কোষের সংযোগ বিন্দু (+ বা −)
+ভূমি / ভূসংযোগ | শূন্য বিভব ধরা প্রসঙ্গ বিন্দু
+## formula
+$$ E = W / Q
+tri W | E | Q
+E | তড়িৎ চালক শক্তি | V (J/C)
+W | উৎসের কৃত কাজ | J
+Q | চালিত চার্জ | C
+! তড়িৎ চালক শক্তি ভোল্টে মাপা হয়, নিউটনে নয়: এটি বল নয়।
+! কোষ + থেকে − করে (শ্রেণিতে) জুড়লে তড়িৎ চালক শক্তি যোগ হয়: ১.৫ V + ১.৫ V = ৩ V।
+## visual
+দুটি ১.৫ V কোষ কীভাবে জুড়বে আর কোন বিন্দু ভূমিসংলগ্ন করবে বেছে নাও। প্রতিটি প্রান্তের বিভব পড়ো আর দেখো, শুধু পার্থক্যগুলোই একই থাকে।
+## real
+টিভির রিমোটে শ্রেণিতে যুক্ত দুটি ১.৫ V কোষ থেকে ৩ V পাওয়া যায়। মোটরবাইক বা গাড়ির ব্যাটারির ভেতরে ছয়টি ২ V কোষ থাকে, মিলে ১২ V। বাংলাদেশে বাসার সরবরাহ প্রায় ২২০ V-এ রাখে বিদ্যুৎকেন্দ্রের জেনারেটর।
+## example
+প্রশ্ন: একটি কোষ বর্তনীতে ৮ C চার্জ চালাতে ১২ J কাজ করে। এর তড়িৎ চালক শক্তি কত?
+দেওয়া আছে: W = ১২ J, Q = ৮ C
+সূত্র: E = W/Q
+মান বসাই: E = ১২ ÷ ৮
+উত্তর: E = ১.৫ V
+## example
+প্রশ্ন: একটি কোষের বিভব পার্থক্য ১.৫ V। এর দুই প্রান্তের আসল বিভব কত: ঋণাত্মক প্রান্ত ০ V আর ধনাত্মক ১.৫ V, নাকি ঋণাত্মক −১.৫ V আর ধনাত্মক ০ V?
+সমাধান: দুটোই সত্যি হতে পারে। কোন প্রান্তকে শূন্য (ভূমিসংলগ্ন) ধরা হচ্ছে তার ওপর নির্ভর করে।
+ধাপ: − প্রান্ত ভূমিসংলগ্ন হলে − = ০ V, + = +১.৫ V। + প্রান্ত ভূমিসংলগ্ন হলে + = ০ V, − = −১.৫ V।
+উত্তর: দুই ক্ষেত্রেই পার্থক্য ১.৫ V, আর সেটাই প্রবাহ চালায়।
+## mistakes
+x তড়িৎ চালক শক্তি এক ধরনের বল, নিউটনে মাপা হয়।
+v তড়িৎ চালক শক্তি হলো প্রতি একক চার্জে কাজ, ভোল্টে মাপা হয়। নামটা ঐতিহাসিক।
+x কোষের + প্রান্ত সবসময় +১.৫ V-এ থাকে।
+v শুধু পার্থক্যটা নির্দিষ্ট। আসল বিভব নির্ভর করে কোন বিন্দুকে শূন্য ধরা হয়েছে তার ওপর।
+## remember
+- কোষ বা জেনারেটর বিভব পার্থক্য বজায় রাখে, তাই প্রবাহ অবিরাম চলতে পারে।
+- তড়িৎ চালক শক্তি E = W/Q; একক ভোল্ট (V) = J/C।
+- সাধারণ শুষ্ক কোষ: ১.৫ V। শ্রেণিতে যুক্ত কোষের মান যোগ হয়।
+- শুধু বিভব **পার্থক্য** গুরুত্বপূর্ণ; শূন্য বেছে নেওয়া যায়।
+## think
+আহিত একটি ধারককে কি ব্যাটারি হিসেবে ব্যবহার করা সম্ভব? এটি একটি ছোট LED কতক্ষণ জ্বালাতে পারবে, আর কেন?
+## quiz
+? একটি কোষ ২ C চার্জকে ৩ J শক্তি দেয়। এর তড়িৎ চালক শক্তি:
+- ৬ V
+* ১.৫ V
+- ০.৬৭ V
+- ৫ V
+= E = W/Q = ৩ ÷ ২ = ১.৫ V।
+? তড়িৎ চালক শক্তির একক:
+- নিউটন
+- জুল
+* ভোল্ট
+- অ্যাম্পিয়ার
+= তড়িৎ চালক শক্তি হলো প্রতি কুলম্বে শক্তি, J/C = ভোল্ট।
+? একটি ১.৫ V কোষের + প্রান্ত ভূমিসংলগ্ন। এর − প্রান্তের বিভব:
+- +১.৫ V
+- ০ V
+* −১.৫ V
+- −৩ V
+= − প্রান্ত + প্রান্তের চেয়ে ১.৫ V নিচে, আর + প্রান্ত ০ V-এ।
+
+@@ 11.1.2
+@related 10.1 11.2.2 13.4 11.5
+== en
+## what
+**Conductors** (like copper) let electric current pass easily because they have free electrons; **insulators** (like plastic) have no free electrons and block current; **semiconductors** (like silicon) are in between, and conduct better when heated.
+## simple
+Why does current flow through a copper wire but not through its plastic cover? The answer lies inside the atoms.
+
+**Conductors.** In a solid, atoms stay at their own places; when heated, they only vibrate on the spot. But in a **metal**, as you learnt in chemistry (metallic bonding), some of the outer electrons are not tied to any single atom. These **free electrons** wander through the whole metal. When a potential difference is applied, they drift along the wire, and that is the current. **Silver, copper, gold and aluminium** are good conductors. Remember: in a metal wire, the charge that actually moves is the **negatively charged electron**.
+
+**Insulators.** In materials like **plastic, rubber, dry wood and glass**, every electron is held tightly by its atom. There are no free electrons to carry charge, so almost no current flows. Mostly non-metals are insulators. That is why wires are covered with plastic, switch boards are made of plastic or bakelite, and electricians wear rubber gloves.
+
+**Semiconductors.** Some materials, like **silicon** and **germanium**, sit in the middle. At ordinary temperature they conduct far less than metals but far more than insulators. Their special property: **when heated, they conduct better**, because heat shakes some electrons loose. Semiconductors are the heart of diodes, transistors, solar cells and every computer chip. You will meet them again in the last chapter.
+## analogy
+A conductor is like a wide open road where cars (free electrons) move easily. An insulator is like a road blocked by walls: no cars can pass. A semiconductor is like a road with a gate that opens a little when it gets warm or when you add special "helpers" (doping).
+## definition
+**Conductor**: a substance that has free electrons and through which electric charge can flow easily, e.g. silver, copper, aluminium.
+
+**Insulator** (non-conductor): a substance that has no free electrons to carry charge, so electricity cannot flow through it, e.g. plastic, rubber, glass, dry wood.
+
+**Semiconductor**: a substance whose conductivity at ordinary temperature lies between that of conductors and insulators, and increases as temperature rises, e.g. silicon, germanium.
+## why
+Why does heating help a semiconductor but hurt a metal? A metal already has plenty of free electrons; heating makes the atoms vibrate more, so electrons bump into them more often and the resistance rises. A semiconductor has very few free electrons; heating frees more of them, and this gain is far bigger than the extra bumping, so its resistance falls.
+## terms
+Conductor | Has free electrons; current flows easily
+Insulator (non-conductor) | No free electrons; blocks current
+Semiconductor | In between; conducts better when hot
+Free electron | Electron not bound to any one atom
+## real
+A house wire has a copper core (conductor) inside a PVC cover (insulator). Electric poles hold the lines on porcelain or glass insulators. The solar panels on rooftops and on rural homes in Bangladesh are made of silicon, a semiconductor.
+## example
+Q: Classify: copper, glass, silicon, rubber, aluminium, germanium.
+Solution: conductors have free electrons; insulators have none; semiconductors are in between.
+Answer: Conductors: copper, aluminium. Insulators: glass, rubber. Semiconductors: silicon, germanium.
+## mistakes
+x In a metal wire, positive charges flow along the wire.
+v The positive ions stay in place; only the free electrons move.
+x Heating always makes a material conduct better.
+v Heating makes a metal conduct worse (resistance rises) but a semiconductor conduct better.
+## remember
+- Conductor: free electrons; silver, copper, gold, aluminium.
+- Insulator: no free electrons; plastic, rubber, glass, wood.
+- Semiconductor: silicon, germanium; conductivity rises with temperature.
+## think
+Pure water is a poor conductor, yet you are told never to touch a switch with wet hands. Why? (Hint: what is dissolved in ordinary tap water and sweat?)
+## quiz
+? Electricity flows easily through a conductor because it has:
+- Many protons
+* Free electrons
+- No atoms
+- Positive ions that move freely
+= Free electrons carry the charge in a conductor.
+? Which one is a semiconductor?
+- Copper
+- Rubber
+* Silicon
+- Glass
+= Silicon and germanium are semiconductors.
+? When a semiconductor is heated, its conductivity:
+* Increases
+- Decreases
+- Stays the same
+- Becomes zero
+= Heat frees more electrons in a semiconductor.
+== bn
+## what
+**পরিবাহী** (যেমন তামা) পদার্থে মুক্ত ইলেকট্রন থাকে, তাই বিদ্যুৎ সহজে চলে; **অপরিবাহী** বা অন্তরক (যেমন প্লাস্টিক) পদার্থে মুক্ত ইলেকট্রন নেই, তাই বিদ্যুৎ চলে না; **অর্ধপরিবাহী** (যেমন সিলিকন) মাঝামাঝি, আর গরম করলে ভালো পরিবহন করে।
+## simple
+তামার তারের ভেতর দিয়ে বিদ্যুৎ চলে, অথচ এর প্লাস্টিকের আবরণ দিয়ে চলে না কেন? উত্তর লুকিয়ে আছে পরমাণুর ভেতরে।
+
+**পরিবাহী।** কঠিন পদার্থে পরমাণুগুলো নিজের জায়গায় থাকে; গরম করলে শুধু জায়গায় দাঁড়িয়ে কাঁপে। কিন্তু **ধাতুতে**, রসায়নে যেমন শিখেছ (ধাতব বন্ধন), বাইরের কিছু ইলেকট্রন কোনো একটি পরমাণুর সাথে বাঁধা থাকে না। এই **মুক্ত ইলেকট্রনগুলো** পুরো ধাতুর ভেতর ঘুরে বেড়ায়। বিভব পার্থক্য দিলে এরা তার বরাবর সরে যায়, সেটাই বিদ্যুৎপ্রবাহ। **রুপা, তামা, সোনা, অ্যালুমিনিয়াম** ভালো পরিবাহী। মনে রাখো: ধাতব তারে আসলে যে চার্জ চলে তা হলো **ঋণাত্মক চার্জযুক্ত ইলেকট্রন**।
+
+**অপরিবাহী।** **প্লাস্টিক, রাবার, শুকনো কাঠ, কাচ** ইত্যাদিতে প্রতিটি ইলেকট্রন তার পরমাণুর সাথে শক্ত করে বাঁধা। চার্জ বহনের জন্য মুক্ত ইলেকট্রন নেই, তাই প্রায় কোনো প্রবাহ চলে না। অধাতুগুলো সাধারণত অপরিবাহী। এজন্যই তার প্লাস্টিকে মোড়ানো, সুইচবোর্ড প্লাস্টিক বা বেকেলাইটের, আর ইলেকট্রিশিয়ান রাবারের গ্লাভস পরেন।
+
+**অর্ধপরিবাহী।** **সিলিকন** আর **জার্মেনিয়ামের** মতো কিছু পদার্থ মাঝামাঝি অবস্থানে। সাধারণ তাপমাত্রায় এরা ধাতুর চেয়ে অনেক কম, কিন্তু অপরিবাহীর চেয়ে অনেক বেশি পরিবহন করে। এদের বিশেষ গুণ: **গরম করলে এরা ভালো পরিবহন করে**, কারণ তাপে কিছু ইলেকট্রন ছুটে মুক্ত হয়। ডায়োড, ট্রানজিস্টর, সোলার সেল আর প্রতিটি কম্পিউটার চিপের প্রাণ হলো অর্ধপরিবাহী। শেষ অধ্যায়ে এদের সাথে আবার দেখা হবে।
+## analogy
+পরিবাহী যেন খোলা চওড়া রাস্তা, যেখানে গাড়ি (মুক্ত ইলেকট্রন) সহজে চলে। অপরিবাহী যেন দেয়ালে বন্ধ রাস্তা: কোনো গাড়ি যেতে পারে না। অর্ধপরিবাহী যেন গেটওয়ালা রাস্তা, যা গরম হলে বা বিশেষ "সাহায্যকারী" (ডোপিং) দিলে একটু খোলে।
+## definition
+**পরিবাহী**: যে পদার্থে মুক্ত ইলেকট্রন আছে এবং যার মধ্য দিয়ে বৈদ্যুতিক চার্জ সহজে প্রবাহিত হতে পারে, যেমন রুপা, তামা, অ্যালুমিনিয়াম।
+
+**অপরিবাহী** (অন্তরক): যে পদার্থে চার্জ বহনের মতো মুক্ত ইলেকট্রন নেই, তাই এর মধ্য দিয়ে বিদ্যুৎ চলতে পারে না, যেমন প্লাস্টিক, রাবার, কাচ, শুকনো কাঠ।
+
+**অর্ধপরিবাহী**: যে পদার্থের পরিবহন ক্ষমতা সাধারণ তাপমাত্রায় পরিবাহী ও অপরিবাহীর মাঝামাঝি, এবং তাপমাত্রা বাড়ালে বাড়ে, যেমন সিলিকন, জার্মেনিয়াম।
+## why
+গরম করলে অর্ধপরিবাহীর উপকার হয় কিন্তু ধাতুর ক্ষতি হয় কেন? ধাতুতে আগেই প্রচুর মুক্ত ইলেকট্রন থাকে; গরম করলে পরমাণু বেশি কাঁপে, ইলেকট্রন বেশি ধাক্কা খায়, তাই রোধ বাড়ে। অর্ধপরিবাহীতে মুক্ত ইলেকট্রন খুব কম; গরম করলে আরও ইলেকট্রন মুক্ত হয়, আর এই লাভটা বাড়তি ধাক্কার চেয়ে অনেক বড়, তাই এর রোধ কমে।
+## terms
+পরিবাহী | মুক্ত ইলেকট্রন আছে; সহজে বিদ্যুৎ চলে
+অপরিবাহী (অন্তরক) | মুক্ত ইলেকট্রন নেই; বিদ্যুৎ আটকায়
+অর্ধপরিবাহী | মাঝামাঝি; গরম হলে ভালো পরিবহন করে
+মুক্ত ইলেকট্রন | কোনো একটি পরমাণুর সাথে বাঁধা নয় এমন ইলেকট্রন
+## real
+বাসার তারে ভেতরে থাকে তামা (পরিবাহী), বাইরে PVC-র আবরণ (অপরিবাহী)। বিদ্যুতের খুঁটিতে তারগুলো পোর্সেলিন বা কাচের অন্তরকে আটকানো থাকে। বাংলাদেশের ছাদে আর গ্রামের বাড়িতে বসানো সোলার প্যানেল তৈরি সিলিকন দিয়ে, যা অর্ধপরিবাহী।
+## example
+প্রশ্ন: শ্রেণিবিভাগ করো: তামা, কাচ, সিলিকন, রাবার, অ্যালুমিনিয়াম, জার্মেনিয়াম।
+সমাধান: পরিবাহীতে মুক্ত ইলেকট্রন থাকে; অপরিবাহীতে থাকে না; অর্ধপরিবাহী মাঝামাঝি।
+উত্তর: পরিবাহী: তামা, অ্যালুমিনিয়াম। অপরিবাহী: কাচ, রাবার। অর্ধপরিবাহী: সিলিকন, জার্মেনিয়াম।
+## mistakes
+x ধাতব তারে ধনাত্মক চার্জ তার বরাবর প্রবাহিত হয়।
+v ধনাত্মক আয়ন নিজের জায়গায় থাকে; শুধু মুক্ত ইলেকট্রন চলে।
+x গরম করলে যেকোনো পদার্থ ভালো পরিবহন করে।
+v গরম করলে ধাতুর পরিবহন কমে (রোধ বাড়ে), কিন্তু অর্ধপরিবাহীর বাড়ে।
+## remember
+- পরিবাহী: মুক্ত ইলেকট্রন আছে; রুপা, তামা, সোনা, অ্যালুমিনিয়াম।
+- অপরিবাহী: মুক্ত ইলেকট্রন নেই; প্লাস্টিক, রাবার, কাচ, কাঠ।
+- অর্ধপরিবাহী: সিলিকন, জার্মেনিয়াম; তাপমাত্রা বাড়লে পরিবহন বাড়ে।
+## think
+বিশুদ্ধ পানি খারাপ পরিবাহী, তবু বলা হয় ভেজা হাতে কখনো সুইচ ছুঁয়ো না। কেন? (ইঙ্গিত: কলের পানি আর ঘামে কী দ্রবীভূত থাকে?)
+## quiz
+? পরিবাহীর মধ্য দিয়ে সহজে বিদ্যুৎ চলে কারণ এতে আছে:
+- অনেক প্রোটন
+* মুক্ত ইলেকট্রন
+- কোনো পরমাণু নেই
+- মুক্তভাবে চলা ধনাত্মক আয়ন
+= পরিবাহীতে মুক্ত ইলেকট্রন চার্জ বহন করে।
+? কোনটি অর্ধপরিবাহী?
+- তামা
+- রাবার
+* সিলিকন
+- কাচ
+= সিলিকন আর জার্মেনিয়াম অর্ধপরিবাহী।
+? অর্ধপরিবাহীকে গরম করলে এর পরিবহন ক্ষমতা:
+* বাড়ে
+- কমে
+- একই থাকে
+- শূন্য হয়
+= তাপে অর্ধপরিবাহীতে আরও ইলেকট্রন মুক্ত হয়।
+
+@@ 11.1.3
+@visual c11flow
+@related 11.1 11.1.2 10.1 12.2
+== en
+## what
+By convention, **electric current flows from the positive (high potential) terminal to the negative (low potential) terminal** outside a source. In a metal wire, the **electrons** that actually move go the **opposite** way.
+## simple
+When a sphere A at high potential is joined to a sphere B at lower potential, we say **positive charge flows from A to B**. But wait: in a metal only electrons can move; the positive ions are locked in place. So how can positive charge travel?
+
+Here is the trick. A **positive** charge is really a **shortage of electrons**. If electrons move from B to A, B loses electrons (becomes more positive) and A gains them (becomes less positive). The effect is exactly **as if positive charge had moved from A to B**.
+
+So there are two ways to describe the same event:
+
+- **Conventional current**: the direction positive charge would move, from **high potential to low potential** (from + to − through the outside circuit).
+- **Electron flow**: the direction electrons actually move, from **− to +**, opposite to the conventional current.
+
+A current of 1 A from A to B means 1 C of positive charge per second "moves" from A to B, which in a wire really means the electrons carrying 1 C move from B to A every second.
+
+Why this back-to-front situation? The direction of current was chosen long before anyone knew about electrons, and at that time it was decided to call the charge that moves "positive". Later we found the moving charges in wires are negative. As the book jokes, everything would have been simpler if the electron's charge had been called positive, but by then it was too late! All circuit diagrams and rules use **conventional current**, and that works perfectly well.
+## definition
+**Direction of electric current (conventional current)**: the direction in which positive charge would flow, i.e. from higher potential to lower potential; in the external circuit, from the positive terminal of the source to the negative terminal.
+
+**Electron flow**: the actual motion of electrons in a metallic conductor, from lower potential to higher potential, opposite to the conventional current.
+## why
+Why do both descriptions give the same answers? Moving negative charge one way changes the charges at both ends exactly as moving the same amount of positive charge the other way would. The potentials, the energy delivered and the heating are identical, so for circuit calculations the choice makes no difference.
+## terms
+Conventional current | Direction of flow of positive charge: high → low potential, + → −
+Electron flow | Actual motion of electrons: − → +
+Positive charge (in a metal) | A shortage of electrons
+## visual
+Switch between "conventional current" and "electrons". The same circuit, the same current: the arrows simply point opposite ways.
+## real
+Arrows on circuit diagrams, on diodes (the triangle in the symbol) and on the terminals of a mobile charger all follow conventional current, from + to −.
+## example
+Q: A current of 1 A flows from point A to point B in a copper wire. What actually moves, and in which direction?
+Solution: in copper only electrons move. Conventional current is opposite to electron flow.
+Answer: Electrons carrying 1 C of charge (about 6.25 × 10^{18} electrons) move from B to A every second.
+## mistakes
+x Current flows in the same direction as electrons.
+v Conventional current flows from + to −; electrons move from − to +.
+x Because electrons move from − to +, circuit diagrams draw current from − to +.
+v Circuit diagrams and rules use conventional current, from + to − in the outer circuit.
+## remember
+- Conventional current: high potential → low potential (+ → − outside the cell).
+- Electrons in a wire move the opposite way (− → +).
+- Positive charge in a metal = shortage of electrons.
+## think
+In a car battery charger, current is pushed **into** the + terminal of the battery. Which way do the electrons move inside the connecting wire at that terminal?
+## quiz
+? In the external circuit, conventional current flows from:
+* The + terminal to the − terminal
+- The − terminal to the + terminal
+- Both ways at once
+- It does not flow outside the cell
+= Conventional current goes from high potential (+) to low potential (−).
+? In a metal wire, the charges that actually move are:
+- Protons
+- Positive ions
+* Electrons
+- Neutrons
+= Only free electrons move in a metal.
+== bn
+## what
+প্রচলিত নিয়মে উৎসের বাইরে **বিদ্যুৎপ্রবাহ চলে ধনাত্মক (উচ্চ বিভব) প্রান্ত থেকে ঋণাত্মক (নিম্ন বিভব) প্রান্তের দিকে**। ধাতব তারে আসলে যে **ইলেকট্রন** চলে, তা যায় **উল্টো** দিকে।
+## simple
+উচ্চ বিভবের গোলক A-কে নিম্ন বিভবের গোলক B-এর সাথে জুড়লে আমরা বলি **ধনাত্মক চার্জ A থেকে B-তে যায়**। কিন্তু দাঁড়াও: ধাতুতে তো শুধু ইলেকট্রন চলতে পারে; ধনাত্মক আয়ন নিজের জায়গায় আটকানো। তাহলে ধনাত্মক চার্জ যায় কীভাবে?
+
+রহস্যটা এখানে। **ধনাত্মক** চার্জ আসলে **ইলেকট্রনের ঘাটতি**। ইলেকট্রন B থেকে A-তে গেলে B ইলেকট্রন হারায় (আরও ধনাত্মক হয়), আর A ইলেকট্রন পায় (কম ধনাত্মক হয়)। ফলটা হুবহু **যেন ধনাত্মক চার্জ A থেকে B-তে গেছে**।
+
+তাই একই ঘটনা দুভাবে বলা যায়:
+
+- **প্রচলিত বিদ্যুৎপ্রবাহ**: ধনাত্মক চার্জ যেদিকে যেত, অর্থাৎ **উচ্চ বিভব থেকে নিম্ন বিভবে** (বাইরের বর্তনীতে + থেকে −)।
+- **ইলেকট্রন প্রবাহ**: ইলেকট্রন আসলে যেদিকে চলে, **− থেকে +**, প্রচলিত প্রবাহের বিপরীতে।
+
+A থেকে B-তে ১ A প্রবাহ মানে প্রতি সেকেন্ডে ১ C ধনাত্মক চার্জ A থেকে B-তে "যাচ্ছে", যার আসল অর্থ তারে প্রতি সেকেন্ডে ১ C চার্জ বহনকারী ইলেকট্রন B থেকে A-তে যাচ্ছে।
+
+এই উল্টোপাল্টা অবস্থা কেন? ইলেকট্রন আবিষ্কারের অনেক আগেই প্রবাহের দিক ঠিক করা হয়েছিল, আর তখন চলমান চার্জকে "ধনাত্মক" ধরা হয়েছিল। পরে দেখা গেল তারে চলমান চার্জ ঋণাত্মক। বইয়ে মজা করে বলা হয়েছে, ইলেকট্রনের চার্জকে ধনাত্মক বললে সব ঝামেলা মিটে যেত, কিন্তু ততদিনে অনেক দেরি হয়ে গেছে! সব বর্তনী চিত্র আর নিয়মে **প্রচলিত প্রবাহ** ব্যবহার হয়, আর তাতে কোনো অসুবিধা হয় না।
+## definition
+**বিদ্যুৎপ্রবাহের দিক (প্রচলিত প্রবাহ)**: ধনাত্মক চার্জ যেদিকে প্রবাহিত হতো সেই দিক, অর্থাৎ উচ্চ বিভব থেকে নিম্ন বিভবের দিকে; বাইরের বর্তনীতে উৎসের ধনাত্মক প্রান্ত থেকে ঋণাত্মক প্রান্তের দিকে।
+
+**ইলেকট্রন প্রবাহ**: ধাতব পরিবাহীতে ইলেকট্রনের প্রকৃত চলাচল, নিম্ন বিভব থেকে উচ্চ বিভবের দিকে, প্রচলিত প্রবাহের বিপরীতে।
+## why
+দুটি বর্ণনাই একই উত্তর দেয় কেন? ঋণাত্মক চার্জ একদিকে সরালে দুই প্রান্তের চার্জ ঠিক ততটাই বদলায়, যতটা একই পরিমাণ ধনাত্মক চার্জ উল্টো দিকে সরালে বদলাত। বিভব, সরবরাহকৃত শক্তি, উৎপন্ন তাপ সব একই, তাই বর্তনীর হিসাবে কোনটা বেছে নিলাম তাতে কিছু যায় আসে না।
+## terms
+প্রচলিত প্রবাহ | ধনাত্মক চার্জ প্রবাহের দিক: উচ্চ → নিম্ন বিভব, + → −
+ইলেকট্রন প্রবাহ | ইলেকট্রনের প্রকৃত চলাচল: − → +
+ধনাত্মক চার্জ (ধাতুতে) | ইলেকট্রনের ঘাটতি
+## visual
+"প্রচলিত প্রবাহ" আর "ইলেকট্রন" এর মধ্যে বদলাও। একই বর্তনী, একই প্রবাহ: শুধু তীরগুলো উল্টো দিকে দেখায়।
+## real
+বর্তনী চিত্রের তীর, ডায়োডের প্রতীকের ত্রিভুজ আর মোবাইল চার্জারের প্রান্তের চিহ্ন সবই প্রচলিত প্রবাহ মেনে চলে, + থেকে −।
+## example
+প্রশ্ন: তামার তারে A বিন্দু থেকে B বিন্দুর দিকে ১ A প্রবাহ চলছে। আসলে কী চলছে, আর কোন দিকে?
+সমাধান: তামায় শুধু ইলেকট্রন চলে। প্রচলিত প্রবাহ ইলেকট্রন প্রবাহের বিপরীত।
+উত্তর: প্রতি সেকেন্ডে ১ C চার্জ বহনকারী ইলেকট্রন (প্রায় ৬.২৫ × ১০^{১৮}টি) B থেকে A-তে যায়।
+## mistakes
+x ইলেকট্রন যেদিকে যায়, প্রবাহও সেদিকে চলে।
+v প্রচলিত প্রবাহ চলে + থেকে −; ইলেকট্রন চলে − থেকে +।
+x ইলেকট্রন − থেকে + এ যায় বলে বর্তনী চিত্রে প্রবাহ − থেকে + আঁকা হয়।
+v বর্তনী চিত্র আর নিয়মগুলো প্রচলিত প্রবাহ ব্যবহার করে, বাইরের বর্তনীতে + থেকে −।
+## remember
+- প্রচলিত প্রবাহ: উচ্চ বিভব → নিম্ন বিভব (কোষের বাইরে + → −)।
+- তারে ইলেকট্রন চলে উল্টো দিকে (− → +)।
+- ধাতুতে ধনাত্মক চার্জ = ইলেকট্রনের ঘাটতি।
+## think
+গাড়ির ব্যাটারি চার্জারে ব্যাটারির + প্রান্তে প্রবাহ **ভেতরে** ঠেলে দেওয়া হয়। ওই প্রান্তের সংযোগ তারে ইলেকট্রন কোন দিকে চলে?
+## quiz
+? বাইরের বর্তনীতে প্রচলিত প্রবাহ চলে:
+* + প্রান্ত থেকে − প্রান্তে
+- − প্রান্ত থেকে + প্রান্তে
+- একসাথে দুই দিকে
+- কোষের বাইরে প্রবাহ চলে না
+= প্রচলিত প্রবাহ উচ্চ বিভব (+) থেকে নিম্ন বিভবে (−) যায়।
+? ধাতব তারে আসলে যে চার্জ চলে:
+- প্রোটন
+- ধনাত্মক আয়ন
+* ইলেকট্রন
+- নিউট্রন
+= ধাতুতে শুধু মুক্ত ইলেকট্রন চলে।
+
+@@ 11.2.1
+@visual c11ohm
+@related 11.2.2 11.2.3 11.1.1 11.3
+@media https://phet.colorado.edu/en/simulations/ohms-law | Ohm's Law (PhET simulation) | ওহমের সূত্র (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Ohm's law**: at constant temperature (and other physical conditions unchanged), the current through a conductor is directly proportional to the potential difference across it: I = V/R, or V = IR. The constant R is the **resistance**, measured in **ohms (Ω)**.
+## simple
+If you connect a wire to a battery, how much current flows? Would a gold wire and an iron wire carry the same current? Let's find out with an experiment, as the book suggests.
+
+**The experiment.** Connect a piece of wire to some cells. Put an **ammeter** in series to measure the current, and a **voltmeter** across the wire to measure the potential difference. One cell gives 1.5 V, two cells in series give 2 × 1.5 = 3 V, three give 4.5 V, and so on. Turn the cells around and the potential difference becomes negative. Measure the current each time.
+
+**What you find:**
+
+- The **greater** the potential difference, the **greater** the current, in the same proportion: double V, and I doubles.
+- If V is **reversed** (negative), the current also **reverses direction**.
+
+Plot I against V and you get a **straight line through the origin**. So I ∝ V.
+
+Now repeat with a wire of a different material. You again get a straight line, but with a **different slope**. For the same V, one wire lets more current through than the other. It is as if current flows **easily** through the first and with more **difficulty** through the second. We call this difficulty **resistance**, R, and write:
+
+**I = V / R**, or **V = IR**
+
+That is Ohm's law. **More resistance → less current; less resistance → more current.** On an I–V graph, a steeper line means a smaller resistance (slope = 1/R).
+
+**The unit.** Resistance is measured in **ohm**, written with the Greek letter **Ω** (omega). If a potential difference of 1 V drives a current of 1 A through a conductor, its resistance is 1 Ω.
+
+**A handy trick: the triangle.** Write V on top and I × R below it in a triangle. Cover the quantity you want with your finger: cover V and you see I × R; cover I and you see V/R; cover R and you see V/I.
+
+**An important condition.** The straight line holds only if the conductor's temperature stays the same. A bulb filament gets white-hot as the current rises, its resistance grows, and its I–V graph bends. That is why the law is stated "at constant temperature".
+## analogy
+Ohm's law is like water flowing through a pipe. The voltage is the **push** (like the height of the tank), the resistance is how **narrow** the pipe is, and the current is how much water flows. More push → more flow; narrower pipe → less flow. V = IR puts those three together.
+## definition
+**Ohm's law**: if the temperature and other physical conditions of a conductor remain unchanged, the current flowing through it is directly proportional to the potential difference between its two ends: I ∝ V, i.e. V = IR.
+
+**Resistance (R)**: the property of a conductor that opposes the flow of current through it; R = V/I. Unit: **ohm (Ω)**. A conductor has a resistance of 1 Ω if a potential difference of 1 V across it drives a current of 1 A.
+## why
+Why does a larger voltage give a larger current? The potential difference sets up an electric field inside the wire that pushes the free electrons along. A bigger push makes them drift faster between collisions with the vibrating atoms, so more charge passes each second. The collisions are what we call resistance.
+## terms
+Ohm's law | V = IR at constant temperature
+Resistance (R) | Opposition to the flow of current
+Ohm (Ω) | 1 V ÷ 1 A
+Ammeter | Measures current; connected in series
+Voltmeter | Measures potential difference; connected across (in parallel)
+I–V graph | Straight line through the origin for an ohmic conductor
+## formula
+$$ V = IR
+tri V | I | R
+$$ I = V / R
+$$ R = V / I
+V | potential difference | V
+I | current | A
+R | resistance | Ω
+! Slope of the I–V graph = 1/R: steeper line → smaller resistance.
+! Valid only when temperature is constant.
+## visual
+Change the voltage (try negative values) and the resistance. Watch the ammeter reading and the point moving along the I–V line. A bigger R makes the line flatter.
+## real
+A phone charger cable, a heater coil and a bulb filament all follow V = IR in the moment: knowing any two of V, I and R, an electrician can find the third. Electricians use a **multimeter**, a single instrument that can work as a voltmeter, ammeter or ohmmeter at the turn of a switch.
+## example
+Q: The potential difference across a conductor is 100 V and a current of 10 A flows through it. What is its resistance?
+Given: V = 100 V, I = 10 A
+Formula: R = V/I
+Substitution: R = 100 ÷ 10
+Answer: R = 10 Ω
+## example
+Q: The filament of a bulb has a resistance of 484 Ω. What current flows when it is connected to the 220 V supply line?
+Given: V = 220 V, R = 484 Ω
+Formula: I = V/R
+Substitution: I = 220 ÷ 484
+Calculation: I ≈ 0.45 A
+Answer: about 0.45 A
+## example
+Q: A current of 0.5 A flows through a 12 Ω resistor. What is the potential difference across it?
+Given: I = 0.5 A, R = 12 Ω
+Formula: V = IR
+Calculation: V = 0.5 × 12 = 6 V
+Answer: 6 V
+## mistakes
+x Resistance depends on the voltage: double V and R doubles.
+v For an ohmic conductor at constant temperature R stays the same; doubling V doubles I.
+x A steeper I–V line means more resistance.
+v On an I (up) against V (across) graph, a steeper line means more current for the same V, so **less** resistance.
+x Ohm's law holds for a bulb filament at all voltages.
+v The filament heats up and its resistance rises, so its I–V graph curves.
+## remember
+- V = IR (at constant temperature).
+- Resistance unit: ohm (Ω) = V/A.
+- I–V graph: straight line through origin; slope = 1/R.
+- Ammeter in series, voltmeter across.
+## think
+Why is it difficult to do an experiment to test whether the filament of a bulb obeys Ohm's law?
+## quiz
+? The potential difference between the ends of a conductor is 100 V and the current is 10 A. Its resistance is:
+- 1000 Ω
+- 0.1 Ω
+* 10 Ω
+- 110 Ω
+= R = V/I = 100 ÷ 10 = 10 Ω.
+? If the potential difference across a resistor is doubled (temperature constant), the current:
+- Halves
+- Stays the same
+* Doubles
+- Becomes four times
+= I ∝ V by Ohm's law.
+? Two wires give straight I–V lines; line P is steeper than line Q. Then:
+* P has less resistance than Q
+- P has more resistance than Q
+- Both have the same resistance
+- Neither obeys Ohm's law
+= Slope = 1/R, so the steeper line has the smaller resistance.
+? Ohm's law is valid when:
+- The current is very large
+* The temperature of the conductor stays constant
+- The conductor is a semiconductor
+- The voltage is alternating only
+= Resistance changes with temperature, so the law needs constant temperature.
+== bn
+## what
+**ওহমের সূত্র**: তাপমাত্রা (ও অন্যান্য ভৌত অবস্থা) স্থির থাকলে কোনো পরিবাহীর মধ্য দিয়ে প্রবাহ এর দুই প্রান্তের বিভব পার্থক্যের সমানুপাতিক: I = V/R, বা V = IR। ধ্রুবক R হলো **রোধ**, একক **ওহম (Ω)**।
+## simple
+একটি তারকে ব্যাটারির সাথে জুড়লে কত প্রবাহ চলবে? সোনার তার আর লোহার তারে কি একই প্রবাহ চলবে? বইয়ের মতো একটা পরীক্ষা করে দেখা যাক।
+
+**পরীক্ষা।** এক টুকরো তার কয়েকটি কোষের সাথে জোড়ো। প্রবাহ মাপতে শ্রেণিতে একটি **অ্যামিটার** লাগাও, আর বিভব পার্থক্য মাপতে তারের দুই প্রান্তে একটি **ভোল্টমিটার**। একটি কোষে ১.৫ V, শ্রেণিতে দুটি কোষে ২ × ১.৫ = ৩ V, তিনটিতে ৪.৫ V, এভাবে। কোষগুলো উল্টে দিলে বিভব পার্থক্য ঋণাত্মক হয়। প্রতিবার প্রবাহ মাপো।
+
+**যা পাবে:**
+
+- বিভব পার্থক্য যত **বেশি**, প্রবাহও তত **বেশি**, একই অনুপাতে: V দ্বিগুণ হলে I দ্বিগুণ।
+- V **উল্টে** দিলে (ঋণাত্মক) প্রবাহের **দিকও উল্টে** যায়।
+
+V-এর সাপেক্ষে I-এর লেখচিত্র আঁকলে পাবে **মূলবিন্দুগামী একটি সরলরেখা**। তাই I ∝ V।
+
+এবার অন্য পদার্থের তার দিয়ে আবার করো। আবার সরলরেখা, কিন্তু **ঢাল আলাদা**। একই V-তে একটি তার অন্যটির চেয়ে বেশি প্রবাহ যেতে দেয়। যেন প্রথমটিতে প্রবাহ **সহজে** চলে আর দ্বিতীয়টিতে **কষ্ট করে**। এই বাধাকেই বলি **রোধ**, R, আর লিখি:
+
+**I = V / R**, অথবা **V = IR**
+
+এটাই ওহমের সূত্র। **রোধ বেশি → প্রবাহ কম; রোধ কম → প্রবাহ বেশি।** I–V লেখচিত্রে যে রেখা বেশি খাড়া, তার রোধ কম (ঢাল = 1/R)।
+
+**একক।** রোধের একক **ওহম**, গ্রিক অক্ষর **Ω** (ওমেগা) দিয়ে লেখা হয়। কোনো পরিবাহীর দুই প্রান্তে ১ V বিভব পার্থক্য দিলে ১ A প্রবাহ চললে তার রোধ ১ Ω।
+
+**একটা মজার কৌশল: ত্রিভুজ।** একটি ত্রিভুজে ওপরে V আর নিচে I × R লেখো। যেটা বের করতে চাও, আঙুল দিয়ে সেটা ঢাকো: V ঢাকলে দেখবে I × R; I ঢাকলে V/R; R ঢাকলে V/I।
+
+**একটা জরুরি শর্ত।** সরলরেখাটা পাওয়া যায় শুধু যদি পরিবাহীর তাপমাত্রা একই থাকে। প্রবাহ বাড়লে বাল্বের ফিলামেন্ট সাদা হয়ে জ্বলে ওঠে, এর রোধ বাড়ে, আর I–V লেখচিত্র বেঁকে যায়। এজন্যই সূত্রটি বলা হয় "তাপমাত্রা স্থির থাকলে"।
+## analogy
+ওহমের সূত্র যেন পাইপে পানির প্রবাহ। ভোল্টেজ হলো **ঠেলা** (ট্যাংকের উচ্চতার মতো), রোধ হলো পাইপ কতটা **সরু**, আর প্রবাহ হলো কত পানি যায়। বেশি ঠেলা → বেশি প্রবাহ; সরু পাইপ → কম প্রবাহ। V = IR এই তিনটিকে একসাথে যুক্ত করে।
+## definition
+**ওহমের সূত্র**: তাপমাত্রা ও অন্যান্য ভৌত অবস্থা অপরিবর্তিত থাকলে কোনো পরিবাহীর মধ্য দিয়ে যে প্রবাহ চলে তা ওই পরিবাহীর দুই প্রান্তের বিভব পার্থক্যের সমানুপাতিক: I ∝ V, অর্থাৎ V = IR।
+
+**রোধ (R)**: পরিবাহীর যে ধর্মের কারণে এর মধ্য দিয়ে প্রবাহ বাধা পায়; R = V/I। একক: **ওহম (Ω)**। কোনো পরিবাহীর দুই প্রান্তে ১ V বিভব পার্থক্যে ১ A প্রবাহ চললে এর রোধ ১ Ω।
+## why
+বেশি ভোল্টেজে বেশি প্রবাহ কেন? বিভব পার্থক্য তারের ভেতরে একটি তড়িৎক্ষেত্র তৈরি করে, যা মুক্ত ইলেকট্রনকে সামনে ঠেলে। বেশি ঠেলা পেলে কম্পমান পরমাণুর সাথে দুটি ধাক্কার মাঝে ইলেকট্রন দ্রুত সরে, তাই প্রতি সেকেন্ডে বেশি চার্জ যায়। ওই ধাক্কাগুলোকেই আমরা বলি রোধ।
+## terms
+ওহমের সূত্র | স্থির তাপমাত্রায় V = IR
+রোধ (R) | প্রবাহের বিরুদ্ধে বাধা
+ওহম (Ω) | ১ V ÷ ১ A
+অ্যামিটার | প্রবাহ মাপে; শ্রেণিতে যুক্ত হয়
+ভোল্টমিটার | বিভব পার্থক্য মাপে; দুই প্রান্তে (সমান্তরালে) যুক্ত হয়
+I–V লেখচিত্র | ওহমীয় পরিবাহীর জন্য মূলবিন্দুগামী সরলরেখা
+## formula
+$$ V = IR
+tri V | I | R
+$$ I = V / R
+$$ R = V / I
+V | বিভব পার্থক্য | V
+I | তড়িৎ প্রবাহ | A
+R | রোধ | Ω
+! I–V লেখচিত্রের ঢাল = 1/R: রেখা যত খাড়া, রোধ তত কম।
+! শুধু তাপমাত্রা স্থির থাকলে প্রযোজ্য।
+## visual
+ভোল্টেজ (ঋণাত্মক মানও চেষ্টা করো) আর রোধ বদলাও। অ্যামিটারের পাঠ আর I–V রেখা বরাবর বিন্দুর চলা দেখো। R বাড়ালে রেখা চ্যাপ্টা হয়।
+## real
+ফোনের চার্জার কেবল, হিটারের কয়েল, বাল্বের ফিলামেন্ট সবাই যেকোনো মুহূর্তে V = IR মেনে চলে: V, I, R-এর যেকোনো দুটি জানলে ইলেকট্রিশিয়ান তৃতীয়টি বের করতে পারেন। ইলেকট্রিশিয়ানরা **মাল্টিমিটার** ব্যবহার করেন, একটিমাত্র যন্ত্র যা সুইচ ঘুরিয়ে ভোল্টমিটার, অ্যামিটার বা ওহমমিটার হিসেবে কাজ করে।
+## example
+প্রশ্ন: একটি পরিবাহীর দুই প্রান্তের বিভব পার্থক্য ১০০ V আর এর মধ্য দিয়ে ১০ A প্রবাহ চলে। এর রোধ কত?
+দেওয়া আছে: V = ১০০ V, I = ১০ A
+সূত্র: R = V/I
+মান বসাই: R = ১০০ ÷ ১০
+উত্তর: R = ১০ Ω
+## example
+প্রশ্ন: একটি বাল্বের ফিলামেন্টের রোধ ৪৮৪ Ω। ২২০ V সরবরাহ লাইনে যুক্ত করলে কত প্রবাহ চলবে?
+দেওয়া আছে: V = ২২০ V, R = ৪৮৪ Ω
+সূত্র: I = V/R
+মান বসাই: I = ২২০ ÷ ৪৮৪
+হিসাব: I ≈ ০.৪৫ A
+উত্তর: প্রায় ০.৪৫ A
+## example
+প্রশ্ন: ১২ Ω রোধের মধ্য দিয়ে ০.৫ A প্রবাহ চলছে। এর দুই প্রান্তের বিভব পার্থক্য কত?
+দেওয়া আছে: I = ০.৫ A, R = ১২ Ω
+সূত্র: V = IR
+হিসাব: V = ০.৫ × ১২ = ৬ V
+উত্তর: ৬ V
+## mistakes
+x রোধ ভোল্টেজের ওপর নির্ভর করে: V দ্বিগুণ হলে R দ্বিগুণ হয়।
+v স্থির তাপমাত্রায় ওহমীয় পরিবাহীর R একই থাকে; V দ্বিগুণ হলে I দ্বিগুণ হয়।
+x I–V রেখা বেশি খাড়া মানে রোধ বেশি।
+v I (খাড়া অক্ষে) বনাম V (আনুভূমিক অক্ষে) লেখচিত্রে খাড়া রেখা মানে একই V-তে বেশি প্রবাহ, অর্থাৎ **কম** রোধ।
+x বাল্বের ফিলামেন্ট সব ভোল্টেজে ওহমের সূত্র মানে।
+v ফিলামেন্ট গরম হয়ে এর রোধ বাড়ে, তাই এর I–V লেখচিত্র বেঁকে যায়।
+## remember
+- V = IR (স্থির তাপমাত্রায়)।
+- রোধের একক: ওহম (Ω) = V/A।
+- I–V লেখচিত্র: মূলবিন্দুগামী সরলরেখা; ঢাল = 1/R।
+- অ্যামিটার শ্রেণিতে, ভোল্টমিটার দুই প্রান্তে।
+## think
+বাল্বের ফিলামেন্ট ওহমের সূত্র মানে কি না, তা পরীক্ষা করা কঠিন কেন?
+## quiz
+? একটি পরিবাহীর দুই প্রান্তের বিভব পার্থক্য ১০০ V আর প্রবাহ ১০ A। এর রোধ:
+- ১০০০ Ω
+- ০.১ Ω
+* ১০ Ω
+- ১১০ Ω
+= R = V/I = ১০০ ÷ ১০ = ১০ Ω।
+? কোনো রোধের দুই প্রান্তের বিভব পার্থক্য দ্বিগুণ করলে (তাপমাত্রা স্থির) প্রবাহ:
+- অর্ধেক হয়
+- একই থাকে
+* দ্বিগুণ হয়
+- চার গুণ হয়
+= ওহমের সূত্র অনুযায়ী I ∝ V।
+? দুটি তারের I–V সরলরেখার মধ্যে P রেখা Q-এর চেয়ে বেশি খাড়া। তাহলে:
+* P-এর রোধ Q-এর চেয়ে কম
+- P-এর রোধ Q-এর চেয়ে বেশি
+- দুটির রোধ সমান
+- কোনোটিই ওহমের সূত্র মানে না
+= ঢাল = 1/R, তাই খাড়া রেখার রোধ কম।
+? ওহমের সূত্র প্রযোজ্য যখন:
+- প্রবাহ খুব বেশি
+* পরিবাহীর তাপমাত্রা স্থির থাকে
+- পরিবাহীটি অর্ধপরিবাহী
+- ভোল্টেজ শুধু পরিবর্তী
+= তাপমাত্রার সাথে রোধ বদলায়, তাই সূত্রের জন্য স্থির তাপমাত্রা লাগে।
+
+@@ 11.2.2
+@visual c11rho
+@related 11.2.1 11.1.2 11.2.4 11.4
+@media https://phet.colorado.edu/en/simulations/resistance-in-a-wire | Resistance in a Wire (PhET simulation) | তারের রোধ (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+The **resistance** of a wire depends on its **length** (R ∝ L), its **cross-sectional area** (R ∝ 1/A), its **material** and its **temperature**: R = ρL/A. The material constant ρ is the **resistivity** (specific resistance), and its reciprocal σ = 1/ρ is the **conductivity**.
+## simple
+Resistance is the obstacle that current meets. What decides how big that obstacle is?
+
+**1. Length.** Imagine walking through a crowded market lane. The longer the lane, the more people you bump into. In the same way, the electrons in a **longer** wire meet more obstacles. Double the length, and the resistance doubles: **R ∝ L**.
+
+**2. Cross-sectional area.** A wide road carries traffic more easily than a narrow alley. A **thicker** wire gives the current more room, so its resistance is lower. Double the area, and the resistance halves: **R ∝ 1/A**.
+
+Putting these together with a constant ρ (rho):
+
+**R = ρL / A**
+
+**3. Material.** The constant ρ is called the **resistivity** or **specific resistance** (আপেক্ষিক রোধ). It depends only on the material (and temperature), not on the shape. Its unit is **Ω m**. Silver has the smallest resistivity (about 1.6 × 10^{-8} Ω m), copper is almost as good and much cheaper, which is why house wires are copper. Nichrome has about 60 times the resistivity of copper, so heater coils are made of it.
+
+To describe how **well** a material conducts, we use its **conductivity**, σ = 1/ρ, unit (Ω m)^{-1}. A good conductor has high σ and low ρ.
+
+**4. Temperature.** As the book reminds us, resistance is really the obstacle the electrons meet while moving past the atoms. When a metal gets hotter, its atoms vibrate more, the electrons bump into them more often, and the resistance **rises**. So a resistance or resistivity value must always be quoted at a stated temperature. A semiconductor behaves the opposite way: heating frees more electrons, so its resistance **falls**.
+
+**How long is a 1 Ω copper wire?** From R = ρL/A, L = RA/ρ. With A = 1 m² (a very fat bar!), a 1 Ω piece of silver would be 6.25 × 10^{7} m long, more than 60 thousand kilometres. Real wires are thin: with a radius of 0.1 mm (A = 3.14 × 10^{-8} m²), 1 Ω needs only about 1.96 m of silver, 1.85 m of copper, 57 cm of tungsten, or about 3 cm of nichrome.
+
+**Fixed and variable resistors.** In circuits we use specially made **resistors**. A **fixed resistor** has one definite value; small ones are marked with coloured bands, and their power rating (how much power they can safely handle) is also given. A **variable resistor** or **rheostat** (রিওস্টেট) can be adjusted within a range. A fixed resistor has two terminals; a variable one has a third, sliding terminal, and the resistance between it and an end changes as you move it. The volume knob of a radio and a fan regulator work this way.
+## analogy
+Resistance of a wire is like walking through a crowded market lane. A longer lane → more people to squeeze past (more resistance). A wider lane → easier (less resistance). And some lanes (materials) are naturally more crowded than others: that's resistivity.
+## definition
+**Laws of resistance**: at constant temperature, the resistance of a conductor is directly proportional to its length and inversely proportional to its cross-sectional area, and depends on its material: R = ρL/A.
+
+**Resistivity (specific resistance), ρ**: the resistance of a conductor of that material of unit length and unit cross-sectional area, at a given temperature; ρ = RA/L. Unit: Ω m.
+
+**Conductivity, σ**: the reciprocal of resistivity, σ = 1/ρ. Unit: (Ω m)^{-1}.
+
+**Variable resistor (rheostat)**: a resistor whose value can be changed within a certain range.
+## why
+Why does a longer, thinner or hotter wire resist more? In a longer wire the electrons must pass more atoms; in a thinner wire fewer electrons can move side by side, so less charge passes each second; in a hotter wire the atoms vibrate more and scatter the electrons more often. All three make it harder for charge to get through.
+## terms
+Resistance (R) | Opposition to current, depends on L, A, material, temperature
+Resistivity / specific resistance (ρ) | Material property, Ω m
+Conductivity (σ) | 1/ρ, (Ω m)^{-1}
+Fixed resistor | Resistor with one set value
+Variable resistor / rheostat | Resistor whose value can be adjusted
+Nichrome | High-resistivity alloy used in heaters
+## formula
+$$ R = ρL / A
+$$ ρ = RA / L
+$$ σ = 1 / ρ
+$$ Round wire: A = πr²
+R | resistance | Ω
+ρ | resistivity | Ω m
+L | length | m
+A | cross-sectional area | m²
+σ | conductivity | (Ω m)^{-1}
+! Resistivity values (about room temperature): silver 1.59 × 10^{-8}, copper 1.68 × 10^{-8}, gold 2.44 × 10^{-8}, graphite about 2.5 × 10^{-6} Ω m; diamond and air are enormous (insulators).
+! Doubling the radius makes A four times, so R becomes one quarter.
+## visual
+Choose a material and change the length and thickness of the wire. Watch how the resistance changes, and find the length of wire that gives 1 Ω.
+## real
+The heating element of an electric iron, kettle or heater is nichrome: high resistivity gives a lot of resistance in a short coil. Thick copper cables are used for air conditioners and water pumps so that their resistance, and the heat wasted in them, stays small.
+## example
+Q: The resistivities of silver, copper, tungsten and nichrome are 1.6 × 10^{-8}, 1.7 × 10^{-8}, 5.5 × 10^{-8} and 100 × 10^{-8} Ω m. What length of wire of cross-sectional area 1 m² gives a resistance of 1 Ω for each?
+Formula: R = ρL/A → L = RA/ρ = 1 × 1 ÷ ρ
+Calculation: silver: 1 ÷ (1.6 × 10^{-8}) = 6.25 × 10^{7} m; copper: 5.9 × 10^{7} m; tungsten: 1.8 × 10^{7} m; nichrome: 1.0 × 10^{6} m
+> These are tens of thousands of kilometres. A wire 1 m² thick is not practical.
+Answer: silver 6.25 × 10^{7} m, copper 5.9 × 10^{7} m, tungsten 1.8 × 10^{7} m, nichrome 1.0 × 10^{6} m
+## example
+Q: Now use a practical wire of radius 0.1 mm. How long must each wire be for 1 Ω?
+Given: r = 0.1 mm = 10^{-4} m
+Calculation: A = πr² = 3.14 × (10^{-4})² = 3.14 × 10^{-8} m²; L = A/ρ
+Calculation: silver: 3.14 × 10^{-8} ÷ 1.6 × 10^{-8} ≈ 1.96 m; copper ≈ 1.85 m; tungsten ≈ 0.57 m; nichrome ≈ 0.031 m
+Answer: silver ≈ 1.96 m, copper ≈ 1.85 m, tungsten ≈ 57 cm, nichrome ≈ 3 cm
+## example
+Q: The length of a wire is made 5 times longer, keeping its material, area and temperature the same. What happens to its resistance?
+Formula: R = ρL/A, so R ∝ L when ρ and A are fixed
+Answer: The resistance becomes 5 times as large.
+## mistakes
+x A thicker wire has more resistance because it has more metal.
+v A thicker wire has **less** resistance: R ∝ 1/A.
+x Resistivity changes if you cut the wire shorter.
+v Resistivity is a property of the material; cutting changes R, not ρ.
+x The resistance of every material rises with temperature.
+v It rises for metals but falls for semiconductors.
+## remember
+- R = ρL/A; R ∝ L, R ∝ 1/A.
+- ρ depends on material and temperature; unit Ω m. σ = 1/ρ.
+- Metals: R rises with temperature; semiconductors: R falls.
+- Fixed resistor: one value; variable resistor (rheostat): adjustable, three terminals.
+## think
+Two copper wires have the same length, but one has twice the diameter of the other. Which one would you use for a 1500 W water heater, and how many times smaller is its resistance?
+## quiz
+? If the length of a wire is doubled (same material, area and temperature), its resistance:
+- Halves
+- Stays the same
+* Doubles
+- Becomes four times
+= R ∝ L.
+? The unit of resistivity is:
+- Ω
+* Ω m
+- Ω/m
+- (Ω m)^{-1}
+= ρ = RA/L, so its unit is Ω × m² ÷ m = Ω m.
+? When a copper wire is heated, its resistance:
+* Increases
+- Decreases
+- Stays the same
+- Becomes zero
+= Atoms vibrate more and scatter the electrons more.
+? Conductivity is:
+- Equal to resistivity
+* The reciprocal of resistivity
+- Resistance × length
+- Measured in ohms
+= σ = 1/ρ.
+== bn
+## what
+তারের **রোধ** নির্ভর করে এর **দৈর্ঘ্য** (R ∝ L), **প্রস্থচ্ছেদের ক্ষেত্রফল** (R ∝ 1/A), **উপাদান** আর **তাপমাত্রার** ওপর: R = ρL/A। উপাদানের ধ্রুবক ρ হলো **আপেক্ষিক রোধ**, আর এর বিপরীত σ = 1/ρ হলো **পরিবাহকত্ব**।
+## simple
+রোধ হলো প্রবাহের পথের বাধা। বাধাটা কত বড় হবে তা কী ঠিক করে?
+
+**১. দৈর্ঘ্য।** ভিড়ে ঠাসা বাজারের গলি দিয়ে হাঁটার কথা ভাবো। গলি যত লম্বা, তত বেশি মানুষের সাথে ধাক্কা লাগে। একইভাবে **লম্বা** তারে ইলেকট্রন বেশি বাধা পায়। দৈর্ঘ্য দ্বিগুণ করলে রোধ দ্বিগুণ: **R ∝ L**।
+
+**২. প্রস্থচ্ছেদের ক্ষেত্রফল।** চওড়া রাস্তায় সরু গলির চেয়ে সহজে গাড়ি চলে। **মোটা** তার প্রবাহকে বেশি জায়গা দেয়, তাই এর রোধ কম। ক্ষেত্রফল দ্বিগুণ করলে রোধ অর্ধেক: **R ∝ 1/A**।
+
+দুটো মিলিয়ে একটি ধ্রুবক ρ (রো) দিয়ে লিখি:
+
+**R = ρL / A**
+
+**৩. উপাদান।** ধ্রুবক ρ-কে বলে **আপেক্ষিক রোধ**। এটা শুধু উপাদান (আর তাপমাত্রার) ওপর নির্ভর করে, আকারের ওপর নয়। একক **Ω m**। রুপার আপেক্ষিক রোধ সবচেয়ে কম (প্রায় ১.৬ × ১০^{-৮} Ω m), তামা প্রায় সমান ভালো আর অনেক সস্তা, তাই বাসার তার তামার তৈরি। নাইক্রোমের আপেক্ষিক রোধ তামার প্রায় ৬০ গুণ, তাই হিটারের কয়েল এটা দিয়ে বানানো হয়।
+
+কোনো উপাদান কত **ভালোভাবে** বিদ্যুৎ পরিবহন করে তা বোঝাতে ব্যবহার করি **পরিবাহকত্ব**, σ = 1/ρ, একক (Ω m)^{-১}। ভালো পরিবাহীর σ বেশি, ρ কম।
+
+**৪. তাপমাত্রা।** বইয়ে যেমন মনে করিয়ে দেওয়া হয়েছে, রোধ আসলে পরমাণুর পাশ দিয়ে চলার সময় ইলেকট্রনের পাওয়া বাধা। ধাতু গরম হলে পরমাণু বেশি কাঁপে, ইলেকট্রন বেশি ধাক্কা খায়, রোধ **বাড়ে**। তাই রোধ বা আপেক্ষিক রোধের মান সবসময় নির্দিষ্ট তাপমাত্রায় বলতে হয়। অর্ধপরিবাহী উল্টো আচরণ করে: গরম করলে আরও ইলেকট্রন মুক্ত হয়, তাই রোধ **কমে**।
+
+**১ Ω তামার তার কত লম্বা?** R = ρL/A থেকে L = RA/ρ। A = ১ m² (বিশাল মোটা দণ্ড!) হলে ১ Ω রুপার টুকরো হবে ৬.২৫ × ১০^{৭} m লম্বা, ষাট হাজার কিলোমিটারেরও বেশি। বাস্তবের তার সরু: ব্যাসার্ধ ০.১ mm (A = ৩.১৪ × ১০^{-৮} m²) হলে ১ Ω-এর জন্য রুপা লাগে মাত্র প্রায় ১.৯৬ m, তামা ১.৮৫ m, টাংস্টেন ৫৭ cm, নাইক্রোম প্রায় ৩ cm।
+
+**স্থির ও পরিবর্তনশীল রোধ।** বর্তনীতে আমরা বিশেষভাবে তৈরি **রোধক** ব্যবহার করি। **স্থির রোধের** একটিই নির্দিষ্ট মান; ছোটগুলোর গায়ে রঙিন ব্যান্ড দিয়ে মান লেখা থাকে, আর কতটুকু ক্ষমতা নিরাপদে সইতে পারে তাও দেওয়া থাকে। **পরিবর্তনশীল রোধ** বা **রিওস্টেটের** মান একটি সীমার মধ্যে বদলানো যায়। স্থির রোধের দুটি প্রান্ত; পরিবর্তনশীল রোধে থাকে তৃতীয় একটি সরানো যায় এমন প্রান্ত, যেটা সরালে এর আর একটি প্রান্তের মধ্যকার রোধ বদলায়। রেডিওর ভলিউম নব আর ফ্যানের রেগুলেটর এভাবে কাজ করে।
+## analogy
+তারের রোধ যেন ভিড়ের বাজারের গলি দিয়ে হাঁটা। গলি লম্বা হলে → আরও বেশি মানুষের পাশ কাটাতে হয় (রোধ বেশি)। গলি চওড়া হলে → সহজ (রোধ কম)। আর কিছু গলি (পদার্থ) স্বভাবতই বেশি ভিড়ের: এটাই আপেক্ষিক রোধ।
+## definition
+**রোধের সূত্র**: তাপমাত্রা স্থির থাকলে কোনো পরিবাহীর রোধ এর দৈর্ঘ্যের সমানুপাতিক, প্রস্থচ্ছেদের ক্ষেত্রফলের ব্যস্তানুপাতিক, এবং এর উপাদানের ওপর নির্ভরশীল: R = ρL/A।
+
+**আপেক্ষিক রোধ, ρ**: নির্দিষ্ট তাপমাত্রায় কোনো উপাদানের একক দৈর্ঘ্য ও একক প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট পরিবাহীর রোধ; ρ = RA/L। একক: Ω m।
+
+**পরিবাহকত্ব, σ**: আপেক্ষিক রোধের বিপরীত রাশি, σ = 1/ρ। একক: (Ω m)^{-১}।
+
+**পরিবর্তনশীল রোধ (রিওস্টেট)**: যে রোধের মান একটি নির্দিষ্ট সীমার মধ্যে বদলানো যায়।
+## why
+লম্বা, সরু বা গরম তারে রোধ বেশি কেন? লম্বা তারে ইলেকট্রনকে বেশি পরমাণু পার হতে হয়; সরু তারে পাশাপাশি কম ইলেকট্রন চলতে পারে, তাই প্রতি সেকেন্ডে কম চার্জ যায়; গরম তারে পরমাণু বেশি কেঁপে ইলেকট্রনকে বেশি ছিটকে দেয়। তিনটিই চার্জের চলাকে কঠিন করে।
+## terms
+রোধ (R) | প্রবাহের বাধা, L, A, উপাদান ও তাপমাত্রার ওপর নির্ভরশীল
+আপেক্ষিক রোধ (ρ) | উপাদানের ধর্ম, Ω m
+পরিবাহকত্ব (σ) | 1/ρ, (Ω m)^{-১}
+স্থির রোধ | একটি নির্দিষ্ট মানের রোধক
+পরিবর্তনশীল রোধ / রিওস্টেট | যে রোধের মান বদলানো যায়
+নাইক্রোম | উচ্চ আপেক্ষিক রোধের সংকর ধাতু, হিটারে ব্যবহৃত
+## formula
+$$ R = ρL / A
+$$ ρ = RA / L
+$$ σ = 1 / ρ
+$$ গোল তার: A = πr²
+R | রোধ | Ω
+ρ | আপেক্ষিক রোধ | Ω m
+L | দৈর্ঘ্য | m
+A | প্রস্থচ্ছেদের ক্ষেত্রফল | m²
+σ | পরিবাহকত্ব | (Ω m)^{-১}
+! আপেক্ষিক রোধ (প্রায় কক্ষ তাপমাত্রায়): রুপা ১.৫৯ × ১০^{-৮}, তামা ১.৬৮ × ১০^{-৮}, সোনা ২.৪৪ × ১০^{-৮}, গ্রাফাইট প্রায় ২.৫ × ১০^{-৬} Ω m; হীরা আর বাতাসের মান বিশাল (অপরিবাহী)।
+! ব্যাসার্ধ দ্বিগুণ করলে A চার গুণ হয়, তাই R হয় এক-চতুর্থাংশ।
+## visual
+একটি উপাদান বেছে নাও আর তারের দৈর্ঘ্য ও পুরুত্ব বদলাও। রোধ কীভাবে বদলায় দেখো, আর কত লম্বা তারে ১ Ω হয় বের করো।
+## real
+ইস্ত্রি, কেটলি বা হিটারের তাপ উৎপাদক অংশ নাইক্রোমের: উচ্চ আপেক্ষিক রোধের কারণে ছোট্ট কয়েলেই অনেক রোধ পাওয়া যায়। এসি আর পানির পাম্পের জন্য মোটা তামার তার ব্যবহার করা হয়, যাতে তারের রোধ, আর তাতে নষ্ট হওয়া তাপ, কম থাকে।
+## example
+প্রশ্ন: রুপা, তামা, টাংস্টেন ও নাইক্রোমের আপেক্ষিক রোধ যথাক্রমে ১.৬ × ১০^{-৮}, ১.৭ × ১০^{-৮}, ৫.৫ × ১০^{-৮} ও ১০০ × ১০^{-৮} Ω m। ১ m² প্রস্থচ্ছেদের তার দিয়ে ১ Ω রোধ বানাতে প্রতিটির কত দৈর্ঘ্য লাগবে?
+সূত্র: R = ρL/A → L = RA/ρ = ১ × ১ ÷ ρ
+হিসাব: রুপা: ১ ÷ (১.৬ × ১০^{-৮}) = ৬.২৫ × ১০^{৭} m; তামা: ৫.৯ × ১০^{৭} m; টাংস্টেন: ১.৮ × ১০^{৭} m; নাইক্রোম: ১.০ × ১০^{৬} m
+> এগুলো হাজার হাজার কিলোমিটার। ১ m² পুরু তার বাস্তবে সম্ভব নয়।
+উত্তর: রুপা ৬.২৫ × ১০^{৭} m, তামা ৫.৯ × ১০^{৭} m, টাংস্টেন ১.৮ × ১০^{৭} m, নাইক্রোম ১.০ × ১০^{৬} m
+## example
+প্রশ্ন: এবার ০.১ mm ব্যাসার্ধের বাস্তব তার নাও। ১ Ω-এর জন্য প্রতিটি তার কত লম্বা হবে?
+দেওয়া আছে: r = ০.১ mm = ১০^{-৪} m
+হিসাব: A = πr² = ৩.১৪ × (১০^{-৪})² = ৩.১৪ × ১০^{-৮} m²; L = A/ρ
+হিসাব: রুপা: ৩.১৪ × ১০^{-৮} ÷ ১.৬ × ১০^{-৮} ≈ ১.৯৬ m; তামা ≈ ১.৮৫ m; টাংস্টেন ≈ ০.৫৭ m; নাইক্রোম ≈ ০.০৩১ m
+উত্তর: রুপা ≈ ১.৯৬ m, তামা ≈ ১.৮৫ m, টাংস্টেন ≈ ৫৭ cm, নাইক্রোম ≈ ৩ cm
+## example
+প্রশ্ন: উপাদান, ক্ষেত্রফল ও তাপমাত্রা একই রেখে একটি তারের দৈর্ঘ্য ৫ গুণ করা হলো। এর রোধের কী হবে?
+সূত্র: R = ρL/A, তাই ρ ও A স্থির থাকলে R ∝ L
+উত্তর: রোধ ৫ গুণ হবে।
+## mistakes
+x মোটা তারে ধাতু বেশি, তাই রোধও বেশি।
+v মোটা তারের রোধ **কম**: R ∝ 1/A।
+x তার কেটে ছোট করলে আপেক্ষিক রোধ বদলে যায়।
+v আপেক্ষিক রোধ উপাদানের ধর্ম; কাটলে R বদলায়, ρ নয়।
+x সব পদার্থের রোধ তাপমাত্রার সাথে বাড়ে।
+v ধাতুর বাড়ে, কিন্তু অর্ধপরিবাহীর কমে।
+## remember
+- R = ρL/A; R ∝ L, R ∝ 1/A।
+- ρ উপাদান ও তাপমাত্রার ওপর নির্ভর করে; একক Ω m। σ = 1/ρ।
+- ধাতু: তাপমাত্রা বাড়লে R বাড়ে; অর্ধপরিবাহী: R কমে।
+- স্থির রোধ: একটি মান; পরিবর্তনশীল রোধ (রিওস্টেট): বদলানো যায়, তিনটি প্রান্ত।
+## think
+দুটি তামার তারের দৈর্ঘ্য সমান, কিন্তু একটির ব্যাস অন্যটির দ্বিগুণ। ১৫০০ W পানি গরমের হিটারের জন্য কোনটি ব্যবহার করবে, আর এর রোধ কত গুণ কম?
+## quiz
+? একটি তারের দৈর্ঘ্য দ্বিগুণ করলে (উপাদান, ক্ষেত্রফল ও তাপমাত্রা একই) এর রোধ:
+- অর্ধেক হয়
+- একই থাকে
+* দ্বিগুণ হয়
+- চার গুণ হয়
+= R ∝ L।
+? আপেক্ষিক রোধের একক:
+- Ω
+* Ω m
+- Ω/m
+- (Ω m)^{-১}
+= ρ = RA/L, তাই একক Ω × m² ÷ m = Ω m।
+? তামার তার গরম করলে এর রোধ:
+* বাড়ে
+- কমে
+- একই থাকে
+- শূন্য হয়
+= পরমাণু বেশি কাঁপে আর ইলেকট্রনকে বেশি বাধা দেয়।
+? পরিবাহকত্ব হলো:
+- আপেক্ষিক রোধের সমান
+* আপেক্ষিক রোধের বিপরীত রাশি
+- রোধ × দৈর্ঘ্য
+- ওহমে মাপা হয়
+= σ = 1/ρ।
+
+@@ 11.2.3
+@visual c11pot
+@related 11.2.1 11.2.4 11.1.1 10.6
+== en
+## what
+**Circuit analysis** means finding the potential at every point of a circuit and the current through every part. We use circuit symbols, choose an earthed point as 0 V, and apply Ohm's law to each part.
+## simple
+**Circuit symbols.** Drawing real batteries and bulbs every time would be slow, so we use standard **symbols**: a cell is a long line (+) and a short line (−); a battery is several cells; a fixed resistor is a zig-zag (or a small rectangle); a variable resistor is a resistor with an arrow; a bulb is a circle with a cross; an ammeter is a circle with A, a voltmeter a circle with V, a galvanometer a circle with G; there are symbols for a switch, a fuse, a capacitor, an AC source, a coil and an earth connection. Wires that cross without a dot are **not** connected.
+
+**Three simple rules** are all you need:
+
+**(a)** Whatever current leaves the high-potential terminal of the source comes back, all of it, to the low-potential terminal after going around the circuit.
+
+**(b)** Current is neither created nor destroyed at any point. Whatever enters a point leaves it. (Charge is only moved, never made.)
+
+**(c)** Ohm's law works for any part of the circuit: the potential difference across that part divided by its resistance gives the current through it.
+
+We take the **connecting wires** as having no resistance (their resistance is tiny compared to the resistors), so the **potential is the same all along a wire**. Potential only changes when current passes through a resistor (it drops) or through the source (it rises).
+
+**A simple circuit.** A cell of voltage V is connected to a resistor R. Earth the − terminal: it is 0 V, so the + terminal and the top of the resistor are at V, and the bottom is at 0. The drop across R is V − 0 = V, so I = V/R. Now earth the + terminal instead: it is 0 V and the − terminal is at −V. The drop across R is 0 − (−V) = V, and again I = V/R. The potentials changed, but the **differences**, and so the current, did not.
+
+**Walking round a circuit.** Think of potential as height. The cell lifts the charge up to the top; each resistor is a slope where it comes down. In a single loop, the drops across all the resistors add up to the full voltage of the cell, and you arrive back at the start at the same potential.
+
+**A dead-end branch.** If a wire branches off to a point E but does not continue anywhere, no current can flow into it. With no current there is no drop, so E is at exactly the same potential as the point it is joined to.
+## definition
+**Circuit analysis**: determining the potential at every point and the current in every part of an electric circuit, using: (a) the current leaving a source returns to it in full; (b) at any point, the current entering equals the current leaving; (c) Ohm's law, V = IR, applies to every part of the circuit.
+
+**Potential drop**: the fall in potential across a resistor carrying current, equal to IR.
+## why
+Why does potential drop only across resistors and not along the wires? A potential drop V = IR needs resistance. With R ≈ 0 for a wire, IR ≈ 0, so the potential stays the same along it. In a resistor the charges lose energy (as heat) in collisions, and that loss of energy per coulomb is exactly the drop in potential.
+## terms
+Circuit symbol | Standard drawing for a component
+Earth / ground | Point taken as 0 V
+Potential drop | Fall in potential across a resistor, IR
+Galvanometer | Detects very small currents
+Fuse | Thin wire that melts if the current is too large
+## formula
+$$ I = V / R (for any part)
+$$ Drop across a resistor = IR
+$$ Single loop: V = IR₁ + IR₂ + IR₃ + …
+! Potential is the same everywhere along an ideal (zero-resistance) wire.
+! A branch that leads nowhere carries no current and has no potential drop.
+## visual
+Earth a different point and see every potential change while the drops and the current stay the same. Change the resistors and watch the potential "staircase".
+## real
+An electrician tracing a fault uses a voltmeter just like this: measuring the potential at points along a circuit shows where the drop is, and so where a bad joint or broken wire is.
+## example
+Q: A 3 V cell is connected to two resistors in a single loop, R₁ = 1 Ω and R₂ = 2 Ω. Point A is the + terminal, B is between R₁ and R₂, and C and D (after R₂, back to the − terminal) are earthed. Find the potential at each point.
+Given: V = 3 V, R₁ = 1 Ω, R₂ = 2 Ω; V_{C} = V_{D} = 0, V_{A} = 3 V
+Formula: I = V/(R₁ + R₂)
+Calculation: I = 3 ÷ (1 + 2) = 1 A; drop across R₁ = 1 × 1 = 1 V
+Answer: V_{A} = 3 V, V_{B} = 3 − 1 = 2 V, V_{C} = V_{D} = 0 V. Check: drop across R₂ = 1 × 2 = 2 V, from 2 V to 0 V. ✓
+## example
+Q: A 6 V battery drives current through R₁ = 5 Ω (A to B), R₂ = 10 Ω (B to C) and R₃ = 15 Ω (C to D), with D earthed. A dead-end wire joins B to a point E. Find the potentials at A, B, C, D and E.
+Given: V_{A} = 6 V, V_{D} = 0
+Calculation: I = 6 ÷ (5 + 10 + 15) = 6 ÷ 30 = 0.2 A
+Calculation: drop across R₁ = 5 × 0.2 = 1 V → V_{B} = 5 V; drop across R₂ = 10 × 0.2 = 2 V → V_{C} = 3 V; drop across R₃ = 15 × 0.2 = 3 V → V_{D} = 0 ✓
+> No current flows into the dead-end branch BE, so there is no drop along it.
+Answer: V_{A} = 6 V, V_{B} = 5 V, V_{C} = 3 V, V_{D} = 0 V, V_{E} = 5 V
+## example
+Q: A 2 V cell has two resistors, 3 Ω and 6 Ω, each connected directly across it (in parallel). Find the current in each and the total current.
+Given: both resistors have 2 V across them
+Calculation: I₁ = 2 ÷ 3 = 2/3 A; I₂ = 2 ÷ 6 = 1/3 A
+Calculation: I = I₁ + I₂ = 2/3 + 1/3 = 1 A
+Answer: I₁ ≈ 0.67 A, I₂ ≈ 0.33 A, total 1 A
+## mistakes
+x The current gets smaller after each resistor because the resistors use it up.
+v In a single loop the current is the same everywhere; it is the potential that drops across each resistor.
+x If you earth a different point, the current changes.
+v Earthing only changes the zero of potential; the differences and the current stay the same.
+## remember
+- Current leaving the source = current returning; current in = current out at any point.
+- V = IR for every part; potential drops across resistors, is constant along wires.
+- Choice of earth changes potentials, not differences or currents.
+- No current in a dead-end branch → no potential drop along it.
+## think
+In the 6 V example, what would the potentials at A, B, C and D be if point A were earthed instead of D?
+## quiz
+? In a single loop with a 6 V battery and resistors of 5 Ω, 10 Ω and 15 Ω, the current is:
+- 0.1 A
+* 0.2 A
+- 0.6 A
+- 2 A
+= I = 6 ÷ 30 = 0.2 A.
+? The potential along an ideal connecting wire:
+- Falls steadily
+* Stays the same
+- Rises steadily
+- Is always zero
+= An ideal wire has zero resistance, so IR = 0 along it.
+? If a different point of a circuit is earthed, the current in it:
+- Increases
+- Decreases
+* Does not change
+- Becomes zero
+= Only potential differences drive current; earthing changes only the zero of potential.
+== bn
+## what
+**বর্তনী বিশ্লেষণ** মানে বর্তনীর প্রতিটি বিন্দুর বিভব আর প্রতিটি অংশের প্রবাহ বের করা। এজন্য বর্তনীর প্রতীক ব্যবহার করি, একটি ভূমিসংলগ্ন বিন্দুকে ০ V ধরি, আর প্রতিটি অংশে ওহমের সূত্র প্রয়োগ করি।
+## simple
+**বর্তনীর প্রতীক।** প্রতিবার আসল ব্যাটারি আর বাল্ব আঁকতে সময় লাগে, তাই ব্যবহার করি নির্দিষ্ট **প্রতীক**: কোষ হলো একটি লম্বা দাগ (+) আর একটি ছোট দাগ (−); ব্যাটারি কয়েকটি কোষ; স্থির রোধ আঁকাবাঁকা রেখা (বা ছোট আয়তক্ষেত্র); পরিবর্তনশীল রোধ হলো তীরচিহ্নসহ রোধ; বাল্ব হলো ক্রসসহ বৃত্ত; অ্যামিটার A লেখা বৃত্ত, ভোল্টমিটার V লেখা বৃত্ত, গ্যালভানোমিটার G লেখা বৃত্ত; সুইচ, ফিউজ, ধারক, এসি উৎস, কয়েল আর ভূসংযোগেরও প্রতীক আছে। বিন্দু ছাড়া যে তারগুলো একটা আরেকটাকে পার হয়ে যায়, সেগুলো **যুক্ত নয়**।
+
+**তিনটি সহজ নিয়মই** যথেষ্ট:
+
+**(ক)** উৎসের উচ্চ বিভবের প্রান্ত থেকে যতটুকু প্রবাহ বের হয়, বর্তনী ঘুরে ঠিক ততটুকুই নিম্ন বিভবের প্রান্তে ফিরে আসে।
+
+**(খ)** কোনো বিন্দুতে প্রবাহ সৃষ্টি বা ধ্বংস হয় না। কোনো বিন্দুতে যতটুকু ঢোকে, ততটুকুই বের হয়। (চার্জ শুধু স্থানান্তরিত হয়, তৈরি হয় না।)
+
+**(গ)** বর্তনীর যেকোনো অংশে ওহমের সূত্র খাটে: ওই অংশের দুই প্রান্তের বিভব পার্থক্যকে এর রোধ দিয়ে ভাগ করলে এর মধ্য দিয়ে প্রবাহ পাওয়া যায়।
+
+**সংযোগ তারের** রোধ শূন্য ধরি (রোধকের তুলনায় এদের রোধ খুবই কম), তাই **পুরো তারজুড়ে বিভব একই**। বিভব বদলায় শুধু যখন প্রবাহ রোধের মধ্য দিয়ে যায় (কমে) বা উৎসের মধ্য দিয়ে যায় (বাড়ে)।
+
+**একটি সরল বর্তনী।** V ভোল্টের একটি কোষ একটি রোধ R-এর সাথে যুক্ত। − প্রান্ত ভূমিসংলগ্ন করো: এটি ০ V, তাই + প্রান্ত আর রোধের ওপরের প্রান্ত V-তে, নিচের প্রান্ত ০-তে। R-এর দুই প্রান্তে বিভব পতন V − ০ = V, তাই I = V/R। এবার বরং + প্রান্ত ভূমিসংলগ্ন করো: এটি ০ V আর − প্রান্ত −V। R-এর দুই প্রান্তে পতন ০ − (−V) = V, আবারও I = V/R। বিভবগুলো বদলেছে, কিন্তু **পার্থক্য**, আর তাই প্রবাহ, বদলায়নি।
+
+**বর্তনী ঘুরে হাঁটা।** বিভবকে উচ্চতা ভাবো। কোষ চার্জকে ওপরে তোলে; প্রতিটি রোধ একটা ঢাল, যেখানে চার্জ নিচে নামে। একটিমাত্র লুপে সব রোধের বিভব পতন যোগ করলে কোষের পুরো ভোল্টেজ পাওয়া যায়, আর শুরুর বিন্দুতে একই বিভবে ফিরে আসো।
+
+**কানাগলির শাখা।** কোনো তার শাখা হয়ে E বিন্দুতে গিয়ে আর কোথাও না গেলে, সেখানে কোনো প্রবাহ ঢুকতে পারে না। প্রবাহ না থাকলে বিভব পতনও নেই, তাই E-এর বিভব ঠিক সেই বিন্দুর সমান, যার সাথে এটি যুক্ত।
+## definition
+**বর্তনী বিশ্লেষণ**: কোনো বৈদ্যুতিক বর্তনীর প্রতিটি বিন্দুর বিভব আর প্রতিটি অংশের প্রবাহ নির্ণয় করা, এই নিয়মগুলো ব্যবহার করে: (ক) উৎস থেকে বের হওয়া প্রবাহ পুরোটাই উৎসে ফেরে; (খ) যেকোনো বিন্দুতে আগত প্রবাহ = নির্গত প্রবাহ; (গ) বর্তনীর প্রতিটি অংশে ওহমের সূত্র V = IR খাটে।
+
+**বিভব পতন**: প্রবাহবাহী কোনো রোধের দুই প্রান্তে বিভবের হ্রাস, যা IR-এর সমান।
+## why
+বিভব শুধু রোধে কমে, তারে কমে না কেন? বিভব পতন V = IR-এর জন্য রোধ লাগে। তারের R ≈ ০ হলে IR ≈ ০, তাই তারজুড়ে বিভব একই থাকে। রোধে চার্জ ধাক্কা খেয়ে শক্তি হারায় (তাপ হিসেবে), আর প্রতি কুলম্বে সেই শক্তি হারানোই হলো বিভব পতন।
+## terms
+বর্তনীর প্রতীক | কোনো উপাংশের নির্দিষ্ট চিত্ররূপ
+ভূমি / ভূসংযোগ | যে বিন্দুকে ০ V ধরা হয়
+বিভব পতন | রোধের দুই প্রান্তে বিভবের হ্রাস, IR
+গ্যালভানোমিটার | খুব ছোট প্রবাহ শনাক্ত করে
+ফিউজ | সরু তার, প্রবাহ বেশি হলে গলে যায়
+## formula
+$$ I = V / R (যেকোনো অংশের জন্য)
+$$ রোধে বিভব পতন = IR
+$$ একটি লুপে: V = IR₁ + IR₂ + IR₃ + …
+! আদর্শ (শূন্য রোধের) তারজুড়ে বিভব সব জায়গায় সমান।
+! যে শাখা কোথাও যায় না, তাতে প্রবাহ নেই, বিভব পতনও নেই।
+## visual
+অন্য একটি বিন্দু ভূমিসংলগ্ন করো আর দেখো প্রতিটি বিভব বদলে যায়, অথচ বিভব পতন আর প্রবাহ একই থাকে। রোধগুলো বদলে বিভবের "সিঁড়ি" দেখো।
+## real
+ত্রুটি খুঁজতে ইলেকট্রিশিয়ান ঠিক এভাবে ভোল্টমিটার ব্যবহার করেন: বর্তনীর বিভিন্ন বিন্দুর বিভব মেপে দেখেন কোথায় পতন হচ্ছে, তা থেকে বোঝা যায় কোথায় খারাপ সংযোগ বা ছেঁড়া তার।
+## example
+প্রশ্ন: একটি ৩ V কোষ একটি লুপে দুটি রোধ R₁ = ১ Ω ও R₂ = ২ Ω-এর সাথে যুক্ত। A হলো + প্রান্ত, B হলো R₁ ও R₂-এর মাঝখানে, আর C ও D (R₂-এর পরে, − প্রান্তে ফেরার পথে) ভূমিসংলগ্ন। প্রতিটি বিন্দুর বিভব বের করো।
+দেওয়া আছে: V = ৩ V, R₁ = ১ Ω, R₂ = ২ Ω; V_{C} = V_{D} = ০, V_{A} = ৩ V
+সূত্র: I = V/(R₁ + R₂)
+হিসাব: I = ৩ ÷ (১ + ২) = ১ A; R₁-এ পতন = ১ × ১ = ১ V
+উত্তর: V_{A} = ৩ V, V_{B} = ৩ − ১ = ২ V, V_{C} = V_{D} = ০ V। যাচাই: R₂-এ পতন = ১ × ২ = ২ V, ২ V থেকে ০ V। ✓
+## example
+প্রশ্ন: একটি ৬ V ব্যাটারি R₁ = ৫ Ω (A থেকে B), R₂ = ১০ Ω (B থেকে C) ও R₃ = ১৫ Ω (C থেকে D)-এর মধ্য দিয়ে প্রবাহ চালায়; D ভূমিসংলগ্ন। একটি কানাগলি তার B-কে E বিন্দুর সাথে জুড়েছে। A, B, C, D ও E-এর বিভব বের করো।
+দেওয়া আছে: V_{A} = ৬ V, V_{D} = ০
+হিসাব: I = ৬ ÷ (৫ + ১০ + ১৫) = ৬ ÷ ৩০ = ০.২ A
+হিসাব: R₁-এ পতন = ৫ × ০.২ = ১ V → V_{B} = ৫ V; R₂-এ পতন = ১০ × ০.২ = ২ V → V_{C} = ৩ V; R₃-এ পতন = ১৫ × ০.২ = ৩ V → V_{D} = ০ ✓
+> কানাগলি শাখা BE-তে কোনো প্রবাহ ঢোকে না, তাই এর বরাবর কোনো পতন নেই।
+উত্তর: V_{A} = ৬ V, V_{B} = ৫ V, V_{C} = ৩ V, V_{D} = ০ V, V_{E} = ৫ V
+## example
+প্রশ্ন: একটি ২ V কোষের দুই প্রান্তে সরাসরি দুটি রোধ, ৩ Ω ও ৬ Ω, যুক্ত (সমান্তরালে)। প্রতিটির প্রবাহ ও মোট প্রবাহ বের করো।
+দেওয়া আছে: দুটি রোধের দুই প্রান্তেই ২ V
+হিসাব: I₁ = ২ ÷ ৩ = ২/৩ A; I₂ = ২ ÷ ৬ = ১/৩ A
+হিসাব: I = I₁ + I₂ = ২/৩ + ১/৩ = ১ A
+উত্তর: I₁ ≈ ০.৬৭ A, I₂ ≈ ০.৩৩ A, মোট ১ A
+## mistakes
+x প্রতিটি রোধ পার হওয়ার পর প্রবাহ কমে যায়, কারণ রোধ তা খরচ করে।
+v একটি লুপে প্রবাহ সব জায়গায় সমান; প্রতিটি রোধে কমে বিভব।
+x অন্য বিন্দু ভূমিসংলগ্ন করলে প্রবাহ বদলে যায়।
+v ভূসংযোগ শুধু বিভবের শূন্য বদলায়; পার্থক্য আর প্রবাহ একই থাকে।
+## remember
+- উৎস থেকে বের হওয়া প্রবাহ = ফেরত আসা প্রবাহ; যেকোনো বিন্দুতে আগত = নির্গত প্রবাহ।
+- প্রতিটি অংশে V = IR; রোধে বিভব কমে, তারজুড়ে একই থাকে।
+- ভূসংযোগ বদলালে বিভব বদলায়, পার্থক্য বা প্রবাহ নয়।
+- কানাগলি শাখায় প্রবাহ নেই → এর বরাবর বিভব পতন নেই।
+## think
+৬ V-এর উদাহরণে D-এর বদলে A বিন্দু ভূমিসংলগ্ন করলে A, B, C ও D-এর বিভব কত হতো?
+## quiz
+? ৬ V ব্যাটারি আর ৫ Ω, ১০ Ω ও ১৫ Ω রোধের একটি লুপে প্রবাহ:
+- ০.১ A
+* ০.২ A
+- ০.৬ A
+- ২ A
+= I = ৬ ÷ ৩০ = ০.২ A।
+? আদর্শ সংযোগ তারজুড়ে বিভব:
+- ধীরে ধীরে কমে
+* একই থাকে
+- ধীরে ধীরে বাড়ে
+- সবসময় শূন্য
+= আদর্শ তারের রোধ শূন্য, তাই এর বরাবর IR = ০।
+? বর্তনীর অন্য একটি বিন্দু ভূমিসংলগ্ন করলে এর প্রবাহ:
+- বাড়ে
+- কমে
+* বদলায় না
+- শূন্য হয়
+= শুধু বিভব পার্থক্য প্রবাহ চালায়; ভূসংযোগ শুধু বিভবের শূন্য বদলায়।
+
+@@ 11.2.4
+@visual c11combo
+@related 11.2.3 11.2.1 11.6 11.3
+@media https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc | Circuit Construction Kit: DC (PhET simulation) | সার্কিট তৈরির কিট: ডিসি (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+Resistors joined one after another are in **series**: the equivalent resistance is R = R₁ + R₂ + R₃ + …. Resistors joined side by side between the same two points are in **parallel**: 1/R = 1/R₁ + 1/R₂ + 1/R₃ + ….
+## simple
+When a circuit has several resistors, we can often replace them with a single **equivalent resistance** that draws the same current from the source. There are two basic ways to join resistors.
+
+**Series: one after another.** Picture a single road with three toll gates on it. Every car must pass through all three gates, and each gate adds its own delay. In a series circuit the **same current I** flows through every resistor, and the potential drops add up:
+
+V = IR₁ + IR₂ + IR₃ = I(R₁ + R₂ + R₃)
+
+So the resistors act like one resistor:
+
+**R = R₁ + R₂ + R₃ + …**
+
+The book proves this for two resistors: if point B between R₁ and R₂ is at potential V_{B}, the same current flows through both, so (V − V_{B})/R₁ = V_{B}/R₂. Solving gives V_{B} = VR₂/(R₁ + R₂) and I = V/(R₁ + R₂), exactly what one resistor R₁ + R₂ would give.
+
+The equivalent series resistance is always **bigger** than the biggest resistor. And if one resistor breaks (like a fused bulb in old decoration lights), the whole loop stops.
+
+**Parallel: side by side.** Now picture a road that splits into three lanes, each with its own gate, and joins again after. Cars can take any lane, so traffic flows **more easily** than through one gate. In a parallel circuit, every resistor has the **same potential difference V** across it, and the current **splits**:
+
+I = I₁ + I₂ + I₃ = V/R₁ + V/R₂ + V/R₃ = V(1/R₁ + 1/R₂ + 1/R₃)
+
+So the equivalent resistance R satisfies:
+
+**1/R = 1/R₁ + 1/R₂ + 1/R₃ + …**
+
+The equivalent parallel resistance is always **smaller** than the smallest resistor. For two resistors there is a handy shortcut: R = R₁R₂/(R₁ + R₂) ("product over sum"). Two equal resistors R in parallel give R/2.
+
+In a parallel circuit, **more current flows through the smaller resistance**, and if one branch breaks, the others keep working. That is why all the lights and fans in a house are connected in **parallel**: each gets the full 220 V and can be switched on or off by itself.
+## analogy
+Resistors in **series** are like toll gates one after another on one road: every car must pass all of them, so the delays add up. Resistors in **parallel** are like several toll booths side by side: cars can split up, so traffic moves more easily; the total resistance becomes smaller than any single one.
+## definition
+**Equivalent resistance**: the single resistance which, placed in the circuit instead of a combination of resistors, draws the same current from the same source.
+
+**Series combination**: resistors joined end to end so that the same current flows through each. R = R₁ + R₂ + … + Rₙ.
+
+**Parallel combination**: resistors joined between the same two points so that each has the same potential difference across it. 1/R = 1/R₁ + 1/R₂ + … + 1/Rₙ.
+## why
+Why does adding a resistor in parallel **reduce** the total resistance? Every new branch is an extra path for the current. Even a large resistor lets a little extra current through, so the total current from the source increases for the same V, which means the equivalent resistance has gone down.
+## terms
+Equivalent resistance | Single resistance that could replace a combination
+Series | One after another; same current; voltages add
+Parallel | Side by side; same voltage; currents add
+Product over sum | R₁R₂/(R₁ + R₂) for two resistors in parallel
+## formula
+$$ Series: R = R₁ + R₂ + R₃ + …
+$$ Parallel: 1/R = 1/R₁ + 1/R₂ + 1/R₃ + …
+$$ Two in parallel: R = R₁R₂ / (R₁ + R₂)
+R | equivalent resistance | Ω
+R₁, R₂, R₃ | individual resistances | Ω
+! Series: R is larger than the largest. Parallel: R is smaller than the smallest.
+! n equal resistors r: series nr; parallel r/n.
+## visual
+Switch between series and parallel, change the three resistors and the battery voltage, and compare the equivalent resistance, the currents and the voltages across each resistor.
+## real
+House wiring is parallel, so one bulb failing doesn't switch off the fan. Cheap decorative "fairy lights" used in weddings and festivals often have groups of tiny bulbs in series, which is why one loose bulb can make a whole section go dark.
+## example
+Q: Three resistances of 2 Ω, 3 Ω and 4 Ω are connected in series. Find the equivalent resistance.
+Formula: R = R₁ + R₂ + R₃
+Substitution: R = 2 + 3 + 4
+Answer: R = 9 Ω
+## example
+Q: Resistors of 3 Ω and 6 Ω are connected in parallel across a 2 V cell. Find the equivalent resistance and the total current.
+Formula: 1/R = 1/R₁ + 1/R₂
+Substitution: 1/R = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2
+Calculation: R = 2 Ω; I = V/R = 2 ÷ 2 = 1 A
+Answer: R = 2 Ω, I = 1 A (the same as adding 2/3 A and 1/3 A in the last lesson)
+## example
+Q: Resistors of 2 Ω and 3 Ω are connected in parallel, and this pair is in series with a 4 Ω resistor. Find the total resistance.
+Calculation: parallel pair: R_{p} = (2 × 3) ÷ (2 + 3) = 6 ÷ 5 = 1.2 Ω
+Calculation: total R = 1.2 + 4 = 5.2 Ω
+Answer: 5.2 Ω
+## mistakes
+x In parallel, you just add the resistances.
+v In parallel you add the **reciprocals**: 1/R = 1/R₁ + 1/R₂ + …, and remember to turn 1/R upside down at the end.
+x Adding more resistors always increases the total resistance.
+v In series it does; in parallel it **decreases** the total resistance.
+x In series, the biggest current flows through the smallest resistor.
+v In series the current is the same in every resistor; in parallel the smallest resistor carries the most current.
+## remember
+- Series: same current, R = R₁ + R₂ + …; bigger than any one.
+- Parallel: same voltage, 1/R = 1/R₁ + 1/R₂ + …; smaller than any one.
+- Two in parallel: R₁R₂/(R₁ + R₂); two equal: R/2.
+- Household appliances are connected in parallel.
+## think
+You have three 6 Ω resistors. How many different total resistances can you make using all three? (Hint: there are four.)
+## quiz
+? Three resistances of 2 Ω, 3 Ω and 4 Ω are connected in series. The equivalent resistance is:
+- 8 Ω
+- 7 Ω
+* 9 Ω
+- 20 Ω
+= R = 2 + 3 + 4 = 9 Ω.
+? Two 10 Ω resistors are connected in parallel. The equivalent resistance is:
+* 5 Ω
+- 10 Ω
+- 20 Ω
+- 100 Ω
+= Two equal resistors in parallel give R/2 = 5 Ω.
+? Resistors of 2 Ω and 3 Ω are in parallel. Their equivalent resistance is:
+- 5 Ω
+- 0.83 Ω
+* 1.2 Ω
+- 6 Ω
+= R = (2 × 3) ÷ (2 + 3) = 1.2 Ω, smaller than 2 Ω.
+? In a parallel circuit, which quantity is the same for every resistor?
+- Current
+* Potential difference
+- Resistance
+- Power
+= Each branch is connected between the same two points, so they have the same V.
+== bn
+## what
+একটির পর একটি যুক্ত রোধগুলো **শ্রেণি সংযোগে**: তুল্য রোধ R = R₁ + R₂ + R₃ + …। একই দুটি বিন্দুর মধ্যে পাশাপাশি যুক্ত রোধগুলো **সমান্তরাল সংযোগে**: 1/R = 1/R₁ + 1/R₂ + 1/R₃ + …।
+## simple
+বর্তনীতে কয়েকটি রোধ থাকলে প্রায়ই এদের জায়গায় একটিমাত্র **তুল্য রোধ** বসানো যায়, যা উৎস থেকে একই প্রবাহ নেয়। রোধ জোড়ার দুটি মৌলিক উপায় আছে।
+
+**শ্রেণি সংযোগ: একটির পর একটি।** একটি রাস্তায় তিনটি টোল গেট ভাবো। প্রতিটি গাড়িকে তিনটি গেটই পার হতে হয়, আর প্রতিটি গেট নিজের দেরি যোগ করে। শ্রেণি বর্তনীতে প্রতিটি রোধের মধ্য দিয়ে **একই প্রবাহ I** চলে, আর বিভব পতনগুলো যোগ হয়:
+
+V = IR₁ + IR₂ + IR₃ = I(R₁ + R₂ + R₃)
+
+তাই রোধগুলো একটি রোধের মতো আচরণ করে:
+
+**R = R₁ + R₂ + R₃ + …**
+
+বইয়ে দুটি রোধের জন্য এটা প্রমাণ করা হয়েছে: R₁ ও R₂-এর মাঝের বিন্দু B-এর বিভব V_{B} হলে দুটিতে একই প্রবাহ, তাই (V − V_{B})/R₁ = V_{B}/R₂। সমাধান করলে V_{B} = VR₂/(R₁ + R₂) আর I = V/(R₁ + R₂), ঠিক যা R₁ + R₂ মানের একটি রোধ দিত।
+
+শ্রেণি সংযোগে তুল্য রোধ সবসময় সবচেয়ে বড় রোধটির চেয়েও **বড়**। আর একটি রোধ ছিঁড়ে গেলে (পুরোনো সাজসজ্জার বাতিতে একটি বাল্ব কেটে গেলে যেমন) পুরো লুপ বন্ধ হয়ে যায়।
+
+**সমান্তরাল সংযোগ: পাশাপাশি।** এবার এমন রাস্তা ভাবো যেটা তিনটি লেনে ভাগ হয়ে যায়, প্রতিটিতে নিজস্ব গেট, তারপর আবার মিলে যায়। গাড়ি যেকোনো লেন নিতে পারে, তাই একটি গেটের চেয়ে **সহজে** চলে। সমান্তরাল বর্তনীতে প্রতিটি রোধের দুই প্রান্তে **একই বিভব পার্থক্য V**, আর প্রবাহ **ভাগ হয়ে যায়**:
+
+I = I₁ + I₂ + I₃ = V/R₁ + V/R₂ + V/R₃ = V(1/R₁ + 1/R₂ + 1/R₃)
+
+তাই তুল্য রোধ R-এর জন্য:
+
+**1/R = 1/R₁ + 1/R₂ + 1/R₃ + …**
+
+সমান্তরাল সংযোগে তুল্য রোধ সবসময় সবচেয়ে ছোট রোধটির চেয়েও **ছোট**। দুটি রোধের জন্য একটা সহজ কৌশল: R = R₁R₂/(R₁ + R₂) ("গুণফল ভাগ যোগফল")। সমান দুটি রোধ R সমান্তরালে দিলে R/২।
+
+সমান্তরাল বর্তনীতে **ছোট রোধের মধ্য দিয়ে বেশি প্রবাহ চলে**, আর একটি শাখা ছিঁড়ে গেলেও অন্যগুলো চলতে থাকে। এজন্যই বাসার সব লাইট আর ফ্যান **সমান্তরালে** যুক্ত: প্রতিটি পুরো ২২০ V পায় আর আলাদাভাবে চালু বা বন্ধ করা যায়।
+## analogy
+**শ্রেণি** সংযোগের রোধ যেন একই রাস্তায় পরপর টোল গেট: প্রতিটি গাড়িকে সবগুলো পেরোতে হয়, তাই দেরি যোগ হয়। **সমান্তরাল** সংযোগের রোধ যেন পাশাপাশি কয়েকটি টোল বুথ: গাড়ি ভাগ হয়ে যেতে পারে, তাই চলাচল সহজ হয়; মোট রোধ যেকোনো একটির চেয়েও কম হয়।
+## definition
+**তুল্য রোধ**: কয়েকটি রোধের সমবায়ের বদলে বর্তনীতে বসালে যে একক রোধ একই উৎস থেকে একই প্রবাহ নেয়।
+
+**শ্রেণি সংযোগ**: রোধগুলো এক প্রান্ত থেকে আরেক প্রান্তে পরপর যুক্ত, ফলে প্রতিটির মধ্য দিয়ে একই প্রবাহ চলে। R = R₁ + R₂ + … + Rₙ।
+
+**সমান্তরাল সংযোগ**: রোধগুলো একই দুটি বিন্দুর মধ্যে যুক্ত, ফলে প্রতিটির দুই প্রান্তে একই বিভব পার্থক্য। 1/R = 1/R₁ + 1/R₂ + … + 1/Rₙ।
+## why
+সমান্তরালে একটি রোধ যোগ করলে মোট রোধ **কমে** কেন? প্রতিটি নতুন শাখা প্রবাহের জন্য বাড়তি একটা পথ। বড় রোধও একটু বাড়তি প্রবাহ যেতে দেয়, তাই একই V-তে উৎস থেকে মোট প্রবাহ বাড়ে, অর্থাৎ তুল্য রোধ কমে গেছে।
+## terms
+তুল্য রোধ | যে একক রোধ একটি সমবায়ের জায়গা নিতে পারে
+শ্রেণি সংযোগ | একটির পর একটি; একই প্রবাহ; বিভব যোগ হয়
+সমান্তরাল সংযোগ | পাশাপাশি; একই বিভব; প্রবাহ যোগ হয়
+গুণফল ভাগ যোগফল | সমান্তরালে দুটি রোধের জন্য R₁R₂/(R₁ + R₂)
+## formula
+$$ শ্রেণি: R = R₁ + R₂ + R₃ + …
+$$ সমান্তরাল: 1/R = 1/R₁ + 1/R₂ + 1/R₃ + …
+$$ সমান্তরালে দুটি: R = R₁R₂ / (R₁ + R₂)
+R | তুল্য রোধ | Ω
+R₁, R₂, R₃ | আলাদা আলাদা রোধ | Ω
+! শ্রেণি: R সবচেয়ে বড়টির চেয়েও বড়। সমান্তরাল: R সবচেয়ে ছোটটির চেয়েও ছোট।
+! n-টি সমান রোধ r: শ্রেণিতে nr; সমান্তরালে r/n।
+## visual
+শ্রেণি আর সমান্তরালের মধ্যে বদলাও, তিনটি রোধ আর ব্যাটারির ভোল্টেজ বদলাও, আর তুল্য রোধ, প্রবাহ ও প্রতিটি রোধের বিভব পার্থক্য তুলনা করো।
+## real
+বাসার ওয়্যারিং সমান্তরাল, তাই একটি বাল্ব কেটে গেলে ফ্যান বন্ধ হয় না। বিয়ে বা উৎসবে ব্যবহৃত সস্তা সাজসজ্জার "মরিচবাতিতে" প্রায়ই ছোট ছোট বাল্বের দল শ্রেণিতে থাকে, তাই একটি আলগা বাল্বে পুরো একটা অংশ অন্ধকার হয়ে যায়।
+## example
+প্রশ্ন: ২ Ω, ৩ Ω ও ৪ Ω মানের তিনটি রোধ শ্রেণিতে যুক্ত। তুল্য রোধ বের করো।
+সূত্র: R = R₁ + R₂ + R₃
+মান বসাই: R = ২ + ৩ + ৪
+উত্তর: R = ৯ Ω
+## example
+প্রশ্ন: ৩ Ω ও ৬ Ω রোধ সমান্তরালে একটি ২ V কোষের সাথে যুক্ত। তুল্য রোধ আর মোট প্রবাহ বের করো।
+সূত্র: 1/R = 1/R₁ + 1/R₂
+মান বসাই: 1/R = ১/৩ + ১/৬ = ২/৬ + ১/৬ = ৩/৬ = ১/২
+হিসাব: R = ২ Ω; I = V/R = ২ ÷ ২ = ১ A
+উত্তর: R = ২ Ω, I = ১ A (আগের পাঠে ২/৩ A আর ১/৩ A যোগ করে যা পেয়েছিলাম)
+## example
+প্রশ্ন: ২ Ω ও ৩ Ω রোধ সমান্তরালে যুক্ত, আর এই জোড়াটি একটি ৪ Ω রোধের সাথে শ্রেণিতে। মোট রোধ বের করো।
+হিসাব: সমান্তরাল জোড়া: R_{p} = (২ × ৩) ÷ (২ + ৩) = ৬ ÷ ৫ = ১.২ Ω
+হিসাব: মোট R = ১.২ + ৪ = ৫.২ Ω
+উত্তর: ৫.২ Ω
+## mistakes
+x সমান্তরালে রোধগুলো সরাসরি যোগ করলেই হয়।
+v সমান্তরালে যোগ করতে হয় **বিপরীত রাশিগুলো**: 1/R = 1/R₁ + 1/R₂ + …, আর শেষে 1/R উল্টে R বের করতে ভুলো না।
+x রোধ যত যোগ করবে, মোট রোধ তত বাড়বে।
+v শ্রেণিতে বাড়ে; সমান্তরালে মোট রোধ **কমে**।
+x শ্রেণিতে সবচেয়ে ছোট রোধের মধ্য দিয়ে সবচেয়ে বেশি প্রবাহ চলে।
+v শ্রেণিতে প্রতিটি রোধে প্রবাহ সমান; সমান্তরালে সবচেয়ে ছোট রোধ সবচেয়ে বেশি প্রবাহ বহন করে।
+## remember
+- শ্রেণি: একই প্রবাহ, R = R₁ + R₂ + …; যেকোনোটির চেয়ে বড়।
+- সমান্তরাল: একই বিভব, 1/R = 1/R₁ + 1/R₂ + …; যেকোনোটির চেয়ে ছোট।
+- সমান্তরালে দুটি: R₁R₂/(R₁ + R₂); সমান দুটি: R/২।
+- বাসার যন্ত্রপাতি সমান্তরালে যুক্ত।
+## think
+তোমার কাছে তিনটি ৬ Ω রোধ আছে। তিনটিই ব্যবহার করে কতগুলো ভিন্ন মোট রোধ বানাতে পারবে? (ইঙ্গিত: চারটি।)
+## quiz
+? ২ Ω, ৩ Ω ও ৪ Ω মানের তিনটি রোধ শ্রেণিতে যুক্ত। তুল্য রোধ:
+- ৮ Ω
+- ৭ Ω
+* ৯ Ω
+- ২০ Ω
+= R = ২ + ৩ + ৪ = ৯ Ω।
+? দুটি ১০ Ω রোধ সমান্তরালে যুক্ত। তুল্য রোধ:
+* ৫ Ω
+- ১০ Ω
+- ২০ Ω
+- ১০০ Ω
+= সমান দুটি রোধ সমান্তরালে R/২ = ৫ Ω দেয়।
+? ২ Ω ও ৩ Ω রোধ সমান্তরালে যুক্ত। তুল্য রোধ:
+- ৫ Ω
+- ০.৮৩ Ω
+* ১.২ Ω
+- ৬ Ω
+= R = (২ × ৩) ÷ (২ + ৩) = ১.২ Ω, ২ Ω-এর চেয়েও ছোট।
+? সমান্তরাল বর্তনীতে কোন রাশিটি প্রতিটি রোধের জন্য একই?
+- প্রবাহ
+* বিভব পার্থক্য
+- রোধ
+- ক্ষমতা
+= প্রতিটি শাখা একই দুটি বিন্দুর মধ্যে যুক্ত, তাই V একই।
+
+@@ 11.3
+@visual c11bill
+@related 11.2.1 4.7 11.4 11.6
+== en
+## what
+**Electric power** is the rate at which electrical energy is supplied or used: P = VI = I²R = V²/R, measured in **watts (W)**. The energy used is W = Pt; for bills it is measured in **kilowatt-hours (kWh)**, called the **Board of Trade (BOT) unit** or simply the **unit**.
+## simple
+**Where the power formula comes from.** In the last chapter we saw that moving a charge Q through a potential difference V takes work (energy) **W = VQ**. Power is work done per second. If charge Q moves in time t:
+
+P = W/t = VQ/t = **VI** (because Q/t = I)
+
+The unit is the **watt (W)**: 1 W = 1 J/s = 1 V × 1 A.
+
+**Two more forms.** For a resistor R, Ohm's law says V = IR. Put that into P = VI:
+
+**P = I²R**, and since I = V/R, **P = V²/R**
+
+Use whichever form matches what you know.
+
+**Where does the energy go?** Pass enough current through any resistor and it gets **hot**: the electrical energy becomes **heat**. In time t the heat produced is **H = I²Rt**. That is how an iron, kettle, rice cooker and heater work. An old **filament bulb** also works by heating: its filament must glow white-hot to give light, so most of its energy is wasted as heat (touch one and you'll feel it!). That is why filament bulbs are being replaced by LED bulbs, which give the same light for a fraction of the power. Of course electrical energy also runs fans, fridges, TVs, computers and chargers, turning into motion, light and sound as well as heat.
+
+**What the power rating means.** A bulb marked **220 V, 100 W** uses 100 J of energy every second **when connected to 220 V**. From P = V²/R, its filament's resistance (when hot) is R = 220² ÷ 100 = 484 Ω.
+
+**Kilowatt-hour: the unit on your bill.** The joule is far too small for household use. Every house has an **electric meter** that keeps track of the voltage and current, so it knows how much energy (P = VI) is supplied each second, and adds it up over time. The unit used is the **kilowatt-hour**:
+
+1 kWh = 1000 W × 3600 s = **3.6 × 10^{6} J**
+
+1 kWh = 1 **unit** (Board of Trade unit). A 1000 W iron used for 1 hour, or a 100 W bulb for 10 hours, uses 1 unit.
+
+**To find a bill:**
+
+Energy (units) = Power (W) × time (hours) ÷ 1000
+
+Cost = number of units × price per unit
+## analogy
+Your electricity bill is like a taxi fare measured in "units". 1 unit (1 kWh) is what a 1000 W iron uses in 1 hour, or a 100 W bulb in 10 hours. The meter doesn't care how many appliances you have, only how much power they use and for how long.
+## definition
+**Electric power**: the rate at which electrical energy is converted into other forms (or work is done by the current). P = W/t = VI. Unit: **watt (W)**; 1 W = 1 J/s.
+
+**Kilowatt-hour (kWh)**: the electrical energy used when a device of power 1 kilowatt runs for 1 hour. 1 kWh = 3.6 × 10^{6} J. It is called the Board of Trade (BOT) unit, or simply the unit.
+## why
+Why do heaters use a high-resistance wire and connecting wires a low one? For the same current, the heat produced is I²R, so it goes where the resistance is. The nichrome coil (high R) gets red-hot while the copper wire leading to it (tiny R) stays cool.
+## terms
+Electric power (P) | Energy supplied or used per second
+Watt (W) | 1 J/s = 1 V × 1 A
+Kilowatt (kW) | 1000 W
+Kilowatt-hour (kWh) | Energy used by 1 kW in 1 hour = 3.6 × 10^{6} J
+BOT unit / unit | Another name for kWh on electricity bills
+Electric meter | Records the electrical energy used in a house
+## formula
+$$ W = VQ = VIt
+tri P | V | I
+$$ P = VI = I²R = V²/R
+$$ Heat: H = I²Rt
+$$ Energy (units) = P (W) × t (h) ÷ 1000
+P | power | W
+V | potential difference | V
+I | current | A
+R | resistance | Ω
+t | time | s (or h for kWh)
+! 1 kWh = 1 unit = 3.6 × 10^{6} J
+## visual
+Choose appliances, set their hours of use per day, and set a price per unit. The calculator shows the units used in a month and the bill. The price per unit is only an example; real tariffs differ and change.
+## real
+Your family's electricity bill (or the prepaid meter recharge) is counted in units, i.e. kWh. Replacing a 60 W filament bulb with a 9 W LED bulb that gives about the same light saves 51 W; used 5 hours a day for 30 days, that is 51 × 150 ÷ 1000 ≈ 7.7 units saved per bulb every month.
+## example
+Q: What is the resistance of the filament of a bulb marked 220 V, 100 W? How much current flows through it?
+Given: V = 220 V, P = 100 W
+Formula: P = V²/R → R = V²/P
+Calculation: R = 220² ÷ 100 = 48 400 ÷ 100 = 484 Ω
+Calculation: I = V/R = 220 ÷ 484 ≈ 0.45 A (check: I = P/V = 100 ÷ 220 ≈ 0.45 A)
+Answer: R = 484 Ω, I ≈ 0.45 A
+## example
+Q: A 60 W bulb is lit for 5 hours every day for 30 days. How much energy does it use? If each unit costs 10 taka, what is the cost?
+Given: P = 60 W, t = 5 × 30 = 150 h
+Formula: energy (units) = P × t ÷ 1000
+Calculation: 60 × 150 ÷ 1000 = 9 units; cost = 9 × 10 = 90 taka
+Answer: 9 units (kWh), 90 taka
+## example
+Q: Alvi uses a 220 V–100 W bulb for 3 hours daily. His brother Alif uses a 220 V–40 W table lamp for 4 hours daily. Each unit costs 6 taka. Find the current in Alif's lamp, and who spends less in a 30-day month.
+Calculation: Alif's current I = P/V = 40 ÷ 220 ≈ 0.18 A
+Calculation: Alvi: 100 × 3 × 30 ÷ 1000 = 9 units → 9 × 6 = 54 taka
+Calculation: Alif: 40 × 4 × 30 ÷ 1000 = 4.8 units → 4.8 × 6 = 28.8 taka
+> Alif uses his lamp for longer, but its power is much lower, so he uses less energy.
+Answer: Alif's lamp draws about 0.18 A; Alif is more economical (28.8 taka against 54 taka).
+## mistakes
+x A kilowatt-hour is a unit of power.
+v kWh is a unit of **energy** (power × time). The kilowatt is the unit of power.
+x A 100 W bulb always uses 100 W, whatever the voltage.
+v It uses 100 W only at its rated 220 V. At a lower voltage, P = V²/R is smaller and it glows dimmer.
+## remember
+- P = VI = I²R = V²/R; unit watt (W) = J/s.
+- Heat in a resistor: H = I²Rt.
+- 1 unit = 1 kWh = 3.6 × 10^{6} J.
+- Units = W × hours ÷ 1000; cost = units × price per unit.
+## think
+Two bulbs, 40 W and 100 W (both rated 220 V), are connected in series to 220 V. Which one glows brighter? (Hint: find each resistance first, and remember the current is the same in series.)
+## quiz
+? The resistance of a 220 V, 100 W bulb is:
+- 2.2 Ω
+- 100 Ω
+- 220 Ω
+* 484 Ω
+= R = V²/P = 220² ÷ 100 = 484 Ω.
+? 1 kilowatt-hour is equal to:
+- 1000 J
+- 3600 J
+* 3.6 × 10^{6} J
+- 60 000 J
+= 1000 W × 3600 s = 3.6 × 10^{6} J.
+? A 1500 W heater is used for 2 hours. The energy used is:
+- 750 units
+* 3 units
+- 0.75 units
+- 3000 units
+= 1500 × 2 ÷ 1000 = 3 kWh = 3 units.
+? The heat produced in a resistor in time t is:
+* I²Rt
+- IR²t
+- V²Rt
+- I²t/R
+= H = Pt = I²Rt.
+== bn
+## what
+**তড়িৎ ক্ষমতা** হলো বৈদ্যুতিক শক্তি সরবরাহ বা ব্যবহারের হার: P = VI = I²R = V²/R, একক **ওয়াট (W)**। ব্যবহৃত শক্তি W = Pt; বিলের জন্য একে মাপা হয় **কিলোওয়াট-ঘণ্টায় (kWh)**, যাকে বলে **বোর্ড অব ট্রেড (BOT) ইউনিট** বা শুধু **ইউনিট**।
+## simple
+**ক্ষমতার সূত্র কোথা থেকে এলো?** আগের অধ্যায়ে দেখেছি, Q চার্জকে V বিভব পার্থক্যের মধ্য দিয়ে নিতে কাজ (শক্তি) লাগে **W = VQ**। ক্ষমতা হলো প্রতি সেকেন্ডে কাজ। t সময়ে Q চার্জ গেলে:
+
+P = W/t = VQ/t = **VI** (কারণ Q/t = I)
+
+একক **ওয়াট (W)**: ১ W = ১ J/s = ১ V × ১ A।
+
+**আরও দুটি রূপ।** R রোধের জন্য ওহমের সূত্র বলে V = IR। এটা P = VI-তে বসাও:
+
+**P = I²R**, আর I = V/R বলে **P = V²/R**
+
+যেটা জানা আছে সেই অনুযায়ী রূপটা বেছে নাও।
+
+**শক্তি যায় কোথায়?** যেকোনো রোধের মধ্য দিয়ে যথেষ্ট প্রবাহ চালালে এটি **গরম** হয়: বৈদ্যুতিক শক্তি **তাপে** পরিণত হয়। t সময়ে উৎপন্ন তাপ **H = I²Rt**। ইস্ত্রি, কেটলি, রাইস কুকার আর হিটার এভাবেই কাজ করে। পুরোনো **ফিলামেন্ট বাল্বও** তাপ দিয়েই কাজ করে: আলো দিতে এর ফিলামেন্টকে সাদা-গরম হতে হয়, তাই এর শক্তির বেশিরভাগ তাপ হিসেবে নষ্ট হয় (একটা ছুঁয়ে দেখো, টের পাবে!)। এজন্যই ফিলামেন্ট বাল্বের জায়গা নিচ্ছে LED বাল্ব, যা অনেক কম ক্ষমতায় একই আলো দেয়। অবশ্য বৈদ্যুতিক শক্তি ফ্যান, ফ্রিজ, টিভি, কম্পিউটার আর চার্জারও চালায়, তাপের পাশাপাশি গতি, আলো আর শব্দে রূপ নেয়।
+
+**ক্ষমতার মানের অর্থ।** **২২০ V, ১০০ W** লেখা একটি বাল্ব **২২০ V-এ যুক্ত থাকলে** প্রতি সেকেন্ডে ১০০ J শক্তি ব্যবহার করে। P = V²/R থেকে এর ফিলামেন্টের (গরম অবস্থায়) রোধ R = ২২০² ÷ ১০০ = ৪৮৪ Ω।
+
+**কিলোওয়াট-ঘণ্টা: তোমার বিলের একক।** বাসার কাজে জুল খুবই ছোট একক। প্রতিটি বাসায় একটি **বিদ্যুৎ মিটার** থাকে, যা ভোল্টেজ আর প্রবাহের হিসাব রাখে, তাই জানে প্রতি সেকেন্ডে কত শক্তি (P = VI) সরবরাহ হচ্ছে, আর সময়ের সাথে তা যোগ করে। একক হলো **কিলোওয়াট-ঘণ্টা**:
+
+১ kWh = ১০০০ W × ৩৬০০ s = **৩.৬ × ১০^{৬} J**
+
+১ kWh = ১ **ইউনিট** (বোর্ড অব ট্রেড ইউনিট)। ১০০০ W-এর ইস্ত্রি ১ ঘণ্টা, বা ১০০ W-এর বাল্ব ১০ ঘণ্টা চালালে ১ ইউনিট খরচ হয়।
+
+**বিল বের করতে:**
+
+শক্তি (ইউনিট) = ক্ষমতা (W) × সময় (ঘণ্টা) ÷ ১০০০
+
+খরচ = ইউনিট সংখ্যা × প্রতি ইউনিটের দাম
+## analogy
+বিদ্যুৎ বিল যেন "ইউনিটে" মাপা ট্যাক্সি ভাড়া। ১ ইউনিট (১ kWh) হলো ১০০০ W ইস্ত্রি ১ ঘণ্টায় যতটুকু খরচ করে, বা ১০০ W বাল্ব ১০ ঘণ্টায়। মিটার দেখে না তোমার কয়টি যন্ত্র আছে, শুধু দেখে কত ক্ষমতা কতক্ষণ খরচ হলো।
+## definition
+**তড়িৎ ক্ষমতা**: যে হারে বৈদ্যুতিক শক্তি অন্য রূপে রূপান্তরিত হয় (বা প্রবাহ কাজ করে)। P = W/t = VI। একক: **ওয়াট (W)**; ১ W = ১ J/s।
+
+**কিলোওয়াট-ঘণ্টা (kWh)**: ১ কিলোওয়াট ক্ষমতার কোনো যন্ত্র ১ ঘণ্টা চললে যে বৈদ্যুতিক শক্তি ব্যবহৃত হয়। ১ kWh = ৩.৬ × ১০^{৬} J। একে বোর্ড অব ট্রেড (BOT) ইউনিট বা সংক্ষেপে ইউনিট বলে।
+## why
+হিটারে উচ্চ রোধের তার আর সংযোগে কম রোধের তার ব্যবহার করা হয় কেন? একই প্রবাহে উৎপন্ন তাপ I²R, তাই তাপ তৈরি হয় যেখানে রোধ বেশি। নাইক্রোমের কয়েল (বেশি R) লাল-গরম হয়, অথচ তার দিকে যাওয়া তামার তার (খুব কম R) ঠান্ডা থাকে।
+## terms
+তড়িৎ ক্ষমতা (P) | প্রতি সেকেন্ডে সরবরাহকৃত বা ব্যবহৃত শক্তি
+ওয়াট (W) | ১ J/s = ১ V × ১ A
+কিলোওয়াট (kW) | ১০০০ W
+কিলোওয়াট-ঘণ্টা (kWh) | ১ kW ক্ষমতায় ১ ঘণ্টায় ব্যবহৃত শক্তি = ৩.৬ × ১০^{৬} J
+BOT ইউনিট / ইউনিট | বিদ্যুৎ বিলে kWh-এর আরেক নাম
+বিদ্যুৎ মিটার | বাসায় ব্যবহৃত বৈদ্যুতিক শক্তি রেকর্ড করে
+## formula
+$$ W = VQ = VIt
+tri P | V | I
+$$ P = VI = I²R = V²/R
+$$ তাপ: H = I²Rt
+$$ শক্তি (ইউনিট) = P (W) × t (ঘণ্টা) ÷ ১০০০
+P | ক্ষমতা | W
+V | বিভব পার্থক্য | V
+I | তড়িৎ প্রবাহ | A
+R | রোধ | Ω
+t | সময় | s (kWh-এর জন্য h)
+! ১ kWh = ১ ইউনিট = ৩.৬ × ১০^{৬} J
+## visual
+যন্ত্র বেছে নাও, প্রতিদিন কত ঘণ্টা চলে তা ঠিক করো, আর প্রতি ইউনিটের দাম দাও। হিসাবযন্ত্রটি এক মাসে ব্যবহৃত ইউনিট আর বিল দেখায়। প্রতি ইউনিটের দামটা শুধু উদাহরণ; আসল দর আলাদা এবং বদলায়।
+## real
+তোমার পরিবারের বিদ্যুৎ বিল (বা প্রিপেইড মিটারের রিচার্জ) ইউনিটে, অর্থাৎ kWh-এ গোনা হয়। প্রায় একই আলো দেয় এমন ৯ W LED বাল্ব দিয়ে ৬০ W ফিলামেন্ট বাল্ব বদলালে ৫১ W বাঁচে; দিনে ৫ ঘণ্টা করে ৩০ দিন চালালে প্রতি বাল্বে মাসে ৫১ × ১৫০ ÷ ১০০০ ≈ ৭.৭ ইউনিট সাশ্রয়।
+## example
+প্রশ্ন: ২২০ V, ১০০ W লেখা একটি বাল্বের ফিলামেন্টের রোধ কত? এর মধ্য দিয়ে কত প্রবাহ চলে?
+দেওয়া আছে: V = ২২০ V, P = ১০০ W
+সূত্র: P = V²/R → R = V²/P
+হিসাব: R = ২২০² ÷ ১০০ = ৪৮ ৪০০ ÷ ১০০ = ৪৮৪ Ω
+হিসাব: I = V/R = ২২০ ÷ ৪৮৪ ≈ ০.৪৫ A (যাচাই: I = P/V = ১০০ ÷ ২২০ ≈ ০.৪৫ A)
+উত্তর: R = ৪৮৪ Ω, I ≈ ০.৪৫ A
+## example
+প্রশ্ন: একটি ৬০ W বাল্ব প্রতিদিন ৫ ঘণ্টা করে ৩০ দিন জ্বলে। কত শক্তি খরচ হয়? প্রতি ইউনিটের দাম ১০ টাকা হলে খরচ কত?
+দেওয়া আছে: P = ৬০ W, t = ৫ × ৩০ = ১৫০ h
+সূত্র: শক্তি (ইউনিট) = P × t ÷ ১০০০
+হিসাব: ৬০ × ১৫০ ÷ ১০০০ = ৯ ইউনিট; খরচ = ৯ × ১০ = ৯০ টাকা
+উত্তর: ৯ ইউনিট (kWh), ৯০ টাকা
+## example
+প্রশ্ন: আলভী পড়ার সময় প্রতিদিন ৩ ঘণ্টা একটি ২২০ V–১০০ W বাল্ব ব্যবহার করে। তার ভাই আলিফ প্রতিদিন ৪ ঘণ্টা একটি ২২০ V–৪০ W টেবিল ল্যাম্প ব্যবহার করে। প্রতি ইউনিটের দাম ৬ টাকা। আলিফের ল্যাম্পের প্রবাহ বের করো, আর ৩০ দিনের মাসে কে কম খরচ করে?
+হিসাব: আলিফের প্রবাহ I = P/V = ৪০ ÷ ২২০ ≈ ০.১৮ A
+হিসাব: আলভী: ১০০ × ৩ × ৩০ ÷ ১০০০ = ৯ ইউনিট → ৯ × ৬ = ৫৪ টাকা
+হিসাব: আলিফ: ৪০ × ৪ × ৩০ ÷ ১০০০ = ৪.৮ ইউনিট → ৪.৮ × ৬ = ২৮.৮ টাকা
+> আলিফ বেশিক্ষণ ল্যাম্প জ্বালায়, কিন্তু এর ক্ষমতা অনেক কম, তাই শক্তি কম খরচ হয়।
+উত্তর: আলিফের ল্যাম্পে প্রায় ০.১৮ A; আলিফ বেশি সাশ্রয়ী (৫৪ টাকার বিপরীতে ২৮.৮ টাকা)।
+## mistakes
+x কিলোওয়াট-ঘণ্টা ক্ষমতার একক।
+v kWh হলো **শক্তির** একক (ক্ষমতা × সময়)। কিলোওয়াট হলো ক্ষমতার একক।
+x ১০০ W বাল্ব যেকোনো ভোল্টেজে সবসময় ১০০ W নেয়।
+v শুধু নির্ধারিত ২২০ V-এ ১০০ W নেয়। কম ভোল্টেজে P = V²/R কম, তাই কম উজ্জ্বল জ্বলে।
+## remember
+- P = VI = I²R = V²/R; একক ওয়াট (W) = J/s।
+- রোধে তাপ: H = I²Rt।
+- ১ ইউনিট = ১ kWh = ৩.৬ × ১০^{৬} J।
+- ইউনিট = W × ঘণ্টা ÷ ১০০০; খরচ = ইউনিট × প্রতি ইউনিটের দাম।
+## think
+৪০ W আর ১০০ W-এর দুটি বাল্ব (দুটিই ২২০ V-এর) শ্রেণিতে ২২০ V-এ যুক্ত করা হলো। কোনটি বেশি উজ্জ্বল জ্বলবে? (ইঙ্গিত: আগে প্রতিটির রোধ বের করো, আর মনে রাখো শ্রেণিতে প্রবাহ একই।)
+## quiz
+? ২২০ V, ১০০ W বাল্বের রোধ:
+- ২.২ Ω
+- ১০০ Ω
+- ২২০ Ω
+* ৪৮৪ Ω
+= R = V²/P = ২২০² ÷ ১০০ = ৪৮৪ Ω।
+? ১ কিলোওয়াট-ঘণ্টা সমান:
+- ১০০০ J
+- ৩৬০০ J
+* ৩.৬ × ১০^{৬} J
+- ৬০ ০০০ J
+= ১০০০ W × ৩৬০০ s = ৩.৬ × ১০^{৬} J।
+? একটি ১৫০০ W হিটার ২ ঘণ্টা চালানো হলো। ব্যবহৃত শক্তি:
+- ৭৫০ ইউনিট
+* ৩ ইউনিট
+- ০.৭৫ ইউনিট
+- ৩০০০ ইউনিট
+= ১৫০০ × ২ ÷ ১০০০ = ৩ kWh = ৩ ইউনিট।
+? t সময়ে কোনো রোধে উৎপন্ন তাপ:
+* I²Rt
+- IR²t
+- V²Rt
+- I²t/R
+= H = Pt = I²Rt।
+
+@@ 11.4
+@visual c11loss
+@related 11.3 11.2.2 12.3.2 11.6
+== en
+## what
+Electricity is sent across the country at **very high voltage** to reduce the energy lost as heat (I²R) in the transmission wires. This unavoidable loss in the wires is the **system loss**. When the demand in an area is more than the electricity available, the supply to some areas is cut off in turn: **load shedding**.
+## simple
+**The journey of electricity.** Power plants in different parts of the country produce electricity. It all goes into the **national grid**, a network of transmission lines, and is sent to **substations** in different areas. From there, **distribution lines** carry it to homes, shops and factories.
+
+**The problem: hot wires.** Every wire has some resistance R, however small. When current I flows through it, energy is turned into heat at the rate **I²R** every second. Over hundreds of kilometres of line, this adds up to a lot of wasted energy. We can't make R zero, so the trick is to make **I small**.
+
+**The trick: high voltage.** The power supplied is P = VI. For the same power, if we raise the voltage **10 times**, the current needed is **10 times smaller**. The heat loss I²R then becomes **10² = 100 times smaller**! So at the power station, **step-up transformers** raise the voltage to many thousands of volts (lines in Bangladesh carry 132 kV, 230 kV, even 400 kV). Near the consumers, **step-down transformers** bring it back down to a safe 220 V for home use. (You will learn how transformers work in the next chapter.)
+
+**But wait, isn't loss also V²/R?** A clever student might say: "Loss is V²/R, so raising V by 10 should make the loss 100 times **bigger**!" Here is the catch. In V²/R, V must be the **potential difference between the two ends of the wire**, i.e. the small drop along the line. The "high voltage" of a transmission line is the potential of the line itself, not the drop along it. The two ends of the line are at almost the same potential, so the drop, and the loss, is small.
+
+**System loss.** Even with high voltage, some energy is always lost as I²R heat in the transmission and distribution wires. This loss of electrical energy is called **system loss**. (In everyday news the term is also used to include energy lost to theft or faulty meters, but the physics part is the I²R heating.)
+
+**Load shedding.** Each power plant produces a definite amount of electricity, and all of it is fed into the national grid, which supplies each area according to its needs. If the **demand** in an area is more than the electricity **available** to it, the full demand cannot be met. The substation is then forced to switch off the supply to one area so that another area can get electricity. This is **load shedding**. When enough supply returns, the area is connected again. If load shedding has to go on for hours, the authority does it **in rotation**, switching off different areas at different times so that no single area suffers all the time.
+
+**What can we do?** Every unit we don't waste lowers the demand: switch off lights and fans when leaving a room, use LED bulbs, set the AC to about 25 °C, and avoid running heavy appliances (irons, pumps, ACs) during the evening **peak hours**.
+## analogy
+Sending electricity is like delivering rice. You can send many small rickshaw loads (low voltage, big current) or a few big truck loads (high voltage, small current). The road "charges" you for every trip (I²R heat loss), so the few big trucks lose far less on the way. At your area a transformer unloads it into small safe amounts.
+## definition
+**System loss**: the electrical energy lost, mainly as heat (I²R), in the transmission and distribution wires while electricity is carried from the power plants to the consumers.
+
+**Load shedding**: the planned switching off of the electricity supply to some areas, in turn, when the demand for electricity is greater than the supply available.
+## why
+Why does raising the voltage reduce the loss so much? The loss depends on the **square** of the current (I²R), while the power delivered depends only on the current to the first power (VI). Cutting I by a factor of 10 (by raising V 10 times) keeps the power the same but cuts the loss by 10 × 10 = 100.
+## terms
+National grid | Network that joins all power plants and carries electricity across the country
+Substation | Station where voltage is changed and supply is distributed to an area
+Step-up transformer | Raises the voltage (at the power plant)
+Step-down transformer | Lowers the voltage (near consumers)
+System loss | Energy lost as heat in the lines
+Load shedding | Switching areas off in turn when demand exceeds supply
+Peak hours | Time of highest demand (usually evening)
+## formula
+$$ I = P / V
+$$ Power lost in the line = I²R
+! V × 10 → I ÷ 10 → loss ÷ 100 (for the same power and line resistance).
+## visual
+Send the same power through the same line at different voltages. Compare the current and the power lost as heat.
+## real
+Tall steel towers carrying thick lines across the countryside are the national grid's high-voltage transmission lines. The humming grey transformer boxes on electric poles in your area step the voltage down for your home. During summer evenings, when fans and ACs are all running, demand is highest, and that is when load shedding is most likely.
+## example
+Q: A power plant sends 1 MW (10^{6} W) through a line of resistance 5 Ω. Find the power lost as heat if it is sent at (a) 11 kV and (b) 132 kV.
+Formula: I = P/V; loss = I²R
+Calculation: (a) I = 10^{6} ÷ 11 000 ≈ 90.9 A; loss = 90.9² × 5 ≈ 41 300 W ≈ 41 kW (about 4% of the power)
+Calculation: (b) I = 10^{6} ÷ 132 000 ≈ 7.58 A; loss = 7.58² × 5 ≈ 287 W (about 0.03%)
+> 132 kV is 12 times 11 kV, so the loss falls by 12² = 144 times.
+Answer: (a) about 41 kW, (b) about 0.29 kW
+## mistakes
+x High voltage is used for transmission because high voltage means high current.
+v For the same power, higher voltage means **lower** current, and so much less I²R loss.
+x Load shedding happens because the wires are too thin.
+v Load shedding happens when the demand for electricity is more than the supply available.
+## remember
+- Loss in the wires = I²R (system loss).
+- Same power at 10× voltage → 1/10 current → 1/100 loss.
+- Step-up transformer at the power plant, step-down near consumers.
+- Load shedding: supply cut in rotation when demand > supply.
+## think
+If transmission at high voltage reduces loss so much, why don't we use very high voltage inside our homes too?
+## quiz
+? Electricity is transmitted at high voltage mainly to:
+- Make it travel faster
+* Reduce the heat loss in the wires
+- Increase the current
+- Make the wires lighter
+= Higher V means lower I for the same power, so I²R loss is smaller.
+? If the transmission voltage is increased 10 times for the same power, the heat loss becomes:
+- 10 times more
+- 10 times less
+* 100 times less
+- The same
+= I falls 10 times, and loss ∝ I², so it falls 100 times.
+? Load shedding happens when:
+- The voltage is too high
+* The demand for electricity is more than the supply
+- The transformers are step-up
+- There is no system loss
+= The substation must cut some areas to supply others.
+== bn
+## what
+সারা দেশে বিদ্যুৎ পাঠানো হয় **অনেক উচ্চ ভোল্টেজে**, যাতে সঞ্চালন তারে তাপ হিসেবে (I²R) শক্তির অপচয় কমে। তারে এই অনিবার্য অপচয় হলো **সিস্টেম লস**। কোনো এলাকায় চাহিদা পাওয়া বিদ্যুতের চেয়ে বেশি হলে পালাক্রমে কিছু এলাকার সরবরাহ বন্ধ রাখা হয়: **লোডশেডিং**।
+## simple
+**বিদ্যুতের যাত্রা।** দেশের বিভিন্ন জায়গার বিদ্যুৎকেন্দ্রে বিদ্যুৎ উৎপন্ন হয়। সব যায় **জাতীয় গ্রিডে**, অর্থাৎ সঞ্চালন লাইনের একটি জালে, আর পাঠানো হয় বিভিন্ন এলাকার **উপকেন্দ্রে** (সাবস্টেশন)। সেখান থেকে **বিতরণ লাইন** বাসা, দোকান আর কারখানায় পৌঁছে দেয়।
+
+**সমস্যা: গরম তার।** প্রতিটি তারের কিছু না কিছু রোধ R আছে, যত ছোটই হোক। এর মধ্য দিয়ে I প্রবাহ চললে প্রতি সেকেন্ডে **I²R** হারে শক্তি তাপে পরিণত হয়। শত শত কিলোমিটার লাইনে এটা মিলে বিরাট অপচয়। R-কে শূন্য করা যায় না, তাই কৌশল হলো **I ছোট করা**।
+
+**কৌশল: উচ্চ ভোল্টেজ।** সরবরাহকৃত ক্ষমতা P = VI। একই ক্ষমতায় ভোল্টেজ **১০ গুণ** বাড়ালে প্রবাহ লাগে **১০ গুণ কম**। তখন তাপীয় অপচয় I²R হয় **১০² = ১০০ গুণ কম**! তাই বিদ্যুৎকেন্দ্রে **স্টেপ-আপ ট্রান্সফরমার** ভোল্টেজ বাড়িয়ে হাজার হাজার ভোল্ট করে (বাংলাদেশে লাইনগুলো ১৩২ kV, ২৩০ kV, এমনকি ৪০০ kV বহন করে)। গ্রাহকের কাছে **স্টেপ-ডাউন ট্রান্সফরমার** একে নামিয়ে বাসায় ব্যবহারের জন্য নিরাপদ ২২০ V-এ আনে। (ট্রান্সফরমার কীভাবে কাজ করে তা পরের অধ্যায়ে শিখবে।)
+
+**কিন্তু অপচয় তো V²/R-ও!** বুদ্ধিমান কোনো শিক্ষার্থী বলতে পারে: "অপচয় V²/R, তাই V ১০ গুণ বাড়ালে অপচয় ১০০ গুণ **বাড়ার** কথা!" মারপ্যাঁচটা এখানে। V²/R-এ V হতে হবে **তারের দুই প্রান্তের বিভব পার্থক্য**, অর্থাৎ লাইন বরাবর ছোট্ট বিভব পতন। সঞ্চালন লাইনের "উচ্চ ভোল্টেজ" হলো লাইনের নিজের বিভব, এর বরাবর পতন নয়। লাইনের দুই প্রান্ত প্রায় একই বিভবে, তাই পতন, আর অপচয়, কম।
+
+**সিস্টেম লস।** উচ্চ ভোল্টেজেও সঞ্চালন ও বিতরণ তারে কিছু শক্তি সবসময় I²R তাপ হিসেবে নষ্ট হয়। বৈদ্যুতিক শক্তির এই অপচয়কে বলে **সিস্টেম লস**। (রোজকার খবরে এই শব্দে চুরি বা ত্রুটিপূর্ণ মিটারে হারানো শক্তিও ধরা হয়, তবে পদার্থবিজ্ঞানের অংশটা হলো I²R তাপ।)
+
+**লোডশেডিং।** প্রতিটি বিদ্যুৎকেন্দ্র নির্দিষ্ট পরিমাণ বিদ্যুৎ উৎপাদন করে, আর সবটা জাতীয় গ্রিডে যোগ হয়, যা প্রতিটি এলাকার চাহিদা অনুযায়ী সরবরাহ করে। কোনো এলাকার **চাহিদা** তার জন্য **পাওয়া** বিদ্যুতের চেয়ে বেশি হলে পুরো চাহিদা মেটানো যায় না। তখন এক এলাকায় বিদ্যুৎ দিতে উপকেন্দ্র বাধ্য হয়ে অন্য এলাকার সরবরাহ বন্ধ রাখে। এটাই **লোডশেডিং**। যথেষ্ট সরবরাহ ফিরলে এলাকাটি আবার যুক্ত হয়। ঘণ্টার পর ঘণ্টা লোডশেডিং করতে হলে কর্তৃপক্ষ তা **পালাক্রমে** করে, বিভিন্ন সময়ে বিভিন্ন এলাকা বন্ধ রেখে, যাতে কোনো একটি এলাকা সারাক্ষণ কষ্ট না পায়।
+
+**আমরা কী করতে পারি?** যে ইউনিট আমরা নষ্ট করি না, সেটাই চাহিদা কমায়: ঘর ছাড়ার সময় লাইট-ফ্যান বন্ধ করো, LED বাল্ব ব্যবহার করো, এসি প্রায় ২৫ °C-এ রাখো, আর সন্ধ্যার **পিক আওয়ারে** ভারী যন্ত্র (ইস্ত্রি, পাম্প, এসি) চালানো এড়িয়ে চলো।
+## analogy
+বিদ্যুৎ পাঠানো যেন চাল পৌঁছে দেওয়া। অনেকগুলো ছোট রিকশা-বোঝাই (কম ভোল্টেজ, বেশি প্রবাহ) বা কয়েকটি বড় ট্রাক-বোঝাই (বেশি ভোল্টেজ, কম প্রবাহ) পাঠাতে পারো। রাস্তা প্রতিটি যাত্রায় "মাশুল" নেয় (I²R তাপ অপচয়), তাই কয়েকটি বড় ট্রাকে পথে অনেক কম নষ্ট হয়। তোমার এলাকায় ট্রান্সফরমার তা ছোট, নিরাপদ মাপে নামিয়ে দেয়।
+## definition
+**সিস্টেম লস**: বিদ্যুৎকেন্দ্র থেকে গ্রাহকের কাছে বিদ্যুৎ নেওয়ার সময় সঞ্চালন ও বিতরণ তারে প্রধানত তাপ (I²R) হিসেবে যে বৈদ্যুতিক শক্তি নষ্ট হয়।
+
+**লোডশেডিং**: বিদ্যুতের চাহিদা পাওয়া সরবরাহের চেয়ে বেশি হলে পালাক্রমে কিছু এলাকার বিদ্যুৎ সরবরাহ পরিকল্পিতভাবে বন্ধ রাখা।
+## why
+ভোল্টেজ বাড়ালে অপচয় এত কমে কেন? অপচয় নির্ভর করে প্রবাহের **বর্গের** ওপর (I²R), অথচ সরবরাহকৃত ক্ষমতা নির্ভর করে শুধু প্রবাহের ওপর (VI)। I-কে ১০ গুণ কমালে (V ১০ গুণ বাড়িয়ে) ক্ষমতা একই থাকে, কিন্তু অপচয় কমে ১০ × ১০ = ১০০ গুণ।
+## terms
+জাতীয় গ্রিড | সব বিদ্যুৎকেন্দ্রকে যুক্ত করে সারা দেশে বিদ্যুৎ বহনকারী জাল
+উপকেন্দ্র (সাবস্টেশন) | যেখানে ভোল্টেজ বদলানো হয় আর একটি এলাকায় সরবরাহ বিতরণ করা হয়
+স্টেপ-আপ ট্রান্সফরমার | ভোল্টেজ বাড়ায় (বিদ্যুৎকেন্দ্রে)
+স্টেপ-ডাউন ট্রান্সফরমার | ভোল্টেজ কমায় (গ্রাহকের কাছে)
+সিস্টেম লস | লাইনে তাপ হিসেবে শক্তির অপচয়
+লোডশেডিং | চাহিদা সরবরাহের চেয়ে বেশি হলে পালাক্রমে এলাকা বন্ধ রাখা
+পিক আওয়ার | সবচেয়ে বেশি চাহিদার সময় (সাধারণত সন্ধ্যা)
+## formula
+$$ I = P / V
+$$ লাইনে অপচিত ক্ষমতা = I²R
+! V × ১০ → I ÷ ১০ → অপচয় ÷ ১০০ (একই ক্ষমতা ও লাইনের রোধে)।
+## visual
+একই লাইন দিয়ে একই ক্ষমতা বিভিন্ন ভোল্টেজে পাঠাও। প্রবাহ আর তাপ হিসেবে নষ্ট হওয়া ক্ষমতা তুলনা করো।
+## real
+গ্রামের মাঠের ওপর দিয়ে মোটা তার বয়ে নেওয়া উঁচু ইস্পাতের টাওয়ারগুলো জাতীয় গ্রিডের উচ্চ ভোল্টেজ সঞ্চালন লাইন। তোমার এলাকার বিদ্যুতের খুঁটিতে গুনগুন করা ধূসর ট্রান্সফরমার তোমার বাসার জন্য ভোল্টেজ নামিয়ে দেয়। গ্রীষ্মের সন্ধ্যায় যখন সব ফ্যান আর এসি চলে, চাহিদা সবচেয়ে বেশি, আর তখনই লোডশেডিংয়ের সম্ভাবনা সবচেয়ে বেশি।
+## example
+প্রশ্ন: একটি বিদ্যুৎকেন্দ্র ৫ Ω রোধের একটি লাইন দিয়ে ১ MW (১০^{৬} W) পাঠায়। (ক) ১১ kV এবং (খ) ১৩২ kV-এ পাঠালে তাপ হিসেবে কত ক্ষমতা নষ্ট হবে?
+সূত্র: I = P/V; অপচয় = I²R
+হিসাব: (ক) I = ১০^{৬} ÷ ১১ ০০০ ≈ ৯০.৯ A; অপচয় = ৯০.৯² × ৫ ≈ ৪১ ৩০০ W ≈ ৪১ kW (ক্ষমতার প্রায় ৪%)
+হিসাব: (খ) I = ১০^{৬} ÷ ১৩২ ০০০ ≈ ৭.৫৮ A; অপচয় = ৭.৫৮² × ৫ ≈ ২৮৭ W (প্রায় ০.০৩%)
+> ১৩২ kV হলো ১১ kV-এর ১২ গুণ, তাই অপচয় কমে ১২² = ১৪৪ গুণ।
+উত্তর: (ক) প্রায় ৪১ kW, (খ) প্রায় ০.২৯ kW
+## mistakes
+x উচ্চ ভোল্টেজ মানে উচ্চ প্রবাহ, তাই সঞ্চালনে উচ্চ ভোল্টেজ ব্যবহার করা হয়।
+v একই ক্ষমতায় বেশি ভোল্টেজ মানে **কম** প্রবাহ, তাই I²R অপচয় অনেক কম।
+x তার খুব সরু বলে লোডশেডিং হয়।
+v বিদ্যুতের চাহিদা পাওয়া সরবরাহের চেয়ে বেশি হলে লোডশেডিং হয়।
+## remember
+- তারে অপচয় = I²R (সিস্টেম লস)।
+- একই ক্ষমতা ১০ গুণ ভোল্টেজে → ১/১০ প্রবাহ → ১/১০০ অপচয়।
+- বিদ্যুৎকেন্দ্রে স্টেপ-আপ, গ্রাহকের কাছে স্টেপ-ডাউন ট্রান্সফরমার।
+- লোডশেডিং: চাহিদা > সরবরাহ হলে পালাক্রমে সরবরাহ বন্ধ।
+## think
+উচ্চ ভোল্টেজে সঞ্চালনে অপচয় এত কমে গেলে বাসার ভেতরেও কেন আমরা অনেক উচ্চ ভোল্টেজ ব্যবহার করি না?
+## quiz
+? উচ্চ ভোল্টেজে বিদ্যুৎ সঞ্চালন করা হয় প্রধানত:
+- বিদ্যুৎকে দ্রুত পাঠাতে
+* তারে তাপীয় অপচয় কমাতে
+- প্রবাহ বাড়াতে
+- তার হালকা করতে
+= একই ক্ষমতায় বেশি V মানে কম I, তাই I²R অপচয় কম।
+? একই ক্ষমতার জন্য সঞ্চালন ভোল্টেজ ১০ গুণ বাড়ালে তাপীয় অপচয় হয়:
+- ১০ গুণ বেশি
+- ১০ গুণ কম
+* ১০০ গুণ কম
+- একই
+= I ১০ গুণ কমে, আর অপচয় ∝ I², তাই ১০০ গুণ কমে।
+? লোডশেডিং হয় যখন:
+- ভোল্টেজ খুব বেশি
+* বিদ্যুতের চাহিদা সরবরাহের চেয়ে বেশি
+- ট্রান্সফরমার স্টেপ-আপ
+- কোনো সিস্টেম লস নেই
+= অন্য এলাকায় দিতে উপকেন্দ্রকে কিছু এলাকা বন্ধ রাখতে হয়।
+
+@@ 11.5
+@visual c11safe
+@related 11.6 11.3 11.2.1 10.8
+== en
+## what
+The 220 V mains supply can kill. We use electricity safely with **insulation**, **good connections**, keeping **water** away, **fuses and circuit breakers** to stop dangerous currents, **switches on the live wire**, and **earthing** the metal body of appliances.
+## simple
+Electricity lights our homes, runs fans in summer, keeps food fresh in the fridge, irons our clothes, charges our phones and runs pumps, washing machines and ovens. But the **220 V AC** supply in Bangladesh can give a dangerous shock, even a fatal one.
+
+**How much current is dangerous?** A current of only about **10 mA** (0.01 A) passing through the heart can kill. Use Ohm's law. The resistance of **dry skin** is roughly **100 000 Ω**, so 220 V drives about 220 ÷ 100 000 = 2.2 mA. Wet skin can have about a **thousand times less** resistance, around 100 Ω, and then the current could be 220 ÷ 100 = 2.2 A, hundreds of times the deadly level. That is why a person with **wet feet on a wet floor** is in the greatest danger. A shocked person often **cannot let go**, because the current makes the muscles of the hands and legs contract.
+
+With a few simple precautions, millions of people use electricity safely every day:
+
+**(a) Insulation.** Bare live wires are dangerous, so wires are always covered with plastic or another insulator. If the insulation breaks and the live and neutral wires touch directly (a **short circuit**), there is almost no resistance, so by Ohm's law a huge current flows. The wire gets very hot, the plastic burns, and a fire can start. Keep insulation whole; replace cracked cords.
+
+**(b) Good connections.** Loose or badly made connections, especially for heavy appliances, add extra resistance. The heat I²R at that spot can melt the insulation and damage the socket or plug. Loose plugs that feel warm are a warning sign.
+
+**(c) Keep water away.** Water (with dissolved salts) conducts, so it can cause short circuits and shocks. Never use a hair dryer or iron near water; if one falls into water, anyone who touches the water may be electrocuted.
+
+**(d) Fuse and circuit breaker.** Big accidents happen when a very large current suddenly flows because of a fault. A **fuse** is a short piece of **thin wire** placed in the line before an appliance. Being thin, it has more resistance, so it heats most (I²R). If the current goes above its rating, the fuse wire **melts** and breaks the circuit. A **circuit breaker** does the same job with a switch that **trips** automatically when the current exceeds a safe level; after fixing the fault you simply switch it back on.
+
+**(e) Switch on the live wire.** The supply has two wires: the **live** wire at high potential and the **neutral** wire at nearly zero potential. Current goes from the live wire through the appliance and returns by the neutral. A switch could be placed on either, but it must be on the **live** wire. Then when the switch is off, no high voltage reaches the appliance. If the switch were on the neutral, the appliance would still be "live" inside even when switched off, and touching it could give a shock.
+
+**(f) Earthing.** Many appliances with metal bodies (fridge, iron, computer, washing machine) have a **three-pin plug**: live, neutral and a third pin, **earth**, connected to the metal body. If a fault makes the live wire touch the body, a large current rushes straight into the ground through the earth wire. That large current blows the fuse (or trips the breaker) and cuts off the supply, so anyone who touches the body later is safe.
+
+**Dangerous activities to avoid:** overloading one socket with many plugs, pulling a plug by its cord, flying kites near power lines, climbing electric poles, touching switches with wet hands, pushing things into sockets, and using appliances with damaged cords. If someone gets a shock, **switch off the supply first**, or push them away with dry wood or plastic; never touch them with bare hands.
+## analogy
+A fuse is like a **security guard** at a gate who lets a normal crowd through but shuts the gate the moment too many people rush in. When too much current flows, the fuse wire melts and breaks the circuit before the wires can overheat and start a fire.
+## definition
+**Short circuit**: a direct, very low-resistance connection between the live and neutral (or earth) wires, which causes a very large current.
+
+**Fuse**: a safety device containing a short thin wire of low melting point that melts and breaks the circuit when the current exceeds a set value.
+
+**Circuit breaker**: an automatic switch that opens (trips) the circuit when the current exceeds a safe value, and can be reset.
+
+**Earthing**: connecting the metal body of an appliance to the earth through a wire, so that any leakage current flows to the ground and the fuse or breaker cuts off the supply.
+## why
+Why does a fuse blow before the wires of the house overheat? The fuse wire is thinner and has a lower melting point, so for the same current it heats up faster than the thick house wiring. It is designed to be the "weakest link", failing on purpose before anything else is damaged.
+## terms
+Live wire | Carries the high potential (220 V)
+Neutral wire | Return wire, at nearly zero potential
+Earth wire | Connects the metal body to the ground
+Short circuit | Live touches neutral/earth directly; huge current
+Fuse | Thin wire that melts on overload
+Circuit breaker | Automatic switch that trips on overload; resettable
+Fuse rating | Current above which the fuse melts, e.g. 5 A
+## formula
+$$ I = V / R (shock current through the body)
+$$ Normal current of an appliance: I = P / V
+! Choose a fuse rating a little above the normal current of the appliance.
+! About 10 mA through the heart can be fatal.
+## visual
+Choose a fault (none, live touches the metal body, or a short circuit) and turn earthing, the fuse and the switch position on or off. See whether a person who touches the appliance is safe.
+## real
+In the rainy season in Bangladesh, many electrocution accidents happen from loose overhead wires and waterlogged streets and homes. Proper earthing, good circuit breakers, and never touching electrical fittings with wet hands save lives.
+## example
+Q: A person touches a 220 V live wire. Find the current through the body if the body's resistance is (a) 100 000 Ω (dry) and (b) 100 Ω (wet).
+Formula: I = V/R
+Calculation: (a) I = 220 ÷ 100 000 = 0.0022 A = 2.2 mA
+Calculation: (b) I = 220 ÷ 100 = 2.2 A
+> 10 mA through the heart can kill, so case (b) is extremely dangerous.
+Answer: (a) 2.2 mA, (b) 2.2 A
+## example
+Q: A 1000 W electric iron is used on the 220 V supply. Which fuse would you choose: 3 A, 5 A or 13 A?
+Formula: I = P/V
+Calculation: I = 1000 ÷ 220 ≈ 4.5 A
+> A 3 A fuse would blow in normal use; a 13 A fuse would let a dangerous overload through.
+Answer: 5 A, just above the normal current.
+## mistakes
+x The switch can be put on either wire; it makes no difference.
+v The switch must be on the live wire, so the appliance has no high voltage inside when it is off.
+x A thicker fuse wire is safer.
+v A fuse must melt at the right current. A thicker wire, or a higher rating than needed, lets dangerous currents flow.
+x Earthing is only for lightning.
+v Appliance earthing protects people if the live wire touches a metal body.
+## remember
+- 220 V can drive a fatal current, especially through wet skin.
+- Insulation, good connections, no water near appliances.
+- Fuse/circuit breaker cut off excess current.
+- Switch on the live wire; earth wire to the metal body.
+## think
+Why does a short circuit blow the fuse but the normal current of an appliance does not, even though both flow through the same fuse?
+## quiz
+? A fuse works on the:
+- Magnetic effect of current
+* Heating effect of current
+- Chemical effect of current
+- Lighting effect of current
+= The fuse wire heats (I²R) and melts when the current is too large.
+? A switch should be connected to the:
+* Live wire
+- Neutral wire
+- Earth wire
+- Any of them
+= Then no high voltage reaches the appliance when it is off.
+? The earth wire of an appliance is connected to its:
+- Switch
+- Heating coil
+* Metal body
+- Fuse
+= Leakage current from the body flows to the ground, blowing the fuse.
+? A 1000 W iron runs on 220 V. The most suitable fuse is:
+- 1 A
+- 3 A
+* 5 A
+- 30 A
+= Normal current ≈ 4.5 A, so a 5 A fuse is just right.
+== bn
+## what
+২২০ V মেইনস সরবরাহ প্রাণঘাতী হতে পারে। বিদ্যুৎ নিরাপদে ব্যবহারের উপায়: **অন্তরক আবরণ**, **ভালো সংযোগ**, **পানি** দূরে রাখা, বিপজ্জনক প্রবাহ থামাতে **ফিউজ ও সার্কিট ব্রেকার**, **লাইভ তারে সুইচ**, আর যন্ত্রের ধাতব কাঠামো **ভূসংযোগ** করা।
+## simple
+বিদ্যুৎ আমাদের ঘর আলোকিত করে, গরমে ফ্যান চালায়, ফ্রিজে খাবার তাজা রাখে, কাপড় ইস্ত্রি করে, ফোন চার্জ দেয়, আর পাম্প, ওয়াশিং মেশিন, ওভেন চালায়। কিন্তু বাংলাদেশের **২২০ V এসি** সরবরাহ বিপজ্জনক, এমনকি প্রাণঘাতী শক দিতে পারে।
+
+**কত প্রবাহ বিপজ্জনক?** হৃৎপিণ্ডের মধ্য দিয়ে মাত্র প্রায় **১০ mA** (০.০১ A) প্রবাহই মৃত্যু ঘটাতে পারে। ওহমের সূত্র খাটাও। **শুকনো ত্বকের** রোধ মোটামুটি **১,০০,০০০ Ω**, তাই ২২০ V চালায় প্রায় ২২০ ÷ ১,০০,০০০ = ২.২ mA। ভেজা ত্বকের রোধ প্রায় **এক হাজার গুণ কম**, প্রায় ১০০ Ω, তখন প্রবাহ হতে পারে ২২০ ÷ ১০০ = ২.২ A, প্রাণঘাতী মাত্রার শত শত গুণ। এজন্যই **ভেজা মেঝেতে ভেজা পায়ে** দাঁড়ানো মানুষ সবচেয়ে বেশি বিপদে। শক খাওয়া মানুষ অনেক সময় **ছাড়তে পারে না**, কারণ প্রবাহ হাত-পায়ের পেশি সংকুচিত করে ফেলে।
+
+কয়েকটি সহজ সতর্কতা মানলে লক্ষ লক্ষ মানুষ প্রতিদিন নিরাপদে বিদ্যুৎ ব্যবহার করে:
+
+**(ক) অন্তরক আবরণ।** খোলা লাইভ তার বিপজ্জনক, তাই তার সবসময় প্লাস্টিক বা অন্য অন্তরকে মোড়ানো থাকে। আবরণ ভেঙে লাইভ আর নিউট্রাল তার সরাসরি লেগে গেলে (**শর্ট সার্কিট**) প্রায় কোনো রোধ থাকে না, তাই ওহমের সূত্র অনুযায়ী বিশাল প্রবাহ চলে। তার খুব গরম হয়, প্লাস্টিক পোড়ে, আগুন লাগতে পারে। আবরণ অক্ষত রাখো; ফাটা তার বদলে ফেলো।
+
+**(খ) ভালো সংযোগ।** আলগা বা খারাপভাবে করা সংযোগ, বিশেষত ভারী যন্ত্রে, বাড়তি রোধ তৈরি করে। সেখানে I²R তাপ অন্তরক আবরণ গলিয়ে সকেট বা প্লাগ নষ্ট করতে পারে। আলগা প্লাগ গরম লাগলে সেটা সতর্কসংকেত।
+
+**(গ) পানি দূরে রাখো।** পানি (দ্রবীভূত লবণসহ) বিদ্যুৎ পরিবহন করে, তাই শর্ট সার্কিট আর শক ঘটাতে পারে। পানির কাছে হেয়ার ড্রায়ার বা ইস্ত্রি কখনো ব্যবহার কোরো না; এটি পানিতে পড়ে গেলে সেই পানি যে ছোঁবে সে বিদ্যুৎস্পৃষ্ট হতে পারে।
+
+**(ঘ) ফিউজ ও সার্কিট ব্রেকার।** কোনো ত্রুটির কারণে হঠাৎ বিশাল প্রবাহ চললেই বড় দুর্ঘটনা ঘটে। **ফিউজ** হলো যন্ত্রের আগে লাইনে বসানো এক টুকরো **সরু তার**। সরু বলে এর রোধ বেশি, তাই এটিই সবচেয়ে বেশি গরম হয় (I²R)। প্রবাহ এর নির্ধারিত মানের বেশি হলে ফিউজের তার **গলে** বর্তনী ভেঙে দেয়। **সার্কিট ব্রেকার** একই কাজ করে একটি সুইচ দিয়ে, যা প্রবাহ নিরাপদ মাত্রা ছাড়ালে নিজে থেকে **ট্রিপ** করে (বন্ধ হয়ে যায়); ত্রুটি সারিয়ে শুধু আবার চালু করে দিলেই হয়।
+
+**(ঙ) লাইভ তারে সুইচ।** সরবরাহে দুটি তার: উচ্চ বিভবের **লাইভ** তার আর প্রায় শূন্য বিভবের **নিউট্রাল** তার। প্রবাহ লাইভ তার থেকে যন্ত্রের মধ্য দিয়ে গিয়ে নিউট্রাল দিয়ে ফেরে। সুইচ যেকোনোটিতে বসানো যায়, কিন্তু বসাতে হবে **লাইভ** তারে। তাহলে সুইচ বন্ধ থাকলে যন্ত্রে কোনো উচ্চ ভোল্টেজ পৌঁছায় না। সুইচ নিউট্রালে থাকলে বন্ধ অবস্থাতেও যন্ত্রের ভেতরটা "লাইভ" থাকত, ছুঁলে শক লাগতে পারত।
+
+**(চ) ভূসংযোগ।** ধাতব কাঠামোর অনেক যন্ত্রে (ফ্রিজ, ইস্ত্রি, কম্পিউটার, ওয়াশিং মেশিন) থাকে **তিন পিনের প্লাগ**: লাইভ, নিউট্রাল আর তৃতীয় পিন, **ভূমি** বা আর্থ, যা ধাতব কাঠামোর সাথে যুক্ত। কোনো ত্রুটিতে লাইভ তার কাঠামো ছুঁয়ে ফেললে আর্থ তার দিয়ে বিশাল প্রবাহ সরাসরি মাটিতে ছুটে যায়। ওই বিশাল প্রবাহ ফিউজ গলিয়ে (বা ব্রেকার ট্রিপ করিয়ে) সরবরাহ বন্ধ করে দেয়, তাই পরে কেউ কাঠামো ছুঁলেও নিরাপদ।
+
+**যেসব বিপজ্জনক কাজ এড়াতে হবে:** এক সকেটে অনেক প্লাগ লাগিয়ে অতিরিক্ত লোড দেওয়া, তার ধরে টেনে প্লাগ খোলা, বিদ্যুতের লাইনের কাছে ঘুড়ি ওড়ানো, বিদ্যুতের খুঁটিতে ওঠা, ভেজা হাতে সুইচ ছোঁয়া, সকেটে কিছু ঢোকানো, আর ক্ষতিগ্রস্ত তারের যন্ত্র ব্যবহার। কেউ শক খেলে **আগে সরবরাহ বন্ধ করো**, অথবা শুকনো কাঠ বা প্লাস্টিক দিয়ে তাকে ঠেলে সরাও; খালি হাতে কখনো ছুঁয়ো না।
+## analogy
+ফিউজ যেন গেটের **নিরাপত্তারক্ষী**, যে স্বাভাবিক ভিড় ঢুকতে দেয়, কিন্তু হঠাৎ বেশি লোক ঢুকতে চাইলেই গেট বন্ধ করে দেয়। বেশি প্রবাহ চললে ফিউজের তার গলে বর্তনী ভেঙে দেয়, তার গরম হয়ে আগুন লাগার আগেই।
+## definition
+**শর্ট সার্কিট**: লাইভ আর নিউট্রাল (বা আর্থ) তারের মধ্যে সরাসরি, খুব কম রোধের সংযোগ, যার ফলে বিশাল প্রবাহ চলে।
+
+**ফিউজ**: নিম্ন গলনাঙ্কের ছোট একটি সরু তারযুক্ত নিরাপত্তা যন্ত্র, যা প্রবাহ নির্দিষ্ট মান ছাড়ালে গলে বর্তনী ভেঙে দেয়।
+
+**সার্কিট ব্রেকার**: একটি স্বয়ংক্রিয় সুইচ, যা প্রবাহ নিরাপদ মান ছাড়ালে বর্তনী খুলে দেয় (ট্রিপ করে), এবং আবার চালু করা যায়।
+
+**ভূসংযোগ**: যন্ত্রের ধাতব কাঠামোকে তার দিয়ে মাটির সাথে যুক্ত করা, যাতে কোনো ক্ষরণ প্রবাহ মাটিতে চলে যায় আর ফিউজ বা ব্রেকার সরবরাহ বন্ধ করে দেয়।
+## why
+বাসার তার গরম হওয়ার আগেই ফিউজ গলে যায় কেন? ফিউজের তার সরু আর এর গলনাঙ্ক কম, তাই একই প্রবাহে এটি বাসার মোটা তারের চেয়ে দ্রুত গরম হয়। একে ইচ্ছে করেই "সবচেয়ে দুর্বল অংশ" হিসেবে বানানো হয়, যাতে অন্য কিছু নষ্ট হওয়ার আগে এটিই ভেঙে যায়।
+## terms
+লাইভ তার | উচ্চ বিভব (২২০ V) বহন করে
+নিউট্রাল তার | ফেরত তার, প্রায় শূন্য বিভবে
+আর্থ তার | ধাতব কাঠামোকে মাটির সাথে যুক্ত করে
+শর্ট সার্কিট | লাইভ সরাসরি নিউট্রাল/আর্থ ছোঁয়; বিশাল প্রবাহ
+ফিউজ | অতিরিক্ত লোডে গলে যাওয়া সরু তার
+সার্কিট ব্রেকার | অতিরিক্ত লোডে ট্রিপ করা স্বয়ংক্রিয় সুইচ; আবার চালু করা যায়
+ফিউজের মান | যে প্রবাহের বেশি হলে ফিউজ গলে, যেমন ৫ A
+## formula
+$$ I = V / R (শরীরের মধ্য দিয়ে শকের প্রবাহ)
+$$ যন্ত্রের স্বাভাবিক প্রবাহ: I = P / V
+! যন্ত্রের স্বাভাবিক প্রবাহের একটু বেশি মানের ফিউজ বেছে নাও।
+! হৃৎপিণ্ডের মধ্য দিয়ে প্রায় ১০ mA প্রাণঘাতী হতে পারে।
+## visual
+একটি ত্রুটি বেছে নাও (কোনো ত্রুটি নেই, লাইভ তার ধাতব কাঠামো ছুঁয়েছে, অথবা শর্ট সার্কিট) আর ভূসংযোগ, ফিউজ ও সুইচের অবস্থান চালু-বন্ধ করো। দেখো যন্ত্রটি ছুঁলে মানুষটি নিরাপদ কি না।
+## real
+বাংলাদেশে বর্ষাকালে ঝুলে থাকা তার আর জলাবদ্ধ রাস্তা ও ঘরের কারণে অনেক বিদ্যুৎস্পৃষ্টের দুর্ঘটনা ঘটে। সঠিক ভূসংযোগ, ভালো সার্কিট ব্রেকার আর ভেজা হাতে কখনো বৈদ্যুতিক ফিটিং না ছোঁয়া জীবন বাঁচায়।
+## example
+প্রশ্ন: একজন মানুষ ২২০ V লাইভ তার ছুঁয়ে ফেলল। শরীরের রোধ (ক) ১,০০,০০০ Ω (শুকনো) এবং (খ) ১০০ Ω (ভেজা) হলে শরীরের মধ্য দিয়ে প্রবাহ বের করো।
+সূত্র: I = V/R
+হিসাব: (ক) I = ২২০ ÷ ১,০০,০০০ = ০.০০২২ A = ২.২ mA
+হিসাব: (খ) I = ২২০ ÷ ১০০ = ২.২ A
+> হৃৎপিণ্ডের মধ্য দিয়ে ১০ mA মৃত্যু ঘটাতে পারে, তাই (খ) অবস্থাটি ভয়ংকর বিপজ্জনক।
+উত্তর: (ক) ২.২ mA, (খ) ২.২ A
+## example
+প্রশ্ন: ২২০ V সরবরাহে একটি ১০০০ W ইস্ত্রি ব্যবহার করা হয়। কোন ফিউজ বেছে নেবে: ৩ A, ৫ A নাকি ১৩ A?
+সূত্র: I = P/V
+হিসাব: I = ১০০০ ÷ ২২০ ≈ ৪.৫ A
+> ৩ A ফিউজ স্বাভাবিক ব্যবহারেই গলে যাবে; ১৩ A ফিউজ বিপজ্জনক অতিরিক্ত প্রবাহও যেতে দেবে।
+উত্তর: ৫ A, স্বাভাবিক প্রবাহের একটু বেশি।
+## mistakes
+x সুইচ যেকোনো তারে বসানো যায়; কোনো পার্থক্য নেই।
+v সুইচ লাইভ তারে বসাতে হবে, যাতে বন্ধ অবস্থায় যন্ত্রের ভেতরে উচ্চ ভোল্টেজ না থাকে।
+x মোটা ফিউজ তার বেশি নিরাপদ।
+v ফিউজকে ঠিক প্রবাহে গলতে হবে। মোটা তার, বা দরকারের চেয়ে বেশি মানের ফিউজ বিপজ্জনক প্রবাহ যেতে দেয়।
+x ভূসংযোগ শুধু বজ্রপাতের জন্য।
+v যন্ত্রের ভূসংযোগ লাইভ তার ধাতব কাঠামো ছুঁয়ে ফেললে মানুষকে রক্ষা করে।
+## remember
+- ২২০ V প্রাণঘাতী প্রবাহ চালাতে পারে, বিশেষত ভেজা ত্বকে।
+- অন্তরক আবরণ, ভালো সংযোগ, যন্ত্রের কাছে পানি নয়।
+- ফিউজ/সার্কিট ব্রেকার অতিরিক্ত প্রবাহ বন্ধ করে।
+- সুইচ লাইভ তারে; আর্থ তার ধাতব কাঠামোয়।
+## think
+শর্ট সার্কিটে ফিউজ গলে যায়, কিন্তু যন্ত্রের স্বাভাবিক প্রবাহে গলে না, যদিও দুটোই একই ফিউজের মধ্য দিয়ে যায়। কেন?
+## quiz
+? ফিউজ কাজ করে প্রবাহের:
+- চৌম্বক ক্রিয়ায়
+* তাপীয় ক্রিয়ায়
+- রাসায়নিক ক্রিয়ায়
+- আলোক ক্রিয়ায়
+= প্রবাহ বেশি হলে ফিউজের তার গরম হয়ে (I²R) গলে যায়।
+? সুইচ যুক্ত করতে হয়:
+* লাইভ তারে
+- নিউট্রাল তারে
+- আর্থ তারে
+- যেকোনোটিতে
+= তাহলে বন্ধ অবস্থায় যন্ত্রে উচ্চ ভোল্টেজ পৌঁছায় না।
+? যন্ত্রের আর্থ তার যুক্ত থাকে এর:
+- সুইচের সাথে
+- তাপ উৎপাদক কয়েলের সাথে
+* ধাতব কাঠামোর সাথে
+- ফিউজের সাথে
+= কাঠামো থেকে ক্ষরণ প্রবাহ মাটিতে যায়, ফিউজ গলে যায়।
+? ২২০ V-এ একটি ১০০০ W ইস্ত্রি চলে। সবচেয়ে উপযুক্ত ফিউজ:
+- ১ A
+- ৩ A
+* ৫ A
+- ৩০ A
+= স্বাভাবিক প্রবাহ ≈ ৪.৫ A, তাই ৫ A ফিউজই ঠিক।
+
+@@ 11.6
+@visual c11house
+@related 11.5 11.2.4 11.3 11.4
+== en
+## what
+In a house, the supply cable (live and neutral) goes through the **electric meter** and the **main switch** into a **consumer unit**, where separate **circuit breakers** (for example 5 A, 15 A and 30 A) protect the **lighting circuit**, a **cooker** circuit and a **ring circuit** for the sockets. All appliances are connected in **parallel**.
+## simple
+Let's follow the electricity from the street into your home, as in the book's diagram of a typical house circuit.
+
+**1. Supply cable.** Two wires come in from the distribution line: the **live** wire (high potential) and the **neutral** wire (zero potential). In the book's figure the live wire is red and the neutral is blue, and the earth wire is green. (Newer cables often use brown for live, blue for neutral and green-yellow for earth; always check, never assume.)
+
+**2. Electric meter.** The supply first passes through the **meter**, which records how many units (kWh) you use. Many homes in Bangladesh now have **prepaid meters**.
+
+**3. Main switch and consumer unit.** After the meter comes the **consumer unit** (the distribution board). Its **main switch** can cut off the electricity to the whole house at once, which is what you do before any repair. From it, separate **circuit breakers** (or fuses) feed different circuits.
+
+**4. Separate circuits with the right breaker.** In the book's example:
+
+- **5 A** breaker: the **lighting and fan circuit**. Lights and fans need little current.
+- **15 A** breaker: the **cooking burner** (a heavy appliance gets its own circuit).
+- **30 A** breaker: the **plug points (sockets)**. These are wired as a **ring circuit**: the cable leaves the consumer unit, goes round every socket and comes back, so current can reach each socket by **two paths**. This lets thinner cable carry more total current. The **earth** wire runs to every socket.
+
+A breaker's rating must suit the load of its circuit. If too many appliances run on one circuit, the total current exceeds the rating and the breaker **trips**, protecting the wires from overheating.
+
+**5. Everything in parallel.** Each light, fan and socket is connected **across** the live and neutral wires, in parallel. So each gets the full 220 V, each has its own switch (on the live wire!), and one failing does not switch off the others. Remember from series–parallel: the currents of the appliances **add up** in the circuit's wires.
+
+**6. Two-way switching.** For a staircase light, two **two-way switches** are used so that the light can be turned on or off from either the top or the bottom of the stairs.
+## definition
+**Consumer unit (distribution board)**: the box after the meter containing the main switch and the circuit breakers or fuses for the separate circuits of a house.
+
+**Main switch**: a switch that cuts off the supply to the whole house.
+
+**Ring circuit**: a socket circuit in which the cable runs from the consumer unit through all the sockets and back, so each socket is fed by two paths.
+## why
+Why use separate circuits with different breakers instead of one big circuit? Each circuit's wires and breaker can be matched to its load: thin wire and a 5 A breaker for lights, thicker wire and a larger breaker for heavy loads. A fault on one circuit trips only that breaker, so the rest of the house keeps its power, and it is easy to find where the fault is.
+## terms
+Electric meter | Records energy used (kWh)
+Consumer unit | Board with main switch and circuit breakers
+Main switch | Cuts off the whole house
+Lighting circuit | Lights and fans, low current (e.g. 5 A)
+Ring circuit | Sockets on a loop, fed from both ends
+Two-way switch | Lets one light be controlled from two places
+## formula
+$$ Current of each appliance: I = P / V
+$$ Total current in a circuit: I = I₁ + I₂ + I₃ + …
+! The total current must stay below the breaker's rating.
+## visual
+Switch appliances on in each circuit of the house. Watch the current add up; if it goes over the breaker's rating, the breaker trips.
+## real
+Look at the distribution board in your home or school (without opening it!). You will find a main switch and a row of small breakers labelled for lights, sockets, AC or kitchen. When too many heavy appliances run together, one of them may trip.
+## example
+Q: A lighting circuit protected by a 5 A breaker has 6 LED lights of 20 W each and 4 fans of 75 W each on 220 V. Will the breaker trip?
+Formula: total P = sum of powers; I = P/V
+Calculation: P = 6 × 20 + 4 × 75 = 120 + 300 = 420 W
+Calculation: I = 420 ÷ 220 ≈ 1.9 A
+Answer: 1.9 A is less than 5 A, so the breaker will not trip.
+## example
+Q: On the 30 A socket circuit, a 1500 W AC, a 1000 W iron, a 2000 W kettle and a 1500 W water heater are all switched on at 220 V. Find the total current. Will the breaker trip?
+Calculation: total P = 1500 + 1000 + 2000 + 1500 = 6000 W
+Calculation: I = 6000 ÷ 220 ≈ 27.3 A
+Answer: 27.3 A is just under 30 A, so it does not trip, but one more heavy appliance would trip it.
+## mistakes
+x The appliances in a house are connected in series.
+v They are in parallel, so each gets 220 V and can be switched separately.
+x If a breaker keeps tripping, replace it with a bigger one.
+v A tripping breaker is warning of overload or a fault. Reduce the load or find the fault; a bigger breaker would let the wires overheat.
+## remember
+- Supply → meter → main switch → consumer unit → separate circuits.
+- Lighting (5 A), cooker (15 A), ring circuit for sockets (30 A) in the book's example.
+- All appliances in parallel; switches on the live wire; earth to sockets.
+- Total current of a circuit must stay below its breaker rating.
+## think
+The book asks you to add two more plug points, a water pump with its own breaker, and a light that can be switched from two places. Sketch the new circuit. Which breaker would you choose for a 750 W pump?
+## quiz
+? Appliances in a house are connected in:
+- Series
+* Parallel
+- Both, alternately
+- Neither
+= Parallel wiring gives each appliance 220 V and independent switching.
+? Which device can cut off the electricity supply to the whole house?
+- A two-way switch
+- The electric meter
+* The main switch
+- The earth wire
+= The main switch is in the consumer unit, before all circuit breakers.
+? Six 20 W lights and four 75 W fans on 220 V draw about:
+* 1.9 A
+- 4.2 A
+- 5 A
+- 0.42 A
+= 420 W ÷ 220 V ≈ 1.9 A.
+== bn
+## what
+বাসায় সরবরাহ কেবল (লাইভ ও নিউট্রাল) **বিদ্যুৎ মিটার** আর **মেইন সুইচ** পার হয়ে একটি **কনজিউমার ইউনিটে** যায়, যেখানে আলাদা আলাদা **সার্কিট ব্রেকার** (যেমন ৫ A, ১৫ A ও ৩০ A) **বাতির বর্তনী**, একটি **রান্নার চুলার** বর্তনী আর সকেটের জন্য একটি **রিং বর্তনী** রক্ষা করে। সব যন্ত্র **সমান্তরালে** যুক্ত।
+## simple
+বইয়ের সাধারণ বাসাবাড়ির বর্তনীর চিত্রের মতো করে রাস্তা থেকে তোমার বাসায় বিদ্যুতের পথটা অনুসরণ করা যাক।
+
+**১. সরবরাহ কেবল।** বিতরণ লাইন থেকে দুটি তার আসে: **লাইভ** তার (উচ্চ বিভব) আর **নিউট্রাল** তার (শূন্য বিভব)। বইয়ের চিত্রে লাইভ তার লাল, নিউট্রাল নীল, আর আর্থ তার সবুজ। (নতুন কেবলে প্রায়ই লাইভ বাদামি, নিউট্রাল নীল আর আর্থ সবুজ-হলুদ থাকে; সবসময় যাচাই করো, অনুমান কোরো না।)
+
+**২. বিদ্যুৎ মিটার।** সরবরাহ প্রথমে **মিটার** পার হয়, যা তুমি কত ইউনিট (kWh) ব্যবহার করলে তা রেকর্ড করে। বাংলাদেশের অনেক বাসায় এখন **প্রিপেইড মিটার**।
+
+**৩. মেইন সুইচ ও কনজিউমার ইউনিট।** মিটারের পরে আসে **কনজিউমার ইউনিট** (বিতরণ বোর্ড)। এর **মেইন সুইচ** একবারে পুরো বাসার বিদ্যুৎ বন্ধ করে দিতে পারে, যেকোনো মেরামতের আগে এটাই করতে হয়। এখান থেকে আলাদা আলাদা **সার্কিট ব্রেকার** (বা ফিউজ) বিভিন্ন বর্তনীতে বিদ্যুৎ দেয়।
+
+**৪. ঠিক ব্রেকারসহ আলাদা বর্তনী।** বইয়ের উদাহরণে:
+
+- **৫ A** ব্রেকার: **বাতি ও ফ্যানের বর্তনী**। বাতি আর ফ্যানে প্রবাহ কম লাগে।
+- **১৫ A** ব্রেকার: **রান্নার চুলা** (ভারী যন্ত্রের জন্য নিজস্ব বর্তনী)।
+- **৩০ A** ব্রেকার: **প্লাগ পয়েন্ট (সকেট)**। এগুলো **রিং বর্তনী** হিসেবে যুক্ত: কেবল কনজিউমার ইউনিট থেকে বের হয়ে প্রতিটি সকেট ঘুরে আবার ফিরে আসে, তাই প্রতিটি সকেটে প্রবাহ **দুটি পথে** পৌঁছাতে পারে। এতে সরু কেবলেও বেশি মোট প্রবাহ নেওয়া যায়। **আর্থ** তার প্রতিটি সকেটে যায়।
+
+ব্রেকারের মান তার বর্তনীর লোডের উপযোগী হতে হবে। এক বর্তনীতে অনেক বেশি যন্ত্র চললে মোট প্রবাহ মান ছাড়িয়ে যায় আর ব্রেকার **ট্রিপ** করে, তারকে অতিরিক্ত গরম হওয়া থেকে বাঁচায়।
+
+**৫. সবকিছু সমান্তরালে।** প্রতিটি বাতি, ফ্যান আর সকেট লাইভ ও নিউট্রাল তারের **মাঝে**, অর্থাৎ সমান্তরালে যুক্ত। তাই প্রতিটি পুরো ২২০ V পায়, প্রতিটির নিজস্ব সুইচ থাকে (লাইভ তারে!), আর একটি নষ্ট হলে অন্যগুলো বন্ধ হয় না। শ্রেণি-সমান্তরাল পাঠ থেকে মনে করো: বর্তনীর তারে যন্ত্রগুলোর প্রবাহ **যোগ হয়**।
+
+**৬. দ্বিমুখী সুইচ।** সিঁড়ির বাতির জন্য দুটি **দ্বিমুখী সুইচ** ব্যবহার করা হয়, যাতে সিঁড়ির ওপর বা নিচ দুই জায়গা থেকেই বাতি জ্বালানো বা নেভানো যায়।
+## definition
+**কনজিউমার ইউনিট (বিতরণ বোর্ড)**: মিটারের পরের বাক্স, যাতে মেইন সুইচ আর বাসার আলাদা আলাদা বর্তনীর সার্কিট ব্রেকার বা ফিউজ থাকে।
+
+**মেইন সুইচ**: যে সুইচ পুরো বাসার সরবরাহ বন্ধ করে দেয়।
+
+**রিং বর্তনী**: সকেটের এমন বর্তনী, যেখানে কেবল কনজিউমার ইউনিট থেকে সব সকেট ঘুরে আবার ফেরে, ফলে প্রতিটি সকেট দুটি পথে বিদ্যুৎ পায়।
+## why
+একটা বড় বর্তনীর বদলে আলাদা ব্রেকারসহ আলাদা বর্তনী কেন? প্রতিটি বর্তনীর তার আর ব্রেকার তার লোডের সাথে মিলিয়ে নেওয়া যায়: বাতির জন্য সরু তার আর ৫ A ব্রেকার, ভারী লোডের জন্য মোটা তার আর বড় ব্রেকার। এক বর্তনীতে ত্রুটি হলে শুধু সেই ব্রেকার ট্রিপ করে, বাকি বাসায় বিদ্যুৎ থাকে, আর ত্রুটি কোথায় তা খুঁজে পাওয়াও সহজ।
+## terms
+বিদ্যুৎ মিটার | ব্যবহৃত শক্তি (kWh) রেকর্ড করে
+কনজিউমার ইউনিট | মেইন সুইচ ও সার্কিট ব্রেকারসহ বোর্ড
+মেইন সুইচ | পুরো বাসার বিদ্যুৎ বন্ধ করে
+বাতির বর্তনী | বাতি ও ফ্যান, কম প্রবাহ (যেমন ৫ A)
+রিং বর্তনী | লুপে যুক্ত সকেট, দুই দিক থেকে বিদ্যুৎ পায়
+দ্বিমুখী সুইচ | একটি বাতি দুই জায়গা থেকে নিয়ন্ত্রণ করতে দেয়
+## formula
+$$ প্রতিটি যন্ত্রের প্রবাহ: I = P / V
+$$ বর্তনীর মোট প্রবাহ: I = I₁ + I₂ + I₃ + …
+! মোট প্রবাহ ব্রেকারের মানের নিচে থাকতে হবে।
+## visual
+বাসার প্রতিটি বর্তনীতে যন্ত্র চালু করো। প্রবাহ কীভাবে যোগ হয় দেখো; ব্রেকারের মান ছাড়ালে ব্রেকার ট্রিপ করবে।
+## real
+তোমার বাসা বা স্কুলের বিতরণ বোর্ডটি দেখো (খুলো না!)। একটি মেইন সুইচ আর বাতি, সকেট, এসি বা রান্নাঘর লেখা ছোট ছোট ব্রেকারের সারি পাবে। একসাথে অনেক ভারী যন্ত্র চললে এর কোনোটি ট্রিপ করতে পারে।
+## example
+প্রশ্ন: ৫ A ব্রেকারে সুরক্ষিত একটি বাতির বর্তনীতে ২২০ V-এ ২০ W-এর ৬টি LED বাতি আর ৭৫ W-এর ৪টি ফ্যান আছে। ব্রেকার কি ট্রিপ করবে?
+সূত্র: মোট P = ক্ষমতাগুলোর যোগফল; I = P/V
+হিসাব: P = ৬ × ২০ + ৪ × ৭৫ = ১২০ + ৩০০ = ৪২০ W
+হিসাব: I = ৪২০ ÷ ২২০ ≈ ১.৯ A
+উত্তর: ১.৯ A, ৫ A-এর চেয়ে কম, তাই ব্রেকার ট্রিপ করবে না।
+## example
+প্রশ্ন: ৩০ A সকেট বর্তনীতে ২২০ V-এ একটি ১৫০০ W এসি, একটি ১০০০ W ইস্ত্রি, একটি ২০০০ W কেটলি আর একটি ১৫০০ W ওয়াটার হিটার একসাথে চালু। মোট প্রবাহ বের করো। ব্রেকার কি ট্রিপ করবে?
+হিসাব: মোট P = ১৫০০ + ১০০০ + ২০০০ + ১৫০০ = ৬০০০ W
+হিসাব: I = ৬০০০ ÷ ২২০ ≈ ২৭.৩ A
+উত্তর: ২৭.৩ A, ৩০ A-এর ঠিক নিচে, তাই ট্রিপ করবে না, তবে আরেকটি ভারী যন্ত্র চালালেই করবে।
+## mistakes
+x বাসার যন্ত্রগুলো শ্রেণিতে যুক্ত।
+v এগুলো সমান্তরালে যুক্ত, তাই প্রতিটি ২২০ V পায় আর আলাদাভাবে চালু-বন্ধ করা যায়।
+x ব্রেকার বারবার ট্রিপ করলে বড় মানের ব্রেকার লাগিয়ে দাও।
+v ব্রেকার ট্রিপ করা মানে অতিরিক্ত লোড বা ত্রুটির সতর্কবার্তা। লোড কমাও বা ত্রুটি খোঁজো; বড় ব্রেকার তারকে অতিরিক্ত গরম হতে দেবে।
+## remember
+- সরবরাহ → মিটার → মেইন সুইচ → কনজিউমার ইউনিট → আলাদা বর্তনী।
+- বইয়ের উদাহরণে বাতি (৫ A), চুলা (১৫ A), সকেটের রিং বর্তনী (৩০ A)।
+- সব যন্ত্র সমান্তরালে; সুইচ লাইভ তারে; সকেটে আর্থ।
+- বর্তনীর মোট প্রবাহ ব্রেকারের মানের নিচে থাকতে হবে।
+## think
+বইয়ে বলা হয়েছে আরও দুটি প্লাগ পয়েন্ট, নিজস্ব ব্রেকারসহ একটি পানির পাম্প, আর দুই জায়গা থেকে জ্বালানো-নেভানো যায় এমন একটি বাতি যোগ করতে। নতুন বর্তনীর নকশা আঁকো। ৭৫০ W পাম্পের জন্য কোন ব্রেকার বেছে নেবে?
+## quiz
+? বাসার যন্ত্রগুলো যুক্ত থাকে:
+- শ্রেণিতে
+* সমান্তরালে
+- পালাক্রমে দুটোতেই
+- কোনোটিতেই না
+= সমান্তরাল সংযোগে প্রতিটি যন্ত্র ২২০ V পায় আর আলাদাভাবে চালু-বন্ধ হয়।
+? কোন যন্ত্রটি পুরো বাসার বিদ্যুৎ সরবরাহ বন্ধ করতে পারে?
+- দ্বিমুখী সুইচ
+- বিদ্যুৎ মিটার
+* মেইন সুইচ
+- আর্থ তার
+= মেইন সুইচ কনজিউমার ইউনিটে, সব সার্কিট ব্রেকারের আগে।
+? ২২০ V-এ ২০ W-এর ছয়টি বাতি আর ৭৫ W-এর চারটি ফ্যান প্রায় কত প্রবাহ নেয়?
+* ১.৯ A
+- ৪.২ A
+- ৫ A
+- ০.৪২ A
+= ৪২০ W ÷ ২২০ V ≈ ১.৯ A।

@@ -1,0 +1,669 @@
+<title>Class 10 Science</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@500;650;750&family=Hind+Siliguri:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: a ruled exercise-book page. One reading column; sticky top bar; each subject wears its textbook cover colour. */
+:root{
+  --paper:#f7f8f4; --sheet:#ffffff; --rule:#e1e6ea; --ink:#1c2330; --muted:#566172; --faint:#8a93a0;
+  --phy:#2f6db3; --phy-soft:#e7f0fa; --chem:#8a3f8f; --chem-soft:#f5eaf5; --bio:#3b7d38; --bio-soft:#e9f4e7;
+  --good:#2f7d4a; --good-soft:#e6f4ea; --bad:#b3372f; --bad-soft:#fbeae8; --note:#9a5b00; --note-soft:#fff4de;
+  --c:var(--phy); --c-soft:var(--phy-soft);
+  --f-display:"Anek Bangla","Hind Siliguri","Noto Sans Bengali",system-ui,sans-serif;
+  --f-body:"Hind Siliguri","Noto Sans Bengali",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#11151b; --sheet:#171c24; --rule:#252d39; --ink:#e7ebf1; --muted:#a4aebc; --faint:#77818f;
+  --phy:#83b3ee; --phy-soft:#1a293c; --chem:#d69bda; --chem-soft:#2d1f30; --bio:#91d08b; --bio-soft:#1b2b1b;
+  --good:#7fd19a; --good-soft:#15291c; --bad:#f19a92; --bad-soft:#321a18; --note:#f0b75c; --note-soft:#2e2515; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#11151b; --sheet:#171c24; --rule:#252d39; --ink:#e7ebf1; --muted:#a4aebc; --faint:#77818f;
+  --phy:#83b3ee; --phy-soft:#1a293c; --chem:#d69bda; --chem-soft:#2d1f30; --bio:#91d08b; --bio-soft:#1b2b1b;
+  --good:#7fd19a; --good-soft:#15291c; --bad:#f19a92; --bad-soft:#321a18; --note:#f0b75c; --note-soft:#2e2515; color-scheme:dark}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.7;
+  background-image:linear-gradient(var(--rule) 1px,transparent 1px);background-size:100% 34px}
+.s-physics{--c:var(--phy);--c-soft:var(--phy-soft)} .s-chemistry{--c:var(--chem);--c-soft:var(--chem-soft)} .s-biology{--c:var(--bio);--c-soft:var(--bio-soft)}
+a{color:var(--c)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--c);outline-offset:2px;border-radius:4px}
+
+/* top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--paper) 90%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.top-in{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:8px;display:flex;align-items:center;gap:10px}
+.brand{font-family:var(--f-display);font-weight:750;font-size:18px;text-decoration:none;color:var(--ink);white-space:nowrap;display:flex;align-items:center;gap:8px}
+.brand{min-width:0;flex:0 1 auto}
+#brandtxt{overflow:hidden;text-overflow:ellipsis;min-width:0;white-space:nowrap}
+.brand .dots{display:inline-flex;gap:3px}.brand .dots i{width:8px;height:8px;border-radius:2px;display:block}
+.top .grow{flex:1}
+.langsw{display:inline-flex;border:1px solid var(--rule);border-radius:999px;background:var(--sheet);overflow:hidden}
+.langsw button{border:0;background:none;padding:6px 12px;cursor:pointer;font-size:14px;min-height:36px;color:var(--muted)}
+.langsw button[aria-pressed="true"]{background:var(--ink);color:var(--sheet);font-weight:600}
+.iconbtn{border:1px solid var(--rule);background:var(--sheet);border-radius:999px;min-width:38px;min-height:36px;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:0 12px;font-size:14px;color:var(--muted)}
+.iconbtn svg{width:16px;height:16px}
+
+main{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:18px 80px}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;line-height:1.2}
+h1{font-size:clamp(28px,5.4vw,42px);font-weight:750;margin:6px 0 8px}
+h2{font-size:24px;font-weight:700;margin:0}
+h3{font-size:19px;font-weight:650;margin:0}
+.eyebrow{font-family:var(--f-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.muted{color:var(--muted)}
+.crumbs{display:flex;flex-wrap:wrap;gap:6px;font-size:14px;color:var(--muted)}
+.crumbs a{color:var(--muted);text-decoration:none;border-bottom:1px dotted var(--faint)}
+
+/* home */
+.hero{padding-block:18px 8px}
+.hero .tag{font-family:var(--f-display);font-size:20px;color:var(--muted);margin:0}
+.subjects{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin-block:22px}
+.subj{display:grid;gap:8px;text-decoration:none;color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:16px;border-top:6px solid var(--c);min-width:0}
+.subj:hover{border-color:var(--c)}
+.subj .nm{font-family:var(--f-display);font-weight:750;font-size:26px;color:var(--c)}
+.subj .meta{font-size:14px;color:var(--muted)}
+.bar{height:6px;background:var(--rule);border-radius:99px;overflow:hidden}.bar i{display:block;height:100%;background:var(--c);border-radius:99px}
+.searchbox{display:flex;gap:8px;margin-top:8px}
+.searchbox input{flex:1;min-width:0;font:inherit;font-size:16px;padding:10px 16px;border-radius:999px;border:1px solid var(--rule);background:var(--sheet);color:var(--ink)}
+.results{display:grid;gap:6px;margin-top:10px}
+.result{display:block;text-decoration:none;color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-left:4px solid var(--c);border-radius:10px;padding:8px 12px}
+.result small{display:block;color:var(--muted);font-size:13px}
+.howto{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-top:26px}
+.howto div{font-size:15px;color:var(--muted)} .howto b{display:block;color:var(--ink);font-family:var(--f-display);font-size:17px}
+
+/* subject / chapter lists */
+.chap{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;margin-block:10px;overflow:hidden}
+.chap>a{display:grid;grid-template-columns:auto 1fr auto;gap:4px 14px;align-items:center;padding:12px 16px;text-decoration:none;color:var(--ink)}
+.chno{font-family:var(--f-mono);font-size:12px;color:var(--c);border:1px solid var(--c);border-radius:6px;padding:2px 7px;white-space:nowrap}
+.chap .t{font-family:var(--f-display);font-weight:650;font-size:19px;line-height:1.3;min-width:0}
+.chap .t small{display:block;font-family:var(--f-body);font-weight:400;font-size:13px;color:var(--faint)}
+.chap .r{font-size:13px;color:var(--muted);text-align:right;white-space:nowrap}
+.soon{font-size:12px;font-family:var(--f-mono);color:var(--faint);border:1px dashed var(--faint);border-radius:99px;padding:0 8px;white-space:nowrap}
+.done-mark{color:var(--good);font-weight:700}
+ol.lessons{list-style:none;margin:0;padding:0;border-top:1px solid var(--rule)}
+ol.lessons li a{display:grid;grid-template-columns:4em 1fr auto;gap:10px;padding:10px 16px;text-decoration:none;color:var(--ink);border-bottom:1px solid var(--rule);align-items:baseline}
+ol.lessons li:last-child a{border-bottom:0}
+ol.lessons .id{font-family:var(--f-mono);font-size:13px;color:var(--c)}
+ol.lessons .nm{min-width:0}
+ol.lessons .nm small{display:block;font-size:13px;color:var(--faint)}
+ol.lessons li.off a{color:var(--muted)}
+.card{background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:16px 18px}
+.objectives{margin:0;padding-left:20px}
+.keys{display:flex;flex-wrap:wrap;gap:8px}
+.keys span{font-family:var(--f-mono);font-size:13px;background:var(--c-soft);border-radius:8px;padding:4px 10px}
+
+/* lesson */
+.lesson-head{display:grid;gap:6px;padding-block:6px 10px}
+.bookline{font-size:14px;color:var(--faint)}
+.jump{display:flex;gap:6px;overflow-x:auto;padding-block:6px 10px;scrollbar-width:thin}
+.jump a{white-space:nowrap;font-size:13px;text-decoration:none;color:var(--muted);border:1px solid var(--rule);background:var(--sheet);border-radius:99px;padding:3px 10px}
+section.blk{margin-block:26px;scroll-margin-top:70px}
+.blk>.lbl{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.blk>.lbl .n{font-family:var(--f-mono);font-size:12px;color:var(--sheet);background:var(--c);border-radius:6px;padding:1px 7px}
+.blk>.lbl h2{font-size:21px;min-width:0;overflow-wrap:anywhere}
+.prose{max-width:68ch}
+.prose p{margin:0 0 12px}
+.prose ul,.prose ol{margin:0 0 12px;padding-left:22px}
+.prose li{margin-block:3px}
+.prose .aside{background:var(--c-soft);border-radius:10px;padding:10px 14px}
+.lead{font-size:19px}
+.def{background:var(--sheet);border:1px solid var(--rule);border-left:5px solid var(--c);border-radius:10px;padding:12px 16px}
+.def .prose p:last-child{margin:0}
+.m{font-family:var(--f-mono);font-size:.92em;white-space:nowrap}
+table.terms{border-collapse:collapse;width:100%;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;overflow:hidden}
+table.terms th,table.terms td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
+table.terms th{font-size:13px;color:var(--muted);font-weight:600;background:var(--c-soft)}
+table.terms td:first-child{font-weight:600;width:38%}
+.tablewrap{overflow-x:auto}
+.formula{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:14px 16px;display:grid;gap:10px}
+.formula .eq{font-family:var(--f-mono);font-size:22px;font-weight:600;color:var(--c);text-align:center;padding:8px;background:var(--c-soft);border-radius:8px;overflow-x:auto}
+.formula table{border-collapse:collapse;width:100%}
+.formula td{padding:4px 8px;border-bottom:1px dashed var(--rule);vertical-align:top}
+.formula td:first-child{font-family:var(--f-mono);font-weight:600;white-space:nowrap;color:var(--c)}
+.analogy{margin-top:14px;background:var(--note-soft);border-radius:12px;padding:12px 16px;border-left:5px solid var(--note)}
+.analogy .ah{font-weight:700;color:var(--ink);margin:0 0 4px;display:flex;gap:8px;align-items:center}
+.analogy .prose p:last-child{margin-bottom:0}
+.tri{display:grid;grid-template-columns:minmax(0,170px) minmax(0,1fr);gap:12px;align-items:center;background:var(--paper);border:1px dashed var(--rule);border-radius:10px;padding:10px 12px}
+.tri svg{width:100%;height:auto;display:block}
+.tri svg text{font-family:var(--f-mono);font-weight:700;cursor:pointer}
+.tri .tq{font-size:14px;color:var(--muted);margin:0 0 6px}
+.tri .ta{font-family:var(--f-mono);font-size:20px;font-weight:700;color:var(--c);min-height:1.4em;margin-top:6px;overflow-wrap:anywhere}
+@media (max-width:420px){.tri{grid-template-columns:1fr}.tri svg{max-width:190px;margin:0 auto}}
+.vsep{height:18px}
+html[lang="bn"] .prose ol{list-style-type:bengali}
+.formula .fn{font-size:15px;color:var(--muted);margin:0}
+.visual{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:14px;display:grid;gap:10px}
+.visual .cap{font-size:15px;color:var(--muted)}
+.visual>*{min-width:0}
+.example{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;overflow:hidden;margin-bottom:12px}
+.example .q{padding:12px 16px;background:var(--c-soft);font-weight:500}
+.example ol{list-style:none;margin:0;padding:0}
+.example li{display:grid;grid-template-columns:8.5em 1fr;gap:4px 12px;padding:9px 16px;border-top:1px solid var(--rule)}
+.example li .k{font-size:13px;font-weight:600;color:var(--c);text-transform:uppercase;letter-spacing:.04em;padding-top:3px}
+.example li .v{min-width:0;overflow-x:auto}
+.example li .why{grid-column:2;font-size:14px;color:var(--muted)}
+.example li .why::before{content:"↳ "}
+.mistake{display:grid;gap:4px;margin-bottom:10px}
+.mistake div{border-radius:10px;padding:8px 12px 8px 36px;position:relative}
+.mistake .w{background:var(--bad-soft)} .mistake .r{background:var(--good-soft)}
+.mistake .w::before,.mistake .r::before{position:absolute;left:12px;top:8px;font-weight:700}
+.mistake .w::before{content:"✗";color:var(--bad)} .mistake .r::before{content:"✓";color:var(--good)}
+.remember{background:var(--note-soft);border-radius:12px;padding:12px 16px 12px 16px;border:1px dashed color-mix(in srgb,var(--note) 50%,transparent)}
+.remember ul{margin:0;padding-left:20px}
+.think{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:14px 16px}
+.think details summary{cursor:pointer;color:var(--c);font-weight:600;margin-top:6px}
+.quiz{display:grid;gap:14px}
+.qq{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:14px 16px}
+.qq .qt{font-weight:600;margin-bottom:8px}
+.opts{display:grid;gap:6px}
+.opt{text-align:left;border:1px solid var(--rule);background:var(--paper);border-radius:10px;padding:8px 12px;cursor:pointer;min-height:42px}
+.opt:hover{border-color:var(--c)}
+.opt.right{background:var(--good-soft);border-color:var(--good)} .opt.wrong{background:var(--bad-soft);border-color:var(--bad)}
+.qfb{margin-top:8px;font-size:15px}
+.related{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.related a{text-decoration:none;border:1px solid var(--c);color:var(--c);border-radius:99px;padding:4px 12px;font-size:15px;background:var(--sheet)}
+.related .arrow{color:var(--faint)}
+.media{display:grid;gap:8px}
+.media a{display:block;text-decoration:none;color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:10px 14px}
+.media small{color:var(--muted);display:block}
+.endbar{display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;align-items:center;margin-top:30px;padding-top:16px;border-top:2px solid var(--rule)}
+.btn{border:1px solid var(--c);background:var(--sheet);color:var(--c);border-radius:999px;padding:8px 16px;cursor:pointer;min-height:42px;text-decoration:none;display:inline-flex;align-items:center;gap:6px;font-weight:600}
+.btn.solid{background:var(--c);color:var(--sheet)}
+.btn.done{background:var(--good);border-color:var(--good);color:var(--sheet)}
+.navlinks{display:flex;gap:8px;flex-wrap:wrap}
+
+/* widgets */
+.w-sl{display:grid;grid-template-columns:1fr auto;gap:0 10px;align-items:center;margin:4px 0 10px}.w-sl label{font-size:14px;color:var(--muted)}.w-sl b{font-variant-numeric:tabular-nums;font-size:15px}.w-sl input{grid-column:1/-1;width:100%}
+.w-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.w-row label{font-size:14px;color:var(--muted)}
+.w-in{font:inherit;padding:6px 10px;border:1px solid var(--rule);border-radius:8px;background:var(--paper);color:var(--ink);min-height:38px;min-width:0}
+input.w-in[type=number]{width:9em}
+.w-out{font-family:var(--f-body);font-variant-numeric:tabular-nums;font-size:17px;background:var(--c-soft);border-radius:8px;padding:8px 12px;overflow-x:auto}
+.w-range{width:100%;accent-color:var(--c)}
+.svgwrap{overflow-x:auto}
+.svgwrap svg{display:block;width:100%;height:auto;min-width:520px}
+.svgwrap.fit svg{min-width:0}
+.chipset{display:flex;flex-wrap:wrap;gap:6px}
+.chipset button{border:1px solid var(--rule);background:var(--paper);border-radius:99px;padding:4px 12px;cursor:pointer;font-size:14px;min-height:34px}
+.chipset button[aria-pressed="true"]{background:var(--c);color:var(--sheet);border-color:var(--c)}
+.tl{list-style:none;margin:0;padding:0 0 0 18px;border-left:3px solid var(--c-soft);display:grid;gap:10px}
+.tl li{position:relative}
+.tl li::before{content:"";position:absolute;left:-26px;top:9px;width:13px;height:13px;border-radius:50%;background:var(--sheet);border:3px solid var(--c)}
+.tl .yr{font-family:var(--f-mono);font-size:13px;color:var(--c);font-weight:600}
+.tl .who{font-weight:600}
+.big-time{font-family:var(--f-mono);font-size:44px;font-weight:600;text-align:center;letter-spacing:.02em}
+.hint{font-size:14px;color:var(--muted)}
+.empty{padding:20px;text-align:center;color:var(--muted)}
+.coming{background:var(--note-soft);border-radius:12px;padding:14px 16px}
+footer.site{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:20px 40px;color:var(--faint);font-size:13px}
+@media (max-width:560px){
+  body{font-size:16.5px}
+  #searchlbl{display:none}
+  .brand{font-size:16px}
+  .langsw button{padding:6px 9px}
+  .chap>a{grid-template-columns:auto 1fr}
+  .chap .r{grid-column:2;text-align:left}
+  ol.lessons li a{grid-template-columns:3.4em 1fr}
+  ol.lessons li a .st{grid-column:2}
+  .example li{grid-template-columns:1fr}
+  .example li .why{grid-column:1}
+  .formula .eq{font-size:19px}
+}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+
+<header class="top">
+  <div class="top-in">
+    <a class="brand" href="#" id="brand"><span class="dots" aria-hidden="true"><i style="background:var(--phy)"></i><i style="background:var(--chem)"></i><i style="background:var(--bio)"></i></span><span id="brandtxt">Class 10 Science</span></a>
+    <span class="grow"></span>
+    <button class="iconbtn" id="searchbtn" aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span id="searchlbl">Search</span></button>
+    <div class="langsw" role="group" aria-label="Language"><button data-l="bn">বাংলা</button><button data-l="en">English</button></div>
+  </div>
+</header>
+<main id="main" tabindex="-1"><p class="empty">Loading…</p></main>
+<footer class="site" id="foot"></footer>
+
+<script>
+"use strict";
+const UI = {
+  en:{brand:"Class 10 Science", tag:"Learn. Understand. Visualize.", search:"Search", searchPh:"Search a topic, term or formula (English or বাংলা)",
+    home:"Home", chapter:"Chapter", chapters:"chapters", lessons:"lessons", lesson:"Lesson", soon:"coming soon", done:"done",
+    intro:"About this chapter", objectives:"By the end you will be able to", keyf:"Important formulas & ideas", list:"Lessons in this chapter",
+    markDone:"Mark as completed", marked:"Completed ✓", prev:"Previous", next:"Next", book:"In the book", pages:"Textbook pages",
+    notReady:"This lesson is being written. Here is what it will cover:", noResult:"No lessons match. Try a shorter word, or search in the other language.",
+    s:{what:"What is this?", simple:"Understand simply", definition:"Scientific definition", why:"Why does it happen?", terms:"Important terms",
+       formula:"Formula", visual:"See it", real:"In real life", example:"Worked example", mistakes:"Common mistakes", remember:"Remember this",
+       think:"Think about it", quiz:"Check your understanding", related:"Related topics", media:"Watch & explore"},
+    term:"Term", meaning:"Meaning", symbol:"Symbol", sMeaning:"Stands for", unit:"Unit", showAns:"Show the answer", correct:"Correct!", wrong:"Not quite.",
+    how:[["Pick a subject","Physics, Chemistry or Biology, chapter by chapter."],["Read like a teacher is beside you","Simple idea first, then the textbook definition."],["Try it yourself","Move the sliders, solve the example, answer the quick questions."]],
+    subjCh:"chapters", foot:"Made for Bangladesh SSC students, based on the NCTB Physics, Chemistry and Biology books for Classes 9–10 (2026). Explanations are original; the textbook stays your main reference.",
+    analogy:"Picture it like this", triQ:"Tap what you want to find:", find:"Find", labels:{"Given":"Given","Formula":"Formula","Substitution":"Substitution","Calculation":"Calculation","Answer":"Answer","Unit":"Unit","Solution":"Solution","Step":"Step"}},
+  bn:{brand:"দশম শ্রেণির বিজ্ঞান", tag:"শিখি। বুঝি। চোখে দেখি।", search:"খুঁজুন", searchPh:"বিষয়, শব্দ বা সূত্র লিখে খোঁজো (বাংলা বা English)",
+    home:"হোম", chapter:"অধ্যায়", chapters:"অধ্যায়", lessons:"পাঠ", lesson:"পাঠ", soon:"শিগগির আসছে", done:"শেষ",
+    intro:"এই অধ্যায়ে কী আছে", objectives:"অধ্যায় শেষে তুমি পারবে", keyf:"গুরুত্বপূর্ণ সূত্র ও ধারণা", list:"এই অধ্যায়ের পাঠগুলো",
+    markDone:"পড়া শেষ হিসেবে চিহ্নিত করো", marked:"পড়া শেষ ✓", prev:"আগের পাঠ", next:"পরের পাঠ", book:"বইয়ে", pages:"বইয়ের পৃষ্ঠা",
+    notReady:"এই পাঠটি লেখা হচ্ছে। এতে যা যা থাকবে:", noResult:"কিছু পাওয়া যায়নি। ছোট করে লেখো, বা অন্য ভাষায় খুঁজে দেখো।",
+    s:{what:"এটা কী?", simple:"সহজভাবে বুঝি", definition:"বৈজ্ঞানিক সংজ্ঞা", why:"কেন এমন হয়?", terms:"গুরুত্বপূর্ণ শব্দ",
+       formula:"সূত্র", visual:"চোখে দেখি", real:"বাস্তব জীবনে", example:"উদাহরণ", mistakes:"সাধারণ ভুল", remember:"মনে রাখো",
+       think:"ভেবে দেখো", quiz:"নিজেকে যাচাই করো", related:"সম্পর্কিত বিষয়", media:"দেখো ও ঘুরে এসো"},
+    term:"শব্দ", meaning:"অর্থ", symbol:"প্রতীক", sMeaning:"অর্থ", unit:"একক", showAns:"উত্তর দেখো", correct:"ঠিক হয়েছে!", wrong:"হয়নি, আবার ভাবো।",
+    how:[["বিষয় বেছে নাও","পদার্থবিজ্ঞান, রসায়ন বা জীববিজ্ঞান, অধ্যায় ধরে ধরে।"],["পাশে শিক্ষক আছেন এমনভাবে পড়ো","আগে সহজ ধারণা, তারপর বইয়ের সংজ্ঞা।"],["নিজে করে দেখো","স্লাইডার নাড়াও, উদাহরণ মেলাও, ছোট প্রশ্নের উত্তর দাও।"]],
+    subjCh:"টি অধ্যায়", foot:"বাংলাদেশের এসএসসি শিক্ষার্থীদের জন্য, এনসিটিবির নবম-দশম শ্রেণির পদার্থবিজ্ঞান, রসায়ন ও জীববিজ্ঞান বই (২০২৬) অনুসারে তৈরি। ব্যাখ্যাগুলো নিজস্ব; মূল ভরসা তোমার পাঠ্যবই।",
+    analogy:"এভাবে ভেবে দেখো", triQ:"যা বের করতে চাও, তাতে চাপ দাও:", find:"বের করো", labels:{"Given":"দেওয়া আছে","Formula":"সূত্র","Substitution":"মান বসাই","Calculation":"হিসাব","Answer":"উত্তর","Unit":"একক","Solution":"সমাধান","Step":"ধাপ"}}
+};
+const SECT_ORDER = ["what","simple","definition","why","terms","formula","visual","real","example","mistakes","remember","think","quiz"];
+const BN_DIG = "০১২৩৪৫৬৭৮৯";
+const bnNum = (s,lang) => lang==="bn" ? String(s).replace(/[0-9]/g,d=>BN_DIG[d]) : String(s);
+
+const store = {get(k,d){try{const v=localStorage.getItem(k);return v===null?d:JSON.parse(v)}catch(e){return d}}, set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let LANG = store.get("c10-lang","bn");
+let DONE = new Set(store.get("c10-done",[]));
+let MAP = null; const CH = {};
+const $ = (s,el=document) => el.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const strip = s => String(s||"").replace(/<[^>]+>/g,"");
+
+async function loadMap(){ if(!MAP){ const r = await fetch("data/map.json"); MAP = await r.json(); } return MAP; }
+async function loadChapter(subj,n){ const k=subj+"-"+n; if(!CH[k]){ const r = await fetch("data/"+k+".json"); if(!r.ok) return null; CH[k] = await r.json(); } return CH[k]; }
+const subjOf = key => MAP.find(s=>s.key===key);
+function findTopic(subjKey,id){ const s=subjOf(subjKey); if(!s) return null; for(const c of s.chapters){ const i=c.topics.findIndex(t=>t.id===id); if(i>=0) return {s,c,t:c.topics[i],i}; } return null; }
+const T = (o) => (o && (o[LANG] ?? o.en)) || "";
+const title = (x) => LANG==="bn" ? x.bn : x.en;
+const href = (...p) => "#" + [LANG,...p].join(".");
+const doneKey = (s,id) => s+":"+id;
+
+function parseHash(){
+  const h = decodeURIComponent(location.hash.replace(/^#/,""));
+  const p = h.split(".").filter(Boolean);
+  if(p[0]==="en"||p[0]==="bn"){ if(p[0]!==LANG){ LANG=p[0]; store.set("c10-lang",LANG); } p.shift(); }
+  if(!p.length) return {view:"home"};
+  const subj = p.shift();
+  if(!p.length) return {view:"subject",subj};
+  if(/^c\d+$/.test(p[0])) return {view:"chapter",subj,n:+p[0].slice(1)};
+  return {view:"lesson",subj,id:p.join(".")};
+}
+
+function setChrome(){
+  document.documentElement.lang = LANG==="bn"?"bn":"en";
+  $("#brandtxt").textContent = UI[LANG].brand; $("#brand").href = href();
+  $("#searchlbl").textContent = UI[LANG].search;
+  document.querySelectorAll(".langsw button").forEach(b=>b.setAttribute("aria-pressed", b.dataset.l===LANG));
+  $("#foot").textContent = UI[LANG].foot;
+}
+
+async function route(){
+  await loadMap();
+  const r = parseHash(); setChrome(); const main = $("#main");
+  main.className = r.subj ? "s-"+r.subj : "";
+  document.body.className = r.subj ? "s-"+r.subj : "";
+  try{
+    if(r.view==="home") main.innerHTML = viewHome();
+    else if(r.view==="subject") main.innerHTML = viewSubject(r.subj);
+    else if(r.view==="chapter") main.innerHTML = await viewChapter(r.subj,r.n);
+    else main.innerHTML = await viewLesson(r.subj,r.id);
+  }catch(e){ console.error(e); main.innerHTML = `<p class="empty">Something went wrong loading this page. Go back to <a href="${href()}">${UI[LANG].home}</a>.</p>`; }
+  wire(main);
+  window.scrollTo(0,0);
+}
+
+function progressOf(s,c){ const topics = c? c.topics : s.chapters.flatMap(x=>x.topics); const d = topics.filter(t=>DONE.has(doneKey(s.key,t.id))).length; return [d, topics.length]; }
+
+function viewHome(){
+  const u = UI[LANG];
+  return `<section class="hero">
+    <div class="eyebrow">${LANG==="bn"?"এনসিটিবি · নবম-দশম শ্রেণি · ২০২৬":"NCTB · Classes 9–10 · 2026"}</div>
+    <h1>${u.brand}</h1><p class="tag">${u.tag}</p>
+    <form class="searchbox" id="homesearch" role="search"><input id="q" type="search" placeholder="${esc(u.searchPh)}" autocomplete="off" aria-label="${esc(u.search)}"></form>
+    <div class="results" id="results"></div>
+  </section>
+  <div class="subjects">${MAP.map(s=>{ const [d,n]=progressOf(s); return `<a class="subj s-${s.key}" href="${href(s.key)}">
+      <span class="nm">${title(s)}</span>
+      <span class="meta">${bnNum(s.chapters.length,LANG)} ${u.chapters} · ${bnNum(n,LANG)} ${u.lessons}</span>
+      <span class="bar" aria-hidden="true"><i style="width:${n?100*d/n:0}%"></i></span>
+      <span class="meta">${bnNum(d,LANG)} / ${bnNum(n,LANG)} ${u.done}</span></a>`}).join("")}</div>
+  <div class="howto">${u.how.map(([a,b])=>`<div><b>${a}</b>${b}</div>`).join("")}</div>`;
+}
+
+function viewSubject(key){
+  const s = subjOf(key); const u=UI[LANG];
+  if(!s) return `<p class="empty">Not found.</p>`;
+  return `<nav class="crumbs"><a href="${href()}">${u.home}</a><span>›</span><span>${title(s)}</span></nav>
+  <h1>${title(s)}</h1>
+  ${s.chapters.map(c=>{ const [d,n]=progressOf(s,c); return `<div class="chap"><a href="${href(key,"c"+c.n)}">
+    <span class="chno">${u.chapter} ${bnNum(c.n,LANG)}</span>
+    <span class="t">${title(c)}${LANG==="bn"&&c.bnBook!==c.bn?`<small>${u.book}: ${esc(c.bnBook)}</small>`:""}</span>
+    <span class="r">${c.ready?`${bnNum(d,LANG)}/${bnNum(n,LANG)} ${u.done}`:`<span class="soon">${u.soon}</span>`}</span></a></div>`}).join("")}`;
+}
+
+async function viewChapter(key,n){
+  const s = subjOf(key); const c = s && s.chapters.find(x=>x.n===n); const u=UI[LANG];
+  if(!c) return `<p class="empty">Not found.</p>`;
+  const data = c.ready ? await loadChapter(key,n) : null;
+  const ch = data && data.chapter ? data.chapter[LANG] : null;
+  const [d,tot]=progressOf(s,c);
+  const keys = c.topics.flatMap(t=>t.key||[]);
+  return `<nav class="crumbs"><a href="${href()}">${u.home}</a><span>›</span><a href="${href(key)}">${title(s)}</a><span>›</span><span>${u.chapter} ${bnNum(n,LANG)}</span></nav>
+  <div class="eyebrow">${u.chapter} ${bnNum(n,LANG)} · ${u.pages} ${bnNum(c.pages,LANG)}</div>
+  <h1>${title(c)}</h1>${LANG==="bn"&&c.bnBook!==c.bn?`<div class="bookline">${u.book}: ${esc(c.bnBook)}</div>`:""}
+  <div class="bar" style="margin:12px 0 4px" aria-hidden="true"><i style="width:${tot?100*d/tot:0}%"></i></div>
+  <div class="muted" style="font-size:14px">${bnNum(d,LANG)} / ${bnNum(tot,LANG)} ${u.lessons} ${u.done}</div>
+  ${ch?`<section class="blk"><div class="lbl"><h2>${u.intro}</h2></div><div class="prose">${ch.intro||""}</div></section>
+  <section class="blk"><div class="card"><h3 style="margin-bottom:6px">${u.objectives}</h3><ul class="objectives">${(ch.objectives||[]).map(o=>`<li>${o}</li>`).join("")}</ul></div></section>`:""}
+  ${keys.length?`<section class="blk"><div class="lbl"><h2>${u.keyf}</h2></div><div class="keys">${keys.map(k=>`<span>${esc(k)}</span>`).join("")}</div></section>`:""}
+  <section class="blk"><div class="lbl"><h2>${u.list}</h2></div>
+  <div class="chap"><ol class="lessons">${c.topics.map(t=>`<li class="${t.ready?"":"off"}"><a href="${href(key,t.id)}"><span class="id">${bnNum(t.id,LANG)}</span><span class="nm">${title(t)}</span><span class="st">${DONE.has(doneKey(key,t.id))?`<span class="done-mark">✓</span>`:t.ready?"":`<span class="soon">${u.soon}</span>`}</span></a></li>`).join("")}</ol></div></section>`;
+}
+
+function sec(k,n,inner){ return `<section class="blk" id="s-${k}"><div class="lbl"><span class="n">${bnNum(n,LANG)}</span><h2>${UI[LANG].s[k]}</h2></div>${inner}</section>`; }
+
+async function viewLesson(key,id){
+  const f = findTopic(key,id); const u=UI[LANG];
+  if(!f) return `<p class="empty">Not found.</p>`;
+  const {s,c,t,i} = f;
+  const data = c.ready ? await loadChapter(key,c.n) : null;
+  const L = data && data.lessons[id];
+  const all = s.chapters.flatMap(ch=>ch.topics.map(tp=>({ch,tp})));
+  const idx = all.findIndex(x=>x.tp.id===id);
+  const prev = all[idx-1], next = all[idx+1];
+  let h = `<nav class="crumbs"><a href="${href()}">${u.home}</a><span>›</span><a href="${href(key)}">${title(s)}</a><span>›</span><a href="${href(key,"c"+c.n)}">${u.chapter} ${bnNum(c.n,LANG)}</a></nav>
+  <header class="lesson-head"><div class="eyebrow">${u.lesson} ${bnNum(id,LANG)}</div><h1>${title(t)}</h1>
+  ${LANG==="bn"&&t.bnBook&&t.bnBook!==t.bn?`<div class="bookline">${u.book}: ${esc(t.bnBook)}</div>`:""}
+  ${LANG==="bn"?`<div class="bookline">${esc(t.en)}</div>`:""}</header>`;
+  if(!L){
+    h += `<div class="coming"><p style="margin:0 0 6px">${u.notReady}</p><ul style="margin:0">${t.subs.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`;
+  } else {
+    const X = L[LANG]; let n=0; const present = [];
+    const add = (k,html) => { if(html){ n++; present.push(k); h += sec(k,n,html); } };
+    let body = "";
+    const parts = {};
+    parts.what = X.what && `<div class="prose lead">${X.what}</div>`;
+    parts.simple = X.simple && `<div class="prose">${X.simple}</div>${X.analogy?`<div class="analogy"><p class="ah"><span aria-hidden="true">💡</span>${u.analogy}</p><div class="prose">${X.analogy}</div></div>`:""}`;
+    parts.definition = X.definition && `<div class="def"><div class="prose">${X.definition}</div></div>`;
+    parts.why = X.why && `<div class="prose">${X.why}</div>`;
+    parts.terms = X.terms && X.terms.length && `<div class="tablewrap"><table class="terms"><thead><tr><th>${u.term}</th><th>${u.meaning}</th></tr></thead><tbody>${X.terms.map(([a,b])=>`<tr><td>${a}</td><td>${b||""}</td></tr>`).join("")}</tbody></table></div>`;
+    if(X.formula){ const F=X.formula; parts.formula = `<div class="formula">${F.lines.map(l=>`<div class="eq">${l}</div>`).join("")}${(F.tri||[]).map(t=>`<div class="tri" data-t='${JSON.stringify(t).replace(/'/g,"&#39;")}'></div>`).join("")}
+      ${F.symbols.length?`<div class="tablewrap"><table><tbody>${F.symbols.map(r=>`<tr><td>${r[0]}</td><td>${r[1]||""}</td><td class="muted">${r[2]||""}</td></tr>`).join("")}</tbody></table></div>`:""}
+      ${F.notes.map(x=>`<p class="fn">${x}</p>`).join("")}</div>`; }
+    if(L.visual || X.visual || X.timeline){ const ws=(L.visual||"").split(/\s+/).filter(Boolean);
+      if(ws.length>1){ const caps=(X.visual||"").match(/<p>[\s\S]*?<\/p>/g)||[];
+        parts.visual = ws.map((w,i)=>`<div class="visual"><div class="widget" data-w="${w}"></div>${caps[i]?`<div class="cap prose">${caps[i]}</div>`:""}</div>`).join(`<div class="vsep" aria-hidden="true"></div>`) + (caps.length>ws.length?`<div class="cap prose">${caps.slice(ws.length).join("")}</div>`:"");
+      } else parts.visual = `<div class="visual">${ws[0]?`<div class="widget" data-w="${ws[0]}"></div>`:""}${X.visual?`<div class="cap prose">${X.visual}</div>`:""}</div>`; }
+    parts.real = X.real && `<div class="prose">${X.real}</div>`;
+    parts.example = X.examples && X.examples.length && X.examples.map(ex=>`<div class="example"><div class="q">${ex.q}</div><ol>${ex.steps.map(st=>`<li><span class="k">${u.labels[st.label]||st.label}</span><span class="v">${st.html}</span>${st.why?`<span class="why">${st.why}</span>`:""}</li>`).join("")}</ol></div>`).join("");
+    parts.mistakes = X.mistakes && X.mistakes.length && X.mistakes.map(([w,r])=>`<div class="mistake"><div class="w">${w}</div><div class="r">${r}</div></div>`).join("");
+    parts.remember = X.remember && `<div class="remember"><ul>${X.remember.map(x=>`<li>${x}</li>`).join("")}</ul></div>`;
+    parts.think = X.think && `<div class="think prose">${X.think}</div>`;
+    parts.quiz = X.quiz && `<div class="quiz">${X.quiz.map((q,qi)=>`<div class="qq" data-ans="${q.answer}"><div class="qt">${bnNum(qi+1,LANG)}. ${q.q}</div><div class="opts">${q.options.map((o,oi)=>`<button class="opt" data-i="${oi}">${o}</button>`).join("")}</div><div class="qfb" hidden><b></b> ${q.explain}</div></div>`).join("")}</div>`;
+    const jump = SECT_ORDER.filter(k=>parts[k]).map(k=>`<a href="#s-${k}" data-jump="s-${k}">${u.s[k]}</a>`).join("");
+    h += `<nav class="jump" aria-label="Sections">${jump}</nav>`;
+    for(const k of SECT_ORDER) add(k, parts[k]);
+    if(L.media && L.media.length){ n++; h += sec("media",n,`<div class="media">${L.media.map(m=>`<a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(T(m.title))}<small>${esc(m.source)} ↗</small></a>`).join("")}</div>`); }
+    const rel = (L.related||[]).map(r=>findTopic(key,r)).filter(Boolean);
+    if(rel.length){ n++; h += sec("related",n,`<div class="related">${rel.map((x,ri)=>`${ri?'<span class="arrow">·</span>':""}<a href="${href(key,x.t.id)}">${bnNum(x.t.id,LANG)} ${title(x.t)}</a>`).join("")}</div>`); }
+    const isDone = DONE.has(doneKey(key,id));
+    h += `<div class="endbar"><button class="btn ${isDone?"done":"solid"}" id="markdone" data-k="${doneKey(key,id)}">${isDone?u.marked:u.markDone}</button>`;
+  }
+  if(L===undefined || !L) h += `<div class="endbar">`;
+  h += `<div class="navlinks">${prev?`<a class="btn" href="${href(key,prev.tp.id)}">← ${u.prev}</a>`:""}${next?`<a class="btn" href="${href(key,next.tp.id)}">${u.next} →</a>`:""}</div></div>`;
+  return h;
+}
+
+/* search */
+function searchIndex(){
+  const out = [];
+  for(const s of MAP) for(const c of s.chapters) for(const t of c.topics){
+    out.push({s,c,t,text:[t.id,t.en,t.bn,t.bnBook||"",...(t.subs||[]),...(t.key||[]),...(t.terms||[])].join(" ").toLowerCase()});
+  }
+  return out;
+}
+let IDX=null;
+function doSearch(q){
+  q = q.trim().toLowerCase(); const box = $("#results"); if(!box) return;
+  if(!q){ box.innerHTML=""; return; }
+  IDX = IDX || searchIndex();
+  const words = q.split(/\s+/);
+  const hits = IDX.map(x=>{ let sc=0; for(const w of words){ if(!x.text.includes(w)) return null; if((x.t.en+" "+x.t.bn+" "+(x.t.bnBook||"")).toLowerCase().includes(w)) sc+=3; else sc+=1; } if(x.t.ready) sc+=1; return {x,sc}; }).filter(Boolean).sort((a,b)=>b.sc-a.sc).slice(0,20);
+  box.innerHTML = hits.length ? hits.map(({x})=>`<a class="result s-${x.s.key}" href="${href(x.s.key,x.t.id)}">${bnNum(x.t.id,LANG)} · ${title(x.t)}<small>${title(x.s)} · ${UI[LANG].chapter} ${bnNum(x.c.n,LANG)}: ${title(x.c)}${x.t.ready?"":" · "+UI[LANG].soon}</small></a>`).join("") : `<p class="empty">${UI[LANG].noResult}</p>`;
+}
+
+/* wiring */
+function wire(root){
+  const q = $("#q",root); if(q){ let tm; q.addEventListener("input",()=>{clearTimeout(tm);tm=setTimeout(()=>doSearch(q.value),120)}); $("#homesearch").addEventListener("submit",e=>e.preventDefault()); }
+  root.querySelectorAll(".qq").forEach(qq=>{
+    const ans = +qq.dataset.ans;
+    qq.querySelectorAll(".opt").forEach(b=>b.addEventListener("click",()=>{
+      const i=+b.dataset.i; qq.querySelectorAll(".opt").forEach(x=>x.classList.remove("right","wrong"));
+      b.classList.add(i===ans?"right":"wrong"); if(i!==ans) qq.querySelectorAll(".opt")[ans].classList.add("right");
+      const fb=$(".qfb",qq); fb.hidden=false; $("b",fb).textContent = i===ans?UI[LANG].correct:UI[LANG].wrong;
+    }));
+  });
+  root.querySelectorAll("a[data-jump]").forEach(a=>a.addEventListener("click",e=>{e.preventDefault(); const t=document.getElementById(a.dataset.jump); if(t) t.scrollIntoView({block:"start"});}));
+  root.querySelectorAll("a.xref").forEach(a=>{ const r=parseHash(); a.href = href(r.subj,a.dataset.id); });
+  const md = $("#markdone",root); if(md) md.addEventListener("click",()=>{ const k=md.dataset.k; if(DONE.has(k)) DONE.delete(k); else DONE.add(k); store.set("c10-done",[...DONE]); const d=DONE.has(k); md.className="btn "+(d?"done":"solid"); md.textContent = d?UI[LANG].marked:UI[LANG].markDone; });
+  root.querySelectorAll(".tri").forEach(initTri);
+  root.querySelectorAll(".widget").forEach(el=>{ const fn = W[el.dataset.w]; if(fn){ try{ fn(el, LANG, currentLesson()); }catch(e){ console.error(e); el.textContent=""; } } });
+}
+function initTri(box){
+  const [A,B,C] = JSON.parse(box.dataset.t); const u=UI[LANG]; const strip=x=>x.replace(/<[^>]+>/g,"");
+  const ans = {A:`${A} = ${B} × ${C}`, B:`${B} = ${A} ÷ ${C}`, C:`${C} = ${A} ÷ ${B}`};
+  const draw = (k) => {
+    const col = w => w===k ? "var(--bad)" : "var(--c)";
+    const txt = (w,x,y,label) => k===w ? `<g data-k="${w}" style="cursor:pointer"><rect x="${x-34}" y="${y-30}" width="68" height="42" rx="8" fill="var(--bad-soft)" stroke="var(--bad)"/><text x="${x}" y="${y}" font-size="28" text-anchor="middle" fill="var(--bad)">?</text></g>` : `<text data-k="${w}" x="${x}" y="${y}" font-size="${strip(label).length>3?20:30}" text-anchor="middle" fill="${col(w)}">${strip(label)}</text>`;
+    box.innerHTML = `<svg viewBox="0 0 200 170" role="img" aria-label="formula triangle"><polygon points="100,8 192,162 8,162" fill="var(--c-soft)" stroke="var(--c)" stroke-width="3" stroke-linejoin="round"/><line x1="52" y1="88" x2="148" y2="88" stroke="var(--c)" stroke-width="3"/><line x1="100" y1="88" x2="100" y2="162" stroke="var(--c)" stroke-width="3"/>
+      ${txt("A",100,72,A)}${txt("B",62,140,B)}${txt("C",138,140,C)}</svg>
+      <div><p class="tq">${u.triQ}</p><div class="chipset" role="group">${["A","B","C"].map(w=>`<button data-k="${w}" aria-pressed="${w===k}">${u.find} ${({A,B,C})[w]}</button>`).join("")}</div><div class="ta">${k?ans[k]:""}</div></div>`;
+    box.querySelectorAll("[data-k]").forEach(e=>e.addEventListener("click",()=>draw(e.dataset.k)));
+  };
+  draw(null);
+}
+function currentLesson(){ const r=parseHash(); if(r.view!=="lesson") return null; const f=findTopic(r.subj,r.id); if(!f) return null; const d=CH[r.subj+"-"+f.c.n]; return d && d.lessons[r.id]; }
+
+document.querySelectorAll(".langsw button").forEach(b=>b.addEventListener("click",()=>{ LANG=b.dataset.l; store.set("c10-lang",LANG); const r=location.hash.replace(/^#/,"").split(".").filter(Boolean); if(r[0]==="en"||r[0]==="bn") r.shift(); location.hash = "#"+[LANG,...r].join("."); }));
+$("#searchbtn").addEventListener("click",()=>{ if(parseHash().view!=="home") location.hash = href(); setTimeout(()=>{ const q=$("#q"); if(q) q.focus(); },60); });
+window.addEventListener("hashchange", route);
+
+/* ---------------- widgets ---------------- */
+const W = {};
+const svgNS = "http://www.w3.org/2000/svg";
+const L2 = (en,bn) => LANG==="bn"?bn:en;
+const fmtNum = (x,lang) => { if(!isFinite(x)) return "—"; let s; const a=Math.abs(x); if(a!==0 && (a>=1e6||a<1e-3)){ const e=Math.floor(Math.log10(a)); const m=x/Math.pow(10,e); s = (+m.toFixed(3))+" × 10<sup>"+e+"</sup>"; } else s = String(+x.toPrecision(6)); return bnNum(s,lang); };
+
+/* 1.1 branches of physics */
+W.branches = (el) => {
+  const data = [
+    [L2("Classical physics","ক্লাসিক্যাল পদার্থবিজ্ঞান"), [L2("Mechanics","বলবিদ্যা"),L2("Heat & thermodynamics","তাপ ও তাপগতিবিদ্যা"),L2("Sound","শব্দ"),L2("Light (optics)","আলো"),L2("Electricity & magnetism","তড়িৎ ও চুম্বক")]],
+    [L2("Modern physics","আধুনিক পদার্থবিজ্ঞান"), [L2("Relativity","আপেক্ষিকতা"),L2("Quantum mechanics","কোয়ান্টাম বলবিদ্যা"),L2("Atomic & nuclear physics","পারমাণবিক ও নিউক্লীয়"),L2("Solid-state & electronics","কঠিন অবস্থা ও ইলেকট্রনিকস"),L2("Particle physics","কণা পদার্থবিজ্ঞান")]],
+    [L2("Physics + other sciences","পদার্থবিজ্ঞান + অন্য বিজ্ঞান"), [L2("Biophysics","জীবপদার্থবিজ্ঞান"),L2("Chemical physics","রাসায়নিক পদার্থবিজ্ঞান"),L2("Geophysics","ভূপদার্থবিজ্ঞান"),L2("Astrophysics","জ্যোতির্পদার্থবিজ্ঞান"),L2("Medical physics","চিকিৎসা পদার্থবিজ্ঞান")]]
+  ];
+  el.innerHTML = `<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px">${data.map(([h,items],i)=>`<div style="border:1px solid var(--rule);border-radius:10px;padding:10px 12px;background:${i===0?"var(--c-soft)":"var(--paper)"}"><b>${h}</b><ul style="margin:6px 0 0;padding-left:18px">${items.map(x=>`<li>${x}</li>`).join("")}</ul></div>`).join("")}</div>`;
+};
+
+/* 1.3 timeline from lesson data */
+W.timeline = (el, lang, L) => {
+  const tl = L && L[lang] && L[lang].timeline; if(!tl) return;
+  el.innerHTML = `<ol class="tl">${tl.map(([y,w,n])=>`<li><div class="yr">${y}</div><div class="who">${w}</div><div class="hint">${n||""}</div></li>`).join("")}</ol>`;
+};
+
+/* 1.5 powers of ten */
+W.magnitudes = (el) => {
+  const items = [
+    ["m",-15,L2("Radius of a proton (1 × 10⁻¹⁵ m)","প্রোটনের ব্যাসার্ধ (১ × ১০⁻¹⁵ m)")],["m",-10.3,L2("Radius of a hydrogen atom (5 × 10⁻¹¹ m)","হাইড্রোজেন পরমাণুর ব্যাসার্ধ (৫ × ১০⁻¹¹ m)")],["m",-8,L2("Length of a virus (1 × 10⁻⁸ m)","ভাইরাসের দৈর্ঘ্য (১ × ১০⁻⁸ m)")],
+    ["m",0,L2("About the height of a small child (1 m)","ছোট শিশুর উচ্চতার কাছাকাছি (১ m)")],["m",3.95,L2("Height of Everest (9 × 10³ m)","এভারেস্টের উচ্চতা (৯ × ১০³ m)")],["m",6.8,L2("Radius of the Earth (6 × 10⁶ m)","পৃথিবীর ব্যাসার্ধ (৬ × ১০⁶ m)")],
+    ["m",12.8,L2("Radius of the solar system (6 × 10¹² m)","সৌরজগতের ব্যাসার্ধ (৬ × ১০¹² m)")],["m",16.6,L2("Distance to the nearest star (4 × 10¹⁶ m)","নিকটতম নক্ষত্রের দূরত্ব (৪ × ১০¹⁶ m)")],["m",22.3,L2("Distance to the nearest galaxy (2 × 10²² m)","নিকটতম গ্যালাক্সির দূরত্ব (২ × ১০²² m)")],
+    ["kg",-30.05,L2("An electron (9 × 10⁻³¹ kg)","একটি ইলেকট্রন (৯ × ১০⁻³¹ kg)")],["kg",-6.2,L2("A speck of dust (7 × 10⁻⁷ kg)","এক কণা ধুলা (৭ × ১০⁻⁷ kg)")],["kg",1.8,L2("A person (6 × 10¹ kg)","একজন মানুষ (৬ × ১০¹ kg)")],
+    ["kg",7.85,L2("A ship (7 × 10⁷ kg)","একটি জাহাজ (৭ × ১০⁷ kg)")],["kg",3.7,L2("An elephant (5 × 10³ kg)","একটি হাতি (৫ × ১০³ kg)")],["kg",24.8,L2("The Earth (6 × 10²⁴ kg)","পৃথিবী (৬ × ১০²⁴ kg)")],["kg",30.3,L2("The Sun (2 × 10³⁰ kg)","সূর্য (২ × ১০³⁰ kg)")],["kg",41.3,L2("Our galaxy (2 × 10⁴¹ kg)","আমাদের গ্যালাক্সি (২ × ১০⁴¹ kg)")],
+    ["s",-20.4,L2("One vibration of a 1 MeV gamma ray (4 × 10⁻²¹ s)","১ MeV গামা রশ্মির একটি কম্পন (৪ × ১০⁻²¹ s)")],["s",-14.7,L2("One vibration of green light (2 × 10⁻¹⁵ s)","সবুজ আলোর একটি কম্পন (২ × ১০⁻¹⁵ s)")],["s",-5.7,L2("Lifetime of a muon (2 × 10⁻⁶ s)","মিউয়নের আয়ু (২ × ১০⁻⁶ s)")],["s",0,L2("One heartbeat (1 s)","একটি হৃৎস্পন্দন (১ s)")],
+    ["s",4.9,L2("One day (9 × 10⁴ s)","একদিন (৯ × ১০⁴ s)")],["s",12.9,L2("Time since the first humans (8 × 10¹² s)","মানুষের আবির্ভাবের পর থেকে সময় (৮ × ১০¹² s)")],["s",14.3,L2("Time since dinosaurs died out (2 × 10¹⁴ s)","ডাইনোসর বিলুপ্তির পর থেকে সময় (২ × ১০¹⁴ s)")],["s",17.6,L2("Time since the Big Bang (4 × 10¹⁷ s)","বিগ ব্যাং থেকে এ পর্যন্ত সময় (৪ × ১০¹⁷ s)")]
+  ];
+  const kinds = [["m",L2("Length","দৈর্ঘ্য")],["kg",L2("Mass","ভর")],["s",L2("Time","সময়")]];
+  let kind="m";
+  el.innerHTML = `<div class="chipset" role="group">${kinds.map(([k,l])=>`<button data-k="${k}" aria-pressed="${k===kind}">${l}</button>`).join("")}</div><div class="svgwrap fit" id="magsvg"></div><p class="hint">${L2("Each step on the line is 10 times bigger than the one before it.","রেখার প্রতিটি ঘর আগের ঘরের চেয়ে ১০ গুণ বড়।")}</p>`;
+  const draw = () => {
+    const list = items.filter(x=>x[0]===kind).sort((a,b)=>a[1]-b[1]);
+    const lo = Math.floor(list[0][1])-1, hi = Math.ceil(list[list.length-1][1])+1;
+    const W0=600, rowH=26, top=20, H = top + list.length*rowH + 40;
+    const x = v => 20 + (v-lo)/(hi-lo)*(W0-40);
+    let s = `<svg viewBox="0 0 ${W0} ${H}" role="img" aria-label="scale">`;
+    const axisY = H-28;
+    s += `<line x1="20" y1="${axisY}" x2="${W0-20}" y2="${axisY}" stroke="var(--muted)" stroke-width="1.5"/>`;
+    const step = Math.ceil((hi-lo)/10);
+    for(let e=lo; e<=hi; e+=step){ s += `<line x1="${x(e)}" y1="${axisY-4}" x2="${x(e)}" y2="${axisY+4}" stroke="var(--muted)"/><text x="${x(e)}" y="${axisY+20}" font-size="12" text-anchor="middle" fill="var(--muted)" font-family="JetBrains Mono,monospace">10^${e}</text>`; }
+    list.forEach((it,i)=>{ const y = top + i*rowH; const xx = x(it[1]); const anchor = xx > W0*0.62 ? "end" : "start"; const tx = anchor==="end"? xx-8 : xx+8;
+      s += `<line x1="${xx}" y1="${y+4}" x2="${xx}" y2="${axisY}" stroke="var(--c)" stroke-opacity=".25"/><circle cx="${xx}" cy="${y+4}" r="5" fill="var(--c)"/><text x="${tx}" y="${y+8}" font-size="13" text-anchor="${anchor}" fill="var(--ink)">${it[2]}</text>`; });
+    s += `<text x="${W0-20}" y="12" font-size="12" text-anchor="end" fill="var(--muted)">${kind}</text></svg>`;
+    $("#magsvg",el).innerHTML = s.replace(/10\^(-?\d+)/g,(m,e)=>`10<tspan dy="-6" font-size="9">${e}</tspan>`);
+  };
+  el.querySelectorAll(".chipset button").forEach(b=>b.addEventListener("click",()=>{kind=b.dataset.k; el.querySelectorAll(".chipset button").forEach(x=>x.setAttribute("aria-pressed",x===b)); draw();}));
+  draw();
+};
+
+/* 1.5.2 prefix converter */
+W.prefix = (el) => {
+  const P = [["tera","T",12],["giga","G",9],["mega","M",6],["kilo","k",3],["hecto","h",2],["deca","da",1],["—","",0],["deci","d",-1],["centi","c",-2],["milli","m",-3],["micro","µ",-6],["nano","n",-9],["pico","p",-12]];
+  const opts = (sel) => P.map(([n,s,e])=>`<option value="${e}" ${e===sel?"selected":""}>${s? s+" ("+n+", 10^"+e+")" : L2("no prefix (10^0)","উপসর্গ নেই (10^0)")}</option>`).join("").replace(/10\^(-?\d+)/g,"10^$1");
+  const units = [["m",L2("metre","মিটার")],["g",L2("gram","গ্রাম")],["s",L2("second","সেকেন্ড")],["L",L2("litre","লিটার")],["W",L2("watt","ওয়াট")],["Hz",L2("hertz","হার্জ")]];
+  el.innerHTML = `<div class="w-row"><input class="w-in" type="number" id="pv" value="2.5" step="any" aria-label="value">
+    <select class="w-in" id="pf" aria-label="from prefix">${opts(3)}</select>
+    <select class="w-in" id="pu" aria-label="unit">${units.map(([u,n])=>`<option value="${u}">${u} (${n})</option>`).join("")}</select></div>
+    <div class="w-row"><label for="pt">${L2("Convert to","রূপান্তর করো")}</label><select class="w-in" id="pt">${opts(0)}</select></div>
+    <div class="w-out" id="po"></div><div class="hint" id="ph"></div>`;
+  const go = () => {
+    const v = parseFloat($("#pv",el).value); const a=+$("#pf",el).value, b=+$("#pt",el).value; const u=$("#pu",el).value;
+    const sym = e => (P.find(p=>p[2]===e)||["","",0])[1];
+    const r = v*Math.pow(10,a-b);
+    $("#po",el).innerHTML = `${bnNum(v,LANG)} ${sym(a)}${u} = ${fmtNum(r,LANG)} ${sym(b)}${u}`;
+    const d=a-b; $("#ph",el).innerHTML = d===0? "" : L2(`Moving from 10<sup>${a}</sup> to 10<sup>${b}</sup> means multiplying by 10<sup>${d}</sup>.`, `10<sup>${bnNum(a,"bn")}</sup> থেকে 10<sup>${bnNum(b,"bn")}</sup>-এ যেতে 10<sup>${bnNum(d,"bn")}</sup> দিয়ে গুণ করতে হয়।`);
+  };
+  el.querySelectorAll("input,select").forEach(x=>x.addEventListener("input",go)); go();
+};
+
+/* 1.5.3 dimension builder */
+W.dimension = (el) => {
+  const Q = [
+    [L2("Area","ক্ষেত্রফল"),"length × length","L²","ল × ল"],
+    [L2("Volume","আয়তন"),"length × length × length","L³",""],
+    [L2("Velocity","বেগ"),"distance ÷ time","LT⁻¹",""],
+    [L2("Acceleration","ত্বরণ"),"velocity ÷ time","LT⁻²",""],
+    [L2("Force","বল"),"mass × acceleration","MLT⁻²",""],
+    [L2("Density","ঘনত্ব"),"mass ÷ volume","ML⁻³",""],
+    [L2("Momentum","ভরবেগ"),"mass × velocity","MLT⁻¹",""],
+    [L2("Work / Energy","কাজ / শক্তি"),"force × distance","ML²T⁻²",""],
+    [L2("Pressure","চাপ"),"force ÷ area","ML⁻¹T⁻²",""],
+  ];
+  const bnF = {"length × length":"দৈর্ঘ্য × দৈর্ঘ্য","length × length × length":"দৈর্ঘ্য × দৈর্ঘ্য × দৈর্ঘ্য","distance ÷ time":"দূরত্ব ÷ সময়","velocity ÷ time":"বেগ ÷ সময়","mass × acceleration":"ভর × ত্বরণ","mass ÷ volume":"ভর ÷ আয়তন","mass × velocity":"ভর × বেগ","force × distance":"বল × দূরত্ব","force ÷ area":"বল ÷ ক্ষেত্রফল"};
+  el.innerHTML = `<div class="chipset" role="group">${Q.map((q,i)=>`<button data-i="${i}" aria-pressed="${i===2}">${q[0]}</button>`).join("")}</div><div class="w-out" id="do" style="font-size:19px"></div>
+  <p class="hint">${L2("M = mass, L = length, T = time. A negative power means the quantity is divided by it.","M = ভর, L = দৈর্ঘ্য, T = সময়। ঋণাত্মক ঘাত মানে ওই রাশি দিয়ে ভাগ করা হয়েছে।")}</p>`;
+  const show = i => { const q=Q[i]; $("#do",el).innerHTML = `[${q[0]}] = [${LANG==="bn"?bnF[q[1]]:q[1]}] = <b>${q[2]}</b>`; };
+  el.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{ el.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b)); show(+b.dataset.i); }));
+  show(2);
+};
+
+/* 1.6 vernier calipers simulator */
+W.vernier = (el) => {
+  el.innerHTML = `<div class="svgwrap" id="vsvg"></div>
+  <input class="w-range" type="range" id="vr" min="0" max="45" step="0.01" value="21.4" aria-label="${L2("Object length","বস্তুর দৈর্ঘ্য")}">
+  <div class="w-row"><button class="btn" id="vnew">${L2("New object","নতুন বস্তু")}</button><button class="btn solid" id="vshow">${L2("Show the reading","পাঠ দেখাও")}</button></div>
+  <div class="w-out" id="vout" hidden></div>
+  <p class="hint">${L2("Main scale: 1 division = 1 mm. Vernier: 10 divisions = 9 mm, so VC = 1 mm ÷ 10 = 0.1 mm. Find the vernier mark that lines up exactly with a main-scale mark.","প্রধান স্কেলে ১ ঘর = ১ mm। ভার্নিয়ারের ১০ ঘর = ৯ mm, তাই VC = ১ mm ÷ ১০ = ০.১ mm। ভার্নিয়ারের কোন দাগটি প্রধান স্কেলের কোনো দাগের সাথে ঠিক মিলে গেছে খুঁজে বের করো।")}</p>`;
+  const r = $("#vr",el);
+  const draw = () => {
+    const len = Math.round(+r.value*10)/10; // mm, resolution 0.1
+    const px = 12, x0 = 40, W0 = 40+ 60*px + 40, H=170;
+    let s = `<svg viewBox="0 0 ${W0} ${H}" role="img" aria-label="vernier">`;
+    // fixed jaw and object
+    s += `<rect x="${x0-18}" y="20" width="18" height="120" fill="var(--muted)" opacity=".5"/>`;
+    s += `<rect x="${x0}" y="30" width="${len*px}" height="30" fill="var(--c)" opacity=".35" stroke="var(--c)"/>`;
+    s += `<text x="${x0+4}" y="50" font-size="13" fill="var(--ink)">${L2("object","বস্তু")}</text>`;
+    // main scale
+    s += `<rect x="${x0}" y="70" width="${60*px}" height="34" fill="var(--sheet)" stroke="var(--rule)"/>`;
+    for(let mm=0; mm<=60; mm++){ const x=x0+mm*px; const hgt = mm%10===0?16: mm%5===0?11:7; s += `<line x1="${x}" y1="104" x2="${x}" y2="${104-hgt}" stroke="var(--ink)" stroke-width="${mm%10===0?1.6:1}"/>`; if(mm%10===0) s+=`<text x="${x}" y="84" font-size="12" text-anchor="middle" fill="var(--ink)" font-family="JetBrains Mono,monospace">${mm/10}</text>`; }
+    s += `<text x="${x0+60*px+6}" y="96" font-size="11" fill="var(--muted)">cm</text>`;
+    // vernier (starts at len)
+    const vx = x0 + len*px;
+    s += `<rect x="${vx-18}" y="104" width="${18}" height="46" fill="var(--muted)" opacity=".5"/>`;
+    s += `<rect x="${vx}" y="104" width="${9*px+14}" height="30" fill="var(--c-soft)" stroke="var(--c)"/>`;
+    const frac = Math.round((len - Math.floor(len+1e-9))*10); // coinciding division
+    for(let d=0; d<=10; d++){ const x = vx + d*0.9*px; const co = d===frac; s += `<line x1="${x}" y1="104" x2="${x}" y2="${104+(d%5===0?14:9)}" stroke="${co&&showing?"var(--bad)":"var(--c)"}" stroke-width="${co&&showing?2.4:1.2}"/>`; if(d%5===0) s+=`<text x="${x}" y="130" font-size="11" text-anchor="middle" fill="var(--c)" font-family="JetBrains Mono,monospace">${d}</text>`; }
+    s += `<rect x="${x0-18}" y="20" width="0" height="0"/></svg>`;
+    $("#vsvg",el).innerHTML = s;
+    const msr = Math.floor(len+1e-9);
+    $("#vout",el).innerHTML = L2(`Main scale reading = <b>${msr} mm</b> (last mm mark before the vernier zero)<br>Coinciding vernier division = <b>${frac}</b><br>Length = ${msr} mm + ${frac} × 0.1 mm = <b>${(msr+frac/10).toFixed(1)} mm = ${((msr+frac/10)/10).toFixed(2)} cm</b>`,
+      `প্রধান স্কেল পাঠ = <b>${bnNum(msr,"bn")} mm</b> (ভার্নিয়ারের শূন্য দাগের আগের শেষ mm দাগ)<br>মিলে যাওয়া ভার্নিয়ার দাগ = <b>${bnNum(frac,"bn")}</b><br>দৈর্ঘ্য = ${bnNum(msr,"bn")} mm + ${bnNum(frac,"bn")} × ০.১ mm = <b>${bnNum((msr+frac/10).toFixed(1),"bn")} mm = ${bnNum(((msr+frac/10)/10).toFixed(2),"bn")} cm</b>`);
+  };
+  let showing=false;
+  r.addEventListener("input",()=>{ showing=false; $("#vout",el).hidden=true; draw(); });
+  $("#vshow",el).addEventListener("click",()=>{ showing=true; $("#vout",el).hidden=false; draw(); });
+  $("#vnew",el).addEventListener("click",()=>{ r.value = (5+Math.random()*38).toFixed(1); showing=false; $("#vout",el).hidden=true; draw(); });
+  draw();
+};
+
+/* 1.6 screw gauge */
+W.screw = (el) => {
+  el.innerHTML = `<div class="svgwrap fit" id="ssvg"></div>
+  <input class="w-range" type="range" id="sr" min="0" max="8" step="0.01" value="3.47" aria-label="${L2("Wire thickness","তারের পুরুত্ব")}">
+  <div class="w-row"><button class="btn solid" id="sshow">${L2("Show the reading","পাঠ দেখাও")}</button></div>
+  <div class="w-out" id="sout" hidden></div>
+  <p class="hint">${L2("Pitch = 1 mm, circular scale = 100 divisions, so least count = 1 mm ÷ 100 = 0.01 mm.","পিচ = ১ mm, বৃত্তাকার স্কেলে ১০০ ঘর, তাই লঘিষ্ঠ গণন = ১ mm ÷ ১০০ = ০.০১ mm।")}</p>`;
+  const r=$("#sr",el);
+  const draw = () => {
+    const v = Math.round(+r.value*100)/100; const lin = Math.floor(v+1e-9); const circ = Math.round((v-lin)*100);
+    const px=40, x0=30, W0=520, H=170;
+    let s = `<svg viewBox="0 0 ${W0} ${H}" role="img" aria-label="screw gauge">`;
+    s += `<rect x="${x0}" y="70" width="${lin*px+px*0.9+20}" height="26" fill="var(--sheet)" stroke="var(--rule)"/>`;
+    s += `<line x1="${x0}" y1="83" x2="${x0+9*px}" y2="83" stroke="var(--ink)" stroke-width="1.2"/>`;
+    for(let mm=0; mm<=9; mm++){ const x=x0+mm*px; s+=`<line x1="${x}" y1="83" x2="${x}" y2="71" stroke="var(--ink)"/><text x="${x}" y="64" font-size="12" text-anchor="middle" fill="var(--ink)" font-family="JetBrains Mono,monospace">${mm}</text>`; }
+    const tx = x0 + v*px; // thimble edge
+    s += `<rect x="${tx}" y="40" width="${W0-tx-10}" height="86" rx="6" fill="var(--c-soft)" stroke="var(--c)"/>`;
+    // circular scale ticks around reference line (y=83)
+    for(let k=-6;k<=6;k++){ const d = (circ + k + 100)%100; const y = 83 - k*6; s+=`<line x1="${tx}" y1="${y}" x2="${tx+(d%5===0?16:9)}" y2="${y}" stroke="${k===0&&shown?"var(--bad)":"var(--c)"}" stroke-width="${k===0&&shown?2.2:1}"/>`; if(d%5===0) s+=`<text x="${tx+20}" y="${y+4}" font-size="11" fill="var(--c)" font-family="JetBrains Mono,monospace">${d}</text>`; }
+    s += `<text x="${x0}" y="140" font-size="12" fill="var(--muted)">${L2("linear scale (mm)","রৈখিক স্কেল (mm)")}</text><text x="${Math.min(tx+40,W0-150)}" y="150" font-size="12" fill="var(--muted)">${L2("circular scale","বৃত্তাকার স্কেল")}</text></svg>`;
+    $("#ssvg",el).innerHTML = s;
+    $("#sout",el).innerHTML = L2(`Linear scale reading = <b>${lin} mm</b><br>Circular scale division on the line = <b>${circ}</b><br>Reading = ${lin} mm + ${circ} × 0.01 mm = <b>${v.toFixed(2)} mm</b>`,
+      `রৈখিক স্কেল পাঠ = <b>${bnNum(lin,"bn")} mm</b><br>রেখার ওপর বৃত্তাকার স্কেলের দাগ = <b>${bnNum(circ,"bn")}</b><br>পাঠ = ${bnNum(lin,"bn")} mm + ${bnNum(circ,"bn")} × ০.০১ mm = <b>${bnNum(v.toFixed(2),"bn")} mm</b>`);
+  };
+  let shown=false;
+  r.addEventListener("input",()=>{shown=false;$("#sout",el).hidden=true;draw();});
+  $("#sshow",el).addEventListener("click",()=>{shown=true;$("#sout",el).hidden=false;draw();});
+  draw();
+};
+
+/* 1.6.2 stopwatch reaction game */
+W.stopwatch = (el) => {
+  el.innerHTML = `<div class="big-time" id="swt">0.00 s</div>
+  <div class="w-row" style="justify-content:center"><button class="btn solid" id="swb">${L2("Start","শুরু")}</button></div>
+  <p class="hint" style="text-align:center">${L2("Challenge: start the watch, then stop it at exactly 5.00 s without looking at the numbers after 3 s.","চ্যালেঞ্জ: ঘড়ি চালু করো, তারপর ৩ সেকেন্ডের পর সংখ্যা না দেখে ঠিক ৫.০০ সেকেন্ডে থামাও।")}</p>
+  <div class="w-out" id="swo" hidden></div>`;
+  let t0=0, raf=0, running=false; const tEl=$("#swt",el), b=$("#swb",el);
+  const tick = () => { const t=(performance.now()-t0)/1000; tEl.textContent = t<3 ? bnNum(t.toFixed(2),LANG)+" s" : "? ? ?"; raf=requestAnimationFrame(tick); };
+  b.addEventListener("click",()=>{
+    if(!running){ running=true; t0=performance.now(); b.textContent=L2("Stop","থামাও"); $("#swo",el).hidden=true; tick(); }
+    else { running=false; cancelAnimationFrame(raf); const t=(performance.now()-t0)/1000; tEl.textContent = bnNum(t.toFixed(2),LANG)+" s"; b.textContent=L2("Try again","আবার চেষ্টা করো");
+      const err=Math.abs(t-5); const o=$("#swo",el); o.hidden=false;
+      o.innerHTML = L2(`You were off by <b>${err.toFixed(2)} s</b>. The watch measures to 0.01 s, but your hand is much less accurate. That is the book's point: the instrument is precise, the human is the limit.`,
+        `তুমি <b>${bnNum(err.toFixed(2),"bn")} s</b> এদিক-ওদিক হয়েছ। ঘড়ি ০.০১ সেকেন্ড পর্যন্ত মাপতে পারে, কিন্তু আমাদের হাত এত নিখুঁত নয়। বইয়ের কথাটাই এটা: যন্ত্র নিখুঁত, সীমাবদ্ধতা মানুষের।`); }
+  });
+};
+
+/* 1.7 error calculator */
+W.error = (el) => {
+  el.innerHTML = `<div class="w-row"><label for="em">${L2("Measured value","পরিমাপ করা মান")}</label><input class="w-in" type="number" id="em" value="7" step="any"><label for="ee">± ${L2("absolute error","চূড়ান্ত ত্রুটি")}</label><input class="w-in" type="number" id="ee" value="0.5" step="any"><span class="muted">mm</span></div>
+  <div class="w-out" id="eo"></div>
+  <div class="w-row"><label>${L2("Use this length as the side of a","এই দৈর্ঘ্যকে বাহু ধরে বানাও")}</label><div class="chipset" role="group"><button data-p="1" aria-pressed="true">${L2("line","রেখা")}</button><button data-p="2" aria-pressed="false">${L2("square","বর্গ")}</button><button data-p="3" aria-pressed="false">${L2("cube","ঘনক")}</button></div></div>
+  <div class="w-out" id="eo2"></div>`;
+  let p=1;
+  const go = () => {
+    const m=+$("#em",el).value, e=Math.abs(+$("#ee",el).value); const rel=e/m;
+    $("#eo",el).innerHTML = m>0 ? L2(`Relative error = ${e} ÷ ${m} = <b>${rel.toFixed(3)}</b> → percentage error = <b>${(rel*100).toFixed(1)}%</b>`,
+      `আপেক্ষিক ত্রুটি = ${bnNum(e,"bn")} ÷ ${bnNum(m,"bn")} = <b>${bnNum(rel.toFixed(3),"bn")}</b> → শতকরা ত্রুটি = <b>${bnNum((rel*100).toFixed(1),"bn")}%</b>`) : "—";
+    if(m>0){ const val=Math.pow(m,p), hi=Math.pow(m+e,p), lo=Math.pow(m-e,p); const worst=Math.max(hi-val,val-lo); const u = p===1?"mm":p===2?"mm²":"mm³";
+      $("#eo2",el).innerHTML = L2(`Value = ${+val.toFixed(3)} ${u}; it could be from ${+lo.toFixed(3)} to ${+hi.toFixed(3)} ${u}.<br>Largest error = ${+worst.toFixed(3)} ${u} → <b>${(100*worst/val).toFixed(1)}%</b> (about ${p} × ${(rel*100).toFixed(1)}% when the error is small)`,
+        `মান = ${bnNum(+val.toFixed(3),"bn")} ${u}; এটি ${bnNum(+lo.toFixed(3),"bn")} থেকে ${bnNum(+hi.toFixed(3),"bn")} ${u} পর্যন্ত হতে পারে।<br>সবচেয়ে বড় ত্রুটি = ${bnNum(+worst.toFixed(3),"bn")} ${u} → <b>${bnNum((100*worst/val).toFixed(1),"bn")}%</b> (ত্রুটি ছোট হলে প্রায় ${bnNum(p,"bn")} × ${bnNum((rel*100).toFixed(1),"bn")}%)`); }
+  };
+  el.querySelectorAll("input").forEach(x=>x.addEventListener("input",go));
+  el.querySelectorAll(".chipset button").forEach(b=>b.addEventListener("click",()=>{p=+b.dataset.p; el.querySelectorAll(".chipset button").forEach(x=>x.setAttribute("aria-pressed",x===b)); go();}));
+  go();
+};
+
+/*__WIDGETS__*/
+route();
+</script>

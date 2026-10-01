@@ -1,0 +1,1947 @@
+@@chapter
+== en
+## intro
+By 2016 scientists had identified **118 elements**. Imagine trying to learn the colour, melting point, reactions with water, acids and oxygen, and dozens of other facts for every one of them separately. It would be impossible! Luckily, elements are not a random crowd. Some of them behave like brothers and sisters of one family, and their properties repeat again and again in a regular pattern. For more than a hundred years chemists worked to arrange the elements in a chart that shows this pattern. The result is the **periodic table**, one of the greatest achievements in chemistry.
+
+In this chapter you will follow the story of the periodic table, from Lavoisier and Döbereiner to Newlands, Mendeleev and Moseley. You will learn how the modern table is built (7 periods, 18 groups), how to find an element's period and group straight from its electron configuration, and why the electron configuration is the real basis of the table. Then you will see how atomic size, ionisation energy, electron affinity, electronegativity and metallic character change across the table, meet the special families (alkali metals, halogens, noble gases and more), and finally prove with a simple experiment that elements of the same group really do behave alike.
+## objectives
+- describe the history of the periodic table: Lavoisier, Döbereiner, Newlands, Mendeleev and Moseley
+- state the modern periodic law and describe the main features of the modern periodic table
+- find the period and group of an element from its electron configuration (first 36 elements)
+- explain why electron configuration is the main basis of the periodic table
+- explain the special positions of hydrogen, helium, the lanthanides and the actinides
+- explain how metallic character, atomic radius, ionisation energy, electron affinity and electronegativity change across a period and down a group
+- give the reasons behind the special names of groups (alkali metals, alkaline-earth metals, coinage metals, transition metals, halogens, noble gases)
+- explain the advantages of the periodic table
+- show by experiment that compounds of elements of the same group behave alike, and prepare and test carbon dioxide safely
+== bn
+## intro
+২০১৬ সাল পর্যন্ত বিজ্ঞানীরা **১১৮টি মৌল** শনাক্ত করেছেন। ভাবো তো, প্রতিটি মৌলের রং, গলনাঙ্ক, পানি-এসিড-অক্সিজেনের সাথে বিক্রিয়া আর আরও ডজনখানেক তথ্য যদি আলাদা আলাদা করে মুখস্থ করতে হতো! অসম্ভব ব্যাপার। সৌভাগ্যের কথা, মৌলগুলো এলোমেলো কোনো ভিড় নয়। কিছু মৌল একই পরিবারের ভাইবোনের মতো আচরণ করে, আর তাদের ধর্ম একটি নিয়মিত ছন্দে বারবার ফিরে আসে। এই ছন্দটি একটি ছকে ধরে রাখার জন্য শত বছরেরও বেশি সময় ধরে রসায়নবিদেরা কাজ করেছেন। তার ফলই হলো **পর্যায় সারণি** (Periodic Table), রসায়নের অন্যতম সেরা অর্জন।
+
+এই অধ্যায়ে তুমি পর্যায় সারণির গল্পটা জানবে: ল্যাভয়সিয়ে আর ডোবেরাইনার থেকে নিউল্যান্ডস, মেন্ডেলিফ ও মোসলে পর্যন্ত। শিখবে আধুনিক সারণি কীভাবে সাজানো (৭টি পর্যায়, ১৮টি গ্রুপ), ইলেকট্রন বিন্যাস দেখেই কীভাবে মৌলের পর্যায় ও গ্রুপ বের করা যায়, আর কেন ইলেকট্রন বিন্যাসই সারণির আসল ভিত্তি। তারপর দেখবে পরমাণুর আকার, আয়নিকরণ শক্তি, ইলেকট্রন আসক্তি, তড়িৎ ঋণাত্মকতা আর ধাতব ধর্ম সারণিতে কীভাবে বদলায়; পরিচিত হবে বিশেষ পরিবারগুলোর সাথে (ক্ষার ধাতু, হ্যালোজেন, নিষ্ক্রিয় গ্যাস ইত্যাদি); আর শেষে একটি সহজ পরীক্ষা দিয়ে প্রমাণ করবে যে একই গ্রুপের মৌলগুলো সত্যিই একই রকম আচরণ করে।
+## objectives
+- পর্যায় সারণির পটভূমি বর্ণনা করতে পারবে: ল্যাভয়সিয়ে, ডোবেরাইনার, নিউল্যান্ডস, মেন্ডেলিফ ও মোসলে
+- আধুনিক পর্যায় সূত্র লিখতে এবং আধুনিক পর্যায় সারণির প্রধান বৈশিষ্ট্যগুলো বর্ণনা করতে পারবে
+- ইলেকট্রন বিন্যাস থেকে মৌলের পর্যায় ও গ্রুপ নির্ণয় করতে পারবে (প্রথম ৩৬টি মৌল)
+- ইলেকট্রন বিন্যাস কেন পর্যায় সারণির মূলভিত্তি, তা ব্যাখ্যা করতে পারবে
+- হাইড্রোজেন, হিলিয়াম, ল্যান্থানাইড ও অ্যাকটিনাইডের বিশেষ অবস্থান ব্যাখ্যা করতে পারবে
+- পর্যায় বরাবর ও গ্রুপ বরাবর ধাতব ধর্ম, পারমাণবিক ব্যাসার্ধ, আয়নিকরণ শক্তি, ইলেকট্রন আসক্তি ও তড়িৎ ঋণাত্মকতা কীভাবে বদলায় তা ব্যাখ্যা করতে পারবে
+- বিভিন্ন গ্রুপের বিশেষ নামের (ক্ষার ধাতু, মৃৎক্ষার ধাতু, মুদ্রা ধাতু, অবস্থান্তর ধাতু, হ্যালোজেন, নিষ্ক্রিয় গ্যাস) কারণ বলতে পারবে
+- পর্যায় সারণির সুবিধাগুলো ব্যাখ্যা করতে পারবে
+- একই গ্রুপের মৌলের যৌগগুলো যে একই রকম আচরণ করে তা পরীক্ষার মাধ্যমে দেখাতে পারবে, এবং নিরাপদে কার্বন ডাই-অক্সাইড তৈরি ও পরীক্ষা করতে পারবে
+
+@@ 4.1
+@visual k4hist
+@related 4.2 4.4 3.5 3.9
+== en
+## what
+The periodic table was not invented in a day by one person. Step by step, **Lavoisier** (metals and non-metals, 1789), **Döbereiner** (triads, 1829), **Newlands** (law of octaves, 1864–65), **Mendeleev** (periodic table by atomic mass, 1869) and **Moseley** (atomic number, 1913) built it. Today it rests on the **modern periodic law**: the properties of elements repeat periodically with their **atomic number**.
+## simple
+Long ago people knew only a handful of elements, and each was studied on its own. As more elements were discovered, chemists began to notice that some of them looked and reacted alike. The big question became: *is there a pattern hiding among the elements?*
+
+**1. Lavoisier (1789): two boxes.** The French chemist Antoine Lavoisier listed the 33 "elements" known to him (oxygen, nitrogen, hydrogen, phosphorus, mercury, zinc, sulfur and others) and sorted them into just two groups: **metals** and **non-metals**. It was a start, but two boxes are far too few. Sodium and gold are both metals, yet they behave completely differently.
+
+**2. Döbereiner (1829): families of three.** The German chemist Johann Döbereiner noticed trios of similar elements. When a trio is written in order of atomic mass, the atomic mass of the **middle element is roughly the average of the other two**. His first triad was chlorine, bromine and iodine: (35.5 + 127) ÷ 2 ≈ 81, close to bromine's 80. Lithium, sodium and potassium fit even better: (7 + 39) ÷ 2 = 23, exactly sodium's atomic mass. This is **Döbereiner's law of triads** (ত্রয়ী সূত্র). Its weakness: only a few trios could be found.
+
+**3. Newlands (1864–65): every eighth element.** The English chemist John Newlands arranged the elements known in his time in order of increasing atomic mass. He saw that **every eighth element resembled the first**, just as the eighth note in music (sa re ga ma pa dha ni **sa**) repeats the first. Starting from lithium, the eighth element is sodium; starting from fluorine, the eighth is chlorine. This is the **law of octaves** (অষ্টক সূত্র). It worked well for the light elements up to calcium, but beyond that it broke down, and there was no room for elements discovered later (the noble gases were still unknown).
+
+**4. Mendeleev (1869): the first real periodic table.** The Russian chemist Dmitri Mendeleev studied the physical and chemical properties of all 63 elements known in his day. He stated: *the physical and chemical properties of elements recur periodically as their atomic masses increase*. He arranged the elements in a chart of vertical columns (groups) and horizontal rows so that similar elements fell in the same column. His two masterstrokes:
+- He **left gaps** for elements not yet discovered and **predicted their properties**. He called one missing element "eka-silicon". When germanium was discovered in 1886, its atomic mass (72.6) and density matched his prediction remarkably well. Gallium (1875) and scandium (1879) also filled his gaps.
+- He put **properties first**. Where strict mass order would place an element in the wrong family, he broke the order.
+
+But this also showed a **flaw**: argon (atomic mass 40) had to be placed before potassium (39), tellurium (127.6) before iodine (126.9), and cobalt (58.9) before nickel (58.7). If atomic mass were truly the basis, why these reversals?
+
+**5. Moseley (1913): the real basis.** The English physicist Henry Moseley studied the X-rays given off by different elements and showed that each element has a definite **atomic number** (the number of protons in its nucleus). When elements are arranged by atomic number, argon (18) comes naturally before potassium (19), tellurium (52) before iodine (53) and cobalt (27) before nickel (28). Every reversal disappears!
+
+This gave us the **modern periodic law**: *the physical and chemical properties of elements are periodic functions of their atomic numbers.* Today, IUPAC (the International Union of Pure and Applied Chemistry) officially recognises 118 elements; the last four names (nihonium, moscovium, tennessine and oganesson) were approved in 2016.
+## analogy
+Think of arranging the students of a school assembly. Lavoisier split them into "boys and girls" only. Döbereiner found a few groups of three siblings. Newlands lined everyone up by height and noticed that every eighth child wore the same house colour, but the pattern broke for the tall ones. Mendeleev lined them up by height too, but moved a few children so that each house stood in its own column, and kept empty spots for students who had not yet arrived. Moseley then discovered everyone's actual **roll number**, and with roll numbers every child fell into place without any adjustments.
+## definition
+**Döbereiner's law of triads (ডোবেরাইনারের ত্রয়ী সূত্র)**: when three chemically similar elements are arranged in order of increasing atomic mass, the atomic mass of the middle element is equal to, or nearly equal to, the average of the atomic masses of the other two.
+
+**Newlands' law of octaves (নিউল্যান্ডসের অষ্টক সূত্র)**: when elements are arranged in order of increasing atomic mass, the properties of every eighth element are similar to those of the first.
+
+**Mendeleev's periodic law (মেন্ডেলিফের পর্যায় সূত্র)**: the physical and chemical properties of elements recur periodically as their atomic masses increase.
+
+**Modern periodic law (আধুনিক পর্যায় সূত্র)**: the physical and chemical properties of elements are periodic functions of their atomic numbers; that is, they recur periodically as the atomic number increases.
+## why
+Why does atomic number work where atomic mass failed? Chemical properties depend on the **electrons**, especially the outer ones, and a neutral atom has exactly as many electrons as protons, that is, as its atomic number. Atomic mass also counts the neutrons, which play no part in chemical reactions. Argon has more neutrons than potassium on average, so it is heavier, even though it has one proton (and one electron) fewer. Arranging by atomic number is arranging by the number of electrons, and that is what really decides how an element behaves.
+## terms
+Triad (ত্রয়ী) | A family of three similar elements; the middle one's atomic mass ≈ average of the other two
+Law of octaves (অষ্টক সূত্র) | Newlands: every eighth element (by atomic mass) resembles the first
+Periodic law (পর্যায় সূত্র) | Properties of elements repeat periodically; Mendeleev used atomic mass, the modern law uses atomic number
+Eka-silicon | Mendeleev's name for the missing element below silicon; later discovered as germanium
+IUPAC | International Union of Pure and Applied Chemistry; approves names, symbols and rules in chemistry
+## visual
+Tap each scientist on the timeline to see what they discovered. Try the triad calculator and the argon–potassium puzzle.
+## real
+Mendeleev's gaps are one of the most famous successful predictions in science. The germanium he predicted became, decades later, one of the first materials used to make transistors, the tiny switches at the heart of every mobile phone. Chemists at the Bangladesh Atomic Energy Commission and in university laboratories in Dhaka still use the periodic table every day to guess how an unfamiliar element or compound will behave.
+## example
+Q: Chlorine (35.5), bromine (80) and iodine (127) form a Döbereiner triad. Check the law of triads.
+Given: atomic masses Cl = 35.5, Br = 80, I = 127
+Formula: average of first and third = (first + third) ÷ 2
+Substitution: (35.5 + 127) ÷ 2
+Calculation: 162.5 ÷ 2 = 81.25
+> 81.25 is very close to bromine's atomic mass of 80, which is why Döbereiner called it a triad.
+Answer: The average (≈ 81) is almost equal to the atomic mass of bromine (80), so the triad obeys the law.
+## example
+Q: Mendeleev placed argon (atomic mass 40) before potassium (atomic mass 39). Explain why, and how Moseley's work removed the problem.
+Solution: Argon is an unreactive gas like neon; potassium is a reactive metal like sodium. To keep each in its correct family, Mendeleev had to break the atomic-mass order. Moseley showed that the atomic numbers are Ar = 18 and K = 19. Arranged by atomic number, argon comes first automatically.
+Answer: Mendeleev broke the mass order to keep similar elements together; arranging by atomic number (Ar 18, K 19) puts them in the right order with no exception.
+## mistakes
+x Mendeleev arranged the elements by atomic number.
+v Mendeleev used atomic mass. Moseley (1913) showed that atomic number is the true basis.
+x Newlands' law is called the "law of octet".
+v It is the **law of octaves** (like the eight notes of a musical scale). The *octet rule* is a different idea about eight outer electrons, which you will meet in bonding. (Some books mix up these two names.)
+x The periodic table is the work of one scientist.
+v It grew over more than a century through the work of many scientists.
+## remember
+- 1789 Lavoisier: metals and non-metals (33 elements).
+- 1829 Döbereiner: triads, middle mass ≈ average (Cl, Br, I; Li, Na, K).
+- 1864–65 Newlands: law of octaves, every 8th element similar.
+- 1869 Mendeleev: periodic table of 63 elements by atomic mass; left gaps and predicted new elements.
+- 1913 Moseley: atomic number. Modern periodic law: properties are periodic functions of atomic number.
+## think
+If Mendeleev had strictly followed atomic mass order everywhere, what would have gone wrong with the families in his table? What does this tell you about how a good scientist treats a rule that does not fit the evidence?
+## quiz
+? Who first classified the elements into metals and non-metals?
+* Lavoisier
+- Döbereiner
+- Newlands
+- Moseley
+= Lavoisier (1789) divided the known elements into metals and non-metals.
+? Lithium = 7 and potassium = 39 form a triad with sodium. What is sodium's atomic mass according to the law of triads?
+- 16
+* 23
+- 32
+- 46
+= (7 + 39) ÷ 2 = 23.
+? The modern periodic table is based on:
+- Atomic mass
+* Atomic number
+- Number of neutrons
+- Density
+= The modern periodic law says properties are periodic functions of atomic number.
+? Which element did Mendeleev predict as "eka-silicon"?
+- Gallium
+- Scandium
+* Germanium
+- Argon
+= Germanium, discovered in 1886, matched his predictions for eka-silicon.
+== bn
+## what
+পর্যায় সারণি একদিনে একজনের হাতে তৈরি হয়নি। ধাপে ধাপে **ল্যাভয়সিয়ে** (ধাতু ও অধাতু, ১৭৮৯), **ডোবেরাইনার** (ত্রয়ী, ১৮২৯), **নিউল্যান্ডস** (অষ্টক সূত্র, ১৮৬৪–৬৫), **মেন্ডেলিফ** (পারমাণবিক ভর অনুসারে পর্যায় সারণি, ১৮৬৯) আর **মোসলে** (পারমাণবিক সংখ্যা, ১৯১৩) এটি গড়ে তুলেছেন। আজকের সারণির ভিত্তি **আধুনিক পর্যায় সূত্র**: মৌলের ধর্ম তার **পারমাণবিক সংখ্যার** সাথে পর্যায়ক্রমে ফিরে আসে।
+## simple
+অনেক আগে মানুষ হাতে গোনা কয়েকটি মৌল চিনত, আর প্রতিটিকে আলাদাভাবে পড়া হতো। যত নতুন মৌল আবিষ্কার হলো, রসায়নবিদেরা খেয়াল করলেন কিছু মৌল দেখতে ও বিক্রিয়ায় একই রকম। বড় প্রশ্ন দাঁড়াল: *মৌলগুলোর ভেতরে কি কোনো লুকানো নকশা আছে?*
+
+**১. ল্যাভয়সিয়ে (১৭৮৯): দুটি বাক্স।** ফরাসি রসায়নবিদ আন্তোয়ান ল্যাভয়সিয়ে তাঁর জানা ৩৩টি "মৌল" (অক্সিজেন, নাইট্রোজেন, হাইড্রোজেন, ফসফরাস, মার্কারি, জিংক, সালফার ইত্যাদি) মাত্র দুই ভাগে ভাগ করেন: **ধাতু** ও **অধাতু**। শুরুটা ভালো, কিন্তু দুটি ভাগ খুবই কম। সোডিয়াম আর সোনা দুটোই ধাতু, অথচ আচরণে একেবারে আলাদা।
+
+**২. ডোবেরাইনার (১৮২৯): তিনজনের পরিবার।** জার্মান রসায়নবিদ ইয়োহান ডোবেরাইনার একই রকম ধর্মের তিনটি করে মৌলের দল লক্ষ করেন। দলটিকে পারমাণবিক ভরের ক্রমে লিখলে **মাঝের মৌলের পারমাণবিক ভর অন্য দুটির গড়ের প্রায় সমান** হয়। তাঁর প্রথম ত্রয়ী ছিল ক্লোরিন, ব্রোমিন ও আয়োডিন: (৩৫.৫ + ১২৭) ÷ ২ ≈ ৮১, ব্রোমিনের ৮০-এর খুব কাছে। লিথিয়াম, সোডিয়াম, পটাশিয়াম আরও সুন্দর মেলে: (৭ + ৩৯) ÷ ২ = ২৩, হুবহু সোডিয়ামের পারমাণবিক ভর। এটিই **ডোবেরাইনারের ত্রয়ী সূত্র**। দুর্বলতা: এমন ত্রয়ী খুব বেশি পাওয়া যায়নি।
+
+**৩. নিউল্যান্ডস (১৮৬৪–৬৫): প্রতি অষ্টম মৌল।** ইংরেজ রসায়নবিদ জন নিউল্যান্ডস তাঁর সময়ের জানা মৌলগুলোকে পারমাণবিক ভরের ছোট থেকে বড় ক্রমে সাজান। তিনি দেখেন, **প্রতি অষ্টম মৌলের ধর্ম প্রথমটির মতো**, ঠিক যেমন গানের সরগমে (সা রে গা মা পা ধা নি **সা**) অষ্টম সুরে প্রথম সুর ফিরে আসে। লিথিয়াম থেকে গুনলে অষ্টম মৌল সোডিয়াম; ফ্লোরিন থেকে গুনলে অষ্টম ক্লোরিন। এটিই **অষ্টক সূত্র** (Law of Octaves)। হালকা মৌলগুলোর জন্য, ক্যালসিয়াম পর্যন্ত, এটি ভালো খাটত; তার পরে আর মিলত না, আর পরে আবিষ্কৃত মৌলের জন্য কোনো জায়গা ছিল না (নিষ্ক্রিয় গ্যাসগুলো তখনো অজানা)।
+
+**৪. মেন্ডেলিফ (১৮৬৯): প্রথম সত্যিকারের পর্যায় সারণি।** রুশ রসায়নবিদ দিমিত্রি মেন্ডেলিফ তাঁর সময়ের জানা ৬৩টি মৌলের ভৌত ও রাসায়নিক ধর্ম পর্যালোচনা করে বলেন: *মৌলসমূহের ভৌত ও রাসায়নিক ধর্ম তাদের পারমাণবিক ভর বৃদ্ধির সাথে পর্যায়ক্রমে আবর্তিত হয়।* তিনি মৌলগুলোকে খাড়া কলাম (গ্রুপ) আর আনুভূমিক সারির একটি ছকে এমনভাবে সাজান যেন একই রকম মৌলগুলো একই কলামে পড়ে। তাঁর দুটি অসাধারণ কৌশল:
+- তিনি অনাবিষ্কৃত মৌলের জন্য **ঘর ফাঁকা রাখেন** এবং সেগুলোর **ধর্মের ভবিষ্যদ্বাণী করেন**। একটি অনুপস্থিত মৌলের নাম দেন "একা-সিলিকন"। ১৮৮৬ সালে জার্মেনিয়াম আবিষ্কৃত হলে দেখা গেল এর পারমাণবিক ভর (৭২.৬) ও ঘনত্ব তাঁর ভবিষ্যদ্বাণীর সাথে আশ্চর্যরকম মিলে গেছে। গ্যালিয়াম (১৮৭৫) ও স্ক্যান্ডিয়ামও (১৮৭৯) তাঁর ফাঁকা ঘর পূরণ করে।
+- তিনি **ধর্মকে আগে** রাখেন। কড়াকড়িভাবে ভরের ক্রম মানলে কোনো মৌল ভুল পরিবারে গেলে, তিনি ক্রম ভেঙেছেন।
+
+কিন্তু এতেই একটি **ত্রুটি** ধরা পড়ে: আর্গনকে (পারমাণবিক ভর ৪০) পটাশিয়ামের (৩৯) আগে, টেলুরিয়ামকে (১২৭.৬) আয়োডিনের (১২৬.৯) আগে, আর কোবাল্টকে (৫৮.৯) নিকেলের (৫৮.৭) আগে বসাতে হয়েছিল। পারমাণবিক ভরই যদি আসল ভিত্তি হয়, তাহলে এই উল্টাপাল্টা কেন?
+
+**৫. মোসলে (১৯১৩): আসল ভিত্তি।** ইংরেজ পদার্থবিজ্ঞানী হেনরি মোসলে বিভিন্ন মৌল থেকে নির্গত এক্স-রে পরীক্ষা করে দেখান যে প্রতিটি মৌলের একটি নির্দিষ্ট **পারমাণবিক সংখ্যা** (নিউক্লিয়াসে প্রোটনের সংখ্যা) আছে। পারমাণবিক সংখ্যা অনুসারে সাজালে আর্গন (১৮) স্বাভাবিকভাবেই পটাশিয়ামের (১৯) আগে আসে, টেলুরিয়াম (৫২) আয়োডিনের (৫৩) আগে, কোবাল্ট (২৭) নিকেলের (২৮) আগে। সব উল্টাপাল্টা উধাও!
+
+এভাবেই পাওয়া গেল **আধুনিক পর্যায় সূত্র**: *মৌলসমূহের ভৌত ও রাসায়নিক ধর্ম তাদের পারমাণবিক সংখ্যার পর্যায়বৃত্ত ফাংশন।* আজ IUPAC (আন্তর্জাতিক বিশুদ্ধ ও ফলিত রসায়ন সংস্থা) আনুষ্ঠানিকভাবে ১১৮টি মৌল স্বীকৃতি দিয়েছে; শেষ চারটির নাম (নিহোনিয়াম, মস্কোভিয়াম, টেনেসিন ও ওগানেসন) অনুমোদিত হয় ২০১৬ সালে।
+## analogy
+স্কুলের অ্যাসেম্বলিতে ছাত্রছাত্রীদের সাজানোর কথা ভাবো। ল্যাভয়সিয়ে শুধু "ছেলে আর মেয়ে" দুই ভাগ করলেন। ডোবেরাইনার কয়েকটি তিন-ভাইবোনের দল খুঁজে পেলেন। নিউল্যান্ডস সবাইকে উচ্চতা অনুযায়ী লাইনে দাঁড় করিয়ে দেখলেন প্রতি অষ্টম জন একই হাউসের জার্সি পরা, কিন্তু লম্বাদের বেলায় নকশাটা ভেঙে গেল। মেন্ডেলিফও উচ্চতা অনুযায়ী সাজালেন, তবে কয়েকজনকে সরিয়ে দিলেন যেন প্রতিটি হাউস নিজের কলামে থাকে, আর যারা এখনো আসেনি তাদের জন্য জায়গা ফাঁকা রাখলেন। তারপর মোসলে সবার আসল **রোল নম্বর** খুঁজে পেলেন, আর রোল নম্বর দিয়ে সাজাতেই কোনো সমন্বয় ছাড়াই সবাই ঠিক জায়গায় চলে এল।
+## definition
+**ডোবেরাইনারের ত্রয়ী সূত্র (Law of Triads)**: রাসায়নিক ধর্মে একই রকম তিনটি মৌলকে পারমাণবিক ভরের ঊর্ধ্বক্রমে সাজালে মাঝের মৌলটির পারমাণবিক ভর অন্য দুটির পারমাণবিক ভরের গড়ের সমান বা প্রায় সমান হয়।
+
+**নিউল্যান্ডসের অষ্টক সূত্র (Law of Octaves)**: মৌলগুলোকে পারমাণবিক ভরের ঊর্ধ্বক্রমে সাজালে যেকোনো মৌলের ধর্ম তার পরের অষ্টম মৌলের ধর্মের সাথে মিলে যায়।
+
+**মেন্ডেলিফের পর্যায় সূত্র**: মৌলসমূহের ভৌত ও রাসায়নিক ধর্মাবলি তাদের পারমাণবিক ভর বৃদ্ধির সাথে পর্যায়ক্রমে আবর্তিত হয়।
+
+**আধুনিক পর্যায় সূত্র (Modern Periodic Law)**: মৌলসমূহের ভৌত ও রাসায়নিক ধর্মাবলি তাদের পারমাণবিক সংখ্যার পর্যায়বৃত্ত ফাংশন; অর্থাৎ পারমাণবিক সংখ্যা বৃদ্ধির সাথে ধর্মগুলো পর্যায়ক্রমে আবর্তিত হয়।
+## why
+পারমাণবিক ভর যেখানে ব্যর্থ, পারমাণবিক সংখ্যা সেখানে কেন সফল? মৌলের রাসায়নিক ধর্ম নির্ভর করে **ইলেকট্রনের** ওপর, বিশেষ করে বাইরের ইলেকট্রনের ওপর; আর নিরপেক্ষ পরমাণুতে ইলেকট্রন থাকে প্রোটনের সমান, অর্থাৎ পারমাণবিক সংখ্যার সমান। পারমাণবিক ভরে নিউট্রনও গোনা হয়, অথচ রাসায়নিক বিক্রিয়ায় নিউট্রনের কোনো ভূমিকা নেই। গড়ে আর্গনে পটাশিয়ামের চেয়ে বেশি নিউট্রন থাকে বলে এটি ভারী, যদিও এর প্রোটন (ও ইলেকট্রন) একটি কম। তাই পারমাণবিক সংখ্যা অনুসারে সাজানো মানে ইলেকট্রন-সংখ্যা অনুসারে সাজানো, আর সেটাই আসলে মৌলের আচরণ ঠিক করে।
+## terms
+ত্রয়ী (Triad) | একই রকম তিনটি মৌলের দল; মাঝেরটির পারমাণবিক ভর ≈ অন্য দুটির গড়
+অষ্টক সূত্র (Law of octaves) | নিউল্যান্ডস: (ভরের ক্রমে) প্রতি অষ্টম মৌল প্রথমটির মতো
+পর্যায় সূত্র (Periodic law) | মৌলের ধর্ম পর্যায়ক্রমে ফিরে আসে; মেন্ডেলিফ নিয়েছিলেন পারমাণবিক ভর, আধুনিক সূত্র নেয় পারমাণবিক সংখ্যা
+একা-সিলিকন | সিলিকনের নিচের অনাবিষ্কৃত মৌলের জন্য মেন্ডেলিফের দেওয়া নাম; পরে আবিষ্কৃত জার্মেনিয়াম
+IUPAC | আন্তর্জাতিক বিশুদ্ধ ও ফলিত রসায়ন সংস্থা; রসায়নের নাম, প্রতীক ও নিয়মকানুন অনুমোদন করে
+## visual
+সময়রেখায় প্রতিটি বিজ্ঞানীর ওপর চাপ দিয়ে দেখো তিনি কী আবিষ্কার করেছিলেন। ত্রয়ী ক্যালকুলেটর আর আর্গন–পটাশিয়াম ধাঁধাটাও চেষ্টা করো।
+## real
+মেন্ডেলিফের ফাঁকা ঘরগুলো বিজ্ঞানের ইতিহাসে সবচেয়ে বিখ্যাত সফল ভবিষ্যদ্বাণীগুলোর একটি। তাঁর ভবিষ্যদ্বাণী করা জার্মেনিয়াম কয়েক দশক পরে ট্রানজিস্টর তৈরির প্রথম দিকের উপাদানগুলোর একটি হয়ে ওঠে; ট্রানজিস্টর হলো প্রতিটি মোবাইল ফোনের ভেতরের ক্ষুদ্র সুইচ। বাংলাদেশ পরমাণু শক্তি কমিশন আর ঢাকার বিশ্ববিদ্যালয়গুলোর গবেষণাগারে রসায়নবিদেরা আজও প্রতিদিন পর্যায় সারণি দেখে অনুমান করেন অচেনা কোনো মৌল বা যৌগ কেমন আচরণ করবে।
+## example
+প্রশ্ন: ক্লোরিন (৩৫.৫), ব্রোমিন (৮০) ও আয়োডিন (১২৭) একটি ডোবেরাইনার ত্রয়ী। ত্রয়ী সূত্রটি যাচাই করো।
+দেওয়া আছে: পারমাণবিক ভর Cl = ৩৫.৫, Br = ৮০, I = ১২৭
+সূত্র: প্রথম ও তৃতীয়টির গড় = (প্রথম + তৃতীয়) ÷ ২
+মান বসাই: (৩৫.৫ + ১২৭) ÷ ২
+হিসাব: ১৬২.৫ ÷ ২ = ৮১.২৫
+> ৮১.২৫ ব্রোমিনের পারমাণবিক ভর ৮০-এর খুব কাছে, এজন্যই ডোবেরাইনার একে ত্রয়ী বলেছিলেন।
+উত্তর: গড় (≈ ৮১) ব্রোমিনের পারমাণবিক ভরের (৮০) প্রায় সমান, তাই ত্রয়ীটি সূত্র মেনে চলে।
+## example
+প্রশ্ন: মেন্ডেলিফ আর্গনকে (পারমাণবিক ভর ৪০) পটাশিয়ামের (পারমাণবিক ভর ৩৯) আগে বসিয়েছিলেন। কেন, আর মোসলের কাজ কীভাবে সমস্যাটি দূর করল?
+সমাধান: আর্গন নিয়নের মতো নিষ্ক্রিয় গ্যাস; পটাশিয়াম সোডিয়ামের মতো সক্রিয় ধাতু। প্রত্যেককে সঠিক পরিবারে রাখতে মেন্ডেলিফকে ভরের ক্রম ভাঙতে হয়েছিল। মোসলে দেখান যে পারমাণবিক সংখ্যা Ar = ১৮ এবং K = ১৯। পারমাণবিক সংখ্যা অনুসারে সাজালে আর্গন আপনা থেকেই আগে আসে।
+উত্তর: একই রকম মৌলগুলো একসাথে রাখতে মেন্ডেলিফ ভরের ক্রম ভেঙেছিলেন; পারমাণবিক সংখ্যা অনুসারে সাজালে (Ar ১৮, K ১৯) কোনো ব্যতিক্রম ছাড়াই ক্রম ঠিক হয়ে যায়।
+## mistakes
+x মেন্ডেলিফ মৌলগুলোকে পারমাণবিক সংখ্যা অনুসারে সাজিয়েছিলেন।
+v মেন্ডেলিফ পারমাণবিক ভর ব্যবহার করেছিলেন। মোসলে (১৯১৩) দেখান যে পারমাণবিক সংখ্যাই আসল ভিত্তি।
+x নিউল্যান্ডসের সূত্রের নাম "অষ্টক নিয়ম (octet rule)"।
+v এটি **অষ্টক সূত্র (law of octaves)**, সরগমের আটটি সুরের মতো। *অষ্টক নিয়ম (octet rule)* হলো বাইরের শেলে আটটি ইলেকট্রন নিয়ে আলাদা একটি ধারণা, যা বন্ধন অধ্যায়ে পাবে। (কোনো কোনো বইয়ে এই দুটি নাম গুলিয়ে ফেলা হয়।)
+x পর্যায় সারণি একজন বিজ্ঞানীর কাজ।
+v শত বছরেরও বেশি সময় ধরে অনেক বিজ্ঞানীর কাজের মধ্য দিয়ে এটি গড়ে উঠেছে।
+## remember
+- ১৭৮৯ ল্যাভয়সিয়ে: ধাতু ও অধাতু (৩৩টি মৌল)।
+- ১৮২৯ ডোবেরাইনার: ত্রয়ী, মাঝের ভর ≈ গড় (Cl, Br, I; Li, Na, K)।
+- ১৮৬৪–৬৫ নিউল্যান্ডস: অষ্টক সূত্র, প্রতি ৮ম মৌল একই রকম।
+- ১৮৬৯ মেন্ডেলিফ: পারমাণবিক ভর অনুসারে ৬৩টি মৌলের পর্যায় সারণি; ঘর ফাঁকা রেখে নতুন মৌলের ভবিষ্যদ্বাণী।
+- ১৯১৩ মোসলে: পারমাণবিক সংখ্যা। আধুনিক পর্যায় সূত্র: ধর্ম পারমাণবিক সংখ্যার পর্যায়বৃত্ত ফাংশন।
+## think
+মেন্ডেলিফ যদি সব জায়গায় কড়াকড়িভাবে পারমাণবিক ভরের ক্রম মানতেন, তাহলে তাঁর সারণির পরিবারগুলোতে কী গোলমাল হতো? প্রমাণের সাথে না মেলা নিয়মকে একজন ভালো বিজ্ঞানী কীভাবে দেখেন, এ থেকে কী বোঝা যায়?
+## quiz
+? মৌলগুলোকে প্রথম ধাতু ও অধাতুতে ভাগ করেন কে?
+* ল্যাভয়সিয়ে
+- ডোবেরাইনার
+- নিউল্যান্ডস
+- মোসলে
+= ল্যাভয়সিয়ে (১৭৮৯) জানা মৌলগুলোকে ধাতু ও অধাতুতে ভাগ করেন।
+? লিথিয়াম = ৭ এবং পটাশিয়াম = ৩৯, সোডিয়ামের সাথে একটি ত্রয়ী গঠন করে। ত্রয়ী সূত্র অনুযায়ী সোডিয়ামের পারমাণবিক ভর কত?
+- ১৬
+* ২৩
+- ৩২
+- ৪৬
+= (৭ + ৩৯) ÷ ২ = ২৩।
+? আধুনিক পর্যায় সারণির ভিত্তি:
+- পারমাণবিক ভর
+* পারমাণবিক সংখ্যা
+- নিউট্রন সংখ্যা
+- ঘনত্ব
+= আধুনিক পর্যায় সূত্র অনুযায়ী ধর্ম পারমাণবিক সংখ্যার পর্যায়বৃত্ত ফাংশন।
+? মেন্ডেলিফ কোন মৌলকে "একা-সিলিকন" নামে ভবিষ্যদ্বাণী করেছিলেন?
+- গ্যালিয়াম
+- স্ক্যান্ডিয়াম
+* জার্মেনিয়াম
+- আর্গন
+= ১৮৮৬ সালে আবিষ্কৃত জার্মেনিয়াম একা-সিলিকনের ভবিষ্যদ্বাণীর সাথে মিলে যায়।
+
+@@ 4.2
+@visual k4table
+@related 4.1 4.3 4.6 4.7
+== en
+## what
+The modern periodic table arranges all 118 elements in order of increasing atomic number in **7 horizontal rows called periods** and **18 vertical columns called groups**. Elements in the same group have similar properties; across a period, properties change gradually.
+## simple
+Open the periodic table at the start of this chapter and look closely. It is a big chart of boxes, and each box holds one element with its atomic number, symbol, name and atomic mass.
+
+**Rows and columns.**
+- The horizontal rows are **periods** (পর্যায়). There are **7**. Every period begins at the far left (group 1) and runs to the far right (group 18).
+- The vertical columns are **groups** (গ্রুপ বা শ্রেণি). There are **18**, numbered 1 to 18 from left to right.
+
+**How many elements in each period?**
+- Period 1: only **2** (H, He)
+- Periods 2 and 3: **8** each
+- Periods 4 and 5: **18** each
+- Periods 6 and 7: **32** each
+Check: 2 + 8 + 8 + 18 + 18 + 32 + 32 = **118**.
+
+**How many elements in each group?** Group 1 has 7 (including hydrogen), group 2 has 6, group 3 has 32 (because the lanthanides and actinides belong to it), groups 4 to 12 have 4 each, groups 13 to 17 have 6 each and group 18 has 7. Check: 7 + 6 + 32 + 9 × 4 + 5 × 6 + 7 = 118.
+
+**The two rows at the bottom.** The fifteen elements with atomic numbers 57 to 71 are the **lanthanides** (ল্যান্থানাইড সারি), and the fifteen from 89 to 103 are the **actinides** (অ্যাকটিনাইড সারি). They really belong to period 6 and period 7 (in group 3), but their properties are so similar to one another that they are pulled out and shown in two separate rows below the main table. Otherwise the table would be 32 columns wide and would not fit on a page.
+
+**Blocks.** The table can also be divided by the subshell that receives the last electron (you learned about subshells in [[3.7|Chapter 3]]):
+- **s-block**: groups 1 and 2 (plus helium)
+- **p-block**: groups 13 to 18
+- **d-block**: groups 3 to 12, the transition elements in the middle
+- **f-block**: the lanthanides and actinides at the bottom
+
+**Metals, non-metals and metalloids.** Most elements (more than three quarters) are **metals**, found on the left and in the middle. **Non-metals** sit in the upper right corner (plus hydrogen at the top left). Between them runs a zig-zag "staircase" of **metalloids** (অর্ধধাতু বা অপধাতু) such as boron, silicon, germanium, arsenic, antimony and tellurium, which show some properties of both.
+
+**Two big rules to remember:**
+1. Across a period (left → right), properties change **gradually**, from very metallic to non-metallic.
+2. Down a group, the elements have **similar** physical and chemical properties.
+## analogy
+The periodic table is like the seating plan of a cinema hall. Each seat (box) has a fixed number (atomic number). The rows are periods and the columns are groups. People sitting in the same column belong to the same family and behave alike. Two very long rows of relatives (the lanthanides and actinides) are seated in a separate balcony below, so the main hall does not become too wide.
+## definition
+**Period (পর্যায়)**: a horizontal row of the periodic table. There are 7 periods.
+
+**Group (গ্রুপ বা শ্রেণি)**: a vertical column of the periodic table. There are 18 groups; elements of the same group have similar properties.
+
+**Lanthanides (ল্যান্থানাইড)**: the 15 elements with atomic numbers 57 to 71 (La to Lu), part of period 6.
+**Actinides (অ্যাকটিনাইড)**: the 15 elements with atomic numbers 89 to 103 (Ac to Lr), part of period 7.
+
+**Metalloid (অর্ধধাতু/অপধাতু)**: an element that shows some properties of metals and some of non-metals, e.g. silicon.
+## why
+Why do the periods have 2, 8, 8, 18, 18, 32, 32 elements? Because each new period starts filling a **new shell**, and the number of elements in a period equals the number of electrons that can be added before the next shell begins: 1s holds 2; 2s + 2p hold 8; 3s + 3p hold 8; 4s + 3d + 4p hold 18; and so on. The shape of the table is simply the shape of electron filling.
+## terms
+Period (পর্যায়) | Horizontal row; 7 in all
+Group (গ্রুপ) | Vertical column; 18 in all
+s-, p-, d-, f-block | Parts of the table where the last electron enters an s, p, d or f subshell
+Lanthanides (ল্যান্থানাইড) | Z = 57 to 71, part of period 6
+Actinides (অ্যাকটিনাইড) | Z = 89 to 103, part of period 7
+Metalloid (অপধাতু) | Element with properties between metals and non-metals (B, Si, Ge, As, Sb, Te)
+## visual
+Tap any element to see its atomic number, group, period, block and type. Switch the colouring between blocks, metal/non-metal and families.
+## real
+Almost every chemistry laboratory, from a school lab in Sylhet to the research labs of BCSIR in Dhaka, has a periodic table chart on the wall. The silicon in the solar panels on rural rooftops is a metalloid, sitting right on the staircase line between metals and non-metals, and that in-between nature is exactly what makes it a semiconductor.
+## example
+Q: How many elements are there in period 4, and how many in period 6? Where do the extra elements of period 6 go?
+Solution: Period 4 has 18 elements (K to Kr). Period 6 has 32 elements: 18 in the main table plus the 14 more that appear when the lanthanide series (15 elements, of which lanthanum stands in group 3) is counted.
+> The lanthanides occupy just one box (group 3) in period 6 of the main table and are written out below.
+Answer: Period 4 has 18 elements and period 6 has 32; the lanthanides are shown in a separate row below the table.
+## example
+Q: Classify these elements as metal, non-metal or metalloid: Na, S, Si, Fe, Cl, Ge.
+Solution: Na and Fe are on the left/middle: metals. S and Cl are in the upper right: non-metals. Si and Ge sit on the staircase line: metalloids.
+Answer: Metals: Na, Fe. Non-metals: S, Cl. Metalloids: Si, Ge.
+## mistakes
+x Periods are the vertical columns of the periodic table.
+v Periods are the horizontal rows; groups are the vertical columns.
+x The lanthanides and actinides are not part of any period.
+v They belong to periods 6 and 7; they are only drawn separately below the table to keep it compact.
+x Every period has 8 elements.
+v Only periods 2 and 3 have 8. Period 1 has 2, periods 4 and 5 have 18, and periods 6 and 7 have 32.
+## remember
+- 7 periods (rows), 18 groups (columns), 118 elements.
+- Elements per period: 2, 8, 8, 18, 18, 32, 32.
+- Lanthanides Z 57–71 (period 6), actinides Z 89–103 (period 7), shown separately below.
+- Blocks: s (groups 1–2), p (13–18), d (3–12), f (lanthanides, actinides).
+- Metals left and centre, non-metals upper right, metalloids along the staircase.
+## think
+If the lanthanides and actinides were placed inside the main table, how many columns wide would the table become? Why do you think chemists prefer the shorter version?
+## quiz
+? How many periods and groups are there in the modern periodic table?
+- 8 periods, 7 groups
+* 7 periods, 18 groups
+- 18 periods, 7 groups
+- 7 periods, 8 groups
+= Seven horizontal periods and eighteen vertical groups.
+? How many elements are there in period 3?
+- 2
+* 8
+- 18
+- 32
+= Periods 2 and 3 have 8 elements each.
+? The actinides have atomic numbers:
+- 57 to 71
+* 89 to 103
+- 21 to 30
+- 104 to 118
+= The actinides are elements 89 to 103, part of period 7.
+? Which of these is a metalloid?
+- Sodium
+- Sulfur
+* Silicon
+- Iron
+= Silicon shows properties of both metals and non-metals.
+== bn
+## what
+আধুনিক পর্যায় সারণিতে ১১৮টি মৌলকে পারমাণবিক সংখ্যার ঊর্ধ্বক্রমে **৭টি আনুভূমিক সারি বা পর্যায়ে** এবং **১৮টি খাড়া কলাম বা গ্রুপে** সাজানো হয়েছে। একই গ্রুপের মৌলগুলোর ধর্ম একই রকম; একটি পর্যায় বরাবর ধর্ম ধীরে ধীরে বদলায়।
+## simple
+অধ্যায়ের শুরুর পর্যায় সারণিটি খুলে ভালো করে দেখো। এটি বাক্সে ভরা একটি বড় ছক, আর প্রতিটি বাক্সে একটি মৌলের পারমাণবিক সংখ্যা, প্রতীক, নাম আর পারমাণবিক ভর লেখা।
+
+**সারি আর কলাম।**
+- আনুভূমিক সারিগুলো **পর্যায়** (Period)। এমন সারি **৭টি**। প্রতিটি পর্যায় একেবারে বাম দিকের গ্রুপ ১ থেকে শুরু হয়ে একেবারে ডান দিকের গ্রুপ ১৮ পর্যন্ত যায়।
+- খাড়া কলামগুলো **গ্রুপ বা শ্রেণি** (Group)। এমন কলাম **১৮টি**, বাম থেকে ডানে ১ থেকে ১৮ নম্বর।
+
+**কোন পর্যায়ে কয়টি মৌল?**
+- পর্যায় ১: মাত্র **২টি** (H, He)
+- পর্যায় ২ ও ৩: **৮টি** করে
+- পর্যায় ৪ ও ৫: **১৮টি** করে
+- পর্যায় ৬ ও ৭: **৩২টি** করে
+মিলিয়ে দেখো: ২ + ৮ + ৮ + ১৮ + ১৮ + ৩২ + ৩২ = **১১৮**।
+
+**কোন গ্রুপে কয়টি মৌল?** গ্রুপ ১-এ ৭টি (হাইড্রোজেনসহ), গ্রুপ ২-এ ৬টি, গ্রুপ ৩-এ ৩২টি (কারণ ল্যান্থানাইড ও অ্যাকটিনাইড এই গ্রুপেরই অংশ), গ্রুপ ৪ থেকে ১২ পর্যন্ত প্রতিটিতে ৪টি, গ্রুপ ১৩ থেকে ১৭ পর্যন্ত প্রতিটিতে ৬টি, আর গ্রুপ ১৮-তে ৭টি। মিলিয়ে দেখো: ৭ + ৬ + ৩২ + ৯ × ৪ + ৫ × ৬ + ৭ = ১১৮।
+
+**নিচের দুটি সারি।** পারমাণবিক সংখ্যা ৫৭ থেকে ৭১ পর্যন্ত ১৫টি মৌল হলো **ল্যান্থানাইড সারি**, আর ৮৯ থেকে ১০৩ পর্যন্ত ১৫টি হলো **অ্যাকটিনাইড সারি**। আসলে এরা পর্যায় ৬ ও পর্যায় ৭-এর (গ্রুপ ৩-এর) অংশ, কিন্তু এদের নিজেদের মধ্যে ধর্ম এত কাছাকাছি যে এদের তুলে এনে মূল সারণির নিচে আলাদা দুটি সারিতে দেখানো হয়। তা না হলে সারণিটি ৩২ কলাম চওড়া হয়ে যেত, এক পাতায় আঁটত না।
+
+**ব্লক।** সর্বশেষ ইলেকট্রনটি কোন উপশক্তিস্তরে ঢোকে সেই অনুযায়ীও সারণিকে ভাগ করা যায় (উপশক্তিস্তর শিখেছ [[3.7|তৃতীয় অধ্যায়ে]]):
+- **s-ব্লক**: গ্রুপ ১ ও ২ (সাথে হিলিয়াম)
+- **p-ব্লক**: গ্রুপ ১৩ থেকে ১৮
+- **d-ব্লক**: গ্রুপ ৩ থেকে ১২, মাঝখানের অবস্থান্তর মৌলগুলো
+- **f-ব্লক**: নিচের ল্যান্থানাইড ও অ্যাকটিনাইড
+
+**ধাতু, অধাতু ও অপধাতু।** বেশিরভাগ মৌলই (চার ভাগের তিন ভাগেরও বেশি) **ধাতু**, এদের অবস্থান বামে ও মাঝখানে। **অধাতুগুলো** থাকে ওপরের ডান কোণে (আর হাইড্রোজেন ওপরের বাম কোণে)। এদের মাঝখান দিয়ে আঁকাবাঁকা একটি "সিঁড়ি" বরাবর থাকে **অর্ধধাতু বা অপধাতু** (Metalloid), যেমন বোরন, সিলিকন, জার্মেনিয়াম, আর্সেনিক, অ্যান্টিমনি ও টেলুরিয়াম; এরা দুই ধরনের ধর্মই কিছুটা দেখায়।
+
+**মনে রাখার মতো দুটি বড় নিয়ম:**
+১. একটি পর্যায় বরাবর (বাম → ডান) ধর্ম **ধীরে ধীরে** বদলায়, প্রবল ধাতব থেকে অধাতব।
+২. একটি গ্রুপে ওপর থেকে নিচে মৌলগুলোর ভৌত ও রাসায়নিক ধর্ম **প্রায় একই রকম**।
+## analogy
+পর্যায় সারণিকে সিনেমা হলের বসার নকশার মতো ভাবো। প্রতিটি আসনের (বাক্সের) একটি নির্দিষ্ট নম্বর আছে (পারমাণবিক সংখ্যা)। সারিগুলো পর্যায়, কলামগুলো গ্রুপ। একই কলামে যারা বসে তারা একই পরিবারের, আচরণেও একই রকম। আত্মীয়দের দুটি খুব লম্বা সারিকে (ল্যান্থানাইড ও অ্যাকটিনাইড) নিচের আলাদা ব্যালকনিতে বসানো হয়েছে, যেন মূল হলটা বেশি চওড়া না হয়ে যায়।
+## definition
+**পর্যায় (Period)**: পর্যায় সারণির আনুভূমিক সারি। পর্যায় ৭টি।
+
+**গ্রুপ বা শ্রেণি (Group)**: পর্যায় সারণির খাড়া কলাম। গ্রুপ ১৮টি; একই গ্রুপের মৌলগুলোর ধর্ম একই রকম।
+
+**ল্যান্থানাইড (Lanthanides)**: পারমাণবিক সংখ্যা ৫৭ থেকে ৭১ পর্যন্ত ১৫টি মৌল (La থেকে Lu), পর্যায় ৬-এর অংশ।
+**অ্যাকটিনাইড (Actinides)**: পারমাণবিক সংখ্যা ৮৯ থেকে ১০৩ পর্যন্ত ১৫টি মৌল (Ac থেকে Lr), পর্যায় ৭-এর অংশ।
+
+**অর্ধধাতু বা অপধাতু (Metalloid)**: যে মৌল কিছু ধাতুর ধর্ম আর কিছু অধাতুর ধর্ম দেখায়, যেমন সিলিকন।
+## why
+পর্যায়গুলোতে ২, ৮, ৮, ১৮, ১৮, ৩২, ৩২টি মৌল কেন? কারণ প্রতিটি নতুন পর্যায় একটি **নতুন শেল** পূরণ শুরু করে, আর পরের শেল শুরু হওয়ার আগে যতগুলো ইলেকট্রন যোগ করা যায়, পর্যায়ে মৌলের সংখ্যাও ততটি: 1s-এ ২টি; 2s + 2p-তে ৮টি; 3s + 3p-তে ৮টি; 4s + 3d + 4p-তে ১৮টি; এভাবে চলতে থাকে। সারণির আকৃতি আসলে ইলেকট্রন পূরণের আকৃতি।
+## terms
+পর্যায় (Period) | আনুভূমিক সারি; মোট ৭টি
+গ্রুপ (Group) | খাড়া কলাম; মোট ১৮টি
+s-, p-, d-, f-ব্লক | সারণির যে অংশে সর্বশেষ ইলেকট্রন s, p, d বা f উপশক্তিস্তরে ঢোকে
+ল্যান্থানাইড | Z = ৫৭ থেকে ৭১, পর্যায় ৬-এর অংশ
+অ্যাকটিনাইড | Z = ৮৯ থেকে ১০৩, পর্যায় ৭-এর অংশ
+অপধাতু (Metalloid) | ধাতু ও অধাতুর মাঝামাঝি ধর্মের মৌল (B, Si, Ge, As, Sb, Te)
+## visual
+যেকোনো মৌলে চাপ দিয়ে দেখো তার পারমাণবিক সংখ্যা, গ্রুপ, পর্যায়, ব্লক আর ধরন। রং বদলে ব্লক, ধাতু/অধাতু আর পরিবার অনুযায়ী দেখো।
+## real
+সিলেটের কোনো স্কুলের ল্যাব থেকে শুরু করে ঢাকার বিসিএসআইআর-এর গবেষণাগার পর্যন্ত প্রায় প্রতিটি রসায়ন ল্যাবের দেয়ালে একটি পর্যায় সারণির চার্ট ঝোলানো থাকে। গ্রামের ঘরের চালে বসানো সোলার প্যানেলের সিলিকন একটি অপধাতু, ধাতু আর অধাতুর মাঝের সিঁড়ি-রেখার ঠিক ওপরে এর অবস্থান; আর এই মাঝামাঝি স্বভাবই একে অর্ধপরিবাহী বানিয়েছে।
+## example
+প্রশ্ন: পর্যায় ৪-এ কয়টি মৌল, আর পর্যায় ৬-এ কয়টি? পর্যায় ৬-এর বাড়তি মৌলগুলো কোথায় থাকে?
+সমাধান: পর্যায় ৪-এ ১৮টি মৌল (K থেকে Kr)। পর্যায় ৬-এ ৩২টি মৌল: মূল সারণিতে ১৮টি, আর ল্যান্থানাইড সারির (১৫টি মৌল, যার মধ্যে ল্যান্থানাম গ্রুপ ৩-এ বসে) হিসাব ধরলে আরও ১৪টি।
+> মূল সারণিতে পর্যায় ৬-এ ল্যান্থানাইডরা মাত্র একটি ঘর (গ্রুপ ৩) নেয়, আর নিচে আলাদা করে লেখা থাকে।
+উত্তর: পর্যায় ৪-এ ১৮টি এবং পর্যায় ৬-এ ৩২টি মৌল; ল্যান্থানাইডগুলো সারণির নিচে আলাদা সারিতে দেখানো হয়।
+## example
+প্রশ্ন: ধাতু, অধাতু না অপধাতু শনাক্ত করো: Na, S, Si, Fe, Cl, Ge।
+সমাধান: Na ও Fe বামে/মাঝখানে: ধাতু। S ও Cl ওপরের ডান দিকে: অধাতু। Si ও Ge সিঁড়ি-রেখার ওপরে: অপধাতু।
+উত্তর: ধাতু: Na, Fe। অধাতু: S, Cl। অপধাতু: Si, Ge।
+## mistakes
+x পর্যায় হলো পর্যায় সারণির খাড়া কলাম।
+v পর্যায় হলো আনুভূমিক সারি; গ্রুপ হলো খাড়া কলাম।
+x ল্যান্থানাইড ও অ্যাকটিনাইড কোনো পর্যায়ের অংশ নয়।
+v এরা পর্যায় ৬ ও ৭-এর অংশ; সারণিকে ছোট রাখতে শুধু নিচে আলাদা করে আঁকা হয়।
+x প্রতিটি পর্যায়ে ৮টি মৌল থাকে।
+v শুধু পর্যায় ২ ও ৩-এ ৮টি। পর্যায় ১-এ ২টি, পর্যায় ৪ ও ৫-এ ১৮টি, পর্যায় ৬ ও ৭-এ ৩২টি।
+## remember
+- ৭টি পর্যায় (সারি), ১৮টি গ্রুপ (কলাম), ১১৮টি মৌল।
+- পর্যায়প্রতি মৌল: ২, ৮, ৮, ১৮, ১৮, ৩২, ৩২।
+- ল্যান্থানাইড Z ৫৭–৭১ (পর্যায় ৬), অ্যাকটিনাইড Z ৮৯–১০৩ (পর্যায় ৭), নিচে আলাদা দেখানো।
+- ব্লক: s (গ্রুপ ১–২), p (১৩–১৮), d (৩–১২), f (ল্যান্থানাইড, অ্যাকটিনাইড)।
+- ধাতু বামে ও মাঝে, অধাতু ওপরের ডানে, অপধাতু সিঁড়ি-রেখা বরাবর।
+## think
+ল্যান্থানাইড ও অ্যাকটিনাইডকে মূল সারণির ভেতরে বসালে সারণিটি কত কলাম চওড়া হতো? রসায়নবিদেরা ছোট সংস্করণটি কেন পছন্দ করেন বলে তোমার মনে হয়?
+## quiz
+? আধুনিক পর্যায় সারণিতে কয়টি পর্যায় ও কয়টি গ্রুপ আছে?
+- ৮টি পর্যায়, ৭টি গ্রুপ
+* ৭টি পর্যায়, ১৮টি গ্রুপ
+- ১৮টি পর্যায়, ৭টি গ্রুপ
+- ৭টি পর্যায়, ৮টি গ্রুপ
+= সাতটি আনুভূমিক পর্যায় আর আঠারোটি খাড়া গ্রুপ।
+? পর্যায় ৩-এ কয়টি মৌল আছে?
+- ২
+* ৮
+- ১৮
+- ৩২
+= পর্যায় ২ ও ৩-এ ৮টি করে মৌল।
+? অ্যাকটিনাইডগুলোর পারমাণবিক সংখ্যা:
+- ৫৭ থেকে ৭১
+* ৮৯ থেকে ১০৩
+- ২১ থেকে ৩০
+- ১০৪ থেকে ১১৮
+= অ্যাকটিনাইড হলো ৮৯ থেকে ১০৩ নম্বর মৌল, পর্যায় ৭-এর অংশ।
+? নিচের কোনটি অপধাতু?
+- সোডিয়াম
+- সালফার
+* সিলিকন
+- আয়রন
+= সিলিকন ধাতু ও অধাতু উভয়ের ধর্ম দেখায়।
+
+@@ 4.3
+@visual k4pos
+@related 3.7 4.2 4.4 5.1
+== en
+## what
+You can find an element's place in the periodic table straight from its electron configuration. The **period number** is the number of the outermost main shell. The **group number** comes from the electrons in the outermost shell (and, for the d-block, the d electrons just inside it), using three simple rules.
+## simple
+First write the electron configuration correctly (as you learned in [[3.7|Chapter 3]]), then ask two questions.
+
+**Question 1: which period? Look at the highest shell number.**
+The largest principal quantum number (the big number in front of s, p, d) in the configuration is the period number.
+- Li (3): 1s² 2s¹ → highest shell is 2 → **period 2**
+- K (19): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ → highest shell is 4 → **period 4**
+So an element's period tells you how many shells its atom has.
+
+**Question 2: which group? Look at the outer shell and use one of three rules.**
+
+**Rule 1: the outer shell has only an s subshell.** Group number = number of electrons in that s subshell.
+- H (1): 1s¹ → **group 1**
+- Mg (12): … 3s² → **group 2**
+
+**Rule 2: the outer shell has s and p subshells.** Group number = (s electrons + p electrons) + 10.
+- B (5): 1s² 2s² 2p¹ → 2 + 1 + 10 = **group 13**
+- Cl (17): … 3s² 3p⁵ → 2 + 5 + 10 = **group 17**
+Why add 10? Because the ten d-block groups (3 to 12) sit between group 2 and group 13.
+
+**Rule 3: the outer shell has an s subshell and the shell just inside it has a d subshell that is being filled.** Group number = (d electrons + s electrons).
+- Fe (26): … 3d⁶ 4s² → 6 + 2 = **group 8**
+- Cu (29): … 3d¹⁰ 4s¹ → 10 + 1 = **group 11**
+
+**One exception: helium.** He (2) is 1s². By rule 1 it "should" be in group 2, but its shell is completely full, it is an unreactive gas, and so it is placed in **group 18** with the other noble gases. (You will see the reason in [[4.5|lesson 4.5]].)
+
+**A careful point for Z = 31 to 36.** In gallium to krypton the 3d subshell is already full (3d¹⁰), and it belongs to shell 3, not to the outer shell 4. So only the 4s and 4p electrons count, and rule 2 applies: Br (35) … 3d¹⁰ 4s² 4p⁵ → 2 + 5 + 10 = group 17.
+
+**Try the student activity (answers):**
+- Li (3): 1s² 2s¹ → period 2, group 1
+- Be (4): 1s² 2s² → period 2, group 2
+- C (6): 1s² 2s² 2p² → period 2, group 2 + 2 + 10 = 14
+- Na (11): 1s² 2s² 2p⁶ 3s¹ → period 3, group 1
+- Al (13): 1s² 2s² 2p⁶ 3s² 3p¹ → period 3, group 13
+- S (16): 1s² 2s² 2p⁶ 3s² 3p⁴ → period 3, group 16
+- Sc (21): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s² → period 4, group 1 + 2 = 3
+- Fe (26): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s² → period 4, group 6 + 2 = 8
+## analogy
+Finding an element's position is like finding a flat in a Dhaka apartment building. The period is the floor number: count how many shells (floors) the atom has built. The group is the flat number on that floor: count the electrons living on the top floor, and for some flats also the ones on the floor just below. Once you know "floor 4, flat 8", you can walk straight to iron's door.
+## definition
+**Period of an element**: equal to the principal quantum number (shell number) of the outermost shell in its ground-state electron configuration.
+
+**Group of an element**:
+- outer shell ns^{x} only → group = x
+- outer shell ns^{2} np^{y} → group = 2 + y + 10
+- outer shell ns^{x} with (n−1)d^{z} being filled → group = x + z
+(Helium, 1s², is an exception: group 18.)
+## why
+Why does this work? The table is built by adding one electron at a time. Each new period begins when a new shell starts to fill, so the period equals the number of the shell being filled. Along each row, the columns count how many electrons have gone into the outer s, the inner d and the outer p subshells: 2 columns for s, 10 for d and 6 for p, which is exactly 18 groups. The rules simply "read back" the column from the electron count.
+## terms
+Outermost shell (বাইরের শক্তিস্তর) | Shell with the highest number n in the configuration
+Period number | = number of the outermost shell
+Group number | From the outer s (and p) electrons, or s + d electrons for the d-block
+Valence electrons (যোজ্যতা ইলেকট্রন) | Electrons in the outermost shell
+## formula
+$$ period = n of the outermost shell
+$$ outer shell ns^{x} only: group = x
+$$ outer shell ns^{2} np^{y}: group = 2 + y + 10
+$$ ns^{x} with (n−1)d^{z}: group = x + z
+! Helium (1s²) is placed in group 18, not group 2.
+! For Z = 31 to 36, the full 3d¹⁰ is an inner subshell; use the 4s + 4p rule.
+## visual
+Choose any element from Z = 1 to 36. The outer electrons light up, and the widget shows which rule gives the group. Then test yourself in quiz mode.
+## real
+A chemist at a steel mill in Chattogram who reads that an alloy contains vanadium (Z = 23, 3d³ 4s²) instantly knows it is in period 4, group 5, a transition metal, and can guess much about how it behaves, just by writing its configuration.
+## example
+Q: Find the period and group of chlorine (Z = 17).
+Given: Z = 17
+Formula: period = outermost shell; group = s + p + 10
+Substitution: Cl: 1s² 2s² 2p⁶ 3s² 3p⁵
+Calculation: outermost shell = 3; outer electrons = 2 (s) + 5 (p); group = 2 + 5 + 10 = 17
+> The outer shell contains both s and p subshells, so rule 2 applies.
+Answer: Chlorine is in period 3, group 17.
+## example
+Q: An element has atomic number 24. Find its position in the periodic table.
+Given: Z = 24 (chromium)
+Formula: rule 3, group = d electrons + s electrons
+Substitution: Cr: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹
+Calculation: outermost shell = 4 → period 4; group = 5 + 1 = 6
+> Remember the exception from Chapter 3: chromium is 3d⁵ 4s¹ (half-filled d), not 3d⁴ 4s². Either way the sum is 6.
+Answer: Period 4, group 6.
+## example
+Q: Find the group and period of bromine (Z = 35).
+Given: Z = 35
+Formula: rule 2, group = s + p + 10
+Substitution: Br: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁵
+Calculation: outermost shell = 4 → period 4; group = 2 + 5 + 10 = 17
+> The 3d¹⁰ is in shell 3 (an inner, full subshell), so it is not counted.
+Answer: Period 4, group 17 (a halogen, like chlorine).
+## mistakes
+x Helium is 1s², so it is in group 2.
+v Helium's only shell is full; it is a noble gas and is placed in group 18.
+x For bromine, add the 3d electrons too: 10 + 2 + 5 = 17 + 10 = 27.
+v The full 3d¹⁰ of bromine is an inner subshell; only 4s² 4p⁵ count: 2 + 5 + 10 = 17.
+x The period number is the number of electrons in the outer shell.
+v The period number is the number of the outer shell; the outer electrons help find the group.
+## remember
+- Period = number of the outermost shell.
+- Only s in outer shell: group = s electrons (groups 1, 2).
+- s and p in outer shell: group = s + p + 10 (groups 13–18).
+- s outside, d being filled inside: group = s + d (groups 3–12).
+- Exception: He (1s²) is in group 18.
+## think
+An element's configuration ends in 4s² 4p³. Without knowing its name, can you tell which period and group it belongs to, and which lighter element it will resemble?
+## quiz
+? The configuration of an element is 1s² 2s² 2p⁶ 3s² 3p⁶ 3d³ 4s². Its group is:
+- 2
+* 5
+- 11
+- 13
+= Rule 3: d + s = 3 + 2 = 5 (this is vanadium).
+? In which period is potassium (Z = 19)?
+- 1
+- 3
+* 4
+- 19
+= K: … 4s¹. The outermost shell is 4.
+? An element has the configuration 1s² 2s² 2p⁴. Its group number is:
+- 4
+- 6
+* 16
+- 14
+= Rule 2: 2 + 4 + 10 = 16 (oxygen).
+? Why is helium placed in group 18 and not group 2?
+- It has 2 shells
+* Its only shell is full and it is an unreactive gas like the noble gases
+- It is a metal
+- It has 18 electrons
+= Helium's 1s² is a complete shell, so it behaves like the noble gases.
+== bn
+## what
+ইলেকট্রন বিন্যাস দেখেই পর্যায় সারণিতে মৌলের অবস্থান বের করা যায়। **পর্যায় নম্বর** হলো সবচেয়ে বাইরের প্রধান শক্তিস্তরের নম্বর। **গ্রুপ নম্বর** পাওয়া যায় বাইরের শক্তিস্তরের ইলেকট্রন থেকে (আর d-ব্লকের বেলায় ঠিক তার ভেতরের d ইলেকট্রন থেকেও), তিনটি সহজ নিয়মে।
+## simple
+প্রথমে ইলেকট্রন বিন্যাসটি ঠিকভাবে লেখো ([[3.7|তৃতীয় অধ্যায়ে]] যেমন শিখেছ), তারপর দুটি প্রশ্ন করো।
+
+**প্রশ্ন ১: কোন পর্যায়? সবচেয়ে বড় শেল নম্বরটি দেখো।**
+বিন্যাসে সবচেয়ে বড় প্রধান কোয়ান্টাম সংখ্যা (s, p, d-এর সামনের বড় সংখ্যাটি) হলো পর্যায় নম্বর।
+- Li (৩): 1s² 2s¹ → সবচেয়ে বাইরের শেল ২ → **পর্যায় ২**
+- K (১৯): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ → সবচেয়ে বাইরের শেল ৪ → **পর্যায় ৪**
+অর্থাৎ পর্যায় নম্বর বলে দেয় পরমাণুটির কয়টি শেল আছে।
+
+**প্রশ্ন ২: কোন গ্রুপ? বাইরের শেলটি দেখো আর তিনটি নিয়মের একটি খাটাও।**
+
+**নিয়ম ১: বাইরের শেলে শুধু s উপশক্তিস্তর।** গ্রুপ নম্বর = ঐ s-এর ইলেকট্রন সংখ্যা।
+- H (১): 1s¹ → **গ্রুপ ১**
+- Mg (১২): … 3s² → **গ্রুপ ২**
+
+**নিয়ম ২: বাইরের শেলে s ও p উপশক্তিস্তর।** গ্রুপ নম্বর = (s ইলেকট্রন + p ইলেকট্রন) + ১০।
+- B (৫): 1s² 2s² 2p¹ → ২ + ১ + ১০ = **গ্রুপ ১৩**
+- Cl (১৭): … 3s² 3p⁵ → ২ + ৫ + ১০ = **গ্রুপ ১৭**
+১০ কেন যোগ করি? কারণ গ্রুপ ২ আর গ্রুপ ১৩-এর মাঝে d-ব্লকের দশটি গ্রুপ (৩ থেকে ১২) আছে।
+
+**নিয়ম ৩: বাইরের শেলে s, আর ঠিক ভেতরের শেলে d উপশক্তিস্তর পূরণ হচ্ছে।** গ্রুপ নম্বর = (d ইলেকট্রন + s ইলেকট্রন)।
+- Fe (২৬): … 3d⁶ 4s² → ৬ + ২ = **গ্রুপ ৮**
+- Cu (২৯): … 3d¹⁰ 4s¹ → ১০ + ১ = **গ্রুপ ১১**
+
+**একটি ব্যতিক্রম: হিলিয়াম।** He (২)-এর বিন্যাস 1s²। নিয়ম ১ অনুযায়ী এর গ্রুপ ২-এ থাকার "কথা", কিন্তু এর শেলটি সম্পূর্ণ পূর্ণ, এটি নিষ্ক্রিয় গ্যাস; তাই একে অন্যান্য নিষ্ক্রিয় গ্যাসের সাথে **গ্রুপ ১৮-এ** রাখা হয়েছে। (কারণটি দেখবে [[4.5|পাঠ ৪.৫-এ]]।)
+
+**Z = ৩১ থেকে ৩৬-এর বেলায় সাবধান।** গ্যালিয়াম থেকে ক্রিপ্টন পর্যন্ত 3d আগেই পূর্ণ (3d¹⁰), আর এটি শেল ৩-এর অংশ, বাইরের শেল ৪-এর নয়। তাই শুধু 4s আর 4p ইলেকট্রন গোনা হয়, খাটে নিয়ম ২: Br (৩৫) … 3d¹⁰ 4s² 4p⁵ → ২ + ৫ + ১০ = গ্রুপ ১৭।
+
+**শিক্ষার্থীর কাজের উত্তর মিলিয়ে নাও:**
+- Li (৩): 1s² 2s¹ → পর্যায় ২, গ্রুপ ১
+- Be (৪): 1s² 2s² → পর্যায় ২, গ্রুপ ২
+- C (৬): 1s² 2s² 2p² → পর্যায় ২, গ্রুপ ২ + ২ + ১০ = ১৪
+- Na (১১): 1s² 2s² 2p⁶ 3s¹ → পর্যায় ৩, গ্রুপ ১
+- Al (১৩): 1s² 2s² 2p⁶ 3s² 3p¹ → পর্যায় ৩, গ্রুপ ১৩
+- S (১৬): 1s² 2s² 2p⁶ 3s² 3p⁴ → পর্যায় ৩, গ্রুপ ১৬
+- Sc (২১): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s² → পর্যায় ৪, গ্রুপ ১ + ২ = ৩
+- Fe (২৬): 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s² → পর্যায় ৪, গ্রুপ ৬ + ২ = ৮
+## analogy
+মৌলের অবস্থান বের করা ঢাকার কোনো অ্যাপার্টমেন্ট ভবনে ফ্ল্যাট খোঁজার মতো। পর্যায় হলো তলার নম্বর: পরমাণুটি কয়টি শেল (তলা) বানিয়েছে গুনে নাও। গ্রুপ হলো ঐ তলার ফ্ল্যাট নম্বর: সবচেয়ে ওপরের তলায় কয়টি ইলেকট্রন থাকে গোনো, আর কিছু ফ্ল্যাটের বেলায় ঠিক নিচের তলার বাসিন্দাদেরও। "৪ তলা, ৮ নম্বর ফ্ল্যাট" জানলেই সোজা আয়রনের দরজায় পৌঁছে যাবে।
+## definition
+**মৌলের পর্যায়**: মৌলের ইলেকট্রন বিন্যাসে সবচেয়ে বাইরের শক্তিস্তরের প্রধান কোয়ান্টাম সংখ্যা (শেল নম্বর)ই তার পর্যায় নম্বর।
+
+**মৌলের গ্রুপ**:
+- বাইরের শেলে শুধু ns^{x} → গ্রুপ = x
+- বাইরের শেলে ns^{2} np^{y} → গ্রুপ = ২ + y + ১০
+- বাইরের শেলে ns^{x}, আর (n−1)d^{z} পূরণ হচ্ছে → গ্রুপ = x + z
+(হিলিয়াম, 1s², ব্যতিক্রম: গ্রুপ ১৮।)
+## why
+এই নিয়মগুলো কেন খাটে? সারণিটি গড়া হয়েছে একটি একটি করে ইলেকট্রন যোগ করে। নতুন শেল পূরণ শুরু হলেই নতুন পর্যায় শুরু হয়, তাই পর্যায় নম্বর = যে শেলটি পূরণ হচ্ছে তার নম্বর। প্রতিটি সারিতে কলামগুলো আসলে গোনে বাইরের s, ভেতরের d আর বাইরের p-তে কয়টি ইলেকট্রন ঢুকেছে: s-এর জন্য ২টি কলাম, d-এর জন্য ১০টি, p-এর জন্য ৬টি, মোট ঠিক ১৮টি গ্রুপ। নিয়মগুলো ইলেকট্রনের হিসাব থেকে কলামটা "ফিরে পড়ে"।
+## terms
+সবচেয়ে বাইরের শক্তিস্তর | বিন্যাসে সবচেয়ে বড় n-বিশিষ্ট শেল
+পর্যায় নম্বর | = সবচেয়ে বাইরের শেলের নম্বর
+গ্রুপ নম্বর | বাইরের s (ও p) ইলেকট্রন থেকে, অথবা d-ব্লকে s + d ইলেকট্রন থেকে
+যোজ্যতা ইলেকট্রন (Valence electrons) | সবচেয়ে বাইরের শেলের ইলেকট্রন
+## formula
+$$ পর্যায় = সবচেয়ে বাইরের শেলের n
+$$ বাইরের শেলে শুধু ns^{x}: গ্রুপ = x
+$$ বাইরের শেলে ns^{2} np^{y}: গ্রুপ = ২ + y + ১০
+$$ ns^{x} এবং (n−1)d^{z}: গ্রুপ = x + z
+! হিলিয়াম (1s²) গ্রুপ ২-এ নয়, গ্রুপ ১৮-এ বসে।
+! Z = ৩১ থেকে ৩৬-এ পূর্ণ 3d¹⁰ একটি ভেতরের উপশক্তিস্তর; 4s + 4p নিয়ম খাটাও।
+## visual
+Z = ১ থেকে ৩৬-এর যেকোনো মৌল বেছে নাও। বাইরের ইলেকট্রনগুলো জ্বলে উঠবে, আর দেখাবে কোন নিয়মে গ্রুপ পাওয়া যায়। তারপর কুইজ মোডে নিজেকে যাচাই করো।
+## real
+চট্টগ্রামের কোনো ইস্পাত কারখানার রসায়নবিদ যখন পড়েন যে একটি সংকর ধাতুতে ভ্যানাডিয়াম (Z = ২৩, 3d³ 4s²) আছে, শুধু বিন্যাস লিখেই সঙ্গে সঙ্গে বুঝে ফেলেন এটি পর্যায় ৪, গ্রুপ ৫-এর অবস্থান্তর ধাতু, আর এর আচরণ সম্পর্কে অনেক কিছু অনুমান করতে পারেন।
+## example
+প্রশ্ন: ক্লোরিনের (Z = ১৭) পর্যায় ও গ্রুপ নির্ণয় করো।
+দেওয়া আছে: Z = ১৭
+সূত্র: পর্যায় = সবচেয়ে বাইরের শেল; গ্রুপ = s + p + ১০
+মান বসাই: Cl: 1s² 2s² 2p⁶ 3s² 3p⁵
+হিসাব: সবচেয়ে বাইরের শেল = ৩; বাইরের ইলেকট্রন = ২ (s) + ৫ (p); গ্রুপ = ২ + ৫ + ১০ = ১৭
+> বাইরের শেলে s ও p দুটিই আছে, তাই নিয়ম ২ খাটে।
+উত্তর: ক্লোরিন পর্যায় ৩, গ্রুপ ১৭-এর মৌল।
+## example
+প্রশ্ন: একটি মৌলের পারমাণবিক সংখ্যা ২৪। পর্যায় সারণিতে এর অবস্থান নির্ণয় করো।
+দেওয়া আছে: Z = ২৪ (ক্রোমিয়াম)
+সূত্র: নিয়ম ৩, গ্রুপ = d ইলেকট্রন + s ইলেকট্রন
+মান বসাই: Cr: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹
+হিসাব: সবচেয়ে বাইরের শেল = ৪ → পর্যায় ৪; গ্রুপ = ৫ + ১ = ৬
+> তৃতীয় অধ্যায়ের ব্যতিক্রমটি মনে রাখো: ক্রোমিয়াম 3d⁴ 4s² নয়, 3d⁵ 4s¹ (অর্ধপূর্ণ d)। যেভাবেই লেখো, যোগফল ৬।
+উত্তর: পর্যায় ৪, গ্রুপ ৬।
+## example
+প্রশ্ন: ব্রোমিনের (Z = ৩৫) গ্রুপ ও পর্যায় নির্ণয় করো।
+দেওয়া আছে: Z = ৩৫
+সূত্র: নিয়ম ২, গ্রুপ = s + p + ১০
+মান বসাই: Br: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁵
+হিসাব: সবচেয়ে বাইরের শেল = ৪ → পর্যায় ৪; গ্রুপ = ২ + ৫ + ১০ = ১৭
+> 3d¹⁰ আছে শেল ৩-এ (ভেতরের, পূর্ণ উপশক্তিস্তর), তাই একে গোনা হয় না।
+উত্তর: পর্যায় ৪, গ্রুপ ১৭ (ক্লোরিনের মতোই একটি হ্যালোজেন)।
+## mistakes
+x হিলিয়াম 1s², তাই এটি গ্রুপ ২-এর মৌল।
+v হিলিয়ামের একমাত্র শেলটি পূর্ণ; এটি নিষ্ক্রিয় গ্যাস, তাই গ্রুপ ১৮-এ বসে।
+x ব্রোমিনের বেলায় 3d ইলেকট্রনও যোগ করো: ১০ + ২ + ৫ = ১৭, তার সাথে ১০ = ২৭।
+v ব্রোমিনের পূর্ণ 3d¹⁰ ভেতরের উপশক্তিস্তর; শুধু 4s² 4p⁵ গোনা হয়: ২ + ৫ + ১০ = ১৭।
+x পর্যায় নম্বর হলো বাইরের শেলের ইলেকট্রন সংখ্যা।
+v পর্যায় নম্বর হলো বাইরের শেলের নম্বর; বাইরের ইলেকট্রনগুলো গ্রুপ বের করতে কাজে লাগে।
+## remember
+- পর্যায় = সবচেয়ে বাইরের শেলের নম্বর।
+- বাইরের শেলে শুধু s: গ্রুপ = s ইলেকট্রন (গ্রুপ ১, ২)।
+- বাইরের শেলে s ও p: গ্রুপ = s + p + ১০ (গ্রুপ ১৩–১৮)।
+- বাইরে s, ভেতরে d পূরণ হচ্ছে: গ্রুপ = s + d (গ্রুপ ৩–১২)।
+- ব্যতিক্রম: He (1s²) গ্রুপ ১৮-এ।
+## think
+একটি মৌলের বিন্যাস শেষ হয়েছে 4s² 4p³ দিয়ে। নাম না জেনেও কি বলতে পারবে এটি কোন পর্যায় ও গ্রুপের, আর কোন হালকা মৌলের সাথে এর মিল থাকবে?
+## quiz
+? একটি মৌলের বিন্যাস 1s² 2s² 2p⁶ 3s² 3p⁶ 3d³ 4s²। এর গ্রুপ:
+- ২
+* ৫
+- ১১
+- ১৩
+= নিয়ম ৩: d + s = ৩ + ২ = ৫ (এটি ভ্যানাডিয়াম)।
+? পটাশিয়াম (Z = ১৯) কোন পর্যায়ে?
+- ১
+- ৩
+* ৪
+- ১৯
+= K: … 4s¹। সবচেয়ে বাইরের শেল ৪।
+? একটি মৌলের বিন্যাস 1s² 2s² 2p⁴। এর গ্রুপ নম্বর:
+- ৪
+- ৬
+* ১৬
+- ১৪
+= নিয়ম ২: ২ + ৪ + ১০ = ১৬ (অক্সিজেন)।
+? হিলিয়ামকে গ্রুপ ২-এ না রেখে গ্রুপ ১৮-এ রাখা হয় কেন?
+- এর ২টি শেল আছে
+* এর একমাত্র শেলটি পূর্ণ এবং এটি নিষ্ক্রিয় গ্যাসগুলোর মতো অসক্রিয় গ্যাস
+- এটি একটি ধাতু
+- এতে ১৮টি ইলেকট্রন আছে
+= হিলিয়ামের 1s² একটি সম্পূর্ণ শেল, তাই এটি নিষ্ক্রিয় গ্যাসের মতো আচরণ করে।
+
+@@ 4.4
+@visual k4same
+@related 4.3 4.6 5.1 5.9
+== en
+## what
+Elements in the **same group have the same arrangement of electrons in their outermost shell** (same number of outer electrons, in the same kind of subshells). Since chemical properties depend mainly on the outer electrons, the electron configuration decides both the position of an element and its behaviour. That is why the electron configuration is called the **main basis of the periodic table**.
+## simple
+Write the configurations of the group 1 elements one below the other:
+- Li (3): 1s² **2s¹**
+- Na (11): 1s² 2s² 2p⁶ **3s¹**
+- K (19): 1s² 2s² 2p⁶ 3s² 3p⁶ **4s¹**
+Different numbers of shells, but the **same ending**: one electron in an outer s subshell (ns¹).
+
+Now group 2:
+- Be (4): 1s² **2s²**
+- Mg (12): 1s² 2s² 2p⁶ **3s²**
+- Ca (20): 1s² 2s² 2p⁶ 3s² 3p⁶ **4s²**
+All end in ns².
+
+And group 17:
+- F (9): 1s² **2s² 2p⁵**
+- Cl (17): 1s² 2s² 2p⁶ **3s² 3p⁵**
+- Br (35): … 3d¹⁰ **4s² 4p⁵**
+All end in ns² np⁵: seven outer electrons.
+
+**Why does the same ending give the same behaviour?** When atoms react, only the outer electrons take part; the inner shells stay untouched. So atoms with the same outer arrangement react in the same way.
+
+- **One outer electron (group 1).** It is easy to lose that single electron. Sodium gives it away and becomes a positive ion, with the stable configuration of neon:
+  Na (1s² 2s² 2p⁶ 3s¹) → Na⁺ (1s² 2s² 2p⁶) + e⁻
+  Lithium and potassium do exactly the same (Li⁺, K⁺). That is why all alkali metals react in a similar way.
+- **Seven outer electrons (group 17).** It is easier to gain one electron than to lose seven. Chlorine accepts an electron and becomes a negative ion, with the configuration of argon:
+  Cl (1s² 2s² 2p⁶ 3s² 3p⁵) + e⁻ → Cl⁻ (1s² 2s² 2p⁶ 3s² 3p⁶)
+  Fluorine and bromine do the same (F⁻, Br⁻).
+
+Elements with different outer arrangements sit in different groups and behave differently. So electron configuration tells us **where** an element is and **how** it will behave. This is exactly Moseley's insight from [[4.1|lesson 4.1]] seen from the inside.
+
+**A neat pattern.** Going down a group, the atomic numbers jump by 2, 8, 8, 18, 18, 32, which are the lengths of the periods: H 1, Li 3, Na 11, K 19, Rb 37, Cs 55, Fr 87.
+## analogy
+Think of students from different classes (Class 6, 8, 10) who all play the same position, say goalkeeper, in football. Their ages, heights and years in school differ (like the number of inner shells), but on the field they do the same job and react to the ball in the same way (like the same outer electrons). The coach groups them together because what matters in the game is their position, not their class.
+## definition
+**Electronic configuration as the basis of the periodic table**: the period and group of an element are fixed by its electron configuration, and elements with the same outer-shell electron arrangement fall in the same group and show similar chemical properties. Hence electron configuration is regarded as the main basis of the periodic table.
+## why
+Chemical reactions happen when atoms lose, gain or share electrons, and the electrons involved are the outer (valence) ones, which are farthest from the nucleus and least tightly held. The inner electrons are held strongly and are shielded inside. So two atoms with the same number and type of outer electrons will lose, gain or share the same number of electrons, form ions of the same charge and compounds with similar formulas (NaCl, KCl; MgO, CaO).
+## terms
+Outer-shell configuration | The electrons in the outermost shell, e.g. ns¹ for group 1
+Valence electrons (যোজ্যতা ইলেকট্রন) | Outer-shell electrons that take part in reactions
+Positive ion (ধনাত্মক আয়ন) | Formed when an atom loses electrons (Na⁺)
+Negative ion (ঋণাত্মক আয়ন) | Formed when an atom gains electrons (Cl⁻)
+## visual
+Pick a group and compare its members' shell diagrams. Notice what stays the same (the outer electrons) and what changes (the number of shells). Press the ion button to see each atom lose or gain electrons.
+## real
+Table salt (NaCl) and the "low-sodium salt" sold in some shops for people told to cut down on sodium (which contains potassium chloride, KCl) look and taste quite similar. Sodium and potassium are both in group 1 with one outer electron, so both form +1 ions and make chlorides with the same formula pattern.
+## example
+Q: The atomic numbers of X and Y are 12 and 20. Will they show similar chemical properties? Explain.
+Given: Z(X) = 12, Z(Y) = 20
+Solution: X (Mg): 1s² 2s² 2p⁶ 3s². Y (Ca): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s². Both have two electrons in an outer s subshell (ns²), so both are in group 2. Each tends to lose two electrons to form X²⁺ and Y²⁺, and they form compounds with similar formulas (XO, YO; XCl₂, YCl₂).
+> Same outer-shell arrangement → same group → similar properties.
+Answer: Yes. Both are group 2 elements with ns² outer configurations, so their chemical properties are similar.
+## example
+Q: Show with configurations why sodium forms Na⁺ but chlorine forms Cl⁻.
+Solution: Na: 1s² 2s² 2p⁶ 3s¹. Losing one electron gives Na⁺: 1s² 2s² 2p⁶ (like neon, stable). Cl: 1s² 2s² 2p⁶ 3s² 3p⁵. Gaining one electron gives Cl⁻: 1s² 2s² 2p⁶ 3s² 3p⁶ (like argon, stable).
+Answer: Sodium reaches a stable noble-gas arrangement by losing 1 electron; chlorine does so by gaining 1 electron.
+## mistakes
+x Elements of the same group have the same number of shells.
+v Elements of the same period have the same number of shells; elements of the same group have the same outer-electron arrangement.
+x Inner-shell electrons decide the chemical properties.
+v Chemical properties depend mainly on the outer (valence) electrons.
+## remember
+- Same group = same outer-shell configuration (group 1: ns¹, group 2: ns², group 17: ns² np⁵, group 18: ns² np⁶).
+- Same outer electrons → similar chemical properties.
+- Na → Na⁺ + e⁻ (like Ne); Cl + e⁻ → Cl⁻ (like Ar).
+- Electron configuration fixes the position and behaviour: the main basis of the periodic table.
+## think
+Rubidium (Z = 37) is rarely seen in a school laboratory. Using only its position in group 1, predict how it would react with water compared with sodium.
+## quiz
+? What is common to the configurations of Li, Na and K?
+- Same number of shells
+* One electron in the outermost s subshell
+- Seven outer electrons
+- Full outer shell
+= All end in ns¹.
+? Chlorine becomes Cl⁻ by:
+- Losing 1 electron
+* Gaining 1 electron
+- Losing 7 electrons
+- Sharing 2 electrons
+= With 3s² 3p⁵, gaining one electron gives the stable 3s² 3p⁶.
+? Which element has chemical properties most similar to magnesium (Z = 12)?
+- Na (11)
+- Al (13)
+* Ca (20)
+- K (19)
+= Mg and Ca are both group 2 (ns²).
+? The main basis of the periodic table is:
+- Atomic mass
+- Density
+* Electron configuration
+- Melting point
+= Electron configuration fixes both the position and the properties of an element.
+== bn
+## what
+**একই গ্রুপের মৌলগুলোর সবচেয়ে বাইরের শক্তিস্তরে ইলেকট্রনের বিন্যাস একই রকম** (বাইরের ইলেকট্রনের সংখ্যা এক, একই ধরনের উপশক্তিস্তরে)। রাসায়নিক ধর্ম মূলত বাইরের ইলেকট্রনের ওপর নির্ভর করে, তাই ইলেকট্রন বিন্যাসই মৌলের অবস্থান আর আচরণ দুটিই ঠিক করে। এ কারণে ইলেকট্রন বিন্যাসকে **পর্যায় সারণির মূলভিত্তি** বলা হয়।
+## simple
+গ্রুপ ১-এর মৌলগুলোর বিন্যাস একটির নিচে আরেকটি লেখো:
+- Li (৩): 1s² **2s¹**
+- Na (১১): 1s² 2s² 2p⁶ **3s¹**
+- K (১৯): 1s² 2s² 2p⁶ 3s² 3p⁶ **4s¹**
+শেলের সংখ্যা আলাদা, কিন্তু **শেষটা একই**: বাইরের s উপশক্তিস্তরে একটি ইলেকট্রন (ns¹)।
+
+এবার গ্রুপ ২:
+- Be (৪): 1s² **2s²**
+- Mg (১২): 1s² 2s² 2p⁶ **3s²**
+- Ca (২০): 1s² 2s² 2p⁶ 3s² 3p⁶ **4s²**
+সবগুলোর শেষে ns²।
+
+আর গ্রুপ ১৭:
+- F (৯): 1s² **2s² 2p⁵**
+- Cl (১৭): 1s² 2s² 2p⁶ **3s² 3p⁵**
+- Br (৩৫): … 3d¹⁰ **4s² 4p⁵**
+সবগুলোর শেষে ns² np⁵: বাইরের শেলে সাতটি ইলেকট্রন।
+
+**শেষটা এক হলে আচরণ এক হয় কেন?** পরমাণু যখন বিক্রিয়া করে, শুধু বাইরের ইলেকট্রনগুলো অংশ নেয়; ভেতরের শেলগুলো অক্ষত থাকে। তাই বাইরের বিন্যাস যাদের একই, তারা একইভাবে বিক্রিয়া করে।
+
+- **বাইরে একটি ইলেকট্রন (গ্রুপ ১)।** একমাত্র ইলেকট্রনটি ত্যাগ করা সহজ। সোডিয়াম এটি ছেড়ে দিয়ে নিয়নের মতো সুস্থিত বিন্যাসের ধনাত্মক আয়নে পরিণত হয়:
+  Na (1s² 2s² 2p⁶ 3s¹) → Na⁺ (1s² 2s² 2p⁶) + e⁻
+  লিথিয়াম ও পটাশিয়ামও হুবহু একই কাজ করে (Li⁺, K⁺)। এজন্যই সব ক্ষার ধাতু একই রকম বিক্রিয়া করে।
+- **বাইরে সাতটি ইলেকট্রন (গ্রুপ ১৭)।** সাতটি ছাড়ার চেয়ে একটি নেওয়া সহজ। ক্লোরিন একটি ইলেকট্রন গ্রহণ করে আর্গনের মতো বিন্যাসের ঋণাত্মক আয়নে পরিণত হয়:
+  Cl (1s² 2s² 2p⁶ 3s² 3p⁵) + e⁻ → Cl⁻ (1s² 2s² 2p⁶ 3s² 3p⁶)
+  ফ্লোরিন ও ব্রোমিনও তাই করে (F⁻, Br⁻)।
+
+বাইরের বিন্যাস আলাদা হলে মৌলগুলো আলাদা গ্রুপে বসে, আচরণও আলাদা হয়। সুতরাং ইলেকট্রন বিন্যাস বলে দেয় মৌলটি **কোথায়** আছে আর **কেমন** আচরণ করবে। [[4.1|পাঠ ৪.১-এ]] মোসলের যে আবিষ্কার দেখেছ, এটি তারই ভেতরের ব্যাখ্যা।
+
+**একটি মজার নকশা।** গ্রুপ বরাবর নিচে নামলে পারমাণবিক সংখ্যা লাফ দেয় ২, ৮, ৮, ১৮, ১৮, ৩২ করে, যা পর্যায়গুলোর দৈর্ঘ্য: H ১, Li ৩, Na ১১, K ১৯, Rb ৩৭, Cs ৫৫, Fr ৮৭।
+## analogy
+ভাবো ষষ্ঠ, অষ্টম আর দশম শ্রেণির কয়েকজন শিক্ষার্থী ফুটবলে সবাই একই পজিশনে খেলে, ধরো গোলকিপার। তাদের বয়স, উচ্চতা, কত বছর ধরে স্কুলে আছে সব আলাদা (ভেতরের শেলের সংখ্যার মতো), কিন্তু মাঠে তারা একই কাজ করে, বলের প্রতি একইভাবে সাড়া দেয় (বাইরের একই ইলেকট্রনের মতো)। কোচ তাদের এক দলে রাখেন, কারণ খেলায় আসল ব্যাপার তাদের পজিশন, শ্রেণি নয়।
+## definition
+**পর্যায় সারণির মূলভিত্তি ইলেকট্রন বিন্যাস**: মৌলের পর্যায় ও গ্রুপ তার ইলেকট্রন বিন্যাস দিয়েই নির্ধারিত হয়; আর যেসব মৌলের বাইরের শেলের ইলেকট্রন বিন্যাস একই রকম, তারা একই গ্রুপে থাকে এবং একই রকম রাসায়নিক ধর্ম দেখায়। তাই ইলেকট্রন বিন্যাসকে পর্যায় সারণির মূলভিত্তি ধরা হয়।
+## why
+পরমাণু ইলেকট্রন ত্যাগ, গ্রহণ বা ভাগাভাগি করলেই রাসায়নিক বিক্রিয়া ঘটে, আর এতে অংশ নেয় বাইরের (যোজ্যতা) ইলেকট্রনগুলো, যারা নিউক্লিয়াস থেকে সবচেয়ে দূরে এবং সবচেয়ে আলগাভাবে আটকানো। ভেতরের ইলেকট্রনগুলো শক্তভাবে আটকানো ও ভেতরে সুরক্ষিত। তাই বাইরের ইলেকট্রনের সংখ্যা ও ধরন যাদের একই, তারা একই সংখ্যক ইলেকট্রন ত্যাগ, গ্রহণ বা ভাগাভাগি করে, একই আধানের আয়ন বানায়, আর একই ধাঁচের সংকেতের যৌগ গঠন করে (NaCl, KCl; MgO, CaO)।
+## terms
+বাইরের শেলের বিন্যাস | সবচেয়ে বাইরের শেলের ইলেকট্রন, যেমন গ্রুপ ১-এর জন্য ns¹
+যোজ্যতা ইলেকট্রন | বিক্রিয়ায় অংশ নেওয়া বাইরের শেলের ইলেকট্রন
+ধনাত্মক আয়ন | পরমাণু ইলেকট্রন ত্যাগ করলে তৈরি হয় (Na⁺)
+ঋণাত্মক আয়ন | পরমাণু ইলেকট্রন গ্রহণ করলে তৈরি হয় (Cl⁻)
+## visual
+একটি গ্রুপ বেছে নিয়ে এর সদস্যদের শেল-চিত্র তুলনা করো। কী একই থাকে (বাইরের ইলেকট্রন) আর কী বদলায় (শেলের সংখ্যা) লক্ষ করো। আয়ন বোতামে চাপ দিয়ে দেখো প্রতিটি পরমাণু কীভাবে ইলেকট্রন ত্যাগ বা গ্রহণ করে।
+## real
+খাবার লবণ (NaCl) আর যাদের সোডিয়াম কম খেতে বলা হয় তাদের জন্য কিছু দোকানে বিক্রি হওয়া "লো-সোডিয়াম লবণ" (যাতে পটাশিয়াম ক্লোরাইড, KCl থাকে) দেখতে ও স্বাদে বেশ কাছাকাছি। সোডিয়াম ও পটাশিয়াম দুটিই গ্রুপ ১-এর, বাইরে একটি করে ইলেকট্রন, তাই দুটিই +১ আয়ন বানায় আর একই ধাঁচের সংকেতের ক্লোরাইড তৈরি করে।
+## example
+প্রশ্ন: X ও Y-এর পারমাণবিক সংখ্যা ১২ ও ২০। এরা কি একই রকম রাসায়নিক ধর্ম দেখাবে? ব্যাখ্যা করো।
+দেওয়া আছে: Z(X) = ১২, Z(Y) = ২০
+সমাধান: X (Mg): 1s² 2s² 2p⁶ 3s²। Y (Ca): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²। দুটিরই বাইরের s উপশক্তিস্তরে দুটি ইলেকট্রন (ns²), তাই দুটিই গ্রুপ ২-এর। প্রত্যেকে দুটি ইলেকট্রন ত্যাগ করে X²⁺ ও Y²⁺ বানাতে চায়, আর একই ধাঁচের সংকেতের যৌগ গঠন করে (XO, YO; XCl₂, YCl₂)।
+> বাইরের শেলের বিন্যাস এক → গ্রুপ এক → ধর্ম একই রকম।
+উত্তর: হ্যাঁ। দুটিই ns² বিন্যাসের গ্রুপ ২-এর মৌল, তাই এদের রাসায়নিক ধর্ম একই রকম।
+## example
+প্রশ্ন: বিন্যাস দিয়ে দেখাও কেন সোডিয়াম Na⁺ কিন্তু ক্লোরিন Cl⁻ আয়ন গঠন করে।
+সমাধান: Na: 1s² 2s² 2p⁶ 3s¹। একটি ইলেকট্রন ত্যাগ করলে Na⁺: 1s² 2s² 2p⁶ (নিয়নের মতো, সুস্থিত)। Cl: 1s² 2s² 2p⁶ 3s² 3p⁵। একটি ইলেকট্রন গ্রহণ করলে Cl⁻: 1s² 2s² 2p⁶ 3s² 3p⁶ (আর্গনের মতো, সুস্থিত)।
+উত্তর: সোডিয়াম ১টি ইলেকট্রন ত্যাগ করে, আর ক্লোরিন ১টি ইলেকট্রন গ্রহণ করে নিষ্ক্রিয় গ্যাসের মতো সুস্থিত বিন্যাস পায়।
+## mistakes
+x একই গ্রুপের মৌলগুলোর শেলের সংখ্যা একই।
+v একই পর্যায়ের মৌলগুলোর শেলের সংখ্যা একই; একই গ্রুপের মৌলগুলোর বাইরের ইলেকট্রন বিন্যাস একই।
+x ভেতরের শেলের ইলেকট্রন রাসায়নিক ধর্ম ঠিক করে।
+v রাসায়নিক ধর্ম মূলত বাইরের (যোজ্যতা) ইলেকট্রনের ওপর নির্ভর করে।
+## remember
+- একই গ্রুপ = বাইরের শেলের একই বিন্যাস (গ্রুপ ১: ns¹, গ্রুপ ২: ns², গ্রুপ ১৭: ns² np⁵, গ্রুপ ১৮: ns² np⁶)।
+- বাইরের ইলেকট্রন এক → রাসায়নিক ধর্ম একই রকম।
+- Na → Na⁺ + e⁻ (Ne-এর মতো); Cl + e⁻ → Cl⁻ (Ar-এর মতো)।
+- ইলেকট্রন বিন্যাস অবস্থান ও আচরণ দুটিই ঠিক করে: পর্যায় সারণির মূলভিত্তি।
+## think
+রুবিডিয়াম (Z = ৩৭) স্কুলের ল্যাবে খুব একটা দেখা যায় না। শুধু গ্রুপ ১-এ এর অবস্থান থেকে অনুমান করো, সোডিয়ামের তুলনায় এটি পানির সাথে কীভাবে বিক্রিয়া করবে।
+## quiz
+? Li, Na ও K-এর বিন্যাসে মিল কোথায়?
+- শেলের সংখ্যা একই
+* সবচেয়ে বাইরের s উপশক্তিস্তরে একটি ইলেকট্রন
+- বাইরে সাতটি ইলেকট্রন
+- বাইরের শেল পূর্ণ
+= সবগুলোর শেষে ns¹।
+? ক্লোরিন Cl⁻ হয়:
+- ১টি ইলেকট্রন ত্যাগ করে
+* ১টি ইলেকট্রন গ্রহণ করে
+- ৭টি ইলেকট্রন ত্যাগ করে
+- ২টি ইলেকট্রন ভাগাভাগি করে
+= 3s² 3p⁵ থেকে একটি ইলেকট্রন গ্রহণ করলে সুস্থিত 3s² 3p⁶ হয়।
+? ম্যাগনেসিয়ামের (Z = ১২) সাথে কোন মৌলের রাসায়নিক ধর্মের সবচেয়ে বেশি মিল?
+- Na (১১)
+- Al (১৩)
+* Ca (২০)
+- K (১৯)
+= Mg ও Ca দুটিই গ্রুপ ২-এর (ns²)।
+? পর্যায় সারণির মূলভিত্তি:
+- পারমাণবিক ভর
+- ঘনত্ব
+* ইলেকট্রন বিন্যাস
+- গলনাঙ্ক
+= ইলেকট্রন বিন্যাস মৌলের অবস্থান ও ধর্ম দুটিই ঠিক করে।
+
+@@ 4.5
+@related 4.3 4.7 5.7
+== en
+## what
+A few elements do not fit the simple rules neatly. **Hydrogen** resembles both the alkali metals (group 1) and the halogens (group 17), but is placed in group 1. **Helium** (1s²) "should" be in group 2 by its configuration, but is placed in group 18 with the noble gases. The **lanthanides and actinides** belong to group 3 of periods 6 and 7 but are shown in separate rows below the table.
+## simple
+**1. Where should hydrogen go?** Hydrogen (1s¹) is a small, light, non-metallic gas, yet it sits at the top of group 1 above the reactive metals lithium and sodium. It has a "double personality":
+
+*Like the alkali metals (group 1):*
+- One electron in its only shell (1s¹, like ns¹).
+- It can lose that electron to form a positive ion, H⁺ (like Na⁺).
+- It has valency 1 and forms compounds with similar formulas: HCl like NaCl, H₂O like Na₂O, H₂S like Na₂S.
+
+*Like the halogens (group 17):*
+- It needs only one more electron to fill its shell (like F and Cl, which need one to complete eight).
+- It can gain an electron to form the hydride ion, H⁻, for example in sodium hydride, NaH (compare NaCl).
+- It is a non-metal and exists as diatomic molecules, H₂, just like F₂ and Cl₂.
+
+Because hydrogen has one outer electron and most of its properties are closer to the group 1 pattern, the periodic table places it **in group 1**. But remember that it is **not an alkali metal**. Some tables even draw hydrogen floating by itself at the top to show its special nature.
+
+**2. Why is helium not in group 2?** Helium's configuration is 1s², two electrons in an s subshell, just like Be (2s²) and Mg (3s²). By rule 1 it would go into group 2. But the group 2 elements are reactive metals that easily lose two electrons (the alkaline-earth metals). Helium is the opposite: its only shell (the K shell) can hold just 2 electrons, so 1s² is a **complete shell**. It does not lose, gain or share electrons, it is an unreactive gas, and its properties match neon, argon, krypton, xenon and radon. So helium is placed at the top of **group 18**.
+
+**3. Lanthanides and actinides.** The 15 lanthanides (Z = 57–71) should all sit in one box: period 6, group 3. The 15 actinides (Z = 89–103) belong in period 7, group 3. Squeezing fifteen elements into one box is impossible, and spreading them out would make the table very wide and spoil its neat shape. Also, the members of each series are extremely similar to one another. So they are written as two separate rows beneath the main table.
+## analogy
+Hydrogen is like a student who is equally good at football and at debating. The school has to put the student in one club's photo, so it chooses the football club where most of their friends are, but everyone knows the student also fits in the debate team. Helium is like a student whose roll number puts them in section A, but because their interests match section D perfectly, the teacher moves them there.
+## definition
+**Anomalous position of hydrogen**: hydrogen shows similarities with both the alkali metals (one outer electron, forms H⁺, valency 1) and the halogens (needs one electron to complete its shell, forms H⁻, diatomic non-metal). It is placed in group 1 but is not an alkali metal.
+
+**Position of helium**: helium (1s²) has a completely filled shell and the properties of a noble gas, so it is placed in group 18 instead of group 2.
+
+**Position of lanthanides and actinides**: they belong to group 3 of periods 6 and 7, but because they are so numerous and so similar, they are placed in two separate rows below the main table.
+## why
+Why doesn't helium follow rule 1? The rules for groups are really rules about how full the outer shell is. For every other element, a full outer shell needs eight electrons (ns² np⁶). But the first shell has no p subshell; it is full with just 2 electrons. So 1s² is helium's version of a full shell, and chemical behaviour follows a full shell, not the number 2.
+## terms
+Hydride ion (হাইড্রাইড আয়ন) | H⁻, formed when hydrogen gains an electron (e.g. in NaH)
+Alkaline-earth metals (মৃৎক্ষার ধাতু) | Group 2 metals, reactive, lose two electrons
+Noble (inert) gases (নিষ্ক্রিয় গ্যাস) | Group 18, with full outer shells
+Anomaly (ব্যতিক্রম) | Something that does not follow the general rule
+## real
+Hydrogen's double personality has practical uses. As H⁺ it makes acids like the hydrochloric acid in our stomachs; as the H⁻ ion in metal hydrides it is studied for storing hydrogen fuel. Helium's full shell makes it completely safe to use in party balloons at the Boishakhi Mela, unlike hydrogen, which could catch fire.
+## example
+Q: Why is hydrogen placed in group 1 even though it is a non-metal?
+Solution: Hydrogen has one electron in its outer (only) shell, like the alkali metals (ns¹). Like them, it can lose this electron to form a positive ion (H⁺) and has valency 1, forming compounds with similar formulas (HCl like NaCl). Since most of its properties are similar to group 1 behaviour, it is placed there.
+Answer: Because of its 1s¹ configuration and its ability to form H⁺ with valency 1, like the alkali metals.
+## example
+Q: Helium's configuration is 1s². Why is it not in group 2?
+Solution: Group 2 elements (Be, Mg, Ca …) are reactive metals that lose their two outer electrons. Helium's 1s² is a full shell, since the first shell can hold only 2 electrons. It is an unreactive gas like Ne and Ar.
+Answer: Its shell is complete and it behaves like a noble gas, so it is placed in group 18.
+## mistakes
+x Hydrogen is an alkali metal because it is in group 1.
+v Hydrogen is a non-metal gas. It is placed in group 1 only because of its 1s¹ configuration and some similar properties.
+x The lanthanides and actinides are placed separately because they do not belong to any group.
+v They belong to group 3 (periods 6 and 7); they are drawn separately to keep the table compact.
+## remember
+- H: like group 1 (1s¹, H⁺, valency 1) and like group 17 (needs 1 e⁻, H⁻, H₂); placed in group 1.
+- He: 1s² is a full shell → group 18, not group 2.
+- Lanthanides (57–71) and actinides (89–103): group 3, shown in separate rows.
+## think
+Suppose a new element were discovered whose first shell could hold 8 electrons. Would helium's position still be an anomaly? Why or why not?
+## quiz
+? Hydrogen resembles the halogens because it:
+- Has one electron like sodium
+* Can gain one electron to complete its shell
+- Is a metal
+- Has two shells
+= Like F and Cl, hydrogen needs only one electron to fill its shell (forming H⁻).
+? Helium is placed in group 18 because:
+- It has 18 electrons
+- It is an alkaline-earth metal
+* Its only shell is full and it is unreactive
+- Its atomic mass is 18
+= A full 1s² shell gives it noble-gas properties.
+? Which formula shows hydrogen behaving like a halogen?
+- HCl
+- H₂O
+* NaH
+- H₂S
+= In NaH, hydrogen is present as H⁻, just as chlorine is Cl⁻ in NaCl.
+== bn
+## what
+কয়েকটি মৌল সহজ নিয়মগুলোর সাথে পুরোপুরি মেলে না। **হাইড্রোজেন** ক্ষার ধাতু (গ্রুপ ১) ও হ্যালোজেন (গ্রুপ ১৭) দুই দলের সাথেই মেলে, কিন্তু একে গ্রুপ ১-এ রাখা হয়েছে। **হিলিয়াম** (1s²) বিন্যাস অনুযায়ী গ্রুপ ২-এ থাকার "কথা", কিন্তু একে নিষ্ক্রিয় গ্যাসের সাথে গ্রুপ ১৮-এ রাখা হয়েছে। **ল্যান্থানাইড ও অ্যাকটিনাইড** পর্যায় ৬ ও ৭-এর গ্রুপ ৩-এর অংশ হলেও সারণির নিচে আলাদা সারিতে দেখানো হয়।
+## simple
+**১. হাইড্রোজেন কোথায় বসবে?** হাইড্রোজেন (1s¹) একটি ছোট, হালকা, অধাতব গ্যাস, অথচ এটি বসে আছে গ্রুপ ১-এর মাথায়, সক্রিয় ধাতু লিথিয়াম ও সোডিয়ামের ওপরে। এর যেন "দুই রকম স্বভাব":
+
+*ক্ষার ধাতুর (গ্রুপ ১) মতো:*
+- একমাত্র শেলে একটি ইলেকট্রন (1s¹, ns¹-এর মতো)।
+- ঐ ইলেকট্রনটি ত্যাগ করে ধনাত্মক আয়ন H⁺ বানাতে পারে (Na⁺-এর মতো)।
+- যোজনী ১, আর একই ধাঁচের সংকেতের যৌগ গঠন করে: NaCl-এর মতো HCl, Na₂O-এর মতো H₂O, Na₂S-এর মতো H₂S।
+
+*হ্যালোজেনের (গ্রুপ ১৭) মতো:*
+- শেল পূর্ণ করতে আর মাত্র একটি ইলেকট্রন দরকার (F ও Cl-এর মতো, যাদের আট পূর্ণ করতে একটি লাগে)।
+- একটি ইলেকট্রন গ্রহণ করে হাইড্রাইড আয়ন H⁻ বানাতে পারে, যেমন সোডিয়াম হাইড্রাইডে, NaH (NaCl-এর সাথে তুলনা করো)।
+- এটি অধাতু আর F₂ ও Cl₂-এর মতো দ্বিপরমাণুক অণু H₂ হিসেবে থাকে।
+
+হাইড্রোজেনের বাইরে একটি ইলেকট্রন, আর এর বেশিরভাগ ধর্ম গ্রুপ ১-এর ধাঁচের কাছাকাছি, তাই পর্যায় সারণিতে একে **গ্রুপ ১-এ** রাখা হয়েছে। তবে মনে রাখো, এটি **ক্ষার ধাতু নয়**। কোনো কোনো সারণিতে এর বিশেষ স্বভাব বোঝাতে হাইড্রোজেনকে একেবারে ওপরে আলাদা করেও আঁকা হয়।
+
+**২. হিলিয়াম গ্রুপ ২-এ নয় কেন?** হিলিয়ামের বিন্যাস 1s², s উপশক্তিস্তরে দুটি ইলেকট্রন, ঠিক Be (2s²) আর Mg (3s²)-এর মতো। নিয়ম ১ অনুযায়ী এটি গ্রুপ ২-এ যেত। কিন্তু গ্রুপ ২-এর মৌলগুলো সক্রিয় ধাতু, সহজেই দুটি ইলেকট্রন ত্যাগ করে (মৃৎক্ষার ধাতু)। হিলিয়াম ঠিক উল্টো: এর একমাত্র শেলে (K শেল) মাত্র ২টি ইলেকট্রন ধরে, তাই 1s² একটি **পূর্ণ শেল**। এটি ইলেকট্রন ত্যাগ, গ্রহণ বা ভাগাভাগি করে না, এটি নিষ্ক্রিয় গ্যাস, আর এর ধর্ম নিয়ন, আর্গন, ক্রিপ্টন, জেনন ও রেডনের সাথে মেলে। তাই হিলিয়ামকে **গ্রুপ ১৮-এর** মাথায় রাখা হয়েছে।
+
+**৩. ল্যান্থানাইড ও অ্যাকটিনাইড।** ১৫টি ল্যান্থানাইডের (Z = ৫৭–৭১) সবার একটি ঘরেই বসার কথা: পর্যায় ৬, গ্রুপ ৩। ১৫টি অ্যাকটিনাইডের (Z = ৮৯–১০৩) জায়গা পর্যায় ৭, গ্রুপ ৩। এক ঘরে পনেরোটি মৌল ঠাসা অসম্ভব, আবার ছড়িয়ে দিলে সারণিটি অনেক চওড়া হয়ে এর সুন্দর আকৃতি নষ্ট হয়ে যেত। তাছাড়া প্রতিটি সারির সদস্যরা নিজেদের মধ্যে খুবই একই রকম। তাই এদের মূল সারণির নিচে আলাদা দুটি সারিতে লেখা হয়।
+## analogy
+হাইড্রোজেন যেন এমন একজন শিক্ষার্থী যে ফুটবল আর বিতর্ক দুটোতেই সমান ভালো। স্কুলকে তো কোনো একটি ক্লাবের ছবিতে রাখতেই হবে, তাই যেখানে তার বেশিরভাগ বন্ধু সেই ফুটবল ক্লাবে রাখা হলো, যদিও সবাই জানে বিতর্ক দলেও সে মানিয়ে যায়। হিলিয়াম যেন এমন শিক্ষার্থী যার রোল নম্বর তাকে ক শাখায় ফেলে, কিন্তু তার আগ্রহ ঘ শাখার সাথে হুবহু মেলে বলে শিক্ষক তাকে সেখানে সরিয়ে দেন।
+## definition
+**হাইড্রোজেনের ব্যতিক্রমী অবস্থান**: হাইড্রোজেন ক্ষার ধাতু (বাইরে একটি ইলেকট্রন, H⁺ গঠন, যোজনী ১) এবং হ্যালোজেন (শেল পূর্ণ করতে একটি ইলেকট্রন দরকার, H⁻ গঠন, দ্বিপরমাণুক অধাতু) উভয়ের সাথে মিল দেখায়। একে গ্রুপ ১-এ রাখা হয়, কিন্তু এটি ক্ষার ধাতু নয়।
+
+**হিলিয়ামের অবস্থান**: হিলিয়ামের (1s²) শেল সম্পূর্ণ পূর্ণ এবং এর ধর্ম নিষ্ক্রিয় গ্যাসের মতো, তাই একে গ্রুপ ২-এর বদলে গ্রুপ ১৮-এ রাখা হয়।
+
+**ল্যান্থানাইড ও অ্যাকটিনাইডের অবস্থান**: এরা পর্যায় ৬ ও ৭-এর গ্রুপ ৩-এর অংশ, কিন্তু সংখ্যায় অনেক এবং ধর্মে খুব কাছাকাছি হওয়ায় এদের মূল সারণির নিচে আলাদা দুটি সারিতে রাখা হয়।
+## why
+হিলিয়াম নিয়ম ১ মানে না কেন? গ্রুপের নিয়মগুলো আসলে বাইরের শেল কতটা পূর্ণ তা নিয়েই। অন্য সব মৌলের বাইরের শেল পূর্ণ হতে আটটি ইলেকট্রন লাগে (ns² np⁶)। কিন্তু প্রথম শেলে কোনো p উপশক্তিস্তর নেই; মাত্র ২টি ইলেকট্রনেই এটি পূর্ণ। তাই 1s² হলো হিলিয়ামের "পূর্ণ শেল", আর রাসায়নিক আচরণ মানে পূর্ণ শেলকে, সংখ্যা ২-কে নয়।
+## terms
+হাইড্রাইড আয়ন | H⁻, হাইড্রোজেন একটি ইলেকট্রন গ্রহণ করলে তৈরি হয় (যেমন NaH-এ)
+মৃৎক্ষার ধাতু | গ্রুপ ২-এর সক্রিয় ধাতু, দুটি ইলেকট্রন ত্যাগ করে
+নিষ্ক্রিয় গ্যাস | গ্রুপ ১৮, বাইরের শেল পূর্ণ
+ব্যতিক্রম | যা সাধারণ নিয়ম মানে না
+## real
+হাইড্রোজেনের দুই স্বভাবই কাজে লাগে। H⁺ হিসেবে এটি এসিড তৈরি করে, যেমন আমাদের পাকস্থলীর হাইড্রোক্লোরিক এসিড; আর ধাতব হাইড্রাইডে H⁻ হিসেবে এটি হাইড্রোজেন জ্বালানি জমিয়ে রাখার উপায় হিসেবে গবেষণা হচ্ছে। হিলিয়ামের পূর্ণ শেলের কারণে বৈশাখী মেলার বেলুনে এটি ব্যবহার একেবারে নিরাপদ, হাইড্রোজেনের মতো আগুন ধরে যাওয়ার ভয় নেই।
+## example
+প্রশ্ন: হাইড্রোজেন অধাতু হওয়া সত্ত্বেও একে গ্রুপ ১-এ রাখা হয় কেন?
+সমাধান: ক্ষার ধাতুগুলোর মতো (ns¹) হাইড্রোজেনের বাইরের (একমাত্র) শেলে একটি ইলেকট্রন। তাদের মতোই এটি ইলেকট্রনটি ত্যাগ করে ধনাত্মক আয়ন (H⁺) বানাতে পারে, যোজনী ১, আর একই ধাঁচের সংকেতের যৌগ গঠন করে (NaCl-এর মতো HCl)। এর বেশিরভাগ ধর্ম গ্রুপ ১-এর আচরণের মতো বলে একে সেখানে রাখা হয়।
+উত্তর: 1s¹ বিন্যাস এবং ক্ষার ধাতুর মতো H⁺ গঠন ও যোজনী ১ হওয়ার কারণে।
+## example
+প্রশ্ন: হিলিয়ামের বিন্যাস 1s²। একে গ্রুপ ২-এ রাখা হয় না কেন?
+সমাধান: গ্রুপ ২-এর মৌলগুলো (Be, Mg, Ca …) সক্রিয় ধাতু, বাইরের দুটি ইলেকট্রন ত্যাগ করে। হিলিয়ামের 1s² একটি পূর্ণ শেল, কারণ প্রথম শেলে মাত্র ২টি ইলেকট্রন ধরে। এটি Ne ও Ar-এর মতো নিষ্ক্রিয় গ্যাস।
+উত্তর: এর শেল পূর্ণ এবং এটি নিষ্ক্রিয় গ্যাসের মতো আচরণ করে, তাই একে গ্রুপ ১৮-এ রাখা হয়।
+## mistakes
+x হাইড্রোজেন গ্রুপ ১-এ আছে, তাই এটি ক্ষার ধাতু।
+v হাইড্রোজেন একটি অধাতব গ্যাস। শুধু 1s¹ বিন্যাস ও কিছু ধর্মের মিলের জন্য একে গ্রুপ ১-এ রাখা হয়েছে।
+x ল্যান্থানাইড ও অ্যাকটিনাইড কোনো গ্রুপের অংশ নয় বলে আলাদা রাখা হয়।
+v এরা গ্রুপ ৩-এর (পর্যায় ৬ ও ৭) অংশ; সারণিকে ছোট রাখতে আলাদা করে আঁকা হয়।
+## remember
+- H: গ্রুপ ১-এর মতো (1s¹, H⁺, যোজনী ১) এবং গ্রুপ ১৭-এর মতো (১টি e⁻ দরকার, H⁻, H₂); রাখা হয় গ্রুপ ১-এ।
+- He: 1s² একটি পূর্ণ শেল → গ্রুপ ১৮, গ্রুপ ২ নয়।
+- ল্যান্থানাইড (৫৭–৭১) ও অ্যাকটিনাইড (৮৯–১০৩): গ্রুপ ৩, আলাদা সারিতে দেখানো।
+## think
+ধরো এমন একটি জগৎ যেখানে প্রথম শেলে ৮টি ইলেকট্রন ধরে। তাহলেও কি হিলিয়ামের অবস্থান ব্যতিক্রম হতো? কেন বা কেন নয়?
+## quiz
+? হাইড্রোজেন হ্যালোজেনের সাথে মেলে, কারণ এটি:
+- সোডিয়ামের মতো একটি ইলেকট্রন রাখে
+* একটি ইলেকট্রন গ্রহণ করে শেল পূর্ণ করতে পারে
+- একটি ধাতু
+- এর দুটি শেল আছে
+= F ও Cl-এর মতো হাইড্রোজেনেরও শেল পূর্ণ করতে একটি ইলেকট্রন লাগে (H⁻ গঠন)।
+? হিলিয়ামকে গ্রুপ ১৮-এ রাখা হয়, কারণ:
+- এতে ১৮টি ইলেকট্রন আছে
+- এটি মৃৎক্ষার ধাতু
+* এর একমাত্র শেল পূর্ণ এবং এটি নিষ্ক্রিয়
+- এর পারমাণবিক ভর ১৮
+= পূর্ণ 1s² শেল একে নিষ্ক্রিয় গ্যাসের ধর্ম দেয়।
+? কোন সংকেতে হাইড্রোজেন হ্যালোজেনের মতো আচরণ করছে?
+- HCl
+- H₂O
+* NaH
+- H₂S
+= NaH-এ হাইড্রোজেন H⁻ হিসেবে থাকে, ঠিক যেমন NaCl-এ ক্লোরিন থাকে Cl⁻ হিসেবে।
+
+@@ 4.6
+@visual k4trend
+@related 4.4 4.7 5.9 5.11
+== en
+## what
+Some properties change in a regular, repeating way across the periodic table; they are called **periodic properties**. The main ones are **metallic and non-metallic character, atomic radius, ionisation energy, electron affinity and electronegativity**. Across a period (left → right) atoms get smaller and hold their electrons more tightly; down a group atoms get bigger and hold their outer electrons less tightly.
+## simple
+Everything in this lesson comes from one tug-of-war: the **nucleus pulls** on the outer electrons, and the **distance** (number of shells) weakens that pull.
+
+**Across a period (left → right):** the number of shells stays the same, but each step adds one more proton to the nucleus (and one more electron to the same outer shell). The stronger nucleus pulls the whole electron cloud closer. So atoms get **smaller** and hold their outer electrons **more tightly**.
+
+**Down a group (top → bottom):** each step adds a **whole new shell**. The outer electrons are much farther from the nucleus, and the inner shells screen (shield) them from its pull. The extra protons try to pull them back, but the new shell wins. So atoms get **bigger** and hold their outer electrons **less tightly**.
+
+Now let's look at each property.
+
+**a. Metallic character (ধাতব ধর্ম).** Traditionally, metals are shiny, ring when struck and conduct heat and electricity. In modern terms, a **metal is an element whose atoms lose one or more electrons to form positive ions**, and the tendency to lose electrons is its metallic character:
+Li → Li⁺ + e⁻
+The more easily an element loses electrons, the more metallic it is. Metallic character **decreases across a period** (Na is more metallic than Mg, Mg more than Al) and **increases down a group** (Cs is more metallic than Na).
+
+**b. Non-metallic character (অধাতব ধর্ম).** A **non-metal is an element whose atoms gain one or more electrons to form negative ions**:
+Cl + e⁻ → Cl⁻
+Non-metallic character **increases across a period** and **decreases down a group**. So the strongest non-metals are in the upper right (F, O, Cl) and the strongest metals in the lower left (Cs, Fr).
+
+Elements that sometimes lose and sometimes gain (or share) electrons are **metalloids** (অর্ধধাতু বা অপধাতু), such as silicon. In any period the elements go from metals on the left, through metalloids along the staircase line, to non-metals on the right. (Some books say metalloids are "in the middle" of a period; really they lie along a diagonal staircase, while the middle of periods 4 to 7 is full of transition metals.)
+
+**c. Atomic radius (পারমাণবিক ব্যাসার্ধ).** The size of an atom.
+- Across a period it **decreases**: in period 3, Na is the largest and Cl the smallest (noble gases are usually left out, because their radius is measured differently).
+- Down a group it **increases**: Li < Na < K < Rb < Cs.
+
+**d. Ionisation energy (আয়নিকরণ শক্তি).** The energy needed to remove one mole of electrons from one mole of gaseous atoms to form one mole of gaseous positive ions:
+Na(g) → Na⁺(g) + e⁻   (about 496 kJ needed per mole)
+A small atom holds its outer electron tightly, so it needs more energy. So:
+- Across a period ionisation energy generally **increases** (Na lowest, Ar highest in period 3).
+- Down a group it **decreases** (Li is highest among the alkali metals; F highest among the halogens).
+Metals have low ionisation energies; that is exactly why they lose electrons easily.
+
+**e. Electron affinity (ইলেকট্রন আসক্তি).** The energy **released** when one mole of electrons is added to one mole of gaseous atoms to form one mole of gaseous negative ions:
+Cl(g) + e⁻ → Cl⁻(g)   (about 349 kJ released per mole)
+A small atom with a nearly full outer shell attracts an extra electron strongly. So electron affinity generally **increases across a period** (halogens are highest) and **decreases down a group**.
+
+Electron affinity has more exceptions than the other properties. Chlorine's value (349) is actually a little **higher than fluorine's** (328): the fluorine atom is so tiny that its electrons crowd and repel the newcomer. Group 2 elements (full ns²), nitrogen (half-full 2p³) and the noble gases (full shells) have almost **no tendency** to accept an extra electron, so for them the size rule does not work.
+
+**f. Electronegativity (তড়িৎ ঋণাত্মকতা).** When two atoms are joined by a covalent bond, each atom pulls the shared pair of electrons towards itself. This pulling power is its electronegativity (measured on the Pauling scale, with no unit).
+- Across a period it **increases**: in period 3, Na (0.9) is lowest and Cl (3.2) highest.
+- Down a group it **decreases**.
+**Fluorine (4.0) is the most electronegative element of all**; caesium and francium are the least.
+
+**Summary of the trends:**
+- Across a period →: radius ↓, ionisation energy ↑, electron affinity ↑, electronegativity ↑, metallic character ↓, non-metallic character ↑
+- Down a group ↓: radius ↑, ionisation energy ↓, electron affinity ↓, electronegativity ↓, metallic character ↑, non-metallic character ↓
+## analogy
+Think of a magnet holding iron pins. Across a period, you keep using a stronger magnet (more protons) but the pins stay at the same distance: they are pulled closer and are harder to pull off. Down a group, you add a thick book between the magnet and the pins each time (a new shell plus shielding). Even with a slightly stronger magnet, the pins are far away and easy to pull off. Pulling a pin off is ionisation energy; how strongly the magnet grabs a new pin is electron affinity.
+## definition
+**Periodic properties (পর্যায়বৃত্ত ধর্ম)**: properties of elements that change regularly and repeat periodically with atomic number.
+
+**Metallic character (ধাতব ধর্ম)**: the tendency of an element's atoms to lose electrons and form positive ions.
+**Non-metallic character (অধাতব ধর্ম)**: the tendency of an element's atoms to gain electrons and form negative ions.
+
+**Atomic radius (পারমাণবিক ব্যাসার্ধ)**: the distance from the centre of the nucleus to the outermost shell of electrons (in practice, half the distance between the nuclei of two bonded identical atoms).
+
+**Ionisation energy (আয়নিকরণ শক্তি)**: the energy required to remove one mole of electrons from one mole of gaseous atoms of an element to form one mole of gaseous positive ions.
+
+**Electron affinity (ইলেকট্রন আসক্তি)**: the energy released when one mole of electrons is added to one mole of gaseous atoms of an element to form one mole of gaseous negative ions.
+
+**Electronegativity (তড়িৎ ঋণাত্মকতা)**: the ability of an atom in a covalent bond to attract the shared pair of electrons towards itself.
+## why
+All these trends follow from two things: the **nuclear charge** (number of protons) and the **distance and shielding** of the outer electrons. Across a period the nuclear charge rises while the shell stays the same, so the pull on outer electrons increases: smaller atoms, higher ionisation energy, higher electronegativity, more non-metallic. Down a group each new shell puts the outer electrons farther away and behind more inner electrons, so the pull decreases even though there are more protons: bigger atoms, lower ionisation energy, lower electronegativity, more metallic.
+## terms
+Periodic property (পর্যায়বৃত্ত ধর্ম) | A property that changes regularly across the table
+Metalloid (অপধাতু) | Element that sometimes loses and sometimes gains or shares electrons (Si)
+Atomic radius (পারমাণবিক ব্যাসার্ধ) | Size of an atom
+Ionisation energy (আয়নিকরণ শক্তি) | Energy needed to remove electrons: X(g) → X⁺(g) + e⁻
+Electron affinity (ইলেকট্রন আসক্তি) | Energy released when electrons are added: X(g) + e⁻ → X⁻(g)
+Electronegativity (তড়িৎ ঋণাত্মকতা) | Pull of a bonded atom on a shared electron pair
+Shielding | Inner electrons screening outer electrons from the nucleus
+## formula
+$$ Na(g) → Na⁺(g) + e⁻   (ionisation energy ≈ 496 kJ/mol)
+$$ Cl(g) + e⁻ → Cl⁻(g)   (electron affinity ≈ 349 kJ/mol released)
+! Across a period: radius ↓; ionisation energy, electron affinity, electronegativity ↑; metallic character ↓
+! Down a group: radius ↑; ionisation energy, electron affinity, electronegativity ↓; metallic character ↑
+## visual
+Choose a property and a period or group. The bars show real values; watch the trend, then look for the small exceptions the notes point out.
+## real
+Why is caesium used in atomic clocks and in the light-sensitive cells of some cameras? It has the lowest ionisation energy of the stable elements, so light can knock electrons off it easily. Fluorine, the most electronegative element, grabs electrons so strongly that its compounds are extremely stable; the fluoride in toothpaste sold in Bangladesh makes tooth enamel harder to dissolve.
+## example
+Q: Arrange Na, Mg, Al and Si in order of increasing ionisation energy and explain the general trend.
+Given: all four are in period 3 (Na 496, Mg 738, Al 578, Si 787 kJ/mol)
+Solution: Across period 3 the nuclear charge increases and the radius decreases, so the outer electrons are held more tightly. Na, the largest atom, has the lowest value; Si, the smallest of the four, has the highest.
+> Aluminium is a small exception: its outer electron is alone in a 3p subshell, a little farther from the nucleus than magnesium's 3s electrons, so it is easier to remove.
+Answer: Na < Al < Mg < Si. In general ionisation energy increases across a period, with Si highest and Na lowest.
+## example
+Q: Which has the higher ionisation energy, magnesium or calcium? Explain.
+Given: Mg (Z = 12): … 3s²; Ca (Z = 20): … 4s²
+Solution: Both are in group 2. Calcium has one more shell, so its outer electrons are farther from the nucleus and better shielded. They are removed more easily.
+Answer: Magnesium has the higher ionisation energy (738 kJ/mol, compared with 590 kJ/mol for calcium).
+## example
+Q: Among the elements of period 3, which has the highest electronegativity and which the lowest? Which is the most electronegative element in the whole table?
+Solution: Electronegativity increases across a period, so in period 3 chlorine (3.2) is highest and sodium (0.9) lowest. It also decreases down a group, so the most electronegative element is at the top right: fluorine (4.0).
+Answer: Highest in period 3: Cl; lowest: Na. Most electronegative of all: F.
+## mistakes
+x Atoms get bigger across a period because they have more electrons.
+v They get smaller: the extra electrons go into the same shell while the extra protons pull the whole cloud closer.
+x Down a group, more protons mean a stronger pull, so atoms get smaller.
+v A whole new shell is added each time, which outweighs the extra protons, so atoms get bigger.
+x Fluorine has the highest electron affinity.
+v Chlorine's electron affinity (349 kJ/mol) is slightly higher than fluorine's (328). Fluorine has the highest electronegativity.
+x Every trend is perfectly smooth, e.g. in group 2 beryllium has a large electron affinity.
+v The size rule gives the general pattern only. Group 2 elements hardly accept an extra electron at all, so comparing their electron affinities by size is not meaningful (some books still set this as a problem).
+## remember
+- Across a period: radius ↓, IE ↑, EA ↑, EN ↑, metallic ↓, non-metallic ↑.
+- Down a group: radius ↑, IE ↓, EA ↓, EN ↓, metallic ↑, non-metallic ↓.
+- Cause: more protons, same shell (across); new shell and shielding (down).
+- Most electronegative: F. Highest EA: Cl. Most metallic: Cs/Fr (lower left).
+- Metals lose electrons (low IE); non-metals gain electrons (high EA, high EN).
+## think
+Potassium is more reactive than sodium, but fluorine is more reactive than chlorine. One goes up the group, the other down. Using ionisation energy and electronegativity, explain why "most reactive" is at the bottom for metals but at the top for non-metals.
+## quiz
+? Across period 3 from Na to Cl, the atomic radius:
+- Increases
+* Decreases
+- Stays the same
+- First increases, then decreases
+= More protons pull the same shell closer.
+? Which alkali metal has the highest ionisation energy?
+* Li
+- Na
+- K
+- Cs
+= Lithium is the smallest, so its outer electron is held most tightly.
+? The most electronegative element is:
+- Chlorine
+- Oxygen
+* Fluorine
+- Caesium
+= Fluorine (4.0 on the Pauling scale), at the top right of the table.
+? Metallic character increases:
+- Across a period from left to right
+* Down a group
+- Up a group
+- Towards the upper right corner
+= Down a group atoms are bigger and lose electrons more easily.
+? Energy released when a gaseous atom gains an electron is called:
+- Ionisation energy
+- Electronegativity
+* Electron affinity
+- Atomic radius
+= X(g) + e⁻ → X⁻(g) releases the electron affinity.
+== bn
+## what
+পর্যায় সারণিতে কিছু ধর্ম নিয়মিতভাবে, পর্যায়ক্রমে বদলায়; এদের **পর্যায়বৃত্ত ধর্ম** বলে। প্রধানগুলো হলো **ধাতব ও অধাতব ধর্ম, পারমাণবিক ব্যাসার্ধ, আয়নিকরণ শক্তি, ইলেকট্রন আসক্তি ও তড়িৎ ঋণাত্মকতা**। একটি পর্যায়ে বাম থেকে ডানে পরমাণু ছোট হয় আর ইলেকট্রনকে আরও শক্ত করে ধরে; গ্রুপে ওপর থেকে নিচে পরমাণু বড় হয় আর বাইরের ইলেকট্রনকে আলগা করে ধরে।
+## simple
+এই পাঠের সবকিছু একটি দড়ি টানাটানি থেকে আসে: **নিউক্লিয়াস টানে** বাইরের ইলেকট্রনগুলোকে, আর **দূরত্ব** (শেলের সংখ্যা) সেই টানকে দুর্বল করে।
+
+**পর্যায় বরাবর (বাম → ডান):** শেলের সংখ্যা একই থাকে, কিন্তু প্রতি ধাপে নিউক্লিয়াসে একটি করে প্রোটন বাড়ে (আর একই বাইরের শেলে একটি করে ইলেকট্রন)। শক্তিশালী নিউক্লিয়াস পুরো ইলেকট্রন মেঘকে কাছে টেনে আনে। তাই পরমাণু **ছোট** হয় আর বাইরের ইলেকট্রনকে **আরও শক্ত** করে ধরে।
+
+**গ্রুপ বরাবর (ওপর → নিচ):** প্রতি ধাপে **একটি পুরো নতুন শেল** যোগ হয়। বাইরের ইলেকট্রনগুলো নিউক্লিয়াস থেকে অনেক দূরে চলে যায়, আর ভেতরের শেলগুলো তাদের নিউক্লিয়াসের টান থেকে আড়াল করে (আবরণী প্রভাব)। বাড়তি প্রোটনগুলো টেনে রাখতে চায়, কিন্তু নতুন শেলের প্রভাবই জেতে। তাই পরমাণু **বড়** হয় আর বাইরের ইলেকট্রনকে **আলগা** করে ধরে।
+
+এবার একে একে ধর্মগুলো দেখি।
+
+**ক. ধাতব ধর্ম।** প্রচলিতভাবে ধাতু চকচকে, আঘাত করলে ধাতব শব্দ করে, তাপ ও বিদ্যুৎ পরিবহন করে। আধুনিক সংজ্ঞায়, **যে মৌলের পরমাণু এক বা একাধিক ইলেকট্রন ত্যাগ করে ধনাত্মক আয়নে পরিণত হয় তা ধাতু**, আর ইলেকট্রন ত্যাগের এই প্রবণতাই ধাতব ধর্ম:
+Li → Li⁺ + e⁻
+যে মৌল যত সহজে ইলেকট্রন ত্যাগ করে, তার ধাতব ধর্ম তত বেশি। ধাতব ধর্ম **পর্যায় বরাবর কমে** (Na-এর ধাতব ধর্ম Mg-এর চেয়ে বেশি, Mg-এর Al-এর চেয়ে বেশি) এবং **গ্রুপ বরাবর নিচে বাড়ে** (Cs, Na-এর চেয়ে বেশি ধাতব)।
+
+**খ. অধাতব ধর্ম।** **যে মৌলের পরমাণু এক বা একাধিক ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়নে পরিণত হয় তা অধাতু**:
+Cl + e⁻ → Cl⁻
+অধাতব ধর্ম **পর্যায় বরাবর বাড়ে** এবং **গ্রুপ বরাবর নিচে কমে**। তাই সবচেয়ে শক্তিশালী অধাতু থাকে ওপরের ডানে (F, O, Cl), আর সবচেয়ে শক্তিশালী ধাতু নিচের বামে (Cs, Fr)।
+
+যেসব মৌল কখনো ইলেকট্রন ত্যাগ করে আবার কখনো গ্রহণ (বা ভাগাভাগি) করে, তারা **অর্ধধাতু বা অপধাতু**, যেমন সিলিকন। যেকোনো পর্যায়ে বামে ধাতু, সিঁড়ি-রেখা বরাবর অপধাতু, আর ডানে অধাতু। (কোনো কোনো বইয়ে বলা হয় অপধাতু পর্যায়ের "মাঝখানে" থাকে; আসলে এরা থাকে আড়াআড়ি একটি সিঁড়ি বরাবর, আর পর্যায় ৪ থেকে ৭-এর মাঝখান ভরা অবস্থান্তর ধাতুতে।)
+
+**গ. পারমাণবিক ব্যাসার্ধ।** পরমাণুর আকার।
+- পর্যায় বরাবর **কমে**: পর্যায় ৩-এ Na সবচেয়ে বড়, Cl সবচেয়ে ছোট (নিষ্ক্রিয় গ্যাসগুলো সাধারণত বাদ রাখা হয়, কারণ এদের ব্যাসার্ধ ভিন্নভাবে মাপা হয়)।
+- গ্রুপ বরাবর নিচে **বাড়ে**: Li < Na < K < Rb < Cs।
+
+**ঘ. আয়নিকরণ শক্তি।** গ্যাসীয় অবস্থায় এক মোল পরমাণু থেকে এক মোল ইলেকট্রন সরিয়ে এক মোল গ্যাসীয় ধনাত্মক আয়ন বানাতে যে শক্তি লাগে:
+Na(g) → Na⁺(g) + e⁻   (প্রতি মোলে প্রায় ৪৯৬ kJ লাগে)
+ছোট পরমাণু বাইরের ইলেকট্রনকে শক্ত করে ধরে রাখে, তাই বেশি শক্তি লাগে। তাই:
+- পর্যায় বরাবর আয়নিকরণ শক্তি সাধারণত **বাড়ে** (পর্যায় ৩-এ Na সবচেয়ে কম, Ar সবচেয়ে বেশি)।
+- গ্রুপ বরাবর নিচে **কমে** (ক্ষার ধাতুগুলোর মধ্যে Li-এর সবচেয়ে বেশি; হ্যালোজেনগুলোর মধ্যে F-এর)।
+ধাতুর আয়নিকরণ শক্তি কম; ঠিক এজন্যই এরা সহজে ইলেকট্রন ত্যাগ করে।
+
+**ঙ. ইলেকট্রন আসক্তি।** গ্যাসীয় অবস্থায় এক মোল পরমাণুতে এক মোল ইলেকট্রন যোগ করে এক মোল গ্যাসীয় ঋণাত্মক আয়ন বানালে যে শক্তি **নির্গত** হয়:
+Cl(g) + e⁻ → Cl⁻(g)   (প্রতি মোলে প্রায় ৩৪৯ kJ নির্গত হয়)
+প্রায়-পূর্ণ বাইরের শেলের ছোট পরমাণু বাড়তি ইলেকট্রনকে জোরে টানে। তাই ইলেকট্রন আসক্তি সাধারণত **পর্যায় বরাবর বাড়ে** (হ্যালোজেনের সবচেয়ে বেশি) এবং **গ্রুপ বরাবর নিচে কমে**।
+
+অন্য ধর্মগুলোর চেয়ে ইলেকট্রন আসক্তিতে ব্যতিক্রম বেশি। ক্লোরিনের মান (৩৪৯) আসলে **ফ্লোরিনের (৩২৮) চেয়ে একটু বেশি**: ফ্লোরিন পরমাণু এত ছোট যে এর ইলেকট্রনগুলো গাদাগাদি করে থেকে নতুন ইলেকট্রনকে বিকর্ষণ করে। গ্রুপ ২-এর মৌল (পূর্ণ ns²), নাইট্রোজেন (অর্ধপূর্ণ 2p³) আর নিষ্ক্রিয় গ্যাসের (পূর্ণ শেল) বাড়তি ইলেকট্রন নেওয়ার প্রায় **কোনো প্রবণতাই নেই**, তাই এদের বেলায় আকারের নিয়ম খাটে না।
+
+**চ. তড়িৎ ঋণাত্মকতা।** দুটি পরমাণু সমযোজী বন্ধনে যুক্ত থাকলে প্রতিটি পরমাণু ভাগাভাগি করা ইলেকট্রন জোড়াটিকে নিজের দিকে টানে। এই টানার ক্ষমতাই তড়িৎ ঋণাত্মকতা (পলিং স্কেলে মাপা হয়, কোনো একক নেই)।
+- পর্যায় বরাবর **বাড়ে**: পর্যায় ৩-এ Na (০.৯) সবচেয়ে কম, Cl (৩.২) সবচেয়ে বেশি।
+- গ্রুপ বরাবর নিচে **কমে**।
+**সব মৌলের মধ্যে ফ্লোরিনের (৪.০) তড়িৎ ঋণাত্মকতা সবচেয়ে বেশি**; সিজিয়াম ও ফ্রানসিয়ামের সবচেয়ে কম।
+
+**প্রবণতার সারসংক্ষেপ:**
+- পর্যায় বরাবর →: ব্যাসার্ধ ↓, আয়নিকরণ শক্তি ↑, ইলেকট্রন আসক্তি ↑, তড়িৎ ঋণাত্মকতা ↑, ধাতব ধর্ম ↓, অধাতব ধর্ম ↑
+- গ্রুপ বরাবর ↓: ব্যাসার্ধ ↑, আয়নিকরণ শক্তি ↓, ইলেকট্রন আসক্তি ↓, তড়িৎ ঋণাত্মকতা ↓, ধাতব ধর্ম ↑, অধাতব ধর্ম ↓
+## analogy
+একটি চুম্বক লোহার আলপিন ধরে রেখেছে, ভাবো। পর্যায় বরাবর তুমি ক্রমেই শক্তিশালী চুম্বক (বেশি প্রোটন) নিচ্ছ, কিন্তু আলপিনগুলো একই দূরত্বে: এরা কাছে টেনে আসে আর ছাড়ানো কঠিন হয়। গ্রুপ বরাবর প্রতিবার চুম্বক আর আলপিনের মাঝে একটি মোটা বই রাখছ (নতুন শেল ও আবরণ)। চুম্বক একটু শক্তিশালী হলেও আলপিনগুলো দূরে, সহজেই ছাড়ানো যায়। আলপিন ছাড়ানো হলো আয়নিকরণ শক্তি; নতুন আলপিন চুম্বক কতটা জোরে ধরে তা ইলেকট্রন আসক্তি।
+## definition
+**পর্যায়বৃত্ত ধর্ম (Periodic properties)**: মৌলের যেসব ধর্ম পারমাণবিক সংখ্যার সাথে নিয়মিতভাবে বদলায় ও পর্যায়ক্রমে ফিরে আসে।
+
+**ধাতব ধর্ম**: মৌলের পরমাণুর ইলেকট্রন ত্যাগ করে ধনাত্মক আয়নে পরিণত হওয়ার প্রবণতা।
+**অধাতব ধর্ম**: মৌলের পরমাণুর ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়নে পরিণত হওয়ার প্রবণতা।
+
+**পারমাণবিক ব্যাসার্ধ (Atomic radius)**: নিউক্লিয়াসের কেন্দ্র থেকে সবচেয়ে বাইরের ইলেকট্রন শেল পর্যন্ত দূরত্ব (ব্যবহারিকভাবে, বন্ধনে যুক্ত দুটি একই পরমাণুর নিউক্লিয়াসের মধ্যবর্তী দূরত্বের অর্ধেক)।
+
+**আয়নিকরণ শক্তি (Ionisation energy)**: গ্যাসীয় অবস্থায় কোনো মৌলের এক মোল পরমাণু থেকে এক মোল ইলেকট্রন অপসারণ করে এক মোল গ্যাসীয় ধনাত্মক আয়নে পরিণত করতে যে শক্তির প্রয়োজন হয়।
+
+**ইলেকট্রন আসক্তি (Electron affinity)**: গ্যাসীয় অবস্থায় কোনো মৌলের এক মোল পরমাণুতে এক মোল ইলেকট্রন প্রবেশ করিয়ে এক মোল গ্যাসীয় ঋণাত্মক আয়নে পরিণত করতে যে শক্তি নির্গত হয়।
+
+**তড়িৎ ঋণাত্মকতা (Electronegativity)**: সমযোজী বন্ধনে যুক্ত কোনো পরমাণুর বন্ধনের ইলেকট্রন জোড়াকে নিজের দিকে আকর্ষণ করার ক্ষমতা।
+## why
+এসব প্রবণতার পেছনে দুটি জিনিস: **নিউক্লিয়াসের আধান** (প্রোটন সংখ্যা) আর বাইরের ইলেকট্রনের **দূরত্ব ও আবরণ**। পর্যায় বরাবর নিউক্লিয়াসের আধান বাড়ে কিন্তু শেল একই থাকে, তাই বাইরের ইলেকট্রনের ওপর টান বাড়ে: পরমাণু ছোট, আয়নিকরণ শক্তি বেশি, তড়িৎ ঋণাত্মকতা বেশি, অধাতব ধর্ম বেশি। গ্রুপ বরাবর প্রতিটি নতুন শেল বাইরের ইলেকট্রনকে আরও দূরে আর বেশি ভেতরের ইলেকট্রনের আড়ালে ঠেলে দেয়, তাই প্রোটন বাড়লেও টান কমে: পরমাণু বড়, আয়নিকরণ শক্তি কম, তড়িৎ ঋণাত্মকতা কম, ধাতব ধর্ম বেশি।
+## terms
+পর্যায়বৃত্ত ধর্ম | সারণিতে নিয়মিতভাবে বদলানো ধর্ম
+অপধাতু (Metalloid) | যে মৌল কখনো ইলেকট্রন ত্যাগ, কখনো গ্রহণ বা ভাগাভাগি করে (Si)
+পারমাণবিক ব্যাসার্ধ | পরমাণুর আকার
+আয়নিকরণ শক্তি | ইলেকট্রন সরাতে লাগা শক্তি: X(g) → X⁺(g) + e⁻
+ইলেকট্রন আসক্তি | ইলেকট্রন যোগ হলে নির্গত শক্তি: X(g) + e⁻ → X⁻(g)
+তড়িৎ ঋণাত্মকতা | বন্ধনে যুক্ত পরমাণুর ভাগাভাগি করা ইলেকট্রন জোড়ার ওপর টান
+আবরণী প্রভাব (Shielding) | ভেতরের ইলেকট্রন বাইরের ইলেকট্রনকে নিউক্লিয়াসের টান থেকে আড়াল করে
+## formula
+$$ Na(g) → Na⁺(g) + e⁻   (আয়নিকরণ শক্তি ≈ ৪৯৬ kJ/mol)
+$$ Cl(g) + e⁻ → Cl⁻(g)   (ইলেকট্রন আসক্তি ≈ ৩৪৯ kJ/mol নির্গত)
+! পর্যায় বরাবর: ব্যাসার্ধ ↓; আয়নিকরণ শক্তি, ইলেকট্রন আসক্তি, তড়িৎ ঋণাত্মকতা ↑; ধাতব ধর্ম ↓
+! গ্রুপ বরাবর নিচে: ব্যাসার্ধ ↑; আয়নিকরণ শক্তি, ইলেকট্রন আসক্তি, তড়িৎ ঋণাত্মকতা ↓; ধাতব ধর্ম ↑
+## visual
+একটি ধর্ম আর একটি পর্যায় বা গ্রুপ বেছে নাও। দণ্ডগুলো আসল মান দেখায়; প্রবণতাটি লক্ষ করো, তারপর নোটে দেখানো ছোট ব্যতিক্রমগুলো খুঁজে বের করো।
+## real
+সিজিয়াম কেন পারমাণবিক ঘড়িতে আর কিছু ক্যামেরার আলো-সংবেদী কোষে ব্যবহৃত হয়? সুস্থিত মৌলগুলোর মধ্যে এর আয়নিকরণ শক্তি সবচেয়ে কম, তাই আলো সহজেই এর ইলেকট্রন ছিটকে দিতে পারে। সবচেয়ে তড়িৎ ঋণাত্মক মৌল ফ্লোরিন এত জোরে ইলেকট্রন টানে যে এর যৌগগুলো খুবই সুস্থিত; বাংলাদেশে বিক্রি হওয়া টুথপেস্টের ফ্লোরাইড দাঁতের এনামেলকে সহজে ক্ষয় হতে দেয় না।
+## example
+প্রশ্ন: Na, Mg, Al ও Si-কে আয়নিকরণ শক্তির ঊর্ধ্বক্রমে সাজাও এবং সাধারণ প্রবণতাটি ব্যাখ্যা করো।
+দেওয়া আছে: চারটিই পর্যায় ৩-এর (Na ৪৯৬, Mg ৭৩৮, Al ৫৭৮, Si ৭৮৭ kJ/mol)
+সমাধান: পর্যায় ৩ বরাবর নিউক্লিয়াসের আধান বাড়ে আর ব্যাসার্ধ কমে, তাই বাইরের ইলেকট্রন আরও শক্ত করে ধরা থাকে। সবচেয়ে বড় পরমাণু Na-এর মান সবচেয়ে কম; চারটির মধ্যে সবচেয়ে ছোট Si-এর মান সবচেয়ে বেশি।
+> অ্যালুমিনিয়াম একটি ছোট ব্যতিক্রম: এর বাইরের ইলেকট্রনটি 3p উপশক্তিস্তরে একা, ম্যাগনেসিয়ামের 3s ইলেকট্রনের চেয়ে নিউক্লিয়াস থেকে একটু দূরে, তাই সরানো সহজ।
+উত্তর: Na < Al < Mg < Si। সাধারণভাবে পর্যায় বরাবর আয়নিকরণ শক্তি বাড়ে; Si-এর সবচেয়ে বেশি, Na-এর সবচেয়ে কম।
+## example
+প্রশ্ন: ম্যাগনেসিয়াম ও ক্যালসিয়ামের মধ্যে কোনটির আয়নিকরণ শক্তি বেশি? ব্যাখ্যা করো।
+দেওয়া আছে: Mg (Z = ১২): … 3s²; Ca (Z = ২০): … 4s²
+সমাধান: দুটিই গ্রুপ ২-এর। ক্যালসিয়ামের একটি শেল বেশি, তাই এর বাইরের ইলেকট্রনগুলো নিউক্লিয়াস থেকে দূরে এবং বেশি আবৃত। এদের সহজে সরানো যায়।
+উত্তর: ম্যাগনেসিয়ামের আয়নিকরণ শক্তি বেশি (৭৩৮ kJ/mol, যেখানে ক্যালসিয়ামের ৫৯০ kJ/mol)।
+## example
+প্রশ্ন: পর্যায় ৩-এর মৌলগুলোর মধ্যে কোনটির তড়িৎ ঋণাত্মকতা সবচেয়ে বেশি আর কোনটির সবচেয়ে কম? পুরো সারণিতে সবচেয়ে তড়িৎ ঋণাত্মক মৌল কোনটি?
+সমাধান: পর্যায় বরাবর তড়িৎ ঋণাত্মকতা বাড়ে, তাই পর্যায় ৩-এ ক্লোরিনের (৩.২) সবচেয়ে বেশি, সোডিয়ামের (০.৯) সবচেয়ে কম। গ্রুপ বরাবর নিচে এটি কমে, তাই সবচেয়ে তড়িৎ ঋণাত্মক মৌল ওপরের ডানে: ফ্লোরিন (৪.০)।
+উত্তর: পর্যায় ৩-এ সবচেয়ে বেশি: Cl; সবচেয়ে কম: Na। সবার মধ্যে সবচেয়ে তড়িৎ ঋণাত্মক: F।
+## mistakes
+x পর্যায় বরাবর ইলেকট্রন বাড়ে বলে পরমাণু বড় হয়।
+v পরমাণু ছোট হয়: বাড়তি ইলেকট্রনগুলো একই শেলে যায়, আর বাড়তি প্রোটনগুলো পুরো মেঘকে কাছে টেনে আনে।
+x গ্রুপ বরাবর নিচে প্রোটন বেশি মানে টান বেশি, তাই পরমাণু ছোট হয়।
+v প্রতিবার একটি পুরো নতুন শেল যোগ হয়, যার প্রভাব বাড়তি প্রোটনের চেয়ে বেশি, তাই পরমাণু বড় হয়।
+x ফ্লোরিনের ইলেকট্রন আসক্তি সবচেয়ে বেশি।
+v ক্লোরিনের ইলেকট্রন আসক্তি (৩৪৯ kJ/mol) ফ্লোরিনের (৩২৮) চেয়ে সামান্য বেশি। ফ্লোরিনের সবচেয়ে বেশি হলো তড়িৎ ঋণাত্মকতা।
+x সব প্রবণতাই পুরোপুরি মসৃণ, যেমন গ্রুপ ২-এ বেরিলিয়ামের ইলেকট্রন আসক্তি অনেক বেশি।
+v আকারের নিয়ম শুধু সাধারণ ছবিটা দেয়। গ্রুপ ২-এর মৌলগুলো বাড়তি ইলেকট্রন প্রায় নেয়ই না, তাই আকার দিয়ে এদের ইলেকট্রন আসক্তির তুলনা অর্থবহ নয় (কোনো কোনো বইয়ে তবু এমন সমস্যা দেওয়া থাকে)।
+## remember
+- পর্যায় বরাবর: ব্যাসার্ধ ↓, আয়নিকরণ শক্তি ↑, ইলেকট্রন আসক্তি ↑, তড়িৎ ঋণাত্মকতা ↑, ধাতব ↓, অধাতব ↑।
+- গ্রুপ বরাবর নিচে: ব্যাসার্ধ ↑, আয়নিকরণ শক্তি ↓, ইলেকট্রন আসক্তি ↓, তড়িৎ ঋণাত্মকতা ↓, ধাতব ↑, অধাতব ↓।
+- কারণ: বেশি প্রোটন, একই শেল (পর্যায়ে); নতুন শেল ও আবরণ (গ্রুপে)।
+- সবচেয়ে তড়িৎ ঋণাত্মক: F। সবচেয়ে বেশি ইলেকট্রন আসক্তি: Cl। সবচেয়ে ধাতব: Cs/Fr (নিচের বামে)।
+- ধাতু ইলেকট্রন ত্যাগ করে (আয়নিকরণ শক্তি কম); অধাতু ইলেকট্রন গ্রহণ করে (ইলেকট্রন আসক্তি ও তড়িৎ ঋণাত্মকতা বেশি)।
+## think
+পটাশিয়াম সোডিয়ামের চেয়ে বেশি সক্রিয়, কিন্তু ফ্লোরিন ক্লোরিনের চেয়ে বেশি সক্রিয়। একটিতে গ্রুপের নিচে, অন্যটিতে ওপরে। আয়নিকরণ শক্তি ও তড়িৎ ঋণাত্মকতা দিয়ে ব্যাখ্যা করো, ধাতুর বেলায় "সবচেয়ে সক্রিয়" কেন নিচে অথচ অধাতুর বেলায় ওপরে।
+## quiz
+? পর্যায় ৩-এ Na থেকে Cl-এর দিকে পারমাণবিক ব্যাসার্ধ:
+- বাড়ে
+* কমে
+- একই থাকে
+- প্রথমে বাড়ে, পরে কমে
+= বেশি প্রোটন একই শেলকে কাছে টেনে আনে।
+? কোন ক্ষার ধাতুর আয়নিকরণ শক্তি সবচেয়ে বেশি?
+* Li
+- Na
+- K
+- Cs
+= লিথিয়াম সবচেয়ে ছোট, তাই এর বাইরের ইলেকট্রন সবচেয়ে শক্ত করে ধরা।
+? সবচেয়ে তড়িৎ ঋণাত্মক মৌল:
+- ক্লোরিন
+- অক্সিজেন
+* ফ্লোরিন
+- সিজিয়াম
+= ফ্লোরিন (পলিং স্কেলে ৪.০), সারণির ওপরের ডানে।
+? ধাতব ধর্ম বাড়ে:
+- পর্যায় বরাবর বাম থেকে ডানে
+* গ্রুপ বরাবর নিচের দিকে
+- গ্রুপ বরাবর ওপরের দিকে
+- ওপরের ডান কোণের দিকে
+= গ্রুপের নিচে পরমাণু বড়, তাই সহজে ইলেকট্রন ত্যাগ করে।
+? গ্যাসীয় পরমাণু ইলেকট্রন গ্রহণ করলে নির্গত শক্তিকে বলে:
+- আয়নিকরণ শক্তি
+- তড়িৎ ঋণাত্মকতা
+* ইলেকট্রন আসক্তি
+- পারমাণবিক ব্যাসার্ধ
+= X(g) + e⁻ → X⁻(g) বিক্রিয়ায় ইলেকট্রন আসক্তির সমান শক্তি নির্গত হয়।
+
+@@ 4.7
+@visual k4family
+@related 4.4 4.6 4.9 5.7
+== en
+## what
+Several groups have special family names based on their properties: **alkali metals** (group 1, except H), **alkaline-earth metals** (group 2), **coinage metals** (Cu, Ag, Au in group 11), **transition metals** (d-block elements with partly filled d orbitals), **halogens** (group 17) and **noble or inert gases** (group 18).
+## simple
+Apart from the broad labels metal, non-metal and metalloid, chemists gave nicknames to some families. Each name tells a small story.
+
+**1. Alkali metals (ক্ষার ধাতু), group 1: Li, Na, K, Rb, Cs, Fr.** Group 1 has seven elements; the six other than hydrogen are the alkali metals. They are soft, shiny metals that can be cut with a knife, and they react with water, giving off hydrogen gas and forming a strongly alkaline solution (a hydroxide):
+2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g)
+That is why they are called *alkali* metals. (Some books say they "dissolve" in water; strictly they **react** with it.) They have one outer electron (ns¹), lose it very easily and are so reactive that they are stored under kerosene or paraffin oil. Reactivity increases down the group.
+
+**2. Alkaline-earth metals (মৃৎক্ষার ধাতু), group 2: Be, Mg, Ca, Sr, Ba, Ra.** "Earth" was an old word for substances found in the soil. Compounds of these metals are common in the earth's crust (limestone and chalk are calcium carbonate, CaCO₃; dolomite contains magnesium), and their oxides and hydroxides are alkaline, for example calcium hydroxide, Ca(OH)₂:
+Ca(s) + 2H₂O(l) → Ca(OH)₂(aq) + H₂(g)
+Hence the name *alkaline-earth* metals. They have two outer electrons (ns²) and form M²⁺ ions.
+
+**3. Coinage metals (মুদ্রা ধাতু), group 11: Cu, Ag, Au.** Group 11 contains copper, silver, gold and roentgenium. The first three have been used to make coins since ancient times, because they are fairly unreactive, do not rust away, are attractive and easy to shape. Roentgenium is a synthetic, radioactive element and is not a coinage metal.
+
+**4. Halogens (হ্যালোজেন), group 17: F, Cl, Br, I, At, Ts.** "Halogen" means **salt-former**. They react with metals to make salts: sodium and chlorine give sodium chloride, our table salt (2Na + Cl₂ → 2NaCl); sodium and fluorine give sodium fluoride. Sea water is the main natural source of chloride and bromide salts. Halogens have seven outer electrons (ns² np⁵) and share electrons to form diatomic molecules: F₂ and Cl₂ are gases, Br₂ is a liquid and I₂ a solid at room temperature. A halogen in general is written with the symbol **X**.
+
+**5. Noble gases or inert gases (নিষ্ক্রিয় গ্যাস), group 18: He, Ne, Ar, Kr, Xe, Rn, Og.** Their outer shells are full (He 1s²; the others ns² np⁶), so they have almost no tendency to lose, gain or share electrons. They exist as single atoms and are all gases at room temperature. Because they seemed to take no part in reactions, they were called *inert* (inactive). Since the 1960s chemists have made a few compounds of xenon and krypton (such as XeF₄), so the modern name **noble gases** is preferred; but they are still extremely unreactive.
+
+**6. Transition elements or transition metals (অবস্থান্তর মৌল), d-block.** All of them are metals, found in the middle of the table (groups 3 to 12). But not every d-block element is a transition element: only those whose **d orbitals are partly filled** (in the atom or in a common ion). Iron (3d⁶ 4s²), nickel (3d⁸ 4s²) and chromium (3d⁵ 4s¹) are transition elements; zinc (3d¹⁰ 4s², d completely full) is not. Transition metals:
+- show **more than one valency** (iron forms FeCl₂ and FeCl₃),
+- usually form **coloured compounds** (blue copper sulfate, green iron(II) sulfate),
+- are often good **catalysts** (iron in making ammonia, nickel in hardening vegetable oil).
+## analogy
+The group names are like nicknames in a big joint family. The "salt-maker" uncle (halogen) always makes salty dishes; the "earthy" aunt (alkaline-earth) is always found working in the soil; the grandparents (noble gases) are content and do not get involved in anyone's quarrels; and the "coin" cousins (Cu, Ag, Au) have been trusted with money for generations.
+## definition
+**Alkali metals**: the group 1 elements Li, Na, K, Rb, Cs and Fr, which react with water to form alkalis (hydroxides) and hydrogen.
+**Alkaline-earth metals**: the group 2 elements Be, Mg, Ca, Sr, Ba and Ra, whose compounds occur in the earth and whose oxides/hydroxides are alkaline.
+**Coinage metals**: copper, silver and gold (group 11), used for making coins since ancient times.
+**Halogens**: the group 17 elements F, Cl, Br, I, At and Ts; the name means "salt-formers".
+**Noble (inert) gases**: the group 18 elements, which have full outer shells and are extremely unreactive.
+**Transition elements**: d-block elements that have partly filled d orbitals in the atom or in a common ion.
+## why
+Why do families behave so consistently? Because each family shares the same outer electron arrangement ([[4.4|lesson 4.4]]). One outer electron (alkali metals) is lost easily, so they are very reactive metals. Two outer electrons (alkaline-earth metals) are also lost, but a little less easily. Seven outer electrons (halogens) make them hungry for one more, so they are reactive non-metals. A full shell (noble gases) leaves nothing to gain or lose. Partly filled d orbitals (transition metals) allow different numbers of electrons to be used, which explains variable valency and colour.
+## terms
+Alkali metals (ক্ষার ধাতু) | Group 1 except H; react with water forming alkali + H₂
+Alkaline-earth metals (মৃৎক্ষার ধাতু) | Group 2; compounds in soil, alkaline oxides
+Coinage metals (মুদ্রা ধাতু) | Cu, Ag, Au
+Halogens (হ্যালোজেন) | Group 17; "salt-formers"; symbol X
+Noble/inert gases (নিষ্ক্রিয় গ্যাস) | Group 18; full outer shells
+Transition elements (অবস্থান্তর মৌল) | d-block metals with partly filled d orbitals
+Catalyst (প্রভাবক) | Substance that speeds up a reaction without being used up
+## visual
+Tap each family card to see its members, outer electron pattern, typical reaction and an everyday use.
+## real
+Neon signs on shops in Dhaka glow red-orange because of neon, a noble gas. Chlorine from the halogen family is used to disinfect water in water-treatment plants, and bleaching powder helps keep ponds and tube-well water safe during floods. The iron catalyst of a transition metal is used at the Ghorasal and Jamuna fertilizer factories to make ammonia for urea.
+## example
+Q: Why is barium called an alkaline-earth metal?
+Solution: Barium is in group 2 (… 6s²). Its compounds (such as barium sulfate in the mineral barite) occur in the earth's crust, so it is an "earth" metal. Its hydroxide, Ba(OH)₂, is a strong alkali.
+Answer: Because its compounds are found in the earth and its oxide/hydroxide is alkaline, like all group 2 metals.
+## example
+Q: Why is helium called an inert gas?
+Solution: Helium's only shell is full (1s²), so it has no tendency to lose, gain or share electrons. It does not bond even with other helium atoms and exists as single atoms, and it is a gas at room temperature.
+Answer: Because its full shell makes it chemically inactive and it is a gas at ordinary temperature.
+## example
+Q: Zinc is a d-block element. Is it a transition element?
+Solution: Zn: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s². Its 3d subshell is completely filled, and in its only common ion, Zn²⁺ (3d¹⁰), it is still completely filled.
+Answer: No. Zinc has no partly filled d orbitals, so it is not a transition element (its compounds are usually white, not coloured).
+## mistakes
+x All d-block elements are transition elements.
+v Only those with partly filled d orbitals are; zinc (3d¹⁰) is not.
+x Hydrogen is an alkali metal because it is in group 1.
+v Hydrogen is a non-metal; only Li, Na, K, Rb, Cs and Fr are alkali metals.
+x Noble gases can never form any compound.
+v They are extremely unreactive, but xenon and krypton form a few compounds such as XeF₄.
+## remember
+- Alkali metals: group 1 (Li–Fr), ns¹, react with water → alkali + H₂.
+- Alkaline-earth metals: group 2 (Be–Ra), ns², compounds in soil, alkaline oxides.
+- Coinage metals: Cu, Ag, Au (group 11).
+- Halogens: group 17 (F–Ts), ns² np⁵, salt-formers, diatomic X₂.
+- Noble gases: group 18, full shells, monatomic, very unreactive.
+- Transition metals: partly filled d orbitals, variable valency, coloured compounds, catalysts.
+## think
+Gold is in the same group as copper, yet gold jewellery stays bright for centuries while copper utensils turn dark and greenish. What does this tell you about reactivity going down group 11, and why is that unusual compared with group 1?
+## quiz
+? Which group contains the halogens?
+- Group 1
+- Group 2
+* Group 17
+- Group 18
+= The halogens (F, Cl, Br, I, At, Ts) are in group 17.
+? The name "halogen" means:
+- Light-maker
+* Salt-former
+- Acid-maker
+- Gas-former
+= Halogens react with metals to form salts.
+? Which is NOT a transition element?
+- Fe
+- Cr
+- Ni
+* Zn
+= Zinc's 3d subshell is completely filled.
+? Alkali metals react with water to produce:
+* An alkali and hydrogen gas
+- An acid and oxygen
+- A salt and chlorine
+- Only water vapour
+= For example, 2Na + 2H₂O → 2NaOH + H₂.
+== bn
+## what
+কয়েকটি গ্রুপের মৌলগুলোকে তাদের ধর্ম অনুযায়ী বিশেষ নাম দেওয়া হয়েছে: **ক্ষার ধাতু** (গ্রুপ ১, H ছাড়া), **মৃৎক্ষার ধাতু** (গ্রুপ ২), **মুদ্রা ধাতু** (গ্রুপ ১১-এর Cu, Ag, Au), **অবস্থান্তর ধাতু** (আংশিক পূর্ণ d অরবিটালবিশিষ্ট d-ব্লক মৌল), **হ্যালোজেন** (গ্রুপ ১৭) আর **নিষ্ক্রিয় গ্যাস** (গ্রুপ ১৮)।
+## simple
+ধাতু, অধাতু, অপধাতু এই বড় ভাগগুলো ছাড়াও রসায়নবিদেরা কিছু পরিবারকে ডাকনাম দিয়েছেন। প্রতিটি নামের পেছনে একটি ছোট গল্প আছে।
+
+**১. ক্ষার ধাতু, গ্রুপ ১: Li, Na, K, Rb, Cs, Fr।** গ্রুপ ১-এ সাতটি মৌল; হাইড্রোজেন ছাড়া বাকি ছয়টি ক্ষার ধাতু। এরা নরম, চকচকে ধাতু, ছুরি দিয়ে কাটা যায়; পানির সাথে বিক্রিয়া করে হাইড্রোজেন গ্যাস দেয় আর তীব্র ক্ষারীয় দ্রবণ (হাইড্রক্সাইড) তৈরি করে:
+2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g)
+এজন্যই এদের নাম *ক্ষার* ধাতু। (কোনো কোনো বইয়ে বলা হয় এরা পানিতে "দ্রবীভূত" হয়; আসলে এরা পানির সাথে **বিক্রিয়া** করে।) এদের বাইরে একটি ইলেকট্রন (ns¹), খুব সহজেই সেটি ত্যাগ করে, আর এত সক্রিয় যে কেরোসিন বা প্যারাফিন তেলের নিচে রাখতে হয়। গ্রুপের নিচের দিকে সক্রিয়তা বাড়ে।
+
+**২. মৃৎক্ষার ধাতু, গ্রুপ ২: Be, Mg, Ca, Sr, Ba, Ra।** "মৃৎ" মানে মাটি। এসব ধাতুর যৌগ ভূত্বকে প্রচুর পাওয়া যায় (চুনাপাথর ও চক হলো ক্যালসিয়াম কার্বনেট, CaCO₃; ডলোমাইটে ম্যাগনেসিয়াম থাকে), আর এদের অক্সাইড ও হাইড্রক্সাইড ক্ষারীয়, যেমন ক্যালসিয়াম হাইড্রক্সাইড, Ca(OH)₂:
+Ca(s) + 2H₂O(l) → Ca(OH)₂(aq) + H₂(g)
+তাই নাম *মৃৎক্ষার* ধাতু। এদের বাইরে দুটি ইলেকট্রন (ns²), আর এরা M²⁺ আয়ন গঠন করে।
+
+**৩. মুদ্রা ধাতু, গ্রুপ ১১: Cu, Ag, Au।** গ্রুপ ১১-এ আছে কপার, সিলভার, গোল্ড আর রন্টজেনিয়াম। প্রথম তিনটি দিয়ে প্রাচীনকাল থেকে মুদ্রা তৈরি হয়ে আসছে, কারণ এরা তুলনামূলক কম সক্রিয়, সহজে ক্ষয় হয় না, দেখতে সুন্দর আর সহজে আকার দেওয়া যায়। রন্টজেনিয়াম কৃত্রিম, তেজস্ক্রিয় মৌল; এটি মুদ্রা ধাতু নয়।
+
+**৪. হ্যালোজেন, গ্রুপ ১৭: F, Cl, Br, I, At, Ts।** "হ্যালোজেন" মানে **লবণ উৎপাদনকারী**। এরা ধাতুর সাথে বিক্রিয়া করে লবণ বানায়: সোডিয়াম আর ক্লোরিন মিলে সোডিয়াম ক্লোরাইড, আমাদের খাবার লবণ (2Na + Cl₂ → 2NaCl); সোডিয়াম আর ফ্লোরিন মিলে সোডিয়াম ফ্লোরাইড। ক্লোরাইড ও ব্রোমাইড লবণের প্রধান প্রাকৃতিক উৎস সমুদ্রের পানি। হ্যালোজেনের বাইরে সাতটি ইলেকট্রন (ns² np⁵), আর এরা ইলেকট্রন ভাগাভাগি করে দ্বিপরমাণুক অণু বানায়: সাধারণ তাপমাত্রায় F₂ ও Cl₂ গ্যাস, Br₂ তরল, I₂ কঠিন। সাধারণভাবে হ্যালোজেনকে **X** প্রতীকে লেখা হয়।
+
+**৫. নিষ্ক্রিয় গ্যাস, গ্রুপ ১৮: He, Ne, Ar, Kr, Xe, Rn, Og।** এদের বাইরের শেল পূর্ণ (He 1s²; বাকিরা ns² np⁶), তাই ইলেকট্রন ত্যাগ, গ্রহণ বা ভাগাভাগির প্রায় কোনো প্রবণতাই নেই। এরা একক পরমাণু হিসেবে থাকে আর সাধারণ তাপমাত্রায় সবাই গ্যাস। বিক্রিয়ায় অংশ নেয় না বলে মনে হওয়ায় এদের বলা হতো *নিষ্ক্রিয়*। ১৯৬০-এর দশক থেকে বিজ্ঞানীরা জেনন ও ক্রিপ্টনের কয়েকটি যৌগ (যেমন XeF₄) তৈরি করেছেন, তাই আধুনিক নাম **নোবল গ্যাস** (অভিজাত গ্যাস) বেশি প্রচলিত; তবে এরা এখনো অত্যন্ত কম সক্রিয়।
+
+**৬. অবস্থান্তর মৌল বা অবস্থান্তর ধাতু, d-ব্লক।** এরা সবাই ধাতু, সারণির মাঝখানে (গ্রুপ ৩ থেকে ১২)। তবে সব d-ব্লক মৌলই অবস্থান্তর মৌল নয়: শুধু যাদের **d অরবিটাল আংশিক পূর্ণ** (পরমাণুতে বা সাধারণ কোনো আয়নে)। আয়রন (3d⁶ 4s²), নিকেল (3d⁸ 4s²) ও ক্রোমিয়াম (3d⁵ 4s¹) অবস্থান্তর মৌল; জিংক (3d¹⁰ 4s², d সম্পূর্ণ পূর্ণ) নয়। অবস্থান্তর ধাতুগুলো:
+- **একাধিক যোজনী** দেখায় (আয়রন FeCl₂ ও FeCl₃ দুটিই বানায়),
+- সাধারণত **রঙিন যৌগ** গঠন করে (নীল কপার সালফেট, সবুজ ফেরাস সালফেট),
+- প্রায়ই ভালো **প্রভাবক** (অ্যামোনিয়া তৈরিতে আয়রন, উদ্ভিজ্জ তেল জমাট করতে নিকেল)।
+## analogy
+গ্রুপের নামগুলো বড় যৌথ পরিবারের ডাকনামের মতো। "লবণ-বানানো" চাচা (হ্যালোজেন) সবসময় নোনতা খাবার বানান; "মাটির" খালাকে (মৃৎক্ষার) সবসময় খেতে কাজ করতে দেখা যায়; দাদা-দাদি (নিষ্ক্রিয় গ্যাস) নিজেদের নিয়ে তৃপ্ত, কারও ঝগড়ায় জড়ান না; আর "মুদ্রা" ভাইবোনদের (Cu, Ag, Au) হাতে বংশপরম্পরায় টাকা-পয়সা নিরাপদে রাখা হয়েছে।
+## definition
+**ক্ষার ধাতু**: গ্রুপ ১-এর Li, Na, K, Rb, Cs ও Fr, যারা পানির সাথে বিক্রিয়া করে ক্ষার (হাইড্রক্সাইড) ও হাইড্রোজেন তৈরি করে।
+**মৃৎক্ষার ধাতু**: গ্রুপ ২-এর Be, Mg, Ca, Sr, Ba ও Ra, যাদের যৌগ মাটিতে পাওয়া যায় এবং যাদের অক্সাইড/হাইড্রক্সাইড ক্ষারীয়।
+**মুদ্রা ধাতু**: কপার, সিলভার ও গোল্ড (গ্রুপ ১১), প্রাচীনকাল থেকে মুদ্রা তৈরিতে ব্যবহৃত।
+**হ্যালোজেন**: গ্রুপ ১৭-এর F, Cl, Br, I, At ও Ts; নামের অর্থ "লবণ উৎপাদনকারী"।
+**নিষ্ক্রিয় গ্যাস**: গ্রুপ ১৮-এর মৌল, যাদের বাইরের শেল পূর্ণ এবং যারা অত্যন্ত কম সক্রিয়।
+**অবস্থান্তর মৌল**: যে d-ব্লক মৌলের পরমাণুতে বা সাধারণ আয়নে d অরবিটাল আংশিক পূর্ণ।
+## why
+পরিবারগুলো এত নিয়মিত আচরণ করে কেন? কারণ প্রতিটি পরিবারের বাইরের ইলেকট্রন বিন্যাস একই ([[4.4|পাঠ ৪.৪]])। বাইরের একটি ইলেকট্রন (ক্ষার ধাতু) সহজেই ছেড়ে দেওয়া যায়, তাই এরা অতি সক্রিয় ধাতু। দুটি বাইরের ইলেকট্রনও (মৃৎক্ষার ধাতু) ত্যাগ করা যায়, তবে একটু কম সহজে। বাইরে সাতটি ইলেকট্রন (হ্যালোজেন) থাকায় আরেকটির জন্য "ক্ষুধা", তাই এরা সক্রিয় অধাতু। পূর্ণ শেলে (নিষ্ক্রিয় গ্যাস) নেওয়ার বা দেওয়ার কিছু নেই। আংশিক পূর্ণ d অরবিটাল (অবস্থান্তর ধাতু) ভিন্ন ভিন্ন সংখ্যক ইলেকট্রন ব্যবহারের সুযোগ দেয়, যা পরিবর্তনশীল যোজনী ও রং ব্যাখ্যা করে।
+## terms
+ক্ষার ধাতু (Alkali metals) | H ছাড়া গ্রুপ ১; পানির সাথে বিক্রিয়ায় ক্ষার + H₂
+মৃৎক্ষার ধাতু (Alkaline-earth metals) | গ্রুপ ২; যৌগ মাটিতে, অক্সাইড ক্ষারীয়
+মুদ্রা ধাতু (Coinage metals) | Cu, Ag, Au
+হ্যালোজেন (Halogens) | গ্রুপ ১৭; "লবণ উৎপাদনকারী"; প্রতীক X
+নিষ্ক্রিয় গ্যাস (Noble/inert gases) | গ্রুপ ১৮; বাইরের শেল পূর্ণ
+অবস্থান্তর মৌল (Transition elements) | আংশিক পূর্ণ d অরবিটালের d-ব্লক ধাতু
+প্রভাবক (Catalyst) | যে পদার্থ নিজে খরচ না হয়ে বিক্রিয়ার গতি বাড়ায়
+## visual
+প্রতিটি পরিবারের কার্ডে চাপ দিয়ে দেখো এর সদস্য, বাইরের ইলেকট্রনের ধাঁচ, একটি সাধারণ বিক্রিয়া আর দৈনন্দিন ব্যবহার।
+## real
+ঢাকার দোকানের নিয়ন সাইন লাল-কমলা আলো দেয় নিয়নের কারণে, যা একটি নিষ্ক্রিয় গ্যাস। হ্যালোজেন পরিবারের ক্লোরিন পানি শোধনাগারে জীবাণুমুক্ত করতে ব্যবহৃত হয়, আর বন্যার সময় ব্লিচিং পাউডার পুকুর ও নলকূপের পানি নিরাপদ রাখতে সাহায্য করে। ঘোড়াশাল ও যমুনা সার কারখানায় ইউরিয়ার জন্য অ্যামোনিয়া তৈরিতে অবস্থান্তর ধাতু আয়রনের প্রভাবক ব্যবহৃত হয়।
+## example
+প্রশ্ন: বেরিয়ামকে মৃৎক্ষার ধাতু বলা হয় কেন?
+সমাধান: বেরিয়াম গ্রুপ ২-এর মৌল (… 6s²)। এর যৌগ (যেমন বেরাইট খনিজে বেরিয়াম সালফেট) ভূত্বকে পাওয়া যায়, তাই এটি "মৃৎ" বা মাটির ধাতু। এর হাইড্রক্সাইড, Ba(OH)₂, একটি তীব্র ক্ষার।
+উত্তর: কারণ এর যৌগ মাটিতে পাওয়া যায় এবং গ্রুপ ২-এর সব ধাতুর মতো এর অক্সাইড/হাইড্রক্সাইড ক্ষারীয়।
+## example
+প্রশ্ন: হিলিয়ামকে নিষ্ক্রিয় গ্যাস বলা হয় কেন?
+সমাধান: হিলিয়ামের একমাত্র শেল পূর্ণ (1s²), তাই ইলেকট্রন ত্যাগ, গ্রহণ বা ভাগাভাগির কোনো প্রবণতা নেই। এটি অন্য হিলিয়াম পরমাণুর সাথেও বন্ধন গড়ে না, একক পরমাণু হিসেবে থাকে, আর সাধারণ তাপমাত্রায় গ্যাস।
+উত্তর: কারণ পূর্ণ শেলের জন্য এটি রাসায়নিকভাবে নিষ্ক্রিয় এবং সাধারণ তাপমাত্রায় গ্যাসীয়।
+## example
+প্রশ্ন: জিংক একটি d-ব্লক মৌল। এটি কি অবস্থান্তর মৌল?
+সমাধান: Zn: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s²। এর 3d উপশক্তিস্তর সম্পূর্ণ পূর্ণ, আর এর একমাত্র সাধারণ আয়ন Zn²⁺-তেও (3d¹⁰) সম্পূর্ণ পূর্ণ।
+উত্তর: না। জিংকের কোনো আংশিক পূর্ণ d অরবিটাল নেই, তাই এটি অবস্থান্তর মৌল নয় (এর যৌগগুলো সাধারণত সাদা, রঙিন নয়)।
+## mistakes
+x সব d-ব্লক মৌলই অবস্থান্তর মৌল।
+v শুধু যাদের d অরবিটাল আংশিক পূর্ণ; জিংক (3d¹⁰) নয়।
+x হাইড্রোজেন গ্রুপ ১-এ আছে, তাই এটি ক্ষার ধাতু।
+v হাইড্রোজেন অধাতু; শুধু Li, Na, K, Rb, Cs ও Fr ক্ষার ধাতু।
+x নিষ্ক্রিয় গ্যাস কখনো কোনো যৌগ গঠন করতে পারে না।
+v এরা অত্যন্ত কম সক্রিয়, তবে জেনন ও ক্রিপ্টন XeF₄-এর মতো কয়েকটি যৌগ গঠন করে।
+## remember
+- ক্ষার ধাতু: গ্রুপ ১ (Li–Fr), ns¹, পানির সাথে বিক্রিয়ায় → ক্ষার + H₂।
+- মৃৎক্ষার ধাতু: গ্রুপ ২ (Be–Ra), ns², যৌগ মাটিতে, অক্সাইড ক্ষারীয়।
+- মুদ্রা ধাতু: Cu, Ag, Au (গ্রুপ ১১)।
+- হ্যালোজেন: গ্রুপ ১৭ (F–Ts), ns² np⁵, লবণ উৎপাদনকারী, দ্বিপরমাণুক X₂।
+- নিষ্ক্রিয় গ্যাস: গ্রুপ ১৮, পূর্ণ শেল, একপরমাণুক, অত্যন্ত কম সক্রিয়।
+- অবস্থান্তর ধাতু: আংশিক পূর্ণ d অরবিটাল, পরিবর্তনশীল যোজনী, রঙিন যৌগ, প্রভাবক।
+## think
+সোনা আর তামা একই গ্রুপের, অথচ সোনার গয়না শত শত বছর উজ্জ্বল থাকে, আর তামার বাসন কালচে-সবুজ হয়ে যায়। এ থেকে গ্রুপ ১১-এ নিচের দিকে সক্রিয়তা সম্পর্কে কী বোঝা যায়? গ্রুপ ১-এর তুলনায় এটি অস্বাভাবিক কেন?
+## quiz
+? হ্যালোজেনগুলো কোন গ্রুপে?
+- গ্রুপ ১
+- গ্রুপ ২
+* গ্রুপ ১৭
+- গ্রুপ ১৮
+= হ্যালোজেন (F, Cl, Br, I, At, Ts) গ্রুপ ১৭-এ।
+? "হ্যালোজেন" শব্দের অর্থ:
+- আলো উৎপাদনকারী
+* লবণ উৎপাদনকারী
+- এসিড উৎপাদনকারী
+- গ্যাস উৎপাদনকারী
+= হ্যালোজেন ধাতুর সাথে বিক্রিয়া করে লবণ তৈরি করে।
+? কোনটি অবস্থান্তর মৌল নয়?
+- Fe
+- Cr
+- Ni
+* Zn
+= জিংকের 3d উপশক্তিস্তর সম্পূর্ণ পূর্ণ।
+? ক্ষার ধাতু পানির সাথে বিক্রিয়া করে উৎপন্ন করে:
+* ক্ষার ও হাইড্রোজেন গ্যাস
+- এসিড ও অক্সিজেন
+- লবণ ও ক্লোরিন
+- শুধু জলীয় বাষ্প
+= যেমন, 2Na + 2H₂O → 2NaOH + H₂।
+
+@@ 4.8
+@related 4.1 4.6 4.7
+== en
+## what
+The periodic table makes chemistry manageable. It lets us **learn the properties of many elements at once** by knowing the properties of their groups, it helped **predict and discover new elements**, and it guides **research** into new materials.
+## simple
+**a. It makes the study of chemistry simpler.** Suppose we want to know just four physical properties (melting point, boiling point, density, state) and four chemical properties (reaction with oxygen, water, acids and alkalis) of each element. For 118 elements that is 118 × (4 + 4) = **944 facts**. Nobody can memorise that! But the table has only 18 groups, and elements in one group share similar properties. Learn the typical behaviour of each group and the trends across periods, and you already know roughly how all 118 elements behave, and even what their compounds will be like. For example, once you know sodium reacts with water to give NaOH and H₂, you can predict that potassium does the same (even more vigorously) and that its hydroxide is KOH.
+
+**b. It helped discover new elements.** Mendeleev left gaps in his table and predicted the properties of the missing elements. When gallium, scandium and germanium were found, they matched his predictions. For eka-silicon he predicted an atomic mass of about 72 and a density of about 5.5 g/cm³; germanium turned out to have 72.6 and 5.3 g/cm³. Until a few decades ago there were still empty boxes near the bottom of the table, and scientists knew in advance roughly what the missing elements should be like. The four boxes 113, 115, 117 and 118 were finally filled and named in 2016.
+
+**c. It guides research.** When a scientist wants to make a new material for a particular job, they first need an idea of what elements could give the right properties. The table provides that. For example, silicon (group 14) is a semiconductor; combining an element from group 13 with one from group 15 gives compounds such as gallium arsenide (GaAs) that behave like semiconductors too. Such compounds are used in LED lights and in solar cells. Similarly, if a toxic element must be replaced in a product, chemists look at its neighbours in the same group for a safer alternative.
+
+**d. It helps predict formulas and bonding.** From the group number you know the number of outer electrons and hence the likely valency: group 1 metals form MCl, group 2 form MCl₂, group 17 forms NaX. You will use this a lot in [[5.2|Chapter 5]].
+## analogy
+The periodic table is like the contacts list on your phone sorted into groups: "family", "classmates", "teachers". You don't need to remember everything about each person; knowing which group someone belongs to already tells you a lot about how to talk to them. And when a new name appears in the "classmates" group, you can already guess a lot about them.
+## definition
+**Advantages of the periodic table**: (1) it simplifies the study of chemistry, since knowing group properties and trends gives the properties of all elements and their compounds; (2) it predicted the existence and properties of undiscovered elements; (3) it guides research in designing new substances and materials; (4) it helps predict valency, formulas and the type of bonding.
+## why
+All these advantages come from one fact: elements' properties are periodic functions of atomic number. Because properties repeat in a pattern, the position of an element in the pattern (its group and period) carries information about its properties. A gap in the pattern is therefore a prediction, and the pattern can be used to guess the behaviour of any element or compound.
+## terms
+Prediction (ভবিষ্যদ্বাণী) | Forecasting the properties of an element before it is discovered
+Semiconductor (অর্ধপরিবাহী) | Material whose conductivity lies between conductors and insulators (Si, Ge, GaAs)
+Group property | A property shared by all members of a group
+## real
+The LED bulbs now common in Bangladeshi homes and street lights use semiconductor compounds of group 13 and group 15 elements (such as gallium nitride), a combination that chemists found by thinking about positions in the periodic table.
+## example
+Q: If we study 4 physical and 4 chemical properties of each of the 118 elements, how many facts is that? How does the periodic table help?
+Given: 118 elements; 4 + 4 = 8 properties each
+Formula: total facts = number of elements × properties per element
+Substitution: 118 × 8
+Calculation: 118 × 8 = 944
+> Instead of 944 separate facts, we learn the behaviour of 18 groups plus a few trends.
+Answer: 944 facts. The periodic table groups similar elements, so learning group properties and trends covers all of them.
+## example
+Q: Sodium burns in chlorine to give NaCl. Predict the formula of the compound formed by potassium and bromine, using the periodic table.
+Solution: K is in group 1 like Na; Br is in group 17 like Cl. Elements of the same group form similar compounds.
+Answer: KBr.
+## mistakes
+x The periodic table is useful only for memorising symbols.
+v Its real power is predicting the properties of elements and compounds from their positions.
+x All elements were already known when Mendeleev made his table.
+v Only 63 were known; he left gaps and correctly predicted several missing elements.
+## remember
+- 118 elements × 8 properties = 944 facts; groups and trends make this manageable.
+- Mendeleev's gaps → gallium, scandium, germanium discovered as predicted.
+- Guides research: e.g. semiconductors from groups 13, 14, 15.
+- Predicts valency, formulas and bonding from group number.
+## think
+If a new element 119 is ever made, it would start period 8 in group 1. What properties would you predict for it, and why?
+## quiz
+? How many facts would 8 properties of each of 118 elements make?
+- 126
+- 826
+* 944
+- 1180
+= 118 × 8 = 944.
+? Which element matched Mendeleev's prediction for eka-silicon?
+- Gallium
+* Germanium
+- Scandium
+- Silicon
+= Germanium (atomic mass 72.6, density 5.3 g/cm³).
+? Using the periodic table, the formula of calcium chloride is predicted to be like that of:
+- NaCl
+* MgCl₂
+- AlCl₃
+- CCl₄
+= Ca and Mg are both in group 2, so CaCl₂ is like MgCl₂.
+== bn
+## what
+পর্যায় সারণি রসায়ন পড়াকে সহজ করে দেয়। গ্রুপের ধর্ম জানলে **একসাথে অনেক মৌলের ধর্ম জানা যায়**, এটি **নতুন মৌলের ভবিষ্যদ্বাণী ও আবিষ্কারে** সাহায্য করেছে, আর নতুন পদার্থ তৈরির **গবেষণায়** পথ দেখায়।
+## simple
+**ক. রসায়ন পড়া সহজ করে।** ধরো প্রতিটি মৌলের মাত্র চারটি ভৌত ধর্ম (গলনাঙ্ক, স্ফুটনাঙ্ক, ঘনত্ব, অবস্থা) আর চারটি রাসায়নিক ধর্ম (অক্সিজেন, পানি, এসিড ও ক্ষারের সাথে বিক্রিয়া) জানতে চাই। ১১৮টি মৌলের জন্য তা হয় ১১৮ × (৪ + ৪) = **৯৪৪টি তথ্য**। কেউ এত মুখস্থ করতে পারে না! কিন্তু সারণিতে মাত্র ১৮টি গ্রুপ, আর একই গ্রুপের মৌলগুলোর ধর্ম একই রকম। প্রতিটি গ্রুপের সাধারণ আচরণ আর পর্যায় বরাবর প্রবণতাগুলো শিখলেই মোটামুটি জেনে যাবে ১১৮টি মৌল কেমন আচরণ করে, এমনকি তাদের যৌগ কেমন হবে। যেমন, সোডিয়াম পানির সাথে বিক্রিয়া করে NaOH ও H₂ দেয় জানলে অনুমান করতে পারবে পটাশিয়ামও তাই করবে (আরও জোরে), আর এর হাইড্রক্সাইড হবে KOH।
+
+**খ. নতুন মৌল আবিষ্কারে সাহায্য করেছে।** মেন্ডেলিফ সারণিতে ঘর ফাঁকা রেখে অনুপস্থিত মৌলগুলোর ধর্মের ভবিষ্যদ্বাণী করেছিলেন। গ্যালিয়াম, স্ক্যান্ডিয়াম ও জার্মেনিয়াম পাওয়া গেলে দেখা গেল সেগুলো তাঁর ভবিষ্যদ্বাণীর সাথে মিলে যায়। একা-সিলিকনের জন্য তিনি পারমাণবিক ভর প্রায় ৭২ আর ঘনত্ব প্রায় ৫.৫ g/cm³ বলেছিলেন; জার্মেনিয়ামের পাওয়া গেল ৭২.৬ ও ৫.৩ g/cm³। কয়েক দশক আগেও সারণির নিচের দিকে কিছু ঘর ফাঁকা ছিল, আর বিজ্ঞানীরা আগে থেকেই জানতেন অনুপস্থিত মৌলগুলো মোটামুটি কেমন হবে। ১১৩, ১১৫, ১১৭ ও ১১৮ নম্বর ঘর চারটি শেষ পর্যন্ত পূরণ ও নামকরণ হয় ২০১৬ সালে।
+
+**গ. গবেষণায় পথ দেখায়।** কোনো বিজ্ঞানী বিশেষ কোনো কাজের জন্য নতুন পদার্থ বানাতে চাইলে আগে তাঁর ধারণা থাকা দরকার কোন মৌলগুলো ঠিক ধর্ম দিতে পারে। সারণি সেই ধারণা দেয়। যেমন, সিলিকন (গ্রুপ ১৪) অর্ধপরিবাহী; গ্রুপ ১৩-এর একটি মৌলের সাথে গ্রুপ ১৫-এর একটি মৌল মিলিয়ে গ্যালিয়াম আর্সেনাইডের (GaAs) মতো যৌগ পাওয়া যায়, যেগুলোও অর্ধপরিবাহীর মতো আচরণ করে। এসব যৌগ এলইডি বাতি আর সোলার সেলে ব্যবহৃত হয়। তেমনি কোনো পণ্য থেকে বিষাক্ত মৌল বাদ দিতে হলে রসায়নবিদেরা একই গ্রুপে তার প্রতিবেশীদের মধ্যে নিরাপদ বিকল্প খোঁজেন।
+
+**ঘ. সংকেত ও বন্ধন অনুমান করতে সাহায্য করে।** গ্রুপ নম্বর থেকে বাইরের ইলেকট্রন সংখ্যা আর তাই সম্ভাব্য যোজনী জানা যায়: গ্রুপ ১-এর ধাতু MCl, গ্রুপ ২ MCl₂, গ্রুপ ১৭ NaX গঠন করে। [[5.2|পঞ্চম অধ্যায়ে]] এটি অনেক কাজে লাগবে।
+## analogy
+পর্যায় সারণি তোমার ফোনের কন্টাক্ট লিস্টের মতো, যেটি "পরিবার", "সহপাঠী", "শিক্ষক" এমন দলে সাজানো। প্রত্যেক মানুষের সবকিছু মনে রাখতে হয় না; কে কোন দলের, এটুকু জানলেই বোঝা যায় তার সাথে কীভাবে কথা বলতে হবে। আর "সহপাঠী" দলে নতুন কোনো নাম এলে তার সম্পর্কেও অনেক কিছু আগেই আন্দাজ করা যায়।
+## definition
+**পর্যায় সারণির সুবিধা**: (১) রসায়ন পাঠ সহজ করে, কারণ গ্রুপের ধর্ম ও প্রবণতা জানলেই সব মৌল ও তাদের যৌগের ধর্ম জানা যায়; (২) অনাবিষ্কৃত মৌলের অস্তিত্ব ও ধর্মের ভবিষ্যদ্বাণী করেছে; (৩) নতুন পদার্থ ও উপাদান তৈরির গবেষণায় পথ দেখায়; (৪) যোজনী, সংকেত ও বন্ধনের ধরন অনুমান করতে সাহায্য করে।
+## why
+সবগুলো সুবিধা একটি সত্য থেকে আসে: মৌলের ধর্ম পারমাণবিক সংখ্যার পর্যায়বৃত্ত ফাংশন। ধর্মগুলো একটি নকশায় ফিরে ফিরে আসে বলে নকশায় মৌলের অবস্থান (গ্রুপ ও পর্যায়) তার ধর্মের তথ্য বহন করে। তাই নকশার একটি ফাঁকা ঘর নিজেই একটি ভবিষ্যদ্বাণী, আর নকশা দেখে যেকোনো মৌল বা যৌগের আচরণ আন্দাজ করা যায়।
+## terms
+ভবিষ্যদ্বাণী (Prediction) | আবিষ্কারের আগেই মৌলের ধর্ম সম্পর্কে পূর্বাভাস
+অর্ধপরিবাহী (Semiconductor) | যার পরিবাহিতা পরিবাহী ও অন্তরকের মাঝামাঝি (Si, Ge, GaAs)
+গ্রুপের ধর্ম | একটি গ্রুপের সব সদস্যের সাধারণ ধর্ম
+## real
+বাংলাদেশের ঘরে ঘরে আর রাস্তার বাতিতে এখন যে এলইডি বাল্ব, তাতে গ্রুপ ১৩ ও গ্রুপ ১৫-এর মৌলের অর্ধপরিবাহী যৌগ (যেমন গ্যালিয়াম নাইট্রাইড) ব্যবহৃত হয়; পর্যায় সারণিতে অবস্থান নিয়ে ভেবেই রসায়নবিদেরা এমন জুটি খুঁজে পেয়েছেন।
+## example
+প্রশ্ন: ১১৮টি মৌলের প্রতিটির ৪টি ভৌত ও ৪টি রাসায়নিক ধর্ম পড়লে মোট কয়টি তথ্য হয়? পর্যায় সারণি কীভাবে সাহায্য করে?
+দেওয়া আছে: ১১৮টি মৌল; প্রতিটির ৪ + ৪ = ৮টি ধর্ম
+সূত্র: মোট তথ্য = মৌলের সংখ্যা × প্রতি মৌলের ধর্ম
+মান বসাই: ১১৮ × ৮
+হিসাব: ১১৮ × ৮ = ৯৪৪
+> ৯৪৪টি আলাদা তথ্যের বদলে আমরা ১৮টি গ্রুপের আচরণ আর কয়েকটি প্রবণতা শিখি।
+উত্তর: ৯৪৪টি তথ্য। পর্যায় সারণি একই রকম মৌলগুলোকে এক গ্রুপে রাখে, তাই গ্রুপের ধর্ম ও প্রবণতা শিখলেই সবগুলো জানা হয়ে যায়।
+## example
+প্রশ্ন: সোডিয়াম ক্লোরিনে জ্বলে NaCl তৈরি করে। পর্যায় সারণি ব্যবহার করে পটাশিয়াম ও ব্রোমিনের যৌগের সংকেত অনুমান করো।
+সমাধান: K আছে Na-এর মতো গ্রুপ ১-এ; Br আছে Cl-এর মতো গ্রুপ ১৭-এ। একই গ্রুপের মৌলগুলো একই রকম যৌগ গঠন করে।
+উত্তর: KBr।
+## mistakes
+x পর্যায় সারণি শুধু প্রতীক মুখস্থ করার কাজে লাগে।
+v এর আসল শক্তি হলো অবস্থান দেখে মৌল ও যৌগের ধর্ম অনুমান করা।
+x মেন্ডেলিফ যখন সারণি বানান তখন সব মৌলই জানা ছিল।
+v মাত্র ৬৩টি জানা ছিল; তিনি ঘর ফাঁকা রেখে কয়েকটি অনুপস্থিত মৌলের সঠিক ভবিষ্যদ্বাণী করেছিলেন।
+## remember
+- ১১৮টি মৌল × ৮টি ধর্ম = ৯৪৪টি তথ্য; গ্রুপ ও প্রবণতা এটিকে সহজ করে।
+- মেন্ডেলিফের ফাঁকা ঘর → ভবিষ্যদ্বাণী অনুযায়ী গ্যালিয়াম, স্ক্যান্ডিয়াম, জার্মেনিয়াম আবিষ্কৃত।
+- গবেষণায় পথ দেখায়: যেমন গ্রুপ ১৩, ১৪, ১৫ থেকে অর্ধপরিবাহী।
+- গ্রুপ নম্বর থেকে যোজনী, সংকেত ও বন্ধন অনুমান।
+## think
+যদি কখনো ১১৯ নম্বর মৌল তৈরি হয়, এটি গ্রুপ ১-এ পর্যায় ৮ শুরু করবে। এর কী কী ধর্ম তুমি অনুমান করবে, আর কেন?
+## quiz
+? ১১৮টি মৌলের প্রতিটির ৮টি ধর্ম মিলে কয়টি তথ্য হয়?
+- ১২৬
+- ৮২৬
+* ৯৪৪
+- ১১৮০
+= ১১৮ × ৮ = ৯৪৪।
+? একা-সিলিকনের ভবিষ্যদ্বাণীর সাথে কোন মৌল মিলে গিয়েছিল?
+- গ্যালিয়াম
+* জার্মেনিয়াম
+- স্ক্যান্ডিয়াম
+- সিলিকন
+= জার্মেনিয়াম (পারমাণবিক ভর ৭২.৬, ঘনত্ব ৫.৩ g/cm³)।
+? পর্যায় সারণি অনুযায়ী ক্যালসিয়াম ক্লোরাইডের সংকেত কোনটির মতো হবে বলে অনুমান করা যায়?
+- NaCl
+* MgCl₂
+- AlCl₃
+- CCl₄
+= Ca ও Mg দুটিই গ্রুপ ২-এর, তাই CaCl₂ হবে MgCl₂-এর মতো।
+
+@@ 4.9
+@visual k4co2
+@related 4.4 4.7 9.1 7.2.4
+== en
+## what
+Elements of the same group form similar compounds that react in similar ways. The halogens all combine with hydrogen to form hydrogen halides (HF, HCl, HBr, HI), which dissolve in water to give acids; these acids all react with carbonates to release **carbon dioxide**. The group 2 carbonates (MgCO₃, CaCO₃) likewise react alike with hydrochloric acid. You can prepare CO₂ in the laboratory and test its properties.
+## simple
+**Step 1: halogens + hydrogen.** Each halogen (X₂) combines with hydrogen to give a hydrogen halide, HX:
+H₂(g) + F₂(g) → 2HF(g)
+H₂(g) + Cl₂(g) → 2HCl(g)
+H₂(g) + Br₂(g) → 2HBr(g)
+H₂(g) + I₂(g) ⇌ 2HI(g)
+Same pattern, same formula type: one H with one X. (The reactivity drops down the group: fluorine reacts explosively even in the dark, while iodine needs heating and the reaction is reversible.)
+
+**Step 2: hydrogen halides + water → acids.** All four gases dissolve in water to form acids called hydrohalic acids:
+HF(g) + H₂O(l) → HF(aq), hydrofluoric acid
+HCl(g) + H₂O(l) → HCl(aq), hydrochloric acid
+HBr(g) + H₂O(l) → HBr(aq), hydrobromic acid
+HI(g) + H₂O(l) → HI(aq), hydroiodic acid
+
+**Step 3: acids + carbonate → CO₂.** Each of these acids reacts with a carbonate salt such as calcium carbonate to give a salt, water and carbon dioxide gas:
+CaCO₃(s) + 2HF(aq) → CaF₂(s) + H₂O(l) + CO₂(g)
+CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)
+So the members of group 17 give compounds with the same kind of formula and the same kind of reactions: proof that elements of the same group behave alike.
+
+(**Safety note:** hydrofluoric acid is extremely dangerous; it attacks glass and can burn deep into skin and bone. It is never used in school laboratories. Its equation is shown only to compare with the other halogens.)
+
+**Group 2 does the same.** Magnesium carbonate and calcium carbonate both react with dilute hydrochloric acid to give a chloride, water and carbon dioxide:
+MgCO₃(s) + 2HCl(aq) → MgCl₂(aq) + H₂O(l) + CO₂(g)
+CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)
+
+**Experiment: preparing carbon dioxide and testing it.**
+
+*Principle:* calcium carbonate reacts with dilute hydrochloric acid to give calcium chloride, water and carbon dioxide.
+
+*Apparatus:* a flask (round-bottomed or conical) fixed to a stand, a thistle funnel, a delivery tube bent twice at right angles, a two-holed cork, gas jars.
+*Chemicals:* small pieces of calcium carbonate (marble chips), dilute hydrochloric acid, water, lime water.
+
+*Procedure:*
+1. Put a few small pieces of calcium carbonate in the flask and clamp the flask to the stand.
+2. Fit the cork carrying the thistle funnel and the delivery tube.
+3. Pour water through the thistle funnel until the calcium carbonate **and the lower end of the funnel** are under water.
+4. Put the other end of the delivery tube into the bottom of a gas jar.
+5. Slowly add dilute hydrochloric acid through the thistle funnel. Bubbles (effervescence) appear and CO₂ passes through the tube.
+6. Carbon dioxide is heavier (denser) than air, so it collects at the bottom of the jar and pushes the air out (upward displacement of air). Cover the jar when it is full.
+
+*Testing the properties:*
+1. **Colour:** the gas in the jar is colourless.
+2. **Burning splint:** a burning matchstick held in the jar goes out. CO₂ does not burn and does not support burning, which is why it is used in fire extinguishers.
+3. **Lime water test:** bubble the gas through lime water (calcium hydroxide solution). The lime water turns **milky** because insoluble calcium carbonate forms:
+Ca(OH)₂(aq) + CO₂(g) → CaCO₃(s) + H₂O(l)
+Keep passing CO₂ and the milkiness **disappears**, because the calcium carbonate changes into soluble calcium hydrogen carbonate (calcium bicarbonate):
+CaCO₃(s) + H₂O(l) + CO₂(g) → Ca(HCO₃)₂(aq)
+
+*Precautions:*
+- Keep the lower end of the thistle funnel under the liquid all the time, otherwise the gas escapes through the funnel.
+- Clamp the flask firmly to a stand.
+- Wear safety goggles; dilute acid can still hurt the eyes. Wash off any spills with plenty of water.
+- Add the acid slowly so the froth does not rise into the delivery tube.
+
+At home you can see the same reaction safely with an **egg shell**, snail or oyster shell (mostly calcium carbonate) and **vinegar** (acetic acid):
+CaCO₃(s) + 2CH₃COOH(aq) → (CH₃COO)₂Ca(aq) + H₂O(l) + CO₂(g)
+## analogy
+Think of twins from the same family trying the same recipe. Even if one cooks faster and the other slower, both end up with the same kind of dish. Fluorine, chlorine, bromine and iodine are like siblings following one recipe: add hydrogen, get HX; add water, get an acid; add carbonate, get CO₂. The speed differs, but the pattern is the same.
+## definition
+**Similar properties of a group**: elements of the same group form compounds with similar formulas (e.g. HX for all halogens, MCO₃ for group 2) that undergo similar reactions, because they have the same outer electron arrangement.
+
+**Lime water test for CO₂**: carbon dioxide turns clear lime water milky due to the formation of insoluble calcium carbonate; excess CO₂ makes it clear again by forming soluble calcium hydrogen carbonate.
+## why
+Why do all the halogens give HX? Each halogen atom has seven outer electrons (ns² np⁵) and needs one more, so each forms one bond with one hydrogen atom. All the HX molecules release H⁺ ions in water, so all are acids, and any acid (H⁺) reacts with a carbonate (CO₃²⁻) to give water and carbon dioxide: 2H⁺ + CO₃²⁻ → H₂O + CO₂. Similarly Mg and Ca both have two outer electrons, form M²⁺ ions and give carbonates of the same type, MCO₃, which react in the same way.
+## terms
+Hydrogen halide | Compound HX of hydrogen with a halogen (HF, HCl, HBr, HI)
+Hydrohalic acid | Solution of a hydrogen halide in water (e.g. hydrochloric acid)
+Effervescence (বুদবুদ) | Bubbling caused by gas given off in a reaction
+Lime water (চুনের পানি) | Clear solution of calcium hydroxide, Ca(OH)₂; test for CO₂
+Thistle funnel (থিসল ফানেল) | Long-stemmed funnel for adding liquid to a flask
+Upward displacement of air | Collecting a gas denser than air at the bottom of a jar
+## visual
+Pick a halogen and follow its three reactions. Then run the CO₂ experiment: add acid, collect the gas and try the three tests. Keep adding CO₂ to the lime water and watch what happens.
+## real
+Carbon dioxide fire extinguishers are kept in offices, garment factories and shopping malls in Bangladesh; CO₂ smothers a fire because it is heavier than air and does not support burning. The fizz in soft drinks is dissolved CO₂. In limestone regions, rain water containing CO₂ slowly dissolves rock by forming calcium hydrogen carbonate, the same change you see when the milky lime water turns clear.
+## example
+Q: Write balanced equations to show that chlorine and bromine behave similarly with hydrogen and in water.
+Solution: H₂(g) + Cl₂(g) → 2HCl(g); HCl(g) + H₂O(l) → HCl(aq). H₂(g) + Br₂(g) → 2HBr(g); HBr(g) + H₂O(l) → HBr(aq).
+> Check atoms: left 2 H + 2 Cl, right 2 × (1 H + 1 Cl). Balanced.
+Answer: Both form a hydrogen halide of formula HX, which dissolves in water to give an acid.
+## example
+Q: A student passes carbon dioxide through lime water for a long time. Describe and explain what is seen.
+Solution: First the lime water turns milky: Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O (white precipitate of calcium carbonate). With excess CO₂ the precipitate dissolves: CaCO₃ + H₂O + CO₂ → Ca(HCO₃)₂, which is soluble.
+Answer: The lime water first turns milky, then becomes clear again with excess CO₂.
+## mistakes
+x Hydrofluoric acid can be used in the school lab like hydrochloric acid.
+v HF is extremely dangerous and is never used in school; only its equation is compared.
+x If the thistle funnel's end is above the liquid, that is fine.
+v The funnel's end must stay under the liquid, or the gas escapes through the funnel.
+x Lime water stays milky however much CO₂ is passed.
+v Excess CO₂ turns the milky lime water clear again (soluble calcium hydrogen carbonate forms).
+## remember
+- H₂ + X₂ → 2HX (X = F, Cl, Br, I); HX(g) + water → acid.
+- Acid + carbonate → salt + water + CO₂: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂.
+- MgCO₃ and CaCO₃ (group 2) react alike with HCl.
+- CO₂: colourless, heavier than air, puts out a burning splint, turns lime water milky (clear again in excess).
+- Safety: funnel end under liquid, flask clamped, goggles; never HF in school.
+## think
+Why is carbon dioxide collected by upward displacement of air and not over water, even though it can be? (Hint: think about how much CO₂ dissolves in water.)
+## quiz
+? Which gas turns lime water milky?
+- Oxygen
+- Hydrogen
+* Carbon dioxide
+- Nitrogen
+= CO₂ forms insoluble CaCO₃ with lime water.
+? H₂ + Cl₂ → ?
+- HCl
+* 2HCl
+- H₂Cl₂
+- 2HCl₂
+= One H₂ and one Cl₂ give two HCl molecules (2 H and 2 Cl on each side).
+? Why is the lower end of the thistle funnel kept under the liquid?
+- To cool the flask
+* To stop the gas escaping through the funnel
+- To make the acid stronger
+- To dissolve the CO₂
+= Otherwise CO₂ would escape through the funnel instead of the delivery tube.
+? MgCO₃ + 2HCl → MgCl₂ + H₂O + ?
+- H₂
+- O₂
+* CO₂
+- Cl₂
+= Carbonates with acids release carbon dioxide.
+== bn
+## what
+একই গ্রুপের মৌলগুলো একই রকম যৌগ গঠন করে, আর সেগুলো একই রকম বিক্রিয়া দেয়। সব হ্যালোজেন হাইড্রোজেনের সাথে যুক্ত হয়ে হাইড্রোজেন হ্যালাইড (HF, HCl, HBr, HI) বানায়, যেগুলো পানিতে দ্রবীভূত হয়ে এসিড হয়; এই এসিডগুলো কার্বনেটের সাথে বিক্রিয়া করে **কার্বন ডাই-অক্সাইড** দেয়। গ্রুপ ২-এর কার্বনেটগুলোও (MgCO₃, CaCO₃) হাইড্রোক্লোরিক এসিডের সাথে একইভাবে বিক্রিয়া করে। তুমি পরীক্ষাগারে CO₂ তৈরি করে এর ধর্ম পরীক্ষা করতে পারবে।
+## simple
+**ধাপ ১: হ্যালোজেন + হাইড্রোজেন।** প্রতিটি হ্যালোজেন (X₂) হাইড্রোজেনের সাথে যুক্ত হয়ে হাইড্রোজেন হ্যালাইড, HX দেয়:
+H₂(g) + F₂(g) → 2HF(g)
+H₂(g) + Cl₂(g) → 2HCl(g)
+H₂(g) + Br₂(g) → 2HBr(g)
+H₂(g) + I₂(g) ⇌ 2HI(g)
+একই ধাঁচ, একই ধরনের সংকেত: একটি H-এর সাথে একটি X। (গ্রুপের নিচে সক্রিয়তা কমে: ফ্লোরিন অন্ধকারেও বিস্ফোরণসহ বিক্রিয়া করে, অথচ আয়োডিনের জন্য তাপ লাগে আর বিক্রিয়াটি উভমুখী।)
+
+**ধাপ ২: হাইড্রোজেন হ্যালাইড + পানি → এসিড।** চারটি গ্যাসই পানিতে দ্রবীভূত হয়ে হাইড্রোহ্যালিক এসিড তৈরি করে:
+HF(g) + H₂O(l) → HF(aq), হাইড্রোফ্লোরিক এসিড
+HCl(g) + H₂O(l) → HCl(aq), হাইড্রোক্লোরিক এসিড
+HBr(g) + H₂O(l) → HBr(aq), হাইড্রোব্রোমিক এসিড
+HI(g) + H₂O(l) → HI(aq), হাইড্রোআয়োডিক এসিড
+
+**ধাপ ৩: এসিড + কার্বনেট → CO₂।** এসিডগুলোর প্রতিটি ক্যালসিয়াম কার্বনেটের মতো কার্বনেট লবণের সাথে বিক্রিয়া করে লবণ, পানি ও কার্বন ডাই-অক্সাইড গ্যাস দেয়:
+CaCO₃(s) + 2HF(aq) → CaF₂(s) + H₂O(l) + CO₂(g)
+CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)
+অর্থাৎ গ্রুপ ১৭-এর সদস্যরা একই ধরনের সংকেতের যৌগ আর একই ধরনের বিক্রিয়া দেয়: একই গ্রুপের মৌল যে একই রকম আচরণ করে, এটিই তার প্রমাণ।
+
+(**নিরাপত্তা সতর্কতা:** হাইড্রোফ্লোরিক এসিড অত্যন্ত বিপজ্জনক; এটি কাচ ক্ষয় করে আর চামড়া ভেদ করে হাড় পর্যন্ত পুড়িয়ে দিতে পারে। স্কুলের পরীক্ষাগারে এটি কখনো ব্যবহার করা হয় না। অন্য হ্যালোজেনের সাথে তুলনার জন্য শুধু সমীকরণটি দেখানো হলো।)
+
+**গ্রুপ ২-ও তাই করে।** ম্যাগনেসিয়াম কার্বনেট আর ক্যালসিয়াম কার্বনেট দুটিই লঘু হাইড্রোক্লোরিক এসিডের সাথে বিক্রিয়া করে ক্লোরাইড, পানি ও কার্বন ডাই-অক্সাইড দেয়:
+MgCO₃(s) + 2HCl(aq) → MgCl₂(aq) + H₂O(l) + CO₂(g)
+CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)
+
+**পরীক্ষণ: কার্বন ডাই-অক্সাইড তৈরি ও পরীক্ষা।**
+
+*মূলনীতি:* ক্যালসিয়াম কার্বনেট লঘু হাইড্রোক্লোরিক এসিডের সাথে বিক্রিয়া করে ক্যালসিয়াম ক্লোরাইড, পানি ও কার্বন ডাই-অক্সাইড উৎপন্ন করে।
+
+*যন্ত্রপাতি:* স্ট্যান্ডে আটকানো একটি ফ্লাস্ক (গোলতলী বা কনিক্যাল), একটি থিসল ফানেল, দুইবার সমকোণে বাঁকানো একটি কাচের নির্গম নল, দুই-ছিদ্রযুক্ত ছিপি, কয়েকটি গ্যাসজার।
+*রাসায়নিক দ্রব্য:* ক্যালসিয়াম কার্বনেটের ছোট টুকরা (মার্বেল চিপস), লঘু হাইড্রোক্লোরিক এসিড, পানি, চুনের পানি।
+
+*কার্যপদ্ধতি:*
+১. ফ্লাস্কে ক্যালসিয়াম কার্বনেটের কয়েকটি ছোট টুকরা নিয়ে ফ্লাস্কটি স্ট্যান্ডে আটকাও।
+২. থিসল ফানেল ও নির্গম নলসহ ছিপিটি লাগাও।
+৩. থিসল ফানেল দিয়ে এমনভাবে পানি ঢালো যেন ক্যালসিয়াম কার্বনেট **এবং ফানেলের নিচের প্রান্ত** পানিতে ডুবে থাকে।
+৪. নির্গম নলের অন্য প্রান্ত একটি গ্যাসজারের তলায় রাখো।
+৫. থিসল ফানেল দিয়ে ধীরে ধীরে লঘু হাইড্রোক্লোরিক এসিড ঢালো। বুদবুদ দেখা দেবে আর CO₂ নল দিয়ে বেরিয়ে আসবে।
+৬. কার্বন ডাই-অক্সাইড বাতাসের চেয়ে ভারী (ঘন), তাই এটি জারের তলায় জমে বাতাসকে ওপরে ঠেলে বের করে দেয় (বাতাসের ঊর্ধ্ব অপসারণ)। জার ভরে গেলে ঢেকে দাও।
+
+*ধর্ম পরীক্ষা:*
+১. **বর্ণ:** জারের গ্যাসটি বর্ণহীন।
+২. **জ্বলন্ত কাঠি:** জারে জ্বলন্ত দেশলাই কাঠি ধরলে নিভে যায়। CO₂ নিজে জ্বলে না, জ্বলতেও সাহায্য করে না; এজন্যই অগ্নিনির্বাপক যন্ত্রে এটি ব্যবহৃত হয়।
+৩. **চুনের পানি পরীক্ষা:** গ্যাসটি চুনের পানির (ক্যালসিয়াম হাইড্রক্সাইড দ্রবণ) মধ্য দিয়ে চালাও। অদ্রবণীয় ক্যালসিয়াম কার্বনেট তৈরি হয় বলে চুনের পানি **ঘোলা** হয়ে যায়:
+Ca(OH)₂(aq) + CO₂(g) → CaCO₃(s) + H₂O(l)
+আরও CO₂ চালাতে থাকলে ঘোলাভাব **দূর হয়ে যায়**, কারণ ক্যালসিয়াম কার্বনেট দ্রবণীয় ক্যালসিয়াম হাইড্রোজেন কার্বনেটে (ক্যালসিয়াম বাইকার্বনেট) পরিণত হয়:
+CaCO₃(s) + H₂O(l) + CO₂(g) → Ca(HCO₃)₂(aq)
+
+*সতর্কতা:*
+- থিসল ফানেলের নিচের প্রান্ত সবসময় তরলে ডুবিয়ে রাখো, নইলে গ্যাস ফানেল দিয়ে বেরিয়ে যাবে।
+- ফ্লাস্কটি স্ট্যান্ডে শক্ত করে আটকাও।
+- নিরাপত্তা চশমা পরো; লঘু এসিডও চোখের ক্ষতি করতে পারে। কিছু ছিটকে পড়লে প্রচুর পানি দিয়ে ধুয়ে ফেলো।
+- এসিড ধীরে ঢালো, যেন ফেনা উঠে নির্গম নলে না ঢোকে।
+
+বাড়িতে নিরাপদে একই বিক্রিয়া দেখতে পারো **ডিমের খোসা**, শামুক বা ঝিনুকের খোলস (প্রধানত ক্যালসিয়াম কার্বনেট) আর **ভিনেগার** (অ্যাসিটিক এসিড) দিয়ে:
+CaCO₃(s) + 2CH₃COOH(aq) → (CH₃COO)₂Ca(aq) + H₂O(l) + CO₂(g)
+## analogy
+একই পরিবারের যমজ ভাইবোনেরা একই রেসিপি চেষ্টা করছে, ভাবো। একজন দ্রুত রাঁধুক আর আরেকজন ধীরে, দুজনের হাতেই শেষে একই ধরনের খাবার তৈরি হয়। ফ্লোরিন, ক্লোরিন, ব্রোমিন আর আয়োডিন যেন একই রেসিপি মেনে চলা ভাইবোন: হাইড্রোজেন যোগ করো, পাও HX; পানি যোগ করো, পাও এসিড; কার্বনেট যোগ করো, পাও CO₂। গতি আলাদা, কিন্তু ধাঁচ একই।
+## definition
+**একই গ্রুপের একই রকম ধর্ম**: একই গ্রুপের মৌলগুলোর বাইরের ইলেকট্রন বিন্যাস একই বলে এরা একই ধাঁচের সংকেতের যৌগ গঠন করে (যেমন সব হ্যালোজেনের HX, গ্রুপ ২-এর MCO₃), আর সেগুলো একই রকম বিক্রিয়া দেয়।
+
+**CO₂-এর চুনের পানি পরীক্ষা**: কার্বন ডাই-অক্সাইড অদ্রবণীয় ক্যালসিয়াম কার্বনেট তৈরি করে স্বচ্ছ চুনের পানিকে ঘোলা করে; অতিরিক্ত CO₂ দ্রবণীয় ক্যালসিয়াম হাইড্রোজেন কার্বনেট তৈরি করে একে আবার স্বচ্ছ করে।
+## why
+সব হ্যালোজেন HX দেয় কেন? প্রতিটি হ্যালোজেন পরমাণুর বাইরে সাতটি ইলেকট্রন (ns² np⁵), আরেকটি দরকার, তাই প্রত্যেকে একটি হাইড্রোজেন পরমাণুর সাথে একটি বন্ধন গড়ে। সব HX অণু পানিতে H⁺ আয়ন দেয়, তাই সবগুলোই এসিড; আর যেকোনো এসিড (H⁺) কার্বনেটের (CO₃²⁻) সাথে বিক্রিয়া করে পানি ও কার্বন ডাই-অক্সাইড দেয়: 2H⁺ + CO₃²⁻ → H₂O + CO₂। তেমনি Mg ও Ca দুটিরই বাইরে দুটি ইলেকট্রন, দুটিই M²⁺ আয়ন বানায় আর একই ধরনের কার্বনেট MCO₃ দেয়, যেগুলো একইভাবে বিক্রিয়া করে।
+## terms
+হাইড্রোজেন হ্যালাইড | হ্যালোজেনের সাথে হাইড্রোজেনের যৌগ HX (HF, HCl, HBr, HI)
+হাইড্রোহ্যালিক এসিড | হাইড্রোজেন হ্যালাইডের জলীয় দ্রবণ (যেমন হাইড্রোক্লোরিক এসিড)
+বুদবুদ (Effervescence) | বিক্রিয়ায় গ্যাস বের হওয়ায় সৃষ্ট বুদবুদ
+চুনের পানি (Lime water) | ক্যালসিয়াম হাইড্রক্সাইড Ca(OH)₂-এর স্বচ্ছ দ্রবণ; CO₂ শনাক্তকরণে ব্যবহৃত
+থিসল ফানেল | ফ্লাস্কে তরল ঢালার লম্বা নলওয়ালা ফানেল
+বাতাসের ঊর্ধ্ব অপসারণ | বাতাসের চেয়ে ভারী গ্যাস জারের তলায় জমিয়ে সংগ্রহ
+## visual
+একটি হ্যালোজেন বেছে নিয়ে এর তিনটি বিক্রিয়া অনুসরণ করো। তারপর CO₂ পরীক্ষাটি চালাও: এসিড যোগ করো, গ্যাস সংগ্রহ করো আর তিনটি পরীক্ষা করে দেখো। চুনের পানিতে CO₂ চালাতেই থাকো আর দেখো কী হয়।
+## real
+বাংলাদেশের অফিস, পোশাক কারখানা আর শপিং মলে কার্বন ডাই-অক্সাইড অগ্নিনির্বাপক রাখা থাকে; CO₂ বাতাসের চেয়ে ভারী আর জ্বলতে সাহায্য করে না বলে আগুনকে ঢেকে নিভিয়ে দেয়। কোমল পানীয়ের ঝাঁঝ হলো দ্রবীভূত CO₂। চুনাপাথরের এলাকায় CO₂-মেশানো বৃষ্টির পানি ধীরে ধীরে ক্যালসিয়াম হাইড্রোজেন কার্বনেট তৈরি করে পাথর গলিয়ে দেয়, ঠিক যে পরিবর্তন ঘোলা চুনের পানি স্বচ্ছ হওয়ার সময় দেখো।
+## example
+প্রশ্ন: সমতাকৃত সমীকরণ লিখে দেখাও যে ক্লোরিন ও ব্রোমিন হাইড্রোজেনের সাথে এবং পানিতে একই রকম আচরণ করে।
+সমাধান: H₂(g) + Cl₂(g) → 2HCl(g); HCl(g) + H₂O(l) → HCl(aq)। H₂(g) + Br₂(g) → 2HBr(g); HBr(g) + H₂O(l) → HBr(aq)।
+> পরমাণু মিলাও: বামে ২টি H + ২টি Cl, ডানে ২ × (১টি H + ১টি Cl)। সমতাকৃত।
+উত্তর: দুটিই HX সংকেতের হাইড্রোজেন হ্যালাইড গঠন করে, যা পানিতে দ্রবীভূত হয়ে এসিড দেয়।
+## example
+প্রশ্ন: একজন শিক্ষার্থী অনেকক্ষণ ধরে চুনের পানির মধ্য দিয়ে কার্বন ডাই-অক্সাইড চালাল। কী দেখা যাবে বর্ণনা ও ব্যাখ্যা করো।
+সমাধান: প্রথমে চুনের পানি ঘোলা হয়: Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O (ক্যালসিয়াম কার্বনেটের সাদা অধঃক্ষেপ)। অতিরিক্ত CO₂-এ অধঃক্ষেপ দ্রবীভূত হয়: CaCO₃ + H₂O + CO₂ → Ca(HCO₃)₂, যা দ্রবণীয়।
+উত্তর: চুনের পানি প্রথমে ঘোলা হয়, তারপর অতিরিক্ত CO₂-এ আবার স্বচ্ছ হয়ে যায়।
+## mistakes
+x হাইড্রোক্লোরিক এসিডের মতো হাইড্রোফ্লোরিক এসিডও স্কুল ল্যাবে ব্যবহার করা যায়।
+v HF অত্যন্ত বিপজ্জনক, স্কুলে কখনো ব্যবহার করা হয় না; শুধু এর সমীকরণ তুলনা করা হয়।
+x থিসল ফানেলের প্রান্ত তরলের ওপরে থাকলেও সমস্যা নেই।
+v ফানেলের প্রান্ত তরলে ডুবিয়ে রাখতেই হবে, নইলে গ্যাস ফানেল দিয়ে বেরিয়ে যায়।
+x যত CO₂-ই চালানো হোক, চুনের পানি ঘোলাই থাকে।
+v অতিরিক্ত CO₂ ঘোলা চুনের পানিকে আবার স্বচ্ছ করে (দ্রবণীয় ক্যালসিয়াম হাইড্রোজেন কার্বনেট তৈরি হয়)।
+## remember
+- H₂ + X₂ → 2HX (X = F, Cl, Br, I); HX(g) + পানি → এসিড।
+- এসিড + কার্বনেট → লবণ + পানি + CO₂: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂।
+- MgCO₃ ও CaCO₃ (গ্রুপ ২) HCl-এর সাথে একইভাবে বিক্রিয়া করে।
+- CO₂: বর্ণহীন, বাতাসের চেয়ে ভারী, জ্বলন্ত কাঠি নিভিয়ে দেয়, চুনের পানি ঘোলা করে (অতিরিক্তে আবার স্বচ্ছ)।
+- নিরাপত্তা: ফানেলের প্রান্ত তরলে, ফ্লাস্ক স্ট্যান্ডে আটকানো, চশমা; স্কুলে কখনো HF নয়।
+## think
+কার্বন ডাই-অক্সাইড পানির ওপর দিয়েও সংগ্রহ করা যায়, তবু সাধারণত বাতাসের ঊর্ধ্ব অপসারণে সংগ্রহ করা হয় কেন? (ইঙ্গিত: পানিতে CO₂ কতটা দ্রবীভূত হয় ভাবো।)
+## quiz
+? কোন গ্যাস চুনের পানিকে ঘোলা করে?
+- অক্সিজেন
+- হাইড্রোজেন
+* কার্বন ডাই-অক্সাইড
+- নাইট্রোজেন
+= CO₂ চুনের পানির সাথে অদ্রবণীয় CaCO₃ তৈরি করে।
+? H₂ + Cl₂ → ?
+- HCl
+* 2HCl
+- H₂Cl₂
+- 2HCl₂
+= একটি H₂ ও একটি Cl₂ থেকে দুটি HCl অণু (উভয় পাশে ২টি H ও ২টি Cl)।
+? থিসল ফানেলের নিচের প্রান্ত তরলে ডুবিয়ে রাখা হয় কেন?
+- ফ্লাস্ক ঠান্ডা রাখতে
+* গ্যাস যেন ফানেল দিয়ে বেরিয়ে না যায়
+- এসিডকে তীব্র করতে
+- CO₂ দ্রবীভূত করতে
+= নইলে CO₂ নির্গম নলের বদলে ফানেল দিয়ে বেরিয়ে যেত।
+? MgCO₃ + 2HCl → MgCl₂ + H₂O + ?
+- H₂
+- O₂
+* CO₂
+- Cl₂
+= কার্বনেট এসিডের সাথে বিক্রিয়ায় কার্বন ডাই-অক্সাইড দেয়।

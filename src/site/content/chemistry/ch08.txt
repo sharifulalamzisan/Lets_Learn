@@ -1,0 +1,2353 @@
+@@chapter
+== en
+## intro
+We cook rice on a gas stove, ride in buses that burn diesel, switch on a torch that runs on a small battery, and our own bodies stay warm and move by "burning" food. In every case, energy that was hidden inside substances is being set free. Where does this energy come from? It is stored in the **chemical bonds** that hold atoms together, and it is released or absorbed whenever those bonds break and new ones form. This stored energy is called **chemical energy**.
+
+In this chapter you will learn where chemical energy comes from and how it is measured, why some reactions give out heat while others take it in, and how to calculate the heat of a reaction from bond energies. You will see how chemical energy is used as heat, light and electricity, why pure fuels matter and what harm careless burning of fuels does. Then you will meet **electrochemistry**: using electricity to drive reactions (electrolysis, electroplating, extracting metals) and using reactions to produce electricity (the Daniell cell and the dry cell). Finally you will see how **nuclear reactions** release enormous energy and how a nuclear power plant makes electricity.
+## objectives
+- explain bond energy and intermolecular energy as the source of chemical energy, and use the units J, kJ and cal
+- classify reactions as exothermic or endothermic from the sign of ΔH and from energy diagrams
+- calculate the heat of reaction from bond energies
+- describe how chemical energy is changed into heat, light and electricity, and explain the importance of pure fuels and ethanol as a fuel
+- explain the harmful effects of burning fuels: global warming, acid rain and smog
+- distinguish electronic conductors from electrolytes, and strong from weak electrolytes
+- explain electrolysis of molten NaCl, concentrated NaCl solution and acidified water, and decide which ions are discharged
+- describe uses of electrolysis: extraction and purification of metals and electroplating
+- explain how a galvanic (Daniell) cell and a dry cell produce electricity, the role of the salt bridge, and the difference between electrolytic and galvanic cells
+- describe nuclear fission, fusion and the chain reaction, and how a nuclear reactor generates electricity
+== bn
+## intro
+আমরা গ্যাসের চুলায় ভাত রান্না করি, ডিজেল পোড়ানো বাসে চড়ি, ছোট্ট ব্যাটারিতে চলা টর্চ জ্বালাই, আর আমাদের শরীরও খাবার "পুড়িয়ে" উষ্ণ থাকে ও নড়াচড়া করে। প্রতিটি ক্ষেত্রেই পদার্থের ভেতরে লুকানো শক্তি মুক্ত হচ্ছে। এই শক্তি আসে কোথা থেকে? এটি জমা থাকে পরমাণুগুলোকে বেঁধে রাখা **রাসায়নিক বন্ধনে**, আর বন্ধন ভাঙার ও নতুন বন্ধন গড়ার সময় এই শক্তি বের হয় বা শোষিত হয়। জমা থাকা এই শক্তিকেই বলে **রাসায়নিক শক্তি**।
+
+এই অধ্যায়ে জানবে রাসায়নিক শক্তির উৎস কী ও কীভাবে মাপা হয়, কিছু বিক্রিয়া কেন তাপ দেয় আর কিছু বিক্রিয়া কেন তাপ টেনে নেয়, আর বন্ধন শক্তি থেকে বিক্রিয়া তাপ কীভাবে হিসাব করতে হয়। দেখবে রাসায়নিক শক্তি কীভাবে তাপ, আলো ও বিদ্যুৎ হিসেবে কাজে লাগে, বিশুদ্ধ জ্বালানি কেন জরুরি আর অসাবধানে জ্বালানি পোড়ালে কী ক্ষতি হয়। এরপর পরিচিত হবে **তড়িৎ রসায়নের** সাথে: বিদ্যুৎ দিয়ে বিক্রিয়া ঘটানো (তড়িৎ বিশ্লেষণ, তড়িৎ প্রলেপন, ধাতু নিষ্কাশন) আর বিক্রিয়া দিয়ে বিদ্যুৎ তৈরি (ডেনিয়েল কোষ ও শুষ্ক কোষ)। শেষে দেখবে **নিউক্লিয়ার বিক্রিয়া** কীভাবে বিপুল শক্তি দেয় আর পারমাণবিক বিদ্যুৎকেন্দ্র কীভাবে বিদ্যুৎ তৈরি করে।
+## objectives
+- রাসায়নিক শক্তির উৎস হিসেবে বন্ধন শক্তি ও আন্তঃআণবিক শক্তি ব্যাখ্যা করতে এবং J, kJ ও cal একক ব্যবহার করতে পারবে
+- ΔH-এর চিহ্ন ও শক্তি চিত্র দেখে বিক্রিয়াকে তাপোৎপাদী বা তাপহারী হিসেবে শনাক্ত করতে পারবে
+- বন্ধন শক্তি থেকে বিক্রিয়া তাপ হিসাব করতে পারবে
+- রাসায়নিক শক্তি কীভাবে তাপ, আলো ও বিদ্যুতে রূপান্তরিত হয় তা বর্ণনা করতে এবং বিশুদ্ধ জ্বালানি ও জ্বালানি হিসেবে ইথানলের গুরুত্ব ব্যাখ্যা করতে পারবে
+- জ্বালানি পোড়ানোর ক্ষতিকর প্রভাব (বৈশ্বিক উষ্ণতা বৃদ্ধি, এসিড বৃষ্টি, ধোঁয়াশা) ব্যাখ্যা করতে পারবে
+- ইলেকট্রনীয় পরিবাহী ও তড়িৎ বিশ্লেষ্য পরিবাহী, এবং তীব্র ও মৃদু তড়িৎ বিশ্লেষ্যের পার্থক্য করতে পারবে
+- গলিত NaCl, গাঢ় NaCl দ্রবণ ও অম্লীয় পানির তড়িৎ বিশ্লেষণ ব্যাখ্যা করতে এবং কোন আয়ন চার্জমুক্ত হবে তা ঠিক করতে পারবে
+- তড়িৎ বিশ্লেষণের ব্যবহার (ধাতু নিষ্কাশন ও বিশুদ্ধকরণ, তড়িৎ প্রলেপন) বর্ণনা করতে পারবে
+- গ্যালভানিক (ডেনিয়েল) কোষ ও শুষ্ক কোষ কীভাবে বিদ্যুৎ তৈরি করে, লবণ সেতুর ভূমিকা, আর তড়িৎ বিশ্লেষ্য কোষ ও গ্যালভানিক কোষের পার্থক্য ব্যাখ্যা করতে পারবে
+- নিউক্লিয়ার ফিশন, ফিউশন ও চেইন বিক্রিয়া এবং পারমাণবিক চুল্লিতে বিদ্যুৎ উৎপাদন বর্ণনা করতে পারবে
+
+@@ 8.1
+@related 8.1.2 8.1.3 5.8 5.12
+@media https://phet.colorado.edu/en/simulations/energy-forms-and-changes | Energy Forms and Changes (PhET simulation) | শক্তির রূপ ও রূপান্তর (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Chemical energy** is the energy stored in substances because of the attractions that hold their particles together: the **bonds** between atoms and the **intermolecular** attractions between molecules. In a chemical reaction some of this energy is changed into heat, light, electricity or sound, or extra energy is taken in.
+## simple
+Every substance is made of atoms, and atoms do not simply float around loose. In a molecule of water, an oxygen atom is held to two hydrogen atoms; in common salt, Na⁺ and Cl⁻ ions hold each other; in an iron nail, iron atoms are held by metallic bonds. Holding atoms together involves energy. The energy locked up in these attractions is what we call **chemical energy**.
+
+**1. Bond energy.** The attraction that joins one atom to another inside a substance is a **chemical bond**, and the energy associated with it is the **bond energy**. You met three kinds of bond in [[5.8|Chapter 5]]:
+- **ionic bond**, e.g. between Na⁺ and Cl⁻ in sodium chloride
+- **covalent bond**, e.g. between C and O in carbon dioxide
+- **metallic bond**, e.g. between the atoms of iron
+
+To pull two bonded atoms apart you must *supply* energy equal to the bond energy; when the same bond forms, the same amount of energy is *given out*.
+
+**2. Intermolecular energy.** Molecules of a covalent substance also attract one another, more weakly. Each water molecule is pulled by the water molecules around it. This attraction between separate molecules is the **intermolecular energy**.
+
+In an ionic solid the picture is different: there are no separate molecules. In a sodium chloride crystal, every Na⁺ ion is surrounded by **6** Cl⁻ ions, and every Cl⁻ ion by **6** Na⁺ ions, all attracting each other strongly.
+
+**Why this matters.** The attraction between ions in an ionic compound is much **stronger** than the attraction between covalent molecules. So:
+- ionic compounds have **high melting and boiling points** and are usually **solids** at room temperature (NaCl melts at 801 °C);
+- covalent compounds usually have low melting and boiling points and are often **liquids or gases** at room temperature (water, methane, carbon dioxide).
+There are exceptions: naphthalene (used as moth balls) is covalent but solid at room temperature.
+
+Also, molecules made of two *different* atoms, such as HCl, attract each other more strongly than molecules made of the *same* atoms, such as H₂. (HCl molecules are polar: one end is slightly positive and the other slightly negative.)
+
+**3. Energy changes form in reactions.** Every substance carries some energy. When a reaction happens, bonds break and new bonds form, and the balance of energy comes out as heat, light, electricity or sound, or has to be supplied from outside. Burning gas gives heat and light; a battery gives electricity; a firecracker gives light, heat and sound.
+
+**4. Units of energy.**
+- **calorie (cal)**: the heat needed to raise the temperature of **1 g of water by 1 °C**. 1 kilocalorie (kcal) = 1000 cal.
+- **joule (J)**: the SI unit of every kind of energy; 1 J is the work done when a force of 1 N moves its point of application 1 m along the force. 1 kilojoule (kJ) = 1000 J.
+- **1 cal = 4.18 J** (so 1 kcal = 4.18 kJ).
+
+The "Calories" printed on food packets are actually kilocalories.
+## analogy
+Think of bonds as tightly wound springs holding atoms together. Winding a spring (forming a bond) and releasing it (breaking a bond) both involve energy. A fuel is like a box full of springs arranged so that, when they are rearranged into new, tighter springs, a lot of energy is left over and bursts out as heat and light.
+## definition
+**Chemical energy (রাসায়নিক শক্তি)**: the energy stored in a substance due to the attractive forces by which its atoms, ions or molecules are held together; it is released or absorbed as other forms of energy during chemical reactions.
+
+**Bond energy (বন্ধন শক্তি)**: the energy of attraction by which one atom is held to another in a chemical bond; numerically, the energy needed to break one mole of a given bond (equal to the energy released when one mole of that bond forms).
+
+**Intermolecular energy (আন্তঃআণবিক শক্তি)**: the energy of attraction by which the molecules of a covalent substance are held to one another.
+
+**Calorie**: the heat needed to raise the temperature of 1 g of water by 1 °C. **Joule**: SI unit of energy. 1 cal = 4.18 J.
+## why
+Why must energy be supplied to break a bond, but is given out when a bond forms? Bonded atoms are held together by attraction, just as a magnet holds a pin. Pulling them apart works *against* that attraction, so energy has to be put in. When free atoms come together and bond, the attraction pulls them in and the same energy is let go. A reaction is a reshuffling of bonds, so whether it gives out or takes in energy depends on which is larger: the energy put in to break the old bonds or the energy given out by making the new ones.
+## terms
+Chemical energy | Energy stored in substances because of the attractions between their particles
+Bond energy | Energy of the attraction between two bonded atoms; energy needed to break that bond
+Intermolecular energy | Energy of attraction between separate molecules of a covalent substance
+Calorie (cal) | Heat needed to warm 1 g of water by 1 °C
+Joule (J) | SI unit of energy; 1 kJ = 1000 J
+kcal, kJ | 1 kcal = 1000 cal = 4.18 kJ
+## formula
+$$ 1 cal = 4.18 J
+$$ 1 kcal = 1000 cal = 4.18 kJ
+$$ heat (cal) = mass of water (g) × rise in temperature (°C)
+! kJ → kcal: divide by 4.18; kcal → kJ: multiply by 4.18.
+! The heat formula works for water only, because the calorie is defined with water.
+## real
+A packet of biscuits from a shop in Dhaka may say "480 kcal per 100 g". That is about 480 × 4.18 ≈ 2000 kJ of chemical energy, released in your body as you digest the biscuits. Nutritionists, doctors and food labels still use kcal, while scientists use kJ.
+## example
+Q: A snack is labelled 250 kcal. Express this energy in kJ.
+Given: energy = 250 kcal; 1 kcal = 4.18 kJ
+Formula: energy (kJ) = energy (kcal) × 4.18
+Calculation: 250 × 4.18 = 1045 kJ
+Answer: 1045 kJ
+## example
+Q: How much heat is needed to warm 500 g of water from 25 °C to 45 °C? Give the answer in cal and in kJ.
+Given: mass of water = 500 g; rise in temperature = 45 − 25 = 20 °C
+Formula: heat (cal) = mass (g) × rise in temperature (°C)
+Calculation: heat = 500 × 20 = 10 000 cal = 10 kcal; in joules: 10 000 × 4.18 = 41 800 J = 41.8 kJ
+> By definition, 1 cal warms 1 g of water by 1 °C, so 500 g warmed by 20 °C needs 500 × 20 calories.
+Answer: 10 000 cal (10 kcal), which is 41.8 kJ
+## example
+Q: Sodium chloride melts at 801 °C, but ice melts at 0 °C. Explain the difference using the ideas of this lesson.
+Solution: NaCl is an ionic compound: each Na⁺ is held by 6 Cl⁻ ions and each Cl⁻ by 6 Na⁺ ions through strong ionic attraction. Ice is made of separate covalent H₂O molecules held together only by the much weaker intermolecular attraction.
+> Melting means loosening these attractions so the particles can move past each other. Stronger attractions need more heat, so a higher temperature.
+Answer: The attraction between ions in NaCl is far stronger than the intermolecular attraction between water molecules, so NaCl needs a much higher temperature to melt.
+## mistakes
+x Chemical energy is a separate kind of "fuel" hidden inside substances.
+v Chemical energy is simply the energy of the attractions (bonds and intermolecular forces) between the particles of a substance.
+x Breaking a bond releases energy.
+v Breaking a bond always *needs* energy; forming a bond *releases* energy.
+x 1 J = 4.18 cal.
+v 1 cal = 4.18 J. The calorie is the bigger unit.
+## remember
+- Chemical energy = energy stored in bonds and intermolecular attractions.
+- Bond types: ionic, covalent, metallic.
+- Ionic attractions are stronger than intermolecular ones → ionic compounds have high melting/boiling points.
+- In NaCl crystal, each ion is surrounded by 6 oppositely charged ions.
+- 1 cal = 4.18 J; 1 kcal = 1000 cal; 1 kJ = 1000 J.
+## think
+When you rub your hands together they get warm, and when you burn a match it also gets warm. Which of these involves chemical energy, and which does not? Why?
+## quiz
+? The energy by which atoms are held to each other in a compound is called:
+- Kinetic energy
+* Bond energy
+- Nuclear energy
+- Sound energy
+= The attraction energy between bonded atoms is the bond energy, the source of chemical energy.
+? 1 kcal is equal to:
+- 4.18 J
+- 1000 J
+* 4.18 kJ
+- 418 kJ
+= 1 kcal = 1000 cal = 1000 × 4.18 J = 4180 J = 4.18 kJ.
+? Why do ionic compounds usually have higher melting points than covalent compounds?
+- Ionic compounds have no bonds
+* The attraction between ions is stronger than the attraction between covalent molecules
+- Covalent molecules are heavier
+- Ionic compounds are always gases
+= Stronger attractions need more heat to break, so a higher melting point.
+? How many Cl⁻ ions surround each Na⁺ ion in a sodium chloride crystal?
+- 2
+- 4
+* 6
+- 8
+= In the NaCl crystal each Na⁺ is surrounded by 6 Cl⁻ and each Cl⁻ by 6 Na⁺.
+== bn
+## what
+পদার্থের কণাগুলোকে একসাথে ধরে রাখা আকর্ষণের কারণে পদার্থে যে শক্তি জমা থাকে, তা-ই **রাসায়নিক শক্তি**: পরমাণুর মধ্যে **বন্ধন** আর অণুর মধ্যে **আন্তঃআণবিক** আকর্ষণ। রাসায়নিক বিক্রিয়ায় এই শক্তির কিছু অংশ তাপ, আলো, বিদ্যুৎ বা শব্দে রূপান্তরিত হয়, অথবা বাইরে থেকে বাড়তি শক্তি শোষিত হয়।
+## simple
+প্রতিটি পদার্থ পরমাণু দিয়ে তৈরি, আর পরমাণুগুলো আলগাভাবে ভেসে বেড়ায় না। পানির অণুতে একটি অক্সিজেন পরমাণু দুটি হাইড্রোজেন পরমাণুকে ধরে রাখে; খাবার লবণে Na⁺ ও Cl⁻ আয়ন পরস্পরকে ধরে রাখে; লোহার পেরেকে লোহার পরমাণুগুলো ধাতব বন্ধনে যুক্ত থাকে। পরমাণুকে এভাবে ধরে রাখার সাথে শক্তি জড়িত। এই আকর্ষণগুলোতে আটকে থাকা শক্তিকেই আমরা বলি **রাসায়নিক শক্তি**।
+
+**১. বন্ধন শক্তি।** পদার্থের ভেতরে একটি পরমাণুকে আরেকটির সাথে যুক্ত রাখা আকর্ষণই **রাসায়নিক বন্ধন**, আর এর সাথে জড়িত শক্তি হলো **বন্ধন শক্তি**। [[5.8|পঞ্চম অধ্যায়ে]] তুমি তিন রকম বন্ধন দেখেছ:
+- **আয়নিক বন্ধন**, যেমন সোডিয়াম ক্লোরাইডে Na⁺ ও Cl⁻-এর মধ্যে
+- **সমযোজী বন্ধন**, যেমন কার্বন ডাই-অক্সাইডে C ও O-এর মধ্যে
+- **ধাতব বন্ধন**, যেমন লোহার পরমাণুগুলোর মধ্যে
+
+বন্ধনে যুক্ত দুটি পরমাণুকে আলাদা করতে বন্ধন শক্তির সমান শক্তি *দিতে* হয়; আবার একই বন্ধন তৈরি হলে ঠিক ততটুকু শক্তি *বের হয়*।
+
+**২. আন্তঃআণবিক শক্তি।** সমযোজী পদার্থের অণুগুলোও পরস্পরকে আকর্ষণ করে, তবে দুর্বলভাবে। প্রতিটি পানির অণুকে চারপাশের পানির অণুগুলো টানে। আলাদা আলাদা অণুর মধ্যের এই আকর্ষণই **আন্তঃআণবিক শক্তি**।
+
+আয়নিক কঠিনে ছবিটা ভিন্ন: সেখানে আলাদা অণু থাকে না। সোডিয়াম ক্লোরাইডের কেলাসে প্রতিটি Na⁺ আয়নের চারপাশে **৬টি** Cl⁻ আয়ন, আর প্রতিটি Cl⁻ আয়নের চারপাশে **৬টি** Na⁺ আয়ন থাকে, সবাই পরস্পরকে জোরালোভাবে আকর্ষণ করে।
+
+**কেন এটা গুরুত্বপূর্ণ।** আয়নিক যৌগে আয়নগুলোর মধ্যের আকর্ষণ সমযোজী অণুগুলোর মধ্যের আকর্ষণের চেয়ে অনেক **বেশি**। তাই:
+- আয়নিক যৌগের **গলনাঙ্ক ও স্ফুটনাঙ্ক বেশি**, আর কক্ষ তাপমাত্রায় এরা সাধারণত **কঠিন** (NaCl গলে ৮০১ °C-এ);
+- সমযোজী যৌগের গলনাঙ্ক ও স্ফুটনাঙ্ক সাধারণত কম, আর কক্ষ তাপমাত্রায় এরা প্রায়ই **তরল বা গ্যাস** (পানি, মিথেন, কার্বন ডাই-অক্সাইড)।
+ব্যতিক্রমও আছে: ন্যাপথলিন (ন্যাপথালিনের গুলি) সমযোজী হলেও কক্ষ তাপমাত্রায় কঠিন।
+
+আবার, দুটি *ভিন্ন* মৌলের পরমাণু দিয়ে গড়া অণু (যেমন HCl) পরস্পরকে *একই* মৌলের পরমাণু দিয়ে গড়া অণুর (যেমন H₂) চেয়ে বেশি জোরে আকর্ষণ করে। (HCl অণু পোলার: এর এক প্রান্ত সামান্য ধনাত্মক, অন্য প্রান্ত সামান্য ঋণাত্মক।)
+
+**৩. বিক্রিয়ায় শক্তির রূপান্তর।** প্রত্যেক পদার্থেই কিছু না কিছু শক্তি থাকে। বিক্রিয়ার সময় বন্ধন ভাঙে আর নতুন বন্ধন গড়ে, আর শক্তির হিসাবের বাকিটুকু তাপ, আলো, বিদ্যুৎ বা শব্দ হয়ে বের হয়, নয়তো বাইরে থেকে দিতে হয়। গ্যাস পোড়ালে তাপ ও আলো; ব্যাটারি থেকে বিদ্যুৎ; আতশবাজি থেকে আলো, তাপ আর শব্দ।
+
+**৪. শক্তির একক।**
+- **ক্যালরি (cal)**: **১ g পানির তাপমাত্রা ১ °C** বাড়াতে যে তাপ লাগে। ১ কিলোক্যালরি (kcal) = ১০০০ cal।
+- **জুল (J)**: সব ধরনের শক্তির SI একক; ১ N বল প্রয়োগ করে বলের দিকে ১ m সরণ ঘটালে যে কাজ হয়, তা ১ J। ১ কিলোজুল (kJ) = ১০০০ J।
+- **১ cal = ৪.১৮ J** (তাই ১ kcal = ৪.১৮ kJ)।
+
+খাবারের প্যাকেটে লেখা "ক্যালরি" আসলে কিলোক্যালরি।
+## analogy
+বন্ধনকে ভাবো পরমাণুগুলোকে ধরে রাখা শক্ত করে প্যাঁচানো স্প্রিং হিসেবে। স্প্রিং প্যাঁচানো (বন্ধন গড়া) আর ছেড়ে দেওয়া (বন্ধন ভাঙা), দুটোতেই শক্তি জড়িত। জ্বালানি যেন স্প্রিং ভরা একটা বাক্স, যেগুলো নতুন করে আরও শক্ত স্প্রিংয়ে সাজালে অনেক শক্তি বেঁচে যায়, আর তা তাপ ও আলো হয়ে বেরিয়ে আসে।
+## definition
+**রাসায়নিক শক্তি (Chemical energy)**: পদার্থের পরমাণু, আয়ন বা অণুগুলো যে আকর্ষণ বলের মাধ্যমে পরস্পরের সাথে যুক্ত থাকে, তার ফলে পদার্থে জমা থাকা শক্তি; রাসায়নিক বিক্রিয়ায় এটি অন্য রূপের শক্তি হিসেবে মুক্ত বা শোষিত হয়।
+
+**বন্ধন শক্তি (Bond energy)**: রাসায়নিক বন্ধনে একটি পরমাণু আরেকটি পরমাণুর সাথে যে আকর্ষণ শক্তির মাধ্যমে যুক্ত থাকে; সংখ্যায় এটি কোনো বন্ধনের এক মোল ভাঙতে প্রয়োজনীয় শক্তি (যা এক মোল ওই বন্ধন গড়ার সময় নির্গত শক্তির সমান)।
+
+**আন্তঃআণবিক শক্তি (Intermolecular energy)**: সমযোজী পদার্থের অণুগুলো পরস্পরের সাথে যে আকর্ষণ শক্তির মাধ্যমে যুক্ত থাকে।
+
+**ক্যালরি**: ১ g পানির তাপমাত্রা ১ °C বাড়াতে প্রয়োজনীয় তাপ। **জুল**: শক্তির SI একক। ১ cal = ৪.১৮ J।
+## why
+বন্ধন ভাঙতে শক্তি দিতে হয়, অথচ বন্ধন গড়লে শক্তি বের হয় কেন? বন্ধনে যুক্ত পরমাণুগুলো আকর্ষণে আটকে থাকে, যেমন চুম্বক আলপিনকে ধরে রাখে। তাদের আলাদা করতে গেলে ওই আকর্ষণের *বিরুদ্ধে* কাজ করতে হয়, তাই শক্তি দিতে হয়। মুক্ত পরমাণুগুলো কাছে এসে বন্ধন গড়লে আকর্ষণ তাদের টেনে নেয়, আর সেই একই শক্তি ছাড়া পায়। বিক্রিয়া মানে বন্ধনের পুনর্বিন্যাস, তাই বিক্রিয়া শক্তি দেবে না নেবে তা নির্ভর করে কোনটা বড় তার ওপর: পুরোনো বন্ধন ভাঙতে দেওয়া শক্তি, নাকি নতুন বন্ধন গড়তে বের হওয়া শক্তি।
+## terms
+রাসায়নিক শক্তি | কণাগুলোর মধ্যের আকর্ষণের কারণে পদার্থে জমা থাকা শক্তি
+বন্ধন শক্তি | বন্ধনে যুক্ত দুটি পরমাণুর মধ্যের আকর্ষণ শক্তি; ওই বন্ধন ভাঙতে প্রয়োজনীয় শক্তি
+আন্তঃআণবিক শক্তি | সমযোজী পদার্থের আলাদা অণুগুলোর মধ্যের আকর্ষণ শক্তি
+ক্যালরি (cal) | ১ g পানিকে ১ °C গরম করতে প্রয়োজনীয় তাপ
+জুল (J) | শক্তির SI একক; ১ kJ = ১০০০ J
+kcal, kJ | ১ kcal = ১০০০ cal = ৪.১৮ kJ
+## formula
+$$ ১ cal = ৪.১৮ J
+$$ ১ kcal = ১০০০ cal = ৪.১৮ kJ
+$$ তাপ (cal) = পানির ভর (g) × তাপমাত্রা বৃদ্ধি (°C)
+! kJ → kcal: ৪.১৮ দিয়ে ভাগ; kcal → kJ: ৪.১৮ দিয়ে গুণ।
+! তাপের সূত্রটি শুধু পানির জন্য, কারণ ক্যালরির সংজ্ঞাই পানি দিয়ে দেওয়া।
+## real
+ঢাকার দোকান থেকে কেনা বিস্কুটের প্যাকেটে হয়তো লেখা "প্রতি ১০০ g-এ ৪৮০ kcal"। এটি প্রায় ৪৮০ × ৪.১৮ ≈ ২০০০ kJ রাসায়নিক শক্তি, যা বিস্কুট হজমের সময় তোমার শরীরে মুক্ত হয়। পুষ্টিবিদ, ডাক্তার আর খাবারের লেবেলে এখনো kcal চলে, আর বিজ্ঞানীরা ব্যবহার করেন kJ।
+## example
+প্রশ্ন: একটি নাশতার গায়ে লেখা ২৫০ kcal। এই শক্তিকে kJ-এ প্রকাশ করো।
+দেওয়া আছে: শক্তি = ২৫০ kcal; ১ kcal = ৪.১৮ kJ
+সূত্র: শক্তি (kJ) = শক্তি (kcal) × ৪.১৮
+হিসাব: ২৫০ × ৪.১৮ = ১০৪৫ kJ
+উত্তর: ১০৪৫ kJ
+## example
+প্রশ্ন: ৫০০ g পানিকে ২৫ °C থেকে ৪৫ °C-এ গরম করতে কত তাপ লাগবে? উত্তর cal ও kJ দুই এককেই দাও।
+দেওয়া আছে: পানির ভর = ৫০০ g; তাপমাত্রা বৃদ্ধি = ৪৫ − ২৫ = ২০ °C
+সূত্র: তাপ (cal) = ভর (g) × তাপমাত্রা বৃদ্ধি (°C)
+হিসাব: তাপ = ৫০০ × ২০ = ১০ ০০০ cal = ১০ kcal; জুলে: ১০ ০০০ × ৪.১৮ = ৪১ ৮০০ J = ৪১.৮ kJ
+> সংজ্ঞা অনুযায়ী ১ cal তাপ ১ g পানিকে ১ °C গরম করে, তাই ৫০০ g পানিকে ২০ °C গরম করতে ৫০০ × ২০ ক্যালরি লাগে।
+উত্তর: ১০ ০০০ cal (১০ kcal), অর্থাৎ ৪১.৮ kJ
+## example
+প্রশ্ন: সোডিয়াম ক্লোরাইড গলে ৮০১ °C-এ, অথচ বরফ গলে ০ °C-এ। এই পাঠের ধারণা দিয়ে পার্থক্যটা ব্যাখ্যা করো।
+সমাধান: NaCl আয়নিক যৌগ: প্রতিটি Na⁺ ৬টি Cl⁻ দিয়ে আর প্রতিটি Cl⁻ ৬টি Na⁺ দিয়ে শক্তিশালী আয়নিক আকর্ষণে আটকে থাকে। বরফ তৈরি আলাদা আলাদা সমযোজী H₂O অণু দিয়ে, যারা শুধু অনেক দুর্বল আন্তঃআণবিক আকর্ষণে যুক্ত।
+> গলা মানে এই আকর্ষণ ঢিলা করে কণাগুলোকে পাশ কাটিয়ে চলতে দেওয়া। আকর্ষণ যত জোরালো, তত বেশি তাপ, মানে তত বেশি তাপমাত্রা লাগে।
+উত্তর: NaCl-এ আয়নগুলোর আকর্ষণ পানির অণুগুলোর আন্তঃআণবিক আকর্ষণের চেয়ে অনেক বেশি, তাই NaCl গলতে অনেক বেশি তাপমাত্রা লাগে।
+## mistakes
+x রাসায়নিক শক্তি হলো পদার্থের ভেতরে লুকানো আলাদা এক রকম "জ্বালানি"।
+v রাসায়নিক শক্তি আসলে পদার্থের কণাগুলোর মধ্যের আকর্ষণের (বন্ধন ও আন্তঃআণবিক বল) শক্তি।
+x বন্ধন ভাঙলে শক্তি বের হয়।
+v বন্ধন ভাঙতে সবসময় শক্তি *লাগে*; বন্ধন গড়লে শক্তি *বের হয়*।
+x ১ J = ৪.১৮ cal।
+v ১ cal = ৪.১৮ J। ক্যালরি বড় একক।
+## remember
+- রাসায়নিক শক্তি = বন্ধন ও আন্তঃআণবিক আকর্ষণে জমা থাকা শক্তি।
+- বন্ধনের ধরন: আয়নিক, সমযোজী, ধাতব।
+- আয়নিক আকর্ষণ আন্তঃআণবিক আকর্ষণের চেয়ে বেশি → আয়নিক যৌগের গলনাঙ্ক ও স্ফুটনাঙ্ক বেশি।
+- NaCl কেলাসে প্রতিটি আয়নের চারপাশে বিপরীত আধানের ৬টি আয়ন।
+- ১ cal = ৪.১৮ J; ১ kcal = ১০০০ cal; ১ kJ = ১০০০ J।
+## think
+দুই হাত ঘষলে হাত গরম হয়, আবার দেশলাইয়ের কাঠি জ্বালালেও গরম হয়। এদের কোনটিতে রাসায়নিক শক্তি জড়িত, কোনটিতে নয়? কেন?
+## quiz
+? যৌগে পরমাণুগুলো যে শক্তির মাধ্যমে পরস্পরের সাথে যুক্ত থাকে, তাকে বলে:
+- গতিশক্তি
+* বন্ধন শক্তি
+- নিউক্লীয় শক্তি
+- শব্দশক্তি
+= বন্ধনে যুক্ত পরমাণুগুলোর মধ্যের আকর্ষণ শক্তিই বন্ধন শক্তি, যা রাসায়নিক শক্তির উৎস।
+? ১ kcal সমান:
+- ৪.১৮ J
+- ১০০০ J
+* ৪.১৮ kJ
+- ৪১৮ kJ
+= ১ kcal = ১০০০ cal = ১০০০ × ৪.১৮ J = ৪১৮০ J = ৪.১৮ kJ।
+? আয়নিক যৌগের গলনাঙ্ক সাধারণত সমযোজী যৌগের চেয়ে বেশি কেন?
+- আয়নিক যৌগে কোনো বন্ধন নেই
+* আয়নগুলোর মধ্যের আকর্ষণ সমযোজী অণুগুলোর মধ্যের আকর্ষণের চেয়ে বেশি
+- সমযোজী অণু বেশি ভারী
+- আয়নিক যৌগ সবসময় গ্যাস
+= জোরালো আকর্ষণ ভাঙতে বেশি তাপ লাগে, তাই গলনাঙ্ক বেশি।
+? সোডিয়াম ক্লোরাইডের কেলাসে প্রতিটি Na⁺ আয়নের চারপাশে কয়টি Cl⁻ আয়ন থাকে?
+- ২
+- ৪
+* ৬
+- ৮
+= NaCl কেলাসে প্রতিটি Na⁺-এর চারপাশে ৬টি Cl⁻ আর প্রতিটি Cl⁻-এর চারপাশে ৬টি Na⁺ থাকে।
+
+@@ 8.1.2
+@visual k8profile
+@related 8.1 8.1.3 7.2.2 8.2
+== en
+## what
+Reactions that **give out heat** are **exothermic** (ΔH negative); reactions that **take in heat** are **endothermic** (ΔH positive). ΔH, the **heat of reaction**, is the total energy of the products minus the total energy of the reactants.
+## simple
+Put your hand near a gas burner: the burning gas is **giving out** heat. Now think of a village lime kiln where snail and oyster shells are roasted for hours to make edible lime (চুন): the shells keep **taking in** heat from the fire. Chemists sort reactions into these two families according to what happens to heat.
+
+**Internal energy and ΔH.** At a given temperature every substance holds a definite amount of energy, called its **internal energy** or **heat content**, written H. Call the total heat content of the reactants **H₁** and that of the products **H₂**. Then the heat of reaction is
+
+**ΔH = H₂ − H₁** (products − reactants)
+
+(Δ, the Greek letter "delta", means "change in".)
+
+**Exothermic: H₁ > H₂, ΔH negative.** The reactants had more energy than the products. The extra energy escapes as heat, and the surroundings get warmer. Book example: H₁ = 50 kJ/mol, H₂ = 20 kJ/mol, so ΔH = 20 − 50 = **−30 kJ/mol**: 30 kJ of heat is given out per mole.
+
+**Endothermic: H₁ < H₂, ΔH positive.** The products hold more energy than the reactants, so the difference must be taken in from the surroundings, which get colder (or a burner must supply it). Book example: H₁ = 70 kJ/mol, H₂ = 80 kJ/mol, so ΔH = 80 − 70 = **+10 kJ/mol**.
+
+**Writing the heat in the equation.** For an exothermic reaction, "heat" can be written on the **right** (it is a product) or ΔH written with a **minus** sign. For an endothermic reaction heat is written on the **left** (it is used up like a reactant) or ΔH written with a **plus** sign.
+
+**Exothermic examples**
+- **Burning methane** (natural gas, the gas in our stoves):
+  CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l) + 890 kJ, or ΔH = −890 kJ/mol
+- **Slaking quicklime** (pouring water on dry lime, CaO): the mixture becomes very hot.
+  CaO(s) + H₂O(l) → Ca(OH)₂(s) + 63.95 kJ, or ΔH = −63.95 kJ/mol
+
+**Endothermic examples**
+- **Making lime from shells**: shells are about 98% calcium carbonate. Strong heating breaks it down; the calcium oxide (lime) stays behind and carbon dioxide goes into the air.
+  CaCO₃(s) + 176.8 kJ → CaO(s) + CO₂(g), or ΔH = +176.8 kJ/mol
+- **Dissolving ammonium chloride** in water: the water turns noticeably cold.
+  NH₄Cl(s) → NH₄⁺(aq) + Cl⁻(aq); ΔH positive (about +15 kJ/mol)
+
+**The energy diagram.** Draw energy upward and the progress of the reaction sideways. Reactants sit on one level, products on another. Between them there is usually a **hump**: even an exothermic reaction needs a little energy to get started (a match to light the gas). The height of the hump above the reactants is the **activation energy**. For an exothermic reaction the products end up **lower** than the reactants; for an endothermic reaction they end up **higher**. The vertical gap between reactants and products is ΔH.
+
+**Investigation 1: NH₄Cl in water.** Take 50 g of distilled water in a beaker and note its temperature. Stir in 10 g of ammonium chloride until it dissolves and read the thermometer again. The temperature **falls**: breaking up the crystal and separating the ions takes energy, which comes from the water. Dissolving NH₄Cl is endothermic.
+
+**Investigation 2: lime in water.** Half fill a beaker with water and note its temperature. Add a little quicklime (CaO), stir with a glass rod and read the temperature quickly. It **rises**: the reaction is exothermic. *Safety: quicklime and the hot, alkaline mixture burn skin and eyes. Use only a small spoonful, wear goggles and gloves, and never hold the beaker in your hand while the lime reacts.*
+## analogy
+Think of a ball rolling between two terraces on a hillside. If it rolls down to a lower terrace, energy is given out (exothermic). If it must be pushed up to a higher terrace, energy has to be supplied (endothermic). Either way there is usually a small ridge at the edge that the ball must first be nudged over: the activation energy.
+## definition
+**Heat of reaction (ΔH, বিক্রিয়া তাপ)**: the change in heat content in a reaction, ΔH = total heat content of products (H₂) − total heat content of reactants (H₁), usually given in kJ/mol.
+
+**Exothermic reaction (তাপোৎপাদী বিক্রিয়া)**: a reaction in which heat is given out to the surroundings; H₁ > H₂, so ΔH is negative.
+
+**Endothermic reaction (তাপহারী বিক্রিয়া)**: a reaction in which heat is absorbed from the surroundings; H₁ < H₂, so ΔH is positive.
+## why
+Why does the sign of ΔH tell us whether heat goes out or comes in? Energy cannot be created or destroyed. If the products end up with less energy than the reactants (ΔH negative), the missing energy must have gone somewhere: it left as heat and warmed the surroundings. If the products end up with more energy (ΔH positive), that extra energy must have come from somewhere: it was drawn in as heat, cooling the surroundings or taken from a flame. The minus sign simply means "the substances lost energy".
+## terms
+Heat content / internal energy (H) | Energy held by a substance at a given temperature
+Heat of reaction (ΔH) | H(products) − H(reactants), in kJ/mol
+Exothermic | Gives out heat; ΔH negative; surroundings warm up
+Endothermic | Takes in heat; ΔH positive; surroundings cool down
+Activation energy | The minimum energy needed to start a reaction (the hump in the energy diagram)
+Quicklime / slaked lime | CaO / Ca(OH)₂
+## formula
+$$ ΔH = H₂ − H₁
+H₁ | total heat content of the reactants | kJ/mol
+H₂ | total heat content of the products | kJ/mol
+ΔH | heat of reaction | kJ/mol
+! ΔH < 0 → exothermic (heat on the right of the equation).
+! ΔH > 0 → endothermic (heat on the left of the equation).
+! ΔH is for the amounts in the balanced equation; double the amounts → double the heat.
+## visual
+Move the sliders for the energy of the reactants, the products and the activation energy (or tap a preset). Watch the diagram, the sign of ΔH and the thermometer in the surroundings.
+## real
+Cold packs used in sports first aid contain a salt (often ammonium nitrate) and water in separate pouches; squeezing mixes them and the pack becomes cold, an endothermic dissolution. Lime sellers in rural Bangladesh roast shells (endothermic) to make চুন, and the chun you mix with water for whitewash gets hot (exothermic).
+## example
+Q: In a reaction the total heat content of the reactants is 50 kJ/mol and that of the products is 20 kJ/mol. Find ΔH and say whether the reaction is exothermic or endothermic.
+Given: H₁ = 50 kJ/mol, H₂ = 20 kJ/mol
+Formula: ΔH = H₂ − H₁
+Substitution: ΔH = 20 − 50
+Calculation: ΔH = −30 kJ/mol
+Answer: ΔH = −30 kJ/mol; negative, so the reaction is exothermic (30 kJ of heat given out per mole).
+## example
+Q: For another reaction H₁ = 70 kJ/mol and H₂ = 80 kJ/mol. Find ΔH.
+Given: H₁ = 70 kJ/mol, H₂ = 80 kJ/mol
+Formula: ΔH = H₂ − H₁
+Calculation: ΔH = 80 − 70 = +10 kJ/mol
+Answer: +10 kJ/mol; positive, so endothermic (10 kJ absorbed per mole).
+## example
+Q: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l); ΔH = −890 kJ/mol. How much heat is given out when 8 g of methane burns completely? (C = 12, H = 1)
+Given: M(CH₄) = 12 + 4 × 1 = 16 g/mol; mass = 8 g
+Formula: moles = mass ÷ molar mass; heat = moles × 890 kJ
+Calculation: moles = 8 ÷ 16 = 0.5 mol; heat = 0.5 × 890 = 445 kJ
+> ΔH = −890 kJ/mol means 890 kJ for each mole of CH₄ in the equation, so half a mole gives half the heat.
+Answer: 445 kJ of heat is given out.
+## example
+Q: CaCO₃(s) → CaO(s) + CO₂(g); ΔH = +176.8 kJ/mol. How much heat is needed to convert 1 kg of pure calcium carbonate to lime? (Ca = 40, C = 12, O = 16)
+Given: M(CaCO₃) = 40 + 12 + 3 × 16 = 100 g/mol; mass = 1000 g
+Formula: moles = mass ÷ molar mass; heat = moles × 176.8 kJ
+Calculation: moles = 1000 ÷ 100 = 10 mol; heat = 10 × 176.8 = 1768 kJ
+Answer: 1768 kJ (about 1.77 × 10^{3} kJ) must be supplied.
+## mistakes
+x In an exothermic reaction ΔH is positive because heat is produced.
+v ΔH is measured from the substances' point of view: they lose energy, so ΔH is **negative** for an exothermic reaction.
+x Endothermic reactions never happen by themselves.
+v Many need continuous heating (e.g. CaCO₃ → CaO + CO₂), but some go on their own and simply draw heat from the surroundings, like NH₄Cl dissolving in water.
+x CaO + 2H₂O → Ca(OH)₂
+v Count the atoms: CaO + H₂O → Ca(OH)₂ is already balanced (1 Ca, 2 O, 2 H on each side).
+## remember
+- ΔH = H(products) − H(reactants).
+- Exothermic: heat out, ΔH −, products lower in the energy diagram (burning CH₄, CaO + H₂O).
+- Endothermic: heat in, ΔH +, products higher (CaCO₃ → CaO + CO₂, NH₄Cl dissolving).
+- Activation energy: the hump that must be climbed to start a reaction.
+## think
+A burning candle gives out heat, yet the candle does not light itself; you must bring a flame to it. How does the energy diagram explain this?
+## quiz
+? For an exothermic reaction the value of ΔH is:
+* Negative
+- Positive
+- Zero
+- Always +890 kJ/mol
+= The products have less energy than the reactants, so ΔH = H₂ − H₁ is negative.
+? When ammonium chloride dissolves in water, the water becomes cold. The process is:
+- Exothermic
+* Endothermic
+- Neither
+- A nuclear reaction
+= Heat is taken from the water, so the process is endothermic (ΔH positive).
+? In a reaction H₁ = 120 kJ/mol and H₂ = 45 kJ/mol. ΔH is:
+- +75 kJ/mol
+* −75 kJ/mol
+- +165 kJ/mol
+- −165 kJ/mol
+= ΔH = H₂ − H₁ = 45 − 120 = −75 kJ/mol.
+? Which of these is endothermic?
+- Burning natural gas
+- Adding water to quicklime
+* Heating shells (CaCO₃) to make lime
+- Burning wood
+= Decomposing CaCO₃ into CaO and CO₂ needs a continuous supply of heat (ΔH = +176.8 kJ/mol).
+== bn
+## what
+যেসব বিক্রিয়ায় **তাপ নির্গত হয়**, সেগুলো **তাপোৎপাদী** (ΔH ঋণাত্মক); যেসব বিক্রিয়ায় **তাপ শোষিত হয়**, সেগুলো **তাপহারী** (ΔH ধনাত্মক)। ΔH বা **বিক্রিয়া তাপ** হলো উৎপাদগুলোর মোট শক্তি থেকে বিক্রিয়কগুলোর মোট শক্তি বিয়োগ করলে যা থাকে।
+## simple
+গ্যাসের চুলার কাছে হাত রাখো: জ্বলন্ত গ্যাস তাপ **দিচ্ছে**। এবার ভাবো গ্রামের চুনের ভাটার কথা, যেখানে শামুক-ঝিনুকের খোলস ঘণ্টার পর ঘণ্টা পুড়িয়ে খাবার চুন বানানো হয়: খোলসগুলো আগুন থেকে ক্রমাগত তাপ **নিচ্ছে**। তাপের কী হয় তা দেখে রসায়নবিদেরা বিক্রিয়াকে এই দুই দলে ভাগ করেন।
+
+**অভ্যন্তরীণ শক্তি ও ΔH।** নির্দিষ্ট তাপমাত্রায় প্রতিটি পদার্থ নির্দিষ্ট পরিমাণ শক্তি ধারণ করে, একে বলে **অভ্যন্তরীণ শক্তি** বা **ধারণকৃত তাপ**, প্রকাশ করা হয় H দিয়ে। বিক্রিয়কগুলোর মোট ধারণকৃত তাপকে **H₁** আর উৎপাদগুলোরটাকে **H₂** বলি। তাহলে বিক্রিয়া তাপ
+
+**ΔH = H₂ − H₁** (উৎপাদ − বিক্রিয়ক)
+
+(Δ, গ্রিক অক্ষর "ডেল্টা", মানে "পরিবর্তন"।)
+
+**তাপোৎপাদী: H₁ > H₂, ΔH ঋণাত্মক।** বিক্রিয়কের শক্তি উৎপাদের চেয়ে বেশি ছিল। বাড়তি শক্তি তাপ হয়ে বেরিয়ে যায়, চারপাশ গরম হয়। বইয়ের উদাহরণ: H₁ = ৫০ kJ/mol, H₂ = ২০ kJ/mol, তাই ΔH = ২০ − ৫০ = **−৩০ kJ/mol**: প্রতি মোলে ৩০ kJ তাপ নির্গত হয়।
+
+**তাপহারী: H₁ < H₂, ΔH ধনাত্মক।** উৎপাদের শক্তি বিক্রিয়কের চেয়ে বেশি, তাই পার্থক্যটুকু চারপাশ থেকে টেনে নিতে হয়, চারপাশ ঠান্ডা হয় (অথবা চুলা থেকে তাপ দিতে হয়)। বইয়ের উদাহরণ: H₁ = ৭০ kJ/mol, H₂ = ৮০ kJ/mol, তাই ΔH = ৮০ − ৭০ = **+১০ kJ/mol**।
+
+**সমীকরণে তাপ লেখা।** তাপোৎপাদী বিক্রিয়ায় "তাপ" লেখা যায় **ডান দিকে** (এটি উৎপাদের মতো), অথবা ΔH লেখা হয় **ঋণাত্মক** চিহ্নে। তাপহারী বিক্রিয়ায় তাপ লেখা হয় **বাম দিকে** (বিক্রিয়কের মতো খরচ হয়), অথবা ΔH লেখা হয় **ধনাত্মক** চিহ্নে।
+
+**তাপোৎপাদী বিক্রিয়ার উদাহরণ**
+- **মিথেন পোড়ানো** (প্রাকৃতিক গ্যাস, আমাদের চুলার গ্যাস):
+  CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l) + 890 kJ, অথবা ΔH = −890 kJ/mol
+- **শুকনা চুনে পানি দেওয়া** (শুকনা চুন বা পোড়া চুন, CaO): মিশ্রণটি খুব গরম হয়ে ওঠে।
+  CaO(s) + H₂O(l) → Ca(OH)₂(s) + 63.95 kJ, অথবা ΔH = −63.95 kJ/mol
+
+**তাপহারী বিক্রিয়ার উদাহরণ**
+- **খোলস থেকে চুন তৈরি**: খোলসে প্রায় ৯৮% ক্যালসিয়াম কার্বনেট থাকে। জোরালো তাপে এটি ভেঙে যায়; ক্যালসিয়াম অক্সাইড (চুন) পড়ে থাকে আর কার্বন ডাই-অক্সাইড বাতাসে মিশে যায়।
+  CaCO₃(s) + 176.8 kJ → CaO(s) + CO₂(g), অথবা ΔH = +176.8 kJ/mol
+- **পানিতে অ্যামোনিয়াম ক্লোরাইড দ্রবীভূত করা**: পানি বেশ ঠান্ডা হয়ে যায়।
+  NH₄Cl(s) → NH₄⁺(aq) + Cl⁻(aq); ΔH ধনাত্মক (প্রায় +১৫ kJ/mol)
+
+**শক্তি চিত্র।** ওপরের দিকে শক্তি আর পাশের দিকে বিক্রিয়ার অগ্রগতি আঁকো। বিক্রিয়কগুলো এক স্তরে, উৎপাদগুলো আরেক স্তরে থাকে। এদের মাঝে সাধারণত একটা **কুঁজ** থাকে: তাপোৎপাদী বিক্রিয়াও শুরু করতে সামান্য শক্তি লাগে (গ্যাস জ্বালাতে দেশলাই)। বিক্রিয়কের স্তর থেকে কুঁজের উচ্চতাকে বলে **সক্রিয়ণ শক্তি**। তাপোৎপাদী বিক্রিয়ায় উৎপাদ বিক্রিয়কের চেয়ে **নিচে** নামে; তাপহারী বিক্রিয়ায় **ওপরে** ওঠে। বিক্রিয়ক ও উৎপাদের মাঝের খাড়া ব্যবধানই ΔH।
+
+**পরীক্ষণ ১: পানিতে NH₄Cl।** বিকারে ৫০ g পাতিত পানি নিয়ে তাপমাত্রা লিখে রাখো। ১০ g অ্যামোনিয়াম ক্লোরাইড দিয়ে কাচদণ্ডে নেড়ে দ্রবীভূত করো, তারপর আবার থার্মোমিটার দেখো। তাপমাত্রা **কমে যায়**: কেলাস ভেঙে আয়নগুলো আলাদা করতে শক্তি লাগে, যা আসে পানি থেকে। NH₄Cl-এর দ্রবীভবন তাপহারী।
+
+**পরীক্ষণ ২: পানিতে চুন।** বিকারের অর্ধেক পানি ভরে তাপমাত্রা লেখো। সামান্য শুকনা চুন (CaO) দিয়ে কাচদণ্ডে নাড়ো আর দ্রুত তাপমাত্রা দেখো। তাপমাত্রা **বাড়ে**: বিক্রিয়াটি তাপোৎপাদী। *সতর্কতা: শুকনা চুন আর গরম ক্ষারীয় মিশ্রণ চামড়া ও চোখ পুড়িয়ে দিতে পারে। অল্প এক চামচ নাও, চশমা ও গ্লাভস পরো, আর চুন বিক্রিয়া করার সময় বিকার হাতে ধরে রেখো না।*
+## analogy
+পাহাড়ের গায়ে দুটি ধাপের মাঝে গড়িয়ে চলা একটা বলের কথা ভাবো। নিচের ধাপে গড়িয়ে নামলে শক্তি বের হয় (তাপোৎপাদী)। ওপরের ধাপে তুলতে হলে ঠেলে শক্তি দিতে হয় (তাপহারী)। দুই ক্ষেত্রেই ধাপের কিনারে সাধারণত ছোট একটা আল থাকে, যার ওপর দিয়ে বলটাকে প্রথমে একটু ঠেলে পার করাতে হয়: সেটাই সক্রিয়ণ শক্তি।
+## definition
+**বিক্রিয়া তাপ (ΔH, Heat of reaction)**: বিক্রিয়ায় ধারণকৃত তাপের পরিবর্তন, ΔH = উৎপাদসমূহের মোট ধারণকৃত তাপ (H₂) − বিক্রিয়কসমূহের মোট ধারণকৃত তাপ (H₁), সাধারণত kJ/mol এককে।
+
+**তাপোৎপাদী বিক্রিয়া (Exothermic reaction)**: যে বিক্রিয়ায় চারপাশে তাপ নির্গত হয়; H₁ > H₂, তাই ΔH ঋণাত্মক।
+
+**তাপহারী বিক্রিয়া (Endothermic reaction)**: যে বিক্রিয়ায় চারপাশ থেকে তাপ শোষিত হয়; H₁ < H₂, তাই ΔH ধনাত্মক।
+## why
+ΔH-এর চিহ্ন দেখে কীভাবে বোঝা যায় তাপ বের হচ্ছে নাকি ঢুকছে? শক্তি সৃষ্টি বা ধ্বংস হয় না। উৎপাদের শক্তি বিক্রিয়কের চেয়ে কম হলে (ΔH ঋণাত্মক), হারানো শক্তি কোথাও না কোথাও গেছে: তাপ হয়ে বেরিয়ে চারপাশ গরম করেছে। উৎপাদের শক্তি বেশি হলে (ΔH ধনাত্মক), বাড়তি শক্তি কোথাও থেকে এসেছে: তাপ হিসেবে টেনে নেওয়া হয়েছে, চারপাশ ঠান্ডা করে বা শিখা থেকে নিয়ে। ঋণাত্মক চিহ্নের সোজা মানে "পদার্থগুলো শক্তি হারিয়েছে"।
+## terms
+ধারণকৃত তাপ / অভ্যন্তরীণ শক্তি (H) | নির্দিষ্ট তাপমাত্রায় পদার্থের ধারণ করা শক্তি
+বিক্রিয়া তাপ (ΔH) | H(উৎপাদ) − H(বিক্রিয়ক), kJ/mol এককে
+তাপোৎপাদী | তাপ দেয়; ΔH ঋণাত্মক; চারপাশ গরম হয়
+তাপহারী | তাপ নেয়; ΔH ধনাত্মক; চারপাশ ঠান্ডা হয়
+সক্রিয়ণ শক্তি | বিক্রিয়া শুরু করতে প্রয়োজনীয় ন্যূনতম শক্তি (শক্তি চিত্রের কুঁজ)
+শুকনা চুন / ক্যালসিয়াম হাইড্রোক্সাইড (দ্রবণে: চুনের পানি) | CaO / Ca(OH)₂
+## formula
+$$ ΔH = H₂ − H₁
+H₁ | বিক্রিয়কসমূহের মোট ধারণকৃত তাপ | kJ/mol
+H₂ | উৎপাদসমূহের মোট ধারণকৃত তাপ | kJ/mol
+ΔH | বিক্রিয়া তাপ | kJ/mol
+! ΔH < ০ → তাপোৎপাদী (সমীকরণের ডানে তাপ)।
+! ΔH > ০ → তাপহারী (সমীকরণের বামে তাপ)।
+! ΔH সমতাকৃত সমীকরণের পরিমাণের জন্য; পরিমাণ দ্বিগুণ → তাপও দ্বিগুণ।
+## visual
+বিক্রিয়কের শক্তি, উৎপাদের শক্তি আর সক্রিয়ণ শক্তির স্লাইডার সরাও (অথবা একটি প্রিসেট চাপো)। চিত্র, ΔH-এর চিহ্ন আর চারপাশের থার্মোমিটার খেয়াল করো।
+## real
+খেলাধুলায় প্রাথমিক চিকিৎসায় ব্যবহৃত কোল্ড প্যাকে আলাদা থলিতে একটি লবণ (প্রায়ই অ্যামোনিয়াম নাইট্রেট) আর পানি থাকে; চাপ দিলে মিশে যায় আর প্যাকটি ঠান্ডা হয়ে যায়, এটি তাপহারী দ্রবীভবন। গ্রামবাংলার চুন বিক্রেতারা খোলস পুড়িয়ে (তাপহারী) চুন বানান, আর চুনকাম করার জন্য সেই চুনে পানি মেশালে তা গরম হয়ে ওঠে (তাপোৎপাদী)।
+## example
+প্রশ্ন: একটি বিক্রিয়ায় বিক্রিয়কসমূহের মোট ধারণকৃত তাপ ৫০ kJ/mol আর উৎপাদসমূহের ২০ kJ/mol। ΔH বের করো এবং বিক্রিয়াটি তাপোৎপাদী না তাপহারী বলো।
+দেওয়া আছে: H₁ = ৫০ kJ/mol, H₂ = ২০ kJ/mol
+সূত্র: ΔH = H₂ − H₁
+মান বসাই: ΔH = ২০ − ৫০
+হিসাব: ΔH = −৩০ kJ/mol
+উত্তর: ΔH = −৩০ kJ/mol; ঋণাত্মক, তাই বিক্রিয়াটি তাপোৎপাদী (প্রতি মোলে ৩০ kJ তাপ নির্গত)।
+## example
+প্রশ্ন: আরেকটি বিক্রিয়ায় H₁ = ৭০ kJ/mol আর H₂ = ৮০ kJ/mol। ΔH কত?
+দেওয়া আছে: H₁ = ৭০ kJ/mol, H₂ = ৮০ kJ/mol
+সূত্র: ΔH = H₂ − H₁
+হিসাব: ΔH = ৮০ − ৭০ = +১০ kJ/mol
+উত্তর: +১০ kJ/mol; ধনাত্মক, তাই তাপহারী (প্রতি মোলে ১০ kJ শোষিত)।
+## example
+প্রশ্ন: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l); ΔH = −890 kJ/mol। ৮ g মিথেন সম্পূর্ণ পুড়লে কত তাপ নির্গত হবে? (C = ১২, H = ১)
+দেওয়া আছে: M(CH₄) = ১২ + ৪ × ১ = ১৬ g/mol; ভর = ৮ g
+সূত্র: মোল = ভর ÷ মোলার ভর; তাপ = মোল × ৮৯০ kJ
+হিসাব: মোল = ৮ ÷ ১৬ = ০.৫ mol; তাপ = ০.৫ × ৮৯০ = ৪৪৫ kJ
+> ΔH = −৮৯০ kJ/mol মানে সমীকরণের প্রতি মোল CH₄-এর জন্য ৮৯০ kJ, তাই আধা মোলে অর্ধেক তাপ।
+উত্তর: ৪৪৫ kJ তাপ নির্গত হবে।
+## example
+প্রশ্ন: CaCO₃(s) → CaO(s) + CO₂(g); ΔH = +176.8 kJ/mol। ১ kg বিশুদ্ধ ক্যালসিয়াম কার্বনেটকে চুনে পরিণত করতে কত তাপ লাগবে? (Ca = ৪০, C = ১২, O = ১৬)
+দেওয়া আছে: M(CaCO₃) = ৪০ + ১২ + ৩ × ১৬ = ১০০ g/mol; ভর = ১০০০ g
+সূত্র: মোল = ভর ÷ মোলার ভর; তাপ = মোল × ১৭৬.৮ kJ
+হিসাব: মোল = ১০০০ ÷ ১০০ = ১০ mol; তাপ = ১০ × ১৭৬.৮ = ১৭৬৮ kJ
+উত্তর: ১৭৬৮ kJ (প্রায় ১.৭৭ × ১০^{৩} kJ) তাপ দিতে হবে।
+## mistakes
+x তাপোৎপাদী বিক্রিয়ায় তাপ তৈরি হয়, তাই ΔH ধনাত্মক।
+v ΔH মাপা হয় পদার্থের দিক থেকে: তারা শক্তি হারায়, তাই তাপোৎপাদী বিক্রিয়ায় ΔH **ঋণাত্মক**।
+x তাপহারী বিক্রিয়া কখনো নিজে নিজে ঘটে না।
+v অনেকগুলোতে একটানা তাপ দিতে হয় (যেমন CaCO₃ → CaO + CO₂), কিন্তু কিছু নিজে নিজেই ঘটে আর চারপাশ থেকে তাপ টেনে নেয়, যেমন পানিতে NH₄Cl দ্রবীভূত হওয়া।
+x CaO + 2H₂O → Ca(OH)₂
+v পরমাণু গুনে দেখো: CaO + H₂O → Ca(OH)₂ এমনিতেই সমতাকৃত (দুই পাশে ১টি Ca, ২টি O, ২টি H)।
+## remember
+- ΔH = H(উৎপাদ) − H(বিক্রিয়ক)।
+- তাপোৎপাদী: তাপ বের হয়, ΔH −, শক্তি চিত্রে উৎপাদ নিচে (CH₄ পোড়ানো, CaO + H₂O)।
+- তাপহারী: তাপ ঢোকে, ΔH +, উৎপাদ ওপরে (CaCO₃ → CaO + CO₂, NH₄Cl দ্রবীভবন)।
+- সক্রিয়ণ শক্তি: বিক্রিয়া শুরু করতে যে কুঁজ পার হতে হয়।
+## think
+জ্বলন্ত মোমবাতি তাপ দেয়, অথচ মোমবাতি নিজে নিজে জ্বলে ওঠে না; শিখা এনে জ্বালাতে হয়। শক্তি চিত্র দিয়ে এটা কীভাবে ব্যাখ্যা করবে?
+## quiz
+? তাপোৎপাদী বিক্রিয়ায় ΔH-এর মান:
+* ঋণাত্মক
+- ধনাত্মক
+- শূন্য
+- সবসময় +৮৯০ kJ/mol
+= উৎপাদের শক্তি বিক্রিয়কের চেয়ে কম, তাই ΔH = H₂ − H₁ ঋণাত্মক।
+? পানিতে অ্যামোনিয়াম ক্লোরাইড দ্রবীভূত করলে পানি ঠান্ডা হয়ে যায়। প্রক্রিয়াটি:
+- তাপোৎপাদী
+* তাপহারী
+- কোনোটিই নয়
+- নিউক্লিয়ার বিক্রিয়া
+= পানি থেকে তাপ নেওয়া হয়, তাই প্রক্রিয়াটি তাপহারী (ΔH ধনাত্মক)।
+? একটি বিক্রিয়ায় H₁ = ১২০ kJ/mol ও H₂ = ৪৫ kJ/mol। ΔH হলো:
+- +৭৫ kJ/mol
+* −৭৫ kJ/mol
+- +১৬৫ kJ/mol
+- −১৬৫ kJ/mol
+= ΔH = H₂ − H₁ = ৪৫ − ১২০ = −৭৫ kJ/mol।
+? নিচের কোনটি তাপহারী?
+- প্রাকৃতিক গ্যাস পোড়ানো
+- শুকনা চুনে পানি দেওয়া
+* চুন তৈরির জন্য খোলস (CaCO₃) উত্তপ্ত করা
+- কাঠ পোড়ানো
+= CaCO₃-কে CaO ও CO₂-তে ভাঙতে একটানা তাপ দিতে হয় (ΔH = +১৭৬.৮ kJ/mol)।
+
+@@ 8.1.3
+@visual k8bond
+@related 8.1.2 8.1 5.11 6.3
+== en
+## what
+The heat of a reaction can be calculated from **bond energies**: ΔH = (total energy needed to break the bonds in the reactants) − (total energy released in forming the bonds in the products).
+## simple
+In the last lesson we found ΔH from the heat contents of reactants and products. There is a second way, and it shows *why* a reaction gives out or takes in heat.
+
+In every reaction two things happen:
+1. **Old bonds break** in the reactants. This always **costs** energy. Call the total **B₁**.
+2. **New bonds form** in the products. This always **releases** energy. Call the total **B₂**.
+
+The heat of reaction is the difference:
+
+**ΔH = B₁ − B₂** = (energy to break bonds) − (energy released making bonds)
+
+- If making the new bonds releases **more** than breaking the old ones cost (B₂ > B₁), ΔH is **negative**: **exothermic**.
+- If breaking costs **more** than making gives back (B₁ > B₂), ΔH is **positive**: **endothermic**.
+
+Whichever method you use, heat contents or bond energies, the ΔH of a reaction is the same.
+
+**Table 8.01: some bond energies (kJ/mol)**
+- C–H 414, C–C 344, C=C 615, C≡C 812, C–O 350, C=O 724, C–Cl 326
+- H–H 436, O–H 464, N–H 391, O=O 498, O–O 143, N≡N 946
+- Cl–Cl 244, Br–Br 193, I–I 151
+- H–F 563, H–Cl 431, H–Br 366, H–I 299
+
+So, for example, 498 kJ is needed to break one mole of O=O bonds, and 498 kJ is released when one mole of O=O bonds forms.
+
+**How to do the calculation**
+1. Write the balanced equation and draw (or picture) the bonds in every molecule.
+2. List the bonds broken, multiplied by how many there are (including the coefficients).
+3. List the bonds formed, the same way.
+4. Add up B₁ and B₂ from the table, and find ΔH = B₁ − B₂.
+
+**Book example: CH₄ + Cl₂ → CH₃Cl + HCl.** Only one C–H bond of methane actually breaks (the other three stay in CH₃Cl), and the Cl–Cl bond breaks. A C–Cl bond and an H–Cl bond form.
+- B₁ = C–H + Cl–Cl = 414 + 244 = **658 kJ**
+- B₂ = C–Cl + H–Cl = 326 + 431 = **757 kJ**
+- ΔH = 658 − 757 = **−99 kJ/mol**: exothermic.
+
+(Some printings of the problem give "C–Cl = 244" in the question. From the table, 244 kJ/mol is the Cl–Cl bond and C–Cl is 326 kJ/mol; the answer −99 kJ/mol uses these correct values.)
+
+**Tip: bonds that don't change cancel.** You may count *all* the bonds in every molecule instead. In the example, three C–H bonds appear on both sides, so they add the same amount to B₁ and B₂ and cancel. You get the same ΔH.
+
+**A note on accuracy.** Tabulated bond energies are *average* values taken over many compounds, so ΔH worked out this way is a good estimate but can differ from the value measured in a calorimeter.
+## analogy
+Think of pocket money. Breaking bonds is spending: you pay out B₁. Making bonds is earning: you get back B₂. If you earn more than you spend, you have money left over, just as an exothermic reaction has energy left over to give out as heat. If you spend more than you earn, you must borrow from outside: an endothermic reaction borrows heat from the surroundings.
+## definition
+**Bond energy (for a calculation)**: the energy needed to break one mole of a particular bond in gaseous molecules into separate atoms; the same amount is released when one mole of that bond forms.
+
+**Heat of reaction from bond energies**: ΔH = B₁ − B₂, where B₁ is the total bond energy of the bonds broken in the reactants and B₂ is the total bond energy of the bonds formed in the products.
+## why
+Why is ΔH equal to "broken minus formed"? Imagine the reaction happening in two imaginary steps. First, pull the reactant molecules completely apart into atoms: you must put in B₁. Then let the atoms join up into the product molecules: B₂ comes out. The net energy that went into the substances is B₁ − B₂. Because energy is conserved, the real reaction, whatever path it takes, must have the same overall energy change.
+## terms
+B₁ | Total bond energy of the bonds broken in the reactants (energy absorbed)
+B₂ | Total bond energy of the bonds formed in the products (energy released)
+Single, double, triple bond | Sharing of 1, 2 or 3 electron pairs; C–C, C=C, C≡C
+Average bond energy | Bond energy averaged over many compounds; gives an estimated ΔH
+## formula
+$$ ΔH = B₁ − B₂
+$$ ΔH = Σ(bonds broken) − Σ(bonds formed)
+B₁ | total energy to break the bonds in the reactants | kJ
+B₂ | total energy released forming the bonds in the products | kJ
+ΔH | heat of reaction | kJ/mol
+! B₂ > B₁ → ΔH negative → exothermic.
+! B₁ > B₂ → ΔH positive → endothermic.
+! Multiply each bond energy by the number of such bonds, including the equation's coefficients.
+## visual
+Choose a reaction. The widget counts the bonds broken and the bonds formed, builds the energy "bill" as two bars, and shows ΔH and whether the reaction is exothermic or endothermic.
+## real
+Rocket and fuel engineers compare fuels by the energy released per kilogram. Hydrogen is attractive because forming the strong O–H bonds in water from H–H and O=O releases a great deal of energy, and the only product is water. Bond energy calculations let chemists estimate such values before doing costly experiments.
+## example
+Q: Find ΔH for CH₄ + Cl₂ → CH₃Cl + HCl. (C–H = 414, Cl–Cl = 244, C–Cl = 326, H–Cl = 431 kJ/mol)
+Given: bonds broken: 1 C–H, 1 Cl–Cl; bonds formed: 1 C–Cl, 1 H–Cl
+Formula: ΔH = B₁ − B₂
+Calculation: B₁ = 414 + 244 = 658 kJ; B₂ = 326 + 431 = 757 kJ; ΔH = 658 − 757 = −99 kJ
+> Only one C–H bond changes; the other three C–H bonds are still present in CH₃Cl.
+Answer: ΔH = −99 kJ/mol; the reaction is exothermic.
+## example
+Q: Find ΔH for H₂(g) + Cl₂(g) → 2HCl(g). (H–H = 436, Cl–Cl = 244, H–Cl = 431 kJ/mol)
+Given: broken: 1 H–H, 1 Cl–Cl; formed: 2 H–Cl
+Formula: ΔH = B₁ − B₂
+Calculation: B₁ = 436 + 244 = 680 kJ; B₂ = 2 × 431 = 862 kJ; ΔH = 680 − 862 = −182 kJ
+> The coefficient 2 in front of HCl means two H–Cl bonds are formed.
+Answer: ΔH = −182 kJ for the equation as written (−91 kJ per mole of HCl); exothermic.
+## example
+Q: Estimate ΔH for N₂(g) + 3H₂(g) → 2NH₃(g). (N≡N = 946, H–H = 436, N–H = 391 kJ/mol)
+Given: broken: 1 N≡N, 3 H–H; formed: 2 NH₃ molecules × 3 N–H = 6 N–H
+Formula: ΔH = B₁ − B₂
+Calculation: B₁ = 946 + 3 × 436 = 946 + 1308 = 2254 kJ; B₂ = 6 × 391 = 2346 kJ; ΔH = 2254 − 2346 = −92 kJ
+Answer: ΔH = −92 kJ; exothermic.
+## example
+Q: Water can be split by electricity: 2H₂O(g) → 2H₂(g) + O₂(g). Use bond energies to find ΔH. (O–H = 464, H–H = 436, O=O = 498 kJ/mol)
+Given: broken: 2 H₂O × 2 O–H = 4 O–H; formed: 2 H–H and 1 O=O
+Formula: ΔH = B₁ − B₂
+Calculation: B₁ = 4 × 464 = 1856 kJ; B₂ = 2 × 436 + 498 = 1370 kJ; ΔH = 1856 − 1370 = +486 kJ
+Answer: ΔH = +486 kJ; endothermic, which is why energy (electricity) must be supplied to split water.
+## mistakes
+x ΔH = (bonds formed) − (bonds broken).
+v ΔH = B₁ − B₂ = (bonds **broken**) − (bonds **formed**). This is the opposite order to ΔH = H₂ − H₁, so be careful.
+x In 2HCl there is one H–Cl bond.
+v The coefficient multiplies: 2HCl means two molecules, so two H–Cl bonds.
+x A C=C double bond has the same energy as a C–C single bond.
+v C=C (615 kJ/mol) is much stronger than C–C (344), and C≡C (812) stronger still.
+## remember
+- Breaking bonds absorbs energy; making bonds releases energy.
+- ΔH = B₁ (broken) − B₂ (formed).
+- B₂ > B₁ → exothermic; B₁ > B₂ → endothermic.
+- Count every bond, including coefficients; bonds that stay unchanged cancel.
+- Bond energies are averages, so the answer is an estimate.
+## think
+Using bond energies, 2H₂ + O₂ → 2H₂O gives ΔH = −486 kJ, while 2H₂O → 2H₂ + O₂ gives +486 kJ. What general rule about reversing a reaction does this suggest?
+## quiz
+? In the bond energy method, ΔH equals:
+* Energy to break bonds − energy released forming bonds
+- Energy released forming bonds − energy to break bonds
+- Energy to break bonds + energy released forming bonds
+- Energy of products only
+= ΔH = B₁ − B₂: bonds broken minus bonds formed.
+? H–H = 436 and Br–Br = 193 and H–Br = 366 kJ/mol. For H₂ + Br₂ → 2HBr, ΔH is:
+- +103 kJ
+* −103 kJ
+- +263 kJ
+- −263 kJ
+= B₁ = 436 + 193 = 629; B₂ = 2 × 366 = 732; ΔH = 629 − 732 = −103 kJ.
+? If the bonds formed release more energy than is needed to break the old bonds, the reaction is:
+* Exothermic
+- Endothermic
+- Neither
+- Impossible
+= B₂ > B₁ makes ΔH negative: exothermic.
+? How many N–H bonds are formed in N₂ + 3H₂ → 2NH₃?
+- 2
+- 3
+* 6
+- 9
+= Each NH₃ has 3 N–H bonds and there are 2 NH₃ molecules: 6 bonds.
+== bn
+## what
+**বন্ধন শক্তি** থেকে বিক্রিয়া তাপ হিসাব করা যায়: ΔH = (বিক্রিয়কের বন্ধনগুলো ভাঙতে মোট প্রয়োজনীয় শক্তি) − (উৎপাদের বন্ধনগুলো গড়তে মোট নির্গত শক্তি)।
+## simple
+আগের পাঠে আমরা বিক্রিয়ক ও উৎপাদের ধারণকৃত তাপ থেকে ΔH বের করেছি। আরেকটা উপায় আছে, আর সেটা দেখায় বিক্রিয়া *কেন* তাপ দেয় বা নেয়।
+
+প্রতিটি বিক্রিয়ায় দুটি ঘটনা ঘটে:
+১. বিক্রিয়কে **পুরোনো বন্ধন ভাঙে**। এতে সবসময় শক্তি **খরচ** হয়। মোটটাকে বলি **B₁**।
+২. উৎপাদে **নতুন বন্ধন গড়ে**। এতে সবসময় শক্তি **বের হয়**। মোটটাকে বলি **B₂**।
+
+বিক্রিয়া তাপ হলো এদের পার্থক্য:
+
+**ΔH = B₁ − B₂** = (বন্ধন ভাঙার শক্তি) − (বন্ধন গড়ায় নির্গত শক্তি)
+
+- নতুন বন্ধন গড়ায় যদি পুরোনোগুলো ভাঙার খরচের চেয়ে **বেশি** শক্তি বের হয় (B₂ > B₁), ΔH **ঋণাত্মক**: **তাপোৎপাদী**।
+- ভাঙার খরচ যদি গড়ায় ফেরত পাওয়ার চেয়ে **বেশি** হয় (B₁ > B₂), ΔH **ধনাত্মক**: **তাপহারী**।
+
+যে পদ্ধতিতেই হিসাব করো, ধারণকৃত তাপ বা বন্ধন শক্তি, একটি বিক্রিয়ার ΔH একই আসে।
+
+**টেবিল ৮.০১: কিছু বন্ধন শক্তি (kJ/mol)**
+- C–H ৪১৪, C–C ৩৪৪, C=C ৬১৫, C≡C ৮১২, C–O ৩৫০, C=O ৭২৪, C–Cl ৩২৬
+- H–H ৪৩৬, O–H ৪৬৪, N–H ৩৯১, O=O ৪৯৮, O–O ১৪৩, N≡N ৯৪৬
+- Cl–Cl ২৪৪, Br–Br ১৯৩, I–I ১৫১
+- H–F ৫৬৩, H–Cl ৪৩১, H–Br ৩৬৬, H–I ২৯৯
+
+যেমন, এক মোল O=O বন্ধন ভাঙতে ৪৯৮ kJ লাগে, আর এক মোল O=O বন্ধন গড়লে ৪৯৮ kJ বের হয়।
+
+**হিসাব করার ধাপ**
+১. সমতাকৃত সমীকরণ লেখো আর প্রতিটি অণুর বন্ধনগুলো এঁকে নাও (বা মনে মনে ভাবো)।
+২. কোন কোন বন্ধন ভাঙছে তা কয়টি করে (সহগসহ) তা লেখো।
+৩. একইভাবে কোন বন্ধন গড়ছে লেখো।
+৪. টেবিল থেকে B₁ ও B₂ যোগ করে ΔH = B₁ − B₂ বের করো।
+
+**বইয়ের উদাহরণ: CH₄ + Cl₂ → CH₃Cl + HCl।** মিথেনের মাত্র একটি C–H বন্ধন আসলে ভাঙে (বাকি তিনটি CH₃Cl-এ থেকে যায়), আর Cl–Cl বন্ধন ভাঙে। একটি C–Cl আর একটি H–Cl বন্ধন গড়ে।
+- B₁ = C–H + Cl–Cl = ৪১৪ + ২৪৪ = **৬৫৮ kJ**
+- B₂ = C–Cl + H–Cl = ৩২৬ + ৪৩১ = **৭৫৭ kJ**
+- ΔH = ৬৫৮ − ৭৫৭ = **−৯৯ kJ/mol**: তাপোৎপাদী।
+
+(কোনো কোনো ছাপায় প্রশ্নে "C–Cl = ২৪৪" লেখা থাকে। টেবিল অনুযায়ী ২৪৪ kJ/mol হলো Cl–Cl বন্ধনের মান, আর C–Cl হলো ৩২৬ kJ/mol; −৯৯ kJ/mol উত্তরটি এই সঠিক মানগুলো দিয়েই আসে।)
+
+**কৌশল: যে বন্ধন বদলায় না, তা কাটাকাটি হয়।** চাইলে প্রতিটি অণুর *সব* বন্ধন গুনতে পারো। উদাহরণটিতে তিনটি C–H বন্ধন দুই পাশেই আছে, তাই B₁ ও B₂-তে একই পরিমাণ যোগ হয়ে কাটাকাটি হয়ে যায়। ΔH একই আসে।
+
+**নির্ভুলতা নিয়ে একটি কথা।** টেবিলের বন্ধন শক্তিগুলো অনেক যৌগের *গড়* মান, তাই এভাবে পাওয়া ΔH একটি ভালো আনুমানিক মান, কিন্তু ক্যালরিমিটারে মাপা মানের সাথে কিছুটা পার্থক্য হতে পারে।
+## analogy
+হাতখরচের টাকার কথা ভাবো। বন্ধন ভাঙা মানে খরচ: তুমি B₁ দিলে। বন্ধন গড়া মানে আয়: তুমি B₂ ফেরত পেলে। খরচের চেয়ে আয় বেশি হলে টাকা বেঁচে যায়, ঠিক যেমন তাপোৎপাদী বিক্রিয়ায় শক্তি বেঁচে গিয়ে তাপ হয়ে বের হয়। আয়ের চেয়ে খরচ বেশি হলে বাইরে থেকে ধার করতে হয়: তাপহারী বিক্রিয়া চারপাশ থেকে তাপ ধার নেয়।
+## definition
+**বন্ধন শক্তি (হিসাবের জন্য)**: গ্যাসীয় অণুর কোনো নির্দিষ্ট বন্ধনের এক মোল ভেঙে পরমাণুগুলোকে আলাদা করতে প্রয়োজনীয় শক্তি; এক মোল ওই বন্ধন গড়লে ঠিক ততটুকু শক্তি নির্গত হয়।
+
+**বন্ধন শক্তি থেকে বিক্রিয়া তাপ**: ΔH = B₁ − B₂, যেখানে B₁ হলো বিক্রিয়কে ভাঙা বন্ধনগুলোর মোট বন্ধন শক্তি আর B₂ হলো উৎপাদে গড়া বন্ধনগুলোর মোট বন্ধন শক্তি।
+## why
+ΔH কেন "ভাঙা বিয়োগ গড়া"? ধরো বিক্রিয়াটা দুটি কাল্পনিক ধাপে ঘটছে। প্রথমে বিক্রিয়কের অণুগুলোকে পুরোপুরি ভেঙে পরমাণু বানাও: তোমাকে B₁ দিতে হবে। তারপর পরমাণুগুলোকে জুড়ে উৎপাদের অণু বানাও: B₂ বেরিয়ে আসবে। পদার্থগুলোতে নিট যে শক্তি ঢুকল তা B₁ − B₂। শক্তি সংরক্ষিত বলে আসল বিক্রিয়া যে পথেই ঘটুক, মোট শক্তির পরিবর্তন একই হবে।
+## terms
+B₁ | বিক্রিয়কে ভাঙা বন্ধনগুলোর মোট বন্ধন শক্তি (শোষিত শক্তি)
+B₂ | উৎপাদে গড়া বন্ধনগুলোর মোট বন্ধন শক্তি (নির্গত শক্তি)
+একক, দ্বি, ত্রি-বন্ধন | ১, ২ বা ৩ জোড়া ইলেকট্রন শেয়ার; C–C, C=C, C≡C
+গড় বন্ধন শক্তি | অনেক যৌগের গড় বন্ধন শক্তি; এতে ΔH-এর আনুমানিক মান পাওয়া যায়
+## formula
+$$ ΔH = B₁ − B₂
+$$ ΔH = Σ(ভাঙা বন্ধন) − Σ(গড়া বন্ধন)
+B₁ | বিক্রিয়কের বন্ধন ভাঙতে মোট প্রয়োজনীয় শক্তি | kJ
+B₂ | উৎপাদের বন্ধন গড়তে মোট নির্গত শক্তি | kJ
+ΔH | বিক্রিয়া তাপ | kJ/mol
+! B₂ > B₁ → ΔH ঋণাত্মক → তাপোৎপাদী।
+! B₁ > B₂ → ΔH ধনাত্মক → তাপহারী।
+! প্রতিটি বন্ধন শক্তিকে ওই বন্ধনের সংখ্যা দিয়ে গুণ করো, সমীকরণের সহগসহ।
+## visual
+একটি বিক্রিয়া বেছে নাও। উইজেটটি ভাঙা ও গড়া বন্ধনগুলো গুনে দুটি বারে শক্তির "হিসাব" দেখাবে, আর ΔH ও বিক্রিয়াটি তাপোৎপাদী না তাপহারী তা জানাবে।
+## real
+রকেট ও জ্বালানি প্রকৌশলীরা প্রতি কিলোগ্রামে কত শক্তি বের হয় তা দিয়ে জ্বালানির তুলনা করেন। হাইড্রোজেন আকর্ষণীয়, কারণ H–H ও O=O থেকে পানির শক্তিশালী O–H বন্ধন গড়ায় প্রচুর শক্তি বের হয়, আর উৎপাদ শুধু পানি। ব্যয়বহুল পরীক্ষার আগেই বন্ধন শক্তির হিসাব দিয়ে রসায়নবিদেরা এমন মান আন্দাজ করতে পারেন।
+## example
+প্রশ্ন: CH₄ + Cl₂ → CH₃Cl + HCl বিক্রিয়ার ΔH বের করো। (C–H = ৪১৪, Cl–Cl = ২৪৪, C–Cl = ৩২৬, H–Cl = ৪৩১ kJ/mol)
+দেওয়া আছে: ভাঙা বন্ধন: ১টি C–H, ১টি Cl–Cl; গড়া বন্ধন: ১টি C–Cl, ১টি H–Cl
+সূত্র: ΔH = B₁ − B₂
+হিসাব: B₁ = ৪১৪ + ২৪৪ = ৬৫৮ kJ; B₂ = ৩২৬ + ৪৩১ = ৭৫৭ kJ; ΔH = ৬৫৮ − ৭৫৭ = −৯৯ kJ
+> শুধু একটি C–H বন্ধন বদলায়; বাকি তিনটি C–H বন্ধন CH₃Cl-এ থেকেই যায়।
+উত্তর: ΔH = −৯৯ kJ/mol; বিক্রিয়াটি তাপোৎপাদী।
+## example
+প্রশ্ন: H₂(g) + Cl₂(g) → 2HCl(g) বিক্রিয়ার ΔH বের করো। (H–H = ৪৩৬, Cl–Cl = ২৪৪, H–Cl = ৪৩১ kJ/mol)
+দেওয়া আছে: ভাঙা: ১টি H–H, ১টি Cl–Cl; গড়া: ২টি H–Cl
+সূত্র: ΔH = B₁ − B₂
+হিসাব: B₁ = ৪৩৬ + ২৪৪ = ৬৮০ kJ; B₂ = ২ × ৪৩১ = ৮৬২ kJ; ΔH = ৬৮০ − ৮৬২ = −১৮২ kJ
+> HCl-এর আগের সহগ 2 মানে দুটি H–Cl বন্ধন গড়ে।
+উত্তর: লেখা সমীকরণ অনুযায়ী ΔH = −১৮২ kJ (প্রতি মোল HCl-এ −৯১ kJ); তাপোৎপাদী।
+## example
+প্রশ্ন: N₂(g) + 3H₂(g) → 2NH₃(g) বিক্রিয়ার ΔH আন্দাজ করো। (N≡N = ৯৪৬, H–H = ৪৩৬, N–H = ৩৯১ kJ/mol)
+দেওয়া আছে: ভাঙা: ১টি N≡N, ৩টি H–H; গড়া: ২টি NH₃ অণু × ৩টি N–H = ৬টি N–H
+সূত্র: ΔH = B₁ − B₂
+হিসাব: B₁ = ৯৪৬ + ৩ × ৪৩৬ = ৯৪৬ + ১৩০৮ = ২২৫৪ kJ; B₂ = ৬ × ৩৯১ = ২৩৪৬ kJ; ΔH = ২২৫৪ − ২৩৪৬ = −৯২ kJ
+উত্তর: ΔH = −৯২ kJ; তাপোৎপাদী।
+## example
+প্রশ্ন: বিদ্যুৎ দিয়ে পানি ভাঙা যায়: 2H₂O(g) → 2H₂(g) + O₂(g)। বন্ধন শক্তি থেকে ΔH বের করো। (O–H = ৪৬৪, H–H = ৪৩৬, O=O = ৪৯৮ kJ/mol)
+দেওয়া আছে: ভাঙা: ২টি H₂O × ২টি O–H = ৪টি O–H; গড়া: ২টি H–H ও ১টি O=O
+সূত্র: ΔH = B₁ − B₂
+হিসাব: B₁ = ৪ × ৪৬৪ = ১৮৫৬ kJ; B₂ = ২ × ৪৩৬ + ৪৯৮ = ১৩৭০ kJ; ΔH = ১৮৫৬ − ১৩৭০ = +৪৮৬ kJ
+উত্তর: ΔH = +৪৮৬ kJ; তাপহারী, এজন্যই পানি ভাঙতে শক্তি (বিদ্যুৎ) দিতে হয়।
+## mistakes
+x ΔH = (গড়া বন্ধন) − (ভাঙা বন্ধন)।
+v ΔH = B₁ − B₂ = (**ভাঙা** বন্ধন) − (**গড়া** বন্ধন)। এটা ΔH = H₂ − H₁-এর উল্টো ক্রম, তাই সাবধান।
+x 2HCl-এ একটি H–Cl বন্ধন।
+v সহগ গুণ হয়: 2HCl মানে দুটি অণু, তাই দুটি H–Cl বন্ধন।
+x C=C দ্বিবন্ধনের শক্তি C–C একক বন্ধনের সমান।
+v C=C (৬১৫ kJ/mol) C–C (৩৪৪)-এর চেয়ে অনেক শক্তিশালী, আর C≡C (৮১২) আরও বেশি।
+## remember
+- বন্ধন ভাঙতে শক্তি শোষিত হয়; বন্ধন গড়লে শক্তি নির্গত হয়।
+- ΔH = B₁ (ভাঙা) − B₂ (গড়া)।
+- B₂ > B₁ → তাপোৎপাদী; B₁ > B₂ → তাপহারী।
+- সহগসহ প্রতিটি বন্ধন গোনো; অপরিবর্তিত বন্ধন কাটাকাটি হয়।
+- বন্ধন শক্তি গড় মান, তাই উত্তর আনুমানিক।
+## think
+বন্ধন শক্তি দিয়ে 2H₂ + O₂ → 2H₂O বিক্রিয়ার ΔH = −৪৮৬ kJ, আর 2H₂O → 2H₂ + O₂ বিক্রিয়ার +৪৮৬ kJ। বিক্রিয়া উল্টে দিলে ΔH-এর কী হয়, এ থেকে কোন সাধারণ নিয়ম পাওয়া যায়?
+## quiz
+? বন্ধন শক্তি পদ্ধতিতে ΔH সমান:
+* বন্ধন ভাঙার শক্তি − বন্ধন গড়ায় নির্গত শক্তি
+- বন্ধন গড়ায় নির্গত শক্তি − বন্ধন ভাঙার শক্তি
+- বন্ধন ভাঙার শক্তি + বন্ধন গড়ায় নির্গত শক্তি
+- শুধু উৎপাদের শক্তি
+= ΔH = B₁ − B₂: ভাঙা বন্ধন বিয়োগ গড়া বন্ধন।
+? H–H = ৪৩৬, Br–Br = ১৯৩ ও H–Br = ৩৬৬ kJ/mol। H₂ + Br₂ → 2HBr বিক্রিয়ায় ΔH:
+- +১০৩ kJ
+* −১০৩ kJ
+- +২৬৩ kJ
+- −২৬৩ kJ
+= B₁ = ৪৩৬ + ১৯৩ = ৬২৯; B₂ = ২ × ৩৬৬ = ৭৩২; ΔH = ৬২৯ − ৭৩২ = −১০৩ kJ।
+? নতুন বন্ধন গড়ায় যদি পুরোনো বন্ধন ভাঙার চেয়ে বেশি শক্তি বের হয়, বিক্রিয়াটি:
+* তাপোৎপাদী
+- তাপহারী
+- কোনোটিই নয়
+- অসম্ভব
+= B₂ > B₁ হলে ΔH ঋণাত্মক: তাপোৎপাদী।
+? N₂ + 3H₂ → 2NH₃ বিক্রিয়ায় কয়টি N–H বন্ধন গড়ে?
+- ২
+- ৩
+* ৬
+- ৯
+= প্রতিটি NH₃-এ ৩টি N–H বন্ধন, আর NH₃ অণু ২টি: মোট ৬টি বন্ধন।
+
+@@ 8.2
+@visual k8fuel
+@related 8.1.2 11.1 9.6 8.4
+== en
+## what
+Chemical energy can be changed into **heat, light, electricity, sound and motion**. We use it in fuels, fireworks and batteries, and living things run on it through photosynthesis and respiration. Burning fuels also has costs: greenhouse gases, acid rain and smog, so fuels must be pure and used wisely.
+## simple
+**8.2.1 Chemical energy changes into other forms**
+- **Burning fuel → heat and light.** Burning means a substance reacting with the oxygen of the air. Wood, coal and natural gas burn to give heat and light. Natural gas is mainly methane: CH₄ + 2O₂ → CO₂ + 2H₂O, with heat and light.
+- **Fireworks → light, sound and motion.** The chemicals packed inside react very fast, and their chemical energy bursts out as coloured light, a bang and the motion of the rocket.
+- **Dry cell → electricity.** The cells in a torch or TV remote contain chemicals that react and push electrons through the circuit ([[8.4|lesson 8.4]]).
+- **Daniell cell → electricity.** A zinc rod in zinc sulfate solution and a copper rod in copper sulfate solution, joined properly, make electricity from the reaction Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s).
+
+(The big batteries in cars, buses and trucks are **lead–acid storage batteries**, not Daniell cells; the Daniell cell is mainly a laboratory cell that explains how all such cells work.)
+
+**8.2.2 Chemical energy in daily life and in living things**
+Chemical energy is the most used form of energy on Earth. Burning wood or gas cooks our food; brick kilns and pottery kilns burn fuel for heat; iron, steel and ceramic factories need huge amounts of heat. In the engines of buses, trains, ships and aeroplanes, fuel burns in a chamber and the heat is turned into motion.
+
+The most important store of chemical energy is made by **plants**. Using the green pigment **chlorophyll**, a leaf traps sunlight and makes carbon dioxide and water react to form glucose and oxygen. This is **photosynthesis**:
+
+6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (sunlight, chlorophyll)
+
+(Cancelling the water on both sides gives the short form 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂.) The sunlight's energy is now stored as chemical energy in glucose. Plants build starch, fats and proteins from it, animals eat the plants, and in every living cell food is "burnt" slowly with oxygen (**respiration**), releasing energy for movement, growth and body heat. Our bodies are chemical engines: without chemical energy, life would be impossible.
+
+**8.2.3 Using chemical energy wisely**
+Petroleum, coal and natural gas are **fossil fuels**, formed over millions of years from buried plants and animals. They give us heat for cooking, transport and electricity, but they also release **carbon dioxide**, tens of billions of tonnes every year worldwide. CO₂ is a **greenhouse gas**: it traps heat, so the Earth is slowly warming. Fossil fuels will also run out if we waste them. So we should use them carefully: switch off burners and engines when not needed, use efficient stoves, and prefer public transport.
+
+**8.2.4 Why fuel purity matters**
+- In too little air, fuels burn **incompletely** and make **carbon monoxide (CO)**, a poisonous gas with no colour or smell, as well as soot. That is why a stove with a yellow, smoky flame is dangerous in a closed kitchen.
+- Crude natural fuels contain compounds of **sulfur, nitrogen** and other elements. If burnt unrefined, they release oxides such as SO₂ and NO₂, which dissolve in rain to make **acid rain**:
+  - CO₂ + H₂O → H₂CO₃ (carbonic acid, weak; makes normal rain slightly acidic)
+  - 2SO₂ + O₂ → 2SO₃, then SO₃ + H₂O → H₂SO₄ (sulfuric acid)
+  - 4NO₂ + 2H₂O + O₂ → 4HNO₃ (nitric acid)
+  Acid rain damages plants, makes ponds and rivers acidic so fish struggle to survive, and corrodes buildings ([[9.6|lesson 9.6]]). So fuels are **refined** before they reach the market.
+- Vehicle exhaust contains nitrogen oxides, carbon monoxide and unburnt hydrocarbons. In strong sunlight these react to form a brownish, harmful haze called **photochemical smog**.
+
+**8.2.5 Negative effects of using chemical energy**
+Even with solar, wind, hydro and nuclear power growing, most of the world's energy still comes from fossil fuels. Plants take up part of the CO₂ in photosynthesis, and oceans and other natural processes absorb some more, but roughly half stays in the atmosphere and keeps building up. CO₂ absorbs heat strongly, so the Earth's average temperature is rising: **global warming**. Other gases such as methane add to this **greenhouse effect**. Warming melts polar ice and raises the sea level, a serious threat to low-lying countries like Bangladesh.
+
+**8.2.6 Ethanol as a fuel**
+Ethanol (ethyl alcohol, CH₃–CH₂–OH) burns cleanly with a blue flame:
+
+C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(l); ΔH = −1367 kJ/mol
+
+It can be made by fermenting sugar from sugarcane, molasses or maize, so it is **renewable**: the CO₂ released was recently taken from the air by the crop. Many countries mix ethanol with petrol; most petrol sold in the USA contains 10% ethanol ("E10"), and Brazil uses much higher blends. Ethanol can reduce our dependence on fossil fuels, although it gives less energy per gram than petrol.
+## analogy
+Chemical energy is like money saved in a bank. Plants deposit sunlight into the "account" by photosynthesis over years (or, for fossil fuels, millions of years). When we burn fuel or eat food, we withdraw it. Withdrawing too fast from a savings account that took millions of years to fill empties it, and the "receipt" we get back, CO₂, piles up in the air.
+## definition
+**Fuel**: a substance that, on burning (reacting with oxygen), releases useful heat and light energy from its chemical energy.
+
+**Fossil fuels**: coal, petroleum and natural gas, formed underground over millions of years from the remains of plants and animals.
+
+**Photosynthesis**: the process in which green plants, using sunlight and chlorophyll, convert carbon dioxide and water into glucose and oxygen, storing light energy as chemical energy.
+
+**Greenhouse effect / global warming**: trapping of heat by gases such as CO₂ and CH₄ in the atmosphere, causing the average temperature of the Earth to rise.
+## why
+Why do different fuels give different amounts of heat per gram? The heat comes from forming strong C=O and O–H bonds in CO₂ and H₂O. A fuel made mostly of carbon and hydrogen (methane, LPG, petrol) has a lot of "unburnt" C–H bonds per gram, so it gives a lot of heat. Ethanol already contains an oxygen atom, so it is partly "burnt" and gives less. Hydrogen is extremely light, so each gram contains many H₂ molecules and gives the most heat of all.
+## terms
+Fossil fuel | Coal, petroleum, natural gas: fuels formed from ancient buried organisms
+Complete combustion | Burning in enough oxygen → CO₂ + H₂O
+Incomplete combustion | Burning in too little oxygen → also CO and soot
+Acid rain | Rain made acidic by dissolved oxides of sulfur and nitrogen (and CO₂)
+Photochemical smog | Harmful haze formed when exhaust gases react in sunlight
+Greenhouse gas | Gas that traps heat in the atmosphere (CO₂, CH₄ …)
+Photosynthesis / respiration | Storing sunlight as chemical energy in glucose / releasing it in cells
+## formula
+$$ heat released = moles of fuel × heat of combustion (kJ/mol)
+$$ heat per gram = heat of combustion (kJ/mol) ÷ molar mass (g/mol)
+! Heats of combustion (kJ/mol): H₂ 286, CH₄ 890, C (charcoal) 393.5, C₂H₅OH 1367, C₄H₁₀ (butane, LPG) 2877, C₈H₁₈ (octane, petrol) 5470.
+## visual
+Choose a fuel and set how much of it you burn. Compare the heat released per gram, how much fuel is needed to boil a litre of water, and how much CO₂ each fuel releases for the same heat.
+## real
+Bangladesh's household gas lines and LPG cylinders supply methane and butane/propane, both high-energy, fairly clean fuels. Brick kilns that burn low-grade coal and wood near Dhaka are a major source of winter smog. CNG-run auto-rickshaws produce less soot than old diesel engines because methane burns more completely.
+## example
+Q: Ethanol burns according to C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O; ΔH = −1367 kJ/mol. How much heat is released by burning 23 g of ethanol? (C = 12, H = 1, O = 16)
+Given: M(C₂H₅OH) = 2 × 12 + 6 × 1 + 16 = 46 g/mol; mass = 23 g
+Formula: moles = mass ÷ M; heat = moles × 1367 kJ
+Calculation: moles = 23 ÷ 46 = 0.5 mol; heat = 0.5 × 1367 = 683.5 kJ
+Answer: about 684 kJ
+## example
+Q: Heating 1 kg of water from 25 °C to 100 °C needs 313.5 kJ. What mass of methane must burn to supply this, assuming no heat is wasted? (ΔH = −890 kJ/mol for CH₄, M = 16 g/mol)
+Given: heat needed = 313.5 kJ; heat per mole of CH₄ = 890 kJ
+Formula: moles = heat needed ÷ 890; mass = moles × 16
+Calculation: moles = 313.5 ÷ 890 = 0.352 mol; mass = 0.352 × 16 = 5.64 g
+> 313.5 kJ comes from 1000 g × 75 °C × 4.18 J = 313 500 J. Real stoves waste much of the heat, so more gas is needed in practice.
+Answer: about 5.6 g of methane
+## example
+Q: Balance the photosynthesis equation CO₂ + H₂O → C₆H₁₂O₆ + O₂ and check the atom count.
+Solution: Six carbons in glucose need 6CO₂; twelve hydrogens need 6H₂O; then O on the left = 6 × 2 + 6 × 1 = 18, and on the right glucose has 6, so 12 more are needed: 6O₂.
+Answer: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (C 6 = 6, H 12 = 12, O 18 = 18). The book's form 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O is the same equation with 6H₂O added to both sides.
+## mistakes
+x Carbon dioxide is the main cause of acid rain.
+v CO₂ makes rain only slightly acidic. Strong acid rain comes mainly from sulfur and nitrogen oxides forming H₂SO₄ and HNO₃.
+x Burning more fuel in a closed room only wastes fuel.
+v Burning without enough air produces poisonous carbon monoxide, which can kill. Always keep kitchens ventilated.
+x Ethanol gives more heat per gram than petrol.
+v Ethanol gives about 30 kJ/g, petrol about 48 kJ/g; ethanol's advantage is that it is renewable and cleaner.
+## remember
+- Chemical energy → heat and light (fuels), light/sound/motion (fireworks), electricity (dry cell, Daniell cell).
+- Photosynthesis stores sunlight as chemical energy; respiration releases it.
+- Impure fuels → CO, SO₂, NO₂ → poisoning, acid rain, smog. Refine fuels before use.
+- CO₂ and CH₄ are greenhouse gases → global warming, sea-level rise.
+- Ethanol: renewable fuel, often blended with petrol.
+## think
+Bangladesh produces a lot of sugarcane molasses. What would be the advantages and possible drawbacks of turning more of it into ethanol to mix with petrol?
+## quiz
+? What energy change happens in a torch's dry cell?
+- Heat → chemical
+* Chemical → electrical
+- Electrical → chemical
+- Light → chemical
+= Reacting chemicals inside the cell drive electrons through the circuit.
+? Burning fuel in too little air produces a poisonous gas:
+- Oxygen
+- Nitrogen
+* Carbon monoxide
+- Hydrogen
+= Incomplete combustion gives carbon monoxide (CO).
+? Which gas is mainly responsible for global warming from burning fossil fuels?
+- O₂
+- N₂
+* CO₂
+- H₂
+= CO₂ absorbs heat and traps it in the atmosphere.
+? Which fuel gives the most heat per gram?
+* Hydrogen
+- Ethanol
+- Wood
+- Charcoal
+= Hydrogen gives about 143 kJ/g, far more than the others.
+== bn
+## what
+রাসায়নিক শক্তিকে **তাপ, আলো, বিদ্যুৎ, শব্দ ও গতিতে** রূপান্তর করা যায়। জ্বালানি, আতশবাজি আর ব্যাটারিতে আমরা এটি ব্যবহার করি, আর জীবজগৎ চলে সালোকসংশ্লেষণ ও শ্বসনের মাধ্যমে এই শক্তিতেই। তবে জ্বালানি পোড়ানোর মূল্যও দিতে হয়: গ্রিনহাউস গ্যাস, এসিড বৃষ্টি আর ধোঁয়াশা; তাই জ্বালানি হতে হবে বিশুদ্ধ আর ব্যবহার করতে হবে বুঝেশুনে।
+## simple
+**৮.২.১ রাসায়নিক শক্তির অন্য রূপে রূপান্তর**
+- **জ্বালানি পোড়ানো → তাপ ও আলো।** পোড়ানো মানে বাতাসের অক্সিজেনের সাথে পদার্থের বিক্রিয়া। কাঠ, কয়লা, প্রাকৃতিক গ্যাস পুড়ে তাপ ও আলো দেয়। প্রাকৃতিক গ্যাসের প্রধান উপাদান মিথেন: CH₄ + 2O₂ → CO₂ + 2H₂O, সাথে তাপ ও আলো।
+- **আতশবাজি → আলো, শব্দ ও গতি।** ভেতরে ঠাসা রাসায়নিক পদার্থগুলো খুব দ্রুত বিক্রিয়া করে, আর তাদের রাসায়নিক শক্তি রঙিন আলো, বিকট শব্দ আর রকেটের গতি হয়ে বেরিয়ে আসে।
+- **শুষ্ক কোষ → বিদ্যুৎ।** টর্চ বা টিভির রিমোটের ব্যাটারির ভেতরের রাসায়নিক পদার্থ বিক্রিয়া করে বর্তনীতে ইলেকট্রন ঠেলে পাঠায় ([[8.4|পাঠ ৮.৪]])।
+- **ডেনিয়েল কোষ → বিদ্যুৎ।** জিংক সালফেট দ্রবণে জিংক দণ্ড আর কপার সালফেট দ্রবণে কপার দণ্ড ঠিকভাবে যুক্ত করলে Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s) বিক্রিয়া থেকে বিদ্যুৎ পাওয়া যায়।
+
+(গাড়ি, বাস আর ট্রাকের বড় ব্যাটারিগুলো আসলে **লেড-এসিড সঞ্চয়ী ব্যাটারি**, ডেনিয়েল কোষ নয়; ডেনিয়েল কোষ মূলত পরীক্ষাগারের কোষ, যা দিয়ে এ ধরনের সব কোষ কীভাবে কাজ করে তা বোঝা যায়।)
+
+**৮.২.২ দৈনন্দিন জীবনে ও জীবজগতে রাসায়নিক শক্তি**
+পৃথিবীতে সবচেয়ে বেশি ব্যবহৃত শক্তি হলো রাসায়নিক শক্তি। কাঠ বা গ্যাস পুড়িয়ে আমাদের রান্না হয়; ইটের ভাটা আর মাটির হাঁড়ি-পাতিলের চুল্লিতে জ্বালানি পুড়িয়ে তাপ নেওয়া হয়; লোহা, ইস্পাত আর সিরামিক কারখানায় বিপুল তাপ লাগে। বাস, ট্রেন, জাহাজ আর উড়োজাহাজের ইঞ্জিনে দহন প্রকোষ্ঠে জ্বালানি পোড়ে আর সেই তাপ গতিশক্তিতে রূপ নেয়।
+
+রাসায়নিক শক্তির সবচেয়ে গুরুত্বপূর্ণ ভান্ডার তৈরি করে **উদ্ভিদ**। সবুজ রঞ্জক **ক্লোরোফিল** দিয়ে পাতা সূর্যের আলো ধরে কার্বন ডাই-অক্সাইড ও পানির বিক্রিয়ায় গ্লুকোজ ও অক্সিজেন তৈরি করে। এটিই **সালোকসংশ্লেষণ**:
+
+6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (সূর্যালোক, ক্লোরোফিল)
+
+(দুই পাশের পানি কাটাকাটি করলে সংক্ষিপ্ত রূপ 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂।) সূর্যের আলোর শক্তি এখন গ্লুকোজে রাসায়নিক শক্তি হিসেবে জমা। এ থেকে উদ্ভিদ শর্করা, চর্বি ও প্রোটিন বানায়, প্রাণী সেই উদ্ভিদ খায়, আর প্রতিটি জীবকোষে খাদ্য অক্সিজেনের সাথে ধীরে ধীরে "পোড়ে" (**শ্বসন**), চলাফেরা, বৃদ্ধি আর দেহের উষ্ণতার জন্য শক্তি দেয়। আমাদের দেহ যেন রাসায়নিক ইঞ্জিন: রাসায়নিক শক্তি ছাড়া জীবন অসম্ভব।
+
+**৮.২.৩ রাসায়নিক শক্তির যথাযথ ব্যবহার**
+পেট্রোলিয়াম, কয়লা ও প্রাকৃতিক গ্যাস হলো **জীবাশ্ম জ্বালানি**, লক্ষ লক্ষ বছর ধরে মাটির নিচে চাপা পড়া উদ্ভিদ ও প্রাণী থেকে তৈরি। এরা রান্না, যাতায়াত আর বিদ্যুতের জন্য তাপ দেয়, কিন্তু সাথে ছাড়ে **কার্বন ডাই-অক্সাইড**, সারা পৃথিবীতে প্রতিবছর হাজার হাজার কোটি টন। CO₂ একটি **গ্রিনহাউস গ্যাস**: এটি তাপ আটকে রাখে, ফলে পৃথিবী ধীরে ধীরে উষ্ণ হচ্ছে। অপচয় করলে জীবাশ্ম জ্বালানির মজুদও একদিন ফুরিয়ে যাবে। তাই হিসাব করে ব্যবহার করতে হবে: দরকার না থাকলে চুলা ও ইঞ্জিন বন্ধ রাখা, সাশ্রয়ী চুলা ব্যবহার, আর গণপরিবহনকে প্রাধান্য দেওয়া।
+
+**৮.২.৪ জ্বালানির বিশুদ্ধতার গুরুত্ব**
+- অপর্যাপ্ত বাতাসে জ্বালানি **অসম্পূর্ণভাবে** পোড়ে আর তৈরি করে **কার্বন মনোক্সাইড (CO)**, একটি বর্ণহীন, গন্ধহীন বিষাক্ত গ্যাস, সাথে ঝুল। তাই হলুদ, ধোঁয়াটে শিখার চুলা বন্ধ রান্নাঘরে বিপজ্জনক।
+- প্রাকৃতিক অশোধিত জ্বালানিতে **সালফার, নাইট্রোজেন** ও অন্যান্য মৌলের যৌগ মিশে থাকে। শোধন না করে পোড়ালে SO₂, NO₂-এর মতো অক্সাইড বের হয়, যা বৃষ্টির পানিতে দ্রবীভূত হয়ে **এসিড বৃষ্টি** তৈরি করে:
+  - CO₂ + H₂O → H₂CO₃ (কার্বনিক এসিড, দুর্বল; স্বাভাবিক বৃষ্টিকে সামান্য অম্লীয় করে)
+  - 2SO₂ + O₂ → 2SO₃, তারপর SO₃ + H₂O → H₂SO₄ (সালফিউরিক এসিড)
+  - 4NO₂ + 2H₂O + O₂ → 4HNO₃ (নাইট্রিক এসিড)
+  এসিড বৃষ্টি গাছপালার ক্ষতি করে, পুকুর-নদীর পানি অম্লীয় করে ফলে মাছের বেঁচে থাকা কঠিন হয়, আর দালানকোঠা ক্ষয় করে ([[9.6|পাঠ ৯.৬]])। তাই বাজারে পাঠানোর আগে জ্বালানি **শোধন** করা হয়।
+- যানবাহনের ধোঁয়ায় নাইট্রোজেনের অক্সাইড, কার্বন মনোক্সাইড আর না-পোড়া হাইড্রোকার্বন থাকে। কড়া রোদে এরা বিক্রিয়া করে বাদামি, ক্ষতিকর কুয়াশার মতো স্তর তৈরি করে, একে বলে **ফটোকেমিক্যাল ধোঁয়াশা**।
+
+**৮.২.৫ রাসায়নিক শক্তি ব্যবহারের নেতিবাচক প্রভাব**
+সৌর, বায়ু, জলবিদ্যুৎ ও পারমাণবিক শক্তির ব্যবহার বাড়লেও পৃথিবীর বেশিরভাগ শক্তি এখনো আসে জীবাশ্ম জ্বালানি থেকে। সালোকসংশ্লেষণে উদ্ভিদ CO₂-এর একটা অংশ নেয়, সমুদ্র ও অন্যান্য প্রাকৃতিক প্রক্রিয়া আরও কিছু শোষণ করে, কিন্তু মোটামুটি অর্ধেকটা বায়ুমণ্ডলে থেকে জমতেই থাকে। CO₂ জোরালোভাবে তাপ শোষণ করে, ফলে পৃথিবীর গড় তাপমাত্রা বাড়ছে: **বৈশ্বিক উষ্ণতা বৃদ্ধি**। মিথেনের মতো অন্য গ্যাসও এই **গ্রিনহাউস প্রভাবে** যোগ দেয়। উষ্ণতার ফলে মেরু অঞ্চলের বরফ গলে সমুদ্রপৃষ্ঠের উচ্চতা বাড়ছে, যা বাংলাদেশের মতো নিচু দেশের জন্য বড় হুমকি।
+
+**৮.২.৬ জ্বালানি হিসেবে ইথানল**
+ইথানল (ইথাইল অ্যালকোহল, CH₃–CH₂–OH) নীল শিখায় পরিষ্কারভাবে জ্বলে:
+
+C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(l); ΔH = −1367 kJ/mol
+
+আখ, চিটাগুড় (মোলাসেস) বা ভুট্টার চিনি গাঁজিয়ে এটি তৈরি করা যায়, তাই এটি **নবায়নযোগ্য**: যে CO₂ বের হয়, তা ফসলটি সম্প্রতি বাতাস থেকেই নিয়েছিল। অনেক দেশ পেট্রোলের সাথে ইথানল মেশায়; যুক্তরাষ্ট্রে বিক্রি হওয়া বেশিরভাগ পেট্রোলে ১০% ইথানল থাকে ("E10"), আর ব্রাজিল এর চেয়ে অনেক বেশি অনুপাতে মেশায়। ইথানল জীবাশ্ম জ্বালানির ওপর নির্ভরতা কমাতে পারে, যদিও প্রতি গ্রামে এটি পেট্রোলের চেয়ে কম শক্তি দেয়।
+## analogy
+রাসায়নিক শক্তি যেন ব্যাংকে জমানো টাকা। উদ্ভিদ বছরের পর বছর (আর জীবাশ্ম জ্বালানির বেলায় লক্ষ লক্ষ বছর) সালোকসংশ্লেষণে সূর্যের আলো এই "হিসাবে" জমা করে। জ্বালানি পোড়ালে বা খাবার খেলে আমরা টাকা তুলি। লক্ষ লক্ষ বছরে ভরা সঞ্চয় খুব দ্রুত তুললে তা ফুরিয়ে যায়, আর ফেরত পাওয়া "রসিদ", মানে CO₂, বাতাসে জমতে থাকে।
+## definition
+**জ্বালানি**: যে পদার্থ পোড়ালে (অক্সিজেনের সাথে বিক্রিয়ায়) এর রাসায়নিক শক্তি থেকে কাজে লাগানোর মতো তাপ ও আলো পাওয়া যায়।
+
+**জীবাশ্ম জ্বালানি**: কয়লা, পেট্রোলিয়াম ও প্রাকৃতিক গ্যাস, যা লক্ষ লক্ষ বছর ধরে মাটির নিচে উদ্ভিদ ও প্রাণীর দেহাবশেষ থেকে তৈরি হয়েছে।
+
+**সালোকসংশ্লেষণ**: যে প্রক্রিয়ায় সবুজ উদ্ভিদ সূর্যালোক ও ক্লোরোফিলের সাহায্যে কার্বন ডাই-অক্সাইড ও পানিকে গ্লুকোজ ও অক্সিজেনে পরিণত করে আলোক শক্তিকে রাসায়নিক শক্তি হিসেবে জমা রাখে।
+
+**গ্রিনহাউস প্রভাব / বৈশ্বিক উষ্ণতা বৃদ্ধি**: বায়ুমণ্ডলে CO₂, CH₄-এর মতো গ্যাস তাপ আটকে রাখায় পৃথিবীর গড় তাপমাত্রা বেড়ে যাওয়া।
+## why
+বিভিন্ন জ্বালানি প্রতি গ্রামে ভিন্ন ভিন্ন পরিমাণ তাপ দেয় কেন? তাপ আসে CO₂ ও H₂O-তে শক্তিশালী C=O ও O–H বন্ধন গড়া থেকে। যে জ্বালানি মূলত কার্বন ও হাইড্রোজেন দিয়ে গড়া (মিথেন, এলপিজি, পেট্রোল), তার প্রতি গ্রামে অনেক "না-পোড়া" C–H বন্ধন থাকে, তাই অনেক তাপ দেয়। ইথানলে আগে থেকেই একটি অক্সিজেন পরমাণু আছে, তাই এটি যেন আংশিক "পোড়া", কম তাপ দেয়। হাইড্রোজেন অত্যন্ত হালকা, তাই প্রতি গ্রামে অনেক বেশি H₂ অণু থাকে আর সবচেয়ে বেশি তাপ দেয়।
+## terms
+জীবাশ্ম জ্বালানি | কয়লা, পেট্রোলিয়াম, প্রাকৃতিক গ্যাস: প্রাচীন চাপা পড়া জীব থেকে তৈরি জ্বালানি
+সম্পূর্ণ দহন | যথেষ্ট অক্সিজেনে পোড়া → CO₂ + H₂O
+অসম্পূর্ণ দহন | কম অক্সিজেনে পোড়া → সাথে CO ও ঝুল
+এসিড বৃষ্টি | সালফার ও নাইট্রোজেনের অক্সাইড (এবং CO₂) দ্রবীভূত হয়ে অম্লীয় হওয়া বৃষ্টি
+ফটোকেমিক্যাল ধোঁয়াশা | রোদে যানবাহনের ধোঁয়ার গ্যাস বিক্রিয়া করে তৈরি ক্ষতিকর কুয়াশা
+গ্রিনহাউস গ্যাস | বায়ুমণ্ডলে তাপ আটকে রাখা গ্যাস (CO₂, CH₄ …)
+সালোকসংশ্লেষণ / শ্বসন | সূর্যালোককে গ্লুকোজে রাসায়নিক শক্তি হিসেবে জমা রাখা / কোষে তা মুক্ত করা
+## formula
+$$ নির্গত তাপ = জ্বালানির মোল × দহন তাপ (kJ/mol)
+$$ প্রতি গ্রামে তাপ = দহন তাপ (kJ/mol) ÷ মোলার ভর (g/mol)
+! দহন তাপ (kJ/mol): H₂ ২৮৬, CH₄ ৮৯০, C (কাঠকয়লা) ৩৯৩.৫, C₂H₅OH ১৩৬৭, C₄H₁₀ (বিউটেন, এলপিজি) ২৮৭৭, C₈H₁₈ (অকটেন, পেট্রোল) ৫৪৭০।
+## visual
+একটি জ্বালানি বেছে নাও আর কতটুকু পোড়াবে ঠিক করো। প্রতি গ্রামে কত তাপ, এক লিটার পানি ফোটাতে কতটুকু জ্বালানি লাগে, আর একই তাপের জন্য কোন জ্বালানি কত CO₂ ছাড়ে তুলনা করো।
+## real
+বাংলাদেশের বাসাবাড়ির গ্যাসলাইন আর এলপিজি সিলিন্ডারে থাকে মিথেন আর বিউটেন/প্রোপেন, দুটিই উচ্চ শক্তির, তুলনামূলক পরিষ্কার জ্বালানি। ঢাকার আশপাশে নিম্নমানের কয়লা আর কাঠ পোড়ানো ইটভাটা শীতকালের ধোঁয়াশার বড় উৎস। সিএনজিচালিত অটোরিকশা পুরোনো ডিজেল ইঞ্জিনের চেয়ে কম ঝুল ছাড়ে, কারণ মিথেন বেশি সম্পূর্ণভাবে পোড়ে।
+## example
+প্রশ্ন: ইথানল পোড়ে C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O; ΔH = −1367 kJ/mol অনুযায়ী। ২৩ g ইথানল পোড়ালে কত তাপ নির্গত হবে? (C = ১২, H = ১, O = ১৬)
+দেওয়া আছে: M(C₂H₅OH) = ২ × ১২ + ৬ × ১ + ১৬ = ৪৬ g/mol; ভর = ২৩ g
+সূত্র: মোল = ভর ÷ M; তাপ = মোল × ১৩৬৭ kJ
+হিসাব: মোল = ২৩ ÷ ৪৬ = ০.৫ mol; তাপ = ০.৫ × ১৩৬৭ = ৬৮৩.৫ kJ
+উত্তর: প্রায় ৬৮৪ kJ
+## example
+প্রশ্ন: ১ kg পানিকে ২৫ °C থেকে ১০০ °C-এ গরম করতে ৩১৩.৫ kJ লাগে। কোনো তাপ অপচয় না হলে এর জন্য কত গ্রাম মিথেন পোড়াতে হবে? (CH₄-এর ΔH = −৮৯০ kJ/mol, M = ১৬ g/mol)
+দেওয়া আছে: প্রয়োজনীয় তাপ = ৩১৩.৫ kJ; প্রতি মোল CH₄-এ তাপ = ৮৯০ kJ
+সূত্র: মোল = প্রয়োজনীয় তাপ ÷ ৮৯০; ভর = মোল × ১৬
+হিসাব: মোল = ৩১৩.৫ ÷ ৮৯০ = ০.৩৫২ mol; ভর = ০.৩৫২ × ১৬ = ৫.৬৪ g
+> ৩১৩.৫ kJ আসে ১০০০ g × ৭৫ °C × ৪.১৮ J = ৩১৩ ৫০০ J থেকে। বাস্তবের চুলায় অনেক তাপ অপচয় হয়, তাই আসলে আরও বেশি গ্যাস লাগে।
+উত্তর: প্রায় ৫.৬ g মিথেন
+## example
+প্রশ্ন: সালোকসংশ্লেষণের সমীকরণ CO₂ + H₂O → C₆H₁₂O₆ + O₂ সমতা করো এবং পরমাণু গুনে যাচাই করো।
+সমাধান: গ্লুকোজের ৬টি কার্বনের জন্য 6CO₂; ১২টি হাইড্রোজেনের জন্য 6H₂O; তখন বামে O = ৬ × ২ + ৬ × ১ = ১৮, ডানে গ্লুকোজে ৬টি, তাই আরও ১২টি লাগবে: 6O₂।
+উত্তর: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (C ৬ = ৬, H ১২ = ১২, O ১৮ = ১৮)। বইয়ের রূপ 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O একই সমীকরণ, শুধু দুই পাশে 6H₂O যোগ করা।
+## mistakes
+x এসিড বৃষ্টির প্রধান কারণ কার্বন ডাই-অক্সাইড।
+v CO₂ বৃষ্টিকে সামান্য অম্লীয় করে মাত্র। তীব্র এসিড বৃষ্টি মূলত সালফার ও নাইট্রোজেনের অক্সাইড থেকে তৈরি H₂SO₄ ও HNO₃-এর কারণে।
+x বদ্ধ ঘরে বেশি জ্বালানি পোড়ালে শুধু জ্বালানির অপচয় হয়।
+v পর্যাপ্ত বাতাস ছাড়া পোড়ালে বিষাক্ত কার্বন মনোক্সাইড তৈরি হয়, যা প্রাণঘাতী। রান্নাঘরে সবসময় বাতাস চলাচলের ব্যবস্থা রাখো।
+x ইথানল প্রতি গ্রামে পেট্রোলের চেয়ে বেশি তাপ দেয়।
+v ইথানল দেয় প্রায় ৩০ kJ/g, পেট্রোল প্রায় ৪৮ kJ/g; ইথানলের সুবিধা হলো এটি নবায়নযোগ্য ও পরিষ্কার।
+## remember
+- রাসায়নিক শক্তি → তাপ ও আলো (জ্বালানি), আলো/শব্দ/গতি (আতশবাজি), বিদ্যুৎ (শুষ্ক কোষ, ডেনিয়েল কোষ)।
+- সালোকসংশ্লেষণ সূর্যালোককে রাসায়নিক শক্তি হিসেবে জমা রাখে; শ্বসন তা মুক্ত করে।
+- অবিশুদ্ধ জ্বালানি → CO, SO₂, NO₂ → বিষক্রিয়া, এসিড বৃষ্টি, ধোঁয়াশা। ব্যবহারের আগে জ্বালানি শোধন করো।
+- CO₂ ও CH₄ গ্রিনহাউস গ্যাস → বৈশ্বিক উষ্ণতা বৃদ্ধি, সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি।
+- ইথানল: নবায়নযোগ্য জ্বালানি, প্রায়ই পেট্রোলের সাথে মেশানো হয়।
+## think
+বাংলাদেশে প্রচুর আখের চিটাগুড় (মোলাসেস) হয়। এর আরও বেশি অংশ ইথানলে রূপান্তর করে পেট্রোলে মেশালে কী সুবিধা আর কী সম্ভাব্য অসুবিধা হতে পারে?
+## quiz
+? টর্চের শুষ্ক কোষে কোন শক্তি রূপান্তর ঘটে?
+- তাপ → রাসায়নিক
+* রাসায়নিক → বিদ্যুৎ
+- বিদ্যুৎ → রাসায়নিক
+- আলো → রাসায়নিক
+= কোষের ভেতরের রাসায়নিক পদার্থের বিক্রিয়া বর্তনীতে ইলেকট্রন চালায়।
+? অপর্যাপ্ত বাতাসে জ্বালানি পোড়ালে একটি বিষাক্ত গ্যাস তৈরি হয়:
+- অক্সিজেন
+- নাইট্রোজেন
+* কার্বন মনোক্সাইড
+- হাইড্রোজেন
+= অসম্পূর্ণ দহনে কার্বন মনোক্সাইড (CO) তৈরি হয়।
+? জীবাশ্ম জ্বালানি পোড়ানোর ফলে বৈশ্বিক উষ্ণতা বৃদ্ধির জন্য প্রধানত কোন গ্যাস দায়ী?
+- O₂
+- N₂
+* CO₂
+- H₂
+= CO₂ তাপ শোষণ করে বায়ুমণ্ডলে আটকে রাখে।
+? কোন জ্বালানি প্রতি গ্রামে সবচেয়ে বেশি তাপ দেয়?
+* হাইড্রোজেন
+- ইথানল
+- কাঠ
+- কাঠকয়লা
+= হাইড্রোজেন প্রতি গ্রামে প্রায় ১৪৩ kJ দেয়, অন্যগুলোর চেয়ে অনেক বেশি।
+
+@@ 8.3.1
+@visual k8cond
+@related 8.3.2 8.4 5.12 7.2.3
+== en
+## what
+An **electrochemical cell** either uses electricity to drive a reaction (**electrolytic cell**) or uses a reaction to produce electricity (**galvanic cell**). Electricity passes through metals by **electrons** (electronic conductors) and through molten or dissolved ionic substances by **ions** (electrolytes). The electrode where oxidation happens is the **anode**; where reduction happens is the **cathode**.
+## simple
+Burning a fuel turns chemical energy into heat, and a power station can turn that heat into electricity. But chemistry can also do it **directly**: some reactions push electrons through a wire, and electricity can force reactions to happen. This field is **electrochemistry**, and its apparatus is the **electrochemical cell**: two metal or graphite rods (**electrodes**) dipped in one or two conducting liquids, joined by wire, with or without a battery.
+
+There are two kinds of electrochemical cell:
+- **Electrolytic cell**: electricity from an outside source (battery) drives a chemical reaction inside the cell ([[8.3.2|lesson 8.3.2]]).
+- **Galvanic cell**: a chemical reaction inside the cell produces electricity ([[8.4|lesson 8.4]]).
+
+**Conductors.** A substance that lets electricity pass is an **electrical conductor**: metals, graphite, molten salts, salt solutions, and solutions of acids and bases. They conduct in two different ways.
+
+**1. Electronic conductors** carry electricity by **moving electrons**. Metals have metallic bonds with a "sea" of free electrons, and graphite also has free electrons. Examples: iron (Fe), copper (Cu), nickel (Ni), graphite. The substance itself does **not** change when current flows.
+
+**2. Electrolytes** carry electricity by **moving ions**. They do **not** conduct as solids, because their ions are locked in place, but they **do** conduct when **molten or dissolved**, because the ions are then free to move. And as current flows, the electrolyte undergoes a **chemical change**. Ionic compounds (NaCl, CuSO₄) and some polar covalent compounds (H₂SO₄, CH₃COOH, water) are electrolytes.
+
+**Strong and weak electrolytes**
+- **Strong electrolytes** are **completely** ionised in solution or the molten state: sodium chloride, copper sulfate, sulfuric acid. Their solutions conduct well: a test bulb glows brightly.
+- **Weak electrolytes** are ionised only **to a very small extent**: water, ethanoic (acetic) acid CH₃COOH. They conduct poorly: the bulb glows dimly or not at all.
+- **Non-electrolytes** such as sugar or ethanol dissolve as whole molecules without forming ions, so their solutions do not conduct.
+
+**Electrodes, anode and cathode.** An **electrode** is an electronic conductor (metal or graphite) dipped in the electrolyte. At one electrode an atom or negative ion **gives up electrons** to the electrode: that is **oxidation**. At the other electrode positive ions **take electrons** from the electrode: that is **reduction**. So a complete redox reaction takes place across the whole cell.
+- **Anode**: the electrode where **oxidation** occurs.
+- **Cathode**: the electrode where **reduction** occurs.
+
+A handy memory aid: **"AN OX, RED CAT"**: ANode = OXidation, REDuction = CAThode. This definition is true for both kinds of cell.
+## analogy
+Current in a metal wire is like passengers passing along a moving line of rickshaws: the electrons flow but the road (the metal) stays unchanged. Current in an electrolyte is like a crowd of people walking across a field in two directions: positive ions one way, negative ions the other. When the walkers reach the far side, something happens to them: that is the chemical change.
+## definition
+**Electrochemical cell (তড়িৎ রাসায়নিক কোষ)**: an arrangement in which chemical energy is converted directly into electrical energy by a reaction, or electrical energy is used to bring about a reaction; it has two electrodes dipped in one or two electrolytes.
+
+**Electronic conductor (ইলেকট্রনীয় পরিবাহী)**: a substance that conducts electricity by the movement of electrons, without being chemically changed (metals, graphite).
+
+**Electrolyte (তড়িৎ বিশ্লেষ্য)**: a substance that does not conduct in the solid state but conducts when molten or dissolved, by the movement of ions, and is chemically changed in the process.
+
+**Strong electrolyte**: completely ionised in solution or molten state. **Weak electrolyte**: only slightly ionised.
+
+**Anode**: the electrode at which oxidation occurs. **Cathode**: the electrode at which reduction occurs.
+## why
+Why does solid salt not conduct while salt water does? Electricity is a flow of charge, which needs charged particles that can **move**. In solid NaCl the Na⁺ and Cl⁻ ions are fixed in the crystal lattice and can only vibrate, so no charge flows. When the salt melts or dissolves, the lattice breaks up and the ions become free to drift: Na⁺ toward the negative electrode, Cl⁻ toward the positive one. That drift of ions is the current in the liquid.
+## terms
+Electrochemical cell | Two electrodes in electrolyte(s); turns chemical ↔ electrical energy
+Electrolytic cell | Uses outside electricity to drive a reaction
+Galvanic (voltaic) cell | Produces electricity from a reaction
+Electronic conductor | Conducts by electrons; unchanged (Cu, Fe, graphite)
+Electrolyte | Conducts by ions when molten/dissolved; is decomposed
+Strong / weak electrolyte | Fully ionised (NaCl) / slightly ionised (CH₃COOH, water)
+Electrode | Metal or graphite rod through which current enters or leaves the electrolyte
+Anode / cathode | Electrode where oxidation / reduction occurs
+## visual
+Choose a substance and put it between the two probes of the conductivity tester. Watch whether the bulb glows brightly, dimly or not at all, and read what carries the current.
+## real
+Car and motorcycle mechanics check battery acid; the sulfuric acid in it is a strong electrolyte. Electricians warn never to touch switches with wet hands: pure water is a very weak electrolyte, but water on skin and in taps contains dissolved salts, which make it a much better conductor.
+## example
+Q: Classify each as an electronic conductor, strong electrolyte, weak electrolyte or non-electrolyte: copper wire, NaCl solution, vinegar (dilute ethanoic acid), sugar solution, graphite, dilute H₂SO₄.
+Solution: Copper and graphite have free electrons: electronic conductors. NaCl and H₂SO₄ are completely ionised in water: strong electrolytes. Ethanoic acid is only slightly ionised: weak electrolyte. Sugar forms no ions: non-electrolyte.
+Answer: Electronic: copper wire, graphite. Strong electrolyte: NaCl solution, dilute H₂SO₄. Weak electrolyte: vinegar. Non-electrolyte: sugar solution.
+## example
+Q: At an electrode, Cl⁻ ions change to Cl₂ gas: 2Cl⁻ → Cl₂ + 2e⁻. Is this electrode the anode or the cathode?
+Solution: Chloride ions **lose** electrons, so this is oxidation. Charge check: left −2, right 0 + (−2) = −2, balanced.
+> The electrode where oxidation happens is always called the anode.
+Answer: The anode.
+## mistakes
+x Solid sodium chloride conducts electricity because it is ionic.
+v Solid NaCl does not conduct: its ions cannot move. It conducts only when molten or dissolved.
+x The anode is always the positive electrode.
+v The anode is defined as the electrode of **oxidation**. It is positive in an electrolytic cell but negative in a galvanic cell.
+x Pure water is a good conductor.
+v Pure water is a very weak electrolyte and conducts extremely poorly; tap water conducts because of dissolved salts.
+## remember
+- Electronic conductors: electrons move; no chemical change (metals, graphite).
+- Electrolytes: ions move when molten/dissolved; chemical change occurs.
+- Strong electrolytes fully ionised (NaCl, CuSO₄, H₂SO₄); weak electrolytes slightly ionised (H₂O, CH₃COOH).
+- Anode = oxidation; cathode = reduction.
+- Electrolytic cell uses electricity; galvanic cell makes electricity.
+## think
+Molten sugar and molten salt are both liquids. Why does only one of them conduct electricity?
+## quiz
+? How many kinds of conductors are there based on how they carry electricity?
+- One
+* Two
+- Three
+- Four
+= Electronic conductors (by electrons) and electrolytes (by ions).
+? Which of these is a weak electrolyte?
+- Sodium chloride
+- Copper sulfate
+* Ethanoic acid
+- Sulfuric acid
+= Ethanoic acid is only slightly ionised in water.
+? At which electrode does oxidation take place?
+* Anode
+- Cathode
+- Both
+- Neither
+= By definition, oxidation occurs at the anode and reduction at the cathode.
+? Solid NaCl does not conduct electricity because:
+- It has no ions
+* Its ions cannot move
+- It has free electrons
+- It is covalent
+= The ions are held fixed in the crystal lattice.
+== bn
+## what
+**তড়িৎ রাসায়নিক কোষ** হয় বিদ্যুৎ দিয়ে বিক্রিয়া ঘটায় (**তড়িৎ বিশ্লেষ্য কোষ**), নয়তো বিক্রিয়া দিয়ে বিদ্যুৎ তৈরি করে (**গ্যালভানিক কোষ**)। ধাতুর মধ্য দিয়ে বিদ্যুৎ চলে **ইলেকট্রনের** মাধ্যমে (ইলেকট্রনীয় পরিবাহী), আর গলিত বা দ্রবীভূত আয়নিক পদার্থের মধ্য দিয়ে **আয়নের** মাধ্যমে (তড়িৎ বিশ্লেষ্য)। যে তড়িৎদ্বারে জারণ ঘটে তা **অ্যানোড**; যেখানে বিজারণ ঘটে তা **ক্যাথোড**।
+## simple
+জ্বালানি পোড়ালে রাসায়নিক শক্তি তাপে পরিণত হয়, আর বিদ্যুৎকেন্দ্র সেই তাপকে বিদ্যুতে রূপ দিতে পারে। কিন্তু রসায়ন এ কাজ **সরাসরিও** করতে পারে: কিছু বিক্রিয়া তারের মধ্য দিয়ে ইলেকট্রন ঠেলে পাঠায়, আবার বিদ্যুৎ দিয়ে বিক্রিয়া ঘটানো যায়। এই শাখার নাম **তড়িৎ রসায়ন**, আর এর যন্ত্র হলো **তড়িৎ রাসায়নিক কোষ**: দুটি ধাতব বা গ্রাফাইট দণ্ড (**তড়িৎদ্বার**) এক বা দুটি পরিবাহী তরলে ডুবানো, তার দিয়ে যুক্ত, ব্যাটারিসহ বা ব্যাটারি ছাড়া।
+
+তড়িৎ রাসায়নিক কোষ দুই প্রকার:
+- **তড়িৎ বিশ্লেষ্য কোষ**: বাইরের উৎস (ব্যাটারি) থেকে বিদ্যুৎ দিয়ে কোষের ভেতরে রাসায়নিক বিক্রিয়া ঘটানো হয় ([[8.3.2|পাঠ ৮.৩.২]])।
+- **গ্যালভানিক কোষ**: কোষের ভেতরের রাসায়নিক বিক্রিয়া বিদ্যুৎ তৈরি করে ([[8.4|পাঠ ৮.৪]])।
+
+**পরিবাহী।** যে পদার্থের মধ্য দিয়ে বিদ্যুৎ চলতে পারে তা **বিদ্যুৎ পরিবাহী**: ধাতু, গ্রাফাইট, গলিত লবণ, লবণের দ্রবণ, এসিড ও ক্ষারকের দ্রবণ। এরা দুই ভিন্ন উপায়ে বিদ্যুৎ পরিবহণ করে।
+
+**১. ইলেকট্রনীয় পরিবাহী** বিদ্যুৎ বহন করে **চলমান ইলেকট্রনের** মাধ্যমে। ধাতুতে ধাতব বন্ধন থাকে, সেখানে মুক্ত ইলেকট্রনের "সমুদ্র" থাকে; গ্রাফাইটেও মুক্ত ইলেকট্রন আছে। উদাহরণ: আয়রন (Fe), কপার (Cu), নিকেল (Ni), গ্রাফাইট। বিদ্যুৎ চললে পদার্থটির নিজের কোনো পরিবর্তন **হয় না**।
+
+**২. তড়িৎ বিশ্লেষ্য** বিদ্যুৎ বহন করে **চলমান আয়নের** মাধ্যমে। কঠিন অবস্থায় এরা বিদ্যুৎ পরিবহণ **করে না**, কারণ আয়নগুলো জায়গায় আটকে থাকে; কিন্তু **গলিত বা দ্রবীভূত** অবস্থায় **করে**, কারণ তখন আয়নগুলো চলাচল করতে পারে। আর বিদ্যুৎ চলার সময় তড়িৎ বিশ্লেষ্যের **রাসায়নিক পরিবর্তন** ঘটে। আয়নিক যৌগ (NaCl, CuSO₄) আর কিছু পোলার সমযোজী যৌগ (H₂SO₄, CH₃COOH, পানি) তড়িৎ বিশ্লেষ্য।
+
+**তীব্র ও মৃদু তড়িৎ বিশ্লেষ্য**
+- **তীব্র তড়িৎ বিশ্লেষ্য** দ্রবণে বা গলিত অবস্থায় **সম্পূর্ণ** আয়নিত হয়: সোডিয়াম ক্লোরাইড, কপার সালফেট, সালফিউরিক এসিড। এদের দ্রবণ ভালো বিদ্যুৎ পরিবহণ করে: পরীক্ষার বাল্ব উজ্জ্বলভাবে জ্বলে।
+- **মৃদু তড়িৎ বিশ্লেষ্য** আয়নিত হয় **খুব সামান্য**: পানি, ইথানয়িক (অ্যাসিটিক) এসিড CH₃COOH। এরা দুর্বলভাবে পরিবহণ করে: বাল্ব টিমটিম করে জ্বলে বা জ্বলেই না।
+- চিনি বা ইথানলের মতো **অ-তড়িৎ বিশ্লেষ্য** পুরো অণু হিসেবে দ্রবীভূত হয়, আয়ন তৈরি করে না, তাই এদের দ্রবণ বিদ্যুৎ পরিবহণ করে না।
+
+**তড়িৎদ্বার, অ্যানোড ও ক্যাথোড।** **তড়িৎদ্বার** হলো তড়িৎ বিশ্লেষ্যে ডুবানো একটি ইলেকট্রনীয় পরিবাহী (ধাতু বা গ্রাফাইট)। এক তড়িৎদ্বারে কোনো পরমাণু বা ঋণাত্মক আয়ন তড়িৎদ্বারকে **ইলেকট্রন দিয়ে দেয়**: এটাই **জারণ**। অন্য তড়িৎদ্বারে ধনাত্মক আয়ন তড়িৎদ্বার থেকে **ইলেকট্রন নেয়**: এটাই **বিজারণ**। ফলে পুরো কোষজুড়ে একটি সম্পূর্ণ জারণ-বিজারণ বিক্রিয়া ঘটে।
+- **অ্যানোড**: যে তড়িৎদ্বারে **জারণ** ঘটে।
+- **ক্যাথোড**: যে তড়িৎদ্বারে **বিজারণ** ঘটে।
+
+মনে রাখার সহজ কৌশল: **"অ-জা, ক-বি"**, মানে অ্যানোডে জারণ, ক্যাথোডে বিজারণ। (ইংরেজিতে: "AN OX, RED CAT"।) এই সংজ্ঞা দুই ধরনের কোষেই সত্য।
+## analogy
+ধাতব তারে বিদ্যুৎ চলা যেন রিকশার সারিতে যাত্রীদের এক রিকশা থেকে আরেক রিকশায় হাতবদল: ইলেকট্রন চলে যায়, কিন্তু রাস্তা (ধাতু) যেমন ছিল তেমনই থাকে। তড়িৎ বিশ্লেষ্যে বিদ্যুৎ চলা যেন মাঠের দুই দিকে হেঁটে চলা দুই দল মানুষ: ধনাত্মক আয়ন এক দিকে, ঋণাত্মক আয়ন অন্য দিকে। অন্য পাড়ে পৌঁছালে তাদের কিছু একটা ঘটে: সেটাই রাসায়নিক পরিবর্তন।
+## definition
+**তড়িৎ রাসায়নিক কোষ (Electrochemical cell)**: যে ব্যবস্থায় বিক্রিয়ার মাধ্যমে রাসায়নিক শক্তি সরাসরি বিদ্যুৎ শক্তিতে রূপান্তরিত হয়, অথবা বিদ্যুৎ শক্তি ব্যবহার করে বিক্রিয়া ঘটানো হয়; এতে এক বা দুটি তড়িৎ বিশ্লেষ্যে দুটি তড়িৎদ্বার ডুবানো থাকে।
+
+**ইলেকট্রনীয় পরিবাহী (Electronic conductor)**: যে পদার্থ ইলেকট্রনের চলাচলের মাধ্যমে বিদ্যুৎ পরিবহণ করে এবং নিজে রাসায়নিকভাবে পরিবর্তিত হয় না (ধাতু, গ্রাফাইট)।
+
+**তড়িৎ বিশ্লেষ্য (Electrolyte)**: যে পদার্থ কঠিন অবস্থায় বিদ্যুৎ পরিবহণ করে না কিন্তু গলিত বা দ্রবীভূত অবস্থায় আয়নের চলাচলের মাধ্যমে বিদ্যুৎ পরিবহণ করে এবং সেই সাথে এর রাসায়নিক পরিবর্তন ঘটে।
+
+**তীব্র তড়িৎ বিশ্লেষ্য**: দ্রবণে বা গলিত অবস্থায় সম্পূর্ণ আয়নিত হয়। **মৃদু তড়িৎ বিশ্লেষ্য**: খুব সামান্য আয়নিত হয়।
+
+**অ্যানোড**: যে তড়িৎদ্বারে জারণ ঘটে। **ক্যাথোড**: যে তড়িৎদ্বারে বিজারণ ঘটে।
+## why
+কঠিন লবণ বিদ্যুৎ পরিবহণ করে না, অথচ লবণপানি করে কেন? বিদ্যুৎ মানে আধানের প্রবাহ, আর তার জন্য দরকার **চলতে পারে** এমন আধানযুক্ত কণা। কঠিন NaCl-এ Na⁺ ও Cl⁻ আয়নগুলো কেলাস জালিতে আটকে থাকে, শুধু কাঁপতে পারে, তাই আধান প্রবাহিত হয় না। লবণ গলালে বা দ্রবীভূত করলে জালি ভেঙে যায় আর আয়নগুলো ভেসে চলতে পারে: Na⁺ ঋণাত্মক তড়িৎদ্বারের দিকে, Cl⁻ ধনাত্মকটির দিকে। আয়নের এই চলাচলই তরলের ভেতরের বিদ্যুৎপ্রবাহ।
+## terms
+তড়িৎ রাসায়নিক কোষ | তড়িৎ বিশ্লেষ্যে দুটি তড়িৎদ্বার; রাসায়নিক ↔ বিদ্যুৎ শক্তি রূপান্তর
+তড়িৎ বিশ্লেষ্য কোষ | বাইরের বিদ্যুৎ দিয়ে বিক্রিয়া ঘটায়
+গ্যালভানিক (ভোল্টায়িক) কোষ | বিক্রিয়া থেকে বিদ্যুৎ তৈরি করে
+ইলেকট্রনীয় পরিবাহী | ইলেকট্রনের মাধ্যমে পরিবহণ; অপরিবর্তিত থাকে (Cu, Fe, গ্রাফাইট)
+তড়িৎ বিশ্লেষ্য | গলিত/দ্রবীভূত অবস্থায় আয়নের মাধ্যমে পরিবহণ; বিশ্লিষ্ট হয়
+তীব্র / মৃদু তড়িৎ বিশ্লেষ্য | সম্পূর্ণ আয়নিত (NaCl) / সামান্য আয়নিত (CH₃COOH, পানি)
+তড়িৎদ্বার | যে ধাতব বা গ্রাফাইট দণ্ড দিয়ে বিদ্যুৎ তড়িৎ বিশ্লেষ্যে ঢোকে বা বের হয়
+অ্যানোড / ক্যাথোড | যে তড়িৎদ্বারে জারণ / বিজারণ ঘটে
+## visual
+একটি পদার্থ বেছে নিয়ে পরিবাহিতা পরীক্ষকের দুই প্রোবের মাঝে রাখো। দেখো বাল্ব উজ্জ্বল, টিমটিমে নাকি একেবারেই জ্বলে না, আর পড়ো কে বিদ্যুৎ বহন করছে।
+## real
+গাড়ি ও মোটরসাইকেলের মিস্ত্রিরা ব্যাটারির এসিড পরীক্ষা করেন; এর সালফিউরিক এসিড একটি তীব্র তড়িৎ বিশ্লেষ্য। ইলেকট্রিশিয়ানরা ভেজা হাতে সুইচ ছুঁতে নিষেধ করেন: বিশুদ্ধ পানি অত্যন্ত মৃদু তড়িৎ বিশ্লেষ্য, কিন্তু চামড়ার ওপরের আর কলের পানিতে দ্রবীভূত লবণ থাকে, যা একে অনেক ভালো পরিবাহী করে তোলে।
+## example
+প্রশ্ন: নিচের প্রতিটিকে ইলেকট্রনীয় পরিবাহী, তীব্র তড়িৎ বিশ্লেষ্য, মৃদু তড়িৎ বিশ্লেষ্য বা অ-তড়িৎ বিশ্লেষ্য হিসেবে ভাগ করো: কপারের তার, NaCl দ্রবণ, ভিনেগার (লঘু ইথানয়িক এসিড), চিনির দ্রবণ, গ্রাফাইট, লঘু H₂SO₄।
+সমাধান: কপার ও গ্রাফাইটে মুক্ত ইলেকট্রন আছে: ইলেকট্রনীয় পরিবাহী। NaCl ও H₂SO₄ পানিতে সম্পূর্ণ আয়নিত: তীব্র তড়িৎ বিশ্লেষ্য। ইথানয়িক এসিড সামান্য আয়নিত: মৃদু তড়িৎ বিশ্লেষ্য। চিনি আয়ন তৈরি করে না: অ-তড়িৎ বিশ্লেষ্য।
+উত্তর: ইলেকট্রনীয়: কপারের তার, গ্রাফাইট। তীব্র তড়িৎ বিশ্লেষ্য: NaCl দ্রবণ, লঘু H₂SO₄। মৃদু তড়িৎ বিশ্লেষ্য: ভিনেগার। অ-তড়িৎ বিশ্লেষ্য: চিনির দ্রবণ।
+## example
+প্রশ্ন: একটি তড়িৎদ্বারে Cl⁻ আয়ন Cl₂ গ্যাসে পরিণত হচ্ছে: 2Cl⁻ → Cl₂ + 2e⁻। এই তড়িৎদ্বারটি অ্যানোড না ক্যাথোড?
+সমাধান: ক্লোরাইড আয়ন ইলেকট্রন **হারাচ্ছে**, তাই এটি জারণ। আধান যাচাই: বামে −২, ডানে ০ + (−২) = −২, সমান।
+> যে তড়িৎদ্বারে জারণ ঘটে, তাকে সবসময় অ্যানোড বলে।
+উত্তর: অ্যানোড।
+## mistakes
+x কঠিন সোডিয়াম ক্লোরাইড আয়নিক, তাই বিদ্যুৎ পরিবহণ করে।
+v কঠিন NaCl বিদ্যুৎ পরিবহণ করে না: এর আয়নগুলো চলতে পারে না। শুধু গলিত বা দ্রবীভূত অবস্থায় পরিবহণ করে।
+x অ্যানোড সবসময় ধনাত্মক তড়িৎদ্বার।
+v অ্যানোডের সংজ্ঞা হলো **জারণের** তড়িৎদ্বার। তড়িৎ বিশ্লেষ্য কোষে এটি ধনাত্মক, কিন্তু গ্যালভানিক কোষে ঋণাত্মক।
+x বিশুদ্ধ পানি ভালো পরিবাহী।
+v বিশুদ্ধ পানি অত্যন্ত মৃদু তড়িৎ বিশ্লেষ্য, খুবই কম পরিবহণ করে; কলের পানি পরিবহণ করে দ্রবীভূত লবণের কারণে।
+## remember
+- ইলেকট্রনীয় পরিবাহী: ইলেকট্রন চলে; রাসায়নিক পরিবর্তন হয় না (ধাতু, গ্রাফাইট)।
+- তড়িৎ বিশ্লেষ্য: গলিত/দ্রবীভূত অবস্থায় আয়ন চলে; রাসায়নিক পরিবর্তন ঘটে।
+- তীব্র তড়িৎ বিশ্লেষ্য সম্পূর্ণ আয়নিত (NaCl, CuSO₄, H₂SO₄); মৃদু তড়িৎ বিশ্লেষ্য সামান্য আয়নিত (H₂O, CH₃COOH)।
+- অ্যানোড = জারণ; ক্যাথোড = বিজারণ।
+- তড়িৎ বিশ্লেষ্য কোষ বিদ্যুৎ খরচ করে; গ্যালভানিক কোষ বিদ্যুৎ তৈরি করে।
+## think
+গলিত চিনি আর গলিত লবণ দুটোই তরল। তাহলে এদের একটিই কেন বিদ্যুৎ পরিবহণ করে?
+## quiz
+? বিদ্যুৎ বহনের কৌশলের ভিত্তিতে পরিবাহী কত প্রকার?
+- এক
+* দুই
+- তিন
+- চার
+= ইলেকট্রনীয় পরিবাহী (ইলেকট্রনের মাধ্যমে) ও তড়িৎ বিশ্লেষ্য পরিবাহী (আয়নের মাধ্যমে)।
+? নিচের কোনটি মৃদু তড়িৎ বিশ্লেষ্য?
+- সোডিয়াম ক্লোরাইড
+- কপার সালফেট
+* ইথানয়িক এসিড
+- সালফিউরিক এসিড
+= ইথানয়িক এসিড পানিতে খুব সামান্য আয়নিত হয়।
+? কোন তড়িৎদ্বারে জারণ ঘটে?
+* অ্যানোড
+- ক্যাথোড
+- দুটিতেই
+- কোনোটিতেই নয়
+= সংজ্ঞা অনুযায়ী অ্যানোডে জারণ আর ক্যাথোডে বিজারণ ঘটে।
+? কঠিন NaCl বিদ্যুৎ পরিবহণ করে না, কারণ:
+- এতে কোনো আয়ন নেই
+* এর আয়নগুলো চলতে পারে না
+- এতে মুক্ত ইলেকট্রন আছে
+- এটি সমযোজী
+= আয়নগুলো কেলাস জালিতে আটকে থাকে।
+
+@@ 8.3.2
+@visual k8elec
+@related 8.3.1 8.3.3 7.2.3 6.1.1
+== en
+## what
+**Electrolysis** is the chemical decomposition of a molten or dissolved electrolyte by passing electricity through it. Positive ions (**cations**) move to the cathode and gain electrons (reduction); negative ions (**anions**) move to the anode and lose electrons (oxidation). Which ions are discharged depends on their position in the **electrochemical series**, their **concentration** and the **electrode**.
+## simple
+An **electrolytic cell** uses electricity to make a reaction happen that would not happen by itself. The battery acts like a pump: it pulls electrons away from one electrode (making it **positive**, the **anode**) and pushes them onto the other (making it **negative**, the **cathode**).
+
+**1. Electrolysis of molten sodium chloride**
+Molten NaCl contains only two kinds of ion, Na⁺ and Cl⁻, and both can move. Dip two graphite rods in it and connect them to a battery.
+- Cl⁻ ions are attracted to the **positive anode**. Each gives up an electron; the atoms pair up as chlorine gas. **Oxidation at the anode:** 2Cl⁻ → Cl₂ + 2e⁻
+- Na⁺ ions are attracted to the **negative cathode**. Each takes an electron and becomes sodium metal. **Reduction at the cathode:** Na⁺ + e⁻ → Na
+- Overall: 2NaCl(l) → 2Na(l) + Cl₂(g)
+
+An ion attracted to the cathode is a **cation** (Na⁺); an ion attracted to the anode is an **anion** (Cl⁻). (Molten NaCl is at about 800 °C, so this is done in industry, not in a school lab.)
+
+**Testing for chlorine.** Hold a piece of **moist blue litmus paper** in the gas from the anode. It turns **red**, because chlorine reacts with water to form two acids, and then it is **bleached white** by hypochlorous acid:
+Cl₂ + H₂O → HCl + HOCl
+*Chlorine is poisonous; such tests are done only by the teacher, in very small amounts, in a well-ventilated place or fume cupboard.*
+
+**2. Electrolysis of concentrated sodium chloride solution (brine)**
+Now there are four kinds of ion: Na⁺ and Cl⁻ from the salt, plus a few H⁺ and OH⁻ from the slight ionisation of water (H₂O ⇌ H⁺ + OH⁻).
+- **At the cathode**, both Na⁺ and H⁺ arrive. H⁺ accepts electrons much more readily than Na⁺, so hydrogen is released: 2H⁺ + 2e⁻ → H₂
+- **At the anode**, both Cl⁻ and OH⁻ arrive. OH⁻ normally gives up electrons more readily, but the solution contains a huge excess of Cl⁻, so **chlorine** is released: 2Cl⁻ → Cl₂ + 2e⁻
+- The Na⁺ and OH⁻ ions left behind make the solution into **sodium hydroxide**, NaOH.
+Products: **H₂ at the cathode, Cl₂ at the anode, NaOH in solution.**
+
+**Which ion is discharged? Three factors**
+
+**(i) The electrochemical series.** Ions are arranged by how easily they are discharged (Table 8.02). For cations, the **lower** an ion is, the **more easily** it accepts electrons and is discharged. For anions too, the lower one gives up electrons first.
+- Cations (top: hardest to discharge → bottom: easiest): K⁺, Na⁺, Ca²⁺, Mg²⁺, Al³⁺, Zn²⁺, Fe²⁺, Pb²⁺, **H⁺**, Cu²⁺, Ag⁺, Au³⁺
+- Anions (top: hardest → bottom: easiest): NO₃⁻, SO₄²⁻, Cl⁻, Br⁻, I⁻, OH⁻
+So between Na⁺ and H⁺, H⁺ is discharged; between Zn²⁺ and Fe²⁺, Fe²⁺ is discharged; between SO₄²⁻ and OH⁻, OH⁻ is discharged. The metal above is the more **reactive** one, and its ion is the harder one to turn back into metal.
+
+**(ii) Concentration.** When the concentration of one ion is very much larger, this can outweigh position in the series. In 0.1 M NaCl solution, [Cl⁻] = 0.1 mol/L, while [OH⁻] from water is only 10^{-7} mol/L: Cl⁻ ions outnumber OH⁻ ions by 10^{6} to 1. So in a concentrated salt solution chlorine is released at the anode even though OH⁻ is lower in the series. (In very dilute salt solution, mainly oxygen is released instead.)
+
+**(iii) The nature of the electrode.** With **platinum** or graphite electrodes, brine gives H₂ at the cathode as in (i). With a **mercury** cathode, however, Na⁺ is discharged and the sodium dissolves in the mercury as an **amalgam**.
+
+**3. Electrolysis of water (acidified)**
+Pure water is ionised so slightly that it hardly conducts. A few drops of **dilute sulfuric acid** are added to provide plenty of ions; inert **platinum** electrodes are used.
+- **Cathode (reduction):** 4H⁺ + 4e⁻ → 2H₂
+- **Anode (oxidation):** 4OH⁻ → O₂ + 2H₂O + 4e⁻
+- Overall: 2H₂O(l) → 2H₂(g) + O₂(g)
+**Hydrogen** collects at the cathode and **oxygen** at the anode, and the volume of hydrogen is **twice** the volume of oxygen, exactly as the equation predicts. The acid itself is not used up; it just carries the current.
+
+**4. Copper(II) sulfate solution with graphite electrodes** (for comparison)
+Cu²⁺ is below H⁺, so copper plates the cathode: Cu²⁺ + 2e⁻ → Cu. SO₄²⁻ is above OH⁻, so oxygen forms at the anode: 4OH⁻ → O₂ + 2H₂O + 4e⁻. The blue colour fades as Cu²⁺ is used up, and the solution becomes acidic.
+## analogy
+Think of the anode and cathode as two ticket counters at a bus terminal. Positive ions queue at the cathode counter to *receive* electrons, negative ions at the anode counter to *hand in* electrons. When several kinds of passenger are waiting, who gets served first? The ones with priority (the electrochemical series), unless another group is so enormous that it takes over the counter (concentration), or the counter itself has special rules (the electrode).
+## definition
+**Electrolysis (তড়িৎ বিশ্লেষণ)**: the chemical change (decomposition) of an electrolyte in the molten or dissolved state when electricity is passed through it.
+
+**Electrolytic cell (তড়িৎ বিশ্লেষ্য কোষ)**: a cell in which electrical energy from an external source brings about a chemical reaction; its anode is positive and its cathode negative.
+
+**Cation / anion**: an ion attracted to the cathode (positive ion) / to the anode (negative ion).
+
+**Electrochemical series (তড়িৎ রাসায়নিক সারি)**: the arrangement of cations (or anions) in order of their tendency to be discharged at an electrode.
+## why
+Why is H⁺ discharged instead of Na⁺ from brine? Sodium is a very reactive metal: it holds its outer electron loosely and very much "wants" to stay as Na⁺. Hydrogen holds on to electrons more strongly, so H⁺ accepts an electron far more easily than Na⁺ does. At the cathode the electrons go to the ion that accepts them most readily. That is why very reactive metals such as sodium and aluminium can be obtained only by electrolysis of their **molten** compounds, where no water (and no H⁺) is present.
+## terms
+Electrolysis | Decomposing an electrolyte by electricity
+Cation / anion | Positive ion (goes to cathode) / negative ion (goes to anode)
+Discharge | An ion gaining or losing electrons at an electrode to become a neutral atom or molecule
+Electrochemical series | Order of ions by ease of discharge
+Brine | Concentrated sodium chloride solution
+Amalgam | A mixture (alloy) of a metal with mercury
+Inert electrode | Electrode that does not itself react (platinum, graphite)
+## formula
+$$ Cathode (reduction): Mⁿ⁺ + ne⁻ → M
+$$ Anode (oxidation): 2Cl⁻ → Cl₂ + 2e⁻;  4OH⁻ → O₂ + 2H₂O + 4e⁻
+$$ Water: 2H₂O → 2H₂ + O₂  (volume H₂ : O₂ = 2 : 1)
+! Every half-equation must balance in atoms and in charge (count the electrons).
+! Electrons lost at the anode = electrons gained at the cathode.
+## visual
+Pick an electrolyte and switch on the current. Watch the cations drift to the cathode and the anions to the anode, see which ions are discharged, and read the half-equations and products.
+## real
+Chlor-alkali factories in Bangladesh electrolyse brine to make caustic soda (NaOH) and chlorine: NaOH for soap, textiles and paper, chlorine and bleach for disinfecting water. Electrolysis of water with renewable electricity is one way to make "green hydrogen" fuel.
+## example
+Q: Molten NaCl is electrolysed. Write the half-equations at each electrode and name the products.
+Solution: Anode (positive): Cl⁻ ions lose electrons: 2Cl⁻ → Cl₂ + 2e⁻ (oxidation). Cathode (negative): Na⁺ ions gain electrons: Na⁺ + e⁻ → Na (reduction); for 2e⁻, 2Na⁺ + 2e⁻ → 2Na.
+> Charge check: anode −2 → 0 − 2; cathode +2 − 2 → 0. Electrons lost equal electrons gained.
+Answer: Chlorine gas at the anode, sodium metal at the cathode; overall 2NaCl → 2Na + Cl₂.
+## example
+Q: In 0.1 M NaCl solution, [Cl⁻] = 0.1 mol/L and [OH⁻] = 10^{-7} mol/L. How many times more Cl⁻ ions are there? Which gas is expected at the anode?
+Given: [Cl⁻] = 10^{-1} M; [OH⁻] = 10^{-7} M
+Formula: ratio = [Cl⁻] ÷ [OH⁻]
+Calculation: 10^{-1} ÷ 10^{-7} = 10^{6}
+Answer: Cl⁻ ions outnumber OH⁻ ions a million (10^{6}) times, so chlorine is discharged at the anode, as the book explains, even though OH⁻ is lower in the series.
+## example
+Q: 36 g of water is completely electrolysed. What masses of hydrogen and oxygen are formed, and what volumes would they occupy at STP? (H = 1, O = 16)
+Given: 2H₂O → 2H₂ + O₂; M(H₂O) = 18 g/mol
+Formula: n = mass ÷ M; V(STP) = n × 22.4 L
+Calculation: n(H₂O) = 36 ÷ 18 = 2 mol → 2 mol H₂ (2 × 2 = 4 g) and 1 mol O₂ (32 g); V(H₂) = 2 × 22.4 = 44.8 L; V(O₂) = 22.4 L
+> Mass check: 4 + 32 = 36 g, so mass is conserved.
+Answer: 4 g H₂ (44.8 L) at the cathode and 32 g O₂ (22.4 L) at the anode; hydrogen volume is twice the oxygen volume.
+## mistakes
+x In the electrolysis of brine, sodium metal forms at the cathode.
+v With platinum or graphite electrodes, hydrogen forms at the cathode, because H⁺ is discharged more easily than Na⁺. Sodium forms only from molten NaCl (or with a mercury cathode, as an amalgam).
+x Sulfuric acid is added to water because the acid decomposes into hydrogen and oxygen.
+v The acid only provides ions to carry the current; it is the water that is decomposed.
+x Cations go to the anode.
+v Cations (positive) go to the cathode (negative in an electrolytic cell); anions go to the anode.
+## remember
+- Electrolytic cell: anode +, cathode −.
+- Molten NaCl → Na at cathode, Cl₂ at anode.
+- Brine → H₂ at cathode, Cl₂ at anode, NaOH left in solution.
+- Acidified water → H₂ at cathode, O₂ at anode, volume ratio 2 : 1.
+- Discharge depends on: electrochemical series, concentration, nature of electrode.
+## think
+Why can't sodium metal be obtained by electrolysing salt solution with graphite electrodes, even though the solution contains plenty of Na⁺ ions?
+## quiz
+? Electrolysis of concentrated NaCl solution with platinum electrodes produces:
+- Only hydrogen gas
+- Only chlorine gas
+- Sodium metal and chlorine
+* Hydrogen, chlorine and sodium hydroxide solution
+= H₂ at the cathode, Cl₂ at the anode, and Na⁺ + OH⁻ left as NaOH.
+? In the electrolysis of acidified water, the gas at the cathode is:
+* Hydrogen
+- Oxygen
+- Chlorine
+- Sulfur dioxide
+= 4H⁺ + 4e⁻ → 2H₂ at the cathode.
+? Why are a few drops of sulfuric acid added to water before electrolysis?
+- To decompose the acid
+* To increase the conductivity of the water
+- To produce chlorine
+- To cool the water
+= Pure water has too few ions; the acid supplies ions to carry current.
+? Which ion is discharged first at the cathode from a solution containing Zn²⁺ and Cu²⁺?
+- Zn²⁺
+* Cu²⁺
+- Both together
+- Neither
+= Cu²⁺ is lower in the electrochemical series, so it accepts electrons more easily.
+? Which is the correct half-equation at the anode in the electrolysis of acidified water?
+- 4H⁺ + 4e⁻ → 2H₂
+* 4OH⁻ → O₂ + 2H₂O + 4e⁻
+- O₂ + 4e⁻ → 2O²⁻
+- 2Cl⁻ → Cl₂ + 2e⁻
+= At the anode OH⁻ loses electrons (oxidation) and oxygen forms; charges: −4 = 0 + 0 − 4.
+== bn
+## what
+গলিত বা দ্রবীভূত তড়িৎ বিশ্লেষ্যের মধ্য দিয়ে বিদ্যুৎ চালনা করে এর রাসায়নিক বিয়োজন ঘটানোকে **তড়িৎ বিশ্লেষণ** বলে। ধনাত্মক আয়ন (**ক্যাটায়ন**) ক্যাথোডে গিয়ে ইলেকট্রন নেয় (বিজারণ); ঋণাত্মক আয়ন (**অ্যানায়ন**) অ্যানোডে গিয়ে ইলেকট্রন ছাড়ে (জারণ)। কোন আয়ন চার্জমুক্ত হবে তা নির্ভর করে **তড়িৎ রাসায়নিক সারিতে** তার অবস্থান, তার **ঘনমাত্রা** আর **তড়িৎদ্বারের** প্রকৃতির ওপর।
+## simple
+**তড়িৎ বিশ্লেষ্য কোষ** বিদ্যুৎ দিয়ে এমন বিক্রিয়া ঘটায় যা নিজে থেকে ঘটত না। ব্যাটারি যেন একটা পাম্প: এক তড়িৎদ্বার থেকে ইলেকট্রন টেনে নেয় (সেটি হয় **ধনাত্মক**, **অ্যানোড**) আর অন্যটিতে ঠেলে দেয় (সেটি হয় **ঋণাত্মক**, **ক্যাথোড**)।
+
+**১. গলিত সোডিয়াম ক্লোরাইডের তড়িৎ বিশ্লেষণ**
+গলিত NaCl-এ শুধু দুই রকম আয়ন, Na⁺ ও Cl⁻, আর দুটোই চলতে পারে। এতে দুটি গ্রাফাইট দণ্ড ডুবিয়ে ব্যাটারির সাথে যুক্ত করো।
+- Cl⁻ আয়ন **ধনাত্মক অ্যানোডের** দিকে আকৃষ্ট হয়। প্রতিটি একটি ইলেকট্রন দিয়ে দেয়; পরমাণুগুলো জোড় বেঁধে ক্লোরিন গ্যাস হয়। **অ্যানোডে জারণ:** 2Cl⁻ → Cl₂ + 2e⁻
+- Na⁺ আয়ন **ঋণাত্মক ক্যাথোডের** দিকে আকৃষ্ট হয়। প্রতিটি একটি ইলেকট্রন নিয়ে সোডিয়াম ধাতু হয়। **ক্যাথোডে বিজারণ:** Na⁺ + e⁻ → Na
+- সামগ্রিক: 2NaCl(l) → 2Na(l) + Cl₂(g)
+
+ক্যাথোডের দিকে আকৃষ্ট আয়ন **ক্যাটায়ন** (Na⁺); অ্যানোডের দিকে আকৃষ্ট আয়ন **অ্যানায়ন** (Cl⁻)। (গলিত NaCl-এর তাপমাত্রা প্রায় ৮০০ °C, তাই এ কাজ কারখানায় হয়, স্কুলের পরীক্ষাগারে নয়।)
+
+**ক্লোরিন শনাক্তকরণ।** অ্যানোড থেকে আসা গ্যাসে **ভেজা নীল লিটমাস কাগজ** ধরো। এটি **লাল** হয়ে যায়, কারণ ক্লোরিন পানির সাথে বিক্রিয়া করে দুটি এসিড তৈরি করে, তারপর হাইপোক্লোরাস এসিড একে **সাদা (বিরঞ্জিত)** করে দেয়:
+Cl₂ + H₂O → HCl + HOCl
+*ক্লোরিন বিষাক্ত; এমন পরীক্ষা শুধু শিক্ষক করবেন, খুব অল্প পরিমাণে, বাতাস চলাচল আছে এমন জায়গায় বা ফিউম কাপবোর্ডে।*
+
+**২. গাঢ় সোডিয়াম ক্লোরাইড দ্রবণের (ব্রাইন) তড়িৎ বিশ্লেষণ**
+এখন চার রকম আয়ন: লবণ থেকে Na⁺ ও Cl⁻, আর পানির সামান্য আয়নন থেকে কিছু H⁺ ও OH⁻ (H₂O ⇌ H⁺ + OH⁻)।
+- **ক্যাথোডে** Na⁺ ও H⁺ দুটোই আসে। H⁺ অনেক সহজে ইলেকট্রন নেয়, তাই হাইড্রোজেন বের হয়: 2H⁺ + 2e⁻ → H₂
+- **অ্যানোডে** Cl⁻ ও OH⁻ দুটোই আসে। সাধারণত OH⁻ সহজে ইলেকট্রন ছাড়ে, কিন্তু দ্রবণে Cl⁻ অনেক অনেক বেশি, তাই **ক্লোরিন** বের হয়: 2Cl⁻ → Cl₂ + 2e⁻
+- পড়ে থাকা Na⁺ ও OH⁻ আয়ন দ্রবণটিকে **সোডিয়াম হাইড্রোক্সাইড** (NaOH) দ্রবণে পরিণত করে।
+উৎপাদ: **ক্যাথোডে H₂, অ্যানোডে Cl₂, দ্রবণে NaOH।**
+
+**কোন আয়ন চার্জমুক্ত হবে? তিনটি বিষয়**
+
+**(i) তড়িৎ রাসায়নিক সারি।** কত সহজে চার্জমুক্ত হয় সে অনুযায়ী আয়নগুলোকে সাজানো হয়েছে (টেবিল ৮.০২)। ক্যাটায়নের ক্ষেত্রে সারিতে যে আয়ন যত **নিচে**, সে তত **সহজে** ইলেকট্রন নিয়ে চার্জমুক্ত হয়। অ্যানায়নের ক্ষেত্রেও নিচেরটি আগে ইলেকট্রন ছাড়ে।
+- ক্যাটায়ন (ওপরে: সবচেয়ে কঠিন → নিচে: সবচেয়ে সহজ): K⁺, Na⁺, Ca²⁺, Mg²⁺, Al³⁺, Zn²⁺, Fe²⁺, Pb²⁺, **H⁺**, Cu²⁺, Ag⁺, Au³⁺
+- অ্যানায়ন (ওপরে: কঠিন → নিচে: সহজ): NO₃⁻, SO₄²⁻, Cl⁻, Br⁻, I⁻, OH⁻
+তাই Na⁺ ও H⁺-এর মধ্যে H⁺ চার্জমুক্ত হয়; Zn²⁺ ও Fe²⁺-এর মধ্যে Fe²⁺; SO₄²⁻ ও OH⁻-এর মধ্যে OH⁻। ওপরের ধাতুটি বেশি **সক্রিয়**, আর তার আয়নকে আবার ধাতুতে ফেরানো বেশি কঠিন।
+
+**(ii) ঘনমাত্রা।** কোনো আয়নের ঘনমাত্রা অনেক অনেক বেশি হলে তা সারির অবস্থানকেও ছাপিয়ে যেতে পারে। ০.১ M NaCl দ্রবণে [Cl⁻] = ০.১ mol/L, অথচ পানি থেকে আসা [OH⁻] মাত্র ১০^{-৭} mol/L: Cl⁻ আয়ন OH⁻ আয়নের চেয়ে ১০^{৬} গুণ বেশি। তাই গাঢ় লবণ দ্রবণে OH⁻ সারিতে নিচে থাকলেও অ্যানোডে ক্লোরিন বের হয়। (খুব লঘু লবণ দ্রবণে এর বদলে মূলত অক্সিজেন বের হয়।)
+
+**(iii) তড়িৎদ্বারের প্রকৃতি।** **প্লাটিনাম** বা গ্রাফাইট তড়িৎদ্বারে ব্রাইন থেকে (i) অনুযায়ী ক্যাথোডে H₂ পাওয়া যায়। কিন্তু **পারদের** ক্যাথোড ব্যবহার করলে Na⁺ চার্জমুক্ত হয় আর সোডিয়াম পারদে দ্রবীভূত হয়ে **অ্যামালগাম** তৈরি করে।
+
+**৩. পানির (অম্লীয়) তড়িৎ বিশ্লেষণ**
+বিশুদ্ধ পানি এত সামান্য আয়নিত হয় যে প্রায় বিদ্যুৎ পরিবহণই করে না। তাই প্রচুর আয়ন জোগাতে কয়েক ফোঁটা **লঘু সালফিউরিক এসিড** যোগ করা হয়; নিষ্ক্রিয় **প্লাটিনাম** তড়িৎদ্বার ব্যবহার করা হয়।
+- **ক্যাথোড (বিজারণ):** 4H⁺ + 4e⁻ → 2H₂
+- **অ্যানোড (জারণ):** 4OH⁻ → O₂ + 2H₂O + 4e⁻
+- সামগ্রিক: 2H₂O(l) → 2H₂(g) + O₂(g)
+ক্যাথোডে **হাইড্রোজেন** আর অ্যানোডে **অক্সিজেন** জমা হয়, আর হাইড্রোজেনের আয়তন অক্সিজেনের **দ্বিগুণ**, ঠিক যেমন সমীকরণ বলে। এসিড নিজে খরচ হয় না; এটি শুধু বিদ্যুৎ বহন করে।
+
+**৪. গ্রাফাইট তড়িৎদ্বারে কপার(II) সালফেট দ্রবণ** (তুলনার জন্য)
+Cu²⁺ সারিতে H⁺-এর নিচে, তাই ক্যাথোডে কপারের আস্তরণ পড়ে: Cu²⁺ + 2e⁻ → Cu। SO₄²⁻ সারিতে OH⁻-এর ওপরে, তাই অ্যানোডে অক্সিজেন হয়: 4OH⁻ → O₂ + 2H₂O + 4e⁻। Cu²⁺ খরচ হওয়ায় নীল রং ফিকে হয়ে আসে, আর দ্রবণ অম্লীয় হয়ে যায়।
+## analogy
+অ্যানোড আর ক্যাথোডকে ভাবো বাস টার্মিনালের দুটি টিকিট কাউন্টার হিসেবে। ধনাত্মক আয়নেরা ক্যাথোড কাউন্টারে লাইন দেয় ইলেকট্রন *নিতে*, ঋণাত্মক আয়নেরা অ্যানোড কাউন্টারে ইলেকট্রন *জমা দিতে*। কয়েক রকম যাত্রী অপেক্ষা করলে আগে কে সেবা পাবে? যাদের অগ্রাধিকার আছে (তড়িৎ রাসায়নিক সারি), যদি না অন্য কোনো দল এত বিশাল হয় যে কাউন্টার দখল করে ফেলে (ঘনমাত্রা), অথবা কাউন্টারেরই বিশেষ নিয়ম থাকে (তড়িৎদ্বার)।
+## definition
+**তড়িৎ বিশ্লেষণ (Electrolysis)**: গলিত বা দ্রবীভূত অবস্থায় কোনো তড়িৎ বিশ্লেষ্যের মধ্য দিয়ে বিদ্যুৎ চালনা করলে তার যে রাসায়নিক পরিবর্তন (বিয়োজন) ঘটে।
+
+**তড়িৎ বিশ্লেষ্য কোষ (Electrolytic cell)**: যে কোষে বাইরের উৎস থেকে বিদ্যুৎ শক্তি দিয়ে রাসায়নিক বিক্রিয়া ঘটানো হয়; এর অ্যানোড ধনাত্মক আর ক্যাথোড ঋণাত্মক।
+
+**ক্যাটায়ন / অ্যানায়ন**: ক্যাথোডের দিকে আকৃষ্ট আয়ন (ধনাত্মক আয়ন) / অ্যানোডের দিকে আকৃষ্ট আয়ন (ঋণাত্মক আয়ন)।
+
+**তড়িৎ রাসায়নিক সারি (Electrochemical series)**: তড়িৎদ্বারে চার্জমুক্ত হওয়ার প্রবণতা অনুযায়ী ক্যাটায়ন (বা অ্যানায়ন) সাজানোর ক্রম।
+## why
+ব্রাইন থেকে Na⁺-এর বদলে H⁺ কেন চার্জমুক্ত হয়? সোডিয়াম খুব সক্রিয় ধাতু: এর বাইরের ইলেকট্রনটি সে আলগাভাবে ধরে রাখে আর Na⁺ হয়েই থাকতে "চায়"। হাইড্রোজেন ইলেকট্রনকে বেশি শক্তভাবে ধরে, তাই H⁺ Na⁺-এর চেয়ে অনেক সহজে ইলেকট্রন নেয়। ক্যাথোডে ইলেকট্রন যায় সেই আয়নের কাছে, যে সবচেয়ে সহজে তা গ্রহণ করে। এজন্যই সোডিয়াম, অ্যালুমিনিয়ামের মতো খুব সক্রিয় ধাতু শুধু তাদের **গলিত** যৌগের তড়িৎ বিশ্লেষণ করে পাওয়া যায়, যেখানে পানি (তাই H⁺) নেই।
+## terms
+তড়িৎ বিশ্লেষণ | বিদ্যুৎ দিয়ে তড়িৎ বিশ্লেষ্যের বিয়োজন
+ক্যাটায়ন / অ্যানায়ন | ধনাত্মক আয়ন (ক্যাথোডে যায়) / ঋণাত্মক আয়ন (অ্যানোডে যায়)
+চার্জমুক্ত হওয়া | তড়িৎদ্বারে আয়ন ইলেকট্রন নিয়ে বা ছেড়ে নিরপেক্ষ পরমাণু বা অণুতে পরিণত হওয়া
+তড়িৎ রাসায়নিক সারি | চার্জমুক্ত হওয়ার সহজতা অনুযায়ী আয়নের ক্রম
+ব্রাইন | গাঢ় সোডিয়াম ক্লোরাইড দ্রবণ
+অ্যামালগাম | পারদের সাথে কোনো ধাতুর মিশ্রণ (সংকর)
+নিষ্ক্রিয় তড়িৎদ্বার | যে তড়িৎদ্বার নিজে বিক্রিয়া করে না (প্লাটিনাম, গ্রাফাইট)
+## formula
+$$ ক্যাথোড (বিজারণ): Mⁿ⁺ + ne⁻ → M
+$$ অ্যানোড (জারণ): 2Cl⁻ → Cl₂ + 2e⁻;  4OH⁻ → O₂ + 2H₂O + 4e⁻
+$$ পানি: 2H₂O → 2H₂ + O₂  (আয়তন H₂ : O₂ = ২ : ১)
+! প্রতিটি অর্ধবিক্রিয়ায় পরমাণু আর আধান দুটোই সমান হতে হবে (ইলেকট্রন গুনে দেখো)।
+! অ্যানোডে হারানো ইলেকট্রন = ক্যাথোডে গ্রহণ করা ইলেকট্রন।
+## visual
+একটি তড়িৎ বিশ্লেষ্য বেছে নিয়ে বিদ্যুৎ চালু করো। দেখো ক্যাটায়ন ক্যাথোডের দিকে আর অ্যানায়ন অ্যানোডের দিকে ভেসে যাচ্ছে, কোন আয়ন চার্জমুক্ত হচ্ছে, আর পড়ো অর্ধবিক্রিয়া ও উৎপাদ।
+## real
+বাংলাদেশের ক্লোর-অ্যালকালি কারখানাগুলো ব্রাইনের তড়িৎ বিশ্লেষণ করে কস্টিক সোডা (NaOH) আর ক্লোরিন তৈরি করে: NaOH যায় সাবান, বস্ত্র আর কাগজ শিল্পে, ক্লোরিন ও ব্লিচিং পাউডার পানি জীবাণুমুক্ত করতে। নবায়নযোগ্য বিদ্যুৎ দিয়ে পানির তড়িৎ বিশ্লেষণ "সবুজ হাইড্রোজেন" জ্বালানি তৈরির একটি উপায়।
+## example
+প্রশ্ন: গলিত NaCl-এর তড়িৎ বিশ্লেষণ করা হলো। প্রতিটি তড়িৎদ্বারের অর্ধবিক্রিয়া লেখো এবং উৎপাদের নাম বলো।
+সমাধান: অ্যানোড (ধনাত্মক): Cl⁻ আয়ন ইলেকট্রন হারায়: 2Cl⁻ → Cl₂ + 2e⁻ (জারণ)। ক্যাথোড (ঋণাত্মক): Na⁺ আয়ন ইলেকট্রন নেয়: Na⁺ + e⁻ → Na (বিজারণ); ২টি e⁻-এর জন্য 2Na⁺ + 2e⁻ → 2Na।
+> আধান যাচাই: অ্যানোডে −২ → ০ − ২; ক্যাথোডে +২ − ২ → ০। হারানো ইলেকট্রন = গ্রহণ করা ইলেকট্রন।
+উত্তর: অ্যানোডে ক্লোরিন গ্যাস, ক্যাথোডে সোডিয়াম ধাতু; সামগ্রিক 2NaCl → 2Na + Cl₂।
+## example
+প্রশ্ন: ০.১ M NaCl দ্রবণে [Cl⁻] = ০.১ mol/L আর [OH⁻] = ১০^{-৭} mol/L। Cl⁻ আয়ন কত গুণ বেশি? অ্যানোডে কোন গ্যাস আশা করা যায়?
+দেওয়া আছে: [Cl⁻] = ১০^{-১} M; [OH⁻] = ১০^{-৭} M
+সূত্র: অনুপাত = [Cl⁻] ÷ [OH⁻]
+হিসাব: ১০^{-১} ÷ ১০^{-৭} = ১০^{৬}
+উত্তর: Cl⁻ আয়ন OH⁻ আয়নের চেয়ে দশ লক্ষ (১০^{৬}) গুণ বেশি, তাই OH⁻ সারিতে নিচে থাকলেও বইয়ের ব্যাখ্যা অনুযায়ী অ্যানোডে ক্লোরিন চার্জমুক্ত হয়।
+## example
+প্রশ্ন: ৩৬ g পানির সম্পূর্ণ তড়িৎ বিশ্লেষণ করা হলো। কত গ্রাম হাইড্রোজেন ও অক্সিজেন তৈরি হবে, আর প্রমাণ অবস্থায় এদের আয়তন কত? (H = ১, O = ১৬)
+দেওয়া আছে: 2H₂O → 2H₂ + O₂; M(H₂O) = ১৮ g/mol
+সূত্র: n = ভর ÷ M; V(প্রমাণ অবস্থা) = n × ২২.৪ L
+হিসাব: n(H₂O) = ৩৬ ÷ ১৮ = ২ mol → ২ mol H₂ (২ × ২ = ৪ g) ও ১ mol O₂ (৩২ g); V(H₂) = ২ × ২২.৪ = ৪৪.৮ L; V(O₂) = ২২.৪ L
+> ভর যাচাই: ৪ + ৩২ = ৩৬ g, তাই ভর সংরক্ষিত।
+উত্তর: ক্যাথোডে ৪ g H₂ (৪৪.৮ L) আর অ্যানোডে ৩২ g O₂ (২২.৪ L); হাইড্রোজেনের আয়তন অক্সিজেনের দ্বিগুণ।
+## mistakes
+x ব্রাইনের তড়িৎ বিশ্লেষণে ক্যাথোডে সোডিয়াম ধাতু তৈরি হয়।
+v প্লাটিনাম বা গ্রাফাইট তড়িৎদ্বারে ক্যাথোডে হাইড্রোজেন তৈরি হয়, কারণ H⁺ Na⁺-এর চেয়ে সহজে চার্জমুক্ত হয়। সোডিয়াম পাওয়া যায় শুধু গলিত NaCl থেকে (বা পারদ ক্যাথোডে অ্যামালগাম হিসেবে)।
+x পানিতে সালফিউরিক এসিড দেওয়া হয়, কারণ এসিডই ভেঙে হাইড্রোজেন ও অক্সিজেন হয়।
+v এসিড শুধু বিদ্যুৎ বহনের জন্য আয়ন জোগায়; বিয়োজিত হয় পানি।
+x ক্যাটায়ন অ্যানোডে যায়।
+v ক্যাটায়ন (ধনাত্মক) যায় ক্যাথোডে (তড়িৎ বিশ্লেষ্য কোষে ঋণাত্মক); অ্যানায়ন যায় অ্যানোডে।
+## remember
+- তড়িৎ বিশ্লেষ্য কোষ: অ্যানোড +, ক্যাথোড −।
+- গলিত NaCl → ক্যাথোডে Na, অ্যানোডে Cl₂।
+- ব্রাইন → ক্যাথোডে H₂, অ্যানোডে Cl₂, দ্রবণে NaOH।
+- অম্লীয় পানি → ক্যাথোডে H₂, অ্যানোডে O₂, আয়তনের অনুপাত ২ : ১।
+- চার্জমুক্ত হওয়া নির্ভর করে: তড়িৎ রাসায়নিক সারি, ঘনমাত্রা, তড়িৎদ্বারের প্রকৃতি।
+## think
+লবণ দ্রবণে প্রচুর Na⁺ আয়ন থাকলেও গ্রাফাইট তড়িৎদ্বার দিয়ে তড়িৎ বিশ্লেষণ করে সোডিয়াম ধাতু পাওয়া যায় না কেন?
+## quiz
+? প্লাটিনাম তড়িৎদ্বার দিয়ে গাঢ় NaCl দ্রবণের তড়িৎ বিশ্লেষণে উৎপন্ন হয়:
+- শুধু হাইড্রোজেন গ্যাস
+- শুধু ক্লোরিন গ্যাস
+- সোডিয়াম ধাতু ও ক্লোরিন
+* হাইড্রোজেন, ক্লোরিন ও সোডিয়াম হাইড্রোক্সাইড দ্রবণ
+= ক্যাথোডে H₂, অ্যানোডে Cl₂, আর Na⁺ ও OH⁻ মিলে NaOH থেকে যায়।
+? অম্লীয় পানির তড়িৎ বিশ্লেষণে ক্যাথোডে উৎপন্ন গ্যাস:
+* হাইড্রোজেন
+- অক্সিজেন
+- ক্লোরিন
+- সালফার ডাই-অক্সাইড
+= ক্যাথোডে 4H⁺ + 4e⁻ → 2H₂।
+? তড়িৎ বিশ্লেষণের আগে পানিতে কয়েক ফোঁটা সালফিউরিক এসিড দেওয়া হয় কেন?
+- এসিডকে বিয়োজিত করতে
+* পানির বিদ্যুৎ পরিবাহিতা বাড়াতে
+- ক্লোরিন তৈরি করতে
+- পানি ঠান্ডা করতে
+= বিশুদ্ধ পানিতে আয়ন খুব কম; এসিড বিদ্যুৎ বহনের জন্য আয়ন জোগায়।
+? Zn²⁺ ও Cu²⁺ আছে এমন দ্রবণ থেকে ক্যাথোডে কোন আয়ন আগে চার্জমুক্ত হয়?
+- Zn²⁺
+* Cu²⁺
+- দুটো একসাথে
+- কোনোটিই নয়
+= তড়িৎ রাসায়নিক সারিতে Cu²⁺ নিচে, তাই এটি সহজে ইলেকট্রন নেয়।
+? অম্লীয় পানির তড়িৎ বিশ্লেষণে অ্যানোডের সঠিক অর্ধবিক্রিয়া কোনটি?
+- 4H⁺ + 4e⁻ → 2H₂
+* 4OH⁻ → O₂ + 2H₂O + 4e⁻
+- O₂ + 4e⁻ → 2O²⁻
+- 2Cl⁻ → Cl₂ + 2e⁻
+= অ্যানোডে OH⁻ ইলেকট্রন হারায় (জারণ) আর অক্সিজেন তৈরি হয়; আধান: −৪ = ০ + ০ − ৪।
+
+@@ 8.3.3
+@visual k8plate
+@related 8.3.2 10.2 10.4 8.3.1
+== en
+## what
+Electrolysis is used in industry to **extract reactive metals** (sodium, aluminium, magnesium), to **purify metals** such as copper, to **electroplate** one metal with another for shine and protection, and to make chemicals such as chlorine and sodium hydroxide.
+## simple
+Factories all over the world depend on electrolytic cells. Here are the main uses.
+
+**1. Extraction of reactive metals**
+Alkali metals (Na, K), alkaline earth metals (Mg, Ca) and aluminium are so reactive that carbon cannot pull them out of their ores. They are obtained by electrolysing their **molten** compounds; the metal always appears at the **cathode**. You have already seen molten NaCl give sodium at the cathode and chlorine at the anode.
+
+**Aluminium from alumina.** Pure aluminium oxide (alumina, Al₂O₃) is purified from bauxite ore. Molten alumina contains Al³⁺ and O²⁻ ions:
+- Al₂O₃ → 2Al³⁺ + 3O²⁻
+- **Cathode (reduction):** 4Al³⁺ + 12e⁻ → 4Al
+- **Anode (oxidation):** 6O²⁻ → 3O₂ + 12e⁻
+- Overall: 2Al₂O₃ → 4Al + 3O₂
+(Written for one Al₂O₃, the anode half-equation is 3O²⁻ → 3/2 O₂ + 6e⁻; make sure the oxygen atoms balance.)
+Alumina melts at over 2000 °C, so in practice it is dissolved in molten **cryolite**, which lets the cell run at about 950 °C. The hot oxygen formed at the carbon anodes slowly burns them away as CO₂, so the anodes must be replaced regularly. The process uses enormous amounts of electricity, which is why recycling aluminium cans saves so much energy.
+
+**2. Purification (refining) of metals**
+Metals obtained from ores contain impurities. Copper, zinc, lead and others are refined by electrolysis:
+- the **impure** metal is made the **anode** (connected to the positive terminal);
+- a thin sheet of **pure** metal is the **cathode** (negative terminal);
+- the electrolyte is a solution of a salt of the same metal (for copper, CuSO₄ with a little H₂SO₄).
+At the anode copper atoms dissolve: Cu → Cu²⁺ + 2e⁻. At the cathode the same ions are deposited as pure copper: Cu²⁺ + 2e⁻ → Cu. So the **impure anode wastes away** and the **pure cathode grows thicker**. Impurities either stay dissolved or fall to the bottom as "anode mud", which can contain valuable silver and gold.
+
+**3. Electroplating**
+**Electroplating** means coating one metal with a thin layer of another by electrolysis. It is done to make objects **shine** and to **protect** them from corrosion. Iron rusts in contact with air and moisture; a coat of a less reactive metal such as nickel, chromium or silver keeps air and water away from the iron.
+
+**How to silver-plate an iron spoon:**
+- electrolyte: silver nitrate (AgNO₃) solution, which contains Ag⁺ ions: AgNO₃ → Ag⁺ + NO₃⁻
+- **cathode**: the spoon (connected to the negative terminal): the object to be plated is always the cathode
+- **anode**: a piece of pure silver foil (positive terminal)
+- At the anode: Ag → Ag⁺ + e⁻ (silver dissolves into the solution)
+- At the cathode: Ag⁺ + e⁻ → Ag (silver deposits on the spoon)
+For every silver atom that leaves the anode, one silver atom lands on the spoon, so the concentration of the solution stays the same. For a smooth, even coat the object must be clean and the current small.
+
+The same method with nickel sulfate and a nickel anode gives nickel plating; chromium plating makes bicycle handlebars and taps bright.
+
+**4. Commercial products of electrolysis**
+- **Metals**: sodium, aluminium, magnesium, calcium and zinc are produced, and copper, gold and silver are purified, by electrolysis.
+- **Copper**: silver and copper have the lowest electrical resistance; silver is too expensive, so electrolytically refined copper is used for electric wires all over the world.
+- **Aluminium**: light and strong; used for cooking pots, window frames and aircraft bodies.
+- **Zinc and magnesium**: used to protect iron and steel from rusting.
+- **Chromium, nickel, gold, silver**: plated onto cheaper metals to make ornaments, watches and fittings attractive.
+- **Chlorine** from the electrolysis of brine (or sea water) is used to kill germs in drinking water; **sodium hydroxide** is a raw material for soap, paper and textiles.
+## analogy
+Electroplating is like a relay of porters at a ghat. At the silver anode, porters (Ag⁺ ions) pick up silver atoms and wade into the "river" of solution; at the spoon they put their loads down. The river never runs short of porters, but the pile at the anode shrinks while a neat new layer builds on the spoon.
+## definition
+**Electroplating (তড়িৎ প্রলেপন)**: the process of depositing a thin layer of one metal on the surface of another metal by electrolysis. The object to be plated is the cathode, the plating metal is the anode, and the electrolyte contains ions of the plating metal.
+
+**Electrolytic refining**: purification of a metal by electrolysis using the impure metal as anode and a pure strip of the same metal as cathode in a solution of its salt.
+## why
+Why must the object to be plated be the cathode? Plating means turning metal **ions** in the solution into metal **atoms** on the object: Mⁿ⁺ + ne⁻ → M. That is a gain of electrons, a reduction, and reduction always takes place at the cathode, the electrode that supplies electrons. If you connected the spoon to the positive terminal by mistake, it would become the anode and its own iron would start dissolving instead.
+## terms
+Electroplating | Coating a metal with another metal by electrolysis
+Electrolytic refining | Purifying a metal: impure anode → pure cathode
+Alumina | Aluminium oxide, Al₂O₃, the raw material for aluminium
+Cryolite | Mineral added to lower the melting temperature in aluminium extraction
+Anode mud | Insoluble impurities (sometimes Ag, Au) collected below the anode during refining
+## formula
+$$ Silver plating: anode Ag → Ag⁺ + e⁻;  cathode Ag⁺ + e⁻ → Ag
+$$ Copper refining: anode Cu → Cu²⁺ + 2e⁻;  cathode Cu²⁺ + 2e⁻ → Cu
+$$ Aluminium: 4Al³⁺ + 12e⁻ → 4Al;  6O²⁻ → 3O₂ + 12e⁻
+! The object to be plated or the pure metal is always the cathode.
+! Metal that dissolves (plating metal, impure metal) is the anode.
+## visual
+Choose silver plating, copper refining or aluminium extraction and switch on the current. Watch which electrode shrinks, which grows, and how the ions carry the metal across.
+## real
+Imitation jewellery sold in markets such as Chandni Chowk in Dhaka is often brass or copper electroplated with gold or silver. Bicycle rims, taps and car bumpers are chromium or nickel plated. Aluminium pots and pans in almost every Bangladeshi kitchen are made from metal extracted by electrolysis.
+## example
+Q: How much aluminium can be obtained from 204 g of pure alumina? (Al = 27, O = 16)
+Given: 2Al₂O₃ → 4Al + 3O₂; M(Al₂O₃) = 2 × 27 + 3 × 16 = 102 g/mol
+Formula: n = mass ÷ M; use the mole ratio Al₂O₃ : Al = 2 : 4
+Calculation: n(Al₂O₃) = 204 ÷ 102 = 2 mol → 4 mol Al = 4 × 27 = 108 g; O₂ = 3 mol = 96 g
+> Check: 108 + 96 = 204 g, so mass is conserved.
+Answer: 108 g of aluminium (and 96 g of oxygen)
+## example
+Q: You want to coat a copper key with silver. Name the anode, cathode and electrolyte, and write the half-equations.
+Solution: Cathode: the copper key (negative terminal). Anode: a pure silver plate (positive terminal). Electrolyte: silver nitrate solution.
+Solution: Anode: Ag → Ag⁺ + e⁻ (oxidation). Cathode: Ag⁺ + e⁻ → Ag (reduction).
+> Charge check: 0 → +1 − 1 and +1 − 1 → 0; one electron in each.
+Answer: Key = cathode, silver = anode, AgNO₃(aq) = electrolyte; silver moves from the anode to the key.
+## example
+Q: In refining copper, the impure copper anode loses 50 g, and 2 g of this is impurities that fall as anode mud. Assuming all the dissolved copper deposits, by how much does the pure cathode grow?
+Given: loss of anode = 50 g; impurities = 2 g
+Calculation: copper that dissolved = 50 − 2 = 48 g; each Cu²⁺ ion that leaves the anode is deposited at the cathode, so the cathode gains 48 g
+Answer: The cathode becomes about 48 g heavier.
+## mistakes
+x In electroplating the object to be plated is connected to the positive terminal.
+v The object to be plated is the cathode, connected to the negative terminal.
+x In copper refining the pure copper is the anode.
+v The impure copper is the anode (it dissolves); pure copper is the cathode (it grows).
+x Aluminium can be extracted by electrolysing aluminium salt solution.
+v From a solution, hydrogen would be released instead; aluminium is extracted from molten alumina dissolved in cryolite.
+## remember
+- Reactive metals (Na, Mg, Al) are extracted by electrolysis of molten compounds; metal forms at the cathode.
+- Aluminium: 2Al₂O₃ → 4Al + 3O₂ (in molten cryolite).
+- Refining: impure anode dissolves, pure cathode grows.
+- Electroplating: object = cathode, plating metal = anode, electrolyte contains its ions.
+- Products: metals, copper wire, Cl₂ for water treatment, NaOH for industry.
+## think
+A student tries to plate an iron nail with copper but connects the nail to the positive terminal. What will she observe, and why?
+## quiz
+? What is the process of coating one metal with another by electrolysis called?
+- Vulcanising
+- Metal purification
+- Galvanising
+* Electroplating
+= Depositing a metal layer by electrolysis is electroplating.
+? In silver plating of a spoon, the spoon is used as:
+* The cathode
+- The anode
+- The electrolyte
+- The salt bridge
+= The object to be plated is the cathode, where Ag⁺ + e⁻ → Ag occurs.
+? In the electrolytic refining of copper, what happens to the impure copper anode?
+- It grows thicker
+* It gradually dissolves
+- It gives off hydrogen
+- Nothing
+= Cu → Cu²⁺ + 2e⁻: the anode dissolves and pure copper deposits on the cathode.
+? Why is iron plated with nickel or chromium?
+- To make it heavier
+- To make it magnetic
+* To prevent rusting and make it shine
+- To make it a better conductor
+= The less reactive coating keeps air and moisture away and looks bright.
+== bn
+## what
+শিল্পকারখানায় তড়িৎ বিশ্লেষণ ব্যবহার করা হয় **সক্রিয় ধাতু নিষ্কাশনে** (সোডিয়াম, অ্যালুমিনিয়াম, ম্যাগনেসিয়াম), কপারের মতো **ধাতু বিশুদ্ধকরণে**, উজ্জ্বলতা ও সুরক্ষার জন্য এক ধাতুর ওপর আরেক ধাতুর **প্রলেপ দিতে** (তড়িৎ প্রলেপন), আর ক্লোরিন ও সোডিয়াম হাইড্রোক্সাইডের মতো রাসায়নিক তৈরিতে।
+## simple
+সারা পৃথিবীর কলকারখানা তড়িৎ বিশ্লেষ্য কোষের ওপর নির্ভরশীল। এর প্রধান ব্যবহারগুলো দেখো।
+
+**১. সক্রিয় ধাতু নিষ্কাশন**
+ক্ষার ধাতু (Na, K), মৃৎক্ষার ধাতু (Mg, Ca) আর অ্যালুমিনিয়াম এত সক্রিয় যে কার্বন দিয়ে এদের আকরিক থেকে বের করা যায় না। এদের **গলিত** যৌগের তড়িৎ বিশ্লেষণ করে এদের পাওয়া যায়; ধাতু সবসময় **ক্যাথোডে** জমা হয়। তুমি আগেই দেখেছ গলিত NaCl থেকে ক্যাথোডে সোডিয়াম আর অ্যানোডে ক্লোরিন পাওয়া যায়।
+
+**অ্যালুমিনা থেকে অ্যালুমিনিয়াম।** বক্সাইট আকরিক থেকে বিশুদ্ধ অ্যালুমিনিয়াম অক্সাইড (অ্যালুমিনা, Al₂O₃) তৈরি করা হয়। গলিত অ্যালুমিনায় Al³⁺ ও O²⁻ আয়ন থাকে:
+- Al₂O₃ → 2Al³⁺ + 3O²⁻
+- **ক্যাথোড (বিজারণ):** 4Al³⁺ + 12e⁻ → 4Al
+- **অ্যানোড (জারণ):** 6O²⁻ → 3O₂ + 12e⁻
+- সামগ্রিক: 2Al₂O₃ → 4Al + 3O₂
+(একটি Al₂O₃-এর জন্য লিখলে অ্যানোডের অর্ধবিক্রিয়া 3O²⁻ → 3/2 O₂ + 6e⁻; অক্সিজেন পরমাণু সমান আছে কি না খেয়াল রেখো।)
+অ্যালুমিনা গলে ২০০০ °C-এরও বেশি তাপমাত্রায়, তাই বাস্তবে একে গলিত **ক্রায়োলাইটে** দ্রবীভূত করা হয়, ফলে কোষটি প্রায় ৯৫০ °C-এ চালানো যায়। কার্বন অ্যানোডে তৈরি গরম অক্সিজেন অ্যানোডগুলোকে ধীরে ধীরে CO₂ হিসেবে পুড়িয়ে ফেলে, তাই নিয়মিত অ্যানোড বদলাতে হয়। এ প্রক্রিয়ায় বিপুল বিদ্যুৎ লাগে, এজন্যই অ্যালুমিনিয়ামের ক্যান পুনর্ব্যবহার করলে এত শক্তি বাঁচে।
+
+**২. ধাতু বিশুদ্ধকরণ (পরিশোধন)**
+আকরিক থেকে পাওয়া ধাতুতে ভেজাল মিশে থাকে। কপার, জিংক, লেড প্রভৃতি তড়িৎ বিশ্লেষণে বিশুদ্ধ করা হয়:
+- **ভেজাল মিশ্রিত** ধাতুকে করা হয় **অ্যানোড** (ধনাত্মক প্রান্তে যুক্ত);
+- একই ধাতুর একটি পাতলা **বিশুদ্ধ** পাত হয় **ক্যাথোড** (ঋণাত্মক প্রান্তে);
+- তড়িৎ বিশ্লেষ্য হলো একই ধাতুর কোনো লবণের দ্রবণ (কপারের জন্য সামান্য H₂SO₄-সহ CuSO₄)।
+অ্যানোডে কপার পরমাণু দ্রবীভূত হয়: Cu → Cu²⁺ + 2e⁻। ক্যাথোডে একই আয়ন বিশুদ্ধ কপার হিসেবে জমা হয়: Cu²⁺ + 2e⁻ → Cu। ফলে **অবিশুদ্ধ অ্যানোড ক্ষয় হয়** আর **বিশুদ্ধ ক্যাথোড মোটা হয়**। ভেজালগুলো হয় দ্রবণে থেকে যায়, নয়তো তলায় "অ্যানোড মাড" হিসেবে জমে, যাতে মূল্যবান সিলভার ও গোল্ডও থাকতে পারে।
+
+**৩. তড়িৎ প্রলেপন**
+তড়িৎ বিশ্লেষণের মাধ্যমে এক ধাতুর ওপর আরেক ধাতুর পাতলা স্তর দেওয়াকে বলে **তড়িৎ প্রলেপন**। জিনিসকে **উজ্জ্বল** করতে আর ক্ষয় থেকে **রক্ষা** করতে এটা করা হয়। বাতাস ও জলীয় বাষ্পের সংস্পর্শে লোহায় মরিচা ধরে; নিকেল, ক্রোমিয়াম বা সিলভারের মতো কম সক্রিয় ধাতুর প্রলেপ লোহাকে বাতাস ও পানি থেকে আড়াল করে রাখে।
+
+**লোহার চামচে সিলভারের প্রলেপ দেওয়ার উপায়:**
+- তড়িৎ বিশ্লেষ্য: সিলভার নাইট্রেট (AgNO₃) দ্রবণ, এতে Ag⁺ আয়ন থাকে: AgNO₃ → Ag⁺ + NO₃⁻
+- **ক্যাথোড**: চামচটি (ঋণাত্মক প্রান্তে যুক্ত): যে জিনিসে প্রলেপ দেওয়া হবে সেটি সবসময় ক্যাথোড
+- **অ্যানোড**: বিশুদ্ধ সিলভারের পাত (ধনাত্মক প্রান্তে)
+- অ্যানোডে: Ag → Ag⁺ + e⁻ (সিলভার দ্রবণে চলে যায়)
+- ক্যাথোডে: Ag⁺ + e⁻ → Ag (চামচে সিলভার জমা হয়)
+অ্যানোড থেকে প্রতিটি সিলভার পরমাণু চলে গেলে একটি করে সিলভার পরমাণু চামচে বসে, তাই দ্রবণের ঘনমাত্রা একই থাকে। মসৃণ, সমান প্রলেপের জন্য জিনিসটি পরিষ্কার আর বিদ্যুৎপ্রবাহ কম রাখতে হয়।
+
+একই পদ্ধতিতে নিকেল সালফেট দ্রবণ ও নিকেল অ্যানোড দিয়ে নিকেলের প্রলেপ দেওয়া যায়; ক্রোমিয়ামের প্রলেপ সাইকেলের হ্যান্ডেল আর কলকে ঝকঝকে করে।
+
+**৪. তড়িৎ বিশ্লেষণে তৈরি বাণিজ্যিক পণ্য**
+- **ধাতু**: সোডিয়াম, অ্যালুমিনিয়াম, ম্যাগনেসিয়াম, ক্যালসিয়াম ও জিংক উৎপাদন, আর কপার, গোল্ড ও সিলভার বিশুদ্ধকরণ তড়িৎ বিশ্লেষণে হয়।
+- **কপার**: সিলভার ও কপারের রোধ সবচেয়ে কম; সিলভার খুব দামি, তাই সারা পৃথিবীতে বিদ্যুতের তারে তড়িৎ বিশ্লেষণে বিশুদ্ধ করা কপার ব্যবহৃত হয়।
+- **অ্যালুমিনিয়াম**: হালকা ও মজবুত; রান্নার হাঁড়ি-পাতিল, জানালার ফ্রেম আর উড়োজাহাজের কাঠামোয় ব্যবহৃত।
+- **জিংক ও ম্যাগনেসিয়াম**: লোহা ও ইস্পাতকে মরিচা থেকে রক্ষায় ব্যবহৃত।
+- **ক্রোমিয়াম, নিকেল, গোল্ড, সিলভার**: সস্তা ধাতুর ওপর প্রলেপ দিয়ে গয়না, ঘড়ি ও ফিটিংস আকর্ষণীয় করা হয়।
+- ব্রাইন (বা সমুদ্রের পানি) তড়িৎ বিশ্লেষণে পাওয়া **ক্লোরিন** খাবার পানির জীবাণু মারতে ব্যবহৃত হয়; **সোডিয়াম হাইড্রোক্সাইড** সাবান, কাগজ ও বস্ত্রশিল্পের কাঁচামাল।
+## analogy
+তড়িৎ প্রলেপন যেন ঘাটে কুলিদের রিলে। সিলভার অ্যানোডে কুলিরা (Ag⁺ আয়ন) সিলভার পরমাণু তুলে দ্রবণের "নদীতে" নামে; চামচের কাছে এসে বোঝা নামিয়ে রাখে। নদীতে কুলির কখনো অভাব হয় না, কিন্তু অ্যানোডের স্তূপ ছোট হতে থাকে আর চামচের ওপর নতুন একটা পরিপাটি স্তর গড়ে ওঠে।
+## definition
+**তড়িৎ প্রলেপন (Electroplating)**: তড়িৎ বিশ্লেষণের মাধ্যমে কোনো ধাতুর পৃষ্ঠে অন্য ধাতুর পাতলা স্তর জমা করার প্রক্রিয়া। যে জিনিসে প্রলেপ দেওয়া হবে তা ক্যাথোড, প্রলেপের ধাতু অ্যানোড, আর তড়িৎ বিশ্লেষ্যে প্রলেপের ধাতুর আয়ন থাকে।
+
+**তড়িৎ বিশ্লেষণীয় পরিশোধন**: অবিশুদ্ধ ধাতুকে অ্যানোড আর একই ধাতুর বিশুদ্ধ পাতকে ক্যাথোড করে সেই ধাতুর লবণের দ্রবণে তড়িৎ বিশ্লেষণের মাধ্যমে ধাতু বিশুদ্ধকরণ।
+## why
+যে জিনিসে প্রলেপ দেওয়া হবে তাকে কেন ক্যাথোড হতে হবে? প্রলেপ মানে দ্রবণের ধাতব **আয়নকে** জিনিসের ওপর ধাতব **পরমাণুতে** পরিণত করা: Mⁿ⁺ + ne⁻ → M। এটা ইলেকট্রন গ্রহণ, মানে বিজারণ, আর বিজারণ সবসময় ঘটে ক্যাথোডে, যে তড়িৎদ্বার ইলেকট্রন জোগায়। ভুল করে চামচটা ধনাত্মক প্রান্তে লাগালে এটা অ্যানোড হয়ে যাবে আর উল্টো এর নিজের লোহাই দ্রবীভূত হতে শুরু করবে।
+## terms
+তড়িৎ প্রলেপন | তড়িৎ বিশ্লেষণে এক ধাতুর ওপর আরেক ধাতুর আস্তরণ
+তড়িৎ বিশ্লেষণীয় পরিশোধন | ধাতু বিশুদ্ধকরণ: অবিশুদ্ধ অ্যানোড → বিশুদ্ধ ক্যাথোড
+অ্যালুমিনা | অ্যালুমিনিয়াম অক্সাইড, Al₂O₃, অ্যালুমিনিয়ামের কাঁচামাল
+ক্রায়োলাইট | অ্যালুমিনিয়াম নিষ্কাশনে গলনের তাপমাত্রা কমাতে যোগ করা খনিজ
+অ্যানোড মাড | পরিশোধনের সময় অ্যানোডের নিচে জমা অদ্রবণীয় ভেজাল (কখনো Ag, Au)
+## formula
+$$ সিলভার প্রলেপন: অ্যানোড Ag → Ag⁺ + e⁻;  ক্যাথোড Ag⁺ + e⁻ → Ag
+$$ কপার পরিশোধন: অ্যানোড Cu → Cu²⁺ + 2e⁻;  ক্যাথোড Cu²⁺ + 2e⁻ → Cu
+$$ অ্যালুমিনিয়াম: 4Al³⁺ + 12e⁻ → 4Al;  6O²⁻ → 3O₂ + 12e⁻
+! যে জিনিসে প্রলেপ দেওয়া হবে বা বিশুদ্ধ ধাতু, সেটি সবসময় ক্যাথোড।
+! যে ধাতু দ্রবীভূত হয় (প্রলেপের ধাতু, অবিশুদ্ধ ধাতু), সেটি অ্যানোড।
+## visual
+সিলভার প্রলেপন, কপার পরিশোধন বা অ্যালুমিনিয়াম নিষ্কাশন বেছে নিয়ে বিদ্যুৎ চালু করো। দেখো কোন তড়িৎদ্বার ক্ষয় হয়, কোনটি বাড়ে, আর আয়নগুলো কীভাবে ধাতু বয়ে নিয়ে যায়।
+## real
+ঢাকার চাঁদনী চকের মতো বাজারে বিক্রি হওয়া ইমিটেশন গয়না প্রায়ই পিতল বা কপারের ওপর গোল্ড বা সিলভারের তড়িৎ প্রলেপ দেওয়া। সাইকেলের রিম, পানির কল আর গাড়ির বাম্পারে ক্রোমিয়াম বা নিকেলের প্রলেপ থাকে। প্রায় প্রতিটি বাংলাদেশি রান্নাঘরের অ্যালুমিনিয়ামের হাঁড়ি-পাতিল তড়িৎ বিশ্লেষণে নিষ্কাশিত ধাতু দিয়ে তৈরি।
+## example
+প্রশ্ন: ২০৪ g বিশুদ্ধ অ্যালুমিনা থেকে কত অ্যালুমিনিয়াম পাওয়া যাবে? (Al = ২৭, O = ১৬)
+দেওয়া আছে: 2Al₂O₃ → 4Al + 3O₂; M(Al₂O₃) = ২ × ২৭ + ৩ × ১৬ = ১০২ g/mol
+সূত্র: n = ভর ÷ M; মোল অনুপাত Al₂O₃ : Al = ২ : ৪
+হিসাব: n(Al₂O₃) = ২০৪ ÷ ১০২ = ২ mol → ৪ mol Al = ৪ × ২৭ = ১০৮ g; O₂ = ৩ mol = ৯৬ g
+> যাচাই: ১০৮ + ৯৬ = ২০৪ g, তাই ভর সংরক্ষিত।
+উত্তর: ১০৮ g অ্যালুমিনিয়াম (আর ৯৬ g অক্সিজেন)
+## example
+প্রশ্ন: তুমি একটি কপারের চাবিতে সিলভারের প্রলেপ দিতে চাও। অ্যানোড, ক্যাথোড ও তড়িৎ বিশ্লেষ্যের নাম বলো এবং অর্ধবিক্রিয়া লেখো।
+সমাধান: ক্যাথোড: কপারের চাবি (ঋণাত্মক প্রান্ত)। অ্যানোড: বিশুদ্ধ সিলভারের পাত (ধনাত্মক প্রান্ত)। তড়িৎ বিশ্লেষ্য: সিলভার নাইট্রেট দ্রবণ।
+সমাধান: অ্যানোড: Ag → Ag⁺ + e⁻ (জারণ)। ক্যাথোড: Ag⁺ + e⁻ → Ag (বিজারণ)।
+> আধান যাচাই: ০ → +১ − ১ এবং +১ − ১ → ০; প্রতিটিতে একটি করে ইলেকট্রন।
+উত্তর: চাবি = ক্যাথোড, সিলভার = অ্যানোড, AgNO₃(aq) = তড়িৎ বিশ্লেষ্য; সিলভার অ্যানোড থেকে চাবিতে যায়।
+## example
+প্রশ্ন: কপার পরিশোধনে অবিশুদ্ধ কপার অ্যানোডের ভর ৫০ g কমল, যার ২ g ভেজাল অ্যানোড মাড হিসেবে পড়ে গেল। দ্রবীভূত সব কপার জমা হলে বিশুদ্ধ ক্যাথোডের ভর কত বাড়বে?
+দেওয়া আছে: অ্যানোডের ভর হ্রাস = ৫০ g; ভেজাল = ২ g
+হিসাব: দ্রবীভূত কপার = ৫০ − ২ = ৪৮ g; অ্যানোড ছেড়ে যাওয়া প্রতিটি Cu²⁺ আয়ন ক্যাথোডে জমা হয়, তাই ক্যাথোডের ভর বাড়ে ৪৮ g
+উত্তর: ক্যাথোড প্রায় ৪৮ g ভারী হবে।
+## mistakes
+x তড়িৎ প্রলেপনে যে জিনিসে প্রলেপ দেওয়া হবে তা ধনাত্মক প্রান্তে যুক্ত করা হয়।
+v যে জিনিসে প্রলেপ দেওয়া হবে তা ক্যাথোড, ঋণাত্মক প্রান্তে যুক্ত।
+x কপার পরিশোধনে বিশুদ্ধ কপার অ্যানোড।
+v অবিশুদ্ধ কপার অ্যানোড (দ্রবীভূত হয়); বিশুদ্ধ কপার ক্যাথোড (বড় হয়)।
+x অ্যালুমিনিয়াম লবণের দ্রবণের তড়িৎ বিশ্লেষণে অ্যালুমিনিয়াম পাওয়া যায়।
+v দ্রবণ থেকে এর বদলে হাইড্রোজেন বের হবে; অ্যালুমিনিয়াম নিষ্কাশন করা হয় ক্রায়োলাইটে দ্রবীভূত গলিত অ্যালুমিনা থেকে।
+## remember
+- সক্রিয় ধাতু (Na, Mg, Al) গলিত যৌগের তড়িৎ বিশ্লেষণে নিষ্কাশিত হয়; ধাতু জমে ক্যাথোডে।
+- অ্যালুমিনিয়াম: 2Al₂O₃ → 4Al + 3O₂ (গলিত ক্রায়োলাইটে)।
+- পরিশোধন: অবিশুদ্ধ অ্যানোড দ্রবীভূত হয়, বিশুদ্ধ ক্যাথোড বাড়ে।
+- তড়িৎ প্রলেপন: জিনিস = ক্যাথোড, প্রলেপের ধাতু = অ্যানোড, তড়িৎ বিশ্লেষ্যে তার আয়ন।
+- পণ্য: ধাতু, কপারের তার, পানি শোধনে Cl₂, শিল্পে NaOH।
+## think
+একজন শিক্ষার্থী লোহার পেরেকে কপারের প্রলেপ দিতে গিয়ে পেরেকটিকে ধনাত্মক প্রান্তে যুক্ত করল। সে কী দেখবে, আর কেন?
+## quiz
+? তড়িৎ বিশ্লেষণের মাধ্যমে এক ধাতুর ওপর আরেক ধাতুর প্রলেপ দেওয়ার প্রক্রিয়াকে কী বলে?
+- ভলকানাইজিং
+- ধাতু বিশুদ্ধকরণ
+- গ্যালভানাইজিং
+* তড়িৎ প্রলেপন
+= তড়িৎ বিশ্লেষণে ধাতুর স্তর জমা করাই তড়িৎ প্রলেপন।
+? চামচে সিলভারের প্রলেপ দিতে চামচটি ব্যবহার করা হয়:
+* ক্যাথোড হিসেবে
+- অ্যানোড হিসেবে
+- তড়িৎ বিশ্লেষ্য হিসেবে
+- লবণ সেতু হিসেবে
+= যে জিনিসে প্রলেপ দেওয়া হবে সেটি ক্যাথোড, যেখানে Ag⁺ + e⁻ → Ag ঘটে।
+? কপারের তড়িৎ বিশ্লেষণীয় পরিশোধনে অবিশুদ্ধ কপার অ্যানোডের কী হয়?
+- মোটা হয়
+* ধীরে ধীরে দ্রবীভূত হয়
+- হাইড্রোজেন ছাড়ে
+- কিছুই হয় না
+= Cu → Cu²⁺ + 2e⁻: অ্যানোড দ্রবীভূত হয় আর ক্যাথোডে বিশুদ্ধ কপার জমে।
+? লোহার ওপর নিকেল বা ক্রোমিয়ামের প্রলেপ দেওয়া হয় কেন?
+- ভারী করতে
+- চুম্বক বানাতে
+* মরিচা প্রতিরোধ করতে ও উজ্জ্বল করতে
+- ভালো পরিবাহী করতে
+= কম সক্রিয় প্রলেপ বাতাস ও জলীয় বাষ্পকে দূরে রাখে আর ঝকঝকে দেখায়।
+
+@@ 8.4
+@visual k8daniell
+@related 8.3.1 8.3.2 7.2.3 8.2
+== en
+## what
+A **galvanic (voltaic) cell** produces electricity from a spontaneous redox reaction. In the **Daniell cell**, zinc is oxidised at the **anode** (Zn → Zn²⁺ + 2e⁻), the electrons flow through the wire to the copper **cathode**, where Cu²⁺ is reduced (Cu²⁺ + 2e⁻ → Cu), and a **salt bridge** keeps both solutions electrically neutral. Dry cells and other batteries work on the same principle.
+## simple
+Drop a piece of zinc into blue copper sulfate solution and the zinc gets coated with red-brown copper while the blue colour fades: Zn + Cu²⁺ → Zn²⁺ + Cu. Electrons jump directly from zinc atoms to copper ions, and the energy is wasted as a little heat. A **galvanic cell** is a clever way of making those electrons travel **through a wire** instead, so that they can light a bulb on the way.
+
+**The Daniell cell** (invented by John Frederic Daniell in 1836)
+- Beaker 1: a **zinc rod** in **zinc sulfate** solution. Beaker 2: a **copper rod** in **copper sulfate** solution. (Each metal electrode stands in a solution of its own ions.)
+- A wire, with a bulb or LED, joins the two rods.
+- A U-shaped **salt bridge** joins the two solutions.
+
+**What happens**
+- At the **zinc rod**, zinc atoms give up two electrons each and go into solution as Zn²⁺. This is **oxidation**, so zinc is the **anode**: Zn → Zn²⁺ + 2e⁻. The electrons left behind make the zinc rod **negative**.
+- The electrons flow through the wire (lighting the bulb) to the **copper rod**.
+- There, Cu²⁺ ions from the solution take the electrons and are deposited as copper. This is **reduction**, so copper is the **cathode**: Cu²⁺ + 2e⁻ → Cu. The copper rod is the **positive** terminal.
+- Adding the two **half-reactions**: Zn + Cu²⁺ → Zn²⁺ + Cu, a redox reaction, half at each electrode.
+Over time the zinc rod gets thinner and the copper rod gets thicker. A Daniell cell gives about 1.1 V.
+
+**The salt bridge.** As the cell works, Zn²⁺ ions pile up in the zinc beaker (it would become positive), while Cu²⁺ ions are removed from the copper beaker, leaving extra SO₄²⁻ (it would become negative). The charge build-up would stop the current within moments. The salt bridge, a U-tube filled with **KCl in agar-agar jelly** with cotton plugs at the ends, solves this: **Cl⁻ ions move into the zinc (anode) solution** and **K⁺ ions move into the copper (cathode) solution**, so both stay neutral and the current keeps flowing. It completes the circuit **without letting the two solutions mix**.
+
+**Electrode notation.** A metal dipped in a solution of its own ions is a **metal–metal ion electrode**, written metal | ion: Zn|Zn²⁺, Cu|Cu²⁺, Fe|Fe²⁺, Ag|Ag⁺. For very reactive metals such as Na, K and Ca (which would react with water), an **amalgam** (a mixture with mercury) is used.
+
+**Which electrode is the anode?** Use the **electrochemical series** (most reactive at the top): Li, K, Na, Ca, Mg, Al, Zn, Fe, Sn, Pb, (H₂), Cu, Ag, Au. In a cell made of two metals, the **higher (more reactive)** metal is the **anode**; the **lower** one is the **cathode**. For a copper–silver cell, copper is higher, so:
+- anode: Cu → Cu²⁺ + 2e⁻
+- cathode: 2Ag⁺ + 2e⁻ → 2Ag
+- cell reaction: Cu + 2Ag⁺ → Cu²⁺ + 2Ag
+The farther apart the two metals are in the series, the larger the voltage.
+
+**Electrolytic cell vs galvanic cell (Table 8.03)**
+- *Energy:* electrolytic uses electrical energy to drive a reaction; galvanic produces electrical energy from a reaction.
+- *Signs:* electrolytic: anode **positive**, cathode **negative**; galvanic: anode **negative**, cathode **positive**.
+- *Uses:* electrolytic: making substances, electroplating, purifying metals; galvanic: batteries and other sources of electricity.
+- In **both**, oxidation is at the anode and reduction at the cathode.
+
+**The dry cell** (torch and remote batteries, about 1.5 V)
+- **Anode**: the **zinc** container. **Cathode**: a central **carbon (graphite) rod**.
+- Between them: a moist paste of manganese dioxide (MnO₂), ammonium chloride (NH₄Cl), zinc chloride (ZnCl₂) and a little water: "dry" only because nothing can spill.
+- Anode: Zn → Zn²⁺ + 2e⁻
+- Cathode: 2NH₄⁺ + 2MnO₂ + 2e⁻ → 2NH₃ + Mn₂O₃ + H₂O
+- Overall: Zn + 2NH₄⁺ + 2MnO₂ → Zn²⁺ + 2NH₃ + Mn₂O₃ + H₂O
+MnO₂ is reduced (Mn goes from +4 to +3), so it is the **oxidising agent**.
+
+**Other batteries and uses.** Cars, buses and trucks use rechargeable **lead–acid batteries**; mobile phones and laptops use lithium-ion batteries. A **hydrogen fuel cell** oxidises H₂ at the anode and reduces O₂ at the cathode, producing electricity and only water; it can even run cars. A **blood glucose meter** uses tiny electrodes on a test strip: glucose in a drop of blood is oxidised at an electrode and the resulting current, measured in seconds, tells the glucose level.
+
+**Harmful effects of batteries.** Batteries contain metals and compounds such as zinc, manganese dioxide, lead and lead dioxide (PbO₂), and some contain mercury, cadmium or lithium. Many are toxic, and lead and cadmium compounds can harm the brain and kidneys and may cause cancer. Thrown in the dustbin or a drain, batteries corrode and leak these substances into soil and water. Used batteries should be collected and **recycled**, never burned or dumped.
+
+**Investigation: make a galvanic cell.** Apparatus: two beakers, zinc sulfate and copper sulfate solutions, a zinc strip and a copper strip, copper wire, an LED, and a salt bridge (or a strip of filter paper soaked in salt solution). Put the zinc strip in ZnSO₄ and the copper strip in CuSO₄. Lay the wet paper strip so that its two ends dip into the two solutions. Connect the copper strip to the **longer (positive)** leg of the LED and the zinc strip to the other leg. The LED lights: chemical energy is being turned into electrical energy. Keep the two solution levels equal and make sure the bridge dips well into both. *Copper sulfate is harmful; wear gloves and wash hands afterwards.* (One cell may be too weak for some LEDs; two or three cells joined in series will light it.)
+## analogy
+A galvanic cell is like two villages on opposite banks of a river. Zinc village has people eager to give away goods (electrons); copper village has people eager to receive them. If they meet directly, the goods just change hands. Build a bridge-road (the wire) between them and the goods must travel along it, and you can make them turn a mill (the bulb) on the way. The salt bridge is like a ferry that carries people back and forth so neither village ends up overcrowded.
+## definition
+**Galvanic (voltaic) cell (গ্যালভানিক কোষ)**: an electrochemical cell in which a spontaneous chemical (redox) reaction produces electrical energy.
+
+**Daniell cell (ডেনিয়েল কোষ)**: a galvanic cell with a zinc electrode in ZnSO₄ solution (anode) and a copper electrode in CuSO₄ solution (cathode), connected by a wire and a salt bridge; cell reaction Zn + Cu²⁺ → Zn²⁺ + Cu.
+
+**Salt bridge (লবণ সেতু)**: a U-tube containing a gel of an electrolyte (e.g. KCl in agar-agar) connecting the two half-cells; its ions keep the solutions electrically neutral and complete the circuit.
+
+**Half-reaction (অর্ধবিক্রিয়া)**: the oxidation part (at the anode) or the reduction part (at the cathode) of a redox reaction.
+## why
+Why does zinc give electrons to copper ions, and not the other way round? Zinc is higher in the electrochemical series: it is more reactive and holds its outer electrons less tightly, so it loses them more readily than copper does. Cu²⁺ ions, on the other hand, accept electrons readily. Electrons therefore flow "downhill" from zinc to copper, and that push is the voltage of the cell. Swap the metals for a pair that are farther apart in the series (magnesium and copper, say) and the push, and the voltage, is larger.
+## terms
+Galvanic / voltaic cell | Cell that makes electricity from a spontaneous reaction
+Half-cell | One electrode in its solution, e.g. Zn|Zn²⁺
+Salt bridge | KCl–agar gel tube that joins half-cells and keeps them neutral
+Anode (galvanic) | Negative electrode; oxidation; the more reactive metal
+Cathode (galvanic) | Positive electrode; reduction; the less reactive metal
+Dry cell | Zinc can (anode), carbon rod (cathode), MnO₂–NH₄Cl paste
+Amalgam | Mixture of a metal with mercury, used for electrodes of very reactive metals
+## formula
+$$ Anode: Zn → Zn²⁺ + 2e⁻
+$$ Cathode: Cu²⁺ + 2e⁻ → Cu
+$$ Cell: Zn + Cu²⁺ → Zn²⁺ + Cu
+$$ Dry cell: Zn + 2NH₄⁺ + 2MnO₂ → Zn²⁺ + 2NH₃ + Mn₂O₃ + H₂O
+! Electrons flow in the wire from anode (−) to cathode (+).
+! In the salt bridge, anions move toward the anode beaker and cations toward the cathode beaker.
+## visual
+Choose a pair of metals and close the switch. Follow the electrons through the wire and the ions through the salt bridge, see which rod wastes away and which grows, then try removing the salt bridge.
+## real
+Every torch, wall clock and TV remote in Bangladesh runs on dry cells, and every mobile phone on a lithium-ion battery. Old lead–acid batteries from cars and IPS units are often broken open in unsafe backyard workshops to recover lead, poisoning workers and nearby children; handing them to licensed recyclers protects people and the environment.
+## example
+Q: A galvanic cell is made from a copper electrode and a silver electrode. Which is the anode? Write the half-reactions and the cell reaction.
+Solution: Copper is above silver in the electrochemical series, so copper is more reactive and loses electrons: copper is the anode, silver the cathode.
+Solution: Anode: Cu → Cu²⁺ + 2e⁻. Cathode: Ag⁺ + e⁻ → Ag, doubled to 2Ag⁺ + 2e⁻ → 2Ag so the electrons match.
+> Charge check for the cell reaction: left 0 + 2(+1) = +2; right +2 + 0 = +2.
+Answer: Cu + 2Ag⁺ → Cu²⁺ + 2Ag; copper anode (negative), silver cathode (positive).
+## example
+Q: In a Daniell cell the zinc rod loses 6.5 g. What mass of copper is deposited on the copper rod? (Zn = 65, Cu = 63.5)
+Given: Zn + Cu²⁺ → Zn²⁺ + Cu (1 mol Zn : 1 mol Cu)
+Formula: n = mass ÷ atomic mass
+Calculation: n(Zn) = 6.5 ÷ 65 = 0.1 mol → 0.1 mol Cu = 0.1 × 63.5 = 6.35 g
+> Each Zn atom releases 2 electrons, and each Cu²⁺ ion needs exactly 2, so the numbers of atoms match.
+Answer: 6.35 g of copper
+## example
+Q: Check that the dry-cell cathode reaction 2NH₄⁺ + 2MnO₂ + 2e⁻ → 2NH₃ + Mn₂O₃ + H₂O is balanced.
+Solution: Atoms: N 2 = 2; H 8 = 6 + 2 = 8; Mn 2 = 2; O 4 = 3 + 1 = 4. Charge: left +2 + 0 − 2 = 0; right 0.
+Answer: Balanced in both atoms and charge; MnO₂ gains electrons, so it is reduced.
+## mistakes
+x In every cell, the anode is positive.
+v In a galvanic cell the anode is negative (it releases electrons into the wire); only in an electrolytic cell is the anode positive.
+x The salt bridge carries electrons between the beakers.
+v Electrons travel only through the wire. The salt bridge carries ions (K⁺ and Cl⁻) and keeps each solution neutral.
+x Car and bus batteries are Daniell cells.
+v Vehicle batteries are lead–acid storage batteries. The Daniell cell is a laboratory cell used to explain how galvanic cells work.
+## remember
+- Galvanic cell: chemical energy → electrical energy.
+- Daniell cell: Zn anode (−) in ZnSO₄, Cu cathode (+) in CuSO₄; Zn + Cu²⁺ → Zn²⁺ + Cu.
+- Electrons: anode → wire → cathode. Salt bridge: Cl⁻ to anode side, K⁺ to cathode side.
+- Higher metal in the electrochemical series = anode.
+- Dry cell: Zn can anode, carbon rod cathode, MnO₂ is the oxidising agent.
+- Used batteries are toxic: recycle, never dump or burn.
+## think
+If you replace the zinc half-cell of a Daniell cell with a magnesium half-cell (Mg in MgSO₄), would the voltage be higher or lower? Why?
+## quiz
+? Which substance acts as the oxidising agent in a dry cell?
+- Zn container
+* MnO₂
+- Carbon rod
+- ZnCl₂
+= MnO₂ gains electrons (Mn: +4 → +3), so it is reduced and acts as the oxidising agent.
+? In a Daniell cell, electrons flow through the wire:
+* From zinc to copper
+- From copper to zinc
+- Through the salt bridge
+- In both directions
+= Zinc is oxidised and releases electrons, which travel to the copper cathode.
+? What is the main job of the salt bridge?
+- To supply electrons
+- To mix the two solutions
+* To keep both solutions electrically neutral and complete the circuit
+- To make the zinc dissolve faster
+= Its K⁺ and Cl⁻ ions balance the charges so the current continues.
+? In a cell made of Zn|Zn²⁺ and Ag|Ag⁺, the anode is:
+* Zinc
+- Silver
+- Both
+- The salt bridge
+= Zinc is higher (more reactive) in the electrochemical series, so it is oxidised.
+== bn
+## what
+**গ্যালভানিক (ভোল্টায়িক) কোষ** স্বতঃস্ফূর্ত জারণ-বিজারণ বিক্রিয়া থেকে বিদ্যুৎ তৈরি করে। **ডেনিয়েল কোষে** **অ্যানোডে** জিংক জারিত হয় (Zn → Zn²⁺ + 2e⁻), ইলেকট্রন তার দিয়ে কপার **ক্যাথোডে** যায়, সেখানে Cu²⁺ বিজারিত হয় (Cu²⁺ + 2e⁻ → Cu), আর **লবণ সেতু** দুই দ্রবণকে বিদ্যুৎ-নিরপেক্ষ রাখে। শুষ্ক কোষ ও অন্যান্য ব্যাটারিও একই নীতিতে চলে।
+## simple
+নীল কপার সালফেট দ্রবণে এক টুকরা জিংক ফেলে দাও: জিংকের গায়ে লালচে-বাদামি কপারের আস্তরণ পড়ে আর নীল রং ফিকে হয়: Zn + Cu²⁺ → Zn²⁺ + Cu। ইলেকট্রন সরাসরি জিংক পরমাণু থেকে কপার আয়নে লাফিয়ে যায়, আর শক্তিটা সামান্য তাপ হয়ে নষ্ট হয়। **গ্যালভানিক কোষ** হলো এই ইলেকট্রনগুলোকে **তারের মধ্য দিয়ে** ঘুরিয়ে নেওয়ার চতুর কৌশল, যাতে পথে তারা একটা বাল্ব জ্বালাতে পারে।
+
+**ডেনিয়েল কোষ** (জন ফ্রেডরিক ডেনিয়েল ১৮৩৬ সালে উদ্ভাবন করেন)
+- বিকার ১: **জিংক সালফেট** দ্রবণে একটি **জিংক দণ্ড**। বিকার ২: **কপার সালফেট** দ্রবণে একটি **কপার দণ্ড**। (প্রতিটি ধাতব তড়িৎদ্বার তার নিজের আয়নের দ্রবণে থাকে।)
+- একটি তার, মাঝে বাল্ব বা এলইডি, দণ্ড দুটিকে যুক্ত করে।
+- একটি U-আকৃতির **লবণ সেতু** দ্রবণ দুটিকে যুক্ত করে।
+
+**কী ঘটে**
+- **জিংক দণ্ডে** প্রতিটি জিংক পরমাণু দুটি ইলেকট্রন ছেড়ে Zn²⁺ হয়ে দ্রবণে চলে যায়। এটি **জারণ**, তাই জিংক **অ্যানোড**: Zn → Zn²⁺ + 2e⁻। রেখে যাওয়া ইলেকট্রনের কারণে জিংক দণ্ড **ঋণাত্মক** হয়।
+- ইলেকট্রনগুলো তার দিয়ে (বাল্ব জ্বালিয়ে) **কপার দণ্ডে** যায়।
+- সেখানে দ্রবণের Cu²⁺ আয়ন ইলেকট্রন নিয়ে কপার হয়ে জমা হয়। এটি **বিজারণ**, তাই কপার **ক্যাথোড**: Cu²⁺ + 2e⁻ → Cu। কপার দণ্ড **ধনাত্মক** প্রান্ত।
+- দুই **অর্ধবিক্রিয়া** যোগ করলে: Zn + Cu²⁺ → Zn²⁺ + Cu, একটি জারণ-বিজারণ বিক্রিয়া, যার অর্ধেক ঘটে এক তড়িৎদ্বারে, অর্ধেক অন্যটিতে।
+সময়ের সাথে জিংক দণ্ড সরু হয় আর কপার দণ্ড মোটা হয়। একটি ডেনিয়েল কোষ প্রায় ১.১ V দেয়।
+
+**লবণ সেতু।** কোষ চলতে থাকলে জিংকের বিকারে Zn²⁺ আয়ন জমতে থাকে (দ্রবণটি ধনাত্মক হয়ে যেত), আর কপারের বিকার থেকে Cu²⁺ সরে গিয়ে বাড়তি SO₄²⁻ থেকে যায় (দ্রবণটি ঋণাত্মক হয়ে যেত)। এই আধান জমে কয়েক মুহূর্তেই প্রবাহ বন্ধ করে দিত। লবণ সেতু, মানে দুই মুখে তুলার ছিপিসহ **অ্যাগার-অ্যাগার জেলিতে KCl** ভরা একটি U-নল, এই সমস্যার সমাধান করে: **Cl⁻ আয়ন জিংকের (অ্যানোড) দ্রবণে যায়** আর **K⁺ আয়ন কপারের (ক্যাথোড) দ্রবণে যায়**, ফলে দুটোই নিরপেক্ষ থাকে আর প্রবাহ চলতে থাকে। এটি **দুই দ্রবণকে মিশতে না দিয়েই** বর্তনী পূর্ণ করে।
+
+**তড়িৎদ্বারের প্রতীক।** নিজের আয়নের দ্রবণে ডুবানো ধাতু হলো **ধাতু-ধাতব আয়ন তড়িৎদ্বার**, লেখা হয় ধাতু | আয়ন: Zn|Zn²⁺, Cu|Cu²⁺, Fe|Fe²⁺, Ag|Ag⁺। Na, K, Ca-এর মতো খুব সক্রিয় ধাতুর (যারা পানির সাথে বিক্রিয়া করে) ক্ষেত্রে **অ্যামালগাম** (পারদের সাথে মিশ্রণ) ব্যবহার করা হয়।
+
+**কোন তড়িৎদ্বার অ্যানোড?** **তড়িৎ রাসায়নিক সারি** দেখো (সবচেয়ে সক্রিয়টি ওপরে): Li, K, Na, Ca, Mg, Al, Zn, Fe, Sn, Pb, (H₂), Cu, Ag, Au। দুটি ধাতু দিয়ে গড়া কোষে **ওপরের (বেশি সক্রিয়)** ধাতুটি **অ্যানোড**; **নিচেরটি** **ক্যাথোড**। কপার-সিলভার কোষে কপার ওপরে, তাই:
+- অ্যানোড: Cu → Cu²⁺ + 2e⁻
+- ক্যাথোড: 2Ag⁺ + 2e⁻ → 2Ag
+- কোষ বিক্রিয়া: Cu + 2Ag⁺ → Cu²⁺ + 2Ag
+সারিতে দুটি ধাতু যত দূরে, ভোল্টেজ তত বেশি।
+
+**তড়িৎ বিশ্লেষ্য কোষ বনাম গ্যালভানিক কোষ (টেবিল ৮.০৩)**
+- *শক্তি:* তড়িৎ বিশ্লেষ্য কোষ বিদ্যুৎ শক্তি দিয়ে বিক্রিয়া ঘটায়; গ্যালভানিক কোষ বিক্রিয়া থেকে বিদ্যুৎ শক্তি তৈরি করে।
+- *চিহ্ন:* তড়িৎ বিশ্লেষ্য কোষে অ্যানোড **ধনাত্মক**, ক্যাথোড **ঋণাত্মক**; গ্যালভানিক কোষে অ্যানোড **ঋণাত্মক**, ক্যাথোড **ধনাত্মক**।
+- *ব্যবহার:* তড়িৎ বিশ্লেষ্য: পদার্থ উৎপাদন, তড়িৎ প্রলেপন, ধাতু বিশুদ্ধকরণ; গ্যালভানিক: ব্যাটারি ও অন্যান্য বিদ্যুৎ উৎস।
+- **দুটিতেই** অ্যানোডে জারণ আর ক্যাথোডে বিজারণ।
+
+**শুষ্ক কোষ** (টর্চ ও রিমোটের ব্যাটারি, প্রায় ১.৫ V)
+- **অ্যানোড**: **জিংকের** পাত্র। **ক্যাথোড**: মাঝখানের **কার্বন (গ্রাফাইট) দণ্ড**।
+- এদের মাঝে: ম্যাঙ্গানিজ ডাই-অক্সাইড (MnO₂), অ্যামোনিয়াম ক্লোরাইড (NH₄Cl), জিংক ক্লোরাইড (ZnCl₂) আর সামান্য পানির ভেজা মণ্ড: "শুষ্ক" শুধু এজন্য যে কিছু ছলকে পড়ে না।
+- অ্যানোড: Zn → Zn²⁺ + 2e⁻
+- ক্যাথোড: 2NH₄⁺ + 2MnO₂ + 2e⁻ → 2NH₃ + Mn₂O₃ + H₂O
+- সামগ্রিক: Zn + 2NH₄⁺ + 2MnO₂ → Zn²⁺ + 2NH₃ + Mn₂O₃ + H₂O
+MnO₂ বিজারিত হয় (Mn-এর জারণ মান +৪ থেকে +৩), তাই এটি **জারক**।
+
+**অন্যান্য ব্যাটারি ও ব্যবহার।** গাড়ি, বাস ও ট্রাকে থাকে রিচার্জযোগ্য **লেড-এসিড ব্যাটারি**; মোবাইল ফোন ও ল্যাপটপে লিথিয়াম-আয়ন ব্যাটারি। **হাইড্রোজেন ফুয়েল সেল** অ্যানোডে H₂-কে জারিত আর ক্যাথোডে O₂-কে বিজারিত করে বিদ্যুৎ তৈরি করে, উৎপাদ শুধু পানি; এটি দিয়ে গাড়িও চালানো যায়। **রক্তের গ্লুকোজ মাপার যন্ত্র** টেস্ট স্ট্রিপের ছোট্ট তড়িৎদ্বার ব্যবহার করে: এক ফোঁটা রক্তের গ্লুকোজ তড়িৎদ্বারে জারিত হয়, আর কয়েক সেকেন্ডে মাপা সেই বিদ্যুৎপ্রবাহ থেকে গ্লুকোজের মাত্রা জানা যায়।
+
+**ব্যাটারির ক্ষতিকর প্রভাব।** ব্যাটারিতে জিংক, ম্যাঙ্গানিজ ডাই-অক্সাইড, লেড, লেড ডাই-অক্সাইড (PbO₂)-এর মতো ধাতু ও যৌগ থাকে, কোনোটিতে পারদ, ক্যাডমিয়াম বা লিথিয়ামও থাকে। অনেকগুলো বিষাক্ত, আর লেড ও ক্যাডমিয়ামের যৌগ মস্তিষ্ক ও কিডনির ক্ষতি করতে পারে, ক্যানসারও ঘটাতে পারে। ডাস্টবিনে বা নর্দমায় ফেললে ব্যাটারি ক্ষয় হয়ে এসব পদার্থ মাটি ও পানিতে মিশে যায়। ব্যবহৃত ব্যাটারি সংগ্রহ করে **পুনর্ব্যবহার** করতে হবে, কখনো পোড়ানো বা যেখানে-সেখানে ফেলা যাবে না।
+
+**পরীক্ষণ: গ্যালভানিক কোষ তৈরি।** উপকরণ: দুটি বিকার, জিংক সালফেট ও কপার সালফেট দ্রবণ, একটি জিংক পাত ও একটি কপার পাত, কপারের তার, একটি এলইডি, আর একটি লবণ সেতু (বা লবণপানিতে ভেজানো একফালি ফিল্টার কাগজ)। জিংক পাতটি ZnSO₄-এ আর কপার পাতটি CuSO₄-এ রাখো। ভেজা কাগজের ফালিটি এমনভাবে রাখো যেন এর দুই প্রান্ত দুই দ্রবণে ডুবে থাকে। কপার পাতকে এলইডির **লম্বা (ধনাত্মক)** পায়ের সাথে আর জিংক পাতকে অন্য পায়ের সাথে যুক্ত করো। এলইডি জ্বলে ওঠে: রাসায়নিক শক্তি বিদ্যুৎ শক্তিতে রূপান্তরিত হচ্ছে। দুই দ্রবণের উচ্চতা সমান রাখো আর সেতুটি যেন দুই দ্রবণেই ভালোভাবে ডুবে থাকে। *কপার সালফেট ক্ষতিকর; গ্লাভস পরো আর পরে হাত ধুয়ে নাও।* (একটি কোষ কিছু এলইডির জন্য দুর্বল হতে পারে; দুই-তিনটি কোষ শ্রেণিতে যুক্ত করলে জ্বলবে।)
+## analogy
+গ্যালভানিক কোষ যেন নদীর দুই পাড়ের দুটি গ্রাম। জিংক গ্রামের লোকেরা জিনিস (ইলেকট্রন) দিয়ে দিতে উদগ্রীব; কপার গ্রামের লোকেরা তা নিতে উদগ্রীব। সরাসরি দেখা হলে জিনিস শুধু হাতবদল হয়। দুই গ্রামের মাঝে একটা রাস্তা (তার) বানালে জিনিসগুলোকে সেই পথে যেতে হয়, আর পথে তাদের দিয়ে একটা কল (বাল্ব) ঘোরানো যায়। লবণ সেতু যেন একটা খেয়া নৌকা, যা মানুষ আনা-নেওয়া করে যাতে কোনো গ্রামেই ভিড় জমে না যায়।
+## definition
+**গ্যালভানিক (ভোল্টায়িক) কোষ (Galvanic cell)**: যে তড়িৎ রাসায়নিক কোষে স্বতঃস্ফূর্ত রাসায়নিক (জারণ-বিজারণ) বিক্রিয়া বিদ্যুৎ শক্তি উৎপাদন করে।
+
+**ডেনিয়েল কোষ (Daniell cell)**: ZnSO₄ দ্রবণে জিংক তড়িৎদ্বার (অ্যানোড) আর CuSO₄ দ্রবণে কপার তড়িৎদ্বার (ক্যাথোড), তার ও লবণ সেতু দিয়ে যুক্ত একটি গ্যালভানিক কোষ; কোষ বিক্রিয়া Zn + Cu²⁺ → Zn²⁺ + Cu।
+
+**লবণ সেতু (Salt bridge)**: তড়িৎ বিশ্লেষ্যের জেলি (যেমন অ্যাগার-অ্যাগারে KCl) ভরা U-নল, যা দুটি অর্ধকোষকে যুক্ত করে; এর আয়ন দ্রবণগুলোকে বিদ্যুৎ-নিরপেক্ষ রাখে ও বর্তনী পূর্ণ করে।
+
+**অর্ধবিক্রিয়া (Half-reaction)**: জারণ-বিজারণ বিক্রিয়ার জারণ অংশ (অ্যানোডে) বা বিজারণ অংশ (ক্যাথোডে)।
+## why
+জিংক কেন কপার আয়নকে ইলেকট্রন দেয়, উল্টোটা কেন নয়? তড়িৎ রাসায়নিক সারিতে জিংক ওপরে: এটি বেশি সক্রিয় আর বাইরের ইলেকট্রনগুলো কম শক্তভাবে ধরে রাখে, তাই কপারের চেয়ে সহজে ইলেকট্রন ছেড়ে দেয়। অন্যদিকে Cu²⁺ আয়ন সহজে ইলেকট্রন গ্রহণ করে। ফলে ইলেকট্রন জিংক থেকে কপারের দিকে "ঢাল বেয়ে নামে", আর এই ঠেলাই কোষের ভোল্টেজ। সারিতে আরও দূরের দুটি ধাতু নিলে (ধরো ম্যাগনেসিয়াম ও কপার) ঠেলা, মানে ভোল্টেজও বেশি হয়।
+## terms
+গ্যালভানিক / ভোল্টায়িক কোষ | স্বতঃস্ফূর্ত বিক্রিয়া থেকে বিদ্যুৎ তৈরির কোষ
+অর্ধকোষ | নিজের দ্রবণে একটি তড়িৎদ্বার, যেমন Zn|Zn²⁺
+লবণ সেতু | অর্ধকোষ দুটিকে যুক্ত করে নিরপেক্ষ রাখা KCl-অ্যাগার জেলির নল
+অ্যানোড (গ্যালভানিক) | ঋণাত্মক তড়িৎদ্বার; জারণ; বেশি সক্রিয় ধাতু
+ক্যাথোড (গ্যালভানিক) | ধনাত্মক তড়িৎদ্বার; বিজারণ; কম সক্রিয় ধাতু
+শুষ্ক কোষ | জিংকের পাত্র (অ্যানোড), কার্বন দণ্ড (ক্যাথোড), MnO₂-NH₄Cl মণ্ড
+অ্যামালগাম | পারদের সাথে ধাতুর মিশ্রণ, খুব সক্রিয় ধাতুর তড়িৎদ্বারে ব্যবহৃত
+## formula
+$$ অ্যানোড: Zn → Zn²⁺ + 2e⁻
+$$ ক্যাথোড: Cu²⁺ + 2e⁻ → Cu
+$$ কোষ: Zn + Cu²⁺ → Zn²⁺ + Cu
+$$ শুষ্ক কোষ: Zn + 2NH₄⁺ + 2MnO₂ → Zn²⁺ + 2NH₃ + Mn₂O₃ + H₂O
+! তারে ইলেকট্রন চলে অ্যানোড (−) থেকে ক্যাথোডে (+)।
+! লবণ সেতুতে অ্যানায়ন অ্যানোডের বিকারের দিকে আর ক্যাটায়ন ক্যাথোডের বিকারের দিকে যায়।
+## visual
+এক জোড়া ধাতু বেছে নিয়ে সুইচ চালু করো। তার দিয়ে ইলেকট্রন আর লবণ সেতু দিয়ে আয়নের চলাচল দেখো, কোন দণ্ড ক্ষয় হয় আর কোনটি বাড়ে দেখো, তারপর লবণ সেতু সরিয়ে দেখো কী হয়।
+## real
+বাংলাদেশের প্রতিটি টর্চ, দেয়ালঘড়ি আর টিভির রিমোট চলে শুষ্ক কোষে, আর প্রতিটি মোবাইল ফোন লিথিয়াম-আয়ন ব্যাটারিতে। গাড়ি ও আইপিএসের পুরোনো লেড-এসিড ব্যাটারি প্রায়ই অনিরাপদ ঘরোয়া কারখানায় ভেঙে লেড বের করা হয়, যা শ্রমিক আর আশপাশের শিশুদের বিষাক্ত করে; লাইসেন্সপ্রাপ্ত পুনর্ব্যবহারকারীদের হাতে দিলে মানুষ ও পরিবেশ রক্ষা পায়।
+## example
+প্রশ্ন: একটি কপার তড়িৎদ্বার ও একটি সিলভার তড়িৎদ্বার দিয়ে গ্যালভানিক কোষ বানানো হলো। কোনটি অ্যানোড? অর্ধবিক্রিয়া ও কোষ বিক্রিয়া লেখো।
+সমাধান: তড়িৎ রাসায়নিক সারিতে কপার সিলভারের ওপরে, তাই কপার বেশি সক্রিয় আর ইলেকট্রন হারায়: কপার অ্যানোড, সিলভার ক্যাথোড।
+সমাধান: অ্যানোড: Cu → Cu²⁺ + 2e⁻। ক্যাথোড: Ag⁺ + e⁻ → Ag, ইলেকট্রন মেলাতে দ্বিগুণ করে 2Ag⁺ + 2e⁻ → 2Ag।
+> কোষ বিক্রিয়ার আধান যাচাই: বামে ০ + ২(+১) = +২; ডানে +২ + ০ = +২।
+উত্তর: Cu + 2Ag⁺ → Cu²⁺ + 2Ag; কপার অ্যানোড (ঋণাত্মক), সিলভার ক্যাথোড (ধনাত্মক)।
+## example
+প্রশ্ন: একটি ডেনিয়েল কোষে জিংক দণ্ডের ভর ৬.৫ g কমল। কপার দণ্ডে কত গ্রাম কপার জমা হবে? (Zn = ৬৫, Cu = ৬৩.৫)
+দেওয়া আছে: Zn + Cu²⁺ → Zn²⁺ + Cu (১ mol Zn : ১ mol Cu)
+সূত্র: n = ভর ÷ পারমাণবিক ভর
+হিসাব: n(Zn) = ৬.৫ ÷ ৬৫ = ০.১ mol → ০.১ mol Cu = ০.১ × ৬৩.৫ = ৬.৩৫ g
+> প্রতিটি Zn পরমাণু ২টি ইলেকট্রন ছাড়ে, আর প্রতিটি Cu²⁺ আয়নের ঠিক ২টি লাগে, তাই পরমাণুর সংখ্যা মিলে যায়।
+উত্তর: ৬.৩৫ g কপার
+## example
+প্রশ্ন: শুষ্ক কোষের ক্যাথোড বিক্রিয়া 2NH₄⁺ + 2MnO₂ + 2e⁻ → 2NH₃ + Mn₂O₃ + H₂O সমতাকৃত কি না যাচাই করো।
+সমাধান: পরমাণু: N ২ = ২; H ৮ = ৬ + ২ = ৮; Mn ২ = ২; O ৪ = ৩ + ১ = ৪। আধান: বামে +২ + ০ − ২ = ০; ডানে ০।
+উত্তর: পরমাণু ও আধান দুটোই সমান; MnO₂ ইলেকট্রন গ্রহণ করে, তাই এটি বিজারিত হয়।
+## mistakes
+x সব কোষেই অ্যানোড ধনাত্মক।
+v গ্যালভানিক কোষে অ্যানোড ঋণাত্মক (এটি তারে ইলেকট্রন ছাড়ে); শুধু তড়িৎ বিশ্লেষ্য কোষে অ্যানোড ধনাত্মক।
+x লবণ সেতু দুই বিকারের মধ্যে ইলেকট্রন বহন করে।
+v ইলেকট্রন চলে শুধু তার দিয়ে। লবণ সেতু আয়ন (K⁺ ও Cl⁻) বহন করে আর প্রতিটি দ্রবণকে নিরপেক্ষ রাখে।
+x গাড়ি ও বাসের ব্যাটারি ডেনিয়েল কোষ।
+v যানবাহনের ব্যাটারি লেড-এসিড সঞ্চয়ী ব্যাটারি। ডেনিয়েল কোষ পরীক্ষাগারের কোষ, যা দিয়ে গ্যালভানিক কোষের কার্যপ্রণালী বোঝানো হয়।
+## remember
+- গ্যালভানিক কোষ: রাসায়নিক শক্তি → বিদ্যুৎ শক্তি।
+- ডেনিয়েল কোষ: ZnSO₄-এ Zn অ্যানোড (−), CuSO₄-এ Cu ক্যাথোড (+); Zn + Cu²⁺ → Zn²⁺ + Cu।
+- ইলেকট্রন: অ্যানোড → তার → ক্যাথোড। লবণ সেতু: Cl⁻ অ্যানোডের দিকে, K⁺ ক্যাথোডের দিকে।
+- তড়িৎ রাসায়নিক সারিতে ওপরের ধাতু = অ্যানোড।
+- শুষ্ক কোষ: জিংকের পাত্র অ্যানোড, কার্বন দণ্ড ক্যাথোড, MnO₂ জারক।
+- ব্যবহৃত ব্যাটারি বিষাক্ত: পুনর্ব্যবহার করো, কখনো ফেলে দিয়ো না বা পোড়ায়ো না।
+## think
+ডেনিয়েল কোষের জিংক অর্ধকোষের বদলে ম্যাগনেসিয়াম অর্ধকোষ (MgSO₄-এ Mg) বসালে ভোল্টেজ বাড়বে না কমবে? কেন?
+## quiz
+? শুষ্ক কোষে কোন পদার্থ জারক হিসেবে কাজ করে?
+- Zn পাত্র
+* MnO₂
+- কার্বন দণ্ড
+- ZnCl₂
+= MnO₂ ইলেকট্রন গ্রহণ করে (Mn: +৪ → +৩), তাই এটি বিজারিত হয় আর জারক হিসেবে কাজ করে।
+? ডেনিয়েল কোষে তারের মধ্য দিয়ে ইলেকট্রন চলে:
+* জিংক থেকে কপারের দিকে
+- কপার থেকে জিংকের দিকে
+- লবণ সেতুর মধ্য দিয়ে
+- দুই দিকেই
+= জিংক জারিত হয়ে ইলেকট্রন ছাড়ে, যা কপার ক্যাথোডে যায়।
+? লবণ সেতুর প্রধান কাজ কী?
+- ইলেকট্রন সরবরাহ করা
+- দুই দ্রবণ মিশিয়ে দেওয়া
+* দুই দ্রবণকে বিদ্যুৎ-নিরপেক্ষ রাখা ও বর্তনী পূর্ণ করা
+- জিংককে দ্রুত দ্রবীভূত করা
+= এর K⁺ ও Cl⁻ আয়ন আধানের সমতা রাখে, ফলে প্রবাহ চলতে থাকে।
+? Zn|Zn²⁺ ও Ag|Ag⁺ দিয়ে গড়া কোষে অ্যানোড:
+* জিংক
+- সিলভার
+- দুটোই
+- লবণ সেতু
+= তড়িৎ রাসায়নিক সারিতে জিংক ওপরে (বেশি সক্রিয়), তাই এটি জারিত হয়।
+
+@@ 8.5
+@visual k8chain
+@related 3.8 3.10 3.5 8.2
+== en
+## what
+In a **nuclear reaction** the **nucleus** of an atom changes, forming new elements and releasing enormous energy. In **fission** a heavy nucleus such as uranium-235 splits into two middle-sized nuclei; in **fusion** light nuclei join to form a heavier one. A controlled fission **chain reaction** in a **nuclear reactor** produces heat that is used to make electricity.
+## simple
+**Chemical reaction vs nuclear reaction.** In every chemical reaction you have studied, only the **outermost electrons** of atoms are shared or transferred; the nucleus is untouched, so a carbon atom stays carbon. In a **nuclear reaction** the electrons play no part: the **nucleus itself** changes, and atoms of a **new element** are formed. The energy involved is millions of times larger than in chemical reactions.
+
+The two most important nuclear reactions are fission and fusion.
+
+**Nuclear fission (splitting).** When a slow-moving **neutron** strikes a uranium-235 nucleus, the nucleus absorbs it, becomes unstable and splits into two nearly equal parts, for example barium-141 and krypton-92, releasing **3 neutrons** and a huge amount of energy:
+
+²³⁵₉₂U + ¹₀n → ¹⁴¹₅₆Ba + ⁹²₃₆Kr + 3¹₀n + huge energy
+
+Check the balance: mass numbers 235 + 1 = 141 + 92 + 3 × 1 = 236; atomic numbers 92 + 0 = 56 + 36 + 0 = 92. In a nuclear equation both totals must match. (Uranium can split in many ways; Ba + Kr is one common example.) Where does the energy come from? The products have slightly **less mass** than the starting materials, and that missing mass is turned into energy (Einstein's E = mc²). One fission releases about 3.2 × 10^{-11} J; that looks tiny, but a gram of uranium-235 contains about 2.6 × 10^{21} atoms.
+
+**Chain reaction.** Each fission releases 3 neutrons, and each of these can split another U-235 nucleus, releasing more neutrons, and so on: 1 → 3 → 9 → 27 → 81 … Once started, the reaction keeps itself going without any outside energy. This is a **chain reaction**. Uncontrolled, the number of fissions grows explosively (this is how an atomic bomb works). In a reactor, the chain is **controlled** so that, on average, exactly **one** neutron from each fission goes on to cause another fission; the power then stays steady.
+
+**Nuclear fusion (joining).** Very light nuclei can join to form a heavier nucleus, again with a loss of mass and a release of energy, for example two deuterium (heavy hydrogen) nuclei:
+
+²₁H + ²₁H → ³₂He + ¹₀n + huge energy
+
+(Mass numbers 2 + 2 = 3 + 1; atomic numbers 1 + 1 = 2 + 0.) Fusion needs temperatures of millions of degrees, because the positive nuclei repel each other strongly. It powers the **Sun** and the stars, and it is the basis of the **hydrogen bomb**. Scientists are still working to make controlled fusion power practical.
+
+**How a nuclear power plant makes electricity**
+- **Fuel rods** containing uranium (enriched in U-235) sit in the reactor core, where the controlled chain reaction takes place.
+- A **moderator** (usually water) slows the neutrons down, because slow neutrons cause fission more easily.
+- **Control rods** (made of neutron-absorbing materials such as boron or cadmium) are raised or lowered to absorb extra neutrons and keep the chain reaction steady, or to shut it down.
+- The fast-moving fission fragments collide with the surrounding atoms and produce intense **heat**.
+- A **coolant** carries this heat to a **steam generator**, where water boils into high-pressure **steam**.
+- The steam spins a **turbine** connected to a **generator**, producing electricity, just as in a coal or gas power station, but with no burning and no CO₂ from the fuel.
+- Thick concrete and steel **shielding** keeps radiation inside.
+
+**Bangladesh and nuclear power.** Bangladesh is building the **Rooppur Nuclear Power Plant** at Ishwardi in Pabna district, with two reactor units of 1200 MW each. When fully running it will add a large amount of reliable electricity to the national grid.
+
+**Advantages and concerns**
+- Advantages: huge energy from very little fuel; no CO₂ or smoke from the reaction; steady power day and night.
+- Concerns: the used fuel stays dangerously **radioactive** for thousands of years and must be stored safely; accidents, though rare, can be very serious (Chernobyl 1986, Fukushima 2011); plants are expensive and need highly trained staff and strict safety rules.
+## analogy
+A fission chain reaction is like a rumour spreading in a school. If every student who hears it tells three friends, soon the whole school knows (an uncontrolled chain). If the teachers make sure each student passes it to only one other person, the rumour travels steadily at the same rate (a controlled reactor). Control rods are those teachers, "catching" the extra neutrons.
+## definition
+**Nuclear reaction (নিউক্লিয়ার বিক্রিয়া)**: a reaction in which the nucleus of an atom changes, forming the nucleus of a new element; electrons take no part.
+
+**Nuclear fission (নিউক্লিয়ার ফিশন)**: the splitting of a heavy nucleus into two lighter nuclei (with neutrons and a large amount of energy), for example when U-235 is struck by a slow neutron.
+
+**Nuclear fusion (নিউক্লিয়ার ফিউশন)**: the joining of light nuclei to form a heavier nucleus, with the release of a large amount of energy.
+
+**Chain reaction (চেইন বিক্রিয়া)**: a reaction that, once started, continues by itself because the neutrons produced in each fission cause further fissions.
+
+**Nuclear reactor (পারমাণবিক চুল্লি)**: a device in which a fission chain reaction is controlled so that its heat can be used, mainly to generate electricity.
+## why
+Why does fission release so much more energy than burning? Burning only rearranges electrons in the outer shells, where the forces involved are relatively weak. Fission rearranges protons and neutrons inside the nucleus, which are held together by the extremely strong nuclear force. When a large nucleus splits into two more tightly bound smaller nuclei, a small fraction of the mass disappears and turns into energy by E = mc²; since c² is enormous (9 × 10^{16} m²/s²), even a tiny loss of mass gives a vast amount of energy.
+## terms
+Nuclear reaction | Reaction in which a nucleus changes into a new one
+Fission | Splitting of a heavy nucleus (U-235) into two lighter nuclei
+Fusion | Joining of light nuclei (²H + ²H) into a heavier one
+Chain reaction | Self-sustaining series of fissions caused by released neutrons
+Moderator | Material (water, graphite) that slows neutrons down
+Control rods | Rods (boron, cadmium) that absorb neutrons to control the reaction
+Nuclear reactor | Device that controls a fission chain reaction to produce heat
+## formula
+$$ ²³⁵₉₂U + ¹₀n → ¹⁴¹₅₆Ba + ⁹²₃₆Kr + 3¹₀n + energy
+$$ ²₁H + ²₁H → ³₂He + ¹₀n + energy
+$$ E = mc²
+! In a nuclear equation, the totals of mass numbers (top) and atomic numbers (bottom) must be equal on both sides.
+! Uncontrolled chain: fissions in each generation multiply (1, 3, 9, 27 …); controlled: stays at 1 per generation.
+## visual
+Fire a neutron at a uranium nucleus and step through the generations. Compare an uncontrolled chain with one where control rods absorb the extra neutrons.
+## real
+The Rooppur Nuclear Power Plant in Pabna is Bangladesh's first nuclear power station. Bangladesh also has a small research reactor at Savar (Atomic Energy Research Establishment), used for research and for producing radioactive isotopes for medicine. The sunlight that grows our rice comes from nuclear fusion in the Sun's core.
+## example
+Q: Show that the fission equation ²³⁵₉₂U + ¹₀n → ¹⁴¹₅₆Ba + ⁹²₃₆Kr + 3¹₀n is balanced.
+Solution: Mass numbers: left 235 + 1 = 236; right 141 + 92 + 3 × 1 = 236.
+Solution: Atomic numbers: left 92 + 0 = 92; right 56 + 36 + 3 × 0 = 92.
+Answer: Both mass numbers and atomic numbers are equal on the two sides, so the equation is balanced.
+## example
+Q: In another fission, ²³⁵₉₂U + ¹₀n → ¹⁴⁰₅₄Xe + ⁹⁴₃₈Sr + x ¹₀n. How many neutrons (x) are released?
+Given: mass numbers must balance
+Calculation: 235 + 1 = 140 + 94 + x → 236 = 234 + x → x = 2; atomic numbers: 92 = 54 + 38 = 92 (balanced)
+Answer: 2 neutrons are released.
+## example
+Q: Each fission of U-235 releases about 3.2 × 10^{-11} J. Estimate the energy from complete fission of 1 g of U-235, and the mass of coal that would give the same energy. (Nₐ = 6.02 × 10^{23}; coal gives about 30 kJ/g)
+Given: M(U-235) = 235 g/mol
+Formula: number of atoms = (1 ÷ 235) × Nₐ; energy = atoms × 3.2 × 10^{-11} J
+Calculation: atoms = 6.02 × 10^{23} ÷ 235 = 2.56 × 10^{21}; energy = 2.56 × 10^{21} × 3.2 × 10^{-11} = 8.2 × 10^{10} J; coal = 8.2 × 10^{10} J ÷ 3.0 × 10^{4} J/g = 2.7 × 10^{6} g
+> 30 kJ/g = 3.0 × 10^{4} J per gram of coal.
+Answer: about 8.2 × 10^{10} J, the same as burning roughly 2.7 tonnes of coal.
+## example
+Q: In an uncontrolled chain reaction every fission causes 3 new fissions. Starting from one fission, how many fissions happen in the 6th generation?
+Formula: fissions in generation n = 3^{n − 1}
+Calculation: 3^{5} = 243
+Answer: 243 fissions (in a controlled reactor it would stay at 1 per generation).
+## mistakes
+x Electrons are exchanged in a nuclear reaction.
+v Electrons play no part; the nucleus itself changes and a new element forms.
+x Fission and fusion are the same.
+v Fission splits a heavy nucleus; fusion joins light nuclei.
+x A nuclear power plant burns uranium like coal.
+v Nothing burns; the heat comes from fission of uranium nuclei, and it is used to make steam that turns a turbine.
+## remember
+- Nuclear reaction: nucleus changes, new element forms, huge energy (E = mc²).
+- Fission: U-235 + slow neutron → Ba + Kr + 3 neutrons + energy.
+- Chain reaction: released neutrons cause more fissions; controlled in reactors by control rods.
+- Fusion: ²H + ²H → ³He + n; powers the Sun, basis of the hydrogen bomb.
+- Reactor: fuel rods, moderator, control rods, coolant → steam → turbine → electricity.
+- Rooppur (Pabna): Bangladesh's nuclear power plant.
+## think
+Nuclear power produces almost no CO₂, but leaves radioactive waste. Would you support building more nuclear plants in Bangladesh? Give one argument for and one against.
+## quiz
+? Which particle is used to strike a U-235 nucleus to start fission?
+- Proton
+- Electron
+- Positron
+* Neutron
+= A slow neutron is absorbed by U-235, which then splits.
+? What is the main difference between a chemical and a nuclear reaction?
+- Chemical reactions release more energy
+* In a nuclear reaction the nucleus changes and a new element forms
+- Nuclear reactions involve only electrons
+- There is no difference
+= Chemical reactions involve outer electrons only; nuclear reactions change the nucleus.
+? What is the job of control rods in a nuclear reactor?
+- To produce neutrons
+- To boil water
+* To absorb extra neutrons and control the chain reaction
+- To speed up the reaction
+= Control rods absorb neutrons so that on average one neutron per fission causes a new fission.
+? ²₁H + ²₁H → ³₂He + X. What is X?
+- A proton
+* A neutron
+- An electron
+- An alpha particle
+= Mass: 4 = 3 + 1; atomic number: 2 = 2 + 0, so X has mass 1 and charge 0: a neutron.
+== bn
+## what
+**নিউক্লিয়ার বিক্রিয়ায়** পরমাণুর **নিউক্লিয়াস** বদলে যায়, নতুন মৌল তৈরি হয় আর বিপুল শক্তি নির্গত হয়। **ফিশনে** ইউরেনিয়াম-২৩৫-এর মতো ভারী নিউক্লিয়াস ভেঙে দুটি মাঝারি আকারের নিউক্লিয়াস হয়; **ফিউশনে** হালকা নিউক্লিয়াস জুড়ে ভারী নিউক্লিয়াস তৈরি হয়। **পারমাণবিক চুল্লিতে** নিয়ন্ত্রিত ফিশন **চেইন বিক্রিয়া** থেকে পাওয়া তাপ দিয়ে বিদ্যুৎ তৈরি হয়।
+## simple
+**রাসায়নিক বিক্রিয়া বনাম নিউক্লিয়ার বিক্রিয়া।** এ পর্যন্ত যত রাসায়নিক বিক্রিয়া পড়েছ, সবগুলোতে শুধু পরমাণুর **সবচেয়ে বাইরের ইলেকট্রন** শেয়ার বা স্থানান্তর হয়; নিউক্লিয়াস অক্ষত থাকে, তাই কার্বন পরমাণু কার্বনই থাকে। **নিউক্লিয়ার বিক্রিয়ায়** ইলেকট্রনের কোনো ভূমিকা নেই: **নিউক্লিয়াসই** বদলে যায় আর **নতুন মৌলের** পরমাণু তৈরি হয়। এতে জড়িত শক্তি রাসায়নিক বিক্রিয়ার চেয়ে লক্ষ লক্ষ গুণ বেশি।
+
+সবচেয়ে গুরুত্বপূর্ণ দুটি নিউক্লিয়ার বিক্রিয়া হলো ফিশন ও ফিউশন।
+
+**নিউক্লিয়ার ফিশন (ভাঙন)।** একটি ধীরগতির **নিউট্রন** ইউরেনিয়াম-২৩৫ নিউক্লিয়াসে আঘাত করলে নিউক্লিয়াস সেটি শোষণ করে অস্থিতিশীল হয় আর প্রায় সমান দুই ভাগে ভেঙে যায়, যেমন বেরিয়াম-১৪১ ও ক্রিপ্টন-৯২, সাথে **৩টি নিউট্রন** আর বিপুল শক্তি বের হয়:
+
+²³⁵₉₂U + ¹₀n → ¹⁴¹₅₆Ba + ⁹²₃₆Kr + 3¹₀n + বিপুল শক্তি
+
+সমতা যাচাই: ভরসংখ্যা ২৩৫ + ১ = ১৪১ + ৯২ + ৩ × ১ = ২৩৬; পারমাণবিক সংখ্যা ৯২ + ০ = ৫৬ + ৩৬ + ০ = ৯২। নিউক্লিয়ার সমীকরণে দুটো যোগফলই মিলতে হবে। (ইউরেনিয়াম নানাভাবে ভাঙতে পারে; Ba + Kr একটি সাধারণ উদাহরণ।) শক্তি আসে কোথা থেকে? উৎপাদগুলোর ভর শুরুর পদার্থের চেয়ে সামান্য **কম**, আর সেই হারানো ভরই শক্তিতে পরিণত হয় (আইনস্টাইনের E = mc²)। একটি ফিশনে প্রায় ৩.২ × ১০^{-১১} J শক্তি বের হয়; সংখ্যাটা ছোট দেখালেও এক গ্রাম ইউরেনিয়াম-২৩৫-এ প্রায় ২.৬ × ১০^{২১}টি পরমাণু থাকে।
+
+**চেইন বিক্রিয়া।** প্রতিটি ফিশনে ৩টি নিউট্রন বের হয়, আর এদের প্রত্যেকটি আরেকটি U-২৩৫ নিউক্লিয়াস ভাঙতে পারে, আরও নিউট্রন বের হয়, এভাবে চলতে থাকে: ১ → ৩ → ৯ → ২৭ → ৮১ … একবার শুরু হলে বাইরের কোনো শক্তি ছাড়াই বিক্রিয়া নিজে নিজে চলতে থাকে। এটাই **চেইন বিক্রিয়া**। অনিয়ন্ত্রিত হলে ফিশনের সংখ্যা বিস্ফোরকভাবে বাড়ে (পারমাণবিক বোমা এভাবেই কাজ করে)। চুল্লিতে চেইনটি **নিয়ন্ত্রণ** করা হয়, যাতে গড়ে প্রতিটি ফিশনের ঠিক **একটি** নিউট্রন পরের ফিশন ঘটায়; তখন শক্তি স্থির থাকে।
+
+**নিউক্লিয়ার ফিউশন (মিলন)।** খুব হালকা নিউক্লিয়াস জুড়ে ভারী নিউক্লিয়াস গড়তে পারে, এতেও ভর কমে আর শক্তি বের হয়, যেমন দুটি ডিউটেরিয়াম (ভারী হাইড্রোজেন) নিউক্লিয়াস:
+
+²₁H + ²₁H → ³₂He + ¹₀n + বিপুল শক্তি
+
+(ভরসংখ্যা ২ + ২ = ৩ + ১; পারমাণবিক সংখ্যা ১ + ১ = ২ + ০।) ফিউশনের জন্য লক্ষ লক্ষ ডিগ্রি তাপমাত্রা লাগে, কারণ ধনাত্মক নিউক্লিয়াসগুলো পরস্পরকে জোরে বিকর্ষণ করে। এটিই **সূর্য** ও নক্ষত্রের শক্তির উৎস, আর **হাইড্রোজেন বোমার** ভিত্তি। নিয়ন্ত্রিত ফিউশন থেকে বিদ্যুৎ পাওয়ার চেষ্টা বিজ্ঞানীরা এখনো করে যাচ্ছেন।
+
+**পারমাণবিক বিদ্যুৎকেন্দ্র কীভাবে বিদ্যুৎ তৈরি করে**
+- ইউরেনিয়ামভরা (U-২৩৫ সমৃদ্ধ) **জ্বালানি দণ্ড** চুল্লির কেন্দ্রে থাকে, যেখানে নিয়ন্ত্রিত চেইন বিক্রিয়া ঘটে।
+- একটি **মন্দক** (সাধারণত পানি) নিউট্রনের গতি কমায়, কারণ ধীর নিউট্রন সহজে ফিশন ঘটায়।
+- **নিয়ন্ত্রক দণ্ড** (বোরন বা ক্যাডমিয়ামের মতো নিউট্রন শোষক পদার্থের তৈরি) ওঠানো-নামানো করে বাড়তি নিউট্রন শোষণ করা হয়, যাতে চেইন বিক্রিয়া স্থির থাকে বা বন্ধ করা যায়।
+- দ্রুতগামী ফিশন-খণ্ডগুলো চারপাশের পরমাণুর সাথে ধাক্কা খেয়ে তীব্র **তাপ** তৈরি করে।
+- একটি **শীতলক** এই তাপ **বাষ্প উৎপাদকে** নিয়ে যায়, সেখানে পানি ফুটে উচ্চচাপের **বাষ্প** হয়।
+- বাষ্প **জেনারেটরের** সাথে যুক্ত **টারবাইন** ঘোরায়, বিদ্যুৎ তৈরি হয়, ঠিক কয়লা বা গ্যাস বিদ্যুৎকেন্দ্রের মতো, তবে কিছু পোড়ে না, আর জ্বালানি থেকে CO₂ বের হয় না।
+- পুরু কংক্রিট ও ইস্পাতের **আবরণ** তেজস্ক্রিয় বিকিরণকে ভেতরে আটকে রাখে।
+
+**বাংলাদেশ ও পারমাণবিক বিদ্যুৎ।** পাবনা জেলার ঈশ্বরদীতে বাংলাদেশ **রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র** তৈরি করছে, যাতে ১২০০ MW করে দুটি চুল্লি ইউনিট আছে। পুরোপুরি চালু হলে এটি জাতীয় গ্রিডে বিপুল পরিমাণ নির্ভরযোগ্য বিদ্যুৎ যোগ করবে।
+
+**সুবিধা ও উদ্বেগ**
+- সুবিধা: খুব অল্প জ্বালানি থেকে বিপুল শক্তি; বিক্রিয়া থেকে CO₂ বা ধোঁয়া নেই; দিনরাত স্থির বিদ্যুৎ।
+- উদ্বেগ: ব্যবহৃত জ্বালানি হাজার হাজার বছর ধরে বিপজ্জনকভাবে **তেজস্ক্রিয়** থাকে, তাই নিরাপদে রাখতে হয়; দুর্ঘটনা বিরল হলেও খুব ভয়াবহ হতে পারে (চেরনোবিল ১৯৮৬, ফুকুশিমা ২০১১); বিদ্যুৎকেন্দ্রগুলো ব্যয়বহুল, আর দরকার উচ্চ প্রশিক্ষিত জনবল ও কঠোর নিরাপত্তা নিয়ম।
+## analogy
+ফিশন চেইন বিক্রিয়া যেন স্কুলে গুজব ছড়ানো। যে শোনে সে যদি তিনজন বন্ধুকে বলে, অল্প সময়েই পুরো স্কুল জেনে যায় (অনিয়ন্ত্রিত চেইন)। শিক্ষকেরা যদি নিশ্চিত করেন প্রত্যেকে মাত্র একজনকে বলবে, তবে গুজব একই হারে স্থিরভাবে চলে (নিয়ন্ত্রিত চুল্লি)। নিয়ন্ত্রক দণ্ড হলো সেই শিক্ষকেরা, যারা বাড়তি নিউট্রনগুলো "ধরে ফেলেন"।
+## definition
+**নিউক্লিয়ার বিক্রিয়া (Nuclear reaction)**: যে বিক্রিয়ায় পরমাণুর নিউক্লিয়াস বদলে নতুন মৌলের নিউক্লিয়াস তৈরি হয়; ইলেকট্রনের কোনো ভূমিকা থাকে না।
+
+**নিউক্লিয়ার ফিশন (Nuclear fission)**: ভারী নিউক্লিয়াস ভেঙে দুটি হালকা নিউক্লিয়াস তৈরি হওয়া (সাথে নিউট্রন ও বিপুল শক্তি), যেমন ধীর নিউট্রন দিয়ে U-২৩৫-কে আঘাত করলে।
+
+**নিউক্লিয়ার ফিউশন (Nuclear fusion)**: হালকা নিউক্লিয়াস জুড়ে ভারী নিউক্লিয়াস তৈরি হওয়া, সাথে বিপুল শক্তি নির্গমন।
+
+**চেইন বিক্রিয়া (Chain reaction)**: যে বিক্রিয়া একবার শুরু হলে নিজে নিজে চলতে থাকে, কারণ প্রতিটি ফিশনে উৎপন্ন নিউট্রন আরও ফিশন ঘটায়।
+
+**পারমাণবিক চুল্লি (Nuclear reactor)**: যে যন্ত্রে ফিশন চেইন বিক্রিয়া নিয়ন্ত্রণ করে এর তাপ কাজে লাগানো হয়, মূলত বিদ্যুৎ উৎপাদনে।
+## why
+পোড়ানোর চেয়ে ফিশনে এত বেশি শক্তি বের হয় কেন? পোড়ানোতে শুধু বাইরের কক্ষপথের ইলেকট্রনগুলো পুনর্বিন্যস্ত হয়, যেখানে বলগুলো তুলনামূলক দুর্বল। ফিশনে পুনর্বিন্যস্ত হয় নিউক্লিয়াসের ভেতরের প্রোটন আর নিউট্রন, যারা অত্যন্ত শক্তিশালী নিউক্লীয় বলে আটকে থাকে। বড় নিউক্লিয়াস ভেঙে দুটি বেশি দৃঢ়ভাবে বাঁধা ছোট নিউক্লিয়াস হলে ভরের সামান্য অংশ হারিয়ে E = mc² অনুযায়ী শক্তি হয়; c² বিশাল (৯ × ১০^{১৬} m²/s²) বলে সামান্য ভর হারালেও বিপুল শক্তি পাওয়া যায়।
+## terms
+নিউক্লিয়ার বিক্রিয়া | যে বিক্রিয়ায় নিউক্লিয়াস বদলে নতুন নিউক্লিয়াস হয়
+ফিশন | ভারী নিউক্লিয়াসের (U-২৩৫) দুটি হালকা নিউক্লিয়াসে ভাঙন
+ফিউশন | হালকা নিউক্লিয়াসের (²H + ²H) মিলে ভারী নিউক্লিয়াস গঠন
+চেইন বিক্রিয়া | নির্গত নিউট্রনের মাধ্যমে নিজে নিজে চলতে থাকা ফিশনের ধারা
+মন্দক | নিউট্রনের গতি কমানো পদার্থ (পানি, গ্রাফাইট)
+নিয়ন্ত্রক দণ্ড | নিউট্রন শোষণ করে বিক্রিয়া নিয়ন্ত্রণকারী দণ্ড (বোরন, ক্যাডমিয়াম)
+পারমাণবিক চুল্লি | ফিশন চেইন বিক্রিয়া নিয়ন্ত্রণ করে তাপ উৎপাদনের যন্ত্র
+## formula
+$$ ²³⁵₉₂U + ¹₀n → ¹⁴¹₅₆Ba + ⁹²₃₆Kr + 3¹₀n + শক্তি
+$$ ²₁H + ²₁H → ³₂He + ¹₀n + শক্তি
+$$ E = mc²
+! নিউক্লিয়ার সমীকরণে দুই পাশে ভরসংখ্যার (ওপরে) আর পারমাণবিক সংখ্যার (নিচে) যোগফল সমান হতে হবে।
+! অনিয়ন্ত্রিত চেইন: প্রতি প্রজন্মে ফিশন গুণ হয়ে বাড়ে (১, ৩, ৯, ২৭ …); নিয়ন্ত্রিত: প্রতি প্রজন্মে ১-এই থাকে।
+## visual
+একটি ইউরেনিয়াম নিউক্লিয়াসে নিউট্রন ছোড়ো আর ধাপে ধাপে প্রজন্মগুলো দেখো। অনিয়ন্ত্রিত চেইনের সাথে তুলনা করো সেই চেইনের, যেখানে নিয়ন্ত্রক দণ্ড বাড়তি নিউট্রন শোষণ করে।
+## real
+পাবনার রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র বাংলাদেশের প্রথম পারমাণবিক বিদ্যুৎকেন্দ্র। সাভারের পরমাণু শক্তি গবেষণা প্রতিষ্ঠানে বাংলাদেশের একটি ছোট গবেষণা চুল্লিও আছে, যা গবেষণা আর চিকিৎসার জন্য তেজস্ক্রিয় আইসোটোপ তৈরিতে ব্যবহৃত হয়। আমাদের ধান ফলানো সূর্যের আলো আসে সূর্যের কেন্দ্রের নিউক্লিয়ার ফিউশন থেকে।
+## example
+প্রশ্ন: দেখাও যে ফিশন সমীকরণ ²³⁵₉₂U + ¹₀n → ¹⁴¹₅₆Ba + ⁹²₃₆Kr + 3¹₀n সমতাকৃত।
+সমাধান: ভরসংখ্যা: বামে ২৩৫ + ১ = ২৩৬; ডানে ১৪১ + ৯২ + ৩ × ১ = ২৩৬।
+সমাধান: পারমাণবিক সংখ্যা: বামে ৯২ + ০ = ৯২; ডানে ৫৬ + ৩৬ + ৩ × ০ = ৯২।
+উত্তর: দুই পাশে ভরসংখ্যা ও পারমাণবিক সংখ্যা দুটোই সমান, তাই সমীকরণটি সমতাকৃত।
+## example
+প্রশ্ন: আরেকটি ফিশনে ²³⁵₉₂U + ¹₀n → ¹⁴⁰₅₄Xe + ⁹⁴₃₈Sr + x ¹₀n। কয়টি নিউট্রন (x) নির্গত হয়?
+দেওয়া আছে: ভরসংখ্যা সমান হতে হবে
+হিসাব: ২৩৫ + ১ = ১৪০ + ৯৪ + x → ২৩৬ = ২৩৪ + x → x = ২; পারমাণবিক সংখ্যা: ৯২ = ৫৪ + ৩৮ = ৯২ (সমান)
+উত্তর: ২টি নিউট্রন নির্গত হয়।
+## example
+প্রশ্ন: U-২৩৫-এর প্রতিটি ফিশনে প্রায় ৩.২ × ১০^{-১১} J শক্তি বের হয়। ১ g U-২৩৫ সম্পূর্ণ ফিশন হলে কত শক্তি পাওয়া যাবে, আর সমান শক্তি দিতে কত কয়লা লাগবে আন্দাজ করো। (Nₐ = ৬.০২ × ১০^{২৩}; কয়লা প্রায় ৩০ kJ/g দেয়)
+দেওয়া আছে: M(U-২৩৫) = ২৩৫ g/mol
+সূত্র: পরমাণুর সংখ্যা = (১ ÷ ২৩৫) × Nₐ; শক্তি = পরমাণু × ৩.২ × ১০^{-১১} J
+হিসাব: পরমাণু = ৬.০২ × ১০^{২৩} ÷ ২৩৫ = ২.৫৬ × ১০^{২১}; শক্তি = ২.৫৬ × ১০^{২১} × ৩.২ × ১০^{-১১} = ৮.২ × ১০^{১০} J; কয়লা = ৮.২ × ১০^{১০} J ÷ ৩.০ × ১০^{৪} J/g = ২.৭ × ১০^{৬} g
+> ৩০ kJ/g = প্রতি গ্রাম কয়লায় ৩.০ × ১০^{৪} J।
+উত্তর: প্রায় ৮.২ × ১০^{১০} J, যা প্রায় ২.৭ টন কয়লা পোড়ানোর সমান।
+## example
+প্রশ্ন: একটি অনিয়ন্ত্রিত চেইন বিক্রিয়ায় প্রতিটি ফিশন ৩টি নতুন ফিশন ঘটায়। একটি ফিশন দিয়ে শুরু করলে ষষ্ঠ প্রজন্মে কয়টি ফিশন ঘটবে?
+সূত্র: n-তম প্রজন্মে ফিশন = ৩^{n − ১}
+হিসাব: ৩^{৫} = ২৪৩
+উত্তর: ২৪৩টি ফিশন (নিয়ন্ত্রিত চুল্লিতে প্রতি প্রজন্মে ১টিই থাকত)।
+## mistakes
+x নিউক্লিয়ার বিক্রিয়ায় ইলেকট্রন বিনিময় হয়।
+v ইলেকট্রনের কোনো ভূমিকা নেই; নিউক্লিয়াসই বদলে যায় আর নতুন মৌল তৈরি হয়।
+x ফিশন আর ফিউশন একই জিনিস।
+v ফিশনে ভারী নিউক্লিয়াস ভাঙে; ফিউশনে হালকা নিউক্লিয়াস জোড়া লাগে।
+x পারমাণবিক বিদ্যুৎকেন্দ্রে কয়লার মতো ইউরেনিয়াম পোড়ানো হয়।
+v কিছুই পোড়ে না; তাপ আসে ইউরেনিয়াম নিউক্লিয়াসের ফিশন থেকে, আর সেই তাপে বাষ্প তৈরি করে টারবাইন ঘোরানো হয়।
+## remember
+- নিউক্লিয়ার বিক্রিয়া: নিউক্লিয়াস বদলায়, নতুন মৌল হয়, বিপুল শক্তি (E = mc²)।
+- ফিশন: U-২৩৫ + ধীর নিউট্রন → Ba + Kr + ৩টি নিউট্রন + শক্তি।
+- চেইন বিক্রিয়া: নির্গত নিউট্রন আরও ফিশন ঘটায়; চুল্লিতে নিয়ন্ত্রক দণ্ড দিয়ে নিয়ন্ত্রিত।
+- ফিউশন: ²H + ²H → ³He + n; সূর্যের শক্তির উৎস, হাইড্রোজেন বোমার ভিত্তি।
+- চুল্লি: জ্বালানি দণ্ড, মন্দক, নিয়ন্ত্রক দণ্ড, শীতলক → বাষ্প → টারবাইন → বিদ্যুৎ।
+- রূপপুর (পাবনা): বাংলাদেশের পারমাণবিক বিদ্যুৎকেন্দ্র।
+## think
+পারমাণবিক বিদ্যুৎ প্রায় কোনো CO₂ তৈরি করে না, কিন্তু তেজস্ক্রিয় বর্জ্য রেখে যায়। বাংলাদেশে আরও পারমাণবিক বিদ্যুৎকেন্দ্র তৈরির পক্ষে কি তুমি? পক্ষে একটি আর বিপক্ষে একটি যুক্তি দাও।
+## quiz
+? ফিশন শুরু করতে U-২৩৫ নিউক্লিয়াসে আঘাত করতে কোন কণা ব্যবহার করা হয়?
+- প্রোটন
+- ইলেকট্রন
+- পজিট্রন
+* নিউট্রন
+= U-২৩৫ একটি ধীর নিউট্রন শোষণ করে তারপর ভেঙে যায়।
+? রাসায়নিক ও নিউক্লিয়ার বিক্রিয়ার প্রধান পার্থক্য কী?
+- রাসায়নিক বিক্রিয়ায় বেশি শক্তি বের হয়
+* নিউক্লিয়ার বিক্রিয়ায় নিউক্লিয়াস বদলে নতুন মৌল তৈরি হয়
+- নিউক্লিয়ার বিক্রিয়ায় শুধু ইলেকট্রন জড়িত
+- কোনো পার্থক্য নেই
+= রাসায়নিক বিক্রিয়ায় শুধু বাইরের ইলেকট্রন জড়িত; নিউক্লিয়ার বিক্রিয়ায় নিউক্লিয়াস বদলায়।
+? পারমাণবিক চুল্লিতে নিয়ন্ত্রক দণ্ডের কাজ কী?
+- নিউট্রন তৈরি করা
+- পানি ফোটানো
+* বাড়তি নিউট্রন শোষণ করে চেইন বিক্রিয়া নিয়ন্ত্রণ করা
+- বিক্রিয়ার গতি বাড়ানো
+= নিয়ন্ত্রক দণ্ড নিউট্রন শোষণ করে, যাতে গড়ে প্রতি ফিশনের একটি নিউট্রন নতুন ফিশন ঘটায়।
+? ²₁H + ²₁H → ³₂He + X। X কী?
+- প্রোটন
+* নিউট্রন
+- ইলেকট্রন
+- আলফা কণা
+= ভর: ৪ = ৩ + ১; পারমাণবিক সংখ্যা: ২ = ২ + ০, তাই X-এর ভর ১ আর আধান ০: নিউট্রন।

@@ -1,0 +1,1743 @@
+@@chapter
+== en
+## intro
+You see a tree, a friend's face or the words on this page only because light bounces off them and enters your eyes. That bouncing back of light is called **reflection**, and it is behind every mirror, every shiny spoon, a car's rear-view mirror and even the colour of a rose.
+
+In this chapter you will learn what light is (an electromagnetic wave), the two laws of reflection, why objects have colours, how a plane mirror forms an image, and how curved (spherical) mirrors, concave and convex, can make images that are bigger, smaller, upright, upside down, real or virtual. You will also use the mirror formula and magnification, and see where mirrors are used in daily life.
+## objectives
+- explain the nature of light and the visible spectrum
+- state and use the two laws of reflection
+- explain the colour of objects, and regular and diffuse reflection
+- explain real and virtual images and the image in a plane mirror
+- define the key terms of spherical mirrors and show that f = r/2
+- draw ray diagrams for images in convex and concave mirrors
+- use the mirror formula 1/u + 1/v = 1/f and magnification m
+- describe the uses of plane, convex and concave mirrors
+== bn
+## intro
+তুমি গাছ, বন্ধুর মুখ বা এই পাতার লেখা দেখতে পাও শুধু এজন্যই যে আলো সেগুলোতে পড়ে ফিরে এসে তোমার চোখে ঢোকে। আলোর এভাবে ফিরে আসাকে বলে **প্রতিফলন**। প্রতিটি আয়না, চকচকে চামচ, গাড়ির পেছন দেখার আয়না, এমনকি গোলাপের লাল রঙের পেছনেও আছে এই প্রতিফলন।
+
+এই অধ্যায়ে শিখবে আলো কী (বিদ্যুৎ চৌম্বকীয় তরঙ্গ), প্রতিফলনের দুটি সূত্র, বস্তুর রং কেন হয়, সমতল আয়নায় কীভাবে প্রতিবিম্ব তৈরি হয়, আর বাঁকা (গোলীয়) আয়না, অর্থাৎ অবতল ও উত্তল আয়না কীভাবে বড়, ছোট, সোজা, উল্টো, বাস্তব বা অবাস্তব প্রতিবিম্ব তৈরি করে। সাথে আয়নার সূত্র ও বিবর্ধন ব্যবহার করবে, আর দেখবে দৈনন্দিন জীবনে আয়না কোথায় কাজে লাগে।
+## objectives
+- আলোর প্রকৃতি ও দৃশ্যমান বর্ণালী ব্যাখ্যা করতে পারবে
+- প্রতিফলনের দুটি সূত্র বলতে ও ব্যবহার করতে পারবে
+- বস্তুর রং এবং নিয়মিত ও ব্যাপ্ত প্রতিফলন ব্যাখ্যা করতে পারবে
+- বাস্তব ও অবাস্তব প্রতিবিম্ব এবং সমতল আয়নার প্রতিবিম্ব ব্যাখ্যা করতে পারবে
+- গোলীয় আয়নার প্রয়োজনীয় সংজ্ঞাগুলো দিতে এবং f = r/২ দেখাতে পারবে
+- উত্তল ও অবতল আয়নায় প্রতিবিম্বের রশ্মিচিত্র আঁকতে পারবে
+- আয়নার সূত্র ১/u + ১/v = ১/f ও বিবর্ধন m ব্যবহার করতে পারবে
+- সমতল, উত্তল ও অবতল আয়নার ব্যবহার বর্ণনা করতে পারবে
+
+@@ 8.1
+@visual c8spectrum
+@related 8.2 7.2 7.2.3 9.1
+== en
+## what
+Light is an **electromagnetic wave**: a wave of electric and magnetic fields that needs no medium. Our eyes can see only the small band of wavelengths from about **400 nm to 700 nm**, which we call visible light.
+## simple
+When you look at a tree, the tree is not light. Sunlight falls on the tree, some of it bounces off and enters your eye. The retina turns that light into signals, and your brain works out "that is a tree". So **seeing always starts with light entering the eye**.
+
+In the last chapter you met waves on water and on a rope. Light is also a wave, but a very special one: it is made of changing **electric and magnetic fields**. Such a wave can make itself move forward on its own, so light **does not need any medium**. That is how sunlight crosses the empty space between the Sun and the Earth.
+
+Like every periodic wave, light has a **wavelength**. Electromagnetic waves can have almost any wavelength: longer than several kilometres or shorter than a trillionth of a metre. Our eyes can detect only a tiny slice:
+
+- about **400 nm** looks **violet**; as the wavelength grows it becomes **blue, green, yellow, orange** and finally **red** at about **700 nm**. (1 nm = 10^{-9} m)
+- Shorter than violet: **ultraviolet**, then **X-rays**, then **gamma rays** (which come from radioactive nuclei).
+- Longer than red: **infrared**, then **microwaves**, then **radio waves**.
+
+Our eyes are not equally sensitive to all colours: they are most sensitive to yellow-green light in the middle of the range and much less to deep violet and deep red. Some insects and other animals can see a little beyond our range.
+## analogy
+Light is like the message of a radio station, only at a frequency our eyes can pick up. Radio, microwaves, light, X-rays are all the same kind of wave (electromagnetic), just with different wavelengths, like the different stations on one radio dial. Our eyes are tuned to only a tiny band: 400–700 nm.
+## definition
+**Light**: an electromagnetic, periodic wave, made of electric and magnetic fields, that can travel even through a vacuum. The part of the electromagnetic spectrum with wavelengths from about 400 nm to 700 nm, which the human eye can see, is called **visible light**.
+## why
+Why can light cross empty space when sound cannot? Sound needs particles of air to push each other. Light is not a push on particles; a changing electric field creates a magnetic field, and a changing magnetic field creates an electric field, so the wave keeps itself going without any material.
+## terms
+Electromagnetic wave | Wave of electric and magnetic fields; needs no medium
+Wavelength (λ) | Distance between two neighbouring crests of a wave
+Visible light | Wavelengths about 400–700 nm, seen by the eye
+Spectrum | The full range of wavelengths (or colours) spread out
+Ultraviolet | Just shorter than violet; invisible to us
+Infrared | Just longer than red; invisible to us
+## formula
+$$ c = fλ
+tri c | f | λ
+c | speed of light in vacuum (about 3 × 10^{8}) | m/s
+f | frequency | Hz
+λ | wavelength | m
+! Visible range: λ ≈ 400 nm (violet) to 700 nm (red); 1 nm = 10^{-9} m
+## visual
+Slide the wavelength from gamma rays to radio waves. Watch where the narrow visible band sits, and what colour each visible wavelength looks.
+## real
+A TV remote sends infrared light, which your eye cannot see. Point the remote at your mobile phone camera and press a button: the camera sensor picks up some infrared, so you see the bulb flashing on the screen. Hold an old CD in sunlight and you will see the whole rainbow of colours on a nearby wall: the fine grooves on the CD separate the colours.
+## example
+Q: Red light has a wavelength of 700 nm. Find its frequency. (c = 3 × 10^{8} m/s)
+Given: λ = 700 nm = 700 × 10^{-9} m = 7 × 10^{-7} m
+Formula: c = fλ → f = c ÷ λ
+Substitution: f = (3 × 10^{8}) ÷ (7 × 10^{-7})
+Calculation: f ≈ 4.29 × 10^{14} Hz
+> This is the same wave equation v = fλ you used for sound in [[7.2.3|wave-related quantities]].
+Answer: about 4.3 × 10^{14} Hz
+## example
+Q: Violet light has a wavelength of 400 nm. Is its frequency higher or lower than red light's? Find it.
+Given: λ = 4 × 10^{-7} m, c = 3 × 10^{8} m/s
+Calculation: f = (3 × 10^{8}) ÷ (4 × 10^{-7}) = 7.5 × 10^{14} Hz
+> The speed is the same for all colours in vacuum, so a shorter wavelength means a higher frequency.
+Answer: 7.5 × 10^{14} Hz, higher than red.
+## mistakes
+x Light needs air to travel, like sound.
+v Light is an electromagnetic wave and can travel through a vacuum.
+x Infrared and ultraviolet are colours we cannot quite notice.
+v They are electromagnetic waves outside the visible range; the human eye cannot see them at all.
+x We see objects because light comes out of our eyes.
+v Light from a source bounces off the object and enters our eyes.
+## remember
+- Light is an electromagnetic wave; it needs no medium.
+- Visible light: about 400 nm (violet) to 700 nm (red).
+- Shorter than visible: ultraviolet → X-ray → gamma ray. Longer: infrared → microwave → radio wave.
+- c = fλ; shorter wavelength → higher frequency.
+## think
+Bees can see ultraviolet light. Could a flower that looks plain white to you look patterned to a bee?
+## quiz
+? Visible light has wavelengths of about:
+- 4 nm to 7 nm
+* 400 nm to 700 nm
+- 400 m to 700 m
+- 4 mm to 7 mm
+= The eye sees wavelengths from about 400 nm to 700 nm.
+? Which colour has the shortest wavelength?
+- Red
+- Yellow
+- Green
+* Violet
+= Violet (about 400 nm) is at the short end of the visible range.
+? Light can travel through a vacuum because it is:
+- A sound wave
+* An electromagnetic wave
+- A wave on water
+- Made of air particles
+= Electric and magnetic fields keep the wave going without a medium.
+== bn
+## what
+আলো হলো **বিদ্যুৎ চৌম্বকীয় তরঙ্গ**: বিদ্যুৎ ও চৌম্বক ক্ষেত্রের এমন একটি তরঙ্গ, যার চলতে কোনো মাধ্যম লাগে না। আমাদের চোখ দেখতে পায় শুধু প্রায় **৪০০ nm থেকে ৭০০ nm** তরঙ্গদৈর্ঘ্যের ছোট্ট একটি অংশ, একেই বলি দৃশ্যমান আলো।
+## simple
+তুমি যখন একটা গাছের দিকে তাকাও, গাছটা কিন্তু আলো নয়। সূর্যের আলো গাছে পড়ে, তার কিছুটা ফিরে এসে তোমার চোখে ঢোকে। চোখের রেটিনা সেই আলোকে সংকেতে বদলে দেয়, আর মস্তিষ্ক বুঝে নেয় "এটা গাছ"। তাই **দেখা সবসময় শুরু হয় চোখে আলো ঢোকা থেকে**।
+
+আগের অধ্যায়ে পানির ঢেউ আর দড়ির তরঙ্গ দেখেছ। আলোও তরঙ্গ, তবে খুব বিশেষ ধরনের: এটি পরিবর্তনশীল **বিদ্যুৎ ও চৌম্বক ক্ষেত্র** দিয়ে তৈরি। এমন তরঙ্গ নিজেই নিজেকে সামনে এগিয়ে নিতে পারে, তাই আলোর **কোনো মাধ্যম লাগে না**। এভাবেই সূর্যের আলো সূর্য আর পৃথিবীর মাঝের ফাঁকা মহাশূন্য পার হয়ে আসে।
+
+সব পর্যাবৃত্ত তরঙ্গের মতো আলোরও **তরঙ্গদৈর্ঘ্য** আছে। বিদ্যুৎ চৌম্বকীয় তরঙ্গের তরঙ্গদৈর্ঘ্য প্রায় যেকোনো মানের হতে পারে: কয়েক কিলোমিটারের চেয়েও বড়, আবার এক মিটারের এক ট্রিলিয়ন ভাগের চেয়েও ছোট। আমাদের চোখ ধরতে পারে তার খুব ছোট একটা টুকরো:
+
+- প্রায় **৪০০ nm** দেখায় **বেগুনি**; তরঙ্গদৈর্ঘ্য বাড়লে হয় **নীল, সবুজ, হলুদ, কমলা**, আর প্রায় **৭০০ nm**-এ শেষে **লাল**। (১ nm = ১০^{-৯} m)
+- বেগুনির চেয়ে ছোট: **অতিবেগুনি**, তারপর **এক্স-রে**, তারপর **গামা রে** (যা তেজস্ক্রিয় নিউক্লিয়াস থেকে বের হয়)।
+- লালের চেয়ে বড়: **অবলোহিত (ইনফ্রারেড)**, তারপর **মাইক্রোওয়েভ**, তারপর **রেডিও তরঙ্গ**।
+
+সব রঙে আমাদের চোখ সমান সংবেদনশীল নয়: মাঝামাঝি হলদে-সবুজ আলোতে সবচেয়ে বেশি, আর গাঢ় বেগুনি ও গাঢ় লালে অনেক কম। কিছু পোকামাকড় ও অন্য প্রাণী আমাদের সীমার একটু বাইরেও দেখতে পায়।
+## analogy
+আলো যেন রেডিও স্টেশনের সম্প্রচার, শুধু এমন কম্পাঙ্কে যা আমাদের চোখ ধরতে পারে। রেডিও, মাইক্রোওয়েভ, আলো, এক্স-রে সবই একই ধরনের তরঙ্গ (তড়িৎচৌম্বক), শুধু তরঙ্গদৈর্ঘ্য ভিন্ন, ঠিক একটি রেডিওর ডায়ালে ভিন্ন স্টেশনের মতো। আমাদের চোখ শুধু একটি ছোট্ট অংশ ধরতে পারে: ৪০০–৭০০ nm।
+## definition
+**আলো**: বিদ্যুৎ ও চৌম্বক ক্ষেত্র দিয়ে তৈরি একটি পর্যাবৃত্ত বিদ্যুৎ চৌম্বকীয় তরঙ্গ, যা শূন্য মাধ্যমেও চলতে পারে। বিদ্যুৎ চৌম্বকীয় বর্ণালীর যে অংশের তরঙ্গদৈর্ঘ্য প্রায় ৪০০ nm থেকে ৭০০ nm এবং যা মানুষের চোখ দেখতে পায়, তাকে বলে **দৃশ্যমান আলো**।
+## why
+শব্দ ফাঁকা জায়গা পার হতে পারে না, আলো পারে কেন? শব্দের জন্য বাতাসের কণাদের একে অপরকে ধাক্কা দিতে হয়। আলো কণার ধাক্কা নয়; পরিবর্তনশীল বিদ্যুৎ ক্ষেত্র চৌম্বক ক্ষেত্র তৈরি করে, আর পরিবর্তনশীল চৌম্বক ক্ষেত্র বিদ্যুৎ ক্ষেত্র তৈরি করে, তাই কোনো পদার্থ ছাড়াই তরঙ্গটি চলতে থাকে।
+## terms
+বিদ্যুৎ চৌম্বকীয় তরঙ্গ | বিদ্যুৎ ও চৌম্বক ক্ষেত্রের তরঙ্গ; মাধ্যম লাগে না
+তরঙ্গদৈর্ঘ্য (λ) | তরঙ্গের পাশাপাশি দুটি চূড়ার মধ্যবর্তী দূরত্ব
+দৃশ্যমান আলো | প্রায় ৪০০–৭০০ nm তরঙ্গদৈর্ঘ্য, যা চোখে দেখা যায়
+বর্ণালী | ছড়িয়ে সাজানো তরঙ্গদৈর্ঘ্যের (বা রঙের) পুরো পরিসর
+অতিবেগুনি | বেগুনির চেয়ে একটু ছোট তরঙ্গদৈর্ঘ্য; আমাদের কাছে অদৃশ্য
+অবলোহিত | লালের চেয়ে একটু বড় তরঙ্গদৈর্ঘ্য; আমাদের কাছে অদৃশ্য
+## formula
+$$ c = fλ
+tri c | f | λ
+c | শূন্য মাধ্যমে আলোর বেগ (প্রায় ৩ × ১০^{৮}) | m/s
+f | কম্পাঙ্ক | Hz
+λ | তরঙ্গদৈর্ঘ্য | m
+! দৃশ্যমান পরিসর: λ ≈ ৪০০ nm (বেগুনি) থেকে ৭০০ nm (লাল); ১ nm = ১০^{-৯} m
+## visual
+তরঙ্গদৈর্ঘ্য গামা রে থেকে রেডিও তরঙ্গ পর্যন্ত সরাও। দেখো সরু দৃশ্যমান অংশটা কোথায় বসে আছে, আর প্রতিটি দৃশ্যমান তরঙ্গদৈর্ঘ্য কোন রঙের দেখায়।
+## real
+টিভির রিমোট অবলোহিত আলো পাঠায়, যা তোমার চোখ দেখতে পায় না। রিমোটটা মোবাইলের ক্যামেরার দিকে তাক করে বোতাম চাপো: ক্যামেরার সেন্সর কিছুটা অবলোহিত আলো ধরতে পারে, তাই পর্দায় বাল্বটা জ্বলতে-নিভতে দেখবে। একটা পুরোনো সিডি রোদে ধরলে পাশের দেয়ালে রংধনুর সব রং দেখবে: সিডির সূক্ষ্ম খাঁজগুলো রংগুলোকে আলাদা করে দেয়।
+## example
+প্রশ্ন: লাল আলোর তরঙ্গদৈর্ঘ্য ৭০০ nm। এর কম্পাঙ্ক বের করো। (c = ৩ × ১০^{৮} m/s)
+দেওয়া আছে: λ = ৭০০ nm = ৭০০ × ১০^{-৯} m = ৭ × ১০^{-৭} m
+সূত্র: c = fλ → f = c ÷ λ
+মান বসাই: f = (৩ × ১০^{৮}) ÷ (৭ × ১০^{-৭})
+হিসাব: f ≈ ৪.২৯ × ১০^{১৪} Hz
+> শব্দের জন্য [[7.2.3|তরঙ্গ-সংশ্লিষ্ট রাশি]] পাঠে যে v = fλ ব্যবহার করেছিলে, এটি সেই একই তরঙ্গ সমীকরণ।
+উত্তর: প্রায় ৪.৩ × ১০^{১৪} Hz
+## example
+প্রশ্ন: বেগুনি আলোর তরঙ্গদৈর্ঘ্য ৪০০ nm। এর কম্পাঙ্ক লাল আলোর চেয়ে বেশি না কম? বের করো।
+দেওয়া আছে: λ = ৪ × ১০^{-৭} m, c = ৩ × ১০^{৮} m/s
+হিসাব: f = (৩ × ১০^{৮}) ÷ (৪ × ১০^{-৭}) = ৭.৫ × ১০^{১৪} Hz
+> শূন্য মাধ্যমে সব রঙের বেগ সমান, তাই তরঙ্গদৈর্ঘ্য ছোট মানে কম্পাঙ্ক বেশি।
+উত্তর: ৭.৫ × ১০^{১৪} Hz, লালের চেয়ে বেশি।
+## mistakes
+x শব্দের মতো আলো চলতেও বাতাস লাগে।
+v আলো বিদ্যুৎ চৌম্বকীয় তরঙ্গ, শূন্য মাধ্যমেও চলতে পারে।
+x অবলোহিত আর অতিবেগুনি এমন রং, যা আমরা ঠিকমতো খেয়াল করি না।
+v এগুলো দৃশ্যমান সীমার বাইরের বিদ্যুৎ চৌম্বকীয় তরঙ্গ; মানুষের চোখ এদের একেবারেই দেখতে পায় না।
+x আমাদের চোখ থেকে আলো বের হয় বলে আমরা দেখি।
+v উৎসের আলো বস্তুতে পড়ে ফিরে এসে আমাদের চোখে ঢোকে।
+## remember
+- আলো বিদ্যুৎ চৌম্বকীয় তরঙ্গ; মাধ্যম লাগে না।
+- দৃশ্যমান আলো: প্রায় ৪০০ nm (বেগুনি) থেকে ৭০০ nm (লাল)।
+- দৃশ্যমানের চেয়ে ছোট: অতিবেগুনি → এক্স-রে → গামা রে। বড়: অবলোহিত → মাইক্রোওয়েভ → রেডিও তরঙ্গ।
+- c = fλ; তরঙ্গদৈর্ঘ্য ছোট → কম্পাঙ্ক বেশি।
+## think
+মৌমাছি অতিবেগুনি আলো দেখতে পায়। তোমার চোখে একদম সাদা দেখানো একটি ফুল কি মৌমাছির চোখে নকশাকাটা দেখাতে পারে?
+## quiz
+? দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্য প্রায়:
+- ৪ nm থেকে ৭ nm
+* ৪০০ nm থেকে ৭০০ nm
+- ৪০০ m থেকে ৭০০ m
+- ৪ mm থেকে ৭ mm
+= চোখ প্রায় ৪০০ nm থেকে ৭০০ nm তরঙ্গদৈর্ঘ্য দেখতে পায়।
+? কোন রঙের তরঙ্গদৈর্ঘ্য সবচেয়ে ছোট?
+- লাল
+- হলুদ
+- সবুজ
+* বেগুনি
+= বেগুনি (প্রায় ৪০০ nm) দৃশ্যমান পরিসরের ছোট প্রান্তে।
+? আলো শূন্য মাধ্যমে চলতে পারে কারণ এটি:
+- শব্দতরঙ্গ
+* বিদ্যুৎ চৌম্বকীয় তরঙ্গ
+- পানির ঢেউ
+- বাতাসের কণা দিয়ে তৈরি
+= বিদ্যুৎ ও চৌম্বক ক্ষেত্র মাধ্যম ছাড়াই তরঙ্গটিকে চালিয়ে নেয়।
+
+@@ 8.2
+@visual c8law
+@related 8.1 8.2.2 8.3 9.1.1
+== en
+## what
+**Reflection** is the returning of part of the light to the first medium when it falls on the surface of a second medium. It obeys two laws; the most famous is: **angle of reflection = angle of incidence**.
+## simple
+When light travelling in one medium (say air) meets another medium (say glass or water), three things happen together:
+
+- some light **bounces back** into the first medium: **reflection**;
+- some light **enters** the second medium, bending as it goes: **refraction** (next chapter);
+- some light is **absorbed** (turned into heat) at the surface: **absorption**.
+
+A mirror is special only because it reflects almost all the light. But reflection happens at every surface: a window pane, a pond, even your desk.
+
+**Naming the parts.** Imagine a ray of light hitting a flat surface at a point O.
+
+- The ray coming in is the **incident ray**.
+- The ray going out is the **reflected ray**.
+- The line drawn at O **perpendicular** to the surface is the **normal**.
+- The angle between the incident ray and the normal is the **angle of incidence (i)**.
+- The angle between the reflected ray and the normal is the **angle of reflection (r)**.
+
+Notice: both angles are measured from the **normal**, not from the surface.
+
+**The two laws of reflection:**
+
+1. The incident ray, the normal at the point of incidence, and the reflected ray all lie in the **same plane**.
+2. The **angle of reflection is equal to the angle of incidence**: r = i.
+
+A ray that hits the surface straight along the normal (i = 0) comes straight back along the same path (r = 0).
+
+**Two parallel mirrors.** Put a candle between two mirrors that face each other. Each mirror shows an image of the candle, and each mirror also shows the image of the image in the other mirror, and so on: you see a long row of images going on without end (in practice they get dimmer, because a little light is lost at every reflection).
+## analogy
+Light bouncing off a mirror behaves like a ball bouncing off a smooth floor with no spin: it leaves at the same angle it came in. If you roll a marble at a wall at 30°, it comes back at 30° on the other side. That's the law of reflection: angle of incidence = angle of reflection.
+## definition
+**Reflection of light**: when light travelling in one medium falls on the surface of another medium and part of it returns to the first medium, the process is called reflection.
+
+**Laws of reflection:**
+1. The incident ray, the normal at the point of incidence and the reflected ray lie in the same plane.
+2. The angle of reflection is equal to the angle of incidence.
+## why
+Why must we measure angles from the normal? Because the normal is the one direction that is the same whatever way the surface is turned; the law r = i then works for a flat mirror, a tilted mirror or a tiny patch of a curved mirror (where the normal is the radius). That is how we will use the same law for spherical mirrors later.
+## terms
+Incident ray | The ray falling on the surface
+Reflected ray | The ray going back after reflection
+Normal | Line perpendicular to the surface at the point of incidence
+Angle of incidence (i) | Angle between the incident ray and the normal
+Angle of reflection (r) | Angle between the reflected ray and the normal
+Refraction | Light entering the second medium and bending
+Absorption | Light taken in by the surface (becomes heat)
+## formula
+$$ r = i
+i | angle of incidence (from the normal) | degree (°)
+r | angle of reflection (from the normal) | degree (°)
+! If a ray makes angle θ with the mirror surface, its angle of incidence is i = 90° − θ.
+## visual
+Drag the incident ray (or use the slider). The reflected ray always makes the same angle with the normal.
+## real
+When you shine a torch on a mirror in a dark room, you can move the torch and predict exactly where the bright spot will land on the wall, using r = i. Snooker and carrom players use the same idea: a ball bouncing off the cushion leaves at the same angle it came in.
+## example
+Q: A ray strikes a plane mirror making an angle of 30° with the mirror surface. Find the angle of incidence, the angle of reflection and the angle between the incident and reflected rays.
+Given: angle with the surface = 30°
+Calculation: i = 90° − 30° = 60°; r = i = 60°; angle between the rays = i + r = 120°
+> Angles in the laws are measured from the normal, so first convert the 30° to 60°.
+Answer: i = 60°, r = 60°, angle between the rays = 120°
+## example
+Q: (From the book) Two plane mirrors meet at an angle of 60°. A ray falls on the first mirror at an angle of incidence of 60° and its reflected ray travels towards the second mirror. What happens to it there?
+Solution: The reflected ray leaves the first mirror making 90° − 60° = 30° with its surface.
+> In the triangle formed by the two mirrors and the ray: the angle at the corner is 60°, the angle at the first mirror is 30°, so the angle at the second mirror = 180° − 60° − 30° = 90°.
+Answer: The ray strikes the second mirror perpendicularly (i = 0), so it reflects straight back along its own path.
+## mistakes
+x The angle of incidence is measured between the ray and the mirror.
+v It is measured between the ray and the normal.
+x Reflection happens only on mirrors.
+v It happens at every boundary between two media; a mirror just reflects nearly all the light.
+x A ray falling along the normal is not reflected.
+v It is reflected straight back along the same line (i = r = 0).
+## remember
+- At a boundary: reflection, refraction and absorption happen together.
+- Law 1: incident ray, normal and reflected ray lie in one plane.
+- Law 2: angle of reflection = angle of incidence (r = i), both from the normal.
+- A normal ray comes straight back.
+- Two parallel mirrors give an endless row of images.
+## think
+In a mirror, left and right seem to swap. Why don't top and bottom swap as well?
+## quiz
+? A ray makes an angle of 25° with the normal to a mirror. The angle of reflection is:
+- 65°
+* 25°
+- 50°
+- 90°
+= r = i = 25°.
+? A ray makes 40° with the mirror surface. The angle of incidence is:
+- 40°
+* 50°
+- 80°
+- 90°
+= i is measured from the normal: 90° − 40° = 50°.
+? A ray falls on a mirror along the normal. It will:
+- Pass through the mirror
+- Reflect at 90°
+* Come straight back along the same path
+- Not be reflected
+= i = 0, so r = 0: it returns along the normal.
+? A candle is placed between two parallel mirrors facing each other. The number of images is:
+- 1
+- 2
+- 4
+* Very many (in principle endless)
+= Each image is reflected again in the other mirror, over and over.
+== bn
+## what
+আলো দ্বিতীয় কোনো মাধ্যমের তলে পড়ে তার একটি অংশ প্রথম মাধ্যমে ফিরে আসাকে বলে **প্রতিফলন**। প্রতিফলন দুটি সূত্র মেনে চলে; সবচেয়ে পরিচিতটি হলো: **প্রতিফলন কোণ = আপতন কোণ**।
+## simple
+এক মাধ্যমে (ধরো বাতাসে) চলা আলো যখন অন্য মাধ্যমে (ধরো কাচ বা পানিতে) এসে পড়ে, তখন একসাথে তিনটি ঘটনা ঘটে:
+
+- কিছু আলো প্রথম মাধ্যমে **ফিরে আসে**: **প্রতিফলন**;
+- কিছু আলো বেঁকে দ্বিতীয় মাধ্যমে **ঢুকে যায়**: **প্রতিসরণ** (পরের অধ্যায়);
+- কিছু আলো তলে **শোষিত** হয় (তাপে পরিণত হয়): **শোষণ**।
+
+আয়না বিশেষ শুধু এজন্য যে এটি প্রায় সব আলো ফিরিয়ে দেয়। কিন্তু প্রতিফলন হয় প্রতিটি তলেই: জানালার কাচ, পুকুরের পানি, এমনকি তোমার টেবিলেও।
+
+**অংশগুলোর নাম।** ধরো একটি আলোক রশ্মি একটি সমতলের O বিন্দুতে পড়ল।
+
+- যে রশ্মি এসে পড়ে সেটি **আপতিত রশ্মি**।
+- যে রশ্মি ফিরে যায় সেটি **প্রতিফলিত রশ্মি**।
+- O বিন্দুতে তলের ওপর আঁকা **লম্ব** রেখাটি হলো **অভিলম্ব**।
+- আপতিত রশ্মি অভিলম্বের সাথে যে কোণ করে তা **আপতন কোণ (i)**।
+- প্রতিফলিত রশ্মি অভিলম্বের সাথে যে কোণ করে তা **প্রতিফলন কোণ (r)**।
+
+খেয়াল করো: দুটি কোণই মাপা হয় **অভিলম্ব** থেকে, তল থেকে নয়।
+
+**প্রতিফলনের দুটি সূত্র:**
+
+1. আপতিত রশ্মি, আপতন বিন্দুতে অভিলম্ব এবং প্রতিফলিত রশ্মি একই **সমতলে** থাকে।
+2. **প্রতিফলন কোণ আপতন কোণের সমান**: r = i।
+
+যে রশ্মি অভিলম্ব বরাবর সোজা তলে পড়ে (i = ০), সেটি একই পথে সোজা ফিরে আসে (r = ০)।
+
+**দুটি সমান্তরাল আয়না।** মুখোমুখি রাখা দুটি আয়নার মাঝে একটি মোমবাতি রাখো। প্রতিটি আয়নায় মোমবাতির প্রতিবিম্ব দেখা যায়, আবার প্রতিটি আয়নায় অন্য আয়নার প্রতিবিম্বেরও প্রতিবিম্ব দেখা যায়, এভাবে চলতেই থাকে: প্রতিবিম্বের একটা লম্বা সারি, যার শেষ নেই (বাস্তবে প্রতিবার প্রতিফলনে কিছুটা আলো হারায় বলে দূরেরগুলো ক্রমশ ঝাপসা হয়)।
+## analogy
+আয়নায় আলোর প্রতিফলন যেন ঘূর্ণনহীন একটি বল মসৃণ মেঝেতে লাফিয়ে ওঠা: যে কোণে আসে, সেই কোণেই ফিরে যায়। দেয়ালে ৩০° কোণে মার্বেল গড়ালে অন্য দিকে ৩০° কোণেই ফিরে আসে। এটাই প্রতিফলনের সূত্র: আপতন কোণ = প্রতিফলন কোণ।
+## definition
+**আলোর প্রতিফলন**: এক মাধ্যমে চলমান আলো অন্য মাধ্যমের তলে পড়ে তার একটি অংশ প্রথম মাধ্যমে ফিরে এলে সেই প্রক্রিয়াকে প্রতিফলন বলে।
+
+**প্রতিফলনের সূত্র:**
+1. আপতিত রশ্মি, আপতন বিন্দুতে অভিলম্ব এবং প্রতিফলিত রশ্মি একই সমতলে থাকে।
+2. প্রতিফলন কোণ আপতন কোণের সমান।
+## why
+কোণগুলো অভিলম্ব থেকে মাপতে হয় কেন? কারণ তলটা যেভাবেই ঘোরানো থাকুক, অভিলম্বই একমাত্র দিক যা সবসময় একইভাবে ঠিক করা যায়; তাই r = i সূত্রটি সমতল আয়না, হেলানো আয়না, এমনকি বাঁকা আয়নার ছোট্ট একটি অংশেও (যেখানে অভিলম্ব হলো ব্যাসার্ধ) খাটে। পরে গোলীয় আয়নায় এভাবেই একই সূত্র ব্যবহার করব।
+## terms
+আপতিত রশ্মি | তলে এসে পড়া রশ্মি
+প্রতিফলিত রশ্মি | প্রতিফলনের পর ফিরে যাওয়া রশ্মি
+অভিলম্ব | আপতন বিন্দুতে তলের ওপর লম্ব রেখা
+আপতন কোণ (i) | আপতিত রশ্মি ও অভিলম্বের মধ্যবর্তী কোণ
+প্রতিফলন কোণ (r) | প্রতিফলিত রশ্মি ও অভিলম্বের মধ্যবর্তী কোণ
+প্রতিসরণ | আলো দ্বিতীয় মাধ্যমে ঢুকে বেঁকে যাওয়া
+শোষণ | তলে আলো শুষে নেওয়া (তাপে পরিণত হয়)
+## formula
+$$ r = i
+i | আপতন কোণ (অভিলম্ব থেকে) | ডিগ্রি (°)
+r | প্রতিফলন কোণ (অভিলম্ব থেকে) | ডিগ্রি (°)
+! রশ্মি আয়নার তলের সাথে θ কোণ করলে আপতন কোণ i = ৯০° − θ।
+## visual
+আপতিত রশ্মিটি টেনে সরাও (বা স্লাইডার ব্যবহার করো)। প্রতিফলিত রশ্মি সবসময় অভিলম্বের সাথে একই কোণ করে।
+## real
+অন্ধকার ঘরে আয়নায় টর্চের আলো ফেললে, টর্চ সরিয়ে r = i দিয়ে তুমি আগে থেকেই বলে দিতে পারো দেয়ালে উজ্জ্বল দাগটা ঠিক কোথায় পড়বে। ক্যারম খেলোয়াড়রাও একই ধারণা কাজে লাগায়: বোর্ডের কিনারায় লেগে গুটি যে কোণে আসে, প্রায় সেই কোণেই ফিরে যায়।
+## example
+প্রশ্ন: একটি রশ্মি সমতল আয়নার তলের সাথে ৩০° কোণ করে পড়ল। আপতন কোণ, প্রতিফলন কোণ এবং আপতিত ও প্রতিফলিত রশ্মির মধ্যবর্তী কোণ বের করো।
+দেওয়া আছে: তলের সাথে কোণ = ৩০°
+হিসাব: i = ৯০° − ৩০° = ৬০°; r = i = ৬০°; রশ্মি দুটির মধ্যবর্তী কোণ = i + r = ১২০°
+> সূত্রের কোণগুলো অভিলম্ব থেকে মাপা, তাই প্রথমে ৩০°-কে ৬০°-এ বদলে নিতে হয়।
+উত্তর: i = ৬০°, r = ৬০°, রশ্মি দুটির মধ্যবর্তী কোণ = ১২০°
+## example
+প্রশ্ন: (বই থেকে) দুটি সমতল আয়না পরস্পরের সাথে ৬০° কোণে রাখা। প্রথম আয়নায় ৬০° আপতন কোণে একটি রশ্মি পড়ল এবং প্রতিফলিত রশ্মিটি দ্বিতীয় আয়নার দিকে গেল। সেখানে কী ঘটবে?
+সমাধান: প্রতিফলিত রশ্মিটি প্রথম আয়নার তলের সাথে ৯০° − ৬০° = ৩০° কোণ করে বের হয়।
+> দুই আয়না আর রশ্মি মিলে যে ত্রিভুজ হয়: কোনায় কোণ ৬০°, প্রথম আয়নায় ৩০°, তাই দ্বিতীয় আয়নায় কোণ = ১৮০° − ৬০° − ৩০° = ৯০°।
+উত্তর: রশ্মিটি দ্বিতীয় আয়নায় লম্বভাবে পড়ে (i = ০), তাই ঠিক নিজের পথেই উল্টো দিকে ফিরে যায়।
+## mistakes
+x আপতন কোণ মাপা হয় রশ্মি আর আয়নার মাঝে।
+v এটি মাপা হয় রশ্মি আর অভিলম্বের মাঝে।
+x প্রতিফলন শুধু আয়নাতেই হয়।
+v দুই মাধ্যমের প্রতিটি সীমানাতেই হয়; আয়না শুধু প্রায় সব আলো ফিরিয়ে দেয়।
+x অভিলম্ব বরাবর পড়া রশ্মির প্রতিফলন হয় না।
+v এটি একই রেখা ধরে সোজা ফিরে আসে (i = r = ০)।
+## remember
+- সীমানায় প্রতিফলন, প্রতিসরণ ও শোষণ একসাথে ঘটে।
+- ১ম সূত্র: আপতিত রশ্মি, অভিলম্ব ও প্রতিফলিত রশ্মি একই সমতলে।
+- ২য় সূত্র: প্রতিফলন কোণ = আপতন কোণ (r = i), দুটিই অভিলম্ব থেকে।
+- অভিলম্ব বরাবর পড়া রশ্মি সোজা ফিরে আসে।
+- দুটি সমান্তরাল আয়নায় প্রতিবিম্বের অন্তহীন সারি তৈরি হয়।
+## think
+আয়নায় ডান-বাম যেন উল্টে যায়। তাহলে ওপর-নিচ উল্টায় না কেন?
+## quiz
+? একটি রশ্মি আয়নার অভিলম্বের সাথে ২৫° কোণ করে পড়ল। প্রতিফলন কোণ:
+- ৬৫°
+* ২৫°
+- ৫০°
+- ৯০°
+= r = i = ২৫°।
+? একটি রশ্মি আয়নার তলের সাথে ৪০° কোণ করে পড়ল। আপতন কোণ:
+- ৪০°
+* ৫০°
+- ৮০°
+- ৯০°
+= i মাপা হয় অভিলম্ব থেকে: ৯০° − ৪০° = ৫০°।
+? অভিলম্ব বরাবর আয়নায় পড়া রশ্মি:
+- আয়না ভেদ করে চলে যাবে
+- ৯০° কোণে প্রতিফলিত হবে
+* একই পথে সোজা ফিরে আসবে
+- প্রতিফলিত হবে না
+= i = ০, তাই r = ০: অভিলম্ব ধরেই ফিরে আসে।
+? মুখোমুখি দুটি সমান্তরাল আয়নার মাঝে একটি মোমবাতি রাখা হলো। প্রতিবিম্বের সংখ্যা:
+- ১টি
+- ২টি
+- ৪টি
+* অনেক (তত্ত্বগতভাবে অসংখ্য)
+= প্রতিটি প্রতিবিম্ব অন্য আয়নায় আবার প্রতিফলিত হয়, বারবার।
+
+@@ 8.2.2
+@visual c8colour
+@related 8.1 8.2 8.3
+== en
+## what
+An object looks the colour of the light it **reflects**; it **absorbs** the other colours. A smooth surface gives **regular reflection** (parallel rays stay parallel), a rough surface gives **diffuse reflection** (rays scatter everywhere).
+## simple
+**Where does colour come from?** Sunlight or tube-light looks white, but white light is really a mixture of **all the colours** (all the visible wavelengths). When all colours arrive together, no single colour stands out, so we call it white or colourless light.
+
+When white light falls on a **red rose**, the petals **absorb** every colour except red. Only red light is reflected into your eyes, so the rose looks red. A **green leaf** absorbs everything except green, so it looks green.
+
+Now for the surprise. Look at the rose and the leaf under **pure red light**:
+
+- the rose still reflects red → it looks **red**;
+- the leaf absorbs red and has no green to reflect → it reflects nothing → it looks **black**!
+
+Under **pure green light** the opposite happens: the leaf looks green and the rose looks **black**. An object can only reflect colours that are actually in the light falling on it. A white page reflects all colours, so it takes the colour of whatever light falls on it; a black cloth absorbs all colours, so it looks black in any light.
+
+**How much is reflected?** Ordinary glass reflects only about 4–5% of light that hits it nearly head-on; the rest passes through. But at large angles of incidence (like 80° or more, light skimming along the glass) the reflection becomes much stronger. Stand beside a window and look along the glass at a slant: you will see clear reflections.
+
+**Smooth and rough surfaces.** Every single ray obeys r = i, even on a rough surface. On a **smooth** surface like a mirror, all the normals point the same way, so parallel incoming rays leave **parallel**: this is **regular reflection**, and it gives clear images. On a **rough** surface like paper or a wall, the tiny bumps tilt the normals in all directions, so parallel rays leave in **all directions**: this is **diffuse (irregular) reflection**. Diffuse reflection gives no image, but it lets you see the paper from any angle.
+## definition
+**Colour of an object**: an opaque object appears the colour of the light it reflects; the other colours falling on it are absorbed. If it reflects none of the colours in the light falling on it, it looks black.
+
+**Regular reflection**: reflection from a smooth surface in which parallel incident rays remain parallel after reflection.
+
+**Diffuse (irregular) reflection**: reflection from a rough surface in which parallel incident rays spread in different directions after reflection.
+## why
+Why does a rough surface scatter light if every ray still obeys r = i? Because "the normal" is different at every tiny spot. Each ray reflects correctly from its own little patch, but the patches face different ways, so the reflected rays go different ways.
+## terms
+White light | Mixture of all visible colours
+Absorption | Light taken in by a surface (turned into heat)
+Regular reflection | From a smooth surface; parallel rays stay parallel
+Diffuse reflection | From a rough surface; rays scatter in all directions
+Opaque | Does not let light pass through
+## visual
+Choose the colour of the light, and see how the rose, the leaf, white paper and black cloth look. Then switch to "smooth vs rough" to watch parallel rays reflect.
+## real
+Shop-keepers in fish and meat markets often use reddish lamps: meat reflects red strongly, so it looks fresher and redder than it would in white light. That is why it is wise to check the colour of clothes in daylight before buying them.
+## mistakes
+x A red rose looks red because it produces red light.
+v It reflects the red part of the light falling on it and absorbs the rest.
+x A green leaf looks green in any light.
+v In pure red light there is no green to reflect, so it looks black.
+x On a rough surface the law of reflection does not hold.
+v Every ray obeys r = i; the rays scatter because the surface patches face different directions.
+## remember
+- White light = mixture of all colours.
+- An object's colour = the colour it reflects; it absorbs the rest.
+- Reflects none of the colours present → looks black.
+- More reflection at larger angles of incidence (glass: about 4% head-on).
+- Smooth surface → regular reflection (image); rough surface → diffuse reflection (no image).
+## think
+A yellow T-shirt is seen under pure blue light. What colour would you expect it to look, and why? (Hint: yellow cloth reflects red and green light.)
+## quiz
+? A green leaf seen in pure red light looks:
+- Green
+- Red
+* Black
+- White
+= The leaf absorbs red and there is no green light to reflect.
+? A white paper under pure green light looks:
+- White
+* Green
+- Black
+- Red
+= White paper reflects every colour, but only green is falling on it.
+? We can read a page from any direction because the paper gives:
+- Regular reflection
+* Diffuse reflection
+- Refraction
+- Total absorption
+= Its rough surface scatters light in all directions.
+== bn
+## what
+কোনো বস্তু যে রঙের আলো **প্রতিফলিত** করে, তাকে সেই রঙের দেখায়; বাকি রংগুলো সে **শোষণ** করে। মসৃণ তলে হয় **নিয়মিত প্রতিফলন** (সমান্তরাল রশ্মি সমান্তরালই থাকে), অমসৃণ তলে হয় **ব্যাপ্ত প্রতিফলন** (রশ্মি চারদিকে ছড়িয়ে যায়)।
+## simple
+**রং আসে কোথা থেকে?** রোদ বা টিউবলাইটের আলো সাদা দেখায়, কিন্তু সাদা আলো আসলে **সব রঙের** (সব দৃশ্যমান তরঙ্গদৈর্ঘ্যের) মিশ্রণ। সব রং একসাথে এলে আলাদা কোনো রং চোখে পড়ে না, তাই একে বলি সাদা বা বর্ণহীন আলো।
+
+সাদা আলো যখন **লাল গোলাপে** পড়ে, পাপড়িগুলো লাল ছাড়া বাকি সব রং **শোষণ** করে নেয়। শুধু লাল আলো প্রতিফলিত হয়ে তোমার চোখে আসে, তাই গোলাপ লাল দেখায়। **সবুজ পাতা** সবুজ ছাড়া সব শোষণ করে, তাই সবুজ দেখায়।
+
+এবার মজার ব্যাপার। গোলাপ আর পাতাকে **শুধু লাল আলোতে** দেখো:
+
+- গোলাপ তখনও লাল প্রতিফলিত করে → দেখায় **লাল**;
+- পাতা লাল শোষণ করে, আর প্রতিফলনের মতো সবুজ নেই → কিছুই প্রতিফলিত করে না → দেখায় **কুচকুচে কালো**!
+
+**শুধু সবুজ আলোতে** উল্টোটা ঘটে: পাতা দেখায় সবুজ, গোলাপ দেখায় **কালো**। বস্তু শুধু সেই রংগুলোই প্রতিফলিত করতে পারে, যা তার ওপর পড়া আলোতে আসলেই আছে। সাদা কাগজ সব রং প্রতিফলিত করে, তাই যে আলো পড়ে সেই রঙের দেখায়; কালো কাপড় সব রং শোষণ করে, তাই যেকোনো আলোতে কালো দেখায়।
+
+**কতটুকু প্রতিফলিত হয়?** সাধারণ কাচে প্রায় সোজাসুজি পড়া আলোর মাত্র ৪–৫% প্রতিফলিত হয়; বাকিটা ভেতর দিয়ে চলে যায়। কিন্তু আপতন কোণ অনেক বড় হলে (যেমন ৮০° বা তার বেশি, আলো কাচ ঘেঁষে পড়লে) প্রতিফলন অনেক বেড়ে যায়। জানালার পাশে দাঁড়িয়ে কাচের দিকে তেরছা করে তাকাও: স্পষ্ট প্রতিফলন দেখবে।
+
+**মসৃণ ও অমসৃণ তল।** অমসৃণ তলেও প্রতিটি রশ্মি r = i মানে। আয়নার মতো **মসৃণ** তলে সব অভিলম্ব একই দিকে থাকে, তাই সমান্তরাল আপতিত রশ্মিগুলো **সমান্তরাল** হয়েই ফিরে যায়: এটি **নিয়মিত প্রতিফলন**, এতে স্পষ্ট প্রতিবিম্ব হয়। কাগজ বা দেয়ালের মতো **অমসৃণ** তলে ছোট ছোট উঁচু-নিচু অংশ অভিলম্বগুলোকে নানা দিকে হেলিয়ে দেয়, তাই সমান্তরাল রশ্মি **চারদিকে** ছড়িয়ে যায়: এটি **ব্যাপ্ত (অনিয়মিত) প্রতিফলন**। ব্যাপ্ত প্রতিফলনে প্রতিবিম্ব হয় না, কিন্তু এর জন্যই কাগজটা যেকোনো দিক থেকে দেখা যায়।
+## definition
+**বস্তুর রং**: কোনো অস্বচ্ছ বস্তু যে রঙের আলো প্রতিফলিত করে, তাকে সেই রঙের দেখায়; তার ওপর পড়া অন্য রংগুলো সে শোষণ করে। পড়া আলোর কোনো রংই প্রতিফলিত না করলে বস্তুটিকে কালো দেখায়।
+
+**নিয়মিত প্রতিফলন**: মসৃণ তলে প্রতিফলন, যেখানে সমান্তরাল আপতিত রশ্মিগুলো প্রতিফলনের পরও সমান্তরাল থাকে।
+
+**ব্যাপ্ত (অনিয়মিত) প্রতিফলন**: অমসৃণ তলে প্রতিফলন, যেখানে সমান্তরাল আপতিত রশ্মিগুলো প্রতিফলনের পর নানা দিকে ছড়িয়ে পড়ে।
+## why
+প্রতিটি রশ্মি r = i মানলে অমসৃণ তল আলো ছড়ায় কেন? কারণ প্রতিটি ছোট্ট বিন্দুতে "অভিলম্ব" আলাদা। প্রতিটি রশ্মি নিজের ছোট অংশ থেকে ঠিকমতোই প্রতিফলিত হয়, কিন্তু অংশগুলো নানা দিকে মুখ করে থাকে, তাই প্রতিফলিত রশ্মিগুলো নানা দিকে যায়।
+## terms
+সাদা আলো | সব দৃশ্যমান রঙের মিশ্রণ
+শোষণ | তলে আলো শুষে নেওয়া (তাপে পরিণত হয়)
+নিয়মিত প্রতিফলন | মসৃণ তলে; সমান্তরাল রশ্মি সমান্তরাল থাকে
+ব্যাপ্ত প্রতিফলন | অমসৃণ তলে; রশ্মি চারদিকে ছড়ায়
+অস্বচ্ছ | আলো ভেদ করে যেতে দেয় না
+## visual
+আলোর রং বেছে নাও, আর দেখো গোলাপ, পাতা, সাদা কাগজ ও কালো কাপড় কেমন দেখায়। তারপর "মসৃণ বনাম অমসৃণ" বেছে সমান্তরাল রশ্মির প্রতিফলন দেখো।
+## real
+মাছ-মাংসের বাজারে দোকানিরা প্রায়ই লালচে বাতি জ্বালান: মাংস লাল আলো বেশি প্রতিফলিত করে, তাই সাদা আলোর চেয়ে বেশি লাল আর তাজা দেখায়। এজন্যই কাপড় কেনার আগে দিনের আলোতে রং দেখে নেওয়া বুদ্ধিমানের কাজ।
+## mistakes
+x লাল গোলাপ লাল আলো তৈরি করে বলে লাল দেখায়।
+v এটি পড়া আলোর লাল অংশ প্রতিফলিত করে আর বাকিটা শোষণ করে।
+x সবুজ পাতা যেকোনো আলোতে সবুজ দেখায়।
+v শুধু লাল আলোতে প্রতিফলনের মতো সবুজ নেই, তাই কালো দেখায়।
+x অমসৃণ তলে প্রতিফলনের সূত্র খাটে না।
+v প্রতিটি রশ্মি r = i মানে; তলের অংশগুলো নানা দিকে মুখ করে থাকে বলে রশ্মি ছড়ায়।
+## remember
+- সাদা আলো = সব রঙের মিশ্রণ।
+- বস্তুর রং = যে রং সে প্রতিফলিত করে; বাকিগুলো শোষণ করে।
+- উপস্থিত কোনো রংই প্রতিফলিত না করলে → কালো দেখায়।
+- আপতন কোণ বড় হলে প্রতিফলন বেশি (কাচে সোজাসুজি প্রায় ৪%)।
+- মসৃণ তল → নিয়মিত প্রতিফলন (প্রতিবিম্ব হয়); অমসৃণ তল → ব্যাপ্ত প্রতিফলন (প্রতিবিম্ব হয় না)।
+## think
+একটি হলুদ টি-শার্ট শুধু নীল আলোতে দেখা হলো। এটি কোন রঙের দেখাবে বলে মনে করো, আর কেন? (ইঙ্গিত: হলুদ কাপড় লাল ও সবুজ আলো প্রতিফলিত করে।)
+## quiz
+? শুধু লাল আলোতে সবুজ পাতা দেখায়:
+- সবুজ
+- লাল
+* কালো
+- সাদা
+= পাতা লাল শোষণ করে, আর প্রতিফলনের মতো সবুজ আলো নেই।
+? শুধু সবুজ আলোতে সাদা কাগজ দেখায়:
+- সাদা
+* সবুজ
+- কালো
+- লাল
+= সাদা কাগজ সব রং প্রতিফলিত করে, কিন্তু তার ওপর পড়ছে শুধু সবুজ।
+? যেকোনো দিক থেকে বইয়ের পাতা পড়া যায়, কারণ কাগজে হয়:
+- নিয়মিত প্রতিফলন
+* ব্যাপ্ত প্রতিফলন
+- প্রতিসরণ
+- পূর্ণ শোষণ
+= এর অমসৃণ তল আলোকে চারদিকে ছড়িয়ে দেয়।
+
+@@ 8.3
+@visual c8plane
+@related 8.2 8.8 9.4.2
+== en
+## what
+A **plane mirror** forms an image that is **virtual, upright (erect), the same size** as the object, and **as far behind** the mirror as the object is in front of it.
+## simple
+Stand 1 m in front of a mirror and your image seems to stand 1 m **behind** it. Step closer and the image steps closer too. Why?
+
+**The image of a point.** Light from a point X spreads out in all directions. Some rays hit the mirror and reflect (each obeying r = i) into your eye. Your brain assumes light travels in straight lines, so it traces the reflected rays **backwards**, behind the mirror. They all seem to come from one point X′: that is the **image** of X.
+
+To locate X′ you need only **two rays**:
+
+- the ray XP that hits the mirror along the normal comes straight back; its backward extension is the normal line through X;
+- any other ray XO reflects with r = i; extend it backwards.
+
+They meet at X′. The two triangles OPX and OPX′ are congruent (a right angle at P, the common side OP, and equal angles at O because of r = i), so **XP = X′P**: the image is as far behind the mirror as the object is in front.
+
+**Real and virtual images.** No light actually reaches the point behind the mirror; it only **seems** to come from there. Such an image is **virtual**: you can see it in the mirror but you cannot catch it on a screen. Later you will meet **real images**, where the reflected rays truly meet; a real image can be caught on a screen.
+
+**An extended object.** Every point of the object (the top Y and the bottom X of an arrow, say) forms its own image. Joining them gives the whole image X′Y′: same length, arrow still pointing up.
+
+**Image in a plane mirror:** (a) as far behind the mirror as the object is in front, (b) virtual, (c) upright, (d) same size.
+
+**Three fun facts from the book:**
+
+- **Kaleidoscope**: three strips of glass joined into a triangular tube, with coloured bits of bangle inside, give beautiful repeating patterns from reflections of reflections. Because you look along the glass at a large angle of incidence, even plain glass reflects strongly.
+- **Half-length mirror**: to see your whole body, the mirror need be only **half your height**, no matter how far you stand.
+- **Pinhole image**: a tiny hole in a card in a dark room makes a **real, inverted** image of a candle flame on a paper screen; move the screen further and the image gets bigger. A pinhole camera works this way.
+## analogy
+Your image in a plane mirror is like your twin standing in a "room" behind the glass, exactly as far behind as you are in front. When you step back 1 m, your twin also steps back 1 m. But your twin raises the left hand when you raise the right: the image is laterally inverted.
+## definition
+**Image**: when rays from a point of an object, after reflection (or refraction), actually meet at, or appear to diverge from, another point, that second point is the image of the first.
+
+**Real image**: an image where the rays actually meet; it can be formed on a screen.
+
+**Virtual image**: an image from which the rays only appear to come; it cannot be formed on a screen.
+
+**Image in a plane mirror**: virtual, erect, the same size as the object, and at the same distance behind the mirror as the object is in front.
+## why
+Why is the plane-mirror image the same size and distance? Each point's image is simply its "mirror twin" on the other side, found by dropping a perpendicular to the mirror and going the same distance again. Moving every point this way keeps all lengths the same, so the image is an exact copy, only reversed front-to-back.
+## terms
+Image | Point where reflected rays meet or seem to come from
+Real image | Rays actually meet; can be put on a screen
+Virtual image | Rays only seem to come from it; no screen image
+Erect (upright) | Image the same way up as the object
+Kaleidoscope | Tube of three mirrors giving repeating patterns
+Pinhole camera | Box with a tiny hole that forms a real, inverted image
+## formula
+$$ image distance behind mirror = object distance in front
+$$ height of mirror needed for a full image = ½ × your height
+! The mirror's top edge should be halfway between your eyes and the top of your head.
+## visual
+Move the object and the eye. The dashed lines show where the reflected rays seem to come from; the image stays exactly as far behind the mirror as the object is in front.
+## real
+Barbers put a mirror behind you and one in front of you, so you can see the back of your head: an image of an image. Some small shops put a mirror on the wall to make the room look twice as deep, because the image of the room appears the same distance behind the mirror.
+## example
+Q: You stand 2 m in front of a plane mirror. How far is your image from the mirror and from you? If you walk 0.5 m towards the mirror, how far is the image from you now?
+Given: object distance = 2 m
+Calculation: image distance = 2 m behind the mirror; distance from you = 2 + 2 = 4 m. After walking: object distance = 1.5 m, so distance from you = 1.5 + 1.5 = 3 m
+> The image moves towards the mirror by the same amount you do, so the gap closes twice as fast.
+Answer: 2 m from the mirror, 4 m from you; after walking, 3 m from you.
+## example
+Q: (From the book) A person is 1.5 m tall; the eyes are 0.1 m below the top of the head. What is the shortest plane mirror in which the person can see the full image, and where should it hang?
+Given: height = 1.5 m; eye height = 1.4 m
+Calculation: mirror length = ½ × 1.5 = 0.75 m. Bottom edge at ½ × 1.4 = 0.7 m above the floor; top edge at 1.4 + ½ × 0.1 = 1.45 m.
+> Light from your feet reaches your eye after reflecting at the point halfway between feet and eye; light from the top of your head reflects halfway between head and eye.
+Answer: 0.75 m long, hung from 0.7 m to 1.45 m above the floor, at any distance from the mirror.
+## mistakes
+x A plane-mirror image can be caught on a screen placed behind the mirror.
+v It is virtual: no light actually reaches there.
+x To see your whole body you need a mirror as tall as you.
+v A mirror half your height is enough, whatever the distance.
+x Moving away from a mirror makes your image smaller.
+v The image stays the same size; it only looks smaller because it is further from your eye.
+## remember
+- Plane-mirror image: equal distance behind, virtual, erect, same size.
+- Two rays are enough to locate an image.
+- Real image: rays meet, can be on a screen. Virtual: rays only seem to come from it.
+- Full-length image needs a mirror half your height.
+- A pinhole forms a real, inverted image.
+## think
+If you raise your right hand in front of a mirror, your image raises what looks like its left hand. Yet the mirror did not swap top and bottom. What did the mirror really reverse?
+## quiz
+? The image in a plane mirror is:
+- Real and inverted
+* Virtual and erect
+- Real and erect
+- Virtual and inverted
+= No light passes behind the mirror, and the image is the right way up.
+? An object is 30 cm in front of a plane mirror. The distance between the object and its image is:
+- 30 cm
+- 15 cm
+* 60 cm
+- 90 cm
+= Image is 30 cm behind, so 30 + 30 = 60 cm.
+? A student 1.6 m tall wants a full-length view. The shortest mirror needed is:
+- 1.6 m
+- 1.2 m
+* 0.8 m
+- 0.4 m
+= Half the height: 0.8 m.
+? The image formed by a pinhole camera is:
+- Virtual and erect
+* Real and inverted
+- Virtual and inverted
+- Real and erect
+= Light truly reaches the screen, and rays cross at the hole.
+== bn
+## what
+**সমতল আয়না** এমন প্রতিবিম্ব তৈরি করে যা **অবাস্তব, সোজা, বস্তুর সমান আকারের**, আর বস্তু আয়নার সামনে যত দূরে, প্রতিবিম্ব আয়নার **পেছনে ঠিক তত দূরে**।
+## simple
+আয়নার ১ m সামনে দাঁড়াও, মনে হবে তোমার প্রতিবিম্ব আয়নার ১ m **পেছনে** দাঁড়িয়ে আছে। কাছে এগোলে প্রতিবিম্বও কাছে এগোয়। কেন?
+
+**একটি বিন্দুর প্রতিবিম্ব।** X বিন্দু থেকে আলো চারদিকে ছড়ায়। কিছু রশ্মি আয়নায় পড়ে প্রতিফলিত হয়ে (প্রতিটি r = i মেনে) তোমার চোখে ঢোকে। মস্তিষ্ক ধরে নেয় আলো সোজা পথে চলে, তাই প্রতিফলিত রশ্মিগুলোকে আয়নার পেছনে **উল্টো দিকে** বাড়িয়ে দেখে। সবগুলোকে মনে হয় একটি বিন্দু X′ থেকে আসছে: এটিই X-এর **প্রতিবিম্ব**।
+
+X′ খুঁজতে মাত্র **দুটি রশ্মি** লাগে:
+
+- যে রশ্মি XP অভিলম্ব বরাবর আয়নায় পড়ে, সেটি সোজা ফিরে আসে; এর পেছনের বর্ধিত অংশ X দিয়ে যাওয়া অভিলম্ব রেখা;
+- অন্য যেকোনো রশ্মি XO, r = i মেনে প্রতিফলিত হয়; একে পেছনে বাড়াও।
+
+দুটি মেলে X′ বিন্দুতে। OPX আর OPX′ ত্রিভুজ দুটি সর্বসম (P-তে সমকোণ, OP সাধারণ বাহু, আর r = i-এর জন্য O-তে কোণ সমান), তাই **XP = X′P**: বস্তু আয়নার সামনে যত দূরে, প্রতিবিম্ব পেছনে তত দূরে।
+
+**বাস্তব ও অবাস্তব প্রতিবিম্ব।** আয়নার পেছনের বিন্দুটিতে আসলে কোনো আলো পৌঁছায় না; শুধু **মনে হয়** সেখান থেকে আসছে। এমন প্রতিবিম্ব **অবাস্তব**: আয়নায় দেখা যায়, কিন্তু পর্দায় ধরা যায় না। পরে দেখবে **বাস্তব প্রতিবিম্ব**, যেখানে প্রতিফলিত রশ্মি সত্যিই মিলিত হয়; বাস্তব প্রতিবিম্ব পর্দায় ফেলা যায়।
+
+**বিস্তৃত বস্তু।** বস্তুর প্রতিটি বিন্দু (ধরো একটি তীরের মাথা Y আর গোড়া X) নিজের প্রতিবিম্ব তৈরি করে। এগুলো জুড়ে পুরো প্রতিবিম্ব X′Y′ পাই: দৈর্ঘ্য সমান, তীরের মাথা তখনও ওপরের দিকে।
+
+**সমতল আয়নার প্রতিবিম্ব:** (ক) বস্তু সামনে যত দূরে, প্রতিবিম্ব পেছনে তত দূরে, (খ) অবাস্তব, (গ) সোজা, (ঘ) সমান আকারের।
+
+**বই থেকে তিনটি মজার বিষয়:**
+
+- **ক্যালাইডোস্কোপ**: তিন টুকরা কাচ জুড়ে ত্রিভুজাকার নল বানিয়ে ভেতরে রঙিন ভাঙা চুড়ির টুকরা রাখলে প্রতিফলনের প্রতিফলন থেকে অপূর্ব নকশা তৈরি হয়। কাচ ঘেঁষে বড় আপতন কোণে দেখা হয় বলে সাধারণ কাচেও প্রতিফলন অনেক বেশি হয়।
+- **অর্ধদৈর্ঘ্য আয়না**: নিজের পুরো শরীর দেখতে আয়না লাগে **তোমার উচ্চতার অর্ধেক**, যত দূরেই দাঁড়াও।
+- **পিনহোলে প্রতিবিম্ব**: অন্ধকার ঘরে বোর্ডের ছোট্ট ফুটো দিয়ে কাগজের পর্দায় মোমবাতির শিখার **বাস্তব, উল্টো** প্রতিবিম্ব হয়; পর্দা দূরে সরালে প্রতিবিম্ব বড় হয়। পিনহোল ক্যামেরা এভাবেই কাজ করে।
+## analogy
+সমতল আয়নায় তোমার প্রতিবিম্ব যেন কাচের পেছনের একটি "ঘরে" দাঁড়ানো তোমার যমজ, তুমি সামনে যতটা দূরে, সে পেছনে ঠিক ততটা। তুমি ১ m পিছালে সে-ও ১ m পিছায়। কিন্তু তুমি ডান হাত তুললে তোমার যমজ তোলে বাঁ হাত: প্রতিবিম্ব পার্শ্বীয়ভাবে উল্টো।
+## definition
+**প্রতিবিম্ব**: কোনো বস্তুর একটি বিন্দু থেকে আসা রশ্মিগুলো প্রতিফলন (বা প্রতিসরণের) পর অন্য কোনো বিন্দুতে সত্যিই মিলিত হলে বা সেখান থেকে ছড়িয়ে আসছে বলে মনে হলে, দ্বিতীয় বিন্দুটিকে প্রথম বিন্দুর প্রতিবিম্ব বলে।
+
+**বাস্তব প্রতিবিম্ব**: যে প্রতিবিম্বে রশ্মিগুলো সত্যিই মিলিত হয়; একে পর্দায় ফেলা যায়।
+
+**অবাস্তব প্রতিবিম্ব**: যে প্রতিবিম্ব থেকে রশ্মিগুলো শুধু আসছে বলে মনে হয়; একে পর্দায় ফেলা যায় না।
+
+**সমতল আয়নার প্রতিবিম্ব**: অবাস্তব, সোজা, বস্তুর সমান আকারের, এবং বস্তু আয়নার সামনে যত দূরে, আয়নার পেছনে তত দূরে।
+## why
+সমতল আয়নার প্রতিবিম্ব সমান আকারের আর সমান দূরত্বে কেন? প্রতিটি বিন্দুর প্রতিবিম্ব হলো আয়নার অন্য পাশে তার "যমজ": আয়নার ওপর লম্ব টেনে সমান দূরত্ব আরও এগোলেই পাওয়া যায়। প্রতিটি বিন্দু এভাবে সরালে সব দৈর্ঘ্য একই থাকে, তাই প্রতিবিম্ব হুবহু একই, শুধু সামনে-পেছনে উল্টানো।
+## terms
+প্রতিবিম্ব | যে বিন্দুতে প্রতিফলিত রশ্মি মেলে বা যেখান থেকে আসছে মনে হয়
+বাস্তব প্রতিবিম্ব | রশ্মি সত্যিই মেলে; পর্দায় ফেলা যায়
+অবাস্তব প্রতিবিম্ব | রশ্মি শুধু আসছে মনে হয়; পর্দায় আসে না
+সোজা প্রতিবিম্ব | বস্তুর মতোই ওপর-নিচ ঠিক থাকে
+ক্যালাইডোস্কোপ | তিনটি আয়নার নল, যাতে পুনরাবৃত্ত নকশা দেখা যায়
+পিনহোল ক্যামেরা | ছোট্ট ফুটোওয়ালা বাক্স, যা বাস্তব ও উল্টো প্রতিবিম্ব তৈরি করে
+## formula
+$$ আয়নার পেছনে প্রতিবিম্বের দূরত্ব = সামনে বস্তুর দূরত্ব
+$$ পূর্ণ প্রতিবিম্বের জন্য আয়নার দৈর্ঘ্য = ½ × তোমার উচ্চতা
+! আয়নার ওপরের কিনারা থাকবে চোখ আর মাথার চূড়ার ঠিক মাঝখানে।
+## visual
+বস্তু আর চোখ সরাও। ড্যাশ রেখাগুলো দেখায় প্রতিফলিত রশ্মি কোথা থেকে আসছে বলে মনে হয়; বস্তু আয়নার সামনে যত দূরে, প্রতিবিম্ব পেছনে ঠিক তত দূরে থাকে।
+## real
+সেলুনে নাপিত তোমার পেছনে একটি আর সামনে একটি আয়না রাখেন, যেন তুমি মাথার পেছনটা দেখতে পাও: প্রতিবিম্বের প্রতিবিম্ব। ছোট দোকানে অনেকে দেয়ালে আয়না লাগান, যাতে ঘরটা দ্বিগুণ গভীর মনে হয়, কারণ ঘরের প্রতিবিম্ব আয়নার পেছনে সমান দূরত্বে দেখা যায়।
+## example
+প্রশ্ন: তুমি একটি সমতল আয়নার ২ m সামনে দাঁড়িয়ে আছ। তোমার প্রতিবিম্ব আয়না থেকে এবং তোমার থেকে কত দূরে? আয়নার দিকে ০.৫ m হেঁটে গেলে প্রতিবিম্ব এখন তোমার থেকে কত দূরে?
+দেওয়া আছে: বস্তুর দূরত্ব = ২ m
+হিসাব: প্রতিবিম্ব আয়নার ২ m পেছনে; তোমার থেকে দূরত্ব = ২ + ২ = ৪ m। হাঁটার পর: বস্তুর দূরত্ব = ১.৫ m, তাই তোমার থেকে দূরত্ব = ১.৫ + ১.৫ = ৩ m
+> তুমি যতটুকু এগোও, প্রতিবিম্বও আয়নার দিকে ততটুকু এগোয়, তাই মাঝের ফাঁক দ্বিগুণ দ্রুত কমে।
+উত্তর: আয়না থেকে ২ m, তোমার থেকে ৪ m; হাঁটার পর তোমার থেকে ৩ m।
+## example
+প্রশ্ন: (বই থেকে) একজন মানুষের উচ্চতা ১.৫ m; চোখ মাথার চূড়ার ০.১ m নিচে। পূর্ণ প্রতিবিম্ব দেখতে সবচেয়ে ছোট কত দৈর্ঘ্যের সমতল আয়না লাগবে, আর সেটি কোথায় ঝোলাতে হবে?
+দেওয়া আছে: উচ্চতা = ১.৫ m; চোখের উচ্চতা = ১.৪ m
+হিসাব: আয়নার দৈর্ঘ্য = ½ × ১.৫ = ০.৭৫ m। নিচের কিনারা মেঝে থেকে ½ × ১.৪ = ০.৭ m উঁচুতে; ওপরের কিনারা ১.৪ + ½ × ০.১ = ১.৪৫ m উঁচুতে।
+> পায়ের আলো পা আর চোখের ঠিক মাঝের উচ্চতায় প্রতিফলিত হয়ে চোখে আসে; মাথার চূড়ার আলো প্রতিফলিত হয় মাথা আর চোখের মাঝখানে।
+উত্তর: ০.৭৫ m লম্বা, মেঝে থেকে ০.৭ m থেকে ১.৪৫ m পর্যন্ত ঝোলাতে হবে, আয়না থেকে যেকোনো দূরত্বে দাঁড়ালেই চলবে।
+## mistakes
+x আয়নার পেছনে পর্দা রাখলে সমতল আয়নার প্রতিবিম্ব ধরা যায়।
+v এটি অবাস্তব: সেখানে আসলে কোনো আলো পৌঁছায় না।
+x পুরো শরীর দেখতে নিজের সমান লম্বা আয়না লাগে।
+v যেকোনো দূরত্বে তোমার উচ্চতার অর্ধেক আয়নাই যথেষ্ট।
+x আয়না থেকে দূরে সরলে প্রতিবিম্ব ছোট হয়ে যায়।
+v প্রতিবিম্ব সমান আকারেরই থাকে; চোখ থেকে দূরে বলে শুধু ছোট দেখায়।
+## remember
+- সমতল আয়নার প্রতিবিম্ব: পেছনে সমান দূরত্বে, অবাস্তব, সোজা, সমান আকার।
+- প্রতিবিম্ব খুঁজতে দুটি রশ্মিই যথেষ্ট।
+- বাস্তব প্রতিবিম্ব: রশ্মি মেলে, পর্দায় আসে। অবাস্তব: রশ্মি শুধু আসছে মনে হয়।
+- পূর্ণদৈর্ঘ্য প্রতিবিম্বের জন্য উচ্চতার অর্ধেক আয়না লাগে।
+- পিনহোল বাস্তব ও উল্টো প্রতিবিম্ব তৈরি করে।
+## think
+আয়নার সামনে ডান হাত তুললে প্রতিবিম্ব যেন তার বাম হাত তোলে। অথচ আয়না ওপর-নিচ উল্টায়নি। আয়না আসলে কোনটা উল্টেছে?
+## quiz
+? সমতল আয়নার প্রতিবিম্ব:
+- বাস্তব ও উল্টো
+* অবাস্তব ও সোজা
+- বাস্তব ও সোজা
+- অবাস্তব ও উল্টো
+= আয়নার পেছনে কোনো আলো যায় না, আর প্রতিবিম্ব ওপর-নিচ ঠিক থাকে।
+? একটি বস্তু সমতল আয়নার ৩০ cm সামনে। বস্তু ও প্রতিবিম্বের মধ্যবর্তী দূরত্ব:
+- ৩০ cm
+- ১৫ cm
+* ৬০ cm
+- ৯০ cm
+= প্রতিবিম্ব ৩০ cm পেছনে, তাই ৩০ + ৩০ = ৬০ cm।
+? ১.৬ m লম্বা একজন শিক্ষার্থী পূর্ণদৈর্ঘ্য প্রতিবিম্ব দেখতে চায়। সবচেয়ে ছোট আয়না লাগবে:
+- ১.৬ m
+- ১.২ m
+* ০.৮ m
+- ০.৪ m
+= উচ্চতার অর্ধেক: ০.৮ m।
+? পিনহোল ক্যামেরায় গঠিত প্রতিবিম্ব:
+- অবাস্তব ও সোজা
+* বাস্তব ও উল্টো
+- অবাস্তব ও উল্টো
+- বাস্তব ও সোজা
+= আলো সত্যিই পর্দায় পৌঁছায়, আর রশ্মিগুলো ফুটোতে একে অপরকে ছেদ করে।
+
+@@ 8.4
+@visual c8terms
+@related 8.5 8.6 8.2 9.4
+== en
+## what
+A **spherical mirror** is a mirror whose surface is part of a hollow sphere. If light reflects from the inner (hollow) side it is **concave**; from the outer (bulging) side it is **convex**. To describe them we use a few key terms: pole, centre of curvature, radius of curvature, principal axis, principal focus and focal length.
+## simple
+Pick up a new, shiny steel spoon. Look into the **inside** (the hollow, like a cave): that is a **concave** mirror. Turn it over and look at the **back** (the bulge): that is a **convex** mirror. Your face looks very different in each!
+
+A real spherical mirror is made by cutting a piece from a hollow glass sphere and coating one side with silver or aluminium. Which side is coated decides whether it works as a concave or a convex mirror.
+
+**Key terms** (tap each one in the diagram):
+
+- **Pole (P)**: the middle point of the mirror's reflecting surface.
+- **Centre of curvature (C)**: the centre of the sphere the mirror is a part of.
+- **Radius of curvature (r)**: the radius of that sphere, the distance PC.
+- **Principal axis**: the straight line through the pole and the centre of curvature.
+- **Principal focus (F)**: rays parallel to the principal axis, after reflection, **meet** at F (concave mirror) or **seem to spread out from** F (convex mirror).
+- **Focal length (f)**: the distance from the pole to the principal focus, PF.
+
+For a concave mirror, C and F are **in front** of the mirror (on the same side as the object), so its focus is **real**. For a convex mirror, C and F are **behind** the mirror, so its focus is **virtual**. For both, the focus lies halfway between P and C: **f = r/2** (proved in the next lesson).
+
+**A plane mirror as a limit.** Imagine the sphere growing larger and larger. The mirror gets flatter and flatter, and its focal length grows without limit. So a plane mirror is a spherical mirror with an **infinite** focal length.
+## definition
+**Spherical mirror**: a mirror whose reflecting surface is part of a sphere. **Concave mirror**: reflection takes place from the hollow (inner) surface. **Convex mirror**: reflection takes place from the bulging (outer) surface.
+
+**Pole**: the midpoint of the reflecting surface. **Centre of curvature**: the centre of the sphere of which the mirror is a part. **Radius of curvature**: the radius of that sphere. **Principal axis**: the line joining the pole and the centre of curvature. **Principal focus**: the point on the principal axis where rays parallel to the axis meet after reflection (concave), or from which they appear to diverge after reflection (convex). **Focal length**: the distance between the pole and the principal focus.
+## why
+Why do parallel rays meet at one point in a concave mirror? At each point of the mirror the normal is the radius, which points towards C. Rays near the axis hit the mirror almost head-on and bend only a little; rays further out hit at a bigger angle and bend more. The bending is just right for all of them to cross the axis at about the same point, F.
+## terms
+Concave mirror | Reflects from the hollow side; converges light
+Convex mirror | Reflects from the bulging side; diverges light
+Pole (P) | Midpoint of the mirror surface
+Centre of curvature (C) | Centre of the sphere the mirror belongs to
+Radius of curvature (r) | Radius of that sphere, PC
+Principal axis | Line through P and C
+Principal focus (F) | Where parallel rays meet (or seem to come from) after reflection
+Focal length (f) | Distance PF
+Convergent / divergent | Rays coming together / spreading apart
+## formula
+$$ f = r/2
+f | focal length | m or cm
+r | radius of curvature | m or cm
+! Plane mirror: r → ∞, so f → ∞.
+## visual
+Switch between concave and convex. Tap a term to highlight it on the mirror and read what it means.
+## real
+Look at the headlight of a motorbike or the reflector of a torch: it is a shiny concave bowl. The back of a steel ladle, a Christmas-tree ball, or the dome of a car's side mirror act as convex mirrors.
+## example
+Q: A concave mirror is cut from a sphere of radius 30 cm. Find its focal length. Where is the focus?
+Given: r = 30 cm
+Formula: f = r/2
+Calculation: f = 30 ÷ 2 = 15 cm
+Answer: f = 15 cm; the focus is 15 cm in front of the mirror, halfway between P and C.
+## mistakes
+x The focal length equals the radius of curvature.
+v It is half of it: f = r/2.
+x A convex mirror has its focus in front of the mirror.
+v Its focus is behind the mirror; rays only seem to come from it (virtual focus).
+x The pole is the centre of the sphere.
+v The pole is the middle of the mirror surface; the centre of the sphere is the centre of curvature.
+## remember
+- Concave: reflects from the hollow side; convex: from the bulging side.
+- P = pole, C = centre of curvature, r = PC, F = principal focus, f = PF.
+- f = r/2 for both types.
+- Concave: real focus in front. Convex: virtual focus behind.
+- Plane mirror = spherical mirror with infinite focal length.
+## think
+Which side of a spoon would you use to see a wide view of the whole classroom behind you, and which to see your eye magnified?
+## quiz
+? The distance between the pole and the principal focus is called:
+- Radius of curvature
+* Focal length
+- Principal axis
+- Aperture
+= f = PF.
+? The radius of curvature of a mirror is 24 cm. Its focal length is:
+- 48 cm
+- 24 cm
+* 12 cm
+- 6 cm
+= f = r/2 = 12 cm.
+? The inside (hollow) of a shiny spoon acts as a:
+* Concave mirror
+- Convex mirror
+- Plane mirror
+- Lens
+= Light reflects from the hollow side.
+== bn
+## what
+যে আয়নার তল একটি ফাঁপা গোলকের অংশ, তাকে **গোলীয় আয়না** বলে। ভেতরের (ফাঁপা) দিক থেকে আলো প্রতিফলিত হলে এটি **অবতল**, বাইরের (ফোলা) দিক থেকে হলে **উত্তল**। এদের বর্ণনা করতে কয়েকটি প্রয়োজনীয় সংজ্ঞা লাগে: মেরু, বক্রতার কেন্দ্র, বক্রতার ব্যাসার্ধ, প্রধান অক্ষ, প্রধান ফোকাস ও ফোকাস দূরত্ব।
+## simple
+একটা নতুন চকচকে স্টিলের চামচ হাতে নাও। **ভেতরের** দিকে (গুহার মতো ফাঁপা অংশ) তাকাও: এটি **অবতল** আয়না। উল্টে **পেছনের** দিকে (ফোলা অংশ) তাকাও: এটি **উত্তল** আয়না। দুদিকে তোমার চেহারা একদম আলাদা দেখায়!
+
+সত্যিকারের গোলীয় আয়না বানানো হয় একটি ফাঁপা কাচের গোলক থেকে একটি অংশ কেটে এক পাশে রুপা বা অ্যালুমিনিয়ামের প্রলেপ দিয়ে। কোন পাশে প্রলেপ দেওয়া হলো, তার ওপর নির্ভর করে এটি অবতল না উত্তল আয়না হিসেবে কাজ করবে।
+
+**প্রয়োজনীয় সংজ্ঞা** (চিত্রে প্রতিটিতে চাপ দিয়ে দেখো):
+
+- **মেরু (P)**: আয়নার প্রতিফলক তলের মাঝের বিন্দু।
+- **বক্রতার কেন্দ্র (C)**: আয়নাটি যে গোলকের অংশ, সেই গোলকের কেন্দ্র।
+- **বক্রতার ব্যাসার্ধ (r)**: সেই গোলকের ব্যাসার্ধ, অর্থাৎ PC দূরত্ব।
+- **প্রধান অক্ষ**: মেরু ও বক্রতার কেন্দ্র দিয়ে যাওয়া সরলরেখা।
+- **প্রধান ফোকাস (F)**: প্রধান অক্ষের সমান্তরাল রশ্মিগুলো প্রতিফলনের পর F-এ **মিলিত হয়** (অবতল আয়না) বা F থেকে **ছড়িয়ে আসছে বলে মনে হয়** (উত্তল আয়না)।
+- **ফোকাস দূরত্ব (f)**: মেরু থেকে প্রধান ফোকাসের দূরত্ব, PF।
+
+অবতল আয়নায় C ও F আয়নার **সামনে** (বস্তুর দিকেই), তাই এর ফোকাস **বাস্তব**। উত্তল আয়নায় C ও F আয়নার **পেছনে**, তাই এর ফোকাস **অবাস্তব**। দুই ক্ষেত্রেই ফোকাস থাকে P আর C-এর ঠিক মাঝখানে: **f = r/২** (পরের পাঠে প্রমাণ)।
+
+**সমতল আয়না একটি সীমা।** কল্পনা করো গোলকটা বড় হতে হতে আরও বড় হচ্ছে। আয়না ক্রমশ চ্যাপ্টা হয়, আর ফোকাস দূরত্ব বাড়তেই থাকে। তাই সমতল আয়না হলো **অসীম** ফোকাস দূরত্বের একটি গোলীয় আয়না।
+## definition
+**গোলীয় আয়না**: যে আয়নার প্রতিফলক তল একটি গোলকের অংশ। **অবতল আয়না**: ফাঁপা (ভেতরের) তল থেকে প্রতিফলন হয়। **উত্তল আয়না**: ফোলা (বাইরের) তল থেকে প্রতিফলন হয়।
+
+**মেরু**: প্রতিফলক তলের মধ্যবিন্দু। **বক্রতার কেন্দ্র**: আয়নাটি যে গোলকের অংশ তার কেন্দ্র। **বক্রতার ব্যাসার্ধ**: সেই গোলকের ব্যাসার্ধ। **প্রধান অক্ষ**: মেরু ও বক্রতার কেন্দ্রের সংযোগ রেখা। **প্রধান ফোকাস**: প্রধান অক্ষের ওপর যে বিন্দুতে অক্ষের সমান্তরাল রশ্মিগুলো প্রতিফলনের পর মিলিত হয় (অবতল), বা যে বিন্দু থেকে প্রতিফলনের পর ছড়িয়ে আসছে বলে মনে হয় (উত্তল)। **ফোকাস দূরত্ব**: মেরু ও প্রধান ফোকাসের মধ্যবর্তী দূরত্ব।
+## why
+অবতল আয়নায় সমান্তরাল রশ্মিগুলো এক বিন্দুতে মেলে কেন? আয়নার প্রতিটি বিন্দুতে অভিলম্ব হলো ব্যাসার্ধ, যা C-এর দিকে যায়। অক্ষের কাছের রশ্মি প্রায় সোজাসুজি পড়ে, একটু বাঁকে; দূরের রশ্মি বড় কোণে পড়ে, বেশি বাঁকে। বাঁকার পরিমাণ ঠিক এমন যে সবগুলোই প্রায় একই বিন্দু F-এ অক্ষ অতিক্রম করে।
+## terms
+অবতল আয়না | ফাঁপা দিক থেকে প্রতিফলিত করে; আলো একত্র করে
+উত্তল আয়না | ফোলা দিক থেকে প্রতিফলিত করে; আলো ছড়ায়
+মেরু (P) | আয়নার তলের মধ্যবিন্দু
+বক্রতার কেন্দ্র (C) | আয়না যে গোলকের অংশ তার কেন্দ্র
+বক্রতার ব্যাসার্ধ (r) | সেই গোলকের ব্যাসার্ধ, PC
+প্রধান অক্ষ | P ও C দিয়ে যাওয়া রেখা
+প্রধান ফোকাস (F) | প্রতিফলনের পর সমান্তরাল রশ্মি যেখানে মেলে (বা যেখান থেকে আসছে মনে হয়)
+ফোকাস দূরত্ব (f) | PF দূরত্ব
+অভিসারী / অপসারী | রশ্মি কাছে আসছে / ছড়িয়ে যাচ্ছে
+## formula
+$$ f = r/২
+f | ফোকাস দূরত্ব | m বা cm
+r | বক্রতার ব্যাসার্ধ | m বা cm
+! সমতল আয়না: r → ∞, তাই f → ∞।
+## visual
+অবতল আর উত্তলের মধ্যে বদলাও। কোনো সংজ্ঞায় চাপ দিলে আয়নায় সেটি উজ্জ্বল হবে আর তার অর্থ দেখাবে।
+## real
+মোটরসাইকেলের হেডলাইট বা টর্চের রিফ্লেক্টরের দিকে তাকাও: এটি একটি চকচকে অবতল বাটি। স্টিলের হাতার পেছন দিক, চকচকে বল, বা গাড়ির পাশের আয়নার ফোলা তল উত্তল আয়নার মতো কাজ করে।
+## example
+প্রশ্ন: ৩০ cm ব্যাসার্ধের একটি গোলক থেকে একটি অবতল আয়না কাটা হলো। এর ফোকাস দূরত্ব কত? ফোকাস কোথায়?
+দেওয়া আছে: r = ৩০ cm
+সূত্র: f = r/২
+হিসাব: f = ৩০ ÷ ২ = ১৫ cm
+উত্তর: f = ১৫ cm; ফোকাস আয়নার ১৫ cm সামনে, P ও C-এর ঠিক মাঝখানে।
+## mistakes
+x ফোকাস দূরত্ব বক্রতার ব্যাসার্ধের সমান।
+v এটি অর্ধেক: f = r/২।
+x উত্তল আয়নার ফোকাস আয়নার সামনে থাকে।
+v এর ফোকাস আয়নার পেছনে; রশ্মি শুধু সেখান থেকে আসছে বলে মনে হয় (অবাস্তব ফোকাস)।
+x মেরু হলো গোলকের কেন্দ্র।
+v মেরু হলো আয়নার তলের মাঝের বিন্দু; গোলকের কেন্দ্র হলো বক্রতার কেন্দ্র।
+## remember
+- অবতল: ফাঁপা দিক থেকে প্রতিফলন; উত্তল: ফোলা দিক থেকে।
+- P = মেরু, C = বক্রতার কেন্দ্র, r = PC, F = প্রধান ফোকাস, f = PF।
+- দুই ধরনের আয়নাতেই f = r/২।
+- অবতল: সামনে বাস্তব ফোকাস। উত্তল: পেছনে অবাস্তব ফোকাস।
+- সমতল আয়না = অসীম ফোকাস দূরত্বের গোলীয় আয়না।
+## think
+পেছনের পুরো ক্লাসরুমের চওড়া দৃশ্য দেখতে চামচের কোন দিক ব্যবহার করবে, আর নিজের চোখ বড় করে দেখতে কোন দিক?
+## quiz
+? মেরু ও প্রধান ফোকাসের মধ্যবর্তী দূরত্বকে বলে:
+- বক্রতার ব্যাসার্ধ
+* ফোকাস দূরত্ব
+- প্রধান অক্ষ
+- উন্মেষ
+= f = PF।
+? একটি আয়নার বক্রতার ব্যাসার্ধ ২৪ cm। এর ফোকাস দূরত্ব:
+- ৪৮ cm
+- ২৪ cm
+* ১২ cm
+- ৬ cm
+= f = r/২ = ১২ cm।
+? চকচকে চামচের ভেতরের (ফাঁপা) দিক কাজ করে:
+* অবতল আয়না হিসেবে
+- উত্তল আয়না হিসেবে
+- সমতল আয়না হিসেবে
+- লেন্স হিসেবে
+= আলো ফাঁপা দিক থেকে প্রতিফলিত হয়।
+
+@@ 8.5
+@visual c8convex
+@related 8.4 8.6 8.7 8.8
+== en
+## what
+A **convex mirror** spreads light out. Its focal length is half its radius of curvature (**f = r/2**), and the image it forms is **always virtual, erect and diminished**, lying between the pole and the focus behind the mirror.
+## simple
+Look at yourself in the back of a spoon: you see a **small, upright** face. That is what a convex mirror always does.
+
+**Why f = r/2 (the book's argument).** Take a ray parallel to the principal axis striking the mirror at Y. The normal at Y is the radius, along the line from C through Y. The ray reflects so that, traced backwards, it crosses the axis at a point F behind the mirror.
+
+- The angle of incidence at Y equals the angle of reflection (call it θ).
+- Because the incident ray is parallel to the axis, the angle between the radius CY and the axis is also θ (alternate angles).
+- So in triangle FCY the two base angles at C and Y are both θ: the triangle is isosceles, **FC = FY**.
+- If Y is close to the pole (the mirror is only a small part of the sphere, which is true for most mirrors), FY is almost equal to FP.
+- So F is halfway between P and C: **f = r/2**.
+
+The book points out honestly that this is only **approximately** true: it works well for rays close to the axis.
+
+**Three special rays for a convex mirror:**
+
+1. A ray heading towards the centre of curvature C strikes the mirror along the normal and **reflects straight back**.
+2. A ray **parallel** to the principal axis reflects so that it **seems to come from F** (behind the mirror).
+3. A ray heading **towards F** reflects **parallel** to the principal axis (light can always retrace its path).
+
+**Drawing the image.** Put an upright object XY on the axis in front of the mirror. From the top X, draw ray 1 (towards C) and ray 2 (parallel, then seeming to come from F). The reflected rays spread apart and never meet in front; but their backward extensions meet behind the mirror at X′. Drop a perpendicular from X′ to the axis to get Y′. X′Y′ is the image.
+
+**The image in a convex mirror is always:**
+(a) behind the mirror, between the pole and the focus; the further the object, the closer the image gets to F;
+(b) virtual;
+(c) erect;
+(d) diminished; the further the object, the smaller the image.
+## analogy
+A convex mirror is like the back of a shiny spoon: it bulges out and spreads light. You always look small and upright in it, but you can see a much wider area, which is why it is used as a car's side mirror and at sharp turns on hill roads.
+## definition
+**Convex mirror**: a spherical mirror in which reflection takes place from the outer, bulging surface. Rays parallel to the principal axis diverge after reflection and appear to come from the principal focus behind the mirror.
+
+For a spherical mirror with small aperture, **focal length = ½ × radius of curvature** (f = r/2).
+## why
+Why can a convex mirror never form a real image? Its surface bulges outwards, so every reflected ray is turned further away from the axis than it was coming in. Rays that start from one point of the object only spread out more after reflection, so they can never meet in front. They only seem to come from a point behind the mirror, so the image is always virtual.
+## terms
+Convex mirror | Mirror bulging towards the object; diverges light
+Virtual focus | Point behind a convex mirror from which reflected parallel rays seem to come
+Diminished | Smaller than the object
+Erect | Same way up as the object
+Paraxial rays | Rays close to the principal axis
+## formula
+$$ f = r/2
+$$ 1/u + 1/v = 1/f
+u | object distance from the pole (real object: positive) | m or cm
+v | image distance from the pole (virtual: negative) | m or cm
+f | focal length (convex: negative) | m or cm
+! Sign convention used here (real-is-positive): real distances +, virtual distances −. For a convex mirror f is negative and v always comes out negative (virtual image).
+## visual
+Drag the object-distance slider. The object moves, the two rays are redrawn, and the image stays small, upright and virtual, getting closer to F as the object moves away.
+## real
+The mirror that hangs at the corner of a supermarket or ATM booth, and the round mirror on a bus near the door, are convex: they fit a very wide view into a small mirror, though everything looks smaller and further away.
+## example
+Q: A convex mirror has a radius of curvature of 40 cm. Find its focal length.
+Given: r = 40 cm
+Formula: f = r/2
+Calculation: f = 40 ÷ 2 = 20 cm (behind the mirror)
+Answer: 20 cm; in the real-is-positive sign convention we write f = −20 cm.
+## example
+Q: A car 1.5 m high is 5 m behind a bus whose convex rear-view mirror has a focal length of 20 cm. Where is the image and how tall is it?
+Given: u = 500 cm, f = −20 cm (convex), object height = 150 cm
+Formula: 1/u + 1/v = 1/f
+Substitution: 1/v = 1/f − 1/u = −1/20 − 1/500
+Calculation: 1/v = −(25 + 1)/500 = −26/500 → v ≈ −19.2 cm; m = |v| ÷ u = 19.2 ÷ 500 ≈ 0.038; image height ≈ 0.038 × 150 ≈ 5.8 cm
+> v is negative, so the image is virtual, about 19 cm behind the mirror, just inside F.
+Answer: a virtual, erect image about 19 cm behind the mirror, only about 5.8 cm tall.
+## mistakes
+x A convex mirror can make a real image if the object is far enough away.
+v Its image is always virtual, erect and diminished, wherever the object is.
+x f = r/2 is exactly true for every ray.
+v It is an approximation that holds for rays close to the axis (small mirrors).
+x The image in a convex mirror forms beyond F.
+v It always lies between P and F, behind the mirror.
+## remember
+- f = r/2 (for rays near the axis).
+- Special rays: towards C → straight back; parallel → seems to come from F; towards F → parallel.
+- Image: behind the mirror between P and F, virtual, erect, diminished.
+- Object further away → image smaller and closer to F.
+- Convention here: f of convex mirror is negative; its v is always negative.
+## think
+If you walk towards a large convex mirror from far away, what happens to the size of your image? Will it ever become as big as you?
+## quiz
+? The image formed by a convex mirror is always:
+- Real and inverted
+- Virtual and magnified
+* Virtual, erect and diminished
+- Real and diminished
+= A convex mirror only diverges light.
+? A ray travelling parallel to the principal axis, after reflection from a convex mirror:
+- Passes through F
+* Appears to come from F
+- Returns along the same path
+- Passes through C
+= The focus of a convex mirror is virtual, behind the mirror.
+? A convex mirror has r = 30 cm. Its focal length (magnitude) is:
+- 30 cm
+- 60 cm
+* 15 cm
+- 7.5 cm
+= f = r/2 = 15 cm.
+? As an object moves away from a convex mirror, its image:
+- Gets bigger and moves away from F
+* Gets smaller and moves towards F
+- Becomes real
+- Stays the same
+= The image shrinks and approaches F.
+== bn
+## what
+**উত্তল আয়না** আলোকে ছড়িয়ে দেয়। এর ফোকাস দূরত্ব বক্রতার ব্যাসার্ধের অর্ধেক (**f = r/২**), আর এতে গঠিত প্রতিবিম্ব **সবসময় অবাস্তব, সোজা ও খর্বিত**, যা আয়নার পেছনে মেরু ও ফোকাসের মাঝে থাকে।
+## simple
+চামচের পেছন দিকে নিজেকে দেখো: একটা **ছোট, সোজা** চেহারা দেখবে। উত্তল আয়না সবসময় এটাই করে।
+
+**কেন f = r/২ (বইয়ের যুক্তি)।** প্রধান অক্ষের সমান্তরাল একটি রশ্মি আয়নার Y বিন্দুতে পড়ল। Y-তে অভিলম্ব হলো ব্যাসার্ধ, C থেকে Y বরাবর রেখা। রশ্মিটি এমনভাবে প্রতিফলিত হয় যে পেছনে বাড়ালে এটি আয়নার পেছনে অক্ষের F বিন্দুতে ছেদ করে।
+
+- Y-তে আপতন কোণ = প্রতিফলন কোণ (ধরো θ)।
+- আপতিত রশ্মি অক্ষের সমান্তরাল বলে CY ব্যাসার্ধ আর অক্ষের মাঝের কোণও θ (একান্তর কোণ)।
+- তাই FCY ত্রিভুজে C ও Y-তে দুটি ভূমি-কোণই θ: ত্রিভুজটি সমদ্বিবাহু, **FC = FY**।
+- Y মেরুর কাছে হলে (আয়না গোলকের ছোট একটি অংশ হলে, যা বেশিরভাগ আয়নায় সত্য) FY প্রায় FP-এর সমান।
+- তাই F থাকে P ও C-এর মাঝখানে: **f = r/২**।
+
+বই সততার সাথে বলেছে, এটি শুধু **প্রায়** সত্য: অক্ষের কাছের রশ্মির জন্য ভালো খাটে।
+
+**উত্তল আয়নার তিনটি বিশেষ রশ্মি:**
+
+1. বক্রতার কেন্দ্র C-এর দিকে যাওয়া রশ্মি অভিলম্ব বরাবর পড়ে **সোজা ফিরে আসে**।
+2. প্রধান অক্ষের **সমান্তরাল** রশ্মি প্রতিফলনের পর মনে হয় **F থেকে আসছে** (আয়নার পেছনে)।
+3. **F-এর দিকে** যাওয়া রশ্মি প্রতিফলনের পর প্রধান অক্ষের **সমান্তরাল** হয় (আলো সবসময় নিজের পথ উল্টো দিকে অনুসরণ করতে পারে)।
+
+**প্রতিবিম্ব আঁকা।** আয়নার সামনে অক্ষের ওপর একটি খাড়া বস্তু XY রাখো। মাথা X থেকে ১ নম্বর রশ্মি (C-এর দিকে) আর ২ নম্বর রশ্মি (সমান্তরাল, তারপর যেন F থেকে আসছে) আঁকো। প্রতিফলিত রশ্মিগুলো ছড়িয়ে যায়, সামনে কখনো মেলে না; কিন্তু পেছনে বাড়ালে আয়নার পেছনে X′ বিন্দুতে মেলে। X′ থেকে অক্ষে লম্ব টেনে Y′ পাও। X′Y′ হলো প্রতিবিম্ব।
+
+**উত্তল আয়নার প্রতিবিম্ব সবসময়:**
+(ক) আয়নার পেছনে, মেরু ও ফোকাসের মাঝে; বস্তু যত দূরে, প্রতিবিম্ব F-এর তত কাছে;
+(খ) অবাস্তব;
+(গ) সোজা;
+(ঘ) খর্বিত; বস্তু যত দূরে, প্রতিবিম্ব তত ছোট।
+## analogy
+উত্তল আয়না যেন ঝকঝকে চামচের পেছনের দিক: বাইরের দিকে ফোলা, আলো ছড়িয়ে দেয়। এতে তোমাকে সবসময় ছোট আর সোজা দেখায়, কিন্তু অনেক বড় এলাকা দেখা যায়, তাই গাড়ির পাশের আয়না আর পাহাড়ি রাস্তার বাঁকে এটি ব্যবহার করা হয়।
+## definition
+**উত্তল আয়না**: যে গোলীয় আয়নায় বাইরের ফোলা তল থেকে প্রতিফলন হয়। প্রধান অক্ষের সমান্তরাল রশ্মিগুলো প্রতিফলনের পর অপসারী হয় এবং আয়নার পেছনের প্রধান ফোকাস থেকে আসছে বলে মনে হয়।
+
+ছোট উন্মেষের গোলীয় আয়নায় **ফোকাস দূরত্ব = ½ × বক্রতার ব্যাসার্ধ** (f = r/২)।
+## why
+উত্তল আয়না কখনো বাস্তব প্রতিবিম্ব তৈরি করতে পারে না কেন? এর তল বাইরের দিকে ফোলা, তাই প্রতিটি প্রতিফলিত রশ্মি আসার সময়ের চেয়েও অক্ষ থেকে আরও দূরে সরে যায়। বস্তুর একটি বিন্দু থেকে আসা রশ্মিগুলো প্রতিফলনের পর আরও ছড়িয়ে যায়, সামনে কখনো মিলতে পারে না। শুধু মনে হয় আয়নার পেছনের একটি বিন্দু থেকে আসছে, তাই প্রতিবিম্ব সবসময় অবাস্তব।
+## terms
+উত্তল আয়না | বস্তুর দিকে ফোলা আয়না; আলো ছড়ায়
+অবাস্তব ফোকাস | উত্তল আয়নার পেছনের বিন্দু, যেখান থেকে প্রতিফলিত সমান্তরাল রশ্মি আসছে মনে হয়
+খর্বিত | বস্তুর চেয়ে ছোট
+সোজা | বস্তুর মতোই ওপর-নিচ ঠিক
+অক্ষ-নিকটবর্তী রশ্মি | প্রধান অক্ষের কাছের রশ্মি
+## formula
+$$ f = r/২
+$$ ১/u + ১/v = ১/f
+u | মেরু থেকে বস্তুর দূরত্ব (বাস্তব বস্তু: ধনাত্মক) | m বা cm
+v | মেরু থেকে প্রতিবিম্বের দূরত্ব (অবাস্তব: ঋণাত্মক) | m বা cm
+f | ফোকাস দূরত্ব (উত্তল: ঋণাত্মক) | m বা cm
+! এখানে ব্যবহৃত চিহ্ন প্রথা (বাস্তব-ধনাত্মক): বাস্তব দূরত্ব +, অবাস্তব দূরত্ব −। উত্তল আয়নায় f ঋণাত্মক, আর v সবসময় ঋণাত্মক আসে (অবাস্তব প্রতিবিম্ব)।
+## visual
+বস্তুর দূরত্বের স্লাইডার সরাও। বস্তু সরে, রশ্মি দুটি নতুন করে আঁকা হয়, আর প্রতিবিম্ব ছোট, সোজা ও অবাস্তবই থাকে; বস্তু দূরে গেলে প্রতিবিম্ব F-এর কাছে যায়।
+## real
+সুপারশপ বা এটিএম বুথের কোনায় ঝোলানো আয়না, আর বাসের দরজার কাছের গোল আয়না উত্তল: ছোট আয়নায় অনেক চওড়া দৃশ্য ধরে, যদিও সবকিছু ছোট আর দূরে দেখায়।
+## example
+প্রশ্ন: একটি উত্তল আয়নার বক্রতার ব্যাসার্ধ ৪০ cm। এর ফোকাস দূরত্ব বের করো।
+দেওয়া আছে: r = ৪০ cm
+সূত্র: f = r/২
+হিসাব: f = ৪০ ÷ ২ = ২০ cm (আয়নার পেছনে)
+উত্তর: ২০ cm; বাস্তব-ধনাত্মক চিহ্ন প্রথায় লিখি f = −২০ cm।
+## example
+প্রশ্ন: ১.৫ m উঁচু একটি গাড়ি একটি বাসের ৫ m পেছনে। বাসের উত্তল রিয়ার-ভিউ আয়নার ফোকাস দূরত্ব ২০ cm। প্রতিবিম্ব কোথায় এবং কত উঁচু?
+দেওয়া আছে: u = ৫০০ cm, f = −২০ cm (উত্তল), বস্তুর উচ্চতা = ১৫০ cm
+সূত্র: ১/u + ১/v = ১/f
+মান বসাই: ১/v = ১/f − ১/u = −১/২০ − ১/৫০০
+হিসাব: ১/v = −(২৫ + ১)/৫০০ = −২৬/৫০০ → v ≈ −১৯.২ cm; m = |v| ÷ u = ১৯.২ ÷ ৫০০ ≈ ০.০৩৮; প্রতিবিম্বের উচ্চতা ≈ ০.০৩৮ × ১৫০ ≈ ৫.৮ cm
+> v ঋণাত্মক, তাই প্রতিবিম্ব অবাস্তব, আয়নার প্রায় ১৯ cm পেছনে, F-এর একটু ভেতরে।
+উত্তর: আয়নার প্রায় ১৯ cm পেছনে একটি অবাস্তব, সোজা প্রতিবিম্ব, মাত্র প্রায় ৫.৮ cm উঁচু।
+## mistakes
+x বস্তু যথেষ্ট দূরে থাকলে উত্তল আয়নাও বাস্তব প্রতিবিম্ব তৈরি করতে পারে।
+v বস্তু যেখানেই থাকুক, এর প্রতিবিম্ব সবসময় অবাস্তব, সোজা ও খর্বিত।
+x f = r/২ প্রতিটি রশ্মির জন্য হুবহু সত্য।
+v এটি একটি আসন্ন মান, অক্ষের কাছের রশ্মির (ছোট আয়নার) জন্য খাটে।
+x উত্তল আয়নায় প্রতিবিম্ব F-এর বাইরে হয়।
+v এটি সবসময় আয়নার পেছনে P ও F-এর মাঝে থাকে।
+## remember
+- f = r/২ (অক্ষের কাছের রশ্মির জন্য)।
+- বিশেষ রশ্মি: C-এর দিকে → সোজা ফেরে; সমান্তরাল → যেন F থেকে আসে; F-এর দিকে → সমান্তরাল।
+- প্রতিবিম্ব: আয়নার পেছনে P ও F-এর মাঝে, অবাস্তব, সোজা, খর্বিত।
+- বস্তু দূরে → প্রতিবিম্ব ছোট ও F-এর কাছে।
+- এখানের প্রথায়: উত্তল আয়নার f ঋণাত্মক; এর v সবসময় ঋণাত্মক।
+## think
+অনেক দূর থেকে একটি বড় উত্তল আয়নার দিকে হেঁটে গেলে তোমার প্রতিবিম্বের আকারের কী হবে? এটি কি কখনো তোমার সমান বড় হবে?
+## quiz
+? উত্তল আয়নায় গঠিত প্রতিবিম্ব সবসময়:
+- বাস্তব ও উল্টো
+- অবাস্তব ও বিবর্ধিত
+* অবাস্তব, সোজা ও খর্বিত
+- বাস্তব ও খর্বিত
+= উত্তল আয়না শুধু আলো ছড়ায়।
+? প্রধান অক্ষের সমান্তরাল রশ্মি উত্তল আয়নায় প্রতিফলনের পর:
+- F দিয়ে যায়
+* F থেকে আসছে বলে মনে হয়
+- একই পথে ফেরে
+- C দিয়ে যায়
+= উত্তল আয়নার ফোকাস অবাস্তব, আয়নার পেছনে।
+? একটি উত্তল আয়নার r = ৩০ cm। এর ফোকাস দূরত্বের মান:
+- ৩০ cm
+- ৬০ cm
+* ১৫ cm
+- ৭.৫ cm
+= f = r/২ = ১৫ cm।
+? বস্তু উত্তল আয়না থেকে দূরে সরলে প্রতিবিম্ব:
+- বড় হয় এবং F থেকে দূরে যায়
+* ছোট হয় এবং F-এর দিকে যায়
+- বাস্তব হয়ে যায়
+- একই থাকে
+= প্রতিবিম্ব ছোট হয় আর F-এর কাছে আসে।
+
+@@ 8.6
+@visual c8concave
+@related 8.4 8.5 8.7 9.4.2
+== en
+## what
+A **concave mirror** brings parallel light together at its focus (f = r/2). It is the only mirror that can form **both kinds** of image: a **virtual, erect, magnified** image when the object is between F and P, and a **real, inverted** image when the object is beyond F.
+## simple
+Hold your finger very close to the inside of a shiny spoon: it looks **upright and bigger**. Slowly move it away: it grows even bigger, and then suddenly the image flips **upside down**, and stays inverted however far you go. A plane mirror or convex mirror never does this. The flip happens when the finger passes the focus.
+
+**Focal length.** Parallel rays hitting a concave mirror reflect and **meet** at the focus F, in front of the mirror. After meeting they keep going and spread out again. So before F the rays are **convergent**, after F they are **divergent**. Just like the convex mirror, **f = r/2**, and a plane mirror is the limit with f = ∞.
+
+**Three special rays for a concave mirror:**
+
+1. A ray passing through (or coming from) the centre of curvature C hits the mirror along the normal and **reflects straight back**.
+2. A ray **parallel** to the principal axis reflects **through F**.
+3. A ray **through F** reflects **parallel** to the principal axis.
+
+(Another easy ray: a ray hitting the pole reflects making the same angle with the axis on the other side.)
+
+**Object between F and P.** The reflected rays spread apart and do not meet in front. Traced backwards, they meet **behind** the mirror: the image is **virtual, erect and magnified**. The closer the object is to F, the larger and further away the image. This is how a shaving or make-up mirror works.
+
+**Object beyond F.** Now the reflected rays really **cross in front** of the mirror: the image is **real and inverted**, and can be caught on a screen. Its size depends on where the object is:
+
+- beyond C → image between F and C, **diminished**;
+- at C → image at C, **same size**;
+- between C and F → image beyond C, **magnified**;
+- at F → reflected rays are parallel, image **at infinity**.
+
+Because light can retrace its path, the object and a real image can **swap places**: put an object where the image was, and the new image forms where the object was.
+
+**The mirror formula.** Instead of drawing, you can calculate the image position with one formula, **1/u + 1/v = 1/f**, where u is the object distance, v the image distance and f the focal length, all measured from the pole. The book gives the formula but no sign rule; in this lesson we use the **real-is-positive** convention: distances of real objects and real images are **positive**, distances of virtual images are **negative**; a concave mirror has **f positive**, a convex mirror **f negative**. (Some books use a different sign rule, measuring along the direction of light; they reach the same images with different signs, so always follow one rule consistently.)
+## analogy
+A concave mirror is like a satellite dish or the inside of a steel bowl: it gathers light and brings it together at one point, the focus. Put your face very close to a shining steel spoon's inside and you look huge and upright; move far away and you appear small and upside down.
+## definition
+**Concave mirror**: a spherical mirror in which reflection takes place from the inner, hollow surface. Rays parallel to the principal axis converge after reflection at the principal focus in front of the mirror.
+
+**Mirror formula**: 1/u + 1/v = 1/f, where u = object distance, v = image distance, f = focal length, all measured from the pole.
+
+**Sign convention used here**: real object and image distances positive, virtual distances negative; f positive for a concave mirror and negative for a convex mirror.
+## why
+Why does the image flip when the object crosses F? Inside F the mirror cannot bend the rays from one point enough to make them converge, so they only seem to come from behind: a virtual, upright image. Beyond F the rays are bent enough to cross each other in front of the mirror. Rays from the top of the object cross to below the axis, so the real image is upside down.
+## terms
+Convergent rays | Rays coming together
+Divergent rays | Rays spreading apart
+Real image | Rays actually meet; can be put on a screen; inverted (for one mirror)
+Virtual image | Rays only seem to meet; cannot be put on a screen; erect (for one mirror)
+Magnified | Larger than the object
+Mirror formula | 1/u + 1/v = 1/f
+Sign convention | Rule for giving + or − signs to distances
+## formula
+$$ 1/u + 1/v = 1/f
+$$ f = r/2
+u | object distance from the pole (real object: +) | m or cm
+v | image distance (real: +, virtual: −) | m or cm
+f | focal length (concave: +, convex: −) | m or cm
+! If v comes out negative, the image is virtual (behind the mirror) and erect.
+! Object at C (u = 2f) → image at C (v = 2f), same size, inverted.
+## visual
+Drag the object-distance slider across C and F. Watch the rays, the image position and its nature change, and see the matching row of the book's table light up.
+## real
+Doctors and dentists look into your mouth, ear or eye with a small concave mirror held close, because it gives an upright, magnified view. Solar cookers and large concave dishes collect sunlight at their focus to heat a pot.
+## example
+Q: An object is placed 30 cm in front of a concave mirror of focal length 10 cm. Find the position, nature and size (magnification) of the image.
+Given: u = 30 cm, f = +10 cm (concave)
+Formula: 1/u + 1/v = 1/f
+Substitution: 1/v = 1/10 − 1/30
+Calculation: 1/v = (3 − 1)/30 = 2/30 → v = 15 cm; m = v ÷ u = 15 ÷ 30 = 0.5
+> v is positive, so the image is real, in front of the mirror; the object is beyond C (20 cm), so the image lies between F and C.
+Answer: real, inverted image 15 cm in front of the mirror, half the size of the object.
+## example
+Q: The same mirror (f = 10 cm) is used with the object only 5 cm away. Describe the image.
+Given: u = 5 cm, f = +10 cm
+Substitution: 1/v = 1/10 − 1/5 = (1 − 2)/10 = −1/10
+Calculation: v = −10 cm; m = |v| ÷ u = 10 ÷ 5 = 2
+> Negative v: the image is virtual, 10 cm behind the mirror.
+Answer: virtual, erect image, 10 cm behind the mirror, twice the size of the object.
+## example
+Q: (From the book) An object is placed at twice the focal length of a concave mirror. Where is the image?
+Given: u = 2f
+Calculation: 1/v = 1/f − 1/(2f) = 1/(2f) → v = 2f; m = 2f ÷ 2f = 1
+Answer: at the same place (the centre of curvature), same size, but inverted.
+## mistakes
+x A concave mirror always gives a magnified image.
+v Beyond C it gives a diminished image; only between C and P is the image magnified.
+x A real image is always upright.
+v For a single mirror a real image is always inverted; a virtual one is erect.
+x An object at F gives an image at F.
+v The reflected rays are parallel, so the image is at infinity.
+## remember
+- Concave mirror: real focus in front; f = r/2.
+- Special rays: through C → back; parallel → through F; through F → parallel.
+- Object between F and P → virtual, erect, magnified image behind the mirror.
+- Object beyond F → real, inverted image in front (beyond C: diminished; at C: same size; C–F: magnified).
+- Mirror formula 1/u + 1/v = 1/f; here real +, virtual −; concave f +, convex f −.
+## think
+A torch bulb is placed exactly at the focus of a concave mirror. Using the special rays, explain why the torch throws a straight, parallel beam.
+## quiz
+? An object is at the centre of curvature of a concave mirror. The image is:
+- At F, very small
+* At C, real, inverted, same size
+- Behind the mirror, magnified
+- At infinity
+= u = 2f gives v = 2f and m = 1.
+? To get a virtual, erect, magnified image from a concave mirror, the object must be placed:
+- Beyond C
+- At C
+- Between C and F
+* Between F and P
+= Only inside the focal length is the image virtual and erect.
+? A concave mirror has f = 15 cm and the object is at 30 cm. The image distance is:
+- 15 cm
+* 30 cm
+- 10 cm
+- 60 cm
+= 1/v = 1/15 − 1/30 = 1/30, so v = 30 cm (at C).
+? When the object is between C and F of a concave mirror, the image is:
+- Between F and P, virtual
+- At C, same size
+* Beyond C, real, inverted and magnified
+- Between F and C, diminished
+= This matches the book's table.
+== bn
+## what
+**অবতল আয়না** সমান্তরাল আলোকে তার ফোকাসে একত্র করে (f = r/২)। এটিই একমাত্র আয়না যা **দুই ধরনের** প্রতিবিম্বই তৈরি করতে পারে: বস্তু F ও P-এর মাঝে থাকলে **অবাস্তব, সোজা, বিবর্ধিত** প্রতিবিম্ব, আর বস্তু F-এর বাইরে থাকলে **বাস্তব, উল্টো** প্রতিবিম্ব।
+## simple
+চকচকে চামচের ভেতরের দিকের একদম কাছে আঙুল ধরো: আঙুল **সোজা আর বড়** দেখায়। আস্তে আস্তে দূরে সরাও: আরও বড় হয়, তারপর হঠাৎ প্রতিবিম্বটা **উল্টে** যায়, আর যত দূরেই যাও উল্টোই থাকে। সমতল বা উত্তল আয়না কখনো এমন করে না। আঙুল ফোকাস পার হলেই এই উল্টে যাওয়া ঘটে।
+
+**ফোকাস দূরত্ব।** অবতল আয়নায় পড়া সমান্তরাল রশ্মিগুলো প্রতিফলিত হয়ে আয়নার সামনে ফোকাস F-এ **মিলিত হয়**। মিলিত হওয়ার পরও থেমে না থেকে এগোতে থাকে, আবার ছড়িয়ে যায়। তাই F-এর আগে রশ্মিগুলো **অভিসারী**, F-এর পরে **অপসারী**। উত্তল আয়নার মতোই **f = r/২**, আর সমতল আয়না হলো f = ∞-এর সীমা।
+
+**অবতল আয়নার তিনটি বিশেষ রশ্মি:**
+
+1. বক্রতার কেন্দ্র C দিয়ে যাওয়া (বা C থেকে আসা) রশ্মি অভিলম্ব বরাবর পড়ে **সোজা ফিরে আসে**।
+2. প্রধান অক্ষের **সমান্তরাল** রশ্মি প্রতিফলনের পর **F দিয়ে যায়**।
+3. **F দিয়ে যাওয়া** রশ্মি প্রতিফলনের পর প্রধান অক্ষের **সমান্তরাল** হয়।
+
+(আরেকটি সহজ রশ্মি: মেরুতে পড়া রশ্মি অক্ষের অন্য পাশে সমান কোণ করে প্রতিফলিত হয়।)
+
+**বস্তু F ও P-এর মাঝে।** প্রতিফলিত রশ্মিগুলো ছড়িয়ে যায়, সামনে মেলে না। পেছনে বাড়ালে আয়নার **পেছনে** মেলে: প্রতিবিম্ব **অবাস্তব, সোজা ও বিবর্ধিত**। বস্তু F-এর যত কাছে, প্রতিবিম্ব তত বড় আর তত দূরে। শেভিং বা সাজগোজের আয়না এভাবেই কাজ করে।
+
+**বস্তু F-এর বাইরে।** এবার প্রতিফলিত রশ্মিগুলো আয়নার **সামনে সত্যিই ছেদ করে**: প্রতিবিম্ব **বাস্তব ও উল্টো**, পর্দায় ধরা যায়। এর আকার নির্ভর করে বস্তু কোথায় তার ওপর:
+
+- C-এর বাইরে → প্রতিবিম্ব F ও C-এর মাঝে, **খর্বিত**;
+- C-তে → প্রতিবিম্ব C-তে, **সমান আকার**;
+- C ও F-এর মাঝে → প্রতিবিম্ব C-এর বাইরে, **বিবর্ধিত**;
+- F-এ → প্রতিফলিত রশ্মি সমান্তরাল, প্রতিবিম্ব **অসীমে**।
+
+আলো নিজের পথ উল্টো দিকে অনুসরণ করতে পারে বলে বস্তু আর বাস্তব প্রতিবিম্ব **জায়গা বদল** করতে পারে: প্রতিবিম্ব যেখানে ছিল সেখানে বস্তু রাখলে নতুন প্রতিবিম্ব হয় আগের বস্তুর জায়গায়।
+
+**আয়নার সূত্র।** আঁকার বদলে একটিমাত্র সূত্রে প্রতিবিম্বের অবস্থান হিসাব করা যায়: **১/u + ১/v = ১/f**, যেখানে u বস্তুর দূরত্ব, v প্রতিবিম্বের দূরত্ব আর f ফোকাস দূরত্ব, সবই মেরু থেকে মাপা। বইয়ে সূত্রটি আছে কিন্তু চিহ্নের নিয়ম দেওয়া নেই; এই পাঠে আমরা **বাস্তব-ধনাত্মক** প্রথা ব্যবহার করছি: বাস্তব বস্তু ও বাস্তব প্রতিবিম্বের দূরত্ব **ধনাত্মক**, অবাস্তব প্রতিবিম্বের দূরত্ব **ঋণাত্মক**; অবতল আয়নার **f ধনাত্মক**, উত্তল আয়নার **f ঋণাত্মক**। (কিছু বই আলোর গতির দিক ধরে মাপার ভিন্ন চিহ্ন প্রথা ব্যবহার করে; তাতে প্রতিবিম্ব একই আসে, শুধু চিহ্ন ভিন্ন হয়, তাই সবসময় একটি নিয়মই ধারাবাহিকভাবে মেনে চলো।)
+## analogy
+অবতল আয়না যেন ডিশ অ্যান্টেনা বা স্টিলের বাটির ভেতরের দিক: আলো জড়ো করে এক বিন্দুতে, ফোকাসে মিলিয়ে দেয়। ঝকঝকে স্টিলের চামচের ভেতরের দিকে মুখ খুব কাছে ধরো: তুমি বিশাল আর সোজা; দূরে সরে যাও: ছোট আর উল্টো।
+## definition
+**অবতল আয়না**: যে গোলীয় আয়নায় ভেতরের ফাঁপা তল থেকে প্রতিফলন হয়। প্রধান অক্ষের সমান্তরাল রশ্মিগুলো প্রতিফলনের পর আয়নার সামনের প্রধান ফোকাসে অভিসারী হয়।
+
+**আয়নার সূত্র**: ১/u + ১/v = ১/f, যেখানে u = বস্তুর দূরত্ব, v = প্রতিবিম্বের দূরত্ব, f = ফোকাস দূরত্ব, সবই মেরু থেকে মাপা।
+
+**এখানে ব্যবহৃত চিহ্ন প্রথা**: বাস্তব বস্তু ও প্রতিবিম্বের দূরত্ব ধনাত্মক, অবাস্তব দূরত্ব ঋণাত্মক; অবতল আয়নার f ধনাত্মক, উত্তল আয়নার ঋণাত্মক।
+## why
+বস্তু F পার হলে প্রতিবিম্ব উল্টে যায় কেন? F-এর ভেতরে আয়না একটি বিন্দুর রশ্মিগুলোকে এতটা বাঁকাতে পারে না যে তারা মিলিত হবে, তাই শুধু পেছন থেকে আসছে মনে হয়: অবাস্তব, সোজা প্রতিবিম্ব। F-এর বাইরে রশ্মিগুলো যথেষ্ট বেঁকে আয়নার সামনে একে অপরকে ছেদ করে। বস্তুর মাথা থেকে আসা রশ্মি অক্ষের নিচে গিয়ে মেলে, তাই বাস্তব প্রতিবিম্ব উল্টো।
+## terms
+অভিসারী রশ্মি | কাছে আসতে থাকা রশ্মি
+অপসারী রশ্মি | ছড়িয়ে যেতে থাকা রশ্মি
+বাস্তব প্রতিবিম্ব | রশ্মি সত্যিই মেলে; পর্দায় আসে; উল্টো (একটি আয়নায়)
+অবাস্তব প্রতিবিম্ব | রশ্মি শুধু মেলে মনে হয়; পর্দায় আসে না; সোজা (একটি আয়নায়)
+বিবর্ধিত | বস্তুর চেয়ে বড়
+আয়নার সূত্র | ১/u + ১/v = ১/f
+চিহ্ন প্রথা | দূরত্বকে + বা − চিহ্ন দেওয়ার নিয়ম
+## formula
+$$ ১/u + ১/v = ১/f
+$$ f = r/২
+u | মেরু থেকে বস্তুর দূরত্ব (বাস্তব বস্তু: +) | m বা cm
+v | প্রতিবিম্বের দূরত্ব (বাস্তব: +, অবাস্তব: −) | m বা cm
+f | ফোকাস দূরত্ব (অবতল: +, উত্তল: −) | m বা cm
+! v ঋণাত্মক এলে প্রতিবিম্ব অবাস্তব (আয়নার পেছনে) ও সোজা।
+! বস্তু C-তে (u = ২f) → প্রতিবিম্ব C-তে (v = ২f), সমান আকার, উল্টো।
+## visual
+বস্তুর দূরত্বের স্লাইডার C ও F পার করে সরাও। রশ্মি, প্রতিবিম্বের অবস্থান আর প্রকৃতি কীভাবে বদলায় দেখো, আর বইয়ের সারণির মিলে যাওয়া সারিটি উজ্জ্বল হতে দেখো।
+## real
+ডাক্তার ও দাঁতের ডাক্তার ছোট একটি অবতল আয়না কাছে ধরে মুখ, কান বা চোখের ভেতর দেখেন, কারণ এতে সোজা ও বড় দৃশ্য পাওয়া যায়। সৌরচুলা আর বড় অবতল থালা সূর্যের আলো ফোকাসে জড়ো করে হাঁড়ি গরম করে।
+## example
+প্রশ্ন: ১০ cm ফোকাস দূরত্বের একটি অবতল আয়নার ৩০ cm সামনে একটি বস্তু রাখা হলো। প্রতিবিম্বের অবস্থান, প্রকৃতি ও আকার (বিবর্ধন) বের করো।
+দেওয়া আছে: u = ৩০ cm, f = +১০ cm (অবতল)
+সূত্র: ১/u + ১/v = ১/f
+মান বসাই: ১/v = ১/১০ − ১/৩০
+হিসাব: ১/v = (৩ − ১)/৩০ = ২/৩০ → v = ১৫ cm; m = v ÷ u = ১৫ ÷ ৩০ = ০.৫
+> v ধনাত্মক, তাই প্রতিবিম্ব বাস্তব, আয়নার সামনে; বস্তু C-এর (২০ cm) বাইরে, তাই প্রতিবিম্ব F ও C-এর মাঝে।
+উত্তর: আয়নার ১৫ cm সামনে বাস্তব, উল্টো প্রতিবিম্ব, বস্তুর অর্ধেক আকারের।
+## example
+প্রশ্ন: একই আয়নায় (f = ১০ cm) বস্তুটি মাত্র ৫ cm দূরে রাখা হলো। প্রতিবিম্বের বর্ণনা দাও।
+দেওয়া আছে: u = ৫ cm, f = +১০ cm
+মান বসাই: ১/v = ১/১০ − ১/৫ = (১ − ২)/১০ = −১/১০
+হিসাব: v = −১০ cm; m = |v| ÷ u = ১০ ÷ ৫ = ২
+> v ঋণাত্মক: প্রতিবিম্ব অবাস্তব, আয়নার ১০ cm পেছনে।
+উত্তর: আয়নার ১০ cm পেছনে অবাস্তব, সোজা প্রতিবিম্ব, বস্তুর দ্বিগুণ আকারের।
+## example
+প্রশ্ন: (বই থেকে) অবতল আয়নার ফোকাস দূরত্বের দ্বিগুণ দূরত্বে একটি বস্তু রাখা হলো। প্রতিবিম্ব কোথায় হবে?
+দেওয়া আছে: u = ২f
+হিসাব: ১/v = ১/f − ১/(২f) = ১/(২f) → v = ২f; m = ২f ÷ ২f = ১
+উত্তর: একই জায়গায় (বক্রতার কেন্দ্রে), সমান আকারের, কিন্তু উল্টো।
+## mistakes
+x অবতল আয়না সবসময় বিবর্ধিত প্রতিবিম্ব দেয়।
+v C-এর বাইরে খর্বিত প্রতিবিম্ব দেয়; শুধু C ও P-এর মাঝে প্রতিবিম্ব বিবর্ধিত।
+x বাস্তব প্রতিবিম্ব সবসময় সোজা।
+v একটি আয়নায় বাস্তব প্রতিবিম্ব সবসময় উল্টো; অবাস্তবটি সোজা।
+x বস্তু F-এ থাকলে প্রতিবিম্বও F-এ হয়।
+v প্রতিফলিত রশ্মি সমান্তরাল হয়, তাই প্রতিবিম্ব অসীমে।
+## remember
+- অবতল আয়না: সামনে বাস্তব ফোকাস; f = r/২।
+- বিশেষ রশ্মি: C দিয়ে → ফিরে আসে; সমান্তরাল → F দিয়ে; F দিয়ে → সমান্তরাল।
+- বস্তু F ও P-এর মাঝে → আয়নার পেছনে অবাস্তব, সোজা, বিবর্ধিত প্রতিবিম্ব।
+- বস্তু F-এর বাইরে → সামনে বাস্তব, উল্টো প্রতিবিম্ব (C-এর বাইরে: খর্বিত; C-তে: সমান; C–F: বিবর্ধিত)।
+- আয়নার সূত্র ১/u + ১/v = ১/f; এখানে বাস্তব +, অবাস্তব −; অবতল f +, উত্তল f −।
+## think
+টর্চের বাল্ব অবতল আয়নার ঠিক ফোকাসে বসানো। বিশেষ রশ্মি ব্যবহার করে ব্যাখ্যা করো, টর্চ কেন সোজা, সমান্তরাল আলোকরশ্মিগুচ্ছ ফেলে।
+## quiz
+? বস্তু অবতল আয়নার বক্রতার কেন্দ্রে। প্রতিবিম্ব:
+- F-এ, খুব ছোট
+* C-তে, বাস্তব, উল্টো, সমান আকার
+- আয়নার পেছনে, বিবর্ধিত
+- অসীমে
+= u = ২f হলে v = ২f এবং m = ১।
+? অবতল আয়নায় অবাস্তব, সোজা, বিবর্ধিত প্রতিবিম্ব পেতে বস্তু রাখতে হবে:
+- C-এর বাইরে
+- C-তে
+- C ও F-এর মাঝে
+* F ও P-এর মাঝে
+= শুধু ফোকাস দূরত্বের ভেতরেই প্রতিবিম্ব অবাস্তব ও সোজা।
+? একটি অবতল আয়নার f = ১৫ cm এবং বস্তু ৩০ cm দূরে। প্রতিবিম্বের দূরত্ব:
+- ১৫ cm
+* ৩০ cm
+- ১০ cm
+- ৬০ cm
+= ১/v = ১/১৫ − ১/৩০ = ১/৩০, তাই v = ৩০ cm (C-তে)।
+? অবতল আয়নার C ও F-এর মাঝে বস্তু থাকলে প্রতিবিম্ব:
+- F ও P-এর মাঝে, অবাস্তব
+- C-তে, সমান আকার
+* C-এর বাইরে, বাস্তব, উল্টো ও বিবর্ধিত
+- F ও C-এর মাঝে, খর্বিত
+= বইয়ের সারণির সাথে এটি মেলে।
+
+@@ 8.7
+@visual c8mag
+@related 8.6 8.5 9.4.2
+== en
+## what
+**Magnification (m)** tells how many times larger the image is than the object: m = image height ÷ object height. It also equals image distance ÷ object distance.
+## simple
+A concave mirror can make your eye look 3 times bigger; a convex mirror can make a car look 25 times smaller. We need a number for "how many times bigger". That number is the **magnification**.
+
+If the object's height is l and the image's height is l′, then
+
+**m = l′ / l**
+
+- m > 1: the image is **magnified** (bigger);
+- m = 1: the image is the **same size**;
+- m < 1: the image is **diminished** (smaller).
+
+**Using distances.** Look at the ray that goes to the pole: it reflects at the same angle on the other side. The object and image then form two similar triangles, so their heights are in the same ratio as their distances from the pole:
+
+**m = l′ / l = v / u**
+
+(taking the size of v, without its sign). So once the mirror formula gives you v, you can find the image size straight away.
+
+In this book m is a pure **size ratio** (a positive number). Whether the image is upright or upside down you read from its nature: for one mirror, a **real** image is **inverted** and a **virtual** image is **erect**. (Some books add a minus sign to m for inverted images; that is a different convention for the same fact.)
+
+Magnification has **no unit**, because it is one length divided by another.
+
+**Telescope magnification** means something slightly different: how many times bigger an object looks through the telescope than with the naked eye.
+## definition
+**Magnification**: the ratio of the size (height) of the image to the size (height) of the object. m = l′/l = v/u. It has no unit.
+## why
+Why does m = v/u? The ray from the top of the object to the pole reflects at an equal angle. So the triangle formed by the object, the axis and this ray has the same angles as the triangle formed by the image, the axis and the reflected ray. Similar triangles have their sides in the same ratio: height ÷ distance is the same for both.
+## terms
+Magnification (m) | Image height ÷ object height
+Magnified | m > 1
+Diminished | m < 1
+Object height (l) | Height of the object
+Image height (l′) | Height of the image
+## formula
+$$ m = l′/l
+$$ m = v/u
+m | magnification | no unit
+l | object height | m or cm
+l′ | image height | m or cm
+u, v | object and image distances (sizes, without sign) | m or cm
+! m > 1 magnified, m = 1 same size, m < 1 diminished.
+## visual
+Move the object towards and away from a concave mirror. The graph shows how m shoots up near F, is 1 at C, and falls far away; the bars compare the object and image heights.
+## real
+Make-up and shaving mirrors are concave mirrors with a magnification of about 2 to 5 when your face is close. A hospital ENT doctor's head mirror also magnifies. A car's side mirror has m much less than 1, which is why it carries the warning "objects in mirror are closer than they appear".
+## example
+Q: (From the book's creative question) A stick 2 cm long is placed in front of a concave mirror, and an image 3.51 times larger forms on a screen. Find the length and nature of the image.
+Given: l = 2 cm, m = 3.51
+Formula: m = l′/l → l′ = m × l
+Calculation: l′ = 3.51 × 2 = 7.02 cm
+> The image forms on a screen, so it is real; a real image from one mirror is inverted, and m > 1 means magnified (object between C and F).
+Answer: 7.02 cm long, real, inverted and magnified.
+## example
+Q: An object 4 cm tall is 15 cm from a concave mirror of focal length 10 cm. Find the image distance, magnification and image height.
+Given: l = 4 cm, u = 15 cm, f = +10 cm
+Formula: 1/u + 1/v = 1/f; m = v/u
+Substitution: 1/v = 1/10 − 1/15 = (3 − 2)/30 = 1/30
+Calculation: v = 30 cm; m = 30 ÷ 15 = 2; l′ = 2 × 4 = 8 cm
+Answer: real, inverted image 30 cm in front of the mirror, magnification 2, height 8 cm.
+## mistakes
+x Magnification has the unit cm.
+v It is a ratio of two lengths, so it has no unit.
+x m = 0.5 means the image is half as far away.
+v It means the image is half as tall (and, by m = v/u, also half as far from the pole as the object).
+x A magnification greater than 1 means the image is real.
+v A virtual image (concave mirror, object inside F) can also have m > 1.
+## remember
+- m = image height ÷ object height = l′/l.
+- m = v/u (sizes of the distances).
+- m > 1 magnified; m = 1 same size; m < 1 diminished.
+- No unit.
+- Nature (real/inverted or virtual/erect) is read separately.
+## think
+In the book's experiment, the students later got an image 6 times larger on the screen. Which way must they have moved the stick: towards the focus or away from it? Why?
+## quiz
+? An object 5 cm tall forms an image 15 cm tall. The magnification is:
+- 1/3
+- 10
+* 3
+- 75
+= m = 15 ÷ 5 = 3.
+? The unit of magnification is:
+- cm
+- m
+- dioptre
+* It has no unit
+= It is length ÷ length.
+? An object is 40 cm from a mirror and the image is 10 cm from it. The magnification is:
+* 0.25
+- 4
+- 30
+- 400
+= m = v/u = 10 ÷ 40 = 0.25 (diminished).
+== bn
+## what
+**বিবর্ধন (m)** বলে দেয় প্রতিবিম্ব বস্তুর চেয়ে কত গুণ বড়: m = প্রতিবিম্বের উচ্চতা ÷ বস্তুর উচ্চতা। এটি প্রতিবিম্বের দূরত্ব ÷ বস্তুর দূরত্বের সমানও।
+## simple
+অবতল আয়না তোমার চোখকে ৩ গুণ বড় দেখাতে পারে; উত্তল আয়না একটা গাড়িকে ২৫ গুণ ছোট দেখাতে পারে। "কত গুণ বড়" বোঝাতে একটা সংখ্যা লাগে। সেই সংখ্যাটিই **বিবর্ধন**।
+
+বস্তুর উচ্চতা l আর প্রতিবিম্বের উচ্চতা l′ হলে
+
+**m = l′ / l**
+
+- m > ১: প্রতিবিম্ব **বিবর্ধিত** (বড়);
+- m = ১: প্রতিবিম্ব **সমান আকারের**;
+- m < ১: প্রতিবিম্ব **খর্বিত** (ছোট)।
+
+**দূরত্ব দিয়ে।** মেরুতে যাওয়া রশ্মিটা দেখো: এটি অন্য পাশে সমান কোণে প্রতিফলিত হয়। তখন বস্তু আর প্রতিবিম্ব দুটি সদৃশ ত্রিভুজ তৈরি করে, তাই এদের উচ্চতার অনুপাত মেরু থেকে এদের দূরত্বের অনুপাতের সমান:
+
+**m = l′ / l = v / u**
+
+(v-এর চিহ্ন বাদ দিয়ে শুধু মান নিয়ে)। তাই আয়নার সূত্র থেকে v পেলেই প্রতিবিম্বের আকার সাথে সাথে বের করা যায়।
+
+এই বইয়ে m শুধু একটি **আকারের অনুপাত** (ধনাত্মক সংখ্যা)। প্রতিবিম্ব সোজা না উল্টো তা বোঝা যায় এর প্রকৃতি থেকে: একটি আয়নায় **বাস্তব** প্রতিবিম্ব **উল্টো** আর **অবাস্তব** প্রতিবিম্ব **সোজা**। (কিছু বই উল্টো প্রতিবিম্বের জন্য m-এর সাথে ঋণ চিহ্ন বসায়; একই তথ্যের জন্য এটি ভিন্ন একটি প্রথা।)
+
+বিবর্ধনের **কোনো একক নেই**, কারণ এটি একটি দৈর্ঘ্যকে আরেকটি দৈর্ঘ্য দিয়ে ভাগ।
+
+**টেলিস্কোপের বিবর্ধন** একটু ভিন্ন জিনিস: খালি চোখের তুলনায় টেলিস্কোপে কোনো বস্তুকে কত গুণ বড় দেখায়।
+## definition
+**বিবর্ধন**: প্রতিবিম্বের আকার (উচ্চতা) ও বস্তুর আকারের (উচ্চতার) অনুপাত। m = l′/l = v/u। এর কোনো একক নেই।
+## why
+m = v/u কেন? বস্তুর মাথা থেকে মেরুতে যাওয়া রশ্মি সমান কোণে প্রতিফলিত হয়। তাই বস্তু, অক্ষ ও এই রশ্মি মিলে যে ত্রিভুজ, আর প্রতিবিম্ব, অক্ষ ও প্রতিফলিত রশ্মি মিলে যে ত্রিভুজ, দুটির কোণ একই। সদৃশ ত্রিভুজের বাহুগুলো একই অনুপাতে থাকে: উচ্চতা ÷ দূরত্ব দুটিতেই সমান।
+## terms
+বিবর্ধন (m) | প্রতিবিম্বের উচ্চতা ÷ বস্তুর উচ্চতা
+বিবর্ধিত | m > ১
+খর্বিত | m < ১
+বস্তুর উচ্চতা (l) | বস্তুর উচ্চতা
+প্রতিবিম্বের উচ্চতা (l′) | প্রতিবিম্বের উচ্চতা
+## formula
+$$ m = l′/l
+$$ m = v/u
+m | বিবর্ধন | একক নেই
+l | বস্তুর উচ্চতা | m বা cm
+l′ | প্রতিবিম্বের উচ্চতা | m বা cm
+u, v | বস্তু ও প্রতিবিম্বের দূরত্ব (চিহ্ন ছাড়া মান) | m বা cm
+! m > ১ বিবর্ধিত, m = ১ সমান, m < ১ খর্বিত।
+## visual
+অবতল আয়নার দিকে বস্তুকে কাছে-দূরে সরাও। লেখচিত্র দেখায় F-এর কাছে m কীভাবে লাফিয়ে বাড়ে, C-তে ১ হয়, আর দূরে কমে যায়; দণ্ড দুটি বস্তু ও প্রতিবিম্বের উচ্চতা তুলনা করে।
+## real
+সাজগোজ আর শেভিংয়ের আয়না অবতল, মুখ কাছে থাকলে বিবর্ধন প্রায় ২ থেকে ৫। হাসপাতালের নাক-কান-গলার ডাক্তারের মাথার আয়নাও বিবর্ধিত দেখায়। গাড়ির পাশের আয়নার m ১-এর চেয়ে অনেক কম, তাই এতে লেখা থাকে "আয়নার বস্তু যত দূরে মনে হয় তার চেয়ে কাছে"।
+## example
+প্রশ্ন: (বইয়ের সৃজনশীল প্রশ্ন থেকে) একটি অবতল আয়নার সামনে ২ cm লম্বা একটি কাঠি রাখায় পর্দায় ৩.৫১ গুণ বড় প্রতিবিম্ব পাওয়া গেল। প্রতিবিম্বের দৈর্ঘ্য ও প্রকৃতি বের করো।
+দেওয়া আছে: l = ২ cm, m = ৩.৫১
+সূত্র: m = l′/l → l′ = m × l
+হিসাব: l′ = ৩.৫১ × ২ = ৭.০২ cm
+> প্রতিবিম্ব পর্দায় এসেছে, তাই বাস্তব; একটি আয়নার বাস্তব প্রতিবিম্ব উল্টো, আর m > ১ মানে বিবর্ধিত (বস্তু C ও F-এর মাঝে)।
+উত্তর: ৭.০২ cm লম্বা, বাস্তব, উল্টো ও বিবর্ধিত।
+## example
+প্রশ্ন: ৪ cm উঁচু একটি বস্তু ১০ cm ফোকাস দূরত্বের একটি অবতল আয়না থেকে ১৫ cm দূরে। প্রতিবিম্বের দূরত্ব, বিবর্ধন ও উচ্চতা বের করো।
+দেওয়া আছে: l = ৪ cm, u = ১৫ cm, f = +১০ cm
+সূত্র: ১/u + ১/v = ১/f; m = v/u
+মান বসাই: ১/v = ১/১০ − ১/১৫ = (৩ − ২)/৩০ = ১/৩০
+হিসাব: v = ৩০ cm; m = ৩০ ÷ ১৫ = ২; l′ = ২ × ৪ = ৮ cm
+উত্তর: আয়নার ৩০ cm সামনে বাস্তব, উল্টো প্রতিবিম্ব, বিবর্ধন ২, উচ্চতা ৮ cm।
+## mistakes
+x বিবর্ধনের একক cm।
+v এটি দুটি দৈর্ঘ্যের অনুপাত, তাই কোনো একক নেই।
+x m = ০.৫ মানে প্রতিবিম্ব অর্ধেক দূরে।
+v মানে প্রতিবিম্ব অর্ধেক উঁচু (আর m = v/u অনুযায়ী মেরু থেকেও বস্তুর অর্ধেক দূরত্বে)।
+x বিবর্ধন ১-এর বেশি মানে প্রতিবিম্ব বাস্তব।
+v অবাস্তব প্রতিবিম্বেরও (অবতল আয়না, বস্তু F-এর ভেতরে) m > ১ হতে পারে।
+## remember
+- m = প্রতিবিম্বের উচ্চতা ÷ বস্তুর উচ্চতা = l′/l।
+- m = v/u (দূরত্বের মান)।
+- m > ১ বিবর্ধিত; m = ১ সমান; m < ১ খর্বিত।
+- কোনো একক নেই।
+- প্রকৃতি (বাস্তব/উল্টো বা অবাস্তব/সোজা) আলাদাভাবে বুঝতে হয়।
+## think
+বইয়ের পরীক্ষায় শিক্ষার্থীরা পরে পর্দায় ৬ গুণ বড় প্রতিবিম্ব পেয়েছিল। তারা কাঠিটি কোন দিকে সরিয়েছিল: ফোকাসের দিকে না ফোকাস থেকে দূরে? কেন?
+## quiz
+? ৫ cm উঁচু একটি বস্তুর প্রতিবিম্ব ১৫ cm উঁচু। বিবর্ধন:
+- ১/৩
+- ১০
+* ৩
+- ৭৫
+= m = ১৫ ÷ ৫ = ৩।
+? বিবর্ধনের একক:
+- cm
+- m
+- ডায়প্টার
+* কোনো একক নেই
+= এটি দৈর্ঘ্য ÷ দৈর্ঘ্য।
+? বস্তু আয়না থেকে ৪০ cm এবং প্রতিবিম্ব ১০ cm দূরে। বিবর্ধন:
+* ০.২৫
+- ৪
+- ৩০
+- ৪০০
+= m = v/u = ১০ ÷ ৪০ = ০.২৫ (খর্বিত)।
+
+@@ 8.8
+@visual c8uses
+@related 8.3 8.5 8.6 9.3
+== en
+## what
+**Plane mirrors** turn light in a new direction (dressing mirrors, periscopes, blind road turns); **convex mirrors** give a wide, erect view (rear-view mirrors); **concave mirrors** gather light or make parallel beams (telescopes, torches, searchlights) and magnify (dentists' mirrors).
+## simple
+**Plane mirror.** The most common mirror of all, used whenever we want to send light in a different direction. In a plane mirror, **left and right appear swapped** (lateral inversion): that is why AMBULANCE is written back-to-front on the front of an ambulance, so drivers ahead read it correctly in their mirrors. If two plane mirrors are joined at **90°** and used together as one mirror, the image is reflected twice and left-right comes out **unchanged**. A simple **periscope** uses two plane mirrors at 45°, one above the other, to see over a wall.
+
+**Convex mirror.** It always gives an **erect, diminished** image and fits a **wide field of view** into a small mirror. So the rear-view and side mirrors of cars, buses and motorbikes are convex: the driver can see a large area behind.
+
+**Concave mirror.**
+
+- **Telescopes.** The biggest (and smallest) telescopes in the world use concave mirrors. A good telescope must not only magnify; it must make a **clear image in very dim light**. The larger the concave mirror, the more light it collects.
+- **Searchlights, torches and headlights.** Put a bright bulb **at the focus**: rays from F reflect parallel to the axis, making a strong **parallel beam**. Ship and launch searchlights on our rivers work like this.
+- **Magnifying mirrors.** An object inside F gives an erect, magnified image, so doctors and dentists use small concave mirrors to look into teeth, ears and throats.
+
+**Mirrors at blind turns of hilly roads.** On mountain roads in Bandarban or Rangamati, a sharp, nearly 90° bend hides oncoming traffic behind the hill. A large mirror set at about **45°** at the bend lets drivers from both sides see what is coming. The book describes a plane mirror; in practice **convex** mirrors are very often used, because they show a wider stretch of road.
+## definition
+**Lateral inversion**: in a plane-mirror image, the left side of the object appears as the right side of the image and vice versa.
+
+**Uses of mirrors**: plane mirror (looking-glass, periscope, turning light, blind turns); convex mirror (rear-view and side mirrors, security mirrors); concave mirror (telescopes, searchlights, torches, headlights, doctors' and dentists' mirrors, shaving mirrors, solar cookers).
+## why
+Why are convex mirrors, not plane mirrors, used as rear-view mirrors? A plane mirror of the same size shows only a narrow slice of the road behind, the same width as the mirror seen from the eye. A convex mirror bends the rays from a much wider area into the eye, so the driver sees more, though everything looks smaller.
+## terms
+Lateral inversion | Left and right swapped in a plane-mirror image
+Periscope | Tube with two 45° mirrors for seeing over obstacles
+Rear-view mirror | Convex mirror showing the road behind
+Searchlight | Concave mirror with the lamp at its focus → parallel beam
+Reflecting telescope | Telescope that collects light with a large concave mirror
+## visual
+Pick a use: lateral inversion, periscope, rear-view mirror, torch or searchlight, and hill-road turn. The rays show how each mirror does its job.
+## real
+Look around a bus stand: the side mirrors of buses are convex, the ambulance has its name written in mirror letters, a torch or rickshaw headlight has a shiny concave bowl behind the bulb, and there may be a large round convex mirror at a hidden corner of a flyover ramp or parking area.
+## mistakes
+x Rear-view mirrors are plane mirrors so that distances look correct.
+v They are convex, to give a wide field of view; distances look larger than they really are.
+x In a torch the bulb can be anywhere in front of the mirror.
+v It must be at the focus to give a parallel beam.
+x A good telescope's main job is only to make distant things look big.
+v It must also collect enough light to form a clear image of very dim objects; so large mirrors are used.
+## remember
+- Plane: turns light; lateral inversion; periscope (two 45° mirrors); two mirrors at 90° keep left-right.
+- Convex: wide view, erect and diminished → rear-view and side mirrors.
+- Concave: telescopes (collect light), lamp at focus → parallel beam (torch, searchlight), magnifying mirrors (doctors, dentists).
+- Blind hill turns: a large mirror at about 45° (often convex).
+## think
+Why is the word AMBULANCE written in reverse on the front of an ambulance but normally on its sides?
+## quiz
+? The rear-view mirror of a car is a:
+- Plane mirror
+* Convex mirror
+- Concave mirror
+- Lens
+= A convex mirror gives a wide, erect view.
+? In a torch, the bulb is placed:
+- At the centre of curvature
+* At the principal focus of a concave mirror
+- Behind the mirror
+- Between F and P of a convex mirror
+= Rays from F reflect parallel, giving a beam.
+? Large telescopes use concave mirrors mainly because they:
+- Make images erect
+* Collect a lot of light to form clear images
+- Are lighter than lenses
+- Give lateral inversion
+= The bigger the mirror, the more light it gathers.
+== bn
+## what
+**সমতল আয়না** আলোকে নতুন দিকে ঘোরায় (সাজগোজের আয়না, পেরিস্কোপ, পাহাড়ি রাস্তার বাঁক); **উত্তল আয়না** চওড়া, সোজা দৃশ্য দেয় (রিয়ার-ভিউ আয়না); **অবতল আয়না** আলো জড়ো করে বা সমান্তরাল রশ্মিগুচ্ছ তৈরি করে (টেলিস্কোপ, টর্চ, সার্চলাইট) এবং বড় করে দেখায় (দাঁতের ডাক্তারের আয়না)।
+## simple
+**সমতল আয়না।** সবচেয়ে বেশি ব্যবহৃত আয়না; আলোকে অন্য দিকে পাঠাতে চাইলেই এটি লাগে। সমতল আয়নায় **ডান-বাম উল্টে যায়** (পার্শ্বীয় পরিবর্তন): এজন্যই অ্যাম্বুলেন্সের সামনে AMBULANCE লেখাটা উল্টো করে লেখা থাকে, যাতে সামনের গাড়ির চালক নিজের আয়নায় ঠিকভাবে পড়তে পারেন। দুটি সমতল আয়না **৯০°** কোণে জুড়ে একটি আয়না হিসেবে ব্যবহার করলে প্রতিবিম্ব দুবার প্রতিফলিত হয়, আর ডান-বাম **অবিকৃত** থাকে। সাধারণ **পেরিস্কোপে** ওপর-নিচে ৪৫° কোণে রাখা দুটি সমতল আয়না দিয়ে দেয়ালের ওপারে দেখা যায়।
+
+**উত্তল আয়না।** এটি সবসময় **সোজা, খর্বিত** প্রতিবিম্ব দেয় এবং ছোট আয়নায় **চওড়া দৃশ্য** ধরে। তাই গাড়ি, বাস আর মোটরসাইকেলের রিয়ার-ভিউ ও পাশের আয়না উত্তল: চালক পেছনের অনেকটা জায়গা দেখতে পান।
+
+**অবতল আয়না।**
+
+- **টেলিস্কোপ।** পৃথিবীর সবচেয়ে বড় (এবং সবচেয়ে ছোট) টেলিস্কোপগুলোতে অবতল আয়না ব্যবহার হয়। ভালো টেলিস্কোপের কাজ শুধু বড় করে দেখানো নয়; **খুব কম আলোতেও স্পষ্ট প্রতিবিম্ব** তৈরি করা। অবতল আয়না যত বড়, তত বেশি আলো জড়ো করে।
+- **সার্চলাইট, টর্চ ও হেডলাইট।** উজ্জ্বল বাল্বটি **ফোকাসে** রাখো: F থেকে আসা রশ্মি প্রতিফলিত হয়ে অক্ষের সমান্তরাল হয়, তৈরি হয় শক্তিশালী **সমান্তরাল রশ্মিগুচ্ছ**। আমাদের নদীতে জাহাজ ও লঞ্চের সার্চলাইট এভাবে কাজ করে।
+- **বড় করে দেখার আয়না।** F-এর ভেতরে থাকা বস্তুর সোজা ও বড় প্রতিবিম্ব হয়, তাই ডাক্তার ও দাঁতের ডাক্তার দাঁত, কান আর গলার ভেতর দেখতে ছোট অবতল আয়না ব্যবহার করেন।
+
+**পাহাড়ি রাস্তার অদৃশ্য বাঁকে আয়না।** বান্দরবান বা রাঙামাটির পাহাড়ি রাস্তায় প্রায় ৯০°-এর তীক্ষ্ণ বাঁকে পাহাড়ের আড়ালে উল্টো দিকের গাড়ি দেখা যায় না। বাঁকে প্রায় **৪৫°** কোণে একটি বড় আয়না বসালে দুই দিকের চালকই দেখতে পান কী আসছে। বইয়ে সমতল বা উত্তল আয়নার কথা বলা আছে; বাস্তবে প্রায়ই **উত্তল** আয়না ব্যবহার হয়, কারণ এতে রাস্তার বেশি অংশ দেখা যায়।
+## definition
+**পার্শ্বীয় পরিবর্তন**: সমতল আয়নার প্রতিবিম্বে বস্তুর বাম দিক প্রতিবিম্বের ডান দিক এবং ডান দিক বাম দিক বলে মনে হয়।
+
+**আয়নার ব্যবহার**: সমতল আয়না (দেখার আয়না, পেরিস্কোপ, আলোর দিক বদল, অদৃশ্য বাঁক); উত্তল আয়না (রিয়ার-ভিউ ও পাশের আয়না, নিরাপত্তা আয়না); অবতল আয়না (টেলিস্কোপ, সার্চলাইট, টর্চ, হেডলাইট, ডাক্তার ও দাঁতের ডাক্তারের আয়না, শেভিংয়ের আয়না, সৌরচুলা)।
+## why
+রিয়ার-ভিউ আয়না হিসেবে সমতল নয়, উত্তল আয়না ব্যবহার হয় কেন? একই আকারের সমতল আয়না পেছনের রাস্তার শুধু একটি সরু অংশ দেখায়। উত্তল আয়না অনেক চওড়া জায়গার রশ্মিকে বাঁকিয়ে চোখে পাঠায়, তাই চালক বেশি দেখতে পান, যদিও সবকিছু ছোট দেখায়।
+## terms
+পার্শ্বীয় পরিবর্তন | সমতল আয়নার প্রতিবিম্বে ডান-বাম উল্টে যাওয়া
+পেরিস্কোপ | বাধার ওপারে দেখতে দুটি ৪৫° আয়নাওয়ালা নল
+রিয়ার-ভিউ আয়না | পেছনের রাস্তা দেখানো উত্তল আয়না
+সার্চলাইট | ফোকাসে বাতিওয়ালা অবতল আয়না → সমান্তরাল রশ্মিগুচ্ছ
+প্রতিফলক টেলিস্কোপ | বড় অবতল আয়না দিয়ে আলো জড়ো করা টেলিস্কোপ
+## visual
+একটি ব্যবহার বেছে নাও: পার্শ্বীয় পরিবর্তন, পেরিস্কোপ, রিয়ার-ভিউ আয়না, টর্চ বা সার্চলাইট, আর পাহাড়ি রাস্তার বাঁক। রশ্মিগুলো দেখায় প্রতিটি আয়না কীভাবে তার কাজ করে।
+## real
+বাসস্ট্যান্ডে চারপাশে তাকাও: বাসের পাশের আয়না উত্তল, অ্যাম্বুলেন্সের নাম আয়না-অক্ষরে লেখা, টর্চ বা রিকশার হেডলাইটে বাল্বের পেছনে চকচকে অবতল বাটি, আর ফ্লাইওভারের র‍্যাম্প বা পার্কিংয়ের আড়াল কোনায় হয়তো বড় গোল উত্তল আয়না।
+## mistakes
+x দূরত্ব ঠিক দেখানোর জন্য রিয়ার-ভিউ আয়না সমতল হয়।
+v চওড়া দৃশ্যের জন্য এগুলো উত্তল; এতে দূরত্ব আসলের চেয়ে বেশি মনে হয়।
+x টর্চে বাল্ব আয়নার সামনে যেকোনো জায়গায় রাখা যায়।
+v সমান্তরাল রশ্মিগুচ্ছ পেতে এটিকে ফোকাসেই রাখতে হয়।
+x ভালো টেলিস্কোপের একমাত্র কাজ দূরের জিনিস বড় করে দেখানো।
+v খুব ক্ষীণ বস্তুর স্পষ্ট প্রতিবিম্বের জন্য যথেষ্ট আলো জড়ো করাও এর কাজ; তাই বড় আয়না লাগে।
+## remember
+- সমতল: আলো ঘোরায়; পার্শ্বীয় পরিবর্তন; পেরিস্কোপ (দুটি ৪৫° আয়না); ৯০°-এ দুটি আয়না ডান-বাম ঠিক রাখে।
+- উত্তল: চওড়া দৃশ্য, সোজা ও খর্বিত → রিয়ার-ভিউ ও পাশের আয়না।
+- অবতল: টেলিস্কোপ (আলো জড়ো করে), ফোকাসে বাতি → সমান্তরাল রশ্মিগুচ্ছ (টর্চ, সার্চলাইট), বড় করে দেখার আয়না (ডাক্তার, দাঁতের ডাক্তার)।
+- পাহাড়ি রাস্তার অদৃশ্য বাঁক: প্রায় ৪৫° কোণে বড় আয়না (প্রায়ই উত্তল)।
+## think
+অ্যাম্বুলেন্সের সামনে AMBULANCE লেখাটা উল্টো করে লেখা থাকে, কিন্তু পাশে সাধারণভাবে। কেন?
+## quiz
+? গাড়ির রিয়ার-ভিউ আয়না:
+- সমতল আয়না
+* উত্তল আয়না
+- অবতল আয়না
+- লেন্স
+= উত্তল আয়না চওড়া, সোজা দৃশ্য দেয়।
+? টর্চে বাল্ব রাখা হয়:
+- বক্রতার কেন্দ্রে
+* অবতল আয়নার প্রধান ফোকাসে
+- আয়নার পেছনে
+- উত্তল আয়নার F ও P-এর মাঝে
+= F থেকে আসা রশ্মি সমান্তরাল হয়ে প্রতিফলিত হয়, তৈরি হয় রশ্মিগুচ্ছ।
+? বড় টেলিস্কোপে অবতল আয়না ব্যবহারের প্রধান কারণ, এটি:
+- প্রতিবিম্ব সোজা করে
+* অনেক আলো জড়ো করে স্পষ্ট প্রতিবিম্ব তৈরি করে
+- লেন্সের চেয়ে হালকা
+- পার্শ্বীয় পরিবর্তন ঘটায়
+= আয়না যত বড়, তত বেশি আলো জড়ো করে।

@@ -1,0 +1,2127 @@
+@@chapter
+== en
+## intro
+Look around your home for five minutes and you will see chemistry happening. Gas burns with a blue flame in the chula, rice softens in the pot, a knife left outside grows a brown crust of rust, milk turns into doi, and an antacid tablet calms a burning stomach. In each case old substances disappear and new ones appear, with new properties. These are **chemical reactions**, and this chapter is all about them.
+
+You will learn to tell a physical change from a chemical change, and to sort reactions in several ways: by direction (reversible or irreversible), by heat (exothermic or endothermic) and by electron transfer (redox or non-redox), including how to work out **oxidation numbers**. You will meet neutralisation, precipitation, hydrolysis, hydration, isomerisation and polymerisation, see many reactions from daily life and learn how to stop harmful ones such as rusting. Finally you will explore how fast reactions go, and what happens when a reversible reaction reaches **equilibrium**, as explained by **Le Chatelier's principle**.
+## objectives
+- distinguish between physical change and chemical change, and identify a chemical change from its signs
+- classify reactions as reversible or irreversible, and as exothermic or endothermic (using ΔH)
+- explain oxidation and reduction as loss and gain of electrons, write half-reactions and identify oxidising and reducing agents
+- calculate oxidation numbers using the rules of Table 7.01
+- recognise addition, decomposition, displacement and combustion as redox reactions
+- explain neutralisation and precipitation as non-redox reactions, with ionic equations
+- describe hydrolysis, hydration, isomerisation and polymerisation with examples
+- explain chemical reactions in everyday life and suggest ways to prevent harmful ones such as rusting
+- explain the rate of a reaction and the factors that change it, through simple experiments
+- explain chemical equilibrium and use Le Chatelier's principle to predict the effect of temperature, pressure and concentration
+== bn
+## intro
+পাঁচ মিনিট তোমার বাড়ির চারপাশে তাকাও, দেখবে রসায়ন ঘটছে। চুলায় নীল শিখায় গ্যাস জ্বলছে, হাঁড়িতে চাল নরম হয়ে ভাত হচ্ছে, বাইরে পড়ে থাকা ছুরিতে বাদামি মরিচা জমছে, দুধ দই হয়ে যাচ্ছে, আর একটা এন্টাসিড বড়ি পেটের জ্বালা কমিয়ে দিচ্ছে। প্রতিটি ক্ষেত্রে পুরোনো পদার্থ হারিয়ে যায় আর নতুন ধর্মের নতুন পদার্থ তৈরি হয়। এগুলোই **রাসায়নিক বিক্রিয়া**, আর এই অধ্যায় পুরোটাই এদের নিয়ে।
+
+তুমি শিখবে ভৌত পরিবর্তন আর রাসায়নিক পরিবর্তনের পার্থক্য, আর বিক্রিয়াকে কয়েকভাবে ভাগ করতে: দিক অনুযায়ী (উভমুখী বা একমুখী), তাপ অনুযায়ী (তাপোৎপাদী বা তাপহারী) এবং ইলেকট্রন স্থানান্তর অনুযায়ী (রেডক্স বা নন-রেডক্স), সাথে **জারণ সংখ্যা** নির্ণয়ের কৌশল। পরিচিত হবে প্রশমন, অধঃক্ষেপণ, আর্দ্র বিশ্লেষণ, পানিযোজন, সমাণুকরণ ও পলিমারকরণ বিক্রিয়ার সাথে, দেখবে দৈনন্দিন জীবনের অনেক বিক্রিয়া, আর শিখবে মরিচার মতো ক্ষতিকর বিক্রিয়া কীভাবে ঠেকাতে হয়। শেষে জানবে বিক্রিয়া কত দ্রুত চলে, আর উভমুখী বিক্রিয়া **সাম্যাবস্থায়** পৌঁছালে কী হয়, যা ব্যাখ্যা করে **লা-শাতেলিয়ার নীতি**।
+## objectives
+- ভৌত পরিবর্তন ও রাসায়নিক পরিবর্তনের পার্থক্য করতে এবং লক্ষণ দেখে রাসায়নিক পরিবর্তন শনাক্ত করতে পারবে
+- বিক্রিয়াকে উভমুখী বা একমুখী, এবং তাপোৎপাদী বা তাপহারী (ΔH ব্যবহার করে) হিসেবে শ্রেণিবিভাগ করতে পারবে
+- জারণ ও বিজারণকে ইলেকট্রন ত্যাগ ও গ্রহণ হিসেবে ব্যাখ্যা করতে, অর্ধবিক্রিয়া লিখতে এবং জারক ও বিজারক শনাক্ত করতে পারবে
+- টেবিল ৭.০১-এর নিয়ম ব্যবহার করে জারণ সংখ্যা হিসাব করতে পারবে
+- সংযোজন, বিয়োজন, প্রতিস্থাপন ও দহন বিক্রিয়াকে রেডক্স বিক্রিয়া হিসেবে চিনতে পারবে
+- প্রশমন ও অধঃক্ষেপণকে নন-রেডক্স বিক্রিয়া হিসেবে আয়নিক সমীকরণসহ ব্যাখ্যা করতে পারবে
+- আর্দ্র বিশ্লেষণ, পানিযোজন, সমাণুকরণ ও পলিমারকরণ উদাহরণসহ বর্ণনা করতে পারবে
+- দৈনন্দিন জীবনের রাসায়নিক বিক্রিয়া ব্যাখ্যা করতে এবং মরিচার মতো ক্ষতিকর বিক্রিয়া রোধের উপায় বলতে পারবে
+- সহজ পরীক্ষার মাধ্যমে বিক্রিয়ার হার ও তার ওপর প্রভাব ফেলা নিয়ামকগুলো ব্যাখ্যা করতে পারবে
+- রাসায়নিক সাম্যাবস্থা ব্যাখ্যা করতে এবং লা-শাতেলিয়ার নীতি দিয়ে তাপমাত্রা, চাপ ও ঘনমাত্রার প্রভাব অনুমান করতে পারবে
+
+@@ 7.1
+@visual k7change
+@related 7.2.1 6.3 2.1 2.7
+== en
+## what
+In a **physical change** only the state, shape or size of a substance changes; its molecules stay the same (ice → water). In a **chemical change** old bonds break and new bonds form, so a **new substance with new properties** is made (methane burning → carbon dioxide and water).
+## simple
+Everything around you is changing all the time: heat, pressure and contact with other substances change it. Chemists sort all these changes into two big groups.
+
+**7.1.1 Physical change.** Put a piece of ice on a plate at room temperature. It takes heat from the surroundings and slowly melts into water. Heat that water to 100 °C and it becomes water vapour (steam). Ice, water and steam look and feel completely different, but every molecule in all three is the same **H₂O**: two hydrogen atoms joined to one oxygen atom. Only the **physical state** has changed: solid → liquid → gas. Cool the steam and the water, and you get ice back.
+
+ice ⇌ water ⇌ steam (add heat → ; remove heat ←)
+
+Other physical changes: dissolving sugar in tea, tearing paper, melting wax, crushing a biscuit, sublimation of naphthalene balls in an almirah, a bulb glowing when current flows. No new substance is made.
+
+**7.1.2 Chemical change.** Now light the gas in the chula. The main part of natural gas is methane (CH₄). It burns in oxygen and produces carbon dioxide, water vapour and heat:
+
+CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g) + heat
+
+Methane and oxygen have **disappeared**. Carbon dioxide and water are completely new substances with different properties. This is a **chemical change**, and the process is called a **chemical reaction**.
+
+What happens inside? The bonds holding the old molecules together break, giving separate atoms or ions. These then join in a new way, forming new bonds and new molecules. The atoms themselves are not created or destroyed; they are only **rearranged**. So in short: **chemical change = breaking old bonds + forming new bonds.**
+
+Another example: drop a piece of marble or limestone (calcium carbonate) into hydrochloric acid. It fizzes as carbon dioxide gas is given off:
+
+CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g) + H₂O(l)
+
+**How to tell them apart.** Look for the signs of a chemical change:
+- a gas is given off (bubbles, fizzing) that was not there before
+- a colour change (a shiny iron nail turning reddish-brown)
+- heat or light is given out or taken in (burning, a flame)
+- a precipitate (an insoluble solid) forms when two solutions are mixed
+- a new smell or taste (milk turning sour)
+- the change is usually hard to reverse by simply cooling or heating
+
+One sign alone can mislead you (boiling water also gives bubbles!), so always ask the real question: **has a new substance been formed?**
+## analogy
+Think of a set of Lego bricks. Moving your finished Lego house from the table to the floor, or putting it in a box, is like a physical change: it is still the same house. Pulling the house apart and building a car from the same bricks is like a chemical change: the bricks (atoms) are the same, but they are joined in a new way, making something new.
+## definition
+**Physical change (ভৌত পরিবর্তন)**: a change in which only the physical state or outward form of a substance changes, while its internal chemical composition (its molecules) stays the same, and no new substance is formed.
+
+**Chemical change (রাসায়নিক পরিবর্তন)**: a change in which one or more substances turn into completely new substances with new properties. Old bonds break and new bonds form; the process is called a **chemical reaction**.
+## why
+Why do physical changes not make new substances? Melting and boiling only change how far apart the molecules are and how fast they move: heat overcomes the weak attractions *between* molecules. The strong bonds *inside* each H₂O molecule are untouched. In a chemical change the strong bonds inside the molecules themselves break and re-form in a new pattern, so the particles are no longer the same, and neither are the properties.
+## terms
+Physical change | Change of state, shape or size only; no new substance
+Chemical change | Change that forms new substances with new properties
+Chemical reaction | The process by which a chemical change happens
+Reactant | A starting substance in a reaction
+Product | A new substance formed in a reaction
+Precipitate | An insoluble solid formed when solutions are mixed
+## visual
+Read each change and decide whether it is physical or chemical. The feedback shows what happens to the particles and which signs to look for.
+## real
+In a Bangladeshi kitchen you see both kinds of change side by side. Ghee melting in a pan and water boiling for tea are physical changes. The gas burning under the pan, onions browning, rice cooking and milk turning into doi are chemical changes. Farmers see chemical change too: rust on a tin roof or a plough, and paddy straw rotting into compost.
+## example
+Q: Classify each change as physical or chemical, giving a reason: (a) ice melting, (b) methane burning, (c) sugar dissolving in water, (d) an iron nail rusting.
+Solution: (a) Physical: ice and water are both H₂O; only the state changes. (b) Chemical: new substances, CO₂ and H₂O, form, with heat and light. (c) Physical: the sugar molecules are only spread through the water; evaporate the water and you get the sugar back. (d) Chemical: iron joins with oxygen and water to form rust, a new brown substance.
+> Ask "is there a new substance?" rather than "does it look different?".
+Answer: (a) physical, (b) chemical, (c) physical, (d) chemical.
+## example
+Q: 10 g of calcium carbonate reacts completely with hydrochloric acid. What mass of carbon dioxide is formed? (Ca = 40, C = 12, O = 16)
+Given: CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g) + H₂O(l); M(CaCO₃) = 40 + 12 + 3 × 16 = 100; M(CO₂) = 44
+Formula: n = w/M; 1 mol CaCO₃ gives 1 mol CO₂
+Calculation: n(CaCO₃) = 10 ÷ 100 = 0.1 mol, so n(CO₂) = 0.1 mol; mass = 0.1 × 44 = 4.4 g
+> The fizzing gas is a new substance: a sure sign of a chemical change.
+Answer: 4.4 g of CO₂
+## example
+Q: 50 g of ice melts completely. What is the mass of the water formed? Is this change physical or chemical?
+Solution: In melting, no atom is lost or gained and no new molecule forms; the same H₂O molecules only move more freely.
+Answer: 50 g of water; it is a physical change.
+## mistakes
+x Any change that gives bubbles is a chemical change.
+v Boiling water also bubbles, but the bubbles are just steam (still H₂O). A chemical change needs a new substance.
+x Dissolving salt or sugar in water is a chemical change because the solid "disappears".
+v Dissolving is a physical change: the particles are only spread out, and evaporating the water gives them back.
+x In a chemical change, atoms are destroyed and new atoms are made.
+v Atoms are never created or destroyed; they are rearranged by breaking old bonds and forming new ones.
+## remember
+- Physical change: same molecules, new state or form (melting, boiling, dissolving, tearing).
+- Chemical change: new substances with new properties (burning, rusting, cooking).
+- Chemical change = breaking old bonds + forming new bonds; atoms are only rearranged.
+- Signs: gas, colour change, heat/light, precipitate, new smell; the key test is a new substance.
+## think
+A burning candle shows both kinds of change at the same time. Which part is physical and which part is chemical?
+## quiz
+? Which of these is a chemical change?
+- Ice melting
+- Sugar dissolving in water
+* Milk turning into doi
+- Water boiling
+= Doi contains new substances (such as lactic acid) that were not in the milk; the others only change state or mix.
+? When water turns into steam:
+* The H₂O molecules stay the same; only the state changes
+- New molecules of hydrogen and oxygen form
+- Water breaks into H₂ and O₂
+- The mass increases
+= Boiling only separates the molecules; each is still H₂O.
+? In a chemical reaction:
+- Atoms are destroyed
+- New atoms are created
+* Old bonds break and new bonds form
+- Nothing happens to the bonds
+= The atoms are rearranged: old bonds break and new ones form, making new substances.
+? The best single test for a chemical change is:
+- A change in shape
+- Bubbles appearing
+* Formation of a new substance
+- A change in temperature
+= Bubbles or temperature changes can also happen in physical changes; a new substance is the real sign.
+== bn
+## what
+**ভৌত পরিবর্তনে** শুধু পদার্থের অবস্থা, আকার বা আকৃতি বদলায়; অণুগুলো একই থাকে (বরফ → পানি)। **রাসায়নিক পরিবর্তনে** পুরোনো বন্ধন ভাঙে আর নতুন বন্ধন গড়ে, ফলে **নতুন ধর্মের নতুন পদার্থ** তৈরি হয় (মিথেন পুড়ে → কার্বন ডাই-অক্সাইড ও পানি)।
+## simple
+তোমার চারপাশের সবকিছু সারাক্ষণ বদলাচ্ছে: তাপ, চাপ আর অন্য পদার্থের সংস্পর্শ তাদের বদলে দেয়। রসায়নবিদেরা এসব পরিবর্তনকে দুটি বড় দলে ভাগ করেন।
+
+**৭.১.১ ভৌত পরিবর্তন।** এক টুকরা বরফ কক্ষ তাপমাত্রায় একটা প্লেটে রাখো। এটি পরিবেশ থেকে তাপ নিয়ে আস্তে আস্তে গলে পানি হয়। সেই পানিকে ১০০ °C-এ গরম করলে তা জলীয় বাষ্প হয়ে যায়। বরফ, পানি আর বাষ্প দেখতে ও ছুঁয়ে একদম আলাদা, কিন্তু তিনটিরই প্রতিটি অণু একই **H₂O**: দুটি হাইড্রোজেন পরমাণু একটি অক্সিজেন পরমাণুর সাথে যুক্ত। বদলেছে শুধু **ভৌত অবস্থা**: কঠিন → তরল → গ্যাস। বাষ্প আর পানিকে ঠান্ডা করলে আবার বরফ ফিরে পাবে।
+
+বরফ ⇌ পানি ⇌ বাষ্প (তাপ দিলে → ; তাপ সরালে ←)
+
+আরও কিছু ভৌত পরিবর্তন: চায়ে চিনি গোলা, কাগজ ছেঁড়া, মোম গলা, বিস্কুট গুঁড়া করা, আলমারিতে ন্যাপথালিনের ঊর্ধ্বপাতন, বিদ্যুৎ চললে বাল্ব জ্বলা। কোনো নতুন পদার্থ তৈরি হয় না।
+
+**৭.১.২ রাসায়নিক পরিবর্তন।** এবার চুলায় গ্যাস জ্বালাও। প্রাকৃতিক গ্যাসের প্রধান উপাদান মিথেন (CH₄)। এটি অক্সিজেনে পুড়ে কার্বন ডাই-অক্সাইড, জলীয় বাষ্প আর তাপ তৈরি করে:
+
+CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g) + তাপ
+
+মিথেন আর অক্সিজেন **হারিয়ে গেছে**। কার্বন ডাই-অক্সাইড আর পানি সম্পূর্ণ নতুন পদার্থ, এদের ধর্মও আলাদা। এটাই **রাসায়নিক পরিবর্তন**, আর প্রক্রিয়াটিকে বলে **রাসায়নিক বিক্রিয়া**।
+
+ভেতরে কী ঘটে? পুরোনো অণুগুলোকে ধরে রাখা বন্ধনগুলো ভেঙে আলাদা পরমাণু বা আয়ন তৈরি হয়। এরপর তারা নতুনভাবে জোড়া লেগে নতুন বন্ধন ও নতুন অণু গড়ে। পরমাণু নিজে সৃষ্টি বা ধ্বংস হয় না; শুধু **নতুন করে সাজে**। সংক্ষেপে: **রাসায়নিক পরিবর্তন = পুরোনো বন্ধনের ভাঙন + নতুন বন্ধনের গঠন।**
+
+আরেকটি উদাহরণ: হাইড্রোক্লোরিক এসিডে এক টুকরা মার্বেল বা চুনাপাথর (ক্যালসিয়াম কার্বনেট) ফেলো। কার্বন ডাই-অক্সাইড গ্যাস বের হয়ে বুদ্‌বুদ্ ওঠে:
+
+CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g) + H₂O(l)
+
+**কীভাবে পার্থক্য করবে।** রাসায়নিক পরিবর্তনের লক্ষণগুলো খোঁজো:
+- আগে ছিল না এমন গ্যাস বের হয় (বুদ্‌বুদ্, ফেনা ওঠা)
+- রং বদলায় (চকচকে লোহার পেরেক লালচে-বাদামি হয়ে যায়)
+- তাপ বা আলো বের হয় অথবা শোষিত হয় (পোড়া, শিখা)
+- দুটি দ্রবণ মেশালে অধঃক্ষেপ (অদ্রবণীয় কঠিন) তৈরি হয়
+- নতুন গন্ধ বা স্বাদ আসে (দুধ টক হয়ে যাওয়া)
+- শুধু ঠান্ডা বা গরম করে সাধারণত আগের অবস্থায় ফেরানো যায় না
+
+একটি লক্ষণ একা ভুল পথে নিতে পারে (পানি ফুটলেও বুদ্‌বুদ্ ওঠে!), তাই সবসময় আসল প্রশ্নটা করো: **নতুন কোনো পদার্থ তৈরি হয়েছে কি?**
+## analogy
+একসেট লেগো ব্লকের কথা ভাবো। তৈরি লেগো-বাড়িটা টেবিল থেকে মেঝেতে নামানো বা বাক্সে রাখা হলো ভৌত পরিবর্তনের মতো: বাড়িটা একই আছে। বাড়িটা খুলে একই ব্লক দিয়ে একটা গাড়ি বানানো হলো রাসায়নিক পরিবর্তনের মতো: ব্লকগুলো (পরমাণু) একই, কিন্তু নতুনভাবে জুড়ে নতুন জিনিস তৈরি হলো।
+## definition
+**ভৌত পরিবর্তন (Physical change)**: যে পরিবর্তনে পদার্থের শুধু ভৌত অবস্থা বা বাহ্যিক রূপ বদলায়, কিন্তু অভ্যন্তরীণ রাসায়নিক গঠন (অণু) একই থাকে এবং কোনো নতুন পদার্থ তৈরি হয় না।
+
+**রাসায়নিক পরিবর্তন (Chemical change)**: যে পরিবর্তনে এক বা একাধিক পদার্থ সম্পূর্ণ ভিন্ন ধর্মবিশিষ্ট নতুন পদার্থে পরিণত হয়। পুরোনো বন্ধন ভাঙে ও নতুন বন্ধন গঠিত হয়; প্রক্রিয়াটিকে বলে **রাসায়নিক বিক্রিয়া**।
+## why
+ভৌত পরিবর্তনে নতুন পদার্থ হয় না কেন? গলন বা স্ফুটনে শুধু অণুগুলোর মাঝের দূরত্ব আর গতি বদলায়: তাপ অণুগুলোর *মধ্যকার* দুর্বল আকর্ষণকে কাটিয়ে ওঠে। প্রতিটি H₂O অণুর *ভেতরের* শক্ত বন্ধন অটুট থাকে। রাসায়নিক পরিবর্তনে অণুর ভেতরের শক্ত বন্ধনই ভেঙে নতুন নকশায় গড়ে ওঠে, তাই কণাগুলো আর আগের মতো থাকে না, ধর্মও থাকে না।
+## terms
+ভৌত পরিবর্তন | শুধু অবস্থা, আকার বা আকৃতির পরিবর্তন; নতুন পদার্থ নেই
+রাসায়নিক পরিবর্তন | নতুন ধর্মের নতুন পদার্থ তৈরির পরিবর্তন
+রাসায়নিক বিক্রিয়া | যে প্রক্রিয়ায় রাসায়নিক পরিবর্তন ঘটে
+বিক্রিয়ক | বিক্রিয়ার শুরুর পদার্থ
+উৎপাদ | বিক্রিয়ায় তৈরি নতুন পদার্থ
+অধঃক্ষেপ | দ্রবণ মেশালে তৈরি অদ্রবণীয় কঠিন পদার্থ
+## visual
+প্রতিটি পরিবর্তন পড়ে ঠিক করো এটি ভৌত না রাসায়নিক। উত্তর দিলে দেখবে কণাগুলোর কী হয় আর কোন লক্ষণ খুঁজতে হয়।
+## real
+বাংলাদেশের রান্নাঘরে দুই রকম পরিবর্তনই পাশাপাশি দেখা যায়। কড়াইয়ে ঘি গলা আর চায়ের পানি ফোটা ভৌত পরিবর্তন। কড়াইয়ের নিচে গ্যাস জ্বলা, পেঁয়াজ বাদামি হওয়া, ভাত রান্না আর দুধ থেকে দই হওয়া রাসায়নিক পরিবর্তন। কৃষকেরাও রাসায়নিক পরিবর্তন দেখেন: টিনের চালে বা লাঙলে মরিচা, আর ধানের খড় পচে কম্পোস্ট হওয়া।
+## example
+প্রশ্ন: কারণসহ প্রতিটি পরিবর্তনকে ভৌত বা রাসায়নিক হিসেবে চিহ্নিত করো: (ক) বরফ গলা, (খ) মিথেন পোড়া, (গ) পানিতে চিনি গোলা, (ঘ) লোহার পেরেকে মরিচা পড়া।
+সমাধান: (ক) ভৌত: বরফ আর পানি দুটোই H₂O; শুধু অবস্থা বদলেছে। (খ) রাসায়নিক: তাপ ও আলোসহ নতুন পদার্থ CO₂ ও H₂O তৈরি হয়। (গ) ভৌত: চিনির অণুগুলো শুধু পানিতে ছড়িয়ে পড়ে; পানি বাষ্প করে দিলে চিনি ফিরে পাবে। (ঘ) রাসায়নিক: লোহা অক্সিজেন ও পানির সাথে যুক্ত হয়ে নতুন বাদামি পদার্থ মরিচা তৈরি করে।
+> "দেখতে আলাদা লাগছে কি?" নয়, প্রশ্ন করো "নতুন পদার্থ হয়েছে কি?"।
+উত্তর: (ক) ভৌত, (খ) রাসায়নিক, (গ) ভৌত, (ঘ) রাসায়নিক।
+## example
+প্রশ্ন: ১০ g ক্যালসিয়াম কার্বনেট হাইড্রোক্লোরিক এসিডের সাথে সম্পূর্ণ বিক্রিয়া করে। কত গ্রাম কার্বন ডাই-অক্সাইড তৈরি হবে? (Ca = ৪০, C = ১২, O = ১৬)
+দেওয়া আছে: CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g) + H₂O(l); M(CaCO₃) = ৪০ + ১২ + ৩ × ১৬ = ১০০; M(CO₂) = ৪৪
+সূত্র: n = w/M; ১ mol CaCO₃ থেকে ১ mol CO₂
+হিসাব: n(CaCO₃) = ১০ ÷ ১০০ = ০.১ mol, তাই n(CO₂) = ০.১ mol; ভর = ০.১ × ৪৪ = ৪.৪ g
+> বুদ্‌বুদ্ হয়ে ওঠা গ্যাসটি নতুন পদার্থ: রাসায়নিক পরিবর্তনের নিশ্চিত লক্ষণ।
+উত্তর: ৪.৪ g CO₂
+## example
+প্রশ্ন: ৫০ g বরফ সম্পূর্ণ গলে গেল। কত গ্রাম পানি তৈরি হলো? পরিবর্তনটি ভৌত না রাসায়নিক?
+সমাধান: গলনে কোনো পরমাণু হারায় না বা যোগ হয় না, নতুন অণুও তৈরি হয় না; একই H₂O অণুগুলো শুধু আরও মুক্তভাবে চলাফেরা করে।
+উত্তর: ৫০ g পানি; এটি ভৌত পরিবর্তন।
+## mistakes
+x বুদ্‌বুদ্ উঠলেই সেটা রাসায়নিক পরিবর্তন।
+v পানি ফুটলেও বুদ্‌বুদ্ ওঠে, কিন্তু সেগুলো শুধু বাষ্প (এখনো H₂O)। রাসায়নিক পরিবর্তনে নতুন পদার্থ লাগবে।
+x পানিতে লবণ বা চিনি গোলা রাসায়নিক পরিবর্তন, কারণ কঠিনটা "উধাও" হয়ে যায়।
+v দ্রবীভূত হওয়া ভৌত পরিবর্তন: কণাগুলো শুধু ছড়িয়ে পড়ে, পানি বাষ্প করলে আবার ফিরে আসে।
+x রাসায়নিক পরিবর্তনে পরমাণু ধ্বংস হয় আর নতুন পরমাণু তৈরি হয়।
+v পরমাণু কখনো সৃষ্টি বা ধ্বংস হয় না; পুরোনো বন্ধন ভেঙে নতুন বন্ধন গড়ে এরা শুধু নতুন করে সাজে।
+## remember
+- ভৌত পরিবর্তন: একই অণু, নতুন অবস্থা বা রূপ (গলন, স্ফুটন, দ্রবীভবন, ছেঁড়া)।
+- রাসায়নিক পরিবর্তন: নতুন ধর্মের নতুন পদার্থ (পোড়া, মরিচা, রান্না)।
+- রাসায়নিক পরিবর্তন = পুরোনো বন্ধনের ভাঙন + নতুন বন্ধনের গঠন; পরমাণু শুধু নতুনভাবে সাজে।
+- লক্ষণ: গ্যাস, রং বদল, তাপ/আলো, অধঃক্ষেপ, নতুন গন্ধ; আসল পরীক্ষা হলো নতুন পদার্থ।
+## think
+জ্বলন্ত মোমবাতিতে একই সময়ে দুই রকম পরিবর্তনই ঘটে। কোন অংশটি ভৌত আর কোন অংশটি রাসায়নিক?
+## quiz
+? নিচের কোনটি রাসায়নিক পরিবর্তন?
+- বরফ গলা
+- পানিতে চিনি গোলা
+* দুধ থেকে দই হওয়া
+- পানি ফোটা
+= দইয়ে এমন নতুন পদার্থ (যেমন ল্যাকটিক এসিড) থাকে যা দুধে ছিল না; বাকিগুলোতে শুধু অবস্থা বদলায় বা মিশে যায়।
+? পানি বাষ্পে পরিণত হলে:
+* H₂O অণুগুলো একই থাকে; শুধু অবস্থা বদলায়
+- হাইড্রোজেন ও অক্সিজেনের নতুন অণু তৈরি হয়
+- পানি ভেঙে H₂ ও O₂ হয়
+- ভর বেড়ে যায়
+= ফুটলে অণুগুলো শুধু দূরে সরে যায়; প্রতিটি এখনো H₂O।
+? রাসায়নিক বিক্রিয়ায়:
+- পরমাণু ধ্বংস হয়
+- নতুন পরমাণু সৃষ্টি হয়
+* পুরোনো বন্ধন ভাঙে ও নতুন বন্ধন গড়ে
+- বন্ধনের কিছুই হয় না
+= পরমাণুগুলো নতুন করে সাজে: পুরোনো বন্ধন ভেঙে নতুন বন্ধন গড়ে নতুন পদার্থ তৈরি হয়।
+? রাসায়নিক পরিবর্তন চেনার সবচেয়ে ভালো একক পরীক্ষা:
+- আকারের পরিবর্তন
+- বুদ্‌বুদ্ ওঠা
+* নতুন পদার্থ তৈরি হওয়া
+- তাপমাত্রার পরিবর্তন
+= বুদ্‌বুদ্ বা তাপমাত্রার পরিবর্তন ভৌত পরিবর্তনেও হতে পারে; নতুন পদার্থই আসল লক্ষণ।
+
+@@ 7.2.1
+@visual k7rev
+@related 7.5.1 7.1 7.2.2 6.3
+== en
+## what
+An **irreversible reaction** goes in one direction only: reactants → products. A **reversible reaction** goes both ways at the same time: reactants form products (forward reaction) while products react to give back reactants (backward reaction). It is written with a double half-arrow ⇌.
+## simple
+Chemical reactions can be sorted in several ways. The first way is by **direction**: does the reaction only go forward, or can it also run backwards?
+
+**Irreversible (one-way) reactions.** Heat some calcium carbonate (limestone) strongly in an **open** container. It breaks down into solid quicklime (calcium oxide) and carbon dioxide gas:
+
+CaCO₃(s) →(Δ) CaO(s) + CO₂(g)
+
+The CO₂ escapes into the air. Even if you keep the quicklime, it cannot turn back into calcium carbonate, because its partner, CO₂, has gone. The reaction goes only one way: an **irreversible reaction**, written with a single arrow (→). Burning paper or wood is another: you cannot "unburn" ash and smoke back into paper.
+
+**Reversible (two-way) reactions.** Now heat the same calcium carbonate in a **closed** container. The CO₂ cannot escape. Some CO₂ molecules bump into the quicklime and join it again to make CaCO₃. Now **two reactions run at the same time**:
+- **forward reaction**: CaCO₃ → CaO + CO₂
+- **backward (reverse) reaction**: CaO + CO₂ → CaCO₃
+
+We write this with two half-arrows pointing opposite ways:
+
+CaCO₃(s) ⇌ CaO(s) + CO₂(g)
+
+More examples from the book:
+- **Hydrogen and iodine**: H₂(g) + I₂(g) ⇌ 2HI(g). Hydrogen iodide forms, and at the same time some of it breaks back into hydrogen and iodine.
+- **Making an ester**: ethanol reacts with ethanoic acid (in the presence of a little acid such as HCl as catalyst) to give ethyl ethanoate (an ester) and water; the ester and water also react to give back the alcohol and acid:
+  C₂H₅OH + CH₃COOH ⇌ CH₃COOC₂H₅ + H₂O
+
+**A deeper truth.** In principle, **every reaction is reversible**. In many reactions, however, the backward reaction is so tiny compared with the forward reaction (or a product escapes, like CO₂ from an open pot) that the reaction seems to go only one way. We call those irreversible.
+
+In a closed container a reversible reaction never "finishes"; it settles into a balance called **chemical equilibrium**, where the forward and backward reactions run at the same rate. You will study this in [[7.5.1|lesson 7.5.1]].
+## analogy
+Picture passengers at Kamalapur station. If the gate is open and a train takes people away, the platform empties in one direction only (irreversible). If the doors are locked, people keep getting on and off the same train, and the number on the platform stops changing, even though people are still moving both ways (reversible, reaching equilibrium).
+## definition
+**Irreversible reaction (একমুখী বিক্রিয়া)**: a reaction in which the reactants change into products, but the products do not react to give back the reactants. It is shown with a single arrow (→).
+
+**Reversible reaction (উভমুখী বিক্রিয়া)**: a reaction in which reactants form products and, at the same time, the products react to form the reactants again. The reaction from reactants to products is the **forward reaction**; the one from products to reactants is the **backward reaction**. It is shown with ⇌.
+## why
+Why does an open container make the CaCO₃ decomposition one-way? For the backward reaction to happen, CaO and CO₂ must meet and collide. In an open container the CO₂ molecules drift away into the air, so they almost never meet the CaO again. In a closed container the CO₂ stays trapped, keeps colliding with the CaO, and the backward reaction can take place.
+## terms
+Irreversible reaction | Goes one way only; shown with →
+Reversible reaction | Goes both ways at once; shown with ⇌
+Forward reaction | Reactants → products
+Backward (reverse) reaction | Products → reactants
+Quicklime | Calcium oxide, CaO (চুন)
+Ester | Sweet-smelling compound formed from an alcohol and an acid
+## visual
+Switch the container between open and closed and start heating. Watch where the CO₂ molecules go and whether any of them join the CaO again.
+## real
+Lime kilns near Sylhet and in brick-field areas heat limestone to make quicklime (চুন) for construction, paan and farming. The kilns are open to let the CO₂ escape, which keeps the reaction running one way and gives more lime. A fizzy soft drink in a closed bottle is a reversible system: CO₂ dissolves in the water and comes back out; opening the bottle lets the CO₂ escape, and it goes flat.
+## example
+Q: 50 g of CaCO₃ is heated strongly in an open container until it has fully decomposed. Find the mass of quicklime formed and the mass and volume (at STP) of CO₂ that escapes. (Ca = 40, C = 12, O = 16)
+Given: CaCO₃(s) → CaO(s) + CO₂(g); M(CaCO₃) = 100, M(CaO) = 56, M(CO₂) = 44
+Formula: n = w/M; 1 mol of gas at STP = 22.4 L
+Calculation: n(CaCO₃) = 50 ÷ 100 = 0.5 mol; CaO = 0.5 × 56 = 28 g; CO₂ = 0.5 × 44 = 22 g; volume = 0.5 × 22.4 = 11.2 L
+> Check: 28 g + 22 g = 50 g; mass is conserved.
+Answer: 28 g of CaO; 22 g (11.2 L at STP) of CO₂
+## example
+Q: Why is the decomposition of CaCO₃ one-way in an open container but reversible in a closed container?
+Solution: In an open container CO₂ escapes, so CaO has nothing to recombine with and only the forward reaction occurs. In a closed container CO₂ stays in contact with CaO, so the backward reaction CaO + CO₂ → CaCO₃ also takes place.
+Answer: Removing a product stops the backward reaction; trapping it allows both reactions to run.
+## mistakes
+x A reversible reaction goes forward first and then, when it is finished, goes backward.
+v Both reactions run at the same time; that is why the reaction never completely finishes in a closed container.
+x Melting ice and freezing water is a reversible reaction.
+v That is a reversible physical change, not a reaction: no new substance forms. Reversible reactions involve new substances.
+x Irreversible reactions can never go backward at all under any conditions.
+v Almost all reactions are reversible in principle; in "irreversible" ones the backward reaction is negligible or a product escapes.
+## remember
+- Irreversible: one way, → (CaCO₃ heated in an open container).
+- Reversible: both ways at the same time, ⇌ (H₂ + I₂ ⇌ 2HI; CaCO₃ in a closed container).
+- Forward reaction: reactants → products; backward: products → reactants.
+- Removing a product (a gas escaping) makes a reaction effectively one-way.
+## think
+When you boil milk in an open pan, water vapour escapes. Why can't a pan of boiled-down milk turn back into the original amount by itself?
+## quiz
+? Which symbol is used for a reversible reaction?
+- →
+- =
+* ⇌
+- ↓
+= Two half-arrows pointing in opposite directions show that forward and backward reactions happen together.
+? CaCO₃ heated in an open container is irreversible because:
+- CaO is a gas
+* CO₂ escapes, so CaO cannot recombine with it
+- CaCO₃ melts
+- No heat is needed
+= With CO₂ gone, the backward reaction cannot occur.
+? In the reaction H₂ + I₂ ⇌ 2HI, the backward reaction is:
+- H₂ + I₂ → 2HI
+* 2HI → H₂ + I₂
+- H₂ → 2H
+- I₂ → 2I
+= The backward reaction turns the product (HI) back into the reactants.
+== bn
+## what
+**একমুখী বিক্রিয়া** শুধু এক দিকে চলে: বিক্রিয়ক → উৎপাদ। **উভমুখী বিক্রিয়া** একই সাথে দুই দিকে চলে: বিক্রিয়ক থেকে উৎপাদ হয় (সম্মুখমুখী বিক্রিয়া) আর একই সময়ে উৎপাদ বিক্রিয়া করে আবার বিক্রিয়ক ফিরিয়ে দেয় (পশ্চাৎমুখী বিক্রিয়া)। একে বিপরীতমুখী দুটি অর্ধ-তীর ⇌ দিয়ে লেখা হয়।
+## simple
+রাসায়নিক বিক্রিয়াকে কয়েকভাবে ভাগ করা যায়। প্রথম উপায় হলো **দিক** অনুযায়ী: বিক্রিয়াটি কি শুধু সামনে চলে, নাকি পেছনেও চলতে পারে?
+
+**একমুখী বিক্রিয়া।** একটি **খোলা** পাত্রে কিছু ক্যালসিয়াম কার্বনেট (চুনাপাথর) জোরে তাপ দাও। এটি ভেঙে কঠিন চুন (ক্যালসিয়াম অক্সাইড) আর কার্বন ডাই-অক্সাইড গ্যাস তৈরি করে:
+
+CaCO₃(s) →(Δ) CaO(s) + CO₂(g)
+
+CO₂ বাতাসে চলে যায়। চুনটা রেখে দিলেও তা আর ক্যালসিয়াম কার্বনেটে ফিরতে পারে না, কারণ এর সঙ্গী CO₂ চলে গেছে। বিক্রিয়াটি শুধু এক দিকে চলে: এটি **একমুখী বিক্রিয়া**, একটি তীর (→) দিয়ে লেখা হয়। কাগজ বা কাঠ পোড়ানোও তাই: ছাই আর ধোঁয়াকে আবার কাগজ বানানো যায় না।
+
+**উভমুখী বিক্রিয়া।** এবার একই ক্যালসিয়াম কার্বনেট একটি **বন্ধ** পাত্রে তাপ দাও। CO₂ বের হতে পারে না। কিছু CO₂ অণু চুনের সাথে ধাক্কা খেয়ে আবার যুক্ত হয়ে CaCO₃ তৈরি করে। এখন **একই সময়ে দুটি বিক্রিয়া চলে**:
+- **সম্মুখমুখী বিক্রিয়া**: CaCO₃ → CaO + CO₂
+- **পশ্চাৎমুখী (বিপরীতমুখী) বিক্রিয়া**: CaO + CO₂ → CaCO₃
+
+একে বিপরীতমুখী দুটি অর্ধ-তীর দিয়ে লেখা হয়:
+
+CaCO₃(s) ⇌ CaO(s) + CO₂(g)
+
+বইয়ের আরও উদাহরণ:
+- **হাইড্রোজেন ও আয়োডিন**: H₂(g) + I₂(g) ⇌ 2HI(g)। হাইড্রোজেন আয়োডাইড তৈরি হয়, আর একই সময়ে এর কিছু অংশ ভেঙে আবার হাইড্রোজেন ও আয়োডিন হয়।
+- **এস্টার তৈরি**: ইথানল আর ইথানয়িক এসিড (প্রভাবক হিসেবে সামান্য HCl-এর মতো এসিডের উপস্থিতিতে) বিক্রিয়া করে ইথাইল ইথানয়েট (একটি এস্টার) ও পানি দেয়; আবার এস্টার ও পানি বিক্রিয়া করে অ্যালকোহল ও এসিড ফিরিয়ে দেয়:
+  C₂H₅OH + CH₃COOH ⇌ CH₃COOC₂H₅ + H₂O
+
+**আরও গভীর সত্য।** নীতিগতভাবে **সব বিক্রিয়াই উভমুখী**। তবে অনেক বিক্রিয়ায় সম্মুখমুখী বিক্রিয়ার তুলনায় পশ্চাৎমুখী বিক্রিয়া এত সামান্য (অথবা খোলা পাত্র থেকে CO₂-এর মতো কোনো উৎপাদ বেরিয়ে যায়) যে বিক্রিয়াটিকে একমুখী মনে হয়। এগুলোকেই আমরা একমুখী বলি।
+
+বন্ধ পাত্রে উভমুখী বিক্রিয়া কখনো "শেষ" হয় না; এটি **রাসায়নিক সাম্যাবস্থা** নামের এক ভারসাম্যে পৌঁছায়, যেখানে সম্মুখমুখী ও পশ্চাৎমুখী বিক্রিয়া সমান হারে চলে। এটি পড়বে [[7.5.1|পাঠ ৭.৫.১]]-এ।
+## analogy
+কমলাপুর স্টেশনের যাত্রীদের কথা ভাবো। গেট খোলা থাকলে আর ট্রেন মানুষ নিয়ে চলে গেলে প্ল্যাটফর্ম শুধু এক দিকে খালি হয় (একমুখী)। দরজা আটকানো থাকলে লোকজন একই ট্রেনে ওঠানামা করতেই থাকে, আর প্ল্যাটফর্মে মানুষের সংখ্যা একসময় বদলানো বন্ধ হয়, যদিও লোকজন দুই দিকেই চলছে (উভমুখী, সাম্যাবস্থায় পৌঁছানো)।
+## definition
+**একমুখী বিক্রিয়া (Irreversible reaction)**: যে বিক্রিয়ায় বিক্রিয়ক উৎপাদে পরিণত হয়, কিন্তু উৎপাদ বিক্রিয়া করে পুনরায় বিক্রিয়কে পরিণত হয় না। একটি তীর (→) দিয়ে দেখানো হয়।
+
+**উভমুখী বিক্রিয়া (Reversible reaction)**: যে বিক্রিয়ায় বিক্রিয়ক উৎপাদে পরিণত হয় এবং একই সাথে উৎপাদ বিক্রিয়া করে আবার বিক্রিয়কে পরিণত হয়। বিক্রিয়ক থেকে উৎপাদ হওয়ার বিক্রিয়াকে **সম্মুখমুখী বিক্রিয়া** আর উৎপাদ থেকে বিক্রিয়ক হওয়ার বিক্রিয়াকে **পশ্চাৎমুখী বা বিপরীতমুখী বিক্রিয়া** বলে। ⇌ দিয়ে দেখানো হয়।
+## why
+খোলা পাত্রে CaCO₃-এর বিয়োজন একমুখী হয় কেন? পশ্চাৎমুখী বিক্রিয়ার জন্য CaO আর CO₂-কে মিলিত হয়ে সংঘর্ষ ঘটাতে হবে। খোলা পাত্রে CO₂ অণুগুলো বাতাসে ভেসে চলে যায়, তাই তারা প্রায় কখনোই আর CaO-এর দেখা পায় না। বন্ধ পাত্রে CO₂ আটকা থাকে, বারবার CaO-এর সাথে ধাক্কা খায়, তাই পশ্চাৎমুখী বিক্রিয়া ঘটতে পারে।
+## terms
+একমুখী বিক্রিয়া | শুধু এক দিকে চলে; → দিয়ে দেখানো হয়
+উভমুখী বিক্রিয়া | একই সাথে দুই দিকে চলে; ⇌ দিয়ে দেখানো হয়
+সম্মুখমুখী বিক্রিয়া | বিক্রিয়ক → উৎপাদ
+পশ্চাৎমুখী (বিপরীতমুখী) বিক্রিয়া | উৎপাদ → বিক্রিয়ক
+চুন | ক্যালসিয়াম অক্সাইড, CaO
+এস্টার | অ্যালকোহল ও এসিড থেকে তৈরি মিষ্টি গন্ধের যৌগ
+## visual
+পাত্রটি খোলা আর বন্ধের মধ্যে বদলাও, তারপর তাপ দেওয়া শুরু করো। দেখো CO₂ অণুগুলো কোথায় যায়, আর তাদের কেউ আবার CaO-এর সাথে যুক্ত হয় কি না।
+## real
+সিলেটের কাছে আর ইটভাটা এলাকায় চুনের ভাটায় চুনাপাথর পুড়িয়ে নির্মাণকাজ, পান আর কৃষির জন্য চুন বানানো হয়। ভাটা খোলা রাখা হয় যেন CO₂ বেরিয়ে যায়; এতে বিক্রিয়া এক দিকে চলতে থাকে আর বেশি চুন পাওয়া যায়। বন্ধ বোতলের কোমল পানীয় একটি উভমুখী ব্যবস্থা: CO₂ পানিতে দ্রবীভূত হয় আবার বেরিয়েও আসে; বোতল খুললে CO₂ বেরিয়ে যায় আর পানীয়টা "ঝাঁঝ" হারায়।
+## example
+প্রশ্ন: ৫০ g CaCO₃ একটি খোলা পাত্রে সম্পূর্ণ বিয়োজিত না হওয়া পর্যন্ত জোরে তাপ দেওয়া হলো। কত গ্রাম চুন তৈরি হবে, আর কত গ্রাম ও কত লিটার (প্রমাণ অবস্থায়) CO₂ বেরিয়ে যাবে? (Ca = ৪০, C = ১২, O = ১৬)
+দেওয়া আছে: CaCO₃(s) → CaO(s) + CO₂(g); M(CaCO₃) = ১০০, M(CaO) = ৫৬, M(CO₂) = ৪৪
+সূত্র: n = w/M; প্রমাণ অবস্থায় ১ mol গ্যাস = ২২.৪ L
+হিসাব: n(CaCO₃) = ৫০ ÷ ১০০ = ০.৫ mol; CaO = ০.৫ × ৫৬ = ২৮ g; CO₂ = ০.৫ × ৪৪ = ২২ g; আয়তন = ০.৫ × ২২.৪ = ১১.২ L
+> যাচাই: ২৮ g + ২২ g = ৫০ g; ভর সংরক্ষিত।
+উত্তর: ২৮ g CaO; ২২ g (প্রমাণ অবস্থায় ১১.২ L) CO₂
+## example
+প্রশ্ন: CaCO₃-এর বিয়োজন খোলা পাত্রে একমুখী কিন্তু বন্ধ পাত্রে উভমুখী কেন?
+সমাধান: খোলা পাত্রে CO₂ বেরিয়ে যায়, তাই CaO-এর আর যুক্ত হওয়ার কেউ থাকে না, শুধু সম্মুখমুখী বিক্রিয়া ঘটে। বন্ধ পাত্রে CO₂ CaO-এর সংস্পর্শে থাকে, তাই পশ্চাৎমুখী বিক্রিয়া CaO + CO₂ → CaCO₃-ও ঘটে।
+উত্তর: কোনো উৎপাদ সরিয়ে দিলে পশ্চাৎমুখী বিক্রিয়া থেমে যায়; আটকে রাখলে দুটি বিক্রিয়াই চলে।
+## mistakes
+x উভমুখী বিক্রিয়া আগে সামনে চলে, শেষ হলে তারপর পেছনে চলে।
+v দুটি বিক্রিয়া একই সময়ে চলে; এজন্যই বন্ধ পাত্রে বিক্রিয়াটি কখনো পুরোপুরি শেষ হয় না।
+x বরফ গলা আর পানি জমা একটি উভমুখী বিক্রিয়া।
+v এটি উভমুখী ভৌত পরিবর্তন, বিক্রিয়া নয়: নতুন পদার্থ তৈরি হয় না। উভমুখী বিক্রিয়ায় নতুন পদার্থ জড়িত থাকে।
+x একমুখী বিক্রিয়া কোনো অবস্থাতেই একটুও পেছনে যেতে পারে না।
+v নীতিগতভাবে প্রায় সব বিক্রিয়াই উভমুখী; "একমুখী" বিক্রিয়ায় পশ্চাৎমুখী বিক্রিয়া নগণ্য অথবা কোনো উৎপাদ বেরিয়ে যায়।
+## remember
+- একমুখী: এক দিকে, → (খোলা পাত্রে CaCO₃ তাপ দেওয়া)।
+- উভমুখী: একই সাথে দুই দিকে, ⇌ (H₂ + I₂ ⇌ 2HI; বন্ধ পাত্রে CaCO₃)।
+- সম্মুখমুখী বিক্রিয়া: বিক্রিয়ক → উৎপাদ; পশ্চাৎমুখী: উৎপাদ → বিক্রিয়ক।
+- কোনো উৎপাদ সরিয়ে দিলে (গ্যাস বেরিয়ে গেলে) বিক্রিয়া কার্যত একমুখী হয়ে যায়।
+## think
+খোলা পাত্রে দুধ জ্বাল দিলে জলীয় বাষ্প বেরিয়ে যায়। ঘন হয়ে যাওয়া দুধ নিজে নিজে আবার আগের পরিমাণে ফিরতে পারে না কেন?
+## quiz
+? উভমুখী বিক্রিয়ায় কোন চিহ্ন ব্যবহার করা হয়?
+- →
+- =
+* ⇌
+- ↓
+= বিপরীতমুখী দুটি অর্ধ-তীর বোঝায় সম্মুখমুখী ও পশ্চাৎমুখী বিক্রিয়া একসাথে চলে।
+? খোলা পাত্রে CaCO₃ তাপ দিলে বিক্রিয়াটি একমুখী হয়, কারণ:
+- CaO একটি গ্যাস
+* CO₂ বেরিয়ে যায়, তাই CaO এর সাথে আবার যুক্ত হতে পারে না
+- CaCO₃ গলে যায়
+- কোনো তাপ লাগে না
+= CO₂ চলে গেলে পশ্চাৎমুখী বিক্রিয়া ঘটতে পারে না।
+? H₂ + I₂ ⇌ 2HI বিক্রিয়ায় পশ্চাৎমুখী বিক্রিয়াটি হলো:
+- H₂ + I₂ → 2HI
+* 2HI → H₂ + I₂
+- H₂ → 2H
+- I₂ → 2I
+= পশ্চাৎমুখী বিক্রিয়া উৎপাদকে (HI) আবার বিক্রিয়কে পরিণত করে।
+
+@@ 7.2.2
+@visual k7energy
+@related 8.1.2 8.1.3 7.5.1 7.2.4
+== en
+## what
+An **exothermic reaction** gives out heat to the surroundings; an **endothermic reaction** takes in heat from the surroundings. The heat change of a reaction is the **heat of reaction, ΔH**: it is **negative** for exothermic and **positive** for endothermic reactions.
+## simple
+Almost every reaction either warms up or cools down its surroundings. So a second way to sort reactions is by **heat**.
+
+**Exothermic reactions (heat out).** When gas burns in the chula, the pot gets hot: the reaction **releases** heat. Another important example is the **Haber process**, the industrial way of making ammonia (NH₃) for urea fertiliser. Nitrogen and hydrogen combine over powdered iron (Fe) as a catalyst, at 200–250 atm and 450–550 °C:
+
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92 kJ
+
+This says: when 1 mole of N₂ and 3 moles of H₂ make 2 moles of NH₃, **92 kJ of heat is given out**.
+
+**Heat of reaction, ΔH.** The heat change for a reaction as written in the balanced equation is called the **heat of reaction** and is shown by **ΔH** (read "delta H"). Think of ΔH as "heat stored in products minus heat stored in reactants". In an exothermic reaction, the products hold **less** energy than the reactants (the extra has escaped as heat), so ΔH is **negative**:
+
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g);  ΔH = −92 kJ
+
+**Endothermic reactions (heat in).** Some reactions need heat to keep going and cool their surroundings if heat isn't supplied. During lightning, 1 mole of nitrogen and 1 mole of oxygen join to make 2 moles of nitric oxide, **absorbing 180 kJ**:
+
+N₂(g) + O₂(g) + 180 kJ ⇌ 2NO(g),  or  N₂(g) + O₂(g) ⇌ 2NO(g);  ΔH = +180 kJ
+
+Here the products hold **more** energy than the reactants, so ΔH is **positive**.
+
+**How to write heat in an equation.** Heat given out appears on the **product** side (+ 92 kJ) or as a negative ΔH. Heat absorbed appears on the **reactant** side (+ 180 kJ) or as a positive ΔH. Don't do both at once!
+
+**Where does the heat come from?** Breaking bonds always **needs** energy; forming bonds always **releases** energy. If forming the new bonds releases more energy than was needed to break the old ones, the reaction is exothermic; if less, it is endothermic. (You will calculate this in [[8.1.3|lesson 8.1.3]].)
+
+**More examples**
+- Exothermic: burning fuels, respiration in our cells, neutralisation of an acid by a base, quicklime reacting with water (CaO + H₂O → Ca(OH)₂) when chun is slaked.
+- Endothermic: decomposing limestone in a kiln (CaCO₃ → CaO + CO₂), photosynthesis in leaves, splitting water by electrolysis.
+
+**Heat scales with amount.** ΔH belongs to the amounts in the balanced equation. Make half as much product and you get half the heat; make twice as much and you get twice the heat.
+## analogy
+Think of energy as money in a bank account. In an exothermic reaction the chemicals "spend" some of their energy, and the surroundings receive it as heat: the balance goes down (ΔH negative). In an endothermic reaction the chemicals "deposit" energy taken from the surroundings: the balance goes up (ΔH positive).
+## definition
+**Exothermic reaction (তাপোৎপাদী বিক্রিয়া)**: a chemical reaction in which heat is produced (given out). ΔH is negative.
+
+**Endothermic reaction (তাপহারী বা তাপশোষী বিক্রিয়া)**: a chemical reaction in which heat is absorbed. ΔH is positive.
+
+**Heat of reaction (বিক্রিয়া তাপ), ΔH**: the heat change that occurs when a reaction takes place according to its balanced equation.
+## why
+Why must energy change at all? Chemical bonds store energy. A reaction breaks some bonds (costing energy) and makes others (releasing energy). The two amounts are almost never exactly equal, so the difference either escapes as heat (exothermic) or must be taken in from the surroundings (endothermic). Energy is never created or destroyed; it only moves between the chemicals and their surroundings.
+## terms
+Exothermic reaction | Gives out heat; ΔH negative
+Endothermic reaction | Takes in heat; ΔH positive
+Heat of reaction (ΔH) | Heat change for the reaction as written in the balanced equation
+kJ | Kilojoule = 1000 J, the usual unit for ΔH
+Catalyst | Substance that speeds up a reaction without being used up (Fe in the Haber process)
+## formula
+$$ ΔH = H(products) − H(reactants)
+ΔH | heat of reaction | kJ
+H | heat energy stored in the substances | kJ
+! Exothermic: products lower in energy → ΔH < 0 (negative).
+! Endothermic: products higher in energy → ΔH > 0 (positive).
+! Heat is proportional to the amount: half the moles → half the heat.
+## visual
+Choose a reaction to see its energy diagram, the sign of ΔH and whether the surroundings warm up or cool down. Change the amount to see how much heat is involved.
+## real
+The gas in Dhaka's kitchens and the CNG in auto-rickshaws release heat by burning, an exothermic reaction. Our body gets its warmth from respiration, another exothermic reaction. Urea factories in Bangladesh, such as those at Ghorashal and Fenchuganj, make ammonia by the exothermic Haber process. Plants in the paddy fields do the opposite: photosynthesis takes in energy from sunlight.
+## example
+Q: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −92 kJ. How much heat is given out when 17 g of ammonia is formed? (N = 14, H = 1)
+Given: M(NH₃) = 14 + 3 = 17, so 17 g = 1 mol; 2 mol NH₃ release 92 kJ
+Formula: heat = (moles formed ÷ moles in equation) × |ΔH|
+Calculation: heat = (1 ÷ 2) × 92 = 46 kJ
+> The equation's 92 kJ belongs to 2 mol NH₃; 1 mol gives half.
+Answer: 46 kJ of heat is given out.
+## example
+Q: N₂(g) + O₂(g) ⇌ 2NO(g); ΔH = +180 kJ. How much heat is absorbed to make 15 g of NO? (N = 14, O = 16)
+Given: M(NO) = 30; n = 15 ÷ 30 = 0.5 mol; 2 mol NO absorb 180 kJ
+Calculation: heat = (0.5 ÷ 2) × 180 = 45 kJ
+Answer: 45 kJ is absorbed (the reaction is endothermic).
+## example
+Q: Classify as exothermic or endothermic and give the sign of ΔH: (a) CH₄ + 2O₂ → CO₂ + 2H₂O + heat; (b) CaCO₃ + heat → CaO + CO₂.
+Solution: (a) heat appears among the products, so heat is given out. (b) heat is written with the reactants, so it is absorbed.
+Answer: (a) exothermic, ΔH negative; (b) endothermic, ΔH positive.
+## mistakes
+x In an exothermic reaction ΔH is positive because heat is produced.
+v ΔH is negative for exothermic reactions: the chemicals lose energy to the surroundings.
+x Endothermic reactions don't need any energy to start.
+v Endothermic reactions need a continuous supply of heat (or other energy) to keep going.
+x ΔH is the same no matter how much reacts.
+v ΔH belongs to the amounts in the balanced equation; heat changes in proportion to the amount that reacts.
+## remember
+- Exothermic: heat out, surroundings warm up, ΔH negative (Haber process, ΔH = −92 kJ).
+- Endothermic: heat in, surroundings cool down, ΔH positive (N₂ + O₂ → 2NO, ΔH = +180 kJ).
+- Bond breaking absorbs energy; bond forming releases energy.
+- Heat is proportional to the amount that reacts.
+## think
+Slaking quicklime (adding water to chun) makes the mixture so hot it can burn your hand. Is the reverse reaction, turning Ca(OH)₂ back into CaO and water, exothermic or endothermic?
+## quiz
+? For an exothermic reaction, ΔH is:
+* Negative
+- Positive
+- Zero
+- Always 92 kJ
+= The chemicals give heat to the surroundings, so their energy falls: ΔH < 0.
+? N₂ + O₂ + 180 kJ ⇌ 2NO is:
+- Exothermic
+* Endothermic
+- Neither
+- A neutralisation
+= Heat is written on the reactant side: it is absorbed.
+? In the Haber process (ΔH = −92 kJ), how much heat is given out when 4 mol of NH₃ form?
+- 46 kJ
+- 92 kJ
+* 184 kJ
+- 368 kJ
+= 2 mol give 92 kJ, so 4 mol give 2 × 92 = 184 kJ.
+? Which of these is endothermic?
+- Burning methane
+- Respiration
+* Decomposing limestone in a kiln
+- Slaking quicklime
+= Limestone must be heated strongly to break down into CaO and CO₂.
+== bn
+## what
+**তাপোৎপাদী বিক্রিয়া** পরিবেশে তাপ ছেড়ে দেয়; **তাপহারী বিক্রিয়া** পরিবেশ থেকে তাপ শোষণ করে। বিক্রিয়ায় তাপের পরিবর্তনকে বলে **বিক্রিয়া তাপ, ΔH**: তাপোৎপাদী বিক্রিয়ায় এটি **ঋণাত্মক** আর তাপহারী বিক্রিয়ায় **ধনাত্মক**।
+## simple
+প্রায় প্রতিটি বিক্রিয়া হয় চারপাশকে গরম করে, নয়তো ঠান্ডা করে। তাই বিক্রিয়াকে ভাগ করার দ্বিতীয় উপায় হলো **তাপ** অনুযায়ী।
+
+**তাপোৎপাদী বিক্রিয়া (তাপ বেরিয়ে যায়)।** চুলায় গ্যাস জ্বললে হাঁড়ি গরম হয়: বিক্রিয়াটি তাপ **ছেড়ে দেয়**। আরেকটি গুরুত্বপূর্ণ উদাহরণ হলো **হেবার প্রণালি**, ইউরিয়া সারের জন্য শিল্পে অ্যামোনিয়া (NH₃) তৈরির পদ্ধতি। প্রভাবক হিসেবে লোহার (Fe) চূর্ণের ওপর, ২০০–২৫০ atm চাপে আর ৪৫০–৫৫০ °C তাপমাত্রায় নাইট্রোজেন ও হাইড্রোজেন যুক্ত হয়:
+
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92 kJ
+
+এর মানে: ১ মোল N₂ আর ৩ মোল H₂ মিলে ২ মোল NH₃ তৈরি হলে **৯২ kJ তাপ বেরিয়ে যায়**।
+
+**বিক্রিয়া তাপ, ΔH।** সমতাকৃত সমীকরণ অনুযায়ী বিক্রিয়া ঘটলে তাপের যে পরিবর্তন হয় তাকে **বিক্রিয়া তাপ** বলে, আর একে **ΔH** ("ডেল্টা H") দিয়ে প্রকাশ করা হয়। ΔH-কে ভাবো "উৎপাদে জমা তাপ বিয়োগ বিক্রিয়কে জমা তাপ" হিসেবে। তাপোৎপাদী বিক্রিয়ায় উৎপাদে বিক্রিয়কের চেয়ে **কম** শক্তি থাকে (বাড়তিটুকু তাপ হয়ে বেরিয়ে গেছে), তাই ΔH **ঋণাত্মক**:
+
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g);  ΔH = −92 kJ
+
+**তাপহারী বিক্রিয়া (তাপ ঢোকে)।** কিছু বিক্রিয়া চালিয়ে যেতে তাপ লাগে, আর তাপ না দিলে এরা চারপাশকে ঠান্ডা করে। বজ্রপাতের সময় ১ মোল নাইট্রোজেন ও ১ মোল অক্সিজেন যুক্ত হয়ে ২ মোল নাইট্রিক অক্সাইড তৈরি করে, **১৮০ kJ তাপ শোষণ করে**:
+
+N₂(g) + O₂(g) + 180 kJ ⇌ 2NO(g),  অথবা  N₂(g) + O₂(g) ⇌ 2NO(g);  ΔH = +180 kJ
+
+এখানে উৎপাদে বিক্রিয়কের চেয়ে **বেশি** শক্তি, তাই ΔH **ধনাত্মক**।
+
+**সমীকরণে তাপ কীভাবে লিখবে।** নির্গত তাপ লেখা হয় **উৎপাদের** দিকে (+ 92 kJ) অথবা ঋণাত্মক ΔH হিসেবে। শোষিত তাপ লেখা হয় **বিক্রিয়কের** দিকে (+ 180 kJ) অথবা ধনাত্মক ΔH হিসেবে। একসাথে দুটো কোরো না!
+
+**তাপ আসে কোথা থেকে?** বন্ধন ভাঙতে সবসময় শক্তি **লাগে**; বন্ধন গড়তে সবসময় শক্তি **বের হয়**। পুরোনো বন্ধন ভাঙতে যত শক্তি লেগেছে, নতুন বন্ধন গড়তে তার চেয়ে বেশি শক্তি বের হলে বিক্রিয়াটি তাপোৎপাদী; কম হলে তাপহারী। (এর হিসাব করবে [[8.1.3|পাঠ ৮.১.৩]]-এ।)
+
+**আরও উদাহরণ**
+- তাপোৎপাদী: জ্বালানি পোড়ানো, আমাদের কোষে শ্বসন, এসিড ও ক্ষারের প্রশমন, চুন ভেজানোর সময় পানির সাথে চুনের বিক্রিয়া (CaO + H₂O → Ca(OH)₂)।
+- তাপহারী: ভাটায় চুনাপাথরের বিয়োজন (CaCO₃ → CaO + CO₂), পাতায় সালোকসংশ্লেষণ, তড়িৎ বিশ্লেষণে পানি ভাঙা।
+
+**তাপ পরিমাণের সমানুপাতিক।** ΔH সমতাকৃত সমীকরণের পরিমাণের জন্য প্রযোজ্য। অর্ধেক উৎপাদ বানালে তাপও অর্ধেক; দ্বিগুণ বানালে তাপও দ্বিগুণ।
+## analogy
+শক্তিকে ব্যাংক হিসাবের টাকা ভাবো। তাপোৎপাদী বিক্রিয়ায় রাসায়নিক পদার্থগুলো তাদের কিছু শক্তি "খরচ" করে, আর চারপাশ সেটা তাপ হিসেবে পায়: হিসাবের জমা কমে (ΔH ঋণাত্মক)। তাপহারী বিক্রিয়ায় পদার্থগুলো চারপাশ থেকে নেওয়া শক্তি "জমা" করে: জমা বাড়ে (ΔH ধনাত্মক)।
+## definition
+**তাপোৎপাদী বিক্রিয়া (Exothermic reaction)**: যে রাসায়নিক বিক্রিয়ায় তাপ উৎপন্ন হয়। এর ΔH ঋণাত্মক।
+
+**তাপহারী বা তাপশোষী বিক্রিয়া (Endothermic reaction)**: যে রাসায়নিক বিক্রিয়ায় তাপ শোষিত হয়। এর ΔH ধনাত্মক।
+
+**বিক্রিয়া তাপ (Heat of reaction), ΔH**: সমতাকৃত সমীকরণ অনুযায়ী একটি বিক্রিয়া সংঘটিত হতে তাপের যে পরিবর্তন হয়।
+## why
+শক্তির পরিবর্তন হতেই হবে কেন? রাসায়নিক বন্ধনে শক্তি জমা থাকে। বিক্রিয়ায় কিছু বন্ধন ভাঙে (শক্তি লাগে) আর কিছু বন্ধন গড়ে (শক্তি বের হয়)। এই দুই পরিমাণ প্রায় কখনোই ঠিক সমান হয় না, তাই পার্থক্যটুকু হয় তাপ হয়ে বেরিয়ে যায় (তাপোৎপাদী), নয়তো চারপাশ থেকে নিতে হয় (তাপহারী)। শক্তি কখনো সৃষ্টি বা ধ্বংস হয় না; শুধু পদার্থ আর চারপাশের মধ্যে আসা-যাওয়া করে।
+## terms
+তাপোৎপাদী বিক্রিয়া | তাপ ছেড়ে দেয়; ΔH ঋণাত্মক
+তাপহারী বিক্রিয়া | তাপ শোষণ করে; ΔH ধনাত্মক
+বিক্রিয়া তাপ (ΔH) | সমতাকৃত সমীকরণ অনুযায়ী বিক্রিয়ায় তাপের পরিবর্তন
+kJ | কিলোজুল = ১০০০ J, ΔH-এর প্রচলিত একক
+প্রভাবক | যে পদার্থ নিজে খরচ না হয়ে বিক্রিয়ার গতি বাড়ায় (হেবার প্রণালিতে Fe)
+## formula
+$$ ΔH = H(উৎপাদ) − H(বিক্রিয়ক)
+ΔH | বিক্রিয়া তাপ | kJ
+H | পদার্থে জমা তাপশক্তি | kJ
+! তাপোৎপাদী: উৎপাদের শক্তি কম → ΔH < ০ (ঋণাত্মক)।
+! তাপহারী: উৎপাদের শক্তি বেশি → ΔH > ০ (ধনাত্মক)।
+! তাপ পরিমাণের সমানুপাতিক: অর্ধেক মোল → অর্ধেক তাপ।
+## visual
+একটি বিক্রিয়া বেছে নিয়ে এর শক্তি-চিত্র, ΔH-এর চিহ্ন আর চারপাশ গরম না ঠান্ডা হয় তা দেখো। পরিমাণ বদলে দেখো কতটা তাপ জড়িত।
+## real
+ঢাকার রান্নাঘরের গ্যাস আর অটোরিকশার CNG পুড়ে তাপ ছাড়ে, এটি তাপোৎপাদী বিক্রিয়া। আমাদের শরীর উষ্ণতা পায় শ্বসন থেকে, সেটাও তাপোৎপাদী বিক্রিয়া। ঘোড়াশাল ও ফেঞ্চুগঞ্জের মতো বাংলাদেশের ইউরিয়া কারখানাগুলো তাপোৎপাদী হেবার প্রণালিতে অ্যামোনিয়া বানায়। ধানখেতের গাছেরা উল্টোটা করে: সালোকসংশ্লেষণে সূর্যের আলো থেকে শক্তি গ্রহণ করে।
+## example
+প্রশ্ন: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −৯২ kJ। ১৭ g অ্যামোনিয়া তৈরি হলে কত তাপ নির্গত হবে? (N = ১৪, H = ১)
+দেওয়া আছে: M(NH₃) = ১৪ + ৩ = ১৭, তাই ১৭ g = ১ mol; ২ mol NH₃ তৈরিতে ৯২ kJ নির্গত হয়
+সূত্র: তাপ = (তৈরি মোল ÷ সমীকরণের মোল) × |ΔH|
+হিসাব: তাপ = (১ ÷ ২) × ৯২ = ৪৬ kJ
+> সমীকরণের ৯২ kJ হলো ২ mol NH₃-এর জন্য; ১ mol-এ অর্ধেক।
+উত্তর: ৪৬ kJ তাপ নির্গত হবে।
+## example
+প্রশ্ন: N₂(g) + O₂(g) ⇌ 2NO(g); ΔH = +১৮০ kJ। ১৫ g NO তৈরিতে কত তাপ শোষিত হবে? (N = ১৪, O = ১৬)
+দেওয়া আছে: M(NO) = ৩০; n = ১৫ ÷ ৩০ = ০.৫ mol; ২ mol NO তৈরিতে ১৮০ kJ শোষিত হয়
+হিসাব: তাপ = (০.৫ ÷ ২) × ১৮০ = ৪৫ kJ
+উত্তর: ৪৫ kJ তাপ শোষিত হবে (বিক্রিয়াটি তাপহারী)।
+## example
+প্রশ্ন: তাপোৎপাদী না তাপহারী বলো এবং ΔH-এর চিহ্ন দাও: (ক) CH₄ + 2O₂ → CO₂ + 2H₂O + তাপ; (খ) CaCO₃ + তাপ → CaO + CO₂।
+সমাধান: (ক) তাপ উৎপাদের দিকে লেখা, তাই তাপ বেরিয়ে যায়। (খ) তাপ বিক্রিয়কের সাথে লেখা, তাই তাপ শোষিত হয়।
+উত্তর: (ক) তাপোৎপাদী, ΔH ঋণাত্মক; (খ) তাপহারী, ΔH ধনাত্মক।
+## mistakes
+x তাপোৎপাদী বিক্রিয়ায় তাপ উৎপন্ন হয় বলে ΔH ধনাত্মক।
+v তাপোৎপাদী বিক্রিয়ায় ΔH ঋণাত্মক: পদার্থগুলো চারপাশে শক্তি হারায়।
+x তাপহারী বিক্রিয়া চালাতে কোনো শক্তি লাগে না।
+v তাপহারী বিক্রিয়া চালিয়ে যেতে ক্রমাগত তাপ (বা অন্য শক্তি) সরবরাহ করতে হয়।
+x যত পরিমাণই বিক্রিয়া করুক, ΔH একই থাকে।
+v ΔH সমতাকৃত সমীকরণের পরিমাণের জন্য; যত পরিমাণ বিক্রিয়া করে, তাপ তার সমানুপাতে বদলায়।
+## remember
+- তাপোৎপাদী: তাপ বের হয়, চারপাশ গরম হয়, ΔH ঋণাত্মক (হেবার প্রণালি, ΔH = −৯২ kJ)।
+- তাপহারী: তাপ ঢোকে, চারপাশ ঠান্ডা হয়, ΔH ধনাত্মক (N₂ + O₂ → 2NO, ΔH = +১৮০ kJ)।
+- বন্ধন ভাঙতে শক্তি লাগে; বন্ধন গড়তে শক্তি বের হয়।
+- তাপ বিক্রিয়া করা পরিমাণের সমানুপাতিক।
+## think
+চুন ভেজালে (চুনে পানি দিলে) মিশ্রণ এত গরম হয় যে হাত পুড়ে যেতে পারে। বিপরীত বিক্রিয়া, অর্থাৎ Ca(OH)₂ থেকে আবার CaO ও পানি তৈরি, তাপোৎপাদী না তাপহারী?
+## quiz
+? তাপোৎপাদী বিক্রিয়ায় ΔH:
+* ঋণাত্মক
+- ধনাত্মক
+- শূন্য
+- সবসময় ৯২ kJ
+= পদার্থগুলো চারপাশে তাপ দেয়, তাই তাদের শক্তি কমে: ΔH < ০।
+? N₂ + O₂ + 180 kJ ⇌ 2NO বিক্রিয়াটি:
+- তাপোৎপাদী
+* তাপহারী
+- কোনোটিই নয়
+- প্রশমন বিক্রিয়া
+= তাপ বিক্রিয়কের দিকে লেখা: এটি শোষিত হয়।
+? হেবার প্রণালিতে (ΔH = −৯২ kJ) ৪ mol NH₃ তৈরি হলে কত তাপ নির্গত হয়?
+- ৪৬ kJ
+- ৯২ kJ
+* ১৮৪ kJ
+- ৩৬৮ kJ
+= ২ mol-এ ৯২ kJ, তাই ৪ mol-এ ২ × ৯২ = ১৮৪ kJ।
+? নিচের কোনটি তাপহারী?
+- মিথেন পোড়ানো
+- শ্বসন
+* ভাটায় চুনাপাথরের বিয়োজন
+- চুন ভেজানো
+= চুনাপাথরকে CaO ও CO₂-এ ভাঙতে জোরে তাপ দিতে হয়।
+
+@@ 7.2.3
+@visual k7redox
+@related 5.9 5.10 8.3.2 7.2.4
+== en
+## what
+A **redox reaction** is one in which electrons are transferred. **Oxidation** is loss of electrons (the oxidation number goes up); **reduction** is gain of electrons (the oxidation number goes down). They always happen together. The substance that gives away electrons is the **reducing agent (reductant)**; the one that takes them is the **oxidising agent (oxidant)**.
+## simple
+The third way to sort reactions is by **electron transfer**. The word **redox** joins "**red**uction" and "**ox**idation".
+
+**Electrons change hands.** Burn sodium in chlorine gas:
+
+Na + ½Cl₂ → NaCl
+
+A sodium atom has 1 electron in its outer shell; a chlorine atom needs 1 more to complete its octet. So sodium **gives** its electron to chlorine. Split the reaction into two halves:
+- **Oxidation half-reaction**: Na → Na⁺ + e⁻ (sodium loses an electron)
+- **Reduction half-reaction**: ½Cl₂ + e⁻ → Cl⁻ (chlorine gains an electron)
+
+Add the two halves and the electrons cancel: Na + ½Cl₂ → Na⁺ + Cl⁻ = NaCl.
+
+- **Oxidation**: an atom **loses** electrons, so its positive charge **increases** (or its negative charge decreases). Examples: Fe²⁺ → Fe³⁺ + e⁻; Na → Na⁺ + e⁻.
+- **Reduction**: an atom **gains** electrons, so its positive charge **decreases** (or its negative charge increases). Examples: Cl + e⁻ → Cl⁻; Cu²⁺ + 2e⁻ → Cu.
+
+A handy memory trick: **OIL RIG**: **O**xidation **I**s **L**oss, **R**eduction **I**s **G**ain (of electrons).
+
+**Who is the agent?** Sodium made chlorine gain an electron, so sodium is the **reducing agent** (and sodium itself got oxidised). Chlorine made sodium lose an electron, so chlorine is the **oxidising agent** (and chlorine itself got reduced).
+
+**Always together.** Electrons can't just vanish. If chlorine were not there to accept the electron, sodium could not give it away. So oxidation and reduction are **simultaneous**: whenever one substance is oxidised, another is reduced. Redox is really **electron transfer**.
+
+**Oxidation number: tracking electrons on paper.** In a molecule it is not always obvious who has "given" electrons. So chemists give each atom an **oxidation number**: a signed number that shows its tendency to give (+) or take (−) electrons in that compound. In a redox reaction, the oxidation number of the oxidised atom **goes up** and that of the reduced atom **goes down**.
+
+**Rules (Table 7.01)**
+1. A free element, or an atom in a molecule of one kind of atom, has oxidation number **0**: Na, Mg, Fe, H₂, O₂, N₂, Cl₂, Br₂.
+2. In a compound, metals have positive and non-metals usually negative oxidation numbers (NaCl: Na = +1, Cl = −1).
+3. The oxidation numbers of all atoms in a **neutral compound add up to 0** (H₂O: 2 × (+1) + (−2) = 0).
+4. In an **ion**, they add up to the **charge of the ion** (SO₄²⁻: total −2; NH₄⁺: total +1).
+5. Alkali metals (Li, Na, K) in compounds: **+1**. Alkaline earth metals (Mg, Ca) in compounds: **+2**.
+6. Halogen in a metal halide: **−1** (MgCl₂, LiCl).
+7. Hydrogen: usually **+1**, but **−1** in metal hydrides (LiH, LiAlH₄).
+8. Oxygen: usually **−2**, but **−1** in peroxides (H₂O₂, Na₂O₂) and **−½** in superoxides (NaO₂, KO₂).
+
+**Finding an unknown oxidation number.** Call it x, multiply each oxidation number by the number of such atoms, add them, and set the total equal to 0 (molecule) or to the charge (ion).
+- Mn in KMnO₄: (+1) + x + 4(−2) = 0, so **x = +7**.
+- S in H₂SO₄: 2(+1) + x + 4(−2) = 0, so **x = +6**.
+
+**Oxidation number is not valency.** Oxidation number carries a sign, can be zero or even a fraction, and one element can have different values in different compounds (Fe is 0 in iron metal, +2 in FeSO₄, +3 in FeCl₃). Valency is a combining capacity: always a whole number with no sign (zero only for noble gases).
+
+**Redox reactions you already know**
+1. **Addition (combination)**: two or more substances join to form one product. 2FeCl₂(aq) + Cl₂(g) → 2FeCl₃(aq): Fe goes +2 → +3 (oxidised), Cl in Cl₂ goes 0 → −1 (reduced). When only elements combine, as in N₂ + 3H₂ → 2NH₃, it is also called **synthesis**.
+2. **Decomposition**: one compound breaks into two or more simpler substances. PCl₅ →(Δ) PCl₃ + Cl₂ (P: +5 → +3; Cl: −1 → 0). Electrolysis of water: 2H₂O(l) → 2H₂(g) + O₂(g), with hydrogen at the cathode and oxygen at the anode.
+3. **Substitution (displacement)**: a more reactive element or radical takes the place of a less reactive one in a compound. Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g) (Zn: 0 → +2; H: +1 → 0). Likewise Zn + CuSO₄ → ZnSO₄ + Cu: zinc is more reactive than copper, so it pushes copper out.
+4. **Combustion**: a substance burns in oxygen to form oxides of its elements, usually giving out heat. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g) + heat; also S + O₂ → SO₂, C + O₂ → CO₂, 2Mg + O₂ → 2MgO, 2H₂ + O₂ → 2H₂O. Oxygen always accepts electrons here (0 → −2), so every combustion is a redox reaction.
+## analogy
+Think of a cricket ball thrown from bowler to wicket-keeper. The ball (electron) can't leave the bowler unless someone catches it. The bowler who lets go of the ball is "oxidised"; the keeper who catches it is "reduced". One throw always needs both players: that is why oxidation and reduction always happen together.
+## definition
+**Redox reaction (জারণ-বিজারণ বিক্রিয়া)**: a reaction in which electrons are transferred from one reactant to another.
+
+**Oxidation (জারণ)**: the loss of electrons by an atom or ion; its positive charge (oxidation number) increases.
+
+**Reduction (বিজারণ)**: the gain of electrons by an atom or ion; its positive charge (oxidation number) decreases.
+
+**Reducing agent (বিজারক)**: the reactant that donates electrons (and is itself oxidised). **Oxidising agent (জারক)**: the reactant that accepts electrons (and is itself reduced).
+
+**Oxidation number (জারণ সংখ্যা)**: the signed number (+ or −) given to an atom in a molecule, ion or radical, showing its tendency to give or take electrons.
+## why
+Why must the oxidation numbers in a neutral compound add up to zero? Oxidation numbers are an electron bookkeeping system: each + counts electrons "given away", each − counts electrons "taken". In a neutral compound every electron given by one atom is taken by another, so the books balance at zero. In an ion there is a leftover charge, so the books balance at that charge.
+## terms
+Redox | Reduction + oxidation, happening together by electron transfer
+Oxidation | Loss of electrons; oxidation number increases
+Reduction | Gain of electrons; oxidation number decreases
+Half-reaction | One half of a redox reaction, showing electrons lost or gained
+Oxidising agent (oxidant) | Accepts electrons; is reduced
+Reducing agent (reductant) | Donates electrons; is oxidised
+Oxidation number | Signed number showing an atom's electron-giving (+) or taking (−) tendency
+## formula
+$$ Σ (oxidation number × number of atoms) = 0 (neutral compound)
+$$ Σ (oxidation number × number of atoms) = charge of the ion
+! H = +1 (−1 in metal hydrides); O = −2 (−1 in peroxides, −½ in superoxides).
+! Alkali metals +1, alkaline earth metals +2, halogen in metal halides −1, free elements 0.
+! Oxidation: oxidation number goes up. Reduction: oxidation number goes down.
+## visual
+In "Oxidation number", pick a compound and see the sum rule solved for the unknown atom. In "Metal + salt solution", dip a metal into a solution: does it displace the other metal? Follow the electrons and the oxidation numbers.
+## real
+The iron in a tin shed rusts because iron is oxidised by oxygen from the air. Bleach (a strong oxidising agent) removes stains by oxidising coloured substances. In a torch battery, zinc is oxidised and gives electrons that flow through the bulb. Plants in Bangladesh's fields carry out photosynthesis, a huge redox process that reduces carbon dioxide to sugar.
+## example
+Q: Find the oxidation number of Mn in KMnO₄.
+Given: K = +1, O = −2; KMnO₄ is neutral
+Formula: sum of oxidation numbers = 0
+Substitution: (+1) × 1 + x × 1 + (−2) × 4 = 0
+Calculation: 1 + x − 8 = 0, so x = +7
+Answer: Mn = +7
+## example
+Q: Find the oxidation number of Cr in K₂Cr₂O₇ and of N in NH₄⁺.
+Substitution: K₂Cr₂O₇: 2(+1) + 2x + 7(−2) = 0; NH₄⁺: x + 4(+1) = +1
+Calculation: 2 + 2x − 14 = 0 → 2x = 12 → x = +6; x + 4 = 1 → x = −3
+> For an ion, set the total equal to the charge, not to zero.
+Answer: Cr = +6; N = −3
+## example
+Q: In Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g), which substance is oxidised, which is reduced, and which are the oxidising and reducing agents? Write the half-reactions.
+Solution: Zn: 0 → +2 (up, oxidised). H: +1 in H₂SO₄ → 0 in H₂ (down, reduced). S (+6) and O (−2) do not change.
+Oxidation half: Zn → Zn²⁺ + 2e⁻; reduction half: 2H⁺ + 2e⁻ → H₂
+Answer: Zn is oxidised and is the reducing agent; H⁺ (from H₂SO₄) is reduced, so H₂SO₄ is the oxidising agent.
+## example
+Q: 2FeCl₂ + Cl₂ → 2FeCl₃. Show that this addition reaction is a redox reaction.
+Solution: Fe: +2 in FeCl₂ → +3 in FeCl₃ (oxidised, Fe²⁺ → Fe³⁺ + e⁻). Cl in Cl₂: 0 → −1 (reduced, Cl₂ + 2e⁻ → 2Cl⁻).
+> Two Fe²⁺ ions each lose 1 electron; one Cl₂ molecule gains those 2 electrons.
+Answer: FeCl₂ is oxidised (reducing agent) and Cl₂ is reduced (oxidising agent), so it is a redox reaction.
+## mistakes
+x The oxidising agent is the substance that gets oxidised.
+v The oxidising agent causes oxidation in something else and is itself **reduced** (it gains electrons).
+x Oxidation always means adding oxygen.
+v The modern meaning is loss of electrons. Na + ½Cl₂ → NaCl is an oxidation of sodium even though no oxygen is involved.
+x Oxidation number and valency are the same thing.
+v Oxidation number has a sign and can be zero or fractional (O in KO₂ = −½); valency is always a whole number without a sign.
+x In any compound oxygen is −2 and hydrogen is +1.
+v Oxygen is −1 in peroxides and −½ in superoxides; hydrogen is −1 in metal hydrides.
+## remember
+- OIL RIG: Oxidation Is Loss, Reduction Is Gain (of electrons).
+- Oxidation: oxidation number up; reduction: oxidation number down; always together.
+- Reducing agent gives electrons (is oxidised); oxidising agent takes electrons (is reduced).
+- Sum of oxidation numbers = 0 for a molecule, = charge for an ion. KMnO₄: Mn = +7; H₂SO₄: S = +6.
+- Addition, decomposition, displacement and combustion are redox reactions.
+## think
+Copper metal does not react with zinc sulfate solution, but zinc metal reacts with copper sulfate solution. What does this tell you about which metal gives up its electrons more easily?
+## quiz
+? In Na → Na⁺ + e⁻, sodium is:
+* Oxidised
+- Reduced
+- Neither
+- An oxidising agent
+= Sodium loses an electron: oxidation.
+? The oxidation number of S in H₂SO₄ is:
+- +4
+* +6
+- −2
+- +2
+= 2(+1) + x + 4(−2) = 0, so x = +6.
+? In 2FeCl₂ + Cl₂ → 2FeCl₃, the oxidising agent is:
+- FeCl₂
+* Cl₂
+- FeCl₃
+- Fe
+= Cl₂ accepts electrons (0 → −1), so it is the oxidising agent.
+? The oxidation number of oxygen in H₂O₂ is:
+- −2
+* −1
+- −½
+- 0
+= H₂O₂ is a peroxide: 2(+1) + 2x = 0, so x = −1.
+? Which statement is correct?
+- Valency can be negative
+- Oxidation number is always a whole number
+* An element can have different oxidation numbers in different compounds
+- Oxidation can occur without reduction
+= Fe is 0 in iron metal, +2 in FeSO₄ and +3 in FeCl₃.
+== bn
+## what
+যে বিক্রিয়ায় ইলেকট্রন স্থানান্তরিত হয় তাকে **রেডক্স বা জারণ-বিজারণ বিক্রিয়া** বলে। **জারণ** মানে ইলেকট্রন ত্যাগ (জারণ সংখ্যা বাড়ে); **বিজারণ** মানে ইলেকট্রন গ্রহণ (জারণ সংখ্যা কমে)। এরা সবসময় একসাথে ঘটে। যে পদার্থ ইলেকট্রন দান করে সে **বিজারক**; যে পদার্থ ইলেকট্রন গ্রহণ করে সে **জারক**।
+## simple
+বিক্রিয়াকে ভাগ করার তৃতীয় উপায় হলো **ইলেকট্রন স্থানান্তর**। **রেডক্স** (Redox) শব্দটি এসেছে "**Red**uction" (বিজারণ) আর "**Ox**idation" (জারণ) জুড়ে।
+
+**ইলেকট্রনের হাতবদল।** ক্লোরিন গ্যাসে সোডিয়াম পোড়াও:
+
+Na + ½Cl₂ → NaCl
+
+সোডিয়াম পরমাণুর বাইরের শেলে ১টি ইলেকট্রন; ক্লোরিন পরমাণুর অষ্টক পূর্ণ করতে আরও ১টি লাগে। তাই সোডিয়াম তার ইলেকট্রনটি ক্লোরিনকে **দিয়ে দেয়**। বিক্রিয়াটিকে দুই ভাগে ভাগ করো:
+- **জারণ অর্ধবিক্রিয়া**: Na → Na⁺ + e⁻ (সোডিয়াম একটি ইলেকট্রন হারায়)
+- **বিজারণ অর্ধবিক্রিয়া**: ½Cl₂ + e⁻ → Cl⁻ (ক্লোরিন একটি ইলেকট্রন পায়)
+
+দুই অর্ধেক যোগ করলে ইলেকট্রন কাটাকাটি হয়ে যায়: Na + ½Cl₂ → Na⁺ + Cl⁻ = NaCl।
+
+- **জারণ**: পরমাণু ইলেকট্রন **ত্যাগ** করে, ফলে এর ধনাত্মক চার্জ **বাড়ে** (বা ঋণাত্মক চার্জ কমে)। যেমন: Fe²⁺ → Fe³⁺ + e⁻; Na → Na⁺ + e⁻।
+- **বিজারণ**: পরমাণু ইলেকট্রন **গ্রহণ** করে, ফলে এর ধনাত্মক চার্জ **কমে** (বা ঋণাত্মক চার্জ বাড়ে)। যেমন: Cl + e⁻ → Cl⁻; Cu²⁺ + 2e⁻ → Cu।
+
+মনে রাখার সহজ কৌশল: **"জারণে যায়, বিজারণে পায়"**: জারণে ইলেকট্রন চলে যায়, বিজারণে ইলেকট্রন পাওয়া যায়। (ইংরেজিতে OIL RIG: Oxidation Is Loss, Reduction Is Gain।)
+
+**কে জারক, কে বিজারক?** সোডিয়াম ক্লোরিনকে ইলেকট্রন পাইয়ে দিয়েছে, তাই সোডিয়াম **বিজারক** (আর সোডিয়াম নিজে জারিত হয়েছে)। ক্লোরিন সোডিয়ামের ইলেকট্রন কেড়ে নিয়েছে, তাই ক্লোরিন **জারক** (আর ক্লোরিন নিজে বিজারিত হয়েছে)।
+
+**সবসময় একসাথে।** ইলেকট্রন হঠাৎ উধাও হতে পারে না। ইলেকট্রন নেওয়ার জন্য ক্লোরিন না থাকলে সোডিয়াম তা দিতেই পারত না। তাই জারণ ও বিজারণ **যুগপৎ প্রক্রিয়া**: কোনো পদার্থ জারিত হলে অন্য কোনো পদার্থ বিজারিত হবেই। রেডক্স মানে আসলে **ইলেকট্রন স্থানান্তর**।
+
+**জারণ সংখ্যা: কাগজে-কলমে ইলেকট্রনের হিসাব।** অণুর ভেতরে কে ইলেকট্রন "দিয়েছে" তা সবসময় সহজে বোঝা যায় না। তাই রসায়নবিদেরা প্রতিটি পরমাণুকে একটি **জারণ সংখ্যা** দেন: চিহ্নযুক্ত একটি সংখ্যা যা ওই যৌগে পরমাণুটির ইলেকট্রন দেওয়ার (+) বা নেওয়ার (−) প্রবণতা দেখায়। রেডক্স বিক্রিয়ায় জারিত পরমাণুর জারণ সংখ্যা **বাড়ে**, আর বিজারিত পরমাণুর জারণ সংখ্যা **কমে**।
+
+**নিয়মগুলো (টেবিল ৭.০১)**
+১. মুক্ত মৌল, বা একই রকম পরমাণু দিয়ে গঠিত অণুর পরমাণুর জারণ সংখ্যা **০**: Na, Mg, Fe, H₂, O₂, N₂, Cl₂, Br₂।
+২. যৌগে ধাতুর জারণ সংখ্যা ধনাত্মক, অধাতুর সাধারণত ঋণাত্মক (NaCl: Na = +১, Cl = −১)।
+৩. **নিরপেক্ষ যৌগে** সব পরমাণুর জারণ সংখ্যার **যোগফল ০** (H₂O: ২ × (+১) + (−২) = ০)।
+৪. **আয়নে** যোগফল হয় **আয়নের আধানের সমান** (SO₄²⁻: মোট −২; NH₄⁺: মোট +১)।
+৫. যৌগে ক্ষার ধাতুর (Li, Na, K) জারণ সংখ্যা **+১**; মৃৎক্ষার ধাতুর (Mg, Ca) **+২**।
+৬. ধাতব হ্যালাইডে হ্যালোজেনের জারণ সংখ্যা **−১** (MgCl₂, LiCl)।
+৭. হাইড্রোজেন: সাধারণত **+১**, কিন্তু ধাতব হাইড্রাইডে **−১** (LiH, LiAlH₄)।
+৮. অক্সিজেন: সাধারণত **−২**, কিন্তু পার-অক্সাইডে **−১** (H₂O₂, Na₂O₂) আর সুপার-অক্সাইডে **−½** (NaO₂, KO₂)।
+
+**অজানা জারণ সংখ্যা বের করা।** অজানাটিকে x ধরো, প্রতিটি জারণ সংখ্যাকে ওই পরমাণুর সংখ্যা দিয়ে গুণ করো, যোগ করো, আর যোগফলকে ০ (অণু) বা আধানের (আয়ন) সমান ধরো।
+- KMnO₄-এ Mn: (+১) + x + ৪(−২) = ০, তাই **x = +৭**।
+- H₂SO₄-এ S: ২(+১) + x + ৪(−২) = ০, তাই **x = +৬**।
+
+**জারণ সংখ্যা আর যোজনী এক নয়।** জারণ সংখ্যার চিহ্ন আছে, এটি শূন্য এমনকি ভগ্নাংশও হতে পারে, আর একই মৌলের জারণ সংখ্যা ভিন্ন যৌগে ভিন্ন হয় (লোহা ধাতুতে Fe ০, FeSO₄-এ +২, FeCl₃-এ +৩)। যোজনী হলো যুক্ত হওয়ার সামর্থ্য: সবসময় চিহ্নহীন পূর্ণসংখ্যা (শুধু নিষ্ক্রিয় গ্যাসের যোজনী শূন্য)।
+
+**তোমার চেনা কিছু রেডক্স বিক্রিয়া**
+১. **সংযোজন বিক্রিয়া**: দুই বা ততোধিক পদার্থ যুক্ত হয়ে একটিমাত্র উৎপাদ তৈরি করে। 2FeCl₂(aq) + Cl₂(g) → 2FeCl₃(aq): Fe +২ → +৩ (জারিত), Cl₂-এর Cl ০ → −১ (বিজারিত)। শুধু মৌল যুক্ত হয়ে যৌগ হলে, যেমন N₂ + 3H₂ → 2NH₃, তাকে **সংশ্লেষণ বিক্রিয়াও** বলে।
+২. **বিয়োজন বিক্রিয়া**: একটি যৌগ ভেঙে দুই বা ততোধিক সরল পদার্থ হয়। PCl₅ →(Δ) PCl₃ + Cl₂ (P: +৫ → +৩; Cl: −১ → ০)। পানির তড়িৎ বিশ্লেষণ: 2H₂O(l) → 2H₂(g) + O₂(g); ক্যাথোডে হাইড্রোজেন আর অ্যানোডে অক্সিজেন।
+৩. **প্রতিস্থাপন বিক্রিয়া**: বেশি সক্রিয় কোনো মৌল বা যৌগমূলক যৌগ থেকে কম সক্রিয়টিকে সরিয়ে তার জায়গা নেয়। Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g) (Zn: ০ → +২; H: +১ → ০)। একইভাবে Zn + CuSO₄ → ZnSO₄ + Cu: জিংক কপারের চেয়ে সক্রিয়, তাই কপারকে বের করে দেয়।
+৪. **দহন বিক্রিয়া**: কোনো পদার্থ অক্সিজেনে পুড়ে তার উপাদান মৌলের অক্সাইড তৈরি করে, সাধারণত তাপ বের হয়। CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g) + তাপ; তেমনি S + O₂ → SO₂, C + O₂ → CO₂, 2Mg + O₂ → 2MgO, 2H₂ + O₂ → 2H₂O। এখানে অক্সিজেন সবসময় ইলেকট্রন গ্রহণ করে (০ → −২), তাই প্রতিটি দহন বিক্রিয়াই রেডক্স।
+## analogy
+বোলার থেকে উইকেটকিপারের দিকে ছোড়া ক্রিকেট বলের কথা ভাবো। কেউ না ধরলে বল (ইলেকট্রন) বোলারের হাত ছাড়তে পারে না। যে বোলার বল ছেড়ে দেয় সে "জারিত"; যে কিপার বল ধরে সে "বিজারিত"। একটি থ্রো-তে সবসময় দুজন খেলোয়াড় লাগে: এজন্যই জারণ আর বিজারণ সবসময় একসাথে ঘটে।
+## definition
+**রেডক্স বা জারণ-বিজারণ বিক্রিয়া (Redox reaction)**: যে বিক্রিয়ায় একটি বিক্রিয়ক থেকে অন্য বিক্রিয়কে ইলেকট্রন স্থানান্তরিত হয়।
+
+**জারণ (Oxidation)**: কোনো পরমাণু বা আয়নের ইলেকট্রন ত্যাগ; এতে এর ধনাত্মক চার্জ (জারণ সংখ্যা) বাড়ে।
+
+**বিজারণ (Reduction)**: কোনো পরমাণু বা আয়নের ইলেকট্রন গ্রহণ; এতে এর ধনাত্মক চার্জ (জারণ সংখ্যা) কমে।
+
+**বিজারক (Reducing agent)**: যে বিক্রিয়ক ইলেকট্রন দান করে (এবং নিজে জারিত হয়)। **জারক (Oxidising agent)**: যে বিক্রিয়ক ইলেকট্রন গ্রহণ করে (এবং নিজে বিজারিত হয়)।
+
+**জারণ সংখ্যা (Oxidation number)**: অণু, আয়ন বা যৌগমূলকে কোনো পরমাণুর ইলেকট্রন দেওয়া বা নেওয়ার প্রবণতা প্রকাশকারী চিহ্নযুক্ত (+ বা −) সংখ্যা।
+## why
+নিরপেক্ষ যৌগে জারণ সংখ্যার যোগফল শূন্য হতেই হবে কেন? জারণ সংখ্যা হলো ইলেকট্রনের হিসাবের খাতা: প্রতিটি + মানে ইলেকট্রন "দিয়ে দেওয়া", প্রতিটি − মানে ইলেকট্রন "নেওয়া"। নিরপেক্ষ যৌগে একটি পরমাণু যত ইলেকট্রন দেয়, অন্যটি ঠিক ততটাই নেয়, তাই হিসাব শূন্যে মেলে। আয়নে বাড়তি আধান থাকে, তাই হিসাব মেলে সেই আধানে।
+## terms
+রেডক্স | ইলেকট্রন স্থানান্তরের মাধ্যমে একসাথে ঘটা জারণ + বিজারণ
+জারণ | ইলেকট্রন ত্যাগ; জারণ সংখ্যা বাড়ে
+বিজারণ | ইলেকট্রন গ্রহণ; জারণ সংখ্যা কমে
+অর্ধবিক্রিয়া | রেডক্স বিক্রিয়ার এক অর্ধেক, যেখানে ইলেকট্রন ত্যাগ বা গ্রহণ দেখানো হয়
+জারক | ইলেকট্রন গ্রহণ করে; নিজে বিজারিত হয়
+বিজারক | ইলেকট্রন দান করে; নিজে জারিত হয়
+জারণ সংখ্যা | পরমাণুর ইলেকট্রন দেওয়ার (+) বা নেওয়ার (−) প্রবণতা প্রকাশক চিহ্নযুক্ত সংখ্যা
+## formula
+$$ Σ (জারণ সংখ্যা × পরমাণুর সংখ্যা) = ০ (নিরপেক্ষ যৌগ)
+$$ Σ (জারণ সংখ্যা × পরমাণুর সংখ্যা) = আয়নের আধান
+! H = +১ (ধাতব হাইড্রাইডে −১); O = −২ (পার-অক্সাইডে −১, সুপার-অক্সাইডে −½)।
+! ক্ষার ধাতু +১, মৃৎক্ষার ধাতু +২, ধাতব হ্যালাইডে হ্যালোজেন −১, মুক্ত মৌল ০।
+! জারণ: জারণ সংখ্যা বাড়ে। বিজারণ: জারণ সংখ্যা কমে।
+## visual
+"জারণ সংখ্যা" অংশে একটি যৌগ বেছে নিয়ে দেখো যোগফলের নিয়মে অজানা পরমাণুর জারণ সংখ্যা কীভাবে বের হয়। "ধাতু + লবণের দ্রবণ" অংশে একটি ধাতু দ্রবণে ডোবাও: এটি কি অন্য ধাতুকে প্রতিস্থাপন করে? ইলেকট্রন আর জারণ সংখ্যার পরিবর্তন লক্ষ করো।
+## real
+টিনের ঘরের লোহায় মরিচা পড়ে, কারণ বাতাসের অক্সিজেন লোহাকে জারিত করে। ব্লিচ (শক্তিশালী জারক) রঙিন পদার্থকে জারিত করে দাগ তোলে। টর্চের ব্যাটারিতে জিংক জারিত হয়ে ইলেকট্রন দেয়, যা বাল্বের মধ্য দিয়ে প্রবাহিত হয়। বাংলাদেশের মাঠের গাছেরা সালোকসংশ্লেষণ করে, যা কার্বন ডাই-অক্সাইডকে বিজারিত করে চিনি বানানোর এক বিশাল রেডক্স প্রক্রিয়া।
+## example
+প্রশ্ন: KMnO₄-এ Mn-এর জারণ সংখ্যা নির্ণয় করো।
+দেওয়া আছে: K = +১, O = −২; KMnO₄ নিরপেক্ষ
+সূত্র: জারণ সংখ্যার যোগফল = ০
+মান বসাই: (+১) × ১ + x × ১ + (−২) × ৪ = ০
+হিসাব: ১ + x − ৮ = ০, তাই x = +৭
+উত্তর: Mn = +৭
+## example
+প্রশ্ন: K₂Cr₂O₇-এ Cr-এর এবং NH₄⁺-এ N-এর জারণ সংখ্যা নির্ণয় করো।
+মান বসাই: K₂Cr₂O₇: ২(+১) + ২x + ৭(−২) = ০; NH₄⁺: x + ৪(+১) = +১
+হিসাব: ২ + ২x − ১৪ = ০ → ২x = ১২ → x = +৬; x + ৪ = ১ → x = −৩
+> আয়নের বেলায় যোগফলকে শূন্য নয়, আধানের সমান ধরো।
+উত্তর: Cr = +৬; N = −৩
+## example
+প্রশ্ন: Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g) বিক্রিয়ায় কোন পদার্থ জারিত, কোনটি বিজারিত, আর জারক ও বিজারক কোনটি? অর্ধবিক্রিয়া লেখো।
+সমাধান: Zn: ০ → +২ (বাড়ে, জারিত)। H: H₂SO₄-এ +১ → H₂-এ ০ (কমে, বিজারিত)। S (+৬) ও O (−২) বদলায় না।
+জারণ অর্ধবিক্রিয়া: Zn → Zn²⁺ + 2e⁻; বিজারণ অর্ধবিক্রিয়া: 2H⁺ + 2e⁻ → H₂
+উত্তর: Zn জারিত এবং এটি বিজারক; H⁺ (H₂SO₄ থেকে) বিজারিত, তাই H₂SO₄ জারক।
+## example
+প্রশ্ন: 2FeCl₂ + Cl₂ → 2FeCl₃। দেখাও যে এই সংযোজন বিক্রিয়াটি একটি রেডক্স বিক্রিয়া।
+সমাধান: Fe: FeCl₂-এ +২ → FeCl₃-এ +৩ (জারিত, Fe²⁺ → Fe³⁺ + e⁻)। Cl₂-এর Cl: ০ → −১ (বিজারিত, Cl₂ + 2e⁻ → 2Cl⁻)।
+> দুটি Fe²⁺ আয়ন প্রত্যেকে ১টি করে ইলেকট্রন হারায়; একটি Cl₂ অণু সেই ২টি ইলেকট্রন গ্রহণ করে।
+উত্তর: FeCl₂ জারিত (বিজারক) আর Cl₂ বিজারিত (জারক), তাই এটি রেডক্স বিক্রিয়া।
+## mistakes
+x যে পদার্থ জারিত হয় সে-ই জারক।
+v জারক অন্যকে জারিত করে আর নিজে **বিজারিত** হয় (ইলেকট্রন গ্রহণ করে)।
+x জারণ মানেই অক্সিজেন যোগ।
+v আধুনিক অর্থে জারণ মানে ইলেকট্রন ত্যাগ। Na + ½Cl₂ → NaCl-এ কোনো অক্সিজেন না থাকলেও সোডিয়াম জারিত হয়।
+x জারণ সংখ্যা আর যোজনী একই জিনিস।
+v জারণ সংখ্যার চিহ্ন আছে, আর এটি শূন্য বা ভগ্নাংশও হতে পারে (KO₂-এ O = −½); যোজনী সবসময় চিহ্নহীন পূর্ণসংখ্যা।
+x যেকোনো যৌগে অক্সিজেন −২ আর হাইড্রোজেন +১।
+v পার-অক্সাইডে অক্সিজেন −১, সুপার-অক্সাইডে −½; ধাতব হাইড্রাইডে হাইড্রোজেন −১।
+## remember
+- জারণে যায়, বিজারণে পায় (ইলেকট্রন)। OIL RIG।
+- জারণ: জারণ সংখ্যা বাড়ে; বিজারণ: জারণ সংখ্যা কমে; সবসময় একসাথে ঘটে।
+- বিজারক ইলেকট্রন দেয় (নিজে জারিত হয়); জারক ইলেকট্রন নেয় (নিজে বিজারিত হয়)।
+- জারণ সংখ্যার যোগফল অণুতে ০, আয়নে আধানের সমান। KMnO₄: Mn = +৭; H₂SO₄: S = +৬।
+- সংযোজন, বিয়োজন, প্রতিস্থাপন ও দহন বিক্রিয়া রেডক্স বিক্রিয়া।
+## think
+কপার ধাতু জিংক সালফেট দ্রবণের সাথে বিক্রিয়া করে না, কিন্তু জিংক ধাতু কপার সালফেট দ্রবণের সাথে বিক্রিয়া করে। এ থেকে কোন ধাতু সহজে ইলেকট্রন ছেড়ে দেয় সে সম্পর্কে কী বোঝা যায়?
+## quiz
+? Na → Na⁺ + e⁻ বিক্রিয়ায় সোডিয়াম:
+* জারিত হয়
+- বিজারিত হয়
+- কোনোটিই নয়
+- জারক
+= সোডিয়াম একটি ইলেকট্রন হারায়: এটি জারণ।
+? H₂SO₄-এ S-এর জারণ সংখ্যা:
+- +৪
+* +৬
+- −২
+- +২
+= ২(+১) + x + ৪(−২) = ০, তাই x = +৬।
+? 2FeCl₂ + Cl₂ → 2FeCl₃ বিক্রিয়ায় জারক হলো:
+- FeCl₂
+* Cl₂
+- FeCl₃
+- Fe
+= Cl₂ ইলেকট্রন গ্রহণ করে (০ → −১), তাই এটি জারক।
+? H₂O₂-এ অক্সিজেনের জারণ সংখ্যা:
+- −২
+* −১
+- −½
+- ০
+= H₂O₂ একটি পার-অক্সাইড: ২(+১) + ২x = ০, তাই x = −১।
+? কোন উক্তিটি সঠিক?
+- যোজনী ঋণাত্মক হতে পারে
+- জারণ সংখ্যা সবসময় পূর্ণসংখ্যা
+* একই মৌলের জারণ সংখ্যা ভিন্ন যৌগে ভিন্ন হতে পারে
+- বিজারণ ছাড়াই জারণ ঘটতে পারে
+= লোহা ধাতুতে Fe ০, FeSO₄-এ +২ আর FeCl₃-এ +৩।
+
+@@ 7.2.4
+@visual k7neut
+@related 9.5 9.4 7.2.3 6.3.2
+== en
+## what
+In **non-redox reactions** no electrons are transferred, so no oxidation number changes. Two important kinds are **neutralisation** (acid + base → salt + water, always exothermic) and **precipitation** (two solutions mix and an insoluble solid, the **precipitate**, forms and settles; shown with ↓).
+## simple
+Not every reaction moves electrons around. In some reactions the ions simply **swap partners**. Check the oxidation numbers before and after: if none of them change, it is a **non-redox reaction**. (In the book this is the second half of section 7.2.3.)
+
+**1. Neutralisation (acid–base reaction).** An acid and a base react and cancel each other out, giving a **salt** and **water**:
+
+HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)
+
+Check: Na +1 → +1, Cl −1 → −1, H +1 → +1, O −2 → −2. Nothing changes: non-redox.
+
+**What really happens?** In water, these substances exist as ions:
+
+H⁺ + Cl⁻ + Na⁺ + OH⁻ → Na⁺ + Cl⁻ + H₂O
+
+Na⁺ and Cl⁻ appear unchanged on both sides. They just "watch", so they are called **spectator ions**. Cross them out and you get the real reaction of **every** neutralisation:
+
+H⁺(aq) + OH⁻(aq) → H₂O(l);  ΔH = −57.34 kJ
+
+The acid supplies H⁺, the base supplies OH⁻, and they join to make water. Neutralisation is always **exothermic**. The heat given out when 1 mole of water is formed is called the **heat of neutralisation**. For any strong acid with any strong base it is the same, about **57.34 kJ**, because the actual reaction is always the same: H⁺ + OH⁻ → H₂O.
+
+**Experiment: showing neutralisation.** Take 10 mL of dilute NaOH solution in a beaker and dip a piece of blue litmus paper in it. With a dropper, add dilute HCl a little at a time while stirring with a glass rod. When the litmus turns red, all the NaOH has been used up (the first extra drop of acid turns it red). If you use a thermometer, you will also see the mixture warm up slightly. *Safety: wear goggles; even dilute acids and alkalis sting the eyes; wash any splash with plenty of water.*
+
+**2. Precipitation.** Mix two clear solutions of soluble compounds. If one of the new compounds is insoluble (or only very slightly soluble) in water, it appears as a cloudy solid that slowly settles at the bottom. This solid is the **precipitate**, and we mark it with a downward arrow (↓) or (s).
+
+- Silver nitrate + sodium chloride: NaCl(aq) + AgNO₃(aq) → AgCl(s)↓ + NaNO₃(aq). NaNO₃ stays dissolved; AgCl forms a white precipitate. Net ionic equation: Ag⁺ + Cl⁻ → AgCl↓.
+- Sodium sulfate + barium chloride: Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s)↓ + 2NaCl(aq); white BaSO₄. Net: Ba²⁺ + SO₄²⁻ → BaSO₄↓.
+
+**Experiment: showing precipitation.** Take 2–3 mL of ferrous sulfate (FeSO₄) solution in a test tube and add sodium hydroxide solution drop by drop. A **green** precipitate of iron(II) hydroxide, Fe(OH)₂, slowly forms and settles:
+
+FeSO₄(aq) + 2NaOH(aq) → Fe(OH)₂(s)↓ + Na₂SO₄(aq)
+
+(With a ferric salt such as FeCl₃ you would instead get a **reddish-brown** precipitate of Fe(OH)₃: FeCl₃ + 3NaOH → Fe(OH)₃↓ + 3NaCl. The green Fe(OH)₂ also slowly turns brown at its surface as air oxidises it.)
+
+Most precipitation reactions are non-redox, but some involve electron transfer too; you will meet those in higher classes.
+## analogy
+Neutralisation is like a dance where only two dancers really meet: H⁺ takes OH⁻'s hand and they walk off together as water. Na⁺ and Cl⁻ stand at the edge of the floor the whole time, like spectators at a match. Precipitation is like a crowd in which one pair becomes too heavy to stay in the swirl, so they drop to the floor.
+## definition
+**Non-redox reaction (নন-রেডক্স বিক্রিয়া)**: a reaction in which no electrons are transferred, so the oxidation number of no atom increases or decreases.
+
+**Neutralisation reaction (প্রশমন বিক্রিয়া)**: the reaction of an acid with a base to form a salt and water; also called an acid–base reaction.
+
+**Heat of neutralisation (প্রশমন তাপ)**: the heat given out when 1 mole of water is formed by neutralisation; 57.34 kJ for a strong acid with a strong base.
+
+**Precipitation reaction (অধঃক্ষেপণ বিক্রিয়া)**: a reaction in which soluble reactants in a solvent produce an insoluble solid product (the precipitate) that settles at the bottom.
+## why
+Why is the heat of neutralisation the same for HCl + NaOH, HNO₃ + KOH and H₂SO₄ + NaOH? Strong acids and strong bases are completely split into ions in water. Whichever ones you choose, the only change that actually happens is H⁺ + OH⁻ → H₂O; all the other ions are spectators. Same reaction, so the same heat per mole of water.
+
+Why does a precipitate form? When ions of an insoluble compound such as Ag⁺ and Cl⁻ meet in water, they attract each other so strongly that water cannot keep them apart. They lock together into a solid lattice that is too big to stay dissolved, and it sinks.
+## terms
+Non-redox reaction | No electron transfer; oxidation numbers unchanged
+Neutralisation | Acid + base → salt + water
+Spectator ion | Ion present but unchanged in the reaction (Na⁺, Cl⁻ in HCl + NaOH)
+Heat of neutralisation | Heat released per mole of water formed: 57.34 kJ (strong acid + strong base)
+Precipitate | Insoluble solid formed in a solution; shown with ↓
+Net ionic equation | Equation showing only the ions that actually react
+## formula
+$$ H⁺(aq) + OH⁻(aq) → H₂O(l);  ΔH = −57.34 kJ
+$$ heat released = moles of water formed × 57.34 kJ
+! Litmus: blue in base, red in acid.
+## visual
+In "Neutralisation", add acid to the alkali drop by drop and watch the ions, the litmus colour, the pH and the temperature. In "Precipitation", choose a pair of solutions, mix them and see whether a precipitate forms.
+## real
+When an ant or bee stings, people in Bangladesh often rub a little chun (lime, a base) on the spot to neutralise the acid. An antacid tablet neutralises extra stomach acid. Farmers spread lime on acidic soil. In water-testing labs, adding silver nitrate to a water sample and seeing a white AgCl precipitate shows that chloride (salt) is present, useful for checking salinity in coastal tube-wells.
+## example
+Q: How much heat is released when 0.25 mol of NaOH is completely neutralised by HCl?
+Given: NaOH + HCl → NaCl + H₂O; 1 mol NaOH forms 1 mol H₂O; heat of neutralisation = 57.34 kJ per mol of water
+Formula: heat = moles of water × 57.34 kJ
+Calculation: heat = 0.25 × 57.34 = 14.3 kJ
+Answer: about 14.3 kJ
+## example
+Q: A solution containing 5.85 g of NaCl is mixed with excess AgNO₃ solution. What mass of AgCl precipitate forms? (Na = 23, Cl = 35.5, Ag = 108)
+Given: NaCl(aq) + AgNO₃(aq) → AgCl(s)↓ + NaNO₃(aq); M(NaCl) = 58.5; M(AgCl) = 108 + 35.5 = 143.5
+Formula: n = w/M; 1 mol NaCl gives 1 mol AgCl
+Calculation: n(NaCl) = 5.85 ÷ 58.5 = 0.1 mol; mass of AgCl = 0.1 × 143.5 = 14.35 g
+Answer: 14.35 g of AgCl
+## example
+Q: Show that Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl is a non-redox reaction and write its net ionic equation.
+Solution: Na +1 → +1; S +6 → +6; O −2 → −2; Ba +2 → +2; Cl −1 → −1. No oxidation number changes, so no electron is transferred. Na⁺ and Cl⁻ are spectator ions.
+Answer: Non-redox; net ionic equation: Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)↓
+## mistakes
+x Neutralisation takes in heat.
+v Neutralisation always gives out heat (exothermic): 57.34 kJ per mole of water for a strong acid and a strong base.
+x In HCl + NaOH, the Na⁺ and Cl⁻ ions react to form salt.
+v Na⁺ and Cl⁻ are spectator ions; they remain as ions in the solution. Only H⁺ and OH⁻ react.
+x Ferrous sulfate and NaOH give a reddish-brown precipitate.
+v Iron(II) (ferrous) salts give a green Fe(OH)₂ precipitate; iron(III) (ferric) salts give reddish-brown Fe(OH)₃.
+## remember
+- Non-redox: no electron transfer, no change in oxidation numbers.
+- Neutralisation: acid + base → salt + water; real reaction H⁺ + OH⁻ → H₂O; ΔH = −57.34 kJ per mol H₂O.
+- Spectator ions don't take part (Na⁺, Cl⁻).
+- Precipitation: soluble + soluble → insoluble solid ↓ (AgCl white, BaSO₄ white, Fe(OH)₂ green, Fe(OH)₃ reddish-brown).
+## think
+In the litmus experiment the paper turns red "when the NaOH is neutralised". Strictly, what does a red colour tell you about the solution at that moment?
+## quiz
+? Which ions are spectators in HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)?
+- H⁺ and OH⁻
+* Na⁺ and Cl⁻
+- H⁺ and Cl⁻
+- Na⁺ and OH⁻
+= Na⁺ and Cl⁻ are unchanged on both sides.
+? The heat of neutralisation of a strong acid by a strong base is about:
+- +57.34 kJ
+* −57.34 kJ per mole of water
+- −92 kJ
+- +180 kJ
+= The reaction H⁺ + OH⁻ → H₂O always releases about 57.34 kJ per mole of water.
+? Mixing NaCl and AgNO₃ solutions gives a white precipitate of:
+- NaNO₃
+* AgCl
+- Ag
+- NaCl
+= AgCl is insoluble in water; NaNO₃ stays dissolved.
+? Neutralisation is a non-redox reaction because:
+- Heat is released
+- Water is formed
+* No oxidation number changes
+- A salt is formed
+= No electrons are transferred, so every atom keeps its oxidation number.
+== bn
+## what
+**নন-রেডক্স বিক্রিয়ায়** কোনো ইলেকট্রন স্থানান্তর হয় না, তাই কোনো পরমাণুর জারণ সংখ্যা বদলায় না। দুটি গুরুত্বপূর্ণ ধরন হলো **প্রশমন** (এসিড + ক্ষার → লবণ + পানি, সবসময় তাপোৎপাদী) আর **অধঃক্ষেপণ** (দুটি দ্রবণ মেশালে অদ্রবণীয় কঠিন **অধঃক্ষেপ** তৈরি হয়ে তলায় জমে; ↓ দিয়ে দেখানো হয়)।
+## simple
+সব বিক্রিয়ায় ইলেকট্রনের আদান-প্রদান হয় না। কিছু বিক্রিয়ায় আয়নগুলো শুধু **সঙ্গী বদল** করে। আগে-পরে জারণ সংখ্যা মিলিয়ে দেখো: কোনোটিই না বদলালে সেটি **নন-রেডক্স বিক্রিয়া**। (বইয়ে এটি ৭.২.৩ অংশেরই দ্বিতীয় ভাগ।)
+
+**১. প্রশমন (এসিড-ক্ষার বিক্রিয়া)।** একটি এসিড ও একটি ক্ষার বিক্রিয়া করে পরস্পরকে প্রশমিত করে, আর **লবণ** ও **পানি** তৈরি করে:
+
+HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)
+
+যাচাই: Na +১ → +১, Cl −১ → −১, H +১ → +১, O −২ → −২। কিছুই বদলায় না: নন-রেডক্স।
+
+**আসলে কী ঘটে?** পানিতে এই পদার্থগুলো আয়ন হিসেবে থাকে:
+
+H⁺ + Cl⁻ + Na⁺ + OH⁻ → Na⁺ + Cl⁻ + H₂O
+
+Na⁺ আর Cl⁻ দুই পাশে একই রকম আছে। এরা শুধু "দেখে", তাই এদের বলে **দর্শক আয়ন**। এদের কেটে দিলে পাও **প্রতিটি** প্রশমনের আসল বিক্রিয়া:
+
+H⁺(aq) + OH⁻(aq) → H₂O(l);  ΔH = −৫৭.৩৪ kJ
+
+এসিড H⁺ দেয়, ক্ষার OH⁻ দেয়, আর তারা মিলে পানি হয়। প্রশমন সবসময় **তাপোৎপাদী**। ১ মোল পানি তৈরিতে যে তাপ বের হয় তাকে **প্রশমন তাপ** বলে। যেকোনো তীব্র এসিড আর যেকোনো তীব্র ক্ষারের জন্য এটি একই, প্রায় **৫৭.৩৪ kJ**, কারণ আসল বিক্রিয়াটি সবসময় একই: H⁺ + OH⁻ → H₂O।
+
+**পরীক্ষণ: প্রশমন প্রদর্শন।** একটি বিকারে ১০ mL লঘু NaOH দ্রবণ নাও আর তাতে একটি নীল লিটমাস কাগজ ডোবাও। ড্রপার দিয়ে অল্প অল্প করে লঘু HCl যোগ করো আর কাচদণ্ড দিয়ে নাড়তে থাকো। লিটমাস লাল হয়ে গেলে বুঝবে সব NaOH শেষ হয়ে গেছে (এসিডের প্রথম বাড়তি ফোঁটাটিই একে লাল করে)। থার্মোমিটার রাখলে দেখবে মিশ্রণ সামান্য গরমও হচ্ছে। *সাবধানতা: গগলস পরো; লঘু এসিড-ক্ষারও চোখে জ্বালা করে; ছিটে লাগলে প্রচুর পানি দিয়ে ধুয়ে ফেলো।*
+
+**২. অধঃক্ষেপণ।** দুটি দ্রবণীয় যৌগের স্বচ্ছ দ্রবণ মেশাও। নতুন যৌগগুলোর কোনোটি পানিতে অদ্রবণীয় (বা খুবই সামান্য দ্রবণীয়) হলে তা ঘোলা কঠিন হিসেবে দেখা দেয় আর আস্তে আস্তে তলায় জমে। এই কঠিনই **অধঃক্ষেপ**, একে নিচমুখী তীর (↓) বা (s) দিয়ে চিহ্নিত করা হয়।
+
+- সিলভার নাইট্রেট + সোডিয়াম ক্লোরাইড: NaCl(aq) + AgNO₃(aq) → AgCl(s)↓ + NaNO₃(aq)। NaNO₃ দ্রবীভূত থাকে; AgCl সাদা অধঃক্ষেপ তৈরি করে। নিট আয়নিক সমীকরণ: Ag⁺ + Cl⁻ → AgCl↓।
+- সোডিয়াম সালফেট + বেরিয়াম ক্লোরাইড: Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s)↓ + 2NaCl(aq); সাদা BaSO₄। নিট: Ba²⁺ + SO₄²⁻ → BaSO₄↓।
+
+**পরীক্ষণ: অধঃক্ষেপণ প্রদর্শন।** একটি টেস্টটিউবে ২–৩ mL ফেরাস সালফেট (FeSO₄) দ্রবণ নিয়ে ফোঁটায় ফোঁটায় সোডিয়াম হাইড্রোক্সাইড দ্রবণ যোগ করো। ধীরে ধীরে আয়রন(II) হাইড্রোক্সাইড, Fe(OH)₂-এর **সবুজ** অধঃক্ষেপ তৈরি হয়ে নিচে জমবে:
+
+FeSO₄(aq) + 2NaOH(aq) → Fe(OH)₂(s)↓ + Na₂SO₄(aq)
+
+(FeCl₃-এর মতো ফেরিক লবণ নিলে এর বদলে Fe(OH)₃-এর **লালচে-বাদামি** অধঃক্ষেপ পাবে: FeCl₃ + 3NaOH → Fe(OH)₃↓ + 3NaCl। সবুজ Fe(OH)₂-ও বাতাসের অক্সিজেনে জারিত হয়ে ওপরের দিকে আস্তে আস্তে বাদামি হয়ে যায়।)
+
+বেশিরভাগ অধঃক্ষেপণ বিক্রিয়া নন-রেডক্স, তবে কিছুতে ইলেকট্রন স্থানান্তরও ঘটে; সেগুলো জানবে উচ্চতর শ্রেণিতে।
+## analogy
+প্রশমন যেন এমন এক নাচ যেখানে আসলে মাত্র দুজন নর্তক মেলে: H⁺ OH⁻-এর হাত ধরে আর তারা পানি হয়ে একসাথে চলে যায়। Na⁺ আর Cl⁻ পুরো সময় মাঠের ধারে দাঁড়িয়ে থাকে, খেলার দর্শকের মতো। অধঃক্ষেপণ যেন ভিড়ের মধ্যে একটি জুটি এত ভারী হয়ে গেল যে ঘূর্ণিতে ভেসে থাকতে না পেরে মেঝেতে বসে পড়ল।
+## definition
+**নন-রেডক্স বিক্রিয়া (Non-redox reaction)**: যে বিক্রিয়ায় ইলেকট্রনের আদান-প্রদান ঘটে না, তাই কোনো পরমাণুর জারণ সংখ্যার হ্রাস বা বৃদ্ধি ঘটে না।
+
+**প্রশমন বিক্রিয়া (Neutralisation reaction)**: এসিড ও ক্ষার পরস্পরের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন করার বিক্রিয়া; একে এসিড-ক্ষার বিক্রিয়াও বলে।
+
+**প্রশমন তাপ (Heat of neutralisation)**: প্রশমনে ১ মোল পানি উৎপন্ন হতে যে তাপ উৎপন্ন হয়; তীব্র এসিড ও তীব্র ক্ষারের জন্য ৫৭.৩৪ kJ।
+
+**অধঃক্ষেপণ বিক্রিয়া (Precipitation reaction)**: যে বিক্রিয়ায় দ্রাবকে দ্রবণীয় বিক্রিয়ক থেকে অদ্রবণীয় কঠিন উৎপাদ (অধঃক্ষেপ) তৈরি হয়ে পাত্রের তলায় জমা হয়।
+## why
+HCl + NaOH, HNO₃ + KOH আর H₂SO₄ + NaOH সবার প্রশমন তাপ একই কেন? তীব্র এসিড আর তীব্র ক্ষার পানিতে সম্পূর্ণ আয়নে বিভক্ত থাকে। যেটাই নাও, আসলে ঘটে শুধু H⁺ + OH⁻ → H₂O; বাকি আয়নগুলো দর্শক। একই বিক্রিয়া, তাই প্রতি মোল পানিতে একই তাপ।
+
+অধঃক্ষেপ তৈরি হয় কেন? Ag⁺ আর Cl⁻-এর মতো অদ্রবণীয় যৌগের আয়নগুলো পানিতে মিলিত হলে এত জোরে পরস্পরকে আকর্ষণ করে যে পানি তাদের আলাদা রাখতে পারে না। তারা জুড়ে গিয়ে কঠিন জালি গড়ে, যা দ্রবীভূত থাকার পক্ষে খুব বড়, তাই ডুবে যায়।
+## terms
+নন-রেডক্স বিক্রিয়া | ইলেকট্রন স্থানান্তর নেই; জারণ সংখ্যা অপরিবর্তিত
+প্রশমন | এসিড + ক্ষার → লবণ + পানি
+দর্শক আয়ন | বিক্রিয়ায় উপস্থিত কিন্তু অপরিবর্তিত আয়ন (HCl + NaOH-এ Na⁺, Cl⁻)
+প্রশমন তাপ | প্রতি মোল পানি তৈরিতে নির্গত তাপ: ৫৭.৩৪ kJ (তীব্র এসিড + তীব্র ক্ষার)
+অধঃক্ষেপ | দ্রবণে তৈরি অদ্রবণীয় কঠিন; ↓ দিয়ে দেখানো হয়
+নিট আয়নিক সমীকরণ | শুধু আসলে বিক্রিয়া করা আয়নগুলো দেখানো সমীকরণ
+## formula
+$$ H⁺(aq) + OH⁻(aq) → H₂O(l);  ΔH = −৫৭.৩৪ kJ
+$$ নির্গত তাপ = উৎপন্ন পানির মোল × ৫৭.৩৪ kJ
+! লিটমাস: ক্ষারে নীল, এসিডে লাল।
+## visual
+"প্রশমন" অংশে ফোঁটায় ফোঁটায় ক্ষারে এসিড যোগ করো আর আয়ন, লিটমাসের রং, pH ও তাপমাত্রা লক্ষ করো। "অধঃক্ষেপণ" অংশে এক জোড়া দ্রবণ বেছে মেশাও আর দেখো অধঃক্ষেপ তৈরি হয় কি না।
+## real
+পিঁপড়া বা মৌমাছি কামড়ালে বাংলাদেশে অনেকে জায়গাটায় একটু চুন (ক্ষারক) ঘষে এসিডকে প্রশমিত করেন। এন্টাসিড বড়ি পাকস্থলীর বাড়তি এসিড প্রশমিত করে। কৃষকেরা অম্লীয় মাটিতে চুন ছিটান। পানি পরীক্ষাগারে নমুনায় সিলভার নাইট্রেট দিয়ে সাদা AgCl অধঃক্ষেপ দেখলে বোঝা যায় ক্লোরাইড (লবণ) আছে, যা উপকূলের নলকূপের লবণাক্ততা যাচাইয়ে কাজে লাগে।
+## example
+প্রশ্ন: ০.২৫ mol NaOH-কে HCl দিয়ে সম্পূর্ণ প্রশমিত করলে কত তাপ নির্গত হবে?
+দেওয়া আছে: NaOH + HCl → NaCl + H₂O; ১ mol NaOH থেকে ১ mol H₂O; প্রশমন তাপ = প্রতি মোল পানিতে ৫৭.৩৪ kJ
+সূত্র: তাপ = পানির মোল × ৫৭.৩৪ kJ
+হিসাব: তাপ = ০.২৫ × ৫৭.৩৪ = ১৪.৩ kJ
+উত্তর: প্রায় ১৪.৩ kJ
+## example
+প্রশ্ন: ৫.৮৫ g NaCl যুক্ত একটি দ্রবণকে অতিরিক্ত AgNO₃ দ্রবণের সাথে মেশানো হলো। কত গ্রাম AgCl অধঃক্ষেপ তৈরি হবে? (Na = ২৩, Cl = ৩৫.৫, Ag = ১০৮)
+দেওয়া আছে: NaCl(aq) + AgNO₃(aq) → AgCl(s)↓ + NaNO₃(aq); M(NaCl) = ৫৮.৫; M(AgCl) = ১০৮ + ৩৫.৫ = ১৪৩.৫
+সূত্র: n = w/M; ১ mol NaCl থেকে ১ mol AgCl
+হিসাব: n(NaCl) = ৫.৮৫ ÷ ৫৮.৫ = ০.১ mol; AgCl-এর ভর = ০.১ × ১৪৩.৫ = ১৪.৩৫ g
+উত্তর: ১৪.৩৫ g AgCl
+## example
+প্রশ্ন: দেখাও যে Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl একটি নন-রেডক্স বিক্রিয়া, এবং এর নিট আয়নিক সমীকরণ লেখো।
+সমাধান: Na +১ → +১; S +৬ → +৬; O −২ → −২; Ba +২ → +২; Cl −১ → −১। কোনো জারণ সংখ্যা বদলায় না, তাই কোনো ইলেকট্রন স্থানান্তর হয় না। Na⁺ ও Cl⁻ দর্শক আয়ন।
+উত্তর: নন-রেডক্স; নিট আয়নিক সমীকরণ: Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)↓
+## mistakes
+x প্রশমনে তাপ শোষিত হয়।
+v প্রশমনে সবসময় তাপ নির্গত হয় (তাপোৎপাদী): তীব্র এসিড ও তীব্র ক্ষারে প্রতি মোল পানিতে ৫৭.৩৪ kJ।
+x HCl + NaOH-এ Na⁺ আর Cl⁻ আয়ন বিক্রিয়া করে লবণ তৈরি করে।
+v Na⁺ ও Cl⁻ দর্শক আয়ন; এরা দ্রবণে আয়ন হিসেবেই থাকে। শুধু H⁺ ও OH⁻ বিক্রিয়া করে।
+x ফেরাস সালফেট আর NaOH লালচে-বাদামি অধঃক্ষেপ দেয়।
+v আয়রন(II) (ফেরাস) লবণ সবুজ Fe(OH)₂ অধঃক্ষেপ দেয়; আয়রন(III) (ফেরিক) লবণ দেয় লালচে-বাদামি Fe(OH)₃।
+## remember
+- নন-রেডক্স: ইলেকট্রন স্থানান্তর নেই, জারণ সংখ্যার পরিবর্তন নেই।
+- প্রশমন: এসিড + ক্ষার → লবণ + পানি; আসল বিক্রিয়া H⁺ + OH⁻ → H₂O; প্রতি মোল পানিতে ΔH = −৫৭.৩৪ kJ।
+- দর্শক আয়ন বিক্রিয়ায় অংশ নেয় না (Na⁺, Cl⁻)।
+- অধঃক্ষেপণ: দ্রবণীয় + দ্রবণীয় → অদ্রবণীয় কঠিন ↓ (AgCl সাদা, BaSO₄ সাদা, Fe(OH)₂ সবুজ, Fe(OH)₃ লালচে-বাদামি)।
+## think
+লিটমাস পরীক্ষায় কাগজ লাল হয় "যখন NaOH প্রশমিত হয়"। ঠিক সেই মুহূর্তে লাল রং আসলে দ্রবণ সম্পর্কে কী বলে?
+## quiz
+? HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l) বিক্রিয়ায় দর্শক আয়ন কোনগুলো?
+- H⁺ ও OH⁻
+* Na⁺ ও Cl⁻
+- H⁺ ও Cl⁻
+- Na⁺ ও OH⁻
+= Na⁺ ও Cl⁻ দুই পাশে অপরিবর্তিত।
+? তীব্র এসিড ও তীব্র ক্ষারের প্রশমন তাপ প্রায়:
+- +৫৭.৩৪ kJ
+* প্রতি মোল পানিতে −৫৭.৩৪ kJ
+- −৯২ kJ
+- +১৮০ kJ
+= H⁺ + OH⁻ → H₂O বিক্রিয়ায় প্রতি মোল পানিতে সবসময় প্রায় ৫৭.৩৪ kJ তাপ নির্গত হয়।
+? NaCl ও AgNO₃ দ্রবণ মেশালে কোন সাদা অধঃক্ষেপ পড়ে?
+- NaNO₃
+* AgCl
+- Ag
+- NaCl
+= AgCl পানিতে অদ্রবণীয়; NaNO₃ দ্রবীভূত থাকে।
+? প্রশমন নন-রেডক্স বিক্রিয়া, কারণ:
+- তাপ নির্গত হয়
+- পানি তৈরি হয়
+* কোনো জারণ সংখ্যা বদলায় না
+- লবণ তৈরি হয়
+= কোনো ইলেকট্রন স্থানান্তর হয় না, তাই প্রতিটি পরমাণু তার জারণ সংখ্যা ধরে রাখে।
+
+@@ 7.3
+@visual k7sort
+@related 11.7 6.2 5.5 7.2.4
+== en
+## what
+Some reactions don't fit neatly into the redox/non-redox groups and are named by what happens: **hydrolysis** (water breaks up a compound), **hydration** (water joins an ionic compound as water of crystallisation), **isomerisation** (atoms of a molecule rearrange to form an isomer) and **polymerisation** (many small monomer molecules join into one giant polymer).
+## simple
+**Hydrolysis ("splitting by water").** Water itself is a reactant that attacks another compound and forms new products. Silicon tetrachloride fumes in moist air because it reacts with water:
+
+SiCl₄ + 4H₂O → Si(OH)₄ + 4HCl
+
+Aluminium chloride also reacts with water:
+
+AlCl₃(s) + 3H₂O(l) → Al(OH)₃(s) + 3HCl(aq)
+
+Al(OH)₃ is insoluble, so this one is both a **hydrolysis** and a **precipitation** reaction.
+
+**Hydration ("adding water").** When some ionic compounds form crystals, a fixed number of water molecules join into the crystal. This water is called **water of crystallisation** (lattice water). White anhydrous copper sulfate turns into beautiful blue crystals of **blue vitriol (তুঁতে)**:
+
+CuSO₄ (white) + 5H₂O → CuSO₄·5H₂O (blue, copper sulfate pentahydrate)
+
+Other examples:
+- ZnSO₄ + 7H₂O → ZnSO₄·7H₂O (zinc sulfate heptahydrate, white vitriol)
+- FeSO₄ + 7H₂O → FeSO₄·7H₂O (iron(II) sulfate heptahydrate, green vitriol)
+- CaCl₂ + 6H₂O → CaCl₂·6H₂O (calcium chloride hexahydrate)
+- MgCl₂ + 6H₂O → MgCl₂·6H₂O (magnesium chloride hexahydrate; some books write 7H₂O here, but the common crystal is the hexahydrate)
+
+Hydration looks like an addition reaction, but no electrons are transferred. Heating blue vitriol drives the water off and leaves a white powder; adding water back makes it blue again. That colour change is a handy test for water.
+
+**Isomerisation ("rearranging").** Two compounds with the **same molecular formula but different structures** (and so different properties) are called **isomers**. Ammonium cyanate, NH₄CNO, and urea, H₂N–CO–NH₂, both contain 1 C, 4 H, 2 N and 1 O. Heating ammonium cyanate rearranges its atoms into urea:
+
+NH₄CNO →(heat) H₂N–CO–NH₂
+
+This famous reaction, carried out by Friedrich Wöhler in 1828, was the first time an organic compound found in living things (urea) was made from a non-living (inorganic) substance.
+
+**Polymerisation ("many joining").** At high temperature and pressure and with a catalyst, a huge number of small molecules of the same compound (**monomers**) join end to end into one giant molecule (a **polymer**). Ethylene (ethene) gas, at about 200 °C, a very high pressure of around 1000–1200 atm and a trace of oxygen as catalyst, turns into **polythene**:
+
+n CH₂=CH₂ → (–CH₂–CH₂–)ₙ
+
+Here n is a very large number (thousands). The double bond of each ethylene opens up so that neighbouring molecules can link into a long chain. The polythene bags and buckets you use every day are made this way (more in [[11.7|lesson 11.7]]).
+## analogy
+Hydrolysis is like water loosening the joints of a mud wall until pieces fall apart. Hydration is like people squeezing into fixed seats on a bus: each crystal has exact "seats" for water. Isomerisation is rearranging the same letters into a new word ("ate" and "tea"). Polymerisation is linking thousands of paper clips into one long chain.
+## definition
+**Hydrolysis (আর্দ্র বিশ্লেষণ)**: a reaction in which water, as a reactant, reacts with another compound to form new products.
+
+**Hydration (পানিযোজন)**: a reaction in which one or more water molecules combine with an ionic compound as it forms a crystal lattice. This water is called **water of crystallisation** (কেলাস পানি).
+
+**Isomerisation (সমাণুকরণ)**: a reaction in which the atoms of a molecule rearrange to change one isomer into another (isomers have the same molecular formula but different structural formulae).
+
+**Polymerisation (পলিমারকরণ)**: a reaction in which a large number of small molecules (monomers) join, usually at high temperature and pressure with a catalyst, to form a very large molecule (polymer).
+## why
+Why can two compounds with the same formula be different? Properties depend on how atoms are **connected**, not just which atoms are present. In ammonium cyanate the atoms form ions (NH₄⁺ and CNO⁻); in urea they form one covalent molecule. Different connections mean different shapes, forces and reactions, so the substances behave differently.
+## terms
+Hydrolysis | Water reacts with a compound, splitting it into new products
+Hydration | Water molecules join an ionic compound in its crystal
+Water of crystallisation | Fixed number of water molecules in a crystal (5H₂O in CuSO₄·5H₂O)
+Isomers | Compounds with the same molecular formula but different structures
+Monomer | Small repeating molecule (ethylene)
+Polymer | Giant molecule made of many monomers (polythene)
+## formula
+$$ % water of crystallisation = (mass of water in formula ÷ molar mass of hydrate) × 100
+$$ molar mass of polymer ≈ n × molar mass of monomer
+! CuSO₄·5H₂O: M = 159.5 + 5 × 18 = 249.5
+## visual
+An equation appears: decide what type of reaction it is. Some reactions belong to two types; the feedback also tells you whether it is redox.
+## real
+Farmers and fish-farmers in Bangladesh use blue vitriol (তুঁতে, CuSO₄·5H₂O) as a fungicide and pond treatment; its blue colour comes from its water of crystallisation. Urea, first made by isomerisation, is today produced in huge amounts in Bangladesh's fertiliser factories (by a different route, from ammonia and CO₂). Polythene from the polymerisation of ethylene is everywhere, which is why Bangladesh banned thin polythene shopping bags in 2002 to reduce waste and flooding from clogged drains.
+## example
+Q: Calculate the percentage of water of crystallisation in blue vitriol, CuSO₄·5H₂O. (Cu = 63.5, S = 32, O = 16, H = 1)
+Given: M(CuSO₄) = 63.5 + 32 + 64 = 159.5; mass of 5H₂O = 5 × 18 = 90; M(CuSO₄·5H₂O) = 249.5
+Formula: % water = (90 ÷ 249.5) × 100
+Calculation: 90 ÷ 249.5 = 0.3607, so 36.07%
+Answer: 36.07% water
+## example
+Q: 15.95 g of white anhydrous CuSO₄ is exposed to water until it is fully hydrated to CuSO₄·5H₂O. What mass of water does it take up, and what is the mass of the blue crystals?
+Given: M(CuSO₄) = 159.5; CuSO₄ + 5H₂O → CuSO₄·5H₂O
+Calculation: n = 15.95 ÷ 159.5 = 0.1 mol; water = 0.1 × 5 × 18 = 9 g; crystals = 15.95 + 9 = 24.95 g
+> Check: 0.1 mol × 249.5 g/mol = 24.95 g.
+Answer: 9 g of water; 24.95 g of blue vitriol
+## example
+Q: A polythene molecule is made from 2000 ethylene (C₂H₄) molecules. What is its approximate molecular mass?
+Given: M(C₂H₄) = 2 × 12 + 4 × 1 = 28; n = 2000
+Formula: molar mass of polymer ≈ n × M(monomer)
+Calculation: 2000 × 28 = 56 000
+Answer: about 56 000
+## mistakes
+x Hydrolysis and hydration mean the same thing because both involve water.
+v In hydrolysis water breaks a compound into new products (SiCl₄ + 4H₂O → Si(OH)₄ + 4HCl); in hydration water simply joins a crystal (CuSO₄ + 5H₂O → CuSO₄·5H₂O).
+x Isomers have different molecular formulae.
+v Isomers have the same molecular formula (NH₄CNO and CO(NH₂)₂ are both CH₄N₂O) but different structures.
+x In polymerisation, many different small molecules react and lose water.
+v In the addition polymerisation of ethylene, identical monomers simply join; nothing is lost.
+## remember
+- Hydrolysis: water breaks a compound (SiCl₄ + 4H₂O → Si(OH)₄ + 4HCl; AlCl₃ + 3H₂O → Al(OH)₃ + 3HCl).
+- Hydration: water of crystallisation (CuSO₄·5H₂O blue, 36.07% water).
+- Isomerisation: NH₄CNO → urea (same formula, new structure).
+- Polymerisation: n CH₂=CH₂ → (–CH₂–CH₂–)ₙ, polythene.
+## think
+If you heat blue vitriol and it turns white, then add water and it turns blue and warm again, is that a physical change or a chemical reaction? Give a reason.
+## quiz
+? CuSO₄ + 5H₂O → CuSO₄·5H₂O is an example of:
+- Hydrolysis
+* Hydration
+- Isomerisation
+- Polymerisation
+= Water molecules join the crystal as water of crystallisation.
+? Ammonium cyanate and urea are:
+- Polymers
+* Isomers
+- Monomers
+- Precipitates
+= Both have the formula CH₄N₂O but different structures.
+? In the polymerisation of ethylene, the monomer is:
+* CH₂=CH₂
+- (–CH₂–CH₂–)ₙ
+- CH₄
+- O₂
+= Ethylene molecules are the small repeating units that join into polythene.
+? AlCl₃ + 3H₂O → Al(OH)₃↓ + 3HCl can be called both:
+- Hydration and combustion
+* Hydrolysis and precipitation
+- Isomerisation and neutralisation
+- Polymerisation and hydration
+= Water breaks up AlCl₃ (hydrolysis) and insoluble Al(OH)₃ forms (precipitation).
+== bn
+## what
+কিছু বিক্রিয়া রেডক্স/নন-রেডক্স দলে ঠিকঠাক পড়ে না; এদের নাম দেওয়া হয় কী ঘটে তা দিয়ে: **আর্দ্র বিশ্লেষণ** (পানি কোনো যৌগকে ভেঙে দেয়), **পানিযোজন** (পানি কেলাস পানি হিসেবে আয়নিক যৌগের সাথে যুক্ত হয়), **সমাণুকরণ** (অণুর পরমাণুগুলো নতুন করে সেজে একটি সমাণু তৈরি হয়) এবং **পলিমারকরণ** (অসংখ্য ছোট মনোমার অণু জুড়ে একটি বিশাল পলিমার অণু হয়)।
+## simple
+**আর্দ্র বিশ্লেষণ ("পানি দিয়ে ভাঙা")।** এখানে পানি নিজেই বিক্রিয়ক: এটি অন্য একটি যৌগের সাথে বিক্রিয়া করে নতুন উৎপাদ তৈরি করে। সিলিকন টেট্রাক্লোরাইড ভেজা বাতাসে ধোঁয়া ছাড়ে, কারণ এটি পানির সাথে বিক্রিয়া করে:
+
+SiCl₄ + 4H₂O → Si(OH)₄ + 4HCl
+
+অ্যালুমিনিয়াম ক্লোরাইডও পানির সাথে বিক্রিয়া করে:
+
+AlCl₃(s) + 3H₂O(l) → Al(OH)₃(s) + 3HCl(aq)
+
+Al(OH)₃ অদ্রবণীয়, তাই এটি একাধারে **আর্দ্র বিশ্লেষণ** ও **অধঃক্ষেপণ** বিক্রিয়া।
+
+**পানিযোজন ("পানি যোগ")।** কিছু আয়নিক যৌগ কেলাস গঠনের সময় নির্দিষ্ট সংখ্যক পানির অণু কেলাসের ভেতরে যুক্ত করে নেয়। এই পানিকে বলে **কেলাস পানি**। সাদা অনার্দ্র কপার সালফেট পরিণত হয় **তুঁতের** সুন্দর নীল কেলাসে:
+
+CuSO₄ (সাদা) + 5H₂O → CuSO₄·5H₂O (নীল, পেন্টাহাইড্রেট কপার সালফেট)
+
+আরও উদাহরণ:
+- ZnSO₄ + 7H₂O → ZnSO₄·7H₂O (হেপ্টাহাইড্রেট জিংক সালফেট, সাদা ভিট্রিয়ল)
+- FeSO₄ + 7H₂O → FeSO₄·7H₂O (হেপ্টাহাইড্রেট ফেরাস সালফেট, সবুজ ভিট্রিয়ল)
+- CaCl₂ + 6H₂O → CaCl₂·6H₂O (হেক্সাহাইড্রেট ক্যালসিয়াম ক্লোরাইড)
+- MgCl₂ + 6H₂O → MgCl₂·6H₂O (হেক্সাহাইড্রেট ম্যাগনেসিয়াম ক্লোরাইড; কোনো কোনো বইয়ে এখানে 7H₂O লেখা থাকে, কিন্তু প্রচলিত কেলাসটি হেক্সাহাইড্রেট)
+
+পানিযোজন দেখতে সংযোজন বিক্রিয়ার মতো, কিন্তু এতে কোনো ইলেকট্রন স্থানান্তর হয় না। তুঁতে গরম করলে পানি বেরিয়ে সাদা গুঁড়া থাকে; আবার পানি দিলে নীল হয়ে যায়। এই রং বদল পানি শনাক্ত করার সহজ পরীক্ষা।
+
+**সমাণুকরণ ("নতুন করে সাজানো")।** **আণবিক সংকেত একই কিন্তু গাঠনিক সংকেত ভিন্ন** (তাই ধর্মও ভিন্ন) এমন দুটি যৌগকে পরস্পরের **সমাণু** বলে। অ্যামোনিয়াম সায়ানেট, NH₄CNO আর ইউরিয়া, H₂N–CO–NH₂, দুটিতেই ১টি C, ৪টি H, ২টি N ও ১টি O। অ্যামোনিয়াম সায়ানেটকে তাপ দিলে এর পরমাণুগুলো নতুন করে সেজে ইউরিয়া হয়:
+
+NH₄CNO →(তাপ) H₂N–CO–NH₂
+
+১৮২৮ সালে ফ্রিডরিখ ভোলার (Wöhler) এই বিখ্যাত বিক্রিয়াটি করেন; জীবদেহে পাওয়া একটি জৈব যৌগ (ইউরিয়া) প্রথমবার অজৈব পদার্থ থেকে তৈরি হলো।
+
+**পলিমারকরণ ("অনেকে মিলে জোড়া")।** উচ্চ তাপমাত্রা, উচ্চ চাপ আর প্রভাবকের উপস্থিতিতে একই যৌগের অসংখ্য ছোট অণু (**মনোমার**) পরপর জুড়ে একটি বিশাল অণু (**পলিমার**) গঠন করে। প্রায় ২০০ °C তাপমাত্রায়, প্রায় ১০০০–১২০০ atm-এর মতো অতি উচ্চ চাপে আর সামান্য অক্সিজেন প্রভাবকের উপস্থিতিতে ইথিলিন (ইথিন) গ্যাস **পলিথিনে** পরিণত হয়:
+
+n CH₂=CH₂ → (–CH₂–CH₂–)ₙ
+
+এখানে n খুব বড় একটি সংখ্যা (হাজার হাজার)। প্রতিটি ইথিলিনের দ্বিবন্ধন খুলে যায়, ফলে পাশের অণুগুলো জুড়ে লম্বা শিকল তৈরি হয়। প্রতিদিন যে পলিথিনের ব্যাগ আর বালতি ব্যবহার করো, সেগুলো এভাবেই তৈরি (আরও জানবে [[11.7|পাঠ ১১.৭]]-এ)।
+## analogy
+আর্দ্র বিশ্লেষণ যেন পানি মাটির দেয়ালের জোড়া আলগা করে দিল আর টুকরো খসে পড়ল। পানিযোজন যেন বাসের নির্দিষ্ট সিটে যাত্রী বসা: প্রতিটি কেলাসে পানির জন্য নির্দিষ্ট "সিট" থাকে। সমাণুকরণ যেন একই অক্ষর দিয়ে নতুন শব্দ বানানো ("নদী" আর "দীন")। পলিমারকরণ যেন হাজারটা কাগজের ক্লিপ জুড়ে একটা লম্বা শিকল বানানো।
+## definition
+**আর্দ্র বিশ্লেষণ (Hydrolysis)**: যে বিক্রিয়ায় বিক্রিয়ক হিসেবে পানি অন্য কোনো যৌগের সাথে বিক্রিয়া করে নতুন উৎপাদ তৈরি করে।
+
+**পানিযোজন (Hydration)**: যে বিক্রিয়ায় আয়নিক যৌগ কেলাস গঠনের সময় এক বা একাধিক পানির অণুর সাথে যুক্ত হয়। এই পানিকে বলে **কেলাস পানি**।
+
+**সমাণুকরণ (Isomerisation)**: যে বিক্রিয়ায় অণুর পরমাণুগুলো নতুনভাবে সেজে একটি সমাণু অপর সমাণুতে পরিণত হয় (সমাণুদের আণবিক সংকেত একই কিন্তু গাঠনিক সংকেত ভিন্ন)।
+
+**পলিমারকরণ (Polymerisation)**: যে বিক্রিয়ায় সাধারণত উচ্চ তাপ ও চাপে এবং প্রভাবকের উপস্থিতিতে অসংখ্য ছোট অণু (মনোমার) যুক্ত হয়ে একটি বৃহদাকার অণু (পলিমার) তৈরি করে।
+## why
+একই সংকেতের দুটি যৌগ আলাদা হয় কীভাবে? ধর্ম নির্ভর করে পরমাণুগুলো কীভাবে **জোড়া লেগেছে** তার ওপর, শুধু কোন পরমাণু আছে তার ওপর নয়। অ্যামোনিয়াম সায়ানেটে পরমাণুগুলো আয়ন (NH₄⁺ ও CNO⁻) গঠন করে; ইউরিয়ায় তারা একটি সমযোজী অণু। জোড়া ভিন্ন মানে আকৃতি, আকর্ষণ বল আর বিক্রিয়াও ভিন্ন, তাই পদার্থ দুটির আচরণও আলাদা।
+## terms
+আর্দ্র বিশ্লেষণ | পানি কোনো যৌগের সাথে বিক্রিয়া করে তাকে নতুন উৎপাদে ভাঙে
+পানিযোজন | পানির অণু আয়নিক যৌগের কেলাসে যুক্ত হয়
+কেলাস পানি | কেলাসে থাকা নির্দিষ্ট সংখ্যক পানির অণু (CuSO₄·5H₂O-এ 5H₂O)
+সমাণু | আণবিক সংকেত একই কিন্তু গঠন ভিন্ন এমন যৌগ
+মনোমার | ছোট পুনরাবৃত্ত অণু (ইথিলিন)
+পলিমার | অনেক মনোমার দিয়ে গঠিত বিশাল অণু (পলিথিন)
+## formula
+$$ কেলাস পানির শতকরা পরিমাণ = (সংকেতে পানির ভর ÷ হাইড্রেটের মোলার ভর) × ১০০
+$$ পলিমারের মোলার ভর ≈ n × মনোমারের মোলার ভর
+! CuSO₄·5H₂O: M = ১৫৯.৫ + ৫ × ১৮ = ২৪৯.৫
+## visual
+একটি সমীকরণ আসবে: ঠিক করো এটি কোন ধরনের বিক্রিয়া। কিছু বিক্রিয়া দুই ধরনেরই হয়; উত্তরে এটাও দেখবে বিক্রিয়াটি রেডক্স কি না।
+## real
+বাংলাদেশের কৃষক আর মাছচাষিরা ছত্রাকনাশক ও পুকুর শোধনে তুঁতে (CuSO₄·5H₂O) ব্যবহার করেন; এর নীল রং আসে কেলাস পানি থেকে। প্রথম সমাণুকরণে তৈরি ইউরিয়া আজ বাংলাদেশের সার কারখানায় বিপুল পরিমাণে তৈরি হয় (ভিন্ন পথে, অ্যামোনিয়া ও CO₂ থেকে)। ইথিলিনের পলিমারকরণে তৈরি পলিথিন সর্বত্র; এজন্যই আবর্জনা আর নালা বন্ধ হয়ে জলাবদ্ধতা কমাতে বাংলাদেশ ২০০২ সালে পাতলা পলিথিন শপিং ব্যাগ নিষিদ্ধ করে।
+## example
+প্রশ্ন: তুঁতে, CuSO₄·5H₂O-এ কেলাস পানির শতকরা পরিমাণ হিসাব করো। (Cu = ৬৩.৫, S = ৩২, O = ১৬, H = ১)
+দেওয়া আছে: M(CuSO₄) = ৬৩.৫ + ৩২ + ৬৪ = ১৫৯.৫; 5H₂O-এর ভর = ৫ × ১৮ = ৯০; M(CuSO₄·5H₂O) = ২৪৯.৫
+সূত্র: পানির % = (৯০ ÷ ২৪৯.৫) × ১০০
+হিসাব: ৯০ ÷ ২৪৯.৫ = ০.৩৬০৭, তাই ৩৬.০৭%
+উত্তর: ৩৬.০৭% পানি
+## example
+প্রশ্ন: ১৫.৯৫ g সাদা অনার্দ্র CuSO₄-কে পানির সংস্পর্শে রাখা হলো যতক্ষণ না এটি সম্পূর্ণ CuSO₄·5H₂O হয়। এটি কত গ্রাম পানি গ্রহণ করবে, আর নীল কেলাসের ভর কত হবে?
+দেওয়া আছে: M(CuSO₄) = ১৫৯.৫; CuSO₄ + 5H₂O → CuSO₄·5H₂O
+হিসাব: n = ১৫.৯৫ ÷ ১৫৯.৫ = ০.১ mol; পানি = ০.১ × ৫ × ১৮ = ৯ g; কেলাস = ১৫.৯৫ + ৯ = ২৪.৯৫ g
+> যাচাই: ০.১ mol × ২৪৯.৫ g/mol = ২৪.৯৫ g।
+উত্তর: ৯ g পানি; ২৪.৯৫ g তুঁতে
+## example
+প্রশ্ন: একটি পলিথিন অণু ২০০০টি ইথিলিন (C₂H₄) অণু দিয়ে তৈরি। এর আণবিক ভর আনুমানিক কত?
+দেওয়া আছে: M(C₂H₄) = ২ × ১২ + ৪ × ১ = ২৮; n = ২০০০
+সূত্র: পলিমারের মোলার ভর ≈ n × M(মনোমার)
+হিসাব: ২০০০ × ২৮ = ৫৬ ০০০
+উত্তর: প্রায় ৫৬ ০০০
+## mistakes
+x আর্দ্র বিশ্লেষণ আর পানিযোজন একই, কারণ দুটোতেই পানি আছে।
+v আর্দ্র বিশ্লেষণে পানি যৌগকে ভেঙে নতুন উৎপাদ তৈরি করে (SiCl₄ + 4H₂O → Si(OH)₄ + 4HCl); পানিযোজনে পানি শুধু কেলাসে যুক্ত হয় (CuSO₄ + 5H₂O → CuSO₄·5H₂O)।
+x সমাণুদের আণবিক সংকেত ভিন্ন।
+v সমাণুদের আণবিক সংকেত একই (NH₄CNO আর CO(NH₂)₂ দুটোই CH₄N₂O), কিন্তু গঠন ভিন্ন।
+x পলিমারকরণে অনেক ভিন্ন ভিন্ন ছোট অণু বিক্রিয়া করে পানি হারায়।
+v ইথিলিনের সংযোজন পলিমারকরণে একই রকম মনোমার শুধু জুড়ে যায়; কিছুই বাদ পড়ে না।
+## remember
+- আর্দ্র বিশ্লেষণ: পানি যৌগকে ভাঙে (SiCl₄ + 4H₂O → Si(OH)₄ + 4HCl; AlCl₃ + 3H₂O → Al(OH)₃ + 3HCl)।
+- পানিযোজন: কেলাস পানি (CuSO₄·5H₂O নীল, ৩৬.০৭% পানি)।
+- সমাণুকরণ: NH₄CNO → ইউরিয়া (একই সংকেত, নতুন গঠন)।
+- পলিমারকরণ: n CH₂=CH₂ → (–CH₂–CH₂–)ₙ, পলিথিন।
+## think
+তুঁতে গরম করলে সাদা হয়, আবার পানি দিলে নীল ও গরম হয়ে ওঠে। এটি ভৌত পরিবর্তন না রাসায়নিক বিক্রিয়া? কারণ দাও।
+## quiz
+? CuSO₄ + 5H₂O → CuSO₄·5H₂O কোন বিক্রিয়ার উদাহরণ?
+- আর্দ্র বিশ্লেষণ
+* পানিযোজন
+- সমাণুকরণ
+- পলিমারকরণ
+= পানির অণু কেলাস পানি হিসেবে কেলাসে যুক্ত হয়।
+? অ্যামোনিয়াম সায়ানেট ও ইউরিয়া পরস্পরের:
+- পলিমার
+* সমাণু
+- মনোমার
+- অধঃক্ষেপ
+= দুটিরই সংকেত CH₄N₂O, কিন্তু গঠন ভিন্ন।
+? ইথিলিনের পলিমারকরণে মনোমার হলো:
+* CH₂=CH₂
+- (–CH₂–CH₂–)ₙ
+- CH₄
+- O₂
+= ইথিলিন অণুগুলোই ছোট পুনরাবৃত্ত একক, যা জুড়ে পলিথিন হয়।
+? AlCl₃ + 3H₂O → Al(OH)₃↓ + 3HCl বিক্রিয়াকে একসাথে বলা যায়:
+- পানিযোজন ও দহন
+* আর্দ্র বিশ্লেষণ ও অধঃক্ষেপণ
+- সমাণুকরণ ও প্রশমন
+- পলিমারকরণ ও পানিযোজন
+= পানি AlCl₃-কে ভাঙে (আর্দ্র বিশ্লেষণ) আর অদ্রবণীয় Al(OH)₃ তৈরি হয় (অধঃক্ষেপণ)।
+
+@@ 7.4
+@visual k7rust
+@related 10.4 9.5 8.3.3 11.1
+== en
+## what
+Chemical reactions happen all around us: iron rusts, copper and aluminium protect themselves with an oxide layer, lime soothes an insect sting, our cells release energy by respiration, antacids calm acidity and fuels burn. Knowing the chemistry lets us **prevent harmful reactions**, for example by painting, oiling, galvanising or tin-plating iron.
+## simple
+**7.4.1 Reactions in everyday life**
+
+**1. Rusting of iron.** A knife, scissors or a da (দা) left out in the open slowly gets a brown, flaky coating: **rust**. Iron reacts with **oxygen and water vapour** from the air:
+
+4Fe + 3O₂ + 6H₂O → 4Fe(OH)₃
+2Fe(OH)₃ → Fe₂O₃·nH₂O (rust)
+
+(The book writes the first step as 2Fe + 1.5O₂ + 3H₂O → 2Fe(OH)₃, which is the same equation halved.) The amount of water in rust is not fixed, so its formula is written **Fe₂O₃·nH₂O**, where n can be 1, 2, 3 … Rust is porous and flaky, so air and moisture pass through it and keep attacking the fresh iron underneath until the whole object is eaten away. Both oxygen and water are needed; salt water makes rusting faster.
+
+**2. Copper and aluminium protect themselves.** When copper or aluminium objects are exposed to air, a thin layer of CuO or Al₂O₃ forms on the surface. Unlike rust, this layer is tight and sticks firmly, so air cannot reach the metal beneath and the reaction stops. That's why aluminium pots last for years.
+
+**3. Relief from ant bites and bee stings.** An ant's bite or a bee's sting injects an acid that causes the burning pain. Rubbing a little **lime (chun, a base)** on the spot neutralises the acid and the pain eases.
+
+**4. Energy from respiration.** In every cell of our body, glucose is oxidised by oxygen, releasing energy:
+
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy
+
+Plants do the reverse in **photosynthesis**, using sunlight: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂.
+
+**5. Antacids.** Many people's stomachs make too much HCl ("acidity"). Doctors prescribe antacids, a mixture of the bases Mg(OH)₂ and Al(OH)₃, which neutralise the extra acid:
+
+2HCl + Mg(OH)₂ → MgCl₂ + 2H₂O
+3HCl + Al(OH)₃ → AlCl₃ + 3H₂O
+
+**6. Natural gas as fuel.** Natural gas is mostly methane. Burning it gives CO₂, water and heat: CH₄ + 2O₂ → CO₂ + 2H₂O + energy. CNG, diesel, petrol, kerosene and octane burn to give the same products.
+
+Others: cooking (proteins and starch change), digestion (enzymes break food into smaller molecules), milk turning into doi, fruit ripening and food spoiling.
+
+**7.4.2 Preventing harmful reactions**
+- **Painting** iron (grills, gates, bridges) keeps air and moisture away.
+- **Oiling or greasing**: sewing needles are kept in coconut oil, and machine parts are greased, so that oxygen and water vapour cannot reach them.
+- **Galvanising**: coating iron with **zinc** (the corrugated "tin" roofs used across Bangladesh are really galvanised iron). Zinc is *more* reactive than iron, so even if the coating is scratched, the zinc corrodes first and protects the iron.
+- **Tin plating**: coating iron with **tin**, a *less* reactive metal (used in food cans). It protects as long as the coating is unbroken.
+- **Electroplating**: using electrolysis to coat one metal with another (chromium or nickel on bicycle handlebars and taps; see [[8.3.3|lesson 8.3.3]]).
+- **Slippery roofs in the rainy season**: people spread sand on slippery patches of roofs and yards. The book explains that the slimy layer is alkaline and sand (SiO₂) is acidic, so it neutralises it; the gritty grains also give your feet grip.
+- **Food spoilage** is caused by reactions (often helped by microbes) and can be slowed by keeping food cold in a fridge, drying (dried fish, শুঁটকি), salting, adding sugar (jams), or sealing out air.
+## analogy
+Rust is like a crumbly biscuit crust: it breaks and lets moisture in, so the iron keeps getting eaten. The oxide on aluminium is like a sealed plastic wrapper: once it forms, nothing more gets through. Galvanising is like sending a bodyguard (zinc) who takes the hits so the VIP (iron) stays safe.
+## definition
+**Rusting (মরিচা পড়া)**: the slow reaction of iron with oxygen and water (moisture) from the air to form hydrated iron(III) oxide, Fe₂O₃·nH₂O, called rust.
+
+**Galvanising (গ্যালভানাইজিং)**: coating iron or steel with a layer of zinc to protect it from rusting.
+
+**Electroplating (ইলেকট্রোপ্লেটিং)**: coating one metal with a thin layer of another metal by electrolysis.
+
+**Antacid (এন্টাসিড)**: a medicine containing bases, such as Mg(OH)₂ and Al(OH)₃, that neutralise excess stomach acid.
+## why
+Why does aluminium, a more reactive metal than iron, corrode less in everyday use? Because the product of its reaction, Al₂O₃, forms a thin, tough, non-porous layer that sticks to the metal and seals it off. Rust, on the other hand, is flaky and porous and takes up more space than the iron it came from, so it cracks and falls off, exposing fresh iron again and again.
+## terms
+Rust | Hydrated iron(III) oxide, Fe₂O₃·nH₂O
+Corrosion | Gradual destruction of a metal by reactions with its surroundings
+Galvanising | Zinc coating on iron
+Tin plating | Tin coating on iron
+Electroplating | Coating a metal with another metal by electrolysis
+Antacid | Base mixture that neutralises excess stomach acid
+Respiration | Oxidation of glucose in cells to release energy
+## visual
+Choose the conditions for each iron nail and move the days slider. See which nails rust and how quickly, and find out why.
+## real
+Along Bangladesh's coast, salty, humid air makes boats, bridges and tin roofs rust much faster than in inland areas, so owners paint and galvanise them more often. Village households keep sewing needles in a small bottle of coconut oil. In the rainy season people throw sand on slippery rooftops and courtyards. Pharmacies across the country sell antacid tablets and suspensions containing Mg(OH)₂ and Al(OH)₃.
+## example
+Q: An antacid tablet contains Mg(OH)₂. What mass of Mg(OH)₂ is needed to neutralise 0.73 g of HCl? (Mg = 24, O = 16, H = 1, Cl = 35.5)
+Given: 2HCl + Mg(OH)₂ → MgCl₂ + 2H₂O; M(HCl) = 36.5; M(Mg(OH)₂) = 24 + 2 × 17 = 58
+Formula: n = w/M; 2 mol HCl need 1 mol Mg(OH)₂
+Calculation: n(HCl) = 0.73 ÷ 36.5 = 0.02 mol; n(Mg(OH)₂) = 0.01 mol; mass = 0.01 × 58 = 0.58 g
+Answer: 0.58 g of Mg(OH)₂
+## example
+Q: In respiration, how much oxygen is needed to oxidise 18 g of glucose, and what mass of CO₂ is breathed out? (C = 12, H = 1, O = 16)
+Given: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O; M(C₆H₁₂O₆) = 72 + 12 + 96 = 180
+Calculation: n(glucose) = 18 ÷ 180 = 0.1 mol; O₂ = 0.6 mol × 32 = 19.2 g; CO₂ = 0.6 mol × 44 = 26.4 g
+Answer: 19.2 g of O₂ is used; 26.4 g of CO₂ is produced.
+## example
+Q: Why does a galvanised iron roof resist rusting even when it gets a scratch, while a scratched tin-plated can rusts quickly?
+Solution: Zinc is more reactive than iron, so at a scratch the zinc gives up electrons (is oxidised) instead of the iron. Tin is less reactive than iron, so at a scratch the exposed iron is oxidised, and it can even rust faster.
+Answer: Zinc protects iron by corroding first (sacrificial protection); tin protects only as an unbroken barrier.
+## mistakes
+x Iron rusts in dry air.
+v Rusting needs both oxygen and water; iron kept in dry air (or under oil) does not rust.
+x Aluminium does not react with air at all.
+v It reacts at once, but the thin Al₂O₃ layer that forms seals the surface and stops further reaction.
+x Galvanising means coating iron with tin.
+v Galvanising is zinc coating; coating with tin is tin plating.
+## remember
+- Rust: iron + oxygen + water → Fe₂O₃·nH₂O; porous, so rusting continues.
+- CuO and Al₂O₃ layers protect Cu and Al.
+- Lime neutralises the acid of ant/bee stings; antacids (Mg(OH)₂, Al(OH)₃) neutralise stomach HCl.
+- Respiration: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy.
+- Prevent rust: paint, oil, galvanise (Zn), tin-plate, electroplate.
+## think
+Iron bridges near the sea at Cox's Bazar need repainting more often than those in Rajshahi. Give two chemical reasons.
+## quiz
+? Which two substances are both needed for iron to rust?
+- Oxygen and nitrogen
+* Oxygen and water
+- Water and carbon dioxide
+- Nitrogen and water
+= Rusting needs oxygen and moisture together.
+? The formula of rust is:
+- FeO
+- Fe₃O₄
+* Fe₂O₃·nH₂O
+- FeCl₃
+= Rust is hydrated iron(III) oxide with a variable amount of water.
+? Lime is rubbed on a bee sting because it:
+* Neutralises the acid
+- Oxidises the poison
+- Is a catalyst
+- Forms a precipitate
+= Lime is a base; it neutralises the acid that causes the pain.
+? Coating iron with zinc is called:
+- Tin plating
+* Galvanising
+- Hydration
+- Polymerisation
+= A zinc coating is galvanising; zinc corrodes first and protects the iron.
+== bn
+## what
+রাসায়নিক বিক্রিয়া আমাদের চারপাশে সবসময় ঘটছে: লোহায় মরিচা পড়ে, কপার আর অ্যালুমিনিয়াম অক্সাইডের আস্তরণ দিয়ে নিজেদের রক্ষা করে, চুন পোকার কামড়ের জ্বালা কমায়, আমাদের কোষ শ্বসনে শক্তি পায়, এন্টাসিড এসিডিটি কমায় আর জ্বালানি পোড়ে। রসায়ন জানলে আমরা **ক্ষতিকর বিক্রিয়া রোধ** করতে পারি, যেমন লোহায় রং, তেল, গ্যালভানাইজিং বা টিন প্লেটিং করে।
+## simple
+**৭.৪.১ দৈনন্দিন জীবনের বিক্রিয়া**
+
+**১. লোহায় মরিচা পড়া।** ছুরি, কাঁচি বা দা খোলা জায়গায় রেখে দিলে আস্তে আস্তে বাদামি, ঝুরঝুরে আস্তরণ পড়ে: এটাই **মরিচা**। লোহা বাতাসের **অক্সিজেন ও জলীয় বাষ্পের** সাথে বিক্রিয়া করে:
+
+4Fe + 3O₂ + 6H₂O → 4Fe(OH)₃
+2Fe(OH)₃ → Fe₂O₃·nH₂O (মরিচা)
+
+(বইয়ে প্রথম ধাপটি লেখা আছে 2Fe + 1.5O₂ + 3H₂O → 2Fe(OH)₃ হিসেবে, যা একই সমীকরণের অর্ধেক।) মরিচায় পানির পরিমাণ নির্দিষ্ট নয়, তাই এর সংকেত লেখা হয় **Fe₂O₃·nH₂O**, যেখানে n হতে পারে ১, ২, ৩ … মরিচা ঝাঁঝরা আর ঝুরঝুরে, তাই এর ভেতর দিয়ে বাতাস আর আর্দ্রতা ঢুকে নিচের নতুন লোহাকে ক্রমাগত ক্ষয় করতে থাকে, যতক্ষণ না পুরো জিনিসটি নষ্ট হয়। অক্সিজেন আর পানি দুটোই লাগে; লবণাক্ত পানি মরিচা আরও দ্রুত করে।
+
+**২. কপার ও অ্যালুমিনিয়াম নিজেদের রক্ষা করে।** কপার বা অ্যালুমিনিয়ামের জিনিস বাতাসের সংস্পর্শে এলে পৃষ্ঠে CuO বা Al₂O₃-এর পাতলা আস্তরণ পড়ে। মরিচার মতো নয়, এই আস্তরণ আঁটসাঁট আর শক্ত করে লেগে থাকে, তাই বাতাস নিচের ধাতুতে পৌঁছাতে পারে না আর বিক্রিয়া থেমে যায়। এজন্যই অ্যালুমিনিয়ামের হাঁড়ি বছরের পর বছর টেকে।
+
+**৩. পিঁপড়া ও মৌমাছির কামড়ের জ্বালা নিরাময়।** পিঁপড়ার কামড় বা মৌমাছির হুল এক ধরনের এসিড ঢুকিয়ে দেয়, যা জ্বালা-যন্ত্রণার কারণ। জায়গাটায় একটু **চুন (ক্ষারক)** ঘষলে এসিড প্রশমিত হয় আর জ্বালা কমে।
+
+**৪. শ্বসনে শক্তি উৎপাদন।** আমাদের শরীরের প্রতিটি কোষে গ্লুকোজ অক্সিজেন দ্বারা জারিত হয়ে শক্তি দেয়:
+
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি
+
+গাছ সূর্যের আলো ব্যবহার করে **সালোকসংশ্লেষণে** উল্টোটা করে: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂।
+
+**৫. এন্টাসিড।** অনেকের পাকস্থলীতে অতিরিক্ত HCl তৈরি হয় ("এসিডিটি")। ডাক্তার এন্টাসিড খেতে বলেন, যা Mg(OH)₂ ও Al(OH)₃ নামের দুটি ক্ষারকের মিশ্রণ; এরা বাড়তি এসিড প্রশমিত করে:
+
+2HCl + Mg(OH)₂ → MgCl₂ + 2H₂O
+3HCl + Al(OH)₃ → AlCl₃ + 3H₂O
+
+**৬. জ্বালানি হিসেবে প্রাকৃতিক গ্যাস।** প্রাকৃতিক গ্যাসের বেশিরভাগই মিথেন। পোড়ালে CO₂, পানি আর তাপ পাওয়া যায়: CH₄ + 2O₂ → CO₂ + 2H₂O + শক্তি। CNG, ডিজেল, পেট্রল, কেরোসিন, অকটেন পোড়ালেও একই উৎপাদ হয়।
+
+আরও আছে: রান্না (প্রোটিন ও শ্বেতসারের পরিবর্তন), পরিপাক (এনজাইম খাবারকে ছোট অণুতে ভাঙে), দুধ থেকে দই, ফল পাকা আর খাবার পচে যাওয়া।
+
+**৭.৪.২ ক্ষতিকর বিক্রিয়া রোধের উপায়**
+- লোহায় **রং করা** (গ্রিল, গেট, সেতু): বাতাস আর আর্দ্রতা দূরে থাকে।
+- **তেল বা গ্রিজ দেওয়া**: সেলাইয়ের সুচ নারিকেল তেলে ডুবিয়ে রাখা হয়, যন্ত্রাংশে গ্রিজ দেওয়া হয়, যেন অক্সিজেন আর জলীয় বাষ্প পৌঁছাতে না পারে।
+- **গ্যালভানাইজিং**: লোহার ওপর **জিংকের** প্রলেপ (বাংলাদেশজুড়ে ব্যবহৃত ঢেউটিন আসলে গ্যালভানাইজড লোহা)। জিংক লোহার চেয়ে *বেশি* সক্রিয়, তাই প্রলেপে আঁচড় লাগলেও আগে জিংক ক্ষয় হয় আর লোহাকে বাঁচায়।
+- **টিন প্লেটিং**: লোহার ওপর *কম* সক্রিয় ধাতু **টিনের** প্রলেপ (খাবারের কৌটায়)। প্রলেপ অক্ষত থাকা পর্যন্তই এটি রক্ষা করে।
+- **ইলেকট্রোপ্লেটিং**: তড়িৎ বিশ্লেষণের মাধ্যমে এক ধাতুর ওপর আরেক ধাতুর প্রলেপ (সাইকেলের হ্যান্ডেল আর কলে ক্রোমিয়াম বা নিকেল; দেখো [[8.3.3|পাঠ ৮.৩.৩]])।
+- **বর্ষায় পিচ্ছিল ছাদ**: ছাদ আর উঠানের পিচ্ছিল জায়গায় বালু ছিটানো হয়। বইয়ের ব্যাখ্যা হলো পিচ্ছিল আস্তরণটি ক্ষারীয় আর বালু (SiO₂) অম্লধর্মী, তাই এটি প্রশমিত করে; বালুর খসখসে দানা পায়ের ঘর্ষণও বাড়ায়।
+- **খাবার পচা** রাসায়নিক বিক্রিয়ার কারণে ঘটে (প্রায়ই জীবাণুর সাহায্যে); ফ্রিজে ঠান্ডা রাখা, শুকানো (শুঁটকি), লবণ দেওয়া, চিনি দেওয়া (জ্যাম), বা বায়ুরোধী করে রাখলে এটি ধীর হয়।
+## analogy
+মরিচা যেন ঝুরঝুরে বিস্কুটের খোসা: ভেঙে যায় আর ভেতরে আর্দ্রতা ঢোকে, তাই লোহা ক্ষয় হতেই থাকে। অ্যালুমিনিয়ামের অক্সাইড যেন আটকানো প্লাস্টিকের মোড়ক: একবার তৈরি হলে আর কিছু ভেতরে ঢোকে না। গ্যালভানাইজিং যেন একজন দেহরক্ষী (জিংক) পাঠানো, যে নিজে আঘাত নিয়ে ভিআইপিকে (লোহা) নিরাপদ রাখে।
+## definition
+**মরিচা পড়া (Rusting)**: বাতাসের অক্সিজেন ও পানির (আর্দ্রতা) সাথে লোহার ধীর বিক্রিয়ায় আর্দ্র ফেরিক অক্সাইড, Fe₂O₃·nH₂O তৈরি হওয়া, যাকে মরিচা বলে।
+
+**গ্যালভানাইজিং (Galvanising)**: মরিচা থেকে রক্ষার জন্য লোহা বা ইস্পাতের ওপর জিংকের প্রলেপ দেওয়া।
+
+**ইলেকট্রোপ্লেটিং (Electroplating)**: তড়িৎ বিশ্লেষণের মাধ্যমে এক ধাতুর ওপর অন্য ধাতুর পাতলা প্রলেপ দেওয়া।
+
+**এন্টাসিড (Antacid)**: Mg(OH)₂ ও Al(OH)₃-এর মতো ক্ষারকযুক্ত ওষুধ, যা পাকস্থলীর অতিরিক্ত এসিড প্রশমিত করে।
+## why
+লোহার চেয়ে বেশি সক্রিয় ধাতু অ্যালুমিনিয়াম দৈনন্দিন ব্যবহারে কম ক্ষয় হয় কেন? কারণ এর বিক্রিয়ার উৎপাদ Al₂O₃ একটি পাতলা, শক্ত, ছিদ্রহীন আস্তরণ তৈরি করে যা ধাতুতে লেগে থেকে তাকে সিল করে দেয়। অন্যদিকে মরিচা ঝুরঝুরে ও ঝাঁঝরা, আর যে লোহা থেকে এসেছে তার চেয়ে বেশি জায়গা নেয়, তাই ফেটে খসে পড়ে, আর বারবার নতুন লোহা উন্মুক্ত হয়।
+## terms
+মরিচা | আর্দ্র আয়রন(III) অক্সাইড, Fe₂O₃·nH₂O
+ক্ষয় | চারপাশের সাথে বিক্রিয়ায় ধাতুর ধীরে ধীরে নষ্ট হওয়া
+গ্যালভানাইজিং | লোহার ওপর জিংকের প্রলেপ
+টিন প্লেটিং | লোহার ওপর টিনের প্রলেপ
+ইলেকট্রোপ্লেটিং | তড়িৎ বিশ্লেষণে ধাতুর ওপর অন্য ধাতুর প্রলেপ
+এন্টাসিড | পাকস্থলীর বাড়তি এসিড প্রশমনকারী ক্ষারকের মিশ্রণ
+শ্বসন | কোষে গ্লুকোজ জারিত হয়ে শক্তি উৎপাদন
+## visual
+প্রতিটি লোহার পেরেকের অবস্থা বেছে নাও আর দিনের স্লাইডার সরাও। দেখো কোন পেরেকে মরিচা পড়ে, কত দ্রুত পড়ে, আর কেন।
+## real
+বাংলাদেশের উপকূলে লবণাক্ত, আর্দ্র বাতাসে নৌকা, সেতু আর টিনের চালে ভেতরের এলাকার চেয়ে অনেক দ্রুত মরিচা পড়ে, তাই সেখানে মালিকেরা বেশি ঘন ঘন রং ও গ্যালভানাইজ করেন। গ্রামের ঘরে সেলাইয়ের সুচ ছোট শিশিতে নারিকেল তেলে রাখা হয়। বর্ষায় লোকজন পিচ্ছিল ছাদ আর উঠানে বালু ছিটায়। দেশজুড়ে ফার্মেসিতে Mg(OH)₂ ও Al(OH)₃ যুক্ত এন্টাসিড বড়ি ও সাসপেনশন বিক্রি হয়।
+## example
+প্রশ্ন: একটি এন্টাসিড বড়িতে Mg(OH)₂ আছে। ০.৭৩ g HCl প্রশমিত করতে কত গ্রাম Mg(OH)₂ লাগবে? (Mg = ২৪, O = ১৬, H = ১, Cl = ৩৫.৫)
+দেওয়া আছে: 2HCl + Mg(OH)₂ → MgCl₂ + 2H₂O; M(HCl) = ৩৬.৫; M(Mg(OH)₂) = ২৪ + ২ × ১৭ = ৫৮
+সূত্র: n = w/M; ২ mol HCl-এর জন্য ১ mol Mg(OH)₂
+হিসাব: n(HCl) = ০.৭৩ ÷ ৩৬.৫ = ০.০২ mol; n(Mg(OH)₂) = ০.০১ mol; ভর = ০.০১ × ৫৮ = ০.৫৮ g
+উত্তর: ০.৫৮ g Mg(OH)₂
+## example
+প্রশ্ন: শ্বসনে ১৮ g গ্লুকোজ জারিত করতে কত অক্সিজেন লাগবে, আর কত গ্রাম CO₂ নিঃশ্বাসে বের হবে? (C = ১২, H = ১, O = ১৬)
+দেওয়া আছে: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O; M(C₆H₁₂O₆) = ৭২ + ১২ + ৯৬ = ১৮০
+হিসাব: n(গ্লুকোজ) = ১৮ ÷ ১৮০ = ০.১ mol; O₂ = ০.৬ mol × ৩২ = ১৯.২ g; CO₂ = ০.৬ mol × ৪৪ = ২৬.৪ g
+উত্তর: ১৯.২ g O₂ খরচ হয়; ২৬.৪ g CO₂ তৈরি হয়।
+## example
+প্রশ্ন: আঁচড় লাগলেও গ্যালভানাইজড লোহার চালে মরিচা পড়ে না কেন, অথচ আঁচড় লাগা টিন প্লেটেড কৌটায় দ্রুত মরিচা পড়ে?
+সমাধান: জিংক লোহার চেয়ে বেশি সক্রিয়, তাই আঁচড়ের জায়গায় লোহার বদলে জিংক ইলেকট্রন ছেড়ে দেয় (জারিত হয়)। টিন লোহার চেয়ে কম সক্রিয়, তাই আঁচড়ের জায়গায় উন্মুক্ত লোহাই জারিত হয়, এমনকি আরও দ্রুত মরিচা পড়তে পারে।
+উত্তর: জিংক আগে নিজে ক্ষয় হয়ে লোহাকে রক্ষা করে (আত্মত্যাগী সুরক্ষা); টিন শুধু অক্ষত আবরণ হিসেবে রক্ষা করে।
+## mistakes
+x শুকনো বাতাসেও লোহায় মরিচা পড়ে।
+v মরিচার জন্য অক্সিজেন ও পানি দুটোই লাগে; শুকনো বাতাসে (বা তেলের নিচে) রাখা লোহায় মরিচা পড়ে না।
+x অ্যালুমিনিয়াম বাতাসের সাথে একদমই বিক্রিয়া করে না।
+v এটি সাথে সাথেই বিক্রিয়া করে, কিন্তু তৈরি হওয়া পাতলা Al₂O₃ আস্তরণ পৃষ্ঠকে সিল করে দেয় আর আর বিক্রিয়া হতে দেয় না।
+x গ্যালভানাইজিং মানে লোহায় টিনের প্রলেপ।
+v গ্যালভানাইজিং হলো জিংকের প্রলেপ; টিনের প্রলেপ হলো টিন প্লেটিং।
+## remember
+- মরিচা: লোহা + অক্সিজেন + পানি → Fe₂O₃·nH₂O; ঝাঁঝরা, তাই মরিচা পড়া চলতেই থাকে।
+- CuO ও Al₂O₃-এর আস্তরণ Cu ও Al-কে রক্ষা করে।
+- চুন পিঁপড়া/মৌমাছির কামড়ের এসিড প্রশমিত করে; এন্টাসিড (Mg(OH)₂, Al(OH)₃) পাকস্থলীর HCl প্রশমিত করে।
+- শ্বসন: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি।
+- মরিচা রোধ: রং, তেল, গ্যালভানাইজিং (Zn), টিন প্লেটিং, ইলেকট্রোপ্লেটিং।
+## think
+কক্সবাজারে সাগরের কাছের লোহার সেতু রাজশাহীর সেতুর চেয়ে বেশি ঘন ঘন রং করতে হয়। দুটি রাসায়নিক কারণ বলো।
+## quiz
+? লোহায় মরিচা পড়তে কোন দুটি পদার্থ একসাথে লাগে?
+- অক্সিজেন ও নাইট্রোজেন
+* অক্সিজেন ও পানি
+- পানি ও কার্বন ডাই-অক্সাইড
+- নাইট্রোজেন ও পানি
+= মরিচার জন্য অক্সিজেন ও আর্দ্রতা একসাথে লাগে।
+? মরিচার সংকেত:
+- FeO
+- Fe₃O₄
+* Fe₂O₃·nH₂O
+- FeCl₃
+= মরিচা হলো পরিবর্তনশীল পরিমাণ পানিযুক্ত আয়রন(III) অক্সাইড।
+? মৌমাছির হুলে চুন লাগানো হয়, কারণ এটি:
+* এসিড প্রশমিত করে
+- বিষকে জারিত করে
+- প্রভাবক হিসেবে কাজ করে
+- অধঃক্ষেপ তৈরি করে
+= চুন ক্ষারক; এটি জ্বালার কারণ এসিডকে প্রশমিত করে।
+? লোহার ওপর জিংকের প্রলেপ দেওয়াকে বলে:
+- টিন প্লেটিং
+* গ্যালভানাইজিং
+- পানিযোজন
+- পলিমারকরণ
+= জিংকের প্রলেপ হলো গ্যালভানাইজিং; জিংক আগে ক্ষয় হয়ে লোহাকে রক্ষা করে।
+
+@@ 7.5
+@visual k7rate
+@related 7.5.1 2.2 6.1.3 7.2.2
+== en
+## what
+The **rate of reaction** is the amount of product formed (or reactant used up) per unit time. Some reactions finish in less than a second (AgCl precipitating), others take years (a bridge rusting). Temperature, concentration, surface area and catalysts change the rate.
+## simple
+Every reaction turns reactants into products, but not at the same speed. Add silver nitrate solution to salt water and a white AgCl precipitate appears **in less than a second**. A candle burns over an hour or two. An iron bridge takes **years** to rust. A bomb explodes in a tiny fraction of a second.
+
+**Rate of reaction** tells us how fast: the amount of product made (or reactant used) in each unit of time. A reaction that finishes in a short time has a **high rate**; one that takes a long time has a **low rate**.
+
+rate = change in amount ÷ time taken
+
+For example, if a reaction gives 60 mL of gas in 30 s, its average rate is 60 ÷ 30 = 2 mL of gas per second.
+
+**Investigation: temperature and rate.** *(from the book)* Take four test tubes, numbered 1 to 4. Put a small, equal amount of sodium carbonate (washing soda) in each. Add ordinary (cold) water to tubes 1 and 2, and hot water to tubes 3 and 4. Now add 1 mL of lemon juice (citric acid) or vinegar (4–10% acetic acid) to tubes 2 and 4 only. *(The book says about 0.5 mg; half a gram, about the size of a pea, is easier to see, and the result is the same.)*
+- Tubes 1 and 3 (no acid): **no bubbles**; there is nothing for the carbonate to react with.
+- Tubes 2 and 4 (with acid): **bubbles of CO₂**: Na₂CO₃ + 2CH₃COOH → 2CH₃COONa + H₂O + CO₂↑
+- Tube 4 (hot) fizzes **much faster** than tube 2 (cold).
+
+So in the same time, different tubes give different amounts of product: the **rate** depends on conditions. *Safety: use warm tap water, not boiling water, and handle hot tubes with a holder.*
+
+**Why do reactions speed up? (collision idea).** Particles must **collide** with enough energy to react. Anything that makes useful collisions happen more often speeds up the reaction:
+- **Temperature** ↑: particles move faster, collide more often and harder. A rough rule: a 10 °C rise often about doubles the rate.
+- **Concentration** ↑ (or **pressure** ↑ for gases): more particles in the same space, so more collisions.
+- **Surface area** ↑: powder reacts faster than lumps because more particles are exposed. That's why fine flour dust or coal dust can even explode.
+- **Catalyst**: a substance that speeds up a reaction without being used up. It gives the reaction an easier path (like the powdered iron in the Haber process, or manganese dioxide for decomposing hydrogen peroxide).
+## analogy
+Think of making friends at a school fair. If everyone rushes around (higher temperature), packs into a smaller hall (higher concentration) or the crowd is spread along many stalls rather than stuck in one lump (larger surface area), more people meet each other every minute. A catalyst is like a friendly volunteer who introduces people, making meetings easier without being "used up".
+## definition
+**Rate of reaction (বিক্রিয়ার গতিবেগ বা হার)**: the amount of reactant converted into product (or the amount of product formed) per unit time.
+
+A reaction completed in a short time has a high rate; a reaction taking a long time has a low rate.
+
+**Catalyst (প্রভাবক)**: a substance that changes (usually increases) the rate of a reaction but remains chemically unchanged at the end.
+## why
+Why does even a small temperature rise make such a big difference? Particles need a minimum energy to react when they collide. Raising the temperature not only makes collisions more frequent, it greatly increases the **fraction** of particles that have at least that minimum energy. So many more collisions become successful, and the rate rises sharply.
+## terms
+Rate of reaction | Amount of product formed (or reactant used) per unit time
+Collision | Particles hitting each other; needed for reaction
+Concentration | Amount of substance in a given volume of solution
+Surface area | Total exposed area of a solid; powders have large surface area
+Catalyst | Speeds up a reaction without being used up
+## formula
+$$ rate = change in amount of product (or reactant) ÷ time taken
+! Higher temperature, higher concentration, larger surface area or a catalyst → faster reaction.
+! Rough rule: about double the rate for every 10 °C rise.
+## visual
+Choose a reaction and change the temperature, concentration, particle size or catalyst. Compare the gas-volume graph with the dashed "standard" curve: the steeper the start, the faster the reaction.
+## real
+We keep fish and vegetables in a fridge because cold slows down the reactions that spoil them. Pressure cookers cook dal and meat faster because the higher temperature speeds up cooking reactions. Tea leaves broken into fine dust (CTC tea) brew faster than whole leaves because of the larger surface area. Car exhaust systems use catalysts to change poisonous gases into safer ones quickly.
+## example
+Q: In a reaction between marble chips and hydrochloric acid, 90 mL of CO₂ is collected in the first 45 s. What is the average rate of reaction?
+Given: volume = 90 mL; time = 45 s
+Formula: rate = volume of gas ÷ time
+Calculation: rate = 90 ÷ 45 = 2 mL/s
+Answer: 2 mL of CO₂ per second
+## example
+Q: A reaction takes 80 s to finish at 25 °C. Using the rough rule that the rate doubles for every 10 °C rise, estimate the time it would take at 45 °C.
+Solution: 25 °C → 35 °C: rate doubles, time halves to 40 s; 35 °C → 45 °C: rate doubles again, time halves to 20 s.
+> Rate and time are inversely related: double the rate, half the time.
+Answer: about 20 s
+## example
+Q: In the book's investigation, which tube gives gas bubbles fastest, and which give none? Explain.
+Solution: Tubes 1 and 3 have no acid, so no reaction and no bubbles. Tubes 2 and 4 both react (Na₂CO₃ + acid → CO₂), but tube 4 is hot, so the particles move faster and collide more often.
+Answer: Tube 4 fastest; tubes 1 and 3 give no bubbles.
+## mistakes
+x A catalyst is used up in the reaction.
+v A catalyst is left unchanged at the end; it only provides an easier path.
+x Powdered and lump marble react at the same rate because it is the same substance.
+v Powder has a much larger surface area, so it reacts much faster (though the total CO₂ from the same mass is the same).
+x A faster reaction always makes more product.
+v Rate is about how quickly; the total amount of product depends on how much reactant there is.
+## remember
+- Rate = amount of product formed (or reactant used) per unit time.
+- Fast: AgCl precipitate (< 1 s); slow: rusting (years).
+- Faster with: higher temperature, higher concentration (pressure), larger surface area, catalyst.
+- Particles must collide with enough energy to react.
+## think
+Why does a match stick light instantly when struck, but a thick log in the chula needs small twigs to get it started?
+## quiz
+? Which reaction has the highest rate?
+* AgNO₃ solution added to NaCl solution
+- Rusting of an iron bridge
+- Ripening of a jackfruit
+- Fermentation of milk to doi
+= The white AgCl precipitate appears in less than a second.
+? Which change will NOT increase the rate of marble chips reacting with acid?
+- Warming the acid
+- Using more concentrated acid
+- Crushing the chips into powder
+* Using larger lumps of marble
+= Larger lumps have less surface area, so the reaction is slower.
+? A catalyst:
+- Is used up in the reaction
+* Speeds up a reaction and remains unchanged
+- Always slows down a reaction
+- Changes the products
+= A catalyst provides an easier path and is left unchanged.
+? 120 mL of gas forms in 60 s. The average rate is:
+- 0.5 mL/s
+* 2 mL/s
+- 60 mL/s
+- 7200 mL/s
+= Rate = 120 ÷ 60 = 2 mL/s.
+== bn
+## what
+একক সময়ে যে পরিমাণ উৎপাদ তৈরি হয় (বা বিক্রিয়ক খরচ হয়) তাকে **বিক্রিয়ার হার** বা গতিবেগ বলে। কিছু বিক্রিয়া এক সেকেন্ডের কম সময়ে শেষ হয় (AgCl-এর অধঃক্ষেপ), কিছুতে লাগে বছরের পর বছর (সেতুতে মরিচা)। তাপমাত্রা, ঘনমাত্রা, পৃষ্ঠতলের ক্ষেত্রফল আর প্রভাবক হার বদলে দেয়।
+## simple
+প্রতিটি বিক্রিয়ায় বিক্রিয়ক উৎপাদে পরিণত হয়, কিন্তু একই গতিতে নয়। লবণপানিতে সিলভার নাইট্রেট দ্রবণ দিলে **এক সেকেন্ডের কম সময়ে** সাদা AgCl অধঃক্ষেপ দেখা দেয়। একটি মোমবাতি জ্বলে এক-দুই ঘণ্টা ধরে। লোহার সেতুতে মরিচা পড়তে লাগে **বছরের পর বছর**। বোমা বিস্ফোরিত হয় এক সেকেন্ডের ক্ষুদ্র ভগ্নাংশে।
+
+**বিক্রিয়ার হার** বলে বিক্রিয়াটি কত দ্রুত: প্রতি একক সময়ে কতটা উৎপাদ তৈরি হয় (বা বিক্রিয়ক খরচ হয়)। যে বিক্রিয়া অল্প সময়ে শেষ হয় তার **হার বেশি**; যেটিতে অনেক সময় লাগে তার **হার কম**।
+
+হার = পরিমাণের পরিবর্তন ÷ সময়
+
+যেমন, কোনো বিক্রিয়ায় ৩০ s-এ ৬০ mL গ্যাস তৈরি হলে গড় হার ৬০ ÷ ৩০ = প্রতি সেকেন্ডে ২ mL গ্যাস।
+
+**পরীক্ষণ: তাপমাত্রা ও বিক্রিয়ার হার।** *(বই থেকে)* চারটি টেস্টটিউব নাও, ১ থেকে ৪ নম্বর দাও। প্রতিটিতে সমান অল্প পরিমাণ সোডিয়াম কার্বনেট (কাপড় কাচা সোডা) নাও। ১ ও ২ নম্বরে সাধারণ (ঠান্ডা) পানি আর ৩ ও ৪ নম্বরে গরম পানি দাও। এবার শুধু ২ ও ৪ নম্বরে ১ mL লেবুর রস (সাইট্রিক এসিড) বা ভিনেগার (৪–১০% এসিটিক এসিড) যোগ করো। *(বইয়ে প্রায় ০.৫ মিলিগ্রাম লেখা; আধা গ্রাম, মোটামুটি একটা মটরদানার সমান, নিলে দেখতে সহজ হয়, ফলাফল একই।)*
+- ১ ও ৩ নম্বর (এসিড নেই): **কোনো বুদ্‌বুদ্ নেই**; কার্বনেটের বিক্রিয়া করার কিছু নেই।
+- ২ ও ৪ নম্বর (এসিডসহ): **CO₂-এর বুদ্‌বুদ্**: Na₂CO₃ + 2CH₃COOH → 2CH₃COONa + H₂O + CO₂↑
+- ৪ নম্বর (গরম) ২ নম্বরের (ঠান্ডা) চেয়ে **অনেক দ্রুত** বুদ্‌বুদ্ ছাড়ে।
+
+তাই একই সময়ে বিভিন্ন টিউবে ভিন্ন পরিমাণ উৎপাদ তৈরি হয়: **হার** অবস্থার ওপর নির্ভর করে। *সাবধানতা: ফুটন্ত পানি নয়, কলের গরম পানি ব্যবহার করো, আর গরম টিউব হোল্ডার দিয়ে ধরো।*
+
+**বিক্রিয়া দ্রুত হয় কেন? (সংঘর্ষের ধারণা)।** বিক্রিয়ার জন্য কণাগুলোকে যথেষ্ট শক্তি নিয়ে **সংঘর্ষ** ঘটাতে হয়। যা কিছু কার্যকর সংঘর্ষ বাড়ায়, তা বিক্রিয়াকে দ্রুত করে:
+- **তাপমাত্রা** ↑: কণাগুলো দ্রুত চলে, ঘন ঘন আর জোরে ধাক্কা খায়। মোটামুটি নিয়ম: ১০ °C তাপমাত্রা বাড়লে হার প্রায় দ্বিগুণ হয়।
+- **ঘনমাত্রা** ↑ (গ্যাসে **চাপ** ↑): একই জায়গায় বেশি কণা, তাই বেশি সংঘর্ষ।
+- **পৃষ্ঠতলের ক্ষেত্রফল** ↑: দলার চেয়ে গুঁড়া দ্রুত বিক্রিয়া করে, কারণ বেশি কণা উন্মুক্ত থাকে। এজন্যই মিহি আটার ধুলা বা কয়লার গুঁড়া বিস্ফোরণও ঘটাতে পারে।
+- **প্রভাবক**: যে পদার্থ নিজে খরচ না হয়ে বিক্রিয়ার গতি বাড়ায়। এটি বিক্রিয়াকে সহজ পথ দেয় (যেমন হেবার প্রণালিতে লোহার চূর্ণ, বা হাইড্রোজেন পার-অক্সাইড ভাঙতে ম্যাঙ্গানিজ ডাই-অক্সাইড)।
+## analogy
+স্কুলের মেলায় বন্ধু বানানোর কথা ভাবো। সবাই যদি ছোটাছুটি করে (তাপমাত্রা বেশি), ছোট হলে ঠাসাঠাসি করে থাকে (ঘনমাত্রা বেশি), বা ভিড় এক জায়গায় জমাট না থেকে অনেক স্টলে ছড়িয়ে থাকে (পৃষ্ঠতল বেশি), তাহলে প্রতি মিনিটে বেশি মানুষের দেখা হয়। প্রভাবক যেন একজন হাসিখুশি স্বেচ্ছাসেবক, যে সবাইকে পরিচয় করিয়ে দেয়, নিজে "খরচ" না হয়েই দেখা হওয়া সহজ করে।
+## definition
+**বিক্রিয়ার গতিবেগ বা হার (Rate of reaction)**: একক সময়ে যে পরিমাণ বিক্রিয়ক উৎপাদে পরিণত হয় (বা যে পরিমাণ উৎপাদ তৈরি হয়)।
+
+যে বিক্রিয়া অল্প সময়ে সম্পন্ন হয় তার হার বেশি; যে বিক্রিয়ায় বেশি সময় লাগে তার হার কম।
+
+**প্রভাবক (Catalyst)**: যে পদার্থ বিক্রিয়ার হার বদলায় (সাধারণত বাড়ায়) কিন্তু শেষে নিজে রাসায়নিকভাবে অপরিবর্তিত থাকে।
+## why
+তাপমাত্রা সামান্য বাড়ালেও এত বড় পার্থক্য হয় কেন? সংঘর্ষে বিক্রিয়া ঘটাতে কণাদের একটি ন্যূনতম শক্তি লাগে। তাপমাত্রা বাড়লে শুধু সংঘর্ষই বেশি হয় না, ওই ন্যূনতম শক্তিসম্পন্ন কণার **অনুপাতও** অনেক বেড়ে যায়। ফলে অনেক বেশি সংঘর্ষ সফল হয়, আর হার দ্রুত বাড়ে।
+## terms
+বিক্রিয়ার হার | একক সময়ে উৎপাদ তৈরি (বা বিক্রিয়ক খরচ) এর পরিমাণ
+সংঘর্ষ | কণাদের পরস্পরকে ধাক্কা; বিক্রিয়ার জন্য প্রয়োজন
+ঘনমাত্রা | নির্দিষ্ট আয়তনের দ্রবণে পদার্থের পরিমাণ
+পৃষ্ঠতলের ক্ষেত্রফল | কঠিনের মোট উন্মুক্ত ক্ষেত্রফল; গুঁড়ার পৃষ্ঠতল বেশি
+প্রভাবক | খরচ না হয়ে বিক্রিয়ার গতি বাড়ায়
+## formula
+$$ হার = উৎপাদের (বা বিক্রিয়কের) পরিমাণের পরিবর্তন ÷ সময়
+! তাপমাত্রা বেশি, ঘনমাত্রা বেশি, পৃষ্ঠতল বেশি বা প্রভাবক থাকলে → বিক্রিয়া দ্রুত।
+! মোটামুটি নিয়ম: প্রতি ১০ °C বৃদ্ধিতে হার প্রায় দ্বিগুণ।
+## visual
+একটি বিক্রিয়া বেছে নিয়ে তাপমাত্রা, ঘনমাত্রা, কণার আকার বা প্রভাবক বদলাও। গ্যাসের আয়তন-সময় লেখচিত্রটিকে ড্যাশ দেওয়া "আদর্শ" রেখার সাথে তুলনা করো: শুরুটা যত খাড়া, বিক্রিয়া তত দ্রুত।
+## real
+মাছ আর সবজি ফ্রিজে রাখি, কারণ ঠান্ডায় পচনের বিক্রিয়া ধীর হয়। প্রেশার কুকারে ডাল আর মাংস দ্রুত সেদ্ধ হয়, কারণ বেশি তাপমাত্রায় রান্নার বিক্রিয়া দ্রুত চলে। মিহি দানার (সিটিসি) চা আস্ত পাতার চেয়ে দ্রুত লিকার ছাড়ে, কারণ পৃষ্ঠতল বেশি। গাড়ির ধোঁয়া-নির্গমন ব্যবস্থায় প্রভাবক থাকে, যা বিষাক্ত গ্যাসকে দ্রুত কম ক্ষতিকর গ্যাসে পরিণত করে।
+## example
+প্রশ্ন: মার্বেলের টুকরা আর হাইড্রোক্লোরিক এসিডের বিক্রিয়ায় প্রথম ৪৫ s-এ ৯০ mL CO₂ সংগ্রহ করা হলো। বিক্রিয়ার গড় হার কত?
+দেওয়া আছে: আয়তন = ৯০ mL; সময় = ৪৫ s
+সূত্র: হার = গ্যাসের আয়তন ÷ সময়
+হিসাব: হার = ৯০ ÷ ৪৫ = ২ mL/s
+উত্তর: প্রতি সেকেন্ডে ২ mL CO₂
+## example
+প্রশ্ন: একটি বিক্রিয়া ২৫ °C-এ শেষ হতে ৮০ s লাগে। প্রতি ১০ °C বৃদ্ধিতে হার দ্বিগুণ হয়, এই মোটামুটি নিয়ম ধরে ৪৫ °C-এ কত সময় লাগবে অনুমান করো।
+সমাধান: ২৫ °C → ৩৫ °C: হার দ্বিগুণ, সময় অর্ধেক হয়ে ৪০ s; ৩৫ °C → ৪৫ °C: আবার হার দ্বিগুণ, সময় অর্ধেক হয়ে ২০ s।
+> হার আর সময় ব্যস্তানুপাতিক: হার দ্বিগুণ, সময় অর্ধেক।
+উত্তর: প্রায় ২০ s
+## example
+প্রশ্ন: বইয়ের পরীক্ষণে কোন টেস্টটিউবে সবচেয়ে দ্রুত গ্যাসের বুদ্‌বুদ্ ওঠে, আর কোনগুলোতে একদমই ওঠে না? ব্যাখ্যা করো।
+সমাধান: ১ ও ৩ নম্বরে এসিড নেই, তাই বিক্রিয়াও নেই, বুদ্‌বুদ্ও নেই। ২ ও ৪ দুটোতেই বিক্রিয়া হয় (Na₂CO₃ + এসিড → CO₂), কিন্তু ৪ নম্বর গরম, তাই কণাগুলো দ্রুত চলে আর বেশি সংঘর্ষ হয়।
+উত্তর: ৪ নম্বরে সবচেয়ে দ্রুত; ১ ও ৩ নম্বরে কোনো বুদ্‌বুদ্ নেই।
+## mistakes
+x প্রভাবক বিক্রিয়ায় খরচ হয়ে যায়।
+v শেষে প্রভাবক অপরিবর্তিত থাকে; এটি শুধু সহজ পথ দেয়।
+x গুঁড়া আর দলা মার্বেল একই হারে বিক্রিয়া করে, কারণ পদার্থ একই।
+v গুঁড়ার পৃষ্ঠতল অনেক বেশি, তাই এটি অনেক দ্রুত বিক্রিয়া করে (যদিও একই ভর থেকে মোট CO₂ একই)।
+x দ্রুত বিক্রিয়া সবসময় বেশি উৎপাদ দেয়।
+v হার মানে কত তাড়াতাড়ি; মোট উৎপাদ নির্ভর করে কতটা বিক্রিয়ক আছে তার ওপর।
+## remember
+- হার = একক সময়ে তৈরি উৎপাদ (বা খরচ হওয়া বিক্রিয়ক)।
+- দ্রুত: AgCl অধঃক্ষেপ (< ১ s); ধীর: মরিচা (বছর)।
+- দ্রুত হয়: বেশি তাপমাত্রা, বেশি ঘনমাত্রা (চাপ), বেশি পৃষ্ঠতল, প্রভাবক থাকলে।
+- বিক্রিয়ার জন্য কণাদের যথেষ্ট শক্তি নিয়ে সংঘর্ষ ঘটাতে হয়।
+## think
+দেশলাইয়ের কাঠি ঘষলেই সাথে সাথে জ্বলে ওঠে, কিন্তু চুলায় মোটা কাঠ ধরাতে ছোট ডালপালা লাগে কেন?
+## quiz
+? কোন বিক্রিয়ার হার সবচেয়ে বেশি?
+* NaCl দ্রবণে AgNO₃ দ্রবণ যোগ করা
+- লোহার সেতুতে মরিচা পড়া
+- কাঁঠাল পাকা
+- দুধ থেকে দই হওয়া
+= সাদা AgCl অধঃক্ষেপ এক সেকেন্ডের কম সময়ে দেখা দেয়।
+? কোন পরিবর্তনে এসিডের সাথে মার্বেলের টুকরার বিক্রিয়ার হার বাড়বে না?
+- এসিড গরম করা
+- বেশি ঘন এসিড ব্যবহার করা
+- টুকরাগুলো গুঁড়া করা
+* আরও বড় মার্বেলের দলা ব্যবহার করা
+= বড় দলার পৃষ্ঠতল কম, তাই বিক্রিয়া ধীর হয়।
+? প্রভাবক:
+- বিক্রিয়ায় খরচ হয়ে যায়
+* বিক্রিয়ার গতি বাড়ায় এবং অপরিবর্তিত থাকে
+- সবসময় বিক্রিয়াকে ধীর করে
+- উৎপাদ বদলে দেয়
+= প্রভাবক সহজ পথ দেয় আর অপরিবর্তিত থেকে যায়।
+? ৬০ s-এ ১২০ mL গ্যাস তৈরি হলো। গড় হার:
+- ০.৫ mL/s
+* ২ mL/s
+- ৬০ mL/s
+- ৭২০০ mL/s
+= হার = ১২০ ÷ ৬০ = ২ mL/s।
+
+@@ 7.5.1
+@visual k7equil
+@related 7.2.1 7.2.2 7.5 6.1.1
+== en
+## what
+In a closed container, a reversible reaction reaches **chemical equilibrium**: the forward and backward reactions go on at the **same rate**, so the concentrations of reactants and products stop changing. **Le Chatelier's principle** says that if a change (temperature, pressure or concentration) is made to a system at equilibrium, the equilibrium shifts so as to reduce the effect of that change.
+## simple
+**Reaching equilibrium.** Take a reversible reaction such as N₂ + 3H₂ ⇌ 2NH₃ in a closed container.
+- At the start there are only reactants, so the **forward reaction is fast**. There is no product yet, so the **backward reaction rate is zero**.
+- As time passes, reactants are used up, so the forward rate **falls**. Product builds up, so the backward rate **rises**.
+- At some point **the two rates become equal**. This state is called **equilibrium** of the reversible reaction.
+
+At equilibrium the concentrations of reactants and products stay **constant**. It looks as if the reaction has stopped, but it hasn't: in every second, as much reactant turns into product as product turns back into reactant. That's why it is called **dynamic equilibrium**. (Note: equal *rates*, not necessarily equal *amounts* of reactants and products.)
+
+**Le Chatelier's principle.** If a system at equilibrium is disturbed by an outside change in temperature, pressure or concentration, the equilibrium shifts to a new position that **counteracts (reduces) the effect of the change**. The system "fights back".
+
+**1. Effect of temperature.** N₂ + 3H₂ ⇌ 2NH₃ + 92 kJ. The forward reaction is **exothermic** (gives out heat); the backward reaction is **endothermic** (takes in heat).
+- **Heat it up**: to use up the extra heat, the heat-absorbing (backward) reaction increases. The equilibrium shifts **to the left**: some NH₃ breaks into N₂ and H₂. Less ammonia.
+- **Cool it down**: the heat-producing (forward) reaction increases to replace the lost heat. The equilibrium shifts **to the right**: more NH₃.
+
+Now look at N₂ + O₂ + 180 kJ ⇌ 2NO, where the forward reaction is **endothermic**. Heating shifts it **to the right** (more NO); cooling shifts it **to the left**. A reaction with no heat change is not shifted by temperature.
+
+**2. Effect of pressure (gases only).** In a fixed volume, more moles of gas means more pressure. In N₂(g) + 3H₂(g) ⇌ 2NH₃(g) the left side has 1 + 3 = **4 moles** of gas, the right side only **2 moles**.
+- **Increase the pressure**: the system reduces it by shifting to the side with **fewer gas moles**: **to the right**, making more NH₃.
+- **Decrease the pressure**: it shifts to the side with **more gas moles**: to the left.
+In N₂(g) + O₂(g) ⇌ 2NO(g), both sides have 2 moles of gas, so pressure has **no effect** on the equilibrium.
+
+**3. Effect of concentration.**
+- **Add more of a reactant**: the system uses up some of it by making more product. The equilibrium shifts **to the right**.
+- **Add more of a product** (or remove a reactant): the backward reaction speeds up and the equilibrium shifts **to the left**.
+- **Remove a product** (for example, cool the gas mixture so NH₃ liquefies and can be taken away): the equilibrium shifts **right** to replace it.
+
+**What about a catalyst?** A catalyst speeds up the forward and backward reactions equally. It helps the reaction reach equilibrium **sooner** but does **not** shift the equilibrium or change the amount of product at equilibrium.
+
+**Putting it together: the Haber process.** Low temperature would give more NH₃, but the reaction would be far too slow. So industry uses a compromise: about 450–550 °C with a powdered iron catalyst for a good speed, a high pressure of 200–250 atm to push the equilibrium right, and it removes the ammonia as it forms.
+## analogy
+Imagine a see-saw with children on both sides, perfectly balanced while they keep swapping places at the same rate. If a new child jumps on the left end (you add a reactant), the see-saw tips; to rebalance it, some children move over to the right side. Le Chatelier's principle is the see-saw always moving to undo whatever you did to it.
+## definition
+**Chemical equilibrium (রাসায়নিক সাম্যাবস্থা)**: the state of a reversible reaction in which the rates of the forward and backward reactions are equal, so the concentrations of reactants and products remain unchanged with time. Both reactions continue (dynamic equilibrium).
+
+**Le Chatelier's principle (লা-শাতেলিয়ার নীতি)**: if a chemical reaction is at equilibrium and an external change such as a change in pressure, temperature or concentration of a substance occurs, the equilibrium shifts and a new equilibrium is established that reduces the effect of that change.
+## why
+Why does raising the pressure push N₂ + 3H₂ ⇌ 2NH₃ to the right? Pressure comes from gas molecules hitting the container walls. Every time the forward reaction happens, 4 gas molecules become 2, so there are fewer molecules to hit the walls, and the pressure drops. By making more NH₃, the system partly undoes the pressure increase you imposed. When both sides have the same number of gas moles (N₂ + O₂ ⇌ 2NO), shifting either way doesn't change the number of molecules, so pressure has no effect.
+## terms
+Chemical equilibrium | State where forward and backward rates are equal; concentrations constant
+Dynamic equilibrium | Equilibrium in which both reactions keep going
+Le Chatelier's principle | A system at equilibrium shifts to reduce the effect of a change
+Shift to the right | More products formed
+Shift to the left | More reactants formed
+## visual
+Watch the forward and backward rates meet as the reaction reaches equilibrium. Then disturb it: add a reactant, remove product, change the temperature or pressure, and see how the equilibrium shifts.
+## real
+Bangladesh's urea factories depend on the Haber process: engineers choose the pressure, temperature and catalyst using Le Chatelier's principle to get enough ammonia quickly. In your blood, oxygen and haemoglobin are in equilibrium: in the lungs, where oxygen is plentiful, the equilibrium shifts towards oxyhaemoglobin; in the tissues, where oxygen is scarce, it shifts back and releases oxygen. A closed bottle of soft drink holds CO₂ in equilibrium with the liquid; open it and lower the pressure, and the equilibrium shifts to release gas bubbles.
+## example
+Q: For N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −92 kJ, predict the effect on the amount of NH₃ at equilibrium of: (a) raising the temperature, (b) raising the pressure, (c) adding more H₂, (d) adding an iron catalyst.
+Solution: (a) Forward reaction is exothermic, so heating favours the endothermic backward reaction: shifts left. (b) 4 moles of gas → 2 moles, so higher pressure favours the right side. (c) Adding a reactant shifts right. (d) A catalyst does not shift equilibrium.
+Answer: (a) less NH₃; (b) more NH₃; (c) more NH₃; (d) no change in amount (equilibrium reached faster).
+## example
+Q: For N₂(g) + O₂(g) ⇌ 2NO(g); ΔH = +180 kJ, what is the effect of (a) increasing the temperature, (b) increasing the pressure?
+Solution: (a) Forward reaction is endothermic, so heating shifts right. (b) Moles of gas: left 1 + 1 = 2, right 2: no change, so pressure has no effect.
+Answer: (a) more NO; (b) no effect.
+## example
+Q: For H₂(g) + I₂(g) ⇌ 2HI(g) and for CaCO₃(s) ⇌ CaO(s) + CO₂(g), count the gas moles on each side and say how raising the pressure affects each.
+Solution: H₂ + I₂: 2 gas moles on the left, 2 on the right: no effect. CaCO₃: 0 gas moles on the left (both are solids), 1 on the right: higher pressure shifts left, toward fewer gas moles.
+> Count only gases when judging the effect of pressure.
+Answer: No effect on the HI equilibrium; the CaCO₃ equilibrium shifts left (less CO₂).
+## mistakes
+x At equilibrium the reaction has stopped.
+v Both reactions continue at equal rates; only the concentrations stop changing (dynamic equilibrium).
+x At equilibrium the amounts of reactants and products are equal.
+v The rates are equal; the amounts can be very different.
+x A catalyst increases the amount of product at equilibrium.
+v A catalyst only helps reach equilibrium faster; it does not shift it.
+x Raising the pressure always shifts an equilibrium to the right.
+v It shifts towards the side with fewer moles of gas, and has no effect if both sides have the same number.
+## remember
+- Equilibrium: forward rate = backward rate; concentrations constant; reactions still going.
+- Le Chatelier: the system shifts to reduce the effect of a change.
+- Heating favours the endothermic direction; cooling favours the exothermic direction.
+- Higher pressure favours fewer gas moles; no effect if gas moles are equal.
+- Adding reactant (or removing product) shifts right; adding product shifts left. A catalyst doesn't shift equilibrium.
+## think
+The Haber process would give more ammonia at 200 °C than at 450 °C. So why do factories run it at around 450 °C?
+## quiz
+? At chemical equilibrium:
+- The forward reaction has stopped
+* The rates of the forward and backward reactions are equal
+- The amounts of reactants and products are always equal
+- Only the backward reaction occurs
+= Both reactions continue at the same rate, so the concentrations stay constant.
+? For N₂ + 3H₂ ⇌ 2NH₃ + 92 kJ, raising the temperature:
+- Shifts the equilibrium to the right
+* Shifts the equilibrium to the left
+- Has no effect
+- Stops the reaction
+= Heating favours the endothermic backward reaction, which absorbs the extra heat.
+? Pressure has no effect on which equilibrium?
+- N₂ + 3H₂ ⇌ 2NH₃
+* N₂ + O₂ ⇌ 2NO
+- CaCO₃ ⇌ CaO + CO₂
+- 2SO₂ + O₂ ⇌ 2SO₃
+= Both sides have 2 moles of gas.
+? Adding a catalyst to a reaction at equilibrium:
+- Increases the amount of product
+- Decreases the amount of product
+* Does not change the equilibrium amounts
+- Shifts the equilibrium to the left
+= A catalyst speeds up both reactions equally.
+== bn
+## what
+বন্ধ পাত্রে উভমুখী বিক্রিয়া **রাসায়নিক সাম্যাবস্থায়** পৌঁছায়: সম্মুখমুখী ও পশ্চাৎমুখী বিক্রিয়া **সমান হারে** চলে, তাই বিক্রিয়ক ও উৎপাদের ঘনমাত্রা আর বদলায় না। **লা-শাতেলিয়ার নীতি** বলে, সাম্যাবস্থায় থাকা কোনো ব্যবস্থায় বাইরে থেকে পরিবর্তন (তাপমাত্রা, চাপ বা ঘনমাত্রা) ঘটালে সাম্যাবস্থা এমনভাবে সরে যায় যাতে সেই পরিবর্তনের প্রভাব প্রশমিত হয়।
+## simple
+**সাম্যাবস্থায় পৌঁছানো।** বন্ধ পাত্রে N₂ + 3H₂ ⇌ 2NH₃-এর মতো একটি উভমুখী বিক্রিয়া নাও।
+- শুরুতে শুধু বিক্রিয়ক থাকে, তাই **সম্মুখমুখী বিক্রিয়া দ্রুত**। তখনো উৎপাদ নেই, তাই **পশ্চাৎমুখী বিক্রিয়ার হার শূন্য**।
+- সময়ের সাথে বিক্রিয়ক খরচ হয়, তাই সম্মুখমুখী হার **কমে**। উৎপাদ জমে, তাই পশ্চাৎমুখী হার **বাড়ে**।
+- একসময় **দুই হার সমান হয়ে যায়**। এই অবস্থাকে উভমুখী বিক্রিয়ার **সাম্যাবস্থা** বলে।
+
+সাম্যাবস্থায় বিক্রিয়ক ও উৎপাদের ঘনমাত্রা **স্থির** থাকে। মনে হয় বিক্রিয়া থেমে গেছে, কিন্তু আসলে থামেনি: প্রতি সেকেন্ডে যতটা বিক্রিয়ক উৎপাদে পরিণত হয়, ঠিক ততটা উৎপাদ আবার বিক্রিয়কে ফেরে। এজন্য একে **গতিশীল সাম্যাবস্থা** বলে। (লক্ষ করো: *হার* সমান, বিক্রিয়ক ও উৎপাদের *পরিমাণ* সমান হওয়া জরুরি নয়।)
+
+**লা-শাতেলিয়ার নীতি।** সাম্যাবস্থায় থাকা কোনো ব্যবস্থায় বাইরে থেকে তাপমাত্রা, চাপ বা ঘনমাত্রার পরিবর্তন ঘটালে সাম্যাবস্থা এমন নতুন অবস্থানে সরে যায় যা **পরিবর্তনের প্রভাবকে প্রশমিত করে (কমায়)**। ব্যবস্থাটি যেন "পাল্টা জবাব" দেয়।
+
+**১. তাপমাত্রার প্রভাব।** N₂ + 3H₂ ⇌ 2NH₃ + 92 kJ। সম্মুখমুখী বিক্রিয়া **তাপোৎপাদী** (তাপ দেয়); পশ্চাৎমুখী বিক্রিয়া **তাপহারী** (তাপ নেয়)।
+- **তাপ দিলে**: বাড়তি তাপ খরচ করতে তাপ-শোষণকারী (পশ্চাৎমুখী) বিক্রিয়া বাড়ে। সাম্যাবস্থা **বাঁ দিকে** সরে: কিছু NH₃ ভেঙে N₂ ও H₂ হয়। অ্যামোনিয়া কমে।
+- **ঠান্ডা করলে**: হারানো তাপ পূরণ করতে তাপ-উৎপাদী (সম্মুখমুখী) বিক্রিয়া বাড়ে। সাম্যাবস্থা **ডান দিকে** সরে: বেশি NH₃।
+
+এবার দেখো N₂ + O₂ + 180 kJ ⇌ 2NO, যেখানে সম্মুখমুখী বিক্রিয়া **তাপহারী**। তাপ দিলে এটি **ডানে** সরে (বেশি NO); ঠান্ডা করলে **বাঁয়ে**। যে বিক্রিয়ায় তাপের পরিবর্তন নেই, তাপমাত্রা তার সাম্যাবস্থা সরায় না।
+
+**২. চাপের প্রভাব (শুধু গ্যাসে)।** নির্দিষ্ট আয়তনে গ্যাসের মোল বেশি মানে চাপ বেশি। N₂(g) + 3H₂(g) ⇌ 2NH₃(g)-এ বাঁ পাশে ১ + ৩ = **৪ মোল** গ্যাস, ডান পাশে মাত্র **২ মোল**।
+- **চাপ বাড়ালে**: ব্যবস্থাটি চাপ কমাতে **কম গ্যাস-মোলের** দিকে সরে যায়: **ডানে**, বেশি NH₃ তৈরি হয়।
+- **চাপ কমালে**: **বেশি গ্যাস-মোলের** দিকে সরে: বাঁয়ে।
+N₂(g) + O₂(g) ⇌ 2NO(g)-এ দুই পাশেই ২ মোল গ্যাস, তাই সাম্যাবস্থায় চাপের **কোনো প্রভাব নেই**।
+
+**৩. ঘনমাত্রার প্রভাব।**
+- **কোনো বিক্রিয়ক বেশি দিলে**: ব্যবস্থাটি তার কিছু অংশ খরচ করে বেশি উৎপাদ বানায়। সাম্যাবস্থা **ডানে** সরে।
+- **কোনো উৎপাদ বেশি দিলে** (বা বিক্রিয়ক সরিয়ে নিলে): পশ্চাৎমুখী বিক্রিয়া বাড়ে আর সাম্যাবস্থা **বাঁয়ে** সরে।
+- **কোনো উৎপাদ সরিয়ে নিলে** (যেমন গ্যাস মিশ্রণ ঠান্ডা করে NH₃-কে তরল করে বের করে নিলে): সেটি পূরণ করতে সাম্যাবস্থা **ডানে** সরে।
+
+**প্রভাবকের কী হবে?** প্রভাবক সম্মুখমুখী ও পশ্চাৎমুখী দুই বিক্রিয়াকেই সমানভাবে দ্রুত করে। এটি বিক্রিয়াকে **আগে** সাম্যাবস্থায় পৌঁছাতে সাহায্য করে, কিন্তু সাম্যাবস্থা সরায় **না**, বা সাম্যাবস্থায় উৎপাদের পরিমাণ বদলায় না।
+
+**সব একসাথে: হেবার প্রণালি।** কম তাপমাত্রায় বেশি NH₃ পাওয়া যেত, কিন্তু বিক্রিয়াটি হতো খুবই ধীর। তাই শিল্পে একটি আপস করা হয়: ভালো গতির জন্য লোহার চূর্ণ প্রভাবকসহ প্রায় ৪৫০–৫৫০ °C, সাম্যাবস্থা ডানে ঠেলতে ২০০–২৫০ atm উচ্চ চাপ, আর তৈরি হওয়ার সাথে সাথে অ্যামোনিয়া সরিয়ে নেওয়া।
+## analogy
+একটা ঢেঁকি-দোলনার (সি-স) কথা ভাবো, দুই পাশে শিশুরা বসে আছে, আর সমান হারে জায়গা বদল করছে বলে পুরোপুরি ভারসাম্যে আছে। বাঁ প্রান্তে নতুন একটি শিশু লাফিয়ে উঠলে (বিক্রিয়ক যোগ করলে) দোলনা হেলে পড়ে; ভারসাম্য ফেরাতে কিছু শিশু ডান পাশে সরে যায়। লা-শাতেলিয়ার নীতি মানে দোলনাটা সবসময় তোমার করা পরিবর্তনকে উল্টে দিতে চায়।
+## definition
+**রাসায়নিক সাম্যাবস্থা (Chemical equilibrium)**: উভমুখী বিক্রিয়ার যে অবস্থায় সম্মুখমুখী ও পশ্চাৎমুখী বিক্রিয়ার হার সমান হয়, ফলে বিক্রিয়ক ও উৎপাদের ঘনমাত্রা সময়ের সাথে অপরিবর্তিত থাকে। দুটি বিক্রিয়াই চলতে থাকে (গতিশীল সাম্যাবস্থা)।
+
+**লা-শাতেলিয়ার নীতি (Le Chatelier's principle)**: যদি কোনো রাসায়নিক বিক্রিয়া সাম্যাবস্থায় থাকে এবং সেই অবস্থায় চাপ, তাপমাত্রা বা পদার্থের ঘনমাত্রার মতো কোনো বাহ্যিক পরিবর্তন ঘটে, তখন বিদ্যমান সাম্যাবস্থা পরিবর্তিত হয়ে এমন নতুন সাম্যাবস্থা তৈরি হয় যা বাহ্যিক পরিবর্তনের প্রভাবকে প্রশমিত করে।
+## why
+চাপ বাড়ালে N₂ + 3H₂ ⇌ 2NH₃ ডানে সরে কেন? পাত্রের দেয়ালে গ্যাসের অণুর ধাক্কা থেকেই চাপ আসে। প্রতিবার সম্মুখমুখী বিক্রিয়া ঘটলে ৪টি গ্যাস অণু ২টি হয়ে যায়, ফলে দেয়ালে ধাক্কা দেওয়ার অণু কমে আর চাপ কমে। বেশি NH₃ বানিয়ে ব্যবস্থাটি তোমার বাড়ানো চাপকে আংশিক উল্টে দেয়। দুই পাশে গ্যাসের মোল সমান হলে (N₂ + O₂ ⇌ 2NO) যেদিকেই সরুক অণুর সংখ্যা বদলায় না, তাই চাপের কোনো প্রভাব থাকে না।
+## terms
+রাসায়নিক সাম্যাবস্থা | সম্মুখমুখী ও পশ্চাৎমুখী হার সমান; ঘনমাত্রা স্থির
+গতিশীল সাম্যাবস্থা | যে সাম্যাবস্থায় দুটি বিক্রিয়াই চলতে থাকে
+লা-শাতেলিয়ার নীতি | সাম্যাবস্থার ব্যবস্থা পরিবর্তনের প্রভাব কমাতে সরে যায়
+ডানে সরা | বেশি উৎপাদ তৈরি হয়
+বাঁয়ে সরা | বেশি বিক্রিয়ক তৈরি হয়
+## visual
+দেখো বিক্রিয়া সাম্যাবস্থায় পৌঁছানোর সময় সম্মুখমুখী আর পশ্চাৎমুখী হার কীভাবে মিলে যায়। তারপর ব্যাঘাত ঘটাও: বিক্রিয়ক যোগ করো, উৎপাদ সরাও, তাপমাত্রা বা চাপ বদলাও, আর দেখো সাম্যাবস্থা কোন দিকে সরে।
+## real
+বাংলাদেশের ইউরিয়া কারখানাগুলো হেবার প্রণালির ওপর নির্ভর করে: প্রকৌশলীরা লা-শাতেলিয়ার নীতি মেনে চাপ, তাপমাত্রা আর প্রভাবক বেছে নেন, যেন দ্রুত যথেষ্ট অ্যামোনিয়া পাওয়া যায়। তোমার রক্তে অক্সিজেন আর হিমোগ্লোবিন সাম্যাবস্থায় থাকে: ফুসফুসে অক্সিজেন বেশি, তাই সাম্যাবস্থা অক্সিহিমোগ্লোবিনের দিকে সরে; কোষকলায় অক্সিজেন কম, তাই উল্টো দিকে সরে অক্সিজেন ছেড়ে দেয়। বন্ধ বোতলের কোমল পানীয়তে CO₂ তরলের সাথে সাম্যাবস্থায় থাকে; বোতল খুলে চাপ কমালে সাম্যাবস্থা সরে গিয়ে গ্যাসের বুদ্‌বুদ্ বের হয়।
+## example
+প্রশ্ন: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −৯২ kJ বিক্রিয়ায় সাম্যাবস্থায় NH₃-এর পরিমাণের ওপর নিচের পরিবর্তনগুলোর প্রভাব অনুমান করো: (ক) তাপমাত্রা বাড়ানো, (খ) চাপ বাড়ানো, (গ) আরও H₂ যোগ করা, (ঘ) লোহার প্রভাবক যোগ করা।
+সমাধান: (ক) সম্মুখমুখী বিক্রিয়া তাপোৎপাদী, তাই তাপ দিলে তাপহারী পশ্চাৎমুখী বিক্রিয়া সুবিধা পায়: বাঁয়ে সরে। (খ) ৪ মোল গ্যাস → ২ মোল, তাই বেশি চাপ ডান পাশের পক্ষে। (গ) বিক্রিয়ক যোগ করলে ডানে সরে। (ঘ) প্রভাবক সাম্যাবস্থা সরায় না।
+উত্তর: (ক) NH₃ কমে; (খ) NH₃ বাড়ে; (গ) NH₃ বাড়ে; (ঘ) পরিমাণ বদলায় না (দ্রুত সাম্যাবস্থায় পৌঁছায়)।
+## example
+প্রশ্ন: N₂(g) + O₂(g) ⇌ 2NO(g); ΔH = +১৮০ kJ বিক্রিয়ায় (ক) তাপমাত্রা বাড়ালে, (খ) চাপ বাড়ালে কী প্রভাব পড়বে?
+সমাধান: (ক) সম্মুখমুখী বিক্রিয়া তাপহারী, তাই তাপ দিলে ডানে সরে। (খ) গ্যাসের মোল: বাঁয়ে ১ + ১ = ২, ডানে ২: কোনো পরিবর্তন নেই, তাই চাপের প্রভাব নেই।
+উত্তর: (ক) NO বাড়ে; (খ) কোনো প্রভাব নেই।
+## example
+প্রশ্ন: H₂(g) + I₂(g) ⇌ 2HI(g) এবং CaCO₃(s) ⇌ CaO(s) + CO₂(g) বিক্রিয়ায় প্রতি পাশে গ্যাসের মোল গুনে বলো চাপ বাড়ালে প্রতিটির ওপর কী প্রভাব পড়বে।
+সমাধান: H₂ + I₂: বাঁয়ে ২ গ্যাস-মোল, ডানে ২: প্রভাব নেই। CaCO₃: বাঁয়ে ০ গ্যাস-মোল (দুটোই কঠিন), ডানে ১: চাপ বাড়ালে কম গ্যাস-মোলের দিকে, অর্থাৎ বাঁয়ে সরে।
+> চাপের প্রভাব বিচারে শুধু গ্যাসগুলো গোনো।
+উত্তর: HI-এর সাম্যাবস্থায় প্রভাব নেই; CaCO₃-এর সাম্যাবস্থা বাঁয়ে সরে (CO₂ কমে)।
+## mistakes
+x সাম্যাবস্থায় বিক্রিয়া থেমে যায়।
+v দুটি বিক্রিয়াই সমান হারে চলতে থাকে; শুধু ঘনমাত্রা বদলানো বন্ধ হয় (গতিশীল সাম্যাবস্থা)।
+x সাম্যাবস্থায় বিক্রিয়ক ও উৎপাদের পরিমাণ সমান।
+v হার সমান; পরিমাণ অনেক আলাদা হতে পারে।
+x প্রভাবক সাম্যাবস্থায় উৎপাদের পরিমাণ বাড়ায়।
+v প্রভাবক শুধু দ্রুত সাম্যাবস্থায় পৌঁছাতে সাহায্য করে; সাম্যাবস্থা সরায় না।
+x চাপ বাড়ালে সাম্যাবস্থা সবসময় ডানে সরে।
+v এটি কম গ্যাস-মোলের দিকে সরে, আর দুই পাশে মোল সমান হলে কোনো প্রভাব নেই।
+## remember
+- সাম্যাবস্থা: সম্মুখমুখী হার = পশ্চাৎমুখী হার; ঘনমাত্রা স্থির; বিক্রিয়া চলছেই।
+- লা-শাতেলিয়ার: পরিবর্তনের প্রভাব কমাতে ব্যবস্থাটি সরে যায়।
+- তাপ দিলে তাপহারী দিক সুবিধা পায়; ঠান্ডা করলে তাপোৎপাদী দিক।
+- চাপ বাড়ালে কম গ্যাস-মোলের দিক সুবিধা পায়; মোল সমান হলে প্রভাব নেই।
+- বিক্রিয়ক যোগ (বা উৎপাদ অপসারণ) করলে ডানে; উৎপাদ যোগ করলে বাঁয়ে। প্রভাবক সাম্যাবস্থা সরায় না।
+## think
+হেবার প্রণালিতে ৪৫০ °C-এর চেয়ে ২০০ °C-এ বেশি অ্যামোনিয়া পাওয়া যেত। তাহলে কারখানাগুলো প্রায় ৪৫০ °C-এ চালানো হয় কেন?
+## quiz
+? রাসায়নিক সাম্যাবস্থায়:
+- সম্মুখমুখী বিক্রিয়া থেমে যায়
+* সম্মুখমুখী ও পশ্চাৎমুখী বিক্রিয়ার হার সমান
+- বিক্রিয়ক ও উৎপাদের পরিমাণ সবসময় সমান
+- শুধু পশ্চাৎমুখী বিক্রিয়া ঘটে
+= দুটি বিক্রিয়াই একই হারে চলে, তাই ঘনমাত্রা স্থির থাকে।
+? N₂ + 3H₂ ⇌ 2NH₃ + 92 kJ বিক্রিয়ায় তাপমাত্রা বাড়ালে:
+- সাম্যাবস্থা ডানে সরে
+* সাম্যাবস্থা বাঁয়ে সরে
+- কোনো প্রভাব নেই
+- বিক্রিয়া থেমে যায়
+= তাপ দিলে তাপহারী পশ্চাৎমুখী বিক্রিয়া বাড়ে, যা বাড়তি তাপ শোষণ করে।
+? কোন সাম্যাবস্থায় চাপের কোনো প্রভাব নেই?
+- N₂ + 3H₂ ⇌ 2NH₃
+* N₂ + O₂ ⇌ 2NO
+- CaCO₃ ⇌ CaO + CO₂
+- 2SO₂ + O₂ ⇌ 2SO₃
+= দুই পাশেই ২ মোল গ্যাস।
+? সাম্যাবস্থায় থাকা বিক্রিয়ায় প্রভাবক যোগ করলে:
+- উৎপাদের পরিমাণ বাড়ে
+- উৎপাদের পরিমাণ কমে
+* সাম্যাবস্থার পরিমাণ বদলায় না
+- সাম্যাবস্থা বাঁয়ে সরে
+= প্রভাবক দুটি বিক্রিয়াকেই সমানভাবে দ্রুত করে।

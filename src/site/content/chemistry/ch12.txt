@@ -1,0 +1,1063 @@
+@@chapter
+== en
+## intro
+Look around your home for a minute. The salt in the curry, the baking powder that makes a cake rise, the vinegar in a jar of mango achar, the fizzy soft drink, the bar of soap by the tubewell, the washing soda and bleaching powder for clothes, the bottle of toilet cleaner and the spray for window glass: every one of them is a chemical, made or purified by chemistry. Step outside and it is the same story: the urea a farmer spreads on the paddy field, the lime that sweetens sour soil, the ice that keeps hilsa fresh, and, sadly, the coloured waste water flowing out of a factory into a river.
+
+In this chapter you will learn how table salt is collected from the sea, how baking soda and vinegar are made and why they work in the kitchen, how soap and detergent actually lift oily dirt, how bleaching powder removes stains and kills germs, and how ammonia is made in the laboratory and in industry. Finally you will see how chemistry helps agriculture (lime, urea, ammonium sulphate), which chemicals are safe for preserving food and which are not, and how industrial waste pollutes our soil and water. Along the way you will learn to use household chemicals **safely**.
+## objectives
+- explain how table salt is collected from sea water and purified, and state its uses
+- describe how baking soda is prepared, what baking powder is, and how they make cakes and bread rise
+- explain how vinegar is made and how it preserves food; explain what a soft drink is
+- describe the preparation and uses of washing soda
+- explain how toilet cleaner, bleaching powder and glass cleaner work, and use them safely
+- explain what soap and detergent are, how soap is made (saponification) and how they remove oily dirt
+- compare soap and detergent and explain the harm of using them excessively
+- explain why the pH of toiletries matters for our skin
+- describe the laboratory preparation of ammonia and its industrial production by the Haber process
+- explain how lime, urea and ammonium sulphate are used to control soil pH and supply nutrients
+- tell apart safe (recommended) and harmful food preservatives, and explain the dangers of carbide and formalin
+- explain how industrial waste (heavy metals, caustic soda) pollutes the environment and how to reduce it
+== bn
+## intro
+এক মিনিট তোমার বাড়ির চারপাশে তাকাও। তরকারির লবণ, কেক ফোলানোর বেকিং পাউডার, আমের আচারের বয়ামে ভিনেগার, ঝাঁঝালো কোমল পানীয়, টিউবওয়েলের পাশে রাখা সাবান, কাপড় কাচার সোডা আর ব্লিচিং পাউডার, টয়লেট ক্লিনারের বোতল, জানালার কাচ মোছার স্প্রে: এগুলোর প্রত্যেকটিই রাসায়নিক পদার্থ, রসায়নের সাহায্যে তৈরি বা বিশুদ্ধ করা। ঘরের বাইরে গেলেও একই গল্প: কৃষক ধানখেতে যে ইউরিয়া ছিটান, টক মাটিকে ঠিক করতে যে চুন দেওয়া হয়, ইলিশকে টাটকা রাখার বরফ, আর দুঃখজনকভাবে কারখানা থেকে নদীতে গিয়ে পড়া রঙিন বর্জ্য পানি।
+
+এই অধ্যায়ে শিখবে সমুদ্রের পানি থেকে খাদ্য লবণ কীভাবে সংগ্রহ করা হয়, বেকিং সোডা আর ভিনেগার কীভাবে তৈরি হয় এবং রান্নাঘরে কেন কাজ করে, সাবান আর ডিটারজেন্ট আসলে কীভাবে তৈলাক্ত ময়লা তুলে আনে, ব্লিচিং পাউডার কীভাবে দাগ তোলে ও জীবাণু মারে, আর পরীক্ষাগারে ও শিল্পকারখানায় অ্যামোনিয়া কীভাবে তৈরি হয়। শেষে দেখবে কৃষিতে রসায়ন কীভাবে সাহায্য করে (চুন, ইউরিয়া, অ্যামোনিয়াম সালফেট), খাদ্য সংরক্ষণে কোন রাসায়নিক নিরাপদ আর কোনটি নয়, এবং শিল্প বর্জ্য কীভাবে আমাদের মাটি ও পানিকে দূষিত করে। সেই সাথে শিখবে গৃহস্থালি রাসায়নিক **নিরাপদে** ব্যবহারের নিয়ম।
+## objectives
+- সমুদ্রের পানি থেকে খাদ্য লবণ সংগ্রহ ও বিশুদ্ধকরণের পদ্ধতি এবং এর ব্যবহার ব্যাখ্যা করতে পারবে
+- বেকিং সোডা প্রস্তুতি, বেকিং পাউডার কী, এবং এরা কীভাবে কেক ও পাউরুটি ফোলায় তা বর্ণনা করতে পারবে
+- ভিনেগার কীভাবে তৈরি হয় ও কীভাবে খাদ্য সংরক্ষণ করে এবং কোমল পানীয় কী তা ব্যাখ্যা করতে পারবে
+- কাপড় কাচা সোডার প্রস্তুতি ও ব্যবহার বর্ণনা করতে পারবে
+- টয়লেট ক্লিনার, ব্লিচিং পাউডার ও গ্লাস ক্লিনার কীভাবে কাজ করে ব্যাখ্যা করতে এবং নিরাপদে ব্যবহার করতে পারবে
+- সাবান ও ডিটারজেন্ট কী, সাবান কীভাবে তৈরি হয় (সাবানায়ন) এবং এরা কীভাবে তৈলাক্ত ময়লা পরিষ্কার করে ব্যাখ্যা করতে পারবে
+- সাবান ও ডিটারজেন্টের তুলনা করতে এবং এদের অতিরিক্ত ব্যবহারের কুফল ব্যাখ্যা করতে পারবে
+- ত্বকের জন্য প্রসাধনীর pH কেন গুরুত্বপূর্ণ ব্যাখ্যা করতে পারবে
+- পরীক্ষাগারে অ্যামোনিয়া প্রস্তুতি এবং হেবার পদ্ধতিতে শিল্পক্ষেত্রে এর উৎপাদন বর্ণনা করতে পারবে
+- মাটির pH নিয়ন্ত্রণ ও পুষ্টি সরবরাহে চুন, ইউরিয়া ও অ্যামোনিয়াম সালফেটের ব্যবহার ব্যাখ্যা করতে পারবে
+- নিরাপদ (অনুমোদিত) ও ক্ষতিকর খাদ্য সংরক্ষকের পার্থক্য করতে এবং কার্বাইড ও ফরমালিনের বিপদ ব্যাখ্যা করতে পারবে
+- শিল্প বর্জ্য (ভারী ধাতু, কস্টিক সোডা) কীভাবে পরিবেশ দূষিত করে এবং তা কমানোর উপায় ব্যাখ্যা করতে পারবে
+
+@@ 12.1
+@visual k12home
+@related 9.5 9.4 6.3.2 11.6
+== en
+## what
+Many things in our kitchen are simple chemicals: **table salt** is sodium chloride (NaCl) collected from sea water, **baking soda** is sodium hydrogen carbonate (NaHCO₃), **baking powder** is baking soda mixed with a solid acid, and **vinegar** is a 4–10% solution of ethanoic (acetic) acid in water.
+## simple
+**Table salt from the sea.** Sea water tastes salty because a lot of **sodium chloride (NaCl)** is dissolved in it, together with small amounts of other salts such as magnesium chloride (MgCl₂). On average about 3.5 g of salts are dissolved in every 100 g of sea water. Salt is also found underground as a mineral (rock salt), but in Bangladesh we get our salt from the sea.
+
+On the coast of Cox's Bazar and Chattogram (Maheshkhali, Kutubdia, Teknaf, Banshkhali…), salt farmers build low mud walls around square or rectangular plots of flat land and leave a small opening. At high tide, sea water flows in through the opening; the farmers then close it and trap the water. Over the following days the heat of the sun and the wind evaporate the water, and white crystals of salt appear on the ground. This is called **salt harvesting** (সল্ট হারভেস্টিং). It works best in the dry season, when there is plenty of sun and little rain.
+
+The crude salt is mixed with sand and mud, so factories purify it:
+- **dissolve** it in water: the salt dissolves, the sand settles to the bottom;
+- **filter** the salty water to remove the sand and dirt;
+- **evaporate** the clear solution by heating: the water goes off as vapour and clean salt is left behind.
+Then it is packed and sent to shops. (In Bangladesh a tiny amount of an iodine compound is also added, to make **iodised salt**, which protects us from iodine deficiency and goitre.)
+
+Why do we need salt? Our body needs ions such as **Na⁺** and **K⁺** to keep nerves, muscles and body fluids working. If we lose a lot of Na⁺, for example through diarrhoea or heavy sweating, the loss is made up by drinking salt dissolved in water, which is the idea behind **oral saline**.
+
+**Uses of NaCl:** giving taste to food (curry without salt tastes flat!); as the raw material for making **sodium hydroxide (NaOH)** in industry; making **saline** for diarrhoea and dehydration in the medicine industry; and preserving fish and pickles.
+
+**Baking soda and baking powder.** The chemical name of baking soda (খাবার সোডা) is **sodium hydrogen carbonate, NaHCO₃**; it is also called sodium bicarbonate. It is made from salt, ammonia, water and carbon dioxide:
+- First a **saturated solution of NaCl** is made, and **ammonia (NH₃)** gas is bubbled into it until it is saturated with ammonia too.
+- Then **carbon dioxide (CO₂)** is bubbled in. CO₂, NH₃ and water join to form **ammonium hydrogen carbonate**:
+  CO₂ + NH₃ + H₂O → NH₄HCO₃
+- Ammonium hydrogen carbonate reacts with the salt, and baking soda, which does not dissolve much in the cold salty solution, separates out:
+  NH₄HCO₃ + NaCl → NaHCO₃ + NH₄Cl
+
+When the separated baking soda is mixed with a dry solid acid such as **tartaric acid (C₄H₆O₆)**, the mixture is called **baking powder**. As long as it stays dry, nothing happens. When it is mixed into cake batter and heated, the two react and release **carbon dioxide gas**:
+
+2NaHCO₃ + C₄H₆O₆ → C₄H₄Na₂O₆ + 2CO₂ + 2H₂O
+
+The CO₂ forms thousands of tiny bubbles in the batter; heat makes them expand, and the cake **rises** and becomes soft and spongy. The other product is sodium tartrate, which is harmless.
+
+Baking soda can also work alone: when heated it breaks down and gives CO₂ (2NaHCO₃ → Na₂CO₃ + H₂O + CO₂). But then sodium carbonate is left in the food, which tastes bitter and soapy. The acid in baking powder avoids this, which is why cakes use baking powder.
+
+**Yeast does it another way.** Bakers also use **yeast**, a tiny fungus. Yeast is mixed with a little sugar solution and kneaded into the dough, which is kept in a warm place. Yeast breaks down the sugar for energy (respiration) and releases CO₂, which puffs up the bread. When the bread is baked in the oven, the heat kills the yeast and the rising stops.
+
+**Vinegar (সিরকা).** A **4–10% solution of ethanoic acid (acetic acid, CH₃COOH)** in water is called vinegar. It is made by bubbling oxygen (air) through ethanol containing **Acetobacter** bacteria in a steel vessel kept at 25–35 °C. The bacteria's enzymes help ethanol react with oxygen:
+
+CH₃CH₂OH + O₂ → CH₃COOH + H₂O   (Acetobacter)
+
+**How vinegar preserves food.** Pickles (achar) spoil when bacteria grow in them. Ethanoic acid gives H⁺ ions (protons), which make the pickle strongly acidic. Most harmful bacteria cannot grow in such acid: the H⁺ ions damage their proteins and enzymes. So a pickle with enough vinegar stays good for months. Vinegar in food does us no harm.
+
+**Soft drinks.** Soft (carbonated) drinks are made by dissolving **carbon dioxide** in water at **low temperature and high pressure**. Some of the CO₂ reacts with water to form **carbonic acid (H₂CO₃)**, which gives the sharp taste. When you open the bottle, the pressure drops and the gas escapes as bubbles. Many people drink soft drinks "to help digestion", but there is no scientific evidence for this; in fact the sugar and acid are bad for teeth.
+## analogy
+Baking powder is like a pair of friends who only fight when they meet in water. As a dry powder, baking soda and tartaric acid sit side by side quietly for months. Stir them into wet batter and heat it, and they react at once, blowing out CO₂ bubbles that puff the cake up like a balloon.
+## definition
+**Salt harvesting**: collecting salt by trapping sea water in enclosed coastal plots and letting the heat of the sun evaporate the water.
+
+**Baking soda**: sodium hydrogen carbonate (sodium bicarbonate), NaHCO₃.
+
+**Baking powder**: a dry mixture of baking soda and a solid acid (the textbook uses tartaric acid, C₄H₆O₆) which releases carbon dioxide when moistened and heated.
+
+**Vinegar**: a 4–10% aqueous solution of ethanoic acid (acetic acid, CH₃COOH), made by the oxidation of ethanol with the help of Acetobacter bacteria.
+
+**Soft drink (carbonated drink)**: water in which carbon dioxide is dissolved at low temperature and high pressure, forming some carbonic acid (H₂CO₃).
+## why
+Why does baking soda crystallise out in its preparation, when ammonium chloride does not? Sodium hydrogen carbonate is much less soluble in cold, salty water than ammonium chloride, so once enough of it has formed, it can no longer stay dissolved and separates as a solid that can be filtered off.
+
+Why does vinegar stop bacteria? Bacteria can only live within a certain pH range. Their proteins and enzymes are folded into precise shapes, and a high concentration of H⁺ ions upsets those shapes, so the bacteria cannot grow or multiply.
+## terms
+Salt harvesting (সল্ট হারভেস্টিং) | Getting salt by evaporating trapped sea water in the sun
+Iodised salt | Table salt with a small amount of an iodine compound added
+Baking soda (খাবার সোডা) | Sodium hydrogen carbonate, NaHCO₃
+Baking powder | Baking soda + a solid acid (e.g. tartaric acid); releases CO₂
+Yeast | A tiny fungus whose respiration releases CO₂ in dough
+Vinegar (সিরকা) | 4–10% solution of ethanoic acid, CH₃COOH
+Acetobacter | Bacteria that turn ethanol into ethanoic acid
+Carbonic acid | H₂CO₃, formed when CO₂ dissolves in water
+## formula
+$$ CO₂ + NH₃ + H₂O → NH₄HCO₃
+$$ NH₄HCO₃ + NaCl → NaHCO₃ + NH₄Cl
+$$ 2NaHCO₃ + C₄H₆O₆ → C₄H₄Na₂O₆ + 2CO₂ + 2H₂O
+$$ CH₃CH₂OH + O₂ → CH₃COOH + H₂O
+$$ CO₂ + H₂O ⇌ H₂CO₃
+! Molar masses: NaHCO₃ = 84, CO₂ = 44, CH₃COOH = 60 g/mol
+! 2 mol NaHCO₃ give 2 mol CO₂, so 1 mol baking soda gives 1 mol CO₂.
+## visual
+Explore the three tabs: follow sea water step by step to clean salt, bake a cake with baking powder, baking soda or yeast, and place household substances on the pH scale.
+## real
+Almost all of Bangladesh's salt comes from the salt fields of Cox's Bazar district and nearby coasts, where thousands of families work during the dry season. Bakeries in every town use baking powder for cakes and yeast for pauruti (bread). Homemade mango and olive (jolpai) achar is preserved with vinegar, salt and mustard oil. When a child has diarrhoea, doctors advise oral saline, whose main ingredient is sodium chloride.
+## example
+Q: A cake mix contains 4.2 g of baking soda and enough tartaric acid. What mass of CO₂ is released, and what volume would it occupy at STP? (Na = 23, H = 1, C = 12, O = 16)
+Given: M(NaHCO₃) = 23 + 1 + 12 + 48 = 84 g/mol; M(CO₂) = 44 g/mol; molar volume at STP = 22.4 L
+Formula: 2NaHCO₃ + C₄H₆O₆ → C₄H₄Na₂O₆ + 2CO₂ + 2H₂O
+Calculation: moles of NaHCO₃ = 4.2 ÷ 84 = 0.05 mol; moles of CO₂ = 0.05 mol; mass = 0.05 × 44 = 2.2 g; volume = 0.05 × 22.4 = 1.12 L
+> 2 NaHCO₃ give 2 CO₂, so the mole ratio is 1 : 1.
+Answer: 2.2 g of CO₂, about 1.12 L at STP: that is why a small spoon of baking powder can puff up a whole cake.
+## example
+Q: A bottle holds 500 mL of vinegar containing 5 g of ethanoic acid in every 100 mL. How many grams and how many moles of ethanoic acid does it contain?
+Given: 5 g per 100 mL; V = 500 mL; M(CH₃COOH) = 24 + 4 + 32 = 60 g/mol
+Calculation: mass = 5 × (500 ÷ 100) = 25 g; moles = 25 ÷ 60 ≈ 0.42 mol
+Answer: 25 g, about 0.42 mol of ethanoic acid.
+## example
+Q: A salt farmer traps 2000 kg of sea water that contains 3.5% dissolved salts. If all the water evaporates, about how much crude salt is left?
+Given: mass of sea water = 2000 kg; salts = 3.5%
+Calculation: salt = 2000 × 3.5 ÷ 100 = 70 kg
+> This crude salt is mostly NaCl, with some MgCl₂ and other salts, plus sand; it must still be purified.
+Answer: about 70 kg of crude salt.
+## mistakes
+x Baking soda and baking powder are the same thing.
+v Baking soda is pure NaHCO₃. Baking powder is baking soda mixed with a solid acid such as tartaric acid.
+x Vinegar is pure acetic acid.
+v Vinegar is a dilute solution: only about 4–10% ethanoic acid; the rest is water.
+x A cake rises because the flour swells in the heat.
+v It rises because bubbles of CO₂ gas (from baking powder or yeast) form and expand inside the batter.
+x Soft drinks are proven to help digestion.
+v There is no scientific evidence for this; their sugar and acid can harm teeth.
+## remember
+- Salt harvesting: trap sea water → sun evaporates it → crude salt → dissolve, filter, evaporate → pure salt.
+- Uses of NaCl: taste, making NaOH, saline, preserving food.
+- Baking soda = NaHCO₃; baking powder = NaHCO₃ + tartaric acid; they release CO₂ that makes cakes rise.
+- Vinegar = 4–10% CH₃COOH, made from ethanol by Acetobacter; its H⁺ ions stop bacteria.
+- Soft drink = CO₂ dissolved in water under pressure → H₂CO₃.
+## think
+Why is it better to store baking powder in a tightly closed dry container? What would happen to it in a damp kitchen during the monsoon?
+## quiz
+? The chemical formula of baking soda is:
+- Na₂CO₃
+* NaHCO₃
+- NaCl
+- Na₂CO₃·10H₂O
+= Baking soda is sodium hydrogen carbonate, NaHCO₃. Na₂CO₃·10H₂O is washing soda.
+? Which gas makes a cake rise when baking powder is heated?
+- Oxygen
+- Hydrogen
+* Carbon dioxide
+- Ammonia
+= NaHCO₃ reacts with tartaric acid to release CO₂, whose bubbles expand in the heat.
+? Vinegar is made from ethanol with the help of:
+- Yeast
+* Acetobacter bacteria
+- An iron catalyst
+- Sodium chloride
+= Acetobacter bacteria help ethanol react with oxygen to form ethanoic acid.
+? In purifying crude salt, sand is removed by:
+- Evaporation
+* Dissolving in water and filtering
+- Heating strongly
+- Adding vinegar
+= Salt dissolves but sand does not, so filtration removes the sand; evaporation then gives clean salt.
+== bn
+## what
+রান্নাঘরের অনেক জিনিসই সরল রাসায়নিক পদার্থ: **খাদ্য লবণ** হলো সমুদ্রের পানি থেকে পাওয়া সোডিয়াম ক্লোরাইড (NaCl), **বেকিং সোডা** হলো সোডিয়াম হাইড্রোজেন কার্বনেট (NaHCO₃), **বেকিং পাউডার** হলো বেকিং সোডার সাথে একটি কঠিন এসিডের মিশ্রণ, আর **ভিনেগার** হলো পানিতে ইথানয়িক (অ্যাসিটিক) এসিডের ৪–১০% দ্রবণ।
+## simple
+**সমুদ্র থেকে খাদ্য লবণ।** সমুদ্রের পানি লোনা লাগে কারণ এতে প্রচুর **সোডিয়াম ক্লোরাইড (NaCl)** দ্রবীভূত থাকে, সাথে অল্প পরিমাণে ম্যাগনেসিয়াম ক্লোরাইডের (MgCl₂) মতো অন্য লবণও থাকে। গড়ে প্রতি ১০০ g সমুদ্রের পানিতে প্রায় ৩.৫ g লবণ দ্রবীভূত থাকে। মাটির নিচে খনিজ হিসেবেও (শিলা লবণ) লবণ পাওয়া যায়, তবে বাংলাদেশে আমরা লবণ পাই সমুদ্র থেকে।
+
+কক্সবাজার ও চট্টগ্রামের উপকূলে (মহেশখালী, কুতুবদিয়া, টেকনাফ, বাঁশখালী…) লবণ চাষিরা সমতল জমির বর্গাকার বা আয়তাকার খণ্ডের চারপাশে নিচু মাটির বাঁধ দেন এবং একটু জায়গা খোলা রাখেন। জোয়ারের সময় সেই খোলা মুখ দিয়ে সমুদ্রের পানি ঢোকে; তখন মুখটি বন্ধ করে পানি আটকে দেওয়া হয়। পরের কয়েক দিনে রোদের তাপ আর বাতাসে পানি বাষ্প হয়ে উড়ে যায়, আর মাটিতে সাদা লবণের দানা দেখা দেয়। একে বলে **সল্ট হারভেস্টিং**। শুকনো মৌসুমে, যখন রোদ বেশি আর বৃষ্টি কম, তখন এটা সবচেয়ে ভালো হয়।
+
+এই অপরিশোধিত লবণে বালু-কাদা মেশানো থাকে, তাই কারখানায় একে বিশুদ্ধ করা হয়:
+- পানিতে **দ্রবীভূত** করা হয়: লবণ গলে যায়, বালু নিচে থিতিয়ে পড়ে;
+- লবণ-পানি **ছেঁকে** বালু ও ময়লা আলাদা করা হয়;
+- স্বচ্ছ দ্রবণটি তাপ দিয়ে **বাষ্পীভূত** করা হয়: পানি বাষ্প হয়ে চলে যায়, পরিষ্কার লবণ পড়ে থাকে।
+তারপর প্যাকেট করে দোকানে পাঠানো হয়। (বাংলাদেশে এর সাথে সামান্য আয়োডিন যৌগ মিশিয়ে **আয়োডিনযুক্ত লবণ** বানানো হয়, যা আয়োডিনের অভাব ও গলগণ্ড রোগ থেকে আমাদের রক্ষা করে।)
+
+লবণ আমাদের কেন দরকার? স্নায়ু, পেশি আর দেহতরল ঠিকমতো চালাতে শরীরের **Na⁺**, **K⁺** ইত্যাদি আয়ন লাগে। ডায়রিয়া বা খুব বেশি ঘামের কারণে শরীর থেকে বেশি Na⁺ বেরিয়ে গেলে পানিতে লবণ গুলে খেলে সেই ঘাটতি পূরণ হয়; **খাবার স্যালাইনের** ধারণাটা এটাই।
+
+**NaCl-এর ব্যবহার:** খাবারে স্বাদ আনা (লবণ ছাড়া তরকারি একদম পানসে!); শিল্পকারখানায় **সোডিয়াম হাইড্রোক্সাইড (NaOH)** তৈরির কাঁচামাল; ওষুধ শিল্পে ডায়রিয়া ও পানিশূন্যতার জন্য **স্যালাইন** তৈরি; আর মাছ ও আচার সংরক্ষণ।
+
+**বেকিং সোডা ও বেকিং পাউডার।** বেকিং সোডা বা খাবার সোডার রাসায়নিক নাম **সোডিয়াম হাইড্রোজেন কার্বনেট, NaHCO₃**; একে সোডিয়াম বাই-কার্বনেটও বলে। এটি তৈরি হয় লবণ, অ্যামোনিয়া, পানি আর কার্বন ডাই-অক্সাইড থেকে:
+- প্রথমে **NaCl-এর সম্পৃক্ত দ্রবণ** বানানো হয়, তারপর এতে **অ্যামোনিয়া (NH₃)** গ্যাস চালনা করে দ্রবণটিকে অ্যামোনিয়া দিয়েও সম্পৃক্ত করা হয়।
+- এবার **কার্বন ডাই-অক্সাইড (CO₂)** চালনা করা হয়। CO₂, NH₃ আর পানি একত্র হয়ে তৈরি করে **অ্যামোনিয়াম হাইড্রোজেন কার্বনেট**:
+  CO₂ + NH₃ + H₂O → NH₄HCO₃
+- অ্যামোনিয়াম হাইড্রোজেন কার্বনেট লবণের সাথে বিক্রিয়া করে, আর ঠান্ডা লোনা দ্রবণে কম দ্রবণীয় বলে বেকিং সোডা কঠিন হিসেবে আলাদা হয়ে যায়:
+  NH₄HCO₃ + NaCl → NaHCO₃ + NH₄Cl
+
+আলাদা করা বেকিং সোডার সাথে **টারটারিক এসিডের (C₄H₆O₆)** মতো শুকনো কঠিন এসিড মেশালে সেই মিশ্রণকে বলে **বেকিং পাউডার**। যতক্ষণ শুকনো থাকে, কিছুই হয় না। কেকের মিশ্রণে মিশিয়ে তাপ দিলে দুটি বিক্রিয়া করে **কার্বন ডাই-অক্সাইড গ্যাস** ছাড়ে:
+
+2NaHCO₃ + C₄H₆O₆ → C₄H₄Na₂O₆ + 2CO₂ + 2H₂O
+
+CO₂ মিশ্রণের ভেতর হাজার হাজার ছোট বুদবুদ তৈরি করে; তাপে সেগুলো ফুলে ওঠে, আর কেক **ফুলে** নরম ও স্পঞ্জের মতো হয়। অন্য উৎপাদটি সোডিয়াম টারটারেট, যা ক্ষতিকর নয়।
+
+শুধু বেকিং সোডাও কাজ করতে পারে: তাপ দিলে এটি ভেঙে CO₂ দেয় (2NaHCO₃ → Na₂CO₃ + H₂O + CO₂)। কিন্তু তখন খাবারে সোডিয়াম কার্বনেট থেকে যায়, যার স্বাদ তেতো আর সাবানের মতো। বেকিং পাউডারের এসিড এই সমস্যা দূর করে, তাই কেকে বেকিং পাউডার দেওয়া হয়।
+
+**ইস্ট অন্যভাবে কাজ করে।** বেকারিতে **ইস্ট** নামে এক ধরনের ক্ষুদ্র ছত্রাকও ব্যবহার করা হয়। ইস্টকে অল্প চিনির দ্রবণে মিশিয়ে ময়দা মাখানো হয় এবং দলাটি উষ্ণ জায়গায় রাখা হয়। ইস্ট শক্তির জন্য চিনি ভাঙে (শ্বসন) এবং CO₂ ছাড়ে, যা পাউরুটি ফুলিয়ে তোলে। ওভেনে বেক করার সময় তাপে ইস্ট মারা যায়, তখন ফোলা বন্ধ হয়।
+
+**সিরকা বা ভিনেগার।** পানিতে **ইথানয়িক এসিডের (অ্যাসিটিক এসিড, CH₃COOH) ৪–১০% দ্রবণকে** ভিনেগার বলে। ২৫–৩৫ °C তাপমাত্রায় রাখা একটি স্টিলের পাত্রে **অ্যাসিটোব্যাকটর** ব্যাকটেরিয়াযুক্ত ইথানলের মধ্যে অক্সিজেন (বাতাস) চালনা করে এটি তৈরি করা হয়। ব্যাকটেরিয়ার এনজাইম ইথানলকে অক্সিজেনের সাথে বিক্রিয়া করতে সাহায্য করে:
+
+CH₃CH₂OH + O₂ → CH₃COOH + H₂O   (অ্যাসিটোব্যাকটর)
+
+**ভিনেগার কীভাবে খাদ্য সংরক্ষণ করে।** আচারে ব্যাকটেরিয়া জন্মালে আচার পচে যায়। ইথানয়িক এসিড H⁺ আয়ন (প্রোটন) দেয়, যা আচারকে বেশ এসিডীয় করে তোলে। এমন এসিডে বেশিরভাগ ক্ষতিকর ব্যাকটেরিয়া জন্মাতে পারে না: H⁺ আয়ন তাদের প্রোটিন ও এনজাইম নষ্ট করে দেয়। তাই যথেষ্ট ভিনেগার দেওয়া আচার মাসের পর মাস ভালো থাকে। খাবারের সাথে ভিনেগার আমাদের কোনো ক্ষতি করে না।
+
+**কোমল পানীয়।** **ঠান্ডা অবস্থায় ও উচ্চ চাপে** পানিতে **কার্বন ডাই-অক্সাইড** দ্রবীভূত করে কোমল পানীয় তৈরি করা হয়। কিছু CO₂ পানির সাথে বিক্রিয়া করে **কার্বনিক এসিড (H₂CO₃)** তৈরি করে, যা ঝাঁঝালো স্বাদ দেয়। বোতল খুললে চাপ কমে যায়, আর গ্যাস বুদবুদ হয়ে বেরিয়ে আসে। অনেকে "হজমের জন্য" কোমল পানীয় খান, কিন্তু এর কোনো বৈজ্ঞানিক ভিত্তি নেই; বরং এর চিনি আর এসিড দাঁতের ক্ষতি করে।
+## analogy
+বেকিং পাউডার যেন এমন দুই বন্ধু, যারা শুধু পানিতে দেখা হলেই ঝগড়া করে। শুকনো গুঁড়ায় বেকিং সোডা আর টারটারিক এসিড মাসের পর মাস চুপচাপ পাশাপাশি থাকে। ভেজা কেকের মিশ্রণে মিশিয়ে তাপ দিলেই তারা সাথে সাথে বিক্রিয়া করে CO₂ বুদবুদ ছাড়ে, যা কেককে বেলুনের মতো ফুলিয়ে তোলে।
+## definition
+**সল্ট হারভেস্টিং**: উপকূলের ঘেরা জমিতে সমুদ্রের পানি আটকে রেখে রোদের তাপে পানি বাষ্পীভূত করে লবণ সংগ্রহের পদ্ধতি।
+
+**বেকিং সোডা**: সোডিয়াম হাইড্রোজেন কার্বনেট (সোডিয়াম বাই-কার্বনেট), NaHCO₃।
+
+**বেকিং পাউডার**: বেকিং সোডা ও একটি কঠিন এসিডের (পাঠ্যবইয়ে টারটারিক এসিড, C₄H₆O₆) শুকনো মিশ্রণ, যা ভেজা অবস্থায় তাপ পেলে কার্বন ডাই-অক্সাইড ছাড়ে।
+
+**ভিনেগার**: ইথানয়িক এসিডের (অ্যাসিটিক এসিড, CH₃COOH) ৪–১০% জলীয় দ্রবণ, যা অ্যাসিটোব্যাকটর ব্যাকটেরিয়ার সাহায্যে ইথানলের জারণে তৈরি হয়।
+
+**কোমল পানীয়**: নিম্ন তাপমাত্রা ও উচ্চ চাপে কার্বন ডাই-অক্সাইড দ্রবীভূত পানি, যাতে কিছু কার্বনিক এসিড (H₂CO₃) তৈরি হয়।
+## why
+বেকিং সোডা প্রস্তুতির সময় অ্যামোনিয়াম ক্লোরাইড নয়, বেকিং সোডাই কেন কেলাস হয়ে আলাদা হয়? ঠান্ডা লোনা পানিতে সোডিয়াম হাইড্রোজেন কার্বনেট অ্যামোনিয়াম ক্লোরাইডের চেয়ে অনেক কম দ্রবণীয়। তাই যথেষ্ট পরিমাণে তৈরি হলে এটি আর দ্রবীভূত থাকতে পারে না, কঠিন হয়ে আলাদা হয়ে যায় এবং ছেঁকে নেওয়া যায়।
+
+ভিনেগার ব্যাকটেরিয়া থামায় কেন? ব্যাকটেরিয়া শুধু নির্দিষ্ট pH সীমার মধ্যে বাঁচতে পারে। এদের প্রোটিন আর এনজাইম নির্দিষ্ট আকৃতিতে ভাঁজ করা থাকে; H⁺ আয়নের উচ্চ ঘনমাত্রা সেই আকৃতি নষ্ট করে দেয়, ফলে ব্যাকটেরিয়া বাড়তে বা বংশবৃদ্ধি করতে পারে না।
+## terms
+সল্ট হারভেস্টিং | আটকানো সমুদ্রের পানি রোদে বাষ্পীভূত করে লবণ সংগ্রহ
+আয়োডিনযুক্ত লবণ | সামান্য আয়োডিন যৌগ মেশানো খাদ্য লবণ
+বেকিং সোডা (খাবার সোডা) | সোডিয়াম হাইড্রোজেন কার্বনেট, NaHCO₃
+বেকিং পাউডার | বেকিং সোডা + কঠিন এসিড (যেমন টারটারিক এসিড); CO₂ ছাড়ে
+ইস্ট | ক্ষুদ্র ছত্রাক, যার শ্বসনে ময়দার দলায় CO₂ তৈরি হয়
+সিরকা (ভিনেগার) | ইথানয়িক এসিডের ৪–১০% দ্রবণ, CH₃COOH
+অ্যাসিটোব্যাকটর | যে ব্যাকটেরিয়া ইথানলকে ইথানয়িক এসিডে পরিণত করে
+কার্বনিক এসিড | H₂CO₃, পানিতে CO₂ দ্রবীভূত হলে তৈরি হয়
+## formula
+$$ CO₂ + NH₃ + H₂O → NH₄HCO₃
+$$ NH₄HCO₃ + NaCl → NaHCO₃ + NH₄Cl
+$$ 2NaHCO₃ + C₄H₆O₆ → C₄H₄Na₂O₆ + 2CO₂ + 2H₂O
+$$ CH₃CH₂OH + O₂ → CH₃COOH + H₂O
+$$ CO₂ + H₂O ⇌ H₂CO₃
+! মোলার ভর: NaHCO₃ = ৮৪, CO₂ = ৪৪, CH₃COOH = ৬০ g/mol
+! ২ mol NaHCO₃ থেকে ২ mol CO₂, অর্থাৎ ১ mol বেকিং সোডা থেকে ১ mol CO₂।
+## visual
+তিনটি ট্যাব ঘুরে দেখো: ধাপে ধাপে সমুদ্রের পানি থেকে পরিষ্কার লবণ বানাও, বেকিং পাউডার, বেকিং সোডা বা ইস্ট দিয়ে কেক বানাও, আর গৃহস্থালি পদার্থগুলোকে pH স্কেলে বসাও।
+## real
+বাংলাদেশের প্রায় সব লবণ আসে কক্সবাজার জেলা ও আশপাশের উপকূলের লবণমাঠ থেকে, যেখানে শুকনো মৌসুমে হাজারো পরিবার কাজ করে। প্রতিটি শহরের বেকারিতে কেকের জন্য বেকিং পাউডার আর পাউরুটির জন্য ইস্ট ব্যবহার করা হয়। বাড়িতে বানানো আম আর জলপাইয়ের আচার ভিনেগার, লবণ আর সরিষার তেল দিয়ে সংরক্ষণ করা হয়। শিশুর ডায়রিয়া হলে ডাক্তার খাবার স্যালাইন খেতে বলেন, যার প্রধান উপাদান সোডিয়াম ক্লোরাইড।
+## example
+প্রশ্ন: একটি কেকের মিশ্রণে ৪.২ g বেকিং সোডা ও যথেষ্ট টারটারিক এসিড আছে। কত গ্রাম CO₂ বের হবে এবং STP-তে এর আয়তন কত? (Na = ২৩, H = ১, C = ১২, O = ১৬)
+দেওয়া আছে: M(NaHCO₃) = ২৩ + ১ + ১২ + ৪৮ = ৮৪ g/mol; M(CO₂) = ৪৪ g/mol; STP-তে মোলার আয়তন = ২২.৪ L
+সূত্র: 2NaHCO₃ + C₄H₆O₆ → C₄H₄Na₂O₆ + 2CO₂ + 2H₂O
+হিসাব: NaHCO₃-এর মোল = ৪.২ ÷ ৮৪ = ০.০৫ mol; CO₂-এর মোল = ০.০৫ mol; ভর = ০.০৫ × ৪৪ = ২.২ g; আয়তন = ০.০৫ × ২২.৪ = ১.১২ L
+> ২টি NaHCO₃ থেকে ২টি CO₂, তাই মোল অনুপাত ১ : ১।
+উত্তর: ২.২ g CO₂, STP-তে প্রায় ১.১২ L: এজন্যই এক ছোট চামচ বেকিং পাউডার পুরো কেক ফুলিয়ে দিতে পারে।
+## example
+প্রশ্ন: একটি বোতলে ৫০০ mL ভিনেগার আছে, যার প্রতি ১০০ mL-এ ৫ g ইথানয়িক এসিড। এতে কত গ্রাম এবং কত মোল ইথানয়িক এসিড আছে?
+দেওয়া আছে: প্রতি ১০০ mL-এ ৫ g; V = ৫০০ mL; M(CH₃COOH) = ২৪ + ৪ + ৩২ = ৬০ g/mol
+হিসাব: ভর = ৫ × (৫০০ ÷ ১০০) = ২৫ g; মোল = ২৫ ÷ ৬০ ≈ ০.৪২ mol
+উত্তর: ২৫ g, প্রায় ০.৪২ mol ইথানয়িক এসিড।
+## example
+প্রশ্ন: একজন লবণ চাষি ২০০০ kg সমুদ্রের পানি আটকালেন, যাতে ৩.৫% লবণ দ্রবীভূত আছে। সব পানি বাষ্প হয়ে গেলে আনুমানিক কত অপরিশোধিত লবণ থাকবে?
+দেওয়া আছে: সমুদ্রের পানির ভর = ২০০০ kg; লবণ = ৩.৫%
+হিসাব: লবণ = ২০০০ × ৩.৫ ÷ ১০০ = ৭০ kg
+> এই অপরিশোধিত লবণের বেশিরভাগই NaCl, সাথে কিছু MgCl₂, অন্যান্য লবণ আর বালু; একে আরও বিশুদ্ধ করতে হয়।
+উত্তর: প্রায় ৭০ kg অপরিশোধিত লবণ।
+## mistakes
+x বেকিং সোডা আর বেকিং পাউডার একই জিনিস।
+v বেকিং সোডা হলো বিশুদ্ধ NaHCO₃। বেকিং পাউডার হলো বেকিং সোডার সাথে টারটারিক এসিডের মতো কঠিন এসিডের মিশ্রণ।
+x ভিনেগার হলো বিশুদ্ধ অ্যাসিটিক এসিড।
+v ভিনেগার লঘু দ্রবণ: মাত্র ৪–১০% ইথানয়িক এসিড; বাকিটা পানি।
+x তাপে ময়দা ফুলে যায় বলেই কেক ফোলে।
+v কেক ফোলে কারণ মিশ্রণের ভেতরে CO₂ গ্যাসের বুদবুদ (বেকিং পাউডার বা ইস্ট থেকে) তৈরি হয়ে ফুলে ওঠে।
+x কোমল পানীয় হজমে সাহায্য করে, এটা প্রমাণিত।
+v এর কোনো বৈজ্ঞানিক প্রমাণ নেই; বরং এর চিনি ও এসিড দাঁতের ক্ষতি করতে পারে।
+## remember
+- সল্ট হারভেস্টিং: সমুদ্রের পানি আটকানো → রোদে বাষ্পীভবন → অপরিশোধিত লবণ → দ্রবীভূত, ছাঁকা, বাষ্পীভূত → বিশুদ্ধ লবণ।
+- NaCl-এর ব্যবহার: স্বাদ, NaOH তৈরি, স্যালাইন, খাদ্য সংরক্ষণ।
+- বেকিং সোডা = NaHCO₃; বেকিং পাউডার = NaHCO₃ + টারটারিক এসিড; এরা CO₂ ছাড়ে যা কেক ফোলায়।
+- ভিনেগার = ৪–১০% CH₃COOH, অ্যাসিটোব্যাকটরের সাহায্যে ইথানল থেকে তৈরি; এর H⁺ আয়ন ব্যাকটেরিয়া থামায়।
+- কোমল পানীয় = চাপে পানিতে দ্রবীভূত CO₂ → H₂CO₃।
+## think
+বেকিং পাউডার শক্ত করে বন্ধ শুকনো কৌটায় রাখা ভালো কেন? বর্ষাকালে স্যাঁতসেঁতে রান্নাঘরে খোলা রাখলে এর কী হবে?
+## quiz
+? বেকিং সোডার রাসায়নিক সংকেত:
+- Na₂CO₃
+* NaHCO₃
+- NaCl
+- Na₂CO₃·10H₂O
+= বেকিং সোডা হলো সোডিয়াম হাইড্রোজেন কার্বনেট, NaHCO₃। Na₂CO₃·10H₂O হলো কাপড় কাচা সোডা।
+? বেকিং পাউডারে তাপ দিলে কোন গ্যাস কেক ফোলায়?
+- অক্সিজেন
+- হাইড্রোজেন
+* কার্বন ডাই-অক্সাইড
+- অ্যামোনিয়া
+= NaHCO₃ টারটারিক এসিডের সাথে বিক্রিয়া করে CO₂ ছাড়ে, যার বুদবুদ তাপে ফুলে ওঠে।
+? ইথানল থেকে ভিনেগার তৈরি হয় কার সাহায্যে?
+- ইস্ট
+* অ্যাসিটোব্যাকটর ব্যাকটেরিয়া
+- লোহা প্রভাবক
+- সোডিয়াম ক্লোরাইড
+= অ্যাসিটোব্যাকটর ব্যাকটেরিয়া ইথানলকে অক্সিজেনের সাথে বিক্রিয়া করিয়ে ইথানয়িক এসিড তৈরি করে।
+? অপরিশোধিত লবণ বিশুদ্ধ করার সময় বালু দূর করা হয়:
+- বাষ্পীভবন করে
+* পানিতে দ্রবীভূত করে ছেঁকে
+- জোরে তাপ দিয়ে
+- ভিনেগার মিশিয়ে
+= লবণ গলে যায় কিন্তু বালু গলে না, তাই ছাঁকলে বালু আলাদা হয়; পরে বাষ্পীভবনে পরিষ্কার লবণ পাওয়া যায়।
+
+@@ 12.2
+@visual k12clean
+@related 9.7 9.2 7.5.1 11.5
+== en
+## what
+Cleaning products are chemicals chosen for a job: **washing soda** (Na₂CO₃·10H₂O) and **soap** or **detergent** remove oily dirt, **bleaching powder** (Ca(OCl)Cl) and **toilet cleaner** remove stains and kill germs, and **glass cleaner** (ammonia solution + isopropyl alcohol) cleans glass. Ammonia itself is made in the laboratory from ammonium chloride and in industry by the **Haber process**.
+## simple
+**Washing soda.** Sodium carbonate, Na₂CO₃, is called **soda ash**. When one unit of soda ash combines chemically with 10 molecules of water, we get **washing soda** (কাপড় কাচা সোডা), **sodium carbonate decahydrate, Na₂CO₃·10H₂O**. To make it, plenty of CO₂ is passed through sodium hydroxide solution:
+
+2NaOH + CO₂ → Na₂CO₃ + H₂O
+
+and the sodium carbonate then crystallises with water: Na₂CO₃ + 10H₂O → Na₂CO₃·10H₂O. Washing soda is used to wash clothes: its solution is alkaline and helps loosen grease, and it also softens hard water.
+
+**Toilet cleaner.** Toilets, basins and commodes collect grease, protein matter, coloured stains (pigments), hard-water scale and germs. Toilet cleaners come in **two different kinds**, and it is important to know which is which:
+- **Acid-type cleaners** contain dilute **hydrochloric acid (HCl)**. The acid dissolves yellow hard-water scale and rust stains, and the very low pH kills germs.
+- **Bleach-type cleaners** contain **sodium hypochlorite (NaOCl)** with a little **sodium hydroxide (NaOH)**. The alkaline NaOH attacks grease and protein dirt, while NaOCl reacts with water to form hypochlorous acid (HOCl):
+  NaOCl + H₂O → NaOH + HOCl
+  HOCl → HCl + [O]
+  The **nascent oxygen [O]** (a freshly formed, very reactive oxygen atom that has not yet paired up into O₂) oxidises coloured substances into colourless ones and kills germs.
+
+(Your textbook describes HCl and NaOCl together as the ingredients of toilet cleaner. In real products these two are **never in the same bottle**, precisely because they react dangerously with each other.)
+
+**⚠ Safety warning:** never mix an acid toilet cleaner with bleach, bleaching powder or a bleach-type cleaner, and never mix bleach with ammonia or glass cleaner. Such mixtures give off poisonous gases. Use one product at a time, rinse well, and keep the room ventilated.
+
+**Soap.** Soap is the **sodium salt (R–COONa)** or **potassium salt (R–COOK)** of a **higher fatty acid**. R is a long alkyl group (CₙH₂ₙ₊₁); soap molecules come from fatty acids with about 12 to 18 carbon atoms. Example: **sodium stearate, C₁₇H₃₅COONa**, and potassium stearate, C₁₇H₃₅COOK.
+
+Oils and fats are **esters** (triesters) of glycerine with higher fatty acids: if the triester is liquid at room temperature it is an **oil**, if solid it is a **fat**. Fatty acids can be **saturated** (only C–C single bonds, e.g. stearic acid from animal fat) or **unsaturated** (with C=C double bonds, e.g. oleic acid from olive oil).
+
+**Making soap: saponification.** When an oil or fat is heated with **NaOH** (or KOH), it is broken into **soap** and **glycerine**. This reaction is called **saponification** (সাবানায়ন):
+
+(C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃
+fat (glyceryl tristearate) + caustic soda → soap (sodium stearate) + glycerine
+
+Then **common salt (NaCl)** is added. Soap is much less soluble in salty water, so it separates and floats up as a solid layer, the **soap cake**, while glycerine stays in the solution below. This is called **salting out**. The soap cake is strained off, and colour, scent or antibacterial substances may be added before it is poured into moulds.
+
+Oil (or fat) and alkali must be taken in the **right proportion** so that they react completely. Too much oil left over makes the soap greasy and poor at making lather; too much leftover alkali makes it harsh and harmful to the skin.
+- **Toilet soap** (প্রসাধনী সাবান), for the skin: less free alkali, with scent and sometimes antibacterial substances.
+- **Laundry soap** (লন্ড্রি সাবান), for clothes: more alkali and other impurities, no scent.
+
+**Detergent.** Detergent is also a cleaning agent, sold as powder or liquid. A common example is **sodium lauryl sulphate**. Lauryl alcohol reacts with sulphuric acid to form lauryl hydrogen sulphate, which is then neutralised with NaOH:
+
+C₁₂H₂₅OH + H₂SO₄ → C₁₂H₂₅OSO₃H + H₂O
+C₁₂H₂₅OSO₃H + NaOH → C₁₂H₂₅OSO₃Na + H₂O
+
+(The book writes lauryl alcohol as C₁₂H₂₆O and the product as C₁₂H₂₅SO₄Na: same atoms, written differently.) Many washing powders use a related compound, the sodium salt of a long-chain **alkylbenzene sulphonic acid**. Sodium sulphate (Na₂SO₄) is added to give a free-flowing powder.
+
+**How soap and detergent remove dirt.** Oily substances from our skin (and from the air) stick to clothes, and dust sticks to the oil to make dirt. Water alone cannot remove oil, because oil and water do not mix. In water, a soap or detergent dissolves into ions: a long **negative ion** (R–COO⁻ or C₁₂H₂₅OSO₃⁻) and Na⁺. Each long ion has two very different ends:
+- a charged **head** that is attracted to water: **hydrophilic** (পানি আকর্ষী);
+- a long hydrocarbon **tail** that dissolves in oil and grease: **hydrophobic** (পানি বিকর্ষী).
+
+When soapy water meets an oily stain, the tails push into the oil while the heads stay out in the water. Rubbing or twisting the cloth breaks the oil into small droplets, each completely surrounded by soap ions with their negative heads facing outward (a **micelle**). Because all the droplets carry negative charges on the outside, they repel one another and stay spread through the water instead of joining up again. This oil-soap-water mixture (the textbook calls it ফেনা or "scum") is then rinsed away with more water, carrying the oil and dust with it.
+
+**Soap vs detergent.**
+- Soap: sodium or potassium salt of a long-chain fatty acid. Detergent: sodium salt of a long-chain sulphonic acid or alkyl hydrogen sulphate.
+- Soap does not work well in **hard water**: Ca²⁺ and Mg²⁺ ions form an insoluble sticky curd with it (2C₁₇H₃₅COONa + Ca²⁺ → (C₁₇H₃₅COO)₂Ca↓ + 2Na⁺), wasting soap and leaving a grey film. Detergent works well in hard water too, because its calcium and magnesium salts are soluble.
+- Detergent has **greater cleaning power** than soap.
+
+**Harm from using too much.** Soap contains some alkali, glycerine, oil and fat. Using a lot of soap lets the alkali damage the skin of the hands. Washing clothes in ponds and rivers adds soapy waste that uses up the **dissolved oxygen** in the water, so fish and water plants may die. Many detergents contain **phosphates** (the book names trisodium phosphate, Na₃PO₄), which act as fertiliser for algae and water plants. These grow too fast; when they die and rot, the dissolved oxygen is used up and fish die from lack of oxygen. So excess detergent pollutes water bodies.
+
+**pH of toiletries.** Healthy skin is slightly acidic, with a pH of about **4.8 to 5.5**. This acidity helps stop germs from growing on the skin. A toiletry (soap, cream, shampoo) with a pH much higher than this reduces the skin's natural acidity, making it dry and more open to germs. So toiletries should be suited to the skin's pH. (Ordinary soap is alkaline, about pH 9–10, which is why gentle, skin-friendly cleansers are made closer to the skin's pH.)
+
+**Bleaching powder.** The chemical name of bleaching powder is **calcium chloride hypochlorite, Ca(OCl)Cl** (the book calls it calcium oxychloro chloride). It removes stains such as ball-pen ink that soap cannot, and it disinfects floors, commodes and basins. It is made by passing **chlorine gas over slaked lime** at about 40 °C:
+
+Ca(OH)₂ + Cl₂ → Ca(OCl)Cl + H₂O
+
+With water it forms hypochlorous acid, which gives nascent oxygen:
+
+2Ca(OCl)Cl + 2H₂O → CaCl₂ + Ca(OH)₂ + 2HOCl
+HOCl → HCl + [O]
+coloured substance + [O] → colourless substance;  germs + [O] → dead germs
+
+Because it turns colours colourless, bleaching powder is called a **bleaching agent** (বিরঞ্জক). (Chemists today say HOCl and OCl⁻ themselves do the oxidising; the [O] picture is a handy simplified way to show it.)
+
+**Glass cleaner.** Oil and grease on glass catch dust and make it dirty. A glass cleaner must remove grease without attacking the glass itself (sodium and calcium silicates). It is usually a mixture of **ammonium hydroxide (NH₄OH, ammonia solution)** and **isopropyl alcohol, CH₃CH(OH)CH₃**. The ammonia solution attacks oil and grease; the alcohol dissolves other organic matter and evaporates quickly, leaving no streaks. Its ammonia fumes irritate the nose and throat, so use it in a ventilated place and cover the nose and mouth.
+
+**Ammonia in the laboratory.** A mixture of **ammonium chloride** with **calcium oxide (quicklime)** or **calcium hydroxide (slaked lime)** is heated in a test tube:
+
+2NH₄Cl + CaO → 2NH₃ + CaCl₂ + H₂O
+2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O
+
+Ammonia is lighter than air and very soluble in water, so it is collected by upward delivery (in an inverted dry jar); it turns moist red litmus blue and has a sharp smell.
+
+**Ammonia in industry: the Haber process.** Nitrogen (from air) and hydrogen (from natural gas in Bangladesh) are mixed in the ratio **N₂ : H₂ = 1 : 3** by volume and passed over an **iron (Fe) catalyst** at about **450–550 °C** and **200–250 atm**:
+
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92 kJ
+
+The reaction is **reversible** (some NH₃ breaks back into N₂ and H₂) and **exothermic** (gives out heat). High pressure favours ammonia because 4 volumes of gas become 2. A lower temperature would give more ammonia at equilibrium but the reaction would be far too slow, so a compromise temperature is used with a catalyst to speed it up. The ammonia is cooled and liquefied, and the unreacted gases are recycled.
+
+**Experiment: making soap (school level).** Work only under your teacher's supervision.
+- *Hypothesis:* oil or fat reacts with alkali to form soap; the soap's pH will be above 7.
+- *Materials:* coconut oil, caustic soda (NaOH) solution, saturated NaCl solution, a market soap, kerosene; a steam bath (beaker of water), porcelain bowl, stirrer, spatula, 10 mL measuring cylinder, funnel, filter paper, burner.
+- *Safety:* NaOH is very corrosive, especially when hot. Wear goggles and gloves, avoid splashes, and **do not use the soap you make on your hands or body** (it may contain free alkali).
+- *Procedure:* put 5 mL coconut oil (or 5 g fat) and 30 mL NaOH solution in the porcelain bowl on the steam bath; heat for about 30 minutes, stirring now and then and topping up the water; a sticky mass forms as the oil is used up. Let it cool, add 50 mL saturated NaCl solution and leave it overnight. Next day, filter, discard the filtrate and let the soap dry.
+- *Tests:* shake a little of your soap with water in a test tube and look for lather; add 2–3 drops of kerosene (as "grease") and shake again; measure the pH; repeat with market soap and compare.
+## analogy
+A soap molecule is like a tadpole with a head that loves water and a tail that hates it. Put thousands of them near a drop of oil and all the tails dive into the oil, leaving the heads sticking out into the water, like a ball covered in pins. Now the oily ball is "dressed" in water-loving heads, so the water can carry it away when you rinse.
+## definition
+**Washing soda**: sodium carbonate decahydrate, Na₂CO₃·10H₂O.
+
+**Soap**: the sodium or potassium salt of a higher fatty acid (R–COONa or R–COOK), made by heating oil or fat with NaOH or KOH.
+
+**Saponification**: the reaction of an oil or fat (a triester of glycerine) with an alkali to form soap and glycerine.
+
+**Detergent (synthetic)**: a cleaning agent that is the sodium salt of a long-chain sulphonic acid or alkyl hydrogen sulphate, e.g. sodium lauryl sulphate, C₁₂H₂₅OSO₃Na.
+
+**Hydrophilic / hydrophobic**: water-attracting (the ionic head) / water-repelling, oil-attracting (the hydrocarbon tail).
+
+**Bleaching powder**: calcium chloride hypochlorite, Ca(OCl)Cl, which releases hypochlorous acid in water and acts as a bleaching agent and disinfectant.
+
+**Nascent oxygen [O]**: a freshly formed, very reactive oxygen atom that has not yet combined to form an O₂ molecule.
+
+**Haber process**: the industrial synthesis of ammonia from nitrogen and hydrogen (1 : 3) over an iron catalyst at about 450–550 °C and 200–250 atm.
+## why
+Why can soap remove oil when water alone cannot? Water molecules are polar and attract each other strongly; oil molecules are non-polar, so water pushes them out and the two stay separate. A soap ion is a "bridge": its non-polar tail mixes happily with oil, and its ionic head mixes happily with water. By sitting at the boundary, soap lets oil droplets be carried inside the water.
+
+Why is high pressure used in the Haber process? On the left there are 1 + 3 = 4 volumes of gas, on the right only 2. According to Le Chatelier's principle, raising the pressure shifts the equilibrium towards the side with fewer gas molecules, so more ammonia forms.
+## terms
+Soda ash | Anhydrous sodium carbonate, Na₂CO₃
+Washing soda (কাপড় কাচা সোডা) | Na₂CO₃·10H₂O
+Higher fatty acid | A carboxylic acid with a long carbon chain, e.g. stearic acid C₁₇H₃₅COOH
+Saponification (সাবানায়ন) | Oil/fat + alkali → soap + glycerine
+Soap cake / salting out | Soap separated from glycerine by adding NaCl
+Hydrophilic (পানি আকর্ষী) | Water-loving ionic head of a soap/detergent ion
+Hydrophobic (পানি বিকর্ষী) | Oil-loving hydrocarbon tail
+Micelle | A cluster of soap ions around an oil droplet, heads outward
+Bleaching agent (বিরঞ্জক) | A substance that makes coloured matter colourless
+Nascent oxygen (জায়মান অক্সিজেন) | Freshly formed reactive oxygen atom, [O]
+Ammonia solution | NH₄OH, ammonia dissolved in water
+Haber process (হেবার পদ্ধতি) | N₂ + 3H₂ ⇌ 2NH₃ over Fe catalyst
+## formula
+$$ 2NaOH + CO₂ → Na₂CO₃ + H₂O
+$$ (C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃
+$$ Ca(OH)₂ + Cl₂ → Ca(OCl)Cl + H₂O
+$$ HOCl → HCl + [O]
+$$ 2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O
+$$ N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92 kJ
+! Haber conditions (book): N₂ : H₂ = 1 : 3, Fe catalyst, 450–550 °C, 200–250 atm
+! Never mix acid cleaners with bleach, or bleach with ammonia: poisonous gases form.
+## visual
+Five tabs: watch soap ions lift an oil drop off a cloth, make soap step by step, compare soap and detergent in hard water, bleach a stain, and change the temperature and pressure of the Haber process.
+## real
+In Bangladesh, clothes are still often washed in ponds and rivers; heavy use of detergent there feeds algae and harms fish. Tubewell water in many areas is hard, so soap forms curd and lathers poorly, which is why people switch to detergent powder. Bleaching powder is used to disinfect tubewell platforms and water during floods and cholera outbreaks. Urea factories at Ghorasal and elsewhere make ammonia by the Haber process, taking nitrogen from air and hydrogen from natural gas.
+## example
+Q: In the Haber process, what mass of ammonia can be obtained from 28 kg of nitrogen if all of it reacts? How much hydrogen is needed? (N = 14, H = 1)
+Given: M(N₂) = 28, M(H₂) = 2, M(NH₃) = 17 g/mol
+Formula: N₂ + 3H₂ ⇌ 2NH₃
+Calculation: 28 kg N₂ = 1000 mol (28 000 g ÷ 28); H₂ needed = 3 × 1000 = 3000 mol = 6 kg; NH₃ formed = 2 × 1000 = 2000 mol = 34 kg
+> Check: 28 kg + 6 kg = 34 kg (mass is conserved). In practice only part reacts in each pass, and the rest is recycled.
+Answer: 34 kg of NH₃, using 6 kg of H₂.
+## example
+Q: 890 g of glyceryl tristearate is saponified completely with NaOH. Find the mass of NaOH needed and the masses of soap and glycerine formed. (C = 12, H = 1, O = 16, Na = 23)
+Given: M((C₁₇H₃₅COO)₃C₃H₅) = 890; M(NaOH) = 40; M(C₁₇H₃₅COONa) = 306; M(C₃H₅(OH)₃) = 92
+Formula: (C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃
+Calculation: moles of fat = 890 ÷ 890 = 1 mol; NaOH = 3 mol = 120 g; soap = 3 mol = 3 × 306 = 918 g; glycerine = 1 mol = 92 g
+> Check: 890 + 120 = 1010 g = 918 + 92.
+Answer: 120 g NaOH; 918 g sodium stearate (soap) and 92 g glycerine.
+## example
+Q: What percentage of the mass of washing soda, Na₂CO₃·10H₂O, is water? (Na = 23, C = 12, O = 16, H = 1)
+Given: M(Na₂CO₃) = 46 + 12 + 48 = 106; M(10H₂O) = 10 × 18 = 180; M(Na₂CO₃·10H₂O) = 286
+Calculation: % water = 180 ÷ 286 × 100 ≈ 62.9%
+Answer: about 63% of washing soda crystals is water.
+## example
+Q: 10.7 g of ammonium chloride is heated with excess slaked lime. What mass and what volume (at STP) of ammonia is produced? (N = 14, H = 1, Cl = 35.5)
+Given: M(NH₄Cl) = 53.5; M(NH₃) = 17
+Formula: 2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O
+Calculation: moles of NH₄Cl = 10.7 ÷ 53.5 = 0.2 mol; NH₃ = 0.2 mol = 0.2 × 17 = 3.4 g; volume = 0.2 × 22.4 = 4.48 L
+Answer: 3.4 g of NH₃, which is 4.48 L at STP.
+## mistakes
+x Soap works equally well in all kinds of water.
+v In hard water, Ca²⁺ and Mg²⁺ turn soap into an insoluble curd; detergents keep working.
+x Soap has more cleaning power than detergent.
+v Detergent has greater cleaning power, and it works in hard water too.
+x Mixing two cleaners (e.g. acid toilet cleaner and bleach) makes a stronger cleaner.
+v It releases poisonous gases. Never mix cleaning products; use one at a time.
+x In saponification, salt is added to make the soap salty.
+v Salt is added to "salt out" the soap: soap is less soluble in salty water, so it separates from glycerine.
+x In the Haber process, the iron catalyst increases the amount of ammonia at equilibrium.
+v A catalyst only speeds up the reaction so equilibrium is reached faster; it does not change the equilibrium amount.
+## remember
+- Washing soda = Na₂CO₃·10H₂O; made from NaOH + CO₂.
+- Soap = R–COONa/R–COOK; oil/fat + NaOH → soap + glycerine (saponification); NaCl salts out the soap.
+- Soap/detergent ion: hydrophilic head + hydrophobic tail; tails grab oil, heads face water → micelles rinsed away.
+- Detergent works in hard water and cleans better; phosphates and excess soap harm ponds and rivers.
+- Skin pH ≈ 4.8–5.5; toiletries should suit it.
+- Bleaching powder Ca(OCl)Cl → HOCl → [O] bleaches and kills germs.
+- Glass cleaner = NH₄OH + isopropyl alcohol.
+- Lab NH₃: NH₄Cl + CaO or Ca(OH)₂, heat. Haber: N₂ + 3H₂ ⇌ 2NH₃ + 92 kJ; Fe, 450–550 °C, 200–250 atm.
+- Never mix bleach with acids or ammonia.
+## think
+Shawn washes his clothes with soap in tubewell water, and the clothes stay dull with hardly any lather. His friend tells him to use detergent. Explain in terms of ions why the detergent works better.
+## quiz
+? The chemical formula of washing soda is:
+- NaHCO₃
+- Na₂CO₃
+* Na₂CO₃·10H₂O
+- NaOH
+= Washing soda is sodium carbonate decahydrate; Na₂CO₃ alone is soda ash.
+? The part of a soap ion that dissolves in oil is the:
+- Ionic head (hydrophilic)
+* Hydrocarbon tail (hydrophobic)
+- Sodium ion
+- Glycerine part
+= The long non-polar hydrocarbon tail is oil-loving (hydrophobic).
+? Which one makes coloured substances colourless?
+- NaOH
+* Ca(OCl)Cl
+- HCl
+- CH₃COOH
+= Bleaching powder gives HOCl, which releases nascent oxygen that oxidises coloured matter.
+? In the Haber process, the ratio of nitrogen to hydrogen is:
+- 1 : 2
+* 1 : 3
+- 2 : 1
+- 3 : 1
+= N₂ + 3H₂ ⇌ 2NH₃, so one volume of N₂ reacts with three volumes of H₂.
+? Why is NaCl added during soap making?
+- To kill germs
+- To give taste
+* To separate the soap from glycerine (salting out)
+- To increase the pH
+= Soap is less soluble in salty water, so it separates and floats as the soap cake.
+== bn
+## what
+পরিষ্কারক দ্রব্যগুলো আসলে নির্দিষ্ট কাজের জন্য বেছে নেওয়া রাসায়নিক পদার্থ: **কাপড় কাচা সোডা** (Na₂CO₃·10H₂O) আর **সাবান** বা **ডিটারজেন্ট** তৈলাক্ত ময়লা দূর করে, **ব্লিচিং পাউডার** (Ca(OCl)Cl) আর **টয়লেট ক্লিনার** দাগ তোলে ও জীবাণু মারে, আর **গ্লাস ক্লিনার** (অ্যামোনিয়া দ্রবণ + আইসোপ্রোপাইল অ্যালকোহল) কাচ পরিষ্কার করে। অ্যামোনিয়া নিজে পরীক্ষাগারে অ্যামোনিয়াম ক্লোরাইড থেকে এবং শিল্পকারখানায় **হেবার পদ্ধতিতে** তৈরি হয়।
+## simple
+**কাপড় কাচা সোডা।** সোডিয়াম কার্বনেটকে (Na₂CO₃) বলে **সোডা অ্যাশ**। সোডা অ্যাশের ১ অণুর সাথে ১০ অণু পানি রাসায়নিকভাবে যুক্ত হলে পাওয়া যায় **কাপড় কাচা সোডা** বা ওয়াশিং সোডা, যার রাসায়নিক নাম **সোডিয়াম কার্বনেট ডেকাহাইড্রেট, Na₂CO₃·10H₂O**। এটি তৈরি করতে সোডিয়াম হাইড্রোক্সাইডের দ্রবণে প্রচুর CO₂ চালনা করা হয়:
+
+2NaOH + CO₂ → Na₂CO₃ + H₂O
+
+তারপর সোডিয়াম কার্বনেট পানির সাথে যুক্ত হয়ে কেলাস তৈরি করে: Na₂CO₃ + 10H₂O → Na₂CO₃·10H₂O। কাপড় কাচতে এটি ব্যবহার করা হয়: এর দ্রবণ ক্ষারীয়, তাই চর্বি-তেল আলগা করতে সাহায্য করে, আর খর পানিকেও মৃদু করে।
+
+**টয়লেট ক্লিনার।** টয়লেট, বেসিন, কমোডে জমে চর্বি, প্রোটিনজাতীয় ময়লা, রঙিন দাগ (পিগমেন্ট), খর পানির হলদে আস্তর আর রোগজীবাণু। টয়লেট ক্লিনার **দুই ধরনের** হয়, আর কোনটা কী তা জানা খুব জরুরি:
+- **এসিড-জাতীয় ক্লিনারে** থাকে লঘু **হাইড্রোক্লোরিক এসিড (HCl)**। এসিড খর পানির হলদে আস্তর আর মরিচার দাগ গলিয়ে দেয়, আর খুব কম pH জীবাণু মেরে ফেলে।
+- **ব্লিচ-জাতীয় ক্লিনারে** থাকে **সোডিয়াম হাইপোক্লোরাইট (NaOCl)** আর সামান্য **সোডিয়াম হাইড্রোক্সাইড (NaOH)**। ক্ষারীয় NaOH চর্বি ও প্রোটিনজাতীয় ময়লার সাথে বিক্রিয়া করে, আর NaOCl পানির সাথে বিক্রিয়া করে হাইপোক্লোরাস এসিড (HOCl) তৈরি করে:
+  NaOCl + H₂O → NaOH + HOCl
+  HOCl → HCl + [O]
+  এই **জায়মান অক্সিজেন [O]** (সদ্য তৈরি হওয়া খুব সক্রিয় অক্সিজেন পরমাণু, যা এখনো জোড়া বেঁধে O₂ হয়নি) রঙিন পদার্থকে জারিত করে বর্ণহীন করে এবং জীবাণু ধ্বংস করে।
+
+(তোমার পাঠ্যবইয়ে HCl আর NaOCl-কে একসাথে টয়লেট ক্লিনারের উপাদান বলা হয়েছে। বাস্তবের পণ্যে এ দুটি **কখনো একই বোতলে থাকে না**, কারণ এরা একে অপরের সাথে বিপজ্জনকভাবে বিক্রিয়া করে।)
+
+**⚠ সতর্কতা:** এসিড-জাতীয় টয়লেট ক্লিনারের সাথে কখনো ব্লিচ, ব্লিচিং পাউডার বা ব্লিচ-জাতীয় ক্লিনার মেশাবে না, আর ব্লিচের সাথে কখনো অ্যামোনিয়া বা গ্লাস ক্লিনার মেশাবে না। এমন মিশ্রণ থেকে বিষাক্ত গ্যাস বের হয়। একবারে একটি পণ্য ব্যবহার করো, ভালো করে পানি দিয়ে ধুয়ে ফেলো, আর ঘরে বাতাস চলাচল রাখো।
+
+**সাবান।** সাবান হলো **উচ্চতর ফ্যাটি এসিডের সোডিয়াম লবণ (R–COONa)** বা **পটাশিয়াম লবণ (R–COOK)**। R হলো লম্বা অ্যালকাইল মূলক (CₙH₂ₙ₊₁); সাবানের অণু আসে মোটামুটি ১২ থেকে ১৮টি কার্বন পরমাণুবিশিষ্ট ফ্যাটি এসিড থেকে। যেমন: **সোডিয়াম স্টিয়ারেট, C₁₇H₃₅COONa**, আর পটাশিয়াম স্টিয়ারেট, C₁₇H₃₅COOK।
+
+তেল ও চর্বি হলো উচ্চতর ফ্যাটি এসিড ও গ্লিসারিনের **এস্টার** (ট্রাই-এস্টার): সাধারণ তাপমাত্রায় ট্রাই-এস্টার তরল হলে তা **তেল**, কঠিন হলে **চর্বি**। ফ্যাটি এসিড হতে পারে **সম্পৃক্ত** (শুধু C–C একক বন্ধন, যেমন প্রাণিজ চর্বির স্টিয়ারিক এসিড) অথবা **অসম্পৃক্ত** (C=C দ্বিবন্ধনযুক্ত, যেমন অলিভ অয়েলের অলিক এসিড)।
+
+**সাবান তৈরি: সাবানায়ন।** তেল বা চর্বিকে **NaOH** (বা KOH) দিয়ে তাপ দিলে তা ভেঙে **সাবান** আর **গ্লিসারিন** তৈরি হয়। এই বিক্রিয়াকে বলে **সাবানায়ন**:
+
+(C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃
+চর্বি (গ্লিসারাইল ট্রাইস্টিয়ারেট) + কস্টিক সোডা → সাবান (সোডিয়াম স্টিয়ারেট) + গ্লিসারিন
+
+এরপর **খাদ্য লবণ (NaCl)** যোগ করা হয়। লোনা পানিতে সাবান অনেক কম দ্রবণীয়, তাই এটি আলাদা হয়ে কঠিন স্তর হিসেবে ওপরে ভেসে ওঠে, একে বলে **সোপ কেক**; আর গ্লিসারিন নিচের দ্রবণে থেকে যায়। সোপ কেক ছেঁকে নিয়ে রং, সুগন্ধি বা জীবাণুনাশক মিশিয়ে ছাঁচে ঢেলে বিভিন্ন আকারের সাবান বানানো হয়।
+
+তেল (বা চর্বি) আর ক্ষার **সঠিক অনুপাতে** নিতে হয়, যাতে দুটি সম্পূর্ণ বিক্রিয়া করে। বেশি তেল থেকে গেলে সাবান তৈলাক্ত হয় আর ফেনা কম হয়; বেশি ক্ষার থেকে গেলে সাবান কড়া হয় এবং ত্বকের ক্ষতি করে।
+- **প্রসাধনী সাবান** (ত্বকের জন্য): মুক্ত ক্ষার কম, সুগন্ধি ও কখনো জীবাণুনাশক মেশানো।
+- **লন্ড্রি সাবান** (কাপড়ের জন্য): ক্ষার ও অন্যান্য অপদ্রব্য বেশি, সুগন্ধি নেই।
+
+**ডিটারজেন্ট।** ডিটারজেন্টও একটি পরিষ্কারক দ্রব্য, পাউডার বা তরল আকারে পাওয়া যায়। একটি পরিচিত উদাহরণ **সোডিয়াম লরাইল সালফেট**। লরাইল অ্যালকোহল সালফিউরিক এসিডের সাথে বিক্রিয়া করে লরাইল হাইড্রোজেন সালফেট তৈরি করে, যাকে পরে NaOH দিয়ে প্রশমিত করা হয়:
+
+C₁₂H₂₅OH + H₂SO₄ → C₁₂H₂₅OSO₃H + H₂O
+C₁₂H₂₅OSO₃H + NaOH → C₁₂H₂₅OSO₃Na + H₂O
+
+(বইয়ে লরাইল অ্যালকোহলকে C₁₂H₂₆O এবং উৎপাদকে C₁₂H₂₅SO₄Na লেখা হয়েছে: পরমাণু একই, শুধু লেখার ধরন আলাদা।) অনেক কাপড় কাচার পাউডারে এর কাছাকাছি একটি যৌগ, দীর্ঘ শিকলের **অ্যালকাইল বেনজিন সালফোনিক এসিডের** সোডিয়াম লবণ ব্যবহৃত হয়। পাউডারকে ঝরঝরে করতে সোডিয়াম সালফেট (Na₂SO₄) মেশানো হয়।
+
+**সাবান ও ডিটারজেন্ট কীভাবে ময়লা তোলে।** আমাদের ত্বক (আর বাতাস) থেকে তৈলাক্ত পদার্থ কাপড়ে লেগে যায়, তার ওপর ধুলা লেগে ময়লা তৈরি হয়। শুধু পানি তেল তুলতে পারে না, কারণ তেল আর পানি মেশে না। পানিতে সাবান বা ডিটারজেন্ট আয়নে ভাগ হয়ে যায়: একটি লম্বা **ঋণাত্মক আয়ন** (R–COO⁻ বা C₁₂H₂₅OSO₃⁻) আর Na⁺। প্রতিটি লম্বা আয়নের দুই প্রান্ত একদম আলাদা স্বভাবের:
+- চার্জযুক্ত **মাথা**, যা পানিকে আকর্ষণ করে: **হাইড্রোফিলিক** বা পানি আকর্ষী;
+- লম্বা হাইড্রোকার্বন **লেজ**, যা তেল ও গ্রিজে দ্রবীভূত হয়: **হাইড্রোফোবিক** বা পানি বিকর্ষী।
+
+সাবান-পানি তেলের দাগের সংস্পর্শে এলে লেজগুলো তেলের ভেতর ঢুকে যায়, আর মাথাগুলো বাইরে পানিতে থাকে। কাপড় ঘষলে বা মোচড়ালে তেল ছোট ছোট ফোঁটায় ভেঙে যায়, আর প্রতিটি ফোঁটা চারদিক থেকে সাবান আয়নে ঘেরা থাকে, ঋণাত্মক মাথাগুলো বাইরের দিকে (একে বলে **মিসেল**)। সব ফোঁটার বাইরে ঋণাত্মক চার্জ থাকায় এরা একে অপরকে বিকর্ষণ করে এবং আবার জোড়া না লেগে পানিতে ছড়িয়ে থাকে। তেল-সাবান-পানির এই মিশ্রণ (পাঠ্যবইয়ে একে ফেনা বলা হয়েছে) আরও পানি দিয়ে ধুলে তেল আর ধুলা সাথে নিয়ে চলে যায়।
+
+**সাবান বনাম ডিটারজেন্ট।**
+- সাবান: দীর্ঘ শিকলের ফ্যাটি এসিডের সোডিয়াম বা পটাশিয়াম লবণ। ডিটারজেন্ট: দীর্ঘ শিকলের সালফোনিক এসিড বা অ্যালকাইল হাইড্রোজেন সালফেটের সোডিয়াম লবণ।
+- **খর পানিতে** সাবান ভালো কাজ করে না: Ca²⁺ ও Mg²⁺ আয়ন এর সাথে অদ্রবণীয় আঠালো তলানি তৈরি করে (2C₁₇H₃₅COONa + Ca²⁺ → (C₁₇H₃₅COO)₂Ca↓ + 2Na⁺), ফলে সাবান নষ্ট হয় আর কাপড়ে ধূসর আস্তর পড়ে। ডিটারজেন্ট খর পানিতেও ভালো কাজ করে, কারণ এর ক্যালসিয়াম ও ম্যাগনেসিয়াম লবণ দ্রবণীয়।
+- সাবানের চেয়ে ডিটারজেন্টের **পরিষ্কারকরণ ক্ষমতা বেশি**।
+
+**অতিরিক্ত ব্যবহারের কুফল।** সাবানে কিছু ক্ষার, গ্লিসারিন, তেল ও চর্বি থেকে যায়। অতিরিক্ত সাবান ব্যবহারে ক্ষার হাতের ত্বকের ক্ষতি করে। পুকুর বা নদীতে কাপড় কাচলে সাবানের বর্জ্য পানির **দ্রবীভূত অক্সিজেন** খরচ করে ফেলে, ফলে মাছ ও জলজ উদ্ভিদ মারা যেতে পারে। অনেক ডিটারজেন্টে **ফসফেট** থাকে (বইয়ে ট্রাইসোডিয়াম ফসফেট, Na₃PO₄-এর কথা বলা আছে), যা শৈবাল ও জলজ উদ্ভিদের জন্য সারের কাজ করে। এরা খুব দ্রুত বাড়ে; মরে পচতে শুরু করলে দ্রবীভূত অক্সিজেন ফুরিয়ে যায়, আর অক্সিজেনের অভাবে মাছ মরে। এভাবে অতিরিক্ত ডিটারজেন্ট জলাশয় দূষিত করে।
+
+**প্রসাধনীর pH।** সুস্থ ত্বক সামান্য এসিডীয়, এর pH প্রায় **৪.৮ থেকে ৫.৫**। এই অম্লত্ব ত্বকে জীবাণুর বংশবৃদ্ধি ঠেকাতে সাহায্য করে। কোনো প্রসাধনীর (সাবান, ক্রিম, শ্যাম্পু) pH এর চেয়ে অনেক বেশি হলে ত্বকের স্বাভাবিক অম্লত্ব কমে যায়, ত্বক শুষ্ক হয় এবং জীবাণুর আক্রমণ বাড়ে। তাই প্রসাধনী ত্বকের pH-এর সাথে মানানসই হওয়া উচিত। (সাধারণ সাবান ক্ষারীয়, pH প্রায় ৯–১০; এজন্যই কোমল, ত্বকবান্ধব ক্লিনজার ত্বকের pH-এর কাছাকাছি করে বানানো হয়।)
+
+**ব্লিচিং পাউডার।** ব্লিচিং পাউডারের রাসায়নিক নাম **ক্যালসিয়াম ক্লোরো হাইপোক্লোরাইট, Ca(OCl)Cl**। সাবান দিয়ে ওঠে না এমন দাগ, যেমন বলপেনের কালি, এটি তুলে দেয়, আর মেঝে, কমোড ও বেসিন জীবাণুমুক্ত করে। প্রায় ৪০ °C তাপমাত্রায় **কলিচুনের (Ca(OH)₂) ওপর দিয়ে ক্লোরিন গ্যাস** চালনা করে এটি তৈরি হয়:
+
+Ca(OH)₂ + Cl₂ → Ca(OCl)Cl + H₂O
+
+পানির সাথে এটি হাইপোক্লোরাস এসিড তৈরি করে, যা জায়মান অক্সিজেন দেয়:
+
+2Ca(OCl)Cl + 2H₂O → CaCl₂ + Ca(OH)₂ + 2HOCl
+HOCl → HCl + [O]
+রঙিন পদার্থ + [O] → বর্ণহীন পদার্থ;  জীবাণু + [O] → মৃত জীবাণু
+
+রঙিন পদার্থকে বর্ণহীন করে বলে ব্লিচিং পাউডারকে **বিরঞ্জক** বলা হয়। (আধুনিক রসায়নবিদেরা বলেন, আসলে HOCl আর OCl⁻ নিজেরাই জারণ ঘটায়; [O]-এর ছবিটা বিষয়টা বোঝানোর একটা সহজ উপায়।)
+
+**গ্লাস ক্লিনার।** কাচে তেল বা গ্রিজ লাগলে তাতে ধুলা আটকে ময়লা হয়। গ্লাস ক্লিনারকে এমন হতে হয় যা গ্রিজ তুলবে কিন্তু কাচের উপাদানের (সোডিয়াম ও ক্যালসিয়াম সিলিকেট) সাথে বিক্রিয়া করবে না। সাধারণত এটি **অ্যামোনিয়াম হাইড্রোক্সাইড (NH₄OH, অ্যামোনিয়া দ্রবণ)** ও **আইসোপ্রোপাইল অ্যালকোহল, CH₃CH(OH)CH₃**-এর মিশ্রণ। অ্যামোনিয়া দ্রবণ তেল ও গ্রিজের সাথে বিক্রিয়া করে; অ্যালকোহল অন্যান্য জৈব পদার্থ দ্রবীভূত করে এবং দ্রুত উবে যায়, ফলে কাচে দাগ থাকে না। এর অ্যামোনিয়ার ঝাঁঝ নাক ও গলায় জ্বালা ধরায়, তাই বাতাস চলাচলের জায়গায় ব্যবহার করো এবং নাক-মুখ ঢেকে রাখো।
+
+**পরীক্ষাগারে অ্যামোনিয়া।** একটি টেস্টটিউবে **অ্যামোনিয়াম ক্লোরাইডের** সাথে **ক্যালসিয়াম অক্সাইড (পোড়া চুন)** বা **ক্যালসিয়াম হাইড্রোক্সাইড (কলিচুন)** মিশিয়ে তাপ দেওয়া হয়:
+
+2NH₄Cl + CaO → 2NH₃ + CaCl₂ + H₂O
+2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O
+
+অ্যামোনিয়া বাতাসের চেয়ে হালকা এবং পানিতে খুব দ্রবণীয়, তাই একে উপুড় করা শুকনো গ্যাসজারে (বাতাসের নিম্ন অপসারণে) সংগ্রহ করা হয়; এটি ভেজা লাল লিটমাসকে নীল করে এবং এর ঝাঁঝালো গন্ধ আছে।
+
+**শিল্পকারখানায় অ্যামোনিয়া: হেবার পদ্ধতি।** নাইট্রোজেন (বাতাস থেকে) আর হাইড্রোজেন (বাংলাদেশে প্রাকৃতিক গ্যাস থেকে) আয়তনে **N₂ : H₂ = ১ : ৩** অনুপাতে মিশিয়ে প্রায় **৪৫০–৫৫০ °C** তাপমাত্রা ও **২০০–২৫০ atm** চাপে **লোহা (Fe) প্রভাবকের** ওপর দিয়ে চালনা করা হয়:
+
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92 kJ
+
+বিক্রিয়াটি **উভমুখী** (কিছু NH₃ ভেঙে আবার N₂ ও H₂ হয়) এবং **তাপোৎপাদী** (তাপ বের হয়)। উচ্চ চাপ অ্যামোনিয়ার পক্ষে যায়, কারণ ৪ আয়তন গ্যাস থেকে ২ আয়তন তৈরি হয়। কম তাপমাত্রায় সাম্যাবস্থায় বেশি অ্যামোনিয়া পাওয়া যেত, কিন্তু বিক্রিয়া অত্যন্ত ধীর হয়ে যেত; তাই একটি আপসের তাপমাত্রা নেওয়া হয় আর প্রভাবক দিয়ে বিক্রিয়া দ্রুত করা হয়। অ্যামোনিয়াকে ঠান্ডা করে তরল করে আলাদা করা হয়, আর বিক্রিয়া না করা গ্যাস আবার ফেরত পাঠানো হয়।
+
+**পরীক্ষণ: সাবান তৈরি (বিদ্যালয় পর্যায়ে)।** শুধু শিক্ষকের তত্ত্বাবধানে কাজ করবে।
+- *অনুমিত সিদ্ধান্ত:* তেল বা চর্বি ক্ষারের সাথে বিক্রিয়া করে সাবান তৈরি করে; সাবানের pH ৭-এর বেশি হবে।
+- *উপকরণ:* নারকেল তেল, কস্টিক সোডার (NaOH) দ্রবণ, NaCl-এর সম্পৃক্ত দ্রবণ, বাজারের সাবান, কেরোসিন; স্টিম বাথ (পানিভরা বিকার), চীনামাটির বাটি, নাড়ানি, স্প্যাচুলা, ১০ mL মাপনি সিলিন্ডার, ফানেল, ফিল্টার পেপার, বার্নার।
+- *সতর্কতা:* NaOH অত্যন্ত ক্ষয়কারী, বিশেষ করে গরম অবস্থায়। গগলস ও গ্লাভস পরো, ছিটকে পড়া থেকে সাবধান থাকো, আর **নিজের তৈরি সাবান হাতে বা শরীরে ব্যবহার করবে না** (এতে মুক্ত ক্ষার থাকতে পারে)।
+- *কার্যপদ্ধতি:* স্টিম বাথের ওপর চীনামাটির বাটিতে ৫ mL নারকেল তেল (বা ৫ g চর্বি) ও ৩০ mL NaOH দ্রবণ নাও; প্রায় ৩০ মিনিট তাপ দাও, মাঝে মাঝে নাড়ো এবং বাষ্প হয়ে যাওয়া পানির ঘাটতি পূরণ করো; তেল ফুরিয়ে আসার সাথে সাথে একটি আঠালো পদার্থ তৈরি হবে। ঠান্ডা হলে ৫০ mL সম্পৃক্ত NaCl দ্রবণ যোগ করে সারা রাত রেখে দাও। পরদিন ছেঁকে পরিস্রুত অংশ ফেলে দাও, আর সাবান শুকাতে দাও।
+- *পরীক্ষা:* টেস্টটিউবে পানির সাথে তোমার সাবানের একটু অংশ ঝাঁকিয়ে ফেনা হয় কি না দেখো; ২–৩ ফোঁটা কেরোসিন ("গ্রিজ" হিসেবে) যোগ করে আবার ঝাঁকাও; pH মাপো; বাজারের সাবান দিয়ে একই কাজ করে তুলনা করো।
+## analogy
+সাবানের অণু যেন একটা ব্যাঙাচি: মাথাটা পানি ভালোবাসে, লেজটা পানি সহ্য করতে পারে না। তেলের একটা ফোঁটার কাছে হাজারো অণু রাখলে সব লেজ তেলের ভেতর ডুব দেয়, আর মাথাগুলো বাইরে পানির দিকে বেরিয়ে থাকে, যেন আলপিন গাঁথা একটা বল। তেলের বলটা এখন পানিপ্রেমী মাথার "জামা" পরে আছে, তাই ধোয়ার সময় পানি একে সহজে ভাসিয়ে নিয়ে যায়।
+## definition
+**কাপড় কাচা সোডা**: সোডিয়াম কার্বনেট ডেকাহাইড্রেট, Na₂CO₃·10H₂O।
+
+**সাবান**: উচ্চতর ফ্যাটি এসিডের সোডিয়াম বা পটাশিয়াম লবণ (R–COONa বা R–COOK), যা তেল বা চর্বিকে NaOH বা KOH দিয়ে তাপ দিয়ে তৈরি করা হয়।
+
+**সাবানায়ন**: তেল বা চর্বির (গ্লিসারিনের ট্রাই-এস্টার) সাথে ক্ষারের বিক্রিয়ায় সাবান ও গ্লিসারিন তৈরির প্রক্রিয়া।
+
+**ডিটারজেন্ট (কৃত্রিম)**: দীর্ঘ শিকলের সালফোনিক এসিড বা অ্যালকাইল হাইড্রোজেন সালফেটের সোডিয়াম লবণ, যা পরিষ্কারক হিসেবে কাজ করে; যেমন সোডিয়াম লরাইল সালফেট, C₁₂H₂₅OSO₃Na।
+
+**হাইড্রোফিলিক / হাইড্রোফোবিক**: পানি আকর্ষী (আয়নিক মাথা) / পানি বিকর্ষী ও তেল আকর্ষী (হাইড্রোকার্বন লেজ)।
+
+**ব্লিচিং পাউডার**: ক্যালসিয়াম ক্লোরো হাইপোক্লোরাইট, Ca(OCl)Cl, যা পানিতে হাইপোক্লোরাস এসিড দেয় এবং বিরঞ্জক ও জীবাণুনাশক হিসেবে কাজ করে।
+
+**জায়মান অক্সিজেন [O]**: সদ্য তৈরি হওয়া খুব সক্রিয় অক্সিজেন পরমাণু, যা এখনো O₂ অণু তৈরি করেনি।
+
+**হেবার পদ্ধতি**: প্রায় ৪৫০–৫৫০ °C তাপমাত্রা ও ২০০–২৫০ atm চাপে লোহা প্রভাবকের উপস্থিতিতে নাইট্রোজেন ও হাইড্রোজেন (১ : ৩) থেকে শিল্পক্ষেত্রে অ্যামোনিয়া উৎপাদনের পদ্ধতি।
+## why
+শুধু পানি পারে না, অথচ সাবান তেল তুলতে পারে কেন? পানির অণু পোলার এবং একে অপরকে জোরে আকর্ষণ করে; তেলের অণু অপোলার, তাই পানি তাদের ঠেলে বের করে দেয় আর দুটি আলাদা থাকে। সাবানের আয়ন যেন একটা "সেতু": এর অপোলার লেজ তেলের সাথে সহজে মেশে, আর আয়নিক মাথা পানির সাথে সহজে মেশে। সীমানায় বসে সাবান তেলের ফোঁটাকে পানির ভেতরে বয়ে নেওয়ার সুযোগ করে দেয়।
+
+হেবার পদ্ধতিতে উচ্চ চাপ কেন দেওয়া হয়? বাম দিকে গ্যাসের আয়তন ১ + ৩ = ৪, ডান দিকে মাত্র ২। লা শাতেলিয়ের নীতি অনুযায়ী চাপ বাড়ালে সাম্যাবস্থা কম গ্যাস অণুর দিকে সরে যায়, তাই বেশি অ্যামোনিয়া তৈরি হয়।
+## terms
+সোডা অ্যাশ | অনার্দ্র সোডিয়াম কার্বনেট, Na₂CO₃
+কাপড় কাচা সোডা | Na₂CO₃·10H₂O
+উচ্চতর ফ্যাটি এসিড | লম্বা কার্বন শিকলের কার্বক্সিলিক এসিড, যেমন স্টিয়ারিক এসিড C₁₇H₃₅COOH
+সাবানায়ন | তেল/চর্বি + ক্ষার → সাবান + গ্লিসারিন
+সোপ কেক | NaCl যোগ করে গ্লিসারিন থেকে আলাদা করা সাবান
+হাইড্রোফিলিক (পানি আকর্ষী) | সাবান/ডিটারজেন্ট আয়নের পানিপ্রেমী আয়নিক মাথা
+হাইড্রোফোবিক (পানি বিকর্ষী) | তেলপ্রেমী হাইড্রোকার্বন লেজ
+মিসেল | তেলের ফোঁটার চারপাশে সাবান আয়নের গুচ্ছ, মাথা বাইরের দিকে
+বিরঞ্জক | যে পদার্থ রঙিন পদার্থকে বর্ণহীন করে
+জায়মান অক্সিজেন | সদ্য তৈরি সক্রিয় অক্সিজেন পরমাণু, [O]
+অ্যামোনিয়া দ্রবণ | NH₄OH, পানিতে দ্রবীভূত অ্যামোনিয়া
+হেবার পদ্ধতি | Fe প্রভাবকের ওপর N₂ + 3H₂ ⇌ 2NH₃
+## formula
+$$ 2NaOH + CO₂ → Na₂CO₃ + H₂O
+$$ (C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃
+$$ Ca(OH)₂ + Cl₂ → Ca(OCl)Cl + H₂O
+$$ HOCl → HCl + [O]
+$$ 2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O
+$$ N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + 92 kJ
+! হেবার পদ্ধতির শর্ত (বই অনুযায়ী): N₂ : H₂ = ১ : ৩, Fe প্রভাবক, ৪৫০–৫৫০ °C, ২০০–২৫০ atm
+! এসিড ক্লিনারের সাথে ব্লিচ, বা ব্লিচের সাথে অ্যামোনিয়া কখনো মেশাবে না: বিষাক্ত গ্যাস তৈরি হয়।
+## visual
+পাঁচটি ট্যাব: দেখো সাবানের আয়ন কীভাবে কাপড় থেকে তেলের ফোঁটা তুলে আনে, ধাপে ধাপে সাবান বানাও, খর পানিতে সাবান আর ডিটারজেন্টের তুলনা করো, একটি দাগ ব্লিচ করো, আর হেবার পদ্ধতির তাপমাত্রা ও চাপ বদলে দেখো।
+## real
+বাংলাদেশে এখনো অনেকে পুকুর-নদীতে কাপড় কাচেন; সেখানে প্রচুর ডিটারজেন্ট শৈবালের খাবার জোগায় আর মাছের ক্ষতি করে। অনেক এলাকার টিউবওয়েলের পানি খর, তাই সাবান তলানি তৈরি করে এবং ফেনা কম হয়; এজন্য মানুষ ডিটারজেন্ট পাউডারে চলে যায়। বন্যা আর কলেরার সময় টিউবওয়েলের পাটাতন ও পানি জীবাণুমুক্ত করতে ব্লিচিং পাউডার ব্যবহার করা হয়। ঘোড়াশালসহ বিভিন্ন জায়গার ইউরিয়া সার কারখানায় হেবার পদ্ধতিতে অ্যামোনিয়া তৈরি হয়: নাইট্রোজেন আসে বাতাস থেকে, হাইড্রোজেন প্রাকৃতিক গ্যাস থেকে।
+## example
+প্রশ্ন: হেবার পদ্ধতিতে ২৮ kg নাইট্রোজেন সম্পূর্ণ বিক্রিয়া করলে কত অ্যামোনিয়া পাওয়া যাবে? কত হাইড্রোজেন লাগবে? (N = ১৪, H = ১)
+দেওয়া আছে: M(N₂) = ২৮, M(H₂) = ২, M(NH₃) = ১৭ g/mol
+সূত্র: N₂ + 3H₂ ⇌ 2NH₃
+হিসাব: ২৮ kg N₂ = ১০০০ mol (২৮ ০০০ g ÷ ২৮); প্রয়োজনীয় H₂ = ৩ × ১০০০ = ৩০০০ mol = ৬ kg; উৎপন্ন NH₃ = ২ × ১০০০ = ২০০০ mol = ৩৪ kg
+> যাচাই: ২৮ kg + ৬ kg = ৩৪ kg (ভর সংরক্ষিত)। বাস্তবে প্রতিবার অংশবিশেষ বিক্রিয়া করে, বাকিটা আবার ফেরত পাঠানো হয়।
+উত্তর: ৩৪ kg NH₃, এতে ৬ kg H₂ লাগবে।
+## example
+প্রশ্ন: ৮৯০ g গ্লিসারাইল ট্রাইস্টিয়ারেটকে NaOH দিয়ে সম্পূর্ণ সাবানায়িত করা হলো। প্রয়োজনীয় NaOH-এর ভর এবং উৎপন্ন সাবান ও গ্লিসারিনের ভর বের করো। (C = ১২, H = ১, O = ১৬, Na = ২৩)
+দেওয়া আছে: M((C₁₇H₃₅COO)₃C₃H₅) = ৮৯০; M(NaOH) = ৪০; M(C₁₇H₃₅COONa) = ৩০৬; M(C₃H₅(OH)₃) = ৯২
+সূত্র: (C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃
+হিসাব: চর্বির মোল = ৮৯০ ÷ ৮৯০ = ১ mol; NaOH = ৩ mol = ১২০ g; সাবান = ৩ mol = ৩ × ৩০৬ = ৯১৮ g; গ্লিসারিন = ১ mol = ৯২ g
+> যাচাই: ৮৯০ + ১২০ = ১০১০ g = ৯১৮ + ৯২।
+উত্তর: ১২০ g NaOH; ৯১৮ g সোডিয়াম স্টিয়ারেট (সাবান) ও ৯২ g গ্লিসারিন।
+## example
+প্রশ্ন: কাপড় কাচা সোডার (Na₂CO₃·10H₂O) ভরের শতকরা কত ভাগ পানি? (Na = ২৩, C = ১২, O = ১৬, H = ১)
+দেওয়া আছে: M(Na₂CO₃) = ৪৬ + ১২ + ৪৮ = ১০৬; M(10H₂O) = ১০ × ১৮ = ১৮০; M(Na₂CO₃·10H₂O) = ২৮৬
+হিসাব: পানির শতকরা পরিমাণ = ১৮০ ÷ ২৮৬ × ১০০ ≈ ৬২.৯%
+উত্তর: কাপড় কাচা সোডার কেলাসের প্রায় ৬৩% পানি।
+## example
+প্রশ্ন: ১০.৭ g অ্যামোনিয়াম ক্লোরাইডকে অতিরিক্ত কলিচুনের সাথে তাপ দেওয়া হলো। কত ভর এবং STP-তে কত আয়তন অ্যামোনিয়া তৈরি হবে? (N = ১৪, H = ১, Cl = ৩৫.৫)
+দেওয়া আছে: M(NH₄Cl) = ৫৩.৫; M(NH₃) = ১৭
+সূত্র: 2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O
+হিসাব: NH₄Cl-এর মোল = ১০.৭ ÷ ৫৩.৫ = ০.২ mol; NH₃ = ০.২ mol = ০.২ × ১৭ = ৩.৪ g; আয়তন = ০.২ × ২২.৪ = ৪.৪৮ L
+উত্তর: ৩.৪ g NH₃, যা STP-তে ৪.৪৮ L।
+## mistakes
+x সব ধরনের পানিতে সাবান সমান ভালো কাজ করে।
+v খর পানিতে Ca²⁺ ও Mg²⁺ সাবানকে অদ্রবণীয় তলানিতে পরিণত করে; ডিটারজেন্ট তখনো কাজ করে।
+x ডিটারজেন্টের চেয়ে সাবানের পরিষ্কারকরণ ক্ষমতা বেশি।
+v ডিটারজেন্টের পরিষ্কারকরণ ক্ষমতা বেশি, আর এটি খর পানিতেও কাজ করে।
+x দুটি ক্লিনার (যেমন এসিড টয়লেট ক্লিনার আর ব্লিচ) মেশালে আরও শক্তিশালী ক্লিনার হয়।
+v এতে বিষাক্ত গ্যাস বের হয়। পরিষ্কারক দ্রব্য কখনো মেশাবে না; একবারে একটি ব্যবহার করো।
+x সাবানায়নে সাবানকে লোনা করার জন্য লবণ দেওয়া হয়।
+v লবণ দেওয়া হয় সাবানকে আলাদা করতে: লোনা পানিতে সাবান কম দ্রবণীয়, তাই গ্লিসারিন থেকে পৃথক হয়ে ভেসে ওঠে।
+x হেবার পদ্ধতিতে লোহা প্রভাবক সাম্যাবস্থায় অ্যামোনিয়ার পরিমাণ বাড়ায়।
+v প্রভাবক শুধু বিক্রিয়া দ্রুত করে, ফলে সাম্যাবস্থায় তাড়াতাড়ি পৌঁছায়; সাম্যাবস্থার পরিমাণ বদলায় না।
+## remember
+- কাপড় কাচা সোডা = Na₂CO₃·10H₂O; NaOH + CO₂ থেকে তৈরি।
+- সাবান = R–COONa/R–COOK; তেল/চর্বি + NaOH → সাবান + গ্লিসারিন (সাবানায়ন); NaCl সাবানকে আলাদা করে।
+- সাবান/ডিটারজেন্ট আয়ন: পানি আকর্ষী মাথা + পানি বিকর্ষী লেজ; লেজ তেল ধরে, মাথা পানির দিকে → মিসেল ধুয়ে যায়।
+- ডিটারজেন্ট খর পানিতে কাজ করে ও বেশি পরিষ্কার করে; ফসফেট আর অতিরিক্ত সাবান পুকুর-নদীর ক্ষতি করে।
+- ত্বকের pH ≈ ৪.৮–৫.৫; প্রসাধনী এর সাথে মানানসই হওয়া উচিত।
+- ব্লিচিং পাউডার Ca(OCl)Cl → HOCl → [O], যা রং তোলে ও জীবাণু মারে।
+- গ্লাস ক্লিনার = NH₄OH + আইসোপ্রোপাইল অ্যালকোহল।
+- পরীক্ষাগারে NH₃: NH₄Cl + CaO বা Ca(OH)₂, তাপ। হেবার: N₂ + 3H₂ ⇌ 2NH₃ + 92 kJ; Fe, ৪৫০–৫৫০ °C, ২০০–২৫০ atm।
+- ব্লিচের সাথে এসিড বা অ্যামোনিয়া কখনো মেশাবে না।
+## think
+শন টিউবওয়েলের পানিতে সাবান দিয়ে কাপড় কাচে, কিন্তু কাপড় ম্যাড়ম্যাড়ে থাকে আর ফেনা প্রায় হয়ই না। তার বন্ধু তাকে ডিটারজেন্ট ব্যবহার করতে বলল। আয়নের ভাষায় ব্যাখ্যা করো, ডিটারজেন্ট কেন ভালো কাজ করে।
+## quiz
+? কাপড় কাচা সোডার রাসায়নিক সংকেত:
+- NaHCO₃
+- Na₂CO₃
+* Na₂CO₃·10H₂O
+- NaOH
+= কাপড় কাচা সোডা হলো সোডিয়াম কার্বনেট ডেকাহাইড্রেট; শুধু Na₂CO₃ হলো সোডা অ্যাশ।
+? সাবান আয়নের যে অংশ তেলে দ্রবীভূত হয়:
+- আয়নিক মাথা (হাইড্রোফিলিক)
+* হাইড্রোকার্বন লেজ (হাইড্রোফোবিক)
+- সোডিয়াম আয়ন
+- গ্লিসারিন অংশ
+= লম্বা অপোলার হাইড্রোকার্বন লেজ তেলপ্রেমী (হাইড্রোফোবিক)।
+? কোনটি রঙিন পদার্থকে বর্ণহীন করে?
+- NaOH
+* Ca(OCl)Cl
+- HCl
+- CH₃COOH
+= ব্লিচিং পাউডার HOCl দেয়, যা জায়মান অক্সিজেন ছেড়ে রঙিন পদার্থকে জারিত করে।
+? হেবার পদ্ধতিতে নাইট্রোজেন ও হাইড্রোজেনের অনুপাত:
+- ১ : ২
+* ১ : ৩
+- ২ : ১
+- ৩ : ১
+= N₂ + 3H₂ ⇌ 2NH₃, তাই ১ আয়তন N₂ বিক্রিয়া করে ৩ আয়তন H₂-এর সাথে।
+? সাবান তৈরির সময় NaCl যোগ করা হয় কেন?
+- জীবাণু মারতে
+- স্বাদ আনতে
+* গ্লিসারিন থেকে সাবানকে আলাদা করতে
+- pH বাড়াতে
+= লোনা পানিতে সাবান কম দ্রবণীয়, তাই আলাদা হয়ে সোপ কেক হিসেবে ভেসে ওঠে।
+
+@@ 12.3
+@visual k12agri
+@related 9.4 9.5 12.2 9.7
+== en
+## what
+In agriculture, chemicals are used to correct **soil pH** (limestone for acidic soil, ammonium sulphate for alkaline soil), to supply **nitrogen** (urea, ammonium sulphate) and to **process and preserve** crops, fish and food. Used wrongly, chemicals (formalin, carbide, industrial waste such as heavy metals and caustic soda) harm our health and the environment.
+## simple
+**Limestone for sour soil.** Limestone (চুনাপাথর, CaCO₃) is a valuable mineral; in Bangladesh it is found in large amounts in **Sunamganj** district and on **Saint Martin's Island**. It is the main raw material for **cement**. It also helps farmers: if soil becomes too **acidic** (too many H⁺ ions), limestone is spread on it. It reacts with the H⁺ ions and removes them:
+
+CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O
+
+so the acidity of the soil falls and the Ca²⁺ is also a plant nutrient. (Most crops grow best in soil that is close to neutral.)
+
+**Urea: the farmer's nitrogen.** Plants need a lot of **nitrogen** to grow green leaves, but they cannot take N₂ directly from the air. **Urea, CO(NH₂)₂** (written NH₂–CO–NH₂), is the most widely used nitrogen fertiliser in Bangladesh. It is made by heating **carbon dioxide and ammonia** at high pressure and **130–150 °C**. First **ammonium carbamate** forms, and then it loses water to give urea:
+
+CO₂ + 2NH₃ → NH₂COONH₄
+NH₂COONH₄ → NH₂–CO–NH₂ + H₂O
+
+In the soil, an enzyme called **urease** makes urea react with water, producing ammonium ions, which plant roots absorb:
+
+NH₂–CO–NH₂ + 3H₂O → 2NH₄⁺ + 2OH⁻ + CO₂   (urease)
+
+Urea is also used in industry, for example to make **melamine** polymer (used for plates and cups).
+
+**Ammonium sulphate.** Ammonia reacts with sulphuric acid to form ammonium sulphate:
+
+2NH₃ + H₂SO₄ → (NH₄)₂SO₄
+
+(This is a neutralisation; no water is formed here, although some books write "+ H₂O".) Ammonium sulphate gives plants both **nitrogen** and **sulphur**. Its solution is slightly acidic, so it can react with bases in the soil: when soil becomes too **alkaline**, ammonium sulphate helps bring the pH down.
+
+**Processing agricultural products.** Fruits, vegetables and fish are **agricultural commodities**. Keeping them fresh for longer with chemicals is called **processing**. It has good and bad sides. Ripe mangoes get bruised and spotted when carried long distances by bus, truck or train, and buyers don't want spotted fruit. So some dishonest traders buy **green mangoes**, transport them, and then ripen them with **calcium carbide (CaC₂)**. With moisture, carbide gives **acetylene (ethyne)** gas, which makes the fruit ripen quickly:
+
+CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂
+
+This "carbide ripening" is harmful: industrial carbide can carry traces of poisonous arsenic and phosphorus compounds, and fruit ripened this way often looks yellow outside but is unripe and tasteless inside. Using carbide on food is not allowed.
+
+Fruits also ripen naturally: ripe fruits give off **ethylene (ethene)**, a natural plant hormone, which makes nearby unripe fruits ripen too (that is why one ripe mango in a basket ripens the rest). Your textbook warns that ethylene used as a ripening chemical can also affect our health, and lists ethylene and acetylene as *not recommended* for food.
+
+**Preserving agricultural products.** To stop food from rotting or smelling bad, we use **ice, salt, sugar and vinegar**:
+- **Ice** keeps fish cold, which slows down bacteria and the fish's own enzymes.
+- **Salt** and **sugar** (as in salted fish, jam, murabba) draw water out of microbes by osmosis, so they cannot grow.
+- **Vinegar** makes pickled tomatoes, green mangoes and olives acidic, and bacteria cannot grow in acid. Vinegar in food does us no harm.
+
+**Never formalin.** **Formalin** is a solution of about 37–40% formaldehyde (HCHO) in water. It is used in laboratories to preserve dead animal bodies. It is **poisonous** to humans and animals and can even cause death, so it must **never** be used to preserve fish, fruit or any food.
+
+**Recommended food preservatives.** Chemicals that protect food from bacteria, bad smell and decay are called **food preservatives**. **Recommended (approved)** preservatives are those that do not harm our body in the permitted amounts and are approved by food-safety authorities (the textbook mentions the World Health Organization). Examples: **sodium benzoate, benzoic acid, vinegar, salt solution and sugar solution**. Harmful ones, such as formalin, are **unauthorised**.
+
+**Industrial waste and environmental pollution.** In Bangladesh, **tanneries**, **paint** factories and **pesticide** industries release waste containing **heavy metals** such as **chromium (Cr)**, **lead (Pb)**, **mercury (Hg)** and **cadmium (Cd)**. These metals get into soil and water, then into crops and fish. When we eat them, the metals build up in our body and damage the **kidneys and liver**; they can even cause death. Lead is especially harmful to children's growing brains.
+
+Soap and detergent factories release a lot of **caustic soda (NaOH)** into soil and water. It raises the **pH** (alkalinity) of the water, and fish and water plants cannot live properly in it.
+
+Farming itself can pollute: fertiliser washed from fields into ponds and rivers feeds algae (as phosphate detergents do), and careless pesticide use harms fish, bees and people. The answers include **effluent treatment plants (ETPs)** for factories (for example, the central treatment plant at the Savar tannery estate after tanneries moved from Hazaribagh), using fertiliser in the right amounts after soil testing, and using pesticides only when needed and as directed.
+## analogy
+Soil pH is like the taste of dal while cooking. If it turns too sour, you add something to balance it; if it is too bitter-alkaline, you balance it the other way. Farmers do the same with soil: limestone "sweetens" sour (acidic) soil, and ammonium sulphate tones down alkaline soil, so the crop gets soil that is "just right".
+## definition
+**Liming**: adding limestone (CaCO₃) to acidic soil so that it reacts with H⁺ ions and raises the pH.
+
+**Urea**: CO(NH₂)₂, a nitrogen fertiliser made from ammonia and carbon dioxide; in soil, the enzyme urease converts it into NH₄⁺ ions that plants absorb.
+
+**Processing of agricultural commodities**: using a chemical to keep agricultural products fresh for a long time or save them from decay.
+
+**Food preservative**: a chemical that protects food from bacteria, bad smell and decay. **Recommended (authorised)** preservatives do not harm the body in permitted amounts (e.g. sodium benzoate, benzoic acid, vinegar, salt and sugar solutions); harmful ones are **unauthorised**.
+
+**Heavy metals**: dense, toxic metals such as Cr, Pb, Hg and Cd that build up in living things and damage organs.
+## why
+Why must urea be changed in the soil before plants can use it? Plant roots take up nitrogen mainly as ions (NH₄⁺ and NO₃⁻), not as whole urea molecules or as N₂ gas. The strong N≡N triple bond makes N₂ very unreactive, so plants cannot use the huge amount of nitrogen in the air. Urease breaks urea down into NH₄⁺, which the roots can absorb.
+
+Why are heavy metals so dangerous even in tiny amounts? The body cannot break them down or easily remove them, so each small dose adds to what is already there (**bioaccumulation**). They also bind to proteins and enzymes and stop them from working, which is why organs like the kidneys and liver are damaged.
+## terms
+Limestone (চুনাপাথর) | CaCO₃; used for cement and to reduce soil acidity
+Urea (ইউরিয়া) | CO(NH₂)₂, nitrogen fertiliser (≈ 46.7% N)
+Ammonium carbamate | NH₂COONH₄, the intermediate in making urea
+Urease (ইউরিয়েজ) | Soil enzyme that turns urea into NH₄⁺
+Ammonium sulphate | (NH₄)₂SO₄; gives N and S, lowers soil alkalinity
+Calcium carbide | CaC₂; gives acetylene with water; illegal for ripening fruit
+Ethylene | C₂H₄, natural fruit-ripening hormone
+Formalin | ≈ 37–40% formaldehyde solution; poisonous, never for food
+Food preservative | Chemical that stops food decay; e.g. sodium benzoate
+Heavy metals | Cr, Pb, Hg, Cd; toxic, build up in the body
+ETP | Effluent treatment plant: cleans factory waste water before release
+## formula
+$$ CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O
+$$ CO₂ + 2NH₃ → NH₂COONH₄ → NH₂–CO–NH₂ + H₂O
+$$ NH₂–CO–NH₂ + 3H₂O → 2NH₄⁺ + 2OH⁻ + CO₂
+$$ 2NH₃ + H₂SO₄ → (NH₄)₂SO₄
+$$ CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂
+! % N in urea = 28/60 × 100 ≈ 46.7%; in ammonium sulphate = 28/132 × 100 ≈ 21.2%
+## visual
+Three tabs: fix a field's soil pH with limestone or ammonium sulphate, choose how to preserve different foods (and see which methods are unsafe), and trace how factory waste reaches our plate.
+## real
+Bangladesh uses millions of tonnes of urea every year, much of it made in gas-based factories such as those at Ghorasal and Jamalpur. Hilsa and other fish travel from the coast to Dhaka packed in ice. Mobile courts and food-safety officials test fish and fruit in markets for formalin and carbide. The Buriganga river was badly polluted by chromium-rich tannery waste from Hazaribagh, one reason the tanneries were moved to a leather estate at Savar with a central treatment plant.
+## example
+Q: Calculate the percentage of nitrogen in urea, CO(NH₂)₂, and in ammonium sulphate, (NH₄)₂SO₄. How much urea supplies 1 kg of nitrogen? (C = 12, O = 16, N = 14, H = 1, S = 32)
+Given: M(urea) = 12 + 16 + 2 × (14 + 2) = 60; M((NH₄)₂SO₄) = 2 × 18 + 32 + 64 = 132
+Formula: % N = (mass of N in one formula unit ÷ molar mass) × 100
+Calculation: urea: 28 ÷ 60 × 100 ≈ 46.7%; ammonium sulphate: 28 ÷ 132 × 100 ≈ 21.2%; urea for 1 kg N = 1 ÷ 0.467 ≈ 2.14 kg
+> Both contain 2 N atoms (28 g N per mole), but urea's molar mass is much smaller.
+Answer: urea ≈ 46.7% N, ammonium sulphate ≈ 21.2% N; about 2.14 kg of urea gives 1 kg of nitrogen.
+## example
+Q: What mass of urea can be made from 34 tonnes of ammonia (with enough CO₂)?
+Given: M(NH₃) = 17, M(urea) = 60
+Formula: CO₂ + 2NH₃ → NH₂COONH₄ → NH₂CONH₂ + H₂O (overall 2NH₃ → 1 urea)
+Calculation: 2 × 17 = 34 g NH₃ → 60 g urea; so 34 t NH₃ → 60 t urea
+Answer: 60 tonnes of urea (if the conversion is complete).
+## example
+Q: A soil sample contains 0.2 mol of H⁺ ions that must be neutralised. What mass of limestone is needed? (Ca = 40, C = 12, O = 16)
+Given: M(CaCO₃) = 100 g/mol
+Formula: CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O
+Calculation: moles of CaCO₃ = 0.2 ÷ 2 = 0.1 mol; mass = 0.1 × 100 = 10 g
+Answer: 10 g of limestone.
+## mistakes
+x Plants take nitrogen for their growth directly from the air.
+v Plants cannot use N₂ from air directly; they absorb nitrogen as ions such as NH₄⁺ (from urea or ammonium sulphate).
+x Limestone is added to make soil more acidic.
+v Limestone neutralises H⁺ ions and makes acidic soil less acidic.
+x Formalin is a good preservative because fish stays "fresh-looking" for longer.
+v Formalin is poisonous and must never be used on food. Use ice, salt or approved preservatives.
+x Carbide-ripened fruit is the same as naturally ripened fruit.
+v Carbide ripening is forced and can leave harmful impurities; the fruit may look ripe outside but be unripe inside.
+## remember
+- Acidic soil + limestone: CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O.
+- Urea from CO₂ + 2NH₃ (via ammonium carbamate, 130–150 °C, high pressure); urease turns it into NH₄⁺ in soil.
+- 2NH₃ + H₂SO₄ → (NH₄)₂SO₄: gives N and S; lowers soil alkalinity.
+- Carbide ripening (acetylene) is harmful; ethylene is the natural ripening hormone.
+- Safe preservatives: sodium benzoate, benzoic acid, vinegar, salt, sugar, ice. Never formalin.
+- Heavy metals (Cr, Pb, Hg, Cd) from tanneries, paint and pesticide industries damage kidneys and liver; NaOH waste raises water pH.
+## think
+A farmer's soil test shows the soil is strongly acidic. He also plans to add ammonium sulphate as fertiliser. Should he add limestone first? Explain using what each substance does to the soil's H⁺ ions.
+## quiz
+? Which substance is used to reduce the acidity of soil?
+- Ammonium sulphate
+* Limestone (CaCO₃)
+- Urea
+- Sulphuric acid
+= CaCO₃ reacts with H⁺ ions: CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O.
+? In the soil, plants absorb the nitrogen of urea as:
+- OH⁻
+* NH₄⁺
+- H⁺
+- Cl⁻
+= The enzyme urease converts urea into NH₄⁺ ions, which roots absorb.
+? Which of these is a recommended food preservative?
+- Formalin
+- Calcium carbide
+* Sodium benzoate
+- Acetylene
+= Sodium benzoate is an approved preservative; formalin and carbide are harmful.
+? Waste water from tanneries mainly pollutes rivers with the heavy metal:
+* Chromium
+- Sodium
+- Calcium
+- Magnesium
+= Chromium compounds are used in tanning leather, so tannery waste is rich in chromium.
+== bn
+## what
+কৃষিতে রাসায়নিক পদার্থ ব্যবহার করা হয় **মাটির pH** ঠিক করতে (এসিডীয় মাটিতে চুনাপাথর, ক্ষারীয় মাটিতে অ্যামোনিয়াম সালফেট), **নাইট্রোজেন** জোগাতে (ইউরিয়া, অ্যামোনিয়াম সালফেট) এবং ফসল, মাছ ও খাবার **প্রক্রিয়াজাত ও সংরক্ষণ** করতে। ভুলভাবে ব্যবহার করলে রাসায়নিক পদার্থ (ফরমালিন, কার্বাইড, ভারী ধাতু ও কস্টিক সোডার মতো শিল্প বর্জ্য) আমাদের স্বাস্থ্য ও পরিবেশের ক্ষতি করে।
+## simple
+**টক মাটির জন্য চুনাপাথর।** চুনাপাথর (CaCO₃) একটি মূল্যবান খনিজ সম্পদ; বাংলাদেশে **সুনামগঞ্জ** জেলায় ও **সেন্টমার্টিন দ্বীপে** প্রচুর পাওয়া যায়। **সিমেন্ট** তৈরির প্রধান কাঁচামাল এটি। কৃষকেরও কাজে লাগে: মাটি বেশি **এসিডীয়** হয়ে গেলে (H⁺ আয়ন বেড়ে গেলে) সেই জমিতে চুনাপাথর ছিটানো হয়। এটি H⁺ আয়নের সাথে বিক্রিয়া করে সেগুলো সরিয়ে দেয়:
+
+CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O
+
+ফলে মাটির অম্লত্ব কমে, আর Ca²⁺-ও উদ্ভিদের একটি পুষ্টি উপাদান। (বেশিরভাগ ফসল নিরপেক্ষের কাছাকাছি মাটিতে সবচেয়ে ভালো হয়।)
+
+**ইউরিয়া: কৃষকের নাইট্রোজেন।** সবুজ পাতা গজাতে উদ্ভিদের প্রচুর **নাইট্রোজেন** লাগে, কিন্তু বাতাস থেকে সরাসরি N₂ নিতে পারে না। **ইউরিয়া, CO(NH₂)₂** (লেখা হয় NH₂–CO–NH₂) বাংলাদেশে সবচেয়ে বেশি ব্যবহৃত নাইট্রোজেন সার। উচ্চ চাপে ও **১৩০–১৫০ °C** তাপমাত্রায় **কার্বন ডাই-অক্সাইড ও অ্যামোনিয়া** উত্তপ্ত করে এটি তৈরি করা হয়। প্রথমে **অ্যামোনিয়াম কার্বামেট** তৈরি হয়, তারপর তা থেকে পানি বের হয়ে ইউরিয়া হয়:
+
+CO₂ + 2NH₃ → NH₂COONH₄
+NH₂COONH₄ → NH₂–CO–NH₂ + H₂O
+
+মাটিতে **ইউরিয়েজ** নামের এনজাইমের উপস্থিতিতে ইউরিয়া পানির সাথে বিক্রিয়া করে অ্যামোনিয়াম আয়ন তৈরি করে, যা উদ্ভিদের মূল শোষণ করে:
+
+NH₂–CO–NH₂ + 3H₂O → 2NH₄⁺ + 2OH⁻ + CO₂   (ইউরিয়েজ)
+
+শিল্পক্ষেত্রেও ইউরিয়া ব্যবহৃত হয়, যেমন **মেলামাইন** পলিমার (প্লেট, কাপ) তৈরিতে।
+
+**অ্যামোনিয়াম সালফেট।** অ্যামোনিয়া সালফিউরিক এসিডের সাথে বিক্রিয়া করে অ্যামোনিয়াম সালফেট তৈরি করে:
+
+2NH₃ + H₂SO₄ → (NH₄)₂SO₄
+
+(এটি একটি প্রশমন বিক্রিয়া; এখানে পানি তৈরি হয় না, যদিও কোনো কোনো বইয়ে "+ H₂O" লেখা থাকে।) অ্যামোনিয়াম সালফেট থেকে উদ্ভিদ **নাইট্রোজেন** ও **সালফার** দুটোই পায়। এর দ্রবণ সামান্য এসিডীয়, তাই মাটির ক্ষারকের সাথে বিক্রিয়া করতে পারে: মাটি বেশি **ক্ষারীয়** হলে অ্যামোনিয়াম সালফেট pH কমাতে সাহায্য করে।
+
+**কৃষিদ্রব্য প্রক্রিয়াকরণ।** ফলমূল, শাকসবজি ও মাছকে **কৃষিদ্রব্য** বলে। রাসায়নিক পদার্থ দিয়ে এগুলো দীর্ঘদিন ভালো রাখাকে বলে **প্রক্রিয়াকরণ**। এর ভালো-মন্দ দুই দিকই আছে। বাস, ট্রাক বা ট্রেনে দূরে নেওয়ার সময় পাকা আমে আঘাত লেগে দাগ পড়ে, আর দাগি আম কেউ কিনতে চায় না। তাই কিছু অসাধু ব্যবসায়ী **কাঁচা আম** কিনে পরিবহন করেন, তারপর **ক্যালসিয়াম কার্বাইড (CaC₂)** দিয়ে পাকান। আর্দ্রতার সংস্পর্শে কার্বাইড **অ্যাসিটিলিন (ইথাইন)** গ্যাস দেয়, যা ফলকে দ্রুত পাকিয়ে দেয়:
+
+CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂
+
+এই "কার্বাইড দিয়ে পাকানো" ক্ষতিকর: শিল্পে ব্যবহৃত কার্বাইডে বিষাক্ত আর্সেনিক ও ফসফরাস যৌগের অবশেষ থাকতে পারে, আর এভাবে পাকানো ফল প্রায়ই বাইরে হলুদ দেখালেও ভেতরে কাঁচা ও স্বাদহীন থাকে। খাবারে কার্বাইড ব্যবহার অনুমোদিত নয়।
+
+ফল প্রাকৃতিকভাবেও পাকে: পাকা ফল থেকে **ইথিলিন (ইথিন)** নামের প্রাকৃতিক উদ্ভিদ হরমোন বের হয়, যা আশপাশের কাঁচা ফলকেও পাকিয়ে দেয় (এজন্যই ঝুড়িতে একটা পাকা আম থাকলে বাকিগুলোও পেকে যায়)। তোমার পাঠ্যবই সতর্ক করে যে পাকানোর রাসায়নিক হিসেবে ইথিলিনও আমাদের শরীরে বিরূপ প্রভাব ফেলতে পারে, এবং ইথিলিন ও অ্যাসিটিলিনকে খাবারের জন্য *অননুমোদিত* বলে তালিকাভুক্ত করেছে।
+
+**কৃষিদ্রব্য সংরক্ষণ।** খাবার যেন পচে না যায় বা দুর্গন্ধ না হয়, সেজন্য আমরা **বরফ, লবণ, চিনি ও ভিনেগার** ব্যবহার করি:
+- **বরফ** মাছকে ঠান্ডা রাখে, ফলে ব্যাকটেরিয়া আর মাছের নিজের এনজাইমের কাজ ধীর হয়ে যায়।
+- **লবণ** ও **চিনি** (যেমন শুঁটকি, লোনা মাছ, জ্যাম, মোরব্বা) অভিস্রবণের মাধ্যমে জীবাণুর দেহ থেকে পানি টেনে বের করে, ফলে তারা বাড়তে পারে না।
+- **ভিনেগার** টমেটো, কাঁচা আম ও জলপাইয়ের আচারকে এসিডীয় করে, আর এসিডে ব্যাকটেরিয়া জন্মাতে পারে না। খাবারের সাথে ভিনেগার আমাদের ক্ষতি করে না।
+
+**ফরমালিন কখনো নয়।** **ফরমালিন** হলো পানিতে প্রায় ৩৭–৪০% ফরমালডিহাইডের (HCHO) দ্রবণ। গবেষণাগারে মৃত প্রাণীদেহ সংরক্ষণে এটি ব্যবহৃত হয়। এটি মানুষ ও প্রাণীর জন্য **বিষাক্ত**, এমনকি মৃত্যুর কারণও হতে পারে, তাই মাছ, ফল বা কোনো খাবার সংরক্ষণে এটি **কখনোই** ব্যবহার করা যাবে না।
+
+**অনুমোদিত খাদ্য সংরক্ষক।** যেসব রাসায়নিক খাবারকে ব্যাকটেরিয়া, দুর্গন্ধ ও পচন থেকে রক্ষা করে সেগুলোকে **ফুড প্রিজারভেটিভ** বা খাদ্য সংরক্ষক বলে। **অনুমোদিত** সংরক্ষক হলো সেগুলো, যা অনুমোদিত মাত্রায় শরীরের ক্ষতি করে না এবং খাদ্য নিরাপত্তা কর্তৃপক্ষ অনুমোদন দিয়েছে (পাঠ্যবইয়ে বিশ্ব স্বাস্থ্য সংস্থার কথা বলা হয়েছে)। উদাহরণ: **সোডিয়াম বেনজোয়েট, বেনজোয়িক এসিড, ভিনেগার, লবণের দ্রবণ ও চিনির দ্রবণ**। ফরমালিনের মতো ক্ষতিকরগুলো **অননুমোদিত**।
+
+**শিল্প বর্জ্য ও পরিবেশ দূষণ।** বাংলাদেশে **চামড়া শিল্প (ট্যানারি)**, **রং শিল্প** ও **কীটনাশক শিল্প** থেকে নির্গত বর্জ্যে **ক্রোমিয়াম (Cr)**, **লেড (Pb)**, **মার্কারি (Hg)** ও **ক্যাডমিয়াম (Cd)**-এর মতো **ভারী ধাতু** থাকে। এসব ধাতু মাটি ও পানিতে মিশে ফসল ও মাছে ঢোকে। সেগুলো খেলে ধাতুগুলো আমাদের শরীরে জমতে থাকে এবং **কিডনি ও লিভারের** ক্ষতি করে; এমনকি মৃত্যুও ঘটাতে পারে। লেড বিশেষ করে শিশুদের বেড়ে ওঠা মস্তিষ্কের জন্য ক্ষতিকর।
+
+সাবান ও ডিটারজেন্ট কারখানা থেকে প্রচুর **কস্টিক সোডা (NaOH)** মাটি ও পানিতে নির্গত হয়। এতে পানির **pH** (ক্ষারত্ব) বেড়ে যায়, ফলে মাছ ও জলজ উদ্ভিদ ভালোভাবে বাঁচতে পারে না।
+
+কৃষি নিজেও দূষণ ঘটাতে পারে: খেত থেকে ধুয়ে পুকুর-নদীতে যাওয়া সার শৈবালের খাবার জোগায় (ফসফেটযুক্ত ডিটারজেন্টের মতোই), আর অসাবধানে কীটনাশক ব্যবহার মাছ, মৌমাছি ও মানুষের ক্ষতি করে। সমাধানের মধ্যে আছে কারখানায় **বর্জ্য পরিশোধনাগার (ETP)** (যেমন ট্যানারি হাজারীবাগ থেকে সরিয়ে নেওয়ার পর সাভারের চামড়া শিল্পনগরীর কেন্দ্রীয় পরিশোধনাগার), মাটি পরীক্ষা করে সঠিক মাত্রায় সার দেওয়া, আর প্রয়োজন হলেই কেবল নির্দেশনা মেনে কীটনাশক ব্যবহার।
+## analogy
+মাটির pH যেন রান্নার সময় ডালের স্বাদ। বেশি টক হয়ে গেলে কিছু দিয়ে সামলাও, বেশি কষা-ক্ষারীয় হলে উল্টো দিকে সামলাও। কৃষকও মাটির সাথে তাই করেন: চুনাপাথর টক (এসিডীয়) মাটিকে "মিষ্টি" করে, আর অ্যামোনিয়াম সালফেট ক্ষারীয় মাটিকে সামলায়, যেন ফসল "ঠিকঠাক" মাটি পায়।
+## definition
+**চুন প্রয়োগ**: এসিডীয় মাটিতে চুনাপাথর (CaCO₃) যোগ করা, যাতে এটি H⁺ আয়নের সাথে বিক্রিয়া করে pH বাড়ায়।
+
+**ইউরিয়া**: CO(NH₂)₂, অ্যামোনিয়া ও কার্বন ডাই-অক্সাইড থেকে তৈরি নাইট্রোজেন সার; মাটিতে ইউরিয়েজ এনজাইম একে NH₄⁺ আয়নে পরিণত করে, যা উদ্ভিদ শোষণ করে।
+
+**কৃষিদ্রব্য প্রক্রিয়াকরণ**: রাসায়নিক পদার্থের সাহায্যে কৃষিজাত দ্রব্যকে দীর্ঘদিন ভালো রাখা বা পচন থেকে রক্ষা করার প্রক্রিয়া।
+
+**খাদ্য সংরক্ষক (ফুড প্রিজারভেটিভ)**: যে রাসায়নিক পদার্থ খাবারকে ব্যাকটেরিয়া, দুর্গন্ধ ও পচন থেকে রক্ষা করে। **অনুমোদিত** সংরক্ষক অনুমোদিত মাত্রায় শরীরের ক্ষতি করে না (যেমন সোডিয়াম বেনজোয়েট, বেনজোয়িক এসিড, ভিনেগার, লবণ ও চিনির দ্রবণ); ক্ষতিকরগুলো **অননুমোদিত**।
+
+**ভারী ধাতু**: Cr, Pb, Hg, Cd-এর মতো ঘন ও বিষাক্ত ধাতু, যা জীবদেহে জমে অঙ্গের ক্ষতি করে।
+## why
+উদ্ভিদ ব্যবহারের আগে মাটিতে ইউরিয়ার পরিবর্তন হতে হয় কেন? উদ্ভিদের মূল নাইট্রোজেন নেয় মূলত আয়ন হিসেবে (NH₄⁺ ও NO₃⁻), পুরো ইউরিয়া অণু বা N₂ গ্যাস হিসেবে নয়। N≡N ত্রিবন্ধন খুব শক্ত বলে N₂ প্রায় নিষ্ক্রিয়, তাই বাতাসের বিপুল নাইট্রোজেন উদ্ভিদ কাজে লাগাতে পারে না। ইউরিয়েজ ইউরিয়াকে ভেঙে NH₄⁺ বানায়, যা মূল শোষণ করতে পারে।
+
+সামান্য পরিমাণেও ভারী ধাতু এত বিপজ্জনক কেন? শরীর এগুলো ভাঙতে বা সহজে বের করে দিতে পারে না, তাই প্রতিটি ছোট মাত্রা আগের জমার সাথে যোগ হতে থাকে (**জৈব সঞ্চয়ন**)। এগুলো প্রোটিন ও এনজাইমের সাথে যুক্ত হয়ে তাদের কাজ বন্ধ করে দেয়, এজন্যই কিডনি ও লিভারের মতো অঙ্গের ক্ষতি হয়।
+## terms
+চুনাপাথর | CaCO₃; সিমেন্ট তৈরি ও মাটির অম্লত্ব কমাতে ব্যবহৃত
+ইউরিয়া | CO(NH₂)₂, নাইট্রোজেন সার (≈ ৪৬.৭% N)
+অ্যামোনিয়াম কার্বামেট | NH₂COONH₄, ইউরিয়া তৈরির মধ্যবর্তী যৌগ
+ইউরিয়েজ | মাটির এনজাইম, যা ইউরিয়াকে NH₄⁺-এ পরিণত করে
+অ্যামোনিয়াম সালফেট | (NH₄)₂SO₄; N ও S দেয়, মাটির ক্ষারত্ব কমায়
+ক্যালসিয়াম কার্বাইড | CaC₂; পানির সাথে অ্যাসিটিলিন দেয়; ফল পাকাতে অবৈধ
+ইথিলিন | C₂H₄, ফল পাকানোর প্রাকৃতিক হরমোন
+ফরমালিন | ≈ ৩৭–৪০% ফরমালডিহাইড দ্রবণ; বিষাক্ত, খাবারে কখনো নয়
+খাদ্য সংরক্ষক | খাবারের পচন রোধকারী রাসায়নিক; যেমন সোডিয়াম বেনজোয়েট
+ভারী ধাতু | Cr, Pb, Hg, Cd; বিষাক্ত, শরীরে জমে
+ETP | বর্জ্য পরিশোধনাগার: কারখানার বর্জ্য পানি বাইরে ছাড়ার আগে পরিষ্কার করে
+## formula
+$$ CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O
+$$ CO₂ + 2NH₃ → NH₂COONH₄ → NH₂–CO–NH₂ + H₂O
+$$ NH₂–CO–NH₂ + 3H₂O → 2NH₄⁺ + 2OH⁻ + CO₂
+$$ 2NH₃ + H₂SO₄ → (NH₄)₂SO₄
+$$ CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂
+! ইউরিয়ায় N-এর শতকরা পরিমাণ = ২৮/৬০ × ১০০ ≈ ৪৬.৭%; অ্যামোনিয়াম সালফেটে = ২৮/১৩২ × ১০০ ≈ ২১.২%
+## visual
+তিনটি ট্যাব: চুনাপাথর বা অ্যামোনিয়াম সালফেট দিয়ে একটি জমির মাটির pH ঠিক করো, বিভিন্ন খাবার কীভাবে সংরক্ষণ করবে বেছে নাও (আর দেখো কোন পদ্ধতি অনিরাপদ), এবং খুঁজে দেখো কারখানার বর্জ্য কীভাবে আমাদের খাবারের থালায় পৌঁছায়।
+## real
+বাংলাদেশে প্রতি বছর লক্ষ লক্ষ টন ইউরিয়া ব্যবহৃত হয়, যার অনেকটাই তৈরি হয় ঘোড়াশাল ও জামালপুরের মতো গ্যাসভিত্তিক কারখানায়। উপকূল থেকে ইলিশসহ নানা মাছ বরফে প্যাক করে ঢাকায় আসে। ভ্রাম্যমাণ আদালত ও খাদ্য নিরাপত্তা কর্মকর্তারা বাজারে মাছ ও ফলে ফরমালিন ও কার্বাইড পরীক্ষা করেন। হাজারীবাগের ট্যানারির ক্রোমিয়ামসমৃদ্ধ বর্জ্যে বুড়িগঙ্গা নদী মারাত্মকভাবে দূষিত হয়েছিল; এটি একটি কারণ, যার জন্য ট্যানারিগুলো কেন্দ্রীয় পরিশোধনাগারসহ সাভারের চামড়া শিল্পনগরীতে সরিয়ে নেওয়া হয়।
+## example
+প্রশ্ন: ইউরিয়া, CO(NH₂)₂ এবং অ্যামোনিয়াম সালফেট, (NH₄)₂SO₄-এ নাইট্রোজেনের শতকরা পরিমাণ বের করো। ১ kg নাইট্রোজেন পেতে কত ইউরিয়া লাগবে? (C = ১২, O = ১৬, N = ১৪, H = ১, S = ৩২)
+দেওয়া আছে: M(ইউরিয়া) = ১২ + ১৬ + ২ × (১৪ + ২) = ৬০; M((NH₄)₂SO₄) = ২ × ১৮ + ৩২ + ৬৪ = ১৩২
+সূত্র: N-এর শতকরা পরিমাণ = (এক সংকেত এককে N-এর ভর ÷ মোলার ভর) × ১০০
+হিসাব: ইউরিয়া: ২৮ ÷ ৬০ × ১০০ ≈ ৪৬.৭%; অ্যামোনিয়াম সালফেট: ২৮ ÷ ১৩২ × ১০০ ≈ ২১.২%; ১ kg N-এর জন্য ইউরিয়া = ১ ÷ ০.৪৬৭ ≈ ২.১৪ kg
+> দুটিতেই ২টি N পরমাণু (প্রতি মোলে ২৮ g N), কিন্তু ইউরিয়ার মোলার ভর অনেক কম।
+উত্তর: ইউরিয়া ≈ ৪৬.৭% N, অ্যামোনিয়াম সালফেট ≈ ২১.২% N; প্রায় ২.১৪ kg ইউরিয়া থেকে ১ kg নাইট্রোজেন পাওয়া যায়।
+## example
+প্রশ্ন: ৩৪ টন অ্যামোনিয়া থেকে (যথেষ্ট CO₂ থাকলে) কত ইউরিয়া তৈরি করা যাবে?
+দেওয়া আছে: M(NH₃) = ১৭, M(ইউরিয়া) = ৬০
+সূত্র: CO₂ + 2NH₃ → NH₂COONH₄ → NH₂CONH₂ + H₂O (সামগ্রিকভাবে 2NH₃ → ১ ইউরিয়া)
+হিসাব: ২ × ১৭ = ৩৪ g NH₃ → ৬০ g ইউরিয়া; তাই ৩৪ টন NH₃ → ৬০ টন ইউরিয়া
+উত্তর: ৬০ টন ইউরিয়া (রূপান্তর সম্পূর্ণ হলে)।
+## example
+প্রশ্ন: একটি মাটির নমুনায় ০.২ mol H⁺ আয়ন প্রশমিত করতে হবে। কত গ্রাম চুনাপাথর লাগবে? (Ca = ৪০, C = ১২, O = ১৬)
+দেওয়া আছে: M(CaCO₃) = ১০০ g/mol
+সূত্র: CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O
+হিসাব: CaCO₃-এর মোল = ০.২ ÷ ২ = ০.১ mol; ভর = ০.১ × ১০০ = ১০ g
+উত্তর: ১০ g চুনাপাথর।
+## mistakes
+x উদ্ভিদ বৃদ্ধির জন্য সরাসরি বাতাস থেকে নাইট্রোজেন নেয়।
+v উদ্ভিদ বাতাসের N₂ সরাসরি ব্যবহার করতে পারে না; নাইট্রোজেন নেয় NH₄⁺-এর মতো আয়ন হিসেবে (ইউরিয়া বা অ্যামোনিয়াম সালফেট থেকে)।
+x মাটিকে আরও এসিডীয় করতে চুনাপাথর দেওয়া হয়।
+v চুনাপাথর H⁺ আয়ন প্রশমিত করে এসিডীয় মাটির অম্লত্ব কমায়।
+x ফরমালিন ভালো সংরক্ষক, কারণ মাছ অনেকদিন "টাটকা দেখায়"।
+v ফরমালিন বিষাক্ত, খাবারে কখনো ব্যবহার করা যাবে না। বরফ, লবণ বা অনুমোদিত সংরক্ষক ব্যবহার করো।
+x কার্বাইডে পাকানো ফল আর প্রাকৃতিকভাবে পাকা ফল একই।
+v কার্বাইডে জোর করে পাকানো হয় এবং ক্ষতিকর অপদ্রব্য থেকে যেতে পারে; ফল বাইরে পাকা দেখালেও ভেতরে কাঁচা থাকতে পারে।
+## remember
+- এসিডীয় মাটি + চুনাপাথর: CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O।
+- CO₂ + 2NH₃ থেকে ইউরিয়া (অ্যামোনিয়াম কার্বামেট হয়ে, ১৩০–১৫০ °C, উচ্চ চাপ); মাটিতে ইউরিয়েজ একে NH₄⁺-এ পরিণত করে।
+- 2NH₃ + H₂SO₄ → (NH₄)₂SO₄: N ও S দেয়; মাটির ক্ষারত্ব কমায়।
+- কার্বাইড (অ্যাসিটিলিন) দিয়ে ফল পাকানো ক্ষতিকর; ইথিলিন প্রাকৃতিক পাকানোর হরমোন।
+- নিরাপদ সংরক্ষক: সোডিয়াম বেনজোয়েট, বেনজোয়িক এসিড, ভিনেগার, লবণ, চিনি, বরফ। ফরমালিন কখনো নয়।
+- ট্যানারি, রং ও কীটনাশক শিল্পের ভারী ধাতু (Cr, Pb, Hg, Cd) কিডনি ও লিভারের ক্ষতি করে; NaOH বর্জ্য পানির pH বাড়ায়।
+## think
+একজন কৃষকের মাটি পরীক্ষায় দেখা গেল মাটি খুব এসিডীয়। তিনি সার হিসেবে অ্যামোনিয়াম সালফেটও দিতে চান। তাঁর কি আগে চুনাপাথর দেওয়া উচিত? প্রতিটি পদার্থ মাটির H⁺ আয়নের ওপর কী প্রভাব ফেলে তা দিয়ে ব্যাখ্যা করো।
+## quiz
+? মাটির অম্লত্ব কমাতে কোন পদার্থ ব্যবহার করা হয়?
+- অ্যামোনিয়াম সালফেট
+* চুনাপাথর (CaCO₃)
+- ইউরিয়া
+- সালফিউরিক এসিড
+= CaCO₃ H⁺ আয়নের সাথে বিক্রিয়া করে: CaCO₃ + 2H⁺ → Ca²⁺ + CO₂ + H₂O।
+? মাটিতে উদ্ভিদ ইউরিয়ার নাইট্রোজেন শোষণ করে কোন রূপে?
+- OH⁻
+* NH₄⁺
+- H⁺
+- Cl⁻
+= ইউরিয়েজ এনজাইম ইউরিয়াকে NH₄⁺ আয়নে পরিণত করে, যা মূল শোষণ করে।
+? নিচের কোনটি অনুমোদিত খাদ্য সংরক্ষক?
+- ফরমালিন
+- ক্যালসিয়াম কার্বাইড
+* সোডিয়াম বেনজোয়েট
+- অ্যাসিটিলিন
+= সোডিয়াম বেনজোয়েট অনুমোদিত সংরক্ষক; ফরমালিন ও কার্বাইড ক্ষতিকর।
+? ট্যানারির বর্জ্য পানি নদীকে মূলত কোন ভারী ধাতু দিয়ে দূষিত করে?
+* ক্রোমিয়াম
+- সোডিয়াম
+- ক্যালসিয়াম
+- ম্যাগনেসিয়াম
+= চামড়া ট্যান করতে ক্রোমিয়াম যৌগ ব্যবহৃত হয়, তাই ট্যানারির বর্জ্যে প্রচুর ক্রোমিয়াম থাকে।

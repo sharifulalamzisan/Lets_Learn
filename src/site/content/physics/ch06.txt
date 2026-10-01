@@ -1,0 +1,1930 @@
+@@chapter
+== en
+## intro
+Put a spoon in a cup of hot tea and soon its handle is warm. Leave a glass of cold water on the table and drops appear on the outside. Wet clothes dry on the roof, a pressure cooker cooks rice fast, and a cyclone gathers terrible energy over the Bay of Bengal. Behind all of these is **heat**, and what heat does to matter.
+
+In this chapter you will learn the difference between heat and temperature, how thermometers and temperature scales work, why solids, liquids and gases expand when heated, what specific heat and heat capacity mean, how to calculate the final temperature when hot and cold things are mixed, and how heat changes the state of matter through melting, boiling and evaporation.
+## objectives
+- explain heat, temperature and internal energy, and the direction of heat flow
+- explain thermometric properties and convert between Celsius, Fahrenheit and Kelvin scales
+- explain linear, area and volume expansion of solids and use β = 2α, γ = 3α
+- explain real and apparent expansion of liquids and the expansion of gases (PV = nRT)
+- explain melting, boiling, evaporation, condensation and latent heat
+- list the factors that affect evaporation and explain why evaporation cools
+- define specific heat and heat capacity and use Q = msΔT
+- use the principle of calorimetry (heat lost = heat gained) to solve mixing problems
+- explain the effect of pressure on melting point and boiling point
+== bn
+## intro
+গরম চায়ের কাপে একটা চামচ রাখো, একটু পরেই এর হাতল গরম হয়ে যায়। টেবিলে ঠান্ডা পানির গ্লাস রাখলে বাইরের গায়ে ফোঁটা ফোঁটা পানি জমে। ছাদে ভেজা কাপড় শুকায়, প্রেশার কুকারে ভাত তাড়াতাড়ি রান্না হয়, আর বঙ্গোপসাগরের ওপর ঘূর্ণিঝড় ভয়ংকর শক্তি জোগাড় করে। এসবের পেছনে আছে **তাপ**, আর পদার্থের ওপর তাপের প্রভাব।
+
+এই অধ্যায়ে শিখবে তাপ আর তাপমাত্রার পার্থক্য, থার্মোমিটার আর তাপমাত্রার স্কেল কীভাবে কাজ করে, তাপ দিলে কঠিন, তরল ও গ্যাস কেন প্রসারিত হয়, আপেক্ষিক তাপ ও তাপ ধারণক্ষমতা কী, গরম আর ঠান্ডা জিনিস মেশালে শেষ তাপমাত্রা কীভাবে হিসাব করতে হয়, আর গলন, স্ফুটন ও বাষ্পায়নের মাধ্যমে তাপ কীভাবে পদার্থের অবস্থা বদলায়।
+## objectives
+- তাপ, তাপমাত্রা ও অভ্যন্তরীণ শক্তি এবং তাপপ্রবাহের দিক ব্যাখ্যা করতে পারবে
+- তাপমাত্রিক ধর্ম ব্যাখ্যা করতে এবং সেলসিয়াস, ফারেনহাইট ও কেলভিন স্কেলের মধ্যে রূপান্তর করতে পারবে
+- কঠিন পদার্থের দৈর্ঘ্য, ক্ষেত্রফল ও আয়তন প্রসারণ ব্যাখ্যা করতে এবং β = ২α, γ = ৩α ব্যবহার করতে পারবে
+- তরলের প্রকৃত ও আপাত প্রসারণ এবং গ্যাসের প্রসারণ (PV = nRT) ব্যাখ্যা করতে পারবে
+- গলন, স্ফুটন, বাষ্পায়ন, ঘনীভবন ও সুপ্ততাপ ব্যাখ্যা করতে পারবে
+- বাষ্পায়ন কোন কোন বিষয়ের ওপর নির্ভর করে তা বলতে এবং বাষ্পায়নে শীতলতা কেন হয় ব্যাখ্যা করতে পারবে
+- আপেক্ষিক তাপ ও তাপ ধারণক্ষমতার সংজ্ঞা দিতে এবং Q = msΔT ব্যবহার করতে পারবে
+- ক্যালরিমিতির মূলনীতি (হারানো তাপ = গৃহীত তাপ) দিয়ে মিশ্রণের সমস্যা সমাধান করতে পারবে
+- গলনাঙ্ক ও স্ফুটনাঙ্কের ওপর চাপের প্রভাব ব্যাখ্যা করতে পারবে
+
+@@ 6.1
+@visual c6level
+@related 6.2 6.6 5.6 4.6
+@media https://phet.colorado.edu/en/simulations/energy-forms-and-changes | Energy Forms and Changes (PhET simulation) | শক্তির রূপ ও পরিবর্তন (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Heat** is a form of energy that flows from a hotter body to a colder one. **Temperature** tells us how hot or cold a body is, and it decides which way heat flows.
+## simple
+In daily talk we mix up "heat" and "temperature", but in physics they are different things. Let's see why.
+
+**Heat comes from moving molecules.** Every object is made of molecules that are never still. In a solid they vibrate about fixed positions; in a liquid they roll over one another; in a gas they fly about freely. Heat something and its molecules move faster. So what we call heat energy is, at the molecular level, really the **kinetic energy of molecules**. Since heat is energy, its SI unit is the **joule (J)**. An older unit is the **calorie (cal)**: the heat needed to raise the temperature of 1 g of water by 1 °C. 1 cal ≈ 4.2 J.
+
+**Internal energy.** Add up the energy of all the molecules in an object and you get its **internal energy**. A bucket of warm water has far more internal energy than a red-hot pin, simply because it has so many more molecules.
+
+**So which way does heat flow?** You might guess "from the object with more energy to the object with less". Wrong! Drop a red-hot pin into a bucket of water. The bucket has much more energy, yet heat flows **from the pin into the water**. Heat flow is decided by **temperature**, not by the amount of energy.
+
+**The water-tank picture.** Imagine two tanks joined by a pipe at the bottom. Water flows from the tank with the **higher water level** to the one with the lower level, even if the lower tank holds more water in total. It stops when the two levels are equal. Temperature is like the **height of the water**; heat is like the **amount of water** that flows.
+
+**Thermal equilibrium.** When two bodies at different temperatures touch, heat flows from the hotter one to the colder one until their temperatures become **equal**. Then no more heat flows, and we say they are in **thermal equilibrium**. That is why your tea slowly cools to room temperature and never becomes colder than the room.
+## analogy
+A cup of boiling tea and a bucket of warm bath water: which is hotter? The tea has the higher **temperature**. But the bucket holds far more **heat** energy, because it has so much more water. Temperature tells you how hot each bit is; heat is the total energy that flows. And heat always flows from higher temperature to lower, like water flowing from a higher level to a lower one.
+## definition
+**Heat**: the form of energy that is transferred from one body to another because of a difference in temperature. It comes from the vibration and motion of the molecules of a substance. SI unit: joule (J); 1 calorie = 4.2 J (approximately).
+
+**Temperature**: the thermal state of a body that decides whether it will give heat to, or take heat from, another body in contact with it. At the molecular level it is a measure of the **average kinetic energy** of the molecules.
+
+**Internal energy**: the total energy of all the molecules of a body.
+
+**Thermal equilibrium**: the state in which two bodies in contact have the same temperature, so no net heat flows between them.
+## why
+Why does temperature, not total energy, decide the flow? When two bodies touch, their molecules collide at the boundary. Fast molecules hitting slow ones tend to lose energy and speed the slow ones up. What matters is how fast the molecules are **on average** (the temperature), not how many there are. The pin's few molecules are much faster on average than the water's many molecules, so energy passes from the pin to the water.
+## terms
+Heat | Energy transferred because of a temperature difference; unit J
+Temperature | Degree of hotness; measure of average kinetic energy of molecules
+Internal energy | Total energy of all molecules of a body
+Calorie (cal) | Heat to raise 1 g of water by 1 °C; ≈ 4.2 J
+Thermal equilibrium | Same temperature, so no net heat flow
+## formula
+$$ 1 cal ≈ 4.2 J
+$$ 1 kcal = 1000 cal ≈ 4200 J
+! Heat flows from higher temperature to lower temperature, never the other way by itself.
+## visual
+Set the water level (temperature) and the width (amount) of each tank, then open the valve. Water always flows from the higher level, even when the other tank holds more water.
+## real
+When you hold a glass of cold water in summer, heat flows from your warm hand into the glass, so your hand feels cold. A doctor waits a minute or two after putting a thermometer under your tongue: the thermometer must reach thermal equilibrium with your body before its reading is your temperature.
+## example
+Q: A student's breakfast gives about 500 kcal of energy. How many joules is this?
+Given: 1 kcal = 1000 cal, 1 cal ≈ 4.2 J
+Calculation: 500 kcal = 500 × 1000 cal = 500 000 cal; 500 000 × 4.2 = 2 100 000 J
+Answer: about 2.1 × 10^{6} J (2.1 MJ)
+## example
+Q: A red-hot iron pin at 500 °C is dropped into a bucket of water at 30 °C. The water has much more internal energy than the pin. Which way does heat flow, and when does it stop?
+Given: pin 500 °C, water 30 °C
+> The direction depends only on temperature, not on how much energy each body has.
+Answer: Heat flows from the pin (higher temperature) to the water (lower temperature). It stops when both reach the same temperature (thermal equilibrium), which will be only slightly above 30 °C because the water is so much larger.
+## mistakes
+x Heat and temperature are the same thing.
+v Heat is energy (joule); temperature is the degree of hotness (°C or K) that decides the direction of heat flow.
+x Heat flows from the body with more heat energy to the body with less.
+v Heat flows from higher temperature to lower temperature, whatever the amounts of energy.
+x A big bucket of warm water must be hotter than a small hot pin because it has more heat.
+v It has more internal energy but a lower temperature.
+## remember
+- Heat = energy from molecular motion, transferred because of a temperature difference; unit J; 1 cal ≈ 4.2 J.
+- Temperature = measure of average kinetic energy of molecules; decides the direction of heat flow.
+- Heat flows hot → cold until temperatures are equal (thermal equilibrium).
+- Temperature is like water level; heat is like the amount of water.
+## think
+Can two objects that contain the same amount of heat energy have different temperatures? Explain with an example.
+## quiz
+? Heat flows between two bodies in contact from the one with:
+- More mass
+- More internal energy
+* Higher temperature
+- Larger volume
+= The direction of heat flow depends only on temperature.
+? 1 calorie is about:
+- 1 J
+* 4.2 J
+- 42 J
+- 1000 J
+= 1 cal is the heat to raise 1 g of water by 1 °C, about 4.2 J.
+? Temperature is a measure of the molecules':
+- Total mass
+- Number
+* Average kinetic energy
+- Size
+= The faster the molecules move on average, the higher the temperature.
+== bn
+## what
+**তাপ** হলো এক ধরনের শক্তি, যা গরম বস্তু থেকে ঠান্ডা বস্তুতে যায়। **তাপমাত্রা** বলে দেয় বস্তু কতটা গরম বা ঠান্ডা, আর তাপ কোন দিকে যাবে তা ঠিক করে তাপমাত্রাই।
+## simple
+রোজকার কথায় আমরা "তাপ" আর "তাপমাত্রা" গুলিয়ে ফেলি, কিন্তু পদার্থবিজ্ঞানে এরা আলাদা জিনিস। চলো দেখি কেন।
+
+**তাপ আসে অণুর গতি থেকে।** প্রতিটি বস্তু অণু দিয়ে তৈরি, আর অণুগুলো কখনো স্থির থাকে না। কঠিনে এরা নির্দিষ্ট অবস্থানের চারপাশে কাঁপে; তরলে একটা আরেকটার ওপর দিয়ে গড়িয়ে চলে; গ্যাসে মুক্তভাবে ছোটাছুটি করে। কোনো কিছুতে তাপ দিলে এর অণুগুলো আরও দ্রুত চলে। তাই যাকে আমরা তাপশক্তি বলি, অণুর স্তরে সেটা আসলে **অণুগুলোর গতিশক্তি**। তাপ যেহেতু শক্তি, এর SI একক **জুল (J)**। পুরোনো একটি একক হলো **ক্যালরি (cal)**: ১ g পানির তাপমাত্রা ১ °C বাড়াতে যে তাপ লাগে। ১ cal ≈ ৪.২ J।
+
+**অভ্যন্তরীণ শক্তি।** কোনো বস্তুর সব অণুর শক্তি যোগ করলে পাই এর **অভ্যন্তরীণ শক্তি**। এক বালতি কুসুম গরম পানির অভ্যন্তরীণ শক্তি একটা লাল-গরম আলপিনের চেয়ে অনেক বেশি, কারণ বালতিতে অণুর সংখ্যা অনেক অনেক বেশি।
+
+**তাহলে তাপ কোন দিকে যায়?** মনে হতে পারে "যার শক্তি বেশি তার থেকে যার শক্তি কম তার দিকে"। ভুল! লাল-গরম আলপিনটা এক বালতি পানিতে ফেলো। বালতির শক্তি অনেক বেশি, তবুও তাপ যায় **আলপিন থেকে পানিতে**। তাপপ্রবাহ ঠিক করে **তাপমাত্রা**, শক্তির পরিমাণ নয়।
+
+**পানির ট্যাংকের ছবি।** কল্পনা করো দুটি ট্যাংক নিচে একটা পাইপ দিয়ে যুক্ত। পানি যায় **পানির উচ্চতা যেখানে বেশি** সেখান থেকে যেখানে কম সেখানে, এমনকি নিচু ট্যাংকে মোট পানি বেশি থাকলেও। দুই ট্যাংকের উচ্চতা সমান হলে প্রবাহ থামে। তাপমাত্রা হলো **পানির উচ্চতার** মতো; তাপ হলো প্রবাহিত **পানির পরিমাণের** মতো।
+
+**তাপীয় সাম্যাবস্থা।** ভিন্ন তাপমাত্রার দুটি বস্তু স্পর্শ করলে গরমটি থেকে ঠান্ডাটিতে তাপ যেতে থাকে, যতক্ষণ না দুটির তাপমাত্রা **সমান** হয়। তখন আর তাপ যায় না, আমরা বলি এরা **তাপীয় সাম্যাবস্থায়** আছে। এজন্যই তোমার চা আস্তে আস্তে ঘরের তাপমাত্রায় নেমে আসে, কিন্তু কখনো ঘরের চেয়ে ঠান্ডা হয় না।
+## analogy
+এক কাপ ফুটন্ত চা আর এক বালতি কুসুম গরম গোসলের পানি: কোনটি বেশি গরম? চায়ের **তাপমাত্রা** বেশি। কিন্তু বালতিতে অনেক বেশি **তাপ** শক্তি আছে, কারণ পানি অনেক বেশি। তাপমাত্রা বলে প্রতিটি অংশ কতটা গরম; তাপ হলো প্রবাহিত মোট শক্তি। আর তাপ সবসময় বেশি তাপমাত্রা থেকে কম তাপমাত্রার দিকে যায়, যেমন পানি উঁচু তল থেকে নিচু তলে যায়।
+## definition
+**তাপ**: তাপমাত্রার পার্থক্যের কারণে এক বস্তু থেকে আরেক বস্তুতে যে শক্তি স্থানান্তরিত হয়। এটি আসে পদার্থের অণুগুলোর কম্পন ও গতি থেকে। SI একক: জুল (J); ১ ক্যালরি = ৪.২ J (প্রায়)।
+
+**তাপমাত্রা**: বস্তুর সেই তাপীয় অবস্থা, যা ঠিক করে সংস্পর্শে থাকা অন্য বস্তুকে এটি তাপ দেবে নাকি তার থেকে তাপ নেবে। অণুর স্তরে এটি অণুগুলোর **গড় গতিশক্তির** পরিমাপ।
+
+**অভ্যন্তরীণ শক্তি**: কোনো বস্তুর সব অণুর মোট শক্তি।
+
+**তাপীয় সাম্যাবস্থা**: সংস্পর্শে থাকা দুটি বস্তুর তাপমাত্রা সমান হলে তাদের মধ্যে আর নিট তাপপ্রবাহ হয় না; এই অবস্থাই তাপীয় সাম্যাবস্থা।
+## why
+মোট শক্তি নয়, তাপমাত্রা কেন প্রবাহ ঠিক করে? দুটি বস্তু স্পর্শ করলে সীমানায় তাদের অণুগুলো ধাক্কা খায়। দ্রুত অণু ধীর অণুকে ধাক্কা দিলে দ্রুতটি সাধারণত শক্তি হারায় আর ধীরটি দ্রুত হয়। গুরুত্বপূর্ণ হলো অণুগুলো **গড়ে** কত দ্রুত চলছে (অর্থাৎ তাপমাত্রা), অণু কতগুলো তা নয়। আলপিনের অল্প কয়েকটি অণু পানির অসংখ্য অণুর চেয়ে গড়ে অনেক দ্রুত, তাই শক্তি আলপিন থেকে পানিতে যায়।
+## terms
+তাপ | তাপমাত্রার পার্থক্যের কারণে স্থানান্তরিত শক্তি; একক J
+তাপমাত্রা | উষ্ণতার মাত্রা; অণুর গড় গতিশক্তির পরিমাপ
+অভ্যন্তরীণ শক্তি | বস্তুর সব অণুর মোট শক্তি
+ক্যালরি (cal) | ১ g পানির তাপমাত্রা ১ °C বাড়ানোর তাপ; ≈ ৪.২ J
+তাপীয় সাম্যাবস্থা | তাপমাত্রা সমান, তাই নিট তাপপ্রবাহ নেই
+## formula
+$$ ১ cal ≈ ৪.২ J
+$$ ১ kcal = ১০০০ cal ≈ ৪২০০ J
+! তাপ উচ্চ তাপমাত্রা থেকে নিম্ন তাপমাত্রায় যায়, নিজে থেকে কখনো উল্টো দিকে নয়।
+## visual
+প্রতিটি ট্যাংকের পানির উচ্চতা (তাপমাত্রা) আর চওড়া (পরিমাণ) ঠিক করো, তারপর ভালভ খোলো। অন্য ট্যাংকে বেশি পানি থাকলেও পানি সবসময় উঁচু তল থেকেই যায়।
+## real
+গরমের দিনে ঠান্ডা পানির গ্লাস হাতে ধরলে তোমার গরম হাত থেকে তাপ গ্লাসে যায়, তাই হাত ঠান্ডা লাগে। ডাক্তার জিভের নিচে থার্মোমিটার দিয়ে এক-দুই মিনিট অপেক্ষা করেন: থার্মোমিটারকে তোমার শরীরের সাথে তাপীয় সাম্যাবস্থায় আসতে হয়, তবেই এর পাঠ তোমার তাপমাত্রা।
+## example
+প্রশ্ন: একজন শিক্ষার্থীর সকালের নাশতা থেকে প্রায় ৫০০ kcal শক্তি পাওয়া যায়। এটা কত জুল?
+দেওয়া আছে: ১ kcal = ১০০০ cal, ১ cal ≈ ৪.২ J
+হিসাব: ৫০০ kcal = ৫০০ × ১০০০ cal = ৫ ০০ ০০০ cal; ৫ ০০ ০০০ × ৪.২ = ২১ ০০ ০০০ J
+উত্তর: প্রায় ২.১ × ১০^{৬} J (২.১ MJ)
+## example
+প্রশ্ন: ৫০০ °C তাপমাত্রার একটি লাল-গরম লোহার আলপিন ৩০ °C তাপমাত্রার এক বালতি পানিতে ফেলা হলো। আলপিনের চেয়ে পানির অভ্যন্তরীণ শক্তি অনেক বেশি। তাপ কোন দিকে যাবে, আর কখন থামবে?
+দেওয়া আছে: আলপিন ৫০০ °C, পানি ৩০ °C
+> দিক নির্ভর করে শুধু তাপমাত্রার ওপর, কোন বস্তুর শক্তি কত তার ওপর নয়।
+উত্তর: তাপ যাবে আলপিন (উচ্চ তাপমাত্রা) থেকে পানিতে (নিম্ন তাপমাত্রা)। দুটির তাপমাত্রা সমান হলে (তাপীয় সাম্যাবস্থা) থামবে; পানি অনেক বেশি বলে সেই তাপমাত্রা ৩০ °C-এর চেয়ে সামান্য বেশি হবে।
+## mistakes
+x তাপ আর তাপমাত্রা একই জিনিস।
+v তাপ হলো শক্তি (জুল); তাপমাত্রা হলো উষ্ণতার মাত্রা (°C বা K), যা তাপপ্রবাহের দিক ঠিক করে।
+x যার তাপশক্তি বেশি তার থেকে যার কম তার দিকে তাপ যায়।
+v শক্তির পরিমাণ যা-ই হোক, তাপ যায় উচ্চ তাপমাত্রা থেকে নিম্ন তাপমাত্রায়।
+x এক বড় বালতি কুসুম গরম পানিতে বেশি তাপ, তাই এটা ছোট গরম আলপিনের চেয়ে বেশি গরম।
+v এর অভ্যন্তরীণ শক্তি বেশি, কিন্তু তাপমাত্রা কম।
+## remember
+- তাপ = অণুর গতি থেকে আসা শক্তি, তাপমাত্রার পার্থক্যের কারণে স্থানান্তরিত হয়; একক J; ১ cal ≈ ৪.২ J।
+- তাপমাত্রা = অণুর গড় গতিশক্তির পরিমাপ; তাপপ্রবাহের দিক ঠিক করে।
+- তাপ গরম → ঠান্ডা দিকে যায়, তাপমাত্রা সমান না হওয়া পর্যন্ত (তাপীয় সাম্যাবস্থা)।
+- তাপমাত্রা পানির উচ্চতার মতো; তাপ পানির পরিমাণের মতো।
+## think
+একই পরিমাণ তাপশক্তি আছে এমন দুটি বস্তুর তাপমাত্রা কি ভিন্ন হতে পারে? উদাহরণ দিয়ে ব্যাখ্যা করো।
+## quiz
+? সংস্পর্শে থাকা দুটি বস্তুর মধ্যে তাপ যায় যেটির:
+- ভর বেশি
+- অভ্যন্তরীণ শক্তি বেশি
+* তাপমাত্রা বেশি
+- আয়তন বেশি
+= তাপপ্রবাহের দিক নির্ভর করে শুধু তাপমাত্রার ওপর।
+? ১ ক্যালরি প্রায়:
+- ১ J
+* ৪.২ J
+- ৪২ J
+- ১০০০ J
+= ১ g পানির তাপমাত্রা ১ °C বাড়াতে যে তাপ লাগে তা-ই ১ cal, প্রায় ৪.২ J।
+? তাপমাত্রা হলো অণুগুলোর কোনটির পরিমাপ?
+- মোট ভর
+- সংখ্যা
+* গড় গতিশক্তি
+- আকার
+= অণুগুলো গড়ে যত দ্রুত চলে, তাপমাত্রা তত বেশি।
+
+@@ 6.2
+@visual c6therm
+@related 6.1 6.3.2 6.4
+== en
+## what
+A **thermometric property** is a property of a substance that changes steadily with temperature, so we can use it to measure temperature. Temperature is expressed on the **Celsius**, **Fahrenheit** and **Kelvin** scales, which are related by T_{C}/5 = (T_{F} − 32)/9 = (T_{K} − 273.15)/5.
+## simple
+We can't see molecules, so we measure temperature **indirectly**: we find something that changes neatly when things get hotter.
+
+**Thermometric property.** In the clinical thermometer the doctor puts in your mouth, **mercury** is the **thermometric substance** and its **volume expansion** is the **thermometric property**: the hotter it gets, the higher the mercury climbs in the thin tube. Some other examples:
+
+- Alcohol thermometer: alcohol expands.
+- Gas thermometer: the **pressure** of a gas kept at constant volume rises with temperature.
+- Resistance thermometer: the **electrical resistance** of a metal changes with temperature.
+- **Thermocouple**: two different metals (for example copper and constantan) joined at two junctions; if the junctions are at different temperatures an emf (voltage) appears. Thermocouples cover a wide range (the book mentions −200 °C to 1000 °C), so factories use them a lot.
+
+No single substance works at every temperature, so very high or very low temperatures need special thermometers.
+
+**Fixed points.** To make a scale we need two reference temperatures that can be reproduced exactly.
+
+- **Celsius**: melting ice = 0 °C, boiling water (at normal pressure) = 100 °C. Fun fact: Celsius originally marked it the other way round, with 0 for boiling and 100 for freezing!
+- **Fahrenheit**: melting ice = 32 °F, boiling water = 212 °F.
+- **Kelvin** (the SI scale): the lower fixed point is **absolute zero**, the lowest temperature possible, taken as 0 K (= −273.15 °C). We can get very close to it but never reach it. The other fixed point is the **triple point of water**, where ice, water and water vapour exist together (at a pressure of about 0.006 atm): 273.16 K, which is 0.01 °C.
+
+**Celsius and Kelvin steps are the same size.** A rise of 10 °C is exactly a rise of 10 K; only the starting point differs. A room at 30 °C is 30 + 273.15 = 303.15 K. In everyday work we often use 273 instead of 273.15.
+
+**The relation.** Between the ice point and the steam point, Celsius has 100 steps, Kelvin 100 steps and Fahrenheit 180 steps. So the same temperature sits at the same fraction of the way up on each scale:
+
+T_{C}/100 = (T_{K} − 273.15)/100 = (T_{F} − 32)/180
+
+Dividing by 20: **T_{C}/5 = (T_{F} − 32)/9 = (T_{K} − 273.15)/5**
+## analogy
+Measuring temperature in °C, °F or K is like measuring your height in centimetres or in feet: the same height, different numbers. The scales just start at different places (0 °C, 32 °F, 273 K all mean "ice melts") and use different step sizes.
+## definition
+**Thermometric property**: a property of a substance that changes with temperature in a measurable way and is used to measure temperature (e.g. volume of mercury, pressure of a gas at constant volume, resistance of a metal, emf of a thermocouple). The substance is the **thermometric substance**.
+
+**Absolute zero**: the lowest possible temperature, 0 K = −273.15 °C.
+
+**Triple point of water**: the single temperature and pressure at which ice, liquid water and water vapour can exist together in equilibrium; 273.16 K (0.01 °C).
+
+**Relation between the scales**: T_{C}/5 = (T_{F} − 32)/9 = (T_{K} − 273.15)/5.
+## why
+Why does the relation work? Every scale divides the same gap, from melting ice to boiling water, into equal steps: 100 on Celsius and Kelvin, 180 on Fahrenheit. If a temperature is 37% of the way up that gap on one scale, it is 37% of the way up on every scale. Writing "fraction of the way up" for each scale and setting them equal gives the formula.
+## terms
+Thermometric property | Property that changes with temperature and is used to measure it
+Thermometric substance | The substance used (mercury, alcohol, gas…)
+Fixed point | Reproducible reference temperature for a scale
+Absolute zero | Lowest possible temperature, 0 K = −273.15 °C
+Triple point of water | Ice, water, vapour together; 273.16 K = 0.01 °C
+Thermocouple | Two metal junctions that give an emf depending on temperature
+## formula
+$$ T_{C}/5 = (T_{F} − 32)/9 = (T_{K} − 273.15)/5
+$$ T_{K} = T_{C} + 273.15
+$$ T_{C} = 5(T_{F} − 32)/9
+$$ T_{F} = 9T_{C}/5 + 32
+T_{C} | Celsius temperature | °C
+T_{F} | Fahrenheit temperature | °F
+T_{K} | Kelvin temperature | K
+! A change of 1 °C = a change of 1 K = a change of 1.8 °F.
+! Kelvin readings are written without the degree sign: 300 K, not 300 °K.
+## visual
+Drag the temperature or tap a preset. The three thermometers show the same temperature on the Celsius, Fahrenheit and Kelvin scales side by side.
+## real
+Weather reports in Bangladesh use °C; many medical thermometers show °F, where normal body temperature is about 98.4 °F (the book's value; 98.6 °F is also often quoted). Scientists and engineers use kelvin, especially for very cold things such as liquid nitrogen (77 K).
+## example
+Q: At what temperature do the Celsius and Fahrenheit scales show the same reading?
+Formula: T_{C}/5 = (T_{F} − 32)/9
+Substitution: put T_{C} = T_{F} = x: x/5 = (x − 32)/9
+Calculation: 9x = 5x − 160 → 4x = −160 → x = −40
+Answer: −40 °C = −40 °F
+## example
+Q: At what temperature do the Kelvin and Fahrenheit scales show the same reading?
+Formula: (T_{K} − 273.15)/5 = (T_{F} − 32)/9
+Substitution: put T_{K} = T_{F} = x: 9(x − 273.15) = 5(x − 32)
+Calculation: 9x − 2458.35 = 5x − 160 → 4x = 2298.35 → x ≈ 574.59
+Answer: 574.59 K = 574.59 °F
+## example
+Q: The temperature of a healthy body is 98.4 °F. What is it in Celsius and in kelvin?
+Formula: T_{C} = 5(T_{F} − 32)/9; T_{K} = T_{C} + 273.15
+Calculation: T_{C} = 5 × (98.4 − 32) ÷ 9 = 5 × 66.4 ÷ 9 ≈ 36.89 °C; T_{K} = 36.89 + 273.15 = 310.04 K
+Answer: about 36.9 °C (nearly 37 °C), about 310 K
+## example
+Q: Is there any temperature at which Celsius and Kelvin readings are equal?
+Formula: T_{K} = T_{C} + 273.15
+> The Kelvin reading is always 273.15 more than the Celsius reading.
+Answer: Never.
+## mistakes
+x The Kelvin scale has bigger degrees than the Celsius scale.
+v The steps are equal; only the zero is shifted by 273.15.
+x We can cool something below 0 K if we try hard enough.
+v 0 K (absolute zero) is the lowest possible temperature; it can be approached but never reached.
+x To convert °C to °F, just multiply by 1.8.
+v Multiply by 9/5 and then add 32: T_{F} = 9T_{C}/5 + 32.
+## remember
+- Thermometric property: volume of mercury/alcohol, gas pressure at constant volume, resistance, thermocouple emf.
+- Fixed points: Celsius 0 and 100; Fahrenheit 32 and 212; Kelvin absolute zero (0 K) and triple point of water (273.16 K).
+- T_{C}/5 = (T_{F} − 32)/9 = (T_{K} − 273.15)/5.
+- −40 °C = −40 °F; 0 °C = 273.15 K.
+## think
+Does "temperature" have any meaning in completely empty space, where there are no atoms or molecules at all?
+## quiz
+? 100 °C on the Fahrenheit scale is:
+- 180 °F
+* 212 °F
+- 100 °F
+- 373 °F
+= T_{F} = 9 × 100/5 + 32 = 212 °F.
+? 27 °C in kelvin is:
+- 246.15 K
+- 27 K
+* 300.15 K
+- 327.15 K
+= T_{K} = 27 + 273.15 = 300.15 K.
+? In a gas thermometer, the thermometric property is:
+- The colour of the gas
+* The pressure of the gas at constant volume
+- The mass of the gas
+- The length of the glass tube
+= At constant volume, gas pressure rises steadily with temperature.
+? A temperature rise of 20 °C equals a rise of:
+- 20 °F
+* 20 K
+- 293 K
+- 68 K
+= Celsius and Kelvin steps are the same size.
+== bn
+## what
+**তাপমাত্রিক ধর্ম** হলো পদার্থের এমন একটি ধর্ম, যা তাপমাত্রার সাথে নিয়মিতভাবে বদলায়, তাই একে দিয়ে তাপমাত্রা মাপা যায়। তাপমাত্রা প্রকাশ করা হয় **সেলসিয়াস**, **ফারেনহাইট** ও **কেলভিন** স্কেলে, যাদের সম্পর্ক T_{C}/৫ = (T_{F} − ৩২)/৯ = (T_{K} − ২৭৩.১৫)/৫।
+## simple
+অণু আমরা দেখতে পাই না, তাই তাপমাত্রা মাপি **পরোক্ষভাবে**: এমন কিছু খুঁজি যা গরম হলে সুন্দরভাবে বদলায়।
+
+**তাপমাত্রিক ধর্ম।** ডাক্তার জ্বর মাপতে যে থার্মোমিটার মুখে দেন, সেখানে **পারদ** হলো **তাপমাত্রিক পদার্থ** আর এর **আয়তন প্রসারণ** হলো **তাপমাত্রিক ধর্ম**: যত গরম, সরু নলে পারদ তত ওপরে ওঠে। আরও কিছু উদাহরণ:
+
+- অ্যালকোহল থার্মোমিটার: অ্যালকোহল প্রসারিত হয়।
+- গ্যাস থার্মোমিটার: স্থির আয়তনে রাখা গ্যাসের **চাপ** তাপমাত্রার সাথে বাড়ে।
+- রোধ থার্মোমিটার: ধাতুর **রোধ** তাপমাত্রার সাথে বদলায়।
+- **থার্মোকাপল**: দুটি ভিন্ন ধাতু (যেমন তামা ও কনস্ট্যান্টান) দুই জায়গায় জোড়া লাগানো; জোড়া দুটি ভিন্ন তাপমাত্রায় থাকলে একটি তড়িচ্চালক শক্তি (ভোল্টেজ) তৈরি হয়। থার্মোকাপল অনেক বড় পরিসরে কাজ করে (বইয়ে −২০০ °C থেকে ১০০০ °C বলা আছে), তাই কলকারখানায় এর ব্যাপক ব্যবহার।
+
+কোনো একটি পদার্থ সব তাপমাত্রায় কাজ করে না, তাই খুব বেশি বা খুব কম তাপমাত্রা মাপতে বিশেষ থার্মোমিটার লাগে।
+
+**স্থিরাঙ্ক।** স্কেল বানাতে দুটি নির্দিষ্ট তাপমাত্রা দরকার, যা বারবার নিখুঁতভাবে পাওয়া যায়।
+
+- **সেলসিয়াস**: বরফ গলার তাপমাত্রা = ০ °C, পানি ফোটার তাপমাত্রা (স্বাভাবিক চাপে) = ১০০ °C। মজার কথা: সেলসিয়াস প্রথমে উল্টো করে দাগ দিয়েছিলেন, ফোটার জন্য ০ আর জমার জন্য ১০০!
+- **ফারেনহাইট**: বরফ গলা = ৩২ °F, পানি ফোটা = ২১২ °F।
+- **কেলভিন** (SI স্কেল): নিচের স্থিরাঙ্ক **পরম শূন্য**, অর্থাৎ সম্ভাব্য সর্বনিম্ন তাপমাত্রা, একে ধরা হয় ০ K (= −২৭৩.১৫ °C)। এর খুব কাছে যাওয়া যায়, কিন্তু কখনো পৌঁছানো যায় না। অন্য স্থিরাঙ্ক **পানির ত্রৈধ বিন্দু**, যেখানে বরফ, পানি আর জলীয় বাষ্প একসাথে থাকে (প্রায় ০.০০৬ atm চাপে): ২৭৩.১৬ K, অর্থাৎ ০.০১ °C।
+
+**সেলসিয়াস আর কেলভিনের ঘর একই মাপের।** ১০ °C বাড়া মানে ঠিক ১০ K বাড়া; শুধু শুরুর বিন্দু আলাদা। ৩০ °C তাপমাত্রার ঘর মানে ৩০ + ২৭৩.১৫ = ৩০৩.১৫ K। দৈনন্দিন হিসাবে অনেক সময় ২৭৩.১৫-এর বদলে ২৭৩ ধরা হয়।
+
+**সম্পর্ক।** বরফ গলা থেকে পানি ফোটা পর্যন্ত সেলসিয়াসে ১০০ ঘর, কেলভিনে ১০০ ঘর, আর ফারেনহাইটে ১৮০ ঘর। তাই একই তাপমাত্রা প্রতিটি স্কেলে একই ভগ্নাংশ ওপরে থাকে:
+
+T_{C}/১০০ = (T_{K} − ২৭৩.১৫)/১০০ = (T_{F} − ৩২)/১৮০
+
+২০ দিয়ে ভাগ করে: **T_{C}/৫ = (T_{F} − ৩২)/৯ = (T_{K} − ২৭৩.১৫)/৫**
+## analogy
+তাপমাত্রা °C, °F বা K-তে মাপা মানে উচ্চতা সেন্টিমিটার বা ফুটে মাপার মতো: উচ্চতা একই, সংখ্যা ভিন্ন। স্কেলগুলো শুধু ভিন্ন জায়গা থেকে শুরু হয় (০ °C, ৩২ °F, ২৭৩ K সবগুলোর মানে "বরফ গলে") আর ধাপের মাপ ভিন্ন।
+## definition
+**তাপমাত্রিক ধর্ম**: পদার্থের যে ধর্ম তাপমাত্রার সাথে পরিমাপযোগ্যভাবে বদলায় এবং তাপমাত্রা মাপতে ব্যবহৃত হয় (যেমন পারদের আয়তন, স্থির আয়তনে গ্যাসের চাপ, ধাতুর রোধ, থার্মোকাপলের তড়িচ্চালক শক্তি)। পদার্থটিকে বলে **তাপমাত্রিক পদার্থ**।
+
+**পরম শূন্য**: সম্ভাব্য সর্বনিম্ন তাপমাত্রা, ০ K = −২৭৩.১৫ °C।
+
+**পানির ত্রৈধ বিন্দু**: যে একটিমাত্র তাপমাত্রা ও চাপে বরফ, পানি ও জলীয় বাষ্প সাম্যাবস্থায় একসাথে থাকতে পারে; ২৭৩.১৬ K (০.০১ °C)।
+
+**স্কেলগুলোর সম্পর্ক**: T_{C}/৫ = (T_{F} − ৩২)/৯ = (T_{K} − ২৭৩.১৫)/৫।
+## why
+সম্পর্কটা কেন খাটে? প্রতিটি স্কেল একই ফাঁক, অর্থাৎ বরফ গলা থেকে পানি ফোটা পর্যন্ত, সমান ঘরে ভাগ করে: সেলসিয়াস ও কেলভিনে ১০০, ফারেনহাইটে ১৮০। কোনো তাপমাত্রা একটি স্কেলে ফাঁকের ৩৭% ওপরে থাকলে সব স্কেলেই ৩৭% ওপরে থাকবে। প্রতিটি স্কেলের জন্য "কত ভাগ ওপরে" লিখে সমান করলেই সূত্রটা পাই।
+## terms
+তাপমাত্রিক ধর্ম | যে ধর্ম তাপমাত্রার সাথে বদলায় এবং তাপমাত্রা মাপতে ব্যবহৃত হয়
+তাপমাত্রিক পদার্থ | ব্যবহৃত পদার্থ (পারদ, অ্যালকোহল, গ্যাস…)
+স্থিরাঙ্ক | স্কেলের জন্য বারবার পাওয়া যায় এমন নির্দিষ্ট তাপমাত্রা
+পরম শূন্য | সম্ভাব্য সর্বনিম্ন তাপমাত্রা, ০ K = −২৭৩.১৫ °C
+পানির ত্রৈধ বিন্দু | বরফ, পানি, বাষ্প একসাথে; ২৭৩.১৬ K = ০.০১ °C
+থার্মোকাপল | দুটি ধাতব সংযোগ, তাপমাত্রা অনুযায়ী তড়িচ্চালক শক্তি দেয়
+## formula
+$$ T_{C}/৫ = (T_{F} − ৩২)/৯ = (T_{K} − ২৭৩.১৫)/৫
+$$ T_{K} = T_{C} + ২৭৩.১৫
+$$ T_{C} = ৫(T_{F} − ৩২)/৯
+$$ T_{F} = ৯T_{C}/৫ + ৩২
+T_{C} | সেলসিয়াস তাপমাত্রা | °C
+T_{F} | ফারেনহাইট তাপমাত্রা | °F
+T_{K} | কেলভিন তাপমাত্রা | K
+! ১ °C পরিবর্তন = ১ K পরিবর্তন = ১.৮ °F পরিবর্তন।
+! কেলভিন লেখার সময় ডিগ্রি চিহ্ন বসে না: ৩০০ K, ৩০০ °K নয়।
+## visual
+তাপমাত্রা টেনে বদলাও বা একটি নির্দিষ্ট মান বেছে নাও। তিনটি থার্মোমিটার পাশাপাশি একই তাপমাত্রা সেলসিয়াস, ফারেনহাইট আর কেলভিনে দেখায়।
+## real
+বাংলাদেশের আবহাওয়ার খবরে °C ব্যবহার হয়; অনেক জ্বর মাপার থার্মোমিটারে °F থাকে, যেখানে সুস্থ দেহের তাপমাত্রা প্রায় ৯৮.৪ °F (বইয়ের মান; অনেক জায়গায় ৯৮.৬ °F-ও বলা হয়)। বিজ্ঞানী ও প্রকৌশলীরা কেলভিন ব্যবহার করেন, বিশেষ করে খুব ঠান্ডা জিনিসের বেলায়, যেমন তরল নাইট্রোজেন (৭৭ K)।
+## example
+প্রশ্ন: কোন তাপমাত্রায় সেলসিয়াস আর ফারেনহাইট স্কেলে একই পাঠ দেখায়?
+সূত্র: T_{C}/৫ = (T_{F} − ৩২)/৯
+মান বসাই: T_{C} = T_{F} = x ধরে: x/৫ = (x − ৩২)/৯
+হিসাব: ৯x = ৫x − ১৬০ → ৪x = −১৬০ → x = −৪০
+উত্তর: −৪০ °C = −৪০ °F
+## example
+প্রশ্ন: কোন তাপমাত্রায় কেলভিন আর ফারেনহাইট স্কেলে একই পাঠ দেখায়?
+সূত্র: (T_{K} − ২৭৩.১৫)/৫ = (T_{F} − ৩২)/৯
+মান বসাই: T_{K} = T_{F} = x ধরে: ৯(x − ২৭৩.১৫) = ৫(x − ৩২)
+হিসাব: ৯x − ২৪৫৮.৩৫ = ৫x − ১৬০ → ৪x = ২২৯৮.৩৫ → x ≈ ৫৭৪.৫৯
+উত্তর: ৫৭৪.৫৯ K = ৫৭৪.৫৯ °F
+## example
+প্রশ্ন: সুস্থ দেহের তাপমাত্রা ৯৮.৪ °F। সেলসিয়াস ও কেলভিনে এটা কত?
+সূত্র: T_{C} = ৫(T_{F} − ৩২)/৯; T_{K} = T_{C} + ২৭৩.১৫
+হিসাব: T_{C} = ৫ × (৯৮.৪ − ৩২) ÷ ৯ = ৫ × ৬৬.৪ ÷ ৯ ≈ ৩৬.৮৯ °C; T_{K} = ৩৬.৮৯ + ২৭৩.১৫ = ৩১০.০৪ K
+উত্তর: প্রায় ৩৬.৯ °C (প্রায় ৩৭ °C), প্রায় ৩১০ K
+## example
+প্রশ্ন: এমন কোনো তাপমাত্রা কি আছে যেখানে সেলসিয়াস আর কেলভিন পাঠ সমান?
+সূত্র: T_{K} = T_{C} + ২৭৩.১৫
+> কেলভিন পাঠ সবসময় সেলসিয়াস পাঠের চেয়ে ২৭৩.১৫ বেশি।
+উত্তর: কখনোই না।
+## mistakes
+x কেলভিন স্কেলের ঘর সেলসিয়াসের চেয়ে বড়।
+v ঘর সমান; শুধু শূন্য বিন্দু ২৭৩.১৫ সরানো।
+x চেষ্টা করলে কোনো কিছুকে ০ K-এর নিচে ঠান্ডা করা যায়।
+v ০ K (পরম শূন্য) সম্ভাব্য সর্বনিম্ন তাপমাত্রা; এর কাছে যাওয়া যায়, কিন্তু পৌঁছানো যায় না।
+x °C থেকে °F করতে শুধু ১.৮ দিয়ে গুণ করলেই হয়।
+v ৯/৫ দিয়ে গুণ করে তারপর ৩২ যোগ করতে হয়: T_{F} = ৯T_{C}/৫ + ৩২।
+## remember
+- তাপমাত্রিক ধর্ম: পারদ/অ্যালকোহলের আয়তন, স্থির আয়তনে গ্যাসের চাপ, রোধ, থার্মোকাপলের তড়িচ্চালক শক্তি।
+- স্থিরাঙ্ক: সেলসিয়াস ০ ও ১০০; ফারেনহাইট ৩২ ও ২১২; কেলভিন পরম শূন্য (০ K) ও পানির ত্রৈধ বিন্দু (২৭৩.১৬ K)।
+- T_{C}/৫ = (T_{F} − ৩২)/৯ = (T_{K} − ২৭৩.১৫)/৫।
+- −৪০ °C = −৪০ °F; ০ °C = ২৭৩.১৫ K।
+## think
+যেখানে কোনো পরমাণু বা অণুই নেই, এমন সম্পূর্ণ ফাঁকা মহাশূন্যে "তাপমাত্রা" কথাটার কি কোনো অর্থ আছে?
+## quiz
+? ১০০ °C ফারেনহাইট স্কেলে:
+- ১৮০ °F
+* ২১২ °F
+- ১০০ °F
+- ৩৭৩ °F
+= T_{F} = ৯ × ১০০/৫ + ৩২ = ২১২ °F।
+? ২৭ °C কেলভিনে:
+- ২৪৬.১৫ K
+- ২৭ K
+* ৩০০.১৫ K
+- ৩২৭.১৫ K
+= T_{K} = ২৭ + ২৭৩.১৫ = ৩০০.১৫ K।
+? গ্যাস থার্মোমিটারে তাপমাত্রিক ধর্ম হলো:
+- গ্যাসের রং
+* স্থির আয়তনে গ্যাসের চাপ
+- গ্যাসের ভর
+- কাচনলের দৈর্ঘ্য
+= স্থির আয়তনে গ্যাসের চাপ তাপমাত্রার সাথে নিয়মিত বাড়ে।
+? ২০ °C তাপমাত্রা বাড়া মানে কত বাড়া?
+- ২০ °F
+* ২০ K
+- ২৯৩ K
+- ৬৮ K
+= সেলসিয়াস আর কেলভিনের ঘর একই মাপের।
+
+@@ 6.3.1
+@visual c6lin
+@related 6.3.2 6.1 6.5 5.5
+== en
+## what
+When a solid is heated, its length, area and volume all increase a little. This is **thermal expansion**. The fractional increase in length for each 1 K (or 1 °C) rise in temperature is the **coefficient of linear expansion**, α.
+## simple
+Look at a railway track and you will see a small **gap** between one rail and the next. It is not careless work: on a hot summer afternoon the rails get longer, and without those gaps they would push against each other and bend.
+
+**Why do solids expand? The spring model.** Imagine the molecules of a solid as balls joined to their neighbours by tiny springs. Heat the solid and the balls vibrate harder. So far the molecules just shake more; that alone would not make the solid bigger. But the "springs" between atoms are special: they are **easy to stretch but hard to squeeze**. Pull two atoms apart and the force pulling them back is fairly weak; push them together by the same distance and the force pushing them apart is much stronger.
+
+So as the vibration grows, each molecule swings **farther outward than inward**. On average the molecules settle a little farther apart. When every molecule moves slightly away from its neighbours, the whole solid grows.
+
+**Three coefficients.** A solid grows in length, breadth and height together, so we describe it in three ways.
+
+- **Linear expansion** (length): α = (L_{2} − L_{1})/L_{1} ÷ (T_{2} − T_{1}). In words: the fraction by which the length grows, per degree.
+- **Area expansion**: β, the same idea for area.
+- **Volume expansion**: γ, the same idea for volume.
+
+All three have the unit **K^{-1}**. Because a change of 1 °C equals a change of 1 K, the same number can also be written in °C^{-1}.
+
+**The numbers are tiny.** For steel α is about 12 × 10^{-6} K^{-1}, for copper about 17 × 10^{-6} K^{-1}, for aluminium about 23 × 10^{-6} K^{-1}. A 10 m steel rod heated by 100 °C grows by only about 1.2 cm.
+
+**β = 2α and γ = 3α.** Take a square plate of side L_{1}. After heating, each side becomes L_{1}(1 + αΔT), so the area becomes L_{1}^{2}(1 + αΔT)^{2} = L_{1}^{2}[1 + 2αΔT + α^{2}ΔT^{2}]. Since α is so small, α^{2} is far smaller still (about 10^{-10}) and we can drop that term. What is left is A_{2} = A_{1}(1 + 2αΔT), so **β = 2α**. A cube works the same way with three sides, giving **γ = 3α**. That is why we usually only need to know α.
+## analogy
+Imagine a crowd of people standing in a hall. Start the music, and they begin to dance: each person now needs more room, so the whole crowd spreads out. When a solid is heated, its particles vibrate harder and push each other a little further apart, so the solid gets slightly bigger.
+## definition
+**Coefficient of linear expansion (α)**: the increase in length per unit original length for a 1 K rise in temperature. α = (L_{2} − L_{1}) / [L_{1}(T_{2} − T_{1})].
+
+**Coefficient of area expansion (β)**: the increase in area per unit original area for a 1 K rise in temperature. β = (A_{2} − A_{1}) / [A_{1}(T_{2} − T_{1})].
+
+**Coefficient of volume expansion (γ)**: the increase in volume per unit original volume for a 1 K rise in temperature. γ = (V_{2} − V_{1}) / [V_{1}(T_{2} − T_{1})].
+
+For a solid, β = 2α and γ = 3α. The unit of each is K^{-1}.
+## why
+The force between two atoms is not symmetric. Squeezing them closer is resisted very strongly, while pulling them apart is resisted more gently. When the atoms vibrate with more energy, this lopsided force lets them spend more time on the "far" side of their resting position. Their average separation grows, and so the solid expands. Stronger-bonded, stiffer materials (like glass or invar steel) expand less; softer metals (like aluminium or lead) expand more.
+## terms
+Thermal expansion | Increase in size of a substance on heating
+Coefficient of linear expansion (α) | Fractional increase in length per 1 K rise
+Coefficient of area expansion (β) | Fractional increase in area per 1 K rise; β = 2α
+Coefficient of volume expansion (γ) | Fractional increase in volume per 1 K rise; γ = 3α
+Expansion gap / joint | Space left in rails and bridges so they can expand safely
+## formula
+$$ α = (L_{2} − L_{1}) / [L_{1}(T_{2} − T_{1})]
+$$ L_{2} = L_{1}[1 + α(T_{2} − T_{1})]
+$$ A_{2} = A_{1}[1 + β(T_{2} − T_{1})]
+$$ V_{2} = V_{1}[1 + γ(T_{2} − T_{1})]
+$$ β = 2α, γ = 3α
+L_{1}, L_{2} | length at T_{1} and at T_{2} | m
+A_{1}, A_{2} | area at T_{1} and at T_{2} | m²
+V_{1}, V_{2} | volume at T_{1} and at T_{2} | m³
+α, β, γ | coefficients of linear, area, volume expansion | K^{-1}
+! α has the same value whether written in K^{-1} or °C^{-1}, because a 1 °C step equals a 1 K step.
+! Dimension of α: [α] = [ΔL/L] ÷ [ΔT] = Θ^{-1}.
+## visual
+Pick a material, then set the starting length and the temperature rise. The growth of the bar is magnified on screen so that you can see it; the numbers below give the real change in length, area and volume.
+## real
+Rail tracks have gaps and long bridges have **expansion joints** (toothed metal strips across the road) so that they can grow on hot days without bending or cracking. Electric wires between poles are hung slightly loose: in winter they shrink, and a tight wire could snap. A dentist's filling material is made with the **same α as teeth**; if it expanded more or less than the tooth, hot tea or ice cream would slowly loosen it. At home, when the metal lid of a jar is stuck, people run hot water over it: the metal lid expands more than the glass and comes loose.
+## example
+Q: A metal rod is 10 m long at 20 °C. At 120 °C its length becomes 10.0167 m. Find its coefficient of linear expansion.
+Given: L_{1} = 10 m, L_{2} = 10.0167 m, T_{1} = 20 °C, T_{2} = 120 °C
+Formula: α = (L_{2} − L_{1}) / [L_{1}(T_{2} − T_{1})]
+Substitution: α = (10.0167 − 10) / [10 × (120 − 20)]
+Calculation: α = 0.0167 ÷ 1000 = 1.67 × 10^{-5}
+Answer: α = 16.7 × 10^{-6} K^{-1} (°C^{-1})
+> A 10 m rod grew by only 1.67 cm for a 100 °C rise: solids expand very little.
+## example
+Q: The density of gold is 19.30 g/cc and its α = 14 × 10^{-6} K^{-1}. What will its density be when its temperature rises by 100 °C?
+Given: ρ = 19.30 g/cc, α = 14 × 10^{-6} K^{-1}, ΔT = 100 K
+Formula: γ = 3α; V' = V(1 + γΔT); ρ' = m/V'
+> The mass does not change when gold is heated; only the volume grows, so the density falls.
+Calculation: γ = 42 × 10^{-6} K^{-1}; γΔT = 42 × 10^{-6} × 100 = 4.2 × 10^{-3}; ρ' = 19.30 ÷ 1.0042 ≈ 19.22 g/cc
+Answer: about 19.22 g/cc
+> Could we heat it by 1000 °C more? No: gold melts at 1064 °C, so it would no longer be a solid.
+## example
+Q: Two electric poles stand 30 m apart. A copper wire 30.001 m long was fitted between them on a day when the air was 30 °C. In winter the temperature falls to 4 °C. With α (copper) = 16.7 × 10^{-6} K^{-1}, find γ for copper, and decide whether the wire is at risk of breaking.
+Given: L_{1} = 30.001 m, T_{1} = 30 °C, T_{2} = 4 °C, α = 16.7 × 10^{-6} K^{-1}
+Formula: γ = 3α; L_{2} = L_{1}[1 + α(T_{2} − T_{1})]
+Calculation: γ = 3 × 16.7 × 10^{-6} = 50.1 × 10^{-6} K^{-1}; L_{2} = 30.001 × [1 − 16.7 × 10^{-6} × 26] = 30.001 − 0.0130 ≈ 29.988 m
+> The temperature falls, so T_{2} − T_{1} = −26 K and the wire gets shorter.
+Answer: γ ≈ 5.01 × 10^{-5} K^{-1}. The wire would want to be only 29.988 m, but the poles are 30 m apart. It is forced to stretch about 1.2 cm, so it becomes very tight and may snap. That is why wires are hung with some sag.
+## example
+Q: A steel rail is 12 m long. Its temperature can rise from 15 °C on a winter night to 45 °C in the summer sun. With α (steel) = 12 × 10^{-6} K^{-1}, how wide a gap should be left?
+Given: L_{1} = 12 m, ΔT = 45 − 15 = 30 K, α = 12 × 10^{-6} K^{-1}
+Formula: ΔL = αL_{1}ΔT
+Calculation: ΔL = 12 × 10^{-6} × 12 × 30 = 4.32 × 10^{-3} m
+Answer: at least about 4.3 mm
+## mistakes
+x When a metal plate with a hole is heated, the hole gets smaller.
+v The hole grows too, exactly as if it were filled with the same metal. Every length on the plate scales up.
+x β = α² and γ = α³.
+v β = 2α and γ = 3α. The squares and cubes of α are negligibly small.
+x α has a different value in °C^{-1} and in K^{-1}.
+v The value is the same, because a 1 °C rise equals a 1 K rise.
+## remember
+- Solids expand on heating because the forces between atoms are easy to stretch but hard to compress.
+- α = (L_{2} − L_{1}) / [L_{1}(T_{2} − T_{1})]; L_{2} = L_{1}[1 + αΔT].
+- β = 2α, γ = 3α; unit K^{-1}.
+- α is tiny (about 10^{-5} K^{-1} for metals), but it matters for rails, bridges, wires and teeth fillings.
+## think
+When boiling water is poured into a thick glass tumbler it often cracks, but a thin glass is less likely to crack. Why? (Hint: which part of the glass gets hot first?)
+## quiz
+? If α of a metal is 12 × 10^{-6} K^{-1}, its coefficient of volume expansion is:
+- 24 × 10^{-6} K^{-1}
+* 36 × 10^{-6} K^{-1}
+- 12 × 10^{-6} K^{-1}
+- 1728 × 10^{-18} K^{-1}
+= γ = 3α = 3 × 12 × 10^{-6} = 36 × 10^{-6} K^{-1}.
+? Small gaps are left between rails in order to:
+- Save iron
+- Make a sound when the train passes
+* Leave room for thermal expansion on hot days
+- Cool the rails with air
+= Without the gaps, the expanding rails would push on each other and bend.
+? A 2 m rod with α = 20 × 10^{-6} K^{-1} is heated by 50 K. It becomes longer by:
+* 2 mm
+- 0.2 mm
+- 20 mm
+- 1 mm
+= ΔL = αLΔT = 20 × 10^{-6} × 2 × 50 = 2 × 10^{-3} m = 2 mm.
+? A solid expands on heating because its molecules:
+- Themselves grow bigger
+* Vibrate more, and their average spacing increases
+- Increase in number
+- Lose mass
+= Stronger vibration plus the lopsided force between atoms pushes them slightly apart on average.
+== bn
+## what
+কোনো কঠিন পদার্থে তাপ দিলে এর দৈর্ঘ্য, ক্ষেত্রফল ও আয়তন সবই একটু বাড়ে। একে বলে **তাপীয় প্রসারণ**। প্রতি ১ K (বা ১ °C) তাপমাত্রা বাড়লে প্রতি একক দৈর্ঘ্যে যতটুকু দৈর্ঘ্য বাড়ে, সেটাই **দৈর্ঘ্য প্রসারণ সহগ** α।
+## simple
+রেললাইনের দিকে তাকালে দেখবে, একটা পাতের সাথে পরের পাতের মাঝে একটু **ফাঁক** রাখা। এটা অবহেলা নয়: গরমের দুপুরে রেলের পাত লম্বা হয়ে যায়, ফাঁক না থাকলে পাতগুলো একটা আরেকটাকে ঠেলে বেঁকে যেত।
+
+**কঠিন পদার্থ কেন প্রসারিত হয়? স্প্রিং মডেল।** কল্পনা করো কঠিনের অণুগুলো একেকটা বল, প্রতিবেশীদের সাথে ছোট ছোট স্প্রিং দিয়ে জোড়া। তাপ দিলে বলগুলো আরও জোরে কাঁপে। শুধু বেশি কাঁপলেই কিন্তু বস্তু বড় হয় না। আসল কথা হলো, পরমাণুর মাঝের এই "স্প্রিং" একটু অদ্ভুত: একে **টেনে লম্বা করা সহজ, কিন্তু চেপে ছোট করা কঠিন**। দুটি পরমাণুকে দূরে টানলে ফিরিয়ে আনার বল বেশ দুর্বল; একই দূরত্ব কাছে ঠেললে দূরে ঠেলে দেওয়ার বল অনেক বেশি।
+
+তাই কম্পন যত বাড়ে, প্রতিটি অণু **ভেতরের দিকের চেয়ে বাইরের দিকে বেশি দূর** সরে যায়। গড়ে অণুগুলো একটু বেশি দূরে দূরে থিতু হয়। সব অণু প্রতিবেশী থেকে একটু করে সরে গেলে পুরো বস্তুটাই বড় হয়ে যায়।
+
+**তিনটি সহগ।** কঠিন পদার্থ দৈর্ঘ্য, প্রস্থ ও উচ্চতা তিন দিকেই একসাথে বাড়ে, তাই আমরা তিনভাবে বর্ণনা করি।
+
+- **দৈর্ঘ্য প্রসারণ**: α = (L_{২} − L_{১})/L_{১} ÷ (T_{২} − T_{১})। অর্থাৎ প্রতি ডিগ্রিতে দৈর্ঘ্য কত ভাগ বাড়ে।
+- **ক্ষেত্রফল প্রসারণ**: β, ক্ষেত্রফলের জন্য একই ধারণা।
+- **আয়তন প্রসারণ**: γ, আয়তনের জন্য একই ধারণা।
+
+তিনটিরই একক **K^{-১}**। ১ °C পরিবর্তন আর ১ K পরিবর্তন সমান, তাই একই সংখ্যা °C^{-১} এককেও লেখা যায়।
+
+**সংখ্যাগুলো খুবই ছোট।** ইস্পাতের α প্রায় ১২ × ১০^{-৬} K^{-১}, তামার প্রায় ১৭ × ১০^{-৬} K^{-১}, অ্যালুমিনিয়ামের প্রায় ২৩ × ১০^{-৬} K^{-১}। ১০ m লম্বা একটা ইস্পাতের দণ্ডের তাপমাত্রা ১০০ °C বাড়ালে এটি মাত্র প্রায় ১.২ cm লম্বা হয়।
+
+**β = ২α আর γ = ৩α।** L_{১} বাহুর একটি বর্গাকার পাত নাও। তাপ দেওয়ার পর প্রতিটি বাহু হয় L_{১}(১ + αΔT), তাই ক্ষেত্রফল হয় L_{১}^{২}(১ + αΔT)^{২} = L_{১}^{২}[১ + ২αΔT + α^{২}ΔT^{২}]। α এত ছোট যে α^{২} আরও অনেক ছোট (প্রায় ১০^{-১০}), তাই ওই পদটা বাদ দেওয়া যায়। বাকি থাকে A_{২} = A_{১}(১ + ২αΔT), অর্থাৎ **β = ২α**। তিন বাহুর একটা ঘনক নিয়ে একইভাবে পাই **γ = ৩α**। এজন্য সাধারণত শুধু α জানলেই চলে।
+## analogy
+একটি হলে দাঁড়িয়ে থাকা ভিড় ভাবো। গান শুরু হলেই সবাই নাচতে শুরু করে: প্রত্যেকের এখন বেশি জায়গা লাগে, তাই পুরো ভিড় ছড়িয়ে যায়। কঠিন পদার্থকে তাপ দিলে এর কণাগুলো জোরে কাঁপে আর একে অপরকে একটু দূরে ঠেলে, তাই কঠিন পদার্থটি সামান্য বড় হয়।
+## definition
+**দৈর্ঘ্য প্রসারণ সহগ (α)**: তাপমাত্রা ১ K বাড়ালে প্রতি একক আদি দৈর্ঘ্যে যে দৈর্ঘ্য বৃদ্ধি হয়। α = (L_{২} − L_{১}) / [L_{১}(T_{২} − T_{১})]।
+
+**ক্ষেত্রফল প্রসারণ সহগ (β)**: তাপমাত্রা ১ K বাড়ালে প্রতি একক আদি ক্ষেত্রফলে যে ক্ষেত্রফল বৃদ্ধি হয়। β = (A_{২} − A_{১}) / [A_{১}(T_{২} − T_{১})]।
+
+**আয়তন প্রসারণ সহগ (γ)**: তাপমাত্রা ১ K বাড়ালে প্রতি একক আদি আয়তনে যে আয়তন বৃদ্ধি হয়। γ = (V_{২} − V_{১}) / [V_{১}(T_{২} − T_{১})]।
+
+কঠিন পদার্থের জন্য β = ২α এবং γ = ৩α। প্রতিটির একক K^{-১}।
+## why
+দুটি পরমাণুর মাঝের বল দুই দিকে সমান নয়। কাছে চেপে আনতে চাইলে খুব জোরে বাধা দেয়, দূরে টানতে চাইলে বাধা তুলনামূলক কম। পরমাণুগুলো বেশি শক্তি নিয়ে কাঁপলে এই একপেশে বলের কারণে তারা স্থির অবস্থানের "দূরের" দিকে বেশি সময় কাটায়। গড় দূরত্ব বেড়ে যায়, তাই বস্তু প্রসারিত হয়। যেসব পদার্থে বন্ধন শক্ত (যেমন কাচ বা ইনভার ইস্পাত) তারা কম প্রসারিত হয়; নরম ধাতু (যেমন অ্যালুমিনিয়াম বা সিসা) বেশি প্রসারিত হয়।
+## terms
+তাপীয় প্রসারণ | তাপ দিলে পদার্থের আকার বেড়ে যাওয়া
+দৈর্ঘ্য প্রসারণ সহগ (α) | প্রতি ১ K বৃদ্ধিতে দৈর্ঘ্যের ভগ্নাংশ বৃদ্ধি
+ক্ষেত্রফল প্রসারণ সহগ (β) | প্রতি ১ K বৃদ্ধিতে ক্ষেত্রফলের ভগ্নাংশ বৃদ্ধি; β = ২α
+আয়তন প্রসারণ সহগ (γ) | প্রতি ১ K বৃদ্ধিতে আয়তনের ভগ্নাংশ বৃদ্ধি; γ = ৩α
+প্রসারণের ফাঁক / জোড় | রেল ও সেতুতে রাখা জায়গা, যাতে নিরাপদে প্রসারিত হতে পারে
+## formula
+$$ α = (L_{২} − L_{১}) / [L_{১}(T_{২} − T_{১})]
+$$ L_{২} = L_{১}[১ + α(T_{২} − T_{১})]
+$$ A_{২} = A_{১}[১ + β(T_{২} − T_{১})]
+$$ V_{২} = V_{১}[১ + γ(T_{২} − T_{১})]
+$$ β = ২α, γ = ৩α
+L_{১}, L_{২} | T_{১} ও T_{২} তাপমাত্রায় দৈর্ঘ্য | m
+A_{১}, A_{২} | T_{১} ও T_{২} তাপমাত্রায় ক্ষেত্রফল | m²
+V_{১}, V_{২} | T_{১} ও T_{২} তাপমাত্রায় আয়তন | m³
+α, β, γ | দৈর্ঘ্য, ক্ষেত্রফল, আয়তন প্রসারণ সহগ | K^{-১}
+! α-এর মান K^{-১} বা °C^{-১} যেভাবেই লেখো একই থাকে, কারণ ১ °C ধাপ = ১ K ধাপ।
+! α-এর মাত্রা: [α] = [ΔL/L] ÷ [ΔT] = Θ^{-১}।
+## visual
+একটি পদার্থ বেছে নাও, তারপর শুরুর দৈর্ঘ্য আর তাপমাত্রা বৃদ্ধি ঠিক করো। দণ্ডের বৃদ্ধি পর্দায় বড় করে দেখানো হয়েছে যাতে চোখে পড়ে; নিচের সংখ্যাগুলো দৈর্ঘ্য, ক্ষেত্রফল ও আয়তনের আসল পরিবর্তন।
+## real
+রেললাইনে ফাঁক আর লম্বা সেতুতে **প্রসারণ জোড়** (রাস্তার আড়াআড়ি দাঁতওয়ালা ধাতব পাত) থাকে, যাতে গরমের দিনে এগুলো বাঁকা না হয়ে বা না ফেটে বাড়তে পারে। দুই খুঁটির মাঝে বিদ্যুতের তার একটু ঢিলা করে টাঙানো হয়: শীতে তার ছোট হয়, টানটান থাকলে ছিঁড়ে যেতে পারত। দাঁতের ডাক্তার যে উপাদান দিয়ে দাঁতের গর্ত ভরাট করেন, তার α **দাঁতের α-এর সমান** করে বানানো; দাঁতের চেয়ে বেশি বা কম প্রসারিত হলে গরম চা বা আইসক্রিম খেতে খেতে এটি আলগা হয়ে যেত। বাসায় কাচের বয়ামের ধাতব ঢাকনা আটকে গেলে এর ওপর গরম পানি ঢালা হয়: ধাতব ঢাকনা কাচের চেয়ে বেশি প্রসারিত হয়ে ঢিলা হয়ে যায়।
+## example
+প্রশ্ন: একটি ধাতব দণ্ড ২০ °C তাপমাত্রায় ১০ m লম্বা। ১২০ °C তাপমাত্রায় এর দৈর্ঘ্য হয় ১০.০১৬৭ m। দৈর্ঘ্য প্রসারণ সহগ নির্ণয় করো।
+দেওয়া আছে: L_{১} = ১০ m, L_{২} = ১০.০১৬৭ m, T_{১} = ২০ °C, T_{২} = ১২০ °C
+সূত্র: α = (L_{২} − L_{১}) / [L_{১}(T_{২} − T_{১})]
+মান বসাই: α = (১০.০১৬৭ − ১০) / [১০ × (১২০ − ২০)]
+হিসাব: α = ০.০১৬৭ ÷ ১০০০ = ১.৬৭ × ১০^{-৫}
+উত্তর: α = ১৬.৭ × ১০^{-৬} K^{-১} (°C^{-১})
+> ১০০ °C বাড়ানোয় ১০ m দণ্ড মাত্র ১.৬৭ cm বাড়ল: কঠিন পদার্থ খুব সামান্যই প্রসারিত হয়।
+## example
+প্রশ্ন: সোনার ঘনত্ব ১৯.৩০ g/cc এবং α = ১৪ × ১০^{-৬} K^{-১}। তাপমাত্রা ১০০ °C বাড়ালে এর ঘনত্ব কত হবে?
+দেওয়া আছে: ρ = ১৯.৩০ g/cc, α = ১৪ × ১০^{-৬} K^{-১}, ΔT = ১০০ K
+সূত্র: γ = ৩α; V' = V(১ + γΔT); ρ' = m/V'
+> তাপ দিলে সোনার ভর বদলায় না; শুধু আয়তন বাড়ে, তাই ঘনত্ব কমে।
+হিসাব: γ = ৪২ × ১০^{-৬} K^{-১}; γΔT = ৪২ × ১০^{-৬} × ১০০ = ৪.২ × ১০^{-৩}; ρ' = ১৯.৩০ ÷ ১.০০৪২ ≈ ১৯.২২ g/cc
+উত্তর: প্রায় ১৯.২২ g/cc
+> আরও ১০০০ °C বাড়ানো যাবে? না: সোনা ১০৬৪ °C-এ গলে যায়, তখন আর এটি কঠিন থাকবে না।
+## example
+প্রশ্ন: দুটি বিদ্যুতের খুঁটির দূরত্ব ৩০ m। বাতাসের তাপমাত্রা যেদিন ৩০ °C, সেদিন খুঁটি দুটির মাঝে ৩০.০০১ m লম্বা একটি তামার তার লাগানো হলো। শীতকালে তাপমাত্রা নেমে ৪ °C হলো। তামার α = ১৬.৭ × ১০^{-৬} K^{-১} হলে তামার γ নির্ণয় করো, আর তারটি ছিঁড়ে যাওয়ার ঝুঁকি আছে কি না বিশ্লেষণ করো।
+দেওয়া আছে: L_{১} = ৩০.০০১ m, T_{১} = ৩০ °C, T_{২} = ৪ °C, α = ১৬.৭ × ১০^{-৬} K^{-১}
+সূত্র: γ = ৩α; L_{২} = L_{১}[১ + α(T_{২} − T_{১})]
+হিসাব: γ = ৩ × ১৬.৭ × ১০^{-৬} = ৫০.১ × ১০^{-৬} K^{-১}; L_{২} = ৩০.০০১ × [১ − ১৬.৭ × ১০^{-৬} × ২৬] = ৩০.০০১ − ০.০১৩০ ≈ ২৯.৯৮৮ m
+> তাপমাত্রা কমছে, তাই T_{২} − T_{১} = −২৬ K, আর তার ছোট হয়।
+উত্তর: γ ≈ ৫.০১ × ১০^{-৫} K^{-১}। তারটি নিজে থেকে মাত্র ২৯.৯৮৮ m হতে চাইবে, কিন্তু খুঁটি দুটি ৩০ m দূরে। একে জোর করে প্রায় ১.২ cm টেনে রাখতে হবে, তাই এটি খুব টানটান হয়ে ছিঁড়ে যেতে পারে। এজন্যই তার একটু ঝুলিয়ে টাঙানো হয়।
+## example
+প্রশ্ন: একটি ইস্পাতের রেলপাত ১২ m লম্বা। শীতের রাতে ১৫ °C থেকে গ্রীষ্মের রোদে এর তাপমাত্রা ৪৫ °C পর্যন্ত উঠতে পারে। ইস্পাতের α = ১২ × ১০^{-৬} K^{-১} হলে কত চওড়া ফাঁক রাখা উচিত?
+দেওয়া আছে: L_{১} = ১২ m, ΔT = ৪৫ − ১৫ = ৩০ K, α = ১২ × ১০^{-৬} K^{-১}
+সূত্র: ΔL = αL_{১}ΔT
+হিসাব: ΔL = ১২ × ১০^{-৬} × ১২ × ৩০ = ৪.৩২ × ১০^{-৩} m
+উত্তর: অন্তত প্রায় ৪.৩ mm
+## mistakes
+x ছিদ্রওয়ালা ধাতব পাত গরম করলে ছিদ্রটা ছোট হয়ে যায়।
+v ছিদ্রও বড় হয়, ঠিক যেন ছিদ্রটা একই ধাতু দিয়ে ভরা ছিল। পাতের প্রতিটি দৈর্ঘ্য সমান অনুপাতে বাড়ে।
+x β = α² আর γ = α³।
+v β = ২α আর γ = ৩α। α-এর বর্গ ও ঘন উপেক্ষা করার মতো ছোট।
+x °C^{-১} আর K^{-১} এককে α-এর মান আলাদা।
+v মান একই, কারণ ১ °C বাড়া মানে ১ K বাড়া।
+## remember
+- কঠিন পদার্থ তাপে প্রসারিত হয়, কারণ পরমাণুর মাঝের বল টেনে লম্বা করা সহজ কিন্তু চেপে ছোট করা কঠিন।
+- α = (L_{২} − L_{১}) / [L_{১}(T_{২} − T_{১})]; L_{২} = L_{১}[১ + αΔT]।
+- β = ২α, γ = ৩α; একক K^{-১}।
+- α খুব ছোট (ধাতুর জন্য প্রায় ১০^{-৫} K^{-১}), কিন্তু রেল, সেতু, বিদ্যুতের তার আর দাঁতের ফিলিংয়ে এর গুরুত্ব অনেক।
+## think
+মোটা কাচের গ্লাসে ফুটন্ত পানি ঢাললে প্রায়ই গ্লাস ফেটে যায়, কিন্তু পাতলা কাচের গ্লাস ফাটার সম্ভাবনা কম। কেন? (ইঙ্গিত: গ্লাসের কোন অংশ আগে গরম হয়?)
+## quiz
+? কোনো ধাতুর α = ১২ × ১০^{-৬} K^{-১} হলে এর আয়তন প্রসারণ সহগ:
+- ২৪ × ১০^{-৬} K^{-১}
+* ৩৬ × ১০^{-৬} K^{-১}
+- ১২ × ১০^{-৬} K^{-১}
+- ১৭২৮ × ১০^{-১৮} K^{-১}
+= γ = ৩α = ৩ × ১২ × ১০^{-৬} = ৩৬ × ১০^{-৬} K^{-১}।
+? রেলপাতের মাঝে ছোট ফাঁক রাখা হয়:
+- লোহা বাঁচাতে
+- ট্রেন চলার সময় শব্দ তৈরি করতে
+* গরমের দিনে তাপীয় প্রসারণের জায়গা রাখতে
+- বাতাস দিয়ে পাত ঠান্ডা রাখতে
+= ফাঁক না থাকলে প্রসারিত পাতগুলো একে অপরকে ঠেলে বেঁকে যেত।
+? α = ২০ × ১০^{-৬} K^{-১} এমন ২ m লম্বা দণ্ডের তাপমাত্রা ৫০ K বাড়ানো হলো। এটি কতটা লম্বা হবে?
+* ২ mm
+- ০.২ mm
+- ২০ mm
+- ১ mm
+= ΔL = αLΔT = ২০ × ১০^{-৬} × ২ × ৫০ = ২ × ১০^{-৩} m = ২ mm।
+? কঠিন পদার্থ তাপে প্রসারিত হয়, কারণ এর অণুগুলো:
+- নিজেরাই আকারে বড় হয়
+* বেশি কাঁপে, আর তাদের গড় দূরত্ব বাড়ে
+- সংখ্যায় বেড়ে যায়
+- ভর হারায়
+= বেশি কম্পন আর পরমাণুর মাঝের একপেশে বল মিলে গড়ে অণুগুলোকে একটু দূরে সরিয়ে দেয়।
+
+@@ 6.3.2
+@visual c6real
+@related 6.3.1 6.2 5.6 5.4
+== en
+## what
+A liquid has no fixed length or shape, only volume, so it shows only **volume expansion**. Since its container also expands, the expansion we see is the **apparent expansion**; the **real expansion** = apparent expansion + expansion of the container. A gas expands far more than solids or liquids; at constant pressure its behaviour follows **PV = nRT**.
+## simple
+**Liquids: watch out for the container.** A liquid is always kept in something, a glass bulb, a bottle, a pot. When you heat the liquid, the container heats and grows too. So the rise you see is not the whole story.
+
+**The bulb experiment.** Take a glass bulb with a long, thin, marked stem, fill it with a liquid up to mark **A**, and start heating. Something surprising happens first: the level **falls** a little, to mark **B**. The heat reaches the glass before the liquid, so the bulb grows first and makes more room. Keep heating: now the liquid itself warms and expands, and its level climbs past A to mark **C**.
+
+- Fall from A down to B (volume = length × the stem's cross-section) = expansion of the **container**.
+- Rise from B up to C = **real expansion** of the liquid.
+- Rise from A to C = **apparent expansion** (what we would notice if we ignored the glass).
+
+So **real expansion = apparent expansion + expansion of the container**. We can see an apparent rise at all only because liquids generally expand much more than solids. If glass expanded more than the liquid, the level would seem to fall, an "apparent contraction"!
+
+**The clinical thermometer** is the most familiar example. Mercury in the bulb expands and climbs the fine capillary tube; how far it climbs tells the temperature. Just above the bulb there is a tiny **kink (constriction)** in the tube. When the thermometer leaves your mouth and cools, the mercury thread breaks at the kink and the top part stays in place, so the doctor can read your fever calmly. Shaking brings it back down.
+
+(A special fact about water: between 0 °C and 4 °C water actually **shrinks** when heated. It is densest at 4 °C. That is why ponds freeze from the top and fish survive below.)
+
+**Gases: hold the pressure fixed.** A gas has neither a fixed shape nor a fixed volume: it fills whatever container it is in, and it is very easy to squeeze. So to talk about the expansion of a gas we must keep the **pressure constant**, for example with a piston carrying a fixed weight that can slide up as the gas expands.
+
+**The ideal gas equation.** Pressure, volume and temperature of a gas are linked by
+
+PV = nRT
+
+where n is the amount of gas in **mole**, R = 8.314 J K^{-1} mol^{-1} and T is always in **kelvin**. At constant P, V is simply proportional to T: double the kelvin temperature and the volume doubles.
+
+**Coefficient of expansion of a gas.** From PV_{1} = nRT_{1} and PV_{2} = nRT_{2} you can show that γ_{p} = (V_{2} − V_{1}) / [V_{1}(T_{2} − T_{1})] = **1/T_{1}**. At 0 °C (273 K) that is about 3.66 × 10^{-3} K^{-1}, roughly a hundred times bigger than the γ of a metal. And it is **not a constant**: at a higher starting temperature, the same 1 K rise gives a smaller fractional expansion.
+## analogy
+Measuring a liquid's expansion in a glass flask is like measuring how much a child has grown while they stand on a mat that is also growing. You only see the difference (the **apparent** expansion). To find the child's real growth, you must add back what the mat grew: real expansion = apparent expansion + expansion of the container.
+## definition
+**Apparent expansion of a liquid**: the expansion measured without taking the expansion of the container into account.
+
+**Real expansion of a liquid**: the actual expansion of the liquid, found by adding the expansion of the container to the apparent expansion.
+
+**Ideal gas equation**: PV = nRT, where P is pressure, V volume, n amount of gas in mole, R = 8.314 J K^{-1} mol^{-1} and T the temperature in kelvin.
+
+**Coefficient of volume expansion of a gas at constant pressure (γ_{p})**: the fractional increase in volume per 1 K rise at constant pressure; γ_{p} = 1/T_{1}.
+## why
+In a liquid the molecules are held together less tightly than in a solid, so extra vibration pushes them apart more easily: liquids expand more than solids. In a gas the molecules hardly attract each other at all. Heating makes them move faster and hit the walls (and the piston) harder. To keep the pressure the same, they need more room, so the volume grows in step with the kelvin temperature.
+## terms
+Apparent expansion | Expansion seen without allowing for the container
+Real expansion | Apparent expansion + expansion of the container
+Constriction (kink) | Narrow bend in a clinical thermometer that stops mercury falling back
+Ideal gas equation | PV = nRT
+Mole (mol) | Unit of amount of substance
+Universal gas constant (R) | 8.314 J K^{-1} mol^{-1}
+## formula
+$$ real expansion = apparent expansion + expansion of container
+$$ PV = nRT
+$$ γ_{p} = (V_{2} − V_{1}) / [V_{1}(T_{2} − T_{1})] = 1/T_{1}
+$$ V_{2}/V_{1} = T_{2}/T_{1} (constant P and n)
+P | pressure | Pa
+V | volume | m³
+n | amount of gas | mol
+R | universal gas constant, 8.314 | J K^{-1} mol^{-1}
+T | temperature (always kelvin) | K
+! In gas formulas always convert temperature to kelvin: T = T_{C} + 273 (or 273.15).
+## visual
+Press "Heat" (or drag the time slider) and watch the level in the stem: first it drops a little as the glass warms, then it climbs past the start mark. Try both liquids, and read the last line to see how much more the same volume of air expands.
+## real
+Bottled drinks and soybean oil bottles are never filled to the very top: in a hot shop or car the liquid expands more than the plastic and could burst the bottle. In summer, car and motorbike tyres pumped too hard can burst, because the air inside expands. A balloon left in the sun swells. The clinical thermometer in almost every Bangladeshi home works by the expansion of mercury (or, in digital ones, by a change in resistance).
+## example
+Q: A glass flask of liquid is heated. The level first drops by an amount equal to 0.5 cc, then rises; in the end the level is 3.1 cc above where it started. Find the expansion of the flask, the apparent expansion and the real expansion.
+Given: container expansion = 0.5 cc, apparent expansion (start to end) = 3.1 cc
+Formula: real expansion = apparent expansion + expansion of container
+Calculation: real expansion = 3.1 + 0.5 = 3.6 cc
+Answer: flask 0.5 cc, apparent 3.1 cc, real 3.6 cc
+> The liquid had to fill the extra 0.5 cc of room in the flask before it could show any rise.
+## example
+Q: Find the coefficient of volume expansion of a gas at constant pressure when its starting temperature is (a) 0 °C, (b) 27 °C.
+Formula: γ_{p} = 1/T_{1} (T_{1} in kelvin)
+Calculation: (a) T_{1} = 273.15 K, γ_{p} = 1/273.15 ≈ 3.66 × 10^{-3} K^{-1}; (b) T_{1} = 300.15 K, γ_{p} = 1/300.15 ≈ 3.33 × 10^{-3} K^{-1}
+Answer: 3.66 × 10^{-3} K^{-1} and 3.33 × 10^{-3} K^{-1}
+> The coefficient got smaller at the higher temperature: for a gas it is not a constant.
+## example
+Q: 2 litres of air at 27 °C are heated to 127 °C at constant pressure. What is the new volume?
+Given: V_{1} = 2 L, T_{1} = 27 + 273 = 300 K, T_{2} = 127 + 273 = 400 K
+Formula: V_{2}/V_{1} = T_{2}/T_{1}
+Substitution: V_{2} = 2 × 400/300
+Calculation: V_{2} = 800/300 ≈ 2.67 L
+Answer: about 2.67 L
+> Using °C by mistake would give 2 × 127/27 ≈ 9.4 L, which is badly wrong.
+## example
+Q: What volume does 1 mol of an ideal gas occupy at 0 °C and normal atmospheric pressure (101 325 Pa)?
+Given: n = 1 mol, T = 273.15 K, P = 101 325 Pa, R = 8.314 J K^{-1} mol^{-1}
+Formula: V = nRT/P
+Calculation: V = 1 × 8.314 × 273.15 ÷ 101 325 ≈ 0.0224 m³
+Answer: about 22.4 L
+## mistakes
+x The rise of mercury in a thermometer shows the real expansion of mercury.
+v It shows the apparent expansion; the glass expands too.
+x A gas has a fixed coefficient of expansion, like a solid.
+v For a gas at constant pressure γ_{p} = 1/T_{1}; it gets smaller as the temperature rises.
+x In PV = nRT, T can be in °C.
+v T must be in kelvin, otherwise the answers are wrong (even negative).
+## remember
+- Liquids have only volume expansion.
+- Real expansion = apparent expansion + expansion of the container.
+- When heating starts the level first falls (glass warms first), then rises.
+- PV = nRT; R = 8.314 J K^{-1} mol^{-1}; T in kelvin.
+- For a gas at constant pressure γ_{p} = 1/T_{1}: gases expand far more than solids and liquids.
+## think
+A plastic bottle filled to the brim with cold water is left in the sun on a hot day. What might happen, and why do factories leave a little empty space at the top of bottles?
+## quiz
+? The real expansion of a liquid equals:
+- Apparent expansion − expansion of container
+* Apparent expansion + expansion of container
+- Apparent expansion × expansion of container
+- Apparent expansion only
+= The container also grows, so its expansion must be added to what we see.
+? When a bulb of liquid is first heated, the level in the stem falls a little because:
+- The liquid contracts
+* The glass bulb warms and expands first
+- Air enters the bulb
+- The liquid evaporates
+= Heat reaches the glass before the liquid, so the bulb gets bigger first.
+? In PV = nRT, the temperature T must be in:
+- °C
+- °F
+* K
+- Any scale
+= The gas equation works only with absolute (kelvin) temperature.
+? For a gas starting at 300 K at constant pressure, the coefficient of volume expansion is:
+- 1/27 K^{-1}
+* 1/300 K^{-1}
+- 300 K^{-1}
+- 3α
+= γ_{p} = 1/T_{1} = 1/300 K^{-1} ≈ 3.3 × 10^{-3} K^{-1}.
+== bn
+## what
+তরলের নির্দিষ্ট দৈর্ঘ্য বা আকার নেই, আছে শুধু আয়তন, তাই তরলের শুধু **আয়তন প্রসারণ** হয়। পাত্রটাও প্রসারিত হয় বলে আমরা যে প্রসারণ দেখি তা **আপাত প্রসারণ**; **প্রকৃত প্রসারণ** = আপাত প্রসারণ + পাত্রের প্রসারণ। গ্যাস কঠিন ও তরলের চেয়ে অনেক বেশি প্রসারিত হয়; স্থির চাপে এর আচরণ মেনে চলে **PV = nRT**।
+## simple
+**তরল: পাত্রের কথা ভুলো না।** তরল সবসময় কোনো কিছুর ভেতরে থাকে: কাচের বাল্ব, বোতল, হাঁড়ি। তরলে তাপ দিলে পাত্রটাও গরম হয়ে বড় হয়। তাই যে উচ্চতা বাড়া আমরা দেখি, সেটাই পুরো গল্প নয়।
+
+**বাল্বের পরীক্ষা।** লম্বা, সরু, দাগ কাটা নলওয়ালা একটা কাচের বাল্বে **A** দাগ পর্যন্ত তরল ভরে তাপ দিতে শুরু করো। প্রথমে একটা অবাক কাণ্ড ঘটে: তলটা একটু **নেমে** **B** দাগে আসে। তাপ তরলের আগে কাচে পৌঁছায়, তাই বাল্ব আগে বড় হয়ে বেশি জায়গা তৈরি করে। তাপ দিতে থাকো: এবার তরল নিজে গরম হয়ে প্রসারিত হয়, আর তল A ছাড়িয়ে **C** দাগে ওঠে।
+
+- A থেকে নিচে B পর্যন্ত (নলের প্রস্থচ্ছেদ দিয়ে গুণ করলে) = **পাত্রের** প্রসারণ।
+- B থেকে ওপরে C পর্যন্ত = তরলের **প্রকৃত প্রসারণ**।
+- A থেকে C পর্যন্ত = **আপাত প্রসারণ** (কাচের কথা ভুলে গেলে যা চোখে পড়ে)।
+
+তাই **প্রকৃত প্রসারণ = আপাত প্রসারণ + পাত্রের প্রসারণ**। আমরা যে আপাত প্রসারণ দেখতে পাই, তার কারণ তরল সাধারণত কঠিনের চেয়ে অনেক বেশি প্রসারিত হয়। কাচ যদি তরলের চেয়ে বেশি প্রসারিত হতো, তাহলে তল নেমে যেত, মনে হতো "আপাত সংকোচন"!
+
+**জ্বর মাপার থার্মোমিটার** সবচেয়ে চেনা উদাহরণ। বাল্বের পারদ প্রসারিত হয়ে সরু কৈশিক নল বেয়ে ওঠে; কতদূর উঠল তা-ই তাপমাত্রা। বাল্বের ঠিক ওপরে নলে একটা ছোট্ট **বাঁক (সংকোচন)** থাকে। মুখ থেকে বের করার পর ঠান্ডা হলে পারদের সুতা ওই বাঁকে ছিঁড়ে যায় আর ওপরের অংশ নিজের জায়গায় থেকে যায়, তাই ডাক্তার ধীরেসুস্থে জ্বর পড়তে পারেন। ঝাঁকালে পারদ আবার নেমে যায়।
+
+(পানির একটা বিশেষ ব্যাপার: ০ °C থেকে ৪ °C-এর মধ্যে পানিতে তাপ দিলে আসলে এটি **সংকুচিত** হয়। ৪ °C-এ পানির ঘনত্ব সবচেয়ে বেশি। এজন্যই পুকুর ওপর থেকে জমে, আর নিচে মাছ বেঁচে থাকে।)
+
+**গ্যাস: চাপ স্থির রাখতে হবে।** গ্যাসের নির্দিষ্ট আকারও নেই, নির্দিষ্ট আয়তনও নেই: যে পাত্রে রাখো পুরোটা জুড়ে থাকে, আর খুব সহজে চাপা যায়। তাই গ্যাসের প্রসারণের কথা বলতে হলে **চাপ স্থির** রাখতে হয়, যেমন একটা নির্দিষ্ট ওজন বসানো পিস্টন, যা গ্যাস প্রসারিত হলে ওপরে সরে যেতে পারে।
+
+**আদর্শ গ্যাসের সমীকরণ।** গ্যাসের চাপ, আয়তন ও তাপমাত্রা যুক্ত থাকে এভাবে:
+
+PV = nRT
+
+এখানে n হলো গ্যাসের পরিমাণ (**মোল** এককে), R = ৮.৩১৪ J K^{-১} mol^{-১}, আর T সবসময় **কেলভিনে**। চাপ স্থির থাকলে V সরাসরি T-এর সমানুপাতিক: কেলভিন তাপমাত্রা দ্বিগুণ করলে আয়তনও দ্বিগুণ।
+
+**গ্যাসের প্রসারণ সহগ।** PV_{১} = nRT_{১} আর PV_{২} = nRT_{২} থেকে দেখানো যায় γ_{p} = (V_{২} − V_{১}) / [V_{১}(T_{২} − T_{১})] = **১/T_{১}**। ০ °C-এ (২৭৩ K) এটা প্রায় ৩.৬৬ × ১০^{-৩} K^{-১}, ধাতুর γ-এর প্রায় একশো গুণ। আর এটা **ধ্রুবক নয়**: শুরুর তাপমাত্রা বেশি হলে একই ১ K বাড়ায় ভগ্নাংশ হিসেবে প্রসারণ কম হয়।
+## analogy
+কাচের পাত্রে তরলের প্রসারণ মাপা যেন এমন একটি মাদুরে দাঁড়ানো শিশুর বৃদ্ধি মাপা, যে মাদুরটিও বড় হচ্ছে। তুমি শুধু পার্থক্যটুকু দেখো (**আপাত** প্রসারণ)। শিশুর আসল বৃদ্ধি পেতে মাদুর যতটুকু বেড়েছে তা যোগ করতে হয়: প্রকৃত প্রসারণ = আপাত প্রসারণ + পাত্রের প্রসারণ।
+## definition
+**তরলের আপাত প্রসারণ**: পাত্রের প্রসারণ হিসাবে না ধরে তরলের যে প্রসারণ মাপা হয়।
+
+**তরলের প্রকৃত প্রসারণ**: তরলের আসল প্রসারণ, যা আপাত প্রসারণের সাথে পাত্রের প্রসারণ যোগ করে পাওয়া যায়।
+
+**আদর্শ গ্যাসের সমীকরণ**: PV = nRT, যেখানে P চাপ, V আয়তন, n মোল এককে গ্যাসের পরিমাণ, R = ৮.৩১৪ J K^{-১} mol^{-১} এবং T কেলভিন স্কেলে তাপমাত্রা।
+
+**স্থির চাপে গ্যাসের আয়তন প্রসারণ সহগ (γ_{p})**: স্থির চাপে প্রতি ১ K তাপমাত্রা বৃদ্ধিতে আয়তনের ভগ্নাংশ বৃদ্ধি; γ_{p} = ১/T_{১}।
+## why
+তরলে অণুগুলো কঠিনের মতো শক্ত করে বাঁধা থাকে না, তাই বাড়তি কম্পনে সহজে দূরে সরে: তরল কঠিনের চেয়ে বেশি প্রসারিত হয়। গ্যাসে অণুগুলোর মধ্যে আকর্ষণ প্রায় নেই বললেই চলে। তাপ দিলে এরা আরও দ্রুত ছোটে আর দেয়ালে (ও পিস্টনে) আরও জোরে ধাক্কা দেয়। চাপ একই রাখতে হলে এদের বেশি জায়গা লাগে, তাই আয়তন কেলভিন তাপমাত্রার সাথে তাল মিলিয়ে বাড়ে।
+## terms
+আপাত প্রসারণ | পাত্রের প্রসারণ বাদ রেখে যে প্রসারণ দেখা যায়
+প্রকৃত প্রসারণ | আপাত প্রসারণ + পাত্রের প্রসারণ
+সংকোচন (বাঁক) | জ্বর মাপার থার্মোমিটারের সরু বাঁক, যা পারদকে নেমে যেতে দেয় না
+আদর্শ গ্যাসের সমীকরণ | PV = nRT
+মোল (mol) | পদার্থের পরিমাণের একক
+সার্বজনীন গ্যাস ধ্রুবক (R) | ৮.৩১৪ J K^{-১} mol^{-১}
+## formula
+$$ প্রকৃত প্রসারণ = আপাত প্রসারণ + পাত্রের প্রসারণ
+$$ PV = nRT
+$$ γ_{p} = (V_{২} − V_{১}) / [V_{১}(T_{২} − T_{১})] = ১/T_{১}
+$$ V_{২}/V_{১} = T_{২}/T_{১} (P ও n স্থির)
+P | চাপ | Pa
+V | আয়তন | m³
+n | গ্যাসের পরিমাণ | mol
+R | সার্বজনীন গ্যাস ধ্রুবক, ৮.৩১৪ | J K^{-১} mol^{-১}
+T | তাপমাত্রা (সবসময় কেলভিন) | K
+! গ্যাসের সূত্রে সবসময় তাপমাত্রা কেলভিনে নাও: T = T_{C} + ২৭৩ (বা ২৭৩.১৫)।
+## visual
+"তাপ দাও" চাপো (বা সময়ের স্লাইডার টানো) আর নলের তল দেখো: কাচ আগে গরম হয় বলে প্রথমে তল একটু নামে, তারপর শুরুর দাগ ছাড়িয়ে ওপরে ওঠে। দুটি তরল দিয়েই দেখো, আর শেষ লাইনে দেখো একই আয়তনের বাতাস কত বেশি প্রসারিত হয়।
+## real
+কোমল পানীয় বা সয়াবিন তেলের বোতল কখনো একদম কানায় কানায় ভরা হয় না: গরম দোকানে বা গাড়িতে তরল প্লাস্টিকের চেয়ে বেশি প্রসারিত হয়ে বোতল ফাটিয়ে দিতে পারত। গরমের দিনে বেশি হাওয়া ভরা গাড়ি বা মোটরসাইকেলের টায়ার ফেটে যেতে পারে, কারণ ভেতরের বাতাস প্রসারিত হয়। রোদে রাখা বেলুন ফুলে ওঠে। বাংলাদেশের প্রায় প্রতিটি বাসায় যে জ্বর মাপার থার্মোমিটার আছে, সেটা কাজ করে পারদের প্রসারণ দিয়ে (ডিজিটালগুলো রোধের পরিবর্তন দিয়ে)।
+## example
+প্রশ্ন: একটি কাচের ফ্লাস্কে রাখা তরলে তাপ দেওয়া হলো। তল প্রথমে ০.৫ cc-এর সমান নামল, তারপর উঠল; শেষে তল শুরুর চেয়ে ৩.১ cc ওপরে। ফ্লাস্কের প্রসারণ, আপাত প্রসারণ ও প্রকৃত প্রসারণ বের করো।
+দেওয়া আছে: পাত্রের প্রসারণ = ০.৫ cc, আপাত প্রসারণ (শুরু থেকে শেষ) = ৩.১ cc
+সূত্র: প্রকৃত প্রসারণ = আপাত প্রসারণ + পাত্রের প্রসারণ
+হিসাব: প্রকৃত প্রসারণ = ৩.১ + ০.৫ = ৩.৬ cc
+উত্তর: ফ্লাস্ক ০.৫ cc, আপাত ৩.১ cc, প্রকৃত ৩.৬ cc
+> কোনো ওঠা দেখানোর আগে তরলকে ফ্লাস্কের বাড়তি ০.৫ cc জায়গা ভরতে হয়েছে।
+## example
+প্রশ্ন: শুরুর তাপমাত্রা (ক) ০ °C, (খ) ২৭ °C হলে স্থির চাপে গ্যাসের আয়তন প্রসারণ সহগ নির্ণয় করো।
+সূত্র: γ_{p} = ১/T_{১} (T_{১} কেলভিনে)
+হিসাব: (ক) T_{১} = ২৭৩.১৫ K, γ_{p} = ১/২৭৩.১৫ ≈ ৩.৬৬ × ১০^{-৩} K^{-১}; (খ) T_{১} = ৩০০.১৫ K, γ_{p} = ১/৩০০.১৫ ≈ ৩.৩৩ × ১০^{-৩} K^{-১}
+উত্তর: ৩.৬৬ × ১০^{-৩} K^{-১} এবং ৩.৩৩ × ১০^{-৩} K^{-১}
+> বেশি তাপমাত্রায় সহগ ছোট হলো: গ্যাসের জন্য এটি ধ্রুবক নয়।
+## example
+প্রশ্ন: ২৭ °C তাপমাত্রার ২ লিটার বাতাসকে স্থির চাপে ১২৭ °C পর্যন্ত গরম করা হলো। নতুন আয়তন কত?
+দেওয়া আছে: V_{১} = ২ L, T_{১} = ২৭ + ২৭৩ = ৩০০ K, T_{২} = ১২৭ + ২৭৩ = ৪০০ K
+সূত্র: V_{২}/V_{১} = T_{২}/T_{১}
+মান বসাই: V_{২} = ২ × ৪০০/৩০০
+হিসাব: V_{২} = ৮০০/৩০০ ≈ ২.৬৭ L
+উত্তর: প্রায় ২.৬৭ L
+> ভুল করে °C বসালে আসত ২ × ১২৭/২৭ ≈ ৯.৪ L, যা একেবারে ভুল।
+## example
+প্রশ্ন: ০ °C তাপমাত্রা ও স্বাভাবিক বায়ুচাপে (১০১ ৩২৫ Pa) ১ mol আদর্শ গ্যাস কত আয়তন দখল করে?
+দেওয়া আছে: n = ১ mol, T = ২৭৩.১৫ K, P = ১০১ ৩২৫ Pa, R = ৮.৩১৪ J K^{-১} mol^{-১}
+সূত্র: V = nRT/P
+হিসাব: V = ১ × ৮.৩১৪ × ২৭৩.১৫ ÷ ১০১ ৩২৫ ≈ ০.০২২৪ m³
+উত্তর: প্রায় ২২.৪ L
+## mistakes
+x থার্মোমিটারে পারদের ওঠা হলো পারদের প্রকৃত প্রসারণ।
+v এটা আপাত প্রসারণ; কাচও প্রসারিত হয়।
+x কঠিনের মতো গ্যাসেরও একটি নির্দিষ্ট প্রসারণ সহগ আছে।
+v স্থির চাপে গ্যাসের γ_{p} = ১/T_{১}; তাপমাত্রা বাড়লে এটি ছোট হয়।
+x PV = nRT-তে T সেলসিয়াসে বসানো যায়।
+v T অবশ্যই কেলভিনে, নইলে উত্তর ভুল (এমনকি ঋণাত্মক) আসে।
+## remember
+- তরলের শুধু আয়তন প্রসারণ হয়।
+- প্রকৃত প্রসারণ = আপাত প্রসারণ + পাত্রের প্রসারণ।
+- তাপ দেওয়া শুরু হলে তল প্রথমে নামে (কাচ আগে গরম হয়), তারপর ওঠে।
+- PV = nRT; R = ৮.৩১৪ J K^{-১} mol^{-১}; T কেলভিনে।
+- স্থির চাপে গ্যাসের γ_{p} = ১/T_{১}: গ্যাস কঠিন ও তরলের চেয়ে অনেক বেশি প্রসারিত হয়।
+## think
+গরমের দিনে কানায় কানায় ঠান্ডা পানি ভরা একটা প্লাস্টিকের বোতল রোদে রেখে দেওয়া হলো। কী ঘটতে পারে? কারখানায় বোতলের মাথায় একটু ফাঁকা জায়গা রাখা হয় কেন?
+## quiz
+? তরলের প্রকৃত প্রসারণ সমান:
+- আপাত প্রসারণ − পাত্রের প্রসারণ
+* আপাত প্রসারণ + পাত্রের প্রসারণ
+- আপাত প্রসারণ × পাত্রের প্রসারণ
+- শুধু আপাত প্রসারণ
+= পাত্রও বড় হয়, তাই যা দেখি তার সাথে পাত্রের প্রসারণ যোগ করতে হয়।
+? তরলভরা বাল্বে প্রথম তাপ দিলে নলের তল একটু নেমে যায়, কারণ:
+- তরল সংকুচিত হয়
+* কাচের বাল্ব আগে গরম হয়ে প্রসারিত হয়
+- বাল্বে বাতাস ঢোকে
+- তরল বাষ্প হয়ে যায়
+= তাপ তরলের আগে কাচে পৌঁছায়, তাই বাল্ব আগে বড় হয়।
+? PV = nRT-তে তাপমাত্রা T হতে হবে:
+- °C এককে
+- °F এককে
+* K এককে
+- যেকোনো স্কেলে
+= গ্যাসের সমীকরণ শুধু পরম (কেলভিন) তাপমাত্রায় খাটে।
+? স্থির চাপে ৩০০ K থেকে শুরু করা গ্যাসের আয়তন প্রসারণ সহগ:
+- ১/২৭ K^{-১}
+* ১/৩০০ K^{-১}
+- ৩০০ K^{-১}
+- ৩α
+= γ_{p} = ১/T_{১} = ১/৩০০ K^{-১} ≈ ৩.৩ × ১০^{-৩} K^{-১}।
+
+@@ 6.4
+@visual c6curve
+@related 6.5 6.7 5.6 6.1
+== en
+## what
+Heating can change the **state** of a substance: solid → liquid (**melting**) and liquid → gas (**boiling / vaporization**). While the state is changing, the temperature stays **constant**; the heat taken in, called **latent heat**, loosens the bonds between molecules. A liquid can also turn into vapour slowly from its surface at any temperature (**evaporation**), and this cools what is left behind.
+## simple
+Remember the molecular picture from chapter five: in a solid the molecules are held in place and only vibrate; in a liquid they roll over one another; in a gas they fly about freely. Heating moves a substance along this line.
+
+**Melting.** Take some ice from the freezer at −10 °C, put it in a pot on the stove and keep a thermometer in it. The temperature rises steadily until it reaches **0 °C**, and the ice starts to melt. Now comes the surprise: although the flame is still burning, the thermometer **stays at 0 °C** until the very last piece of ice has melted. The change from solid to liquid is called **melting (fusion)**, and the fixed temperature at which it happens (at a given pressure) is the **melting point**.
+
+Where did the heat go? It was used to **loosen the bonds** that hold the molecules in the solid. It did not make the molecules move faster on average, so the temperature could not rise. The heat needed to melt the solid completely, without any change in temperature, is the **latent heat of fusion** ("latent" means hidden: the thermometer does not show it). For ice it is about **334 000 J for every kilogram**.
+
+**Boiling.** Once all the ice has become water, the temperature starts rising again: 20, 50, 80 °C… At **100 °C** (at normal air pressure) bubbles of vapour form all through the water: it is **boiling**, and the liquid is turning into gas (**vaporization**). Once again the temperature **stays at 100 °C** as long as there is water left, however strong the flame. The heat needed to turn the liquid completely into vapour at the boiling point is the **latent heat of vaporization**. For water it is about **2 260 000 J per kilogram**, nearly seven times the latent heat of fusion, because the molecules must be pulled completely free of each other. The boiling point depends on pressure, as you will see in [[6.7|lesson 6.7]].
+
+After all the water has become steam, heating raises the temperature of the steam. At extremely high temperatures the molecules even break up into ions, the fourth state, plasma.
+
+**The heating curve.** Plot temperature against time and you get a staircase: sloping parts where the temperature rises (one state being heated) and **flat parts** at the melting and boiling points (change of state).
+
+**Going backwards.** Take heat away and the steps run in reverse. Gas turning into liquid is **condensation (liquefaction)**; liquid turning into solid is **solidification (freezing)**. In these reverse changes the **same latent heat is given out**. That is why a burn from steam at 100 °C is much worse than a burn from water at 100 °C: the steam gives up a huge amount of latent heat as it condenses on your skin.
+
+**Evaporation: no need to boil.** A wet cloth dries on the roof without ever getting anywhere near 100 °C. Molecules in a liquid move at different speeds, and they are constantly jostled by air molecules too. Now and then a molecule near the **surface** gets enough energy to break free and escape into the air. This slow escape from the surface, at **any temperature**, is called **evaporation**. The bigger the surface, the faster it happens.
+
+**Evaporation cools.** The molecules that escape are the fastest ones, and to leave they carry away latent heat of vaporization. The liquid that stays behind is left cooler. This is why you feel cool when a breeze blows over your sweaty body, and why water in an earthen pot (matir kolshi) stays cool in summer: water seeping through the clay evaporates from the outside and takes heat from the water inside.
+
+**Energy of a cyclone.** Over the warm Bay of Bengal, huge amounts of water evaporate, taking in latent heat. The moist air rises; high up it cools and the vapour condenses into cloud drops, **giving that latent heat back** to the air. This released heat is the main source of the terrible energy of a cyclone.
+
+**What makes evaporation faster?** Think about when clothes dry quickly and when they don't.
+
+- **Air flow**: the faster the wind over the liquid, the faster the evaporation (it carries away the vapour).
+- **Exposed surface area**: water spread in a plate dries much sooner than the same water in a glass; a spread-out shirt dries sooner than a folded one.
+- **Nature of the liquid**: liquids with lower boiling points (volatile liquids such as spirit or petrol) evaporate fastest.
+- **Air pressure**: lower pressure means faster evaporation; it is fastest in a vacuum. Some foods are dried for storage by pumping the air out.
+- **Temperature**: warmer air and liquid give faster evaporation.
+- **Dryness of the air**: the drier the air, the faster the evaporation. In the humid rainy season clothes take ages to dry; in the dry winter air they dry even indoors.
+## analogy
+While ice melts, you keep heating it, yet the thermometer stays at 0 °C. Where does the heat go? Think of it as an **entry fee**: to change from solid to liquid, the particles must pay energy to break free from their fixed places. Until every bit of ice has paid, the temperature can't rise. That hidden fee is the **latent heat**.
+## definition
+**Melting (fusion)**: the change of a solid into a liquid by heating. **Melting point**: the fixed temperature (at a given pressure) at which a solid melts.
+
+**Boiling (vaporization)**: the change of a liquid into vapour throughout the liquid at a fixed temperature. **Boiling point**: the fixed temperature (at a given pressure) at which a liquid boils.
+
+**Latent heat of fusion (L_{f})**: the heat needed to change 1 kg of a solid at its melting point completely into liquid, without any change of temperature. For ice, 3.34 × 10^{5} J kg^{-1}.
+
+**Latent heat of vaporization (L_{v})**: the heat needed to change 1 kg of a liquid at its boiling point completely into vapour, without any change of temperature. For water, about 2.26 × 10^{6} J kg^{-1}.
+
+**Condensation (liquefaction)**: the change of a gas into a liquid. **Solidification**: the change of a liquid into a solid. Both give out latent heat.
+
+**Evaporation**: the slow change of a liquid into vapour from its surface, at any temperature.
+## why
+Temperature measures the average **kinetic** energy of the molecules. During a change of state, the heat supplied goes into pulling molecules apart against their attraction, that is, into their **potential** energy. The average kinetic energy does not change, so neither does the temperature. The internal energy, however, does increase. Evaporation cools because only the most energetic molecules escape; the average kinetic energy of those left behind drops, so the temperature falls.
+## terms
+Melting (fusion) / melting point | Solid → liquid; the fixed temperature at which it happens
+Boiling (vaporization) / boiling point | Liquid → vapour throughout the liquid; its fixed temperature
+Latent heat | Heat taken in or given out during change of state, with no change of temperature
+Condensation (liquefaction) | Gas → liquid; gives out latent heat
+Solidification | Liquid → solid; gives out latent heat
+Evaporation | Liquid → vapour from the surface, at any temperature; causes cooling
+Volatile liquid | Liquid with a low boiling point that evaporates fast (spirit, petrol)
+## formula
+$$ Q = mL
+tri Q | m | L
+$$ L_{f} (ice) = 3.34 × 10^{5} J kg^{-1}
+$$ L_{v} (water) ≈ 2.26 × 10^{6} J kg^{-1}
+Q | heat taken in (or given out) during the change of state | J
+m | mass that changes state | kg
+L | latent heat (per kg) | J kg^{-1}
+! During melting or boiling the temperature stays constant; the heat changes the state, not the temperature.
+## visual
+In **Heating curve**, press "Heat" and watch 1 kg of ice turn into steam: the temperature climbs on the slopes and stays flat while melting and boiling. In **Evaporation**, change the six factors and see how fast a wet shirt dries.
+## real
+The earthen pot (matir kolshi) and the "sweat and fan" are everyday uses of evaporative cooling. Farmers dry paddy and fish in the sun and wind, spread thin on mats: large area, moving air. Cyclones such as Sidr (2007) and Amphan (2020) grew strong over the warm Bay of Bengal, fed by latent heat released as water vapour condensed. When you cook rice, the water stays at about 100 °C however high you turn the gas; the extra gas only makes it boil away faster.
+## example
+Q: How much heat is needed to melt 0.5 kg of ice at 0 °C into water at 0 °C?
+Given: m = 0.5 kg, L_{f} = 3.34 × 10^{5} J kg^{-1}
+Formula: Q = mL_{f}
+Calculation: Q = 0.5 × 3.34 × 10^{5} = 1.67 × 10^{5} J
+Answer: 167 000 J (167 kJ)
+## example
+Q: How much heat is needed to turn 0.2 kg of boiling water at 100 °C completely into steam at 100 °C?
+Given: m = 0.2 kg, L_{v} = 2.26 × 10^{6} J kg^{-1}
+Formula: Q = mL_{v}
+Calculation: Q = 0.2 × 2.26 × 10^{6} = 4.52 × 10^{5} J
+Answer: 452 000 J (452 kJ)
+> Compare with example 1: less than half the mass needs nearly three times the heat, because vaporization needs far more energy per kg.
+## example
+Q: A 500 W heater (it gives 500 J every second) is placed in 0.1 kg of ice at 0 °C. If no heat is lost, how long does it take to melt all the ice?
+Given: P = 500 W, m = 0.1 kg, L_{f} = 3.34 × 10^{5} J kg^{-1}
+Formula: Q = mL_{f}; time t = Q/P
+Calculation: Q = 0.1 × 3.34 × 10^{5} = 33 400 J; t = 33 400 ÷ 500 = 66.8 s
+Answer: about 67 s (just over a minute), and the temperature stays at 0 °C all that time
+## example
+Q: Ice is heated at a steady rate. The temperature is −20 °C at the start, reaches 0 °C at 2 min, stays at 0 °C until 8 min, and then rises to reach 100 °C at 16 min. How long did the ice take to melt completely, and how long did the melted water take to reach boiling point?
+Given: flat part from 2 min to 8 min; rise from 0 °C to 100 °C from 8 min to 16 min
+> On a heating curve, a flat part means a change of state.
+Calculation: melting = 8 − 2 = 6 min; heating the water = 16 − 8 = 8 min
+Answer: melting took 6 min; the water reached boiling point 8 min after all the ice had melted (16 min after the start)
+## mistakes
+x If the flame is made stronger, boiling water gets hotter than 100 °C.
+v At a fixed pressure the temperature stays at the boiling point; a stronger flame only makes it boil away faster.
+x Evaporation and boiling are the same thing.
+v Evaporation happens slowly, only at the surface, at any temperature; boiling happens throughout the liquid at one fixed temperature.
+x Latent heat is wasted, because it does not raise the temperature.
+v It is stored as molecular potential energy and is given back when the state reverses (for example when steam condenses).
+## remember
+- During melting and boiling the temperature stays constant; the latent heat changes the state.
+- Q = mL; L_{f} (ice) = 3.34 × 10^{5} J kg^{-1}, L_{v} (water) ≈ 2.26 × 10^{6} J kg^{-1}.
+- Condensation and solidification give out the same latent heat.
+- Evaporation happens at any temperature, from the surface, and causes cooling.
+- Evaporation is faster with more wind, larger surface, volatile liquid, lower air pressure, higher temperature and drier air.
+## think
+Why does a burn from steam at 100 °C hurt much more than a burn from water at 100 °C?
+## quiz
+? While ice is melting at 0 °C, the heat being supplied:
+- Raises its temperature
+* Loosens the bonds between molecules, so the temperature stays constant
+- Is lost to the air
+- Lowers its temperature
+= The latent heat changes the state (and the internal energy), not the temperature.
+? Wet clothes dry most slowly on a day that is:
+- Sunny and windy
+* Rainy, humid and still
+- Dry and windy in winter
+- Hot with clothes spread out
+= Humid, still air slows evaporation the most.
+? We feel cool when a fan blows over our sweaty body because:
+- The fan air carries cold water vapour
+* Evaporation of sweat takes latent heat from the body
+- The fan stops sweat from coming out
+- Air enters the body through the skin
+= Evaporating sweat takes its latent heat of vaporization from our body.
+? Latent heat: (i) raises the temperature; (ii) changes the state; (iii) increases the internal energy. Which is correct?
+- i only
+- ii only
+* ii and iii
+- i, ii and iii
+= It changes the state and the (potential) energy of the molecules, but not the temperature.
+? The main source of a cyclone's huge energy is:
+* Latent heat released when water vapour condenses
+- Wind coming down from mountains
+- The moon's gravity
+- Heat from the sea floor
+= Vapour evaporated from the warm sea condenses high up and gives out latent heat.
+== bn
+## what
+তাপ দিলে পদার্থের **অবস্থা** বদলাতে পারে: কঠিন → তরল (**গলন**) আর তরল → গ্যাস (**স্ফুটন / বাষ্পীভবন**)। অবস্থা বদলানোর সময় তাপমাত্রা **স্থির** থাকে; তখন যে তাপ লাগে, তাকে বলে **সুপ্ততাপ**, আর সেটা অণুগুলোর বন্ধন আলগা করে। তরল যেকোনো তাপমাত্রায় এর তল থেকে ধীরে ধীরে বাষ্প হতে পারে (**বাষ্পায়ন**), আর এতে বাকি তরল ঠান্ডা হয়।
+## simple
+পঞ্চম অধ্যায়ের অণুর ছবিটা মনে করো: কঠিনে অণুগুলো নির্দিষ্ট জায়গায় থেকে শুধু কাঁপে; তরলে একটা আরেকটার ওপর দিয়ে গড়িয়ে চলে; গ্যাসে মুক্তভাবে ছোটাছুটি করে। তাপ দিলে পদার্থ এই পথ ধরে এগোয়।
+
+**গলন।** ফ্রিজ থেকে −১০ °C তাপমাত্রার কিছু বরফ নিয়ে একটা পাত্রে চুলায় বসাও, ভেতরে একটা থার্মোমিটার রাখো। তাপমাত্রা নিয়মিত বাড়তে বাড়তে **০ °C**-এ পৌঁছায়, আর বরফ গলতে শুরু করে। এবার অবাক কাণ্ড: চুলা জ্বলছে, তবুও শেষ টুকরো বরফ না গলা পর্যন্ত থার্মোমিটার **০ °C-এই থেমে থাকে**। কঠিন থেকে তরলে রূপান্তরকে বলে **গলন**, আর (নির্দিষ্ট চাপে) যে নির্দিষ্ট তাপমাত্রায় এটা ঘটে তা **গলনাঙ্ক**।
+
+তাপটা গেল কোথায়? এটা খরচ হয়েছে কঠিনের অণুগুলোকে ধরে রাখা **বন্ধন আলগা করতে**। এতে অণুগুলোর গড় গতি বাড়েনি, তাই তাপমাত্রাও বাড়তে পারেনি। তাপমাত্রা না বদলে পুরো কঠিনকে তরলে পরিণত করতে যে তাপ লাগে, তাকে বলে **গলনের সুপ্ততাপ** ("সুপ্ত" মানে লুকানো: থার্মোমিটারে এটা ধরা পড়ে না)। বরফের জন্য এটা **প্রতি কিলোগ্রামে প্রায় ৩ ৩৪ ০০০ J**।
+
+**স্ফুটন।** সব বরফ পানি হয়ে গেলে তাপমাত্রা আবার বাড়তে থাকে: ২০, ৫০, ৮০ °C… (স্বাভাবিক বায়ুচাপে) **১০০ °C**-এ পুরো পানির ভেতর জুড়ে বাষ্পের বুদবুদ তৈরি হয়: পানি **ফুটছে**, তরল গ্যাসে পরিণত হচ্ছে (**বাষ্পীভবন**)। আবারও, যতক্ষণ পানি আছে, আগুন যত জোরেই থাকুক, তাপমাত্রা **১০০ °C-এই থাকে**। স্ফুটনাঙ্কে পুরো তরলকে বাষ্পে পরিণত করতে যে তাপ লাগে, তা **বাষ্পীভবনের সুপ্ততাপ**। পানির জন্য এটা **প্রতি কিলোগ্রামে প্রায় ২২ ৬০ ০০০ J**, গলনের সুপ্ততাপের প্রায় সাত গুণ, কারণ এবার অণুগুলোকে একে অপর থেকে পুরোপুরি মুক্ত করতে হয়। স্ফুটনাঙ্ক চাপের ওপর নির্ভর করে, তা দেখবে [[6.7|পাঠ ৬.৭]]-এ।
+
+সব পানি বাষ্প হয়ে গেলে আরও তাপ দিলে বাষ্পের তাপমাত্রা বাড়ে। অতি উচ্চ তাপমাত্রায় অণুগুলো ভেঙে আয়নে পরিণত হয়, সেটা চতুর্থ অবস্থা, প্লাজমা।
+
+**তাপ দেওয়ার লেখচিত্র।** সময়ের সাপেক্ষে তাপমাত্রা আঁকলে একটা সিঁড়ির মতো লেখ পাই: ঢালু অংশে তাপমাত্রা বাড়ে (একটি অবস্থা গরম হচ্ছে), আর গলনাঙ্ক ও স্ফুটনাঙ্কে **সমতল অংশ** (অবস্থার পরিবর্তন)।
+
+**উল্টো পথে।** তাপ সরিয়ে নিলে ধাপগুলো উল্টো দিকে ঘটে। গ্যাস থেকে তরল হওয়া হলো **ঘনীভবন**; তরল থেকে কঠিন হওয়া হলো **কঠিনীভবন**। এই উল্টো পরিবর্তনে **একই পরিমাণ সুপ্ততাপ বেরিয়ে আসে**। এজন্য ১০০ °C পানির চেয়ে ১০০ °C বাষ্পে পুড়লে অনেক বেশি ক্ষতি হয়: বাষ্প তোমার চামড়ায় ঘনীভূত হওয়ার সময় বিপুল সুপ্ততাপ ছেড়ে দেয়।
+
+**বাষ্পায়ন: ফুটতে হয় না।** ছাদে ভেজা কাপড় শুকিয়ে যায়, অথচ এর তাপমাত্রা ১০০ °C-এর ধারেকাছেও যায় না। তরলের অণুগুলো নানা বেগে চলে, আর বাতাসের অণুগুলোও অনবরত ধাক্কা দেয়। মাঝে মাঝে **তলের** কাছের কোনো অণু যথেষ্ট শক্তি পেয়ে মুক্ত হয়ে বাতাসে চলে যায়। **যেকোনো তাপমাত্রায়** তল থেকে এভাবে ধীরে ধীরে বাষ্প হওয়াকে বলে **বাষ্পায়ন**। তল যত বড়, বাষ্পায়ন তত দ্রুত।
+
+**বাষ্পায়নে শীতলতা।** যে অণুগুলো বেরিয়ে যায় সেগুলো সবচেয়ে দ্রুতগামী, আর যাওয়ার সময় বাষ্পীভবনের সুপ্ততাপ নিয়ে যায়। পেছনে পড়ে থাকা তরল ঠান্ডা হয়। এজন্যই ঘামে ভেজা শরীরে বাতাস লাগলে ঠান্ডা লাগে, আর গরমের দিনে মাটির কলসির পানি ঠান্ডা থাকে: মাটির ফাঁক দিয়ে চুঁইয়ে আসা পানি বাইরের গায়ে বাষ্প হয়ে ভেতরের পানি থেকে তাপ নিয়ে যায়।
+
+**ঘূর্ণিঝড়ের শক্তি।** উষ্ণ বঙ্গোপসাগরের ওপর বিপুল পরিমাণ পানি বাষ্প হয়, সুপ্ততাপ শুষে নিয়ে। জলীয় বাষ্পে ভরা বাতাস ওপরে ওঠে; ওপরে ঠান্ডা হয়ে বাষ্প মেঘের ফোঁটায় ঘনীভূত হয় আর **সেই সুপ্ততাপ বাতাসে ফিরিয়ে দেয়**। এই মুক্ত হওয়া তাপই ঘূর্ণিঝড়ের প্রচণ্ড শক্তির প্রধান উৎস।
+
+**বাষ্পায়ন কীসে দ্রুত হয়?** ভাবো কখন কাপড় তাড়াতাড়ি শুকায় আর কখন শুকায় না।
+
+- **বায়ুপ্রবাহ**: তরলের ওপর দিয়ে বাতাস যত জোরে বয়, বাষ্পায়ন তত দ্রুত (বাতাস বাষ্প সরিয়ে নেয়)।
+- **তরলের উন্মুক্ত তলের ক্ষেত্রফল**: গ্লাসের পানির চেয়ে একই পানি থালায় ছড়িয়ে দিলে অনেক তাড়াতাড়ি শুকায়; ভাঁজ করা জামার চেয়ে মেলে দেওয়া জামা তাড়াতাড়ি শুকায়।
+- **তরলের প্রকৃতি**: যে তরলের স্ফুটনাঙ্ক কম (উদ্বায়ী তরল, যেমন স্পিরিট বা পেট্রোল), তার বাষ্পায়ন সবচেয়ে দ্রুত।
+- **বায়ুর চাপ**: চাপ কম হলে বাষ্পায়ন দ্রুত; শূন্যস্থানে সবচেয়ে দ্রুত। কিছু খাবার সংরক্ষণের জন্য পাম্প দিয়ে বাতাস বের করে শুকানো হয়।
+- **তাপমাত্রা**: বাতাস ও তরল যত গরম, বাষ্পায়ন তত দ্রুত।
+- **বায়ুর শুষ্কতা**: বাতাস যত শুষ্ক, বাষ্পায়ন তত দ্রুত। বর্ষার আর্দ্র আবহাওয়ায় কাপড় শুকাতেই চায় না; শীতের শুকনো বাতাসে ঘরের ভেতরেও শুকিয়ে যায়।
+## analogy
+বরফ গলার সময় তুমি তাপ দিয়েই যাচ্ছ, তবু থার্মোমিটার ০ °C-তেই থাকে। তাপ যায় কোথায়? এটাকে **প্রবেশ ফি** ভাবো: কঠিন থেকে তরল হতে কণাগুলোকে নির্দিষ্ট জায়গা ছেড়ে মুক্ত হতে শক্তি দিতে হয়। সব বরফ ফি না দেওয়া পর্যন্ত তাপমাত্রা বাড়তে পারে না। এই লুকানো ফি-ই **সুপ্ত তাপ**।
+## definition
+**গলন**: তাপ দিয়ে কঠিনকে তরলে পরিণত করা। **গলনাঙ্ক**: (নির্দিষ্ট চাপে) যে নির্দিষ্ট তাপমাত্রায় কঠিন গলে।
+
+**স্ফুটন (বাষ্পীভবন)**: নির্দিষ্ট তাপমাত্রায় পুরো তরল জুড়ে তরলের বাষ্পে পরিণত হওয়া। **স্ফুটনাঙ্ক**: (নির্দিষ্ট চাপে) যে নির্দিষ্ট তাপমাত্রায় তরল ফোটে।
+
+**গলনের সুপ্ততাপ (L_{f})**: গলনাঙ্কে থাকা ১ kg কঠিনকে তাপমাত্রা না বদলে পুরোপুরি তরলে পরিণত করতে যে তাপ লাগে। বরফের জন্য ৩.৩৪ × ১০^{৫} J kg^{-১}।
+
+**বাষ্পীভবনের সুপ্ততাপ (L_{v})**: স্ফুটনাঙ্কে থাকা ১ kg তরলকে তাপমাত্রা না বদলে পুরোপুরি বাষ্পে পরিণত করতে যে তাপ লাগে। পানির জন্য প্রায় ২.২৬ × ১০^{৬} J kg^{-১}।
+
+**ঘনীভবন**: গ্যাসের তরলে পরিণত হওয়া। **কঠিনীভবন**: তরলের কঠিনে পরিণত হওয়া। দুটিতেই সুপ্ততাপ বেরিয়ে আসে।
+
+**বাষ্পায়ন**: যেকোনো তাপমাত্রায় তরলের তল থেকে ধীরে ধীরে বাষ্পে পরিণত হওয়া।
+## why
+তাপমাত্রা হলো অণুগুলোর গড় **গতিশক্তির** পরিমাপ। অবস্থা পরিবর্তনের সময় দেওয়া তাপ খরচ হয় অণুগুলোকে আকর্ষণের বিরুদ্ধে দূরে সরাতে, অর্থাৎ তাদের **বিভবশক্তি** বাড়াতে। গড় গতিশক্তি বদলায় না, তাই তাপমাত্রাও বদলায় না। তবে অভ্যন্তরীণ শক্তি ঠিকই বাড়ে। বাষ্পায়নে শীতলতা হয় কারণ শুধু সবচেয়ে শক্তিশালী অণুগুলো বেরিয়ে যায়; বাকিদের গড় গতিশক্তি কমে, তাই তাপমাত্রা নামে।
+## terms
+গলন / গলনাঙ্ক | কঠিন → তরল; যে নির্দিষ্ট তাপমাত্রায় ঘটে
+স্ফুটন (বাষ্পীভবন) / স্ফুটনাঙ্ক | পুরো তরল জুড়ে তরল → বাষ্প; এর নির্দিষ্ট তাপমাত্রা
+সুপ্ততাপ | তাপমাত্রা না বদলে অবস্থা পরিবর্তনের সময় যে তাপ নেওয়া বা ছাড়া হয়
+ঘনীভবন | গ্যাস → তরল; সুপ্ততাপ ছাড়ে
+কঠিনীভবন | তরল → কঠিন; সুপ্ততাপ ছাড়ে
+বাষ্পায়ন | যেকোনো তাপমাত্রায় তল থেকে তরল → বাষ্প; শীতলতা সৃষ্টি করে
+উদ্বায়ী তরল | কম স্ফুটনাঙ্কের তরল, যা দ্রুত বাষ্প হয় (স্পিরিট, পেট্রোল)
+## formula
+$$ Q = mL
+tri Q | m | L
+$$ L_{f} (বরফ) = ৩.৩৪ × ১০^{৫} J kg^{-১}
+$$ L_{v} (পানি) ≈ ২.২৬ × ১০^{৬} J kg^{-১}
+Q | অবস্থা পরিবর্তনে নেওয়া (বা ছাড়া) তাপ | J
+m | যে ভরের অবস্থা বদলায় | kg
+L | সুপ্ততাপ (প্রতি kg-এ) | J kg^{-১}
+! গলন বা স্ফুটনের সময় তাপমাত্রা স্থির থাকে; তাপ অবস্থা বদলায়, তাপমাত্রা নয়।
+## visual
+**তাপ দেওয়ার লেখ**-এ "তাপ দাও" চাপো আর দেখো ১ kg বরফ কীভাবে বাষ্প হয়: ঢালু অংশে তাপমাত্রা বাড়ে, গলন ও স্ফুটনের সময় সমান থাকে। **বাষ্পায়ন**-এ ছয়টি বিষয় বদলে দেখো ভেজা জামা কত তাড়াতাড়ি শুকায়।
+## real
+মাটির কলসি আর "ঘাম ও পাখা" হলো বাষ্পায়নে শীতলতার রোজকার উদাহরণ। কৃষকেরা ধান আর জেলেরা মাছ মাদুরে পাতলা করে ছড়িয়ে রোদে-বাতাসে শুকান: বড় তল, চলমান বাতাস। সিডর (২০০৭) বা আম্পানের (২০২০) মতো ঘূর্ণিঝড় উষ্ণ বঙ্গোপসাগরের ওপর শক্তিশালী হয়েছিল, জলীয় বাষ্প ঘনীভূত হওয়ার সময় বেরিয়ে আসা সুপ্ততাপ খেয়ে। ভাত রান্নার সময় চুলা যত বাড়াও, পানি প্রায় ১০০ °C-এই থাকে; বাড়তি গ্যাস শুধু পানিকে তাড়াতাড়ি বাষ্প করে দেয়।
+## example
+প্রশ্ন: ০ °C তাপমাত্রার ০.৫ kg বরফকে গলিয়ে ০ °C তাপমাত্রার পানি করতে কত তাপ লাগবে?
+দেওয়া আছে: m = ০.৫ kg, L_{f} = ৩.৩৪ × ১০^{৫} J kg^{-১}
+সূত্র: Q = mL_{f}
+হিসাব: Q = ০.৫ × ৩.৩৪ × ১০^{৫} = ১.৬৭ × ১০^{৫} J
+উত্তর: ১ ৬৭ ০০০ J (১৬৭ kJ)
+## example
+প্রশ্ন: ১০০ °C তাপমাত্রার ০.২ kg ফুটন্ত পানিকে পুরোপুরি ১০০ °C তাপমাত্রার বাষ্পে পরিণত করতে কত তাপ লাগবে?
+দেওয়া আছে: m = ০.২ kg, L_{v} = ২.২৬ × ১০^{৬} J kg^{-১}
+সূত্র: Q = mL_{v}
+হিসাব: Q = ০.২ × ২.২৬ × ১০^{৬} = ৪.৫২ × ১০^{৫} J
+উত্তর: ৪ ৫২ ০০০ J (৪৫২ kJ)
+> প্রথম উদাহরণের সাথে তুলনা করো: অর্ধেকের কম ভরে প্রায় তিন গুণ তাপ লাগল, কারণ প্রতি kg-এ বাষ্পীভবনে অনেক বেশি শক্তি লাগে।
+## example
+প্রশ্ন: ০ °C তাপমাত্রার ০.১ kg বরফে একটি ৫০০ W হিটার (প্রতি সেকেন্ডে ৫০০ J তাপ দেয়) রাখা হলো। কোনো তাপ নষ্ট না হলে সব বরফ গলতে কত সময় লাগবে?
+দেওয়া আছে: P = ৫০০ W, m = ০.১ kg, L_{f} = ৩.৩৪ × ১০^{৫} J kg^{-১}
+সূত্র: Q = mL_{f}; সময় t = Q/P
+হিসাব: Q = ০.১ × ৩.৩৪ × ১০^{৫} = ৩৩ ৪০০ J; t = ৩৩ ৪০০ ÷ ৫০০ = ৬৬.৮ s
+উত্তর: প্রায় ৬৭ s (এক মিনিটের একটু বেশি), আর এই পুরো সময় তাপমাত্রা ০ °C-এই থাকে
+## example
+প্রশ্ন: বরফে সমান হারে তাপ দেওয়া হচ্ছে। শুরুতে তাপমাত্রা −২০ °C, ২ min-এ ০ °C-এ পৌঁছায়, ৮ min পর্যন্ত ০ °C-এ থাকে, তারপর বেড়ে ১৬ min-এ ১০০ °C হয়। সব বরফ গলতে কত সময় লেগেছে, আর গলা পানি স্ফুটনাঙ্কে পৌঁছাতে কত সময় লেগেছে?
+দেওয়া আছে: সমতল অংশ ২ min থেকে ৮ min; ০ °C থেকে ১০০ °C ওঠা ৮ min থেকে ১৬ min
+> তাপ দেওয়ার লেখচিত্রে সমতল অংশ মানে অবস্থার পরিবর্তন।
+হিসাব: গলন = ৮ − ২ = ৬ min; পানি গরম হওয়া = ১৬ − ৮ = ৮ min
+উত্তর: গলতে লেগেছে ৬ min; সব বরফ গলার ৮ min পর (শুরু থেকে ১৬ min-এ) পানি স্ফুটনাঙ্কে পৌঁছেছে
+## mistakes
+x আগুন বাড়ালে ফুটন্ত পানি ১০০ °C-এর চেয়ে বেশি গরম হয়।
+v নির্দিষ্ট চাপে তাপমাত্রা স্ফুটনাঙ্কেই থাকে; আগুন বাড়ালে শুধু তাড়াতাড়ি বাষ্প হয়ে যায়।
+x বাষ্পায়ন আর স্ফুটন একই জিনিস।
+v বাষ্পায়ন ধীরে, শুধু তলে, যেকোনো তাপমাত্রায় ঘটে; স্ফুটন একটি নির্দিষ্ট তাপমাত্রায় পুরো তরল জুড়ে ঘটে।
+x সুপ্ততাপ নষ্ট হয়, কারণ এতে তাপমাত্রা বাড়ে না।
+v এটা অণুর বিভবশক্তি হিসেবে জমা থাকে, আর অবস্থা উল্টালে (যেমন বাষ্প ঘনীভূত হলে) ফিরে আসে।
+## remember
+- গলন ও স্ফুটনের সময় তাপমাত্রা স্থির থাকে; সুপ্ততাপ অবস্থা বদলায়।
+- Q = mL; L_{f} (বরফ) = ৩.৩৪ × ১০^{৫} J kg^{-১}, L_{v} (পানি) ≈ ২.২৬ × ১০^{৬} J kg^{-১}।
+- ঘনীভবন ও কঠিনীভবনে একই সুপ্ততাপ বেরিয়ে আসে।
+- বাষ্পায়ন যেকোনো তাপমাত্রায়, তল থেকে ঘটে, আর শীতলতা সৃষ্টি করে।
+- বেশি বাতাস, বড় তল, উদ্বায়ী তরল, কম বায়ুচাপ, বেশি তাপমাত্রা আর শুষ্ক বাতাসে বাষ্পায়ন দ্রুত হয়।
+## think
+১০০ °C পানির চেয়ে ১০০ °C বাষ্পে পুড়লে অনেক বেশি জ্বালা করে কেন?
+## quiz
+? ০ °C-এ বরফ গলার সময় যে তাপ দেওয়া হচ্ছে, তা:
+- বরফের তাপমাত্রা বাড়ায়
+* অণুগুলোর বন্ধন আলগা করে, তাই তাপমাত্রা স্থির থাকে
+- বাতাসে হারিয়ে যায়
+- তাপমাত্রা কমায়
+= সুপ্ততাপ অবস্থা (আর অভ্যন্তরীণ শক্তি) বদলায়, তাপমাত্রা নয়।
+? কোন দিনে ভেজা কাপড় সবচেয়ে ধীরে শুকায়?
+- রোদ ও বাতাসের দিনে
+* বৃষ্টির, আর্দ্র ও বাতাসহীন দিনে
+- শীতের শুকনো বাতাসের দিনে
+- গরমের দিনে কাপড় মেলে দিলে
+= আর্দ্র ও স্থির বাতাস বাষ্পায়নকে সবচেয়ে বেশি ধীর করে।
+? ঘামে ভেজা শরীরে পাখার বাতাসে আরাম লাগে, কারণ:
+- পাখার বাতাস ঠান্ডা জলীয় বাষ্প বয়ে আনে
+* ঘামের বাষ্পায়নে শরীর থেকে সুপ্ততাপ চলে যায়
+- পাখা ঘাম বের হতে দেয় না
+- বাতাস চামড়া দিয়ে শরীরে ঢোকে
+= বাষ্প হওয়ার সময় ঘাম শরীর থেকে বাষ্পীভবনের সুপ্ততাপ নিয়ে নেয়।
+? সুপ্ততাপের সাহায্যে: (i) তাপমাত্রা বাড়ে; (ii) অবস্থার পরিবর্তন হয়; (iii) অভ্যন্তরীণ শক্তি বাড়ে। কোনটি সঠিক?
+- শুধু i
+- শুধু ii
+* ii ও iii
+- i, ii ও iii
+= এটি অবস্থা আর অণুর (বিভব) শক্তি বদলায়, কিন্তু তাপমাত্রা নয়।
+? ঘূর্ণিঝড়ের বিপুল শক্তির প্রধান উৎস:
+* জলীয় বাষ্প ঘনীভূত হওয়ার সময় বেরিয়ে আসা সুপ্ততাপ
+- পাহাড় থেকে নেমে আসা বাতাস
+- চাঁদের মহাকর্ষ
+- সমুদ্রের তলদেশের তাপ
+= উষ্ণ সাগর থেকে বাষ্প হওয়া পানি ওপরে ঘনীভূত হয়ে সুপ্ততাপ ছেড়ে দেয়।
+
+@@ 6.5
+@visual c6spec
+@related 6.6 6.4 6.1 4.1
+== en
+## what
+The **specific heat** (s) of a substance is the heat needed to raise the temperature of **1 kg** of it by **1 K**. The **heat capacity** (C) of a body is the heat needed to raise the temperature of the **whole body** by 1 K. They are linked by Q = msΔT and C = ms.
+## simple
+Put a pot of water on the stove and it takes a long time to get hot. Put an empty steel pot of about the same mass on the same flame and within a minute it is too hot to touch. Same flame, same mass, very different result. The difference is the **material**.
+
+**Three things decide how much heat you need.**
+
+- The **mass** m: 2 kg of water needs twice the heat of 1 kg for the same warming.
+- The **temperature rise** ΔT: warming by 20 K needs twice the heat of warming by 10 K.
+- The **material**: this is where specific heat s comes in.
+
+Put them together: **Q = msΔT**.
+
+**Specific heat** is the heat needed to warm 1 kg of a substance by 1 K. Its unit is **J kg^{-1} K^{-1}**. Some values:
+
+- Water: 4200 J kg^{-1} K^{-1} (very large!)
+- Ice: about 2100
+- Aluminium: about 900
+- Iron: about 450
+- Copper: about 390
+- Gold and mercury: about 130–140
+
+Water needs about **9 times** as much heat as iron to warm up by the same amount. So a metal pot heats fast and water heats slowly; and once hot, water also **cools slowly**, giving out a lot of heat.
+
+**Heat capacity** is about a whole object, not a kilogram of material: the heat needed to warm that object by 1 K. If its mass is m and specific heat s, then **C = ms**, with unit **J K^{-1}**. The heat capacity of 10 kg of water is 10 × 4200 = 42 000 J K^{-1}; of 10 kg of iron, only 10 × 450 = 4500 J K^{-1}.
+
+A bucket of water and a glass of water have the **same specific heat** (both are water), but the bucket has a much **bigger heat capacity**.
+
+(Old unit: since 1 calorie warms 1 g of water by 1 °C, the specific heat of water is 1 cal g^{-1} °C^{-1}, which is 4200 J kg^{-1} K^{-1}.)
+## analogy
+Water is like a **thirsty sponge** for heat: it soaks up a lot of heat before its temperature rises much. Iron or sand is like paper: a little heat and it's already hot. That's why the sand on a beach burns your feet at noon while the sea is still cool; they got the same sunshine, but water needs about 5 times as much heat per degree.
+## definition
+**Specific heat (s)**: the amount of heat needed to raise the temperature of 1 kg of a substance by 1 K. s = Q / [m(T_{2} − T_{1})]. Unit: J kg^{-1} K^{-1}.
+
+**Heat capacity (C)**: the amount of heat needed to raise the temperature of a body by 1 K. C = ms. Unit: J K^{-1}.
+## why
+Temperature measures only the average **kinetic** energy of the molecules. When you heat a substance, some of the energy also goes into other forms (molecules rotating, bonds between molecules stretching). In water a large share goes into these, and a kilogram of water also contains a great many light molecules, so a lot of heat is needed before the average kinetic energy, and hence the temperature, goes up.
+## terms
+Specific heat (s) | Heat to warm 1 kg of a substance by 1 K; J kg^{-1} K^{-1}
+Heat capacity (C) | Heat to warm a whole body by 1 K; C = ms; J K^{-1}
+Temperature rise (ΔT) | T_{2} − T_{1}; the same number in K and in °C
+## formula
+$$ Q = msΔT = ms(T_{2} − T_{1})
+tri Q | C | ΔT
+$$ s = Q / [m(T_{2} − T_{1})]
+$$ C = ms
+$$ Q = CΔT
+Q | heat taken in (or given out) | J
+m | mass | kg
+s | specific heat | J kg^{-1} K^{-1}
+ΔT | change in temperature | K (or °C)
+C | heat capacity | J K^{-1}
+! s (water) = 4200 J kg^{-1} K^{-1}; s (iron) ≈ 450 J kg^{-1} K^{-1}.
+! For a temperature difference, do not add 273: a rise of 30 °C is a rise of 30 K.
+! The book compares 10 kg of gold with water using s (gold) = 230 J kg^{-1} K^{-1}; the accepted value is about 130 J kg^{-1} K^{-1}. Either way, water's heat capacity is many times larger.
+## visual
+Choose how much heat to give and the mass. The same heat goes into each material; compare how far each thermometer climbs.
+## real
+The sea warms and cools slowly because of water's high specific heat, so coastal places like Cox's Bazar have milder temperatures than inland places like Rajshahi, where summers are hotter and winters colder. At noon the sand on Kuakata beach burns your feet, but the sea water is pleasant. Car and generator engines are cooled with water in the radiator, and a hot-water bag stays warm for hours because the water gives out a lot of heat as it cools.
+## example
+Q: How much heat is needed to warm 2 kg of water in a kettle from 25 °C to 100 °C?
+Given: m = 2 kg, s = 4200 J kg^{-1} K^{-1}, ΔT = 100 − 25 = 75 K
+Formula: Q = msΔT
+Substitution: Q = 2 × 4200 × 75
+Calculation: Q = 630 000 J
+Answer: 6.3 × 10^{5} J (630 kJ)
+## example
+Q: A 6 kg metal rod takes in 125 000 J of heat and its temperature rises from 30 °C to 80 °C. Find its specific heat and its heat capacity.
+Given: m = 6 kg, Q = 125 000 J, ΔT = 80 − 30 = 50 K
+Formula: s = Q/(mΔT); C = ms
+Calculation: s = 125 000 ÷ (6 × 50) = 125 000 ÷ 300 ≈ 417 J kg^{-1} K^{-1}; C = 6 × 416.7 ≈ 2500 J K^{-1}
+Answer: s ≈ 417 J kg^{-1} K^{-1}; C = 2500 J K^{-1}
+> A value near 400–450 J kg^{-1} K^{-1} suggests iron or steel.
+## example
+Q: Compare the heat capacities of 10 kg of water and 10 kg of iron.
+Given: s (water) = 4200, s (iron) = 450 J kg^{-1} K^{-1}
+Formula: C = ms
+Calculation: C (water) = 10 × 4200 = 42 000 J K^{-1}; C (iron) = 10 × 450 = 4500 J K^{-1}; 42 000 ÷ 4500 ≈ 9.3
+Answer: the water's heat capacity is about 9 times larger
+## example
+Q: An electric kettle gives 1500 J of heat every second. How long does it take to heat 1.5 kg of water from 30 °C to 100 °C, if no heat is lost?
+Given: m = 1.5 kg, s = 4200 J kg^{-1} K^{-1}, ΔT = 70 K, power = 1500 J/s
+Formula: Q = msΔT; t = Q ÷ power
+Calculation: Q = 1.5 × 4200 × 70 = 441 000 J; t = 441 000 ÷ 1500 = 294 s
+Answer: about 294 s, nearly 5 minutes (a little longer in practice, as some heat escapes)
+## mistakes
+x Specific heat and heat capacity are the same thing.
+v Specific heat belongs to a material (per kg); heat capacity belongs to a whole object (C = ms).
+x A bucket of water has a higher specific heat than a glass of water.
+v Both have the same specific heat; the bucket has a bigger heat capacity.
+x In Q = msΔT, add 273 to ΔT to change it to kelvin.
+v A temperature difference is the same in °C and K: a 30 °C rise is a 30 K rise.
+## remember
+- Q = msΔT; s = Q/(mΔT); unit of s: J kg^{-1} K^{-1}.
+- Heat capacity C = ms; unit J K^{-1}.
+- Water has a very high specific heat, 4200 J kg^{-1} K^{-1}: slow to heat, slow to cool.
+- Metals have low specific heats (iron ≈ 450): they heat and cool fast.
+## think
+At noon on Kuakata beach the sand is too hot to walk on barefoot, but the sea water is pleasant. At night the sand becomes cool while the sea stays warm. Explain both.
+## quiz
+? The unit of specific heat is:
+- J K^{-1}
+* J kg^{-1} K^{-1}
+- J kg^{-1}
+- W K^{-1}
+= s = Q/(mΔT), so its unit is J ÷ (kg × K).
+? Heat needed to raise 2 kg of water by 10 K (s = 4200 J kg^{-1} K^{-1}):
+- 8400 J
+* 84 000 J
+- 42 000 J
+- 840 J
+= Q = 2 × 4200 × 10 = 84 000 J.
+? The heat capacity of a body of mass m and specific heat s is:
+- s/m
+* ms
+- m/s
+- m + s
+= C = ms.
+? The same heat is given to 1 kg of water and 1 kg of iron. Then:
+* The iron's temperature rises more
+- The water's temperature rises more
+- Both rise equally
+- Neither changes temperature
+= Iron's specific heat is about 9 times smaller, so the same Q gives it a ΔT about 9 times bigger.
+== bn
+## what
+কোনো পদার্থের **আপেক্ষিক তাপ** (s) হলো এর **১ kg**-এর তাপমাত্রা **১ K** বাড়াতে যে তাপ লাগে। কোনো বস্তুর **তাপ ধারণক্ষমতা** (C) হলো **পুরো বস্তুটির** তাপমাত্রা ১ K বাড়াতে যে তাপ লাগে। এদের সম্পর্ক Q = msΔT এবং C = ms।
+## simple
+চুলায় এক হাঁড়ি পানি বসাও, গরম হতে অনেক সময় লাগে। প্রায় একই ভরের একটা খালি স্টিলের হাঁড়ি একই আগুনে বসাও, এক মিনিটেই ছোঁয়া যায় না এত গরম। একই আগুন, একই ভর, অথচ ফল একদম আলাদা। পার্থক্যটা হলো **পদার্থে**।
+
+**কতটা তাপ লাগবে, ঠিক করে তিনটি জিনিস।**
+
+- **ভর** m: একই পরিমাণ গরম করতে ২ kg পানিতে ১ kg-এর দ্বিগুণ তাপ লাগে।
+- **তাপমাত্রা বৃদ্ধি** ΔT: ২০ K গরম করতে ১০ K-এর দ্বিগুণ তাপ লাগে।
+- **পদার্থ**: এখানেই আসে আপেক্ষিক তাপ s।
+
+তিনটি একসাথে: **Q = msΔT**।
+
+**আপেক্ষিক তাপ** হলো ১ kg পদার্থকে ১ K গরম করতে যে তাপ লাগে। এর একক **J kg^{-১} K^{-১}**। কিছু মান:
+
+- পানি: ৪২০০ J kg^{-১} K^{-১} (অনেক বড়!)
+- বরফ: প্রায় ২১০০
+- অ্যালুমিনিয়াম: প্রায় ৯০০
+- লোহা: প্রায় ৪৫০
+- তামা: প্রায় ৩৯০
+- সোনা ও পারদ: প্রায় ১৩০–১৪০
+
+একই পরিমাণ গরম হতে লোহার চেয়ে পানির প্রায় **৯ গুণ** তাপ লাগে। তাই ধাতুর হাঁড়ি তাড়াতাড়ি গরম হয় আর পানি ধীরে; আবার একবার গরম হলে পানি **ধীরে ঠান্ডা** হয়, অনেক তাপ ছেড়ে দেয়।
+
+**তাপ ধারণক্ষমতা** হলো পুরো একটা বস্তুর ব্যাপার, এক কিলোগ্রাম পদার্থের নয়: বস্তুটিকে ১ K গরম করতে যে তাপ লাগে। ভর m আর আপেক্ষিক তাপ s হলে **C = ms**, একক **J K^{-১}**। ১০ kg পানির তাপ ধারণক্ষমতা ১০ × ৪২০০ = ৪২ ০০০ J K^{-১}; ১০ kg লোহার মাত্র ১০ × ৪৫০ = ৪৫০০ J K^{-১}।
+
+এক বালতি পানি আর এক গ্লাস পানির **আপেক্ষিক তাপ একই** (দুটোই পানি), কিন্তু বালতির **তাপ ধারণক্ষমতা অনেক বেশি**।
+
+(পুরোনো একক: ১ ক্যালরি ১ g পানিকে ১ °C গরম করে বলে পানির আপেক্ষিক তাপ ১ cal g^{-১} °C^{-১}, যা ৪২০০ J kg^{-১} K^{-১}।)
+## analogy
+পানি তাপের জন্য যেন **তৃষ্ণার্ত স্পঞ্জ**: তাপমাত্রা খুব বাড়ার আগেই অনেক তাপ শুষে নেয়। লোহা বা বালু কাগজের মতো: অল্প তাপেই গরম। তাই দুপুরে সৈকতের বালু পা পোড়ায়, অথচ সাগর তখনো ঠান্ডা; দুটো একই রোদ পেয়েছে, কিন্তু পানির প্রতি ডিগ্রিতে প্রায় ৫ গুণ বেশি তাপ লাগে।
+## definition
+**আপেক্ষিক তাপ (s)**: ১ kg পদার্থের তাপমাত্রা ১ K বাড়াতে যে পরিমাণ তাপ লাগে। s = Q / [m(T_{২} − T_{১})]। একক: J kg^{-১} K^{-১}।
+
+**তাপ ধারণক্ষমতা (C)**: কোনো বস্তুর তাপমাত্রা ১ K বাড়াতে যে পরিমাণ তাপ লাগে। C = ms। একক: J K^{-১}।
+## why
+তাপমাত্রা শুধু অণুগুলোর গড় **গতিশক্তির** পরিমাপ। পদার্থে তাপ দিলে শক্তির কিছু অংশ অন্য রূপেও যায় (অণুর ঘূর্ণন, অণুর মাঝের বন্ধন টানা)। পানিতে এর বড় অংশ এসবে যায়, আর এক কিলোগ্রাম পানিতে হালকা অণুর সংখ্যাও অনেক বেশি, তাই গড় গতিশক্তি, অর্থাৎ তাপমাত্রা, বাড়াতে অনেক তাপ লাগে।
+## terms
+আপেক্ষিক তাপ (s) | ১ kg পদার্থকে ১ K গরম করার তাপ; J kg^{-১} K^{-১}
+তাপ ধারণক্ষমতা (C) | পুরো বস্তুকে ১ K গরম করার তাপ; C = ms; J K^{-১}
+তাপমাত্রা বৃদ্ধি (ΔT) | T_{২} − T_{১}; K আর °C-এ একই সংখ্যা
+## formula
+$$ Q = msΔT = ms(T_{২} − T_{১})
+tri Q | C | ΔT
+$$ s = Q / [m(T_{২} − T_{১})]
+$$ C = ms
+$$ Q = CΔT
+Q | গৃহীত (বা বর্জিত) তাপ | J
+m | ভর | kg
+s | আপেক্ষিক তাপ | J kg^{-১} K^{-১}
+ΔT | তাপমাত্রার পরিবর্তন | K (বা °C)
+C | তাপ ধারণক্ষমতা | J K^{-১}
+! s (পানি) = ৪২০০ J kg^{-১} K^{-১}; s (লোহা) ≈ ৪৫০ J kg^{-১} K^{-১}।
+! তাপমাত্রার পার্থক্যে ২৭৩ যোগ করবে না: ৩০ °C বাড়া মানে ৩০ K বাড়া।
+! বইয়ে ১০ kg সোনার সাথে পানির তুলনায় s (সোনা) = ২৩০ J kg^{-১} K^{-১} ধরা হয়েছে; স্বীকৃত মান প্রায় ১৩০ J kg^{-১} K^{-১}। যেটাই ধরো, পানির তাপ ধারণক্ষমতা অনেক গুণ বেশি।
+## visual
+কতটা তাপ দেবে আর ভর কত, ঠিক করো। প্রতিটি পদার্থে একই তাপ যায়; দেখো কোন থার্মোমিটার কত ওপরে ওঠে।
+## real
+পানির আপেক্ষিক তাপ বেশি বলে সাগর ধীরে গরম হয় আর ধীরে ঠান্ডা হয়; তাই কক্সবাজারের মতো উপকূলের তাপমাত্রা রাজশাহীর মতো ভেতরের জায়গার চেয়ে মৃদু, যেখানে গ্রীষ্ম বেশি গরম আর শীত বেশি ঠান্ডা। দুপুরে কুয়াকাটা সৈকতের বালিতে পা পুড়ে যায়, অথচ সাগরের পানি আরামদায়ক। গাড়ি ও জেনারেটরের ইঞ্জিন রেডিয়েটরের পানি দিয়ে ঠান্ডা রাখা হয়, আর গরম পানির ব্যাগ ঘণ্টার পর ঘণ্টা গরম থাকে, কারণ ঠান্ডা হওয়ার সময় পানি অনেক তাপ ছাড়ে।
+## example
+প্রশ্ন: কেটলিতে ২ kg পানিকে ২৫ °C থেকে ১০০ °C পর্যন্ত গরম করতে কত তাপ লাগবে?
+দেওয়া আছে: m = ২ kg, s = ৪২০০ J kg^{-১} K^{-১}, ΔT = ১০০ − ২৫ = ৭৫ K
+সূত্র: Q = msΔT
+মান বসাই: Q = ২ × ৪২০০ × ৭৫
+হিসাব: Q = ৬ ৩০ ০০০ J
+উত্তর: ৬.৩ × ১০^{৫} J (৬৩০ kJ)
+## example
+প্রশ্ন: ৬ kg ভরের একটি ধাতব দণ্ড ১ ২৫ ০০০ J তাপ গ্রহণ করায় এর তাপমাত্রা ৩০ °C থেকে ৮০ °C হলো। এর আপেক্ষিক তাপ ও তাপ ধারণক্ষমতা নির্ণয় করো।
+দেওয়া আছে: m = ৬ kg, Q = ১ ২৫ ০০০ J, ΔT = ৮০ − ৩০ = ৫০ K
+সূত্র: s = Q/(mΔT); C = ms
+হিসাব: s = ১ ২৫ ০০০ ÷ (৬ × ৫০) = ১ ২৫ ০০০ ÷ ৩০০ ≈ ৪১৭ J kg^{-১} K^{-১}; C = ৬ × ৪১৬.৭ ≈ ২৫০০ J K^{-১}
+উত্তর: s ≈ ৪১৭ J kg^{-১} K^{-১}; C = ২৫০০ J K^{-১}
+> ৪০০–৪৫০ J kg^{-১} K^{-১}-এর কাছাকাছি মান দেখে মনে হয় দণ্ডটি লোহা বা ইস্পাতের।
+## example
+প্রশ্ন: ১০ kg পানি আর ১০ kg লোহার তাপ ধারণক্ষমতা তুলনা করো।
+দেওয়া আছে: s (পানি) = ৪২০০, s (লোহা) = ৪৫০ J kg^{-১} K^{-১}
+সূত্র: C = ms
+হিসাব: C (পানি) = ১০ × ৪২০০ = ৪২ ০০০ J K^{-১}; C (লোহা) = ১০ × ৪৫০ = ৪৫০০ J K^{-১}; ৪২ ০০০ ÷ ৪৫০০ ≈ ৯.৩
+উত্তর: পানির তাপ ধারণক্ষমতা প্রায় ৯ গুণ বেশি
+## example
+প্রশ্ন: একটি বৈদ্যুতিক কেটলি প্রতি সেকেন্ডে ১৫০০ J তাপ দেয়। কোনো তাপ নষ্ট না হলে ১.৫ kg পানিকে ৩০ °C থেকে ১০০ °C করতে কত সময় লাগবে?
+দেওয়া আছে: m = ১.৫ kg, s = ৪২০০ J kg^{-১} K^{-১}, ΔT = ৭০ K, ক্ষমতা = ১৫০০ J/s
+সূত্র: Q = msΔT; t = Q ÷ ক্ষমতা
+হিসাব: Q = ১.৫ × ৪২০০ × ৭০ = ৪ ৪১ ০০০ J; t = ৪ ৪১ ০০০ ÷ ১৫০০ = ২৯৪ s
+উত্তর: প্রায় ২৯৪ s, প্রায় ৫ মিনিট (বাস্তবে কিছু তাপ বেরিয়ে যায় বলে একটু বেশি)
+## mistakes
+x আপেক্ষিক তাপ আর তাপ ধারণক্ষমতা একই জিনিস।
+v আপেক্ষিক তাপ পদার্থের ধর্ম (প্রতি kg-এ); তাপ ধারণক্ষমতা পুরো বস্তুর (C = ms)।
+x এক গ্লাস পানির চেয়ে এক বালতি পানির আপেক্ষিক তাপ বেশি।
+v দুটির আপেক্ষিক তাপ একই; বালতির তাপ ধারণক্ষমতা বেশি।
+x Q = msΔT-তে ΔT-কে কেলভিন করতে ২৭৩ যোগ করতে হয়।
+v তাপমাত্রার পার্থক্য °C আর K-এ একই: ৩০ °C বাড়া মানে ৩০ K বাড়া।
+## remember
+- Q = msΔT; s = Q/(mΔT); s-এর একক J kg^{-১} K^{-১}।
+- তাপ ধারণক্ষমতা C = ms; একক J K^{-১}।
+- পানির আপেক্ষিক তাপ অনেক বেশি, ৪২০০ J kg^{-১} K^{-১}: ধীরে গরম হয়, ধীরে ঠান্ডা হয়।
+- ধাতুর আপেক্ষিক তাপ কম (লোহা ≈ ৪৫০): তাড়াতাড়ি গরম ও ঠান্ডা হয়।
+## think
+দুপুরে কুয়াকাটা সৈকতের বালিতে খালি পায়ে হাঁটা যায় না, অথচ সাগরের পানি আরামদায়ক। রাতে বালি ঠান্ডা হয়ে যায়, কিন্তু সাগর গরম থাকে। দুটোই ব্যাখ্যা করো।
+## quiz
+? আপেক্ষিক তাপের একক:
+- J K^{-১}
+* J kg^{-১} K^{-১}
+- J kg^{-১}
+- W K^{-১}
+= s = Q/(mΔT), তাই এর একক J ÷ (kg × K)।
+? ২ kg পানির তাপমাত্রা ১০ K বাড়াতে কত তাপ লাগবে (s = ৪২০০ J kg^{-১} K^{-১})?
+- ৮৪০০ J
+* ৮৪ ০০০ J
+- ৪২ ০০০ J
+- ৮৪০ J
+= Q = ২ × ৪২০০ × ১০ = ৮৪ ০০০ J।
+? m ভর ও s আপেক্ষিক তাপের বস্তুর তাপ ধারণক্ষমতা:
+- s/m
+* ms
+- m/s
+- m + s
+= C = ms।
+? ১ kg পানি আর ১ kg লোহায় একই পরিমাণ তাপ দেওয়া হলো। তাহলে:
+* লোহার তাপমাত্রা বেশি বাড়বে
+- পানির তাপমাত্রা বেশি বাড়বে
+- দুটির সমান বাড়বে
+- কোনোটির তাপমাত্রা বদলাবে না
+= লোহার আপেক্ষিক তাপ প্রায় ৯ গুণ কম, তাই একই Q-তে এর ΔT প্রায় ৯ গুণ বেশি।
+
+@@ 6.6
+@visual c6mix
+@related 6.5 6.4 6.1 4.5
+== en
+## what
+When hot and cold bodies are mixed, heat flows from the hot to the cold until they reach the same temperature. If no heat escapes to the surroundings, **heat lost by the hot body = heat gained by the cold body**. This is the **principle of calorimetry**, and it lets us calculate the final temperature.
+## simple
+On a cold winter morning, many of us pour a kettle of boiling water into a bucket of cold water before a bath. The boiling water cools down by giving heat to the cold water; the cold water warms up by taking that heat. In a short while the whole bucket is at one comfortable temperature, somewhere between the two.
+
+**Two simple rules** are all you need:
+
+1. The hotter body gives heat to the colder body until both reach the **same temperature** (thermal equilibrium).
+2. The **heat given out** by the hotter body **= the heat taken in** by the colder body, provided no heat escapes to the air or the container.
+
+Rule 2 is just the conservation of energy: heat does not vanish, it only moves.
+
+**The recipe.** Call the final temperature T.
+
+- Heat lost by the hot body = m_{1}s_{1}(T_{1} − T) (it falls from T_{1} to T)
+- Heat gained by the cold body = m_{2}s_{2}(T − T_{2}) (it rises from T_{2} to T)
+- Set them equal and solve for T.
+
+Always write each temperature change as **(higher − lower)** so both heats come out positive.
+
+**Same substance, e.g. water with water.** The s cancels and T = (m_{1}T_{1} + m_{2}T_{2})/(m_{1} + m_{2}), a **weighted average**: the final temperature is pulled towards the temperature of the larger mass. Equal masses give the simple average.
+
+**When ice is involved.** Ice at 0 °C first needs latent heat **m L** just to melt, with no change in temperature, and only then does the melted water warm from 0 °C to T. So the heat gained is m L + m s(T − 0). Ice cools a drink so well mostly because of that latent heat.
+
+**Calorimeter.** In the laboratory these experiments are done in a **calorimeter**, a polished copper vessel inside an insulated jacket, so that very little heat escapes and rule 2 holds well. This is how the specific heat of a substance is measured.
+## analogy
+Mixing hot and cold water is like **two friends sharing money**: whatever the rich friend gives, the other receives. The hot water loses heat, the cold water gains exactly that much (if no heat escapes to the cup or air), and they stop when both reach the same temperature.
+## definition
+**Principle of calorimetry**: when bodies at different temperatures are mixed and no heat is exchanged with the surroundings, the heat lost by the hotter bodies equals the heat gained by the colder bodies, and they all reach a common final temperature.
+## why
+Heat is energy, and energy is conserved. In an isolated system, energy can move from one body to another but cannot be created or destroyed. So every joule that leaves the hot body must turn up in the cold body. Heat stops flowing once the temperatures are equal, because heat flows only because of a temperature difference.
+## terms
+Calorimetry | Measuring heat exchanged when bodies are mixed
+Calorimeter | Insulated copper vessel used for these measurements
+Heat lost | m s (higher temperature − final temperature)
+Heat gained | m s (final temperature − lower temperature), plus mL if something melts
+Final (equilibrium) temperature | Common temperature reached after mixing
+## formula
+$$ heat lost = heat gained
+$$ m_{1}s_{1}(T_{1} − T) = m_{2}s_{2}(T − T_{2})
+$$ T = (m_{1}s_{1}T_{1} + m_{2}s_{2}T_{2}) / (m_{1}s_{1} + m_{2}s_{2})
+$$ ice at 0 °C in warm water: m_{i}L + m_{i}s(T − 0) = m_{w}s(T_{w} − T)
+m_{1}, s_{1}, T_{1} | mass, specific heat, temperature of the hot body | kg, J kg^{-1} K^{-1}, °C
+m_{2}, s_{2}, T_{2} | mass, specific heat, temperature of the cold body | kg, J kg^{-1} K^{-1}, °C
+T | final common temperature | °C
+L | latent heat of fusion of ice, 3.34 × 10^{5} | J kg^{-1}
+! The final temperature always lies between the two starting temperatures.
+! 1 litre of water has a mass of 1 kg.
+## visual
+Choose a situation (hot + cold water, hot iron in water, ice in water), then change the masses and temperatures. The two bars, heat lost and heat gained, always come out equal, and the final temperature is shown on the thermometer.
+## real
+Mixing boiling water with cold water for a winter bath, adding cold milk to hot tea, cooling a glass of lemonade (shorbot) with ice cubes, and a blacksmith plunging red-hot iron into water are all calorimetry in action.
+## example
+Q: A 100 g piece of ice at 0 °C is dropped into 1 litre of water at 30 °C. What is the temperature of the water after all the ice has melted? (L = 334 kJ kg^{-1}, s (water) = 4200 J kg^{-1} K^{-1})
+Given: m_{1} (ice) = 0.1 kg, m_{2} (water) = 1 kg, L = 3.34 × 10^{5} J kg^{-1}, s = 4200 J kg^{-1} K^{-1}
+Formula: m_{1}L + m_{1}s(T − 0) = m_{2}s(30 − T)
+> The ice first needs m_{1}L to melt, then its melted water warms from 0 °C to T.
+Substitution: 0.1 × 334 000 + 0.1 × 4200 × T = 1 × 4200 × (30 − T)
+Calculation: 33 400 + 420T = 126 000 − 4200T → 4620T = 92 600 → T ≈ 20.0 °C
+Answer: about 20 °C
+## example
+Q: 1 litre of water at 20 °C is mixed with 2 litres of water at 75 °C. What is the final temperature?
+Given: cold water m_{c} = 1 kg at 20 °C; hot water m_{h} = 2 kg at 75 °C; the same s for both
+Formula: m_{h}s(75 − T) = m_{c}s(T − 20)
+Substitution: 2(75 − T) = 1(T − 20)
+Calculation: 150 − 2T = T − 20 → 3T = 170 → T ≈ 56.7 °C
+Answer: about 56.7 °C
+> The answer is closer to 75 °C than to 20 °C, because there is twice as much hot water. (Some printings give 56.6 °C by cutting off the decimal; 170/3 = 56.67 rounds to 56.7.)
+## example
+Q: A 10 g piece of iron heated to 120 °C is dropped into 1 kg of water at 30 °C. What is the final temperature? (s (iron) = 450, s (water) = 4200 J kg^{-1} K^{-1})
+Given: m_{1} = 0.01 kg, s_{1} = 450, T_{1} = 120 °C; m_{2} = 1 kg, s_{2} = 4200, T_{2} = 30 °C
+Formula: T = (m_{1}s_{1}T_{1} + m_{2}s_{2}T_{2}) / (m_{1}s_{1} + m_{2}s_{2})
+Substitution: T = (0.01 × 450 × 120 + 1 × 4200 × 30) / (0.01 × 450 + 1 × 4200)
+Calculation: T = (540 + 126 000) / 4204.5 ≈ 30.1 °C
+Answer: about 30.1 °C
+> The tiny iron piece has a very small heat capacity (4.5 J K^{-1}) compared with the water (4200 J K^{-1}), so the water hardly warms.
+## example
+Q: A bucket has 10 kg of water at 20 °C. How much boiling water (100 °C) must be added to make the bath water 40 °C?
+Given: cold: 10 kg at 20 °C; hot: m at 100 °C; final T = 40 °C
+Formula: m s(100 − 40) = 10 × s × (40 − 20)
+Calculation: 60m = 200 → m ≈ 3.33 kg
+Answer: about 3.3 kg (about 3⅓ litres) of boiling water
+## mistakes
+x The final temperature is always the simple average of the two temperatures.
+v Only for equal masses of the same substance. Otherwise it is a weighted average, pulled towards the body with the larger heat capacity (ms).
+x When ice melts in water, just use msΔT for the ice.
+v First add the latent heat mL to melt it, then msΔT to warm the melted water.
+x The final temperature can be higher than the hotter body's temperature.
+v It always lies between the two starting temperatures.
+## remember
+- Heat lost = heat gained (no heat escaping).
+- m_{1}s_{1}(T_{1} − T) = m_{2}s_{2}(T − T_{2}).
+- Same substance: T = (m_{1}T_{1} + m_{2}T_{2})/(m_{1} + m_{2}).
+- With ice: heat gained = mL + ms(T − 0).
+- The final temperature lies between the starting temperatures, closer to the body with larger ms.
+## think
+In the iron example the water warmed by only about 0.1 °C. What would happen if the same hot iron piece were dropped into just 10 g of water instead? Would the final temperature be nearer 30 °C or 120 °C?
+## quiz
+? The principle of calorimetry is based on:
+* Conservation of energy
+- Conservation of mass
+- Newton's third law
+- Archimedes' principle
+= Heat lost by one body shows up as heat gained by the other.
+? 1 kg of water at 80 °C is mixed with 1 kg of water at 20 °C. The final temperature is:
+- 60 °C
+* 50 °C
+- 40 °C
+- 100 °C
+= Equal masses of the same substance: T = (80 + 20)/2 = 50 °C.
+? 2 kg of water at 10 °C is mixed with 1 kg of water at 70 °C. The final temperature is:
+- 40 °C
+* 30 °C
+- 50 °C
+- 35 °C
+= T = (2 × 10 + 1 × 70)/(2 + 1) = 90/3 = 30 °C.
+? When ice at 0 °C is put into warm water, the heat gained by the ice is used:
+- Only to warm it
+* First to melt it (mL), then to warm the melted water
+- Only to melt it
+- For nothing, it is lost
+= Ice needs latent heat to melt before its temperature can rise above 0 °C.
+== bn
+## what
+গরম আর ঠান্ডা বস্তু মেশালে গরমটি থেকে ঠান্ডাটিতে তাপ যায়, যতক্ষণ না দুটির তাপমাত্রা সমান হয়। বাইরে কোনো তাপ না হারালে **গরম বস্তুর হারানো তাপ = ঠান্ডা বস্তুর গৃহীত তাপ**। এটাই **ক্যালরিমিতির মূলনীতি**, আর এ দিয়ে শেষ তাপমাত্রা হিসাব করা যায়।
+## simple
+শীতের সকালে গোসলের আগে আমরা অনেকেই এক বালতি ঠান্ডা পানিতে এক কেটলি ফুটন্ত পানি ঢালি। ফুটন্ত পানি ঠান্ডা পানিকে তাপ দিয়ে নিজে ঠান্ডা হয়; ঠান্ডা পানি সেই তাপ নিয়ে গরম হয়। একটু পরেই পুরো বালতির পানি একটা আরামদায়ক তাপমাত্রায় আসে, দুটির মাঝামাঝি কোথাও।
+
+**দুটি সহজ নিয়ম**ই যথেষ্ট:
+
+1. গরম বস্তু ঠান্ডা বস্তুকে তাপ দেয়, যতক্ষণ না দুটির **তাপমাত্রা সমান** হয় (তাপীয় সাম্যাবস্থা)।
+2. বাতাসে বা পাত্রে কোনো তাপ না হারালে গরম বস্তুর **বর্জিত তাপ = ঠান্ডা বস্তুর গৃহীত তাপ**।
+
+দ্বিতীয় নিয়মটা আসলে শক্তির নিত্যতা: তাপ হারিয়ে যায় না, শুধু এক জায়গা থেকে আরেক জায়গায় যায়।
+
+**হিসাবের নিয়ম।** শেষ তাপমাত্রা ধরো T।
+
+- গরম বস্তুর হারানো তাপ = m_{১}s_{১}(T_{১} − T) (T_{১} থেকে T-তে নামে)
+- ঠান্ডা বস্তুর গৃহীত তাপ = m_{২}s_{২}(T − T_{২}) (T_{২} থেকে T-তে ওঠে)
+- দুটো সমান লিখে T বের করো।
+
+প্রতিটি তাপমাত্রার পরিবর্তন সবসময় **(বেশি − কম)** লিখবে, যাতে দুটো তাপই ধনাত্মক আসে।
+
+**একই পদার্থ, যেমন পানির সাথে পানি।** s কেটে যায়, আর T = (m_{১}T_{১} + m_{২}T_{২})/(m_{১} + m_{২}), অর্থাৎ একটা **ভারযুক্ত গড়**: শেষ তাপমাত্রা বেশি ভরের বস্তুর তাপমাত্রার দিকে টানা থাকে। ভর সমান হলে সাধারণ গড়।
+
+**বরফ থাকলে।** ০ °C-এর বরফকে প্রথমে শুধু গলতেই **mL** সুপ্ততাপ লাগে, তাপমাত্রা না বদলে; তারপর গলা পানি ০ °C থেকে T পর্যন্ত গরম হয়। তাই গৃহীত তাপ = mL + ms(T − ০)। বরফ যে পানীয় এত ভালো ঠান্ডা করে, তার বড় কারণ এই সুপ্ততাপ।
+
+**ক্যালরিমিটার।** পরীক্ষাগারে এসব পরীক্ষা করা হয় **ক্যালরিমিটারে**: তাপ অন্তরক আবরণের ভেতরে একটা চকচকে তামার পাত্র, যাতে খুব কম তাপ বাইরে যায় আর দ্বিতীয় নিয়মটা ভালোভাবে খাটে। এভাবেই পদার্থের আপেক্ষিক তাপ মাপা হয়।
+## analogy
+গরম আর ঠান্ডা পানি মেশানো যেন **দুই বন্ধুর টাকা ভাগাভাগি**: ধনী বন্ধু যতটুকু দেয়, অন্যজন ঠিক ততটুকুই পায়। গরম পানি তাপ হারায়, ঠান্ডা পানি ঠিক ততটুকু পায় (কাপ বা বাতাসে তাপ না হারালে), আর দুটোর তাপমাত্রা সমান হলে লেনদেন থামে।
+## definition
+**ক্যালরিমিতির মূলনীতি**: ভিন্ন তাপমাত্রার বস্তু মেশালে এবং পরিবেশের সাথে কোনো তাপ আদান-প্রদান না হলে, গরম বস্তুগুলোর হারানো তাপ ঠান্ডা বস্তুগুলোর গৃহীত তাপের সমান হয়, আর সবাই একটি সাধারণ শেষ তাপমাত্রায় পৌঁছায়।
+## why
+তাপ হলো শক্তি, আর শক্তির নিত্যতা আছে। বিচ্ছিন্ন ব্যবস্থায় শক্তি এক বস্তু থেকে আরেক বস্তুতে যেতে পারে, কিন্তু সৃষ্টি বা ধ্বংস হয় না। তাই গরম বস্তু থেকে যত জুল বেরোয়, ঠিক ততই ঠান্ডা বস্তুতে পৌঁছায়। তাপমাত্রা সমান হলে তাপপ্রবাহ থেমে যায়, কারণ তাপ যায় শুধু তাপমাত্রার পার্থক্যের কারণেই।
+## terms
+ক্যালরিমিতি | বস্তু মেশানোর সময় আদান-প্রদান হওয়া তাপের পরিমাপ
+ক্যালরিমিটার | এই পরিমাপের জন্য তাপ অন্তরক তামার পাত্র
+হারানো (বর্জিত) তাপ | m s (বেশি তাপমাত্রা − শেষ তাপমাত্রা)
+গৃহীত তাপ | m s (শেষ তাপমাত্রা − কম তাপমাত্রা), কিছু গললে সাথে mL
+শেষ (সাম্য) তাপমাত্রা | মেশানোর পর সবার সাধারণ তাপমাত্রা
+## formula
+$$ হারানো তাপ = গৃহীত তাপ
+$$ m_{১}s_{১}(T_{১} − T) = m_{২}s_{২}(T − T_{২})
+$$ T = (m_{১}s_{১}T_{১} + m_{২}s_{২}T_{২}) / (m_{১}s_{১} + m_{২}s_{২})
+$$ গরম পানিতে ০ °C-এর বরফ: m_{i}L + m_{i}s(T − ০) = m_{w}s(T_{w} − T)
+m_{১}, s_{১}, T_{১} | গরম বস্তুর ভর, আপেক্ষিক তাপ, তাপমাত্রা | kg, J kg^{-১} K^{-১}, °C
+m_{২}, s_{২}, T_{২} | ঠান্ডা বস্তুর ভর, আপেক্ষিক তাপ, তাপমাত্রা | kg, J kg^{-১} K^{-১}, °C
+T | শেষ সাধারণ তাপমাত্রা | °C
+L | বরফ গলনের সুপ্ততাপ, ৩.৩৪ × ১০^{৫} | J kg^{-১}
+! শেষ তাপমাত্রা সবসময় শুরুর দুই তাপমাত্রার মাঝে থাকে।
+! ১ লিটার পানির ভর ১ kg।
+## visual
+একটা পরিস্থিতি বেছে নাও (গরম + ঠান্ডা পানি, পানিতে গরম লোহা, পানিতে বরফ), তারপর ভর আর তাপমাত্রা বদলাও। হারানো তাপ আর গৃহীত তাপের দুটি দণ্ড সবসময় সমান আসে, আর থার্মোমিটারে শেষ তাপমাত্রা দেখা যায়।
+## real
+শীতে গোসলের জন্য ফুটন্ত পানির সাথে ঠান্ডা পানি মেশানো, গরম চায়ে ঠান্ডা দুধ দেওয়া, বরফ দিয়ে এক গ্লাস শরবত ঠান্ডা করা, আর কামারের লাল-গরম লোহা পানিতে চুবানো, সবই ক্যালরিমিতির উদাহরণ।
+## example
+প্রশ্ন: ০ °C তাপমাত্রার ১০০ g ভরের এক টুকরো বরফ ৩০ °C তাপমাত্রার ১ লিটার পানিতে ফেলা হলো। সব বরফ গলে যাওয়ার পর পানির তাপমাত্রা কত হবে? (L = ৩৩৪ kJ kg^{-১}, s (পানি) = ৪২০০ J kg^{-১} K^{-১})
+দেওয়া আছে: m_{১} (বরফ) = ০.১ kg, m_{২} (পানি) = ১ kg, L = ৩.৩৪ × ১০^{৫} J kg^{-১}, s = ৪২০০ J kg^{-১} K^{-১}
+সূত্র: m_{১}L + m_{১}s(T − ০) = m_{২}s(৩০ − T)
+> বরফের প্রথমে গলতে m_{১}L লাগে, তারপর গলা পানি ০ °C থেকে T পর্যন্ত গরম হয়।
+মান বসাই: ০.১ × ৩৩৪ ০০০ + ০.১ × ৪২০০ × T = ১ × ৪২০০ × (৩০ − T)
+হিসাব: ৩৩ ৪০০ + ৪২০T = ১ ২৬ ০০০ − ৪২০০T → ৪৬২০T = ৯২ ৬০০ → T ≈ ২০.০ °C
+উত্তর: প্রায় ২০ °C
+## example
+প্রশ্ন: ২০ °C তাপমাত্রার ১ লিটার পানির সাথে ৭৫ °C তাপমাত্রার ২ লিটার পানি মেশানো হলো। শেষ তাপমাত্রা কত?
+দেওয়া আছে: ঠান্ডা পানি m_{c} = ১ kg, ২০ °C; গরম পানি m_{h} = ২ kg, ৭৫ °C; দুটির s একই
+সূত্র: m_{h}s(৭৫ − T) = m_{c}s(T − ২০)
+মান বসাই: ২(৭৫ − T) = ১(T − ২০)
+হিসাব: ১৫০ − ২T = T − ২০ → ৩T = ১৭০ → T ≈ ৫৬.৭ °C
+উত্তর: প্রায় ৫৬.৭ °C
+> উত্তরটা ২০ °C-এর চেয়ে ৭৫ °C-এর বেশি কাছে, কারণ গরম পানি দ্বিগুণ। (কোনো কোনো মুদ্রণে দশমিক কেটে ৫৬.৬ °C লেখা থাকে; ১৭০/৩ = ৫৬.৬৭, যা আসন্ন মানে ৫৬.৭।)
+## example
+প্রশ্ন: ১২০ °C পর্যন্ত গরম করা ১০ g ভরের এক টুকরো লোহা ৩০ °C তাপমাত্রার ১ kg পানিতে ফেলা হলো। শেষ তাপমাত্রা কত? (s (লোহা) = ৪৫০, s (পানি) = ৪২০০ J kg^{-১} K^{-১})
+দেওয়া আছে: m_{১} = ০.০১ kg, s_{১} = ৪৫০, T_{১} = ১২০ °C; m_{২} = ১ kg, s_{২} = ৪২০০, T_{২} = ৩০ °C
+সূত্র: T = (m_{১}s_{১}T_{১} + m_{২}s_{২}T_{২}) / (m_{১}s_{১} + m_{২}s_{২})
+মান বসাই: T = (০.০১ × ৪৫০ × ১২০ + ১ × ৪২০০ × ৩০) / (০.০১ × ৪৫০ + ১ × ৪২০০)
+হিসাব: T = (৫৪০ + ১ ২৬ ০০০) / ৪২০৪.৫ ≈ ৩০.১ °C
+উত্তর: প্রায় ৩০.১ °C
+> ছোট্ট লোহার টুকরোর তাপ ধারণক্ষমতা (৪.৫ J K^{-১}) পানির (৪২০০ J K^{-১}) তুলনায় খুবই কম, তাই পানি প্রায় গরমই হয় না।
+## example
+প্রশ্ন: একটি বালতিতে ২০ °C তাপমাত্রার ১০ kg পানি আছে। গোসলের পানি ৪০ °C করতে কতটা ফুটন্ত (১০০ °C) পানি মেশাতে হবে?
+দেওয়া আছে: ঠান্ডা: ১০ kg, ২০ °C; গরম: m, ১০০ °C; শেষ T = ৪০ °C
+সূত্র: m s(১০০ − ৪০) = ১০ × s × (৪০ − ২০)
+হিসাব: ৬০m = ২০০ → m ≈ ৩.৩৩ kg
+উত্তর: প্রায় ৩.৩ kg (প্রায় ৩⅓ লিটার) ফুটন্ত পানি
+## mistakes
+x শেষ তাপমাত্রা সবসময় দুই তাপমাত্রার সাধারণ গড়।
+v শুধু একই পদার্থের সমান ভরের বেলায়। নইলে এটা ভারযুক্ত গড়, যে বস্তুর তাপ ধারণক্ষমতা (ms) বেশি তার দিকে টানা।
+x পানিতে বরফ গললে বরফের জন্য শুধু msΔT ধরলেই হয়।
+v আগে গলানোর জন্য সুপ্ততাপ mL যোগ করো, তারপর গলা পানি গরম করতে msΔT।
+x শেষ তাপমাত্রা গরম বস্তুর তাপমাত্রার চেয়েও বেশি হতে পারে।
+v এটা সবসময় শুরুর দুই তাপমাত্রার মাঝে থাকে।
+## remember
+- হারানো তাপ = গৃহীত তাপ (কোনো তাপ বাইরে না গেলে)।
+- m_{১}s_{১}(T_{১} − T) = m_{২}s_{২}(T − T_{২})।
+- একই পদার্থ: T = (m_{১}T_{১} + m_{২}T_{২})/(m_{১} + m_{২})।
+- বরফ থাকলে: গৃহীত তাপ = mL + ms(T − ০)।
+- শেষ তাপমাত্রা শুরুর দুই তাপমাত্রার মাঝে, যার ms বেশি তার কাছাকাছি।
+## think
+লোহার উদাহরণে পানি মাত্র প্রায় ০.১ °C গরম হলো। একই গরম লোহার টুকরো যদি মাত্র ১০ g পানিতে ফেলা হতো, কী হতো? শেষ তাপমাত্রা ৩০ °C-এর কাছে থাকত, নাকি ১২০ °C-এর কাছে?
+## quiz
+? ক্যালরিমিতির মূলনীতি কীসের ওপর প্রতিষ্ঠিত?
+* শক্তির নিত্যতা
+- ভরের নিত্যতা
+- নিউটনের তৃতীয় সূত্র
+- আর্কিমিডিসের নীতি
+= এক বস্তুর হারানো তাপই অন্য বস্তুর গৃহীত তাপ হিসেবে দেখা দেয়।
+? ৮০ °C তাপমাত্রার ১ kg পানির সাথে ২০ °C তাপমাত্রার ১ kg পানি মেশানো হলো। শেষ তাপমাত্রা:
+- ৬০ °C
+* ৫০ °C
+- ৪০ °C
+- ১০০ °C
+= একই পদার্থের সমান ভর: T = (৮০ + ২০)/২ = ৫০ °C।
+? ১০ °C তাপমাত্রার ২ kg পানির সাথে ৭০ °C তাপমাত্রার ১ kg পানি মেশানো হলো। শেষ তাপমাত্রা:
+- ৪০ °C
+* ৩০ °C
+- ৫০ °C
+- ৩৫ °C
+= T = (২ × ১০ + ১ × ৭০)/(২ + ১) = ৯০/৩ = ৩০ °C।
+? ০ °C-এর বরফ গরম পানিতে রাখলে বরফের গৃহীত তাপ খরচ হয়:
+- শুধু গরম হতে
+* প্রথমে গলতে (mL), তারপর গলা পানি গরম করতে
+- শুধু গলতে
+- কিছুতেই না, হারিয়ে যায়
+= ০ °C-এর ওপরে তাপমাত্রা ওঠার আগে বরফকে গলতে সুপ্ততাপ লাগে।
+
+@@ 6.7
+@visual c6press
+@related 6.4 5.4 6.3.2 5.6
+== en
+## what
+Pressure changes the melting and boiling points. When the pressure on a liquid is **higher**, its **boiling point rises**; when the pressure is **lower**, the boiling point **falls**. For ice, **extra pressure lowers the melting point**.
+## simple
+**Why pressure matters for boiling.** Boiling means bubbles of vapour forming inside the liquid. A bubble can only grow if the vapour inside it pushes outward as hard as the air (and liquid) above pushes in. If the pressure above is larger, the water must get **hotter** before its vapour can push back that hard. If the pressure is smaller, bubbles form at a **lower** temperature.
+
+**On a high mountain.** Air pressure falls as you climb. On top of Mount Everest the pressure is only about a third of that at sea level, and water boils at only about **70 °C**. The water is boiling, but it is not very hot, so rice, lentils and eggs take a very long time to cook. Mountain climbers know this well.
+
+**The pressure cooker.** A pressure cooker does the opposite. Its lid is sealed and the steam cannot escape (except through the weighted valve), so the pressure inside rises, to about **2 atmospheres** in a typical cooker. At that pressure water boils at about **120 °C**. Food cooked in water at 120 °C instead of 100 °C gets done much faster, which also saves gas. The whistle you hear is the valve letting out extra steam.
+
+**Pressure and the melting of ice.** Ice is unusual: it takes up **more** space than the water it melts into (that is why ice floats). Squeezing ice helps it turn into the smaller-volume liquid, so **pressure lowers the melting point of ice**. The effect is small, about 0.0075 °C per atmosphere, but under a thin wire the pressure can be enormous.
+
+**The wire and the ice bar.** Rest a thin wire across a block of ice and hang heavy weights from both ends. Under the wire the pressure is huge, the melting point drops below the ice's temperature and the ice there melts. The wire sinks into the water, which is pushed up above the wire. There the pressure is normal again, so the water **freezes again**, giving out its latent heat, which helps melt the ice just below the wire. Slowly the wire passes right through the block, yet the block is still **one piece**! Similarly, two pieces of ice pressed together stick into one: this refreezing is called **regelation**.
+
+(Note: most other substances, such as wax, **expand** when they melt, and for them pressure slightly **raises** the melting point. The "pressure lowers the melting point" rule belongs to ice and a few similar substances.)
+
+**Liquefying gases.** Pressure also raises the temperature at which a vapour condenses. So a gas can be turned into a liquid by compressing it, with much less cooling. The cooking gas in an LPG cylinder is kept liquid this way. When a gas is liquefied, it gives out a lot of latent heat, which has to be carried away.
+## analogy
+When water boils, bubbles of steam must push their way out against the air pressing down on the water. Put a heavy lid on (a pressure cooker), and the bubbles need a stronger push, so the water must get hotter, about 120 °C, before it boils. On a high mountain the air presses less, so water boils below 100 °C and rice takes longer to cook.
+## definition
+**Effect of pressure on boiling point**: the boiling point of a liquid rises when the pressure on it increases and falls when the pressure decreases.
+
+**Effect of pressure on the melting point of ice**: increasing the pressure lowers the melting point of ice; when the pressure is removed, the melting point returns to its original value.
+
+**Regelation**: the melting of ice under pressure and its refreezing when the pressure is removed.
+## why
+A liquid boils when the pressure of its vapour equals the pressure acting on its surface. Vapour pressure rises with temperature, so a higher outside pressure needs a higher temperature. For ice, the solid has a larger volume than the liquid; pressure favours the smaller volume, so it helps the ice turn into water at a lower temperature.
+## terms
+Boiling point | Temperature at which the vapour pressure of a liquid equals the pressure on it
+Pressure cooker | Sealed pot where trapped steam raises the pressure and the boiling point
+Regelation | Melting of ice under pressure and refreezing when pressure is released
+Liquefaction of gas | Turning a gas into a liquid by pressure (and cooling)
+LPG | Liquefied petroleum gas, kept liquid under pressure in cylinders
+## visual
+Change the pressure above the water, or tap Everest, Dhaka or pressure cooker. The curve shows how the boiling point of water changes with pressure.
+## real
+Pressure cookers are found in most Bangladeshi kitchens and cut cooking time for beef, lentils and rice. In hilly areas such as the peaks of Bandarban (about 1000 m high) water boils at around 97 °C, so cooking takes a little longer. LPG cylinders for cooking hold gas liquefied under pressure. When you squeeze snow or crushed ice in your fist it sticks into a ball, thanks to regelation.
+## example
+Q: On a high mountain the water is bubbling hard, yet the rice takes very long to cook. Why?
+Given: air pressure on a mountain is low
+> Boiling tells you the water has reached its boiling point, not that it is at 100 °C.
+Answer: Because the air pressure is low, water boils at a lower temperature (about 70 °C on Everest). However long it boils, it cannot get hotter than that, and at this lower temperature food cooks slowly.
+## example
+Q: A pressure cooker keeps the steam at about 2 atm. About what temperature does the water inside reach, and why does food cook faster?
+Given: P ≈ 2 atm; at 1 atm water boils at 100 °C
+Answer: At about 2 atm water boils at about 120 °C. The food is surrounded by water and steam some 20 °C hotter than in an open pot, so it cooks much faster and uses less fuel.
+## example
+Q: A thin wire with heavy weights at both ends is placed over an ice bar. After some time the wire comes out below the bar, but the bar is still in one piece. Explain.
+Answer: The high pressure under the wire lowers the melting point of ice, so the ice there melts and the wire sinks. The water moves above the wire, where the pressure is normal again, and freezes again (regelation). So the cut behind the wire keeps closing, and the bar remains whole.
+## mistakes
+x Water always boils at 100 °C.
+v Only at normal atmospheric pressure (1 atm). At lower pressure it boils below 100 °C; at higher pressure, above 100 °C.
+x On a mountain water boils at a lower temperature, so food cooks faster there.
+v Lower boiling temperature means cooler water, so food cooks more slowly.
+x Pressure lowers the melting point of every substance.
+v This is true for ice (and a few substances that shrink on melting). For most substances, pressure slightly raises the melting point.
+## remember
+- Higher pressure → higher boiling point; lower pressure → lower boiling point.
+- Everest: water boils at about 70 °C; pressure cooker (about 2 atm): about 120 °C.
+- Pressure lowers the melting point of ice; removing it lets the water refreeze (regelation).
+- Gases can be liquefied by pressure; LPG is kept liquid in cylinders.
+## think
+Warm water (about 60 °C) is drawn into a large syringe, the tip is sealed with a finger, and the plunger is pulled out. The water starts to boil, though no heat was given. Why?
+## quiz
+? A pressure cooker cooks food faster because:
+* The higher pressure raises the boiling point, so the water is hotter
+- It uses less water
+- Its flame is hotter
+- Steam is heavier than air
+= At about 2 atm water boils at about 120 °C instead of 100 °C.
+? On top of Mount Everest, water boils at about:
+- 100 °C
+- 120 °C
+* 70 °C
+- 0 °C
+= The air pressure is about one third of sea-level pressure, so the boiling point falls to about 70 °C.
+? When pressure on ice increases, its melting point:
+- Increases
+* Decreases
+- Stays the same
+- Becomes 100 °C
+= Ice shrinks when it melts, so pressure helps it melt at a lower temperature.
+? A wire passes through an ice bar but the bar remains one piece because:
+- The wire did not really cut the ice
+* The water above the wire refreezes when the pressure is removed
+- The ice is glued by dust
+- The wire melts
+= This melting under pressure and refreezing is called regelation.
+== bn
+## what
+চাপ গলনাঙ্ক ও স্ফুটনাঙ্ক বদলে দেয়। তরলের ওপর চাপ **বেশি** হলে এর **স্ফুটনাঙ্ক বাড়ে**; চাপ **কম** হলে স্ফুটনাঙ্ক **কমে**। বরফের ক্ষেত্রে **বাড়তি চাপ গলনাঙ্ক কমায়**।
+## simple
+**স্ফুটনে চাপের ভূমিকা কেন।** ফোটা মানে তরলের ভেতরে বাষ্পের বুদবুদ তৈরি হওয়া। একটা বুদবুদ তখনই বড় হতে পারে, যখন এর ভেতরের বাষ্প বাইরের দিকে ততটা জোরে ঠেলে, যতটা জোরে ওপরের বাতাস (আর তরল) ভেতরে ঠেলে। ওপরের চাপ বেশি হলে বাষ্প যাতে ততটা জোরে ঠেলতে পারে সেজন্য পানিকে **আরও গরম** হতে হয়। চাপ কম হলে **কম** তাপমাত্রাতেই বুদবুদ তৈরি হয়।
+
+**উঁচু পাহাড়ে।** যত ওপরে ওঠো, বাতাসের চাপ তত কমে। এভারেস্টের চূড়ায় চাপ সমুদ্রপৃষ্ঠের মাত্র প্রায় এক-তৃতীয়াংশ, আর পানি ফোটে মাত্র প্রায় **৭০ °C**-এ। পানি ফুটছে ঠিকই, কিন্তু খুব গরম নয়, তাই ভাত, ডাল, ডিম সেদ্ধ হতে অনেক সময় লাগে। পর্বতারোহীরা এটা ভালো করেই জানেন।
+
+**প্রেশার কুকার।** প্রেশার কুকার করে উল্টোটা। এর ঢাকনা শক্ত করে আটকানো, বাষ্প বেরোতে পারে না (শুধু ভারী ভালভ দিয়ে ছাড়া), তাই ভেতরের চাপ বাড়ে, সাধারণ কুকারে প্রায় **২ বায়ুমণ্ডলীয় চাপ**। এই চাপে পানি ফোটে প্রায় **১২০ °C**-এ। ১০০ °C-এর বদলে ১২০ °C পানিতে রান্না অনেক তাড়াতাড়ি হয়, গ্যাসও বাঁচে। যে সিটি শোনো, সেটা ভালভ দিয়ে বাড়তি বাষ্প বেরোনোর শব্দ।
+
+**চাপ আর বরফের গলন।** বরফ একটু ব্যতিক্রমী: গলে যে পানি হয়, তার চেয়ে বরফ **বেশি** জায়গা নেয় (এজন্যই বরফ ভাসে)। বরফকে চাপ দিলে এটি কম আয়তনের তরল হতে সুবিধা পায়, তাই **চাপ দিলে বরফের গলনাঙ্ক কমে**। প্রভাবটা ছোট, প্রতি বায়ুমণ্ডলীয় চাপে প্রায় ০.০০৭৫ °C, কিন্তু সরু তারের নিচে চাপ বিশাল হতে পারে।
+
+**তার আর বরফের দণ্ড।** একটা বরফের দণ্ডের ওপর আড়াআড়ি একটা সরু তার রাখো, দুই মাথায় ভারী ওজন ঝুলিয়ে দাও। তারের নিচে চাপ বিশাল, গলনাঙ্ক বরফের তাপমাত্রার নিচে নেমে যায়, আর ওখানকার বরফ গলে। তার পানির ভেতর দিয়ে নেমে যায়, আর পানি তারের ওপরে উঠে আসে। সেখানে চাপ আবার স্বাভাবিক, তাই পানি **আবার জমে যায়**, সুপ্ততাপ ছেড়ে দেয়, যা তারের ঠিক নিচের বরফ গলাতে সাহায্য করে। ধীরে ধীরে তারটা পুরো দণ্ড ভেদ করে বেরিয়ে যায়, অথচ দণ্ডটা তখনও **এক টুকরো**! একইভাবে দুই টুকরো বরফ চেপে ধরলে জোড়া লেগে এক হয়ে যায়: চাপে গলে আবার জমে যাওয়ার এই ঘটনাকে বলে **পুনঃশিলীভবন (রিজিলেশন)**।
+
+(খেয়াল রাখো: মোম-এর মতো বেশির ভাগ পদার্থ গলার সময় **প্রসারিত** হয়, আর তাদের ক্ষেত্রে চাপ গলনাঙ্ক সামান্য **বাড়ায়**। "চাপে গলনাঙ্ক কমে" নিয়মটা বরফ আর অল্প কিছু পদার্থের জন্য।)
+
+**গ্যাসকে তরল করা।** চাপ দিলে বাষ্প যে তাপমাত্রায় ঘনীভূত হয়, সেটাও বাড়ে। তাই খুব বেশি ঠান্ডা না করেও চাপ দিয়ে গ্যাসকে তরল করা যায়। রান্নার LPG সিলিন্ডারের গ্যাস এভাবেই তরল অবস্থায় রাখা হয়। গ্যাস তরল হওয়ার সময় প্রচুর সুপ্ততাপ বের হয়, যা ঠিকমতো সরিয়ে নিতে হয়।
+## analogy
+পানি ফুটলে বাষ্পের বুদবুদকে পানির ওপর চেপে থাকা বাতাসের বিরুদ্ধে ঠেলে বের হতে হয়। ভারী ঢাকনা দিলে (প্রেশার কুকার) বুদবুদের আরও জোরে ঠেলা লাগে, তাই ফোটার আগে পানিকে আরও গরম, প্রায় ১২০ °C হতে হয়। উঁচু পাহাড়ে বাতাসের চাপ কম, তাই পানি ১০০ °C-এর কমেই ফোটে, আর ভাত সেদ্ধ হতে বেশি সময় লাগে।
+## definition
+**স্ফুটনাঙ্কের ওপর চাপের প্রভাব**: তরলের ওপর চাপ বাড়লে এর স্ফুটনাঙ্ক বাড়ে, আর চাপ কমলে স্ফুটনাঙ্ক কমে।
+
+**বরফের গলনাঙ্কের ওপর চাপের প্রভাব**: চাপ বাড়ালে বরফের গলনাঙ্ক কমে; চাপ সরিয়ে নিলে গলনাঙ্ক আগের মানে ফিরে আসে।
+
+**পুনঃশিলীভবন (রিজিলেশন)**: চাপে বরফের গলে যাওয়া এবং চাপ সরালে আবার জমে যাওয়া।
+## why
+তরল ফোটে তখন, যখন এর বাষ্পের চাপ তলের ওপর ক্রিয়াশীল চাপের সমান হয়। তাপমাত্রা বাড়লে বাষ্পের চাপ বাড়ে, তাই বাইরের চাপ বেশি হলে বেশি তাপমাত্রা লাগে। বরফের বেলায়, কঠিন অবস্থার আয়তন তরলের চেয়ে বেশি; চাপ ছোট আয়তনকে সুবিধা দেয়, তাই কম তাপমাত্রাতেই বরফকে পানিতে পরিণত হতে সাহায্য করে।
+## terms
+স্ফুটনাঙ্ক | যে তাপমাত্রায় তরলের বাষ্পচাপ এর ওপরের চাপের সমান হয়
+প্রেশার কুকার | বন্ধ পাত্র, যেখানে আটকানো বাষ্প চাপ ও স্ফুটনাঙ্ক বাড়ায়
+পুনঃশিলীভবন (রিজিলেশন) | চাপে বরফ গলা এবং চাপ সরালে আবার জমা
+গ্যাসের তরলীকরণ | চাপ (আর শীতলীকরণ) দিয়ে গ্যাসকে তরল করা
+LPG | তরলীকৃত পেট্রোলিয়াম গ্যাস, সিলিন্ডারে চাপে তরল রাখা হয়
+## visual
+পানির ওপরের চাপ বদলাও, বা এভারেস্ট, ঢাকা অথবা প্রেশার কুকারে চাপো। লেখচিত্রে দেখো চাপের সাথে পানির স্ফুটনাঙ্ক কীভাবে বদলায়।
+## real
+বাংলাদেশের বেশির ভাগ রান্নাঘরে প্রেশার কুকার আছে, যা গরুর মাংস, ডাল আর ভাত রান্নার সময় কমিয়ে দেয়। বান্দরবানের চূড়াগুলোর মতো পাহাড়ি এলাকায় (প্রায় ১০০০ m উঁচু) পানি প্রায় ৯৭ °C-এ ফোটে, তাই রান্নায় একটু বেশি সময় লাগে। রান্নার LPG সিলিন্ডারে চাপ দিয়ে তরল করা গ্যাস থাকে। মুঠোয় গুঁড়া বরফ চেপে ধরলে জোড়া লেগে বল হয়ে যায়, পুনঃশিলীভবনের কারণে।
+## example
+প্রশ্ন: উঁচু পাহাড়ে পানি টগবগ করে ফুটছে, তবুও ভাত সেদ্ধ হতে অনেক সময় লাগছে। কেন?
+দেওয়া আছে: পাহাড়ে বাতাসের চাপ কম
+> পানি ফুটছে মানে পানি এর স্ফুটনাঙ্কে পৌঁছেছে, ১০০ °C-এ পৌঁছেছে এমন নয়।
+উত্তর: বাতাসের চাপ কম বলে পানি কম তাপমাত্রায় ফোটে (এভারেস্টে প্রায় ৭০ °C)। যতক্ষণই ফুটুক, এর চেয়ে গরম হতে পারে না, আর এই কম তাপমাত্রায় খাবার ধীরে সেদ্ধ হয়।
+## example
+প্রশ্ন: একটি প্রেশার কুকার ভেতরের বাষ্পকে প্রায় ২ atm চাপে রাখে। ভেতরের পানির তাপমাত্রা মোটামুটি কত হয়, আর খাবার তাড়াতাড়ি রান্না হয় কেন?
+দেওয়া আছে: P ≈ ২ atm; ১ atm-এ পানি ১০০ °C-এ ফোটে
+উত্তর: প্রায় ২ atm চাপে পানি প্রায় ১২০ °C-এ ফোটে। খোলা হাঁড়ির চেয়ে প্রায় ২০ °C বেশি গরম পানি ও বাষ্প খাবারকে ঘিরে থাকে, তাই রান্না অনেক তাড়াতাড়ি হয় আর জ্বালানি কম লাগে।
+## example
+প্রশ্ন: দুই মাথায় ভারী ওজন বাঁধা একটি সরু তার বরফের দণ্ডের ওপর রাখা হলো। কিছুক্ষণ পর তারটি দণ্ডের নিচ দিয়ে বেরিয়ে এলো, কিন্তু দণ্ডটি তখনও এক টুকরো। ব্যাখ্যা করো।
+উত্তর: তারের নিচের উচ্চ চাপ বরফের গলনাঙ্ক কমিয়ে দেয়, তাই সেখানকার বরফ গলে আর তার নেমে যায়। পানি তারের ওপরে চলে আসে, যেখানে চাপ আবার স্বাভাবিক, আর আবার জমে যায় (পুনঃশিলীভবন)। তাই তারের পেছনের কাটা দাগ বারবার জোড়া লেগে যায়, দণ্ড অখণ্ড থাকে।
+## mistakes
+x পানি সবসময় ১০০ °C-এ ফোটে।
+v শুধু স্বাভাবিক বায়ুচাপে (১ atm)। চাপ কম হলে ১০০ °C-এর নিচে, চাপ বেশি হলে ১০০ °C-এর ওপরে ফোটে।
+x পাহাড়ে পানি কম তাপমাত্রায় ফোটে, তাই সেখানে খাবার তাড়াতাড়ি রান্না হয়।
+v স্ফুটনাঙ্ক কম মানে পানি কম গরম, তাই খাবার ধীরে রান্না হয়।
+x চাপ দিলে সব পদার্থের গলনাঙ্ক কমে।
+v এটা বরফের (আর গলার সময় সংকুচিত হয় এমন অল্প কিছু পদার্থের) জন্য সত্য। বেশির ভাগ পদার্থের ক্ষেত্রে চাপে গলনাঙ্ক সামান্য বাড়ে।
+## remember
+- চাপ বেশি → স্ফুটনাঙ্ক বেশি; চাপ কম → স্ফুটনাঙ্ক কম।
+- এভারেস্টে পানি ফোটে প্রায় ৭০ °C-এ; প্রেশার কুকারে (প্রায় ২ atm) প্রায় ১২০ °C-এ।
+- চাপে বরফের গলনাঙ্ক কমে; চাপ সরালে পানি আবার জমে (পুনঃশিলীভবন)।
+- চাপ দিয়ে গ্যাসকে তরল করা যায়; LPG সিলিন্ডারে তরল অবস্থায় থাকে।
+## think
+প্রায় ৬০ °C-এর কুসুম গরম পানি একটা বড় সিরিঞ্জে টেনে নিয়ে আঙুল দিয়ে মুখ বন্ধ করে পিস্টন টেনে বের করা হলো। কোনো তাপ না দিলেও পানি ফুটতে শুরু করল। কেন?
+## quiz
+? প্রেশার কুকারে খাবার তাড়াতাড়ি রান্না হয়, কারণ:
+* বেশি চাপে স্ফুটনাঙ্ক বাড়ে, তাই পানি বেশি গরম হয়
+- এতে কম পানি লাগে
+- এর আগুন বেশি গরম
+- বাষ্প বাতাসের চেয়ে ভারী
+= প্রায় ২ atm চাপে পানি ১০০ °C-এর বদলে প্রায় ১২০ °C-এ ফোটে।
+? এভারেস্টের চূড়ায় পানি প্রায় কত তাপমাত্রায় ফোটে?
+- ১০০ °C
+- ১২০ °C
+* ৭০ °C
+- ০ °C
+= বাতাসের চাপ সমুদ্রপৃষ্ঠের প্রায় এক-তৃতীয়াংশ, তাই স্ফুটনাঙ্ক নেমে প্রায় ৭০ °C হয়।
+? বরফের ওপর চাপ বাড়ালে এর গলনাঙ্ক:
+- বাড়ে
+* কমে
+- একই থাকে
+- ১০০ °C হয়ে যায়
+= গলার সময় বরফ সংকুচিত হয়, তাই চাপ একে কম তাপমাত্রায় গলতে সাহায্য করে।
+? তার বরফের দণ্ড ভেদ করে গেলেও দণ্ড এক টুকরো থাকে, কারণ:
+- তার আসলে বরফ কাটেনি
+* চাপ সরে গেলে তারের ওপরের পানি আবার জমে যায়
+- ধুলা দিয়ে বরফ জোড়া লাগে
+- তার গলে যায়
+= চাপে গলে আবার জমে যাওয়ার এই ঘটনাকে বলে পুনঃশিলীভবন।

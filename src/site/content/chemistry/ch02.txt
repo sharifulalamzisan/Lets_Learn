@@ -1,0 +1,1450 @@
+@@chapter
+== en
+## intro
+Anything that has mass and takes up space is **matter**: your chair, your notebook, a glass of water, the air you breathe. Matter around us exists in three familiar **states**: **solid**, **liquid** and **gas**. Ice, water and steam are the same substance in three different states, so the state of a substance is not fixed; it changes with temperature. Why does a solid keep its shape while water takes the shape of its glass? Why does the smell of frying hilsa reach every room of the house? Why does a candle show all three states at once?
+
+In this chapter you will see how the **kinetic theory of particles** explains all of this with two simple ideas: particles attract each other, and particles are always moving. You will learn about **diffusion** and **effusion**, watch the three states of wax in a burning candle, measure **melting** and **boiling points** and read a heating curve, and finally use changes of state to purify and separate substances by **distillation** and **sublimation**.
+## objectives
+- describe the properties of solids, liquids and gases (mass, shape, volume, compressibility, expansion)
+- explain the three states of matter using the kinetic theory of particles
+- explain diffusion and effusion with the kinetic theory, and compare the rates of different gases
+- show by experiment that heating increases the rate of diffusion
+- explain the relationship between the state of a substance and heat, using heating and cooling curves
+- determine melting and boiling points and use them to judge purity
+- describe distillation and sublimation and use sublimation to separate mixtures
+- handle chemicals, burners and thermometers safely in the laboratory
+== bn
+## intro
+যার ভর আছে এবং যা জায়গা দখল করে তা-ই **পদার্থ**: তোমার চেয়ার, খাতা, এক গ্লাস পানি, যে বাতাসে শ্বাস নাও। আমাদের চারপাশের পদার্থ তিনটি চেনা **অবস্থায়** থাকে: **কঠিন**, **তরল** আর **গ্যাসীয়** (বায়বীয়)। বরফ, পানি আর জলীয় বাষ্প একই পদার্থের তিন অবস্থা; অর্থাৎ পদার্থের অবস্থা স্থির নয়, তাপমাত্রার সাথে বদলায়। কঠিন পদার্থ নিজের আকার ধরে রাখে, অথচ পানি গ্লাসের আকার নেয় কেন? রান্নাঘরে ইলিশ ভাজার গন্ধ সারা বাড়িতে ছড়িয়ে পড়ে কেন? জ্বলন্ত মোমবাতিতে একসাথে তিন অবস্থাই দেখা যায় কেন?
+
+এই অধ্যায়ে দেখবে **কণার গতিতত্ত্ব** মাত্র দুটি সহজ কথা দিয়ে সব ব্যাখ্যা করে: কণাগুলো একে অপরকে আকর্ষণ করে, আর কণাগুলো সবসময় গতিশীল। শিখবে **ব্যাপন** ও **নিঃসরণ**, জ্বলন্ত মোমবাতিতে মোমের তিন অবস্থা দেখবে, **গলনাঙ্ক** ও **স্ফুটনাঙ্ক** নির্ণয় করবে ও তাপ প্রয়োগের লেখচিত্র পড়তে শিখবে, আর শেষে অবস্থার পরিবর্তন কাজে লাগিয়ে **পাতন** ও **ঊর্ধ্বপাতন** পদ্ধতিতে পদার্থ বিশুদ্ধ ও পৃথক করা শিখবে।
+## objectives
+- কঠিন, তরল ও গ্যাসীয় পদার্থের ধর্ম (ভর, আকার, আয়তন, সংকোচনযোগ্যতা, প্রসারণ) বর্ণনা করতে পারবে
+- কণার গতিতত্ত্ব দিয়ে পদার্থের তিন অবস্থা ব্যাখ্যা করতে পারবে
+- কণার গতিতত্ত্ব দিয়ে ব্যাপন ও নিঃসরণ ব্যাখ্যা করতে এবং বিভিন্ন গ্যাসের হার তুলনা করতে পারবে
+- তাপ বাড়লে ব্যাপনের হার বাড়ে, তা পরীক্ষার মাধ্যমে দেখাতে পারবে
+- তাপ প্রয়োগ ও শীতলীকরণের লেখচিত্র দিয়ে পদার্থের অবস্থা ও তাপের সম্পর্ক ব্যাখ্যা করতে পারবে
+- গলনাঙ্ক ও স্ফুটনাঙ্ক নির্ণয় করতে এবং তা দিয়ে বিশুদ্ধতা যাচাই করতে পারবে
+- পাতন ও ঊর্ধ্বপাতন বর্ণনা করতে এবং ঊর্ধ্বপাতন দিয়ে মিশ্রণ পৃথক করতে পারবে
+- পরীক্ষাগারে রাসায়নিক দ্রব্য, বার্নার ও থার্মোমিটার নিরাপদে ব্যবহার করতে পারবে
+
+@@ 2.1
+@visual k2states
+@related 2.2 2.6 3.2 7.1
+@media https://phet.colorado.edu/en/simulations/states-of-matter-basics | States of Matter: Basics (PhET simulation) | পদার্থের অবস্থা: মৌলিক ধারণা (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Matter** is anything that has mass and occupies space. It exists in three states: a **solid** has a fixed shape and volume, a **liquid** has a fixed volume but takes the shape of its container, and a **gas** has neither a fixed shape nor a fixed volume.
+## simple
+Look around your room at normal temperature. **Sugar, table salt and marble** are solids. **Water, cooking oil and kerosene** are liquids. **Nitrogen, oxygen and carbon dioxide** in the air are gases. Every one of them has **mass**, and every one takes up **space**, so all of them are matter.
+
+The state is not a permanent label. Put water in the freezer and it becomes solid ice; boil it and it becomes a gas (steam). **By changing the temperature, the same substance can be made solid, liquid or gas.**
+
+**2.1.1 Solids.** A brick, a spoon or a lump of sugar has a **definite mass, shape and volume**. The tiny particles (atoms, molecules or ions) of every substance pull on one another. This pull is called the **intermolecular force of attraction** (the book also calls it the force between particles). In a solid this force is the **strongest**, so the particles sit very close together in **fixed positions**. They cannot leave their places; they can only **vibrate** where they are. That is why:
+- a solid keeps its own shape wherever you put it,
+- squeezing it hardly changes its volume (it is practically **incompressible**),
+- heating it makes it expand only **very slightly**.
+
+**2.1.2 Liquids.** Pour one glass of water into a jug, then into a plate. The **volume** stays one glass, but the **shape** keeps changing. A liquid has a **definite mass and volume but no definite shape**; it takes the shape of the container. Its particles are a little farther apart than in a solid, and the attraction between them is **weaker**, so they can **slide past one another**. That is why a liquid **flows**. Pressing on a liquid hardly reduces its volume, but heating makes it expand **more than a solid** does (this is how the liquid in a thermometer rises).
+
+**2.1.3 Gases.** Open a bottle of air freshener in one corner and the whole room soon holds the gas. A gas has a **definite mass but no definite shape or volume**: whatever amount you put into a container, it spreads out to **fill the whole container**. The particles are **very far apart** and the attraction between them is **very weak**. Most of a gas is empty space, so:
+- a small push is enough to **compress** it (squeeze the particles closer),
+- a small rise in temperature makes it **expand a lot**.
+
+**Putting it together:**
+- Distance between particles: solid < liquid < gas
+- Attractive force between particles: solid > liquid > gas
+- Expansion on heating: solid < liquid < gas
+- Compressibility: solids and liquids almost none; gases a lot.
+
+Liquids and gases can both flow, so together they are called **fluids**.
+## analogy
+Think of students at an assembly. Standing in straight lines, each student stays in place and only shuffles: that is a **solid**. When the assembly ends and everyone moves towards the classrooms in a crowd, they stay close but slip past each other: a **liquid**. Once they reach the playground and run anywhere they like, far apart: a **gas**. Same students, different freedom.
+## definition
+**Matter**: anything that has mass and occupies space.
+
+**Solid**: a state of matter with a definite mass, shape and volume; its particles are held close together in fixed positions and can only vibrate.
+
+**Liquid**: a state of matter with a definite mass and volume but no definite shape; it takes the shape of its container, and its particles can move past one another.
+
+**Gas**: a state of matter with a definite mass but no definite shape or volume; it fills the whole of any container, and its particles are far apart and move freely.
+## why
+Everything comes down to a tug-of-war between two things: the **attraction** that pulls particles together, and the **movement (kinetic energy)** that pushes them apart. In a solid the attraction wins completely, so the particles are locked in place and the shape is fixed. In a liquid the two are more evenly matched: the particles stay together (fixed volume) but can move around (no fixed shape). In a gas the movement wins almost completely, so the particles fly apart and fill any space. Because gas particles have so much empty space between them, pushing them closer (compressing) is easy; in solids and liquids there is almost no empty space left to squeeze out.
+## terms
+Matter (পদার্থ) | Anything that has mass and occupies space
+State of matter | The form in which matter exists: solid, liquid or gas
+Intermolecular force of attraction | The pull between the particles of a substance; strongest in solids, weakest in gases
+Compressibility | How easily the volume can be reduced by pressure; large for gases, almost zero for solids and liquids
+Fluid | A substance that can flow: liquids and gases
+## visual
+Pick a state, then change the container and push the piston. Watch which state keeps its shape, which keeps its volume, and which one you can squeeze.
+## real
+CNG auto-rickshaws in Dhaka run on **compressed natural gas**: a large amount of methane gas is squeezed into a small steel cylinder, which is only possible because gases are highly compressible. You could never squeeze a tank of water like that. The mercury or alcohol in a thermometer rises because liquids expand noticeably on heating, and railway lines have small gaps between rails because even solids expand slightly in the summer heat.
+## example
+Q: A 1 L bottle is half full of water. You pour the water into a 2 L jug. What happens to its volume and its shape?
+Answer: The volume stays 0.5 L, because a liquid has a definite volume. Its shape changes to fit the bottom of the jug, because a liquid has no definite shape.
+> A liquid keeps its volume but borrows the shape of its container.
+## example
+Q: The same amount of a gas that filled a 1 L flask is transferred to an empty 5 L flask. What volume does the gas now occupy, and why?
+Answer: 5 L. A gas has no definite volume; its particles move freely and spread out until they fill the whole container, whatever its size.
+## mistakes
+x A gas has no mass because we cannot see it.
+v A gas has mass. A football pumped full of air is heavier than a flat one. What a gas lacks is a definite shape and volume.
+x A liquid has no definite volume because it changes shape.
+v A liquid changes shape, but its volume stays the same (at a given temperature).
+x Particles of a solid do not move at all.
+v Particles of a solid cannot leave their places, but they are always vibrating about fixed positions.
+## remember
+- Solid: definite shape and volume; liquid: definite volume only; gas: neither. All three have definite mass.
+- Distance between particles: solid < liquid < gas; attraction: solid > liquid > gas.
+- Gases are easily compressed and expand a lot on heating; solids and liquids hardly compress.
+- Changing the temperature can change the state of the same substance (ice ⇌ water ⇌ steam).
+## think
+A sponge can be squeezed into a much smaller size. Does that mean a solid is compressible? What is really being squeezed out?
+## quiz
+? Which of these has a definite volume but no definite shape?
+- Marble
+* Kerosene
+- Oxygen
+- Table salt
+= Kerosene is a liquid: fixed volume, takes the container's shape.
+? In which state is the attraction between particles the strongest?
+* Solid
+- Liquid
+- Gas
+- Equal in all three
+= In solids the particles are held tightly in fixed positions.
+? Why can a gas be compressed easily?
+- Its particles are very small
+- Its particles do not move
+* There is a lot of empty space between its particles
+- It has no mass
+= Gas particles are far apart, so pressure can push them closer together.
+? On heating, which expands the most?
+- A solid
+- A liquid
+* A gas
+- All expand equally
+= Expansion on heating: solid < liquid < gas.
+== bn
+## what
+যার ভর আছে এবং যা জায়গা দখল করে তাকে **পদার্থ** বলে। পদার্থ তিন অবস্থায় থাকে: **কঠিন** পদার্থের নির্দিষ্ট আকার ও আয়তন আছে, **তরল** পদার্থের নির্দিষ্ট আয়তন আছে কিন্তু সে পাত্রের আকার নেয়, আর **গ্যাসীয়** পদার্থের নির্দিষ্ট আকার বা আয়তন কোনোটিই নেই।
+## simple
+কক্ষ তাপমাত্রায় তোমার ঘরের চারপাশে তাকাও। **চিনি, খাদ্য লবণ, মার্বেল** কঠিন পদার্থ। **পানি, রান্নার তেল, কেরোসিন** তরল পদার্থ। বাতাসের **নাইট্রোজেন, অক্সিজেন, কার্বন ডাই-অক্সাইড** গ্যাসীয় পদার্থ। প্রত্যেকটির **ভর** আছে, আর প্রত্যেকটি **জায়গা** দখল করে, তাই সবই পদার্থ।
+
+অবস্থা কোনো স্থায়ী পরিচয় নয়। পানি ফ্রিজে রাখলে কঠিন বরফ হয়; ফোটালে গ্যাস (জলীয় বাষ্প) হয়। **তাপমাত্রা বদলে একই পদার্থকে কঠিন, তরল বা গ্যাসীয় অবস্থায় রূপান্তর করা যায়।**
+
+**২.১.১ কঠিন পদার্থ।** একটি ইট, চামচ বা চিনির দলার **নির্দিষ্ট ভর, আকার ও আয়তন** আছে। প্রতিটি পদার্থের ক্ষুদ্র কণাগুলো (পরমাণু, অণু বা আয়ন) একে অপরকে টানে। এই টানকে বলে **আন্তঃকণা আকর্ষণ বল**। কঠিন পদার্থে এই বল **সবচেয়ে বেশি**, তাই কণাগুলো খুব কাছাকাছি **নির্দিষ্ট অবস্থানে** থাকে। এরা নিজের জায়গা ছেড়ে যেতে পারে না, শুধু নিজের জায়গায় **কাঁপতে** পারে। এজন্যই:
+- কঠিন পদার্থ যেখানেই রাখো, নিজের আকার ধরে রাখে,
+- চাপ দিলে এর আয়তন প্রায় কমে না (কার্যত **অসংকোচনীয়**),
+- তাপ দিলে এটি **খুব সামান্য** প্রসারিত হয়।
+
+**২.১.২ তরল পদার্থ।** এক গ্লাস পানি একটি জগে ঢালো, তারপর একটি থালায়। **আয়তন** এক গ্লাসই থাকে, কিন্তু **আকার** বদলাতে থাকে। তরল পদার্থের **নির্দিষ্ট ভর ও আয়তন আছে, কিন্তু নির্দিষ্ট আকার নেই**; যে পাত্রে রাখা হয় সেই পাত্রের আকার নেয়। এর কণাগুলো কঠিনের চেয়ে একটু দূরে দূরে থাকে, আর এদের আকর্ষণ বল **কম**, তাই কণাগুলো **একে অপরের পাশ দিয়ে সরে যেতে** পারে। এজন্যই তরল **প্রবাহিত হয়**। তরলে চাপ দিলে আয়তন প্রায় কমে না, কিন্তু তাপ দিলে এটি **কঠিনের চেয়ে বেশি** প্রসারিত হয় (থার্মোমিটারের তরল এভাবেই ওপরে ওঠে)।
+
+**২.১.৩ গ্যাসীয় বা বায়বীয় পদার্থ।** ঘরের এক কোণে এয়ার ফ্রেশনারের বোতল খুললে কিছুক্ষণের মধ্যে পুরো ঘরে গ্যাস ছড়িয়ে যায়। গ্যাসের **নির্দিষ্ট ভর আছে, কিন্তু নির্দিষ্ট আকার বা আয়তন নেই**: যে পরিমাণ গ্যাসই যে পাত্রে রাখো, সে **পুরো পাত্র দখল করে**। কণাগুলো **অনেক দূরে দূরে** থাকে আর এদের আকর্ষণ বল **খুবই কম**। গ্যাসের বেশিরভাগটাই ফাঁকা জায়গা, তাই:
+- সামান্য চাপেই একে **সংকুচিত** করা যায় (কণাগুলো কাছাকাছি চলে আসে),
+- সামান্য তাপমাত্রা বাড়লেই এর আয়তন **অনেক বেড়ে** যায়।
+
+**একসাথে মনে রাখো:**
+- কণাগুলোর মধ্যে দূরত্ব: কঠিন < তরল < গ্যাস
+- আন্তঃকণা আকর্ষণ বল: কঠিন > তরল > গ্যাস
+- তাপে প্রসারণ: কঠিন < তরল < গ্যাস
+- সংকোচনযোগ্যতা: কঠিন ও তরলে প্রায় নেই; গ্যাসে অনেক।
+
+তরল ও গ্যাস দুটোই প্রবাহিত হতে পারে, তাই এদের একসাথে বলে **প্রবাহী**।
+## analogy
+স্কুলের সমাবেশের কথা ভাবো। সোজা লাইনে দাঁড়িয়ে প্রত্যেকে নিজের জায়গায় থাকে, শুধু একটু নড়াচড়া করে: এটা **কঠিন**। সমাবেশ শেষে সবাই ভিড় করে ক্লাসের দিকে যায়, কাছাকাছি থাকে কিন্তু একে অপরের পাশ কাটিয়ে এগোয়: এটা **তরল**। মাঠে পৌঁছে যে যেদিকে খুশি দূরে দূরে ছুটে বেড়ায়: এটা **গ্যাস**। একই ছাত্রছাত্রী, শুধু চলাফেরার স্বাধীনতা আলাদা।
+## definition
+**পদার্থ**: যার ভর আছে এবং যা জায়গা দখল করে।
+
+**কঠিন পদার্থ**: পদার্থের যে অবস্থার নির্দিষ্ট ভর, আকার ও আয়তন আছে; এর কণাগুলো খুব কাছাকাছি নির্দিষ্ট অবস্থানে থাকে এবং শুধু কাঁপতে পারে।
+
+**তরল পদার্থ**: পদার্থের যে অবস্থার নির্দিষ্ট ভর ও আয়তন আছে কিন্তু নির্দিষ্ট আকার নেই; এটি পাত্রের আকার ধারণ করে, এবং এর কণাগুলো একে অপরের পাশ দিয়ে চলাচল করতে পারে।
+
+**গ্যাসীয় পদার্থ**: পদার্থের যে অবস্থার নির্দিষ্ট ভর আছে কিন্তু নির্দিষ্ট আকার বা আয়তন নেই; এটি যেকোনো পাত্রের পুরো আয়তন দখল করে, এবং এর কণাগুলো দূরে দূরে থেকে মুক্তভাবে ছোটাছুটি করে।
+## why
+সবকিছুর মূলে আছে দুটি জিনিসের দড়ি টানাটানি: কণাগুলোকে কাছে টানে যে **আকর্ষণ**, আর দূরে ঠেলে দেয় যে **গতি (গতিশক্তি)**। কঠিনে আকর্ষণ পুরোপুরি জিতে যায়, তাই কণাগুলো জায়গায় আটকে থাকে আর আকার নির্দিষ্ট হয়। তরলে দুটি প্রায় সমান সমান: কণাগুলো একসাথে থাকে (নির্দিষ্ট আয়তন), কিন্তু চলাফেরা করতে পারে (নির্দিষ্ট আকার নেই)। গ্যাসে গতি প্রায় পুরোপুরি জিতে যায়, তাই কণাগুলো ছড়িয়ে পড়ে যেকোনো জায়গা ভরে ফেলে। গ্যাসের কণাগুলোর মাঝে অনেক ফাঁকা জায়গা থাকে বলে এদের কাছাকাছি ঠেলে দেওয়া (সংকুচিত করা) সহজ; কঠিন আর তরলে চেপে বের করার মতো ফাঁকা জায়গা প্রায় থাকেই না।
+## terms
+পদার্থ (Matter) | যার ভর আছে এবং যা জায়গা দখল করে
+পদার্থের অবস্থা | পদার্থ যে রূপে থাকে: কঠিন, তরল বা গ্যাসীয়
+আন্তঃকণা আকর্ষণ বল | পদার্থের কণাগুলোর মধ্যে পারস্পরিক টান; কঠিনে সবচেয়ে বেশি, গ্যাসে সবচেয়ে কম
+সংকোচনযোগ্যতা | চাপ দিয়ে আয়তন কতটা কমানো যায়; গ্যাসে বেশি, কঠিন ও তরলে প্রায় শূন্য
+প্রবাহী | যা প্রবাহিত হতে পারে: তরল ও গ্যাস
+## visual
+একটি অবস্থা বেছে নাও, তারপর পাত্র বদলাও আর পিস্টন চাপো। দেখো কোন অবস্থা আকার ধরে রাখে, কোনটি আয়তন ধরে রাখে, আর কোনটিকে চেপে ছোট করা যায়।
+## real
+ঢাকার সিএনজি অটোরিকশা চলে **সংকুচিত প্রাকৃতিক গ্যাসে** (CNG): বিপুল পরিমাণ মিথেন গ্যাস চেপে একটি ছোট ইস্পাতের সিলিন্ডারে ভরা হয়, যা সম্ভব কারণ গ্যাস খুব সংকোচনযোগ্য। এক ট্যাংক পানিকে কখনো এভাবে চাপা যেত না। থার্মোমিটারের পারদ বা অ্যালকোহল ওপরে ওঠে কারণ তাপে তরল বেশ প্রসারিত হয়, আর রেললাইনের পাতের মাঝে ছোট ফাঁক রাখা হয় কারণ গ্রীষ্মের গরমে কঠিন পদার্থও সামান্য প্রসারিত হয়।
+## example
+প্রশ্ন: ১ L-এর একটি বোতলের অর্ধেক পানিতে ভরা। পানিটুকু ২ L-এর একটি জগে ঢালা হলো। এর আয়তন ও আকারের কী হবে?
+উত্তর: আয়তন ০.৫ L-ই থাকবে, কারণ তরলের নির্দিষ্ট আয়তন আছে। আকার বদলে জগের তলার আকার নেবে, কারণ তরলের নির্দিষ্ট আকার নেই।
+> তরল নিজের আয়তন ধরে রাখে, কিন্তু আকারটা পাত্র থেকে ধার নেয়।
+## example
+প্রশ্ন: যে পরিমাণ গ্যাস ১ L-এর একটি ফ্লাস্ক ভরে রেখেছিল, তা একটি খালি ৫ L-এর ফ্লাস্কে সরানো হলো। গ্যাসটি এখন কত আয়তন দখল করবে, এবং কেন?
+উত্তর: ৫ L। গ্যাসের নির্দিষ্ট আয়তন নেই; এর কণাগুলো মুক্তভাবে ছোটাছুটি করে ছড়িয়ে পড়ে, যতক্ষণ না পাত্রটি যত বড়ই হোক পুরোটা ভরে যায়।
+## mistakes
+x গ্যাস দেখা যায় না বলে এর ভর নেই।
+v গ্যাসের ভর আছে। বাতাসে ভরা ফুটবল চুপসানো ফুটবলের চেয়ে ভারী। গ্যাসের যা নেই তা হলো নির্দিষ্ট আকার ও আয়তন।
+x তরলের আকার বদলায়, তাই এর নির্দিষ্ট আয়তনও নেই।
+v তরলের আকার বদলায়, কিন্তু আয়তন একই থাকে (নির্দিষ্ট তাপমাত্রায়)।
+x কঠিন পদার্থের কণাগুলো একদম নড়ে না।
+v কঠিনের কণাগুলো নিজের জায়গা ছাড়তে পারে না, কিন্তু নির্দিষ্ট অবস্থানের চারপাশে সবসময় কাঁপতে থাকে।
+## remember
+- কঠিন: নির্দিষ্ট আকার ও আয়তন; তরল: শুধু নির্দিষ্ট আয়তন; গ্যাস: কোনোটিই নয়। তিনটিরই নির্দিষ্ট ভর আছে।
+- কণাগুলোর দূরত্ব: কঠিন < তরল < গ্যাস; আকর্ষণ বল: কঠিন > তরল > গ্যাস।
+- গ্যাসকে সহজে সংকুচিত করা যায় এবং তাপে এটি অনেক প্রসারিত হয়; কঠিন ও তরল প্রায় সংকুচিত হয় না।
+- তাপমাত্রা বদলে একই পদার্থের অবস্থা বদলানো যায় (বরফ ⇌ পানি ⇌ জলীয় বাষ্প)।
+## think
+একটি স্পঞ্জকে চেপে অনেক ছোট করা যায়। তার মানে কি কঠিন পদার্থ সংকোচনযোগ্য? আসলে কী চেপে বের করে দেওয়া হচ্ছে?
+## quiz
+? কোনটির নির্দিষ্ট আয়তন আছে কিন্তু নির্দিষ্ট আকার নেই?
+- মার্বেল
+* কেরোসিন
+- অক্সিজেন
+- খাদ্য লবণ
+= কেরোসিন তরল: আয়তন নির্দিষ্ট, আকার পাত্রের মতো।
+? কোন অবস্থায় কণাগুলোর মধ্যে আকর্ষণ বল সবচেয়ে বেশি?
+* কঠিন
+- তরল
+- গ্যাস
+- তিনটিতেই সমান
+= কঠিনে কণাগুলো নির্দিষ্ট অবস্থানে শক্তভাবে আটকে থাকে।
+? গ্যাসকে সহজে সংকুচিত করা যায় কেন?
+- এর কণাগুলো খুব ছোট
+- এর কণাগুলো নড়ে না
+* এর কণাগুলোর মাঝে অনেক ফাঁকা জায়গা আছে
+- এর কোনো ভর নেই
+= গ্যাসের কণাগুলো দূরে দূরে থাকে, তাই চাপ দিলে এরা কাছাকাছি চলে আসে।
+? তাপ দিলে কোনটি সবচেয়ে বেশি প্রসারিত হয়?
+- কঠিন
+- তরল
+* গ্যাস
+- সবগুলো সমান
+= তাপে প্রসারণ: কঠিন < তরল < গ্যাস।
+
+@@ 2.2
+@visual k2kinetic
+@related 2.1 2.3 2.6
+@media https://phet.colorado.edu/en/simulations/states-of-matter | States of Matter (PhET simulation) | পদার্থের অবস্থা (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+The **kinetic theory of particles** explains the three states of matter using two things: the **attraction between particles**, which holds them together, and the **kinetic energy of the particles**, which makes them move. Heating gives particles more kinetic energy, which can change a solid into a liquid and a liquid into a gas.
+## simple
+Every substance is made of extremely small particles (atoms, molecules or ions). Two ideas explain almost everything about the states of matter:
+
+1. **The particles attract one another.** This pull (intermolecular attraction) tries to keep them together.
+2. **The particles are always moving.** They have **kinetic energy** (energy of motion), which tries to push them apart. The hotter the substance, the more kinetic energy the particles have.
+
+Whichever of these two "wins" decides the state. Let us follow a block of ice as we heat it.
+
+**Solid.** In cold ice, the attraction is much stronger than the particles' motion. The particles stay packed close together and cannot change places; they only vibrate about fixed positions. When we heat the solid, the particles absorb the heat energy and **vibrate more and more strongly**.
+
+**Liquid.** With more heat, the vibration becomes strong enough that the particles partly break free from the attraction. They can now **move around and slide past one another**, but they still stay close together. This is the liquid state: the volume stays fixed but the shape follows the container.
+
+**Gas.** With still more heat, the kinetic energy of the particles becomes so large that they escape the attraction **almost completely** and **fly about freely** in all directions. This is the gaseous state. A gas has no volume of its own: the volume of the container it is in is the volume of the gas, whatever the amount.
+
+**Even hotter.** If we keep heating the gas, its particles simply **move faster and faster**, that is, their kinetic energy keeps increasing.
+
+**Going the other way.** Cooling does exactly the reverse. Take away heat from steam: the particles slow down, attraction takes over, and the steam condenses to water; cool further and the water freezes to ice. Nothing about the particles themselves changes, only how fast they move and how close they are.
+
+**Temperature and particle speed.** Temperature is really a measure of how fast, on average, the particles are moving. In the same room, particles of a hot cup of tea move faster than those of a cold glass of water.
+## analogy
+Think of children holding hands in a circle game. When the game is slow, they hold on tightly and only sway (solid). As the music gets faster, they start letting go and swapping places but stay in the group (liquid). When the music is wild, they let go completely and run all over the field (gas). The music is the heat; the hand-holding is the attraction.
+## definition
+**Kinetic theory of particles**: the theory that explains the solid, liquid and gaseous states of matter in terms of the attraction between particles and the kinetic energy of the particles. Its main ideas are:
+- All matter is made of very small particles.
+- The particles are always in motion; their kinetic energy increases as the temperature increases.
+- The particles attract one another; this attraction is strongest in solids and weakest in gases.
+- The state of a substance depends on the balance between the attraction and the kinetic energy of its particles.
+## why
+Why does heating change the state? Heat is a form of energy. When a substance absorbs heat, that energy goes into the motion of its particles. As long as the attraction is stronger than the motion, the particles stay in place (solid). Give them enough energy and the motion overcomes part of the attraction (liquid); give them even more and it overcomes the attraction almost entirely (gas). Different substances have different strengths of attraction, which is why iron needs about 1538 °C to melt while ice melts at 0 °C.
+## terms
+Particle | A tiny unit of matter: an atom, molecule or ion
+Kinetic energy | Energy a particle has because it is moving; rises with temperature
+Intermolecular attraction | The force of attraction between particles of a substance
+Vibration | Back-and-forth motion about a fixed position (particles of a solid)
+Kinetic theory of particles | Explains states of matter by the balance between attraction and kinetic energy
+## visual
+Drag the temperature slider from −40 °C to 140 °C. Watch how the particles of water move in ice, in water and in steam, and see where the kinetic-energy bar crosses the melting and boiling marks.
+## real
+Wet clothes dry faster on a sunny, windy rooftop in Rajshahi than on a cool, damp day in the monsoon, because in the heat more water particles gain enough kinetic energy to escape as vapour. Ghee or coconut oil sets solid on a cold winter morning and melts again in the kitchen's warmth: the same particles, with less or more kinetic energy.
+## example
+Q: Using the kinetic theory, explain why water has a fixed volume but no fixed shape.
+Answer: In liquid water the particles have enough kinetic energy to move about and slide past one another, so water flows and takes the shape of its container. But the attraction is still strong enough to keep the particles close together, so they cannot spread out, and the volume stays fixed.
+## example
+Q: A sealed plastic bottle of air is left in a hot car in summer and it swells up. Explain using the kinetic theory.
+Answer: Heat increases the kinetic energy of the air particles. They move faster, hit the walls of the bottle harder and more often, and so push the soft walls outwards.
+> The number of particles in the bottle did not change; only their speed did.
+## mistakes
+x When ice melts, the water particles become smaller.
+v The particles themselves do not change size. Only their motion and their arrangement change.
+x Particles in a gas have no attraction at all.
+v The attraction is very weak (almost negligible), not exactly zero.
+x Heating a gas does nothing more once it is already a gas.
+v Heating a gas makes its particles move even faster: their kinetic energy keeps increasing.
+## remember
+- Two ideas: particles attract one another, and particles always move (kinetic energy).
+- Solid: attraction ≫ motion; liquid: balanced; gas: motion ≫ attraction.
+- Heating raises kinetic energy: solid → liquid → gas. Cooling does the reverse.
+- The particles themselves never change; only their spacing and speed change.
+## think
+If particles are always moving, why doesn't a piece of chalk on your table slowly spread out and disappear?
+## quiz
+? According to the kinetic theory, what happens when a solid is heated?
+- The particles become larger
+* The particles vibrate more strongly
+- The particles stop moving
+- The attraction between particles increases
+= Heat energy increases the kinetic energy, so the particles vibrate more strongly.
+? In which state do the particles almost completely overcome the attraction between them?
+- Solid
+- Liquid
+* Gas
+- In none of them
+= In a gas, kinetic energy is so high that the particles move freely.
+? What is the volume of a gas kept in a closed 2 L container?
+- Depends only on its mass
+- Always 22.4 L
+* 2 L
+- 1 L
+= A gas fills its container, so its volume is the container's volume.
+== bn
+## what
+**কণার গতিতত্ত্ব** দুটি জিনিস দিয়ে পদার্থের তিন অবস্থা ব্যাখ্যা করে: কণাগুলোকে একসাথে ধরে রাখে যে **আন্তঃকণা আকর্ষণ**, আর কণাগুলোকে ছোটাছুটি করায় যে **গতিশক্তি**। তাপ দিলে কণার গতিশক্তি বাড়ে, ফলে কঠিন তরলে আর তরল গ্যাসে পরিণত হতে পারে।
+## simple
+প্রতিটি পদার্থ খুবই ক্ষুদ্র কণা (পরমাণু, অণু বা আয়ন) দিয়ে তৈরি। পদার্থের অবস্থার প্রায় সবকিছু দুটি ধারণা দিয়ে বোঝা যায়:
+
+১. **কণাগুলো একে অপরকে আকর্ষণ করে।** এই টান (আন্তঃকণা আকর্ষণ) এদের একসাথে ধরে রাখতে চায়।
+২. **কণাগুলো সবসময় গতিশীল।** এদের **গতিশক্তি** আছে, যা এদের দূরে সরিয়ে দিতে চায়। পদার্থ যত গরম, কণার গতিশক্তি তত বেশি।
+
+এই দুইয়ের মধ্যে কে "জেতে", তা-ই ঠিক করে পদার্থের অবস্থা। একটি বরফখণ্ডে তাপ দিতে দিতে চলো দেখি কী হয়।
+
+**কঠিন।** ঠান্ডা বরফে কণাগুলোর আকর্ষণ এদের গতির চেয়ে অনেক বেশি শক্তিশালী। কণাগুলো ঘেঁষাঘেঁষি করে থাকে, জায়গা বদলাতে পারে না; শুধু নির্দিষ্ট অবস্থানে কাঁপে। কঠিনে তাপ দিলে কণাগুলো তাপশক্তি গ্রহণ করে **আরও জোরে জোরে কাঁপতে** থাকে।
+
+**তরল।** আরও তাপ দিলে কম্পন এত জোরালো হয় যে কণাগুলো আকর্ষণ থেকে আংশিক মুক্তি পায়। এখন এরা **চলাফেরা করতে ও একে অপরের পাশ দিয়ে সরে যেতে** পারে, তবে তখনো কাছাকাছি থাকে। এটাই তরল অবস্থা: আয়তন নির্দিষ্ট, কিন্তু আকার পাত্রের মতো।
+
+**গ্যাস।** আরও তাপ দিলে কণাগুলোর গতিশক্তি এত বেড়ে যায় যে এরা আকর্ষণ থেকে **প্রায় সম্পূর্ণ মুক্ত** হয়ে সব দিকে **বিক্ষিপ্তভাবে ছুটতে** থাকে। এটাই গ্যাসীয় অবস্থা। গ্যাসের নিজস্ব কোনো আয়তন নেই: পরিমাণ যা-ই হোক, যে পাত্রে রাখা হয় সেই পাত্রের আয়তনই গ্যাসের আয়তন।
+
+**আরও গরম করলে।** গ্যাসে আরও তাপ দিলে কণাগুলো শুধু **আরও দ্রুত ছুটতে** থাকে, অর্থাৎ এদের গতিশক্তি বাড়তেই থাকে।
+
+**উল্টো পথে।** ঠান্ডা করলে ঠিক উল্টোটা ঘটে। জলীয় বাষ্প থেকে তাপ সরিয়ে নাও: কণাগুলোর গতি কমে, আকর্ষণ প্রাধান্য পায়, আর বাষ্প ঘনীভূত হয়ে পানি হয়; আরও ঠান্ডা করলে পানি জমে বরফ হয়। কণাগুলো নিজে একটুও বদলায় না, বদলায় শুধু এদের গতি আর দূরত্ব।
+
+**তাপমাত্রা আর কণার গতি।** তাপমাত্রা আসলে কণাগুলো গড়ে কত দ্রুত ছুটছে তার মাপ। একই ঘরে গরম চায়ের কাপের কণাগুলো ঠান্ডা পানির গ্লাসের কণাগুলোর চেয়ে দ্রুত ছোটে।
+## analogy
+হাত ধরাধরি করে গোল হয়ে খেলা শিশুদের কথা ভাবো। খেলা ধীরে চললে ওরা শক্ত করে হাত ধরে থাকে, শুধু দোলে (কঠিন)। বাজনা দ্রুত হলে হাত ছেড়ে ছেড়ে জায়গা বদলায়, তবু দলের মধ্যেই থাকে (তরল)। বাজনা উন্মাদ হয়ে গেলে হাত পুরো ছেড়ে দিয়ে সারা মাঠে ছুটে বেড়ায় (গ্যাস)। বাজনা হলো তাপ; হাত ধরাধরি হলো আকর্ষণ।
+## definition
+**কণার গতিতত্ত্ব**: আন্তঃকণা আকর্ষণ শক্তি এবং কণাগুলোর গতিশক্তি দিয়ে পদার্থের কঠিন, তরল ও গ্যাসীয় অবস্থা ব্যাখ্যা করার তত্ত্ব। এর মূল কথাগুলো হলো:
+- সকল পদার্থ অতি ক্ষুদ্র কণা দিয়ে গঠিত।
+- কণাগুলো সবসময় গতিশীল; তাপমাত্রা বাড়লে এদের গতিশক্তি বাড়ে।
+- কণাগুলো একে অপরকে আকর্ষণ করে; এই আকর্ষণ কঠিনে সবচেয়ে বেশি, গ্যাসে সবচেয়ে কম।
+- কণাগুলোর আকর্ষণ আর গতিশক্তির ভারসাম্যই ঠিক করে পদার্থটি কোন অবস্থায় থাকবে।
+## why
+তাপ দিলে অবস্থা বদলায় কেন? তাপ এক ধরনের শক্তি। পদার্থ তাপ শোষণ করলে সেই শক্তি কণাগুলোর গতিতে যায়। যতক্ষণ আকর্ষণ গতির চেয়ে শক্তিশালী, কণাগুলো জায়গায় থাকে (কঠিন)। যথেষ্ট শক্তি পেলে গতি আকর্ষণের কিছুটা কাটিয়ে ওঠে (তরল); আরও বেশি পেলে প্রায় পুরোটাই কাটিয়ে ওঠে (গ্যাস)। ভিন্ন ভিন্ন পদার্থে আকর্ষণের জোর ভিন্ন, তাই বরফ গলে ০ °C-এ আর লোহা গলাতে লাগে প্রায় ১৫৩৮ °C।
+## terms
+কণা | পদার্থের ক্ষুদ্র একক: পরমাণু, অণু বা আয়ন
+গতিশক্তি | গতির কারণে কণার শক্তি; তাপমাত্রার সাথে বাড়ে
+আন্তঃকণা আকর্ষণ | পদার্থের কণাগুলোর মধ্যে আকর্ষণ বল
+কম্পন | নির্দিষ্ট অবস্থানের চারপাশে সামনে-পেছনে নড়া (কঠিনের কণা)
+কণার গতিতত্ত্ব | আকর্ষণ আর গতিশক্তির ভারসাম্য দিয়ে পদার্থের অবস্থা ব্যাখ্যা
+## visual
+তাপমাত্রার স্লাইডারটি −৪০ °C থেকে ১৪০ °C পর্যন্ত টেনে দেখো। বরফ, পানি আর জলীয় বাষ্পে পানির কণাগুলো কীভাবে চলে লক্ষ করো, আর দেখো গতিশক্তির বার কোথায় গলন ও স্ফুটনের দাগ পেরোয়।
+## real
+রাজশাহীর রোদেলা, বাতাসের দিনে ছাদে ভেজা কাপড় বর্ষার ঠান্ডা স্যাঁতসেঁতে দিনের চেয়ে দ্রুত শুকায়, কারণ গরমে আরও বেশি পানির কণা যথেষ্ট গতিশক্তি পেয়ে বাষ্প হয়ে বেরিয়ে যায়। শীতের সকালে ঘি বা নারকেল তেল জমে কঠিন হয়ে যায়, আবার রান্নাঘরের উষ্ণতায় গলে যায়: একই কণা, শুধু কম বা বেশি গতিশক্তি।
+## example
+প্রশ্ন: কণার গতিতত্ত্ব দিয়ে ব্যাখ্যা করো, পানির নির্দিষ্ট আয়তন আছে কিন্তু নির্দিষ্ট আকার নেই কেন।
+উত্তর: তরল পানির কণাগুলোর যথেষ্ট গতিশক্তি আছে যে এরা চলাফেরা করতে ও একে অপরের পাশ দিয়ে সরে যেতে পারে, তাই পানি প্রবাহিত হয় ও পাত্রের আকার নেয়। কিন্তু আকর্ষণ তখনো এত শক্তিশালী যে কণাগুলো কাছাকাছি থাকে, ছড়িয়ে যেতে পারে না, তাই আয়তন নির্দিষ্ট থাকে।
+## example
+প্রশ্ন: বাতাসভরা একটি মুখবন্ধ প্লাস্টিকের বোতল গ্রীষ্মে রোদে রাখা গাড়ির ভেতরে ফুলে উঠল। কণার গতিতত্ত্ব দিয়ে ব্যাখ্যা করো।
+উত্তর: তাপে বাতাসের কণাগুলোর গতিশক্তি বেড়েছে। এরা দ্রুত ছুটে বোতলের দেয়ালে আরও জোরে ও ঘন ঘন ধাক্কা দিয়েছে, ফলে নরম দেয়াল বাইরের দিকে ঠেলে ফুলে উঠেছে।
+> বোতলে কণার সংখ্যা বদলায়নি; বদলেছে শুধু এদের বেগ।
+## mistakes
+x বরফ গললে পানির কণাগুলো ছোট হয়ে যায়।
+v কণাগুলোর আকার বদলায় না। বদলায় শুধু এদের গতি আর বিন্যাস।
+x গ্যাসের কণাগুলোর মধ্যে কোনো আকর্ষণই নেই।
+v আকর্ষণ খুবই কম (প্রায় নগণ্য), কিন্তু একেবারে শূন্য নয়।
+x গ্যাস হয়ে যাওয়ার পর আর তাপ দিলে কিছুই হয় না।
+v গ্যাসে তাপ দিলে কণাগুলো আরও দ্রুত ছোটে: এদের গতিশক্তি বাড়তেই থাকে।
+## remember
+- দুটি ধারণা: কণাগুলো একে অপরকে আকর্ষণ করে, আর কণাগুলো সবসময় গতিশীল (গতিশক্তি)।
+- কঠিন: আকর্ষণ ≫ গতি; তরল: প্রায় সমান; গ্যাস: গতি ≫ আকর্ষণ।
+- তাপে গতিশক্তি বাড়ে: কঠিন → তরল → গ্যাস। ঠান্ডা করলে উল্টোটা।
+- কণাগুলো নিজে বদলায় না; বদলায় শুধু এদের দূরত্ব আর বেগ।
+## think
+কণাগুলো যদি সবসময় গতিশীল হয়, তাহলে টেবিলের ওপর রাখা চকের টুকরাটি আস্তে আস্তে ছড়িয়ে মিলিয়ে যায় না কেন?
+## quiz
+? কণার গতিতত্ত্ব অনুযায়ী কঠিন পদার্থে তাপ দিলে কী ঘটে?
+- কণাগুলো বড় হয়ে যায়
+* কণাগুলো আরও জোরে কাঁপে
+- কণাগুলো থেমে যায়
+- কণাগুলোর আকর্ষণ বাড়ে
+= তাপশক্তি গতিশক্তি বাড়ায়, তাই কণাগুলো আরও জোরে কাঁপে।
+? কোন অবস্থায় কণাগুলো পারস্পরিক আকর্ষণ প্রায় সম্পূর্ণ কাটিয়ে ওঠে?
+- কঠিন
+- তরল
+* গ্যাস
+- কোনোটিতেই নয়
+= গ্যাসে গতিশক্তি এত বেশি যে কণাগুলো মুক্তভাবে ছোটে।
+? ২ L-এর একটি বদ্ধ পাত্রে রাখা গ্যাসের আয়তন কত?
+- শুধু এর ভরের ওপর নির্ভর করে
+- সবসময় ২২.৪ L
+* ২ L
+- ১ L
+= গ্যাস পাত্র ভরে ফেলে, তাই এর আয়তন পাত্রের আয়তনের সমান।
+
+@@ 2.3
+@visual k2diff
+@related 2.2 2.4 3.9 1.6
+@media https://phet.colorado.edu/en/simulations/diffusion | Diffusion (PhET simulation) | ব্যাপন (PhET সিমুলেশন) | PhET, University of Colorado
+== en
+## what
+**Diffusion** is the spontaneous, even spreading of the particles of a substance through a solid, liquid or gaseous medium, from a region of **higher concentration** to a region of **lower concentration**. It is fastest in gases, slower in liquids and slowest in solids; it speeds up with heating and is slower for heavier particles.
+## simple
+Open a bottle of perfume in one corner of a room. Nobody fans it, nobody stirs the air, yet a few minutes later the whole room smells of it. The perfume particles have spread out **by themselves**. This spontaneous spreading is **diffusion**.
+
+Why does it happen? Because particles are always moving at random (kinetic theory). Near the bottle there are many perfume particles; far away there are none. Random motion carries more particles out of the crowded region than back into it, so overall they move from **high concentration to low concentration** until they are spread **evenly**.
+
+**Rate of diffusion.** If the particles spread quickly (take less time), the rate of diffusion is high; if they take longer, the rate is low. Three things decide the rate:
+- **The medium (state):** diffusion is fastest in a gas, slower in a liquid and slowest in a solid. Gas particles are far apart and move freely, so a spreading particle meets few obstacles. In a liquid it keeps bumping into closely packed neighbours.
+- **Temperature:** heating gives the particles more kinetic energy, so they move faster and diffuse faster.
+- **Molecular mass:** in the same medium at the same temperature, **heavier particles diffuse more slowly** and lighter ones faster.
+
+**Experiment 1: a solid diffusing in a liquid.** Drop a few small crystals of pink-purple **potassium permanganate (KMnO₄)** into a glass jar of still water at room temperature. Slowly, purple streaks spread out from the crystals; after some minutes to about an hour the whole jar becomes an even pink. Repeat with **hot water** and the colour spreads much faster, because the particles have more kinetic energy. So **heat increases the rate of diffusion**.
+
+**Experiment 2: a liquid diffusing in a liquid.** Add a few drops of liquid laundry blue (নীল) to a beaker of water. In a short time the whole beaker turns blue, faster than the solid KMnO₄ did at the same temperature. A liquid spreads through a liquid more quickly than a solid does, and heating speeds this up too. Gases dissolve and diffuse in liquids as well, even faster than solids and liquids.
+
+**Experiment 3: two gases diffusing in air (teacher demonstration).** Take a long glass tube open at both ends. Soak one cotton plug in concentrated **hydrochloric acid** (it gives off hydrogen chloride gas, HCl) and another in concentrated **ammonium hydroxide** solution (it gives off ammonia gas, NH₃). Push them into the two ends of the tube at the same moment. The two gases diffuse towards each other through the air in the tube. Where they meet, they react and form a **white ring (white smoke) of ammonium chloride**, usually within a minute:
+
+NH₃(g) + HCl(g) → NH₄Cl(s)
+
+The white ring does **not** form in the middle. It forms **nearer the HCl end**. So in the same time, ammonia travelled farther than hydrogen chloride: **NH₃ diffuses faster**. The reason is molecular mass: NH₃ = 14 + 3 × 1 = **17**, while HCl = 1 + 35.5 = **36.5**. The lighter gas wins the race.
+
+**Comparing gases.** The relative molecular masses of H₂, He, N₂, O₂ and CO₂ are 2, 4, 28, 32 and 44. So hydrogen diffuses fastest of these and carbon dioxide slowest. (In higher classes you will meet **Graham's law**, which makes this exact: the rate of diffusion of a gas is inversely proportional to the square root of its molar mass. We use it here just for comparisons.)
+
+**Safety note:** concentrated HCl and ammonia solution are corrosive and have choking fumes. This experiment is done by the teacher in a well-ventilated room or fume cupboard, wearing goggles and gloves, with the cotton handled using tongs. Never smell either bottle directly.
+## analogy
+Imagine the school gate opens at the end of the day. At first all the students are packed at the gate (high concentration). Nobody plans it, but as everyone walks off in random directions, they soon spread evenly across the whole neighbourhood. Nobody pushes them from crowded to empty areas; random movement alone does it.
+## definition
+**Diffusion**: the process by which the particles of a substance spread out spontaneously and uniformly through a solid, liquid or gaseous medium, moving from a region of higher concentration to a region of lower concentration.
+
+**Rate of diffusion**: how quickly the particles spread; a medium in which the particles take less time to spread has a higher rate of diffusion. Rate of diffusion: gas medium > liquid medium > solid medium. At the same temperature, the higher the molecular mass, the lower the rate of diffusion.
+## why
+Diffusion needs no push from outside because particles are always moving randomly. Each particle wanders in a zig-zag path, colliding with others. Where particles are crowded, more of them happen to wander outwards than wander in, so the crowd thins out and the empty space fills up. Heating makes each particle move faster, so the spreading speeds up. At the same temperature, all gas particles have the same average kinetic energy (½mv²), so a particle with a smaller mass m must be moving with a higher speed v; that is why lighter gases diffuse faster.
+## terms
+Diffusion (ব্যাপন) | Spontaneous spreading of particles from high to low concentration
+Concentration | The amount of a substance in a given volume
+Rate of diffusion | How fast the particles spread
+Medium | The substance (solid, liquid or gas) through which particles spread
+Relative molecular mass | Sum of the relative atomic masses in a molecule (NH₃ = 17, HCl = 36.5)
+## formula
+$$ rate of diffusion ∝ 1/√M
+$$ r₁/r₂ = √(M₂/M₁)
+r | rate of diffusion of a gas | (compared, no unit needed)
+M | molar mass (relative molecular mass) of the gas | g/mol
+! NH₃ vs HCl: r(NH₃)/r(HCl) = √(36.5/17) ≈ 1.47, so NH₃ travels about 1.5 times as far in the same time.
+! Graham's law is beyond the Class 9–10 syllabus; use it only to compare gases at the same temperature and pressure.
+## visual
+Choose "KMnO₄ in water" to compare cold and hot water, or "NH₃ + HCl tube" to race the two gases and see where the white ring forms. Change the tube length and compare the rates of other gases.
+## real
+You can smell hilsa being fried from the next room, and the scent of flowers spreads in a garden: gas particles diffuse through air. A tea bag in hot water colours the whole cup quickly, but in cold water it takes much longer. In our lungs, oxygen diffuses from the air sacs (high concentration) into the blood (low concentration), and carbon dioxide diffuses the other way.
+## example
+Q: In the ammonia–hydrochloric acid experiment, the glass tube is 40 cm long. At what distance from the HCl end should the white ring of NH₄Cl form? (NH₃ = 17, HCl = 36.5)
+Given: tube length = 40 cm; M(NH₃) = 17, M(HCl) = 36.5
+Formula: distance travelled ∝ rate; d(NH₃)/d(HCl) = √(M(HCl)/M(NH₃))
+Calculation: d(NH₃)/d(HCl) = √(36.5/17) = √2.147 ≈ 1.465; d(HCl) = 40 ÷ (1 + 1.465) = 40 ÷ 2.465 ≈ 16.2 cm; d(NH₃) = 40 − 16.2 = 23.8 cm
+> In the same time, each gas travels a distance proportional to its rate.
+Answer: About 16 cm from the HCl end (about 24 cm from the NH₃ end), clearly nearer the HCl end.
+> Real experiments often show the ring even a little closer to the HCl end, because the gases also collide with air molecules; the prediction is an approximate guide.
+## example
+Q: Arrange H₂, CO₂, NH₃ and O₂ in order of increasing rate of diffusion.
+Given: M(H₂) = 2, M(CO₂) = 44, M(NH₃) = 17, M(O₂) = 32
+Answer: CO₂ < O₂ < NH₃ < H₂. The larger the molecular mass, the slower the diffusion.
+## example
+Q: How many times faster does hydrogen diffuse than oxygen at the same temperature?
+Formula: r(H₂)/r(O₂) = √(M(O₂)/M(H₂))
+Substitution: = √(32/2)
+Calculation: = √16 = 4
+Answer: Hydrogen diffuses 4 times as fast as oxygen.
+## mistakes
+x Diffusion only happens in gases.
+v Diffusion happens in solids, liquids and gases; it is fastest in gases and slowest in solids.
+x Heavier gases diffuse faster because they have more mass to push them.
+v Lighter gases diffuse faster. At the same temperature, lighter particles move faster.
+x The white ring forms in the middle of the tube.
+v It forms nearer the HCl end, because NH₃ (17) is lighter and diffuses faster than HCl (36.5).
+x 17 is the atomic mass of ammonia.
+v 17 is the relative molecular mass of NH₃ (14 + 3 × 1). "Atomic mass" belongs to single atoms; some books loosely use the wrong term here.
+## remember
+- Diffusion: spontaneous spreading from high to low concentration until uniform.
+- Rate: gas > liquid > solid medium; higher temperature → faster; lighter particles → faster.
+- NH₃(g) + HCl(g) → NH₄Cl(s); the white ring forms nearer the HCl end.
+- r ∝ 1/√M (Graham's law, for comparison).
+## think
+The white ring appears nearer to the HCl end. Where would it appear if the experiment were done in a warm room instead of a cold one: in a different place, or in the same place but sooner?
+## quiz
+? Which gas diffuses the fastest?
+- CO₂
+- NH₃
+* H₂
+- HCl
+= H₂ has the smallest molar mass (2), so it diffuses fastest.
+? In the NH₃–HCl experiment, the white ring forms nearer the HCl end because:
+- HCl is a stronger acid
+* NH₃ is lighter and diffuses faster
+- NH₃ is heavier and sinks
+- HCl diffuses faster
+= NH₃ (17) is lighter than HCl (36.5), so it travels farther in the same time.
+? KMnO₄ spreads faster in hot water than in cold water because:
+- Hot water is denser
+- KMnO₄ melts in hot water
+* The particles have more kinetic energy and move faster
+- Hot water has no particles in the way
+= Higher temperature → higher kinetic energy → faster diffusion.
+? Rate of diffusion of a substance is highest in a:
+- Solid medium
+- Liquid medium
+* Gaseous medium
+- It is the same in all
+= Gas particles are far apart, so spreading particles meet fewer obstacles.
+== bn
+## what
+কঠিন, তরল বা বায়বীয় মাধ্যমে কোনো পদার্থের কণাসমূহের **উচ্চ ঘনমাত্রার** স্থান থেকে **নিম্ন ঘনমাত্রার** স্থানের দিকে স্বতঃস্ফূর্ত ও সমানভাবে ছড়িয়ে পড়াকে **ব্যাপন** বলে। ব্যাপন গ্যাসে সবচেয়ে দ্রুত, তরলে ধীরে, কঠিনে সবচেয়ে ধীরে হয়; তাপ দিলে দ্রুত হয়, আর ভারী কণার ব্যাপন ধীর।
+## simple
+ঘরের এক কোণে একটি সুগন্ধির শিশির মুখ খুলে রাখো। কেউ বাতাস করছে না, কেউ নাড়ছে না, তবু কয়েক মিনিট পর সারা ঘরে সুগন্ধ। সুগন্ধির কণাগুলো **নিজে নিজেই** ছড়িয়ে পড়েছে। এই স্বতঃস্ফূর্ত ছড়িয়ে পড়াই **ব্যাপন**।
+
+এটা কেন ঘটে? কারণ কণাগুলো সবসময় এলোমেলোভাবে ছুটছে (কণার গতিতত্ত্ব)। শিশির কাছে সুগন্ধির কণা অনেক; দূরে একটিও নেই। এলোমেলো গতিতে ভিড়ের জায়গা থেকে যত কণা বেরিয়ে যায়, ফিরে আসে তার চেয়ে কম, তাই সব মিলিয়ে কণাগুলো **উচ্চ ঘনমাত্রা থেকে নিম্ন ঘনমাত্রার দিকে** যায়, যতক্ষণ না **সমানভাবে** ছড়িয়ে পড়ে।
+
+**ব্যাপন হার।** কণাগুলো দ্রুত ছড়িয়ে পড়লে (কম সময় লাগলে) ব্যাপন হার বেশি; বেশি সময় লাগলে ব্যাপন হার কম। তিনটি জিনিস হার ঠিক করে:
+- **মাধ্যম (অবস্থা):** ব্যাপন গ্যাসীয় মাধ্যমে সবচেয়ে দ্রুত, তরলে ধীরে, কঠিনে সবচেয়ে ধীরে। গ্যাসের কণাগুলো দূরে দূরে মুক্তভাবে ছোটে, তাই ছড়াতে থাকা কণা কম বাধা পায়। তরলে সে বারবার ঘেঁষাঘেঁষি করা প্রতিবেশীদের সাথে ধাক্কা খায়।
+- **তাপমাত্রা:** তাপ দিলে কণাগুলোর গতিশক্তি বাড়ে, তাই এরা দ্রুত ছোটে ও দ্রুত ব্যাপিত হয়।
+- **আণবিক ভর:** একই মাধ্যমে একই তাপমাত্রায় **ভারী কণার ব্যাপন ধীর**, হালকা কণার দ্রুত।
+
+**পরীক্ষা ১: তরলে কঠিনের ব্যাপন।** কক্ষ তাপমাত্রায় একটি কাচের পাত্রে স্থির পানিতে গোলাপি-বেগুনি **পটাশিয়াম পারম্যাঙ্গানেটের (KMnO₄)** কয়েকটি ছোট দানা ছেড়ে দাও। ধীরে ধীরে দানাগুলো থেকে বেগুনি রেখা ছড়াতে থাকে; কয়েক মিনিট থেকে প্রায় ঘণ্টাখানেকের মধ্যে পুরো পাত্র সমান গোলাপি হয়ে যায়। একই কাজ **গরম পানিতে** করলে রং অনেক দ্রুত ছড়ায়, কারণ কণাগুলোর গতিশক্তি বেশি। অর্থাৎ **তাপ ব্যাপন হার বাড়ায়**।
+
+**পরীক্ষা ২: তরলে তরলের ব্যাপন।** এক বিকার পানিতে কয়েক ফোঁটা তরল নীলের দ্রবণ দাও। অল্প সময়ের মধ্যেই পুরো বিকার নীল হয়ে যায়, একই তাপমাত্রায় কঠিন KMnO₄-এর চেয়ে দ্রুত। তরল মাধ্যমে কঠিনের চেয়ে তরলের ব্যাপন হার বেশি, আর তাপে এটিও বাড়ে। গ্যাসও তরলে দ্রবীভূত হয়ে ব্যাপিত হয়, কঠিন ও তরলের চেয়েও দ্রুত।
+
+**পরীক্ষা ৩: বাতাসে দুটি গ্যাসের ব্যাপন (শিক্ষক প্রদর্শন করবেন)।** দুই মুখ খোলা একটি লম্বা কাচনল নাও। এক খণ্ড তুলা ঘন **হাইড্রোক্লোরিক এসিডে** ভেজাও (এটি হাইড্রোজেন ক্লোরাইড গ্যাস, HCl ছাড়ে) আর অন্য খণ্ড ঘন **অ্যামোনিয়াম হাইড্রোক্সাইড** দ্রবণে ভেজাও (এটি অ্যামোনিয়া গ্যাস, NH₃ ছাড়ে)। একই সময়ে তুলা দুটি নলের দুই মুখে ঢুকিয়ে দাও। গ্যাস দুটি নলের ভেতরের বাতাসের মধ্য দিয়ে একে অপরের দিকে ব্যাপিত হয়। যেখানে মিলিত হয়, সেখানে বিক্রিয়া করে **অ্যামোনিয়াম ক্লোরাইডের সাদা বলয় (সাদা ধোঁয়া)** তৈরি করে, সাধারণত এক মিনিটেরও কম সময়ে:
+
+NH₃(g) + HCl(g) → NH₄Cl(s)
+
+সাদা বলয় নলের **মাঝখানে হয় না**। এটি হয় **HCl-এর প্রান্তের কাছে**। অর্থাৎ একই সময়ে অ্যামোনিয়া হাইড্রোজেন ক্লোরাইডের চেয়ে বেশি দূরত্ব অতিক্রম করেছে: **NH₃-এর ব্যাপন দ্রুত**। কারণ আণবিক ভর: NH₃ = ১৪ + ৩ × ১ = **১৭**, আর HCl = ১ + ৩৫.৫ = **৩৬.৫**। দৌড়ে হালকা গ্যাসটিই জেতে।
+
+**গ্যাসগুলোর তুলনা।** H₂, He, N₂, O₂ ও CO₂-এর আপেক্ষিক আণবিক ভর যথাক্রমে ২, ৪, ২৮, ৩২ ও ৪৪। তাই এদের মধ্যে হাইড্রোজেনের ব্যাপন সবচেয়ে দ্রুত আর কার্বন ডাই-অক্সাইডের সবচেয়ে ধীর। (উচ্চতর শ্রেণিতে তুমি **গ্রাহামের সূত্র** পড়বে, যা বিষয়টি নিখুঁত করে: গ্যাসের ব্যাপন হার এর মোলার ভরের বর্গমূলের ব্যস্তানুপাতিক। এখানে শুধু তুলনার জন্য এটি ব্যবহার করছি।)
+
+**নিরাপত্তা:** ঘন HCl আর অ্যামোনিয়া দ্রবণ ক্ষয়কারী, এদের ঝাঁঝালো ধোঁয়ায় দম বন্ধ হয়ে আসে। এই পরীক্ষাটি শিক্ষক বায়ু চলাচলযুক্ত ঘরে বা ফিউম কাবার্ডে, চশমা (গগলস) ও গ্লাভস পরে, চিমটা দিয়ে তুলা ধরে করবেন। কোনো বোতল সরাসরি শুঁকবে না।
+## analogy
+ভাবো ছুটির ঘণ্টা বাজল আর স্কুলের গেট খুলে গেল। প্রথমে সব ছাত্রছাত্রী গেটে গাদাগাদি (উচ্চ ঘনমাত্রা)। কেউ পরিকল্পনা করে না, তবু সবাই এলোমেলো দিকে হাঁটতে থাকায় একটু পরেই পুরো এলাকায় সমানভাবে ছড়িয়ে পড়ে। কেউ তাদের ভিড় থেকে ফাঁকা জায়গায় ঠেলে দেয় না; শুধু এলোমেলো চলাফেরাই কাজটা করে।
+## definition
+**ব্যাপন**: কঠিন, তরল ও বায়বীয় মাধ্যমে কোনো পদার্থের কণাসমূহের স্বতঃস্ফূর্ত ও সমানভাবে ছড়িয়ে পড়ার প্রক্রিয়া, যেখানে কণাসমূহ উচ্চ ঘনমাত্রার স্থান থেকে নিম্ন ঘনমাত্রার স্থানের দিকে যায়।
+
+**ব্যাপন হার**: কণাগুলো কত দ্রুত ছড়িয়ে পড়ে; যে মাধ্যমে কণাগুলো ছড়াতে কম সময় লাগে, সেখানে ব্যাপন হার বেশি। ব্যাপন হার: বায়বীয় মাধ্যম > তরল মাধ্যম > কঠিন মাধ্যম। একই তাপমাত্রায় আণবিক ভর যত বেশি, ব্যাপন হার তত কম।
+## why
+ব্যাপনের জন্য বাইরে থেকে কোনো ঠেলা লাগে না, কারণ কণাগুলো সবসময় এলোমেলোভাবে ছুটছে। প্রতিটি কণা অন্যদের সাথে ধাক্কা খেতে খেতে আঁকাবাঁকা পথে ঘোরে। যেখানে কণার ভিড়, সেখান থেকে বাইরের দিকে যত কণা চলে যায়, ভেতরে আসে তার চেয়ে কম; ফলে ভিড় পাতলা হয় আর ফাঁকা জায়গা ভরে ওঠে। তাপ দিলে প্রতিটি কণা দ্রুত ছোটে, তাই ছড়ানোও দ্রুত হয়। একই তাপমাত্রায় সব গ্যাসের কণার গড় গতিশক্তি (½mv²) সমান, তাই যার ভর m কম, তার বেগ v বেশি হতেই হবে; এজন্যই হালকা গ্যাসের ব্যাপন দ্রুত।
+## terms
+ব্যাপন (Diffusion) | কণার উচ্চ থেকে নিম্ন ঘনমাত্রার দিকে স্বতঃস্ফূর্ত ছড়িয়ে পড়া
+ঘনমাত্রা | নির্দিষ্ট আয়তনে কোনো পদার্থের পরিমাণ
+ব্যাপন হার | কণাগুলো কত দ্রুত ছড়িয়ে পড়ে
+মাধ্যম | যে পদার্থের (কঠিন, তরল বা গ্যাস) মধ্য দিয়ে কণা ছড়ায়
+আপেক্ষিক আণবিক ভর | অণুতে থাকা পরমাণুগুলোর আপেক্ষিক পারমাণবিক ভরের যোগফল (NH₃ = ১৭, HCl = ৩৬.৫)
+## formula
+$$ ব্যাপন হার ∝ 1/√M
+$$ r₁/r₂ = √(M₂/M₁)
+r | গ্যাসের ব্যাপন হার | (তুলনা, একক লাগে না)
+M | গ্যাসের মোলার ভর (আপেক্ষিক আণবিক ভর) | g/mol
+! NH₃ বনাম HCl: r(NH₃)/r(HCl) = √(৩৬.৫/১৭) ≈ ১.৪৭, তাই একই সময়ে NH₃ প্রায় দেড় গুণ দূরত্ব যায়।
+! গ্রাহামের সূত্র নবম-দশম শ্রেণির পাঠ্যসূচির বাইরে; একই তাপমাত্রা ও চাপে গ্যাসের তুলনার জন্যই শুধু এটি ব্যবহার করো।
+## visual
+ঠান্ডা আর গরম পানির তুলনা করতে "পানিতে KMnO₄" বেছে নাও, অথবা "NH₃ + HCl নল" বেছে নিয়ে গ্যাস দুটির দৌড় দেখো আর সাদা বলয় কোথায় তৈরি হয় লক্ষ করো। নলের দৈর্ঘ্য বদলাও আর অন্যান্য গ্যাসের হার তুলনা করো।
+## real
+পাশের ঘর থেকেই ইলিশ ভাজার গন্ধ পাওয়া যায়, বাগানে ফুলের সুবাস ছড়িয়ে পড়ে: গ্যাসের কণা বাতাসে ব্যাপিত হয়। গরম পানিতে টি-ব্যাগ দিলে পুরো কাপ দ্রুত রঙিন হয়, ঠান্ডা পানিতে অনেক সময় লাগে। আমাদের ফুসফুসে অক্সিজেন বায়ুথলি (উচ্চ ঘনমাত্রা) থেকে রক্তে (নিম্ন ঘনমাত্রা) ব্যাপিত হয়, আর কার্বন ডাই-অক্সাইড উল্টো দিকে।
+## example
+প্রশ্ন: অ্যামোনিয়া–হাইড্রোক্লোরিক এসিড পরীক্ষায় কাচনলটি ৪০ cm লম্বা। HCl প্রান্ত থেকে কত দূরে NH₄Cl-এর সাদা বলয় তৈরি হওয়া উচিত? (NH₃ = ১৭, HCl = ৩৬.৫)
+দেওয়া আছে: নলের দৈর্ঘ্য = ৪০ cm; M(NH₃) = ১৭, M(HCl) = ৩৬.৫
+সূত্র: অতিক্রান্ত দূরত্ব ∝ হার; d(NH₃)/d(HCl) = √(M(HCl)/M(NH₃))
+হিসাব: d(NH₃)/d(HCl) = √(৩৬.৫/১৭) = √২.১৪৭ ≈ ১.৪৬৫; d(HCl) = ৪০ ÷ (১ + ১.৪৬৫) = ৪০ ÷ ২.৪৬৫ ≈ ১৬.২ cm; d(NH₃) = ৪০ − ১৬.২ = ২৩.৮ cm
+> একই সময়ে প্রতিটি গ্যাস তার হারের সমানুপাতিক দূরত্ব যায়।
+উত্তর: HCl প্রান্ত থেকে প্রায় ১৬ cm দূরে (NH₃ প্রান্ত থেকে প্রায় ২৪ cm), স্পষ্টতই HCl প্রান্তের কাছে।
+> বাস্তব পরীক্ষায় বলয়টি প্রায়ই HCl প্রান্তের আরও একটু কাছে দেখা যায়, কারণ গ্যাসগুলো বাতাসের অণুর সাথেও ধাক্কা খায়; হিসাবটি একটি আনুমানিক নির্দেশনা।
+## example
+প্রশ্ন: H₂, CO₂, NH₃ ও O₂-কে ব্যাপন হারের ঊর্ধ্বক্রমে সাজাও।
+দেওয়া আছে: M(H₂) = ২, M(CO₂) = ৪৪, M(NH₃) = ১৭, M(O₂) = ৩২
+উত্তর: CO₂ < O₂ < NH₃ < H₂। আণবিক ভর যত বেশি, ব্যাপন তত ধীর।
+## example
+প্রশ্ন: একই তাপমাত্রায় হাইড্রোজেন অক্সিজেনের চেয়ে কত গুণ দ্রুত ব্যাপিত হয়?
+সূত্র: r(H₂)/r(O₂) = √(M(O₂)/M(H₂))
+মান বসাই: = √(৩২/২)
+হিসাব: = √১৬ = ৪
+উত্তর: হাইড্রোজেন অক্সিজেনের ৪ গুণ দ্রুত ব্যাপিত হয়।
+## mistakes
+x ব্যাপন শুধু গ্যাসে ঘটে।
+v ব্যাপন কঠিন, তরল ও গ্যাস সব মাধ্যমেই ঘটে; গ্যাসে সবচেয়ে দ্রুত, কঠিনে সবচেয়ে ধীর।
+x ভারী গ্যাসের ব্যাপন দ্রুত, কারণ বেশি ভর তাকে ঠেলে নেয়।
+v হালকা গ্যাসের ব্যাপন দ্রুত। একই তাপমাত্রায় হালকা কণা দ্রুত ছোটে।
+x সাদা বলয় নলের ঠিক মাঝখানে তৈরি হয়।
+v এটি HCl প্রান্তের কাছে হয়, কারণ NH₃ (১৭) HCl (৩৬.৫)-এর চেয়ে হালকা ও দ্রুত ব্যাপিত হয়।
+x ১৭ হলো অ্যামোনিয়ার পারমাণবিক ভর।
+v ১৭ হলো NH₃-এর আপেক্ষিক আণবিক ভর (১৪ + ৩ × ১)। "পারমাণবিক ভর" কথাটি একক পরমাণুর জন্য; কোনো কোনো বইয়ে এখানে ভুল করে এই শব্দটি ব্যবহার করা হয়।
+## remember
+- ব্যাপন: উচ্চ থেকে নিম্ন ঘনমাত্রার দিকে স্বতঃস্ফূর্ত ছড়িয়ে পড়া, যতক্ষণ না সমান হয়।
+- হার: গ্যাস > তরল > কঠিন মাধ্যম; তাপমাত্রা বেশি → দ্রুত; হালকা কণা → দ্রুত।
+- NH₃(g) + HCl(g) → NH₄Cl(s); সাদা বলয় HCl প্রান্তের কাছে তৈরি হয়।
+- r ∝ 1/√M (গ্রাহামের সূত্র, তুলনার জন্য)।
+## think
+সাদা বলয়টি HCl প্রান্তের কাছে দেখা যায়। ঠান্ডা ঘরের বদলে গরম ঘরে পরীক্ষাটি করলে বলয়টি কোথায় দেখা যাবে: অন্য জায়গায়, নাকি একই জায়গায় কিন্তু আরও তাড়াতাড়ি?
+## quiz
+? কোন গ্যাসটির ব্যাপন সবচেয়ে দ্রুত?
+- CO₂
+- NH₃
+* H₂
+- HCl
+= H₂-এর মোলার ভর সবচেয়ে কম (২), তাই এর ব্যাপন সবচেয়ে দ্রুত।
+? NH₃–HCl পরীক্ষায় সাদা বলয় HCl প্রান্তের কাছে তৈরি হয়, কারণ:
+- HCl বেশি শক্তিশালী এসিড
+* NH₃ হালকা, তাই দ্রুত ব্যাপিত হয়
+- NH₃ ভারী, তাই নিচে নেমে যায়
+- HCl দ্রুত ব্যাপিত হয়
+= NH₃ (১৭) HCl (৩৬.৫)-এর চেয়ে হালকা, তাই একই সময়ে বেশি দূর যায়।
+? ঠান্ডা পানির চেয়ে গরম পানিতে KMnO₄ দ্রুত ছড়ায়, কারণ:
+- গরম পানি বেশি ঘন
+- গরম পানিতে KMnO₄ গলে যায়
+* কণাগুলোর গতিশক্তি বেশি, তাই দ্রুত ছোটে
+- গরম পানিতে পথে কোনো কণা থাকে না
+= তাপমাত্রা বেশি → গতিশক্তি বেশি → ব্যাপন দ্রুত।
+? কোনো পদার্থের ব্যাপন হার সবচেয়ে বেশি হয়:
+- কঠিন মাধ্যমে
+- তরল মাধ্যমে
+* বায়বীয় মাধ্যমে
+- সব মাধ্যমে সমান
+= গ্যাসের কণাগুলো দূরে দূরে থাকে, তাই ছড়াতে থাকা কণা কম বাধা পায়।
+
+@@ 2.4
+@visual k2eff
+@related 2.3 2.2 6.1.1
+== en
+## what
+**Effusion** is the escape of gas particles one by one through a very tiny hole, without colliding with one another on the way out, like air slowly leaking from a balloon with a microscopic hole. Lighter gases effuse faster than heavier ones.
+## simple
+Blow up a balloon and tie it. Leave it for a few days and it slowly goes soft and wrinkled. The rubber has tiny, invisible holes. Air particles inside keep rushing about; now and then one happens to reach a hole and slips out, then another, then another. Particle by particle, the balloon loses its air. This slow escape is called **effusion**.
+
+**Not a burst, a slow leak.** A bicycle or rickshaw tyre with a pin-sized puncture does not explode; it goes flat gradually over hours. That quiet, gradual escape through a tiny opening is effusion. A burst (a big tear) is not effusion, because the gas rushes out all together.
+
+**How is it different from diffusion?**
+- **Diffusion**: particles spread out through another medium (such as air), colliding again and again with other particles.
+- **Effusion**: particles pass through a **tiny hole** into an empty or outside space, one at a time, **without colliding** with each other while going through.
+
+**Lighter is faster, again.** At the same temperature, lighter particles move faster, so they reach the hole more often and escape sooner. That is why a **helium balloon** (He, M = 4) goes flat much faster than a balloon of ordinary air (average M ≈ 29).
+
+**Practical uses of effusion**
+
+**1. Leak testing of gas cylinders and pipelines.** When gas escapes slowly through a tiny hole in an LPG cylinder, its valve, a regulator or a gas pipe, it is effusing. To find such a leak, soapy water is brushed on the valve, joints and line. If small bubbles grow at some spot, gas is escaping there. Gas companies advise checking LPG cylinder valves and lines this way regularly.
+
+**Safety:** Never look for a gas leak with a match, lighter or candle. If you smell gas at home, close the cylinder valve, open doors and windows, do not switch any electric switch on or off, and call an adult or the gas company.
+
+**2. Finding the molar mass of a gas.** Scientists measure how fast an unknown gas effuses and compare it with a known gas under the same conditions. The lighter gas escapes faster and the heavier gas slower, so from the rates they can work out how heavy the unknown gas is (its molar mass). The comparison uses the same square-root rule you met in diffusion: r₁/r₂ = √(M₂/M₁). Equivalently, the time needed for the same volume to escape is proportional to √M.
+## analogy
+Think of a crowded school hall with only one very narrow door. Students wander about the hall at random; now and then one reaches the door and slips out, one at a time. Energetic, quick students (light particles) reach the door more often, so they get out sooner than the slow ones (heavy particles).
+## definition
+**Effusion**: the process by which gas particles escape one by one through a very small opening without colliding with one another, for example gas escaping through a tiny hole in a balloon.
+
+At the same temperature and pressure, the rate of effusion of a gas is inversely proportional to the square root of its molar mass (Graham's law): lighter gases effuse faster.
+## why
+Gas particles move randomly in all directions. The rate at which they escape through a hole depends on how often particles arrive at the hole. At the same temperature, all gases have the same average kinetic energy (½mv²), so lighter particles move faster and arrive at the hole more often. That is why lighter gases effuse faster. Because the hole is tiny, particles go through singly; they have no chance to bump into each other on the way.
+## terms
+Effusion (নিঃসরণ) | Escape of gas particles one by one through a tiny hole
+Rate of effusion | How fast a gas escapes through the hole (e.g. mL per second)
+Leak test | Checking for tiny holes using soapy water: bubbles show escaping gas
+Molar mass | Mass of one mole of a substance, g/mol (He = 4, O₂ = 32)
+## formula
+$$ r₁/r₂ = √(M₂/M₁)
+$$ t₁/t₂ = √(M₁/M₂)
+r | rate of effusion | (e.g. mL/s)
+t | time for the same volume of gas to escape | s
+M | molar mass | g/mol
+! Heavier gas → smaller rate → longer time.
+! Graham's law is enrichment beyond the textbook; it holds only at the same temperature and pressure.
+## visual
+Choose a gas for each balloon and press Start. Count how many particles escape through the pinhole, and compare the escape rates with √(M₂/M₁).
+## real
+Foil party balloons filled with helium stay up longer than latex ones, because the metallic foil has far fewer tiny holes for helium to effuse through. Gas cylinder shops and CNG stations in Bangladesh use soapy water to check valves and joints: a growing bubble means gas is effusing through a leak.
+## example
+Q: How many times faster does helium effuse than oxygen under the same conditions?
+Given: M(He) = 4, M(O₂) = 32
+Formula: r(He)/r(O₂) = √(M(O₂)/M(He))
+Substitution: = √(32/4)
+Calculation: = √8 ≈ 2.83
+Answer: Helium effuses about 2.8 times as fast as oxygen.
+## example
+Q: An unknown gas effuses at half the rate of helium under the same conditions. Find its molar mass and suggest what it could be.
+Given: r(X) = ½ r(He); M(He) = 4
+Formula: r(He)/r(X) = √(M(X)/M(He))
+Substitution: 2 = √(M(X)/4)
+Calculation: 4 = M(X)/4, so M(X) = 16
+> Square both sides to remove the square root.
+Answer: M = 16 g/mol; it could be methane (CH₄ = 12 + 4 = 16).
+## example
+Q: 100 mL of hydrogen effuses through a pinhole in 10 s. How long will 100 mL of oxygen take through the same hole under the same conditions?
+Given: t(H₂) = 10 s; M(H₂) = 2, M(O₂) = 32
+Formula: t(O₂)/t(H₂) = √(M(O₂)/M(H₂))
+Substitution: t(O₂) = 10 × √(32/2)
+Calculation: = 10 × √16 = 10 × 4 = 40 s
+Answer: 40 s
+## mistakes
+x Effusion and diffusion are the same thing.
+v Diffusion is spreading through a medium with many collisions; effusion is escape through a tiny hole, one particle at a time, without collisions.
+x A burst balloon is an example of effusion.
+v Effusion is a slow escape through a tiny hole. A burst releases the gas all at once.
+x Heavier gases escape faster from a leak.
+v Lighter gases escape faster; rate ∝ 1/√M.
+## remember
+- Effusion: gas particles escape one by one through a tiny hole, without colliding.
+- Lighter gas → faster effusion (a helium balloon goes flat sooner than an air balloon).
+- Uses: leak testing with soapy water; comparing rates to find molar mass.
+- r₁/r₂ = √(M₂/M₁); t ∝ √M (enrichment).
+## think
+When the valve of an LPG cylinder is opened slightly in a kitchen, both effusion and diffusion take place. Which process happens at the valve, and which one carries the smell to the next room?
+## quiz
+? Which balloon goes flat fastest (same size, same rubber)?
+* One filled with helium
+- One filled with air
+- One filled with carbon dioxide
+- All at the same rate
+= He has the smallest molar mass (4), so it effuses fastest.
+? Soapy water is used on a gas cylinder valve to:
+- Stop the gas from burning
+* Detect a leak: bubbles show gas effusing through a tiny hole
+- Make the gas diffuse faster
+- Clean the valve
+= Escaping gas blows small bubbles in the soap film.
+? An unknown gas effuses 4 times more slowly than hydrogen (M = 2). Its molar mass is:
+- 8
+- 16
+* 32
+- 64
+= 4 = √(M/2) → 16 = M/2 → M = 32.
+== bn
+## what
+খুব ছোট একটি ছিদ্র দিয়ে গ্যাসের কণাগুলোর পারস্পরিক সংঘর্ষ ছাড়াই একে একে বেরিয়ে যাওয়াকে **নিঃসরণ** বলে, যেমন অতি ক্ষুদ্র ছিদ্রওয়ালা বেলুন থেকে ধীরে ধীরে বাতাস বের হয়ে যাওয়া। হালকা গ্যাসের নিঃসরণ ভারী গ্যাসের চেয়ে দ্রুত।
+## simple
+একটি বেলুন ফুলিয়ে মুখ বেঁধে রাখো। কয়েক দিন পর দেখবে এটি আস্তে আস্তে নরম আর কুঁচকে গেছে। রাবারে অদৃশ্য ক্ষুদ্র ছিদ্র থাকে। ভেতরের বাতাসের কণাগুলো সারাক্ষণ ছোটাছুটি করে; মাঝে মাঝে একটি কণা হঠাৎ ছিদ্রের কাছে পৌঁছে বেরিয়ে যায়, তারপর আরেকটি, তারপর আরেকটি। কণা কণা করে বেলুনের বাতাস ফুরিয়ে যায়। এই ধীর নির্গমনকে বলে **নিঃসরণ**।
+
+**ফেটে যাওয়া নয়, ধীরে বের হওয়া।** সুচের মতো ছোট ফুটোওয়ালা সাইকেল বা রিকশার টায়ার ফাটে না; ঘণ্টার পর ঘণ্টা ধরে ধীরে ধীরে চুপসে যায়। ক্ষুদ্র ছিদ্র দিয়ে এই নিঃশব্দ, ধাপে ধাপে বেরিয়ে যাওয়াই নিঃসরণ। বেলুন ফেটে যাওয়া (বড় ফাটল) নিঃসরণ নয়, কারণ তখন সব গ্যাস একসাথে হুড়মুড় করে বেরিয়ে যায়।
+
+**ব্যাপন থেকে এটি আলাদা কীভাবে?**
+- **ব্যাপন**: কণাগুলো অন্য মাধ্যমের (যেমন বাতাসের) মধ্য দিয়ে অন্য কণার সাথে বারবার ধাক্কা খেতে খেতে ছড়িয়ে পড়ে।
+- **নিঃসরণ**: কণাগুলো একটি **ক্ষুদ্র ছিদ্র** দিয়ে ফাঁকা বা বাইরের জায়গায় একটি একটি করে, নিজেদের মধ্যে **সংঘর্ষ ছাড়াই** বেরিয়ে যায়।
+
+**আবারও, হালকা মানেই দ্রুত।** একই তাপমাত্রায় হালকা কণা দ্রুত ছোটে, তাই বেশি বার ছিদ্রে পৌঁছায় আর তাড়াতাড়ি বেরিয়ে যায়। এজন্যই **হিলিয়াম বেলুন** (He, M = ৪) সাধারণ বাতাসের বেলুনের (গড় M ≈ ২৯) চেয়ে অনেক তাড়াতাড়ি চুপসে যায়।
+
+**নিঃসরণের ব্যবহারিক প্রয়োগ**
+
+**১. গ্যাস সিলিন্ডার ও পাইপলাইনে লিক শনাক্তকরণ।** এলপিজি সিলিন্ডার, এর ভাল্ভ, রেগুলেটর বা গ্যাস পাইপের ক্ষুদ্র ছিদ্র দিয়ে গ্যাস ধীরে ধীরে বের হলে তা নিঃসরণ। এমন লিক খুঁজতে ভাল্ভ, জোড়া আর লাইনে সাবান পানি লাগানো হয়। কোনো জায়গায় ছোট ছোট বুদবুদ ফুলে উঠলে বুঝতে হবে সেখান দিয়ে গ্যাস বের হচ্ছে। গ্যাস কোম্পানিগুলো এভাবে নিয়মিত এলপিজি সিলিন্ডারের ভাল্ভ ও লাইন পরীক্ষা করার পরামর্শ দেয়।
+
+**নিরাপত্তা:** কখনো দিয়াশলাই, লাইটার বা মোমবাতি জ্বেলে গ্যাস লিক খুঁজবে না। বাড়িতে গ্যাসের গন্ধ পেলে সিলিন্ডারের ভাল্ভ বন্ধ করো, দরজা-জানালা খুলে দাও, কোনো বৈদ্যুতিক সুইচ চালু বা বন্ধ করবে না, আর বড়দের বা গ্যাস কোম্পানিকে খবর দাও।
+
+**২. গ্যাসের মোলার ভর নির্ণয়।** বিজ্ঞানীরা একটি অজানা গ্যাস কত দ্রুত নিঃসৃত হয় তা মেপে একই অবস্থায় একটি জানা গ্যাসের সাথে তুলনা করেন। হালকা গ্যাস দ্রুত বের হয়, ভারী গ্যাস ধীরে, তাই হার থেকে অজানা গ্যাসটি কতটা ভারী (এর মোলার ভর) তা বের করা যায়। তুলনায় ব্যবহৃত হয় ব্যাপনে দেখা সেই বর্গমূলের নিয়ম: r₁/r₂ = √(M₂/M₁)। একইভাবে, সমান আয়তন গ্যাস বের হতে যে সময় লাগে তা √M-এর সমানুপাতিক।
+## analogy
+ভাবো ভিড়ে ঠাসা একটি স্কুল হলঘর, যার দরজা মাত্র একটি এবং খুবই সরু। ছাত্রছাত্রীরা হলের মধ্যে এলোমেলো ঘুরছে; মাঝে মাঝে কেউ দরজার কাছে পৌঁছে একজন একজন করে বেরিয়ে যায়। চটপটে, দ্রুতগামীরা (হালকা কণা) বেশি বার দরজায় পৌঁছায়, তাই ধীরগতিরদের (ভারী কণা) চেয়ে তাড়াতাড়ি বের হয়ে যায়।
+## definition
+**নিঃসরণ**: যে প্রক্রিয়ায় গ্যাসের কণাগুলো খুব ছোট একটি ছিদ্র দিয়ে পারস্পরিক সংঘর্ষ ছাড়াই একে একে বের হয়ে যায়, যেমন বেলুনের ক্ষুদ্র ছিদ্র দিয়ে গ্যাস নির্গমন।
+
+একই তাপমাত্রা ও চাপে গ্যাসের নিঃসরণ হার এর মোলার ভরের বর্গমূলের ব্যস্তানুপাতিক (গ্রাহামের সূত্র): হালকা গ্যাসের নিঃসরণ দ্রুত।
+## why
+গ্যাসের কণাগুলো সব দিকে এলোমেলোভাবে ছোটে। ছিদ্র দিয়ে এরা কত দ্রুত বের হবে, তা নির্ভর করে কত ঘন ঘন কণা ছিদ্রে পৌঁছায় তার ওপর। একই তাপমাত্রায় সব গ্যাসের গড় গতিশক্তি (½mv²) সমান, তাই হালকা কণা দ্রুত ছোটে এবং বেশি বার ছিদ্রে পৌঁছায়। এজন্যই হালকা গ্যাসের নিঃসরণ দ্রুত। ছিদ্রটি খুব ছোট বলে কণাগুলো একটি একটি করে বের হয়; পথে একে অপরের সাথে ধাক্কা খাওয়ার সুযোগই পায় না।
+## terms
+নিঃসরণ (Effusion) | ক্ষুদ্র ছিদ্র দিয়ে গ্যাসের কণার একে একে বের হয়ে যাওয়া
+নিঃসরণ হার | ছিদ্র দিয়ে গ্যাস কত দ্রুত বের হয় (যেমন mL প্রতি সেকেন্ডে)
+লিক টেস্ট | সাবান পানি দিয়ে ক্ষুদ্র ছিদ্র খোঁজা: বুদবুদ মানে গ্যাস বের হচ্ছে
+মোলার ভর | এক মোল পদার্থের ভর, g/mol (He = ৪, O₂ = ৩২)
+## formula
+$$ r₁/r₂ = √(M₂/M₁)
+$$ t₁/t₂ = √(M₁/M₂)
+r | নিঃসরণ হার | (যেমন mL/s)
+t | সমান আয়তন গ্যাস বের হতে সময় | s
+M | মোলার ভর | g/mol
+! ভারী গ্যাস → হার কম → সময় বেশি।
+! গ্রাহামের সূত্র পাঠ্যবইয়ের বাইরের বাড়তি জ্ঞান; এটি শুধু একই তাপমাত্রা ও চাপে খাটে।
+## visual
+প্রতিটি বেলুনের জন্য একটি গ্যাস বেছে নিয়ে "শুরু" চাপো। সুচের মতো ছিদ্র দিয়ে কয়টি কণা বের হয় গুনে দেখো, আর নিঃসরণ হারের অনুপাত √(M₂/M₁)-এর সাথে মিলিয়ে দেখো।
+## real
+হিলিয়াম ভরা ফয়েলের পার্টি বেলুন রাবারের বেলুনের চেয়ে বেশি দিন ভেসে থাকে, কারণ ধাতব ফয়েলে হিলিয়াম নিঃসৃত হওয়ার মতো ক্ষুদ্র ছিদ্র অনেক কম। বাংলাদেশের গ্যাস সিলিন্ডারের দোকান আর সিএনজি স্টেশনে ভাল্ভ ও জোড়া পরীক্ষায় সাবান পানি ব্যবহার করা হয়: বুদবুদ ফুলে উঠলে বোঝা যায় লিক দিয়ে গ্যাস নিঃসৃত হচ্ছে।
+## example
+প্রশ্ন: একই অবস্থায় হিলিয়াম অক্সিজেনের চেয়ে কত গুণ দ্রুত নিঃসৃত হয়?
+দেওয়া আছে: M(He) = ৪, M(O₂) = ৩২
+সূত্র: r(He)/r(O₂) = √(M(O₂)/M(He))
+মান বসাই: = √(৩২/৪)
+হিসাব: = √৮ ≈ ২.৮৩
+উত্তর: হিলিয়াম অক্সিজেনের প্রায় ২.৮ গুণ দ্রুত নিঃসৃত হয়।
+## example
+প্রশ্ন: একটি অজানা গ্যাস একই অবস্থায় হিলিয়ামের অর্ধেক হারে নিঃসৃত হয়। এর মোলার ভর নির্ণয় করো এবং গ্যাসটি কী হতে পারে বলো।
+দেওয়া আছে: r(X) = ½ r(He); M(He) = ৪
+সূত্র: r(He)/r(X) = √(M(X)/M(He))
+মান বসাই: ২ = √(M(X)/৪)
+হিসাব: ৪ = M(X)/৪, তাই M(X) = ১৬
+> বর্গমূল সরাতে দুই পক্ষকে বর্গ করো।
+উত্তর: M = ১৬ g/mol; এটি মিথেন (CH₄ = ১২ + ৪ = ১৬) হতে পারে।
+## example
+প্রশ্ন: একটি সুচছিদ্র দিয়ে ১০০ mL হাইড্রোজেন ১০ s-এ নিঃসৃত হয়। একই অবস্থায় একই ছিদ্র দিয়ে ১০০ mL অক্সিজেন বের হতে কত সময় লাগবে?
+দেওয়া আছে: t(H₂) = ১০ s; M(H₂) = ২, M(O₂) = ৩২
+সূত্র: t(O₂)/t(H₂) = √(M(O₂)/M(H₂))
+মান বসাই: t(O₂) = ১০ × √(৩২/২)
+হিসাব: = ১০ × √১৬ = ১০ × ৪ = ৪০ s
+উত্তর: ৪০ s
+## mistakes
+x নিঃসরণ আর ব্যাপন একই জিনিস।
+v ব্যাপন হলো মাধ্যমের মধ্য দিয়ে বহু সংঘর্ষের মাধ্যমে ছড়িয়ে পড়া; নিঃসরণ হলো ক্ষুদ্র ছিদ্র দিয়ে একটি একটি করে, সংঘর্ষ ছাড়া বেরিয়ে যাওয়া।
+x বেলুন ফেটে যাওয়া নিঃসরণের উদাহরণ।
+v নিঃসরণ হলো ক্ষুদ্র ছিদ্র দিয়ে ধীরে বের হওয়া। ফেটে গেলে গ্যাস একবারে বেরিয়ে যায়।
+x লিক দিয়ে ভারী গ্যাস দ্রুত বের হয়।
+v হালকা গ্যাস দ্রুত বের হয়; হার ∝ 1/√M।
+## remember
+- নিঃসরণ: গ্যাসের কণা ক্ষুদ্র ছিদ্র দিয়ে সংঘর্ষ ছাড়া একে একে বের হয়।
+- হালকা গ্যাস → দ্রুত নিঃসরণ (হিলিয়াম বেলুন বাতাসের বেলুনের চেয়ে আগে চুপসায়)।
+- প্রয়োগ: সাবান পানি দিয়ে লিক টেস্ট; হার তুলনা করে মোলার ভর নির্ণয়।
+- r₁/r₂ = √(M₂/M₁); t ∝ √M (বাড়তি জ্ঞান)।
+## think
+রান্নাঘরে এলপিজি সিলিন্ডারের ভাল্ভ সামান্য খুললে নিঃসরণ ও ব্যাপন দুটোই ঘটে। ভাল্ভের মুখে কোনটি ঘটে, আর কোনটি গন্ধকে পাশের ঘরে নিয়ে যায়?
+## quiz
+? কোন বেলুনটি সবচেয়ে তাড়াতাড়ি চুপসে যাবে (একই আকার, একই রাবার)?
+* হিলিয়াম ভরা বেলুন
+- বাতাস ভরা বেলুন
+- কার্বন ডাই-অক্সাইড ভরা বেলুন
+- সবগুলো একই হারে
+= He-এর মোলার ভর সবচেয়ে কম (৪), তাই এর নিঃসরণ সবচেয়ে দ্রুত।
+? গ্যাস সিলিন্ডারের ভাল্ভে সাবান পানি লাগানো হয়:
+- গ্যাস জ্বলা বন্ধ করতে
+* লিক শনাক্ত করতে: বুদবুদ দেখায় ক্ষুদ্র ছিদ্র দিয়ে গ্যাস নিঃসৃত হচ্ছে
+- গ্যাসের ব্যাপন দ্রুত করতে
+- ভাল্ভ পরিষ্কার করতে
+= বের হতে থাকা গ্যাস সাবানের পর্দায় ছোট বুদবুদ তৈরি করে।
+? একটি অজানা গ্যাস হাইড্রোজেনের (M = ২) চেয়ে ৪ গুণ ধীরে নিঃসৃত হয়। এর মোলার ভর:
+- ৮
+- ১৬
+* ৩২
+- ৬৪
+= ৪ = √(M/২) → ১৬ = M/২ → M = ৩২।
+
+@@ 2.5
+@visual k2candle
+@related 2.1 2.6 7.1 8.1.2
+== en
+## what
+When a candle burns, wax is seen in **all three states at once**: **solid** wax in the body of the candle, a pool of **liquid** wax around the wick, and wax **vapour** that burns in the flame with oxygen of the air to give carbon dioxide, water vapour, heat and light.
+## simple
+Light a candle and watch it closely for a few minutes. You are looking at a small chemistry lesson.
+
+**What is wax?** Candle wax (paraffin wax) is a **mixture of various hydrocarbons**. Hydrocarbons are organic compounds made of only **hydrogen and carbon**; wax contains fairly large ones, for example C₂₅H₅₂.
+
+**Step 1: solid → liquid (melting).** The heat of the flame melts the solid wax just around the wick. A small cup-shaped **pool of liquid wax** forms at the top of the candle.
+
+**Step 2: liquid rises up the wick.** The cotton wick soaks up the liquid wax and carries it upwards, just as a cloth soaks up water.
+
+**Step 3: liquid → gas (vaporisation).** Near the flame, the liquid wax absorbs more heat and turns into **wax vapour**.
+
+**Step 4: the vapour burns.** The wax vapour reacts with **oxygen** of the air. This burning (combustion) produces **carbon dioxide, water vapour, heat and light**. For one of the hydrocarbons in wax:
+
+C₂₅H₅₂(g) + 38O₂(g) → 25CO₂(g) + 26H₂O(g) + heat + light
+
+**Step 5: liquid → solid again.** Some liquid wax runs down the side of the candle, cools, and turns **solid** again as drips.
+
+So in a single burning candle you can see **solid, liquid and gaseous wax** together. Melting, vaporising and re-solidifying are **physical changes** (the wax is still wax); burning is a **chemical change** (new substances, CO₂ and H₂O, are formed).
+
+**Try this (with an adult, away from paper and cloth):** Blow out a candle and a thin stream of **white smoke** rises from the wick. That smoke is wax vapour that has cooled into tiny droplets and particles. Hold a lit matchstick in the smoke a few centimetres above the wick: the flame jumps down the smoke and relights the candle! This shows that it is the **wax vapour**, not the solid wax, that actually burns. Keep hair tied back and a tray of sand or water nearby.
+## analogy
+A candle is like a tiny fuel factory. The solid wax is the fuel stored in the warehouse; melting turns it into liquid fuel; the wick is the pipe that carries it up; and the flame is the engine that only runs on fuel in its vapour form.
+## definition
+**Three states of wax in a burning candle**: in a burning candle, heat melts solid wax into liquid wax, the liquid wax rises up the wick and vaporises, and the wax vapour burns with oxygen of the air to produce carbon dioxide, water vapour, heat and light; some liquid wax cools and becomes solid again. Thus solid, liquid and gaseous wax exist at the same time.
+
+**Hydrocarbon**: an organic compound made of only carbon and hydrogen. Wax is a mixture of hydrocarbons.
+## why
+Why does the vapour, and not the solid, burn? Burning is a reaction between wax molecules and oxygen molecules, which must meet and collide. In a solid, the wax molecules are locked together and only those on the surface can touch air. In a vapour, each wax molecule is free and fully surrounded by air, so it can react with oxygen very quickly. That is why the candle first melts and vaporises its fuel before it can burn it, and why the wick is needed: the thin wick holds only a little liquid at a time, right where the flame can vaporise it.
+## terms
+Wax | A mixture of hydrocarbons, solid at room temperature
+Hydrocarbon | A compound of carbon and hydrogen only
+Wick | Cotton thread in a candle that carries liquid wax up to the flame
+Combustion (burning) | Reaction of a substance with oxygen that releases heat and light
+Physical change | A change of state or form in which no new substance is formed
+Chemical change | A change in which new substances are formed
+## visual
+Light the candle and watch the three zones. Tap Solid, Liquid or Vapour to see how the wax particles are arranged in each part, then blow the candle out and relight it through the smoke.
+## real
+During load-shedding many Bangladeshi homes used to rely on candles, and you may have seen wax dripping and hardening on the table: liquid wax turning back into solid. Candles are also lit on birthday cakes and during celebrations; the soot that blackens a spoon held over the flame is unburnt carbon, formed when there is not enough oxygen for complete combustion.
+## example
+Q: Explain how solid, liquid and gaseous wax can all be seen in a burning candle.
+Answer: The heat of the flame melts the solid wax near the wick into liquid wax (solid → liquid). The liquid rises up the wick and is vaporised by the heat (liquid → gas); the wax vapour burns with oxygen to give CO₂, H₂O, heat and light. Some liquid wax flows down the candle, cools and becomes solid again. So all three states are present together.
+## example
+Q: A hydrocarbon in candle wax has the formula C₂₀H₄₂. Write the balanced equation for its complete combustion.
+Given: products of complete combustion are CO₂ and H₂O
+Solution: C: 20 atoms → 20CO₂; H: 42 atoms → 21H₂O; O needed = 20 × 2 + 21 × 1 = 61 atoms = 30½ O₂. Multiply everything by 2 to remove the fraction.
+> Balance C first, then H, and O last, because O appears in both products.
+Answer: 2C₂₀H₄₂(s) + 61O₂(g) → 40CO₂(g) + 42H₂O(g). Check: C 40 = 40, H 84 = 84, O 122 = 80 + 42.
+## mistakes
+x The solid wax burns directly.
+v The solid wax first melts, rises up the wick and vaporises; it is the wax vapour that burns.
+x All changes in a burning candle are physical changes.
+v Melting and vaporising are physical changes, but burning is a chemical change that forms CO₂ and H₂O.
+x The white smoke after blowing out a candle is carbon dioxide.
+v CO₂ is invisible. The white smoke is cooled wax vapour (tiny wax droplets and particles), which can be relit.
+## remember
+- Wax is a mixture of hydrocarbons (compounds of C and H only).
+- Solid wax → (melts) liquid → (rises up wick, vaporises) vapour → burns with O₂.
+- Products of burning: CO₂ + H₂O + heat + light.
+- State changes of wax are physical; burning is chemical.
+## think
+Why does a candle with a very thick wick produce a smoky, sooty flame, while one with a thin wick burns cleanly?
+## quiz
+? Which form of wax actually burns in a candle flame?
+- Solid wax
+- Liquid wax
+* Wax vapour
+- The cotton wick only
+= The wax vapour reacts with oxygen of the air.
+? The products of complete burning of candle wax are:
+- Carbon and hydrogen
+* Carbon dioxide and water vapour
+- Carbon monoxide only
+- Oxygen and water
+= Hydrocarbon + O₂ → CO₂ + H₂O + heat + light.
+? Melting of wax near the wick is a:
+* Physical change
+- Chemical change
+- Nuclear change
+- Biological change
+= The wax only changes state; no new substance forms.
+== bn
+## what
+মোমবাতি জ্বললে মোমকে **একসাথে তিন অবস্থাতেই** দেখা যায়: মোমবাতির শরীরে **কঠিন** মোম, সলতের চারপাশে **তরল** মোমের ছোট্ট জলাশয়, আর মোমের **বাষ্প**, যা শিখায় বাতাসের অক্সিজেনের সাথে জ্বলে কার্বন ডাই-অক্সাইড, জলীয় বাষ্প, তাপ ও আলো তৈরি করে।
+## simple
+একটি মোমবাতি জ্বালিয়ে কয়েক মিনিট মন দিয়ে দেখো। তুমি আসলে একটি ছোট্ট রসায়নের পাঠ দেখছ।
+
+**মোম কী?** মোমবাতির মোম (প্যারাফিন মোম) হলো **বিভিন্ন হাইড্রোকার্বনের মিশ্রণ**। শুধু **হাইড্রোজেন ও কার্বন** মিলে গঠিত জৈব যৌগকে হাইড্রোকার্বন বলে; মোমে বেশ বড় বড় হাইড্রোকার্বন থাকে, যেমন C₂₅H₅₂।
+
+**ধাপ ১: কঠিন → তরল (গলন)।** শিখার তাপে সলতের ঠিক চারপাশের কঠিন মোম গলে যায়। মোমবাতির মাথায় বাটির মতো একটি **তরল মোমের জলাশয়** তৈরি হয়।
+
+**ধাপ ২: তরল সলতে বেয়ে ওঠে।** সুতার সলতে তরল মোম শুষে ওপরে নিয়ে যায়, ঠিক যেমন কাপড় পানি শুষে নেয়।
+
+**ধাপ ৩: তরল → গ্যাস (বাষ্পীভবন)।** শিখার কাছে তরল মোম আরও তাপ শোষণ করে **মোমের বাষ্পে** পরিণত হয়।
+
+**ধাপ ৪: বাষ্প জ্বলে।** মোমের বাষ্প বাতাসের **অক্সিজেনের** সাথে বিক্রিয়া করে। এই দহনে তৈরি হয় **কার্বন ডাই-অক্সাইড, জলীয় বাষ্প, তাপ ও আলো**। মোমের একটি হাইড্রোকার্বনের জন্য:
+
+C₂₅H₅₂(g) + 38O₂(g) → 25CO₂(g) + 26H₂O(g) + তাপ + আলো
+
+**ধাপ ৫: তরল আবার কঠিন।** কিছু তরল মোম মোমবাতির গা বেয়ে গড়িয়ে নেমে ঠান্ডা হয় এবং ফোঁটা ফোঁটা **কঠিন** মোমে পরিণত হয়।
+
+তাহলে একটিমাত্র জ্বলন্ত মোমবাতিতেই **কঠিন, তরল ও গ্যাসীয় মোম** একসাথে দেখা যায়। গলন, বাষ্পীভবন আর আবার জমে যাওয়া **ভৌত পরিবর্তন** (মোম মোমই থাকে); দহন **রাসায়নিক পরিবর্তন** (নতুন পদার্থ, CO₂ ও H₂O তৈরি হয়)।
+
+**করে দেখো (বড়দের সাথে, কাগজ-কাপড় থেকে দূরে):** মোমবাতি ফুঁ দিয়ে নেভালে সলতে থেকে সরু একটি **সাদা ধোঁয়ার** রেখা ওঠে। এই ধোঁয়া হলো মোমের বাষ্প, যা ঠান্ডা হয়ে ক্ষুদ্র ফোঁটা ও কণায় পরিণত হয়েছে। সলতের কয়েক সেন্টিমিটার ওপরে ধোঁয়ার মধ্যে একটি জ্বলন্ত দিয়াশলাই ধরো: শিখা ধোঁয়া বেয়ে নেমে এসে মোমবাতি আবার জ্বালিয়ে দেয়! এতে প্রমাণ হয় যে আসলে **মোমের বাষ্পই** জ্বলে, কঠিন মোম নয়। চুল বেঁধে রাখো আর কাছে এক পাত্র বালু বা পানি রাখো।
+## analogy
+মোমবাতি যেন একটি ছোট্ট জ্বালানি কারখানা। কঠিন মোম হলো গুদামে রাখা জ্বালানি; গলন একে তরল জ্বালানি বানায়; সলতে হলো সেই পাইপ যা জ্বালানি ওপরে তোলে; আর শিখা হলো এমন ইঞ্জিন যা শুধু বাষ্প-রূপের জ্বালানিতেই চলে।
+## definition
+**জ্বলন্ত মোমবাতিতে মোমের তিন অবস্থা**: জ্বলন্ত মোমবাতিতে তাপে কঠিন মোম গলে তরল হয়, তরল মোম সলতে বেয়ে উঠে বাষ্পে পরিণত হয়, আর মোমের বাষ্প বাতাসের অক্সিজেনের সাথে জ্বলে কার্বন ডাই-অক্সাইড, জলীয় বাষ্প, তাপ ও আলো উৎপন্ন করে; কিছু তরল মোম ঠান্ডা হয়ে আবার কঠিন হয়। এভাবে কঠিন, তরল ও গ্যাসীয় মোম একই সময়ে অস্তিত্বশীল থাকে।
+
+**হাইড্রোকার্বন**: শুধু কার্বন ও হাইড্রোজেন দিয়ে গঠিত জৈব যৌগ। মোম হাইড্রোকার্বনের মিশ্রণ।
+## why
+কঠিন নয়, বাষ্পই জ্বলে কেন? দহন হলো মোমের অণু আর অক্সিজেনের অণুর মধ্যে বিক্রিয়া, যার জন্য এদের মিলিত হয়ে ধাক্কা খেতে হয়। কঠিন অবস্থায় মোমের অণুগুলো একসাথে আটকে থাকে, শুধু পৃষ্ঠের অণুগুলো বাতাসের সংস্পর্শে আসে। বাষ্প অবস্থায় প্রতিটি মোমের অণু মুক্ত আর চারদিক থেকে বাতাসে ঘেরা, তাই খুব দ্রুত অক্সিজেনের সাথে বিক্রিয়া করতে পারে। এজন্যই মোমবাতি জ্বালানি পোড়ানোর আগে তা গলিয়ে বাষ্প বানায়, আর এজন্যই সলতে দরকার: সরু সলতে একবারে অল্প তরল ধরে রাখে, ঠিক সেখানে যেখানে শিখা তাকে বাষ্প বানাতে পারে।
+## terms
+মোম | হাইড্রোকার্বনের মিশ্রণ, কক্ষ তাপমাত্রায় কঠিন
+হাইড্রোকার্বন | শুধু কার্বন ও হাইড্রোজেনের যৌগ
+সলতে | মোমবাতির সুতা, যা তরল মোমকে শিখা পর্যন্ত তোলে
+দহন | কোনো পদার্থের অক্সিজেনের সাথে বিক্রিয়া, যাতে তাপ ও আলো বের হয়
+ভৌত পরিবর্তন | অবস্থা বা রূপের পরিবর্তন, যাতে নতুন পদার্থ তৈরি হয় না
+রাসায়নিক পরিবর্তন | যে পরিবর্তনে নতুন পদার্থ তৈরি হয়
+## visual
+মোমবাতিটি জ্বালাও আর তিনটি অংশ লক্ষ করো। প্রতিটি অংশে মোমের কণাগুলো কীভাবে সাজানো দেখতে কঠিন, তরল বা বাষ্প চাপো, তারপর মোমবাতি নিভিয়ে ধোঁয়ার মধ্য দিয়ে আবার জ্বালাও।
+## real
+লোডশেডিংয়ের সময় বাংলাদেশের অনেক বাড়িতে মোমবাতিই ছিল ভরসা, আর তুমি হয়তো দেখেছ টেবিলে মোম গড়িয়ে পড়ে জমে শক্ত হয়ে যায়: তরল মোম আবার কঠিন হচ্ছে। জন্মদিনের কেকে আর উৎসবেও মোমবাতি জ্বালানো হয়; শিখার ওপর চামচ ধরলে যে কালি জমে তা না-পোড়া কার্বন, যা যথেষ্ট অক্সিজেন না পেলে (অসম্পূর্ণ দহনে) তৈরি হয়।
+## example
+প্রশ্ন: জ্বলন্ত মোমবাতিতে কঠিন, তরল ও গ্যাসীয় মোম কীভাবে একসাথে দেখা যায় ব্যাখ্যা করো।
+উত্তর: শিখার তাপে সলতের কাছের কঠিন মোম গলে তরল হয় (কঠিন → তরল)। তরল সলতে বেয়ে উঠে তাপে বাষ্পে পরিণত হয় (তরল → গ্যাস); মোমের বাষ্প অক্সিজেনের সাথে জ্বলে CO₂, H₂O, তাপ ও আলো দেয়। কিছু তরল মোম গা বেয়ে নেমে ঠান্ডা হয়ে আবার কঠিন হয়। তাই তিন অবস্থাই একসাথে থাকে।
+## example
+প্রশ্ন: মোমের একটি হাইড্রোকার্বনের সংকেত C₂₀H₄₂। এর সম্পূর্ণ দহনের সমতাকৃত সমীকরণ লেখো।
+দেওয়া আছে: সম্পূর্ণ দহনের উৎপাদ CO₂ ও H₂O
+সমাধান: C: ২০টি পরমাণু → ২০CO₂; H: ৪২টি পরমাণু → ২১H₂O; প্রয়োজনীয় O = ২০ × ২ + ২১ × ১ = ৬১টি পরমাণু = ৩০½ O₂। ভগ্নাংশ দূর করতে সবকিছুকে ২ দিয়ে গুণ করো।
+> আগে C, তারপর H, আর সবশেষে O মেলাও, কারণ O দুটি উৎপাদেই আছে।
+উত্তর: 2C₂₀H₄₂(s) + 61O₂(g) → 40CO₂(g) + 42H₂O(g)। যাচাই: C ৪০ = ৪০, H ৮৪ = ৮৪, O ১২২ = ৮০ + ৪২।
+## mistakes
+x কঠিন মোম সরাসরি জ্বলে।
+v কঠিন মোম আগে গলে, সলতে বেয়ে ওঠে আর বাষ্প হয়; জ্বলে মোমের বাষ্প।
+x জ্বলন্ত মোমবাতির সব পরিবর্তনই ভৌত।
+v গলন ও বাষ্পীভবন ভৌত পরিবর্তন, কিন্তু দহন রাসায়নিক পরিবর্তন, যাতে CO₂ ও H₂O তৈরি হয়।
+x মোমবাতি নেভানোর পর সাদা ধোঁয়া হলো কার্বন ডাই-অক্সাইড।
+v CO₂ অদৃশ্য। সাদা ধোঁয়া হলো ঠান্ডা হওয়া মোমের বাষ্প (ক্ষুদ্র মোমের ফোঁটা ও কণা), যাতে আবার আগুন ধরানো যায়।
+## remember
+- মোম হাইড্রোকার্বনের (শুধু C ও H-এর যৌগ) মিশ্রণ।
+- কঠিন মোম → (গলে) তরল → (সলতে বেয়ে উঠে বাষ্প হয়) বাষ্প → O₂-এর সাথে জ্বলে।
+- দহনের উৎপাদ: CO₂ + H₂O + তাপ + আলো।
+- মোমের অবস্থার পরিবর্তন ভৌত; দহন রাসায়নিক।
+## think
+খুব মোটা সলতের মোমবাতি ধোঁয়াটে, কালিযুক্ত শিখায় জ্বলে, অথচ সরু সলতের মোমবাতি পরিষ্কার জ্বলে কেন?
+## quiz
+? মোমবাতির শিখায় মোমের কোন রূপটি আসলে জ্বলে?
+- কঠিন মোম
+- তরল মোম
+* মোমের বাষ্প
+- শুধু সুতার সলতে
+= মোমের বাষ্প বাতাসের অক্সিজেনের সাথে বিক্রিয়া করে।
+? মোমের সম্পূর্ণ দহনের উৎপাদ:
+- কার্বন ও হাইড্রোজেন
+* কার্বন ডাই-অক্সাইড ও জলীয় বাষ্প
+- শুধু কার্বন মনোক্সাইড
+- অক্সিজেন ও পানি
+= হাইড্রোকার্বন + O₂ → CO₂ + H₂O + তাপ + আলো।
+? সলতের কাছে মোম গলে যাওয়া একটি:
+* ভৌত পরিবর্তন
+- রাসায়নিক পরিবর্তন
+- নিউক্লীয় পরিবর্তন
+- জৈবিক পরিবর্তন
+= মোমের শুধু অবস্থা বদলায়; নতুন কোনো পদার্থ তৈরি হয় না।
+
+@@ 2.6
+@visual k2heat
+@related 2.2 2.5 2.7 1.6
+== en
+## what
+**Melting** is the change of a solid into a liquid by heating; the temperature at which a solid melts at 1 atm pressure is its **melting point** (ice: 0 °C). **Boiling** is the change of a liquid into a gas by heating; the temperature at which a liquid boils at 1 atm is its **boiling point** (water: 100 °C). While a substance is melting or boiling, its temperature stays constant.
+## simple
+**Melting and melting point.** Heat a solid and at some temperature it starts turning into a liquid. This process is **melting**. At normal pressure (1 atm), the temperature at which a solid turns into a liquid is its **melting point**. Every pure solid has its own fixed melting point: ice melts at **0 °C**, urea at about **133 °C**, pure sulfur at about **115 °C**.
+
+**Boiling and boiling point.** Heat a liquid and at some temperature bubbles of vapour form all through it and it turns into a gas. This is **boiling**. At 1 atm, the temperature at which a liquid boils is its **boiling point**. Every pure liquid has its own fixed boiling point: water boils at **100 °C** at 1 atm. The reverse of boiling, gas turning into liquid, is **condensation**. Boiling needs heat to be supplied; condensation happens when heat is removed.
+
+**Experiment 4: melting point of urea (a pure solid).** Place a wire gauze on a tripod stand and a watch glass on the gauze. Put a little urea (the fertiliser) on the watch glass. Tie a thermometer to a stand with thread so that its bulb sits in the urea, and heat gently with a burner. The urea starts to melt at **133 °C**, and all of it melts at that same temperature. So 133 °C is the melting point of urea. *(Heat gently and only until it melts: hotter urea decomposes and gives off ammonia. Work in a ventilated room and wear goggles.)*
+
+**Melting point of wax (a mixture).** Powder some wax and put it in a glass tube closed at one end, with a thermometer in it. Stand the tube in a beaker of water (so water cannot enter the tube) and heat the beaker slowly; this water bath heats the wax gently and evenly. The wax does **not** melt at one fixed temperature; it softens and melts over a **range** of temperatures. Wax is a mixture, so it has no single melting point.
+
+**Melting point as a purity test.** A pure solid melts sharply at its fixed melting point. If a sample melts at a **lower** temperature, or over a **range**, it is impure. For example, if a sulfur sample melts below 115 °C, or gradually over several degrees, it is adulterated. Impurities generally **lower** the melting point.
+
+**Experiment 5: boiling point of water.** Put some water in a beaker on a wire gauze and tripod, clamp a thermometer so its bulb is in the water (not touching the glass), and heat carefully with a Bunsen burner. At 1 atm the water boils at **100 °C** and the reading stays there until all the water has boiled away. Boiling point is also a purity test: a liquid with something mixed in boils at a different temperature. A dissolved non-volatile substance such as salt or sugar **raises** the boiling point; a volatile liquid such as alcohol mixed with water makes it boil **below** 100 °C. (Textbooks sometimes simply say impurities raise the boiling point; that is true for dissolved solids, not for every impurity.)
+
+**Heating curve (Experiment 6).** Take ice at −40 °C in a beaker and heat it steadily, reading the thermometer every minute. Plot temperature (y-axis) against time (x-axis):
+- The temperature of the ice rises from −40 °C to **0 °C**.
+- At 0 °C it **stays constant** while the ice melts: this flat part, **AB**, is the **melting point line**. Ice and water are both present along it.
+- Once all the ice has melted, the water warms from 0 °C to **100 °C**.
+- At 100 °C it stays constant again while the water boils: this flat part, **CD**, is the **boiling point line**. Water and vapour are both present along it.
+- After all the water has become vapour, the temperature of the vapour rises again.
+
+**Cooling curve.** Now cool water vapour from 140 °C. The temperature falls to 100 °C, stays at 100 °C while the vapour condenses to water, falls to 0 °C, stays at 0 °C while the water freezes to ice, and then the ice cools further (to −40 °C in the book's example).
+
+**The key lesson:** the heat absorbed during melting and boiling does **not** raise the temperature; it only changes the state.
+## analogy
+Think of a bus that must stop at every stop. On the open road (heating a single state) the speed (temperature) keeps rising. At a stop (melting or boiling), the bus stays still until every passenger has got off, and only then moves on. The heat keeps coming in during the stop, but it goes into changing the state, not into raising the temperature.
+## definition
+**Melting**: the process of changing a solid into a liquid by applying heat.
+
+**Melting point**: the temperature at which a solid changes into a liquid at 1 atmosphere pressure. Every pure solid has a definite melting point (ice: 0 °C).
+
+**Boiling**: the process of changing a liquid into a gas by applying heat (vapour forms throughout the liquid).
+
+**Boiling point**: the temperature at which a liquid changes into a gas at 1 atmosphere pressure. Every pure liquid has a definite boiling point (water: 100 °C).
+
+**Condensation**: the change of a gas into a liquid when heat is removed.
+
+**Melting point line / boiling point line**: the horizontal (constant-temperature) parts of a heating curve, where two states exist together.
+## why
+Why does the temperature stop rising while ice melts, even though we keep heating? Temperature measures the **average kinetic energy** of the particles. During melting, the heat supplied is used to **break the attractions** that hold the particles in fixed positions, not to make them move faster. So the kinetic energy (and the temperature) stays the same until every particle is free. The same happens during boiling, where even more energy is needed to pull the particles completely apart. This hidden heat is called **latent heat**. When vapour condenses or water freezes, the attractions re-form and this same heat is **given out**, which is why the temperature again stays constant on the cooling curve.
+
+A pure substance has identical particles with identical attractions, so they all break free at one temperature: a sharp melting point. In a mixture or impure sample, different particles are held with different strengths, so melting happens over a range.
+## terms
+Melting (গলন) | Solid → liquid by heating
+Melting point (গলনাঙ্ক) | Temperature at which a solid melts at 1 atm
+Boiling (স্ফুটন) | Liquid → gas throughout the liquid by heating
+Boiling point (স্ফুটনাঙ্ক) | Temperature at which a liquid boils at 1 atm
+Condensation (ঘনীভবন) | Gas → liquid when heat is removed
+Heating curve | Graph of temperature against time while heating a substance
+Latent heat | Heat absorbed or released during a change of state without change of temperature
+## visual
+Drag the time slider to heat ice from −40 °C. Watch the beaker and the graph together: on the flat lines AB and CD the temperature stops rising while the state changes. Switch to the cooling curve, or turn on "true energy scale" to see how much heat each step really needs.
+## real
+In a pressure cooker the pressure is higher than 1 atm, so water boils at about 120 °C and rice and dal cook faster. On high hills and mountains the air pressure is lower, so water boils below 100 °C and cooking takes longer. Pharmaceutical companies in Bangladesh check the melting point of medicine ingredients to confirm their purity, and fertiliser dealers can test urea the same way.
+## example
+Q: In a heating curve of ice, the temperature stays at 0 °C from the 4th to the 10th minute. What is happening during this time, and which states are present?
+Answer: The ice is melting. The heat absorbed is used to change solid ice into liquid water, so the temperature stays constant. Both ice (solid) and water (liquid) are present. This flat part is the melting point line.
+## example
+Q: The melting point of pure sulfur at 1 atm is 115 °C. Sample A melts sharply at 115 °C. Sample B starts to melt at 108 °C and is completely melted at 112 °C. Which sample is pure?
+Answer: Sample A is pure. Sample B melts below 115 °C and over a range (108–112 °C), so it contains impurities.
+> Two signs of impurity: a lower melting point and melting over a range instead of at one temperature.
+## example
+Q: A student heats a liquid that looks like water. The thermometer shows it boiling steadily at 104 °C at 1 atm. Is it pure water?
+Answer: No. Pure water boils at 100 °C at 1 atm. A higher boiling point suggests something is dissolved in it, for example salt.
+## mistakes
+x If we keep heating boiling water, its temperature keeps rising above 100 °C.
+v At 1 atm, the temperature of boiling water stays at 100 °C until all of it has boiled away; the extra heat changes water into vapour.
+x Wax has a fixed melting point like ice.
+v Wax is a mixture, so it melts over a range of temperatures.
+x Impurities always raise the boiling point.
+v Dissolved solids like salt raise it, but a volatile liquid like alcohol lowers it. Any change from the fixed value shows impurity.
+x Melting point and freezing point of a pure substance are different.
+v For a pure substance they are the same temperature (for water, 0 °C), approached from opposite sides.
+## remember
+- Melting point of ice 0 °C; boiling point of water 100 °C (at 1 atm); urea ≈ 133 °C; sulfur ≈ 115 °C.
+- During melting and boiling the temperature stays constant: heat changes the state, not the temperature.
+- Heating curve: AB = melting point line (ice + water), CD = boiling point line (water + vapour).
+- Pure solid: sharp melting point; impure: lower and over a range. Melting and boiling points test purity.
+- Boiling point depends on pressure (higher in a pressure cooker, lower on a mountain).
+## think
+Why does a burn from steam at 100 °C hurt much more than a splash of boiling water at the same 100 °C?
+## quiz
+? While ice is melting, its temperature:
+- Rises steadily
+* Remains constant at 0 °C
+- Falls below 0 °C
+- Rises to 100 °C
+= The heat is used to change the state, so the temperature stays at the melting point.
+? In the heating curve of ice, both water and vapour exist along the:
+- Melting point line AB
+* Boiling point line CD
+- Part where ice warms up
+- Part where vapour warms up
+= On the boiling point line (100 °C) water is turning into vapour.
+? A solid sample melts over a range of 70–78 °C. This shows that the sample is:
+- Pure
+* Impure or a mixture
+- A gas
+- A liquid
+= A pure solid melts sharply at one temperature.
+? Why does rice cook faster in a pressure cooker?
+- The water boils at a lower temperature
+* The water boils at a higher temperature
+- Steam cannot form
+- Pressure cooks the rice directly
+= Higher pressure raises the boiling point, so the food cooks at a higher temperature.
+== bn
+## what
+তাপ প্রয়োগে কঠিন পদার্থের তরলে রূপান্তরকে **গলন** বলে; ১ বায়ুমণ্ডলীয় চাপে যে তাপমাত্রায় কঠিন পদার্থ গলে তা এর **গলনাঙ্ক** (বরফ: ০ °C)। তাপ প্রয়োগে তরলের গ্যাসে রূপান্তরকে **স্ফুটন** বলে; ১ বায়ুমণ্ডলীয় চাপে যে তাপমাত্রায় তরল ফোটে তা এর **স্ফুটনাঙ্ক** (পানি: ১০০ °C)। গলন বা স্ফুটনের সময় পদার্থের তাপমাত্রা স্থির থাকে।
+## simple
+**গলন ও গলনাঙ্ক।** কঠিন পদার্থে তাপ দিলে একটা নির্দিষ্ট তাপমাত্রায় এটি তরলে পরিণত হতে শুরু করে। এই প্রক্রিয়াই **গলন**। স্বাভাবিক চাপে (১ বায়ুমণ্ডলীয় চাপে) যে তাপমাত্রায় কঠিন পদার্থ তরলে পরিণত হয়, সেটাই এর **গলনাঙ্ক**। প্রত্যেক বিশুদ্ধ কঠিন পদার্থের নিজস্ব নির্দিষ্ট গলনাঙ্ক আছে: বরফ গলে **০ °C**-এ, ইউরিয়া প্রায় **১৩৩ °C**-এ, বিশুদ্ধ সালফার প্রায় **১১৫ °C**-এ।
+
+**স্ফুটন ও স্ফুটনাঙ্ক।** তরলে তাপ দিলে একটা নির্দিষ্ট তাপমাত্রায় পুরো তরল জুড়ে বাষ্পের বুদবুদ তৈরি হয় আর তরলটি গ্যাসে পরিণত হয়। এটাই **স্ফুটন**। ১ বায়ুমণ্ডলীয় চাপে যে তাপমাত্রায় তরল ফোটে, সেটাই এর **স্ফুটনাঙ্ক**। প্রত্যেক বিশুদ্ধ তরলের নিজস্ব নির্দিষ্ট স্ফুটনাঙ্ক আছে: ১ atm চাপে পানি ফোটে **১০০ °C**-এ। স্ফুটনের বিপরীত প্রক্রিয়া, গ্যাস থেকে তরল হওয়া, হলো **ঘনীভবন**। স্ফুটনের জন্য তাপ দিতে হয়; ঘনীভবনের সময় তাপ সরিয়ে নিতে হয়।
+
+**পরীক্ষা ৪: ইউরিয়ার (বিশুদ্ধ কঠিন) গলনাঙ্ক নির্ণয়।** একটি ত্রিপদী স্ট্যান্ডের ওপর তারজালি রেখে তার ওপর একটি ওয়াচ গ্লাস রাখো। ওয়াচ গ্লাসে সামান্য ইউরিয়া সার নাও। একটি স্ট্যান্ডের সাথে সুতা দিয়ে থার্মোমিটার বেঁধে এর বাল্ব ইউরিয়ার মধ্যে ঢুকিয়ে দাও, আর বার্নার দিয়ে আস্তে আস্তে তাপ দাও। ইউরিয়া **১৩৩ °C**-এ গলতে শুরু করে, আর সবটুকুই এই একই তাপমাত্রায় গলে যায়। তাই ১৩৩ °C হলো ইউরিয়ার গলনাঙ্ক। *(আস্তে তাপ দাও এবং শুধু গলা পর্যন্ত: আরও গরম হলে ইউরিয়া বিয়োজিত হয়ে অ্যামোনিয়া ছাড়ে। বায়ু চলাচলযুক্ত ঘরে কাজ করো আর চশমা পরো।)*
+
+**মোমের (মিশ্রণ) গলনাঙ্ক।** কিছু মোম গুঁড়া করে একমুখ বন্ধ একটি কাচনলে নাও, তার মধ্যে একটি থার্মোমিটার রাখো। নলটি এক বিকার পানিতে এমনভাবে ডোবাও যেন নলের খোলা মুখে পানি না ঢোকে, তারপর বিকারে ধীরে ধীরে তাপ দাও; এই পানির পাত্র মোমকে আস্তে ও সমানভাবে গরম করে। মোম একটি নির্দিষ্ট তাপমাত্রায় **গলে না**; তাপমাত্রার একটি **পরিসরে** নরম হয়ে গলতে থাকে। মোম মিশ্রণ, তাই এর কোনো একক গলনাঙ্ক নেই।
+
+**গলনাঙ্ক দিয়ে বিশুদ্ধতা যাচাই।** বিশুদ্ধ কঠিন পদার্থ তার নির্দিষ্ট গলনাঙ্কে একবারে গলে। কোনো নমুনা **কম** তাপমাত্রায় বা একটি **পরিসরে** গললে তা অবিশুদ্ধ। যেমন, কোনো সালফার নমুনা ১১৫ °C-এর কমে, বা কয়েক ডিগ্রি ধরে ধীরে ধীরে গললে বুঝতে হবে তা ভেজালযুক্ত। ভেজাল সাধারণত গলনাঙ্ক **কমিয়ে** দেয়।
+
+**পরীক্ষা ৫: পানির স্ফুটনাঙ্ক নির্ণয়।** ত্রিপদী স্ট্যান্ড ও তারজালির ওপর একটি বিকারে কিছু পানি নাও, থার্মোমিটার এমনভাবে আটকাও যেন বাল্ব পানিতে থাকে (কাচ না ছোঁয়), আর বুনসেন বার্নার দিয়ে সাবধানে তাপ দাও। ১ atm চাপে পানি **১০০ °C**-এ ফোটে, আর সব পানি বাষ্প না হওয়া পর্যন্ত পাঠ সেখানেই থাকে। স্ফুটনাঙ্কও বিশুদ্ধতার পরীক্ষা: কিছু মেশানো তরল ভিন্ন তাপমাত্রায় ফোটে। লবণ বা চিনির মতো দ্রবীভূত অনুদ্বায়ী পদার্থ স্ফুটনাঙ্ক **বাড়ায়**; আবার পানিতে অ্যালকোহলের মতো উদ্বায়ী তরল মেশালে তা ১০০ °C-এর **কমে** ফোটে। (পাঠ্যবইয়ে অনেক সময় সংক্ষেপে বলা হয় ভেজাল স্ফুটনাঙ্ক বাড়ায়; এটি দ্রবীভূত কঠিনের ক্ষেত্রে সত্য, সব ভেজালের ক্ষেত্রে নয়।)
+
+**তাপ প্রয়োগের লেখচিত্র (পরীক্ষা ৬)।** একটি বিকারে −৪০ °C তাপমাত্রার বরফ নিয়ে সমানভাবে তাপ দাও, আর প্রতি মিনিটে থার্মোমিটারের পাঠ নাও। তাপমাত্রা (y-অক্ষ) বনাম সময় (x-অক্ষ) লেখচিত্র আঁকো:
+- বরফের তাপমাত্রা −৪০ °C থেকে **০ °C** পর্যন্ত বাড়ে।
+- ০ °C-এ বরফ গলার পুরো সময় তাপমাত্রা **স্থির থাকে**: এই সমতল অংশ **AB** হলো **গলনাঙ্ক রেখা**। এই রেখা বরাবর বরফ ও পানি দুটোই থাকে।
+- সব বরফ গলে গেলে পানির তাপমাত্রা ০ °C থেকে **১০০ °C** পর্যন্ত বাড়ে।
+- ১০০ °C-এ পানি ফোটার সময় তাপমাত্রা আবার স্থির থাকে: এই সমতল অংশ **CD** হলো **স্ফুটনাঙ্ক রেখা**। এই রেখা বরাবর পানি ও জলীয় বাষ্প দুটোই থাকে।
+- সব পানি বাষ্প হয়ে গেলে বাষ্পের তাপমাত্রা আবার বাড়তে থাকে।
+
+**শীতলীকরণের লেখচিত্র।** এবার ১৪০ °C-এর জলীয় বাষ্প ঠান্ডা করো। তাপমাত্রা ১০০ °C-এ নামে, বাষ্প ঘনীভূত হয়ে পানি হওয়ার সময় ১০০ °C-এ স্থির থাকে, তারপর ০ °C-এ নামে, পানি জমে বরফ হওয়ার সময় ০ °C-এ স্থির থাকে, এরপর বরফ আরও ঠান্ডা হয় (বইয়ের উদাহরণে −৪০ °C পর্যন্ত)।
+
+**মূল শিক্ষা:** গলন ও স্ফুটনের সময় শোষিত তাপ তাপমাত্রা **বাড়ায় না**; শুধু অবস্থার পরিবর্তন ঘটায়।
+## analogy
+এমন একটি বাসের কথা ভাবো যাকে প্রতিটি স্টপেজে থামতে হয়। খোলা রাস্তায় (একটিমাত্র অবস্থাকে গরম করা) গতি (তাপমাত্রা) বাড়তেই থাকে। স্টপেজে (গলন বা স্ফুটন) সব যাত্রী না নামা পর্যন্ত বাস দাঁড়িয়ে থাকে, তারপর আবার চলে। থামার সময়ও তাপ আসতে থাকে, কিন্তু তা তাপমাত্রা বাড়াতে নয়, অবস্থা বদলাতে খরচ হয়।
+## definition
+**গলন**: তাপ প্রয়োগে কোনো পদার্থের কঠিন অবস্থা থেকে তরল অবস্থায় রূপান্তরের প্রক্রিয়া।
+
+**গলনাঙ্ক**: ১ বায়ুমণ্ডলীয় চাপে যে তাপমাত্রায় কোনো কঠিন পদার্থ তরলে পরিণত হয়। প্রত্যেক বিশুদ্ধ কঠিন পদার্থের একটি নির্দিষ্ট গলনাঙ্ক আছে (বরফ: ০ °C)।
+
+**স্ফুটন**: তাপ প্রয়োগে তরলকে গ্যাসে রূপান্তরের প্রক্রিয়া (পুরো তরল জুড়ে বাষ্প তৈরি হয়)।
+
+**স্ফুটনাঙ্ক**: ১ বায়ুমণ্ডলীয় চাপে যে তাপমাত্রায় কোনো তরল পদার্থ গ্যাসীয় পদার্থে পরিণত হয়। প্রত্যেক বিশুদ্ধ তরলের একটি নির্দিষ্ট স্ফুটনাঙ্ক আছে (পানি: ১০০ °C)।
+
+**ঘনীভবন**: তাপ সরিয়ে নিলে গ্যাসের তরলে রূপান্তর।
+
+**গলনাঙ্ক রেখা / স্ফুটনাঙ্ক রেখা**: তাপ প্রয়োগের লেখচিত্রের অনুভূমিক (স্থির তাপমাত্রার) অংশ, যেখানে দুটি অবস্থা একসাথে থাকে।
+## why
+তাপ দিতে থাকলেও বরফ গলার সময় তাপমাত্রা বাড়ে না কেন? তাপমাত্রা হলো কণাগুলোর **গড় গতিশক্তির** মাপ। গলনের সময় সরবরাহ করা তাপ কণাগুলোকে দ্রুত ছোটাতে নয়, বরং নির্দিষ্ট অবস্থানে ধরে রাখা **আকর্ষণ ভাঙতে** খরচ হয়। তাই সব কণা মুক্ত না হওয়া পর্যন্ত গতিশক্তি (আর তাপমাত্রা) একই থাকে। স্ফুটনের সময়ও একই ঘটনা ঘটে, তখন কণাগুলোকে পুরোপুরি আলাদা করতে আরও বেশি শক্তি লাগে। এই লুকানো তাপকে বলে **সুপ্ত তাপ**। বাষ্প ঘনীভূত হলে বা পানি জমলে আকর্ষণ আবার তৈরি হয় আর এই একই তাপ **বের হয়ে যায়**, তাই শীতলীকরণের লেখচিত্রেও তাপমাত্রা স্থির থাকে।
+
+বিশুদ্ধ পদার্থের সব কণা একই রকম, আকর্ষণও একই রকম, তাই সবাই একই তাপমাত্রায় মুক্ত হয়: নির্দিষ্ট গলনাঙ্ক। মিশ্রণ বা অবিশুদ্ধ নমুনায় ভিন্ন ভিন্ন কণা ভিন্ন জোরে আটকে থাকে, তাই গলন একটি পরিসর জুড়ে ঘটে।
+## terms
+গলন (Melting) | তাপে কঠিন → তরল
+গলনাঙ্ক (Melting point) | ১ atm চাপে যে তাপমাত্রায় কঠিন গলে
+স্ফুটন (Boiling) | তাপে পুরো তরল জুড়ে তরল → গ্যাস
+স্ফুটনাঙ্ক (Boiling point) | ১ atm চাপে যে তাপমাত্রায় তরল ফোটে
+ঘনীভবন (Condensation) | তাপ সরালে গ্যাস → তরল
+তাপ প্রয়োগের লেখচিত্র | তাপ দেওয়ার সময় তাপমাত্রা বনাম সময়ের লেখচিত্র
+সুপ্ত তাপ | তাপমাত্রা না বদলে অবস্থার পরিবর্তনের সময় শোষিত বা নির্গত তাপ
+## visual
+সময়ের স্লাইডার টেনে −৪০ °C-এর বরফে তাপ দাও। বিকার আর লেখচিত্র একসাথে দেখো: সমতল রেখা AB ও CD-তে অবস্থা বদলানোর সময় তাপমাত্রা বাড়া থেমে যায়। শীতলীকরণের লেখচিত্রে যাও, অথবা "প্রকৃত শক্তির স্কেল" চালু করে দেখো প্রতিটি ধাপে আসলে কত তাপ লাগে।
+## real
+প্রেশার কুকারে চাপ ১ atm-এর বেশি থাকে, তাই পানি প্রায় ১২০ °C-এ ফোটে আর ভাত-ডাল দ্রুত সেদ্ধ হয়। উঁচু পাহাড়-পর্বতে বাতাসের চাপ কম, তাই পানি ১০০ °C-এর কমে ফোটে আর রান্নায় বেশি সময় লাগে। বাংলাদেশের ওষুধ কোম্পানিগুলো ওষুধের উপাদানের বিশুদ্ধতা নিশ্চিত করতে এর গলনাঙ্ক পরীক্ষা করে, আর সারের ডিলাররাও একইভাবে ইউরিয়া যাচাই করতে পারেন।
+## example
+প্রশ্ন: বরফে তাপ প্রয়োগের লেখচিত্রে ৪র্থ থেকে ১০ম মিনিট পর্যন্ত তাপমাত্রা ০ °C-এ স্থির থাকে। এই সময়ে কী ঘটছে এবং কোন কোন অবস্থা উপস্থিত?
+উত্তর: বরফ গলছে। শোষিত তাপ কঠিন বরফকে তরল পানিতে পরিণত করতে খরচ হচ্ছে, তাই তাপমাত্রা স্থির। বরফ (কঠিন) ও পানি (তরল) দুটোই উপস্থিত। এই সমতল অংশটি গলনাঙ্ক রেখা।
+## example
+প্রশ্ন: ১ atm চাপে বিশুদ্ধ সালফারের গলনাঙ্ক ১১৫ °C। নমুনা A ঠিক ১১৫ °C-এ একবারে গলে। নমুনা B ১০৮ °C-এ গলতে শুরু করে এবং ১১২ °C-এ পুরোপুরি গলে যায়। কোন নমুনাটি বিশুদ্ধ?
+উত্তর: নমুনা A বিশুদ্ধ। নমুনা B ১১৫ °C-এর কমে এবং একটি পরিসরে (১০৮–১১২ °C) গলে, তাই এতে ভেজাল আছে।
+> অবিশুদ্ধতার দুটি লক্ষণ: কম গলনাঙ্ক, আর এক তাপমাত্রার বদলে একটি পরিসরে গলা।
+## example
+প্রশ্ন: এক শিক্ষার্থী পানির মতো দেখতে একটি তরল গরম করল। ১ atm চাপে থার্মোমিটারে দেখা গেল তরলটি ১০৪ °C-এ স্থিরভাবে ফুটছে। এটি কি বিশুদ্ধ পানি?
+উত্তর: না। ১ atm চাপে বিশুদ্ধ পানি ১০০ °C-এ ফোটে। বেশি স্ফুটনাঙ্ক ইঙ্গিত দেয় যে এতে কিছু দ্রবীভূত আছে, যেমন লবণ।
+## mistakes
+x ফুটন্ত পানিতে তাপ দিতে থাকলে তাপমাত্রা ১০০ °C-এর ওপরে উঠতেই থাকে।
+v ১ atm চাপে সব পানি বাষ্প না হওয়া পর্যন্ত ফুটন্ত পানির তাপমাত্রা ১০০ °C-এই থাকে; বাড়তি তাপ পানিকে বাষ্পে পরিণত করে।
+x বরফের মতো মোমেরও নির্দিষ্ট গলনাঙ্ক আছে।
+v মোম মিশ্রণ, তাই এটি তাপমাত্রার একটি পরিসরে গলে।
+x ভেজাল সবসময় স্ফুটনাঙ্ক বাড়ায়।
+v লবণের মতো দ্রবীভূত কঠিন বাড়ায়, কিন্তু অ্যালকোহলের মতো উদ্বায়ী তরল কমায়। নির্দিষ্ট মান থেকে যেকোনো পরিবর্তনই ভেজাল নির্দেশ করে।
+x বিশুদ্ধ পদার্থের গলনাঙ্ক আর হিমাঙ্ক আলাদা।
+v বিশুদ্ধ পদার্থের ক্ষেত্রে এরা একই তাপমাত্রা (পানির জন্য ০ °C), শুধু বিপরীত দিক থেকে পৌঁছানো।
+## remember
+- বরফের গলনাঙ্ক ০ °C; পানির স্ফুটনাঙ্ক ১০০ °C (১ atm চাপে); ইউরিয়া ≈ ১৩৩ °C; সালফার ≈ ১১৫ °C।
+- গলন ও স্ফুটনের সময় তাপমাত্রা স্থির থাকে: তাপ অবস্থা বদলায়, তাপমাত্রা নয়।
+- তাপ প্রয়োগের লেখচিত্র: AB = গলনাঙ্ক রেখা (বরফ + পানি), CD = স্ফুটনাঙ্ক রেখা (পানি + বাষ্প)।
+- বিশুদ্ধ কঠিন: নির্দিষ্ট গলনাঙ্ক; অবিশুদ্ধ: কম এবং পরিসরে। গলনাঙ্ক ও স্ফুটনাঙ্ক দিয়ে বিশুদ্ধতা যাচাই হয়।
+- স্ফুটনাঙ্ক চাপের ওপর নির্ভর করে (প্রেশার কুকারে বেশি, পাহাড়ে কম)।
+## think
+১০০ °C-এর ফুটন্ত পানির ছিটার চেয়ে একই ১০০ °C-এর জলীয় বাষ্পে পুড়লে অনেক বেশি ক্ষত হয় কেন?
+## quiz
+? বরফ গলার সময় এর তাপমাত্রা:
+- ক্রমাগত বাড়ে
+* ০ °C-এ স্থির থাকে
+- ০ °C-এর নিচে নামে
+- ১০০ °C-এ ওঠে
+= তাপ অবস্থা বদলাতে খরচ হয়, তাই তাপমাত্রা গলনাঙ্কে স্থির থাকে।
+? বরফে তাপ প্রয়োগের লেখচিত্রে পানি ও বাষ্প দুটোই থাকে:
+- গলনাঙ্ক রেখা AB বরাবর
+* স্ফুটনাঙ্ক রেখা CD বরাবর
+- যে অংশে বরফ গরম হয়
+- যে অংশে বাষ্প গরম হয়
+= স্ফুটনাঙ্ক রেখায় (১০০ °C) পানি বাষ্পে পরিণত হচ্ছে।
+? একটি কঠিন নমুনা ৭০–৭৮ °C পরিসরে গলে। এতে বোঝা যায় নমুনাটি:
+- বিশুদ্ধ
+* অবিশুদ্ধ বা মিশ্রণ
+- গ্যাস
+- তরল
+= বিশুদ্ধ কঠিন একটি তাপমাত্রায় একবারে গলে।
+? প্রেশার কুকারে ভাত দ্রুত সেদ্ধ হয় কেন?
+- পানি কম তাপমাত্রায় ফোটে
+* পানি বেশি তাপমাত্রায় ফোটে
+- বাষ্প তৈরি হতে পারে না
+- চাপ সরাসরি ভাত সেদ্ধ করে
+= বেশি চাপ স্ফুটনাঙ্ক বাড়ায়, তাই খাবার বেশি তাপমাত্রায় রান্না হয়।
+
+@@ 2.7
+@visual k2sep
+@related 2.6 2.1 2.3 1.6
+== en
+## what
+**Distillation** is heating a liquid to turn it into vapour and then cooling the vapour to get the liquid back: distillation = vaporisation + condensation. **Sublimation** is the direct change of a solid into a gas on heating, without becoming a liquid first; substances that do this (iodine, camphor, naphthalene, ammonium chloride, dry ice, aluminium chloride) can be separated from mixtures by sublimation.
+## simple
+**Vaporisation and condensation.** Heat a pot of tea and steam rises from it: water is changing from liquid to vapour. Changing a liquid into vapour by heating is **vaporisation** (evaporation). Hold a cold steel plate over the pot and drops of water form on it: the vapour gives out heat and turns back into liquid. This is **condensation**.
+
+**Distillation.** Put the two together: heat a liquid until it vaporises, lead the vapour away, and cool it so it condenses back into a liquid. This is **distillation**.
+
+**Distillation = vaporisation + condensation**
+
+Why is it useful? Suppose you distil salt water. Only the water vaporises; the salt stays behind in the flask. The vapour that condenses is **pure water** (distilled water). So distillation is a way to **purify a liquid** or to separate a liquid from a dissolved solid.
+
+**A simple distillation set-up:** the liquid is heated in a round-bottomed **distillation flask** (with a few pieces of porcelain to boil smoothly). A **thermometer** at the side arm reads the temperature of the vapour. The vapour passes into a **condenser**, a tube surrounded by a jacket of cold running water (water enters at the bottom and leaves at the top). The cooled vapour condenses and drips into a **receiver** as the **distillate**.
+
+**Sublimation.** Some solids behave strangely: heat them and they turn **directly into vapour** without melting. Cool the vapour and it turns **directly back into solid**. This is **sublimation**, and such substances are called **volatile (sublimable) substances**. Examples:
+- ammonium chloride, NH₄Cl (নিশাদল)
+- camphor, C₁₀H₁₆O
+- naphthalene, C₁₀H₈ (moth balls)
+- solid carbon dioxide, CO₂ (dry ice)
+- iodine, I₂
+- aluminium chloride, AlCl₃
+
+The naphthalene balls in a wardrobe get smaller and smaller and finally disappear without ever leaving a wet patch: they are subliming.
+
+**Experiment 7: sublimation of aluminium chloride (teacher demonstration).** Put some solid anhydrous aluminium chloride in a beaker, cover it with a glass lid and put a few ice cubes on the lid. Heat the beaker slowly. The solid AlCl₃ turns directly into vapour; the vapour rises, meets the cold lid, and deposits as solid AlCl₃ on its underside. *(Anhydrous AlCl₃ reacts with moisture and gives off choking HCl fumes, so this is done by the teacher in a fume cupboard.)*
+
+**Using sublimation to separate mixtures.** If a mixture of solids contains one sublimable substance, heating drives that one off as vapour, and cooling collects it again as a pure solid:
+- **Ammonium chloride + table salt (NaCl):** heat the mixture; NH₄Cl vaporises and collects on a cold surface, while NaCl stays behind.
+- **Iodine + sand (or iodine + salt):** heat in a china dish covered with an inverted funnel; violet iodine vapour rises and forms shiny crystals on the cool inner wall of the funnel, leaving the sand behind. *(Iodine vapour is harmful: teacher demonstration in a fume cupboard.)*
+- **Sand + glucose:** neither substance sublimes, so they **cannot** be separated by sublimation. (Instead, dissolve the glucose in water, filter off the sand, and evaporate the water.)
+
+**A note on iodised salt.** Some books say that heating iodised table salt makes iodine sublime off. In fact, the iodine in iodised salt is present as a compound (usually potassium iodate, KIO₃), not as free iodine (I₂), so it does not sublime. Separation by sublimation works for a mixture of salt with solid iodine (I₂) itself.
+## analogy
+Distillation is like making rice pitha in a steamer: water vapour rises from the boiling pot, touches the cooler lid and runs back as drops of water, leaving everything that cannot vaporise behind. Sublimation is like a naughty student who skips class 9 and jumps straight to class 10: the solid skips the liquid stage entirely.
+## definition
+**Vaporisation (evaporation)**: the process of converting a liquid into vapour by applying heat.
+
+**Condensation**: the process by which vapour gives out heat on cooling and changes into a liquid.
+
+**Distillation**: the process of heating a liquid to convert it into vapour and then cooling the vapour to recover the liquid. Distillation = vaporisation + condensation.
+
+**Sublimation**: the process in which a solid, on heating, changes directly into vapour without first becoming a liquid (and the vapour, on cooling, changes directly back into solid). Substances that behave this way are called volatile or sublimable substances.
+## why
+Why do some solids sublime? In most solids, the particles must first loosen into a liquid before they can escape as a gas. In volatile solids like iodine, camphor and naphthalene, the attraction between the molecules is so weak that molecules at the surface escape straight into the vapour even at room temperature, and much faster on gentle heating, so the solid vaporises without any liquid collecting. (Strictly, these solids can melt if heated strongly: naphthalene melts at about 80 °C and iodine at about 114 °C. Under the gentle heating used for sublimation, they pass directly from solid to vapour.) Dry ice (solid CO₂) cannot exist as a liquid at all at normal atmospheric pressure, so it always sublimes.
+
+Ammonium chloride is a special case: on heating it actually breaks up into two gases, NH₄Cl(s) → NH₃(g) + HCl(g), and these recombine on a cold surface, NH₃(g) + HCl(g) → NH₄Cl(s). The overall effect looks exactly like sublimation, so it can be separated in the same way.
+
+Distillation purifies because different substances vaporise at very different temperatures. Water vaporises at 100 °C while salt needs over 1400 °C, so only the water travels on to the condenser.
+## terms
+Vaporisation (বাষ্পীভবন) | Liquid → vapour by heating
+Condensation (ঘনীভবন) | Vapour → liquid on cooling
+Distillation (পাতন) | Vaporisation followed by condensation, to purify or separate a liquid
+Distillate | The pure liquid collected after distillation
+Condenser | Tube cooled by running water, where vapour condenses
+Sublimation (ঊর্ধ্বপাতন) | Solid → vapour directly on heating (and back on cooling)
+Volatile (sublimable) substance | A solid that sublimes: I₂, camphor, naphthalene, NH₄Cl, dry ice, AlCl₃
+## formula
+$$ Distillation = vaporisation + condensation
+$$ Sublimation: solid ⇌ vapour (no liquid stage)
+! NH₄Cl(s) ⇌ NH₃(g) + HCl(g) on heating and cooling behaves like sublimation.
+## visual
+Choose Distillation to purify salt water and follow the vapour through the condenser, or choose Sublimation, pick a mixture, and heat it to see which part collects on the cold surface.
+## real
+Distilled water is used in school laboratories, in car and IPS batteries and to make injections and saline, because tap water contains dissolved salts. Rose water (golap jol) is made by distilling rose petals with water. In many homes naphthalene balls or camphor are kept among clothes to keep insects away; they slowly sublime and fill the cupboard with their smell. Dry ice is used to keep ice cream and medicines cold during transport, because it cools without leaving any liquid behind.
+## example
+Q: Describe how you would separate a mixture of iodine and sand.
+Answer: Put the mixture in a china dish and cover it with an inverted glass funnel whose stem is plugged with cotton. Heat the dish gently (in a fume cupboard). Iodine sublimes to violet vapour, which rises and deposits as solid iodine crystals on the cool inner surface of the funnel (a wet cloth on the funnel helps). Sand does not sublime and remains in the dish. Scrape the iodine off the funnel when cool.
+> Only the sublimable component leaves the dish; that is the whole idea.
+## example
+Q: Container A holds a mixture of iodine and table salt; container B holds sand and glucose. Can the same method separate both mixtures?
+Answer: No. Mixture A can be separated by sublimation, because iodine sublimes and salt does not. In mixture B neither sand nor glucose sublimes, so sublimation is useless; instead dissolve the glucose in water, filter out the sand, and evaporate the water to recover the glucose.
+## example
+Q: A student distils 200 mL of salt water. What is collected in the receiver, and what remains in the flask?
+Answer: Pure (distilled) water is collected in the receiver. The salt, which does not vaporise at 100 °C, remains in the flask as the water boils away.
+## mistakes
+x Sublimation means a solid melts quickly.
+v In sublimation there is no liquid stage at all: solid changes directly into vapour.
+x Distillation is the same as boiling.
+v Boiling is only the first half. Distillation is vaporisation followed by condensation, collecting the liquid again.
+x Table salt can be separated from sand by sublimation.
+v Neither salt nor sand sublimes. Salt is separated from sand by dissolving, filtering and evaporating.
+x The iodine in iodised salt can be driven off by heating.
+v Iodised salt contains iodine as a compound (like KIO₃), which does not sublime. Only free iodine (I₂) sublimes.
+## remember
+- Distillation = vaporisation + condensation; used to purify liquids (distilled water, rose water).
+- Sublimation: solid → vapour directly, and back on cooling; no liquid stage.
+- Sublimable: NH₄Cl, camphor (C₁₀H₁₆O), naphthalene (C₁₀H₈), dry ice (CO₂), iodine (I₂), AlCl₃.
+- A sublimable solid can be separated from a non-sublimable one (NH₄Cl from NaCl, I₂ from sand).
+- Sand + glucose cannot be separated by sublimation.
+## think
+When iodine is heated gently in an open dish, why do we see violet vapour but almost never a pool of liquid iodine?
+## quiz
+? Distillation is a combination of:
+- Melting and freezing
+* Vaporisation and condensation
+- Sublimation and melting
+- Diffusion and effusion
+= Distillation = vaporisation + condensation.
+? Which of the following sublimes?
+* Iodine
+- Table salt
+- Copper sulfate
+- Soda ash
+= Iodine changes directly from solid to vapour on heating.
+? Which mixture can be separated by sublimation?
+- Sand and glucose
+- Salt and sand
+* Ammonium chloride and table salt
+- Sugar and salt
+= Only NH₄Cl vaporises on heating; NaCl stays behind.
+? Hot tea is kept in a cup and steam rises from it. This process is:
+* Vaporisation
+- Sublimation
+- Diffusion
+- Effusion
+= Liquid water is changing into vapour.
+== bn
+## what
+কোনো তরলকে তাপ দিয়ে বাষ্পে পরিণত করে সেই বাষ্পকে শীতল করে আবার তরল ফিরে পাওয়াকে **পাতন** বলে: পাতন = বাষ্পীভবন + ঘনীভবন। তাপ দিলে কোনো কঠিন পদার্থ তরল না হয়ে সরাসরি বাষ্পে পরিণত হলে তাকে **ঊর্ধ্বপাতন** বলে; এমন পদার্থকে (আয়োডিন, কর্পূর, ন্যাপথলিন, নিশাদল, শুষ্ক বরফ, অ্যালুমিনিয়াম ক্লোরাইড) ঊর্ধ্বপাতন দিয়ে মিশ্রণ থেকে পৃথক করা যায়।
+## simple
+**বাষ্পীভবন ও ঘনীভবন।** এক পাত্র চা গরম করলে তা থেকে ভাপ ওঠে: পানি তরল থেকে বাষ্পে পরিণত হচ্ছে। তাপ প্রয়োগে তরলকে বাষ্পে পরিণত করাকে বলে **বাষ্পীভবন**। পাত্রের ওপর একটি ঠান্ডা স্টিলের থালা ধরো, এর গায়ে পানির ফোঁটা জমবে: বাষ্প তাপ ছেড়ে আবার তরলে পরিণত হচ্ছে। এটাই **ঘনীভবন**।
+
+**পাতন।** এবার দুটিকে একসাথে করো: তরলকে তাপ দিয়ে বাষ্প বানাও, বাষ্পকে অন্য দিকে নিয়ে যাও, আর ঠান্ডা করে আবার তরলে পরিণত করো। এটাই **পাতন**।
+
+**পাতন = বাষ্পীভবন + ঘনীভবন**
+
+এটা কাজের কেন? ধরো তুমি লবণপানি পাতন করছ। শুধু পানি বাষ্প হয়; লবণ ফ্লাস্কেই থেকে যায়। যে বাষ্প ঘনীভূত হয় তা **বিশুদ্ধ পানি** (পাতিত পানি)। তাই পাতন দিয়ে **তরল বিশুদ্ধ** করা যায়, বা দ্রবীভূত কঠিন থেকে তরল আলাদা করা যায়।
+
+**সাধারণ পাতন যন্ত্র:** তরলটি একটি গোলতলী **পাতন ফ্লাস্কে** গরম করা হয় (মসৃণভাবে ফোটার জন্য কয়েক টুকরা চীনামাটি দিয়ে)। পাশের নলের মুখে রাখা **থার্মোমিটার** বাষ্পের তাপমাত্রা দেখায়। বাষ্প যায় একটি **শীতকে** (কনডেন্সার), যা এমন একটি নল যার চারপাশে ঠান্ডা প্রবহমান পানির আবরণ (পানি নিচ দিয়ে ঢোকে, ওপর দিয়ে বের হয়)। ঠান্ডা বাষ্প ঘনীভূত হয়ে ফোঁটায় ফোঁটায় একটি **গ্রাহক পাত্রে** জমা হয়, একে বলে **পাতিত তরল**।
+
+**ঊর্ধ্বপাতন।** কিছু কঠিন পদার্থ অদ্ভুত আচরণ করে: তাপ দিলে এরা না গলে **সরাসরি বাষ্পে** পরিণত হয়। বাষ্প ঠান্ডা করলে **সরাসরি আবার কঠিনে** ফিরে আসে। এটাই **ঊর্ধ্বপাতন**, আর এমন পদার্থকে বলে **উদ্বায়ী পদার্থ** (ঊর্ধ্বপাতিত পদার্থ)। উদাহরণ:
+- নিশাদল বা অ্যামোনিয়াম ক্লোরাইড, NH₄Cl
+- কর্পূর, C₁₀H₁₆O
+- ন্যাপথলিন, C₁₀H₈
+- কঠিন কার্বন ডাই-অক্সাইড, CO₂ (শুষ্ক বরফ)
+- আয়োডিন, I₂
+- অ্যালুমিনিয়াম ক্লোরাইড, AlCl₃
+
+আলমারির ন্যাপথলিনের বল ছোট হতে হতে একসময় মিলিয়ে যায়, অথচ কোথাও ভেজা দাগ রাখে না: এগুলো ঊর্ধ্বপাতিত হচ্ছে।
+
+**পরীক্ষা ৭: অ্যালুমিনিয়াম ক্লোরাইডের ঊর্ধ্বপাতন (শিক্ষক প্রদর্শন করবেন)।** একটি বিকারে কিছু কঠিন অনার্দ্র অ্যালুমিনিয়াম ক্লোরাইড নাও, বিকারের মুখ একটি কাচের ঢাকনা দিয়ে ঢাকো, আর ঢাকনার ওপর কয়েক টুকরা বরফ রাখো। বিকারে ধীরে ধীরে তাপ দাও। কঠিন AlCl₃ সরাসরি বাষ্পে পরিণত হয়; বাষ্প ওপরে উঠে ঠান্ডা ঢাকনায় পৌঁছে এর নিচে কঠিন AlCl₃ হিসেবে জমা হয়। *(অনার্দ্র AlCl₃ আর্দ্রতার সাথে বিক্রিয়া করে ঝাঁঝালো HCl ধোঁয়া ছাড়ে, তাই এটি শিক্ষক ফিউম কাবার্ডে করবেন।)*
+
+**ঊর্ধ্বপাতন দিয়ে মিশ্রণ পৃথকীকরণ।** কঠিন পদার্থের মিশ্রণে একটি উদ্বায়ী পদার্থ থাকলে, তাপ দিলে সেটি বাষ্প হয়ে বেরিয়ে যায়, আর ঠান্ডা করে তাকে আবার বিশুদ্ধ কঠিন হিসেবে সংগ্রহ করা যায়:
+- **নিশাদল + খাদ্য লবণ (NaCl):** মিশ্রণে তাপ দাও; NH₄Cl বাষ্প হয়ে ঠান্ডা পৃষ্ঠে জমা হয়, NaCl পড়ে থাকে।
+- **আয়োডিন + বালু (বা আয়োডিন + লবণ):** একটি চীনামাটির বাটিতে নিয়ে উল্টানো ফানেল দিয়ে ঢেকে তাপ দাও; বেগুনি আয়োডিন বাষ্প উঠে ফানেলের ঠান্ডা ভেতরের দেয়ালে চকচকে কেলাস হিসেবে জমে, বালু পড়ে থাকে। *(আয়োডিন বাষ্প ক্ষতিকর: শিক্ষক ফিউম কাবার্ডে প্রদর্শন করবেন।)*
+- **বালু + গ্লুকোজ:** কোনোটিই ঊর্ধ্বপাতিত হয় না, তাই ঊর্ধ্বপাতন দিয়ে এদের পৃথক করা **যায় না**। (এর বদলে গ্লুকোজ পানিতে গুলে নাও, ছেঁকে বালু আলাদা করো, তারপর পানি বাষ্পীভূত করো।)
+
+**আয়োডিনযুক্ত লবণ নিয়ে একটি কথা।** কোনো কোনো বইয়ে বলা হয়, আয়োডিনযুক্ত খাদ্য লবণে তাপ দিলে আয়োডিন ঊর্ধ্বপাতিত হয়ে বেরিয়ে যায়। আসলে আয়োডিনযুক্ত লবণে আয়োডিন থাকে যৌগ হিসেবে (সাধারণত পটাশিয়াম আয়োডেট, KIO₃), মুক্ত আয়োডিন (I₂) হিসেবে নয়, তাই এটি ঊর্ধ্বপাতিত হয় না। লবণের সাথে কঠিন আয়োডিন (I₂) মেশানো থাকলে তবেই ঊর্ধ্বপাতন দিয়ে পৃথক করা যায়।
+## analogy
+পাতন যেন ভাপা পিঠা বানানোর হাঁড়ি: ফুটন্ত পানি থেকে বাষ্প ওঠে, ঠান্ডা ঢাকনায় লেগে পানির ফোঁটা হয়ে ফিরে আসে, আর যা বাষ্প হতে পারে না তা নিচেই থেকে যায়। ঊর্ধ্বপাতন যেন এমন দুষ্টু ছাত্র যে নবম শ্রেণি ডিঙিয়ে সোজা দশম শ্রেণিতে চলে যায়: কঠিন পদার্থটি তরল ধাপটা পুরোপুরি এড়িয়ে যায়।
+## definition
+**বাষ্পীভবন**: তাপ প্রয়োগের দ্বারা একটি তরল পদার্থকে বাষ্পে পরিণত করার প্রক্রিয়া।
+
+**ঘনীভবন**: যে প্রক্রিয়ায় বাষ্প শীতল হয়ে তাপ ছেড়ে তরলে পরিণত হয়।
+
+**পাতন**: কোনো তরলকে তাপ প্রয়োগে বাষ্পে পরিণত করে পুনরায় শীতলীকরণের মাধ্যমে তরলে পরিণত করার পদ্ধতি। পাতন = বাষ্পীভবন + ঘনীভবন।
+
+**ঊর্ধ্বপাতন**: যে প্রক্রিয়ায় কোনো কঠিন পদার্থে তাপ প্রয়োগ করলে তা তরলে পরিণত না হয়ে সরাসরি বাষ্পে পরিণত হয় (আর ঠান্ডা করলে বাষ্প সরাসরি আবার কঠিনে পরিণত হয়)। এমন পদার্থকে উদ্বায়ী বা ঊর্ধ্বপাতিত পদার্থ বলে।
+## why
+কিছু কঠিন পদার্থ ঊর্ধ্বপাতিত হয় কেন? বেশিরভাগ কঠিনে কণাগুলোকে আগে আলগা হয়ে তরল হতে হয়, তারপর গ্যাস হয়ে বেরোতে পারে। আয়োডিন, কর্পূর, ন্যাপথলিনের মতো উদ্বায়ী কঠিনে অণুগুলোর আকর্ষণ এত দুর্বল যে কক্ষ তাপমাত্রাতেই পৃষ্ঠের অণুগুলো সরাসরি বাষ্পে বেরিয়ে যায়, আর আস্তে তাপ দিলে আরও দ্রুত; ফলে কোনো তরল না জমেই কঠিনটি বাষ্প হয়ে যায়। (সূক্ষ্মভাবে বললে, জোরে তাপ দিলে এগুলো গলতেও পারে: ন্যাপথলিন প্রায় ৮০ °C-এ আর আয়োডিন প্রায় ১১৪ °C-এ গলে। কিন্তু ঊর্ধ্বপাতনে যে মৃদু তাপ দেওয়া হয়, তাতে এরা সরাসরি কঠিন থেকে বাষ্পে যায়।) শুষ্ক বরফ (কঠিন CO₂) স্বাভাবিক বায়ুমণ্ডলীয় চাপে তরল অবস্থায় থাকতেই পারে না, তাই এটি সবসময় ঊর্ধ্বপাতিত হয়।
+
+নিশাদল একটু বিশেষ: তাপ দিলে এটি আসলে দুটি গ্যাসে ভেঙে যায়, NH₄Cl(s) → NH₃(g) + HCl(g), আর ঠান্ডা পৃষ্ঠে এরা আবার যুক্ত হয়, NH₃(g) + HCl(g) → NH₄Cl(s)। সামগ্রিক ফল দেখতে হুবহু ঊর্ধ্বপাতনের মতো, তাই একইভাবে পৃথক করা যায়।
+
+পাতন বিশুদ্ধ করে, কারণ ভিন্ন পদার্থ খুব ভিন্ন তাপমাত্রায় বাষ্পীভূত হয়। পানি ১০০ °C-এ বাষ্প হয়, অথচ লবণের লাগে ১৪০০ °C-এরও বেশি, তাই শুধু পানিই শীতক পর্যন্ত যায়।
+## terms
+বাষ্পীভবন (Vaporisation) | তাপে তরল → বাষ্প
+ঘনীভবন (Condensation) | শীতল করলে বাষ্প → তরল
+পাতন (Distillation) | বাষ্পীভবনের পর ঘনীভবন, তরল বিশুদ্ধ বা পৃথক করতে
+পাতিত তরল | পাতনের পর সংগৃহীত বিশুদ্ধ তরল
+শীতক (কনডেন্সার) | প্রবহমান পানিতে ঠান্ডা রাখা নল, যেখানে বাষ্প ঘনীভূত হয়
+ঊর্ধ্বপাতন (Sublimation) | তাপে কঠিন → সরাসরি বাষ্প (ঠান্ডায় আবার কঠিন)
+উদ্বায়ী (ঊর্ধ্বপাতিত) পদার্থ | যে কঠিন ঊর্ধ্বপাতিত হয়: I₂, কর্পূর, ন্যাপথলিন, NH₄Cl, শুষ্ক বরফ, AlCl₃
+## formula
+$$ পাতন = বাষ্পীভবন + ঘনীভবন
+$$ ঊর্ধ্বপাতন: কঠিন ⇌ বাষ্প (তরল ধাপ নেই)
+! NH₄Cl(s) ⇌ NH₃(g) + HCl(g): তাপ দেওয়া ও ঠান্ডা করায় এটি ঊর্ধ্বপাতনের মতো আচরণ করে।
+## visual
+লবণপানি বিশুদ্ধ করতে "পাতন" বেছে নিয়ে বাষ্পের শীতক পেরোনোর পথ অনুসরণ করো, অথবা "ঊর্ধ্বপাতন" বেছে নিয়ে একটি মিশ্রণ নির্বাচন করো আর তাপ দিয়ে দেখো কোন অংশ ঠান্ডা পৃষ্ঠে জমে।
+## real
+স্কুলের পরীক্ষাগারে, গাড়ি ও আইপিএসের ব্যাটারিতে আর ইনজেকশন ও স্যালাইন তৈরিতে পাতিত পানি ব্যবহার করা হয়, কারণ কলের পানিতে লবণ দ্রবীভূত থাকে। গোলাপের পাপড়ি পানির সাথে পাতন করে গোলাপজল তৈরি হয়। অনেক বাড়িতে পোকামাকড় দূরে রাখতে কাপড়ের ভাঁজে ন্যাপথলিন বা কর্পূর রাখা হয়; এগুলো ধীরে ধীরে ঊর্ধ্বপাতিত হয়ে আলমারি গন্ধে ভরিয়ে দেয়। পরিবহনের সময় আইসক্রিম ও ওষুধ ঠান্ডা রাখতে শুষ্ক বরফ ব্যবহার করা হয়, কারণ এটি কোনো তরল না রেখেই ঠান্ডা করে।
+## example
+প্রশ্ন: আয়োডিন ও বালুর মিশ্রণ কীভাবে পৃথক করবে বর্ণনা করো।
+উত্তর: মিশ্রণটি একটি চীনামাটির বাটিতে নিয়ে একটি উল্টানো কাচের ফানেল দিয়ে ঢাকো, যার নল তুলা দিয়ে বন্ধ। বাটিটিতে আস্তে তাপ দাও (ফিউম কাবার্ডে)। আয়োডিন ঊর্ধ্বপাতিত হয়ে বেগুনি বাষ্প হয়, যা ওপরে উঠে ফানেলের ঠান্ডা ভেতরের পৃষ্ঠে কঠিন আয়োডিনের কেলাস হিসেবে জমে (ফানেলে ভেজা কাপড় জড়ালে সুবিধা হয়)। বালু ঊর্ধ্বপাতিত হয় না, বাটিতেই থেকে যায়। ঠান্ডা হলে ফানেল থেকে আয়োডিন চেঁছে নাও।
+> শুধু উদ্বায়ী উপাদানটিই বাটি ছেড়ে যায়; পুরো কৌশলটা এটাই।
+## example
+প্রশ্ন: A পাত্রে আয়োডিন ও খাদ্য লবণের মিশ্রণ, B পাত্রে বালু ও গ্লুকোজের মিশ্রণ। একই পদ্ধতিতে কি দুটি মিশ্রণ পৃথক করা যাবে?
+উত্তর: না। A মিশ্রণ ঊর্ধ্বপাতন দিয়ে পৃথক করা যাবে, কারণ আয়োডিন ঊর্ধ্বপাতিত হয় কিন্তু লবণ হয় না। B মিশ্রণে বালু বা গ্লুকোজ কোনোটিই ঊর্ধ্বপাতিত হয় না, তাই ঊর্ধ্বপাতন কাজে আসবে না; বরং গ্লুকোজ পানিতে গুলে, ছেঁকে বালু আলাদা করে, পানি বাষ্পীভূত করে গ্লুকোজ ফিরে পেতে হবে।
+## example
+প্রশ্ন: এক শিক্ষার্থী ২০০ mL লবণপানি পাতন করল। গ্রাহক পাত্রে কী জমা হবে, আর ফ্লাস্কে কী থেকে যাবে?
+উত্তর: গ্রাহক পাত্রে বিশুদ্ধ (পাতিত) পানি জমা হবে। লবণ ১০০ °C-এ বাষ্পীভূত হয় না, তাই পানি ফুটে চলে গেলে তা ফ্লাস্কে থেকে যাবে।
+## mistakes
+x ঊর্ধ্বপাতন মানে কঠিন পদার্থ তাড়াতাড়ি গলে যাওয়া।
+v ঊর্ধ্বপাতনে কোনো তরল ধাপই নেই: কঠিন সরাসরি বাষ্পে পরিণত হয়।
+x পাতন আর স্ফুটন একই।
+v স্ফুটন কেবল প্রথম অর্ধেক। পাতন হলো বাষ্পীভবনের পর ঘনীভবন, তরলটি আবার সংগ্রহ করা।
+x ঊর্ধ্বপাতন দিয়ে বালু থেকে খাদ্য লবণ আলাদা করা যায়।
+v লবণ বা বালু কোনোটিই ঊর্ধ্বপাতিত হয় না। দ্রবণ, ছাঁকন ও বাষ্পীভবন দিয়ে বালু থেকে লবণ আলাদা করা হয়।
+x তাপ দিলে আয়োডিনযুক্ত লবণ থেকে আয়োডিন বেরিয়ে যায়।
+v আয়োডিনযুক্ত লবণে আয়োডিন থাকে যৌগ (যেমন KIO₃) হিসেবে, যা ঊর্ধ্বপাতিত হয় না। শুধু মুক্ত আয়োডিন (I₂) ঊর্ধ্বপাতিত হয়।
+## remember
+- পাতন = বাষ্পীভবন + ঘনীভবন; তরল বিশুদ্ধ করতে ব্যবহৃত হয় (পাতিত পানি, গোলাপজল)।
+- ঊর্ধ্বপাতন: কঠিন → সরাসরি বাষ্প, ঠান্ডায় আবার কঠিন; তরল ধাপ নেই।
+- উদ্বায়ী পদার্থ: NH₄Cl, কর্পূর (C₁₀H₁₆O), ন্যাপথলিন (C₁₀H₈), শুষ্ক বরফ (CO₂), আয়োডিন (I₂), AlCl₃।
+- উদ্বায়ী কঠিনকে অনুদ্বায়ী কঠিন থেকে পৃথক করা যায় (NaCl থেকে NH₄Cl, বালু থেকে I₂)।
+- বালু + গ্লুকোজ ঊর্ধ্বপাতন দিয়ে পৃথক করা যায় না।
+## think
+খোলা বাটিতে আয়োডিনে আস্তে তাপ দিলে বেগুনি বাষ্প দেখা যায়, কিন্তু প্রায় কখনো তরল আয়োডিন জমতে দেখা যায় না কেন?
+## quiz
+? পাতন কোন দুটি প্রক্রিয়ার সমন্বয়?
+- গলন ও হিমায়ন
+* বাষ্পীভবন ও ঘনীভবন
+- ঊর্ধ্বপাতন ও গলন
+- ব্যাপন ও নিঃসরণ
+= পাতন = বাষ্পীভবন + ঘনীভবন।
+? কোনটি ঊর্ধ্বপাতিত হয়?
+* আয়োডিন
+- খাদ্য লবণ
+- কপার সালফেট
+- সোডা অ্যাশ
+= তাপ দিলে আয়োডিন সরাসরি কঠিন থেকে বাষ্পে পরিণত হয়।
+? কোন মিশ্রণ ঊর্ধ্বপাতন দিয়ে পৃথক করা যায়?
+- বালু ও গ্লুকোজ
+- লবণ ও বালু
+* নিশাদল ও খাদ্য লবণ
+- চিনি ও লবণ
+= তাপ দিলে শুধু NH₄Cl বাষ্পীভূত হয়; NaCl পড়ে থাকে।
+? কাপে গরম চা রাখলে তা থেকে ভাপ ওঠে। এই প্রক্রিয়াটি:
+* বাষ্পীভবন
+- ঊর্ধ্বপাতন
+- ব্যাপন
+- নিঃসরণ
+= তরল পানি বাষ্পে পরিণত হচ্ছে।
