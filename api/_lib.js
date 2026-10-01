@@ -90,4 +90,5 @@ function fail(res, status, code) { send(res, status, { ok: false, error: code })
 function body(req) { if (req.body && typeof req.body === "object") return req.body; try { return JSON.parse(req.body || "{}"); } catch (e) { return {}; } }
 function wrap(fn) { return async (req, res) => { try { await fn(req, res); } catch (e) { if (e.code === "NO_DB" || !SECRET) return fail(res, 503, "NO_DB"); console.error(e); fail(res, 500, "SERVER"); } }; }
 
-module.exports = { redis, getJSON, setJSON, normContact, validPassword, cleanName, hashPassword, checkPassword, setSession, clearSession, currentUser, newId, publicUser, send, fail, body, wrap };
+const dbReady = () => !!(DB_URL || LOCAL);
+module.exports = { dbReady, redis, getJSON, setJSON, normContact, validPassword, cleanName, hashPassword, checkPassword, setSession, clearSession, currentUser, newId, publicUser, send, fail, body, wrap };
