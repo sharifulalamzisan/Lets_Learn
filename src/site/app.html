@@ -1,4 +1,5 @@
-<title>Class 10 Science</title>
+<title>Let's Learn — Learn. Understand. Explore.</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2214%22%20fill%3D%22%230f1d2e%22/%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%221%22%20x2%3D%221%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%237fb0f0%22/%3E%3Cstop%20offset%3D%22.55%22%20stop-color%3D%22%23d49bd8%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238fcf89%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath%20d%3D%22M15%2011%20V49%20H53%22%20fill%3D%22none%22%20stroke%3D%22%23eef3f8%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22/%3E%3Cpath%20d%3D%22M21%2043%20C31%2043%2033%2022%2046%2018%22%20fill%3D%22none%22%20stroke%3D%22url%28%23g%29%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22/%3E%3Ccircle%20cx%3D%2248%22%20cy%3D%2217.5%22%20r%3D%225%22%20fill%3D%22%238fcf89%22/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@500;650;750&family=Hind+Siliguri:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
@@ -210,11 +211,12 @@ footer.site{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:20px
   .formula .eq{font-size:19px}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+/*__LANDINGCSS__*/
 </style>
 
 <header class="top">
   <div class="top-in">
-    <a class="brand" href="#" id="brand"><span class="dots" aria-hidden="true"><i style="background:var(--phy)"></i><i style="background:var(--chem)"></i><i style="background:var(--bio)"></i></span><span id="brandtxt">Class 10 Science</span></a>
+    <a class="brand" href="#" id="brand"><span id="brandmark"></span><span class="wm"><span id="brandtxt">Let's Learn</span><small id="brandsub">Class 9–10 Science</small></span></a>
     <span class="grow"></span>
     <button class="iconbtn" id="searchbtn" aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span id="searchlbl">Search</span></button>
     <div class="langsw" role="group" aria-label="Language"><button data-l="bn">বাংলা</button><button data-l="en">English</button></div>
@@ -226,7 +228,7 @@ footer.site{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:20px
 <script>
 "use strict";
 const UI = {
-  en:{brand:"Class 10 Science", tag:"Learn. Understand. Visualize.", search:"Search", searchPh:"Search a topic, term or formula (English or বাংলা)",
+  en:{brand:"Let's Learn", brandSub:"Class 9–10 Science", tag:"Learn. Understand. Visualize.", search:"Search", searchPh:"Search a topic, term or formula (English or বাংলা)",
     home:"Home", chapter:"Chapter", chapters:"chapters", lessons:"lessons", lesson:"Lesson", soon:"coming soon", done:"done",
     intro:"About this chapter", objectives:"By the end you will be able to", keyf:"Important formulas & ideas", list:"Lessons in this chapter",
     markDone:"Mark as completed", marked:"Completed ✓", prev:"Previous", next:"Next", book:"In the book", pages:"Textbook pages",
@@ -238,7 +240,7 @@ const UI = {
     how:[["Pick a subject","Physics, Chemistry or Biology, chapter by chapter."],["Read like a teacher is beside you","Simple idea first, then the textbook definition."],["Try it yourself","Move the sliders, solve the example, answer the quick questions."]],
     subjCh:"chapters", foot:"Made for Bangladesh SSC students, based on the NCTB Physics, Chemistry and Biology books for Classes 9–10 (2026). Explanations are original; the textbook stays your main reference.",
     analogy:"Picture it like this", triQ:"Tap what you want to find:", find:"Find", labels:{"Given":"Given","Formula":"Formula","Substitution":"Substitution","Calculation":"Calculation","Answer":"Answer","Unit":"Unit","Solution":"Solution","Step":"Step"}},
-  bn:{brand:"দশম শ্রেণির বিজ্ঞান", tag:"শিখি। বুঝি। চোখে দেখি।", search:"খুঁজুন", searchPh:"বিষয়, শব্দ বা সূত্র লিখে খোঁজো (বাংলা বা English)",
+  bn:{brand:"Let's Learn", brandSub:"নবম-দশম শ্রেণির বিজ্ঞান", tag:"শিখি। বুঝি। চোখে দেখি।", search:"খুঁজুন", searchPh:"বিষয়, শব্দ বা সূত্র লিখে খোঁজো (বাংলা বা English)",
     home:"হোম", chapter:"অধ্যায়", chapters:"অধ্যায়", lessons:"পাঠ", lesson:"পাঠ", soon:"শিগগির আসছে", done:"শেষ",
     intro:"এই অধ্যায়ে কী আছে", objectives:"অধ্যায় শেষে তুমি পারবে", keyf:"গুরুত্বপূর্ণ সূত্র ও ধারণা", list:"এই অধ্যায়ের পাঠগুলো",
     markDone:"পড়া শেষ হিসেবে চিহ্নিত করো", marked:"পড়া শেষ ✓", prev:"আগের পাঠ", next:"পরের পাঠ", book:"বইয়ে", pages:"বইয়ের পৃষ্ঠা",
@@ -285,7 +287,7 @@ function parseHash(){
 
 function setChrome(){
   document.documentElement.lang = LANG==="bn"?"bn":"en";
-  $("#brandtxt").textContent = UI[LANG].brand; $("#brand").href = href();
+  $("#brandtxt").textContent = UI[LANG].brand; $("#brandsub").textContent = UI[LANG].brandSub; $("#brand").href = href(); { const bm=$("#brandmark"); if(bm) bm.outerHTML = logoMark("mark"); }
   $("#searchlbl").textContent = UI[LANG].search;
   document.querySelectorAll(".langsw button").forEach(b=>b.setAttribute("aria-pressed", b.dataset.l===LANG));
   $("#foot").textContent = UI[LANG].foot;
@@ -295,14 +297,15 @@ async function route(){
   await loadMap();
   const r = parseHash(); setChrome(); const main = $("#main");
   main.className = r.subj ? "s-"+r.subj : "";
-  document.body.className = r.subj ? "s-"+r.subj : "";
+  document.body.className = r.subj ? "s-"+r.subj : (r.view==="home" ? "is-landing" : "");
+  if(r.view==="lesson") store.set("c10-last",{s:r.subj,id:r.id,ts:Date.now()});
   try{
-    if(r.view==="home") main.innerHTML = viewHome();
+    if(r.view==="home") main.innerHTML = viewLanding();
     else if(r.view==="subject") main.innerHTML = viewSubject(r.subj);
     else if(r.view==="chapter") main.innerHTML = await viewChapter(r.subj,r.n);
     else main.innerHTML = await viewLesson(r.subj,r.id);
   }catch(e){ console.error(e); main.innerHTML = `<p class="empty">Something went wrong loading this page. Go back to <a href="${href()}">${UI[LANG].home}</a>.</p>`; }
-  wire(main);
+  wire(main); if(r.view==="home") wireLanding(main);
   window.scrollTo(0,0);
 }
 
@@ -664,6 +667,7 @@ W.error = (el) => {
   go();
 };
 
+/*__LANDINGJS__*/
 /*__WIDGETS__*/
 route();
 </script>

@@ -2,4 +2,3 @@ src/site/out/
 src/site/index.html
 src/site/deploy/
 __pycache__/
-*.png

@@ -204,6 +204,8 @@ def assemble():
             print("SKIPPED (syntax error):", os.path.basename(f), r.stderr.strip().splitlines()[-1] if r.stderr.strip() else ""); continue
         parts.append(src)
     js = "\n".join(parts)
+    app = app.replace("/*__LANDINGCSS__*/", open(os.path.join(root, "landing.css"), encoding="utf-8").read())
+    app = app.replace("/*__LANDINGJS__*/", open(os.path.join(root, "landing.js"), encoding="utf-8").read())
     open(os.path.join(root, "index.html"), "w", encoding="utf-8").write(app.replace("/*__WIDGETS__*/", js))
     open(os.path.join(root, "out", "index.html"), "w", encoding="utf-8").write('<meta charset="utf-8">\n' + app.replace("/*__WIDGETS__*/", js))
 
@@ -214,9 +216,11 @@ def deploy():
     if os.path.isdir(d): shutil.rmtree(d)
     os.makedirs(os.path.join(d, "data"))
     page = open(os.path.join(root, "index.html"), encoding="utf-8").read()
-    head = '<!doctype html>\n<html lang="bn">\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<meta name="description" content="Class 9-10 Physics, Chemistry and Biology explained simply in Bangla and English, with interactive visuals. Based on the NCTB textbooks.">\n'
+    head = '<!doctype html>\n<html lang="bn">\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<meta name="description" content="Class 9-10 Physics, Chemistry and Biology explained simply in Bangla and English, with interactive visuals. Based on the NCTB textbooks.">\n<meta property="og:title" content="Let\'s Learn — Learn. Understand. Explore.">\n<meta property="og:description" content="Every chapter of Class 9-10 Physics, Chemistry and Biology, explained simply in Bangla and English, with interactive visuals.">\n<meta property="og:type" content="website">\n<meta property="og:image" content="/og.png">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="theme-color" content="#0f1d2e">\n<link rel="apple-touch-icon" href="/logo-512.png">\n'
     open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(head + page)
     for f in glob.glob(os.path.join(root, "out", "data", "*.json")): shutil.copy(f, os.path.join(d, "data"))
+    for f in ("og.png", "logo-512.png", "logo.svg"):
+        if os.path.exists(os.path.join(root, "brand", f)): shutil.copy(os.path.join(root, "brand", f), d)
     if False: open(os.path.join(d, "vercel.json"), "w").write('{\n  "cleanUrls": true,\n  "headers": [{"source": "/data/(.*)", "headers": [{"key": "Cache-Control", "value": "public, max-age=300"}]}]\n}\n')
 
 if __name__ == "__main__":
