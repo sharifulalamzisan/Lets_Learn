@@ -1745,13 +1745,13 @@ v ঘুরে আসতে সবসময় একই সময় লাগ�
 = অনুসূর হয় ১-৩ জানুয়ারি; সবচেয়ে দূরের অবস্থান অপসূর হয় ১-৪ জুলাই।
 
 @@ 3.3.3
-@visual g3orbit
+@visual g3daylen
 @related 3.3.2 3.3.4 3.2.1
 == en
 ## what
 Days and nights are not the same length all year. In our part of the world days are longest in June and shortest in December. This lengthening and shortening is caused by the **annual motion** of the Earth with its **leaning axis**.
 ## visual
-Choose a date, then move the slider to your own latitude. The bar shows how much of the 24 hours is day and how much is night at that place on that date.
+The Sun is on the left, so the left half of the Earth has day. Choose a date and a place. The red dot is the place, carried round once in 24 hours as the Earth turns: the yellow part of its path is its day, the purple part its night. The bars below compare the same place on all four dates.
 ## simple
 The Earth's axis always leans the same way as it goes round the Sun. So for part of the year the North Pole leans towards the Sun, and for another part it leans away.
 
@@ -1807,7 +1807,7 @@ v It is longest only in the northern hemisphere. In the southern hemisphere it i
 - 21 March and 23 September: rays vertical on the equator; day = night everywhere.
 - The two hemispheres always have opposite conditions.
 ## think
-On 21 June, who has the longer day: a student in Dhaka or a student in London (about 51.5° N)? Use the slider to check your answer, then explain it.
+On 21 June, who has the longer day: a student in Dhaka or a student in London (about 51.5° N)? Check your answer with the place buttons, then explain it.
 ## quiz
 ? On which date is the day longest in the northern hemisphere?
 - 21 March
@@ -1831,7 +1831,7 @@ On 21 June, who has the longer day: a student in Dhaka or a student in London (a
 ## what
 সারা বছর দিন ও রাত সমান থাকে না। আমাদের এখানে জুন মাসে দিন সবচেয়ে বড় আর ডিসেম্বরে সবচেয়ে ছোট। এই হ্রাস-বৃদ্ধি ঘটে পৃথিবীর **বার্ষিক গতি** আর তার **হেলানো অক্ষের** কারণে।
 ## visual
-একটি তারিখ বেছে নাও, তারপর স্লাইডার সরিয়ে নিজের অক্ষাংশে আনো। দণ্ডটি দেখায় ওই তারিখে ওই স্থানে ২৪ ঘণ্টার কতটা দিন আর কতটা রাত।
+সূর্য বাঁ দিকে, তাই পৃথিবীর বাঁ অর্ধেকে দিন। একটি তারিখ ও একটি স্থান বেছে নাও। লাল বিন্দুটি সেই স্থান; পৃথিবী ঘোরে বলে ২৪ ঘণ্টায় একবার ঘুরে আসে: তার পথের হলুদ অংশ দিন, বেগুনি অংশ রাত। নিচের দণ্ডগুলোতে একই স্থানের চার তারিখের দিন তুলনা করা আছে।
 ## simple
 সূর্যকে ঘোরার সময় পৃথিবীর অক্ষ সবসময় একই দিকে হেলে থাকে। তাই বছরের একটা সময় উত্তর মেরু সূর্যের দিকে ঝুঁকে থাকে, আরেকটা সময় উল্টো দিকে।
 
@@ -1887,7 +1887,7 @@ v শুধু উত্তর গোলার্ধে। দক্ষিণ �
 - ২১শে মার্চ ও ২৩শে সেপ্টেম্বর: রশ্মি নিরক্ষরেখায় লম্ব; সর্বত্র দিন = রাত।
 - দুই গোলার্ধে সবসময় বিপরীত অবস্থা।
 ## think
-২১শে জুন কার দিন বেশি বড়: ঢাকার একজন শিক্ষার্থীর, নাকি লন্ডনের (প্রায় ৫১.৫° উত্তর) একজন শিক্ষার্থীর? স্লাইডার দিয়ে মিলিয়ে দেখো, তারপর কারণ ব্যাখ্যা করো।
+২১শে জুন কার দিন বেশি বড়: ঢাকার একজন শিক্ষার্থীর, নাকি লন্ডনের (প্রায় ৫১.৫° উত্তর) একজন শিক্ষার্থীর? স্থানের বোতাম দিয়ে মিলিয়ে দেখো, তারপর কারণ ব্যাখ্যা করো।
 ## quiz
 ? উত্তর গোলার্ধে কোন তারিখে দিন সবচেয়ে বড় হয়?
 - ২১শে মার্চ

@@ -268,10 +268,8 @@ W.g3daynight = (el) => {
   draw();
 };
 
-/* 3.3.2 / 3.3.3 / 3.3.4 four positions of the Earth on its orbit */
-W.g3orbit = (el, lang, L) => {
-  const id = L && L.id || "3.3.4";
-  const POS = [
+/* 3.3.2 / 3.3.4 four positions of the Earth on its orbit (the data is shared with 3.3.3) */
+const g3Pos = () => [
     { k: "jun", date: L2("21 June", "২১শে জুন"), name: L2("Summer solstice (northern solstice)", "উত্তর অয়নান্ত"), dec: 23.5, x: 52, y: 92, tilt: 23.5, sun: 1,
       ray: L2("Rays fall vertically on the Tropic of Cancer (23.5° N)", "সূর্যরশ্মি কর্কটক্রান্তি রেখায় (২৩.৫° উ) লম্বভাবে পড়ে"), dn: L2("Northern hemisphere: longest day, shortest night. Southern hemisphere: the opposite. 24-hour day north of the Arctic Circle; 24-hour night south of the Antarctic Circle.", "উত্তর গোলার্ধে দীর্ঘতম দিন, ক্ষুদ্রতম রাত। দক্ষিণ গোলার্ধে উল্টো। সুমেরুবৃত্তের উত্তরে ২৪ ঘণ্টা দিন; কুমেরুবৃত্তের দক্ষিণে ২৪ ঘণ্টা রাত।"), sn: L2("Summer in the north, winter in the south", "উত্তর গোলার্ধে গ্রীষ্মকাল, দক্ষিণ গোলার্ধে শীতকাল") },
     { k: "sep", date: L2("23 September", "২৩শে সেপ্টেম্বর"), name: L2("Equinox", "বিষুব"), dec: 0, x: 180, y: 150, tilt: 0, sun: 0,
@@ -280,9 +278,10 @@ W.g3orbit = (el, lang, L) => {
       ray: L2("Rays fall vertically on the Tropic of Capricorn (23.5° S)", "সূর্যরশ্মি মকরক্রান্তি রেখায় (২৩.৫° দ) লম্বভাবে পড়ে"), dn: L2("Southern hemisphere: longest day, shortest night. Northern hemisphere: shortest day, longest night.", "দক্ষিণ গোলার্ধে দীর্ঘতম দিন, ক্ষুদ্রতম রাত। উত্তর গোলার্ধে ক্ষুদ্রতম দিন, দীর্ঘতম রাত।"), sn: L2("Winter in the north, summer in the south", "উত্তর গোলার্ধে শীতকাল, দক্ষিণ গোলার্ধে গ্রীষ্মকাল") },
     { k: "mar", date: L2("21 March", "২১শে মার্চ"), name: L2("Vernal equinox", "বাসন্ত বিষুব"), dec: 0, x: 180, y: 38, tilt: 0, sun: 0,
       ray: L2("Rays fall vertically on the equator", "সূর্যরশ্মি নিরক্ষরেখায় লম্বভাবে পড়ে"), dn: L2("Both poles are again equally far from the Sun. Day and night are equal everywhere.", "দুই মেরু আবার সূর্য থেকে সমান দূরে। সর্বত্র দিন ও রাত সমান।"), sn: L2("Spring in the north, autumn in the south", "উত্তর গোলার্ধে বসন্তকাল, দক্ষিণ গোলার্ধে শরৎকাল") }];
-  let lat = 23.5;
-  const dayLen = (la, dec) => { const v = -Math.tan(rad(la)) * Math.tan(rad(dec)); return v >= 1 ? 0 : v <= -1 ? 24 : 2 * Math.acos(v) * 180 / Math.PI / 15; };
-  el.innerHTML = `<div class="svgwrap fit"><svg viewBox="0 0 360 318" role="img" aria-label="${L2("The Earth's orbit", "পৃথিবীর কক্ষপথ")}"><g id="g3o"></g></svg></div><div id="g3o-st"></div>` + (id === "3.3.3" ? slider("g3o-la", L2("Latitude of your place", "তোমার স্থানের অক্ষাংশ"), -90, 90, 0.5, 23.5, "°") + `<div id="g3o-bar"></div>` : "") + `<div class="g-card" id="g3o-c" style="margin-top:8px"></div>`;
+W.g3orbit = (el, lang, L) => {
+  const id = L && L.id || "3.3.4";
+  const POS = g3Pos();
+  el.innerHTML = `<div class="svgwrap fit"><svg viewBox="0 0 360 318" role="img" aria-label="${L2("The Earth's orbit", "পৃথিবীর কক্ষপথ")}"><g id="g3o"></g></svg></div><div id="g3o-st"></div>` + `<div class="g-card" id="g3o-c" style="margin-top:8px"></div>`;
   const earth = (x, y, r, tiltDeg, on) => `<g transform="rotate(${tiltDeg} ${x} ${y})"><line x1="${x}" y1="${y - r - 7}" x2="${x}" y2="${y + r + 7}" stroke="var(--ink)" stroke-width="1.2"/></g><circle cx="${x}" cy="${y}" r="${r}" fill="#3f84c4" stroke="${on ? "var(--bad)" : "var(--sheet)"}" stroke-width="${on ? 2.5 : 1}"/>`;
   let cur = 0;
   const render = i => {
@@ -291,14 +290,14 @@ W.g3orbit = (el, lang, L) => {
     let h = `<ellipse cx="180" cy="94" rx="128" ry="56" fill="none" stroke="var(--rule)" stroke-width="1.5"/><circle cx="180" cy="94" r="17" fill="#f2b632"/><text x="180" y="98" font-size="12.5" text-anchor="middle" fill="#3a2a00" font-weight="700">${L2("Sun", "সূর্য")}</text>`;
     h += POS.map((q, j) => `<g data-i="${j}" style="cursor:pointer"><circle cx="${q.x}" cy="${q.y}" r="24" fill="transparent"/>${earth(q.x, q.y, 10, 23.5, j === i)}<text x="${q.x}" y="${q.y + (j === 3 ? -22 : 31)}" font-size="12.5" text-anchor="middle" fill="var(--ink)" font-weight="${j === i ? 700 : 500}">${q.date}</text></g>`).join("");
     h += `<path d="M96 138 q28 14 60 16" fill="none" stroke="var(--muted)" stroke-width="1.2"/><path d="M150 149 l8 5 l-9 4" fill="none" stroke="var(--muted)" stroke-width="1.2"/>`;
-    if (id === "3.3.2") h += `<text x="12" y="16" font-size="12.5" fill="var(--muted)">${L2("Aphelion (farthest): 1–4 July", "অপসূর (সবচেয়ে দূরে): ১-৪ জুলাই")}</text><text x="348" y="16" font-size="12.5" fill="var(--muted)" text-anchor="end">${L2("Perihelion (nearest): 1–3 January", "অনুসূর (সবচেয়ে কাছে): ১-৩ জানুয়ারি")}</text>`;
+    if (id === "3.3.2") h += `<text x="8" y="14" font-size="12.5" fill="var(--muted)"><tspan font-weight="700">${L2("Aphelion", "অপসূর")}</tspan><tspan x="8" dy="15">${L2("farthest: 1–4 July", "সবচেয়ে দূরে: ১-৪ জুলাই")}</tspan></text><text x="352" y="14" font-size="12.5" fill="var(--muted)" text-anchor="end"><tspan font-weight="700">${L2("Perihelion", "অনুসূর")}</tspan><tspan x="352" dy="15">${L2("nearest: 1–3 January", "সবচেয়ে কাছে: ১-৩ জানুয়ারি")}</tspan></text>`;
     // close-up
     const ex = 132, ey = 250, R = 46, t = p.sun * 23.5;                 // axis leans towards the Sun (right) in June, away in December, sideways at the equinoxes
     const pt = (la, side) => { const a = rad(la); const lx = side * R * Math.cos(a), ly = -R * Math.sin(a); const c = Math.cos(rad(t)), s = Math.sin(rad(t)); return [ex + lx * c - ly * s, ey + lx * s + ly * c]; };
     const lineLat = (la, col, w, dash) => { const a = pt(la, -1), b = pt(la, 1); return `<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="${col}" stroke-width="${w}" ${dash ? `stroke-dasharray="${dash}"` : ""}/>`; };
     h += `<rect x="6" y="184" width="348" height="130" rx="10" fill="#0f1a2c"/><clipPath id="g3o-clip"><circle cx="${ex}" cy="${ey}" r="${R}"/></clipPath>
       <circle cx="${ex}" cy="${ey}" r="${R}" fill="#1c2f4a"/><rect x="${ex}" y="${ey - R}" width="${R}" height="${2 * R}" fill="#7fb7e6" clip-path="url(#g3o-clip)"/>
-      <g clip-path="url(#g3o-clip)">${lineLat(0, "#fff", 1.6)}${lineLat(23.5, "#ffd27a", 1, "3 3")}${lineLat(-23.5, "#ffd27a", 1, "3 3")}${lineLat(66.5, "#cfe6ff", 1, "2 3")}${lineLat(-66.5, "#cfe6ff", 1, "2 3")}${id === "3.3.3" ? lineLat(lat, "#ff6b5e", 2.4) : ""}</g>
+      <g clip-path="url(#g3o-clip)">${lineLat(0, "#fff", 1.6)}${lineLat(23.5, "#ffd27a", 1, "3 3")}${lineLat(-23.5, "#ffd27a", 1, "3 3")}${lineLat(66.5, "#cfe6ff", 1, "2 3")}${lineLat(-66.5, "#cfe6ff", 1, "2 3")}</g>
       <g transform="rotate(${t} ${ex} ${ey})"><line x1="${ex}" y1="${ey - R - 12}" x2="${ex}" y2="${ey + R + 12}" stroke="#fff" stroke-width="1.6"/><text x="${ex}" y="${ey - R - 15}" font-size="12.5" fill="#fff" text-anchor="middle">${L2("N", "উ")}</text></g>
       <g stroke="#f2b632" stroke-width="1.8">${[-30, -10, 10, 30].map(d => `<line x1="346" y1="${ey + d}" x2="${ex + R + 14}" y2="${ey + d}"/><path d="M${ex + R + 21} ${ey + d - 4} l-8 4 l8 4" fill="none"/>`).join("")}</g>
       <circle cx="${pt(p.dec, 1)[0] + (p.sun === 0 ? 0 : 0)}" cy="${pt(p.dec, 1)[1]}" r="4" fill="#f2b632" stroke="#fff"/>
@@ -308,17 +307,76 @@ W.g3orbit = (el, lang, L) => {
     $("#g3o", el).querySelectorAll("[data-i]").forEach(g => g.addEventListener("click", () => st.go(+g.dataset.i)));
     let body = `<p>${p.ray}.</p>`;
     if (id === "3.3.2") body += `<p>${L2("The Earth goes round the Sun along an oval (elliptical) path at about 30 km every second, always leaning the same way. One full trip takes 365 days 5 hours 48 minutes 47 seconds: a solar year.", "পৃথিবী একটি উপবৃত্তাকার পথে সেকেন্ডে প্রায় ৩০ কিমি বেগে সূর্যকে ঘোরে; অক্ষ সবসময় একই দিকে হেলে থাকে। একবার ঘুরতে লাগে ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট ৪৭ সেকেন্ড: এক সৌরবছর।")}</p>`;
-    else if (id === "3.3.3") body += `<p>${p.dn}</p>`;
     else body += `<p><b>${p.sn}.</b> ${L2("Where the rays fall straight down the ground gets most heat; where they slant, the same heat is spread over more ground.", "যেখানে রশ্মি খাড়াভাবে পড়ে সেখানে তাপ বেশি; যেখানে তির্যকভাবে পড়ে, সেখানে একই তাপ বেশি জায়গায় ছড়িয়ে যায়।")}</p>`;
     $("#g3o-c", el).innerHTML = card(`${p.date}: ${p.name}`, body);
-    if (id === "3.3.3") {
-      const d = dayLen(lat, p.dec), hh = Math.floor(d), mm = Math.round((d - hh) * 60);
-      $("#g3o-la-v", el).textContent = B(Math.abs(lat)) + "° " + (lat > 0 ? L2("N", "উ") : lat < 0 ? L2("S", "দ") : "");
-      $("#g3o-bar", el).innerHTML = `<div style="display:flex;height:22px;border-radius:99px;overflow:hidden;border:1px solid var(--rule);margin:4px 0"><span style="width:${100 * d / 24}%;background:#f2c14e"></span><span style="flex:1;background:#27354f"></span></div><div class="hint">${d >= 24 ? L2("24-hour day: the Sun does not set", "২৪ ঘণ্টা দিন: সূর্য অস্ত যায় না") : d <= 0 ? L2("24-hour night: the Sun does not rise", "২৪ ঘণ্টা রাত: সূর্য ওঠে না") : L2(`Day about ${hh} h ${mm} min, night about ${23 - hh + (mm ? 0 : 1)} h ${mm ? 60 - mm : 0} min (calculated from the geometry; the red line in the picture is your latitude)`, `দিন প্রায় ${B(hh)} ঘণ্টা ${B(mm)} মিনিট, রাত প্রায় ${B(23 - hh + (mm ? 0 : 1))} ঘণ্টা ${B(mm ? 60 - mm : 0)} মিনিট (জ্যামিতি থেকে হিসাব করা; ছবির লাল রেখাটি তোমার অক্ষাংশ)`)}</div>`;
-    }
   };
   const st = stepper($("#g3o-st", el), 4, render, { ms: 3200 });
-  if (id === "3.3.3") $("#g3o-la", el).addEventListener("input", () => { lat = +$("#g3o-la", el).value; render(cur); });
+};
+
+/* 3.3.3 length of day: one place on four dates. Side view, Sun on the left, so the left half of the Earth is in daylight.
+   A place rides round its parallel once in 24 h; the part of that path on the lit side is its day. */
+W.g3daylen = (el) => {
+  const POS = g3Pos();
+  const SHORT = [L2("21 Jun", "২১ জুন"), L2("23 Sep", "২৩ সেপ্টে"), L2("22 Dec", "২২ ডিসে"), L2("21 Mar", "২১ মার্চ")];
+  const PLACES = [["dhaka", L2("Dhaka", "ঢাকা"), 24], ["eq", L2("Equator", "নিরক্ষরেখা"), 0], ["london", L2("London", "লন্ডন"), 51.5], ["arctic", L2("Arctic Circle", "সুমেরুবৃত্ত"), 66.5], ["sydney", L2("Sydney", "সিডনি"), -34]];
+  const DAYC = "#f2c14e", NIGHTC = "#9d8cf2";
+  let di = 0, lat = 24, ang = 0, run = !REDUCED;
+  // minutes of daylight from the geometry (no twilight or refraction): cos H = -tan(latitude) x tan(Sun's declination)
+  const mins = (la, dec) => { const v = -Math.tan(rad(la)) * Math.tan(rad(dec)); const d = v >= 1 ? 0 : v <= -1 ? 24 : 2 * Math.acos(v) * 180 / Math.PI / 15; return d > 23.97 ? 1440 : d < 0.03 ? 0 : Math.round(d * 60); };
+  const latTxt = la => B(Math.abs(la)) + "°" + (la > 0 ? L2(" N", " উ") : la < 0 ? L2(" S", " দ") : "");
+  const hm = (m, short) => { const h = Math.floor(m / 60), r = m % 60; return short ? L2(`${h} h${r ? ` ${r} m` : ""}`, `${B(h)} ঘ${r ? ` ${B(r)} মি` : ""}`) : L2(`${h} h${r ? ` ${r} min` : ""}`, `${B(h)} ঘণ্টা${r ? ` ${B(r)} মিনিট` : ""}`); };
+  const cx = 186, cy = 142, R = 86;
+  // a point at latitude la whose hour angle has cosine c (c = 1 at noon, -1 at midnight), projected on the picture
+  const P = (la, c, dec) => { const f = rad(la), d = rad(dec); return [cx + R * (-Math.sin(f) * Math.sin(d) - Math.cos(f) * c * Math.cos(d)), cy - R * (Math.sin(f) * Math.cos(d) - Math.cos(f) * c * Math.sin(d))]; };
+  el.innerHTML = `<p class="hint" style="margin:0 0 4px"><b>${L2("1.", "১.")}</b> ${L2("Choose a date", "একটি তারিখ বেছে নাও")}</p>` + chipHtml("g3l-d", POS.map((p, i) => [i, p.date]), 0) +
+    `<div class="svgwrap fit" style="margin-top:8px"><svg viewBox="0 0 360 266" role="img" aria-label="${L2("Day and night on the tilted Earth", "হেলানো পৃথিবীতে দিন ও রাত")}"><g id="g3l-g"></g><circle id="g3l-dot" r="6.5" fill="#e0483a" stroke="#fff" stroke-width="2"/></svg></div>` +
+    legend([[DAYC, L2("path of the place in daylight", "স্থানটির পথ: দিনের অংশ")], [NIGHTC, L2("path in the night", "রাতের অংশ")], ["#e0483a", L2("the place", "স্থানটি")]]) +
+    `<div class="g-card" id="g3l-r" style="margin-top:8px"></div>
+    <p class="hint" style="margin:12px 0 4px"><b>${L2("2.", "২.")}</b> ${L2("Choose a place, or slide to any latitude", "একটি স্থান বেছে নাও, অথবা স্লাইডার সরিয়ে যেকোনো অক্ষাংশে যাও")}</p>` + chipHtml("g3l-p", PLACES.map(([k, n, la]) => [k, `${n} ${latTxt(la)}`]), "dhaka") +
+    `<div style="margin-top:6px">${slider("g3l-la", L2("Latitude", "অক্ষাংশ"), -90, 90, 0.5, 24, "")}</div><div class="w-row"><button type="button" class="btn" id="g3l-run"></button></div>
+    <div class="g-card" id="g3l-y" style="margin-top:8px"></div><div class="g-card" id="g3l-c" style="margin-top:8px"></div>`;
+  const dot = $("#g3l-dot", el);
+  const place = () => { const [x, y] = P(lat, Math.cos(ang), POS[di].dec); dot.setAttribute("cx", x); dot.setAttribute("cy", y); dot.setAttribute("opacity", Math.sin(ang) >= 0 ? 1 : .45); };
+  const draw = () => {
+    const p = POS[di], dec = p.dec, m = mins(lat, dec);
+    const c0 = m === 1440 ? -1 : m === 0 ? 1 : Math.max(-1, Math.min(1, -Math.tan(rad(lat)) * Math.tan(rad(dec))));
+    const A = P(lat, 1, dec), T = P(lat, c0, dec), Z = P(lat, -1, dec), E1 = P(0, 1, dec), E2 = P(0, -1, dec);
+    const seg = (a, b, col) => `<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="#0f1a2c" stroke-width="8.5" stroke-linecap="round"/><line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="${col}" stroke-width="5" stroke-linecap="round"/>`;
+    const s = Math.sin(rad(dec)), c = Math.cos(rad(dec)), N = [cx - s * (R + 12), cy - c * (R + 12)], S = [cx + s * (R + 12), cy + c * (R + 12)];
+    const lean = p.sun > 0 ? L2("the North Pole leans towards the Sun", "উত্তর মেরু সূর্যের দিকে হেলে আছে") : p.sun < 0 ? L2("the North Pole leans away from the Sun", "উত্তর মেরু সূর্য থেকে দূরে হেলে আছে") : L2("neither pole leans towards the Sun", "কোনো মেরুই সূর্যের দিকে হেলে নেই");
+    $("#g3l-g", el).innerHTML = `<rect width="360" height="266" rx="10" fill="#0f1a2c"/>
+      <text x="10" y="19" font-size="12.5" fill="#fff"><tspan font-weight="700">${p.date}:</tspan> ${lean}</text>
+      <circle cx="-4" cy="${cy}" r="36" fill="#f2b632"/><text x="4" y="${cy + 4}" font-size="12.5" font-weight="700" fill="#3a2a00">${L2("Sun", "সূর্য")}</text>
+      <g stroke="#f2b632" fill="none">${[-64, -32, 0, 32, 64].map(d => `<line x1="40" y1="${cy + d}" x2="${cx - R - 12}" y2="${cy + d}" stroke-width="${d ? 1.6 : 2.6}"/><path d="M${cx - R - 20} ${cy + d - 5} l9 5 l-9 5" stroke-width="${d ? 1.6 : 2.6}"/>`).join("")}</g>
+      <text x="40" y="${cy - 7}" font-size="12" fill="#f2b632">${L2("vertical", "লম্ব রশ্মি")}</text>
+      <circle cx="${cx}" cy="${cy}" r="${R}" fill="#1c2f4a"/><path d="M${cx} ${cy - R} A${R} ${R} 0 0 0 ${cx} ${cy + R} Z" fill="#7fb7e6"/>
+      <line x1="${cx}" y1="${cy - R}" x2="${cx}" y2="${cy + R}" stroke="#fff" stroke-width="1.2" stroke-dasharray="4 4" opacity=".8"/>
+      <line x1="${E1[0]}" y1="${E1[1]}" x2="${E2[0]}" y2="${E2[1]}" stroke="#fff" stroke-width="1.4" opacity=".85"/>
+      ${Math.abs(lat) >= 12 ? `<text x="${E2[0] + 8}" y="${E2[1] + 4}" font-size="12" fill="#cfd6e6">${L2("equator", "নিরক্ষরেখা")}</text>` : ""}
+      <line x1="${N[0]}" y1="${N[1]}" x2="${S[0]}" y2="${S[1]}" stroke="#fff" stroke-width="1.8"/>
+      <text x="${N[0] + (dec > 0 ? -8 : 8)}" y="${N[1] + 3}" font-size="12" fill="#fff" text-anchor="${dec > 0 ? "end" : "start"}">${L2("N pole", "উ. মেরু")}</text>
+      <text x="${S[0] + (dec < 0 ? -8 : 8)}" y="${S[1] + 5}" font-size="12" fill="#fff" text-anchor="${dec < 0 ? "end" : "start"}">${L2("S pole", "দ. মেরু")}</text>
+      ${m > 0 ? seg(A, T, DAYC) : ""}${m < 1440 ? seg(T, Z, NIGHTC) : ""}
+      <text x="${Z[0] + 9}" y="${Z[1] + 4}" font-size="12.5" font-weight="700" fill="#fff" paint-order="stroke" stroke="#0f1a2c" stroke-width="3">${latTxt(lat) || L2("0°", "০°")}</text>
+      <text x="${cx - 14}" y="258" font-size="12.5" font-weight="700" fill="${DAYC}" text-anchor="end">${L2("DAY side", "দিনের দিক")}</text><text x="${cx + 14}" y="258" font-size="12.5" font-weight="700" fill="#cfd6e6">${L2("NIGHT side", "রাতের দিক")}</text>`;
+    place();
+    const pl = PLACES.find(q => q[2] === lat), nm = (pl ? pl[1] + ", " : "") + (lat ? latTxt(lat) : L2("0°", "০°"));
+    const verdict = m === 1440 ? L2("The Sun does not set: 24 hours of daylight.", "সূর্য অস্ত যায় না: ২৪ ঘণ্টাই দিন।") : m === 0 ? L2("The Sun does not rise: 24 hours of night.", "সূর্য ওঠে না: ২৪ ঘণ্টাই রাত।") : Math.abs(m - 720) <= 1 ? L2("Day and night are equal.", "দিন ও রাত সমান।") : m > 720 ? L2(`The day is ${hm(2 * m - 1440)} longer than the night.`, `দিন রাতের চেয়ে ${hm(2 * m - 1440)} বড়।`) : L2(`The night is ${hm(1440 - 2 * m)} longer than the day.`, `রাত দিনের চেয়ে ${hm(1440 - 2 * m)} বড়।`);
+    $("#g3l-r", el).innerHTML = `<h4>${nm} · ${p.date}</h4><div style="display:flex;justify-content:space-between;gap:8px;font-weight:700;font-size:16px"><span>${L2("Day", "দিন")} ${hm(m)}</span><span>${L2("Night", "রাত")} ${hm(1440 - m)}</span></div>
+      <div style="display:flex;height:20px;border-radius:99px;overflow:hidden;border:1px solid var(--rule);margin:6px 0"><span style="width:${m / 14.4}%;background:${DAYC}"></span><span style="flex:1;background:#27354f"></span></div><p style="margin:0">${verdict}</p>`;
+    const all = POS.map(q => mins(lat, q.dec)), mx = Math.max(...all), mn = Math.min(...all);
+    const year = mx - mn <= 2 ? L2("Here day and night stay about 12 hours each all year.", "এখানে সারা বছর দিন ও রাত প্রায় ১২ ঘণ্টা করে থাকে।") : L2(`Longest day on ${POS[all.indexOf(mx)].date}, shortest on ${POS[all.indexOf(mn)].date}.`, `সবচেয়ে বড় দিন ${POS[all.indexOf(mx)].date}, সবচেয়ে ছোট দিন ${POS[all.indexOf(mn)].date}।`);
+    $("#g3l-y", el).innerHTML = `<h4>${L2("The same place on all four dates", "একই স্থানে চার তারিখের দিন")}</h4><div class="g-bars">${all.map((v, i) => `<div class="row" style="${i === di ? "font-weight:700" : ""}"><span>${SHORT[i]}</span><span class="trk" style="background:#27354f"><i style="width:${v / 14.4}%;background:${DAYC};border-radius:0"></i></span><span class="val" style="${i === di ? "color:var(--ink)" : ""}">${hm(v, true)}</span></div>`).join("")}</div><p style="margin:8px 0 0">${year}</p><p class="hint" style="margin:6px 0 0">${L2("Hours are worked out from the geometry of the picture. Real days are a few minutes longer, because the air bends the sunlight a little.", "ঘণ্টার হিসাব ছবির জ্যামিতি থেকে করা। বায়ুমণ্ডল সূর্যের আলোকে সামান্য বাঁকায় বলে আসল দিন কয়েক মিনিট বেশি লম্বা হয়।")}</p>`;
+    $("#g3l-c", el).innerHTML = card(`${p.date}: ${p.name}`, `<p>${p.ray}.</p><p>${p.dn}</p>`);
+    $("#g3l-la-v", el).textContent = latTxt(lat) || L2("0°", "০°");
+    $("#g3l-run", el).textContent = run ? L2("❚❚ Stop the turning", "❚❚ ঘোরা থামাও") : L2("▶ Turn the Earth", "▶ পৃথিবী ঘোরাও");
+  };
+  chips(el, ".g3l-d", k => { di = +k; draw(); });
+  chips(el, ".g3l-p", k => { lat = PLACES.find(q => q[0] === k)[2]; $("#g3l-la", el).value = lat; draw(); });
+  $("#g3l-la", el).addEventListener("input", () => { lat = +$("#g3l-la", el).value; el.querySelectorAll(".g3l-p button").forEach(b => b.setAttribute("aria-pressed", PLACES.find(q => q[0] === b.dataset.k)[2] === lat)); draw(); });
+  $("#g3l-run", el).addEventListener("click", () => { run = !run; draw(); });
+  animate(el, dt => { if (run) { ang = (ang + dt * Math.PI / 5) % (2 * Math.PI); place(); } });
+  draw();
 };
 
 /* 3.4.1 the Moon pulls the sea into two bulges */
