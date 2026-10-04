@@ -1,6 +1,6 @@
 import json, re
 subjects = []
-for key in ["physics", "chemistry", "biology"]:
+for key in ["physics", "chemistry", "biology", "bgs"]:
     subj = None; ch = None; tp = None
     for raw in open(f"map/{key}.txt", encoding="utf-8"):
         line = raw.rstrip("\n")
@@ -12,8 +12,10 @@ for key in ["physics", "chemistry", "biology"]:
             subj = {"key": k, "en": en, "bn": bn, "chapters": []}
             subjects.append(subj)
         elif tag == "C":
-            n, en, bn, pages = rest.split("|")
+            parts = rest.split("|")   # n|English|Bangla|pages[|pages in the Bangla edition]
+            n, en, bn, pages = parts[:4]
             ch = {"n": int(n), "en": en, "bn": bn, "pages": pages, "topics": [], "notes": []}
+            if len(parts) > 4: ch["pagesBn"] = parts[4]
             subj["chapters"].append(ch); tp = None
         elif tag == "T":
             parts = rest.split("|")

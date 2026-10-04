@@ -1,0 +1,1593 @@
+@@chapter
+== en
+## intro
+Bangladesh is a land of rivers. They come down from the Himalayas and the hills of India, wind across the country and keep it alive. Today there are 1,008 rivers, large and small, with a total length of 22,155 km. Some have already vanished from the map and others are dying.
+
+Rivers are our chief resource, but not the only one: there are also soil, forests, farmland, fish, minerals and sunlight. In this chapter you will follow the main rivers from source to sea, see how people and rivers depend on each other, learn why some regions run short of water and what can be done, and then study the natural resources of Bangladesh and how to use and protect them.
+## objectives
+- describe the sources and courses of the main rivers: Padma, Brahmaputra, Jamuna, Meghna, Karnaphuli, Tista, Pasur, Sangu, Feni, Naf and Matamuhuri
+- explain how rivers and human settlement depend on each other
+- explain the causes of water shortage in parts of Bangladesh, the problems it creates and ways to solve them
+- explain the role of waterways in transport, hydroelectricity and trade
+- explain what natural resources are and compare those of Bangladesh with India, Myanmar and Nepal
+- explain water resource management and why it matters for water and food security
+- describe the kinds of forest in Bangladesh
+- explain the importance of natural resources in the economy and how to conserve them
+== bn
+## intro
+বাংলাদেশ নদীমাতৃক দেশ। হিমালয় ও ভারতের পাহাড়ি অঞ্চল থেকে নেমে আসা নদীগুলো আঁকাবাঁকা পথে সারা দেশে ছড়িয়ে পড়ে দেশটিকে বাঁচিয়ে রেখেছে। বর্তমানে ছোট-বড় মিলিয়ে নদ-নদী ১,০০৮টি, মোট দৈর্ঘ্য ২২,১৫৫ কিমি। কিছু নদী মানচিত্র থেকে হারিয়ে গেছে, কিছু হারিয়ে যাওয়ার পথে।
+
+নদী আমাদের প্রধান সম্পদ, তবে একমাত্র নয়: আছে মাটি, বনভূমি, কৃষিজমি, মাছ, খনিজ ও সূর্যের আলো। এই অধ্যায়ে তুমি প্রধান নদীগুলোকে উৎস থেকে সাগর পর্যন্ত অনুসরণ করবে, দেখবে মানুষ ও নদী কীভাবে একে অন্যের ওপর নির্ভরশীল, জানবে কোনো কোনো অঞ্চলে পানির অভাব কেন হয় ও তার সমাধান কী; তারপর পড়বে বাংলাদেশের প্রাকৃতিক সম্পদ এবং তা ব্যবহার ও সংরক্ষণের উপায়।
+## objectives
+- প্রধান নদ-নদীর (পদ্মা, ব্রহ্মপুত্র, যমুনা, মেঘনা, কর্ণফুলী, তিস্তা, পশুর, সাঙ্গু, ফেনী, নাফ ও মাতামুহুরী) উৎপত্তিস্থল ও প্রবাহপথ বর্ণনা করতে পারবে
+- নদ-নদী ও জনবসতির পারস্পরিক নির্ভরশীলতা ব্যাখ্যা করতে পারবে
+- বাংলাদেশের কোনো কোনো অঞ্চলে পানির অভাবের কারণ, সৃষ্ট সমস্যা ও সমাধানের উপায় ব্যাখ্যা করতে পারবে
+- যাতায়াত, জলবিদ্যুৎ ও বাণিজ্যে নদীপথের ভূমিকা ব্যাখ্যা করতে পারবে
+- প্রাকৃতিক সম্পদ কী তা ব্যাখ্যা করতে এবং ভারত, মিয়ানমার ও নেপালের সাথে তুলনা করতে পারবে
+- পানিসম্পদ ব্যবস্থাপনা এবং পানি ও খাদ্য নিরাপত্তায় এর গুরুত্ব ব্যাখ্যা করতে পারবে
+- বাংলাদেশের বনভূমির শ্রেণিবিভাগ বর্ণনা করতে পারবে
+- অর্থনীতিতে প্রাকৃতিক সম্পদের গুরুত্ব ও সংরক্ষণের উপায় ব্যাখ্যা করতে পারবে
+
+@@ 5.1.1
+@visual g5rivers
+@related 5.1.2 5.1.3 4.1.2
+== en
+## what
+The three greatest rivers of Bangladesh are the **Padma**, the **Brahmaputra–Jamuna** and the **Meghna**. They rise far outside the country, join one another inside it, and finally reach the Bay of Bengal as one mighty stream.
+## visual
+Choose a river. Its line is drawn boldly on the map, numbered points mark the key places on its way, and the list below gives its route step by step from source to sea.
+## simple
+Think of three long roads that start in different countries and meet at two junctions. The Padma comes from the west and the Jamuna from the north; they meet near Goalanda. The Meghna comes from the north-east and joins them at Chandpur. From there all the water travels together to the sea.
+
+Rivers that flow in and add water are called tributaries. Rivers that branch off and carry water away are called distributaries. Both names appear again and again in this lesson.
+## points
+1. **How many rivers:** Bangladesh now has 1,008 rivers, with a total length of 22,155 km.
+2. **Where they come from:** most of our well-known rivers rise in the Himalayas, Tibet, the Barak region of Assam or the Lushai hills. In the end they all reach the Bay of Bengal.
+3. **Padma, the source:** in India it is the Ganges. It rises from the Gangotri glacier in the central Himalayas and crosses several states of northern India.
+4. **Padma, in Bangladesh:** it enters through Chapainawabganj district of the Rajshahi region and takes the name Padma. Near Goalanda it meets the Jamuna, and at Chandpur it meets the Meghna. The joined river flows past Barishal and Noakhali into the Bay of Bengal.
+5. **Padma, the branches:** many distributaries leave the lower Ganges, from west to east: Bhagirathi, Hooghly, Mathabhanga, Ichamati, Bhairab, Kumar, Kapotaksha, Nabaganga, Chitra, Madhumati, Arial Khan. The area washed by the Ganges–Padma in Bangladesh is 34,188 sq km.
+6. **Brahmaputra, the source:** it rises near Lake Manas Sarovar in Tibet, flows through Assam and enters Bangladesh in Kurigram district.
+7. **Birth of the Jamuna:** the main stream of the Brahmaputra once flowed through Mymensingh towards the south-east. The earthquake of 1787 raised its bed, the water could no longer be held, and a new channel formed. That new stream is the Jamuna, which runs south to Goalanda.
+8. **Jamuna's family:** the Dharla and the Tista are tributaries of the Brahmaputra; the Karatoa and the Atrai are tributaries of the Jamuna. The Dhaleshwari is a distributary of the Jamuna, and the Buriganga is a distributary of the Dhaleshwari.
+9. **Meghna, the source:** the Barak river of Assam rises in the Naga–Manipur hills and comes into Sylhet as two rivers, the Surma and the Kushiyara. They join again near Ajmiriganj, flow south-west as the Kalni, and then take the name Meghna.
+10. **Meghna, the route:** it passes Bhairab Bazar and meets the Old Brahmaputra. Near Munshiganj the joined waters of the Buriganga, the Dhaleshwari and the Shitalakshya flow into it. Near Chandpur it meets the Padma and forms a very wide estuary before falling into the Bay of Bengal. The Manu, Titas, Gumti and Baulai belong to the Meghna system.
+
+| | Padma | Brahmaputra–Jamuna | Meghna |
+| Source | Gangotri glacier, central Himalayas | Manas Sarovar, Tibet | Barak river, Naga–Manipur hills |
+| Enters Bangladesh | Chapainawabganj | Kurigram | Sylhet (as Surma and Kushiyara) |
+| Meets | Jamuna near Goalanda; Meghna at Chandpur | Padma near Goalanda | Old Brahmaputra near Bhairab Bazar; Padma near Chandpur |
+| Figures | 34,188 sq km washed in Bangladesh | 2,897 km long; basin 5,80,160 sq km, of which 44,030 sq km in Bangladesh | forms a wide estuary |
+
+> A small note: the textbook places Ajmiriganj in Sunamganj district. Today Ajmiriganj is an upazila of Habiganj district.
+## definition
+**Tributary:** a river that flows into a larger river and adds its water to it.
+
+**Distributary:** a river that branches off from a main river and carries part of its water away.
+
+**Confluence:** the place where two rivers meet.
+
+**Estuary:** the wide mouth of a river where it meets the sea.
+## matters
+- These three rivers and their branches built the floodplain and delta on which most of us live.
+- Their silt renews the soil every rainy season; their water gives irrigation, fish and transport.
+- Because they rise in other countries, what happens upstream affects us directly.
+## terms
+Tributary (উপনদী) | A river that joins a larger river
+Distributary (শাখা নদী) | A river that branches off from a main river
+Confluence (সঙ্গমস্থল) | The meeting place of two rivers
+Glacier (হিমবাহ) | A slowly moving river of ice in high mountains
+Basin (অববাহিকা) | The whole area drained by a river and its branches
+## facts
+Rivers in Bangladesh | 1,008; total length 22,155 km
+Source of the Padma (Ganges) | Gangotri glacier
+Source of the Brahmaputra | Manas Sarovar, Tibet
+Source of the Meghna | Barak river, Naga–Manipur hills
+Padma meets the Jamuna | near Goalanda
+Padma meets the Meghna | at Chandpur
+Jamuna was formed | after the earthquake of 1787
+Length of the Brahmaputra | 2,897 km
+## mistakes
+x The Jamuna and the Brahmaputra are two unrelated rivers.
+v The Jamuna is the present main stream of the Brahmaputra, formed after 1787. The old channel through Mymensingh is the Old Brahmaputra.
+x The Buriganga is a tributary of the Padma.
+v The Buriganga is a distributary of the Dhaleshwari, which is itself a distributary of the Jamuna.
+## remember
+- 1,008 rivers; 22,155 km; all end in the Bay of Bengal.
+- Padma: Gangotri glacier → Chapainawabganj → meets Jamuna near Goalanda → meets Meghna at Chandpur.
+- Brahmaputra: Manas Sarovar → Assam → Kurigram; after the 1787 earthquake its main stream became the Jamuna.
+- Meghna: Barak → Surma and Kushiyara → Kalni → Meghna → Bhairab Bazar → Chandpur.
+- Tributary flows in; distributary branches off.
+## think
+The water of the Buriganga beside Dhaka has come a very long way. Trace it backwards: from which river does the Buriganga branch, from which river does that one branch, and where did the water first begin?
+## quiz
+? Where does the Padma meet the Jamuna?
+- At Chandpur
+* Near Goalanda
+- At Bhairab Bazar
+- At Kurigram
+= The Padma meets the Jamuna near Goalanda, and then meets the Meghna at Chandpur.
+? The river Jamuna was formed after
+- the flood of 1998
+- the cyclone of 1991
+* the earthquake of 1787
+- the building of the Farakka barrage
+= The earthquake of 1787 raised the bed of the Brahmaputra, and a new channel, the Jamuna, was formed.
+? The Meghna is formed by the joining of which two rivers?
+- Padma and Jamuna
+- Dharla and Tista
+- Karatoa and Atrai
+* Surma and Kushiyara
+= The Barak enters Sylhet as the Surma and the Kushiyara; their joined stream becomes the Meghna.
+== bn
+## what
+বাংলাদেশের সবচেয়ে বড় তিন নদী **পদ্মা**, **ব্রহ্মপুত্র-যমুনা** ও **মেঘনা**। এদের উৎপত্তি দেশের অনেক বাইরে, দেশের ভেতরে এরা একে অন্যের সাথে মিলেছে, আর শেষে একটি বিশাল ধারা হয়ে বঙ্গোপসাগরে পড়েছে।
+## visual
+একটি নদী বেছে নাও। মানচিত্রে তার রেখা মোটা করে দেখানো হবে, নম্বর দেওয়া বিন্দুতে পথের গুরুত্বপূর্ণ স্থান, আর নিচের তালিকায় উৎস থেকে সাগর পর্যন্ত গতিপথ ধাপে ধাপে।
+## simple
+তিনটি লম্বা রাস্তার কথা ভাবো, যা ভিন্ন ভিন্ন দেশ থেকে শুরু হয়ে দুটি মোড়ে এসে মিলেছে। পদ্মা আসে পশ্চিম থেকে, যমুনা উত্তর থেকে; এরা মেলে গোয়ালন্দের কাছে। মেঘনা আসে উত্তর-পূর্ব থেকে, চাঁদপুরে এসে এদের সাথে যোগ দেয়। সেখান থেকে সব পানি একসাথে সাগরে যায়।
+
+যে নদী এসে মিশে পানি বাড়ায় তাকে উপনদী বলে। যে নদী মূল নদী থেকে বেরিয়ে পানি নিয়ে চলে যায় তাকে শাখা নদী বলে। এই পাঠে দুটি নামই বারবার আসবে।
+## points
+1. **নদীর সংখ্যা:** বাংলাদেশে বর্তমানে ১,০০৮টি নদ-নদী আছে; মোট দৈর্ঘ্য ২২,১৫৫ কিমি।
+2. **কোথা থেকে আসে:** আমাদের পরিচিত বেশির ভাগ নদীর উৎপত্তি হিমালয়, তিব্বত, আসামের বরাক ও লুসাই পাহাড়ে। শেষ পর্যন্ত সবই বঙ্গোপসাগরে মিলেছে।
+3. **পদ্মা, উৎস:** ভারতে এর নাম গঙ্গা। মধ্য হিমালয়ের গাঙ্গোত্রী হিমবাহে উৎপত্তি হয়ে উত্তর ভারতের কয়েকটি রাজ্য অতিক্রম করেছে।
+4. **পদ্মা, বাংলাদেশে:** রাজশাহী অঞ্চলের চাঁপাইনবাবগঞ্জ জেলা দিয়ে পদ্মা নামে বাংলাদেশে প্রবেশ করেছে। গোয়ালন্দের কাছে যমুনার সাথে এবং চাঁদপুরে মেঘনার সাথে মিলেছে। মিলিত ধারা বরিশাল ও নোয়াখালী অতিক্রম করে বঙ্গোপসাগরে পড়েছে।
+5. **পদ্মা, শাখা নদী:** পশ্চিম থেকে পূর্বে নিম্নগঙ্গার অসংখ্য শাখা নদীর মধ্যে উল্লেখযোগ্য: ভাগীরথী, হুগলি, মাথাভাঙ্গা, ইছামতী, ভৈরব, কুমার, কপোতাক্ষ, নবগঙ্গা, চিত্রা, মধুমতী, আড়িয়াল খাঁ। বাংলাদেশে গঙ্গা-পদ্মা বিধৌত অঞ্চলের আয়তন ৩৪,১৮৮ বর্গ কিমি।
+6. **ব্রহ্মপুত্র, উৎস:** তিব্বতের মানস সরোবরের কাছে উৎপত্তি; আসাম হয়ে কুড়িগ্রাম জেলা দিয়ে বাংলাদেশে প্রবেশ করেছে।
+7. **যমুনার জন্ম:** ব্রহ্মপুত্রের প্রধান ধারা একসময় ময়মনসিংহের মধ্য দিয়ে দক্ষিণ-পূর্ব দিকে বয়ে যেত। ১৭৮৭ সালের ভূমিকম্পে এর তলদেশ উঁচু হয়ে যায়, পানি ধারণ ক্ষমতার বাইরে চলে যায়, আর নতুন একটি স্রোতধারা তৈরি হয়। এই নতুন ধারাই যমুনা, যা দক্ষিণে গোয়ালন্দ পর্যন্ত গেছে।
+8. **যমুনার পরিবার:** ধরলা ও তিস্তা ব্রহ্মপুত্রের উপনদী; করতোয়া ও আত্রাই যমুনার উপনদী। ধলেশ্বরী যমুনার শাখা নদী, আর বুড়িগঙ্গা ধলেশ্বরীর শাখা নদী।
+9. **মেঘনা, উৎস:** আসামের বরাক নদী নাগা-মণিপুর অঞ্চলে উৎপত্তি হয়ে সুরমা ও কুশিয়ারা নামে দুই ধারায় সিলেটে প্রবেশ করেছে। আজমিরিগঞ্জের কাছে এরা আবার মিলে কালনী নামে দক্ষিণ-পশ্চিমে এগিয়ে মেঘনা নাম নিয়েছে।
+10. **মেঘনা, গতিপথ:** ভৈরব বাজার অতিক্রম করে পুরাতন ব্রহ্মপুত্রের সাথে মিলেছে। মুন্সীগঞ্জের কাছে বুড়িগঙ্গা, ধলেশ্বরী ও শীতলক্ষ্যার মিলিত জলধারা এসে এতে যুক্ত হয়েছে। চাঁদপুরের কাছে পদ্মার সাথে মিলে বিস্তৃত মোহনা সৃষ্টি করে বঙ্গোপসাগরে পড়েছে। মনু, তিতাস, গোমতী ও বাউলাই মেঘনা নদী-ব্যবস্থার অংশ।
+
+| | পদ্মা | ব্রহ্মপুত্র-যমুনা | মেঘনা |
+| উৎস | গাঙ্গোত্রী হিমবাহ, মধ্য হিমালয় | মানস সরোবর, তিব্বত | বরাক নদী, নাগা-মণিপুর অঞ্চল |
+| বাংলাদেশে প্রবেশ | চাঁপাইনবাবগঞ্জ | কুড়িগ্রাম | সিলেট (সুরমা ও কুশিয়ারা নামে) |
+| মিলন | গোয়ালন্দের কাছে যমুনা; চাঁদপুরে মেঘনা | গোয়ালন্দের কাছে পদ্মা | ভৈরব বাজারের কাছে পুরাতন ব্রহ্মপুত্র; চাঁদপুরের কাছে পদ্মা |
+| সংখ্যা | বাংলাদেশে ৩৪,১৮৮ বর্গ কিমি বিধৌত অঞ্চল | দৈর্ঘ্য ২,৮৯৭ কিমি; অববাহিকা ৫,৮০,১৬০ বর্গ কিমি, তার ৪৪,০৩০ বর্গ কিমি বাংলাদেশে | বিস্তৃত মোহনা সৃষ্টি করেছে |
+
+> ছোট একটি টীকা: পাঠ্যবইয়ে আজমিরিগঞ্জকে সুনামগঞ্জ জেলায় বলা হয়েছে। বর্তমানে আজমিরিগঞ্জ হবিগঞ্জ জেলার একটি উপজেলা।
+## definition
+**উপনদী:** যে নদী বড় কোনো নদীতে এসে মিশে তার পানি বাড়ায়।
+
+**শাখা নদী:** যে নদী মূল নদী থেকে বেরিয়ে তার পানির একটি অংশ নিয়ে অন্য পথে যায়।
+
+**সঙ্গমস্থল:** যেখানে দুটি নদী মেলে।
+
+**মোহনা:** নদী যেখানে চওড়া হয়ে সাগরে মেশে।
+## matters
+- এই তিন নদী ও তাদের শাখা-প্রশাখাই সেই প্লাবন সমভূমি ও ব-দ্বীপ গড়েছে, যেখানে আমাদের বেশির ভাগ মানুষ বাস করে।
+- এদের পলি প্রতি বর্ষায় মাটিকে নতুন করে উর্বর করে; এদের পানি দেয় সেচ, মাছ ও যাতায়াতের পথ।
+- এদের উৎপত্তি অন্য দেশে, তাই উজানে যা ঘটে তার প্রভাব সরাসরি আমাদের ওপর পড়ে।
+## terms
+উপনদী (Tributary) | যে নদী বড় নদীতে এসে মেশে
+শাখা নদী (Distributary) | যে নদী মূল নদী থেকে বেরিয়ে যায়
+সঙ্গমস্থল (Confluence) | দুই নদীর মিলনস্থল
+হিমবাহ (Glacier) | উঁচু পর্বতে ধীরে চলা বরফের নদী
+অববাহিকা (Basin) | একটি নদী ও তার শাখা-উপনদী যে পুরো এলাকার পানি বয়ে নেয়
+## facts
+বাংলাদেশে নদ-নদী | ১,০০৮টি; মোট দৈর্ঘ্য ২২,১৫৫ কিমি
+পদ্মার (গঙ্গার) উৎস | গাঙ্গোত্রী হিমবাহ
+ব্রহ্মপুত্রের উৎস | মানস সরোবর, তিব্বত
+মেঘনার উৎস | বরাক নদী, নাগা-মণিপুর অঞ্চল
+পদ্মা-যমুনার মিলন | গোয়ালন্দের কাছে
+পদ্মা-মেঘনার মিলন | চাঁদপুরে
+যমুনার সৃষ্টি | ১৭৮৭ সালের ভূমিকম্পের পর
+ব্রহ্মপুত্রের দৈর্ঘ্য | ২,৮৯৭ কিমি
+## mistakes
+x যমুনা ও ব্রহ্মপুত্র দুটি সম্পর্কহীন আলাদা নদী।
+v যমুনা ব্রহ্মপুত্রেরই বর্তমান প্রধান ধারা, ১৭৮৭ সালের পর সৃষ্ট। ময়মনসিংহের মধ্য দিয়ে যাওয়া আগের ধারাটি পুরাতন ব্রহ্মপুত্র।
+x বুড়িগঙ্গা পদ্মার উপনদী।
+v বুড়িগঙ্গা ধলেশ্বরীর শাখা নদী, আর ধলেশ্বরী নিজে যমুনার শাখা নদী।
+## remember
+- ১,০০৮টি নদ-নদী; ২২,১৫৫ কিমি; সবই বঙ্গোপসাগরে পড়েছে।
+- পদ্মা: গাঙ্গোত্রী হিমবাহ → চাঁপাইনবাবগঞ্জ → গোয়ালন্দের কাছে যমুনা → চাঁদপুরে মেঘনা।
+- ব্রহ্মপুত্র: মানস সরোবর → আসাম → কুড়িগ্রাম; ১৭৮৭ সালের ভূমিকম্পের পর প্রধান ধারা যমুনা।
+- মেঘনা: বরাক → সুরমা ও কুশিয়ারা → কালনী → মেঘনা → ভৈরব বাজার → চাঁদপুর।
+- উপনদী এসে মেশে; শাখা নদী বেরিয়ে যায়।
+## think
+ঢাকার পাশের বুড়িগঙ্গার পানি অনেক দূর থেকে এসেছে। উল্টো পথে খুঁজে দেখো: বুড়িগঙ্গা কোন নদীর শাখা, সেটি আবার কোন নদীর শাখা, আর এই পানির যাত্রা প্রথম শুরু হয়েছিল কোথায়?
+## quiz
+? পদ্মা কোথায় যমুনার সাথে মিলিত হয়েছে?
+- চাঁদপুরে
+* গোয়ালন্দের কাছে
+- ভৈরব বাজারে
+- কুড়িগ্রামে
+= পদ্মা গোয়ালন্দের কাছে যমুনার সাথে, তারপর চাঁদপুরে মেঘনার সাথে মিলেছে।
+? যমুনা নদীর সৃষ্টি হয়েছে
+- ১৯৯৮ সালের বন্যার পর
+- ১৯৯১ সালের ঘূর্ণিঝড়ের পর
+* ১৭৮৭ সালের ভূমিকম্পের পর
+- ফারাক্কা বাঁধ নির্মাণের পর
+= ১৭৮৭ সালের ভূমিকম্পে ব্রহ্মপুত্রের তলদেশ উঁচু হয়ে গেলে নতুন স্রোতধারা যমুনার সৃষ্টি হয়।
+? কোন দুটি নদীর মিলিত ধারা থেকে মেঘনার সৃষ্টি?
+- পদ্মা ও যমুনা
+- ধরলা ও তিস্তা
+- করতোয়া ও আত্রাই
+* সুরমা ও কুশিয়ারা
+= বরাক নদী সুরমা ও কুশিয়ারা নামে সিলেটে প্রবেশ করে; এদের মিলিত ধারাই মেঘনা।
+
+@@ 5.1.2
+@visual g5rivers
+@related 5.1.1 5.1.5 3.4.3
+== en
+## what
+Besides the three giants, Bangladesh has other important rivers: the **Karnaphuli** of the south-east, the **Tista** of the north, the **Pasur** of the south-west, and the hill rivers **Sangu, Feni, Naf and Matamuhuri**. Each has its own source, route and use.
+## visual
+Choose one of the seven rivers. The map marks the places the textbook names on its route, and the list below follows it from source to sea. Only the largest rivers have a drawn line.
+## simple
+The great rivers cross the whole country, but these seven are regional rivers. The Tista drains the north. The Pasur is the deep channel that lets ships reach Mongla. The Karnaphuli and three smaller hill rivers come down from the eastern hills straight into the Bay of Bengal without joining the big three, and the Naf marks our border with Myanmar.
+
+Because they are shorter and steeper, the hill rivers can be dammed for electricity, as the Karnaphuli is at Kaptai.
+## points
+1. **Karnaphuli:** the main river of the south-east. It rises in the Lushai hills, is 320 km long, and falls into the Bay of Bengal very close to Chattogram city. Its main tributaries are the Kaptai, Halda, Kasalong and Rangkhiang.
+2. **Why the Karnaphuli matters:** Chattogram, the chief sea port of the country, stands on its bank, and the hydroelectric power station at Kaptai is on this river.
+3. **Tista, the route:** it rises in the hills of Sikkim, passes through Jalpaiguri and Darjeeling in India, and enters Bangladesh at Purba Chhatnai in Dimla upazila of Nilphamari district.
+4. **Tista, the change of course:** before 1787 it joined the Ganges. In the great flood of 1787 it changed its course and began to flow down an abandoned channel of the Brahmaputra. The textbook gives its present length as 177 km and its width as 300 to 550 metres.
+5. **Tista, the barrage:** the Tista plays the largest part in draining the north of the country. The Tista barrage was built in 1997–1998 for storing water, drainage, irrigation and flood control, but for various reasons Bangladesh has not yet had its full benefit.
+6. **Pasur:** south of Khulna the Bhairab, or Rupsha, flows on southwards, passes the islands of Trikona and Dubla, runs south of Mongla port through the Sundarbans and falls into the Bay of Bengal. It is about 142 km long and from 460 metres to 2.5 km wide.
+7. **Why the Pasur matters:** it is so deep that sea-going ships can enter Mongla port through its mouth all year round. It is also an important part of the Khulna–Barishal waterway.
+8. **Sangu:** rises in the North Arakan hills, enters Bangladesh through Thanchi upazila of Bandarban and falls into the Bay of Bengal; 294 km long.
+9. **Feni:** rises in the hills of Tripura, enters Feni district and falls into the Bay of Bengal north of Sandwip.
+10. **Naf:** lies on the border of Bangladesh and Myanmar; its mouth is very wide; about 56 km long.
+11. **Matamuhuri:** rises in the Maivar hills of Lama and falls into the Bay of Bengal west of Chakaria in Cox's Bazar district; about 120 km long.
+
+| River | Source | Length | Known for |
+| Karnaphuli | Lushai hills | 320 km | Chattogram port; Kaptai hydroelectric station |
+| Tista | hills of Sikkim | 177 km | drainage of the north; Tista barrage |
+| Pasur | continues the Bhairab (Rupsha) south of Khulna | about 142 km | deep channel to Mongla port |
+| Sangu | North Arakan hills | 294 km | enters at Thanchi, Bandarban |
+| Feni | hills of Tripura | (not given) | falls into the sea north of Sandwip |
+| Naf | (border river) | about 56 km | Bangladesh–Myanmar border; wide mouth |
+| Matamuhuri | Maivar hills, Lama | about 120 km | falls into the sea west of Chakaria |
+
+> The two editions of the textbook give the greatest width of the Pasur slightly differently (2.5 km in the Bangla book, 2.4 km in the English one).
+## definition
+**Barrage:** a low dam with gates built across a river to hold back and turn its water for irrigation.
+
+**Hydroelectric station:** a place where electricity is made from the force of falling river water.
+## matters
+- Both sea ports of the country depend on these rivers: Chattogram on the Karnaphuli and Mongla on the Pasur.
+- The Tista decides whether the fields of the north have water in the dry season.
+- All of them are under threat: blocking the flow, dumping industrial and ship waste, joining sewers to rivers and grabbing river land are making rivers weak, dirty and shallow.
+## terms
+Barrage (ব্যারেজ) | A gated dam across a river for irrigation
+Hill river (পাহাড়ি নদী) | A short, fast river that comes down from hills
+Navigability (নাব্যতা) | Enough depth of water for boats and ships
+Upazila (উপজেলা) | An administrative unit below the district
+## facts
+Karnaphuli | rises in the Lushai hills; 320 km
+Tributaries of the Karnaphuli | Kaptai, Halda, Kasalong, Rangkhiang
+Tista enters Bangladesh at | Dimla upazila, Nilphamari
+Tista changed its course | in the flood of 1787
+Tista barrage built | 1997–1998
+Pasur | about 142 km; 460 m to 2.5 km wide
+Sangu | 294 km; enters at Thanchi, Bandarban
+Naf | about 56 km; on the Myanmar border
+Matamuhuri | about 120 km; rises in the Maivar hills of Lama
+## mistakes
+x The Karnaphuli is a branch of the Meghna.
+v The Karnaphuli is a separate river. It rises in the Lushai hills and reaches the sea on its own near Chattogram.
+x Ships reach Mongla port by the Padma.
+v They come in from the sea by the deep Pasur river.
+## remember
+- Karnaphuli: Lushai hills; 320 km; Chattogram port and Kaptai power station.
+- Tista: Sikkim → Jalpaiguri and Darjeeling → Dimla (Nilphamari); changed course in 1787; barrage 1997–98.
+- Pasur: from the Bhairab/Rupsha through the Sundarbans; about 142 km; deep enough for ships to Mongla all year.
+- Sangu 294 km (Thanchi); Feni from Tripura; Naf 56 km (Myanmar border); Matamuhuri 120 km (Lama to Chakaria).
+- Our rivers are being weakened by obstruction, waste and encroachment; everyone must help protect them.
+## think
+Chattogram and Mongla are both sea ports, yet neither stands on the open sea coast. Why is a deep river mouth a better place for a port than an open beach?
+## quiz
+? On the bank of which river does Chattogram, the chief sea port of Bangladesh, stand?
+- Pasur
+- Sangu
+* Karnaphuli
+- Naf
+= Chattogram port is on the Karnaphuli, which rises in the Lushai hills.
+? The Tista enters Bangladesh through
+* Dimla upazila of Nilphamari
+- Thanchi upazila of Bandarban
+- Chapainawabganj
+- Kurigram
+= The Tista comes from Sikkim through Jalpaiguri and Darjeeling and enters at Dimla in Nilphamari.
+? Which river lies on the border of Bangladesh and Myanmar?
+- Feni
+- Matamuhuri
+- Sangu
+* Naf
+= The Naf, about 56 km long with a very wide mouth, marks the border with Myanmar.
+== bn
+## what
+তিন বড় নদী ছাড়াও বাংলাদেশে আরও গুরুত্বপূর্ণ নদী আছে: দক্ষিণ-পূর্বের **কর্ণফুলী**, উত্তরের **তিস্তা**, দক্ষিণ-পশ্চিমের **পশুর**, আর পাহাড়ি নদী **সাঙ্গু, ফেনী, নাফ ও মাতামুহুরী**। প্রতিটির নিজস্ব উৎস, গতিপথ ও ব্যবহার আছে।
+## visual
+সাতটি নদীর একটি বেছে নাও। মানচিত্রে বইয়ে উল্লিখিত তার পথের স্থানগুলো চিহ্নিত, আর নিচের তালিকায় উৎস থেকে সাগর পর্যন্ত গতিপথ। শুধু সবচেয়ে বড় নদীগুলোর রেখা আঁকা আছে।
+## simple
+বড় নদীগুলো পুরো দেশ পাড়ি দেয়, কিন্তু এই সাতটি আঞ্চলিক নদী। তিস্তা উত্তরাঞ্চলের পানি নিষ্কাশন করে। পশুর সেই গভীর পথ, যা দিয়ে জাহাজ মোংলায় পৌঁছায়। কর্ণফুলী ও তিনটি ছোট পাহাড়ি নদী পূর্বের পাহাড় থেকে নেমে বড় তিন নদীতে না মিশে সরাসরি বঙ্গোপসাগরে পড়েছে, আর নাফ মিয়ানমারের সাথে আমাদের সীমানা।
+
+পাহাড়ি নদীগুলো খাটো ও খরস্রোতা বলে এগুলোতে বাঁধ দিয়ে বিদ্যুৎ উৎপাদন করা যায়, যেমন কাপ্তাইয়ে কর্ণফুলীতে করা হয়েছে।
+## points
+1. **কর্ণফুলী:** দক্ষিণ-পূর্বাঞ্চলের প্রধান নদী। উৎপত্তি লুসাই পাহাড়ে, দৈর্ঘ্য ৩২০ কিমি; চট্টগ্রাম শহরের খুব কাছ দিয়ে বঙ্গোপসাগরে পড়েছে। প্রধান উপনদী কাপ্তাই, হালদা, কাসালং ও রাঙখিয়াং।
+2. **কর্ণফুলীর গুরুত্ব:** দেশের প্রধান সমুদ্রবন্দর চট্টগ্রাম এর তীরে, আর কাপ্তাই পানি বিদ্যুৎকেন্দ্র এই নদীতেই।
+3. **তিস্তা, গতিপথ:** সিকিমের পার্বত্য অঞ্চলে উৎপত্তি; ভারতের জলপাইগুড়ি ও দার্জিলিং হয়ে নীলফামারী জেলার ডিমলা উপজেলার পূর্ব ছাতনাই দিয়ে বাংলাদেশে প্রবেশ করেছে।
+4. **তিস্তা, গতিপথ পরিবর্তন:** ১৭৮৭ সালের আগে এটি গঙ্গায় মিলিত হতো। ১৭৮৭ সালের প্রবল বন্যায় গতিপথ বদলে ব্রহ্মপুত্রের একটি পরিত্যক্ত খাতে বইতে শুরু করে। পাঠ্যবই অনুসারে বর্তমান দৈর্ঘ্য ১৭৭ কিমি, প্রস্থ ৩০০ থেকে ৫৫০ মিটার।
+5. **তিস্তা, ব্যারেজ:** উত্তরাঞ্চলের পানি নিষ্কাশনে তিস্তার ভূমিকা সর্বাধিক। পানি সংরক্ষণ, নিষ্কাশন, সেচ ও বন্যা প্রতিরোধের জন্য তিস্তা ব্যারেজ প্রকল্প ১৯৯৭-১৯৯৮ সালে নির্মিত হয়, তবে নানা কারণে বাংলাদেশ এখনো এর পূর্ণ উপযোগিতা পায়নি।
+6. **পশুর:** খুলনার দক্ষিণে ভৈরব বা রূপসা নদী আরও দক্ষিণে গিয়ে ত্রিকোনা ও দুবলা দ্বীপের পাশ দিয়ে, মোংলা বন্দরের দক্ষিণে সুন্দরবনের ভেতর দিয়ে বঙ্গোপসাগরে পড়েছে। দৈর্ঘ্য প্রায় ১৪২ কিমি, প্রস্থ ৪৬০ মিটার থেকে ২.৫ কিমি।
+7. **পশুরের গুরুত্ব:** নদীটি এত গভীর যে সারা বছর সমুদ্রগামী জাহাজ এর মোহনা দিয়ে মোংলা বন্দরে ঢুকতে পারে। খুলনা-বরিশাল নৌপথেও এর গুরুত্বপূর্ণ ভূমিকা আছে।
+8. **সাঙ্গু:** উত্তর আরাকান পাহাড়ে উৎপত্তি; বান্দরবান জেলার থানচি উপজেলা দিয়ে বাংলাদেশে প্রবেশ করে বঙ্গোপসাগরে পড়েছে; দৈর্ঘ্য ২৯৪ কিমি।
+9. **ফেনী:** পার্বত্য ত্রিপুরায় উৎপত্তি; ফেনী জেলায় প্রবেশ করে সন্দ্বীপের উত্তরে বঙ্গোপসাগরে পড়েছে।
+10. **নাফ:** বাংলাদেশ-মিয়ানমার সীমান্তে অবস্থিত; মোহনা অত্যন্ত প্রশস্ত; দৈর্ঘ্য প্রায় ৫৬ কিমি।
+11. **মাতামুহুরী:** লামার মাইভার পর্বতে উৎপত্তি; কক্সবাজার জেলার চকরিয়ার পশ্চিম পাশ দিয়ে বঙ্গোপসাগরে পড়েছে; দৈর্ঘ্য প্রায় ১২০ কিমি।
+
+| নদী | উৎস | দৈর্ঘ্য | যে জন্য পরিচিত |
+| কর্ণফুলী | লুসাই পাহাড় | ৩২০ কিমি | চট্টগ্রাম বন্দর; কাপ্তাই পানি বিদ্যুৎকেন্দ্র |
+| তিস্তা | সিকিমের পার্বত্য অঞ্চল | ১৭৭ কিমি | উত্তরাঞ্চলের পানি নিষ্কাশন; তিস্তা ব্যারেজ |
+| পশুর | খুলনার দক্ষিণে ভৈরব (রূপসা) নদীর ধারাবাহিকতা | প্রায় ১৪২ কিমি | মোংলা বন্দরের গভীর নৌপথ |
+| সাঙ্গু | উত্তর আরাকান পাহাড় | ২৯৪ কিমি | বান্দরবানের থানচি দিয়ে প্রবেশ |
+| ফেনী | পার্বত্য ত্রিপুরা | (বইয়ে নেই) | সন্দ্বীপের উত্তরে সাগরে পড়েছে |
+| নাফ | (সীমান্ত নদী) | প্রায় ৫৬ কিমি | বাংলাদেশ-মিয়ানমার সীমান্ত; প্রশস্ত মোহনা |
+| মাতামুহুরী | লামার মাইভার পর্বত | প্রায় ১২০ কিমি | চকরিয়ার পশ্চিমে সাগরে পড়েছে |
+
+> পাঠ্যবইয়ের দুই সংস্করণে পশুর নদীর সর্বোচ্চ প্রস্থ সামান্য আলাদা ছাপা হয়েছে (বাংলা বইয়ে ২.৫ কিমি, ইংরেজি বইয়ে ২.৪ কিমি)।
+## definition
+**ব্যারেজ:** সেচের জন্য পানি আটকে অন্য দিকে নিতে নদীর ওপর আড়াআড়ি তৈরি কপাটযুক্ত নিচু বাঁধ।
+
+**পানি বিদ্যুৎকেন্দ্র:** যেখানে নদীর নেমে আসা পানির বেগ থেকে বিদ্যুৎ তৈরি করা হয়।
+## matters
+- দেশের দুই সমুদ্রবন্দরই এসব নদীর ওপর নির্ভরশীল: চট্টগ্রাম কর্ণফুলীর তীরে, মোংলা পশুরের তীরে।
+- শুষ্ক মৌসুমে উত্তরাঞ্চলের জমিতে পানি থাকবে কি না, তা তিস্তার ওপর নির্ভর করে।
+- সবগুলোই হুমকির মুখে: প্রবাহে বাধা, শিল্প ও জলযানের বর্জ্য ফেলা, পয়ঃনিষ্কাশন যুক্ত করা ও নদী দখলে নদীগুলো দুর্বল, দূষিত ও অগভীর হয়ে পড়ছে।
+## terms
+ব্যারেজ (Barrage) | সেচের জন্য নদীর ওপর কপাটযুক্ত বাঁধ
+পাহাড়ি নদী (Hill river) | পাহাড় থেকে নেমে আসা খাটো, খরস্রোতা নদী
+নাব্যতা (Navigability) | নৌকা ও জাহাজ চলার মতো পানির গভীরতা
+উপজেলা (Upazila) | জেলার নিচের প্রশাসনিক একক
+## facts
+কর্ণফুলী | লুসাই পাহাড়ে উৎপত্তি; ৩২০ কিমি
+কর্ণফুলীর উপনদী | কাপ্তাই, হালদা, কাসালং, রাঙখিয়াং
+তিস্তা বাংলাদেশে প্রবেশ করেছে | নীলফামারীর ডিমলা উপজেলা দিয়ে
+তিস্তার গতিপথ পরিবর্তন | ১৭৮৭ সালের বন্যায়
+তিস্তা ব্যারেজ নির্মাণ | ১৯৯৭-১৯৯৮
+পশুর | প্রায় ১৪২ কিমি; প্রস্থ ৪৬০ মিটার থেকে ২.৫ কিমি
+সাঙ্গু | ২৯৪ কিমি; বান্দরবানের থানচি দিয়ে প্রবেশ
+নাফ | প্রায় ৫৬ কিমি; মিয়ানমার সীমান্তে
+মাতামুহুরী | প্রায় ১২০ কিমি; লামার মাইভার পর্বতে উৎপত্তি
+## mistakes
+x কর্ণফুলী মেঘনার একটি শাখা।
+v কর্ণফুলী আলাদা নদী। লুসাই পাহাড়ে উৎপত্তি হয়ে চট্টগ্রামের কাছে নিজেই সাগরে পড়েছে।
+x জাহাজ পদ্মা নদী দিয়ে মোংলা বন্দরে পৌঁছায়।
+v জাহাজ সাগর থেকে গভীর পশুর নদী দিয়ে মোংলায় ঢোকে।
+## remember
+- কর্ণফুলী: লুসাই পাহাড়; ৩২০ কিমি; চট্টগ্রাম বন্দর ও কাপ্তাই বিদ্যুৎকেন্দ্র।
+- তিস্তা: সিকিম → জলপাইগুড়ি ও দার্জিলিং → ডিমলা (নীলফামারী); ১৭৮৭ সালে গতিপথ বদল; ব্যারেজ ১৯৯৭-৯৮।
+- পশুর: ভৈরব/রূপসা থেকে সুন্দরবনের ভেতর দিয়ে; প্রায় ১৪২ কিমি; সারা বছর জাহাজ মোংলায় ঢুকতে পারে।
+- সাঙ্গু ২৯৪ কিমি (থানচি); ফেনী ত্রিপুরা থেকে; নাফ ৫৬ কিমি (মিয়ানমার সীমান্ত); মাতামুহুরী ১২০ কিমি (লামা থেকে চকরিয়া)।
+- প্রবাহে বাধা, বর্জ্য ও দখলে নদী দুর্বল হচ্ছে; নদী রক্ষায় সবাইকে সচেতন হতে হবে।
+## think
+চট্টগ্রাম ও মোংলা দুটিই সমুদ্রবন্দর, অথচ কোনোটিই খোলা সমুদ্রতীরে নয়। বন্দরের জন্য খোলা সৈকতের চেয়ে গভীর নদীর মোহনা ভালো জায়গা কেন?
+## quiz
+? বাংলাদেশের প্রধান সমুদ্রবন্দর চট্টগ্রাম কোন নদীর তীরে অবস্থিত?
+- পশুর
+- সাঙ্গু
+* কর্ণফুলী
+- নাফ
+= চট্টগ্রাম বন্দর কর্ণফুলী নদীর তীরে; নদীটির উৎপত্তি লুসাই পাহাড়ে।
+? তিস্তা নদী বাংলাদেশে প্রবেশ করেছে
+* নীলফামারীর ডিমলা উপজেলা দিয়ে
+- বান্দরবানের থানচি উপজেলা দিয়ে
+- চাঁপাইনবাবগঞ্জ দিয়ে
+- কুড়িগ্রাম দিয়ে
+= তিস্তা সিকিম থেকে জলপাইগুড়ি ও দার্জিলিং হয়ে নীলফামারীর ডিমলা দিয়ে প্রবেশ করেছে।
+? বাংলাদেশ ও মিয়ানমারের সীমান্তে কোন নদী অবস্থিত?
+- ফেনী
+- মাতামুহুরী
+- সাঙ্গু
+* নাফ
+= প্রায় ৫৬ কিমি দীর্ঘ, অত্যন্ত প্রশস্ত মোহনার নাফ নদী মিয়ানমার সীমান্তে অবস্থিত।
+
+@@ 5.1.3
+@visual g5cities
+@related 5.1.1 4.1.3 5.1.4
+== en
+## what
+People and rivers depend on each other. From ancient times people have settled on river banks for water, food, farming and travel, so most of our towns stand beside rivers. In return, the life of the rivers now depends on how people treat them.
+## visual
+First see the cities and the rivers they stand on. Then choose a river project to see which districts it serves and what it gives.
+## simple
+Imagine choosing a place to build a village long ago, with no taps, no roads and no shops. You would look for drinking water, water for crops, fish to eat and an easy way to carry goods. A river bank offers all four. That is why the first villages, and later the great civilisations of the world, grew beside rivers.
+
+The same reasons still work today, with new ones added: factories need water, irrigation projects need a source, and launches and cargo boats need a route. So the link between river and settlement has only become closer.
+## points
+1. **Water for daily life:** from ancient times people settled on the flat land beside rivers, because a river assures water for everyday use.
+2. **Water for farming and fish for food:** rivers supply water for crops, and fishing goes hand in hand with farming. Rivers are a main source of food and income.
+3. **Civilisation:** rivers played a very important part in the growth of all the civilisations and settlements of the world.
+4. **Villages and towns:** by growing food, fishing, carrying goods and trading around the rivers, people built permanent villages and towns. In Bangladesh population has spread most along the river banks.
+5. **Cities on rivers:** Dhaka on the Buriganga, Chattogram on the Karnaphuli, Narayanganj on the Shitalakshya, Sylhet on the Surma and Cumilla on the Gumti.
+6. **Industry and irrigation:** mills and factories use rivers most of all, and modern irrigation projects are planned around rivers.
+7. **Transport and transit:** launches and steamers link the south of the country with the rest; goods are carried by river; river routes are also used for the transit of Indian goods, which can earn foreign currency for Bangladesh.
+8. **When rivers dry:** in the north, where rivers are drying up, crops are damaged and people's lives are under threat. Urgent action is needed to keep the rivers navigable.
+9. **Save the rivers:** to keep the life and economy of towns and villages going, all the rivers must be kept alive. Environmentalists run "Save the rivers" awareness programmes for this reason.
+
+| Project | Area served | What it gives |
+| Ganges–Kapotaksha project | wide areas of Kushtia, Jashore and Khulna | irrigation for farmland |
+| Karnaphuli multipurpose project | Chattogram region and Rangamati | 644 km of waterway, crops on 10 lakh acres, electricity from the Kaptai dam, protection from severe floods |
+| Tista barrage | Rangpur, Bogura and Dinajpur regions | irrigation water |
+| Water from the Meghna | greater Cumilla, Noakhali and Chattogram | better farming |
+
+> A project can help and harm at once. The Kaptai dam gives electricity and flood protection, but the lake behind it drowned homes and farmland, and many people of Rangamati lost their land.
+## definition
+**Settlement:** a place where people live permanently, such as a village or a town.
+
+**Irrigation project:** a planned system that brings river water to farmland.
+
+**Multipurpose project:** a river project that serves several uses at once, such as electricity, irrigation, flood control and navigation.
+## matters
+- Your own town or village very likely grew where it did because of a river, canal or beel.
+- Jobs, food security and clean water in cities all depend on living rivers.
+- If rivers die, the settlements beside them lose the reason they were built there.
+## terms
+Civilisation (সভ্যতা) | An advanced, settled way of life of a people
+River port (নদীবন্দর) | A town on a river where boats load and unload
+Transit (ট্রানজিট) | Carrying one country's goods across another country
+Navigability (নাব্যতা) | Depth of water enough for vessels to move
+## facts
+Dhaka | on the Buriganga
+Chattogram | on the Karnaphuli
+Narayanganj | on the Shitalakshya
+Sylhet | on the Surma
+Cumilla | on the Gumti
+Karnaphuli project | 644 km of waterway; 10 lakh acres of crops
+Ganges–Kapotaksha project | Kushtia, Jashore, Khulna
+## mistakes
+x Towns were built beside rivers only because the view is beautiful.
+v They were built there for water, food, farming, transport and trade.
+x Rivers only give to people; people cannot affect rivers.
+v The relation is two-way. Dams, pollution, waste and encroachment by people can weaken or kill a river.
+## remember
+- People settled on river banks for water, farming, fish and transport.
+- Most towns stand on rivers: Dhaka–Buriganga, Chattogram–Karnaphuli, Narayanganj–Shitalakshya, Sylhet–Surma, Cumilla–Gumti.
+- Projects: Ganges–Kapotaksha (Kushtia, Jashore, Khulna), Karnaphuli multipurpose (Kaptai), Tista barrage (Rangpur, Bogura, Dinajpur), Meghna water (Cumilla, Noakhali, Chattogram).
+- Rivers support farming, industry, jobs, food security and transport.
+- Where rivers dry up, crops and lives suffer: all rivers must be kept alive.
+## think
+Find out which river, canal or beel is nearest to your home. List three ways people use it, and one way people are harming it.
+## quiz
+? On the bank of which river does Dhaka stand?
+- Shitalakshya
+* Buriganga
+- Surma
+- Gumti
+= Dhaka grew on the bank of the Buriganga; Narayanganj is on the Shitalakshya.
+? Which districts get irrigation water from the Ganges–Kapotaksha project?
+- Rangpur, Bogura and Dinajpur
+- Cumilla, Noakhali and Chattogram
+* Kushtia, Jashore and Khulna
+- Sylhet, Sunamganj and Habiganj
+= The Ganges–Kapotaksha project irrigates wide areas of Kushtia, Jashore and Khulna.
+? Why did people first settle on river banks?
+- To avoid floods
+- Because the land there was hilly
+- To stay away from other people
+* Because rivers gave water, food and a way to travel
+= Rivers assured water for daily use and farming, fish for food and a route for carrying goods.
+== bn
+## what
+মানুষ ও নদী একে অন্যের ওপর নির্ভরশীল। প্রাচীনকাল থেকে মানুষ পানি, খাদ্য, কৃষি ও যাতায়াতের জন্য নদীর তীরে বসতি গড়েছে, তাই আমাদের বেশির ভাগ শহর নদীর পাড়ে। আবার নদীর বেঁচে থাকা এখন নির্ভর করছে মানুষ তার সাথে কেমন আচরণ করে তার ওপর।
+## visual
+প্রথমে শহরগুলো ও যে নদীর তীরে সেগুলো অবস্থিত তা দেখো। তারপর একটি নদী-প্রকল্প বেছে নিয়ে দেখো সেটি কোন কোন জেলায় সুবিধা দেয় এবং কী দেয়।
+## simple
+ভাবো, বহু আগে তুমি একটি গ্রাম গড়ার জায়গা বাছছ; কল নেই, রাস্তা নেই, দোকান নেই। তুমি খুঁজবে খাওয়ার পানি, ফসলের পানি, খাওয়ার মাছ আর মালপত্র বহনের সহজ পথ। নদীর তীর এই চারটিই দেয়। এ কারণেই প্রথম গ্রামগুলো, পরে পৃথিবীর বড় বড় সভ্যতা, নদীর পাশে গড়ে উঠেছে।
+
+আজও একই কারণ কাজ করে, সাথে যোগ হয়েছে নতুন কারণ: কলকারখানার পানি লাগে, সেচ প্রকল্পের উৎস লাগে, লঞ্চ ও পণ্যবাহী নৌযানের পথ লাগে। তাই নদী ও জনবসতির সম্পর্ক আরও নিবিড় হয়েছে।
+## points
+1. **প্রতিদিনের পানি:** প্রাচীন যুগ থেকে মানুষ নদ-নদীর তীরবর্তী সমতল ভূমিতে বসবাস শুরু করে, কারণ নদী থেকে প্রাত্যহিক ব্যবহারের পানি পাওয়া নিশ্চিত থাকে।
+2. **কৃষির পানি ও খাদ্যের মাছ:** নদী কৃষিকাজের পানি জোগায়, আর কৃষির পাশাপাশি মাছ শিকার ঘনিষ্ঠভাবে জড়িত। নদ-নদী মানুষের খাদ্য ও রোজগারের প্রধান উৎস।
+3. **সভ্যতা:** পৃথিবীর সব সভ্যতা ও জনবসতি গড়ে ওঠার পেছনে নদ-নদীর ভূমিকা অত্যন্ত গুরুত্বপূর্ণ ছিল।
+4. **গ্রাম ও শহর:** নদীকে কেন্দ্র করে খাদ্যোৎপাদন, মাছ শিকার, পণ্য পরিবহন ও ব্যবসা-বাণিজ্যের মাধ্যমে স্থায়ী বসতি হিসেবে গ্রাম ও শহর গড়ে উঠেছে। বাংলাদেশে জনসংখ্যার বিস্তার সবচেয়ে বেশি ঘটেছে নদীর তীরে।
+5. **নদীর তীরের শহর:** বুড়িগঙ্গার তীরে ঢাকা, কর্ণফুলীর তীরে চট্টগ্রাম, শীতলক্ষ্যার তীরে নারায়ণগঞ্জ, সুরমার তীরে সিলেট, গোমতীর তীরে কুমিল্লা।
+6. **শিল্প ও সেচ:** শিল্প-কলকারখানায় নদ-নদীর ব্যবহার সবচেয়ে বেশি, আর আধুনিক সেচ প্রকল্পও নদীকে ঘিরেই গড়ে তোলা হয়।
+7. **যাতায়াত ও ট্রানজিট:** লঞ্চ ও স্টিমার দেশের দক্ষিণাঞ্চলকে অন্য অংশের সাথে যুক্ত করে; পণ্য পরিবহনে নদীপথ ব্যবহৃত হয়; ভারতের পণ্যের ট্রানজিটেও নদীপথ ব্যবহার করা হয়, যা থেকে বাংলাদেশের বৈদেশিক মুদ্রা উপার্জনের সম্ভাবনা আছে।
+8. **নদী শুকিয়ে গেলে:** উত্তরাঞ্চলে যেখানে নদী শুকিয়ে যাচ্ছে, সেখানে ফসলের ক্ষতি হচ্ছে, জনজীবন হুমকির মুখে পড়ছে। নদীর নাব্যতা রক্ষায় জরুরি উদ্যোগ দরকার।
+9. **নদী বাঁচাও:** নগর ও গ্রামের জনজীবন এবং অর্থনীতি টিকিয়ে রাখতে হলে দেশের সব নদ-নদীকে বাঁচিয়ে রাখতে হবে। এ কারণেই পরিবেশবাদীরা "নদী বাঁচাও" জনসচেতনতামূলক কর্মসূচি পালন করছেন।
+
+| প্রকল্প | যে এলাকায় সুবিধা | কী দেয় |
+| গঙ্গা-কপোতাক্ষ পরিকল্পনা | কুষ্টিয়া, যশোর ও খুলনার বিস্তীর্ণ অঞ্চল | কৃষিজমিতে সেচ |
+| কর্ণফুলী বহুমুখী পরিকল্পনা | চট্টগ্রাম অঞ্চল ও রাঙ্গামাটি | ৬৪৪ কিমি নৌপথ, ১০ লক্ষ একর জমিতে ফসল, কাপ্তাই বাঁধ থেকে বিদ্যুৎ, ভয়াবহ বন্যা থেকে রক্ষা |
+| তিস্তা ব্যারেজ | রংপুর, বগুড়া ও দিনাজপুর অঞ্চল | সেচের পানি |
+| মেঘনা নদীর পানি | বৃহত্তর কুমিল্লা, নোয়াখালী ও চট্টগ্রাম | উন্নত চাষাবাদ |
+
+> একটি প্রকল্প একই সাথে উপকার ও ক্ষতি করতে পারে। কাপ্তাই বাঁধ বিদ্যুৎ দেয় ও বন্যা ঠেকায়, কিন্তু বাঁধের পেছনের হ্রদে ঘরবাড়ি ও কৃষিজমি ডুবে গেছে, রাঙ্গামাটির বহু মানুষ তাদের জমি হারিয়েছে।
+## definition
+**জনবসতি:** যেখানে মানুষ স্থায়ীভাবে বসবাস করে; যেমন গ্রাম বা শহর।
+
+**সেচ প্রকল্প:** নদীর পানি কৃষিজমিতে পৌঁছে দেওয়ার পরিকল্পিত ব্যবস্থা।
+
+**বহুমুখী পরিকল্পনা:** যে নদী-প্রকল্প একসাথে কয়েকটি কাজে লাগে; যেমন বিদ্যুৎ, সেচ, বন্যা নিয়ন্ত্রণ ও নৌ চলাচল।
+## matters
+- তোমার নিজের শহর বা গ্রামও খুব সম্ভব কোনো নদী, খাল বা বিলের কারণেই সেখানে গড়ে উঠেছে।
+- কর্মসংস্থান, খাদ্য নিরাপত্তা ও শহরের বিশুদ্ধ পানি সবই জীবন্ত নদীর ওপর নির্ভরশীল।
+- নদী মরে গেলে তার তীরের জনবসতি সেখানে গড়ে ওঠার কারণটিই হারায়।
+## terms
+সভ্যতা (Civilisation) | কোনো জনগোষ্ঠীর উন্নত, স্থায়ী জীবনব্যবস্থা
+নদীবন্দর (River port) | নদীর তীরের যে শহরে নৌযানে মাল ওঠানো-নামানো হয়
+ট্রানজিট (Transit) | এক দেশের পণ্য অন্য দেশের ওপর দিয়ে পরিবহন
+নাব্যতা (Navigability) | নৌযান চলার মতো পানির গভীরতা
+## facts
+ঢাকা | বুড়িগঙ্গার তীরে
+চট্টগ্রাম | কর্ণফুলীর তীরে
+নারায়ণগঞ্জ | শীতলক্ষ্যার তীরে
+সিলেট | সুরমার তীরে
+কুমিল্লা | গোমতীর তীরে
+কর্ণফুলী পরিকল্পনা | ৬৪৪ কিমি নৌপথ; ১০ লক্ষ একর জমিতে ফসল
+গঙ্গা-কপোতাক্ষ পরিকল্পনা | কুষ্টিয়া, যশোর, খুলনা
+## mistakes
+x দৃশ্য সুন্দর বলেই শুধু নদীর পাশে শহর গড়ে উঠেছে।
+v শহর গড়ে উঠেছে পানি, খাদ্য, কৃষি, যাতায়াত ও ব্যবসা-বাণিজ্যের জন্য।
+x নদী শুধু মানুষকে দেয়; মানুষ নদীর কিছু করতে পারে না।
+v সম্পর্কটি দ্বিমুখী। মানুষের দেওয়া বাঁধ, দূষণ, বর্জ্য ও দখল একটি নদীকে দুর্বল করে দিতে বা মেরে ফেলতে পারে।
+## remember
+- পানি, কৃষি, মাছ ও যাতায়াতের জন্য মানুষ নদীর তীরে বসতি গড়েছে।
+- বেশির ভাগ শহর নদীর তীরে: ঢাকা-বুড়িগঙ্গা, চট্টগ্রাম-কর্ণফুলী, নারায়ণগঞ্জ-শীতলক্ষ্যা, সিলেট-সুরমা, কুমিল্লা-গোমতী।
+- প্রকল্প: গঙ্গা-কপোতাক্ষ (কুষ্টিয়া, যশোর, খুলনা), কর্ণফুলী বহুমুখী (কাপ্তাই), তিস্তা ব্যারেজ (রংপুর, বগুড়া, দিনাজপুর), মেঘনার পানি (কুমিল্লা, নোয়াখালী, চট্টগ্রাম)।
+- নদী কৃষি, শিল্প, কর্মসংস্থান, খাদ্য নিরাপত্তা ও যাতায়াতের ভিত্তি।
+- যেখানে নদী শুকায়, সেখানে ফসল ও জনজীবন ক্ষতিগ্রস্ত হয়: সব নদীকে বাঁচিয়ে রাখতে হবে।
+## think
+তোমার বাড়ির সবচেয়ে কাছে কোন নদী, খাল বা বিল আছে খুঁজে বের করো। মানুষ সেটি কোন তিনটি কাজে ব্যবহার করে, আর কোন একটি উপায়ে তার ক্ষতি করছে, লিখে দেখো।
+## quiz
+? ঢাকা কোন নদীর তীরে অবস্থিত?
+- শীতলক্ষ্যা
+* বুড়িগঙ্গা
+- সুরমা
+- গোমতী
+= ঢাকা বুড়িগঙ্গার তীরে গড়ে উঠেছে; নারায়ণগঞ্জ শীতলক্ষ্যার তীরে।
+? গঙ্গা-কপোতাক্ষ পরিকল্পনা থেকে কোন জেলাগুলো সেচের পানি পায়?
+- রংপুর, বগুড়া ও দিনাজপুর
+- কুমিল্লা, নোয়াখালী ও চট্টগ্রাম
+* কুষ্টিয়া, যশোর ও খুলনা
+- সিলেট, সুনামগঞ্জ ও হবিগঞ্জ
+= গঙ্গা-কপোতাক্ষ পরিকল্পনা কুষ্টিয়া, যশোর ও খুলনার বিস্তীর্ণ অঞ্চলে সেচ দেয়।
+? মানুষ প্রথমে নদীর তীরে বসতি গড়েছিল কেন?
+- বন্যা এড়াতে
+- সেখানকার ভূমি পাহাড়ি বলে
+- অন্য মানুষ থেকে দূরে থাকতে
+* নদী পানি, খাদ্য ও যাতায়াতের পথ দেয় বলে
+= নদী দৈনন্দিন ব্যবহার ও কৃষির পানি, খাদ্যের মাছ এবং পণ্য বহনের পথ নিশ্চিত করে।
+
+@@ 5.1.4
+@visual g5crisis
+@related 5.1.3 5.2.2 4.2.4
+== en
+## what
+Bangladesh has countless rivers, canals, beels and haors, yet several regions are running short of water. Rivers are silting up, less water comes from upstream in the dry season, and too much is drawn out. The result harms farming, fishing, transport and people's lives.
+## visual
+Use the three buttons in order: Causes, Effects and What to do. Tap each box in the chain to read more.
+## simple
+A river is like a pipe that must stay open and must have water coming in at the top. Our rivers are in trouble on both counts. Silt settles on the bed year after year and narrows the pipe. Dams upstream and heavy pumping reduce the water coming in. Carelessly built bridges, culverts and embankments squeeze the pipe further.
+
+So in the dry season the river shrinks to a thread: boats cannot move, fields cannot be irrigated and fish disappear. Then, in the rainy season, the same shallow river cannot carry the sudden rush of water, and it bursts its banks.
+## points
+1. **Silt on the river bed:** a great deal of water comes from upstream, carrying much silt. Over many years the silt has filled up the beds of many rivers; chars rise and the flow falls.
+2. **Dead rivers:** many rivers have disappeared altogether. In the districts of the north and the south, numerous rivers are now known as dead rivers.
+3. **Too little dredging:** the silt has to be dug out from time to time, but the effort is weak, so flow and navigability have fallen. Remember, though, that very frequent dredging can harm the animals and plants of the river bed.
+4. **Dams upstream:** many of our rivers rise in India. Because several of them have been dammed there, the dry-season flow has fallen and rivers such as the Tista, the Ganges and the Kapotaksha are drying up.
+5. **Farakka:** since the Farakka barrage was built in India, the north-west of Bangladesh has faced severe problems. The Padma and all the rivers of the north have been affected, and there is an extreme shortage of water in the dry season.
+6. **Too much pumping:** large amounts of water are pumped out for irrigation and other uses, so the main river itself falls alarmingly and loses its natural flow and form.
+7. **Careless structures:** bridges, culverts and dams built anywhere without following the rules are drying up many rivers.
+8. **Effects in the dry season:** farming, trade, fishing and river transport stop. People living on the banks have to move away to find work. Fish become scarce, and lack of protein can cause malnutrition.
+9. **Effects in the rainy season:** the swollen current breaks the banks; houses are lost and families are left with nothing.
+10. **Effects on nature:** trees, gardens and greenery along the banks die without water, and people, fish, animals, birds and plants are all endangered.
+
+| Cause | Effect | Solution |
+| silt fills the river bed | less flow, chars, loss of depth | dredge rivers regularly |
+| dams upstream; Farakka | dry-season shortage in the north-west | keep the flow of water; fair sharing of common rivers |
+| heavy pumping | the main river loses its flow | use water carefully; build reservoirs |
+| careless bridges, culverts, dams | rivers dry up | do not build unnecessary structures across rivers |
+## definition
+**Water shortage:** the condition in which there is not enough water for farming, industry and daily life.
+
+**Dredging:** digging out the silt from the bed of a river to restore its depth and flow.
+
+**Dead river:** a river that has lost its flow and no longer works as a river.
+## matters
+- A region without river water loses its crops, its fish and its boats at the same time.
+- Most of our river water comes from outside the country, so sharing it fairly is a national concern.
+- The same silted river that is dry in winter floods and erodes in the rainy season.
+## terms
+Dredging (নদী খনন) | Removing silt from a river bed
+Char (চর) | A sandbank that rises in a river
+Upstream (উজান) | The direction from which a river comes
+Malnutrition (অপুষ্টি) | Poor health caused by not getting the right food
+Reservoir (জলাধার) | A place built to store water
+## facts
+Rivers drying in the dry season | Tista, Ganges (Padma), Kapotaksha
+Barrage named in the book | Farakka, in India
+Worst affected region | the north-west of Bangladesh
+Dead rivers found in | districts of the north and the south
+What to do | dredge regularly; no needless structures; keep the flow; build reservoirs
+## mistakes
+x Bangladesh has so many rivers that it can never be short of water.
+v In the dry season many regions do run short, because rivers are silted, less water comes from upstream and too much is pumped out.
+x The more often a river is dredged, the better.
+v Regular dredging is needed, but very frequent dredging can harm the animals and plants living on the river bed.
+## remember
+- Causes: silted river beds, little dredging, dams upstream (Farakka), heavy pumping, careless bridges and culverts.
+- Tista, Ganges and Kapotaksha are drying; the north-west suffers most.
+- Dry season: no navigation, crops and fishing fail, people move away, lack of protein.
+- Rainy season: banks break and homes are lost.
+- Solutions: regular dredging, no needless dams and bridges, keep the flow, build reservoirs.
+## think
+A river near a village has become so shallow that boats cannot use it in winter, but in July it floods the fields. Explain how one cause, silt, can produce both of these opposite problems.
+## quiz
+? Which is a main reason why river beds in Bangladesh have filled up?
+- Too much fishing
+* Silt carried from upstream settling on the bed
+- Too many boats
+- Heavy rain in winter
+= Rivers bring a great deal of silt from upstream; over many years it fills the bed and reduces the flow.
+? The building of which barrage in India caused severe problems in the north-west of Bangladesh?
+- Kaptai
+- Tista
+* Farakka
+- Dimla
+= After the Farakka barrage was built, the Padma and other northern rivers lost much of their dry-season flow.
+? What should be done regularly to keep the normal flow of rivers?
+- Building more culverts
+- Pumping out more water
+- Filling the banks with earth
+* Dredging the silt from the river bed
+= Regular dredging removes the silt, and unnecessary dams, bridges and culverts should not be built.
+== bn
+## what
+বাংলাদেশে অসংখ্য নদ-নদী, খাল, বিল ও হাওড় থাকার পরও বেশ কিছু অঞ্চলে পানির অভাব তীব্র হচ্ছে। নদী পলিতে ভরাট হচ্ছে, শুষ্ক মৌসুমে উজান থেকে পানি কম আসছে, আর অতিরিক্ত পানি তুলে নেওয়া হচ্ছে। এতে কৃষি, মাছ, যাতায়াত ও জনজীবন ক্ষতিগ্রস্ত হচ্ছে।
+## visual
+তিনটি বোতাম পরপর ব্যবহার করো: কারণ, প্রভাব ও সমাধান। বিস্তারিত পড়তে প্রতিটি বাক্সে চাপ দাও।
+## simple
+নদী একটি নলের মতো, যা খোলা থাকতে হবে এবং যার ওপরের মুখ দিয়ে পানি আসতে হবে। আমাদের নদীগুলো দুই দিকেই সমস্যায় আছে। বছরের পর বছর তলদেশে পলি জমে নল সরু হয়ে যাচ্ছে। উজানের বাঁধ ও অতিরিক্ত পাম্পিংয়ে আসা পানি কমছে। নিয়ম না মেনে তৈরি ব্রিজ, কালভার্ট ও বাঁধ নলটিকে আরও চেপে ধরছে।
+
+তাই শুষ্ক মৌসুমে নদী সরু সুতার মতো হয়ে যায়: নৌকা চলে না, জমিতে সেচ দেওয়া যায় না, মাছ হারিয়ে যায়। আবার বর্ষাকালে সেই অগভীর নদীই হঠাৎ আসা পানির চাপ নিতে না পেরে পাড় ভাঙে।
+## points
+1. **তলদেশে পলি:** উজান থেকে প্রচুর পানি আসে, সাথে প্রচুর পলি। দীর্ঘদিন জমে বেশ কিছু নদীর তলদেশ ভরাট হয়ে গেছে; চর পড়ে প্রবাহ কমে গেছে।
+2. **মৃত নদী:** অনেক নদ-নদী বিলুপ্ত হয়ে গেছে। উত্তরবঙ্গ ও দক্ষিণাঞ্চলের জেলাগুলোতে অসংখ্য নদী এখন মৃত নদী হিসেবে পরিচিত।
+3. **নদী খনন কম:** মাঝেমধ্যে তলদেশের পলি খনন করা দরকার, কিন্তু উদ্যোগ জোরদার নয়; ফলে প্রবাহ ও নাব্যতা কমেছে। তবে মনে রাখতে হবে, ঘন ঘন খনন নদীর তলদেশের প্রাণী ও উদ্ভিদের জন্য ক্ষতিকর হতে পারে।
+4. **উজানে বাঁধ:** আমাদের অনেক নদীর উৎপত্তি ভারতে। সেখানে বেশ কিছু নদীতে বাঁধ দেওয়ায় শুষ্ক মৌসুমে পানিপ্রবাহ কমে গেছে; তিস্তা, গঙ্গা, কপোতাক্ষের মতো নদী শুকিয়ে যাচ্ছে।
+5. **ফারাক্কা:** ভারতে ফারাক্কা বাঁধ নির্মাণের ফলে দেশের উত্তর-পশ্চিমাঞ্চল ভয়াবহ সমস্যায় পড়েছে। পদ্মাসহ উত্তরাঞ্চলের সব নদীতে নেতিবাচক প্রভাব পড়েছে; শুষ্ক মৌসুমে পানির চরম সংকট দেখা দেয়।
+6. **অতিরিক্ত পানি উত্তোলন:** সেচসহ নানা কাজে পাম্প দিয়ে প্রচুর পানি তোলার ফলে মূল নদীতেই পানি আশঙ্কাজনকভাবে কমে যায়; নদী তার স্বাভাবিক গতি ও রূপ হারায়।
+7. **অপরিকল্পিত স্থাপনা:** নিয়মনীতি না মেনে যত্রতত্র ব্রিজ, কালভার্ট ও বাঁধ নির্মাণের ফলে অনেক নদী শুকিয়ে যাচ্ছে।
+8. **শুষ্ক মৌসুমে প্রভাব:** কৃষি, বাণিজ্য, মাছ চাষ ও নৌ যাতায়াত বন্ধ হয়ে যায়। নদীর তীরের মানুষকে জীবিকার সন্ধানে অন্যত্র চলে যেতে হয়। মাছের অভাব দেখা দেয়, আমিষের অভাবে অপুষ্টি হতে পারে।
+9. **বর্ষাকালে প্রভাব:** পানিপ্রবাহের চাপে পাড় ভাঙে; মানুষ বাড়িঘর ও পৈতৃক ভিটা হারিয়ে নিঃস্ব হয়।
+10. **প্রকৃতির ওপর প্রভাব:** নদীর তীরের গাছপালা, বাগান ও সবুজ পানির অভাবে নষ্ট হয়; মানুষ, মাছ, পশুপাখি ও গাছ-তরুলতার অস্তিত্ব বিপন্ন হয়।
+
+| কারণ | প্রভাব | সমাধান |
+| পলিতে নদীর তলদেশ ভরাট | প্রবাহ কম, চর, নাব্যতা হ্রাস | নিয়মিত নদী খনন |
+| উজানে বাঁধ; ফারাক্কা | শুষ্ক মৌসুমে উত্তর-পশ্চিমাঞ্চলে পানি সংকট | পানির প্রবাহ ঠিক রাখা; অভিন্ন নদীর ন্যায্য বণ্টন |
+| পাম্পে অতিরিক্ত পানি তোলা | মূল নদী প্রবাহ হারায় | পানির সযত্ন ব্যবহার; জলাধার নির্মাণ |
+| অপরিকল্পিত ব্রিজ, কালভার্ট, বাঁধ | নদী শুকিয়ে যায় | নদীর ওপর অপ্রয়োজনীয় স্থাপনা না করা |
+## definition
+**পানির অভাব:** কৃষি, শিল্প ও দৈনন্দিন জীবনের জন্য যথেষ্ট পানি না থাকার অবস্থা।
+
+**নদী খনন (ড্রেজিং):** নদীর গভীরতা ও প্রবাহ ফিরিয়ে আনতে তলদেশের পলি খুঁড়ে সরানো।
+
+**মৃত নদী:** যে নদী তার প্রবাহ হারিয়েছে এবং আর নদী হিসেবে কাজ করে না।
+## matters
+- যে অঞ্চলে নদীর পানি থাকে না, সেখানে ফসল, মাছ ও নৌ চলাচল একসাথে হারিয়ে যায়।
+- আমাদের নদীর বেশির ভাগ পানি আসে দেশের বাইরে থেকে, তাই এর ন্যায্য ভাগ পাওয়া একটি জাতীয় বিষয়।
+- পলিতে ভরা যে নদী শীতে শুকনো থাকে, বর্ষায় সেটিই বন্যা ও ভাঙন ঘটায়।
+## terms
+নদী খনন (Dredging) | নদীর তলদেশ থেকে পলি সরানো
+চর (Char) | নদীর মধ্যে জেগে ওঠা বালুচর
+উজান (Upstream) | নদী যে দিক থেকে আসে
+অপুষ্টি (Malnutrition) | সঠিক খাদ্যের অভাবে স্বাস্থ্যহানি
+জলাধার (Reservoir) | পানি জমিয়ে রাখার জন্য তৈরি স্থান
+## facts
+শুষ্ক মৌসুমে শুকিয়ে যাচ্ছে | তিস্তা, গঙ্গা (পদ্মা), কপোতাক্ষ
+বইয়ে উল্লিখিত বাঁধ | ভারতের ফারাক্কা বাঁধ
+সবচেয়ে ক্ষতিগ্রস্ত অঞ্চল | বাংলাদেশের উত্তর-পশ্চিমাঞ্চল
+মৃত নদী বেশি | উত্তরবঙ্গ ও দক্ষিণাঞ্চলের জেলাগুলোতে
+করণীয় | নিয়মিত খনন; অপ্রয়োজনীয় স্থাপনা নয়; প্রবাহ ঠিক রাখা; জলাধার নির্মাণ
+## mistakes
+x বাংলাদেশে এত নদী যে কখনো পানির অভাব হতে পারে না।
+v শুষ্ক মৌসুমে অনেক অঞ্চলে পানির অভাব হয়, কারণ নদী পলিতে ভরাট, উজান থেকে পানি কম আসে এবং অতিরিক্ত পানি তুলে নেওয়া হয়।
+x নদী যত ঘন ঘন খনন করা যায় ততই ভালো।
+v নিয়মিত খনন দরকার, তবে খুব ঘন ঘন খনন নদীর তলদেশের প্রাণী ও উদ্ভিদের ক্ষতি করতে পারে।
+## remember
+- কারণ: তলদেশে পলি, খনন কম, উজানে বাঁধ (ফারাক্কা), অতিরিক্ত পানি উত্তোলন, অপরিকল্পিত ব্রিজ-কালভার্ট।
+- তিস্তা, গঙ্গা ও কপোতাক্ষ শুকিয়ে যাচ্ছে; সবচেয়ে ক্ষতিগ্রস্ত উত্তর-পশ্চিমাঞ্চল।
+- শুষ্ক মৌসুমে: নৌ চলাচল বন্ধ, কৃষি ও মাছের ক্ষতি, মানুষ অন্যত্র চলে যায়, আমিষের অভাব।
+- বর্ষাকালে: পাড় ভাঙে, মানুষ ঘরবাড়ি হারায়।
+- সমাধান: নিয়মিত নদী খনন, অপ্রয়োজনীয় বাঁধ-পুল নয়, প্রবাহ ঠিক রাখা, জলাধার নির্মাণ।
+## think
+একটি গ্রামের পাশের নদী এত অগভীর হয়ে গেছে যে শীতে নৌকা চলে না, অথচ জুলাই মাসে সেটিই মাঠ ডুবিয়ে দেয়। একটিমাত্র কারণ, পলি, কীভাবে এই দুই বিপরীত সমস্যা তৈরি করে, ব্যাখ্যা করো।
+## quiz
+? বাংলাদেশে নদীর তলদেশ ভরাট হওয়ার একটি প্রধান কারণ কোনটি?
+- অতিরিক্ত মাছ ধরা
+* উজান থেকে আসা পলি তলদেশে জমা হওয়া
+- অতিরিক্ত নৌকা চলাচল
+- শীতকালে ভারী বৃষ্টি
+= নদীগুলো উজান থেকে প্রচুর পলি আনে; দীর্ঘদিন জমে তলদেশ ভরাট হয় ও প্রবাহ কমে।
+? ভারতের কোন বাঁধ নির্মাণের ফলে বাংলাদেশের উত্তর-পশ্চিমাঞ্চল ভয়াবহ সমস্যায় পড়েছে?
+- কাপ্তাই
+- তিস্তা
+* ফারাক্কা
+- ডিমলা
+= ফারাক্কা বাঁধ নির্মাণের পর পদ্মাসহ উত্তরাঞ্চলের নদীগুলোতে শুষ্ক মৌসুমে প্রবাহ অনেক কমে গেছে।
+? নদীর স্বাভাবিক প্রবাহ ঠিক রাখতে নিয়মিত কী করা দরকার?
+- আরও কালভার্ট নির্মাণ
+- আরও বেশি পানি তোলা
+- পাড় মাটি দিয়ে ভরাট করা
+* নদীর তলদেশের পলি খনন
+= নিয়মিত খননে পলি সরে যায়; সাথে অপ্রয়োজনীয় বাঁধ, পুল ও কালভার্ট নির্মাণ থেকে বিরত থাকতে হবে।
+
+@@ 5.1.5
+@visual g5waterway
+@related 5.1.2 5.1.3 3.4.3
+== en
+## what
+In a land of rivers, the waterways are roads, power stations and trade routes all at once. Rivers carry lakhs of passengers and most of the country's goods, and the Karnaphuli gives us **hydroelectricity**, our cheapest electricity, made without burning any fuel.
+## visual
+Read the three figures at the top and compare the two bars for the rainy and the dry season. Then step through the pictures to see how a dam turns falling water into electricity.
+## simple
+A river is a road that nobody had to build. A boat needs no bridge, no tar and very little fuel for the load it carries, so moving heavy goods by water is cheap. That is why so much of our rice, jute, sand, cement and oil travels by river.
+
+A river coming down from hills has something else to offer: the energy of falling water. Hold the water back with a dam, let it rush down through a pipe on to the blades of a turbine, and the spinning turbine drives a generator. No fuel is burnt, and the rain refills the lake every year.
+## points
+1. **Passenger transport:** a notable share of travel in this land of rivers is by water. The Padma, Meghna, Jamuna, Karnaphuli, Surma, Kirtankhola, Karatoa, Titas, Kushiyara, Matamuhuri, Atrai, Madhumati and Gorai all play a large part in carrying passengers.
+2. **Length of waterways:** about 9,833 km in all. On 3,865 km of this, vessels can move at all times of the year.
+3. **Kinds of vessel:** boats, launches, trawlers, steamers and cargo vessels take lakhs of people to their destinations. Many consider the river route the most comfortable one.
+4. **What hydroelectricity is:** electricity produced with a turbine by using the force of the water of a river or waterfall. It is a renewable source of energy.
+5. **Kaptai:** hydroelectricity was first produced in the Pakistan period by building a dam across the Karnaphuli at Kaptai in the Chittagong Hill Tracts.
+6. **Cheapest electricity:** electricity made with oil, gas or a nuclear reactor costs much more. So producing more electricity from river water is profitable for the economy.
+7. **Limited scope:** hilly rivers of the kind needed for hydroelectricity are few in Bangladesh, so the chance to produce it is small.
+8. **Trade:** according to the textbook, 75 per cent of the country's commercial goods are carried by inland waterways. Lakhs of tonnes move by river through government and private effort, and the number of cargo vessels grows every day.
+9. **Dependable:** goods can be moved by ship and boat without trouble even in times of unrest.
+10. **Season matters:** in the rainy season most goods go by water. In the dry season the rivers lose depth and shipping on some of them becomes limited.
+11. **The way forward:** there is no substitute for water transport in developing farming, industry and fisheries. Far-sighted planning by all, public and private, is needed to make river trade thrive.
+
+| Use | Key facts |
+| Transport | 9,833 km of waterways; 3,865 km open all year; boats, launches, trawlers, steamers |
+| Hydroelectricity | made by turbine from falling water; renewable; cheapest; Kaptai dam on the Karnaphuli; few suitable hill rivers |
+| Trade | 75% of commercial goods by inland water; most in the rainy season; limited in the dry season |
+## definition
+**Hydroelectricity:** electricity produced with a turbine by using the force of river or waterfall water.
+
+**Renewable energy:** energy from a source that nature keeps renewing, so that it does not run out.
+
+**Inland waterway:** a route for boats and ships on rivers and canals inside a country.
+## formula
+$$ Share of waterways open all year = 3,865 ÷ 9,833 × 100 ≈ 39%
+! So about three-fifths of the waterways can be used only when the rivers are full.
+## example
+Q: Bangladesh has about 9,833 km of waterways, of which 3,865 km can be used all year. How many kilometres can be used only in the rainy season, and what share of the total is that?
+Given: Total waterways = 9,833 km; open all year = 3,865 km
+Formula: seasonal waterways = total − all-year waterways; share = seasonal ÷ total × 100
+Calculation: 9,833 − 3,865 = 5,968 km
+5,968 ÷ 9,833 × 100 ≈ 60.7%
+> When rivers silt up, it is this large seasonal part that is lost first.
+Answer: About 5,968 km, roughly 61% of the waterways, can be used only in the rainy season
+## matters
+- Cheap river transport keeps down the price of food and building materials for everyone.
+- Hydroelectricity burns no fuel, so it does not pollute the air.
+- Every river that loses its depth takes a road, a market route and a source of work away from the people along it.
+## terms
+Turbine (টার্বাইন) | A wheel with blades that is turned by moving water
+Generator (জেনারেটর) | A machine that produces electricity when it is turned
+Launch (লঞ্চ) | A motor vessel that carries passengers on rivers
+Cargo vessel (পণ্যবাহী জাহাজ) | A ship or boat that carries goods
+## facts
+Total length of waterways | about 9,833 km
+Open to vessels all year | 3,865 km
+Goods carried by inland water (textbook) | 75% of commercial goods
+Hydroelectric station | Kaptai, on the Karnaphuli
+First hydroelectricity produced | in the Pakistan period
+Cheapest electricity | hydroelectricity
+## mistakes
+x Hydroelectricity uses up the river's water.
+v The water only passes through the turbine and flows on. Nothing is burnt and nothing is used up, which is why it is renewable.
+x Bangladesh can build hydroelectric stations on any of its many rivers.
+v It needs fast hill rivers and high ground for a dam. Such places are few here, so the scope is small.
+## remember
+- Waterways: about 9,833 km; 3,865 km usable all year.
+- Hydroelectricity: turbine + force of falling water; renewable and cheapest.
+- Kaptai dam on the Karnaphuli; first produced in the Pakistan period; few suitable hill rivers.
+- 75% of commercial goods go by inland waterways (textbook).
+- Most goods move by river in the rainy season; the dry season limits shipping.
+## think
+A trader in Barishal has to send 200 tonnes of rice to Dhaka. Give two reasons why he might choose a cargo boat instead of trucks, and one problem he may face in the dry season.
+## quiz
+? About how long are the waterways of Bangladesh in all?
+- 3,865 km
+* 9,833 km
+- 22,155 km
+- 1,008 km
+= The waterways are about 9,833 km long; 3,865 km of this is usable all year round.
+? Hydroelectricity is called a renewable source of energy because
+- it is produced only at night
+- it needs a great deal of coal
+* the flowing water that makes it is not used up
+- it can be made anywhere
+= The water passes through the turbine and flows on; rain refills the river and lake again and again.
+? Where is hydroelectricity produced in Bangladesh?
+- At Farakka on the Padma
+- At Dimla on the Tista
+- At Mongla on the Pasur
+* At Kaptai on the Karnaphuli
+= A dam across the Karnaphuli at Kaptai, in the Chittagong Hill Tracts, produces hydroelectricity.
+== bn
+## what
+নদীমাতৃক দেশে নদীপথ একই সাথে রাস্তা, বিদ্যুৎকেন্দ্র ও বাণিজ্যপথ। নদী লক্ষ লক্ষ যাত্রী ও দেশের বেশির ভাগ পণ্য বহন করে, আর কর্ণফুলী আমাদের দেয় **জলবিদ্যুৎ**: আমাদের সবচেয়ে সস্তা বিদ্যুৎ, যা তৈরিতে কোনো জ্বালানি পোড়ে না।
+## visual
+ওপরের তিনটি সংখ্যা পড়ো এবং বর্ষা ও শুষ্ক মৌসুমের দুটি দণ্ড তুলনা করো। তারপর ছবিগুলো ধাপে ধাপে দেখো, বাঁধ কীভাবে নেমে আসা পানি থেকে বিদ্যুৎ তৈরি করে।
+## simple
+নদী এমন এক রাস্তা, যা কাউকে বানাতে হয়নি। নৌকার জন্য সেতু লাগে না, পিচ লাগে না, আর যত মাল বহন করে তার তুলনায় জ্বালানি লাগে খুব কম; তাই ভারী মালামাল পানিপথে নেওয়া সস্তা। এ কারণেই আমাদের ধান, পাট, বালু, সিমেন্ট ও তেলের এত বড় অংশ নদীপথে চলে।
+
+পাহাড় থেকে নেমে আসা নদীর আরও একটি দান আছে: নেমে আসা পানির শক্তি। বাঁধ দিয়ে পানি আটকাও, নল দিয়ে সেই পানি টার্বাইনের পাখার ওপর প্রবল বেগে ছেড়ে দাও; ঘুরন্ত টার্বাইন জেনারেটর চালাবে। কোনো জ্বালানি পোড়ে না, আর বৃষ্টি প্রতি বছর হ্রদটি আবার ভরে দেয়।
+## points
+1. **যাত্রী পরিবহন:** নদীমাতৃক এ দেশে যাতায়াতের উল্লেখযোগ্য অংশ নদীপথে। পদ্মা, মেঘনা, যমুনা, কর্ণফুলী, সুরমা, কীর্তনখোলা, করতোয়া, তিতাস, কুশিয়ারা, মাতামুহুরী, আত্রাই, মধুমতী ও গড়াই যাত্রী পরিবহনে বড় ভূমিকা রাখে।
+2. **নদীপথের দৈর্ঘ্য:** মোট প্রায় ৯,৮৩৩ কিমি। এর মধ্যে ৩,৮৬৫ কিমি পথে বছরের সবসময় নৌ চলাচল করে।
+3. **নৌযান:** নৌকা, লঞ্চ, ট্রলার, স্টিমার ও পণ্যবাহী নৌযানে লক্ষ লক্ষ মানুষ গন্তব্যে পৌঁছায়। অনেকে নদীপথকে সবচেয়ে আরামদায়ক পথ মনে করে।
+4. **জলবিদ্যুৎ কী:** নদী ও জলপ্রপাতের পানির বেগ ব্যবহার করে টার্বাইন যন্ত্রের সাহায্যে যে বিদ্যুৎ উৎপাদন করা হয়। এটি নবায়নযোগ্য শক্তিসম্পদ।
+5. **কাপ্তাই:** পার্বত্য চট্টগ্রামের কাপ্তাইয়ে কর্ণফুলী নদীর গতিপথে বাঁধ দিয়ে পাকিস্তান আমলে প্রথম জলবিদ্যুৎ উৎপাদন শুরু হয়।
+6. **সবচেয়ে কম খরচ:** তেল, গ্যাস বা পারমাণবিক চুল্লি দিয়ে উৎপাদিত বিদ্যুতের খরচ অনেক বেশি। তাই নদীর পানি ব্যবহার করে বিদ্যুৎ উৎপাদন বাড়ানো অর্থনীতির জন্য লাভজনক।
+7. **সুযোগ সীমিত:** জলবিদ্যুতের উপযোগী পাহাড়ি নদী বাংলাদেশে বেশি নেই, তাই উৎপাদনের সুযোগ কম।
+8. **বাণিজ্য:** পাঠ্যবই অনুসারে দেশের মোট বাণিজ্যিক মালামালের ৭৫ শতাংশ অভ্যন্তরীণ নৌপথে আনা-নেওয়া হয়। সরকারি ও বেসরকারি উদ্যোগে লক্ষ লক্ষ টন মাল নদীপথে চলে; পণ্যবাহী জাহাজের সংখ্যা দিন দিন বাড়ছে।
+9. **নির্ভরযোগ্য:** অস্থিতিশীল সময়েও জাহাজ ও নৌযানে নির্বিঘ্নে পণ্য পরিবহন করা যায়।
+10. **ঋতুর প্রভাব:** বর্ষাকালে বেশির ভাগ পণ্য নৌপথে চলে। শুষ্ক মৌসুমে নদীর নাব্যতা কমে যাওয়ায় কোনো কোনো নদীতে জাহাজ চলাচল সীমিত হয়ে আসে।
+11. **সামনের পথ:** কৃষি, শিল্প ও মৎস্যসম্পদের বিকাশে নৌপরিবহনের বিকল্প নেই। নৌ বাণিজ্যকে গতিশীল করতে সরকারি-বেসরকারি সবার সুদূরপ্রসারী পরিকল্পনা দরকার।
+
+| ব্যবহার | মূল তথ্য |
+| যাতায়াত | ৯,৮৩৩ কিমি নদীপথ; ৩,৮৬৫ কিমি সারা বছর খোলা; নৌকা, লঞ্চ, ট্রলার, স্টিমার |
+| জলবিদ্যুৎ | নেমে আসা পানির বেগে টার্বাইন ঘুরিয়ে তৈরি; নবায়নযোগ্য; সবচেয়ে সস্তা; কর্ণফুলীতে কাপ্তাই বাঁধ; উপযোগী পাহাড়ি নদী কম |
+| বাণিজ্য | বাণিজ্যিক মালামালের ৭৫% অভ্যন্তরীণ নৌপথে; বর্ষাকালে বেশি; শুষ্ক মৌসুমে সীমিত |
+## definition
+**জলবিদ্যুৎ:** নদী বা জলপ্রপাতের পানির বেগ ব্যবহার করে টার্বাইনের সাহায্যে উৎপাদিত বিদ্যুৎ।
+
+**নবায়নযোগ্য শক্তি:** এমন উৎসের শক্তি যা প্রকৃতি বারবার নতুন করে জোগায়, তাই ফুরিয়ে যায় না।
+
+**অভ্যন্তরীণ নৌপথ:** দেশের ভেতরে নদী ও খাল দিয়ে নৌযান চলাচলের পথ।
+## formula
+$$ সারা বছর খোলা নদীপথের অংশ = ৩,৮৬৫ ÷ ৯,৮৩৩ × ১০০ ≈ ৩৯%
+! অর্থাৎ নদীপথের প্রায় পাঁচ ভাগের তিন ভাগ শুধু নদী ভরা থাকলে ব্যবহার করা যায়।
+## example
+Q: বাংলাদেশে নদীপথ প্রায় ৯,৮৩৩ কিমি, যার ৩,৮৬৫ কিমি সারা বছর ব্যবহার করা যায়। কত কিলোমিটার শুধু বর্ষাকালে ব্যবহার করা যায়, আর তা মোটের কত অংশ?
+Given: মোট নদীপথ = ৯,৮৩৩ কিমি; সারা বছর খোলা = ৩,৮৬৫ কিমি
+Formula: মৌসুমি নদীপথ = মোট − সারা বছরের নদীপথ; অংশ = মৌসুমি ÷ মোট × ১০০
+Calculation: ৯,৮৩৩ − ৩,৮৬৫ = ৫,৯৬৮ কিমি
+৫,৯৬৮ ÷ ৯,৮৩৩ × ১০০ ≈ ৬০.৭%
+> নদী পলিতে ভরাট হলে এই বড় মৌসুমি অংশটিই সবার আগে হারিয়ে যায়।
+Answer: প্রায় ৫,৯৬৮ কিমি, অর্থাৎ নদীপথের প্রায় ৬১%, শুধু বর্ষাকালে ব্যবহার করা যায়
+## matters
+- সস্তা নৌপরিবহন সবার জন্য খাদ্য ও নির্মাণসামগ্রীর দাম কম রাখে।
+- জলবিদ্যুতে কোনো জ্বালানি পোড়ে না, তাই বায়ু দূষিত হয় না।
+- যে নদী নাব্যতা হারায়, সে তার তীরের মানুষের কাছ থেকে একটি রাস্তা, একটি বাজারের পথ ও কাজের একটি উৎস কেড়ে নেয়।
+## terms
+টার্বাইন (Turbine) | পাখাওয়ালা চাকা, যা চলন্ত পানির বেগে ঘোরে
+জেনারেটর (Generator) | যে যন্ত্র ঘোরালে বিদ্যুৎ তৈরি হয়
+লঞ্চ (Launch) | নদীপথে যাত্রী বহনকারী ইঞ্জিনচালিত নৌযান
+পণ্যবাহী জাহাজ (Cargo vessel) | যে জাহাজ বা নৌযান মালামাল বহন করে
+## facts
+নদীপথের মোট দৈর্ঘ্য | প্রায় ৯,৮৩৩ কিমি
+সারা বছর নৌ চলাচল | ৩,৮৬৫ কিমি
+অভ্যন্তরীণ নৌপথে পণ্য (পাঠ্যবই) | বাণিজ্যিক মালামালের ৭৫%
+পানি বিদ্যুৎকেন্দ্র | কাপ্তাই, কর্ণফুলী নদীতে
+প্রথম জলবিদ্যুৎ উৎপাদন | পাকিস্তান আমলে
+সবচেয়ে কম খরচের বিদ্যুৎ | জলবিদ্যুৎ
+## mistakes
+x জলবিদ্যুৎ উৎপাদনে নদীর পানি খরচ হয়ে যায়।
+v পানি শুধু টার্বাইনের ভেতর দিয়ে গিয়ে আবার বয়ে চলে। কিছু পোড়ে না, কিছু ফুরায় না; তাই এটি নবায়নযোগ্য।
+x বাংলাদেশের অসংখ্য নদীর যেকোনোটিতে জলবিদ্যুৎকেন্দ্র বানানো যায়।
+v এর জন্য খরস্রোতা পাহাড়ি নদী ও বাঁধের উপযোগী উঁচু জায়গা লাগে। এমন জায়গা এখানে কম, তাই সুযোগ সীমিত।
+## remember
+- নদীপথ: প্রায় ৯,৮৩৩ কিমি; ৩,৮৬৫ কিমি সারা বছর ব্যবহারযোগ্য।
+- জলবিদ্যুৎ: টার্বাইন + নেমে আসা পানির বেগ; নবায়নযোগ্য ও সবচেয়ে সস্তা।
+- কর্ণফুলীতে কাপ্তাই বাঁধ; পাকিস্তান আমলে প্রথম উৎপাদন; উপযোগী পাহাড়ি নদী কম।
+- বাণিজ্যিক মালামালের ৭৫% অভ্যন্তরীণ নৌপথে চলে (পাঠ্যবই)।
+- বর্ষাকালে বেশির ভাগ পণ্য নদীপথে; শুষ্ক মৌসুমে জাহাজ চলাচল সীমিত।
+## think
+বরিশালের একজন ব্যবসায়ীকে ২০০ টন চাল ঢাকায় পাঠাতে হবে। ট্রাকের বদলে পণ্যবাহী নৌযান বেছে নেওয়ার দুটি কারণ এবং শুষ্ক মৌসুমে তাঁর একটি সম্ভাব্য সমস্যা লেখো।
+## quiz
+? বাংলাদেশে নদীপথের মোট দৈর্ঘ্য প্রায় কত?
+- ৩,৮৬৫ কিমি
+* ৯,৮৩৩ কিমি
+- ২২,১৫৫ কিমি
+- ১,০০৮ কিমি
+= নদীপথ প্রায় ৯,৮৩৩ কিমি; এর ৩,৮৬৫ কিমি সারা বছর ব্যবহার করা যায়।
+? জলবিদ্যুৎকে নবায়নযোগ্য শক্তিসম্পদ বলা হয়, কারণ
+- এটি শুধু রাতে উৎপাদিত হয়
+- এতে প্রচুর কয়লা লাগে
+* যে প্রবহমান পানি দিয়ে এটি তৈরি হয় তা ফুরিয়ে যায় না
+- এটি যেকোনো জায়গায় তৈরি করা যায়
+= পানি টার্বাইনের ভেতর দিয়ে গিয়ে আবার বয়ে চলে; বৃষ্টি নদী ও হ্রদ বারবার ভরে দেয়।
+? বাংলাদেশে জলবিদ্যুৎ কোথায় উৎপাদন করা হয়?
+- পদ্মা নদীর ফারাক্কায়
+- তিস্তা নদীর ডিমলায়
+- পশুর নদীর মোংলায়
+* কর্ণফুলী নদীর কাপ্তাইয়ে
+= পার্বত্য চট্টগ্রামের কাপ্তাইয়ে কর্ণফুলী নদীতে বাঁধ দিয়ে জলবিদ্যুৎ উৎপাদন করা হয়।
+
+@@ 5.2.1
+@visual g5resources
+@related 5.2.4 5.2.3 4.2.3
+== en
+## what
+Things we get from nature are **natural resources**: soil, water, forests, sunlight, fish and minerals. Bangladesh and its neighbours India, Myanmar and Nepal have much the same kinds of resources, though not in the same amounts.
+## visual
+Choose a resource (agriculture, forest, fish, minerals or solar). The map colours the four countries and the cards compare what each one has.
+## simple
+Nobody manufactured the soil in a field, the fish in a river, the gas under the ground or the sunshine on a roof. Nature supplied them. People only find them, collect them and put them to use. Anything of that kind is a natural resource.
+
+Which resources a country has depends on where it lies: its landforms, climate, soil, rivers and rocks. Four neighbours that share the monsoon and the same great rivers therefore have similar resources. But a mountain country, a delta and a huge land with every kind of rock cannot be equally rich in everything.
+## points
+1. **What natural resources are:** resources obtained from nature, such as soil, water, forests, solar heat, fish and minerals.
+2. **Farming countries:** India, Bangladesh, Myanmar and Nepal are all agricultural. Farmers grow crops depending on landform, climate, soil and rivers, and each crop needs a certain amount of heat and rain, so production differs from region to region.
+3. **Where crops are few and many:** in some parts of India crops suffer from severe cold or lack of rain. At the foot of the Himalayas in Nepal, crops are grown only on a limited scale. But on the river-washed plains of West Bengal, Bangladesh and Myanmar, rice, wheat and other crops can be grown several times a year.
+4. **Crops of Bangladesh:** rice, potato and jute are grown on a very large scale; wheat, maize and mustard also do well; tea grows on the hills of the north and east. India and Myanmar grow cotton, tea, pulses and chillies well.
+5. **Forest resources:** forests follow climate. Where it is hot and humid with heavy rain through the year, dense forests of tall trees grow. So evergreen forests are found in the Chittagong Hill Tracts of Bangladesh, in the east of India and in the north of Myanmar.
+6. **Fish resources:** fish depend on landform and climate. With its rain, rivers, canals, beels, haors and ponds, Bangladesh is known as a country rich in fish, and the Bay of Bengal is a great store of fish. India and Myanmar also have plenty.
+7. **Mineral resources of Bangladesh:** gas and oil lie under the hilly districts of the east; coal, limestone and other valuable minerals have been found in the north; gas has also been discovered under the Bay of Bengal.
+8. **Minerals of the neighbours:** India is large and its geology is varied, so it is very rich in many minerals. Myanmar is well advanced in mineral resources. Nepal lags behind in comparison.
+9. **Solar energy:** in low latitudes the Sun shines almost vertically for most of the year, so Bangladesh and the other countries of South Asia receive plenty of solar energy without effort. With modern technology it can help meet the need for electricity.
+
+| Resource | Bangladesh | India | Myanmar | Nepal |
+| Agriculture | rice, potato, jute; tea on the hills | varied; cotton, tea, pulses; some areas too cold or dry | rice several times a year; cotton, tea, pulses | limited crops at the foot of the Himalayas |
+| Forest | evergreen forest in the Chittagong Hill Tracts | evergreen forest in the east | evergreen forest in the north | (not described in the book) |
+| Fish | rich: rivers, beels, haors and the Bay of Bengal | plenty | plenty | (not described in the book) |
+| Minerals | gas, oil, coal, limestone | very rich and varied | well advanced | lagging behind |
+| Solar | plentiful | plentiful | plentiful | plentiful |
+## definition
+**Natural resource:** anything useful that is obtained from nature, such as soil, water, forest, sunlight, fish and minerals.
+
+**Mineral resource:** a useful substance taken from under the ground, such as gas, oil, coal or limestone.
+
+**Solar resource:** the light and heat of the Sun that we receive from nature and can use.
+## why
+Why do people in cold countries spend so much on fuel while we do not? Far from the equator the Sun's rays fall at a slant for months, and in winter the Sun is hardly seen. Houses there must be heated and lit with fuel. In our low latitudes sunshine arrives nearly all year, free of cost. That steady sunshine is itself a valuable resource.
+## matters
+- Knowing what we have, and what we lack, tells us what to grow, what to dig, what to trade and what to save.
+- Some resources, such as gas and coal, will run out; others, such as sunlight and water, renew themselves if we look after them.
+- Neighbours that share rivers, forests and seas need to manage them together.
+## terms
+Natural resource (প্রাকৃতিক সম্পদ) | A useful thing obtained from nature
+Agricultural resource (কৃষিজ সম্পদ) | Crops and other products of farming
+Forest resource (বনজ সম্পদ) | Timber and other things obtained from forests
+Mineral resource (খনিজ সম্পদ) | Useful substances from under the ground
+Solar energy (সৌরশক্তি) | Energy that comes from the Sun
+## facts
+Main crops of Bangladesh | rice, potato, jute
+Tea in Bangladesh | on the hills of the north and east
+Evergreen forests | Chittagong Hill Tracts, eastern India, northern Myanmar
+Gas and oil in Bangladesh | eastern hill districts; gas also under the Bay of Bengal
+Coal and limestone in Bangladesh | the northern region
+Richest in minerals | India
+Lagging in minerals | Nepal
+## mistakes
+x Natural resources means only minerals such as gas and coal.
+v Soil, water, forests, fish and sunlight are natural resources too.
+x Because the four countries are neighbours, they are equally rich in every resource.
+v The kinds are similar, but the amounts differ with landform, climate and geology: India is very rich in minerals, Nepal is not.
+## remember
+- Natural resources: soil, water, forests, solar heat, fish, minerals.
+- All four countries are agricultural; Bangladesh grows rice, potato and jute in plenty.
+- Hot, wet climate → evergreen forests (Chittagong Hill Tracts, eastern India, northern Myanmar).
+- Bangladesh: gas and oil in the east, coal and limestone in the north, fish in rivers and the Bay of Bengal.
+- Low latitude → plenty of solar energy all year.
+## think
+Make two lists of the natural resources you used today: those that will renew themselves, and those that will one day run out. Which list should we worry about more, and why?
+## quiz
+? Which of these is a natural resource?
+- A bridge
+- A factory
+* Soil
+- A motor car
+= Soil comes from nature. Bridges, factories and cars are made by people.
+? In which part of Bangladesh have coal and limestone been found?
+* The northern region
+- The coastal islands
+- The Sundarbans
+- The south-western delta
+= Gas and oil lie under the eastern hill districts; coal and limestone have been found in the north.
+? Why do the countries of South Asia receive plenty of solar energy?
+- They are very large
+- They have many mountains
+- They are close to the poles
+* They lie in low latitudes where the Sun shines almost vertically most of the year
+= In the equatorial and tropical zone the Sun's rays fall nearly straight down for most of the year.
+== bn
+## what
+প্রকৃতি থেকে পাওয়া সম্পদই **প্রাকৃতিক সম্পদ**: মাটি, পানি, বনভূমি, সূর্যের আলো, মাছ ও খনিজ। বাংলাদেশ ও তার প্রতিবেশী ভারত, মিয়ানমার ও নেপালের প্রাকৃতিক সম্পদ প্রায় একই ধরনের, তবে পরিমাণে সমান নয়।
+## visual
+একটি সম্পদ বেছে নাও (কৃষিজ, বনজ, মৎস্য, খনিজ বা সৌর)। মানচিত্রে চার দেশ রঙিন হবে, আর কার্ডে তুলনা করা থাকবে কোন দেশে কী আছে।
+## simple
+মাঠের মাটি, নদীর মাছ, মাটির নিচের গ্যাস বা ছাদের ওপরের রোদ কেউ কারখানায় বানায়নি। এগুলো প্রকৃতি দিয়েছে। মানুষ শুধু খুঁজে বের করে, সংগ্রহ করে ও কাজে লাগায়। এ রকম সবকিছুই প্রাকৃতিক সম্পদ।
+
+একটি দেশে কী কী সম্পদ থাকবে তা নির্ভর করে দেশটির অবস্থানের ওপর: ভূপ্রকৃতি, জলবায়ু, মাটি, নদ-নদী ও শিলা। তাই যে চার প্রতিবেশী একই মৌসুমি বায়ু ও একই বড় নদীগুলোর ভাগীদার, তাদের সম্পদও কাছাকাছি ধরনের। তবে একটি পার্বত্য দেশ, একটি ব-দ্বীপ আর নানা রকম শিলায় গড়া একটি বিশাল দেশ সব সম্পদে সমান সমৃদ্ধ হতে পারে না।
+## points
+1. **প্রাকৃতিক সম্পদ কী:** প্রকৃতি থেকে প্রাপ্ত সম্পদ; যেমন মাটি, পানি, বনভূমি, সৌরতাপ, মৎস্য ও খনিজ।
+2. **কৃষিপ্রধান দেশ:** ভারত, বাংলাদেশ, মিয়ানমার ও নেপাল সবই কৃষিপ্রধান। ভূপ্রকৃতি, জলবায়ু, মাটি ও নদ-নদীর ওপর নির্ভর করে কৃষকরা ফসল ফলান; প্রতিটি ফসলের জন্য নির্দিষ্ট মাত্রার তাপ ও বৃষ্টি দরকার, তাই অঞ্চলভেদে উৎপাদনে তারতম্য ঘটে।
+3. **কোথায় ফসল কম, কোথায় বেশি:** অত্যন্ত শীতল জলবায়ু বা বৃষ্টির অভাবে ভারতের কয়েকটি অঞ্চলে শস্য উৎপাদন ব্যাহত হয়। নেপালে হিমালয়ের পাদদেশে শস্য উৎপাদন সীমিত। অথচ পশ্চিমবঙ্গ, বাংলাদেশ ও মিয়ানমারের নদীবিধৌত সমভূমিতে ধান, গমসহ নানা ফসল বছরে কয়েকবার ফলানো যায়।
+4. **বাংলাদেশের ফসল:** ধান, আলু ও পাটের উৎপাদন ব্যাপক; গম, ভুট্টা ও সরিষার ফলনও ভালো; উত্তর ও পূর্বাঞ্চলের পাহাড়ে চা হয়। ভারত ও মিয়ানমারে তুলা, চা, ডাল ও মরিচের উৎপাদন ভালো।
+5. **বনজ সম্পদ:** বনের সাথে জলবায়ুর সম্পর্ক ঘনিষ্ঠ। উষ্ণ ও আর্দ্র অঞ্চলে সারা বছর প্রচুর বৃষ্টি হয় বলে নিবিড়, বড় বড় অরণ্য গড়ে ওঠে। এ কারণেই বাংলাদেশের পার্বত্য চট্টগ্রাম, ভারতের পূর্বাঞ্চল ও মিয়ানমারের উত্তরাঞ্চলে চিরহরিৎ অরণ্য আছে।
+6. **মৎস্যসম্পদ:** মৎস্যসম্পদ ভূপ্রকৃতি ও জলবায়ুর ওপর নির্ভরশীল। বৃষ্টি, নদ-নদী, খাল, বিল, হাওড় ও পুকুরের কারণে বাংলাদেশ মৎস্যসম্পদে সমৃদ্ধ দেশ হিসেবে পরিচিত; বঙ্গোপসাগরও মাছের বড় ভাণ্ডার। ভারত ও মিয়ানমারেও প্রচুর মৎস্যসম্পদ আছে।
+7. **বাংলাদেশের খনিজ সম্পদ:** পূর্বাঞ্চলের পাহাড়ি জেলাগুলোর মাটির নিচে গ্যাস ও তেল আছে; উত্তরাঞ্চলে কয়লা, চুনাপাথরসহ নানা মূল্যবান খনিজ পাওয়া গেছে; বঙ্গোপসাগরের তলদেশেও গ্যাস আবিষ্কৃত হয়েছে।
+8. **প্রতিবেশীদের খনিজ:** ভারত বড় দেশ, ভূতাত্ত্বিক অবস্থা বৈচিত্র্যময়; তাই নানা খনিজে খুব সমৃদ্ধ। মিয়ানমার খনিজ সম্পদে বেশ অগ্রসর। তুলনায় নেপাল পিছিয়ে।
+9. **সৌরশক্তি:** নিম্ন অক্ষাংশে সূর্য বছরের প্রায় সবসময় লম্বভাবে কিরণ দেয়, তাই বাংলাদেশসহ দক্ষিণ এশিয়ার দেশগুলো সহজেই প্রচুর সৌরশক্তি পায়। আধুনিক প্রযুক্তি দিয়ে এ থেকে বিদ্যুতের চাহিদা মেটানো সম্ভব।
+
+| সম্পদ | বাংলাদেশ | ভারত | মিয়ানমার | নেপাল |
+| কৃষিজ | ধান, আলু, পাট; পাহাড়ে চা | বিচিত্র; তুলা, চা, ডাল; কিছু অঞ্চল খুব শীতল বা শুষ্ক | বছরে কয়েকবার ধান; তুলা, চা, ডাল | হিমালয়ের পাদদেশে সীমিত ফসল |
+| বনজ | পার্বত্য চট্টগ্রামে চিরহরিৎ অরণ্য | পূর্বাঞ্চলে চিরহরিৎ অরণ্য | উত্তরাঞ্চলে চিরহরিৎ অরণ্য | (বইয়ে বলা নেই) |
+| মৎস্য | সমৃদ্ধ: নদী, বিল, হাওড় ও বঙ্গোপসাগর | প্রচুর | প্রচুর | (বইয়ে বলা নেই) |
+| খনিজ | গ্যাস, তেল, কয়লা, চুনাপাথর | খুব সমৃদ্ধ ও বৈচিত্র্যময় | বেশ অগ্রসর | পিছিয়ে |
+| সৌর | প্রচুর | প্রচুর | প্রচুর | প্রচুর |
+## definition
+**প্রাকৃতিক সম্পদ:** প্রকৃতি থেকে পাওয়া যেকোনো দরকারি জিনিস; যেমন মাটি, পানি, বনভূমি, সূর্যের আলো, মাছ ও খনিজ।
+
+**খনিজ সম্পদ:** মাটির নিচ থেকে তোলা দরকারি পদার্থ; যেমন গ্যাস, তেল, কয়লা, চুনাপাথর।
+
+**সৌরসম্পদ:** প্রকৃতি থেকে পাওয়া সূর্যের আলো ও তাপ, যা আমরা কাজে লাগাতে পারি।
+## why
+শীতপ্রধান দেশের মানুষকে জ্বালানিতে এত খরচ করতে হয়, আমাদের হয় না কেন? নিরক্ষরেখা থেকে দূরের দেশে মাসের পর মাস সূর্যরশ্মি তির্যকভাবে পড়ে, শীতে সূর্য প্রায় দেখাই যায় না। সেখানে ঘর গরম ও আলোকিত রাখতে জ্বালানি লাগে। আমাদের নিম্ন অক্ষাংশে প্রায় সারা বছর রোদ পাওয়া যায়, বিনা খরচে। এই নিয়মিত রোদ নিজেই মূল্যবান সম্পদ।
+## matters
+- আমাদের কী আছে আর কী নেই তা জানলে বোঝা যায় কী ফলাতে হবে, কী তুলতে হবে, কী কেনাবেচা করতে হবে আর কী বাঁচিয়ে রাখতে হবে।
+- গ্যাস ও কয়লার মতো কিছু সম্পদ ফুরিয়ে যাবে; সূর্যের আলো ও পানির মতো কিছু সম্পদ যত্ন নিলে নিজে থেকেই নতুন হয়।
+- যে প্রতিবেশীরা নদী, বন ও সাগর ভাগ করে নেয়, তাদের সেগুলো একসাথে ব্যবস্থাপনা করা দরকার।
+## terms
+প্রাকৃতিক সম্পদ (Natural resource) | প্রকৃতি থেকে পাওয়া দরকারি জিনিস
+কৃষিজ সম্পদ (Agricultural resource) | ফসল ও কৃষি থেকে পাওয়া অন্যান্য দ্রব্য
+বনজ সম্পদ (Forest resource) | বন থেকে পাওয়া কাঠ ও অন্যান্য জিনিস
+খনিজ সম্পদ (Mineral resource) | মাটির নিচ থেকে পাওয়া দরকারি পদার্থ
+সৌরশক্তি (Solar energy) | সূর্য থেকে পাওয়া শক্তি
+## facts
+বাংলাদেশের প্রধান ফসল | ধান, আলু, পাট
+বাংলাদেশে চা | উত্তর ও পূর্বাঞ্চলের পাহাড়ে
+চিরহরিৎ অরণ্য | পার্বত্য চট্টগ্রাম, ভারতের পূর্বাঞ্চল, মিয়ানমারের উত্তরাঞ্চল
+বাংলাদেশে গ্যাস ও তেল | পূর্বাঞ্চলের পাহাড়ি জেলা; বঙ্গোপসাগরের তলদেশেও গ্যাস
+বাংলাদেশে কয়লা ও চুনাপাথর | উত্তরাঞ্চলে
+খনিজে সবচেয়ে সমৃদ্ধ | ভারত
+খনিজে পিছিয়ে | নেপাল
+## mistakes
+x প্রাকৃতিক সম্পদ মানে শুধু গ্যাস, কয়লার মতো খনিজ।
+v মাটি, পানি, বন, মাছ ও সূর্যের আলোও প্রাকৃতিক সম্পদ।
+x চার দেশ প্রতিবেশী, তাই সব সম্পদে সমান সমৃদ্ধ।
+v সম্পদের ধরন কাছাকাছি, কিন্তু ভূপ্রকৃতি, জলবায়ু ও ভূতাত্ত্বিক গঠনভেদে পরিমাণ আলাদা: ভারত খনিজে খুব সমৃদ্ধ, নেপাল নয়।
+## remember
+- প্রাকৃতিক সম্পদ: মাটি, পানি, বনভূমি, সৌরতাপ, মৎস্য, খনিজ।
+- চার দেশই কৃষিপ্রধান; বাংলাদেশে ধান, আলু ও পাট ব্যাপক হয়।
+- উষ্ণ, আর্দ্র জলবায়ু → চিরহরিৎ অরণ্য (পার্বত্য চট্টগ্রাম, ভারতের পূর্বাঞ্চল, মিয়ানমারের উত্তরাঞ্চল)।
+- বাংলাদেশ: পূর্বে গ্যাস ও তেল, উত্তরে কয়লা ও চুনাপাথর, নদী ও বঙ্গোপসাগরে মাছ।
+- নিম্ন অক্ষাংশ → সারা বছর প্রচুর সৌরশক্তি।
+## think
+আজ তুমি যেসব প্রাকৃতিক সম্পদ ব্যবহার করেছ তার দুটি তালিকা করো: যেগুলো নিজে থেকে নতুন হয়, আর যেগুলো একদিন ফুরিয়ে যাবে। কোন তালিকা নিয়ে আমাদের বেশি ভাবা উচিত, এবং কেন?
+## quiz
+? নিচের কোনটি প্রাকৃতিক সম্পদ?
+- সেতু
+- কারখানা
+* মাটি
+- মোটরগাড়ি
+= মাটি প্রকৃতি থেকে পাওয়া। সেতু, কারখানা ও গাড়ি মানুষের তৈরি।
+? বাংলাদেশের কোন অঞ্চলে কয়লা ও চুনাপাথর পাওয়া গেছে?
+* উত্তরাঞ্চলে
+- উপকূলীয় দ্বীপে
+- সুন্দরবনে
+- দক্ষিণ-পশ্চিমের ব-দ্বীপে
+= গ্যাস ও তেল পূর্বাঞ্চলের পাহাড়ি জেলায়; কয়লা ও চুনাপাথর পাওয়া গেছে উত্তরাঞ্চলে।
+? দক্ষিণ এশিয়ার দেশগুলো প্রচুর সৌরশক্তি পায় কেন?
+- দেশগুলো খুব বড় বলে
+- এখানে অনেক পর্বত আছে বলে
+- দেশগুলো মেরুর কাছে বলে
+* নিম্ন অক্ষাংশে অবস্থিত বলে, যেখানে সূর্য বছরের প্রায় সবসময় লম্বভাবে কিরণ দেয়
+= নিরক্ষীয় ও ক্রান্তীয় অঞ্চলে বছরের বেশির ভাগ সময় সূর্যরশ্মি প্রায় খাড়াভাবে পড়ে।
+
+@@ 5.2.2
+@visual g5water
+@related 5.1.4 5.2.4 4.2.4
+== en
+## what
+**Water resource management** means getting and using water in a planned way, so that there is enough of it, clean, in every season. For a crowded farming country like Bangladesh, it is the key to both water security and food security.
+## visual
+Each row pairs a problem with the measure that answers it. Choose a problem to read what should be done and who should do it.
+## simple
+Bangladesh has a strange water problem: far too much for five months and too little for the other seven. The total over the year is more than enough. What is missing is good timing and good care.
+
+Management means fixing exactly that. Hold some of the rainy season's water in rivers, canals, ponds, beels and haors for the dry months. Keep the rivers deep and flowing. Stop people filling, grabbing and poisoning them. Use no more water, fertiliser or pesticide than needed. If the water is secure, the crops are secure.
+## points
+1. **Why water is a resource:** water is essential for the life of people and all living things, and for farming and industry. So it is a very valuable resource.
+2. **The problem of seasons:** rain gives enough water, but in winter and summer there is a shortage, and farming, industry and daily life suffer.
+3. **What management is:** making sure of the supply, flow and distribution of water throughout the year. Water can be held in a planned way in rivers, canals, ponds, haors and beels for the dry season.
+4. **What happens without it:** misuse, scarcity and chemical pollution of water can bring environmental disaster and endanger living things.
+5. **A crowded country:** Bangladesh is among the most densely populated countries in the world, and giving so many people food and water is hard.
+6. **The success so far:** in the 55 years since independence the population has more than doubled, but food production has trebled, so there is no great food crisis.
+7. **The danger ahead:** water pollution and scarcity are growing, and they may disturb food production. A lasting answer for food security lies in good management of water.
+
+| Measure | What it means |
+| 1. Protect the environment | protect rivers, ponds, canals, beels, haors, baors, forests and land; treat it as a social movement of local people, students, teachers, civil society and the administration |
+| 2. Use water properly | carry out a policy to stop the misuse of water everywhere in the dry season and winter |
+| 3. Restore navigability | dredge silted and dried-up rivers so that water flows and is stored; control floods, which pollute water |
+| 4. Dig link canals and reservoirs | a few planned reservoirs in the north would supply water for crops and fish in the dry season |
+| 5. Stop river grabbing and pollution | stop illegal filling of and building on rivers and canals; local leaders, teachers, students and citizens must act |
+| 6. Involve local people and students | raise awareness, prevent pollution and help manage water |
+| 7. Remove salinity | keep fresh water flowing from upstream to the salty south; make the Joint Rivers Commission effective to obtain Bangladesh's share of common rivers |
+| 8. Prevent river erosion | quickly stop erosion and dredge where chars rise |
+| 9. Use fertiliser and pesticide in moderation | overuse pollutes water and upsets fish and crop production |
+| 10. Use science and technology well | apply scientific ideas and technology with care; make the National Water Policy effective |
+## definition
+**Water resource management:** the planned obtaining and use of water.
+
+**Water security:** having enough safe water for everyone in every season.
+
+**Food security:** having enough food available for all the people at all times.
+## why
+Why does food security depend on water security? Every crop needs water at the right time, and so do fish. Rice in the dry season is grown almost entirely with irrigation. If rivers are dry, polluted or salty, the harvest and the catch both fall, however good the seed and however hard the farmer works. So water must be made secure first; food follows.
+## matters
+- A country that feeds itself keeps its independence in hard times.
+- Clean water in rivers and ponds means fewer diseases and more fish.
+- Students are named in the textbook as the most active force in society: this is work you can join now.
+## terms
+Water management (পানি ব্যবস্থাপনা) | The planned obtaining and use of water
+Food security (খাদ্য নিরাপত্তা) | Enough food for all, at all times
+Reservoir (রিজার্ভার বা জলাধার) | A place dug or built to store water
+Salinity (লবণাক্ততা) | Salt in soil or water
+Joint Rivers Commission (যৌথ নদী কমিশন) | The body through which Bangladesh and India discuss their common rivers
+National Water Policy (জাতীয় পানি নীতিমালা) | The country's official policy on the use of water
+## facts
+Population since independence | more than doubled in 55 years
+Food production since independence | trebled
+Water is short in | winter and summer (the dry season)
+Water can be stored in | rivers, canals, ponds, haors and beels
+Soil is salty in | parts of the south
+Reservoirs are needed most in | the north
+## mistakes
+x Water management means only building big dams.
+v It also means protecting rivers and wetlands, dredging, storing water, stopping pollution and encroachment, and using water, fertiliser and pesticide carefully.
+x Bangladesh has no food crisis, so there is nothing to worry about.
+v Food production has trebled, but growing water pollution and scarcity could reduce it. Water must be managed now.
+## remember
+- Water resource management = planned obtaining and use of water all year round.
+- Rain gives plenty, but the dry season is short of water; store water in rivers, canals, ponds, beels and haors.
+- In 55 years population more than doubled, food production trebled; pollution and scarcity now threaten it.
+- Measures: protect the environment, use water well, dredge, dig reservoirs, stop grabbing and pollution, involve people and students, remove salinity, stop erosion, limit fertiliser and pesticide, use science.
+- Water security first; food security follows. Make the National Water Policy effective.
+## think
+Look at the list of ten measures. Choose two that students of your school could really help with. Describe one small project for each.
+## quiz
+? Getting and using water in a planned way is called
+- irrigation
+- dredging
+* water management
+- navigation
+= Planned obtaining and use of water, through the whole year, is water resource management.
+? In the 55 years since independence, food production in Bangladesh has
+- stayed the same
+- halved
+- doubled
+* trebled
+= The population has more than doubled, but food production has trebled, so there is no great food crisis.
+? What should be done to supply water for crops in the north in the dry season?
+* Dig a few planned reservoirs
+- Fill the canals with earth
+- Use more pesticide
+- Build houses on the river banks
+= Reservoirs dug in a planned way would meet the dry-season need for water and keep fish breeding normally.
+== bn
+## what
+**পানিসম্পদ ব্যবস্থাপনা** মানে পানির পরিকল্পিত প্রাপ্যতা ও ব্যবহার, যাতে সব ঋতুতে যথেষ্ট ও বিশুদ্ধ পানি পাওয়া যায়। বাংলাদেশের মতো ঘনবসতিপূর্ণ কৃষিপ্রধান দেশে এটিই পানি নিরাপত্তা ও খাদ্য নিরাপত্তা দুটিরই চাবিকাঠি।
+## visual
+প্রতিটি সারিতে একটি সমস্যা ও তার সমাধানের উদ্যোগ জোড়া দেওয়া আছে। একটি সমস্যা বেছে নিয়ে পড়ো কী করতে হবে এবং কারা করবে।
+## simple
+বাংলাদেশের পানির সমস্যাটি অদ্ভুত: পাঁচ মাস অনেক বেশি পানি, বাকি সাত মাস খুব কম। সারা বছরের মোট পানি প্রয়োজনের চেয়েও বেশি। অভাব যেটির, তা হলো সঠিক সময়ে পাওয়া আর সঠিক যত্ন।
+
+ব্যবস্থাপনা মানে ঠিক এটিই ঠিক করা। বর্ষার কিছু পানি নদী, খাল, পুকুর, বিল ও হাওড়ে শুষ্ক মাসগুলোর জন্য ধরে রাখো। নদীগুলোকে গভীর ও প্রবহমান রাখো। ভরাট, দখল ও দূষণ বন্ধ করো। পানি, সার ও কীটনাশক প্রয়োজনের বেশি ব্যবহার কোরো না। পানি নিরাপদ থাকলে ফসলও নিরাপদ।
+## points
+1. **পানি কেন সম্পদ:** মানুষসহ জীবজগতের অস্তিত্ব এবং কৃষি ও শিল্পের জন্য পানি অপরিহার্য। তাই পানি অত্যন্ত মূল্যবান সম্পদ।
+2. **ঋতুর সমস্যা:** বৃষ্টি থেকে পর্যাপ্ত পানি পাওয়া যায়, কিন্তু শীত ও গ্রীষ্মকালে পানির অভাব হলে কৃষি, শিল্প ও জীবনযাপন সংকটে পড়ে।
+3. **ব্যবস্থাপনা কী:** সারা বছর পানির প্রাপ্তি, প্রবাহ ও বণ্টন নিশ্চিত রাখা। শুষ্ক মৌসুমের জন্য নদ-নদী, খাল, পুকুর, হাওড় ও বিলে পরিকল্পিতভাবে পানি ধরে রাখা যায়।
+4. **ব্যবস্থাপনা না থাকলে:** পানির অপব্যবহার, দুষ্প্রাপ্যতা ও রাসায়নিক দূষণে পরিবেশ বিপর্যয় ঘটতে পারে, জীবজগতের অস্তিত্ব বিপন্ন হতে পারে।
+5. **ঘনবসতির দেশ:** বাংলাদেশ পৃথিবীর সবচেয়ে ঘনবসতিপূর্ণ দেশগুলোর একটি; এত মানুষের খাদ্য ও পানির নিরাপত্তা নিশ্চিত করা কঠিন।
+6. **এ পর্যন্ত সাফল্য:** স্বাধীনতার ৫৫ বছরে জনসংখ্যা দ্বিগুণের বেশি বেড়েছে, কিন্তু খাদ্য উৎপাদন তিন গুণ হয়েছে; তাই দেশে বড় খাদ্য সংকট নেই।
+7. **সামনের ঝুঁকি:** পানিদূষণ ও দুষ্প্রাপ্যতা বাড়ছে, এতে খাদ্য উৎপাদন ব্যাহত হওয়ার আশঙ্কা আছে। খাদ্য নিরাপত্তার স্থায়ী সমাধান পানিসম্পদের সুষ্ঠু ব্যবস্থাপনায়।
+
+| উদ্যোগ | কী বোঝায় |
+| ১. পরিবেশ সংরক্ষণ | নদ-নদী, পুকুর, খাল, বিল, হাওড়, বাঁওড়, বন ও ভূমি রক্ষা; স্থানীয় জনগণ, শিক্ষার্থী, শিক্ষক, নাগরিক সমাজ ও প্রশাসন মিলে সামাজিক আন্দোলন হিসেবে |
+| ২. পানির সদ্ব্যবহার নিশ্চিত করা | শুষ্ক ও শীত মৌসুমে সর্বত্র পানির অপব্যবহার দূর করার নীতি বাস্তবায়ন |
+| ৩. নাব্যতা সংকট দূর করা | ভরাট ও শুকিয়ে যাওয়া নদী খনন করে পানির প্রবাহ ও সংরক্ষণ; বন্যা নিয়ন্ত্রণ, কারণ বন্যায় পানি দূষিত হয় |
+| ৪. সংযোগ খাল ও রিজার্ভার খনন | উত্তরাঞ্চলে পরিকল্পিত কয়েকটি রিজার্ভার শুষ্ক মৌসুমে ফসল ও মাছের জন্য পানি দেবে |
+| ৫. নদী দখল ও দূষণ রোধ | নদী-খাল অবৈধভাবে ভরাট ও স্থাপনা নির্মাণ বন্ধ; স্থানীয় নেতৃত্ব, শিক্ষক-শিক্ষার্থী ও নাগরিক সমাজের সক্রিয় ভূমিকা |
+| ৬. স্থানীয় জনগোষ্ঠী ও শিক্ষার্থীদের সম্পৃক্ত করা | জনসচেতনতা বাড়ানো, দূষণ রোধ ও পানি ব্যবস্থাপনায় সহায়তা |
+| ৭. লবণাক্ততা দূর করা | লবণাক্ত দক্ষিণাঞ্চলে উজান থেকে স্বাদু পানির প্রবাহ নিশ্চিত করা; অভিন্ন নদীর হিস্যা আদায়ে যৌথ নদী কমিশনকে কার্যকর করা |
+| ৮. নদীভাঙন রোধ | দ্রুত ভাঙন রোধ ও চর জাগা নদীতে ড্রেজিং |
+| ৯. পরিমিত সার ও কীটনাশক ব্যবহার | অপরিমিত ব্যবহারে পানি দূষিত হয়, মাছ ও কৃষি উৎপাদনের ভারসাম্য নষ্ট হয় |
+| ১০. বিজ্ঞান ও প্রযুক্তির সদ্ব্যবহার | বৈজ্ঞানিক ধ্যান-ধারণা ও প্রযুক্তির যত্নশীল ব্যবহার; জাতীয় পানি নীতিমালা কার্যকর করা |
+## definition
+**পানিসম্পদ ব্যবস্থাপনা:** পানির পরিকল্পিত প্রাপ্যতা ও ব্যবহার।
+
+**পানি নিরাপত্তা:** সব ঋতুতে সবার জন্য যথেষ্ট নিরাপদ পানি থাকা।
+
+**খাদ্য নিরাপত্তা:** সব সময় সব মানুষের জন্য যথেষ্ট খাদ্য থাকা।
+## why
+খাদ্য নিরাপত্তা পানি নিরাপত্তার ওপর নির্ভর করে কেন? প্রতিটি ফসলের ঠিক সময়ে পানি দরকার, মাছেরও তা-ই। শুষ্ক মৌসুমের ধান প্রায় পুরোটাই সেচনির্ভর। নদী শুকনো, দূষিত বা লবণাক্ত হলে বীজ যত ভালোই হোক আর কৃষক যত পরিশ্রমই করুন, ফসল ও মাছ দুটিই কমে যায়। তাই আগে পানির নিরাপত্তা বিধান করতে হবে; তাহলে খাদ্যের নিরাপত্তা নিশ্চিত হবে।
+## matters
+- যে দেশ নিজের খাদ্য নিজে ফলায়, কঠিন সময়েও সে স্বনির্ভর থাকে।
+- নদী ও পুকুরের পানি পরিষ্কার থাকলে রোগ কমে, মাছ বাড়ে।
+- পাঠ্যবইয়ে শিক্ষার্থীদের সমাজের প্রধান সক্রিয় শক্তি বলা হয়েছে: এ কাজে তুমি এখনই যোগ দিতে পারো।
+## terms
+পানি ব্যবস্থাপনা (Water management) | পানির পরিকল্পিত প্রাপ্যতা ও ব্যবহার
+খাদ্য নিরাপত্তা (Food security) | সব সময় সবার জন্য যথেষ্ট খাদ্য
+রিজার্ভার বা জলাধার (Reservoir) | পানি জমিয়ে রাখার জন্য খনন করা বা তৈরি স্থান
+লবণাক্ততা (Salinity) | মাটি বা পানিতে লবণের উপস্থিতি
+যৌথ নদী কমিশন (Joint Rivers Commission) | যে সংস্থার মাধ্যমে বাংলাদেশ ও ভারত অভিন্ন নদী নিয়ে আলোচনা করে
+জাতীয় পানি নীতিমালা (National Water Policy) | পানি ব্যবহার বিষয়ে দেশের সরকারি নীতি
+## facts
+স্বাধীনতার পর জনসংখ্যা | ৫৫ বছরে দ্বিগুণের বেশি
+স্বাধীনতার পর খাদ্য উৎপাদন | তিন গুণ
+পানির অভাব হয় | শীত ও গ্রীষ্মকালে (শুষ্ক মৌসুমে)
+পানি ধরে রাখা যায় | নদ-নদী, খাল, পুকুর, হাওড় ও বিলে
+মাটি লবণাক্ত | দক্ষিণাঞ্চলের কিছু এলাকায়
+রিজার্ভার সবচেয়ে দরকার | উত্তরাঞ্চলে
+## mistakes
+x পানি ব্যবস্থাপনা মানে শুধু বড় বড় বাঁধ তৈরি করা।
+v এর মানে নদী ও জলাভূমি রক্ষা, খনন, পানি সংরক্ষণ, দূষণ ও দখল রোধ, এবং পানি, সার ও কীটনাশকের সযত্ন ব্যবহারও।
+x বাংলাদেশে খাদ্য সংকট নেই, তাই চিন্তার কিছু নেই।
+v খাদ্য উৎপাদন তিন গুণ হয়েছে ঠিকই, কিন্তু বাড়তে থাকা পানিদূষণ ও দুষ্প্রাপ্যতা তা কমিয়ে দিতে পারে। এখনই পানির ব্যবস্থাপনা দরকার।
+## remember
+- পানিসম্পদ ব্যবস্থাপনা = সারা বছর পানির পরিকল্পিত প্রাপ্যতা ও ব্যবহার।
+- বৃষ্টিতে প্রচুর পানি, কিন্তু শুষ্ক মৌসুমে অভাব; নদী, খাল, পুকুর, বিল ও হাওড়ে পানি ধরে রাখতে হবে।
+- ৫৫ বছরে জনসংখ্যা দ্বিগুণের বেশি, খাদ্য উৎপাদন তিন গুণ; দূষণ ও দুষ্প্রাপ্যতা এখন হুমকি।
+- উদ্যোগ: পরিবেশ সংরক্ষণ, পানির সদ্ব্যবহার, নদী খনন, রিজার্ভার, দখল-দূষণ রোধ, জনগণ ও শিক্ষার্থীদের সম্পৃক্ততা, লবণাক্ততা দূর, ভাঙন রোধ, পরিমিত সার-কীটনাশক, বিজ্ঞানের ব্যবহার।
+- আগে পানির নিরাপত্তা, তারপর খাদ্যের নিরাপত্তা। জাতীয় পানি নীতিমালা কার্যকর করতে হবে।
+## think
+দশটি উদ্যোগের তালিকাটি দেখো। এর মধ্যে এমন দুটি বেছে নাও যাতে তোমার বিদ্যালয়ের শিক্ষার্থীরা সত্যিই সাহায্য করতে পারে। প্রতিটির জন্য একটি ছোট প্রকল্পের বর্ণনা দাও।
+## quiz
+? পানির পরিকল্পিত প্রাপ্যতা ও ব্যবহারকে বলে
+- সেচ
+- নদী খনন
+* পানি ব্যবস্থাপনা
+- নৌ চলাচল
+= সারা বছর পানির পরিকল্পিত প্রাপ্যতা ও ব্যবহারই পানিসম্পদ ব্যবস্থাপনা।
+? স্বাধীনতার ৫৫ বছরে বাংলাদেশে খাদ্য উৎপাদন
+- একই আছে
+- অর্ধেক হয়েছে
+- দ্বিগুণ হয়েছে
+* তিন গুণ হয়েছে
+= জনসংখ্যা দ্বিগুণের বেশি বাড়লেও খাদ্য উৎপাদন তিন গুণ হয়েছে, তাই বড় খাদ্য সংকট নেই।
+? শুষ্ক মৌসুমে উত্তরাঞ্চলে ফসলের পানির জোগান দিতে কী করা উচিত?
+* পরিকল্পিতভাবে কয়েকটি রিজার্ভার খনন
+- খাল মাটি দিয়ে ভরাট করা
+- বেশি কীটনাশক ব্যবহার
+- নদীর পাড়ে ঘরবাড়ি নির্মাণ
+= পরিকল্পিতভাবে খনন করা রিজার্ভার শুষ্ক মৌসুমের পানির চাহিদা মেটাবে এবং মাছের প্রজননও স্বাভাবিক রাখবে।
+
+@@ 5.2.3
+@visual g5forest
+@related 5.2.1 4.1.2 5.2.4
+== en
+## what
+Land where trees grow in abundance is a **forest**. By the kind of trees, the forests of Bangladesh are of three types: **tropical evergreen and deciduous forest**, **tropical deciduous (sal) forest** and **mangrove or tidal forest**. The country has less forest than it needs.
+## visual
+The two bars compare the forest we have with the forest a country needs. Choose a forest type to colour its districts on the map and read about its trees. Tap any district for details. The map is a schematic: whole districts are coloured.
+## simple
+Trees, like crops, choose their place by climate and soil. On the hot, rain-soaked hills of the east the trees never all lose their leaves together, so the forest looks green in every month. On the drier, raised red soil of Madhupur and the Barind, the sal trees drop every leaf in winter and stand bare. And on the salty mud of the coast, washed twice a day by the tide, only special trees with breathing roots can live.
+
+So three different kinds of land give three different kinds of forest.
+## points
+1. **What a forest gives:** timber, honey, wax and other forest resources, as well as light, clean air and a green, healthy environment.
+2. **Not enough forest:** a country should have forest on 20 to 25 per cent of its area. In Bangladesh it is only about 17 per cent.
+3. **Why it is shrinking:** the population is growing fast, and valuable timber is needed for houses and furniture. That timber comes from the forests, so the forest area keeps falling.
+4. **Four forest areas:** the forests of Chattogram, the forests of Sylhet, the Sundarbans, and the forests of the Dhaka–Tangail–Mymensingh region.
+5. **Tropical evergreen and deciduous forest:** in the hills of the south-east and north-east, where it is hot and humid: Chattogram, Khagrachhari, Rangamati, Bandarban and Sylhet. The leaves neither open nor fall all at one time, so the forest stays green all year. Area about 14,000 sq km.
+6. **Its trees:** chapalish, moina, telsur, mahogany, jarul, teak (segun) and garjan. Bamboo and cane grow plentifully in the hills of Sylhet, and rubber is cultivated in the Chittagong Hill Tracts and Sylhet.
+7. **Tropical deciduous forest:** in Mymensingh, Tangail, Gazipur, Dinajpur and Rangpur. Once a year, in winter, the trees shed all their leaves.
+8. **Its trees:** sal (also called gajari) is the chief tree, so it is called sal forest. Koroi, bahera, hijal, shirish, haritaki, jackfruit and neem also grow. In Mymensingh, Tangail and Gazipur it is known as the Madhupur and Bhawal forest; in Dinajpur as the forest of the Barind region.
+9. **Mangrove or tidal forest:** on salty, wet soil washed by the tide, along the coast of Satkhira, Khulna, Bagerhat and Barguna in the south-west and of Noakhali and Chattogram in the south-east. Most of it is in the Sundarbans.
+10. **Its trees:** sundari, gewa, pasur, dhundul, keora, bain, goran and golpata.
+
+| | Evergreen and deciduous | Deciduous (sal) | Mangrove (tidal) |
+| Where | Chattogram, Khagrachhari, Rangamati, Bandarban, Sylhet | Mymensingh, Tangail, Gazipur, Dinajpur, Rangpur | coast of Satkhira, Khulna, Bagerhat, Barguna, Noakhali, Chattogram |
+| Land | hot, humid hills | raised terraces | salty, wet tidal soil |
+| Leaves | green all year | all fall in winter | suited to salt water |
+| Main trees | garjan, teak, jarul, chapalish, mahogany | sal (gajari), koroi, bahera, haritaki | sundari, gewa, keora, goran, golpata |
+## definition
+**Forest:** land on which trees grow in great numbers.
+
+**Evergreen forest:** a forest that stays green all year because its trees do not shed their leaves all at one time.
+
+**Deciduous forest:** a forest whose trees shed all their leaves once a year.
+
+**Mangrove forest:** a forest that grows on salty, wet coastal soil washed by the tide.
+## matters
+- Forests give timber, bamboo, honey and work, and they are home to wildlife.
+- The Sundarbans, the largest mangrove forest in the world, shields the coast from cyclones and tidal surges.
+- With only about 17 per cent forest, every tree saved or planted counts.
+## terms
+Evergreen (চিরহরিৎ) | Green throughout the year
+Deciduous (পত্রপতনশীল বা পাতাঝরা) | Shedding all its leaves in one season
+Mangrove (ম্যানগ্রোভ বা স্রোতজ) | Trees that grow in salty tidal mud
+Sal (শাল বা গজারি) | The chief tree of the deciduous forests
+Sundari (সুন্দরী) | The best-known tree of the Sundarbans
+## facts
+Forest a country needs | 20–25% of its area
+Forest in Bangladesh | about 17%
+Evergreen and deciduous forest | about 14,000 sq km
+Sal forest names | Madhupur and Bhawal forest; Barind forest
+Largest mangrove forest | the Sundarbans
+Bamboo and cane | hills of Sylhet
+Rubber | Chittagong Hill Tracts and Sylhet
+## mistakes
+x Trees of an evergreen forest never lose any leaves.
+v They do lose leaves, but not all at one time, so the forest always looks green.
+x Sundari and gewa grow in the sal forests of Madhupur.
+v They are mangrove trees of the Sundarbans. The sal forest has sal, koroi, bahera and haritaki.
+## remember
+- A country needs 20–25% forest; Bangladesh has about 17%.
+- Evergreen and deciduous forest: hills of Chattogram, the Hill Tracts and Sylhet; about 14,000 sq km; garjan, teak, jarul, chapalish.
+- Deciduous (sal) forest: Mymensingh, Tangail, Gazipur, Dinajpur, Rangpur; leaves fall in winter; sal or gajari.
+- Mangrove forest: salty tidal coast, mainly the Sundarbans; sundari, gewa, keora, goran, golpata.
+- Forests are shrinking because of the demand for timber; they must be protected.
+## think
+A visitor walks through a forest in January and finds every tree bare. In which of the three forest types is she most likely to be, and in which districts might that be?
+## quiz
+? About what share of the area of Bangladesh is forest?
+- 5%
+* 17%
+- 25%
+- 50%
+= Bangladesh has about 17 per cent forest, less than the 20 to 25 per cent a country needs.
+? The chief tree of the tropical deciduous forest is
+- sundari
+- garjan
+* sal (gajari)
+- golpata
+= Sal is the main tree, so the Madhupur–Bhawal and Barind forests are called sal forests.
+? Where does the mangrove forest grow?
+- On the hills of Sylhet
+- On the Barind tract
+- On the Madhupur terrace
+* On salty, wet coastal soil washed by the tide
+= Mangroves grow on the tidal coast, mostly in the Sundarbans.
+== bn
+## what
+যে ভূমিতে প্রচুর গাছপালা জন্মে তা **বনভূমি**। উদ্ভিদের বৈশিষ্ট্য অনুসারে বাংলাদেশের বনভূমি তিন রকম: **ক্রান্তীয় চিরহরিৎ এবং পত্রপতনশীল বনভূমি**, **ক্রান্তীয় পাতাঝরা (শাল) বনভূমি** এবং **স্রোতজ (ম্যানগ্রোভ) বা গরান বনভূমি**। দেশে প্রয়োজনের তুলনায় বনভূমি কম।
+## visual
+দুটি দণ্ডে তুলনা করা হয়েছে আমাদের যতটুকু বন আছে আর একটি দেশের যতটুকু দরকার। একটি বনের ধরন বেছে নিলে মানচিত্রে তার জেলাগুলো রঙিন হবে, নিচে গাছের কথা আসবে। বিস্তারিত জানতে যেকোনো জেলায় চাপ দাও। এটি নকশা-মানচিত্র: পুরো জেলা রং করা।
+## simple
+ফসলের মতো গাছও জলবায়ু ও মাটি দেখে জায়গা বেছে নেয়। পূর্বের উষ্ণ, বৃষ্টিভেজা পাহাড়ে গাছের সব পাতা কখনো একসাথে ঝরে না, তাই বন সব মাসেই সবুজ দেখায়। মধুপুর ও বরেন্দ্রের অপেক্ষাকৃত শুষ্ক, উঁচু লাল মাটিতে শালগাছ শীতকালে সব পাতা ঝরিয়ে ন্যাড়া হয়ে দাঁড়িয়ে থাকে। আর উপকূলের লোনা কাদায়, যা দিনে দুবার জোয়ারে ধুয়ে যায়, শুধু শ্বাসমূলওয়ালা বিশেষ গাছই বাঁচতে পারে।
+
+অর্থাৎ তিন রকম ভূমিতে তিন রকম বন।
+## points
+1. **বন কী দেয়:** কাঠ, মধু, মোম ও অন্যান্য বনজ সম্পদ; সাথে আলো, নির্মল বাতাস ও সবুজ, স্বাস্থ্যসম্মত পরিবেশ।
+2. **পর্যাপ্ত বন নেই:** একটি দেশের মোট আয়তনের ২০ থেকে ২৫ শতাংশ বনভূমি থাকা প্রয়োজন। বাংলাদেশে আছে মাত্র প্রায় ১৭ শতাংশ।
+3. **কেন কমছে:** জনসংখ্যা দ্রুত বাড়ছে; ঘরবাড়ি ও আসবাবপত্রের জন্য মূল্যবান কাঠ দরকার। সেই কাঠ আসে বন থেকে, তাই বনভূমি ক্রমেই কমে যাচ্ছে।
+4. **চারটি বন এলাকা:** চট্টগ্রামের বনাঞ্চল, সিলেটের বন, সুন্দরবন এবং ঢাকা-টাঙ্গাইল-ময়মনসিংহ অঞ্চলের বনভূমি।
+5. **ক্রান্তীয় চিরহরিৎ এবং পত্রপতনশীল বনভূমি:** দক্ষিণ-পূর্ব ও উত্তর-পূর্বের উষ্ণ, আর্দ্র পাহাড়ি অঞ্চলে: চট্টগ্রাম, খাগড়াছড়ি, রাঙ্গামাটি, বান্দরবান ও সিলেট। গাছের পাতা একসাথে ফোটেও না, ঝরেও না; তাই বন সারা বছর সবুজ থাকে। পরিমাণ প্রায় ১৪ হাজার বর্গ কিমি।
+6. **এ বনের গাছ:** চাপালিশ, ময়না, তেলসুর, মেহগনি, জারুল, সেগুন ও গর্জন। সিলেটের পাহাড়ে প্রচুর বাঁশ ও বেত জন্মে; পার্বত্য চট্টগ্রাম ও সিলেট অঞ্চলে রাবার চাষ হয়।
+7. **ক্রান্তীয় পাতাঝরা বনভূমি:** ময়মনসিংহ, টাঙ্গাইল, গাজীপুর, দিনাজপুর ও রংপুর জেলায়। বছরে একবার, শীতকালে, গাছের পাতা সম্পূর্ণ ঝরে যায়।
+8. **এ বনের গাছ:** শাল (গজারি) প্রধান বৃক্ষ, তাই একে শালবনও বলা হয়। আরও জন্মে কড়ই, বহেড়া, হিজল, শিরীষ, হরীতকী, কাঁঠাল ও নিম। ময়মনসিংহ, টাঙ্গাইল ও গাজীপুরে এটি মধুপুর ও ভাওয়াল বনভূমি নামে, দিনাজপুর অঞ্চলে বরেন্দ্র অঞ্চলের বনভূমি নামে পরিচিত।
+9. **স্রোতজ (ম্যানগ্রোভ) বা গরান বনভূমি:** জোয়ার-ভাটার লোনা ও ভেজা মাটিতে; দক্ষিণ-পশ্চিমের সাতক্ষীরা, খুলনা, বাগেরহাট ও বরগুনা এবং দক্ষিণ-পূর্বের নোয়াখালী ও চট্টগ্রাম জেলার উপকূলে। এর বেশির ভাগই সুন্দরবনে।
+10. **এ বনের গাছ:** সুন্দরী, গেওয়া, পশুর, ধুন্দুল, কেওড়া, বাইন, গরান ও গোলপাতা।
+
+| | চিরহরিৎ এবং পত্রপতনশীল | পাতাঝরা (শাল) | স্রোতজ (ম্যানগ্রোভ) |
+| কোথায় | চট্টগ্রাম, খাগড়াছড়ি, রাঙ্গামাটি, বান্দরবান, সিলেট | ময়মনসিংহ, টাঙ্গাইল, গাজীপুর, দিনাজপুর, রংপুর | সাতক্ষীরা, খুলনা, বাগেরহাট, বরগুনা, নোয়াখালী, চট্টগ্রামের উপকূল |
+| ভূমি | উষ্ণ, আর্দ্র পাহাড় | উঁচু সোপানভূমি | জোয়ার-ভাটার লোনা, ভেজা মাটি |
+| পাতা | সারা বছর সবুজ | শীতে সব ঝরে যায় | লোনা পানির উপযোগী |
+| প্রধান গাছ | গর্জন, সেগুন, জারুল, চাপালিশ, মেহগনি | শাল (গজারি), কড়ই, বহেড়া, হরীতকী | সুন্দরী, গেওয়া, কেওড়া, গরান, গোলপাতা |
+## definition
+**বনভূমি:** যে ভূমিতে প্রচুর গাছপালা জন্মে।
+
+**চিরহরিৎ বনভূমি:** যে বনের গাছের পাতা একসাথে ঝরে না বলে বন সারা বছর সবুজ থাকে।
+
+**পাতাঝরা বনভূমি:** যে বনের গাছের সব পাতা বছরে একবার ঝরে যায়।
+
+**স্রোতজ (ম্যানগ্রোভ) বনভূমি:** উপকূলের জোয়ার-ভাটায় ধোয়া লোনা, ভেজা মাটিতে যে বন জন্মে।
+## matters
+- বন কাঠ, বাঁশ, মধু ও কর্মসংস্থান দেয়, আর বন্যপ্রাণীর আবাস।
+- পৃথিবীর বৃহত্তম ম্যানগ্রোভ বন সুন্দরবন ঘূর্ণিঝড় ও জলোচ্ছ্বাস থেকে উপকূলকে আড়াল করে।
+- বন মাত্র প্রায় ১৭ শতাংশ, তাই প্রতিটি গাছ রক্ষা করা ও লাগানো গুরুত্বপূর্ণ।
+## terms
+চিরহরিৎ (Evergreen) | সারা বছর সবুজ
+পত্রপতনশীল বা পাতাঝরা (Deciduous) | এক মৌসুমে সব পাতা ঝরে যায় এমন
+ম্যানগ্রোভ বা স্রোতজ (Mangrove) | জোয়ার-ভাটার লোনা কাদায় জন্মানো গাছ
+শাল বা গজারি (Sal) | পাতাঝরা বনের প্রধান গাছ
+সুন্দরী (Sundari) | সুন্দরবনের সবচেয়ে পরিচিত গাছ
+## facts
+একটি দেশে বনভূমি দরকার | মোট আয়তনের ২০-২৫%
+বাংলাদেশে বনভূমি | প্রায় ১৭%
+চিরহরিৎ এবং পত্রপতনশীল বনভূমি | প্রায় ১৪ হাজার বর্গ কিমি
+শালবনের নাম | মধুপুর ও ভাওয়াল বনভূমি; বরেন্দ্র অঞ্চলের বনভূমি
+বৃহত্তম ম্যানগ্রোভ বন | সুন্দরবন
+বাঁশ ও বেত | সিলেটের পাহাড়ে
+রাবার | পার্বত্য চট্টগ্রাম ও সিলেট অঞ্চলে
+## mistakes
+x চিরহরিৎ বনের গাছের পাতা কখনোই ঝরে না।
+v পাতা ঝরে, তবে সব একসাথে নয়; তাই বন সবসময় সবুজ দেখায়।
+x সুন্দরী ও গেওয়া মধুপুরের শালবনে জন্মে।
+v এগুলো সুন্দরবনের ম্যানগ্রোভ গাছ। শালবনে জন্মে শাল, কড়ই, বহেড়া ও হরীতকী।
+## remember
+- একটি দেশে ২০-২৫% বনভূমি দরকার; বাংলাদেশে আছে প্রায় ১৭%।
+- চিরহরিৎ এবং পত্রপতনশীল বন: চট্টগ্রাম, পার্বত্য চট্টগ্রাম ও সিলেটের পাহাড়; প্রায় ১৪ হাজার বর্গ কিমি; গর্জন, সেগুন, জারুল, চাপালিশ।
+- পাতাঝরা (শাল) বন: ময়মনসিংহ, টাঙ্গাইল, গাজীপুর, দিনাজপুর, রংপুর; শীতে পাতা ঝরে; শাল বা গজারি।
+- ম্যানগ্রোভ বন: জোয়ার-ভাটার লোনা উপকূল, প্রধানত সুন্দরবন; সুন্দরী, গেওয়া, কেওড়া, গরান, গোলপাতা।
+- কাঠের চাহিদায় বন কমছে; বন রক্ষা করতে হবে।
+## think
+একজন ভ্রমণকারী জানুয়ারি মাসে একটি বনের ভেতর দিয়ে হেঁটে দেখলেন সব গাছ পাতাশূন্য। তিন ধরনের বনের কোনটিতে তাঁর থাকার সম্ভাবনা সবচেয়ে বেশি, আর তা কোন কোন জেলায় হতে পারে?
+## quiz
+? বাংলাদেশের মোট আয়তনের প্রায় কত শতাংশ বনভূমি?
+- ৫%
+* ১৭%
+- ২৫%
+- ৫০%
+= বাংলাদেশে বনভূমি প্রায় ১৭ শতাংশ; একটি দেশের দরকার ২০ থেকে ২৫ শতাংশ।
+? ক্রান্তীয় পাতাঝরা বনভূমির প্রধান গাছ
+- সুন্দরী
+- গর্জন
+* শাল (গজারি)
+- গোলপাতা
+= শাল প্রধান বৃক্ষ, তাই মধুপুর-ভাওয়াল ও বরেন্দ্র অঞ্চলের বনকে শালবন বলা হয়।
+? স্রোতজ (ম্যানগ্রোভ) বনভূমি কোথায় জন্মে?
+- সিলেটের পাহাড়ে
+- বরেন্দ্রভূমিতে
+- মধুপুর গড়ে
+* উপকূলের জোয়ার-ভাটায় ধোয়া লোনা, ভেজা মাটিতে
+= ম্যানগ্রোভ জন্মে জোয়ার-ভাটার উপকূলে, প্রধানত সুন্দরবনে।
+
+@@ 5.2.4
+@visual g5economy
+@related 5.2.1 5.2.2 4.1.4
+== en
+## what
+Land, forests, fish, minerals, sunshine and water are the base of the economy of Bangladesh. Used properly, they can remove poverty, secure food and raise the standard of living. Used carelessly, they will be lost.
+## visual
+Choose a resource to see what it gives the economy and the warning that goes with it.
+## simple
+Follow a single shirt backwards. It was sewn in a factory that runs on electricity made from gas. Its buttons, dyes and packing came by river and road. The worker who made it ate rice grown on silt, fish from a beel and vegetables watered from a canal. Every step leans on something nature supplied.
+
+That is true of the whole economy. Natural resources are the raw material, the energy and the food behind almost every job. So the question is never whether to use them, but how to use them so that they last.
+## points
+1. **The resources:** land, forests, fish, minerals, solar heat and natural water bodies are the important natural resources of the country.
+2. **What they can do:** properly used, they make it possible to remove poverty, secure food and ensure a better standard of living. They are a main driving force of economic development.
+3. **Soil, our great wealth:** the soil is so fertile that crops can be grown without much capital. By making the best use of it we can produce more crops, flowers, fruit, vegetables and forest products.
+4. **Food trebled:** in the 55 years since independence Bangladesh has trebled its food production. With better technology, seed and methods it can grow still more.
+5. **Nutrition and export:** growing many local and foreign fruits can meet people's need for nutrition, and vegetables can be exported after meeting the country's own demand.
+6. **Land under pressure:** with a growing population and rising incomes, fertile land is being lost to houses, factories, bridges, roads and towns. Unless land is used in a planned way, a disaster in national life may follow.
+7. **Water:** farming and industry depend entirely on the water of rivers, canals, beels, haors, baors and ponds. Transport, too, depends largely on waterways.
+8. **Other resources:** minerals, forests, solar energy, wind and rain water are all helping the country move towards prosperity. The largest part of the national income comes from putting these resources to use.
+9. **Industry, jobs and exports:** mills and factories have grown up by using the country's own natural resources. People get work, goods for local needs are produced, and export goods are made from the same resources.
+10. **Protecting forests:** natural forests are being damaged by human activity, development projects, trade and the acts of greedy and dishonest people. Students, teachers and civil society must work together to protect them.
+
+| Resource | What it gives | Care needed |
+| Land and soil | crops, fruit, flowers, vegetables with little capital | planned use; stop the loss of fertile land |
+| Water | irrigation, industry, fish, transport | keep it flowing and clean |
+| Forest | timber, honey, wax, raw materials, clean air | protect and plant |
+| Minerals | gas, coal, limestone for power and industry | they run out: use sparingly |
+| Sun, wind and rain | electricity and more, without fuel | use modern technology |
+## definition
+**Economy:** the whole system by which a country produces, distributes and uses goods and services.
+
+**Raw material:** a natural substance from which goods are made.
+
+**Conservation:** using a resource carefully and protecting it so that it lasts.
+## matters
+- Most of the national income, and most jobs, come directly or indirectly from natural resources.
+- Resources used up or spoiled today cannot support your generation tomorrow.
+- Planned use of land and protection of rivers and forests are choices people make, and students can help to make them.
+## terms
+National income (জাতীয় আয়) | The total income earned by a country in a year
+Raw material (কাঁচামাল) | A natural substance used to make goods
+Export (রপ্তানি) | Selling goods to other countries
+Capital (পুঁজি) | Money put into producing something
+Conservation (সংরক্ষণ) | Careful use and protection of a resource
+## facts
+Main natural resources | land, forests, fish, minerals, solar heat, water
+Food production since independence | trebled in 55 years
+Most important resource named | the fertile soil
+Farming and industry depend on | the water of rivers, canals, beels, haors and ponds
+Fertile land is being lost to | houses, factories, bridges, roads and towns
+Who must protect forests | students, teachers and civil society, together
+## mistakes
+x Natural resources matter only to farmers.
+v Industry, transport, electricity, exports and jobs in towns all depend on them too.
+x Natural resources will always be there, however we use them.
+v Fertile land is shrinking, forests are being damaged and minerals run out. Without planned use and protection they will be lost.
+## remember
+- Land, forests, fish, minerals, solar heat and water are the base of the economy.
+- Fertile soil lets crops grow with little capital; food production has trebled since independence.
+- Farming, industry and transport depend on water.
+- Resources give raw materials, jobs, local goods and exports; most of the national income comes from them.
+- Use land in a planned way and protect forests and water, or national life will suffer.
+## think
+Choose one thing your family bought this week. Trace it back as far as you can: which natural resources were needed to grow it or make it and to bring it to you?
+## quiz
+? Which is named as one of the most important natural resources of Bangladesh because crops grow on it with little capital?
+- Coal
+* The fertile soil
+- Limestone
+- Rubber
+= The soil is so fertile that crops can be grown without much capital.
+? Why is fertile land in Bangladesh decreasing?
+- Because of too much rain
+- Because rivers are bringing silt
+* Because houses, factories, roads and towns are being built on it
+- Because farmers grow too many crops
+= Under population pressure and economic growth, fertile land is taken for buildings, bridges, roads and towns.
+? Who should work together to protect the natural forests?
+- Only the government
+- Only foreign experts
+- Only timber traders
+* Students, teachers and civil society
+= The textbook calls for a joint effort of students, teachers and civil society to protect the forests.
+== bn
+## what
+ভূমি, বনভূমি, মাছ, খনিজ, সূর্যের আলো ও পানি বাংলাদেশের অর্থনীতির ভিত্তি। যথাযথভাবে ব্যবহার করলে এগুলো দিয়ে দারিদ্র্য দূর করা, খাদ্য নিরাপত্তা দেওয়া ও জীবনমান উন্নত করা যায়। অযত্নে ব্যবহার করলে এগুলো হারিয়ে যাবে।
+## visual
+একটি সম্পদ বেছে নিয়ে দেখো সেটি অর্থনীতিকে কী দেয় এবং তার সাথে কোন সতর্কবার্তা আছে।
+## simple
+একটি শার্টকে উল্টো পথে অনুসরণ করো। এটি সেলাই হয়েছে এমন কারখানায়, যা চলে গ্যাস থেকে তৈরি বিদ্যুতে। এর বোতাম, রং ও মোড়ক এসেছে নদী ও সড়কপথে। যে শ্রমিক এটি বানিয়েছেন, তিনি খেয়েছেন পলিমাটিতে ফলানো ভাত, বিলের মাছ আর খালের পানিতে ফলানো সবজি। প্রতিটি ধাপ প্রকৃতির দেওয়া কোনো কিছুর ওপর দাঁড়িয়ে আছে।
+
+পুরো অর্থনীতির বেলায়ও এ কথা সত্য। প্রায় প্রতিটি কাজের পেছনের কাঁচামাল, শক্তি ও খাদ্য হলো প্রাকৃতিক সম্পদ। তাই প্রশ্নটি কখনো ব্যবহার করব কি না তা নয়; প্রশ্ন হলো কীভাবে ব্যবহার করলে এগুলো টিকে থাকবে।
+## points
+1. **সম্পদগুলো:** ভূমি, বনভূমি, মৎস্য, খনিজ পদার্থ, সৌরতাপ ও প্রাকৃতিক জলাশয় এ দেশের গুরুত্বপূর্ণ প্রাকৃতিক সম্পদ।
+2. **এগুলো কী করতে পারে:** যথাযথভাবে ব্যবহার করে দারিদ্র্য দূরীকরণ, খাদ্য নিরাপত্তা বিধান ও উন্নত জীবনমান নিশ্চিত করা সম্ভব। এগুলো অর্থনৈতিক উন্নয়নের অন্যতম চালিকাশক্তি।
+3. **মাটি, আমাদের বড় সম্পদ:** মাটি এত উর্বর যে ফসল ফলাতে বেশি পুঁজির প্রয়োজন হয় না। মাটির সর্বোচ্চ ব্যবহার করে ফসল, ফুল, ফল, শাকসবজি ও বনজ সম্পদের প্রসার ঘটানো যায়।
+4. **খাদ্য তিন গুণ:** স্বাধীনতার ৫৫ বছরে বাংলাদেশ খাদ্য উৎপাদন তিন গুণ বাড়াতে পেরেছে। উন্নত প্রযুক্তি, বীজ ও চাষপদ্ধতি দিয়ে আরও বেশি ফলানো সম্ভব।
+5. **পুষ্টি ও রপ্তানি:** নানা দেশি-বিদেশি ফল ফলিয়ে মানুষের পুষ্টির চাহিদা পূরণ করা যায়; শাকসবজির দেশীয় চাহিদা মিটিয়ে বিদেশে রপ্তানি করা যায়।
+6. **ভূমির ওপর চাপ:** ক্রমবর্ধমান জনসংখ্যা ও অর্থনৈতিক উন্নতির সাথে বাড়িঘর, কলকারখানা, পুল, রাস্তাঘাট ও শহর নির্মাণে উর্বর ভূমি কমছে। ভূমির পরিকল্পিত ব্যবহার না হলে জাতীয় জীবনে বিপর্যয় ঘটতে পারে।
+7. **পানি:** কৃষি ও শিল্প অর্থনীতি নদ-নদী, খাল, বিল, হাওড়, বাঁওড় ও পুকুরের পানির ওপর সম্পূর্ণ নির্ভরশীল। যোগাযোগ ব্যবস্থাও অনেকাংশে পানিপথের ওপর নির্ভরশীল।
+8. **অন্যান্য সম্পদ:** খনিজ, বনজ, সৌরশক্তি, বায়ুপ্রবাহ ও বৃষ্টির পানি ব্যবহার করে দেশ সমৃদ্ধির পথে এগোচ্ছে। জাতীয় আয়ের সিংহভাগ আসে এসব সম্পদ কাজে লাগিয়ে।
+9. **শিল্প, কর্মসংস্থান ও রপ্তানি:** দেশীয় প্রাকৃতিক সম্পদ ব্যবহার করেই শিল্প-কলকারখানা গড়ে উঠেছে। এতে মানুষ কাজ পাচ্ছে, দেশীয় চাহিদার পণ্য তৈরি হচ্ছে, রপ্তানি পণ্যও এসব সম্পদ থেকে তৈরি হচ্ছে।
+10. **বনভূমি রক্ষা:** নানা ধরনের মানবীয় কর্মকাণ্ড, উন্নয়ন প্রকল্প, ব্যবসা-বাণিজ্য এবং কিছু লোভী ও অসৎ মানুষের অপতৎপরতায় প্রাকৃতিক বনভূমি ক্ষতিগ্রস্ত হচ্ছে। শিক্ষার্থী, শিক্ষক ও নাগরিক সমাজকে যৌথভাবে বন রক্ষায় ভূমিকা রাখতে হবে।
+
+| সম্পদ | কী দেয় | যে যত্ন দরকার |
+| ভূমি ও মাটি | অল্প পুঁজিতে ফসল, ফল, ফুল, শাকসবজি | পরিকল্পিত ব্যবহার; উর্বর জমি কমে যাওয়া রোধ |
+| পানি | সেচ, শিল্প, মাছ, যাতায়াত | প্রবাহ ও বিশুদ্ধতা রক্ষা |
+| বনভূমি | কাঠ, মধু, মোম, কাঁচামাল, নির্মল বায়ু | রক্ষা করা ও গাছ লাগানো |
+| খনিজ | বিদ্যুৎ ও শিল্পের জন্য গ্যাস, কয়লা, চুনাপাথর | ফুরিয়ে যায়: মিতব্যয়ী ব্যবহার |
+| সূর্য, বায়ু ও বৃষ্টি | জ্বালানি ছাড়া বিদ্যুৎ ও আরও অনেক কিছু | আধুনিক প্রযুক্তির ব্যবহার |
+## definition
+**অর্থনীতি:** একটি দেশ যে ব্যবস্থায় পণ্য ও সেবা উৎপাদন, বণ্টন ও ব্যবহার করে।
+
+**কাঁচামাল:** যে প্রাকৃতিক উপাদান থেকে পণ্য তৈরি হয়।
+
+**সংরক্ষণ:** কোনো সম্পদ সযত্নে ব্যবহার ও রক্ষা করা, যাতে তা টিকে থাকে।
+## matters
+- জাতীয় আয়ের সিংহভাগ এবং বেশির ভাগ কর্মসংস্থান প্রত্যক্ষ বা পরোক্ষভাবে প্রাকৃতিক সম্পদ থেকে আসে।
+- আজ যে সম্পদ ফুরিয়ে বা নষ্ট হয়ে যাবে, তা কাল তোমাদের প্রজন্মের কাজে লাগবে না।
+- ভূমির পরিকল্পিত ব্যবহার এবং নদী ও বন রক্ষা মানুষেরই সিদ্ধান্ত; সেই সিদ্ধান্তে শিক্ষার্থীরাও ভূমিকা রাখতে পারে।
+## terms
+জাতীয় আয় (National income) | এক বছরে একটি দেশের মোট উপার্জন
+কাঁচামাল (Raw material) | পণ্য তৈরিতে ব্যবহৃত প্রাকৃতিক উপাদান
+রপ্তানি (Export) | অন্য দেশে পণ্য বিক্রি
+পুঁজি (Capital) | কিছু উৎপাদনে খাটানো অর্থ
+সংরক্ষণ (Conservation) | সম্পদের সযত্ন ব্যবহার ও রক্ষা
+## facts
+প্রধান প্রাকৃতিক সম্পদ | ভূমি, বনভূমি, মৎস্য, খনিজ, সৌরতাপ, পানি
+স্বাধীনতার পর খাদ্য উৎপাদন | ৫৫ বছরে তিন গুণ
+সবচেয়ে গুরুত্বপূর্ণ সম্পদ হিসেবে উল্লিখিত | উর্বর মাটি
+কৃষি ও শিল্প নির্ভরশীল | নদ-নদী, খাল, বিল, হাওড় ও পুকুরের পানির ওপর
+উর্বর ভূমি কমছে | বাড়িঘর, কলকারখানা, পুল, রাস্তা ও শহর নির্মাণে
+বন রক্ষায় কারা | শিক্ষার্থী, শিক্ষক ও নাগরিক সমাজ, যৌথভাবে
+## mistakes
+x প্রাকৃতিক সম্পদ শুধু কৃষকের জন্য গুরুত্বপূর্ণ।
+v শিল্প, যাতায়াত, বিদ্যুৎ, রপ্তানি ও শহরের কর্মসংস্থানও এর ওপর নির্ভরশীল।
+x যেভাবেই ব্যবহার করি, প্রাকৃতিক সম্পদ চিরকাল থাকবে।
+v উর্বর ভূমি কমছে, বন ক্ষতিগ্রস্ত হচ্ছে, খনিজ ফুরিয়ে যায়। পরিকল্পিত ব্যবহার ও সংরক্ষণ না হলে এগুলো হারিয়ে যাবে।
+## remember
+- ভূমি, বনভূমি, মৎস্য, খনিজ, সৌরতাপ ও পানি অর্থনীতির ভিত্তি।
+- উর্বর মাটিতে অল্প পুঁজিতে ফসল হয়; স্বাধীনতার পর খাদ্য উৎপাদন তিন গুণ হয়েছে।
+- কৃষি, শিল্প ও যাতায়াত পানির ওপর নির্ভরশীল।
+- সম্পদ থেকে আসে কাঁচামাল, কর্মসংস্থান, দেশীয় পণ্য ও রপ্তানি; জাতীয় আয়ের সিংহভাগ এখান থেকেই।
+- ভূমির পরিকল্পিত ব্যবহার এবং বন ও পানি রক্ষা না করলে জাতীয় জীবনে বিপর্যয় ঘটবে।
+## think
+এ সপ্তাহে তোমার পরিবার কিনেছে এমন একটি জিনিস বেছে নাও। যতদূর পারো উল্টো পথে খুঁজে দেখো: এটি ফলাতে বা বানাতে এবং তোমার কাছে পৌঁছে দিতে কোন কোন প্রাকৃতিক সম্পদ লেগেছে?
+## quiz
+? অল্প পুঁজিতে ফসল ফলানো যায় বলে বাংলাদেশের অন্যতম গুরুত্বপূর্ণ প্রাকৃতিক সম্পদ কোনটি?
+- কয়লা
+* উর্বর মাটি
+- চুনাপাথর
+- রাবার
+= এ দেশের মাটি এত উর্বর যে ফসল ফলাতে বেশি পুঁজির প্রয়োজন হয় না।
+? বাংলাদেশে উর্বর ভূমি কমে যাচ্ছে কেন?
+- অতিরিক্ত বৃষ্টির কারণে
+- নদী পলি আনছে বলে
+* এতে বাড়িঘর, কলকারখানা, রাস্তা ও শহর নির্মিত হচ্ছে বলে
+- কৃষকরা বেশি ফসল ফলান বলে
+= জনসংখ্যার চাপ ও অর্থনৈতিক উন্নতির সাথে উর্বর ভূমি ভবন, পুল, রাস্তা ও শহরে চলে যাচ্ছে।
+? প্রাকৃতিক বনভূমি রক্ষায় কাদের যৌথভাবে কাজ করতে হবে?
+- শুধু সরকারের
+- শুধু বিদেশি বিশেষজ্ঞদের
+- শুধু কাঠ ব্যবসায়ীদের
+* শিক্ষার্থী, শিক্ষক ও নাগরিক সমাজের
+= পাঠ্যবইয়ে শিক্ষার্থী, শিক্ষক ও নাগরিক সমাজের যৌথ প্রচেষ্টায় বন রক্ষার কথা বলা হয়েছে।

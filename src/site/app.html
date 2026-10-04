@@ -7,7 +7,8 @@
 /* Layout: a ruled exercise-book page. One reading column; sticky top bar; each subject wears its textbook cover colour. */
 :root{
   --paper:#f7f8f4; --sheet:#ffffff; --rule:#e1e6ea; --ink:#1c2330; --muted:#566172; --faint:#8a93a0;
-  --phy:#2f6db3; --phy-soft:#e7f0fa; --chem:#8a3f8f; --chem-soft:#f5eaf5; --bio:#3b7d38; --bio-soft:#e9f4e7;
+  --phy:#2f6db3; --phy-soft:#e7f0fa; --chem:#8a3f8f; --chem-soft:#f5eaf5; --bio:#3b7d38; --bio-soft:#e9f4e7; --bgs:#b0562a; --bgs-soft:#fbeee4;
+  --g-sea:#d7e8f3; --g-land:#ebe7db; --g-bd:#fbf8ee; --g-line:#8d95a1; --g-river:#2b7fc2;
   --good:#2f7d4a; --good-soft:#e6f4ea; --bad:#b3372f; --bad-soft:#fbeae8; --note:#9a5b00; --note-soft:#fff4de;
   --c:var(--phy); --c-soft:var(--phy-soft);
   --f-display:"Anek Bangla","Hind Siliguri","Noto Sans Bengali",system-ui,sans-serif;
@@ -16,17 +17,19 @@
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --paper:#11151b; --sheet:#171c24; --rule:#252d39; --ink:#e7ebf1; --muted:#a4aebc; --faint:#77818f;
-  --phy:#83b3ee; --phy-soft:#1a293c; --chem:#d69bda; --chem-soft:#2d1f30; --bio:#91d08b; --bio-soft:#1b2b1b;
+  --phy:#83b3ee; --phy-soft:#1a293c; --chem:#d69bda; --chem-soft:#2d1f30; --bio:#91d08b; --bio-soft:#1b2b1b; --bgs:#f0a678; --bgs-soft:#33221a;
+  --g-sea:#13222f; --g-land:#262a30; --g-bd:#3a4049; --g-line:#77818f; --g-river:#6cb6ea;
   --good:#7fd19a; --good-soft:#15291c; --bad:#f19a92; --bad-soft:#321a18; --note:#f0b75c; --note-soft:#2e2515; color-scheme:dark}}
 :root[data-theme="dark"]{
   --paper:#11151b; --sheet:#171c24; --rule:#252d39; --ink:#e7ebf1; --muted:#a4aebc; --faint:#77818f;
-  --phy:#83b3ee; --phy-soft:#1a293c; --chem:#d69bda; --chem-soft:#2d1f30; --bio:#91d08b; --bio-soft:#1b2b1b;
+  --phy:#83b3ee; --phy-soft:#1a293c; --chem:#d69bda; --chem-soft:#2d1f30; --bio:#91d08b; --bio-soft:#1b2b1b; --bgs:#f0a678; --bgs-soft:#33221a;
+  --g-sea:#13222f; --g-land:#262a30; --g-bd:#3a4049; --g-line:#77818f; --g-river:#6cb6ea;
   --good:#7fd19a; --good-soft:#15291c; --bad:#f19a92; --bad-soft:#321a18; --note:#f0b75c; --note-soft:#2e2515; color-scheme:dark}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.7;
   background-image:linear-gradient(var(--rule) 1px,transparent 1px);background-size:100% 34px}
-.s-physics{--c:var(--phy);--c-soft:var(--phy-soft)} .s-chemistry{--c:var(--chem);--c-soft:var(--chem-soft)} .s-biology{--c:var(--bio);--c-soft:var(--bio-soft)}
+.s-physics{--c:var(--phy);--c-soft:var(--phy-soft)} .s-chemistry{--c:var(--chem);--c-soft:var(--chem-soft)} .s-biology{--c:var(--bio);--c-soft:var(--bio-soft)} .s-bgs{--c:var(--bgs);--c-soft:var(--bgs-soft)}
 a{color:var(--c)}
 button{font:inherit;color:inherit}
 :focus-visible{outline:2px solid var(--c);outline-offset:2px;border-radius:4px}
@@ -210,13 +213,59 @@ footer.site{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:20px
   .example li .why{grid-column:1}
   .formula .eq{font-size:19px}
 }
+
+/* tables in prose, fact tables (Bangladesh and Global Studies) */
+table.cmp{border-collapse:collapse;width:100%;background:var(--sheet);border:1px solid var(--rule);font-size:15.5px;margin:0 0 12px}
+table.cmp th,table.cmp td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--rule);vertical-align:top}
+table.cmp th{font-size:13.5px;color:var(--muted);font-weight:600;background:var(--c-soft)}
+table.cmp td:first-child{font-weight:600}
+table.cmp:has(th:nth-child(4)){font-size:14px}
+table.cmp:has(th:nth-child(4)) th,table.cmp:has(th:nth-child(4)) td{padding:6px 6px}
+table.cmp:has(th:nth-child(4)) th{font-size:12.5px}
+table.cmp th:first-child,table.cmp td:first-child{position:sticky;left:0;z-index:1}
+table.cmp td:first-child{background:var(--sheet)}
+.tbl-hint{font-size:13px;color:var(--muted);margin:0 0 4px;text-align:right}
+.prose.points>ol{padding-left:24px}.prose.points>ol>li{margin-block:7px}.prose.points>ol>li::marker{color:var(--c);font-weight:700}
+/* map + diagram toolkit used by the BGS widgets */
+.g-map{position:relative}
+.g-map svg{display:block;width:100%;height:auto;border-radius:10px;background:var(--g-sea);touch-action:pan-y;user-select:none;-webkit-user-select:none}
+.g-map.zoomed svg{touch-action:none;cursor:grab}
+.g-map svg text{font-family:var(--f-body);pointer-events:none}
+.g-map [data-k]{cursor:pointer}
+.g-map svg .dl{display:none}.g-map.z2 svg .dl{display:block}   /* district names appear once the map is zoomed in */
+.g-ctl{position:absolute;right:8px;top:8px;display:grid;gap:6px}
+.g-ctl button{width:38px;height:38px;border-radius:10px;border:1px solid var(--rule);background:color-mix(in srgb,var(--sheet) 92%,transparent);font-size:20px;line-height:1;cursor:pointer;color:var(--ink)}
+.g-card{background:var(--c-soft);border-radius:10px;padding:10px 14px;font-size:16px;min-height:3em}
+.g-card h4{margin:0 0 4px;font-family:var(--f-display);font-size:18px;line-height:1.3}
+.g-card ol,.g-card ul{margin:4px 0 0;padding-left:22px}.g-card li{margin-block:2px}
+.g-card p{margin:0 0 6px}.g-card p:last-child{margin-bottom:0}
+html[lang="bn"] .g-card ol{list-style-type:bengali}
+.g-src{font-size:12px;color:var(--faint);line-height:1.45}
+.g-leg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13.5px;color:var(--muted)}
+.g-leg i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+.g-flow{display:grid;gap:4px;justify-items:stretch}
+.g-flow button{font:inherit;color:inherit;text-align:left;border:1px solid var(--rule);background:var(--paper);border-radius:10px;padding:8px 12px;cursor:pointer;min-height:42px;display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start}
+.g-flow button[aria-pressed="true"]{border-color:var(--c);background:var(--c-soft)}
+.g-flow button b{color:var(--c);font-family:var(--f-mono);font-size:13px;padding-top:3px}
+.g-flow .ar{text-align:center;color:var(--c);line-height:1;font-size:18px}
+.g-flow .ex{grid-column:2;font-size:14.5px;color:var(--muted)}
+.g-tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(128px,1fr));gap:8px}
+.g-tile{background:var(--c-soft);border-radius:10px;padding:10px 12px;font-size:14px;color:var(--muted)}
+.g-tile b{display:block;font-family:var(--f-display);font-size:23px;color:var(--c);line-height:1.2;font-variant-numeric:tabular-nums}
+.g-bars{display:grid;gap:6px;font-size:15px}
+.g-bars .row{display:grid;grid-template-columns:minmax(84px,30%) 1fr auto;gap:8px;align-items:center}
+.g-bars .trk{height:14px;background:var(--rule);border-radius:99px;overflow:hidden}.g-bars .trk i{display:block;height:100%;background:var(--c);border-radius:99px}
+.g-bars .val{font-variant-numeric:tabular-nums;font-size:14px;color:var(--muted);white-space:nowrap}
+.g-step{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.g-step .cnt{font-size:14px;color:var(--muted);margin-left:auto}
+.g-two{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:8px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 /*__LANDINGCSS__*/
 </style>
 
 <header class="top">
   <div class="top-in">
-    <a class="brand" href="#" id="brand"><span id="brandmark"></span><span class="wm"><span id="brandtxt">Let's Learn</span><small id="brandsub">Class 9–10 Science</small></span></a>
+    <a class="brand" href="#" id="brand"><span id="brandmark"></span><span class="wm"><span id="brandtxt">Let's Learn</span><small id="brandsub">Classes 9–10</small></span></a>
     <span class="grow"></span>
     <button class="iconbtn" id="searchbtn" aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span id="searchlbl">Search</span></button>
     <span id="acct"></span>
@@ -229,32 +278,37 @@ footer.site{max-width:880px;margin:0 auto;padding-inline:16px;padding-block:20px
 <script>
 "use strict";
 const UI = {
-  en:{brand:"Let's Learn", brandSub:"Class 9–10 Science", tag:"Learn. Understand. Visualize.", search:"Search", searchPh:"Search a topic, term or formula (English or বাংলা)",
+  en:{brand:"Let's Learn", brandSub:"Classes 9–10", tag:"Learn. Understand. Visualize.", search:"Search", searchPh:"Search a topic, term or formula (English or বাংলা)",
     home:"Home", chapter:"Chapter", chapters:"chapters", lessons:"lessons", lesson:"Lesson", soon:"coming soon", done:"done",
     intro:"About this chapter", objectives:"By the end you will be able to", keyf:"Important formulas & ideas", list:"Lessons in this chapter",
     markDone:"Mark as completed", marked:"Completed ✓", prev:"Previous", next:"Next", book:"In the book", pages:"Textbook pages",
     notReady:"This lesson is being written. Here is what it will cover:", noResult:"No lessons match. Try a shorter word, or search in the other language.",
     s:{what:"What is this?", simple:"Understand simply", definition:"Scientific definition", why:"Why does it happen?", terms:"Important terms",
        formula:"Formula", visual:"See it", real:"In real life", example:"Worked example", mistakes:"Common mistakes", remember:"Remember this",
-       think:"Think about it", quiz:"Check your understanding", related:"Related topics", media:"Watch & explore"},
+       think:"Think about it", quiz:"Check your understanding", related:"Related topics", media:"Watch & explore", points:"Main points", matters:"Why is it important?", facts:"Important facts"},
+    sBy:{bgs:{simple:"Easy explanation", definition:"Definition", remember:"Quick revision"}}, chSoon:"This chapter is being prepared. It will be added soon.",
     term:"Term", meaning:"Meaning", symbol:"Symbol", sMeaning:"Stands for", unit:"Unit", showAns:"Show the answer", correct:"Correct!", wrong:"Not quite.",
-    how:[["Pick a subject","Physics, Chemistry or Biology, chapter by chapter."],["Read like a teacher is beside you","Simple idea first, then the textbook definition."],["Try it yourself","Move the sliders, solve the example, answer the quick questions."]],
-    subjCh:"chapters", foot:"Made for Bangladesh SSC students, based on the NCTB Physics, Chemistry and Biology books for Classes 9–10 (2026). Explanations are original; the textbook stays your main reference.",
+    how:[["Pick a subject","Physics, Chemistry, Biology or Bangladesh and Global Studies, chapter by chapter."],["Read like a teacher is beside you","Simple idea first, then the textbook definition."],["Try it yourself","Move the sliders, solve the example, answer the quick questions."]],
+    subjCh:"chapters", foot:"Made for Bangladesh SSC students, based on the NCTB Physics, Chemistry, Biology and Bangladesh and Global Studies books for Classes 9–10 (2026). Explanations are original; the textbook stays your main reference.",
     analogy:"Picture it like this", triQ:"Tap what you want to find:", find:"Find", labels:{"Given":"Given","Formula":"Formula","Substitution":"Substitution","Calculation":"Calculation","Answer":"Answer","Unit":"Unit","Solution":"Solution","Step":"Step"}},
-  bn:{brand:"Let's Learn", brandSub:"নবম-দশম শ্রেণির বিজ্ঞান", tag:"শিখি। বুঝি। চোখে দেখি।", search:"খুঁজুন", searchPh:"বিষয়, শব্দ বা সূত্র লিখে খোঁজো (বাংলা বা English)",
+  bn:{brand:"Let's Learn", brandSub:"নবম-দশম শ্রেণি", tag:"শিখি। বুঝি। চোখে দেখি।", search:"খুঁজুন", searchPh:"বিষয়, শব্দ বা সূত্র লিখে খোঁজো (বাংলা বা English)",
     home:"হোম", chapter:"অধ্যায়", chapters:"অধ্যায়", lessons:"পাঠ", lesson:"পাঠ", soon:"শিগগির আসছে", done:"শেষ",
     intro:"এই অধ্যায়ে কী আছে", objectives:"অধ্যায় শেষে তুমি পারবে", keyf:"গুরুত্বপূর্ণ সূত্র ও ধারণা", list:"এই অধ্যায়ের পাঠগুলো",
     markDone:"পড়া শেষ হিসেবে চিহ্নিত করো", marked:"পড়া শেষ ✓", prev:"আগের পাঠ", next:"পরের পাঠ", book:"বইয়ে", pages:"বইয়ের পৃষ্ঠা",
     notReady:"এই পাঠটি লেখা হচ্ছে। এতে যা যা থাকবে:", noResult:"কিছু পাওয়া যায়নি। ছোট করে লেখো, বা অন্য ভাষায় খুঁজে দেখো।",
     s:{what:"এটা কী?", simple:"সহজভাবে বুঝি", definition:"বৈজ্ঞানিক সংজ্ঞা", why:"কেন এমন হয়?", terms:"গুরুত্বপূর্ণ শব্দ",
        formula:"সূত্র", visual:"চোখে দেখি", real:"বাস্তব জীবনে", example:"উদাহরণ", mistakes:"সাধারণ ভুল", remember:"মনে রাখো",
-       think:"ভেবে দেখো", quiz:"নিজেকে যাচাই করো", related:"সম্পর্কিত বিষয়", media:"দেখো ও ঘুরে এসো"},
+       think:"ভেবে দেখো", quiz:"নিজেকে যাচাই করো", related:"সম্পর্কিত বিষয়", media:"দেখো ও ঘুরে এসো", points:"মূল পয়েন্টগুলো", matters:"কেন গুরুত্বপূর্ণ?", facts:"গুরুত্বপূর্ণ তথ্য"},
+    sBy:{bgs:{simple:"সহজ ব্যাখ্যা", definition:"সংজ্ঞা", remember:"ঝটপট রিভিশন"}}, chSoon:"এই অধ্যায়টি তৈরি হচ্ছে। শিগগিরই যুক্ত হবে।",
     term:"শব্দ", meaning:"অর্থ", symbol:"প্রতীক", sMeaning:"অর্থ", unit:"একক", showAns:"উত্তর দেখো", correct:"ঠিক হয়েছে!", wrong:"হয়নি, আবার ভাবো।",
-    how:[["বিষয় বেছে নাও","পদার্থবিজ্ঞান, রসায়ন বা জীববিজ্ঞান, অধ্যায় ধরে ধরে।"],["পাশে শিক্ষক আছেন এমনভাবে পড়ো","আগে সহজ ধারণা, তারপর বইয়ের সংজ্ঞা।"],["নিজে করে দেখো","স্লাইডার নাড়াও, উদাহরণ মেলাও, ছোট প্রশ্নের উত্তর দাও।"]],
-    subjCh:"টি অধ্যায়", foot:"বাংলাদেশের এসএসসি শিক্ষার্থীদের জন্য, এনসিটিবির নবম-দশম শ্রেণির পদার্থবিজ্ঞান, রসায়ন ও জীববিজ্ঞান বই (২০২৬) অনুসারে তৈরি। ব্যাখ্যাগুলো নিজস্ব; মূল ভরসা তোমার পাঠ্যবই।",
+    how:[["বিষয় বেছে নাও","পদার্থবিজ্ঞান, রসায়ন, জীববিজ্ঞান বা বাংলাদেশ ও বিশ্বপরিচয়, অধ্যায় ধরে ধরে।"],["পাশে শিক্ষক আছেন এমনভাবে পড়ো","আগে সহজ ধারণা, তারপর বইয়ের সংজ্ঞা।"],["নিজে করে দেখো","স্লাইডার নাড়াও, উদাহরণ মেলাও, ছোট প্রশ্নের উত্তর দাও।"]],
+    subjCh:"টি অধ্যায়", foot:"বাংলাদেশের এসএসসি শিক্ষার্থীদের জন্য, এনসিটিবির নবম-দশম শ্রেণির পদার্থবিজ্ঞান, রসায়ন, জীববিজ্ঞান এবং বাংলাদেশ ও বিশ্বপরিচয় বই (২০২৬) অনুসারে তৈরি। ব্যাখ্যাগুলো নিজস্ব; মূল ভরসা তোমার পাঠ্যবই।",
     analogy:"এভাবে ভেবে দেখো", triQ:"যা বের করতে চাও, তাতে চাপ দাও:", find:"বের করো", labels:{"Given":"দেওয়া আছে","Formula":"সূত্র","Substitution":"মান বসাই","Calculation":"হিসাব","Answer":"উত্তর","Unit":"একক","Solution":"সমাধান","Step":"ধাপ"}}
 };
-const SECT_ORDER = ["what","simple","definition","why","terms","formula","visual","real","example","mistakes","remember","think","quiz"];
+const SECT_ORDER = ["what","simple","points","definition","why","matters","terms","facts","formula","visual","real","example","mistakes","remember","think","quiz"];
+const SECT_ORDER_BY = {bgs:["what","visual","simple","points","definition","why","matters","terms","facts","formula","real","example","mistakes","remember","think","quiz"]}; // BGS: picture first
+let CUR_SUBJ = null;
+const sLbl = k => { const u=UI[LANG]; return (u.sBy && u.sBy[CUR_SUBJ] && u.sBy[CUR_SUBJ][k]) || u.s[k]; };
 const BN_DIG = "০১২৩৪৫৬৭৮৯";
 const bnNum = (s,lang) => lang==="bn" ? String(s).replace(/[0-9]/g,d=>BN_DIG[d]) : String(s);
 
@@ -351,23 +405,24 @@ async function viewChapter(key,n){
   const [d,tot]=progressOf(s,c);
   const keys = c.topics.flatMap(t=>t.key||[]);
   return `<nav class="crumbs"><a href="${href()}">${u.home}</a><span>›</span><a href="${href(key)}">${title(s)}</a><span>›</span><span>${u.chapter} ${bnNum(n,LANG)}</span></nav>
-  <div class="eyebrow">${u.chapter} ${bnNum(n,LANG)} · ${u.pages} ${bnNum(c.pages,LANG)}</div>
+  <div class="eyebrow">${u.chapter} ${bnNum(n,LANG)} · ${u.pages} ${bnNum(LANG==="bn"&&c.pagesBn?c.pagesBn:c.pages,LANG)}</div>
   <h1>${title(c)}</h1>${LANG==="bn"&&c.bnBook!==c.bn?`<div class="bookline">${u.book}: ${esc(c.bnBook)}</div>`:""}
   <div class="bar" style="margin:12px 0 4px" aria-hidden="true"><i style="width:${tot?100*d/tot:0}%"></i></div>
   <div class="muted" style="font-size:14px">${bnNum(d,LANG)} / ${bnNum(tot,LANG)} ${u.lessons} ${u.done}</div>
   ${ch?`<section class="blk"><div class="lbl"><h2>${u.intro}</h2></div><div class="prose">${ch.intro||""}</div></section>
   <section class="blk"><div class="card"><h3 style="margin-bottom:6px">${u.objectives}</h3><ul class="objectives">${(ch.objectives||[]).map(o=>`<li>${o}</li>`).join("")}</ul></div></section>`:""}
   ${keys.length?`<section class="blk"><div class="lbl"><h2>${u.keyf}</h2></div><div class="keys">${keys.map(k=>`<span>${esc(k)}</span>`).join("")}</div></section>`:""}
-  <section class="blk"><div class="lbl"><h2>${u.list}</h2></div>
+  ${c.topics.length?"":`<div class="coming" style="margin-top:18px">${u.chSoon}</div>`}
+  <section class="blk"${c.topics.length?"":" hidden"}><div class="lbl"><h2>${u.list}</h2></div>
   <div class="chap"><ol class="lessons">${c.topics.map(t=>`<li class="${t.ready?"":"off"}"><a href="${href(key,t.id)}"><span class="id">${bnNum(t.id,LANG)}</span><span class="nm">${title(t)}</span><span class="st">${DONE.has(doneKey(key,t.id))?`<span class="done-mark">✓</span>`:t.ready?"":`<span class="soon">${u.soon}</span>`}</span></a></li>`).join("")}</ol></div></section>`;
 }
 
-function sec(k,n,inner){ return `<section class="blk" id="s-${k}"><div class="lbl"><span class="n">${bnNum(n,LANG)}</span><h2>${UI[LANG].s[k]}</h2></div>${inner}</section>`; }
+function sec(k,n,inner){ return `<section class="blk" id="s-${k}"><div class="lbl"><span class="n">${bnNum(n,LANG)}</span><h2>${sLbl(k)}</h2></div>${inner}</section>`; }
 
 async function viewLesson(key,id){
-  const f = findTopic(key,id); const u=UI[LANG];
+  const f = findTopic(key,id); const u=UI[LANG]; CUR_SUBJ = key;
   if(!f) return `<p class="empty">Not found.</p>`;
-  const {s,c,t,i} = f;
+  const {s,c,t,i} = f; const ORDER = SECT_ORDER_BY[key] || SECT_ORDER;
   const data = c.ready ? await loadChapter(key,c.n) : null;
   const L = data && data.lessons[id];
   const all = s.chapters.flatMap(ch=>ch.topics.map(tp=>({ch,tp})));
@@ -386,6 +441,9 @@ async function viewLesson(key,id){
     const parts = {};
     parts.what = X.what && `<div class="prose lead">${X.what}</div>`;
     parts.simple = X.simple && `<div class="prose">${X.simple}</div>${X.analogy?`<div class="analogy"><p class="ah"><span aria-hidden="true">💡</span>${u.analogy}</p><div class="prose">${X.analogy}</div></div>`:""}`;
+    parts.points = X.points && `<div class="prose points">${X.points}</div>`;
+    parts.matters = X.matters && `<div class="prose">${X.matters}</div>`;
+    parts.facts = X.facts && X.facts.length && `<div class="tablewrap"><table class="terms"><tbody>${X.facts.map(([a,b])=>`<tr><td>${a}</td><td>${b||""}</td></tr>`).join("")}</tbody></table></div>`;
     parts.definition = X.definition && `<div class="def"><div class="prose">${X.definition}</div></div>`;
     parts.why = X.why && `<div class="prose">${X.why}</div>`;
     parts.terms = X.terms && X.terms.length && `<div class="tablewrap"><table class="terms"><thead><tr><th>${u.term}</th><th>${u.meaning}</th></tr></thead><tbody>${X.terms.map(([a,b])=>`<tr><td>${a}</td><td>${b||""}</td></tr>`).join("")}</tbody></table></div>`;
@@ -402,9 +460,9 @@ async function viewLesson(key,id){
     parts.remember = X.remember && `<div class="remember"><ul>${X.remember.map(x=>`<li>${x}</li>`).join("")}</ul></div>`;
     parts.think = X.think && `<div class="think prose">${X.think}</div>`;
     parts.quiz = X.quiz && `<div class="quiz">${X.quiz.map((q,qi)=>`<div class="qq" data-ans="${q.answer}"><div class="qt">${bnNum(qi+1,LANG)}. ${q.q}</div><div class="opts">${q.options.map((o,oi)=>`<button class="opt" data-i="${oi}">${o}</button>`).join("")}</div><div class="qfb" hidden><b></b> ${q.explain}</div></div>`).join("")}</div>`;
-    const jump = SECT_ORDER.filter(k=>parts[k]).map(k=>`<a href="#s-${k}" data-jump="s-${k}">${u.s[k]}</a>`).join("");
+    const jump = ORDER.filter(k=>parts[k]).map(k=>`<a href="#s-${k}" data-jump="s-${k}">${sLbl(k)}</a>`).join("");
     h += `<nav class="jump" aria-label="Sections">${jump}</nav>`;
-    for(const k of SECT_ORDER) add(k, parts[k]);
+    for(const k of ORDER) add(k, parts[k]);
     if(L.media && L.media.length){ n++; h += sec("media",n,`<div class="media">${L.media.map(m=>`<a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(T(m.title))}<small>${esc(m.source)} ↗</small></a>`).join("")}</div>`); }
     const rel = (L.related||[]).map(r=>findTopic(key,r)).filter(Boolean);
     if(rel.length){ n++; h += sec("related",n,`<div class="related">${rel.map((x,ri)=>`${ri?'<span class="arrow">·</span>':""}<a href="${href(key,x.t.id)}">${bnNum(x.t.id,LANG)} ${title(x.t)}</a>`).join("")}</div>`); }
@@ -449,6 +507,7 @@ function wire(root){
   root.querySelectorAll("a.xref").forEach(a=>{ const r=parseHash(); a.href = href(r.subj,a.dataset.id); });
   const md = $("#markdone",root); if(md) md.addEventListener("click",()=>{ const k=md.dataset.k; if(DONE.has(k)) DONE.delete(k); else DONE.add(k); store.set("c10-done",[...DONE]); pushProgress(); const d=DONE.has(k); md.className="btn "+(d?"done":"solid"); md.textContent = d?UI[LANG].marked:UI[LANG].markDone; });
   root.querySelectorAll(".tri").forEach(initTri);
+  root.querySelectorAll(".tablewrap").forEach(w=>{ if(w.querySelector("table.cmp") && w.scrollWidth > w.clientWidth+2){ const h=document.createElement("p"); h.className="tbl-hint"; h.textContent=LANG==="bn"?"পুরো ছক দেখতে পাশে সরাও →":"Swipe sideways to see the whole table →"; w.before(h); } });
   root.querySelectorAll(".widget").forEach(el=>{ const fn = W[el.dataset.w]; if(fn){ try{ fn(el, LANG, currentLesson()); }catch(e){ console.error(e); el.textContent=""; } } });
 }
 function initTri(box){

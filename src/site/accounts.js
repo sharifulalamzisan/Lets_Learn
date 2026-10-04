@@ -87,7 +87,7 @@ function viewLogin(mode) {
   return `<section class="au-wrap"><div class="au-panel">
       <div class="au-brand">${logoMark()}<span>Let's Learn</span></div>
       <h1>${a.welcome}</h1><p>${a.welcomeSub}</p>
-      <ul class="au-points"><li>${LANG === "bn" ? "পদার্থবিজ্ঞান, রসায়ন, জীববিজ্ঞান" : "Physics, Chemistry and Biology"}</li><li>${LANG === "bn" ? "বাংলা ও ইংরেজিতে, ছবিসহ" : "In Bangla and English, with visuals"}</li><li>${LANG === "bn" ? "যেখানে থেমেছিলে সেখান থেকে শুরু" : "Pick up where you left off"}</li></ul>
+      <ul class="au-points"><li>${LANG === "bn" ? "পদার্থবিজ্ঞান, রসায়ন, জীববিজ্ঞান, বাংলাদেশ ও বিশ্বপরিচয়" : "Physics, Chemistry, Biology, Bangladesh and Global Studies"}</li><li>${LANG === "bn" ? "বাংলা ও ইংরেজিতে, ছবিসহ" : "In Bangla and English, with visuals"}</li><li>${LANG === "bn" ? "যেখানে থেমেছিলে সেখান থেকে শুরু" : "Pick up where you left off"}</li></ul>
       <p class="au-credit">${CREDIT[LANG]}</p></div>
     <div class="au-card" id="au-card">
       ${AUTH.available ? `<div class="au-tabs" role="tablist"><a role="tab" aria-selected="${!signup}" href="${href("login")}">${a.login}</a><a role="tab" aria-selected="${signup}" href="${href("login", "signup")}">${a.signup}</a></div>

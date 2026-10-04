@@ -5168,5 +5168,807 @@
     "bnBook": "জীবপ্রযুক্তি"
    }
   ]
+ },
+ {
+  "key": "bgs",
+  "en": "Bangladesh and Global Studies",
+  "bn": "বাংলাদেশ ও বিশ্বপরিচয়",
+  "chapters": [
+   {
+    "n": 1,
+    "en": "The Movements of East Bengal and the Rise of Nationalism (1947–1970)",
+    "bn": "ভাষা থেকে জাতীয়তাবাদ: পূর্ব বাংলার আন্দোলন (১৯৪৭-১৯৭০)",
+    "pages": "1-17",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "1-13",
+    "bnBook": "পূর্ব বাংলার আন্দোলন ও জাতীয়তাবাদের উত্থান (১৯৪৭-১৯৭০)"
+   },
+   {
+    "n": 2,
+    "en": "The Independence of Bangladesh",
+    "bn": "মুক্তিযুদ্ধ আর স্বাধীন বাংলাদেশ",
+    "pages": "18-33",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "14-25",
+    "bnBook": "বাংলাদেশের স্বাধীনতা"
+   },
+   {
+    "n": 3,
+    "en": "The Solar System and the Earth",
+    "bn": "সূর্য, পৃথিবী আর সময়ের হিসাব: সৌরজগৎ ও ভূমণ্ডল",
+    "pages": "34-57",
+    "topics": [
+     {
+      "id": "3.1.1",
+      "en": "The Sun and the solar system",
+      "bn": "সূর্য আর তার পরিবার: সৌরজগৎ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "The universe and the solar family: the Sun, 8 planets, satellites, asteroids, comets, meteors",
+       "The Sun: size, distance, composition, sunspots, rotation"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সূর্য ও সৌরজগৎ"
+     },
+     {
+      "id": "3.1.2",
+      "en": "The eight planets",
+      "bn": "আট গ্রহের পরিচয়: কে কাছে, কে বড়, কার কয়টি চাঁদ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Mercury, Venus, Earth, Mars, the asteroid belt, Jupiter, Saturn, Uranus, Neptune",
+       "Distance from the Sun, time to orbit, satellites and special features of each planet"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "সৌরজগতের আটটি গ্রহ"
+     },
+     {
+      "id": "3.1.3",
+      "en": "Why living things can live on the Earth",
+      "bn": "শুধু পৃথিবীতেই প্রাণ কেন?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "The atmosphere: nitrogen, oxygen, carbon dioxide; troposphere, tropopause, ozone layer",
+       "Light, heat, water and a suitable temperature; keeping the atmosphere clean"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পৃথিবীতে জীব বসবাসের কারণ"
+     },
+     {
+      "id": "3.1.4",
+      "en": "The interior structure of the Earth",
+      "bn": "পৃথিবীর পেটের ভেতর কী আছে?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Three layers known from earthquake waves: core (Nife), mantle (Sima), lithosphere/crust (Sial)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভূ-অভ্যন্তরের গঠন"
+     },
+     {
+      "id": "3.2.1",
+      "en": "Axis, equator and latitude",
+      "bn": "পৃথিবীর গায়ে আঁকা পূর্ব-পশ্চিম রেখা: নিরক্ষরেখা ও অক্ষাংশ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Axis and poles; the equator and the two hemispheres; parallels of latitude",
+       "Tropic of Cancer and Capricorn, Arctic and Antarctic Circles; low, middle and high latitudes"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "অক্ষ, নিরক্ষরেখা ও অক্ষাংশ"
+     },
+     {
+      "id": "3.2.2",
+      "en": "Longitude and the prime meridian",
+      "bn": "উত্তর-দক্ষিণ রেখা: দ্রাঘিমা ও গ্রিনিচের মূল মধ্যরেখা",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Meridians of longitude; the Greenwich prime meridian (0°); 180° East and West",
+       "Finding a place with latitude and longitude"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "দ্রাঘিমারেখা ও মূল মধ্যরেখা"
+     },
+     {
+      "id": "3.2.3",
+      "en": "Local time and standard time",
+      "bn": "ঢাকায় দুপুর, লন্ডনে সকাল কেন? স্থানীয় ও প্রমাণ সময়",
+      "tags": [
+       "F",
+       "D",
+       "N",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "1° of longitude = 4 minutes; 15° = 1 hour; east is ahead, west is behind",
+       "Standard time; Greenwich Mean Time; Bangladesh standard time (90° E, GMT + 6)",
+       "Worked problems: Dhaka–Seoul, Dhaka–Chennai"
+      ],
+      "key": [
+       "1° longitude = 4 minutes of time",
+       "15° longitude = 1 hour"
+      ],
+      "notes": [],
+      "bnBook": "স্থানীয় সময় ও প্রমাণ সময়"
+     },
+     {
+      "id": "3.2.4",
+      "en": "Antipode",
+      "bn": "পৃথিবীর ঠিক উল্টো পিঠ: প্রতিপাদ স্থান",
+      "tags": [
+       "D",
+       "N",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "The exactly opposite point on the Earth; rules for its latitude and longitude; 12 hours apart"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রতিপাদ স্থান"
+     },
+     {
+      "id": "3.2.5",
+      "en": "The International Date Line",
+      "bn": "যে রেখা পার হলে তারিখ বদলায়: আন্তর্জাতিক তারিখ রেখা",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Why a date line is needed at 180°; where it bends; gaining and losing a day"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আন্তর্জাতিক তারিখ রেখা"
+     },
+     {
+      "id": "3.3.1",
+      "en": "Diurnal motion: day and night",
+      "bn": "পৃথিবী ঘোরে, তাই দিন-রাত: আহ্নিক গতি",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Rotation from west to east in 23 h 56 min 4 s; the solar day",
+       "How day and night happen; the circle of illumination, dawn and twilight"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "আহ্নিক গতি: দিন ও রাত"
+     },
+     {
+      "id": "3.3.2",
+      "en": "Annual motion and the leap year",
+      "bn": "সূর্যের চারদিকে এক বছরের যাত্রা: বার্ষিক গতি ও অধিবর্ষ",
+      "tags": [
+       "D",
+       "N",
+       "V"
+      ],
+      "subs": [
+       "Revolution round the Sun in 365 d 5 h 48 min 47 s at about 30 km/s; the solar year; leap year",
+       "Perihelion and aphelion"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বার্ষিক গতি ও অধিবর্ষ"
+     },
+     {
+      "id": "3.3.3",
+      "en": "Why days and nights grow longer and shorter",
+      "bn": "দিন কখনো বড়, কখনো ছোট হয় কেন?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "The four positions: 21 June, 23 September, 22 December, 21 March",
+       "Solstices and equinoxes; 24-hour day and night inside the polar circles"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "দিবারাত্রির হ্রাস-বৃদ্ধি"
+     },
+     {
+      "id": "3.3.4",
+      "en": "Change of seasons",
+      "bn": "গ্রীষ্ম, শীত আসে কেন? ঋতু পরিবর্তন",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Vertical and slanting rays; opposite seasons in the two hemispheres",
+       "Causes of the change of seasons; seasons of Bangladesh and the annual motion"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ঋতু পরিবর্তন"
+     },
+     {
+      "id": "3.4.1",
+      "en": "Tides: high tide and low tide and their causes",
+      "bn": "সমুদ্রের পানি ফোলে আর নামে কেন? জোয়ার-ভাটা",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "High tide (flow) and low tide (ebb); attraction of the Moon and the Sun; centrifugal force"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জোয়ার-ভাটা ও এর কারণ"
+     },
+     {
+      "id": "3.4.2",
+      "en": "Kinds of tides and the time between them",
+      "bn": "ভরা কটাল, মরা কটাল আর জোয়ারের সময়ের হিসাব",
+      "tags": [
+       "D",
+       "N",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Direct (primary) and indirect (secondary) tide; spring tide and neap tide",
+       "12 h 26 min and 24 h 52 min; ebb 6 h 13 min after flow"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "জোয়ার-ভাটার শ্রেণিবিভাগ ও ব্যবধান"
+     },
+     {
+      "id": "3.4.3",
+      "en": "Effects of tides on the Earth",
+      "bn": "জোয়ার-ভাটা আমাদের কী কাজে লাগে, কী ক্ষতি করে?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Rivers, ports and shipping, irrigation, salt, tidal power; tidal bores"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পৃথিবীর ওপর জোয়ার-ভাটার প্রভাব"
+     }
+    ],
+    "notes": [],
+    "pagesBn": "26-44",
+    "bnBook": "সৌরজগৎ ও ভূমণ্ডল"
+   },
+   {
+    "n": 4,
+    "en": "The Topography and Climate of Bangladesh",
+    "bn": "পাহাড়, সমভূমি আর মৌসুমি হাওয়া: বাংলাদেশের ভূপ্রকৃতি ও জলবায়ু",
+    "pages": "58-78",
+    "topics": [
+     {
+      "id": "4.1.1",
+      "en": "Geographical location and boundaries of Bangladesh",
+      "bn": "মানচিত্রে বাংলাদেশ কোথায়? অবস্থান ও সীমানা",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Latitude and longitude limits; Tropic of Cancer; extent; area; neighbours on every side"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাংলাদেশের ভৌগোলিক অবস্থান ও সীমানা"
+     },
+     {
+      "id": "4.1.2",
+      "en": "Landforms: the three physiographic regions",
+      "bn": "পাহাড়, সোপান আর প্লাবন সমভূমি: বাংলাদেশের ভূপ্রকৃতি",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Hills of the Tertiary age (12%): south-eastern, northern and north-eastern hills; highest peaks",
+       "Terraces of the Pleistocene age (8%): Barind, Madhupur and Bhawal, Lalmai",
+       "Recent floodplain (80%): floodplain, delta, coastal and tidal plains"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভূপ্রাকৃতিক অঞ্চলের শ্রেণিবিভাগ ও গঠন"
+     },
+     {
+      "id": "4.1.3",
+      "en": "Landform, population and settlement",
+      "bn": "কোথায় মানুষ বেশি, কোথায় কম, কেন?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Population, growth rate and density (Census 2022); why some regions are dense and others sparse"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভূপ্রকৃতি, জনসংখ্যা ও জনবসতি"
+     },
+     {
+      "id": "4.1.4",
+      "en": "How the spread of settlement changes land use",
+      "bn": "মানুষ বাড়লে জমির কী হয়?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Pressure on farmland, fragmentation of land, falling land per person, filling wetlands and cutting forests"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভূমি ব্যবহারে জনবসতি বিস্তারের প্রভাব"
+     },
+     {
+      "id": "4.2.1",
+      "en": "Climate and seasons of Bangladesh",
+      "bn": "বাংলাদেশের জলবায়ু: শীত, গ্রীষ্ম আর বর্ষা",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Tropical monsoon climate; winter, summer and rainy season; temperatures; Kalbaishakhi and cyclones"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাংলাদেশের জলবায়ু ও ঋতু"
+     },
+     {
+      "id": "4.2.2",
+      "en": "Monsoon rainfall in Bangladesh",
+      "bn": "বর্ষার বৃষ্টি: কোথায় কত বৃষ্টি হয়?",
+      "tags": [
+       "D",
+       "N",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Four-fifths of the rain in the rainy season; more rain towards the east; wettest places"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাংলাদেশের মৌসুমি বৃষ্টিপাত"
+     },
+     {
+      "id": "4.2.3",
+      "en": "Climate of India, Myanmar and Nepal",
+      "bn": "প্রতিবেশীদের জলবায়ু: ভারত, মিয়ানমার ও নেপাল",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Seasons, temperature and rainfall of the three neighbours compared with Bangladesh"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভারত, মিয়ানমার ও নেপালের জলবায়ু"
+     },
+     {
+      "id": "4.2.4",
+      "en": "How climate shapes life and livelihood",
+      "bn": "জলবায়ু বদলালে জীবন-জীবিকা কীভাবে বদলায়?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Crops of the two monsoons; floods and silt; climate change, sea-level rise, river erosion, migration"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "মানুষের জীবন-জীবিকার ওপর জলবায়ুর প্রভাব"
+     },
+     {
+      "id": "4.2.5",
+      "en": "Lightning and how to stay safe",
+      "bn": "বজ্রপাত: কী, কখন, বাঁচব কীভাবে?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "What lightning is; where and when it strikes most; four safety rules"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বজ্রপাত ও নিরাপদ থাকার উপায়"
+     },
+     {
+      "id": "4.2.6",
+      "en": "Earthquake: the idea and its causes",
+      "bn": "মাটি কেঁপে ওঠে কেন? ভূমিকম্পের ধারণা ও কারণ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Focus and epicentre; tectonic plates; faults, volcanoes and other causes"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভূমিকম্পের ধারণা ও কারণ"
+     },
+     {
+      "id": "4.2.7",
+      "en": "Results of earthquakes and how to reduce the loss",
+      "bn": "ভূমিকম্পে কী কী ঘটে, ক্ষতি কমাই কীভাবে?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Cracks, uplift and sinking, landslides, tsunami (26 December 2004); steps that reduce damage"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভূমিকম্পের ফলাফল ও ক্ষয়ক্ষতি হ্রাস"
+     },
+     {
+      "id": "4.2.8",
+      "en": "Earthquake-prone regions of the world",
+      "bn": "পৃথিবীর কোথায় ভূমিকম্প বেশি হয়?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Circum-Pacific belt; Mediterranean–Himalayan belt; Mid-Atlantic–Indian Ocean ridge belt"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বিশ্বের ভূমিকম্পপ্রবণ অঞ্চল"
+     },
+     {
+      "id": "4.2.9",
+      "en": "Why Bangladesh is earthquake-prone",
+      "bn": "বাংলাদেশ কেন ভূমিকম্পের ঝুঁকিতে?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Indian plate, Eurasian plate and Myanmar sub-plate; the Dauki fault; three seismic risk zones (1989)"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাংলাদেশে ভূমিকম্পের কারণ ও ঝুঁকি অঞ্চল"
+     },
+     {
+      "id": "4.2.10",
+      "en": "Earthquake preparedness: before, during and after",
+      "bn": "ভূমিকম্পের আগে, সময়ে ও পরে কী করব?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Safe buildings and the National Building Code; what a person should do before, during and after"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "ভূমিকম্প মোকাবিলার প্রস্তুতি ও করণীয়"
+     }
+    ],
+    "notes": [],
+    "pagesBn": "45-60",
+    "bnBook": "বাংলাদেশের ভূপ্রকৃতি ও জলবায়ু"
+   },
+   {
+    "n": 5,
+    "en": "The Rivers and Natural Resources of Bangladesh",
+    "bn": "নদীর দেশ, সম্পদের দেশ: নদ-নদী ও প্রাকৃতিক সম্পদ",
+    "pages": "79-93",
+    "topics": [
+     {
+      "id": "5.1.1",
+      "en": "The three great rivers: Padma, Brahmaputra–Jamuna and Meghna",
+      "bn": "তিন বড় নদীর গল্প: পদ্মা, ব্রহ্মপুত্র-যমুনা ও মেঘনা",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Number and length of rivers; where the rivers come from",
+       "Source, route, confluences, tributaries and distributaries of each of the three rivers"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "প্রধান তিন নদী: পদ্মা, ব্রহ্মপুত্র-যমুনা ও মেঘনা"
+     },
+     {
+      "id": "5.1.2",
+      "en": "Karnaphuli, Tista, Pasur and the south-eastern rivers",
+      "bn": "কর্ণফুলী, তিস্তা, পশুর আর পাহাড়ি নদীগুলো",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Karnaphuli, Tista, Pasur, Sangu, Feni, Naf and Matamuhuri: source, route, length and importance"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "কর্ণফুলী, তিস্তা, পশুর ও দক্ষিণ-পূর্বের নদী"
+     },
+     {
+      "id": "5.1.3",
+      "en": "Rivers and human settlement",
+      "bn": "নদীর তীরেই কেন শহর গড়ে ওঠে?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Why people settle by rivers; cities on river banks; irrigation and multipurpose projects"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "নদ-নদী ও জনবসতির পারস্পরিক সম্পর্ক"
+     },
+     {
+      "id": "5.1.4",
+      "en": "Water shortage: causes, effects and solutions",
+      "bn": "নদীর দেশে পানির অভাব কেন?",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Silting, dams upstream (Farakka), pumping, unplanned bridges; effects on life; what must be done"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পানির অভাবের কারণ, প্রভাব ও সমাধান"
+     },
+     {
+      "id": "5.1.5",
+      "en": "Waterways: transport, hydroelectricity and trade",
+      "bn": "নদীপথে যাতায়াত, জলবিদ্যুৎ আর বাণিজ্য",
+      "tags": [
+       "D",
+       "N",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Length of waterways; hydroelectricity at Kaptai; 75% of commercial goods by water"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "যাতায়াত, জলবিদ্যুৎ ও বাণিজ্যে নদীপথ"
+     },
+     {
+      "id": "5.2.1",
+      "en": "Natural resources of Bangladesh and South Asia",
+      "bn": "আমাদের ও প্রতিবেশীদের প্রাকৃতিক সম্পদ",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Agricultural, forest, fish, mineral and solar resources of Bangladesh, India, Myanmar and Nepal"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাংলাদেশ ও দক্ষিণ এশিয়ার প্রাকৃতিক সম্পদ"
+     },
+     {
+      "id": "5.2.2",
+      "en": "Water resource management and food security",
+      "bn": "পানি সামলে রাখি, খাদ্য নিশ্চিত করি: পানিসম্পদ ব্যবস্থাপনা",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "What water management means; the measures needed for water and food security; people's involvement"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "পানিসম্পদ ব্যবস্থাপনা ও খাদ্য নিরাপত্তা"
+     },
+     {
+      "id": "5.2.3",
+      "en": "Forests of Bangladesh",
+      "bn": "বাংলাদেশের বন: পাহাড়ি বন, শালবন আর সুন্দরবন",
+      "tags": [
+       "D",
+       "V",
+       "I"
+      ],
+      "subs": [
+       "Evergreen and deciduous hill forest; deciduous (sal) forest; mangrove forest; forest cover"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাংলাদেশের বনভূমির শ্রেণিবিভাগ"
+     },
+     {
+      "id": "5.2.4",
+      "en": "Natural resources in the economy of Bangladesh",
+      "bn": "প্রাকৃতিক সম্পদ দিয়ে দেশের অর্থনীতি চলে কীভাবে?",
+      "tags": [
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Land, water, forest, mineral and solar resources as the base of farming, industry, jobs and exports"
+      ],
+      "key": [],
+      "notes": [],
+      "bnBook": "বাংলাদেশের অর্থনীতিতে প্রাকৃতিক সম্পদের গুরুত্ব"
+     }
+    ],
+    "notes": [],
+    "pagesBn": "61-73",
+    "bnBook": "বাংলাদেশের নদ-নদী ও প্রাকৃতিক সম্পদ"
+   },
+   {
+    "n": 6,
+    "en": "The State, Citizenship and Law",
+    "bn": "রাষ্ট্র কী, নাগরিক কে, আইন কেন?",
+    "pages": "94-106",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "74-84",
+    "bnBook": "রাষ্ট্র, নাগরিকতা ও আইন"
+   },
+   {
+    "n": 7,
+    "en": "The Organs of the Government of Bangladesh and the Administrative System",
+    "bn": "দেশ চলে কীভাবে: সরকারের অঙ্গ ও প্রশাসন",
+    "pages": "107-124",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "85-97",
+    "bnBook": "বাংলাদেশ সরকারের বিভিন্ন অঙ্গ ও প্রশাসন ব্যবস্থা"
+   },
+   {
+    "n": 8,
+    "en": "Democracy and the Election System of Bangladesh",
+    "bn": "ভোট আর জনগণের শাসন: গণতন্ত্র ও নির্বাচন",
+    "pages": "125-136",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "98-106",
+    "bnBook": "বাংলাদেশের গণতন্ত্র ও নির্বাচন ব্যবস্থা"
+   },
+   {
+    "n": 9,
+    "en": "The United Nations and Bangladesh",
+    "bn": "বিশ্বের সবাই এক টেবিলে: জাতিসংঘ ও বাংলাদেশ",
+    "pages": "137-148",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "107-116",
+    "bnBook": "জাতিসংঘ ও বাংলাদেশ"
+   },
+   {
+    "n": 10,
+    "en": "National Resources and Economic Systems",
+    "bn": "সম্পদ কার, চলে কীভাবে: জাতীয় সম্পদ ও অর্থনৈতিক ব্যবস্থা",
+    "pages": "149-163",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "117-128",
+    "bnBook": "জাতীয় সম্পদ ও অর্থনৈতিক ব্যবস্থা"
+   },
+   {
+    "n": 11,
+    "en": "Economic Indicators and the Nature of the Economy of Bangladesh",
+    "bn": "অর্থনীতি মাপার উপায় আর বাংলাদেশের অর্থনীতি",
+    "pages": "164-194",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "129-152",
+    "bnBook": "অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি"
+   },
+   {
+    "n": 12,
+    "en": "The Financial and Banking System of the Government of Bangladesh",
+    "bn": "সরকারের টাকা আসে-যায় কীভাবে: অর্থ ও ব্যাংক ব্যবস্থা",
+    "pages": "195-207",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "153-163",
+    "bnBook": "বাংলাদেশ সরকারের অর্থ ও ব্যাংক ব্যবস্থা"
+   },
+   {
+    "n": 13,
+    "en": "The Family Structure of Bangladesh and Socialisation",
+    "bn": "পরিবার আর বড় হয়ে ওঠা: পরিবার কাঠামো ও সামাজিকীকরণ",
+    "pages": "208-226",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "164-177",
+    "bnBook": "বাংলাদেশের পরিবার কাঠামো ও সামাজিকীকরণ"
+   },
+   {
+    "n": 14,
+    "en": "Social Change in Bangladesh",
+    "bn": "সমাজ কীভাবে বদলায়: বাংলাদেশের সামাজিক পরিবর্তন",
+    "pages": "227-235",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "178-184",
+    "bnBook": "বাংলাদেশের সামাজিক পরিবর্তন"
+   },
+   {
+    "n": 15,
+    "en": "Social Problems of Bangladesh and Their Remedies",
+    "bn": "সমাজের সমস্যা আর সমাধানের পথ",
+    "pages": "236-255",
+    "topics": [],
+    "notes": [],
+    "pagesBn": "185-200",
+    "bnBook": "বাংলাদেশের সামাজিক সমস্যা ও প্রতিকার"
+   }
+  ]
  }
 ]

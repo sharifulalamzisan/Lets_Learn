@@ -1,0 +1,2559 @@
+@@chapter
+== en
+## intro
+Look up on a clear night and you see only a tiny corner of an endless space filled with stars, galaxies, nebulae, comets, planets and their satellites. All of these together make the universe. Our Sun is just one of those stars, and the Earth is one small planet going round it.
+
+In this chapter you will meet the Sun's family (the solar system), see why living things can exist only on the Earth, and look inside the Earth. Then you will learn how imaginary lines drawn on the globe let us find any place and work out its time, why we have day and night and changing seasons, and why the sea rises and falls twice a day.
+## objectives
+- explain what the solar system is and describe its eight planets
+- explain why the Earth is fit for living things
+- describe the layers inside the Earth
+- explain the equator, parallels of latitude, meridians of longitude, the prime meridian and the International Date Line
+- work out the local time of a place from its longitude, and the longitude from the time
+- explain the diurnal and annual motions of the Earth and their effects
+- explain why days and nights grow longer and shorter and why the seasons change
+- explain the causes, kinds and effects of tides
+== bn
+## intro
+পরিষ্কার রাতে আকাশের দিকে তাকালে আমরা অসীম মহাকাশের ছোট্ট একটি কোণ দেখি। সেখানে আছে নক্ষত্র, ছায়াপথ, নীহারিকা, ধূমকেতু, গ্রহ আর উপগ্রহ। এ সব মিলিয়েই বিশ্বজগৎ। আমাদের সূর্য সেই অসংখ্য নক্ষত্রের একটি মাত্র, আর পৃথিবী তার চারদিকে ঘোরা ছোট একটি গ্রহ।
+
+এই অধ্যায়ে তুমি সূর্যের পরিবার অর্থাৎ সৌরজগতের সাথে পরিচিত হবে, জানবে কেন শুধু পৃথিবীতেই জীব বাস করতে পারে, আর দেখবে পৃথিবীর ভেতরটা কেমন। তারপর শিখবে ভূগোলকের ওপর আঁকা কাল্পনিক রেখা দিয়ে কীভাবে যেকোনো স্থান খুঁজে বের করা আর তার সময় হিসাব করা যায়, কেন দিন-রাত হয়, ঋতু বদলায়, আর কেন সমুদ্রের পানি দিনে দুবার ফুলে ওঠে ও নেমে যায়।
+## objectives
+- সৌরজগৎ কী তা ব্যাখ্যা করতে এবং এর আটটি গ্রহের বর্ণনা দিতে পারবে
+- পৃথিবী কেন জীব বসবাসের উপযোগী তা ব্যাখ্যা করতে পারবে
+- ভূ-অভ্যন্তরের স্তরগুলো বর্ণনা করতে পারবে
+- নিরক্ষরেখা, সমাক্ষরেখা, দ্রাঘিমারেখা, মূল মধ্যরেখা ও আন্তর্জাতিক তারিখ রেখা ব্যাখ্যা করতে পারবে
+- দ্রাঘিমা থেকে কোনো স্থানের স্থানীয় সময় এবং সময় থেকে দ্রাঘিমা নির্ণয় করতে পারবে
+- পৃথিবীর আহ্নিক ও বার্ষিক গতি এবং এদের প্রভাব ব্যাখ্যা করতে পারবে
+- দিবারাত্রির হ্রাস-বৃদ্ধি ও ঋতু পরিবর্তনের কারণ ব্যাখ্যা করতে পারবে
+- জোয়ার-ভাটার কারণ, শ্রেণিবিভাগ ও প্রভাব ব্যাখ্যা করতে পারবে
+
+@@ 3.1.1
+@visual g3solar
+@related 3.1.2 3.1.3 3.3.2
+== en
+## what
+The **solar system** is the family of the Sun: the Sun itself, the planets, their satellites, the asteroids, comets and meteors that go round it. The Sun is its centre and its controller.
+## visual
+Tap the Sun, a planet or the dotted asteroid belt to read about it. Pause the motion if you want to tap more easily.
+## simple
+Think of the solar system as a family with one head. The Sun sits at the centre, and everything else circles round it, held by the pull of gravity. Each planet keeps to its own path (its **orbit**) and takes its own fixed time to go round once. In the same way, satellites circle their planets.
+
+The solar system looks huge to us, but in the vast universe it is tiny, and the Earth inside it is tinier still.
+## points
+1. **Members of the family:** 8 planets, more than a hundred satellites, thousands of asteroids and lakhs of comets, all controlled by the Sun.
+2. **The Sun is a star:** a bright ball of gas that gives out its own light and heat. Planets and satellites have no light or heat of their own; they get it from the Sun.
+3. **Size and distance:** the Sun is about 13 lakh times bigger than the Earth, about 13 lakh 84 thousand km across, and about 15 crore km away from us.
+4. **What it is made of:** gas only, mostly hydrogen and helium, with no solid or liquid. Hydrogen keeps turning into helium, and this releases the Sun's energy.
+5. **Sunspots:** dark patches sometimes seen on the Sun. They are a little cooler than the rest of the surface.
+6. **Its own motion:** the Sun turns on its axis once in about 25 days.
+7. **Why it matters to us:** only a very small part of the Sun's heat reaches the Earth, yet it is enough for every need of the living world. Without it nothing could grow or live.
+
+> Your textbook gives the Sun's surface temperature as 57,000 °C and its make-up as 55% hydrogen, 44% helium and 1% other gases. Scientists' measurements are different: about 5,500 °C at the surface, and roughly three-quarters hydrogen and one-quarter helium. Learn the book's figures for your exam, but know what the measurements say.
+## definition
+**Solar system:** the family made up of the Sun and the planets, satellites, asteroids, comets and meteors that revolve round it.
+
+**Planet:** a heavenly body that goes round the Sun in a fixed orbit in a fixed time under the pull of gravity, and has no light or heat of its own.
+
+**Sunspot:** a dark, slightly cooler patch that appears on the Sun from time to time.
+## matters
+- Every bit of food, every wind and every drop of rain is driven by the Sun's energy.
+- Knowing that the Earth is one small member of a large family is the first step in understanding days, years and seasons.
+- Coal, oil, solar panels and even wind power all go back to sunlight.
+## terms
+Universe (বিশ্বজগৎ) | Everything in space: all the stars, galaxies and other heavenly bodies together
+Star (নক্ষত্র) | A body that shines with its own light, such as the Sun
+Orbit (কক্ষপথ) | The fixed path of a planet round the Sun, or of a satellite round a planet
+Satellite (উপগ্রহ) | A body that goes round a planet, as the Moon goes round the Earth
+Asteroids (গ্রহাণুপুঞ্জ) | Countless small bodies between Mars and Jupiter
+## facts
+Number of planets | 8
+Distance of the Sun from the Earth | about 15 crore km
+Diameter of the Sun | about 13,84,000 km
+Size of the Sun | about 13 lakh times the Earth
+Rotation of the Sun | once in about 25 days
+Order of the planets | Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+## mistakes
+x The Sun is a planet because it is in the solar system.
+v The Sun is a star: it makes its own light and heat. The planets only reflect its light.
+x The Moon is a planet.
+v The Moon goes round the Earth, not round the Sun directly, so it is a satellite.
+## remember
+- The solar system = the Sun + planets, satellites, asteroids, comets and meteors.
+- The Sun is the centre and controller; gravity holds the family together.
+- 8 planets; the Sun is about 15 crore km from the Earth.
+- The Sun is all gas, mostly hydrogen and helium; dark cooler patches are sunspots.
+- Without the Sun's light and heat there would be no life on the Earth.
+## think
+If the Sun suddenly stopped giving light and heat, list three things that would change on the Earth within a few days.
+## quiz
+? What holds the planets in their orbits round the Sun?
+- The light of the Sun
+* The pull of gravity
+- The heat of the Sun
+- The wind in space
+= Gravity between the Sun and the planets keeps each planet moving in its own orbit.
+? Which statement about a planet is correct?
+- It has its own light and heat
+- It stays fixed in one place
+* It gets its light and heat from the Sun
+- It is bigger than the Sun
+= Planets have no light or heat of their own; the Sun is the source for all of them.
+? A sunspot is
+- a planet passing in front of the Sun
+- the hottest part of the Sun
+- a hole in the Sun
+* a dark, slightly cooler patch on the Sun
+= Sunspots look dark because they are a little cooler than the surface around them.
+== bn
+## what
+**সৌরজগৎ** হলো সূর্যের পরিবার: সূর্য নিজে, আর তাকে ঘিরে ঘুরতে থাকা গ্রহ, উপগ্রহ, গ্রহাণুপুঞ্জ, ধূমকেতু ও উল্কা। সূর্য এই পরিবারের প্রাণকেন্দ্র ও নিয়ন্ত্রক।
+## visual
+সূর্য, কোনো গ্রহ বা ফুটকি-আঁকা গ্রহাণুপুঞ্জে চাপ দিয়ে তার কথা পড়ো। চাপ দিতে সুবিধা হলে ঘোরা থামিয়ে নাও।
+## simple
+সৌরজগৎকে একটি পরিবার ভাবো, যার একজন কর্তা। সূর্য থাকে মাঝখানে, আর বাকি সবাই মহাকর্ষের টানে তাকে ঘিরে ঘোরে। প্রতিটি গ্রহ নিজের নির্দিষ্ট পথে (**কক্ষপথে**) চলে এবং একবার ঘুরতে নির্দিষ্ট সময় নেয়। একইভাবে উপগ্রহগুলো ঘোরে গ্রহের চারদিকে।
+
+আমাদের কাছে সৌরজগৎ বিশাল মনে হয়, কিন্তু বিশ্বজগতের বিশালতার মধ্যে এটি নিতান্তই ছোট, আর পৃথিবী আরও ছোট।
+## points
+1. **পরিবারের সদস্য:** ৮টি গ্রহ, শতাধিক উপগ্রহ, হাজার হাজার গ্রহাণু ও লক্ষ লক্ষ ধূমকেতু; সবার নিয়ন্ত্রক সূর্য।
+2. **সূর্য একটি নক্ষত্র:** উজ্জ্বল গ্যাসের গোলক, নিজেই আলো ও তাপ দেয়। গ্রহ ও উপগ্রহের নিজস্ব আলো বা তাপ নেই; তারা সূর্য থেকেই পায়।
+3. **আকার ও দূরত্ব:** সূর্য পৃথিবীর চেয়ে প্রায় ১৩ লক্ষ গুণ বড়, ব্যাস প্রায় ১৩ লক্ষ ৮৪ হাজার কিমি, আর পৃথিবী থেকে প্রায় ১৫ কোটি কিমি দূরে।
+4. **কী দিয়ে গঠিত:** শুধু গ্যাস, প্রধানত হাইড্রোজেন ও হিলিয়াম; কোনো কঠিন বা তরল পদার্থ নেই। হাইড্রোজেন অনবরত হিলিয়ামে পরিণত হচ্ছে, তা থেকেই সূর্যের শক্তি তৈরি হয়।
+5. **সৌরকলঙ্ক:** সূর্যের গায়ে মাঝে মাঝে যে কালো দাগ দেখা যায়। এগুলোর উত্তাপ আশপাশের চেয়ে কিছুটা কম।
+6. **সূর্যের নিজের গতি:** সূর্য প্রায় ২৫ দিনে নিজ অক্ষের ওপর একবার আবর্তন করে।
+7. **আমাদের জন্য গুরুত্ব:** সূর্যের তাপের খুব সামান্য অংশ পৃথিবীতে পৌঁছায়, তবু তাতেই জীবজগতের সব প্রয়োজন মেটে। এটি না থাকলে কিছুই জন্মাত না, বাঁচত না।
+
+> তোমার পাঠ্যবইয়ে সূর্যের উপরিভাগের উষ্ণতা ৫৭,০০০ °সে এবং গঠন ৫৫% হাইড্রোজেন, ৪৪% হিলিয়াম ও ১% অন্যান্য গ্যাস লেখা আছে। বিজ্ঞানীদের পরিমাপ কিছুটা ভিন্ন: উপরিভাগের তাপমাত্রা প্রায় ৫,৫০০ °সে, আর মোটামুটি চার ভাগের তিন ভাগ হাইড্রোজেন ও এক ভাগ হিলিয়াম। পরীক্ষার জন্য বইয়ের সংখ্যা শেখো, তবে পরিমাপ কী বলে তা-ও জেনে রাখো।
+## definition
+**সৌরজগৎ:** সূর্য এবং তাকে ঘিরে পরিক্রমণকারী গ্রহ, উপগ্রহ, গ্রহাণুপুঞ্জ, ধূমকেতু ও উল্কা নিয়ে গঠিত পরিবার।
+
+**গ্রহ:** মহাকর্ষ বলের প্রভাবে যে জ্যোতিষ্ক নির্দিষ্ট সময়ে নির্দিষ্ট কক্ষপথে সূর্যের চারদিকে পরিক্রমণ করে এবং যার নিজস্ব আলো ও তাপ নেই।
+
+**সৌরকলঙ্ক:** সূর্যের গায়ে মাঝে মাঝে দেখা যাওয়া কালো, অপেক্ষাকৃত কম উত্তপ্ত দাগ।
+## matters
+- প্রতিটি খাবার, প্রতিটি বাতাস ও প্রতিটি বৃষ্টির ফোঁটার পেছনে আছে সূর্যের শক্তি।
+- পৃথিবী যে একটি বড় পরিবারের ছোট একজন সদস্য, এটি জানাই দিন, বছর ও ঋতু বোঝার প্রথম ধাপ।
+- কয়লা, তেল, সৌর প্যানেল, এমনকি বায়ুশক্তিও শেষ পর্যন্ত সূর্যের আলো থেকেই আসে।
+## terms
+বিশ্বজগৎ (Universe) | মহাকাশের সব নক্ষত্র, ছায়াপথ ও অন্যান্য জ্যোতিষ্ক মিলিয়ে যা
+নক্ষত্র (Star) | যে জ্যোতিষ্ক নিজের আলোয় জ্বলে, যেমন সূর্য
+কক্ষপথ (Orbit) | সূর্যের চারদিকে গ্রহের, বা গ্রহের চারদিকে উপগ্রহের নির্দিষ্ট পথ
+উপগ্রহ (Satellite) | যে জ্যোতিষ্ক কোনো গ্রহকে ঘিরে ঘোরে, যেমন পৃথিবীর চাঁদ
+গ্রহাণুপুঞ্জ (Asteroids) | মঙ্গল ও বৃহস্পতির মাঝের অসংখ্য ছোট ছোট গ্রহাণু
+## facts
+গ্রহের সংখ্যা | ৮টি
+পৃথিবী থেকে সূর্যের দূরত্ব | প্রায় ১৫ কোটি কিমি
+সূর্যের ব্যাস | প্রায় ১৩,৮৪,০০০ কিমি
+সূর্যের আকার | পৃথিবীর প্রায় ১৩ লক্ষ গুণ
+সূর্যের আবর্তন | প্রায় ২৫ দিনে একবার
+গ্রহগুলোর ক্রম | বুধ, শুক্র, পৃথিবী, মঙ্গল, বৃহস্পতি, শনি, ইউরেনাস, নেপচুন
+## mistakes
+x সূর্য সৌরজগতে আছে, তাই এটি একটি গ্রহ।
+v সূর্য একটি নক্ষত্র: নিজেই আলো ও তাপ তৈরি করে। গ্রহগুলো শুধু তার আলো প্রতিফলিত করে।
+x চাঁদ একটি গ্রহ।
+v চাঁদ সরাসরি সূর্যকে নয়, পৃথিবীকে ঘিরে ঘোরে; তাই এটি উপগ্রহ।
+## remember
+- সৌরজগৎ = সূর্য + গ্রহ, উপগ্রহ, গ্রহাণুপুঞ্জ, ধূমকেতু ও উল্কা।
+- সূর্য কেন্দ্র ও নিয়ন্ত্রক; মহাকর্ষ শক্তি পরিবারটিকে ধরে রেখেছে।
+- গ্রহ ৮টি; সূর্য পৃথিবী থেকে প্রায় ১৫ কোটি কিমি দূরে।
+- সূর্য পুরোটাই গ্যাস, প্রধানত হাইড্রোজেন ও হিলিয়াম; কালো, কম গরম দাগ হলো সৌরকলঙ্ক।
+- সূর্যের আলো ও তাপ ছাড়া পৃথিবীতে প্রাণ থাকত না।
+## think
+সূর্য হঠাৎ আলো ও তাপ দেওয়া বন্ধ করে দিলে কয়েক দিনের মধ্যে পৃথিবীতে কোন তিনটি পরিবর্তন ঘটত? লিখে দেখো।
+## quiz
+? গ্রহগুলোকে সূর্যের চারদিকে কক্ষপথে ধরে রাখে কী?
+- সূর্যের আলো
+* মহাকর্ষ শক্তি
+- সূর্যের তাপ
+- মহাকাশের বাতাস
+= সূর্য ও গ্রহের মধ্যকার মহাকর্ষ শক্তি প্রতিটি গ্রহকে নিজ কক্ষপথে ঘোরায়।
+? গ্রহ সম্পর্কে কোনটি ঠিক?
+- এর নিজস্ব আলো ও তাপ আছে
+- এটি এক জায়গায় স্থির থাকে
+* এটি সূর্য থেকে আলো ও তাপ পায়
+- এটি সূর্যের চেয়ে বড়
+= গ্রহের নিজস্ব আলো ও তাপ নেই; সবার উৎস সূর্য।
+? সৌরকলঙ্ক হলো
+- সূর্যের সামনে দিয়ে যাওয়া কোনো গ্রহ
+- সূর্যের সবচেয়ে উত্তপ্ত অংশ
+- সূর্যের গায়ে একটি গর্ত
+* সূর্যের গায়ে কালো, অপেক্ষাকৃত কম উত্তপ্ত দাগ
+= আশপাশের চেয়ে কিছুটা কম উত্তপ্ত বলে সৌরকলঙ্ক কালো দেখায়।
+
+@@ 3.1.2
+@visual g3planets
+@related 3.1.1 3.1.3 3.3.2
+== en
+## what
+Eight planets go round the Sun. In order of distance from the Sun they are **Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune**. Jupiter is the largest and Mercury the smallest.
+## visual
+Choose what to compare: distance from the Sun, time for one trip round the Sun, diameter or number of satellites. Watch which planet leads each time.
+## simple
+The planets are not alike. The four nearest the Sun (Mercury, Venus, Earth, Mars) are small and rocky. Beyond a belt of asteroids come four giants (Jupiter, Saturn, Uranus, Neptune).
+
+Two simple rules help you remember a lot. **The farther a planet is from the Sun, the colder it is**, and **the farther it is, the longer it takes to go round the Sun.** Mercury finishes a trip in 88 days; Neptune needs 165 years.
+## points
+1. **Mercury:** the smallest planet and the nearest to the Sun (5.8 crore km). Goes round in 88 days. Very hot. Its surface has plains, countless craters and hills. No satellite.
+2. **Venus:** second from the Sun (10.8 crore km) and the nearest planet to the Earth (4.2 crore km), known as the Earth's twin. We see it as the evening star in the west and the morning star in the east. One trip takes 225 days. Its air is about 96% carbon dioxide with no oxygen, its clouds drop acid rain, and its air pressure is about 90 times ours. It spins very slowly. No satellite.
+3. **Earth:** third from the Sun (15 crore km). One trip takes 365 days 5 hours 48 minutes 47 seconds. It has oxygen, nitrogen and water, and an average surface temperature of 13.90 °C. The only planet with living things. One satellite, the Moon, about 3,81,500 km away.
+4. **Mars:** 22.8 crore km from the Sun; one trip takes 687 days; one spin takes 24 hours 37 minutes. Rust in its rocks makes it look red. Much colder than the Earth, with very little water, canyons and volcanoes. Two satellites: Deimos and Phobos.
+5. **Asteroids:** between Mars and Jupiter, countless small bodies from 1.6 km to 805 km across go round the Sun together. There is no planet in this gap.
+6. **Jupiter:** the largest planet, about 1,300 times the Earth in volume; 77.8 crore km from the Sun. One trip takes 12 years, but one spin only 9 hours 53 minutes. 97 satellites, among them Io, Europa, Ganymede and Callisto.
+7. **Saturn:** the second largest; 143 crore km from the Sun; one trip takes 29 years 5 months. Three bright rings go round it. It can be seen with the naked eye. The textbook counts 62 satellites, such as Titan, Tethys and Rhea.
+8. **Uranus:** the third largest; 287 crore km away; one trip takes 84 years. A lot of methane in its air, rings like Saturn's, and 27 satellites, such as Miranda, Ariel, Oberon, Umbriel and Titania.
+9. **Neptune:** the farthest (450 crore km), so it is cold; bluish in colour; one trip takes 165 years. 14 satellites; Triton and Nereid are the well known ones.
+
+> The numbers of satellites are the textbook's. Astronomers keep discovering small new moons, so newer counts for the giant planets are higher.
+## definition
+**Planet:** a heavenly body with no light or heat of its own that goes round the Sun in a fixed orbit in a fixed time.
+
+**Asteroids:** the many small bodies, 1.6 km to 805 km in diameter, that revolve round the Sun together between the orbits of Mars and Jupiter.
+## matters
+- Comparing the planets shows how special the Earth's distance, size and air are.
+- A planet's distance from the Sun explains its heat and the length of its year.
+- The more we learn about other planets, the better we understand our own.
+## terms
+Evening star / morning star (সন্ধ্যাতারা / শুকতারা) | The planet Venus, seen in the west after sunset or in the east before sunrise
+Rings (বলয়) | Bright bands round Saturn (three are named in the book); Uranus also has rings
+Rotation (আবর্তন) | A planet spinning on its own axis
+Revolution (পরিক্রমণ) | A planet travelling round the Sun
+## facts
+Nearest to the Sun, smallest | Mercury
+Nearest to the Earth | Venus
+Largest | Jupiter (then Saturn, then Uranus)
+Has rings | Saturn (and Uranus)
+Red planet | Mars
+Bluish planet | Neptune
+No satellite | Mercury and Venus
+Two satellites | Mars (Deimos, Phobos)
+## mistakes
+x Venus is a star because we call it the evening star.
+v Venus is a planet. It only looks like a bright star because it reflects sunlight and is close to us.
+x Ariel and Titania are satellites of Saturn.
+v Ariel, Titania, Miranda, Oberon and Umbriel belong to Uranus. Titan and Tethys belong to Saturn; Triton and Nereid to Neptune; Ganymede to Jupiter.
+x The biggest planet takes the longest to go round the Sun.
+v The time depends on distance, not size. The farthest planet, Neptune, takes the longest.
+## remember
+- Order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+- Mercury: smallest and nearest the Sun. Jupiter: largest. Neptune: farthest.
+- Venus: nearest to the Earth, the Earth's twin, evening and morning star, no satellite.
+- Mars: red, two satellites. Saturn: rings. Neptune: bluish.
+- Farther from the Sun means colder and a longer year.
+## think
+Venus is farther from the Sun than Mercury, yet it has thick clouds of carbon dioxide. Why do you think nothing could live there even though it is called the Earth's twin?
+## quiz
+? Which of these is a satellite of Uranus?
+- Titan
+* Ariel
+- Nereid
+- Ganymede
+= Ariel goes round Uranus. Titan belongs to Saturn, Nereid to Neptune and Ganymede to Jupiter.
+? Arpita sees a bright "star" in the eastern sky just before sunrise. Which planet is it most likely to be?
+* Venus
+- Saturn
+- Mars
+- Neptune
+= Venus appears as the morning star in the east at dawn and as the evening star in the west at dusk.
+? Because the planets are at different distances from the Sun,
+- they all take the same time to go round it
+- they are all equally hot
+* their time of revolution and their temperature are different
+- they all have the same number of satellites
+= A farther planet has a longer path, takes longer to go round and gets less heat.
+== bn
+## what
+সূর্যকে ঘিরে আটটি গ্রহ ঘুরছে। সূর্য থেকে দূরত্ব অনুযায়ী এদের ক্রম: **বুধ, শুক্র, পৃথিবী, মঙ্গল, বৃহস্পতি, শনি, ইউরেনাস ও নেপচুন**। সবচেয়ে বড় বৃহস্পতি, সবচেয়ে ছোট বুধ।
+## visual
+কী তুলনা করবে বেছে নাও: সূর্য থেকে দূরত্ব, সূর্যকে একবার ঘোরার সময়, ব্যাস বা উপগ্রহের সংখ্যা। দেখো, প্রতিবার কোন গ্রহ এগিয়ে থাকে।
+## simple
+গ্রহগুলো সব এক রকম নয়। সূর্যের কাছের চারটি (বুধ, শুক্র, পৃথিবী, মঙ্গল) ছোট ও পাথুরে। গ্রহাণুপুঞ্জের বলয় পেরিয়ে আছে চারটি বিশাল গ্রহ (বৃহস্পতি, শনি, ইউরেনাস, নেপচুন)।
+
+দুটি সহজ নিয়ম মনে রাখলে অনেক কিছু মনে থাকবে। **গ্রহ সূর্য থেকে যত দূরে, তত ঠান্ডা**, আর **যত দূরে, সূর্যকে ঘুরতে তত বেশি সময় লাগে।** বুধ ৮৮ দিনে একবার ঘুরে আসে; নেপচুনের লাগে ১৬৫ বছর।
+## points
+1. **বুধ:** সবচেয়ে ছোট এবং সূর্যের নিকটতম গ্রহ (৫.৮ কোটি কিমি)। ৮৮ দিনে সূর্যকে একবার ঘোরে। তাপমাত্রা অত্যধিক। ভূত্বকে সমতল ভূমি, অসংখ্য গর্ত ও পাহাড় আছে। উপগ্রহ নেই।
+2. **শুক্র:** সূর্য থেকে দ্বিতীয় (১০.৮ কোটি কিমি) এবং পৃথিবীর নিকটতম গ্রহ (৪.২ কোটি কিমি); পৃথিবীর যমজ গ্রহ নামে পরিচিত। সন্ধ্যায় পশ্চিম আকাশে সন্ধ্যাতারা, ভোরে পূর্ব আকাশে শুকতারা রূপে দেখা যায়। একবার ঘুরতে ২২৫ দিন লাগে। বায়ুমণ্ডলের প্রায় ৯৬% কার্বন ডাই-অক্সাইড, অক্সিজেন নেই; মেঘ থেকে এসিড বৃষ্টি হয়; বাতাসের চাপ পৃথিবীর প্রায় ৯০ গুণ। নিজ অক্ষে খুব ধীরে ঘোরে। উপগ্রহ নেই।
+3. **পৃথিবী:** সূর্য থেকে তৃতীয় (১৫ কোটি কিমি)। একবার ঘুরতে ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট ৪৭ সেকেন্ড লাগে। অক্সিজেন, নাইট্রোজেন ও পানি আছে; পৃষ্ঠের গড় তাপমাত্রা ১৩.৯০ °সে। একমাত্র গ্রহ যেখানে জীব আছে। একটি উপগ্রহ, চাঁদ; দূরত্ব প্রায় ৩,৮১,৫০০ কিমি।
+4. **মঙ্গল:** সূর্য থেকে ২২.৮ কোটি কিমি; একবার ঘুরতে ৬৮৭ দিন; নিজ অক্ষে একবার ঘুরতে ২৪ ঘণ্টা ৩৭ মিনিট। পাথরে মরিচা পড়ায় লালচে দেখায়। পৃথিবীর চেয়ে অনেক ঠান্ডা, পানি খুব কম; গিরিখাত ও আগ্নেয়গিরি আছে। দুটি উপগ্রহ: ডিমোস ও ফোবোস।
+5. **গ্রহাণুপুঞ্জ:** মঙ্গল ও বৃহস্পতির মাঝখানে ১.৬ থেকে ৮০৫ কিমি ব্যাসের অসংখ্য ছোট গ্রহাণু একসাথে সূর্যকে ঘুরছে। এই পরিসরে আর কোনো গ্রহ নেই।
+6. **বৃহস্পতি:** সবচেয়ে বড় গ্রহ, আয়তনে পৃথিবীর প্রায় ১,৩০০ গুণ; সূর্য থেকে ৭৭.৮ কোটি কিমি। সূর্যকে একবার ঘুরতে ১২ বছর, কিন্তু নিজ অক্ষে একবার ঘুরতে মাত্র ৯ ঘণ্টা ৫৩ মিনিট। ৯৭টি উপগ্রহ; এর মধ্যে আইও, ইউরোপা, গ্যানিমেড ও ক্যালিস্টো অন্যতম।
+7. **শনি:** দ্বিতীয় বৃহত্তম; সূর্য থেকে ১৪৩ কোটি কিমি; একবার ঘুরতে ২৯ বছর ৫ মাস। তিনটি উজ্জ্বল বলয় একে ঘিরে আছে। খালি চোখে দেখা যায়। বইয়ে ৬২টি উপগ্রহের কথা আছে; যেমন টাইটান, টেথিস, রিয়া।
+8. **ইউরেনাস:** তৃতীয় বৃহত্তম; ২৮৭ কোটি কিমি দূরে; একবার ঘুরতে ৮৪ বছর। বায়ুমণ্ডলে মিথেন বেশি, শনির মতো বলয় আছে, উপগ্রহ ২৭টি; যেমন মিরান্ডা, এরিয়েল, ওবেরন, আম্ব্রিয়েল, টাইটানিয়া।
+9. **নেপচুন:** সবচেয়ে দূরের গ্রহ (৪৫০ কোটি কিমি), তাই শীতল; নীলাভ বর্ণের; একবার ঘুরতে ১৬৫ বছর। উপগ্রহ ১৪টি; ট্রাইটন ও নেরাইড উল্লেখযোগ্য।
+
+> উপগ্রহের সংখ্যাগুলো পাঠ্যবইয়ের। জ্যোতির্বিদরা এখনও নতুন নতুন ছোট উপগ্রহ আবিষ্কার করছেন, তাই বিশাল গ্রহগুলোর নতুন হিসাব আরও বেশি।
+## definition
+**গ্রহ:** যে জ্যোতিষ্কের নিজস্ব আলো ও তাপ নেই এবং যা নির্দিষ্ট সময়ে নির্দিষ্ট কক্ষপথে সূর্যের চারদিকে পরিক্রমণ করে।
+
+**গ্রহাণুপুঞ্জ:** মঙ্গল ও বৃহস্পতির কক্ষপথের মাঝখানে ১.৬ থেকে ৮০৫ কিমি ব্যাসের যে অসংখ্য ক্ষুদ্র গ্রহাণু একত্রে সূর্যকে পরিক্রমণ করছে।
+## matters
+- গ্রহগুলোকে তুলনা করলে বোঝা যায় পৃথিবীর দূরত্ব, আকার ও বায়ু কতটা বিশেষ।
+- সূর্য থেকে দূরত্ব জানলে একটি গ্রহের তাপ ও বছরের দৈর্ঘ্য ব্যাখ্যা করা যায়।
+- অন্য গ্রহ সম্পর্কে যত জানি, নিজের গ্রহকে তত ভালো বুঝি।
+## terms
+সন্ধ্যাতারা / শুকতারা | শুক্র গ্রহ; সূর্যাস্তের পরে পশ্চিমে বা সূর্যোদয়ের আগে পূর্বে দেখা যায়
+বলয় (Rings) | শনিকে ঘিরে থাকা উজ্জ্বল পট্টি (বইয়ে তিনটি); ইউরেনাসেরও বলয় আছে
+আবর্তন (Rotation) | গ্রহের নিজ অক্ষের ওপর ঘোরা
+পরিক্রমণ (Revolution) | সূর্যের চারদিকে গ্রহের ঘোরা
+## facts
+সূর্যের নিকটতম ও সবচেয়ে ছোট | বুধ
+পৃথিবীর নিকটতম | শুক্র
+সবচেয়ে বড় | বৃহস্পতি (তারপর শনি, তারপর ইউরেনাস)
+বলয় আছে | শনি (এবং ইউরেনাস)
+লাল গ্রহ | মঙ্গল
+নীলাভ গ্রহ | নেপচুন
+উপগ্রহ নেই | বুধ ও শুক্র
+দুটি উপগ্রহ | মঙ্গল (ডিমোস, ফোবোস)
+## mistakes
+x শুক্রকে সন্ধ্যাতারা বলা হয়, তাই এটি একটি নক্ষত্র।
+v শুক্র একটি গ্রহ। সূর্যের আলো প্রতিফলিত করে এবং কাছে আছে বলে উজ্জ্বল তারার মতো দেখায়।
+x এরিয়েল ও টাইটানিয়া শনির উপগ্রহ।
+v এরিয়েল, টাইটানিয়া, মিরান্ডা, ওবেরন ও আম্ব্রিয়েল ইউরেনাসের। টাইটান ও টেথিস শনির; ট্রাইটন ও নেরাইড নেপচুনের; গ্যানিমেড বৃহস্পতির।
+x সবচেয়ে বড় গ্রহটিই সূর্যকে ঘুরতে সবচেয়ে বেশি সময় নেয়।
+v সময় নির্ভর করে দূরত্বের ওপর, আকারের ওপর নয়। সবচেয়ে দূরের গ্রহ নেপচুনের সময় সবচেয়ে বেশি লাগে।
+## remember
+- ক্রম: বুধ, শুক্র, পৃথিবী, মঙ্গল, বৃহস্পতি, শনি, ইউরেনাস, নেপচুন।
+- বুধ: সবচেয়ে ছোট ও সূর্যের নিকটতম। বৃহস্পতি: সবচেয়ে বড়। নেপচুন: সবচেয়ে দূরে।
+- শুক্র: পৃথিবীর নিকটতম, পৃথিবীর যমজ, সন্ধ্যাতারা ও শুকতারা, উপগ্রহ নেই।
+- মঙ্গল: লাল, দুটি উপগ্রহ। শনি: বলয়। নেপচুন: নীলাভ।
+- সূর্য থেকে যত দূরে, তত ঠান্ডা এবং বছর তত লম্বা।
+## think
+শুক্র বুধের চেয়ে সূর্য থেকে দূরে, অথচ এর চারদিকে কার্বন ডাই-অক্সাইডের ঘন মেঘ। একে পৃথিবীর যমজ বলা হলেও সেখানে কোনো জীব বাঁচতে পারত না কেন বলে তোমার মনে হয়?
+## quiz
+? নিচের কোনটি ইউরেনাসের উপগ্রহ?
+- টাইটান
+* এরিয়েল
+- নেরাইড
+- গ্যানিমেড
+= এরিয়েল ইউরেনাসের উপগ্রহ। টাইটান শনির, নেরাইড নেপচুনের, গ্যানিমেড বৃহস্পতির।
+? অর্পিতা সূর্যোদয়ের ঠিক আগে পূর্ব আকাশে একটি উজ্জ্বল "তারা" দেখল। এটি সম্ভবত কোন গ্রহ?
+* শুক্র
+- শনি
+- মঙ্গল
+- নেপচুন
+= শুক্র ভোরে পূর্ব আকাশে শুকতারা এবং সন্ধ্যায় পশ্চিম আকাশে সন্ধ্যাতারা রূপে দেখা যায়।
+? সূর্য থেকে গ্রহগুলোর দূরত্ব ভিন্ন হওয়ার কারণে
+- সবার পরিক্রমণের সময় সমান
+- সবাই সমান গরম
+* পরিক্রমণের সময় ও তাপমাত্রায় পার্থক্য হয়
+- সবার উপগ্রহের সংখ্যা সমান
+= দূরের গ্রহের পথ লম্বা, ঘুরতে বেশি সময় লাগে এবং তাপও কম পায়।
+
+@@ 3.1.3
+@visual g3atmos
+@related 3.1.2 3.1.4 4.2.1
+== en
+## what
+Of all the planets, only the Earth has living things. The reasons are its **atmosphere**, the right amount of **light and heat** from the Sun, a suitable **temperature**, and plenty of **water**.
+## visual
+Tap a layer of air to see what it does for us. Notice where the weather happens, where aircraft fly and where the harmful rays are stopped.
+## simple
+The Earth is wrapped in an invisible blanket of gases called the **atmosphere**. Gravity holds this blanket against the surface, and it turns along with the Earth. The air is thickest at sea level and gets thinner as you go up.
+
+This blanket does three jobs for us. It gives animals oxygen to breathe and plants carbon dioxide to make food. It stops the Sun's harmful rays. And it holds the clouds, rain and wind that make our weather. Add to this the right distance from the Sun, so that it is neither too hot nor too cold, and water on the surface, and you have a planet where life can go on.
+## points
+1. **Gases of life:** the air is mostly nitrogen and oxygen. Oxygen is essential for all animals; carbon dioxide keeps plants alive.
+2. **Mostly steady, partly changing:** the amounts of most gases stay nearly the same, but dust, smoke and water vapour differ from place to place.
+3. **Troposphere:** the lowest layer, touching the ground, about 13 km deep on average. Moisture, fog, cloud, rain and wind are found here, and almost all weather and climate processes take place in it. It is the most useful layer for humans.
+4. **Tropopause:** the upper limit of the troposphere. It is thin and its air is still, with no storms or rain, so aircraft fly through it without trouble.
+5. **Ozone layer:** a layer of ozone gas about 12 to 16 km deep. It absorbs the Sun's ultraviolet rays, which is why it is warm, and so it protects living things.
+6. **Light and heat:** the Sun gives just enough light and heat for plants and animals to bear. Without sunlight the Earth would be dark for ever and lifeless.
+7. **Temperature and water:** the average surface temperature is 13.90 °C, and there is the water that life needs.
+8. **Our duty:** cutting down forests and the smoke from factories and from burning oil, coal and gas pollute the air. To survive, we must keep the atmosphere clean.
+## definition
+**Atmosphere:** the invisible cover of gases that surrounds the Earth, held to it by gravity.
+
+**Troposphere:** the lowest layer of the atmosphere, next to the Earth's surface, in which weather occurs.
+
+**Tropopause:** the upper boundary of the troposphere.
+
+**Ozone layer:** the layer of ozone gas in the atmosphere that absorbs the Sun's ultraviolet rays.
+## why
+Why not Venus or Mars? Venus has an atmosphere, but it has no oxygen, is about 96% carbon dioxide and presses down about 90 times harder than ours. Mars is far colder than the Earth and has very little water. Mercury is burning hot, and the outer planets are freezing. Only the Earth has breathable air, bearable heat and water all together.
+## matters
+- It tells us exactly what must be protected: air, water and a steady temperature.
+- The thin layer of air is both our blanket and our shield, so polluting it harms everyone.
+- No other home is known, so caring for this one is not a choice.
+## terms
+Atmosphere (বায়ুমণ্ডল) | The cover of gases round the Earth
+Ultraviolet rays (অতিবেগুনি রশ্মি) | Harmful rays from the Sun, absorbed by the ozone layer
+Water vapour (জলীয় বাষ্প) | Water in the air in the form of gas
+Gravity (মাধ্যাকর্ষণ শক্তি) | The pull of the Earth that holds the air to its surface
+## facts
+Main gases of the air | nitrogen and oxygen
+Lowest layer | troposphere, about 13 km deep on average
+Where weather happens | in the troposphere
+Where aircraft fly | in the tropopause
+Ozone layer | about 12 to 16 km deep; absorbs ultraviolet rays
+Average surface temperature | 13.90 °C
+## mistakes
+x Aircraft fly in the troposphere because the air there is calm.
+v The troposphere is where storms and rain happen. Aircraft prefer the tropopause, where the air is still.
+x The ozone layer gives us oxygen to breathe.
+v Its job is to absorb harmful ultraviolet rays. The oxygen we breathe is in the troposphere.
+## remember
+- Life needs air, light, bearable heat and water; only the Earth has all of them.
+- Atmosphere: mostly nitrogen and oxygen, held by gravity, densest at sea level.
+- Troposphere (about 13 km): weather happens here. Tropopause: still air, aircraft fly here.
+- Ozone layer: absorbs ultraviolet rays and protects life.
+- Deforestation and smoke pollute the air; the atmosphere must be kept clean.
+## think
+Aircraft that fly long distances climb up to the tropopause before cruising. Using what you know about that layer, explain why this makes the journey smoother.
+## quiz
+? In which layer of the atmosphere do clouds, rain and wind occur?
+* Troposphere
+- Tropopause
+- Ozone layer
+- Outer space
+= Almost all weather takes place in the troposphere, the layer next to the ground.
+? Why do aircraft fly through the tropopause?
+- The air is thickest there
+- It is the warmest layer
+* The air is still and there are no storms or rain
+- Ozone helps the engines
+= The tropopause is a thin, calm layer with no storms, so flights are smooth.
+? The ozone layer makes the Earth fit for life mainly because it
+- makes rain
+- produces oxygen
+- holds the clouds
+* absorbs the Sun's ultraviolet rays
+= Ultraviolet rays are harmful to living things, and the ozone layer stops most of them.
+== bn
+## what
+সব গ্রহের মধ্যে একমাত্র পৃথিবীতেই জীব আছে। এর কারণ পৃথিবীর **বায়ুমণ্ডল**, সূর্য থেকে পাওয়া পরিমিত **আলো ও তাপ**, উপযোগী **তাপমাত্রা** এবং প্রচুর **পানি**।
+## visual
+বায়ুর কোনো স্তরে চাপ দিয়ে দেখো সেটি আমাদের কী কাজে লাগে। লক্ষ করো কোথায় আবহাওয়ার ঘটনা ঘটে, কোথায় বিমান চলে আর কোথায় ক্ষতিকর রশ্মি আটকে যায়।
+## simple
+পৃথিবী নানা গ্যাসের একটি অদৃশ্য চাদরে মোড়া; এর নাম **বায়ুমণ্ডল**। মাধ্যাকর্ষণ শক্তি এই চাদরকে ভূপৃষ্ঠের সাথে লেপ্টে রাখে, আর এটি পৃথিবীর সাথেই ঘোরে। সমুদ্রপৃষ্ঠে বায়ু সবচেয়ে ঘন; ওপরে উঠলে ক্রমশ পাতলা।
+
+এই চাদর আমাদের জন্য তিনটি কাজ করে। প্রাণীকে শ্বাসের অক্সিজেন আর উদ্ভিদকে খাদ্য তৈরির কার্বন ডাই-অক্সাইড দেয়। সূর্যের ক্ষতিকর রশ্মি আটকায়। আর মেঘ, বৃষ্টি ও বায়ুপ্রবাহ ধরে রাখে, যা থেকে আবহাওয়া তৈরি হয়। এর সাথে যোগ করো সূর্য থেকে ঠিকঠাক দূরত্ব, যাতে খুব গরমও না, খুব ঠান্ডাও না, আর ভূপৃষ্ঠের পানি। ব্যস, জীবন চলার মতো একটি গ্রহ পেয়ে গেলে।
+## points
+1. **জীবনের গ্যাস:** বায়ুতে নাইট্রোজেন ও অক্সিজেনের প্রাধান্য। সব প্রাণীর জন্য অক্সিজেন অত্যাবশ্যক; কার্বন ডাই-অক্সাইড উদ্ভিদকে বাঁচিয়ে রাখে।
+2. **বেশিরভাগ স্থির, কিছু পরিবর্তনশীল:** অধিকাংশ গ্যাসের পরিমাণ মোটামুটি একই থাকে, তবে ধুলা, ধোঁয়া ও জলীয় বাষ্প স্থানভেদে কম-বেশি হয়।
+3. **ট্রপোমণ্ডল:** ভূপৃষ্ঠ-সংলগ্ন সবচেয়ে নিচের স্তর; গড় গভীরতা প্রায় ১৩ কিমি। আর্দ্রতা, কুয়াশা, মেঘ, বৃষ্টি, বায়ুপ্রবাহ এখানেই; আবহাওয়া ও জলবায়ুর প্রায় সব প্রক্রিয়া এ স্তরে ঘটে। মানুষের জন্য সবচেয়ে প্রয়োজনীয় স্তর।
+4. **ট্রপোপস:** ট্রপোমণ্ডলের ঊর্ধ্বসীমা। এটি পাতলা, এখানে বায়ু স্থির, ঝড়-বৃষ্টি নেই; তাই বিমান এ স্তর দিয়ে নির্বিঘ্নে চলাচল করে।
+5. **ওজোন স্তর:** প্রায় ১২-১৬ কিমি গভীর ওজোন গ্যাসের স্তর। সূর্যের অতিবেগুনি রশ্মি শোষণ করে, তাই এটি উষ্ণ; এভাবে এটি জীবজগৎকে রক্ষা করে।
+6. **আলো ও তাপ:** সূর্য থেকে যে আলো ও তাপ আসে তা উদ্ভিদ ও প্রাণীর জন্য সহনীয়। সূর্যের আলো না থাকলে পৃথিবী চির অন্ধকার ও প্রাণহীন থাকত।
+7. **তাপমাত্রা ও পানি:** পৃথিবীপৃষ্ঠের গড় তাপমাত্রা ১৩.৯০ °সে, আর আছে জীবনের জন্য প্রয়োজনীয় পানি।
+8. **আমাদের দায়িত্ব:** নির্বিচারে গাছ কাটা, কলকারখানার ধোঁয়া এবং তেল, কয়লা ও গ্যাস পোড়ানোর ধোঁয়া বায়ুমণ্ডলকে দূষিত করে। টিকে থাকতে হলে বায়ুমণ্ডলকে বিশুদ্ধ রাখতে হবে।
+## definition
+**বায়ুমণ্ডল:** পৃথিবীকে বেষ্টন করে থাকা অদৃশ্য গ্যাসীয় আবরণ, যা মাধ্যাকর্ষণ শক্তির টানে ভূপৃষ্ঠের সাথে লেগে থাকে।
+
+**ট্রপোমণ্ডল:** ভূপৃষ্ঠ-সংলগ্ন বায়ুমণ্ডলের সর্বনিম্ন স্তর, যেখানে আবহাওয়ার ঘটনা ঘটে।
+
+**ট্রপোপস:** ট্রপোমণ্ডলের ঊর্ধ্বসীমা।
+
+**ওজোন স্তর:** বায়ুমণ্ডলে ওজোন গ্যাসের যে স্তর সূর্যের অতিবেগুনি রশ্মি শোষণ করে।
+## why
+শুক্র বা মঙ্গলে কেন নয়? শুক্রের বায়ুমণ্ডল আছে, কিন্তু তাতে অক্সিজেন নেই, প্রায় ৯৬% কার্বন ডাই-অক্সাইড, আর চাপ পৃথিবীর প্রায় ৯০ গুণ। মঙ্গল পৃথিবীর চেয়ে অনেক ঠান্ডা, পানিও খুব কম। বুধ প্রচণ্ড গরম, আর দূরের গ্রহগুলো হিমশীতল। শ্বাস নেওয়ার মতো বায়ু, সহনীয় তাপ আর পানি, এই তিনটি একসাথে আছে শুধু পৃথিবীতে।
+## matters
+- এ থেকে বোঝা যায় ঠিক কী কী রক্ষা করতে হবে: বায়ু, পানি ও সহনীয় তাপমাত্রা।
+- বায়ুর পাতলা স্তরটি একই সাথে আমাদের কম্বল ও ঢাল; তাই একে দূষিত করলে সবার ক্ষতি।
+- বসবাসের আর কোনো জায়গা জানা নেই, তাই এই পৃথিবীর যত্ন নেওয়া ছাড়া উপায় নেই।
+## terms
+বায়ুমণ্ডল (Atmosphere) | পৃথিবীকে ঘিরে থাকা গ্যাসের আবরণ
+অতিবেগুনি রশ্মি (Ultraviolet rays) | সূর্যের ক্ষতিকর রশ্মি; ওজোন স্তর এটি শোষণ করে
+জলীয় বাষ্প (Water vapour) | বায়ুতে গ্যাসীয় অবস্থায় থাকা পানি
+মাধ্যাকর্ষণ শক্তি (Gravity) | পৃথিবীর আকর্ষণ, যা বায়ুকে ভূপৃষ্ঠের সাথে ধরে রাখে
+## facts
+বায়ুর প্রধান গ্যাস | নাইট্রোজেন ও অক্সিজেন
+সবচেয়ে নিচের স্তর | ট্রপোমণ্ডল, গড়ে প্রায় ১৩ কিমি গভীর
+আবহাওয়ার ঘটনা ঘটে | ট্রপোমণ্ডলে
+উড়োজাহাজ চলে | ট্রপোপসে
+ওজোন স্তর | প্রায় ১২ থেকে ১৬ কিমি গভীর; অতিবেগুনি রশ্মি শোষণ করে
+ভূপৃষ্ঠের গড় তাপমাত্রা | ১৩.৯০ °সে
+## mistakes
+x ট্রপোমণ্ডলে বায়ু শান্ত, তাই বিমান সেখানে চলে।
+v ঝড়-বৃষ্টি হয় ট্রপোমণ্ডলেই। বিমান চলে ট্রপোপসে, যেখানে বায়ু স্থির।
+x ওজোন স্তর আমাদের শ্বাসের অক্সিজেন দেয়।
+v এর কাজ ক্ষতিকর অতিবেগুনি রশ্মি শোষণ করা। আমরা যে অক্সিজেন নিই তা ট্রপোমণ্ডলের।
+## remember
+- জীবনের জন্য চাই বায়ু, আলো, সহনীয় তাপ ও পানি; সব একসাথে আছে শুধু পৃথিবীতে।
+- বায়ুমণ্ডল: প্রধানত নাইট্রোজেন ও অক্সিজেন; মাধ্যাকর্ষণে আটকে আছে; সমুদ্রপৃষ্ঠে সবচেয়ে ঘন।
+- ট্রপোমণ্ডল (প্রায় ১৩ কিমি): আবহাওয়ার ঘটনা এখানে। ট্রপোপস: বায়ু স্থির, বিমান চলে।
+- ওজোন স্তর: অতিবেগুনি রশ্মি শোষণ করে জীবজগৎকে রক্ষা করে।
+- বন উজাড় ও ধোঁয়া বায়ু দূষিত করে; বায়ুমণ্ডল বিশুদ্ধ রাখতে হবে।
+## think
+দূরপাল্লার বিমান ওপরে উঠে ট্রপোপসে পৌঁছে তারপর এগোতে থাকে। ওই স্তর সম্পর্কে যা জানো তা দিয়ে ব্যাখ্যা করো, এতে যাত্রা কেন বেশি নির্বিঘ্ন হয়।
+## quiz
+? মেঘ, বৃষ্টি ও বায়ুপ্রবাহ বায়ুমণ্ডলের কোন স্তরে দেখা যায়?
+* ট্রপোমণ্ডল
+- ট্রপোপস
+- ওজোন স্তর
+- মহাশূন্য
+= আবহাওয়ার প্রায় সব ঘটনা ভূপৃষ্ঠ-সংলগ্ন স্তর ট্রপোমণ্ডলে ঘটে।
+? বিমান ট্রপোপস দিয়ে চলাচল করে কেন?
+- সেখানে বায়ু সবচেয়ে ঘন
+- এটি সবচেয়ে উষ্ণ স্তর
+* সেখানে বায়ু স্থির, ঝড়-বৃষ্টি নেই
+- ওজোন ইঞ্জিনকে সাহায্য করে
+= ট্রপোপস পাতলা ও শান্ত স্তর; ঝড় না থাকায় বিমান নির্বিঘ্নে চলে।
+? ওজোন স্তর পৃথিবীকে জীবের বাস উপযোগী করেছে মূলত কারণ এটি
+- বৃষ্টি ঘটায়
+- অক্সিজেন তৈরি করে
+- মেঘ ধরে রাখে
+* সূর্যের অতিবেগুনি রশ্মি শোষণ করে
+= অতিবেগুনি রশ্মি জীবের জন্য ক্ষতিকর; ওজোন স্তর এর বেশির ভাগ আটকে দেয়।
+
+@@ 3.1.4
+@visual g3interior
+@related 3.1.3 4.2.6 4.2.8
+== en
+## what
+Nobody has seen the inside of the Earth. From the way **earthquake waves** travel through it, geologists have found that it has three main layers: the **core** at the centre, the **mantle** round it, and the thin **lithosphere (crust)** on the outside.
+## visual
+Tap a layer of the half-Earth. The layers are drawn to scale, so notice how thin the crust we live on really is.
+## simple
+Imagine a boiled egg cut in half. The yolk in the middle is like the core, the thick white is like the mantle, and the thin shell is like the crust. The Earth is built in layers in much the same way, heaviest in the middle and lightest outside.
+
+How do we know, when the deepest holes ever drilled only scratch the crust? Earthquake waves change their speed and direction when the rock they pass through becomes denser or changes from solid to liquid. By timing these waves all over the world, scientists worked out what lies below.
+## points
+1. **Core (Nife):** a ball of about 3,486 km radius round the centre of the Earth (the Earth's radius is about 6,371 km). It is made of hard, heavy materials, mainly **ni**ckel and iron (**fe**), so it is called *Nife*. It is 10 to 12 times as dense as water and more than twice as dense as the rest of the Earth.
+2. **Two parts of the core:** the outer part, about 2,270 km thick, is thought to be liquid; the inner part, within about 1,216 km of the centre, is thought to be solid.
+3. **Mantle (Sima):** the layer round the core, about 2,885 km thick. It is made of heavy materials such as **si**licon and **ma**gnesium, so it is called *Sima*. Its upper 1,448 km is of basalt-like material and is called the basalt zone.
+4. **Lithosphere (Sial):** the part above the mantle, made of many kinds of rock and minerals. Its depth is taken as 30 to 64 km: greatest under the continents, least under the oceans. It is rich in **si**licon and **al**uminium, so it is called *Sial*. Oxygen, iron, calcium, sodium and potassium are also found in it.
+5. **The crust:** the top of the lithosphere, the hard outer cover of the Earth. It is 3 km thick under the oceans and up to 40 km under mountains; about 17 km on average.
+## definition
+**Core:** the innermost layer of the Earth, a sphere of about 3,486 km radius made mostly of nickel and iron (Nife).
+
+**Mantle:** the layer about 2,885 km thick that surrounds the core, made of silicon and magnesium (Sima).
+
+**Lithosphere:** the outer layer above the mantle, made of rocks and minerals rich in silicon and aluminium (Sial); its upper part is the crust.
+## matters
+- Earthquakes and volcanoes begin inside the Earth, so we must know what is there.
+- Minerals, gas, oil and coal all come from the crust.
+- It prepares you for the next chapter, where the moving crust shakes Bangladesh.
+## terms
+Seismic waves (ভূকম্পন তরঙ্গ) | The waves of an earthquake, which reveal the layers inside the Earth
+Nife | Nickel + iron (ferrum): the core
+Sima | Silicon + magnesium: the mantle
+Sial | Silicon + aluminium: the lithosphere
+Crust (ভূত্বক) | The hard top part of the lithosphere
+## facts
+Radius of the Earth | about 6,371 km
+Core | radius about 3,486 km (outer part about 2,270 km, inner part about 1,216 km)
+Mantle | about 2,885 km thick
+Lithosphere | 30 to 64 km deep
+Crust | 3 km (ocean floor) to 40 km (under mountains); average 17 km
+## mistakes
+x The crust is the thickest layer because we live on it.
+v The crust is by far the thinnest layer. The mantle and the core make up almost the whole Earth.
+x The whole core is liquid.
+v Only the outer core is thought to be liquid; the inner core is thought to be solid.
+## remember
+- Three layers, from the centre outwards: core (Nife), mantle (Sima), lithosphere (Sial).
+- Core radius about 3,486 km: outer part liquid, inner part solid.
+- Mantle about 2,885 km thick; its upper 1,448 km is the basalt zone.
+- Lithosphere 30 to 64 km; the crust is its hard top, 17 km thick on average.
+- We know all this from the behaviour of earthquake waves.
+## think
+The deepest mines reach only a few kilometres down. Why are earthquake waves a better tool than digging for learning about the centre of the Earth?
+## quiz
+? Scientists know about the layers inside the Earth mainly from
+- deep wells
+- photographs from space
+* the speed and behaviour of earthquake waves
+- volcanoes only
+= Earthquake waves change speed in rocks of different density, and that reveals the layers.
+? The mantle is called Sima because it is made mainly of
+* silicon and magnesium
+- silicon and aluminium
+- nickel and iron
+- sodium and magnesium
+= Si (silicon) + ma (magnesium) gives the name Sima.
+? Which statement about the core is correct?
+- It is the thinnest layer
+- It is made of silicon and aluminium
+- It is lighter than water
+* Its outer part is thought to be liquid and its inner part solid
+= The outer core (about 2,270 km) is liquid and the inner core (radius about 1,216 km) is solid.
+== bn
+## what
+পৃথিবীর ভেতরটা কেউ দেখেনি। তবে **ভূকম্পন তরঙ্গ** ভেতর দিয়ে কীভাবে চলে তা লক্ষ করে ভূতত্ত্ববিদরা জেনেছেন, ভূ-অভ্যন্তর প্রধান তিনটি স্তরে গঠিত: কেন্দ্রে **কেন্দ্রমণ্ডল**, তার চারদিকে **গুরুমণ্ডল**, আর সবার বাইরে পাতলা **অশ্মমণ্ডল (ভূত্বক)**।
+## visual
+অর্ধেক পৃথিবীর কোনো স্তরে চাপ দাও। স্তরগুলো স্কেল অনুযায়ী আঁকা; লক্ষ করো, যে ভূত্বকের ওপর আমরা থাকি তা আসলে কত পাতলা।
+## simple
+একটি সিদ্ধ ডিম মাঝখান দিয়ে কাটলে কী দেখো? মাঝের কুসুম যেন কেন্দ্রমণ্ডল, পুরু সাদা অংশ যেন গুরুমণ্ডল, আর পাতলা খোসা যেন ভূত্বক। পৃথিবীও অনেকটা এভাবে স্তরে স্তরে গঠিত: মাঝখানে সবচেয়ে ভারী, বাইরে সবচেয়ে হালকা।
+
+মানুষের খোঁড়া সবচেয়ে গভীর গর্তও তো ভূত্বকে সামান্য আঁচড় মাত্র, তাহলে আমরা জানলাম কী করে? ভূমিকম্পের তরঙ্গ যে শিলার ভেতর দিয়ে যায় তার ঘনত্ব বাড়লে বা তা কঠিন থেকে তরল হলে তরঙ্গের গতি ও দিক বদলে যায়। সারা পৃথিবীতে এই তরঙ্গের সময় মেপে বিজ্ঞানীরা বুঝেছেন নিচে কী আছে।
+## points
+1. **কেন্দ্রমণ্ডল (নাইফ):** পৃথিবীর কেন্দ্রের চারদিকে প্রায় ৩,৪৮৬ কিমি ব্যাসার্ধের গোলক (পৃথিবীর ব্যাসার্ধ প্রায় ৬,৩৭১ কিমি)। এটি কঠিন ও ভারী পদার্থে গঠিত, প্রধানত নিকেল (Ni) ও লোহা (Fe); তাই নাম *নাইফ (Nife)*। পানির চেয়ে ১০-১২ গুণ এবং পৃথিবীর অন্য অংশের চেয়ে দ্বিগুণেরও বেশি ঘন।
+2. **কেন্দ্রমণ্ডলের দুই অংশ:** বাইরের অংশ প্রায় ২,২৭০ কিমি বিস্তৃত, তরল বলে অনুমান করা হয়; ভেতরের অংশ কেন্দ্র থেকে প্রায় ১,২১৬ কিমির মধ্যে, কঠিন বলে অনুমান করা হয়।
+3. **গুরুমণ্ডল (সিমা):** কেন্দ্রমণ্ডলের চারদিকের স্তর, প্রায় ২,৮৮৫ কিমি পুরু। সিলিকন (Si), ম্যাগনেসিয়াম (Mg) প্রভৃতি ভারী উপাদানে গঠিত, তাই নাম *সিমা (Sima)*। এর ওপরের ১,৪৪৮ কিমি ব্যাসল্ট জাতীয় উপাদানে গঠিত বলে একে ব্যাসল্ট অঞ্চলও বলে।
+4. **অশ্মমণ্ডল (সিয়াল):** গুরুমণ্ডলের ওপরের অংশ; নানা শিলা ও খনিজে গঠিত। গভীরতা ৩০ থেকে ৬৪ কিমি ধরা হয়: মহাদেশের নিচে সবচেয়ে বেশি, মহাসাগরের নিচে সবচেয়ে কম। সিলিকন (Si) ও অ্যালুমিনিয়াম (Al) বেশি বলে নাম *সিয়াল (Sial)*। অক্সিজেন, লোহা, ক্যালসিয়াম, সোডিয়াম, পটাশিয়ামও আছে।
+5. **ভূত্বক:** অশ্মমণ্ডলের উপরিভাগ; পৃথিবীর কঠিন বহিরাবরণ। সমুদ্রের তলদেশে ৩ কিমি থেকে পর্বতের নিচে ৪০ কিমি পর্যন্ত পুরু; গড়ে ১৭ কিমি।
+## definition
+**কেন্দ্রমণ্ডল:** পৃথিবীর সবচেয়ে ভেতরের স্তর; প্রায় ৩,৪৮৬ কিমি ব্যাসার্ধের গোলক, প্রধানত নিকেল ও লোহায় গঠিত (নাইফ)।
+
+**গুরুমণ্ডল:** কেন্দ্রমণ্ডলকে ঘিরে থাকা প্রায় ২,৮৮৫ কিমি পুরু স্তর, সিলিকন ও ম্যাগনেসিয়ামে গঠিত (সিমা)।
+
+**অশ্মমণ্ডল:** গুরুমণ্ডলের ওপরের স্তর, সিলিকন ও অ্যালুমিনিয়াম সমৃদ্ধ শিলা ও খনিজে গঠিত (সিয়াল); এর উপরিভাগই ভূত্বক।
+## matters
+- ভূমিকম্প ও আগ্নেয়গিরির শুরু পৃথিবীর ভেতরে, তাই ভেতরে কী আছে তা জানা দরকার।
+- খনিজ, গ্যাস, তেল ও কয়লা সবই আসে ভূত্বক থেকে।
+- পরের অধ্যায়ে দেখবে চলমান ভূত্বক কীভাবে বাংলাদেশকে কাঁপায়; এ পাঠ তারই প্রস্তুতি।
+## terms
+ভূকম্পন তরঙ্গ (Seismic waves) | ভূমিকম্পের তরঙ্গ, যা থেকে ভূ-অভ্যন্তরের স্তরের কথা জানা যায়
+নাইফ (Nife) | নিকেল + লোহা (ferrum): কেন্দ্রমণ্ডল
+সিমা (Sima) | সিলিকন + ম্যাগনেসিয়াম: গুরুমণ্ডল
+সিয়াল (Sial) | সিলিকন + অ্যালুমিনিয়াম: অশ্মমণ্ডল
+ভূত্বক (Crust) | অশ্মমণ্ডলের কঠিন উপরিভাগ
+## facts
+পৃথিবীর ব্যাসার্ধ | প্রায় ৬,৩৭১ কিমি
+কেন্দ্রমণ্ডল | ব্যাসার্ধ প্রায় ৩,৪৮৬ কিমি (বাইরের অংশ প্রায় ২,২৭০ কিমি, ভেতরের অংশ প্রায় ১,২১৬ কিমি)
+গুরুমণ্ডল | প্রায় ২,৮৮৫ কিমি পুরু
+অশ্মমণ্ডল | ৩০ থেকে ৬৪ কিমি গভীর
+ভূত্বক | ৩ কিমি (সমুদ্রের তলদেশ) থেকে ৪০ কিমি (পর্বতের নিচে); গড়ে ১৭ কিমি
+## mistakes
+x আমরা ভূত্বকের ওপর থাকি, তাই এটিই সবচেয়ে পুরু স্তর।
+v ভূত্বক সবচেয়ে পাতলা স্তর। পৃথিবীর প্রায় পুরোটাই গুরুমণ্ডল ও কেন্দ্রমণ্ডল।
+x কেন্দ্রমণ্ডলের পুরোটাই তরল।
+v শুধু বাইরের অংশ তরল বলে অনুমান করা হয়; ভেতরের অংশ কঠিন।
+## remember
+- কেন্দ্র থেকে বাইরের দিকে তিন স্তর: কেন্দ্রমণ্ডল (নাইফ), গুরুমণ্ডল (সিমা), অশ্মমণ্ডল (সিয়াল)।
+- কেন্দ্রমণ্ডলের ব্যাসার্ধ প্রায় ৩,৪৮৬ কিমি: বাইরের অংশ তরল, ভেতরের অংশ কঠিন।
+- গুরুমণ্ডল প্রায় ২,৮৮৫ কিমি পুরু; ওপরের ১,৪৪৮ কিমি ব্যাসল্ট অঞ্চল।
+- অশ্মমণ্ডল ৩০-৬৪ কিমি; এর কঠিন উপরিভাগ ভূত্বক, গড়ে ১৭ কিমি।
+- এ সব জানা গেছে ভূকম্পন তরঙ্গের আচরণ থেকে।
+## think
+সবচেয়ে গভীর খনিও মাত্র কয়েক কিলোমিটার নিচে পৌঁছায়। পৃথিবীর কেন্দ্র সম্পর্কে জানতে খননের চেয়ে ভূকম্পন তরঙ্গ ভালো উপায় কেন?
+## quiz
+? বিজ্ঞানীরা ভূ-অভ্যন্তরের স্তর সম্পর্কে প্রধানত জেনেছেন
+- গভীর কূপ থেকে
+- মহাকাশ থেকে তোলা ছবি থেকে
+* ভূকম্পন তরঙ্গের গতি ও আচরণ থেকে
+- শুধু আগ্নেয়গিরি থেকে
+= ভিন্ন ঘনত্বের শিলায় ভূকম্পন তরঙ্গের গতি বদলায়; তা থেকেই স্তরগুলো ধরা পড়ে।
+? গুরুমণ্ডলকে সিমা বলা হয়, কারণ এটি প্রধানত গঠিত
+* সিলিকন ও ম্যাগনেসিয়াম দিয়ে
+- সিলিকন ও অ্যালুমিনিয়াম দিয়ে
+- নিকেল ও লোহা দিয়ে
+- সোডিয়াম ও ম্যাগনেসিয়াম দিয়ে
+= Si (সিলিকন) + ma (ম্যাগনেসিয়াম) থেকে নাম সিমা।
+? কেন্দ্রমণ্ডল সম্পর্কে কোনটি ঠিক?
+- এটি সবচেয়ে পাতলা স্তর
+- এটি সিলিকন ও অ্যালুমিনিয়ামে গঠিত
+- এটি পানির চেয়ে হালকা
+* এর বাইরের অংশ তরল ও ভেতরের অংশ কঠিন বলে অনুমান করা হয়
+= বাইরের অংশ (প্রায় ২,২৭০ কিমি) তরল এবং ভেতরের অংশ (ব্যাসার্ধ প্রায় ১,২১৬ কিমি) কঠিন।
+
+@@ 3.2.1
+@visual g3latlon
+@related 3.2.2 3.2.3 3.3.3
+== en
+## what
+To say where a place is on the round Earth, we imagine lines drawn on it. Lines running **east–west** are **parallels of latitude**. The most important one is the **equator**, which lies halfway between the two poles.
+## visual
+Move the red line north and south. Read its latitude, its hemisphere and its zone, and see how the circle gets smaller towards the poles.
+## simple
+The Earth spins about an imaginary rod through its centre, running north–south. This is its **axis**. The top end of the axis is the North Pole and the bottom end is the South Pole.
+
+Now imagine a belt round the Earth's middle, exactly the same distance from both poles. That is the **equator**. It cuts the Earth into a northern half and a southern half. Every other east–west circle is drawn parallel to the equator, and each one is named by its angle north or south of the equator, measured at the centre of the Earth. That angle is the **latitude** of every place on that circle.
+## points
+1. **Axis and poles:** the imaginary north–south line through the centre of the Earth is the axis; its two ends are the North Pole and the South Pole.
+2. **Equator:** the imaginary east–west line round the Earth at equal distance from the two poles. Because the Earth is round, it is a circle. Its latitude is 0°.
+3. **Hemispheres:** the equator divides the Earth into the northern hemisphere and the southern hemisphere.
+4. **Parallels of latitude:** imaginary east–west lines parallel to the equator. Each is a full circle. The circles get smaller towards the poles.
+5. **Measuring:** latitude is an angle, counted in degrees (°), minutes (′) and seconds (″). Each pole is 90° from the equator, so 90° is the highest latitude.
+6. **Four famous parallels:** Tropic of Cancer (23.5° N), Tropic of Capricorn (23.5° S), Arctic Circle (66.5° N) and Antarctic Circle (66.5° S).
+7. **Three zones:** 0° to 30° is low latitude, 30° to 60° is middle latitude, and 60° to 90° is high latitude.
+8. **Same line, same latitude:** all places on one parallel have the same latitude.
+## definition
+**Axis:** the imaginary line through the centre of the Earth from north to south.
+
+**Equator:** the imaginary line that circles the Earth from east to west at equal distance from both poles.
+
+**Latitude:** the angular distance of a place north or south of the equator.
+
+**Parallel of latitude:** an imaginary east–west line, parallel to the equator, joining all places of the same latitude.
+## matters
+- Latitude is half of the address of every place on the Earth.
+- It tells at once how hot or cold a place is likely to be.
+- Sailors, pilots and the map on a phone all depend on it.
+## terms
+North Pole / South Pole (উত্তর মেরু / দক্ষিণ মেরু) | The two ends of the Earth's axis
+Hemisphere (গোলার্ধ) | Half of the Earth, north or south of the equator
+Tropic of Cancer (কর্কটক্রান্তি) | The parallel 23.5° N; it passes through the middle of Bangladesh
+Tropic of Capricorn (মকরক্রান্তি) | The parallel 23.5° S
+Arctic / Antarctic Circle (সুমেরুবৃত্ত / কুমেরুবৃত্ত) | The parallels 66.5° N and 66.5° S
+## facts
+Equator | 0°
+Tropic of Cancer | 23.5° N
+Tropic of Capricorn | 23.5° S
+Arctic Circle | 66.5° N
+Antarctic Circle | 66.5° S
+Poles | 90° N and 90° S
+Low / middle / high latitude | 0°–30° / 30°–60° / 60°–90°
+## mistakes
+x Parallels of latitude run north–south because latitude tells how far north a place is.
+v The lines themselves run east–west. They tell you how far north or south of the equator a place is.
+x All parallels of latitude are the same length.
+v Only the equator is a great circle. The other parallels become smaller and smaller, and at the poles they shrink to a point.
+## remember
+- Axis: north–south line through the Earth's centre; its ends are the poles.
+- Equator: 0°, divides the Earth into northern and southern hemispheres.
+- Latitude: angle north or south of the equator; highest value 90°.
+- 23.5° N Cancer, 23.5° S Capricorn, 66.5° N Arctic Circle, 66.5° S Antarctic Circle.
+- Low 0°–30°, middle 30°–60°, high 60°–90°.
+## think
+Dhaka and a town in Mexico are both close to the Tropic of Cancer. What does that tell you about their latitude, and what does it not tell you about where they are?
+## quiz
+? The equator divides the Earth into
+- eastern and western hemispheres
+* northern and southern hemispheres
+- day and night
+- land and sea
+= The equator runs east–west, so the two halves lie to its north and south.
+? The Tropic of Cancer is the parallel of
+- 0°
+- 66.5° N
+* 23.5° N
+- 23.5° S
+= 23.5° N is the Tropic of Cancer; 23.5° S is the Tropic of Capricorn.
+? A place at 45° N lies in the
+- low latitudes
+* middle latitudes
+- high latitudes
+- southern hemisphere
+= 30° to 60° is called the middle latitude.
+== bn
+## what
+গোলাকার পৃথিবীতে কোনো স্থান ঠিক কোথায়, তা বলার জন্য আমরা এর গায়ে কিছু কাল্পনিক রেখা টানি। **পূর্ব-পশ্চিমে** টানা রেখাগুলো **অক্ষরেখা বা সমাক্ষরেখা**। এদের মধ্যে সবচেয়ে গুরুত্বপূর্ণ **নিরক্ষরেখা**, যা দুই মেরুর ঠিক মাঝখানে।
+## visual
+লাল রেখাটি উত্তর-দক্ষিণে সরাও। এর অক্ষাংশ, গোলার্ধ ও অঞ্চল পড়ো, আর দেখো মেরুর দিকে গেলে বৃত্ত কীভাবে ছোট হয়।
+## simple
+পৃথিবী তার কেন্দ্র দিয়ে উত্তর-দক্ষিণে যাওয়া একটি কাল্পনিক দণ্ডকে ঘিরে ঘোরে। এটিই পৃথিবীর **অক্ষ**। অক্ষের ওপরের প্রান্ত উত্তর মেরু, নিচের প্রান্ত দক্ষিণ মেরু।
+
+এবার পৃথিবীর কোমরে একটি বেল্ট কল্পনা করো, যা দুই মেরু থেকে ঠিক সমান দূরে। এটিই **নিরক্ষরেখা**। এটি পৃথিবীকে উত্তর ও দক্ষিণ দুই অর্ধেকে ভাগ করে। বাকি সব পূর্ব-পশ্চিম বৃত্ত নিরক্ষরেখার সমান্তরালে আঁকা, আর প্রতিটির নাম দেওয়া হয় পৃথিবীর কেন্দ্রে মাপা কোণ দিয়ে: নিরক্ষরেখা থেকে কত ডিগ্রি উত্তরে বা দক্ষিণে। সেই কোণই ওই বৃত্তের সব স্থানের **অক্ষাংশ**।
+## points
+1. **অক্ষ ও মেরু:** পৃথিবীর কেন্দ্র দিয়ে উত্তর-দক্ষিণে কল্পিত রেখা হলো অক্ষ; এর দুই প্রান্ত উত্তর মেরু ও দক্ষিণ মেরু।
+2. **নিরক্ষরেখা:** দুই মেরু থেকে সমান দূরত্বে পৃথিবীকে পূর্ব-পশ্চিমে বেষ্টন করা কল্পিত রেখা। পৃথিবী গোল বলে এটি বৃত্তাকার; তাই একে নিরক্ষবৃত্ত বা বিষুবরেখাও বলে। এর মান ০°।
+3. **গোলার্ধ:** নিরক্ষরেখা পৃথিবীকে উত্তর গোলার্ধ ও দক্ষিণ গোলার্ধে ভাগ করেছে।
+4. **সমাক্ষরেখা:** নিরক্ষরেখার সমান্তরাল পূর্ব-পশ্চিমে বিস্তৃত কাল্পনিক রেখা। প্রতিটি একটি পূর্ণবৃত্ত। মেরুর দিকে গেলে বৃত্ত ছোট হয়।
+5. **মাপ:** অক্ষাংশ একটি কোণ; ডিগ্রি (°), মিনিট (′) ও সেকেন্ডে (″) মাপা হয়। নিরক্ষরেখা থেকে প্রতিটি মেরুর কৌণিক দূরত্ব ৯০°, তাই সর্বোচ্চ অক্ষাংশ ৯০°।
+6. **চারটি বিখ্যাত অক্ষরেখা:** কর্কটক্রান্তি (২৩.৫° উ), মকরক্রান্তি (২৩.৫° দ), সুমেরুবৃত্ত (৬৬.৫° উ) ও কুমেরুবৃত্ত (৬৬.৫° দ)।
+7. **তিন অঞ্চল:** ০° থেকে ৩০° নিম্ন অক্ষাংশ, ৩০° থেকে ৬০° মধ্য অক্ষাংশ, ৬০° থেকে ৯০° উচ্চ অক্ষাংশ।
+8. **একই রেখা, একই অক্ষাংশ:** একই অক্ষরেখায় অবস্থিত সব স্থানের অক্ষাংশ এক।
+## definition
+**অক্ষ:** পৃথিবীর কেন্দ্র দিয়ে উত্তর-দক্ষিণে কল্পিত রেখা।
+
+**নিরক্ষরেখা:** দুই মেরু থেকে সমান দূরত্বে পৃথিবীকে পূর্ব-পশ্চিমে বেষ্টন করে যে রেখা কল্পনা করা হয়।
+
+**অক্ষাংশ:** নিরক্ষরেখা থেকে উত্তরে বা দক্ষিণে কোনো স্থানের কৌণিক দূরত্ব।
+
+**সমাক্ষরেখা:** নিরক্ষরেখার সমান্তরাল পূর্ব-পশ্চিমে কল্পিত রেখা, যা একই অক্ষাংশের সব স্থানকে যুক্ত করে।
+## matters
+- পৃথিবীর প্রতিটি স্থানের ঠিকানার অর্ধেক হলো অক্ষাংশ।
+- অক্ষাংশ দেখেই বোঝা যায় কোনো স্থান কতটা গরম বা ঠান্ডা হতে পারে।
+- নাবিক, বৈমানিক ও মোবাইল ফোনের মানচিত্র সবই এর ওপর নির্ভর করে।
+## terms
+উত্তর মেরু / দক্ষিণ মেরু | পৃথিবীর অক্ষের দুই প্রান্ত
+গোলার্ধ (Hemisphere) | নিরক্ষরেখার উত্তরে বা দক্ষিণে পৃথিবীর অর্ধেক
+কর্কটক্রান্তি (Tropic of Cancer) | ২৩.৫° উত্তর অক্ষরেখা; বাংলাদেশের মাঝামাঝি দিয়ে গেছে
+মকরক্রান্তি (Tropic of Capricorn) | ২৩.৫° দক্ষিণ অক্ষরেখা
+সুমেরুবৃত্ত / কুমেরুবৃত্ত | ৬৬.৫° উত্তর ও ৬৬.৫° দক্ষিণ অক্ষরেখা
+## facts
+নিরক্ষরেখা | ০°
+কর্কটক্রান্তি | ২৩.৫° উ
+মকরক্রান্তি | ২৩.৫° দ
+সুমেরুবৃত্ত | ৬৬.৫° উ
+কুমেরুবৃত্ত | ৬৬.৫° দ
+দুই মেরু | ৯০° উ ও ৯০° দ
+নিম্ন / মধ্য / উচ্চ অক্ষাংশ | ০°-৩০° / ৩০°-৬০° / ৬০°-৯০°
+## mistakes
+x অক্ষাংশ বলে কোনো স্থান কত উত্তরে, তাই অক্ষরেখা উত্তর-দক্ষিণে আঁকা।
+v রেখাগুলো পূর্ব-পশ্চিমে আঁকা। এরা জানায় স্থানটি নিরক্ষরেখা থেকে কত উত্তরে বা দক্ষিণে।
+x সব অক্ষরেখার দৈর্ঘ্য সমান।
+v শুধু নিরক্ষরেখাই সবচেয়ে বড় বৃত্ত। অন্য অক্ষরেখাগুলো ক্রমে ছোট হয়, মেরুতে গিয়ে একটি বিন্দু।
+## remember
+- অক্ষ: পৃথিবীর কেন্দ্র দিয়ে উত্তর-দক্ষিণ রেখা; দুই প্রান্ত দুই মেরু।
+- নিরক্ষরেখা: ০°; পৃথিবীকে উত্তর ও দক্ষিণ গোলার্ধে ভাগ করে।
+- অক্ষাংশ: নিরক্ষরেখা থেকে উত্তর বা দক্ষিণে কৌণিক দূরত্ব; সর্বোচ্চ ৯০°।
+- ২৩.৫° উ কর্কটক্রান্তি, ২৩.৫° দ মকরক্রান্তি, ৬৬.৫° উ সুমেরুবৃত্ত, ৬৬.৫° দ কুমেরুবৃত্ত।
+- নিম্ন ০°-৩০°, মধ্য ৩০°-৬০°, উচ্চ ৬০°-৯০°।
+## think
+ঢাকা আর মেক্সিকোর একটি শহর দুটিই কর্কটক্রান্তি রেখার কাছে। এ থেকে তাদের অক্ষাংশ সম্পর্কে কী জানা যায়, আর তারা কোথায় সে সম্পর্কে কী জানা যায় না?
+## quiz
+? নিরক্ষরেখা পৃথিবীকে ভাগ করেছে
+- পূর্ব ও পশ্চিম গোলার্ধে
+* উত্তর ও দক্ষিণ গোলার্ধে
+- দিন ও রাতে
+- স্থল ও জলে
+= নিরক্ষরেখা পূর্ব-পশ্চিমে গেছে, তাই দুই অর্ধেক এর উত্তরে ও দক্ষিণে।
+? কর্কটক্রান্তি রেখা হলো
+- ০° অক্ষরেখা
+- ৬৬.৫° উত্তর অক্ষরেখা
+* ২৩.৫° উত্তর অক্ষরেখা
+- ২৩.৫° দক্ষিণ অক্ষরেখা
+= ২৩.৫° উত্তর কর্কটক্রান্তি; ২৩.৫° দক্ষিণ মকরক্রান্তি।
+? ৪৫° উত্তর অক্ষাংশের একটি স্থান পড়ে
+- নিম্ন অক্ষাংশে
+* মধ্য অক্ষাংশে
+- উচ্চ অক্ষাংশে
+- দক্ষিণ গোলার্ধে
+= ৩০° থেকে ৬০° পর্যন্ত অক্ষাংশকে মধ্য অক্ষাংশ বলে।
+
+@@ 3.2.2
+@visual g3latlon
+@related 3.2.1 3.2.3 3.2.5
+== en
+## what
+Lines imagined from the North Pole to the South Pole are **meridians of longitude**. The meridian that passes over the Greenwich Observatory near London is the **prime meridian**, counted as 0°. Longitude tells how far east or west of it a place lies.
+## visual
+Move the red line east and west of Greenwich. Read the longitude, and see how many hours ahead or behind Greenwich the place is.
+## simple
+Latitude alone cannot fix a place: a whole circle of places share the same latitude. We need a second set of lines crossing the first, running north–south from pole to pole. These are the meridians.
+
+Unlike the equator, no meridian is naturally "the middle", so the world agreed to start counting from the one through Greenwich. From there we count 180° to the east and 180° to the west. Because the Earth is round, 180° east and 180° west turn out to be the very same line, on the opposite side of the globe from Greenwich. Give the latitude and the longitude together, and you have named one exact spot.
+## points
+1. **Meridians:** the equator is divided into degrees, minutes and seconds, and through each division a line is imagined from the North Pole to the South Pole. These are the meridians of longitude.
+2. **Shape:** every meridian is a half circle. All meridians are the same length. They are not parallel: they are widest apart at the equator and meet at the poles.
+3. **Prime meridian:** the meridian over the Greenwich Observatory, on the edge of London in the United Kingdom. Its value is 0°.
+4. **East and west:** the angular distance of a place east or west of the prime meridian is its longitude. A place on the meridian 45° east of Greenwich has longitude 45° East.
+5. **Highest value:** the 360° round the Earth is split into 180° east and 180° west. 180° E and 180° W are the same meridian.
+6. **Smaller units:** like latitude, longitude is divided into minutes and seconds. One minute is one-sixtieth of a degree.
+7. **Zero, zero:** the equator and the prime meridian cross at latitude 0° and longitude 0°, a point in the Gulf of Guinea.
+8. **Longitude and time:** the local time of a place is found from its longitude, and its longitude can be found from its local time and Greenwich time.
+
+| | Parallels of latitude | Meridians of longitude |
+| Direction | east–west | north–south |
+| Shape | full circles, parallel | half circles, meeting at the poles |
+| Length | get smaller towards the poles | all equal |
+| Counted from | the equator (0° to 90°) | the prime meridian (0° to 180°) |
+| Tells us | how far north or south | how far east or west, and the time |
+## definition
+**Meridian of longitude:** an imaginary line drawn from the North Pole to the South Pole.
+
+**Prime meridian:** the meridian passing over the Greenwich Observatory near London; it is taken as 0°.
+
+**Longitude:** the angular distance of a place east or west of the prime meridian.
+## matters
+- Longitude is the other half of the address; together with latitude it fixes one exact point.
+- It is the key to time: clocks all over the world are set from it.
+- Ships, aircraft and satellites find their way with these two numbers.
+## terms
+Greenwich (গ্রিনিচ) | A place on the edge of London; the prime meridian passes over its observatory
+Degree, minute, second | Units of angle: 1° = 60′, 1′ = 60″
+Gulf of Guinea (গিনি উপসাগর) | The sea off West Africa where the equator and the prime meridian cross
+## facts
+Prime meridian | 0°, through Greenwich
+Highest longitude | 180° (east and west are the same line)
+Shape of a meridian | Half circle; all equal in length
+Shape of a parallel | Full circle; smaller towards the poles
+Meridian through the middle of Bangladesh | about 90° East
+## mistakes
+x Meridians are parallel to each other, like the parallels of latitude.
+v Meridians are not parallel. They meet at both poles.
+x 180° East and 180° West are two different lines on opposite sides of the Earth.
+v They are one and the same line, directly opposite Greenwich.
+## remember
+- Meridians run north–south from pole to pole; all are equal half circles.
+- Prime meridian = 0° through Greenwich.
+- Longitude = angular distance east or west of Greenwich; highest 180°.
+- 180° E and 180° W are the same line.
+- Latitude + longitude together fix a place; longitude also gives its time.
+## think
+If the world had chosen the meridian through Dhaka as 0° instead of Greenwich, what would change on maps and what would stay the same?
+## quiz
+? The prime meridian passes through
+- Dhaka
+- New York
+* Greenwich
+- the North Pole only
+= By international agreement the meridian over the Greenwich Observatory near London is 0°.
+? Which statement about meridians of longitude is correct?
+* They are half circles of equal length
+- They are full circles
+- They are parallel to each other
+- They run east–west
+= Each meridian runs from pole to pole as a half circle, and all are the same length.
+? Where do the equator and the prime meridian cross?
+- In the Bay of Bengal
+- In the Pacific Ocean near Chile
+- At the North Pole
+* In the Gulf of Guinea
+= The point 0° latitude, 0° longitude lies in the Gulf of Guinea off West Africa.
+== bn
+## what
+উত্তর মেরু থেকে দক্ষিণ মেরু পর্যন্ত কল্পিত রেখাগুলো **দ্রাঘিমারেখা বা মধ্যরেখা**। লন্ডনের কাছে গ্রিনিচ মানমন্দিরের ওপর দিয়ে যে মধ্যরেখা গেছে সেটি **মূল মধ্যরেখা**; এর মান ০°। কোনো স্থান এর কত পূর্বে বা পশ্চিমে, তা-ই দ্রাঘিমা।
+## visual
+লাল রেখাটি গ্রিনিচের পূর্বে ও পশ্চিমে সরাও। দ্রাঘিমা পড়ো, আর দেখো স্থানটির সময় গ্রিনিচের চেয়ে কত ঘণ্টা এগিয়ে বা পিছিয়ে।
+## simple
+শুধু অক্ষাংশ দিয়ে কোনো স্থান ঠিক করা যায় না: একই অক্ষাংশে পুরো এক বৃত্ত স্থান আছে। তাই প্রথমগুলোকে আড়াআড়ি ছেদ করে এমন আরেক সারি রেখা দরকার, যা মেরু থেকে মেরু পর্যন্ত উত্তর-দক্ষিণে গেছে। এগুলোই দ্রাঘিমারেখা।
+
+নিরক্ষরেখার মতো কোনো দ্রাঘিমারেখা স্বাভাবিকভাবে "মাঝখানে" নয়, তাই সারা পৃথিবী মিলে ঠিক করেছে গ্রিনিচের ওপরের রেখা থেকে গোনা শুরু হবে। সেখান থেকে পূর্বে ১৮০° এবং পশ্চিমে ১৮০° গোনা হয়। পৃথিবী গোল বলে ১৮০° পূর্ব ও ১৮০° পশ্চিম আসলে একই রেখা, গ্রিনিচের ঠিক উল্টো পাশে। অক্ষাংশ ও দ্রাঘিমা একসাথে বললে একটি নির্দিষ্ট বিন্দু চিহ্নিত হয়ে যায়।
+## points
+1. **দ্রাঘিমারেখা:** নিরক্ষরেখাকে ডিগ্রি, মিনিট ও সেকেন্ডে ভাগ করে প্রতিটি ভাগের ওপর দিয়ে উত্তর মেরু থেকে দক্ষিণ মেরু পর্যন্ত যে রেখা কল্পনা করা হয়।
+2. **আকৃতি:** প্রতিটি দ্রাঘিমারেখা অর্ধবৃত্ত। সবগুলোর দৈর্ঘ্য সমান। এরা সমান্তরাল নয়: নিরক্ষরেখায় সবচেয়ে দূরে দূরে, মেরুতে গিয়ে মিলেছে।
+3. **মূল মধ্যরেখা:** যুক্তরাজ্যের লন্ডন শহরের উপকণ্ঠে গ্রিনিচ মানমন্দিরের ওপর দিয়ে যাওয়া মধ্যরেখা। এর মান ০°।
+4. **পূর্ব ও পশ্চিম:** মূল মধ্যরেখা থেকে পূর্বে বা পশ্চিমে কোনো স্থানের কৌণিক দূরত্ব তার দ্রাঘিমা। গ্রিনিচের ৪৫° পূর্বের মধ্যরেখার সব স্থানের দ্রাঘিমা ৪৫° পূর্ব।
+5. **সর্বোচ্চ মান:** পৃথিবীর চারদিকের ৩৬০° কে ১৮০° পূর্ব ও ১৮০° পশ্চিমে ভাগ করা হয়েছে। ১৮০° পূর্ব ও ১৮০° পশ্চিম একই মধ্যরেখা।
+6. **ছোট একক:** অক্ষাংশের মতো দ্রাঘিমাকেও মিনিট ও সেকেন্ডে ভাগ করা হয়। এক মিনিট এক ডিগ্রির ষাট ভাগের এক ভাগ।
+7. **শূন্য, শূন্য:** নিরক্ষরেখা ও মূল মধ্যরেখা যেখানে ছেদ করেছে সেখানে অক্ষাংশ ০° ও দ্রাঘিমা ০°; স্থানটি গিনি উপসাগরে।
+8. **দ্রাঘিমা ও সময়:** দ্রাঘিমা থেকে কোনো স্থানের স্থানীয় সময় জানা যায়; আবার স্থানীয় সময় ও গ্রিনিচের সময় থেকে দ্রাঘিমা নির্ণয় করা যায়।
+
+| | অক্ষরেখা | দ্রাঘিমারেখা |
+| দিক | পূর্ব-পশ্চিম | উত্তর-দক্ষিণ |
+| আকৃতি | পূর্ণবৃত্ত, সমান্তরাল | অর্ধবৃত্ত, মেরুতে মিলিত |
+| দৈর্ঘ্য | মেরুর দিকে ছোট হয় | সব সমান |
+| গণনা শুরু | নিরক্ষরেখা থেকে (০° থেকে ৯০°) | মূল মধ্যরেখা থেকে (০° থেকে ১৮০°) |
+| জানায় | কত উত্তরে বা দক্ষিণে | কত পূর্বে বা পশ্চিমে, এবং সময় |
+## definition
+**দ্রাঘিমারেখা (মধ্যরেখা):** উত্তর মেরু থেকে দক্ষিণ মেরু পর্যন্ত কল্পিত রেখা।
+
+**মূল মধ্যরেখা:** লন্ডনের কাছে গ্রিনিচ মানমন্দিরের ওপর দিয়ে যাওয়া মধ্যরেখা; এর মান ০° ধরা হয়।
+
+**দ্রাঘিমা:** মূল মধ্যরেখা থেকে পূর্বে বা পশ্চিমে কোনো স্থানের কৌণিক দূরত্ব।
+## matters
+- দ্রাঘিমা ঠিকানার বাকি অর্ধেক; অক্ষাংশের সাথে মিলে এটি একটি নির্দিষ্ট বিন্দু চিহ্নিত করে।
+- সময়ের চাবিকাঠি এটিই: সারা পৃথিবীর ঘড়ি দ্রাঘিমা ধরে মেলানো হয়।
+- জাহাজ, উড়োজাহাজ ও কৃত্রিম উপগ্রহ এই দুটি সংখ্যা দিয়েই পথ খুঁজে নেয়।
+## terms
+গ্রিনিচ (Greenwich) | লন্ডনের উপকণ্ঠের একটি স্থান; এর মানমন্দিরের ওপর দিয়ে মূল মধ্যরেখা গেছে
+ডিগ্রি, মিনিট, সেকেন্ড | কোণের একক: ১° = ৬০′, ১′ = ৬০″
+গিনি উপসাগর (Gulf of Guinea) | পশ্চিম আফ্রিকার পাশের সাগর; নিরক্ষরেখা ও মূল মধ্যরেখা এখানে ছেদ করেছে
+## facts
+মূল মধ্যরেখা | ০°, গ্রিনিচের ওপর দিয়ে
+সর্বোচ্চ দ্রাঘিমা | ১৮০° (পূর্ব ও পশ্চিম একই রেখা)
+দ্রাঘিমারেখার আকৃতি | অর্ধবৃত্ত; সব সমান দৈর্ঘ্যের
+অক্ষরেখার আকৃতি | পূর্ণবৃত্ত; মেরুর দিকে ছোট
+বাংলাদেশের মাঝ দিয়ে যাওয়া দ্রাঘিমারেখা | প্রায় ৯০° পূর্ব
+## mistakes
+x অক্ষরেখার মতো দ্রাঘিমারেখাগুলোও পরস্পর সমান্তরাল।
+v দ্রাঘিমারেখা সমান্তরাল নয়। এরা দুই মেরুতে গিয়ে মিলেছে।
+x ১৮০° পূর্ব ও ১৮০° পশ্চিম পৃথিবীর দুই পাশে দুটি আলাদা রেখা।
+v এ দুটি একই রেখা, গ্রিনিচের ঠিক বিপরীতে।
+## remember
+- দ্রাঘিমারেখা মেরু থেকে মেরু পর্যন্ত উত্তর-দক্ষিণে; সবই সমান অর্ধবৃত্ত।
+- মূল মধ্যরেখা = ০°, গ্রিনিচের ওপর দিয়ে।
+- দ্রাঘিমা = গ্রিনিচ থেকে পূর্ব বা পশ্চিমে কৌণিক দূরত্ব; সর্বোচ্চ ১৮০°।
+- ১৮০° পূর্ব ও ১৮০° পশ্চিম একই রেখা।
+- অক্ষাংশ + দ্রাঘিমা মিলে স্থান নির্দিষ্ট হয়; দ্রাঘিমা থেকে সময়ও জানা যায়।
+## think
+গ্রিনিচের বদলে ঢাকার ওপর দিয়ে যাওয়া মধ্যরেখাকে যদি ০° ধরা হতো, তাহলে মানচিত্রে কী বদলাত আর কী একই থাকত?
+## quiz
+? মূল মধ্যরেখা গেছে
+- ঢাকার ওপর দিয়ে
+- নিউইয়র্কের ওপর দিয়ে
+* গ্রিনিচের ওপর দিয়ে
+- শুধু উত্তর মেরুর ওপর দিয়ে
+= আন্তর্জাতিক স্বীকৃতিতে লন্ডনের কাছে গ্রিনিচ মানমন্দিরের ওপরের মধ্যরেখার মান ০°।
+? দ্রাঘিমারেখা সম্পর্কে কোনটি ঠিক?
+* এরা সমান দৈর্ঘ্যের অর্ধবৃত্ত
+- এরা পূর্ণবৃত্ত
+- এরা পরস্পর সমান্তরাল
+- এরা পূর্ব-পশ্চিমে বিস্তৃত
+= প্রতিটি দ্রাঘিমারেখা মেরু থেকে মেরু পর্যন্ত একটি অর্ধবৃত্ত, আর সবার দৈর্ঘ্য সমান।
+? নিরক্ষরেখা ও মূল মধ্যরেখা কোথায় ছেদ করেছে?
+- বঙ্গোপসাগরে
+- চিলির কাছে প্রশান্ত মহাসাগরে
+- উত্তর মেরুতে
+* গিনি উপসাগরে
+= ০° অক্ষাংশ, ০° দ্রাঘিমার বিন্দুটি পশ্চিম আফ্রিকার পাশে গিনি উপসাগরে।
+
+@@ 3.2.3
+@visual g3time
+@related 3.2.2 3.2.5 3.3.1
+== en
+## what
+The Earth turns from west to east, so places to the east meet the Sun earlier. For every **1° of longitude the time differs by 4 minutes**. The time fixed by the Sun's position over a place is its **local time**; the single time a whole country follows is its **standard time**.
+## visual
+It is noon at Dhaka. Pick another city or slide its longitude, and follow the three steps: difference of longitude, difference of time, then add (east) or subtract (west).
+## simple
+When the Sun is at its highest point over your meridian, it is midday for you: 12 o'clock local time. Places east of you have already had their midday; places west of you are still waiting for it.
+
+How fast does midday travel? The Earth turns through the full 360° in 24 hours, that is 1,440 minutes. So it turns 1° in 1,440 ÷ 360 = **4 minutes**, and 15° in one hour.
+
+If every town kept its own local time, clocks would differ from town to town inside one country and nobody could run a railway or a school timetable. So each country picks one meridian near its middle and uses that meridian's local time everywhere. Bangladesh uses the 90° East meridian, which makes our time 6 hours ahead of Greenwich.
+## points
+1. **Local time:** when the Sun is overhead (at its highest) at a place it is 12 noon there; the other hours are counted from that. It can also be found with a sextant.
+2. **The rule:** 1° of longitude = 4 minutes; 1′ of longitude = 4 seconds; 15° = 1 hour.
+3. **East is ahead, west is behind:** a place 5° east of you is 5 × 4 = 20 minutes ahead; a place 5° west is 20 minutes behind.
+4. **Standard time:** the time fixed by the meridian through about the middle of a country and used all over that country.
+5. **Big countries:** a very large country has more than one standard time; the textbook notes four in the United States and five in Canada.
+6. **Greenwich time:** the local time of Greenwich (0°) is accepted as the standard time for the whole world. A chronometer clock keeps Greenwich time exactly.
+7. **Bangladesh:** the 90° East meridian passes almost through the middle of the country, so its local time is our standard time: Greenwich time + 6 hours.
+8. **Time gives longitude:** if a place is 2 hours ahead of Greenwich, its longitude is 2 × 15 = 30° East. If its time is behind Greenwich, it lies to the west.
+## definition
+**Local time:** the time of a place worked out from the position of the Sun, taking the moment the Sun is highest over its meridian as 12 noon.
+
+**Standard time:** the time decided by the meridian passing through the central part of a country and followed throughout that country.
+## formula
+$$ Time difference (minutes) = difference of longitude (°) × 4
+$$ 15° of longitude = 1 hour
+! East of the place: add the time. West of the place: subtract it.
+! To find longitude from time: difference of longitude (°) = time difference (minutes) ÷ 4
+## matters
+- One standard time lets a whole country run its trains, schools, offices and broadcasts together.
+- Phone calls, flights and live matches between countries depend on knowing the time difference.
+- It is the most common calculation in this chapter's exam questions.
+## terms
+Midday (মধ্যাহ্ন) | The moment the Sun is highest in the sky at a place; 12 noon local time
+Chronometer (ক্রনোমিটার) | A very accurate clock that keeps Greenwich time
+Sextant (সেক্সট্যান্ট) | An instrument for measuring the height of the Sun, used to find local time
+Greenwich Mean Time | The local time of Greenwich (0°), used as the world's standard
+## facts
+1° of longitude | 4 minutes of time
+1′ of longitude | 4 seconds of time
+15° of longitude | 1 hour
+Standard meridian of Bangladesh | 90° East
+Bangladesh standard time | Greenwich time + 6 hours
+East of a place | time is ahead; west of it, behind
+## example
+Q: The difference of time between Dhaka and Seoul is 2 hours 32 minutes. Dhaka is at 90° East and Seoul lies to the east of Dhaka. What is the longitude of Seoul?
+Given: Time difference = 2 hours 32 minutes = 152 minutes; Dhaka = 90° E; Seoul is east of Dhaka
+Formula: difference of longitude = time difference ÷ 4
+Calculation: 152 ÷ 4 = 38°
+> 4 minutes of time means 1° of longitude, so 152 minutes means 38°.
+Answer: Seoul is east of Dhaka, so its longitude is greater: 90° + 38° = 128° East
+## example
+Q: Dhaka is at 90° East and Chennai at 80°15′ East. When it is midday at Dhaka, what is the local time at Chennai?
+Given: Dhaka 90° E, Chennai 80°15′ E; Dhaka time = 12 noon
+Formula: time difference = difference of longitude × 4 minutes (and 4 seconds for each 1′)
+Calculation: Difference of longitude = 90° − 80°15′ = 9°45′
+For 9°: 9 × 4 = 36 minutes
+For 45′: 45 × 4 = 180 seconds = 3 minutes
+Total = 36 + 3 = 39 minutes
+> Chennai is west of Dhaka, so its time is behind Dhaka's: subtract.
+Answer: 12:00 − 39 minutes = 11:21 in the morning
+## mistakes
+x A place to the west has a later time on the clock because the Sun reaches it later.
+v The Sun reaches it later, so its clock is behind: the time there is earlier. West means subtract.
+x Dhaka's clocks show Dhaka's own local time.
+v All of Bangladesh uses the standard time of the 90° East meridian.
+## remember
+- The Earth turns 360° in 24 hours: 1° in 4 minutes, 15° in 1 hour.
+- East is ahead (add); west is behind (subtract).
+- Local time: from the Sun over the place. Standard time: one time for the whole country.
+- Greenwich time is the world's standard; Bangladesh = Greenwich + 6 hours (90° E).
+- Time difference ÷ 4 gives the difference of longitude.
+## think
+A cricket match starts in London at 11 a.m. Greenwich time. At what time by the clock should you switch on your television in Bangladesh, and why?
+## quiz
+? For every 1° of longitude, local time differs by
+- 1 minute
+* 4 minutes
+- 15 minutes
+- 1 hour
+= The Earth turns 360° in 1,440 minutes, so 1° takes 4 minutes.
+? When it is 12 noon at a place, what is the local time at a place 10° to its east?
+- 11:20 a.m.
+- 11:50 a.m.
+- 12:10 p.m.
+* 12:40 p.m.
+= 10 × 4 = 40 minutes; the place is to the east, so it is ahead: 12:40 p.m.
+? The standard time of Bangladesh is fixed by the meridian of
+- 0°
+- 80° East
+* 90° East
+- 180°
+= The 90° East meridian passes almost through the middle of Bangladesh; our time is 6 hours ahead of Greenwich.
+== bn
+## what
+পৃথিবী পশ্চিম থেকে পূর্বে ঘোরে, তাই পূর্বের স্থানগুলো আগে সূর্যের সামনে আসে। প্রতি **১° দ্রাঘিমার জন্য সময়ের পার্থক্য ৪ মিনিট**। কোনো স্থানে সূর্যের অবস্থান দেখে যে সময় ঠিক করা হয় তা **স্থানীয় সময়**; আর পুরো দেশ যে একটি সময় মেনে চলে তা **প্রমাণ সময়**।
+## visual
+ঢাকায় এখন দুপুর ১২টা। অন্য একটি শহর বেছে নাও বা তার দ্রাঘিমা সরাও, আর তিনটি ধাপ অনুসরণ করো: দ্রাঘিমার পার্থক্য, সময়ের পার্থক্য, তারপর যোগ (পূর্বে) বা বিয়োগ (পশ্চিমে)।
+## simple
+সূর্য যখন তোমার মধ্যরেখার ঠিক ওপরে সবচেয়ে উঁচুতে, তখন তোমার জন্য মধ্যাহ্ন: স্থানীয় সময় দুপুর ১২টা। তোমার পূর্বের স্থানগুলোতে মধ্যাহ্ন আগেই হয়ে গেছে; পশ্চিমের স্থানগুলো এখনও অপেক্ষায়।
+
+মধ্যাহ্ন কত দ্রুত এগোয়? পৃথিবী পুরো ৩৬০° ঘোরে ২৪ ঘণ্টায়, অর্থাৎ ১,৪৪০ মিনিটে। তাহলে ১° ঘোরে ১,৪৪০ ÷ ৩৬০ = **৪ মিনিটে**, আর ১৫° ঘোরে এক ঘণ্টায়।
+
+প্রতিটি শহর নিজের স্থানীয় সময় মেনে চললে একই দেশে শহরে শহরে ঘড়ির সময় আলাদা হতো; রেলের বা স্কুলের সময়সূচি চালানোই যেত না। তাই প্রতিটি দেশ তার মাঝামাঝি একটি দ্রাঘিমারেখা বেছে নিয়ে তার স্থানীয় সময় সারা দেশে ব্যবহার করে। বাংলাদেশ ব্যবহার করে ৯০° পূর্ব দ্রাঘিমারেখা; তাই আমাদের সময় গ্রিনিচের চেয়ে ৬ ঘণ্টা এগিয়ে।
+## points
+1. **স্থানীয় সময়:** কোনো স্থানে সূর্য ঠিক মাথার ওপর (সবচেয়ে উঁচুতে) এলে সেখানে দুপুর ১২টা; এ থেকে দিনের অন্য সময় স্থির করা হয়। সেক্সট্যান্ট যন্ত্র দিয়েও এটি নির্ণয় করা যায়।
+2. **নিয়ম:** ১° দ্রাঘিমা = ৪ মিনিট; ১′ দ্রাঘিমা = ৪ সেকেন্ড; ১৫° = ১ ঘণ্টা।
+3. **পূর্বে এগিয়ে, পশ্চিমে পিছিয়ে:** তোমার ৫° পূর্বের স্থানের সময় ৫ × ৪ = ২০ মিনিট এগিয়ে; ৫° পশ্চিমের স্থানের সময় ২০ মিনিট পিছিয়ে।
+4. **প্রমাণ সময়:** দেশের মধ্যভাগের কোনো স্থানের দ্রাঘিমারেখা অনুযায়ী যে সময় ঠিক করে সারা দেশে ব্যবহার করা হয়।
+5. **বড় দেশ:** খুব বড় দেশে একাধিক প্রমাণ সময় থাকে; বইয়ে আছে, যুক্তরাষ্ট্রে চারটি এবং কানাডায় পাঁচটি।
+6. **গ্রিনিচের সময়:** গ্রিনিচের (০°) স্থানীয় সময়কে সমগ্র পৃথিবীর প্রমাণ সময় হিসেবে গ্রহণ করা হয়েছে। ক্রনোমিটার ঘড়ি থেকে গ্রিনিচের সঠিক সময় জানা যায়।
+7. **বাংলাদেশ:** ৯০° পূর্ব দ্রাঘিমারেখা দেশের প্রায় মধ্যভাগ দিয়ে গেছে, তাই এর স্থানীয় সময়ই আমাদের প্রমাণ সময়: গ্রিনিচের সময় + ৬ ঘণ্টা।
+8. **সময় থেকে দ্রাঘিমা:** কোনো স্থানের সময় গ্রিনিচের চেয়ে ২ ঘণ্টা বেশি হলে তার দ্রাঘিমা ২ × ১৫ = ৩০° পূর্ব। সময় গ্রিনিচের চেয়ে কম হলে স্থানটি পশ্চিমে।
+## definition
+**স্থানীয় সময়:** কোনো স্থানের মধ্যরেখার ওপর সূর্য যখন সর্বোচ্চে থাকে সেই মুহূর্তকে দুপুর ১২টা ধরে সূর্যের অবস্থান থেকে যে সময় নির্ণয় করা হয়।
+
+**প্রমাণ সময়:** কোনো দেশের মধ্যভাগের দ্রাঘিমারেখা অনুযায়ী নির্ধারিত সময়, যা সারা দেশে মেনে চলা হয়।
+## formula
+$$ সময়ের পার্থক্য (মিনিট) = দ্রাঘিমার পার্থক্য (°) × ৪
+$$ ১৫° দ্রাঘিমা = ১ ঘণ্টা
+! স্থানটি পূর্বে হলে সময় যোগ করো; পশ্চিমে হলে বিয়োগ করো।
+! সময় থেকে দ্রাঘিমা: দ্রাঘিমার পার্থক্য (°) = সময়ের পার্থক্য (মিনিট) ÷ ৪
+## matters
+- একটি প্রমাণ সময় থাকলে পুরো দেশের ট্রেন, স্কুল, অফিস ও সম্প্রচার একসাথে চলে।
+- এক দেশ থেকে অন্য দেশে ফোন, বিমান চলাচল ও সরাসরি খেলা দেখা সময়ের পার্থক্য জানার ওপর নির্ভর করে।
+- এ অধ্যায়ের পরীক্ষার প্রশ্নে এই হিসাবটিই সবচেয়ে বেশি আসে।
+## terms
+মধ্যাহ্ন | কোনো স্থানে সূর্য যখন আকাশের সবচেয়ে উঁচুতে; স্থানীয় সময় দুপুর ১২টা
+ক্রনোমিটার (Chronometer) | খুব নির্ভুল ঘড়ি, যা গ্রিনিচের সময় রাখে
+সেক্সট্যান্ট (Sextant) | সূর্যের উচ্চতা মাপার যন্ত্র; স্থানীয় সময় নির্ণয়ে লাগে
+গ্রিনিচের সময় | গ্রিনিচের (০°) স্থানীয় সময়; সারা বিশ্বের প্রমাণ সময়
+## facts
+১° দ্রাঘিমা | ৪ মিনিট সময়
+১′ দ্রাঘিমা | ৪ সেকেন্ড সময়
+১৫° দ্রাঘিমা | ১ ঘণ্টা
+বাংলাদেশের প্রমাণ দ্রাঘিমারেখা | ৯০° পূর্ব
+বাংলাদেশের প্রমাণ সময় | গ্রিনিচের সময় + ৬ ঘণ্টা
+কোনো স্থানের পূর্বে | সময় এগিয়ে; পশ্চিমে পিছিয়ে
+## example
+প্রশ্ন: ঢাকা ও সিউলের সময়ের ব্যবধান ২ ঘণ্টা ৩২ মিনিট। ঢাকার দ্রাঘিমা ৯০° পূর্ব এবং সিউল ঢাকার পূর্বে অবস্থিত। সিউলের দ্রাঘিমা কত?
+দেওয়া আছে: সময়ের ব্যবধান = ২ ঘণ্টা ৩২ মিনিট = ১৫২ মিনিট; ঢাকা = ৯০° পূর্ব; সিউল ঢাকার পূর্বে
+সূত্র: দ্রাঘিমার পার্থক্য = সময়ের পার্থক্য ÷ ৪
+হিসাব: ১৫২ ÷ ৪ = ৩৮°
+> ৪ মিনিট সময়ের ব্যবধানে দ্রাঘিমার ব্যবধান ১°, তাই ১৫২ মিনিটে ৩৮°।
+উত্তর: সিউল ঢাকার পূর্বে, তাই দ্রাঘিমা বেশি: ৯০° + ৩৮° = ১২৮° পূর্ব
+## example
+প্রশ্ন: ঢাকার দ্রাঘিমা ৯০° পূর্ব এবং চেন্নাইয়ের ৮০°১৫′ পূর্ব। ঢাকায় যখন মধ্যাহ্ন, চেন্নাইয়ের স্থানীয় সময় তখন কত?
+দেওয়া আছে: ঢাকা ৯০° পূর্ব, চেন্নাই ৮০°১৫′ পূর্ব; ঢাকার সময় = দুপুর ১২টা
+সূত্র: সময়ের পার্থক্য = দ্রাঘিমার পার্থক্য × ৪ মিনিট (প্রতি ১′-এর জন্য ৪ সেকেন্ড)
+হিসাব: দ্রাঘিমার পার্থক্য = ৯০° − ৮০°১৫′ = ৯°৪৫′
+৯°-এর জন্য: ৯ × ৪ = ৩৬ মিনিট
+৪৫′-এর জন্য: ৪৫ × ৪ = ১৮০ সেকেন্ড = ৩ মিনিট
+মোট = ৩৬ + ৩ = ৩৯ মিনিট
+> চেন্নাই ঢাকার পশ্চিমে, তাই সময় ঢাকার চেয়ে পিছিয়ে: বিয়োগ করতে হবে।
+উত্তর: ১২টা − ৩৯ মিনিট = সকাল ১১টা ২১ মিনিট
+## mistakes
+x পশ্চিমের স্থানে সূর্য পরে পৌঁছায়, তাই সেখানকার ঘড়িতে সময় বেশি।
+v সূর্য পরে পৌঁছায় বলে সেখানকার ঘড়ি পিছিয়ে: সময় কম। পশ্চিম মানে বিয়োগ।
+x ঢাকার ঘড়িতে ঢাকার নিজের স্থানীয় সময় দেখায়।
+v সারা বাংলাদেশ ৯০° পূর্ব দ্রাঘিমারেখার প্রমাণ সময় মেনে চলে।
+## remember
+- পৃথিবী ২৪ ঘণ্টায় ৩৬০° ঘোরে: ১° ঘুরতে ৪ মিনিট, ১৫° ঘুরতে ১ ঘণ্টা।
+- পূর্বে সময় এগিয়ে (যোগ); পশ্চিমে পিছিয়ে (বিয়োগ)।
+- স্থানীয় সময়: স্থানটির ওপর সূর্যের অবস্থান থেকে। প্রমাণ সময়: পুরো দেশের একটিই সময়।
+- গ্রিনিচের সময় বিশ্বের প্রমাণ সময়; বাংলাদেশ = গ্রিনিচ + ৬ ঘণ্টা (৯০° পূর্ব)।
+- সময়ের পার্থক্য ÷ ৪ = দ্রাঘিমার পার্থক্য।
+## think
+লন্ডনে একটি ক্রিকেট ম্যাচ গ্রিনিচের সময় সকাল ১১টায় শুরু হবে। বাংলাদেশে ঘড়িতে কয়টায় টেলিভিশন চালু করবে, এবং কেন?
+## quiz
+? প্রতি ১° দ্রাঘিমার জন্য স্থানীয় সময়ের পার্থক্য হয়
+- ১ মিনিট
+* ৪ মিনিট
+- ১৫ মিনিট
+- ১ ঘণ্টা
+= পৃথিবী ১,৪৪০ মিনিটে ৩৬০° ঘোরে, তাই ১° ঘুরতে ৪ মিনিট লাগে।
+? কোনো স্থানে দুপুর ১২টা হলে তার ১০° পূর্বের স্থানে স্থানীয় সময় কত?
+- সকাল ১১টা ২০ মিনিট
+- সকাল ১১টা ৫০ মিনিট
+- দুপুর ১২টা ১০ মিনিট
+* দুপুর ১২টা ৪০ মিনিট
+= ১০ × ৪ = ৪০ মিনিট; স্থানটি পূর্বে, তাই সময় এগিয়ে: ১২টা ৪০ মিনিট।
+? বাংলাদেশের প্রমাণ সময় নির্ধারিত হয় কোন দ্রাঘিমারেখা দিয়ে?
+- ০°
+- ৮০° পূর্ব
+* ৯০° পূর্ব
+- ১৮০°
+= ৯০° পূর্ব দ্রাঘিমারেখা বাংলাদেশের প্রায় মধ্যভাগ দিয়ে গেছে; আমাদের সময় গ্রিনিচের চেয়ে ৬ ঘণ্টা এগিয়ে।
+
+@@ 3.2.4
+@visual g3antipode
+@related 3.2.1 3.2.2 3.2.3
+== en
+## what
+The point exactly opposite a place, on the other side of the Earth, is its **antipode**. A straight line from the place through the centre of the Earth comes out at its antipode.
+## visual
+Tap anywhere on the map, or move the sliders, to choose a place. The red dot is its antipode. Check the two rules in the box each time.
+## simple
+Push a long needle straight down through an orange so that it passes through the very centre. The place where it goes in and the place where it comes out are antipodes of each other.
+
+On the Earth this gives two easy rules. The antipode is as far south of the equator as the place is north of it, so the latitude keeps its number and only changes hemisphere. And the antipode is half-way round the world, 180° away, so its longitude is 180° minus the longitude of the place, on the opposite side (east becomes west).
+## points
+1. **Finding it:** imagine a line from the place through the centre of the Earth to the opposite side. Where it meets the surface is the antipode.
+2. **Latitude:** the same number of degrees, in the other hemisphere. A place at 70° North has its antipode at 70° South.
+3. **Longitude:** the longitudes of a place and its antipode add up to 180°. A place at 40° East has its antipode at 180° − 40° = 140° West.
+4. **Time:** the two places are 180° of longitude apart, so their times differ by 12 hours. Midday at one is midnight at the other.
+5. **Dhaka:** the antipode of Dhaka lies in the Pacific Ocean near Chile, in South America.
+## definition
+**Antipode:** the point on the Earth's surface that is exactly opposite a given point, reached by a straight line through the centre of the Earth.
+## matters
+- It shows that latitude and longitude describe the whole globe, not just one side of it.
+- It is good practice in using north–south and east–west together.
+- It explains why it is night on the far side of the Earth when it is day here.
+## terms
+Antipode (প্রতিপাদ স্থান) | The point exactly opposite a place on the Earth
+Hemisphere (গোলার্ধ) | Half of the Earth: northern or southern, eastern or western
+Diameter (ব্যাস) | A straight line through the centre from one side to the other
+## facts
+Latitude of the antipode | same degrees, opposite hemisphere
+Longitude of the antipode | 180° minus the longitude, opposite side
+Time difference | 12 hours
+Antipode of Dhaka | in the Pacific Ocean, near Chile
+## formula
+$$ Antipode latitude = same degrees, opposite hemisphere (N ↔ S)
+$$ Antipode longitude = 180° − longitude, opposite side (E ↔ W)
+! Time difference between a place and its antipode = 12 hours
+## example
+Q: A town lies at 70° North, 40° East. Where is its antipode, and what is the time there when it is 9 a.m. in the town?
+Given: Latitude 70° N, longitude 40° E, time 9 a.m.
+Formula: antipode latitude = same degrees, opposite hemisphere; antipode longitude = 180° − longitude, opposite side
+Calculation: Latitude: 70° N → 70° S
+Longitude: 180° − 40° = 140°, east becomes west → 140° W
+Time: 9 a.m. + 12 hours = 9 p.m.
+> 180° of longitude × 4 minutes = 720 minutes = 12 hours.
+Answer: The antipode is at 70° South, 140° West, and it is 9 at night there (12 hours apart).
+## mistakes
+x The antipode has the same latitude and the same hemisphere.
+v The number of degrees is the same but the hemisphere is the opposite one.
+x To get the antipode's longitude, add 180° to the longitude.
+v Subtract the longitude from 180° and switch east and west: 40° E → 140° W.
+## remember
+- Antipode = the exactly opposite point, through the Earth's centre.
+- Latitude: same degrees, other hemisphere.
+- Longitude: 180° − longitude, other side.
+- Time difference: 12 hours.
+- Dhaka's antipode: the Pacific Ocean near Chile.
+## think
+Most places on land have their antipode in the sea. Looking at a world map, why is that not surprising?
+## quiz
+? The antipode of a place at 30° North, 100° East is at
+- 30° North, 80° West
+* 30° South, 80° West
+- 30° South, 100° West
+- 60° South, 80° East
+= Latitude flips to 30° S; longitude is 180° − 100° = 80° on the west side.
+? The difference of time between a place and its antipode is
+- 4 minutes
+- 6 hours
+* 12 hours
+- 24 hours
+= They are 180° of longitude apart: 180 × 4 = 720 minutes = 12 hours.
+? The antipode of Dhaka lies
+* in the Pacific Ocean near Chile
+- in the Gulf of Guinea
+- at Greenwich
+- in the Bay of Bengal
+= Going straight through the Earth from Dhaka brings you out in the Pacific Ocean off Chile, South America.
+== bn
+## what
+পৃথিবীর অন্য পাশে কোনো স্থানের ঠিক বিপরীত বিন্দুটি তার **প্রতিপাদ স্থান**। স্থানটি থেকে পৃথিবীর কেন্দ্র দিয়ে একটি সরলরেখা টানলে সেটি যেখানে গিয়ে বের হয়, সেটিই প্রতিপাদ স্থান।
+## visual
+মানচিত্রের যেকোনো জায়গায় চাপ দাও, অথবা স্লাইডার সরিয়ে একটি স্থান বেছে নাও। লাল বিন্দুটি তার প্রতিপাদ স্থান। প্রতিবার বাক্সের দুটি নিয়ম মিলিয়ে দেখো।
+## simple
+একটি কমলার ভেতর দিয়ে একটি লম্বা সুঁই এমনভাবে ঢোকাও যেন ঠিক কেন্দ্র ভেদ করে যায়। সুঁই যেখানে ঢুকল আর যেখানে বের হলো, এই দুই বিন্দু একে অপরের প্রতিপাদ স্থান।
+
+পৃথিবীর ক্ষেত্রে এ থেকে দুটি সহজ নিয়ম পাওয়া যায়। স্থানটি নিরক্ষরেখার যত উত্তরে, প্রতিপাদ স্থান তত দক্ষিণে; তাই অক্ষাংশের সংখ্যা একই থাকে, শুধু গোলার্ধ বদলায়। আর প্রতিপাদ স্থান পৃথিবীর অর্ধেক ঘুরে, অর্থাৎ ১৮০° দূরে; তাই এর দ্রাঘিমা হলো ১৮০° থেকে স্থানটির দ্রাঘিমা বাদ দিলে যা থাকে, তবে উল্টো দিকে (পূর্ব হয়ে যায় পশ্চিম)।
+## points
+1. **নির্ণয়:** স্থানটি থেকে পৃথিবীর কেন্দ্রের মধ্য দিয়ে ঠিক বিপরীত দিকে একটি রেখা কল্পনা করো। রেখাটি যেখানে ভূপৃষ্ঠে পৌঁছায়, সেটিই প্রতিপাদ স্থান।
+2. **অক্ষাংশ:** ডিগ্রি একই, গোলার্ধ উল্টো। কোনো স্থানের অক্ষাংশ ৭০° উত্তর হলে প্রতিপাদ স্থানের অক্ষাংশ ৭০° দক্ষিণ।
+3. **দ্রাঘিমা:** স্থান ও তার প্রতিপাদ স্থানের দ্রাঘিমা যোগ করলে ১৮০° হয়। ৪০° পূর্ব দ্রাঘিমার স্থানের প্রতিপাদ স্থান ১৮০° − ৪০° = ১৪০° পশ্চিম।
+4. **সময়:** দুই স্থানের দ্রাঘিমার ব্যবধান ১৮০°, তাই সময়ের পার্থক্য ১২ ঘণ্টা। একটিতে মধ্যাহ্ন হলে অন্যটিতে মধ্যরাত।
+5. **ঢাকা:** ঢাকার প্রতিপাদ স্থান দক্ষিণ আমেরিকার চিলির কাছে প্রশান্ত মহাসাগরে।
+## definition
+**প্রতিপাদ স্থান:** ভূপৃষ্ঠের কোনো বিন্দুর ঠিক বিপরীত দিকের বিন্দু, যা পৃথিবীর কেন্দ্র ভেদ করে টানা সরলরেখার অপর প্রান্তে অবস্থিত।
+## matters
+- এ থেকে বোঝা যায় অক্ষাংশ ও দ্রাঘিমা শুধু এক পাশ নয়, পুরো ভূগোলককেই বর্ণনা করে।
+- উত্তর-দক্ষিণ ও পূর্ব-পশ্চিম একসাথে ব্যবহারের ভালো অনুশীলন এটি।
+- আমাদের এখানে যখন দিন, পৃথিবীর উল্টো পাশে তখন কেন রাত, তা-ও বোঝা যায়।
+## terms
+প্রতিপাদ স্থান (Antipode) | পৃথিবীর ওপর কোনো স্থানের ঠিক বিপরীত বিন্দু
+গোলার্ধ (Hemisphere) | পৃথিবীর অর্ধেক: উত্তর বা দক্ষিণ, পূর্ব বা পশ্চিম
+ব্যাস (Diameter) | কেন্দ্র ভেদ করে এক পাশ থেকে অন্য পাশে যাওয়া সরলরেখা
+## facts
+প্রতিপাদ স্থানের অক্ষাংশ | একই ডিগ্রি, বিপরীত গোলার্ধ
+প্রতিপাদ স্থানের দ্রাঘিমা | ১৮০° থেকে দ্রাঘিমা বিয়োগ, বিপরীত দিক
+সময়ের পার্থক্য | ১২ ঘণ্টা
+ঢাকার প্রতিপাদ স্থান | প্রশান্ত মহাসাগরে, চিলির কাছে
+## formula
+$$ প্রতিপাদ স্থানের অক্ষাংশ = একই ডিগ্রি, উল্টো গোলার্ধ (উ ↔ দ)
+$$ প্রতিপাদ স্থানের দ্রাঘিমা = ১৮০° − দ্রাঘিমা, উল্টো দিক (পূ ↔ প)
+! কোনো স্থান ও তার প্রতিপাদ স্থানের সময়ের পার্থক্য = ১২ ঘণ্টা
+## example
+প্রশ্ন: একটি শহরের অবস্থান ৭০° উত্তর, ৪০° পূর্ব। এর প্রতিপাদ স্থান কোথায়, এবং শহরে সকাল ৯টা হলে সেখানে সময় কত?
+দেওয়া আছে: অক্ষাংশ ৭০° উত্তর, দ্রাঘিমা ৪০° পূর্ব, সময় সকাল ৯টা
+সূত্র: প্রতিপাদ স্থানের অক্ষাংশ = একই ডিগ্রি, উল্টো গোলার্ধ; দ্রাঘিমা = ১৮০° − দ্রাঘিমা, উল্টো দিক
+হিসাব: অক্ষাংশ: ৭০° উত্তর → ৭০° দক্ষিণ
+দ্রাঘিমা: ১৮০° − ৪০° = ১৪০°, পূর্ব হবে পশ্চিম → ১৪০° পশ্চিম
+সময়: সকাল ৯টা + ১২ ঘণ্টা = রাত ৯টা
+> ১৮০° দ্রাঘিমা × ৪ মিনিট = ৭২০ মিনিট = ১২ ঘণ্টা।
+উত্তর: প্রতিপাদ স্থান ৭০° দক্ষিণ, ১৪০° পশ্চিমে; সেখানে তখন রাত ৯টা (পার্থক্য ১২ ঘণ্টা)।
+## mistakes
+x প্রতিপাদ স্থানের অক্ষাংশ ও গোলার্ধ দুটোই একই থাকে।
+v ডিগ্রির সংখ্যা একই থাকে, কিন্তু গোলার্ধ উল্টে যায়।
+x প্রতিপাদ স্থানের দ্রাঘিমা পেতে দ্রাঘিমার সাথে ১৮০° যোগ করতে হয়।
+v ১৮০° থেকে দ্রাঘিমা বিয়োগ করো এবং পূর্ব-পশ্চিম উল্টে দাও: ৪০° পূ → ১৪০° প।
+## remember
+- প্রতিপাদ স্থান = পৃথিবীর কেন্দ্র বরাবর ঠিক বিপরীত বিন্দু।
+- অক্ষাংশ: একই ডিগ্রি, উল্টো গোলার্ধ।
+- দ্রাঘিমা: ১৮০° − দ্রাঘিমা, উল্টো দিক।
+- সময়ের পার্থক্য: ১২ ঘণ্টা।
+- ঢাকার প্রতিপাদ স্থান: চিলির কাছে প্রশান্ত মহাসাগরে।
+## think
+স্থলভাগের বেশির ভাগ স্থানের প্রতিপাদ স্থান পড়ে সমুদ্রে। বিশ্ব মানচিত্র দেখে বলো তো, এতে অবাক হওয়ার কিছু নেই কেন?
+## quiz
+? ৩০° উত্তর, ১০০° পূর্বে অবস্থিত স্থানের প্রতিপাদ স্থান হলো
+- ৩০° উত্তর, ৮০° পশ্চিম
+* ৩০° দক্ষিণ, ৮০° পশ্চিম
+- ৩০° দক্ষিণ, ১০০° পশ্চিম
+- ৬০° দক্ষিণ, ৮০° পূর্ব
+= অক্ষাংশ উল্টে ৩০° দক্ষিণ; দ্রাঘিমা ১৮০° − ১০০° = ৮০°, পশ্চিম দিকে।
+? কোনো স্থান ও তার প্রতিপাদ স্থানের সময়ের পার্থক্য
+- ৪ মিনিট
+- ৬ ঘণ্টা
+* ১২ ঘণ্টা
+- ২৪ ঘণ্টা
+= দুই স্থানের দ্রাঘিমার ব্যবধান ১৮০°: ১৮০ × ৪ = ৭২০ মিনিট = ১২ ঘণ্টা।
+? ঢাকার প্রতিপাদ স্থান অবস্থিত
+* চিলির কাছে প্রশান্ত মহাসাগরে
+- গিনি উপসাগরে
+- গ্রিনিচে
+- বঙ্গোপসাগরে
+= ঢাকা থেকে পৃথিবী ভেদ করে সোজা গেলে দক্ষিণ আমেরিকার চিলির পাশে প্রশান্ত মহাসাগরে পৌঁছানো যায়।
+
+@@ 3.2.5
+@visual g3idl
+@related 3.2.2 3.2.3 3.3.1
+== en
+## what
+The **International Date Line** is an imaginary line drawn over the water of the Pacific Ocean along the 180° meridian. When you cross it, the day and the date change.
+## visual
+Step through the four pictures: first the line itself, then why one meridian would have two different days, then a ship crossing eastwards and one crossing westwards.
+## simple
+Start at Greenwich at 10 in the morning on Monday and travel east in your mind. Every 15° adds an hour, so at 180° it is 10 at night on Monday. Now go back to Greenwich and travel west instead. Every 15° takes away an hour, so at 180° it is 10 at night on Sunday.
+
+But 180° East and 180° West are the same line! One line cannot be Monday night and Sunday night at once. The difference is exactly 24 hours, a whole day. To settle this, the world agreed on one line where the date changes. It is drawn through the sea, bending round land, so that neighbours on the same island do not live on different days.
+## points
+1. **The problem:** travelling far to the east or west, the hour changes by 4 minutes for each degree. At 180° the eastward count is 12 hours ahead of Greenwich and the westward count 12 hours behind: a difference of 24 hours on one and the same meridian.
+2. **The answer:** by international agreement a line following the 180° meridian is taken as the place where the day and date change. This is the International Date Line.
+3. **Entirely over water:** it runs north–south across the Pacific Ocean, passing the north-east of Siberia, the Aleutian Islands, Fiji and the Chatham Islands.
+4. **Why it bends:** to save local people from confusion over the day of the week, it bends away from the 180° meridian: about 12° east at the Bering Strait, 7° west near the Aleutian Islands and 11° east near Fiji and the Chatham Islands.
+5. **Crossing eastwards:** a ship or aircraft going east across the line takes one day away from its date.
+6. **Crossing westwards:** a ship or aircraft going west across the line adds one day to its date.
+## definition
+**International Date Line:** the imaginary line drawn north–south over the water of the Pacific Ocean, following the 180° meridian, on crossing which the day and date are changed.
+## why
+Why put the line in the Pacific? Because the 180° meridian lies on the far side of the Earth from Greenwich and passes almost wholly through open ocean. Changing the date there disturbs the fewest people. Where it would have cut through islands or a corner of land, the line was bent to go round them.
+## matters
+- Without one agreed line, travellers going round the world would lose or gain a day.
+- Airlines, shipping, banks and news all need the same calendar date to work together.
+- It shows how the world solves a shared problem by agreement.
+## terms
+180° meridian (১৮০° দ্রাঘিমারেখা) | The meridian opposite Greenwich; 180° E and 180° W are the same line
+Bering Strait (বেরিং প্রণালি) | The narrow sea between Siberia and Alaska
+Aleutian Islands (অ্যালিউশিয়ান দ্বীপপুঞ্জ) | A chain of islands in the North Pacific
+## facts
+Follows | the 180° meridian
+Passes over | water of the Pacific Ocean
+Bends | 12° east (Bering Strait), 7° west (Aleutians), 11° east (Fiji, Chatham Islands)
+Crossing eastwards | subtract one day
+Crossing westwards | add one day
+## mistakes
+x The International Date Line is a perfectly straight line along 180°.
+v It follows 180° but bends in several places to stay over water and keep island groups on one date.
+x Crossing the line changes the time on the clock by 24 hours.
+v The clock time hardly changes. It is the day and date that jump by one.
+## remember
+- 180° reached eastwards is 12 hours ahead of Greenwich; reached westwards, 12 hours behind: a full day apart.
+- The International Date Line follows 180° over the Pacific Ocean.
+- It bends to avoid land: Bering Strait, Aleutians, Fiji and the Chatham Islands.
+- Going east across it: subtract a day. Going west: add a day.
+## think
+A ship leaves on Monday morning, sails east and crosses the date line an hour later. What day do the people on board write in the ship's diary after crossing, and why?
+## quiz
+? The International Date Line mainly follows the meridian of
+- 0°
+- 90° East
+* 180°
+- 23.5° North
+= It is drawn along the 180° meridian, on the opposite side of the Earth from Greenwich.
+? Why does the International Date Line bend in some places?
+- Because the Earth is not round there
+* So that it stays over water and does not divide island groups or land into two dates
+- To follow the equator
+- To make the journey shorter for ships
+= The bends keep people living close together on the same day of the week.
+? A ship sailing westwards crosses the International Date Line. It should
+- subtract one day
+- change nothing
+- put its clock back 12 hours
+* add one day
+= Going west across the line a day is added; going east a day is subtracted.
+== bn
+## what
+**আন্তর্জাতিক তারিখ রেখা** হলো প্রশান্ত মহাসাগরের জলভাগের ওপর দিয়ে ১৮০° দ্রাঘিমারেখা ধরে টানা একটি কাল্পনিক রেখা। এ রেখা পার হলে দিন ও তারিখ বদলে যায়।
+## visual
+চারটি ছবি ধাপে ধাপে দেখো: প্রথমে রেখাটি, তারপর একই দ্রাঘিমায় কেন দুটি আলাদা দিন হয়ে যায়, তারপর পূর্বগামী ও পশ্চিমগামী জাহাজের রেখা পার হওয়া।
+## simple
+মনে মনে সোমবার সকাল ১০টায় গ্রিনিচ থেকে পূর্ব দিকে রওনা দাও। প্রতি ১৫°-তে এক ঘণ্টা বাড়ে, তাই ১৮০°-তে পৌঁছে দেখবে সোমবার রাত ১০টা। এবার গ্রিনিচে ফিরে পশ্চিম দিকে যাও। প্রতি ১৫°-তে এক ঘণ্টা কমে, তাই ১৮০°-তে পৌঁছে দেখবে রবিবার রাত ১০টা।
+
+কিন্তু ১৮০° পূর্ব ও ১৮০° পশ্চিম তো একই রেখা! একটি রেখায় একসাথে সোমবার রাত আর রবিবার রাত হতে পারে না। পার্থক্য ঠিক ২৪ ঘণ্টা, পুরো এক দিন। এই গোলমাল মেটাতে সারা পৃথিবী একটি রেখা মেনে নিয়েছে, যেখানে তারিখ বদলায়। রেখাটি সমুদ্রের ওপর দিয়ে টানা, স্থলভাগ এড়িয়ে বেঁকে গেছে, যাতে একই দ্বীপের প্রতিবেশীরা দুই আলাদা দিনে বাস না করে।
+## points
+1. **সমস্যা:** পূর্ব বা পশ্চিমে দীর্ঘ পথ গেলে প্রতি ডিগ্রিতে সময় ৪ মিনিট করে বদলায়। ১৮০°-তে পূর্ব দিক দিয়ে গুনলে গ্রিনিচের চেয়ে ১২ ঘণ্টা বেশি, পশ্চিম দিক দিয়ে গুনলে ১২ ঘণ্টা কম: একই দ্রাঘিমায় পার্থক্য ২৪ ঘণ্টা।
+2. **সমাধান:** আন্তর্জাতিক স্বীকৃতির মাধ্যমে ১৮০° দ্রাঘিমারেখাকে অবলম্বন করে একটি রেখা ঠিক করা হয়েছে, যেখানে দিন ও তারিখ বদলায়। এটিই আন্তর্জাতিক তারিখ রেখা।
+3. **পুরোটাই জলভাগে:** রেখাটি প্রশান্ত মহাসাগরের ওপর দিয়ে উত্তর-দক্ষিণে গেছে; সাইবেরিয়ার উত্তর-পূর্ব অংশ, অ্যালিউশিয়ান, ফিজি ও চ্যাথাম দ্বীপপুঞ্জের পাশ দিয়ে।
+4. **কেন বেঁকেছে:** স্থানীয় লোকদের বারের হিসাবে অসুবিধা দূর করতে রেখাটি ১৮০° থেকে সরে গেছে: বেরিং প্রণালিতে প্রায় ১২° পূর্বে, অ্যালিউশিয়ান দ্বীপপুঞ্জের কাছে ৭° পশ্চিমে এবং ফিজি ও চ্যাথাম দ্বীপপুঞ্জের কাছে ১১° পূর্বে।
+5. **পূর্বগামী:** পূর্ব দিকে যাওয়া জাহাজ বা বিমান রেখাটি পার হলে তারিখ থেকে এক দিন বিয়োগ করে।
+6. **পশ্চিমগামী:** পশ্চিম দিকে যাওয়া জাহাজ বা বিমান রেখাটি পার হলে তারিখের সাথে এক দিন যোগ করে।
+## definition
+**আন্তর্জাতিক তারিখ রেখা:** ১৮০° দ্রাঘিমারেখাকে অবলম্বন করে প্রশান্ত মহাসাগরের জলভাগের ওপর দিয়ে উত্তর-দক্ষিণে কল্পিত রেখা, যা অতিক্রম করলে দিন ও তারিখের পরিবর্তন করা হয়।
+## why
+রেখাটি প্রশান্ত মহাসাগরে কেন? কারণ ১৮০° দ্রাঘিমারেখা গ্রিনিচের ঠিক উল্টো পাশে এবং প্রায় পুরোটাই খোলা সমুদ্রের ওপর দিয়ে গেছে। সেখানে তারিখ বদলালে সবচেয়ে কম মানুষের অসুবিধা হয়। যেখানে রেখাটি দ্বীপপুঞ্জ বা স্থলভাগের কোনা কেটে যেত, সেখানে একে বাঁকিয়ে পাশ দিয়ে নেওয়া হয়েছে।
+## matters
+- সবার মেনে নেওয়া একটি রেখা না থাকলে পৃথিবী ঘুরে আসা যাত্রীদের একটি দিন কমে বা বেড়ে যেত।
+- বিমান, জাহাজ, ব্যাংক ও সংবাদমাধ্যম একসাথে কাজ করতে একই তারিখ দরকার।
+- সবার একটি সমস্যা কীভাবে সমঝোতার মাধ্যমে মেটানো যায়, এটি তার উদাহরণ।
+## terms
+১৮০° দ্রাঘিমারেখা | গ্রিনিচের বিপরীত মধ্যরেখা; ১৮০° পূর্ব ও ১৮০° পশ্চিম একই রেখা
+বেরিং প্রণালি (Bering Strait) | সাইবেরিয়া ও আলাস্কার মাঝের সরু সাগর
+অ্যালিউশিয়ান দ্বীপপুঞ্জ | উত্তর প্রশান্ত মহাসাগরের একটি দ্বীপমালা
+## facts
+অবলম্বন | ১৮০° দ্রাঘিমারেখা
+যার ওপর দিয়ে গেছে | প্রশান্ত মহাসাগরের জলভাগ
+বাঁক | ১২° পূর্বে (বেরিং প্রণালি), ৭° পশ্চিমে (অ্যালিউশিয়ান), ১১° পূর্বে (ফিজি, চ্যাথাম)
+পূর্ব দিকে পার হলে | এক দিন বিয়োগ
+পশ্চিম দিকে পার হলে | এক দিন যোগ
+## mistakes
+x আন্তর্জাতিক তারিখ রেখা ১৮০° বরাবর একদম সোজা একটি রেখা।
+v এটি ১৮০° ধরে গেছে ঠিকই, তবে জলভাগে থাকতে এবং দ্বীপপুঞ্জকে এক তারিখে রাখতে কয়েক জায়গায় বেঁকেছে।
+x রেখাটি পার হলে ঘড়ির সময় ২৪ ঘণ্টা বদলে যায়।
+v ঘড়ির সময় প্রায় বদলায়ই না। বদলায় বার ও তারিখ, এক দিন করে।
+## remember
+- ১৮০°-তে পূর্ব দিক দিয়ে গেলে গ্রিনিচের চেয়ে ১২ ঘণ্টা বেশি, পশ্চিম দিক দিয়ে গেলে ১২ ঘণ্টা কম: পুরো এক দিনের তফাত।
+- আন্তর্জাতিক তারিখ রেখা প্রশান্ত মহাসাগরের ওপর ১৮০° ধরে গেছে।
+- স্থলভাগ এড়াতে বেঁকেছে: বেরিং প্রণালি, অ্যালিউশিয়ান, ফিজি ও চ্যাথাম দ্বীপপুঞ্জের কাছে।
+- পূর্ব দিকে পার হলে এক দিন বিয়োগ; পশ্চিম দিকে পার হলে এক দিন যোগ।
+## think
+একটি জাহাজ সোমবার সকালে রওনা দিয়ে পূর্ব দিকে চলল এবং এক ঘণ্টা পরে তারিখ রেখা পার হলো। পার হওয়ার পর জাহাজের খাতায় যাত্রীরা কোন বার লিখবে, এবং কেন?
+## quiz
+? আন্তর্জাতিক তারিখ রেখা প্রধানত কোন দ্রাঘিমারেখাকে অনুসরণ করে?
+- ০°
+- ৯০° পূর্ব
+* ১৮০°
+- ২৩.৫° উত্তর
+= এটি গ্রিনিচের ঠিক উল্টো পাশের ১৮০° দ্রাঘিমারেখা ধরে টানা।
+? আন্তর্জাতিক তারিখ রেখা কিছু জায়গায় বেঁকে গেছে কেন?
+- কারণ সেখানে পৃথিবী গোল নয়
+* যাতে রেখাটি জলভাগে থাকে এবং কোনো দ্বীপপুঞ্জ বা স্থলভাগ দুই তারিখে ভাগ না হয়
+- নিরক্ষরেখাকে অনুসরণ করতে
+- জাহাজের পথ ছোট করতে
+= বাঁকগুলোর কারণে কাছাকাছি বাস করা মানুষ একই বারে থাকে।
+? পশ্চিমগামী একটি জাহাজ আন্তর্জাতিক তারিখ রেখা পার হলো। তাকে
+- এক দিন বিয়োগ করতে হবে
+- কিছুই বদলাতে হবে না
+- ঘড়ি ১২ ঘণ্টা পিছাতে হবে
+* এক দিন যোগ করতে হবে
+= পশ্চিম দিকে পার হলে এক দিন যোগ; পূর্ব দিকে পার হলে এক দিন বিয়োগ।
+
+@@ 3.3.1
+@visual g3daynight
+@related 3.2.3 3.3.2 3.4.1
+== en
+## what
+The Earth spins on its own axis from west to east, once in about 24 hours. This spinning is the **diurnal motion** (daily motion), and it is the reason we have day and night.
+## visual
+Press "Spin the Earth" and follow the red place. Watch it cross from the dark side into the light (morning) and back into the dark (evening).
+## simple
+Hold a ball in front of a lamp in a dark room. Only the half facing the lamp is lit; the other half stays dark. The Earth is like that ball and the Sun is the lamp. The Earth has no light of its own and, being round, it can never be lit all over at one time.
+
+Now turn the ball slowly. A spot that was in the dark comes into the light, travels across the lit half, and goes back into the dark. That is one day and one night for that spot. Because the Earth turns from west to east, the Sun seems to rise in the east and set in the west.
+## points
+1. **Two motions:** the Earth turns on its own axis (rotation) and also goes round the Sun (revolution). The first is the diurnal motion, the second the annual motion.
+2. **Direction:** the Earth rotates on its axis from west to east.
+3. **Time taken:** about 24 hours, or one day. Measured exactly, one full turn takes 23 hours 56 minutes 4 seconds.
+4. **Day and night:** the half of the Earth facing the Sun has day, the other half has night. Rotation carries every place through both.
+5. **Shadow circle:** the circular edge between the lit half and the dark half.
+6. **Morning and evening:** a place that has just crossed the shadow circle from the dark into the light has morning; a place that has just crossed from the light into the dark has evening.
+7. **Dawn and twilight:** the faint light a little before morning is dawn; the faint light around evening is twilight.
+8. **Other effects:** we count time from this motion (one turn = 24 hours, divided into minutes and seconds); it works together with the pull of the Moon and the Sun to give tides; and it has a strong effect on ocean currents and winds.
+
+> Your textbook calls the 23 hours 56 minutes 4 seconds of one full turn a "solar day". Astronomers use a little more care: the **solar day**, from one noon to the next, is 24 hours. It is about 4 minutes longer than one full turn because the Earth has also moved a little along its orbit in that time.
+## definition
+**Diurnal motion:** the rotation of the Earth on its own axis from west to east, completed in about 24 hours.
+
+**Shadow circle:** the circular boundary between the lit and the dark halves of the Earth.
+## why
+Why does the Sun not light the whole Earth at once? Light travels in straight lines, and the Earth is a ball. A ball in a beam of light always has one lit half and one shaded half. If the Earth did not rotate, one half would have day without end and the other half night without end.
+## matters
+- It gives us the rhythm of day and night, to which plants, animals and people fit their work and rest.
+- It is our clock: hours, minutes and seconds all come from one turn of the Earth.
+- It steers winds and ocean currents and helps produce the tides.
+## terms
+Rotation (আবর্তন) | Turning on its own axis
+Revolution (পরিক্রমণ) | Going round another body, as the Earth goes round the Sun
+Shadow circle (ছায়াবৃত্ত) | The circle between the lit and dark halves of the Earth
+Dawn (ঊষা) | The faint light shortly before morning
+Twilight (গোধূলি) | The faint light around evening
+## facts
+Direction of rotation | west to east
+One full turn | 23 hours 56 minutes 4 seconds (about 24 hours)
+Result | day and night
+Also affects | counting of time, tides, ocean currents, winds
+## mistakes
+x Day and night happen because the Sun goes round the Earth.
+v The Sun stays where it is. The Earth spins, carrying each place into the light and out of it.
+x The Sun rises in the east because the Sun moves from east to west.
+v The Earth turns from west to east, so the Sun only appears to move the other way.
+## remember
+- Diurnal motion = the Earth spinning on its axis, west to east, in about 24 hours.
+- Exact time of one turn: 23 hours 56 minutes 4 seconds.
+- Lit half = day, dark half = night; the shadow circle separates them.
+- Crossing the shadow circle into light = morning; into dark = evening.
+- It also gives us time, tides, and the turning of winds and currents.
+## think
+If the Earth turned from east to west instead, on which side of your house would the Sun rise? Would the length of a day change?
+## quiz
+? The Earth rotates on its axis
+- from east to west
+* from west to east
+- from north to south
+- from south to north
+= The Earth turns from west to east, which is why the Sun appears to rise in the east.
+? The circle that separates the lit half of the Earth from the dark half is called the
+- equator
+- prime meridian
+* shadow circle
+- Arctic Circle
+= The shadow circle is the boundary between day and night.
+? Which of these is caused by the diurnal motion of the Earth?
+* Day and night
+- The change of seasons
+- The leap year
+- Longer days in summer
+= Rotation gives day and night. Seasons, leap years and changing day length come from the annual motion.
+== bn
+## what
+পৃথিবী নিজ অক্ষের ওপর পশ্চিম থেকে পূর্ব দিকে প্রায় ২৪ ঘণ্টায় একবার ঘোরে। এই ঘোরাই **আহ্নিক গতি** (দৈনিক গতি), আর এর জন্যই দিন ও রাত হয়।
+## visual
+"পৃথিবী ঘোরাও" বোতামে চাপ দিয়ে লাল স্থানটিকে অনুসরণ করো। দেখো সেটি কীভাবে অন্ধকার থেকে আলোতে আসে (প্রভাত) এবং আবার অন্ধকারে যায় (সন্ধ্যা)।
+## simple
+অন্ধকার ঘরে একটি বাতির সামনে একটি বল ধরো। বলের যে অর্ধেক বাতির দিকে, শুধু সেটুকু আলোকিত; বাকি অর্ধেক অন্ধকার। পৃথিবী সেই বলের মতো, আর সূর্য হলো বাতি। পৃথিবীর নিজের আলো নেই, আর গোলাকার বলে একসাথে এর সব দিকে আলো পড়তে পারে না।
+
+এবার বলটিকে ধীরে ধীরে ঘোরাও। অন্ধকারে থাকা একটি বিন্দু আলোতে আসে, আলোকিত অংশ পার হয়, তারপর আবার অন্ধকারে চলে যায়। ওই বিন্দুর জন্য এটিই এক দিন ও এক রাত। পৃথিবী পশ্চিম থেকে পূর্বে ঘোরে বলে আমাদের মনে হয় সূর্য পূর্বে ওঠে আর পশ্চিমে অস্ত যায়।
+## points
+1. **দুই রকম গতি:** পৃথিবী নিজ অক্ষে ঘোরে (আবর্তন) এবং সূর্যের চারদিকেও ঘোরে (পরিক্রমণ)। প্রথমটি আহ্নিক গতি, দ্বিতীয়টি বার্ষিক গতি।
+2. **দিক:** পৃথিবী নিজ অক্ষে পশ্চিম থেকে পূর্ব দিকে আবর্তন করে।
+3. **সময়:** প্রায় ২৪ ঘণ্টা বা এক দিন। সঠিক হিসাবে একবার পুরো ঘুরতে লাগে ২৩ ঘণ্টা ৫৬ মিনিট ৪ সেকেন্ড।
+4. **দিন ও রাত:** পৃথিবীর যে অর্ধেক সূর্যের দিকে সেখানে দিন, বাকি অর্ধেকে রাত। আবর্তনের ফলে প্রতিটি স্থান পালা করে দুটিই পায়।
+5. **ছায়াবৃত্ত:** আলোকিত ও অন্ধকার অংশের মাঝের বৃত্তাকার সীমা।
+6. **প্রভাত ও সন্ধ্যা:** যে স্থান অন্ধকার থেকে ছায়াবৃত্ত পার হয়ে সবেমাত্র আলোতে পৌঁছায় সেখানে প্রভাত; যে স্থান আলো থেকে ছায়াবৃত্ত পার হয়ে সবেমাত্র অন্ধকারে পৌঁছায় সেখানে সন্ধ্যা।
+7. **ঊষা ও গোধূলি:** প্রভাতের কিছু আগের ক্ষীণ আলোর সময় ঊষা; সন্ধ্যার সময়ের ক্ষীণ আলো গোধূলি।
+8. **অন্যান্য প্রভাব:** এই গতি থেকেই সময় গণনা করা হয় (এক আবর্তন = ২৪ ঘণ্টা, তাকে মিনিট ও সেকেন্ডে ভাগ করে); চাঁদ ও সূর্যের আকর্ষণের সাথে মিলে এটি জোয়ার-ভাটা ঘটায়; সমুদ্রস্রোত ও বায়ুপ্রবাহের ওপরও এর যথেষ্ট প্রভাব আছে।
+
+> তোমার পাঠ্যবইয়ে একটি পূর্ণ আবর্তনের ২৩ ঘণ্টা ৫৬ মিনিট ৪ সেকেন্ড সময়কে "সৌরদিন" বলা হয়েছে। জ্যোতির্বিজ্ঞানীরা আরেকটু সূক্ষ্মভাবে বলেন: এক মধ্যাহ্ন থেকে পরের মধ্যাহ্ন পর্যন্ত সময়, অর্থাৎ **সৌরদিন**, হলো ২৪ ঘণ্টা। এটি একটি পূর্ণ আবর্তনের চেয়ে প্রায় ৪ মিনিট বেশি, কারণ ওই সময়ে পৃথিবী কক্ষপথেও কিছুটা এগিয়ে যায়।
+## definition
+**আহ্নিক গতি:** পৃথিবীর নিজ অক্ষের ওপর পশ্চিম থেকে পূর্ব দিকে আবর্তন, যা প্রায় ২৪ ঘণ্টায় সম্পন্ন হয়।
+
+**ছায়াবৃত্ত:** পৃথিবীর আলোকিত ও অন্ধকার অংশের মধ্যবর্তী বৃত্তাকার সীমারেখা।
+## why
+সূর্য একসাথে সারা পৃথিবীকে আলোকিত করতে পারে না কেন? আলো সরলরেখায় চলে, আর পৃথিবী একটি গোলক। আলোর সামনে রাখা গোলকের সবসময় এক অর্ধেক আলোকিত, আরেক অর্ধেক ছায়ায় থাকে। পৃথিবী যদি না ঘুরত, তবে এক অর্ধেকে চিরকাল দিন আর অন্য অর্ধেকে চিরকাল রাত থাকত।
+## matters
+- এটি দিন-রাতের ছন্দ তৈরি করে; উদ্ভিদ, প্রাণী ও মানুষ সেই ছন্দ মেনে কাজ ও বিশ্রাম করে।
+- এটিই আমাদের ঘড়ি: ঘণ্টা, মিনিট, সেকেন্ড সব পৃথিবীর এক আবর্তন থেকে এসেছে।
+- এটি বায়ুপ্রবাহ ও সমুদ্রস্রোতের দিক ঠিক করে এবং জোয়ার-ভাটা সৃষ্টিতে সাহায্য করে।
+## terms
+আবর্তন (Rotation) | নিজ অক্ষের ওপর ঘোরা
+পরিক্রমণ (Revolution) | অন্য বস্তুকে ঘিরে ঘোরা, যেমন পৃথিবী সূর্যকে ঘিরে ঘোরে
+ছায়াবৃত্ত (Shadow circle) | পৃথিবীর আলোকিত ও অন্ধকার অংশের মাঝের বৃত্ত
+ঊষা (Dawn) | প্রভাতের কিছু আগের ক্ষীণ আলো
+গোধূলি (Twilight) | সন্ধ্যার সময়ের ক্ষীণ আলো
+## facts
+আবর্তনের দিক | পশ্চিম থেকে পূর্ব
+একটি পূর্ণ আবর্তন | ২৩ ঘণ্টা ৫৬ মিনিট ৪ সেকেন্ড (প্রায় ২৪ ঘণ্টা)
+ফল | দিন ও রাত
+আরও প্রভাব | সময় গণনা, জোয়ার-ভাটা, সমুদ্রস্রোত, বায়ুপ্রবাহ
+## mistakes
+x সূর্য পৃথিবীর চারদিকে ঘোরে বলে দিন-রাত হয়।
+v সূর্য নিজের জায়গায় থাকে। পৃথিবী ঘোরে, আর প্রতিটি স্থানকে আলোতে আনে ও আলো থেকে সরিয়ে নেয়।
+x সূর্য পূর্ব থেকে পশ্চিমে চলে, তাই পূর্ব দিকে ওঠে।
+v পৃথিবী পশ্চিম থেকে পূর্বে ঘোরে, তাই সূর্যকে উল্টো দিকে চলতে দেখা যায় মাত্র।
+## remember
+- আহ্নিক গতি = পৃথিবীর নিজ অক্ষে পশ্চিম থেকে পূর্বে প্রায় ২৪ ঘণ্টায় একবার ঘোরা।
+- একবার ঘোরার সঠিক সময়: ২৩ ঘণ্টা ৫৬ মিনিট ৪ সেকেন্ড।
+- আলোকিত অর্ধেকে দিন, অন্ধকার অর্ধেকে রাত; মাঝে ছায়াবৃত্ত।
+- ছায়াবৃত্ত পার হয়ে আলোতে এলে প্রভাত; অন্ধকারে গেলে সন্ধ্যা।
+- এই গতি থেকেই সময় গণনা, জোয়ার-ভাটা এবং বায়ু ও স্রোতের দিক বদল।
+## think
+পৃথিবী যদি পূর্ব থেকে পশ্চিমে ঘুরত, তবে তোমার বাড়ির কোন দিকে সূর্য উঠত? দিনের দৈর্ঘ্য কি বদলাত?
+## quiz
+? পৃথিবী নিজ অক্ষে আবর্তন করে
+- পূর্ব থেকে পশ্চিমে
+* পশ্চিম থেকে পূর্বে
+- উত্তর থেকে দক্ষিণে
+- দক্ষিণ থেকে উত্তরে
+= পৃথিবী পশ্চিম থেকে পূর্বে ঘোরে, তাই সূর্যকে পূর্ব দিকে উঠতে দেখা যায়।
+? পৃথিবীর আলোকিত ও অন্ধকার অংশকে আলাদা করে যে বৃত্ত, তার নাম
+- নিরক্ষরেখা
+- মূল মধ্যরেখা
+* ছায়াবৃত্ত
+- সুমেরুবৃত্ত
+= ছায়াবৃত্ত হলো দিন ও রাতের সীমারেখা।
+? নিচের কোনটি পৃথিবীর আহ্নিক গতির ফল?
+* দিন ও রাত হওয়া
+- ঋতু পরিবর্তন
+- অধিবর্ষ
+- গ্রীষ্মকালে দিন বড় হওয়া
+= আবর্তনের ফলে দিন-রাত হয়। ঋতু, অধিবর্ষ ও দিনের দৈর্ঘ্য বদলানো বার্ষিক গতির ফল।
+
+@@ 3.3.2
+@visual g3orbit
+@related 3.3.1 3.3.3 3.3.4
+== en
+## what
+While spinning on its axis, the Earth also travels round the Sun along a fixed oval path, once in a year. This journey is the **annual motion**.
+## visual
+Step through the four positions of the Earth on its orbit. Notice that the axis always leans the same way, and see where the Sun's rays fall straight down on each date.
+## simple
+A spinning top can also travel across the floor while it spins. The Earth does the same: it spins on its axis and, at the same time, moves along a huge path round the Sun. One full trip is one year.
+
+Two things about this trip matter a great deal. First, the path is not a perfect circle but slightly oval, so the Earth is a little nearer to the Sun at one time of the year and a little farther at another. Second, the Earth's axis is not upright on this path: it leans, and it keeps leaning the same way all year. You will see in the next two lessons what that lean does.
+## points
+1. **What it is:** the Earth's revolution round the Sun, from west to east, in a fixed orbit, in a fixed direction and in a fixed time.
+2. **Speed:** about 30 km every second.
+3. **Time taken:** one year, called a solar year. Exactly: 365 days 5 hours 48 minutes 47 seconds.
+4. **Leap year:** we count a year as 365 days, so about 6 hours are left over each year. In four years they add up to one day. Every fourth year is therefore counted as 366 days, and February gets 29 days instead of 28.
+5. **Shape of the orbit:** elliptical (oval). Its length is about 93 crore 80 lakh km.
+6. **Perihelion:** the Earth is nearest to the Sun from 1 to 3 January.
+7. **Aphelion:** the Earth is farthest from the Sun from 1 to 4 July.
+8. **The lean:** the Earth's axis makes an angle of 66.5° with the plane of its orbit; in other words it leans 23.5° from the upright.
+9. **Results:** days and nights grow longer and shorter, and the seasons change.
+
+> The two editions of your textbook print the seconds differently (47 in the Bangla book, 45.51 in the English one). Measurements give about 46 seconds. The part to remember is 365 days 5 hours 48 minutes.
+
+> A little extra: because the leftover is slightly less than 6 hours, a century year is a leap year only if it can be divided by 400. So 2000 was a leap year, but 1900 was not.
+## definition
+**Annual motion:** the revolution of the Earth round the Sun from west to east along a fixed elliptical orbit, completed in one year.
+
+**Solar year:** the time the Earth takes to go once round the Sun.
+
+**Leap year:** a year of 366 days, in which February has 29 days.
+## matters
+- Our calendar year comes from it.
+- Together with the lean of the axis, it makes days and nights unequal and brings the seasons.
+- Farmers, sailors and festival calendars all depend on this yearly cycle.
+## terms
+Orbit (কক্ষপথ) | The fixed path of the Earth round the Sun
+Elliptical (উপবৃত্তাকার) | Oval, like a slightly flattened circle
+Perihelion (অনুসূর) | The position in which the Earth is nearest to the Sun (1–3 January)
+Aphelion (অপসূর) | The position in which the Earth is farthest from the Sun (1–4 July)
+Leap year (অধিবর্ষ) | A year of 366 days
+## facts
+Direction | west to east
+Speed | about 30 km per second
+Solar year | 365 days 5 hours 48 minutes 47 seconds
+Leap year | 366 days; February has 29 days
+Length of the orbit | 93,80,51,827 km
+Nearest to the Sun | 1–3 January (perihelion)
+Farthest from the Sun | 1–4 July (aphelion)
+Lean of the axis | 66.5° to the plane of the orbit
+## mistakes
+x The Earth's orbit is a perfect circle.
+v It is elliptical, so the distance from the Sun changes a little during the year.
+x A leap year comes because the Earth sometimes takes one day longer to go round.
+v The trip always takes the same time. The extra day collects the roughly 6 hours left over each year.
+## remember
+- Annual motion = the Earth going round the Sun, west to east, once a year.
+- Speed about 30 km per second; solar year = 365 days 5 hours 48 minutes 47 seconds.
+- Every fourth year is a leap year of 366 days (29 days in February).
+- The orbit is elliptical: nearest 1–3 January (perihelion), farthest 1–4 July (aphelion).
+- Results: unequal days and nights, and the change of seasons.
+## think
+The year 2028 can be divided by 4. How many days will its February have? What about the year 2100?
+## quiz
+? The time the Earth takes to go once round the Sun is called
+- a solar day
+- a lunar month
+- a leap year
+* a solar year
+= One revolution round the Sun is a solar year: 365 days 5 hours 48 minutes 47 seconds.
+? In a leap year the month of February has
+- 28 days
+* 29 days
+- 30 days
+- 31 days
+= The leftover hours of four years make one extra day, which is added to February.
+? The position in which the Earth is nearest to the Sun is called
+* perihelion
+- aphelion
+- equinox
+- solstice
+= Perihelion comes on 1–3 January; aphelion, the farthest position, on 1–4 July.
+== bn
+## what
+পৃথিবী নিজ অক্ষে ঘুরতে ঘুরতে একটি নির্দিষ্ট উপবৃত্তাকার পথে বছরে একবার সূর্যের চারদিকে ঘুরে আসে। এই পরিক্রমণই **বার্ষিক গতি**।
+## visual
+কক্ষপথে পৃথিবীর চারটি অবস্থান একে একে দেখো। খেয়াল করো, অক্ষটি সবসময় একই দিকে হেলে থাকে; আর কোন তারিখে সূর্যরশ্মি কোথায় লম্বভাবে পড়ে।
+## simple
+লাটিম ঘুরতে ঘুরতে মেঝের ওপর দিয়ে সরেও যায়। পৃথিবীও তেমন: নিজ অক্ষে ঘোরে, আবার একই সাথে সূর্যের চারদিকে বিশাল এক পথ ধরে এগিয়ে চলে। একবার পুরো ঘুরে আসাই এক বছর।
+
+এই যাত্রার দুটি বিষয় খুব গুরুত্বপূর্ণ। প্রথমত, পথটি নিখুঁত বৃত্ত নয়, সামান্য ডিম্বাকার; তাই বছরের এক সময়ে পৃথিবী সূর্যের একটু কাছে, আরেক সময়ে একটু দূরে থাকে। দ্বিতীয়ত, পৃথিবীর অক্ষ এই পথের ওপর খাড়া নয়: হেলে আছে, এবং সারা বছর একই দিকে হেলে থাকে। এই হেলে থাকার ফল কী, তা পরের দুই পাঠে দেখবে।
+## points
+1. **কী:** নির্দিষ্ট কক্ষপথে, নির্দিষ্ট দিকে ও নির্দিষ্ট সময়ে পশ্চিম থেকে পূর্বে সূর্যের চারদিকে পৃথিবীর পরিক্রমণ।
+2. **বেগ:** প্রতি সেকেন্ডে প্রায় ৩০ কিমি।
+3. **সময়:** এক বছর; একে সৌরবছর বলে। ঠিক হিসাবে ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট ৪৭ সেকেন্ড।
+4. **অধিবর্ষ:** আমরা ৩৬৫ দিনে বছর গুনি, তাই প্রতি বছর প্রায় ৬ ঘণ্টা বাড়তি থেকে যায়। চার বছরে তা এক দিন হয়। তাই প্রতি চতুর্থ বছর ৩৬৬ দিনে গোনা হয় এবং ফেব্রুয়ারি মাস ২৮ দিনের বদলে ২৯ দিনের হয়।
+5. **কক্ষপথের আকৃতি:** উপবৃত্তাকার। এর দৈর্ঘ্য প্রায় ৯৩ কোটি ৮০ লক্ষ কিমি।
+6. **অনুসূর:** জানুয়ারির ১ থেকে ৩ তারিখে পৃথিবী সূর্যের সবচেয়ে কাছে থাকে।
+7. **অপসূর:** জুলাইয়ের ১ থেকে ৪ তারিখে পৃথিবী সূর্য থেকে সবচেয়ে দূরে থাকে।
+8. **হেলে থাকা:** পৃথিবীর অক্ষ তার কক্ষপথের তলের সাথে ৬৬.৫° কোণে হেলে থাকে; অর্থাৎ খাড়া অবস্থা থেকে ২৩.৫° হেলানো।
+9. **ফল:** দিন-রাত্রির হ্রাস-বৃদ্ধি ও ঋতু পরিবর্তন।
+
+> তোমার পাঠ্যবইয়ের দুই সংস্করণে সেকেন্ডের সংখ্যা আলাদা ছাপা হয়েছে (বাংলা বইয়ে ৪৭, ইংরেজি বইয়ে ৪৫.৫১)। পরিমাপে পাওয়া যায় প্রায় ৪৬ সেকেন্ড। মনে রাখার মূল অংশ ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট।
+
+> একটু বাড়তি: বাড়তি সময়টুকু ৬ ঘণ্টার চেয়ে সামান্য কম বলে শতাব্দীর বছর শুধু ৪০০ দিয়ে ভাগ গেলে তবেই অধিবর্ষ হয়। তাই ২০০০ সাল অধিবর্ষ ছিল, কিন্তু ১৯০০ সাল ছিল না।
+## definition
+**বার্ষিক গতি:** নির্দিষ্ট উপবৃত্তাকার কক্ষপথে পশ্চিম থেকে পূর্ব দিকে সূর্যের চারদিকে পৃথিবীর পরিক্রমণ, যা এক বছরে সম্পন্ন হয়।
+
+**সৌরবছর:** সূর্যকে একবার পরিক্রমণ করতে পৃথিবীর যে সময় লাগে।
+
+**অধিবর্ষ (লিপইয়ার):** ৩৬৬ দিনের বছর, যে বছর ফেব্রুয়ারি মাস ২৯ দিনের।
+## matters
+- আমাদের বর্ষপঞ্জির বছর এখান থেকেই এসেছে।
+- অক্ষের হেলে থাকার সাথে মিলে এটি দিন-রাতকে ছোট-বড় করে এবং ঋতু আনে।
+- কৃষক, নাবিক ও উৎসবের পঞ্জিকা সবই এই বার্ষিক চক্রের ওপর নির্ভর করে।
+## terms
+কক্ষপথ (Orbit) | সূর্যের চারদিকে পৃথিবীর নির্দিষ্ট পথ
+উপবৃত্তাকার (Elliptical) | ডিম্বাকার, সামান্য চাপা বৃত্তের মতো
+অনুসূর (Perihelion) | যে অবস্থানে পৃথিবী সূর্যের সবচেয়ে কাছে থাকে (১-৩ জানুয়ারি)
+অপসূর (Aphelion) | যে অবস্থানে পৃথিবী সূর্য থেকে সবচেয়ে দূরে থাকে (১-৪ জুলাই)
+অধিবর্ষ (Leap year) | ৩৬৬ দিনের বছর
+## facts
+দিক | পশ্চিম থেকে পূর্ব
+বেগ | সেকেন্ডে প্রায় ৩০ কিমি
+সৌরবছর | ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট ৪৭ সেকেন্ড
+অধিবর্ষ | ৩৬৬ দিন; ফেব্রুয়ারি ২৯ দিনের
+কক্ষপথের দৈর্ঘ্য | ৯৩,৮০,৫১,৮২৭ কিমি
+সূর্যের সবচেয়ে কাছে | ১-৩ জানুয়ারি (অনুসূর)
+সূর্য থেকে সবচেয়ে দূরে | ১-৪ জুলাই (অপসূর)
+অক্ষের হেলানো অবস্থা | কক্ষতলের সাথে ৬৬.৫°
+## mistakes
+x পৃথিবীর কক্ষপথ নিখুঁত বৃত্ত।
+v এটি উপবৃত্তাকার, তাই বছরের মধ্যে সূর্য থেকে দূরত্ব কিছুটা বাড়ে-কমে।
+x পৃথিবীর ঘুরে আসতে কোনো কোনো বছর এক দিন বেশি লাগে, তাই অধিবর্ষ হয়।
+v ঘুরে আসতে সবসময় একই সময় লাগে। প্রতি বছরের বাড়তি প্রায় ৬ ঘণ্টা জমে চার বছরে এক দিন হয়।
+## remember
+- বার্ষিক গতি = বছরে একবার পশ্চিম থেকে পূর্বে সূর্যের চারদিকে পৃথিবীর পরিক্রমণ।
+- বেগ সেকেন্ডে প্রায় ৩০ কিমি; সৌরবছর = ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট ৪৭ সেকেন্ড।
+- প্রতি চতুর্থ বছর অধিবর্ষ: ৩৬৬ দিন (ফেব্রুয়ারি ২৯ দিন)।
+- কক্ষপথ উপবৃত্তাকার: সবচেয়ে কাছে ১-৩ জানুয়ারি (অনুসূর), সবচেয়ে দূরে ১-৪ জুলাই (অপসূর)।
+- ফল: দিন-রাত্রির হ্রাস-বৃদ্ধি ও ঋতু পরিবর্তন।
+## think
+২০২৮ সালকে ৪ দিয়ে ভাগ করা যায়। সে বছর ফেব্রুয়ারি কত দিনের হবে? আর ২১০০ সালে?
+## quiz
+? সূর্যকে একবার পরিক্রমণ করতে পৃথিবীর যে সময় লাগে তাকে বলে
+- সৌরদিন
+- চান্দ্রমাস
+- অধিবর্ষ
+* সৌরবছর
+= সূর্যকে একবার ঘুরে আসার সময়ই সৌরবছর: ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট ৪৭ সেকেন্ড।
+? অধিবর্ষে ফেব্রুয়ারি মাস হয়
+- ২৮ দিনের
+* ২৯ দিনের
+- ৩০ দিনের
+- ৩১ দিনের
+= চার বছরের বাড়তি ঘণ্টা মিলে এক দিন হয়, সেটি ফেব্রুয়ারিতে যোগ হয়।
+? যে অবস্থানে পৃথিবী সূর্যের সবচেয়ে কাছে থাকে তাকে বলে
+* অনুসূর
+- অপসূর
+- বিষুব
+- অয়নান্ত
+= অনুসূর হয় ১-৩ জানুয়ারি; সবচেয়ে দূরের অবস্থান অপসূর হয় ১-৪ জুলাই।
+
+@@ 3.3.3
+@visual g3orbit
+@related 3.3.2 3.3.4 3.2.1
+== en
+## what
+Days and nights are not the same length all year. In our part of the world days are longest in June and shortest in December. This lengthening and shortening is caused by the **annual motion** of the Earth with its **leaning axis**.
+## visual
+Choose a date, then move the slider to your own latitude. The bar shows how much of the 24 hours is day and how much is night at that place on that date.
+## simple
+The Earth's axis always leans the same way as it goes round the Sun. So for part of the year the North Pole leans towards the Sun, and for another part it leans away.
+
+When the North Pole leans towards the Sun, more than half of the northern hemisphere is in the light. Each place there takes longer to cross the lit side, so its day is long and its night short. Six months later the North Pole leans away, less than half of the northern hemisphere is lit, and the day is short. The southern hemisphere always has the opposite. Twice a year neither pole leans towards the Sun, and then day and night are equal everywhere.
+## points
+1. **21 June:** the North Pole leans most (23.5°) towards the Sun. At noon the rays fall vertically on 23.5° North, the Tropic of Cancer. The northern hemisphere has its longest day and shortest night; the southern hemisphere the opposite.
+2. **Near the poles on 21 June:** from the Arctic Circle (66.5° N) to the North Pole there is day for 24 hours; from the Antarctic Circle (66.5° S) to the South Pole there is night for 24 hours.
+3. **After 21 June:** the Sun appears to move no farther north and turns southwards. In the north, days slowly shorten and nights lengthen.
+4. **23 September:** both poles are equally far from the Sun. The rays fall vertically on the equator. Day and night are equal all over the Earth.
+5. **22 December:** the South Pole leans most (23.5°) towards the Sun. The rays fall vertically on the Tropic of Capricorn (23.5° S). The southern hemisphere has its longest day; the northern hemisphere its shortest day and longest night.
+6. **After 22 December:** the Sun turns northwards again. In the north, days begin to lengthen.
+7. **21 March:** both poles are again equally far from the Sun, the rays fall vertically on the equator, and day and night are equal everywhere. Then the Earth moves on towards its 21 June position, and the cycle repeats.
+
+| Date | Rays vertical on | Northern hemisphere | Southern hemisphere |
+| 21 June | Tropic of Cancer | longest day | shortest day |
+| 23 September | equator | day = night | day = night |
+| 22 December | Tropic of Capricorn | shortest day | longest day |
+| 21 March | equator | day = night | day = night |
+## definition
+**Solstice:** either of the two positions (21 June and 22 December) at which the Sun's vertical rays reach their farthest north or farthest south and turn back.
+
+**Equinox:** either of the two positions (21 March and 23 September) at which the Sun's rays fall vertically on the equator and day and night are equal everywhere.
+## why
+Why does a lean change the length of the day? The shadow circle always cuts the Earth into a lit half and a dark half. When the axis leans towards the Sun, the shadow circle no longer passes through the poles, so each parallel of latitude in the north has its bigger part in the light and its smaller part in the dark. A place riding round that parallel spends more hours in the light. On the equator the two parts are always equal, so there day and night are about 12 hours each all year.
+## matters
+- It explains why working hours of daylight change through the year.
+- In Bangladesh the longest day (about 13½ hours) comes in June and the shortest (about 10½ hours) in December.
+- It is the first half of the explanation of the seasons: longer days mean more hours of heating.
+## terms
+Tropic of Cancer (কর্কটক্রান্তি রেখা) | The parallel of 23.5° North
+Tropic of Capricorn (মকরক্রান্তি রেখা) | The parallel of 23.5° South
+Arctic Circle (সুমেরুবৃত্ত) | The parallel of 66.5° North
+Antarctic Circle (কুমেরুবৃত্ত) | The parallel of 66.5° South
+Northern solstice (উত্তর অয়নান্ত) | The Sun's position on 21 June
+Southern solstice (দক্ষিণ অয়নান্ত) | The Sun's position on 22 December
+Vernal equinox (বাসন্ত বিষুব) | The Earth's position on 21 March
+## facts
+Longest day in the northern hemisphere | 21 June
+Longest night in the northern hemisphere | 22 December
+Day and night equal everywhere | 21 March and 23 September
+24-hour day on 21 June | from the Arctic Circle to the North Pole
+24-hour night on 21 June | from the Antarctic Circle to the South Pole
+Greatest lean of a pole towards the Sun | 23.5°
+## mistakes
+x Days are longer in summer because the Earth turns more slowly then.
+v The Earth turns at the same rate all year. Days are longer because our hemisphere leans towards the Sun, so more of it is in the light.
+x On 21 June the day is longest everywhere on the Earth.
+v It is longest only in the northern hemisphere. In the southern hemisphere it is the shortest day.
+## remember
+- Unequal days and nights come from the annual motion with a leaning axis.
+- 21 June: rays vertical on the Tropic of Cancer; longest day in the north.
+- 22 December: rays vertical on the Tropic of Capricorn; longest day in the south.
+- 21 March and 23 September: rays vertical on the equator; day = night everywhere.
+- The two hemispheres always have opposite conditions.
+## think
+On 21 June, who has the longer day: a student in Dhaka or a student in London (about 51.5° N)? Use the slider to check your answer, then explain it.
+## quiz
+? On which date is the day longest in the northern hemisphere?
+- 21 March
+* 21 June
+- 23 September
+- 22 December
+= On 21 June the North Pole leans most towards the Sun, so the northern hemisphere has its longest day.
+? On 23 September the Sun's rays fall vertically on the
+- Tropic of Cancer
+- Tropic of Capricorn
+- Arctic Circle
+* equator
+= Both poles are then equally far from the Sun, and day and night are equal everywhere.
+? On 22 December the northern hemisphere has
+- its longest day
+- equal day and night
+* its shortest day and longest night
+- 24 hours of daylight everywhere
+= The South Pole leans towards the Sun on 22 December, so the north has its shortest day.
+== bn
+## what
+সারা বছর দিন ও রাত সমান থাকে না। আমাদের এখানে জুন মাসে দিন সবচেয়ে বড় আর ডিসেম্বরে সবচেয়ে ছোট। এই হ্রাস-বৃদ্ধি ঘটে পৃথিবীর **বার্ষিক গতি** আর তার **হেলানো অক্ষের** কারণে।
+## visual
+একটি তারিখ বেছে নাও, তারপর স্লাইডার সরিয়ে নিজের অক্ষাংশে আনো। দণ্ডটি দেখায় ওই তারিখে ওই স্থানে ২৪ ঘণ্টার কতটা দিন আর কতটা রাত।
+## simple
+সূর্যকে ঘোরার সময় পৃথিবীর অক্ষ সবসময় একই দিকে হেলে থাকে। তাই বছরের একটা সময় উত্তর মেরু সূর্যের দিকে ঝুঁকে থাকে, আরেকটা সময় উল্টো দিকে।
+
+উত্তর মেরু যখন সূর্যের দিকে ঝুঁকে থাকে, তখন উত্তর গোলার্ধের অর্ধেকের বেশি অংশে আলো পড়ে। সেখানকার প্রতিটি স্থানের আলোকিত অংশ পার হতে বেশি সময় লাগে, তাই দিন বড় ও রাত ছোট হয়। ছয় মাস পর উত্তর মেরু উল্টো দিকে হেলে থাকে, উত্তর গোলার্ধের অর্ধেকের কম অংশ আলো পায়, তাই দিন ছোট হয়। দক্ষিণ গোলার্ধে সবসময় ঠিক উল্টোটা ঘটে। বছরে দুবার কোনো মেরুই সূর্যের দিকে ঝুঁকে থাকে না; তখন সর্বত্র দিন-রাত সমান।
+## points
+1. **২১শে জুন:** উত্তর মেরু সূর্যের দিকে সবচেয়ে বেশি (২৩.৫°) ঝুঁকে থাকে। মধ্যাহ্নে সূর্যকিরণ ২৩.৫° উত্তর অক্ষাংশে অর্থাৎ কর্কটক্রান্তি রেখায় লম্বভাবে পড়ে। উত্তর গোলার্ধে দিন সবচেয়ে বড় ও রাত সবচেয়ে ছোট; দক্ষিণ গোলার্ধে উল্টো।
+2. **২১শে জুন মেরুর কাছে:** সুমেরুবৃত্ত (৬৬.৫° উত্তর) থেকে উত্তর মেরু পর্যন্ত ২৪ ঘণ্টা দিন; কুমেরুবৃত্ত (৬৬.৫° দক্ষিণ) থেকে দক্ষিণ মেরু পর্যন্ত ২৪ ঘণ্টা রাত।
+3. **২১শে জুনের পর:** সূর্য আর উত্তর দিকে সরে না, দক্ষিণ দিকে সরতে থাকে। উত্তর গোলার্ধে ক্রমশ দিন ছোট ও রাত বড় হতে থাকে।
+4. **২৩শে সেপ্টেম্বর:** দুই মেরু সূর্য থেকে সমান দূরে। সূর্যরশ্মি নিরক্ষরেখায় লম্বভাবে পড়ে। পৃথিবীর সর্বত্র দিন-রাত সমান।
+5. **২২শে ডিসেম্বর:** দক্ষিণ মেরু সূর্যের দিকে সবচেয়ে বেশি (২৩.৫°) হেলে থাকে। সূর্যকিরণ মকরক্রান্তি রেখায় (২৩.৫° দক্ষিণ) লম্বভাবে পড়ে। দক্ষিণ গোলার্ধে দিন সবচেয়ে বড়; উত্তর গোলার্ধে দিন সবচেয়ে ছোট ও রাত সবচেয়ে বড়।
+6. **২২শে ডিসেম্বরের পর:** সূর্য আবার উত্তর দিকে সরতে থাকে। উত্তর গোলার্ধে দিন বড় হতে শুরু করে।
+7. **২১শে মার্চ:** দুই মেরু আবার সূর্য থেকে সমান দূরে, সূর্যরশ্মি নিরক্ষরেখায় লম্বভাবে পড়ে, সর্বত্র দিন-রাত সমান। এরপর পৃথিবী আবার ২১শে জুনের অবস্থানের দিকে এগোয়, চক্রটি নতুন করে শুরু হয়।
+
+| তারিখ | রশ্মি লম্বভাবে পড়ে | উত্তর গোলার্ধ | দক্ষিণ গোলার্ধ |
+| ২১শে জুন | কর্কটক্রান্তি রেখায় | দীর্ঘতম দিন | ক্ষুদ্রতম দিন |
+| ২৩শে সেপ্টেম্বর | নিরক্ষরেখায় | দিন = রাত | দিন = রাত |
+| ২২শে ডিসেম্বর | মকরক্রান্তি রেখায় | ক্ষুদ্রতম দিন | দীর্ঘতম দিন |
+| ২১শে মার্চ | নিরক্ষরেখায় | দিন = রাত | দিন = রাত |
+## definition
+**অয়নান্ত:** যে দুই অবস্থানে (২১শে জুন ও ২২শে ডিসেম্বর) সূর্যের লম্ব রশ্মি সবচেয়ে উত্তরে বা সবচেয়ে দক্ষিণে পৌঁছে আবার ফিরতে শুরু করে।
+
+**বিষুব:** যে দুই অবস্থানে (২১শে মার্চ ও ২৩শে সেপ্টেম্বর) সূর্যরশ্মি নিরক্ষরেখায় লম্বভাবে পড়ে এবং সর্বত্র দিন-রাত সমান হয়।
+## why
+অক্ষ হেলে থাকলে দিনের দৈর্ঘ্য বদলায় কেন? ছায়াবৃত্ত সবসময় পৃথিবীকে আলোকিত ও অন্ধকার দুই অর্ধেকে ভাগ করে। অক্ষ যখন সূর্যের দিকে হেলে থাকে, তখন ছায়াবৃত্ত আর মেরুর ওপর দিয়ে যায় না; ফলে উত্তরের প্রতিটি অক্ষরেখার বড় অংশ আলোতে আর ছোট অংশ অন্ধকারে পড়ে। ওই অক্ষরেখা ধরে ঘুরতে থাকা স্থানটি তাই বেশি ঘণ্টা আলোতে থাকে। নিরক্ষরেখায় দুই অংশ সবসময় সমান, তাই সেখানে সারা বছর দিন ও রাত প্রায় ১২ ঘণ্টা করে।
+## matters
+- এ থেকে বোঝা যায় কেন বছরের বিভিন্ন সময়ে দিনের আলোর ঘণ্টা বদলায়।
+- বাংলাদেশে সবচেয়ে বড় দিন (প্রায় সাড়ে ১৩ ঘণ্টা) হয় জুনে, আর সবচেয়ে ছোট দিন (প্রায় সাড়ে ১০ ঘণ্টা) ডিসেম্বরে।
+- ঋতু পরিবর্তনের ব্যাখ্যার প্রথম অর্ধেক এটিই: দিন বড় হলে বেশি সময় ধরে তাপ পাওয়া যায়।
+## terms
+কর্কটক্রান্তি রেখা (Tropic of Cancer) | ২৩.৫° উত্তর অক্ষরেখা
+মকরক্রান্তি রেখা (Tropic of Capricorn) | ২৩.৫° দক্ষিণ অক্ষরেখা
+সুমেরুবৃত্ত (Arctic Circle) | ৬৬.৫° উত্তর অক্ষরেখা
+কুমেরুবৃত্ত (Antarctic Circle) | ৬৬.৫° দক্ষিণ অক্ষরেখা
+উত্তর অয়নান্ত (Northern solstice) | ২১শে জুন সূর্যের অবস্থান
+দক্ষিণ অয়নান্ত (Southern solstice) | ২২শে ডিসেম্বর সূর্যের অবস্থান
+বাসন্ত বিষুব (Vernal equinox) | ২১শে মার্চ পৃথিবীর অবস্থান
+## facts
+উত্তর গোলার্ধে দীর্ঘতম দিন | ২১শে জুন
+উত্তর গোলার্ধে দীর্ঘতম রাত | ২২শে ডিসেম্বর
+সর্বত্র দিন-রাত সমান | ২১শে মার্চ ও ২৩শে সেপ্টেম্বর
+২১শে জুন ২৪ ঘণ্টা দিন | সুমেরুবৃত্ত থেকে উত্তর মেরু পর্যন্ত
+২১শে জুন ২৪ ঘণ্টা রাত | কুমেরুবৃত্ত থেকে দক্ষিণ মেরু পর্যন্ত
+সূর্যের দিকে মেরুর সর্বোচ্চ হেলানো | ২৩.৫°
+## mistakes
+x গ্রীষ্মকালে পৃথিবী ধীরে ঘোরে, তাই দিন বড় হয়।
+v পৃথিবী সারা বছর একই হারে ঘোরে। আমাদের গোলার্ধ সূর্যের দিকে হেলে থাকে বলে এর বেশি অংশ আলো পায়, তাই দিন বড় হয়।
+x ২১শে জুন পৃথিবীর সব জায়গায় দিন সবচেয়ে বড়।
+v শুধু উত্তর গোলার্ধে। দক্ষিণ গোলার্ধে সেদিন বছরের সবচেয়ে ছোট দিন।
+## remember
+- দিন-রাত্রির হ্রাস-বৃদ্ধির কারণ বার্ষিক গতি ও হেলানো অক্ষ।
+- ২১শে জুন: রশ্মি কর্কটক্রান্তিতে লম্ব; উত্তর গোলার্ধে দীর্ঘতম দিন।
+- ২২শে ডিসেম্বর: রশ্মি মকরক্রান্তিতে লম্ব; দক্ষিণ গোলার্ধে দীর্ঘতম দিন।
+- ২১শে মার্চ ও ২৩শে সেপ্টেম্বর: রশ্মি নিরক্ষরেখায় লম্ব; সর্বত্র দিন = রাত।
+- দুই গোলার্ধে সবসময় বিপরীত অবস্থা।
+## think
+২১শে জুন কার দিন বেশি বড়: ঢাকার একজন শিক্ষার্থীর, নাকি লন্ডনের (প্রায় ৫১.৫° উত্তর) একজন শিক্ষার্থীর? স্লাইডার দিয়ে মিলিয়ে দেখো, তারপর কারণ ব্যাখ্যা করো।
+## quiz
+? উত্তর গোলার্ধে কোন তারিখে দিন সবচেয়ে বড় হয়?
+- ২১শে মার্চ
+* ২১শে জুন
+- ২৩শে সেপ্টেম্বর
+- ২২শে ডিসেম্বর
+= ২১শে জুন উত্তর মেরু সূর্যের দিকে সবচেয়ে বেশি ঝুঁকে থাকে, তাই উত্তর গোলার্ধে দিন সবচেয়ে বড়।
+? ২৩শে সেপ্টেম্বর সূর্যরশ্মি লম্বভাবে পড়ে
+- কর্কটক্রান্তি রেখায়
+- মকরক্রান্তি রেখায়
+- সুমেরুবৃত্তে
+* নিরক্ষরেখায়
+= তখন দুই মেরু সূর্য থেকে সমান দূরে থাকে এবং সর্বত্র দিন-রাত সমান হয়।
+? ২২শে ডিসেম্বর উত্তর গোলার্ধে হয়
+- দীর্ঘতম দিন
+- সমান দিন-রাত
+* ক্ষুদ্রতম দিন ও দীর্ঘতম রাত
+- সর্বত্র ২৪ ঘণ্টা দিন
+= ২২শে ডিসেম্বর দক্ষিণ মেরু সূর্যের দিকে হেলে থাকে, তাই উত্তর গোলার্ধে দিন সবচেয়ে ছোট।
+
+@@ 3.3.4
+@visual g3orbit
+@related 3.3.3 3.3.2 4.2.1
+== en
+## what
+The regular change of temperature through the year is the **change of seasons**. It happens because the Earth goes round the Sun with a leaning axis, so the Sun's rays fall straight on a place at one time of year and slanting at another.
+## visual
+Step through the four dates. For each one, see where the rays fall vertically and which season the northern and the southern hemisphere have.
+## simple
+Shine a torch straight down on a table: you get a small, bright circle. Tilt the torch and the same light spreads into a long, dim patch. Sunlight behaves in the same way. Rays that fall straight down heat the ground strongly. Slanting rays spread the same heat over more ground, and they also pass through a thicker layer of air on the way.
+
+Because the axis leans, each hemisphere gets straight rays and long days for part of the year (summer), and slanting rays and short days for another part (winter). In between come spring and autumn. Whatever season the northern hemisphere has, the southern hemisphere has the opposite.
+## points
+1. **Straight and slanting rays:** vertical rays pass through less air and heat a small area strongly. Slanting rays pass through more air and spread over a larger area, so they heat less.
+2. **Length of day:** where the day is longer than the night, the ground and the air are heated for more hours and become warmer.
+3. **21 June:** rays vertical on the Tropic of Cancer; longest day in the north. For a month and a half before and after this date, three months in all, the northern hemisphere has summer. The southern hemisphere, with slanting rays and short days, has winter.
+4. **23 September:** rays vertical on the equator; day and night equal. For a month and a half before and after, the heat is moderate: autumn in the north, spring in the south.
+5. **22 December:** rays vertical on the Tropic of Capricorn. For a month and a half before and after: winter in the north, summer in the south.
+6. **21 March:** rays vertical on the equator again. For a month and a half before and after: spring in the north, autumn in the south.
+7. **The causes together:** the annual motion; the axis always leaning at 66.5° to the plane of the orbit; the unequal days and nights; and the straight or slanting fall of the rays.
+8. **Bangladesh:** it lies in the northern hemisphere, and the Tropic of Cancer passes through the middle of the country, so its seasons follow those of the northern hemisphere.
+
+| Date | Northern hemisphere | Southern hemisphere |
+| 21 June | summer | winter |
+| 23 September | autumn | spring |
+| 22 December | winter | summer |
+| 21 March | spring | autumn |
+
+> Your textbook also lists the changing distance of the Sun as a cause. That effect is very small. The Earth is in fact nearest to the Sun in early January, which is winter for us. The real cause of the seasons is the leaning axis. (The English edition also prints "Tropic of Capricorn" for the line through Bangladesh; it is the Tropic of Cancer.)
+## definition
+**Change of seasons:** the difference or change in temperature on the Earth from one time of the year to another.
+## why
+Why are the seasons opposite in the two hemispheres? The axis leans in one fixed direction. When the North Pole leans towards the Sun, the South Pole must lean away. So while the north has straight rays and long days, the south has slanting rays and short days, and six months later they change places.
+## matters
+- Seasons decide what farmers can sow and harvest and when.
+- Clothing, food, festivals and even the school calendar follow the seasons.
+- Knowing that seasons are opposite in the south helps you understand the weather of countries such as Australia.
+## terms
+Vertical rays (লম্ব রশ্মি) | Rays that fall straight down, at 90°
+Slanting rays (তির্যক রশ্মি) | Rays that fall at a low angle and spread over more ground
+Northward journey of the Sun (উত্তরায়ণ) | The period in which the vertical rays move north; it ends on 21 June
+Southward journey of the Sun (দক্ষিণায়ন) | The period in which the vertical rays move south; it ends on 22 December
+## facts
+Summer in the northern hemisphere | about a month and a half either side of 21 June
+Winter in the northern hemisphere | about a month and a half either side of 22 December
+Lean of the axis | 66.5° to the plane of the orbit
+Line through the middle of Bangladesh | Tropic of Cancer (23.5° N)
+When it is summer in the north | it is winter in the south
+## mistakes
+x It is summer when the Earth is nearest to the Sun and winter when it is farthest.
+v The Earth is nearest to the Sun in early January, when the northern hemisphere has winter. Seasons come from the lean of the axis, not from distance.
+x When Bangladesh has winter, the whole world has winter.
+v The southern hemisphere has summer at that time.
+## remember
+- Change of seasons = change of temperature through the year.
+- Vertical rays and long days give summer; slanting rays and short days give winter.
+- Summer in the north around 21 June; winter around 22 December; spring around 21 March; autumn around 23 September.
+- The southern hemisphere always has the opposite season.
+- Main cause: the annual motion with the axis leaning at 66.5°.
+## think
+Your cousin in Sydney, Australia, has a long school holiday in December and goes to the beach. Explain why December is beach weather there.
+## quiz
+? Slanting rays of the Sun heat the ground less than vertical rays because they
+- travel more slowly
+* spread over a larger area and pass through more air
+- come from a cooler part of the Sun
+- reach the Earth only at night
+= The same heat is spread over more ground, and more of it is lost in the thicker layer of air.
+? When the northern hemisphere has summer, the southern hemisphere has
+- summer
+- spring
+* winter
+- autumn
+= The two hemispheres lean opposite ways, so their seasons are opposite.
+? The main cause of the change of seasons is
+- the diurnal motion of the Earth
+- the pull of the Moon
+- the changing distance of the Sun
+* the annual motion of the Earth with its leaning axis
+= The lean makes the rays fall straight or slanting and makes days long or short at different times of the year.
+== bn
+## what
+বছরজুড়ে তাপমাত্রার নিয়মিত পরিবর্তনই **ঋতু পরিবর্তন**। পৃথিবী হেলানো অক্ষ নিয়ে সূর্যের চারদিকে ঘোরে বলে একই স্থানে বছরের এক সময়ে সূর্যরশ্মি লম্বভাবে আর অন্য সময়ে তির্যকভাবে পড়ে; তাই ঋতু বদলায়।
+## visual
+চারটি তারিখ একে একে দেখো। প্রতিটিতে খেয়াল করো রশ্মি কোথায় লম্বভাবে পড়ছে, আর উত্তর ও দক্ষিণ গোলার্ধে তখন কোন ঋতু।
+## simple
+টেবিলের ওপর টর্চ সোজা নিচের দিকে ধরো: ছোট, উজ্জ্বল একটি গোল আলো পড়বে। টর্চ কাত করলে একই আলো লম্বা, ম্লান দাগ হয়ে ছড়িয়ে যায়। সূর্যের আলোও এমন। লম্বভাবে পড়া রশ্মি মাটিকে বেশি গরম করে। তির্যক রশ্মি একই তাপ বেশি জায়গায় ছড়িয়ে দেয়, আর আসার পথে বায়ুর মোটা স্তরও পার হয়।
+
+অক্ষ হেলে আছে বলে প্রতিটি গোলার্ধ বছরের এক সময়ে লম্ব রশ্মি ও বড় দিন পায় (গ্রীষ্মকাল), আরেক সময়ে তির্যক রশ্মি ও ছোট দিন পায় (শীতকাল)। মাঝে আসে বসন্ত ও শরৎ। উত্তর গোলার্ধে যে ঋতু, দক্ষিণ গোলার্ধে তখন তার উল্টো।
+## points
+1. **লম্ব ও তির্যক রশ্মি:** লম্ব রশ্মি কম বায়ুস্তর ভেদ করে আসে এবং অল্প জায়গাকে বেশি উত্তপ্ত করে। তির্যক রশ্মি বেশি বায়ুস্তর ভেদ করে আসে এবং বেশি জায়গায় ছড়িয়ে পড়ে, তাই কম উত্তপ্ত করে।
+2. **দিনের দৈর্ঘ্য:** যেখানে দিন রাতের চেয়ে বড়, সেখানে ভূপৃষ্ঠ ও বায়ু বেশি সময় ধরে তাপ পায় এবং বেশি উষ্ণ হয়।
+3. **২১শে জুন:** রশ্মি কর্কটক্রান্তিতে লম্ব; উত্তর গোলার্ধে দীর্ঘতম দিন। এ তারিখের দেড় মাস আগে থেকে দেড় মাস পর পর্যন্ত মোট তিন মাস উত্তর গোলার্ধে গ্রীষ্মকাল। তির্যক রশ্মি ও ছোট দিনের কারণে দক্ষিণ গোলার্ধে তখন শীতকাল।
+4. **২৩শে সেপ্টেম্বর:** রশ্মি নিরক্ষরেখায় লম্ব; দিন-রাত সমান। এর দেড় মাস আগে ও পরে তাপমাত্রা মধ্যম ধরনের: উত্তর গোলার্ধে শরৎকাল, দক্ষিণ গোলার্ধে বসন্তকাল।
+5. **২২শে ডিসেম্বর:** রশ্মি মকরক্রান্তিতে লম্ব। এর দেড় মাস আগে ও পরে উত্তর গোলার্ধে শীতকাল, দক্ষিণ গোলার্ধে গ্রীষ্মকাল।
+6. **২১শে মার্চ:** রশ্মি আবার নিরক্ষরেখায় লম্ব। এর দেড় মাস আগে ও পরে উত্তর গোলার্ধে বসন্তকাল, দক্ষিণ গোলার্ধে শরৎকাল।
+7. **কারণগুলো একসাথে:** বার্ষিক গতি; অক্ষের সবসময় কক্ষতলের সাথে ৬৬.৫° কোণে হেলে থাকা; দিন-রাত্রির হ্রাস-বৃদ্ধি; এবং রশ্মির লম্ব বা তির্যকভাবে পড়া।
+8. **বাংলাদেশ:** দেশটি উত্তর গোলার্ধে, আর এর মাঝামাঝি দিয়ে কর্কটক্রান্তি রেখা গেছে; তাই বাংলাদেশের ঋতু উত্তর গোলার্ধের নিয়মেই বদলায়।
+
+| তারিখ | উত্তর গোলার্ধ | দক্ষিণ গোলার্ধ |
+| ২১শে জুন | গ্রীষ্মকাল | শীতকাল |
+| ২৩শে সেপ্টেম্বর | শরৎকাল | বসন্তকাল |
+| ২২শে ডিসেম্বর | শীতকাল | গ্রীষ্মকাল |
+| ২১শে মার্চ | বসন্তকাল | শরৎকাল |
+
+> তোমার পাঠ্যবইয়ে সূর্যের দূরত্ব কমা-বাড়াকেও একটি কারণ বলা হয়েছে। এর প্রভাব খুবই সামান্য। আসলে জানুয়ারির শুরুতে পৃথিবী সূর্যের সবচেয়ে কাছে থাকে, অথচ তখন আমাদের শীতকাল। ঋতু পরিবর্তনের আসল কারণ হেলানো অক্ষ। (বইয়ের ইংরেজি সংস্করণে বাংলাদেশের ওপরের রেখাটিকে ভুল করে "Tropic of Capricorn" ছাপা হয়েছে; সেটি কর্কটক্রান্তি রেখা।)
+## definition
+**ঋতু পরিবর্তন:** বছরের বিভিন্ন সময়ে পৃথিবীতে তাপমাত্রার পার্থক্য বা পরিবর্তন।
+## why
+দুই গোলার্ধে ঋতু উল্টো হয় কেন? অক্ষ একটি নির্দিষ্ট দিকে হেলে আছে। উত্তর মেরু সূর্যের দিকে ঝুঁকলে দক্ষিণ মেরু অবশ্যই উল্টো দিকে সরে যায়। তাই উত্তরে যখন লম্ব রশ্মি ও বড় দিন, দক্ষিণে তখন তির্যক রশ্মি ও ছোট দিন; ছয় মাস পর দুই গোলার্ধ জায়গা বদল করে।
+## matters
+- কৃষক কখন কী বুনবেন ও কাটবেন, তা ঋতুই ঠিক করে।
+- পোশাক, খাবার, উৎসব, এমনকি স্কুলের ছুটির সূচিও ঋতু মেনে চলে।
+- দক্ষিণ গোলার্ধে ঋতু উল্টো, এটি জানলে অস্ট্রেলিয়ার মতো দেশের আবহাওয়া বোঝা সহজ হয়।
+## terms
+লম্ব রশ্মি (Vertical rays) | যে রশ্মি খাড়াভাবে, ৯০° কোণে পড়ে
+তির্যক রশ্মি (Slanting rays) | যে রশ্মি হেলে পড়ে এবং বেশি জায়গায় ছড়িয়ে যায়
+উত্তরায়ণ (Northward journey of the Sun) | যে সময়ে লম্ব রশ্মি উত্তর দিকে সরে; শেষ হয় ২১শে জুন
+দক্ষিণায়ন (Southward journey of the Sun) | যে সময়ে লম্ব রশ্মি দক্ষিণ দিকে সরে; শেষ হয় ২২শে ডিসেম্বর
+## facts
+উত্তর গোলার্ধে গ্রীষ্মকাল | ২১শে জুনের দেড় মাস আগে থেকে দেড় মাস পর পর্যন্ত
+উত্তর গোলার্ধে শীতকাল | ২২শে ডিসেম্বরের দেড় মাস আগে থেকে দেড় মাস পর পর্যন্ত
+অক্ষের হেলানো অবস্থা | কক্ষতলের সাথে ৬৬.৫°
+বাংলাদেশের মাঝ দিয়ে যাওয়া রেখা | কর্কটক্রান্তি রেখা (২৩.৫° উত্তর)
+উত্তরে যখন গ্রীষ্মকাল | দক্ষিণে তখন শীতকাল
+## mistakes
+x পৃথিবী সূর্যের সবচেয়ে কাছে থাকলে গ্রীষ্মকাল, সবচেয়ে দূরে থাকলে শীতকাল।
+v পৃথিবী সূর্যের সবচেয়ে কাছে থাকে জানুয়ারির শুরুতে, যখন উত্তর গোলার্ধে শীতকাল। ঋতু হয় অক্ষ হেলে থাকার কারণে, দূরত্বের কারণে নয়।
+x বাংলাদেশে শীতকাল হলে সারা পৃথিবীতেই শীতকাল।
+v তখন দক্ষিণ গোলার্ধে গ্রীষ্মকাল।
+## remember
+- ঋতু পরিবর্তন = বছরজুড়ে তাপমাত্রার পরিবর্তন।
+- লম্ব রশ্মি ও বড় দিন মানে গ্রীষ্ম; তির্যক রশ্মি ও ছোট দিন মানে শীত।
+- উত্তর গোলার্ধে গ্রীষ্ম ২১শে জুনের আশপাশে; শীত ২২শে ডিসেম্বরের, বসন্ত ২১শে মার্চের, শরৎ ২৩শে সেপ্টেম্বরের আশপাশে।
+- দক্ষিণ গোলার্ধে সবসময় উল্টো ঋতু।
+- মূল কারণ: ৬৬.৫° কোণে হেলানো অক্ষ নিয়ে পৃথিবীর বার্ষিক গতি।
+## think
+অস্ট্রেলিয়ার সিডনিতে থাকা তোমার এক আত্মীয় ডিসেম্বরে স্কুলের লম্বা ছুটি পায় আর সমুদ্রসৈকতে বেড়াতে যায়। সেখানে ডিসেম্বর কেন সৈকতে যাওয়ার সময়, ব্যাখ্যা করো।
+## quiz
+? তির্যক সূর্যরশ্মি লম্ব রশ্মির চেয়ে ভূপৃষ্ঠকে কম উত্তপ্ত করে, কারণ এই রশ্মি
+- ধীরে চলে
+* বেশি জায়গায় ছড়িয়ে পড়ে এবং বেশি বায়ুস্তর ভেদ করে আসে
+- সূর্যের ঠান্ডা অংশ থেকে আসে
+- শুধু রাতে পৃথিবীতে পৌঁছায়
+= একই তাপ বেশি জায়গায় ছড়িয়ে যায়, আর মোটা বায়ুস্তরে তার বেশি অংশ হারিয়ে যায়।
+? উত্তর গোলার্ধে যখন গ্রীষ্মকাল, দক্ষিণ গোলার্ধে তখন
+- গ্রীষ্মকাল
+- বসন্তকাল
+* শীতকাল
+- শরৎকাল
+= দুই গোলার্ধ বিপরীত দিকে হেলে থাকে, তাই ঋতুও বিপরীত।
+? ঋতু পরিবর্তনের মূল কারণ
+- পৃথিবীর আহ্নিক গতি
+- চাঁদের আকর্ষণ
+- সূর্যের দূরত্ব কমা-বাড়া
+* হেলানো অক্ষ নিয়ে পৃথিবীর বার্ষিক গতি
+= অক্ষ হেলে থাকায় বছরের বিভিন্ন সময়ে রশ্মি লম্ব বা তির্যকভাবে পড়ে এবং দিন ছোট-বড় হয়।
+
+@@ 3.4.1
+@visual g3tide
+@related 3.4.2 3.4.3 3.3.1
+== en
+## what
+Every day the water of the sea swells and rises for some time, and then falls back. The regular rise is the **high tide** (flow) and the regular fall is the **low tide** (ebb). They are caused mainly by the pull of the Moon and the Sun on the turning Earth.
+## visual
+Move the Moon round the Earth with the slider. Watch the two bulges of water follow it: one facing the Moon and one on the opposite side.
+## simple
+Stand on a beach at Cox's Bazar for a whole day and you will see the sea creep up the sand, then draw back, then come up again. Nobody is pouring water in or out. The water of the ocean is simply being pulled into a slightly stretched shape, and the Earth is turning underneath that shape.
+
+The Moon does most of the pulling because it is so near. It draws the water on the near side of the Earth towards itself, and a second bulge forms on the far side. Between the two bulges the water is drawn away and the level is low. As the Earth spins, each coast passes through bulge, dip, bulge, dip: two high tides and two low tides in a little more than a day.
+## points
+1. **High tide and low tide:** the regular swelling of sea water is high tide; its going down is low tide.
+2. **How often:** the sea rises and falls once in about twelve and a half hours. A low tide follows a high tide after about 6 hours 13 minutes.
+3. **How high:** in the open ocean the water rises and falls only about 1 to 3 feet. Near the coast the sea is shallow, so the rise and fall is much greater. Tides are also felt for several kilometres up rivers from their mouths.
+4. **Two causes:** (a) the gravitational pull of the Moon and the Sun on the Earth, and (b) the centrifugal force produced by the Earth's rotation.
+5. **Gravitation:** every object pulls every other object. A bigger body pulls more, but the pull becomes weaker as distance increases.
+6. **Why the Moon wins:** the Sun is enormously bigger than the Moon, but it is also very much farther away. So the tide-raising effect of the Moon on the Earth is about twice that of the Sun.
+7. **Centrifugal force:** because the Earth spins quickly, the light, liquid water on its surface tends to be thrown outwards. This also helps to make tides.
+8. **Direct (primary) high tide:** the part of the Earth nearest the Moon is pulled most. Water gathers from the surrounding places and swells just below the Moon.
+9. **Indirect (secondary) high tide:** on the opposite side, the solid Earth is pulled towards the Moon more than the water there is. The water is left bulging outwards, and a second high tide forms.
+10. **Low tide:** water moves away from the places midway between the two high tides, so the level there falls.
+
+> A note for curious minds: the Sun's total pull on the Earth is actually far stronger than the Moon's; that is why we orbit the Sun. Tides, however, depend on how much the pull *differs* between the near and far sides of the Earth, and for that the nearby Moon counts about twice as much as the Sun.
+## definition
+**High tide (flow):** the regular swelling and rise of sea water.
+
+**Low tide (ebb):** the regular fall of sea water.
+
+**Direct high tide:** the high tide on the side of the Earth facing the Moon.
+
+**Indirect high tide:** the high tide formed at the same time on the opposite side of the Earth.
+## matters
+- For a country of rivers and a long coast like Bangladesh, the tide decides when boats and ships can move.
+- Fishing, salt making and life on the coastal chars all follow the timetable of the tides.
+- Understanding the cause lets us predict the time of every tide in advance.
+## terms
+Gravitation (মহাকর্ষ) | The pull between any two bodies in the universe
+Gravity (মাধ্যাকর্ষণ / অভিকর্ষ) | The pull of the Earth on a body
+Centrifugal force (কেন্দ্রাতিগ শক্তি) | The tendency of things on a spinning body to be thrown outwards
+Estuary (মোহনা) | The mouth of a river, where it meets the sea
+## facts
+High tide to the next low tide | about 6 hours 13 minutes
+One full rise and fall | about twelve and a half hours
+Rise and fall in mid-ocean | about 1 to 3 feet
+Moon's tide-raising effect | about twice the Sun's
+Main causes | pull of the Moon and the Sun; centrifugal force of the rotating Earth
+## mistakes
+x There is only one high tide at a time, on the side of the Earth facing the Moon.
+v There are two at the same time: one facing the Moon and one on the opposite side.
+x The Sun raises bigger tides than the Moon because it is bigger.
+v The Sun is far too distant. The Moon's effect on the tides is about twice the Sun's.
+## remember
+- High tide = regular rise of sea water; low tide = regular fall.
+- Causes: the pull of the Moon and the Sun, and the centrifugal force of the turning Earth.
+- The Moon's effect is about twice the Sun's because it is much nearer.
+- Direct high tide faces the Moon; indirect high tide is on the opposite side; low tide lies between them.
+- A low tide follows a high tide after about 6 hours 13 minutes.
+## think
+If the Earth had no Moon, would there still be tides? What would be different about them?
+## quiz
+? The regular fall of sea water is called
+- high tide
+- flow
+* low tide
+- tidal bore
+= The rise is high tide (flow); the fall is low tide (ebb).
+? The Moon has more effect on tides than the Sun because the Moon is
+- bigger than the Sun
+* much nearer to the Earth
+- hotter than the Sun
+- made of water
+= The pull weakens with distance, and the Sun is very far away, so the nearby Moon has about twice the effect.
+? A high tide that forms on the side of the Earth opposite the Moon is called
+- direct high tide
+- spring tide
+- neap tide
+* indirect high tide
+= The tide facing the Moon is the direct tide; the one on the far side is the indirect tide.
+== bn
+## what
+প্রতিদিন কিছু সময়ের জন্য সমুদ্রের পানি ফুলে ওঠে, আবার কিছু সময় পর নেমে যায়। পানির এই নিয়মিত ফুলে ওঠাকে **জোয়ার** আর নেমে যাওয়াকে **ভাটা** বলে। ঘুরতে থাকা পৃথিবীর ওপর চাঁদ ও সূর্যের আকর্ষণই এর মূল কারণ।
+## visual
+স্লাইডার দিয়ে চাঁদকে পৃথিবীর চারদিকে ঘোরাও। দেখো পানির দুটি স্ফীতি কীভাবে চাঁদকে অনুসরণ করে: একটি চাঁদের দিকে, আরেকটি ঠিক উল্টো পাশে।
+## simple
+কক্সবাজারের সৈকতে পুরো একটা দিন দাঁড়িয়ে থাকলে দেখবে সমুদ্র বালুর ওপর এগিয়ে আসছে, পরে সরে যাচ্ছে, আবার এগিয়ে আসছে। কেউ পানি ঢালছে বা তুলে নিচ্ছে না। মহাসাগরের পানি আকর্ষণের টানে সামান্য লম্বাটে আকার নেয়, আর পৃথিবী সেই আকারের নিচ দিয়ে ঘুরতে থাকে।
+
+বেশির ভাগ টান চাঁদের, কারণ সে খুব কাছে। চাঁদ পৃথিবীর কাছের পাশের পানিকে নিজের দিকে টানে, আর উল্টো পাশে দ্বিতীয় আরেকটি স্ফীতি তৈরি হয়। দুই স্ফীতির মাঝের জায়গা থেকে পানি সরে যায়, সেখানে পানি নিচু। পৃথিবী ঘোরে বলে প্রতিটি উপকূল পালা করে স্ফীতি, নিচু, স্ফীতি, নিচু পার হয়: এক দিনের কিছু বেশি সময়ে দুবার জোয়ার, দুবার ভাটা।
+## points
+1. **জোয়ার ও ভাটা:** সমুদ্রের পানির নিয়মিত ফুলে ওঠা জোয়ার; নেমে যাওয়া ভাটা।
+2. **কত ঘন ঘন:** প্রায় সাড়ে বারো ঘণ্টায় সমুদ্রের পানি একবার ওঠানামা করে। জোয়ারের প্রায় ৬ ঘণ্টা ১৩ মিনিট পর ভাটা হয়।
+3. **কতটা উঁচু:** সমুদ্রের মধ্যভাগে পানি মাত্র ১ থেকে ৩ ফুট উঁচু-নিচু হয়। উপকূলের কাছে সমুদ্রের গভীরতা কম বলে সেখানে পানি অনেক বেশি ওঠানামা করে। মোহনা থেকে নদীর গতিপথে কয়েক কিলোমিটার পর্যন্ত জোয়ার-ভাটা টের পাওয়া যায়।
+4. **দুটি কারণ:** (ক) পৃথিবীর ওপর চাঁদ ও সূর্যের মহাকর্ষ শক্তির প্রভাব, (খ) পৃথিবীর আবর্তনের ফলে সৃষ্ট কেন্দ্রাতিগ শক্তি।
+5. **মহাকর্ষ:** প্রতিটি বস্তু অন্য বস্তুকে আকর্ষণ করে। বস্তু যত বড়, আকর্ষণ তত বেশি; কিন্তু দূরত্ব বাড়লে আকর্ষণ কমে যায়।
+6. **চাঁদের প্রভাব বেশি কেন:** সূর্য চাঁদের চেয়ে বহু গুণ বড়, তবে অনেক অনেক বেশি দূরে। তাই জোয়ার সৃষ্টিতে পৃথিবীর ওপর চাঁদের প্রভাব সূর্যের প্রায় দ্বিগুণ।
+7. **কেন্দ্রাতিগ শক্তি:** পৃথিবী দ্রুত ঘোরে বলে তার পিঠের হালকা, তরল পানি বাইরের দিকে ছিটকে যেতে চায়। এটিও জোয়ার-ভাটা সৃষ্টিতে সাহায্য করে।
+8. **মুখ্য (প্রত্যক্ষ) জোয়ার:** পৃথিবীর যে অংশ চাঁদের সবচেয়ে কাছে, সেখানে আকর্ষণ সবচেয়ে বেশি। আশপাশ থেকে পানি এসে ঠিক চাঁদের নিচে ফুলে ওঠে।
+9. **গৌণ (পরোক্ষ) জোয়ার:** বিপরীত পাশে পানির চেয়ে কঠিন ভূভাগ চাঁদের দিকে বেশি আকৃষ্ট হয়। ফলে সেখানকার পানি বাইরের দিকে ফুলে থাকে, আরেকটি জোয়ার হয়।
+10. **ভাটা:** দুই জোয়ারের মাঝামাঝি স্থানগুলো থেকে পানি সরে যায়, তাই সেখানে পানি নেমে যায়।
+
+> কৌতূহলীদের জন্য: পৃথিবীর ওপর সূর্যের মোট আকর্ষণ আসলে চাঁদের চেয়ে অনেক বেশি; সে কারণেই আমরা সূর্যকে ঘিরে ঘুরি। কিন্তু জোয়ার নির্ভর করে পৃথিবীর কাছের ও দূরের পাশে আকর্ষণের *পার্থক্য* কতটা, তার ওপর। এই হিসাবে কাছের চাঁদের প্রভাব সূর্যের প্রায় দ্বিগুণ।
+## definition
+**জোয়ার:** সমুদ্রের পানির নিয়মিতভাবে ফুলে ওঠা।
+
+**ভাটা:** সমুদ্রের পানির নিয়মিতভাবে নেমে যাওয়া।
+
+**মুখ্য জোয়ার:** পৃথিবীর যে পাশ চাঁদের দিকে, সেখানকার জোয়ার।
+
+**গৌণ জোয়ার:** একই সময়ে পৃথিবীর বিপরীত পাশে যে জোয়ার হয়।
+## matters
+- বাংলাদেশের মতো নদীমাতৃক ও দীর্ঘ উপকূলের দেশে নৌকা ও জাহাজ কখন চলবে, তা জোয়ার-ভাটাই ঠিক করে।
+- মাছ ধরা, লবণ তৈরি ও উপকূলের চরের জীবন জোয়ার-ভাটার সময়সূচি মেনে চলে।
+- কারণ জানা থাকলে প্রতিটি জোয়ারের সময় আগে থেকেই হিসাব করা যায়।
+## terms
+মহাকর্ষ (Gravitation) | মহাবিশ্বের যেকোনো দুটি বস্তুর মধ্যকার আকর্ষণ
+মাধ্যাকর্ষণ / অভিকর্ষ (Gravity) | কোনো বস্তুর ওপর পৃথিবীর আকর্ষণ
+কেন্দ্রাতিগ শক্তি (Centrifugal force) | ঘুরন্ত বস্তুর ওপরের জিনিসের বাইরের দিকে ছিটকে যাওয়ার প্রবণতা
+মোহনা (Estuary) | নদী যেখানে সমুদ্রে মেশে
+## facts
+জোয়ার থেকে পরের ভাটা | প্রায় ৬ ঘণ্টা ১৩ মিনিট
+একবার পুরো ওঠানামা | প্রায় সাড়ে বারো ঘণ্টা
+মাঝসমুদ্রে পানির ওঠানামা | প্রায় ১ থেকে ৩ ফুট
+জোয়ার সৃষ্টিতে চাঁদের প্রভাব | সূর্যের প্রায় দ্বিগুণ
+মূল কারণ | চাঁদ ও সূর্যের আকর্ষণ; ঘুরন্ত পৃথিবীর কেন্দ্রাতিগ শক্তি
+## mistakes
+x একসাথে একটিই জোয়ার হয়, পৃথিবীর যে পাশ চাঁদের দিকে সেখানে।
+v একসাথে দুটি জোয়ার হয়: একটি চাঁদের দিকে, আরেকটি ঠিক উল্টো পাশে।
+x সূর্য বড় বলে সূর্যের জোয়ার চাঁদের জোয়ারের চেয়ে বড়।
+v সূর্য অনেক বেশি দূরে। জোয়ারের ওপর চাঁদের প্রভাব সূর্যের প্রায় দ্বিগুণ।
+## remember
+- জোয়ার = সমুদ্রের পানির নিয়মিত ফুলে ওঠা; ভাটা = নিয়মিত নেমে যাওয়া।
+- কারণ: চাঁদ ও সূর্যের আকর্ষণ এবং ঘুরন্ত পৃথিবীর কেন্দ্রাতিগ শক্তি।
+- চাঁদ অনেক কাছে বলে তার প্রভাব সূর্যের প্রায় দ্বিগুণ।
+- মুখ্য জোয়ার চাঁদের দিকে; গৌণ জোয়ার উল্টো পাশে; মাঝে ভাটা।
+- জোয়ারের প্রায় ৬ ঘণ্টা ১৩ মিনিট পর ভাটা হয়।
+## think
+পৃথিবীর যদি চাঁদ না থাকত, তবু কি জোয়ার-ভাটা হতো? হলে কী রকম আলাদা হতো?
+## quiz
+? সমুদ্রের পানির নিয়মিত নেমে যাওয়াকে বলে
+- জোয়ার
+- স্রোত
+* ভাটা
+- বান
+= পানি ফুলে ওঠা জোয়ার, নেমে যাওয়া ভাটা।
+? জোয়ার-ভাটায় সূর্যের চেয়ে চাঁদের প্রভাব বেশি, কারণ চাঁদ
+- সূর্যের চেয়ে বড়
+* পৃথিবীর অনেক কাছে
+- সূর্যের চেয়ে উত্তপ্ত
+- পানি দিয়ে তৈরি
+= দূরত্ব বাড়লে আকর্ষণ কমে; সূর্য অনেক দূরে, তাই কাছের চাঁদের প্রভাব প্রায় দ্বিগুণ।
+? পৃথিবীর যে পাশ চাঁদের বিপরীতে, সেখানে যে জোয়ার হয় তাকে বলে
+- মুখ্য জোয়ার
+- ভরা কটাল
+- মরা কটাল
+* গৌণ জোয়ার
+= চাঁদের দিকের জোয়ার মুখ্য জোয়ার; উল্টো পাশের জোয়ার গৌণ জোয়ার।
+
+@@ 3.4.2
+@visual g3spring
+@related 3.4.1 3.4.3 3.3.1
+== en
+## what
+Tides are not equally strong every day. At new moon and full moon they are very strong: these are **spring tides**. About a week later they are weak: these are **neap tides**. The time of the tide also shifts later by 52 minutes each day.
+## visual
+Step through one lunar month: new moon, the eighth day, full moon, the eighth day again. See when the Sun and the Moon pull in one line and when they pull at right angles.
+## simple
+Two people pulling a rope in the same line move a heavy box easily. If one of them pulls sideways instead, the box hardly moves. The Sun and the Moon act on the sea in the same way.
+
+At new moon and at full moon the Sun, the Earth and the Moon stand in one straight line. The two pulls work together and the high tide is unusually high. Around the seventh and eighth days of the lunar fortnight the Sun and the Moon are at right angles as seen from the Earth. The Moon still raises a tide, but the Sun pulls the water another way, so the tide is weak.
+## points
+1. **Four kinds of tide:** direct high tide, indirect high tide, spring tide and neap tide.
+2. **New moon:** the Moon and the Sun are on the same side of the Earth, in one line.
+3. **Full moon:** the Moon is on one side of the Earth and the Sun on the other, again in one line.
+4. **Spring tide:** on these two days the combined pull of the Sun and the Moon makes a very strong tide.
+5. **Seventh and eighth days:** the Sun and the Moon are at right angles to the Earth. The Moon raises a tide towards itself, but the Sun's pull keeps it from becoming strong. This weak tide is the neap tide.
+6. **How many in a month:** two spring tides and two neap tides.
+7. **The Moon moves on:** the Moon goes round the Earth from west to east in about 27 days. So in one day it moves ahead by 360° ÷ 27, about 13°.
+8. **52 minutes later:** the Earth needs 4 minutes to turn 1°, so it needs 13 × 4 = 52 minutes more to bring the same place under the Moon again. A direct high tide returns to a place after 24 hours 52 minutes.
+9. **The timetable at one place:** direct high tide; low tide 6 hours 13 minutes later; indirect high tide 12 hours 26 minutes after the first; and the next direct high tide after 24 hours 52 minutes.
+
+> The English edition of the textbook prints "12 hours 56 minutes" for the gap between the direct and the indirect high tide. It is a misprint: half of 24 hours 52 minutes is 12 hours 26 minutes, as in the Bangla edition.
+## definition
+**Spring tide:** the very strong tide at new moon and full moon, when the Sun, the Earth and the Moon are in one line and the pulls of the Sun and the Moon add together.
+
+**Neap tide:** the weak tide around the seventh and eighth lunar days, when the Sun and the Moon are at right angles to the Earth.
+## formula
+$$ Daily delay of the tide = 13° × 4 minutes = 52 minutes
+$$ Direct high tide to direct high tide = 24 hours 52 minutes
+! Indirect high tide comes at half of that: 12 hours 26 minutes after the direct one.
+! Low tide comes at a quarter of that: 6 hours 13 minutes after a high tide.
+## matters
+- Port workers and fishermen can work out tomorrow's tide from today's: it is 52 minutes later.
+- The highest water and the strongest tidal bores come with spring tides, so the coast must be most careful then.
+- If a cyclone arrives at the time of a spring high tide, the water rises even higher.
+## terms
+New moon (অমাবস্যা) | The lunar day when the Moon is between the Earth and the Sun
+Full moon (পূর্ণিমা) | The lunar day when the Earth is between the Sun and the Moon
+Lunar day (তিথি) | A day counted by the phase of the Moon
+Spring tide (তেজ কটাল / ভরা কটাল) | The strongest tide, at new and full moon
+Neap tide (মরা কটাল) | The weakest tide, around the eighth lunar day
+## facts
+Spring tides in a month | 2 (new moon and full moon)
+Neap tides in a month | 2 (around the seventh and eighth lunar days)
+Moon's journey round the Earth | about 27 days
+Moon's advance in one day | about 13°
+Direct high tide to the next direct high tide | 24 hours 52 minutes
+Direct to indirect high tide | 12 hours 26 minutes
+High tide to low tide | 6 hours 13 minutes
+## example
+Q: At a port, a direct high tide occurs at 6:00 in the morning. Find the time of (a) the next low tide, (b) the indirect high tide and (c) the direct high tide of the next day.
+Given: Direct high tide at 6:00 a.m.
+Formula: low tide = high tide + 6 h 13 min; indirect high tide = direct + 12 h 26 min; next direct = direct + 24 h 52 min
+Calculation: (a) 6:00 a.m. + 6 h 13 min = 12:13 p.m.
+(b) 6:00 a.m. + 12 h 26 min = 6:26 p.m.
+(c) 6:00 a.m. + 24 h 52 min = 6:52 a.m. the next day
+> Each step adds another 6 hours 13 minutes: high, low, high, low, high.
+Answer: (a) 12:13 p.m. (b) 6:26 p.m. (c) 6:52 a.m. the next day
+## mistakes
+x A spring tide comes only in the spring season.
+v It has nothing to do with the season. It comes twice every month, at new moon and at full moon.
+x At full moon the Sun and the Moon are on opposite sides, so their pulls cancel and the tide is weak.
+v They are still in one line with the Earth, and both stretch the water along that same line, so the tide is strong.
+## remember
+- New moon and full moon: Sun, Earth and Moon in a line → spring tide (very strong).
+- Seventh and eighth lunar days: Sun and Moon at right angles → neap tide (weak).
+- Two spring tides and two neap tides every month.
+- The Moon moves about 13° a day, so each tide is 52 minutes later than the day before.
+- High tide → low tide: 6 h 13 min; direct → indirect: 12 h 26 min; direct → direct: 24 h 52 min.
+## think
+A fisherman sees a very high tide on the night of the full moon. About how many days later should he expect the next very high tide, and what will the Moon look like then?
+## quiz
+? A spring tide occurs at
+- the eighth lunar day only
+* new moon and full moon
+- full moon only
+- every high tide
+= At both new moon and full moon the Sun, the Earth and the Moon are in one line and the pulls add up.
+? During a neap tide the Sun and the Moon are
+- in one line on the same side of the Earth
+- in one line on opposite sides of the Earth
+* at right angles to the Earth
+- both below the horizon
+= At right angles the Sun's pull works against the Moon's tide, so the tide is weak.
+? If a direct high tide occurs at a place at 8:00 a.m. today, the direct high tide tomorrow will be at
+* 8:52 a.m.
+- 8:00 a.m.
+- 7:08 a.m.
+- 8:26 p.m.
+= The Moon has moved on about 13°, and the Earth needs 13 × 4 = 52 minutes more to catch up.
+== bn
+## what
+জোয়ার প্রতিদিন সমান প্রবল হয় না। অমাবস্যা ও পূর্ণিমায় জোয়ার খুব প্রবল হয়: একে **তেজ কটাল বা ভরা কটাল** বলে। তার প্রায় এক সপ্তাহ পর জোয়ার দুর্বল হয়: একে **মরা কটাল** বলে। জোয়ারের সময়ও প্রতিদিন ৫২ মিনিট করে পিছিয়ে যায়।
+## visual
+একটি চান্দ্রমাস ধাপে ধাপে দেখো: অমাবস্যা, অষ্টমী, পূর্ণিমা, আবার অষ্টমী। খেয়াল করো কখন সূর্য ও চাঁদ একই সরলরেখায় টানে আর কখন সমকোণে টানে।
+## simple
+দুজন মানুষ একই লাইনে দড়ি টানলে ভারী বাক্স সহজে সরে। একজন যদি আড়াআড়ি টানে, বাক্স প্রায় নড়েই না। সমুদ্রের পানির ওপর সূর্য ও চাঁদ ঠিক এভাবেই কাজ করে।
+
+অমাবস্যা ও পূর্ণিমায় সূর্য, পৃথিবী ও চাঁদ এক সরলরেখায় থাকে। দুটি আকর্ষণ একসাথে কাজ করে, ফলে জোয়ার অস্বাভাবিক উঁচু হয়। সপ্তমী ও অষ্টমী তিথির দিকে পৃথিবী থেকে দেখলে সূর্য ও চাঁদ সমকোণে থাকে। চাঁদ তখনও জোয়ার তোলে, কিন্তু সূর্য পানিকে অন্য দিকে টানে; তাই জোয়ার দুর্বল হয়।
+## points
+1. **চার শ্রেণির জোয়ার:** মুখ্য জোয়ার, গৌণ জোয়ার, ভরা কটাল ও মরা কটাল।
+2. **অমাবস্যা:** চাঁদ ও সূর্য পৃথিবীর একই পাশে, একই সরলরেখায়।
+3. **পূর্ণিমা:** পৃথিবীর এক পাশে চাঁদ, অন্য পাশে সূর্য; আবারও একই সরলরেখায়।
+4. **ভরা কটাল (তেজ কটাল):** এই দুই তিথিতে সূর্য ও চাঁদের মিলিত আকর্ষণে যে প্রবল জোয়ার হয়।
+5. **সপ্তমী ও অষ্টমী তিথি:** সূর্য ও চাঁদ পৃথিবীর সাথে সমকোণে থাকে। চাঁদের দিকে জোয়ার হয়, কিন্তু সূর্যের আকর্ষণের কারণে তা প্রবল হতে পারে না। এই দুর্বল জোয়ারই মরা কটাল।
+6. **মাসে কতবার:** দুবার ভরা কটাল ও দুবার মরা কটাল।
+7. **চাঁদ এগিয়ে যায়:** চাঁদ প্রায় ২৭ দিনে পশ্চিম থেকে পূর্বে পৃথিবীকে একবার ঘুরে আসে। তাই এক দিনে চাঁদ এগোয় ৩৬০° ÷ ২৭, অর্থাৎ প্রায় ১৩°।
+8. **৫২ মিনিট দেরি:** ১° ঘুরতে পৃথিবীর ৪ মিনিট লাগে; তাই একই স্থানকে আবার চাঁদের নিচে আনতে পৃথিবীর আরও ১৩ × ৪ = ৫২ মিনিট লাগে। কোনো স্থানে মুখ্য জোয়ার ফিরে আসে ২৪ ঘণ্টা ৫২ মিনিট পর।
+9. **একটি স্থানের সময়সূচি:** মুখ্য জোয়ার; তার ৬ ঘণ্টা ১৩ মিনিট পর ভাটা; প্রথমটির ১২ ঘণ্টা ২৬ মিনিট পর গৌণ জোয়ার; আর ২৪ ঘণ্টা ৫২ মিনিট পর আবার মুখ্য জোয়ার।
+
+> পাঠ্যবইয়ের ইংরেজি সংস্করণে মুখ্য ও গৌণ জোয়ারের ব্যবধান "১২ ঘণ্টা ৫৬ মিনিট" ছাপা হয়েছে। এটি ছাপার ভুল: ২৪ ঘণ্টা ৫২ মিনিটের অর্ধেক ১২ ঘণ্টা ২৬ মিনিট, বাংলা বইয়ে যেমন আছে।
+## definition
+**ভরা কটাল (তেজ কটাল):** অমাবস্যা ও পূর্ণিমা তিথিতে সূর্য, পৃথিবী ও চাঁদ সমসূত্রে থাকায় সূর্য ও চাঁদের মিলিত আকর্ষণে যে প্রবল জোয়ার হয়।
+
+**মরা কটাল:** সপ্তমী ও অষ্টমী তিথিতে সূর্য ও চাঁদ পৃথিবীর সাথে সমকোণে থাকায় যে দুর্বল জোয়ার হয়।
+## formula
+$$ জোয়ারের দৈনিক দেরি = ১৩° × ৪ মিনিট = ৫২ মিনিট
+$$ মুখ্য জোয়ার থেকে পরের মুখ্য জোয়ার = ২৪ ঘণ্টা ৫২ মিনিট
+! গৌণ জোয়ার হয় এর অর্ধেক সময়ে: মুখ্য জোয়ারের ১২ ঘণ্টা ২৬ মিনিট পর।
+! ভাটা হয় এর চার ভাগের এক ভাগ সময়ে: জোয়ারের ৬ ঘণ্টা ১৩ মিনিট পর।
+## matters
+- বন্দরের কর্মী ও জেলেরা আজকের জোয়ার থেকে আগামীকালের জোয়ারের সময় বের করতে পারেন: ৫২ মিনিট পরে।
+- সবচেয়ে উঁচু পানি ও সবচেয়ে প্রবল বান আসে ভরা কটালে; উপকূলে তখন সবচেয়ে বেশি সতর্ক থাকতে হয়।
+- ভরা কটালের জোয়ারের সময় ঘূর্ণিঝড় এলে পানি আরও বেশি উঁচু হয়ে ওঠে।
+## terms
+অমাবস্যা (New moon) | যে তিথিতে চাঁদ পৃথিবী ও সূর্যের মাঝখানে থাকে
+পূর্ণিমা (Full moon) | যে তিথিতে পৃথিবী সূর্য ও চাঁদের মাঝখানে থাকে
+তিথি (Lunar day) | চাঁদের কলা অনুযায়ী গোনা দিন
+তেজ কটাল / ভরা কটাল (Spring tide) | অমাবস্যা ও পূর্ণিমার সবচেয়ে প্রবল জোয়ার
+মরা কটাল (Neap tide) | অষ্টমী তিথির দিকের সবচেয়ে দুর্বল জোয়ার
+## facts
+মাসে ভরা কটাল | ২ বার (অমাবস্যা ও পূর্ণিমায়)
+মাসে মরা কটাল | ২ বার (সপ্তমী ও অষ্টমী তিথির দিকে)
+চাঁদের পৃথিবী প্রদক্ষিণ | প্রায় ২৭ দিন
+এক দিনে চাঁদ এগোয় | প্রায় ১৩°
+মুখ্য জোয়ার থেকে পরের মুখ্য জোয়ার | ২৪ ঘণ্টা ৫২ মিনিট
+মুখ্য থেকে গৌণ জোয়ার | ১২ ঘণ্টা ২৬ মিনিট
+জোয়ার থেকে ভাটা | ৬ ঘণ্টা ১৩ মিনিট
+## example
+Q: একটি বন্দরে সকাল ৬টায় মুখ্য জোয়ার হলো। (ক) পরের ভাটা, (খ) গৌণ জোয়ার এবং (গ) পরের দিনের মুখ্য জোয়ার কখন হবে?
+Given: মুখ্য জোয়ার সকাল ৬:০০টায়
+Formula: ভাটা = জোয়ার + ৬ ঘ ১৩ মি; গৌণ জোয়ার = মুখ্য + ১২ ঘ ২৬ মি; পরের মুখ্য = মুখ্য + ২৪ ঘ ৫২ মি
+Calculation: (ক) সকাল ৬:০০ + ৬ ঘ ১৩ মি = দুপুর ১২:১৩
+(খ) সকাল ৬:০০ + ১২ ঘ ২৬ মি = সন্ধ্যা ৬:২৬
+(গ) সকাল ৬:০০ + ২৪ ঘ ৫২ মি = পরদিন সকাল ৬:৫২
+> প্রতিটি ধাপে আরও ৬ ঘণ্টা ১৩ মিনিট যোগ হয়: জোয়ার, ভাটা, জোয়ার, ভাটা, জোয়ার।
+Answer: (ক) দুপুর ১২:১৩ (খ) সন্ধ্যা ৬:২৬ (গ) পরদিন সকাল ৬:৫২
+## mistakes
+x ভরা কটাল শুধু ভরা বর্ষায় হয়।
+v এর সাথে ঋতুর সম্পর্ক নেই। প্রতি মাসে দুবার হয়: অমাবস্যায় ও পূর্ণিমায়।
+x পূর্ণিমায় সূর্য ও চাঁদ পৃথিবীর দুই বিপরীত পাশে থাকে, তাই টান কাটাকাটি হয়ে জোয়ার দুর্বল হয়।
+v তখনও তিনটি একই সরলরেখায় থাকে, আর দুটিই পানিকে সেই একই রেখা বরাবর টেনে লম্বা করে; তাই জোয়ার প্রবল হয়।
+## remember
+- অমাবস্যা ও পূর্ণিমা: সূর্য, পৃথিবী, চাঁদ সমসূত্রে → ভরা কটাল (খুব প্রবল)।
+- সপ্তমী ও অষ্টমী তিথি: সূর্য ও চাঁদ সমকোণে → মরা কটাল (দুর্বল)।
+- প্রতি মাসে দুবার ভরা কটাল, দুবার মরা কটাল।
+- চাঁদ দিনে প্রায় ১৩° এগোয়, তাই জোয়ার আগের দিনের চেয়ে ৫২ মিনিট পরে হয়।
+- জোয়ার → ভাটা: ৬ ঘ ১৩ মি; মুখ্য → গৌণ: ১২ ঘ ২৬ মি; মুখ্য → মুখ্য: ২৪ ঘ ৫২ মি।
+## think
+একজন জেলে পূর্ণিমার রাতে খুব উঁচু জোয়ার দেখলেন। প্রায় কত দিন পর তিনি আবার এমন উঁচু জোয়ার আশা করতে পারেন, আর তখন চাঁদ কেমন দেখাবে?
+## quiz
+? ভরা কটাল হয়
+- শুধু অষ্টমী তিথিতে
+* অমাবস্যা ও পূর্ণিমায়
+- শুধু পূর্ণিমায়
+- প্রতিটি জোয়ারে
+= অমাবস্যা ও পূর্ণিমা দুই তিথিতেই সূর্য, পৃথিবী ও চাঁদ সমসূত্রে থাকে এবং আকর্ষণ যোগ হয়।
+? মরা কটালের সময় সূর্য ও চাঁদ থাকে
+- পৃথিবীর একই পাশে এক সরলরেখায়
+- পৃথিবীর দুই পাশে এক সরলরেখায়
+* পৃথিবীর সাথে সমকোণে
+- দুটিই দিগন্তের নিচে
+= সমকোণে থাকলে সূর্যের আকর্ষণ চাঁদের জোয়ারের বিপরীতে কাজ করে, তাই জোয়ার দুর্বল হয়।
+? কোনো স্থানে আজ সকাল ৮:০০টায় মুখ্য জোয়ার হলে আগামীকাল মুখ্য জোয়ার হবে
+* সকাল ৮:৫২টায়
+- সকাল ৮:০০টায়
+- সকাল ৭:০৮টায়
+- রাত ৮:২৬টায়
+= চাঁদ প্রায় ১৩° এগিয়ে যায়; তাকে ধরতে পৃথিবীর আরও ১৩ × ৪ = ৫২ মিনিট লাগে।
+
+@@ 3.4.3
+@visual g3tidebd
+@related 3.4.1 3.4.2 5.1.5
+== en
+## what
+Tides affect the land, the water and the work of people. They keep river mouths clean and deep, help ships reach ports, give water for irrigation, salt and electricity, and sometimes bring a dangerous wall of water called a **tidal bore**.
+## visual
+Tap the red points on the map to see what the tide does at the two sea ports and how far up the Padma and the Meghna the tide of the Bay of Bengal is felt.
+## simple
+Think of the tide as the sea breathing in and out twice a day. Each breath pushes water up the rivers and then pulls it back out. That moving water does a lot of useful work without anyone paying for it: it sweeps the river clean, carries ships in and out, and can even turn a turbine.
+
+The same breath can also do harm. It brings salt water inland. And at spring tide, in a river with a narrow mouth, the incoming water can pile up into a steep wave that rushes upstream and overturns boats.
+## points
+1. **Clean rivers:** two tides a day wash the rubbish out of rivers and keep the water clear.
+2. **Open river mouths:** silt cannot settle at the mouth, so the mouth does not get blocked. The tidal current also deepens the river bed.
+3. **Irrigation:** canals are dug beside many rivers to hold the water of the high tide, and the land is irrigated with it.
+4. **Electricity:** in many rivers of the world the tidal current is used to produce electricity. The La Rance power station in France is the well-known example.
+5. **Rivers that stay open in cold countries:** the salt water brought in by the tide does not freeze easily, so rivers in cold countries stay fit for navigation.
+6. **Ships and ports:** at high tide the river is deeper, so big sea-going ships enter easily and go out again with the ebb. At Chattogram and Mongla, ships wait at anchor in the estuary for the tide.
+7. **How far inland:** the tide of the Bay of Bengal reaches up to near Goalanda on the Padma and near Bhairab Bazar on the Meghna.
+8. **Salt:** sea water is held in beds at high tide and dried to make salt.
+9. **Tidal bore:** at spring tide the sea water sometimes rushes through a river mouth as a strong wave. It may be 3 or 4 feet high or as much as about 40 feet.
+10. **Where bores are strong:** in rivers with a narrow mouth or a sand bar in front of it, such as the Meghna, the Bhagirathi and the Amazon. In Bangladesh strong bores are seen with the new-moon tide in the rainy season. The force lessens after the water enters the land.
+11. **Harm:** bores sometimes sink boats, steamers and ships and cause great loss of life and property.
+
+> The textbook also names a tidal power station at a port in India (printed as "Bandala"; the port of Kandla in Gujarat is meant). A tidal plant was planned there, but La Rance in France is the sure example to remember.
+## definition
+**Tidal bore:** a strong wave of sea water that rushes up a river through its mouth, usually at spring tide.
+## matters
+- Chattogram and Mongla, the country's main sea ports, work by the timetable of the tide.
+- Salt from the coast and fish from tidal rivers are part of our daily food.
+- Knowing when bores and very high tides come saves boats and lives.
+## terms
+Tidal bore (বান) | A strong wave of sea water rushing up a river
+Estuary (মোহনা) | The mouth of a river where it meets the sea
+Sand bar (বালির বাঁধ) | A ridge of sand lying across a river mouth
+Tidal power (জোয়ার-ভাটার বিদ্যুৎ) | Electricity produced from the tidal current
+## facts
+Tides in a day | two high tides and two low tides
+Tide felt on the Padma up to | near Goalanda
+Tide felt on the Meghna up to | near Bhairab Bazar
+Ports that depend on the tide | Chattogram and Mongla
+Height of a tidal bore | from 3 or 4 feet to about 40 feet
+Rivers with strong bores | Meghna, Bhagirathi, Amazon
+Tidal power station | La Rance, France
+## mistakes
+x Tides only cause harm, such as floods and salty water.
+v They also clean and deepen rivers, help ships, and give irrigation water, salt and electricity.
+x A tidal bore and a tsunami are the same thing.
+v A bore is made by the tide at a river mouth. A tsunami is made by an earthquake or eruption under the sea.
+## remember
+- Tides clean rivers, stop silt from blocking the mouths and deepen the river bed.
+- High-tide water is used for irrigation, salt making and tidal electricity (La Rance, France).
+- Big ships enter Chattogram and Mongla ports with the high tide and leave with the ebb.
+- The tide reaches near Goalanda on the Padma and near Bhairab Bazar on the Meghna.
+- A tidal bore is a strong tidal wave in a river, 3–4 feet to about 40 feet high; it can sink boats and ships.
+## think
+A large ship has reached the mouth of the Karnaphuli at low tide. Why does its captain drop anchor and wait instead of sailing straight to the jetty?
+## quiz
+? Why do big ships wait in the estuary before entering Chattogram port?
+- For the wind to change
+* For the high tide to make the river deeper
+- For the Sun to rise
+- For the low tide to clean the river
+= At high tide the depth of the river increases, so large ships can enter or leave.
+? On the Padma, the tide of the Bay of Bengal is felt up to near
+- Rajshahi
+- Chandpur
+- Bhairab Bazar
+* Goalanda
+= The tide reaches near Goalanda on the Padma and near Bhairab Bazar on the Meghna.
+? A tidal bore is strongest in a river that has
+- a very wide mouth
+- no connection with the sea
+* a narrow mouth or a sand bar in front of it
+- very cold water
+= A narrow mouth or a sand bar makes the incoming spring-tide water pile up into a steep wave.
+== bn
+## what
+জোয়ার-ভাটা স্থলভাগ, পানিরাশি ও মানুষের কাজকর্মের ওপর প্রভাব ফেলে। এটি নদীর মোহনা পরিষ্কার ও গভীর রাখে, জাহাজকে বন্দরে পৌঁছাতে সাহায্য করে, সেচের পানি, লবণ ও বিদ্যুৎ দেয়; আবার কখনো **বান** নামের বিপজ্জনক ঢেউও আনে।
+## visual
+মানচিত্রের লাল বিন্দুগুলোতে চাপ দিয়ে দেখো দুই সমুদ্রবন্দরে জোয়ার কী কাজে লাগে, আর বঙ্গোপসাগরের জোয়ার পদ্মা ও মেঘনায় কত দূর পর্যন্ত পৌঁছায়।
+## simple
+জোয়ার-ভাটাকে ভাবো সমুদ্রের দিনে দুবার শ্বাস নেওয়া আর ছাড়ার মতো। প্রতিটি শ্বাসে পানি নদীর ভেতরে ঢোকে, তারপর আবার বেরিয়ে যায়। এই চলন্ত পানি বিনা খরচে অনেক কাজ করে দেয়: নদী ধুয়ে পরিষ্কার করে, জাহাজকে ভেতরে আনে ও বাইরে নেয়, এমনকি টারবাইনও ঘোরাতে পারে।
+
+একই শ্বাস ক্ষতিও করতে পারে। এটি লবণাক্ত পানি দেশের ভেতরে নিয়ে আসে। আর ভরা কটালের সময় সরু মোহনার নদীতে ঢুকতে থাকা পানি জমে উঁচু, খাড়া ঢেউ হয়ে উজানে ছুটে যায় এবং নৌকা উল্টে দেয়।
+## points
+1. **নদী পরিষ্কার থাকে:** দিনে দুবার জোয়ার-ভাটায় নদীর আবর্জনা ধুয়ে যায়, পানি নির্মল হয়।
+2. **মোহনা খোলা থাকে:** মোহনায় পলি জমতে পারে না, তাই নদীর মুখ বন্ধ হয় না। জোয়ার-ভাটার স্রোতে নদীখাতও গভীর হয়।
+3. **সেচ:** অনেক নদীর পাশে খাল খনন করে জোয়ারের পানি আটকে রাখা হয় এবং তা দিয়ে জমিতে সেচ দেওয়া হয়।
+4. **বিদ্যুৎ:** পৃথিবীর বহু নদীতে জোয়ার-ভাটার স্রোত কাজে লাগিয়ে বিদ্যুৎ উৎপাদন করা হয়। ফ্রান্সের লা রঁস (লার‍্যান্স) বিদ্যুৎকেন্দ্র এর পরিচিত উদাহরণ।
+5. **শীতপ্রধান দেশের নদী:** জোয়ারের সাথে আসা সমুদ্রের লবণাক্ত পানি সহজে জমে বরফ হয় না, তাই শীতপ্রধান দেশে নদী চলাচলের উপযোগী থাকে।
+6. **জাহাজ ও বন্দর:** জোয়ারের সময় নদীর গভীরতা বাড়ে, তখন সমুদ্রগামী বড় জাহাজ সহজে নদীতে ঢোকে এবং ভাটার টানে আবার সমুদ্রে ফিরে যায়। চট্টগ্রাম ও মোংলায় জাহাজ জোয়ারের অপেক্ষায় মোহনায় নোঙর করে থাকে।
+7. **দেশের কত ভেতরে:** বঙ্গোপসাগরের জোয়ারের পানি পদ্মা নদীতে গোয়ালন্দের কাছে এবং মেঘনা নদীতে ভৈরব বাজারের কাছাকাছি পর্যন্ত পৌঁছায়।
+8. **লবণ:** জোয়ারের সময় সমুদ্রের পানি আটকে রেখে শুকিয়ে লবণ তৈরি করা হয়।
+9. **বান:** ভরা কটালের সময় সমুদ্রের পানি কখনো প্রবল ঢেউ হয়ে নদীর মোহনা দিয়ে ভেতরে ঢোকে। এর উচ্চতা ৩-৪ ফুট থেকে প্রায় ৪০ ফুট পর্যন্ত হতে পারে।
+10. **কোথায় প্রবল বান হয়:** যে নদীর মোহনা সংকীর্ণ বা মোহনার সামনে বালির বাঁধ আছে; যেমন মেঘনা, ভাগীরথী ও আমাজন। বাংলাদেশে বর্ষাকালে অমাবস্যার জোয়ারে প্রবল বান দেখা যায়। স্থলভাগে ঢোকার পর এর বেগ কমে যায়।
+11. **ক্ষতি:** বানে কখনো কখনো নৌকা, স্টিমার, জাহাজ ডুবে যায় এবং জানমালের ব্যাপক ক্ষতি হয়।
+
+> পাঠ্যবইয়ে ভারতের একটি বন্দরেও এমন বিদ্যুৎকেন্দ্রের কথা আছে (ছাপা হয়েছে "বান্ডালা"; আসলে গুজরাটের কান্ডলা বন্দরের কথা বলা হয়েছে)। সেখানে জোয়ার-ভাটার বিদ্যুৎকেন্দ্রের পরিকল্পনা হয়েছিল; তবে মনে রাখার জন্য নিশ্চিত উদাহরণ ফ্রান্সের লা রঁস।
+## definition
+**বান:** সাধারণত ভরা কটালের সময় সমুদ্রের পানি প্রবল ঢেউ হয়ে নদীর মোহনা দিয়ে উজানে ছুটে আসা।
+## matters
+- দেশের প্রধান দুই সমুদ্রবন্দর চট্টগ্রাম ও মোংলা জোয়ার-ভাটার সময়সূচি মেনে চলে।
+- উপকূলের লবণ আর জোয়ার-ভাটার নদীর মাছ আমাদের প্রতিদিনের খাবারের অংশ।
+- বান ও খুব উঁচু জোয়ার কখন আসে তা জানা থাকলে নৌকা ও প্রাণ বাঁচে।
+## terms
+বান (Tidal bore) | নদীর উজানে ছুটে আসা সমুদ্রের পানির প্রবল ঢেউ
+মোহনা (Estuary) | নদী যেখানে সমুদ্রে মেশে
+বালির বাঁধ (Sand bar) | নদীর মোহনার সামনে আড়াআড়ি জমা বালির স্তূপ
+জোয়ার-ভাটার বিদ্যুৎ (Tidal power) | জোয়ার-ভাটার স্রোত থেকে উৎপাদিত বিদ্যুৎ
+## facts
+দিনে জোয়ার-ভাটা | দুবার জোয়ার ও দুবার ভাটা
+পদ্মায় জোয়ার পৌঁছায় | গোয়ালন্দের কাছ পর্যন্ত
+মেঘনায় জোয়ার পৌঁছায় | ভৈরব বাজারের কাছাকাছি পর্যন্ত
+জোয়ারের ওপর নির্ভরশীল বন্দর | চট্টগ্রাম ও মোংলা
+বানের উচ্চতা | ৩-৪ ফুট থেকে প্রায় ৪০ ফুট
+প্রবল বানের নদী | মেঘনা, ভাগীরথী, আমাজন
+জোয়ার-ভাটার বিদ্যুৎকেন্দ্র | লা রঁস, ফ্রান্স
+## mistakes
+x জোয়ার-ভাটা শুধু ক্ষতিই করে, যেমন বন্যা ও লবণাক্ত পানি।
+v এটি নদী পরিষ্কার ও গভীরও করে, জাহাজ চলাচলে সাহায্য করে এবং সেচের পানি, লবণ ও বিদ্যুৎ দেয়।
+x বান আর সুনামি একই জিনিস।
+v বান তৈরি হয় নদীর মোহনায় জোয়ারের কারণে। সুনামি তৈরি হয় সমুদ্রের তলদেশে ভূমিকম্প বা অগ্ন্যুৎপাতের কারণে।
+## remember
+- জোয়ার-ভাটা নদী পরিষ্কার রাখে, মোহনায় পলি জমতে দেয় না, নদীখাত গভীর করে।
+- জোয়ারের পানি সেচ, লবণ তৈরি ও বিদ্যুৎ উৎপাদনে (লা রঁস, ফ্রান্স) কাজে লাগে।
+- বড় জাহাজ জোয়ারে চট্টগ্রাম ও মোংলা বন্দরে ঢোকে, ভাটায় বেরিয়ে যায়।
+- জোয়ার পদ্মায় গোয়ালন্দের কাছে এবং মেঘনায় ভৈরব বাজারের কাছাকাছি পর্যন্ত পৌঁছায়।
+- বান হলো নদীতে জোয়ারের প্রবল ঢেউ, ৩-৪ ফুট থেকে প্রায় ৪০ ফুট উঁচু; নৌকা ও জাহাজ ডুবিয়ে দিতে পারে।
+## think
+একটি বড় জাহাজ ভাটার সময় কর্ণফুলীর মোহনায় এসে পৌঁছাল। জাহাজের ক্যাপ্টেন সোজা জেটিতে না গিয়ে নোঙর ফেলে অপেক্ষা করেন কেন?
+## quiz
+? চট্টগ্রাম বন্দরে ঢোকার আগে বড় জাহাজ মোহনায় অপেক্ষা করে কেন?
+- বাতাসের দিক বদলানোর জন্য
+* জোয়ারে নদীর গভীরতা বাড়ার জন্য
+- সূর্য ওঠার জন্য
+- ভাটায় নদী পরিষ্কার হওয়ার জন্য
+= জোয়ারের সময় নদীর গভীরতা বাড়ে, তখন বড় জাহাজ ঢুকতে বা বেরোতে পারে।
+? পদ্মা নদীতে বঙ্গোপসাগরের জোয়ার কোন পর্যন্ত পৌঁছায়?
+- রাজশাহী
+- চাঁদপুর
+- ভৈরব বাজার
+* গোয়ালন্দের কাছে
+= জোয়ার পদ্মায় গোয়ালন্দের কাছে এবং মেঘনায় ভৈরব বাজারের কাছাকাছি পর্যন্ত পৌঁছায়।
+? কোন ধরনের নদীতে বান সবচেয়ে প্রবল হয়?
+- যার মোহনা খুব চওড়া
+- যার সাথে সমুদ্রের যোগ নেই
+* যার মোহনা সংকীর্ণ বা সামনে বালির বাঁধ আছে
+- যার পানি খুব ঠান্ডা
+= সংকীর্ণ মোহনা বা বালির বাঁধে বাধা পেয়ে ভরা কটালের পানি জমে খাড়া ঢেউ হয়ে ওঠে।

@@ -1,0 +1,2291 @@
+@@chapter
+== en
+## intro
+Bangladesh is one of the largest deltas in the world. A few hills in the north-east and south-east, a little raised land in the north-west, and everywhere else a wide, low plain washed by rivers: that is the shape of our land. Over it blows the monsoon, which gives us a mild climate, changing seasons and a great deal of rain.
+
+In this chapter you will first find Bangladesh on the map and learn its three kinds of land, then see how the land decides where people live and how crowding is changing the use of land. After that you will study the climate of Bangladesh and three neighbours, how climate shapes our lives, and two natural dangers we must be ready for: lightning and earthquakes.
+## objectives
+- describe the geographical location and boundaries of Bangladesh and find it on a world map
+- explain the classification and formation of the landforms of Bangladesh
+- explain how landforms affect the spread of population and settlement
+- explain how the spread of settlement affects the use of land, and why the environment must be protected
+- compare the climate of Bangladesh with that of India, Myanmar and Nepal
+- explain how climate affects people's lives and livelihoods in Bangladesh
+- explain what an earthquake is, its causes, and the earthquake-prone regions of the world
+- explain why Bangladesh is earthquake-prone and what to do before, during and after an earthquake
+== bn
+## intro
+বাংলাদেশ পৃথিবীর অন্যতম বৃহৎ ব-দ্বীপ। উত্তর-পূর্ব ও দক্ষিণ-পূর্বে সামান্য পাহাড়, উত্তর-পশ্চিমে কিছু উঁচু ভূমি, আর বাকি সবখানে নদীবিধৌত নিচু, বিস্তীর্ণ সমভূমি: এই হলো আমাদের দেশের ভূপ্রকৃতি। এর ওপর দিয়ে বয়ে যায় মৌসুমি বায়ু, যা আমাদের দেয় সমভাবাপন্ন জলবায়ু, ঋতুর পালাবদল আর প্রচুর বৃষ্টি।
+
+এই অধ্যায়ে তুমি প্রথমে মানচিত্রে বাংলাদেশকে খুঁজে নেবে এবং এর তিন রকম ভূমি চিনবে। তারপর দেখবে ভূপ্রকৃতি কীভাবে ঠিক করে দেয় মানুষ কোথায় বাস করবে, আর জনবসতি বাড়ায় ভূমির ব্যবহার কীভাবে বদলে যাচ্ছে। এরপর পড়বে বাংলাদেশ ও তিন প্রতিবেশী দেশের জলবায়ু, জীবন-জীবিকার ওপর জলবায়ুর প্রভাব, এবং দুটি প্রাকৃতিক বিপদ যার জন্য আমাদের প্রস্তুত থাকতে হবে: বজ্রপাত ও ভূমিকম্প।
+## objectives
+- বাংলাদেশের ভৌগোলিক অবস্থান ও সীমানা বর্ণনা করতে এবং বিশ্ব মানচিত্রে চিহ্নিত করতে পারবে
+- বাংলাদেশের ভূপ্রাকৃতিক অঞ্চলের শ্রেণিবিভাগ ও গঠন ব্যাখ্যা করতে পারবে
+- ভূপ্রকৃতি কীভাবে জনসংখ্যা ও জনবসতির বিস্তারে প্রভাব ফেলে তা ব্যাখ্যা করতে পারবে
+- ভূমি ব্যবহারের ওপর জনবসতি বিস্তারের প্রভাব এবং পরিবেশ সংরক্ষণের প্রয়োজন ব্যাখ্যা করতে পারবে
+- বাংলাদেশের জলবায়ুর সাথে ভারত, মিয়ানমার ও নেপালের জলবায়ুর তুলনা করতে পারবে
+- বাংলাদেশের মানুষের জীবন-জীবিকার ওপর জলবায়ুর প্রভাব ব্যাখ্যা করতে পারবে
+- ভূমিকম্পের ধারণা, কারণ এবং বিশ্বের ভূমিকম্পপ্রবণ অঞ্চল ব্যাখ্যা করতে পারবে
+- বাংলাদেশ কেন ভূমিকম্পপ্রবণ এবং ভূমিকম্পের আগে, সময়ে ও পরে কী করণীয় তা ব্যাখ্যা করতে পারবে
+
+@@ 4.1.1
+@visual g4loc
+@related 4.1.2 3.2.1 3.2.2
+== en
+## what
+Bangladesh lies in the south of the continent of Asia, between **20°34′ and 26°38′ North latitude** and between **88°01′ and 92°41′ East longitude**. The Tropic of Cancer passes through the middle of the country.
+## visual
+Use the three buttons: see Bangladesh with its neighbours and its latitude–longitude box, find it in South Asia, and tap any district to read its name and division. Zoom in with + and drag the map to move it.
+## simple
+To tell someone where a place is, you can do two things: give its address in latitude and longitude, and say what lies on each side of it. Do both for Bangladesh.
+
+Its address in numbers is a small box on the globe, a little more than 6° from south to north and less than 5° from west to east. Its neighbours are easy to remember: India wraps round it on three sides (west, north and east), Myanmar touches the south-east corner, and the Bay of Bengal lies to the south.
+## points
+1. **Continent:** Bangladesh is in the south of Asia.
+2. **Latitude:** from 20°34′ North to 26°38′ North.
+3. **Longitude:** from 88°01′ East to 92°41′ East.
+4. **Tropic of Cancer:** this line (23.5° North) crosses the middle of the country.
+5. **Greatest extent:** 440 km from east to west, and 760 km from the north-north-west to the south-south-east.
+6. **Area:** 1,47,570 square kilometres, or 56,977 square miles.
+7. **River basin:** the country lies in the basin of three great rivers of South Asia: the Ganges, the Brahmaputra and the Meghna.
+
+| Side | What lies there |
+| North | West Bengal, Meghalaya and Assam (India) |
+| East | Assam, Tripura and Mizoram (India), and Myanmar |
+| South | the Bay of Bengal |
+| West | West Bengal (India) |
+## definition
+**Geographical location:** the position of a place on the Earth, given by its latitude and longitude.
+
+**Boundary:** the line that separates a country from its neighbours or from the sea.
+## matters
+- Lying on the Tropic of Cancer and beside the sea gives Bangladesh its warm, moist monsoon climate.
+- Sitting at the mouth of three great rivers makes the land fertile, and also prone to floods.
+- The open Bay of Bengal to the south gives us sea ports, fish and a route for trade with the world.
+## terms
+Delta (ব-দ্বীপ) | Land built up at a river mouth from the silt the river brings
+Basin (অববাহিকা) | The whole area drained by a river and its branches
+Tropic of Cancer (কর্কটক্রান্তি রেখা) | The parallel of 23.5° North
+Bay of Bengal (বঙ্গোপসাগর) | The sea to the south of Bangladesh
+## facts
+Latitude | 20°34′ N to 26°38′ N
+Longitude | 88°01′ E to 92°41′ E
+Area | 1,47,570 sq km (56,977 sq miles)
+Greatest east–west extent | 440 km
+Greatest NNW–SSE extent | 760 km
+Neighbouring countries | India and Myanmar
+Sea | the Bay of Bengal, to the south
+## mistakes
+x Bangladesh has India to the north and west, and only Myanmar to the east.
+v On the east there are three Indian states (Assam, Tripura and Mizoram) as well as Myanmar.
+x The equator passes through Bangladesh.
+v It is the Tropic of Cancer (23.5° N) that passes through the middle of Bangladesh. The equator is far to the south.
+## remember
+- Bangladesh: south of Asia; 20°34′–26°38′ N, 88°01′–92°41′ E.
+- The Tropic of Cancer runs through the middle.
+- North: West Bengal, Meghalaya, Assam. East: Assam, Tripura, Mizoram, Myanmar. South: Bay of Bengal. West: West Bengal.
+- Area 1,47,570 sq km; 440 km east–west, 760 km NNW–SSE.
+- It lies in the basin of the Ganges, the Brahmaputra and the Meghna.
+## think
+Bangladesh stretches over about 4°40′ of longitude. Using the rule from the last chapter (1° = 4 minutes), about how much later does the Sun rise at the western edge than at the eastern edge?
+## quiz
+? Which line passes through the middle of Bangladesh?
+- The equator
+* The Tropic of Cancer
+- The Tropic of Capricorn
+- The prime meridian
+= The Tropic of Cancer (23.5° North) crosses the middle of the country.
+? What lies to the south of Bangladesh?
+- Myanmar
+- Meghalaya
+- West Bengal
+* The Bay of Bengal
+= The Bay of Bengal is to the south; India lies on the other three sides, with Myanmar in the south-east.
+? The total area of Bangladesh is
+* 1,47,570 sq km
+- 56,977 sq km
+- 1,24,266 sq km
+- 9,320 sq km
+= The area is 1,47,570 square kilometres, which equals 56,977 square miles.
+== bn
+## what
+বাংলাদেশ এশিয়া মহাদেশের দক্ষিণে, **২০°৩৪′ থেকে ২৬°৩৮′ উত্তর অক্ষরেখার** মধ্যে এবং **৮৮°০১′ থেকে ৯২°৪১′ পূর্ব দ্রাঘিমারেখার** মধ্যে অবস্থিত। দেশের মাঝামাঝি দিয়ে কর্কটক্রান্তি রেখা গেছে।
+## visual
+তিনটি বোতাম ব্যবহার করো: প্রতিবেশী দেশ ও অক্ষাংশ-দ্রাঘিমার ঘরসহ বাংলাদেশ দেখো, দক্ষিণ এশিয়ায় একে খুঁজে নাও, আর যেকোনো জেলায় চাপ দিয়ে তার নাম ও বিভাগ পড়ো। + চেপে বড় করো, টেনে সরাও।
+## simple
+কোনো জায়গা কোথায় তা বোঝাতে দুটি কাজ করা যায়: অক্ষাংশ ও দ্রাঘিমায় তার ঠিকানা বলা, আর তার চারপাশে কী আছে তা বলা। বাংলাদেশের জন্য দুটিই করা যাক।
+
+সংখ্যায় বাংলাদেশের ঠিকানা ভূগোলকের ওপর ছোট একটি ঘর: দক্ষিণ থেকে উত্তরে ৬°-র সামান্য বেশি, পশ্চিম থেকে পূর্বে ৫°-র কম। প্রতিবেশীদের মনে রাখা সহজ: ভারত তিন দিক থেকে (পশ্চিম, উত্তর ও পূর্ব) ঘিরে আছে, দক্ষিণ-পূর্ব কোণে মিয়ানমার, আর দক্ষিণে বঙ্গোপসাগর।
+## points
+1. **মহাদেশ:** বাংলাদেশ এশিয়ার দক্ষিণে।
+2. **অক্ষাংশ:** ২০°৩৪′ উত্তর থেকে ২৬°৩৮′ উত্তর।
+3. **দ্রাঘিমা:** ৮৮°০১′ পূর্ব থেকে ৯২°৪১′ পূর্ব।
+4. **কর্কটক্রান্তি রেখা:** এই রেখা (২৩.৫° উত্তর) দেশের মাঝামাঝি দিয়ে গেছে।
+5. **সর্বোচ্চ বিস্তৃতি:** পূর্ব-পশ্চিমে ৪৪০ কিমি; উত্তর-উত্তর পশ্চিম থেকে দক্ষিণ-দক্ষিণ পূর্ব প্রান্ত পর্যন্ত ৭৬০ কিমি।
+6. **আয়তন:** ১,৪৭,৫৭০ বর্গ কিলোমিটার বা ৫৬,৯৭৭ বর্গমাইল।
+7. **অববাহিকা:** দেশটি দক্ষিণ এশিয়ার তিন বড় নদী গঙ্গা, ব্রহ্মপুত্র ও মেঘনার অববাহিকায় অবস্থিত।
+
+| দিক | কী আছে |
+| উত্তরে | ভারতের পশ্চিমবঙ্গ, মেঘালয় ও আসাম |
+| পূর্বে | ভারতের আসাম, ত্রিপুরা ও মিজোরাম, এবং মিয়ানমার |
+| দক্ষিণে | বঙ্গোপসাগর |
+| পশ্চিমে | ভারতের পশ্চিমবঙ্গ |
+## definition
+**ভৌগোলিক অবস্থান:** অক্ষাংশ ও দ্রাঘিমা দিয়ে প্রকাশ করা পৃথিবীর ওপর কোনো স্থানের অবস্থান।
+
+**সীমানা:** যে রেখা একটি দেশকে তার প্রতিবেশী দেশ বা সমুদ্র থেকে আলাদা করে।
+## matters
+- কর্কটক্রান্তি রেখার ওপর এবং সমুদ্রের পাশে অবস্থানের কারণেই বাংলাদেশের জলবায়ু উষ্ণ, আর্দ্র ও মৌসুমি।
+- তিন বড় নদীর মোহনায় অবস্থান দেশের মাটিকে উর্বর করেছে, আবার বন্যাপ্রবণও করেছে।
+- দক্ষিণের খোলা বঙ্গোপসাগর আমাদের দিয়েছে সমুদ্রবন্দর, মাছ এবং বিশ্বের সাথে বাণিজ্যের পথ।
+## terms
+ব-দ্বীপ (Delta) | নদীর বয়ে আনা পলি মোহনায় জমে যে ভূমি গড়ে ওঠে
+অববাহিকা (Basin) | একটি নদী ও তার শাখা-উপনদী যে পুরো এলাকার পানি বয়ে নেয়
+কর্কটক্রান্তি রেখা (Tropic of Cancer) | ২৩.৫° উত্তর অক্ষরেখা
+বঙ্গোপসাগর (Bay of Bengal) | বাংলাদেশের দক্ষিণের সাগর
+## facts
+অক্ষাংশ | ২০°৩৪′ উ থেকে ২৬°৩৮′ উ
+দ্রাঘিমা | ৮৮°০১′ পূ থেকে ৯২°৪১′ পূ
+আয়তন | ১,৪৭,৫৭০ বর্গ কিমি (৫৬,৯৭৭ বর্গমাইল)
+পূর্ব-পশ্চিমে সর্বোচ্চ বিস্তৃতি | ৪৪০ কিমি
+উত্তর-উত্তর পশ্চিম থেকে দক্ষিণ-দক্ষিণ পূর্বে | ৭৬০ কিমি
+প্রতিবেশী দেশ | ভারত ও মিয়ানমার
+সাগর | দক্ষিণে বঙ্গোপসাগর
+## mistakes
+x বাংলাদেশের উত্তরে ও পশ্চিমে ভারত, আর পূর্বে শুধু মিয়ানমার।
+v পূর্বে মিয়ানমারের সাথে ভারতের তিনটি রাজ্যও আছে: আসাম, ত্রিপুরা ও মিজোরাম।
+x বাংলাদেশের ওপর দিয়ে নিরক্ষরেখা গেছে।
+v বাংলাদেশের মাঝামাঝি দিয়ে গেছে কর্কটক্রান্তি রেখা (২৩.৫° উ)। নিরক্ষরেখা অনেক দক্ষিণে।
+## remember
+- বাংলাদেশ: এশিয়ার দক্ষিণে; ২০°৩৪′-২৬°৩৮′ উ, ৮৮°০১′-৯২°৪১′ পূ।
+- মাঝামাঝি দিয়ে কর্কটক্রান্তি রেখা গেছে।
+- উত্তরে পশ্চিমবঙ্গ, মেঘালয়, আসাম। পূর্বে আসাম, ত্রিপুরা, মিজোরাম, মিয়ানমার। দক্ষিণে বঙ্গোপসাগর। পশ্চিমে পশ্চিমবঙ্গ।
+- আয়তন ১,৪৭,৫৭০ বর্গ কিমি; পূর্ব-পশ্চিমে ৪৪০ কিমি, উত্তর-উত্তর পশ্চিম থেকে দক্ষিণ-দক্ষিণ পূর্বে ৭৬০ কিমি।
+- গঙ্গা, ব্রহ্মপুত্র ও মেঘনার অববাহিকায় অবস্থিত।
+## think
+বাংলাদেশ প্রায় ৪°৪০′ দ্রাঘিমা জুড়ে বিস্তৃত। আগের অধ্যায়ের নিয়ম (১° = ৪ মিনিট) ব্যবহার করে বলো, দেশের পূর্ব প্রান্তের তুলনায় পশ্চিম প্রান্তে সূর্য প্রায় কত মিনিট পরে ওঠে?
+## quiz
+? বাংলাদেশের মাঝামাঝি দিয়ে কোন রেখা গেছে?
+- নিরক্ষরেখা
+* কর্কটক্রান্তি রেখা
+- মকরক্রান্তি রেখা
+- মূল মধ্যরেখা
+= কর্কটক্রান্তি রেখা (২৩.৫° উত্তর) দেশের মাঝামাঝি দিয়ে গেছে।
+? বাংলাদেশের দক্ষিণে কী অবস্থিত?
+- মিয়ানমার
+- মেঘালয়
+- পশ্চিমবঙ্গ
+* বঙ্গোপসাগর
+= দক্ষিণে বঙ্গোপসাগর; বাকি তিন দিকে ভারত, আর দক্ষিণ-পূর্বে মিয়ানমার।
+? বাংলাদেশের মোট আয়তন
+* ১,৪৭,৫৭০ বর্গ কিমি
+- ৫৬,৯৭৭ বর্গ কিমি
+- ১,২৪,২৬৬ বর্গ কিমি
+- ৯,৩২০ বর্গ কিমি
+= আয়তন ১,৪৭,৫৭০ বর্গ কিলোমিটার, যা ৫৬,৯৭৭ বর্গমাইলের সমান।
+
+@@ 4.1.2
+@visual g4land
+@related 4.1.1 4.1.3 5.2.3
+== en
+## what
+By its landforms Bangladesh is divided into three regions: the **hills of the Tertiary age** (about 12% of the land), the **terraces of the Pleistocene age** (about 8%) and the **floodplain of recent times** (about 80%).
+## visual
+Choose Hills, Terraces or Floodplain to light up the districts the textbook names for each, and read its facts below. Tap any district to see which regions it belongs to. The map is a schematic: whole districts are coloured.
+## simple
+Imagine walking across Bangladesh. Almost everywhere the ground is flat, soft and low: this is the floodplain, laid down by rivers. In a few places, such as the Barind in the north-west or the Madhupur forest north of Dhaka, the ground rises a few metres like a low step and the soil turns reddish: these are the terraces, which are older. Only in the south-east and along the north-eastern edge do you meet real hills: the oldest land of all.
+
+So the three regions are also three ages of land: old hills, middle-aged terraces and a young plain that is still being built every rainy season.
+## points
+1. **A delta that slopes south:** Bangladesh is one of the world's largest deltas. The land slopes gently from north to south, so the rivers flow southwards to the Bay of Bengal.
+2. **Hills of the Tertiary age (about 12%):** formed when the Himalayas were rising in the Tertiary age. They are in two groups.
+3. **South-eastern hills:** Rangamati, Bandarban, Khagrachhari, Cox's Bazar and the eastern part of Chattogram district. Average height 610 m. Made of sandstone, shale and clay.
+4. **Highest peaks:** Tajingdong (Bijoy), 1,231 m, in Bandarban; then Keokradong, 1,230 m. Two others are Modok Mual (1,000 m) and Pyramid (915 m).
+5. **Northern and north-eastern hills:** the north of Mymensingh and Netrokona, the north and north-east of Sylhet, and the south of Moulvibazar and Habiganj. Not more than 244 m high. The low hills of the north, 30 to 90 m high, are called *tila*. Chiknagul, Khasia and Jaintia are the main ones.
+6. **Terraces of the Pleistocene age (about 8%):** thought to have been formed about 25,000 years ago by floods of melting ice water. There are three: the Barind tract, the Madhupur and Bhawal tract, and the Lalmai hills.
+7. **Floodplain of recent times (about 80%):** about 1,24,266 sq km. Year after year the floods of the rainy season have left silt here. The soil is very deep and very fertile.
+8. **Parts of the floodplain:** the plain at the foot of the Himalayas (most of Rangpur and Dinajpur), the river floodplains of the centre and east, the delta plain (Faridpur, Kushtia, Jashore, Khulna, Barishal, Patuakhali and part of Dhaka), the coastal plain (Noakhali and the lower Feni river to Cox's Bazar) and the tidal plain (Khulna, Patuakhali and part of Barguna).
+
+| Terrace | Where | Area | Height above the plain | Soil |
+| Barind tract | parts of Naogaon, Rajshahi, Bogura, Joypurhat, Rangpur, Dinajpur | 9,320 sq km | 6–12 m | grey and red |
+| Madhupur and Bhawal tract | parts of Mymensingh, Tangail, Gazipur, Dhaka | about 4,103 sq km | 6–30 m | reddish and grey |
+| Lalmai hills | Lalmai to Mainamati, 8 km west of Cumilla town | 34 sq km | average 21 m | reddish, with pebbles, sand and gravel |
+
+> About the peaks: 1,231 m and 1,230 m are the heights printed in your textbook, so learn them for the exam. Later GPS measurements by survey teams and trekkers have given lower heights for both, and suggest that a peak on the Myanmar border (Saka Haphong, in the Modok range) may be the highest point of the country.
+
+> About the ages: geologists place the Tertiary between about 66 and 2.6 million years ago, and the Pleistocene from 2.6 million to about 12 thousand years ago. Our terraces belong to the later part of the Pleistocene.
+## definition
+**Floodplain:** flat land beside rivers, built from the silt left by floods.
+
+**Terrace:** an older, slightly raised, step-like plain standing above the floodplain.
+
+**Tila:** the local name for the low hills (30 to 90 m) of the north and north-east.
+## matters
+- Four-fifths of the country is fertile floodplain: this is why Bangladesh is a land of farming.
+- Hills hold forests, tea gardens and the Kaptai lake; terraces have their own red soil and sal forests.
+- The low, flat land is also why floods spread so widely.
+## terms
+Tertiary age (টারশিয়ারি যুগ) | The age in which the Himalayas rose
+Pleistocene age (প্লাইস্টোসিন কাল) | The ice age that came after the Tertiary
+Barind tract (বরেন্দ্রভূমি) | The terrace of the north-west
+Madhupur and Bhawal tract (মধুপুর ও ভাওয়ালের গড়) | The terrace north of Dhaka
+Silt (পলি) | Fine soil carried and laid down by river water
+## facts
+Tertiary hills | about 12% of the land
+Pleistocene terraces | about 8%
+Recent floodplain | about 80% (about 1,24,266 sq km)
+Highest peak (textbook) | Tajingdong (Bijoy), 1,231 m, Bandarban
+Second highest (textbook) | Keokradong, 1,230 m
+Average height of the south-eastern hills | 610 m
+Northern hills | not more than 244 m; tilas 30–90 m
+## mistakes
+x Most of Bangladesh is hilly.
+v Only about 12% is hills. About 80% is flat floodplain.
+x The Barind tract and the Madhupur tract are part of the floodplain.
+v They are terraces: older land standing 6 to 30 m above the floodplain, with reddish soil.
+## remember
+- Three regions: Tertiary hills (12%), Pleistocene terraces (8%), recent floodplain (80%).
+- South-eastern hills average 610 m; Tajingdong 1,231 m and Keokradong 1,230 m are in Bandarban.
+- Northern hills are low (at most 244 m); the small ones are called tila.
+- Terraces: Barind (9,320 sq km), Madhupur and Bhawal (4,103 sq km), Lalmai (34 sq km).
+- The floodplain is built of river silt; the land slopes from north to south.
+## think
+Look at the direction in which almost all our rivers flow. What does that tell you about which side of the country is higher? Which of the three regions would you expect to be the newest, and why?
+## quiz
+? About what share of the land of Bangladesh is floodplain of recent times?
+- 8%
+- 12%
+- 50%
+* 80%
+= About 80% is floodplain, 12% Tertiary hills and 8% Pleistocene terraces.
+? In which district is Tajingdong, the highest peak named in the textbook?
+- Rangamati
+* Bandarban
+- Khagrachhari
+- Sylhet
+= Tajingdong (Bijoy), 1,231 m, and Keokradong, 1,230 m, are both in Bandarban.
+? The Barind tract is an example of
+- a hill of the Tertiary age
+- a recent floodplain
+* a terrace of the Pleistocene age
+- a coastal plain
+= The Barind tract, the Madhupur and Bhawal tract and the Lalmai hills are the three Pleistocene terraces.
+== bn
+## what
+ভূপ্রকৃতির ভিত্তিতে বাংলাদেশকে তিনটি অঞ্চলে ভাগ করা হয়: **টারশিয়ারি যুগের পাহাড়সমূহ** (মোট ভূমির প্রায় ১২%), **প্লাইস্টোসিন কালের সোপানসমূহ** (প্রায় ৮%) এবং **সাম্প্রতিক কালের প্লাবন সমভূমি** (প্রায় ৮০%)।
+## visual
+পাহাড়, সোপান বা প্লাবন সমভূমি বেছে নাও; বইয়ে প্রতিটির জন্য যে জেলাগুলোর নাম আছে সেগুলো রঙিন হবে, নিচে তথ্য আসবে। যেকোনো জেলায় চাপ দিলে দেখাবে সেটি কোন কোন অঞ্চলে পড়ে। এটি নকশা-মানচিত্র: পুরো জেলা রং করা।
+## simple
+ধরো তুমি বাংলাদেশের এক প্রান্ত থেকে আরেক প্রান্তে হেঁটে যাচ্ছ। প্রায় সবখানেই মাটি সমতল, নরম ও নিচু: এটিই প্লাবন সমভূমি, নদীর গড়া। কয়েক জায়গায়, যেমন উত্তর-পশ্চিমের বরেন্দ্র বা ঢাকার উত্তরের মধুপুর বনে, মাটি নিচু সিঁড়ির ধাপের মতো কয়েক মিটার উঁচু হয়ে যায় আর রং লালচে হয়: এগুলো সোপান, বয়সে পুরোনো। শুধু দক্ষিণ-পূর্বে আর উত্তর-পূর্ব সীমানা ঘেঁষে আসল পাহাড় দেখা যায়: সবচেয়ে পুরোনো ভূমি।
+
+অর্থাৎ তিন অঞ্চল মানে ভূমির তিন বয়স: পুরোনো পাহাড়, মাঝবয়সী সোপান, আর নবীন সমভূমি যা প্রতি বর্ষায় এখনো গড়ে উঠছে।
+## points
+1. **দক্ষিণে ঢালু ব-দ্বীপ:** বাংলাদেশ পৃথিবীর অন্যতম বৃহৎ ব-দ্বীপ। ভূমি উত্তর থেকে দক্ষিণে ক্রমশ ঢালু, তাই নদীগুলো দক্ষিণে বঙ্গোপসাগরের দিকে বয়ে গেছে।
+2. **টারশিয়ারি যুগের পাহাড়সমূহ (প্রায় ১২%):** টারশিয়ারি যুগে হিমালয় পর্বত উত্থিত হওয়ার সময় এগুলো সৃষ্টি হয়েছে। পাহাড়গুলো দুই ভাগে বিভক্ত।
+3. **দক্ষিণ-পূর্বাঞ্চলের পাহাড়:** রাঙ্গামাটি, বান্দরবান, খাগড়াছড়ি, কক্সবাজার ও চট্টগ্রাম জেলার পূর্বাংশ। গড় উচ্চতা ৬১০ মিটার। বেলে পাথর, শেল ও কর্দম দিয়ে গঠিত।
+4. **সর্বোচ্চ শৃঙ্গ:** তাজিংডং (বিজয়), ১,২৩১ মিটার, বান্দরবানে; এরপর কিওক্রাডং, ১,২৩০ মিটার। আরও দুটি উঁচু চূড়া মোদকমুয়াল (১,০০০ মিটার) ও পিরামিড (৯১৫ মিটার)।
+5. **উত্তর ও উত্তর-পূর্বাঞ্চলের পাহাড়:** ময়মনসিংহ ও নেত্রকোনার উত্তরাংশ, সিলেটের উত্তর ও উত্তর-পূর্বাংশ এবং মৌলভীবাজার ও হবিগঞ্জের দক্ষিণাংশ। উচ্চতা ২৪৪ মিটারের বেশি নয়। উত্তরের ৩০ থেকে ৯০ মিটার উঁচু পাহাড়গুলো স্থানীয়ভাবে *টিলা* নামে পরিচিত। চিকনাগুল, খাসিয়া ও জয়ন্তিয়া প্রধান।
+6. **প্লাইস্টোসিন কালের সোপানসমূহ (প্রায় ৮%):** আনুমানিক ২৫,০০০ বছর আগে বরফ গলা পানির প্লাবনে গঠিত বলে ধারণা করা হয়। সোপান তিনটি: বরেন্দ্রভূমি, মধুপুর ও ভাওয়ালের গড়, এবং লালমাই পাহাড়।
+7. **সাম্প্রতিক কালের প্লাবন সমভূমি (প্রায় ৮০%):** আয়তন প্রায় ১,২৪,২৬৬ বর্গ কিমি। বছরের পর বছর বর্ষার বন্যার সাথে আসা পলি জমে এটি গঠিত। মাটির স্তর খুব গভীর, ভূমি খুব উর্বর।
+8. **প্লাবন সমভূমির ভাগ:** হিমালয়ের পাদদেশীয় সমভূমি (রংপুর ও দিনাজপুরের অধিকাংশ), মধ্য ও পূর্বাঞ্চলের নদী-প্লাবন সমভূমি, ব-দ্বীপ সমভূমি (ফরিদপুর, কুষ্টিয়া, যশোর, খুলনা, বরিশাল, পটুয়াখালী ও ঢাকার অংশবিশেষ), উপকূলীয় সমভূমি (নোয়াখালী ও ফেনী নদীর নিম্নভাগ থেকে কক্সবাজার) এবং স্রোতজ সমভূমি (খুলনা, পটুয়াখালী ও বরগুনার অংশবিশেষ)।
+
+| সোপান | কোথায় | আয়তন | সমভূমি থেকে উচ্চতা | মাটি |
+| বরেন্দ্রভূমি | নওগাঁ, রাজশাহী, বগুড়া, জয়পুরহাট, রংপুর, দিনাজপুরের অংশবিশেষ | ৯,৩২০ বর্গ কিমি | ৬-১২ মিটার | ধূসর ও লাল |
+| মধুপুর ও ভাওয়ালের গড় | ময়মনসিংহ, টাঙ্গাইল, গাজীপুর, ঢাকার অংশবিশেষ | প্রায় ৪,১০৩ বর্গ কিমি | ৬-৩০ মিটার | লালচে ও ধূসর |
+| লালমাই পাহাড় | কুমিল্লা শহরের ৮ কিমি পশ্চিমে লালমাই থেকে ময়নামতি | ৩৪ বর্গ কিমি | গড়ে ২১ মিটার | লালচে; নুড়ি, বালি ও কাঁকর মেশানো |
+
+> শৃঙ্গ নিয়ে: ১,২৩১ ও ১,২৩০ মিটার তোমার পাঠ্যবইয়ে ছাপা উচ্চতা, পরীক্ষার জন্য এগুলোই শেখো। পরে জরিপ দল ও অভিযাত্রীদের জিপিএস পরিমাপে দুটিরই উচ্চতা কম পাওয়া গেছে, আর ধারণা করা হয় মিয়ানমার সীমান্তের একটি চূড়া (মোদক পর্বতশ্রেণির সাকা হাফং) দেশের সর্বোচ্চ বিন্দু হতে পারে।
+
+> যুগ নিয়ে: ভূতত্ত্ববিদদের হিসাবে টারশিয়ারি যুগ প্রায় ৬.৬ কোটি থেকে ২৬ লক্ষ বছর আগে পর্যন্ত, আর প্লাইস্টোসিন কাল ২৬ লক্ষ থেকে প্রায় ১২ হাজার বছর আগে পর্যন্ত। আমাদের সোপানগুলো প্লাইস্টোসিন কালের শেষ ভাগের।
+## definition
+**প্লাবন সমভূমি:** নদীর পাশের সমতল ভূমি, যা বন্যার রেখে যাওয়া পলি জমে গঠিত।
+
+**সোপান (চত্বরভূমি):** প্লাবন সমভূমির চেয়ে কিছুটা উঁচু, সিঁড়ির ধাপের মতো পুরোনো সমভূমি।
+
+**টিলা:** উত্তর ও উত্তর-পূর্বাঞ্চলের নিচু (৩০ থেকে ৯০ মিটার) পাহাড়ের স্থানীয় নাম।
+## matters
+- দেশের পাঁচ ভাগের চার ভাগ উর্বর প্লাবন সমভূমি: এ কারণেই বাংলাদেশ কৃষিপ্রধান দেশ।
+- পাহাড়ে আছে বন, চা বাগান ও কাপ্তাই হ্রদ; সোপানে আছে নিজস্ব লাল মাটি ও শালবন।
+- ভূমি নিচু ও সমতল বলেই বন্যা এত বিস্তীর্ণ এলাকায় ছড়ায়।
+## terms
+টারশিয়ারি যুগ (Tertiary age) | যে যুগে হিমালয় পর্বত উত্থিত হয়েছে
+প্লাইস্টোসিন কাল (Pleistocene age) | টারশিয়ারির পরের বরফ যুগ
+বরেন্দ্রভূমি (Barind tract) | উত্তর-পশ্চিমাঞ্চলের সোপান
+মধুপুর ও ভাওয়ালের গড় (Madhupur and Bhawal tract) | ঢাকার উত্তরের সোপান
+পলি (Silt) | নদীর পানিতে বয়ে এসে জমা হওয়া মিহি মাটি
+## facts
+টারশিয়ারি যুগের পাহাড় | মোট ভূমির প্রায় ১২%
+প্লাইস্টোসিন কালের সোপান | প্রায় ৮%
+সাম্প্রতিক কালের প্লাবন সমভূমি | প্রায় ৮০% (প্রায় ১,২৪,২৬৬ বর্গ কিমি)
+সর্বোচ্চ শৃঙ্গ (পাঠ্যবই) | তাজিংডং (বিজয়), ১,২৩১ মিটার, বান্দরবান
+দ্বিতীয় সর্বোচ্চ (পাঠ্যবই) | কিওক্রাডং, ১,২৩০ মিটার
+দক্ষিণ-পূর্বাঞ্চলের পাহাড়ের গড় উচ্চতা | ৬১০ মিটার
+উত্তরের পাহাড় | ২৪৪ মিটারের বেশি নয়; টিলা ৩০-৯০ মিটার
+## mistakes
+x বাংলাদেশের বেশির ভাগ এলাকা পাহাড়ি।
+v পাহাড় মাত্র প্রায় ১২%। প্রায় ৮০% সমতল প্লাবন সমভূমি।
+x বরেন্দ্রভূমি ও মধুপুর গড় প্লাবন সমভূমির অংশ।
+v এগুলো সোপান: প্লাবন সমভূমি থেকে ৬ থেকে ৩০ মিটার উঁচু, লালচে মাটির পুরোনো ভূমি।
+## remember
+- তিন অঞ্চল: টারশিয়ারি পাহাড় (১২%), প্লাইস্টোসিন সোপান (৮%), সাম্প্রতিক প্লাবন সমভূমি (৮০%)।
+- দক্ষিণ-পূর্বের পাহাড়ের গড় উচ্চতা ৬১০ মিটার; তাজিংডং ১,২৩১ মি ও কিওক্রাডং ১,২৩০ মি, দুটিই বান্দরবানে।
+- উত্তরের পাহাড় নিচু (সর্বোচ্চ ২৪৪ মি); ছোটগুলোকে টিলা বলে।
+- সোপান: বরেন্দ্রভূমি (৯,৩২০ বর্গ কিমি), মধুপুর ও ভাওয়ালের গড় (৪,১০৩ বর্গ কিমি), লালমাই (৩৪ বর্গ কিমি)।
+- প্লাবন সমভূমি নদীর পলিতে গঠিত; ভূমি উত্তর থেকে দক্ষিণে ঢালু।
+## think
+আমাদের প্রায় সব নদী কোন দিকে বয়ে গেছে খেয়াল করো। এ থেকে দেশের কোন দিক বেশি উঁচু বলে মনে হয়? তিন অঞ্চলের মধ্যে কোনটি সবচেয়ে নবীন হওয়ার কথা, এবং কেন?
+## quiz
+? বাংলাদেশের মোট ভূমির প্রায় কত অংশ সাম্প্রতিক কালের প্লাবন সমভূমি?
+- ৮%
+- ১২%
+- ৫০%
+* ৮০%
+= প্রায় ৮০% প্লাবন সমভূমি, ১২% টারশিয়ারি পাহাড় এবং ৮% প্লাইস্টোসিন সোপান।
+? পাঠ্যবইয়ে উল্লিখিত সর্বোচ্চ শৃঙ্গ তাজিংডং কোন জেলায়?
+- রাঙ্গামাটি
+* বান্দরবান
+- খাগড়াছড়ি
+- সিলেট
+= তাজিংডং (বিজয়), ১,২৩১ মি এবং কিওক্রাডং, ১,২৩০ মি দুটিই বান্দরবানে।
+? বরেন্দ্রভূমি কিসের উদাহরণ?
+- টারশিয়ারি যুগের পাহাড়
+- সাম্প্রতিক কালের প্লাবন সমভূমি
+* প্লাইস্টোসিন কালের সোপান
+- উপকূলীয় সমভূমি
+= বরেন্দ্রভূমি, মধুপুর ও ভাওয়ালের গড় এবং লালমাই পাহাড়: এই তিনটি প্লাইস্টোসিন কালের সোপান।
+
+@@ 4.1.3
+@visual g4pop
+@related 4.1.2 4.1.4 5.1.3
+== en
+## what
+People live almost everywhere in Bangladesh, but not evenly. The fertile river plains and the industrial towns are crowded, while the hill tracts and the Sundarbans area have very few people. **Landform** is one of the main reasons for this difference.
+## visual
+Tap a blue district, a green district or a red town on the map. The card tells you why few or many people live there. The four tiles at the top give the Census 2022 figures.
+## simple
+People settle where it is easy to earn a living. On a flat, fertile plain you can grow rice, travel by road, rail or boat, and send your children to school nearby. On a steep forested hill or in a mangrove swamp all of that is hard.
+
+So the map of people follows the map of land. Add mills and factories, mines, good transport and colleges, and a place becomes more crowded still.
+## points
+1. **A very crowded country:** by population Bangladesh is 8th in the world, and its density is very high for its small area.
+2. **Census 2022:** about 16.98 crore people; growth rate 1.12%; 1,119 people per square kilometre.
+3. **Census 2011, for comparison:** about 14.97 crore people; growth rate 1.37%; 1,015 people per square kilometre.
+4. **Thinly peopled:** the hill tracts and the Sundarbans area. Earning a living is hard, good roads and rail links are few, and much of the land is forest.
+5. **Tea and Sylhet:** in Sylhet settlement has grown up around the tea industry.
+6. **Densely peopled:** the flat river basins. The silt is fertile, farming is easy, the rivers are navigable, and roads and railways give easy travel.
+7. **Climate:** people prefer a mild climate to an extreme one. The weather is nearly the same all over Bangladesh, though the north feels the difference between summer and winter a little more.
+8. **Resources and industry:** where minerals, farm produce, forests or livestock give work, workers gather. Around one main industry many others grow. Industrial towns such as Tejgaon, Tongi, Narsingdi, Khulna and Chattogram are densely settled.
+9. **Transport:** a place that can be reached easily by road, rail or river becomes populous.
+10. **Education and culture:** places with more chances for education and cultural life naturally draw more people.
+
+| Fewer people | More people |
+| steep hills, forest, swamp | flat, fertile silt |
+| poor roads, no railway | navigable rivers, roads, railways |
+| hard to earn a living | farming, industry, trade, services |
+| few schools and colleges | education and culture close by |
+## definition
+**Population density:** the average number of people living on each square kilometre of land.
+
+**Settlement:** a place where people have built homes and live together, such as a village or a town.
+## matters
+- Roads, schools, hospitals and jobs have to be planned according to where people actually live.
+- Very crowded places put heavy pressure on land, water and housing.
+- Thinly peopled hills and forests need care of a different kind: protection of nature and better communication.
+## terms
+Population density (জনসংখ্যার ঘনত্ব) | People per square kilometre
+Growth rate (জনসংখ্যা বৃদ্ধির হার) | How fast the population increases each year
+Census (জনশুমারি) | The official count of all the people of a country
+Navigable (নাব্য) | Deep enough for boats and ships to use
+## facts
+Population (Census 2022) | about 16.98 crore
+Growth rate (2022) | 1.12%
+Density (2022) | 1,119 per sq km
+Population (Census 2011) | about 14.97 crore; density 1,015 per sq km
+Rank in the world by population | 8th
+Thinly peopled areas | hill tracts and the Sundarbans area
+Industrial towns named in the book | Tejgaon, Tongi, Narsingdi, Khulna, Chattogram
+## mistakes
+x People are spread evenly over Bangladesh because the whole country is plain.
+v Density differs from region to region: very low in the hill tracts and the Sundarbans area, very high on the river plains and in industrial towns.
+x Only landform decides where people live.
+v Climate, resources, industry, transport, education and culture all play a part.
+## remember
+- Bangladesh is 8th in the world by population: about 16.98 crore, 1,119 per sq km (2022).
+- Few people: hill tracts and the Sundarbans area (hard living, poor communication, forest).
+- Many people: fertile river plains with easy farming and transport.
+- Industry, minerals, transport, education and culture make a place more crowded.
+- Industrial towns: Tejgaon, Tongi, Narsingdi, Khulna, Chattogram.
+## think
+Think about the area where your school is. Which of the reasons in this lesson explain why many (or few) people live there?
+## quiz
+? According to the Census of 2022, the population density of Bangladesh is
+- 1,015 per sq km
+* 1,119 per sq km
+- 1,231 per sq km
+- 440 per sq km
+= The 2022 census gives 1,119 people per square kilometre; 1,015 was the figure in 2011.
+? Why is the density of population very low in the hill tracts?
+- The climate there is extremely cold
+- Nobody is allowed to live there
+* Earning a living is hard and communication is poor
+- The soil is too fertile
+= Steep, forested land with few roads and no railway makes livelihood difficult, so few people live there.
+? Dense settlement grew up on the river plains mainly because
+- there are many hills
+- there is no rain
+- there are no rivers
+* the silt is fertile and farming and transport are easy
+= Fertile silt, navigable rivers, roads and railways attract people to the flat river basins.
+== bn
+## what
+বাংলাদেশের প্রায় সব জায়গায় মানুষ বাস করে, তবে সমানভাবে নয়। উর্বর নদী-সমভূমি ও শিল্প শহরগুলো ঘনবসতিপূর্ণ, আর পার্বত্য এলাকা ও সুন্দরবন অঞ্চলে জনবসতি খুব কম। এই পার্থক্যের অন্যতম প্রধান কারণ **ভূপ্রকৃতি**।
+## visual
+মানচিত্রে নীল জেলা, সবুজ জেলা বা লাল শহরে চাপ দাও। সেখানে মানুষ কেন কম বা বেশি, তা কার্ডে আসবে। ওপরের চারটি ঘরে জনশুমারি ২০২২-এর তথ্য।
+## simple
+যেখানে জীবিকা নির্বাহ সহজ, মানুষ সেখানেই বসতি গড়ে। সমতল, উর্বর সমভূমিতে ধান ফলানো যায়, সড়ক, রেল বা নৌপথে যাতায়াত করা যায়, কাছেই স্কুল পাওয়া যায়। খাড়া বনে ঢাকা পাহাড়ে বা ম্যানগ্রোভ জলাভূমিতে এর সবই কঠিন।
+
+তাই জনবসতির মানচিত্র ভূমির মানচিত্রকে অনুসরণ করে। এর সাথে কলকারখানা, খনিজ সম্পদ, ভালো যোগাযোগ ও শিক্ষাপ্রতিষ্ঠান যোগ হলে জায়গাটি আরও জনবহুল হয়ে ওঠে।
+## points
+1. **খুব জনবহুল দেশ:** জনসংখ্যার দিক থেকে বাংলাদেশ পৃথিবীতে অষ্টম; ছোট আয়তনের তুলনায় ঘনত্বও খুব বেশি।
+2. **জনশুমারি ২০২২:** জনসংখ্যা প্রায় ১৬.৯৮ কোটি; বৃদ্ধির হার ১.১২%; প্রতি বর্গ কিলোমিটারে ১,১১৯ জন।
+3. **তুলনার জন্য আদমশুমারি ২০১১:** জনসংখ্যা প্রায় ১৪.৯৭ কোটি; বৃদ্ধির হার ১.৩৭%; প্রতি বর্গ কিলোমিটারে ১,০১৫ জন।
+4. **জনবিরল:** পার্বত্য এলাকা ও সুন্দরবন অঞ্চল। জীবিকা নির্বাহ কষ্টকর, ভালো রাস্তাঘাট ও রেল সংযোগ কম, জমির বড় অংশ বনভূমি।
+5. **চা ও সিলেট:** সিলেটে চা শিল্পকে কেন্দ্র করে জনবসতি গড়ে উঠেছে।
+6. **ঘনবসতি:** সমতল নদী অববাহিকা। পলিমাটি উর্বর, কৃষিকাজ সহজ, নদী নাব্য, সড়ক ও রেলপথে যাতায়াত সহজ।
+7. **জলবায়ু:** মানুষ চরমভাবাপন্ন জলবায়ুর চেয়ে সমভাবাপন্ন জলবায়ু পছন্দ করে। বাংলাদেশের সব জায়গায় আবহাওয়া প্রায় একই রকম; তবে উত্তরাঞ্চলে শীত-গ্রীষ্মের তারতম্য কিছুটা বেশি।
+8. **সম্পদ ও শিল্প:** খনিজ, কৃষিজ, বনজ ও প্রাণিজ সম্পদ যেখানে কাজের সুযোগ দেয়, সেখানে শ্রমিকরা জড়ো হয়। একটি প্রধান শিল্পকে ঘিরে আরও অনেক শিল্প গড়ে ওঠে। তেজগাঁও, টঙ্গী, নরসিংদী, খুলনা, চট্টগ্রাম প্রভৃতি শিল্প শহরে বসতি ঘন।
+9. **যোগাযোগ:** সড়ক, রেল বা নদীপথে যেখানে সহজে পৌঁছানো যায়, সেই স্থান জনবহুল হয়ে ওঠে।
+10. **শিক্ষা ও সংস্কৃতি:** যেখানে শিক্ষা ও সংস্কৃতি চর্চার সুযোগ বেশি, সেখানে স্বাভাবিকভাবেই জনবসতি বেশি।
+
+| জনবসতি কম | জনবসতি বেশি |
+| খাড়া পাহাড়, বন, জলাভূমি | সমতল, উর্বর পলিমাটি |
+| রাস্তা কম, রেলপথ নেই | নাব্য নদী, সড়ক, রেলপথ |
+| জীবিকা নির্বাহ কষ্টকর | কৃষি, শিল্প, ব্যবসা, চাকরি |
+| স্কুল-কলেজ কম | কাছেই শিক্ষা ও সংস্কৃতির সুযোগ |
+## definition
+**জনসংখ্যার ঘনত্ব:** প্রতি বর্গ কিলোমিটার ভূমিতে গড়ে যতজন মানুষ বাস করে।
+
+**জনবসতি:** যেখানে মানুষ ঘরবাড়ি তৈরি করে একসাথে বসবাস করে; যেমন গ্রাম বা শহর।
+## matters
+- মানুষ আসলে কোথায় বাস করে তা জেনেই রাস্তা, স্কুল, হাসপাতাল ও কর্মসংস্থানের পরিকল্পনা করতে হয়।
+- খুব ঘনবসতিপূর্ণ স্থানে ভূমি, পানি ও বাসস্থানের ওপর প্রচণ্ড চাপ পড়ে।
+- জনবিরল পাহাড় ও বনের দরকার অন্য রকম যত্ন: প্রকৃতি রক্ষা ও যোগাযোগের উন্নতি।
+## terms
+জনসংখ্যার ঘনত্ব (Population density) | প্রতি বর্গ কিলোমিটারে লোকসংখ্যা
+জনসংখ্যা বৃদ্ধির হার (Growth rate) | প্রতি বছর জনসংখ্যা কত দ্রুত বাড়ে
+জনশুমারি (Census) | একটি দেশের সব মানুষের সরকারি গণনা
+নাব্য (Navigable) | নৌকা ও জাহাজ চলার মতো গভীর
+## facts
+জনসংখ্যা (জনশুমারি ২০২২) | প্রায় ১৬.৯৮ কোটি
+বৃদ্ধির হার (২০২২) | ১.১২%
+ঘনত্ব (২০২২) | প্রতি বর্গ কিমিতে ১,১১৯ জন
+জনসংখ্যা (আদমশুমারি ২০১১) | প্রায় ১৪.৯৭ কোটি; ঘনত্ব ১,০১৫ জন
+জনসংখ্যায় বিশ্বে স্থান | অষ্টম
+জনবিরল এলাকা | পার্বত্য এলাকা ও সুন্দরবন অঞ্চল
+বইয়ে উল্লিখিত শিল্প শহর | তেজগাঁও, টঙ্গী, নরসিংদী, খুলনা, চট্টগ্রাম
+## mistakes
+x পুরো দেশ সমভূমি বলে বাংলাদেশে মানুষ সব জায়গায় সমানভাবে ছড়িয়ে আছে।
+v অঞ্চলভেদে ঘনত্ব আলাদা: পার্বত্য এলাকা ও সুন্দরবন অঞ্চলে খুব কম, নদী-সমভূমি ও শিল্প শহরে খুব বেশি।
+x মানুষ কোথায় বাস করবে তা শুধু ভূপ্রকৃতিই ঠিক করে।
+v জলবায়ু, সম্পদ, শিল্প, যোগাযোগ, শিক্ষা ও সংস্কৃতিরও ভূমিকা আছে।
+## remember
+- জনসংখ্যায় বাংলাদেশ বিশ্বে অষ্টম: প্রায় ১৬.৯৮ কোটি, প্রতি বর্গ কিমিতে ১,১১৯ জন (২০২২)।
+- জনবসতি কম: পার্বত্য এলাকা ও সুন্দরবন অঞ্চল (জীবিকা কষ্টকর, যোগাযোগ অনুন্নত, বনভূমি)।
+- জনবসতি বেশি: উর্বর নদী-সমভূমি, যেখানে কৃষি ও যাতায়াত সহজ।
+- শিল্প, খনিজ, যোগাযোগ, শিক্ষা ও সংস্কৃতি কোনো স্থানকে আরও জনবহুল করে।
+- শিল্প শহর: তেজগাঁও, টঙ্গী, নরসিংদী, খুলনা, চট্টগ্রাম।
+## think
+তোমার বিদ্যালয় যে এলাকায়, সেটির কথা ভাবো। এই পাঠের কোন কোন কারণে সেখানে মানুষ বেশি (বা কম) বাস করে?
+## quiz
+? জনশুমারি ২০২২ অনুসারে বাংলাদেশে প্রতি বর্গ কিলোমিটারে জনসংখ্যার ঘনত্ব
+- ১,০১৫ জন
+* ১,১১৯ জন
+- ১,২৩১ জন
+- ৪৪০ জন
+= ২০২২ সালের জনশুমারিতে ঘনত্ব ১,১১৯ জন; ১,০১৫ ছিল ২০১১ সালের হিসাব।
+? পার্বত্য এলাকায় জনবসতির ঘনত্ব খুব কম কেন?
+- সেখানকার জলবায়ু অত্যন্ত শীতল
+- সেখানে কারও বাস করার অনুমতি নেই
+* জীবিকা নির্বাহ কষ্টকর এবং যোগাযোগ ব্যবস্থা অনুন্নত
+- মাটি অতিরিক্ত উর্বর
+= খাড়া, বনে ঢাকা ভূমি আর রাস্তা ও রেল সংযোগের অভাবে জীবিকা কঠিন, তাই বসতি কম।
+? নদী-সমভূমিতে ঘন জনবসতি গড়ে ওঠার প্রধান কারণ
+- সেখানে অনেক পাহাড়
+- সেখানে বৃষ্টি হয় না
+- সেখানে নদী নেই
+* পলিমাটি উর্বর এবং কৃষি ও যাতায়াত সহজ
+= উর্বর পলি, নাব্য নদী, সড়ক ও রেলপথ সমতল নদী অববাহিকায় মানুষকে আকৃষ্ট করে।
+
+@@ 4.1.4
+@visual g4landuse
+@related 4.1.3 5.2.4 5.2.3
+== en
+## what
+As the population grows, more homes are needed, and they are built on land that used to grow crops. So the spread of settlement keeps reducing farmland, breaks it into small pieces and changes the natural use of the land.
+## visual
+Compare the two bars for land per person, then follow the chain of boxes from top to bottom. Tap a box to read what happens at that step.
+## simple
+Picture a village with a fixed amount of land. Every year there are more families, and each new family needs a house, a yard and a path. The land cannot grow, so each house takes away a little of the fields.
+
+At the same time a father's fields are shared among his children, and theirs among the grandchildren. In a few generations a large farm becomes many tiny plots. When even that is not enough, people fill ponds and canals and cut down trees to make room. Each step seems small, but together they put the whole environment at risk.
+## points
+1. **Too many people for the land:** the population of Bangladesh is very large for its area, and it keeps growing.
+2. **Too little farmland:** the country already has less cultivable land than it needs.
+3. **Houses on fields:** as settlement spreads, homes are built on farmland, so farmland becomes even less. This puts severe pressure on the land.
+4. **Housing problem:** shortage of living space is already felt in both villages and towns.
+5. **Land breaks into pieces:** farmland is divided again and again among heirs. On such small pieces farming by scientific methods is not possible.
+6. **A family's land:** a family that had 100 bighas 30 years ago now has 10 bighas or even less.
+7. **Land per person:** 0.28 acre in 1974; 0.25 acre now; it will fall further.
+8. **Nature is changed:** people fill canals and wetlands and cut down forests to build homes, changing the natural character and use of the land.
+9. **The warning:** if this goes on, a natural disaster will become unavoidable.
+
+> What can be done? Use land in a planned way: build upwards rather than outwards, keep good farmland for farming, protect canals, wetlands and forests, and plant trees.
+## definition
+**Land use:** the way people use land, for example for farming, homes, forests, roads or industry.
+
+**Cultivable land:** land on which crops can be grown.
+## matters
+- Less farmland means it is harder to grow enough food for everyone.
+- Filled wetlands and cleared forests bring waterlogging, floods and loss of wildlife.
+- Your generation will have to live on even less land per person, so careful planning matters now.
+## terms
+Heir (উত্তরাধিকারী) | A person who receives a share of the family's property
+Bigha (বিঘা) | A local unit for measuring land
+Acre (একর) | A unit of land; one acre is about three bighas
+Wetland (খাল-বিল) | Canals, marshes and low land that hold water
+## facts
+Land per person in 1974 | 0.28 acre
+Land per person now | 0.25 acre
+A family's land 30 years ago and now | 100 bighas → 10 bighas or less
+Housing problem | in both villages and towns
+Result of dividing land | scientific farming is not possible on small pieces
+## mistakes
+x Building houses on farmland does no harm, because there is plenty of land.
+v Bangladesh already has less cultivable land than it needs, and every house on a field reduces it further.
+x Filling canals and wetlands only creates useful new land.
+v It changes the natural character of the land and can lead to natural disaster.
+## remember
+- More people → more settlement → less farmland.
+- Farmland is divided among heirs into pieces too small for scientific farming.
+- 100 bighas a generation ago may be 10 bighas or less today.
+- Land per person: 0.28 acre (1974) → 0.25 acre (now).
+- Filling wetlands and cutting forests for homes risks natural disaster.
+## think
+A farmer has 12 bighas of land and four children. If the land is shared equally, how much will each child get? If each of them also has four children, how much will each grandchild get? What problem do you see?
+## quiz
+? What happens to cultivable land when settlement spreads?
+- It increases
+* It decreases
+- It stays the same
+- It turns into forest
+= Homes are built on farmland, so the amount of cultivable land falls.
+? Why is scientific farming not possible on land divided among many heirs?
+- The soil becomes salty
+- The land becomes hilly
+- The rain stops
+* The pieces become too small
+= Repeated division leaves plots so small that modern, scientific methods cannot be used on them.
+? Land per person in Bangladesh was 0.28 acre in 1974. Now it is
+- 0.82 acre
+- 0.50 acre
+* 0.25 acre
+- 1 acre
+= It has fallen from 0.28 to 0.25 acre and will fall further as the population grows.
+== bn
+## what
+জনসংখ্যা বাড়লে বাড়িঘরও বেশি লাগে, আর সেগুলো তৈরি হয় এমন জমিতে যেখানে আগে ফসল হতো। তাই জনবসতি বিস্তারের ফলে চাষযোগ্য জমি ক্রমাগত কমছে, খণ্ড-বিখণ্ড হচ্ছে, আর ভূমির স্বাভাবিক ব্যবহার বদলে যাচ্ছে।
+## visual
+মাথাপিছু জমির দুটি দণ্ড তুলনা করো, তারপর ওপর থেকে নিচে বাক্সগুলো ধাপে ধাপে অনুসরণ করো। প্রতিটি ধাপে কী ঘটে পড়তে বাক্সে চাপ দাও।
+## simple
+নির্দিষ্ট পরিমাণ জমির একটি গ্রামের কথা ভাবো। প্রতি বছর পরিবার বাড়ে, আর প্রতিটি নতুন পরিবারের জন্য লাগে একটি ঘর, উঠান ও চলার পথ। জমি তো বাড়তে পারে না, তাই প্রতিটি বাড়ি একটু একটু করে ফসলের মাঠ নিয়ে নেয়।
+
+একই সাথে বাবার জমি সন্তানদের মধ্যে ভাগ হয়, তাদের জমি নাতি-নাতনিদের মধ্যে। কয়েক প্রজন্মে বড় একটি খামার অনেকগুলো ছোট্ট টুকরা হয়ে যায়। তাতেও যখন কুলায় না, মানুষ পুকুর-খাল ভরাট করে, গাছ কেটে জায়গা বানায়। প্রতিটি ধাপ ছোট মনে হলেও সব মিলে পুরো পরিবেশকে ঝুঁকিতে ফেলে।
+## points
+1. **জমির তুলনায় মানুষ বেশি:** আয়তনের তুলনায় বাংলাদেশের জনসংখ্যা অনেক বেশি, আর তা বেড়েই চলেছে।
+2. **চাষযোগ্য জমি কম:** দেশে প্রয়োজনের তুলনায় চাষযোগ্য জমি এমনিতেই অনেক কম।
+3. **ফসলের জমিতে বাড়িঘর:** বসতি বিস্তারের ফলে আবাদি জমিতে ঘরবাড়ি তৈরি হচ্ছে, তাই চাষযোগ্য জমি আরও কমছে। এতে ভূমির ওপর মারাত্মক চাপ পড়ছে।
+4. **বাসস্থান সমস্যা:** গ্রাম ও শহর দুই জায়গাতেই ইতোমধ্যে বাসস্থান সমস্যা দেখা দিয়েছে।
+5. **জমি খণ্ড-বিখণ্ড:** কৃষিজমি উত্তরাধিকারীদের মধ্যে বারবার ভাগ হচ্ছে। এমন ছোট ছোট খণ্ডে বৈজ্ঞানিক পদ্ধতিতে চাষাবাদ করা যায় না।
+6. **একটি পরিবারের জমি:** ৩০ বছর আগে যে পরিবারের ১০০ বিঘা জমি ছিল, এখন তার আছে ১০ বিঘা বা তারও কম।
+7. **মাথাপিছু জমি:** ১৯৭৪ সালে ০.২৮ একর; বর্তমানে ০.২৫ একর; ভবিষ্যতে আরও কমবে।
+8. **প্রকৃতি বদলে যাচ্ছে:** মানুষ খাল-বিল ভরাট করে, বনজঙ্গল কেটে বসতি গড়ছে; ফলে ভূমির স্বাভাবিক প্রকৃতি ও ব্যবহার বদলে যাচ্ছে।
+9. **সতর্কবার্তা:** এভাবে চলতে থাকলে একসময় প্রাকৃতিক বিপর্যয় অনিবার্য হয়ে উঠবে।
+
+> তাহলে করণীয় কী? ভূমির পরিকল্পিত ব্যবহার: পাশে না ছড়িয়ে ওপরের দিকে ভবন তোলা, ভালো কৃষিজমি কৃষির জন্য রেখে দেওয়া, খাল-বিল ও বন রক্ষা করা এবং গাছ লাগানো।
+## definition
+**ভূমি ব্যবহার:** মানুষ ভূমিকে যেভাবে কাজে লাগায়; যেমন কৃষি, বসতবাড়ি, বন, রাস্তা বা শিল্পের জন্য।
+
+**চাষযোগ্য জমি:** যে জমিতে ফসল ফলানো যায়।
+## matters
+- কৃষিজমি কমলে সবার জন্য যথেষ্ট খাদ্য উৎপাদন করা কঠিন হয়ে পড়ে।
+- জলাভূমি ভরাট ও বন উজাড় হলে জলাবদ্ধতা, বন্যা ও বন্যপ্রাণীর ক্ষতি হয়।
+- তোমাদের প্রজন্মকে আরও কম মাথাপিছু জমিতে বাঁচতে হবে, তাই এখনই সযত্ন পরিকল্পনা দরকার।
+## terms
+উত্তরাধিকারী (Heir) | যে ব্যক্তি পরিবারের সম্পত্তির অংশ পায়
+বিঘা (Bigha) | জমি মাপার একটি স্থানীয় একক
+একর (Acre) | জমির একক; এক একর প্রায় তিন বিঘার সমান
+খাল-বিল (Wetland) | খাল, বিল ও নিচু জলাভূমি, যেখানে পানি জমে থাকে
+## facts
+১৯৭৪ সালে মাথাপিছু জমি | ০.২৮ একর
+বর্তমানে মাথাপিছু জমি | ০.২৫ একর
+একটি পরিবারের জমি, ৩০ বছর আগে ও এখন | ১০০ বিঘা → ১০ বিঘা বা তারও কম
+বাসস্থান সমস্যা | গ্রাম ও শহর দুই জায়গাতেই
+জমি ভাগের ফল | ছোট খণ্ডে বৈজ্ঞানিক চাষাবাদ হয় না
+## mistakes
+x জমি তো অনেক আছে, তাই কৃষিজমিতে বাড়ি বানালে ক্ষতি নেই।
+v বাংলাদেশে প্রয়োজনের তুলনায় চাষযোগ্য জমি এমনিতেই কম; ফসলের জমিতে প্রতিটি বাড়ি তা আরও কমায়।
+x খাল-বিল ভরাট করলে শুধু নতুন কাজের জমি পাওয়া যায়।
+v এতে ভূমির স্বাভাবিক প্রকৃতি বদলে যায় এবং প্রাকৃতিক বিপর্যয় ডেকে আনতে পারে।
+## remember
+- জনসংখ্যা বাড়ে → বসতি বাড়ে → কৃষিজমি কমে।
+- উত্তরাধিকারীদের মধ্যে ভাগ হতে হতে জমি এত ছোট হয় যে বৈজ্ঞানিক চাষ করা যায় না।
+- এক প্রজন্ম আগের ১০০ বিঘা আজ ১০ বিঘা বা তারও কম।
+- মাথাপিছু জমি: ০.২৮ একর (১৯৭৪) → ০.২৫ একর (বর্তমান)।
+- বসতির জন্য খাল-বিল ভরাট ও বন কাটা প্রাকৃতিক বিপর্যয়ের ঝুঁকি বাড়ায়।
+## think
+একজন কৃষকের ১২ বিঘা জমি ও চার সন্তান আছে। জমি সমানভাবে ভাগ হলে প্রত্যেক সন্তান কতটুকু পাবে? তাদের প্রত্যেকেরও যদি চারটি করে সন্তান হয়, প্রত্যেক নাতি-নাতনি কতটুকু পাবে? এতে কী সমস্যা দেখতে পাচ্ছ?
+## quiz
+? জনবসতি বিস্তারের ফলে চাষযোগ্য জমির কী হয়?
+- বাড়ে
+* কমে
+- একই থাকে
+- বনে পরিণত হয়
+= আবাদি জমিতে ঘরবাড়ি তৈরি হয় বলে চাষযোগ্য জমির পরিমাণ কমে যায়।
+? উত্তরাধিকারীদের মধ্যে ভাগ হওয়া জমিতে বৈজ্ঞানিক পদ্ধতিতে চাষ করা যায় না কেন?
+- মাটি লবণাক্ত হয়ে যায়
+- জমি পাহাড়ি হয়ে যায়
+- বৃষ্টি বন্ধ হয়ে যায়
+* জমির খণ্ডগুলো খুব ছোট হয়ে যায়
+= বারবার ভাগ হওয়ায় জমি এত ছোট হয় যে তাতে আধুনিক, বৈজ্ঞানিক পদ্ধতি ব্যবহার করা যায় না।
+? ১৯৭৪ সালে বাংলাদেশে মাথাপিছু জমি ছিল ০.২৮ একর। বর্তমানে তা
+- ০.৮২ একর
+- ০.৫০ একর
+* ০.২৫ একর
+- ১ একর
+= মাথাপিছু জমি ০.২৮ থেকে কমে ০.২৫ একর হয়েছে; জনসংখ্যা বাড়লে আরও কমবে।
+
+@@ 4.2.1
+@visual g4climate
+@related 4.2.2 4.2.3 3.3.4
+== en
+## what
+The climate of Bangladesh is warm, humid and mild. Because the monsoon winds rule it so strongly, it is called a **tropical monsoon climate**. The year has three main seasons: **winter, summer and the rainy season**.
+## visual
+The coloured strip shows which months belong to which season. Choose Winter, Summer or Rainy season to see the textbook's temperatures on the map and the features of that season.
+## simple
+Weather is what the sky is doing today. Climate is the pattern you get when you average the weather of a large area over many years.
+
+Our climate is run by a wind that changes direction with the seasons: the monsoon. In the hot months the land heats up more than the sea, so moist air flows in from the Bay of Bengal and brings rain. In the cool months the flow turns round: dry air blows out from the land, and the sky clears. Bangladesh has six traditional seasons, but by climate they fall into three main ones.
+## points
+1. **Kind of climate:** tropical monsoon; on the whole warm, humid and mild. It never becomes extreme like that of very cold or very hot countries.
+2. **Seasons:** six seasons are seen (summer, rainy season, autumn, late autumn, winter and spring). By the features of the climate they are grouped into three main seasons.
+3. **Winter, November to February:** the Sun is over the southern hemisphere, so its rays reach Bangladesh at a slant and bring less heat. Highest temperature about 29 °C, lowest about 11 °C. January is the coldest month, with an average of 17.7 °C. It gets colder from the sea coast in the south towards the north.
+4. **Summer, March to May:** the hottest season. Highest about 38 °C, lowest about 21 °C. April is the hottest month on average. Sea winds keep the south a little cooler, so the temperature rises from south to north.
+5. **Kalbaishakhi:** in summer the moist south-west monsoon begins to blow, while dry, cool air comes from the west and north-west. Where they meet, a violent storm called Kalbaishakhi (the Nor'wester) is formed.
+6. **Cyclones:** in April and May, depressions in the Bay of Bengal often send destructive cyclones to the coast. The cyclone and tidal surge of 29 April 1991 caused great loss of life and property, especially on the Chattogram coast.
+7. **Rainy season, June to October:** it begins when the monsoon arrives at the end of June. The Sun shines almost vertically, but the heavy rain keeps the temperature from rising much. The weather stays warm, about 27 °C on average. June and September are the hottest months of this season.
+
+| | Winter | Summer | Rainy season |
+| Months | November–February | March–May | June–October |
+| Temperature | 11 °C to 29 °C | 21 °C to 38 °C | about 27 °C on average |
+| Special month | January, coldest (17.7 °C) | April, hottest | June and September, warmest |
+| Wind | dry north-east monsoon | south-west monsoon begins; Kalbaishakhi | moist south-west monsoon |
+| Rain | very little | storms and some rain | four-fifths of the year's rain |
+
+> The English edition of the textbook prints "southeast monsoon" in one place. The summer monsoon of Bangladesh blows from the south-west, as the Bangla edition says.
+## definition
+**Climate:** the average, over many years, of the daily condition of the elements of weather across a large area.
+
+**Tropical monsoon climate:** a warm, humid climate in which seasonal monsoon winds bring a wet season and a dry season.
+
+**Kalbaishakhi:** the violent storm of the summer months that comes from the north-west.
+## why
+Why is winter cooler in the north and summer hotter in the north? The sea changes temperature slowly, so it keeps the coast mild in every season. The north is far from the sea, so it cools more in winter and heats more in summer. That is why Dinajpur is colder than Chattogram in January, and Rajshahi is hotter than Cox's Bazar in April.
+## matters
+- Farmers choose their crops and sowing dates by the three seasons.
+- Knowing the season of Kalbaishakhi and cyclones helps people to prepare and to save lives.
+- A mild climate with plenty of rain is the reason our land is so green and so thickly settled.
+## terms
+Monsoon (মৌসুমি বায়ু) | A wind that changes its direction with the season
+Humid (আর্দ্র) | Holding a lot of water vapour
+Mild or equable (সমভাবাপন্ন) | Without great extremes of heat or cold
+Depression (নিম্নচাপ) | An area of low air pressure over the sea, from which storms may grow
+Isotherm (সমতাপ রেখা) | A line on a map joining places with the same temperature
+## facts
+Coldest month | January (average 17.7 °C)
+Hottest month | April
+January averages | Chattogram about 20 °C, Noakhali 19.4 °C, Dhaka 18.3 °C, Bogura 17.7 °C, Dinajpur 16.6 °C
+April averages | Cox's Bazar 27.64 °C, Narayanganj 28.66 °C, Rajshahi about 30 °C
+Average of the rainy season | about 27 °C
+Monsoon arrives | end of June
+Great cyclone named in the book | 29 April 1991
+## mistakes
+x Bangladesh has only three seasons.
+v It has six seasons. By the features of the climate they are grouped into three main ones.
+x The rainy season is the hottest season because the Sun is overhead.
+v The Sun is overhead, but heavy rain holds the temperature down. Summer (March to May) is the hottest season.
+## remember
+- Climate of Bangladesh: tropical monsoon; warm, humid and mild.
+- Winter: November–February; January coldest (17.7 °C); colder towards the north.
+- Summer: March–May; April hottest; hotter towards the north; Kalbaishakhi and cyclones.
+- Rainy season: June–October; begins at the end of June; average about 27 °C.
+- Rainy season wind: south-west monsoon; winter wind: north-east monsoon.
+## think
+In January, Chattogram averages about 20 °C and Dinajpur 16.6 °C. In April, Cox's Bazar is cooler than Rajshahi. What one thing explains both facts?
+## quiz
+? The climate of Bangladesh is known as
+- desert climate
+- polar climate
+* tropical monsoon climate
+- Mediterranean climate
+= The monsoon winds influence it so strongly that it is called a tropical monsoon climate.
+? Which is the coldest month in Bangladesh?
+* January
+- December
+- February
+- November
+= January is the coldest month, with an average temperature of 17.7 °C.
+? The storm called Kalbaishakhi occurs mainly in
+- winter
+- the rainy season
+- late autumn
+* summer
+= In summer dry, cool air from the west and north-west meets the moist monsoon air and forms Kalbaishakhi.
+== bn
+## what
+বাংলাদেশের জলবায়ু মোটামুটি উষ্ণ, আর্দ্র ও সমভাবাপন্ন। মৌসুমি বায়ুর প্রভাব এখানে এত বেশি যে একে **ক্রান্তীয় মৌসুমি জলবায়ু** বলা হয়। বছরে প্রধান তিনটি ঋতু: **শীতকাল, গ্রীষ্মকাল ও বর্ষাকাল**।
+## visual
+রঙিন ফিতায় দেখো কোন মাস কোন ঋতুর। শীত, গ্রীষ্ম বা বর্ষা বেছে নিলে মানচিত্রে পাঠ্যবইয়ের তাপমাত্রা আর নিচে ওই ঋতুর বৈশিষ্ট্য দেখা যাবে।
+## simple
+আজ আকাশের যে অবস্থা, সেটি আবহাওয়া। একটি বড় অঞ্চলের বহু বছরের আবহাওয়ার গড় অবস্থাই জলবায়ু।
+
+আমাদের জলবায়ু চালায় এমন এক বায়ু, যা ঋতুর সাথে দিক বদলায়: মৌসুমি বায়ু। গরমের মাসগুলোতে সমুদ্রের চেয়ে স্থলভাগ বেশি গরম হয়, তাই বঙ্গোপসাগর থেকে জলীয় বাষ্পে ভরা বায়ু এসে বৃষ্টি ঘটায়। ঠান্ডার মাসগুলোতে প্রবাহ উল্টে যায়: স্থলভাগ থেকে শুষ্ক বায়ু বয়, আকাশ পরিষ্কার থাকে। বাংলাদেশে প্রচলিত ঋতু ছয়টি, তবে জলবায়ুর বৈশিষ্ট্যে এগুলোকে প্রধান তিনটি ঋতুতে ভাগ করা যায়।
+## points
+1. **জলবায়ুর ধরন:** ক্রান্তীয় মৌসুমি; মোটামুটি উষ্ণ, আর্দ্র ও সমভাবাপন্ন। শীতপ্রধান বা গ্রীষ্মপ্রধান দেশের মতো কখনো চরমভাবাপন্ন হয় না।
+2. **ঋতু:** ছয়টি ঋতু দেখা যায় (গ্রীষ্ম, বর্ষা, শরৎ, হেমন্ত, শীত ও বসন্ত)। জলবায়ুর বৈশিষ্ট্যের ভিত্তিতে এগুলোকে প্রধান তিনটি ঋতু হিসেবে দেখানো যায়।
+3. **শীতকাল, নভেম্বর থেকে ফেব্রুয়ারি:** সূর্য দক্ষিণ গোলার্ধে থাকে, তাই বাংলাদেশে রশ্মি তির্যকভাবে পড়ে এবং উত্তাপ কমে যায়। সর্বোচ্চ তাপমাত্রা প্রায় ২৯ °সে, সর্বনিম্ন প্রায় ১১ °সে। জানুয়ারি শীতলতম মাস, গড় তাপমাত্রা ১৭.৭ °সে। দক্ষিণের সমুদ্র উপকূল থেকে উত্তর দিকে তাপমাত্রা ক্রমশ কমে।
+4. **গ্রীষ্মকাল, মার্চ থেকে মে:** উষ্ণতম ঋতু। সর্বোচ্চ প্রায় ৩৮ °সে, সর্বনিম্ন প্রায় ২১ °সে। গড় হিসাবে এপ্রিল উষ্ণতম মাস। সামুদ্রিক বায়ুর প্রভাবে দক্ষিণ কিছুটা ঠান্ডা থাকে, তাই দক্ষিণ থেকে উত্তরে তাপমাত্রা বাড়ে।
+5. **কালবৈশাখী:** গ্রীষ্মে আর্দ্র দক্ষিণ-পশ্চিম মৌসুমি বায়ু বইতে শুরু করে, একই সময়ে পশ্চিম ও উত্তর-পশ্চিম দিক থেকে শুষ্ক ও শীতল বায়ু আসে। এ দুইয়ের মিলনে যে প্রবল ঝড় হয় তার নাম কালবৈশাখী।
+6. **ঘূর্ণিঝড়:** এপ্রিল ও মে মাসে বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের কারণে উপকূলীয় অঞ্চলে প্রায়ই প্রলয়ঙ্করী ঘূর্ণিঝড় আঘাত করে। ১৯৯১ সালের ২৯ এপ্রিলের ঘূর্ণিঝড় ও জলোচ্ছ্বাসে বিশেষ করে চট্টগ্রাম উপকূলে ব্যাপক জীবন ও সম্পদহানি ঘটেছিল।
+7. **বর্ষাকাল, জুন থেকে অক্টোবর:** জুন মাসের শেষ দিকে মৌসুমি বায়ু এলে বর্ষা শুরু হয়। সূর্য প্রায় লম্বভাবে কিরণ দেয়, কিন্তু প্রচুর বৃষ্টির কারণে তাপমাত্রা তেমন বাড়ে না। আবহাওয়া উষ্ণ থাকে, গড় তাপমাত্রা প্রায় ২৭ °সে। বর্ষাকালের মধ্যে জুন ও সেপ্টেম্বরে গরম সবচেয়ে বেশি।
+
+| | শীতকাল | গ্রীষ্মকাল | বর্ষাকাল |
+| মাস | নভেম্বর-ফেব্রুয়ারি | মার্চ-মে | জুন-অক্টোবর |
+| তাপমাত্রা | ১১ °সে থেকে ২৯ °সে | ২১ °সে থেকে ৩৮ °সে | গড়ে প্রায় ২৭ °সে |
+| বিশেষ মাস | জানুয়ারি, শীতলতম (১৭.৭ °সে) | এপ্রিল, উষ্ণতম | জুন ও সেপ্টেম্বর, বেশি গরম |
+| বায়ু | শুষ্ক উত্তর-পূর্ব মৌসুমি বায়ু | দক্ষিণ-পশ্চিম মৌসুমি বায়ুর শুরু; কালবৈশাখী | আর্দ্র দক্ষিণ-পশ্চিম মৌসুমি বায়ু |
+| বৃষ্টি | খুব কম | ঝড় ও কিছু বৃষ্টি | বছরের মোট বৃষ্টির পাঁচ ভাগের চার ভাগ |
+
+> পাঠ্যবইয়ের ইংরেজি সংস্করণে এক জায়গায় "southeast monsoon" ছাপা হয়েছে। বাংলাদেশের গ্রীষ্ম-বর্ষার মৌসুমি বায়ু আসে দক্ষিণ-পশ্চিম দিক থেকে, বাংলা বইয়ে যেমন আছে।
+## definition
+**জলবায়ু:** একটি বৃহৎ অঞ্চলের আবহাওয়ার উপাদানগুলোর দৈনন্দিন অবস্থার দীর্ঘদিনের গড় অবস্থা।
+
+**ক্রান্তীয় মৌসুমি জলবায়ু:** উষ্ণ, আর্দ্র জলবায়ু, যেখানে ঋতুভিত্তিক মৌসুমি বায়ু একটি আর্দ্র ঋতু ও একটি শুষ্ক ঋতু আনে।
+
+**কালবৈশাখী:** গ্রীষ্মকালে উত্তর-পশ্চিম দিক থেকে আসা প্রবল ঝড়।
+## why
+শীতকালে উত্তরে ঠান্ডা বেশি আর গ্রীষ্মকালে উত্তরেই গরম বেশি কেন? সমুদ্রের তাপমাত্রা ধীরে বদলায়, তাই সব ঋতুতেই উপকূলের আবহাওয়া মৃদু থাকে। উত্তরাঞ্চল সমুদ্র থেকে দূরে, তাই শীতে বেশি ঠান্ডা আর গ্রীষ্মে বেশি গরম হয়। এ কারণেই জানুয়ারিতে চট্টগ্রামের চেয়ে দিনাজপুর ঠান্ডা, আর এপ্রিলে কক্সবাজারের চেয়ে রাজশাহী গরম।
+## matters
+- কৃষক এই তিন ঋতু দেখেই ফসল বাছেন ও বপনের সময় ঠিক করেন।
+- কালবৈশাখী ও ঘূর্ণিঝড়ের মৌসুম জানা থাকলে প্রস্তুতি নেওয়া যায়, প্রাণ বাঁচে।
+- সমভাবাপন্ন জলবায়ু ও প্রচুর বৃষ্টির কারণেই আমাদের দেশ এত সবুজ ও ঘনবসতিপূর্ণ।
+## terms
+মৌসুমি বায়ু (Monsoon) | যে বায়ু ঋতুর সাথে দিক বদলায়
+আর্দ্র (Humid) | যাতে জলীয় বাষ্প বেশি থাকে
+সমভাবাপন্ন (Mild or equable) | যেখানে খুব বেশি গরম বা খুব বেশি শীত পড়ে না
+নিম্নচাপ (Depression) | সমুদ্রের ওপর বায়ুর চাপ কম এমন এলাকা, যেখান থেকে ঝড় তৈরি হতে পারে
+সমতাপ রেখা (Isotherm) | মানচিত্রে একই তাপমাত্রার স্থানগুলোকে যুক্ত করা রেখা
+## facts
+শীতলতম মাস | জানুয়ারি (গড় ১৭.৭ °সে)
+উষ্ণতম মাস | এপ্রিল
+জানুয়ারির গড় তাপমাত্রা | চট্টগ্রাম প্রায় ২০ °সে, নোয়াখালী ১৯.৪ °সে, ঢাকা ১৮.৩ °সে, বগুড়া ১৭.৭ °সে, দিনাজপুর ১৬.৬ °সে
+এপ্রিলের গড় তাপমাত্রা | কক্সবাজার ২৭.৬৪ °সে, নারায়ণগঞ্জ ২৮.৬৬ °সে, রাজশাহী প্রায় ৩০ °সে
+বর্ষাকালের গড় তাপমাত্রা | প্রায় ২৭ °সে
+মৌসুমি বায়ুর আগমন | জুন মাসের শেষ দিকে
+বইয়ে উল্লিখিত বড় ঘূর্ণিঝড় | ২৯ এপ্রিল ১৯৯১
+## mistakes
+x বাংলাদেশে ঋতু মাত্র তিনটি।
+v ঋতু ছয়টি। জলবায়ুর বৈশিষ্ট্যের ভিত্তিতে সেগুলোকে প্রধান তিনটি ঋতুতে ভাগ করা হয়।
+x সূর্য মাথার ওপর থাকে বলে বর্ষাকালই সবচেয়ে গরম ঋতু।
+v সূর্য লম্বভাবে কিরণ দেয় ঠিকই, কিন্তু প্রচুর বৃষ্টি তাপমাত্রা বাড়তে দেয় না। উষ্ণতম ঋতু গ্রীষ্মকাল (মার্চ-মে)।
+## remember
+- বাংলাদেশের জলবায়ু: ক্রান্তীয় মৌসুমি; উষ্ণ, আর্দ্র ও সমভাবাপন্ন।
+- শীতকাল: নভেম্বর-ফেব্রুয়ারি; জানুয়ারি শীতলতম (১৭.৭ °সে); উত্তরে ঠান্ডা বেশি।
+- গ্রীষ্মকাল: মার্চ-মে; এপ্রিল উষ্ণতম; উত্তরে গরম বেশি; কালবৈশাখী ও ঘূর্ণিঝড়।
+- বর্ষাকাল: জুন-অক্টোবর; জুনের শেষে শুরু; গড় তাপমাত্রা প্রায় ২৭ °সে।
+- বর্ষার বায়ু: দক্ষিণ-পশ্চিম মৌসুমি; শীতের বায়ু: উত্তর-পূর্ব মৌসুমি।
+## think
+জানুয়ারিতে চট্টগ্রামের গড় তাপমাত্রা প্রায় ২০ °সে আর দিনাজপুরের ১৬.৬ °সে। আবার এপ্রিলে রাজশাহীর চেয়ে কক্সবাজার ঠান্ডা। কোন একটি কারণ দিয়ে দুটি ঘটনাই ব্যাখ্যা করা যায়?
+## quiz
+? বাংলাদেশের জলবায়ু কী নামে পরিচিত?
+- মরু জলবায়ু
+- মেরু জলবায়ু
+* ক্রান্তীয় মৌসুমি জলবায়ু
+- ভূমধ্যসাগরীয় জলবায়ু
+= মৌসুমি বায়ুর প্রভাব এত বেশি যে একে ক্রান্তীয় মৌসুমি জলবায়ু বলা হয়।
+? বাংলাদেশের শীতলতম মাস কোনটি?
+* জানুয়ারি
+- ডিসেম্বর
+- ফেব্রুয়ারি
+- নভেম্বর
+= জানুয়ারি শীতলতম মাস; এ মাসের গড় তাপমাত্রা ১৭.৭ °সে।
+? কালবৈশাখী ঝড় প্রধানত কোন ঋতুতে হয়?
+- শীতকালে
+- বর্ষাকালে
+- হেমন্তকালে
+* গ্রীষ্মকালে
+= গ্রীষ্মে পশ্চিম ও উত্তর-পশ্চিমের শুষ্ক, শীতল বায়ু আর্দ্র মৌসুমি বায়ুর সাথে মিলে কালবৈশাখী সৃষ্টি করে।
+
+@@ 4.2.2
+@visual g4rain
+@related 4.2.1 4.2.4 5.1.4
+== en
+## what
+Four-fifths of all the rain of Bangladesh falls in the rainy season, brought by the **south-west monsoon**. The rain is not the same everywhere: it increases from the west of the country to the east, and it is heaviest at the foot of the hills and along the coast.
+## visual
+Switch between "west to east" and "foothills and the coast". The circles on the map and the bars below show the textbook's rainfall figures in centimetres.
+## simple
+The monsoon wind comes from the south-west after a long journey over the sea, so it is loaded with water vapour. When this wet air meets hills it is forced to rise. Rising air cools, its vapour turns into drops, and rain pours down.
+
+That is why the hilly edges of the country (Sylhet, Chattogram, Rangamati, Cox's Bazar) get the most rain, and why the east, which is nearer the hills, is wetter than the west. By the time the wind reaches Pabna in the west it has already dropped much of its water.
+## points
+1. **When:** four-fifths of the year's total rain falls in the rainy season (June to October).
+2. **How much:** the average rainfall of the season ranges from a least of 119 cm to a most of 340 cm.
+3. **West to east:** rain increases steadily from the west towards the east: Pabna about 114 cm, Dhaka 120 cm, Cumilla 140 cm, Sreemangal 180 cm and Rangamati 190 cm.
+4. **Foothills and coast:** at the foot of the hills and along the coast, no place gets less than 200 cm.
+5. **The wettest places:** the hills of Sylhet 340 cm, Cox's Bazar 320 cm, the Rangamati area 280 cm, Chattogram 250 cm and Patuakhali 200 cm.
+6. **Winter rain:** in winter the north-east monsoon brings only a little rain.
+
+| West → east | Rain (cm) | Foothills and coast | Rain (cm) |
+| Pabna | 114 | Patuakhali | 200 |
+| Dhaka | 120 | Chattogram | 250 |
+| Cumilla | 140 | Rangamati area | 280 |
+| Sreemangal | 180 | Cox's Bazar | 320 |
+| Rangamati | 190 | Hills of Sylhet | 340 |
+
+> You may notice two things in these textbook figures. Rangamati appears twice, with 190 cm in one list and 280 cm in the other. And Pabna's 114 cm is a little below the "least" of 119 cm. Learn the figures as the book gives them; the pattern they show (drier west, wetter east and hills) is what matters.
+## definition
+**Monsoon rainfall:** the rain brought in the rainy season by the moist south-west monsoon wind.
+
+**Relief rain:** rain that falls when moist air is forced to rise over hills and cools.
+## matters
+- This rain fills the rivers, wetlands and fields; rice and jute depend on it.
+- Too much rain in a short time brings floods and landslides; too little or too late brings crop loss.
+- Because almost all the rain comes in one season, water has to be saved for the dry months.
+## terms
+South-west monsoon (দক্ষিণ-পশ্চিম মৌসুমি বায়ু) | The moist wind of the rainy season, coming from the sea
+North-east monsoon (উত্তর-পূর্ব মৌসুমি বায়ু) | The dry wind of winter, coming from the land
+Water vapour (জলীয় বাষ্প) | Water in the form of gas, carried in the air
+Foothills (পর্বতের পাদদেশ) | The land at the bottom of hills
+## facts
+Share of the year's rain in the rainy season | four-fifths
+Least and most (season average) | 119 cm and 340 cm
+Most rain | hills of Sylhet, 340 cm
+Along the foothills and coast | never less than 200 cm
+Direction of increase | from west to east
+## mistakes
+x It rains equally all over Bangladesh in the rainy season.
+v Rain increases from west to east and is heaviest near the hills and the coast.
+x The monsoon wind brings rain because it is a cold wind.
+v It brings rain because it has crossed the sea and is full of water vapour.
+## remember
+- Four-fifths of the year's rain falls in the rainy season, from the south-west monsoon.
+- Season average: least 119 cm, most 340 cm.
+- West → east: Pabna 114, Dhaka 120, Cumilla 140, Sreemangal 180, Rangamati 190 cm.
+- Foothills and coast: at least 200 cm; Sylhet hills 340, Cox's Bazar 320, Rangamati 280, Chattogram 250, Patuakhali 200 cm.
+- Winter has little rain (north-east monsoon).
+## think
+Sylhet and Pabna are in the same country and get the same monsoon wind. Why does one get about three times as much rain as the other?
+## quiz
+? What part of the total yearly rainfall of Bangladesh falls in the rainy season?
+- One-fifth
+- Half
+* Four-fifths
+- All of it
+= Four-fifths of the rain comes in the rainy season; the rest falls in the other months.
+? In the rainy season, rainfall in Bangladesh increases
+- from east to west
+* from west to east
+- from south to north only
+- equally everywhere
+= Pabna in the west gets about 114 cm, while places in the east and near the hills get far more.
+? According to the textbook, the heaviest monsoon rain (340 cm) falls in
+- Pabna
+- Dhaka
+- Patuakhali
+* the hills of Sylhet
+= The hilly area of Sylhet gets about 340 cm, the most in the country.
+== bn
+## what
+বাংলাদেশের মোট বৃষ্টিপাতের পাঁচ ভাগের চার ভাগ হয় বর্ষাকালে, **দক্ষিণ-পশ্চিম মৌসুমি বায়ুর** প্রভাবে। বৃষ্টি সব জায়গায় সমান হয় না: দেশের পশ্চিম থেকে পূর্ব দিকে বাড়ে, আর পাহাড়ের পাদদেশ ও উপকূলে সবচেয়ে বেশি হয়।
+## visual
+"পশ্চিম থেকে পূর্বে" ও "পাহাড়ের পাদদেশ ও উপকূল" এই দুটির মধ্যে বদল করো। মানচিত্রের বৃত্ত ও নিচের দণ্ডে পাঠ্যবইয়ের বৃষ্টিপাতের পরিমাণ সেন্টিমিটারে দেখানো হয়েছে।
+## simple
+মৌসুমি বায়ু সমুদ্রের ওপর দিয়ে দীর্ঘ পথ পার হয়ে দক্ষিণ-পশ্চিম দিক থেকে আসে, তাই এতে প্রচুর জলীয় বাষ্প থাকে। এই ভেজা বায়ু পাহাড়ে বাধা পেলে ওপরে উঠতে বাধ্য হয়। ওপরে উঠলে বায়ু ঠান্ডা হয়, বাষ্প পানির ফোঁটায় পরিণত হয়, আর বৃষ্টি ঝরে।
+
+এ কারণেই দেশের পাহাড়ি প্রান্তগুলোতে (সিলেট, চট্টগ্রাম, রাঙ্গামাটি, কক্সবাজার) বৃষ্টি সবচেয়ে বেশি, আর পাহাড়ের কাছের পূর্বাঞ্চল পশ্চিমাঞ্চলের চেয়ে বেশি ভেজা। পশ্চিমের পাবনায় পৌঁছাতে পৌঁছাতে বায়ু তার অনেকখানি পানি ঝরিয়ে ফেলে।
+## points
+1. **কখন:** বছরের মোট বৃষ্টিপাতের পাঁচ ভাগের চার ভাগ হয় বর্ষাকালে (জুন থেকে অক্টোবর)।
+2. **কতটা:** এ সময়ের গড় বৃষ্টিপাত সর্বনিম্ন ১১৯ সেমি এবং সর্বোচ্চ ৩৪০ সেমি।
+3. **পশ্চিম থেকে পূর্বে:** বৃষ্টিপাত ক্রমেই বাড়ে: পাবনায় প্রায় ১১৪ সেমি, ঢাকায় ১২০ সেমি, কুমিল্লায় ১৪০ সেমি, শ্রীমঙ্গলে ১৮০ সেমি এবং রাঙ্গামাটিতে ১৯০ সেমি।
+4. **পাহাড়ের পাদদেশ ও উপকূল:** পর্বতের পাদদেশে এবং উপকূলবর্তী অঞ্চলের কোথাও ২০০ সেমির কম বৃষ্টি হয় না।
+5. **সবচেয়ে বেশি বৃষ্টির স্থান:** সিলেটের পাহাড়িয়া অঞ্চলে ৩৪০ সেমি, কক্সবাজারে ৩২০ সেমি, রাঙ্গামাটি অঞ্চলে ২৮০ সেমি, চট্টগ্রামে ২৫০ সেমি এবং পটুয়াখালীতে ২০০ সেমি।
+6. **শীতের বৃষ্টি:** শীতকালে উত্তর-পূর্ব মৌসুমি বায়ুর প্রভাবে সামান্য বৃষ্টি হয়।
+
+| পশ্চিম → পূর্ব | বৃষ্টি (সেমি) | পাহাড়ের পাদদেশ ও উপকূল | বৃষ্টি (সেমি) |
+| পাবনা | ১১৪ | পটুয়াখালী | ২০০ |
+| ঢাকা | ১২০ | চট্টগ্রাম | ২৫০ |
+| কুমিল্লা | ১৪০ | রাঙ্গামাটি অঞ্চল | ২৮০ |
+| শ্রীমঙ্গল | ১৮০ | কক্সবাজার | ৩২০ |
+| রাঙ্গামাটি | ১৯০ | সিলেটের পাহাড়িয়া অঞ্চল | ৩৪০ |
+
+> পাঠ্যবইয়ের এই সংখ্যাগুলোতে দুটি বিষয় তোমার চোখে পড়তে পারে। রাঙ্গামাটির নাম দুবার আছে: এক তালিকায় ১৯০ সেমি, আরেক তালিকায় ২৮০ সেমি। আর পাবনার ১১৪ সেমি "সর্বনিম্ন" ১১৯ সেমির চেয়ে কিছুটা কম। বইয়ে যেমন আছে তেমনই শেখো; আসল কথা হলো ধরনটি: পশ্চিম শুষ্কতর, পূর্ব ও পাহাড়ি এলাকা বেশি ভেজা।
+## definition
+**মৌসুমি বৃষ্টিপাত:** বর্ষাকালে আর্দ্র দক্ষিণ-পশ্চিম মৌসুমি বায়ুর প্রভাবে যে বৃষ্টি হয়।
+
+**শৈলোৎক্ষেপ বৃষ্টি:** আর্দ্র বায়ু পাহাড়ে বাধা পেয়ে ওপরে উঠে ঠান্ডা হলে যে বৃষ্টি হয়।
+## matters
+- এই বৃষ্টিতেই নদী, খাল-বিল ও মাঠ ভরে; ধান ও পাট এর ওপর নির্ভর করে।
+- অল্প সময়ে বেশি বৃষ্টি হলে বন্যা ও ভূমিধস হয়; কম বা দেরিতে বৃষ্টি হলে ফসলের ক্ষতি হয়।
+- প্রায় সব বৃষ্টি এক ঋতুতে হয় বলে শুষ্ক মাসগুলোর জন্য পানি ধরে রাখতে হয়।
+## terms
+দক্ষিণ-পশ্চিম মৌসুমি বায়ু (South-west monsoon) | সমুদ্র থেকে আসা বর্ষাকালের আর্দ্র বায়ু
+উত্তর-পূর্ব মৌসুমি বায়ু (North-east monsoon) | স্থলভাগ থেকে আসা শীতকালের শুষ্ক বায়ু
+জলীয় বাষ্প (Water vapour) | বায়ুতে মিশে থাকা গ্যাসীয় অবস্থার পানি
+পর্বতের পাদদেশ (Foothills) | পাহাড়ের নিচের দিকের ভূমি
+## facts
+বর্ষাকালে বছরের মোট বৃষ্টির | পাঁচ ভাগের চার ভাগ
+সর্বনিম্ন ও সর্বোচ্চ (ঋতুর গড়) | ১১৯ সেমি ও ৩৪০ সেমি
+সবচেয়ে বেশি বৃষ্টি | সিলেটের পাহাড়িয়া অঞ্চল, ৩৪০ সেমি
+পাহাড়ের পাদদেশ ও উপকূলে | কোথাও ২০০ সেমির কম নয়
+বৃষ্টি বাড়ে | পশ্চিম থেকে পূর্ব দিকে
+## mistakes
+x বর্ষাকালে বাংলাদেশের সব জায়গায় সমান বৃষ্টি হয়।
+v বৃষ্টি পশ্চিম থেকে পূর্বে বাড়ে এবং পাহাড় ও উপকূলের কাছে সবচেয়ে বেশি হয়।
+x মৌসুমি বায়ু ঠান্ডা বায়ু বলে বৃষ্টি আনে।
+v এই বায়ু সমুদ্র পার হয়ে আসে বলে জলীয় বাষ্পে ভরা থাকে; তাই বৃষ্টি আনে।
+## remember
+- বছরের মোট বৃষ্টির পাঁচ ভাগের চার ভাগ হয় বর্ষাকালে, দক্ষিণ-পশ্চিম মৌসুমি বায়ু থেকে।
+- ঋতুর গড়: সর্বনিম্ন ১১৯ সেমি, সর্বোচ্চ ৩৪০ সেমি।
+- পশ্চিম → পূর্ব: পাবনা ১১৪, ঢাকা ১২০, কুমিল্লা ১৪০, শ্রীমঙ্গল ১৮০, রাঙ্গামাটি ১৯০ সেমি।
+- পাদদেশ ও উপকূল: অন্তত ২০০ সেমি; সিলেটের পাহাড় ৩৪০, কক্সবাজার ৩২০, রাঙ্গামাটি ২৮০, চট্টগ্রাম ২৫০, পটুয়াখালী ২০০ সেমি।
+- শীতকালে বৃষ্টি সামান্য (উত্তর-পূর্ব মৌসুমি বায়ু)।
+## think
+সিলেট ও পাবনা একই দেশে, একই মৌসুমি বায়ু পায়। তবু একটিতে অন্যটির প্রায় তিন গুণ বৃষ্টি হয় কেন?
+## quiz
+? বাংলাদেশের মোট বার্ষিক বৃষ্টিপাতের কত অংশ বর্ষাকালে হয়?
+- পাঁচ ভাগের এক ভাগ
+- অর্ধেক
+* পাঁচ ভাগের চার ভাগ
+- পুরোটাই
+= পাঁচ ভাগের চার ভাগ বৃষ্টি বর্ষাকালে হয়; বাকিটা অন্য মাসগুলোতে।
+? বর্ষাকালে বাংলাদেশে বৃষ্টিপাত ক্রমেই বাড়ে
+- পূর্ব থেকে পশ্চিমে
+* পশ্চিম থেকে পূর্বে
+- শুধু দক্ষিণ থেকে উত্তরে
+- সব জায়গায় সমানভাবে
+= পশ্চিমের পাবনায় প্রায় ১১৪ সেমি, আর পূর্বে ও পাহাড়ের কাছে অনেক বেশি বৃষ্টি হয়।
+? পাঠ্যবই অনুসারে বর্ষাকালে সবচেয়ে বেশি বৃষ্টি (৩৪০ সেমি) হয়
+- পাবনায়
+- ঢাকায়
+- পটুয়াখালীতে
+* সিলেটের পাহাড়িয়া অঞ্চলে
+= সিলেটের পাহাড়িয়া অঞ্চলে প্রায় ৩৪০ সেমি বৃষ্টি হয়, যা দেশে সর্বোচ্চ।
+
+@@ 4.2.3
+@visual g4compare
+@related 4.2.1 4.2.2 5.2.1
+== en
+## what
+India, Myanmar and Nepal, like Bangladesh, live under the monsoon. But their seasons and temperatures differ, because the countries differ in size, in height, in distance from the sea and in their mountains.
+## visual
+Tap a country on the map or choose it with the buttons. The strips show its seasons month by month beside those of the other three, and the card lists the features of its climate.
+## simple
+The same monsoon wind blows over all four countries, yet it does not treat them alike. India is so huge that it holds a hot desert, snowy mountains and wet coasts all at once. Myanmar is shaped much like our own climate, with three seasons. Nepal sits high in the mountains, so it never gets very hot.
+
+One great wall changes everything: the Himalayas. In winter it stops the dry, icy winds of Central Asia from pouring south. In the rainy season it blocks the wet monsoon and makes it drop its rain.
+## points
+1. **Bangladesh:** tropical monsoon climate; three main seasons (winter, summer, rainy season); mild in every season.
+2. **India, a varied climate:** a very large country, so the climate varies with latitude, distance from the sea and the lie of the land. It lies in the monsoon region, and its temperature, rain and humidity depend on the monsoon.
+3. **India's seasons:** winter (December to February), summer (March to May), rainy season (June to September), and autumn with late autumn (October and November).
+4. **India in winter:** a dry, cold wind (the north-east monsoon) blows over the land. The Himalayas stand like a wall and keep the icy northern air out, so the weather is dry, cool and pleasant, with clear skies.
+5. **India in summer:** the Ganges valley averages 27 °C, and it gets hotter towards the north-west, where the desert reaches 48 °C. In May Kolkata can reach 43 °C.
+6. **India in the rainy season:** great heat makes a strong low-pressure area over Punjab. Moist wind from the sea is drawn in as the south-west monsoon, in two branches: the Arabian Sea branch and the Bay of Bengal branch. Stopped by the Himalayas and other mountains, it gives about 75% of India's rain.
+7. **India in autumn:** the south-west monsoon turns back and becomes the north-east monsoon. Cyclonic storms bring rain to West Bengal, Odisha and Tamil Nadu. In West Bengal this storm is called the *Ashwina* storm.
+8. **Myanmar:** tropical monsoon type, with three clear seasons. Summer (March to May) averages about 29 °C. The rainy season (June to October) brings up to 200 cm on the Arakan and Tenasserim coasts but only about 80 cm in the far northern hills. In winter the northern mountains keep the cold from being severe, though snow falls on the high ranges.
+9. **Nepal:** two seasons stand out. The rainy season is June to September; winter, from November to January, is very dry. Kathmandu is 24.4 °C in July and about 10 °C in January. Being high mountain country, no part gets very hot. Average yearly rain is 145 cm, almost all of it from June to September.
+
+| | Bangladesh | India | Myanmar | Nepal |
+| Main seasons | 3 | 4 | 3 | 2 clear ones |
+| Rainy season | June–October | June–September | June–October | June–September |
+| Rain in the rainy season | four-fifths of the total | about 75% of the total | 80 to 200 cm by region | nearly all of 145 cm |
+| Special feature | mild all year | very varied; desert up to 48 °C | snow in the high north | never very hot |
+
+> A small repair: the English edition of the textbook calls India's winter wind an "eastern monsoon", and both editions say that Kolkata's summer average "does not exceed 20 °C". The winter wind is the north-east monsoon, and Kolkata's summer average is well above 20 °C; the figure worth remembering is the 43 °C peak.
+## definition
+**Monsoon region:** the part of Asia where the wind reverses with the season, bringing a wet summer and a dry winter.
+
+**Ashwina storm:** the cyclonic storm with rain that strikes West Bengal in October and November.
+## matters
+- The same monsoon that brings our rain also feeds the rivers that reach us from India and Nepal.
+- Comparing neighbours shows what height, the sea and mountains do to climate.
+- Storms and floods do not stop at borders, so the countries of the region need to share warnings.
+## terms
+Low pressure (নিম্নচাপ) | An area where air is light and rising; winds blow towards it
+High pressure (উচ্চচাপ) | An area where air is heavy and sinking; winds blow out of it
+Trade wind (আয়ন বায়ু) | The steady wind that blows towards the equator
+Arakan and Tenasserim (আরাকান ও টেনাসেরিম) | The two coastal strips of Myanmar
+## facts
+India's rainy-season share of rain | about 75%
+Hottest place named in India | north-western desert, up to 48 °C
+Branches of the south-west monsoon | Arabian Sea branch and Bay of Bengal branch
+Myanmar, summer average | about 29 °C (Mandalay 32 °C, Yangon about 27 °C)
+Myanmar, rain | up to 200 cm on the coasts; about 80 cm in the far north
+Kathmandu | 24.4 °C in July; about 10 °C in January
+Nepal, yearly rain | 145 cm
+## mistakes
+x India has the same climate everywhere because it is one country.
+v India is so large that its climate varies greatly: desert in the north-west, snow in the mountains, heavy rain on the coasts.
+x The Himalayas make India and Bangladesh colder.
+v They do the opposite: they block the icy winds of the north, so our winters stay mild.
+## remember
+- All four countries have a monsoon climate, but different seasons.
+- India: 4 seasons; very varied; about 75% of the rain in June–September; Ashwina storm in autumn.
+- Myanmar: 3 seasons; summer about 29 °C; 200 cm on the coasts, 80 cm in the far north.
+- Nepal: 2 clear seasons; Kathmandu 24.4 °C (July), 10 °C (January); 145 cm of rain.
+- The Himalayas block cold northern winds in winter and catch the monsoon rain in summer.
+## think
+If the Himalayas were not there, how would the winter of Bangladesh and northern India be different? What would happen to the monsoon rain?
+## quiz
+? About what share of India's total rainfall comes in the rainy season?
+- 25%
+- 50%
+* 75%
+- 100%
+= The south-west monsoon gives about 75% of India's rain between June and September.
+? In West Bengal, the storm of October and November is called
+- Kalbaishakhi
+* the Ashwina storm
+- a tsunami
+- a tidal bore
+= When the monsoon turns back in autumn, cyclonic storms bring rain; in West Bengal this is the Ashwina storm.
+? Why does no part of Nepal become very hot?
+- It is close to the sea
+- It has no rainy season
+- It lies on the equator
+* It is high mountain country
+= Height keeps Nepal cool: Kathmandu is only 24.4 °C in July.
+== bn
+## what
+বাংলাদেশের মতো ভারত, মিয়ানমার ও নেপালের জলবায়ুও মৌসুমি বায়ুর অধীন। তবে দেশগুলোর আয়তন, উচ্চতা, সমুদ্র থেকে দূরত্ব ও পর্বতের অবস্থান আলাদা বলে এদের ঋতু ও তাপমাত্রায় পার্থক্য আছে।
+## visual
+মানচিত্রে কোনো দেশে চাপ দাও বা বোতাম দিয়ে বেছে নাও। ফিতাগুলোতে চার দেশের ঋতু মাস ধরে পাশাপাশি দেখা যায়, আর কার্ডে থাকে ওই দেশের জলবায়ুর বৈশিষ্ট্য।
+## simple
+চার দেশের ওপর দিয়ে একই মৌসুমি বায়ু বয়, কিন্তু সবার ওপর প্রভাব এক রকম নয়। ভারত এত বিশাল যে সেখানে একই সাথে উত্তপ্ত মরুভূমি, তুষারঢাকা পর্বত আর বৃষ্টিভেজা উপকূল আছে। মিয়ানমারের জলবায়ু অনেকটা আমাদের মতো, তিন ঋতুর। নেপাল উঁচু পার্বত্য দেশ, তাই সেখানে কখনো খুব গরম পড়ে না।
+
+একটি বিশাল প্রাচীর সবকিছু বদলে দেয়: হিমালয়। শীতকালে এটি মধ্য এশিয়ার শুষ্ক, হিমশীতল বায়ুকে দক্ষিণে আসতে দেয় না। বর্ষাকালে এটি ভেজা মৌসুমি বায়ুকে আটকে বৃষ্টি ঝরায়।
+## points
+1. **বাংলাদেশ:** ক্রান্তীয় মৌসুমি জলবায়ু; প্রধান তিন ঋতু (শীত, গ্রীষ্ম, বর্ষা); সব ঋতুতেই সমভাবাপন্ন।
+2. **ভারত, বিচিত্র জলবায়ু:** বিশাল আয়তনের দেশ, তাই অক্ষাংশ, সমুদ্র থেকে দূরত্ব ও ভূপ্রকৃতির ভিন্নতায় জলবায়ু বিচিত্র। দেশটি মৌসুমি অঞ্চলে অবস্থিত; এর উষ্ণতা, বৃষ্টিপাত ও আর্দ্রতা মৌসুমি বায়ুর ওপর নির্ভরশীল।
+3. **ভারতের ঋতু:** শীতকাল (ডিসেম্বর-ফেব্রুয়ারি), গ্রীষ্মকাল (মার্চ-মে), বর্ষাকাল (জুন-সেপ্টেম্বর) এবং শরৎ ও হেমন্তকাল (অক্টোবর-নভেম্বর)।
+4. **ভারতে শীতকাল:** স্থলভাগের ওপর দিয়ে শুষ্ক ও শীতল বায়ু (উত্তর-পূর্ব মৌসুমি বায়ু) বয়। হিমালয় প্রাচীরের মতো দাঁড়িয়ে উত্তরের হিমশীতল বায়ুকে ঢুকতে দেয় না; তাই আবহাওয়া শুষ্ক, শীতল ও আরামদায়ক, আকাশ পরিষ্কার।
+5. **ভারতে গ্রীষ্মকাল:** গঙ্গা নদীর উপত্যকায় গড়ে ২৭ °সে; উত্তর-পশ্চিমে গেলে তাপমাত্রা বাড়ে, মরু অঞ্চলে ৪৮ °সে পর্যন্ত ওঠে। মে মাসে কলকাতায় ৪৩ °সে পর্যন্ত উঠতে পারে।
+6. **ভারতে বর্ষাকাল:** অতিরিক্ত তাপে পাঞ্জাব অঞ্চলে শক্তিশালী নিম্নচাপ সৃষ্টি হয়। সমুদ্রের আর্দ্র বায়ু এর টানে দক্ষিণ-পশ্চিম মৌসুমি বায়ু হয়ে আসে, দুটি শাখায়: আরব সাগরীয় শাখা ও বঙ্গোপসাগরীয় শাখা। হিমালয় ও অন্যান্য পর্বতে বাধা পেয়ে এই বায়ু ভারতের মোট বৃষ্টির প্রায় ৭৫% ঘটায়।
+7. **ভারতে শরৎ ও হেমন্তকাল:** দক্ষিণ-পশ্চিম মৌসুমি বায়ু দিক বদলে উত্তর-পূর্ব মৌসুমি বায়ুতে পরিণত হতে থাকে। ঘূর্ণিঝড়ের মাধ্যমে পশ্চিমবঙ্গ, উড়িষ্যা ও তামিলনাড়ুতে বৃষ্টি হয়। পশ্চিমবঙ্গে এ ঝড়কে *আশ্বিনা ঝড়* বলে।
+8. **মিয়ানমার:** ক্রান্তীয় মৌসুমি ধরনের; স্পষ্ট তিন ঋতু। গ্রীষ্মকালে (মার্চ-মে) গড় তাপমাত্রা প্রায় ২৯ °সে। বর্ষাকালে (জুন-অক্টোবর) আরাকান ও টেনাসেরিম উপকূলে ২০০ সেমি পর্যন্ত বৃষ্টি হয়, কিন্তু সর্ব উত্তরের পাহাড়ি অঞ্চলে মাত্র প্রায় ৮০ সেমি। শীতকালে উত্তরের পার্বত্য অঞ্চলের কারণে শীত তীব্র হয় না, তবে উঁচু পর্বতে তুষারপাত হয়।
+9. **নেপাল:** স্পষ্টভাবে দুটি ঋতু। বর্ষাকাল জুন থেকে সেপ্টেম্বর; শীতকাল নভেম্বর থেকে জানুয়ারি, খুব শুষ্ক। কাঠমান্ডুর তাপমাত্রা জুলাইয়ে ২৪.৪ °সে, জানুয়ারিতে প্রায় ১০ °সে। উঁচু পার্বত্য এলাকা বলে কোথাও তাপমাত্রা খুব বাড়ে না। বার্ষিক গড় বৃষ্টিপাত ১৪৫ সেমি, প্রায় পুরোটাই জুন থেকে সেপ্টেম্বরে।
+
+| | বাংলাদেশ | ভারত | মিয়ানমার | নেপাল |
+| প্রধান ঋতু | ৩টি | ৪টি | ৩টি | স্পষ্ট ২টি |
+| বর্ষাকাল | জুন-অক্টোবর | জুন-সেপ্টেম্বর | জুন-অক্টোবর | জুন-সেপ্টেম্বর |
+| বর্ষাকালের বৃষ্টি | মোটের পাঁচ ভাগের চার ভাগ | মোটের প্রায় ৭৫% | অঞ্চলভেদে ৮০ থেকে ২০০ সেমি | ১৪৫ সেমির প্রায় পুরোটা |
+| বিশেষ বৈশিষ্ট্য | সারা বছর সমভাবাপন্ন | খুব বিচিত্র; মরুতে ৪৮ °সে পর্যন্ত | উত্তরের উঁচু পর্বতে তুষারপাত | কখনো খুব গরম হয় না |
+
+> ছোট একটি সংশোধন: পাঠ্যবইয়ে ভারতের শীতের বায়ুকে "পূর্ব মৌসুমি বায়ু" বলা হয়েছে, আর লেখা আছে কলকাতার গ্রীষ্মকালীন গড় তাপমাত্রা "২০ °সে-র বেশি হয় না"। শীতের বায়ুটি আসলে উত্তর-পূর্ব মৌসুমি বায়ু, আর কলকাতার গ্রীষ্মের গড় ২০ °সে-র অনেক বেশি; মনে রাখার মতো তথ্য হলো সর্বোচ্চ ৪৩ °সে।
+## definition
+**মৌসুমি অঞ্চল:** এশিয়ার যে অংশে ঋতুর সাথে বায়ুর দিক উল্টে যায়, ফলে গ্রীষ্ম-বর্ষা আর্দ্র ও শীত শুষ্ক হয়।
+
+**আশ্বিনা ঝড়:** অক্টোবর-নভেম্বরে পশ্চিমবঙ্গে বৃষ্টিসহ যে ঘূর্ণিঝড় হয়।
+## matters
+- যে মৌসুমি বায়ু আমাদের বৃষ্টি দেয়, সেটিই ভারত ও নেপাল থেকে আসা নদীগুলোতে পানি জোগায়।
+- প্রতিবেশীদের সাথে তুলনা করলে বোঝা যায় উচ্চতা, সমুদ্র ও পর্বত জলবায়ুকে কীভাবে বদলায়।
+- ঝড় ও বন্যা সীমানা মানে না, তাই এ অঞ্চলের দেশগুলোর মধ্যে আগাম সতর্কবার্তা ভাগ করে নেওয়া দরকার।
+## terms
+নিম্নচাপ (Low pressure) | যেখানে বায়ু হালকা ও ঊর্ধ্বমুখী; চারদিক থেকে বায়ু সেদিকে ছুটে আসে
+উচ্চচাপ (High pressure) | যেখানে বায়ু ভারী ও নিম্নমুখী; সেখান থেকে বায়ু বাইরে বয়ে যায়
+আয়ন বায়ু (Trade wind) | নিরক্ষরেখার দিকে নিয়মিত বয়ে যাওয়া বায়ু
+আরাকান ও টেনাসেরিম (Arakan and Tenasserim) | মিয়ানমারের দুটি উপকূলীয় অঞ্চল
+## facts
+ভারতে বর্ষাকালে মোট বৃষ্টির | প্রায় ৭৫%
+ভারতে উল্লিখিত উষ্ণতম স্থান | উত্তর-পশ্চিমের মরু অঞ্চল, ৪৮ °সে পর্যন্ত
+দক্ষিণ-পশ্চিম মৌসুমি বায়ুর শাখা | আরব সাগরীয় শাখা ও বঙ্গোপসাগরীয় শাখা
+মিয়ানমার, গ্রীষ্মের গড় | প্রায় ২৯ °সে (মান্দালয় ৩২ °সে, ইয়াঙ্গুন প্রায় ২৭ °সে)
+মিয়ানমার, বৃষ্টিপাত | উপকূলে ২০০ সেমি পর্যন্ত; সর্ব উত্তরে প্রায় ৮০ সেমি
+কাঠমান্ডু | জুলাইয়ে ২৪.৪ °সে; জানুয়ারিতে প্রায় ১০ °সে
+নেপাল, বার্ষিক বৃষ্টিপাত | ১৪৫ সেমি
+## mistakes
+x ভারত একটি দেশ, তাই সবখানে জলবায়ু একই।
+v ভারত এত বড় যে জলবায়ু খুব বিচিত্র: উত্তর-পশ্চিমে মরুভূমি, পর্বতে তুষার, উপকূলে প্রচুর বৃষ্টি।
+x হিমালয়ের কারণে ভারত ও বাংলাদেশে শীত বেশি পড়ে।
+v ঠিক উল্টো: হিমালয় উত্তরের হিমশীতল বায়ু আটকে দেয়, তাই আমাদের শীত মৃদু থাকে।
+## remember
+- চার দেশেই মৌসুমি জলবায়ু, তবে ঋতু আলাদা।
+- ভারত: ৪ ঋতু; খুব বিচিত্র; জুন-সেপ্টেম্বরে মোট বৃষ্টির প্রায় ৭৫%; শরৎ-হেমন্তে আশ্বিনা ঝড়।
+- মিয়ানমার: ৩ ঋতু; গ্রীষ্মে গড় প্রায় ২৯ °সে; উপকূলে ২০০ সেমি, সর্ব উত্তরে ৮০ সেমি।
+- নেপাল: স্পষ্ট ২ ঋতু; কাঠমান্ডু ২৪.৪ °সে (জুলাই), ১০ °সে (জানুয়ারি); বৃষ্টি ১৪৫ সেমি।
+- হিমালয় শীতে উত্তরের ঠান্ডা বায়ু আটকায়, বর্ষায় মৌসুমি বায়ু আটকে বৃষ্টি ঘটায়।
+## think
+হিমালয় পর্বত যদি না থাকত, তবে বাংলাদেশ ও উত্তর ভারতের শীতকাল কেমন হতো? মৌসুমি বৃষ্টির কী হতো?
+## quiz
+? ভারতের মোট বৃষ্টিপাতের প্রায় কত ভাগ বর্ষাকালে হয়?
+- ২৫%
+- ৫০%
+* ৭৫%
+- ১০০%
+= জুন থেকে সেপ্টেম্বরে দক্ষিণ-পশ্চিম মৌসুমি বায়ু ভারতের মোট বৃষ্টির প্রায় ৭৫% ঘটায়।
+? পশ্চিমবঙ্গে অক্টোবর-নভেম্বরের ঝড়কে বলে
+- কালবৈশাখী
+* আশ্বিনা ঝড়
+- সুনামি
+- বান
+= শরৎ-হেমন্তে মৌসুমি বায়ু দিক বদলানোর সময় ঘূর্ণিঝড়ে বৃষ্টি হয়; পশ্চিমবঙ্গে একে আশ্বিনা ঝড় বলে।
+? নেপালের কোনো অংশে তাপমাত্রা খুব বেশি বাড়ে না কেন?
+- দেশটি সমুদ্রের কাছে
+- সেখানে বর্ষাকাল নেই
+- দেশটি নিরক্ষরেখায় অবস্থিত
+* দেশটি উঁচু পার্বত্য এলাকা
+= উচ্চতার কারণে নেপাল ঠান্ডা থাকে: জুলাইয়েও কাঠমান্ডুর তাপমাত্রা মাত্র ২৪.৪ °সে।
+
+@@ 4.2.4
+@visual g4life
+@related 4.2.2 5.1.4 5.2.2
+== en
+## what
+The lives and incomes of the people of Bangladesh depend closely on nature. The monsoon climate gives us crops, fish and fertile soil. But as the climate changes, floods, erosion, salt water and storms are taking away homes and livelihoods.
+## visual
+First look at "What the monsoon climate gives", then switch to "What climate change is doing". Tap each box in the chain to read the details.
+## simple
+Think of the climate as a partner in every farmer's and fisherman's work. When it keeps its usual timetable, the rains come on time, the floods leave rich silt and the winter gives a second harvest.
+
+When the timetable is upset, the partner becomes a problem. The rain comes late and then all at once. Rivers eat their banks. The sea creeps higher and pushes salt into the fields. A family that loses its land has to find new work, often in a crowded city. This is how a change in the sky becomes a change in people's lives.
+## points
+1. **Dependence on nature:** because of the country's location and climate, people's social and economic life depends heavily on nature and natural resources.
+2. **Gift of the rainy season:** the south-west monsoon brings heavy rain, so many kinds of crops and fruit grow in plenty.
+3. **Gift of winter:** the north-east monsoon brings a little rain, so rabi crops can be grown: wheat, tobacco, pulses, oilseeds, potato, onion, garlic, coriander and many vegetables.
+4. **Gift of the floods:** silt carried by flood water makes farmland more fertile and gives better crops.
+5. **Hotter and less regular:** the average temperature has risen everywhere. The rainy season arrives later, and there is more heavy rain in a short time.
+6. **More disasters:** heavy downpours bring landslides, hill slides and floods. Long-lasting floods and river-bank erosion are frequent.
+7. **Rising sea:** at Hiron Point, Char Changa and Cox's Bazar the sea level has risen by about 4 to 6 mm every year.
+8. **Shrinking rivers:** dams and river-linking projects upstream in India have reduced the flow of the shared rivers. Many rivers are filling with silt and disappearing.
+9. **Loss of homes and food:** river erosion has made lakhs of people homeless. Farm output is disturbed, many animals fail to adapt and die out, and hunger and poverty grow.
+10. **Changing work:** farmers, day labourers and coastal fishermen leave for the cities. Families break up, and children, old people and women become less safe.
+11. **The coast:** rich and poor alike live from ponds, canals, land, gardens, trees and fish. Waterlogging, salinity, floods, storms, lightning, Kalbaishakhi and cyclones are destroying that base.
+
+| The climate gives | Climate change takes |
+| heavy monsoon rain → many crops and fruits | late, sudden rain → floods and landslides |
+| a little winter rain → rabi crops | higher temperature |
+| flood silt → fertile fields | river erosion → homeless families |
+| rivers full of water and fish | rising sea, salinity, waterlogging |
+| work on land and water | loss of work → movement to cities |
+## definition
+**Livelihood:** the work by which people earn what they need to live.
+
+**Climate change:** a lasting change in the usual pattern of temperature, rain and seasons.
+
+**Adaptation:** changing the way we live and work so that we can cope with a changed climate.
+## matters
+- Most families in Bangladesh earn their living from land or water, so climate touches almost everyone.
+- People forced out by floods and erosion crowd into cities that are not ready for them.
+- Understanding the problem is the first step to adapting: flood-tolerant and salt-tolerant crops, shelters, embankments, tree planting and saving water.
+## terms
+Rabi crops (রবিশস্য) | Crops grown in the dry winter season
+River erosion (নদীভাঙন) | The washing away of river banks by the current
+Salinity (লবণাক্ততা) | Salt in soil or water
+Waterlogging (জলাবদ্ধতা) | Water standing on land because it cannot drain away
+Biodiversity (জীববৈচিত্র্য) | The variety of living things in a place
+## facts
+Wind of the rainy season | south-west monsoon (heavy rain)
+Wind of winter | north-east monsoon (a little rain)
+Rise of sea level | about 4 to 6 mm a year at Hiron Point, Char Changa and Cox's Bazar
+People made homeless by river erosion | lakhs
+Main rabi crops | wheat, pulses, oilseeds, potato, onion, garlic, vegetables
+## mistakes
+x Floods bring only harm.
+v Normal floods also spread silt that makes the fields fertile. It is very long or untimely floods that do great damage.
+x Climate change is only about hotter weather.
+v It also means late and sudden rain, more floods and erosion, a rising sea, salinity, and people losing their work and homes.
+## remember
+- Life in Bangladesh depends heavily on nature and the monsoon.
+- Rainy season (south-west monsoon): many crops and fruits. Winter (north-east monsoon): rabi crops. Floods: fertile silt.
+- Climate change: higher temperature, late and sudden rain, floods, landslides, erosion.
+- The sea is rising by about 4–6 mm a year; salinity and waterlogging are spreading.
+- People lose homes and work and move to cities; we must be aware and adapt.
+## think
+A fishing family on the coast finds that its pond has turned salty and its catch is falling. List two ways the family's life may change, and one thing the community could do to adapt.
+## quiz
+? Which wind brings the little rain of winter that helps rabi crops?
+- South-west monsoon
+* North-east monsoon
+- Kalbaishakhi
+- Sea breeze
+= The north-east monsoon gives a little rain in winter; the south-west monsoon gives the heavy rain of the rainy season.
+? How does flood water help farming?
+- It washes away the soil
+- It makes the soil salty
+* It leaves silt that makes the land fertile
+- It dries the fields
+= Silt carried by flood water raises the fertility of farmland, so crops grow better.
+? By about how much has the sea level risen each year at Hiron Point, Char Changa and Cox's Bazar?
+- 4 to 6 cm
+- 4 to 6 m
+- 40 to 60 mm
+* 4 to 6 mm
+= Measurements show a rise of about 4 to 6 millimetres every year.
+== bn
+## what
+বাংলাদেশের মানুষের জীবন ও জীবিকা প্রকৃতির ওপর গভীরভাবে নির্ভরশীল। মৌসুমি জলবায়ু আমাদের দেয় ফসল, মাছ ও উর্বর মাটি। কিন্তু জলবায়ু বদলে যাওয়ায় বন্যা, নদীভাঙন, লবণাক্ততা ও ঝড় মানুষের ঘরবাড়ি ও জীবিকা কেড়ে নিচ্ছে।
+## visual
+প্রথমে "মৌসুমি জলবায়ু যা দেয়" দেখো, তারপর "জলবায়ু পরিবর্তনে যা ঘটছে" বেছে নাও। বিস্তারিত পড়তে প্রতিটি বাক্সে চাপ দাও।
+## simple
+জলবায়ুকে ভাবো প্রত্যেক কৃষক ও জেলের কাজের সঙ্গী হিসেবে। সে যখন নিয়ম মেনে চলে, তখন বৃষ্টি সময়মতো আসে, বন্যা উর্বর পলি রেখে যায়, শীতে আরেকবার ফসল ওঠে।
+
+নিয়ম এলোমেলো হলে সেই সঙ্গীই সমস্যা হয়ে দাঁড়ায়। বৃষ্টি দেরিতে আসে, তারপর একসাথে ঝরে। নদী পাড় ভাঙে। সমুদ্র একটু একটু করে উঁচু হয়ে জমিতে লবণ ঢুকিয়ে দেয়। যে পরিবার জমি হারায়, তাকে নতুন কাজ খুঁজতে হয়, প্রায়ই ভিড়ে ঠাসা শহরে গিয়ে। এভাবেই আকাশের পরিবর্তন মানুষের জীবনের পরিবর্তন হয়ে ওঠে।
+## points
+1. **প্রকৃতির ওপর নির্ভরতা:** ভৌগোলিক অবস্থান ও জলবায়ুর কারণে এ দেশের মানুষের আর্থ-সামাজিক জীবন প্রকৃতি ও প্রাকৃতিক সম্পদের ওপর অধিক মাত্রায় নির্ভরশীল।
+2. **বর্ষার দান:** দক্ষিণ-পশ্চিম মৌসুমি বায়ুর প্রভাবে প্রচুর বৃষ্টি হয়, তাই নানা রকম ফসল ও ফল প্রচুর জন্মায়।
+3. **শীতের দান:** উত্তর-পূর্ব মৌসুমি বায়ুর প্রভাবে অল্প বৃষ্টি হয়, ফলে রবিশস্য ফলানো যায়: গম, তামাক, ডাল, তৈলবীজ, গোলআলু, পেঁয়াজ, রসুন, ধনিয়া ও নানা শাকসবজি।
+4. **বন্যার দান:** বন্যার পানিবাহিত পলিমাটি কৃষিজমির উর্বরতা বাড়ায়, ফসল ভালো হয়।
+5. **উষ্ণতা ও অনিয়ম:** দেশের সর্বত্র গড় তাপমাত্রা বেড়েছে। বর্ষাকাল দেরিতে আসছে, আর অল্প সময়ে অধিক বৃষ্টি হচ্ছে।
+6. **বেশি দুর্যোগ:** ভারী বর্ষণে ভূমিধস, পাহাড়ধস ও বন্যা হয়। দীর্ঘস্থায়ী বন্যা ও নদীভাঙন ঘন ঘন ঘটছে।
+7. **সমুদ্রপৃষ্ঠ উঁচু হচ্ছে:** হিরন পয়েন্ট, চর চংগা ও কক্সবাজারে সমুদ্রপৃষ্ঠের উচ্চতা প্রতি বছর গড়ে ৪ থেকে ৬ মিলিমিটার করে বেড়েছে।
+8. **নদী শুকিয়ে যাচ্ছে:** উজানে ভারতের বাঁধ ও নদী সংযোগ প্রকল্পের প্রভাবে অভিন্ন নদীগুলোর পানিপ্রবাহ কমে গেছে। পলি জমে বহু নদী হারিয়ে যাচ্ছে।
+9. **ঘরবাড়ি ও খাদ্যের ক্ষতি:** নদীভাঙনে লাখ লাখ মানুষ বাস্তুহারা হয়েছে। কৃষি উৎপাদন ব্যাহত হচ্ছে, খাপ খাওয়াতে না পেরে অনেক প্রাণী বিলুপ্ত হচ্ছে, ক্ষুধা ও দারিদ্র্য বাড়ছে।
+10. **পেশা বদল:** কৃষক, দিনমজুর ও উপকূলের জেলেরা কাজের আশায় শহরে পাড়ি জমাচ্ছে। পরিবার ভাঙছে; শিশু, বৃদ্ধ ও নারীর নিরাপত্তা বিঘ্নিত হচ্ছে।
+11. **উপকূল:** ধনী-দরিদ্র সবার জীবিকা পুকুর, খাল, জমি, বাগান, গাছ ও মাছ ঘিরে। জলাবদ্ধতা, লবণাক্ততা, বন্যা, ঝড়, বজ্রপাত, কালবৈশাখী ও ঘূর্ণিঝড় সেই ভিত্তি নষ্ট করে দিচ্ছে।
+
+| জলবায়ু যা দেয় | জলবায়ু পরিবর্তন যা কেড়ে নেয় |
+| বর্ষায় প্রচুর বৃষ্টি → নানা ফসল ও ফল | দেরিতে, হঠাৎ বেশি বৃষ্টি → বন্যা ও ভূমিধস |
+| শীতে অল্প বৃষ্টি → রবিশস্য | তাপমাত্রা বৃদ্ধি |
+| বন্যার পলি → উর্বর জমি | নদীভাঙন → বাস্তুহারা পরিবার |
+| পানি ও মাছে ভরা নদী | সমুদ্রপৃষ্ঠ বৃদ্ধি, লবণাক্ততা, জলাবদ্ধতা |
+| জমি ও পানিতে কাজ | কাজ হারানো → শহরমুখী হওয়া |
+## definition
+**জীবিকা:** যে কাজের মাধ্যমে মানুষ বেঁচে থাকার প্রয়োজনীয় উপার্জন করে।
+
+**জলবায়ু পরিবর্তন:** তাপমাত্রা, বৃষ্টিপাত ও ঋতুর স্বাভাবিক ধরনে দীর্ঘস্থায়ী পরিবর্তন।
+
+**অভিযোজন:** বদলে যাওয়া জলবায়ুর সাথে খাপ খাওয়াতে জীবনযাপন ও কাজের ধরন বদলে নেওয়া।
+## matters
+- বাংলাদেশের বেশির ভাগ পরিবারের জীবিকা জমি বা পানির ওপর নির্ভরশীল, তাই জলবায়ু প্রায় সবার জীবনে প্রভাব ফেলে।
+- বন্যা ও ভাঙনে উচ্ছেদ হওয়া মানুষ এমন শহরে ভিড় করে, যা তাদের জন্য প্রস্তুত নয়।
+- সমস্যা বোঝাই অভিযোজনের প্রথম ধাপ: বন্যা ও লবণসহিষ্ণু ফসল, আশ্রয়কেন্দ্র, বাঁধ, বৃক্ষরোপণ ও পানি সংরক্ষণ।
+## terms
+রবিশস্য (Rabi crops) | শুষ্ক শীত মৌসুমে যে ফসল ফলানো হয়
+নদীভাঙন (River erosion) | স্রোতে নদীর পাড় ভেঙে যাওয়া
+লবণাক্ততা (Salinity) | মাটি বা পানিতে লবণের উপস্থিতি
+জলাবদ্ধতা (Waterlogging) | পানি সরতে না পেরে জমিতে জমে থাকা
+জীববৈচিত্র্য (Biodiversity) | কোনো এলাকার নানা রকম জীবের সমাহার
+## facts
+বর্ষাকালের বায়ু | দক্ষিণ-পশ্চিম মৌসুমি বায়ু (প্রচুর বৃষ্টি)
+শীতকালের বায়ু | উত্তর-পূর্ব মৌসুমি বায়ু (অল্প বৃষ্টি)
+সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি | হিরন পয়েন্ট, চর চংগা ও কক্সবাজারে বছরে গড়ে ৪ থেকে ৬ মিমি
+নদীভাঙনে বাস্তুহারা | লাখ লাখ মানুষ
+প্রধান রবিশস্য | গম, ডাল, তৈলবীজ, গোলআলু, পেঁয়াজ, রসুন, শাকসবজি
+## mistakes
+x বন্যা শুধু ক্ষতিই করে।
+v স্বাভাবিক বন্যা পলি ছড়িয়ে জমিকে উর্বরও করে। বড় ক্ষতি করে দীর্ঘস্থায়ী বা অকাল বন্যা।
+x জলবায়ু পরিবর্তন মানে শুধু গরম বেড়ে যাওয়া।
+v এর মানে দেরিতে ও হঠাৎ বেশি বৃষ্টি, বেশি বন্যা ও ভাঙন, সমুদ্রপৃষ্ঠ বৃদ্ধি, লবণাক্ততা, এবং মানুষের কাজ ও ঘর হারানোও।
+## remember
+- বাংলাদেশের জীবন-জীবিকা প্রকৃতি ও মৌসুমি বায়ুর ওপর খুব নির্ভরশীল।
+- বর্ষা (দক্ষিণ-পশ্চিম মৌসুমি বায়ু): নানা ফসল ও ফল। শীত (উত্তর-পূর্ব মৌসুমি বায়ু): রবিশস্য। বন্যা: উর্বর পলি।
+- জলবায়ু পরিবর্তন: তাপমাত্রা বৃদ্ধি, দেরিতে ও হঠাৎ বেশি বৃষ্টি, বন্যা, ভূমিধস, নদীভাঙন।
+- সমুদ্রপৃষ্ঠ বছরে প্রায় ৪-৬ মিমি বাড়ছে; লবণাক্ততা ও জলাবদ্ধতা ছড়াচ্ছে।
+- মানুষ ঘর ও কাজ হারিয়ে শহরমুখী হচ্ছে; আমাদের সচেতন হতে ও খাপ খাওয়াতে হবে।
+## think
+উপকূলের একটি জেলে পরিবার দেখল তাদের পুকুরের পানি লবণাক্ত হয়ে গেছে, মাছও কম ধরা পড়ছে। পরিবারটির জীবনে কোন দুটি পরিবর্তন আসতে পারে? খাপ খাওয়াতে এলাকার মানুষ মিলে কোন একটি কাজ করতে পারে?
+## quiz
+? শীতকালের যে সামান্য বৃষ্টি রবিশস্যের জন্য উপকারী, তা কোন বায়ুর প্রভাবে হয়?
+- দক্ষিণ-পশ্চিম মৌসুমি বায়ু
+* উত্তর-পূর্ব মৌসুমি বায়ু
+- কালবৈশাখী
+- সমুদ্রবায়ু
+= শীতে উত্তর-পূর্ব মৌসুমি বায়ু অল্প বৃষ্টি দেয়; বর্ষার প্রচুর বৃষ্টি দেয় দক্ষিণ-পশ্চিম মৌসুমি বায়ু।
+? বন্যার পানি কৃষিতে কীভাবে সাহায্য করে?
+- মাটি ধুয়ে নিয়ে যায়
+- মাটি লবণাক্ত করে
+* পলি রেখে যায়, যা জমিকে উর্বর করে
+- জমি শুকিয়ে দেয়
+= বন্যার পানিবাহিত পলিমাটি কৃষিজমির উর্বরতা বাড়ায়, ফলে ফসল ভালো হয়।
+? হিরন পয়েন্ট, চর চংগা ও কক্সবাজারে সমুদ্রপৃষ্ঠের উচ্চতা প্রতি বছর গড়ে কত বেড়েছে?
+- ৪ থেকে ৬ সেমি
+- ৪ থেকে ৬ মিটার
+- ৪০ থেকে ৬০ মিমি
+* ৪ থেকে ৬ মিমি
+= পরিসংখ্যান অনুযায়ী প্রতি বছর গড়ে ৪ থেকে ৬ মিলিমিটার করে বেড়েছে।
+
+@@ 4.2.5
+@visual g4lightning
+@related 4.2.1 4.2.4 4.2.10
+== en
+## what
+**Lightning** is a natural event during a thunderstorm: a brilliant flash of light with a very loud noise. Deaths from lightning are increasing in Bangladesh, but most of them can be prevented by a few simple rules.
+## visual
+Play the "safe or not safe?" game. For each situation decide whether it is safe during lightning, then read the reason. Try to get all seven right.
+## simple
+A storm cloud builds up a huge charge of electricity. When the charge becomes too great it jumps, in a fraction of a second, to another cloud or to the ground. The jump is the flash; the sudden heating of the air makes the thunder.
+
+Lightning on its way down takes the easiest path, and that is usually the tallest thing standing in the open: a tree, a pole, or a person in a flat field or in a boat on open water. So the whole idea of safety is simple: get indoors, and if you cannot, do not be the tallest thing around and do not stand near one.
+## points
+1. **What it is:** a natural event during storm and rain, with a bright flash of light and a terrible sound.
+2. **Rising deaths:** according to the Department of Disaster Management, in recent years about 350 people a year, on average, have died from lightning in Bangladesh.
+3. **Where and when:** most lightning strikes in the north-eastern districts, in April and May.
+4. **Rule 1, stay indoors:** no place outside the house is completely safe. Beside water or under a tree is not safe. Stay inside the house, and do not come out until the lightning has completely stopped.
+5. **Rule 2, in a field:** if lightning starts while you are working in a field and there is no safe shelter, sit down curled up tightly. Never lie flat on the ground.
+6. **Rule 3, in a boat:** take shelter under the canopy of the boat and stop fishing.
+7. **Rule 4, helping the injured:** it is completely safe to touch a person hurt by lightning. Do not panic; take the person to the nearest hospital quickly.
+
+| Safe | Not safe |
+| inside a house, until it is completely over | any open place outdoors |
+| curled up low, if caught in a field | lying flat on the ground |
+| under the canopy of the boat | fishing from an open boat |
+| touching and helping an injured person | sheltering under a tree or beside water |
+## definition
+**Lightning:** the sudden flash of electricity, with a loud sound, that passes between clouds or from a cloud to the ground during a thunderstorm.
+## why
+Why sit curled up instead of lying down? When lightning strikes the ground, the electricity spreads out along the surface. A body stretched out on the ground gives it a long path to pass through. Sitting low with your feet together makes you both short and small on the ground.
+## matters
+- Farmers, fishermen and children playing outdoors are most often the victims.
+- A few rules that everyone remembers can save hundreds of lives a year.
+- Knowing that an injured person is safe to touch means help is not delayed.
+## terms
+Lightning (বজ্রপাত) | The flash and sound of electricity in a thunderstorm
+Thunderstorm (বজ্রঝড়) | A storm with lightning and thunder
+Canopy of a boat (নৌকার ছই) | The covered shelter on a boat
+Department of Disaster Management (দুর্যোগ ব্যবস্থাপনা অধিদপ্তর) | The government office that deals with disasters
+## facts
+Deaths each year in Bangladesh | about 350 on average in recent years
+Months of most lightning | April and May
+Area of most lightning | the north-eastern districts
+Safest place | inside a house
+Never do | lie flat on the ground; shelter under a tree
+## mistakes
+x During lightning it is safe to shelter under a big tree.
+v A tree is one of the most dangerous places. Go indoors; if you cannot, crouch low away from trees.
+x You must not touch a person struck by lightning, or you will get a shock.
+v The person holds no electricity. It is completely safe to touch them, and they need help at once.
+## remember
+- Lightning: a bright flash and loud sound during a thunderstorm.
+- About 350 deaths a year; most in April and May, in the north-east.
+- Stay indoors until it is completely over; water and trees are not safe.
+- In a field with no shelter: sit curled up; never lie down.
+- In a boat: under the canopy, stop fishing. An injured person is safe to touch: take them to hospital.
+## think
+You and your friends are playing football in an open field when dark clouds gather and you hear thunder. The school building is two minutes away. What should you all do, and what should you not do?
+## quiz
+? In which months does most lightning strike in Bangladesh?
+- December and January
+- July and August
+* April and May
+- October and November
+= Most lightning strikes in April and May, mainly in the north-eastern districts.
+? You are caught in an open field during lightning with no shelter. You should
+- lie flat on the ground
+- stand under the nearest tree
+- run into a pond
+* sit curled up tightly
+= With no safe shelter, sit curled up low. Never lie down, and keep away from trees and water.
+? Touching a person who has been injured by lightning is
+* completely safe
+- dangerous for an hour
+- dangerous until it rains
+- never allowed
+= The injured person carries no charge. Help them without fear and take them to hospital quickly.
+== bn
+## what
+**বজ্রপাত** হলো ঝড়-বৃষ্টির সময়কার একটি প্রাকৃতিক ঘটনা: উজ্জ্বল আলোর ঝলকানি আর বিকট শব্দ। বাংলাদেশে বজ্রপাতে মৃত্যুর সংখ্যা বাড়ছে, তবে কয়েকটি সহজ নিয়ম মানলে এর বেশির ভাগই ঠেকানো যায়।
+## visual
+"নিরাপদ, নাকি নিরাপদ নয়?" খেলাটি খেলো। প্রতিটি পরিস্থিতি বজ্রপাতের সময় নিরাপদ কি না ঠিক করো, তারপর কারণ পড়ো। সাতটিই ঠিক করার চেষ্টা করো।
+## simple
+ঝড়ের মেঘে বিপুল পরিমাণ বিদ্যুৎ জমা হয়। জমা বিদ্যুৎ খুব বেশি হয়ে গেলে তা এক পলকে অন্য মেঘে বা মাটিতে লাফিয়ে যায়। এই লাফই আলোর ঝলক; আর বাতাস হঠাৎ প্রচণ্ড গরম হয়ে যে শব্দ হয়, সেটিই বজ্রের গর্জন।
+
+নিচে নামার সময় বজ্র সবচেয়ে সহজ পথটি নেয়, আর সেটি সাধারণত খোলা জায়গায় দাঁড়ানো সবচেয়ে উঁচু জিনিস: গাছ, খুঁটি, কিংবা সমতল মাঠে বা খোলা পানিতে নৌকায় থাকা মানুষ। তাই নিরাপত্তার মূল কথা সহজ: ঘরের ভেতরে চলে যাও; না পারলে আশপাশের সবচেয়ে উঁচু জিনিস হয়ো না, তেমন কিছুর কাছেও দাঁড়িয়ো না।
+## points
+1. **কী:** ঝড়-বৃষ্টির সময় উজ্জ্বল আলোর ঝলকানি ও বিকট শব্দসহ একটি প্রাকৃতিক ঘটনা।
+2. **মৃত্যু বাড়ছে:** দুর্যোগ ব্যবস্থাপনা অধিদপ্তরের তথ্য অনুযায়ী সাম্প্রতিক বছরগুলোতে বাংলাদেশে বছরে গড়ে প্রায় ৩৫০ জন মানুষ বজ্রপাতে মারা যায়।
+3. **কোথায় ও কখন:** উত্তর-পূর্বাঞ্চলের জেলাগুলোতে এপ্রিল ও মে মাসে সবচেয়ে বেশি বজ্রপাত হয়।
+4. **নিয়ম ১, ঘরে থাকো:** ঘরের বাইরে কোনো স্থানই সম্পূর্ণ নিরাপদ নয়। জলাশয় বা গাছের নিচ নিরাপদ নয়। ঘরে অবস্থান করো; বজ্রপাত সম্পূর্ণ শেষ না হওয়া পর্যন্ত বের হয়ো না।
+5. **নিয়ম ২, মাঠে থাকলে:** মাঠে কাজ করার সময় বজ্রপাত শুরু হলে এবং কোনো নিরাপদ আশ্রয় না থাকলে গুটিশুটি মেরে বসে পড়ো। কোনো অবস্থাতেই মাটিতে শুয়ে পড়া যাবে না।
+6. **নিয়ম ৩, নৌকায় থাকলে:** নৌকার ছইয়ের নিচে আশ্রয় নাও এবং মাছ ধরা বন্ধ রাখো।
+7. **নিয়ম ৪, আহতকে সাহায্য:** বজ্রপাতে আহত ব্যক্তিকে স্পর্শ করা সম্পূর্ণ নিরাপদ। আতঙ্কিত না হয়ে তাকে দ্রুত নিকটস্থ হাসপাতালে নাও।
+
+| নিরাপদ | নিরাপদ নয় |
+| ঘরের ভেতর, পুরোপুরি না থামা পর্যন্ত | ঘরের বাইরে যেকোনো খোলা জায়গা |
+| মাঠে আটকা পড়লে গুটিশুটি মেরে বসা | মাটিতে শুয়ে পড়া |
+| নৌকার ছইয়ের নিচে | খোলা নৌকায় মাছ ধরা |
+| আহত ব্যক্তিকে ধরে সাহায্য করা | গাছের নিচে বা জলাশয়ের পাশে আশ্রয় |
+## definition
+**বজ্রপাত:** বজ্রঝড়ের সময় মেঘ থেকে মেঘে বা মেঘ থেকে মাটিতে বিকট শব্দসহ বিদ্যুতের আকস্মিক ঝলক।
+## why
+শুয়ে না পড়ে গুটিশুটি মেরে বসতে হয় কেন? বজ্র মাটিতে পড়লে বিদ্যুৎ মাটির ওপর দিয়ে চারদিকে ছড়িয়ে যায়। মাটিতে লম্বা হয়ে শুয়ে থাকলে শরীরের ভেতর দিয়ে বিদ্যুৎ যাওয়ার লম্বা পথ তৈরি হয়। দুই পা একসাথে রেখে নিচু হয়ে বসলে তুমি উচ্চতায়ও খাটো থাকো, মাটিতেও কম জায়গা নাও।
+## matters
+- কৃষক, জেলে ও বাইরে খেলতে থাকা শিশুরাই সবচেয়ে বেশি বজ্রপাতের শিকার হয়।
+- সবাই মনে রাখলে কয়েকটি নিয়মই বছরে শত শত প্রাণ বাঁচাতে পারে।
+- আহত ব্যক্তিকে ছোঁয়া নিরাপদ, এটি জানা থাকলে সাহায্য করতে দেরি হয় না।
+## terms
+বজ্রপাত (Lightning) | বজ্রঝড়ে বিদ্যুতের ঝলক ও শব্দ
+বজ্রঝড় (Thunderstorm) | বিদ্যুৎ চমকানো ও বজ্রের গর্জনসহ ঝড়
+নৌকার ছই (Canopy of a boat) | নৌকার ওপরের ছাউনি দেওয়া অংশ
+দুর্যোগ ব্যবস্থাপনা অধিদপ্তর (Department of Disaster Management) | দুর্যোগ মোকাবিলার সরকারি দপ্তর
+## facts
+বাংলাদেশে বছরে মৃত্যু | সাম্প্রতিক বছরগুলোতে গড়ে প্রায় ৩৫০ জন
+সবচেয়ে বেশি বজ্রপাতের মাস | এপ্রিল ও মে
+সবচেয়ে বেশি বজ্রপাতের এলাকা | উত্তর-পূর্বাঞ্চলের জেলাগুলো
+সবচেয়ে নিরাপদ স্থান | ঘরের ভেতর
+কখনো নয় | মাটিতে শুয়ে পড়া; গাছের নিচে আশ্রয় নেওয়া
+## mistakes
+x বজ্রপাতের সময় বড় গাছের নিচে আশ্রয় নেওয়া নিরাপদ।
+v গাছের নিচ সবচেয়ে বিপজ্জনক জায়গাগুলোর একটি। ঘরে চলে যাও; না পারলে গাছ থেকে দূরে গুটিশুটি মেরে বসো।
+x বজ্রপাতে আহত ব্যক্তিকে ছোঁয়া যাবে না, ছুঁলে শক লাগবে।
+v আহত ব্যক্তির শরীরে বিদ্যুৎ থাকে না। তাকে স্পর্শ করা সম্পূর্ণ নিরাপদ, আর তার এখনই সাহায্য দরকার।
+## remember
+- বজ্রপাত: বজ্রঝড়ের সময় উজ্জ্বল আলোর ঝলক ও বিকট শব্দ।
+- বছরে প্রায় ৩৫০ জনের মৃত্যু; বেশি হয় এপ্রিল-মে মাসে, উত্তর-পূর্বাঞ্চলে।
+- পুরোপুরি না থামা পর্যন্ত ঘরে থাকো; জলাশয় ও গাছের নিচ নিরাপদ নয়।
+- মাঠে আশ্রয় না থাকলে গুটিশুটি মেরে বসো; কখনো শুয়ে পড়ো না।
+- নৌকায় ছইয়ের নিচে থাকো, মাছ ধরা বন্ধ রাখো। আহতকে ছোঁয়া নিরাপদ: দ্রুত হাসপাতালে নাও।
+## think
+তুমি ও তোমার বন্ধুরা খোলা মাঠে ফুটবল খেলছ, এমন সময় আকাশ কালো মেঘে ঢেকে গেল আর বজ্রের শব্দ শোনা গেল। স্কুল ভবন দুই মিনিটের পথ। তোমাদের কী করা উচিত, আর কী করা উচিত নয়?
+## quiz
+? বাংলাদেশে কোন মাসগুলোতে সবচেয়ে বেশি বজ্রপাত হয়?
+- ডিসেম্বর ও জানুয়ারি
+- জুলাই ও আগস্ট
+* এপ্রিল ও মে
+- অক্টোবর ও নভেম্বর
+= এপ্রিল ও মে মাসে, প্রধানত উত্তর-পূর্বাঞ্চলের জেলাগুলোতে সবচেয়ে বেশি বজ্রপাত হয়।
+? বজ্রপাতের সময় তুমি খোলা মাঠে আটকা পড়েছ, কোনো আশ্রয় নেই। তোমার উচিত
+- মাটিতে শুয়ে পড়া
+- কাছের গাছের নিচে দাঁড়ানো
+- পুকুরে নেমে পড়া
+* গুটিশুটি মেরে বসে পড়া
+= নিরাপদ আশ্রয় না থাকলে গুটিশুটি মেরে বসতে হবে। শুয়ে পড়া যাবে না; গাছ ও পানি থেকে দূরে থাকতে হবে।
+? বজ্রপাতে আহত ব্যক্তিকে স্পর্শ করা
+* সম্পূর্ণ নিরাপদ
+- এক ঘণ্টা পর্যন্ত বিপজ্জনক
+- বৃষ্টি না হওয়া পর্যন্ত বিপজ্জনক
+- কখনোই উচিত নয়
+= আহত ব্যক্তির শরীরে বিদ্যুৎ জমা থাকে না। নির্ভয়ে সাহায্য করো এবং দ্রুত হাসপাতালে নাও।
+
+@@ 4.2.6
+@visual g4quake
+@related 4.2.7 4.2.8 3.1.4
+== en
+## what
+An **earthquake** is a sudden, short-lived shaking of part of the Earth's surface. The place inside the Earth where it starts is the **focus**; the point on the surface straight above the focus is the **epicentre**.
+## visual
+Step through the four pictures: stress builds up, the rock breaks at the focus, waves spread out, and the epicentre above shakes hardest.
+## simple
+Bend a dry stick slowly. For a while nothing happens; the stick only stores the strain. Then, all at once, it snaps and your hands feel the jerk. The rocks of the Earth's crust behave in the same way.
+
+The crust is not one solid shell. It is broken into huge pieces called tectonic plates, which are moved very slowly by the heat inside the Earth. Where plates press or slide against each other, strain builds up in the rock for years. When the rock finally slips, the stored energy races outwards as waves, and the ground shakes for a few seconds.
+## points
+1. **What it is:** sometimes part of the Earth's surface suddenly shakes. The shaking may be very gentle or very violent, and it lasts only a few seconds.
+2. **Focus:** the place inside the Earth where the earthquake originates.
+3. **Epicentre:** the place on the surface directly above the focus. The force of the shaking grows less in all directions away from the epicentre.
+4. **A great destroyer:** it is estimated that about 1 crore 50 lakh people have died in earthquakes in the last 4,000 years.
+5. **The engine inside:** heat given out by radioactive substances below the crust collects and sets up convection currents inside the Earth. This produces a great force that disturbs and changes the crust.
+6. **Sudden and slow change:** the crust is changed both slowly and suddenly. Earthquakes and volcanoes are the chief sudden forces.
+7. **Where they happen most:** in certain parts of the world, where the young fold mountains stand.
+8. **Tectonic plates:** the crust is divided into 8 large pieces and 6 regional pieces, called tectonic plates. Their different movements and displacements are the most important cause of earthquakes.
+
+| Cause | What happens |
+| Movement of plates | one plate slides under the edge of another, or two plates slip past each other sideways |
+| Faults | sudden movement along a fault or crack in the bedrock |
+| Volcanoes | lava forces its way out from inside the Earth with great power |
+| Cooling of the crust | the crust loses heat and shrinks; cracks and folds form as the rock layers adjust their load |
+| Collapse of rock | rock falls in or slips somewhere in the crust |
+
+> Scientists count plates in slightly different ways, so you may see other numbers elsewhere (often seven large plates and many smaller ones). For your exam use the textbook's count: 8 large and 6 regional.
+## definition
+**Earthquake:** the sudden and momentary shaking of the Earth's surface.
+
+**Focus (centre):** the place inside the Earth where an earthquake originates.
+
+**Epicentre:** the point on the Earth's surface directly above the focus.
+
+**Tectonic plate:** one of the large pieces into which the Earth's crust is divided.
+## matters
+- Earthquakes give no warning, so understanding them is the only way to prepare.
+- Knowing that they come from plate edges tells us which places are most at risk.
+- Bangladesh sits near a plate boundary, so this is not a far-away subject for us.
+## terms
+Focus (কেন্দ্র) | The point of origin of an earthquake inside the Earth
+Epicentre (উপকেন্দ্র) | The surface point straight above the focus
+Tectonic plate (টেকটনিক প্লেট) | A large moving piece of the Earth's crust
+Fault (চ্যুতি) | A crack in the rock along which the rock has slipped
+Convection current (পরিচলন স্রোত) | The slow circulation of hot material inside the Earth
+## facts
+Duration of an earthquake | usually a few seconds
+Deaths in the last 4,000 years | about 1 crore 50 lakh (estimated)
+Plates (textbook) | 8 large and 6 regional
+Most important cause | displacement of tectonic plates
+Sudden forces that change the crust | earthquakes and volcanoes
+## mistakes
+x The focus and the epicentre are the same place.
+v The focus is deep inside the Earth. The epicentre is the point on the surface directly above it.
+x Earthquakes can happen with equal chance anywhere on the Earth.
+v They happen mostly along the edges of tectonic plates, where young mountain ranges stand.
+## remember
+- Earthquake = sudden, momentary shaking of the Earth's surface, lasting a few seconds.
+- Focus: where it starts inside the Earth. Epicentre: the surface point straight above.
+- Shaking is strongest at the epicentre and weaker farther away.
+- The crust has 8 large and 6 regional tectonic plates; their movement is the main cause.
+- Other causes: faults, volcanoes, shrinking of the cooling crust, collapse of rock.
+## think
+Two towns feel the same earthquake. One is 10 km from the epicentre and the other 200 km away. Which town is likely to be damaged more, and why?
+## quiz
+? The place inside the Earth where an earthquake originates is called the
+- epicentre
+* focus
+- crater
+- fault
+= The focus is the point of origin inside the Earth; the epicentre lies on the surface above it.
+? The most important cause of earthquakes is
+- heavy rainfall
+- the pull of the Moon
+- strong winds
+* the displacement of tectonic plates
+= Plates sliding under or past one another are the chief cause; faults and volcanoes are others.
+? Away from the epicentre, the force of the shaking
+* gradually decreases
+- gradually increases
+- stays the same
+- stops at once
+= The shaking is strongest at the epicentre and grows weaker in all directions.
+== bn
+## what
+**ভূমিকম্প** হলো ভূপৃষ্ঠের কোনো অংশের আকস্মিক ও ক্ষণস্থায়ী কম্পন। ভূ-অভ্যন্তরের যে স্থানে এর উৎপত্তি হয় সেটি **কেন্দ্র**; কেন্দ্রের ঠিক সোজাসুজি ওপরে ভূপৃষ্ঠের বিন্দুটি **উপকেন্দ্র**।
+## visual
+চারটি ছবি ধাপে ধাপে দেখো: চাপ জমে, কেন্দ্রে শিলা ভেঙে সরে যায়, তরঙ্গ ছড়িয়ে পড়ে, আর ওপরের উপকেন্দ্রে কম্পন সবচেয়ে বেশি হয়।
+## simple
+একটি শুকনো কাঠি ধীরে ধীরে বাঁকাও। কিছুক্ষণ কিছুই হয় না; কাঠিটি শুধু চাপ জমিয়ে রাখে। তারপর হঠাৎ মট করে ভেঙে যায়, আর তোমার হাতে ঝাঁকুনি লাগে। ভূত্বকের শিলাও ঠিক এমন আচরণ করে।
+
+ভূত্বক একটি আস্ত খোলস নয়। এটি টেকটনিক প্লেট নামের বিশাল বিশাল টুকরায় বিভক্ত, যেগুলো পৃথিবীর ভেতরের তাপে খুব ধীরে নড়ে। যেখানে প্লেটগুলো একে অন্যকে ঠেলে বা ঘষে সরে, সেখানে শিলায় বছরের পর বছর চাপ জমে। শিলা যখন শেষে সরে যায়, জমা শক্তি তরঙ্গ হয়ে চারদিকে ছুটে যায়, আর মাটি কয়েক সেকেন্ড কাঁপে।
+## points
+1. **কী:** কখনো কখনো ভূপৃষ্ঠের কোনো অংশ হঠাৎ কেঁপে ওঠে। কম্পন অত্যন্ত মৃদু থেকে প্রচণ্ড হতে পারে, আর তা মাত্র কয়েক সেকেন্ড স্থায়ী হয়।
+2. **কেন্দ্র:** ভূ-অভ্যন্তরের যে স্থানে ভূমিকম্পের উৎপত্তি হয়।
+3. **উপকেন্দ্র:** কেন্দ্রের ঠিক সোজাসুজি ওপরের ভূপৃষ্ঠের স্থান। কম্পনের বেগ উপকেন্দ্র থেকে চারদিকে ধীরে ধীরে কমে যায়।
+4. **বড় ধ্বংসকারী:** ধারণা করা হয়, গত ৪,০০০ বছরে ভূমিকম্পে পৃথিবীতে প্রায় ১ কোটি ৫০ লাখ মানুষ মারা গেছে।
+5. **ভেতরের শক্তি:** ভূত্বকের নিচের তেজস্ক্রিয় পদার্থ থেকে নির্গত তাপ সঞ্চিত হয়ে পৃথিবীর অভ্যন্তরে পরিচলন স্রোত সৃষ্টি করে। এতে প্রবল শক্তি উৎপন্ন হয়ে ভূত্বকে আলোড়ন ও পরিবর্তন ঘটায়।
+6. **আকস্মিক ও ধীর পরিবর্তন:** ভূত্বকের পরিবর্তন ধীর ও আকস্মিক দুই প্রক্রিয়ায় হয়। আকস্মিক পরিবর্তনকারী শক্তির মধ্যে ভূমিকম্প ও আগ্নেয়গিরি প্রধান।
+7. **কোথায় বেশি হয়:** পৃথিবীর বিশেষ কিছু এলাকায়, যেখানে নবীন পর্বতমালা অবস্থিত।
+8. **টেকটনিক প্লেট:** ভূত্বক ৮টি বড় টুকরা ও ৬টি আঞ্চলিক টুকরায় বিভক্ত; এগুলোই টেকটনিক প্লেট। এই প্লেটগুলোর নানা রকম স্থানান্তর বা বিচ্যুতি ভূমিকম্পের অন্যতম প্রধান কারণ।
+
+| কারণ | কী ঘটে |
+| প্লেটের স্থানান্তর | একটি প্লেট অন্যটির সীমানা বরাবর তলদেশে ঢুকে পড়ে, অথবা দুটি প্লেট অনুভূমিকভাবে আগে-পিছে সরে যায় |
+| চ্যুতি | ভিত্তিশিলার চ্যুতি বা ফাটল বরাবর আকস্মিক ভূ-আলোড়ন |
+| আগ্নেয়গিরি | লাভা প্রচণ্ড শক্তিতে ভূ-অভ্যন্তর থেকে বেরিয়ে আসে |
+| ভূত্বকের সংকোচন | ভূত্বক তাপ বিকিরণ করে সংকুচিত হয়; শিলাস্তরে ভারের সামঞ্জস্য রাখতে ফাটল ও ভাঁজ সৃষ্টি হয় |
+| শিলা ধসে পড়া | ভূত্বকের কোনো স্থানে শিলা ধসে পড়ে বা শিলাচ্যুতি ঘটে |
+
+> বিজ্ঞানীরা প্লেট গোনেন কিছুটা ভিন্ন ভিন্নভাবে, তাই অন্য জায়গায় অন্য সংখ্যাও দেখতে পারো (প্রায়ই সাতটি বড় প্লেট ও অনেকগুলো ছোট প্লেট)। পরীক্ষার জন্য পাঠ্যবইয়ের হিসাবই ব্যবহার করো: ৮টি বড় ও ৬টি আঞ্চলিক।
+## definition
+**ভূমিকম্প:** ভূপৃষ্ঠের আকস্মিক ও ক্ষণস্থায়ী কম্পন।
+
+**কেন্দ্র (Focus):** ভূ-অভ্যন্তরের যে স্থানে ভূমিকম্পের উৎপত্তি হয়।
+
+**উপকেন্দ্র (Epicentre):** কেন্দ্রের ঠিক সোজাসুজি ওপরে ভূপৃষ্ঠের বিন্দু।
+
+**টেকটনিক প্লেট:** ভূত্বক যে বড় বড় টুকরায় বিভক্ত, তার প্রতিটি।
+## matters
+- ভূমিকম্প আগাম জানান দেয় না, তাই একে বোঝাই প্রস্তুতির একমাত্র উপায়।
+- এটি প্লেটের সীমানায় বেশি হয়, এ কথা জানলে বোঝা যায় কোন জায়গা বেশি ঝুঁকিতে।
+- বাংলাদেশ একটি প্লেট-সীমানার কাছে অবস্থিত, তাই আমাদের জন্য এটি দূরের কোনো বিষয় নয়।
+## terms
+কেন্দ্র (Focus) | ভূ-অভ্যন্তরে ভূমিকম্পের উৎপত্তিস্থল
+উপকেন্দ্র (Epicentre) | কেন্দ্রের ঠিক ওপরের ভূপৃষ্ঠের বিন্দু
+টেকটনিক প্লেট (Tectonic plate) | ভূত্বকের বিশাল, চলমান টুকরা
+চ্যুতি (Fault) | শিলার যে ফাটল বরাবর শিলা সরে গেছে
+পরিচলন স্রোত (Convection current) | পৃথিবীর ভেতরে উত্তপ্ত পদার্থের ধীর আবর্তন
+## facts
+ভূমিকম্পের স্থায়িত্ব | সাধারণত কয়েক সেকেন্ড
+গত ৪,০০০ বছরে মৃত্যু | প্রায় ১ কোটি ৫০ লাখ (আনুমানিক)
+প্লেট (পাঠ্যবই) | ৮টি বড় ও ৬টি আঞ্চলিক
+প্রধান কারণ | টেকটনিক প্লেটের স্থানান্তর বা বিচ্যুতি
+ভূত্বকের আকস্মিক পরিবর্তনকারী শক্তি | ভূমিকম্প ও আগ্নেয়গিরি
+## mistakes
+x কেন্দ্র ও উপকেন্দ্র একই জায়গা।
+v কেন্দ্র থাকে পৃথিবীর গভীরে। উপকেন্দ্র হলো তার ঠিক ওপরে ভূপৃষ্ঠের বিন্দু।
+x পৃথিবীর যেকোনো জায়গায় ভূমিকম্প হওয়ার সম্ভাবনা সমান।
+v ভূমিকম্প বেশি হয় টেকটনিক প্লেটের সীমানা বরাবর, যেখানে নবীন পর্বতমালা আছে।
+## remember
+- ভূমিকম্প = ভূপৃষ্ঠের আকস্মিক ও ক্ষণস্থায়ী কম্পন; কয়েক সেকেন্ড স্থায়ী হয়।
+- কেন্দ্র: ভূ-অভ্যন্তরে উৎপত্তিস্থল। উপকেন্দ্র: তার ঠিক ওপরের ভূপৃষ্ঠের বিন্দু।
+- কম্পন উপকেন্দ্রে সবচেয়ে বেশি, দূরে গেলে কমে।
+- ভূত্বকে ৮টি বড় ও ৬টি আঞ্চলিক টেকটনিক প্লেট; এদের স্থানান্তরই প্রধান কারণ।
+- অন্যান্য কারণ: চ্যুতি, আগ্নেয়গিরি, ভূত্বকের সংকোচন, শিলা ধসে পড়া।
+## think
+দুটি শহরে একই ভূমিকম্প অনুভূত হলো। একটি উপকেন্দ্র থেকে ১০ কিমি দূরে, অন্যটি ২০০ কিমি দূরে। কোন শহরে ক্ষতি বেশি হওয়ার কথা, এবং কেন?
+## quiz
+? ভূ-অভ্যন্তরের যে স্থানে ভূমিকম্পের উৎপত্তি হয় তাকে বলে
+- উপকেন্দ্র
+* কেন্দ্র
+- জ্বালামুখ
+- চ্যুতি
+= কেন্দ্র হলো ভূ-অভ্যন্তরের উৎপত্তিস্থল; উপকেন্দ্র তার ঠিক ওপরে ভূপৃষ্ঠে।
+? ভূমিকম্পের প্রধান কারণ কোনটি?
+- ভারী বৃষ্টিপাত
+- চাঁদের আকর্ষণ
+- প্রবল বায়ুপ্রবাহ
+* টেকটনিক প্লেটের স্থানান্তর
+= প্লেটের একটি অন্যটির নিচে ঢুকে পড়া বা পাশাপাশি সরে যাওয়াই প্রধান কারণ; চ্যুতি ও আগ্নেয়গিরি অন্যান্য কারণ।
+? উপকেন্দ্র থেকে দূরে গেলে কম্পনের বেগ
+* ধীরে ধীরে কমে
+- ধীরে ধীরে বাড়ে
+- একই থাকে
+- সাথে সাথে থেমে যায়
+= কম্পন উপকেন্দ্রে সবচেয়ে প্রবল এবং চারদিকে ক্রমশ দুর্বল হয়।
+
+@@ 4.2.7
+@visual g4tsunami
+@related 4.2.6 4.2.10 3.4.3
+== en
+## what
+Earthquakes change the land and cause great damage: cracks, landslides, blocked rivers, broken roads and, when they strike under the sea, giant waves called **tsunamis**. They cannot be forecast exactly, but careful building and readiness can greatly reduce the loss.
+## visual
+Step through the four pictures to see how an undersea earthquake becomes a tsunami. The map below shows the earthquake of 26 December 2004 and the countries its tsunami struck.
+## simple
+An earthquake lasts only seconds, but what it sets going can last for months. The shaking cracks the ground and brings down buildings. Hillsides slide and may dam a river. Roads, rails, pipes and wires are cut, so help cannot reach people quickly, and hunger and disease may follow.
+
+If the sea floor itself is jolted, the whole depth of water above it is pushed. On the open ocean this is hardly noticed, but as the wave reaches shallow water near land it rises into a wall of water. That is a tsunami.
+## points
+1. **Cracks and faults:** countless cracks and faults are formed in the crust.
+2. **Land up, land down:** sometimes parts of the sea floor rise above the water and form islands; sometimes land or high ground sinks below the sea.
+3. **Rivers:** a river may change its course or be blocked. A landslide from the hills may dam a river and form a lake.
+4. **Folds:** sideways pressure during the shaking crumples the surface into folds.
+5. **Falling ice:** huge blocks of ice shaken loose from mountainsides fall and do great damage at the foot of the mountains.
+6. **Tsunami:** the sea water first draws back from the shore and then, with a terrible roar, returns as waves 15 to 20 metres high and crashes on the coast.
+7. **26 December 2004:** a tsunami caused by an earthquake took a very great number of lives and destroyed property in Indonesia, Malaysia, Sri Lanka, Thailand, India and other countries.
+8. **Communication cut:** railways, roads and pipelines break; telephone and electricity lines snap; dams, culverts and bridges are damaged.
+9. **After the shaking:** famine and epidemics in the damaged area take many more lives.
+10. **No exact forecast:** an earthquake is sudden, very brief and happens inside the Earth, so it cannot be observed directly or forecast like a storm.
+11. **Where the next ones are expected:** scientists think the chance is highest in earthquake-prone areas where there has been no earthquake for the last 100 years, such as southern California, central Japan, central Chile, Taiwan and the west coast of Sumatra.
+
+| To reduce the loss | How |
+| Strong buildings | test the soil, take the advice of an expert engineer and make the foundation strong |
+| Space and exits | keep a safe distance between two houses; have more than one way out; emergency stairs in tall buildings |
+| Safe lines | keep electricity and gas lines free of faults |
+| Inside the house | wooden furniture as far as possible; a helmet for each member of the family |
+| During the earthquake | switch off electricity and gas; without rushing, take shelter in an open place |
+## definition
+**Tsunami:** a series of very high sea waves that crash on the coast after an earthquake under the sea.
+
+**Landslide:** the sliding down of soil and rock from a slope.
+## why
+Why does the sea sometimes draw back first? When the sea floor suddenly moves, the water above is disturbed like water in a tub that has been jolted. Often the trough of the wave reaches the shore before the crest, so the sea seems to run away. That is the warning: the crest is coming. Anyone on the beach must run to high ground at once and never walk out to look.
+## matters
+- More people are often lost after the shaking, from fire, collapse, hunger and disease, than during it.
+- A country with a long coast, like ours, must know the warning signs of a tsunami.
+- The steps that reduce loss are simple and must be taken before the earthquake, not after.
+## terms
+Tsunami (সুনামি) | Giant sea waves caused by an undersea earthquake
+Landslide (ভূমিধস) | Soil and rock sliding down a slope
+Epidemic (মহামারি) | A disease spreading quickly among many people
+Richter scale (রিখটার স্কেল) | The scale on which the strength of an earthquake is measured
+## facts
+Height of tsunami waves | 15 to 20 metres
+Great tsunami named in the book | 26 December 2004
+Countries named | Indonesia, Malaysia, Sri Lanka, Thailand, India
+Places where a big earthquake is expected | southern California, central Japan, central Chile, Taiwan, west coast of Sumatra
+Why it cannot be forecast | sudden, very brief, and inside the Earth
+## mistakes
+x A tsunami is caused by a storm, like a cyclone surge.
+v A tsunami is caused by an earthquake (or eruption) under the sea. A cyclone surge is caused by wind and low pressure.
+x Scientists can tell the exact day and time of the next earthquake.
+v They cannot. They can only say which regions are at greater risk, so readiness is the real protection.
+## remember
+- Earthquakes crack the crust, raise or sink land, block or turn rivers, and bring landslides.
+- Under the sea they cause tsunamis: waves 15–20 m high (26 December 2004).
+- Roads, rails, pipes, power and telephone lines are cut; famine and epidemics follow.
+- They cannot be forecast directly; risk is highest where a prone area has been quiet for 100 years.
+- To reduce loss: test soil, strong foundations, safe gaps, several exits, safe gas and electric lines, helmets, open space.
+## think
+You are on a beach and the sea suddenly draws far back, leaving fish on the sand. Other people are walking out to look. What does this sign mean, and what should everyone do?
+## quiz
+? The giant sea waves caused by an earthquake under the sea are called
+- tidal bore
+- Kalbaishakhi
+* tsunami
+- spring tide
+= After an undersea earthquake the water returns to the coast as waves 15 to 20 metres high: a tsunami.
+? On which date did the great tsunami mentioned in the textbook strike Indonesia, Sri Lanka, Thailand and other countries?
+- 29 April 1991
+* 26 December 2004
+- 21 June 2004
+- 26 March 1971
+= The tsunami of 26 December 2004 was caused by an earthquake under the sea.
+? Why can an earthquake not be forecast directly?
+- It happens only at night
+- It happens only under the sea
+- Scientists do not study it
+* It is sudden, very brief and happens inside the Earth
+= Because it happens suddenly inside the Earth and lasts only moments, it cannot be observed in advance.
+== bn
+## what
+ভূমিকম্প ভূমিকে বদলে দেয় এবং ব্যাপক ক্ষয়ক্ষতি ঘটায়: ফাটল, ভূমিধস, নদীর গতিরোধ, রাস্তাঘাট ভেঙে যাওয়া, আর সমুদ্রের তলদেশে হলে **সুনামি** নামের বিশাল ঢেউ। এর সঠিক পূর্বাভাস দেওয়া যায় না, তবে সতর্কভাবে বাড়ি তৈরি ও প্রস্তুতি থাকলে ক্ষয়ক্ষতি অনেক কমানো যায়।
+## visual
+চারটি ছবি ধাপে ধাপে দেখো, কীভাবে সমুদ্রতলের ভূমিকম্প থেকে সুনামি হয়। নিচের মানচিত্রে ২০০৪ সালের ২৬ ডিসেম্বরের ভূমিকম্প ও সুনামিতে আক্রান্ত দেশগুলো দেখানো হয়েছে।
+## simple
+ভূমিকম্প স্থায়ী হয় মাত্র কয়েক সেকেন্ড, কিন্তু তার জের চলতে পারে মাসের পর মাস। কম্পনে মাটি ফাটে, দালান ধসে পড়ে। পাহাড়ের ঢাল ধসে নদীর পথ আটকে দিতে পারে। রাস্তা, রেললাইন, পাইপ ও তার ছিঁড়ে যায়, ফলে সাহায্য দ্রুত পৌঁছাতে পারে না; এরপর আসতে পারে খাদ্যাভাব ও রোগ।
+
+সমুদ্রের তলদেশই যদি ঝাঁকুনি খায়, তবে তার ওপরের পুরো গভীরতার পানি ধাক্কা খায়। খোলা সমুদ্রে তা তেমন টের পাওয়া যায় না, কিন্তু ঢেউ তীরের কাছের অগভীর পানিতে পৌঁছালে পানির প্রাচীর হয়ে উঠে দাঁড়ায়। এটিই সুনামি।
+## points
+1. **ফাটল ও চ্যুতি:** ভূত্বকে অসংখ্য ফাটল ও চ্যুতির সৃষ্টি হয়।
+2. **ভূমির ওঠা-নামা:** কখনো সমুদ্রতলের কোনো স্থান উঁচু হয়ে দ্বীপ সৃষ্টি করে; কখনো স্থলভাগ বা উচ্চভূমি সমুদ্রের পানিতে ডুবে যায়।
+3. **নদী:** নদীর গতি পরিবর্তিত বা বন্ধ হয়ে যেতে পারে। পার্বত্য অঞ্চল থেকে ধস নেমে নদীর গতি রোধ করলে হ্রদের সৃষ্টি হয়।
+4. **ভাঁজ:** ঝাঁকুনির সময় অনুভূমিক পার্শ্বচাপে ভূপৃষ্ঠ কুঁচকে ভাঁজের সৃষ্টি হয়।
+5. **বরফ ধস:** পর্বতগাত্র থেকে বৃহৎ বরফখণ্ড হঠাৎ নিচে পড়ে পর্বতের পাদদেশে ব্যাপক ক্ষতি করে।
+6. **সুনামি:** ভূমিকম্পের ধাক্কায় সমুদ্রের পানি প্রথমে তীর থেকে নিচে নেমে যায়, পরক্ষণেই ভীষণ গর্জন করে ১৫ থেকে ২০ মিটার উঁচু ঢেউ হয়ে উপকূলে আছড়ে পড়ে।
+7. **২৬ ডিসেম্বর ২০০৪:** ভূকম্পনের ফলে সৃষ্ট সুনামির আঘাতে ইন্দোনেশিয়া, মালয়েশিয়া, শ্রীলঙ্কা, থাইল্যান্ড, ভারত প্রভৃতি দেশে ব্যাপক জানমালের ক্ষতি হয়।
+8. **যোগাযোগ বিচ্ছিন্ন:** রেলপথ, সড়কপথ ও পাইপলাইন ভেঙে যায়; টেলিফোন ও বিদ্যুৎ লাইন ছিঁড়ে যায়; বাঁধ, কালভার্ট ও সেতু ক্ষতিগ্রস্ত হয়।
+9. **কম্পনের পরে:** ক্ষতিগ্রস্ত এলাকায় দুর্ভিক্ষ ও মহামারিতে আরও বহু প্রাণহানি ঘটে।
+10. **সঠিক পূর্বাভাস নেই:** ভূমিকম্প অকস্মাৎ ঘটে, খুবই ক্ষণস্থায়ী এবং ভূ-অভ্যন্তরে ঘটে; তাই একে সরাসরি পর্যবেক্ষণ করা বা ঝড়ের মতো পূর্বাভাস দেওয়া যায় না।
+11. **কোথায় সম্ভাবনা বেশি:** বিজ্ঞানীদের অনুমান, যে ভূমিকম্পপ্রবণ অঞ্চলে গত ১০০ বছরে ভূমিকম্প হয়নি, সেখানে সম্ভাবনা খুব বেশি; যেমন দক্ষিণ ক্যালিফোর্নিয়া, মধ্য জাপান, মধ্য চিলি, তাইওয়ান ও সুমাত্রার পশ্চিম উপকূল।
+
+| ক্ষয়ক্ষতি কমাতে | কীভাবে |
+| মজবুত বাড়ি | মাটি পরীক্ষা করে, বিশেষজ্ঞ প্রকৌশলীর পরামর্শ নিয়ে বাড়ির ভিত মজবুত করা |
+| ফাঁকা জায়গা ও বের হওয়ার পথ | দুটি বাড়ির মধ্যে নিরাপদ দূরত্ব; বের হওয়ার একাধিক পথ; বহুতল ভবনে জরুরি সিঁড়ি |
+| নিরাপদ লাইন | বিদ্যুৎ ও গ্যাস লাইন ত্রুটিমুক্ত রাখা |
+| বাড়ির ভেতরে | আসবাবপত্র যথাসম্ভব কাঠের; প্রত্যেক সদস্যের জন্য হেলমেট |
+| ভূমিকম্পের সময় | বিদ্যুৎ ও গ্যাসের সুইচ বন্ধ রাখা; তাড়াহুড়া না করে খোলা জায়গায় আশ্রয় নেওয়া |
+## definition
+**সুনামি:** সমুদ্রের তলদেশে ভূমিকম্পের পর খুব উঁচু ঢেউ হয়ে সমুদ্রের পানির উপকূলে আছড়ে পড়া।
+
+**ভূমিধস:** ঢাল থেকে মাটি ও শিলা ধসে নেমে আসা।
+## why
+সমুদ্রের পানি কখনো কখনো প্রথমে সরে যায় কেন? সমুদ্রতল হঠাৎ নড়ে উঠলে ওপরের পানি ঝাঁকুনি খাওয়া গামলার পানির মতো দুলে ওঠে। প্রায়ই ঢেউয়ের চূড়ার আগে তার খাদ তীরে পৌঁছায়, তাই মনে হয় সমুদ্র পালিয়ে যাচ্ছে। এটিই সতর্কসংকেত: চূড়া আসছে। সৈকতে যে-ই থাকুক, সাথে সাথে উঁচু জায়গায় দৌড়ে যেতে হবে; দেখতে এগিয়ে যাওয়া চলবে না।
+## matters
+- কম্পনের সময়ের চেয়ে অনেক সময় পরে বেশি মানুষ মারা যায়: আগুন, ধস, খাদ্যাভাব ও রোগে।
+- আমাদের মতো দীর্ঘ উপকূলের দেশে সুনামির সতর্কসংকেত সবার জানা দরকার।
+- ক্ষতি কমানোর পদক্ষেপগুলো সহজ, তবে সেগুলো নিতে হয় ভূমিকম্পের আগে, পরে নয়।
+## terms
+সুনামি (Tsunami) | সমুদ্রতলের ভূমিকম্পে সৃষ্ট বিশাল সমুদ্র-ঢেউ
+ভূমিধস (Landslide) | ঢাল থেকে মাটি ও শিলা ধসে পড়া
+মহামারি (Epidemic) | যে রোগ দ্রুত বহু মানুষের মধ্যে ছড়িয়ে পড়ে
+রিখটার স্কেল (Richter scale) | ভূমিকম্পের মাত্রা মাপার স্কেল
+## facts
+সুনামির ঢেউয়ের উচ্চতা | ১৫ থেকে ২০ মিটার
+বইয়ে উল্লিখিত বড় সুনামি | ২৬ ডিসেম্বর ২০০৪
+উল্লিখিত দেশ | ইন্দোনেশিয়া, মালয়েশিয়া, শ্রীলঙ্কা, থাইল্যান্ড, ভারত
+যেখানে বড় ভূমিকম্পের সম্ভাবনা | দক্ষিণ ক্যালিফোর্নিয়া, মধ্য জাপান, মধ্য চিলি, তাইওয়ান, সুমাত্রার পশ্চিম উপকূল
+পূর্বাভাস দেওয়া যায় না কেন | অকস্মাৎ, খুব ক্ষণস্থায়ী এবং ভূ-অভ্যন্তরে ঘটে
+## mistakes
+x সুনামি ঘূর্ণিঝড়ের জলোচ্ছ্বাসের মতো ঝড়ের কারণে হয়।
+v সুনামি হয় সমুদ্রের তলদেশে ভূমিকম্প (বা অগ্ন্যুৎপাত) হলে। ঘূর্ণিঝড়ের জলোচ্ছ্বাস হয় বাতাস ও নিম্নচাপের কারণে।
+x বিজ্ঞানীরা পরের ভূমিকম্পের সঠিক দিন ও সময় বলে দিতে পারেন।
+v পারেন না। তাঁরা শুধু বলতে পারেন কোন অঞ্চলে ঝুঁকি বেশি; তাই প্রস্তুতিই আসল সুরক্ষা।
+## remember
+- ভূমিকম্পে ভূত্বকে ফাটল ধরে, ভূমি ওঠে বা ডোবে, নদীর গতি বদলায় বা বন্ধ হয়, ভূমিধস হয়।
+- সমুদ্রের তলদেশে হলে সুনামি হয়: ১৫-২০ মিটার উঁচু ঢেউ (২৬ ডিসেম্বর ২০০৪)।
+- রাস্তা, রেল, পাইপ, বিদ্যুৎ ও টেলিফোন লাইন বিচ্ছিন্ন হয়; পরে দুর্ভিক্ষ ও মহামারি দেখা দেয়।
+- সরাসরি পূর্বাভাস দেওয়া যায় না; যে প্রবণ অঞ্চল ১০০ বছর শান্ত, সেখানে ঝুঁকি বেশি।
+- ক্ষতি কমাতে: মাটি পরীক্ষা, মজবুত ভিত, নিরাপদ দূরত্ব, একাধিক বের হওয়ার পথ, ত্রুটিমুক্ত গ্যাস-বিদ্যুৎ লাইন, হেলমেট, খোলা জায়গা।
+## think
+তুমি সমুদ্রসৈকতে আছ, হঠাৎ পানি অনেক দূর সরে গেল, বালিতে মাছ পড়ে রইল। অন্যরা দেখতে এগিয়ে যাচ্ছে। এই লক্ষণের মানে কী, আর সবার কী করা উচিত?
+## quiz
+? সমুদ্রের তলদেশে ভূমিকম্পের ফলে সৃষ্ট বিশাল সমুদ্র-ঢেউকে বলে
+- বান
+- কালবৈশাখী
+* সুনামি
+- ভরা কটাল
+= সমুদ্রতলে ভূমিকম্পের পর পানি ১৫ থেকে ২০ মিটার উঁচু ঢেউ হয়ে উপকূলে ফিরে আসে: এটিই সুনামি।
+? পাঠ্যবইয়ে উল্লিখিত বড় সুনামি কোন তারিখে ইন্দোনেশিয়া, শ্রীলঙ্কা, থাইল্যান্ড প্রভৃতি দেশে আঘাত করে?
+- ২৯ এপ্রিল ১৯৯১
+* ২৬ ডিসেম্বর ২০০৪
+- ২১ জুন ২০০৪
+- ২৬ মার্চ ১৯৭১
+= ২০০৪ সালের ২৬ ডিসেম্বরের সুনামি সমুদ্রতলের ভূমিকম্পের ফলে সৃষ্টি হয়েছিল।
+? ভূমিকম্পের সরাসরি পূর্বাভাস দেওয়া যায় না কেন?
+- এটি শুধু রাতে হয়
+- এটি শুধু সমুদ্রের নিচে হয়
+- বিজ্ঞানীরা এ নিয়ে গবেষণা করেন না
+* এটি অকস্মাৎ, খুব ক্ষণস্থায়ী এবং ভূ-অভ্যন্তরে ঘটে
+= হঠাৎ ভূ-অভ্যন্তরে ঘটে এবং মুহূর্তেই শেষ হয় বলে আগে থেকে পর্যবেক্ষণ করা যায় না।
+
+@@ 4.2.8
+@visual g4belts
+@related 4.2.6 4.2.9 3.1.4
+== en
+## what
+Earthquakes are not equally common everywhere. Most of them occur in three great belts: the **Pacific belt**, the **Mediterranean–Himalayan belt** and the **Mid-Atlantic–Indian Ocean ridge belt**.
+## visual
+Choose a belt to highlight it on the world map and read where it runs. The lines are real plate boundaries; grey lines are other boundaries. Find Bangladesh and see which belt it lies beside.
+## simple
+If you marked every earthquake of the last hundred years with a dot on a world map, the dots would not be scattered evenly. They would crowd into long, narrow bands, like stitches along the seams of a football.
+
+Those seams are the edges of the tectonic plates. One band runs right round the Pacific Ocean. Another crosses southern Europe and Asia along the young mountains from the Alps to the Himalayas and beyond. A third follows the long ridges in the middle of the oceans.
+## points
+1. **Unequal spread:** the force of earthquakes is not the same all over the world. The earthquake-prone areas fall into three main parts.
+2. **Pacific belt:** most earthquakes occur along the outer edge of the Pacific Ocean. Japan, the Philippines, Chile, the Aleutian Islands and Alaska are known as the most earthquake-prone places in this belt.
+3. **Mediterranean–Himalayan belt:** it runs from the Alps along the northern shore of the Mediterranean Sea, through the Caucasus, Iran, the Himalayas, Indo-China and the East Indian islands, as far as New Zealand.
+4. **Mid-Atlantic–Indian Ocean ridge belt:** the Mid-Atlantic ridge, running north–south, joins the ridge of the Indian Ocean and meets the Mediterranean belt along the Red Sea beside Africa.
+5. **Elsewhere:** apart from these three belts, earthquakes also occur here and there inside the continents and in the deep trenches of the oceans.
+6. **Bangladesh:** our country lies close to the Mediterranean–Himalayan belt.
+
+| Belt | Where it runs | Places named |
+| Pacific | round the outer edge of the Pacific Ocean | Japan, Philippines, Chile, Aleutian Islands, Alaska |
+| Mediterranean–Himalayan | Alps → north shore of the Mediterranean → Caucasus → Iran → Himalayas → Indo-China → East Indies → New Zealand | Iran, the Himalayan region |
+| Mid-Atlantic–Indian Ocean ridge | along the ridges in the middle of the oceans, to the Red Sea | Mid-Atlantic ridge, Red Sea |
+
+> In the English edition some of these names are misprinted ("Aleppo" for the Alps, "Allician" for the Aleutian Islands, "West-Indian" for the East Indian islands). The names given here follow the Bangla edition and the map.
+## definition
+**Earthquake belt:** a long, narrow zone of the Earth in which earthquakes are frequent.
+
+**Mid-ocean ridge:** a long chain of mountains on the floor of an ocean, where two plates are moving apart.
+## why
+Why do the belts follow mountains and ridges? Both the mountains and the earthquakes are made by the same thing: moving plates. Where two plates push together, the crust is squeezed up into young fold mountains such as the Himalayas, and the rocks keep slipping. Where two plates pull apart, a ridge rises on the ocean floor. Earthquakes mark the places where plates meet.
+## matters
+- The belts show which countries must build and plan for earthquakes.
+- Bangladesh lies beside one of them, so the lesson applies to us.
+- The Pacific belt, with its many volcanoes too, is often called the "Ring of Fire".
+## terms
+Pacific belt (প্রশান্ত মহাসাগরীয় অংশ) | The earthquake zone round the edge of the Pacific Ocean
+Ridge (শৈলশিরা) | A long, raised chain of mountains on the ocean floor
+Trench (খাদ) | A very deep, narrow valley in the ocean floor
+Caucasus (ককেশাস) | A mountain range between the Black Sea and the Caspian Sea
+## facts
+Number of main belts | 3
+Belt with the most earthquakes | the Pacific belt
+Most earthquake-prone places named | Japan, Philippines, Chile, Aleutian Islands, Alaska
+Start and end of the second belt | from the Alps to New Zealand
+Where the third belt meets the second | along the Red Sea, beside Africa
+## mistakes
+x The Mediterranean–Himalayan belt has the most earthquakes.
+v Most earthquakes occur along the outer edge of the Pacific Ocean.
+x Earthquakes never happen outside the three belts.
+v Outside the belts they are fewer, but they do occur inside continents and in ocean trenches.
+## remember
+- Earthquakes crowd into three main belts along plate edges.
+- Pacific belt: the most earthquakes; Japan, Philippines, Chile, Aleutians, Alaska.
+- Mediterranean–Himalayan belt: Alps → Caucasus → Iran → Himalayas → Indo-China → East Indies → New Zealand.
+- Mid-Atlantic–Indian Ocean ridge belt: along the ocean ridges to the Red Sea.
+- Bangladesh lies beside the Mediterranean–Himalayan belt.
+## think
+Japan has many earthquakes every year, while a country such as Brazil has very few. Use the map of the belts to explain the difference.
+## quiz
+? Along which belt do the most earthquakes occur?
+* The Pacific belt
+- The Mediterranean–Himalayan belt
+- The Mid-Atlantic ridge belt
+- The Sahara belt
+= Most earthquakes occur along the outer edge of the Pacific Ocean.
+? Which of these countries lies in the Pacific belt?
+- Iran
+- Nepal
+* Japan
+- Egypt
+= Japan, the Philippines, Chile, the Aleutian Islands and Alaska are in the Pacific belt.
+? The Mediterranean–Himalayan belt begins at
+- the Red Sea
+- Alaska
+- Chile
+* the Alps
+= It runs from the Alps through the Caucasus, Iran and the Himalayas to New Zealand.
+== bn
+## what
+ভূমিকম্পের প্রকোপ পৃথিবীর সর্বত্র সমান নয়। বেশির ভাগ ভূমিকম্প হয় তিনটি প্রধান বলয়ে: **প্রশান্ত মহাসাগরীয় অংশ**, **ভূমধ্যসাগরীয়-হিমালয় অংশ** এবং **মধ্য আটলান্টিক-ভারত মহাসাগরীয় শৈলশিরা অংশ**।
+## visual
+একটি বলয় বেছে নিলে বিশ্ব মানচিত্রে সেটি উজ্জ্বল হবে, আর নিচে পড়তে পারবে সেটি কোথা দিয়ে গেছে। রেখাগুলো প্রকৃত প্লেট-সীমানা; ধূসর রেখা অন্যান্য সীমানা। বাংলাদেশকে খুঁজে দেখো কোন বলয়ের পাশে।
+## simple
+গত একশ বছরের প্রতিটি ভূমিকম্প যদি বিশ্ব মানচিত্রে একটি করে ফোঁটা দিয়ে চিহ্নিত করো, ফোঁটাগুলো সমানভাবে ছড়িয়ে থাকবে না। সেগুলো লম্বা, সরু ফিতার মতো জায়গায় ভিড় করবে, যেন ফুটবলের সেলাইয়ের দাগ।
+
+ওই সেলাইগুলোই টেকটনিক প্লেটের সীমানা। একটি ফিতা প্রশান্ত মহাসাগরকে ঘিরে আছে। আরেকটি দক্ষিণ ইউরোপ ও এশিয়ার ওপর দিয়ে আল্পস থেকে হিমালয় ও তারও পরে নবীন পর্বতমালা ধরে গেছে। তৃতীয়টি মহাসাগরের মাঝখানের লম্বা শৈলশিরা অনুসরণ করেছে।
+## points
+1. **অসম বিস্তার:** ভূমিকম্পের প্রকোপ পৃথিবীর সর্বত্র সমান নয়। ভূমিকম্পপ্রবণ এলাকাগুলোকে তিনটি প্রধান অংশে ভাগ করা যায়।
+2. **প্রশান্ত মহাসাগরীয় অংশ:** প্রশান্ত মহাসাগরের বহিঃসীমানা বরাবর সবচেয়ে বেশি ভূমিকম্প হয়। এ অংশের জাপান, ফিলিপাইন, চিলি, অ্যালিউশিয়ান দ্বীপপুঞ্জ ও আলাস্কা সবচেয়ে বেশি ভূমিকম্পপ্রবণ হিসেবে পরিচিত।
+3. **ভূমধ্যসাগরীয়-হিমালয় অংশ:** আল্পস পর্বত থেকে শুরু করে ভূমধ্যসাগরের উত্তর তীর হয়ে ককেশাস, ইরান, হিমালয়, ইন্দোচীন ও পূর্ব ভারতীয় দ্বীপপুঞ্জ হয়ে নিউজিল্যান্ড পর্যন্ত বিস্তৃত।
+4. **মধ্য আটলান্টিক-ভারত মহাসাগরীয় শৈলশিরা অংশ:** উত্তর-দক্ষিণ বরাবর মধ্য আটলান্টিক শৈলশিরা ভারত মহাসাগরীয় শৈলশিরার সাথে মিশে আফ্রিকার লোহিত সাগর বরাবর ভূমধ্যসাগরীয় অংশের সঙ্গে মিলেছে।
+5. **অন্যত্র:** এ তিনটি প্রধান বলয় ছাড়াও বিচ্ছিন্নভাবে মহাদেশের অভ্যন্তরে এবং মহাসাগরের খাদে কিছু কিছু ভূমিকম্প হয়।
+6. **বাংলাদেশ:** আমাদের দেশ ভূমধ্যসাগরীয়-হিমালয় বলয়ের কাছেই অবস্থিত।
+
+| বলয় | কোথা দিয়ে গেছে | উল্লিখিত স্থান |
+| প্রশান্ত মহাসাগরীয় | প্রশান্ত মহাসাগরের বহিঃসীমানা ঘিরে | জাপান, ফিলিপাইন, চিলি, অ্যালিউশিয়ান দ্বীপপুঞ্জ, আলাস্কা |
+| ভূমধ্যসাগরীয়-হিমালয় | আল্পস → ভূমধ্যসাগরের উত্তর তীর → ককেশাস → ইরান → হিমালয় → ইন্দোচীন → পূর্ব ভারতীয় দ্বীপপুঞ্জ → নিউজিল্যান্ড | ইরান, হিমালয় অঞ্চল |
+| মধ্য আটলান্টিক-ভারত মহাসাগরীয় শৈলশিরা | মহাসাগরের মাঝের শৈলশিরা ধরে লোহিত সাগর পর্যন্ত | মধ্য আটলান্টিক শৈলশিরা, লোহিত সাগর |
+
+> বইয়ের ইংরেজি সংস্করণে এর কয়েকটি নাম ভুল ছাপা হয়েছে (আল্পসের জায়গায় "Aleppo", অ্যালিউশিয়ানের জায়গায় "Allician", পূর্ব ভারতীয় দ্বীপপুঞ্জের জায়গায় "West-Indian")। এখানে নামগুলো বাংলা বই ও মানচিত্র অনুযায়ী দেওয়া হয়েছে।
+## definition
+**ভূমিকম্প বলয়:** পৃথিবীর যে লম্বা, সরু অঞ্চলে ঘন ঘন ভূমিকম্প হয়।
+
+**শৈলশিরা:** মহাসাগরের তলদেশের লম্বা পর্বতশ্রেণি, যেখানে দুটি প্লেট পরস্পর থেকে সরে যাচ্ছে।
+## why
+বলয়গুলো পর্বত ও শৈলশিরা ধরে গেছে কেন? পর্বত ও ভূমিকম্প দুটিই একই কারণে তৈরি: চলমান প্লেট। যেখানে দুটি প্লেট পরস্পরকে ঠেলে, সেখানে ভূত্বক কুঁচকে হিমালয়ের মতো নবীন ভঙ্গিল পর্বত গড়ে ওঠে, আর শিলা বারবার সরে যায়। যেখানে দুটি প্লেট দূরে সরে, সেখানে সমুদ্রতলে শৈলশিরা জেগে ওঠে। প্লেট যেখানে মেলে, ভূমিকম্প সেই জায়গাগুলোই চিহ্নিত করে।
+## matters
+- বলয়গুলো দেখায় কোন কোন দেশকে ভূমিকম্পের কথা ভেবে ভবন বানাতে ও পরিকল্পনা করতে হবে।
+- বাংলাদেশ এগুলোর একটির পাশে, তাই এ পাঠ আমাদের জন্যও প্রযোজ্য।
+- প্রশান্ত মহাসাগরীয় বলয়ে অনেক আগ্নেয়গিরিও আছে; তাই একে প্রায়ই "আগ্নেয় মেখলা" বলা হয়।
+## terms
+প্রশান্ত মহাসাগরীয় অংশ (Pacific belt) | প্রশান্ত মহাসাগরের কিনারা ঘিরে থাকা ভূমিকম্প অঞ্চল
+শৈলশিরা (Ridge) | সমুদ্রতলের লম্বা, উঁচু পর্বতশ্রেণি
+খাদ (Trench) | সমুদ্রতলের খুব গভীর, সরু উপত্যকা
+ককেশাস (Caucasus) | কৃষ্ণ সাগর ও কাস্পিয়ান সাগরের মাঝের পর্বতমালা
+## facts
+প্রধান বলয় | ৩টি
+সবচেয়ে বেশি ভূমিকম্পের বলয় | প্রশান্ত মহাসাগরীয় অংশ
+উল্লিখিত সবচেয়ে ভূমিকম্পপ্রবণ স্থান | জাপান, ফিলিপাইন, চিলি, অ্যালিউশিয়ান দ্বীপপুঞ্জ, আলাস্কা
+দ্বিতীয় বলয়ের শুরু ও শেষ | আল্পস পর্বত থেকে নিউজিল্যান্ড
+তৃতীয় বলয় দ্বিতীয়টির সাথে মিলেছে | আফ্রিকার লোহিত সাগর বরাবর
+## mistakes
+x সবচেয়ে বেশি ভূমিকম্প হয় ভূমধ্যসাগরীয়-হিমালয় অংশে।
+v সবচেয়ে বেশি ভূমিকম্প হয় প্রশান্ত মহাসাগরের বহিঃসীমানা বরাবর।
+x এই তিন বলয়ের বাইরে কখনো ভূমিকম্প হয় না।
+v বলয়ের বাইরে কম হয়, তবে মহাদেশের অভ্যন্তরে ও মহাসাগরের খাদেও ভূমিকম্প হয়।
+## remember
+- ভূমিকম্প প্লেট-সীমানা বরাবর তিনটি প্রধান বলয়ে বেশি হয়।
+- প্রশান্ত মহাসাগরীয় অংশ: সবচেয়ে বেশি ভূমিকম্প; জাপান, ফিলিপাইন, চিলি, অ্যালিউশিয়ান, আলাস্কা।
+- ভূমধ্যসাগরীয়-হিমালয় অংশ: আল্পস → ককেশাস → ইরান → হিমালয় → ইন্দোচীন → পূর্ব ভারতীয় দ্বীপপুঞ্জ → নিউজিল্যান্ড।
+- মধ্য আটলান্টিক-ভারত মহাসাগরীয় শৈলশিরা অংশ: মহাসাগরের শৈলশিরা ধরে লোহিত সাগর পর্যন্ত।
+- বাংলাদেশ ভূমধ্যসাগরীয়-হিমালয় বলয়ের পাশে।
+## think
+জাপানে প্রতি বছর অনেক ভূমিকম্প হয়, অথচ ব্রাজিলের মতো দেশে খুব কম। বলয়ের মানচিত্র ব্যবহার করে এই পার্থক্য ব্যাখ্যা করো।
+## quiz
+? কোন বলয় বরাবর সবচেয়ে বেশি ভূমিকম্প হয়?
+* প্রশান্ত মহাসাগরীয় অংশ
+- ভূমধ্যসাগরীয়-হিমালয় অংশ
+- মধ্য আটলান্টিক শৈলশিরা অংশ
+- সাহারা অংশ
+= প্রশান্ত মহাসাগরের বহিঃসীমানা বরাবর সবচেয়ে বেশি ভূমিকম্প হয়।
+? নিচের কোন দেশটি প্রশান্ত মহাসাগরীয় অংশে অবস্থিত?
+- ইরান
+- নেপাল
+* জাপান
+- মিসর
+= জাপান, ফিলিপাইন, চিলি, অ্যালিউশিয়ান দ্বীপপুঞ্জ ও আলাস্কা প্রশান্ত মহাসাগরীয় অংশে।
+? ভূমধ্যসাগরীয়-হিমালয় অংশ শুরু হয়েছে
+- লোহিত সাগর থেকে
+- আলাস্কা থেকে
+- চিলি থেকে
+* আল্পস পর্বত থেকে
+= এটি আল্পস থেকে ককেশাস, ইরান ও হিমালয় হয়ে নিউজিল্যান্ড পর্যন্ত বিস্তৃত।
+
+@@ 4.2.9
+@visual g4bdquake
+@related 4.2.8 4.2.10 4.1.2
+== en
+## what
+Bangladesh lies close to the boundary of tectonic plates, between the Indian plate and the Myanmar sub-plate, so it is an **earthquake-prone country**. A map made in 1989 divides it into three seismic risk zones.
+## visual
+The map colours the districts that the textbook names in each zone. Tap a district to see its zone and why it is at risk. This is a schematic: on the original map the zones are broad bands that cut across districts.
+## simple
+Look again at the world map of earthquake belts. Bangladesh is not in the middle of a plate, far from trouble. It sits near the place where the Indian plate pushes against its neighbours to the north and east. That push built the Himalayas and the hills of Myanmar, and it is still going on.
+
+Because of it there are faults, lines of weakness in the rock, inside the country and all round its northern and eastern sides. The danger is highest near those faults and lower farther away, which is how the country comes to be divided into risk zones.
+## points
+1. **Near a plate boundary:** by its geographical position Bangladesh lies close to the boundary of the Indian plate and the Eurasian plate. That is why it is earthquake-prone.
+2. **Between two plates:** earthquakes in Bangladesh come from the collision of tectonic plates. The country lies between the earthquake-prone Indian plate and the Myanmar sub-plate.
+3. **Faults:** geologists say there are enough faults in and around Bangladesh, especially to the north and east, to produce earthquakes.
+4. **Dauki fault and Sylhet:** these faults are linked with the Dauki fault of Assam. Sylhet lies on this danger fault line.
+5. **Land sinking and rising:** for natural and human reasons some parts of the country are sinking and others are swelling upwards, which increases the chance of earthquakes.
+6. **Human causes:** hill cutting and other human actions are adding to the risk.
+7. **The 1989 map:** a French engineering consortium made a map of Bangladesh showing three earthquake belts, called seismic risk zones.
+8. **Why Dhaka is at special risk:** dense population, unplanned urban growth, many high-rise buildings, lack of open space, narrow lanes and poor rescue equipment. Even a medium earthquake could bring disaster there.
+
+| Zone | Name in the book | Places named |
+| First | devastating | Bandarban, Chattogram, Sylhet, Mymensingh, Rangpur |
+| Second | dangerous | Dhaka, Tangail, Bogura, Dinajpur, Cumilla, Rangamati |
+| Third | light | the other parts of the country |
+
+> Two small notes. The textbook prints "European plate"; geographers call it the Eurasian plate. And the three-zone map of 1989 is the one in your book, so learn it for the exam; the Bangladesh National Building Code now in use (2020) divides the country into four seismic zones.
+## definition
+**Seismic risk zone:** an area marked on a map according to how great the danger of earthquakes is there.
+
+**Fault line:** a line along which the rock is broken and can slip, causing earthquakes.
+## matters
+- Sylhet, Chattogram, Mymensingh and Rangpur lie in the zone of highest risk, and Dhaka in the second.
+- The rules for building safely are stricter in the more dangerous zones.
+- Knowing your own district's zone is the first step in preparing your home and school.
+## terms
+Seismic (ভূকম্পন-সংক্রান্ত) | Having to do with earthquakes
+Seismic risk zone (সিসমিক রিস্ক জোন) | An area classed by its earthquake danger
+Dauki fault (ডাউকি চ্যুতি) | A large fault along the southern edge of the Meghalaya hills
+Sub-plate (সাব-প্লেট) | A smaller plate beside a large one
+Consortium (কনসোর্টিয়াম) | A group of organisations working together
+## facts
+Plates on either side | Indian plate and Myanmar sub-plate
+Map of seismic zones | 1989, by a French engineering consortium
+Number of zones on that map | 3
+First (devastating) zone | Bandarban, Chattogram, Sylhet, Mymensingh, Rangpur
+Second (dangerous) zone | Dhaka, Tangail, Bogura, Dinajpur, Cumilla, Rangamati
+District on the danger fault line | Sylhet
+## mistakes
+x Bangladesh is flat, so it has no danger of earthquakes.
+v Flat land gives no protection. The country lies near a plate boundary and has active faults to its north and east.
+x Dhaka is in the most dangerous zone on the textbook's map.
+v Dhaka is in the second (dangerous) zone. But its crowding and unplanned buildings mean even a medium earthquake could be a disaster.
+## remember
+- Bangladesh is near the edge of the Indian plate, between it and the Myanmar sub-plate.
+- Faults in the north and east are linked with the Dauki fault of Assam; Sylhet lies on the danger fault line.
+- 1989 map by a French engineering consortium: three seismic risk zones.
+- Zone 1 (devastating): Bandarban, Chattogram, Sylhet, Mymensingh, Rangpur.
+- Zone 2 (dangerous): Dhaka, Tangail, Bogura, Dinajpur, Cumilla, Rangamati. Zone 3 (light): the rest.
+## think
+Find your own district on the map. Which zone is it in? Look at the buildings and lanes around your home: what would make rescue easy or hard there after an earthquake?
+## quiz
+? Bangladesh lies between the Indian plate and the
+- Pacific plate
+- African plate
+* Myanmar sub-plate
+- Antarctic plate
+= The country lies between the earthquake-prone Indian plate and the Myanmar sub-plate.
+? Which of these is in the first (devastating) seismic zone of the 1989 map?
+- Dhaka
+* Sylhet
+- Cumilla
+- Khulna
+= Bandarban, Chattogram, Sylhet, Mymensingh and Rangpur are in the first zone.
+? Who prepared the seismic zone map of Bangladesh in 1989?
+- The United Nations
+- A Japanese university
+- The Survey of Bangladesh
+* A French engineering consortium
+= A French engineering consortium drew the map with three earthquake belts.
+== bn
+## what
+বাংলাদেশ টেকটনিক প্লেটের সীমানার কাছে, ইন্ডিয়ান প্লেট ও মিয়ানমার সাব-প্লেটের মাঝখানে অবস্থিত; তাই এটি একটি **ভূমিকম্পপ্রবণ দেশ**। ১৯৮৯ সালে তৈরি একটি মানচিত্রে দেশকে তিনটি সিসমিক রিস্ক জোনে ভাগ করা হয়েছে।
+## visual
+পাঠ্যবইয়ে প্রতিটি বলয়ে যে জেলাগুলোর নাম আছে, মানচিত্রে সেগুলো রং করা। কোনো জেলায় চাপ দিলে তার বলয় ও ঝুঁকির কারণ দেখাবে। এটি নকশা-মানচিত্র: মূল মানচিত্রে বলয়গুলো জেলার সীমানা না মেনে চওড়া ফিতার মতো গেছে।
+## simple
+ভূমিকম্প বলয়ের বিশ্ব মানচিত্রটি আবার দেখো। বাংলাদেশ কোনো প্লেটের মাঝখানে, বিপদ থেকে দূরে নয়। এর অবস্থান এমন জায়গার কাছে, যেখানে ইন্ডিয়ান প্লেট উত্তর ও পূর্বের প্রতিবেশী প্লেটগুলোকে ঠেলছে। এই ঠেলাতেই হিমালয় ও মিয়ানমারের পাহাড় গড়ে উঠেছে, আর তা এখনো চলছে।
+
+এ কারণে দেশের ভেতরে এবং উত্তর ও পূর্ব দিক ঘিরে শিলায় দুর্বল রেখা বা চ্যুতি আছে। চ্যুতির কাছে বিপদ বেশি, দূরে গেলে কম; এভাবেই দেশটি কয়েকটি ঝুঁকি বলয়ে ভাগ হয়েছে।
+## points
+1. **প্লেট-সীমানার কাছে:** ভৌগোলিক অবস্থানের কারণে বাংলাদেশ ইন্ডিয়ান ও ইউরেশিয়ান প্লেটের সীমানার কাছে অবস্থিত। এ কারণেই দেশটি ভূমিকম্পপ্রবণ।
+2. **দুই প্লেটের মাঝে:** বাংলাদেশে ভূমিকম্প হয় টেকটনিক প্লেটের সংঘর্ষের কারণে। দেশটি ভূমিকম্পপ্রবণ ইন্ডিয়ান প্লেট ও মিয়ানমার সাব-প্লেটের মাঝখানে অবস্থিত।
+3. **চ্যুতি:** ভূতাত্ত্বিকদের মতে, বাংলাদেশের অভ্যন্তরে ও আশপাশে, বিশেষ করে উত্তর ও পূর্ব দিকে, ভূমিকম্প ঘটানোর মতো যথেষ্ট ফল্ট বা চ্যুতি আছে।
+4. **ডাউকি চ্যুতি ও সিলেট:** এসব চ্যুতি আসামের ডাউকি চ্যুতির সাথে যুক্ত। সিলেট এই ডেঞ্জার ফল্ট লাইনে অবস্থিত।
+5. **ভূমি দেবে যাওয়া ও ফেঁপে ওঠা:** প্রাকৃতিক ও মানবসৃষ্ট কারণে দেশের কিছু অংশ দেবে যাচ্ছে, কিছু অংশ ফেঁপে উঠছে; এতে ভূমিকম্পের সম্ভাবনা বাড়ছে।
+6. **মানবসৃষ্ট কারণ:** পাহাড় কাটাসহ মানুষের নানা কাজ ঝুঁকি বাড়াচ্ছে।
+7. **১৯৮৯ সালের মানচিত্র:** ফরাসি ইঞ্জিনিয়ারিং কনসোর্টিয়াম বাংলাদেশের ভূমিকম্প বলয় সংবলিত মানচিত্র তৈরি করে; এতে ৩টি বলয় দেখানো হয়েছে। এগুলোকে সিসমিক রিস্ক জোন বলে।
+8. **ঢাকার বিশেষ ঝুঁকি:** জনসংখ্যার ঘনত্ব, অপরিকল্পিত নগরায়ণ, অনেক বহুতল ভবন, খোলা জায়গার অভাব, সরু গলিপথ ও উদ্ধার উপকরণের দুরবস্থা। মাঝারি মাত্রার ভূমিকম্পেই সেখানে মারাত্মক বিপর্যয় নেমে আসতে পারে।
+
+| বলয় | বইয়ে নাম | উল্লিখিত স্থান |
+| প্রথম | প্রলয়ঙ্করী | বান্দরবান, চট্টগ্রাম, সিলেট, ময়মনসিংহ, রংপুর |
+| দ্বিতীয় | বিপজ্জনক | ঢাকা, টাঙ্গাইল, বগুড়া, দিনাজপুর, কুমিল্লা, রাঙ্গামাটি |
+| তৃতীয় | লঘু | দেশের অন্যান্য অঞ্চল |
+
+> দুটি ছোট টীকা। পাঠ্যবইয়ে "ইউরোপিয়ান প্লেট" ছাপা আছে; ভূগোলবিদরা একে ইউরেশিয়ান প্লেট বলেন। আর ১৯৮৯ সালের তিন বলয়ের মানচিত্রটিই তোমার বইয়ে আছে, পরীক্ষার জন্য সেটিই শেখো; তবে বর্তমানে চালু বাংলাদেশ ন্যাশনাল বিল্ডিং কোডে (২০২০) দেশকে চারটি ভূমিকম্প অঞ্চলে ভাগ করা হয়েছে।
+## definition
+**সিসমিক রিস্ক জোন:** ভূমিকম্পের বিপদ কতটা, তার ভিত্তিতে মানচিত্রে চিহ্নিত এলাকা।
+
+**ফল্ট লাইন (চ্যুতিরেখা):** যে রেখা বরাবর শিলা ভাঙা এবং সরে গিয়ে ভূমিকম্প ঘটাতে পারে।
+## matters
+- সিলেট, চট্টগ্রাম, ময়মনসিংহ ও রংপুর সবচেয়ে বেশি ঝুঁকির বলয়ে, আর ঢাকা দ্বিতীয় বলয়ে।
+- বেশি বিপজ্জনক বলয়ে নিরাপদ ভবন নির্মাণের নিয়ম আরও কঠোর।
+- নিজের জেলা কোন বলয়ে তা জানাই বাড়ি ও বিদ্যালয়ের প্রস্তুতির প্রথম ধাপ।
+## terms
+ভূকম্পন-সংক্রান্ত (Seismic) | ভূমিকম্পের সাথে সম্পর্কিত
+সিসমিক রিস্ক জোন (Seismic risk zone) | ভূমিকম্পের ঝুঁকি অনুযায়ী ভাগ করা এলাকা
+ডাউকি চ্যুতি (Dauki fault) | মেঘালয় পাহাড়ের দক্ষিণ প্রান্ত বরাবর একটি বড় চ্যুতি
+সাব-প্লেট (Sub-plate) | বড় প্লেটের পাশের অপেক্ষাকৃত ছোট প্লেট
+কনসোর্টিয়াম (Consortium) | একসাথে কাজ করা কয়েকটি প্রতিষ্ঠানের জোট
+## facts
+দুই পাশের প্লেট | ইন্ডিয়ান প্লেট ও মিয়ানমার সাব-প্লেট
+ভূমিকম্প বলয়ের মানচিত্র | ১৯৮৯, ফরাসি ইঞ্জিনিয়ারিং কনসোর্টিয়াম
+ওই মানচিত্রে বলয় | ৩টি
+প্রথম (প্রলয়ঙ্করী) বলয় | বান্দরবান, চট্টগ্রাম, সিলেট, ময়মনসিংহ, রংপুর
+দ্বিতীয় (বিপজ্জনক) বলয় | ঢাকা, টাঙ্গাইল, বগুড়া, দিনাজপুর, কুমিল্লা, রাঙ্গামাটি
+ডেঞ্জার ফল্ট লাইনে অবস্থিত জেলা | সিলেট
+## mistakes
+x বাংলাদেশ সমতল, তাই এখানে ভূমিকম্পের ভয় নেই।
+v সমতল ভূমি কোনো সুরক্ষা দেয় না। দেশটি প্লেট-সীমানার কাছে, আর এর উত্তর ও পূর্বে সক্রিয় চ্যুতি আছে।
+x পাঠ্যবইয়ের মানচিত্রে ঢাকা সবচেয়ে বিপজ্জনক বলয়ে।
+v ঢাকা দ্বিতীয় (বিপজ্জনক) বলয়ে। তবে ঘনবসতি ও অপরিকল্পিত ভবনের কারণে মাঝারি ভূমিকম্পেও সেখানে বিপর্যয় ঘটতে পারে।
+## remember
+- বাংলাদেশ ইন্ডিয়ান প্লেটের সীমানার কাছে, ইন্ডিয়ান প্লেট ও মিয়ানমার সাব-প্লেটের মাঝখানে।
+- উত্তর ও পূর্বের চ্যুতিগুলো আসামের ডাউকি চ্যুতির সাথে যুক্ত; সিলেট ডেঞ্জার ফল্ট লাইনে।
+- ১৯৮৯ সালে ফরাসি ইঞ্জিনিয়ারিং কনসোর্টিয়ামের মানচিত্র: তিনটি সিসমিক রিস্ক জোন।
+- প্রথম বলয় (প্রলয়ঙ্করী): বান্দরবান, চট্টগ্রাম, সিলেট, ময়মনসিংহ, রংপুর।
+- দ্বিতীয় বলয় (বিপজ্জনক): ঢাকা, টাঙ্গাইল, বগুড়া, দিনাজপুর, কুমিল্লা, রাঙ্গামাটি। তৃতীয় বলয় (লঘু): বাকি অঞ্চল।
+## think
+মানচিত্রে নিজের জেলা খুঁজে বের করো। এটি কোন বলয়ে? তোমার বাড়ির আশপাশের ভবন ও গলিগুলো দেখো: ভূমিকম্পের পর সেখানে উদ্ধারকাজ কিসে সহজ বা কঠিন হবে?
+## quiz
+? বাংলাদেশ ইন্ডিয়ান প্লেট এবং কোনটির মাঝখানে অবস্থিত?
+- প্যাসিফিক প্লেট
+- আফ্রিকান প্লেট
+* মিয়ানমার সাব-প্লেট
+- অ্যান্টার্কটিক প্লেট
+= দেশটি ভূমিকম্পপ্রবণ ইন্ডিয়ান প্লেট ও মিয়ানমার সাব-প্লেটের মাঝখানে অবস্থিত।
+? ১৯৮৯ সালের মানচিত্রে নিচের কোনটি প্রথম (প্রলয়ঙ্করী) বলয়ে?
+- ঢাকা
+* সিলেট
+- কুমিল্লা
+- খুলনা
+= বান্দরবান, চট্টগ্রাম, সিলেট, ময়মনসিংহ ও রংপুর প্রথম বলয়ে।
+? ১৯৮৯ সালে বাংলাদেশের ভূমিকম্প বলয়ের মানচিত্র কে তৈরি করে?
+- জাতিসংঘ
+- জাপানের একটি বিশ্ববিদ্যালয়
+- বাংলাদেশ জরিপ অধিদপ্তর
+* ফরাসি ইঞ্জিনিয়ারিং কনসোর্টিয়াম
+= ফরাসি ইঞ্জিনিয়ারিং কনসোর্টিয়াম তিনটি ভূমিকম্প বলয় দেখিয়ে মানচিত্রটি তৈরি করে।
+
+@@ 4.2.10
+@visual g4prep
+@related 4.2.9 4.2.7 4.2.5
+== en
+## what
+An earthquake cannot be stopped or forecast, but its harm can be greatly reduced. That needs three things: **safe buildings and readiness before**, **calm and correct action during**, and **care and order after**.
+## visual
+Choose Before, During or After, then tap each situation to see what to do. Start with "During": those are the seconds in which you must act without thinking.
+## simple
+In a strong earthquake the ground itself rarely kills anyone. People are hurt by what falls on them: walls, ceilings, glass, cupboards. And many more are lost afterwards if nobody can reach them in time.
+
+So safety comes down to three plain questions. Is the building I am in built to stand? Do I know, without having to think, where to shelter in the next ten seconds? And when the shaking stops, do I know how to help rather than add to the confusion?
+## points
+1. **Where Bangladesh stands:** the country has very little preparation for a great earthquake. Rescue capacity is weak, so a medium earthquake could bring disaster to Dhaka.
+2. **Rescue matters most:** if an earthquake lasted 30 to 35 seconds here, more lives would be lost through the failure of rescue work than through the earthquake itself.
+3. **New buildings:** follow the National Building Code in structure and design, and build with good materials under the supervision of a skilled engineer.
+4. **Brick-walled buildings:** not more than 4 storeys. If more than 2 storeys, put upright steel rods through the bricks at every corner and beside every door and window. Doors and windows are better not placed at corners.
+5. **Village houses:** tin houses are at little risk. Mud houses resist poorly, so brace them diagonally with bamboo or wood.
+6. **Weak buildings can be strengthened:** add extra rods and concrete to weak parts, coat brick walls with ferro-cement, tie semi-pucca houses round with bands, and do not leave the ground floor completely open.
+7. **Ready at home:** a battery radio, a torch and first-aid supplies; know where the main switches of gas, water and electricity are and how to turn them off; mark the safest place in the house; keep the phone numbers of the hospital and fire service; teach children what to do.
+
+| When | What to do |
+| During, in general | stay calm and steady; do not stay inside for the sake of belongings |
+| During, in a one-storey building | run outside |
+| During, in a tall building or at night | get under a table or bed; keep away from glass windows; if needed shelter in a corner or at the foot of a column; never jump from a window or roof |
+| During, outdoors | do not go in; keep away from buildings, big trees and electricity and gas lines |
+| During, in a vehicle | stop and switch off the engine |
+| During, on a hill or slope | move to a safer place: a landslide may come |
+| After | check injuries and give first aid; check water, gas and electric lines; open doors and windows; keep the radio or television on; do not walk barefoot; beware of looting and follow experienced people |
+## definition
+**Preparedness:** getting ready before a disaster so that its loss is as small as possible.
+
+**National Building Code:** the national rules that say how buildings must be designed and built to be safe.
+## matters
+- You cannot choose when an earthquake comes, but you can choose how ready you are.
+- A school that practises a drill twice a year turns panic into habit.
+- Careful, honest construction is the single biggest protection a city can have.
+## terms
+National Building Code (ন্যাশনাল বিল্ডিং কোড) | The official rules for safe construction
+First aid (প্রাথমিক চিকিৎসা) | The first, simple treatment given to an injured person
+Bracing (ব্রেসিং) | Slanting supports of bamboo or wood that strengthen a wall
+Ferro-cement (ফেরো সিমেন্ট) | Cement mortar strengthened with wire mesh
+Column (কলাম) | An upright pillar that carries the load of a building
+## facts
+Brick-walled buildings | not above 4 storeys
+Steel rods needed | in buildings above 2 storeys: at corners, doors and windows
+Least risk in a village | tin houses
+Weakest houses | mud houses
+Keep at home | battery radio, torch, first-aid kit
+Shelter indoors | under a table or bed, in a corner, or at the foot of a column
+## mistakes
+x During an earthquake in a tall building, the best thing is to run down the stairs or jump out.
+v Do not jump, and do not rush. Get under a table or bed, or shelter in a corner or by a column, away from glass.
+x When the shaking stops, the danger is over.
+v Check for injuries, gas leaks and damaged wires, keep the radio on, and do not walk barefoot over broken glass.
+## remember
+- Before: build by the National Building Code; brick walls up to 4 storeys with steel rods; brace mud houses.
+- Keep a battery radio, torch and first-aid kit; know the main switches and the safest spot.
+- During: stay calm; one-storey building, run out; tall building, under a table or bed, away from glass.
+- Outdoors: stay out, away from buildings, trees and lines; in a vehicle, stop the engine.
+- After: first aid, check gas, water and electricity, open doors and windows, listen to the radio, no bare feet.
+## think
+Draw a simple plan of your classroom. Mark where each row of students should shelter during an earthquake, the way out afterwards, and the open place where the class should gather.
+## quiz
+? You are on the fourth floor of a building when an earthquake begins. You should
+- jump from the window
+- run to the lift
+* get under a table or bed and keep away from glass windows
+- stand beside the glass window to watch
+= In a multi-storey building, shelter under a table or bed, or in a corner or beside a column; never jump.
+? According to the textbook, a building with brick walls should not be higher than
+- 2 storeys
+* 4 storeys
+- 6 storeys
+- 10 storeys
+= Brick-walled buildings should not go above 4 storeys, and above 2 storeys they need upright steel rods.
+? After an earthquake, which of these should you do?
+- Walk barefoot to feel the ground
+- Light a match to look for gas leaks
+- Go back to sleep at once
+* Check injuries and the gas, water and electric lines
+= First check for injuries and give first aid, then check the lines, open doors and windows and listen to the radio.
+== bn
+## what
+ভূমিকম্প ঠেকানো বা আগে থেকে বলা যায় না, কিন্তু এর ক্ষতি অনেকটা কমানো যায়। এর জন্য দরকার তিনটি বিষয়: **আগে নিরাপদ ভবন ও প্রস্তুতি**, **ভূমিকম্পের সময় শান্ত থেকে সঠিক কাজ**, আর **পরে যত্ন ও শৃঙ্খলা**।
+## visual
+আগে, ভূমিকম্পের সময় বা পরে বেছে নাও, তারপর প্রতিটি পরিস্থিতিতে চাপ দিয়ে করণীয় দেখো। "ভূমিকম্পের সময়" দিয়ে শুরু করো: ওই কয়েক সেকেন্ডে ভাবার সময় থাকে না।
+## simple
+প্রবল ভূমিকম্পে মাটির কাঁপুনিতে সরাসরি খুব কম মানুষ মারা যায়। মানুষ আহত হয় যা ওপরে ভেঙে পড়ে তাতে: দেয়াল, ছাদ, কাচ, আলমারি। আর সময়মতো কেউ পৌঁছাতে না পারলে পরে আরও অনেক প্রাণ যায়।
+
+তাই নিরাপত্তা নির্ভর করে তিনটি সহজ প্রশ্নের ওপর। আমি যে ভবনে আছি সেটি কি টিকে থাকার মতো করে তৈরি? পরের দশ সেকেন্ডে কোথায় আশ্রয় নেব, তা কি না ভেবেই জানি? আর কম্পন থামলে বিশৃঙ্খলা না বাড়িয়ে কীভাবে সাহায্য করতে হয়, তা কি জানি?
+## points
+1. **বাংলাদেশের অবস্থা:** বড় ভূমিকম্পের বিপর্যয় মোকাবিলার প্রস্তুতি দেশে খুবই কম। উদ্ধার তৎপরতা দুর্বল, তাই মাঝারি মাত্রার ভূমিকম্পেই ঢাকায় মারাত্মক বিপর্যয় নেমে আসতে পারে।
+2. **উদ্ধারকাজই আসল:** দেশে ৩০ থেকে ৩৫ সেকেন্ডের ভূমিকম্প হলে ভূমিকম্পে যত প্রাণহানি ঘটবে, তার চেয়ে বেশি ঘটবে উদ্ধারকাজের ব্যর্থতার জন্য।
+3. **নতুন ভবন:** স্ট্রাকচার ও ডিজাইনে ন্যাশনাল বিল্ডিং কোড অনুসরণ করতে হবে; দক্ষ প্রকৌশলীর তদারকিতে ভালো নির্মাণসামগ্রী দিয়ে বাড়ি তৈরি করতে হবে।
+4. **ইটের দেয়ালের ভবন:** ৪ তলার ওপরে নয়। দোতলার বেশি হলে প্রতিটি কোনায় ইটের মাঝখানে এবং প্রত্যেক দরজা ও জানালার পাশ দিয়ে খাড়া রড দিতে হবে। দরজা-জানালা ঘরের কোনায় না হওয়াই ভালো।
+5. **গ্রামের ঘর:** টিনের ঘরে ক্ষতির আশঙ্কা কম। মাটির ঘরের প্রতিরোধ ক্ষমতা কম, তাই কোনাকুনিভাবে বাঁশ বা কাঠের ব্রেসিং দিতে হবে।
+6. **দুর্বল ভবন মজবুত করা যায়:** দুর্বল স্থানে অতিরিক্ত রড দিয়ে কংক্রিট ঢালাই, ইটের দেয়ালে ফেরো সিমেন্টের প্রলেপ, সেমিপাকা ঘরের চারপাশে টানা দিয়ে বাঁধা; আর ভবনের নিচতলা সম্পূর্ণ খোলা না রাখা।
+7. **বাড়িতে প্রস্তুতি:** ব্যাটারিচালিত রেডিও, টর্চ ও প্রাথমিক চিকিৎসার সরঞ্জাম; গ্যাস, পানি ও বিদ্যুতের মেইন সুইচ কোথায় এবং কীভাবে বন্ধ করতে হয় তা জেনে রাখা; বাড়ির সবচেয়ে সুরক্ষিত স্থান চিহ্নিত করা; হাসপাতাল ও ফায়ার ব্রিগেডের ফোন নম্বর রাখা; শিশুদের করণীয় শিখিয়ে দেওয়া।
+
+| কখন | করণীয় |
+| ভূমিকম্পের সময়, সাধারণভাবে | ধীরস্থির ও শান্ত থাকা; কোনো কিছুর লোভে ঘরে না থাকা |
+| ভূমিকম্পের সময়, একতলা দালানে | দৌড়ে বাইরে চলে যাওয়া |
+| ভূমিকম্পের সময়, বহুতল ভবনে বা রাতে | টেবিল বা খাটের নিচে ঢুকে যাওয়া; কাচের জানালা থেকে দূরে থাকা; প্রয়োজনে ঘরের কোণে বা কলামের গোড়ায় আশ্রয় নেওয়া; জানালা বা ছাদ থেকে লাফ না দেওয়া |
+| ভূমিকম্পের সময়, ঘরের বাইরে | ঘরে না ঢোকা; দালান, বড় গাছ, বিদ্যুৎ ও গ্যাস লাইন থেকে দূরে থাকা |
+| ভূমিকম্পের সময়, গাড়িতে | গাড়ি থামিয়ে ইঞ্জিন বন্ধ রাখা |
+| ভূমিকম্পের সময়, পাহাড় বা ঢালে | নিরাপদ জায়গায় সরে যাওয়া: ভূমিধস হতে পারে |
+| ভূমিকম্পের পরে | আঘাত পরীক্ষা ও প্রাথমিক চিকিৎসা; পানি, গ্যাস ও বৈদ্যুতিক লাইন পরীক্ষা; দরজা-জানালা খুলে দেওয়া; রেডিও-টেলিভিশন খোলা রাখা; খালি পায়ে না হাঁটা; লুটতরাজ থেকে সাবধান থাকা ও অভিজ্ঞদের পরামর্শ মানা |
+## definition
+**প্রস্তুতি:** দুর্যোগের আগেই এমনভাবে তৈরি থাকা, যাতে ক্ষয়ক্ষতি যতটা সম্ভব কম হয়।
+
+**ন্যাশনাল বিল্ডিং কোড:** নিরাপদ ভবনের নকশা ও নির্মাণ কীভাবে করতে হবে, সে বিষয়ে জাতীয় নিয়মাবলি।
+## matters
+- ভূমিকম্প কখন আসবে তা তুমি ঠিক করতে পারো না, কিন্তু কতটা প্রস্তুত থাকবে তা পারো।
+- যে বিদ্যালয়ে বছরে দুবার মহড়া হয়, সেখানে আতঙ্কের জায়গা নেয় অভ্যাস।
+- সযত্ন, সৎ নির্মাণই একটি শহরের সবচেয়ে বড় সুরক্ষা।
+## terms
+ন্যাশনাল বিল্ডিং কোড (National Building Code) | নিরাপদ নির্মাণের সরকারি নিয়মাবলি
+প্রাথমিক চিকিৎসা (First aid) | আহত ব্যক্তিকে দেওয়া প্রথম, সাধারণ চিকিৎসা
+ব্রেসিং (Bracing) | দেয়াল মজবুত করতে কোনাকুনি দেওয়া বাঁশ বা কাঠের ঠেকা
+ফেরো সিমেন্ট (Ferro-cement) | তারের জাল দিয়ে মজবুত করা সিমেন্টের আস্তর
+কলাম (Column) | ভবনের ভার বহনকারী খাড়া স্তম্ভ
+## facts
+ইটের দেয়ালের ভবন | ৪ তলার ওপরে নয়
+খাড়া রড দরকার | দোতলার বেশি ভবনে: কোনায়, দরজা ও জানালার পাশে
+গ্রামে সবচেয়ে কম ঝুঁকি | টিনের ঘর
+সবচেয়ে দুর্বল ঘর | মাটির ঘর
+বাড়িতে রাখতে হবে | ব্যাটারিচালিত রেডিও, টর্চ, প্রাথমিক চিকিৎসার সরঞ্জাম
+ঘরের ভেতরে আশ্রয় | টেবিল বা খাটের নিচে, ঘরের কোণে বা কলামের গোড়ায়
+## mistakes
+x বহুতল ভবনে ভূমিকম্পের সময় সবচেয়ে ভালো হলো সিঁড়ি দিয়ে দৌড়ে নামা বা লাফ দেওয়া।
+v লাফ দেওয়া যাবে না, তাড়াহুড়াও নয়। কাচ থেকে দূরে টেবিল বা খাটের নিচে, অথবা ঘরের কোণে বা কলামের গোড়ায় আশ্রয় নাও।
+x কম্পন থামলেই বিপদ শেষ।
+v আঘাত, গ্যাস লিক ও ক্ষতিগ্রস্ত তার পরীক্ষা করো, রেডিও খোলা রাখো, আর ভাঙা কাচের ওপর খালি পায়ে হেঁটো না।
+## remember
+- আগে: ন্যাশনাল বিল্ডিং কোড মেনে ভবন; ইটের দেয়াল সর্বোচ্চ ৪ তলা, খাড়া রডসহ; মাটির ঘরে ব্রেসিং।
+- ব্যাটারিচালিত রেডিও, টর্চ ও প্রাথমিক চিকিৎসার সরঞ্জাম রাখো; মেইন সুইচ ও সবচেয়ে সুরক্ষিত স্থান জেনে রাখো।
+- সময়ে: শান্ত থাকো; একতলা হলে বাইরে যাও; বহুতলে টেবিল বা খাটের নিচে, কাচ থেকে দূরে।
+- বাইরে থাকলে বাইরেই থাকো, দালান, গাছ ও লাইন থেকে দূরে; গাড়িতে থাকলে ইঞ্জিন বন্ধ করো।
+- পরে: প্রাথমিক চিকিৎসা, গ্যাস-পানি-বিদ্যুৎ লাইন পরীক্ষা, দরজা-জানালা খোলা, রেডিও শোনা, খালি পায়ে না হাঁটা।
+## think
+তোমার শ্রেণিকক্ষের একটি সহজ নকশা আঁকো। ভূমিকম্পের সময় প্রতিটি সারির শিক্ষার্থীরা কোথায় আশ্রয় নেবে, পরে কোন পথে বের হবে, আর কোন খোলা জায়গায় সবাই জড়ো হবে, তা চিহ্নিত করো।
+## quiz
+? তুমি একটি ভবনের চারতলায় আছ, এমন সময় ভূমিকম্প শুরু হলো। তোমার উচিত
+- জানালা দিয়ে লাফ দেওয়া
+- দৌড়ে লিফটে ওঠা
+* টেবিল বা খাটের নিচে ঢুকে যাওয়া এবং কাচের জানালা থেকে দূরে থাকা
+- কাচের জানালার পাশে দাঁড়িয়ে দেখা
+= বহুতল ভবনে টেবিল বা খাটের নিচে, অথবা ঘরের কোণে বা কলামের গোড়ায় আশ্রয় নিতে হবে; লাফ দেওয়া যাবে না।
+? পাঠ্যবই অনুসারে ইটের দেয়ালের ভবন কত তলার বেশি হওয়া উচিত নয়?
+- ২ তলা
+* ৪ তলা
+- ৬ তলা
+- ১০ তলা
+= ইটের দেয়ালের ভবন ৪ তলার ওপরে নয়, আর দোতলার বেশি হলে খাড়া রড দিতে হবে।
+? ভূমিকম্পের পর নিচের কোনটি করা উচিত?
+- মাটি অনুভব করতে খালি পায়ে হাঁটা
+- গ্যাস লিক খুঁজতে দেশলাই জ্বালানো
+- সাথে সাথে ঘুমিয়ে পড়া
+* আঘাত এবং গ্যাস, পানি ও বৈদ্যুতিক লাইন পরীক্ষা করা
+= আগে আঘাত পরীক্ষা করে প্রাথমিক চিকিৎসা দাও, তারপর লাইন পরীক্ষা করো, দরজা-জানালা খোলো এবং রেডিও শোনো।

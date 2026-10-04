@@ -8,7 +8,7 @@ function logoMark(cls=""){ const g="llg"+(++LL_G);
 
 const LL = {
   en:{ h:["Learn.","Understand.","Explore."],
-    lede:"Every chapter of Class 9–10 Physics, Chemistry and Biology, explained the way a good teacher would: simply first, then exactly, in Bangla and English, with visuals you can move and test yourself.",
+    lede:"Class 9–10 Physics, Chemistry, Biology and Bangladesh and Global Studies, explained the way a good teacher would: simply first, then exactly, in Bangla and English, with visuals and maps you can move and test yourself.",
     start:"Start learning", cont:"Continue learning", explore:"Explore topics",
     facts:(l,s)=>`<b>${l}</b> lessons ready · <b>${s}</b> subjects · Bangla and English · free`,
     contLine:(t)=>`Last time you were reading <a href="${t.href}">${t.label}</a>.`,
@@ -17,21 +17,22 @@ const LL = {
     chapters:" chapters", lessonsReady:" lessons ready",
     desc:{physics:"Motion, force, energy, waves, light, electricity and the atom, with sliders, ray diagrams and circuits you can try.",
       chemistry:"Atoms, bonds, the periodic table, moles and reactions. Balance equations and watch particles move.",
-      biology:"Life, cells, the human body, heredity and the environment, explained step by step."},
+      biology:"Life, cells, the human body, heredity and the environment, explained step by step.",
+      bgs:"The Earth and time, the land, climate, rivers and resources of Bangladesh, with maps you can tap, zoom and switch layers on."},
     exploreH:"What do you want to learn?", exploreI:"Pick a subject and chapter, or search for any word, formula or topic, in Bangla or English.",
     more:(n)=>`and ${n} more`, mine:(d,n)=>`${d} of ${n} lessons finished on this device`,
     prevH:"Everything you need to understand a concept.",
     prevI:"Each lesson walks through the same parts, in order, so you always know where you are. Here is a real lesson, Acceleration (Physics 2.6).",
     parts:[["what","What is this?","One or two lines on the idea"],["simple","Understand simply","Explained like a teacher beside you"],["analogy","Picture it like this","An everyday picture that makes it click"],["definition","Scientific definition","The exact textbook wording"],["why","Why does it happen?","The reason behind it"],["formula","Formula","With a formula triangle to rearrange it"],["visual","See it","An interactive visual to play with"],["example","Worked example","Given, formula, calculation, answer, with why"],["mistakes","Common mistakes","What students often get wrong"],["quiz","Check your understanding","Quick questions with explanations"]],
     open:"Open the full lesson", tryQ:"Try it:",
-    howH:"How it works", steps:[["Choose a chapter","Physics, Chemistry or Biology, following your textbook chapter by chapter."],["Learn with visuals","Read the simple idea, then move sliders, solve examples and answer quick questions."],["Track your progress","Mark lessons as finished and pick up exactly where you left off."]],
+    howH:"How it works", steps:[["Choose a chapter","Physics, Chemistry, Biology or Bangladesh and Global Studies, following your textbook chapter by chapter."],["Learn with visuals","Read the simple idea, then move sliders, solve examples and answer quick questions."],["Track your progress","Mark lessons as finished and pick up exactly where you left off."]],
     backH:"Welcome back", backI:"Pick up where you left off.", backNote:"Your progress is saved in this browser on this device.", contBtn:"Continue",
     finalH:"Your next concept is waiting.", finalP:"Start today and build your understanding one concept at a time.",
     fSubjects:"Subjects", fSite:"Site", fHow:"How it works", fTop:"Back to top",
-    credit:"Based on the NCTB Class 9–10 Physics, Chemistry and Biology textbooks (2026). Not an official NCTB publication; your textbook remains the main reference. Explanations and visuals are original.",
+    credit:"Based on the NCTB Class 9–10 Physics, Chemistry, Biology and Bangladesh and Global Studies textbooks (2026). Not an official NCTB publication; your textbook remains the main reference. Explanations and visuals are original.",
     seeIt:"Velocity grows by the same amount every second: that is uniform acceleration." },
   bn:{ h:["শিখি।","বুঝি।","খুঁজে দেখি।"],
-    lede:"নবম-দশম শ্রেণির পদার্থবিজ্ঞান, রসায়ন আর জীববিজ্ঞানের প্রতিটি অধ্যায়, একজন ভালো শিক্ষক যেভাবে বোঝান: আগে সহজ করে, তারপর ঠিকঠাক, বাংলা ও ইংরেজিতে, আর এমন ছবিসহ যা তুমি নিজে নাড়িয়ে দেখতে পারো।",
+    lede:"নবম-দশম শ্রেণির পদার্থবিজ্ঞান, রসায়ন, জীববিজ্ঞান আর বাংলাদেশ ও বিশ্বপরিচয়, একজন ভালো শিক্ষক যেভাবে বোঝান: আগে সহজ করে, তারপর ঠিকঠাক, বাংলা ও ইংরেজিতে, আর এমন ছবি ও মানচিত্রসহ যা তুমি নিজে নাড়িয়ে দেখতে পারো।",
     start:"শেখা শুরু করো", cont:"আবার শুরু করো", explore:"বিষয়গুলো দেখো",
     facts:(l,s)=>`<b>${l}</b>টি পাঠ তৈরি · <b>${s}</b>টি বিষয় · বাংলা ও ইংরেজি · বিনামূল্যে`,
     contLine:(t)=>`গতবার তুমি পড়ছিলে <a href="${t.href}">${t.label}</a>।`,
@@ -40,23 +41,26 @@ const LL = {
     chapters:"টি অধ্যায়", lessonsReady:"টি পাঠ তৈরি",
     desc:{physics:"গতি, বল, শক্তি, তরঙ্গ, আলো, বিদ্যুৎ আর পরমাণু; স্লাইডার, রশ্মিচিত্র আর বর্তনী নিজে চালিয়ে দেখো।",
       chemistry:"পরমাণু, বন্ধন, পর্যায় সারণি, মোল আর বিক্রিয়া। সমীকরণ মেলাও, কণাদের চলাচল দেখো।",
-      biology:"জীবন, কোষ, মানবদেহ, বংশগতি আর পরিবেশ, ধাপে ধাপে বোঝানো।"},
+      biology:"জীবন, কোষ, মানবদেহ, বংশগতি আর পরিবেশ, ধাপে ধাপে বোঝানো।",
+      bgs:"পৃথিবী ও সময়, বাংলাদেশের ভূপ্রকৃতি, জলবায়ু, নদ-নদী আর সম্পদ; মানচিত্রে চাপ দিয়ে, বড় করে, স্তর বদলে দেখো।"},
     exploreH:"তুমি কী শিখতে চাও?", exploreI:"একটি বিষয় আর অধ্যায় বেছে নাও, অথবা যেকোনো শব্দ, সূত্র বা বিষয় খোঁজো, বাংলা বা ইংরেজিতে।",
     more:(n)=>`আরও ${n}টি`, mine:(d,n)=>`এই ডিভাইসে ${n}টির মধ্যে ${d}টি পাঠ শেষ`,
     prevH:"একটি ধারণা বুঝতে যা যা দরকার, সব এক জায়গায়।",
     prevI:"প্রতিটি পাঠ একই ক্রমে এগোয়, তাই তুমি সবসময় জানো কোথায় আছ। এই যে একটি আসল পাঠ, ত্বরণ (পদার্থবিজ্ঞান ২.৬)।",
     parts:[["what","এটা কী?","এক-দুই লাইনে মূল ধারণা"],["simple","সহজভাবে বুঝি","পাশে বসা শিক্ষকের মতো ব্যাখ্যা"],["analogy","এভাবে ভেবে দেখো","রোজকার একটি ছবি, যাতে সহজে মাথায় ঢোকে"],["definition","বৈজ্ঞানিক সংজ্ঞা","বইয়ের নির্ভুল সংজ্ঞা"],["why","কেন এমন হয়?","পেছনের কারণ"],["formula","সূত্র","সূত্র ঘুরিয়ে লেখার ত্রিভুজসহ"],["visual","চোখে দেখি","নিজে নাড়িয়ে দেখার ছবি"],["example","উদাহরণ","দেওয়া আছে, সূত্র, হিসাব, উত্তর, কারণসহ"],["mistakes","সাধারণ ভুল","শিক্ষার্থীরা যেখানে প্রায়ই ভুল করে"],["quiz","নিজেকে যাচাই করো","ব্যাখ্যাসহ ছোট প্রশ্ন"]],
     open:"পুরো পাঠটি খোলো", tryQ:"চেষ্টা করো:",
-    howH:"কীভাবে কাজ করে", steps:[["অধ্যায় বেছে নাও","পদার্থবিজ্ঞান, রসায়ন বা জীববিজ্ঞান, তোমার পাঠ্যবইয়ের অধ্যায় ধরে ধরে।"],["ছবি দেখে শেখো","আগে সহজ ধারণা পড়ো, তারপর স্লাইডার নাড়াও, উদাহরণ মেলাও, ছোট প্রশ্নের উত্তর দাও।"],["অগ্রগতি দেখো","পড়া শেষ হলে চিহ্ন দাও, আর যেখানে থেমেছিলে ঠিক সেখান থেকে আবার শুরু করো।"]],
+    howH:"কীভাবে কাজ করে", steps:[["অধ্যায় বেছে নাও","পদার্থবিজ্ঞান, রসায়ন, জীববিজ্ঞান বা বাংলাদেশ ও বিশ্বপরিচয়, তোমার পাঠ্যবইয়ের অধ্যায় ধরে ধরে।"],["ছবি দেখে শেখো","আগে সহজ ধারণা পড়ো, তারপর স্লাইডার নাড়াও, উদাহরণ মেলাও, ছোট প্রশ্নের উত্তর দাও।"],["অগ্রগতি দেখো","পড়া শেষ হলে চিহ্ন দাও, আর যেখানে থেমেছিলে ঠিক সেখান থেকে আবার শুরু করো।"]],
     backH:"আবার স্বাগতম", backI:"যেখানে থেমেছিলে সেখান থেকে শুরু করো।", backNote:"তোমার অগ্রগতি এই ডিভাইসের ব্রাউজারে জমা থাকে।", contBtn:"চালিয়ে যাও",
     finalH:"তোমার পরের ধারণাটি অপেক্ষা করছে।", finalP:"আজই শুরু করো, একটি একটি ধারণা দিয়ে নিজের বোঝাপড়া গড়ে তোলো।",
     fSubjects:"বিষয়", fSite:"সাইট", fHow:"কীভাবে কাজ করে", fTop:"ওপরে যাও",
-    credit:"এনসিটিবির নবম-দশম শ্রেণির পদার্থবিজ্ঞান, রসায়ন ও জীববিজ্ঞান পাঠ্যবই (২০২৬) অনুসারে তৈরি। এটি এনসিটিবির কোনো সরকারি প্রকাশনা নয়; মূল ভরসা তোমার পাঠ্যবই। ব্যাখ্যা ও ছবিগুলো নিজস্ব।",
+    credit:"এনসিটিবির নবম-দশম শ্রেণির পদার্থবিজ্ঞান, রসায়ন, জীববিজ্ঞান এবং বাংলাদেশ ও বিশ্বপরিচয় পাঠ্যবই (২০২৬) অনুসারে তৈরি। এটি এনসিটিবির কোনো সরকারি প্রকাশনা নয়; মূল ভরসা তোমার পাঠ্যবই। ব্যাখ্যা ও ছবিগুলো নিজস্ব।",
     seeIt:"প্রতি সেকেন্ডে বেগ একই পরিমাণ বাড়ে: এটাই সুষম ত্বরণ।" }
 };
-const SUBJ_COL = {physics:"var(--phy-l)",chemistry:"var(--chem-l)",biology:"var(--bio-l)"};
-function subjMotif(key,col,size=60){ // simple drawings: wave, benzene ring, cell
+const SUBJ_COL = {physics:"var(--phy-l)",chemistry:"var(--chem-l)",biology:"var(--bio-l)",bgs:"var(--bgs-l)"};
+const SUBJ_SHORT = {bgs:{en:"BGS",bn:"বিশ্বপরিচয়"}}; // short label inside the small disc on the landing map
+function subjMotif(key,col,size=60){ // simple drawings: wave, benzene ring, cell, globe
   const s=size/60;
+  if(key==="bgs") return `<g transform="scale(${s})" fill="none" stroke="${col}" stroke-width="3" stroke-linecap="round"><circle r="21"/><ellipse rx="9" ry="21" stroke-width="2.2"/><path d="M-21 0 H21" stroke-width="2.2"/><path d="M-18 -10.5 Q0 -6 18 -10.5 M-18 10.5 Q0 6 18 10.5" stroke-width="1.8" opacity=".7"/><circle cx="7" cy="-6" r="3.4" fill="${col}" stroke="none"/></g>`;
   if(key==="physics") return `<g transform="scale(${s})" fill="none" stroke="${col}" stroke-width="3.2" stroke-linecap="round"><path d="M-24 0 C-18 -16 -12 -16 -6 0 S6 16 12 0 S18 -16 24 0"/><path d="M-24 14 H24" stroke-width="2" opacity=".55"/><path d="M18 10 L24 14 L18 18" stroke-width="2" opacity=".55"/></g>`;
   if(key==="chemistry") return `<g transform="scale(${s})" fill="none" stroke="${col}" stroke-width="3.2" stroke-linejoin="round"><path d="M0 -20 L17.3 -10 L17.3 10 L0 20 L-17.3 10 L-17.3 -10 Z"/><circle r="9" stroke-width="2.2"/><circle cx="0" cy="-20" r="3.4" fill="${col}"/><circle cx="17.3" cy="10" r="3.4" fill="${col}"/><circle cx="-17.3" cy="10" r="3.4" fill="${col}"/></g>`;
   return `<g transform="scale(${s})" fill="none" stroke="${col}" stroke-width="3.2"><ellipse rx="24" ry="17" transform="rotate(-18)"/><circle cx="-4" cy="-2" r="7" fill="${col}" fill-opacity=".35"/><circle cx="11" cy="6" r="2.6" fill="${col}"/><circle cx="8" cy="-9" r="2" fill="${col}"/><circle cx="-14" cy="8" r="2" fill="${col}"/></g>`;
@@ -66,7 +70,7 @@ function llLast(){ const l=store.get("c10-last",null); if(!l) return null; const
 
 function universeSVG(){
   const {per}=llCounts(); const C=[260,250], R=168;
-  const pos={physics:-90,chemistry:30,biology:150};
+  const pos={physics:-135,chemistry:-45,biology:45,bgs:135};
   let s=`<svg viewBox="0 0 520 520" role="group" aria-label="${LANG==="bn"?"বিষয়ের মানচিত্র":"Map of subjects"}">`;
   s+=`<circle class="orbit" cx="${C[0]}" cy="${C[1]}" r="${R}"/>`;
   MAP.forEach(sub=>{ const a=pos[sub.key]*Math.PI/180, x=C[0]+R*Math.cos(a), y=C[1]+R*Math.sin(a); s+=`<line class="link" data-k="${sub.key}" x1="${C[0]}" y1="${C[1]}" x2="${x}" y2="${y}"/>`; });
@@ -76,7 +80,7 @@ function universeSVG(){
     const n=sub.chapters.length, rr=86;
     let dots=""; sub.chapters.forEach((c,i)=>{ const b=(i/n)*Math.PI*2-Math.PI/2, dx=x+rr*Math.cos(b), dy=y+rr*Math.sin(b); dots+= c.ready?`<circle cx="${dx}" cy="${dy}" r="5.5" fill="${col}"/>`:`<circle cx="${dx}" cy="${dy}" r="4.5" fill="none" stroke="${col}" stroke-width="1.6" opacity=".7"/>`; });
     s+=`<g class="sat"><g class="spin ${sub.key==="chemistry"?"r":""}" style="transform-origin:${x}px ${y}px">${dots}</g></g>`;
-    s+=`<g class="node" data-k="${sub.key}" tabindex="0" role="button" aria-label="${title(sub)}"><circle class="disc" cx="${x}" cy="${y}" r="56" stroke="${col}"/><g transform="translate(${x},${y-10})">${subjMotif(sub.key,col,52)}</g><text class="lbl" x="${x}" y="${y+28}" font-size="${LANG==="bn"?17:16}">${title(sub)}</text></g>`;
+    s+=`<g class="node" data-k="${sub.key}" tabindex="0" role="button" aria-label="${title(sub)}"><circle class="disc" cx="${x}" cy="${y}" r="56" stroke="${col}"/><g transform="translate(${x},${y-10})">${subjMotif(sub.key,col,52)}</g><text class="lbl" x="${x}" y="${y+28}" font-size="${LANG==="bn"?17:16}">${SUBJ_SHORT[sub.key]?SUBJ_SHORT[sub.key][LANG]:title(sub)}</text></g>`;
   });
   return s+`</svg>`;
 }

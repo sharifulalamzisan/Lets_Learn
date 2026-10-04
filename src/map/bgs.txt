@@ -1,0 +1,125 @@
+S bgs|Bangladesh and Global Studies|বাংলাদেশ ও বিশ্বপরিচয়
+C 1|The Movements of East Bengal and the Rise of Nationalism (1947–1970)|পূর্ব বাংলার আন্দোলন ও জাতীয়তাবাদের উত্থান (১৯৪৭-১৯৭০)|1-17|1-13
+
+C 2|The Independence of Bangladesh|বাংলাদেশের স্বাধীনতা|18-33|14-25
+
+C 3|The Solar System and the Earth|সৌরজগৎ ও ভূমণ্ডল|34-57|26-44
+T 3.1.1|The Sun and the solar system|সূর্য ও সৌরজগৎ|D,V,I
+- The universe and the solar family: the Sun, 8 planets, satellites, asteroids, comets, meteors
+- The Sun: size, distance, composition, sunspots, rotation
+T 3.1.2|The eight planets|সৌরজগতের আটটি গ্রহ|D,V,I
+- Mercury, Venus, Earth, Mars, the asteroid belt, Jupiter, Saturn, Uranus, Neptune
+- Distance from the Sun, time to orbit, satellites and special features of each planet
+T 3.1.3|Why living things can live on the Earth|পৃথিবীতে জীব বসবাসের কারণ|D,V
+- The atmosphere: nitrogen, oxygen, carbon dioxide; troposphere, tropopause, ozone layer
+- Light, heat, water and a suitable temperature; keeping the atmosphere clean
+T 3.1.4|The interior structure of the Earth|ভূ-অভ্যন্তরের গঠন|D,V,I
+- Three layers known from earthquake waves: core (Nife), mantle (Sima), lithosphere/crust (Sial)
+T 3.2.1|Axis, equator and latitude|অক্ষ, নিরক্ষরেখা ও অক্ষাংশ|D,V,I
+- Axis and poles; the equator and the two hemispheres; parallels of latitude
+- Tropic of Cancer and Capricorn, Arctic and Antarctic Circles; low, middle and high latitudes
+T 3.2.2|Longitude and the prime meridian|দ্রাঘিমারেখা ও মূল মধ্যরেখা|D,V,I
+- Meridians of longitude; the Greenwich prime meridian (0°); 180° East and West
+- Finding a place with latitude and longitude
+T 3.2.3|Local time and standard time|স্থানীয় সময় ও প্রমাণ সময়|F,D,N,V,I
+- 1° of longitude = 4 minutes; 15° = 1 hour; east is ahead, west is behind
+- Standard time; Greenwich Mean Time; Bangladesh standard time (90° E, GMT + 6)
+- Worked problems: Dhaka–Seoul, Dhaka–Chennai
+K 1° longitude = 4 minutes of time
+K 15° longitude = 1 hour
+T 3.2.4|Antipode|প্রতিপাদ স্থান|D,N,V,I
+- The exactly opposite point on the Earth; rules for its latitude and longitude; 12 hours apart
+T 3.2.5|The International Date Line|আন্তর্জাতিক তারিখ রেখা|D,V,I
+- Why a date line is needed at 180°; where it bends; gaining and losing a day
+T 3.3.1|Diurnal motion: day and night|আহ্নিক গতি: দিন ও রাত|D,V,I
+- Rotation from west to east in 23 h 56 min 4 s; the solar day
+- How day and night happen; the circle of illumination, dawn and twilight
+T 3.3.2|Annual motion and the leap year|বার্ষিক গতি ও অধিবর্ষ|D,N,V
+- Revolution round the Sun in 365 d 5 h 48 min 47 s at about 30 km/s; the solar year; leap year
+- Perihelion and aphelion
+T 3.3.3|Why days and nights grow longer and shorter|দিবারাত্রির হ্রাস-বৃদ্ধি|D,V,I
+- The four positions: 21 June, 23 September, 22 December, 21 March
+- Solstices and equinoxes; 24-hour day and night inside the polar circles
+T 3.3.4|Change of seasons|ঋতু পরিবর্তন|D,V,I
+- Vertical and slanting rays; opposite seasons in the two hemispheres
+- Causes of the change of seasons; seasons of Bangladesh and the annual motion
+T 3.4.1|Tides: high tide and low tide and their causes|জোয়ার-ভাটা ও এর কারণ|D,V,I
+- High tide (flow) and low tide (ebb); attraction of the Moon and the Sun; centrifugal force
+T 3.4.2|Kinds of tides and the time between them|জোয়ার-ভাটার শ্রেণিবিভাগ ও ব্যবধান|D,N,V,I
+- Direct (primary) and indirect (secondary) tide; spring tide and neap tide
+- 12 h 26 min and 24 h 52 min; ebb 6 h 13 min after flow
+T 3.4.3|Effects of tides on the Earth|পৃথিবীর ওপর জোয়ার-ভাটার প্রভাব|D,V
+- Rivers, ports and shipping, irrigation, salt, tidal power; tidal bores
+
+C 4|The Topography and Climate of Bangladesh|বাংলাদেশের ভূপ্রকৃতি ও জলবায়ু|58-78|45-60
+T 4.1.1|Geographical location and boundaries of Bangladesh|বাংলাদেশের ভৌগোলিক অবস্থান ও সীমানা|D,V,I
+- Latitude and longitude limits; Tropic of Cancer; extent; area; neighbours on every side
+T 4.1.2|Landforms: the three physiographic regions|ভূপ্রাকৃতিক অঞ্চলের শ্রেণিবিভাগ ও গঠন|D,V,I
+- Hills of the Tertiary age (12%): south-eastern, northern and north-eastern hills; highest peaks
+- Terraces of the Pleistocene age (8%): Barind, Madhupur and Bhawal, Lalmai
+- Recent floodplain (80%): floodplain, delta, coastal and tidal plains
+T 4.1.3|Landform, population and settlement|ভূপ্রকৃতি, জনসংখ্যা ও জনবসতি|D,V
+- Population, growth rate and density (Census 2022); why some regions are dense and others sparse
+T 4.1.4|How the spread of settlement changes land use|ভূমি ব্যবহারে জনবসতি বিস্তারের প্রভাব|D,V
+- Pressure on farmland, fragmentation of land, falling land per person, filling wetlands and cutting forests
+T 4.2.1|Climate and seasons of Bangladesh|বাংলাদেশের জলবায়ু ও ঋতু|D,V,I
+- Tropical monsoon climate; winter, summer and rainy season; temperatures; Kalbaishakhi and cyclones
+T 4.2.2|Monsoon rainfall in Bangladesh|বাংলাদেশের মৌসুমি বৃষ্টিপাত|D,N,V,I
+- Four-fifths of the rain in the rainy season; more rain towards the east; wettest places
+T 4.2.3|Climate of India, Myanmar and Nepal|ভারত, মিয়ানমার ও নেপালের জলবায়ু|D,V,I
+- Seasons, temperature and rainfall of the three neighbours compared with Bangladesh
+T 4.2.4|How climate shapes life and livelihood|মানুষের জীবন-জীবিকার ওপর জলবায়ুর প্রভাব|D,V
+- Crops of the two monsoons; floods and silt; climate change, sea-level rise, river erosion, migration
+T 4.2.5|Lightning and how to stay safe|বজ্রপাত ও নিরাপদ থাকার উপায়|D,V,I
+- What lightning is; where and when it strikes most; four safety rules
+T 4.2.6|Earthquake: the idea and its causes|ভূমিকম্পের ধারণা ও কারণ|D,V,I
+- Focus and epicentre; tectonic plates; faults, volcanoes and other causes
+T 4.2.7|Results of earthquakes and how to reduce the loss|ভূমিকম্পের ফলাফল ও ক্ষয়ক্ষতি হ্রাস|D,V,I
+- Cracks, uplift and sinking, landslides, tsunami (26 December 2004); steps that reduce damage
+T 4.2.8|Earthquake-prone regions of the world|বিশ্বের ভূমিকম্পপ্রবণ অঞ্চল|D,V,I
+- Circum-Pacific belt; Mediterranean–Himalayan belt; Mid-Atlantic–Indian Ocean ridge belt
+T 4.2.9|Why Bangladesh is earthquake-prone|বাংলাদেশে ভূমিকম্পের কারণ ও ঝুঁকি অঞ্চল|D,V,I
+- Indian plate, Eurasian plate and Myanmar sub-plate; the Dauki fault; three seismic risk zones (1989)
+T 4.2.10|Earthquake preparedness: before, during and after|ভূমিকম্প মোকাবিলার প্রস্তুতি ও করণীয়|D,V,I
+- Safe buildings and the National Building Code; what a person should do before, during and after
+
+C 5|The Rivers and Natural Resources of Bangladesh|বাংলাদেশের নদ-নদী ও প্রাকৃতিক সম্পদ|79-93|61-73
+T 5.1.1|The three great rivers: Padma, Brahmaputra–Jamuna and Meghna|প্রধান তিন নদী: পদ্মা, ব্রহ্মপুত্র-যমুনা ও মেঘনা|D,V,I
+- Number and length of rivers; where the rivers come from
+- Source, route, confluences, tributaries and distributaries of each of the three rivers
+T 5.1.2|Karnaphuli, Tista, Pasur and the south-eastern rivers|কর্ণফুলী, তিস্তা, পশুর ও দক্ষিণ-পূর্বের নদী|D,V,I
+- Karnaphuli, Tista, Pasur, Sangu, Feni, Naf and Matamuhuri: source, route, length and importance
+T 5.1.3|Rivers and human settlement|নদ-নদী ও জনবসতির পারস্পরিক সম্পর্ক|D,V,I
+- Why people settle by rivers; cities on river banks; irrigation and multipurpose projects
+T 5.1.4|Water shortage: causes, effects and solutions|পানির অভাবের কারণ, প্রভাব ও সমাধান|D,V,I
+- Silting, dams upstream (Farakka), pumping, unplanned bridges; effects on life; what must be done
+T 5.1.5|Waterways: transport, hydroelectricity and trade|যাতায়াত, জলবিদ্যুৎ ও বাণিজ্যে নদীপথ|D,N,V,I
+- Length of waterways; hydroelectricity at Kaptai; 75% of commercial goods by water
+T 5.2.1|Natural resources of Bangladesh and South Asia|বাংলাদেশ ও দক্ষিণ এশিয়ার প্রাকৃতিক সম্পদ|D,V,I
+- Agricultural, forest, fish, mineral and solar resources of Bangladesh, India, Myanmar and Nepal
+T 5.2.2|Water resource management and food security|পানিসম্পদ ব্যবস্থাপনা ও খাদ্য নিরাপত্তা|D,V,I
+- What water management means; the measures needed for water and food security; people's involvement
+T 5.2.3|Forests of Bangladesh|বাংলাদেশের বনভূমির শ্রেণিবিভাগ|D,V,I
+- Evergreen and deciduous hill forest; deciduous (sal) forest; mangrove forest; forest cover
+T 5.2.4|Natural resources in the economy of Bangladesh|বাংলাদেশের অর্থনীতিতে প্রাকৃতিক সম্পদের গুরুত্ব|D,V
+- Land, water, forest, mineral and solar resources as the base of farming, industry, jobs and exports
+
+C 6|The State, Citizenship and Law|রাষ্ট্র, নাগরিকতা ও আইন|94-106|74-84
+
+C 7|The Organs of the Government of Bangladesh and the Administrative System|বাংলাদেশ সরকারের বিভিন্ন অঙ্গ ও প্রশাসন ব্যবস্থা|107-124|85-97
+
+C 8|Democracy and the Election System of Bangladesh|বাংলাদেশের গণতন্ত্র ও নির্বাচন ব্যবস্থা|125-136|98-106
+
+C 9|The United Nations and Bangladesh|জাতিসংঘ ও বাংলাদেশ|137-148|107-116
+
+C 10|National Resources and Economic Systems|জাতীয় সম্পদ ও অর্থনৈতিক ব্যবস্থা|149-163|117-128
+
+C 11|Economic Indicators and the Nature of the Economy of Bangladesh|অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি|164-194|129-152
+
+C 12|The Financial and Banking System of the Government of Bangladesh|বাংলাদেশ সরকারের অর্থ ও ব্যাংক ব্যবস্থা|195-207|153-163
+
+C 13|The Family Structure of Bangladesh and Socialisation|বাংলাদেশের পরিবার কাঠামো ও সামাজিকীকরণ|208-226|164-177
+
+C 14|Social Change in Bangladesh|বাংলাদেশের সামাজিক পরিবর্তন|227-235|178-184
+
+C 15|Social Problems of Bangladesh and Their Remedies|বাংলাদেশের সামাজিক সমস্যা ও প্রতিকার|236-255|185-200

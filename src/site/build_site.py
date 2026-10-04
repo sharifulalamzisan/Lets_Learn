@@ -8,10 +8,12 @@ Authoring format (content/<subject>/chNN.txt):
   @media <url> | <en title> | <bn title> | <source>
   == en / == bn        language block
   ## <section>         what simple definition why terms formula visual real example mistakes remember think quiz timeline intro objectives
+                       points matters facts   (used by Bangladesh and Global Studies: numbered main points, "why it matters", fact table)
+  In prose sections a block of lines that start with "|" is a table: | head | head |  then one  | cell | cell |  line per row.
 """
 import json, re, os, glob, html
 
-SECTIONS = {"what","simple","definition","why","terms","formula","visual","real","example","mistakes","remember","think","quiz","timeline","intro","objectives","analogy"}
+SECTIONS = {"what","simple","definition","why","terms","formula","visual","real","example","mistakes","remember","think","quiz","timeline","intro","objectives","analogy","points","matters","facts"}
 
 def inline(s):
     s = html.escape(s, quote=False)
@@ -24,14 +26,22 @@ def inline(s):
     return s
 
 def md(text):
-    out, para, lst, ltype = [], [], [], None
+    out, para, lst, ltype, tbl = [], [], [], None, []
     def flush():
-        nonlocal para, lst, ltype
+        nonlocal para, lst, ltype, tbl
         if para: out.append("<p>" + " ".join(inline(x) for x in para) + "</p>"); para = []
         if lst: out.append(f"<{ltype}>" + "".join(f"<li>{inline(x)}</li>" for x in lst) + f"</{ltype}>"); lst = []; ltype = None
+        if tbl:
+            rows = [[inline(c.strip()) for c in r.strip().strip("|").split("|")] for r in tbl]
+            out.append('<div class="tablewrap"><table class="cmp"><thead><tr>' + "".join(f"<th>{c}</th>" for c in rows[0]) + "</tr></thead><tbody>"
+                       + "".join("<tr>" + "".join(f"<td>{c}</td>" for c in r) + "</tr>" for r in rows[1:]) + "</tbody></table></div>"); tbl = []
     for line in text.strip().split("\n"):
         l = line.rstrip()
         if not l.strip(): flush(); continue
+        if l.lstrip().startswith("|"):
+            if para or lst: flush()
+            tbl.append(l); continue
+        if tbl: flush()
         m = re.match(r"^\s*-\s+(.*)", l); n = re.match(r"^\s*[0-9০-৯]+[.)]\s+(.*)", l)
         if m or n:
             t = "ul" if m else "ol"
@@ -47,9 +57,9 @@ def md(text):
 
 def parse_section(name, body):
     lines = [l for l in body.strip().split("\n")]
-    if name in ("what","simple","definition","why","visual","real","think","intro","analogy"):
+    if name in ("what","simple","definition","why","visual","real","think","intro","analogy","points","matters"):
         return md(body)
-    if name == "terms":
+    if name in ("terms", "facts"):
         return [[inline(c.strip()) for c in l.split("|", 1)] for l in lines if "|" in l]
     if name in ("remember","objectives"):
         return [inline(re.sub(r"^\s*-\s*", "", l)) for l in lines if l.strip()]
@@ -217,9 +227,11 @@ def deploy():
     if os.path.isdir(d): shutil.rmtree(d)
     os.makedirs(os.path.join(d, "data"))
     page = open(os.path.join(root, "index.html"), encoding="utf-8").read()
-    head = '<!doctype html>\n<html lang="bn">\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<meta name="description" content="Class 9-10 Physics, Chemistry and Biology explained simply in Bangla and English, with interactive visuals. Based on the NCTB textbooks.">\n<meta property="og:title" content="Let\'s Learn — Learn. Understand. Explore.">\n<meta property="og:description" content="Every chapter of Class 9-10 Physics, Chemistry and Biology, explained simply in Bangla and English, with interactive visuals.">\n<meta property="og:type" content="website">\n<meta property="og:image" content="/og.png">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="theme-color" content="#0f1d2e">\n<link rel="apple-touch-icon" href="/logo-512.png">\n'
+    head = '<!doctype html>\n<html lang="bn">\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<meta name="description" content="Class 9-10 Physics, Chemistry, Biology and Bangladesh and Global Studies explained simply in Bangla and English, with interactive visuals and maps. Based on the NCTB textbooks.">\n<meta property="og:title" content="Let\'s Learn — Learn. Understand. Explore.">\n<meta property="og:description" content="Class 9-10 Physics, Chemistry, Biology and Bangladesh and Global Studies, explained simply in Bangla and English, with interactive visuals and maps.">\n<meta property="og:type" content="website">\n<meta property="og:image" content="/og.png">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="theme-color" content="#0f1d2e">\n<link rel="apple-touch-icon" href="/logo-512.png">\n'
     open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(head + page)
     for f in glob.glob(os.path.join(root, "out", "data", "*.json")): shutil.copy(f, os.path.join(d, "data"))
+    for f in glob.glob(os.path.join(root, "geo", "geo-*.json")):   # map data for the BGS widgets, loaded on demand
+        shutil.copy(f, os.path.join(d, "data")); shutil.copy(f, os.path.join(root, "out", "data"))
     for f in ("og.png", "logo-512.png", "logo.svg"):
         if os.path.exists(os.path.join(root, "brand", f)): shutil.copy(os.path.join(root, "brand", f), d)
     if False: open(os.path.join(d, "vercel.json"), "w").write('{\n  "cleanUrls": true,\n  "headers": [{"source": "/data/(.*)", "headers": [{"key": "Cache-Control", "value": "public, max-age=300"}]}]\n}\n')

@@ -3,7 +3,7 @@
    Subject colours stay the textbook cover colours (physics blue, chemistry violet, biology green). */
 :root{
   --night:#0f1d2e; --night-2:#16283e; --night-line:#2a4059; --chalk:#eef3f8; --chalk-2:#a9b8c9;
-  --phy-l:#7fb0f0; --chem-l:#d49bd8; --bio-l:#8fcf89;
+  --phy-l:#7fb0f0; --chem-l:#d49bd8; --bio-l:#8fcf89; --bgs-l:#f2a878;
 }
 body.is-landing{background-image:none}
 body.is-landing main{max-width:none;padding:0}
