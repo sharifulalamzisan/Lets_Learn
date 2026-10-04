@@ -12,6 +12,7 @@ This chapter is built around Isaac Newton's three laws of motion. You will see w
 - analyse collisions and relate them to road safety
 - measure force using Newton's second law, F = ma
 - use Newton's law of gravitation to find g and weight
+- find the acceleration and the tension when objects are joined by a string over a pulley
 - explain action and reaction using Newton's third law
 - describe the types of friction, how to increase or reduce it, and its role in daily life
 == bn
@@ -27,6 +28,7 @@ This chapter is built around Isaac Newton's three laws of motion. You will see w
 - সংঘর্ষ বিশ্লেষণ করে নিরাপদ চলাচলের সাথে সম্পর্ক বুঝতে পারবে
 - নিউটনের দ্বিতীয় সূত্র F = ma দিয়ে বল পরিমাপ করতে পারবে
 - নিউটনের মহাকর্ষ সূত্র দিয়ে g ও ওজন বের করতে পারবে
+- কপিকলের ওপর দিয়ে সুতায় বাঁধা বস্তুর ত্বরণ ও টান বল বের করতে পারবে
 - নিউটনের তৃতীয় সূত্র দিয়ে ক্রিয়া-প্রতিক্রিয়া ব্যাখ্যা করতে পারবে
 - ঘর্ষণের প্রকারভেদ, বাড়ানো-কমানোর উপায় এবং দৈনন্দিন জীবনে এর ভূমিকা বর্ণনা করতে পারবে
 
@@ -1040,7 +1042,7 @@ v ১ N = ১ kg m/s²। নিউটন বলের একক; কিলো�
 
 @@ 3.7
 @visual gravity
-@related 3.2 3.6 2.8
+@related 3.7.1 3.2 3.6 2.8
 == en
 ## what
 Every object with mass attracts every other object with mass. **Newton's law of gravitation** tells us how strong this pull is. It explains why things have **weight**, and why g is 9.8 m/s².
@@ -1066,7 +1068,7 @@ Putting in M = 5.98 × 10^{24} kg and R = 6.37 × 10^{6} m gives **g ≈ 9.8 m/s
 
 **Going higher.** At height h above the surface, g' = g ÷ (1 + h/R)². At a space station 100 km up, g' ≈ 9.5 m/s², not zero! Astronauts float because they and their station are falling freely around the Earth together.
 
-**Pulleys and strings.** A string pulls along its length with a **tension** T. If a mass M hangs over a pulley and pulls a mass m on a smooth table, apply F = ma to each: T = ma for the table mass, and Mg − T = Ma for the hanging mass. Adding them: **a = Mg ÷ (M + m)**.
+**Weight can pull other things too.** Hang a mass from a string and its weight pulls along the string as a **tension** T. With a pulley, that pull can even drag a block across a table. This has its own lesson: [[3.7.1|pulleys and strings]].
 ## analogy
 Think of gravity like the light from a lamp spreading out in a dark room. Go twice as far and the light is spread over four times the area, so it looks four times dimmer. Gravity weakens the same way: **twice the distance → one quarter of the force**. That is what the d² in the formula means.
 ## definition
@@ -1111,13 +1113,6 @@ Formula: g' = g ÷ (1 + h/R)²
 Substitution: g' = 9.8 ÷ (1 + 100/6370)²
 Calculation: = 9.8 ÷ (1.0157)² = 9.8 ÷ 1.0317 ≈ 9.5
 Answer: g' ≈ 9.5 m/s², far from zero.
-## example
-Q: A 2 kg mass hangs over a pulley and is tied by a string to a 3 kg block on a smooth table. Find the acceleration and the tension.
-Given: M = 2 kg (hanging), m = 3 kg (on table), g = 9.8 m/s²
-Formula: a = Mg ÷ (M + m); T = ma
-Calculation: a = 2 × 9.8 ÷ 5 = 3.92 m/s²; T = 3 × 3.92 = 11.76 N
-Answer: a = 3.92 m/s², T ≈ 11.8 N
-> The tension is less than the hanging weight (19.6 N), which is why the hanging mass accelerates downward.
 ## mistakes
 x Mass and weight are the same.
 v Mass (kg) is the amount of matter and never changes. Weight (N) is a force, W = mg, and changes with g.
@@ -1129,7 +1124,7 @@ v In g = GM/R², only the Earth's mass appears; the object's mass cancels.
 - F = Gm₁m₂/d²; G = 6.67 × 10^{-11} N m² kg^{-2}; the pull is mutual.
 - g = GM/R² ≈ 9.8 m/s²; decreases with height: g' = g/(1 + h/R)².
 - Weight W = mg (newtons); mass stays constant.
-- Pulley with hanging mass M and table mass m: a = Mg/(M + m).
+- A hanging weight pulls along its string as tension T (next lesson: pulleys).
 ## think
 If the distance between the Earth and the Moon doubled, how would the gravitational force between them change?
 ## quiz
@@ -1176,7 +1171,7 @@ M = ৫.৯৮ × ১০^{২৪} kg আর R = ৬.৩৭ × ১০^{৬} m ব
 
 **আরও উঁচুতে।** পৃষ্ঠ থেকে h উচ্চতায় g' = g ÷ (১ + h/R)²। ১০০ km উঁচুতে মহাকাশ স্টেশনে g' ≈ ৯.৫ m/s², শূন্য নয়! নভোচারীরা ভাসেন কারণ তাঁরা আর স্টেশন একসাথে পৃথিবীর চারপাশে মুক্তভাবে পড়ছেন।
 
-**কপিকল ও সুতা।** সুতা তার দৈর্ঘ্য বরাবর **টান** T দিয়ে টানে। কপিকলের ওপর দিয়ে ঝোলানো M ভর যদি মসৃণ টেবিলের m ভরকে টানে, প্রতিটিতে F = ma প্রয়োগ করো: টেবিলের ভরের জন্য T = ma, ঝোলানো ভরের জন্য Mg − T = Ma। যোগ করলে: **a = Mg ÷ (M + m)**।
+**ওজন অন্য জিনিসকেও টানতে পারে।** সুতায় একটি ভর ঝোলালে তার ওজন সুতা বরাবর **টান বল** T হয়ে কাজ করে। কপিকল থাকলে এই টান টেবিলের ওপরের একটি ব্লককেও টেনে নিতে পারে। এ নিয়ে আলাদা পাঠ আছে: [[3.7.1|কপিকল ও সুতা]]।
 ## analogy
 মহাকর্ষকে অন্ধকার ঘরে বাতির আলো ছড়িয়ে পড়ার মতো ভাবো। দ্বিগুণ দূরে গেলে আলো চার গুণ জায়গায় ছড়ায়, তাই চার গুণ ম্লান লাগে। মহাকর্ষও একইভাবে দুর্বল হয়: **দূরত্ব দ্বিগুণ → বল এক-চতুর্থাংশ**। সূত্রের d²-এর মানে এটাই।
 ## definition
@@ -1221,13 +1216,6 @@ d | কেন্দ্রদ্বয়ের দূরত্ব | m
 মান বসাই: g' = ৯.৮ ÷ (১ + ১০০/৬৩৭০)²
 হিসাব: = ৯.৮ ÷ (১.০১৫৭)² = ৯.৮ ÷ ১.০৩১৭ ≈ ৯.৫
 উত্তর: g' ≈ ৯.৫ m/s², শূন্যের ধারেকাছেও নয়।
-## example
-প্রশ্ন: কপিকলের ওপর দিয়ে ঝোলানো ২ kg একটি ভর সুতা দিয়ে মসৃণ টেবিলের ওপরের ৩ kg একটি ব্লকের সাথে বাঁধা। ত্বরণ ও টান বের করো।
-দেওয়া আছে: M = ২ kg (ঝোলানো), m = ৩ kg (টেবিলে), g = ৯.৮ m/s²
-সূত্র: a = Mg ÷ (M + m); T = ma
-হিসাব: a = ২ × ৯.৮ ÷ ৫ = ৩.৯২ m/s²; T = ৩ × ৩.৯২ = ১১.৭৬ N
-উত্তর: a = ৩.৯২ m/s², T ≈ ১১.৮ N
-> টান ঝোলানো ওজনের (১৯.৬ N) চেয়ে কম, তাই ঝোলানো ভর নিচের দিকে ত্বরিত হয়।
 ## mistakes
 x ভর আর ওজন একই জিনিস।
 v ভর (kg) পদার্থের পরিমাণ, কখনো বদলায় না। ওজন (N) একটি বল, W = mg, g-এর সাথে বদলায়।
@@ -1239,7 +1227,7 @@ v g = GM/R²-এ শুধু পৃথিবীর ভর আছে; বস্�
 - F = Gm₁m₂/d²; G = ৬.৬৭ × ১০^{-১১} N m² kg^{-২}; টান পারস্পরিক।
 - g = GM/R² ≈ ৯.৮ m/s²; উচ্চতায় কমে: g' = g/(১ + h/R)²।
 - ওজন W = mg (নিউটন); ভর স্থির।
-- ঝোলানো ভর M ও টেবিলের ভর m সহ কপিকল: a = Mg/(M + m)।
+- ঝোলানো ওজন সুতা বরাবর টান বল T হয়ে কাজ করে (পরের পাঠ: কপিকল)।
 ## think
 পৃথিবী ও চাঁদের দূরত্ব দ্বিগুণ হলে তাদের মধ্যকার মহাকর্ষ বল কীভাবে বদলাত?
 ## quiz
@@ -1261,6 +1249,312 @@ v g = GM/R²-এ শুধু পৃথিবীর ভর আছে; বস্�
 - তাঁদের ভর শূন্য হয়ে যায়
 - স্টেশনে বাতাস নেই
 = অভিকর্ষ তখনো কাজ করে; একসাথে মুক্ত পতনে ওজনের অনুভূতি থাকে না।
+
+@@ 3.7.1
+@visual pulley
+@related 3.6 3.7 3.3 3.8
+== en
+## what
+With a **string** and a **pulley**, the weight of one object can pull another object. The pull that travels along the string is called **tension (T)**. Every problem of this kind is solved with one idea: write **F = ma for each object separately**.
+## simple
+Put a block of mass m on a smooth table. Tie a string to it, pass the string over a pulley at the edge of the table, and hang a mass M on the other end (Fig 3.09 of your book). Now let go. The hanging mass falls and drags the block across the table. The Earth pulls only M downward, yet **both** objects move!
+
+**What does the string do?** A stretched string pulls on whatever is tied to its ends. This pull is the **tension T**. Two rules:
+
+- A string can only **pull**, never push. Tension always acts **along the string, away from the object**.
+- One light string has **one tension**: the same T at both of its ends.
+
+**What does the pulley do?** A light, smooth pulley only **turns the direction** of the string. The pull that is sideways on the block becomes an upward pull on the hanging mass. The size of T does not change.
+
+**Same string, same acceleration.** The string does not stretch, so when M drops 1 cm the block slides 1 cm. At every moment both have the same speed and the same acceleration a.
+
+**Now use F = ma, one object at a time.**
+
+1. **The block m on the table.** Sideways, only the tension acts on it, so **T = ma**. Up and down, its weight mg (down) and the table's normal force N (up) cancel, so it does not move vertically.
+2. **The hanging mass M.** Its weight Mg pulls down and the tension T pulls up. It speeds up downward, so the downward force must be the bigger one: **Mg − T = Ma**.
+
+Add the two equations and T disappears: Mg = (M + m)a, so
+
+**a = Mg ÷ (M + m)**, and then T = ma.
+
+Read the answer like a sentence: the only driving force is the weight Mg, but it has to move **both** masses, M + m.
+
+**Two weights, one on each side (Fig 3.10).** Now put a pulley at each end of the table and hang a weight on each side: m₂ on the left and m₁ on the right, each tied to the block with its own string. Two strings means **two tensions**, T₂ and T₁. The heavier side wins. If m₂ is heavier, m₂ goes down, the block moves left and m₁ goes up, all with the same a:
+
+- m₂ (going down): m₂g − T₂ = m₂a
+- block m (going left): T₂ − T₁ = ma
+- m₁ (going up): T₁ − m₁g = m₁a
+
+Add all three and both tensions disappear:
+
+**a = (m₂ − m₁)g ÷ (m₁ + m₂ + m)**
+
+The two weights pull against each other, so only their **difference** drives the motion, while **all three** masses have to be moved.
+
+**About the signs.** Your textbook takes right and up as positive, left and down as negative. So for the falling mass it writes T − Mg = M(−a). Multiply both sides by −1 and you get Mg − T = Ma: it is the same equation. An easy rule that always works: for each object, take its **direction of motion as positive**.
+## analogy
+Think of a train. Only the engine pulls, but the couplings pass the pull along and the whole train speeds up together. Here the hanging mass is the engine, the string is the coupling and the block is the coach. One pull has to be shared by all the mass, so the more coaches (mass) you add, the more slowly the train picks up speed.
+## definition
+**Tension (T)**: the pulling force that a stretched string or rope exerts on an object tied to it. It acts along the string, away from the object. Its unit is the newton (N).
+
+**Pulley**: a wheel with a groove round its rim for a string. A light, smooth pulley changes the direction of the tension without changing its size.
+
+For a mass M hanging over a pulley and pulling a mass m on a smooth table: **a = Mg ÷ (M + m)** and **T = ma**.
+## why
+**Why is the tension smaller than the hanging weight?** If T were equal to Mg, the forces on M would be balanced and M could not speed up at all ([[3.3|balanced forces]]). M accelerates downward only because Mg is **bigger** than T. Part of the weight (Ma) is used to speed up M itself; the rest (T) is passed along the string to pull the block.
+
+**Why isn't the acceleration g?** In free fall the weight Mg moves only M, so a = g. Here the same force must move M + m, so the acceleration is smaller. A heavier block gives a smaller a. If the block were extremely light, a would come close to g.
+
+**Why does the block's weight not appear?** On a smooth table the weight mg of the block is cancelled by the normal force. It does not help or oppose the sideways motion. But the block's **mass** m still matters, because mass is inertia: it must be accelerated.
+## terms
+Tension (T) | Pull of a stretched string, along the string and away from the object
+Pulley | Grooved wheel that changes the direction of a string's pull
+Normal force (N) | Push of a surface on an object, at right angles to the surface
+Connected objects | Objects tied by a string; they move with the same acceleration
+Smooth | Without friction
+## formula
+$$ T = ma
+$$ Mg − T = Ma
+$$ a = Mg ÷ (M + m)
+$$ a = (m₂ − m₁)g ÷ (m₁ + m₂ + m)
+tri T | m | a
+T | tension in the string | N
+M | hanging mass | kg
+m | mass on the table | kg
+m₁, m₂ | the two hanging masses (two-weights case) | kg
+a | acceleration of every connected object | m/s²
+g | acceleration due to gravity = 9.8 | m/s²
+! These hold for a smooth table, a light string that does not stretch and a light, smooth pulley. T = ma here is for the block on the table.
+## visual
+Choose one hanging weight or two, set the masses and press Release. Blue arrows are tensions, red arrows are weights and green arrows show the acceleration. Notice that the tension is always smaller than the weight that is falling. Then make the two weights equal and see what happens.
+## real
+**Drawing water from a well.** The rope goes over a pulley above the well. You pull **down** on the rope and the bucket comes **up**: the pulley only turns the direction of your pull, which is much more comfortable than lifting straight up.
+
+**A lift (elevator).** The cabin hangs from a steel cable that passes over a pulley at the top of the building to a heavy **counterweight**. It is like the two-weights picture: the two sides nearly balance, so the motor only has to supply the small difference.
+
+Cranes on building sites, flagpoles and the weight machines in a gym all use strings and pulleys in the same way.
+## example
+Q: A 2 kg mass hangs over a pulley and is tied by a string to a 3 kg block on a smooth table (as in Fig 3.09). Find the acceleration and the tension in the string.
+Given: M = 2 kg (hanging), m = 3 kg (on the table), g = 9.8 m/s²
+Formula: a = Mg ÷ (M + m); T = ma
+Substitution: a = (2 × 9.8) ÷ (2 + 3)
+Calculation: a = 19.6 ÷ 5 = 3.92 m/s²; T = 3 × 3.92 = 11.76 N
+Answer: a = 3.92 m/s², T = 11.76 N
+> Check with the hanging mass: Mg − T = 19.6 − 11.76 = 7.84 N, and Ma = 2 × 3.92 = 7.84 N. The tension (11.76 N) is less than the hanging weight (19.6 N), as it must be.
+## example
+Q: A 1 kg mass hangs over a pulley and pulls a 4 kg block on a smooth table. The block starts from rest. How far does it move in 2 s, and how fast is it going then?
+Given: M = 1 kg, m = 4 kg, u = 0, t = 2 s
+Formula: a = Mg ÷ (M + m); s = ut + ½at²; v = u + at
+Calculation: a = (1 × 9.8) ÷ (1 + 4) = 1.96 m/s²
+Step: s = 0 + ½ × 1.96 × 2² = 3.92 m
+Step: v = 0 + 1.96 × 2 = 3.92 m/s
+Answer: It moves 3.92 m and reaches 3.92 m/s.
+> First find a from the forces, then use the [[2.7|equations of motion]]. Most pulley problems are solved in these two stages.
+## example
+Q: In Fig 3.10, m₂ = 10 kg hangs on the left and m₁ = 5 kg on the right. The block on the smooth table has mass m = 5 kg. Find the acceleration, the two tensions and the net force on the block.
+Given: m₂ = 10 kg, m₁ = 5 kg, m = 5 kg, g = 9.8 m/s²
+Formula: a = (m₂ − m₁)g ÷ (m₁ + m₂ + m)
+Substitution: a = (10 − 5) × 9.8 ÷ (5 + 10 + 5)
+Calculation: a = 49 ÷ 20 = 2.45 m/s²
+Step: m₁ goes up: T₁ = m₁(g + a) = 5 × (9.8 + 2.45) = 61.25 N
+Step: m₂ goes down: T₂ = m₂(g − a) = 10 × (9.8 − 2.45) = 73.5 N
+Step: Net force on the block = T₂ − T₁ = 73.5 − 61.25 = 12.25 N towards the left.
+Answer: a = 2.45 m/s²; T₁ = 61.25 N; T₂ = 73.5 N; net force on the block = 12.25 N to the left
+> Check: ma = 5 × 2.45 = 12.25 N, the same as T₂ − T₁. The book leaves m unknown and gets a = 5g ÷ (m + 15); putting m = 5 kg in that gives the same 2.45 m/s².
+## mistakes
+x The tension in the string equals the hanging weight Mg.
+v Only when nothing is accelerating. While M speeds up downward, T = Mg − Ma, which is less than Mg.
+x The hanging mass falls with acceleration g.
+v The weight Mg has to move both masses, so a = Mg ÷ (M + m), always less than g.
+x The heavier object moves more slowly than the lighter one.
+v They are tied by a string that does not stretch, so both always have the same speed and the same acceleration.
+x With two strings, the tension is the same in both.
+v One string has one tension. Two different strings have two different tensions (T₁ and T₂), unless nothing accelerates.
+## remember
+- Tension acts along the string, away from the object. A string only pulls.
+- One light string → one tension. A light, smooth pulley only changes the direction.
+- Objects joined by a string have the same acceleration.
+- Method: mark the forces on each object → write F = ma for each → add the equations.
+- One hanging weight: a = Mg/(M + m), T = ma. The tension is less than Mg.
+- Two hanging weights: a = (m₂ − m₁)g/(m₁ + m₂ + m).
+## think
+For Fig 3.10 the book says the acceleration cannot be found without knowing the block's mass m. Using a = 5g ÷ (m + 15), what happens to a when the block is very heavy? What is the biggest value a can have (when m is almost zero)? And what if the table were not smooth?
+## quiz
+? A 1 kg mass hanging over a pulley pulls a 1 kg block on a smooth table. The acceleration is (g = 9.8 m/s²):
+- 9.8 m/s²
+* 4.9 m/s²
+- 2.45 m/s²
+- 0
+= a = Mg ÷ (M + m) = 9.8 ÷ 2 = 4.9 m/s².
+? While the hanging mass M is speeding up downward, the tension in the string is:
+- Equal to Mg
+* Less than Mg
+- Greater than Mg
+- Zero
+= Mg − T = Ma, so T = Mg − Ma, which is less than Mg.
+? The tension force on an object tied to a string acts:
+- Along the string, towards the object
+* Along the string, away from the object
+- At right angles to the string
+- Always downward
+= A string can only pull, so tension points along the string, away from the object.
+? In the two-weights arrangement (Fig 3.10), both hanging masses are 8 kg. The block on the smooth table:
+- Accelerates to the left
+- Accelerates to the right
+* Does not accelerate
+- Accelerates at 9.8 m/s²
+= a = (m₂ − m₁)g ÷ (m₁ + m₂ + m) = 0 when the two weights are equal.
+== bn
+## what
+**সুতা** আর **কপিকল** ব্যবহার করে একটি বস্তুর ওজন দিয়ে অন্য একটি বস্তুকে টানা যায়। সুতা বরাবর যে টান কাজ করে তাকে বলে **টান বল (T)**। এ ধরনের সব অঙ্ক সমাধানের কৌশল একটাই: **প্রতিটি বস্তুর জন্য আলাদা করে F = ma** লেখা।
+## simple
+মসৃণ টেবিলের ওপর m ভরের একটি ব্লক রাখো। ব্লকে একটি সুতা বেঁধে টেবিলের কিনারার কপিকলের ওপর দিয়ে নিয়ে অন্য প্রান্তে M ভর ঝুলিয়ে দাও (বইয়ের চিত্র ৩.০৯)। এবার ছেড়ে দাও। ঝোলানো ভরটি নিচে নামে আর ব্লকটিকে টেবিলের ওপর দিয়ে টেনে নিয়ে যায়। পৃথিবী নিচে টানছে শুধু M-কে, অথচ চলছে **দুটো** বস্তুই!
+
+**সুতা কী করে?** টানটান সুতা তার দুই প্রান্তে বাঁধা বস্তুকে টানে। এই টানই **টান বল T**। দুটি নিয়ম:
+
+- সুতা শুধু **টানতে** পারে, ঠেলতে পারে না। টান বল সবসময় **সুতা বরাবর, বস্তু থেকে দূরের দিকে** কাজ করে।
+- একটি হালকা সুতায় **একটিই টান বল**: সুতার দুই প্রান্তে একই T।
+
+**কপিকল কী করে?** হালকা, মসৃণ কপিকল শুধু সুতার **দিক ঘুরিয়ে দেয়**। ব্লকের ওপর যে টান পাশের দিকে, ঝোলানো ভরের ওপর সেটিই খাড়া ওপরের দিকে। T-এর মান বদলায় না।
+
+**একই সুতা, একই ত্বরণ।** সুতা লম্বা হয় না, তাই M ১ cm নামলে ব্লকও ১ cm সরে। প্রতি মুহূর্তে দুটোর দ্রুতি সমান, ত্বরণ a-ও সমান।
+
+**এবার একটি একটি করে বস্তুতে F = ma বসাই।**
+
+১. **টেবিলের ব্লক m।** পাশের দিকে এর ওপর শুধু টান বল কাজ করে, তাই **T = ma**। খাড়া দিকে ওজন mg (নিচে) আর টেবিলের লম্ব বল N (ওপরে) কাটাকাটি হয়ে যায়, তাই ব্লক ওপরে-নিচে নড়ে না।
+২. **ঝোলানো ভর M।** ওজন Mg নিচে টানে, টান বল T ওপরে টানে। ভরটি নিচের দিকে গতি বাড়ায়, তাই নিচের দিকের বলটিই বড়: **Mg − T = Ma**।
+
+দুটি সমীকরণ যোগ করলে T বাদ যায়: Mg = (M + m)a, অর্থাৎ
+
+**a = Mg ÷ (M + m)**, আর এরপর T = ma।
+
+উত্তরটা বাক্যের মতো পড়ো: চালক বল শুধু ওজন Mg, কিন্তু তাকে নড়াতে হয় **দুটো** ভরই, M + m।
+
+**দুই পাশে দুটি ওজন (চিত্র ৩.১০)।** এবার টেবিলের দুই কিনারায় দুটি কপিকল বসিয়ে দুই পাশে দুটি ওজন ঝোলাও: বাঁয়ে m₂, ডানে m₁, প্রতিটি আলাদা সুতা দিয়ে ব্লকের সাথে বাঁধা। দুটি সুতা মানে **দুটি টান বল**, T₂ আর T₁। যে পাশ ভারী, সে-ই জেতে। m₂ ভারী হলে m₂ নিচে নামে, ব্লক বাঁয়ে যায় আর m₁ ওপরে ওঠে, সবার ত্বরণ একই a:
+
+- m₂ (নিচে নামছে): m₂g − T₂ = m₂a
+- ব্লক m (বাঁয়ে যাচ্ছে): T₂ − T₁ = ma
+- m₁ (ওপরে উঠছে): T₁ − m₁g = m₁a
+
+তিনটি যোগ করলে দুটি টান বলই বাদ যায়:
+
+**a = (m₂ − m₁)g ÷ (m₁ + m₂ + m)**
+
+দুই ওজন একে অপরের বিপরীতে টানে, তাই গতি তৈরি করে শুধু এদের **পার্থক্য**, অথচ নড়াতে হয় **তিনটি** ভরকেই।
+
+**চিহ্ন নিয়ে কথা।** তোমার বইয়ে ডান আর ওপরের দিককে ধনাত্মক, বাম আর নিচের দিককে ঋণাত্মক ধরা হয়েছে। তাই পড়ন্ত ভরের জন্য বইয়ে লেখা T − Mg = M(−a)। দুই পাশকে −১ দিয়ে গুণ করলে পাও Mg − T = Ma: একই সমীকরণ। সহজ একটি নিয়ম সবসময় কাজ করে: প্রতিটি বস্তুর জন্য তার **গতির দিককেই ধনাত্মক** ধরো।
+## analogy
+একটি ট্রেনের কথা ভাবো। টানে শুধু ইঞ্জিন, কিন্তু বগির সংযোগগুলো সেই টান পেছনে পৌঁছে দেয়, আর পুরো ট্রেন একসাথে গতি বাড়ায়। এখানে ঝোলানো ভর হলো ইঞ্জিন, সুতা হলো সংযোগ, আর ব্লক হলো বগি। একটি টানকেই সব ভরের মধ্যে ভাগ হতে হয়, তাই বগি (ভর) যত বাড়ে, ট্রেন তত ধীরে গতি তোলে।
+## definition
+**টান বল (T)**: টানটান সুতা বা দড়ি তার সাথে বাঁধা বস্তুর ওপর যে টান প্রয়োগ করে। এটি সুতা বরাবর, বস্তু থেকে দূরের দিকে কাজ করে। একক নিউটন (N)।
+
+**কপিকল**: কিনারায় খাঁজকাটা একটি চাকা, যার ওপর দিয়ে সুতা যায়। হালকা, মসৃণ কপিকল টান বলের মান না বদলে শুধু দিক বদলায়।
+
+কপিকলের ওপর দিয়ে ঝোলানো M ভর মসৃণ টেবিলের m ভরকে টানলে: **a = Mg ÷ (M + m)** এবং **T = ma**।
+## why
+**টান বল ঝোলানো ওজনের চেয়ে কম কেন?** T যদি Mg-এর সমান হতো, তবে M-এর ওপর বলগুলো সাম্যে থাকত, আর M-এর গতি একটুও বাড়ত না ([[3.3|সাম্য বল]])। M নিচের দিকে ত্বরিত হয় শুধু এ কারণে যে Mg, T-এর চেয়ে **বড়**। ওজনের একটি অংশ (Ma) M-এর নিজের গতি বাড়াতে খরচ হয়; বাকি অংশ (T) সুতা বেয়ে ব্লককে টানে।
+
+**ত্বরণ g হয় না কেন?** মুক্তভাবে পড়ার সময় ওজন Mg শুধু M-কে নড়ায়, তাই a = g। এখানে একই বলকে M + m নড়াতে হয়, তাই ত্বরণ কম। ব্লক যত ভারী, a তত কম। ব্লক খুবই হালকা হলে a প্রায় g-এর কাছাকাছি হতো।
+
+**ব্লকের ওজন হিসাবে আসে না কেন?** মসৃণ টেবিলে ব্লকের ওজন mg-কে লম্ব বল কাটাকাটি করে দেয়। পাশের দিকের গতিতে এটি সাহায্যও করে না, বাধাও দেয় না। তবে ব্লকের **ভর** m ঠিকই হিসাবে আসে, কারণ ভর মানে জড়তা: একেও ত্বরিত করতে হয়।
+## terms
+টান বল (T) | টানটান সুতার টান; সুতা বরাবর, বস্তু থেকে দূরের দিকে
+কপিকল | খাঁজকাটা চাকা, যা সুতার টানের দিক ঘুরিয়ে দেয়
+লম্ব বল (N) | বস্তুর ওপর তলের ঠেলা, তলের সাথে লম্বভাবে (তলের প্রতিক্রিয়া বল)
+সংযুক্ত বস্তু | সুতা দিয়ে বাঁধা বস্তু; এদের ত্বরণ একই
+মসৃণ | ঘর্ষণহীন
+## formula
+$$ T = ma
+$$ Mg − T = Ma
+$$ a = Mg ÷ (M + m)
+$$ a = (m₂ − m₁)g ÷ (m₁ + m₂ + m)
+tri T | m | a
+T | সুতার টান বল | N
+M | ঝোলানো ভর | kg
+m | টেবিলের ওপরের ভর | kg
+m₁, m₂ | দুই পাশের ঝোলানো ভর (দুই ওজনের ক্ষেত্রে) | kg
+a | সংযুক্ত প্রতিটি বস্তুর ত্বরণ | m/s²
+g | অভিকর্ষজ ত্বরণ = ৯.৮ | m/s²
+! এগুলো খাটে মসৃণ টেবিল, লম্বা হয় না এমন হালকা সুতা আর হালকা, মসৃণ কপিকলের জন্য। এখানে T = ma টেবিলের ব্লকের জন্য।
+## visual
+একটি বা দুটি ঝোলানো ওজন বেছে নাও, ভরগুলো ঠিক করো, তারপর "ছেড়ে দাও" চাপো। নীল তীর টান বল, লাল তীর ওজন, আর সবুজ তীর ত্বরণ দেখায়। খেয়াল করো, যে ওজন নিচে নামছে তার চেয়ে টান বল সবসময় কম। এরপর দুই ওজন সমান করে দেখো কী হয়।
+## real
+**কুয়া থেকে পানি তোলা।** দড়ি কুয়ার ওপরের কপিকলের ওপর দিয়ে যায়। তুমি দড়ি **নিচে** টানো, আর বালতি **ওপরে** ওঠে: কপিকল শুধু তোমার টানের দিক ঘুরিয়ে দেয়, যা সোজা ওপরে তোলার চেয়ে অনেক সুবিধাজনক।
+
+**লিফট।** লিফটের ঘরটি ইস্পাতের তার দিয়ে ঝোলে; তারটি ভবনের ওপরের কপিকলের ওপর দিয়ে গিয়ে একটি ভারী **পাল্টা ওজনের** সাথে বাঁধা। ব্যাপারটা দুই ওজনের ছবির মতোই: দুই পাশ প্রায় সমান, তাই মোটরকে শুধু সামান্য পার্থক্যটুকু জোগাতে হয়।
+
+নির্মাণকাজের ক্রেন, পতাকার খুঁটি আর জিমের ওজন তোলার যন্ত্রেও সুতা ও কপিকল একইভাবে কাজ করে।
+## example
+প্রশ্ন: কপিকলের ওপর দিয়ে ঝোলানো ২ kg একটি ভর সুতা দিয়ে মসৃণ টেবিলের ওপরের ৩ kg একটি ব্লকের সাথে বাঁধা (চিত্র ৩.০৯-এর মতো)। ত্বরণ ও সুতার টান বল বের করো।
+দেওয়া আছে: M = ২ kg (ঝোলানো), m = ৩ kg (টেবিলে), g = ৯.৮ m/s²
+সূত্র: a = Mg ÷ (M + m); T = ma
+মান বসাই: a = (২ × ৯.৮) ÷ (২ + ৩)
+হিসাব: a = ১৯.৬ ÷ ৫ = ৩.৯২ m/s²; T = ৩ × ৩.৯২ = ১১.৭৬ N
+উত্তর: a = ৩.৯২ m/s², T = ১১.৭৬ N
+> ঝোলানো ভর দিয়ে যাচাই: Mg − T = ১৯.৬ − ১১.৭৬ = ৭.৮৪ N, আর Ma = ২ × ৩.৯২ = ৭.৮৪ N। টান বল (১১.৭৬ N) ঝোলানো ওজনের (১৯.৬ N) চেয়ে কম, যেমনটা হওয়ার কথা।
+## example
+প্রশ্ন: কপিকলের ওপর দিয়ে ঝোলানো ১ kg একটি ভর মসৃণ টেবিলের ওপরের ৪ kg একটি ব্লককে টানছে। ব্লকটি স্থির অবস্থা থেকে চলতে শুরু করে। ২ s-এ এটি কত দূর যাবে, আর তখন এর বেগ কত হবে?
+দেওয়া আছে: M = ১ kg, m = ৪ kg, u = ০, t = ২ s
+সূত্র: a = Mg ÷ (M + m); s = ut + ½at²; v = u + at
+হিসাব: a = (১ × ৯.৮) ÷ (১ + ৪) = ১.৯৬ m/s²
+ধাপ: s = ০ + ½ × ১.৯৬ × ২² = ৩.৯২ m
+ধাপ: v = ০ + ১.৯৬ × ২ = ৩.৯২ m/s
+উত্তর: ব্লকটি ৩.৯২ m যায় এবং এর বেগ হয় ৩.৯২ m/s।
+> আগে বল থেকে a বের করো, তারপর [[2.7|গতির সমীকরণ]] ব্যবহার করো। কপিকলের বেশির ভাগ অঙ্ক এই দুই ধাপেই মেলে।
+## example
+প্রশ্ন: চিত্র ৩.১০-এ বাঁয়ে ঝুলছে m₂ = ১০ kg আর ডানে m₁ = ৫ kg। মসৃণ টেবিলের ওপরের ব্লকের ভর m = ৫ kg। ত্বরণ, দুটি টান বল আর ব্লকের ওপর লব্ধি বল বের করো।
+দেওয়া আছে: m₂ = ১০ kg, m₁ = ৫ kg, m = ৫ kg, g = ৯.৮ m/s²
+সূত্র: a = (m₂ − m₁)g ÷ (m₁ + m₂ + m)
+মান বসাই: a = (১০ − ৫) × ৯.৮ ÷ (৫ + ১০ + ৫)
+হিসাব: a = ৪৯ ÷ ২০ = ২.৪৫ m/s²
+ধাপ: m₁ ওপরে ওঠে: T₁ = m₁(g + a) = ৫ × (৯.৮ + ২.৪৫) = ৬১.২৫ N
+ধাপ: m₂ নিচে নামে: T₂ = m₂(g − a) = ১০ × (৯.৮ − ২.৪৫) = ৭৩.৫ N
+ধাপ: ব্লকের ওপর লব্ধি বল = T₂ − T₁ = ৭৩.৫ − ৬১.২৫ = ১২.২৫ N, বাম দিকে।
+উত্তর: a = ২.৪৫ m/s²; T₁ = ৬১.২৫ N; T₂ = ৭৩.৫ N; ব্লকের ওপর লব্ধি বল = ১২.২৫ N বাম দিকে
+> যাচাই: ma = ৫ × ২.৪৫ = ১২.২৫ N, যা T₂ − T₁-এর সমান। বইয়ে m অজানা রেখে পাওয়া গেছে a = 5g ÷ (m + 15); সেখানে m = ৫ kg বসালে একই ২.৪৫ m/s² আসে।
+## mistakes
+x সুতার টান বল ঝোলানো ওজন Mg-এর সমান।
+v শুধু তখনই, যখন কিছুই ত্বরিত হচ্ছে না। M নিচের দিকে গতি বাড়ানোর সময় T = Mg − Ma, যা Mg-এর চেয়ে কম।
+x ঝোলানো ভর g ত্বরণে পড়ে।
+v ওজন Mg-কে দুটো ভরই নড়াতে হয়, তাই a = Mg ÷ (M + m), যা সবসময় g-এর চেয়ে কম।
+x ভারী বস্তুটি হালকা বস্তুর চেয়ে ধীরে চলে।
+v এরা এমন সুতায় বাঁধা যা লম্বা হয় না, তাই দুটোর দ্রুতি আর ত্বরণ সবসময় সমান।
+x দুটি সুতা থাকলে দুটোতেই টান বল সমান।
+v একটি সুতায় একটি টান বল। দুটি আলাদা সুতায় দুটি আলাদা টান বল (T₁ ও T₂), যদি না সবকিছু ত্বরণহীন থাকে।
+## remember
+- টান বল সুতা বরাবর, বস্তু থেকে দূরের দিকে কাজ করে। সুতা শুধু টানে।
+- একটি হালকা সুতা → একটি টান বল। হালকা, মসৃণ কপিকল শুধু দিক বদলায়।
+- সুতায় বাঁধা বস্তুগুলোর ত্বরণ একই।
+- পদ্ধতি: প্রতিটি বস্তুর ওপর বলগুলো চিহ্নিত করো → প্রতিটির জন্য F = ma লেখো → সমীকরণগুলো যোগ করো।
+- একটি ঝোলানো ওজন: a = Mg/(M + m), T = ma। টান বল Mg-এর চেয়ে কম।
+- দুটি ঝোলানো ওজন: a = (m₂ − m₁)g/(m₁ + m₂ + m)।
+## think
+চিত্র ৩.১০ নিয়ে বই বলছে, ব্লকের ভর m না জানলে ত্বরণ বের করা যায় না। a = 5g ÷ (m + 15) থেকে ভাবো: ব্লক খুব ভারী হলে a-এর কী হয়? a সবচেয়ে বেশি কত হতে পারে (যখন m প্রায় শূন্য)? আর টেবিল মসৃণ না হলে কী হতো?
+## quiz
+? কপিকলের ওপর দিয়ে ঝোলানো ১ kg ভর মসৃণ টেবিলের ১ kg ব্লককে টানছে। ত্বরণ (g = ৯.৮ m/s²):
+- ৯.৮ m/s²
+* ৪.৯ m/s²
+- ২.৪৫ m/s²
+- ০
+= a = Mg ÷ (M + m) = ৯.৮ ÷ ২ = ৪.৯ m/s²।
+? ঝোলানো ভর M যখন নিচের দিকে গতি বাড়াচ্ছে, তখন সুতার টান বল:
+- Mg-এর সমান
+* Mg-এর চেয়ে কম
+- Mg-এর চেয়ে বেশি
+- শূন্য
+= Mg − T = Ma, তাই T = Mg − Ma, যা Mg-এর চেয়ে কম।
+? সুতায় বাঁধা বস্তুর ওপর টান বল কাজ করে:
+- সুতা বরাবর, বস্তুর দিকে
+* সুতা বরাবর, বস্তু থেকে দূরের দিকে
+- সুতার সাথে লম্বভাবে
+- সবসময় নিচের দিকে
+= সুতা শুধু টানতে পারে, তাই টান বল সুতা বরাবর, বস্তু থেকে দূরের দিকে।
+? দুই ওজনের ব্যবস্থায় (চিত্র ৩.১০) দুটি ঝোলানো ভরই ৮ kg। মসৃণ টেবিলের ব্লকটি:
+- বাম দিকে ত্বরিত হয়
+- ডান দিকে ত্বরিত হয়
+* ত্বরিত হয় না
+- ৯.৮ m/s² ত্বরণে চলে
+= দুই ওজন সমান হলে a = (m₂ − m₁)g ÷ (m₁ + m₂ + m) = ০।
 
 @@ 3.8
 @visual push

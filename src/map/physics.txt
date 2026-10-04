@@ -96,9 +96,14 @@ K F = ma
 T 3.7|Gravitation, weight and acceleration due to gravity|মহাকর্ষ বল, ওজন ও অভিকর্ষজ ত্বরণ|F,N,D
 - Newton's law of universal gravitation; G = 6.67 × 10⁻¹¹ N m² kg⁻²
 - g = GM/R²; variation of g with height; weightlessness of astronauts
-- Weight W = mg; tension in strings and pulleys (Figs 3.09–3.10); lift problems
+- Weight W = mg; lift problems
 - Activity: making a spring balance with a rubber band
 K F = G m₁m₂ / d²; g = GM/R²; W = mg
+T 3.7.1|Pulleys and strings: tension in connected objects|কপিকল ও সুতা: টান বল|F,N,D,V
+- Tension acts along the string, away from the object; one string has one tension
+- Mass on a table pulled by a hanging mass over a pulley (Fig 3.09)
+- A mass pulled from two sides by two hanging weights (Fig 3.10); sign convention
+K T = ma; Mg − T = Ma; a = Mg/(M + m); a = (m₂ − m₁)g/(m₁ + m₂ + m)
 T 3.8|Newton's third law of motion|নিউটনের তৃতীয় গতিসূত্র|D,N
 - Action and reaction act on different bodies; walking, rowing, rockets, earth–ball attraction
 T 3.9|Friction|ঘর্ষণ বল|F,D,N

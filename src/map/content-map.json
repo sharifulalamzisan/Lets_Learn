@@ -483,7 +483,7 @@
       "subs": [
        "Newton's law of universal gravitation; G = 6.67 × 10⁻¹¹ N m² kg⁻²",
        "g = GM/R²; variation of g with height; weightlessness of astronauts",
-       "Weight W = mg; tension in strings and pulleys (Figs 3.09–3.10); lift problems",
+       "Weight W = mg; lift problems",
        "Activity: making a spring balance with a rubber band"
       ],
       "key": [
@@ -491,6 +491,27 @@
       ],
       "notes": [],
       "bnBook": "মহাকর্ষ বল, ওজন ও অভিকর্ষজ ত্বরণ"
+     },
+     {
+      "id": "3.7.1",
+      "en": "Pulleys and strings: tension in connected objects",
+      "bn": "একটি ওজন দিয়ে আরেকটি বস্তু টানা: সুতা, কপিকল ও টান বল",
+      "tags": [
+       "F",
+       "N",
+       "D",
+       "V"
+      ],
+      "subs": [
+       "Tension acts along the string, away from the object; one string has one tension",
+       "Mass on a table pulled by a hanging mass over a pulley (Fig 3.09)",
+       "A mass pulled from two sides by two hanging weights (Fig 3.10); sign convention"
+      ],
+      "key": [
+       "T = ma; Mg − T = Ma; a = Mg/(M + m); a = (m₂ − m₁)g/(m₁ + m₂ + m)"
+      ],
+      "notes": [],
+      "bnBook": "কপিকল ও সুতা: টান বল"
      },
      {
       "id": "3.8",
