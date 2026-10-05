@@ -1751,7 +1751,7 @@ v ঘুরে আসতে সবসময় একই সময় লাগ�
 ## what
 Days and nights are not the same length all year. In our part of the world days are longest in June and shortest in December. This lengthening and shortening is caused by the **annual motion** of the Earth with its **leaning axis**.
 ## visual
-The Sun is on the left, so the left half of the Earth has day. Choose a date and a place. The red dot is the place, carried round once in 24 hours as the Earth turns: the yellow part of its path is its day, the purple part its night. The bars below compare the same place on all four dates.
+The first picture shows all four positions of the Earth at once. Below it each date has its own close-up, seen from the side, with the reason written under it. The thick line is the 24-hour path of one place: yellow for its day, purple for its night. Use the buttons to change the place.
 ## simple
 The Earth's axis always leans the same way as it goes round the Sun. So for part of the year the North Pole leans towards the Sun, and for another part it leans away.
 
@@ -1831,7 +1831,7 @@ On 21 June, who has the longer day: a student in Dhaka or a student in London (a
 ## what
 সারা বছর দিন ও রাত সমান থাকে না। আমাদের এখানে জুন মাসে দিন সবচেয়ে বড় আর ডিসেম্বরে সবচেয়ে ছোট। এই হ্রাস-বৃদ্ধি ঘটে পৃথিবীর **বার্ষিক গতি** আর তার **হেলানো অক্ষের** কারণে।
 ## visual
-সূর্য বাঁ দিকে, তাই পৃথিবীর বাঁ অর্ধেকে দিন। একটি তারিখ ও একটি স্থান বেছে নাও। লাল বিন্দুটি সেই স্থান; পৃথিবী ঘোরে বলে ২৪ ঘণ্টায় একবার ঘুরে আসে: তার পথের হলুদ অংশ দিন, বেগুনি অংশ রাত। নিচের দণ্ডগুলোতে একই স্থানের চার তারিখের দিন তুলনা করা আছে।
+প্রথম ছবিতে পৃথিবীর চারটি অবস্থান একসাথে দেখানো হয়েছে। তার নিচে প্রতিটি তারিখের আলাদা বড় ছবি, পাশ থেকে দেখা, আর নিচে কারণ লেখা। মোটা রেখাটি একটি স্থানের ২৪ ঘণ্টার পথ: হলুদ অংশ দিন, বেগুনি অংশ রাত। বোতাম দিয়ে স্থান বদলাও।
 ## simple
 সূর্যকে ঘোরার সময় পৃথিবীর অক্ষ সবসময় একই দিকে হেলে থাকে। তাই বছরের একটা সময় উত্তর মেরু সূর্যের দিকে ঝুঁকে থাকে, আরেকটা সময় উল্টো দিকে।
 
