@@ -1,0 +1,1575 @@
+@@chapter
+== en
+## intro
+Stand up, stretch your arms and take two steps. In those two seconds more than two hundred bones, dozens of joints and hundreds of muscles worked together, and you did not have to think about any of them. An animal moving from one place to another by its own effort is called **locomotion**. We do it to find food, to keep ourselves safe, to reach school, to play. The system that builds the frame of the body, gives it a definite shape, guards the soft organs against knocks from outside and helps us to move is the **skeletal system**.
+
+In this chapter you will first get to know the human **skeleton** and its five jobs. Then you will look inside **bone** and **cartilage**, and see how **joints** let hard bones move smoothly against each other. Next you will learn how **muscles** pull on bones, working in opposite pairs, and what **tendons** and **ligaments** do. Finally you will learn about two common diseases, **osteoporosis** and **rheumatoid arthritis**, and how to keep your own bones strong for life.
+## objectives
+- describe the human skeleton
+- explain the role of the skeleton in firmness and locomotion
+- explain the work of the different kinds of bones and joints
+- explain how muscles work
+- explain the work of tendons and ligaments
+- describe the causes, symptoms and remedies of osteoporosis
+- describe the causes, symptoms and remedies of arthritis
+- draw and label the different parts of the human skeleton
+- create awareness about keeping bones healthy
+== bn
+## intro
+উঠে দাঁড়াও, দুই হাত টানটান করো, তারপর দুই পা হাঁটো। এই দুই সেকেন্ডে তোমার শরীরের দুইশরও বেশি হাড়, অনেকগুলো জোড়া আর শত শত পেশি একসাথে কাজ করল, অথচ তোমাকে এর কোনোটা নিয়েই ভাবতে হলো না। প্রাণী নিজের চেষ্টায় এক জায়গা থেকে আরেক জায়গায় গেলে তাকে বলে **চলন**। খাবার খুঁজতে, নিজেকে বাঁচাতে, স্কুলে যেতে, খেলতে আমরা প্রতিদিন চলাফেরা করি। যে তন্ত্র দেহের কাঠামো গড়ে, দেহকে নির্দিষ্ট আকৃতি দেয়, নরম অঙ্গগুলোকে বাইরের আঘাত থেকে বাঁচায় এবং চলনে সাহায্য করে, তার নাম **কঙ্কালতন্ত্র**।
+
+এই অধ্যায়ে প্রথমে মানুষের **কঙ্কাল** আর তার পাঁচটি কাজের সাথে পরিচিত হবে। এরপর **অস্থি (হাড়)** আর **তরুণাস্থির** ভেতরটা দেখবে, আর জানবে শক্ত হাড়গুলো **অস্থিসন্ধিতে** কীভাবে এত মসৃণভাবে নড়ে। তারপর শিখবে **পেশি** কীভাবে জোড়ায় জোড়ায় উল্টো দিকে কাজ করে হাড়কে টানে, আর **টেন্ডন** ও **লিগামেন্টের** কাজ কী। সবশেষে জানবে দুটি পরিচিত রোগ, **অস্টিওপোরোসিস** ও **রিউমাটয়েড আর্থ্রাইটিস** সম্পর্কে, আর শিখবে সারা জীবন নিজের হাড় মজবুত রাখার উপায়।
+## objectives
+- মানবকঙ্কালের বর্ণনা করতে পারবে
+- দৃঢ়তা প্রদান ও চলনে কঙ্কালের ভূমিকা ব্যাখ্যা করতে পারবে
+- বিভিন্ন প্রকার অস্থি ও অস্থিসন্ধির কাজ ব্যাখ্যা করতে পারবে
+- পেশির ক্রিয়া ব্যাখ্যা করতে পারবে
+- টেন্ডন ও লিগামেন্টের কাজ ব্যাখ্যা করতে পারবে
+- অস্টিওপোরোসিসের কারণ, লক্ষণ ও প্রতিকার বর্ণনা করতে পারবে
+- আর্থ্রাইটিসের কারণ, লক্ষণ ও প্রতিকার বর্ণনা করতে পারবে
+- মানবকঙ্কালের বিভিন্ন অংশের চিত্র এঁকে চিহ্নিত করতে পারবে
+- অস্থির সুস্থতা রক্ষায় সচেতনতা সৃষ্টি করতে পারবে
+
+@@ 9.1
+@visual b9skeleton
+@related 9.1.2 9.2 2.3.2 6.3
+== en
+## what
+The **skeleton** is the frame of the body. In an adult it is made of **206 bones**, together with cartilage, joined to one another at joints. It gives the body its shape and firmness, protects the soft organs, lets us move with the help of muscles, makes blood cells and stores minerals.
+## simple
+**A house needs its frame first.** Watch a tin-roofed house being built in a village. Before any wall goes up, the workers fix the posts and tie the beams across them. A tall building in town starts the same way, with columns and beams of concrete. Only then are walls, doors and windows fitted onto that frame. Your body is built on the same plan. Its frame is the **skeleton**, and everything soft, the muscles, the skin and the organs inside, hangs on it or sits safely within it.
+
+**Imagine a body with no bones.** Fill a cloth bag with water and put it on a table: it spreads out and takes whatever shape the table gives it. Without a skeleton you would be like that bag. You could not stand, could not hold a pen, and your heart and brain would have no protection at all.
+
+**Movement and locomotion.** When you raise a hand while sitting on a bench, a part of your body moves but you stay where you are. That is simply *movement*. When you walk from the bench to the blackboard, your whole body changes place by its own effort. That is **locomotion**. Humans and other animals need locomotion to look for food, to protect themselves and to raise their young. The system that makes the frame of the body, gives it a definite shape, protects the organs from outside injury and helps in locomotion is called the **skeletal system**. Bones and cartilage form the skeleton itself; joints link its parts; and the muscles, tendons and ligaments attached to it make it work. Your book counts all of these together in the skeletal system.
+
+**206 bones, and a baby has more.** The skeleton of an adult is made of 206 bones: some long, some short, some flat, some of irregular shape. A newborn baby has many more separate pieces, close to 300, and many of them are still soft cartilage. As the child grows, the cartilage hardens into bone and several pieces join into one. Touch the top of a small baby's head very gently and you may feel a soft spot: the bones of the skull have not yet met there. Later they join firmly.
+
+**Outside skeleton and inside skeleton.** Your book divides the human skeleton into two parts:
+- **Exoskeleton**: the hard parts that lie on the outside of the body, such as **nails** and **hair**.
+- **Endoskeleton**: the part inside the body, which we cannot see from outside. It is made of **bone** and **cartilage**. When we say "skeleton" we really mean this endoskeleton.
+
+> In us the exoskeleton is tiny. A prawn or a crab is the opposite: its hard outer shell is a true exoskeleton that carries the whole body, and it has no bones inside.
+
+**Two divisions of the skeleton.** To remember so many bones, scientists sort the endoskeleton into two groups. (Your book does not use these two names, but all the bones it labels in its figure fit neatly into them.)
+
+| Division | What it includes | Number of bones |
+| **Axial skeleton** (along the middle line of the body) | skull 22, ear bones 6, a small bone in the throat 1, backbone 26, ribs 24, breastbone 1 | 80 |
+| **Appendicular skeleton** (the limbs and the girdles that hang them on the body) | shoulder girdle 4, two arms 60, hip girdle 2, two legs 60 | 126 |
+| **Total** | | **206** |
+
+**A tour from head to toe.** Follow these on the widget below as you read.
+- **Skull.** The upper, rounded part is the **cranium**, a box of 8 flat bones that holds the brain. The front part is the face, made of 14 bones. The upper jaw is the **maxilla** and the lower jaw is the **mandible**. The mandible is the only bone of the skull that you can move, which is how you chew and speak.
+- **Vertebral column (backbone).** It is not a single rod but a chain of small bones called **vertebrae**, placed one on top of another. A child has 33 of them. In an adult the lowest ones have joined, so there are 26 separate bones. Each vertebra has a hole, and together the holes make a long canal through which the **spinal cord** runs.
+- **Ribs and sternum.** There are 12 pairs of **ribs**. At the back each rib is joined to the backbone. In front, most of them are joined by cartilage to a flat bone in the middle of the chest, the **sternum** (breastbone). Together they form a cage around the heart and the lungs.
+- **Pectoral girdle (shoulder girdle).** On each side a **clavicle** (collar bone) in front and a flat, triangular **scapula** (shoulder blade) at the back. This girdle hangs the arm on the trunk.
+- **Arm and hand.** One **humerus** in the upper arm; the **radius** (on the thumb side) and the **ulna** (on the little-finger side) in the forearm; 8 **carpals** in the wrist; 5 **metacarpals** in the palm; and 14 **phalanges** in the fingers (2 in the thumb, 3 in each of the other fingers).
+- **Pelvic girdle (hip girdle).** Two large hip bones. Each is formed by three bones that have joined into one: the **ilium**, the **ischium** and the **pubis**. At the back the hip bones are fixed to the **sacrum**, the lowest broad part of the backbone, so that together they make a strong basin.
+- **Leg and foot.** The **femur** (thigh bone) is the longest and strongest bone of the body. In front of the knee sits the small **patella** (knee-cap). The lower leg has the thick **tibia** (shin bone) and the thin **fibula** beside it. Then come 7 **tarsals** in the ankle and heel, 5 **metatarsals** in the sole and 14 **phalanges** in the toes.
+
+**The five jobs of the skeleton.** Your book lists them like this:
+
+1. **Structure and firmness.** The skeleton forms the hard frame of the body and gives it a definite shape. It also links the lower parts of the body with the upper parts.
+2. **Protection and carrying weight.** The brain lies safely inside the cranium, the spinal cord inside the vertebral column, and the heart and lungs inside the chest cavity. The muscles are fixed to the skeleton, and together they carry the weight of the body.
+3. **Movement and locomotion.** The arms, the legs, the pectoral girdle and the pelvic girdle help in movement. Bones cannot move by themselves. Muscles are attached to them, and when a muscle pulls, the bone moves. That is how we move about.
+4. **Making red blood cells.** Red blood cells are produced in the **bone marrow**, the soft tissue inside bones (you met it in [[6.3|blood]]).
+5. **Storing mineral salts.** Bones store mineral salts such as calcium, potassium and phosphorus. These salts are also what keep the bones hard and strong.
+
+> The word **firmness** in the chapter title is job 1: because of the skeleton your body is firm and keeps its shape instead of sagging.
+## analogy
+Think of a paper kite. Two thin bamboo sticks give the paper its shape and keep it stretched tight. Pull the sticks out and the same paper crumples in your hand and will never fly. Your skeleton is those sticks: light, but strong enough to hold everything else in shape. The difference is that your "sticks" are alive, and they are jointed so that the whole frame can bend and walk.
+## definition
+**Locomotion**: the process by which an animal moves from one place to another by its own effort.
+
+**Skeletal system**: the system that forms the frame of the body, gives it a definite shape, protects the organs from outside injury and helps in locomotion.
+
+**Skeleton**: all the bones of the body together with the parts connected with them. The adult human skeleton has 206 bones.
+
+**Exoskeleton**: the parts of the skeleton that lie outside the body, such as nails and hair.
+
+**Endoskeleton**: the part of the skeleton inside the body, made of bone and cartilage, which cannot be seen from outside.
+## why
+**Why so many bones instead of one solid frame?** A statue has a frame in one piece, and it can never bend. Because your frame is made of many separate bones joined at joints, it can fold at the elbow, turn at the neck and swing at the hip. Strength comes from the bones; freedom of movement comes from the joints between them.
+
+**Why are the brain, heart and lungs inside bony boxes?** These organs are soft, and we cannot live even a few minutes without them. So the body keeps them in its strongest "containers": the cranium is a closed box, and the rib cage is a cage that can still widen and narrow when you breathe.
+
+**Why does a baby have more bones?** A body made of many small, partly soft pieces can be squeezed a little during birth and can grow easily. Growth in length happens in bands of cartilage near the ends of the bones. When growing is over, these bands turn into bone and the pieces join. This is why a person does not grow taller after a certain age.
+
+**Why are long bones hollow?** A bamboo pole is hollow, yet it carries a heavy load without breaking. A tube is almost as strong as a solid rod but much lighter. The long bones of your limbs are built the same way, and the space inside is not wasted: it holds the bone marrow.
+## terms
+Locomotion | An animal moving from one place to another by its own effort
+Skeleton | The frame of the body: all the bones and the parts connected with them
+Skeletal system | The system that gives the body its frame, shape and protection and helps in locomotion
+Exoskeleton | Hard parts on the outside of the body; in humans, nails and hair
+Endoskeleton | The skeleton inside the body, made of bone and cartilage
+Axial skeleton | Skull, backbone, ribs and sternum: the 80 bones along the middle line of the body
+Appendicular skeleton | The two girdles and the four limbs: 126 bones
+Cranium | The part of the skull that encloses the brain
+Mandible | The lower jaw, the only movable bone of the skull
+Vertebral column | The backbone, a chain of vertebrae that encloses the spinal cord
+Sternum | The flat breastbone in the middle of the chest
+Pectoral girdle | Clavicles and scapulae; joins the arms to the trunk
+Pelvic girdle | The two hip bones; joins the legs to the trunk
+Femur | The thigh bone, the longest and strongest bone of the body
+Bone marrow | Soft tissue inside bones where blood cells are made
+## visual
+Tap any bone, or its name, to see what it is called, how many of them you have and what it does. Then open "Two divisions" and "Five jobs", and finally test yourself with "Find the bone".
+## real
+A labourer at a building site walks with a basket of bricks on his head. Follow the weight: from the skull it passes down the vertebral column, through the pelvic girdle into the two femurs, then through the tibias to the feet and into the ground. Every bone on that path is doing job number 2. That is also why the bones of the leg are so much thicker than the bones of the arm.
+
+The law asks a motorcycle rider to wear a helmet. The cranium is a good natural helmet for the brain, strong enough for the bumps of everyday life, but not for a crash at road speed. The helmet is a second, outer "skull". And when a doctor sends someone for an X-ray, the bones show up clearly on the film because the calcium salts stored in them (job number 5) stop X-rays far better than soft flesh does.
+## example
+Q: An adult has 206 bones, and 80 of them belong to the axial skeleton. (a) How many bones are in the appendicular skeleton? (b) The two arms have 60 bones and the two legs have 60. How many bones are left for the two girdles?
+Given: total = 206; axial = 80; arms = 60; legs = 60
+Formula: appendicular = total − axial; girdles = appendicular − arms − legs
+Calculation: (a) 206 − 80 = 126. (b) 126 − 60 − 60 = 6.
+Answer: (a) 126 bones. (b) 6 bones: 4 in the pectoral girdle (2 clavicles and 2 scapulae) and 2 hip bones in the pelvic girdle.
+> The girdles have very few bones, but they are the bridges that fix the limbs to the trunk.
+## example
+Q: One hand (wrist, palm and fingers) has 8 carpals, 5 metacarpals and 14 phalanges. One foot has 7 tarsals, 5 metatarsals and 14 phalanges. How many of the 206 bones are in the two hands and two feet together? Is that more or less than half?
+Given: hand = 8 + 5 + 14; foot = 7 + 5 + 14; total bones = 206
+Calculation: one hand = 8 + 5 + 14 = 27, so two hands = 54.
+One foot = 7 + 5 + 14 = 26, so two feet = 52.
+Hands and feet together = 54 + 52 = 106.
+Half of 206 = 103, and 106 is more than 103.
+Answer: 106 bones, which is a little more than half of all the bones of the body.
+> So many small bones with so many joints are the reason your hand can thread a needle and your foot can balance on uneven ground.
+## example
+Q: A child's vertebral column has 33 vertebrae. As the child grows, 5 of them join to form one bone, the sacrum, and the last 4 join to form one bone, the coccyx. How many separate bones does the adult vertebral column have?
+Given: vertebrae in a child = 33; 5 join into 1 (sacrum); 4 join into 1 (coccyx)
+Calculation: vertebrae that stay separate = 33 − 5 − 4 = 24.
+Add the two new bones: 24 + 1 + 1 = 26.
+Answer: 26 bones.
+> This is one small example of why a child has more bones than an adult: nothing is lost, pieces only join.
+## example
+Q: During a cricket match one ball hits a batter on the head, another on the chest and a third in the middle of the back. Which part of the skeleton protects which soft organ in each case? Which job of the skeleton is this?
+Solution: Match each place with the bony cover over it.
+Step: Head: the cranium of the skull covers the brain.
+Step: Chest: the ribs and the sternum form a cage around the heart and the lungs.
+Step: Middle of the back: the vertebral column encloses the spinal cord.
+Answer: Cranium protects the brain; rib cage protects the heart and lungs; vertebral column protects the spinal cord. This is the job of protection. A hard cricket ball can still injure, which is why batters also wear a helmet and guards.
+## mistakes
+x Bones are dead and dry, like the skeleton kept in the laboratory.
+v Bones in the body are living. They have cells and a blood supply, they grow, they repair themselves and they make blood cells.
+x A baby has fewer bones than an adult because it is smaller.
+v A baby has more separate pieces (close to 300). Many of them join as the child grows, leaving 206.
+x The backbone is one long bone.
+v It is a chain of vertebrae: 33 in a child, 26 separate bones in an adult.
+x The skeleton moves the body by itself.
+v Bones cannot move on their own. Muscles attached to them pull them.
+x The only job of the skeleton is to give shape.
+v It has five jobs: structure and firmness, protection and carrying weight, movement, making red blood cells and storing mineral salts.
+x Nails and hair have nothing to do with the skeleton.
+v Your book counts them as the exoskeleton of the human body.
+## remember
+- Locomotion: an animal moving from place to place by its own effort. The skeletal system gives the frame, shape and protection and helps in locomotion.
+- An adult skeleton has 206 bones (long, short, flat, irregular); a baby has more.
+- Two parts in the book: exoskeleton (nails, hair) and endoskeleton (bone and cartilage).
+- Axial skeleton 80 bones (skull, vertebral column, ribs, sternum) + appendicular skeleton 126 bones (girdles and limbs) = 206.
+- Cranium protects the brain; vertebral column protects the spinal cord; ribs and sternum protect the heart and lungs.
+- Pectoral girdle joins the arms, and pelvic girdle joins the legs, to the trunk.
+- Arm: humerus, radius, ulna, carpals, metacarpals, phalanges. Leg: femur, patella, tibia, fibula, tarsals, metatarsals, phalanges.
+- Five jobs: structure and firmness; protection and weight carrying; movement and locomotion; red blood cells from bone marrow; storing mineral salts (calcium, potassium, phosphorus).
+## think
+A prawn carries its skeleton on the outside, and you carry yours on the inside. Think of one advantage and one disadvantage of each plan. (Hint: think about protection, about growing bigger and about moving quickly.)
+## quiz
+? How many bones are there in the skeleton of an adult human?
+- 106
+* 206
+- 260
+- 306
+= An adult has 206 bones. A baby has more pieces, which join as it grows.
+? According to your book, which of these belong to the exoskeleton of the human body?
+- Skull and ribs
+- Cartilage and bone
+* Nails and hair
+- Teeth and tongue
+= The book names nails and hair as the exoskeleton. Bone and cartilage form the endoskeleton.
+? Which part of the skeleton protects the spinal cord?
+- Cranium
+- Sternum
+- Pelvic girdle
+* Vertebral column
+= The spinal cord runs through the canal formed by the holes of the vertebrae.
+? Where are red blood cells produced?
+* In the bone marrow
+- In the cartilage
+- In the ligaments
+- In the cranium only
+= Bone marrow, the soft tissue inside bones, makes red blood cells.
+? Which is the longest and strongest bone of the human body?
+- Humerus
+- Tibia
+* Femur
+- Vertebral column
+= The femur, the thigh bone, carries the weight of the body from the hip to the knee.
+== bn
+## what
+**কঙ্কাল** হলো দেহের কাঠামো। পূর্ণবয়স্ক মানুষের কঙ্কালে **২০৬টি অস্থি (হাড়)** থাকে; এর সাথে আছে তরুণাস্থি, আর হাড়গুলো অস্থিসন্ধিতে একটি আরেকটির সাথে জোড়া লাগানো। কঙ্কাল দেহকে আকার ও দৃঢ়তা দেয়, নরম অঙ্গগুলোকে রক্ষা করে, পেশির সাহায্যে আমাদের নড়াচড়া করায়, রক্তকণিকা তৈরি করে এবং খনিজ লবণ জমা রাখে।
+## simple
+**ঘর বানাতে আগে কাঠামো লাগে।** গ্রামে টিনের ঘর তোলা দেখেছ? দেয়াল ওঠার আগে মিস্ত্রিরা খুঁটি পোঁতে, তার ওপর আড়া বাঁধে। শহরের উঁচু দালানও শুরু হয় কংক্রিটের কলাম আর বিম দিয়ে। এরপর সেই কাঠামোর গায়ে দেয়াল, দরজা, জানালা বসে। তোমার দেহও একই নিয়মে তৈরি। এর কাঠামো হলো **কঙ্কাল**। পেশি, চামড়া আর ভেতরের অঙ্গ, অর্থাৎ নরম যা কিছু আছে, সব এই কাঠামোর গায়ে লেগে থাকে অথবা এর ভেতরে নিরাপদে থাকে।
+
+**হাড় ছাড়া দেহ কেমন হতো?** একটা কাপড়ের থলেতে পানি ভরে টেবিলে রাখো। থলেটা ছড়িয়ে পড়ে, টেবিল যেমন আকার দেয় তেমনই হয়ে যায়। কঙ্কাল না থাকলে তুমিও ওই থলের মতো হতে। দাঁড়াতে পারতে না, কলম ধরতে পারতে না, আর তোমার হৃৎপিণ্ড ও মস্তিষ্কের কোনো সুরক্ষাই থাকত না।
+
+**সঞ্চালন আর চলন।** বেঞ্চে বসে হাত তুললে দেহের একটা অংশ নড়ে, কিন্তু তুমি নিজের জায়গাতেই থাকো। এটা শুধু *অঙ্গ সঞ্চালন*। আর বেঞ্চ থেকে হেঁটে ব্ল্যাকবোর্ডের কাছে গেলে তোমার পুরো দেহ নিজের চেষ্টায় জায়গা বদলায়। এটাই **চলন**। খাবার খুঁজতে, আত্মরক্ষা করতে আর বংশ রক্ষা করতে মানুষ ও অন্য প্রাণীদের চলনের দরকার হয়। যে তন্ত্র দেহের কাঠামো গঠন করে, নির্দিষ্ট আকৃতি দেয়, বিভিন্ন অঙ্গকে বাইরের আঘাত থেকে রক্ষা করে এবং চলনে সাহায্য করে, তাকে **কঙ্কালতন্ত্র** বলে। অস্থি আর তরুণাস্থি দিয়ে কঙ্কাল তৈরি; অস্থিসন্ধি এর অংশগুলোকে জোড়া দেয়; আর এর সাথে লেগে থাকা পেশি, টেন্ডন (পেশিবন্ধনী) ও লিগামেন্ট (অস্থিবন্ধনী) একে সচল রাখে। তোমার বই এই সবকিছু মিলিয়েই কঙ্কালতন্ত্র ধরেছে।
+
+**২০৬টি অস্থি, আর শিশুর আরও বেশি।** পূর্ণবয়স্ক মানুষের কঙ্কালে ২০৬টি অস্থি থাকে: কোনোটা লম্বা, কোনোটা ছোট, কোনোটা চ্যাপ্টা, কোনোটা অসমান। সদ্যোজাত শিশুর দেহে আলাদা টুকরার সংখ্যা আরও অনেক বেশি, প্রায় ৩০০, আর এর অনেকগুলো তখনো নরম তরুণাস্থি। শিশু বড় হতে থাকলে তরুণাস্থি শক্ত হয়ে অস্থিতে পরিণত হয় আর কয়েকটি টুকরা জুড়ে একটি হয়ে যায়। ছোট্ট শিশুর মাথার তালুতে খুব আলতো করে হাত দিলে একটা নরম জায়গা টের পাওয়া যায়: করোটির হাড়গুলো সেখানে তখনো মেলেনি। পরে এগুলো শক্তভাবে জুড়ে যায়।
+
+**বাইরের কঙ্কাল আর ভেতরের কঙ্কাল।** তোমার বই মানুষের কঙ্কালকে দুই ভাগে ভাগ করেছে:
+- **বহিঃকঙ্কাল (Exoskeleton)**: কঙ্কালের যে শক্ত অংশগুলো দেহের বাইরে থাকে, যেমন **নখ**, **চুল** ও লোম।
+- **অন্তঃকঙ্কাল (Endoskeleton)**: দেহের ভেতরের অংশ, যা বাইরে থেকে দেখা যায় না। এটি **অস্থি** ও **তরুণাস্থি** দিয়ে গঠিত। "কঙ্কাল" বললে আমরা আসলে এই অন্তঃকঙ্কালকেই বুঝি।
+
+> আমাদের দেহে বহিঃকঙ্কাল খুবই সামান্য। চিংড়ি বা কাঁকড়ার বেলায় ঠিক উল্টো: তাদের বাইরের শক্ত খোলসটাই আসল বহিঃকঙ্কাল, পুরো দেহের ভার সেটিই বয়, আর ভেতরে কোনো হাড় নেই।
+
+**কঙ্কালের দুটি বিভাগ।** এতগুলো হাড় মনে রাখতে বিজ্ঞানীরা অন্তঃকঙ্কালকে দুই দলে সাজান। (তোমার বইয়ে এই দুটি নাম নেই, তবে বইয়ের চিত্রে যত হাড় চিহ্নিত আছে, সবই এই দুই দলে সুন্দরভাবে পড়ে।)
+
+| বিভাগ | যা যা আছে | অস্থির সংখ্যা |
+| **অক্ষীয় কঙ্কাল** (দেহের মাঝ বরাবর) | করোটি ২২, কানের অস্থি ৬, গলার একটি ছোট অস্থি ১, মেরুদণ্ড ২৬, পর্শুকা ২৪, স্টার্নাম ১ | ৮০ |
+| **উপাঙ্গীয় কঙ্কাল** (হাত-পা এবং যে চক্র দিয়ে এরা দেহে ঝোলে) | স্কন্ধচক্র ৪, দুই হাত ৬০, শ্রোণিচক্র ২, দুই পা ৬০ | ১২৬ |
+| **মোট** | | **২০৬** |
+
+**মাথা থেকে পা পর্যন্ত একবার ঘুরে আসি।** পড়তে পড়তে নিচের উইজেটে মিলিয়ে নাও।
+- **করোটি (Skull)।** ওপরের গোল অংশটি **করোটিকা (Cranium)**, ৮টি চ্যাপ্টা অস্থির একটি বাক্স, যার ভেতরে মস্তিষ্ক থাকে। সামনের অংশ মুখমণ্ডল, ১৪টি অস্থি দিয়ে তৈরি। ওপরের চোয়াল **ম্যাক্সিলা**, নিচের চোয়াল **ম্যান্ডিবল**। করোটির মধ্যে একমাত্র ম্যান্ডিবলই নাড়ানো যায়; এ কারণেই তুমি চিবোতে আর কথা বলতে পারো।
+- **মেরুদণ্ড (Vertebral column)।** এটি একটিমাত্র দণ্ড নয়, বরং একটির ওপর একটি বসানো ছোট ছোট অস্থির শিকল। প্রতিটি অস্থির নাম **কশেরুকা (Vertebra)**। শিশুর থাকে ৩৩টি। পূর্ণবয়স্কের নিচের দিকের কয়েকটি জুড়ে যায়, তাই আলাদা অস্থি থাকে ২৬টি। প্রতিটি কশেরুকায় একটি ছিদ্র আছে; সব ছিদ্র মিলে একটি লম্বা নালি হয়, যার ভেতর দিয়ে **মেরুরজ্জু (সুষুম্নাকাণ্ড)** চলে গেছে।
+- **পর্শুকা ও স্টার্নাম।** **পর্শুকা (পাঁজরের হাড়, Rib)** আছে ১২ জোড়া। পেছনে প্রতিটি পর্শুকা মেরুদণ্ডের সাথে যুক্ত। সামনে এদের বেশির ভাগই তরুণাস্থি দিয়ে বুকের মাঝখানের চ্যাপ্টা অস্থি **স্টার্নাম (বুকের হাড়)**-এর সাথে যুক্ত। সব মিলে এরা হৃৎপিণ্ড ও ফুসফুসকে ঘিরে একটি খাঁচা তৈরি করে।
+- **স্কন্ধচক্র (Pectoral girdle)।** প্রতি পাশে সামনে একটি **ক্ল্যাভিকল (কণ্ঠাস্থি)** আর পেছনে একটি চ্যাপ্টা, তিনকোনা **স্ক্যাপুলা (কাঁধের হাড়)**। এই চক্র হাতকে ধড়ের সাথে ঝুলিয়ে রাখে।
+- **হাত।** ওপরের বাহুতে একটি **হিউমেরাস**; নিচের বাহুতে **রেডিয়াস** (বুড়ো আঙুলের দিকে) ও **আলনা** (কনিষ্ঠ আঙুলের দিকে); কবজিতে ৮টি **কার্পাল**; তালুতে ৫টি **মেটাকার্পাল**; আর আঙুলে ১৪টি **ফ্যালাঞ্জেস** (বুড়ো আঙুলে ২টি, বাকি প্রতিটি আঙুলে ৩টি)।
+- **শ্রোণিচক্র (Pelvic girdle)।** দুটি বড় নিতম্বাস্থি। প্রতিটি আসলে তিনটি অস্থি জুড়ে তৈরি: **ইলিয়াম**, **ইশ্চিয়াম** ও **পিউবিস**। পেছনে এরা মেরুদণ্ডের নিচের চওড়া অংশ **স্যাক্রাম**-এর সাথে শক্তভাবে আটকানো, ফলে সব মিলে একটি মজবুত গামলার মতো গঠন হয়।
+- **পা।** **ফিমার (ঊরুর হাড়)** দেহের সবচেয়ে লম্বা ও সবচেয়ে মজবুত অস্থি। হাঁটুর সামনে থাকে ছোট্ট **প্যাটেলা (হাঁটুর চাকতি)**। হাঁটুর নিচে মোটা **টিবিয়া** আর তার পাশে সরু **ফিবুলা**। এরপর গোড়ালিতে ৭টি **টার্সাল**, পায়ের পাতায় ৫টি **মেটাটার্সাল** আর আঙুলে ১৪টি **ফ্যালাঞ্জেস**।
+
+**কঙ্কালের পাঁচটি কাজ।** তোমার বইয়ে কাজগুলো এভাবে সাজানো আছে:
+
+১. **দেহকাঠামো গঠন ও দৃঢ়তা প্রদান।** কঙ্কাল দেহের শক্ত কাঠামো তৈরি করে এবং দেহকে নির্দিষ্ট আকার দেয়। এটি দেহের নিচের অঙ্গগুলোকে ওপরের অঙ্গগুলোর সাথে যুক্তও করে।
+২. **রক্ষণাবেক্ষণ ও ভারবহন।** মস্তিষ্ক থাকে করোটির মধ্যে, মেরুরজ্জু থাকে মেরুদণ্ডের ভেতরে, আর হৃৎপিণ্ড ও ফুসফুস থাকে বক্ষগহ্বরে, সবই নিরাপদ আশ্রয়ে। পেশিগুলো কঙ্কালের সাথে আটকে থাকে, আর এরা মিলে দেহের ভার বহন করে।
+৩. **নড়াচড়া ও চলাচল।** হাত, পা, স্কন্ধচক্র ও শ্রোণিচক্র নড়াচড়ায় সাহায্য করে। অস্থি নিজে নিজে নড়তে পারে না। অস্থির সাথে পেশি লাগানো থাকে; পেশি টান দিলে অস্থি নড়ে। এভাবেই আমরা চলাচল করি।
+৪. **লোহিত রক্তকণিকা উৎপাদন।** অস্থির ভেতরের নরম টিস্যু **অস্থিমজ্জা** থেকে লোহিত রক্তকণিকা তৈরি হয় ([[6.3|রক্ত]] পাঠে তুমি এটি পড়েছ)।
+৫. **খনিজ লবণ সঞ্চয়।** ক্যালসিয়াম, পটাশিয়াম, ফসফরাস ইত্যাদি খনিজ লবণ অস্থিতে জমা থাকে। এই লবণগুলোর কারণেই অস্থি শক্ত ও মজবুত থাকে।
+
+> অধ্যায়ের নামে যে **দৃঢ়তা প্রদান** কথাটি আছে, সেটি ১ নম্বর কাজ: কঙ্কাল আছে বলেই তোমার দেহ নেতিয়ে না পড়ে দৃঢ় থাকে, নিজের আকার ধরে রাখে।
+## analogy
+একটা কাগজের ঘুড়ির কথা ভাবো। দুটি সরু বাঁশের কাঠি কাগজটাকে আকার দেয়, টানটান করে রাখে। কাঠি দুটো খুলে নিলে সেই একই কাগজ হাতের মধ্যে দলা পাকিয়ে যায়, আর কোনোদিন উড়বে না। তোমার কঙ্কাল হলো ওই কাঠি: হালকা, অথচ বাকি সবকিছুকে আকারে ধরে রাখার মতো মজবুত। তফাত হলো, তোমার "কাঠিগুলো" জীবন্ত, আর এগুলোতে জোড়া আছে বলে পুরো কাঠামোটা বাঁকতে পারে, হাঁটতেও পারে।
+## definition
+**চলন (Locomotion)**: যে পদ্ধতিতে প্রাণী নিজের চেষ্টায় এক স্থান থেকে অন্য স্থানে যায়।
+
+**কঙ্কালতন্ত্র (Skeletal system)**: যে তন্ত্র দেহের কাঠামো গঠন করে, নির্দিষ্ট আকৃতি দেয়, বিভিন্ন অঙ্গকে বাইরের আঘাত থেকে রক্ষা করে এবং চলনে সাহায্য করে।
+
+**কঙ্কাল (Skeleton)**: দেহের সব অস্থি এবং এদের সাথে যুক্ত অন্যান্য অংশ মিলে যে কাঠামো তৈরি হয়। পূর্ণবয়স্ক মানুষের কঙ্কালে ২০৬টি অস্থি থাকে।
+
+**বহিঃকঙ্কাল (Exoskeleton)**: কঙ্কালের যে অংশ দেহের বাইরে থাকে, যেমন নখ ও চুল।
+
+**অন্তঃকঙ্কাল (Endoskeleton)**: অস্থি ও তরুণাস্থি দিয়ে গঠিত, দেহের ভেতরের কঙ্কাল, যা বাইরে থেকে দেখা যায় না।
+## why
+**একটিমাত্র নিরেট কাঠামো না হয়ে এতগুলো হাড় কেন?** মূর্তির কাঠামো এক টুকরার, তাই মূর্তি কখনো বাঁকতে পারে না। তোমার কাঠামো অনেকগুলো আলাদা অস্থি দিয়ে তৈরি, আর এগুলো অস্থিসন্ধিতে জোড়া লাগানো। তাই কনুই ভাঁজ হয়, ঘাড় ঘোরে, কোমরের কাছে পা দোলে। শক্তি আসে হাড় থেকে; নড়ার স্বাধীনতা আসে হাড়ের মাঝের জোড়া থেকে।
+
+**মস্তিষ্ক, হৃৎপিণ্ড আর ফুসফুস হাড়ের বাক্সে কেন?** এই অঙ্গগুলো নরম, আর এদের ছাড়া আমরা কয়েক মিনিটও বাঁচি না। তাই দেহ এদের রেখেছে সবচেয়ে মজবুত "পাত্রে": করোটিকা একটি বন্ধ বাক্স, আর বক্ষপিঞ্জর এমন একটি খাঁচা, যা শ্বাস নেওয়ার সময় ফুলতে ও চুপসাতে পারে।
+
+**শিশুর হাড় বেশি কেন?** অনেকগুলো ছোট, আংশিক নরম টুকরা দিয়ে তৈরি দেহ জন্মের সময় একটু চাপ সইতে পারে, আর সহজে বাড়তেও পারে। হাড়ের দুই প্রান্তের কাছে তরুণাস্থির একটি স্তর থাকে; হাড় লম্বায় বাড়ে সেখানেই। বাড়া শেষ হলে এই স্তর অস্থিতে পরিণত হয় আর টুকরাগুলো জুড়ে যায়। এ কারণেই একটা বয়সের পর মানুষ আর লম্বা হয় না।
+
+**লম্বা হাড় ফাঁপা কেন?** বাঁশ ফাঁপা, তবু ভারী বোঝা বইলেও ভাঙে না। ফাঁপা নল নিরেট দণ্ডের প্রায় সমান মজবুত, কিন্তু অনেক হালকা। তোমার হাত-পায়ের লম্বা হাড়গুলোও এভাবেই তৈরি। আর ভেতরের ফাঁকা জায়গাটুকু নষ্ট হয় না: সেখানে থাকে অস্থিমজ্জা।
+## terms
+চলন (Locomotion) | প্রাণীর নিজের চেষ্টায় এক স্থান থেকে অন্য স্থানে যাওয়া
+কঙ্কাল (Skeleton) | দেহের কাঠামো: সব অস্থি ও এদের সাথে যুক্ত অংশ
+কঙ্কালতন্ত্র (Skeletal system) | যে তন্ত্র দেহকে কাঠামো, আকৃতি ও সুরক্ষা দেয় এবং চলনে সাহায্য করে
+বহিঃকঙ্কাল (Exoskeleton) | দেহের বাইরের শক্ত অংশ; মানুষের বেলায় নখ ও চুল
+অন্তঃকঙ্কাল (Endoskeleton) | অস্থি ও তরুণাস্থি দিয়ে গঠিত দেহের ভেতরের কঙ্কাল
+অক্ষীয় কঙ্কাল (Axial skeleton) | করোটি, মেরুদণ্ড, পর্শুকা ও স্টার্নাম: দেহের মাঝ বরাবর থাকা ৮০টি অস্থি
+উপাঙ্গীয় কঙ্কাল (Appendicular skeleton) | দুটি চক্র ও চার হাত-পা: ১২৬টি অস্থি
+করোটিকা (Cranium) | করোটির যে অংশ মস্তিষ্ককে ঘিরে রাখে
+ম্যান্ডিবল (Mandible) | নিচের চোয়াল; করোটির একমাত্র সচল অস্থি
+মেরুদণ্ড (Vertebral column) | কশেরুকার শিকল, যা মেরুরজ্জুকে ঘিরে রাখে
+স্টার্নাম (Sternum) | বুকের মাঝখানের চ্যাপ্টা অস্থি
+স্কন্ধচক্র (Pectoral girdle) | ক্ল্যাভিকল ও স্ক্যাপুলা; হাতকে ধড়ের সাথে যুক্ত করে
+শ্রোণিচক্র (Pelvic girdle) | দুটি নিতম্বাস্থি; পা-কে ধড়ের সাথে যুক্ত করে
+ফিমার (Femur) | ঊরুর হাড়; দেহের সবচেয়ে লম্বা ও মজবুত অস্থি
+অস্থিমজ্জা (Bone marrow) | অস্থির ভেতরের নরম টিস্যু, যেখানে রক্তকণিকা তৈরি হয়
+## visual
+যেকোনো হাড়ে বা তার নামে টোকা দাও: হাড়টির নাম, সংখ্যা আর কাজ দেখতে পাবে। এরপর "দুটি বিভাগ" আর "পাঁচটি কাজ" খুলে দেখো, আর শেষে "হাড় খুঁজে বের করো" দিয়ে নিজেকে যাচাই করো।
+## real
+নির্মাণকাজের একজন শ্রমিক মাথায় ইটের ঝুড়ি নিয়ে হাঁটছেন। ভারটা কোন পথে নামছে খেয়াল করো: করোটি থেকে মেরুদণ্ড বেয়ে নিচে, শ্রোণিচক্র হয়ে দুই ফিমারে, তারপর টিবিয়া বেয়ে পায়ের পাতায়, শেষে মাটিতে। এই পথের প্রতিটি হাড় ২ নম্বর কাজটি করছে। এ কারণেই পায়ের হাড় হাতের হাড়ের চেয়ে অনেক মোটা।
+
+আইন অনুযায়ী মোটরসাইকেল চালকের হেলমেট পরতে হয়। মস্তিষ্কের জন্য করোটিকা একটি ভালো প্রাকৃতিক হেলমেট; রোজকার ছোটখাটো ধাক্কার জন্য যথেষ্ট মজবুত, কিন্তু রাস্তার গতিতে দুর্ঘটনার জন্য নয়। হেলমেট হলো বাইরের দ্বিতীয় "করোটি"। আবার ডাক্তার কাউকে এক্স-রে করাতে পাঠালে ফিল্মে হাড়গুলো স্পষ্ট দেখা যায়, কারণ হাড়ে জমা থাকা ক্যালসিয়ামের লবণ (৫ নম্বর কাজ) নরম মাংসের চেয়ে এক্স-রেকে অনেক বেশি আটকায়।
+## example
+প্রশ্ন: পূর্ণবয়স্ক মানুষের ২০৬টি অস্থির মধ্যে ৮০টি অক্ষীয় কঙ্কালের। (ক) উপাঙ্গীয় কঙ্কালে কয়টি অস্থি? (খ) দুই হাতে ৬০টি আর দুই পায়ে ৬০টি অস্থি থাকলে দুই চক্রের জন্য কয়টি বাকি থাকে?
+দেওয়া আছে: মোট = ২০৬; অক্ষীয় = ৮০; দুই হাত = ৬০; দুই পা = ৬০
+সূত্র: উপাঙ্গীয় = মোট − অক্ষীয়; চক্র = উপাঙ্গীয় − হাত − পা
+হিসাব: (ক) ২০৬ − ৮০ = ১২৬। (খ) ১২৬ − ৬০ − ৬০ = ৬।
+উত্তর: (ক) ১২৬টি অস্থি। (খ) ৬টি অস্থি: স্কন্ধচক্রে ৪টি (২টি ক্ল্যাভিকল ও ২টি স্ক্যাপুলা) আর শ্রোণিচক্রে ২টি নিতম্বাস্থি।
+> চক্রে হাড় খুব কম, কিন্তু এরাই সেই সেতু, যা হাত-পাকে ধড়ের সাথে আটকে রাখে।
+## example
+প্রশ্ন: এক হাতে (কবজি, তালু ও আঙুল মিলিয়ে) ৮টি কার্পাল, ৫টি মেটাকার্পাল ও ১৪টি ফ্যালাঞ্জেস থাকে। এক পায়ের পাতায় ৭টি টার্সাল, ৫টি মেটাটার্সাল ও ১৪টি ফ্যালাঞ্জেস থাকে। দেহের ২০৬টি অস্থির মধ্যে দুই হাত ও দুই পায়ের পাতায় মোট কয়টি? এটা কি অর্ধেকের বেশি, না কম?
+দেওয়া আছে: হাত = ৮ + ৫ + ১৪; পায়ের পাতা = ৭ + ৫ + ১৪; মোট অস্থি = ২০৬
+হিসাব: এক হাত = ৮ + ৫ + ১৪ = ২৭, তাই দুই হাত = ৫৪।
+এক পায়ের পাতা = ৭ + ৫ + ১৪ = ২৬, তাই দুই পায়ের পাতা = ৫২।
+হাত ও পায়ের পাতা মিলিয়ে = ৫৪ + ৫২ = ১০৬।
+২০৬-এর অর্ধেক = ১০৩, আর ১০৬ > ১০৩।
+উত্তর: ১০৬টি অস্থি, অর্থাৎ দেহের মোট অস্থির অর্ধেকের সামান্য বেশি।
+> এতগুলো ছোট হাড় আর এতগুলো জোড়া আছে বলেই তোমার হাত সুচে সুতা পরাতে পারে, আর পা উঁচুনিচু মাটিতেও ভারসাম্য রাখতে পারে।
+## example
+প্রশ্ন: শিশুর মেরুদণ্ডে ৩৩টি কশেরুকা থাকে। বড় হওয়ার সাথে সাথে এর ৫টি জুড়ে একটি অস্থি, স্যাক্রাম, তৈরি করে আর শেষের ৪টি জুড়ে একটি অস্থি, কক্সিস, তৈরি করে। পূর্ণবয়স্ক মানুষের মেরুদণ্ডে আলাদা অস্থি কয়টি?
+দেওয়া আছে: শিশুর কশেরুকা = ৩৩; ৫টি জুড়ে ১টি (স্যাক্রাম); ৪টি জুড়ে ১টি (কক্সিস)
+হিসাব: যে কশেরুকাগুলো আলাদা থাকে = ৩৩ − ৫ − ৪ = ২৪।
+নতুন দুটি অস্থি যোগ করি: ২৪ + ১ + ১ = ২৬।
+উত্তর: ২৬টি অস্থি।
+> শিশুর হাড় কেন বড়দের চেয়ে বেশি, এটি তার একটি ছোট উদাহরণ: কিছুই হারায় না, টুকরাগুলো শুধু জুড়ে যায়।
+## example
+প্রশ্ন: ক্রিকেট খেলার সময় একটি বল ব্যাটারের মাথায়, একটি বুকে আর একটি পিঠের মাঝখানে লাগল। প্রতিটি ক্ষেত্রে কঙ্কালের কোন অংশ কোন নরম অঙ্গকে রক্ষা করে? এটি কঙ্কালের কোন কাজ?
+সমাধান: প্রতিটি জায়গার সাথে তার ওপরের হাড়ের আবরণ মেলাও।
+ধাপ: মাথা: করোটির করোটিকা মস্তিষ্ককে ঢেকে রাখে।
+ধাপ: বুক: পর্শুকা ও স্টার্নাম মিলে হৃৎপিণ্ড ও ফুসফুসের চারপাশে খাঁচা তৈরি করে।
+ধাপ: পিঠের মাঝখান: মেরুদণ্ড মেরুরজ্জুকে ঘিরে রাখে।
+উত্তর: করোটিকা মস্তিষ্ককে, বক্ষপিঞ্জর হৃৎপিণ্ড ও ফুসফুসকে, আর মেরুদণ্ড মেরুরজ্জুকে রক্ষা করে। এটি রক্ষণাবেক্ষণের কাজ। তবু শক্ত ক্রিকেট বলে আঘাত লাগতে পারে, তাই ব্যাটাররা হেলমেট ও গার্ডও পরেন।
+## mistakes
+x হাড় মৃত ও শুকনো, ল্যাবরেটরিতে রাখা কঙ্কালের মতো।
+v দেহের ভেতরের হাড় জীবন্ত। এতে কোষ ও রক্ত সরবরাহ আছে; হাড় বাড়ে, নিজেকে মেরামত করে এবং রক্তকণিকা তৈরি করে।
+x শিশু ছোট, তাই তার হাড় বড়দের চেয়ে কম।
+v শিশুর আলাদা টুকরা বরং বেশি (প্রায় ৩০০)। বড় হতে হতে অনেকগুলো জুড়ে গিয়ে ২০৬টি থাকে।
+x মেরুদণ্ড একটি লম্বা হাড়।
+v এটি কশেরুকার শিকল: শিশুর ৩৩টি, পূর্ণবয়স্কের আলাদা অস্থি ২৬টি।
+x কঙ্কাল নিজেই দেহকে নাড়ায়।
+v অস্থি নিজে নড়তে পারে না। এর সাথে লাগানো পেশি একে টানে।
+x কঙ্কালের একমাত্র কাজ দেহকে আকার দেওয়া।
+v এর কাজ পাঁচটি: কাঠামো গঠন ও দৃঢ়তা প্রদান, রক্ষণাবেক্ষণ ও ভারবহন, নড়াচড়া ও চলাচল, লোহিত রক্তকণিকা উৎপাদন এবং খনিজ লবণ সঞ্চয়।
+x নখ আর চুলের সাথে কঙ্কালের কোনো সম্পর্ক নেই।
+v তোমার বই এদের মানবদেহের বহিঃকঙ্কাল হিসেবে ধরেছে।
+## remember
+- চলন: প্রাণীর নিজের চেষ্টায় এক স্থান থেকে অন্য স্থানে যাওয়া। কঙ্কালতন্ত্র দেহকে কাঠামো, আকৃতি ও সুরক্ষা দেয় এবং চলনে সাহায্য করে।
+- পূর্ণবয়স্ক মানুষের কঙ্কালে ২০৬টি অস্থি (লম্বা, ছোট, চ্যাপ্টা, অসমান); শিশুর আরও বেশি।
+- বইয়ের দুই ভাগ: বহিঃকঙ্কাল (নখ, চুল) ও অন্তঃকঙ্কাল (অস্থি ও তরুণাস্থি)।
+- অক্ষীয় কঙ্কাল ৮০টি অস্থি (করোটি, মেরুদণ্ড, পর্শুকা, স্টার্নাম) + উপাঙ্গীয় কঙ্কাল ১২৬টি অস্থি (চক্র ও হাত-পা) = ২০৬।
+- করোটিকা মস্তিষ্ককে, মেরুদণ্ড মেরুরজ্জুকে, পর্শুকা ও স্টার্নাম হৃৎপিণ্ড ও ফুসফুসকে রক্ষা করে।
+- স্কন্ধচক্র হাতকে আর শ্রোণিচক্র পা-কে ধড়ের সাথে যুক্ত করে।
+- হাত: হিউমেরাস, রেডিয়াস, আলনা, কার্পাল, মেটাকার্পাল, ফ্যালাঞ্জেস। পা: ফিমার, প্যাটেলা, টিবিয়া, ফিবুলা, টার্সাল, মেটাটার্সাল, ফ্যালাঞ্জেস।
+- পাঁচটি কাজ: কাঠামো গঠন ও দৃঢ়তা প্রদান; রক্ষণাবেক্ষণ ও ভারবহন; নড়াচড়া ও চলাচল; অস্থিমজ্জা থেকে লোহিত রক্তকণিকা; খনিজ লবণ (ক্যালসিয়াম, পটাশিয়াম, ফসফরাস) সঞ্চয়।
+## think
+চিংড়ি তার কঙ্কাল বয়ে বেড়ায় দেহের বাইরে, আর তুমি বয়ে বেড়াও ভেতরে। দুই ব্যবস্থারই একটি করে সুবিধা আর একটি করে অসুবিধা ভেবে বের করো। (ইঙ্গিত: সুরক্ষা, বড় হওয়া আর দ্রুত চলার কথা ভাবো।)
+## quiz
+? পূর্ণবয়স্ক মানুষের কঙ্কালে কয়টি অস্থি থাকে?
+- ১০৬টি
+* ২০৬টি
+- ২৬০টি
+- ৩০৬টি
+= পূর্ণবয়স্ক মানুষের ২০৬টি অস্থি থাকে। শিশুর টুকরা আরও বেশি, যা বড় হতে হতে জুড়ে যায়।
+? তোমার বই অনুযায়ী নিচের কোনগুলো মানবদেহের বহিঃকঙ্কালের অংশ?
+- করোটি ও পর্শুকা
+- তরুণাস্থি ও অস্থি
+* নখ ও চুল
+- দাঁত ও জিহ্বা
+= বইয়ে নখ ও চুলকে বহিঃকঙ্কাল বলা হয়েছে। অস্থি ও তরুণাস্থি মিলে অন্তঃকঙ্কাল।
+? কঙ্কালের কোন অংশ মেরুরজ্জুকে রক্ষা করে?
+- করোটিকা
+- স্টার্নাম
+- শ্রোণিচক্র
+* মেরুদণ্ড
+= কশেরুকাগুলোর ছিদ্র মিলে যে নালি তৈরি হয়, তার ভেতর দিয়ে মেরুরজ্জু চলে গেছে।
+? লোহিত রক্তকণিকা কোথায় উৎপন্ন হয়?
+* অস্থিমজ্জায়
+- তরুণাস্থিতে
+- লিগামেন্টে
+- শুধু করোটিকায়
+= অস্থির ভেতরের নরম টিস্যু অস্থিমজ্জা থেকে লোহিত রক্তকণিকা তৈরি হয়।
+? মানবদেহের সবচেয়ে লম্বা ও মজবুত অস্থি কোনটি?
+- হিউমেরাস
+- টিবিয়া
+* ফিমার
+- মেরুদণ্ড
+= ফিমার বা ঊরুর হাড় কোমর থেকে হাঁটু পর্যন্ত দেহের ভার বহন করে।
+
+@@ 9.1.2
+@visual b9joint
+@related 9.1 9.2 9.3 2.3.2 5.3
+== en
+## what
+**Bone** is the hardest and strongest connective tissue of the body. **Cartilage** is a softer, elastic connective tissue. A **joint** is the place where two or more bones meet. Hard bones, springy cartilage and well-oiled joints together give a frame that is strong and can still move.
+## simple
+**Find all three on your own body.** Press the front of your lower leg: it is hard like wood. That is **bone**. Now fold the upper edge of your ear or push the tip of your nose to one side and let go: it bends and springs back. That is **cartilage**. Then bend your elbow and your knee. The places where they bend are **joints**.
+
+**1. Bone**
+
+- Bone is a changed form of **connective tissue** (you met the tissues in [[2.3.2|animal tissues]]). It is the firmest tissue of the body.
+- Like every connective tissue it has a large amount of material between its cells, called the **matrix**. The **bone cells** lie scattered in this matrix.
+- The matrix begins as an organic material, mostly tough protein fibres. Mineral salts are then laid down in it. Your book says bone is made mainly of compounds of **phosphorus, sodium, potassium and calcium**.
+- According to your book, bone holds about **40 to 50% water**, and living bone is made of about **40% organic** and **60% inorganic** substances.
+
+> The figures for water differ with the kind of bone and the age of the person, and for hard, dense bone many references give a lower figure than the book does. Learn the book's numbers for your exam, and take away the main idea: bone has about one and a half times as much mineral matter as organic matter, and water as well.
+
+**Two ingredients, two qualities.** The mineral salts make bone *hard*. The organic fibres make it *tough*, so that it does not snap easily. You can see both with a chicken bone left over from a meal. If a clean bone is kept in vinegar for several days, the acid dissolves the mineral salts and the bone becomes soft enough to bend like rubber. If a bone is burnt in a fire, the organic part burns away and what is left crumbles between the fingers. A healthy bone needs both parts.
+
+**What a bone looks like inside.** Your book's figure of a joint also labels the parts of a bone:
+- **Periosteum**: a thin, tough covering on the outside of the bone.
+- **Compact bone** (the figure calls it "strong bone"): the hard, dense outer layer.
+- **Spongy bone**: a lighter network of thin bars of bone, found mostly towards the ends. The spaces in it are filled with marrow.
+- **Bone marrow**: the soft tissue in the hollow of the bone and in the spaces of spongy bone.
+
+**Bone is never finished.** All through life the older parts of a bone are slowly worn away and new bone is built in their place. In a healthy young person the two are balanced. If the balance is upset, different diseases of bone appear. As a person grows old, the balance naturally tips towards loss (more about this in [[9.3|diseases of bones]]).
+
+**What bone needs.** For bone to grow, food rich in **calcium** and **vitamin D** is needed. Without them normal growth of bone is held back (remember [[5.3|rickets]]). Vitamin D is special because the body can make it. Sunlight falling on the skin chemically changes a cholesterol found there; after a series of further changes in the **liver** and the **kidney** this becomes vitamin D. So everyone needs enough sunlight. People who always stay indoors, or whose clothes always cover the whole body, are more likely to be short of vitamin D.
+
+**2. Cartilage**
+
+- Cartilage is not as hard as bone. It is relatively soft and **elastic**. It is another form of connective tissue.
+- Its cells lie singly or in pairs, closely scattered through an elastic matrix.
+- The cartilage cells give out a firm, half-transparent substance called **chondrin**. The matrix is made of chondrin, and its colour is light blue.
+- In the chondrin there are small cavities called **lacunae** (singular: lacuna) or capsules. Inside them lie the cells, called **chondroblasts** and **chondrocytes**. In living cartilage the protoplasm of a cell is clear and its nucleus is round.
+- Cartilage is wrapped in a covering of fibrous connective tissue called the **perichondrium**, which is shiny white. That is why cartilage usually looks white, bluish and glossy. (The smooth cartilage on the ends of bones inside a joint is an exception: it has no such covering.)
+- Where it is found: in the **pinna** (the outer flap of the ear), the tip of the nose, the rings of the windpipe ([[7.2|trachea]]), between the ribs and the sternum, between the vertebrae and on the ends of bones where they meet at a joint.
+
+Your book says there are several kinds of cartilage in the body and gives the pinna as an example. For your interest, here are the three kinds biologists name:
+
+| Kind | Nature | Example |
+| Hyaline cartilage | glassy, smooth, the commonest kind | ends of bones at joints, nose, rings of the trachea |
+| Elastic cartilage | bends very easily and springs back | pinna of the ear |
+| Fibrous cartilage | very tough, takes heavy pressure | pads (discs) between the vertebrae |
+
+**Bone and cartilage compared**
+
+| Point | Bone | Cartilage |
+| Nature | hard and firm, does not bend | relatively soft, elastic, bends |
+| Matrix | organic material hardened with mineral salts (calcium, phosphorus) | chondrin, light blue, half-transparent |
+| Cells | bone cells scattered in the matrix | chondroblasts and chondrocytes, single or in pairs inside lacunae |
+| Covering | periosteum | perichondrium |
+| Blood supply | rich; has marrow that makes blood cells | no blood vessels inside; no marrow |
+| Main work | frame, protection, support for muscles | padding, smooth surfaces, flexible shape |
+
+**3. Joints**
+
+The place where two or more bones meet is a **joint** (also called an articulation). At every joint the bones are tied firmly together by elastic, rope-like bands called **ligaments**, so the bones cannot easily slip out of place. Joints are what allow our limbs to move. But not all joints are alike. By the amount of movement they allow, there are three kinds:
+
+- **(a) Fixed joint.** The bones are joined so firmly that they cannot move at all. *Example:* the joints between the bones of the **cranium**. Their zigzag edges lock into each other like the teeth of a zip.
+- **(b) Slightly movable joint.** The bones are firmly connected, yet they can move a little. *Example:* the joints of the **backbone**. Each one moves only slightly, but there are many of them, so together they let you bend forwards, backwards and sideways.
+- **(c) Freely movable joint.** These joints move easily. The main ones are the **ball-and-socket joint** and the **hinge joint**. Only **synovial joints** can be freely movable.
+
+> In one sentence your book gives the joint between vertebrae as an example of a joint that cannot move at all. But in its own list, a few lines later, the joints of the backbone are the example of the *slightly movable* joint, and that is the correct place for them. If the exam asks for a fixed joint, write the joints of the cranium.
+
+**The synovial joint.** This is the kind of joint that is built for movement. Its parts are:
+- the **ends of the bones**, each covered with a smooth cap of **cartilage**;
+- a **capsule**, a strong fibrous covering that wraps the whole joint and, strengthened by **ligaments**, holds it firmly together;
+- a thin **synovial membrane** lining the inside of the capsule;
+- the **synovial cavity**, the narrow space inside, filled with slippery **synovial fluid**.
+
+Because of the fluid and the cartilage, bone does not rub on bone. Friction and wear are reduced, and less energy is spent in moving the joint. When only two bones meet, your book calls it a **simple synovial joint** (the shoulder: humerus and scapula). When more than two bones meet, it is a **complex synovial joint** (the elbow: humerus, radius and ulna).
+
+**(i) Ball-and-socket joint.** The rounded, ball-like head of one bone sits in a cup-like hollow (socket) of another bone, so the bone can be bent, moved to the side and turned in all directions. *Examples:* the **shoulder** joint and the **hip** joint (where the round head of the femur sits in the hip bone).
+
+**(ii) Hinge joint.** Just as a hinge holds a door to its frame and lets it swing only one way, a hinge joint lets a bone move in **one direction only**, back and forth. *Examples:* the **elbow**, the **knee** and the joints of the **fingers**.
+
+Both of these are synovial joints.
+
+> The body has other kinds of freely movable joints as well, for example the one high in the neck that lets you turn your head to say "no". Your book describes only the two main ones.
+## analogy
+A door on its hinges can only swing open and shut. It cannot tilt up or twist round, however hard you push. That is your elbow. Now rest a round-bottomed ladle in a round bowl and hold the handle: you can tip it forward, back, sideways, or stir it round in a circle. That is your shoulder. And when a door hinge squeaks, we put a drop of oil in it. A synovial joint carries its own oil: the synovial fluid.
+## definition
+**Bone**: a changed form of connective tissue, the hardest and firmest tissue of the body, in which bone cells lie scattered in a matrix hardened with mineral salts.
+
+**Cartilage**: a relatively soft and elastic form of connective tissue whose matrix is made of chondrin and whose cells lie in cavities called lacunae.
+
+**Joint (articulation)**: the place where two or more bones meet.
+
+**Synovial joint**: a movable joint in which the cartilage-covered ends of the bones are enclosed in a capsule filled with synovial fluid.
+
+**Ball-and-socket joint**: a synovial joint in which the round head of one bone fits into a cup-like socket of another, allowing movement in all directions.
+
+**Hinge joint**: a synovial joint that, like a door hinge, allows movement in one direction only.
+## why
+**Why is bone hard, yet not brittle like glass?** Think of the roof slab of a building. Concrete alone is hard but cracks when it is bent; steel rods alone bend too easily. Rods set inside concrete give a slab that is both hard and tough. Bone uses the same idea: the mineral salts are the concrete and the protein fibres are the rods.
+
+**Why do bone ends need cartilage and fluid?** Rub two bricks together and they grind each other to dust. Your knee bends thousands of times every day under the whole weight of your body. If bare bone rubbed on bare bone, the ends would soon wear away, and every step would hurt. The glassy cartilage gives a smooth surface, and the fluid lets the surfaces slide, like oil between the moving parts of a machine.
+
+**Why are some joints fixed and others free?** Each joint suits its job. The brain needs a closed, rigid box, so the bones of the cranium are locked together. The backbone must both guard the spinal cord and let the body bend, so each of its joints moves only a little. The arm must reach in every direction, so the shoulder is a ball and socket. But there is a price: the more freely a joint moves, the more easily it can be pulled out of place.
+
+**Why does a cut in cartilage heal so slowly?** Cartilage has no blood vessels of its own. Food and oxygen reach its cells slowly, by seeping through the matrix. Bone has a rich blood supply, so a broken bone usually mends well, while damaged cartilage repairs itself with great difficulty.
+## terms
+Bone | The hardest connective tissue; matrix hardened with mineral salts
+Matrix | The material between the cells of a connective tissue
+Periosteum | The thin, tough covering on the outside of a bone
+Compact bone | The hard, dense outer layer of a bone
+Spongy bone | The light network of bone, mostly near the ends, holding marrow
+Cartilage | Relatively soft, elastic connective tissue
+Chondrin | The firm, half-transparent, bluish substance that forms the matrix of cartilage
+Lacuna (plural: lacunae) | A small cavity in the matrix in which the cells lie
+Chondrocyte, chondroblast | The cells of cartilage
+Perichondrium | The shiny white fibrous covering of cartilage
+Pinna | The outer flap of the ear, stiffened by cartilage
+Joint (articulation) | The place where two or more bones meet
+Ligament | An elastic band that ties bone to bone at a joint
+Fixed joint | A joint with no movement, as in the cranium
+Slightly movable joint | A joint with a little movement, as in the backbone
+Synovial joint | A freely movable joint with a capsule and synovial fluid
+Synovial fluid | The slippery fluid that reduces friction in a joint
+Ball-and-socket joint | Joint that moves in all directions: shoulder, hip
+Hinge joint | Joint that moves in one direction only: elbow, knee, fingers
+## visual
+Use the three tabs. In "Bone and cartilage" tap the parts and try the bending test. In "Kinds of joint" choose a joint and drag the slider to see how far it can move. In "Inside a joint" tap each part of a synovial joint, then take away the cartilage and fluid to see what happens.
+## real
+Next time there is chicken curry at home, look at the end of a leg bone. The shiny, bluish-white cap on it is cartilage, and the slippery feel between two bones is what remains of the joint fluid. The hard shaft is compact bone, and the dark, soft material inside is the marrow. You are holding half of this lesson in your hand.
+
+On winter mornings in our villages, babies are often laid in the mild sun for a while after an oil massage. The sunshine on their skin helps their bodies to make vitamin D, and vitamin D helps growing bones to take up calcium. And when a bowler in a cricket match swings the arm in a full circle, it is the ball-and-socket joint of the shoulder at work; the elbow, a hinge, could never do that.
+## example
+Q: Sort these joints into fixed, slightly movable, hinge and ball-and-socket: (1) between the bones of the cranium, (2) elbow, (3) shoulder, (4) between two vertebrae, (5) knee, (6) hip, (7) a finger joint.
+Solution: Ask of each joint: does it move at all, a little, in one direction, or in all directions?
+Step: No movement: (1) the joints of the cranium. These are fixed joints.
+Step: A little movement: (4) the joints of the backbone. These are slightly movable joints.
+Step: One direction only, like a door: (2) elbow, (5) knee, (7) finger joint. These are hinge joints.
+Step: All directions: (3) shoulder and (6) hip. These are ball-and-socket joints.
+Answer: Fixed: 1. Slightly movable: 4. Hinge: 2, 5, 7. Ball-and-socket: 3, 6. The hinge and ball-and-socket joints are freely movable, and all of them are synovial joints.
+## example
+Q: Take your book's figure that living bone is 40% organic and 60% inorganic substance. In 250 g of such bone material, how many grams are organic and how many inorganic? What would happen to the bone if the inorganic part were removed?
+Given: bone material = 250 g; organic = 40%; inorganic = 60%
+Formula: mass of a part = percentage ÷ 100 × total mass
+Substitution: organic = 40 ÷ 100 × 250; inorganic = 60 ÷ 100 × 250
+Calculation: organic = 100 g; inorganic = 150 g (check: 100 + 150 = 250)
+Answer: 100 g organic and 150 g inorganic substance. Without the inorganic mineral salts the bone would lose its hardness and bend like rubber, as a bone kept in vinegar does.
+Unit: g
+## example
+Q: Rina can swing her whole arm round in a circle at the shoulder, but at the elbow her forearm only folds and unfolds. Explain the difference from the way the two joints are built.
+Solution: Compare the shapes of the bone ends in the two joints.
+Step: At the shoulder the round head of the humerus sits in a cup-like socket of the scapula. A ball can turn inside a cup in any direction. This is a ball-and-socket joint.
+Step: At the elbow the bone ends fit together like the two halves of a door hinge. They can swing along one line only. This is a hinge joint.
+Step: Both are synovial joints: cartilage on the bone ends and synovial fluid in the capsule keep the movement smooth.
+Answer: The shoulder is a ball-and-socket joint, so it moves in all directions. The elbow is a hinge joint, so it moves in one direction only. The shape of the bone ends decides the kind of movement.
+## example
+Q: Under a microscope a student sees a bluish, half-transparent matrix with small cavities, and in each cavity one or two cells with round nuclei. The outside of the piece is covered by a shiny white fibrous layer. (a) Which tissue is it? (b) Name the matrix, the cavities and the covering. (c) Name one place in the body where it is found.
+Solution: Match what is seen with the description of the two skeletal tissues.
+Step: (a) A bluish, half-transparent matrix with cells in cavities is cartilage. Bone would have a hard matrix full of mineral salts.
+Step: (b) The matrix is chondrin, the cavities are lacunae (capsules), and the covering is the perichondrium. The cells are chondrocytes and chondroblasts.
+Step: (c) It is found, for example, in the pinna of the ear.
+Answer: (a) Cartilage. (b) Chondrin, lacunae, perichondrium. (c) The pinna of the ear (also the tip of the nose, the rings of the trachea and the ends of bones at joints).
+## mistakes
+x Cartilage is just soft bone.
+v Cartilage is a different form of connective tissue. Its matrix is chondrin, and it is elastic; bone has a matrix hardened by mineral salts.
+x Every joint in the body can move.
+v Fixed joints, such as those of the cranium, do not move at all.
+x The elbow can move in all directions, like the shoulder.
+v The elbow is a hinge joint and moves in one direction only. The shoulder is a ball-and-socket joint.
+x In a joint, bone rubs directly against bone.
+v The bone ends are covered with cartilage and separated by synovial fluid, which reduce friction and wear.
+x Once a bone is fully grown it never changes.
+v Old bone is worn away and new bone is formed all through life. Disease appears when this balance is upset.
+x Drinking milk is enough for strong bones; sunlight does not matter.
+v Calcium needs vitamin D, and the body makes vitamin D only when sunlight falls on the skin.
+x The backbone has fixed joints because it must be stiff.
+v The joints of the backbone are slightly movable; that is why we can bend. The fixed joints are in the cranium.
+## remember
+- Bone: changed connective tissue, the firmest tissue; bone cells in a matrix; made mainly of compounds of phosphorus, sodium, potassium and calcium. Book figures: 40 to 50% water; 40% organic, 60% inorganic.
+- Old bone is worn away and new bone formed all the time; with age the balance tips towards loss.
+- Bone growth needs calcium and vitamin D. Sunlight on the skin, then changes in the liver and kidney, make vitamin D.
+- Cartilage: softer, elastic connective tissue; matrix of bluish chondrin; cells (chondroblasts, chondrocytes) in lacunae; covering perichondrium; example the pinna.
+- Joint: where two or more bones meet; ligaments hold the bones in place.
+- Three kinds: fixed (cranium), slightly movable (backbone), freely movable (ball-and-socket, hinge).
+- Synovial joint: cartilage-covered bone ends + capsule with ligaments + synovial fluid. Fluid and cartilage reduce friction and save energy. Only synovial joints are freely movable.
+- Ball-and-socket: all directions (shoulder, hip). Hinge: one direction (elbow, knee, fingers).
+## think
+The shoulder and the hip are both ball-and-socket joints, but the socket of the hip is much deeper than the socket of the shoulder. Which of the two can move more freely, and which is harder to pull out of place? Why would the body want a deeper socket for the leg than for the arm?
+## quiz
+? The matrix of cartilage is made of:
+- calcium phosphate
+* chondrin
+- synovial fluid
+- keratin
+= Cartilage cells give out chondrin, a firm, half-transparent, light blue substance that forms the matrix.
+? Which of these is a fixed joint?
+- Joint of the knee
+- Joint of the shoulder
+- Joint between two vertebrae
+* Joint between the bones of the cranium
+= The bones of the cranium are joined so firmly that they cannot move.
+? The elbow, the knee and the finger joints are examples of:
+* hinge joints
+- ball-and-socket joints
+- fixed joints
+- slightly movable joints
+= Like a door hinge, they allow movement in one direction only.
+? What reduces friction between the bones in a synovial joint?
+- Bone marrow and blood
+- Periosteum
+* Synovial fluid and cartilage
+- Tendons
+= The cartilage caps give smooth surfaces and the synovial fluid lets them slide, so there is less wear and less energy is spent.
+? Which vitamin does the body make with the help of sunlight falling on the skin?
+- Vitamin A
+- Vitamin C
+* Vitamin D
+- Vitamin K
+= Sunlight changes a cholesterol in the skin; after further changes in the liver and kidney it becomes vitamin D, which bones need.
+== bn
+## what
+**অস্থি (হাড়)** দেহের সবচেয়ে শক্ত ও দৃঢ় যোজক টিস্যু। **তরুণাস্থি** অপেক্ষাকৃত নরম ও স্থিতিস্থাপক যোজক টিস্যু। দুই বা ততোধিক অস্থির সংযোগস্থলকে বলে **অস্থিসন্ধি**। শক্ত হাড়, নমনীয় তরুণাস্থি আর পিচ্ছিল অস্থিসন্ধি মিলে এমন একটি কাঠামো তৈরি করে, যা মজবুত, আবার নড়তেও পারে।
+## simple
+**তিনটিই নিজের শরীরে খুঁজে দেখো।** হাঁটুর নিচে পায়ের সামনের দিকটা টিপে দেখো: কাঠের মতো শক্ত। এটা **অস্থি**। এবার কানের ওপরের কিনারা ভাঁজ করো বা নাকের ডগা একপাশে ঠেলে ছেড়ে দাও: বেঁকে যায়, আবার আগের জায়গায় ফিরে আসে। এটা **তরুণাস্থি**। এরপর কনুই আর হাঁটু ভাঁজ করো। যেখানে ভাঁজ হলো, সেগুলো **অস্থিসন্ধি**।
+
+**১. অস্থি (Bone)**
+
+- অস্থি **যোজক টিস্যুর (যোজক কলার)** রূপান্তরিত রূপ ([[2.3.2|প্রাণী টিস্যু]] পাঠে টিস্যুর কথা পড়েছ)। এটি দেহের সবচেয়ে দৃঢ় টিস্যু।
+- অন্য সব যোজক টিস্যুর মতো এর কোষগুলোর মাঝেও প্রচুর আন্তঃকোষীয় পদার্থ থাকে, যার নাম **মাতৃকা (ম্যাট্রিক্স)**। **অস্থিকোষগুলো** এই মাতৃকার মধ্যে ছড়ানো থাকে।
+- মাতৃকার শুরুটা এক ধরনের জৈব পদার্থ দিয়ে, যার বেশির ভাগই মজবুত প্রোটিন তন্তু। এরপর তাতে খনিজ লবণ জমা হয়। তোমার বই বলছে, অস্থি মূলত **ফসফরাস, সোডিয়াম, পটাশিয়াম ও ক্যালসিয়ামের** বিভিন্ন যৌগ দিয়ে তৈরি।
+- বই অনুযায়ী অস্থিতে প্রায় **৪০ থেকে ৫০ ভাগ পানি** থাকে, আর জীবিত অস্থি প্রায় **৪০% জৈব** ও **৬০% অজৈব** পদার্থ নিয়ে গঠিত।
+
+> পানির পরিমাণ হাড়ের ধরন আর মানুষের বয়সভেদে আলাদা হয়, আর শক্ত, নিরেট হাড়ের জন্য অনেক বইয়ে তোমার বইয়ের চেয়ে কম মান দেওয়া থাকে। পরীক্ষার জন্য বইয়ের সংখ্যাগুলোই শেখো, আর মূল কথাটা মনে রাখো: হাড়ে খনিজ পদার্থ জৈব পদার্থের প্রায় দেড় গুণ, সাথে পানিও আছে।
+
+**দুই উপাদান, দুই গুণ।** খনিজ লবণ হাড়কে *শক্ত* করে। জৈব তন্তু হাড়কে *ঘাতসহ* করে, ফলে হাড় সহজে মট করে ভাঙে না। খাওয়ার পর বেঁচে যাওয়া মুরগির হাড় দিয়ে দুটোই বোঝা যায়। পরিষ্কার একটা হাড় কয়েক দিন ভিনেগারে ডুবিয়ে রাখলে এসিড খনিজ লবণ গলিয়ে ফেলে, আর হাড়টা রাবারের মতো বাঁকানো যায়। আবার হাড় আগুনে পোড়ালে জৈব অংশ পুড়ে যায়, যা থাকে তা আঙুলের চাপেই গুঁড়ো হয়ে যায়। সুস্থ হাড়ের দুটো অংশই দরকার।
+
+**হাড়ের ভেতরটা কেমন।** তোমার বইয়ের অস্থিসন্ধির চিত্রে হাড়ের অংশগুলোও চিহ্নিত আছে:
+- **পেরিঅস্টিয়াম**: হাড়ের বাইরের পাতলা অথচ মজবুত আবরণ।
+- **নিরেট অস্থি** (বইয়ের চিত্রে "দৃঢ় অস্থি"): বাইরের শক্ত, ঘন স্তর।
+- **স্পঞ্জি অস্থি**: সরু সরু হাড়ের পাত দিয়ে তৈরি হালকা জালের মতো অংশ, বেশির ভাগ থাকে হাড়ের প্রান্তের দিকে। এর ফাঁকে ফাঁকে মজ্জা থাকে।
+- **অস্থিমজ্জা**: হাড়ের ফাঁপা অংশে আর স্পঞ্জি অস্থির ফাঁকে থাকা নরম টিস্যু।
+
+**হাড় তৈরি কখনো শেষ হয় না।** সারা জীবন ধরেই একদিকে অস্থির পুরোনো অংশ ধীরে ধীরে ক্ষয় হয়, অন্যদিকে সেখানে নতুন অংশ তৈরি হয়। সুস্থ তরুণ দেহে এই দুইয়ের মধ্যে ভারসাম্য থাকে। ভারসাম্য নষ্ট হলে অস্থির নানা রকম রোগ হয়। বয়স বাড়লে ভারসাম্যটি এমনিতেই ক্ষয়ের দিকে ঝুঁকে পড়ে ([[9.3|অস্থির রোগ]] পাঠে এ নিয়ে আরও জানবে)।
+
+**হাড়ের যা দরকার।** অস্থির বৃদ্ধির জন্য **ক্যালসিয়াম** ও **ভিটামিন ডি**-সমৃদ্ধ খাবার প্রয়োজন। এগুলোর অভাবে অস্থির স্বাভাবিক বৃদ্ধি ব্যাহত হয় ([[5.3|রিকেটস]] রোগের কথা মনে করো)। ভিটামিন ডি একটু আলাদা, কারণ দেহ নিজেই এটি তৈরি করতে পারে। সূর্যের আলো ত্বকে পড়লে সেখানকার কোলেস্টেরলে রাসায়নিক পরিবর্তন ঘটে; এরপর **যকৃৎ** ও **বৃক্কে** আরও কিছু ধারাবাহিক পরিবর্তনের পর তা থেকে ভিটামিন ডি তৈরি হয়। তাই সবারই পর্যাপ্ত সূর্যালোক দরকার। যারা সব সময় ঘরে থাকে বা সারা শরীর ঢাকা পোশাক পরে, তাদের ভিটামিন ডি-এর ঘাটতি হওয়ার সম্ভাবনা বেশি।
+
+**২. তরুণাস্থি (Cartilage)**
+
+- তরুণাস্থি অস্থির মতো শক্ত নয়। এটি অপেক্ষাকৃত নরম ও **স্থিতিস্থাপক**। এটি যোজক টিস্যুর আরেকটি রূপ। (দ্বিতীয় অধ্যায়ে একে কোমলাস্থি বলা হয়েছে; দুটো একই জিনিস।)
+- এর কোষগুলো একক বা জোড়ায় জোড়ায়, খুব ঘনভাবে, স্থিতিস্থাপক মাতৃকার মধ্যে ছড়ানো থাকে।
+- তরুণাস্থির কোষ থেকে **কন্ড্রিন** নামের এক ধরনের শক্ত, ঈষদচ্ছ (আধা-স্বচ্ছ) পদার্থ বের হয়। মাতৃকা এই কন্ড্রিন দিয়ে তৈরি, এর রং হালকা নীল।
+- কন্ড্রিনের মাঝে ছোট ছোট গহ্বর দেখা যায়। এগুলোকে **ল্যাকিউনি** (একবচনে ল্যাকিউনা) বা ক্যাপসুল বলে। এর ভেতরে থাকে **কন্ড্রোব্লাস্ট** ও **কন্ড্রোসাইট** নামের কোষ। জীবিত অবস্থায় কোষের প্রোটোপ্লাজম খুব স্বচ্ছ, আর নিউক্লিয়াস গোলাকার।
+- তরুণাস্থি তন্তুময় যোজক টিস্যুর তৈরি একটি আবরণে ঘেরা থাকে, যার নাম **পেরিকন্ড্রিয়াম**। আবরণটি চকচকে সাদা। এ কারণেই তরুণাস্থিকে সাধারণত সাদা, নীলাভ ও চকচকে দেখায়। (অস্থিসন্ধির ভেতরে হাড়ের মাথায় যে মসৃণ তরুণাস্থি থাকে, সেটি ব্যতিক্রম: তাতে এই আবরণ থাকে না।)
+- কোথায় থাকে: কানের **পিনায়** (কানের বাইরের পাতা), নাকের ডগায়, শ্বাসনালির বলয়ে ([[7.2|ট্রাকিয়া]]), পর্শুকা ও স্টার্নামের মাঝে, কশেরুকাগুলোর মাঝে এবং অস্থিসন্ধিতে হাড়ের মাথায়।
+
+তোমার বই বলছে, দেহে কয়েক রকম তরুণাস্থি আছে, আর উদাহরণ দিয়েছে কানের পিনার। জানার আগ্রহ থাকলে জীববিজ্ঞানীরা যে তিন রকমের নাম দেন তা দেখে নাও:
+
+| ধরন | প্রকৃতি | উদাহরণ |
+| হায়ালিন তরুণাস্থি | কাচের মতো মসৃণ, সবচেয়ে বেশি দেখা যায় | অস্থিসন্ধিতে হাড়ের মাথা, নাক, শ্বাসনালির বলয় |
+| স্থিতিস্থাপক তরুণাস্থি | খুব সহজে বাঁকে, আবার ফিরে আসে | কানের পিনা |
+| তন্তুময় তরুণাস্থি | খুব মজবুত, বেশি চাপ সইতে পারে | কশেরুকার মাঝের চাকতি |
+
+**অস্থি ও তরুণাস্থির তুলনা**
+
+| বিষয় | অস্থি | তরুণাস্থি |
+| প্রকৃতি | শক্ত ও দৃঢ়, বাঁকে না | অপেক্ষাকৃত নরম, স্থিতিস্থাপক, বাঁকে |
+| মাতৃকা | খনিজ লবণে (ক্যালসিয়াম, ফসফরাস) শক্ত হওয়া জৈব পদার্থ | কন্ড্রিন; হালকা নীল, ঈষদচ্ছ |
+| কোষ | মাতৃকায় ছড়ানো অস্থিকোষ | কন্ড্রোব্লাস্ট ও কন্ড্রোসাইট; ল্যাকিউনির ভেতরে একক বা জোড়ায় |
+| আবরণ | পেরিঅস্টিয়াম | পেরিকন্ড্রিয়াম |
+| রক্ত সরবরাহ | প্রচুর; মজ্জা আছে, যা রক্তকণিকা তৈরি করে | ভেতরে রক্তনালি নেই; মজ্জা নেই |
+| প্রধান কাজ | কাঠামো, সুরক্ষা, পেশির অবলম্বন | গদির কাজ, মসৃণ তল, নমনীয় আকৃতি |
+
+**৩. অস্থিসন্ধি (Joint)**
+
+দুই বা ততোধিক অস্থির সংযোগস্থলকে **অস্থিসন্ধি** বলে। প্রতিটি অস্থিসন্ধিতে অস্থিগুলো স্থিতিস্থাপক, রজ্জুর মতো বন্ধনী দিয়ে দৃঢ়ভাবে আটকানো থাকে; এই বন্ধনীর নাম **লিগামেন্ট (অস্থিবন্ধনী)**। ফলে অস্থিগুলো সহজে সন্ধিস্থল থেকে সরে যেতে পারে না। অস্থিসন্ধি আছে বলেই আমরা অঙ্গপ্রত্যঙ্গ নাড়াতে পারি। তবে সব অস্থিসন্ধি এক রকম নয়। কতটা নড়ে, সে অনুযায়ী অস্থিসন্ধি তিন ধরনের:
+
+- **(ক) নিশ্চল অস্থিসন্ধি (Fixed joint)।** অস্থিগুলো এত শক্তভাবে জোড়া যে একটুও নাড়ানো যায় না। *উদাহরণ:* **করোটিকার** অস্থিসন্ধি। এদের আঁকাবাঁকা কিনারা চেইনের দাঁতের মতো একটি আরেকটির মধ্যে আটকে থাকে।
+- **(খ) ঈষৎ সচল অস্থিসন্ধি (Slightly movable joint)।** অস্থিগুলো শক্তভাবে যুক্ত, তবু সামান্য নড়াচড়া করতে পারে। *উদাহরণ:* **মেরুদণ্ডের** অস্থিসন্ধি। প্রতিটি নড়ে খুব সামান্য, কিন্তু সংখ্যায় অনেক, তাই সব মিলে আমরা দেহকে সামনে, পেছনে ও পাশে বাঁকাতে পারি।
+- **(গ) পূর্ণ সচল অস্থিসন্ধি (Freely movable joint)।** এগুলো সহজে নাড়ানো যায়। এদের মধ্যে প্রধান হলো **বল ও কোটরসন্ধি** এবং **কবজা সন্ধি**। কেবল **সাইনোভিয়াল অস্থিসন্ধিই** পূর্ণ সচল হতে পারে।
+
+> তোমার বইয়ের একটি বাক্যে আন্তঃকশেরুকীয় অস্থিসন্ধিকে একেবারে অনড় সন্ধির উদাহরণ বলা হয়েছে। কিন্তু কয়েক লাইন পরে বইয়ের নিজের তালিকাতেই মেরুদণ্ডের অস্থিসন্ধি *ঈষৎ সচল* সন্ধির উদাহরণ, আর সেটাই সঠিক। পরীক্ষায় নিশ্চল অস্থিসন্ধির উদাহরণ চাইলে করোটিকার অস্থিসন্ধি লিখবে।
+
+**সাইনোভিয়াল অস্থিসন্ধি।** নড়াচড়ার জন্যই এই সন্ধির গড়ন। এর অংশগুলো হলো:
+- **অস্থির প্রান্ত**, যার প্রতিটি **তরুণাস্থির** মসৃণ আবরণে ঢাকা;
+- **ক্যাপসুল**, একটি মজবুত তন্তুময় আবরণী, যা পুরো সন্ধিকে ঘিরে রাখে এবং **লিগামেন্টের** সাহায্যে সন্ধিকে দৃঢ়ভাবে আটকে রাখে;
+- ক্যাপসুলের ভেতরের গায়ে থাকা পাতলা **সাইনোভিয়াল পর্দা**;
+- **সাইনোভিয়াল গহ্বর**, অর্থাৎ ভেতরের সরু ফাঁকা জায়গা, যা পিচ্ছিল **সাইনোভিয়াল রসে** ভরা।
+
+রস আর তরুণাস্থি থাকায় অস্থির সাথে অস্থির সরাসরি ঘষা লাগে না। ঘর্ষণ ও ক্ষয় কমে, আর সন্ধি নাড়াতে কম শক্তি খরচ হয়। যখন মাত্র দুটি অস্থি মিলিত হয়, তোমার বই তাকে বলেছে **সরল সাইনোভিয়াল অস্থিসন্ধি** (যেমন কাঁধ: হিউমেরাস ও স্ক্যাপুলা)। দুয়ের বেশি অস্থি মিলিত হলে তা **জটিল সাইনোভিয়াল অস্থিসন্ধি** (যেমন কনুই: হিউমেরাস, রেডিয়াস ও আলনা)।
+
+**(i) বল ও কোটরসন্ধি (Ball-and-socket joint)।** একটি অস্থির মাথার মতো গোল অংশ অন্য অস্থির বাটির মতো কোটরে এমনভাবে বসানো থাকে যে অস্থিটিকে বাঁকানো, পাশে সরানো, এমনকি সব দিকে ঘোরানো যায়। *উদাহরণ:* **কাঁধের** সন্ধি এবং **ঊরুসন্ধি** (যেখানে ফিমারের গোল মাথা নিতম্বাস্থির কোটরে বসে)।
+
+**(ii) কবজা সন্ধি (Hinge joint)।** কবজা যেমন দরজার পাল্লাকে কাঠামোর সাথে আটকে রাখে আর শুধু এক দিকেই খুলতে-বন্ধ হতে দেয়, কবজা সন্ধিও অস্থিকে **কেবল এক দিকে**, সামনে-পেছনে, নড়তে দেয়। *উদাহরণ:* **কনুই**, **হাঁটু (জানু)** ও **আঙুলের** সন্ধি।
+
+এ দুটিই সাইনোভিয়াল অস্থিসন্ধি।
+
+> দেহে পূর্ণ সচল অস্থিসন্ধি আরও কয়েক রকম আছে, যেমন ঘাড়ের ওপরের দিকের সেই সন্ধি, যার সাহায্যে তুমি মাথা নেড়ে "না" বলো। তোমার বইয়ে প্রধান দুটিরই বর্ণনা আছে।
+## analogy
+কবজায় লাগানো দরজা কেবল খোলে আর বন্ধ হয়। যত জোরেই ঠেলো, ওপরে কাত হবে না, মোচড়ও খাবে না। এটা তোমার কনুই। এবার একটা গোল বাটির মধ্যে গোল তলার ডালের চামচ রেখে হাতলটা ধরো: সামনে, পেছনে, পাশে, যেদিকে খুশি হেলানো যায়, গোল করে ঘোরানোও যায়। এটা তোমার কাঁধ। আর দরজার কবজা ক্যাঁচক্যাঁচ করলে আমরা এক ফোঁটা তেল দিই। সাইনোভিয়াল অস্থিসন্ধির নিজের তেল নিজের কাছেই থাকে: সাইনোভিয়াল রস।
+## definition
+**অস্থি (Bone)**: যোজক টিস্যুর রূপান্তরিত রূপ; দেহের সবচেয়ে শক্ত ও দৃঢ় টিস্যু, যার খনিজ লবণে শক্ত হওয়া মাতৃকার মধ্যে অস্থিকোষ ছড়ানো থাকে।
+
+**তরুণাস্থি (Cartilage)**: অপেক্ষাকৃত নরম ও স্থিতিস্থাপক যোজক টিস্যু, যার মাতৃকা কন্ড্রিন দিয়ে গঠিত এবং কোষগুলো ল্যাকিউনি নামের গহ্বরে থাকে।
+
+**অস্থিসন্ধি (Joint)**: দুই বা ততোধিক অস্থির সংযোগস্থল।
+
+**সাইনোভিয়াল অস্থিসন্ধি**: এমন সচল অস্থিসন্ধি, যেখানে তরুণাস্থিতে ঢাকা অস্থির প্রান্তগুলো সাইনোভিয়াল রসে ভরা একটি ক্যাপসুলের মধ্যে থাকে।
+
+**বল ও কোটরসন্ধি**: যে সাইনোভিয়াল সন্ধিতে একটি অস্থির গোল মাথা অন্য অস্থির বাটির মতো কোটরে বসে এবং সব দিকে নড়াচড়া করা যায়।
+
+**কবজা সন্ধি**: যে সাইনোভিয়াল সন্ধি দরজার কবজার মতো কেবল এক দিকে নড়াচড়া করতে দেয়।
+## why
+**হাড় শক্ত, অথচ কাচের মতো ভঙ্গুর নয় কেন?** দালানের ছাদ ঢালাইয়ের কথা ভাবো। শুধু কংক্রিট শক্ত, কিন্তু বাঁকাতে গেলে ফেটে যায়; শুধু লোহার রড সহজেই বেঁকে যায়। কংক্রিটের ভেতরে রড বসালে যে ছাদ হয়, তা শক্তও, ঘাতসহও। হাড়েও একই বুদ্ধি: খনিজ লবণ হলো কংক্রিট, আর প্রোটিন তন্তু হলো রড।
+
+**হাড়ের মাথায় তরুণাস্থি আর রস লাগে কেন?** দুটো ইট ঘষলে একটা আরেকটাকে গুঁড়ো করে ফেলে। তোমার হাঁটু দিনে হাজার হাজার বার ভাঁজ হয়, তাও পুরো দেহের ভার নিয়ে। খালি হাড় খালি হাড়ে ঘষা খেলে প্রান্তগুলো অল্প দিনেই ক্ষয়ে যেত, প্রতি পদে ব্যথা লাগত। কাচের মতো মসৃণ তরুণাস্থি একটি পিচ্ছিল তল দেয়, আর রস সেই তল দুটোকে পিছলে যেতে দেয়, ঠিক যন্ত্রের চলমান অংশের মাঝের তেলের মতো।
+
+**কিছু সন্ধি অনড় আর কিছু সচল কেন?** প্রতিটি সন্ধি তার কাজের উপযোগী। মস্তিষ্কের দরকার একটি বন্ধ, শক্ত বাক্স, তাই করোটিকার অস্থিগুলো একসাথে আটকানো। মেরুদণ্ডকে একদিকে মেরুরজ্জুকে পাহারা দিতে হয়, অন্যদিকে দেহকে বাঁকতেও দিতে হয়, তাই এর প্রতিটি সন্ধি সামান্য নড়ে। হাতকে সব দিকে পৌঁছাতে হয়, তাই কাঁধ একটি বল ও কোটরসন্ধি। তবে এর একটা মূল্যও আছে: সন্ধি যত বেশি স্বাধীনভাবে নড়ে, তত সহজে তা স্থানচ্যুত হতে পারে।
+
+**তরুণাস্থির ক্ষত এত ধীরে সারে কেন?** তরুণাস্থির নিজের কোনো রক্তনালি নেই। খাদ্য আর অক্সিজেন এর কোষে পৌঁছায় ধীরে ধীরে, মাতৃকার ভেতর দিয়ে চুঁইয়ে। অস্থিতে রক্ত সরবরাহ প্রচুর, তাই ভাঙা হাড় সাধারণত ভালোভাবে জোড়া লাগে, কিন্তু ক্ষতিগ্রস্ত তরুণাস্থি সারতে খুব কষ্ট হয়।
+## terms
+অস্থি (Bone) | সবচেয়ে শক্ত যোজক টিস্যু; মাতৃকা খনিজ লবণে শক্ত
+মাতৃকা (Matrix) | যোজক টিস্যুর কোষগুলোর মাঝের পদার্থ
+পেরিঅস্টিয়াম (Periosteum) | অস্থির বাইরের পাতলা, মজবুত আবরণ
+নিরেট অস্থি (Compact bone) | অস্থির বাইরের শক্ত, ঘন স্তর
+স্পঞ্জি অস্থি (Spongy bone) | হালকা জালের মতো অস্থি, বেশির ভাগ প্রান্তের দিকে; এতে মজ্জা থাকে
+তরুণাস্থি (Cartilage) | অপেক্ষাকৃত নরম, স্থিতিস্থাপক যোজক টিস্যু
+কন্ড্রিন (Chondrin) | শক্ত, ঈষদচ্ছ, নীলাভ পদার্থ, যা দিয়ে তরুণাস্থির মাতৃকা তৈরি
+ল্যাকিউনা (বহুবচনে ল্যাকিউনি) | মাতৃকার ছোট গহ্বর, যার ভেতরে কোষ থাকে
+কন্ড্রোসাইট, কন্ড্রোব্লাস্ট | তরুণাস্থির কোষ
+পেরিকন্ড্রিয়াম (Perichondrium) | তরুণাস্থির চকচকে সাদা তন্তুময় আবরণ
+পিনা (Pinna) | কানের বাইরের পাতা; ভেতরে তরুণাস্থি থাকে
+অস্থিসন্ধি (Joint) | দুই বা ততোধিক অস্থির সংযোগস্থল
+লিগামেন্ট (অস্থিবন্ধনী) | অস্থিসন্ধিতে অস্থিকে অস্থির সাথে বেঁধে রাখা স্থিতিস্থাপক বন্ধনী
+নিশ্চল অস্থিসন্ধি | যে সন্ধি একটুও নড়ে না, যেমন করোটিকার সন্ধি
+ঈষৎ সচল অস্থিসন্ধি | যে সন্ধি সামান্য নড়ে, যেমন মেরুদণ্ডের সন্ধি
+সাইনোভিয়াল অস্থিসন্ধি | ক্যাপসুল ও সাইনোভিয়াল রসযুক্ত পূর্ণ সচল সন্ধি
+সাইনোভিয়াল রস | সন্ধির ঘর্ষণ কমানো পিচ্ছিল রস
+বল ও কোটরসন্ধি | সব দিকে নড়ে এমন সন্ধি: কাঁধ, ঊরুসন্ধি
+কবজা সন্ধি | কেবল এক দিকে নড়ে এমন সন্ধি: কনুই, হাঁটু, আঙুল
+## visual
+তিনটি ট্যাব ব্যবহার করো। "অস্থি ও তরুণাস্থি"-তে অংশগুলোতে টোকা দাও আর বাঁকানোর পরীক্ষাটা করো। "সন্ধির ধরন"-এ একটি সন্ধি বেছে স্লাইডার টেনে দেখো সেটি কতটা নড়তে পারে। "সন্ধির ভেতরে"-তে সাইনোভিয়াল অস্থিসন্ধির প্রতিটি অংশে টোকা দাও, তারপর তরুণাস্থি ও রস সরিয়ে দেখো কী হয়।
+## real
+এরপর বাসায় মুরগির মাংস রান্না হলে রানের হাড়ের মাথাটা খেয়াল করে দেখো। ওপরের চকচকে, নীলচে-সাদা টুপিটাই তরুণাস্থি, আর দুই হাড়ের মাঝে যে পিচ্ছিল ভাব, তা সন্ধির রসের অবশিষ্ট। শক্ত দণ্ডটা নিরেট অস্থি, আর ভেতরের কালচে নরম অংশ মজ্জা। এই পাঠের অর্ধেকটাই তখন তোমার হাতে।
+
+শীতের সকালে আমাদের গ্রামে ছোট শিশুদের তেল মাখিয়ে কিছুক্ষণ মিষ্টি রোদে শুইয়ে রাখা হয়। ত্বকে রোদ লাগলে শিশুর দেহ ভিটামিন ডি তৈরি করতে পারে, আর ভিটামিন ডি বাড়ন্ত হাড়কে ক্যালসিয়াম নিতে সাহায্য করে। আবার ক্রিকেট ম্যাচে বোলার যখন হাতটা পুরো এক চক্কর ঘুরিয়ে বল ছোড়েন, তখন কাজ করে কাঁধের বল ও কোটরসন্ধি; কনুই একটি কবজা সন্ধি, তার পক্ষে এ কাজ কখনোই সম্ভব নয়।
+## example
+প্রশ্ন: নিচের সন্ধিগুলোকে নিশ্চল, ঈষৎ সচল, কবজা এবং বল ও কোটরসন্ধিতে ভাগ করো: (১) করোটিকার অস্থিগুলোর মাঝের সন্ধি, (২) কনুই, (৩) কাঁধ, (৪) দুটি কশেরুকার মাঝের সন্ধি, (৫) হাঁটু, (৬) ঊরুসন্ধি, (৭) আঙুলের একটি সন্ধি।
+সমাধান: প্রতিটি সন্ধির বেলায় ভাবো: এটি কি একেবারেই নড়ে না, সামান্য নড়ে, এক দিকে নড়ে, নাকি সব দিকে নড়ে?
+ধাপ: একেবারেই নড়ে না: (১) করোটিকার সন্ধি। এগুলো নিশ্চল অস্থিসন্ধি।
+ধাপ: সামান্য নড়ে: (৪) মেরুদণ্ডের সন্ধি। এগুলো ঈষৎ সচল অস্থিসন্ধি।
+ধাপ: দরজার মতো কেবল এক দিকে নড়ে: (২) কনুই, (৫) হাঁটু, (৭) আঙুলের সন্ধি। এগুলো কবজা সন্ধি।
+ধাপ: সব দিকে নড়ে: (৩) কাঁধ ও (৬) ঊরুসন্ধি। এগুলো বল ও কোটরসন্ধি।
+উত্তর: নিশ্চল: ১। ঈষৎ সচল: ৪। কবজা: ২, ৫, ৭। বল ও কোটর: ৩, ৬। কবজা এবং বল ও কোটরসন্ধি পূর্ণ সচল, আর এরা সবাই সাইনোভিয়াল অস্থিসন্ধি।
+## example
+প্রশ্ন: তোমার বইয়ের তথ্য ধরো: জীবিত অস্থিতে ৪০% জৈব ও ৬০% অজৈব পদার্থ থাকে। এমন ২৫০ g অস্থি-পদার্থে কত গ্রাম জৈব আর কত গ্রাম অজৈব? অজৈব অংশ সরিয়ে নিলে হাড়টির কী হবে?
+দেওয়া আছে: অস্থি-পদার্থ = ২৫০ g; জৈব = ৪০%; অজৈব = ৬০%
+সূত্র: কোনো অংশের ভর = শতকরা হার ÷ ১০০ × মোট ভর
+মান বসাই: জৈব = ৪০ ÷ ১০০ × ২৫০; অজৈব = ৬০ ÷ ১০০ × ২৫০
+হিসাব: জৈব = ১০০ g; অজৈব = ১৫০ g (যাচাই: ১০০ + ১৫০ = ২৫০)
+উত্তর: ১০০ g জৈব ও ১৫০ g অজৈব পদার্থ। অজৈব খনিজ লবণ না থাকলে হাড় তার কাঠিন্য হারিয়ে রাবারের মতো বেঁকে যাবে, ভিনেগারে রাখা হাড়ের মতো।
+একক: g
+## example
+প্রশ্ন: রিনা কাঁধের কাছে পুরো হাতটা গোল করে ঘোরাতে পারে, কিন্তু কনুইয়ের কাছে তার নিচের বাহু শুধু ভাঁজ হয় আর খোলে। দুই সন্ধির গঠন থেকে এই পার্থক্য ব্যাখ্যা করো।
+সমাধান: দুই সন্ধিতে অস্থির প্রান্তের আকৃতি তুলনা করো।
+ধাপ: কাঁধে হিউমেরাসের গোল মাথা স্ক্যাপুলার বাটির মতো কোটরে বসে। বাটির ভেতরে বল যেকোনো দিকে ঘুরতে পারে। এটি বল ও কোটরসন্ধি।
+ধাপ: কনুইয়ে অস্থির প্রান্তগুলো দরজার কবজার দুই অংশের মতো খাপে খাপে বসে। এরা কেবল এক রেখা বরাবর দুলতে পারে। এটি কবজা সন্ধি।
+ধাপ: দুটোই সাইনোভিয়াল অস্থিসন্ধি: অস্থির প্রান্তের তরুণাস্থি আর ক্যাপসুলের সাইনোভিয়াল রস নড়াচড়াকে মসৃণ রাখে।
+উত্তর: কাঁধ বল ও কোটরসন্ধি, তাই সব দিকে নড়ে। কনুই কবজা সন্ধি, তাই কেবল এক দিকে নড়ে। অস্থির প্রান্তের আকৃতিই ঠিক করে দেয় নড়াচড়া কেমন হবে।
+## example
+প্রশ্ন: একজন শিক্ষার্থী অণুবীক্ষণযন্ত্রে দেখল নীলাভ, ঈষদচ্ছ মাতৃকা, তাতে ছোট ছোট গহ্বর, আর প্রতিটি গহ্বরে গোল নিউক্লিয়াসযুক্ত একটি বা দুটি কোষ। টুকরাটির বাইরে চকচকে সাদা তন্তুময় একটি স্তর। (ক) এটি কোন টিস্যু? (খ) মাতৃকা, গহ্বর ও আবরণের নাম লেখো। (গ) দেহের কোথায় এটি পাওয়া যায়, একটি উদাহরণ দাও।
+সমাধান: যা দেখা গেছে, তা দুই কঙ্কাল টিস্যুর বর্ণনার সাথে মেলাও।
+ধাপ: (ক) নীলাভ, ঈষদচ্ছ মাতৃকা আর গহ্বরের ভেতরে কোষ মানে তরুণাস্থি। অস্থি হলে মাতৃকা খনিজ লবণে ভরা, শক্ত হতো।
+ধাপ: (খ) মাতৃকা কন্ড্রিন, গহ্বরগুলো ল্যাকিউনি (ক্যাপসুল), আর আবরণটি পেরিকন্ড্রিয়াম। কোষগুলো কন্ড্রোসাইট ও কন্ড্রোব্লাস্ট।
+ধাপ: (গ) উদাহরণ: কানের পিনা।
+উত্তর: (ক) তরুণাস্থি। (খ) কন্ড্রিন, ল্যাকিউনি, পেরিকন্ড্রিয়াম। (গ) কানের পিনা (এছাড়া নাকের ডগা, শ্বাসনালির বলয় ও অস্থিসন্ধিতে হাড়ের মাথা)।
+## mistakes
+x তরুণাস্থি আসলে নরম হাড়।
+v তরুণাস্থি যোজক টিস্যুর আলাদা একটি রূপ। এর মাতৃকা কন্ড্রিন, আর এটি স্থিতিস্থাপক; অস্থির মাতৃকা খনিজ লবণে শক্ত।
+x দেহের সব অস্থিসন্ধিই নড়ে।
+v করোটিকার সন্ধির মতো নিশ্চল অস্থিসন্ধি একটুও নড়ে না।
+x কনুই কাঁধের মতো সব দিকে নড়তে পারে।
+v কনুই কবজা সন্ধি, কেবল এক দিকে নড়ে। কাঁধ বল ও কোটরসন্ধি।
+x অস্থিসন্ধিতে হাড়ের সাথে হাড়ের সরাসরি ঘষা লাগে।
+v অস্থির প্রান্ত তরুণাস্থিতে ঢাকা থাকে, মাঝে থাকে সাইনোভিয়াল রস; এরা ঘর্ষণ ও ক্ষয় কমায়।
+x হাড় একবার পুরো বেড়ে গেলে আর বদলায় না।
+v সারা জীবনই পুরোনো অস্থি ক্ষয় হয় আর নতুন অস্থি তৈরি হয়। এই ভারসাম্য নষ্ট হলে রোগ হয়।
+x মজবুত হাড়ের জন্য দুধ খেলেই চলে; রোদের দরকার নেই।
+v ক্যালসিয়ামের সাথে ভিটামিন ডি লাগে, আর ত্বকে সূর্যের আলো পড়লে তবেই দেহ ভিটামিন ডি তৈরি করে।
+x মেরুদণ্ডকে শক্ত থাকতে হয়, তাই এর সন্ধিগুলো নিশ্চল।
+v মেরুদণ্ডের সন্ধি ঈষৎ সচল; সে কারণেই আমরা বাঁকতে পারি। নিশ্চল সন্ধি থাকে করোটিকায়।
+## remember
+- অস্থি: যোজক টিস্যুর রূপান্তরিত রূপ, সবচেয়ে দৃঢ় টিস্যু; মাতৃকায় অস্থিকোষ ছড়ানো; মূলত ফসফরাস, সোডিয়াম, পটাশিয়াম ও ক্যালসিয়ামের যৌগ দিয়ে তৈরি। বইয়ের তথ্য: ৪০ থেকে ৫০ ভাগ পানি; ৪০% জৈব, ৬০% অজৈব।
+- সারাক্ষণ পুরোনো অস্থি ক্ষয় হয় আর নতুন অস্থি তৈরি হয়; বয়স বাড়লে ভারসাম্য ক্ষয়ের দিকে ঝোঁকে।
+- অস্থির বৃদ্ধির জন্য ক্যালসিয়াম ও ভিটামিন ডি দরকার। ত্বকে সূর্যের আলো, এরপর যকৃৎ ও বৃক্কে পরিবর্তনের মাধ্যমে ভিটামিন ডি তৈরি হয়।
+- তরুণাস্থি: অপেক্ষাকৃত নরম, স্থিতিস্থাপক যোজক টিস্যু; নীলাভ কন্ড্রিনের মাতৃকা; ল্যাকিউনির ভেতরে কোষ (কন্ড্রোব্লাস্ট, কন্ড্রোসাইট); আবরণ পেরিকন্ড্রিয়াম; উদাহরণ কানের পিনা।
+- অস্থিসন্ধি: দুই বা ততোধিক অস্থির সংযোগস্থল; লিগামেন্ট অস্থিগুলোকে জায়গামতো ধরে রাখে।
+- তিন ধরন: নিশ্চল (করোটিকা), ঈষৎ সচল (মেরুদণ্ড), পূর্ণ সচল (বল ও কোটর, কবজা)।
+- সাইনোভিয়াল অস্থিসন্ধি: তরুণাস্থিতে ঢাকা অস্থির প্রান্ত + লিগামেন্টসহ ক্যাপসুল + সাইনোভিয়াল রস। রস ও তরুণাস্থি ঘর্ষণ কমায়, শক্তি বাঁচায়। কেবল সাইনোভিয়াল সন্ধিই পূর্ণ সচল।
+- বল ও কোটরসন্ধি: সব দিকে (কাঁধ, ঊরুসন্ধি)। কবজা সন্ধি: এক দিকে (কনুই, হাঁটু, আঙুল)।
+## think
+কাঁধ আর ঊরুসন্ধি দুটোই বল ও কোটরসন্ধি, কিন্তু ঊরুসন্ধির কোটর কাঁধের কোটরের চেয়ে অনেক গভীর। দুটির মধ্যে কোনটি বেশি স্বাধীনভাবে নড়তে পারে, আর কোনটিকে স্থানচ্যুত করা বেশি কঠিন? দেহ হাতের চেয়ে পায়ের জন্য গভীর কোটর কেন চাইবে?
+## quiz
+? তরুণাস্থির মাতৃকা কী দিয়ে গঠিত?
+- ক্যালসিয়াম ফসফেট
+* কন্ড্রিন
+- সাইনোভিয়াল রস
+- কেরাটিন
+= তরুণাস্থির কোষ থেকে কন্ড্রিন নামের শক্ত, ঈষদচ্ছ, হালকা নীল পদার্থ বের হয়; মাতৃকা তা দিয়েই তৈরি।
+? নিচের কোনটি নিশ্চল অস্থিসন্ধি?
+- হাঁটুর সন্ধি
+- কাঁধের সন্ধি
+- দুটি কশেরুকার মাঝের সন্ধি
+* করোটিকার অস্থিগুলোর মাঝের সন্ধি
+= করোটিকার অস্থিগুলো এত শক্তভাবে জোড়া যে নাড়ানো যায় না।
+? কনুই, হাঁটু ও আঙুলের সন্ধি কিসের উদাহরণ?
+* কবজা সন্ধি
+- বল ও কোটরসন্ধি
+- নিশ্চল অস্থিসন্ধি
+- ঈষৎ সচল অস্থিসন্ধি
+= দরজার কবজার মতো এরা কেবল এক দিকে নড়াচড়া করতে দেয়।
+? সাইনোভিয়াল অস্থিসন্ধিতে অস্থির মধ্যে ঘর্ষণ কমায় কী?
+- অস্থিমজ্জা ও রক্ত
+- পেরিঅস্টিয়াম
+* সাইনোভিয়াল রস ও তরুণাস্থি
+- টেন্ডন
+= তরুণাস্থির আবরণ মসৃণ তল দেয় আর সাইনোভিয়াল রস তল দুটোকে পিছলে যেতে দেয়; ফলে ক্ষয় কমে, শক্তিও কম লাগে।
+? ত্বকে সূর্যের আলো পড়লে দেহ কোন ভিটামিন তৈরি করে?
+- ভিটামিন এ
+- ভিটামিন সি
+* ভিটামিন ডি
+- ভিটামিন কে
+= সূর্যের আলো ত্বকের কোলেস্টেরলে পরিবর্তন ঘটায়; যকৃৎ ও বৃক্কে আরও পরিবর্তনের পর তা ভিটামিন ডি হয়, যা হাড়ের জন্য দরকার।
+
+@@ 9.2
+@visual b9arm
+@related 9.1.2 2.3.2 10.3 5.6
+== en
+## what
+**Muscles** are the engines that move the body. A muscle works by contracting, that is, by becoming shorter and pulling. The muscles fixed to bones work in opposite pairs, like the **biceps** and **triceps** of the arm. A **tendon** joins a muscle to a bone, and a **ligament** joins one bone to another.
+## simple
+**Bones cannot move themselves.** A skeleton hanging in a laboratory never lifts a finger. In a living body every bone that moves is being pulled by a muscle. The bones are the frame, the joints are the hinges, and the muscles are the workers that do the pulling.
+
+**Three kinds of muscle.** You learned about muscles in Class Seven and again in [[2.3.2|animal tissues]]. The muscular system is made of three kinds:
+
+| Kind of muscle | Where it is | Who controls it |
+| **Voluntary muscle** (skeletal muscle) | fixed to the bones | works at our will |
+| **Involuntary muscle** | walls of the inner organs and of the blood vessels | works by itself, not at our will |
+| **Cardiac muscle** | only in the heart | works by itself, without rest, all through life |
+
+**What the muscular system does.** Your book lists these jobs:
+- It moves the limbs, helps us to move about, keeps the organs properly placed and keeps the body balanced.
+- Together with the skeletal system it gives the body its definite shape.
+- Muscles store **glycogen**, which can be used as a source of energy in a future emergency.
+- Cardiac muscle, being of a special kind, keeps the heart beating and the blood flowing.
+- Muscles work in the automatic activities of the body, such as passing stool and urine and moving food along the alimentary canal.
+
+**A muscle can only pull.** This is the most important idea of the lesson. When a message (a nerve impulse, see [[10.3|neuron and nerve impulse]]) reaches a muscle, the muscle **contracts**: it becomes shorter and thicker, and so it pulls on the bone it is fixed to. When the message stops, the muscle **relaxes**: it goes soft and can be pulled back to its longer shape. But a relaxed muscle cannot *push* the bone back. So for every movement there must be a second muscle on the other side to pull the bone back again. Two muscles that do opposite jobs at the same joint are called an **antagonistic pair** (your book calls it the "opposite action" of the muscles).
+
+**The best example: bending and straightening the elbow.**
+- The **biceps** lies on the front of the upper arm. Its upper end is fixed to the scapula and its lower end to the radius.
+- The **triceps** lies on the back of the upper arm. Its lower end is fixed to the ulna, at the point of the elbow.
+- **To bend the elbow:** on a signal from the voluntary nerves the biceps contracts. At the same moment the triceps relaxes and is stretched. The biceps pulls the radius and ulna up towards the humerus, and the arm folds.
+- **To straighten the elbow:** exactly the opposite happens. The triceps contracts and pulls the radius and ulna until they are almost in one line with the humerus. At the same moment the biceps relaxes and is stretched.
+
+| Action | Biceps | Triceps |
+| Elbow bends | contracts (short, thick, hard) | relaxes (long, thin, soft) |
+| Elbow straightens | relaxes (long, thin, soft) | contracts (short, thick, hard) |
+
+> Your book says the relaxed muscle "expands". It means the muscle becomes longer because its partner is stretching it. A muscle never lengthens by its own force and never pushes.
+
+**Feel it yourself.** Sit at a desk. Put your left hand round your right upper arm. Now press your right palm *upwards* against the underside of the desk: the front of the arm (biceps) becomes hard. Then press the palm *downwards* on the top of the desk: now the back of the arm (triceps) becomes hard and the front goes soft.
+
+**Not only the elbow.** Your book says that by contracting, muscles can stretch out a limb, fold it, raise it, lower it or turn it to the right and left around its axis. Everywhere the plan is the same: muscles arranged in opposite pairs or groups, one side pulling while the other side lets go.
+
+**Tendon: muscle to bone.** The end of a muscle becomes firm, like a rope, and is fixed to the surface of a bone. This strong end is the **tendon**.
+- A tendon is made of **dense, white, fibrous connective tissue**.
+- In its matrix lie **unbranched white fibres**. They are arranged in **bundles**, **parallel** to one another. Many fibres make a bundle, several bundles make a group of bundles, and these groups are wrapped by a looser tissue (**areolar tissue**) into still larger bundles. Blood vessels, lymph vessels and nerves enter the tendon along this areolar tissue.
+- The **elasticity of a tendon is quite low**. It hardly stretches.
+- Where muscle and tendon meet, the fibres of the tendon are joined to the **sarcolemma** (the covering) of the muscle fibres, and the wrapping tissue of the tendon runs on without a break into the wrapping tissue of the muscle bundles. This makes the connection very strong.
+- A tendon is very strong. Your book says it is much less likely to break or tear than a bone or a muscle. But if it does tear, it does not join up again easily.
+- **Work:** it fixes the muscle to the bone and passes the pull of the muscle to the bone; it helps in building the frame of the body and making it firm; and it resists pulling forces (tension).
+
+> In one place your book describes the tendon as "a strong and elastic kind of muscle". That wording can mislead. A tendon is not muscle: it cannot contract, it is made of fibrous connective tissue, and, as the book itself says in the section on tendons, its elasticity is low.
+
+You can feel a tendon easily. Hold the back of your ankle just above the heel: the thick, hard cord there is the tendon that joins the calf muscle to the heel bone. Or make a tight fist and look at the inside of your wrist: the cords that stand out are tendons running to the hand and fingers.
+
+**Ligament: bone to bone.** The bones at a joint are tied to each other by bands that are soft like thin cloth, yet strong and elastic. These are **ligaments**.
+- A ligament is made of **white fibres** and **yellow fibres**. According to your book the yellow, elastic fibres are the more numerous.
+- Its fine, branched fibres are spread out like a **net**. They lie **separately**, not in bundles.
+- Its **elasticity is comparatively high**. The elastic fibres are made of a protein called **elastin**.
+- Among the fibres there are cells called **fibroblasts**.
+- **Work:** as a hinge holds a door to its frame, ligaments hold bone to bone. Because of them a limb can bend, straighten and move, and the bones do not slip out of place.
+
+> In detail, the strong white fibres make up the larger share of most ligaments of the arms and legs, while a few ligaments, such as those that link the vertebrae, are mostly yellow elastic fibres. What matters for you: a ligament contains both kinds and is more elastic than a tendon.
+
+**Tendon and ligament compared**
+
+| Point | Tendon | Ligament |
+| Joins | muscle to bone | bone to bone |
+| Structure | dense white fibrous tissue; unbranched white fibres in parallel bundles | white and yellow fibres; branched fibres spread like a net, lying separately |
+| Elasticity | quite low | comparatively high |
+| Work | passes the pull of the muscle to the bone | holds the bones together at a joint and stops them slipping out of place |
+
+**When a ligament is hurt.** If the foot twists suddenly while running, a ligament of the ankle may be stretched too far or torn. This is a **sprain**. The joint swells and hurts, and it should be shown to a doctor if the pain or swelling is severe.
+## analogy
+Picture two men cutting a log with a long two-handled saw. Each man can only *pull*; a saw blade is too thin to push. So they take turns: when one pulls, the other loosens his grip and lets the saw go. The biceps and triceps are those two men, and the forearm is the saw. And the rope that ties a bullock to its cart must not stretch, or the cart will not start moving when the bullock does. A tendon is that rope.
+## definition
+**Voluntary (skeletal) muscle**: muscle fixed to the bones, which contracts at our will.
+
+**Involuntary muscle**: muscle in the walls of the inner organs and blood vessels, which does not work at our will.
+
+**Cardiac muscle**: the special involuntary muscle of the heart.
+
+**Antagonistic muscles**: two muscles (or groups of muscles) that work in opposite directions at a joint; when one contracts the other relaxes. Example: biceps and triceps.
+
+**Tendon**: the strong, rope-like end of a muscle, made of dense white fibrous connective tissue, by which the muscle is fixed to a bone.
+
+**Ligament**: a soft but strong, elastic band, made of white and yellow fibres, that joins bone to bone at a joint.
+## why
+**Why can a muscle only pull?** A muscle is a bundle of long muscle fibres. When a nerve impulse arrives, the fibres shorten, using energy released in respiration. There is nothing inside a fibre that can make it longer by force. So lengthening always has to come from outside, from the partner muscle or from the weight of the limb.
+
+**Why must a tendon not stretch?** Think of the brake wire of a bicycle. When you squeeze the lever, the wire passes the pull at once to the brake. If the wire were a rubber band, it would only stretch and the cycle would not stop. The tendon is the brake wire between muscle and bone, so low elasticity is exactly what it needs.
+
+**Why must a ligament stretch a little?** A joint has to open and close. A band that could not give at all would lock the joint or tear at the first big movement. A ligament gives a little and then pulls the bones back into place.
+
+**Why do tendons and ligaments heal so slowly?** They have very few blood vessels compared with muscle. Little blood means that food, oxygen and repair materials arrive slowly. A pulled muscle usually recovers in days or a few weeks; a torn tendon or ligament can take many weeks or months.
+
+**Why does a muscle store glycogen?** Contraction needs energy, and a running or lifting muscle needs it quickly. Glycogen is a ready store of glucose kept inside the muscle itself for such moments.
+## terms
+Voluntary muscle | Muscle fixed to bones that works at our will (skeletal muscle)
+Involuntary muscle | Muscle of the inner organs and blood vessels that works by itself
+Cardiac muscle | The special muscle of the heart
+Contraction | A muscle becoming shorter and thicker, so that it pulls
+Relaxation | A muscle going soft so that it can be stretched again
+Antagonistic muscles | A pair of muscles with opposite actions at a joint
+Biceps | Muscle on the front of the upper arm; bends the elbow
+Triceps | Muscle on the back of the upper arm; straightens the elbow
+Glycogen | The form in which muscles store sugar for emergency energy
+Tendon | Strong, rope-like band that joins muscle to bone; low elasticity
+Ligament | Elastic band that joins bone to bone at a joint
+White fibres | Strong fibres that hardly stretch; the main fibres of a tendon
+Yellow fibres | Elastic fibres made of the protein elastin
+Areolar tissue | Loose connective tissue that wraps the bundles of a tendon
+Sarcolemma | The covering of a muscle fibre
+Fibroblast | A cell found among the fibres of fibrous connective tissue
+Sprain | An injury in which a ligament is stretched too far or torn
+## visual
+In "Bend and straighten" drag the slider or press the buttons and watch which muscle becomes short and thick and which becomes long and thin. In "Tendon or ligament?" pull both with the same force and compare how far they stretch. Then try "Which muscle?".
+## real
+Watch someone working the handle of a tube-well. Pressing the handle down, the elbows straighten against the load: the triceps are contracting. Lifting the handle up again, the elbows bend: now the biceps take over. The two muscles take turns again and again, just like the two men with the saw. The same is true for a boatman pulling and pushing his oar.
+
+When a chicken drumstick is served, look at its thin end. The white, shiny cords that are so hard to chew are tendons, and you can see how the soft red muscle narrows into them before it reaches the bone. And in almost every football season some player is carried off the field holding an ankle. Very often it is a sprain, a damaged ligament, and it keeps the player out of the game far longer than a tired muscle would.
+## example
+Q: Shanta pulls a rope towards herself, bending her elbows. Then she pushes a stuck door open, straightening her elbows. For each action say which muscle of the upper arm contracts and which relaxes.
+Solution: Decide whether the elbow is bending or straightening against a load.
+Step: Pulling the rope: the elbows bend. The biceps contracts and pulls the radius and ulna towards the humerus. The triceps relaxes and is stretched.
+Step: Pushing the door: the elbows straighten. The triceps contracts and pulls the forearm straight. The biceps relaxes and is stretched.
+Answer: Pulling the rope: biceps contracts, triceps relaxes. Pushing the door: triceps contracts, biceps relaxes. The two muscles are an antagonistic pair.
+> Notice that even "pushing" a door is done by a muscle that is pulling: the triceps pulls on the ulna.
+## example
+Q: A is a cord that joins the calf muscle to the heel bone. Its white fibres run in parallel bundles and it hardly stretches. B is a band that joins the femur to the tibia at the knee. Its fibres are spread like a net, and it stretches a little and springs back. Identify A and B and give the work of each.
+Solution: Use three clues: what is joined, how the fibres are arranged, and the elasticity.
+Step: A joins muscle to bone, has parallel bundles of white fibres and low elasticity. These are the features of a tendon.
+Step: B joins bone to bone, has net-like fibres lying separately and higher elasticity. These are the features of a ligament.
+Answer: A is a tendon: it passes the pull of the calf muscle to the heel bone. B is a ligament: it holds the femur and tibia together at the knee, lets the joint move and stops the bones slipping out of place.
+## example
+Q: The heart of a healthy person at rest beats about 72 times a minute, and every beat is one contraction of the cardiac muscle. How many times does the cardiac muscle contract in one hour, and in one day?
+Given: rate = 72 beats per minute; 1 hour = 60 minutes; 1 day = 24 hours
+Formula: number of beats = rate × time
+Substitution: in one hour = 72 × 60; in one day = 72 × 60 × 24
+Calculation: in one hour = 4320; in one day = 4320 × 24 = 103 680
+Answer: About 4320 times in an hour and about 103 680 times in a day, that is, more than one lakh contractions every day without a rest.
+> Hold a heavy bag with a bent arm and your biceps is tired within minutes. This is what the book means when it says cardiac muscle is of a special kind.
+## example
+Q: Twelve-year-old Nita runs and plays a great deal. One day she twists her ankle while running and it hurts badly. The doctor says that the band joining two bones of her foot has been damaged. (a) What is this band called? (b) Why is it compared with the hinge of a door? (c) Why can she not walk properly now?
+Solution: Recall which tissue joins bone to bone.
+Step: (a) Bones are joined to each other by ligaments, so the damaged band is a ligament. Such an injury is a sprain.
+Step: (b) A hinge holds the door to its frame and still lets the door swing. In the same way a ligament holds two bones firmly together and still lets the joint bend and straighten.
+Step: (c) With the ligament over-stretched or torn, the bones of the ankle are no longer held firmly in place. The joint swells and hurts when it carries weight.
+Answer: (a) A ligament. (b) Like a hinge, it holds two parts together while allowing movement, and keeps the bones from slipping out of place. (c) The damaged ligament cannot hold the ankle bones firmly, so the joint is painful and unsteady until it heals.
+## mistakes
+x Muscles push and pull the bones.
+v A muscle can only pull, by contracting. The return movement is made by the opposite muscle pulling.
+x When the elbow bends, both the biceps and the triceps contract.
+v The biceps contracts and the triceps relaxes. To straighten, the triceps contracts and the biceps relaxes.
+x A relaxed muscle pushes the bone back to its place.
+v A relaxed muscle does nothing; it is stretched by its partner muscle.
+x A tendon joins bone to bone.
+v A tendon joins muscle to bone. A ligament joins bone to bone.
+x A tendon is a very elastic kind of muscle.
+v A tendon is dense white fibrous connective tissue, not muscle, and its elasticity is low.
+x All muscles work at our will.
+v Only voluntary (skeletal) muscles do. Involuntary muscle and cardiac muscle work by themselves.
+## remember
+- Three kinds of muscle: voluntary (on bones), involuntary (inner organs, blood vessels), cardiac (heart).
+- Jobs of the muscular system: movement, placing of organs and balance; shape of the body with the skeleton; storing glycogen; heartbeat and circulation; automatic actions such as moving food along the alimentary canal.
+- A muscle contracts when a nerve impulse reaches it. It can only pull, never push.
+- Muscles on bones work in opposite (antagonistic) pairs.
+- Elbow bends: biceps contracts, triceps relaxes. Elbow straightens: triceps contracts, biceps relaxes.
+- Tendon: muscle to bone; dense white fibrous tissue; unbranched white fibres in parallel bundles; elasticity low; strong but slow to heal.
+- Ligament: bone to bone; white and yellow fibres (elastin), net-like and separate; elasticity comparatively high; fibroblast cells; keeps bones from slipping out of place.
+## think
+Stand on your toes and feel the back of your lower leg: the calf muscle is hard, and it is pulling your heel up through its tendon. Which muscle must contract to lift your toes up again while your heel stays on the ground, and on which side of the leg would you expect to find it?
+## quiz
+? Which muscle contracts when you bend your elbow?
+* Biceps
+- Triceps
+- Cardiac muscle
+- Both biceps and triceps
+= The biceps contracts and pulls the radius and ulna towards the humerus; the triceps relaxes.
+? A tendon joins:
+- bone to bone
+- muscle to muscle
+* muscle to bone
+- cartilage to bone
+= The rope-like end of a muscle that is fixed to a bone is a tendon. Bone is joined to bone by a ligament.
+? The tissue of a tendon is: (i) dense and white fibrous, (ii) highly elastic, (iii) in bundles arranged in parallel. Which is correct?
+- i and ii
+* i and iii
+- ii and iii
+- i, ii and iii
+= A tendon is dense white fibrous tissue with parallel bundles of fibres, but its elasticity is low.
+? The elastic fibres of a ligament are made of a protein called:
+- chondrin
+- glycogen
+- keratin
+* elastin
+= The yellow elastic fibres are made of elastin, which is why a ligament can stretch and spring back.
+? Which muscle is found only in the heart and works without our will?
+- Voluntary muscle
+- Skeletal muscle
+* Cardiac muscle
+- Biceps
+= Cardiac muscle is a special kind of muscle that keeps the heart beating all through life.
+== bn
+## what
+**পেশি** হলো দেহকে নাড়ানোর ইঞ্জিন। পেশি কাজ করে সংকুচিত হয়ে, অর্থাৎ খাটো হয়ে টান দিয়ে। অস্থির গায়ে লাগানো পেশিগুলো বিপরীত জোড়ায় কাজ করে, যেমন হাতের **বাইসেপস** ও **ট্রাইসেপস**। **টেন্ডন** পেশিকে অস্থির সাথে যুক্ত করে, আর **লিগামেন্ট** এক অস্থিকে আরেক অস্থির সাথে যুক্ত করে।
+## simple
+**হাড় নিজে নিজে নড়তে পারে না।** ল্যাবরেটরিতে ঝোলানো কঙ্কাল কখনো একটা আঙুলও তোলে না। জীবিত দেহে যে হাড়ই নড়ুক, তাকে কোনো না কোনো পেশি টানছে। হাড় হলো কাঠামো, অস্থিসন্ধি হলো কবজা, আর পেশি হলো সেই কর্মী, যারা টানার কাজটা করে।
+
+**তিন ধরনের পেশি।** সপ্তম শ্রেণিতে এবং [[2.3.2|প্রাণী টিস্যু]] পাঠে তুমি পেশি সম্পর্কে জেনেছ। পেশিতন্ত্র তিন ধরনের পেশি নিয়ে গঠিত:
+
+| পেশির ধরন | কোথায় থাকে | নিয়ন্ত্রণ |
+| **ঐচ্ছিক পেশি** (কঙ্কাল পেশি) | অস্থির গায়ে লাগানো | আমাদের ইচ্ছায় কাজ করে |
+| **অনৈচ্ছিক পেশি** | অভ্যন্তরীণ অঙ্গ ও রক্তনালির গায়ে | নিজে নিজে কাজ করে, ইচ্ছার অধীন নয় |
+| **হৃৎপেশি** | শুধু হৃৎপিণ্ডে | নিজে নিজে, বিশ্রাম ছাড়া, সারা জীবন কাজ করে |
+
+**পেশিতন্ত্রের কাজ।** তোমার বইয়ে এই কাজগুলোর কথা আছে:
+- অঙ্গপ্রত্যঙ্গ সঞ্চালন, চলাফেরায় সহায়তা, অঙ্গবিন্যাস এবং দেহের ভারসাম্য রক্ষা।
+- কঙ্কালতন্ত্রের সাথে যৌথভাবে দেহের নির্দিষ্ট আকার গঠন।
+- পেশিতে **গ্লাইকোজেন** জমা রাখা, যা ভবিষ্যতে জরুরি প্রয়োজনে শক্তির উৎস হিসেবে কাজে লাগে।
+- হৃৎপেশি বিশেষ বৈশিষ্ট্যের হওয়ায় হৃৎপিণ্ডের স্পন্দন ও রক্ত সঞ্চালন চালু রাখে।
+- মলমূত্র ত্যাগ, পরিপাকনালির মধ্য দিয়ে খাদ্যবস্তুর চলন ইত্যাদি স্বয়ংক্রিয় কাজে পেশি ভূমিকা রাখে।
+
+**পেশি কেবল টানতে পারে।** এই পাঠের সবচেয়ে জরুরি কথা এটিই। স্নায়ু বেয়ে একটি সংকেত (স্নায়ু উদ্দীপনা, দেখো [[10.3|নিউরন ও স্নায়ু উদ্দীপনা]]) পেশিতে পৌঁছালে পেশি **সংকুচিত** হয়: খাটো ও মোটা হয়ে যায়, ফলে যে অস্থিতে লাগানো, তাকে টান দেয়। সংকেত থেমে গেলে পেশি **শিথিল** হয়: নরম হয়ে যায়, তখন তাকে টেনে আবার লম্বা করা যায়। কিন্তু শিথিল পেশি অস্থিকে *ঠেলে* আগের জায়গায় ফেরাতে পারে না। তাই প্রতিটি নড়াচড়ার জন্য উল্টো দিকে আরেকটি পেশি লাগে, যে অস্থিকে টেনে ফিরিয়ে আনবে। একই সন্ধিতে উল্টো কাজ করা এমন দুটি পেশিকে **বিপরীতধর্মী পেশি-জোড়া (antagonistic pair)** বলে (তোমার বই একে পেশির "বিপরীত ক্রিয়া" বলেছে)।
+
+**সেরা উদাহরণ: কনুই ভাঁজ করা ও সোজা করা।**
+- **বাইসেপস** পেশি থাকে ওপরের বাহুর সামনের দিকে। এর ওপরের প্রান্ত স্ক্যাপুলার সাথে আর নিচের প্রান্ত রেডিয়াসের সাথে লাগানো।
+- **ট্রাইসেপস** পেশি থাকে ওপরের বাহুর পেছনের দিকে। এর নিচের প্রান্ত আলনার সাথে, কনুইয়ের ডগায়, লাগানো।
+- **কনুই ভাঁজ করতে:** ইচ্ছাধীন স্নায়ুর তাড়নায় বাইসেপস সংকুচিত হয়। একই সময়ে ট্রাইসেপস শিথিল হয়ে প্রসারিত হয়। বাইসেপস রেডিয়াস ও আলনাকে টেনে হিউমেরাসের কাছে নিয়ে আসে, হাত ভাঁজ হয়।
+- **কনুই সোজা করতে:** ঠিক উল্টোটা ঘটে। ট্রাইসেপস সংকুচিত হয়ে রেডিয়াস ও আলনাকে টেনে হিউমেরাসের সাথে প্রায় এক সরলরেখায় নিয়ে আসে। একই সময়ে বাইসেপস শিথিল হয়ে প্রসারিত হয়।
+
+| কাজ | বাইসেপস | ট্রাইসেপস |
+| কনুই ভাঁজ হয় | সংকুচিত (খাটো, মোটা, শক্ত) | শিথিল (লম্বা, সরু, নরম) |
+| কনুই সোজা হয় | শিথিল (লম্বা, সরু, নরম) | সংকুচিত (খাটো, মোটা, শক্ত) |
+
+> তোমার বই বলেছে, শিথিল পেশি "প্রসারিত হয়"। এর মানে, সঙ্গী পেশি তাকে টেনে লম্বা করে বলে সে লম্বা হয়। পেশি কখনো নিজের জোরে লম্বা হয় না, ঠেলাও দেয় না।
+
+**নিজেই টের পাও।** টেবিলের সামনে বসো। বাঁ হাত দিয়ে ডান হাতের ওপরের বাহু মুঠো করে ধরো। এবার ডান হাতের তালু টেবিলের নিচের তলে রেখে *ওপরের দিকে* চাপ দাও: বাহুর সামনের দিক (বাইসেপস) শক্ত হয়ে উঠবে। এরপর তালু টেবিলের ওপরে রেখে *নিচের দিকে* চাপ দাও: এবার বাহুর পেছন দিক (ট্রাইসেপস) শক্ত হবে, আর সামনের দিক নরম হয়ে যাবে।
+
+**শুধু কনুই নয়।** তোমার বই বলছে, পেশি সংকুচিত হয়ে কোনো অঙ্গকে প্রসারিত করে, কোনো অঙ্গকে ভাঁজ করে, ওপরে ওঠায়, নিচে নামায় বা প্রধান অক্ষের চারপাশে ডানে-বাঁয়ে ঘোরায়। সবখানেই নিয়ম একটাই: পেশিগুলো বিপরীত জোড়ায় বা দলে সাজানো, এক পাশ টানে আর অন্য পাশ ছেড়ে দেয়।
+
+**টেন্ডন: পেশি থেকে অস্থি।** পেশির প্রান্তভাগ দড়ি বা রজ্জুর মতো শক্ত হয়ে অস্থির গায়ে লেগে থাকে। এই শক্ত প্রান্তই **টেন্ডন** (বইয়ে টেনডন বা পেশিবন্ধনীও লেখা আছে)।
+- টেন্ডন **ঘন, শ্বেত তন্তুময় যোজক টিস্যু** দিয়ে গঠিত।
+- এর মাতৃকায় **শাখা-প্রশাখাবিহীন শ্বেততন্তু** ছড়ানো থাকে। তন্তুগুলো **গুচ্ছাকারে** এবং পরস্পর **সমান্তরালভাবে** সাজানো। অনেকগুলো তন্তু মিলে একটি আঁটি (বান্ডিল) হয়, কয়েকটি আঁটি মিলে আঁটিগুচ্ছ হয়, আর আঁটিগুচ্ছগুলো তুলনামূলক ঢিলেঢালা **অ্যারিওলার টিস্যুতে** জড়িয়ে আরও বড় আঁটি তৈরি করে। এই অ্যারিওলার টিস্যু বরাবর রক্তনালি, লসিকানালি ও স্নায়ু টেন্ডনের ভেতরে ঢোকে।
+- টেন্ডনের **স্থিতিস্থাপকতা বেশ কম**। এটি প্রায় লম্বা হয়ই না।
+- পেশি ও টেন্ডনের সংযোগস্থলে টেন্ডনের তন্তুগুলো পেশিতন্তুর আবরণ **সারকোলেমার** সাথে যুক্ত হয়, আর টেন্ডনের আঁটি জড়িয়ে রাখা টিস্যু পেশির আঁটির আবরক টিস্যুর সাথে অবিচ্ছিন্নভাবে মিশে যায়। এতে সংযোগটি খুব মজবুত হয়।
+- টেন্ডন বেশ শক্ত। তোমার বই বলছে, অস্থি বা পেশির তুলনায় টেন্ডনের ভেঙে বা ছিঁড়ে যাওয়ার সম্ভাবনা অনেক কম। তবে কোনোভাবে ছিঁড়ে গেলে সহজে জোড়া লাগে না।
+- **কাজ:** পেশিকে অস্থির সাথে আটকে রাখে এবং পেশির টান অস্থিতে পৌঁছে দেয়; দেহকাঠামো গঠন ও দৃঢ়তা দানে সাহায্য করে; টানের (চাপটান) বিরুদ্ধে প্রতিরোধ গড়ে তোলে।
+
+> তোমার বইয়ের এক জায়গায় টেন্ডনকে "দৃঢ় এবং স্থিতিস্থাপক এক ধরনের পেশি" বলা হয়েছে। কথাটা ভুল বোঝাতে পারে। টেন্ডন পেশি নয়: এটি সংকুচিত হতে পারে না, এটি তন্তুময় যোজক টিস্যু দিয়ে তৈরি, আর বইয়ের টেন্ডন অংশেই বলা আছে যে এর স্থিতিস্থাপকতা কম।
+
+টেন্ডন সহজেই টের পাওয়া যায়। গোড়ালির ঠিক ওপরে পায়ের পেছন দিকটা ধরো: সেখানকার মোটা, শক্ত দড়ির মতো অংশটাই সেই টেন্ডন, যা পায়ের ডিমের পেশিকে গোড়ালির হাড়ের সাথে যুক্ত করেছে। অথবা শক্ত করে মুঠো পাকিয়ে কবজির ভেতরের দিকটা দেখো: যে রগগুলো ফুলে ওঠে, সেগুলো হাত ও আঙুলের দিকে যাওয়া টেন্ডন।
+
+**লিগামেন্ট: অস্থি থেকে অস্থি।** পাতলা কাপড়ের মতো কোমল অথচ দৃঢ়, স্থিতিস্থাপক যে বন্ধনী দিয়ে অস্থিসন্ধিতে অস্থিগুলো পরস্পরের সাথে যুক্ত থাকে, তাকে **লিগামেন্ট** বা **অস্থিবন্ধনী** বলে।
+- লিগামেন্ট **শ্বেততন্তু** ও **পীততন্তু** (হলুদ তন্তু) দিয়ে গঠিত। তোমার বই অনুযায়ী এতে পীতবর্ণের স্থিতিস্থাপক তন্তুর সংখ্যা বেশি।
+- এর সরু, শাখা-প্রশাখাবিশিষ্ট তন্তুগুলো **জালের মতো** ছড়ানো। তন্তুগুলো গুচ্ছাকারে না থেকে **আলাদাভাবে** থাকে।
+- এর **স্থিতিস্থাপকতা তুলনামূলকভাবে বেশি**। স্থিতিস্থাপক তন্তুগুলো **ইলাস্টিন** নামের প্রোটিন দিয়ে তৈরি।
+- তন্তুগুলোর মাঝে **ফাইব্রোব্লাস্ট** নামের কোষ থাকে।
+- **কাজ:** কবজা যেমন পাল্লাকে দরজার কাঠামোর সাথে আটকে রাখে, লিগামেন্ট তেমনি অস্থিকে অস্থির সাথে আটকে রাখে। এতে অঙ্গটি সোজা বা বাঁকা হয়ে নড়াচড়া করতে পারে, অথচ অস্থিগুলো স্থানচ্যুত হয় না।
+
+> খুঁটিয়ে দেখলে হাত-পায়ের বেশির ভাগ লিগামেন্টে মজবুত শ্বেততন্তুই আসলে বেশি থাকে, আর অল্প কিছু লিগামেন্ট, যেমন কশেরুকাগুলোকে যুক্ত করা লিগামেন্ট, প্রধানত পীত স্থিতিস্থাপক তন্তু দিয়ে তৈরি। তোমার জন্য জরুরি কথা: লিগামেন্টে দুই রকম তন্তুই থাকে, আর এটি টেন্ডনের চেয়ে বেশি স্থিতিস্থাপক।
+
+**টেন্ডন ও লিগামেন্টের তুলনা**
+
+| বিষয় | টেন্ডন | লিগামেন্ট |
+| যা যুক্ত করে | পেশিকে অস্থির সাথে | অস্থিকে অস্থির সাথে |
+| গঠন | ঘন শ্বেত তন্তুময় টিস্যু; শাখাবিহীন শ্বেততন্তু সমান্তরাল আঁটিতে সাজানো | শ্বেততন্তু ও পীততন্তু; শাখাযুক্ত তন্তু জালের মতো ছড়ানো, আলাদাভাবে থাকে |
+| স্থিতিস্থাপকতা | বেশ কম | তুলনামূলকভাবে বেশি |
+| কাজ | পেশির টান অস্থিতে পৌঁছে দেয় | সন্ধিতে অস্থিগুলোকে ধরে রাখে, স্থানচ্যুত হতে দেয় না |
+
+**লিগামেন্টে আঘাত লাগলে।** দৌড়ানোর সময় হঠাৎ পা মচকে গেলে গোড়ালির কোনো লিগামেন্ট অতিরিক্ত টান খেতে পারে বা ছিঁড়ে যেতে পারে। একে বলে **মচকানো (sprain)**। সন্ধিটি ফুলে যায়, ব্যথা করে; ব্যথা বা ফোলা বেশি হলে অবশ্যই ডাক্তার দেখাতে হবে।
+## analogy
+ভাবো, দুজন করাতি দুই হাতলের লম্বা করাত দিয়ে গাছের গুঁড়ি কাটছেন। প্রত্যেকে কেবল *টানতে* পারেন; করাতের পাতলা ফলা দিয়ে ঠেলা যায় না। তাই তাঁরা পালা করে কাজ করেন: একজন টানলে অন্যজন হাত ঢিলা করে করাতটাকে যেতে দেন। বাইসেপস আর ট্রাইসেপস হলো ওই দুজন করাতি, আর নিচের বাহু হলো করাত। আবার গরুর সাথে গাড়ি যে দড়িতে বাঁধা, সেটা লম্বা হলে চলে না, নইলে গরু হাঁটা শুরু করলেও গাড়ি নড়বে না। টেন্ডন হলো সেই দড়ি।
+## definition
+**ঐচ্ছিক পেশি (কঙ্কাল পেশি)**: অস্থির গায়ে লাগানো পেশি, যা আমাদের ইচ্ছামতো সংকুচিত হয়।
+
+**অনৈচ্ছিক পেশি**: অভ্যন্তরীণ অঙ্গ ও রক্তনালির গায়ের পেশি, যা আমাদের ইচ্ছার অধীন নয়।
+
+**হৃৎপেশি**: হৃৎপিণ্ডের বিশেষ ধরনের অনৈচ্ছিক পেশি।
+
+**বিপরীতধর্মী পেশি**: একই সন্ধিতে বিপরীত দিকে কাজ করা দুটি পেশি (বা পেশির দল); একটি সংকুচিত হলে অন্যটি শিথিল হয়। উদাহরণ: বাইসেপস ও ট্রাইসেপস।
+
+**টেন্ডন (পেশিবন্ধনী)**: ঘন শ্বেত তন্তুময় যোজক টিস্যু দিয়ে গঠিত, পেশির দড়ির মতো শক্ত প্রান্ত, যা দিয়ে পেশি অস্থির সাথে যুক্ত থাকে।
+
+**লিগামেন্ট (অস্থিবন্ধনী)**: শ্বেততন্তু ও পীততন্তু দিয়ে গঠিত কোমল অথচ দৃঢ়, স্থিতিস্থাপক বন্ধনী, যা অস্থিসন্ধিতে অস্থিকে অস্থির সাথে যুক্ত রাখে।
+## why
+**পেশি কেবল টানতেই পারে কেন?** পেশি হলো লম্বা লম্বা পেশিতন্তুর আঁটি। স্নায়ু উদ্দীপনা পৌঁছালে শ্বসনে পাওয়া শক্তি খরচ করে তন্তুগুলো খাটো হয়। তন্তুর ভেতরে এমন কিছু নেই, যা তাকে জোর করে লম্বা করতে পারে। তাই লম্বা হওয়ার কাজটা সব সময় বাইরে থেকে হয়: সঙ্গী পেশির টানে অথবা অঙ্গের নিজের ওজনে।
+
+**টেন্ডনের লম্বা হওয়া চলে না কেন?** সাইকেলের ব্রেকের তারের কথা ভাবো। লিভার চাপলে তারটি সাথে সাথে টানটা ব্রেকে পৌঁছে দেয়। তারের জায়গায় রাবার ব্যান্ড থাকলে সেটি শুধু লম্বা হতো, সাইকেল থামত না। টেন্ডন হলো পেশি আর অস্থির মাঝের ব্রেকের তার, তাই কম স্থিতিস্থাপকতাই এর দরকার।
+
+**লিগামেন্টের একটু লম্বা হওয়া দরকার কেন?** অস্থিসন্ধিকে খুলতে ও ভাঁজ হতে হয়। যে বন্ধনী একটুও ছাড় দেয় না, সে সন্ধিকে আটকে দিত অথবা প্রথম বড় নড়াচড়াতেই ছিঁড়ে যেত। লিগামেন্ট একটু ছাড় দেয়, তারপর অস্থিগুলোকে টেনে আবার জায়গামতো নিয়ে আসে।
+
+**টেন্ডন ও লিগামেন্ট এত ধীরে সারে কেন?** পেশির তুলনায় এদের রক্তনালি খুব কম। রক্ত কম মানে খাদ্য, অক্সিজেন আর মেরামতের উপকরণ ধীরে পৌঁছায়। টান খাওয়া পেশি সাধারণত কয়েক দিন বা কয়েক সপ্তাহে সেরে ওঠে; ছেঁড়া টেন্ডন বা লিগামেন্টের লাগতে পারে অনেক সপ্তাহ, এমনকি অনেক মাস।
+
+**পেশি গ্লাইকোজেন জমায় কেন?** সংকোচনে শক্তি লাগে, আর দৌড়ানো বা ভার তোলার সময় পেশির শক্তি দরকার হয় খুব দ্রুত। গ্লাইকোজেন হলো এমন মুহূর্তের জন্য পেশির নিজের ভেতরেই জমিয়ে রাখা গ্লুকোজের ভান্ডার।
+## terms
+ঐচ্ছিক পেশি | অস্থিতে লাগানো পেশি, যা ইচ্ছামতো কাজ করে (কঙ্কাল পেশি)
+অনৈচ্ছিক পেশি | অভ্যন্তরীণ অঙ্গ ও রক্তনালির পেশি, যা নিজে নিজে কাজ করে
+হৃৎপেশি | হৃৎপিণ্ডের বিশেষ পেশি
+সংকোচন | পেশির খাটো ও মোটা হয়ে টান দেওয়া
+শিথিল হওয়া | পেশির নরম হয়ে যাওয়া, যাতে তাকে আবার টেনে লম্বা করা যায়
+বিপরীতধর্মী পেশি | একই সন্ধিতে বিপরীত কাজ করা পেশি-জোড়া
+বাইসেপস | ওপরের বাহুর সামনের পেশি; কনুই ভাঁজ করে
+ট্রাইসেপস | ওপরের বাহুর পেছনের পেশি; কনুই সোজা করে
+গ্লাইকোজেন | জরুরি শক্তির জন্য পেশিতে জমা থাকা শর্করা
+টেন্ডন (পেশিবন্ধনী) | পেশিকে অস্থির সাথে যুক্ত করা দড়ির মতো শক্ত বন্ধনী; স্থিতিস্থাপকতা কম
+লিগামেন্ট (অস্থিবন্ধনী) | সন্ধিতে অস্থিকে অস্থির সাথে যুক্ত করা স্থিতিস্থাপক বন্ধনী
+শ্বেততন্তু | মজবুত তন্তু, প্রায় লম্বা হয় না; টেন্ডনের প্রধান তন্তু
+পীততন্তু | ইলাস্টিন প্রোটিন দিয়ে তৈরি স্থিতিস্থাপক তন্তু
+অ্যারিওলার টিস্যু | টেন্ডনের আঁটিগুলোকে জড়িয়ে রাখা ঢিলেঢালা যোজক টিস্যু
+সারকোলেমা | পেশিতন্তুর আবরণ
+ফাইব্রোব্লাস্ট | তন্তুময় যোজক টিস্যুর তন্তুর মাঝে থাকা কোষ
+মচকানো (Sprain) | লিগামেন্ট অতিরিক্ত টান খাওয়া বা ছিঁড়ে যাওয়ার আঘাত
+## visual
+"ভাঁজ ও সোজা"-তে স্লাইডার টানো বা বোতাম চাপো, আর দেখো কোন পেশি খাটো ও মোটা হচ্ছে, কোনটি লম্বা ও সরু হচ্ছে। "টেন্ডন না লিগামেন্ট?"-এ দুটোকেই সমান জোরে টেনে দেখো কোনটি কতটা লম্বা হয়। এরপর "কোন পেশি?" খেলাটি খেলো।
+## real
+কাউকে টিউবওয়েলের হাতল চাপতে দেখো। হাতল নিচে চাপার সময় ভারের বিরুদ্ধে কনুই সোজা হয়: তখন ট্রাইসেপস সংকুচিত হচ্ছে। হাতল আবার ওপরে তোলার সময় কনুই ভাঁজ হয়: এবার দায়িত্ব নেয় বাইসেপস। দুই পেশি বারবার পালা বদল করে, ঠিক ওই দুই করাতির মতো। মাঝি যখন বইঠা টানেন আর ঠেলেন, তখনো একই ব্যাপার ঘটে।
+
+পাতে মুরগির রান এলে তার সরু প্রান্তটা দেখো। যে সাদা, চকচকে রগগুলো চিবোতে এত কষ্ট হয়, সেগুলো টেন্ডন; দেখবে নরম লাল পেশি সরু হয়ে এসে এই টেন্ডন হয়ে হাড়ে গিয়ে লেগেছে। আবার প্রায় প্রতি ফুটবল মৌসুমেই কোনো না কোনো খেলোয়াড়কে গোড়ালি চেপে ধরে মাঠ ছাড়তে দেখা যায়। অনেক সময়ই সেটা মচকানো, অর্থাৎ লিগামেন্টের আঘাত, আর এতে খেলোয়াড়কে মাঠের বাইরে থাকতে হয় ক্লান্ত পেশির চেয়ে অনেক বেশি দিন।
+## example
+প্রশ্ন: শান্তা কনুই ভাঁজ করে একটা দড়ি নিজের দিকে টানল। এরপর কনুই সোজা করে আটকে থাকা একটা দরজা ঠেলে খুলল। প্রতিটি কাজে ওপরের বাহুর কোন পেশি সংকুচিত হয় আর কোনটি শিথিল হয়?
+সমাধান: দেখো, ভারের বিরুদ্ধে কনুই ভাঁজ হচ্ছে, না সোজা হচ্ছে।
+ধাপ: দড়ি টানা: কনুই ভাঁজ হয়। বাইসেপস সংকুচিত হয়ে রেডিয়াস ও আলনাকে হিউমেরাসের দিকে টানে। ট্রাইসেপস শিথিল হয়ে প্রসারিত হয়।
+ধাপ: দরজা ঠেলা: কনুই সোজা হয়। ট্রাইসেপস সংকুচিত হয়ে নিচের বাহুকে টেনে সোজা করে। বাইসেপস শিথিল হয়ে প্রসারিত হয়।
+উত্তর: দড়ি টানায়: বাইসেপস সংকুচিত, ট্রাইসেপস শিথিল। দরজা ঠেলায়: ট্রাইসেপস সংকুচিত, বাইসেপস শিথিল। পেশি দুটি বিপরীতধর্মী জোড়া।
+> খেয়াল করো, দরজা "ঠেলার" কাজটাও করছে এমন একটি পেশি, যে আসলে টানছে: ট্রাইসেপস আলনাকে টানে।
+## example
+প্রশ্ন: ক হলো দড়ির মতো একটি অংশ, যা পায়ের ডিমের পেশিকে গোড়ালির হাড়ের সাথে যুক্ত করে। এর শ্বেততন্তুগুলো সমান্তরাল আঁটিতে সাজানো, আর এটি প্রায় লম্বা হয়ই না। খ হলো একটি বন্ধনী, যা হাঁটুতে ফিমারকে টিবিয়ার সাথে যুক্ত করে। এর তন্তুগুলো জালের মতো ছড়ানো, আর এটি একটু লম্বা হয়ে আবার আগের অবস্থায় ফেরে। ক ও খ শনাক্ত করো এবং প্রতিটির কাজ লেখো।
+সমাধান: তিনটি সূত্র কাজে লাগাও: কী কীসের সাথে যুক্ত, তন্তুর বিন্যাস কেমন, আর স্থিতিস্থাপকতা কতটা।
+ধাপ: ক পেশিকে অস্থির সাথে যুক্ত করে, এতে শ্বেততন্তুর সমান্তরাল আঁটি আছে, স্থিতিস্থাপকতা কম। এগুলো টেন্ডনের বৈশিষ্ট্য।
+ধাপ: খ অস্থিকে অস্থির সাথে যুক্ত করে, এর তন্তু জালের মতো ও আলাদা আলাদা, স্থিতিস্থাপকতা বেশি। এগুলো লিগামেন্টের বৈশিষ্ট্য।
+উত্তর: ক হলো টেন্ডন: এটি পায়ের ডিমের পেশির টান গোড়ালির হাড়ে পৌঁছে দেয়। খ হলো লিগামেন্ট: এটি হাঁটুতে ফিমার ও টিবিয়াকে একসাথে ধরে রাখে, সন্ধিকে নড়তে দেয় এবং অস্থিকে স্থানচ্যুত হতে দেয় না।
+## example
+প্রশ্ন: বিশ্রামে থাকা একজন সুস্থ মানুষের হৃৎপিণ্ড মিনিটে প্রায় ৭২ বার স্পন্দিত হয়, আর প্রতিটি স্পন্দন হৃৎপেশির একটি সংকোচন। এক ঘণ্টায় এবং এক দিনে হৃৎপেশি কতবার সংকুচিত হয়?
+দেওয়া আছে: হার = মিনিটে ৭২ বার; ১ ঘণ্টা = ৬০ মিনিট; ১ দিন = ২৪ ঘণ্টা
+সূত্র: স্পন্দনের সংখ্যা = হার × সময়
+মান বসাই: এক ঘণ্টায় = ৭২ × ৬০; এক দিনে = ৭২ × ৬০ × ২৪
+হিসাব: এক ঘণ্টায় = ৪৩২০; এক দিনে = ৪৩২০ × ২৪ = ১০৩ ৬৮০
+উত্তর: ঘণ্টায় প্রায় ৪৩২০ বার আর দিনে প্রায় ১০৩ ৬৮০ বার, অর্থাৎ বিশ্রাম ছাড়াই প্রতিদিন এক লাখেরও বেশি সংকোচন।
+> কনুই ভাঁজ করে একটা ভারী ব্যাগ ধরে রাখো, কয়েক মিনিটেই বাইসেপস ক্লান্ত হয়ে পড়বে। বই যখন বলে হৃৎপেশি বিশেষ বৈশিষ্ট্যসম্পন্ন, তখন এটাই বোঝায়।
+## example
+প্রশ্ন: ১২ বছরের নীতা খুব দৌড়ঝাঁপ ও খেলাধুলা করে। একদিন দৌড়াতে গিয়ে তার গোড়ালি মচকে গেল, প্রচণ্ড ব্যথা। ডাক্তার বললেন, তার পায়ের দুটি হাড়কে যুক্ত করা বন্ধনীটি ক্ষতিগ্রস্ত হয়েছে। (ক) এই বন্ধনীর নাম কী? (খ) একে দরজার কবজার সাথে তুলনা করা হয় কেন? (গ) এখন সে ঠিকমতো হাঁটতে পারছে না কেন?
+সমাধান: মনে করো, কোন টিস্যু অস্থিকে অস্থির সাথে যুক্ত করে।
+ধাপ: (ক) অস্থি পরস্পরের সাথে যুক্ত থাকে লিগামেন্ট দিয়ে, তাই ক্ষতিগ্রস্ত বন্ধনীটি লিগামেন্ট। এমন আঘাতকে মচকানো বলে।
+ধাপ: (খ) কবজা পাল্লাকে দরজার কাঠামোর সাথে আটকে রাখে, আবার পাল্লাকে খুলতে-বন্ধ হতেও দেয়। একইভাবে লিগামেন্ট দুটি অস্থিকে শক্ত করে ধরে রাখে, আবার সন্ধিকে ভাঁজ ও সোজা হতেও দেয়।
+ধাপ: (গ) লিগামেন্ট অতিরিক্ত টান খেলে বা ছিঁড়ে গেলে গোড়ালির অস্থিগুলো আর শক্তভাবে জায়গামতো থাকে না। ভর দিলে সন্ধি ফুলে যায়, ব্যথা করে।
+উত্তর: (ক) লিগামেন্ট (অস্থিবন্ধনী)। (খ) কবজার মতো এটি দুটি অংশকে একসাথে ধরে রেখেও নড়তে দেয়, আর অস্থিকে স্থানচ্যুত হতে দেয় না। (গ) ক্ষতিগ্রস্ত লিগামেন্ট গোড়ালির অস্থিগুলোকে শক্তভাবে ধরে রাখতে পারছে না, তাই সেরে না ওঠা পর্যন্ত সন্ধিটি ব্যথাযুক্ত ও নড়বড়ে থাকবে।
+## mistakes
+x পেশি হাড়কে ঠেলেও, টানেও।
+v পেশি কেবল সংকুচিত হয়ে টানতে পারে। ফেরার কাজটা করে উল্টো দিকের পেশি, সেও টেনে।
+x কনুই ভাঁজ করার সময় বাইসেপস ও ট্রাইসেপস দুটোই সংকুচিত হয়।
+v বাইসেপস সংকুচিত হয় আর ট্রাইসেপস শিথিল হয়। সোজা করার সময় ট্রাইসেপস সংকুচিত হয়, বাইসেপস শিথিল হয়।
+x শিথিল পেশি হাড়কে ঠেলে আগের জায়গায় ফেরায়।
+v শিথিল পেশি কিছুই করে না; সঙ্গী পেশি তাকে টেনে লম্বা করে।
+x টেন্ডন অস্থিকে অস্থির সাথে যুক্ত করে।
+v টেন্ডন পেশিকে অস্থির সাথে যুক্ত করে। অস্থিকে অস্থির সাথে যুক্ত করে লিগামেন্ট।
+x টেন্ডন খুব স্থিতিস্থাপক এক ধরনের পেশি।
+v টেন্ডন পেশি নয়, ঘন শ্বেত তন্তুময় যোজক টিস্যু; এর স্থিতিস্থাপকতা কম।
+x সব পেশিই আমাদের ইচ্ছামতো কাজ করে।
+v কেবল ঐচ্ছিক (কঙ্কাল) পেশি ইচ্ছামতো কাজ করে। অনৈচ্ছিক পেশি ও হৃৎপেশি নিজে নিজে কাজ করে।
+## remember
+- পেশি তিন ধরনের: ঐচ্ছিক (অস্থির গায়ে), অনৈচ্ছিক (অভ্যন্তরীণ অঙ্গ ও রক্তনালিতে), হৃৎপেশি (হৃৎপিণ্ডে)।
+- পেশিতন্ত্রের কাজ: অঙ্গ সঞ্চালন, অঙ্গবিন্যাস ও ভারসাম্য; কঙ্কালের সাথে মিলে দেহের আকার গঠন; গ্লাইকোজেন সঞ্চয়; হৃৎস্পন্দন ও রক্ত সঞ্চালন; পরিপাকনালিতে খাদ্য চলনের মতো স্বয়ংক্রিয় কাজ।
+- স্নায়ু উদ্দীপনা পৌঁছালে পেশি সংকুচিত হয়। পেশি কেবল টানতে পারে, ঠেলতে পারে না।
+- অস্থির গায়ের পেশি বিপরীত (বিপরীতধর্মী) জোড়ায় কাজ করে।
+- কনুই ভাঁজ: বাইসেপস সংকুচিত, ট্রাইসেপস শিথিল। কনুই সোজা: ট্রাইসেপস সংকুচিত, বাইসেপস শিথিল।
+- টেন্ডন: পেশি থেকে অস্থি; ঘন শ্বেত তন্তুময় টিস্যু; শাখাবিহীন শ্বেততন্তুর সমান্তরাল আঁটি; স্থিতিস্থাপকতা কম; মজবুত, তবে ছিঁড়লে সহজে জোড়া লাগে না।
+- লিগামেন্ট: অস্থি থেকে অস্থি; শ্বেততন্তু ও পীততন্তু (ইলাস্টিন), জালের মতো ও আলাদা; স্থিতিস্থাপকতা তুলনামূলক বেশি; ফাইব্রোব্লাস্ট কোষ থাকে; অস্থিকে স্থানচ্যুত হতে দেয় না।
+## think
+পায়ের আঙুলে ভর দিয়ে দাঁড়াও আর পায়ের পেছন দিকটা ছুঁয়ে দেখো: পায়ের ডিমের পেশি শক্ত হয়ে আছে, আর সে তার টেন্ডন দিয়ে গোড়ালিকে ওপরে টানছে। গোড়ালি মাটিতে রেখে পায়ের পাতার সামনের দিক ওপরে তুলতে হলে কোন পেশিকে সংকুচিত হতে হবে, আর পায়ের কোন পাশে সেটি থাকার কথা?
+## quiz
+? কনুই ভাঁজ করার সময় কোন পেশি সংকুচিত হয়?
+* বাইসেপস
+- ট্রাইসেপস
+- হৃৎপেশি
+- বাইসেপস ও ট্রাইসেপস দুটোই
+= বাইসেপস সংকুচিত হয়ে রেডিয়াস ও আলনাকে হিউমেরাসের দিকে টানে; ট্রাইসেপস তখন শিথিল থাকে।
+? টেন্ডন কী কীসের সাথে যুক্ত করে?
+- অস্থিকে অস্থির সাথে
+- পেশিকে পেশির সাথে
+* পেশিকে অস্থির সাথে
+- তরুণাস্থিকে অস্থির সাথে
+= পেশির যে দড়ির মতো শক্ত প্রান্ত অস্থিতে লেগে থাকে, সেটিই টেন্ডন। অস্থিকে অস্থির সাথে যুক্ত করে লিগামেন্ট।
+? টেন্ডনের টিস্যু হচ্ছে: (i) ঘন ও সাদা তন্তুময়, (ii) স্থিতিস্থাপকতা বেশি, (iii) গুচ্ছাকার ও সমান্তরালে বিন্যস্ত। কোনটি সঠিক?
+- i ও ii
+* i ও iii
+- ii ও iii
+- i, ii ও iii
+= টেন্ডন ঘন শ্বেত তন্তুময় টিস্যু, এর তন্তু সমান্তরাল আঁটিতে সাজানো, কিন্তু স্থিতিস্থাপকতা কম।
+? লিগামেন্টের স্থিতিস্থাপক তন্তু কোন প্রোটিন দিয়ে তৈরি?
+- কন্ড্রিন
+- গ্লাইকোজেন
+- কেরাটিন
+* ইলাস্টিন
+= পীত স্থিতিস্থাপক তন্তু ইলাস্টিন দিয়ে তৈরি, তাই লিগামেন্ট লম্বা হয়ে আবার আগের অবস্থায় ফিরতে পারে।
+? কোন পেশি শুধু হৃৎপিণ্ডে থাকে এবং আমাদের ইচ্ছা ছাড়াই কাজ করে?
+- ঐচ্ছিক পেশি
+- কঙ্কাল পেশি
+* হৃৎপেশি
+- বাইসেপস
+= হৃৎপেশি বিশেষ ধরনের পেশি, যা সারা জীবন হৃৎপিণ্ডের স্পন্দন চালু রাখে।
+
+@@ 9.3
+@visual b9bonecare
+@related 9.1.2 5.3 5.6 6.4.6
+== en
+## what
+In **osteoporosis** the bones lose calcium, become thin and full of pores inside, and break easily. **Rheumatoid arthritis** is one of the many kinds of arthritis, in which the joints become swollen, painful and stiff. Both are seen mostly in older people, and good food, sunlight and regular exercise from a young age are the best protection.
+## simple
+**Your bones are like a savings account.** You learned in [[9.1.2|bone, cartilage and joints]] that old bone is worn away and new bone is built all through life. Think of new bone as money put *into* an account and worn-away bone as money taken *out*.
+- In childhood and youth more goes in than comes out. The bones grow longer, thicker and denser. They are at their strongest when a person is about 25 to 30 years old.
+- After that the two are balanced for some years, and then, slowly, more comes out than goes in.
+- A person who built strong bones when young has plenty in the account for old age. A person who built little, or who loses bone fast, may end up with bones too thin to carry the body safely.
+
+That last condition is the first disease of this lesson.
+
+**(a) Osteoporosis**
+
+The name means "porous bone". Calcium is an important ingredient for building bone and making it firm, and food rich in vitamins and calcium is needed for bones to grow. Your book calls osteoporosis a disease caused by **lack of calcium**.
+
+- **Who gets it?** Usually elderly men and women. The risk is higher for elderly men who have taken medicines containing **steroids** for a long time; for women after **menopause** (the time, usually between the ages of 45 and 55, when a woman's monthly periods stop for good); for people who lead an idle life or do very little physical work; and for people who have suffered from arthritis for a long time.
+- **Cause.** The disease comes from a shortage of mineral salts in the body, especially **calcium**. In women the density and thickness of the bones start to fall after menopause.
+- **Symptoms.** The bones become brittle and their density falls; the strength of the muscles falls; pain is felt in the back; pain is felt in the bones.
+- **Diagnosis.** The mineral density of the bone is measured with a special density-measuring machine. In the early stage there are hardly any signs at all. Then, suddenly, the hip or some other bone breaks after only a slight knock or fall.
+- **Remedy.** Men and women over fifty should take **1200 milligrams of calcium a day** (or whatever amount the doctor advises); take skimmed milk and milk products; and have orange juice, green leafy vegetables, soya products and other calcium-rich food.
+- **Prevention.** Get enough sunlight. Eat food rich in calcium and vitamin D. Exercise regularly (a person who already has osteoporosis must ask a doctor before starting exercise). Eat balanced food with plenty of fibre.
+
+> The risk from steroids is about using such medicines for a long time. A medicine that a registered doctor has prescribed must never be stopped on one's own; the doctor weighs the benefit against the risk. (You met a warning about steroids given by untrained healers in [[7.3|diseases of the respiratory system]].)
+
+> Why after menopause? Before it, a woman's body makes more of a hormone that slows down the loss of bone. After menopause there is much less of this hormone, so bone is lost faster. Your book mentions the fact but not this reason.
+
+**Calcium on a Bangladeshi plate.** Milk, yogurt and other milk products; small fish eaten with their bones, such as *mola*, *dhela* and *kachki*; green leafy vegetables; pulses and soya. For vitamin D, sunlight on the skin is the main source, and egg yolk and oily fish add a little.
+
+**(b) Rheumatoid arthritis**
+
+**Arthritis** means inflammation of a joint. There are more than a hundred kinds of arthritis, and **rheumatoid arthritis** is one of them.
+
+- **Who gets it?** Your book says it usually attacks older people. In boys and girls, pain in the joints may instead be a sign of another disease such as **rheumatic fever** (see [[6.4.6|leukaemia and circulatory diseases]]).
+- **Why a doctor is essential.** The treatment is different for different kinds of joint disease. Two people may have two quite different joint diseases and yet show almost the same signs; they then need two different treatments. So joint pain must not be treated without consulting a specialist doctor, and a treatment that has been started must not be stopped without the doctor's advice. Otherwise it may do more harm than good.
+- **Symptoms.** Inflammation and pain in the joints; the joints become stiff; it hurts to move them; the joints swell.
+- **Remedy.** In elderly people the disease cannot be cured completely, but these steps give some relief: avoid too much hard work and heavy lifting; apply gentle, lukewarm warmth to the painful joint; do light exercise to keep the joint moving; take pain-relieving medicine and proper treatment as the doctor advises.
+- **Prevention.** Exercise regularly in the way the doctor advises. Eat balanced food with plenty of fibre.
+
+> Your book does not give the cause. Doctors explain it like this: the body's own defence system, by mistake, attacks the thin lining inside the joints. The lining swells, and over the years the cartilage and the bone ends can be damaged. It is not caused by a germ and does not spread from one person to another.
+
+> The book says the disease usually comes in old age. It is indeed common among older people, but doctors find that it often begins in middle age and sometimes earlier. So joint pain and swelling that last for weeks should be shown to a doctor at any age.
+
+**The two diseases side by side**
+
+| Point | Osteoporosis | Rheumatoid arthritis |
+| What is affected | the bones | the joints |
+| What goes wrong | bone loses calcium; density and thickness fall | the joint becomes inflamed |
+| Main signs | brittle bones, back pain, bone pain, weaker muscles; often no sign until a bone breaks | painful, swollen, stiff joints; pain on moving |
+| How it is found | measuring bone density | a doctor's examination |
+| Relief | calcium (1200 mg a day after fifty, or as advised), milk products, leafy vegetables, soya | rest from heavy work, lukewarm warmth, light exercise, medicine as advised |
+| Prevention | sunlight, calcium and vitamin D in food, regular exercise, balanced food with fibre | regular exercise as advised, balanced food with fibre |
+
+**What you can do now.** At your age you are still paying into your bone account, and you will not get this chance again later. Drink milk or eat yogurt when you can, eat small fish and leafy vegetables, play outdoors in the sunlight, and keep your body active (see [[5.6|exercise and rest]]). And look after the elders at home: back pain that does not go away, or a bone that breaks after a small fall, is a reason to see a doctor.
+## analogy
+Think of an old wooden house. One of its posts has been eaten from inside by wood-boring insects. From outside it looks the same as ever, until one day a small push snaps it. That post is a bone with osteoporosis. On the same house a door hinge has rusted: it is swollen with rust, it creaks, and it hurts the hand to force it open. That hinge is a joint with arthritis. One is a problem of the post, the other a problem of the hinge.
+## definition
+**Osteoporosis**: a disease caused by lack of mineral salts, especially calcium, in which the density and thickness of the bones fall and the bones become brittle.
+
+**Arthritis**: inflammation of a joint.
+
+**Rheumatoid arthritis**: one of the many kinds of arthritis, in which the joints become inflamed, painful, swollen and stiff.
+
+**Menopause**: the permanent stopping of a woman's monthly periods.
+
+**Bone density**: the amount of mineral matter packed into a given amount of bone; the lower it is, the weaker the bone.
+## why
+**Why does osteoporosis give no warning?** Losing bone does not hurt, and the outside shape of the bone does not change. Only the inside becomes thinner and more full of holes. So the first sign is very often a broken bone. That is why the book stresses measuring bone density, and why prevention matters so much.
+
+**Why does an idle life weaken bones?** Bone is living tissue, and it builds itself up where it is used. Walking, running, skipping and carrying loads press and pull on the bones, and the bones answer by becoming denser. An arm or leg kept in plaster for many weeks comes out thinner and weaker, because for all those weeks it was not used.
+
+**Why sunlight for a disease of calcium?** Without vitamin D the intestine cannot take up calcium well, however much calcium there is in the food. And the body makes vitamin D when sunlight falls on the skin.
+
+**Why can the same joint pain need different treatments?** Because the same sign can have quite different causes. In rheumatic fever the trouble follows a throat infection by bacteria. In rheumatoid arthritis the body's defence system attacks the joint lining. In osteoporosis the bones themselves are thin. A medicine that helps one of these may do nothing for another, or may even harm. Only a doctor's examination can tell them apart.
+
+**Why light exercise for a painful joint?** A joint that is never moved becomes stiffer still, and the muscles around it grow weak. Gentle movement keeps the joint working. Heavy work, on the other hand, strains a joint that is already inflamed. This is why your book advises both: avoid heavy labour, and do light exercise.
+## terms
+Osteoporosis | Disease in which bones lose calcium and become thin and brittle
+Bone density | How much mineral matter is packed into the bone
+Menopause | The permanent stopping of a woman's monthly periods
+Steroid | A group of strong medicines; long use can weaken bones
+Fracture | A break in a bone
+Arthritis | Inflammation of a joint; there are more than a hundred kinds
+Rheumatoid arthritis | A kind of arthritis with painful, swollen, stiff joints
+Inflammation | Redness, swelling, heat and pain in a part of the body as it reacts to harm
+Rheumatic fever | A different disease, usually of children, that follows a throat infection and can harm the heart
+Skimmed milk | Milk from which the cream (fat) has been removed
+Balanced diet | Food that supplies all the nutrients in the right amounts
+Fibre | The part of plant food that is not digested; it keeps the bowels healthy
+## visual
+In "Bone bank" move the age slider and switch the habits on and off to see how the strength of the bones changes over a lifetime. In "Healthy or diseased?" compare a healthy bone and joint with diseased ones. Then try "Which disease?" and decide from the clues.
+## real
+Almost every family knows the story: a grandmother slips on a wet bathroom floor, a fall that a child would get up from laughing, and her hip bone breaks. Nobody knew that her bones had been getting thinner for twenty years. Some elderly people also become a little shorter and bent in the back, because the weakened vertebrae are slowly pressed together.
+
+Our own kitchens hold good protection. A plate of small fish cooked whole, a bowl of leafy vegetables and a cup of yogurt bring plenty of calcium, and an hour of play in the afternoon sun does the rest. Your book asks you to do a small survey: talk to women over fifty in your area about their food and daily habits, and try to find out why osteoporosis and arthritis appear among them. It is a good way to see this lesson in real life.
+## example
+Q: Rahela Begum, aged 60, has pain in the joints of her hands and feet. Her elder sister Habiba Begum has such pain in her neck and back that she can hardly do any work, and the doctor has said that her bones have become brittle from lack of calcium. (a) Which disease does each sister have? (b) Which of these help to prevent Habiba Begum's disease: an ice pack on the painful place, regular sunlight, eating vegetables, fruit, milk, eggs and fish?
+Solution: Decide for each sister whether the joints or the bones are affected.
+Step: (a) Rahela Begum: pain in the joints of an elderly person points to rheumatoid arthritis. Habiba Begum: brittle bones from lack of calcium, with back pain, is osteoporosis.
+Step: (b) The book's ways of preventing osteoporosis are sunlight, food rich in calcium and vitamin D, regular exercise and balanced, fibre-rich food.
+Step: Regular sunlight is on that list, and vegetables, fruit, milk, eggs and fish give calcium, vitamin D and a balanced diet. An ice pack is not a way of preventing osteoporosis.
+Answer: (a) Rahela Begum has rheumatoid arthritis; Habiba Begum has osteoporosis. (b) Regular sunlight and the foods listed help to prevent it; the ice pack does not.
+> Only a doctor can make the real diagnosis. In the exam you identify the disease from the signs given in your book.
+## example
+Q: A doctor has advised a 55-year-old man to take 1200 mg of calcium a day. Suppose that in one day his food gives him roughly this much calcium: one glass of milk 300 mg, one bowl of yogurt 200 mg, a serving of small fish eaten with bones 350 mg and a serving of leafy vegetables 150 mg. How much calcium does he get, how much is he short, and what percentage of his target has he reached?
+Given: target = 1200 mg; milk = 300 mg; yogurt = 200 mg; small fish = 350 mg; leafy vegetables = 150 mg
+Formula: total = sum of all sources; shortfall = target − total; percentage = total ÷ target × 100
+Substitution: total = 300 + 200 + 350 + 150; percentage = 1000 ÷ 1200 × 100
+Calculation: total = 1000 mg; shortfall = 1200 − 1000 = 200 mg; percentage = 83.3%
+Answer: He gets about 1000 mg, which is about 83% of the target, and is short by about 200 mg. One more calcium-rich item in the day would cover it.
+Unit: mg
+> The amounts for the foods are round figures chosen for the sum; real foods vary. How much calcium a person needs, and whether tablets are needed, is for the doctor to decide.
+## example
+Q: Ten-year-old Tuhin had a sore throat and fever some weeks ago; now his knees and ankles are painful and swollen. Sixty-two-year-old Mr Alam has had swollen, stiff, painful finger joints for many months. A neighbour says, "Both have joint pain, so give both the same medicine." Is the neighbour right?
+Solution: The same sign can come from different diseases.
+Step: Tuhin: joint pain in a child after a throat infection points towards rheumatic fever, a disease that follows infection by *Streptococcus* bacteria and can damage the heart.
+Step: Mr Alam: long-lasting pain, swelling and stiffness in the joints of an older person points towards rheumatoid arthritis.
+Step: The causes are different, so the treatments are different. Your book says clearly that two people with similar signs may need different treatment and that joint disease must not be treated without a specialist doctor.
+Answer: The neighbour is wrong. The two probably have different diseases, rheumatic fever and rheumatoid arthritis, which need different treatments. Each must be examined by a doctor; sharing medicine may do more harm than good.
+## example
+Q: Three people live in one house. A is a 15-year-old girl who plays outdoors every afternoon and takes milk and small fish regularly. B is a 58-year-old woman, past menopause, who stays indoors almost all day and does very little physical work. C is a 66-year-old man who has taken steroid medicines for many years. Who is at higher risk of osteoporosis, and what does your book advise them?
+Solution: Compare each person with the book's list of those at risk.
+Step: A is young, active, gets sunlight and eats calcium-rich food. She is building strong bones; her risk is low.
+Step: B fits three points on the list: an elderly woman after menopause, an idle life, and little sunlight (so less vitamin D).
+Step: C fits one point exactly: an elderly man who has used steroid medicines for a long time.
+Step: Advice from the book: enough sunlight, food rich in calcium and vitamin D (after fifty, 1200 mg of calcium a day or as the doctor advises), regular exercise, and balanced, fibre-rich food.
+Answer: B and C are at higher risk. They should get sunlight, eat calcium- and vitamin D-rich food and exercise regularly, and it is wise for them to see a doctor, who may have their bone density measured. C must not stop his medicine on his own but should ask his doctor.
+## mistakes
+x Osteoporosis and arthritis are the same disease.
+v Osteoporosis is a disease of the bones (they become thin and brittle). Arthritis is a disease of the joints (they become inflamed).
+x Osteoporosis always gives pain from the beginning, so a person will know in time.
+v In the early stage there are hardly any signs. Often the first sign is a bone that breaks after a slight knock.
+x Only women get osteoporosis.
+v Men get it too. The risk is higher in women after menopause and in elderly men who have used steroid medicines for a long time.
+x A person with painful joints should stop moving altogether.
+v Heavy work should be avoided, but light exercise as the doctor advises keeps the joint moving.
+x Rheumatoid arthritis and rheumatic fever are the same thing.
+v They are different diseases. Rheumatic fever follows a bacterial throat infection, usually in children, and can harm the heart.
+x Joint pain can be treated with whatever painkiller a neighbour or a shop suggests.
+v Different joint diseases need different treatments. Treatment without a doctor's advice may do more harm than good.
+x Looking after bones is a matter for old people.
+v Bones are built up in childhood and youth. Calcium, sunlight and exercise now are the savings for old age.
+## remember
+- Osteoporosis: caused by lack of mineral salts, especially calcium; bone density and thickness fall; bones become brittle.
+- Higher risk: elderly people; women after menopause; elderly men on steroid medicines for a long time; idle life; long-standing arthritis.
+- Symptoms: brittle bones, weaker muscles, back pain, bone pain. Early stage: hardly any signs; a bone may break suddenly. Diagnosis: measuring bone density.
+- Remedy: after fifty, 1200 mg of calcium a day or as the doctor advises; skimmed milk and milk products; orange juice, green leafy vegetables, soya, calcium-rich food.
+- Prevention: sunlight; calcium and vitamin D in food; regular exercise; balanced, fibre-rich food.
+- Rheumatoid arthritis: one of more than a hundred kinds of arthritis; mostly in older people. Symptoms: inflamed, painful, swollen, stiff joints.
+- Relief: avoid heavy work; lukewarm warmth on the joint; light exercise; medicine as the doctor advises. Not fully curable in the elderly. Prevention: regular exercise as advised; balanced, fibre-rich food.
+- Joint pain in children may be a sign of rheumatic fever. Never treat joint disease without a doctor.
+## think
+Two friends are both 14. One spends her afternoons playing outdoors and eats whatever fish and vegetables are cooked at home. The other stays indoors with a phone and lives mostly on fried snacks and soft drinks. Neither of them has any trouble today. What difference would you expect in their bones when both are 60, and why can it not simply be corrected at that age?
+## quiz
+? Osteoporosis is caused mainly by the lack of:
+- iron
+- iodine
+* calcium
+- vitamin C
+= The disease comes from a shortage of mineral salts, especially calcium, which makes the bones thin and brittle.
+? Which of these is NOT a symptom of rheumatoid arthritis?
+- The joints swell
+- The joints become stiff
+- The joints are painful
+* The bones become thin and brittle
+= Thin, brittle bones are the sign of osteoporosis. Rheumatoid arthritis affects the joints.
+? According to your book, how much calcium should men and women over fifty take daily (unless the doctor advises otherwise)?
+- 120 mg
+* 1200 mg
+- 2100 mg
+- 12 000 mg
+= The book gives 1200 milligrams a day, or the amount a doctor advises.
+? Ways to prevent osteoporosis are: (i) putting an ice pack on the painful place, (ii) getting sunlight regularly, (iii) eating vegetables, fruit, milk, eggs and fish. Which is correct?
+- i and ii
+- i and iii
+* ii and iii
+- i, ii and iii
+= Sunlight (for vitamin D) and calcium-rich, balanced food prevent it. An ice pack is not a way of prevention.
+? How is osteoporosis diagnosed?
+- By testing the urine
+* By measuring the density of the bone
+- By counting the heartbeat
+- By testing the sputum
+= The mineral density of the bone is measured with a density-measuring machine, because the early stage shows hardly any signs.
+== bn
+## what
+**অস্টিওপোরোসিস** রোগে অস্থি থেকে ক্যালসিয়াম কমে যায়, অস্থি ভেতরে ভেতরে পাতলা ও ছিদ্রবহুল হয়ে পড়ে এবং সহজে ভেঙে যায়। **রিউমাটয়েড আর্থ্রাইটিস** অনেক রকম আর্থ্রাইটিসের (বাতরোগের) একটি; এতে অস্থিসন্ধি ফুলে যায়, ব্যথা করে আর শক্ত হয়ে যায়। দুটোই বেশি দেখা যায় বয়স্কদের মধ্যে, আর ছোটবেলা থেকে ভালো খাবার, সূর্যের আলো ও নিয়মিত ব্যায়ামই সবচেয়ে ভালো সুরক্ষা।
+## simple
+**তোমার হাড় একটা সঞ্চয়ী হিসাবের মতো।** [[9.1.2|অস্থি, তরুণাস্থি ও অস্থিসন্ধি]] পাঠে জেনেছ, সারা জীবনই পুরোনো অস্থি ক্ষয় হয় আর নতুন অস্থি তৈরি হয়। নতুন অস্থিকে ভাবো হিসাবে টাকা *জমা* দেওয়া, আর ক্ষয়ে যাওয়া অস্থিকে ভাবো টাকা *তোলা*।
+- শৈশব ও তারুণ্যে যা তোলা হয় তার চেয়ে জমা হয় বেশি। হাড় লম্বা হয়, মোটা হয়, ঘন হয়। মোটামুটি ২৫ থেকে ৩০ বছর বয়সে হাড় সবচেয়ে মজবুত থাকে।
+- এরপর কয়েক বছর জমা আর তোলা সমান সমান থাকে, তারপর ধীরে ধীরে জমার চেয়ে তোলা বেশি হতে থাকে।
+- যে মানুষ তরুণ বয়সে মজবুত হাড় গড়ে নিয়েছে, বুড়ো বয়সের জন্য তার হিসাবে অনেক জমা থাকে। যে কম গড়েছে, বা যার হাড় দ্রুত ক্ষয় হয়, তার হাড় শেষে এত পাতলা হয়ে যেতে পারে যে দেহের ভার নিরাপদে বইতে পারে না।
+
+শেষের এই অবস্থাই এই পাঠের প্রথম রোগ।
+
+**(ক) অস্টিওপোরোসিস (Osteoporosis)**
+
+নামটির অর্থ "ছিদ্রবহুল অস্থি"। অস্থির গঠন ও দৃঢ়তার জন্য ক্যালসিয়াম একটি গুরুত্বপূর্ণ উপাদান, আর অস্থির বৃদ্ধির জন্য চাই ভিটামিন ও ক্যালসিয়াম-সমৃদ্ধ খাদ্য। তোমার বই অস্টিওপোরোসিসকে **ক্যালসিয়ামের অভাবজনিত** রোগ বলেছে।
+
+- **কাদের হয়?** সাধারণত বয়স্ক পুরুষ ও নারীদের। আশঙ্কা বেশি থাকে যেসব বয়স্ক পুরুষ বহুদিন ধরে **স্টেরয়েডযুক্ত** ঔষধ সেবন করছেন তাঁদের; নারীদের **মেনোপজ** বা রজোনিবৃত্তির পর (সাধারণত ৪৫ থেকে ৫৫ বছর বয়সের মধ্যে মাসিক চিরতরে বন্ধ হয়ে যাওয়া); যাঁরা অলস জীবন যাপন করেন বা কায়িক পরিশ্রম খুব কম করেন তাঁদের; এবং যাঁরা অনেক দিন ধরে আর্থ্রাইটিসে ভুগছেন তাঁদের।
+- **কারণ।** দেহে খনিজ লবণ, বিশেষ করে **ক্যালসিয়ামের** ঘাটতির কারণে এ রোগ হয়। নারীদের মেনোপজের পর অস্থির ঘনত্ব ও পুরুত্ব কমতে থাকে।
+- **লক্ষণ।** অস্থি ভঙ্গুর হয়ে যায়, ঘনত্ব কমতে থাকে; পেশির শক্তি কমতে থাকে; পিঠের পেছন দিকে ব্যথা হয়; অস্থিতে ব্যথা হয়।
+- **রোগ নির্ণয়।** বিশেষ ঘনত্বমাপক যন্ত্র দিয়ে অস্থির খনিজ পদার্থের ঘনত্ব মেপে রোগটি নির্ণয় করা হয়। রোগের প্রাথমিক অবস্থায় তেমন কোনো উপসর্গই দেখা দেয় না। তারপর হঠাৎ একদিন সামান্য আঘাতে বা পড়ে গিয়ে কোমরের বা অন্য কোনো হাড় ভেঙে যায়।
+- **প্রতিকার।** পঞ্চাশোর্ধ্ব পুরুষ ও নারীদের দৈনিক **১২০০ মিলিগ্রাম ক্যালসিয়াম** (বা চিকিৎসক নির্দেশিত অন্য কোনো পরিমাণ) গ্রহণ করা; ননিতোলা দুধ ও দুগ্ধজাত খাবার খাওয়া; কমলার রস, সবুজ শাকসবজি, সয়াজাত খাবার ও ক্যালসিয়াম-সমৃদ্ধ অন্যান্য খাবার খাওয়া।
+- **প্রতিরোধ।** যথেষ্ট পরিমাণে সূর্যালোকের সংস্পর্শে আসা। ক্যালসিয়াম ও ভিটামিন ডি-সমৃদ্ধ খাদ্য গ্রহণ করা। নিয়মিত ব্যায়াম করা (কেউ আগে থেকেই অস্টিওপোরোসিসে আক্রান্ত হলে ব্যায়াম শুরুর আগে চিকিৎসকের পরামর্শ নিতে হবে)। সুষম ও আঁশযুক্ত খাবার খাওয়া।
+
+> স্টেরয়েডের ঝুঁকিটা হলো এ ধরনের ঔষধ দীর্ঘদিন ব্যবহারের। নিবন্ধিত চিকিৎসক যে ঔষধ দিয়েছেন, তা কখনো নিজে থেকে বন্ধ করা যাবে না; চিকিৎসক উপকার আর ঝুঁকি দুটো মিলিয়েই সিদ্ধান্ত নেন। ([[7.3|শ্বসনতন্ত্রের রোগ]] পাঠে হাতুড়ে চিকিৎসকের দেওয়া স্টেরয়েড নিয়ে একটি সতর্কতা পড়েছ।)
+
+> মেনোপজের পরেই কেন? এর আগে নারীর দেহে এমন একটি হরমোন বেশি তৈরি হয়, যা হাড়ের ক্ষয় ধীর রাখে। মেনোপজের পর এই হরমোন অনেক কমে যায়, তাই হাড় দ্রুত ক্ষয় হয়। তোমার বইয়ে তথ্যটি আছে, কারণটি নেই।
+
+**আমাদের পাতে ক্যালসিয়াম।** দুধ, দই ও অন্যান্য দুগ্ধজাত খাবার; কাঁটাসহ খাওয়া ছোট মাছ, যেমন মলা, ঢেলা, কাচকি; সবুজ শাক; ডাল ও সয়াবিন। ভিটামিন ডি-এর প্রধান উৎস ত্বকে পড়া সূর্যের আলো; ডিমের কুসুম আর তেলযুক্ত মাছ থেকেও কিছুটা পাওয়া যায়।
+
+**(খ) রিউমাটয়েড আর্থ্রাইটিস (Rheumatoid arthritis)**
+
+**আর্থ্রাইটিস** মানে অস্থিসন্ধির প্রদাহ, চলতি কথায় বাতরোগ। শতাধিক রকমের বাতরোগ আছে, **রিউমাটয়েড আর্থ্রাইটিস** তার একটি। তোমার বইয়ে একে গেঁটে বাতও বলা হয়েছে।
+
+- **কাদের হয়?** তোমার বই বলছে, সাধারণত বয়স্করা এ রোগে আক্রান্ত হন। কম বয়সী ছেলেমেয়েদের গিঁটে ব্যথা হলে তা **বাতজ্বর (রিউমেটিক ফিভার)** জাতীয় অন্য রোগের লক্ষণ হতে পারে (দেখো [[6.4.6|লিউকেমিয়া ও রক্ত সংবহনতন্ত্রের রোগ]])।
+- **চিকিৎসক কেন জরুরি।** অস্থিসন্ধির অসুখ কোন ধরনের, সে অনুযায়ী চিকিৎসা আলাদা হয়। দুজন মানুষ দুটি সম্পূর্ণ ভিন্ন সন্ধির অসুখে আক্রান্ত হয়েও আপাতদৃষ্টিতে প্রায় একই রকম লক্ষণ দেখাতে পারেন; তখন দুজনের দুই রকম চিকিৎসা দরকার। তাই বিশেষজ্ঞ চিকিৎসকের পরামর্শ ছাড়া বাতের চিকিৎসা করা উচিত নয়, আর শুরু করা চিকিৎসা চিকিৎসকের পরামর্শ ছাড়া বন্ধ করাও উচিত নয়। নইলে উপকারের চেয়ে অপকার বেশি হতে পারে।
+- **লক্ষণ।** অস্থিসন্ধি বা গিঁটে প্রদাহ ও ব্যথা হয়; অস্থিসন্ধি শক্ত হয়ে যায়; নাড়াতে গেলে ব্যথা লাগে; গিঁট ফুলে যায়।
+- **প্রতিকার।** বয়স্কদের বেলায় এ রোগ পুরোপুরি সারানো যায় না, তবে এই ব্যবস্থাগুলো নিলে কিছুটা উপশম হয়: অত্যধিক পরিশ্রম ও ভারী কাজ থেকে বিরত থাকা; ব্যথার গিঁটে কুসুম গরম সেঁক নেওয়া; অস্থিসন্ধির নড়াচড়া ঠিক রাখতে হালকা ব্যায়াম করা; চিকিৎসকের পরামর্শ অনুযায়ী বেদনা উপশমকারী ঔষধ সেবন ও সঠিক চিকিৎসা নেওয়া।
+- **প্রতিরোধ।** চিকিৎসকের নির্দেশিত পদ্ধতিতে নিয়মিত ব্যায়াম করা। সুষম ও আঁশযুক্ত খাদ্য গ্রহণ করা।
+
+> তোমার বইয়ে রোগটির কারণ দেওয়া নেই। চিকিৎসকেরা ব্যাপারটা এভাবে ব্যাখ্যা করেন: দেহের নিজের প্রতিরক্ষাব্যবস্থা ভুল করে অস্থিসন্ধির ভেতরের পাতলা আবরণকে আক্রমণ করে। আবরণটি ফুলে ওঠে, আর বছরের পর বছর ধরে তরুণাস্থি ও অস্থির প্রান্ত ক্ষতিগ্রস্ত হতে পারে। এটি কোনো জীবাণুঘটিত রোগ নয়, একজন থেকে আরেকজনে ছড়ায়ও না।
+
+> বই বলছে রোগটি সাধারণত বেশি বয়সে হয়। বয়স্কদের মধ্যে এটি সত্যিই বেশি দেখা যায়, তবে চিকিৎসকেরা দেখেছেন রোগটি অনেক সময় মাঝবয়সেই, কখনো কখনো তারও আগে শুরু হয়। তাই যেকোনো বয়সেই সন্ধির ব্যথা ও ফোলা কয়েক সপ্তাহ ধরে থাকলে ডাক্তার দেখানো উচিত। আর চলতি কথায় "গেঁটে বাত" বলতে অনেকে সন্ধির অন্য রোগও বোঝান, তাই নাম শুনেই রোগ ধরে নিয়ো না।
+
+**দুই রোগ পাশাপাশি**
+
+| বিষয় | অস্টিওপোরোসিস | রিউমাটয়েড আর্থ্রাইটিস |
+| যা আক্রান্ত হয় | অস্থি | অস্থিসন্ধি |
+| কী সমস্যা হয় | অস্থি থেকে ক্যালসিয়াম কমে; ঘনত্ব ও পুরুত্ব কমে | অস্থিসন্ধিতে প্রদাহ হয় |
+| প্রধান লক্ষণ | ভঙ্গুর অস্থি, পিঠে ব্যথা, অস্থিতে ব্যথা, পেশির শক্তি কমা; অনেক সময় হাড় ভাঙার আগে কোনো লক্ষণই থাকে না | গিঁটে ব্যথা, ফোলা, শক্ত হয়ে যাওয়া; নাড়াতে গেলে ব্যথা |
+| যেভাবে ধরা পড়ে | অস্থির ঘনত্ব মেপে | চিকিৎসকের পরীক্ষায় |
+| উপশম | ক্যালসিয়াম (পঞ্চাশের পর দৈনিক ১২০০ mg বা চিকিৎসকের পরামর্শমতো), দুগ্ধজাত খাবার, শাকসবজি, সয়া | ভারী কাজ থেকে বিরতি, কুসুম গরম সেঁক, হালকা ব্যায়াম, পরামর্শমতো ঔষধ |
+| প্রতিরোধ | সূর্যালোক, খাদ্যে ক্যালসিয়াম ও ভিটামিন ডি, নিয়মিত ব্যায়াম, সুষম ও আঁশযুক্ত খাবার | পরামর্শমতো নিয়মিত ব্যায়াম, সুষম ও আঁশযুক্ত খাবার |
+
+**এখন তুমি কী করতে পারো।** তোমার বয়সে হাড়ের হিসাবে এখনো জমা চলছে, আর এই সুযোগ পরে আর আসবে না। সুযোগ পেলে দুধ বা দই খাও, ছোট মাছ ও শাক খাও, রোদে বাইরে খেলাধুলা করো, শরীর সচল রাখো (দেখো [[5.6|ব্যায়াম ও বিশ্রাম]])। আর বাড়ির বয়স্কদের দিকে খেয়াল রেখো: পিঠের ব্যথা সারছে না, কিংবা সামান্য পড়ে গিয়েই হাড় ভেঙে গেছে, এমন হলে ডাক্তার দেখানো দরকার।
+## analogy
+একটা পুরোনো কাঠের ঘরের কথা ভাবো। এর একটা খুঁটিতে ঘুণ ধরেছে, ভেতরটা ঝাঁঝরা। বাইরে থেকে খুঁটিটা আগের মতোই দেখায়, তারপর একদিন সামান্য ধাক্কায় মট করে ভেঙে পড়ে। ওই খুঁটি হলো অস্টিওপোরোসিসে আক্রান্ত অস্থি। একই ঘরের দরজার একটা কবজায় মরিচা ধরেছে: মরিচায় ফুলে আছে, ক্যাঁচক্যাঁচ করে, জোর করে খুলতে গেলে হাতে লাগে। ওই কবজা হলো আর্থ্রাইটিসে আক্রান্ত অস্থিসন্ধি। একটা খুঁটির সমস্যা, অন্যটা কবজার।
+## definition
+**অস্টিওপোরোসিস**: খনিজ লবণ, বিশেষ করে ক্যালসিয়ামের অভাবজনিত রোগ, যাতে অস্থির ঘনত্ব ও পুরুত্ব কমে যায় এবং অস্থি ভঙ্গুর হয়ে পড়ে।
+
+**আর্থ্রাইটিস (বাতরোগ)**: অস্থিসন্ধির প্রদাহ।
+
+**রিউমাটয়েড আর্থ্রাইটিস**: বহু রকম আর্থ্রাইটিসের একটি, যাতে অস্থিসন্ধিতে প্রদাহ ও ব্যথা হয়, সন্ধি ফুলে যায় ও শক্ত হয়ে যায়।
+
+**মেনোপজ (রজোনিবৃত্তি)**: নারীর মাসিক চিরতরে বন্ধ হয়ে যাওয়া।
+
+**অস্থির ঘনত্ব**: নির্দিষ্ট পরিমাণ অস্থিতে কতটা খনিজ পদার্থ ঠাসা আছে; এটি যত কম, অস্থি তত দুর্বল।
+## why
+**অস্টিওপোরোসিস আগে থেকে জানান দেয় না কেন?** হাড় ক্ষয় হলে ব্যথা লাগে না, হাড়ের বাইরের আকারও বদলায় না। শুধু ভেতরটা পাতলা আর ঝাঁঝরা হতে থাকে। তাই অনেক সময় প্রথম লক্ষণটাই হলো ভাঙা হাড়। এ কারণেই বই অস্থির ঘনত্ব মাপার ওপর জোর দিয়েছে, আর এ কারণেই প্রতিরোধ এত জরুরি।
+
+**অলস জীবনে হাড় দুর্বল হয় কেন?** অস্থি জীবন্ত টিস্যু; যেখানে একে কাজে লাগানো হয়, সেখানে এটি নিজেকে গড়ে তোলে। হাঁটা, দৌড়ানো, দড়িলাফ, ভার বওয়া হাড়ে চাপ ও টান দেয়, আর হাড় তার জবাবে আরও ঘন হয়। অনেক সপ্তাহ প্লাস্টারে বাঁধা থাকার পর হাত বা পা বেরিয়ে আসে আগের চেয়ে সরু ও দুর্বল হয়ে, কারণ ওই কয় সপ্তাহ তার কোনো ব্যবহার হয়নি।
+
+**ক্যালসিয়ামের রোগে সূর্যের আলো কেন?** খাবারে যত ক্যালসিয়ামই থাকুক, ভিটামিন ডি না থাকলে অন্ত্র তা ভালোভাবে শোষণ করতে পারে না। আর ত্বকে সূর্যের আলো পড়লে দেহ ভিটামিন ডি তৈরি করে।
+
+**একই রকম গিঁটের ব্যথায় আলাদা চিকিৎসা লাগতে পারে কেন?** কারণ একই লক্ষণের পেছনে সম্পূর্ণ আলাদা কারণ থাকতে পারে। বাতজ্বরে সমস্যাটা আসে ব্যাকটেরিয়াজনিত গলার সংক্রমণের পরে। রিউমাটয়েড আর্থ্রাইটিসে দেহের প্রতিরক্ষাব্যবস্থা সন্ধির আবরণকে আক্রমণ করে। অস্টিওপোরোসিসে হাড় নিজেই পাতলা হয়ে যায়। যে ঔষধ একটিতে কাজ করে, অন্যটিতে তা কোনো কাজেই না আসতে পারে, এমনকি ক্ষতিও করতে পারে। কোনটা কোন রোগ, তা কেবল চিকিৎসকের পরীক্ষায় বোঝা যায়।
+
+**ব্যথার গিঁটে হালকা ব্যায়াম কেন?** যে সন্ধি একেবারেই নাড়ানো হয় না, সেটি আরও শক্ত হয়ে যায়, আর তার চারপাশের পেশি দুর্বল হয়ে পড়ে। আলতো নড়াচড়া সন্ধিকে সচল রাখে। অন্যদিকে ভারী কাজ প্রদাহে আক্রান্ত সন্ধির ওপর বাড়তি ধকল দেয়। এ কারণেই তোমার বই দুটো পরামর্শই দিয়েছে: ভারী কাজ থেকে বিরত থাকো, আর হালকা ব্যায়াম করো।
+## terms
+অস্টিওপোরোসিস | যে রোগে অস্থি থেকে ক্যালসিয়াম কমে গিয়ে অস্থি পাতলা ও ভঙ্গুর হয়
+অস্থির ঘনত্ব | অস্থিতে কতটা খনিজ পদার্থ ঠাসা আছে
+মেনোপজ (রজোনিবৃত্তি) | নারীর মাসিক চিরতরে বন্ধ হয়ে যাওয়া
+স্টেরয়েড | এক শ্রেণির শক্তিশালী ঔষধ; দীর্ঘদিন ব্যবহারে হাড় দুর্বল হতে পারে
+অস্থিভঙ্গ (Fracture) | হাড় ভেঙে যাওয়া
+আর্থ্রাইটিস (বাতরোগ) | অস্থিসন্ধির প্রদাহ; শতাধিক রকমের হয়
+রিউমাটয়েড আর্থ্রাইটিস | এক ধরনের আর্থ্রাইটিস, যাতে গিঁটে ব্যথা হয়, গিঁট ফোলে ও শক্ত হয়ে যায়
+প্রদাহ | ক্ষতির জবাবে দেহের কোনো অংশ লাল হওয়া, ফুলে যাওয়া, গরম হওয়া ও ব্যথা করা
+বাতজ্বর (রিউমেটিক ফিভার) | আলাদা একটি রোগ, সাধারণত শিশুদের; গলার সংক্রমণের পরে হয় এবং হৃৎপিণ্ডের ক্ষতি করতে পারে
+ননিতোলা দুধ | যে দুধ থেকে ননি (চর্বি) তুলে নেওয়া হয়েছে
+সুষম খাদ্য | যে খাদ্যে সব পুষ্টি উপাদান সঠিক পরিমাণে থাকে
+আঁশ | উদ্ভিজ্জ খাদ্যের যে অংশ হজম হয় না; অন্ত্র সুস্থ রাখে
+## visual
+"হাড়ের ব্যাংক"-এ বয়সের স্লাইডার সরাও আর অভ্যাসগুলো চালু-বন্ধ করে দেখো সারা জীবনে হাড়ের শক্তি কীভাবে বদলায়। "সুস্থ না রোগাক্রান্ত?"-এ সুস্থ অস্থি ও সন্ধির সাথে রোগাক্রান্ত অস্থি ও সন্ধি মিলিয়ে দেখো। এরপর "কোন রোগ?"-এ সূত্র দেখে রোগ চিনে নাও।
+## real
+প্রায় সব পরিবারেই গল্পটা চেনা: দাদি বা নানি ভেজা বাথরুমে পা পিছলে পড়ে গেলেন, যেভাবে পড়লে একটা শিশু হাসতে হাসতে উঠে দাঁড়াত, অথচ তাঁর কোমরের হাড় ভেঙে গেল। কেউ জানত না, বিশ বছর ধরে তাঁর হাড় একটু একটু করে পাতলা হচ্ছিল। কোনো কোনো বয়স্ক মানুষ আবার একটু খাটো হয়ে যান, পিঠ কুঁজো হয়ে আসে, কারণ দুর্বল হয়ে পড়া কশেরুকাগুলো ধীরে ধীরে চেপে বসে যায়।
+
+আমাদের নিজেদের রান্নাঘরেই ভালো সুরক্ষা আছে। এক বাটি আস্ত রান্না করা ছোট মাছ, এক বাটি শাক আর এক কাপ দই থেকে প্রচুর ক্যালসিয়াম মেলে, বাকিটা করে দেয় বিকেলের রোদে এক ঘণ্টার খেলাধুলা। তোমার বই একটি ছোট জরিপ করতে বলেছে: এলাকার পঞ্চাশোর্ধ্ব মহিলাদের সাথে তাঁদের খাবার আর রোজকার অভ্যাস নিয়ে কথা বলো, আর খুঁজে দেখো তাঁদের মধ্যে অস্টিওপোরোসিস ও আর্থ্রাইটিস কেন দেখা দিচ্ছে। এই পাঠটিকে বাস্তবে দেখার এটি চমৎকার উপায়।
+## example
+প্রশ্ন: ৬০ বছরের রাহেলা বেগমের হাত-পায়ের গিঁটে ব্যথা হয়। তাঁর বড় বোন হাবিবা বেগম ঘাড় ও পিঠের পেছনে ব্যথার জন্য তেমন কোনো কাজ করতে পারেন না; চিকিৎসক বলেছেন, তাঁর শরীরে ক্যালসিয়ামের অভাবে হাড়গুলো ভঙ্গুর হয়ে গেছে। (ক) দুই বোন কে কোন রোগে আক্রান্ত? (খ) হাবিবা বেগমের রোগ প্রতিরোধে নিচের কোনগুলো কাজে লাগে: ব্যথার জায়গায় বরফের সেঁক, নিয়মিত সূর্যের আলো, শাকসবজি, ফলমূল, দুধ, ডিম ও মাছ খাওয়া?
+সমাধান: প্রত্যেকের বেলায় দেখো, অস্থিসন্ধি আক্রান্ত, না অস্থি।
+ধাপ: (ক) রাহেলা বেগম: বয়স্ক মানুষের গিঁটে ব্যথা রিউমাটয়েড আর্থ্রাইটিসের দিকে ইঙ্গিত করে। হাবিবা বেগম: ক্যালসিয়ামের অভাবে ভঙ্গুর হাড় আর পিঠে ব্যথা মানে অস্টিওপোরোসিস।
+ধাপ: (খ) বইয়ে অস্টিওপোরোসিস প্রতিরোধের উপায়: সূর্যালোক, ক্যালসিয়াম ও ভিটামিন ডি-সমৃদ্ধ খাদ্য, নিয়মিত ব্যায়াম এবং সুষম ও আঁশযুক্ত খাবার।
+ধাপ: নিয়মিত সূর্যের আলো এই তালিকায় আছে, আর শাকসবজি, ফলমূল, দুধ, ডিম ও মাছ থেকে ক্যালসিয়াম, ভিটামিন ডি ও সুষম খাদ্য মেলে। বরফের সেঁক অস্টিওপোরোসিস প্রতিরোধের উপায় নয়।
+উত্তর: (ক) রাহেলা বেগমের রিউমাটয়েড আর্থ্রাইটিস, হাবিবা বেগমের অস্টিওপোরোসিস। (খ) নিয়মিত সূর্যের আলো আর তালিকার খাবারগুলো প্রতিরোধে কাজে লাগে; বরফের সেঁক লাগে না।
+> আসল রোগ নির্ণয় কেবল চিকিৎসকই করতে পারেন। পরীক্ষায় তুমি বইয়ে দেওয়া লক্ষণ মিলিয়ে রোগ শনাক্ত করবে।
+## example
+প্রশ্ন: চিকিৎসক ৫৫ বছরের একজনকে দৈনিক ১২০০ mg ক্যালসিয়াম নিতে বলেছেন। ধরো, এক দিনে তাঁর খাবার থেকে মোটামুটি এই পরিমাণ ক্যালসিয়াম আসে: এক গ্লাস দুধ ৩০০ mg, এক বাটি দই ২০০ mg, কাঁটাসহ এক পদ ছোট মাছ ৩৫০ mg আর এক পদ শাক ১৫০ mg। তিনি মোট কত ক্যালসিয়াম পেলেন, কত কম পড়ল, আর লক্ষ্যের শতকরা কত ভাগ পূরণ হলো?
+দেওয়া আছে: লক্ষ্য = ১২০০ mg; দুধ = ৩০০ mg; দই = ২০০ mg; ছোট মাছ = ৩৫০ mg; শাক = ১৫০ mg
+সূত্র: মোট = সব উৎসের যোগফল; ঘাটতি = লক্ষ্য − মোট; শতকরা হার = মোট ÷ লক্ষ্য × ১০০
+মান বসাই: মোট = ৩০০ + ২০০ + ৩৫০ + ১৫০; শতকরা হার = ১০০০ ÷ ১২০০ × ১০০
+হিসাব: মোট = ১০০০ mg; ঘাটতি = ১২০০ − ১০০০ = ২০০ mg; শতকরা হার = ৮৩.৩%
+উত্তর: তিনি পেলেন প্রায় ১০০০ mg, যা লক্ষ্যের প্রায় ৮৩%; কম পড়ল প্রায় ২০০ mg। দিনে আর একটি ক্যালসিয়াম-সমৃদ্ধ খাবার যোগ করলেই ঘাটতি পূরণ হয়।
+একক: mg
+> খাবারের পরিমাণগুলো হিসাবের সুবিধার জন্য ধরা মোটামুটি মান; আসল খাবারে কমবেশি হয়। কার কতটা ক্যালসিয়াম দরকার, ট্যাবলেট লাগবে কি না, তা ঠিক করবেন চিকিৎসক।
+## example
+প্রশ্ন: দশ বছরের তুহিনের কয়েক সপ্তাহ আগে গলাব্যথা ও জ্বর হয়েছিল; এখন তার হাঁটু ও গোড়ালি ব্যথা করছে, ফুলে গেছে। বাষট্টি বছরের আলম সাহেবের আঙুলের গিঁটগুলো অনেক মাস ধরে ফোলা, শক্ত আর ব্যথাযুক্ত। এক প্রতিবেশী বললেন, "দুজনেরই গিঁটে ব্যথা, দুজনকে একই ঔষধ দাও।" প্রতিবেশীর কথা কি ঠিক?
+সমাধান: একই লক্ষণ ভিন্ন ভিন্ন রোগ থেকে আসতে পারে।
+ধাপ: তুহিন: গলার সংক্রমণের পরে শিশুর গিঁটে ব্যথা বাতজ্বরের দিকে ইঙ্গিত করে। এ রোগ *Streptococcus* ব্যাকটেরিয়ার সংক্রমণের পরে হয় এবং হৃৎপিণ্ডের ক্ষতি করতে পারে।
+ধাপ: আলম সাহেব: বয়স্ক মানুষের গিঁটে দীর্ঘদিনের ব্যথা, ফোলা ও শক্ত ভাব রিউমাটয়েড আর্থ্রাইটিসের দিকে ইঙ্গিত করে।
+ধাপ: কারণ আলাদা, তাই চিকিৎসাও আলাদা। তোমার বইয়ে স্পষ্ট বলা আছে, একই রকম লক্ষণের দুজন মানুষের ভিন্ন চিকিৎসা লাগতে পারে এবং বিশেষজ্ঞ চিকিৎসকের পরামর্শ ছাড়া বাতের চিকিৎসা করা উচিত নয়।
+উত্তর: প্রতিবেশীর কথা ঠিক নয়। দুজনের রোগ সম্ভবত আলাদা, বাতজ্বর ও রিউমাটয়েড আর্থ্রাইটিস, আর এদের চিকিৎসাও আলাদা। দুজনকেই চিকিৎসকের কাছে নিতে হবে; একজনের ঔষধ আরেকজনকে দিলে উপকারের চেয়ে অপকার বেশি হতে পারে।
+## example
+প্রশ্ন: এক বাড়িতে তিনজন থাকেন। ক ১৫ বছরের একটি মেয়ে, রোজ বিকেলে বাইরে খেলে, নিয়মিত দুধ ও ছোট মাছ খায়। খ ৫৮ বছরের একজন নারী, মেনোপজ হয়ে গেছে, প্রায় সারা দিন ঘরে থাকেন, কায়িক পরিশ্রম খুব কম করেন। গ ৬৬ বছরের একজন পুরুষ, অনেক বছর ধরে স্টেরয়েডযুক্ত ঔষধ সেবন করছেন। কার অস্টিওপোরোসিসের ঝুঁকি বেশি, আর তোমার বই তাঁদের কী পরামর্শ দেয়?
+সমাধান: প্রত্যেককে বইয়ের ঝুঁকির তালিকার সাথে মিলিয়ে দেখো।
+ধাপ: ক অল্পবয়সী, সচল, রোদ পায়, ক্যালসিয়াম-সমৃদ্ধ খাবার খায়। সে মজবুত হাড় গড়ে তুলছে; তার ঝুঁকি কম।
+ধাপ: খ তালিকার তিনটি বিষয়ের সাথে মেলেন: মেনোপজ-পরবর্তী বয়স্ক নারী, অলস জীবন, আর রোদ কম পাওয়া (তাই ভিটামিন ডি কম)।
+ধাপ: গ তালিকার একটি বিষয়ের সাথে হুবহু মেলেন: বহুদিন ধরে স্টেরয়েডযুক্ত ঔষধ সেবনকারী বয়স্ক পুরুষ।
+ধাপ: বইয়ের পরামর্শ: যথেষ্ট সূর্যালোক, ক্যালসিয়াম ও ভিটামিন ডি-সমৃদ্ধ খাদ্য (পঞ্চাশের পর দৈনিক ১২০০ mg ক্যালসিয়াম বা চিকিৎসকের পরামর্শমতো), নিয়মিত ব্যায়াম এবং সুষম ও আঁশযুক্ত খাবার।
+উত্তর: খ ও গ-এর ঝুঁকি বেশি। তাঁদের রোদে যাওয়া, ক্যালসিয়াম ও ভিটামিন ডি-সমৃদ্ধ খাবার খাওয়া ও নিয়মিত ব্যায়াম করা উচিত, আর চিকিৎসকের কাছে যাওয়া ভালো; তিনি প্রয়োজনে অস্থির ঘনত্ব মাপাতে বলবেন। গ নিজে থেকে ঔষধ বন্ধ করবেন না, চিকিৎসকের সাথে কথা বলবেন।
+## mistakes
+x অস্টিওপোরোসিস আর আর্থ্রাইটিস একই রোগ।
+v অস্টিওপোরোসিস অস্থির রোগ (অস্থি পাতলা ও ভঙ্গুর হয়)। আর্থ্রাইটিস অস্থিসন্ধির রোগ (সন্ধিতে প্রদাহ হয়)।
+x অস্টিওপোরোসিসে শুরু থেকেই ব্যথা হয়, তাই সময়মতো টের পাওয়া যায়।
+v প্রাথমিক অবস্থায় তেমন কোনো উপসর্গই থাকে না। অনেক সময় প্রথম লক্ষণই হলো সামান্য আঘাতে হাড় ভেঙে যাওয়া।
+x অস্টিওপোরোসিস শুধু নারীদের হয়।
+v পুরুষদেরও হয়। মেনোপজের পর নারীদের এবং বহুদিন স্টেরয়েডযুক্ত ঔষধ সেবনকারী বয়স্ক পুরুষদের ঝুঁকি বেশি।
+x গিঁটে ব্যথা হলে নড়াচড়া একেবারে বন্ধ করে দেওয়া উচিত।
+v ভারী কাজ বাদ দিতে হবে, তবে চিকিৎসকের পরামর্শমতো হালকা ব্যায়াম সন্ধিকে সচল রাখে।
+x রিউমাটয়েড আর্থ্রাইটিস আর বাতজ্বর একই জিনিস।
+v এরা আলাদা রোগ। বাতজ্বর ব্যাকটেরিয়াজনিত গলার সংক্রমণের পরে হয়, সাধারণত শিশুদের, এবং হৃৎপিণ্ডের ক্ষতি করতে পারে।
+x প্রতিবেশী বা দোকানদার যে ব্যথার ঔষধ বলে, গিঁটের ব্যথায় তা খেলেই চলে।
+v ভিন্ন ভিন্ন সন্ধির রোগে চিকিৎসা ভিন্ন। চিকিৎসকের পরামর্শ ছাড়া চিকিৎসায় উপকারের চেয়ে অপকার বেশি হতে পারে।
+x হাড়ের যত্ন বুড়োদের ব্যাপার।
+v হাড় গড়ে ওঠে শৈশব ও তারুণ্যে। এখনকার ক্যালসিয়াম, রোদ আর ব্যায়ামই বুড়ো বয়সের সঞ্চয়।
+## remember
+- অস্টিওপোরোসিস: খনিজ লবণ, বিশেষ করে ক্যালসিয়ামের ঘাটতিতে হয়; অস্থির ঘনত্ব ও পুরুত্ব কমে; অস্থি ভঙ্গুর হয়।
+- ঝুঁকি বেশি: বয়স্ক মানুষ; মেনোপজের পর নারী; বহুদিন স্টেরয়েডযুক্ত ঔষধ সেবনকারী বয়স্ক পুরুষ; অলস জীবন; দীর্ঘদিনের আর্থ্রাইটিস।
+- লক্ষণ: ভঙ্গুর অস্থি, পেশির শক্তি কমা, পিঠে ব্যথা, অস্থিতে ব্যথা। প্রাথমিক অবস্থায় উপসর্গ প্রায় থাকে না; হঠাৎ হাড় ভাঙতে পারে। নির্ণয়: অস্থির ঘনত্ব মেপে।
+- প্রতিকার: পঞ্চাশের পর দৈনিক ১২০০ mg ক্যালসিয়াম বা চিকিৎসকের পরামর্শমতো; ননিতোলা দুধ ও দুগ্ধজাত খাবার; কমলার রস, সবুজ শাকসবজি, সয়া, ক্যালসিয়াম-সমৃদ্ধ খাবার।
+- প্রতিরোধ: সূর্যালোক; খাদ্যে ক্যালসিয়াম ও ভিটামিন ডি; নিয়মিত ব্যায়াম; সুষম ও আঁশযুক্ত খাবার।
+- রিউমাটয়েড আর্থ্রাইটিস: শতাধিক রকম বাতরোগের একটি; বেশির ভাগ বয়স্কদের হয়। লক্ষণ: গিঁটে প্রদাহ, ব্যথা, ফোলা, শক্ত হয়ে যাওয়া।
+- উপশম: ভারী কাজ বাদ; গিঁটে কুসুম গরম সেঁক; হালকা ব্যায়াম; চিকিৎসকের পরামর্শমতো ঔষধ। বয়স্কদের পুরোপুরি সারে না। প্রতিরোধ: পরামর্শমতো নিয়মিত ব্যায়াম; সুষম ও আঁশযুক্ত খাদ্য।
+- শিশুদের গিঁটে ব্যথা বাতজ্বরের লক্ষণ হতে পারে। চিকিৎসকের পরামর্শ ছাড়া কখনো সন্ধির রোগের চিকিৎসা নয়।
+## think
+দুই বন্ধুর বয়সই ১৪। একজন বিকেলগুলো কাটায় বাইরে খেলে, আর বাসায় যে মাছ-সবজি রান্না হয় তা-ই খায়। অন্যজন ফোন নিয়ে ঘরে বসে থাকে, আর বেশির ভাগ সময় ভাজাপোড়া ও কোমল পানীয় খায়। আজ দুজনের কারও কোনো সমস্যা নেই। দুজনের বয়স যখন ৬০ হবে, তখন তাদের হাড়ে কী পার্থক্য আশা করো, আর সে বয়সে গিয়ে তা সহজে শুধরে নেওয়া যায় না কেন?
+## quiz
+? অস্টিওপোরোসিস প্রধানত কোনটির অভাবে হয়?
+- লৌহ
+- আয়োডিন
+* ক্যালসিয়াম
+- ভিটামিন সি
+= দেহে খনিজ লবণ, বিশেষ করে ক্যালসিয়ামের ঘাটতিতে এ রোগ হয়; এতে অস্থি পাতলা ও ভঙ্গুর হয়ে যায়।
+? নিচের কোনটি রিউমাটয়েড আর্থ্রাইটিসের লক্ষণ নয়?
+- গিঁট ফুলে যায়
+- অস্থিসন্ধি শক্ত হয়ে যায়
+- গিঁটে ব্যথা হয়
+* অস্থি পাতলা ও ভঙ্গুর হয়ে যায়
+= পাতলা, ভঙ্গুর অস্থি অস্টিওপোরোসিসের লক্ষণ। রিউমাটয়েড আর্থ্রাইটিসে আক্রান্ত হয় অস্থিসন্ধি।
+? তোমার বই অনুযায়ী পঞ্চাশোর্ধ্ব পুরুষ ও নারীদের দৈনিক কতটুকু ক্যালসিয়াম গ্রহণ করা উচিত (চিকিৎসক অন্য পরামর্শ না দিলে)?
+- ১২০ mg
+* ১২০০ mg
+- ২১০০ mg
+- ১২ ০০০ mg
+= বইয়ে দৈনিক ১২০০ মিলিগ্রাম, অথবা চিকিৎসক নির্দেশিত পরিমাণের কথা বলা আছে।
+? অস্টিওপোরোসিস প্রতিরোধের উপায় হচ্ছে: (i) ব্যথার জায়গায় বরফের সেঁক দেওয়া, (ii) নিয়মিত সূর্যের আলোর সংস্পর্শে থাকা, (iii) শাকসবজি, ফলমূল, দুধ, ডিম ও মাছ খাওয়া। কোনটি সঠিক?
+- i ও ii
+- i ও iii
+* ii ও iii
+- i, ii ও iii
+= সূর্যের আলো (ভিটামিন ডি-এর জন্য) আর ক্যালসিয়াম-সমৃদ্ধ সুষম খাবার রোগটি প্রতিরোধ করে। বরফের সেঁক প্রতিরোধের উপায় নয়।
+? অস্টিওপোরোসিস কীভাবে নির্ণয় করা হয়?
+- মূত্র পরীক্ষা করে
+* অস্থির ঘনত্ব মেপে
+- হৃৎস্পন্দন গুনে
+- কফ পরীক্ষা করে
+= ঘনত্বমাপক যন্ত্র দিয়ে অস্থির খনিজ পদার্থের ঘনত্ব মাপা হয়, কারণ প্রাথমিক অবস্থায় তেমন কোনো উপসর্গ দেখা যায় না।

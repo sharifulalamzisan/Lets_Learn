@@ -1,0 +1,1405 @@
+@@chapter
+== en
+## intro
+Every second, the trillions of cells in your body are carrying out chemical reactions: releasing energy from food, building new proteins, breaking down old ones. These reactions keep you alive, but they also leave behind substances the body cannot use, and some of them are poisonous. Carbon dioxide from respiration is carried by the blood to the lungs and breathed out. The nitrogen-containing wastes, the extra water and the extra salts are handled by another pair of organs, the **kidneys**. Getting rid of these wastes is called **excretion**.
+
+In this chapter you will first see which wastes the body makes and which organ removes each of them. Then you will open up a kidney, find its million tiny filters called **nephrons**, and follow a drop of blood through one of them to see how urine is made and how the kidneys keep the water of the body in balance. Finally you will learn about kidney stones and kidney failure, how **dialysis** and **kidney transplantation** save lives, why donating a kidney after death is a great service, and what simple habits keep your kidneys and urinary tract healthy.
+## objectives
+- explain excretion in the human body and describe the excretory products
+- describe the structure and functions of the kidneys
+- describe the structure and functions of a nephron
+- explain the role of the kidneys in osmoregulation
+- describe how kidney stones form, and their prevention and remedies
+- describe the symptoms of kidney failure and what is to be done
+- explain the role of dialysis and the idea of kidney transplantation and posthumous kidney donation
+- describe the diseases of the urinary tract and the ways to keep it healthy
+- draw and label diagrams of the human kidney and a nephron
+- create awareness about healthy kidneys and about posthumous kidney donation
+== bn
+## intro
+তোমার দেহের লক্ষ কোটি কোষে প্রতি সেকেন্ডে রাসায়নিক বিক্রিয়া চলছে: খাদ্য থেকে শক্তি বের হচ্ছে, নতুন প্রোটিন তৈরি হচ্ছে, পুরোনো প্রোটিন ভাঙছে। এই বিক্রিয়াগুলোই তোমাকে বাঁচিয়ে রাখে, তবে এদের ফলে এমন কিছু পদার্থও তৈরি হয় যা দেহের কোনো কাজে লাগে না, কোনো কোনোটি আবার বিষাক্ত। শ্বসনে তৈরি কার্বন ডাই-অক্সাইড রক্তে ভেসে ফুসফুসে যায় আর নিঃশ্বাসের সাথে বেরিয়ে যায়। নাইট্রোজেনঘটিত বর্জ্য, বাড়তি পানি আর বাড়তি লবণ সামলায় আরেক জোড়া অঙ্গ, **বৃক্ক** বা কিডনি। দেহ থেকে এসব বর্জ্য বের করে দেওয়াই **রেচন**।
+
+এই অধ্যায়ে প্রথমে দেখবে দেহে কোন কোন বর্জ্য তৈরি হয় আর কোন অঙ্গ কোনটিকে বের করে। এরপর একটি বৃক্কের ভেতরে ঢুকে খুঁজে নেবে তার লক্ষ লক্ষ ক্ষুদ্র ছাঁকনি, **নেফ্রন**; এক ফোঁটা রক্তের সাথে একটি নেফ্রনের ভেতর দিয়ে গিয়ে দেখবে মূত্র কীভাবে তৈরি হয় আর বৃক্ক কীভাবে দেহের পানির ভারসাম্য ঠিক রাখে। সবশেষে জানবে বৃক্কে পাথর ও বৃক্ক বিকল হওয়ার কথা, **ডায়ালাইসিস** ও **বৃক্ক প্রতিস্থাপন** কীভাবে জীবন বাঁচায়, মরণোত্তর বৃক্কদান কেন এত বড় সেবা, আর কোন সহজ অভ্যাসগুলো বৃক্ক ও মূত্রনালিকে সুস্থ রাখে।
+## objectives
+- মানবদেহের রেচন প্রক্রিয়া ব্যাখ্যা করতে এবং রেচন পদার্থের বর্ণনা দিতে পারবে
+- বৃক্কের গঠন ও কাজ বর্ণনা করতে পারবে
+- নেফ্রনের গঠন ও কাজ বর্ণনা করতে পারবে
+- অসমোরেগুলেশনে বৃক্কের ভূমিকা ব্যাখ্যা করতে পারবে
+- বৃক্কে পাথর সৃষ্টি, তার প্রতিরোধ ও প্রতিকার বর্ণনা করতে পারবে
+- বৃক্ক বিকলের লক্ষণ ও করণীয় বর্ণনা করতে পারবে
+- ডায়ালাইসিসের ভূমিকা এবং বৃক্ক প্রতিস্থাপন ও মরণোত্তর বৃক্কদানের ধারণা ব্যাখ্যা করতে পারবে
+- মূত্রনালির রোগ ও সুস্থ থাকার উপায় বর্ণনা করতে পারবে
+- মানববৃক্ক ও নেফ্রনের চিত্র এঁকে চিহ্নিত করতে পারবে
+- বৃক্ক ও মূত্রনালির সুস্থতা এবং মরণোত্তর বৃক্কদান বিষয়ে সচেতনতা সৃষ্টি করতে পারবে
+
+@@ 8.1
+@visual b8waste
+@related 8.2 8.2.1 7.2.2 5.8
+== en
+## what
+**Excretion** is the removal from the body of the harmful wastes made by the body's own chemical reactions, above all the wastes that contain nitrogen. In humans the main excretory organs are the two **kidneys**, which take these wastes out of the blood and send them out as **urine**.
+## simple
+**A kitchen that never closes.** Think of all the chemical reactions going on in your cells as one huge kitchen that works day and night. Together these reactions are called **metabolism**. A kitchen gives you food, but it also gives you smoke, peels and dirty water. In the same way metabolism gives the body energy and new materials, and it also leaves behind things the body has no use for. If these stay inside, they slowly poison the cells. The body must throw them out. That throwing out is **excretion**.
+
+**Where the nitrogen waste comes from.** Carbohydrates and fats (the starch of rice, the oil in a curry) are made of carbon, hydrogen and oxygen only. When they are used up, the leftovers are just carbon dioxide and water. **Proteins** are different: their building blocks, the amino acids, also contain **nitrogen**. The body cannot store extra amino acids. So, as you saw in [[5.8|the work of the liver]], the **liver** takes the nitrogen part off the extra amino acids. This first gives **ammonia**, which is very poisonous, and the liver at once changes it into a much less harmful substance, **urea**. Urea dissolves in the blood and travels with it until the kidneys remove it.
+
+Two more nitrogen wastes come along: **uric acid**, made when the nucleic acids of worn-out cells and of food are broken down, and **creatinine**, made by working muscles. All of these are called **nitrogenous wastes**.
+
+**Which waste, which organ?** Your book asks you to fill in a table like this one:
+
+| Waste | Where it is made | Organ that removes it | How it leaves |
+| Carbon dioxide | every living cell, in respiration | lungs | in breathed-out air |
+| Urea | liver, from extra amino acids | kidneys | in urine (a trace in sweat) |
+| Uric acid, creatinine | liver and other tissues; muscles | kidneys | in urine |
+| Excess water | from drink and food, and from respiration | kidneys (also skin and lungs) | urine, sweat, water vapour |
+| Excess salts | from food | kidneys (also skin) | urine, sweat |
+
+> Your book defines excretion as the removal of **nitrogenous** wastes, because those are the wastes this chapter is about. In the wider sense, the lungs breathing out carbon dioxide and the skin sweating are also excretion, and the book's own activity table lists carbon dioxide too. For a definition in the exam, give the book's wording.
+
+**Excretion is not the same as passing stool.** Stool is mostly undigested food that travelled through the gut and never became part of any cell. It was not made by metabolism, so removing it is not excretion. Excretory wastes are made *inside* the cells and are carried away by the blood.
+
+**The excretory system.** The organs that remove the nitrogenous wastes form the **excretory system**:
+- two **kidneys**, bean-shaped, at the back of the abdomen, one on each side of the backbone; they make the urine;
+- two **ureters**, thin tubes that carry urine down from the kidneys;
+- one **urinary bladder**, a stretchy bag that stores the urine for a while;
+- one **urethra**, the short tube through which urine leaves the body.
+
+Blood reaches each kidney through a **renal artery**, a branch of the dorsal aorta. The cleaned blood leaves through a **renal vein** and joins the inferior vena cava on its way back to the heart. (*Renal* simply means "of the kidney".)
+
+**What is urine made of?** Normal urine is about **95% water** by mass. The remaining 5% or so is dissolved matter: urea, uric acid, creatinine, a little ammonia and different salts. Urine is **light yellow** because of a pigment called **urochrome**. What you eat changes it a little: a lot of protein-rich food (meat, fish, eggs, pulses) makes urine **more acidic**, while fruits and vegetables usually make it **alkaline**.
+
+**If the wastes are not removed.** When wastes pile up in the blood, the person falls ill in many ways, and if nothing is done it can even cause death. That is why the kidneys work without a break all your life, and why kidney failure (see [[8.3|lesson 8.3]]) is so serious.
+## analogy
+Picture the kitchen of a *biye bari* cooking for five hundred guests. The cooking makes wonderful food, but also smoke, vegetable peels and tubs of dirty washing-up water. The smoke leaves through the open side of the tent, the dirty water runs away down a drain, and a helper carries the peels out. If nobody removed them for a day, the cooks could not work at all. Your body is that kitchen: the lungs let out the "smoke" (carbon dioxide), and the kidneys are the drain that carries away the dissolved wastes in water.
+## definition
+**Excretion**: the biological process by which the harmful waste products of metabolism, mainly nitrogenous wastes, are removed from the body.
+
+**Excretory system**: the organ system through which the nitrogenous wastes are removed from the body. In humans it consists of two kidneys, two ureters, the urinary bladder and the urethra.
+
+**Excretory products**: the wastes removed by excretion, mostly nitrogenous substances such as urea, uric acid and creatinine. In humans they leave the body in the urine.
+## why
+**Why not just keep the wastes?** Ammonia is so poisonous that even a small rise in the blood harms the brain. Urea is far milder, but when it and the other wastes keep building up they upset the working of every organ. A cell can do its chemistry properly only when the liquid around it stays clean and steady.
+
+**Why does the liver make urea, when the kidney removes it?** Because the two jobs are different. The liver is the body's chemical workshop: it changes dangerous ammonia into safer, easily dissolved urea. The kidney is the filter: it picks the urea out of the blood. The blood is the road between the two.
+
+**Why are water and salts removed too?** Not because they are poisonous, but because the body must keep their amounts just right. Too much water or salt in the blood is harmful, and so is too little. So the kidneys remove only the *excess*. You will see how in [[8.2.1|lesson 8.2.1]].
+## terms
+Excretion | Removal of the harmful wastes of metabolism (mainly nitrogenous) from the body
+Metabolism | All the chemical reactions going on inside the cells of a living body
+Nitrogenous waste | A waste that contains nitrogen: urea, uric acid, creatinine, ammonia
+Urea | The main nitrogenous waste of humans; made in the liver from extra amino acids
+Uric acid | A nitrogenous waste formed when nucleic acids are broken down
+Creatinine | A nitrogenous waste made by muscles; its level in blood shows how well the kidneys work
+Kidney | The bean-shaped excretory organ that makes urine from blood
+Ureter | The tube carrying urine from a kidney to the bladder
+Urinary bladder | The muscular bag that stores urine for a while
+Urethra | The tube through which urine leaves the body
+Urochrome | The pigment that makes urine light yellow
+## visual
+In "The system", tap each part (or the Next button) to follow urine from the kidney to the outside. In "Which waste?", pick a waste to see where it is made and which organ removes it. In "Urine", see what urine is made of and how food and water change it.
+## real
+On a hot afternoon in Chaitra, after an hour of football, you sweat a lot. Later you notice that you pass very little urine and that it is darker yellow than usual. Nothing is wrong: your body lost water through the skin, so the kidneys saved water and sent out the same wastes in less of it. Drink water and the colour becomes pale again.
+
+When someone is ill, a doctor often asks for a **urine test** and a **blood creatinine test**. Protein, sugar or blood in the urine, or a high creatinine level in the blood, tell the doctor that something may be wrong with the kidneys long before the person feels it. So the wastes you studied here are also useful messengers of health.
+## example
+Q: A healthy adult passes about 1500 g of urine in a day. If 95% of its mass is water, how much water and how much dissolved matter does the urine contain?
+Given: mass of urine = 1500 g; water = 95% by mass
+Formula: mass of water = 95% of total mass; dissolved matter = total − water
+Calculation: mass of water = (95 ÷ 100) × 1500 = 1425 g
+dissolved matter = 1500 − 1425 = 75 g
+> So all the urea, uric acid, creatinine and salts of a whole day fit into about 75 g. The rest is the water needed to carry them out.
+Answer: about 1425 g of water and about 75 g of dissolved wastes and salts.
+## example
+Q: Complete the table of your book: which organ removes (a) carbon dioxide, (b) urea and uric acid, (c) excess water, and how?
+Solution: For each waste ask two things: where is it made, and by which road does it leave?
+Step: (a) Carbon dioxide is made in every cell during respiration. The blood carries it to the **lungs**, and it leaves in breathed-out air.
+Step: (b) Urea is made in the liver, uric acid in the liver and other tissues. They are nitrogenous wastes; the blood carries them to the **kidneys**, which remove them in urine.
+Step: (c) Excess water is removed mainly by the **kidneys** as urine. Some also leaves from the **skin** as sweat and from the **lungs** as water vapour.
+Answer: (a) lungs, by breathing out; (b) kidneys, in urine; (c) mainly kidneys (urine), also skin (sweat) and lungs (water vapour).
+## example
+Q: Rafi ate a lot of meat at a wedding feast. Shila ate mostly vegetables and fruit that day. Whose urine is likely to be more acidic, and whose blood will carry more urea to the kidneys? Explain.
+Solution: Connect the food to the waste it leaves.
+Step: Meat is rich in protein. Protein is digested to amino acids, and the extra amino acids are broken down in the liver, which makes urea. More protein means more urea in the blood for the kidneys to remove.
+Step: Protein-rich food increases the acidity of urine. Fruits and vegetables usually make urine alkaline.
+Answer: Rafi's urine is likely to be more acidic and his blood will carry more urea; Shila's urine is likely to be alkaline.
+## mistakes
+x Urea is made in the kidneys.
+v Urea is made in the **liver**. The kidneys only filter it out of the blood and send it out in urine.
+x Excretion means passing stool.
+v Stool is undigested food, not a product of metabolism. Excretion is the removal of wastes made inside the cells, such as urea and carbon dioxide.
+x The kidneys are the only organs that remove wastes.
+v The kidneys are the main excretory organs, but the lungs remove carbon dioxide and the skin loses water, salts and a trace of urea in sweat.
+x Urine is yellow because of urea.
+v Urea is colourless. The yellow colour comes from the pigment urochrome.
+x The ureter and the urethra are the same tube.
+v There are two ureters, from the kidneys to the bladder, and one urethra, from the bladder to the outside.
+## remember
+- Excretion = removal of the harmful wastes of metabolism, mainly nitrogenous wastes.
+- Nitrogenous wastes: urea, uric acid, creatinine, ammonia. Urea is made in the liver.
+- Excretory system: 2 kidneys → 2 ureters → 1 urinary bladder → 1 urethra.
+- The kidney is the excretory organ; its unit is the nephron.
+- Urine is about 95% water by mass; the rest is urea, uric acid, creatinine and salts.
+- Urochrome makes urine light yellow. Protein-rich food makes urine more acidic; fruits and vegetables make it alkaline.
+- Lungs remove carbon dioxide; skin removes some water and salts in sweat.
+- If wastes stay in the body they cause illness and can even cause death.
+## think
+A camel can go for many days without drinking, and a freshwater fish lives surrounded by water all the time. Which of the two do you expect to pass very little, very concentrated urine, and which a lot of very dilute urine? Why?
+## quiz
+? Where is urea produced?
+- Kidney
+* Liver
+- Urinary bladder
+- Renal artery
+= The liver makes urea from the nitrogen of extra amino acids. The kidneys only remove it from the blood.
+? Which list gives the path of urine in the correct order?
+- Kidney → urethra → urinary bladder → ureter
+- Ureter → kidney → urinary bladder → urethra
+* Kidney → ureter → urinary bladder → urethra
+- Urinary bladder → kidney → ureter → urethra
+= Urine is made in the kidney, flows down the ureter, is stored in the bladder and leaves through the urethra.
+? About what percentage of the mass of normal urine is water?
+- 50%
+- 75%
+- 85%
+* 95%
+= Normal urine is about 95% water; the rest is urea, uric acid, creatinine and salts.
+? Which substance gives urine its light yellow colour?
+* Urochrome
+- Urea
+- Uric acid
+- Creatinine
+= Urochrome is a pigment. Urea, uric acid and creatinine are colourless in solution.
+? Which of the following is NOT a nitrogenous waste?
+- Urea
+- Uric acid
+* Carbon dioxide
+- Creatinine
+= Carbon dioxide contains only carbon and oxygen. It is a waste of respiration and is removed by the lungs.
+== bn
+## what
+**রেচন** হলো দেহের নিজের রাসায়নিক বিক্রিয়ায় তৈরি ক্ষতিকর বর্জ্য, বিশেষ করে নাইট্রোজেনঘটিত বর্জ্য, দেহ থেকে বের করে দেওয়ার প্রক্রিয়া। মানুষের প্রধান রেচন অঙ্গ দুটি **বৃক্ক** (কিডনি); এরা রক্ত থেকে এসব বর্জ্য ছেঁকে নিয়ে **মূত্র** হিসেবে বের করে দেয়।
+## simple
+**যে রান্নাঘর কখনো বন্ধ হয় না।** তোমার কোষগুলোর ভেতরে যত রাসায়নিক বিক্রিয়া চলছে, সব মিলিয়ে সেটাকে একটা বিশাল রান্নাঘর ভাবো, যা দিনরাত চালু। এই সব বিক্রিয়াকে একসাথে বলে **বিপাক**। রান্নাঘর থেকে খাবার পাওয়া যায়, আবার ধোঁয়া, খোসা আর নোংরা পানিও বের হয়। ঠিক তেমনি বিপাকে দেহ পায় শক্তি আর নতুন উপাদান, সাথে তৈরি হয় এমন কিছু পদার্থ যা দেহের কোনো কাজে লাগে না। এগুলো ভেতরে থেকে গেলে ধীরে ধীরে কোষকে বিষিয়ে তোলে। তাই দেহকে এগুলো বের করে দিতেই হয়। এই বের করে দেওয়াটাই **রেচন**।
+
+**নাইট্রোজেনঘটিত বর্জ্য আসে কোথা থেকে।** শর্করা আর স্নেহ পদার্থ (ভাতের শ্বেতসার, তরকারির তেল) শুধু কার্বন, হাইড্রোজেন আর অক্সিজেন দিয়ে তৈরি। এগুলো খরচ হলে পড়ে থাকে কেবল কার্বন ডাই-অক্সাইড আর পানি। **আমিষ** (প্রোটিন) আলাদা: এর গাঠনিক একক অ্যামাইনো এসিডে **নাইট্রোজেন**ও থাকে। দেহ বাড়তি অ্যামাইনো এসিড জমিয়ে রাখতে পারে না। তাই [[5.8|যকৃতের কাজে]] যেমন দেখেছ, **যকৃৎ** বাড়তি অ্যামাইনো এসিড থেকে নাইট্রোজেনের অংশটুকু আলাদা করে ফেলে। এতে প্রথমে তৈরি হয় **অ্যামোনিয়া**, যা খুবই বিষাক্ত; যকৃৎ সাথে সাথেই তাকে অনেক কম ক্ষতিকর **ইউরিয়ায়** বদলে দেয়। ইউরিয়া রক্তে দ্রবীভূত হয়ে ঘুরতে থাকে, যতক্ষণ না বৃক্ক তাকে সরিয়ে নেয়।
+
+সাথে আরও দুটি নাইট্রোজেনঘটিত বর্জ্য তৈরি হয়: **ইউরিক এসিড**, যা পুরোনো কোষ ও খাদ্যের নিউক্লিক এসিড ভাঙলে তৈরি হয়, আর **ক্রিয়েটিনিন**, যা তৈরি হয় সক্রিয় পেশিতে। এদের সবাইকে একসাথে বলে **নাইট্রোজেনঘটিত বর্জ্য পদার্থ**।
+
+**কোন বর্জ্য, কোন অঙ্গ?** তোমার বইয়ে এ রকম একটি ছক পূরণ করতে বলা হয়েছে:
+
+| বর্জ্য | কোথায় তৈরি হয় | যে অঙ্গ বের করে | কীভাবে বের হয় |
+| কার্বন ডাই-অক্সাইড | প্রতিটি সজীব কোষে, শ্বসনে | ফুসফুস | নিঃশ্বাসের বাতাসে |
+| ইউরিয়া | যকৃতে, বাড়তি অ্যামাইনো এসিড থেকে | বৃক্ক | মূত্রে (ঘামে সামান্য) |
+| ইউরিক এসিড, ক্রিয়েটিনিন | যকৃৎ ও অন্যান্য টিস্যু; পেশি | বৃক্ক | মূত্রে |
+| অতিরিক্ত পানি | পানীয় ও খাদ্য থেকে, আর শ্বসন থেকে | বৃক্ক (সাথে ত্বক ও ফুসফুস) | মূত্র, ঘাম, জলীয় বাষ্প |
+| অতিরিক্ত লবণ | খাদ্য থেকে | বৃক্ক (সাথে ত্বক) | মূত্র, ঘাম |
+
+> তোমার বইয়ে রেচনের সংজ্ঞায় **নাইট্রোজেনঘটিত** বর্জ্যের কথা বলা হয়েছে, কারণ এই অধ্যায়ের বিষয় সেটাই। ব্যাপক অর্থে ফুসফুস দিয়ে কার্বন ডাই-অক্সাইড বের হওয়া আর ত্বক দিয়ে ঘাম বের হওয়াও রেচন; বইয়ের কাজের ছকেও কার্বন ডাই-অক্সাইডের নাম আছে। পরীক্ষায় সংজ্ঞা লিখতে বইয়ের কথাটাই লিখবে।
+
+**রেচন আর মলত্যাগ এক নয়।** মলের বেশির ভাগই অপাচ্য খাদ্য, যা পৌষ্টিকনালি দিয়ে চলে গেছে, কখনো কোনো কোষের অংশ হয়নি। এটি বিপাকে তৈরি হয়নি, তাই মলত্যাগ রেচন নয়। রেচন পদার্থ তৈরি হয় কোষের *ভেতরে*, আর রক্ত তা বয়ে নিয়ে যায়।
+
+**রেচনতন্ত্র।** যে অঙ্গগুলো নাইট্রোজেনঘটিত বর্জ্য বের করে, তারা মিলে **রেচনতন্ত্র** গঠন করে:
+- দুটি **বৃক্ক**, দেখতে শিমবীজের মতো, উদরগহ্বরের পেছন দিকে মেরুদণ্ডের দুই পাশে একটি করে; এরা মূত্র তৈরি করে;
+- দুটি **ইউরেটার**, সরু নল, বৃক্ক থেকে মূত্র নিচে নামিয়ে আনে;
+- একটি **মূত্রথলি** (মূত্রাশয়), প্রসারণশীল থলি, মূত্র কিছুক্ষণ জমা রাখে;
+- একটি **মূত্রনালি** (ইউরেথ্রা), ছোট নল, এর ভেতর দিয়ে মূত্র দেহের বাইরে যায়।
+
+প্রতিটি বৃক্কে রক্ত আসে **রেনাল ধমনি** দিয়ে, যা পৃষ্ঠীয় মহাধমনির একটি শাখা। পরিষ্কার হওয়া রক্ত বেরিয়ে যায় **রেনাল শিরা** দিয়ে, আর নিম্ন মহাশিরায় মিশে হৃৎপিণ্ডের দিকে ফেরে। (*রেনাল* মানে "বৃক্ক-সম্পর্কিত"।)
+
+**মূত্রে কী থাকে?** স্বাভাবিক মূত্রের ভরের প্রায় **৯৫% পানি**। বাকি ৫%-এর মতো হলো দ্রবীভূত পদার্থ: ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন, সামান্য অ্যামোনিয়া আর বিভিন্ন ধরনের লবণ। **ইউরোক্রোম** নামের একটি রঞ্জক পদার্থের কারণে মূত্রের রং **হালকা হলুদ**। খাবারভেদে মূত্র একটু বদলায়: বেশি আমিষজাতীয় খাদ্য (মাংস, মাছ, ডিম, ডাল) খেলে মূত্রের **অম্লতা বাড়ে**, আর ফলমূল ও তরিতরকারি খেলে সাধারণত **ক্ষারীয়** মূত্র তৈরি হয়।
+
+**বর্জ্য বের না হলে।** রক্তে বর্জ্য জমতে থাকলে নানা রকম অসুখ দেখা দেয়, আর কিছু করা না হলে মৃত্যু পর্যন্ত হতে পারে। এ জন্যই বৃক্ক সারা জীবন এক মুহূর্ত না থেমে কাজ করে, আর এ জন্যই বৃক্ক বিকল হওয়া ([[8.3|পাঠ ৮.৩]] দেখো) এত গুরুতর ব্যাপার।
+## analogy
+পাঁচশ অতিথির জন্য রান্না চলছে এমন একটা বিয়েবাড়ির রান্নাঘরের কথা ভাবো। রান্নায় দারুণ সব খাবার তৈরি হচ্ছে, সাথে হচ্ছে ধোঁয়া, তরকারির খোসা আর গামলা গামলা থালা-ধোয়া নোংরা পানি। ধোঁয়া শামিয়ানার খোলা দিক দিয়ে বেরিয়ে যায়, নোংরা পানি নালা দিয়ে চলে যায়, খোসা সরিয়ে নেয় একজন সহকারী। এক দিন কেউ এগুলো না সরালে বাবুর্চিরা কাজই করতে পারতেন না। তোমার দেহ সেই রান্নাঘর: ফুসফুস বের করে দেয় "ধোঁয়া" (কার্বন ডাই-অক্সাইড), আর বৃক্ক হলো সেই নালা, যা পানিতে গোলা বর্জ্যগুলো বয়ে নিয়ে যায়।
+## definition
+**রেচন**: যে জৈবিক প্রক্রিয়ায় দেহে বিপাকের ফলে উৎপন্ন ক্ষতিকর বর্জ্য পদার্থ, প্রধানত নাইট্রোজেনঘটিত বর্জ্য, দেহ থেকে বের করে দেওয়া হয়।
+
+**রেচনতন্ত্র**: যে তন্ত্রের মাধ্যমে দেহের নাইট্রোজেনঘটিত বর্জ্য পদার্থ নিষ্কাশিত হয়। মানুষের রেচনতন্ত্র দুটি বৃক্ক, দুটি ইউরেটার, মূত্রথলি ও মূত্রনালি নিয়ে গঠিত।
+
+**রেচন পদার্থ**: রেচনের মাধ্যমে যেসব বর্জ্য বের হয়; মূলত ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিনের মতো নাইট্রোজেনঘটিত পদার্থ। মানুষের রেচন পদার্থ মূত্রের মাধ্যমে দেহ থেকে বের হয়।
+## why
+**বর্জ্য রেখে দিলে ক্ষতি কী?** অ্যামোনিয়া এতই বিষাক্ত যে রক্তে এর পরিমাণ সামান্য বাড়লেই মস্তিষ্কের ক্ষতি হয়। ইউরিয়া অনেক কম ক্ষতিকর, তবু এটি আর অন্য বর্জ্যগুলো জমতে থাকলে প্রতিটি অঙ্গের কাজ এলোমেলো হয়ে যায়। কোষ তার রাসায়নিক কাজ ঠিকমতো করতে পারে কেবল তখনই, যখন তার চারপাশের তরল পরিষ্কার ও স্থির থাকে।
+
+**ইউরিয়া বানায় যকৃৎ, অথচ বের করে বৃক্ক, কেন?** কারণ কাজ দুটি আলাদা। যকৃৎ দেহের রাসায়নিক কারখানা: বিপজ্জনক অ্যামোনিয়াকে সে নিরাপদ, সহজে দ্রবণীয় ইউরিয়ায় বদলে দেয়। বৃক্ক হলো ছাঁকনি: রক্ত থেকে ইউরিয়া বেছে বের করে। আর রক্ত হলো এই দুইয়ের মাঝের রাস্তা।
+
+**পানি আর লবণও বের করা হয় কেন?** এরা বিষাক্ত বলে নয়, বরং দেহে এদের পরিমাণ একেবারে ঠিকঠাক রাখতে হয় বলে। রক্তে পানি বা লবণ বেশি হলেও ক্ষতি, কম হলেও ক্ষতি। তাই বৃক্ক শুধু *বাড়তি* অংশটুকু বের করে। কীভাবে, তা দেখবে [[8.2.1|পাঠ ৮.২.১]]-এ।
+## terms
+রেচন (Excretion) | বিপাকে তৈরি ক্ষতিকর বর্জ্য (প্রধানত নাইট্রোজেনঘটিত) দেহ থেকে বের করে দেওয়া
+বিপাক (Metabolism) | জীবদেহের কোষের ভেতরে চলা সব রাসায়নিক বিক্রিয়া
+নাইট্রোজেনঘটিত বর্জ্য (Nitrogenous waste) | নাইট্রোজেন আছে এমন বর্জ্য: ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন, অ্যামোনিয়া
+ইউরিয়া (Urea) | মানুষের প্রধান নাইট্রোজেনঘটিত বর্জ্য; যকৃতে বাড়তি অ্যামাইনো এসিড থেকে তৈরি হয়
+ইউরিক এসিড (Uric acid) | নিউক্লিক এসিড ভাঙলে তৈরি হওয়া নাইট্রোজেনঘটিত বর্জ্য
+ক্রিয়েটিনিন (Creatinine) | পেশিতে তৈরি নাইট্রোজেনঘটিত বর্জ্য; রক্তে এর মাত্রা দেখে বৃক্কের অবস্থা বোঝা যায়
+বৃক্ক বা কিডনি (Kidney) | শিমবীজ আকৃতির রেচন অঙ্গ, যা রক্ত থেকে মূত্র তৈরি করে
+ইউরেটার (Ureter) | বৃক্ক থেকে মূত্রথলিতে মূত্র নিয়ে যাওয়া নল
+মূত্রথলি বা মূত্রাশয় (Urinary bladder) | পেশিবহুল থলি, যেখানে মূত্র সাময়িকভাবে জমা থাকে
+মূত্রনালি (Urethra) | যে নল দিয়ে মূত্র দেহের বাইরে যায়
+ইউরোক্রোম (Urochrome) | যে রঞ্জক পদার্থের কারণে মূত্র হালকা হলুদ
+## visual
+"রেচনতন্ত্র" অংশে প্রতিটি অঙ্গে (বা "পরের ধাপ" বোতামে) চাপ দিয়ে মূত্রের সাথে বৃক্ক থেকে দেহের বাইরে পর্যন্ত যাও। "কোন বর্জ্য?" অংশে একটি বর্জ্য বেছে দেখো সেটি কোথায় তৈরি হয় আর কোন অঙ্গ তা বের করে। "মূত্র" অংশে দেখো মূত্রে কী কী থাকে আর খাবার ও পানিতে তা কীভাবে বদলায়।
+## real
+চৈত্রের গরম দুপুরে এক ঘণ্টা ফুটবল খেললে প্রচুর ঘাম হয়। পরে খেয়াল করবে, প্রস্রাব হচ্ছে খুব কম, আর রং স্বাভাবিকের চেয়ে গাঢ় হলুদ। এতে ভয়ের কিছু নেই: ত্বক দিয়ে দেহের পানি বেরিয়ে গেছে, তাই বৃক্ক পানি বাঁচিয়েছে আর একই বর্জ্য কম পানিতে বের করেছে। পানি পান করলেই রং আবার হালকা হয়ে আসে।
+
+কেউ অসুস্থ হলে ডাক্তার প্রায়ই **প্রস্রাব পরীক্ষা** আর **রক্তের ক্রিয়েটিনিন পরীক্ষা** করাতে বলেন। প্রস্রাবে প্রোটিন, চিনি বা রক্ত পাওয়া গেলে, কিংবা রক্তে ক্রিয়েটিনিন বেশি থাকলে ডাক্তার বুঝতে পারেন বৃক্কে কোনো সমস্যা হয়ে থাকতে পারে, রোগী নিজে কিছু টের পাওয়ার অনেক আগেই। অর্থাৎ যে বর্জ্যগুলোর কথা এখানে পড়লে, সেগুলো স্বাস্থ্যের খবরও দেয়।
+## example
+প্রশ্ন: একজন সুস্থ প্রাপ্তবয়স্ক মানুষ দিনে প্রায় ১৫০০ g মূত্র ত্যাগ করেন। এর ভরের ৯৫% পানি হলে মূত্রে কতটা পানি আর কতটা দ্রবীভূত পদার্থ আছে?
+দেওয়া আছে: মূত্রের ভর = ১৫০০ g; পানি = ভরের ৯৫%
+সূত্র: পানির ভর = মোট ভরের ৯৫%; দ্রবীভূত পদার্থ = মোট ভর − পানির ভর
+হিসাব: পানির ভর = (৯৫ ÷ ১০০) × ১৫০০ = ১৪২৫ g
+দ্রবীভূত পদার্থ = ১৫০০ − ১৪২৫ = ৭৫ g
+> অর্থাৎ সারা দিনের সব ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন আর লবণ মিলে মাত্র ৭৫ g-এর মতো। বাকিটা হলো এগুলোকে বয়ে বের করার পানি।
+উত্তর: প্রায় ১৪২৫ g পানি আর প্রায় ৭৫ g দ্রবীভূত বর্জ্য ও লবণ।
+## example
+প্রশ্ন: বইয়ের ছকটি পূরণ করো: (ক) কার্বন ডাই-অক্সাইড, (খ) ইউরিয়া ও ইউরিক এসিড, (গ) অতিরিক্ত পানি, এগুলো কোন অঙ্গ কীভাবে বের করে?
+সমাধান: প্রতিটি বর্জ্যের বেলায় দুটি প্রশ্ন করো: এটি কোথায় তৈরি হয়, আর কোন পথে বের হয়?
+ধাপ: (ক) কার্বন ডাই-অক্সাইড তৈরি হয় প্রতিটি কোষে, শ্বসনের সময়। রক্ত তাকে **ফুসফুসে** নিয়ে যায়, আর নিঃশ্বাসের বাতাসের সাথে তা বেরিয়ে যায়।
+ধাপ: (খ) ইউরিয়া তৈরি হয় যকৃতে, ইউরিক এসিড যকৃৎ ও অন্যান্য টিস্যুতে। এরা নাইট্রোজেনঘটিত বর্জ্য; রক্ত এদের **বৃক্কে** নিয়ে যায়, বৃক্ক মূত্রের সাথে বের করে দেয়।
+ধাপ: (গ) অতিরিক্ত পানি প্রধানত **বৃক্ক** মূত্র হিসেবে বের করে। কিছুটা বের হয় **ত্বক** দিয়ে ঘাম হিসেবে আর **ফুসফুস** দিয়ে জলীয় বাষ্প হিসেবে।
+উত্তর: (ক) ফুসফুস, নিঃশ্বাসের সাথে; (খ) বৃক্ক, মূত্রের সাথে; (গ) প্রধানত বৃক্ক (মূত্র), সাথে ত্বক (ঘাম) ও ফুসফুস (জলীয় বাষ্প)।
+## example
+প্রশ্ন: রাফি বিয়ের দাওয়াতে প্রচুর মাংস খেল। শিলা সেদিন খেল মূলত শাকসবজি আর ফল। কার মূত্র বেশি অম্লীয় হওয়ার কথা, আর কার রক্ত বৃক্কে বেশি ইউরিয়া বয়ে নেবে? ব্যাখ্যা করো।
+সমাধান: খাবারের সাথে তার বর্জ্যের সম্পর্ক মেলাও।
+ধাপ: মাংসে প্রচুর আমিষ থাকে। আমিষ পরিপাক হয়ে অ্যামাইনো এসিড হয়, আর বাড়তি অ্যামাইনো এসিড যকৃতে ভেঙে ইউরিয়া তৈরি হয়। আমিষ বেশি মানে রক্তে ইউরিয়া বেশি, যা বৃক্ককে সরাতে হবে।
+ধাপ: আমিষজাতীয় খাদ্য মূত্রের অম্লতা বাড়ায়। ফলমূল ও তরিতরকারি খেলে সাধারণত ক্ষারীয় মূত্র তৈরি হয়।
+উত্তর: রাফির মূত্র বেশি অম্লীয় হওয়ার কথা এবং তার রক্তে ইউরিয়াও বেশি থাকবে; শিলার মূত্র ক্ষারীয় হওয়ার কথা।
+## mistakes
+x ইউরিয়া বৃক্কে তৈরি হয়।
+v ইউরিয়া তৈরি হয় **যকৃতে**। বৃক্ক শুধু রক্ত থেকে তা ছেঁকে মূত্রের সাথে বের করে দেয়।
+x রেচন মানে মলত্যাগ।
+v মল হলো অপাচ্য খাদ্য, বিপাকে তৈরি পদার্থ নয়। রেচন হলো কোষের ভেতরে তৈরি বর্জ্য, যেমন ইউরিয়া ও কার্বন ডাই-অক্সাইড, বের করে দেওয়া।
+x শুধু বৃক্কই দেহের বর্জ্য বের করে।
+v বৃক্ক প্রধান রেচন অঙ্গ, তবে ফুসফুস কার্বন ডাই-অক্সাইড বের করে, আর ত্বক ঘামের সাথে পানি, লবণ ও সামান্য ইউরিয়া বের করে।
+x ইউরিয়ার কারণে মূত্রের রং হলুদ।
+v ইউরিয়া বর্ণহীন। হলুদ রং আসে ইউরোক্রোম নামের রঞ্জক পদার্থ থেকে।
+x ইউরেটার আর মূত্রনালি (ইউরেথ্রা) একই নল।
+v ইউরেটার দুটি, বৃক্ক থেকে মূত্রথলি পর্যন্ত; মূত্রনালি একটি, মূত্রথলি থেকে দেহের বাইরে পর্যন্ত।
+## remember
+- রেচন = বিপাকে তৈরি ক্ষতিকর বর্জ্য, প্রধানত নাইট্রোজেনঘটিত বর্জ্য, দেহ থেকে বের করে দেওয়া।
+- নাইট্রোজেনঘটিত বর্জ্য: ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন, অ্যামোনিয়া। ইউরিয়া তৈরি হয় যকৃতে।
+- রেচনতন্ত্র: ২টি বৃক্ক → ২টি ইউরেটার → ১টি মূত্রথলি → ১টি মূত্রনালি।
+- রেচন অঙ্গ হলো বৃক্ক; বৃক্কের একক নেফ্রন।
+- মূত্রের ভরের প্রায় ৯৫% পানি; বাকিটা ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন ও লবণ।
+- ইউরোক্রোমের কারণে মূত্র হালকা হলুদ। আমিষজাতীয় খাদ্যে মূত্রের অম্লতা বাড়ে; ফলমূল ও তরিতরকারিতে মূত্র ক্ষারীয় হয়।
+- ফুসফুস কার্বন ডাই-অক্সাইড বের করে; ত্বক ঘামের সাথে কিছু পানি ও লবণ বের করে।
+- বর্জ্য দেহে জমে থাকলে নানা অসুখ হয়, এমনকি মৃত্যুও হতে পারে।
+## think
+উট অনেক দিন পানি না খেয়ে থাকতে পারে, আর মিঠা পানির মাছ সারাক্ষণ পানির মধ্যেই থাকে। এ দুটির কোনটি খুব অল্প, খুব ঘন মূত্র ত্যাগ করবে বলে তোমার মনে হয়, আর কোনটি প্রচুর, খুব পাতলা মূত্র? কেন?
+## quiz
+? ইউরিয়া কোথায় তৈরি হয়?
+- বৃক্কে
+* যকৃতে
+- মূত্রথলিতে
+- রেনাল ধমনিতে
+= যকৃৎ বাড়তি অ্যামাইনো এসিডের নাইট্রোজেন থেকে ইউরিয়া তৈরি করে। বৃক্ক শুধু রক্ত থেকে তা সরিয়ে দেয়।
+? কোনটিতে মূত্রের চলার পথ ঠিক ক্রমে দেওয়া আছে?
+- বৃক্ক → মূত্রনালি → মূত্রথলি → ইউরেটার
+- ইউরেটার → বৃক্ক → মূত্রথলি → মূত্রনালি
+* বৃক্ক → ইউরেটার → মূত্রথলি → মূত্রনালি
+- মূত্রথলি → বৃক্ক → ইউরেটার → মূত্রনালি
+= মূত্র তৈরি হয় বৃক্কে, ইউরেটার দিয়ে নামে, মূত্রথলিতে জমা থাকে, আর মূত্রনালি দিয়ে বাইরে যায়।
+? স্বাভাবিক মূত্রের ভরের প্রায় কত শতাংশ পানি?
+- ৫০%
+- ৭৫%
+- ৮৫%
+* ৯৫%
+= স্বাভাবিক মূত্রের প্রায় ৯৫% পানি; বাকিটা ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন ও লবণ।
+? কোন পদার্থের কারণে মূত্রের রং হালকা হলুদ?
+* ইউরোক্রোম
+- ইউরিয়া
+- ইউরিক এসিড
+- ক্রিয়েটিনিন
+= ইউরোক্রোম একটি রঞ্জক পদার্থ। ইউরিয়া, ইউরিক এসিড ও ক্রিয়েটিনিনের দ্রবণ বর্ণহীন।
+? নিচের কোনটি নাইট্রোজেনঘটিত বর্জ্য নয়?
+- ইউরিয়া
+- ইউরিক এসিড
+* কার্বন ডাই-অক্সাইড
+- ক্রিয়েটিনিন
+= কার্বন ডাই-অক্সাইডে শুধু কার্বন আর অক্সিজেন আছে। এটি শ্বসনের বর্জ্য, ফুসফুস একে বের করে।
+
+@@ 8.2
+@visual b8kidney
+@related 8.1 8.2.1 8.3 6.4.3
+== en
+## what
+A **kidney** is a bean-shaped organ with an outer **cortex**, an inner **medulla** made of renal pyramids, and a funnel-shaped **pelvis** that collects the urine. Each kidney is packed with about a million microscopic filtering units called **nephrons**, and every nephron has a **renal corpuscle** (glomerulus + Bowman's capsule) and a long **renal tubule**.
+## simple
+**Find your kidneys.** Stand up and put your hands on your waist with the thumbs pointing backwards. Now slide your hands up until they touch your lowest ribs. Your two kidneys lie just there, deep under the muscles of the back, one on each side of the backbone, at the back of the abdominal cavity and partly protected by the lower ribs. Each one is about the size of your fist, reddish-brown, and shaped like a bean seed.
+
+**The outside.** The outer edge of a kidney is **convex** (bulging) and the inner edge, facing the backbone, is **concave** (curved in). The notch in the concave edge is the **hilum** (also called hilus). Think of the hilum as the gate of the kidney:
+- the **renal artery** goes *in* here, bringing blood to be cleaned;
+- the **renal vein** comes *out* here, carrying the cleaned blood away;
+- the **ureter** comes *out* here, carrying the urine.
+
+The top of the ureter widens like a funnel inside the kidney. This funnel is the **renal pelvis**.
+
+**Cut it open lengthwise.** If a kidney is cut from top to bottom (a longitudinal section, L.S.), you see these regions from outside to inside:
+
+| Part | What it is |
+| Renal capsule | the tough, fibrous covering wrapped all round the kidney |
+| Cortex | the outer region, just under the capsule |
+| Medulla | the inner region; it holds 8 to 12 cone-shaped **renal pyramids** |
+| Renal papilla | the tip of each pyramid, pointing inwards; it opens into the pelvis |
+| Renal pelvis | the funnel that collects the urine and leads into the ureter |
+
+Both the cortex and the medulla are made of connective tissue and a great many blood vessels, and between them lie the tubules that do the real work.
+
+> One edition of your book says the papillae open "into the ureter" and the other says "into the pelvis". Both mean the same place, because the pelvis is the wide, funnel-shaped beginning of the ureter. Write **pelvis**: it is the more exact word.
+
+**The tubules inside.** The kidney is filled with special microscopic tubes called **uriniferous tubules**. Each uriniferous tubule has two parts:
+- a **nephron**, which *makes* the urine, and
+- a **collecting tubule**, which *carries* the urine to the renal pelvis.
+
+**The nephron.** The nephron is the structural and functional unit of the kidney. Each human kidney has about **10 to 12 lakh** (1 to 1.2 million) of them. A nephron has two main parts.
+
+*1. The renal corpuscle (Malpighian body).* This is the filter. It has two parts:
+- **Bowman's capsule**: a cup with a double wall, like a soft ball pushed in with your fist. It is made of two layers of epithelial cells.
+- **Glomerulus**: a tiny knot of blood capillaries sitting inside that cup. A small artery called the **afferent arteriole**, a branch of the renal artery, enters the capsule and splits into about 50 capillaries. These divide again into a fine network. Then the capillaries join together into the **efferent arteriole**, which leaves the capsule.
+
+The glomerulus works like a strainer. Part of the liquid of the blood is pressed out through it into the capsule. This filtered liquid is called the **ultrafiltrate**.
+
+*2. The renal tubule.* This is the long, twisted tube that runs from Bowman's capsule to the collecting tubule. It has three regions, in this order:
+- the **proximal convoluted tubule** (the coiled part *near* the capsule),
+- the **loop of Henle** (a long U-shaped loop),
+- the **distal convoluted tubule** (the coiled part *far* from the capsule).
+
+As the ultrafiltrate flows along the renal tubule, useful substances are taken back into the blood and a few more wastes are added. What is left at the end is **urine**. You will follow this step by step in [[8.2.1|the next lesson]].
+
+**Where the parts sit.** The renal corpuscles and the two coiled tubules lie in the **cortex**. The loops of Henle and the collecting tubules run down into the **medulla**; these thousands of straight tubes lying side by side are what give a pyramid its striped look.
+
+**Two roads through a nephron.** Keep the road of the blood and the road of the urine apart in your mind:
+- *Blood*: renal artery → afferent arteriole → glomerulus → efferent arteriole → capillaries around the tubule → renal vein.
+- *Filtrate / urine*: Bowman's capsule → proximal convoluted tubule → loop of Henle → distal convoluted tubule → collecting tubule → renal pelvis → ureter → urinary bladder → urethra.
+
+**What the kidneys do for you.** A normal adult passes about 1500 mL of urine a day. By making this urine the kidneys:
+- remove the nitrogenous wastes (urea, uric acid, ammonia, creatinine);
+- control the amounts of sodium, potassium and chloride in the body;
+- keep the balance of water, and of acids and bases, in the blood;
+- help to control blood pressure.
+## analogy
+Think of a big garments factory in Gazipur with a million identical sewing lines. Every line does the whole job by itself: cloth goes in at one end and a finished shirt comes out at the other. All the lines send their shirts to one loading bay. A kidney is such a factory: each nephron is one complete line that turns blood plasma into urine, the collecting tubules are the conveyor belts, and the pelvis is the loading bay. Because there are so many lines, the factory keeps running even if some of them stop.
+## definition
+**Kidney**: the bean-shaped excretory organ of the human body. A pair of kidneys lies at the back of the abdominal cavity, on either side of the vertebral column, below the rib cage.
+
+**Hilum (hilus)**: the notch on the concave side of the kidney through which the renal artery enters and the renal vein and ureter leave.
+
+**Nephron**: the secretory part of a uriniferous tubule; the structural and functional unit of the kidney. It consists of a renal corpuscle (Malpighian body) and a renal tubule.
+
+**Renal corpuscle (Malpighian body)**: the glomerulus together with the Bowman's capsule that encloses it.
+
+**Glomerulus**: the cluster of blood capillaries inside Bowman's capsule, formed from the afferent arteriole, which filters the blood.
+
+**Ultrafiltrate**: the liquid filtered from the blood by the glomerulus into Bowman's capsule.
+## why
+**Why a million tiny filters and not one big one?** Filtering happens at a surface. A million small knots of capillaries have a far larger total surface than one large bag could have, so a great deal of blood can be filtered every minute. So many units also give a big reserve: a person can live a healthy life with only one kidney.
+
+**Why is the capsule a double-walled cup?** The inner wall lies closely against the capillaries, and the space between the two walls catches every drop that is filtered and leads it straight into the tubule. Nothing is spilt.
+
+**Why does the afferent arteriole break into so many capillaries?** More capillaries mean more thin wall through which liquid can be pressed out. The arteriole that brings blood in is also a little wider than the one that takes it out, so the blood is held under pressure in the glomerulus. You will see in the next lesson why that pressure matters.
+
+**Why is the tubule so long and coiled?** The filtrate contains glucose, salts and water that the body must not lose. A long, coiled tube wrapped in capillaries gives enough surface and enough time to take them back.
+## terms
+Hilum (hilus) | The notch on the concave side of the kidney; gate for the renal artery, renal vein and ureter
+Renal capsule | The fibrous covering round the kidney
+Cortex | The outer region of the kidney, next to the capsule
+Medulla | The inner region of the kidney; contains the renal pyramids
+Renal pyramid | A cone-shaped mass in the medulla; usually 8 to 12 in a kidney
+Renal papilla | The tip of a renal pyramid, opening into the pelvis
+Renal pelvis | The funnel-shaped wide part of the ureter inside the kidney
+Uriniferous tubule | A microscopic tubule of the kidney = nephron + collecting tubule
+Nephron | The structural and functional unit of the kidney; makes urine
+Renal corpuscle (Malpighian body) | Glomerulus + Bowman's capsule
+Bowman's capsule | The double-walled cup that encloses the glomerulus
+Glomerulus | The knot of capillaries inside Bowman's capsule; the filter
+Afferent arteriole | The small artery that brings blood into the glomerulus
+Efferent arteriole | The small artery that takes blood out of the glomerulus
+Renal tubule | The tube from Bowman's capsule to the collecting tubule: proximal convoluted tubule, loop of Henle, distal convoluted tubule
+Collecting tubule | The tube that carries urine from nephrons to the renal pelvis
+Ultrafiltrate | The liquid filtered out of the blood by the glomerulus
+## visual
+In "Kidney", tap the labels to learn each part of the cut kidney. Then open "Nephron" and tap its parts one by one, or press "Follow the blood" and "Follow the filtrate" to see the two roads light up in order.
+## real
+At Eid-ul-Azha, or at a butcher's shop, you may see the kidney (*gurda*) of a goat or a cow. It has the same bean shape as yours. If an elder cuts one lengthwise for cooking, look closely before it goes into the pot: the darker outer band is the cortex, the paler striped triangles inside are the pyramids of the medulla, and the whitish hollow in the middle, leading to a tube, is the pelvis with the start of the ureter. (Wash your hands with soap afterwards.)
+
+When a doctor wants to look at someone's kidneys without any cutting, an **ultrasound** scan is used. It shows the size of each kidney, the cortex and the pelvis, and whether a stone is sitting anywhere.
+## example
+Q: Each human kidney has about 10 to 12 lakh nephrons. About how many nephrons does a person have in all? If each nephron's tubule were about 3 cm long, what would be the total length of the tubules of 20 lakh nephrons?
+Given: nephrons in one kidney = 10 to 12 lakh; number of kidneys = 2; length of one tubule ≈ 3 cm
+Calculation: total nephrons = 2 × (10 to 12 lakh) = 20 to 24 lakh (2 to 2.4 million)
+total length for 20 lakh nephrons = 20 00 000 × 3 cm = 60 00 000 cm = 60 000 m = 60 km
+> The 3 cm is only a rough figure to show the scale. The point is that two fist-sized organs hold tens of kilometres of tubule.
+Answer: about 20 to 24 lakh nephrons; their tubules placed end to end would stretch for about 60 km.
+## example
+Q: A urea molecule is in the blood of the renal artery. It is filtered and ends up in the urinary bladder. Write, in order, the structures it passes through.
+Solution: First follow the blood as far as the filter, then follow the filtrate.
+Step: With the blood: renal artery → afferent arteriole → glomerulus.
+Step: It is filtered into Bowman's capsule, and is now part of the ultrafiltrate.
+Step: With the filtrate: proximal convoluted tubule → loop of Henle → distal convoluted tubule → collecting tubule.
+Step: With the urine: renal pelvis → ureter → urinary bladder.
+Answer: renal artery → afferent arteriole → glomerulus → Bowman's capsule → proximal convoluted tubule → loop of Henle → distal convoluted tubule → collecting tubule → renal pelvis → ureter → urinary bladder.
+## example
+Q: A figure shows a cup-shaped structure, and inside it a knot of capillaries labelled A. (a) The figure is the unit of which organ? (b) Which of these are true of A: (i) it acts like a filter, (ii) it produces ultrafiltrate, (iii) it absorbs water?
+Solution: Recognise the parts first.
+Step: A cup enclosing a knot of capillaries is a renal corpuscle: the cup is Bowman's capsule and the knot, A, is the glomerulus. This is part of a nephron, the unit of the **kidney**.
+Step: The glomerulus works as a filter, and the liquid it filters out of the blood is the ultrafiltrate. So (i) and (ii) are true.
+Step: Water is taken back later, in the renal tubule, not in the glomerulus. So (iii) is false.
+Answer: (a) the kidney; (b) (i) and (ii) only.
+## mistakes
+x The cortex is the inner part of the kidney and the medulla is the outer part.
+v The cortex is the outer region, next to the capsule. The medulla, with its pyramids, is inside.
+x The glomerulus encloses Bowman's capsule.
+v It is the other way round: Bowman's capsule is the cup, and the glomerulus sits inside it.
+x The afferent arteriole carries blood away from the glomerulus.
+v The **a**fferent arteriole **a**rrives with blood; the **e**fferent arteriole **e**xits with it.
+x The renal vein brings blood to the kidney.
+v The renal artery brings blood in; the renal vein takes the cleaned blood out.
+x A nephron and a neuron are the same thing.
+v A nephron is the unit of the kidney. A neuron is a nerve cell.
+x The collecting tubule is a part of the nephron's renal tubule.
+v The renal tubule has three parts (proximal convoluted tubule, loop of Henle, distal convoluted tubule). The collecting tubule is the other part of the uriniferous tubule; it receives urine from the nephrons.
+## remember
+- Two kidneys: bean-shaped, reddish, at the back of the abdomen on either side of the backbone, below the rib cage.
+- Hilum = notch on the concave side: renal artery in; renal vein and ureter out.
+- From outside in: renal capsule → cortex → medulla (8–12 renal pyramids, tips = papillae) → renal pelvis → ureter.
+- Uriniferous tubule = nephron (makes urine) + collecting tubule (carries urine to the pelvis).
+- Nephron = unit of structure and function; about 10–12 lakh in each kidney.
+- Nephron = renal corpuscle (glomerulus + Bowman's capsule) + renal tubule.
+- Renal tubule = proximal convoluted tubule → loop of Henle → distal convoluted tubule.
+- Afferent arteriole brings blood into the glomerulus (about 50 capillaries); efferent arteriole takes it out.
+- The glomerulus is the filter; the filtered liquid is the ultrafiltrate.
+- The kidneys remove nitrogenous wastes, balance water, salts, acids and bases, and help control blood pressure.
+## think
+Some people are born with only one kidney, and many people donate one kidney to a relative, yet they live normal, healthy lives. What does this tell you about the number of nephrons we really need compared with the number we have?
+## quiz
+? What is the structural and functional unit of the kidney?
+- Neuron
+* Nephron
+- Renal pyramid
+- Glomerulus
+= The nephron makes urine and is the unit of the kidney. Each kidney has about 10 to 12 lakh nephrons.
+? Which two parts together make up the renal corpuscle (Malpighian body)?
+- Cortex and medulla
+- Proximal and distal convoluted tubules
+* Glomerulus and Bowman's capsule
+- Loop of Henle and collecting tubule
+= Bowman's capsule is the cup; the glomerulus is the knot of capillaries inside it.
+? In which region of the kidney are the renal pyramids found?
+- Capsule
+- Cortex
+- Pelvis
+* Medulla
+= The medulla usually has 8 to 12 renal pyramids. Their tips, the papillae, open into the pelvis.
+? Which vessel brings blood into the glomerulus?
+* Afferent arteriole
+- Efferent arteriole
+- Renal vein
+- Ureter
+= The afferent arteriole, a branch of the renal artery, enters Bowman's capsule and forms the glomerulus.
+? Which is the correct order of the parts of the renal tubule, starting from Bowman's capsule?
+- Loop of Henle → proximal convoluted tubule → distal convoluted tubule
+- Distal convoluted tubule → loop of Henle → proximal convoluted tubule
+* Proximal convoluted tubule → loop of Henle → distal convoluted tubule
+- Proximal convoluted tubule → distal convoluted tubule → loop of Henle
+= Proximal means near the capsule and distal means far from it; the loop of Henle lies between them.
+== bn
+## what
+**বৃক্ক** শিমবীজ আকৃতির একটি অঙ্গ; এর বাইরের দিকে থাকে **কর্টেক্স**, ভেতরের দিকে রেনাল পিরামিড দিয়ে তৈরি **মেডুলা**, আর মূত্র জমা হওয়ার ফানেল আকৃতির **পেলভিস**। প্রতিটি বৃক্কে থাকে প্রায় দশ লক্ষ আণুবীক্ষণিক ছাঁকন-একক, যাদের নাম **নেফ্রন**; প্রতিটি নেফ্রনে থাকে একটি **রেনাল করপাসল** (গ্লোমেরুলাস + বোম্যান্স ক্যাপসুল) আর একটি লম্বা **রেনাল টিউব্যুল**।
+## simple
+**নিজের বৃক্ক খুঁজে নাও।** দাঁড়িয়ে দুই হাত কোমরে রাখো, বুড়ো আঙুল থাকুক পিঠের দিকে। এবার হাত দুটো ওপরে তোলো, যতক্ষণ না সবচেয়ে নিচের পাঁজরে ঠেকে। তোমার দুটি বৃক্ক ঠিক ওখানেই, পিঠের পেশির গভীরে, মেরুদণ্ডের দুই পাশে একটি করে; উদরগহ্বরের পেছনের অংশে, বক্ষপিঞ্জরের নিচের পাঁজরের আড়ালে আংশিক সুরক্ষিত। প্রতিটি বৃক্ক তোমার মুঠির সমান, রং লালচে, আর দেখতে শিমবীজের মতো।
+
+**বাইরে থেকে।** বৃক্কের বাইরের পাশ **উত্তল** (ফোলা) আর মেরুদণ্ডের দিকের ভেতরের পাশ **অবতল** (ভেতরে বাঁকা)। অবতল পাশের ভাঁজটিকে বলে **হাইলাম** (বা হাইলাস)। হাইলামকে বৃক্কের ফটক ভাবতে পারো:
+- **রেনাল ধমনি** এখান দিয়ে *ঢোকে*, পরিষ্কার করার জন্য রক্ত নিয়ে আসে;
+- **রেনাল শিরা** এখান দিয়ে *বের হয়*, পরিষ্কার রক্ত নিয়ে যায়;
+- **ইউরেটার** এখান দিয়ে *বের হয়*, মূত্র নিয়ে যায়।
+
+ইউরেটারের ওপরের প্রান্ত বৃক্কের ভেতরে ফানেলের মতো চওড়া হয়ে গেছে। এই ফানেলটিই **রেনাল পেলভিস**।
+
+**লম্বালম্বি কাটলে।** একটি বৃক্ককে ওপর থেকে নিচে কাটলে (লম্বচ্ছেদ) বাইরে থেকে ভেতরের দিকে এই অংশগুলো দেখা যায়:
+
+| অংশ | পরিচয় |
+| রেনাল ক্যাপসুল | পুরো বৃক্ককে ঘিরে থাকা শক্ত, তন্তুময় আবরণ |
+| কর্টেক্স | ক্যাপসুলের ঠিক নিচের বাইরের অঞ্চল |
+| মেডুলা | ভেতরের অঞ্চল; এতে ৮ থেকে ১২টি শঙ্কু আকৃতির **রেনাল পিরামিড** থাকে |
+| রেনাল প্যাপিলা | প্রতিটি পিরামিডের ভেতরমুখী অগ্রভাগ; পেলভিসে উন্মুক্ত হয় |
+| রেনাল পেলভিস | ফানেল আকৃতির অংশ, মূত্র সংগ্রহ করে ইউরেটারে পাঠায় |
+
+কর্টেক্স আর মেডুলা দুই অঞ্চলই যোজক কলা (টিস্যু) আর অসংখ্য রক্তবাহী নালি দিয়ে গঠিত; এদের ফাঁকে ফাঁকেই থাকে আসল কাজের নালিকাগুলো।
+
+> তোমার বইয়ের এক সংস্করণে লেখা প্যাপিলা "ইউরেটারে" উন্মুক্ত হয়, অন্যটিতে লেখা "পেলভিসে"। দুটোই আসলে একই জায়গা বোঝায়, কারণ পেলভিস হলো ইউরেটারেরই ফানেল আকৃতির চওড়া শুরুর অংশ। তুমি লিখবে **পেলভিস**: এটিই বেশি নির্ভুল।
+
+**ভেতরের নালিকা।** বৃক্কের ভেতরটা ভরা থাকে বিশেষ এক ধরনের আণুবীক্ষণিক নালিকায়, যাদের বলে **ইউরিনিফেরাস নালিকা**। প্রতিটি ইউরিনিফেরাস নালিকার দুটি অংশ:
+- **নেফ্রন**, যা মূত্র *তৈরি* করে, আর
+- **সংগ্রাহী নালিকা** (সংগ্রাহক নালিকা), যা মূত্র রেনাল পেলভিসে *বয়ে নেয়*।
+
+**নেফ্রন।** নেফ্রন হলো বৃক্কের গঠন ও কাজের একক। মানুষের প্রতিটি বৃক্কে প্রায় **১০ থেকে ১২ লক্ষ** নেফ্রন থাকে। একটি নেফ্রনের প্রধান অংশ দুটি।
+
+*১. রেনাল করপাসল (মালপিজিয়ান অঙ্গ)।* এটিই ছাঁকনি। এর দুটি অংশ:
+- **বোম্যান্স ক্যাপসুল**: দুই স্তরের প্রাচীরওয়ালা একটি পেয়ালা, যেন নরম বলের এক পাশ মুঠি দিয়ে চেপে ভেতরে ঢুকিয়ে দেওয়া হয়েছে। এটি দুই স্তর এপিথেলিয়াল কোষ দিয়ে তৈরি।
+- **গ্লোমেরুলাস**: ওই পেয়ালার ভেতরে বসে থাকা একগুচ্ছ কৈশিক জালিকা। রেনাল ধমনির শাখা, **অ্যাফারেন্ট আর্টারিওল** নামের একটি সরু ধমনি ক্যাপসুলের ভেতরে ঢুকে প্রায় ৫০টি কৈশিকনালিকায় ভাগ হয়। এগুলো আবার ভাগ হয়ে সূক্ষ্ম রক্তজালিকা তৈরি করে। এরপর কৈশিকনালিকাগুলো মিলিত হয়ে **ইফারেন্ট আর্টারিওল** তৈরি করে, যা ক্যাপসুল থেকে বেরিয়ে আসে।
+
+গ্লোমেরুলাস ছাঁকনির মতো কাজ করে। রক্তের তরল অংশের খানিকটা চাপে এর ভেতর দিয়ে ছেঁকে ক্যাপসুলে চলে আসে। এই পরিস্রুত তরলকে বলে **আল্ট্রাফিলট্রেট**।
+
+*২. রেনাল টিউব্যুল।* বোম্যান্স ক্যাপসুল থেকে সংগ্রাহী নালিকা পর্যন্ত বিস্তৃত লম্বা, প্যাঁচানো নালিকাটিই রেনাল টিউব্যুল। এর তিনটি অংশ, এই ক্রমে:
+- **গোড়াদেশীয় বা নিকটবর্তী প্যাঁচানো নালিকা** (ক্যাপসুলের *কাছের* প্যাঁচানো অংশ),
+- **হেনলি-র লুপ** (U আকৃতির লম্বা ফাঁস),
+- **প্রান্তীয় প্যাঁচানো নালিকা** (ক্যাপসুল থেকে *দূরের* প্যাঁচানো অংশ)।
+
+আল্ট্রাফিলট্রেট রেনাল টিউব্যুলের ভেতর দিয়ে যাওয়ার সময় দরকারি পদার্থগুলো আবার রক্তে ফিরে যায়, আর আরও কিছু বর্জ্য এসে যোগ হয়। শেষে যা থাকে সেটিই **মূত্র**। ধাপে ধাপে এটা দেখবে [[8.2.1|পরের পাঠে]]।
+
+**কোন অংশ কোথায় থাকে।** রেনাল করপাসল আর দুই প্যাঁচানো নালিকা থাকে **কর্টেক্সে**। হেনলি-র লুপ আর সংগ্রাহী নালিকা নেমে যায় **মেডুলায়**; পাশাপাশি থাকা এই হাজার হাজার সোজা নালিকার জন্যই পিরামিডকে ডোরাকাটা দেখায়।
+
+**নেফ্রনের ভেতর দিয়ে দুটি পথ।** রক্তের পথ আর মূত্রের পথ মনে মনে আলাদা রাখো:
+- *রক্ত*: রেনাল ধমনি → অ্যাফারেন্ট আর্টারিওল → গ্লোমেরুলাস → ইফারেন্ট আর্টারিওল → টিউব্যুলকে ঘিরে থাকা কৈশিক জালিকা → রেনাল শিরা।
+- *পরিস্রুত তরল / মূত্র*: বোম্যান্স ক্যাপসুল → নিকটবর্তী প্যাঁচানো নালিকা → হেনলি-র লুপ → প্রান্তীয় প্যাঁচানো নালিকা → সংগ্রাহী নালিকা → রেনাল পেলভিস → ইউরেটার → মূত্রথলি → মূত্রনালি।
+
+**বৃক্ক তোমার জন্য কী কী করে।** একজন স্বাভাবিক প্রাপ্তবয়স্ক মানুষ দিনে প্রায় ১৫০০ মিলিলিটার মূত্র ত্যাগ করেন। এই মূত্র তৈরির মধ্য দিয়ে বৃক্ক:
+- নাইট্রোজেনঘটিত বর্জ্য (ইউরিয়া, ইউরিক এসিড, অ্যামোনিয়া, ক্রিয়েটিনিন) বের করে দেয়;
+- দেহে সোডিয়াম, পটাশিয়াম ও ক্লোরাইডের পরিমাণ নিয়ন্ত্রণ করে;
+- রক্তে পানির, আর অম্ল ও ক্ষারের ভারসাম্য রক্ষা করে;
+- রক্তচাপ নিয়ন্ত্রণে সাহায্য করে।
+## analogy
+গাজীপুরের একটা বড় পোশাক কারখানার কথা ভাবো, যেখানে হুবহু একই রকম দশ লক্ষ সেলাই-লাইন আছে। প্রতিটি লাইন একাই পুরো কাজ করে: এক প্রান্তে কাপড় ঢোকে, অন্য প্রান্তে তৈরি শার্ট বেরোয়। সব লাইনের শার্ট গিয়ে জমা হয় একটাই লোডিং-ঘরে। বৃক্ক ঠিক এ রকম একটা কারখানা: প্রতিটি নেফ্রন একটি পূর্ণাঙ্গ লাইন, যা রক্তরস থেকে মূত্র বানায়; সংগ্রাহী নালিকা হলো কনভেয়র বেল্ট, আর পেলভিস হলো লোডিং-ঘর। লাইন এত বেশি বলে কয়েকটা বন্ধ হলেও কারখানা চলতে থাকে।
+## definition
+**বৃক্ক**: মানবদেহের শিমবীজ আকৃতির রেচন অঙ্গ। উদরগহ্বরের পেছনের অংশে, মেরুদণ্ডের দুই দিকে, বক্ষপিঞ্জরের নিচে একজোড়া বৃক্ক থাকে।
+
+**হাইলাম (হাইলাস)**: বৃক্কের অবতল পাশের ভাঁজ, যার ভেতর দিয়ে রেনাল ধমনি প্রবেশ করে এবং রেনাল শিরা ও ইউরেটার বের হয়।
+
+**নেফ্রন**: বৃক্কের ইউরিনিফেরাস নালিকার ক্ষরণকারী অংশ; বৃক্কের গঠন ও কাজের একক। এটি একটি রেনাল করপাসল (মালপিজিয়ান অঙ্গ) ও একটি রেনাল টিউব্যুল নিয়ে গঠিত।
+
+**রেনাল করপাসল (মালপিজিয়ান অঙ্গ)**: গ্লোমেরুলাস ও তাকে বেষ্টন করে থাকা বোম্যান্স ক্যাপসুল একসাথে।
+
+**গ্লোমেরুলাস**: বোম্যান্স ক্যাপসুলের ভেতরে অ্যাফারেন্ট আর্টারিওল থেকে তৈরি একগুচ্ছ কৈশিক জালিকা, যা রক্ত ছাঁকে।
+
+**আল্ট্রাফিলট্রেট**: গ্লোমেরুলাস রক্ত থেকে ছেঁকে বোম্যান্স ক্যাপসুলে যে পরিস্রুত তরল পাঠায়।
+## why
+**একটা বড় ছাঁকনি না হয়ে দশ লক্ষ ছোট ছাঁকনি কেন?** ছাঁকার কাজ হয় তলের ওপর। একটি বড় থলির চেয়ে দশ লক্ষ ছোট ছোট কৈশিক জালিকার মোট তল অনেক বেশি, তাই প্রতি মিনিটে প্রচুর রক্ত ছাঁকা যায়। এত বেশি একক থাকায় হাতে অনেক বাড়তিও থাকে: মানুষ একটি মাত্র বৃক্ক নিয়েও সুস্থভাবে বাঁচতে পারে।
+
+**ক্যাপসুল দুই স্তরের পেয়ালার মতো কেন?** ভেতরের স্তরটি কৈশিকনালিকার গায়ে লেগে থাকে, আর দুই স্তরের মাঝের ফাঁকে ছেঁকে আসা প্রতিটি ফোঁটা জমা হয়ে সোজা টিউব্যুলে চলে যায়। এক ফোঁটাও বাইরে পড়ে না।
+
+**অ্যাফারেন্ট আর্টারিওল এতগুলো কৈশিকনালিকায় ভাগ হয় কেন?** কৈশিকনালিকা যত বেশি, তরল বেরোনোর পাতলা প্রাচীরও তত বেশি। তা ছাড়া যে আর্টারিওল রক্ত আনে, সেটি রক্ত নিয়ে যাওয়া আর্টারিওলের চেয়ে একটু মোটা, তাই গ্লোমেরুলাসে রক্ত চাপের মধ্যে থাকে। এই চাপ কেন জরুরি, তা পরের পাঠে দেখবে।
+
+**টিউব্যুল এত লম্বা আর প্যাঁচানো কেন?** পরিস্রুত তরলে গ্লুকোজ, লবণ আর পানি থাকে, যা দেহ হারাতে পারে না। কৈশিক জালিকায় জড়ানো লম্বা, প্যাঁচানো নালিকায় এগুলো ফিরিয়ে নেওয়ার মতো যথেষ্ট তল আর যথেষ্ট সময় পাওয়া যায়।
+## terms
+হাইলাম বা হাইলাস (Hilum) | বৃক্কের অবতল পাশের ভাঁজ; রেনাল ধমনি, রেনাল শিরা ও ইউরেটারের ফটক
+রেনাল ক্যাপসুল (Renal capsule) | বৃক্ককে ঘিরে থাকা তন্তুময় আবরণ
+কর্টেক্স (Cortex) | ক্যাপসুল-সংলগ্ন, বৃক্কের বাইরের অঞ্চল
+মেডুলা (Medulla) | বৃক্কের ভেতরের অঞ্চল; এতে রেনাল পিরামিড থাকে
+রেনাল পিরামিড (Renal pyramid) | মেডুলার শঙ্কু আকৃতির অংশ; একটি বৃক্কে সাধারণত ৮–১২টি
+রেনাল প্যাপিলা (Renal papilla) | রেনাল পিরামিডের অগ্রভাগ, যা পেলভিসে উন্মুক্ত হয়
+রেনাল পেলভিস (Renal pelvis) | বৃক্কের ভেতরে ইউরেটারের ফানেল আকৃতির প্রশস্ত অংশ
+ইউরিনিফেরাস নালিকা (Uriniferous tubule) | বৃক্কের আণুবীক্ষণিক নালিকা = নেফ্রন + সংগ্রাহী নালিকা
+নেফ্রন (Nephron) | বৃক্কের গঠন ও কাজের একক; মূত্র তৈরি করে
+রেনাল করপাসল বা মালপিজিয়ান অঙ্গ (Renal corpuscle) | গ্লোমেরুলাস + বোম্যান্স ক্যাপসুল
+বোম্যান্স ক্যাপসুল (Bowman's capsule) | দুই স্তরবিশিষ্ট পেয়ালার মতো অংশ, যা গ্লোমেরুলাসকে বেষ্টন করে থাকে
+গ্লোমেরুলাস (Glomerulus) | বোম্যান্স ক্যাপসুলের ভেতরের একগুচ্ছ কৈশিক জালিকা; ছাঁকনি
+অ্যাফারেন্ট আর্টারিওল (Afferent arteriole) | যে সরু ধমনি গ্লোমেরুলাসে রক্ত নিয়ে আসে
+ইফারেন্ট আর্টারিওল (Efferent arteriole) | যে সরু ধমনি গ্লোমেরুলাস থেকে রক্ত নিয়ে যায়
+রেনাল টিউব্যুল (Renal tubule) | বোম্যান্স ক্যাপসুল থেকে সংগ্রাহী নালিকা পর্যন্ত নালিকা: নিকটবর্তী প্যাঁচানো নালিকা, হেনলি-র লুপ, প্রান্তীয় প্যাঁচানো নালিকা
+সংগ্রাহী নালিকা (Collecting tubule) | যে নালিকা নেফ্রন থেকে মূত্র রেনাল পেলভিসে বয়ে নেয়
+আল্ট্রাফিলট্রেট (Ultrafiltrate) | গ্লোমেরুলাস রক্ত থেকে যে তরল ছেঁকে বের করে
+## visual
+"বৃক্ক" অংশে লেবেলগুলোতে চাপ দিয়ে কাটা বৃক্কের প্রতিটি অংশ চিনে নাও। এরপর "নেফ্রন" খুলে এর অংশগুলোতে একটি একটি করে চাপ দাও, অথবা "রক্তের পথ" ও "পরিস্রুত তরলের পথ" বোতাম চেপে দেখো দুটি পথ কীভাবে ক্রমে ক্রমে জ্বলে ওঠে।
+## real
+ঈদুল আজহায় বা কসাইয়ের দোকানে ছাগল বা গরুর বৃক্ক (গুর্দা) দেখতে পাবে। এর আকৃতি তোমার বৃক্কের মতোই শিমবীজের মতো। বড় কেউ রান্নার জন্য একটিকে লম্বালম্বি কাটলে হাঁড়িতে যাওয়ার আগে ভালো করে দেখে নিয়ো: বাইরের গাঢ় রঙের পট্টিটা কর্টেক্স, ভেতরের ফ্যাকাশে ডোরাকাটা ত্রিভুজগুলো মেডুলার পিরামিড, আর মাঝখানের সাদাটে ফাঁপা অংশ, যা একটি নলের দিকে গেছে, সেটা পেলভিস আর ইউরেটারের শুরু। (দেখার পর সাবান দিয়ে হাত ধুয়ে নেবে।)
+
+কাটাছেঁড়া ছাড়া কারও বৃক্ক দেখতে চাইলে ডাক্তার **আল্ট্রাসনোগ্রাম** করান। এতে প্রতিটি বৃক্কের আকার, কর্টেক্স ও পেলভিস দেখা যায়, কোথাও পাথর বসে আছে কি না তা-ও বোঝা যায়।
+## example
+প্রশ্ন: মানুষের প্রতিটি বৃক্কে প্রায় ১০ থেকে ১২ লক্ষ নেফ্রন থাকে। একজন মানুষের মোট নেফ্রন প্রায় কতগুলো? প্রতিটি নেফ্রনের টিউব্যুল প্রায় ৩ cm লম্বা হলে ২০ লক্ষ নেফ্রনের টিউব্যুলের মোট দৈর্ঘ্য কত?
+দেওয়া আছে: একটি বৃক্কে নেফ্রন = ১০ থেকে ১২ লক্ষ; বৃক্কের সংখ্যা = ২; একটি টিউব্যুলের দৈর্ঘ্য ≈ ৩ cm
+হিসাব: মোট নেফ্রন = ২ × (১০ থেকে ১২ লক্ষ) = ২০ থেকে ২৪ লক্ষ
+২০ লক্ষ নেফ্রনের মোট দৈর্ঘ্য = ২০ ০০ ০০০ × ৩ cm = ৬০ ০০ ০০০ cm = ৬০ ০০০ m = ৬০ km
+> ৩ cm শুধু মাপটা বোঝানোর জন্য একটা মোটামুটি সংখ্যা। আসল কথা হলো, মুঠির সমান দুটি অঙ্গের ভেতরে বহু কিলোমিটার নালিকা আছে।
+উত্তর: প্রায় ২০ থেকে ২৪ লক্ষ নেফ্রন; এদের টিউব্যুল পরপর জোড়া দিলে প্রায় ৬০ km লম্বা হতো।
+## example
+প্রশ্ন: ইউরিয়ার একটি অণু রেনাল ধমনির রক্তে আছে। এটি ছেঁকে বের হয়ে শেষে মূত্রথলিতে পৌঁছাল। পথে এটি কোন কোন অংশ পার হলো, ক্রমানুসারে লেখো।
+সমাধান: প্রথমে ছাঁকনি পর্যন্ত রক্তের সাথে চলো, তারপর পরিস্রুত তরলের সাথে।
+ধাপ: রক্তের সাথে: রেনাল ধমনি → অ্যাফারেন্ট আর্টারিওল → গ্লোমেরুলাস।
+ধাপ: ছেঁকে এটি বোম্যান্স ক্যাপসুলে আসে; এখন এটি আল্ট্রাফিলট্রেটের অংশ।
+ধাপ: পরিস্রুত তরলের সাথে: নিকটবর্তী প্যাঁচানো নালিকা → হেনলি-র লুপ → প্রান্তীয় প্যাঁচানো নালিকা → সংগ্রাহী নালিকা।
+ধাপ: মূত্রের সাথে: রেনাল পেলভিস → ইউরেটার → মূত্রথলি।
+উত্তর: রেনাল ধমনি → অ্যাফারেন্ট আর্টারিওল → গ্লোমেরুলাস → বোম্যান্স ক্যাপসুল → নিকটবর্তী প্যাঁচানো নালিকা → হেনলি-র লুপ → প্রান্তীয় প্যাঁচানো নালিকা → সংগ্রাহী নালিকা → রেনাল পেলভিস → ইউরেটার → মূত্রথলি।
+## example
+প্রশ্ন: একটি চিত্রে পেয়ালার মতো একটি অংশ আর তার ভেতরে A চিহ্নিত একগুচ্ছ কৈশিক জালিকা দেখানো আছে। (ক) চিত্রটি কোন অঙ্গের গঠন একক? (খ) A সম্পর্কে কোনগুলো ঠিক: (i) ছাঁকনির মতো কাজ করে, (ii) আল্ট্রাফিলট্রেট উৎপন্ন করে, (iii) পানি শোষণ করে?
+সমাধান: আগে অংশগুলো চিনে নাও।
+ধাপ: কৈশিক জালিকার গুচ্ছকে ঘিরে থাকা পেয়ালা মানে রেনাল করপাসল: পেয়ালাটি বোম্যান্স ক্যাপসুল, আর গুচ্ছটি, অর্থাৎ A, হলো গ্লোমেরুলাস। এটি নেফ্রনের অংশ, আর নেফ্রন **বৃক্কের** একক।
+ধাপ: গ্লোমেরুলাস ছাঁকনির মতো কাজ করে, আর রক্ত থেকে যে তরল ছেঁকে বের করে সেটিই আল্ট্রাফিলট্রেট। তাই (i) ও (ii) ঠিক।
+ধাপ: পানি ফিরিয়ে নেওয়া হয় পরে, রেনাল টিউব্যুলে, গ্লোমেরুলাসে নয়। তাই (iii) ঠিক নয়।
+উত্তর: (ক) বৃক্ক; (খ) শুধু (i) ও (ii)।
+## mistakes
+x কর্টেক্স বৃক্কের ভেতরের অংশ আর মেডুলা বাইরের অংশ।
+v কর্টেক্স ক্যাপসুল-সংলগ্ন বাইরের অঞ্চল। পিরামিডসহ মেডুলা থাকে ভেতরে।
+x গ্লোমেরুলাস বোম্যান্স ক্যাপসুলকে বেষ্টন করে থাকে।
+v ঠিক উল্টো: বোম্যান্স ক্যাপসুল হলো পেয়ালা, আর গ্লোমেরুলাস তার ভেতরে বসে থাকে।
+x অ্যাফারেন্ট আর্টারিওল গ্লোমেরুলাস থেকে রক্ত নিয়ে যায়।
+v **অ্যা**ফারেন্ট রক্ত **আ**নে; **ই**ফারেন্ট রক্ত বা**ই**রে নিয়ে যায়।
+x রেনাল শিরা বৃক্কে রক্ত নিয়ে আসে।
+v রেনাল ধমনি রক্ত আনে; রেনাল শিরা পরিষ্কার রক্ত বের করে নিয়ে যায়।
+x নেফ্রন আর নিউরন একই জিনিস।
+v নেফ্রন বৃক্কের একক। নিউরন হলো স্নায়ুকোষ।
+x সংগ্রাহী নালিকা নেফ্রনের রেনাল টিউব্যুলের একটি অংশ।
+v রেনাল টিউব্যুলের অংশ তিনটি (নিকটবর্তী প্যাঁচানো নালিকা, হেনলি-র লুপ, প্রান্তীয় প্যাঁচানো নালিকা)। সংগ্রাহী নালিকা ইউরিনিফেরাস নালিকার অন্য অংশ; এটি নেফ্রন থেকে মূত্র গ্রহণ করে।
+## remember
+- বৃক্ক দুটি: শিমবীজ আকৃতির, লালচে, উদরের পেছন দিকে মেরুদণ্ডের দুই পাশে, বক্ষপিঞ্জরের নিচে।
+- হাইলাম = অবতল পাশের ভাঁজ: রেনাল ধমনি ঢোকে; রেনাল শিরা ও ইউরেটার বের হয়।
+- বাইরে থেকে ভেতরে: রেনাল ক্যাপসুল → কর্টেক্স → মেডুলা (৮–১২টি রেনাল পিরামিড, অগ্রভাগ = প্যাপিলা) → রেনাল পেলভিস → ইউরেটার।
+- ইউরিনিফেরাস নালিকা = নেফ্রন (মূত্র তৈরি করে) + সংগ্রাহী নালিকা (মূত্র পেলভিসে বয়ে নেয়)।
+- নেফ্রন = গঠন ও কাজের একক; প্রতিটি বৃক্কে প্রায় ১০–১২ লক্ষ।
+- নেফ্রন = রেনাল করপাসল (গ্লোমেরুলাস + বোম্যান্স ক্যাপসুল) + রেনাল টিউব্যুল।
+- রেনাল টিউব্যুল = নিকটবর্তী প্যাঁচানো নালিকা → হেনলি-র লুপ → প্রান্তীয় প্যাঁচানো নালিকা।
+- অ্যাফারেন্ট আর্টারিওল গ্লোমেরুলাসে রক্ত আনে (প্রায় ৫০টি কৈশিকনালিকা); ইফারেন্ট আর্টারিওল রক্ত নিয়ে যায়।
+- গ্লোমেরুলাস হলো ছাঁকনি; ছেঁকে আসা তরল হলো আল্ট্রাফিলট্রেট।
+- বৃক্ক নাইট্রোজেনঘটিত বর্জ্য বের করে, পানি, লবণ, অম্ল ও ক্ষারের ভারসাম্য রাখে, আর রক্তচাপ নিয়ন্ত্রণে সাহায্য করে।
+## think
+কেউ কেউ একটি মাত্র বৃক্ক নিয়ে জন্মায়, আবার অনেকে আত্মীয়কে একটি বৃক্ক দান করেন, তবু তাঁরা স্বাভাবিক, সুস্থ জীবন যাপন করেন। আমাদের যতগুলো নেফ্রন আছে আর আসলে যতগুলো লাগে, এ দুইয়ের সম্পর্কে এ থেকে কী বোঝা যায়?
+## quiz
+? বৃক্কের গঠন ও কাজের একক কোনটি?
+- নিউরন
+* নেফ্রন
+- রেনাল পিরামিড
+- গ্লোমেরুলাস
+= নেফ্রন মূত্র তৈরি করে এবং এটিই বৃক্কের একক। প্রতিটি বৃক্কে প্রায় ১০ থেকে ১২ লক্ষ নেফ্রন থাকে।
+? কোন দুটি অংশ মিলে রেনাল করপাসল (মালপিজিয়ান অঙ্গ) গঠিত?
+- কর্টেক্স ও মেডুলা
+- নিকটবর্তী ও প্রান্তীয় প্যাঁচানো নালিকা
+* গ্লোমেরুলাস ও বোম্যান্স ক্যাপসুল
+- হেনলি-র লুপ ও সংগ্রাহী নালিকা
+= বোম্যান্স ক্যাপসুল হলো পেয়ালা; গ্লোমেরুলাস তার ভেতরের কৈশিক জালিকার গুচ্ছ।
+? রেনাল পিরামিড বৃক্কের কোন অঞ্চলে থাকে?
+- ক্যাপসুলে
+- কর্টেক্সে
+- পেলভিসে
+* মেডুলায়
+= মেডুলায় সাধারণত ৮ থেকে ১২টি রেনাল পিরামিড থাকে। এদের অগ্রভাগ, অর্থাৎ প্যাপিলা, পেলভিসে উন্মুক্ত হয়।
+? কোন রক্তনালি গ্লোমেরুলাসে রক্ত নিয়ে আসে?
+* অ্যাফারেন্ট আর্টারিওল
+- ইফারেন্ট আর্টারিওল
+- রেনাল শিরা
+- ইউরেটার
+= রেনাল ধমনির শাখা অ্যাফারেন্ট আর্টারিওল বোম্যান্স ক্যাপসুলে ঢুকে গ্লোমেরুলাস তৈরি করে।
+? বোম্যান্স ক্যাপসুল থেকে শুরু করে রেনাল টিউব্যুলের অংশগুলোর সঠিক ক্রম কোনটি?
+- হেনলি-র লুপ → নিকটবর্তী প্যাঁচানো নালিকা → প্রান্তীয় প্যাঁচানো নালিকা
+- প্রান্তীয় প্যাঁচানো নালিকা → হেনলি-র লুপ → নিকটবর্তী প্যাঁচানো নালিকা
+* নিকটবর্তী প্যাঁচানো নালিকা → হেনলি-র লুপ → প্রান্তীয় প্যাঁচানো নালিকা
+- নিকটবর্তী প্যাঁচানো নালিকা → প্রান্তীয় প্যাঁচানো নালিকা → হেনলি-র লুপ
+= নিকটবর্তী মানে ক্যাপসুলের কাছে, প্রান্তীয় মানে দূরে; হেনলি-র লুপ থাকে এ দুইয়ের মাঝখানে।
+
+@@ 8.2.1
+@visual b8urine
+@related 8.2 8.3 6.1 6.4.4
+== en
+## what
+A nephron makes urine in three steps: the glomerulus **filters** the blood (ultrafiltration), the renal tubule takes the useful substances **back** into the blood (selective reabsorption), and a few more wastes are **added** to the tubule (secretion). By taking back more water or less water as needed, the kidneys also keep the water and salts of the body in balance, which is called **osmoregulation**.
+## simple
+**Step 1: Ultrafiltration, in the renal corpuscle.** Blood enters the glomerulus through the wider afferent arteriole and has to leave through the narrower efferent arteriole, so inside the glomerulus the blood is under pressure. The thin walls of the capillaries, together with the inner wall of Bowman's capsule, act as a very fine sieve. The pressure pushes part of the blood's liquid through this sieve into the capsule.
+
+What gets through depends only on **size**:
+- *small enough to pass*: water, glucose, amino acids, salts, urea, uric acid, creatinine;
+- *too big to pass*: red and white blood cells, platelets and the large protein molecules of the plasma.
+
+The liquid collected in the capsule is the **ultrafiltrate**. It is like blood plasma with the proteins left out. Notice that the sieve is not clever: it lets useful glucose and salts through along with the urea.
+
+**Step 2: Selective reabsorption, in the renal tubule.** The body cannot afford to lose that glucose, water and salt. So, as the ultrafiltrate flows along the renal tubule, the cells of the tubule wall take the useful things back and hand them to the blood capillaries that wrap around the tubule (these capillaries come from the efferent arteriole). In a healthy person:
+- **all** the glucose and amino acids go back to the blood,
+- **most** of the salts go back, as much as the body needs,
+- **most** of the water goes back.
+
+Urea and the other wastes are mostly left behind. Because water keeps leaving the tubule while they stay, the wastes become more and more concentrated. The word *selective* is important: the tubule chooses what to take back and how much.
+
+**Step 3: Secretion.** The opposite movement also happens, mainly in the far part of the tubule. The cells of the wall take a few unwanted substances out of the blood capillaries and push them into the tubule: extra hydrogen ions (acid), extra potassium ions, a little ammonia, and the remains of some medicines. This is how the kidneys help keep the balance of acids and bases in the blood. Your book describes steps 2 and 3 together by saying that the ultrafiltrate goes through absorption and secretion several times on its way.
+
+**The result is urine.** The liquid that finally remains is urine. It passes through the collecting tubule to the renal pelvis, down the ureter, and into the urinary bladder, where it is stored for a while. When the bladder has filled up to a certain level we feel the urge to pass urine, and it leaves through the urethra.
+
+**How much is filtered, how much is passed?** Together your two kidneys filter about **180 litres** of liquid from the blood every day. Yet only about **1.5 litres** leave as urine. So about 99% of the filtered water is taken back.
+
+| Substance | Blood plasma | Ultrafiltrate | Urine of a healthy person |
+| Plasma proteins | present | absent (too large) | absent |
+| Glucose | present | present | absent (all taken back) |
+| Salts | present | present | only the excess |
+| Urea | present | present | present, much more concentrated |
+| Water | present | present | present (about 1% of what was filtered) |
+
+**Osmoregulation: keeping the water balance.** In [[6.1|Chapter 6]] you learnt about osmosis. If a solution is on one side of a selectively permeable membrane and pure water on the other, water moves into the solution. The smallest pressure that must be applied on the solution to stop this is its **osmotic pressure**. A more concentrated solution has a higher osmotic pressure.
+
+Every cell of your body has a selectively permeable membrane and is surrounded by body fluid. If the blood became too dilute, water would rush into the cells and they would swell. If it became too concentrated, water would be drawn out and the cells would shrink. So the amounts and the concentration of water and salts in the body are controlled in such a way that the overall osmotic pressure inside the body stays almost unchanged. This control is called **osmoregulation**, or **water balance**.
+
+The kidneys are the main organs of osmoregulation, because most of the water that leaves the body leaves as urine. They do it by changing how much water the nephrons reabsorb:
+- **Too much water in the body** (you drank several glasses of sherbet): the blood becomes slightly dilute, the tubules take back *less* water, and you pass *a lot of pale, dilute* urine.
+- **Too little water in the body** (a hot day, heavy sweating, little to drink): the blood becomes slightly concentrated, the tubules take back *more* water, and you pass *a little dark, concentrated* urine. You also feel thirsty.
+
+> How do the tubules know? When the blood becomes concentrated, the pituitary gland under the brain releases a hormone (called ADH) that makes the collecting tubules take back more water. Your book does not name this hormone in this chapter; it is enough to know that the kidneys adjust reabsorption to the body's need.
+
+**When osmoregulation fails.** If the kidneys stop working properly, the extra water cannot leave. It collects in the body: the face and the area around the eyes, and then the whole body, may swell, and the blood pressure may rise. These are really signs that osmoregulation has gone wrong.
+## analogy
+There are two ways to tidy a messy school bag. You can search inside and pick out the rubbish piece by piece, and you will surely miss some. Or you can tip *everything* out on the bed, put back only the books, pens and tiffin box you need, and throw away whatever is left. The kidney uses the second way. Ultrafiltration tips out everything small; reabsorption puts the useful things back; what remains on the bed is urine.
+## definition
+**Ultrafiltration**: the filtering of blood under pressure in the glomerulus, in which water and small dissolved molecules pass into Bowman's capsule while blood cells and plasma proteins stay in the blood.
+
+**Selective reabsorption**: the return of useful substances (glucose, the needed salts and water) from the filtrate in the renal tubule to the blood.
+
+**Secretion**: the passing of some unwanted substances from the blood capillaries into the renal tubule by the cells of the tubule wall.
+
+**Osmotic pressure**: the minimum pressure that must be applied on a solution to stop osmosis into it from the pure solvent across a selectively permeable membrane.
+
+**Osmoregulation (water balance)**: the process by which the amount and concentration of water and salts in an organism are controlled so that the overall osmotic pressure inside the body remains almost unchanged.
+## why
+**Why filter everything and then take most of it back? Is that not wasteful?** It is actually very safe. A filter that works by size throws out *any* small unwanted molecule automatically, even a new one the body has never met, such as a medicine. The body only has to know how to take back the few things it wants. The other method, picking out each poison one by one, would fail for any poison the body did not recognise.
+
+**Why is protein in the urine a warning sign?** Proteins are too large to pass a healthy glomerulus. If a urine test shows protein, the sieve itself has probably been damaged.
+
+**Why does glucose appear in the urine in diabetes?** The tubule can take back only a certain amount of glucose per minute. In untreated [[10.5|diabetes]] the blood, and so the filtrate, has so much glucose that the tubule cannot take all of it back, and the rest goes out in the urine.
+
+**Why is urine darker when you are thirsty?** The amount of the pigment urochrome is about the same, but it is dissolved in much less water, because more water has been taken back.
+## terms
+Ultrafiltration | Filtering of blood under pressure in the glomerulus; only small molecules pass
+Ultrafiltrate | The filtered liquid in Bowman's capsule: plasma without its proteins
+Selective reabsorption | Taking useful substances back from the tubule into the blood
+Secretion | Passing extra unwanted substances from the blood into the tubule
+Urine | The liquid left at the end of the tubule: water, urea, uric acid, creatinine, salts
+Selectively permeable membrane | A membrane that lets some substances (such as water) pass but not others
+Osmosis | Movement of water through a selectively permeable membrane from a dilute solution to a more concentrated one
+Osmotic pressure | The minimum pressure needed on a solution to stop osmosis into it
+Osmoregulation (water balance) | Keeping the water and salts of the body, and so its osmotic pressure, nearly constant
+## visual
+In "Three steps", press each step and watch the dots: which ones leave the blood, which ones go back, and which ones end up in the urine. In "Water balance", move the slider from "very little water" to "a lot of water" and see how reabsorption and the urine change.
+## real
+In the winter months of Poush and Magh you may notice that you need to pass urine more often than in summer, even if you drink less. In the cold you hardly sweat, so more of the day's extra water has to leave through the kidneys. In the heat of Baishakh a lot of water leaves through the skin as sweat, so the kidneys take back more water and make less urine.
+
+Fishermen in the Bay of Bengal are surrounded by water, yet they carry drinking water in drums. Sea water has more salt in it than the most concentrated urine a human kidney can make. To throw out the salt from one glass of sea water, the body would have to lose more than one glass of water. So drinking sea water makes a person more thirsty, not less.
+## example
+Q: The two kidneys together filter about 125 mL of liquid from the blood every minute. (a) How much ultrafiltrate is formed in a day? (b) If 1.5 L of urine is passed in a day, how much liquid was reabsorbed? (c) What percentage of the filtrate is that?
+Given: rate of filtration = 125 mL per minute; urine = 1.5 L per day; 1 day = 24 × 60 = 1440 minutes
+Formula: reabsorbed volume = filtrate − urine; percentage reabsorbed = (reabsorbed ÷ filtrate) × 100
+Calculation: (a) filtrate in a day = 125 × 1440 = 180 000 mL = 180 L
+(b) reabsorbed = 180 − 1.5 = 178.5 L
+(c) percentage = (178.5 ÷ 180) × 100 ≈ 99.2%
+> 180 L is many times the whole volume of blood in the body. The same water is filtered and taken back again and again all day.
+Answer: (a) about 180 L; (b) about 178.5 L; (c) about 99%. Only about 1% of the filtrate leaves as urine.
+## example
+Q: Three liquids from a healthy person were tested. Liquid X has protein, glucose and urea. Liquid Y has glucose and urea but no protein. Liquid Z has urea but no glucose and no protein. Which one is blood plasma, which is ultrafiltrate and which is urine?
+Solution: Use what each step removes.
+Step: Protein cannot pass through the glomerulus. Only blood plasma has it, so **X is blood plasma**.
+Step: Ultrafiltrate is plasma without protein; it still has glucose. So **Y is ultrafiltrate**.
+Step: In the tubule all the glucose is reabsorbed but urea is left behind. So **Z is urine**.
+Answer: X = blood plasma, Y = ultrafiltrate, Z = urine.
+## example
+Q: How do the kidneys keep the water balance of the body? Explain with what happens (a) after drinking a lot of water and (b) after heavy sweating.
+Solution: The kidneys change the amount of water reabsorbed in the nephrons.
+Step: Water, wastes and other small substances are first filtered in the glomerulus. Then the nephron reabsorbs water according to the body's need.
+Step: (a) After drinking a lot of water the blood is a little dilute. Less water is reabsorbed, so more water leaves: a large volume of dilute urine.
+Step: (b) After heavy sweating the blood is a little concentrated. More water is reabsorbed, so less leaves: a small volume of concentrated urine.
+Step: In both cases the amount and concentration of water and salts in the body come back to normal, so the osmotic pressure stays almost unchanged.
+Answer: By reabsorbing less water when the body has too much and more water when it has too little, the nephrons keep the body's water in balance. This is osmoregulation.
+## mistakes
+x Urine is simply filtered blood.
+v Filtering is only the first step. About 99% of the filtrate is taken back; urine is what remains after reabsorption and secretion.
+x The glomerulus filters out only the wastes.
+v The glomerulus sorts only by size. Glucose, salts and water pass through together with urea, and the tubule has to take the useful ones back.
+x Reabsorption means the wastes are absorbed into the urine.
+v Reabsorption means useful substances go back from the tubule into the blood.
+x The urine of a healthy person contains glucose and protein.
+v Normally it contains neither: protein is not filtered, and all the filtered glucose is reabsorbed.
+x Osmoregulation means stopping osmosis in the body.
+v It means controlling water and salts so that the osmotic pressure inside the body stays nearly constant.
+## remember
+- Urine formation: ultrafiltration → selective reabsorption → secretion.
+- Ultrafiltration happens in the renal corpuscle, under pressure. Blood cells and plasma proteins do not pass.
+- Ultrafiltrate = plasma without proteins: water, glucose, amino acids, salts, urea.
+- Reabsorption happens in the renal tubule: all the glucose, most of the water, and the needed salts return to the blood.
+- Secretion adds extra acid, potassium and some other wastes to the tubule.
+- About 180 L is filtered a day; only about 1.5 L becomes urine.
+- Osmoregulation (water balance) = keeping the water and salts of the body, and so the osmotic pressure, almost unchanged.
+- More water in the body → less reabsorption → more, dilute urine. Less water → more reabsorption → less, concentrated urine.
+- Kidney failure → water collects → swelling of face and body, high blood pressure.
+## think
+A doctor finds glucose in the urine of a patient but no protein. Which part of the nephron is probably working normally, and which job is not being completed? What might be the reason?
+## quiz
+? In which part of the nephron does ultrafiltration take place?
+* Renal corpuscle (glomerulus and Bowman's capsule)
+- Proximal convoluted tubule
+- Loop of Henle
+- Collecting tubule
+= Blood is filtered under pressure from the glomerulus into Bowman's capsule.
+? Which of these is normally NOT found in the ultrafiltrate?
+- Glucose
+- Urea
+* Plasma protein
+- Water
+= Protein molecules are too large to pass through the glomerulus, so they stay in the blood.
+? Which substance is completely reabsorbed from the renal tubule in a healthy person?
+- Urea
+- Creatinine
+- Uric acid
+* Glucose
+= All the filtered glucose is taken back into the blood, so normal urine has no glucose.
+? A boy drinks four glasses of water one after another. Soon afterwards his urine will be
+- less in amount and darker
+* more in amount and paler
+- less in amount and paler
+- unchanged
+= The extra water makes the blood slightly dilute, so less water is reabsorbed and a lot of dilute urine is passed.
+? Controlling the water and salts of the body so that its osmotic pressure stays almost constant is called
+- ultrafiltration
+- dialysis
+* osmoregulation
+- secretion
+= Osmoregulation, or water balance, is done mainly by the kidneys through reabsorption in the nephrons.
+== bn
+## what
+নেফ্রন তিন ধাপে মূত্র তৈরি করে: গ্লোমেরুলাস রক্ত **ছাঁকে** (আল্ট্রাফিলট্রেশন), রেনাল টিউব্যুল দরকারি পদার্থগুলো রক্তে **ফিরিয়ে নেয়** (বাছাই করা পুনঃশোষণ), আর আরও কিছু বর্জ্য টিউব্যুলে **যোগ হয়** (নিঃসরণ)। প্রয়োজন অনুযায়ী পানি বেশি বা কম ফিরিয়ে নিয়ে বৃক্ক দেহের পানি ও লবণের ভারসাম্যও ঠিক রাখে; একে বলে **অসমোরেগুলেশন** বা পানিসাম্য।
+## simple
+**ধাপ ১: আল্ট্রাফিলট্রেশন, রেনাল করপাসলে।** রক্ত গ্লোমেরুলাসে ঢোকে মোটা অ্যাফারেন্ট আর্টারিওল দিয়ে, আর বেরোতে হয় সরু ইফারেন্ট আর্টারিওল দিয়ে; তাই গ্লোমেরুলাসের ভেতরে রক্ত চাপের মধ্যে থাকে। কৈশিকনালিকার পাতলা প্রাচীর আর বোম্যান্স ক্যাপসুলের ভেতরের স্তর মিলে খুব সূক্ষ্ম একটা ছাঁকনির কাজ করে। চাপের ঠেলায় রক্তের তরল অংশের খানিকটা এই ছাঁকনি পেরিয়ে ক্যাপসুলে চলে আসে।
+
+কী পার হবে তা ঠিক হয় কেবল **আকার** দিয়ে:
+- *পার হওয়ার মতো ছোট*: পানি, গ্লুকোজ, অ্যামাইনো এসিড, লবণ, ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন;
+- *পার হওয়ার পক্ষে বেশি বড়*: লোহিত ও শ্বেত রক্তকণিকা, অণুচক্রিকা আর রক্তরসের বড় বড় প্রোটিন অণু।
+
+ক্যাপসুলে জমা হওয়া তরলটিই **আল্ট্রাফিলট্রেট**। এটি যেন প্রোটিন বাদ দেওয়া রক্তরস। খেয়াল করো, ছাঁকনিটা বুদ্ধিমান নয়: ইউরিয়ার সাথে সাথে দরকারি গ্লুকোজ আর লবণকেও সে ছেড়ে দেয়।
+
+**ধাপ ২: বাছাই করা পুনঃশোষণ, রেনাল টিউব্যুলে।** ওই গ্লুকোজ, পানি আর লবণ হারানো দেহের পক্ষে সম্ভব নয়। তাই আল্ট্রাফিলট্রেট রেনাল টিউব্যুল দিয়ে যাওয়ার সময় টিউব্যুলের প্রাচীরের কোষগুলো দরকারি জিনিসগুলো ফিরিয়ে নেয় আর টিউব্যুলকে জড়িয়ে থাকা কৈশিক জালিকার রক্তে তুলে দেয় (এই জালিকা তৈরি হয় ইফারেন্ট আর্টারিওল থেকে)। সুস্থ মানুষের বেলায়:
+- গ্লুকোজ আর অ্যামাইনো এসিডের **সবটুকু** রক্তে ফিরে যায়,
+- লবণের **বেশির ভাগ** ফিরে যায়, দেহের যতটা দরকার ততটা,
+- পানির **বেশির ভাগ** ফিরে যায়।
+
+ইউরিয়া আর অন্য বর্জ্যগুলো বেশির ভাগই টিউব্যুলে থেকে যায়। পানি বেরিয়ে যেতে থাকে অথচ এরা থেকে যায়, তাই বর্জ্যগুলো ক্রমেই ঘন হতে থাকে। *বাছাই করা* কথাটি গুরুত্বপূর্ণ: কী ফিরিয়ে নেবে আর কতটা নেবে, তা টিউব্যুলই ঠিক করে।
+
+**ধাপ ৩: নিঃসরণ।** উল্টো দিকের চলাচলও ঘটে, মূলত টিউব্যুলের দূরের অংশে। প্রাচীরের কোষগুলো কৈশিক জালিকার রক্ত থেকে কিছু অবাঞ্ছিত পদার্থ তুলে নিয়ে টিউব্যুলে ঠেলে দেয়: বাড়তি হাইড্রোজেন আয়ন (অম্ল), বাড়তি পটাশিয়াম আয়ন, সামান্য অ্যামোনিয়া আর কিছু ওষুধের অবশিষ্টাংশ। এভাবেই বৃক্ক রক্তে অম্ল ও ক্ষারের ভারসাম্য রাখতে সাহায্য করে। তোমার বইয়ে ধাপ ২ আর ৩-কে একসাথে বলা হয়েছে: আল্ট্রাফিলট্রেট চলার পথে কয়েক দফা শোষণ ও নিঃসরণ প্রক্রিয়ার মধ্য দিয়ে যায়।
+
+**শেষ ফল মূত্র।** সবশেষে যে তরলটি থাকে সেটিই মূত্র। এটি সংগ্রাহী নালিকা দিয়ে রেনাল পেলভিসে, সেখান থেকে ইউরেটার বেয়ে মূত্রথলিতে গিয়ে সাময়িকভাবে জমা থাকে। মূত্রথলি একটি নির্দিষ্ট পর্যায় পর্যন্ত ভরলে মূত্র ত্যাগের ইচ্ছা জাগে, আর মূত্রনালি দিয়ে মূত্র বাইরে বেরিয়ে যায়।
+
+**কতটা ছাঁকা হয়, কতটা বের হয়?** তোমার দুই বৃক্ক মিলে দিনে রক্ত থেকে প্রায় **১৮০ লিটার** তরল ছাঁকে। অথচ মূত্র হিসেবে বের হয় মাত্র **১.৫ লিটারের** মতো। অর্থাৎ ছেঁকে আসা পানির প্রায় ৯৯% আবার ফিরিয়ে নেওয়া হয়।
+
+| পদার্থ | রক্তরস | আল্ট্রাফিলট্রেট | সুস্থ মানুষের মূত্র |
+| রক্তরসের প্রোটিন | আছে | নেই (বেশি বড়) | নেই |
+| গ্লুকোজ | আছে | আছে | নেই (সবটুকু ফিরে যায়) |
+| লবণ | আছে | আছে | শুধু বাড়তিটুকু |
+| ইউরিয়া | আছে | আছে | আছে, অনেক বেশি ঘন |
+| পানি | আছে | আছে | আছে (যা ছাঁকা হয়েছিল তার প্রায় ১%) |
+
+**অসমোরেগুলেশন: পানির ভারসাম্য রাখা।** [[6.1|ষষ্ঠ অধ্যায়ে]] তুমি অভিস্রবণ পড়েছ। বৈষম্যভেদ্য পর্দার এক পাশে একটি দ্রবণ আর অন্য পাশে বিশুদ্ধ পানি থাকলে পানি দ্রবণের দিকে ঢোকে। দ্রবণের দিক থেকে সর্বনিম্ন যতটুকু চাপ দিলে এই অভিস্রবণ বন্ধ হয়, সেটিই ওই দ্রবণের **অভিস্রবণ চাপ**। দ্রবণ যত ঘন, তার অভিস্রবণ চাপ তত বেশি।
+
+তোমার দেহের প্রতিটি কোষের পর্দা বৈষম্যভেদ্য, আর কোষগুলো দেহরসে ঘেরা। রক্ত বেশি পাতলা হয়ে গেলে পানি কোষের ভেতরে ঢুকে কোষ ফুলে উঠত। বেশি ঘন হয়ে গেলে কোষ থেকে পানি বেরিয়ে কোষ কুঁচকে যেত। তাই জীবদেহে পানি ও লবণের পরিমাণ আর ঘনত্ব এমনভাবে নিয়ন্ত্রিত হয়, যাতে সামগ্রিকভাবে দেহের ভেতরের অভিস্রবণ চাপ প্রায় অপরিবর্তিত থাকে। এই নিয়ন্ত্রণের নাম **অসমোরেগুলেশন** বা **পানিসাম্য**।
+
+অসমোরেগুলেশনে প্রধান ভূমিকা বৃক্কের, কারণ দেহ থেকে সবচেয়ে বেশি পানি বের হয় মূত্রের মাধ্যমেই। নেফ্রন কতটা পানি পুনঃশোষণ করবে তা কমিয়ে-বাড়িয়ে বৃক্ক এ কাজ করে:
+- **দেহে পানি বেশি হলে** (পরপর কয়েক গ্লাস শরবত খেয়েছ): রক্ত সামান্য পাতলা হয়, টিউব্যুল পানি *কম* ফিরিয়ে নেয়, আর তুমি *প্রচুর, হালকা রঙের পাতলা* মূত্র ত্যাগ করো।
+- **দেহে পানি কম হলে** (গরমের দিন, প্রচুর ঘাম, পানি কম খাওয়া): রক্ত সামান্য ঘন হয়, টিউব্যুল পানি *বেশি* ফিরিয়ে নেয়, আর তুমি *অল্প, গাঢ় রঙের ঘন* মূত্র ত্যাগ করো। সাথে পিপাসাও পায়।
+
+> টিউব্যুল এটা বোঝে কীভাবে? রক্ত ঘন হয়ে গেলে মস্তিষ্কের নিচের পিটুইটারি গ্রন্থি একটি হরমোন (নাম ADH) ছাড়ে, যার প্রভাবে সংগ্রাহী নালিকা বেশি পানি ফিরিয়ে নেয়। তোমার বইয়ের এই অধ্যায়ে হরমোনটির নাম নেই; বৃক্ক যে দেহের প্রয়োজন বুঝে পুনঃশোষণ কমায়-বাড়ায়, এটুকু জানলেই চলবে।
+
+**অসমোরেগুলেশন ব্যাহত হলে।** বৃক্ক ঠিকমতো কাজ না করলে বাড়তি পানি বেরোতে পারে না। দেহে পানি জমতে থাকে: চোখ-মুখ, তারপর সারা শরীর ফুলে যেতে পারে, রক্তচাপও বেড়ে যেতে পারে। এগুলো প্রকৃতপক্ষে অসমোরেগুলেশনজনিত ত্রুটির লক্ষণ।
+## analogy
+অগোছালো স্কুলব্যাগ গোছানোর দুটি উপায় আছে। ভেতরে হাতড়ে একটা একটা করে আবর্জনা বের করতে পারো, তাতে কিছু না কিছু থেকেই যাবে। অথবা *সবকিছু* বিছানায় ঢেলে ফেলে শুধু দরকারি বই, কলম আর টিফিন বক্স আবার ভরে নিতে পারো, আর যা পড়ে থাকে তা ফেলে দিতে পারো। বৃক্ক দ্বিতীয় উপায়টিই নেয়। আল্ট্রাফিলট্রেশনে ছোট সবকিছু ঢেলে ফেলা হয়; পুনঃশোষণে দরকারি জিনিস আবার তুলে নেওয়া হয়; বিছানায় যা পড়ে থাকে সেটাই মূত্র।
+## definition
+**আল্ট্রাফিলট্রেশন**: গ্লোমেরুলাসে চাপের সাহায্যে রক্ত ছাঁকার প্রক্রিয়া, যাতে পানি ও ক্ষুদ্র দ্রবীভূত অণুগুলো বোম্যান্স ক্যাপসুলে চলে আসে, কিন্তু রক্তকণিকা ও রক্তরসের প্রোটিন রক্তেই থেকে যায়।
+
+**বাছাই করা পুনঃশোষণ**: রেনাল টিউব্যুলের পরিস্রুত তরল থেকে দরকারি পদার্থ (গ্লুকোজ, প্রয়োজনীয় লবণ ও পানি) রক্তে ফিরে যাওয়া।
+
+**নিঃসরণ**: টিউব্যুলের প্রাচীরের কোষের মাধ্যমে কৈশিক জালিকার রক্ত থেকে কিছু অবাঞ্ছিত পদার্থ রেনাল টিউব্যুলে চলে আসা।
+
+**অভিস্রবণ চাপ**: বৈষম্যভেদ্য পর্দার ভেতর দিয়ে বিশুদ্ধ দ্রাবক থেকে দ্রবণের দিকে অভিস্রবণ বন্ধ করতে দ্রবণের ওপর সর্বনিম্ন যে চাপ প্রয়োগ করতে হয়।
+
+**অসমোরেগুলেশন (পানিসাম্য)**: যে প্রক্রিয়ায় জীবদেহে পানি ও লবণের পরিমাণ ও ঘনত্ব এমনভাবে নিয়ন্ত্রিত হয় যে সামগ্রিকভাবে দেহের ভেতরের অভিস্রবণ চাপ প্রায় অপরিবর্তিত থাকে।
+## why
+**সবকিছু ছেঁকে আবার বেশির ভাগ ফিরিয়ে নেওয়া কেন? এতে কি অপচয় হয় না?** আসলে এটাই সবচেয়ে নিরাপদ উপায়। যে ছাঁকনি আকার দেখে কাজ করে, সে *যেকোনো* ছোট অবাঞ্ছিত অণুকে আপনা থেকেই বের করে দেয়, এমনকি দেহ আগে কখনো দেখেনি এমন অণুকেও, যেমন কোনো ওষুধ। দেহকে শুধু জানতে হয় দরকারি অল্প কয়েকটা জিনিস কীভাবে ফিরিয়ে নিতে হবে। উল্টো পদ্ধতিতে, অর্থাৎ প্রতিটি বিষ একটি একটি করে বেছে বের করতে গেলে, দেহ যে বিষকে চেনে না তা ভেতরেই থেকে যেত।
+
+**মূত্রে প্রোটিন পাওয়া গেলে তা সতর্কসংকেত কেন?** প্রোটিন এত বড় যে সুস্থ গ্লোমেরুলাস পার হতে পারে না। প্রস্রাব পরীক্ষায় প্রোটিন ধরা পড়লে বুঝতে হবে ছাঁকনিটাই সম্ভবত ক্ষতিগ্রস্ত হয়েছে।
+
+**ডায়াবেটিসে মূত্রে গ্লুকোজ আসে কেন?** টিউব্যুল প্রতি মিনিটে একটি নির্দিষ্ট পরিমাণ গ্লুকোজই ফিরিয়ে নিতে পারে। চিকিৎসা না করা [[10.5|ডায়াবেটিসে]] রক্তে, আর তাই পরিস্রুত তরলে, গ্লুকোজ এত বেশি থাকে যে টিউব্যুল সবটুকু ফিরিয়ে নিতে পারে না; বাকিটা মূত্রের সাথে বেরিয়ে যায়।
+
+**পিপাসা পেলে মূত্রের রং গাঢ় হয় কেন?** ইউরোক্রোম রঞ্জকের পরিমাণ প্রায় একই থাকে, কিন্তু তা অনেক কম পানিতে গোলা থাকে, কারণ বেশি পানি ফিরিয়ে নেওয়া হয়েছে।
+## terms
+আল্ট্রাফিলট্রেশন (Ultrafiltration) | গ্লোমেরুলাসে চাপের সাহায্যে রক্ত ছাঁকা; শুধু ছোট অণু পার হয়
+আল্ট্রাফিলট্রেট (Ultrafiltrate) | বোম্যান্স ক্যাপসুলের পরিস্রুত তরল: প্রোটিন ছাড়া রক্তরস
+বাছাই করা পুনঃশোষণ (Selective reabsorption) | টিউব্যুল থেকে দরকারি পদার্থ রক্তে ফিরিয়ে নেওয়া
+নিঃসরণ (Secretion) | রক্ত থেকে বাড়তি অবাঞ্ছিত পদার্থ টিউব্যুলে চলে আসা
+মূত্র (Urine) | টিউব্যুলের শেষে যে তরল থাকে: পানি, ইউরিয়া, ইউরিক এসিড, ক্রিয়েটিনিন, লবণ
+বৈষম্যভেদ্য পর্দা (Selectively permeable membrane) | যে পর্দা কিছু পদার্থকে (যেমন পানি) যেতে দেয়, অন্যদের দেয় না
+অভিস্রবণ (Osmosis) | বৈষম্যভেদ্য পর্দার ভেতর দিয়ে পাতলা দ্রবণ থেকে ঘন দ্রবণের দিকে পানির চলাচল
+অভিস্রবণ চাপ (Osmotic pressure) | কোনো দ্রবণে অভিস্রবণ বন্ধ করতে তার ওপর সর্বনিম্ন যে চাপ দিতে হয়
+অসমোরেগুলেশন বা পানিসাম্য (Osmoregulation) | দেহের পানি ও লবণ, আর সেই সাথে অভিস্রবণ চাপ, প্রায় স্থির রাখা
+## visual
+"তিন ধাপ" অংশে প্রতিটি ধাপে চাপ দিয়ে বিন্দুগুলো লক্ষ করো: কোনগুলো রক্ত থেকে বেরিয়ে আসে, কোনগুলো ফিরে যায়, আর কোনগুলো শেষে মূত্রে থাকে। "পানিসাম্য" অংশে স্লাইডারটি "খুব কম পানি" থেকে "অনেক পানি" পর্যন্ত সরিয়ে দেখো পুনঃশোষণ আর মূত্র কীভাবে বদলায়।
+## real
+পৌষ-মাঘের শীতে খেয়াল করবে, পানি কম খেলেও গরমকালের চেয়ে ঘন ঘন প্রস্রাব পায়। ঠান্ডায় ঘাম প্রায় হয়ই না, তাই দিনের বাড়তি পানির বেশির ভাগকে বৃক্ক দিয়েই বেরোতে হয়। বৈশাখের গরমে অনেক পানি ত্বক দিয়ে ঘাম হয়ে বেরিয়ে যায়, তাই বৃক্ক বেশি পানি ফিরিয়ে নেয় আর মূত্র কম তৈরি করে।
+
+বঙ্গোপসাগরের জেলেদের চারপাশে শুধু পানি আর পানি, তবু তাঁরা ড্রামে করে খাওয়ার পানি নিয়ে যান। মানুষের বৃক্ক সবচেয়ে ঘন যে মূত্র তৈরি করতে পারে, সমুদ্রের পানিতে তার চেয়েও বেশি লবণ থাকে। এক গ্লাস সমুদ্রের পানির লবণ বের করতে দেহকে এক গ্লাসের বেশি পানি হারাতে হয়। তাই সমুদ্রের পানি খেলে পিপাসা কমে না, বরং বাড়ে।
+## example
+প্রশ্ন: দুই বৃক্ক মিলে প্রতি মিনিটে রক্ত থেকে প্রায় ১২৫ mL তরল ছাঁকে। (ক) এক দিনে কতটা আল্ট্রাফিলট্রেট তৈরি হয়? (খ) দিনে ১.৫ L মূত্র ত্যাগ করলে কতটা তরল পুনঃশোষিত হয়েছে? (গ) এটি পরিস্রুত তরলের শতকরা কত ভাগ?
+দেওয়া আছে: ছাঁকার হার = প্রতি মিনিটে ১২৫ mL; মূত্র = দিনে ১.৫ L; ১ দিন = ২৪ × ৬০ = ১৪৪০ মিনিট
+সূত্র: পুনঃশোষিত আয়তন = পরিস্রুত তরল − মূত্র; শতকরা পুনঃশোষণ = (পুনঃশোষিত ÷ পরিস্রুত তরল) × ১০০
+হিসাব: (ক) এক দিনের পরিস্রুত তরল = ১২৫ × ১৪৪০ = ১ ৮০ ০০০ mL = ১৮০ L
+(খ) পুনঃশোষিত = ১৮০ − ১.৫ = ১৭৮.৫ L
+(গ) শতকরা = (১৭৮.৫ ÷ ১৮০) × ১০০ ≈ ৯৯.২%
+> ১৮০ L দেহের মোট রক্তের আয়তনের বহু গুণ। একই পানি সারা দিনে বারবার ছাঁকা হয় আর বারবার ফিরিয়ে নেওয়া হয়।
+উত্তর: (ক) প্রায় ১৮০ L; (খ) প্রায় ১৭৮.৫ L; (গ) প্রায় ৯৯%। পরিস্রুত তরলের মাত্র ১%-এর মতো মূত্র হয়ে বের হয়।
+## example
+প্রশ্ন: একজন সুস্থ মানুষের তিনটি তরল পরীক্ষা করা হলো। X তরলে প্রোটিন, গ্লুকোজ ও ইউরিয়া আছে। Y তরলে গ্লুকোজ ও ইউরিয়া আছে, প্রোটিন নেই। Z তরলে ইউরিয়া আছে, গ্লুকোজ ও প্রোটিন কোনোটিই নেই। কোনটি রক্তরস, কোনটি আল্ট্রাফিলট্রেট আর কোনটি মূত্র?
+সমাধান: কোন ধাপে কী বাদ পড়ে, তা কাজে লাগাও।
+ধাপ: প্রোটিন গ্লোমেরুলাস পার হতে পারে না। এটি শুধু রক্তরসেই থাকে, তাই **X হলো রক্তরস**।
+ধাপ: আল্ট্রাফিলট্রেট হলো প্রোটিন ছাড়া রক্তরস; এতে তখনো গ্লুকোজ থাকে। তাই **Y হলো আল্ট্রাফিলট্রেট**।
+ধাপ: টিউব্যুলে সব গ্লুকোজ পুনঃশোষিত হয়, কিন্তু ইউরিয়া থেকে যায়। তাই **Z হলো মূত্র**।
+উত্তর: X = রক্তরস, Y = আল্ট্রাফিলট্রেট, Z = মূত্র।
+## example
+প্রশ্ন: বৃক্ক কীভাবে দেহের পানিসাম্য রক্ষা করে? (ক) প্রচুর পানি পান করার পর এবং (খ) প্রচুর ঘাম হওয়ার পর কী ঘটে, তা দিয়ে ব্যাখ্যা করো।
+সমাধান: বৃক্ক নেফ্রনে পানির পুনঃশোষণের পরিমাণ কমায়-বাড়ায়।
+ধাপ: প্রথমে গ্লোমেরুলাসে পানি, রেচন বর্জ্য ও অন্যান্য ক্ষুদ্র পদার্থ পরিস্রুত হয়। এরপর নেফ্রন দেহের প্রয়োজন অনুযায়ী পানি পুনঃশোষণ করে।
+ধাপ: (ক) প্রচুর পানি পান করলে রক্ত সামান্য পাতলা হয়। তখন পানি কম পুনঃশোষিত হয়, তাই বেশি পানি বেরিয়ে যায়: প্রচুর, পাতলা মূত্র।
+ধাপ: (খ) প্রচুর ঘাম হলে রক্ত সামান্য ঘন হয়। তখন পানি বেশি পুনঃশোষিত হয়, তাই কম পানি বেরোয়: অল্প, ঘন মূত্র।
+ধাপ: দুই ক্ষেত্রেই দেহে পানি ও লবণের পরিমাণ ও ঘনত্ব স্বাভাবিকে ফিরে আসে, ফলে অভিস্রবণ চাপ প্রায় অপরিবর্তিত থাকে।
+উত্তর: দেহে পানি বেশি হলে কম আর পানি কম হলে বেশি পুনঃশোষণ করে নেফ্রন দেহের পানির সমতা বজায় রাখে। এটিই অসমোরেগুলেশন।
+## mistakes
+x মূত্র হলো শুধু ছাঁকা রক্ত।
+v ছাঁকা কেবল প্রথম ধাপ। পরিস্রুত তরলের প্রায় ৯৯% ফিরিয়ে নেওয়া হয়; পুনঃশোষণ ও নিঃসরণের পর যা থাকে সেটাই মূত্র।
+x গ্লোমেরুলাস শুধু বর্জ্যই ছেঁকে বের করে।
+v গ্লোমেরুলাস কেবল আকার দেখে বাছে। ইউরিয়ার সাথে গ্লুকোজ, লবণ আর পানিও পার হয়ে যায়; দরকারিগুলো টিউব্যুলকে ফিরিয়ে নিতে হয়।
+x পুনঃশোষণ মানে বর্জ্য পদার্থ মূত্রে শোষিত হওয়া।
+v পুনঃশোষণ মানে দরকারি পদার্থ টিউব্যুল থেকে রক্তে ফিরে যাওয়া।
+x সুস্থ মানুষের মূত্রে গ্লুকোজ ও প্রোটিন থাকে।
+v স্বাভাবিক অবস্থায় কোনোটিই থাকে না: প্রোটিন ছাঁকাই হয় না, আর ছেঁকে আসা সব গ্লুকোজ পুনঃশোষিত হয়।
+x অসমোরেগুলেশন মানে দেহে অভিস্রবণ বন্ধ করে দেওয়া।
+v এর মানে পানি ও লবণ নিয়ন্ত্রণ করে দেহের ভেতরের অভিস্রবণ চাপ প্রায় স্থির রাখা।
+## remember
+- মূত্র তৈরির ধাপ: আল্ট্রাফিলট্রেশন → বাছাই করা পুনঃশোষণ → নিঃসরণ।
+- আল্ট্রাফিলট্রেশন হয় রেনাল করপাসলে, চাপের সাহায্যে। রক্তকণিকা ও রক্তরসের প্রোটিন পার হয় না।
+- আল্ট্রাফিলট্রেট = প্রোটিন ছাড়া রক্তরস: পানি, গ্লুকোজ, অ্যামাইনো এসিড, লবণ, ইউরিয়া।
+- পুনঃশোষণ হয় রেনাল টিউব্যুলে: সব গ্লুকোজ, বেশির ভাগ পানি আর প্রয়োজনীয় লবণ রক্তে ফিরে যায়।
+- নিঃসরণে বাড়তি অম্ল, পটাশিয়াম ও আরও কিছু বর্জ্য টিউব্যুলে যোগ হয়।
+- দিনে প্রায় ১৮০ L ছাঁকা হয়; মূত্র হয় মাত্র ১.৫ L-এর মতো।
+- অসমোরেগুলেশন (পানিসাম্য) = দেহের পানি ও লবণ, আর তাই অভিস্রবণ চাপ, প্রায় অপরিবর্তিত রাখা।
+- দেহে পানি বেশি → পুনঃশোষণ কম → বেশি, পাতলা মূত্র। পানি কম → পুনঃশোষণ বেশি → অল্প, ঘন মূত্র।
+- বৃক্ক বিকল → দেহে পানি জমে → চোখ-মুখ ও শরীর ফোলে, উচ্চ রক্তচাপ হয়।
+## think
+একজন রোগীর মূত্রে ডাক্তার গ্লুকোজ পেলেন, কিন্তু প্রোটিন পেলেন না। নেফ্রনের কোন অংশটি সম্ভবত স্বাভাবিকভাবে কাজ করছে, আর কোন কাজটি পুরোপুরি হচ্ছে না? কারণ কী হতে পারে?
+## quiz
+? নেফ্রনের কোন অংশে আল্ট্রাফিলট্রেশন ঘটে?
+* রেনাল করপাসলে (গ্লোমেরুলাস ও বোম্যান্স ক্যাপসুল)
+- নিকটবর্তী প্যাঁচানো নালিকায়
+- হেনলি-র লুপে
+- সংগ্রাহী নালিকায়
+= চাপের সাহায্যে গ্লোমেরুলাস থেকে রক্ত ছেঁকে বোম্যান্স ক্যাপসুলে আসে।
+? নিচের কোনটি স্বাভাবিক অবস্থায় আল্ট্রাফিলট্রেটে থাকে না?
+- গ্লুকোজ
+- ইউরিয়া
+* রক্তরসের প্রোটিন
+- পানি
+= প্রোটিনের অণু এত বড় যে গ্লোমেরুলাস পার হতে পারে না, তাই রক্তেই থেকে যায়।
+? সুস্থ মানুষের রেনাল টিউব্যুল থেকে কোন পদার্থটি সম্পূর্ণ পুনঃশোষিত হয়?
+- ইউরিয়া
+- ক্রিয়েটিনিন
+- ইউরিক এসিড
+* গ্লুকোজ
+= ছেঁকে আসা সব গ্লুকোজ রক্তে ফিরে যায়, তাই স্বাভাবিক মূত্রে গ্লুকোজ থাকে না।
+? একটি ছেলে পরপর চার গ্লাস পানি পান করল। কিছুক্ষণ পর তার মূত্র হবে
+- পরিমাণে কম ও গাঢ় রঙের
+* পরিমাণে বেশি ও হালকা রঙের
+- পরিমাণে কম ও হালকা রঙের
+- আগের মতোই
+= বাড়তি পানিতে রক্ত সামান্য পাতলা হয়, তাই পানি কম পুনঃশোষিত হয় আর প্রচুর পাতলা মূত্র তৈরি হয়।
+? দেহের পানি ও লবণ নিয়ন্ত্রণ করে অভিস্রবণ চাপ প্রায় স্থির রাখাকে বলে
+- আল্ট্রাফিলট্রেশন
+- ডায়ালাইসিস
+* অসমোরেগুলেশন
+- নিঃসরণ
+= অসমোরেগুলেশন বা পানিসাম্য রক্ষা করে প্রধানত বৃক্ক, নেফ্রনে পুনঃশোষণের মাধ্যমে।
+
+@@ 8.3
+@visual b8dialysis
+@related 8.2.1 8.1 6.4.4 10.5
+== en
+## what
+Diseases can stop the kidneys from doing their work. Small **stones** may form in them, and illnesses such as diabetes and high blood pressure can slowly lead to **kidney failure**. When the kidneys fail, the blood is cleaned by a machine (**dialysis**) or a healthy kidney is put into the patient's body (**transplantation**). Simple healthy habits protect the kidneys and the urinary tract.
+## simple
+**Signs that the kidneys are in trouble.** Several diseases can disturb the normal work of the kidneys: inflammation of the kidney, problems in passing urine, and kidney stones are the common ones. Your book lists these signs of kidney disease:
+- the body swells up,
+- too much protein passes out in the urine,
+- there is blood in the urine,
+- a burning feeling while passing urine,
+- passing urine very often, or in some cases urine stopping altogether.
+
+Anyone who has such signs should see a doctor without delay.
+
+**Kidney stones.** Sometimes small, hard, stone-like bits form inside a kidney. These are **kidney stones**. Think of the salt pans of Cox's Bazar: when sea water dries in the sun, the dissolved salt can no longer stay dissolved and appears as crystals. In the same way, when urine has too little water for the salts in it, some of them come out as tiny crystals, and these can slowly grow into a stone.
+
+- *Who gets them?* Anyone can, but men are more likely to get stones than women.
+- *Causes:* too much body weight, infection of the kidney, and drinking too little water.
+- *Signs:* at first a stone usually causes no trouble. The trouble begins when it moves down into the ureter and blocks the flow of urine. Then there is pain at the back of the waist, often blood in the urine, and sometimes fever with shivering.
+- *Treatment:* it depends on the size and the position of the stone. Small stones can usually be removed with plenty of water and medicines. For others doctors use modern methods: taking the stone out with a fine instrument passed up the ureter (ureteroscopy), breaking it into sand with sound waves (ultrasonic lithotripsy), or an operation on the kidney.
+- *Prevention:* drink enough water, keep a healthy body weight, do not eat far more protein than you need, and get infections treated.
+
+**Kidney failure.** The kidneys may stop working in two ways.
+- *Slowly, over years:* because of nephritis (inflammation of the kidney), diabetes, high blood pressure or kidney stones.
+- *Suddenly:* because of the side effects of some medicines, severe diarrhoea or heavy loss of blood.
+
+When the kidneys fail, the **amount of urine falls** and the level of **creatinine in the blood rises**, because the wastes are no longer being removed. Water collects and the body swells. The wastes must then be removed from the blood in some other way, at regular intervals. That way is dialysis.
+
+**Dialysis.** Cleaning the blood by a scientific method after the kidneys have failed is called **dialysis**. It is usually done with a **dialysis machine**:
+1. One end of the machine's dialysis tube is connected to an **artery** at the patient's wrist and the other end to a **vein** of the same wrist. Blood from the artery is pumped through the tube.
+2. The wall of the dialysis tube is **selectively permeable**, and the tube lies in a liquid called the **dialysis fluid**, whose composition is like that of blood plasma: the same glucose and useful salts, but no urea.
+3. The blood has a lot of urea, uric acid and other harmful wastes, and the fluid has none. So these wastes **diffuse** out of the blood through the wall into the fluid. Blood cells and proteins are too big to pass. Glucose and the useful salts are equally concentrated on both sides, so the blood does not lose them.
+4. The cleaned blood goes back into the patient's body through the vein. The used fluid, now carrying the urea, is thrown away and fresh fluid keeps flowing in.
+
+In this way the machine removes the nitrogenous wastes that the kidneys could not. But dialysis is **expensive and takes a lot of time**: each sitting lasts several hours and has to be repeated a few times every week. It keeps the patient alive; it does not cure the kidneys.
+
+> In hospitals today a surgeon usually first joins an artery and a vein in the patient's arm, and the blood is taken out and returned through two needles placed there. The principle is exactly what your book describes: blood from the artery side passes through the machine and returns to a vein.
+
+**Transplantation.** When someone's kidneys have failed, a healthy kidney from another person can be placed in the patient's body. This is **kidney transplantation**. The kidney can come from two sources:
+- a **close relative** of the patient, such as the father, mother, brother, sister, maternal uncle or aunt; or
+- a **dead person**. Here this means a person who is **brain dead**: someone who will never regain consciousness, but whose organs are being kept alive artificially.
+
+Two facts make transplantation possible. First, **one working kidney is enough** to live, so a donor can give one kidney and stay healthy, and the patient needs only one. Second, the kidney will work only if the **tissue matches**; otherwise the patient's body treats the new kidney as a stranger and attacks it. The tissue of parents, brothers, sisters and close relatives is the most likely to match.
+
+Lakhs of kidney patients around the world live healthy lives after a transplant, and kidneys are being transplanted successfully in our country too. However, by law in Bangladesh a living person can give a kidney only to a close relative. The law is there to stop people buying and selling organs, but it also means that many patients cannot find a donor in time.
+
+**Posthumous kidney donation.** This is why donating kidneys after death matters so much. Just as people donate their eyes after death, a person can decide that their kidneys should be given after death. A patient whose kidneys have failed can get back a healthy life from such a gift, and it is a great service to humanity.
+
+**Dialysis and transplantation compared.**
+
+| | Dialysis | Transplantation |
+| What does the work | a machine, outside the body | a living kidney, inside the body |
+| How the blood is cleaned | wastes diffuse out through an artificial selectively permeable tube | real nephrons filter, reabsorb and secrete |
+| When it works | only during each sitting, at fixed intervals | all the time, day and night |
+| Other work of the kidney (water and salt balance, blood pressure) | done only partly | restored |
+| What it needs | a machine, much time and money, for as long as the kidneys do not work | a donor whose tissue matches, an operation and regular medicines afterwards |
+
+> The opening page of this chapter in your book says that a scientist from Bangladesh, Dr Shuvo Roy, has invented an artificial kidney that can be placed in the human body. Dr Roy, who was born in Bangladesh, leads a team in the United States that is building such a device. It is still being developed and tested and is not yet in use for patients. If it succeeds, many patients may no longer need a dialysis machine.
+
+**Diseases of the urinary tract.** An unhealthy way of living, drinking too little water every day and other causes can lead to diseases of the urinary tract. When the tract is infected there is burning while passing urine, along with other symptoms. With a doctor's advice and treatment taken quickly, a complete cure is possible in most cases.
+
+**How much water?** People used to think that everyone should drink eight glasses of water a day. Modern research shows that the right amount differs from person to person: it depends on sex, the kind of work, any illness and the weather. Drinking more than you need is not good either: the kidneys have to work to throw out the extra, and a very large excess can upset the water balance you studied in [[8.2.1|the last lesson]]. The simple rule is to **drink water when you are thirsty**.
+
+**A caution about oral saline.** Oral saline is a life-saving treatment for the loss of water in diarrhoea and vomiting. But many people drink it when they have only been sweating in the heat, or are tired, or for no reason at all. This is not right, because it loads the body with extra salt. For elderly people especially, extra saline without diarrhoea or vomiting can be dangerous, and even in diarrhoea or vomiting they should be given the correct amount as a doctor advises. For ordinary tiredness or sweating, a glass of sherbet made with lemon juice and a pinch of salt is enough. A little sugar may be added if the person does not have diabetes.
+
+**Keeping the kidneys and urinary tract healthy.**
+- Take care over **tonsillitis and scabies** in children. If these infections are neglected, they can later lead to kidney disease.
+- Keep **diabetes and high blood pressure** under control.
+- Get **diarrhoea and loss of blood** treated quickly.
+- Give up **smoking**, and avoid **pain-killing medicines** as far as possible; never take them for long without a doctor's advice.
+- Drink the **right amount of water**.
+- Above all, live a regular, healthy life.
+## analogy
+Dip a tea bag in a cup of hot water. The paper of the bag has very fine holes: the colour and flavour of the tea are small enough to pass out into the water, but the leaves stay inside. After a while the water is as strong as it will get, and if you move the bag to a fresh cup, more colour comes out again. A dialysis tube is like that paper. The urea (the colour) spreads out of the blood into the dialysis fluid, the blood cells and proteins (the leaves) stay in, and the fluid is changed all the time so that more urea keeps coming out.
+## definition
+**Kidney stone**: a small, hard, stone-like mass formed in the kidney.
+
+**Kidney failure**: the condition in which the kidneys can no longer remove the wastes from the blood, so the amount of urine falls and the creatinine in the blood rises.
+
+**Dialysis**: the scientific method of purifying the blood when the kidneys have become inactive, usually done with a dialysis machine.
+
+**Kidney transplantation**: placing a healthy kidney from another person into the body of a person whose kidneys have failed.
+
+**Posthumous kidney donation**: giving a person's kidneys after death (after brain death) for transplantation into kidney patients.
+## why
+**Why does urea leave the blood in the machine, while glucose stays?** Diffusion always goes from where a substance is more concentrated to where it is less. The dialysis fluid is made with no urea, so urea diffuses out of the blood. It is made with the same glucose and useful salts as healthy plasma, so for these there is no difference and no overall movement. If the blood has too much of some salt, the extra diffuses out as well.
+
+**Why must the fluid keep flowing?** If the same fluid stayed there, urea would collect in it until both sides were equal, and the diffusion would stop. Fresh fluid keeps the difference large.
+
+**Why must the tissue match?** The body's defence system, with its white blood cells, attacks anything it recognises as foreign. A kidney whose tissue is very different from the patient's own is treated as foreign and is damaged. The closer the match, the safer the new kidney; this is also why the patient takes medicines regularly after the operation.
+
+**Why do diabetes and high blood pressure harm the kidneys?** The glomerulus is a knot of very delicate capillaries. Years of too much glucose in the blood, or of blood pushing too hard, slowly damage these capillaries, and the nephrons are lost one by one.
+
+**Why can severe diarrhoea or bleeding stop the kidneys suddenly?** Filtration needs blood arriving under pressure. When the body loses a great deal of water or blood, too little blood reaches the glomeruli, and the kidneys cannot filter.
+## terms
+Kidney stone | A small, hard, stone-like mass formed in the kidney
+Nephritis | Inflammation of the kidney
+Kidney failure | The kidneys can no longer clean the blood; urine falls and blood creatinine rises
+Dialysis | Purifying the blood by a scientific method when the kidneys do not work
+Dialysis tube | The selectively permeable tube of the machine through which the blood flows
+Dialysis fluid | The liquid round the dialysis tube; like blood plasma in composition but without urea
+Lithotripsy | Breaking a stone into small pieces, for example with sound waves
+Transplantation | Placing a healthy kidney from another person into the patient's body
+Tissue matching | Checking that the donor's tissue is similar enough to the patient's
+Brain dead | A person who will never regain consciousness, though the organs are kept alive artificially
+Posthumous donation | Giving organs after death
+Oral saline | A drink of salts and glucose in water, used to treat loss of water in diarrhoea and vomiting
+## visual
+In "Stone", choose where the stone is and see when it starts to cause trouble. In "Dialysis", choose a substance and watch whether it can cross the wall of the tube. In "Transplant", tap the parts to see where the new kidney is placed. In "Habits", decide whether each habit is good or bad for the kidneys.
+## real
+Many districts of Bangladesh now have dialysis centres, and you may know a relative or neighbour who goes for dialysis two or three times a week, spending half a day each time. Families often struggle with the cost and the travel. This is why doctors keep saying that protecting the kidneys is far easier than replacing them. The second Thursday of every March is observed as **World Kidney Day** to remind people of this.
+
+In 2023, for the first time in Bangladesh, the two kidneys of a young woman who had become brain dead were transplanted into two patients, as she herself had wished, and her corneas gave sight to two other people. It showed that organ donation after death is possible in our country too. Your book asks you to make a poster on posthumous kidney donation; this is the kind of story such a poster can tell.
+## example
+Q: A patient goes for dialysis 3 times a week, and each sitting lasts 4 hours. (a) For how many hours a week is the patient's blood being cleaned? (b) For how many hours a week do healthy kidneys work? (c) What percentage of that time does the machine work?
+Given: sittings per week = 3; time per sitting = 4 h; 1 week = 7 × 24 h
+Calculation: (a) dialysis time = 3 × 4 = 12 h per week
+(b) healthy kidneys work all the time = 7 × 24 = 168 h per week
+(c) percentage = (12 ÷ 168) × 100 ≈ 7.1%
+> The numbers are a typical example. They show why wastes build up between two sittings and why the patient must be careful about food and water.
+Answer: (a) 12 hours; (b) 168 hours; (c) about 7%. The machine works for only a small part of the time that real kidneys do.
+## example
+Q: Sumon's body has been swollen for some days, he has pain at the back of his waist and burning while passing urine. After tests the doctor says his urine-producing organ has failed. The doctor mentions one treatment in which wastes are separated from the blood in a special way, and another in which the organ is taken from another person. Analyse how the two treatments differ in the way they work.
+Solution: The organ is the kidney. The first treatment is dialysis and the second is kidney transplantation.
+Step: Where the work is done. In dialysis the blood is cleaned outside the body, in a machine. After a transplant it is cleaned inside the body, by a living kidney.
+Step: How the wastes are removed. In dialysis urea and other wastes simply diffuse through a selectively permeable tube into the dialysis fluid. A transplanted kidney works with its nephrons: ultrafiltration, selective reabsorption and secretion.
+Step: For how long. Dialysis works only during each sitting and must be repeated at fixed intervals; it is expensive and takes time. A transplanted kidney works all the time and also restores water balance and the other work of the kidney.
+Step: What is needed. Dialysis needs the machine again and again. A transplant needs a donor (a close relative or a brain-dead person) whose tissue matches.
+Answer: Dialysis is a temporary, repeated replacement of only the filtering work, done by a machine through diffusion. Transplantation gives the patient a real working kidney that does all the kidney's work continuously, but it needs a matching donor.
+## example
+Q: It is a hot afternoon. Karim Chacha, who is 68, comes home from the field tired and sweating. He has no diarrhoea and no vomiting. His grandson wants to give him two packets of oral saline "for strength". Is that right? What should he give instead?
+Solution: Ask what oral saline is for.
+Step: Oral saline is meant to replace the water and salts lost in diarrhoea or vomiting. Karim Chacha has neither.
+Step: Extra saline without that need loads the body with salt. For elderly people especially this can be dangerous.
+Step: For ordinary tiredness and sweating, water or a sherbet of lemon juice with a pinch of salt is enough. A little sugar may be added only if he does not have diabetes.
+Answer: No. He should be given water or lemon sherbet with a pinch of salt, not oral saline.
+## example
+Q: Explain the conditions necessary for kidney transplantation.
+Solution: Think of the donor, the match and the law.
+Step: A healthy kidney is needed, from a close relative (father, mother, brother, sister, maternal uncle, aunt and so on) or from a brain-dead person whose organs have been kept alive artificially.
+Step: The tissue of the donor and the patient must match. The chance of a match is highest with parents, brothers, sisters and close relatives.
+Step: One working kidney is enough for life, so a living donor can give one kidney, and the patient is treated by receiving one.
+Step: In Bangladesh the law allows a living person to donate a kidney only to a close relative.
+Answer: A healthy kidney from a close relative or a brain-dead donor, a tissue match between donor and patient, and (for a living donor in Bangladesh) a close family relationship are the necessary conditions.
+## mistakes
+x Dialysis cures kidney failure.
+v Dialysis only does part of the kidneys' work for a while. It has to be repeated at regular intervals for as long as the kidneys do not work.
+x In a dialysis machine the blood is mixed with the dialysis fluid.
+v They never mix. The wall of the dialysis tube stays between them; only small dissolved substances such as urea pass through it.
+x A person who gives away one kidney cannot live a normal life.
+v One working kidney is enough for life.
+x Anyone can give a kidney to anyone.
+v The tissue must match, and in Bangladesh a living donor must be a close relative of the patient.
+x The more water you drink, the better for the kidneys.
+v The need differs from person to person. Drink when you are thirsty; much more than you need is not good.
+x Oral saline is a good drink whenever we sweat or feel tired.
+v Oral saline is for diarrhoea and vomiting, in the right amount. For tiredness or sweating, water or lemon sherbet with a pinch of salt is enough.
+## remember
+- Signs of kidney disease: swelling of the body, protein or blood in the urine, burning while passing urine, passing urine very often or not at all.
+- Kidney stones: more likely in men; causes are excess body weight, kidney infection and too little water.
+- A stone gives trouble when it enters the ureter: pain at the back of the waist, blood in the urine, fever with shivering.
+- Stones are removed with plenty of water and medicine, or by ureteroscopy, ultrasonic lithotripsy or an operation.
+- Slow kidney failure: nephritis, diabetes, high blood pressure, stones. Sudden failure: side effects of medicines, severe diarrhoea, heavy blood loss.
+- In kidney failure the urine falls and blood creatinine rises.
+- Dialysis: blood from an artery flows through a selectively permeable tube lying in dialysis fluid; urea diffuses out; cleaned blood returns to a vein. Expensive and time-consuming.
+- Transplantation: a healthy kidney from a close relative or a brain-dead person; the tissue must match; one kidney is enough for life.
+- Posthumous kidney donation is a great service to humanity.
+- Drink water when thirsty; do not take oral saline without diarrhoea or vomiting; control diabetes and blood pressure; avoid smoking and needless painkillers.
+## think
+The dialysis fluid is made with the same amount of glucose as healthy blood plasma. What would happen to the patient's blood glucose if the fluid were made with plain water instead? Use the idea of diffusion in your answer.
+## quiz
+? Which of these can cause *sudden* kidney failure?
+- Diabetes
+- High blood pressure
+* Severe diarrhoea
+- Kidney stones
+= Severe diarrhoea, heavy blood loss and the side effects of some medicines can make the kidneys fail suddenly. The others damage them slowly.
+? In a dialysis machine, why does urea move out of the blood into the dialysis fluid?
+- A pump pushes only the urea out
+* The tube wall is selectively permeable and the fluid has no urea
+- The urea is heavier than the blood
+- White blood cells carry it out
+= Urea diffuses from the blood, where it is concentrated, through the selectively permeable wall into the fluid, where there is none.
+? The risk of kidney stones is reduced by (i) losing excess body weight, (ii) drinking less water, (iii) not eating too much protein. Which is correct?
+- i and ii
+- ii and iii
+* i and iii
+- i, ii and iii
+= Drinking too little water is a cause of stones, so (ii) is wrong. Keeping a healthy weight and avoiding too much protein lower the risk.
+? What must match between the donor and the patient before a kidney is transplanted?
+- Height
+- Age
+- Body weight
+* Tissue
+= If the tissue does not match, the patient's body attacks the new kidney. Close relatives are the most likely to match.
+? A healthy person feels tired after sweating on a hot day and has no diarrhoea or vomiting. What is the best drink?
+* Water, or lemon sherbet with a pinch of salt
+- Two packets of oral saline
+- No drink until evening
+- As much water as possible, even after the thirst has gone
+= Oral saline is for diarrhoea and vomiting. For ordinary sweating, water or lemon sherbet with a little salt is enough, and there is no need to force down extra water.
+== bn
+## what
+নানা রোগে বৃক্কের কাজ ব্যাহত হতে পারে। বৃক্কে ছোট ছোট **পাথর** হতে পারে, আবার ডায়াবেটিস ও উচ্চ রক্তচাপের মতো রোগে বৃক্ক ধীরে ধীরে **বিকল** হয়ে যেতে পারে। বৃক্ক বিকল হলে যন্ত্রের সাহায্যে রক্ত পরিশোধন করা হয় (**ডায়ালাইসিস**), অথবা রোগীর দেহে একটি সুস্থ বৃক্ক বসানো হয় (**প্রতিস্থাপন**)। কয়েকটি সহজ স্বাস্থ্যকর অভ্যাস বৃক্ক ও মূত্রনালিকে সুরক্ষিত রাখে।
+## simple
+**বৃক্কে সমস্যার লক্ষণ।** নানা রকম রোগে বৃক্কের স্বাভাবিক কাজে বিঘ্ন ঘটে: কিডনির প্রদাহ, প্রস্রাবে সমস্যা আর কিডনিতে পাথর হওয়া এর মধ্যে উল্লেখযোগ্য। তোমার বইয়ে কিডনির রোগের এই লক্ষণগুলো দেওয়া আছে:
+- শরীর ফুলে যাওয়া,
+- প্রস্রাবে অতিরিক্ত প্রোটিন যাওয়া,
+- রক্তমিশ্রিত প্রস্রাব হওয়া,
+- প্রস্রাবে জ্বালাপোড়া করা,
+- ঘন ঘন প্রস্রাব হওয়া, বা ক্ষেত্রবিশেষে প্রস্রাব বন্ধ হয়ে যাওয়া।
+
+কারও এ রকম লক্ষণ দেখা দিলে দেরি না করে ডাক্তার দেখানো উচিত।
+
+**বৃক্কে পাথর।** কখনো কখনো বৃক্কের ভেতরে ছোট, শক্ত, পাথরের মতো পদার্থ তৈরি হয়। এগুলোই **বৃক্কের পাথর**। কক্সবাজারের লবণের মাঠের কথা ভাবো: সমুদ্রের পানি রোদে শুকাতে থাকলে দ্রবীভূত লবণ আর দ্রবীভূত থাকতে পারে না, দানা হয়ে বেরিয়ে আসে। একইভাবে মূত্রে লবণের তুলনায় পানি খুব কম হয়ে গেলে কিছু লবণ ক্ষুদ্র দানা হয়ে বেরিয়ে আসে, আর সেগুলো ধীরে ধীরে বড় হয়ে পাথরে পরিণত হতে পারে।
+
+- *কার হয়?* সবারই হতে পারে, তবে মেয়েদের চেয়ে পুরুষের পাথর হওয়ার আশঙ্কা বেশি।
+- *কারণ:* অতিরিক্ত শারীরিক ওজন, কিডনির সংক্রমণ আর কম পানি পান করা।
+- *লক্ষণ:* প্রথম দিকে পাথর হলে সাধারণত তেমন সমস্যা ধরা পড়ে না। সমস্যা শুরু হয় যখন পাথর ইউরেটারে নেমে আসে আর মূত্রের পথ আটকে দেয়। তখন কোমরের পেছনে ব্যথা হয়, অনেকের প্রস্রাবের সাথে রক্ত যায়, কখনো কাঁপুনি দিয়ে জ্বর আসে।
+- *চিকিৎসা:* নির্ভর করে পাথরের আকার ও অবস্থানের ওপর। ছোট পাথর সাধারণত বেশি পানি পান আর ওষুধ সেবনে বের করা যায়। অন্য ক্ষেত্রে ডাক্তাররা আধুনিক পদ্ধতি ব্যবহার করেন: ইউরেটার দিয়ে সরু যন্ত্র ঢুকিয়ে পাথর বের করা (ইউরেটারোস্কোপি), শব্দতরঙ্গ দিয়ে পাথর গুঁড়ো করা (আল্ট্রাসনিক লিথোট্রিপসি), অথবা বৃক্কে অস্ত্রোপচার।
+- *প্রতিরোধ:* পরিমাণমতো পানি পান করো, শরীরের ওজন স্বাভাবিক রাখো, প্রয়োজনের চেয়ে অনেক বেশি আমিষ খেয়ো না, আর সংক্রমণ হলে চিকিৎসা করাও।
+
+**বৃক্ক বিকল হওয়া।** বৃক্ক দুভাবে অকেজো হতে পারে।
+- *ধীরে ধীরে, বহু বছর ধরে:* নেফ্রাইটিস (কিডনির প্রদাহ), ডায়াবেটিস, উচ্চ রক্তচাপ বা কিডনিতে পাথরের কারণে।
+- *আকস্মিকভাবে:* কিছু ওষুধের পার্শ্বপ্রতিক্রিয়া, মারাত্মক ডায়রিয়া বা অতিরিক্ত রক্তক্ষরণের কারণে।
+
+বৃক্ক বিকল হলে **মূত্রের পরিমাণ কমে যায়** আর **রক্তে ক্রিয়েটিনিন বেড়ে যায়**, কারণ বর্জ্য আর বের হচ্ছে না। দেহে পানি জমে শরীর ফুলে যায়। তখন রক্তের বর্জ্য অন্য কোনো উপায়ে, নির্দিষ্ট সময় পর পর, অপসারণ করতে হয়। সেই উপায়টিই ডায়ালাইসিস।
+
+**ডায়ালাইসিস।** বৃক্ক অকেজো হওয়ার পর বৈজ্ঞানিক উপায়ে রক্ত পরিশোধন করার নাম **ডায়ালাইসিস**। সাধারণত **ডায়ালাইসিস মেশিনের** সাহায্যে এটি করা হয়:
+১. মেশিনের ডায়ালাইসিস টিউবের এক প্রান্ত রোগীর হাতের কবজির **ধমনির** সাথে আর অন্য প্রান্ত ওই হাতেরই কবজির **শিরার** সাথে যুক্ত করা হয়। ধমনি থেকে রক্ত পাম্পের সাহায্যে টিউবের ভেতর দিয়ে প্রবাহিত করানো হয়।
+২. ডায়ালাইসিস টিউবের প্রাচীর **বৈষম্যভেদ্য**, আর টিউবটি **ডায়ালাইসিস তরল** নামের একটি তরলে ডোবানো থাকে, যার গঠন রক্তের প্লাজমার (রক্তরসের) অনুরূপ: একই পরিমাণ গ্লুকোজ ও দরকারি লবণ আছে, কিন্তু ইউরিয়া নেই।
+৩. রক্তে ইউরিয়া, ইউরিক এসিড ও অন্যান্য ক্ষতিকর বর্জ্য অনেক, অথচ তরলে একেবারেই নেই। তাই এই বর্জ্যগুলো **ব্যাপন** প্রক্রিয়ায় প্রাচীর ভেদ করে রক্ত থেকে তরলে চলে আসে। রক্তকণিকা আর প্রোটিন এত বড় যে পার হতে পারে না। গ্লুকোজ ও দরকারি লবণ দুই পাশে সমান ঘনত্বে থাকে, তাই রক্ত এগুলো হারায় না।
+৪. পরিশোধিত রক্ত শিরা দিয়ে আবার রোগীর দেহে ফিরে যায়। ইউরিয়া মেশা ব্যবহৃত তরল ফেলে দেওয়া হয়, আর নতুন তরল ক্রমাগত আসতে থাকে।
+
+এভাবে বৃক্ক যে নাইট্রোজেনঘটিত বর্জ্য বের করতে পারেনি, মেশিন তা বের করে দেয়। তবে ডায়ালাইসিস **ব্যয়বহুল ও সময়সাপেক্ষ**: প্রতিবার কয়েক ঘণ্টা লাগে, আর প্রতি সপ্তাহে কয়েকবার করতে হয়। এতে রোগী বেঁচে থাকেন, কিন্তু বৃক্ক ভালো হয়ে যায় না।
+
+> আজকাল হাসপাতালে সাধারণত আগে একটি ছোট অস্ত্রোপচারে রোগীর হাতের একটি ধমনি ও একটি শিরা জুড়ে দেওয়া হয়, তারপর সেখানে বসানো দুটি সুচ দিয়ে রক্ত বের করা ও ফেরত দেওয়া হয়। মূলনীতি তোমার বইয়ে যেমন লেখা ঠিক তেমনই: ধমনির দিকের রক্ত মেশিনের ভেতর দিয়ে গিয়ে শিরায় ফেরে।
+
+**প্রতিস্থাপন।** কারও বৃক্ক বিকল হয়ে গেলে অন্য কোনো মানুষের একটি সুস্থ বৃক্ক তার দেহে বসানো যায়। একেই বলে **বৃক্ক প্রতিস্থাপন** বা কিডনি সংযোজন। বৃক্ক পাওয়া যেতে পারে দুটি উৎস থেকে:
+- রোগীর **নিকট আত্মীয়**, যেমন বাবা, মা, ভাইবোন, মামা, খালা প্রভৃতি; অথবা
+- কোনো **মৃত ব্যক্তি**। এখানে মৃত ব্যক্তি বলতে **"ব্রেন ডেড"** মানুষকে বোঝায়: যাঁর আর কখনোই জ্ঞান ফিরবে না, কিন্তু যাঁর অঙ্গপ্রত্যঙ্গ কৃত্রিমভাবে জীবিত রাখা হয়েছে।
+
+দুটি কারণে প্রতিস্থাপন সম্ভব হয়। প্রথমত, **একটি বৃক্ক কার্যক্ষম থাকলেই** জীবনধারণ করা যায়; তাই দাতা একটি বৃক্ক দিয়েও সুস্থ থাকেন, আর রোগীরও একটি বৃক্কই যথেষ্ট। দ্বিতীয়ত, **টিস্যু ম্যাচ** করলে তবেই বৃক্কটি কাজ করবে; না হলে রোগীর দেহ নতুন বৃক্কটিকে অচেনা বলে ধরে নিয়ে আক্রমণ করে। পিতামাতা, ভাইবোন ও নিকট আত্মীয়ের টিস্যু ম্যাচ হওয়ার সম্ভাবনা সবচেয়ে বেশি।
+
+পৃথিবীতে লক্ষ লক্ষ কিডনি রোগী প্রতিস্থাপনের পর সুস্থ জীবন যাপন করছেন, আমাদের দেশেও সাফল্যের সাথে কিডনি সংযোজন করা হচ্ছে। তবে বাংলাদেশের আইন অনুযায়ী জীবিত মানুষ কেবল নিকট আত্মীয়কেই কিডনি দান করতে পারেন। অঙ্গ কেনাবেচা ঠেকাতেই এই আইন, কিন্তু এর ফলে অনেক রোগী সময়মতো দাতা পান না।
+
+**মরণোত্তর বৃক্কদান।** এ কারণেই মৃত্যুর পর বৃক্ক দান করা এত গুরুত্বপূর্ণ। মানুষ যেমন মরণোত্তর চক্ষুদান করেন, তেমনি কেউ ঠিক করে যেতে পারেন যে মৃত্যুর পর তাঁর বৃক্ক দান করা হবে। এমন দানে একজন কিডনি বিকল রোগী সুস্থ জীবন ফিরে পেতে পারেন; এটি মানবজাতির জন্য এক মহান সেবা।
+
+**ডায়ালাইসিস ও প্রতিস্থাপনের তুলনা।**
+
+| | ডায়ালাইসিস | প্রতিস্থাপন |
+| কাজটি কে করে | দেহের বাইরে থাকা একটি যন্ত্র | দেহের ভেতরে একটি জীবন্ত বৃক্ক |
+| রক্ত কীভাবে পরিষ্কার হয় | কৃত্রিম বৈষম্যভেদ্য টিউব ভেদ করে বর্জ্য ব্যাপিত হয়ে বেরিয়ে যায় | আসল নেফ্রন ছাঁকে, পুনঃশোষণ করে ও নিঃসরণ করে |
+| কখন কাজ করে | শুধু প্রতিবার ডায়ালাইসিসের সময়, নির্দিষ্ট সময় পর পর | সারাক্ষণ, দিনরাত |
+| বৃক্কের অন্য কাজ (পানি ও লবণের ভারসাম্য, রক্তচাপ) | আংশিকভাবে হয় | ফিরে আসে |
+| কী লাগে | যন্ত্র, প্রচুর সময় ও টাকা, যত দিন বৃক্ক কাজ না করে | টিস্যু ম্যাচ করে এমন দাতা, অস্ত্রোপচার আর পরে নিয়মিত ওষুধ |
+
+> তোমার বইয়ে এই অধ্যায়ের প্রথম পাতায় লেখা আছে, বাংলাদেশি বিজ্ঞানী ড. শুভ রায় মানবদেহে প্রতিস্থাপনযোগ্য কৃত্রিম কিডনি আবিষ্কার করেছেন। বাংলাদেশে জন্ম নেওয়া ড. রায় যুক্তরাষ্ট্রে একটি গবেষক দলের নেতৃত্ব দিচ্ছেন, যাঁরা এমন একটি যন্ত্র তৈরি করছেন। যন্ত্রটি এখনো উন্নয়ন ও পরীক্ষার পর্যায়ে আছে, রোগীদের জন্য ব্যবহার শুরু হয়নি। সফল হলে অনেক রোগীর আর ডায়ালাইসিস মেশিনের দরকার না-ও হতে পারে।
+
+**মূত্রনালির রোগ।** অস্বাস্থ্যকর জীবনযাপন, দৈনিক অপর্যাপ্ত পানি পান এবং অন্যান্য নানা কারণে মূত্রনালির রোগ দেখা দেয়। মূত্রনালির সংক্রমণ হলে প্রস্রাবে জ্বালাপোড়াসহ নানা উপসর্গ দেখা দেয়। দ্রুত ডাক্তারের পরামর্শ ও চিকিৎসা নিলে অনেক ক্ষেত্রেই সম্পূর্ণ আরোগ্য লাভ করা সম্ভব।
+
+**কতটা পানি?** আগে ধারণা করা হতো, সবার দৈনিক আট গ্লাস পানি পান করা উচিত। আধুনিক গবেষণায় দেখা যায়, পানির স্বাভাবিক চাহিদা ব্যক্তিভেদে আলাদা: লিঙ্গ, কাজের ধরন, শারীরিক অসুস্থতা ও আবহাওয়ার ওপর তা নির্ভর করে। প্রয়োজনের অতিরিক্ত পানি পান করাও ঠিক নয়: বাড়তিটুকু বের করতে বৃক্ককে খাটতে হয়, আর খুব বেশি হয়ে গেলে [[8.2.1|আগের পাঠে]] পড়া পানিসাম্য নষ্ট হতে পারে। সহজ নিয়ম হলো, **পিপাসা পেলেই পানি পান করো**।
+
+**খাবার স্যালাইন নিয়ে সতর্কতা।** ডায়রিয়া ও বমিতে দেহের পানি বেরিয়ে গেলে খাবার স্যালাইন জীবন বাঁচায়। কিন্তু অনেকে শুধু গরমে ঘেমে গেলে, ক্লান্ত লাগলে কিংবা কোনো কারণ ছাড়াই স্যালাইন পান করেন। এটা ঠিক নয়, কারণ এতে দেহে বাড়তি লবণ ঢোকে। বিশেষ করে বয়স্ক মানুষের বেলায় ডায়রিয়া বা বমি ছাড়া অতিরিক্ত খাবার স্যালাইন বিপদ ডেকে আনতে পারে; এমনকি ডায়রিয়া বা বমি হলেও তাঁদের চিকিৎসকের পরামর্শমতো সঠিক পরিমাণে স্যালাইন দিতে হবে। সাধারণ ক্লান্তি বা ঘামের ক্ষেত্রে লেবুর রস ও সামান্য লবণ মেশানো শরবতই যথেষ্ট। ডায়াবেটিস না থাকলে এতে একটু চিনিও দেওয়া যায়।
+
+**বৃক্ক ও মূত্রনালি সুস্থ রাখার উপায়।**
+- শিশুদের **টনসিল ও খোসপাঁচড়া** থেকে সাবধান হও। এসব সংক্রমণ অবহেলা করলে পরে তা থেকে কিডনির অসুখ হতে পারে।
+- **ডায়াবেটিস ও উচ্চ রক্তচাপ** নিয়ন্ত্রণে রাখো।
+- **ডায়রিয়া ও রক্তক্ষরণের** দ্রুত চিকিৎসা করাও।
+- **ধূমপান** ত্যাগ করো, আর **ব্যথা নিরাময়ের ওষুধ** যথাসম্ভব পরিহার করো; ডাক্তারের পরামর্শ ছাড়া কখনোই দীর্ঘদিন খেয়ো না।
+- **পরিমাণমতো পানি** পান করো।
+- সবচেয়ে বড় কথা, নিয়ম মেনে স্বাস্থ্যকর জীবন যাপন করো।
+## analogy
+এক কাপ গরম পানিতে একটা টি-ব্যাগ ডোবাও। ব্যাগের কাগজে খুব সূক্ষ্ম ছিদ্র আছে: চায়ের রং আর স্বাদ এত ছোট যে পানিতে বেরিয়ে আসে, কিন্তু পাতাগুলো ভেতরেই থাকে। কিছুক্ষণ পর পানি যতটা কড়া হওয়ার হয়ে যায়; তখন ব্যাগটা নতুন এক কাপ পানিতে দিলে আবার রং বেরোয়। ডায়ালাইসিস টিউব ওই কাগজের মতো। ইউরিয়া (রং) রক্ত থেকে ডায়ালাইসিস তরলে ছড়িয়ে পড়ে, রক্তকণিকা আর প্রোটিন (পাতা) ভেতরে থেকে যায়, আর তরল সারাক্ষণ বদলানো হয় যাতে আরও ইউরিয়া বেরোতে থাকে।
+## definition
+**বৃক্কের পাথর**: বৃক্কে সৃষ্ট ছোট আকারের, শক্ত, পাথর জাতীয় পদার্থ।
+
+**বৃক্ক বিকল**: যে অবস্থায় বৃক্ক আর রক্ত থেকে বর্জ্য অপসারণ করতে পারে না; ফলে মূত্রের পরিমাণ কমে যায় এবং রক্তে ক্রিয়েটিনিন বৃদ্ধি পায়।
+
+**ডায়ালাইসিস**: বৃক্ক অকেজো বা বিকল হওয়ার পর বৈজ্ঞানিক উপায়ে রক্ত পরিশোধন করার পদ্ধতি; সাধারণত ডায়ালাইসিস মেশিনের সাহায্যে করা হয়।
+
+**বৃক্ক প্রতিস্থাপন (কিডনি সংযোজন)**: বৃক্ক বিকল হওয়া ব্যক্তির দেহে অন্য কোনো মানুষের সুস্থ বৃক্ক বসানো।
+
+**মরণোত্তর বৃক্কদান**: মৃত্যুর পর (ব্রেন ডেড হওয়ার পর) কোনো ব্যক্তির বৃক্ক কিডনি রোগীর দেহে প্রতিস্থাপনের জন্য দান করা।
+## why
+**মেশিনে ইউরিয়া রক্ত থেকে বেরিয়ে যায়, অথচ গ্লুকোজ থেকে যায় কেন?** ব্যাপন সব সময় ঘটে বেশি ঘনত্বের জায়গা থেকে কম ঘনত্বের জায়গার দিকে। ডায়ালাইসিস তরলে ইউরিয়া রাখা হয় না, তাই ইউরিয়া রক্ত থেকে ব্যাপিত হয়ে বেরিয়ে আসে। তরলে গ্লুকোজ ও দরকারি লবণ রাখা হয় সুস্থ রক্তরসের সমান, তাই এদের বেলায় কোনো পার্থক্য নেই, মোটের ওপর চলাচলও নেই। রক্তে কোনো লবণ বেশি থাকলে তার বাড়তিটুকুও বেরিয়ে আসে।
+
+**তরল সারাক্ষণ প্রবাহিত রাখতে হয় কেন?** একই তরল থেকে গেলে তাতে ইউরিয়া জমতে জমতে দুই পাশ সমান হয়ে যেত, আর ব্যাপন থেমে যেত। নতুন তরল এলে পার্থক্যটা বড় থাকে।
+
+**টিস্যু ম্যাচ করতে হয় কেন?** দেহের প্রতিরক্ষা ব্যবস্থা, অর্থাৎ শ্বেত রক্তকণিকারা, যা কিছু অচেনা মনে করে তাকেই আক্রমণ করে। রোগীর নিজের টিস্যুর সাথে খুব অমিল থাকলে নতুন বৃক্কটিকে দেহ অচেনা বলে ধরে নেয় আর তার ক্ষতি করে। মিল যত বেশি, নতুন বৃক্ক তত নিরাপদ; এ কারণেই অস্ত্রোপচারের পর রোগীকে নিয়মিত ওষুধ খেতে হয়।
+
+**ডায়াবেটিস ও উচ্চ রক্তচাপে বৃক্কের ক্ষতি হয় কেন?** গ্লোমেরুলাস খুব নাজুক কৈশিকনালিকার একটি গুচ্ছ। বছরের পর বছর রক্তে অতিরিক্ত গ্লুকোজ থাকলে, বা রক্ত অতিরিক্ত জোরে চাপ দিলে এই কৈশিকনালিকাগুলো ধীরে ধীরে নষ্ট হয়, আর নেফ্রন একটি একটি করে হারিয়ে যায়।
+
+**মারাত্মক ডায়রিয়া বা রক্তক্ষরণে বৃক্ক হঠাৎ অকেজো হতে পারে কেন?** ছাঁকার জন্য চাপসহ রক্ত আসা দরকার। দেহ থেকে প্রচুর পানি বা রক্ত বেরিয়ে গেলে গ্লোমেরুলাসে খুব কম রক্ত পৌঁছায়, ফলে বৃক্ক ছাঁকতে পারে না।
+## terms
+বৃক্কের পাথর (Kidney stone) | বৃক্কে সৃষ্ট ছোট, শক্ত, পাথর জাতীয় পদার্থ
+নেফ্রাইটিস (Nephritis) | কিডনির প্রদাহ
+বৃক্ক বিকল (Kidney failure) | বৃক্ক আর রক্ত পরিষ্কার করতে পারে না; মূত্র কমে যায়, রক্তে ক্রিয়েটিনিন বাড়ে
+ডায়ালাইসিস (Dialysis) | বৃক্ক কাজ না করলে বৈজ্ঞানিক উপায়ে রক্ত পরিশোধন
+ডায়ালাইসিস টিউব (Dialysis tube) | মেশিনের বৈষম্যভেদ্য নল, যার ভেতর দিয়ে রক্ত প্রবাহিত হয়
+ডায়ালাইসিস তরল (Dialysis fluid) | টিউবের চারপাশের তরল; গঠনে রক্তরসের অনুরূপ, তবে ইউরিয়া নেই
+লিথোট্রিপসি (Lithotripsy) | পাথরকে ছোট ছোট টুকরো করা, যেমন শব্দতরঙ্গ দিয়ে
+প্রতিস্থাপন বা সংযোজন (Transplantation) | অন্য মানুষের সুস্থ বৃক্ক রোগীর দেহে বসানো
+টিস্যু ম্যাচ (Tissue matching) | দাতার টিস্যু রোগীর টিস্যুর সাথে যথেষ্ট মেলে কি না তা দেখা
+ব্রেন ডেড (Brain dead) | যাঁর আর কখনো জ্ঞান ফিরবে না, তবে অঙ্গপ্রত্যঙ্গ কৃত্রিমভাবে জীবিত রাখা হয়েছে
+মরণোত্তর দান (Posthumous donation) | মৃত্যুর পর অঙ্গ দান করা
+খাবার স্যালাইন (Oral saline) | পানিতে লবণ ও গ্লুকোজের দ্রবণ; ডায়রিয়া ও বমিতে পানির ঘাটতি পূরণে ব্যবহৃত হয়
+## visual
+"পাথর" অংশে পাথরটি কোথায় আছে তা বেছে নিয়ে দেখো কখন থেকে সমস্যা শুরু হয়। "ডায়ালাইসিস" অংশে একটি পদার্থ বেছে দেখো সেটি টিউবের প্রাচীর পার হতে পারে কি না। "প্রতিস্থাপন" অংশে অংশগুলোতে চাপ দিয়ে দেখো নতুন বৃক্ক কোথায় বসানো হয়। "অভ্যাস" অংশে ঠিক করো কোন অভ্যাস বৃক্কের জন্য ভালো আর কোনটি খারাপ।
+## real
+বাংলাদেশের অনেক জেলায় এখন ডায়ালাইসিস কেন্দ্র আছে। হয়তো তোমার কোনো আত্মীয় বা প্রতিবেশী সপ্তাহে দু-তিন দিন ডায়ালাইসিস করাতে যান, আর প্রতিবার অর্ধেক দিন লেগে যায়। খরচ আর যাতায়াত নিয়ে পরিবারগুলোকে অনেক কষ্ট করতে হয়। এ জন্যই ডাক্তাররা বারবার বলেন, বৃক্ক বদলানোর চেয়ে বৃক্ক রক্ষা করা অনেক সহজ। এ কথা মনে করিয়ে দিতেই প্রতি বছর মার্চ মাসের দ্বিতীয় বৃহস্পতিবার **বিশ্ব কিডনি দিবস** পালন করা হয়।
+
+২০২৩ সালে বাংলাদেশে প্রথমবারের মতো "ব্রেন ডেড" হয়ে যাওয়া এক তরুণীর দুটি বৃক্ক, তাঁর নিজের ইচ্ছা অনুযায়ী, দুজন রোগীর দেহে প্রতিস্থাপন করা হয়; তাঁর কর্নিয়ায় দৃষ্টি ফিরে পান আরও দুজন। এতে বোঝা গেল, আমাদের দেশেও মরণোত্তর অঙ্গদান সম্ভব। তোমার বইয়ে মরণোত্তর বৃক্কদান নিয়ে পোস্টার আঁকতে বলা হয়েছে; সে পোস্টারে এ রকম গল্পই বলা যায়।
+## example
+প্রশ্ন: একজন রোগী সপ্তাহে ৩ বার ডায়ালাইসিস করান, প্রতিবার ৪ ঘণ্টা লাগে। (ক) সপ্তাহে কত ঘণ্টা রোগীর রক্ত পরিশোধিত হয়? (খ) সুস্থ বৃক্ক সপ্তাহে কত ঘণ্টা কাজ করে? (গ) মেশিন তার শতকরা কত ভাগ সময় কাজ করে?
+দেওয়া আছে: সপ্তাহে ডায়ালাইসিস = ৩ বার; প্রতিবারের সময় = ৪ ঘণ্টা; ১ সপ্তাহ = ৭ × ২৪ ঘণ্টা
+হিসাব: (ক) ডায়ালাইসিসের সময় = ৩ × ৪ = সপ্তাহে ১২ ঘণ্টা
+(খ) সুস্থ বৃক্ক সারাক্ষণ কাজ করে = ৭ × ২৪ = সপ্তাহে ১৬৮ ঘণ্টা
+(গ) শতকরা = (১২ ÷ ১৬৮) × ১০০ ≈ ৭.১%
+> সংখ্যাগুলো একটি প্রচলিত উদাহরণ। এ থেকে বোঝা যায় দুই ডায়ালাইসিসের মাঝখানে কেন বর্জ্য জমে যায়, আর রোগীকে কেন খাবার ও পানি নিয়ে সাবধান থাকতে হয়।
+উত্তর: (ক) ১২ ঘণ্টা; (খ) ১৬৮ ঘণ্টা; (গ) প্রায় ৭%। আসল বৃক্ক যত সময় কাজ করে, মেশিন কাজ করে তার সামান্য অংশ।
+## example
+প্রশ্ন: বেশ কিছুদিন ধরে সুমনের শরীর ফুলে গেছে, কোমরের পেছনে ব্যথা করছে আর প্রস্রাবে জ্বালাপোড়া হচ্ছে। পরীক্ষা-নিরীক্ষার পর ডাক্তার বললেন, তার প্রস্রাব উৎপাদনের অঙ্গটি অকেজো হয়ে গেছে। তিনি এমন একটি পদ্ধতির কথা বললেন যেখানে বিশেষ উপায়ে রক্ত থেকে ক্ষতিকর বর্জ্য আলাদা করা হয়, আর আরেকটি পদ্ধতির কথা বললেন যেখানে অন্য ব্যক্তির কাছ থেকে অঙ্গটি সংগ্রহ করতে হয়। পদ্ধতি দুটির কার্যগত ভিন্নতা বিশ্লেষণ করো।
+সমাধান: অঙ্গটি বৃক্ক। প্রথম পদ্ধতিটি ডায়ালাইসিস, দ্বিতীয়টি বৃক্ক প্রতিস্থাপন।
+ধাপ: কাজটি কোথায় হয়। ডায়ালাইসিসে রক্ত পরিষ্কার হয় দেহের বাইরে, একটি যন্ত্রে। প্রতিস্থাপনের পর রক্ত পরিষ্কার হয় দেহের ভেতরে, একটি জীবন্ত বৃক্কে।
+ধাপ: বর্জ্য কীভাবে বের হয়। ডায়ালাইসিসে ইউরিয়া ও অন্যান্য বর্জ্য বৈষম্যভেদ্য টিউব ভেদ করে শুধু ব্যাপনের মাধ্যমে ডায়ালাইসিস তরলে চলে যায়। প্রতিস্থাপিত বৃক্ক কাজ করে তার নেফ্রন দিয়ে: আল্ট্রাফিলট্রেশন, বাছাই করা পুনঃশোষণ ও নিঃসরণ।
+ধাপ: কত সময় ধরে। ডায়ালাইসিস কাজ করে শুধু প্রতিবার করানোর সময়, আর নির্দিষ্ট সময় পর পর আবার করাতে হয়; এটি ব্যয়বহুল ও সময়সাপেক্ষ। প্রতিস্থাপিত বৃক্ক সারাক্ষণ কাজ করে, পানিসাম্যসহ বৃক্কের অন্য কাজগুলোও ফিরিয়ে আনে।
+ধাপ: কী লাগে। ডায়ালাইসিসে বারবার যন্ত্র লাগে। প্রতিস্থাপনে লাগে এমন একজন দাতা (নিকট আত্মীয় বা ব্রেন ডেড ব্যক্তি), যাঁর টিস্যু ম্যাচ করে।
+উত্তর: ডায়ালাইসিস হলো যন্ত্রের সাহায্যে, ব্যাপনের মাধ্যমে, শুধু ছাঁকার কাজটুকুর সাময়িক ও বারবার করা বিকল্প। প্রতিস্থাপনে রোগী একটি আসল কার্যক্ষম বৃক্ক পান, যা বৃক্কের সব কাজ সারাক্ষণ করে, তবে এর জন্য টিস্যু ম্যাচ করে এমন দাতা দরকার।
+## example
+প্রশ্ন: গরমের দুপুর। ৬৮ বছরের করিম চাচা মাঠ থেকে ক্লান্ত হয়ে, ঘেমে বাড়ি ফিরলেন। তাঁর ডায়রিয়া বা বমি কিছুই হয়নি। নাতি "শক্তির জন্য" তাঁকে দুই প্যাকেট খাবার স্যালাইন খাওয়াতে চায়। এটা কি ঠিক? বদলে কী দেওয়া উচিত?
+সমাধান: ভাবো, খাবার স্যালাইন আসলে কীসের জন্য।
+ধাপ: খাবার স্যালাইন ডায়রিয়া বা বমিতে বেরিয়ে যাওয়া পানি ও লবণ পূরণের জন্য। করিম চাচার এর কোনোটিই হয়নি।
+ধাপ: প্রয়োজন ছাড়া অতিরিক্ত স্যালাইন খেলে দেহে বাড়তি লবণ ঢোকে। বিশেষ করে বয়স্ক মানুষের জন্য এটি বিপদ ডেকে আনতে পারে।
+ধাপ: সাধারণ ক্লান্তি ও ঘামের ক্ষেত্রে পানি, অথবা লেবুর রস ও সামান্য লবণ মেশানো শরবতই যথেষ্ট। ডায়াবেটিস না থাকলে তবেই একটু চিনি দেওয়া যায়।
+উত্তর: না। তাঁকে খাবার স্যালাইন নয়, পানি বা সামান্য লবণ দেওয়া লেবুর শরবত দেওয়া উচিত।
+## example
+প্রশ্ন: কিডনি প্রতিস্থাপনে প্রয়োজনীয় শর্তগুলো ব্যাখ্যা করো।
+সমাধান: দাতা, টিস্যুর মিল আর আইন, এই তিনটি দিক ভাবো।
+ধাপ: একটি সুস্থ বৃক্ক দরকার, যা আসবে নিকট আত্মীয়ের (বাবা, মা, ভাইবোন, মামা, খালা প্রভৃতি) কাছ থেকে, অথবা এমন ব্রেন ডেড ব্যক্তির কাছ থেকে যাঁর অঙ্গপ্রত্যঙ্গ কৃত্রিমভাবে জীবিত রাখা হয়েছে।
+ধাপ: দাতা ও রোগীর টিস্যু ম্যাচ করতে হবে। পিতামাতা, ভাইবোন ও নিকট আত্মীয়ের ক্ষেত্রে ম্যাচ হওয়ার সম্ভাবনা সবচেয়ে বেশি।
+ধাপ: একটি বৃক্ক কার্যক্ষম থাকলেই জীবনধারণ করা যায়, তাই জীবিত দাতা একটি বৃক্ক দিতে পারেন, আর রোগীর চিকিৎসাও একটি বৃক্ক দিয়েই হয়।
+ধাপ: বাংলাদেশের আইনে জীবিত মানুষ কেবল নিকট আত্মীয়কেই কিডনি দান করতে পারেন।
+উত্তর: নিকট আত্মীয় বা ব্রেন ডেড দাতার একটি সুস্থ বৃক্ক, দাতা ও রোগীর টিস্যু ম্যাচ করা, এবং (বাংলাদেশে জীবিত দাতার ক্ষেত্রে) নিকট আত্মীয়তার সম্পর্ক, এগুলোই প্রয়োজনীয় শর্ত।
+## mistakes
+x ডায়ালাইসিস করলে বৃক্ক বিকল সেরে যায়।
+v ডায়ালাইসিস কিছু সময়ের জন্য বৃক্কের কাজের একটি অংশ করে দেয় মাত্র। বৃক্ক যত দিন কাজ না করে, তত দিন নির্দিষ্ট সময় পর পর এটি করাতে হয়।
+x ডায়ালাইসিস মেশিনে রক্ত ডায়ালাইসিস তরলের সাথে মিশে যায়।
+v এরা কখনো মেশে না। মাঝখানে থাকে ডায়ালাইসিস টিউবের প্রাচীর; শুধু ইউরিয়ার মতো ক্ষুদ্র দ্রবীভূত পদার্থ তা পার হয়।
+x একটি বৃক্ক দান করলে আর স্বাভাবিক জীবন যাপন করা যায় না।
+v একটি বৃক্ক কার্যক্ষম থাকলেই জীবনধারণ করা যায়।
+x যে কেউ যে কাউকে বৃক্ক দিতে পারে।
+v টিস্যু ম্যাচ করতে হয়, আর বাংলাদেশে জীবিত দাতাকে রোগীর নিকট আত্মীয় হতে হয়।
+x যত বেশি পানি পান করা যায়, বৃক্কের জন্য তত ভালো।
+v পানির চাহিদা মানুষভেদে আলাদা। পিপাসা পেলে পানি পান করো; প্রয়োজনের চেয়ে অনেক বেশি পান করা ঠিক নয়।
+x ঘামলে বা ক্লান্ত লাগলেই খাবার স্যালাইন খাওয়া ভালো।
+v খাবার স্যালাইন ডায়রিয়া ও বমির জন্য, সঠিক পরিমাণে। ক্লান্তি বা ঘামের ক্ষেত্রে পানি বা সামান্য লবণ দেওয়া লেবুর শরবতই যথেষ্ট।
+## remember
+- কিডনির রোগের লক্ষণ: শরীর ফুলে যাওয়া, প্রস্রাবে প্রোটিন বা রক্ত যাওয়া, প্রস্রাবে জ্বালাপোড়া, ঘন ঘন প্রস্রাব বা প্রস্রাব বন্ধ হয়ে যাওয়া।
+- বৃক্কে পাথর: পুরুষের আশঙ্কা বেশি; কারণ অতিরিক্ত শারীরিক ওজন, কিডনির সংক্রমণ ও কম পানি পান করা।
+- পাথর ইউরেটারে এলে সমস্যা হয়: কোমরের পেছনে ব্যথা, প্রস্রাবে রক্ত, কাঁপুনি দিয়ে জ্বর।
+- পাথর অপসারণ: বেশি পানি ও ওষুধ, অথবা ইউরেটারোস্কোপি, আল্ট্রাসনিক লিথোট্রিপসি বা অস্ত্রোপচার।
+- ধীরে বিকল: নেফ্রাইটিস, ডায়াবেটিস, উচ্চ রক্তচাপ, পাথর। আকস্মিক বিকল: ওষুধের পার্শ্বপ্রতিক্রিয়া, মারাত্মক ডায়রিয়া, অতিরিক্ত রক্তক্ষরণ।
+- বৃক্ক বিকল হলে মূত্র কমে যায়, রক্তে ক্রিয়েটিনিন বাড়ে।
+- ডায়ালাইসিস: ধমনির রক্ত ডায়ালাইসিস তরলে ডোবানো বৈষম্যভেদ্য টিউব দিয়ে যায়; ইউরিয়া ব্যাপিত হয়ে বেরিয়ে যায়; পরিশোধিত রক্ত শিরায় ফেরে। ব্যয়বহুল ও সময়সাপেক্ষ।
+- প্রতিস্থাপন: নিকট আত্মীয় বা ব্রেন ডেড ব্যক্তির সুস্থ বৃক্ক; টিস্যু ম্যাচ করতে হয়; একটি বৃক্কই জীবনধারণের জন্য যথেষ্ট।
+- মরণোত্তর বৃক্কদান মানবজাতির জন্য মহান সেবা।
+- পিপাসা পেলে পানি পান করো; ডায়রিয়া বা বমি ছাড়া খাবার স্যালাইন নয়; ডায়াবেটিস ও রক্তচাপ নিয়ন্ত্রণে রাখো; ধূমপান ও অপ্রয়োজনীয় ব্যথার ওষুধ পরিহার করো।
+## think
+ডায়ালাইসিস তরলে সুস্থ রক্তরসের সমান পরিমাণ গ্লুকোজ রাখা হয়। এর বদলে তরলটি শুধু বিশুদ্ধ পানি দিয়ে তৈরি করলে রোগীর রক্তের গ্লুকোজের কী হতো? ব্যাপনের ধারণা দিয়ে উত্তর দাও।
+## quiz
+? নিচের কোনটির কারণে *আকস্মিকভাবে* বৃক্ক বিকল হতে পারে?
+- ডায়াবেটিস
+- উচ্চ রক্তচাপ
+* মারাত্মক ডায়রিয়া
+- কিডনিতে পাথর
+= মারাত্মক ডায়রিয়া, অতিরিক্ত রক্তক্ষরণ আর কিছু ওষুধের পার্শ্বপ্রতিক্রিয়ায় বৃক্ক হঠাৎ অকেজো হতে পারে। অন্যগুলো বৃক্ককে ধীরে ধীরে নষ্ট করে।
+? ডায়ালাইসিস মেশিনে ইউরিয়া রক্ত থেকে ডায়ালাইসিস তরলে চলে যায় কেন?
+- পাম্প শুধু ইউরিয়াকে ঠেলে বের করে
+* টিউবের প্রাচীর বৈষম্যভেদ্য আর তরলে ইউরিয়া নেই
+- ইউরিয়া রক্তের চেয়ে ভারী
+- শ্বেত রক্তকণিকা তাকে বয়ে নিয়ে যায়
+= রক্তে ইউরিয়ার ঘনত্ব বেশি, তরলে নেই; তাই ইউরিয়া বৈষম্যভেদ্য প্রাচীর ভেদ করে ব্যাপিত হয়ে তরলে চলে যায়।
+? বৃক্কে পাথর হওয়ার আশঙ্কা কমে (i) অতিরিক্ত শারীরিক ওজন কমালে, (ii) কম পানি পান করলে, (iii) অতিরিক্ত আমিষ না খেলে। কোনটি সঠিক?
+- i ও ii
+- ii ও iii
+* i ও iii
+- i, ii ও iii
+= কম পানি পান করা পাথর হওয়ার একটি কারণ, তাই (ii) ভুল। ওজন স্বাভাবিক রাখলে আর অতিরিক্ত আমিষ না খেলে আশঙ্কা কমে।
+? বৃক্ক প্রতিস্থাপনের আগে দাতা ও রোগীর মধ্যে কী ম্যাচ করতে হয়?
+- উচ্চতা
+- বয়স
+- শরীরের ওজন
+* টিস্যু
+= টিস্যু ম্যাচ না করলে রোগীর দেহ নতুন বৃক্কটিকে আক্রমণ করে। নিকট আত্মীয়ের টিস্যু ম্যাচ হওয়ার সম্ভাবনা সবচেয়ে বেশি।
+? একজন সুস্থ মানুষ গরমের দিনে ঘেমে ক্লান্ত বোধ করছেন; তাঁর ডায়রিয়া বা বমি হয়নি। তাঁর জন্য সবচেয়ে ভালো পানীয় কোনটি?
+* পানি, অথবা সামান্য লবণ দেওয়া লেবুর শরবত
+- দুই প্যাকেট খাবার স্যালাইন
+- সন্ধ্যা পর্যন্ত কিছুই পান না করা
+- পিপাসা মিটে যাওয়ার পরও যত বেশি সম্ভব পানি
+= খাবার স্যালাইন ডায়রিয়া ও বমির জন্য। সাধারণ ঘামের ক্ষেত্রে পানি বা সামান্য লবণ দেওয়া লেবুর শরবতই যথেষ্ট; জোর করে বাড়তি পানি খাওয়ারও দরকার নেই।
