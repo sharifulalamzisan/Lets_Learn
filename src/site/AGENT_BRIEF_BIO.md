@@ -5,18 +5,19 @@ Class 9–10 students (NCTB Biology book, 2026 edition). All Physics and Chemist
 Other agents are writing other chapters at the same time — touch ONLY your own two files.
 
 ## Your deliverables
-1. `/home/claude/site10/content/biology/chNN.txt` (NN = two-digit chapter, e.g. ch07.txt) — chapter intro,
-   objectives and EVERY lesson id listed for your chapter in `/home/claude/map/biology.txt`
+1. `/home/claude/lets_learn/src/site/content/biology/chNN.txt` (NN = two-digit chapter, e.g. ch07.txt) — chapter intro,
+   objectives and EVERY lesson id listed for your chapter in `/home/claude/lets_learn/src/map/biology.txt`
    (lines `T <id>|<English title>|<Bangla title>|<flags>` under `C <n>|...`; the `-` bullets under each T
    say what the lesson must cover, `K` lines are key formulas). Lesson ids must match exactly.
-2. `/home/claude/site10/widgets_bioNN.js` (e.g. widgets_bio07.js) — interactive/visual widgets for the lessons where a visual
+2. `/home/claude/lets_learn/src/site/widgets_bioNN.js` (e.g. widgets_bio07.js) — interactive/visual widgets for the lessons where a visual
    genuinely helps understanding (most lessons with a V flag, formula lessons where a slider shows the
    relationship, ray diagrams, circuits, graphs…). Aim for roughly 4–8 widgets per chapter. Quality > count.
 
 ## Read these first (mandatory)
-- `/home/claude/site10/content/physics/ch05.txt` — read ALL of it. It is the exact format and the tone/depth to match (note the `## analogy` sections and the `tri` lines in formula blocks, explained below).
-- `/home/claude/site10/widgets_ch05.js` and skim `widgets_ch06.js` — widget style.
-- Your chapter section of `/home/claude/map/biology.txt`.
+- `/home/claude/lets_learn/src/site/content/physics/ch05.txt` — read ALL of it. It is the exact format and the tone/depth to match (note the `## analogy` sections and the `tri` lines in formula blocks, explained below).
+- `/home/claude/lets_learn/src/site/widgets_ch05.js` and skim `widgets_ch06.js` — widget style.
+- `/home/claude/lets_learn/src/site/content/biology/ch01.txt` (skim 2 lessons) and `widgets_bio01.js` — the Biology chapter already done; match its voice and widget style.
+- Your chapter section of `/home/claude/lets_learn/src/map/biology.txt`.
 - The book OCR (English): `/home/claude/ocr/bi/NNNN.txt` (4-digit PDF page index). The `C` line in the map gives
   printed pages; the PDF offset is a few pages — find the exact start by grepping for the chapter title or first
   section heading in /home/claude/ocr/bi/*.txt. Read the whole chapter's OCR: use the book's
@@ -83,21 +84,22 @@ Chapter block first: `@@chapter`, `== en`, `## intro` (2 short paragraphs), `## 
 
 ## Build & test (you must do this before finishing)
 ```
-cd /home/claude/site10 && python3 build_site.py      # prints "biology chN: x/y lessons" or ERROR / SKIPPED lines for your files
-# local server is at http://localhost:8765/index.html (serves /home/claude/site10/out). If not up:
-#   cd /home/claude/site10/out && setsid python3 -m http.server 8765 >/dev/null 2>&1 &
+cd /home/claude/lets_learn/src/site && python3 build_site.py      # prints "biology chN: x/y lessons" or ERROR / SKIPPED lines for your files
+# local server is at http://localhost:8766/index.html (serves /home/claude/lets_learn/public). If not up:
+#   cd /home/claude/lets_learn/public && setsid python3 -m http.server 8766 >/dev/null 2>&1 &
 NODE_PATH=$(npm root -g) node check.js bn.biology.7.1 en.biology.7.1 ...   # every lesson id, both langs
 #   output per page: {"w":400 means no overflow (must be 400), "widgets":[innerHTML lengths], ...} then page errors
-NODE_PATH=$(npm root -g) node shot2.js "http://localhost:8765/index.html#bn.biology.7.1" /tmp/claude-0/bNN/b7-71.png 420 "#s-visual"
+NODE_PATH=$(npm root -g) node shot2.js "http://localhost:8766/index.html#bn.biology.7.1" /tmp/claude-0/-home-claude-lets-learn/f6e46ea1-403b-5146-9fd7-26b6011a7429/scratchpad/bNN/b7-71.png 420 "#s-visual"
 #   then Read the PNG to look at each widget (both languages at least once) and fix what looks wrong.
 ```
 Fix all errors, overflow and visual problems. Your chapter must end with "biology chN: N/N lessons" and no ERROR/SKIPPED.
-Do NOT publish anything and do NOT edit app.html, build_site.py, other chapters' files or the map.
+Do NOT publish anything, do NOT run git commit/push, and do NOT edit app.html, build_site.py, other chapters' files or the map.
+Other agents rebuild the site at the same time: if a check fails oddly right after someone else's build, rebuild and retry once before investigating.
 
 ## Final report (your last message, short)
 Lessons written (count), widgets (names → lesson), any book errors/ambiguities and how you handled them,
 anything left unresolved.
 
 ## Working files
-Keep any temporary files ONLY in /tmp/claude-0/bNN/ (NN = your chapter; create it). Other agents run in parallel.
+Keep any temporary files ONLY in /tmp/claude-0/-home-claude-lets-learn/f6e46ea1-403b-5146-9fd7-26b6011a7429/scratchpad/bNN/ (NN = your chapter; create it). Other agents run in parallel.
 Work efficiently: write the content file in a few large writes (e.g. chapter block + 2–3 lessons per write, appending).

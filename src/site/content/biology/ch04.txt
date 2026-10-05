@@ -1,0 +1,1937 @@
+@@chapter
+== en
+## intro
+Every second, thousands of chemical reactions are running inside each of your cells, and almost all of them need **energy**. The original source of that energy is the **sun**. Green plants catch sunlight and lock its energy inside food (carbohydrate) by **photosynthesis**. Animals, fungi and other non-green organisms cannot catch sunlight themselves, so in one way or another they all depend on green plants. Then every living cell, plant or animal, unlocks the energy of food by **respiration** and stores it in small ready-to-use packets called **ATP**.
+
+**Bioenergetics** is the study of how energy flows through living things like this: sun → food → ATP → work and heat. In this chapter you will see how ATP works as the cell's "energy coin", how and where photosynthesis makes food, what controls its speed, why all life depends on it, and how aerobic and anaerobic respiration release the energy again.
+## objectives
+- explain the role of ATP as the main source of energy in a living cell
+- explain how carbohydrate is made in photosynthesis
+- explain the roles of chlorophyll and light in photosynthesis
+- describe the factors that affect photosynthesis
+- evaluate why living things depend on photosynthesis
+- explain respiration
+- explain aerobic and anaerobic respiration and their importance
+- compare photosynthesis and respiration
+- test by experiment that chlorophyll and light are necessary for photosynthesis
+- show by experiment that heat is released during respiration
+- appreciate what plants do for all living things and behave responsibly towards plants
+== bn
+## intro
+তোমার প্রতিটি কোষে প্রতি সেকেন্ডে হাজার হাজার রাসায়নিক বিক্রিয়া চলছে, আর প্রায় সবগুলোর জন্যই দরকার **শক্তি**। এই শক্তির মূল উৎস **সূর্য**। সবুজ উদ্ভিদ **সালোকসংশ্লেষণের** মাধ্যমে সূর্যের আলো ধরে তার শক্তিকে খাদ্যের (শর্করার) ভেতরে বন্দি করে। প্রাণী, ছত্রাক আর অন্য অসবুজ জীব নিজে সূর্যের আলো ধরতে পারে না, তাই কোনো না কোনোভাবে সবাই সবুজ উদ্ভিদের ওপর নির্ভর করে। এরপর উদ্ভিদ হোক বা প্রাণী, প্রতিটি সজীব কোষ **শ্বসনের** মাধ্যমে খাদ্যের সেই শক্তি বের করে আনে আর ছোট ছোট ব্যবহার-উপযোগী প্যাকেটে জমা রাখে, যার নাম **ATP**।
+
+জীবের ভেতর দিয়ে শক্তির এই প্রবাহ, অর্থাৎ সূর্য → খাদ্য → ATP → কাজ ও তাপ, নিয়ে আলোচনাই **জীবনীশক্তি** বা বায়োএনার্জেটিক্স (Bioenergetics)। এই অধ্যায়ে দেখবে ATP কীভাবে কোষের "শক্তি মুদ্রা" হিসেবে কাজ করে, সালোকসংশ্লেষণ কোথায় ও কীভাবে খাদ্য তৈরি করে, কী কী এর গতি নিয়ন্ত্রণ করে, কেন সব জীব এর ওপর নির্ভরশীল, আর সবাত ও অবাত শ্বসন কীভাবে সেই শক্তি আবার মুক্ত করে।
+## objectives
+- কোষে প্রধান শক্তির উৎস হিসেবে ATP-এর ভূমিকা ব্যাখ্যা করতে পারবে
+- সালোকসংশ্লেষণ প্রক্রিয়ায় শর্করা তৈরি ব্যাখ্যা করতে পারবে
+- সালোকসংশ্লেষণে ক্লোরোফিল ও আলোর ভূমিকা ব্যাখ্যা করতে পারবে
+- সালোকসংশ্লেষণের প্রভাবকগুলোর ভূমিকা বর্ণনা করতে পারবে
+- সালোকসংশ্লেষণের ওপর জীবের নির্ভরশীলতার কারণ মূল্যায়ন করতে পারবে
+- শ্বসন ব্যাখ্যা করতে পারবে
+- সবাত ও অবাত শ্বসনের ধারণা ও গুরুত্ব ব্যাখ্যা করতে পারবে
+- সালোকসংশ্লেষণ ও শ্বসনের মধ্যে তুলনা করতে পারবে
+- সালোকসংশ্লেষণে ক্লোরোফিল ও আলোর অপরিহার্যতা পরীক্ষা করে দেখাতে পারবে
+- শ্বসনে তাপ নির্গমনের পরীক্ষা করতে পারবে
+- জীবের খাদ্য তৈরিতে উদ্ভিদের অবদান উপলব্ধি করতে এবং উদ্ভিদের প্রতি যত্নশীল আচরণ করতে পারবে
+
+@@ 4.1
+@visual b4atp
+@related 4.2 4.3 2.2.2
+== en
+## what
+**Bioenergetics** is the study of how living things collect, change, store and use energy. Inside every cell the energy is carried in a small molecule called **ATP**, which gives up energy when it breaks into **ADP + phosphate** and is rebuilt again using energy from food or light.
+## simple
+**Life runs on energy.** While you read this line your heart is beating, the muscles of your eyes are moving, and millions of your cells are building proteins. Each of these jobs needs energy. Where does it come from, and how does it reach the exact spot where it is needed?
+
+**The long journey of energy.**
+- The **sun** sends out light energy.
+- **Green plants** catch a little of that light and, by photosynthesis, lock it inside glucose as **chemical energy**.
+- You eat rice or dal (plants), or fish and eggs (animals that ate plants). The energy is still locked in the food.
+- Inside your cells, **respiration** breaks the food down and the energy comes out.
+- The cell catches a good part of it in **ATP**, and ATP pays for every kind of work.
+- In the end the energy leaves the body as heat and goes back to the surroundings.
+
+Energy is never made or destroyed on this journey; it only changes form, exactly as you learnt in Physics. So "bio-energy" is not a special kind of energy. It is simply the energy that living things get from making and breaking chemical bonds in their molecules. Studying this flow of energy through living things is **bioenergetics**.
+
+**Why a cell needs small change.** A glucose molecule holds a lot of energy, far more than one small reaction can use. It is like going to a tea stall with a 1000-taka note to buy a 10-taka cup of tea. So the cell first changes the "big note" (glucose) into many "small coins". Those coins are **ATP** molecules.
+
+**What ATP is made of.**
+- **Adenine**: a nitrogen base (the same adenine found in DNA and RNA).
+- **Ribose**: a sugar with five carbon atoms. Adenine + ribose = **adenosine**.
+- **Phosphate groups** joined in a chain to adenosine: one phosphate gives **AMP** (adenosine **mono**phosphate), two give **ADP** (adenosine **di**phosphate), three give **ATP** (adenosine **tri**phosphate).
+
+**Charging and spending.**
+- **Phosphorylation** (charging): ADP + phosphate (Pi) + energy → ATP. Energy has to be supplied from outside, from food or from light.
+- **Dephosphorylation** (spending): ATP → ADP + Pi + energy. When the last phosphate group comes off, the energy is given out.
+
+About **7.3 kilocalories** (roughly 30.5 kilojoules) is held in the last phosphate group of each mole of ATP. About the same amount that was put in during charging comes back during spending. The two reactions go round and round in every living cell, thousands of times a second.
+
+**Two charging stations.** Two organelles collect energy from outside and turn it into a form the cell can use:
+- **Mitochondria** get the energy from nutrients such as glucose (and from carrier molecules such as NADH made on the way).
+- **Plastids**, especially **chloroplasts**, get it from the photons of sunlight (or another suitable light).
+
+Both contain a special set of molecules called the **electron transport system**, whose job is to store the collected energy in the phosphate group of ATP.
+
+**What ATP pays for.** Contracting muscles, feeling with the senses, swallowing and digesting food, breathing, speaking, shouting, laughing and crying, growing, reproducing, keeping the body warm, and even keeping every cell at its normal size: all of it is paid for with energy from ATP. That is why ATP is called the **biological coin** or **energy coin** of the cell.
+
+ATP is not a long-term store, though. A cell keeps only a small amount and keeps recycling it. For long-term storage, living things use starch, glycogen and fat.
+## analogy
+Think of a rechargeable torch battery. When the charge runs out you do not throw the battery away; you plug it in and use it again. ADP is the flat battery, food (or sunlight) is the socket, and ATP is the charged battery that can be carried to any corner of the cell.
+## definition
+**Bioenergetics**: the study of the flow of energy through living systems, that is, how organisms collect energy from the environment, change it from one form to another, store it and release it again.
+
+**ATP (adenosine triphosphate)**: a compound made of adenine, ribose sugar and three phosphate groups, which stores energy in its end phosphate group and supplies it to the reactions of the cell.
+
+**Phosphorylation**: adding a phosphate group to a compound using energy (ADP + Pi + energy → ATP). **Dephosphorylation**: removing a phosphate group, with release of energy (ATP → ADP + Pi + energy).
+## why
+Why does every cell use ATP and not glucose directly? First, the packets are the right size: one ATP carries a small amount of energy that a single reaction can use without waste. Second, ATP is quick: it gives up its energy in one step, while glucose has to pass through many steps. Third, it is reusable: ADP and phosphate are not thrown away but recharged again and again. And fourth, it is universal: bacteria, mango trees and humans all use the same ATP, so the energy from any food can pay for any job.
+## terms
+Bioenergetics | Study of energy flow through living things
+ATP | Adenosine triphosphate: adenine + ribose + 3 phosphate groups; the cell's energy coin
+ADP | Adenosine diphosphate: adenine + ribose + 2 phosphate groups; the "discharged" form
+AMP | Adenosine monophosphate: adenine + ribose + 1 phosphate group
+Adenosine | Adenine (nitrogen base) joined to ribose (5-carbon sugar)
+Pi | Inorganic phosphate
+Phosphorylation | Adding a phosphate group; needs energy (ADP + Pi → ATP)
+Dephosphorylation | Removing a phosphate group; releases energy (ATP → ADP + Pi)
+Electron transport system | Set of molecules in mitochondria and chloroplasts that stores collected energy in ATP
+## formula
+$$ ADP + Pi + energy → ATP
+$$ ATP → ADP + Pi + energy
+! Energy held in the end phosphate group: about 7.3 kcal (≈ 30.5 kJ) per mole of ATP.
+! Together the two reactions form a cycle: ATP ⇌ ADP + Pi.
+## visual
+Spend the cell's ATP on different jobs and watch the third phosphate come off. Then "recharge" with energy from food or sunlight and see ADP become ATP again.
+## real
+A firefly (jonaki) blinking over a paddy field at night is turning the energy of ATP into light. When you run for the school bus, your leg muscles break down a huge number of ATP molecules every second, and your faster breathing and heartbeat help the mitochondria recharge them. Scientists estimate that in one day a person makes and breaks an amount of ATP roughly equal to their own body mass, yet at any moment the body holds only a small amount, because the same molecules are recycled again and again.
+## example
+Q: About 7.3 kcal of energy is stored in the end phosphate group of one mole of ATP. Express this in kilojoules. (1 kcal = 4.184 kJ)
+Given: energy = 7.3 kcal per mole; 1 kcal = 4.184 kJ
+Calculation: 7.3 × 4.184 = 30.54 kJ
+> Your textbook rounds this to about 30.55 kJ; small differences come from the conversion factor used.
+Answer: about 30.5 kJ per mole of ATP
+## example
+Q: In a muscle cell, 5 moles of ATP are broken down to ADP and Pi. About how much energy is released? What is the name of this reaction?
+Given: energy per mole of ATP = 7.3 kcal; amount = 5 moles
+Calculation: 5 × 7.3 = 36.5 kcal
+Answer: about 36.5 kcal is released. Removing a phosphate group with release of energy is **dephosphorylation**.
+## example
+Q: A molecule contains adenine, ribose and two phosphate groups. Name it. What must happen for it to become the cell's energy coin?
+Solution: Count the phosphate groups.
+Step: Adenine + ribose = adenosine. Two phosphates → adenosine **di**phosphate, ADP.
+Step: To become ATP it must gain one more phosphate group. This needs energy from outside (food or light) and is called phosphorylation.
+Answer: It is ADP. By phosphorylation (ADP + Pi + energy → ATP) it becomes ATP.
+## mistakes
+x Respiration (or the mitochondrion) creates energy.
+v Energy is never created. Respiration only moves the chemical energy of food into ATP; the rest leaves as heat.
+x ATP is the body's long-term energy store.
+v ATP is used within moments and recycled. Long-term stores are starch, glycogen and fat.
+x Making ATP from ADP releases energy.
+v Making ATP (phosphorylation) needs energy; breaking ATP into ADP + Pi (dephosphorylation) releases it.
+x Only animals use ATP.
+v Every living cell, of plants, animals, fungi and bacteria, uses ATP.
+## remember
+- Bioenergetics = flow of energy through living things: sun → food → ATP → work and heat.
+- ATP = adenine + ribose + 3 phosphates. AMP has 1 phosphate, ADP 2, ATP 3.
+- Phosphorylation: ADP + Pi + energy → ATP. Dephosphorylation: ATP → ADP + Pi + energy.
+- About 7.3 kcal (≈ 30.5 kJ) per mole of ATP.
+- Mitochondria (from food) and chloroplasts (from light) make ATP with their electron transport systems.
+- ATP works like a rechargeable battery; it is called the biological coin or energy coin.
+## think
+Glucose contains far more energy than ATP. Then why is it better for a cell to carry its energy as many ATP molecules instead of using glucose directly for each job?
+## quiz
+? ATP is made of:
+- Adenine + ribose + 2 phosphate groups
+* Adenine + ribose + 3 phosphate groups
+- Guanine + ribose + 3 phosphate groups
+- Adenine + glucose + 3 phosphate groups
+= Adenosine (adenine + ribose) with three phosphate groups is adenosine triphosphate.
+? The reaction ATP → ADP + Pi + energy is called:
+- Phosphorylation
+- Photosynthesis
+* Dephosphorylation
+- Photolysis
+= A phosphate group is removed and energy is released: dephosphorylation.
+? Which two organelles collect energy from outside and store it in ATP?
+* Mitochondria and plastids (chloroplasts)
+- Nucleus and ribosome
+- Golgi body and lysosome
+- Vacuole and centriole
+= Mitochondria use nutrients; chloroplasts use light. Both have an electron transport system.
+? Why is ATP called the "biological coin"?
+- It is made of metal atoms
+- It is found only in the nucleus
+- It can never be made again
+* It stores energy and supplies it wherever the cell needs it
+= Like money, ATP is earned (from food or light) and spent on any job of the cell.
+== bn
+## what
+জীব কীভাবে শক্তি সংগ্রহ করে, রূপ বদলায়, জমা রাখে আর কাজে লাগায়, তার আলোচনাই **জীবনীশক্তি** (বায়োএনার্জেটিক্স)। প্রতিটি কোষে এই শক্তি বয়ে বেড়ায় **ATP** নামের ছোট্ট একটি অণু, যা ভেঙে **ADP + ফসফেট** হওয়ার সময় শক্তি দেয়, আর খাদ্য বা আলোর শক্তি দিয়ে আবার তৈরি হয়।
+## simple
+**জীবন চলে শক্তিতে।** তুমি যখন এই লাইনটা পড়ছ, তখন তোমার হৃৎপিণ্ড চলছে, চোখের পেশি নড়ছে, আর লক্ষ লক্ষ কোষ প্রোটিন বানাচ্ছে। প্রতিটি কাজেই শক্তি লাগে। এই শক্তি আসে কোথা থেকে, আর ঠিক যেখানে দরকার সেখানে পৌঁছায় কীভাবে?
+
+**শক্তির লম্বা যাত্রা।**
+- **সূর্য** আলোকশক্তি ছড়ায়।
+- **সবুজ উদ্ভিদ** সেই আলোর সামান্য অংশ ধরে সালোকসংশ্লেষণের মাধ্যমে গ্লুকোজের ভেতরে **রাসায়নিক শক্তি** হিসেবে বন্দি করে।
+- তুমি ভাত বা ডাল (উদ্ভিদ) খাও, কিংবা মাছ ও ডিম (যারা উদ্ভিদ খেয়ে বেড়েছে)। শক্তি তখনো খাদ্যের ভেতরে বন্দি।
+- তোমার কোষের ভেতরে **শ্বসন** খাদ্যকে ভাঙে, শক্তি বেরিয়ে আসে।
+- কোষ তার একটা বড় অংশ **ATP**-তে ধরে রাখে, আর ATP দিয়েই সব কাজের খরচ মেটায়।
+- শেষে শক্তি তাপ হিসেবে দেহ থেকে বেরিয়ে পরিবেশে ফিরে যায়।
+
+এই যাত্রায় শক্তি কোথাও তৈরি বা ধ্বংস হয় না, শুধু রূপ বদলায়, ঠিক যেমন পদার্থবিজ্ঞানে শিখেছ। তাই "জীবনীশক্তি" বা জৈবশক্তি আলাদা কোনো বিশেষ শক্তি নয়। জীবদেহের অণুগুলোর রাসায়নিক বন্ধন ভাঙা-গড়া থেকে জীব যে শক্তি পায়, তাকেই এ নামে ডাকা হয়। জীবের ভেতর দিয়ে শক্তির এই প্রবাহ নিয়ে আলোচনাই **জীবনীশক্তি** বা বায়োএনার্জেটিক্স।
+
+**কোষের কেন খুচরা দরকার।** একটি গ্লুকোজ অণুতে অনেক শক্তি থাকে, ছোট একটি বিক্রিয়ার প্রয়োজনের চেয়ে অনেক বেশি। ব্যাপারটা ১০ টাকার চা খেতে ১০০০ টাকার নোট নিয়ে চায়ের দোকানে যাওয়ার মতো। তাই কোষ আগে "বড় নোট" (গ্লুকোজ) ভাঙিয়ে অনেকগুলো "খুচরা পয়সা" বানিয়ে নেয়। সেই পয়সাই হলো **ATP** অণু।
+
+**ATP কী দিয়ে তৈরি।**
+- **অ্যাডেনিন**: একটি নাইট্রোজেন বেস (DNA ও RNA-তেও এই অ্যাডেনিন থাকে)।
+- **রাইবোজ**: পাঁচ কার্বনবিশিষ্ট একটি শর্করা (সুগার)। অ্যাডেনিন + রাইবোজ = **অ্যাডিনোসিন**।
+- **ফসফেট গ্রুপ**, যা অ্যাডিনোসিনের সাথে পরপর যুক্ত হয়: একটি ফসফেট যুক্ত হলে **AMP** (অ্যাডিনোসিন **মনো**ফসফেট), দুটি হলে **ADP** (অ্যাডিনোসিন **ডাই**ফসফেট), তিনটি হলে **ATP** (অ্যাডিনোসিন **ট্রাই**ফসফেট)।
+
+**চার্জ দেওয়া আর খরচ করা।**
+- **ফসফোরাইলেশন** (চার্জ): ADP + ফসফেট (Pi) + শক্তি → ATP। এ জন্য বাইরে থেকে, অর্থাৎ খাদ্য বা আলো থেকে, শক্তি দিতে হয়।
+- **ডিফসফোরাইলেশন** (খরচ): ATP → ADP + Pi + শক্তি। শেষের ফসফেট গ্রুপটি বিচ্ছিন্ন হলে শক্তি বেরিয়ে আসে।
+
+প্রতি মোল ATP-এর প্রান্তীয় (শেষের) ফসফেট গ্রুপে প্রায় **৭.৩ কিলোক্যালরি** (মোটামুটি ৩০.৫ কিলোজুল) শক্তি জমা থাকে। চার্জ দিতে যতটা শক্তি লাগে, খরচের সময় প্রায় ততটাই ফেরত পাওয়া যায়। প্রতিটি সজীব কোষে এই দুটি বিক্রিয়া চক্রাকারে চলতে থাকে, সেকেন্ডে হাজার হাজার বার।
+
+**দুটি চার্জিং স্টেশন।** দুটি অঙ্গাণু পরিবেশ থেকে শক্তি সংগ্রহ করে কোষের ব্যবহার-উপযোগী রূপে বদলে দেয়:
+- **মাইটোকন্ড্রিয়া** শক্তি নেয় গ্লুকোজের মতো পুষ্টি উপাদান থেকে (আর মাঝপথে তৈরি NADH-এর মতো বাহক অণু থেকে)।
+- **প্লাস্টিড**, বিশেষ করে **ক্লোরোপ্লাস্ট**, শক্তি নেয় সূর্যালোকের (বা অন্য উপযুক্ত আলোর) ফোটন থেকে।
+
+দুটোতেই আছে **ইলেকট্রন ট্রান্সপোর্ট সিস্টেম** নামের একসেট বিশেষ অণু, যাদের কাজ সংগৃহীত শক্তিকে ATP-এর ফসফেট গ্রুপে জমা করা।
+
+**ATP দিয়ে কী কী খরচ মেটে।** পেশির সংকোচন, ইন্দ্রিয়ের অনুভূতি, খাবার গেলা ও হজম করা, শ্বাস নেওয়া, কথা বলা, চিৎকার, হাসি-কান্না, দৈহিক বৃদ্ধি, প্রজনন, দেহের তাপমাত্রা ঠিক রাখা, এমনকি প্রতিটি কোষের স্বাভাবিক আয়তন বজায় রাখা: সবকিছুর খরচ মেটে ATP-এর শক্তি দিয়ে। এজন্যই ATP-কে বলা হয় কোষের **জৈবমুদ্রা** বা **শক্তি মুদ্রা** (biological coin বা energy coin)।
+
+তবে ATP দীর্ঘদিনের সঞ্চয় নয়। কোষে এটি অল্প পরিমাণে থাকে আর বারবার ব্যবহার হয়। দীর্ঘমেয়াদি সঞ্চয়ের জন্য জীব ব্যবহার করে শ্বেতসার, গ্লাইকোজেন আর চর্বি।
+## analogy
+রিচার্জেবল টর্চের ব্যাটারির কথা ভাবো। চার্জ ফুরালে তুমি ব্যাটারি ফেলে দাও না, চার্জে বসিয়ে আবার ব্যবহার করো। ADP হলো চার্জ ফুরানো ব্যাটারি, খাদ্য (বা সূর্যালোক) হলো সকেট, আর ATP হলো চার্জ দেওয়া ব্যাটারি, যা কোষের যেকোনো কোণে নিয়ে যাওয়া যায়।
+## definition
+**জীবনীশক্তি (বায়োএনার্জেটিক্স)**: জীবের ভেতর দিয়ে শক্তির প্রবাহের আলোচনা, অর্থাৎ জীব কীভাবে পরিবেশ থেকে শক্তি সংগ্রহ করে, এক রূপ থেকে অন্য রূপে বদলায়, সঞ্চয় করে এবং আবার পরিবেশে ফিরিয়ে দেয়।
+
+**ATP (অ্যাডিনোসিন ট্রাইফসফেট)**: অ্যাডেনিন, রাইবোজ সুগার ও তিনটি ফসফেট গ্রুপ দিয়ে গঠিত যৌগ, যা প্রান্তীয় ফসফেট গ্রুপে শক্তি জমা রাখে এবং কোষের বিভিন্ন বিক্রিয়ায় সেই শক্তি সরবরাহ করে।
+
+**ফসফোরাইলেশন**: শক্তি খরচ করে কোনো যৌগে ফসফেট গ্রুপ যুক্ত করা (ADP + Pi + শক্তি → ATP)। **ডিফসফোরাইলেশন**: ফসফেট গ্রুপ বিচ্ছিন্ন হওয়া, যাতে শক্তি নির্গত হয় (ATP → ADP + Pi + শক্তি)।
+## why
+সব কোষ সরাসরি গ্লুকোজ ব্যবহার না করে ATP ব্যবহার করে কেন? প্রথমত, প্যাকেটের মাপ ঠিকঠাক: একটি ATP-তে যতটুকু শক্তি থাকে, একটি বিক্রিয়া তা অপচয় ছাড়াই কাজে লাগাতে পারে। দ্বিতীয়ত, ATP দ্রুত: এক ধাপেই শক্তি দিয়ে দেয়, অথচ গ্লুকোজকে অনেক ধাপ পেরোতে হয়। তৃতীয়ত, এটি বারবার ব্যবহারযোগ্য: ADP আর ফসফেট ফেলে দেওয়া হয় না, বারবার চার্জ হয়। চতুর্থত, এটি সর্বজনীন: ব্যাকটেরিয়া, আমগাছ, মানুষ সবাই একই ATP ব্যবহার করে, তাই যেকোনো খাদ্যের শক্তি দিয়ে যেকোনো কাজের খরচ মেটানো যায়।
+## terms
+জীবনীশক্তি (Bioenergetics) | জীবের ভেতর দিয়ে শক্তির প্রবাহের আলোচনা
+ATP | অ্যাডিনোসিন ট্রাইফসফেট: অ্যাডেনিন + রাইবোজ + ৩টি ফসফেট গ্রুপ; কোষের শক্তি মুদ্রা
+ADP | অ্যাডিনোসিন ডাইফসফেট: অ্যাডেনিন + রাইবোজ + ২টি ফসফেট গ্রুপ; "চার্জ ফুরানো" রূপ
+AMP | অ্যাডিনোসিন মনোফসফেট: অ্যাডেনিন + রাইবোজ + ১টি ফসফেট গ্রুপ
+অ্যাডিনোসিন | অ্যাডেনিন (নাইট্রোজেন বেস) ও রাইবোজ (৫-কার্বন সুগার) যুক্ত হয়ে তৈরি
+Pi | অজৈব ফসফেট
+ফসফোরাইলেশন | ফসফেট গ্রুপ যুক্ত করা; শক্তি লাগে (ADP + Pi → ATP)
+ডিফসফোরাইলেশন | ফসফেট গ্রুপ বিচ্ছিন্ন হওয়া; শক্তি বের হয় (ATP → ADP + Pi)
+ইলেকট্রন ট্রান্সপোর্ট সিস্টেম | মাইটোকন্ড্রিয়া ও ক্লোরোপ্লাস্টের একসেট অণু, যা সংগৃহীত শক্তি ATP-তে জমা করে
+## formula
+$$ ADP + Pi + শক্তি → ATP
+$$ ATP → ADP + Pi + শক্তি
+! প্রান্তীয় ফসফেট গ্রুপে জমা শক্তি: প্রতি মোল ATP-তে প্রায় ৭.৩ kcal (≈ ৩০.৫ kJ)।
+! দুটি বিক্রিয়া মিলে একটি চক্র: ATP ⇌ ADP + Pi।
+## visual
+কোষের ATP নানা কাজে খরচ করো আর দেখো তৃতীয় ফসফেটটি কীভাবে খুলে যায়। তারপর খাদ্য বা সূর্যালোকের শক্তি দিয়ে "রিচার্জ" করো, ADP আবার ATP হয়ে যাবে।
+## real
+রাতে ধানখেতের ওপর জোনাকি যখন মিটমিট করে জ্বলে, তখন সে ATP-এর শক্তিকে আলোতে বদলাচ্ছে। স্কুলবাস ধরতে দৌড়ালে তোমার পায়ের পেশি প্রতি সেকেন্ডে বিপুল সংখ্যক ATP অণু ভাঙে, আর দ্রুত শ্বাস ও হৃৎস্পন্দন মাইটোকন্ড্রিয়াকে সেগুলো আবার চার্জ করতে সাহায্য করে। বিজ্ঞানীদের হিসাবে একজন মানুষ দিনে মোটামুটি নিজের দেহের ভরের সমান ATP তৈরি করে ও ভাঙে, অথচ যেকোনো মুহূর্তে দেহে থাকে সামান্য পরিমাণ, কারণ একই অণু বারবার ব্যবহার হয়।
+## example
+প্রশ্ন: এক মোল ATP-এর প্রান্তীয় ফসফেট গ্রুপে প্রায় ৭.৩ kcal শক্তি জমা থাকে। একে কিলোজুলে প্রকাশ করো। (১ kcal = ৪.১৮৪ kJ)
+দেওয়া আছে: শক্তি = প্রতি মোলে ৭.৩ kcal; ১ kcal = ৪.১৮৪ kJ
+হিসাব: ৭.৩ × ৪.১৮৪ = ৩০.৫৪ kJ
+> তোমার পাঠ্যবইয়ে একে প্রায় ৩০.৫৫ kJ লেখা হয়েছে; রূপান্তরের গুণকের সামান্য হেরফেরে এটুকু পার্থক্য হয়।
+উত্তর: প্রতি মোল ATP-তে প্রায় ৩০.৫ kJ
+## example
+প্রশ্ন: একটি পেশিকোষে ৫ মোল ATP ভেঙে ADP ও Pi হলো। মোটামুটি কত শক্তি নির্গত হলো? এই বিক্রিয়ার নাম কী?
+দেওয়া আছে: প্রতি মোল ATP-তে শক্তি = ৭.৩ kcal; পরিমাণ = ৫ মোল
+হিসাব: ৫ × ৭.৩ = ৩৬.৫ kcal
+উত্তর: প্রায় ৩৬.৫ kcal শক্তি নির্গত হলো। ফসফেট গ্রুপ বিচ্ছিন্ন হয়ে শক্তি বের হওয়াকে বলে **ডিফসফোরাইলেশন**।
+## example
+প্রশ্ন: একটি অণুতে আছে অ্যাডেনিন, রাইবোজ আর দুটি ফসফেট গ্রুপ। অণুটির নাম কী? এটি কোষের শক্তি মুদ্রা হতে হলে কী ঘটতে হবে?
+সমাধান: ফসফেট গ্রুপ গুনে দেখো।
+ধাপ: অ্যাডেনিন + রাইবোজ = অ্যাডিনোসিন। দুটি ফসফেট → অ্যাডিনোসিন **ডাই**ফসফেট, অর্থাৎ ADP।
+ধাপ: ATP হতে হলে আরও একটি ফসফেট গ্রুপ যুক্ত হতে হবে। এতে বাইরে থেকে (খাদ্য বা আলো থেকে) শক্তি লাগে, আর এর নাম ফসফোরাইলেশন।
+উত্তর: অণুটি ADP। ফসফোরাইলেশনের মাধ্যমে (ADP + Pi + শক্তি → ATP) এটি ATP হয়।
+## mistakes
+x শ্বসন (বা মাইটোকন্ড্রিয়া) শক্তি সৃষ্টি করে।
+v শক্তি কখনো সৃষ্টি হয় না। শ্বসন শুধু খাদ্যের রাসায়নিক শক্তিকে ATP-তে সরিয়ে আনে; বাকিটা তাপ হিসেবে বেরিয়ে যায়।
+x ATP দেহের দীর্ঘমেয়াদি শক্তির ভান্ডার।
+v ATP মুহূর্তের মধ্যে খরচ হয় আর বারবার তৈরি হয়। দীর্ঘমেয়াদি ভান্ডার হলো শ্বেতসার, গ্লাইকোজেন ও চর্বি।
+x ADP থেকে ATP তৈরির সময় শক্তি বের হয়।
+v ATP তৈরিতে (ফসফোরাইলেশন) শক্তি লাগে; ATP ভেঙে ADP + Pi হলে (ডিফসফোরাইলেশন) শক্তি বের হয়।
+x শুধু প্রাণীরাই ATP ব্যবহার করে।
+v উদ্ভিদ, প্রাণী, ছত্রাক, ব্যাকটেরিয়া, সব জীবের প্রতিটি সজীব কোষ ATP ব্যবহার করে।
+## remember
+- জীবনীশক্তি = জীবের ভেতর দিয়ে শক্তির প্রবাহ: সূর্য → খাদ্য → ATP → কাজ ও তাপ।
+- ATP = অ্যাডেনিন + রাইবোজ + ৩টি ফসফেট। AMP-তে ১টি, ADP-তে ২টি, ATP-তে ৩টি ফসফেট।
+- ফসফোরাইলেশন: ADP + Pi + শক্তি → ATP। ডিফসফোরাইলেশন: ATP → ADP + Pi + শক্তি।
+- প্রতি মোল ATP-তে প্রায় ৭.৩ kcal (≈ ৩০.৫ kJ)।
+- মাইটোকন্ড্রিয়া (খাদ্য থেকে) আর ক্লোরোপ্লাস্ট (আলো থেকে) ইলেকট্রন ট্রান্সপোর্ট সিস্টেম দিয়ে ATP তৈরি করে।
+- ATP রিচার্জেবল ব্যাটারির মতো; একে জৈবমুদ্রা বা শক্তি মুদ্রা বলা হয়।
+## think
+গ্লুকোজে ATP-এর চেয়ে অনেক বেশি শক্তি থাকে। তবু প্রতিটি কাজে সরাসরি গ্লুকোজ ব্যবহার না করে অনেকগুলো ATP অণুতে শক্তি বয়ে নেওয়া কোষের জন্য ভালো কেন?
+## quiz
+? ATP গঠিত হয়:
+- অ্যাডেনিন + রাইবোজ + ২টি ফসফেট গ্রুপ দিয়ে
+* অ্যাডেনিন + রাইবোজ + ৩টি ফসফেট গ্রুপ দিয়ে
+- গুয়ানিন + রাইবোজ + ৩টি ফসফেট গ্রুপ দিয়ে
+- অ্যাডেনিন + গ্লুকোজ + ৩টি ফসফেট গ্রুপ দিয়ে
+= অ্যাডিনোসিনের (অ্যাডেনিন + রাইবোজ) সাথে তিনটি ফসফেট গ্রুপ যুক্ত হলে হয় অ্যাডিনোসিন ট্রাইফসফেট।
+? ATP → ADP + Pi + শক্তি, এই বিক্রিয়াকে বলে:
+- ফসফোরাইলেশন
+- সালোকসংশ্লেষণ
+* ডিফসফোরাইলেশন
+- ফটোলাইসিস
+= একটি ফসফেট গ্রুপ বিচ্ছিন্ন হয় আর শক্তি বের হয়: ডিফসফোরাইলেশন।
+? কোন দুটি অঙ্গাণু পরিবেশ থেকে শক্তি সংগ্রহ করে ATP-তে জমা করে?
+* মাইটোকন্ড্রিয়া ও প্লাস্টিড (ক্লোরোপ্লাস্ট)
+- নিউক্লিয়াস ও রাইবোজোম
+- গলজি বস্তু ও লাইসোজোম
+- কোষগহ্বর ও সেন্ট্রিওল
+= মাইটোকন্ড্রিয়া পুষ্টি উপাদান থেকে আর ক্লোরোপ্লাস্ট আলো থেকে শক্তি নেয়। দুটোতেই ইলেকট্রন ট্রান্সপোর্ট সিস্টেম আছে।
+? ATP-কে "জৈবমুদ্রা" বলা হয় কেন?
+- এটি ধাতব পরমাণু দিয়ে তৈরি
+- এটি শুধু নিউক্লিয়াসে থাকে
+- এটি আর কখনো তৈরি করা যায় না
+* এটি শক্তি জমা রাখে আর কোষের যেখানে দরকার সেখানে সরবরাহ করে
+= টাকার মতোই ATP (খাদ্য বা আলো থেকে) আয় করা হয় আর কোষের যেকোনো কাজে খরচ করা হয়।
+
+@@ 4.2
+@visual b4leaf
+@related 4.2.1 4.2.2 2.2.2 7.1
+== en
+## what
+**Photosynthesis** is the process by which green plants make carbohydrate (food) from carbon dioxide and water, using light energy caught by chlorophyll. It happens mainly in the **chloroplasts** of the **mesophyll** cells of leaves, and it gives out oxygen.
+## simple
+**A puzzle to begin with.** A tiny mango seedling grows into a tree weighing several tonnes. Where does all that wood, leaf and fruit come from? Most people answer "from the soil". But the soil around a tree does not disappear as the tree grows. In the 1600s the scientist van Helmont grew a willow in a pot for five years: the tree gained many kilograms, while the soil lost almost nothing. The real answer is surprising: most of a plant's body is built from **air and water**. The plant takes carbon dioxide from the air and water from the soil, and joins them into food using the energy of sunlight.
+
+**The name says it.** *Photo* means light and *synthesis* means putting together: "making with light". (In Bangla, সালোকসংশ্লেষণ: স + আলোক + সংশ্লেষণ.)
+
+**Four things are needed:**
+- **Chlorophyll**: the green pigment that catches light
+- **Light**: the source of energy
+- **Water** (H₂O)
+- **Carbon dioxide** (CO₂)
+
+**What is produced:** carbohydrate (glucose, C₆H₁₂O₆), with **oxygen** and **water** as by-products.
+
+**6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O** (in the presence of light and chlorophyll)
+
+**Why 12 water on the left and 6 on the right?** Because all the oxygen gas released comes from **water**, not from carbon dioxide. To give 6 O₂ (12 oxygen atoms), 12 water molecules must be split. Later 6 new water molecules are formed. If you cancel 6 H₂O from both sides you get the short form: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂.
+
+**Energy changes form.** Light energy becomes **chemical energy** stored in glucose. Photosynthesis is also an **oxidation–reduction** process: water is **oxidised** (it loses hydrogen and becomes O₂) and carbon dioxide is **reduced** (it gains hydrogen and becomes carbohydrate).
+
+**Where does it happen? Zoom into a leaf.**
+- **The leaf** is flat and thin, so it catches a lot of light and gases reach every cell quickly.
+- Between the upper and lower skin (epidermis) lies the **mesophyll tissue**. This is the main site of photosynthesis. Its cells are packed with chloroplasts.
+- Each **chloroplast** has stacks of flat discs. One disc is a **thylakoid**; one stack is a **granum** (plural: grana). The chlorophyll sits here, so the light is caught here.
+- The watery material around the grana is the **stroma**. Here the carbohydrate is finally made.
+
+Any green part that has chloroplasts, such as a young green stem or an unripe fruit, can do some photosynthesis, but leaves do most of it.
+
+**How the raw materials arrive.**
+- **Water**: land plants absorb it from the soil through their roots; it travels up to the chloroplasts of the mesophyll.
+- **Carbon dioxide**: enters from the air through tiny pores in the leaf called **stomata** (singular: stoma) and reaches the same chloroplasts.
+- **Aquatic plants** take in the CO₂ dissolved in water.
+
+Your book notes that air contains about 0.03% CO₂ while water holds about 0.3%, and from this it says that photosynthesis is faster in aquatic plants than in land plants. Remember this for your exam, but take it as a general statement: under water, light is dimmer and gases move slowly, so not every water plant is faster. (Because of burning fuels, the CO₂ in air has now risen to a little over 0.04%.)
+
+**What the plant does with the food.** Part of it is used at once in the plant's own life processes. The rest is stored, usually as starch, in fruits, roots, stems or leaves: think of a rice grain, a potato, a sweet potato or a sugarcane stem. Humans and all other animals live on this stored food.
+## analogy
+Think of a leaf as a kitchen with a solar cooker. The cook is chlorophyll, the fire is sunlight, and the ingredients are water (brought up through the roots) and carbon dioxide (coming in through the windows, the stomata). The dish is glucose; the "steam" going out of the window is oxygen.
+## definition
+**Photosynthesis**: the biochemical process in which green plants, in the presence of sunlight and with the help of chlorophyll, produce carbohydrate from carbon dioxide and water, releasing oxygen (and water) as by-products. In this process light energy is transformed into chemical energy.
+
+It takes place in the chloroplasts; the mesophyll tissue of the leaf is its main site.
+## why
+Why are leaves green, flat and thin? Green, because chlorophyll absorbs red and blue light for photosynthesis and reflects green. Flat, to catch as much light as possible. Thin, so that carbon dioxide entering through the stomata reaches every mesophyll cell quickly and light can reach the inner cells. And why does the oxygen come from water? Because in the first stage of photosynthesis, light energy is used to split water molecules: the hydrogen is kept to build carbohydrate, and the oxygen is left over and escapes.
+## terms
+Photosynthesis | Making carbohydrate from CO₂ and water using light energy and chlorophyll
+Chlorophyll | Green pigment in chloroplasts that absorbs light energy
+Mesophyll tissue | Tissue between the two epidermal layers of a leaf; main site of photosynthesis
+Chloroplast | Green plastid; the organelle where photosynthesis takes place
+Thylakoid | Flat disc inside a chloroplast that carries chlorophyll
+Granum (grana) | A stack of thylakoid discs; site of the light-dependent phase
+Stroma | Watery matrix of the chloroplast; site of the light-independent phase
+Stoma (stomata) | Tiny pore in the leaf surface through which CO₂ enters and O₂ leaves
+By-product | Extra product of a reaction; here oxygen and water
+## formula
+$$ 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O
+! The reaction needs light and chlorophyll (written above and below the arrow in your book).
+! Short form after cancelling 6 H₂O from both sides: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+! H₂O is oxidised; CO₂ is reduced. The O₂ released comes from water.
+## visual
+Zoom in step by step: the whole leaf, a slice through the leaf, and one chloroplast. Tap any labelled part to see what it does in photosynthesis.
+## real
+A paddy field in the afternoon sun is a huge food factory: every green leaf is turning air and water into the starch that will fill the grains. The bubbles you sometimes see rising from water plants in a sunny pond are oxygen from photosynthesis. And the reason village elders say "sit under a tree in the daytime" is partly this fresh oxygen and partly the cooling shade.
+## example
+Q: Check that the equation 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O is balanced.
+Solution: Count each kind of atom on both sides.
+Step: Carbon: left 6 (in 6CO₂); right 6 (in C₆H₁₂O₆).
+Step: Hydrogen: left 12 × 2 = 24; right 12 + (6 × 2) = 24.
+Step: Oxygen: left (6 × 2) + 12 = 24; right 6 + (6 × 2) + 6 = 24.
+Answer: C 6 = 6, H 24 = 24, O 24 = 24. The equation is balanced.
+## example
+Q: A plant makes 180 g of glucose (1 mole). How many grams of CO₂ does it use and how many grams of O₂ does it release? (Molar masses: CO₂ = 44 g, O₂ = 32 g, C₆H₁₂O₆ = 180 g)
+Given: 1 mole of glucose needs 6 moles of CO₂ and gives 6 moles of O₂ (from the equation)
+Calculation: CO₂ used = 6 × 44 = 264 g; O₂ released = 6 × 32 = 192 g
+> The mole ratios come straight from the coefficients of the balanced equation.
+Answer: 264 g of CO₂ is used and 192 g of O₂ is released.
+## example
+Q: A student says, "The oxygen given out in photosynthesis comes from carbon dioxide." Is this correct? Explain using the equation.
+Solution: Compare the oxygen atoms.
+Step: 6 O₂ contain 12 oxygen atoms. The 12 H₂O on the left contain exactly 12 oxygen atoms.
+Step: Light energy splits water; its hydrogen is used to reduce CO₂ and its oxygen is set free.
+Answer: Not correct. The oxygen gas comes from water. That is why the full equation shows 12 H₂O.
+## mistakes
+x Plants get their food from the soil.
+v Plants make their own food from CO₂ and water. From the soil they take only water and mineral salts.
+x The oxygen released in photosynthesis comes from CO₂.
+v It comes from the splitting of water.
+x Photosynthesis happens only in leaves.
+v It happens in any green part with chloroplasts (green stems, unripe fruits), though the leaf mesophyll is the main site.
+x Plants photosynthesise instead of respiring.
+v Plants respire all day and all night like every living thing; in light they photosynthesise as well.
+## remember
+- Needs: chlorophyll, light, water, CO₂. Makes: carbohydrate (glucose); by-products O₂ and water.
+- 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (light, chlorophyll).
+- Light energy → chemical energy. H₂O is oxidised, CO₂ is reduced.
+- Main site: mesophyll tissue of the leaf; organelle: chloroplast (grana + stroma).
+- CO₂ enters through stomata; water comes from the roots; aquatic plants use dissolved CO₂.
+- Extra food is stored in fruits, roots, stems or leaves.
+## think
+If you kept a healthy potted plant in bright light but sealed it in a jar from which all carbon dioxide had been removed, what would happen to its photosynthesis, and why?
+## quiz
+? Which of these is released as a by-product of photosynthesis?
+- Carbon dioxide
+- Carbohydrate
+* Oxygen
+- Chlorophyll
+= Carbohydrate is the main product; oxygen (and water) are by-products.
+? The main site of photosynthesis in a leaf is the:
+- Upper epidermis
+* Mesophyll tissue
+- Vein
+- Cuticle
+= Mesophyll cells are full of chloroplasts.
+? In photosynthesis:
+- H₂O is reduced and CO₂ is oxidised
+- Both H₂O and CO₂ are oxidised
+- Both H₂O and CO₂ are reduced
+* H₂O is oxidised and CO₂ is reduced
+= Water loses hydrogen (oxidised, giving O₂); CO₂ gains hydrogen (reduced, giving carbohydrate).
+? Through which structure does CO₂ from the air enter a leaf?
+* Stoma
+- Root hair
+- Xylem
+- Granum
+= Stomata are the tiny pores of the leaf surface.
+? The stacks of chlorophyll-bearing discs inside a chloroplast are called:
+- Stroma
+- Stomata
+* Grana
+- Mesophyll
+= A stack of thylakoid discs is a granum; the fluid around it is the stroma.
+== bn
+## what
+**সালোকসংশ্লেষণ** হলো সেই প্রক্রিয়া, যাতে সবুজ উদ্ভিদ ক্লোরোফিলের ধরা আলোকশক্তি ব্যবহার করে কার্বন ডাই-অক্সাইড ও পানি থেকে শর্করা (খাদ্য) তৈরি করে। এটি প্রধানত পাতার **মেসোফিল** কোষের **ক্লোরোপ্লাস্টে** ঘটে, আর এতে অক্সিজেন বের হয়।
+## simple
+**শুরুতে একটা ধাঁধা।** ছোট্ট একটা আমের চারা বড় হয়ে কয়েক টন ওজনের গাছ হয়। এত কাঠ, পাতা, ফল আসে কোথা থেকে? বেশির ভাগ মানুষ বলবে, "মাটি থেকে"। কিন্তু গাছ যত বাড়ে, চারপাশের মাটি তো তত কমে না। ১৬০০-র দশকে বিজ্ঞানী ভ্যান হেলমন্ট একটি টবে উইলো গাছ পাঁচ বছর ধরে বড় করেছিলেন: গাছের ওজন বাড়ল বহু কিলোগ্রাম, অথচ মাটি প্রায় কিছুই কমল না। আসল উত্তরটা অবাক করার মতো: উদ্ভিদের দেহের বেশির ভাগই তৈরি হয় **বাতাস আর পানি** থেকে। উদ্ভিদ বাতাস থেকে কার্বন ডাই-অক্সাইড আর মাটি থেকে পানি নেয়, তারপর সূর্যের আলোর শক্তি দিয়ে এদের জুড়ে খাদ্য বানায়।
+
+**নামেই পরিচয়।** সালোকসংশ্লেষণ = স + আলোক + সংশ্লেষণ, অর্থাৎ "আলোর সাহায্যে তৈরি"। ইংরেজি Photosynthesis-এও *photo* মানে আলো, *synthesis* মানে জুড়ে তৈরি করা।
+
+**চারটি উপকরণ দরকার:**
+- **ক্লোরোফিল**: সবুজ রঞ্জক, যা আলো ধরে
+- **আলো**: শক্তির উৎস
+- **পানি** (H₂O)
+- **কার্বন ডাই-অক্সাইড** (CO₂)
+
+**যা তৈরি হয়:** শর্করা (গ্লুকোজ, C₆H₁₂O₆); সাথে উপজাত দ্রব্য হিসেবে **অক্সিজেন** ও **পানি**।
+
+**6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O** (আলো ও ক্লোরোফিলের উপস্থিতিতে)
+
+**বাঁ দিকে ১২টি পানি, ডান দিকে ৬টি কেন?** কারণ যে অক্সিজেন গ্যাস বের হয়, তার সবটুকু আসে **পানি** থেকে, কার্বন ডাই-অক্সাইড থেকে নয়। ৬টি O₂ (১২টি অক্সিজেন পরমাণু) পেতে ১২টি পানির অণু ভাঙতে হয়। পরে ৬টি নতুন পানির অণু তৈরি হয়। দুই পাশ থেকে ৬টি করে H₂O বাদ দিলে পাওয়া যায় সংক্ষিপ্ত রূপ: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂।
+
+**শক্তির রূপ বদলায়।** আলোকশক্তি গ্লুকোজে জমা **রাসায়নিক শক্তিতে** পরিণত হয়। সালোকসংশ্লেষণ একটি **জারণ-বিজারণ** প্রক্রিয়াও: পানি **জারিত** হয় (হাইড্রোজেন হারিয়ে O₂ হয়) আর কার্বন ডাই-অক্সাইড **বিজারিত** হয় (হাইড্রোজেন পেয়ে শর্করা হয়)।
+
+**কোথায় ঘটে? পাতার ভেতরে ঢুকে দেখি।**
+- **পাতা** চ্যাপ্টা ও পাতলা, তাই অনেক আলো ধরতে পারে আর গ্যাস দ্রুত সব কোষে পৌঁছায়।
+- পাতার ওপরের ও নিচের ত্বকের (এপিডার্মিসের) মাঝখানে থাকে **মেসোফিল টিস্যু**। এটিই সালোকসংশ্লেষণের প্রধান স্থান। এর কোষগুলো ক্লোরোপ্লাস্টে ঠাসা।
+- প্রতিটি **ক্লোরোপ্লাস্টে** চ্যাপ্টা চাকতির থাক আছে। একটি চাকতি হলো **থাইলাকয়েড**; একটি থাক হলো **গ্রানাম** (বহুবচনে গ্রানা)। ক্লোরোফিল থাকে এখানে, তাই আলো ধরা পড়ে এখানেই।
+- গ্রানার চারপাশের জলীয় অংশ হলো **স্ট্রোমা**। শর্করা শেষ পর্যন্ত তৈরি হয় এখানে।
+
+ক্লোরোপ্লাস্ট আছে এমন যেকোনো সবুজ অংশ, যেমন কচি সবুজ কাণ্ড বা কাঁচা ফল, কিছুটা সালোকসংশ্লেষণ করতে পারে; তবে বেশির ভাগটা করে পাতা।
+
+**উপকরণ পৌঁছায় কীভাবে।**
+- **পানি**: স্থলজ উদ্ভিদ মূল দিয়ে মাটি থেকে পানি শোষণ করে; তা ওপরে উঠে মেসোফিলের ক্লোরোপ্লাস্টে পৌঁছায়।
+- **কার্বন ডাই-অক্সাইড**: পাতার গায়ের অতি ক্ষুদ্র ছিদ্র **পত্ররন্ধ্র** বা স্টোমা দিয়ে বাতাস থেকে ঢোকে এবং একই ক্লোরোপ্লাস্টে পৌঁছায়।
+- **জলজ উদ্ভিদ** পানিতে দ্রবীভূত CO₂ গ্রহণ করে।
+
+তোমার বইয়ে আছে, বায়ুমণ্ডলে CO₂ প্রায় ০.০৩% আর পানিতে প্রায় ০.৩%, তাই জলজ উদ্ভিদে সালোকসংশ্লেষণের হার স্থলজ উদ্ভিদের চেয়ে বেশি। পরীক্ষার জন্য এটা মনে রেখো, তবে একে সাধারণ কথা হিসেবে নিয়ো: পানির নিচে আলো কম পৌঁছায় আর গ্যাস ধীরে চলে, তাই সব জলজ উদ্ভিদই যে বেশি দ্রুত, তা নয়। (জ্বালানি পোড়ানোর ফলে বাতাসে CO₂ এখন বেড়ে ০.০৪%-এর কিছু বেশি হয়েছে।)
+
+**তৈরি খাদ্য দিয়ে উদ্ভিদ কী করে।** একটা অংশ উদ্ভিদ নিজের বিপাকীয় কাজে সাথে সাথে ব্যবহার করে। বাকিটা জমা রাখে, সাধারণত শ্বেতসার হিসেবে, ফল, মূল, কাণ্ড বা পাতায়: ধানের দানা, আলু, মিষ্টি আলু বা আখের কাণ্ডের কথা ভাবো। মানুষ আর অন্য সব প্রাণী এই সঞ্চিত খাদ্যের ওপরেই বেঁচে আছে।
+## analogy
+পাতাকে ভাবো সৌরচুলাওয়ালা একটা রান্নাঘর। রাঁধুনি হলো ক্লোরোফিল, আগুন হলো সূর্যের আলো, আর উপকরণ হলো পানি (মূল দিয়ে ওপরে আসে) ও কার্বন ডাই-অক্সাইড (জানালা, মানে পত্ররন্ধ্র দিয়ে ঢোকে)। রান্না হওয়া খাবারটা গ্লুকোজ; জানালা দিয়ে যে "ভাপ" বেরিয়ে যায়, সেটা অক্সিজেন।
+## definition
+**সালোকসংশ্লেষণ**: যে জৈব রাসায়নিক প্রক্রিয়ায় সবুজ উদ্ভিদ সূর্যালোকের উপস্থিতিতে ক্লোরোফিলের সাহায্যে কার্বন ডাই-অক্সাইড ও পানি থেকে শর্করা তৈরি করে এবং উপজাত হিসেবে অক্সিজেন (ও পানি) নির্গত করে। এ প্রক্রিয়ায় আলোকশক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়।
+
+এটি ক্লোরোপ্লাস্টে ঘটে; পাতার মেসোফিল টিস্যু এর প্রধান স্থান।
+## why
+পাতা সবুজ, চ্যাপ্টা আর পাতলা কেন? সবুজ, কারণ ক্লোরোফিল সালোকসংশ্লেষণের জন্য লাল ও নীল আলো শোষণ করে আর সবুজ আলো ফিরিয়ে দেয়। চ্যাপ্টা, যাতে যত বেশি সম্ভব আলো ধরা যায়। পাতলা, যাতে পত্ররন্ধ্র দিয়ে ঢোকা কার্বন ডাই-অক্সাইড দ্রুত সব মেসোফিল কোষে পৌঁছায় আর আলো ভেতরের কোষ পর্যন্ত যায়। আর অক্সিজেন পানি থেকে আসে কেন? কারণ সালোকসংশ্লেষণের প্রথম পর্যায়ে আলোর শক্তি দিয়ে পানির অণু ভাঙা হয়: হাইড্রোজেন রেখে দেওয়া হয় শর্করা গড়তে, আর অক্সিজেন বাড়তি হয়ে বেরিয়ে যায়।
+## terms
+সালোকসংশ্লেষণ (Photosynthesis) | আলোকশক্তি ও ক্লোরোফিলের সাহায্যে CO₂ ও পানি থেকে শর্করা তৈরি
+ক্লোরোফিল | ক্লোরোপ্লাস্টের সবুজ রঞ্জক, যা আলোকশক্তি শোষণ করে
+মেসোফিল টিস্যু | পাতার দুই ত্বকের মাঝের টিস্যু; সালোকসংশ্লেষণের প্রধান স্থান
+ক্লোরোপ্লাস্ট | সবুজ প্লাস্টিড; যে অঙ্গাণুতে সালোকসংশ্লেষণ ঘটে
+থাইলাকয়েড | ক্লোরোপ্লাস্টের ভেতরের চ্যাপ্টা চাকতি, যাতে ক্লোরোফিল থাকে
+গ্রানাম (গ্রানা) | থাইলাকয়েড চাকতির থাক; আলোকনির্ভর পর্যায়ের স্থান
+স্ট্রোমা | ক্লোরোপ্লাস্টের জলীয় ধাত্র; আলোক নিরপেক্ষ পর্যায়ের স্থান
+পত্ররন্ধ্র বা স্টোমা | পাতার গায়ের ক্ষুদ্র ছিদ্র, যা দিয়ে CO₂ ঢোকে ও O₂ বের হয়
+উপজাত দ্রব্য (By-product) | বিক্রিয়ায় বাড়তি উৎপন্ন পদার্থ; এখানে অক্সিজেন ও পানি
+## formula
+$$ 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O
+! বিক্রিয়ায় আলো ও ক্লোরোফিল লাগে (বইয়ে তীরচিহ্নের ওপরে ও নিচে লেখা থাকে)।
+! দুই পাশ থেকে ৬টি H₂O বাদ দিলে সংক্ষিপ্ত রূপ: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+! H₂O জারিত হয়; CO₂ বিজারিত হয়। নির্গত O₂ আসে পানি থেকে।
+## visual
+ধাপে ধাপে ভেতরে যাও: পুরো পাতা, পাতার প্রস্থচ্ছেদ, আর একটি ক্লোরোপ্লাস্ট। নাম লেখা যেকোনো অংশে চাপ দিয়ে দেখো সালোকসংশ্লেষণে তার কাজ কী।
+## real
+দুপুরের রোদে একটা ধানখেত আসলে বিশাল এক খাদ্য কারখানা: প্রতিটি সবুজ পাতা বাতাস আর পানিকে শ্বেতসারে বদলাচ্ছে, যা পরে ধানের দানা ভরে তুলবে। রোদেলা পুকুরে জলজ উদ্ভিদের গা থেকে মাঝে মাঝে যে বুদ্বুদ উঠতে দেখো, তা সালোকসংশ্লেষণের অক্সিজেন। আর মুরব্বিরা যে বলেন "দিনের বেলা গাছের ছায়ায় বসো", তার একটা কারণ এই তাজা অক্সিজেন, আরেকটা কারণ শীতল ছায়া।
+## example
+প্রশ্ন: 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O সমীকরণটি সমতাবিশিষ্ট কি না যাচাই করো।
+সমাধান: দুই পাশে প্রতিটি মৌলের পরমাণু গুনে দেখো।
+ধাপ: কার্বন: বাঁয়ে ৬টি (6CO₂-তে); ডানে ৬টি (C₆H₁₂O₆-এ)।
+ধাপ: হাইড্রোজেন: বাঁয়ে ১২ × ২ = ২৪টি; ডানে ১২ + (৬ × ২) = ২৪টি।
+ধাপ: অক্সিজেন: বাঁয়ে (৬ × ২) + ১২ = ২৪টি; ডানে ৬ + (৬ × ২) + ৬ = ২৪টি।
+উত্তর: C ৬ = ৬, H ২৪ = ২৪, O ২৪ = ২৪। সমীকরণটি সমতাবিশিষ্ট।
+## example
+প্রশ্ন: একটি উদ্ভিদ ১৮০ g গ্লুকোজ (১ মোল) তৈরি করল। এতে কত গ্রাম CO₂ লাগল আর কত গ্রাম O₂ বের হলো? (মোলার ভর: CO₂ = ৪৪ g, O₂ = ৩২ g, C₆H₁₂O₆ = ১৮০ g)
+দেওয়া আছে: সমীকরণ অনুযায়ী ১ মোল গ্লুকোজের জন্য ৬ মোল CO₂ লাগে আর ৬ মোল O₂ বের হয়
+হিসাব: ব্যবহৃত CO₂ = ৬ × ৪৪ = ২৬৪ g; নির্গত O₂ = ৬ × ৩২ = ১৯২ g
+> মোলের অনুপাত সরাসরি সমতাবিশিষ্ট সমীকরণের সহগ থেকে পাওয়া যায়।
+উত্তর: ২৬৪ g CO₂ লাগল আর ১৯২ g O₂ বের হলো।
+## example
+প্রশ্ন: একজন শিক্ষার্থী বলল, "সালোকসংশ্লেষণে যে অক্সিজেন বের হয় তা কার্বন ডাই-অক্সাইড থেকে আসে।" কথাটি কি ঠিক? সমীকরণ দিয়ে ব্যাখ্যা করো।
+সমাধান: অক্সিজেন পরমাণুর হিসাব মেলাও।
+ধাপ: ৬টি O₂-তে ১২টি অক্সিজেন পরমাণু আছে। বাঁ দিকের ১২টি H₂O-তেও ঠিক ১২টি অক্সিজেন পরমাণু।
+ধাপ: আলোর শক্তি পানিকে ভাঙে; পানির হাইড্রোজেন CO₂-কে বিজারিত করতে লাগে, আর অক্সিজেন মুক্ত হয়ে যায়।
+উত্তর: ঠিক নয়। অক্সিজেন গ্যাস আসে পানি থেকে। এজন্যই পূর্ণ সমীকরণে ১২টি H₂O দেখানো হয়।
+## mistakes
+x উদ্ভিদ মাটি থেকে খাদ্য পায়।
+v উদ্ভিদ CO₂ ও পানি থেকে নিজের খাদ্য নিজেই তৈরি করে। মাটি থেকে নেয় শুধু পানি ও খনিজ লবণ।
+x সালোকসংশ্লেষণে নির্গত অক্সিজেন CO₂ থেকে আসে।
+v এটি আসে পানি ভাঙার ফলে।
+x সালোকসংশ্লেষণ শুধু পাতায় হয়।
+v ক্লোরোপ্লাস্ট আছে এমন যেকোনো সবুজ অংশে (সবুজ কাণ্ড, কাঁচা ফল) হয়, তবে পাতার মেসোফিলই প্রধান স্থান।
+x উদ্ভিদ শ্বসন করে না, তার বদলে সালোকসংশ্লেষণ করে।
+v সব জীবের মতো উদ্ভিদও দিনরাত শ্বসন করে; আলো থাকলে তার সাথে সালোকসংশ্লেষণও করে।
+## remember
+- লাগে: ক্লোরোফিল, আলো, পানি, CO₂। তৈরি হয়: শর্করা (গ্লুকোজ); উপজাত O₂ ও পানি।
+- 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (আলো, ক্লোরোফিল)।
+- আলোকশক্তি → রাসায়নিক শক্তি। H₂O জারিত হয়, CO₂ বিজারিত হয়।
+- প্রধান স্থান: পাতার মেসোফিল টিস্যু; অঙ্গাণু: ক্লোরোপ্লাস্ট (গ্রানা + স্ট্রোমা)।
+- CO₂ ঢোকে পত্ররন্ধ্র দিয়ে; পানি আসে মূল থেকে; জলজ উদ্ভিদ দ্রবীভূত CO₂ নেয়।
+- বাড়তি খাদ্য ফল, মূল, কাণ্ড বা পাতায় জমা থাকে।
+## think
+একটি সুস্থ টবের গাছকে উজ্জ্বল আলোতে রেখে এমন একটি বয়ামে আটকে দেওয়া হলো, যার ভেতর থেকে সব কার্বন ডাই-অক্সাইড সরিয়ে নেওয়া হয়েছে। গাছটির সালোকসংশ্লেষণের কী হবে, আর কেন?
+## quiz
+? নিচের কোনটি সালোকসংশ্লেষণে উপজাত হিসেবে নির্গত হয়?
+- কার্বন ডাই-অক্সাইড
+- শর্করা
+* অক্সিজেন
+- ক্লোরোফিল
+= শর্করা প্রধান উৎপাদ; অক্সিজেন (ও পানি) উপজাত দ্রব্য।
+? পাতায় সালোকসংশ্লেষণের প্রধান স্থান:
+- ঊর্ধ্বত্বক
+* মেসোফিল টিস্যু
+- শিরা
+- কিউটিকল
+= মেসোফিল কোষ ক্লোরোপ্লাস্টে ভরা।
+? সালোকসংশ্লেষণে:
+- H₂O বিজারিত হয় আর CO₂ জারিত হয়
+- H₂O ও CO₂ দুটোই জারিত হয়
+- H₂O ও CO₂ দুটোই বিজারিত হয়
+* H₂O জারিত হয় আর CO₂ বিজারিত হয়
+= পানি হাইড্রোজেন হারায় (জারিত, O₂ দেয়); CO₂ হাইড্রোজেন পায় (বিজারিত, শর্করা হয়)।
+? বাতাসের CO₂ কোন পথে পাতায় ঢোকে?
+* পত্ররন্ধ্র (স্টোমা)
+- মূলরোম
+- জাইলেম
+- গ্রানাম
+= পত্ররন্ধ্র হলো পাতার গায়ের অতি ক্ষুদ্র ছিদ্র।
+? ক্লোরোপ্লাস্টের ভেতরে ক্লোরোফিলযুক্ত চাকতির থাকগুলোকে বলে:
+- স্ট্রোমা
+- স্টোমাটা
+* গ্রানা
+- মেসোফিল
+= থাইলাকয়েড চাকতির থাক হলো গ্রানাম; তার চারপাশের তরল অংশ স্ট্রোমা।
+
+@@ 4.2.1
+@visual b4stages
+@related 4.2 4.2.2 4.1
+== en
+## what
+Photosynthesis takes place in two linked phases. In the **light-dependent phase** light energy is used to split water and to make ATP and NADPH; in the **light-independent (dark) phase** these two are used to turn carbon dioxide into carbohydrate.
+## simple
+**One equation, many steps.** The equation of photosynthesis looks like a single reaction, but it is really a long and complex chain of reactions. In 1905 the British physiologist **Blackman** divided the process into two phases:
+1. the **light-dependent phase** (light reaction)
+2. the **light-independent phase**, also called the **dark phase**
+
+Think of them as two rooms of one factory: the first room produces "electricity", the second room uses that electricity to manufacture the product.
+
+**Phase 1: the light-dependent phase.** Place: the **grana** (thylakoids) of the chloroplast, where the chlorophyll is. Light is essential here, and solar energy is changed into chemical energy.
+- **Chlorophyll absorbs photons** (tiny packets of light energy).
+- **Photolysis of water**: with the help of sunlight and chlorophyll, water breaks up into oxygen, protons (hydrogen ions, H⁺) and electrons. The oxygen leaves the leaf. *Photo* = light, *lysis* = splitting.
+- **Photophosphorylation**: the energy of the absorbed photons, passed along an electron transport chain, is used to join ADP and inorganic phosphate (Pi) into **ATP**. (You met phosphorylation in [[4.1|lesson 4.1]]; here light supplies the energy, so it is **photo**phosphorylation.)
+- The electrons and protons **reduce NADP** to **NADPH + H⁺**.
+
+So the first room gives two energy-rich products: **ATP** and **NADPH + H⁺**. Together they are called the **assimilatory power**, because they will be used to assimilate (build in) carbon dioxide. Oxygen is the by-product.
+
+**Phase 2: the light-independent (dark) phase.** Place: the **stroma** of the chloroplast. Light is not needed directly, although this phase goes on in daylight too.
+- CO₂ from the air enters the leaf through the stomata and reaches the stroma.
+- Using the **ATP** and **NADPH + H⁺** made in the light phase, the CO₂ is **reduced** and becomes **carbohydrate**.
+- The used-up ADP, Pi and NADP go back to the grana to be charged again.
+
+**Three routes for reducing CO₂.** Scientists have found three pathways in green plants: the **Calvin cycle**, the **Hatch and Slack cycle**, and **Crassulacean acid metabolism (CAM)**. Your book describes the first two.
+
+**(a) Calvin cycle or C₃ pathway.** It is named after its discoverers (Calvin, Benson and Bassham); Melvin Calvin received the Nobel Prize for it in 1961. Most plants make carbohydrate this way. CO₂ is joined to an acceptor molecule already present in the stroma, and the **first stable compound** formed is **phosphoglyceric acid**, which has **3 carbon atoms**. Hence the name **C₃ pathway**; plants that use only this cycle are **C₃ plants** (for example rice, wheat, jute, mango). The 3-carbon compound is then reduced with ATP and NADPH; part of it becomes glucose and the rest rebuilds the acceptor, so the cycle can turn again.
+
+**(b) Hatch and Slack cycle or C₄ pathway.** In 1966 two Australian scientists, **M. D. Hatch** and **C. R. Slack**, discovered another route. Here the first stable compound is **oxaloacetic acid**, which has **4 carbon atoms**, so it is the **C₄ pathway** and the plants are **C₄ plants**. In C₄ plants the Hatch and Slack cycle and the Calvin cycle both run together: the first one collects CO₂ very efficiently and hands it over to the second. As a result C₄ plants photosynthesise faster than C₃ plants and produce more. Examples: **maize, sugarcane**, many other grasses, mutha grass and amaranth (note shak, *Amaranthus*). (Not every grass is C₄: rice and wheat are C₃ plants.)
+
+**(c) CAM** is found in some plants of dry places, such as cactus and pineapple, which open their stomata at night to save water.
+
+**"Dark" does not mean "at night".** The dark phase is called dark only because it does not use light directly. It depends completely on the ATP and NADPH from the light phase, so in a real leaf both phases run together during the day and both stop soon after dark.
+## analogy
+Picture a rice mill with a solar panel on the roof. The panel (the grana) turns sunlight into electricity and charges batteries (ATP and NADPH). Inside the shed (the stroma), machines use those batteries to turn the raw material (CO₂) into the product (sugar). The machines never see the sun, but without the panel they stop.
+## definition
+**Light-dependent phase**: the phase of photosynthesis, occurring in the grana (thylakoids), in which light energy absorbed by chlorophyll is converted into chemical energy, producing ATP and NADPH + H⁺, with oxygen released by the photolysis of water.
+
+**Light-independent (dark) phase**: the phase, occurring in the stroma, in which CO₂ is reduced to carbohydrate using the ATP and NADPH + H⁺ produced in the light-dependent phase.
+
+**Photolysis of water**: the splitting of water into oxygen, protons and electrons with the help of light and chlorophyll. **Photophosphorylation**: the formation of ATP from ADP and Pi using light energy.
+## why
+Why two phases instead of one? Light energy cannot be stored as it is, and it cannot join CO₂ and water directly. So the plant first catches the light in two portable chemical forms, ATP (energy) and NADPH (hydrogen and electrons). Only then can enzymes in the stroma use them, step by step, to build a stable, storable sugar. Splitting water is what supplies the hydrogen and electrons, and that is exactly why oxygen is left over.
+## terms
+Light-dependent phase | First phase, in the grana; needs light; makes ATP, NADPH + H⁺ and O₂
+Light-independent (dark) phase | Second phase, in the stroma; reduces CO₂ to carbohydrate
+Photon | A tiny packet of light energy
+Photolysis | Splitting of water by light into O₂, H⁺ and electrons
+Photophosphorylation | Making ATP from ADP + Pi using light energy
+NADPH + H⁺ | Reduced NADP; carries hydrogen and electrons to the dark phase
+Assimilatory power | ATP and NADPH + H⁺ together, used to reduce CO₂
+Calvin cycle (C₃) | CO₂-reduction pathway whose first stable product is 3-carbon phosphoglyceric acid
+Hatch and Slack cycle (C₄) | Pathway whose first stable product is 4-carbon oxaloacetic acid
+C₄ plants | Plants with both cycles: maize, sugarcane, mutha grass, amaranth
+## formula
+$$ 2H₂O → 4H⁺ + 4e⁻ + O₂
+$$ ADP + Pi → ATP
+$$ NADP + 2H⁺ + 2e⁻ → NADPH + H⁺
+! All three happen in the light-dependent phase, with light and chlorophyll.
+! Dark phase: CO₂ + (ATP, NADPH + H⁺) → carbohydrate + (ADP, Pi, NADP).
+## visual
+Step through the two phases inside a chloroplast. Watch what goes in, what comes out, and how ATP and NADPH carry energy from the grana to the stroma and return to be recharged.
+## real
+Sugarcane in Rajshahi and maize in Dinajpur grow remarkably fast in strong sun and heat: they are C₄ plants. Rice, a C₃ plant, is the staple food of about half the world, so an international team of scientists (the C₄ Rice Project, which began at the International Rice Research Institute) has long been trying to build the C₄ pathway into rice so that the same field could give more grain.
+## example
+Q: Put each event in the correct phase: (i) water is split, (ii) CO₂ is reduced, (iii) ATP is made from ADP, (iv) oxygen is released, (v) carbohydrate is formed, (vi) NADP is reduced.
+Solution: Ask whether the event needs light directly (grana) or uses the products of the light phase (stroma).
+Step: Splitting of water (photolysis), release of O₂, making ATP (photophosphorylation) and reducing NADP all need light and chlorophyll.
+Step: Reducing CO₂ and forming carbohydrate use ATP and NADPH + H⁺ in the stroma.
+Answer: Light-dependent phase: (i), (iii), (iv), (vi). Light-independent phase: (ii), (v).
+## example
+Q: Why is maize called a C₄ plant?
+Solution: Look at the first stable compound formed when CO₂ is taken in.
+Step: In maize CO₂ is first reduced by the Hatch and Slack pathway, whose first stable compound is oxaloacetic acid.
+Step: Oxaloacetic acid has 4 carbon atoms, so the pathway is the C₄ pathway.
+Answer: Because the first stable compound of its CO₂ reduction is the 4-carbon oxaloacetic acid. (The Calvin cycle also runs in maize alongside.)
+## example
+Q: To make one molecule of glucose, a chloroplast releases 6 molecules of O₂. How many water molecules must be split, and how many H⁺ and electrons do they give?
+Given: 2H₂O → 4H⁺ + 4e⁻ + O₂ (one O₂ needs 2 H₂O)
+Calculation: water split = 6 × 2 = 12 molecules; H⁺ = 6 × 4 = 24; electrons = 6 × 4 = 24
+> This is why the full equation of photosynthesis has 12 H₂O on the left.
+Answer: 12 H₂O are split, giving 24 H⁺, 24 electrons and 6 O₂.
+## mistakes
+x The dark phase happens only at night.
+v It happens during the day together with the light phase; "dark" only means it does not need light directly.
+x Carbohydrate is made in the light-dependent phase.
+v The light phase makes ATP, NADPH + H⁺ and O₂. Carbohydrate is made in the dark phase.
+x The first stable product of the Calvin cycle is glucose.
+v It is 3-carbon phosphoglyceric acid; glucose is formed later.
+x C₄ plants do not have the Calvin cycle.
+v C₄ plants run both the Hatch and Slack cycle and the Calvin cycle.
+## remember
+- Blackman (1905): two phases, light-dependent and light-independent (dark).
+- Light phase (grana): photolysis of water → O₂ + H⁺ + e⁻; photophosphorylation → ATP; NADP → NADPH + H⁺.
+- ATP + NADPH + H⁺ = assimilatory power.
+- Dark phase (stroma): CO₂ is reduced to carbohydrate using ATP and NADPH + H⁺.
+- Calvin cycle = C₃; first stable compound 3-carbon phosphoglyceric acid; Calvin, Nobel Prize 1961.
+- Hatch and Slack (1966) = C₄; first stable compound 4-carbon oxaloacetic acid; maize, sugarcane, mutha grass, amaranth; higher rate.
+## think
+A leaf in bright light is suddenly moved into complete darkness. The light-independent phase does not need light, yet within a short time it also stops. Why?
+## quiz
+? Who divided photosynthesis into two phases in 1905?
+- Calvin
+* Blackman
+- Hatch
+- Krebs
+= The British physiologist Blackman divided it into the light-dependent and light-independent phases.
+? Where in the chloroplast does the light-dependent phase take place?
+- Stroma
+- Outer membrane
+* Grana (thylakoids)
+- Stomata
+= Chlorophyll is in the thylakoids of the grana, so light is caught there.
+? Which of these is produced in the light-dependent phase?
+* ATP and NADPH + H⁺
+- Glucose
+- Carbon dioxide
+- Oxaloacetic acid
+= The light phase makes ATP and NADPH + H⁺ (and releases O₂); these drive the dark phase.
+? The first stable compound of the Calvin cycle is:
+- 4-carbon oxaloacetic acid
+- 6-carbon glucose
+- 2-carbon acetyl Co-A
+* 3-carbon phosphoglyceric acid
+= That is why the Calvin cycle is called the C₃ pathway.
+? Which of the following is a C₄ plant?
+- Rice
+- Mango
+* Maize
+- Jute
+= Maize, sugarcane, mutha grass and amaranth are C₄ plants.
+== bn
+## what
+সালোকসংশ্লেষণ পরস্পর যুক্ত দুটি পর্যায়ে ঘটে। **আলোকনির্ভর পর্যায়ে** আলোর শক্তি দিয়ে পানি ভাঙা হয় আর ATP ও NADPH তৈরি হয়; **আলোক নিরপেক্ষ (অন্ধকার) পর্যায়ে** এ দুটি ব্যবহার করে কার্বন ডাই-অক্সাইড থেকে শর্করা তৈরি হয়।
+## simple
+**এক সমীকরণ, অনেক ধাপ।** সালোকসংশ্লেষণের সমীকরণ দেখে একটি বিক্রিয়া মনে হলেও আসলে এটি দীর্ঘ ও জটিল এক বিক্রিয়া-শৃঙ্খল। ১৯০৫ সালে ইংরেজ শারীরতত্ত্ববিদ **ব্ল্যাকম্যান** (Blackman) এ প্রক্রিয়াকে দুটি পর্যায়ে ভাগ করেন:
+1. **আলোকনির্ভর পর্যায়** (আলোক বিক্রিয়া)
+2. **আলোক নিরপেক্ষ পর্যায়**, যাকে **অন্ধকার পর্যায়**ও বলা হয়
+
+একে একটি কারখানার দুটি ঘরের মতো ভাবো: প্রথম ঘরে "বিদ্যুৎ" তৈরি হয়, দ্বিতীয় ঘরে সেই বিদ্যুৎ দিয়ে পণ্য তৈরি হয়।
+
+**পর্যায় ১: আলোকনির্ভর পর্যায়।** স্থান: ক্লোরোপ্লাস্টের **গ্রানা** (থাইলাকয়েড), যেখানে ক্লোরোফিল থাকে। এখানে আলো অপরিহার্য, আর সৌরশক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়।
+- **ক্লোরোফিল ফোটন শোষণ করে** (ফোটন হলো আলোকশক্তির ক্ষুদ্র প্যাকেট)।
+- **পানির ফটোলাইসিস**: সূর্যালোক ও ক্লোরোফিলের সাহায্যে পানি ভেঙে অক্সিজেন, প্রোটন (হাইড্রোজেন আয়ন, H⁺) ও ইলেকট্রন উৎপন্ন হয়। অক্সিজেন পাতা থেকে বেরিয়ে যায়। *Photo* = আলো, *lysis* = ভাঙন।
+- **ফটোফসফোরাইলেশন**: শোষিত ফোটনের শক্তি ইলেকট্রন ট্রান্সপোর্ট চেইনের মধ্য দিয়ে গিয়ে ADP ও অজৈব ফসফেট (Pi) জুড়ে **ATP** তৈরি করে। ([[4.1|পাঠ ৪.১]]-এ ফসফোরাইলেশন দেখেছ; এখানে শক্তি দেয় আলো, তাই নাম **ফটো**ফসফোরাইলেশন।)
+- ইলেকট্রন ও প্রোটন **NADP-কে বিজারিত করে** তৈরি করে **NADPH + H⁺**।
+
+তাহলে প্রথম ঘর থেকে পাওয়া গেল দুটি শক্তিসমৃদ্ধ উৎপাদ: **ATP** আর **NADPH + H⁺**। এ দুটিকে একসাথে বলে **আত্তীকরণ শক্তি** (assimilatory power), কারণ এদের দিয়েই কার্বন ডাই-অক্সাইডকে আত্তীকরণ করা (দেহের অংশ বানানো) হবে। অক্সিজেন হলো উপজাত।
+
+**পর্যায় ২: আলোক নিরপেক্ষ (অন্ধকার) পর্যায়।** স্থান: ক্লোরোপ্লাস্টের **স্ট্রোমা**। এখানে আলোর প্রত্যক্ষ প্রয়োজন পড়ে না, তবে আলোর উপস্থিতিতেও এ পর্যায় চলে।
+- বায়ুমণ্ডলের CO₂ পত্ররন্ধ্র দিয়ে পাতায় ঢুকে স্ট্রোমায় পৌঁছায়।
+- আলোক পর্যায়ে তৈরি **ATP** ও **NADPH + H⁺**-এর সাহায্যে CO₂ **বিজারিত** হয়ে **শর্করায়** পরিণত হয়।
+- ব্যবহৃত ADP, Pi ও NADP আবার চার্জ হওয়ার জন্য গ্রানায় ফিরে যায়।
+
+**CO₂ বিজারণের তিনটি গতিপথ।** সবুজ উদ্ভিদে বিজ্ঞানীরা তিনটি গতিপথ শনাক্ত করেছেন: **ক্যালভিন চক্র**, **হ্যাচ ও স্ল্যাক চক্র** এবং **ক্রেসুলেসিয়ান এসিড বিপাক (CAM)**। তোমার বইয়ে প্রথম দুটির আলোচনা আছে।
+
+**(ক) ক্যালভিন চক্র বা C₃ গতিপথ।** আবিষ্কারকদের (ক্যালভিন, বেনসন ও ব্যাশাম) নামে এর নাম; এ আবিষ্কারের জন্য মেলভিন ক্যালভিন ১৯৬১ সালে নোবেল পুরস্কার পান। অধিকাংশ উদ্ভিদ এ পথেই শর্করা তৈরি করে। স্ট্রোমায় আগে থেকে থাকা একটি গ্রাহক অণুর সাথে CO₂ যুক্ত হয়, আর যে **প্রথম স্থায়ী পদার্থ** তৈরি হয় তা হলো **ফসফোগ্লিসারিক এসিড**, যাতে **৩টি কার্বন** থাকে। তাই এর নাম **C₃ গতিপথ**; যেসব উদ্ভিদে কেবল এ চক্র চলে তারা **C₃ উদ্ভিদ** (যেমন ধান, গম, পাট, আম)। এরপর ৩-কার্বন যৌগটি ATP ও NADPH দিয়ে বিজারিত হয়; এর একাংশ থেকে গ্লুকোজ হয়, বাকিটা দিয়ে গ্রাহক অণু আবার তৈরি হয়, ফলে চক্র ঘুরতেই থাকে।
+
+**(খ) হ্যাচ ও স্ল্যাক চক্র বা C₄ গতিপথ।** ১৯৬৬ সালে দুই অস্ট্রেলীয় বিজ্ঞানী **এম. ডি. হ্যাচ** (M. D. Hatch) ও **সি. আর. স্ল্যাক** (C. R. Slack) আরেকটি গতিপথ আবিষ্কার করেন। এখানে প্রথম স্থায়ী পদার্থ **অক্সালো এসিটিক এসিড**, যাতে **৪টি কার্বন** থাকে; তাই এটি **C₄ গতিপথ**, আর উদ্ভিদগুলো **C₄ উদ্ভিদ**। C₄ উদ্ভিদে হ্যাচ ও স্ল্যাক চক্র আর ক্যালভিন চক্র একসাথে চলে: প্রথমটি খুব দক্ষভাবে CO₂ সংগ্রহ করে দ্বিতীয়টির হাতে তুলে দেয়। ফলে C₃ উদ্ভিদের তুলনায় C₄ উদ্ভিদে সালোকসংশ্লেষণের হার বেশি, উৎপাদন ক্ষমতাও বেশি। উদাহরণ: **ভুট্টা, আখ**, আরও অনেক ঘাসজাতীয় উদ্ভিদ, মুথা ঘাস, নটে গাছ (*Amaranthus*)। (তবে সব ঘাসজাতীয় উদ্ভিদ C₄ নয়: ধান ও গম C₃ উদ্ভিদ।)
+
+**(গ) CAM** দেখা যায় শুষ্ক জায়গার কিছু উদ্ভিদে, যেমন ক্যাকটাস ও আনারস; এরা পানি বাঁচাতে রাতে পত্ররন্ধ্র খোলে।
+
+**"অন্ধকার" মানে "রাতে" নয়।** অন্ধকার পর্যায় নামটি এসেছে শুধু এ কারণে যে এতে সরাসরি আলো লাগে না। এটি পুরোপুরি আলোক পর্যায়ের ATP ও NADPH-এর ওপর নির্ভরশীল, তাই বাস্তবে পাতায় দুই পর্যায়ই দিনের বেলা একসাথে চলে, আর অন্ধকার নামার কিছুক্ষণ পর দুটোই থেমে যায়।
+## analogy
+ছাদে সোলার প্যানেল বসানো একটা চালকলের কথা ভাবো। প্যানেল (গ্রানা) রোদকে বিদ্যুতে বদলে ব্যাটারি (ATP ও NADPH) চার্জ করে। ভেতরের ঘরে (স্ট্রোমায়) যন্ত্রগুলো সেই ব্যাটারি দিয়ে কাঁচামাল (CO₂) থেকে পণ্য (চিনি) বানায়। যন্ত্রগুলো কখনো রোদ দেখে না, কিন্তু প্যানেল না থাকলে তারা থেমে যায়।
+## definition
+**আলোকনির্ভর পর্যায়**: সালোকসংশ্লেষণের যে পর্যায় গ্রানায় (থাইলাকয়েডে) ঘটে এবং যাতে ক্লোরোফিলের শোষিত আলোকশক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়ে ATP ও NADPH + H⁺ উৎপন্ন হয়, আর পানির ফটোলাইসিসে অক্সিজেন নির্গত হয়।
+
+**আলোক নিরপেক্ষ (অন্ধকার) পর্যায়**: যে পর্যায় স্ট্রোমায় ঘটে এবং যাতে আলোকনির্ভর পর্যায়ে উৎপন্ন ATP ও NADPH + H⁺-এর সাহায্যে CO₂ বিজারিত হয়ে শর্করায় পরিণত হয়।
+
+**পানির ফটোলাইসিস**: আলো ও ক্লোরোফিলের সাহায্যে পানি ভেঙে অক্সিজেন, প্রোটন ও ইলেকট্রন উৎপন্ন হওয়া। **ফটোফসফোরাইলেশন**: আলোকশক্তি ব্যবহার করে ADP ও Pi থেকে ATP তৈরি।
+## why
+এক পর্যায়ের বদলে দুই পর্যায় কেন? আলোকশক্তিকে যেমন আছে তেমন জমা রাখা যায় না, আর আলো সরাসরি CO₂ ও পানিকে জুড়তেও পারে না। তাই উদ্ভিদ আগে আলোকে ধরে দুটি বহনযোগ্য রাসায়নিক রূপে: ATP (শক্তি) আর NADPH (হাইড্রোজেন ও ইলেকট্রন)। এরপরই স্ট্রোমার এনজাইমগুলো এদের ব্যবহার করে ধাপে ধাপে একটি স্থায়ী, জমিয়ে রাখার মতো শর্করা গড়তে পারে। হাইড্রোজেন ও ইলেকট্রনের জোগান আসে পানি ভেঙে, আর ঠিক সে কারণেই অক্সিজেন বাড়তি থেকে যায়।
+## terms
+আলোকনির্ভর পর্যায় | প্রথম পর্যায়, গ্রানায় ঘটে; আলো লাগে; ATP, NADPH + H⁺ ও O₂ তৈরি হয়
+আলোক নিরপেক্ষ (অন্ধকার) পর্যায় | দ্বিতীয় পর্যায়, স্ট্রোমায় ঘটে; CO₂ বিজারিত হয়ে শর্করা হয়
+ফোটন | আলোকশক্তির ক্ষুদ্র প্যাকেট
+ফটোলাইসিস | আলোর সাহায্যে পানি ভেঙে O₂, H⁺ ও ইলেকট্রন উৎপন্ন হওয়া
+ফটোফসফোরাইলেশন | আলোকশক্তি দিয়ে ADP + Pi থেকে ATP তৈরি
+NADPH + H⁺ | বিজারিত NADP; হাইড্রোজেন ও ইলেকট্রন অন্ধকার পর্যায়ে বয়ে নেয়
+আত্তীকরণ শক্তি | ATP ও NADPH + H⁺ একসাথে; CO₂ বিজারণে ব্যবহৃত হয়
+ক্যালভিন চক্র (C₃) | CO₂ বিজারণের গতিপথ, যার প্রথম স্থায়ী পদার্থ ৩-কার্বন ফসফোগ্লিসারিক এসিড
+হ্যাচ ও স্ল্যাক চক্র (C₄) | যে গতিপথের প্রথম স্থায়ী পদার্থ ৪-কার্বন অক্সালো এসিটিক এসিড
+C₄ উদ্ভিদ | যেসব উদ্ভিদে দুটি চক্রই চলে: ভুট্টা, আখ, মুথা ঘাস, নটে গাছ
+## formula
+$$ 2H₂O → 4H⁺ + 4e⁻ + O₂
+$$ ADP + Pi → ATP
+$$ NADP + 2H⁺ + 2e⁻ → NADPH + H⁺
+! তিনটিই আলোকনির্ভর পর্যায়ে ঘটে, আলো ও ক্লোরোফিলের সাহায্যে।
+! অন্ধকার পর্যায়: CO₂ + (ATP, NADPH + H⁺) → শর্করা + (ADP, Pi, NADP)।
+## visual
+ক্লোরোপ্লাস্টের ভেতরে দুই পর্যায় ধাপে ধাপে দেখো। লক্ষ করো কী ঢুকছে, কী বেরোচ্ছে, আর ATP ও NADPH কীভাবে গ্রানা থেকে স্ট্রোমায় শক্তি বয়ে নিয়ে আবার চার্জ হতে ফিরে আসে।
+## real
+রাজশাহীর আখ আর দিনাজপুরের ভুট্টা কড়া রোদ ও গরমে চোখে পড়ার মতো দ্রুত বাড়ে: এরা C₄ উদ্ভিদ। ধান C₃ উদ্ভিদ, অথচ পৃথিবীর প্রায় অর্ধেক মানুষের প্রধান খাদ্য। তাই বিজ্ঞানীদের একটি আন্তর্জাতিক দল (C₄ রাইস প্রজেক্ট, যার শুরু আন্তর্জাতিক ধান গবেষণা ইনস্টিটিউট বা IRRI-তে) অনেক দিন ধরে ধানে C₄ গতিপথ যুক্ত করার চেষ্টা করছে, যাতে একই জমিতে বেশি ধান ফলে।
+## example
+প্রশ্ন: প্রতিটি ঘটনাকে সঠিক পর্যায়ে বসাও: (i) পানি ভাঙে, (ii) CO₂ বিজারিত হয়, (iii) ADP থেকে ATP তৈরি হয়, (iv) অক্সিজেন নির্গত হয়, (v) শর্করা তৈরি হয়, (vi) NADP বিজারিত হয়।
+সমাধান: ভাবো, ঘটনাটিতে সরাসরি আলো লাগে (গ্রানা), নাকি আলোক পর্যায়ের উৎপাদ লাগে (স্ট্রোমা)।
+ধাপ: পানি ভাঙা (ফটোলাইসিস), O₂ নির্গমন, ATP তৈরি (ফটোফসফোরাইলেশন) আর NADP-এর বিজারণ, সবগুলোতে আলো ও ক্লোরোফিল লাগে।
+ধাপ: CO₂-এর বিজারণ আর শর্করা তৈরিতে স্ট্রোমায় ATP ও NADPH + H⁺ ব্যবহৃত হয়।
+উত্তর: আলোকনির্ভর পর্যায়: (i), (iii), (iv), (vi)। আলোক নিরপেক্ষ পর্যায়: (ii), (v)।
+## example
+প্রশ্ন: ভুট্টাকে কেন C₄ উদ্ভিদ বলা হয়?
+সমাধান: CO₂ গ্রহণের পর প্রথম কোন স্থায়ী পদার্থ তৈরি হয়, তা দেখো।
+ধাপ: ভুট্টায় CO₂ প্রথমে হ্যাচ ও স্ল্যাক গতিপথে বিজারিত হয়, যার প্রথম স্থায়ী পদার্থ অক্সালো এসিটিক এসিড।
+ধাপ: অক্সালো এসিটিক এসিডে ৪টি কার্বন থাকে, তাই গতিপথটি C₄ গতিপথ।
+উত্তর: কারণ এর CO₂ বিজারণের প্রথম স্থায়ী পদার্থ ৪-কার্বনবিশিষ্ট অক্সালো এসিটিক এসিড। (ভুট্টায় পাশাপাশি ক্যালভিন চক্রও চলে।)
+## example
+প্রশ্ন: এক অণু গ্লুকোজ তৈরি করতে একটি ক্লোরোপ্লাস্ট ৬ অণু O₂ ছাড়ে। এ জন্য কত অণু পানি ভাঙতে হয়, আর তা থেকে কতটি H⁺ ও ইলেকট্রন পাওয়া যায়?
+দেওয়া আছে: 2H₂O → 4H⁺ + 4e⁻ + O₂ (একটি O₂-এর জন্য ২টি H₂O লাগে)
+হিসাব: পানি ভাঙে = ৬ × ২ = ১২ অণু; H⁺ = ৬ × ৪ = ২৪টি; ইলেকট্রন = ৬ × ৪ = ২৪টি
+> এজন্যই সালোকসংশ্লেষণের পূর্ণ সমীকরণে বাঁ দিকে ১২টি H₂O থাকে।
+উত্তর: ১২ অণু H₂O ভাঙে; পাওয়া যায় ২৪টি H⁺, ২৪টি ইলেকট্রন ও ৬ অণু O₂।
+## mistakes
+x অন্ধকার পর্যায় শুধু রাতে ঘটে।
+v এটি দিনের বেলা আলোক পর্যায়ের সাথেই চলে; "অন্ধকার" মানে শুধু এই যে এতে সরাসরি আলো লাগে না।
+x শর্করা তৈরি হয় আলোকনির্ভর পর্যায়ে।
+v আলোক পর্যায়ে তৈরি হয় ATP, NADPH + H⁺ ও O₂। শর্করা তৈরি হয় অন্ধকার পর্যায়ে।
+x ক্যালভিন চক্রের প্রথম স্থায়ী পদার্থ গ্লুকোজ।
+v প্রথম স্থায়ী পদার্থ ৩-কার্বন ফসফোগ্লিসারিক এসিড; গ্লুকোজ তৈরি হয় পরে।
+x C₄ উদ্ভিদে ক্যালভিন চক্র নেই।
+v C₄ উদ্ভিদে হ্যাচ ও স্ল্যাক চক্র আর ক্যালভিন চক্র দুটোই চলে।
+## remember
+- ব্ল্যাকম্যান (১৯০৫): দুটি পর্যায়, আলোকনির্ভর ও আলোক নিরপেক্ষ (অন্ধকার)।
+- আলোক পর্যায় (গ্রানা): পানির ফটোলাইসিস → O₂ + H⁺ + e⁻; ফটোফসফোরাইলেশন → ATP; NADP → NADPH + H⁺।
+- ATP + NADPH + H⁺ = আত্তীকরণ শক্তি।
+- অন্ধকার পর্যায় (স্ট্রোমা): ATP ও NADPH + H⁺ দিয়ে CO₂ বিজারিত হয়ে শর্করা হয়।
+- ক্যালভিন চক্র = C₃; প্রথম স্থায়ী পদার্থ ৩-কার্বন ফসফোগ্লিসারিক এসিড; ক্যালভিন, নোবেল পুরস্কার ১৯৬১।
+- হ্যাচ ও স্ল্যাক (১৯৬৬) = C₄; প্রথম স্থায়ী পদার্থ ৪-কার্বন অক্সালো এসিটিক এসিড; ভুট্টা, আখ, মুথা ঘাস, নটে গাছ; হার বেশি।
+## think
+উজ্জ্বল আলোতে থাকা একটি পাতাকে হঠাৎ সম্পূর্ণ অন্ধকারে নেওয়া হলো। আলোক নিরপেক্ষ পর্যায়ে তো আলো লাগে না, তবু অল্প সময়ের মধ্যে সেটিও থেমে যায়। কেন?
+## quiz
+? ১৯০৫ সালে কে সালোকসংশ্লেষণকে দুটি পর্যায়ে ভাগ করেন?
+- ক্যালভিন
+* ব্ল্যাকম্যান
+- হ্যাচ
+- ক্রেবস
+= ইংরেজ শারীরতত্ত্ববিদ ব্ল্যাকম্যান একে আলোকনির্ভর ও আলোক নিরপেক্ষ পর্যায়ে ভাগ করেন।
+? ক্লোরোপ্লাস্টের কোথায় আলোকনির্ভর পর্যায় ঘটে?
+- স্ট্রোমা
+- বাইরের ঝিল্লি
+* গ্রানা (থাইলাকয়েড)
+- পত্ররন্ধ্র
+= ক্লোরোফিল থাকে গ্রানার থাইলাকয়েডে, তাই আলো ধরা পড়ে সেখানেই।
+? নিচের কোনটি আলোকনির্ভর পর্যায়ে উৎপন্ন হয়?
+* ATP ও NADPH + H⁺
+- গ্লুকোজ
+- কার্বন ডাই-অক্সাইড
+- অক্সালো এসিটিক এসিড
+= আলোক পর্যায়ে ATP ও NADPH + H⁺ তৈরি হয় (আর O₂ নির্গত হয়); এরাই অন্ধকার পর্যায় চালায়।
+? ক্যালভিন চক্রের প্রথম স্থায়ী পদার্থ:
+- ৪-কার্বন অক্সালো এসিটিক এসিড
+- ৬-কার্বন গ্লুকোজ
+- ২-কার্বন অ্যাসিটাইল কো-এ
+* ৩-কার্বন ফসফোগ্লিসারিক এসিড
+= এজন্যই ক্যালভিন চক্রকে C₃ গতিপথ বলা হয়।
+? নিচের কোনটি C₄ উদ্ভিদ?
+- ধান
+- আম
+* ভুট্টা
+- পাট
+= ভুট্টা, আখ, মুথা ঘাস ও নটে গাছ C₄ উদ্ভিদ।
+
+@@ 4.2.2
+@visual b4factors
+@related 4.2.1 4.2.5 5.1 6.2.3
+== en
+## what
+Chlorophyll catches the light and light supplies the energy, so photosynthesis cannot run without either of them. Its speed also depends on other **factors**, some outside the plant (light, CO₂, temperature, water, oxygen, minerals) and some inside it (chlorophyll, age of leaves, stored carbohydrate, enzymes).
+## simple
+**Role of chlorophyll (4.2.2).** Only chlorophyll can capture light energy, so the amount of chlorophyll in a leaf is directly linked to the rate of photosynthesis. Chloroplasts do not last for ever: old ones break down and new ones are made. To keep up its photosynthesis a leaf must rebuild the parts of its chloroplasts quickly and in large amounts. Your book adds one more point: if a cell has *too much* chlorophyll, there are not enough enzymes to go with it, and the rate falls.
+
+**Role of light (4.2.3).** Light does several jobs at once:
+- It is the **source of energy** for making carbohydrate from water and CO₂.
+- It takes part in the **formation of chlorophyll** (a seedling grown in the dark is pale yellow).
+- Under the influence of light the **stomata open**, so CO₂ can enter the leaf.
+
+Only a small part of the light falling on a leaf is actually used. And not all colours work equally well: the **red, blue, orange and violet** parts of the spectrum work best; **green and yellow** light work poorly (leaves mostly reflect green, which is why they look green). In general, photosynthesis is best in light of wavelength about **400–480 nm** (violet-blue) and **680 nm** (red).
+
+More light gives faster photosynthesis, **but only up to a limit**. If the light becomes extremely strong, enzymes inside the leaf are damaged and less chlorophyll is made, so the rate goes down again.
+
+**Other factors (4.2.4).** Besides light and chlorophyll, your book lists these.
+
+**(a) External factors**
+- **Carbon dioxide**: no CO₂, no photosynthesis, because the food is made by reducing CO₂. Air has about 0.03% CO₂ (now slightly more), but plants can use up to about **1%**, so the rate rises as CO₂ rises up to that level. If CO₂ becomes very high, the mesophyll cells become more acidic, the stomata close and the rate falls.
+- **Temperature**: the process cannot run at very low temperature (near **0°C**) or very high temperature (above **45°C**). The suitable (optimum) range is **22°C to 35°C**; below 22°C or above 35°C the rate decreases.
+- **Water**: the hydrogen needed to reduce CO₂ comes from water. When water is short, the guard cells of the stomata lose their firmness and the pores close, so CO₂ cannot enter. Severe shortage also stops enzymes working.
+- **Oxygen**: if the oxygen concentration of the air rises, the rate falls; if it falls, the rate rises. But with no oxygen at all, photosynthesis stops.
+- **Mineral substances**: **nitrogen** and **magnesium** are main components of chlorophyll, and without **iron** a leaf cannot make chlorophyll, so it turns yellow. If the soil lacks these minerals the rate falls.
+- **Chemical substances**: chloroform, hydrogen sulphide, methane or any poisonous gas in the air disturbs photosynthesis or stops it completely.
+
+**(b) Internal factors**
+- **Chlorophyll**: discussed above.
+- **Age and number of leaves**: very young and very old leaves have little chlorophyll, so they photosynthesise less. Middle-aged leaves do the most. More leaves mean more photosynthesis.
+- **Amount of carbohydrate**: if the sugar made is not carried away fast enough, it piles up in the leaf and slows the process. That is why the rate drops in the afternoon, when much carbohydrate has collected.
+- **Potassium**: a shortage clearly lowers the rate; potassium probably acts as a catalyst.
+- **Enzymes**: many different enzymes are needed.
+
+**The slowest supplier decides.** A useful way to think: at any moment the rate is held back by whichever factor is in shortest supply. On a dim winter morning it is light; at noon in bright sun it may be CO₂. Giving more of something that is already plentiful does not help.
+
+**Experiment 1: is light necessary?** (the starch test)
+1. Keep a potted plant in the dark for about 48 hours, so that its leaves use up their starch.
+2. Cover part of one leaf on both sides with black paper and clip it, so that no light reaches that part.
+3. Put the plant in sunlight for 6–7 hours.
+4. Pluck the leaf, remove the paper, and boil the leaf in water for a few minutes.
+5. Boil it in 95% ethyl alcohol until it loses its green colour. **Never heat alcohol directly on a flame**: put the test tube of alcohol in a beaker of hot water.
+6. Wash the pale leaf in water and dip it in 1% iodine solution.
+
+*Observation:* everything except the covered part turns blue, deep purple or black. *Conclusion:* starch gives this colour with iodine. The covered part got no light, so it made no starch. Light is essential for photosynthesis.
+
+**Experiment 2: is chlorophyll necessary?** Take a variegated leaf (for example of a croton, "patabahar", or *Manihot*) at about noon and mark or sketch its green areas. Boil it in water, then in alcohol (again in a water bath), wash it and dip it in iodine. *Observation:* only the parts that were green turn blue-black. *Conclusion:* only the parts with chlorophyll made carbohydrate. Chlorophyll is essential.
+
+**Safety.** Alcohol catches fire easily, so keep it away from open flames and always use a water bath. Handle hot water and the hot leaf with forceps, do the experiment with your teacher, and remember that iodine stains skin and clothes.
+## analogy
+Imagine cooking for a wedding feast. You have sacks of rice and plenty of water, but only one small stove. However much rice you bring, you cannot cook faster than that one stove allows. Photosynthesis is the same: the factor in shortest supply sets the speed.
+## definition
+**Factors of photosynthesis**: the conditions whose presence, absence or amount increases or decreases the rate of photosynthesis. **External factors**: light, carbon dioxide, temperature, water, oxygen, mineral substances and chemical substances. **Internal factors**: chlorophyll, age and number of leaves, amount of carbohydrate, potassium and enzymes.
+
+**Optimum temperature**: the temperature range in which the process runs best; for photosynthesis about 22°C to 35°C.
+## why
+Why does temperature matter so much? Because every step of the dark phase is driven by enzymes, and enzymes are proteins. When it is cold, molecules move slowly and enzymes work slowly. As it warms up, they work faster. But above about 45°C the enzymes lose their shape and stop working, so the rate collapses. And why does a shortage of water slow photosynthesis so quickly? Not mainly because water is a raw material, but because a thirsty plant closes its stomata to save water, and then CO₂ cannot get in.
+## terms
+Factor | A condition that changes the rate of a process
+External factor | A factor outside the plant: light, CO₂, temperature, water, oxygen, minerals, chemicals
+Internal factor | A factor inside the plant: chlorophyll, age and number of leaves, carbohydrate, potassium, enzymes
+Optimum temperature | The temperature range in which the rate is highest (22–35°C for photosynthesis)
+Guard cells | The two cells around a stoma that open and close it
+Starch test | Test with iodine solution; starch turns blue, deep purple or black
+Destarching | Keeping a plant in the dark (about 48 hours) so that its leaves have no starch
+Variegated leaf | A leaf with green and non-green (yellow, white or orange) patches
+## visual
+Choose a factor and move the slider to see how the rate of photosynthesis changes and where the best range lies. Then switch to the starch test and carry out the experiment step by step.
+## real
+In modern greenhouses, growers raise the CO₂ level and keep the temperature in the best range to get more tomatoes and capsicum. A farmer who sees the leaves of a rice crop turning yellow adds urea, because nitrogen is needed for chlorophyll. And on a scorching April noon, many crops actually make less food than in the mild morning: the stomata close to save water and the heat slows the enzymes.
+## example
+Q: In the light experiment, a leaf was partly covered with black paper, kept in the sun for 6–7 hours and then tested with iodine. Which part turns blue-black, which part does not, and what does this prove?
+Solution: Starch turns blue-black with iodine; starch is formed only where photosynthesis took place.
+Step: The uncovered part received light, made starch and turns blue-black.
+Step: The covered part received no light, made no starch and stays the yellowish-brown colour of iodine.
+Answer: Only the uncovered part turns blue-black. This proves that light is essential for photosynthesis.
+## example
+Q: Why is the plant kept in the dark for 48 hours before the experiment, and why is the leaf boiled in alcohol?
+Solution: Think about what could spoil the result.
+Step: Leaves already contain starch made earlier. In the dark no new starch is made and the old starch is used up or carried away, so the leaf becomes starch-free. Any starch found later must have been made during the experiment.
+Step: Chlorophyll's green colour would hide the colour change. Alcohol dissolves the chlorophyll and leaves the leaf pale, so the blue-black colour is easy to see.
+Answer: Darkness removes the old starch; alcohol removes the chlorophyll so that the iodine colour can be seen.
+## example
+Q: A plant is photosynthesising in good light at 30°C. Predict what happens to the rate if (i) the CO₂ in the air is raised from 0.03% to 0.5%, (ii) the temperature is raised to 50°C.
+Solution: Use the limits given in the book.
+Step: Plants can use CO₂ up to about 1%. Going from 0.03% to 0.5% is within this limit, so the rate increases.
+Step: Photosynthesis cannot run above 45°C because enzymes are damaged. At 50°C it stops.
+Answer: (i) The rate increases. (ii) Photosynthesis stops.
+## mistakes
+x The more light, the faster photosynthesis, without limit.
+v The rate rises only up to a limit; extremely strong light damages enzymes and reduces chlorophyll, so the rate falls.
+x Green light is best for photosynthesis because leaves are green.
+v Leaves look green because they reflect green light. Red and blue light are used best.
+x In the starch test the leaf is boiled in alcohol to kill it.
+v Boiling in water kills and softens the leaf; alcohol is used to remove the chlorophyll.
+x The best temperature for photosynthesis is as high as possible.
+v The best range is about 22–35°C; near 0°C and above 45°C the process cannot run.
+## remember
+- Chlorophyll alone captures light; more chlorophyll (up to a point) → higher rate.
+- Light: energy source, helps make chlorophyll, opens stomata. Red, blue, orange, violet work best; green and yellow poorly. Best at 400–480 nm and 680 nm.
+- CO₂: 0.03% in air; rate rises up to about 1%; too much closes the stomata.
+- Temperature: stops near 0°C and above 45°C; optimum 22–35°C.
+- Water shortage closes the stomata; N and Mg are in chlorophyll; Fe is needed to make it.
+- Internal factors: chlorophyll, age and number of leaves, carbohydrate build-up, potassium, enzymes.
+- Starch + iodine → blue, deep purple or black. Covered part: no starch. Non-green part: no starch.
+## think
+In the afternoon the sun is still bright, yet the rate of photosynthesis in a leaf is lower than in the late morning. Give two reasons from this lesson.
+## quiz
+? Which colours of light are most effective for photosynthesis?
+- Green and yellow
+* Red and blue
+- Only green
+- Only yellow
+= Red, blue, orange and violet light work well; green and yellow do not.
+? The optimum temperature range for photosynthesis is:
+- 0°C to 10°C
+- 10°C to 20°C
+* 22°C to 35°C
+- 45°C to 60°C
+= Below 22°C or above 35°C the rate falls; near 0°C and above 45°C it cannot run.
+? Leaves turn yellow when the soil lacks iron because:
+- Iron is the source of energy
+- Iron opens the stomata
+- Iron is a part of starch
+* Without iron the leaf cannot make chlorophyll
+= Nitrogen and magnesium are components of chlorophyll, and iron is needed for its synthesis.
+? In the starch test, the leaf is boiled in alcohol to:
+* Remove chlorophyll
+- Add starch
+- Make it green
+- Add iodine
+= Alcohol dissolves chlorophyll, so the colour change with iodine becomes visible.
+? In a variegated leaf tested with iodine, which part turns blue-black?
+- The yellow part
+* The green part
+- The whole leaf
+- No part
+= Only the green part has chlorophyll, so only it made starch.
+== bn
+## what
+ক্লোরোফিল আলো ধরে আর আলো শক্তি জোগায়, তাই এ দুটির কোনোটি ছাড়া সালোকসংশ্লেষণ চলতে পারে না। এর গতি আরও কিছু **প্রভাবকের** ওপর নির্ভর করে: কিছু উদ্ভিদের বাইরের (আলো, CO₂, তাপমাত্রা, পানি, অক্সিজেন, খনিজ), কিছু ভেতরের (ক্লোরোফিল, পাতার বয়স, জমা শর্করা, এনজাইম)।
+## simple
+**ক্লোরোফিলের ভূমিকা (৪.২.২)।** একমাত্র ক্লোরোফিলই আলোকশক্তি গ্রহণ করতে পারে, তাই পাতায় ক্লোরোফিলের পরিমাণের সাথে সালোকসংশ্লেষণের হারের সরাসরি সম্পর্ক আছে। ক্লোরোপ্লাস্ট চিরকাল টেকে না: পুরোনোগুলো নষ্ট হয়, নতুন তৈরি হয়। সালোকসংশ্লেষণের ক্ষমতা ধরে রাখতে পাতাকে ক্লোরোপ্লাস্টের উপাদানগুলো দ্রুত ও প্রচুর পরিমাণে আবার গড়ে নিতে হয়। তোমার বইয়ে আরেকটি কথা আছে: কোষে ক্লোরোফিল *খুব বেশি* হয়ে গেলে তার সাথে তাল মেলানোর মতো এনজাইম থাকে না, ফলে হার কমে যায়।
+
+**আলোর ভূমিকা (৪.২.৩)।** আলো একসাথে কয়েকটি কাজ করে:
+- পানি ও CO₂ থেকে শর্করা তৈরির **শক্তির উৎস** আলো।
+- আলো **ক্লোরোফিল সৃষ্টিতে** অংশ নেয় (অন্ধকারে গজানো চারা ফ্যাকাশে হলুদ হয়)।
+- আলোর প্রভাবে **পত্ররন্ধ্র খোলে**, ফলে CO₂ পাতার ভেতরে ঢুকতে পারে।
+
+পাতায় যত আলো পড়ে, তার অতি সামান্য অংশই আসলে কাজে লাগে। আবার সব রঙের আলো সমান কাজের নয়: আলোকবর্ণালির **লাল, নীল, কমলা ও বেগুনি** অংশে সালোকসংশ্লেষণ ভালো হয়; **সবুজ ও হলুদ** আলোতে ভালো হয় না (পাতা সবুজ আলোর বেশির ভাগ ফিরিয়ে দেয়, তাই পাতা সবুজ দেখায়)। সাধারণত প্রায় **৪০০–৪৮০ nm** (বেগুনি-নীল) ও **৬৮০ nm** (লাল) তরঙ্গদৈর্ঘ্যের আলোতে সালোকসংশ্লেষণ সবচেয়ে ভালো হয়।
+
+আলো বাড়লে সালোকসংশ্লেষণও বাড়ে, **তবে একটি নির্দিষ্ট সীমা পর্যন্ত**। আলো অত্যধিক তীব্র হলে পাতার ভেতরের এনজাইম নষ্ট হয়, ক্লোরোফিল কম তৈরি হয়, ফলে হার আবার কমে যায়।
+
+**অন্যান্য প্রভাবক (৪.২.৪)।** আলো ও ক্লোরোফিল ছাড়াও তোমার বইয়ে এই প্রভাবকগুলোর কথা আছে।
+
+**(ক) বাহ্যিক প্রভাবক**
+- **কার্বন ডাই-অক্সাইড**: CO₂ ছাড়া সালোকসংশ্লেষণ চলে না, কারণ খাদ্য তৈরি হয় CO₂ বিজারণের ফলেই। বাতাসে CO₂ প্রায় ০.০৩% (এখন সামান্য বেশি), কিন্তু উদ্ভিদ প্রায় **১%** পর্যন্ত ব্যবহার করতে পারে; তাই ওই মাত্রা পর্যন্ত CO₂ বাড়লে হারও বাড়ে। CO₂ খুব বেশি বেড়ে গেলে মেসোফিল কোষের অম্লত্ব বাড়ে, পত্ররন্ধ্র বন্ধ হয়ে যায়, হার কমে।
+- **তাপমাত্রা**: অতি নিম্ন তাপমাত্রায় (**০°C**-এর কাছাকাছি) আর অতি উচ্চ তাপমাত্রায় (**৪৫°C**-এর ওপরে) এ প্রক্রিয়া চলতে পারে না। পরিমিত (optimum) তাপমাত্রা **২২°C থেকে ৩৫°C**; ২২°C-এর কম বা ৩৫°C-এর বেশি হলে হার কমে যায়।
+- **পানি**: CO₂ বিজারণের জন্য প্রয়োজনীয় হাইড্রোজেন আসে পানি থেকে। পানির ঘাটতি হলে পত্ররন্ধ্রের রক্ষীকোষ স্ফীতি হারায় আর রন্ধ্র বন্ধ হয়ে যায়, ফলে CO₂ ঢুকতে পারে না। অতিরিক্ত ঘাটতিতে এনজাইমের সক্রিয়তাও নষ্ট হয়।
+- **অক্সিজেন**: বাতাসে অক্সিজেনের ঘনত্ব বাড়লে হার কমে, কমলে হার বাড়ে। তবে অক্সিজেনবিহীন পরিবেশে সালোকসংশ্লেষণ বন্ধ থাকে।
+- **খনিজ পদার্থ**: ক্লোরোফিলের প্রধান উপকরণ **নাইট্রোজেন** ও **ম্যাগনেসিয়াম**, আর **লোহা** না থাকলে পাতা ক্লোরোফিল তৈরি করতে পারে না, ফলে পাতা হলুদ হয়ে যায়। মাটিতে এসব খনিজের অভাব হলে হার কমে।
+- **রাসায়নিক পদার্থ**: বাতাসে ক্লোরোফর্ম, হাইড্রোজেন সালফাইড, মিথেন বা কোনো বিষাক্ত গ্যাস থাকলে সালোকসংশ্লেষণে ব্যাঘাত ঘটে বা একেবারে বন্ধ হয়ে যায়।
+
+**(খ) অভ্যন্তরীণ প্রভাবক**
+- **ক্লোরোফিল**: ওপরে আলোচনা করা হয়েছে।
+- **পাতার বয়স ও সংখ্যা**: একেবারে কচি আর একেবারে বয়স্ক পাতায় ক্লোরোফিল কম, তাই সালোকসংশ্লেষণ কম। মধ্যবয়সি পাতায় সবচেয়ে বেশি। পাতার সংখ্যা বেশি হলে সালোকসংশ্লেষণও বেশি।
+- **শর্করার পরিমাণ**: তৈরি শর্করা যথেষ্ট দ্রুত সরে না গেলে পাতায় জমে যায় আর প্রক্রিয়া ধীর হয়। এজন্যই বিকেলে, যখন পাতায় অনেক শর্করা জমে, সালোকসংশ্লেষণের গতি মন্থর হয়।
+- **পটাশিয়াম**: এর অভাবে হার বেশ কমে যায়; সম্ভবত পটাশিয়াম অনুঘটক হিসেবে কাজ করে।
+- **এনজাইম**: নানা ধরনের এনজাইম প্রয়োজন হয়।
+
+**যার জোগান সবচেয়ে কম, সে-ই গতি ঠিক করে।** এভাবে ভাবলে সুবিধা হয়: যেকোনো মুহূর্তে যে প্রভাবকের জোগান সবচেয়ে কম, সেটিই হারকে আটকে রাখে। শীতের আবছা সকালে সেটা আলো; দুপুরের কড়া রোদে হয়তো CO₂। যা আগে থেকেই যথেষ্ট আছে, তা আরও বাড়িয়ে লাভ হয় না।
+
+**পরীক্ষা ১: আলো কি অপরিহার্য?** (শ্বেতসার পরীক্ষা)
+1. টবের একটি গাছকে প্রায় ৪৮ ঘণ্টা অন্ধকারে রাখো, যাতে পাতাগুলো শ্বেতসারবিহীন হয়ে পড়ে।
+2. একটি পাতার একাংশের উভয় দিক কালো কাগজ দিয়ে ঢেকে ক্লিপ দিয়ে আটকাও, যেন ওই অংশে আলো না পৌঁছায়।
+3. গাছটিকে ৬–৭ ঘণ্টা সূর্যালোকে রাখো।
+4. পাতাটি ছিঁড়ে কাগজ খুলে ফেলো, তারপর কয়েক মিনিট পানিতে সিদ্ধ করো।
+5. ৯৫% ইথাইল অ্যালকোহলে সিদ্ধ করো, যতক্ষণ না পাতা বিবর্ণ হয়। **অ্যালকোহলে কখনো সরাসরি আগুনের তাপ দেবে না**: অ্যালকোহলসহ টেস্ট টিউবটি বিকারের গরম পানিতে বসাও।
+6. বিবর্ণ পাতাটি পানিতে ধুয়ে ১% আয়োডিন দ্রবণে ডোবাও।
+
+*পর্যবেক্ষণ:* ঢাকা অংশ ছাড়া বাকি সবটুকু নীল, গাঢ় বেগুনি বা কালো হয়ে যায়। *সিদ্ধান্ত:* শ্বেতসার আয়োডিনের সাথে এই রং দেয়। ঢাকা অংশে আলো পৌঁছায়নি, তাই সেখানে শ্বেতসার তৈরি হয়নি। সালোকসংশ্লেষণের জন্য আলো অপরিহার্য।
+
+**পরীক্ষা ২: ক্লোরোফিল কি অপরিহার্য?** দুপুরের দিকে একটি বাহারি পাতা (যেমন পাতাবাহার বা ম্যানিহট গাছের) নাও এবং এর সবুজ অংশগুলো চিহ্নিত করো বা এঁকে রাখো। পানিতে সিদ্ধ করো, তারপর অ্যালকোহলে (আবারও গরম পানির পাত্রে বসিয়ে), ধুয়ে নিয়ে আয়োডিন দ্রবণে ডোবাও। *পর্যবেক্ষণ:* শুধু যে অংশগুলো সবুজ ছিল সেগুলোই নীল-কালো হয়। *সিদ্ধান্ত:* কেবল ক্লোরোফিলযুক্ত অংশই শর্করা তৈরি করেছে। ক্লোরোফিল অপরিহার্য।
+
+**সতর্কতা।** অ্যালকোহলে সহজে আগুন ধরে, তাই খোলা আগুন থেকে দূরে রাখো আর সবসময় গরম পানির পাত্র (ওয়াটার বাথ) ব্যবহার করো। গরম পানি ও গরম পাতা ফোরসেপ দিয়ে ধরো, পরীক্ষাটি শিক্ষকের সাথে করো, আর মনে রেখো আয়োডিন ত্বকে ও কাপড়ে দাগ ফেলে।
+## analogy
+বিয়েবাড়ির রান্নার কথা ভাবো। বস্তা বস্তা চাল আছে, পানিও প্রচুর, কিন্তু চুলা মাত্র একটি, তাও ছোট। যত চালই আনো, ওই এক চুলা যতটুকু পারে তার চেয়ে দ্রুত রান্না হবে না। সালোকসংশ্লেষণও তেমন: যার জোগান সবচেয়ে কম, সে-ই গতি ঠিক করে।
+## definition
+**সালোকসংশ্লেষণের প্রভাবক**: যেসব বিষয়ের উপস্থিতি, অনুপস্থিতি বা পরিমাণের কম-বেশিতে সালোকসংশ্লেষণের হার বাড়ে বা কমে। **বাহ্যিক প্রভাবক**: আলো, কার্বন ডাই-অক্সাইড, তাপমাত্রা, পানি, অক্সিজেন, খনিজ পদার্থ ও রাসায়নিক পদার্থ। **অভ্যন্তরীণ প্রভাবক**: ক্লোরোফিল, পাতার বয়স ও সংখ্যা, শর্করার পরিমাণ, পটাশিয়াম ও এনজাইম।
+
+**পরিমিত তাপমাত্রা (optimum temperature)**: যে তাপমাত্রা-সীমায় প্রক্রিয়াটি সবচেয়ে ভালো চলে; সালোকসংশ্লেষণের জন্য প্রায় ২২°C থেকে ৩৫°C।
+## why
+তাপমাত্রা এত গুরুত্বপূর্ণ কেন? কারণ অন্ধকার পর্যায়ের প্রতিটি ধাপ চালায় এনজাইম, আর এনজাইম হলো প্রোটিন। ঠান্ডায় অণুগুলো ধীরে চলে, এনজাইমও ধীরে কাজ করে। গরম বাড়লে কাজ দ্রুত হয়। কিন্তু প্রায় ৪৫°C-এর ওপরে এনজাইমের গঠন নষ্ট হয়ে কাজ থেমে যায়, তাই হার হঠাৎ পড়ে যায়। আর পানির অভাবে সালোকসংশ্লেষণ এত তাড়াতাড়ি কমে কেন? মূল কারণ এটা নয় যে পানি একটি কাঁচামাল; আসল কারণ, তৃষ্ণার্ত উদ্ভিদ পানি বাঁচাতে পত্ররন্ধ্র বন্ধ করে দেয়, তখন CO₂ আর ঢুকতে পারে না।
+## terms
+প্রভাবক | যে বিষয় কোনো প্রক্রিয়ার হার বদলে দেয়
+বাহ্যিক প্রভাবক | উদ্ভিদের বাইরের প্রভাবক: আলো, CO₂, তাপমাত্রা, পানি, অক্সিজেন, খনিজ পদার্থ, রাসায়নিক পদার্থ
+অভ্যন্তরীণ প্রভাবক | উদ্ভিদের ভেতরের প্রভাবক: ক্লোরোফিল, পাতার বয়স ও সংখ্যা, শর্করা, পটাশিয়াম, এনজাইম
+পরিমিত তাপমাত্রা | যে তাপমাত্রা-সীমায় হার সবচেয়ে বেশি (সালোকসংশ্লেষণে ২২–৩৫°C)
+রক্ষীকোষ | পত্ররন্ধ্রের দুপাশের দুটি কোষ, যারা রন্ধ্র খোলে ও বন্ধ করে
+শ্বেতসার পরীক্ষা | আয়োডিন দ্রবণ দিয়ে পরীক্ষা; শ্বেতসার নীল, গাঢ় বেগুনি বা কালো হয়
+শ্বেতসারবিহীন করা | গাছকে (প্রায় ৪৮ ঘণ্টা) অন্ধকারে রাখা, যাতে পাতায় শ্বেতসার না থাকে
+বাহারি পাতা | যে পাতায় সবুজ ও অসবুজ (হলুদ, সাদা বা কমলা) ছোপ থাকে
+## visual
+একটি প্রভাবক বেছে নিয়ে স্লাইডার সরাও, দেখো সালোকসংশ্লেষণের হার কীভাবে বদলায় আর সবচেয়ে ভালো সীমা কোথায়। তারপর শ্বেতসার পরীক্ষায় গিয়ে ধাপে ধাপে পরীক্ষাটি করো।
+## real
+আধুনিক গ্রিনহাউসে চাষিরা CO₂-এর মাত্রা বাড়িয়ে আর তাপমাত্রা সেরা সীমায় রেখে বেশি টমেটো ও ক্যাপসিকাম ফলান। ধানগাছের পাতা হলুদ হতে দেখলে কৃষক ইউরিয়া দেন, কারণ ক্লোরোফিল তৈরিতে নাইট্রোজেন লাগে। আর চৈত্র-বৈশাখের কাঠফাটা দুপুরে অনেক ফসল আসলে সকালের নরম রোদের চেয়ে কম খাদ্য তৈরি করে: পানি বাঁচাতে পত্ররন্ধ্র বন্ধ হয়ে যায়, আর গরমে এনজাইম ধীর হয়ে পড়ে।
+## example
+প্রশ্ন: আলোর পরীক্ষায় একটি পাতার একাংশ কালো কাগজে ঢেকে ৬–৭ ঘণ্টা রোদে রেখে আয়োডিন দিয়ে পরীক্ষা করা হলো। কোন অংশ নীল-কালো হবে, কোন অংশ হবে না, আর এতে কী প্রমাণিত হয়?
+সমাধান: শ্বেতসার আয়োডিনে নীল-কালো হয়; শ্বেতসার তৈরি হয় শুধু সেখানে, যেখানে সালোকসংশ্লেষণ হয়েছে।
+ধাপ: খোলা অংশ আলো পেয়েছে, শ্বেতসার তৈরি করেছে, তাই নীল-কালো হয়।
+ধাপ: ঢাকা অংশ আলো পায়নি, শ্বেতসার তৈরি করেনি, তাই আয়োডিনের হলদে-বাদামি রঙেই থেকে যায়।
+উত্তর: শুধু খোলা অংশ নীল-কালো হয়। এতে প্রমাণিত হয় সালোকসংশ্লেষণের জন্য আলো অপরিহার্য।
+## example
+প্রশ্ন: পরীক্ষার আগে গাছকে ৪৮ ঘণ্টা অন্ধকারে রাখা হয় কেন, আর পাতাকে অ্যালকোহলে সিদ্ধ করা হয় কেন?
+সমাধান: ভাবো, কী কী কারণে ফলাফল ভুল হতে পারত।
+ধাপ: পাতায় আগে তৈরি শ্বেতসার থাকে। অন্ধকারে নতুন শ্বেতসার তৈরি হয় না, আর পুরোনোটা খরচ হয়ে যায় বা অন্যত্র চলে যায়, ফলে পাতা শ্বেতসারবিহীন হয়। এরপর যে শ্বেতসার পাওয়া যাবে তা নিশ্চিতভাবেই পরীক্ষার সময়ে তৈরি।
+ধাপ: ক্লোরোফিলের সবুজ রং থাকলে রঙের পরিবর্তন ঢাকা পড়ে যেত। অ্যালকোহল ক্লোরোফিলকে দ্রবীভূত করে পাতাকে বিবর্ণ করে, তাই নীল-কালো রং সহজে দেখা যায়।
+উত্তর: অন্ধকার পুরোনো শ্বেতসার সরায়; অ্যালকোহল ক্লোরোফিল সরায়, যাতে আয়োডিনের রং দেখা যায়।
+## example
+প্রশ্ন: একটি উদ্ভিদ ভালো আলোতে ৩০°C তাপমাত্রায় সালোকসংশ্লেষণ করছে। হারের কী হবে অনুমান করো, যদি (i) বাতাসের CO₂ ০.০৩% থেকে বাড়িয়ে ০.৫% করা হয়, (ii) তাপমাত্রা বাড়িয়ে ৫০°C করা হয়।
+সমাধান: বইয়ে দেওয়া সীমাগুলো কাজে লাগাও।
+ধাপ: উদ্ভিদ প্রায় ১% পর্যন্ত CO₂ ব্যবহার করতে পারে। ০.০৩% থেকে ০.৫% এই সীমার ভেতরে, তাই হার বাড়বে।
+ধাপ: ৪৫°C-এর ওপরে এনজাইম নষ্ট হয় বলে সালোকসংশ্লেষণ চলতে পারে না। ৫০°C-এ তা বন্ধ হয়ে যাবে।
+উত্তর: (i) হার বাড়বে। (ii) সালোকসংশ্লেষণ বন্ধ হয়ে যাবে।
+## mistakes
+x আলো যত বাড়বে, সালোকসংশ্লেষণ তত বাড়তেই থাকবে।
+v হার বাড়ে শুধু একটি সীমা পর্যন্ত; অত্যধিক তীব্র আলোতে এনজাইম নষ্ট হয়, ক্লোরোফিল কমে, তাই হার কমে যায়।
+x পাতা সবুজ, তাই সবুজ আলোতেই সালোকসংশ্লেষণ সবচেয়ে ভালো হয়।
+v পাতা সবুজ দেখায় কারণ তা সবুজ আলো ফিরিয়ে দেয়। সবচেয়ে ভালো কাজে লাগে লাল ও নীল আলো।
+x শ্বেতসার পরীক্ষায় পাতাকে মেরে ফেলার জন্য অ্যালকোহলে সিদ্ধ করা হয়।
+v পানিতে সিদ্ধ করলে পাতা মরে ও নরম হয়; অ্যালকোহল লাগে ক্লোরোফিল সরাতে।
+x তাপমাত্রা যত বেশি, সালোকসংশ্লেষণ তত ভালো।
+v সবচেয়ে ভালো সীমা প্রায় ২২–৩৫°C; ০°C-এর কাছে আর ৪৫°C-এর ওপরে প্রক্রিয়াটি চলতে পারে না।
+## remember
+- একমাত্র ক্লোরোফিলই আলো ধরে; ক্লোরোফিল বেশি (একটা সীমা পর্যন্ত) → হার বেশি।
+- আলো: শক্তির উৎস, ক্লোরোফিল তৈরিতে সাহায্য করে, পত্ররন্ধ্র খোলে। লাল, নীল, কমলা, বেগুনি আলোতে ভালো; সবুজ ও হলুদে ভালো নয়। সেরা ৪০০–৪৮০ nm ও ৬৮০ nm।
+- CO₂: বাতাসে ০.০৩%; প্রায় ১% পর্যন্ত হার বাড়ে; খুব বেশি হলে পত্ররন্ধ্র বন্ধ হয়।
+- তাপমাত্রা: ০°C-এর কাছে ও ৪৫°C-এর ওপরে বন্ধ; পরিমিত ২২–৩৫°C।
+- পানির অভাবে পত্ররন্ধ্র বন্ধ হয়; N ও Mg ক্লোরোফিলের উপাদান; Fe ছাড়া ক্লোরোফিল তৈরি হয় না।
+- অভ্যন্তরীণ প্রভাবক: ক্লোরোফিল, পাতার বয়স ও সংখ্যা, জমা শর্করা, পটাশিয়াম, এনজাইম।
+- শ্বেতসার + আয়োডিন → নীল, গাঢ় বেগুনি বা কালো। ঢাকা অংশে শ্বেতসার নেই। অসবুজ অংশে শ্বেতসার নেই।
+## think
+বিকেলেও রোদ বেশ উজ্জ্বল থাকে, তবু পাতায় সালোকসংশ্লেষণের হার সকালের শেষ ভাগের চেয়ে কম। এই পাঠ থেকে দুটি কারণ বলো।
+## quiz
+? কোন রঙের আলো সালোকসংশ্লেষণে সবচেয়ে কার্যকর?
+- সবুজ ও হলুদ
+* লাল ও নীল
+- শুধু সবুজ
+- শুধু হলুদ
+= লাল, নীল, কমলা ও বেগুনি আলোতে ভালো হয়; সবুজ ও হলুদে ভালো হয় না।
+? সালোকসংশ্লেষণের পরিমিত তাপমাত্রা:
+- ০°C থেকে ১০°C
+- ১০°C থেকে ২০°C
+* ২২°C থেকে ৩৫°C
+- ৪৫°C থেকে ৬০°C
+= ২২°C-এর কম বা ৩৫°C-এর বেশি হলে হার কমে; ০°C-এর কাছে ও ৪৫°C-এর ওপরে চলতে পারে না।
+? মাটিতে লোহার অভাব হলে পাতা হলুদ হয়ে যায়, কারণ:
+- লোহা শক্তির উৎস
+- লোহা পত্ররন্ধ্র খোলে
+- লোহা শ্বেতসারের অংশ
+* লোহা ছাড়া পাতা ক্লোরোফিল তৈরি করতে পারে না
+= নাইট্রোজেন ও ম্যাগনেসিয়াম ক্লোরোফিলের উপাদান, আর লোহা লাগে ক্লোরোফিল সংশ্লেষণে।
+? শ্বেতসার পরীক্ষায় পাতাকে অ্যালকোহলে সিদ্ধ করা হয়:
+* ক্লোরোফিল সরানোর জন্য
+- শ্বেতসার যোগ করার জন্য
+- পাতাকে সবুজ করার জন্য
+- আয়োডিন যোগ করার জন্য
+= অ্যালকোহল ক্লোরোফিলকে দ্রবীভূত করে, তাই আয়োডিনে রঙের পরিবর্তন স্পষ্ট দেখা যায়।
+? বাহারি পাতাকে আয়োডিন দিয়ে পরীক্ষা করলে কোন অংশ নীল-কালো হয়?
+- হলুদ অংশ
+* সবুজ অংশ
+- পুরো পাতা
+- কোনো অংশই নয়
+= শুধু সবুজ অংশে ক্লোরোফিল আছে, তাই শুধু সেখানেই শ্বেতসার তৈরি হয়েছে।
+
+@@ 4.2.5
+@visual b4plate
+@related 4.2 4.3 13.3 13.4
+== en
+## what
+Photosynthesis is the most important biochemical process in the living world: it makes the food of all plants and animals, keeps the oxygen and carbon dioxide of the air in balance, and supplies the materials and fuels on which human civilisation runs.
+## simple
+**A bridge between the sun and life.** The sun pours energy on the Earth, but living things cannot eat sunlight. Photosynthesis is the bridge that carries the sun's energy into the living world. It goes on in every green leaf, in every field, forest, pond and ocean, on such a huge scale that some scientists have called it the world's **biochemical factory**.
+
+**1. Food for all.** Only green plants can turn solar energy into chemical energy and lock it inside food. No animal can make its own food. Whatever we eat comes from green plants, **directly or indirectly**:
+- directly: rice, bread, fruits, vegetables, dal
+- indirectly: fish, meat, milk, eggs (the animals ate plants, or ate other animals that ate plants)
+
+So the whole animal world depends completely on green plants for food, and green plants make that food by photosynthesis. Plants themselves live on it too.
+
+**2. The balance of gases in the air.** Air contains about **20.95% oxygen** and about **0.033% carbon dioxide** (your book's figure; because of burning fuels and cutting forests the CO₂ has now risen to a little over 0.04%). For plants and animals to grow and live normally, these two gases must stay at their normal levels.
+
+Now think: every living thing, plant or animal, **respires all the time**, taking in O₂ and giving out CO₂. If only respiration went on, oxygen would run short and carbon dioxide would pile up. But green plants do the opposite in photosynthesis: they take in CO₂ and give out O₂. That is how the right ratio is kept.
+
+Today this balance is in danger because forests are being destroyed at a great rate. So we must plant trees, many of them, and look after the ones we have.
+
+**3. Human civilisation.** Our progress depends on photosynthesis, directly or indirectly:
+- **food and clothing** (rice, wheat; cotton and jute fibre)
+- **industrial materials**: rayon, paper, cellulose, timber, rubber
+- **medicines**: quinine, morphine
+- **fuels**: firewood, and also coal, petrol and natural gas, which were formed from plants and other organisms that lived long ago
+
+When you burn coal or gas you are releasing sunlight that was trapped by photosynthesis millions of years ago.
+
+**4. It made the Earth fit to live on.** When the Earth was formed (your book says about 5 billion years ago; scientists now put it at about 4.5 billion), there was **no oxygen gas** in its air. The earliest photosynthesising organisms, which your book calls primitive plants and which were tiny microbes living in water, slowly filled the air with oxygen. Without them, we could not breathe here.
+
+So if photosynthesis stopped, human civilisation would be ruined and the living world would disappear. That is why it is called the most important biochemical process in the living world.
+## analogy
+Imagine a village with only one rice mill, and every family, shop and hotel gets its rice from it. If the mill closes, the whole village goes hungry, even people who never visited the mill themselves. Photosynthesis is that one mill for the whole living world.
+## definition
+**Importance of photosynthesis**: photosynthesis is the process through which (i) solar energy enters the living world and the food of all organisms is produced, (ii) the proper ratio of O₂ and CO₂ in the atmosphere is maintained, and (iii) humans obtain food, clothing, industrial materials, medicines and fuels. It is therefore regarded as the most important biochemical process of the living world.
+## why
+Why can animals not do without plants even if they eat only meat? Because energy flows one way: sun → plant → plant-eater → meat-eater. A tiger eats a deer, but the deer built its body from grass and leaves. Take the plants away and the chain has no first link. The same is true for gases: animals only use up oxygen, they never make it. Only photosynthesis puts oxygen back into the air.
+## terms
+Biochemical factory | A name some scientists give to photosynthesis because of its enormous scale
+Directly dependent | Eating plants or plant parts (rice, fruit, vegetables)
+Indirectly dependent | Eating animals or animal products that were built from plants (fish, milk, eggs)
+Gas balance | The steady ratio of O₂ (about 20.95%) and CO₂ (about 0.033%) in the air
+Fossil fuel | Coal, petrol and gas formed from ancient organisms; stored energy of past photosynthesis
+Deforestation | Destroying forests; it disturbs the O₂–CO₂ balance
+## visual
+Tap a food on the plate and follow its energy backwards, link by link. Where does every chain end?
+## real
+The Sundarbans, the hill forests of Chattogram and every roadside tree in your town are busy taking in carbon dioxide and giving out oxygen. That is why tree-planting campaigns are held every monsoon in Bangladesh, and why people say a country should keep about a quarter of its land under forest. Even the gas burning in your kitchen stove is ancient sunlight, caught by photosynthesis long before there were humans.
+## example
+Q: Shimu had rice, hilsa fish and a glass of milk for lunch. Show that all three depend on photosynthesis.
+Solution: Trace each food back until you reach a green plant.
+Step: Rice is the seed of the paddy plant, which made its starch by photosynthesis: direct dependence.
+Step: Hilsa feeds on tiny plankton; the animal plankton feed on plant plankton, which photosynthesise: indirect dependence.
+Step: Milk comes from a cow that ate grass and straw: indirect dependence.
+Answer: Rice comes directly from a green plant; hilsa and milk come indirectly. All three chains begin with photosynthesis and the sun.
+## example
+Q: Using the equation 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O, find how much CO₂ a crop removes from the air and how much O₂ it adds while making 1 kg (1000 g) of glucose. (Molar masses: glucose 180 g, CO₂ 44 g, O₂ 32 g)
+Given: 180 g glucose needs 6 × 44 = 264 g CO₂ and gives 6 × 32 = 192 g O₂
+Calculation: CO₂ removed = (1000 ÷ 180) × 264 ≈ 1467 g; O₂ added = (1000 ÷ 180) × 192 ≈ 1067 g
+> So every kilogram of sugar a plant makes takes nearly one and a half kilograms of CO₂ out of the air.
+Answer: about 1.47 kg of CO₂ is removed and about 1.07 kg of O₂ is released.
+## example
+Q: "Running a car on petrol is also using the energy of the sun." Explain.
+Solution: Ask where the energy in petrol came from.
+Step: Petrol comes from mineral oil, which was formed over millions of years from the remains of ancient organisms.
+Step: Those organisms got their energy from food made by photosynthesis, that is, from sunlight.
+Answer: The chemical energy in petrol is solar energy that was trapped by photosynthesis long ago and stored underground.
+## mistakes
+x Meat-eaters do not depend on plants.
+v They depend on them indirectly: the animals they eat lived on plants.
+x Plants only give out oxygen; they never use it.
+v Plants respire day and night and use oxygen. In light they release far more oxygen than they use.
+x Coal, petrol and gas have nothing to do with photosynthesis.
+v They are the remains of ancient organisms, so their energy was first trapped by photosynthesis.
+x Cutting a few forests cannot affect the air.
+v Fewer trees take in less CO₂ and give out less O₂, so large-scale forest loss disturbs the gas balance.
+## remember
+- Photosynthesis is the bridge between sunlight and life: the "biochemical factory".
+- All food of plants and animals comes from it, directly or indirectly.
+- It keeps the O₂ (about 20.95%) and CO₂ (about 0.033%) of the air in balance; respiration alone would use up O₂.
+- Food, clothing, rayon, paper, timber, rubber, quinine, morphine, coal, petrol and gas all come from plants.
+- The early Earth had no oxygen gas; photosynthesis made it habitable.
+- Destroying forests upsets the balance, so we must plant and protect trees.
+## think
+Suppose all the green plants and algae of the Earth stopped photosynthesising today. List, in order, the things that would go wrong for animals and humans.
+## quiz
+? Which process keeps the ratio of O₂ and CO₂ in the atmosphere balanced?
+- Respiration alone
+* Photosynthesis (together with respiration)
+- Transpiration
+- Digestion
+= Respiration uses O₂ and releases CO₂; photosynthesis does the opposite and so keeps the balance.
+? According to your book, the amount of oxygen gas in air is about:
+- 0.033%
+- 78%
+* 20.95%
+- 50%
+= Air has about 20.95% O₂ and about 0.033% CO₂ (now a little more).
+? Which of these foods depends on photosynthesis only indirectly?
+- Rice
+- Mango
+- Spinach
+* Egg
+= The hen that laid the egg lived on grain; the others are plant parts.
+? Why is photosynthesis called the "biochemical factory" of the world?
+* Because it goes on everywhere on a vast scale and produces the food of the living world
+- Because it takes place in factories
+- Because it produces only chemicals for industry
+- Because it needs machines
+= Some scientists gave it this name after seeing how vast the process is on Earth.
+== bn
+## what
+সালোকসংশ্লেষণ জীবজগতের সবচেয়ে গুরুত্বপূর্ণ জৈব রাসায়নিক প্রক্রিয়া: এটি সব উদ্ভিদ ও প্রাণীর খাদ্য তৈরি করে, বাতাসের অক্সিজেন ও কার্বন ডাই-অক্সাইডের ভারসাম্য রাখে, আর মানবসভ্যতা যেসব উপকরণ ও জ্বালানিতে চলে তা জোগায়।
+## simple
+**সূর্য আর জীবনের সেতু।** সূর্য পৃথিবীতে অঢেল শক্তি ঢালছে, কিন্তু জীব তো রোদ খেতে পারে না। সালোকসংশ্লেষণ হলো সেই সেতু, যা সূর্যের শক্তিকে জীবজগতে নিয়ে আসে। প্রতিটি সবুজ পাতায়, প্রতিটি মাঠে, বনে, পুকুরে আর সমুদ্রে এটি চলছে, এত বিশাল পরিসরে যে কোনো কোনো বিজ্ঞানী একে বিশ্বের **জৈব রাসায়নিক কারখানা** বলেছেন।
+
+**১. সবার খাদ্য।** একমাত্র সবুজ উদ্ভিদই সৌরশক্তিকে রাসায়নিক শক্তিতে বদলে খাদ্যের মধ্যে আবদ্ধ করতে পারে। কোনো প্রাণী নিজের খাদ্য নিজে তৈরি করতে পারে না। আমরা যা-ই খাই, তা **প্রত্যক্ষ বা পরোক্ষভাবে** সবুজ উদ্ভিদ থেকে আসে:
+- প্রত্যক্ষভাবে: ভাত, রুটি, ফলমূল, শাকসবজি, ডাল
+- পরোক্ষভাবে: মাছ, মাংস, দুধ, ডিম (এই প্রাণীরা উদ্ভিদ খেয়েছে, কিংবা এমন প্রাণী খেয়েছে যারা উদ্ভিদ খায়)
+
+তাই খাদ্যের জন্য সমগ্র প্রাণিকুল সবুজ উদ্ভিদের ওপর সম্পূর্ণ নির্ভরশীল, আর সবুজ উদ্ভিদ সেই খাদ্য তৈরি করে সালোকসংশ্লেষণে। উদ্ভিদ নিজেও এই খাদ্যেই বাঁচে।
+
+**২. বাতাসে গ্যাসের ভারসাম্য।** বাতাসে অক্সিজেন প্রায় **২০.৯৫%** আর কার্বন ডাই-অক্সাইড প্রায় **০.০৩৩%** (তোমার বইয়ের হিসাব; জ্বালানি পোড়ানো ও বন কাটার ফলে CO₂ এখন বেড়ে ০.০৪%-এর কিছু বেশি)। উদ্ভিদ ও প্রাণীর স্বাভাবিক বৃদ্ধি আর জীবনযাপনের জন্য এ দুটি গ্যাসের পরিমাণ স্বাভাবিক পর্যায়ে থাকতে হয়।
+
+এবার ভাবো: উদ্ভিদ হোক বা প্রাণী, সব জীব **সব সময় শ্বসন করে**, অর্থাৎ O₂ নেয় আর CO₂ ছাড়ে। কেবল শ্বসন চলতে থাকলে বাতাসে অক্সিজেন কমে যেত আর কার্বন ডাই-অক্সাইড জমে যেত। কিন্তু সবুজ উদ্ভিদ সালোকসংশ্লেষণে উল্টো কাজটা করে: CO₂ নেয় আর O₂ ছাড়ে। এভাবেই সঠিক অনুপাত বজায় থাকে।
+
+এখন অধিক হারে বন-জঙ্গল ধ্বংস করার ফলে এই ভারসাম্য হুমকিতে পড়েছে। তাই আমাদের অনেক বেশি গাছ লাগাতে হবে, আর যে গাছ আছে তার যত্ন নিতে হবে।
+
+**৩. মানবসভ্যতা।** আমাদের অগ্রগতি প্রত্যক্ষ বা পরোক্ষভাবে সালোকসংশ্লেষণের ওপর নির্ভরশীল:
+- **অন্ন ও বস্ত্র** (ধান, গম; তুলা ও পাটের আঁশ)
+- **শিল্পসামগ্রী**: রেয়ন, কাগজ, সেলুলোজ, কাঠ, রাবার
+- **ওষুধ**: কুইনাইন, মরফিন
+- **জ্বালানি**: লাকড়ি, আর কয়লা, পেট্রল ও প্রাকৃতিক গ্যাসও, যেগুলো বহু আগের উদ্ভিদ ও অন্যান্য জীব থেকে তৈরি
+
+কয়লা বা গ্যাস পোড়ানোর সময় তুমি আসলে লক্ষ লক্ষ বছর আগে সালোকসংশ্লেষণে আটকা পড়া রোদকেই মুক্ত করছ।
+
+**৪. পৃথিবীকে বাসযোগ্য করেছে।** পৃথিবী যখন সৃষ্টি হয় (তোমার বইয়ে আছে প্রায় ৫ বিলিয়ন বছর আগে; বিজ্ঞানীদের বর্তমান হিসাবে প্রায় ৪.৫ বিলিয়ন), তখন এর বাতাসে কোনো **অক্সিজেন গ্যাস ছিল না**। সবচেয়ে আদি সালোকসংশ্লেষণকারী জীবেরা, বইয়ে যাদের আদি উদ্ভিদ বলা হয়েছে এবং যারা ছিল পানিতে বাস করা অতি ক্ষুদ্র অণুজীব, ধীরে ধীরে বাতাসকে অক্সিজেনে ভরে তোলে। তারা না থাকলে আমরা এখানে শ্বাস নিতে পারতাম না।
+
+কাজেই সালোকসংশ্লেষণ না ঘটলে মানবসভ্যতা ধ্বংস হবে, বিলুপ্ত হবে জীবজগৎ। এজন্যই একে জীবজগতের সবচেয়ে গুরুত্বপূর্ণ জৈব রাসায়নিক প্রক্রিয়া বলা হয়।
+## analogy
+ধরো একটা গ্রামে চালকল মাত্র একটি, আর প্রতিটি পরিবার, দোকান ও হোটেল চাল পায় সেখান থেকেই। কলটি বন্ধ হলে পুরো গ্রাম না খেয়ে থাকবে, এমনকি যারা কখনো নিজে কলে যায়নি তারাও। গোটা জীবজগতের জন্য সালোকসংশ্লেষণ হলো সেই একমাত্র কল।
+## definition
+**সালোকসংশ্লেষণের গুরুত্ব**: সালোকসংশ্লেষণ এমন প্রক্রিয়া, যার মাধ্যমে (i) সৌরশক্তি জীবজগতে প্রবেশ করে এবং সব জীবের খাদ্য তৈরি হয়, (ii) বায়ুমণ্ডলে O₂ ও CO₂-এর সঠিক অনুপাত বজায় থাকে, এবং (iii) মানুষ খাদ্য, বস্ত্র, শিল্পসামগ্রী, ওষুধ ও জ্বালানি পায়। তাই একে জীবজগতের সবচেয়ে গুরুত্বপূর্ণ জৈব রাসায়নিক প্রক্রিয়া বলা হয়।
+## why
+শুধু মাংস খেলেও প্রাণীরা উদ্ভিদ ছাড়া চলতে পারে না কেন? কারণ শক্তি একমুখী পথে চলে: সূর্য → উদ্ভিদ → তৃণভোজী → মাংসাশী। বাঘ হরিণ খায়, কিন্তু হরিণ তার দেহ গড়েছে ঘাস-পাতা খেয়ে। উদ্ভিদ সরিয়ে নিলে শিকলের প্রথম কড়াটাই থাকে না। গ্যাসের ক্ষেত্রেও একই কথা: প্রাণীরা শুধু অক্সিজেন খরচ করে, কখনো তৈরি করে না। বাতাসে অক্সিজেন ফিরিয়ে দেয় কেবল সালোকসংশ্লেষণ।
+## terms
+জৈব রাসায়নিক কারখানা | ব্যাপকতার কারণে কোনো কোনো বিজ্ঞানী সালোকসংশ্লেষণকে যে নাম দিয়েছেন
+প্রত্যক্ষ নির্ভরতা | উদ্ভিদ বা উদ্ভিদের অংশ খাওয়া (ভাত, ফল, শাকসবজি)
+পরোক্ষ নির্ভরতা | উদ্ভিদ খেয়ে বেড়ে ওঠা প্রাণী বা প্রাণিজ খাদ্য খাওয়া (মাছ, দুধ, ডিম)
+গ্যাসের ভারসাম্য | বাতাসে O₂ (প্রায় ২০.৯৫%) ও CO₂-এর (প্রায় ০.০৩৩%) স্থির অনুপাত
+জীবাশ্ম জ্বালানি | প্রাচীন জীব থেকে তৈরি কয়লা, পেট্রল ও গ্যাস; অতীতের সালোকসংশ্লেষণের সঞ্চিত শক্তি
+বন উজাড় | বন-জঙ্গল ধ্বংস করা; এতে O₂–CO₂ ভারসাম্য নষ্ট হয়
+## visual
+থালার কোনো একটি খাবারে চাপ দাও আর তার শক্তির উৎস এক ধাপ এক ধাপ করে পেছনে খুঁজে দেখো। প্রতিটি শিকল গিয়ে কোথায় শেষ হয়?
+## real
+সুন্দরবন, চট্টগ্রামের পাহাড়ি বন আর তোমার শহরের রাস্তার ধারের প্রতিটি গাছ সারাক্ষণ কার্বন ডাই-অক্সাইড নিচ্ছে আর অক্সিজেন দিচ্ছে। এজন্যই বাংলাদেশে প্রতি বর্ষায় বৃক্ষরোপণ অভিযান হয়, আর বলা হয় একটি দেশের মোট ভূমির প্রায় এক-চতুর্থাংশে বন থাকা দরকার। এমনকি তোমার রান্নাঘরের চুলায় যে গ্যাস জ্বলছে, তা-ও বহু প্রাচীন রোদ, মানুষ আসারও অনেক আগে সালোকসংশ্লেষণে ধরা পড়া।
+## example
+প্রশ্ন: শিমু দুপুরে ভাত, ইলিশ মাছ আর এক গ্লাস দুধ খেল। দেখাও যে তিনটিই সালোকসংশ্লেষণের ওপর নির্ভরশীল।
+সমাধান: প্রতিটি খাবারকে পেছন দিকে অনুসরণ করো, যতক্ষণ না সবুজ উদ্ভিদে পৌঁছাও।
+ধাপ: ভাত হলো ধানগাছের বীজ, আর ধানগাছ তার শ্বেতসার তৈরি করেছে সালোকসংশ্লেষণে: প্রত্যক্ষ নির্ভরতা।
+ধাপ: ইলিশ খায় অতি ক্ষুদ্র প্ল্যাঙ্কটন; প্রাণী প্ল্যাঙ্কটন খায় উদ্ভিদ প্ল্যাঙ্কটন, যারা সালোকসংশ্লেষণ করে: পরোক্ষ নির্ভরতা।
+ধাপ: দুধ আসে গরু থেকে, আর গরু খেয়েছে ঘাস ও খড়: পরোক্ষ নির্ভরতা।
+উত্তর: ভাত আসে সরাসরি সবুজ উদ্ভিদ থেকে; ইলিশ ও দুধ আসে পরোক্ষভাবে। তিনটি শিকলেরই শুরু সালোকসংশ্লেষণ আর সূর্য থেকে।
+## example
+প্রশ্ন: 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O সমীকরণ ব্যবহার করে বের করো, ১ kg (১০০০ g) গ্লুকোজ তৈরি করতে একটি ফসল বাতাস থেকে কতটা CO₂ সরায় আর কতটা O₂ যোগ করে। (মোলার ভর: গ্লুকোজ ১৮০ g, CO₂ ৪৪ g, O₂ ৩২ g)
+দেওয়া আছে: ১৮০ g গ্লুকোজের জন্য লাগে ৬ × ৪৪ = ২৬৪ g CO₂, আর বের হয় ৬ × ৩২ = ১৯২ g O₂
+হিসাব: সরানো CO₂ = (১০০০ ÷ ১৮০) × ২৬৪ ≈ ১৪৬৭ g; যোগ হওয়া O₂ = (১০০০ ÷ ১৮০) × ১৯২ ≈ ১০৬৭ g
+> অর্থাৎ উদ্ভিদ প্রতি কিলোগ্রাম শর্করা তৈরিতে বাতাস থেকে প্রায় দেড় কিলোগ্রাম CO₂ সরিয়ে নেয়।
+উত্তর: প্রায় ১.৪৭ kg CO₂ সরে যায় আর প্রায় ১.০৭ kg O₂ নির্গত হয়।
+## example
+প্রশ্ন: "পেট্রলে গাড়ি চালানোও আসলে সূর্যের শক্তি ব্যবহার করা।" ব্যাখ্যা করো।
+সমাধান: ভাবো, পেট্রলের শক্তি এল কোথা থেকে।
+ধাপ: পেট্রল আসে খনিজ তেল থেকে, যা লক্ষ লক্ষ বছর ধরে প্রাচীন জীবের দেহাবশেষ থেকে তৈরি হয়েছে।
+ধাপ: ওই জীবেরা শক্তি পেয়েছিল সালোকসংশ্লেষণে তৈরি খাদ্য থেকে, অর্থাৎ সূর্যালোক থেকে।
+উত্তর: পেট্রলের রাসায়নিক শক্তি হলো বহু আগে সালোকসংশ্লেষণে আটকা পড়া সৌরশক্তি, যা মাটির নিচে জমা ছিল।
+## mistakes
+x মাংসাশী প্রাণী উদ্ভিদের ওপর নির্ভর করে না।
+v তারা পরোক্ষভাবে নির্ভর করে: যে প্রাণীদের তারা খায়, তারা উদ্ভিদ খেয়ে বেঁচেছিল।
+x উদ্ভিদ শুধু অক্সিজেন দেয়, কখনো নেয় না।
+v উদ্ভিদ দিনরাত শ্বসন করে এবং অক্সিজেন ব্যবহার করে। আলো থাকলে যতটা নেয় তার চেয়ে অনেক বেশি অক্সিজেন ছাড়ে।
+x কয়লা, পেট্রল ও গ্যাসের সাথে সালোকসংশ্লেষণের কোনো সম্পর্ক নেই।
+v এগুলো প্রাচীন জীবের দেহাবশেষ, তাই এদের শক্তি প্রথমে সালোকসংশ্লেষণেই ধরা পড়েছিল।
+x কিছু বন কাটলে বাতাসের কিছু হয় না।
+v গাছ কমলে CO₂ গ্রহণ ও O₂ ত্যাগ কমে, তাই ব্যাপক হারে বন ধ্বংস গ্যাসের ভারসাম্য নষ্ট করে।
+## remember
+- সালোকসংশ্লেষণ সূর্যালোক আর জীবনের সেতু: "জৈব রাসায়নিক কারখানা"।
+- উদ্ভিদ ও প্রাণীর সব খাদ্য প্রত্যক্ষ বা পরোক্ষভাবে এ থেকেই আসে।
+- এটি বাতাসে O₂ (প্রায় ২০.৯৫%) ও CO₂-এর (প্রায় ০.০৩৩%) ভারসাম্য রাখে; শুধু শ্বসন চললে O₂ ফুরিয়ে যেত।
+- অন্ন, বস্ত্র, রেয়ন, কাগজ, কাঠ, রাবার, কুইনাইন, মরফিন, কয়লা, পেট্রল, গ্যাস, সবই উদ্ভিদ থেকে।
+- আদি পৃথিবীতে অক্সিজেন গ্যাস ছিল না; সালোকসংশ্লেষণ পৃথিবীকে বাসযোগ্য করেছে।
+- বন ধ্বংসে ভারসাম্য নষ্ট হয়, তাই গাছ লাগাতে ও রক্ষা করতে হবে।
+## think
+ধরো আজ থেকে পৃথিবীর সব সবুজ উদ্ভিদ ও শৈবাল সালোকসংশ্লেষণ বন্ধ করে দিল। প্রাণী ও মানুষের জন্য কী কী সমস্যা দেখা দেবে, ক্রম অনুযায়ী লেখো।
+## quiz
+? কোন প্রক্রিয়া বায়ুমণ্ডলে O₂ ও CO₂-এর অনুপাতের ভারসাম্য রাখে?
+- শুধু শ্বসন
+* সালোকসংশ্লেষণ (শ্বসনের সাথে মিলে)
+- প্রস্বেদন
+- পরিপাক
+= শ্বসনে O₂ খরচ হয় ও CO₂ বের হয়; সালোকসংশ্লেষণ উল্টোটা করে ভারসাম্য রাখে।
+? তোমার বই অনুযায়ী বাতাসে অক্সিজেন গ্যাসের পরিমাণ প্রায়:
+- ০.০৩৩%
+- ৭৮%
+* ২০.৯৫%
+- ৫০%
+= বাতাসে O₂ প্রায় ২০.৯৫% আর CO₂ প্রায় ০.০৩৩% (এখন সামান্য বেশি)।
+? নিচের কোন খাদ্যটি সালোকসংশ্লেষণের ওপর কেবল পরোক্ষভাবে নির্ভরশীল?
+- ভাত
+- আম
+- পালংশাক
+* ডিম
+= যে মুরগি ডিম দিয়েছে সে শস্যদানা খেয়ে বেঁচেছে; বাকিগুলো উদ্ভিদের অংশ।
+? সালোকসংশ্লেষণকে বিশ্বের "জৈব রাসায়নিক কারখানা" বলা হয় কেন?
+* কারণ এটি সর্বত্র বিশাল পরিসরে চলে এবং জীবজগতের খাদ্য তৈরি করে
+- কারণ এটি কারখানায় ঘটে
+- কারণ এতে শুধু শিল্পের রাসায়নিক তৈরি হয়
+- কারণ এতে যন্ত্র লাগে
+= বিশ্বজুড়ে এ প্রক্রিয়ার ব্যাপকতা দেখে কোনো কোনো বিজ্ঞানী একে এ নাম দিয়েছেন।
+
+@@ 4.3
+@visual b4resp
+@related 4.1 4.3.2 4.2 7.2.2
+== en
+## what
+**Respiration** is the process in which living cells break down (oxidise) food to release its energy and store it as ATP. With oxygen it is **aerobic respiration** (much energy: 38 ATP per glucose); without oxygen it is **anaerobic respiration** (little energy: 2 ATP).
+## simple
+**Respiration is not the same as breathing.** Breathing only moves air in and out of the lungs. Respiration is a chemical process that goes on **inside every living cell**, of a mango leaf, a yeast cell or your little finger, day and night.
+
+**Why it is needed.** Moving, repairing wear and tear, growing, reproducing: all life activities need energy. In photosynthesis plants store solar energy in carbohydrate as chemical (potential) energy. But a cell cannot use the energy of food directly. In respiration the food is oxidised step by step; its energy is set free, part of it is caught in **ATP** and the rest escapes as **heat**. (You know from [[4.1|lesson 4.1]] that ATP pays for all the work of the cell.)
+
+**What is "burnt"?** The substances oxidised in respiration are called **respiratory substrates**: mainly carbohydrates, but also proteins, fats and various organic acids. Complex compounds are first broken into simpler ones and then oxidised.
+
+**Where and when?** In the **cytoplasm** and **mitochondria** of living cells, all 24 hours at ordinary temperatures. In plants it is fastest in the growing regions: flower and leaf buds, germinating seeds, and the tips of roots and stems.
+
+**Two types (4.3.1), depending on oxygen.**
+
+**(1) Aerobic respiration** needs oxygen. The substrate is **completely** oxidised to CO₂ and H₂O, and a large amount of energy is released. This is the normal respiration of plants and animals.
+
+**C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy (686 kcal per mole)**
+
+One molecule of glucose gives 6 CO₂, 6 H₂O and, by your book's count, **38 ATP**.
+
+**(2) Anaerobic respiration** takes place without oxygen. Enzymes inside the cell oxidise the substrate only **partly**, giving organic compounds (ethyl alcohol, lactic acid and so on), CO₂ and a small amount of energy.
+
+**C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + energy (56 kcal per mole)**
+
+Your book says anaerobic respiration occurs only in some microorganisms such as bacteria and yeast. That is where it is the regular way of life. It is worth knowing, though, that your own muscle cells can also do it for a short time during very hard exercise, making lactic acid.
+
+**Aerobic respiration in four stages.** Follow one molecule of glucose.
+
+**Stage 1: Glycolysis** (in the cytoplasm). The 6-carbon glucose is broken into **2 molecules of pyruvic acid** (3 carbons each). 4 ATP are made but 2 are used up, so the direct gain is **2 ATP**. **2 NADH + H⁺** are also formed. No oxygen is needed, so glycolysis is the first stage of both aerobic and anaerobic respiration.
+
+**Stage 2: Formation of acetyl Co-A.** Each pyruvic acid gives one 2-carbon **acetyl Co-A**, one CO₂ and one NADH + H⁺. From two pyruvic acids: **2 acetyl Co-A, 2 CO₂, 2 NADH + H⁺**. This step was once thought to happen in the cytoplasm; newer evidence shows it happens in the matrix of the mitochondrion.
+
+**Stage 3: Krebs cycle** (in the mitochondrion), named after the British biochemist Sir Hans Krebs who discovered it. Each acetyl Co-A gives 2 CO₂, 3 NADH + H⁺, 1 FADH₂ and 1 GTP. So two acetyl Co-A give **4 CO₂, 6 NADH + H⁺, 2 FADH₂ and 2 GTP**. (GTP, guanosine triphosphate, is worth one ATP. In animal cells ATP is sometimes made directly instead of GTP, and in almost all plants it always is, so the total energy is the same.)
+
+**Stage 4: Electron transport system** (in the mitochondrion). The NADH + H⁺ and FADH₂ made in the first three stages are oxidised here. Their high-energy electrons flow through the system and the energy they give up is used to make ATP. At the end the electrons and protons join oxygen and form **water**. This is the only place where the oxygen you breathe in is actually used.
+
+**Exchange rates:** 1 NADH + H⁺ = 3 ATP; 1 FADH₂ = 2 ATP; 1 GTP = 1 ATP.
+
+**Adding up (per glucose):**
+- Glycolysis: 2 ATP + 2 NADH (= 6 ATP) → **8 ATP**
+- Acetyl Co-A formation: 2 NADH (= 6 ATP) → **6 ATP**, and 2 CO₂
+- Krebs cycle: 6 NADH (= 18 ATP) + 2 FADH₂ (= 4 ATP) + 2 GTP (= 2 ATP) → **24 ATP**, and 4 CO₂
+- Total: **38 ATP** and 6 CO₂
+
+Learn 38 for your exam. (Careful modern measurements give a slightly lower figure, about 30–32 ATP, because moving things in and out of the mitochondrion also costs some energy.)
+
+**Anaerobic respiration in two stages.**
+
+**Stage 1: Incomplete oxidation of glucose.** Just as in glycolysis, one glucose gives 2 pyruvic acid, 4 ATP (2 of them used up) and 2 NADH + H⁺.
+
+**Stage 2: Reduction of pyruvic acid.** With the help of enzymes in the cytoplasm, pyruvic acid is reduced to **ethyl alcohol and CO₂** (as in yeast) or to **lactic acid** only (as in the bacteria that make curd). The NADH + H⁺ from stage 1 is used up in this reduction, and since there is no oxygen the electron transport system cannot make ATP. So the net gain is only **2 ATP**. Most of the energy is still locked in the alcohol or lactic acid.
+
+**Photosynthesis and respiration compared.**
+- Photosynthesis happens only in cells with chlorophyll and only in light; respiration happens in every living cell, all the time.
+- Photosynthesis takes in CO₂ and water and gives out O₂; aerobic respiration takes in O₂ and gives out CO₂ and water.
+- Photosynthesis builds glucose (an anabolic process) and stores energy; respiration breaks glucose down (a catabolic process) and releases energy.
+- Photosynthesis happens in chloroplasts; respiration in the cytoplasm and mitochondria.
+- Light energy → chemical energy in photosynthesis; chemical energy of food → ATP and heat in respiration.
+## analogy
+If you set fire to a pile of firewood, all its energy rushes out at once as heat and light, and most of it is wasted. A good cook feeds the stove stick by stick and uses the heat. Respiration is the same "burning" of glucose, but done in dozens of tiny, controlled steps, so that much of the energy can be caught in ATP instead of being lost.
+## definition
+**Respiration**: the biochemical process in which a living cell oxidises complex food substances (respiratory substrates) into simpler substances and releases energy.
+
+**Aerobic respiration**: respiration that requires oxygen, in which the respiratory substrate is completely oxidised to CO₂ and H₂O with the release of a large amount of energy.
+
+**Anaerobic respiration**: respiration that takes place in the absence of oxygen, in which the substrate is partly oxidised by enzymes inside the cell, producing organic compounds (ethyl alcohol, lactic acid, etc.), CO₂ and a small amount of energy.
+## why
+Why does aerobic respiration give so much more ATP? Most of the energy of glucose is not released in glycolysis at all; it is carried away as hydrogen and high-energy electrons on NADH and FADH₂. Only the electron transport system can cash these in for ATP, and it works only if oxygen is there at the end to accept the electrons. Without oxygen that last stage stops, the Krebs cycle stops behind it, and the cell is left with just the 2 ATP of glycolysis. The remaining energy stays locked in alcohol or lactic acid.
+## terms
+Respiration | Oxidation of food in living cells to release energy
+Respiratory substrate | Substance oxidised in respiration: carbohydrate, protein, fat, organic acid
+Aerobic respiration | Respiration with oxygen; complete oxidation; 38 ATP per glucose
+Anaerobic respiration | Respiration without oxygen; partial oxidation; 2 ATP per glucose
+Glycolysis | First stage, in the cytoplasm: glucose → 2 pyruvic acid
+Pyruvic acid | 3-carbon compound (C₃H₄O₃) formed in glycolysis
+Acetyl Co-A | 2-carbon compound formed from pyruvic acid; enters the Krebs cycle
+Krebs cycle | Cycle of reactions in the mitochondrion that releases CO₂ and makes NADH, FADH₂ and GTP
+Electron transport system | Final stage, in the mitochondrion: NADH and FADH₂ are oxidised, ATP and water are formed
+Fermentation | Anaerobic breakdown of sugar to alcohol and CO₂ or to lactic acid
+## formula
+$$ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy (686 kcal/mole)
+$$ C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + energy (56 kcal/mole)
+! Lactic acid fermentation: C₆H₁₂O₆ → 2C₃H₆O₃ + energy (no CO₂ is released).
+! 1 NADH + H⁺ = 3 ATP; 1 FADH₂ = 2 ATP; 1 GTP = 1 ATP.
+! Aerobic: 8 + 6 + 24 = 38 ATP per glucose. Anaerobic: 2 ATP per glucose.
+## visual
+Send one glucose molecule through the four stages of aerobic respiration and watch the ATP counter climb to 38. Then switch off the oxygen and see how far the glucose gets and how little ATP is made.
+## real
+When a baker mixes yeast into dough and leaves it in a warm place, the yeast respires anaerobically; the CO₂ it gives off puffs up the dough and makes the bread soft and spongy. When milk is turned into doi (curd), bacteria change milk sugar into lactic acid, which thickens the milk and gives the sour taste. And during a very hard sprint your muscle cells cannot get oxygen fast enough, so for a short while they too make lactic acid without oxygen.
+## example
+Q: Show how the complete aerobic respiration of one glucose molecule gives 38 ATP. (1 NADH + H⁺ = 3 ATP, 1 FADH₂ = 2 ATP, 1 GTP = 1 ATP)
+Solution: Add up the gain stage by stage.
+Step: Glycolysis: 2 ATP directly + 2 NADH × 3 = 6 ATP → 8 ATP.
+Step: Acetyl Co-A formation: 2 NADH × 3 = 6 ATP.
+Step: Krebs cycle: 6 NADH × 3 = 18 ATP; 2 FADH₂ × 2 = 4 ATP; 2 GTP = 2 ATP → 24 ATP.
+Calculation: 8 + 6 + 24 = 38
+Answer: 38 ATP (together with 6 CO₂ and 6 H₂O).
+## example
+Q: Complete oxidation of one mole of glucose releases 686 kcal. If 38 moles of ATP are formed and each mole of ATP holds 7.3 kcal, what percentage of the energy is stored in ATP? What happens to the rest?
+Given: total energy = 686 kcal; ATP = 38 moles; energy per mole of ATP = 7.3 kcal
+Calculation: energy stored in ATP = 38 × 7.3 = 277.4 kcal; percentage = (277.4 ÷ 686) × 100 ≈ 40.4%; remaining = 686 − 277.4 = 408.6 kcal
+> This lost energy is not useless: it is the heat that keeps your body warm.
+Answer: about 40% is stored in ATP; the remaining 408.6 kcal (about 60%) is released as heat.
+## example
+Q: Of the two stages that take place wholly inside the mitochondrion before the electron transport system (acetyl Co-A formation and the Krebs cycle), which yields more ATP per glucose? Compare.
+Solution: Count the carriers each stage produces and convert them.
+Step: Acetyl Co-A formation: 2 NADH → 2 × 3 = 6 ATP.
+Step: Krebs cycle: 6 NADH → 18 ATP; 2 FADH₂ → 4 ATP; 2 GTP → 2 ATP; total 24 ATP.
+Calculation: 24 ÷ 6 = 4
+Answer: The Krebs cycle yields 24 ATP, four times the 6 ATP from acetyl Co-A formation.
+## example
+Q: Why is so little energy produced in anaerobic respiration? How many times more ATP does aerobic respiration give from one glucose?
+Solution: Compare how far the glucose is oxidised in each case.
+Step: In anaerobic respiration glucose is only partly oxidised. The products (ethyl alcohol or lactic acid) still hold most of the energy, and without oxygen the electron transport system cannot work. Net gain: 2 ATP.
+Step: In aerobic respiration glucose is completely oxidised to CO₂ and H₂O. Gain: 38 ATP.
+Calculation: 38 ÷ 2 = 19
+Answer: Because oxidation is incomplete and there is no electron transport. Aerobic respiration gives 19 times more ATP per glucose.
+## mistakes
+x Respiration and breathing are the same thing.
+v Breathing is the movement of air in and out; respiration is the oxidation of food inside cells to release energy.
+x Plants respire only at night.
+v Plants respire all 24 hours. In daylight photosynthesis is faster, so it hides the gas exchange of respiration.
+x Glycolysis needs oxygen.
+v Glycolysis needs no oxygen; it is the common first stage of aerobic and anaerobic respiration.
+x All the stages of aerobic respiration happen in the mitochondrion.
+v Glycolysis happens in the cytoplasm; the other three stages happen in the mitochondrion.
+x Anaerobic respiration produces no energy.
+v It produces a little: a net 2 ATP per glucose.
+## remember
+- Respiration: oxidation of food in living cells, releasing energy (ATP + heat); cytoplasm and mitochondria; 24 hours.
+- Aerobic: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 686 kcal; 38 ATP.
+- Anaerobic: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + 56 kcal; 2 ATP; in yeast and some bacteria.
+- Four stages: glycolysis (cytoplasm) → acetyl Co-A formation → Krebs cycle → electron transport system (mitochondrion).
+- Glycolysis: glucose → 2 pyruvic acid; net 2 ATP + 2 NADH. Krebs (per glucose): 4 CO₂, 6 NADH, 2 FADH₂, 2 GTP.
+- NADH = 3 ATP, FADH₂ = 2 ATP, GTP = 1 ATP; 8 + 6 + 24 = 38.
+- Anaerobic: glycolysis, then pyruvic acid is reduced to alcohol + CO₂ or to lactic acid.
+## think
+Yeast in a tightly closed bottle of sugar solution keeps living for a while even after all the oxygen is used up, but a mouse in a closed jar cannot. Explain the difference.
+## quiz
+? Where in the cell does glycolysis take place?
+- Mitochondrion
+* Cytoplasm
+- Nucleus
+- Chloroplast
+= Glycolysis takes place in the cytoplasm and needs no oxygen.
+? Counting the ATP from its 2 NADH + H⁺ as well (as your book's chart does), the net gain of ATP in glycolysis is:
+- 4
+- 6
+* 8
+- 10
+= 2 ATP directly + 2 NADH × 3 = 6 ATP, so 8 ATP in all.
+? How many ATP molecules are formed when one glucose molecule is completely oxidised in aerobic respiration (by your book's count)?
+- 2
+- 8
+- 24
+* 38
+= 8 (glycolysis) + 6 (acetyl Co-A formation) + 24 (Krebs cycle) = 38.
+? Which substances are produced when yeast respires anaerobically?
+* Ethyl alcohol and CO₂
+- Lactic acid and O₂
+- CO₂ and H₂O only
+- Glucose and O₂
+= C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + a little energy.
+? In which stage is the oxygen we breathe in actually used?
+- Glycolysis
+- Krebs cycle
+* Electron transport system
+- Acetyl Co-A formation
+= At the end of the electron transport system, electrons and protons join oxygen to form water.
+== bn
+## what
+**শ্বসন** হলো সেই প্রক্রিয়া, যাতে সজীব কোষ খাদ্যকে ভেঙে (জারিত করে) তার শক্তি বের করে আনে এবং ATP হিসেবে জমা রাখে। অক্সিজেন থাকলে হয় **সবাত শ্বসন** (অনেক শক্তি: প্রতি গ্লুকোজে ৩৮টি ATP); অক্সিজেন ছাড়া হয় **অবাত শ্বসন** (সামান্য শক্তি: ২টি ATP)।
+## simple
+**শ্বসন আর শ্বাস নেওয়া এক কথা নয়।** শ্বাস নেওয়া-ছাড়ায় (শ্বাসকার্যে) শুধু বাতাস ফুসফুসে ঢোকে আর বের হয়। শ্বসন একটি রাসায়নিক প্রক্রিয়া, যা **প্রতিটি সজীব কোষের ভেতরে** দিনরাত চলে, হোক তা আমপাতার কোষ, ইস্টের কোষ বা তোমার কনিষ্ঠ আঙুলের কোষ।
+
+**কেন দরকার।** চলন, ক্ষয়পূরণ, বৃদ্ধি, জনন: সব জৈবিক কাজেই শক্তি লাগে। সালোকসংশ্লেষণে উদ্ভিদ সৌরশক্তিকে শর্করার মধ্যে রাসায়নিক শক্তি (স্থিতিশক্তি) রূপে জমা রাখে। কিন্তু কোষ খাদ্যের এই শক্তি সরাসরি ব্যবহার করতে পারে না। শ্বসনে খাদ্য ধাপে ধাপে জারিত হয়; শক্তি মুক্ত হয়, তার একাংশ **ATP**-তে ধরা পড়ে আর বাকিটা **তাপ** হিসেবে বেরিয়ে যায়। ([[4.1|পাঠ ৪.১]] থেকে জানো, কোষের সব কাজের খরচ মেটায় ATP।)
+
+**কী "পোড়ে"?** শ্বসনে যেসব পদার্থ জারিত হয় তাদের বলে **শ্বসনিক বস্তু**: প্রধানত শর্করা, তবে প্রোটিন, ফ্যাট ও বিভিন্ন জৈব এসিডও। জটিল যৌগগুলো আগে ভেঙে সরল যৌগ হয়, পরে জারিত হয়।
+
+**কোথায় ও কখন?** সজীব কোষের **সাইটোপ্লাজম** ও **মাইটোকন্ড্রিয়ায়**, সাধারণ তাপমাত্রায় দিনরাত ২৪ ঘণ্টা। উদ্ভিদের বর্ধিষ্ণু অঞ্চলে এর হার সবচেয়ে বেশি: ফুল ও পাতার কুঁড়ি, অঙ্কুরিত বীজ, মূল ও কাণ্ডের অগ্রভাগ।
+
+**দুই প্রকার (৪.৩.১), অক্সিজেনের প্রয়োজন অনুযায়ী।**
+
+**(১) সবাত শ্বসনে** অক্সিজেন লাগে। শ্বসনিক বস্তু **সম্পূর্ণভাবে** জারিত হয়ে CO₂ ও H₂O হয়, আর বিপুল পরিমাণ শক্তি বের হয়। এটাই উদ্ভিদ ও প্রাণীর স্বাভাবিক শ্বসন।
+
+**C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি (প্রতি মোলে ৬৮৬ kcal)**
+
+এক অণু গ্লুকোজ থেকে পাওয়া যায় ৬ অণু CO₂, ৬ অণু H₂O আর, তোমার বইয়ের হিসাবে, **৩৮টি ATP**।
+
+**(২) অবাত শ্বসন** ঘটে অক্সিজেন ছাড়া। কোষের ভেতরের এনজাইম শ্বসনিক বস্তুকে **আংশিকভাবে** জারিত করে; তৈরি হয় জৈব যৌগ (ইথাইল অ্যালকোহল, ল্যাকটিক এসিড ইত্যাদি), CO₂ আর সামান্য শক্তি।
+
+**C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + শক্তি (প্রতি মোলে ৫৬ kcal)**
+
+তোমার বইয়ে আছে, অবাত শ্বসন কেবল কিছু অণুজীবে হয়, যেমন ব্যাকটেরিয়া ও ইস্ট। এদের ক্ষেত্রে এটাই নিয়মিত জীবনধারা। তবে জেনে রাখা ভালো, খুব কঠিন ব্যায়ামের সময় তোমার নিজের পেশিকোষও অল্প সময়ের জন্য এটা করতে পারে, তখন ল্যাকটিক এসিড তৈরি হয়।
+
+**সবাত শ্বসনের চার ধাপ।** এক অণু গ্লুকোজের পিছু নাও।
+
+**ধাপ ১: গ্লাইকোলাইসিস** (সাইটোপ্লাজমে)। ৬-কার্বনের গ্লুকোজ ভেঙে হয় **২ অণু পাইরুভিক এসিড** (প্রতিটিতে ৩টি কার্বন)। ৪ অণু ATP তৈরি হয় কিন্তু ২ অণু খরচ হয়ে যায়, তাই সরাসরি লাভ **২টি ATP**। সাথে তৈরি হয় **২ অণু NADH + H⁺**। এতে অক্সিজেন লাগে না, তাই গ্লাইকোলাইসিস সবাত ও অবাত উভয় শ্বসনেরই প্রথম ধাপ।
+
+**ধাপ ২: অ্যাসিটাইল কো-এ সৃষ্টি।** প্রতি অণু পাইরুভিক এসিড থেকে হয় ২-কার্বনের এক অণু **অ্যাসিটাইল কো-এ**, এক অণু CO₂ আর এক অণু NADH + H⁺। দুই অণু পাইরুভিক এসিড থেকে: **২ অণু অ্যাসিটাইল কো-এ, ২ অণু CO₂, ২ অণু NADH + H⁺**। এক সময় মনে করা হতো এ ধাপ সাইটোপ্লাজমে ঘটে; সর্বশেষ তথ্য অনুসারে এটি ঘটে মাইটোকন্ড্রিয়ার ম্যাট্রিক্সে।
+
+**ধাপ ৩: ক্রেবস চক্র** (মাইটোকন্ড্রিয়ায়)। ইংরেজ প্রাণরসায়নবিদ স্যার হ্যান্স ক্রেবস এটি আবিষ্কার করেন বলে এ নাম। প্রতি অণু অ্যাসিটাইল কো-এ থেকে হয় ২ অণু CO₂, ৩ অণু NADH + H⁺, ১ অণু FADH₂ ও ১ অণু GTP। তাহলে দুই অণু অ্যাসিটাইল কো-এ থেকে: **৪ অণু CO₂, ৬ অণু NADH + H⁺, ২ অণু FADH₂ ও ২ অণু GTP**। (GTP বা গুয়ানোসিন ট্রাইফসফেট এক অণু ATP-এর সমতুল্য। প্রাণিকোষে কখনো কখনো GTP-এর বদলে সরাসরি ATP তৈরি হয়, আর প্রায় সব উদ্ভিদে সবসময় ATP-ই হয়, তাই মোট শক্তিতে কোনো তারতম্য হয় না।)
+
+**ধাপ ৪: ইলেকট্রন প্রবাহতন্ত্র** (ইলেকট্রন ট্রান্সপোর্ট সিস্টেম; মাইটোকন্ড্রিয়ায়)। আগের তিন ধাপে তৈরি NADH + H⁺ ও FADH₂ এখানে জারিত হয়। এদের উচ্চশক্তির ইলেকট্রন প্রবাহতন্ত্রের মধ্য দিয়ে যাওয়ার সময় যে শক্তি ছাড়ে, তা দিয়ে ATP তৈরি হয়। শেষে ইলেকট্রন ও প্রোটন অক্সিজেনের সাথে যুক্ত হয়ে **পানি** তৈরি করে। তুমি শ্বাসের সাথে যে অক্সিজেন নাও, তা আসলে কেবল এখানেই কাজে লাগে।
+
+**বিনিময় হার:** ১ অণু NADH + H⁺ = ৩ ATP; ১ অণু FADH₂ = ২ ATP; ১ অণু GTP = ১ ATP।
+
+**যোগফল (প্রতি গ্লুকোজে):**
+- গ্লাইকোলাইসিস: ২ ATP + ২ NADH (= ৬ ATP) → **৮ ATP**
+- অ্যাসিটাইল কো-এ সৃষ্টি: ২ NADH (= ৬ ATP) → **৬ ATP**, আর ২ অণু CO₂
+- ক্রেবস চক্র: ৬ NADH (= ১৮ ATP) + ২ FADH₂ (= ৪ ATP) + ২ GTP (= ২ ATP) → **২৪ ATP**, আর ৪ অণু CO₂
+- মোট: **৩৮ ATP** ও ৬ অণু CO₂
+
+পরীক্ষার জন্য ৩৮ মনে রাখো। (সূক্ষ্ম আধুনিক পরিমাপে সংখ্যাটি কিছুটা কম, প্রায় ৩০–৩২ ATP, কারণ মাইটোকন্ড্রিয়ার ভেতরে-বাইরে পদার্থ আনা-নেওয়াতেও কিছু শক্তি খরচ হয়।)
+
+**অবাত শ্বসনের দুই ধাপ।**
+
+**ধাপ ১: গ্লুকোজের অসম্পূর্ণ জারণ।** গ্লাইকোলাইসিসের মতোই এক অণু গ্লুকোজ থেকে হয় ২ অণু পাইরুভিক এসিড, ৪ অণু ATP (এর ২ অণু খরচ হয়ে যায়) আর ২ অণু NADH + H⁺।
+
+**ধাপ ২: পাইরুভিক এসিডের বিজারণ।** সাইটোপ্লাজমের এনজাইমের সাহায্যে পাইরুভিক এসিড বিজারিত হয়ে তৈরি করে **ইথাইল অ্যালকোহল ও CO₂** (যেমন ইস্টে), অথবা শুধু **ল্যাকটিক এসিড** (যেমন দই তৈরির ব্যাকটেরিয়ায়)। ধাপ ১-এর NADH + H⁺ এই বিজারণেই খরচ হয়ে যায়, আর অক্সিজেন না থাকায় ইলেকট্রন প্রবাহতন্ত্র ATP তৈরি করতে পারে না। তাই নিট লাভ মাত্র **২টি ATP**। বেশির ভাগ শক্তি অ্যালকোহল বা ল্যাকটিক এসিডের মধ্যেই আটকে থাকে।
+
+**সালোকসংশ্লেষণ ও শ্বসনের তুলনা।**
+- সালোকসংশ্লেষণ হয় শুধু ক্লোরোফিলযুক্ত কোষে, শুধু আলোতে; শ্বসন হয় প্রতিটি সজীব কোষে, সব সময়।
+- সালোকসংশ্লেষণে CO₂ ও পানি গৃহীত হয়, O₂ বের হয়; সবাত শ্বসনে O₂ গৃহীত হয়, CO₂ ও পানি বের হয়।
+- সালোকসংশ্লেষণ গ্লুকোজ গড়ে (উপচিতি) ও শক্তি জমা করে; শ্বসন গ্লুকোজ ভাঙে (অপচিতি) ও শক্তি মুক্ত করে।
+- সালোকসংশ্লেষণ ঘটে ক্লোরোপ্লাস্টে; শ্বসন ঘটে সাইটোপ্লাজম ও মাইটোকন্ড্রিয়ায়।
+- সালোকসংশ্লেষণে আলোকশক্তি → রাসায়নিক শক্তি; শ্বসনে খাদ্যের রাসায়নিক শক্তি → ATP ও তাপ।
+## analogy
+এক স্তূপ লাকড়িতে একবারে আগুন ধরিয়ে দিলে সব শক্তি হুড়মুড় করে তাপ ও আলো হয়ে বেরিয়ে যায়, বেশির ভাগই অপচয় হয়। ভালো রাঁধুনি চুলায় একটা একটা করে লাকড়ি দেন আর তাপটা কাজে লাগান। শ্বসনও গ্লুকোজের সেই একই "পোড়ানো", তবে অনেকগুলো ছোট ছোট নিয়ন্ত্রিত ধাপে, যাতে শক্তির বড় অংশ নষ্ট না হয়ে ATP-তে ধরা পড়ে।
+## definition
+**শ্বসন**: যে জৈব রাসায়নিক প্রক্রিয়ায় সজীব কোষ যৌগিক খাদ্যদ্রব্যকে (শ্বসনিক বস্তু) জারিত করে সরল দ্রব্যে পরিণত করে এবং শক্তি উৎপন্ন করে।
+
+**সবাত শ্বসন**: যে শ্বসনে অক্সিজেনের প্রয়োজন হয় এবং শ্বসনিক বস্তু সম্পূর্ণভাবে জারিত হয়ে CO₂, H₂O ও বিপুল পরিমাণ শক্তি উৎপন্ন করে।
+
+**অবাত শ্বসন**: যে শ্বসন অক্সিজেনের অনুপস্থিতিতে হয় এবং যাতে শ্বসনিক বস্তু কোষের ভেতরকার এনজাইম দিয়ে আংশিকভাবে জারিত হয়ে বিভিন্ন জৈব যৌগ (ইথাইল অ্যালকোহল, ল্যাকটিক এসিড ইত্যাদি), CO₂ ও সামান্য পরিমাণ শক্তি উৎপন্ন করে।
+## why
+সবাত শ্বসনে এত বেশি ATP পাওয়া যায় কেন? গ্লুকোজের বেশির ভাগ শক্তি গ্লাইকোলাইসিসে মুক্তই হয় না; তা হাইড্রোজেন ও উচ্চশক্তির ইলেকট্রন হিসেবে NADH ও FADH₂-তে চড়ে চলে যায়। এগুলোকে ভাঙিয়ে ATP বানাতে পারে কেবল ইলেকট্রন প্রবাহতন্ত্র, আর সেটি চলে শুধু তখনই, যখন শেষ প্রান্তে ইলেকট্রন গ্রহণ করার জন্য অক্সিজেন থাকে। অক্সিজেন না থাকলে শেষ ধাপ থেমে যায়, তার পেছনে ক্রেবস চক্রও থামে, আর কোষের হাতে থাকে শুধু গ্লাইকোলাইসিসের ২টি ATP। বাকি শক্তি অ্যালকোহল বা ল্যাকটিক এসিডে আটকে থাকে।
+## terms
+শ্বসন (Respiration) | সজীব কোষে খাদ্য জারিত হয়ে শক্তি উৎপন্ন হওয়া
+শ্বসনিক বস্তু | শ্বসনে যে পদার্থ জারিত হয়: শর্করা, প্রোটিন, ফ্যাট, জৈব এসিড
+সবাত শ্বসন (Aerobic) | অক্সিজেনসহ শ্বসন; সম্পূর্ণ জারণ; প্রতি গ্লুকোজে ৩৮ ATP
+অবাত শ্বসন (Anaerobic) | অক্সিজেন ছাড়া শ্বসন; আংশিক জারণ; প্রতি গ্লুকোজে ২ ATP
+গ্লাইকোলাইসিস | প্রথম ধাপ, সাইটোপ্লাজমে: গ্লুকোজ → ২ অণু পাইরুভিক এসিড
+পাইরুভিক এসিড | গ্লাইকোলাইসিসে তৈরি ৩-কার্বন যৌগ (C₃H₄O₃)
+অ্যাসিটাইল কো-এ | পাইরুভিক এসিড থেকে তৈরি ২-কার্বন যৌগ; ক্রেবস চক্রে প্রবেশ করে
+ক্রেবস চক্র | মাইটোকন্ড্রিয়ার চক্রাকার বিক্রিয়া; CO₂ বের হয় আর NADH, FADH₂ ও GTP তৈরি হয়
+ইলেকট্রন প্রবাহতন্ত্র | শেষ ধাপ, মাইটোকন্ড্রিয়ায়: NADH ও FADH₂ জারিত হয়ে ATP ও পানি তৈরি হয়
+ফার্মেন্টেশন (গাঁজন) | অক্সিজেন ছাড়া শর্করা ভেঙে অ্যালকোহল ও CO₂ বা ল্যাকটিক এসিড তৈরি
+## formula
+$$ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি (৬৮৬ kcal/mole)
+$$ C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + শক্তি (৫৬ kcal/mole)
+! ল্যাকটিক এসিড ফার্মেন্টেশন: C₆H₁₂O₆ → 2C₃H₆O₃ + শক্তি (CO₂ বের হয় না)।
+! ১ NADH + H⁺ = ৩ ATP; ১ FADH₂ = ২ ATP; ১ GTP = ১ ATP।
+! সবাত: ৮ + ৬ + ২৪ = প্রতি গ্লুকোজে ৩৮ ATP। অবাত: প্রতি গ্লুকোজে ২ ATP।
+## visual
+এক অণু গ্লুকোজকে সবাত শ্বসনের চার ধাপের মধ্য দিয়ে পাঠাও আর দেখো ATP-এর গণনা কীভাবে ৩৮-এ ওঠে। তারপর অক্সিজেন বন্ধ করে দেখো গ্লুকোজ কত দূর যায় আর কত কম ATP তৈরি হয়।
+## real
+রুটির কারিগর যখন ময়দার খামিরে ইস্ট মিশিয়ে গরম জায়গায় রেখে দেন, তখন ইস্ট অবাত শ্বসন করে; এতে বের হওয়া CO₂ খামিরকে ফুলিয়ে তোলে, রুটি হয় নরম ও ফাঁপা। দুধ থেকে দই পাতার সময় ব্যাকটেরিয়া দুধের শর্করাকে ল্যাকটিক এসিডে বদলে দেয়, যা দুধকে জমায় আর টক স্বাদ আনে। আর খুব জোরে দৌড়ানোর সময় তোমার পেশিকোষ যথেষ্ট দ্রুত অক্সিজেন পায় না, তাই অল্প সময়ের জন্য তারাও অক্সিজেন ছাড়াই ল্যাকটিক এসিড তৈরি করে।
+## example
+প্রশ্ন: দেখাও, এক অণু গ্লুকোজের সম্পূর্ণ সবাত শ্বসনে কীভাবে ৩৮টি ATP পাওয়া যায়। (১ NADH + H⁺ = ৩ ATP, ১ FADH₂ = ২ ATP, ১ GTP = ১ ATP)
+সমাধান: ধাপে ধাপে লাভ যোগ করো।
+ধাপ: গ্লাইকোলাইসিস: সরাসরি ২ ATP + ২ NADH × ৩ = ৬ ATP → ৮ ATP।
+ধাপ: অ্যাসিটাইল কো-এ সৃষ্টি: ২ NADH × ৩ = ৬ ATP।
+ধাপ: ক্রেবস চক্র: ৬ NADH × ৩ = ১৮ ATP; ২ FADH₂ × ২ = ৪ ATP; ২ GTP = ২ ATP → ২৪ ATP।
+হিসাব: ৮ + ৬ + ২৪ = ৩৮
+উত্তর: ৩৮টি ATP (সাথে ৬ অণু CO₂ ও ৬ অণু H₂O)।
+## example
+প্রশ্ন: এক মোল গ্লুকোজ সম্পূর্ণ জারিত হলে ৬৮৬ kcal শক্তি বের হয়। এতে ৩৮ মোল ATP তৈরি হলে এবং প্রতি মোল ATP-তে ৭.৩ kcal জমা থাকলে শক্তির শতকরা কত ভাগ ATP-তে জমা হয়? বাকিটার কী হয়?
+দেওয়া আছে: মোট শক্তি = ৬৮৬ kcal; ATP = ৩৮ মোল; প্রতি মোল ATP-তে শক্তি = ৭.৩ kcal
+হিসাব: ATP-তে জমা শক্তি = ৩৮ × ৭.৩ = ২৭৭.৪ kcal; শতকরা = (২৭৭.৪ ÷ ৬৮৬) × ১০০ ≈ ৪০.৪%; বাকি = ৬৮৬ − ২৭৭.৪ = ৪০৮.৬ kcal
+> এই হারানো শক্তি অকেজো নয়: এই তাপই তোমার দেহ গরম রাখে।
+উত্তর: প্রায় ৪০% ATP-তে জমা হয়; বাকি ৪০৮.৬ kcal (প্রায় ৬০%) তাপ হিসেবে বের হয়।
+## example
+প্রশ্ন: ইলেকট্রন প্রবাহতন্ত্রের আগে যে দুটি ধাপ পুরোপুরি মাইটোকন্ড্রিয়ার ভেতরে ঘটে (অ্যাসিটাইল কো-এ সৃষ্টি ও ক্রেবস চক্র), তাদের কোনটি থেকে প্রতি গ্লুকোজে বেশি ATP পাওয়া যায়? তুলনা করো।
+সমাধান: প্রতিটি ধাপে তৈরি বাহক অণু গুনে ATP-তে রূপান্তর করো।
+ধাপ: অ্যাসিটাইল কো-এ সৃষ্টি: ২ NADH → ২ × ৩ = ৬ ATP।
+ধাপ: ক্রেবস চক্র: ৬ NADH → ১৮ ATP; ২ FADH₂ → ৪ ATP; ২ GTP → ২ ATP; মোট ২৪ ATP।
+হিসাব: ২৪ ÷ ৬ = ৪
+উত্তর: ক্রেবস চক্র থেকে ২৪ ATP পাওয়া যায়, যা অ্যাসিটাইল কো-এ সৃষ্টির ৬ ATP-এর চার গুণ।
+## example
+প্রশ্ন: অবাত শ্বসনে উৎপন্ন শক্তির পরিমাণ এত কম কেন? এক অণু গ্লুকোজ থেকে সবাত শ্বসনে কত গুণ বেশি ATP পাওয়া যায়?
+সমাধান: দুই ক্ষেত্রে গ্লুকোজ কতটা জারিত হয়, তুলনা করো।
+ধাপ: অবাত শ্বসনে গ্লুকোজ আংশিক জারিত হয়। উৎপন্ন পদার্থে (ইথাইল অ্যালকোহল বা ল্যাকটিক এসিড) বেশির ভাগ শক্তি থেকে যায়, আর অক্সিজেন না থাকায় ইলেকট্রন প্রবাহতন্ত্র চলে না। নিট লাভ: ২ ATP।
+ধাপ: সবাত শ্বসনে গ্লুকোজ সম্পূর্ণ জারিত হয়ে CO₂ ও H₂O হয়। লাভ: ৩৮ ATP।
+হিসাব: ৩৮ ÷ ২ = ১৯
+উত্তর: কারণ জারণ অসম্পূর্ণ এবং ইলেকট্রন প্রবাহতন্ত্র চলে না। সবাত শ্বসনে প্রতি গ্লুকোজে ১৯ গুণ বেশি ATP পাওয়া যায়।
+## mistakes
+x শ্বসন আর শ্বাস নেওয়া একই কথা।
+v শ্বাসকার্য হলো বাতাস ঢোকা ও বের হওয়া; শ্বসন হলো কোষের ভেতরে খাদ্য জারিত হয়ে শক্তি বের হওয়া।
+x উদ্ভিদ শুধু রাতে শ্বসন করে।
+v উদ্ভিদ ২৪ ঘণ্টাই শ্বসন করে। দিনে সালোকসংশ্লেষণের হার বেশি বলে শ্বসনের গ্যাস বিনিময় ঢাকা পড়ে যায়।
+x গ্লাইকোলাইসিসে অক্সিজেন লাগে।
+v গ্লাইকোলাইসিসে অক্সিজেন লাগে না; এটি সবাত ও অবাত শ্বসনের সাধারণ প্রথম ধাপ।
+x সবাত শ্বসনের সব ধাপ মাইটোকন্ড্রিয়ায় ঘটে।
+v গ্লাইকোলাইসিস ঘটে সাইটোপ্লাজমে; বাকি তিন ধাপ ঘটে মাইটোকন্ড্রিয়ায়।
+x অবাত শ্বসনে কোনো শক্তি তৈরি হয় না।
+v সামান্য হয়: প্রতি গ্লুকোজে নিট ২টি ATP।
+## remember
+- শ্বসন: সজীব কোষে খাদ্যের জারণ, শক্তি মুক্ত হয় (ATP + তাপ); সাইটোপ্লাজম ও মাইটোকন্ড্রিয়া; ২৪ ঘণ্টা।
+- সবাত: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ৬৮৬ kcal; ৩৮ ATP।
+- অবাত: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + ৫৬ kcal; ২ ATP; ইস্ট ও কিছু ব্যাকটেরিয়ায়।
+- চার ধাপ: গ্লাইকোলাইসিস (সাইটোপ্লাজম) → অ্যাসিটাইল কো-এ সৃষ্টি → ক্রেবস চক্র → ইলেকট্রন প্রবাহতন্ত্র (মাইটোকন্ড্রিয়া)।
+- গ্লাইকোলাইসিস: গ্লুকোজ → ২ পাইরুভিক এসিড; নিট ২ ATP + ২ NADH। ক্রেবস (প্রতি গ্লুকোজে): ৪ CO₂, ৬ NADH, ২ FADH₂, ২ GTP।
+- NADH = ৩ ATP, FADH₂ = ২ ATP, GTP = ১ ATP; ৮ + ৬ + ২৪ = ৩৮।
+- অবাত: গ্লাইকোলাইসিস, তারপর পাইরুভিক এসিড বিজারিত হয়ে অ্যালকোহল + CO₂ বা ল্যাকটিক এসিড।
+## think
+চিনির দ্রবণ ভরা শক্ত করে বন্ধ বোতলে ইস্ট সব অক্সিজেন ফুরিয়ে যাওয়ার পরও কিছুক্ষণ বেঁচে থাকে, কিন্তু বন্ধ বয়ামে একটি ইঁদুর পারে না। এই পার্থক্য ব্যাখ্যা করো।
+## quiz
+? কোষের কোথায় গ্লাইকোলাইসিস ঘটে?
+- মাইটোকন্ড্রিয়ায়
+* সাইটোপ্লাজমে
+- নিউক্লিয়াসে
+- ক্লোরোপ্লাস্টে
+= গ্লাইকোলাইসিস সাইটোপ্লাজমে ঘটে, আর এতে অক্সিজেন লাগে না।
+? ২ অণু NADH + H⁺ থেকে পাওয়া ATP-ও ধরলে (তোমার বইয়ের চার্টের মতো) গ্লাইকোলাইসিস ধাপে নিট কতটি ATP পাওয়া যায়?
+- ৪
+- ৬
+* ৮
+- ১০
+= সরাসরি ২ ATP + ২ NADH × ৩ = ৬ ATP, অর্থাৎ মোট ৮ ATP।
+? সবাত শ্বসনে এক অণু গ্লুকোজ সম্পূর্ণ জারিত হলে (তোমার বইয়ের হিসাবে) কতটি ATP তৈরি হয়?
+- ২
+- ৮
+- ২৪
+* ৩৮
+= ৮ (গ্লাইকোলাইসিস) + ৬ (অ্যাসিটাইল কো-এ সৃষ্টি) + ২৪ (ক্রেবস চক্র) = ৩৮।
+? ইস্টের অবাত শ্বসনে কী কী উৎপন্ন হয়?
+* ইথাইল অ্যালকোহল ও CO₂
+- ল্যাকটিক এসিড ও O₂
+- শুধু CO₂ ও H₂O
+- গ্লুকোজ ও O₂
+= C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + সামান্য শক্তি।
+? আমরা শ্বাসের সাথে যে অক্সিজেন নিই, তা আসলে কোন ধাপে ব্যবহৃত হয়?
+- গ্লাইকোলাইসিস
+- ক্রেবস চক্র
+* ইলেকট্রন প্রবাহতন্ত্র
+- অ্যাসিটাইল কো-এ সৃষ্টি
+= ইলেকট্রন প্রবাহতন্ত্রের শেষে ইলেকট্রন ও প্রোটন অক্সিজেনের সাথে যুক্ত হয়ে পানি তৈরি করে।
+
+@@ 4.3.2
+@visual b4flask
+@related 4.3 4.2.2 4.1 7.1
+== en
+## what
+The rate of respiration changes with conditions outside the cell (temperature, oxygen, water, light, CO₂) and inside it (food, enzymes, age of the cell, salts, water). Respiration matters because it supplies the energy for every activity of life, and its anaerobic form gives us bread, curd and alcohol.
+## simple
+**Factors affecting respiration (4.3.2).** Like photosynthesis, respiration speeds up or slows down with conditions. Your book groups the factors into two sets.
+
+**(a) External factors**
+- **Temperature**: the rate falls below **20°C** and above **45°C**. The best range for respiration is **20°C to 45°C**.
+- **Oxygen**: in aerobic respiration pyruvic acid is oxidised to CO₂ and H₂O, so without oxygen aerobic respiration cannot go on at all.
+- **Water**: a moderate supply of water keeps respiration normal. Too little or too much water disturbs it.
+- **Light**: respiration does not need light. But in daytime the stomata are open, so taking in O₂ and giving out CO₂ is easier, and the rate rises a little.
+- **Carbon dioxide**: if the concentration of CO₂ in the air rises, the rate of respiration falls slightly.
+
+**(b) Internal factors**
+- **Food material**: respiration breaks down food (the respiratory substrate) to release energy, water and CO₂, so the amount and kind of food in the cell control the rate.
+- **Enzymes**: many kinds of enzymes take an active part, so a shortage of enzymes lowers the rate.
+- **Age of the cell**: young cells, especially dividing (meristematic) cells, have more protoplasm, so they respire faster than old cells.
+- **Inorganic salts**: some salts hinder respiration, but a cell needs inorganic salts inside it to work and respire normally.
+- **Water inside the cell**: water is needed to dissolve the respiratory substrates and to let the enzymes work.
+
+**Why dry seeds keep and damp seeds spoil.** A dry seed has very little water, so its enzymes hardly work and its respiration is extremely slow: it can "sleep" for months. Soak it, and the enzymes wake up, respiration shoots up and the seed germinates. This is also why paddy is dried well in the sun before it is stored.
+
+**Significance of respiration (4.3.3).**
+- The energy from respiration runs **every activity** of a living thing.
+- The **CO₂** given out is used in photosynthesis to make carbohydrate, the main food of the living world.
+- It helps plants **absorb mineral salts**, which indirectly keeps growth and other life processes going.
+- The energy and some of the materials needed for **cell division** come from respiration, so it also controls **growth**.
+- It helps in making various **alkaloids and organic acids** that are useful in other life processes.
+- Some bacteria cannot live in the presence of oxygen; **anaerobic respiration is their only way** of getting energy.
+- **Industry and food**: the ethyl alcohol made in anaerobic respiration is used in many industries. Lactic acid fermentation gives **curd (doi) and cheese**. In bread-making, the anaerobic respiration of **yeast** produces alcohol and CO₂; the pressure of the CO₂ makes the bread rise and become spongy.
+
+**Experiment: heat is released in respiration.**
+
+*You need:* two thermoflasks, two thermometers, two rubber corks with a hole, germinated gram (chhola) seeds, 10% mercuric chloride solution.
+
+1. Label the flasks **A** and **B**.
+2. Put some germinated gram seeds with a little water into flask A. Push a thermometer through the cork and close the mouth of the flask tightly.
+3. Soak the remaining germinated seeds in 10% mercuric chloride solution for 10 minutes and put them into flask B. Fit its thermometer and cork in the same way.
+4. Note the starting temperature of both flasks and leave them undisturbed.
+
+*Observation:* after a few hours the temperature in flask A has gone up. In flask B it has not changed.
+
+*Conclusion:* the seeds in A are alive, so they go on respiring and give out heat, which raises the temperature. The seeds in B were killed and sterilised by mercuric chloride, so they do not respire and the temperature stays the same. Respiration releases energy as heat.
+
+*Precautions:* the seeds must be fresh and well germinated; the bulb of the thermometer must sit in the middle of the seeds.
+
+**Safety.** Mercuric chloride is a strong poison. Students must never handle it; only the teacher should, wearing gloves. Many schools use a safer way to prepare flask B: boil the germinated seeds to kill them, let them cool, and rinse them with a disinfectant so that microbes do not grow on them.
+## analogy
+Think of a rice mill's machine room. On a freezing morning the machines turn stiffly; on a normal warm day they run smoothly; if the room gets far too hot the machines are damaged and stop. The enzymes of respiration are the cell's machines, and that is why temperature matters so much.
+## definition
+**Factors of respiration**: the conditions that increase or decrease the rate of respiration. **External factors**: temperature, oxygen, water, light and carbon dioxide. **Internal factors**: food material, enzymes, age of the cell, inorganic salts and intracellular water.
+
+**Significance of respiration**: respiration supplies the energy for all the activities of an organism, provides CO₂ for photosynthesis, supports mineral absorption, cell division and growth, and in its anaerobic form is used to produce alcohol, curd, cheese and bread.
+## why
+Why use thermoflasks and two sets of seeds? A thermoflask is insulated, so the small amount of heat produced by the seeds cannot leak away and can be measured as a rise in temperature. Flask B is the **control**: it has the same seeds, the same water and the same flask, and differs in only one thing, namely that its seeds are dead. So any difference between A and B must be caused by living, respiring seeds. And why sterilise the dead seeds? Because bacteria and fungi growing on dead seeds would respire too and give out heat, which would spoil the comparison.
+## terms
+External factors | Temperature, oxygen, water, light, carbon dioxide
+Internal factors | Food material, enzymes, age of the cell, inorganic salts, intracellular water
+Meristematic cell | A young dividing cell with much protoplasm; respires fast
+Fermentation | Anaerobic respiration of microbes used to make alcohol, curd, cheese and bread
+Thermoflask | Insulated flask that keeps heat from escaping
+Control | The set-up kept for comparison, in which the factor being tested is absent (flask B)
+Sterilised | Made free of living microbes
+## visual
+Predict first, then let time pass and watch the two thermometers. Which flask warms up, and why does the other stay the same?
+## real
+Farmers dry paddy in the sun for days before filling the gola or the sacks, because damp grain respires quickly, heats up and spoils. Fruits and vegetables last longer in a refrigerator partly because the cold slows their respiration (and that of the microbes on them). And every bakery in Bangladesh, from a neighbourhood shop making pau-ruti to a large factory, depends on the anaerobic respiration of yeast.
+## example
+Q: In the experiment, the thermometers of flasks A and B both read 28°C at the start. After a few hours A reads 33°C and B reads 28°C. Find the rise in each flask and explain the result.
+Given: A: 28°C → 33°C; B: 28°C → 28°C
+Calculation: rise in A = 33 − 28 = 5°C; rise in B = 28 − 28 = 0°C
+> The flasks are insulated, so the heat stays inside and shows up as a rise in temperature.
+Answer: A rises by 5°C because its living seeds respire and release heat. B does not rise because its seeds are dead and do not respire.
+## example
+Q: A farmer filled sacks with paddy that was not fully dry. After some days the inside of the sacks felt warm and the grain began to spoil. Explain why, and say what should have been done.
+Solution: Think about what water does to respiration.
+Step: Damp grains contain enough water for their enzymes to work, so they respire quickly. Fungi and bacteria also grow and respire on damp grain.
+Step: Respiration releases heat. Packed inside a sack, the heat cannot escape, so the grain warms up, and the warmth and moisture speed up spoilage.
+Answer: The damp paddy and the microbes on it respired fast and released heat. The paddy should have been dried well in the sun, so that with little water its respiration stays very slow.
+## example
+Q: In which kind of plant cell is the rate of respiration higher: a cell at the growing tip of a root or an old cell of the bark? Why?
+Solution: Compare the amount of protoplasm and the work each cell does.
+Step: Cells at the root tip are young meristematic cells. They have more protoplasm and are dividing, which needs much energy.
+Step: Old cells have less protoplasm and do less work.
+Answer: The young root-tip (meristematic) cell respires faster, because it has more protoplasm and needs more energy for cell division and growth.
+## mistakes
+x Respiration needs light, so it stops at night.
+v Respiration needs no light and goes on day and night. Light only makes gas exchange a little easier by opening the stomata.
+x The hotter it is, the faster respiration becomes.
+v The rate is best between 20°C and 45°C; above 45°C it falls because enzymes are damaged.
+x In the flask experiment, flask B is unnecessary.
+v Flask B is the control. Without it we could not be sure that the heat comes from living, respiring seeds.
+x Fermentation is something that only spoils food.
+v Controlled fermentation gives us bread, curd, cheese and alcohol for industry.
+## remember
+- External factors: temperature (best 20–45°C), oxygen, water, light, CO₂.
+- Internal factors: food material, enzymes, age of the cell, inorganic salts, intracellular water.
+- Young meristematic cells respire faster than old cells.
+- Respiration gives energy for all activities, CO₂ for photosynthesis, and supports mineral absorption, cell division and growth.
+- Anaerobic respiration: only energy source of some bacteria; gives alcohol, curd, cheese; yeast's CO₂ raises bread.
+- Experiment: living germinating seeds (flask A) warm up; killed seeds (flask B) do not. Respiration releases heat.
+## think
+If you repeated the flask experiment with dry, ungerminated gram seeds in flask A, would the temperature rise as much? Explain.
+## quiz
+? According to your book, the best temperature range for respiration is:
+- 0°C to 10°C
+* 20°C to 45°C
+- 45°C to 60°C
+- 60°C to 80°C
+= The rate falls below 20°C and above 45°C.
+? Which of these is an internal factor of respiration?
+- Temperature
+- Light
+* Enzymes
+- Oxygen
+= Enzymes, food material, age of the cell, inorganic salts and intracellular water are internal factors.
+? In the thermoflask experiment, why does the temperature of flask A rise?
+- Mercuric chloride gives out heat
+- The thermometer is faulty
+- Sunlight enters the flask
+* The living seeds respire and release heat
+= Living germinating seeds respire quickly; part of the energy is released as heat.
+? What makes bread rise and become spongy?
+* CO₂ from the anaerobic respiration of yeast
+- O₂ from photosynthesis
+- Lactic acid from bacteria
+- Water vapour only
+= Yeast produces alcohol and CO₂; the pressure of the CO₂ puffs up the dough.
+? Why do young meristematic cells respire faster than old cells?
+- They have less protoplasm
+- They have no enzymes
+* They have more protoplasm
+- They contain no water
+= More protoplasm (and the energy demand of cell division) means a higher rate of respiration.
+== bn
+## what
+শ্বসনের হার কোষের বাইরের অবস্থা (তাপমাত্রা, অক্সিজেন, পানি, আলো, CO₂) আর ভেতরের অবস্থার (খাদ্য, এনজাইম, কোষের বয়স, লবণ, পানি) সাথে বদলায়। শ্বসন গুরুত্বপূর্ণ, কারণ জীবনের প্রতিটি কাজের শক্তি এখান থেকেই আসে, আর এর অবাত রূপ আমাদের দেয় রুটি, দই ও অ্যালকোহল।
+## simple
+**শ্বসনের প্রভাবক (৪.৩.২)।** সালোকসংশ্লেষণের মতো শ্বসনের গতিও অবস্থাভেদে বাড়ে-কমে। তোমার বইয়ে প্রভাবকগুলোকে দুই ভাগে ভাগ করা হয়েছে।
+
+**(ক) বাহ্যিক প্রভাবক**
+- **তাপমাত্রা**: **২০°C**-এর নিচে আর **৪৫°C**-এর ওপরে শ্বসনের হার কমে যায়। শ্বসনের জন্য উত্তম তাপমাত্রা **২০°C থেকে ৪৫°C**।
+- **অক্সিজেন**: সবাত শ্বসনে পাইরুভিক এসিড জারিত হয়ে CO₂ ও H₂O হয়, তাই অক্সিজেন ছাড়া সবাত শ্বসন কোনোভাবেই চলতে পারে না।
+- **পানি**: পরিমিত পানি সরবরাহ শ্বসনকে স্বাভাবিক রাখে। পানি খুব কম বা খুব বেশি হলে শ্বসন ব্যাহত হয়।
+- **আলো**: শ্বসনে আলো লাগে না। তবে দিনের বেলা পত্ররন্ধ্র খোলা থাকে, তাই O₂ গ্রহণ ও CO₂ ত্যাগ সহজ হয় আর হার একটু বাড়ে।
+- **কার্বন ডাই-অক্সাইড**: বাতাসে CO₂-এর ঘনত্ব বাড়লে শ্বসনের হার একটুখানি কমে যায়।
+
+**(খ) অভ্যন্তরীণ প্রভাবক**
+- **খাদ্যদ্রব্য**: শ্বসনে খাদ্যদ্রব্য (শ্বসনিক বস্তু) ভেঙে শক্তি, পানি ও CO₂ বের হয়, তাই কোষে খাদ্যের পরিমাণ ও ধরন শ্বসনের হার নিয়ন্ত্রণ করে।
+- **উৎসেচক (এনজাইম)**: অনেক ধরনের এনজাইম সক্রিয়ভাবে অংশ নেয়, তাই এনজাইমের ঘাটতি হলে হার কমে।
+- **কোষের বয়স**: অল্পবয়স্ক কোষে, বিশেষ করে ভাজক কোষে, প্রোটোপ্লাজম বেশি থাকে, তাই সেখানে শ্বসনের হার বয়স্ক কোষের চেয়ে বেশি।
+- **অজৈব লবণ**: কোনো কোনো লবণ শ্বসনকে ব্যাহত করে, তবে কোষের স্বাভাবিক কাজ ও শ্বসনের জন্য কোষের ভেতরে অজৈব লবণ থাকতেই হয়।
+- **কোষমধ্যস্থ পানি**: শ্বসনিক বস্তুকে দ্রবীভূত করতে আর এনজাইমকে কাজ করতে দিতে পানি দরকার।
+
+**শুকনো বীজ টেকে, ভেজা বীজ নষ্ট হয় কেন।** শুকনো বীজে পানি খুব কম, তাই এনজাইম প্রায় কাজই করে না, শ্বসনও চলে অতি ধীরে: বীজ মাসের পর মাস "ঘুমিয়ে" থাকতে পারে। ভিজিয়ে দিলে এনজাইম জেগে ওঠে, শ্বসন হুহু করে বাড়ে, বীজ অঙ্কুরিত হয়। এ কারণেই ধান গোলায় তোলার আগে রোদে ভালো করে শুকানো হয়।
+
+**শ্বসনের গুরুত্ব (৪.৩.৩)।**
+- শ্বসনে উৎপন্ন শক্তি দিয়েই জীবের **সব ধরনের কাজ** চলে।
+- শ্বসনে নির্গত **CO₂** সালোকসংশ্লেষণে ব্যবহৃত হয়ে জীবজগতের প্রধান খাদ্য শর্করা তৈরি করে।
+- এটি উদ্ভিদকে **খনিজ লবণ পরিশোষণে** সাহায্য করে, যা পরোক্ষভাবে বৃদ্ধি ও অন্যান্য জৈবিক প্রক্রিয়া চালু রাখে।
+- **কোষ বিভাজনের** প্রয়োজনীয় শক্তি ও কিছু আনুষঙ্গিক পদার্থ শ্বসন থেকে আসে, তাই এটি **দৈহিক বৃদ্ধিও** নিয়ন্ত্রণ করে।
+- এটি বিভিন্ন **উপক্ষার ও জৈব এসিড** তৈরিতে সহায়তা করে, যা জীবনের অন্যান্য জৈবিক কাজে লাগে।
+- কিছু ব্যাকটেরিয়া অক্সিজেনের উপস্থিতিতে বাঁচতে পারে না; **অবাত শ্বসনই তাদের শক্তি পাওয়ার একমাত্র উপায়**।
+- **শিল্প ও খাদ্য**: অবাত শ্বসনে তৈরি ইথাইল অ্যালকোহল নানা শিল্পে ব্যবহৃত হয়। ল্যাকটিক এসিড ফার্মেন্টেশনে তৈরি হয় **দই ও পনির**। রুটি তৈরিতে **ইস্টের** অবাত শ্বসনে অ্যালকোহল ও CO₂ তৈরি হয়; CO₂ গ্যাসের চাপে রুটি ফুলে ওঠে আর ভেতরে ফাঁপা হয়।
+
+**পরীক্ষা: শ্বসনে তাপ নির্গত হয়।**
+
+*উপকরণ:* দুটি থার্মোফ্লাস্ক, দুটি থার্মোমিটার, ছিদ্রযুক্ত দুটি রাবার কর্ক, অঙ্কুরিত ছোলা, ১০% মারকিউরিক ক্লোরাইড দ্রবণ।
+
+1. ফ্লাস্ক দুটিতে **ক** ও **খ** লেবেল লাগাও।
+2. ক ফ্লাস্কে সামান্য পানিসহ কিছু অঙ্কুরিত ছোলা নাও। কর্কের ছিদ্র দিয়ে একটি থার্মোমিটার ঢুকিয়ে ফ্লাস্কের মুখ ভালোভাবে বন্ধ করো।
+3. বাকি অঙ্কুরিত ছোলাগুলো ১০% মারকিউরিক ক্লোরাইড দ্রবণে ১০ মিনিট ডুবিয়ে রেখে খ ফ্লাস্কে নাও। একইভাবে থার্মোমিটার ও কর্ক লাগাও।
+4. দুই ফ্লাস্কের প্রাথমিক তাপমাত্রা লিখে রাখো, তারপর ফ্লাস্ক দুটি নাড়াচাড়া না করে রেখে দাও।
+
+*পর্যবেক্ষণ:* কয়েক ঘণ্টা পর ক ফ্লাস্কের তাপমাত্রা বেড়ে যায়। খ ফ্লাস্কের তাপমাত্রা বদলায় না।
+
+*সিদ্ধান্ত:* ক ফ্লাস্কের ছোলাগুলো সজীব, তাই শ্বসন চালিয়ে যায় আর তাপ ছাড়ে, ফলে তাপমাত্রা বাড়ে। খ ফ্লাস্কের ছোলাগুলো মারকিউরিক ক্লোরাইডে মরে গিয়ে নির্বীজ হয়ে গেছে, তাই শ্বসন হয় না, তাপমাত্রাও একই থাকে। শ্বসনে শক্তি তাপ হিসেবে নির্গত হয়।
+
+*সতর্কতা:* বীজগুলো সতেজ ও ভালোভাবে অঙ্কুরিত হতে হবে; থার্মোমিটারের পারদপূর্ণ অংশটি বীজের মাঝখানে থাকতে হবে।
+
+**নিরাপত্তা।** মারকিউরিক ক্লোরাইড তীব্র বিষ। শিক্ষার্থীরা কখনো এটি ধরবে না; শুধু শিক্ষক দস্তানা পরে ব্যবহার করবেন। অনেক বিদ্যালয়ে খ ফ্লাস্কের জন্য নিরাপদ একটি উপায় ব্যবহার করা হয়: অঙ্কুরিত বীজ সিদ্ধ করে মেরে ফেলা হয়, ঠান্ডা করা হয়, তারপর জীবাণুনাশক দিয়ে ধুয়ে নেওয়া হয়, যাতে গায়ে অণুজীব না জন্মায়।
+## analogy
+একটা চালকলের যন্ত্রঘরের কথা ভাবো। হাড়কাঁপানো শীতের সকালে যন্ত্র আড়ষ্টভাবে ঘোরে; স্বাভাবিক উষ্ণ দিনে চলে মসৃণভাবে; ঘর অতিরিক্ত গরম হয়ে গেলে যন্ত্র নষ্ট হয়ে থেমে যায়। শ্বসনের এনজাইমগুলো হলো কোষের যন্ত্র, আর এজন্যই তাপমাত্রা এত গুরুত্বপূর্ণ।
+## definition
+**শ্বসনের প্রভাবক**: যেসব বিষয় শ্বসনের হার বাড়ায় বা কমায়। **বাহ্যিক প্রভাবক**: তাপমাত্রা, অক্সিজেন, পানি, আলো ও কার্বন ডাই-অক্সাইড। **অভ্যন্তরীণ প্রভাবক**: খাদ্যদ্রব্য, উৎসেচক (এনজাইম), কোষের বয়স, অজৈব লবণ ও কোষমধ্যস্থ পানি।
+
+**শ্বসনের গুরুত্ব**: শ্বসন জীবের সব কাজের শক্তি জোগায়, সালোকসংশ্লেষণের জন্য CO₂ দেয়, খনিজ লবণ পরিশোষণ, কোষ বিভাজন ও বৃদ্ধিতে সহায়তা করে, আর এর অবাত রূপ অ্যালকোহল, দই, পনির ও রুটি তৈরিতে ব্যবহৃত হয়।
+## why
+থার্মোফ্লাস্ক আর দুই সেট বীজ কেন? থার্মোফ্লাস্ক তাপ-অন্তরক, তাই বীজের তৈরি সামান্য তাপ বাইরে পালাতে পারে না, আর তাপমাত্রা বৃদ্ধি হিসেবে মাপা যায়। খ ফ্লাস্ক হলো **নিয়ন্ত্রিত নমুনা (কন্ট্রোল)**: এতে একই বীজ, একই পানি, একই ফ্লাস্ক, পার্থক্য কেবল একটি, বীজগুলো মৃত। তাই ক ও খ-এর মধ্যে যে পার্থক্য দেখা যাবে, তার কারণ অবশ্যই সজীব বীজের শ্বসন। আর মৃত বীজকে নির্বীজ করা হয় কেন? কারণ মৃত বীজের গায়ে ব্যাকটেরিয়া ও ছত্রাক জন্মালে তারাও শ্বসন করে তাপ ছাড়ত, তাতে তুলনাটাই নষ্ট হয়ে যেত।
+## terms
+বাহ্যিক প্রভাবক | তাপমাত্রা, অক্সিজেন, পানি, আলো, কার্বন ডাই-অক্সাইড
+অভ্যন্তরীণ প্রভাবক | খাদ্যদ্রব্য, উৎসেচক, কোষের বয়স, অজৈব লবণ, কোষমধ্যস্থ পানি
+ভাজক কোষ | বিভাজনক্ষম অল্পবয়স্ক কোষ, প্রোটোপ্লাজম বেশি; শ্বসনের হার বেশি
+ফার্মেন্টেশন | অণুজীবের অবাত শ্বসন, যা দিয়ে অ্যালকোহল, দই, পনির ও রুটি তৈরি হয়
+থার্মোফ্লাস্ক | তাপ-অন্তরক ফ্লাস্ক, যা থেকে তাপ বাইরে যেতে পারে না
+নিয়ন্ত্রিত নমুনা (কন্ট্রোল) | তুলনার জন্য রাখা ব্যবস্থা, যেখানে পরীক্ষিত বিষয়টি অনুপস্থিত (খ ফ্লাস্ক)
+নির্বীজ | জীবিত অণুজীবমুক্ত
+## visual
+আগে অনুমান করো, তারপর সময় এগিয়ে দিয়ে দুটি থার্মোমিটার দেখো। কোন ফ্লাস্ক গরম হয়, আর অন্যটি একই থাকে কেন?
+## real
+কৃষকেরা গোলা বা বস্তা ভরার আগে কয়েক দিন ধরে ধান রোদে শুকান, কারণ ভেজা শস্য দ্রুত শ্বসন করে, গরম হয়ে ওঠে আর নষ্ট হয়। ফ্রিজে ফল ও শাকসবজি বেশি দিন ভালো থাকার একটা কারণ, ঠান্ডায় এদের (আর এদের গায়ের অণুজীবের) শ্বসন ধীর হয়ে যায়। আর পাড়ার পাউরুটির দোকান থেকে বড় কারখানা পর্যন্ত বাংলাদেশের প্রতিটি বেকারি নির্ভর করে ইস্টের অবাত শ্বসনের ওপর।
+## example
+প্রশ্ন: পরীক্ষার শুরুতে ক ও খ দুই ফ্লাস্কের থার্মোমিটারেই পাঠ ছিল ২৮°C। কয়েক ঘণ্টা পর ক-তে পাঠ ৩৩°C আর খ-তে ২৮°C। প্রতিটি ফ্লাস্কে তাপমাত্রা কত বাড়ল বের করো এবং ফলাফল ব্যাখ্যা করো।
+দেওয়া আছে: ক: ২৮°C → ৩৩°C; খ: ২৮°C → ২৮°C
+হিসাব: ক-তে বৃদ্ধি = ৩৩ − ২৮ = ৫°C; খ-তে বৃদ্ধি = ২৮ − ২৮ = ০°C
+> ফ্লাস্ক তাপ-অন্তরক, তাই তাপ ভেতরেই থাকে আর তাপমাত্রা বৃদ্ধি হিসেবে ধরা পড়ে।
+উত্তর: ক-তে ৫°C বাড়ে, কারণ এর সজীব বীজ শ্বসন করে তাপ ছাড়ে। খ-তে বাড়ে না, কারণ এর বীজ মৃত, শ্বসন করে না।
+## example
+প্রশ্ন: একজন কৃষক পুরোপুরি না শুকানো ধান বস্তায় ভরলেন। কয়েক দিন পর বস্তার ভেতরটা গরম লাগল আর ধান নষ্ট হতে শুরু করল। কারণ ব্যাখ্যা করো এবং কী করা উচিত ছিল বলো।
+সমাধান: ভাবো, পানি শ্বসনের ওপর কী প্রভাব ফেলে।
+ধাপ: ভেজা শস্যে এনজাইমের কাজ করার মতো যথেষ্ট পানি থাকে, তাই শ্বসন দ্রুত চলে। ভেজা শস্যে ছত্রাক ও ব্যাকটেরিয়াও জন্মায় আর শ্বসন করে।
+ধাপ: শ্বসনে তাপ নির্গত হয়। বস্তার ভেতরে ঠাসা থাকায় তাপ বেরোতে পারে না, তাই ধান গরম হয়ে ওঠে; উষ্ণতা আর আর্দ্রতা মিলে পচন আরও দ্রুত করে।
+উত্তর: ভেজা ধান ও তার গায়ের অণুজীব দ্রুত শ্বসন করে তাপ ছেড়েছে। ধান রোদে ভালোভাবে শুকিয়ে নেওয়া উচিত ছিল, যাতে পানি কম থাকায় শ্বসন অতি ধীরে চলে।
+## example
+প্রশ্ন: উদ্ভিদের কোন ধরনের কোষে শ্বসনের হার বেশি: মূলের বর্ধিষ্ণু অগ্রভাগের কোষ, নাকি বাকলের পুরোনো কোষ? কেন?
+সমাধান: প্রোটোপ্লাজমের পরিমাণ আর কোষের কাজ তুলনা করো।
+ধাপ: মূলের অগ্রভাগের কোষ অল্পবয়স্ক ভাজক কোষ। এদের প্রোটোপ্লাজম বেশি, আর এরা বিভাজিত হচ্ছে, যাতে অনেক শক্তি লাগে।
+ধাপ: বয়স্ক কোষে প্রোটোপ্লাজম কম, কাজও কম।
+উত্তর: মূলের অগ্রভাগের অল্পবয়স্ক (ভাজক) কোষে শ্বসনের হার বেশি, কারণ এতে প্রোটোপ্লাজম বেশি এবং কোষ বিভাজন ও বৃদ্ধির জন্য বেশি শক্তি লাগে।
+## mistakes
+x শ্বসনে আলো লাগে, তাই রাতে শ্বসন বন্ধ থাকে।
+v শ্বসনে আলো লাগে না, দিনরাত চলে। আলোতে পত্ররন্ধ্র খোলা থাকে বলে গ্যাস বিনিময় একটু সহজ হয় মাত্র।
+x যত গরম, শ্বসন তত দ্রুত।
+v ২০°C থেকে ৪৫°C-এর মধ্যে হার সবচেয়ে ভালো; ৪৫°C-এর ওপরে এনজাইম নষ্ট হয় বলে হার কমে যায়।
+x ফ্লাস্কের পরীক্ষায় খ ফ্লাস্কের দরকার নেই।
+v খ ফ্লাস্ক হলো নিয়ন্ত্রিত নমুনা। এটি না থাকলে নিশ্চিত হওয়া যেত না যে তাপ সজীব বীজের শ্বসন থেকেই আসছে।
+x ফার্মেন্টেশন মানেই খাবার নষ্ট হওয়া।
+v নিয়ন্ত্রিত ফার্মেন্টেশন থেকেই আমরা রুটি, দই, পনির আর শিল্পের অ্যালকোহল পাই।
+## remember
+- বাহ্যিক প্রভাবক: তাপমাত্রা (উত্তম ২০–৪৫°C), অক্সিজেন, পানি, আলো, CO₂।
+- অভ্যন্তরীণ প্রভাবক: খাদ্যদ্রব্য, উৎসেচক, কোষের বয়স, অজৈব লবণ, কোষমধ্যস্থ পানি।
+- অল্পবয়স্ক ভাজক কোষে শ্বসনের হার বয়স্ক কোষের চেয়ে বেশি।
+- শ্বসন সব কাজের শক্তি দেয়, সালোকসংশ্লেষণের CO₂ দেয়, খনিজ লবণ পরিশোষণ, কোষ বিভাজন ও বৃদ্ধিতে সহায়তা করে।
+- অবাত শ্বসন: কিছু ব্যাকটেরিয়ার শক্তির একমাত্র উপায়; এ থেকে অ্যালকোহল, দই, পনির; ইস্টের CO₂-এ রুটি ফোলে।
+- পরীক্ষা: সজীব অঙ্কুরিত বীজ (ক ফ্লাস্ক) গরম হয়; মৃত বীজ (খ ফ্লাস্ক) হয় না। শ্বসনে তাপ নির্গত হয়।
+## think
+ফ্লাস্কের পরীক্ষাটি যদি ক ফ্লাস্কে শুকনো, অঙ্কুরিত না হওয়া ছোলা দিয়ে করা হতো, তাহলে কি তাপমাত্রা একই রকম বাড়ত? ব্যাখ্যা করো।
+## quiz
+? তোমার বই অনুযায়ী শ্বসনের জন্য উত্তম তাপমাত্রা:
+- ০°C থেকে ১০°C
+* ২০°C থেকে ৪৫°C
+- ৪৫°C থেকে ৬০°C
+- ৬০°C থেকে ৮০°C
+= ২০°C-এর নিচে ও ৪৫°C-এর ওপরে হার কমে যায়।
+? নিচের কোনটি শ্বসনের অভ্যন্তরীণ প্রভাবক?
+- তাপমাত্রা
+- আলো
+* উৎসেচক (এনজাইম)
+- অক্সিজেন
+= উৎসেচক, খাদ্যদ্রব্য, কোষের বয়স, অজৈব লবণ ও কোষমধ্যস্থ পানি অভ্যন্তরীণ প্রভাবক।
+? থার্মোফ্লাস্কের পরীক্ষায় ক ফ্লাস্কের তাপমাত্রা বাড়ে কেন?
+- মারকিউরিক ক্লোরাইড তাপ ছাড়ে
+- থার্মোমিটার ত্রুটিপূর্ণ
+- ফ্লাস্কে সূর্যালোক ঢোকে
+* সজীব বীজ শ্বসন করে তাপ ছাড়ে
+= সজীব অঙ্কুরিত বীজ দ্রুত শ্বসন করে; শক্তির একাংশ তাপ হিসেবে নির্গত হয়।
+? রুটি কিসের কারণে ফুলে ওঠে ও ফাঁপা হয়?
+* ইস্টের অবাত শ্বসনে তৈরি CO₂
+- সালোকসংশ্লেষণের O₂
+- ব্যাকটেরিয়ার ল্যাকটিক এসিড
+- শুধু জলীয় বাষ্প
+= ইস্ট অ্যালকোহল ও CO₂ তৈরি করে; CO₂-এর চাপে খামির ফুলে ওঠে।
+? অল্পবয়স্ক ভাজক কোষে শ্বসনের হার বয়স্ক কোষের চেয়ে বেশি কেন?
+- এদের প্রোটোপ্লাজম কম
+- এদের এনজাইম নেই
+* এদের প্রোটোপ্লাজম বেশি
+- এদের মধ্যে পানি নেই
+= প্রোটোপ্লাজম বেশি (আর কোষ বিভাজনে শক্তির চাহিদা বেশি) বলে শ্বসনের হার বেশি।

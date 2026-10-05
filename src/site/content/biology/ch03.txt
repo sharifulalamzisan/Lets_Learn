@@ -1,0 +1,995 @@
+@@chapter
+== en
+## intro
+You began life as a single cell, smaller than a full stop on this page. Today your body is made of about thirty trillion cells. A giant banyan tree that shades a whole village field also began as one cell. How does one cell become so many? And when you cut your finger, where do the new skin cells come from? The answer to both questions is **cell division**: a cell copies its hereditary material and then divides to form new cells.
+
+In this chapter you will learn why cells divide and meet the two main kinds of division. **Mitosis** makes exact copies of a cell, so that a body can grow and repair itself. **Meiosis** halves the number of chromosomes to make reproductive cells, so that the chromosome number stays the same from parents to children, and so that every child is a little different from every other.
+## objectives
+- explain what cell division is and why living things need it
+- describe the types of cell division
+- explain mitosis and where it takes place
+- describe the stages of mitosis in order
+- analyse the importance of mitosis in the living body
+- explain meiosis and why it is called reduction division
+- explain the role of meiosis in making reproductive cells
+- appreciate how cell division keeps life going from one generation to the next
+== bn
+## intro
+তোমার জীবন শুরু হয়েছিল একটিমাত্র কোষ দিয়ে, যা এই পাতার একটি দাঁড়ির চেয়েও ছোট। আজ তোমার দেহে প্রায় ত্রিশ ট্রিলিয়ন (৩০ লক্ষ কোটি) কোষ। গ্রামের মাঠজুড়ে ছায়া দেওয়া বিশাল বটগাছটিরও শুরু একটি কোষ থেকে। একটি কোষ থেকে এত কোষ হয় কীভাবে? আর আঙুল কেটে গেলে নতুন চামড়ার কোষই বা আসে কোথা থেকে? দুই প্রশ্নের উত্তর একটাই: **কোষ বিভাজন**। কোষ তার বংশগতির উপাদানের অনুলিপি তৈরি করে, তারপর ভাগ হয়ে নতুন কোষ তৈরি করে।
+
+এই অধ্যায়ে জানবে কোষ কেন ভাগ হয়, আর পরিচিত হবে প্রধান দুই ধরনের বিভাজনের সাথে। **মাইটোসিস** একটি কোষের হুবহু প্রতিরূপ তৈরি করে, তাই দেহ বাড়তে পারে আর ক্ষত সারাতে পারে। **মিয়োসিস** ক্রোমোজোম সংখ্যা অর্ধেক করে জননকোষ তৈরি করে, তাই বাবা-মা থেকে সন্তানে ক্রোমোজোম সংখ্যা একই থাকে, আবার প্রতিটি সন্তান অন্যদের থেকে একটু আলাদাও হয়।
+## objectives
+- কোষ বিভাজন কী এবং জীবের জন্য এটি কেন দরকার, ব্যাখ্যা করতে পারবে
+- কোষ বিভাজনের প্রকারভেদ বর্ণনা করতে পারবে
+- মাইটোসিস কী এবং কোথায় ঘটে, ব্যাখ্যা করতে পারবে
+- মাইটোসিসের পর্যায়গুলো ক্রমানুসারে বর্ণনা করতে পারবে
+- জীবদেহে মাইটোসিসের গুরুত্ব বিশ্লেষণ করতে পারবে
+- মিয়োসিস কী এবং একে কেন হ্রাসমূলক বিভাজন বলে, ব্যাখ্যা করতে পারবে
+- জননকোষ উৎপাদনে মিয়োসিসের তাৎপর্য ব্যাখ্যা করতে পারবে
+- জীবনের ধারাবাহিকতা রক্ষায় কোষ বিভাজনের অবদান উপলব্ধি করতে পারবে
+
+@@ 3.1
+@visual b3divide
+@related 3.2 3.3 2.1 2.2.3
+== en
+## what
+**Cell division** is the process in which one cell (the mother cell) divides to form new cells (daughter cells). It is how living things grow, repair themselves and reproduce. The two main types of cell division are **mitosis** and **meiosis**.
+## simple
+Every living body is made of cells, and the life of every organism begins with **one single cell**. There is a simple but very important rule here: **every cell comes from a cell that already existed.** A cell never appears from nothing; it is always made by an older cell dividing.
+
+**Unicellular and multicellular organisms.** Some organisms have a body of just one cell. They are **unicellular**: bacteria, *Amoeba* and *Plasmodium* (the malaria parasite) are examples. For them, one division means one new organism, so dividing is their way of reproducing. Other organisms are made of many cells and are called **multicellular**: a human, a banyan tree or a whale has crores and crores of cells. Yet even the biggest banyan tree started from one cell, the **zygote** (a fertilised egg, formed when a male and a female reproductive cell join).
+
+**Why do cells divide? Three big jobs.**
+- **Growth.** A baby does not grow because its cells swell up like balloons. It grows because the *number* of cells increases. The zygote divides into 2 cells, these into 4, then 8, and so on, until there are crores of cells.
+- **Repair and replacement.** Cells wear out or get damaged all the time. New cells fill a wound, replace old skin and make fresh blood cells.
+- **Reproduction.** Unicellular organisms multiply by dividing. In organisms like us, a special division makes the reproductive cells (**gametes**: sperm and egg) from which the next generation begins.
+
+So your book sums it up: cells divide **for the growth and reproduction of organisms**.
+
+**Why not simply have one giant cell?** A cell takes in food and oxygen and removes waste through its surface, and its nucleus has to control everything inside. If a cell kept getting bigger, it would have too much inside for its surface to feed and for its nucleus to manage. Dividing into two smaller cells puts the balance right again. That is why an elephant does not have bigger cells than a mouse; it simply has far more of them.
+
+**Copy first, then divide.** The nucleus holds the chromosomes, and the chromosomes carry the genes: the instructions for building and running the body (see [[2.2.3|the nucleus and chromosomes]]). Every new cell needs these instructions. So before a cell divides, it first makes a copy of its hereditary material. Only then does it divide.
+
+**The two main types of cell division**
+- **Mitosis**: one cell divides once and gives **2 daughter cells** that have the *same* number of chromosomes as the mother cell and are copies of it. It happens in body cells and is used for growth, repair and asexual reproduction. You will study it in [[3.2|lesson 3.2]].
+- **Meiosis**: one cell divides twice and gives **4 daughter cells**, each with *half* the number of chromosomes of the mother cell. It happens only when reproductive cells are being made. You will study it in [[3.3|lesson 3.3]].
+
+*A note about bacteria.* A bacterium has no true nucleus, so it cannot do mitosis or meiosis. It simply copies its DNA and splits into two; this simple, direct splitting is called **binary fission**. Some books count such direct division as a third type and call it *amitosis*.
+
+**The power of doubling.** One cell becomes 2, then 4, 8, 16, 32… After *n* rounds of division there are 2^{n} cells. This grows astonishingly fast. A human body has about 30 trillion cells. You might think it would take ages to make so many, one division at a time. But if every cell divided once a day, only about **45 days** would be enough (your book says 40–50 days). In a real body it takes much longer, because division is carefully controlled and many cells stop dividing.
+## analogy
+Suppose your nani has one handwritten notebook of family recipes, and every grandchild wants it. Nobody tears the notebook in half! First the whole notebook is copied carefully, and then one complete copy is handed on. A cell does the same: it first copies its whole "recipe book" (the DNA in its chromosomes), and only then divides, so that each new cell gets a complete set of instructions.
+## definition
+**Cell division**: the process by which a living cell (the mother cell) divides to produce new cells (daughter cells). Through cell division the number of cells increases, for the growth and reproduction of organisms.
+
+**Mitosis**: cell division in which a cell divides once to form two daughter cells with the same number of chromosomes as the mother cell.
+
+**Meiosis**: cell division in which a cell divides twice to form four daughter cells, each with half the number of chromosomes of the mother cell.
+## why
+Why can't a body grow, heal or reproduce without cell division? Because a cell is the smallest unit that is alive, and there is no way to build a new living cell except from a living cell. Growth needs *more* cells, healing needs *new* cells in place of lost ones, and a new organism must start from a cell that carries the hereditary material of its parents. Cell division is the only process that does all three, and by copying the chromosomes before dividing it makes sure the instructions of life are passed on without being lost.
+## terms
+Cell division | The process in which one cell divides to form new cells
+Mother cell | The cell that divides
+Daughter cells | The new cells formed by division (just a name; it has nothing to do with being female)
+Unicellular organism | An organism whose body is a single cell, e.g. bacteria, *Amoeba*, *Plasmodium*
+Multicellular organism | An organism made of many cells, e.g. human, banyan tree
+Zygote | The fertilised egg; the first cell of a new organism, formed when a male and a female gamete unite
+Gamete | A reproductive cell (sperm or egg)
+Mitosis | Division giving 2 daughter cells with the same chromosome number as the mother cell
+Meiosis | Division giving 4 daughter cells with half the chromosome number of the mother cell
+Binary fission | Simple splitting of one cell into two, as in bacteria
+## formula
+$$ N = 2^{n}
+N | number of cells formed from one cell | no unit
+n | number of rounds of division | no unit
+! Starting with N₀ cells instead of one: N = N₀ × 2^{n}
+! This works only if every cell divides in every round, and each division gives two cells (mitosis or binary fission).
+## visual
+Tap **Divide** and watch one cell become 2, 4, 8… Then slide further to see how quickly the number explodes. In the second tab, decide whether each event needs mitosis or meiosis.
+## real
+- **A scraped knee.** When you fall while playing football, the wound is covered with new skin within days. Cells around the wound divide and fill the gap.
+- **Paddy seedlings.** After transplanting, the seedlings in a rice field shoot up within weeks, because cells at the tips of their roots and shoots keep dividing.
+- **Food left out on a warm night.** A few bacteria on cooked rice or milk can become crores by morning, because some bacteria divide every 20–30 minutes in warm, moist food. That is why food should be covered and kept cool.
+- **Making doi (yoghurt).** A spoonful of old doi added to warm milk carries useful bacteria. They multiply by dividing and turn the whole pot of milk into doi overnight.
+## example
+Q: One bacterium falls on a plate of cooked rice left out on a warm night. If the bacteria divide every 20 minutes, how many will there be after 2 hours? And after 8 hours?
+Given: start with 1 bacterium; one division every 20 minutes; time = 2 hours = 120 minutes
+Formula: N = 2^{n}
+Calculation: n = 120 ÷ 20 = 6, so N = 2^{6} = 64. In 8 hours (480 minutes): n = 480 ÷ 20 = 24, so N = 2^{24} = 16 777 216
+> Each division doubles the number: 1 → 2 → 4 → 8 → 16 → 32 → 64.
+Answer: 64 bacteria after 2 hours, but about 1.7 crore after 8 hours (if nothing stops them). Doubling is slow at first and then explosive.
+## example
+Q: A human body has about 30 trillion (3 × 10^{13}) cells. Starting from one zygote, if every cell divided once a day, after how many days would there be at least this many cells?
+Given: N needed = 3 × 10^{13}; one division per day
+Formula: N = 2^{n}
+Calculation: 2^{10} = 1024 (about a thousand); 2^{20} ≈ 10^{6}; 2^{40} ≈ 1.1 × 10^{12}; 2^{44} ≈ 1.76 × 10^{13} (not enough); 2^{45} ≈ 3.52 × 10^{13} (enough)
+> A handy trick: every 10 doublings multiply the number by about 1000.
+Answer: about 45 days. This agrees with the book's "40–50 days". (A real baby takes much longer, because not every cell keeps dividing.)
+## example
+Q: Which type of cell division is at work in each case? (a) A cut on your hand heals. (b) Pollen grains form in the anther of a mustard flower. (c) An *Amoeba* divides into two. (d) Egg cells form in the ovary of a hen.
+Solution: Ask one question each time: are ordinary cells being copied, or are reproductive cells with half the chromosomes being made?
+Step: (a) New skin cells identical to the old ones are needed → mitosis.
+Step: (b) Pollen grains carry the male reproductive cells of the plant; the chromosome number must be halved → meiosis.
+Step: (c) The *Amoeba* makes a copy of itself (asexual reproduction) → mitosis.
+Step: (d) Eggs are gametes; the chromosome number must be halved → meiosis.
+Answer: (a) mitosis, (b) meiosis, (c) mitosis, (d) meiosis.
+## mistakes
+x A body grows because its cells keep getting bigger and bigger.
+v A body grows mainly because the number of cells increases by division. Cells stay small.
+x "Daughter cells" are female cells.
+v It is only a name for the new cells formed by division. They can be cells of any organism, male or female.
+x Cell division happens only in children, while they are growing.
+v It goes on throughout life: skin, blood and the lining of the gut are renewed all the time, and wounds heal at any age.
+x Meiosis happens in all parts of the body.
+v Meiosis happens only where reproductive cells (or spores) are made. The rest of the body uses mitosis.
+x New cells can form from non-living material inside the body.
+v Every cell comes only from a pre-existing cell, by division.
+## remember
+- Every cell comes from a pre-existing cell; every organism starts as one cell.
+- Cells divide for growth, repair and reproduction.
+- Unicellular: one cell (bacteria, *Amoeba*, *Plasmodium*). Multicellular: many cells (human, banyan tree).
+- Mitosis: 1 cell → 2 cells, same chromosome number.
+- Meiosis: 1 cell → 4 cells, half the chromosome number.
+- After n rounds of division, one cell gives 2^{n} cells.
+## think
+A huge banyan tree and a small tulsi plant both begin as a single cell. Is the banyan bigger because its cells are bigger, or because it has more cells? How could you find out with a microscope?
+## quiz
+? The first cell of a new human being, formed when a sperm joins an egg, is called a:
+- gamete
+* zygote
+- tissue
+- daughter cell
+= The fertilised egg is the zygote; the whole body develops from it by repeated cell division.
+? Which type of cell division makes a child grow taller and heals a wound?
+* Mitosis
+- Meiosis
+- Binary fission
+- Fertilisation
+= Mitosis produces new body cells identical to the old ones, for growth and repair.
+? One cell divides, and then every cell divides again and again. How many cells are there after 5 rounds of division?
+- 10
+- 25
+* 32
+- 64
+= N = 2^{5} = 32 (1 → 2 → 4 → 8 → 16 → 32).
+? Which of these is a unicellular organism?
+- Banyan tree
+- Human
+- Mango tree
+* *Amoeba*
+= An *Amoeba* has a body of only one cell.
+? In meiosis, the number of chromosomes in each daughter cell, compared with the mother cell, is:
+- the same
+- double
+* half
+- four times
+= Meiosis halves the chromosome number; that is why it is used to make reproductive cells.
+== bn
+## what
+যে প্রক্রিয়ায় একটি কোষ (মাতৃকোষ) ভাগ হয়ে নতুন কোষ (অপত্য কোষ) তৈরি করে, তাকে **কোষ বিভাজন** বলে। এর মাধ্যমেই জীব বাড়ে, ক্ষত সারায় আর বংশবৃদ্ধি করে। কোষ বিভাজন প্রধানত দুই ধরনের: **মাইটোসিস** ও **মিয়োসিস**।
+## simple
+প্রতিটি জীবদেহ কোষ দিয়ে তৈরি, আর প্রতিটি জীবের জীবন শুরু হয় **একটিমাত্র কোষ** দিয়ে। এখানে খুব সহজ কিন্তু খুব জরুরি একটা নিয়ম আছে: **প্রতিটি কোষ আসে আগে থেকে থাকা আরেকটি কোষ থেকে।** কোষ কখনো শূন্য থেকে তৈরি হয় না; সবসময় পুরোনো কোনো কোষ ভাগ হয়েই নতুন কোষ হয়।
+
+**এককোষী ও বহুকোষী জীব।** কিছু জীবের দেহ মাত্র একটি কোষ দিয়ে গঠিত। এরা **এককোষী** জীব, যেমন ব্যাকটেরিয়া, অ্যামিবা, প্লাজমোডিয়াম (ম্যালেরিয়ার জীবাণু)। এদের বেলায় একবার বিভাজন মানেই একটি নতুন জীব, তাই বিভাজনই এদের বংশবৃদ্ধির উপায়। আবার অনেক জীব বহু কোষ দিয়ে গঠিত, এরা **বহুকোষী** জীব: মানুষ, বটগাছ বা তিমির দেহে কোটি কোটি কোষ। (তিমিকে অনেকে "তিমি মাছ" বলে, তবে এটি আসলে স্তন্যপায়ী প্রাণী।) অথচ বিশাল বটগাছটিরও সূচনা একটিমাত্র কোষ থেকে, যার নাম **জাইগোট** (নিষিক্ত ডিম্বাণু; পুং ও স্ত্রী জননকোষ মিলে তৈরি হয়)।
+
+**কোষ ভাগ হয় কেন? তিনটি বড় কাজ।**
+- **বৃদ্ধি।** শিশুর কোষগুলো বেলুনের মতো ফুলে ওঠে বলে সে বড় হয় না। সে বড় হয়, কারণ কোষের *সংখ্যা* বাড়ে। জাইগোট ভাগ হয়ে ২টি কোষ হয়, সেগুলো ভাগ হয়ে ৪টি, তারপর ৮টি, এভাবে একসময় কোটি কোটি কোষ।
+- **ক্ষত পূরণ ও পুরোনো কোষের বদল।** কোষ সবসময়ই ক্ষয় হয় বা নষ্ট হয়। নতুন কোষ ক্ষতস্থান ভরে দেয়, পুরোনো চামড়ার জায়গা নেয়, নতুন রক্তকণিকা তৈরি করে।
+- **প্রজনন।** এককোষী জীব ভাগ হয়েই সংখ্যায় বাড়ে। আমাদের মতো জীবে বিশেষ এক ধরনের বিভাজনে জননকোষ (**গ্যামেট**: শুক্রাণু ও ডিম্বাণু) তৈরি হয়, যা থেকে পরের প্রজন্মের শুরু।
+
+তাই তোমার বই এক কথায় বলে: **জীবের বৃদ্ধি ও প্রজননের উদ্দেশ্যে** কোষ বিভাজন হয়।
+
+**একটা বিশাল কোষ হলেই তো হতো, তাই না?** কোষ তার বাইরের তল দিয়ে খাদ্য ও অক্সিজেন নেয়, বর্জ্য বের করে; আর ভেতরের সবকিছু নিয়ন্ত্রণ করে নিউক্লিয়াস। কোষ ক্রমাগত বড় হতে থাকলে ভেতরের অংশ এত বেড়ে যেত যে তার তল দিয়ে পর্যাপ্ত খাদ্য ঢুকত না, নিউক্লিয়াসও সবটা সামলাতে পারত না। ভাগ হয়ে দুটি ছোট কোষ হলে ভারসাম্য আবার ঠিক হয়ে যায়। এজন্যই হাতির কোষ ইঁদুরের কোষের চেয়ে বড় নয়; হাতির কোষ শুধু সংখ্যায় অনেক বেশি।
+
+**আগে অনুলিপি, পরে ভাগ।** নিউক্লিয়াসে থাকে ক্রোমোজোম, আর ক্রোমোজোম বহন করে জিন: দেহ গড়া ও চালানোর নির্দেশনা (দেখো [[2.2.3|নিউক্লিয়াস ও ক্রোমোজোম]])। প্রতিটি নতুন কোষেরই এই নির্দেশনা দরকার। তাই ভাগ হওয়ার আগে কোষ প্রথমে তার বংশগতির উপাদানের একটি অনুলিপি তৈরি করে। তারপরেই ভাগ হয়।
+
+**কোষ বিভাজনের প্রধান দুই ধরন**
+- **মাইটোসিস**: একটি কোষ একবার ভাগ হয়ে **২টি অপত্য কোষ** তৈরি করে, যাদের ক্রোমোজোম সংখ্যা মাতৃকোষের *সমান* এবং যারা মাতৃকোষের প্রতিরূপ। এটি দেহকোষে ঘটে; বৃদ্ধি, ক্ষত পূরণ আর অযৌন জননে কাজে লাগে। বিস্তারিত পড়বে [[3.2|পাঠ ৩.২]]-এ।
+- **মিয়োসিস**: একটি কোষ দুবার ভাগ হয়ে **৪টি অপত্য কোষ** তৈরি করে, যাদের প্রতিটির ক্রোমোজোম সংখ্যা মাতৃকোষের *অর্ধেক*। এটি ঘটে শুধু জননকোষ তৈরির সময়। বিস্তারিত পড়বে [[3.3|পাঠ ৩.৩]]-এ।
+
+*ব্যাকটেরিয়ার কথা।* ব্যাকটেরিয়ার সুগঠিত নিউক্লিয়াস নেই, তাই এতে মাইটোসিস বা মিয়োসিস হয় না। এটি DNA-র অনুলিপি করে সোজাসুজি দুই ভাগ হয়ে যায়; এই সরল বিভাজনকে বলে **দ্বিবিভাজন**। কোনো কোনো বইয়ে এ ধরনের প্রত্যক্ষ বিভাজনকে তৃতীয় একটি ধরন হিসেবে ধরা হয়, নাম *অ্যামাইটোসিস*।
+
+**দ্বিগুণ হওয়ার শক্তি।** একটি কোষ থেকে ২, তারপর ৪, ৮, ১৬, ৩২… *n* বার বিভাজনের পর কোষ হয় ২^{n}টি। সংখ্যাটা অবিশ্বাস্য দ্রুত বাড়ে। মানুষের দেহে প্রায় ৩০ ট্রিলিয়ন (৩০ লক্ষ কোটি) কোষ। মনে হতে পারে, একটি একটি করে ভাগ হয়ে এত কোষ তৈরি হতে বুঝি অনেক অনেক সময় লাগবে। কিন্তু প্রতিটি কোষ যদি দিনে একবার করে ভাগ হতো, তবে মাত্র **৪৫ দিনের** মতো সময়ই যথেষ্ট (তোমার বইয়ে বলা আছে ৪০–৫০ দিন)। বাস্তবে অবশ্য অনেক বেশি সময় লাগে, কারণ কোষ বিভাজন কড়া নিয়ন্ত্রণে চলে এবং অনেক কোষ একসময় ভাগ হওয়া থামিয়ে দেয়।
+## analogy
+ধরো তোমার নানির হাতে লেখা রান্নার একটাই খাতা আছে, আর সব নাতি-নাতনি সেটা চায়। খাতা ছিঁড়ে তো আর দুই ভাগ করা যায় না! আগে পুরো খাতাটা যত্ন করে নকল করা হয়, তারপর একটি পূর্ণ খাতা অন্যজনের হাতে দেওয়া হয়। কোষও তাই করে: আগে নিজের পুরো "রেসিপির খাতা" (ক্রোমোজোমের DNA) নকল করে, তারপর ভাগ হয়, যাতে প্রতিটি নতুন কোষ সম্পূর্ণ নির্দেশনা পায়।
+## definition
+**কোষ বিভাজন**: যে প্রক্রিয়ায় একটি জীবিত কোষ (মাতৃকোষ) বিভক্ত হয়ে নতুন কোষ (অপত্য কোষ) সৃষ্টি করে। কোষ বিভাজনের মাধ্যমে জীবের বৃদ্ধি ও প্রজননের উদ্দেশ্যে কোষের সংখ্যা বাড়ে।
+
+**মাইটোসিস**: যে কোষ বিভাজনে একটি কোষ একবার বিভক্ত হয়ে মাতৃকোষের সমান ক্রোমোজোম সংখ্যাবিশিষ্ট দুটি অপত্য কোষ সৃষ্টি করে।
+
+**মিয়োসিস**: যে কোষ বিভাজনে একটি কোষ পরপর দুবার বিভক্ত হয়ে চারটি অপত্য কোষ সৃষ্টি করে, যাদের প্রতিটিতে ক্রোমোজোম সংখ্যা মাতৃকোষের অর্ধেক।
+## why
+কোষ বিভাজন ছাড়া দেহ বাড়তে, ক্ষত সারাতে বা বংশবৃদ্ধি করতে পারে না কেন? কারণ কোষই জীবনের ক্ষুদ্রতম একক, আর জীবিত কোষ ছাড়া অন্য কোনোভাবে নতুন জীবিত কোষ তৈরি করা যায় না। বৃদ্ধির জন্য চাই *আরও বেশি* কোষ, ক্ষত সারাতে চাই হারানো কোষের জায়গায় *নতুন* কোষ, আর নতুন জীবের শুরু হতে হয় এমন একটি কোষ থেকে, যা বাবা-মায়ের বংশগতির উপাদান বহন করে। এই তিনটি কাজই করতে পারে একমাত্র কোষ বিভাজন; আর ভাগ হওয়ার আগে ক্রোমোজোমের অনুলিপি তৈরি করে বলে জীবনের নির্দেশনা হারিয়ে না গিয়ে পরের কোষে পৌঁছে যায়।
+## terms
+কোষ বিভাজন (Cell division) | যে প্রক্রিয়ায় একটি কোষ ভাগ হয়ে নতুন কোষ তৈরি করে
+মাতৃকোষ (Mother cell) | যে কোষটি ভাগ হয়
+অপত্য কোষ (Daughter cell) | বিভাজনে তৈরি নতুন কোষ ("অপত্য" মানে সন্তান; এটি শুধু একটি নাম)
+এককোষী জীব (Unicellular) | যার দেহ একটিমাত্র কোষ, যেমন ব্যাকটেরিয়া, অ্যামিবা, প্লাজমোডিয়াম
+বহুকোষী জীব (Multicellular) | যার দেহ বহু কোষে গঠিত, যেমন মানুষ, বটগাছ
+জাইগোট (Zygote) | নিষিক্ত ডিম্বাণু; পুং ও স্ত্রী জননকোষের মিলনে তৈরি নতুন জীবের প্রথম কোষ
+গ্যামেট বা জননকোষ (Gamete) | প্রজননের কোষ (শুক্রাণু বা ডিম্বাণু)
+মাইটোসিস (Mitosis) | যে বিভাজনে মাতৃকোষের সমান ক্রোমোজোম সংখ্যার ২টি অপত্য কোষ হয়
+মিয়োসিস (Meiosis) | যে বিভাজনে মাতৃকোষের অর্ধেক ক্রোমোজোম সংখ্যার ৪টি অপত্য কোষ হয়
+দ্বিবিভাজন (Binary fission) | একটি কোষের সরাসরি দুই ভাগ হয়ে যাওয়া, যেমন ব্যাকটেরিয়ায়
+## formula
+$$ N = ২^{n}
+N | একটি কোষ থেকে তৈরি মোট কোষের সংখ্যা | একক নেই
+n | কতবার বিভাজন হয়েছে | একক নেই
+! একটির বদলে N₀টি কোষ দিয়ে শুরু করলে: N = N₀ × ২^{n}
+! প্রতিবার প্রতিটি কোষ ভাগ হলে এবং প্রতি বিভাজনে দুটি কোষ হলে (মাইটোসিস বা দ্বিবিভাজন) তবেই এটি খাটে।
+## visual
+**বিভাজন** বোতাম চেপে দেখো একটি কোষ কীভাবে ২, ৪, ৮… হয়। তারপর স্লাইডার টেনে দেখো সংখ্যা কত দ্রুত বেড়ে যায়। দ্বিতীয় ট্যাবে ঠিক করো কোন ঘটনায় মাইটোসিস আর কোনটিতে মিয়োসিস লাগে।
+## real
+- **ছড়ে যাওয়া হাঁটু।** ফুটবল খেলতে গিয়ে পড়ে গেলে কয়েক দিনের মধ্যেই ক্ষত নতুন চামড়ায় ঢেকে যায়। ক্ষতের চারপাশের কোষ ভাগ হয়ে ফাঁকা জায়গা ভরে দেয়।
+- **ধানের চারা।** রোপণের পর কয়েক সপ্তাহেই ধানখেতের চারা তরতর করে বেড়ে ওঠে, কারণ মূল ও কাণ্ডের আগার কোষ অবিরাম ভাগ হতে থাকে।
+- **গরমের রাতে খোলা রাখা খাবার।** রান্না করা ভাত বা দুধে পড়া অল্প কয়েকটি ব্যাকটেরিয়া সকাল হতে হতে কোটি কোটি হয়ে যেতে পারে, কারণ গরম, ভেজা খাবারে কিছু ব্যাকটেরিয়া প্রতি ২০–৩০ মিনিটে একবার ভাগ হয়। তাই খাবার ঢেকে ঠান্ডা জায়গায় রাখতে হয়।
+- **দই পাতা।** কুসুম গরম দুধে এক চামচ পুরোনো দই দিলে তার সাথে উপকারী ব্যাকটেরিয়া আসে। এরা ভাগ হয়ে সংখ্যায় বেড়ে রাতারাতি পুরো হাঁড়ির দুধকে দই বানিয়ে ফেলে।
+## example
+প্রশ্ন: গরমের রাতে খোলা রাখা এক থালা ভাতে একটি ব্যাকটেরিয়া পড়ল। ব্যাকটেরিয়া প্রতি ২০ মিনিটে একবার ভাগ হলে ২ ঘণ্টা পর কয়টি হবে? ৮ ঘণ্টা পর?
+দেওয়া আছে: শুরুতে ১টি ব্যাকটেরিয়া; প্রতি ২০ মিনিটে একবার বিভাজন; সময় = ২ ঘণ্টা = ১২০ মিনিট
+সূত্র: N = ২^{n}
+হিসাব: n = ১২০ ÷ ২০ = ৬, তাই N = ২^{৬} = ৬৪। ৮ ঘণ্টায় (৪৮০ মিনিট): n = ৪৮০ ÷ ২০ = ২৪, তাই N = ২^{২৪} = ১৬ ৭৭৭ ২১৬
+> প্রতি বিভাজনে সংখ্যা দ্বিগুণ হয়: ১ → ২ → ৪ → ৮ → ১৬ → ৩২ → ৬৪।
+উত্তর: ২ ঘণ্টা পর ৬৪টি, কিন্তু ৮ ঘণ্টা পর প্রায় ১.৭ কোটি (কিছুতে বাধা না পেলে)। দ্বিগুণ হওয়া শুরুতে ধীর মনে হয়, পরে বিস্ফোরণের মতো বাড়ে।
+## example
+প্রশ্ন: মানুষের দেহে প্রায় ৩০ ট্রিলিয়ন (৩ × ১০^{১৩}) কোষ। একটি জাইগোট থেকে শুরু করে প্রতিটি কোষ দিনে একবার করে ভাগ হলে কত দিন পর অন্তত এতগুলো কোষ হবে?
+দেওয়া আছে: দরকারি N = ৩ × ১০^{১৩}; দিনে একবার বিভাজন
+সূত্র: N = ২^{n}
+হিসাব: ২^{১০} = ১০২৪ (প্রায় এক হাজার); ২^{২০} ≈ ১০^{৬}; ২^{৪০} ≈ ১.১ × ১০^{১২}; ২^{৪৪} ≈ ১.৭৬ × ১০^{১৩} (যথেষ্ট নয়); ২^{৪৫} ≈ ৩.৫২ × ১০^{১৩} (যথেষ্ট)
+> কাজের কৌশল: প্রতি ১০ বার দ্বিগুণ হলে সংখ্যা প্রায় ১০০০ গুণ হয়।
+উত্তর: প্রায় ৪৫ দিন। বইয়ের "৪০–৫০ দিন" কথাটির সাথে মিলে যায়। (বাস্তবে শিশুর বেড়ে উঠতে অনেক বেশি সময় লাগে, কারণ সব কোষ সারাক্ষণ ভাগ হয় না।)
+## example
+প্রশ্ন: নিচের প্রতিটি ক্ষেত্রে কোন ধরনের কোষ বিভাজন কাজ করছে? (ক) হাতের কাটা জায়গা সেরে গেল। (খ) সরিষা ফুলের পরাগধানীতে পরাগরেণু তৈরি হচ্ছে। (গ) একটি অ্যামিবা ভাগ হয়ে দুটি হলো। (ঘ) মুরগির ডিম্বাশয়ে ডিম্বাণু তৈরি হচ্ছে।
+সমাধান: প্রতিবার একটাই প্রশ্ন করো: সাধারণ কোষের প্রতিরূপ তৈরি হচ্ছে, নাকি অর্ধেক ক্রোমোজোমের জননকোষ তৈরি হচ্ছে?
+ধাপ: (ক) পুরোনো কোষের মতো হুবহু নতুন চামড়ার কোষ দরকার → মাইটোসিস।
+ধাপ: (খ) পরাগরেণু উদ্ভিদের পুং জননকোষ বহন করে; ক্রোমোজোম সংখ্যা অর্ধেক হতে হবে → মিয়োসিস।
+ধাপ: (গ) অ্যামিবা নিজের প্রতিরূপ তৈরি করছে (অযৌন জনন) → মাইটোসিস।
+ধাপ: (ঘ) ডিম্বাণু জননকোষ; ক্রোমোজোম সংখ্যা অর্ধেক হতে হবে → মিয়োসিস।
+উত্তর: (ক) মাইটোসিস, (খ) মিয়োসিস, (গ) মাইটোসিস, (ঘ) মিয়োসিস।
+## mistakes
+x দেহ বড় হয়, কারণ কোষগুলো ক্রমাগত বড় হতে থাকে।
+v দেহ বড় হয় মূলত বিভাজনের মাধ্যমে কোষের সংখ্যা বাড়ে বলে। কোষ ছোটই থাকে।
+x "অপত্য কোষ" মানে স্ত্রী কোষ (ইংরেজিতে daughter cell বলে)।
+v এটি বিভাজনে তৈরি নতুন কোষের নাম মাত্র। স্ত্রী-পুরুষ যেকোনো জীবের কোষই হতে পারে।
+x কোষ বিভাজন শুধু ছোটদের দেহে হয়, যখন তারা বাড়ছে।
+v এটি সারা জীবন চলে: চামড়া, রক্ত, অন্ত্রের ভেতরের আস্তরণ সবসময় নতুন হয়, আর ক্ষত সারে যেকোনো বয়সে।
+x মিয়োসিস দেহের সব জায়গায় হয়।
+v মিয়োসিস হয় শুধু সেখানে, যেখানে জননকোষ (বা রেণু) তৈরি হয়। দেহের বাকি সব জায়গায় হয় মাইটোসিস।
+x দেহের ভেতরের জড় পদার্থ থেকে নতুন কোষ তৈরি হতে পারে।
+v প্রতিটি কোষ আসে শুধু আগে থেকে থাকা কোষের বিভাজন থেকে।
+## remember
+- প্রতিটি কোষ আসে আগের কোনো কোষ থেকে; প্রতিটি জীবের শুরু একটি কোষ দিয়ে।
+- কোষ ভাগ হয় বৃদ্ধি, ক্ষত পূরণ ও প্রজননের জন্য।
+- এককোষী: একটি কোষ (ব্যাকটেরিয়া, অ্যামিবা, প্লাজমোডিয়াম)। বহুকোষী: বহু কোষ (মানুষ, বটগাছ)।
+- মাইটোসিস: ১টি কোষ → ২টি কোষ, ক্রোমোজোম সংখ্যা একই।
+- মিয়োসিস: ১টি কোষ → ৪টি কোষ, ক্রোমোজোম সংখ্যা অর্ধেক।
+- n বার বিভাজনের পর একটি কোষ থেকে ২^{n}টি কোষ হয়।
+## think
+বিশাল বটগাছ আর ছোট্ট তুলসীগাছ, দুটোরই শুরু একটি কোষ থেকে। বটগাছ বড়, কারণ তার কোষ বড়, নাকি কারণ তার কোষ বেশি? অণুবীক্ষণযন্ত্র দিয়ে এটা কীভাবে যাচাই করবে?
+## quiz
+? শুক্রাণু ও ডিম্বাণুর মিলনে তৈরি নতুন মানুষের প্রথম কোষটিকে বলে:
+- গ্যামেট
+* জাইগোট
+- টিস্যু
+- অপত্য কোষ
+= নিষিক্ত ডিম্বাণুই জাইগোট; বারবার কোষ বিভাজনে এটি থেকেই পুরো দেহ তৈরি হয়।
+? কোন ধরনের কোষ বিভাজনে শিশু লম্বা হয় এবং ক্ষত সারে?
+* মাইটোসিস
+- মিয়োসিস
+- দ্বিবিভাজন
+- নিষেক
+= মাইটোসিস বৃদ্ধি ও ক্ষত পূরণের জন্য আগের মতোই হুবহু নতুন দেহকোষ তৈরি করে।
+? একটি কোষ ভাগ হলো, তারপর প্রতিটি কোষ বারবার ভাগ হলো। ৫ বার বিভাজনের পর কয়টি কোষ হবে?
+- ১০
+- ২৫
+* ৩২
+- ৬৪
+= N = ২^{৫} = ৩২ (১ → ২ → ৪ → ৮ → ১৬ → ৩২)।
+? নিচের কোনটি এককোষী জীব?
+- বটগাছ
+- মানুষ
+- আমগাছ
+* অ্যামিবা
+= অ্যামিবার দেহ মাত্র একটি কোষ দিয়ে গঠিত।
+? মিয়োসিসে প্রতিটি অপত্য কোষের ক্রোমোজোম সংখ্যা মাতৃকোষের তুলনায়:
+- সমান
+- দ্বিগুণ
+* অর্ধেক
+- চার গুণ
+= মিয়োসিস ক্রোমোজোম সংখ্যা অর্ধেক করে; এজন্যই জননকোষ তৈরিতে এটি কাজে লাগে।
+
+@@ 3.2
+@visual b3mitosis
+@related 3.1 3.3 2.2.3 2.3.1
+== en
+## what
+**Mitosis** is the cell division in which one cell with a true nucleus divides once to form **two daughter cells** that have exactly the same number and kind of chromosomes as the mother cell. It takes place in body cells and makes growth and repair possible.
+## simple
+**One becomes two, and both are the same.** In mitosis the nucleus divides once, every chromosome divides once and the cytoplasm divides once. The result is two daughter cells. Each has the same number of chromosomes as the mother cell and an almost exact copy of its DNA. Because the chromosomes are shared out *equally*, mitosis is also called **equational division**.
+
+**Where does it happen?** In the **body cells (somatic cells)** of organisms with a true nucleus. In animals it happens all over the growing body. In plants it happens mainly in the **meristems** ([[2.3.1|dividing tissue]]) of growing parts: the tips of stems and roots, the plumule and radicle of the embryo, growing leaves and buds. Lower plants and animals also use it for asexual reproduction.
+
+**Two jobs in one division.** First the nucleus divides: this is **karyokinesis**. Then the cytoplasm divides: this is **cytokinesis**.
+
+**Before the show: interphase.** A cell cannot divide without getting ready. In **interphase** it grows, makes the materials it will need and, most importantly, copies its DNA. After copying, every chromosome consists of two identical halves. But in interphase the chromosomes are very long, thin threads (chromatin), so you cannot see them separately. Interphase is not a stage of mitosis itself; it is the preparation.
+
+**3.2.1 The stages of mitosis.** Mitosis is a continuous process, like a film that never stops. Only to make it easier to describe do we pause the film at five points:
+
+**(a) Prophase: the chromosomes appear.**
+- The nucleus becomes a little larger.
+- The chromatin threads coil up tightly. The chromosomes become shorter and thicker, and can now be seen with a compound microscope. (People once thought this happened because the chromosomes lost water. Modern research shows it is a very complex process that has nothing to do with water.)
+- Each chromosome is seen to be made of two **chromatids** lying side by side, joined at one point, the **centromere**. Books often say the chromosome "splits lengthwise into two chromatids" in this stage. The actual copying was done earlier, in interphase; prophase is when the two copies first become visible.
+- The chromosomes are still coiled around one another, so they are hard to count.
+
+**(b) Prometaphase: the spindle is built.**
+- A **spindle apparatus** with two **poles** forms from protein fibres. The plane midway between the poles is the **equator**. The fibres stretching from pole to pole are **spindle fibres**.
+- The centromere of each chromosome becomes attached to certain fibres. These are called **traction fibres** (or chromosomal fibres). The attachment is made through a small protein structure on the centromere called the kinetochore.
+- The chromosomes start moving towards the equator.
+- The nuclear membrane and the nucleolus begin to disappear.
+- In an animal cell the two centrioles sit at the two poles and rays spread out from them: the **aster rays**. A plant cell has no centrioles and no aster rays; its spindle forms without them.
+
+**(c) Metaphase: lining up in the middle.**
+- All the chromosomes arrange themselves at the equator. The centromere of each lies on the equator and its arms point towards the poles.
+- The chromosomes are now at their **shortest and thickest**. This is the best stage for counting chromosomes and seeing their shapes.
+- The nuclear membrane and nucleolus have disappeared completely.
+- Towards the end of this stage the centromeres begin to divide.
+
+**(d) Anaphase: pulled apart.**
+- Each centromere divides into two, so the two chromatids separate. Each chromatid now has its own centromere and is called a **daughter chromosome**.
+- The daughter chromosomes move away from the equator: half of them towards one pole and half towards the other. So each pole receives one complete set, and the chromosome number stays unchanged.
+- The centromere leads the way and the arms trail behind. So, depending on where the centromere lies, the chromosomes look like the letters **V, L, J or I**.
+- At the end of anaphase the daughter chromosomes reach the poles and begin to lengthen.
+
+**(e) Telophase: two nuclei are built.**
+- This is the last stage, and the events of prophase happen in reverse. The chromosomes become thin and long again and tangle into a network called the nuclear reticulum.
+- The nucleolus reappears, and a nuclear membrane forms around each group of chromosomes. Two **daughter nuclei** are now present, one at each pole.
+- The spindle apparatus breaks down and its fibres disappear.
+
+**Cytokinesis: plant and animal cells do it differently.**
+- **Plant cell:** tiny membrane-bound sacs gather along the equator and join to form a **cell plate**. It grows outwards until it reaches the sides, and becomes the new wall between the two cells. (Your book describes these sacs as small pieces of the endoplasmic reticulum; more detailed studies show that most of them come from the Golgi body.)
+- **Animal cell:** there is no cell wall. The cell membrane folds inwards at the equator like a furrow. The furrow deepens from all sides until the cell is pinched into two.
+
+Either way, the organelles in the cytoplasm are shared out too, and two daughter cells are formed.
+
+**Plant cell and animal cell: the differences in one place**
+- Centrioles and aster rays: absent in plant cells, present in animal cells.
+- Cytokinesis: by a cell plate in plant cells, by a furrow in animal cells.
+
+**Chromosome shapes and the centromere.** From the position of the centromere, chromosomes are of four kinds:
+- **Metacentric**: centromere in the middle, two equal arms. Looks like **V** in anaphase.
+- **Submetacentric**: centromere a little away from the middle. Looks like **L**.
+- **Acrocentric**: centromere very near one end. Looks like **J**.
+- **Telocentric**: centromere right at the end. Looks like **I**.
+
+*Activity (model making).* Take two equal pieces of rope: they are the two sister chromatids. Tie them together with one knot: the knot is the centromere. With the knot in the middle you have a metacentric chromosome as seen in metaphase, with four arms. Move the knot a little away from the middle, then near the end, then right to the end, to make the other three. Now cut each model through the knot so that each part has one chromatid: you will get the V, L, J and I shapes of anaphase. Paste them on art paper and label them.
+
+**Why mitosis matters**
+- **Growth.** Every multicellular organism starts as one cell, the zygote. Repeated mitosis turns it into a complete organism with crores of cells.
+- **Orderly growth.** The number and quality of chromosomes stay the same in every new cell, so the body is built in an orderly way.
+- **Balance inside the cell.** Division keeps the balance between the nucleus and the cytoplasm, and keeps cells at their proper size and shape.
+- **Healing.** New cells made by mitosis fill wounds.
+- **Replacement.** Some cells have a fixed lifespan. When they die, they are replaced through mitosis.
+- **Reproduction.** Unicellular organisms with a true nucleus (such as *Amoeba* and yeast) reproduce by mitosis. Mitosis also brings about vegetative reproduction (a new plant from a potato "eye" or a stem cutting), and increases the number of cells that will later form reproductive cells.
+- **Stability.** Because the cells produced are alike, the characteristics of living things stay stable.
+
+**When the control is lost: tumour and cancer.** In mitosis one cell becomes two, two become four, but always under control: cells divide only when and where new cells are needed. If this control is lost for any reason, cells go on dividing abnormally and form a lump of extra cells called a **tumour**. Not every tumour is dangerous. A tumour that spreads, damages the body and threatens life is called **cancer**.
+## analogy
+Imagine a shelf holding one copy of each of your textbooks, and you must set up an identical shelf for your younger sister. First you photocopy every book and tie each copy to its original with a rubber band (interphase: two chromatids held at the centromere). Then you line up all the tied pairs along the middle of the room (metaphase). You cut the bands and slide one book from each pair to the left wall and the other to the right wall (anaphase). Finally you put up a partition in the middle (cytokinesis). Both rooms now have a complete, identical set.
+## definition
+**Mitosis**: the cell division in which a eukaryotic cell divides, through a continuous process, into two daughter cells; the nucleus, each chromosome and the cytoplasm divide once, so the daughter cells have the same number and kind of chromosomes as the mother cell. It is also called **equational division**.
+
+**Karyokinesis**: division of the nucleus. **Cytokinesis**: division of the cytoplasm.
+
+**Interphase**: the preparatory stage before division begins, in which the cell gets ready (and its DNA is copied).
+
+For convenience, the nuclear division of mitosis is described in five stages: **prophase, prometaphase, metaphase, anaphase and telophase**.
+## why
+Why such an elaborate dance, instead of the nucleus simply being cut in half? Because each daughter cell must receive **one complete copy of every chromosome**, with nothing missing and nothing extra. The steps make sure of this. Coiling the chromosomes into short, thick bodies stops the long DNA threads (about 2 metres in one human cell!) from tangling or breaking while they are moved. Lining them up at the equator, with the two chromatids of each chromosome attached to fibres from *opposite* poles, guarantees that when the centromere divides, one copy goes each way. The cell is sharing out its instructions with great care.
+## terms
+Mitosis | Division of one cell into two daughter cells with the same chromosomes as the mother cell (equational division)
+Somatic cell | A body cell (not a reproductive cell)
+Meristem | Plant tissue whose cells keep dividing, e.g. at root and stem tips
+Karyokinesis | Division of the nucleus
+Cytokinesis | Division of the cytoplasm
+Interphase | The preparatory stage before division; DNA is copied here
+Chromatid | One of the two identical halves of a copied chromosome
+Centromere | The point where the two chromatids are joined, and where the fibres attach
+Spindle apparatus | The two-poled structure of protein fibres that moves the chromosomes
+Equator | The middle plane of the spindle, midway between the two poles
+Traction fibre (chromosomal fibre) | A spindle fibre attached to the centromere of a chromosome
+Aster rays | Rays spreading out from the centrioles in an animal cell
+Daughter chromosome | A chromatid after it has separated in anaphase
+Cell plate | The new partition formed at the equator of a dividing plant cell
+Tumour | A lump of cells formed by uncontrolled cell division
+## visual
+Step through mitosis with **Next**, or play it all. Switch between a plant cell and an animal cell and spot the differences. In the second tab, slide the centromere along a chromosome and see why it looks like V, L, J or I in anaphase.
+## real
+- **Onion root tips in the school lab.** The tip of a growing onion root is a meristem, so many of its cells are dividing at any moment. That is why root tips are the favourite material for seeing the stages of mitosis under a microscope.
+- **Hair and nails.** They grow longer every week because cells at their base keep dividing by mitosis.
+- **Stem cuttings.** Farmers grow sugarcane from pieces of stem, and gardeners grow roses from cuttings. The new plant is made entirely by mitosis, so it is a copy of the parent plant.
+- **A tiktiki's tail.** When a house lizard drops its tail to escape, a new tail grows back by mitosis.
+- **Cancer awareness.** Harmful chemicals in tobacco (cigarettes, jorda, gul) can damage the genes that keep cell division under control, which is why tobacco is a major cause of cancer. Staying away from it is one of the best ways to protect yourself.
+## example
+Q: A cell in the root tip of an onion has 16 chromosomes (2n = 16). It divides by mitosis. (a) How many chromatids does it have at metaphase? (b) How many daughter chromosomes move to each pole in anaphase? (c) How many chromosomes does each daughter cell have?
+Given: chromosome number of the mother cell = 16
+Solution: Before division every chromosome was copied, so each one has 2 chromatids.
+Step: (a) Chromatids at metaphase = 16 × 2 = 32.
+Step: (b) In anaphase the 32 chromatids separate and become 32 daughter chromosomes. Half go to each pole: 32 ÷ 2 = 16.
+Step: (c) Each daughter nucleus is built from the 16 chromosomes at its pole, so each daughter cell has 16.
+> Doubled first (by copying), then halved (by separating): that is why the number does not change.
+Answer: (a) 32 chromatids, (b) 16 to each pole, (c) 16 chromosomes, the same as the mother cell.
+## example
+Q: A human skin cell has 46 chromosomes. It divides by mitosis, and the new cells divide again and again, 3 rounds of division in all. How many cells are formed, and how many chromosomes does each one have?
+Given: start with 1 cell with 46 chromosomes; n = 3 rounds of mitosis
+Formula: number of cells N = 2^{n}
+Calculation: N = 2^{3} = 8
+> Mitosis is equational division: the chromosome number is not changed by any of the divisions.
+Answer: 8 cells, each with 46 chromosomes.
+## example
+Q: Name the stage of mitosis in each description. (a) The chromosomes are short and thick and lie in a row across the middle of the cell; there is no nuclear membrane. (b) V- and J-shaped chromosomes are moving towards opposite poles. (c) There are two nuclei, and a plate is forming across the middle of the cell. (d) Thick, tangled chromosomes lie inside a nucleus that still has its membrane.
+Solution: Look for the one clue that belongs to only one stage.
+Step: (a) Chromosomes on the equator, shortest and thickest → metaphase.
+Step: (b) Centromeres leading, arms trailing, moving to the poles → anaphase.
+Step: (c) Two daughter nuclei and a cell plate → telophase with cytokinesis, in a plant cell.
+Step: (d) Chromosomes visible but tangled, nuclear membrane still present → prophase.
+Answer: (a) metaphase, (b) anaphase, (c) telophase (plant cell), (d) prophase.
+## mistakes
+x Interphase is a resting stage in which nothing happens.
+v Interphase is a very busy time: the cell grows and copies its DNA to get ready for division.
+x In mitosis the chromosome number becomes half, because every chromosome splits into two.
+v Every chromosome is first copied (two chromatids) and then the two chromatids separate. So each daughter cell gets the same number as the mother cell.
+x Chromosomes are easiest to count in prophase, when they first appear.
+v In prophase they are still tangled. They are counted best in metaphase, when they are shortest, thickest and lined up at the equator.
+x A plant cell divides by pinching in at the middle, just like an animal cell.
+v A plant cell has a rigid wall, so it builds a cell plate at the equator. Only animal cells divide by a furrow.
+x Every tumour is cancer.
+v A tumour is any lump formed by uncontrolled division. Only a tumour that spreads and threatens life is called cancer.
+## remember
+- Mitosis: 1 cell → 2 identical daughter cells; chromosome number unchanged (equational division).
+- It occurs in body cells, and in the meristems of plants.
+- Karyokinesis (nucleus) comes first, then cytokinesis (cytoplasm). Interphase is the preparation.
+- Order of stages: prophase → prometaphase → metaphase → anaphase → telophase.
+- Prophase: chromosomes appear. Prometaphase: spindle forms, membrane starts to go. Metaphase: at the equator. Anaphase: move to the poles (V, L, J, I). Telophase: two nuclei.
+- Plant cell: cell plate, no centrioles. Animal cell: furrow, centrioles with aster rays.
+- Mitosis gives growth, repair, replacement and asexual reproduction; uncontrolled mitosis gives tumours.
+## think
+A student wants to see mitosis under a microscope. She can take cells from the tip of a growing onion root or from a dry outer scale of the onion bulb. Which should she choose, and why?
+## quiz
+? In which stage of mitosis does the nucleus become larger in size?
+* Prophase
+- Metaphase
+- Anaphase
+- Telophase
+= At the start of prophase the nucleus becomes a little larger and the chromosomes begin to shorten and thicken.
+? The chromosomes lie at the equator of the spindle, and are shortest and thickest, in:
+- prophase
+- prometaphase
+* metaphase
+- telophase
+= In metaphase all chromosomes arrange themselves at the equator with their centromeres on it.
+? Chromosomes appear V, L, J or I shaped while moving to the poles in:
+- metaphase
+* anaphase
+- telophase
+- interphase
+= In anaphase the centromere leads and the arms trail behind, so the shape depends on the position of the centromere.
+? During cytokinesis, a cell plate is formed in:
+- an animal cell in prophase
+- an animal cell in telophase
+- a plant cell in prophase
+* a plant cell at the end of telophase
+= Plant cells build a cell plate at the equator; animal cells are pinched in two by a furrow.
+? A cell with 24 chromosomes divides by mitosis. Each daughter cell will have:
+- 12 chromosomes
+* 24 chromosomes
+- 48 chromosomes
+- 6 chromosomes
+= Mitosis is equational division: daughter cells have the same number of chromosomes as the mother cell.
+== bn
+## what
+**মাইটোসিস** এমন কোষ বিভাজন, যাতে সুগঠিত নিউক্লিয়াসযুক্ত একটি কোষ একবার ভাগ হয়ে **দুটি অপত্য কোষ** তৈরি করে, যাদের ক্রোমোজোমের সংখ্যা ও ধরন মাতৃকোষের হুবহু সমান। এটি দেহকোষে ঘটে; এর ফলেই বৃদ্ধি ও ক্ষত পূরণ সম্ভব হয়।
+## simple
+**একটি থেকে দুটি, আর দুটিই একই রকম।** মাইটোসিসে নিউক্লিয়াস একবার ভাগ হয়, প্রতিটি ক্রোমোজোম একবার ভাগ হয়, সাইটোপ্লাজমও একবার ভাগ হয়। ফল: দুটি অপত্য কোষ। প্রতিটির ক্রোমোজোম সংখ্যা মাতৃকোষের সমান, আর তাতে থাকে মাতৃকোষের DNA-র প্রায় হুবহু অনুলিপি। ক্রোমোজোম *সমানভাবে* ভাগ হয় বলে মাইটোসিসকে **সমীকরণিক বিভাজন**-ও বলে।
+
+**কোথায় ঘটে?** প্রকৃত নিউক্লিয়াসযুক্ত জীবের **দেহকোষে**। প্রাণীর বাড়ন্ত দেহের সব জায়গায় এটি ঘটে। উদ্ভিদে ঘটে মূলত বর্ধনশীল অংশের **ভাজক টিস্যুতে** ([[2.3.1|ভাজক টিস্যু]]): কাণ্ড ও মূলের অগ্রভাগ, ভ্রূণমুকুল ও ভ্রূণমূল, বর্ধনশীল পাতা, মুকুল ইত্যাদিতে। নিম্নশ্রেণির উদ্ভিদ ও প্রাণীর অযৌন জননের সময়ও এই বিভাজন হয়।
+
+**এক বিভাজনে দুটি কাজ।** আগে নিউক্লিয়াস ভাগ হয়: এর নাম **ক্যারিওকাইনেসিস**। পরে সাইটোপ্লাজম ভাগ হয়: এর নাম **সাইটোকাইনেসিস**।
+
+**শুরুর আগে: ইন্টারফেজ।** প্রস্তুতি ছাড়া কোষ ভাগ হতে পারে না। **ইন্টারফেজ** অবস্থায় কোষ বড় হয়, দরকারি উপাদান তৈরি করে এবং সবচেয়ে জরুরি কাজটি করে: DNA-র অনুলিপি তৈরি করে। অনুলিপির পর প্রতিটি ক্রোমোজোমে থাকে দুটি হুবহু একই অংশ। তবে ইন্টারফেজে ক্রোমোজোমগুলো খুব লম্বা, সরু সুতার মতো (ক্রোমাটিন) থাকে, তাই আলাদা করে দেখা যায় না। ইন্টারফেজ মাইটোসিসের নিজের কোনো পর্যায় নয়; এটি প্রস্তুতি।
+
+**৩.২.১ মাইটোসিসের পর্যায়সমূহ।** মাইটোসিস একটি অবিচ্ছিন্ন, ধারাবাহিক প্রক্রিয়া, যেন না-থামা একটি চলচ্চিত্র। শুধু বর্ণনার সুবিধার জন্য আমরা চলচ্চিত্রটি পাঁচ জায়গায় থামিয়ে দেখি:
+
+**(ক) প্রোফেজ: ক্রোমোজোম দেখা দেয়।**
+- নিউক্লিয়াস আকারে একটু বড় হয়।
+- ক্রোমাটিন তন্তু শক্ত কুণ্ডলী পাকায়। ক্রোমোজোমগুলো খাটো ও মোটা হতে থাকে, তখন যৌগিক অণুবীক্ষণযন্ত্রে এদের দেখা যায়। (আগে ভাবা হতো, ক্রোমোজোম থেকে পানি বেরিয়ে যায় বলে এমন হয়। আধুনিক গবেষণায় দেখা গেছে, এটি পানির সাথে সম্পর্কহীন অত্যন্ত জটিল একটি প্রক্রিয়া।)
+- প্রতিটি ক্রোমোজোমে পাশাপাশি দুটি **ক্রোমাটিড** দেখা যায়, যারা একটি বিন্দুতে যুক্ত; বিন্দুটির নাম **সেন্ট্রোমিয়ার**। বইয়ে প্রায়ই লেখা থাকে, এ পর্যায়ে ক্রোমোজোম "লম্বালম্বি ভাগ হয়ে দুটি ক্রোমাটিড তৈরি করে"। আসল অনুলিপির কাজটি আগেই, ইন্টারফেজে হয়ে গেছে; প্রোফেজে এসে দুটি অনুলিপি প্রথমবার চোখে পড়ে।
+- ক্রোমোজোমগুলো তখনো একে অন্যের সাথে জড়িয়ে থাকে, তাই এদের সংখ্যা গোনা কঠিন।
+
+**(খ) প্রো-মেটাফেজ: স্পিন্ডল যন্ত্র তৈরি হয়।**
+- তন্তুময় প্রোটিন দিয়ে দুই **মেরু**বিশিষ্ট **স্পিন্ডল যন্ত্র** তৈরি হয়। দুই মেরুর ঠিক মাঝখানের তলকে বলে **ইকুয়েটর বা বিষুবীয় অঞ্চল**। এক মেরু থেকে অন্য মেরু পর্যন্ত বিস্তৃত তন্তুগুলো **স্পিন্ডল তন্তু**।
+- প্রতিটি ক্রোমোজোমের সেন্ট্রোমিয়ার নির্দিষ্ট কিছু তন্তুর সাথে যুক্ত হয়। এদের বলে **আকর্ষণ তন্তু** (বা ক্রোমোজোমাল তন্তু)। সেন্ট্রোমিয়ারের ওপর থাকা কাইনেটোকোর নামের ছোট্ট প্রোটিন-গঠনের মাধ্যমে এই সংযোগ হয়।
+- ক্রোমোজোমগুলো বিষুবীয় অঞ্চলের দিকে যেতে শুরু করে।
+- নিউক্লিয়ার মেমব্রেন ও নিউক্লিওলাস বিলুপ্ত হতে থাকে।
+- প্রাণিকোষে সেন্ট্রিওল দুটি দুই মেরুতে অবস্থান করে এবং এদের চারদিক থেকে রশ্মি ছড়ায়: এর নাম **অ্যাস্টার-রে**। উদ্ভিদকোষে সেন্ট্রিওল বা অ্যাস্টার-রে থাকে না; এগুলো ছাড়াই স্পিন্ডল তৈরি হয়।
+
+**(গ) মেটাফেজ: মাঝখানে সারি বাঁধা।**
+- সব ক্রোমোজোম বিষুবীয় অঞ্চলে এসে সাজে। প্রতিটির সেন্ট্রোমিয়ার থাকে বিষুবীয় অঞ্চলে, আর বাহুগুলো থাকে মেরুর দিকে মুখ করে।
+- ক্রোমোজোম এ সময় **সবচেয়ে খাটো ও মোটা** হয়। ক্রোমোজোম গোনা ও আকৃতি দেখার জন্য এটাই সেরা পর্যায়।
+- নিউক্লিয়ার মেমব্রেন ও নিউক্লিওলাস সম্পূর্ণ বিলুপ্ত হয়ে যায়।
+- এ পর্যায়ের শেষ দিকে সেন্ট্রোমিয়ারের বিভাজন শুরু হয়।
+
+**(ঘ) অ্যানাফেজ: দুই দিকে টান।**
+- প্রতিটি সেন্ট্রোমিয়ার দুই ভাগ হয়ে যায়, ফলে ক্রোমাটিড দুটি আলাদা হয়ে পড়ে। এখন প্রতিটি ক্রোমাটিডের নিজস্ব সেন্ট্রোমিয়ার আছে, আর একে বলে **অপত্য ক্রোমোজোম**।
+- অপত্য ক্রোমোজোমগুলো বিষুবীয় অঞ্চল থেকে সরে যেতে থাকে: অর্ধেক এক মেরুর দিকে, বাকি অর্ধেক অন্য মেরুর দিকে। তাই প্রতিটি মেরু একটি পূর্ণ সেট পায়, আর ক্রোমোজোম সংখ্যা অপরিবর্তিত থাকে।
+- চলার সময় সেন্ট্রোমিয়ার থাকে আগে, বাহুগুলো পেছনে। তাই সেন্ট্রোমিয়ার কোথায় আছে তার ওপর নির্ভর করে ক্রোমোজোমগুলোকে ইংরেজি **V, L, J বা I** বর্ণের মতো দেখায়।
+- অ্যানাফেজের শেষে অপত্য ক্রোমোজোমগুলো মেরুতে পৌঁছায় এবং লম্বা হতে শুরু করে।
+
+**(ঙ) টেলোফেজ: দুটি নিউক্লিয়াস তৈরি হয়।**
+- এটি শেষ পর্যায়; এখানে প্রোফেজের ঘটনাগুলো উল্টোভাবে ঘটে। ক্রোমোজোমগুলো আবার সরু ও লম্বা হয় এবং জড়িয়ে গিয়ে নিউক্লিয়ার রেটিকুলাম নামের জালিকা তৈরি করে।
+- নিউক্লিওলাস আবার দেখা দেয়, আর প্রতিটি ক্রোমোজোম-দলকে ঘিরে নিউক্লিয়ার মেমব্রেন তৈরি হয়। ফলে দুই মেরুতে দুটি **অপত্য নিউক্লিয়াস** গঠিত হয়।
+- স্পিন্ডল যন্ত্র ভেঙে পড়ে, তন্তুগুলো অদৃশ্য হয়ে যায়।
+
+**সাইটোকাইনেসিস: উদ্ভিদকোষ ও প্রাণিকোষে আলাদা পদ্ধতি।**
+- **উদ্ভিদকোষ:** ঝিল্লিঘেরা ছোট ছোট থলি বিষুবীয় তলে জমা হয়ে মিলে **কোষপ্লেট** তৈরি করে। এটি বাইরের দিকে বাড়তে বাড়তে দুই পাশে পৌঁছায় এবং দুই কোষের মাঝের নতুন প্রাচীরে পরিণত হয়। (তোমার বইয়ে এই থলিগুলোকে এন্ডোপ্লাজমিক জালিকার ক্ষুদ্র অংশ বলা হয়েছে; আরও বিশদ গবেষণায় দেখা গেছে, এদের বেশির ভাগ আসে গলজি বস্তু থেকে।)
+- **প্রাণিকোষ:** কোষপ্রাচীর নেই। বিষুবীয় অঞ্চল বরাবর কোষঝিল্লি খাঁজের মতো ভেতরের দিকে ঢুকে যায়। খাঁজটি সবদিক থেকে গভীর হতে হতে একসময় কোষটিকে দুই ভাগ করে ফেলে।
+
+দুই ক্ষেত্রেই সাইটোপ্লাজমের অঙ্গাণুগুলোও ভাগ হয়ে যায়, আর দুটি অপত্য কোষ তৈরি হয়।
+
+**উদ্ভিদকোষ ও প্রাণিকোষ: পার্থক্য এক জায়গায়**
+- সেন্ট্রিওল ও অ্যাস্টার-রে: উদ্ভিদকোষে নেই, প্রাণিকোষে আছে।
+- সাইটোকাইনেসিস: উদ্ভিদকোষে কোষপ্লেট দিয়ে, প্রাণিকোষে খাঁজ তৈরি হয়ে।
+
+**ক্রোমোজোমের আকৃতি ও সেন্ট্রোমিয়ার।** সেন্ট্রোমিয়ারের অবস্থান অনুযায়ী ক্রোমোজোম চার রকম:
+- **মেটাসেন্ট্রিক**: সেন্ট্রোমিয়ার ঠিক মাঝখানে, দুই বাহু সমান। অ্যানাফেজে দেখায় **V**-এর মতো।
+- **সাবমেটাসেন্ট্রিক**: সেন্ট্রোমিয়ার মাঝখান থেকে একটু সরে। দেখায় **L**-এর মতো।
+- **অ্যাক্রোসেন্ট্রিক**: সেন্ট্রোমিয়ার এক প্রান্তের খুব কাছে। দেখায় **J**-এর মতো।
+- **টেলোসেন্ট্রিক**: সেন্ট্রোমিয়ার একদম প্রান্তে। দেখায় **I**-এর মতো।
+
+*কাজ (মডেল তৈরি)।* সমান মাপের দুই টুকরো দড়ি নাও: এরা দুটি সিস্টার ক্রোমাটিড। একটি গিঁট দিয়ে এদের বাঁধো: গিঁটটি সেন্ট্রোমিয়ার। গিঁট ঠিক মাঝখানে দিলে পাবে মেটাফেজে দেখা মেটাসেন্ট্রিক ক্রোমোজোমের মডেল, যার চারটি বাহু। গিঁট মাঝখান থেকে একটু সরিয়ে, তারপর প্রান্তের কাছে, তারপর একদম প্রান্তে দিয়ে বাকি তিন রকম বানাও। এবার প্রতিটি মডেল গিঁট বরাবর এমনভাবে কাটো, যেন প্রতি ভাগে একটি ক্রোমাটিড থাকে: পেয়ে যাবে অ্যানাফেজের V, L, J ও I আকৃতি। আর্টপেপারে আঠা দিয়ে লাগিয়ে লেবেল করো।
+
+**মাইটোসিসের গুরুত্ব**
+- **বৃদ্ধি।** প্রতিটি বহুকোষী জীবের শুরু একটি কোষ, জাইগোট থেকে। বারবার মাইটোসিসের ফলে এটি কোটি কোটি কোষের পূর্ণাঙ্গ জীবে পরিণত হয়।
+- **সুশৃঙ্খল বৃদ্ধি।** প্রতিটি নতুন কোষে ক্রোমোজোমের সংখ্যা ও গুণাগুণ একই থাকে, তাই দেহ সুশৃঙ্খলভাবে গড়ে ওঠে।
+- **কোষের ভেতরের ভারসাম্য।** বিভাজনের ফলে নিউক্লিয়াস ও সাইটোপ্লাজমের মধ্যে ভারসাম্য বজায় থাকে, কোষের স্বাভাবিক আকার ও আয়তনও ঠিক থাকে।
+- **ক্ষত পূরণ।** মাইটোসিসে তৈরি নতুন কোষ ক্ষতস্থান ভরে দেয়।
+- **পুরোনো কোষের বদল।** কিছু কোষের আয়ুষ্কাল নির্দিষ্ট। এরা নষ্ট হলে মাইটোসিসের মাধ্যমে এদের জায়গা পূরণ হয়।
+- **জনন।** প্রকৃত নিউক্লিয়াসযুক্ত এককোষী জীব (যেমন অ্যামিবা, ইস্ট) মাইটোসিসের মাধ্যমে বংশবৃদ্ধি করে। মাইটোসিসেই অঙ্গজ জনন হয় (আলুর "চোখ" বা কাণ্ডের কাটিং থেকে নতুন গাছ), আর যেসব কোষ পরে জননকোষ তৈরি করবে তাদের সংখ্যাও বাড়ে।
+- **স্থিতিশীলতা।** একই ধরনের কোষ তৈরি হয় বলে জীবের বৈশিষ্ট্যের স্থিতিশীলতা বজায় থাকে।
+
+**নিয়ন্ত্রণ হারালে: টিউমার ও ক্যান্সার।** মাইটোসিসে একটি থেকে দুটি, দুটি থেকে চারটি কোষ হয়, তবে সবসময় নিয়ন্ত্রণের মধ্যে: যখন এবং যেখানে নতুন কোষ দরকার, শুধু তখনই কোষ ভাগ হয়। কোনো কারণে এই নিয়ন্ত্রণ নষ্ট হয়ে গেলে কোষ অস্বাভাবিকভাবে ভাগ হতেই থাকে এবং বাড়তি কোষের একটি পিণ্ড তৈরি হয়, যার নাম **টিউমার**। সব টিউমার বিপজ্জনক নয়। যে টিউমার ছড়িয়ে পড়ে, দেহের ক্ষতি করে এবং প্রাণঘাতী হয়ে ওঠে, তাকে বলে **ক্যান্সার**।
+## analogy
+ভাবো একটা তাকে তোমার প্রতিটি পাঠ্যবইয়ের একটি করে কপি আছে, আর ছোট বোনের জন্য হুবহু একই রকম আরেকটি তাক সাজাতে হবে। প্রথমে প্রতিটি বই ফটোকপি করে মূল বইয়ের সাথে রাবার ব্যান্ড দিয়ে বেঁধে রাখলে (ইন্টারফেজ: সেন্ট্রোমিয়ারে যুক্ত দুটি ক্রোমাটিড)। তারপর বাঁধা জোড়াগুলো ঘরের ঠিক মাঝ বরাবর সারি করে রাখলে (মেটাফেজ)। এবার ব্যান্ড কেটে প্রতি জোড়ার একটি বই বাঁ দেয়ালের দিকে, অন্যটি ডান দেয়ালের দিকে সরিয়ে দিলে (অ্যানাফেজ)। শেষে মাঝখানে একটা পার্টিশন তুলে দিলে (সাইটোকাইনেসিস)। এখন দুই ঘরেই সম্পূর্ণ, হুবহু একই সেট।
+## definition
+**মাইটোসিস**: যে কোষ বিভাজনে একটি প্রকৃত (সুকেন্দ্রিক) কোষ ধারাবাহিক প্রক্রিয়ায় বিভক্ত হয়ে দুটি অপত্য কোষে পরিণত হয়; এতে নিউক্লিয়াস, প্রতিটি ক্রোমোজোম ও সাইটোপ্লাজম একবার করে বিভাজিত হয়, ফলে অপত্য কোষের ক্রোমোজোমের সংখ্যা ও ধরন মাতৃকোষের সমান থাকে। একে **সমীকরণিক বিভাজন**-ও বলে।
+
+**ক্যারিওকাইনেসিস**: নিউক্লিয়াসের বিভাজন। **সাইটোকাইনেসিস**: সাইটোপ্লাজমের বিভাজন।
+
+**ইন্টারফেজ**: বিভাজন শুরুর আগের প্রস্তুতিমূলক অবস্থা, যখন কোষ তৈরি হয়ে নেয় (এবং এর DNA-র অনুলিপি হয়)।
+
+বর্ণনার সুবিধার জন্য মাইটোসিসের নিউক্লিয়াস বিভাজনকে পাঁচটি পর্যায়ে ভাগ করা হয়: **প্রোফেজ, প্রো-মেটাফেজ, মেটাফেজ, অ্যানাফেজ ও টেলোফেজ**।
+## why
+নিউক্লিয়াসকে সোজা দুই টুকরো না করে এত জটিল আয়োজন কেন? কারণ প্রতিটি অপত্য কোষকে পেতে হবে **প্রতিটি ক্রোমোজোমের একটি করে পূর্ণ অনুলিপি**: একটিও কম নয়, একটিও বেশি নয়। ধাপগুলো ঠিক সেটাই নিশ্চিত করে। ক্রোমোজোম কুণ্ডলী পাকিয়ে খাটো ও মোটা হলে লম্বা DNA সুতা (মানুষের একটি কোষেই প্রায় ২ মিটার!) সরানোর সময় জট পাকায় না, ছিঁড়েও যায় না। বিষুবীয় অঞ্চলে সারি বাঁধার সময় প্রতিটি ক্রোমোজোমের দুই ক্রোমাটিড *বিপরীত* দুই মেরুর তন্তুর সাথে যুক্ত থাকে; তাই সেন্ট্রোমিয়ার ভাগ হলে একটি অনুলিপি এদিকে, অন্যটি ওদিকে যাবেই। কোষ খুব যত্ন করে তার নির্দেশনা ভাগ করে দেয়।
+## terms
+মাইটোসিস (Mitosis) | একটি কোষ ভাগ হয়ে মাতৃকোষের মতো একই ক্রোমোজোমের দুটি অপত্য কোষ তৈরি (সমীকরণিক বিভাজন)
+দেহকোষ (Somatic cell) | দেহ গঠনকারী কোষ (জননকোষ নয়)
+ভাজক টিস্যু (Meristem) | উদ্ভিদের যে টিস্যুর কোষ ভাগ হতে থাকে, যেমন মূল ও কাণ্ডের আগায়
+ক্যারিওকাইনেসিস (Karyokinesis) | নিউক্লিয়াসের বিভাজন
+সাইটোকাইনেসিস (Cytokinesis) | সাইটোপ্লাজমের বিভাজন
+ইন্টারফেজ (Interphase) | বিভাজনের আগের প্রস্তুতিমূলক অবস্থা; এখানে DNA-র অনুলিপি হয়
+ক্রোমাটিড (Chromatid) | অনুলিপি হওয়া ক্রোমোজোমের হুবহু একই দুই অংশের একটি
+সেন্ট্রোমিয়ার (Centromere) | যে বিন্দুতে দুই ক্রোমাটিড যুক্ত থাকে এবং যেখানে তন্তু যুক্ত হয়
+স্পিন্ডল যন্ত্র (Spindle apparatus) | তন্তুময় প্রোটিনের দুই মেরুবিশিষ্ট গঠন, যা ক্রোমোজোম সরায়
+ইকুয়েটর বা বিষুবীয় অঞ্চল (Equator) | স্পিন্ডল যন্ত্রের দুই মেরুর ঠিক মাঝখানের তল
+আকর্ষণ তন্তু (Traction fibre) | ক্রোমোজোমের সেন্ট্রোমিয়ারের সাথে যুক্ত স্পিন্ডল তন্তু; ক্রোমোজোমাল তন্তুও বলে
+অ্যাস্টার-রে (Aster ray) | প্রাণিকোষে সেন্ট্রিওলের চারদিক থেকে ছড়ানো রশ্মি
+অপত্য ক্রোমোজোম (Daughter chromosome) | অ্যানাফেজে আলাদা হয়ে যাওয়া প্রতিটি ক্রোমাটিড
+কোষপ্লেট (Cell plate) | বিভাজনরত উদ্ভিদকোষের বিষুবীয় তলে তৈরি নতুন বিভেদ-প্রাচীর
+টিউমার (Tumour) | অনিয়ন্ত্রিত কোষ বিভাজনে তৈরি কোষের পিণ্ড
+## visual
+**পরের** বোতাম চেপে মাইটোসিস ধাপে ধাপে দেখো, অথবা পুরোটা চালিয়ে দাও। উদ্ভিদকোষ ও প্রাণিকোষ বদলে বদলে পার্থক্য খুঁজে বের করো। দ্বিতীয় ট্যাবে ক্রোমোজোমের সেন্ট্রোমিয়ার সরিয়ে দেখো, অ্যানাফেজে কেন এটি V, L, J বা I-এর মতো দেখায়।
+## real
+- **স্কুলের ল্যাবে পেঁয়াজের মূলের আগা।** বাড়ন্ত পেঁয়াজ-মূলের আগা ভাজক টিস্যু, তাই যেকোনো মুহূর্তে এর অনেক কোষ বিভাজনরত থাকে। এজন্যই অণুবীক্ষণযন্ত্রে মাইটোসিসের পর্যায় দেখার জন্য মূলের আগা সবচেয়ে জনপ্রিয় নমুনা।
+- **চুল ও নখ।** এদের গোড়ার কোষ মাইটোসিসে ভাগ হতে থাকে বলে প্রতি সপ্তাহে এরা একটু একটু করে লম্বা হয়।
+- **কাণ্ডের কাটিং।** কৃষক আখের কাণ্ডের টুকরো থেকে আখ চাষ করেন, বাগানি গোলাপের ডাল কেটে নতুন চারা করেন। নতুন গাছটি পুরোপুরি মাইটোসিসে তৈরি, তাই এটি মাতৃগাছের প্রতিরূপ।
+- **টিকটিকির লেজ।** বিপদে পড়ে টিকটিকি লেজ খসিয়ে পালালে মাইটোসিসের মাধ্যমে নতুন লেজ গজায়।
+- **ক্যান্সার সচেতনতা।** তামাকের (সিগারেট, জর্দা, গুল) ক্ষতিকর রাসায়নিক পদার্থ সেই জিনগুলোর ক্ষতি করতে পারে, যারা কোষ বিভাজনকে নিয়ন্ত্রণে রাখে; তাই তামাক ক্যান্সারের একটি বড় কারণ। এসব থেকে দূরে থাকা নিজেকে রক্ষার সেরা উপায়গুলোর একটি।
+## example
+প্রশ্ন: পেঁয়াজের মূলের আগার একটি কোষে ১৬টি ক্রোমোজোম (2n = ১৬)। কোষটি মাইটোসিসে ভাগ হচ্ছে। (ক) মেটাফেজে এতে কয়টি ক্রোমাটিড থাকে? (খ) অ্যানাফেজে প্রতিটি মেরুর দিকে কয়টি অপত্য ক্রোমোজোম যায়? (গ) প্রতিটি অপত্য কোষে কয়টি ক্রোমোজোম থাকে?
+দেওয়া আছে: মাতৃকোষের ক্রোমোজোম সংখ্যা = ১৬
+সমাধান: বিভাজনের আগে প্রতিটি ক্রোমোজোমের অনুলিপি হয়েছে, তাই প্রতিটিতে ২টি ক্রোমাটিড।
+ধাপ: (ক) মেটাফেজে ক্রোমাটিড = ১৬ × ২ = ৩২টি।
+ধাপ: (খ) অ্যানাফেজে ৩২টি ক্রোমাটিড আলাদা হয়ে ৩২টি অপত্য ক্রোমোজোম হয়। অর্ধেক যায় প্রতিটি মেরুতে: ৩২ ÷ ২ = ১৬টি।
+ধাপ: (গ) প্রতিটি অপত্য নিউক্লিয়াস তৈরি হয় তার মেরুর ১৬টি ক্রোমোজোম নিয়ে, তাই প্রতিটি অপত্য কোষে ১৬টি।
+> আগে দ্বিগুণ (অনুলিপি করে), পরে অর্ধেক (আলাদা হয়ে): তাই সংখ্যা বদলায় না।
+উত্তর: (ক) ৩২টি ক্রোমাটিড, (খ) প্রতিটি মেরুতে ১৬টি, (গ) ১৬টি ক্রোমোজোম, মাতৃকোষের সমান।
+## example
+প্রশ্ন: মানুষের চামড়ার একটি কোষে ৪৬টি ক্রোমোজোম। কোষটি মাইটোসিসে ভাগ হলো, নতুন কোষগুলো আবার ভাগ হলো, এভাবে মোট ৩ বার বিভাজন হলো। কয়টি কোষ তৈরি হলো, আর প্রতিটিতে কয়টি ক্রোমোজোম?
+দেওয়া আছে: শুরুতে ৪৬টি ক্রোমোজোমের ১টি কোষ; n = ৩ বার মাইটোসিস
+সূত্র: কোষের সংখ্যা N = ২^{n}
+হিসাব: N = ২^{৩} = ৮
+> মাইটোসিস সমীকরণিক বিভাজন: কোনো বিভাজনেই ক্রোমোজোম সংখ্যা বদলায় না।
+উত্তর: ৮টি কোষ, প্রতিটিতে ৪৬টি ক্রোমোজোম।
+## example
+প্রশ্ন: বর্ণনা পড়ে মাইটোসিসের পর্যায়টির নাম বলো। (ক) ক্রোমোজোমগুলো খাটো ও মোটা, কোষের মাঝ বরাবর এক সারিতে আছে; নিউক্লিয়ার মেমব্রেন নেই। (খ) V ও J আকৃতির ক্রোমোজোম বিপরীত দুই মেরুর দিকে যাচ্ছে। (গ) দুটি নিউক্লিয়াস দেখা যাচ্ছে, আর কোষের মাঝ বরাবর একটি প্লেট তৈরি হচ্ছে। (ঘ) মোটা, জড়াজড়ি করা ক্রোমোজোম এমন নিউক্লিয়াসের ভেতরে আছে, যার মেমব্রেন এখনো আছে।
+সমাধান: এমন একটি চিহ্ন খোঁজো, যা শুধু একটি পর্যায়েই থাকে।
+ধাপ: (ক) ক্রোমোজোম বিষুবীয় অঞ্চলে, সবচেয়ে খাটো ও মোটা → মেটাফেজ।
+ধাপ: (খ) সেন্ট্রোমিয়ার আগে, বাহু পেছনে, মেরুর দিকে চলছে → অ্যানাফেজ।
+ধাপ: (গ) দুটি অপত্য নিউক্লিয়াস ও কোষপ্লেট → টেলোফেজ ও সাইটোকাইনেসিস, উদ্ভিদকোষে।
+ধাপ: (ঘ) ক্রোমোজোম দেখা যাচ্ছে কিন্তু জড়ানো, নিউক্লিয়ার মেমব্রেন এখনো আছে → প্রোফেজ।
+উত্তর: (ক) মেটাফেজ, (খ) অ্যানাফেজ, (গ) টেলোফেজ (উদ্ভিদকোষ), (ঘ) প্রোফেজ।
+## mistakes
+x ইন্টারফেজ একটি বিশ্রামের দশা, তখন কিছুই ঘটে না।
+v ইন্টারফেজ খুব ব্যস্ত সময়: কোষ বড় হয় এবং বিভাজনের প্রস্তুতি হিসেবে DNA-র অনুলিপি তৈরি করে।
+x মাইটোসিসে ক্রোমোজোম সংখ্যা অর্ধেক হয়ে যায়, কারণ প্রতিটি ক্রোমোজোম দুই ভাগ হয়।
+v প্রতিটি ক্রোমোজোমের আগে অনুলিপি হয় (দুটি ক্রোমাটিড), তারপর ক্রোমাটিড দুটি আলাদা হয়। তাই প্রতিটি অপত্য কোষ মাতৃকোষের সমান সংখ্যক ক্রোমোজোম পায়।
+x ক্রোমোজোম গোনা সবচেয়ে সহজ প্রোফেজে, যখন এরা প্রথম দেখা দেয়।
+v প্রোফেজে এরা জড়িয়ে থাকে। সবচেয়ে ভালো গোনা যায় মেটাফেজে, যখন এরা সবচেয়ে খাটো, মোটা এবং বিষুবীয় অঞ্চলে সাজানো।
+x উদ্ভিদকোষও প্রাণিকোষের মতো মাঝখানে খাঁজ তৈরি করে ভাগ হয়।
+v উদ্ভিদকোষের শক্ত প্রাচীর আছে, তাই এটি বিষুবীয় তলে কোষপ্লেট তৈরি করে। খাঁজ তৈরি করে ভাগ হয় শুধু প্রাণিকোষ।
+x সব টিউমারই ক্যান্সার।
+v অনিয়ন্ত্রিত বিভাজনে তৈরি যেকোনো পিণ্ডই টিউমার। যে টিউমার ছড়িয়ে পড়ে ও প্রাণঘাতী হয়, শুধু তাকেই ক্যান্সার বলে।
+## remember
+- মাইটোসিস: ১টি কোষ → হুবহু একই ২টি অপত্য কোষ; ক্রোমোজোম সংখ্যা অপরিবর্তিত (সমীকরণিক বিভাজন)।
+- এটি ঘটে দেহকোষে, উদ্ভিদের ভাজক টিস্যুতে।
+- আগে ক্যারিওকাইনেসিস (নিউক্লিয়াস), পরে সাইটোকাইনেসিস (সাইটোপ্লাজম)। ইন্টারফেজ হলো প্রস্তুতি।
+- পর্যায়ের ক্রম: প্রোফেজ → প্রো-মেটাফেজ → মেটাফেজ → অ্যানাফেজ → টেলোফেজ।
+- প্রোফেজ: ক্রোমোজোম দেখা দেয়। প্রো-মেটাফেজ: স্পিন্ডল তৈরি, মেমব্রেন বিলুপ্ত হতে শুরু। মেটাফেজ: বিষুবীয় অঞ্চলে। অ্যানাফেজ: মেরুর দিকে চলন (V, L, J, I)। টেলোফেজ: দুটি নিউক্লিয়াস।
+- উদ্ভিদকোষ: কোষপ্লেট, সেন্ট্রিওল নেই। প্রাণিকোষ: খাঁজ, সেন্ট্রিওল ও অ্যাস্টার-রে আছে।
+- মাইটোসিসের ফল: বৃদ্ধি, ক্ষত পূরণ, কোষ বদল ও অযৌন জনন; অনিয়ন্ত্রিত মাইটোসিসের ফল টিউমার।
+## think
+এক শিক্ষার্থী অণুবীক্ষণযন্ত্রে মাইটোসিস দেখতে চায়। সে বাড়ন্ত পেঁয়াজ-মূলের আগা থেকে কোষ নিতে পারে, অথবা পেঁয়াজের বাইরের শুকনো খোসা থেকে। কোনটি বেছে নেওয়া উচিত, আর কেন?
+## quiz
+? মাইটোসিস কোষ বিভাজনের কোন পর্যায়ে নিউক্লিয়াস আকারে বড় হয়?
+* প্রোফেজ
+- মেটাফেজ
+- অ্যানাফেজ
+- টেলোফেজ
+= প্রোফেজের শুরুতে নিউক্লিয়াস আকারে একটু বড় হয় এবং ক্রোমোজোমগুলো খাটো ও মোটা হতে শুরু করে।
+? ক্রোমোজোমগুলো স্পিন্ডল যন্ত্রের বিষুবীয় অঞ্চলে থাকে এবং সবচেয়ে খাটো ও মোটা হয়:
+- প্রোফেজে
+- প্রো-মেটাফেজে
+* মেটাফেজে
+- টেলোফেজে
+= মেটাফেজে সব ক্রোমোজোম বিষুবীয় অঞ্চলে সাজে; সেন্ট্রোমিয়ার থাকে বিষুবীয় অঞ্চলে।
+? মেরুর দিকে চলার সময় ক্রোমোজোমগুলোকে V, L, J বা I-এর মতো দেখায়:
+- মেটাফেজে
+* অ্যানাফেজে
+- টেলোফেজে
+- ইন্টারফেজে
+= অ্যানাফেজে সেন্ট্রোমিয়ার আগে চলে, বাহু পেছনে থাকে; তাই আকৃতি নির্ভর করে সেন্ট্রোমিয়ারের অবস্থানের ওপর।
+? সাইটোকাইনেসিসের সময় কোষপ্লেট তৈরি হয়:
+- প্রাণিকোষে, প্রোফেজে
+- প্রাণিকোষে, টেলোফেজে
+- উদ্ভিদকোষে, প্রোফেজে
+* উদ্ভিদকোষে, টেলোফেজের শেষে
+= উদ্ভিদকোষ বিষুবীয় তলে কোষপ্লেট তৈরি করে; প্রাণিকোষ খাঁজ তৈরি হয়ে দুই ভাগ হয়।
+? ২৪টি ক্রোমোজোমের একটি কোষ মাইটোসিসে ভাগ হলো। প্রতিটি অপত্য কোষে থাকবে:
+- ১২টি ক্রোমোজোম
+* ২৪টি ক্রোমোজোম
+- ৪৮টি ক্রোমোজোম
+- ৬টি ক্রোমোজোম
+= মাইটোসিস সমীকরণিক বিভাজন: অপত্য কোষের ক্রোমোজোম সংখ্যা মাতৃকোষের সমান।
+
+@@ 3.3
+@visual b3meiosis
+@related 3.2 11.2.2 11.3 12.1
+== en
+## what
+**Meiosis** is the cell division in which one cell divides twice to form **four daughter cells**, each with **half** the number of chromosomes of the mother cell. It takes place when reproductive cells are made, and it keeps the chromosome number of a species the same from generation to generation.
+## simple
+**Two divisions, four cells, half the chromosomes.** In one round of meiosis the nucleus divides twice, one division straight after the other, but the chromosomes are copied only once. So from one mother cell we get four daughter cells, and each has only half as many chromosomes as the mother cell (and about half as much DNA). Because the number of chromosomes is *reduced*, meiosis is also called **reduction division**.
+
+**Why is meiosis needed at all?** Think about sexual reproduction. A new organism begins when a male reproductive cell joins a female reproductive cell to form a zygote. Your book asks you to imagine an organism whose body cells have **4** chromosomes.
+- Suppose its reproductive cells also had 4 chromosomes. Then the zygote would have 4 + 4 = **8**, and every cell of the child would have 8: double the parent's number.
+- The child's reproductive cells would then have 8, so the grandchild would have **16**, the next generation **32**, and so on.
+
+The chromosome number would double in every generation! Chromosomes carry the genes that control the characteristics of an organism, so offspring with ever more chromosomes would be completely different from their parents. The species could not stay the same.
+
+Meiosis solves the problem. It makes reproductive cells with **half** the number: 2 instead of 4. Then 2 + 2 = 4, and the child has exactly the parent's number. **Meiosis halves the number; fertilisation doubles it again.**
+
+**Haploid and diploid.**
+- A cell with one set of chromosomes is **haploid**, written **n**. Reproductive cells (gametes) are haploid.
+- When two haploid cells unite, the cell has two sets and is **diploid**, written **2n**. The zygote and the body cells that come from it are diploid.
+
+In humans 2n = 46, so a sperm and an egg each carry n = 23, and the zygote gets 23 + 23 = 46 again.
+
+**Where does meiosis take place?** Mainly in the **germ mother cells**, when gametes are being formed:
+- in flowering plants, inside the **anthers** and the **ovules** of the flower;
+- in animals, inside the **testes** and the **ovaries**.
+
+Some simple organisms, such as many algae and fungi, have a haploid body. In them the zygote is the only diploid cell, and meiosis takes place in the zygote itself. In mosses, diploid spore mother cells divide by meiosis to give haploid spores.
+
+**The two divisions**
+- **Meiosis-I (first meiotic division).** In a diploid cell the chromosomes come in pairs: one partner of each pair came from the father and one from the mother. In meiosis-I the two partners of each pair separate and go to different cells. So each of the two cells formed has **half** the number of chromosomes. This is the real reduction division.
+- **Meiosis-II (second meiotic division).** Each of those two cells divides again. This division is just like mitosis: the two chromatids of each chromosome separate, and the chromosome number does not change. The result is **four haploid cells**.
+
+*A detail from animals:* in the testis all four cells become sperm. In the ovary only one of the four becomes the egg; the other three are tiny cells that do not survive.
+
+**The second gift of meiosis: variety.** Meiosis does not just halve the number. It also shuffles the genes.
+- Before the partners of a pair separate in meiosis-I, they lie side by side and **exchange pieces** with each other. So the chromosomes that come out are new mixtures of the father's and the mother's genes.
+- Which partner of each pair goes to which cell is a matter of chance, so the pairs are shared out in a different combination every time.
+- Finally, which sperm meets which egg is also chance.
+
+That is why brothers and sisters of the same parents are not exact copies of each other (unless they are identical twins). Mitosis makes copies; meiosis makes **genetic variation**.
+
+**Why variety matters.** The environment keeps changing. If all members of a species were almost the same, one new disease or one change in the environment could wipe out the whole species. If the members differ from one another, at least some are likely to have what it takes to survive the new situation, and the species lives on. Natural selection needs this variation to work on. Your book puts it this way: meiosis has evolved and taken its place in the living world because it helps organisms to survive.
+
+**Mitosis and meiosis side by side**
+- Where: mitosis in body cells; meiosis in germ mother cells.
+- Number of divisions: one in mitosis; two in meiosis.
+- Daughter cells: 2 in mitosis; 4 in meiosis.
+- Chromosome number: unchanged in mitosis (2n → 2n); halved in meiosis (2n → n).
+- Daughter cells compared with the mother cell: identical in mitosis; different from it and from one another in meiosis.
+- Job: growth, repair and asexual reproduction for mitosis; making gametes (or spores) and creating variation for meiosis.
+- Other name: equational division for mitosis; reduction division for meiosis.
+
+**When whole sets are added.** Although meiosis normally keeps the number constant, once in a long while the whole chromosome set of an organism gets doubled, and this can even give rise to a new species. Your book's example is the African frog *Xenopus laevis*, which carries a doubled chromosome set compared with its relative *Xenopus tropicalis*. (Strictly speaking, the doubling happened millions of years ago in ancestors closely related to *X. tropicalis*.) Among plants, having extra sets is quite common: the potato has four sets and bread wheat has six. Such plants are often bigger, so people have chosen them, and even produced them on purpose, to meet the growing demand for food.
+## analogy
+Two families are joining at a wedding, and each owns a full two-volume set of the family recipe book. If each family gave the couple its whole set, the new home would have four volumes, the next generation eight, and soon nobody could carry the books. So each family gives only **one** volume, and the couple again has a set of two. That is the halving. And before handing its volume over, each family swaps some pages between its two volumes, so no two children ever receive exactly the same book. That is the variation.
+## definition
+**Meiosis**: the cell division in which the nucleus of a eukaryotic cell divides twice in succession while the chromosomes divide only once, producing four daughter cells, each with half the number of chromosomes of the mother cell. It is also called **reduction division**.
+
+**Haploid (n)**: the condition of a cell having a single set of chromosomes, half the number of a body cell. **Diploid (2n)**: the condition of a cell having two sets of chromosomes, formed when two haploid cells unite.
+
+**Meiosis-I** is the first division, in which the chromosome number is halved; **meiosis-II** is the second division, which resembles mitosis.
+## why
+How does meiosis manage to halve the number so neatly? The secret is in the pairs. In a diploid cell every chromosome has a partner of the same size and shape: one from the father, one from the mother. In mitosis the partners ignore each other and every chromosome simply separates its two chromatids. In meiosis-I the partners first come together as a pair, and then the spindle pulls **whole chromosomes**, one partner to each pole. Each new cell therefore gets one member of every pair: exactly one complete set, never two of one kind and none of another. Only in meiosis-II do the chromatids separate, as in mitosis. One round of copying followed by two rounds of dividing gives half the number.
+## terms
+Meiosis | Division of one cell into four daughter cells with half the chromosome number (reduction division)
+Reduction division | Another name for meiosis, because the chromosome number is reduced to half
+Germ mother cell | A diploid cell in a reproductive organ that divides by meiosis to form gametes
+Gamete | A reproductive cell: sperm (male) or egg (female); it is haploid
+Haploid (n) | Having one set of chromosomes, as in gametes
+Diploid (2n) | Having two sets of chromosomes, as in the zygote and body cells
+Fertilisation | The union of a male and a female gamete to form a zygote
+Zygote | The diploid cell formed by fertilisation
+Meiosis-I | The first division of meiosis; the chromosome number is halved
+Meiosis-II | The second division of meiosis; like mitosis, the number does not change
+Genetic variation | Differences in genes among the members of a species
+## visual
+Follow meiosis one step at a time and watch the chromosome number fall from 2n to n. Tap **Shuffle** to see how different the four cells can be, then switch to mitosis to compare. In the second tab, see what would happen to the chromosome number over the generations if there were no meiosis.
+## real
+- **You and your brothers and sisters.** Children of the same parents share many features but are never exactly alike, because every sperm and every egg made by meiosis carries a different mixture of genes.
+- **A mango orchard.** Trees grown from seeds (which come from sexual reproduction, so meiosis is involved) give mangoes that differ from tree to tree. That is why growers who want exactly the same Langra or Fazli mango use grafting instead, which needs only mitosis.
+- **Crops and disease.** When a whole field is planted with plants that are almost genetically the same, one disease can destroy the entire crop. Scientists therefore keep many varieties of rice, with different genes, in gene banks: variety is a safety net.
+- **Big potatoes and wheat.** The potato and bread wheat in our food have extra sets of chromosomes, one reason for their good size and yield.
+## example
+Q: A human body cell has 46 chromosomes. How many chromosomes are there in (a) a sperm, (b) an egg, (c) the zygote formed when they unite, and (d) a skin cell of the baby that develops from this zygote?
+Given: 2n = 46
+Formula: gametes are haploid, n = 2n ÷ 2; zygote = n + n
+Calculation: n = 46 ÷ 2 = 23; zygote = 23 + 23 = 46
+> Gametes are made by meiosis, so they carry half the number. The baby's body cells come from the zygote by mitosis, so they keep the zygote's number.
+Answer: (a) 23, (b) 23, (c) 46, (d) 46.
+## example
+Q: The body cells of an organism have 4 chromosomes. Imagine that there were no meiosis, so that its gametes also had 4 chromosomes. How many chromosomes would the body cells have after 1, 2 and 3 generations? What is the number with meiosis?
+Given: 2n = 4; without meiosis, gamete = body cell number
+Solution: Without meiosis each zygote gets the full number from both parents, so the number doubles every generation.
+Step: Generation 1: 4 + 4 = 8.
+Step: Generation 2: 8 + 8 = 16.
+Step: Generation 3: 16 + 16 = 32.
+Step: With meiosis the gametes have 4 ÷ 2 = 2, so every zygote has 2 + 2 = 4.
+Answer: Without meiosis: 8, 16, 32 (doubling each time). With meiosis: always 4.
+## example
+Q: A rice plant has 24 chromosomes in its body cells (2n = 24). In an anther, 10 pollen mother cells divide by meiosis. (a) How many cells are produced? (b) How many chromosomes does each have?
+Given: 2n = 24; 10 mother cells; each meiosis gives 4 cells
+Calculation: (a) 10 × 4 = 40 cells; (b) n = 24 ÷ 2 = 12
+> These haploid cells develop into pollen grains.
+Answer: (a) 40 cells, (b) 12 chromosomes in each.
+## example
+Q: A little further: an organism has 2 pairs of chromosomes (2n = 4). In meiosis-I each pair can face either way, by chance. In how many different ways can the father's and mother's chromosomes be combined in a gamete? What about humans, with 23 pairs? (Ignore the exchange of pieces.)
+Given: each pair gives 2 choices (the father's partner or the mother's partner)
+Formula: number of combinations = 2^{number of pairs}
+Calculation: for 2 pairs: 2^{2} = 4; for 23 pairs: 2^{23} = 8 388 608
+> The exchange of pieces between partners makes the real number far larger still.
+Answer: 4 combinations for 2 pairs; more than 83 lakh for a human. No wonder no two gametes are alike.
+## mistakes
+x Meiosis happens in all the cells of the body.
+v Meiosis happens only in germ mother cells of the reproductive organs (and in spore formation). Body cells divide by mitosis.
+x In meiosis the chromosomes are copied twice, because there are two divisions.
+v The chromosomes are copied only once, before meiosis-I. Two divisions after one copying is exactly why the number is halved.
+x The chromosome number is halved in meiosis-II.
+v It is halved in meiosis-I, when the partners of each pair separate. Meiosis-II is like mitosis and does not change the number.
+x Meiosis makes the body grow.
+v Growth is the work of mitosis. Meiosis makes gametes (or spores) and creates variation.
+x Haploid means "half a chromosome".
+v Haploid means one complete set of whole chromosomes (n); diploid means two sets (2n).
+## remember
+- Meiosis: 1 cell → 2 divisions → 4 daughter cells, each with half the chromosomes (reduction division).
+- Meiosis-I halves the number; meiosis-II is like mitosis.
+- Gametes are haploid (n); zygote and body cells are diploid (2n). In humans n = 23, 2n = 46.
+- Meiosis halves, fertilisation doubles: the chromosome number of a species stays constant.
+- Meiosis occurs in anthers and ovules of plants, and in testes and ovaries of animals.
+- Meiosis creates genetic variation, which helps a species survive in a changing environment.
+## think
+Banana plants are usually grown from suckers (side shoots), not from seeds, so all the plants of one variety are almost genetically identical. Why could a single new disease be especially dangerous for such a crop?
+## quiz
+? Meiosis is called reduction division because:
+- the daughter cells are smaller
+* the chromosome number in the daughter cells becomes half
+- the number of cells is reduced
+- the nucleus divides only once
+= Each daughter cell receives half the number of chromosomes of the mother cell.
+? In a flowering plant, meiosis takes place in the:
+- root tip and stem tip
+- leaf and bud
+* anther and ovule
+- bark and cork
+= Gametes are formed in the anther and the ovule, so the germ mother cells there divide by meiosis.
+? From one mother cell, meiosis produces:
+- 1 cell
+- 2 cells
+- 3 cells
+* 4 cells
+= Two successive divisions give four daughter cells.
+? In meiosis: (i) the chromosome number changes, (ii) haploid gametes are formed, (iii) the body of the organism grows. Which is correct?
+* i and ii
+- i and iii
+- ii and iii
+- i, ii and iii
+= Meiosis halves the chromosome number and forms haploid gametes; growth of the body is the work of mitosis.
+? The body cells of an organism have 24 chromosomes. Its gametes have:
+- 6 chromosomes
+* 12 chromosomes
+- 24 chromosomes
+- 48 chromosomes
+= Gametes are haploid: n = 24 ÷ 2 = 12.
+== bn
+## what
+**মিয়োসিস** এমন কোষ বিভাজন, যাতে একটি কোষ পরপর দুবার ভাগ হয়ে **চারটি অপত্য কোষ** তৈরি করে, যাদের প্রতিটির ক্রোমোজোম সংখ্যা মাতৃকোষের **অর্ধেক**। জননকোষ তৈরির সময় এটি ঘটে, আর এর ফলেই একটি প্রজাতির ক্রোমোজোম সংখ্যা বংশপরম্পরায় একই থাকে।
+## simple
+**দুবার বিভাজন, চারটি কোষ, অর্ধেক ক্রোমোজোম।** মিয়োসিসের এক চক্রে নিউক্লিয়াস পরপর দুবার ভাগ হয়, কিন্তু ক্রোমোজোমের অনুলিপি হয় মাত্র একবার। তাই একটি মাতৃকোষ থেকে পাওয়া যায় চারটি অপত্য কোষ, যাদের প্রতিটিতে ক্রোমোজোম থাকে মাতৃকোষের অর্ধেক (কাজেই DNA-র পরিমাণও প্রায় অর্ধেক)। ক্রোমোজোম সংখ্যা *হ্রাস* পায় বলে মিয়োসিসের আরেক নাম **হ্রাসমূলক বিভাজন**।
+
+**মিয়োসিস আদৌ দরকার কেন?** যৌন জননের কথা ভাবো। পুং জননকোষ আর স্ত্রী জননকোষ মিলে জাইগোট তৈরি হলে নতুন জীবের শুরু হয়। তোমার বই এমন একটি জীব কল্পনা করতে বলে, যার দেহকোষে **৪টি** ক্রোমোজোম।
+- ধরো এর জননকোষেও ৪টি করে ক্রোমোজোম থাকল। তাহলে জাইগোটে হবে ৪ + ৪ = **৮টি**, আর সন্তানের প্রতিটি কোষে ৮টি: মাতৃজীবের দ্বিগুণ।
+- সেই সন্তানের জননকোষে থাকবে ৮টি, তাই নাতি-নাতনির হবে **১৬টি**, তার পরের প্রজন্মে **৩২টি**, এভাবে চলতেই থাকবে।
+
+প্রতি প্রজন্মে ক্রোমোজোম সংখ্যা দ্বিগুণ হয়ে যেত! ক্রোমোজোম জীবের বৈশিষ্ট্য নিয়ন্ত্রণকারী জিন বহন করে, তাই ক্রোমোজোম বাড়তে থাকলে বংশধরেরা বাবা-মায়ের থেকে আমূল আলাদা হয়ে যেত। প্রজাতিটি আর আগের মতো থাকতে পারত না।
+
+মিয়োসিস এই সমস্যার সমাধান করে। এটি **অর্ধেক** সংখ্যার জননকোষ তৈরি করে: ৪-এর জায়গায় ২। তখন ২ + ২ = ৪, সন্তান পায় ঠিক বাবা-মায়ের সমান সংখ্যা। **মিয়োসিস সংখ্যা অর্ধেক করে; নিষেক তা আবার দ্বিগুণ করে।**
+
+**হ্যাপ্লয়েড ও ডিপ্লয়েড।**
+- যে কোষে ক্রোমোজোমের এক সেট থাকে, সে অবস্থাকে বলে **হ্যাপ্লয়েড**, লেখা হয় **n**। জননকোষ (গ্যামেট) হ্যাপ্লয়েড।
+- দুটি হ্যাপ্লয়েড কোষ মিললে কোষে দুই সেট ক্রোমোজোম হয়; এ অবস্থাকে বলে **ডিপ্লয়েড**, লেখা হয় **2n**। জাইগোট এবং তা থেকে তৈরি দেহকোষ ডিপ্লয়েড।
+
+মানুষের 2n = ৪৬, তাই শুক্রাণু ও ডিম্বাণু প্রতিটিতে থাকে n = ২৩, আর জাইগোট আবার পায় ২৩ + ২৩ = ৪৬।
+
+**মিয়োসিস কোথায় ঘটে?** প্রধানত **জনন মাতৃকোষে**, যখন গ্যামেট তৈরি হয়:
+- সপুষ্পক উদ্ভিদে ফুলের **পরাগধানী** ও **ডিম্বকের** ভেতরে;
+- প্রাণীতে **শুক্রাশয়** ও **ডিম্বাশয়ের** ভেতরে।
+
+অনেক শৈবাল ও ছত্রাকের মতো কিছু সরল জীবের দেহ হ্যাপ্লয়েড। এদের ক্ষেত্রে জাইগোটই একমাত্র ডিপ্লয়েড কোষ, আর মিয়োসিস ঘটে জাইগোটেই। মস উদ্ভিদে ডিপ্লয়েড রেণু মাতৃকোষ মিয়োসিসে ভাগ হয়ে হ্যাপ্লয়েড রেণু তৈরি করে।
+
+**দুটি বিভাজন**
+- **মিয়োসিস-১ (প্রথম মিয়োটিক বিভাজন)।** ডিপ্লয়েড কোষে ক্রোমোজোম থাকে জোড়ায় জোড়ায়: প্রতি জোড়ার একটি সঙ্গী এসেছে বাবার কাছ থেকে, অন্যটি মায়ের কাছ থেকে। মিয়োসিস-১-এ প্রতি জোড়ার দুই সঙ্গী আলাদা হয়ে দুটি ভিন্ন কোষে চলে যায়। তাই তৈরি হওয়া দুটি কোষের প্রতিটিতে ক্রোমোজোম সংখ্যা **অর্ধেক**। আসল হ্রাসমূলক বিভাজন এটিই।
+- **মিয়োসিস-২ (দ্বিতীয় মিয়োটিক বিভাজন)।** ওই দুটি কোষের প্রতিটি আবার ভাগ হয়। এই বিভাজন মাইটোসিসের মতোই: প্রতিটি ক্রোমোজোমের দুই ক্রোমাটিড আলাদা হয়, ক্রোমোজোম সংখ্যার কোনো পরিবর্তন হয় না। ফল: **চারটি হ্যাপ্লয়েড কোষ**।
+
+*প্রাণীর একটি তথ্য:* শুক্রাশয়ে চারটি কোষই শুক্রাণু হয়। ডিম্বাশয়ে চারটির মধ্যে একটিই ডিম্বাণু হয়; বাকি তিনটি খুব ছোট কোষ, যারা টেকে না।
+
+**মিয়োসিসের দ্বিতীয় উপহার: বৈচিত্র্য।** মিয়োসিস শুধু সংখ্যা অর্ধেক করে না, জিনগুলোকে নতুন করে সাজায়ও।
+- মিয়োসিস-১-এ আলাদা হওয়ার আগে প্রতি জোড়ার দুই সঙ্গী পাশাপাশি এসে নিজেদের মধ্যে **কিছু অংশ বিনিময় করে**। তাই যে ক্রোমোজোম বেরিয়ে আসে, তা বাবা ও মায়ের জিনের নতুন মিশ্রণ।
+- কোন জোড়ার কোন সঙ্গী কোন কোষে যাবে তা ঘটে দৈবভাবে, তাই প্রতিবার জোড়াগুলো ভিন্ন ভিন্ন সমাবেশে ভাগ হয়।
+- শেষে, কোন শুক্রাণু কোন ডিম্বাণুর সাথে মিলবে তা-ও দৈব ব্যাপার।
+
+এজন্যই একই বাবা-মায়ের সন্তান, অর্থাৎ ভাইবোনেরা একে অন্যের হুবহু প্রতিরূপ হয় না (অভিন্ন যমজ ছাড়া)। মাইটোসিস তৈরি করে প্রতিরূপ; মিয়োসিস তৈরি করে **জিনগত বৈচিত্র্য**।
+
+**বৈচিত্র্য কেন জরুরি।** পরিবেশ প্রতিনিয়ত বদলায়। কোনো প্রজাতির সব সদস্য প্রায় একই রকম হলে একটি নতুন রোগ বা পরিবেশের একটি পরিবর্তনেই পুরো প্রজাতি বিলুপ্ত হয়ে যেতে পারে। সদস্যদের মধ্যে বৈচিত্র্য থাকলে নতুন পরিস্থিতিতে টিকে থাকার মতো বৈশিষ্ট্য অন্তত কারো না কারো মধ্যে থাকার সম্ভাবনা বেশি, তাই প্রজাতিটি টিকে যায়। প্রাকৃতিক নির্বাচন কাজ করে এই বৈচিত্র্যের ওপরেই। তোমার বইয়ের ভাষায়: জীবের টিকে থাকায় বিশেষ সুবিধা দেয় বলেই মিয়োসিস বিবর্তিত হয়ে জীবজগতে নিজের স্থান করে নিয়েছে।
+
+**মাইটোসিস ও মিয়োসিস পাশাপাশি**
+- কোথায়: মাইটোসিস দেহকোষে; মিয়োসিস জনন মাতৃকোষে।
+- বিভাজনের সংখ্যা: মাইটোসিসে একবার; মিয়োসিসে দুবার।
+- অপত্য কোষ: মাইটোসিসে ২টি; মিয়োসিসে ৪টি।
+- ক্রোমোজোম সংখ্যা: মাইটোসিসে অপরিবর্তিত (2n → 2n); মিয়োসিসে অর্ধেক (2n → n)।
+- মাতৃকোষের সাথে তুলনা: মাইটোসিসে হুবহু এক; মিয়োসিসে মাতৃকোষ থেকে এবং পরস্পর থেকে আলাদা।
+- কাজ: মাইটোসিসে বৃদ্ধি, ক্ষত পূরণ ও অযৌন জনন; মিয়োসিসে গ্যামেট (বা রেণু) তৈরি ও বৈচিত্র্য সৃষ্টি।
+- অন্য নাম: মাইটোসিস সমীকরণিক বিভাজন; মিয়োসিস হ্রাসমূলক বিভাজন।
+
+**যখন পুরো সেটই বেড়ে যায়।** মিয়োসিস সাধারণত সংখ্যা স্থির রাখলেও বহুদিনে কখনো কখনো কোনো জীবের পুরো ক্রোমোজোম সেট দ্বিগুণ হয়ে যায়, আর তা থেকে নতুন প্রজাতিরও উদ্ভব হতে পারে। তোমার বইয়ের উদাহরণ আফ্রিকার ব্যাঙ *Xenopus laevis*, যার ক্রোমোজোম সেট এর নিকটাত্মীয় *Xenopus tropicalis*-এর তুলনায় দ্বিগুণ। (সঠিকভাবে বললে, এই দ্বিগুণ হওয়ার ঘটনা ঘটেছিল লক্ষ লক্ষ বছর আগে, *X. tropicalis*-এর ঘনিষ্ঠ আত্মীয় পূর্বপুরুষদের মধ্যে।) উদ্ভিদে বাড়তি সেট থাকা বেশ সাধারণ ঘটনা: আলুতে আছে চার সেট, রুটির গমে ছয় সেট। এমন উদ্ভিদ প্রায়ই আকারে বড় হয়, তাই খাদ্যের ক্রমবর্ধমান চাহিদা মেটাতে মানুষ এসব জাত বেছে নিয়েছে, এমনকি পরিকল্পিতভাবে তৈরিও করেছে।
+## analogy
+বিয়েতে দুটি পরিবার এক হচ্ছে, আর প্রতিটি পরিবারের আছে পারিবারিক রান্নার বইয়ের দুই খণ্ডের একটি পূর্ণ সেট। দুই পরিবারই যদি নবদম্পতিকে পুরো সেট দিত, নতুন সংসারে হতো চার খণ্ড, পরের প্রজন্মে আট খণ্ড, কিছুদিন পর বই বয়ে বেড়ানোই অসম্ভব হতো। তাই প্রতিটি পরিবার দেয় মাত্র **একটি** খণ্ড, আর নবদম্পতির আবার হয় দুই খণ্ডের সেট। এটাই সংখ্যা অর্ধেক করা। আর খণ্ডটি দেওয়ার আগে প্রতিটি পরিবার নিজের দুই খণ্ডের মধ্যে কিছু পাতা অদলবদল করে নেয়, তাই কোনো দুই সন্তান কখনো হুবহু একই বই পায় না। এটাই বৈচিত্র্য।
+## definition
+**মিয়োসিস**: যে কোষ বিভাজনে প্রকৃত কোষের নিউক্লিয়াস পরপর দুবার বিভাজিত হয় কিন্তু ক্রোমোজোম বিভাজিত হয় একবার, ফলে চারটি অপত্য কোষ সৃষ্টি হয়, যাদের প্রতিটিতে ক্রোমোজোম সংখ্যা মাতৃকোষের অর্ধেক। একে **হ্রাসমূলক বিভাজন**-ও বলে।
+
+**হ্যাপ্লয়েড (n)**: কোষে ক্রোমোজোমের এক সেট, অর্থাৎ দেহকোষের অর্ধেক সংখ্যক ক্রোমোজোম থাকার অবস্থা। **ডিপ্লয়েড (2n)**: দুটি হ্যাপ্লয়েড কোষের মিলনে কোষে দুই সেট ক্রোমোজোম থাকার অবস্থা।
+
+**মিয়োসিস-১** হলো প্রথম বিভাজন, যাতে ক্রোমোজোম সংখ্যা অর্ধেক হয়; **মিয়োসিস-২** হলো দ্বিতীয় বিভাজন, যা মাইটোসিসের অনুরূপ।
+## why
+মিয়োসিস এত নিখুঁতভাবে সংখ্যা অর্ধেক করে কীভাবে? রহস্য লুকিয়ে আছে জোড়ায়। ডিপ্লয়েড কোষে প্রতিটি ক্রোমোজোমের একই আকার-আকৃতির একটি সঙ্গী থাকে: একটি বাবার, একটি মায়ের। মাইটোসিসে সঙ্গীরা একে অন্যকে পাত্তা দেয় না; প্রতিটি ক্রোমোজোম শুধু নিজের দুই ক্রোমাটিড আলাদা করে। মিয়োসিস-১-এ সঙ্গীরা আগে জোড়া বাঁধে, তারপর স্পিন্ডল তন্তু **আস্ত ক্রোমোজোমকেই** টানে, এক সঙ্গীকে এক মেরুতে, অন্য সঙ্গীকে অন্য মেরুতে। তাই প্রতিটি নতুন কোষ প্রতি জোড়া থেকে একটি করে সদস্য পায়: ঠিক এক পূর্ণ সেট, কোনোটির দুটি আর কোনোটির শূন্য কখনো নয়। ক্রোমাটিড আলাদা হয় শুধু মিয়োসিস-২-এ, মাইটোসিসের মতো। একবার অনুলিপি আর তারপর দুবার বিভাজন, তাই সংখ্যা অর্ধেক।
+## terms
+মিয়োসিস (Meiosis) | একটি কোষ ভাগ হয়ে অর্ধেক ক্রোমোজোম সংখ্যার চারটি অপত্য কোষ তৈরি (হ্রাসমূলক বিভাজন)
+হ্রাসমূলক বিভাজন (Reduction division) | মিয়োসিসের আরেক নাম, কারণ ক্রোমোজোম সংখ্যা কমে অর্ধেক হয়
+জনন মাতৃকোষ (Germ mother cell) | জনন অঙ্গের যে ডিপ্লয়েড কোষ মিয়োসিসে ভাগ হয়ে গ্যামেট তৈরি করে
+গ্যামেট বা জননকোষ (Gamete) | প্রজননের কোষ: শুক্রাণু (পুং) বা ডিম্বাণু (স্ত্রী); এটি হ্যাপ্লয়েড
+হ্যাপ্লয়েড (n) | ক্রোমোজোমের এক সেট থাকা, যেমন গ্যামেটে
+ডিপ্লয়েড (2n) | ক্রোমোজোমের দুই সেট থাকা, যেমন জাইগোট ও দেহকোষে
+নিষেক (Fertilisation) | পুং ও স্ত্রী গ্যামেটের মিলনে জাইগোট তৈরি
+জাইগোট (Zygote) | নিষেকের ফলে তৈরি ডিপ্লয়েড কোষ
+মিয়োসিস-১ (Meiosis-I) | মিয়োসিসের প্রথম বিভাজন; ক্রোমোজোম সংখ্যা অর্ধেক হয়
+মিয়োসিস-২ (Meiosis-II) | মিয়োসিসের দ্বিতীয় বিভাজন; মাইটোসিসের মতো, সংখ্যা বদলায় না
+জিনগত বৈচিত্র্য (Genetic variation) | একই প্রজাতির সদস্যদের জিনে পার্থক্য
+## visual
+ধাপে ধাপে মিয়োসিস দেখো আর লক্ষ করো ক্রোমোজোম সংখ্যা কীভাবে 2n থেকে n হয়। **অন্যভাবে সাজাও** চেপে দেখো চারটি কোষ কতটা ভিন্ন হতে পারে, তারপর মাইটোসিসের সাথে মিলিয়ে দেখো। দ্বিতীয় ট্যাবে দেখো মিয়োসিস না থাকলে প্রজন্ম থেকে প্রজন্মে ক্রোমোজোম সংখ্যার কী দশা হতো।
+## real
+- **তুমি ও তোমার ভাইবোন।** একই বাবা-মায়ের সন্তানদের অনেক মিল থাকে, কিন্তু কেউ কারো হুবহু প্রতিরূপ নয়; কারণ মিয়োসিসে তৈরি প্রতিটি শুক্রাণু ও প্রতিটি ডিম্বাণু জিনের আলাদা মিশ্রণ বহন করে।
+- **আমবাগান।** বীজ থেকে হওয়া গাছের (বীজ আসে যৌন জনন থেকে, তাই মিয়োসিস জড়িত) আম গাছভেদে আলাদা হয়। এজন্যই হুবহু একই ল্যাংড়া বা ফজলি আম পেতে চাষিরা কলম করেন, যাতে লাগে শুধু মাইটোসিস।
+- **ফসল ও রোগ।** গোটা মাঠে জিনগতভাবে প্রায় একই রকম গাছ লাগালে একটি রোগেই পুরো ফসল নষ্ট হয়ে যেতে পারে। তাই বিজ্ঞানীরা জিন ব্যাংকে ভিন্ন ভিন্ন জিনের বহু জাতের ধান সংরক্ষণ করেন: বৈচিত্র্যই নিরাপত্তা।
+- **বড় আলু ও গম।** আমাদের খাবারের আলু ও রুটির গমে ক্রোমোজোমের বাড়তি সেট আছে; এদের ভালো আকার ও ফলনের এটি একটি কারণ।
+## example
+প্রশ্ন: মানুষের দেহকোষে ৪৬টি ক্রোমোজোম। (ক) একটি শুক্রাণুতে, (খ) একটি ডিম্বাণুতে, (গ) এদের মিলনে তৈরি জাইগোটে এবং (ঘ) ওই জাইগোট থেকে বেড়ে ওঠা শিশুর চামড়ার কোষে কয়টি করে ক্রোমোজোম থাকে?
+দেওয়া আছে: 2n = ৪৬
+সূত্র: গ্যামেট হ্যাপ্লয়েড, n = 2n ÷ ২; জাইগোট = n + n
+হিসাব: n = ৪৬ ÷ ২ = ২৩; জাইগোট = ২৩ + ২৩ = ৪৬
+> গ্যামেট তৈরি হয় মিয়োসিসে, তাই এতে সংখ্যা অর্ধেক। শিশুর দেহকোষ জাইগোট থেকে তৈরি হয় মাইটোসিসে, তাই জাইগোটের সংখ্যাই থেকে যায়।
+উত্তর: (ক) ২৩টি, (খ) ২৩টি, (গ) ৪৬টি, (ঘ) ৪৬টি।
+## example
+প্রশ্ন: একটি জীবের দেহকোষে ৪টি ক্রোমোজোম। কল্পনা করো মিয়োসিস বলে কিছু নেই, তাই এর জননকোষেও ৪টি ক্রোমোজোম। ১, ২ ও ৩ প্রজন্ম পরে দেহকোষে কয়টি করে ক্রোমোজোম হবে? মিয়োসিস থাকলে সংখ্যাটি কত?
+দেওয়া আছে: 2n = ৪; মিয়োসিস না থাকলে জননকোষের সংখ্যা = দেহকোষের সংখ্যা
+সমাধান: মিয়োসিস না থাকলে প্রতিটি জাইগোট বাবা ও মা দুজনের কাছ থেকেই পুরো সংখ্যা পায়, তাই প্রতি প্রজন্মে সংখ্যা দ্বিগুণ হয়।
+ধাপ: ১ম প্রজন্ম: ৪ + ৪ = ৮।
+ধাপ: ২য় প্রজন্ম: ৮ + ৮ = ১৬।
+ধাপ: ৩য় প্রজন্ম: ১৬ + ১৬ = ৩২।
+ধাপ: মিয়োসিস থাকলে জননকোষে থাকে ৪ ÷ ২ = ২টি, তাই প্রতিটি জাইগোটে ২ + ২ = ৪টি।
+উত্তর: মিয়োসিস না থাকলে: ৮, ১৬, ৩২ (প্রতিবার দ্বিগুণ)। মিয়োসিস থাকলে: সবসময় ৪।
+## example
+প্রশ্ন: ধানগাছের দেহকোষে ২৪টি ক্রোমোজোম (2n = ২৪)। একটি পরাগধানীতে ১০টি পরাগ মাতৃকোষ মিয়োসিসে ভাগ হলো। (ক) কয়টি কোষ তৈরি হলো? (খ) প্রতিটিতে কয়টি ক্রোমোজোম?
+দেওয়া আছে: 2n = ২৪; ১০টি মাতৃকোষ; প্রতিটি মিয়োসিসে ৪টি কোষ হয়
+হিসাব: (ক) ১০ × ৪ = ৪০টি কোষ; (খ) n = ২৪ ÷ ২ = ১২
+> এই হ্যাপ্লয়েড কোষগুলোই পরে পরাগরেণুতে পরিণত হয়।
+উত্তর: (ক) ৪০টি কোষ, (খ) প্রতিটিতে ১২টি ক্রোমোজোম।
+## example
+প্রশ্ন: আরেকটু এগিয়ে: একটি জীবের ২ জোড়া ক্রোমোজোম আছে (2n = ৪)। মিয়োসিস-১-এ প্রতিটি জোড়া দৈবভাবে যেকোনো দিকে মুখ করে থাকতে পারে। একটি গ্যামেটে বাবার ও মায়ের ক্রোমোজোম কত রকমভাবে মিলতে পারে? ২৩ জোড়া ক্রোমোজোমের মানুষের বেলায়? (অংশ বিনিময়ের কথা বাদ দাও।)
+দেওয়া আছে: প্রতি জোড়ায় ২টি সম্ভাবনা (বাবার সঙ্গী অথবা মায়ের সঙ্গী)
+সূত্র: সমাবেশের সংখ্যা = ২^{জোড়ার সংখ্যা}
+হিসাব: ২ জোড়ার জন্য: ২^{২} = ৪; ২৩ জোড়ার জন্য: ২^{২৩} = ৮ ৩৮৮ ৬০৮
+> সঙ্গীদের মধ্যে অংশ বিনিময় হয় বলে আসল সংখ্যা এর চেয়েও বহু গুণ বেশি।
+উত্তর: ২ জোড়ার জন্য ৪ রকম; মানুষের বেলায় ৮৩ লক্ষের বেশি। তাই কোনো দুটি গ্যামেট এক রকম না হওয়াই স্বাভাবিক।
+## mistakes
+x মিয়োসিস দেহের সব কোষে হয়।
+v মিয়োসিস হয় শুধু জনন অঙ্গের জনন মাতৃকোষে (এবং রেণু তৈরির সময়)। দেহকোষ ভাগ হয় মাইটোসিসে।
+x মিয়োসিসে দুবার বিভাজন হয়, তাই ক্রোমোজোমের অনুলিপিও হয় দুবার।
+v ক্রোমোজোমের অনুলিপি হয় একবারই, মিয়োসিস-১-এর আগে। একবার অনুলিপির পর দুবার বিভাজন হয় বলেই সংখ্যা অর্ধেক হয়।
+x ক্রোমোজোম সংখ্যা অর্ধেক হয় মিয়োসিস-২-এ।
+v অর্ধেক হয় মিয়োসিস-১-এ, যখন প্রতি জোড়ার দুই সঙ্গী আলাদা হয়। মিয়োসিস-২ মাইটোসিসের মতো, এতে সংখ্যা বদলায় না।
+x মিয়োসিসের ফলে দেহ বাড়ে।
+v দেহের বৃদ্ধি মাইটোসিসের কাজ। মিয়োসিস গ্যামেট (বা রেণু) তৈরি করে এবং বৈচিত্র্য সৃষ্টি করে।
+x হ্যাপ্লয়েড মানে "অর্ধেক ক্রোমোজোম"।
+v হ্যাপ্লয়েড মানে আস্ত ক্রোমোজোমের এক পূর্ণ সেট (n); ডিপ্লয়েড মানে দুই সেট (2n)।
+## remember
+- মিয়োসিস: ১টি কোষ → ২ বার বিভাজন → ৪টি অপত্য কোষ, প্রতিটিতে অর্ধেক ক্রোমোজোম (হ্রাসমূলক বিভাজন)।
+- মিয়োসিস-১ সংখ্যা অর্ধেক করে; মিয়োসিস-২ মাইটোসিসের মতো।
+- গ্যামেট হ্যাপ্লয়েড (n); জাইগোট ও দেহকোষ ডিপ্লয়েড (2n)। মানুষের n = ২৩, 2n = ৪৬।
+- মিয়োসিস অর্ধেক করে, নিষেক দ্বিগুণ করে: প্রজাতির ক্রোমোজোম সংখ্যা স্থির থাকে।
+- মিয়োসিস ঘটে উদ্ভিদের পরাগধানী ও ডিম্বকে, প্রাণীর শুক্রাশয় ও ডিম্বাশয়ে।
+- মিয়োসিস জিনগত বৈচিত্র্য সৃষ্টি করে, যা পরিবর্তনশীল পরিবেশে প্রজাতিকে টিকে থাকতে সাহায্য করে।
+## think
+কলাগাছ সাধারণত বীজ থেকে নয়, তেউড় (গোড়া থেকে গজানো চারা) থেকে লাগানো হয়; তাই একই জাতের সব গাছ জিনগতভাবে প্রায় হুবহু এক। এমন ফসলের জন্য একটি নতুন রোগ কেন বিশেষভাবে বিপজ্জনক হতে পারে?
+## quiz
+? মিয়োসিসকে হ্রাসমূলক বিভাজন বলা হয়, কারণ:
+- অপত্য কোষগুলো আকারে ছোট হয়
+* অপত্য কোষে ক্রোমোজোম সংখ্যা অর্ধেক হয়ে যায়
+- কোষের সংখ্যা কমে যায়
+- নিউক্লিয়াস মাত্র একবার ভাগ হয়
+= প্রতিটি অপত্য কোষ মাতৃকোষের অর্ধেক সংখ্যক ক্রোমোজোম পায়।
+? সপুষ্পক উদ্ভিদে মিয়োসিস ঘটে:
+- মূল ও কাণ্ডের আগায়
+- পাতা ও মুকুলে
+* পরাগধানী ও ডিম্বকে
+- বাকল ও কর্কে
+= গ্যামেট তৈরি হয় পরাগধানী ও ডিম্বকে, তাই সেখানকার জনন মাতৃকোষ মিয়োসিসে ভাগ হয়।
+? মিয়োসিসে একটি মাতৃকোষ থেকে তৈরি হয়:
+- ১টি কোষ
+- ২টি কোষ
+- ৩টি কোষ
+* ৪টি কোষ
+= পরপর দুবার বিভাজনের ফলে চারটি অপত্য কোষ হয়।
+? মিয়োসিস কোষ বিভাজনে: (i) ক্রোমোজোম সংখ্যার পরিবর্তন ঘটে, (ii) হ্যাপ্লয়েড গ্যামেট তৈরি হয়, (iii) জীবের দৈহিক বৃদ্ধি ঘটে। কোনটি সঠিক?
+* i ও ii
+- i ও iii
+- ii ও iii
+- i, ii ও iii
+= মিয়োসিস ক্রোমোজোম সংখ্যা অর্ধেক করে এবং হ্যাপ্লয়েড গ্যামেট তৈরি করে; দৈহিক বৃদ্ধি মাইটোসিসের কাজ।
+? একটি জীবের দেহকোষে ২৪টি ক্রোমোজোম। এর গ্যামেটে থাকে:
+- ৬টি ক্রোমোজোম
+* ১২টি ক্রোমোজোম
+- ২৪টি ক্রোমোজোম
+- ৪৮টি ক্রোমোজোম
+= গ্যামেট হ্যাপ্লয়েড: n = ২৪ ÷ ২ = ১২।
