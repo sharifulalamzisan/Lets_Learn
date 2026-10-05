@@ -1,0 +1,1465 @@
+@@chapter
+== en
+## intro
+Put a hand on your chest for a moment. It rises and falls about fifteen times every minute, awake or asleep, and it has done so since the day you were born. With every breath your body takes in **oxygen** and throws out **carbon dioxide**. A banyan tree by the roadside does the same kind of swapping of gases with the air, though it has no nose and no lungs. This give and take of gases between a living thing and its surroundings is called **gas exchange**, and every organism discovered so far does it.
+
+In this chapter you will first see how a plant exchanges gases through its **stomata** and **lenticels**, and why the direction of the exchange changes between day and night. Then you will travel with the air through the human **respiratory system**, from the nose down to the tiny air sacs of the lungs, learn how the diaphragm and ribs make us breathe, and how oxygen and carbon dioxide are carried by the blood. Finally you will learn the causes, signs and prevention of five common diseases of the respiratory system, so that you can protect yourself and your family.
+## objectives
+- explain how gases are exchanged in a plant
+- explain the work of the main organs of the human respiratory system
+- describe the structure and function of the lungs
+- describe how humans breathe and how gases are exchanged and carried
+- explain the causes, symptoms, remedies and prevention of diseases of the respiratory system
+- find out by experiment the nature of the gas in breathed-out air
+- draw and label a diagram of the lungs and the respiratory system
+- create awareness about preventing respiratory diseases
+== bn
+## intro
+এক মুহূর্তের জন্য বুকে হাত রাখো। জেগে থাকো বা ঘুমিয়ে, প্রতি মিনিটে প্রায় পনেরো বার বুকটা ওঠানামা করছে, আর জন্মের দিন থেকে একবারও থামেনি। প্রতিবার শ্বাসের সাথে তোমার দেহ **অক্সিজেন** নেয় আর **কার্বন ডাই-অক্সাইড** বের করে দেয়। রাস্তার ধারের বটগাছটিও বাতাসের সাথে এভাবেই গ্যাস অদলবদল করে, যদিও তার নাক নেই, ফুসফুসও নেই। জীব আর তার পরিবেশের মধ্যে গ্যাসের এই আদান-প্রদানকে বলে **গ্যাসীয় বিনিময়**, আর এখন পর্যন্ত আবিষ্কৃত সব জীবের দেহেই এটি ঘটে।
+
+এই অধ্যায়ে প্রথমে দেখবে উদ্ভিদ কীভাবে **পত্ররন্ধ্র** আর **লেন্টিসেল** দিয়ে গ্যাস বিনিময় করে, আর দিন ও রাতে বিনিময়ের দিক কেন বদলে যায়। এরপর বাতাসের সাথে সাথে মানুষের **শ্বসনতন্ত্রের** ভেতর দিয়ে ঘুরে আসবে, নাক থেকে শুরু করে ফুসফুসের ক্ষুদ্র বায়ুথলি পর্যন্ত; জানবে মধ্যচ্ছদা আর পাঁজর কীভাবে আমাদের শ্বাস নেওয়ায়, আর রক্ত কীভাবে অক্সিজেন ও কার্বন ডাই-অক্সাইড বয়ে নেয়। সবশেষে শ্বসনতন্ত্রের পাঁচটি পরিচিত রোগের কারণ, লক্ষণ ও প্রতিরোধ শিখবে, যাতে নিজেকে আর পরিবারকে সুরক্ষিত রাখতে পারো।
+## objectives
+- উদ্ভিদে গ্যাসীয় বিনিময়ের ধারণা ব্যাখ্যা করতে পারবে
+- মানুষের শ্বসনতন্ত্রের প্রধান অংশগুলোর কাজ ব্যাখ্যা করতে পারবে
+- ফুসফুসের গঠন ও কাজ বর্ণনা করতে পারবে
+- মানুষের শ্বাস-প্রশ্বাস প্রক্রিয়া এবং গ্যাসের বিনিময় ও পরিবহণ বর্ণনা করতে পারবে
+- শ্বসনতন্ত্রের রোগের কারণ, লক্ষণ, প্রতিকার ও প্রতিরোধের কৌশল ব্যাখ্যা করতে পারবে
+- নিঃশ্বাসের সাথে বের হওয়া গ্যাসের প্রকৃতি পরীক্ষা করে নির্ণয় করতে পারবে
+- ফুসফুস ও শ্বসনতন্ত্রের চিত্র এঁকে চিহ্নিত করতে পারবে
+- শ্বসনতন্ত্রের রোগ প্রতিরোধে সচেতনতা সৃষ্টি করতে পারবে
+
+@@ 7.1
+@visual b7plant
+@related 4.2 4.3 6.2.3 7.2.2
+== en
+## what
+Plants also exchange gases with the air. For **photosynthesis** they take in carbon dioxide and give out oxygen; for **respiration** they take in oxygen and give out carbon dioxide. They have no special breathing organ: the gases simply pass through the **stomata** of the leaves and the **lenticels** in the bark of mature stems.
+## simple
+**Does a plant breathe?** Hold your palm in front of your nose and you feel air moving in and out. Try the same in front of a mango leaf and you feel nothing. A plant has no nose, no windpipe and no lungs. Still, every living cell of that tree, in its leaves, trunk and roots, is respiring at this very moment and needs oxygen. And its green cells need carbon dioxide to make food. So gases must keep going into and coming out of a plant. This two-way movement of gases between a living thing and its surroundings is **gas exchange**.
+
+**Two processes, two opposite exchanges.** You met both processes in Chapter 4 ([[4.2|photosynthesis]] and [[4.3|respiration]]). Almost all the gas exchange of a plant comes from these two, and they swap the gases in opposite directions:
+
+| | Photosynthesis | Respiration |
+| Gas taken in | CO₂ | O₂ |
+| Gas given out | O₂ | CO₂ |
+| When it runs | only when there is light | all 24 hours, day and night |
+| Where it runs | green cells that have chlorophyll | every living cell |
+| What it is for | making food | releasing energy from food |
+
+**The doors for the gases.** There is no special organ, but there are small openings:
+- **Stomata** (singular: stoma) are tiny pores in the skin of the leaf, mostly on the underside. Each pore lies between two bean-shaped **guard cells** that can open or close it. Most of a plant's gas exchange happens here, because the leaf is where photosynthesis is busiest.
+- **Lenticels** are small, slightly raised, lens-shaped spots in the bark of mature stems. Bark is made of dead, corky, airtight cells, but at a lenticel the cells are loosely packed with air gaps between them. Through these gaps the living cells under the bark get oxygen and get rid of carbon dioxide. Lenticels have no guard cells, so they stay open all the time.
+
+> Roots are alive too, so they also need oxygen, which seeps in from the air trapped between soil particles. Your book, however, names the stomata and the lenticels as the structures of gas exchange and speaks of the root for absorbing water, so learn those two for your exam.
+
+**No pumping.** We push air in and out of our lungs many times a minute. A plant does nothing of the sort. The gases move slowly, by **diffusion**: each gas spreads from where there is more of it to where there is less. This slow method is enough for a plant because:
+- a plant does not walk, run or keep its body warm, so each gram of plant needs far less energy, and far less oxygen, than a gram of animal;
+- leaves are thin and flat, with air spaces between their cells, so no cell is far from the air;
+- each part (leaf, stem, root) does its own exchange with the air around it, so gases need not be carried over long distances.
+
+**In daylight.** When the light is good, photosynthesis runs fast, much faster than respiration. Now something neat happens inside the leaf:
+- a part of the **oxygen** made by photosynthesis is used at once by the leaf's own respiration;
+- a part of the **carbon dioxide** made by respiration is used at once by photosynthesis.
+
+Even so, the leaf still needs far more CO₂ than its own respiration can supply, and it makes far more O₂ than it can use. So, on the whole, in the daytime **CO₂ goes in and O₂ comes out** through the stomata.
+
+**"About equal amounts".** Look at the two equations in the formula box. In both, **6** molecules of one gas are swapped for **6** molecules of the other. So whichever way the exchange is going, the amount of oxygen crossing in one direction is about the same as the amount of carbon dioxide crossing in the other. This is what your book means when it says the amounts of the gases exchanged are approximately equal.
+
+**In dim light.** At dawn and at dusk photosynthesis slows down until it is only as fast as respiration. For a short while the leaf uses up exactly the CO₂ it makes and exactly the O₂ it makes, and almost nothing passes through the stomata.
+
+**At night.** With no light, the light-dependent phase of photosynthesis stops, so **no oxygen is produced**. Respiration, however, never stops. So at night the plant only **takes in O₂ and gives out CO₂**. The carbon dioxide leaves through the stomata (which in most plants are open only a little at night) and through the lenticels.
+
+**Sleeping under a big tree at night.** Your book adds that because a tree gives out CO₂ and no O₂ at night, a person sleeping under a big tree may find it hard to breathe. Learn this reasoning, because it is asked in exams. But keep the real picture in mind too: a plant respires slowly, and in the open the CO₂ it releases mixes with the surrounding air very quickly. So the air under a tree at night stays almost the same as the air anywhere else.
+
+**Where the oxygen comes from.** A plant collects what it needs from its surroundings: the leaves take CO₂ (and O₂) from the air, and the roots absorb water from the soil. In photosynthesis the water and the CO₂ react, and oxygen gas is set free into the atmosphere. As you saw in [[4.2.1|the light-dependent phase]], the oxygen atoms of that O₂ actually come from the **water**, not from the CO₂.
+## analogy
+Think of a village house with a solar panel on its roof. A fan inside runs day and night. At noon the panel makes far more electricity than the fan needs, and the extra flows out to charge the neighbours' batteries. At night the panel makes nothing, but the fan keeps running and must draw electricity in. A leaf is the same: photosynthesis is the panel (it works only in light and gives out oxygen), and respiration is the fan (it never stops and always uses oxygen).
+## definition
+**Gas exchange**: the taking in and giving out of gases, mainly oxygen and carbon dioxide, between an organism and its environment. In a plant it happens through photosynthesis and respiration.
+
+**Stoma** (plural stomata): a minute pore in the epidermis of a leaf (or green stem), bounded by two guard cells, through which gases are exchanged and water vapour is lost.
+
+**Lenticel**: a small lens-shaped opening in the bark of a mature stem, filled with loosely arranged cells, through which gases are exchanged.
+## why
+Why do the gases move at all, when nothing pumps them? Because of **diffusion**. In bright light the green cells are using up CO₂ fast, so there is less CO₂ inside the leaf than in the air outside, and CO₂ spreads inwards. The same cells are making O₂, so there is more O₂ inside than outside, and O₂ spreads outwards. At night it is the other way round: respiration uses up O₂ inside the plant and piles up CO₂ there, so O₂ diffuses in and CO₂ diffuses out. The plant spends no energy on this.
+
+Why does the plant need both exchanges? Photosynthesis locks light energy into food. But a cell cannot use that food directly; it must respire to move the energy into ATP. So a green plant makes food by one process and spends it by the other, and each process needs a different gas.
+## terms
+Gas exchange | Taking in and giving out of gases (mainly O₂ and CO₂) between an organism and its surroundings
+Stoma (pl. stomata) | Tiny pore in the leaf epidermis, between two guard cells
+Guard cells | The pair of bean-shaped cells that open and close a stoma
+Lenticel | Lens-shaped opening with loosely packed cells in the bark of a mature stem
+Bark | The dead, corky outer covering of a mature stem
+Diffusion | Spreading of a substance from where it is more concentrated to where it is less concentrated
+Photosynthesis | Making food from CO₂ and water with light; gives out O₂
+Respiration | Releasing energy from food using O₂; gives out CO₂
+## formula
+$$ 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+$$ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy
+! First line: photosynthesis (needs light and chlorophyll). Second line: respiration (day and night).
+! In both, 6 molecules of one gas are exchanged for 6 of the other, so the amounts of O₂ and CO₂ exchanged are about equal.
+## visual
+Drag the clock from midnight to noon and back. Watch the two processes inside the leaf, and see which gas goes in and which comes out through the stoma. Then open "The doors" to look closely at a stoma and a lenticel.
+## real
+In the Sundarbans the soil is soft mud that is flooded by salt water twice a day, so there is hardly any air in it. Trees like *sundari* and *keora* solve this by sending up thousands of pointed **breathing roots** (pneumatophores) that stick out of the mud like pencils. Their surface is dotted with lenticels, and at low tide air enters through them and reaches the buried roots.
+
+You can see lenticels at home too. The small brown dots on the skin of a potato are lenticels, and so are the pale raised specks on a young branch of guava or jackfruit. And farmers know that most crops suffer when a field stays under water for many days: the roots cannot get enough oxygen for their respiration.
+## example
+Q: At noon a leaf uses 12 units of CO₂ every hour for photosynthesis, while its own respiration produces 2 units of CO₂ every hour. (a) How much CO₂ must enter through the stomata each hour? (b) How much O₂ leaves the leaf each hour? (c) What happens at midnight?
+Given: photosynthesis uses 12 units CO₂ and makes 12 units O₂ per hour; respiration makes 2 units CO₂ and uses 2 units O₂ per hour
+> In both equations the two gases are exchanged 6 for 6, that is, in equal amounts.
+Calculation: (a) CO₂ from the air = 12 − 2 = 10 units
+(b) O₂ given out = 12 − 2 = 10 units
+(c) at midnight photosynthesis = 0, so CO₂ given out = 2 units and O₂ taken in = 2 units
+> The numbers are only an illustration, but the pattern is real: in the day the two processes partly cancel inside the leaf; at night only respiration is left.
+Answer: (a) 10 units of CO₂ enter; (b) 10 units of O₂ leave; (c) at midnight the direction is reversed: 2 units of O₂ enter and 2 units of CO₂ leave.
+## example
+Q: A plant has no lungs, no heart and no blood, yet none of its cells runs short of oxygen. Explain how this is possible.
+Solution: Compare what a plant needs with how it is built.
+Step: Need is small. A plant does not move about or keep itself warm, so its cells respire slowly and use little oxygen.
+Step: The air is always near. Leaves are thin and flat, with stomata and air spaces; mature stems have lenticels. Gases reach the cells by diffusion alone.
+Step: Each part looks after itself. Leaves, stems and roots exchange gases with their own surroundings, so nothing has to be carried far. In daylight the green cells even make their own oxygen.
+Answer: Because its need is small, its surface is large and full of openings, and every part exchanges gases directly, diffusion through stomata and lenticels is enough.
+## example
+Q: "It is not advisable to sleep under a big tree at night." Explain the reasoning given in your book.
+Solution: Think about which process runs at night.
+Step: At night there is no light, so the light-dependent phase of photosynthesis stops and no oxygen is produced.
+Step: Respiration continues for all 24 hours, so the tree keeps taking in O₂ and giving out CO₂ through its stomata and lenticels.
+Step: So, the book says, the air just under a big tree may have a little less O₂ and a little more CO₂ at night, and a person sleeping there may feel difficulty in breathing.
+> In reality the change is very small, because the open air mixes quickly. Give the book's reasoning in the exam, but do not be afraid of trees.
+Answer: At night a tree only respires: it uses oxygen and releases carbon dioxide without producing any oxygen. That is the reason the book gives for not sleeping under a big tree at night.
+## mistakes
+x Plants respire only at night and photosynthesise only in the day.
+v Photosynthesis happens only in light, but respiration goes on all 24 hours, in every living cell.
+x Plants breathe in carbon dioxide and breathe out oxygen, the opposite of animals.
+v Plants do not breathe. For respiration they use O₂ and release CO₂ exactly as animals do. The intake of CO₂ is for photosynthesis, which is a different process.
+x Photosynthesis is the respiration of plants.
+v They are two separate processes. Photosynthesis stores energy in food; respiration releases it.
+x Stomata are only for losing water (transpiration).
+v The same pores let CO₂ and O₂ pass. Water vapour escapes through them as a side effect.
+x The oxygen given out by a plant comes from the CO₂ it takes in.
+v It comes from the water that is split in the light-dependent phase.
+## remember
+- A plant exchanges gases by two processes: photosynthesis (CO₂ in, O₂ out) and respiration (O₂ in, CO₂ out).
+- There is no special breathing organ. The gases pass through stomata (leaves) and lenticels (bark of mature stems) by diffusion.
+- Unlike animals, plants have no rapid in-and-out breathing.
+- Day: photosynthesis is faster than respiration, so on the whole CO₂ goes in and O₂ comes out. Part of each gas is reused inside the leaf.
+- Night: the light phase stops, no O₂ is made; respiration continues, so O₂ goes in and CO₂ comes out.
+- The amounts of O₂ and CO₂ exchanged are about equal (6 : 6 in both equations).
+- The O₂ of photosynthesis is released to the atmosphere; the water comes from the soil through the roots.
+## think
+A healthy potted plant is sealed inside a clear, airtight glass jar and kept near a sunny window, with enough water in the soil. It can stay alive for many days. Where does it keep getting its oxygen at night and its carbon dioxide in the day?
+## quiz
+? Through which structures does a plant exchange gases with the air?
+- Root hairs and root cap
+* Stomata and lenticels
+- Xylem and phloem
+- Petals and sepals
+= Gases pass through the stomata of leaves and the lenticels in the bark of mature stems.
+? Which statement about a green leaf in bright sunlight is correct?
+- It only respires
+- It only photosynthesises
+* It does both, but photosynthesis is faster
+- It does both at exactly the same rate
+= Respiration never stops; in good light photosynthesis is much faster, so on the whole CO₂ enters and O₂ leaves.
+? Why is no oxygen released by a plant at night?
+- The stomata disappear at night
+- Respiration stops at night
+- The roots stop absorbing water at night
+* The light-dependent phase of photosynthesis stops
+= Oxygen comes from the splitting of water in the light-dependent phase, which needs light.
+? Where are lenticels found?
+* In the bark of mature stems
+- On the underside of leaves
+- Inside the chloroplast
+- At the tip of the root
+= Lenticels are lens-shaped openings with loose cells in the bark, which is otherwise airtight.
+? By which process do gases move in and out through stomata and lenticels?
+- Osmosis
+- Active pumping by guard cells
+* Diffusion
+- Imbibition
+= Each gas spreads from where its concentration is higher to where it is lower. No energy is spent.
+== bn
+## what
+উদ্ভিদও বাতাসের সাথে গ্যাস বিনিময় করে। **সালোকসংশ্লেষণের** জন্য কার্বন ডাই-অক্সাইড নেয় আর অক্সিজেন ছাড়ে; **শ্বসনের** জন্য অক্সিজেন নেয় আর কার্বন ডাই-অক্সাইড ছাড়ে। এ কাজের জন্য উদ্ভিদের আলাদা কোনো অঙ্গ নেই: গ্যাস যাওয়া-আসা করে পাতার **পত্ররন্ধ্র** (স্টোমাটা) আর পরিণত কাণ্ডের বাকলের **লেন্টিসেল** দিয়ে।
+## simple
+**গাছ কি শ্বাস নেয়?** নাকের সামনে হাতের তালু ধরো, বাতাসের আসা-যাওয়া টের পাবে। একই কাজ একটা আমপাতার সামনে করো, কিছুই টের পাবে না। গাছের নাক নেই, শ্বাসনালি নেই, ফুসফুসও নেই। তবু সেই গাছের পাতা, কাণ্ড, মূল, সবখানের প্রতিটি সজীব কোষ এই মুহূর্তেই শ্বসন করছে, আর তার জন্য অক্সিজেন লাগছে। আবার সবুজ কোষগুলোর খাদ্য তৈরিতে লাগছে কার্বন ডাই-অক্সাইড। তাই উদ্ভিদের ভেতরে গ্যাস ঢুকতেও হয়, বেরোতেও হয়। জীব আর তার পরিবেশের মধ্যে গ্যাসের এই দ্বিমুখী চলাচলই **গ্যাসীয় বিনিময়**।
+
+**দুটি প্রক্রিয়া, দুটি উল্টো বিনিময়।** দুটি প্রক্রিয়াই তুমি চতুর্থ অধ্যায়ে পড়েছ ([[4.2|সালোকসংশ্লেষণ]] আর [[4.3|শ্বসন]])। উদ্ভিদের গ্যাসীয় বিনিময় মূলত এই দুটির মাধ্যমেই ঘটে, আর এরা গ্যাস অদলবদল করে পরস্পরের উল্টো দিকে:
+
+| | সালোকসংশ্লেষণ | শ্বসন |
+| যে গ্যাস নেয় | CO₂ | O₂ |
+| যে গ্যাস ছাড়ে | O₂ | CO₂ |
+| কখন চলে | শুধু আলো থাকলে | দিনরাত ২৪ ঘণ্টা |
+| কোথায় চলে | ক্লোরোফিলযুক্ত সবুজ কোষে | প্রতিটি সজীব কোষে |
+| উদ্দেশ্য | খাদ্য তৈরি | খাদ্য থেকে শক্তি বের করা |
+
+**গ্যাসের দরজা।** বিশেষ অঙ্গ নেই, তবে ছোট ছোট ছিদ্রপথ আছে:
+- **পত্ররন্ধ্র** বা স্টোমাটা (একবচনে স্টোমা) হলো পাতার ত্বকের অতি ক্ষুদ্র ছিদ্র, বেশির ভাগ থাকে পাতার নিচের পিঠে। প্রতিটি ছিদ্র থাকে শিমের বিচির মতো দুটি **রক্ষীকোষের** মাঝখানে, যারা ছিদ্রটি খুলতে ও বন্ধ করতে পারে। উদ্ভিদের গ্যাসীয় বিনিময়ের বেশির ভাগ ঘটে এখানেই, কারণ সালোকসংশ্লেষণ সবচেয়ে বেশি হয় পাতায়।
+- **লেন্টিসেল** হলো পরিণত কাণ্ডের বাকলে থাকা ছোট, সামান্য উঁচু, লেন্সের মতো আকারের দাগ। বাকল তৈরি মৃত, কর্কের মতো বায়ুরোধী কোষ দিয়ে, কিন্তু লেন্টিসেলের জায়গায় কোষগুলো ঢিলেঢালাভাবে সাজানো, মাঝে মাঝে ফাঁক। এই ফাঁক দিয়ে বাকলের নিচের সজীব কোষ অক্সিজেন পায় আর কার্বন ডাই-অক্সাইড বের করে দেয়। লেন্টিসেলে রক্ষীকোষ নেই, তাই এগুলো সব সময় খোলা থাকে।
+
+> মূলও সজীব, তাই মূলেরও অক্সিজেন লাগে; মাটির কণার ফাঁকে আটকে থাকা বাতাস থেকে তা ভেতরে ঢোকে। তবে তোমার বইয়ে গ্যাসীয় বিনিময়ের পথ হিসেবে পত্ররন্ধ্র আর লেন্টিসেলের নামই বলা হয়েছে, আর মূলের কথা এসেছে পানি শোষণের জন্য। পরীক্ষার জন্য ওই দুটি নামই মনে রেখো।
+
+**কোনো পাম্প নেই।** আমরা মিনিটে বহুবার ফুসফুসে বাতাস টানি আর ছাড়ি। উদ্ভিদ এ রকম কিছুই করে না। গ্যাস চলাচল করে ধীরে ধীরে, **ব্যাপন** প্রক্রিয়ায়: যেখানে কোনো গ্যাস বেশি আছে সেখান থেকে যেখানে কম আছে সেদিকে ছড়িয়ে পড়ে। এই ধীর পদ্ধতিই উদ্ভিদের জন্য যথেষ্ট, কারণ:
+- উদ্ভিদ হাঁটে না, দৌড়ায় না, দেহ গরমও রাখে না, তাই প্রাণীর তুলনায় এর শক্তি লাগে অনেক কম, অক্সিজেনও লাগে অনেক কম;
+- পাতা পাতলা ও চ্যাপ্টা, কোষের ফাঁকে ফাঁকে বায়ুকুঠুরি থাকে, তাই কোনো কোষই বাতাস থেকে দূরে নয়;
+- প্রতিটি অংশ (পাতা, কাণ্ড, মূল) নিজের চারপাশের বাতাসের সাথে নিজেই বিনিময় সেরে নেয়, তাই গ্যাসকে দূরে বয়ে নিতে হয় না।
+
+**দিনের আলোয়।** আলো ভালো থাকলে সালোকসংশ্লেষণ চলে জোরে, শ্বসনের চেয়ে অনেক দ্রুত। তখন পাতার ভেতরে একটা চমৎকার ব্যাপার ঘটে:
+- সালোকসংশ্লেষণে তৈরি **অক্সিজেনের** কিছু অংশ সাথে সাথেই পাতার নিজের শ্বসনে খরচ হয়ে যায়;
+- শ্বসনে তৈরি **কার্বন ডাই-অক্সাইডের** কিছু অংশ সাথে সাথেই সালোকসংশ্লেষণে ব্যবহার হয়ে যায়।
+
+তবু পাতার নিজের শ্বসন যতটা CO₂ দিতে পারে, তার চেয়ে অনেক বেশি CO₂ দরকার হয়; আবার যতটা O₂ তৈরি হয়, পাতা নিজে তার সামান্যই খরচ করতে পারে। তাই সব মিলিয়ে দিনের বেলা পত্ররন্ধ্র দিয়ে **CO₂ ভেতরে ঢোকে আর O₂ বাইরে বের হয়**।
+
+**"পরিমাণ প্রায় সমান"।** সূত্রের ঘরের দুটি সমীকরণ দেখো। দুটোতেই একটি গ্যাসের **৬**টি অণুর বদলে অন্য গ্যাসের **৬**টি অণু বিনিময় হয়। তাই বিনিময় যেদিকেই হোক, একদিকে যতটা অক্সিজেন যায়, উল্টো দিকে প্রায় ততটাই কার্বন ডাই-অক্সাইড যায়। তোমার বইয়ে "আদান-প্রদানকৃত অক্সিজেন ও কার্বন ডাই-অক্সাইডের পরিমাণ প্রায় সমান" বলতে এটাই বোঝানো হয়েছে।
+
+**মৃদু আলোয়।** ভোরে আর সন্ধ্যায় সালোকসংশ্লেষণ কমতে কমতে শ্বসনের সমান হয়ে যায়। অল্প কিছুক্ষণের জন্য পাতা যতটুকু CO₂ তৈরি করে ঠিক ততটুকুই খরচ করে, O₂-এর বেলায়ও তা-ই; তখন পত্ররন্ধ্র দিয়ে প্রায় কিছুই যাওয়া-আসা করে না।
+
+**রাতে।** আলো না থাকায় সালোকসংশ্লেষণের আলোক পর্যায় বন্ধ থাকে, তাই **অক্সিজেন উৎপন্ন হয় না**। কিন্তু শ্বসন কখনো থামে না। তাই রাতে উদ্ভিদ শুধু **O₂ নেয় আর CO₂ ছাড়ে**। এই কার্বন ডাই-অক্সাইড বেরিয়ে যায় পত্ররন্ধ্র দিয়ে (বেশির ভাগ উদ্ভিদে রাতে এগুলো সামান্যই খোলা থাকে) আর লেন্টিসেল দিয়ে।
+
+**রাতে বড় গাছের নিচে ঘুমানো।** তোমার বইয়ে বলা হয়েছে, রাতে গাছ CO₂ ছাড়ে কিন্তু O₂ ছাড়ে না, এ জন্য রাতে বড় গাছের নিচে ঘুমালে শ্বাসকষ্ট দেখা দিতে পারে। যুক্তিটা শিখে রাখো, কারণ পরীক্ষায় এ প্রশ্ন আসে। তবে আসল ছবিটাও মনে রেখো: উদ্ভিদের শ্বসন ধীর, আর খোলা জায়গায় তার ছাড়া CO₂ খুব তাড়াতাড়ি আশপাশের বাতাসে মিশে যায়। তাই রাতে গাছের নিচের বাতাস আর অন্য জায়গার বাতাস প্রায় একই রকম থাকে।
+
+**অক্সিজেন আসে কোথা থেকে।** উদ্ভিদ তার দরকারি জিনিস পরিবেশ থেকেই সংগ্রহ করে: পাতা বাতাস থেকে নেয় CO₂ (আর O₂), মূল মাটি থেকে শোষণ করে পানি। সালোকসংশ্লেষণে এই পানি আর CO₂-এর বিক্রিয়ায় অক্সিজেন গ্যাস উৎপন্ন হয়ে বায়ুমণ্ডলে চলে যায়। [[4.2.1|আলোকনির্ভর পর্যায়ে]] যেমন দেখেছ, ওই O₂-এর অক্সিজেন পরমাণু আসলে আসে **পানি** থেকে, CO₂ থেকে নয়।
+## analogy
+গ্রামের একটা বাড়ির কথা ভাবো, যার চালে সোলার প্যানেল আছে। ঘরে একটা ফ্যান দিনরাত চলছে। দুপুরে প্যানেল ফ্যানের দরকারের চেয়ে অনেক বেশি বিদ্যুৎ বানায়, বাড়তিটুকু চলে যায় পাশের বাড়ির ব্যাটারি চার্জ করতে। রাতে প্যানেল কিছুই বানায় না, অথচ ফ্যান চলছেই, তাই বিদ্যুৎ তখন বাইরে থেকে টানতে হয়। পাতাও ঠিক তেমন: সালোকসংশ্লেষণ হলো প্যানেল (শুধু আলোতে চলে, অক্সিজেন ছাড়ে), আর শ্বসন হলো ফ্যান (কখনো থামে না, সব সময় অক্সিজেন খরচ করে)।
+## definition
+**গ্যাসীয় বিনিময়**: জীব ও তার পরিবেশের মধ্যে গ্যাসের, প্রধানত অক্সিজেন ও কার্বন ডাই-অক্সাইডের, আদান-প্রদান। উদ্ভিদে এটি ঘটে সালোকসংশ্লেষণ ও শ্বসনের মাধ্যমে।
+
+**পত্ররন্ধ্র** (স্টোমা, বহুবচনে স্টোমাটা): পাতার (বা সবুজ কাণ্ডের) ত্বকে দুটি রক্ষীকোষ দিয়ে ঘেরা অতি ক্ষুদ্র ছিদ্র, যার ভেতর দিয়ে গ্যাসের বিনিময় ঘটে এবং জলীয় বাষ্প বেরিয়ে যায়।
+
+**লেন্টিসেল**: পরিণত কাণ্ডের বাকলে থাকা লেন্স আকৃতির ছোট ছিদ্রপথ, যা ঢিলেঢালাভাবে সাজানো কোষে ভরা এবং যার ভেতর দিয়ে গ্যাসের বিনিময় ঘটে।
+## why
+কোনো পাম্প ছাড়া গ্যাস চলে কেন? উত্তর **ব্যাপন**। উজ্জ্বল আলোয় সবুজ কোষ দ্রুত CO₂ খরচ করে, তাই পাতার ভেতরে CO₂ বাইরের বাতাসের চেয়ে কম থাকে, আর CO₂ ভেতরের দিকে ছড়িয়ে পড়ে। একই কোষ O₂ তৈরি করছে, তাই ভেতরে O₂ বাইরের চেয়ে বেশি, আর O₂ বাইরের দিকে ছড়ায়। রাতে ঠিক উল্টো: শ্বসনে উদ্ভিদের ভেতরের O₂ খরচ হয় আর CO₂ জমে, তাই O₂ ব্যাপিত হয়ে ভেতরে ঢোকে, CO₂ বাইরে বের হয়। এ কাজে উদ্ভিদের কোনো শক্তি খরচ হয় না।
+
+উদ্ভিদের দুই রকম বিনিময়ই লাগে কেন? সালোকসংশ্লেষণ আলোর শক্তিকে খাদ্যে বন্দি করে। কিন্তু কোষ সেই খাদ্য সরাসরি কাজে লাগাতে পারে না; শ্বসন করে শক্তিটুকু ATP-তে আনতে হয়। তাই সবুজ উদ্ভিদ এক প্রক্রিয়ায় খাদ্য বানায়, অন্য প্রক্রিয়ায় তা খরচ করে, আর দুই প্রক্রিয়ায় লাগে দুই রকম গ্যাস।
+## terms
+গ্যাসীয় বিনিময় (Gas exchange) | জীব ও পরিবেশের মধ্যে গ্যাসের (প্রধানত O₂ ও CO₂) আদান-প্রদান
+পত্ররন্ধ্র (Stoma, বহুবচনে Stomata) | পাতার ত্বকে দুটি রক্ষীকোষের মাঝের অতি ক্ষুদ্র ছিদ্র
+রক্ষীকোষ (Guard cell) | শিমের বিচির মতো একজোড়া কোষ, যারা পত্ররন্ধ্র খোলে ও বন্ধ করে
+লেন্টিসেল (Lenticel) | পরিণত কাণ্ডের বাকলে ঢিলেঢালা কোষে ভরা লেন্স আকৃতির ছিদ্রপথ
+বাকল (Bark) | পরিণত কাণ্ডের মৃত, কর্কের মতো বাইরের আবরণ
+ব্যাপন (Diffusion) | কোনো পদার্থের বেশি ঘনত্বের স্থান থেকে কম ঘনত্বের স্থানে ছড়িয়ে পড়া
+সালোকসংশ্লেষণ | আলোর সাহায্যে CO₂ ও পানি থেকে খাদ্য তৈরি; O₂ বের হয়
+শ্বসন | O₂ ব্যবহার করে খাদ্য থেকে শক্তি বের করা; CO₂ বের হয়
+## formula
+$$ 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+$$ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি
+! প্রথম লাইন: সালোকসংশ্লেষণ (আলো ও ক্লোরোফিল লাগে)। দ্বিতীয় লাইন: শ্বসন (দিনরাত চলে)।
+! দুটোতেই এক গ্যাসের ৬টি অণুর বদলে অন্য গ্যাসের ৬টি অণু বিনিময় হয়, তাই আদান-প্রদান হওয়া O₂ ও CO₂-এর পরিমাণ প্রায় সমান।
+## visual
+ঘড়িটা মাঝরাত থেকে দুপুর পর্যন্ত টেনে নাও, আবার ফিরিয়ে আনো। দেখো পাতার ভেতরে দুটি প্রক্রিয়া কেমন চলছে, আর পত্ররন্ধ্র দিয়ে কোন গ্যাস ঢুকছে, কোনটা বেরোচ্ছে। এরপর "গ্যাসের দরজা" খুলে একটি পত্ররন্ধ্র আর একটি লেন্টিসেল কাছ থেকে দেখো।
+## real
+সুন্দরবনের মাটি নরম কাদা, দিনে দুবার লোনা পানিতে ডুবে যায়, তাই মাটির ভেতরে বাতাস প্রায় থাকেই না। সুন্দরী, কেওড়ার মতো গাছ এর সমাধান করেছে হাজার হাজার সুচালো **শ্বাসমূল** (নিউম্যাটোফোর) ওপরের দিকে পাঠিয়ে, যেগুলো কাদা ফুঁড়ে পেনসিলের মতো দাঁড়িয়ে থাকে। এদের গায়ে অসংখ্য লেন্টিসেল থাকে; ভাটার সময় এগুলো দিয়ে বাতাস ঢুকে মাটির নিচের মূলে পৌঁছায়।
+
+লেন্টিসেল তুমি বাড়িতেও দেখতে পারো। আলুর খোসার গায়ে ছোট ছোট বাদামি ফুটকিগুলো লেন্টিসেল; পেয়ারা বা কাঁঠালের কচি ডালের গায়ে হালকা রঙের উঁচু দাগগুলোও তা-ই। আর কৃষকেরা জানেন, খেতে অনেক দিন পানি জমে থাকলে বেশির ভাগ ফসলের ক্ষতি হয়: মূল তখন শ্বসনের জন্য যথেষ্ট অক্সিজেন পায় না।
+## example
+প্রশ্ন: দুপুরে একটি পাতা সালোকসংশ্লেষণের জন্য প্রতি ঘণ্টায় ১২ একক CO₂ ব্যবহার করে, আর তার নিজের শ্বসনে প্রতি ঘণ্টায় ২ একক CO₂ তৈরি হয়। (ক) প্রতি ঘণ্টায় পত্ররন্ধ্র দিয়ে কতটা CO₂ ঢুকতে হবে? (খ) প্রতি ঘণ্টায় কতটা O₂ পাতা থেকে বের হবে? (গ) মাঝরাতে কী ঘটবে?
+দেওয়া আছে: সালোকসংশ্লেষণে ঘণ্টায় ১২ একক CO₂ খরচ হয় ও ১২ একক O₂ তৈরি হয়; শ্বসনে ঘণ্টায় ২ একক CO₂ তৈরি হয় ও ২ একক O₂ খরচ হয়
+> দুই সমীকরণেই গ্যাস দুটি বিনিময় হয় ৬-এর বদলে ৬, অর্থাৎ সমান পরিমাণে।
+হিসাব: (ক) বাতাস থেকে আসা CO₂ = ১২ − ২ = ১০ একক
+(খ) বের হওয়া O₂ = ১২ − ২ = ১০ একক
+(গ) মাঝরাতে সালোকসংশ্লেষণ = ০, তাই বের হওয়া CO₂ = ২ একক আর ভেতরে ঢোকা O₂ = ২ একক
+> সংখ্যাগুলো শুধু বোঝানোর জন্য, তবে ধরনটা সত্যি: দিনে দুই প্রক্রিয়া পাতার ভেতরেই আংশিক কাটাকাটি হয়ে যায়; রাতে থাকে শুধু শ্বসন।
+উত্তর: (ক) ১০ একক CO₂ ঢোকে; (খ) ১০ একক O₂ বের হয়; (গ) মাঝরাতে দিক উল্টে যায়: ২ একক O₂ ঢোকে আর ২ একক CO₂ বের হয়।
+## example
+প্রশ্ন: উদ্ভিদের ফুসফুস নেই, হৃৎপিণ্ড নেই, রক্তও নেই, অথচ তার কোনো কোষেই অক্সিজেনের অভাব হয় না। এটা কীভাবে সম্ভব, ব্যাখ্যা করো।
+সমাধান: উদ্ভিদের চাহিদা আর তার গঠন মিলিয়ে দেখো।
+ধাপ: চাহিদা কম। উদ্ভিদ চলাফেরা করে না, দেহ গরমও রাখে না, তাই এর কোষ ধীরে শ্বসন করে আর অল্প অক্সিজেন খরচ করে।
+ধাপ: বাতাস সব সময় কাছেই। পাতা পাতলা ও চ্যাপ্টা, তাতে পত্ররন্ধ্র আর বায়ুকুঠুরি আছে; পরিণত কাণ্ডে আছে লেন্টিসেল। শুধু ব্যাপনেই গ্যাস কোষে পৌঁছে যায়।
+ধাপ: প্রতিটি অংশ নিজের ব্যবস্থা নিজে করে। পাতা, কাণ্ড, মূল নিজ নিজ চারপাশের সাথে গ্যাস বিনিময় করে, তাই দূরে কিছু বয়ে নিতে হয় না। দিনের আলোয় সবুজ কোষ নিজের অক্সিজেন নিজেই বানায়।
+উত্তর: চাহিদা কম, দেহতল বড় ও ছিদ্রযুক্ত, আর প্রতিটি অংশ সরাসরি গ্যাস বিনিময় করে বলে পত্ররন্ধ্র ও লেন্টিসেল দিয়ে ব্যাপনই যথেষ্ট।
+## example
+প্রশ্ন: "রাতের বেলা বড় গাছের নিচে ঘুমানো উচিত নয়।" বইয়ে এর যে কারণ দেওয়া আছে তা ব্যাখ্যা করো।
+সমাধান: ভাবো, রাতে কোন প্রক্রিয়াটি চালু থাকে।
+ধাপ: রাতে আলো নেই, তাই সালোকসংশ্লেষণের আলোক পর্যায় বন্ধ থাকে, অক্সিজেন উৎপন্ন হয় না।
+ধাপ: শ্বসন চলে দিনরাত ২৪ ঘণ্টা, তাই গাছ পত্ররন্ধ্র ও লেন্টিসেল দিয়ে O₂ নিতে থাকে আর CO₂ ছাড়তে থাকে।
+ধাপ: তাই বইয়ের মতে, রাতে বড় গাছের ঠিক নিচের বাতাসে O₂ সামান্য কম আর CO₂ সামান্য বেশি থাকতে পারে, আর সেখানে ঘুমালে শ্বাসকষ্ট দেখা দিতে পারে।
+> বাস্তবে এই পরিবর্তন খুবই সামান্য, কারণ খোলা বাতাস দ্রুত মিশে যায়। পরীক্ষায় বইয়ের যুক্তিটাই লিখবে, তবে গাছকে ভয় পাওয়ার কিছু নেই।
+উত্তর: রাতে গাছ শুধু শ্বসন করে: অক্সিজেন খরচ করে আর কার্বন ডাই-অক্সাইড ছাড়ে, কিন্তু কোনো অক্সিজেন তৈরি করে না। রাতে বড় গাছের নিচে না ঘুমানোর পক্ষে বইয়ে এই কারণই দেওয়া হয়েছে।
+## mistakes
+x উদ্ভিদ শুধু রাতে শ্বসন করে আর শুধু দিনে সালোকসংশ্লেষণ করে।
+v সালোকসংশ্লেষণ শুধু আলোতে হয়, কিন্তু শ্বসন চলে দিনরাত ২৪ ঘণ্টা, প্রতিটি সজীব কোষে।
+x উদ্ভিদ প্রাণীর উল্টো: শ্বাসে কার্বন ডাই-অক্সাইড নেয় আর অক্সিজেন ছাড়ে।
+v উদ্ভিদ শ্বাস নেয় না। শ্বসনের জন্য উদ্ভিদও প্রাণীর মতোই O₂ খরচ করে আর CO₂ ছাড়ে। CO₂ নেওয়াটা সালোকসংশ্লেষণের জন্য, সেটা আলাদা প্রক্রিয়া।
+x সালোকসংশ্লেষণই উদ্ভিদের শ্বসন।
+v এ দুটি সম্পূর্ণ আলাদা প্রক্রিয়া। সালোকসংশ্লেষণ খাদ্যে শক্তি জমা করে; শ্বসন সেই শক্তি বের করে আনে।
+x পত্ররন্ধ্রের কাজ শুধু পানি বের করে দেওয়া (প্রস্বেদন)।
+v একই ছিদ্র দিয়ে CO₂ ও O₂ যাওয়া-আসা করে। জলীয় বাষ্প বেরিয়ে যাওয়াটা তার সাথে ঘটে যাওয়া একটি ঘটনা।
+x উদ্ভিদ যে অক্সিজেন ছাড়ে তা আসে তার নেওয়া CO₂ থেকে।
+v তা আসে আলোকনির্ভর পর্যায়ে ভেঙে যাওয়া পানি থেকে।
+## remember
+- উদ্ভিদ দুটি প্রক্রিয়ায় গ্যাস বিনিময় করে: সালোকসংশ্লেষণ (CO₂ নেয়, O₂ ছাড়ে) আর শ্বসন (O₂ নেয়, CO₂ ছাড়ে)।
+- শ্বাস নেওয়ার বিশেষ অঙ্গ নেই। গ্যাস যায়-আসে পত্ররন্ধ্র (পাতা) আর লেন্টিসেল (পরিণত কাণ্ডের বাকল) দিয়ে, ব্যাপন প্রক্রিয়ায়।
+- প্রাণীর মতো উদ্ভিদে ঘন ঘন গ্যাস টানা-ছাড়া হয় না।
+- দিনে: সালোকসংশ্লেষণ শ্বসনের চেয়ে দ্রুত, তাই সব মিলিয়ে CO₂ ঢোকে আর O₂ বের হয়। দুই গ্যাসেরই কিছু অংশ পাতার ভেতরেই আবার কাজে লাগে।
+- রাতে: আলোক পর্যায় বন্ধ, O₂ তৈরি হয় না; শ্বসন চলে, তাই O₂ ঢোকে আর CO₂ বের হয়।
+- আদান-প্রদান হওয়া O₂ ও CO₂-এর পরিমাণ প্রায় সমান (দুই সমীকরণেই ৬ : ৬)।
+- সালোকসংশ্লেষণের O₂ বায়ুমণ্ডলে চলে যায়; পানি আসে মাটি থেকে, মূলের মাধ্যমে।
+## think
+টবের একটি সুস্থ গাছকে স্বচ্ছ, বায়ুরোধী কাচের বয়ামে ভরে রোদ আসে এমন জানালার পাশে রাখা হলো; মাটিতে যথেষ্ট পানি আছে। গাছটি অনেক দিন বেঁচে থাকতে পারে। রাতে সে অক্সিজেন আর দিনে কার্বন ডাই-অক্সাইড পায় কোথা থেকে?
+## quiz
+? উদ্ভিদ কোন কোন পথে বাতাসের সাথে গ্যাস বিনিময় করে?
+- মূলরোম ও মূলটুপি
+* পত্ররন্ধ্র ও লেন্টিসেল
+- জাইলেম ও ফ্লোয়েম
+- পাপড়ি ও বৃতি
+= গ্যাস যাওয়া-আসা করে পাতার পত্ররন্ধ্র আর পরিণত কাণ্ডের বাকলের লেন্টিসেল দিয়ে।
+? উজ্জ্বল রোদে থাকা একটি সবুজ পাতা সম্পর্কে কোন কথাটি ঠিক?
+- এটি শুধু শ্বসন করে
+- এটি শুধু সালোকসংশ্লেষণ করে
+* দুটোই করে, তবে সালোকসংশ্লেষণ বেশি দ্রুত চলে
+- দুটোই করে, ঠিক সমান হারে
+= শ্বসন কখনো থামে না; ভালো আলোয় সালোকসংশ্লেষণ অনেক দ্রুত চলে, তাই সব মিলিয়ে CO₂ ঢোকে আর O₂ বের হয়।
+? রাতে উদ্ভিদ অক্সিজেন ছাড়ে না কেন?
+- রাতে পত্ররন্ধ্র উধাও হয়ে যায়
+- রাতে শ্বসন বন্ধ থাকে
+- রাতে মূল পানি শোষণ বন্ধ করে দেয়
+* সালোকসংশ্লেষণের আলোক পর্যায় বন্ধ থাকে
+= অক্সিজেন আসে আলোকনির্ভর পর্যায়ে পানি ভাঙা থেকে, আর তার জন্য আলো লাগে।
+? লেন্টিসেল কোথায় থাকে?
+* পরিণত কাণ্ডের বাকলে
+- পাতার নিচের পিঠে
+- ক্লোরোপ্লাস্টের ভেতরে
+- মূলের অগ্রভাগে
+= লেন্টিসেল হলো বাকলের ঢিলেঢালা কোষে ভরা লেন্স আকৃতির ছিদ্রপথ; বাকলের বাকি অংশ বায়ুরোধী।
+? পত্ররন্ধ্র ও লেন্টিসেল দিয়ে গ্যাস যাওয়া-আসা করে কোন প্রক্রিয়ায়?
+- অভিস্রবণ
+- রক্ষীকোষের সক্রিয় পাম্পিং
+* ব্যাপন
+- ইমবাইবিশন
+= প্রতিটি গ্যাস বেশি ঘনত্বের জায়গা থেকে কম ঘনত্বের জায়গায় ছড়িয়ে পড়ে। এতে কোনো শক্তি খরচ হয় না।
+
+@@ 7.2
+@visual b7system
+@related 7.2.2 7.3 4.3 2.4
+== en
+## what
+The **respiratory system** is the group of organs that carry out breathing: the nasal passage, pharynx, larynx, trachea, bronchi, lungs and diaphragm. It brings oxygen from the air to the blood and removes carbon dioxide from it, so that every cell of the body can release energy from food.
+## simple
+**Why do we need oxygen at all?** Every cell of your body is like a tiny kitchen. The fuel is digested food (glucose), and to "burn" it the cell needs oxygen. The reaction releases energy, which keeps you warm and powers everything you do, and it leaves behind two waste products: carbon dioxide and water. Blood brings the oxygen from the lungs to the cells and carries the carbon dioxide back to the lungs. No animal can live without oxygen. Your book says that if the supply of oxygen to the body stops for more than three or four minutes, death cannot be avoided; the cells of the brain are the first to be harmed.
+
+**Breathing is not the same as respiration.** These two words are often mixed up.
+- **Breathing** is the physical work of taking oxygen in and sending carbon dioxide out. It happens in the respiratory system. Taking air in is **inhalation** (inspiration) and sending it out is **exhalation** (expiration).
+- **Respiration** is the chemical process inside living cells in which food is oxidised with oxygen, stored energy becomes usable energy (ATP), and carbon dioxide is released. You studied it in [[4.3|Chapter 4]].
+
+So gases are exchanged twice in the body, one after the other: first in the **lungs** (between air and blood) and then at **every cell** (between blood and cell). Awake or asleep, conscious or unconscious, this never stops.
+
+**The seven parts.** Your book lists seven parts of the respiratory system. Let us follow a puff of air through them.
+
+**1. Nasal cavity and nasal passage.** The nose is where the system begins. It is a triangular hollow above the mouth cavity. The nasal passage runs from the nostrils in front to the pharynx behind, and a thin wall divides it into a left and a right half.
+- The front part has **hairs**, and the rear part is lined with a thin membrane that makes sticky **mucus**. Dust, germs and other dirt in the air get stuck here, so the air is partly cleaned before it reaches the lungs.
+- As the air passes, it becomes **warm** and **moist**, so sudden cold air does not harm the lungs.
+- Special nerve endings in the nose give us the sense of **smell**.
+
+**2. Pharynx.** Open your mouth wide in front of a mirror: the space you see at the back is the pharynx. It reaches from the back of the nasal passage down to the top of the larynx. Air and food both pass through it. Hanging from the back of the roof of the mouth is a small tongue-like flap, the **soft palate**. When you swallow, it lifts and closes the back of the nasal passage, so food and drink cannot come out through the nose. It also releases a slippery fluid that helps food slide down.
+
+**3. Larynx (voice box).** It lies below the pharynx, at the top of the trachea.
+- On its two sides are two folds of muscle, the **vocal cords**. When air from the lungs passes between them they vibrate, and that is your voice.
+- Above the larynx is a tongue-shaped lid, the **epiglottis**. While you breathe it stays open, and air passes freely to and from the lungs. When you swallow, it covers the opening of the larynx, so the food goes straight into the oesophagus (food pipe) and not into the windpipe. The epiglottis itself does nothing for breathing; it is only a safety lid.
+
+**4. Trachea (windpipe).** A hollow tube that runs from the larynx down into the chest, **in front of** the oesophagus.
+- Its wall has incomplete (C-shaped) rings of **cartilage** and muscle. The rings keep the tube open all the time.
+- Its inner lining is a mucous membrane whose cells carry very fine hairs called **cilia**. If any unwanted particle gets in, it sticks to the mucus and the beating cilia push it out again.
+
+**5. Bronchi.** Near the lungs the trachea divides into two branches, the right and left **bronchi** (singular: bronchus), and one enters each lung. Inside the lung each bronchus divides again and again into finer and finer tubes called **bronchioles**. The bronchi are built like the trachea.
+
+| | Trachea | Bronchus |
+| Number | one | two (right and left) |
+| Begins from | the lower end of the larynx | the lower end of the trachea |
+| Position | neck and upper chest, in front of the oesophagus | one goes into each lung |
+| Branches into | two bronchi | countless bronchioles |
+| Width | wider | narrower |
+
+**6. Lungs.** The lungs are the main organs of the respiratory system. The two lungs lie in the chest (thoracic) cavity, on either side of the heart.
+- They are soft and spongy, and light red in colour.
+- The **right lung has three lobes** and the **left lung has two lobes**.
+- Each lung is wrapped in a two-layered membrane called the **pleura**. Between the two layers there is a little fluid, so the lungs do not rub against the chest wall as they swell and shrink.
+- Inside, a lung is packed with fine bronchioles, blood vessels and countless tiny air sacs called **alveoli** (singular: alveolus).
+
+**Alveoli: where the real work is done.** The air sacs sit in clusters at the ends of the finest bronchioles, like the cells of a honeycomb or a bunch of grapes. Air from the nasal passage can travel all the way to them.
+- The wall of an alveolus is extremely thin, only one layer of flat cells.
+- Each alveolus is wrapped in a net of very fine blood vessels (**capillaries**).
+- When air enters, the alveoli swell like balloons, and afterwards they shrink back by themselves.
+
+The walls of the alveoli and of the capillaries are so thin that oxygen and carbon dioxide can pass straight through them. This is where gas exchange takes place (next lesson).
+
+**7. Diaphragm.** The diaphragm is a sheet of muscle that separates the chest cavity from the abdominal cavity. It looks rather like an open umbrella. When it contracts it moves **down**, and the volume of the chest cavity increases. When it relaxes it rises again and the chest returns to its normal size. This is why the diaphragm is so important for breathing in.
+
+> Your book says the diaphragm "expands" when it moves back up. In the language of muscles this is **relaxing**: a muscle can only pull by contracting, and then it relaxes.
+## analogy
+Turn a mango tree upside down in your mind. The thick trunk is the trachea. It splits into two big boughs, the bronchi. Each bough divides into thinner and thinner twigs, the bronchioles. And at the tip of every twig are the leaves, the alveoli, where the real exchange with the air happens. Doctors actually call this the "bronchial tree".
+## definition
+**Respiration**: the biological process in which the food in living cells is oxidised with oxygen from the air, so that stored energy is changed into usable energy and carbon dioxide is given out.
+
+**Breathing**: the process of taking in oxygen (inhalation) and sending out carbon dioxide (exhalation).
+
+**Respiratory system**: the organs that together carry out breathing, namely the nasal cavity and nasal passage, pharynx, larynx, trachea, bronchi, lungs and diaphragm.
+## why
+Every part of this system is shaped for its job.
+- **Why breathe through the nose?** The alveoli are delicate. Hairs, mucus and cilia clean the air, and the warm, wet lining heats and moistens it, so that what reaches the alveoli is clean, warm and damp.
+- **Why cartilage rings in the trachea?** When you breathe in, the pressure inside the tube falls. A soft tube would be sucked flat, like a wet paper straw. The rings hold it open. They are **incomplete** at the back, where the trachea touches the oesophagus, so that the soft wall can give way when a lump of food passes down behind it.
+- **Why millions of tiny sacs and not one big bag?** Gases cross only at a surface. Splitting the space into hundreds of millions of tiny alveoli gives a gigantic surface, about 70 square metres in an adult, packed inside the chest.
+- **Why is the left lung smaller?** The heart is tilted to the left, so the left lung has two lobes and a notch that leaves room for it.
+- **Why the fluid in the pleura?** The lungs slide against the chest wall with every breath, more than twenty thousand times a day. The fluid works like oil between two moving surfaces.
+## terms
+Respiratory system | The organs that together carry out breathing
+Breathing | Taking in oxygen and sending out carbon dioxide (inhalation and exhalation)
+Respiration | Oxidation of food in cells to release usable energy; gives out CO₂
+Nasal passage | Air path from the nostrils to the pharynx; cleans, warms and moistens the air
+Pharynx | Space behind the mouth and nose, shared by air and food
+Soft palate | Flap at the back of the roof of the mouth; closes the nasal passage during swallowing
+Larynx | Voice box at the top of the trachea; contains the vocal cords
+Vocal cords | Two folds of muscle in the larynx that vibrate to make the voice
+Epiglottis | Tongue-shaped lid that covers the larynx when food is swallowed
+Trachea | Windpipe; tube with C-shaped cartilage rings, in front of the oesophagus
+Bronchus (pl. bronchi) | One of the two branches of the trachea, one to each lung
+Bronchiole | Fine branch of a bronchus inside the lung
+Alveolus (pl. alveoli) | Tiny thin-walled air sac surrounded by capillaries; site of gas exchange
+Pleura | Two-layered membrane around each lung, with fluid between the layers
+Diaphragm | Muscular sheet between the chest cavity and the abdominal cavity
+Cilia | Very fine moving hairs on the cells lining the airways
+## formula
+$$ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy (ATP)
+! Glucose + oxygen → carbon dioxide + water + energy. This reaction in the cells is the reason we must breathe.
+## visual
+Tap any part of the diagram, or press "Next" to follow a breath of air from the nose down to the alveoli. Then open "Swallow or breathe?" and switch between the two to see how the soft palate and the epiglottis guide air and food into the right pipes.
+## real
+Elders tell us not to talk or laugh with food in the mouth. Now you know why. To speak you need air passing through the larynx, so the epiglottis must stay open. If you swallow at the same moment, a bit of rice or water can slip into the larynx. At once a strong cough throws it out. This is what we call choking on food.
+
+After an hour in the dust of a busy road, blow your nose and you may find dark mucus on the handkerchief. That is the dirt your nose stopped before it could reach your lungs. And on a cold winter morning, breathing through the mouth soon leaves your throat dry and sore, because the air has skipped the warming and moistening that the nose provides.
+## example
+Q: Write, in the correct order, the path along which oxygen travels from the outside air to the blood. Along which path does carbon dioxide leave?
+Solution: Follow the air from part to part.
+Step: Outside air → nostril → nasal passage → pharynx → larynx → trachea.
+Step: Trachea → bronchus → bronchioles → alveolus.
+Step: From the alveolus oxygen passes through the thin walls into the blood of the capillaries.
+Answer: Nostril → nasal passage → pharynx → larynx → trachea → bronchus → bronchiole → alveolus → blood. Carbon dioxide travels along exactly the same path in the opposite direction, from the blood to the nostril.
+## example
+Q: How is the air that enters through the nostrils cleaned and made suitable before it reaches the lungs? Explain.
+Solution: Look for every part that filters, warms or moistens.
+Step: In the front of the nasal passage, hairs trap the larger dust particles.
+Step: Further back, the sticky mucus of the lining catches fine dust and germs. The same lining warms the air and adds moisture to it.
+Step: In the trachea and bronchi, whatever has slipped through sticks to the mucus, and the cilia sweep it back out.
+Answer: Hairs and mucus in the nasal passage trap dust and germs; the lining warms and moistens the air; mucus and cilia in the trachea and bronchi remove the remaining particles. So the air that reaches the alveoli is fairly clean, warm and moist.
+## example
+Q: The pharynx is a common passage for food and air. Why does food usually not enter the windpipe while we eat?
+Solution: Find the two "gates" that move when we swallow.
+Step: The soft palate lifts and closes the back of the nasal passage, so food cannot go up into the nose.
+Step: The epiglottis covers the opening of the larynx, so food cannot go down into the trachea.
+Step: The only path left open is the oesophagus, which lies just behind the trachea.
+Answer: During swallowing the epiglottis closes the mouth of the larynx like a lid, so the food slides over it into the oesophagus. Food enters the windpipe only by accident, for example when we talk or laugh while swallowing.
+## example
+Q: The alveoli of an adult's two lungs have a total surface of about 70 m². The skin of the same person has a surface of about 1.75 m². How many times larger is the surface of the alveoli?
+Given: surface of alveoli ≈ 70 m²; surface of skin ≈ 1.75 m²
+Calculation: 70 ÷ 1.75 = 40
+> Both values are rounded estimates; they vary from person to person.
+Answer: The alveoli offer about 40 times as much surface as the whole skin, roughly the floor of a badminton court. That is why so much gas can be exchanged in the short time of one breath.
+## mistakes
+x Breathing and respiration are two names for the same thing.
+v Breathing moves air in and out of the lungs. Respiration is the chemical breakdown of food in the cells to release energy.
+x The lungs are two empty balloons.
+v The lungs are spongy organs filled with bronchioles, blood vessels and hundreds of millions of tiny alveoli.
+x The lungs have muscles and pull the air in by themselves.
+v The lungs have no muscles for this. They are stretched by the diaphragm and the muscles of the ribs.
+x When we swallow, the epiglottis closes the food pipe.
+v It closes the opening of the larynx, that is, the way to the windpipe. The food pipe is the path that stays open.
+x The trachea lies behind the oesophagus.
+v The trachea is in front; the oesophagus is behind it.
+x Both lungs are exactly alike.
+v The right lung has three lobes, the left lung has two.
+## remember
+- Respiratory system = nasal cavity and nasal passage, pharynx, larynx, trachea, bronchi, lungs, diaphragm.
+- Path of air: nostril → nasal passage → pharynx → larynx → trachea → bronchus → bronchiole → alveolus.
+- The nasal passage cleans (hairs, mucus), warms and moistens the air.
+- Soft palate: stops food entering the nose. Epiglottis: stops food entering the larynx and trachea.
+- Trachea: in front of the oesophagus, with incomplete cartilage rings, mucus and cilia.
+- Lungs: spongy, light red; right lung 3 lobes, left lung 2 lobes; covered by the two-layered pleura with fluid between the layers.
+- Alveoli: thin-walled air sacs wrapped in capillaries; gas exchange happens here.
+- Diaphragm: muscular sheet between chest and abdomen; contracts and moves down, relaxes and moves up.
+- Breathing (physical, in the respiratory system) is different from respiration (chemical, in every cell).
+## think
+With a bad cold your nose is blocked and you breathe through your mouth. Which three services of the nose does the air now miss, and what could that mean for your throat and lungs?
+## quiz
+? Which is the correct path of air into the lungs?
+- Nasal passage → larynx → pharynx → trachea → bronchus
+- Nasal passage → pharynx → trachea → larynx → bronchus
+* Nasal passage → pharynx → larynx → trachea → bronchus
+- Nasal passage → trachea → pharynx → bronchus → larynx
+= The pharynx comes first, then the larynx at the top of the trachea, then the trachea, which divides into the bronchi.
+? Which structure stops food from entering the larynx when we swallow?
+- Soft palate
+* Epiglottis
+- Vocal cords
+- Pleura
+= The epiglottis covers the opening of the larynx like a lid. The soft palate closes the way to the nose.
+? How many lobes do the right and the left lung have?
+- Right 2, left 3
+- Right 2, left 2
+- Right 3, left 3
+* Right 3, left 2
+= The right lung has three lobes; the left has two and leaves room for the heart.
+? The two-layered membrane that covers each lung is the:
+* Pleura
+- Diaphragm
+- Epiglottis
+- Pharynx
+= Fluid between the two layers of the pleura prevents friction between the lungs and the chest wall.
+? What keeps the trachea open all the time?
+- Vocal cords
+- Cilia
+* Incomplete rings of cartilage
+- The diaphragm
+= The C-shaped cartilage rings in its wall stop the windpipe from collapsing.
+== bn
+## what
+যে অঙ্গগুলো মিলে শ্বাসকার্য চালায়, তাদের একত্রে বলে **শ্বসনতন্ত্র**: নাসাপথ, গলবিল, স্বরযন্ত্র, শ্বাসনালি, ব্রংকাস, ফুসফুস ও মধ্যচ্ছদা। এই তন্ত্র বাতাসের অক্সিজেন রক্তে পৌঁছে দেয় আর রক্ত থেকে কার্বন ডাই-অক্সাইড বের করে দেয়, যাতে দেহের প্রতিটি কোষ খাদ্য থেকে শক্তি বের করতে পারে।
+## simple
+**অক্সিজেন লাগে কেন?** তোমার দেহের প্রতিটি কোষ একেকটা ছোট্ট রান্নাঘরের মতো। জ্বালানি হলো পরিপাক হওয়া খাদ্য (গ্লুকোজ), আর তা "পোড়াতে" কোষের দরকার অক্সিজেন। এই বিক্রিয়ায় শক্তি বের হয়, যা দেহকে উষ্ণ রাখে আর তোমার সব কাজের শক্তি জোগায়; সাথে তৈরি হয় দুটি বর্জ্য: কার্বন ডাই-অক্সাইড আর পানি। রক্ত ফুসফুস থেকে অক্সিজেন কোষে পৌঁছে দেয়, আর কার্বন ডাই-অক্সাইড ফুসফুসে ফিরিয়ে আনে। কোনো প্রাণীই অক্সিজেন ছাড়া বাঁচতে পারে না। তোমার বইয়ে আছে, তিন-চার মিনিটের বেশি দেহে অক্সিজেনের সরবরাহ বন্ধ থাকলে মৃত্যু অনিবার্য; সবার আগে ক্ষতি হয় মস্তিষ্কের কোষের।
+
+**শ্বাসকার্য আর শ্বসন এক নয়।** এই দুটি শব্দ প্রায়ই গুলিয়ে যায়।
+- **শ্বাসকার্য** হলো অক্সিজেন গ্রহণ আর কার্বন ডাই-অক্সাইড বের করে দেওয়ার ভৌত কাজ। এটি ঘটে শ্বসনতন্ত্রে। বাতাস ভেতরে নেওয়াকে বলে **প্রশ্বাস** (শ্বাস গ্রহণ) আর বাইরে ছাড়াকে বলে **নিঃশ্বাস** (শ্বাস ত্যাগ)।
+- **শ্বসন** হলো জীবকোষের ভেতরের রাসায়নিক প্রক্রিয়া, যাতে খাদ্য অক্সিজেনের সাথে জারিত হয়, মজুত শক্তি ব্যবহারযোগ্য শক্তিতে (ATP) রূপান্তরিত হয় আর কার্বন ডাই-অক্সাইড বের হয়। এটি তুমি [[4.3|চতুর্থ অধ্যায়ে]] পড়েছ।
+
+তাই দেহের ভেতরে গ্যাসের আদান-প্রদান হয় পরপর দুবার: প্রথমে **ফুসফুসে** (বাতাস ও রক্তের মধ্যে), তারপর **প্রতিটি কোষে** (রক্ত ও কোষের মধ্যে)। জেগে থাকো বা ঘুমিয়ে, সচেতন বা অচেতন, এ কাজ কখনো থামে না।
+
+**সাতটি অংশ।** তোমার বইয়ে শ্বসনতন্ত্রের সাতটি অংশের কথা বলা হয়েছে। চলো, এক দমকা বাতাসের সাথে সাথে সেগুলো ঘুরে দেখি।
+
+**১. নাসারন্ধ্র ও নাসাপথ।** শ্বসনতন্ত্রের শুরু নাক বা নাসিকা দিয়ে। এটি মুখগহ্বরের ওপরে অবস্থিত একটি ত্রিকোণাকার গহ্বর। নাসাপথ সামনে নাসারন্ধ্র (নাকের ছিদ্র) থেকে পেছনে গলবিল পর্যন্ত বিস্তৃত, আর একটি পাতলা প্রাচীর একে ডান ও বাম দুই ভাগে ভাগ করেছে।
+- সামনের অংশে আছে **লোম**, আর পেছনের অংশ আঠালো **শ্লেষ্মা** তৈরি করা পাতলা পর্দা দিয়ে ঢাকা। বাতাসের ধুলাবালি, রোগজীবাণু আর ময়লা এখানে আটকে যায়, তাই ফুসফুসে পৌঁছানোর আগেই বাতাস কিছুটা নির্মল হয়।
+- নাসাপথ দিয়ে যাওয়ার সময় বাতাস কিছুটা **উষ্ণ** ও **আর্দ্র** হয়, ফলে হঠাৎ ঠান্ডা বাতাস ফুসফুসের ক্ষতি করতে পারে না।
+- নাকের বিশেষ স্নায়ুপ্রান্ত আমাদের **গন্ধের** অনুভূতি দেয়।
+
+**২. গলবিল।** আয়নার সামনে মুখ বড় করে হাঁ করো: মুখগহ্বরের পেছনে যে অংশটি দেখা যায়, সেটিই গলবিল। এটি নাসাপথের পেছন থেকে স্বরযন্ত্রের ওপর পর্যন্ত বিস্তৃত। বাতাস আর খাদ্য দুটোই এ পথ দিয়ে যায়। এর পেছনের অংশের ওপর থেকে ছোট জিভের মতো একটি অংশ ঝুলে থাকে, এর নাম **আলাজিহ্বা** (soft palate)। খাবার বা পানীয় গেলার সময় এটি উঠে গিয়ে নাসাপথের পেছনের পথ বন্ধ করে দেয়, ফলে খাদ্য নাক দিয়ে বেরিয়ে আসতে পারে না। খাওয়ার সময় এটি পিচ্ছিল রসও নিঃসরণ করে, যাতে খাবার সহজে নেমে যায়।
+
+**৩. স্বরযন্ত্র।** এটি গলবিলের নিচে, শ্বাসনালির ঠিক ওপরে অবস্থিত।
+- এর দুই ধারে দুটি পেশির ভাঁজ থাকে, এরা **স্বররজ্জু** (vocal cord)। ফুসফুস থেকে আসা বাতাস এদের মাঝ দিয়ে যাওয়ার সময় এরা কাঁপে, আর তা থেকেই তোমার গলার স্বর।
+- স্বরযন্ত্রের ওপরে জিভের মতো আকৃতির একটি ঢাকনা আছে, নাম **উপজিহ্বা** (এপিগ্লটিস)। শ্বাস-প্রশ্বাসের সময় এটি খোলা থাকে, বাতাস এ পথে ফুসফুসে যাতায়াত করে। খাবার গেলার সময় এটি স্বরযন্ত্রের মুখ ঢেকে দেয়, ফলে খাদ্য সোজা খাদ্যনালিতে ঢোকে, শ্বাসনালিতে নয়। শ্বাস-প্রশ্বাসের কাজে উপজিহ্বার নিজের কোনো ভূমিকা নেই; এটি কেবল একটি নিরাপত্তা-ঢাকনা।
+
+**৪. শ্বাসনালি (ট্রাকিয়া)।** এটি একটি ফাঁপা নল, যা স্বরযন্ত্রের নিচ থেকে শুরু হয়ে বুকের ভেতরে নেমে গেছে; এর অবস্থান খাদ্যনালির **সামনে**।
+- এর প্রাচীর গঠিত অসম্পূর্ণ (ইংরেজি C অক্ষরের মতো) বলয়াকার **তরুণাস্থি** আর পেশি দিয়ে। বলয়গুলো নলটিকে সব সময় খোলা রাখে।
+- এর ভেতরের গা শ্লেষ্মাঝিল্লি দিয়ে ঢাকা, যার কোষে থাকে অতি সূক্ষ্ম লোম বা **সিলিয়া**। কোনো অপ্রয়োজনীয় কণা ঢুকে পড়লে তা শ্লেষ্মায় আটকে যায়, আর সিলিয়া নড়ে নড়ে তাকে বাইরে ঠেলে দেয়।
+
+**৫. ব্রংকাস (বায়ুনালি)।** ফুসফুসের কাছে গিয়ে শ্বাসনালি ডান ও বাম দুটি শাখায় ভাগ হয়; এরা **ব্রংকাই** (একবচনে ব্রংকাস), আর একটি করে শাখা প্রতিটি ফুসফুসে ঢোকে। ফুসফুসের ভেতরে প্রতিটি ব্রংকাস বারবার ভাগ হয়ে অসংখ্য সরু থেকে আরও সরু নল তৈরি করে, এদের বলে **অণুক্লোম শাখা** (ব্রংকিওল)। ব্রংকাসের গঠন শ্বাসনালির মতোই।
+
+| | শ্বাসনালি (ট্রাকিয়া) | ব্রংকাস |
+| সংখ্যা | একটি | দুটি (ডান ও বাম) |
+| শুরু | স্বরযন্ত্রের নিচের প্রান্ত থেকে | শ্বাসনালির নিচের প্রান্ত থেকে |
+| অবস্থান | গলা ও বুকের ওপরের অংশে, খাদ্যনালির সামনে | একটি করে প্রতিটি ফুসফুসে ঢোকে |
+| শাখা | দুটি ব্রংকাস | অসংখ্য অণুক্লোম শাখা |
+| প্রস্থ | বেশি চওড়া | তুলনামূলক সরু |
+
+**৬. ফুসফুস।** ফুসফুস শ্বসনতন্ত্রের প্রধান অঙ্গ। বক্ষগহ্বরের ভেতরে হৃৎপিণ্ডের দুই পাশে দুটি ফুসফুস অবস্থিত।
+- এরা স্পঞ্জের মতো নরম, কোমল আর হালকা লালচে রঙের।
+- **ডান ফুসফুস তিন খণ্ডে** আর **বাম ফুসফুস দুই খণ্ডে** বিভক্ত।
+- প্রতিটি ফুসফুস **প্লুরা** নামের দুই ভাঁজের পর্দা দিয়ে ঢাকা। দুই ভাঁজের মাঝে একটু রস থাকে, ফলে ফুসফুস ফোলা ও চুপসানোর সময় বক্ষগাত্রের সাথে ঘর্ষণ হয় না।
+- ফুসফুসের ভেতরটা সূক্ষ্ম অণুক্লোম শাখা, রক্তনালি আর অসংখ্য ক্ষুদ্র বায়ুথলি বা **অ্যালভিওলাসে** (বহুবচনে অ্যালভিওলি) ঠাসা।
+
+**বায়ুথলি: আসল কাজ এখানেই।** বায়ুথলিগুলো সবচেয়ে সরু অণুক্লোম শাখার প্রান্তে থোকায় থোকায় থাকে, মৌচাকের খোপ বা আঙুরের থোকার মতো। নাসাপথ দিয়ে ঢোকা বাতাস সরাসরি এ পর্যন্ত যাতায়াত করতে পারে।
+- বায়ুথলির প্রাচীর অত্যন্ত পাতলা, চ্যাপ্টা কোষের মাত্র এক স্তর।
+- প্রতিটি বায়ুথলি অতি সূক্ষ্ম রক্তনালির (**কৈশিকনালি**) জাল দিয়ে ঘেরা।
+- বাতাস ঢুকলে বায়ুথলি বেলুনের মতো ফুলে ওঠে, পরে আপনা-আপনি চুপসে যায়।
+
+বায়ুথলি আর কৈশিকনালির প্রাচীর এতই পাতলা যে অক্সিজেন ও কার্বন ডাই-অক্সাইড সরাসরি তা ভেদ করে যেতে পারে। গ্যাসীয় বিনিময় ঘটে এখানেই (পরের পাঠ)।
+
+**৭. মধ্যচ্ছদা।** বক্ষগহ্বর আর উদরগহ্বরকে আলাদা করে রাখা পেশিবহুল পর্দাটিই মধ্যচ্ছদা। দেখতে অনেকটা খোলা ছাতার মতো। এটি সংকুচিত হলে **নিচের দিকে** নামে, তখন বক্ষগহ্বরের আয়তন বাড়ে। শিথিল হলে আবার ওপরে ওঠে আর বক্ষ স্বাভাবিক অবস্থায় ফিরে আসে। এ কারণেই প্রশ্বাস গ্রহণে মধ্যচ্ছদার ভূমিকা এত গুরুত্বপূর্ণ।
+
+> তোমার বইয়ে আছে, মধ্যচ্ছদা ওপরে ওঠার সময় "প্রসারিত" হয়। পেশির ভাষায় একে বলে **শিথিল হওয়া**: পেশি শুধু সংকুচিত হয়ে টানতে পারে, তারপর শিথিল হয়।
+## analogy
+মনে মনে একটা আমগাছ উল্টে দাও। মোটা গুঁড়িটা হলো শ্বাসনালি। গুঁড়ি দুটি বড় ডালে ভাগ হয়েছে, এরা ব্রংকাই। প্রতিটি ডাল ভাগ হতে হতে সরু থেকে আরও সরু শাখা হয়েছে, এরা অণুক্লোম শাখা। আর প্রতিটি শাখার ডগায় আছে পাতা, অর্থাৎ বায়ুথলি, যেখানে বাতাসের সাথে আসল বিনিময়টা ঘটে। ডাক্তাররা সত্যিই একে "ব্রংকিয়াল ট্রি" বা শ্বাসনালি-বৃক্ষ বলেন।
+## definition
+**শ্বসন**: যে জৈবিক প্রক্রিয়ায় জীবকোষের খাদ্যবস্তু বায়ুর অক্সিজেনের সাথে জারিত হয়ে মজুত শক্তি ব্যবহারযোগ্য শক্তিতে রূপান্তরিত হয় এবং কার্বন ডাই-অক্সাইড নিষ্কাশিত হয়।
+
+**শ্বাসকার্য**: যে প্রক্রিয়ায় অক্সিজেন গ্রহণ (প্রশ্বাস) ও কার্বন ডাই-অক্সাইড নিষ্কাশন (নিঃশ্বাস) করা হয়।
+
+**শ্বসনতন্ত্র**: যে অঙ্গগুলোর সাহায্যে শ্বাসকার্য পরিচালিত হয় তাদের সমষ্টি, অর্থাৎ নাসারন্ধ্র ও নাসাপথ, গলবিল, স্বরযন্ত্র, শ্বাসনালি, ব্রংকাস, ফুসফুস ও মধ্যচ্ছদা।
+## why
+এই তন্ত্রের প্রতিটি অংশ তার কাজের উপযোগী করে গড়া।
+- **নাক দিয়ে শ্বাস নেওয়া ভালো কেন?** বায়ুথলি খুব নাজুক। লোম, শ্লেষ্মা আর সিলিয়া বাতাস পরিষ্কার করে, আর উষ্ণ ভেজা আবরণ তাকে গরম ও আর্দ্র করে; ফলে বায়ুথলিতে যা পৌঁছায় তা পরিষ্কার, উষ্ণ ও ভেজা বাতাস।
+- **শ্বাসনালিতে তরুণাস্থির বলয় কেন?** প্রশ্বাসের সময় নলের ভেতরের চাপ কমে যায়। নরম নল হলে ভেজা কাগজের স্ট্রয়ের মতো চুপসে যেত। বলয়গুলো একে খোলা রাখে। পেছন দিকে, যেখানে শ্বাসনালি খাদ্যনালির গায়ে লেগে থাকে, সেখানে বলয়গুলো **অসম্পূর্ণ**; ফলে পেছন দিয়ে খাবারের দলা নামার সময় নরম প্রাচীরটি একটু সরে জায়গা দিতে পারে।
+- **একটা বড় থলি না হয়ে কোটি কোটি ছোট থলি কেন?** গ্যাস পার হয় শুধু তলের ভেতর দিয়ে। জায়গাটুকু কোটি কোটি ক্ষুদ্র বায়ুথলিতে ভাগ হওয়ায় বিশাল একটা তল পাওয়া যায়: একজন প্রাপ্তবয়স্ক মানুষে প্রায় ৭০ বর্গমিটার, অথচ পুরোটাই বুকের ভেতরে গোছানো।
+- **বাম ফুসফুস ছোট কেন?** হৃৎপিণ্ড একটু বাম দিকে হেলে থাকে, তাই বাম ফুসফুসে খণ্ড দুটি, আর হৃৎপিণ্ডের জন্য একটা খাঁজ ছেড়ে রাখা আছে।
+- **প্লুরার ভেতরে রস কেন?** প্রতিটি শ্বাসে, দিনে বিশ হাজারেরও বেশি বার, ফুসফুস বক্ষগাত্রের গা ঘেঁষে নড়ে। ওই রস দুটি চলন্ত তলের মাঝে তেলের মতো কাজ করে।
+## terms
+শ্বসনতন্ত্র (Respiratory system) | যে অঙ্গগুলো মিলে শ্বাসকার্য চালায়
+শ্বাসকার্য (Breathing) | অক্সিজেন গ্রহণ ও কার্বন ডাই-অক্সাইড ত্যাগ (প্রশ্বাস ও নিঃশ্বাস)
+শ্বসন (Respiration) | কোষে খাদ্য জারিত হয়ে ব্যবহারযোগ্য শক্তি বের হওয়া; CO₂ বের হয়
+নাসাপথ (Nasal passage) | নাসারন্ধ্র থেকে গলবিল পর্যন্ত বাতাসের পথ; বাতাস পরিষ্কার, উষ্ণ ও আর্দ্র করে
+গলবিল (Pharynx) | মুখ ও নাকের পেছনের অংশ; বাতাস ও খাদ্যের সাধারণ পথ
+আলাজিহ্বা (Soft palate) | মুখগহ্বরের ছাদের পেছনের ঝুলন্ত অংশ; গেলার সময় নাসাপথ বন্ধ করে
+স্বরযন্ত্র (Larynx) | শ্বাসনালির ওপরের অংশ; এতে স্বররজ্জু থাকে
+স্বররজ্জু (Vocal cords) | স্বরযন্ত্রের দুটি পেশির ভাঁজ, যাদের কম্পনে স্বর তৈরি হয়
+উপজিহ্বা (Epiglottis) | জিভের মতো ঢাকনা, খাবার গেলার সময় স্বরযন্ত্রের মুখ ঢেকে দেয়
+শ্বাসনালি (Trachea) | C আকৃতির তরুণাস্থির বলয়যুক্ত নল, খাদ্যনালির সামনে থাকে
+ব্রংকাস (Bronchus, বহুবচনে Bronchi) | শ্বাসনালির দুটি শাখার একটি; প্রতিটি ফুসফুসে একটি করে ঢোকে
+অণুক্লোম শাখা (Bronchiole) | ফুসফুসের ভেতরে ব্রংকাসের সূক্ষ্ম শাখা
+বায়ুথলি (Alveolus, বহুবচনে Alveoli) | কৈশিকনালিতে ঘেরা পাতলা প্রাচীরের ক্ষুদ্র থলি; গ্যাসীয় বিনিময়ের স্থান
+প্লুরা (Pleura) | প্রতিটি ফুসফুসের দুই ভাঁজের আবরণ; ভাঁজের মাঝে রস থাকে
+মধ্যচ্ছদা (Diaphragm) | বক্ষগহ্বর ও উদরগহ্বরের মাঝের পেশিবহুল পর্দা
+সিলিয়া (Cilia) | শ্বাসপথের আবরণী কোষের অতি সূক্ষ্ম নড়নক্ষম লোম
+## formula
+$$ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি (ATP)
+! গ্লুকোজ + অক্সিজেন → কার্বন ডাই-অক্সাইড + পানি + শক্তি। কোষের এই বিক্রিয়ার জন্যই আমাদের শ্বাস নিতে হয়।
+## visual
+চিত্রের যেকোনো অংশে চাপ দাও, অথবা "পরের" বোতাম চেপে নাক থেকে বায়ুথলি পর্যন্ত এক দমকা বাতাসের পিছু নাও। এরপর "গেলা না শ্বাস?" খুলে দুই অবস্থা বদলে বদলে দেখো, আলাজিহ্বা আর উপজিহ্বা কীভাবে বাতাস ও খাদ্যকে ঠিক নলে পাঠায়।
+## real
+মুরব্বিরা বলেন, মুখে খাবার নিয়ে কথা বলতে বা হাসতে নেই। কারণটা এখন তুমি জানো। কথা বলতে হলে স্বরযন্ত্রের ভেতর দিয়ে বাতাস যেতে হয়, তাই উপজিহ্বাকে খোলা থাকতে হয়। ঠিক সেই মুহূর্তে গিললে এক-আধটা ভাত বা একটু পানি স্বরযন্ত্রে ঢুকে পড়তে পারে। সাথে সাথে জোর কাশি এসে তা বের করে দেয়। একেই আমরা বলি বিষম খাওয়া।
+
+ব্যস্ত রাস্তার ধুলায় ঘণ্টাখানেক থাকার পর নাক ঝাড়লে রুমালে কালচে শ্লেষ্মা দেখতে পারো। ওটা সেই ময়লা, যা তোমার নাক ফুসফুসে পৌঁছানোর আগেই আটকে দিয়েছে। আবার শীতের ভোরে মুখ দিয়ে শ্বাস নিলে অল্পক্ষণেই গলা শুকিয়ে খুসখুস করে, কারণ নাক বাতাসকে যে উষ্ণ ও আর্দ্র করে দেয়, বাতাস সেই ধাপটা বাদ দিয়ে এসেছে।
+## example
+প্রশ্ন: বাইরের বাতাস থেকে রক্ত পর্যন্ত অক্সিজেন যে পথে যায়, তা সঠিক ক্রমে লেখো। কার্বন ডাই-অক্সাইড কোন পথে বের হয়?
+সমাধান: এক অংশ থেকে আরেক অংশে বাতাসের পিছু নাও।
+ধাপ: বাইরের বাতাস → নাসারন্ধ্র → নাসাপথ → গলবিল → স্বরযন্ত্র → শ্বাসনালি।
+ধাপ: শ্বাসনালি → ব্রংকাস → অণুক্লোম শাখা → বায়ুথলি।
+ধাপ: বায়ুথলি থেকে অক্সিজেন পাতলা প্রাচীর ভেদ করে কৈশিকনালির রক্তে ঢোকে।
+উত্তর: নাসারন্ধ্র → নাসাপথ → গলবিল → স্বরযন্ত্র → শ্বাসনালি → ব্রংকাস → অণুক্লোম শাখা → বায়ুথলি → রক্ত। কার্বন ডাই-অক্সাইড ঠিক এই পথেই উল্টো দিকে, অর্থাৎ রক্ত থেকে নাসারন্ধ্র পর্যন্ত গিয়ে বের হয়।
+## example
+প্রশ্ন: নাসারন্ধ্র দিয়ে ঢোকা বাতাস ফুসফুসে পৌঁছানোর আগে কী উপায়ে পরিশোধিত ও উপযোগী হয়? ব্যাখ্যা করো।
+সমাধান: যে যে অংশ বাতাসকে ছাঁকে, গরম করে বা ভেজায়, সেগুলো খুঁজে বের করো।
+ধাপ: নাসাপথের সামনের অংশের লোম বড় ধূলিকণা আটকায়।
+ধাপ: আরও ভেতরে পর্দার আঠালো শ্লেষ্মা সূক্ষ্ম ধুলা ও রোগজীবাণু ধরে ফেলে। এই পর্দাই বাতাসকে উষ্ণ করে আর তাতে আর্দ্রতা যোগ করে।
+ধাপ: শ্বাসনালি ও ব্রংকাসে যা ফসকে ঢুকে পড়ে তা শ্লেষ্মায় আটকায়, আর সিলিয়া তাকে ঠেলে বাইরে পাঠায়।
+উত্তর: নাসাপথের লোম ও শ্লেষ্মা ধুলা ও জীবাণু আটকায়; পর্দা বাতাসকে উষ্ণ ও আর্দ্র করে; শ্বাসনালি ও ব্রংকাসের শ্লেষ্মা ও সিলিয়া বাকি কণা সরিয়ে দেয়। ফলে বায়ুথলিতে যে বাতাস পৌঁছায় তা মোটামুটি পরিষ্কার, উষ্ণ ও আর্দ্র।
+## example
+প্রশ্ন: গলবিল খাদ্য ও বাতাসের সাধারণ পথ। তবু খাওয়ার সময় খাদ্য সাধারণত শ্বাসনালিতে ঢোকে না কেন?
+সমাধান: গেলার সময় যে দুটি "কপাট" নড়ে, সেগুলো খুঁজে বের করো।
+ধাপ: আলাজিহ্বা উঠে গিয়ে নাসাপথের পেছনের পথ বন্ধ করে, তাই খাদ্য ওপরে নাকে যেতে পারে না।
+ধাপ: উপজিহ্বা স্বরযন্ত্রের মুখ ঢেকে দেয়, তাই খাদ্য নিচে শ্বাসনালিতে যেতে পারে না।
+ধাপ: খোলা থাকে একটাই পথ: খাদ্যনালি, যা শ্বাসনালির ঠিক পেছনে থাকে।
+উত্তর: গেলার সময় উপজিহ্বা ঢাকনার মতো স্বরযন্ত্রের মুখ বন্ধ করে দেয়, তাই খাদ্য তার ওপর দিয়ে পিছলে খাদ্যনালিতে ঢোকে। খাদ্য শ্বাসনালিতে ঢোকে কেবল দৈবাৎ, যেমন গেলার সময় কথা বললে বা হাসলে।
+## example
+প্রশ্ন: একজন প্রাপ্তবয়স্ক মানুষের দুই ফুসফুসের সব বায়ুথলির মোট তল প্রায় ৭০ m²। ওই মানুষের ত্বকের তল প্রায় ১.৭৫ m²। বায়ুথলির তল ত্বকের তলের কত গুণ?
+দেওয়া আছে: বায়ুথলির তল ≈ ৭০ m²; ত্বকের তল ≈ ১.৭৫ m²
+হিসাব: ৭০ ÷ ১.৭৫ = ৪০
+> দুটি মানই আনুমানিক ও পূর্ণসংখ্যায় আনা; মানুষভেদে কমবেশি হয়।
+উত্তর: বায়ুথলির তল পুরো ত্বকের প্রায় ৪০ গুণ, মোটামুটি একটি ব্যাডমিন্টন কোর্টের মেঝের সমান। এ কারণেই এক শ্বাসের অল্প সময়ে এত গ্যাস বিনিময় হতে পারে।
+## mistakes
+x শ্বাসকার্য আর শ্বসন একই জিনিসের দুটি নাম।
+v শ্বাসকার্য হলো ফুসফুসে বাতাস ঢোকানো ও বের করা। শ্বসন হলো কোষে খাদ্য ভেঙে শক্তি বের করার রাসায়নিক প্রক্রিয়া।
+x ফুসফুস দুটি ফাঁপা বেলুন।
+v ফুসফুস স্পঞ্জের মতো অঙ্গ, যা অণুক্লোম শাখা, রক্তনালি আর কোটি কোটি ক্ষুদ্র বায়ুথলিতে ভরা।
+x ফুসফুসের নিজের পেশি আছে, সে নিজেই বাতাস টেনে নেয়।
+v এ কাজের জন্য ফুসফুসের কোনো পেশি নেই। মধ্যচ্ছদা আর পাঁজরের পেশি একে প্রসারিত করে।
+x গেলার সময় উপজিহ্বা খাদ্যনালি বন্ধ করে দেয়।
+v এটি বন্ধ করে স্বরযন্ত্রের মুখ, অর্থাৎ শ্বাসনালির পথ। খোলা থাকে খাদ্যনালির পথটাই।
+x শ্বাসনালি খাদ্যনালির পেছনে থাকে।
+v শ্বাসনালি সামনে; খাদ্যনালি তার পেছনে।
+x দুটি ফুসফুস হুবহু একই রকম।
+v ডান ফুসফুসে তিনটি খণ্ড, বাম ফুসফুসে দুটি।
+## remember
+- শ্বসনতন্ত্র = নাসারন্ধ্র ও নাসাপথ, গলবিল, স্বরযন্ত্র, শ্বাসনালি, ব্রংকাস, ফুসফুস, মধ্যচ্ছদা।
+- বাতাসের পথ: নাসারন্ধ্র → নাসাপথ → গলবিল → স্বরযন্ত্র → শ্বাসনালি → ব্রংকাস → অণুক্লোম শাখা → বায়ুথলি।
+- নাসাপথ বাতাসকে পরিষ্কার (লোম, শ্লেষ্মা), উষ্ণ ও আর্দ্র করে।
+- আলাজিহ্বা: খাদ্যকে নাকে ঢুকতে দেয় না। উপজিহ্বা: খাদ্যকে স্বরযন্ত্র ও শ্বাসনালিতে ঢুকতে দেয় না।
+- শ্বাসনালি: খাদ্যনালির সামনে; এতে অসম্পূর্ণ তরুণাস্থির বলয়, শ্লেষ্মা ও সিলিয়া থাকে।
+- ফুসফুস: স্পঞ্জের মতো, হালকা লালচে; ডান ফুসফুস ৩ খণ্ড, বাম ফুসফুস ২ খণ্ড; দুই ভাঁজের প্লুরা দিয়ে ঢাকা, ভাঁজের মাঝে রস থাকে।
+- বায়ুথলি (অ্যালভিওলাস): কৈশিকনালিতে ঘেরা পাতলা প্রাচীরের থলি; গ্যাসীয় বিনিময় এখানেই ঘটে।
+- মধ্যচ্ছদা: বক্ষ ও উদরের মাঝের পেশিবহুল পর্দা; সংকুচিত হলে নিচে নামে, শিথিল হলে ওপরে ওঠে।
+- শ্বাসকার্য (ভৌত, শ্বসনতন্ত্রে) আর শ্বসন (রাসায়নিক, প্রতিটি কোষে) আলাদা।
+## think
+খুব সর্দি হলে নাক বন্ধ থাকে আর তুমি মুখ দিয়ে শ্বাস নাও। তখন বাতাস নাকের কোন তিনটি সেবা থেকে বঞ্চিত হয়, আর তার ফলে তোমার গলা ও ফুসফুসের কী হতে পারে?
+## quiz
+? ফুসফুসে বাতাস ঢোকার সঠিক পথ কোনটি?
+- নাসাপথ → স্বরযন্ত্র → গলবিল → শ্বাসনালি → ব্রংকাস
+- নাসাপথ → গলবিল → শ্বাসনালি → স্বরযন্ত্র → ব্রংকাস
+* নাসাপথ → গলবিল → স্বরযন্ত্র → শ্বাসনালি → ব্রংকাস
+- নাসাপথ → শ্বাসনালি → গলবিল → ব্রংকাস → স্বরযন্ত্র
+= প্রথমে গলবিল, তারপর শ্বাসনালির মাথায় থাকা স্বরযন্ত্র, তারপর শ্বাসনালি, যা ভাগ হয়ে ব্রংকাই হয়।
+? খাবার গেলার সময় কোন অংশটি খাদ্যকে স্বরযন্ত্রে ঢুকতে বাধা দেয়?
+- আলাজিহ্বা
+* উপজিহ্বা
+- স্বররজ্জু
+- প্লুরা
+= উপজিহ্বা ঢাকনার মতো স্বরযন্ত্রের মুখ ঢেকে দেয়। আলাজিহ্বা বন্ধ করে নাকের দিকের পথ।
+? ডান ও বাম ফুসফুসে কয়টি করে খণ্ড থাকে?
+- ডানে ২, বামে ৩
+- ডানে ২, বামে ২
+- ডানে ৩, বামে ৩
+* ডানে ৩, বামে ২
+= ডান ফুসফুসে তিনটি খণ্ড; বাম ফুসফুসে দুটি, হৃৎপিণ্ডের জন্য জায়গা ছেড়ে।
+? প্রতিটি ফুসফুসকে ঢেকে রাখা দুই ভাঁজের পর্দাটির নাম:
+* প্লুরা
+- মধ্যচ্ছদা
+- উপজিহ্বা
+- গলবিল
+= প্লুরার দুই ভাঁজের মাঝের রস ফুসফুস ও বক্ষগাত্রের ঘর্ষণ ঠেকায়।
+? শ্বাসনালিকে সব সময় খোলা রাখে কোনটি?
+- স্বররজ্জু
+- সিলিয়া
+* অসম্পূর্ণ তরুণাস্থির বলয়
+- মধ্যচ্ছদা
+= প্রাচীরের C আকৃতির তরুণাস্থির বলয় শ্বাসনালিকে চুপসে যেতে দেয় না।
+
+@@ 7.2.2
+@visual b7breath
+@related 7.2 6.1 6.3 4.3
+== en
+## what
+**Breathing** has two steps: **inhalation**, when the diaphragm and the muscles between the ribs contract and air enters the lungs, and **exhalation**, when they relax and air leaves. In the alveoli, oxygen passes from the air into the blood and carbon dioxide passes from the blood into the air by **diffusion**. Blood carries most of the oxygen as **oxyhaemoglobin** and most of the carbon dioxide as **bicarbonate**.
+## simple
+**A closed box with one opening.** The breathing organs are open only towards the pharynx; on every other side they are closed. So air can reach the lungs, or leave them, only along the path you learnt in the last lesson. The lungs lie inside the chest cavity, which is like a box: the ribs and their muscles are its walls, and the diaphragm is its floor. The lungs have no muscles of their own. They simply follow the box: when the box grows, they are stretched; when it shrinks, they spring back.
+
+**Inhalation (breathing in), step by step**
+1. A nerve signal makes the muscles between the ribs (the **intercostal muscles**) and the **diaphragm** contract.
+2. The diaphragm moves **down**, and the ribs swing **up and outwards**.
+3. The volume of the chest cavity **increases**, and the lungs are stretched with it.
+4. Now the same air has more room, so the pressure of the air inside the lungs becomes **less** than the pressure of the air outside.
+5. To even out the pressure, outside air flows in through the nose and trachea and fills the lungs.
+
+**Exhalation (breathing out), step by step**
+1. Right after contracting, the same muscles **relax**.
+2. The diaphragm rises back into its dome shape, and the ribs move down and inwards.
+3. The chest cavity returns to its normal, smaller volume, and the stretchy lungs shrink back.
+4. The pressure of the air inside the lungs becomes **more** than the pressure outside.
+5. Air rich in carbon dioxide and water vapour is pushed out.
+
+| | Inhalation | Exhalation |
+| Diaphragm | contracts, moves down | relaxes, moves up |
+| Rib muscles | contract; ribs go up and out | relax; ribs go down and in |
+| Volume of chest cavity | increases | decreases to normal |
+| Pressure inside the lungs | lower than outside | higher than outside |
+| Air | flows in | flows out |
+
+This goes on without a break all your life, about 12 to 18 times a minute in a resting adult, and faster in small children and during exercise. Your book calls this work of breathing **external respiration**.
+
+> Your book says the diaphragm "expands" during exhalation. Read this as "relaxes and rises back".
+
+**Gas exchange.** Gas exchange means the swapping of oxygen and carbon dioxide. It happens between the air in the alveoli and the blood in the capillaries wrapped around them. Behind every such exchange is one simple process, **diffusion**: a gas spreads from where its pressure (concentration) is higher to where it is lower. Gas exchange has two parts: taking up oxygen and giving out carbon dioxide.
+
+You can see the result by comparing the air we breathe in with the air we breathe out:
+
+| Gas | Inhaled air | Exhaled air |
+| Oxygen | about 21% | about 16% |
+| Carbon dioxide | about 0.04% | about 4% |
+| Nitrogen | about 78% | about 78% |
+| Water vapour | varies | much more |
+
+**The journey of oxygen**
+- Fresh air in an alveolus has much more oxygen than the blood arriving in the capillary. So oxygen diffuses across the two thin walls into the blood.
+- In the blood, oxygen travels in two ways. A **small amount** dissolves in the **plasma**. **Most** of it joins loosely to the iron part of **haemoglobin** in the red blood cells and forms a temporary compound, **oxyhaemoglobin**.
+- Oxyhaemoglobin lets go of its oxygen easily. When the blood reaches the capillaries of a tissue, oxygen separates, passes through the covering of the red blood cell and then the capillary wall into the **lymph** (the fluid that bathes the cells), and finally through the cell membrane into the cell.
+
+**The journey of carbon dioxide**
+- Carbon dioxide is made in the cells when food is oxidised.
+- It first passes through the cell membrane into the fluid between the cells and the lymph, and from there through the capillary wall into the blood plasma.
+- It is carried to the lungs **mainly as bicarbonate**: as **sodium bicarbonate (NaHCO₃)** in the plasma and as **potassium bicarbonate (KHCO₃)** in the red blood cells. (A smaller share travels joined to haemoglobin or simply dissolved.)
+- In the lungs the carbon dioxide is set free again, diffuses through the capillary wall and the wall of the alveolus, and leaves the body with the exhaled air.
+
+**Which blood in which vessel?** The **pulmonary artery** brings blood rich in carbon dioxide from the heart to the lungs. After the exchange, the **pulmonary veins** carry oxygen-rich blood back to the heart, which pumps it to the whole body.
+
+**Experiment: what is in the air we breathe out?**
+- **You need:** two test tubes, a 10 mL syringe without the needle, two plastic tubes (one must fit airtight on the mouth of the syringe) and clear lime water.
+- **Set up:** pour equal amounts of lime water into the two test tubes. Put one plastic tube in each, with its end under the lime water.
+- **Tube 1, ordinary air:** pull the plunger of the syringe out to the 10 mL mark, fix the syringe to the plastic tube and push the plunger in fully. Bubbles of ordinary air pass through the lime water. Do this a few more times.
+- **Tube 2, exhaled air:** put the top end of the other plastic tube in your mouth and breathe out gently through it. Take your mouth away from the tube every time you breathe in.
+- **Watch** both tubes for about 15 seconds. If you see no change, go on for 15 seconds more.
+- **Observation:** the lime water that received ordinary air stays clear. The lime water that received exhaled air turns cloudy and white like milk.
+- **Conclusion:** exhaled air contains much more carbon dioxide than ordinary air. Carbon dioxide reacts with lime water and forms tiny white particles of calcium carbonate, which do not dissolve, so the liquid looks milky.
+
+> Safety: only blow out through the tube and never suck, because lime water must not get into the mouth. Use your own clean tube and do not share it.
+## analogy
+Think of the syringe used in the experiment. When you pull the plunger back, the space inside grows, the pressure inside falls, and air (or water) rushes in through the nozzle. When you push the plunger, the space shrinks, the pressure rises, and the air is driven out. Your chest is the barrel of the syringe, your diaphragm is the plunger, and your nose is the nozzle.
+## definition
+**Inhalation (inspiration)**: drawing air into the lungs by contraction of the diaphragm and the intercostal muscles, which increases the volume of the chest cavity.
+
+**Exhalation (expiration)**: sending air out of the lungs when these muscles relax and the chest cavity returns to its normal volume.
+
+**Gas exchange**: the exchange of oxygen and carbon dioxide between the air in the alveoli and the blood in the capillaries of the lungs, by diffusion.
+
+**Oxyhaemoglobin**: the temporary (unstable) compound formed when oxygen joins loosely to the iron part of haemoglobin; it gives up its oxygen easily.
+## why
+**Why does a bigger chest pull air in?** The air in the lungs is a fixed amount of gas at that moment. Give it more room and its particles hit the walls less often, so its pressure falls. Air always flows from higher pressure to lower pressure, so outside air moves in until the two pressures are equal again. Notice the order: the chest does not swell because air enters; air enters because the chest has swelled.
+
+**Why is diffusion in the alveoli so quick?**
+- The barrier is extremely thin: only the wall of the alveolus and the wall of the capillary.
+- The surface is huge, because there are hundreds of millions of alveoli.
+- The inner surface is moist, and gases dissolve in this film before crossing.
+- Each alveolus is covered by a dense net of capillaries.
+- Breathing keeps bringing fresh air and the heart keeps bringing fresh blood, so the difference in concentration never disappears.
+
+**Why haemoglobin?** Oxygen dissolves poorly in water, so plasma alone could carry only a little. Haemoglobin lets the blood carry many times more. And because the bond is loose, the oxygen is released just where it is needed, in tissues that are short of it.
+## terms
+Inhalation (inspiration) | Breathing in; diaphragm and intercostal muscles contract
+Exhalation (expiration) | Breathing out; the same muscles relax
+Intercostal muscles | Muscles between the ribs
+Thoracic (chest) cavity | The space inside the chest that holds the lungs and heart
+External respiration | The book's name for the work of breathing
+Diffusion | Movement of a substance from higher to lower concentration (or pressure)
+Haemoglobin | Iron-containing red pigment of red blood cells that carries oxygen
+Oxyhaemoglobin | Temporary compound of haemoglobin and oxygen
+Plasma | The liquid part of blood
+Lymph | Fluid that bathes the cells; gases pass through it between blood and cells
+Bicarbonate | The main form in which CO₂ is carried (NaHCO₃ in plasma, KHCO₃ in red blood cells)
+Pulmonary artery | Vessel carrying CO₂-rich blood from the heart to the lungs
+Pulmonary vein | Vessel carrying O₂-rich blood from the lungs to the heart
+Lime water | Clear solution of calcium hydroxide, Ca(OH)₂; turns milky with CO₂
+## formula
+$$ Hb + O₂ ⇌ HbO₂
+$$ Ca(OH)₂ + CO₂ → CaCO₃ + H₂O
+! Hb = haemoglobin, HbO₂ = oxyhaemoglobin. Forward in the lungs (oxygen is picked up), backward in the tissues (oxygen is released).
+! Lime water + carbon dioxide → calcium carbonate (white, insoluble) + water. This is why exhaled air turns lime water milky.
+## visual
+Press "Breathe in" and "Breathe out" and watch the diaphragm, the ribs and the lungs. Then open "Alveolus" to follow oxygen and carbon dioxide across the thin walls, and "Lime water test" to do the experiment yourself.
+## real
+After a hard sprint on the school field you pant for a few minutes. Your working muscles have used a lot of oxygen and poured a lot of carbon dioxide into the blood. The brain senses this and orders faster, deeper breathing until the balance is restored.
+
+Breathe on a cold mirror or on your glasses and they fog up: that is the extra water vapour of exhaled air turning into tiny drops. And a person whose blood has too little haemoglobin (anaemia) gets tired and breathless quickly, because the blood cannot carry enough oxygen even though the lungs are working well. Haemoglobin needs iron, which is one reason iron-rich foods such as *kochu shak*, red amaranth and liver matter.
+## example
+Q: A resting adult breathes 15 times a minute, and about 500 mL of air moves in with each breath. How much air is breathed in (a) in one minute and (b) in one day?
+Given: breaths per minute = 15; air per breath = 500 mL
+Calculation: (a) 15 × 500 = 7500 mL = 7.5 L per minute
+(b) 7.5 × 60 × 24 = 10 800 L per day
+> 60 minutes in an hour and 24 hours in a day. The values are typical ones; they change with age, body size and activity.
+Answer: (a) about 7.5 litres every minute; (b) about 10 800 litres, that is, more than ten thousand litres of air a day.
+## example
+Q: Inhaled air has about 21% oxygen and 0.04% carbon dioxide. Exhaled air has about 16% oxygen and 4% carbon dioxide. For one breath of 500 mL, find (a) how much oxygen stays in the body and (b) how many times more carbon dioxide there is in exhaled air than in inhaled air.
+Given: breath = 500 mL; O₂: 21% in, 16% out; CO₂: 0.04% in, 4% out
+Calculation: (a) O₂ in = 21% of 500 = 105 mL; O₂ out = 16% of 500 = 80 mL; kept = 105 − 80 = 25 mL
+(b) 4 ÷ 0.04 = 100 times
+> The percentages are rounded, so the answer is an estimate.
+Answer: (a) about 25 mL of oxygen is taken up from each breath, so most of the oxygen is breathed out again; (b) exhaled air has about 100 times as much carbon dioxide as inhaled air.
+## example
+Q: In the lime water experiment, why is ordinary air also passed through a second test tube? Why does only the tube with exhaled air turn milky?
+Solution: Compare the two tubes.
+Step: Both tubes have the same lime water and both get bubbles of air. The only difference is the kind of air.
+Step: The tube with ordinary air is the **control**. It shows that bubbling alone, or ordinary air, does not make lime water milky in that short time.
+Step: Ordinary air has only about 0.04% CO₂; exhaled air has about 4%, a hundred times more. This CO₂ reacts with the calcium hydroxide: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O.
+Answer: The second tube is a control for comparison. Only exhaled air has enough carbon dioxide to form visible white calcium carbonate quickly, which proves that exhaled air contains much more CO₂ than ordinary air.
+## example
+Q: Explain the role of the diaphragm in breathing.
+Solution: Follow what happens when it contracts and when it relaxes.
+Step: The diaphragm is the muscular floor of the chest cavity, shaped like an open umbrella.
+Step: When it contracts it moves down. Together with the lifting of the ribs, this increases the volume of the chest cavity, the pressure in the lungs falls below the outside pressure, and air flows in (inhalation).
+Step: When it relaxes it rises again. The chest cavity returns to its normal volume, the pressure in the lungs rises above the outside pressure, and air is pushed out (exhalation).
+Answer: By contracting and relaxing in turn, the diaphragm changes the volume of the chest cavity and so the pressure in the lungs. That pressure difference is what moves air in and out.
+## mistakes
+x We breathe in oxygen and breathe out carbon dioxide.
+v We breathe air in and air out. Inhaled air has about 21% oxygen; exhaled air still has about 16% oxygen, but about 100 times more carbon dioxide and more water vapour.
+x Air rushes in, and that makes the chest swell.
+v The chest swells first because the muscles contract. That lowers the pressure, and then the air flows in.
+x When the diaphragm contracts it moves up.
+v When it contracts it moves down (inhalation). It moves up when it relaxes (exhalation).
+x Oxygen is carried dissolved in the blood plasma.
+v Only a little is. Most oxygen is carried by haemoglobin in the red blood cells as oxyhaemoglobin.
+x The pulmonary artery carries oxygen-rich blood because it is an artery.
+v It carries carbon dioxide-rich blood from the heart to the lungs. Oxygen-rich blood returns through the pulmonary veins.
+x Exhaled air turns lime water milky because of its water vapour.
+v The cause is carbon dioxide, which forms insoluble white calcium carbonate.
+## remember
+- Inhalation: intercostal muscles and diaphragm contract → diaphragm goes down, ribs up and out → chest volume rises → pressure in the lungs falls → air flows in.
+- Exhalation: the muscles relax → diaphragm goes up → chest volume returns to normal → pressure in the lungs rises → air rich in CO₂ and water vapour goes out.
+- Breathing is called external respiration in your book.
+- Gas exchange happens between the alveoli and the blood capillaries, by diffusion.
+- Oxygen: a little dissolved in plasma; most as oxyhaemoglobin (haemoglobin + oxygen, a temporary compound).
+- Oxygen reaches a cell through the red-cell covering → capillary wall → lymph → cell membrane.
+- Carbon dioxide: mainly as bicarbonate, NaHCO₃ in plasma and KHCO₃ in red blood cells.
+- Exhaled air turns clear lime water milky, because it has much more CO₂ than ordinary air.
+## think
+A model lung is made from a plastic bottle: a balloon hangs inside from the neck, and a rubber sheet is tied over the cut-off bottom. Pulling the sheet down makes the balloon swell. What will happen if a small hole is made in the side of the bottle, and what does this tell you about why the chest must be a closed box?
+## quiz
+? What happens to the diaphragm when we breathe in?
+- It relaxes and moves up
+* It contracts and moves down
+- It contracts and moves up
+- It does not move
+= Contraction pulls the diaphragm down, the chest volume increases and air flows in.
+? By which process do gases pass between the alveoli and the blood?
+- Osmosis
+- Active transport
+* Diffusion
+- Filtration
+= Each gas moves from where its pressure (concentration) is higher to where it is lower.
+? In which form is most of the oxygen carried in the blood?
+* As oxyhaemoglobin
+- Dissolved in plasma
+- As sodium bicarbonate
+- As carbonic acid
+= Most oxygen joins loosely to the iron part of haemoglobin in the red blood cells.
+? In which form is carbon dioxide mainly carried to the lungs?
+- As oxyhaemoglobin
+- As calcium carbonate
+- As glucose
+* As bicarbonate
+= Mainly as NaHCO₃ in the plasma and KHCO₃ in the red blood cells.
+? Why does exhaled air turn lime water milky?
+- It is warm
+- It contains much water vapour
+* It contains much carbon dioxide
+- It contains no oxygen
+= CO₂ reacts with calcium hydroxide and forms white, insoluble calcium carbonate.
+== bn
+## what
+**শ্বাসক্রিয়ার** দুটি ধাপ: **প্রশ্বাস**, যখন মধ্যচ্ছদা ও পাঁজরের মাঝের পেশি সংকুচিত হয় আর ফুসফুসে বাতাস ঢোকে; এবং **নিঃশ্বাস**, যখন এরা শিথিল হয় আর বাতাস বেরিয়ে যায়। বায়ুথলিতে **ব্যাপন** প্রক্রিয়ায় অক্সিজেন বাতাস থেকে রক্তে যায় আর কার্বন ডাই-অক্সাইড রক্ত থেকে বাতাসে আসে। রক্ত বেশির ভাগ অক্সিজেন বহন করে **অক্সিহিমোগ্লোবিন** রূপে, আর বেশির ভাগ কার্বন ডাই-অক্সাইড বহন করে **বাইকার্বোনেট** রূপে।
+## simple
+**এক মুখ খোলা একটা বন্ধ বাক্স।** শ্বাস-প্রশ্বাসের অঙ্গগুলো কেবল গলবিলের দিকে খোলা, অন্য সব দিকে বন্ধ। তাই বাতাস ফুসফুসে ঢুকতে বা বেরোতে পারে শুধু আগের পাঠে শেখা পথ দিয়েই। ফুসফুস থাকে বক্ষগহ্বরের ভেতরে, যা একটা বাক্সের মতো: পাঁজর আর তার পেশি হলো দেয়াল, আর মধ্যচ্ছদা হলো মেঝে। ফুসফুসের নিজের কোনো পেশি নেই। সে শুধু বাক্সটাকে অনুসরণ করে: বাক্স বড় হলে ফুসফুস প্রসারিত হয়, বাক্স ছোট হলে আবার গুটিয়ে আসে।
+
+**প্রশ্বাস (শ্বাস গ্রহণ), ধাপে ধাপে**
+১. স্নায়ুর উদ্দীপনায় পাঁজরের মাঝের পেশি (**পিঞ্জরাস্থির মাংসপেশি**) আর **মধ্যচ্ছদা** সংকুচিত হয়।
+২. মধ্যচ্ছদা **নিচের দিকে** নামে, আর পাঁজর **ওপরে ও বাইরের দিকে** ওঠে।
+৩. বক্ষগহ্বরের আয়তন **বেড়ে যায়**, সাথে সাথে ফুসফুসও প্রসারিত হয়।
+৪. একই বাতাস এখন বেশি জায়গা পায়, তাই ফুসফুসের ভেতরের বায়ুর চাপ বাইরের বায়ুর চাপের চেয়ে **কমে যায়**।
+৫. চাপের সমতা আনতে বাইরের বাতাস নাক ও শ্বাসনালি দিয়ে ঢুকে ফুসফুস ভরে দেয়।
+
+**নিঃশ্বাস (শ্বাস ত্যাগ), ধাপে ধাপে**
+১. সংকোচনের পরপরই একই পেশিগুলো **শিথিল** হয়।
+২. মধ্যচ্ছদা আবার ওপরে উঠে গম্বুজের আকার নেয়, আর পাঁজর নিচে ও ভেতরের দিকে নামে।
+৩. বক্ষগহ্বর স্বাভাবিক, অর্থাৎ ছোট আয়তনে ফিরে আসে, আর স্থিতিস্থাপক ফুসফুস গুটিয়ে আসে।
+৪. ফুসফুসের ভেতরের বায়ুর চাপ বাইরের চাপের চেয়ে **বেড়ে যায়**।
+৫. কার্বন ডাই-অক্সাইড ও জলীয় বাষ্পসমৃদ্ধ বাতাস বাইরে বেরিয়ে যায়।
+
+| | প্রশ্বাস | নিঃশ্বাস |
+| মধ্যচ্ছদা | সংকুচিত হয়, নিচে নামে | শিথিল হয়, ওপরে ওঠে |
+| পাঁজরের পেশি | সংকুচিত; পাঁজর ওপরে ও বাইরে যায় | শিথিল; পাঁজর নিচে ও ভেতরে আসে |
+| বক্ষগহ্বরের আয়তন | বাড়ে | কমে স্বাভাবিক হয় |
+| ফুসফুসের ভেতরের চাপ | বাইরের চেয়ে কম | বাইরের চেয়ে বেশি |
+| বাতাস | ভেতরে ঢোকে | বাইরে বের হয় |
+
+সারা জীবন এক মুহূর্তও না থেমে এ কাজ চলতে থাকে; বিশ্রামে থাকা একজন প্রাপ্তবয়স্ক মানুষে মিনিটে প্রায় ১২ থেকে ১৮ বার, ছোট শিশুদের আর ব্যায়ামের সময় আরও দ্রুত। তোমার বইয়ে শ্বাসকার্যের এই কাজকে বলা হয়েছে **বহিঃশ্বসন**।
+
+> তোমার বইয়ে আছে, নিঃশ্বাসের সময় মধ্যচ্ছদা "প্রসারিত" হয়। এর অর্থ ধরে নাও "শিথিল হয়ে আবার ওপরে উঠে যায়"।
+
+**গ্যাসীয় বিনিময়।** গ্যাসীয় বিনিময় বলতে বোঝায় অক্সিজেন ও কার্বন ডাই-অক্সাইডের অদলবদল। এটি ঘটে বায়ুথলির বাতাস আর তাকে ঘিরে থাকা কৈশিকনালির রক্তের মধ্যে। সব ধরনের গ্যাসীয় বিনিময়ের মূলে আছে একটি সহজ প্রক্রিয়া, **ব্যাপন**: গ্যাস যেখানে তার চাপ (ঘনত্ব) বেশি সেখান থেকে যেখানে কম সেদিকে ছড়িয়ে পড়ে। গ্যাসীয় বিনিময়ের দুটি পর্যায়: অক্সিজেন শোষণ আর কার্বন ডাই-অক্সাইড ত্যাগ।
+
+আমরা যে বাতাস নিই আর যে বাতাস ছাড়ি, দুটো তুলনা করলেই ফলটা বোঝা যায়:
+
+| গ্যাস | প্রশ্বাসের বায়ু | নিঃশ্বাসের বায়ু |
+| অক্সিজেন | প্রায় ২১% | প্রায় ১৬% |
+| কার্বন ডাই-অক্সাইড | প্রায় ০.০৪% | প্রায় ৪% |
+| নাইট্রোজেন | প্রায় ৭৮% | প্রায় ৭৮% |
+| জলীয় বাষ্প | কমবেশি হয় | অনেক বেশি |
+
+**অক্সিজেনের যাত্রা**
+- বায়ুথলির তাজা বাতাসে অক্সিজেন থাকে কৈশিকনালিতে আসা রক্তের চেয়ে অনেক বেশি। তাই অক্সিজেন ব্যাপিত হয়ে দুটি পাতলা প্রাচীর ভেদ করে রক্তে ঢোকে।
+- রক্তে অক্সিজেন দুভাবে পরিবাহিত হয়। **সামান্য পরিমাণ** অক্সিজেন **রক্তরসে** দ্রবীভূত হয়ে যায়। **বেশির ভাগ** অক্সিজেন লোহিত রক্তকণিকার **হিমোগ্লোবিনের** লৌহ অংশের সাথে হালকা বন্ধনে যুক্ত হয়ে **অক্সিহিমোগ্লোবিন** নামে একটি অস্থায়ী যৌগ গঠন করে।
+- অক্সিহিমোগ্লোবিন থেকে অক্সিজেন সহজেই বিচ্ছিন্ন হতে পারে। রক্ত যখন কোনো টিস্যুর কৈশিকনালিতে পৌঁছায়, তখন অক্সিজেন আলাদা হয়ে প্রথমে লোহিত রক্তকণিকার আবরণ, পরে কৈশিকনালির প্রাচীর ভেদ করে **লসিকায়** (কোষকে ঘিরে থাকা তরল) ঢোকে, আর সবশেষে কোষ আবরণ ভেদ করে কোষে পৌঁছায়।
+
+**কার্বন ডাই-অক্সাইডের যাত্রা**
+- খাদ্য জারিত হওয়ার সময় কোষে কার্বন ডাই-অক্সাইড তৈরি হয়।
+- এটি প্রথমে কোষ আবরণ ভেদ করে আন্তঃকোষীয় তরল ও লসিকায় ঢোকে, সেখান থেকে কৈশিকনালির প্রাচীর ভেদ করে রক্তরসে আসে।
+- ফুসফুস পর্যন্ত এটি বাহিত হয় **প্রধানত বাইকার্বোনেট রূপে**: রক্তরসে **সোডিয়াম বাইকার্বোনেট (NaHCO₃)** হিসেবে আর লোহিত রক্তকণিকায় **পটাশিয়াম বাইকার্বোনেট (KHCO₃)** হিসেবে। (অল্প একটা অংশ যায় হিমোগ্লোবিনের সাথে যুক্ত হয়ে বা সরাসরি দ্রবীভূত অবস্থায়।)
+- ফুসফুসে পৌঁছে কার্বন ডাই-অক্সাইড আবার মুক্ত হয়, কৈশিকনালি ও বায়ুথলির প্রাচীর ভেদ করে বেরিয়ে আসে, আর নিঃশ্বাসের সাথে দেহের বাইরে চলে যায়।
+
+**কোন নালিতে কোন রক্ত?** **পালমোনারি ধমনি** হৃৎপিণ্ড থেকে কার্বন ডাই-অক্সাইডযুক্ত রক্ত ফুসফুসে নিয়ে আসে। বিনিময়ের পর **পালমোনারি শিরা** অক্সিজেনযুক্ত রক্ত হৃৎপিণ্ডে ফিরিয়ে নেয়, আর হৃৎপিণ্ড তা সারা দেহে পাঠায়।
+
+**পরীক্ষা: নিঃশ্বাসের বাতাসে কী আছে?**
+- **উপকরণ:** দুটি টেস্টটিউব, একটি ১০ mL সিরিঞ্জ (সুচ ছাড়া), দুটি প্লাস্টিকের নল (একটি যেন সিরিঞ্জের মুখে বায়ুরোধী করে আটকানো যায়) আর স্বচ্ছ চুনের পানি।
+- **সাজানো:** দুটি টেস্টটিউবে সমান পরিমাণ চুনের পানি নাও। প্রতিটিতে একটি করে নল এমনভাবে রাখো, যেন নলের এক প্রান্ত চুনের পানিতে ডুবে থাকে।
+- **টিউব ১, সাধারণ বাতাস:** সিরিঞ্জের পিস্টন টেনে ১০ mL দাগ পর্যন্ত আনো, সিরিঞ্জটি নলের মুখে আটকাও, তারপর পিস্টন পুরোটা চেপে দাও। সাধারণ বাতাস বুদ্বুদ হয়ে চুনের পানির ভেতর দিয়ে যাবে। এভাবে আরও কয়েকবার করো।
+- **টিউব ২, নিঃশ্বাসের বাতাস:** অন্য নলটির ওপরের প্রান্তে মুখ লাগিয়ে আস্তে আস্তে শ্বাস ছাড়ো। প্রতিবার শ্বাস নেওয়ার সময় নল থেকে মুখ সরিয়ে নাও।
+- দুটি টেস্টটিউবই প্রায় ১৫ সেকেন্ড **পর্যবেক্ষণ** করো। কোনো পরিবর্তন না দেখলে আরও ১৫ সেকেন্ড চালিয়ে যাও।
+- **পর্যবেক্ষণ:** যে চুনের পানিতে সাধারণ বাতাস চালনা করা হয়েছে তা স্বচ্ছই থাকে। যেটিতে নিঃশ্বাসের বাতাস চালনা করা হয়েছে তা ঘোলা হয়ে দুধের মতো সাদা হয়ে যায়।
+- **সিদ্ধান্ত:** নিঃশ্বাসের বাতাসে কার্বন ডাই-অক্সাইড সাধারণ বাতাসের তুলনায় অনেক বেশি থাকে। কার্বন ডাই-অক্সাইড চুনের পানির সাথে বিক্রিয়া করে ক্যালসিয়াম কার্বনেটের অতি ক্ষুদ্র সাদা কণা তৈরি করে, যা পানিতে দ্রবীভূত হয় না, তাই তরলটি দুধের মতো ঘোলা দেখায়।
+
+> সতর্কতা: নল দিয়ে শুধু ফুঁ দেবে, কখনো টানবে না, কারণ চুনের পানি মুখে যাওয়া চলবে না। নিজের পরিষ্কার নল ব্যবহার করো, অন্যের সাথে ভাগাভাগি কোরো না।
+## analogy
+পরীক্ষার সিরিঞ্জটার কথাই ভাবো। পিস্টন পেছনে টানলে ভেতরের জায়গা বাড়ে, ভেতরের চাপ কমে যায়, আর সরু মুখ দিয়ে বাতাস (বা পানি) হুড়মুড় করে ঢুকে পড়ে। পিস্টন চাপ দিলে জায়গা কমে, চাপ বাড়ে, বাতাস বেরিয়ে যায়। তোমার বুক হলো সিরিঞ্জের নল, মধ্যচ্ছদা হলো পিস্টন, আর নাক হলো সরু মুখটা।
+## definition
+**প্রশ্বাস (শ্বাস গ্রহণ)**: মধ্যচ্ছদা ও পিঞ্জরাস্থির মাংসপেশির সংকোচনে বক্ষগহ্বরের আয়তন বেড়ে ফুসফুসে বাতাস প্রবেশ করা।
+
+**নিঃশ্বাস (শ্বাস ত্যাগ)**: এই পেশিগুলো শিথিল হয়ে বক্ষগহ্বর স্বাভাবিক আয়তনে ফিরে এলে ফুসফুস থেকে বাতাস বেরিয়ে যাওয়া।
+
+**গ্যাসীয় বিনিময়**: ফুসফুসের বায়ুথলির বাতাস আর কৈশিকনালির রক্তের মধ্যে ব্যাপন প্রক্রিয়ায় অক্সিজেন ও কার্বন ডাই-অক্সাইডের বিনিময়।
+
+**অক্সিহিমোগ্লোবিন**: হিমোগ্লোবিনের লৌহ অংশের সাথে অক্সিজেন হালকা বন্ধনে যুক্ত হয়ে যে অস্থায়ী যৌগ গঠন করে; এটি সহজেই অক্সিজেন ছেড়ে দেয়।
+## why
+**বুক বড় হলে বাতাস ভেতরে ঢোকে কেন?** ওই মুহূর্তে ফুসফুসের ভেতরের বাতাসের পরিমাণ নির্দিষ্ট। তাকে বেশি জায়গা দিলে তার কণাগুলো দেয়ালে কম ঘন ঘন ধাক্কা দেয়, তাই চাপ কমে যায়। বাতাস সব সময় বেশি চাপ থেকে কম চাপের দিকে যায়, তাই দুই চাপ আবার সমান না হওয়া পর্যন্ত বাইরের বাতাস ভেতরে ঢুকতে থাকে। ক্রমটা লক্ষ করো: বাতাস ঢোকে বলে বুক ফোলে না; বুক ফুলেছে বলেই বাতাস ঢোকে।
+
+**বায়ুথলিতে ব্যাপন এত দ্রুত হয় কেন?**
+- বাধা অত্যন্ত পাতলা: শুধু বায়ুথলির প্রাচীর আর কৈশিকনালির প্রাচীর।
+- তল বিশাল, কারণ বায়ুথলির সংখ্যা কোটি কোটি।
+- ভেতরের তল ভেজা, আর গ্যাস এই পাতলা জলীয় স্তরে দ্রবীভূত হয়ে তারপর পার হয়।
+- প্রতিটি বায়ুথলি কৈশিকনালির ঘন জালে ঢাকা।
+- শ্বাসক্রিয়া অবিরাম তাজা বাতাস আনে, আর হৃৎপিণ্ড অবিরাম নতুন রক্ত আনে, তাই ঘনত্বের পার্থক্য কখনো ফুরায় না।
+
+**হিমোগ্লোবিন কেন?** অক্সিজেন পানিতে খুব কম দ্রবীভূত হয়, তাই শুধু রক্তরস সামান্য অক্সিজেনই বইতে পারত। হিমোগ্লোবিন থাকায় রক্ত তার বহুগুণ বেশি অক্সিজেন বইতে পারে। আর বন্ধনটা হালকা বলে অক্সিজেন ঠিক সেখানেই ছাড়া পায় যেখানে দরকার, অর্থাৎ যে টিস্যুতে অক্সিজেন কম।
+## terms
+প্রশ্বাস (Inhalation, Inspiration) | শ্বাস গ্রহণ; মধ্যচ্ছদা ও পিঞ্জরাস্থির পেশি সংকুচিত হয়
+নিঃশ্বাস (Exhalation, Expiration) | শ্বাস ত্যাগ; একই পেশিগুলো শিথিল হয়
+পিঞ্জরাস্থির মাংসপেশি (Intercostal muscles) | পাঁজরের হাড়গুলোর মাঝের পেশি
+বক্ষগহ্বর (Thoracic cavity) | বুকের ভেতরের গহ্বর, যেখানে ফুসফুস ও হৃৎপিণ্ড থাকে
+বহিঃশ্বসন (External respiration) | শ্বাসকার্যের কাজকে বইয়ে এ নামে বলা হয়েছে
+ব্যাপন (Diffusion) | বেশি ঘনত্ব (বা চাপ) থেকে কম ঘনত্বের দিকে পদার্থের চলাচল
+হিমোগ্লোবিন (Haemoglobin) | লোহিত রক্তকণিকার লৌহযুক্ত লাল রঞ্জক, যা অক্সিজেন বহন করে
+অক্সিহিমোগ্লোবিন (Oxyhaemoglobin) | হিমোগ্লোবিন ও অক্সিজেনের অস্থায়ী যৌগ
+রক্তরস (Plasma) | রক্তের তরল অংশ
+লসিকা (Lymph) | কোষকে ঘিরে থাকা তরল; রক্ত ও কোষের মধ্যে গ্যাস এর ভেতর দিয়ে যায়
+বাইকার্বোনেট (Bicarbonate) | CO₂ পরিবহণের প্রধান রূপ (রক্তরসে NaHCO₃, লোহিত রক্তকণিকায় KHCO₃)
+পালমোনারি ধমনি (Pulmonary artery) | হৃৎপিণ্ড থেকে CO₂-যুক্ত রক্ত ফুসফুসে আনে
+পালমোনারি শিরা (Pulmonary vein) | ফুসফুস থেকে O₂-যুক্ত রক্ত হৃৎপিণ্ডে নেয়
+চুনের পানি (Lime water) | ক্যালসিয়াম হাইড্রোক্সাইডের, Ca(OH)₂, স্বচ্ছ দ্রবণ; CO₂ পেলে ঘোলা হয়
+## formula
+$$ Hb + O₂ ⇌ HbO₂
+$$ Ca(OH)₂ + CO₂ → CaCO₃ + H₂O
+! Hb = হিমোগ্লোবিন, HbO₂ = অক্সিহিমোগ্লোবিন। ফুসফুসে বিক্রিয়া সামনের দিকে যায় (অক্সিজেন যুক্ত হয়), টিস্যুতে পেছনের দিকে (অক্সিজেন মুক্ত হয়)।
+! চুনের পানি + কার্বন ডাই-অক্সাইড → ক্যালসিয়াম কার্বনেট (সাদা, অদ্রবণীয়) + পানি। এ কারণেই নিঃশ্বাসের বাতাসে চুনের পানি ঘোলা হয়।
+## visual
+"শ্বাস নাও" আর "শ্বাস ছাড়ো" চেপে মধ্যচ্ছদা, পাঁজর আর ফুসফুস লক্ষ করো। এরপর "বায়ুথলি" খুলে দেখো অক্সিজেন ও কার্বন ডাই-অক্সাইড কীভাবে পাতলা প্রাচীর পার হয়, আর "চুনের পানি পরীক্ষা" খুলে পরীক্ষাটি নিজেই করো।
+## real
+স্কুলের মাঠে জোরে একটা দৌড় দেওয়ার পর কয়েক মিনিট হাঁপাতে হয়। তোমার কর্মব্যস্ত পেশি অনেক অক্সিজেন খরচ করেছে আর রক্তে অনেক কার্বন ডাই-অক্সাইড ঢেলেছে। মস্তিষ্ক তা টের পেয়ে দ্রুত ও গভীর শ্বাসের নির্দেশ দেয়, যতক্ষণ না ভারসাম্য ফেরে।
+
+ঠান্ডা আয়না বা চশমার কাচে মুখের ভাপ দিলে তা ঝাপসা হয়ে যায়: নিঃশ্বাসের বাতাসের বাড়তি জলীয় বাষ্প জমে ক্ষুদ্র পানির ফোঁটা হয়। আবার যার রক্তে হিমোগ্লোবিন খুব কম (রক্তস্বল্পতা), সে অল্পতেই ক্লান্ত হয় আর হাঁপিয়ে ওঠে, কারণ ফুসফুস ঠিকঠাক কাজ করলেও রক্ত যথেষ্ট অক্সিজেন বইতে পারে না। হিমোগ্লোবিন তৈরিতে লৌহ লাগে; কচুশাক, লালশাক, কলিজার মতো লৌহসমৃদ্ধ খাবার গুরুত্বপূর্ণ হওয়ার এটি একটি কারণ।
+## example
+প্রশ্ন: বিশ্রামে থাকা একজন প্রাপ্তবয়স্ক মানুষ মিনিটে ১৫ বার শ্বাস নেন, আর প্রতি প্রশ্বাসে প্রায় ৫০০ mL বাতাস ভেতরে যায়। (ক) এক মিনিটে ও (খ) এক দিনে তিনি কতটা বাতাস গ্রহণ করেন?
+দেওয়া আছে: মিনিটে শ্বাস = ১৫ বার; প্রতি শ্বাসে বাতাস = ৫০০ mL
+হিসাব: (ক) ১৫ × ৫০০ = ৭৫০০ mL = প্রতি মিনিটে ৭.৫ L
+(খ) ৭.৫ × ৬০ × ২৪ = প্রতি দিনে ১০ ৮০০ L
+> এক ঘণ্টায় ৬০ মিনিট আর এক দিনে ২৪ ঘণ্টা। মানগুলো সাধারণ গড় মান; বয়স, দেহের আকার ও কাজের ওপর এগুলো বদলায়।
+উত্তর: (ক) প্রতি মিনিটে প্রায় ৭.৫ লিটার; (খ) প্রায় ১০ ৮০০ লিটার, অর্থাৎ দিনে দশ হাজার লিটারেরও বেশি বাতাস।
+## example
+প্রশ্ন: প্রশ্বাসের বায়ুতে অক্সিজেন প্রায় ২১% আর কার্বন ডাই-অক্সাইড প্রায় ০.০৪%। নিঃশ্বাসের বায়ুতে অক্সিজেন প্রায় ১৬% আর কার্বন ডাই-অক্সাইড প্রায় ৪%। ৫০০ mL-এর একটি শ্বাসের জন্য বের করো (ক) কতটা অক্সিজেন দেহে থেকে যায় এবং (খ) নিঃশ্বাসের বায়ুতে কার্বন ডাই-অক্সাইড প্রশ্বাসের বায়ুর কত গুণ।
+দেওয়া আছে: শ্বাস = ৫০০ mL; O₂: নেওয়া ২১%, ছাড়া ১৬%; CO₂: নেওয়া ০.০৪%, ছাড়া ৪%
+হিসাব: (ক) নেওয়া O₂ = ৫০০-এর ২১% = ১০৫ mL; ছাড়া O₂ = ৫০০-এর ১৬% = ৮০ mL; থেকে যায় = ১০৫ − ৮০ = ২৫ mL
+(খ) ৪ ÷ ০.০৪ = ১০০ গুণ
+> শতকরা মানগুলো আসন্ন, তাই উত্তরও আনুমানিক।
+উত্তর: (ক) প্রতি শ্বাস থেকে প্রায় ২৫ mL অক্সিজেন দেহ গ্রহণ করে, অর্থাৎ বেশির ভাগ অক্সিজেন আবার বেরিয়েই যায়; (খ) নিঃশ্বাসের বায়ুতে কার্বন ডাই-অক্সাইড প্রশ্বাসের বায়ুর প্রায় ১০০ গুণ।
+## example
+প্রশ্ন: চুনের পানির পরীক্ষায় দ্বিতীয় একটি টেস্টটিউবে সাধারণ বাতাসও চালনা করা হয় কেন? শুধু নিঃশ্বাসের বাতাসের টিউবটিই ঘোলা হয় কেন?
+সমাধান: দুই টিউব তুলনা করো।
+ধাপ: দুটি টিউবেই একই চুনের পানি, দুটিতেই বাতাসের বুদ্বুদ যাচ্ছে। পার্থক্য শুধু বাতাসের ধরনে।
+ধাপ: সাধারণ বাতাসের টিউবটি হলো **নিয়ন্ত্রিত নমুনা** (control)। এটি দেখায় যে শুধু বুদ্বুদ তোলায় বা সাধারণ বাতাসে এত অল্প সময়ে চুনের পানি ঘোলা হয় না।
+ধাপ: সাধারণ বাতাসে CO₂ মাত্র প্রায় ০.০৪%; নিঃশ্বাসের বাতাসে প্রায় ৪%, অর্থাৎ একশ গুণ। এই CO₂ ক্যালসিয়াম হাইড্রোক্সাইডের সাথে বিক্রিয়া করে: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O।
+উত্তর: দ্বিতীয় টিউবটি তুলনার জন্য রাখা নিয়ন্ত্রিত নমুনা। কেবল নিঃশ্বাসের বাতাসেই এত কার্বন ডাই-অক্সাইড থাকে যে তাড়াতাড়ি চোখে পড়ার মতো সাদা ক্যালসিয়াম কার্বনেট তৈরি হয়; এতে প্রমাণ হয়, নিঃশ্বাসের বাতাসে CO₂ সাধারণ বাতাসের চেয়ে অনেক বেশি।
+## example
+প্রশ্ন: শ্বাসক্রিয়ায় মধ্যচ্ছদার ভূমিকা ব্যাখ্যা করো।
+সমাধান: এটি সংকুচিত হলে আর শিথিল হলে কী ঘটে, তা ধরে ধরে দেখো।
+ধাপ: মধ্যচ্ছদা হলো বক্ষগহ্বরের পেশিবহুল মেঝে, দেখতে খোলা ছাতার মতো।
+ধাপ: সংকুচিত হলে এটি নিচে নামে। পাঁজর ওপরে ওঠার সাথে মিলে এতে বক্ষগহ্বরের আয়তন বাড়ে, ফুসফুসের ভেতরের চাপ বাইরের চাপের চেয়ে কমে যায়, আর বাতাস ভেতরে ঢোকে (প্রশ্বাস)।
+ধাপ: শিথিল হলে এটি আবার ওপরে ওঠে। বক্ষগহ্বর স্বাভাবিক আয়তনে ফিরে আসে, ফুসফুসের ভেতরের চাপ বাইরের চেয়ে বেড়ে যায়, আর বাতাস বেরিয়ে যায় (নিঃশ্বাস)।
+উত্তর: পালা করে সংকুচিত ও শিথিল হয়ে মধ্যচ্ছদা বক্ষগহ্বরের আয়তন, আর তার ফলে ফুসফুসের ভেতরের চাপ বদলায়। এই চাপের পার্থক্যই বাতাসকে ভেতরে আনে ও বাইরে পাঠায়।
+## mistakes
+x আমরা শ্বাসে অক্সিজেন নিই আর কার্বন ডাই-অক্সাইড ছাড়ি।
+v আমরা বাতাস নিই, বাতাসই ছাড়ি। প্রশ্বাসের বায়ুতে অক্সিজেন প্রায় ২১%; নিঃশ্বাসের বায়ুতেও প্রায় ১৬% অক্সিজেন থাকে, তবে কার্বন ডাই-অক্সাইড থাকে প্রায় ১০০ গুণ বেশি, জলীয় বাষ্পও বেশি।
+x বাতাস হুড়মুড় করে ঢোকে, আর তাতেই বুক ফুলে ওঠে।
+v আগে পেশির সংকোচনে বুক ফোলে। তাতে চাপ কমে, তারপর বাতাস ঢোকে।
+x মধ্যচ্ছদা সংকুচিত হলে ওপরে ওঠে।
+v সংকুচিত হলে এটি নিচে নামে (প্রশ্বাস)। ওপরে ওঠে শিথিল হলে (নিঃশ্বাস)।
+x অক্সিজেন রক্তরসে দ্রবীভূত হয়ে পরিবাহিত হয়।
+v সামান্যই এভাবে যায়। বেশির ভাগ অক্সিজেন লোহিত রক্তকণিকার হিমোগ্লোবিন বহন করে, অক্সিহিমোগ্লোবিন রূপে।
+x পালমোনারি ধমনি যেহেতু ধমনি, তাই এতে অক্সিজেনযুক্ত রক্ত থাকে।
+v এটি হৃৎপিণ্ড থেকে কার্বন ডাই-অক্সাইডযুক্ত রক্ত ফুসফুসে আনে। অক্সিজেনযুক্ত রক্ত ফেরে পালমোনারি শিরা দিয়ে।
+x নিঃশ্বাসের বাতাসের জলীয় বাষ্পের কারণে চুনের পানি ঘোলা হয়।
+v কারণ কার্বন ডাই-অক্সাইড, যা অদ্রবণীয় সাদা ক্যালসিয়াম কার্বনেট তৈরি করে।
+## remember
+- প্রশ্বাস: পিঞ্জরাস্থির পেশি ও মধ্যচ্ছদা সংকুচিত → মধ্যচ্ছদা নিচে, পাঁজর ওপরে ও বাইরে → বক্ষগহ্বরের আয়তন বাড়ে → ফুসফুসের ভেতরের চাপ কমে → বাতাস ঢোকে।
+- নিঃশ্বাস: পেশি শিথিল → মধ্যচ্ছদা ওপরে → বক্ষগহ্বর স্বাভাবিক আয়তনে ফেরে → ফুসফুসের ভেতরের চাপ বাড়ে → CO₂ ও জলীয় বাষ্পসমৃদ্ধ বাতাস বের হয়।
+- শ্বাসকার্যকে বইয়ে বহিঃশ্বসন বলা হয়েছে।
+- গ্যাসীয় বিনিময় ঘটে বায়ুথলি ও রক্তের কৈশিকনালির মধ্যে, ব্যাপন প্রক্রিয়ায়।
+- অক্সিজেন: সামান্য অংশ রক্তরসে দ্রবীভূত; বেশির ভাগ অক্সিহিমোগ্লোবিন রূপে (হিমোগ্লোবিন + অক্সিজেন, অস্থায়ী যৌগ)।
+- অক্সিজেন কোষে পৌঁছায়: লোহিত রক্তকণিকার আবরণ → কৈশিকনালির প্রাচীর → লসিকা → কোষ আবরণ।
+- কার্বন ডাই-অক্সাইড: প্রধানত বাইকার্বোনেট রূপে, রক্তরসে NaHCO₃ আর লোহিত রক্তকণিকায় KHCO₃।
+- নিঃশ্বাসের বাতাস স্বচ্ছ চুনের পানিকে ঘোলা করে, কারণ এতে সাধারণ বাতাসের চেয়ে অনেক বেশি CO₂ থাকে।
+## think
+প্লাস্টিকের বোতল দিয়ে ফুসফুসের একটি মডেল বানানো হলো: বোতলের মুখ থেকে ভেতরে একটি বেলুন ঝুলছে, আর কাটা তলায় একটি রাবারের পর্দা বাঁধা। পর্দাটি নিচে টানলে বেলুন ফুলে ওঠে। বোতলের গায়ে ছোট একটা ছিদ্র করে দিলে কী ঘটবে, আর এ থেকে বুঝতে পারো কি, বক্ষগহ্বরকে কেন বন্ধ বাক্স হতে হয়?
+## quiz
+? প্রশ্বাসের সময় মধ্যচ্ছদার কী হয়?
+- শিথিল হয়ে ওপরে ওঠে
+* সংকুচিত হয়ে নিচে নামে
+- সংকুচিত হয়ে ওপরে ওঠে
+- নড়ে না
+= সংকোচনে মধ্যচ্ছদা নিচে নামে, বক্ষগহ্বরের আয়তন বাড়ে আর বাতাস ভেতরে ঢোকে।
+? বায়ুথলি ও রক্তের মধ্যে গ্যাস যাওয়া-আসা করে কোন প্রক্রিয়ায়?
+- অভিস্রবণ
+- সক্রিয় পরিবহণ
+* ব্যাপন
+- পরিস্রাবণ
+= প্রতিটি গ্যাস যেখানে তার চাপ (ঘনত্ব) বেশি সেখান থেকে যেখানে কম সেদিকে যায়।
+? রক্তে বেশির ভাগ অক্সিজেন কোন রূপে পরিবাহিত হয়?
+* অক্সিহিমোগ্লোবিন রূপে
+- রক্তরসে দ্রবীভূত অবস্থায়
+- সোডিয়াম বাইকার্বোনেট রূপে
+- কার্বনিক এসিড রূপে
+= বেশির ভাগ অক্সিজেন লোহিত রক্তকণিকার হিমোগ্লোবিনের লৌহ অংশের সাথে হালকা বন্ধনে যুক্ত হয়।
+? কার্বন ডাই-অক্সাইড প্রধানত কোন রূপে ফুসফুসে বাহিত হয়?
+- অক্সিহিমোগ্লোবিন রূপে
+- ক্যালসিয়াম কার্বনেট রূপে
+- গ্লুকোজ রূপে
+* বাইকার্বোনেট রূপে
+= প্রধানত রক্তরসে NaHCO₃ আর লোহিত রক্তকণিকায় KHCO₃ রূপে।
+? নিঃশ্বাসের বাতাসে চুনের পানি ঘোলা হয় কেন?
+- এটি উষ্ণ বলে
+- এতে অনেক জলীয় বাষ্প থাকে বলে
+* এতে অনেক কার্বন ডাই-অক্সাইড থাকে বলে
+- এতে অক্সিজেন থাকে না বলে
+= CO₂ ক্যালসিয়াম হাইড্রোক্সাইডের সাথে বিক্রিয়া করে সাদা, অদ্রবণীয় ক্যালসিয়াম কার্বনেট তৈরি করে।
+
+@@ 7.3
+@visual b7disease
+@related 7.2 7.2.2 10.7 3.2
+== en
+## what
+The lungs and airways can be damaged by germs, by dust and smoke in the air, and by habits such as smoking. This lesson covers five common diseases of the respiratory system: **asthma**, **bronchitis**, **pneumonia**, **tuberculosis** and **lung cancer**. Knowing their causes, symptoms, remedies and prevention can reduce much suffering and even the risk of death.
+## simple
+**Why are the lungs so easily hurt?** More than ten thousand litres of air pass through your lungs every day. With that air come viruses, bacteria, floating dust particles, smoke and chemicals. The nose and the cilia stop a great deal, but not everything. Ignorance and carelessness make things worse. So it is worth knowing the common diseases well.
+
+| Disease | What goes wrong | Caused by a germ? |
+| Asthma | airways over-react and become narrow | No |
+| Bronchitis | lining of the bronchi is inflamed | Yes (the book names bacteria); smoke and dust are the main reasons |
+| Pneumonia | air sacs of the lungs fill with fluid | Yes (bacteria, also viruses and fungi) |
+| Tuberculosis | TB bacteria slowly destroy the lungs or other organs | Yes (a bacterium); spreads through air |
+| Lung cancer | cells of the lung divide without control | No |
+
+**1. Asthma**
+
+Asthma usually comes from an **over-reaction of the body's defence (immune) system**. When some outside substance enters the lungs, the defence system reacts far more strongly than it needs to, and the small airways tighten and narrow. Often there is a history of asthma or allergy in the family. Asthma is **not contagious** and it is **not caused by a germ**.
+- **Causes:** foods that cause allergy in that person (for some people prawn, beef or hilsa), and smoke, dust or pollen entering the lungs with the air. In children a cold and cough may lead to asthma. It may get worse in a particular season or when the season changes.
+- **Symptoms:** breathing difficulty increases suddenly; the patient feels suffocated, the lips may turn blue and the veins of the neck swell; the patient tries hard to breathe and a **whistling sound** is heard in the chest; sometimes white phlegm comes up with the cough; there is **usually no fever**; while breathing in, the **skin between the ribs is pulled inwards**; the patient becomes weak.
+- **Remedy:** treatment does not cure asthma completely, but medicine gives relief. Avoid the foods that bring on breathlessness; live in a house with plenty of light and air; stay away from things that make it worse, such as animal fur and artificial fibres; take treatment as the doctor advises; avoid smoking, *gul*, *shada pata* and *jorda*; give liquid food during an attack.
+- **Prevention:** live in healthy surroundings; avoid polluted air and anything at home or at work that brings on breathlessness; always keep the prescribed medicine at hand and use it when needed.
+
+> Your book gives a warning: untrained "quack" healers sometimes treat asthma with harmful high doses of steroids. The patient feels better at once, but long-lasting and permanent harm follows. This warning is about unqualified people, not about medicines or inhalers prescribed by a registered doctor.
+
+**2. Bronchitis**
+
+Bronchitis is **inflammation of the inner lining of the bronchi**. Your book says the lining may become inflamed by a bacterial attack. A person who has had bronchitis once may get it again and again. Children and elderly people suffer from it more.
+- **Causes:** smoking, unhealthy surroundings and pollution (such as the dust and smoke of factories) are counted as the main causes. Damp, dusty weather and catching a cold can also bring it on.
+- **Symptoms:** cough, chest pain and breathing difficulty; severe pain in the chest while coughing; fever and weakness; the patient cannot eat solid food; phlegm often comes up with the cough. If cough with phlegm lasts **at least 3 months at a stretch** and this happens in **2 years running**, the patient may have **chronic bronchitis**.
+- **Remedy:** stop smoking, alcohol and tobacco in every form; get treatment as the doctor advises; keep the patient comfortably warm and in dry surroundings; give nutritious liquid and warm food such as warm milk and soup; full rest.
+- **Prevention:** give up smoking and tobacco; do not work in dust and smoke; take care that children and old people do not catch a chill.
+
+> Your book names bacteria as the germ of bronchitis, and that is the answer expected in the exam. Doctors find that short attacks of bronchitis are very often started by viruses as well.
+
+**3. Pneumonia**
+
+Pneumonia is a disease of the **lungs** themselves. The air sacs become infected and fill with a mucus-like fluid, so less oxygen can pass into the blood. Your book says it may follow a severe chill, and that it is often seen when a person catches cold after measles or bronchitis. It is a dangerous disease for **children and the elderly**.
+- **Causes:** a bacterium called **Pneumococcus** (scientific name *Streptococcus pneumoniae*) is one of the main causes. Other bacteria, viruses and fungi can cause it too. It can even start when a person chokes and fluid from the food pipe enters the windpipe.
+- **Symptoms:** mucus-like fluid collects in the lungs and forms phlegm; cough and breathing difficulty; **high fever**; chest pain; in the final stage a **rattling sound** in the chest and severe breathlessness.
+- **Remedy:** proper treatment as the doctor advises, without delay; liquid, warm, nutritious food; plenty of water to drink.
+- **Prevention:** take care that children and old people do not catch a chill; avoid smoking; live in a house with good light and air; keep the patient comfortably warm and dry.
+
+> Cold weather does not make pneumonia by itself; germs do. But a chilled, weakened body fights germs less well, which is why the book links pneumonia with catching cold.
+
+**4. Tuberculosis (TB)**
+
+Tuberculosis is a well-known **infectious disease that spreads through the air**. Sometimes it is also caught through contact with a skin wound that carries TB germs, or by drinking the milk of an infected cow. Anyone can be infected at any time, but people who are overworked, weak or undernourished, who live in damp, unhealthy places, or who live with a TB patient catch it more easily.
+- **Not only the lungs:** many of us think TB is only a lung disease. That is wrong. TB can occur in almost any part of the body, for example the intestine and the bones.
+- **Slow to show:** the signs do not appear soon after infection. They appear when the germs have overpowered the white blood cells that defend the body and have made the body weak.
+- **Cause:** usually a bacterium named *Mycobacterium tuberculosis*. Some other bacteria of the genus *Mycobacterium* can also cause it. In unhealthy living conditions the germs spread in the body very easily.
+- **Diagnosis:** sputum (phlegm) test, skin test (MT test), cyto- and histopathology tests and X-ray. Which test is done depends on the organ affected. DNA-based tests for TB germs in sputum and other samples are now available in our country.
+- **Symptoms:** loss of weight and slowly increasing weakness; **cough that usually lasts more than three weeks**; a dry, irritating cough, sometimes **with blood**; sweating at night and fever towards the afternoon or evening, though the temperature does not rise very high; pain in the chest and back; indigestion and stomach troubles.
+- **Remedy:** treatment as the doctor advises. The treatment is long, and the rules must be followed strictly. If needed the patient is sent to a hospital or sanatorium. Keep the things used by the patient separate; bury the patient's phlegm and spit in the soil; give proper treatment and enough nutritious food; **never stop the medicine without the doctor's instruction**.
+- **Prevention:** children must be given the **BCG vaccine**, within one year of birth. BCG protects children from deadly forms of TB, but it usually does not stay effective when they grow up, so a vaccine in childhood is not lifelong protection. The vaccine is given at vaccination centres all over the country.
+
+**5. Lung cancer**
+
+In cancer, cells start dividing without control (you met this in [[3.2|mitosis]]). When this happens in the lungs it is lung cancer. Your book says that among all cancers lung cancer is the most widespread, and that in our country it is the leading cause of cancer deaths among men. It adds that tuberculosis or some kinds of pneumonia can leave a wound in the lung that later turns into cancer. In simple words: long-lasting damage to the lung raises the risk.
+- **Causes:** **smoking** is one of the main causes. Air and environmental pollution, and contact at home or at work with harmful substances such as asbestos, arsenic, chromium, nickel and the dust of hard metals, can also cause it.
+- **Early symptoms:** a dry, irritating cough and chest pain lasting a long time; hoarse voice, loss of weight and loss of appetite; breathlessness like asthma and frequent fever; getting bronchitis or pneumonia again and again.
+- **Diagnosis:** at first, examination of sputum, chest X-ray, CT scan and MRI. For final confirmation, cyto- and histopathological tests.
+- **Remedy:** see a doctor without delay when the signs appear; after diagnosis take proper treatment as advised; if needed, **radiation therapy**, in which radiation destroys the cancer cells. The earlier the disease is found and treated, the better the chance of living longer.
+- **Prevention:** do not smoke or drink alcohol; do not eat too much fatty food; exercise regularly; make a habit of eating enough vegetables.
+
+**Five habits that protect your lungs**
+- Never start smoking, and keep away from other people's smoke.
+- Breathe clean air: let light and air into the house, and avoid dust and smoke.
+- Eat nutritious food so that the body's defences stay strong.
+- Make sure every baby in the family gets the BCG vaccine.
+- For a cough that lasts more than three weeks, or any trouble in breathing, go to a doctor, and finish the treatment that is given.
+## analogy
+Picture a garden hose that ends in a sponge. In **asthma** somebody squeezes the hose, so little water gets through, and then lets go again. In **bronchitis** the inside of the hose is swollen and coated with slime. In **pneumonia** the hose is fine, but the sponge at the end is already soaked, so it cannot take in anything more. The hose is your airway and the sponge is the mass of air sacs in your lung.
+## definition
+**Asthma**: a non-infectious disease in which the airways narrow because the body's defence system over-reacts to substances such as dust, smoke or pollen, causing attacks of breathlessness.
+
+**Bronchitis**: inflammation of the inner lining of the bronchi.
+
+**Pneumonia**: an infection of the lungs, caused mainly by Pneumococcus bacteria, in which mucus-like fluid collects in the lungs.
+
+**Tuberculosis**: an airborne infectious disease caused by the bacterium *Mycobacterium tuberculosis*, which can affect the lungs and other organs.
+
+**Lung cancer**: a disease in which cells of the lung divide without control.
+## why
+**Why is smoke so harmful?** First, smoke stops the cilia of the airways from beating and in time destroys them. Dust, germs and mucus are then no longer swept out; they collect, cause cough and invite infection. Second, the hot, irritating smoke keeps the lining inflamed, and that is bronchitis. Third, tobacco smoke carries chemicals that damage the control of cell division, and a cell that has lost this control can grow into cancer. The same smoke harms the people sitting near the smoker.
+
+**Why must TB medicine be taken to the very end?** After some weeks of treatment most of the bacteria are dead and the patient feels well. But a few tough bacteria are still alive. If the medicine is stopped now, these survivors multiply again, and the disease may return in a form that the same medicines can no longer cure. Finishing the full course kills them all.
+
+**Why is asthma not contagious?** No germ is involved. The trouble comes from the patient's own defence system over-reacting, so nothing can pass to another person.
+## terms
+Asthma | Attacks of breathlessness from narrowed airways; not infectious
+Bronchitis | Inflammation of the lining of the bronchi
+Chronic bronchitis | Cough with phlegm for at least 3 months, in 2 years running
+Pneumonia | Infection of the lungs with fluid collecting in them
+Pneumococcus | The bacterium that is a main cause of pneumonia
+Tuberculosis (TB) | Airborne infectious disease caused by *Mycobacterium tuberculosis*
+BCG | Vaccine given to babies to protect against tuberculosis
+Lung cancer | Uncontrolled division of cells in the lung
+Sputum (phlegm) | Mucus coughed up from the airways
+Inflammation | Redness, swelling and pain of a tissue as it reacts to harm
+Infectious disease | Disease caused by a germ that can pass from one person to another
+Radiation therapy | Destroying cancer cells with radiation
+Quack | A person who treats patients without proper medical training
+## visual
+Choose a disease to see how the airway or the lung changes compared with a healthy one, then tap "Cause", "Symptoms", "Remedy" and "Prevention". When you are ready, open "Which disease?" and identify the disease from the clues.
+## real
+In winter the children's wards of our hospitals fill with pneumonia patients, which is why mothers are told to keep babies warm and to take a child with fast, difficult breathing to a doctor at once. In many village kitchens food is still cooked on open fires of wood, dry leaves or cow dung, and the cook breathes that smoke for hours every day; a stove with a chimney and a well-aired kitchen protect her lungs. In cities, dust from roads, building work and brick kilns does similar harm, so many people wear masks.
+
+Look at the upper left arm of a classmate and you will probably find a small round scar. That is the mark of the BCG vaccine given soon after birth. And remember that TB can be cured: in Bangladesh it is tested and treated free of cost at government health centres, provided the patient takes the full course of medicine.
+## example
+Q: Ritu has a cough, difficulty in breathing, high fever and a rattling sound in her chest. Her brother Shuvo suddenly becomes breathless every spring: a whistling sound comes from his chest, the skin between his ribs is pulled in when he breathes in, but he has no fever. Which disease does each of them probably have? Can either disease pass to the other child?
+Solution: Match the signs with the diseases.
+Step: Ritu: cough + breathing difficulty + high fever + rattling sound in the chest are signs of **pneumonia**.
+Step: Shuvo: sudden breathlessness + whistling sound + skin between the ribs drawn in + no fever + worse in one season are signs of **asthma**.
+Step: Pneumonia is caused by germs (Pneumococcus and others). Asthma is caused by an over-reaction of the body's own defence system, not by a germ.
+Answer: Ritu probably has pneumonia and Shuvo has asthma. Asthma is not contagious, so Shuvo cannot give it to anyone. Ritu's germs can spread, so she needs a doctor's treatment quickly and careful hygiene at home.
+> Only a doctor can make the real diagnosis. In the exam you identify the disease from the signs given in your book.
+## example
+Q: Mr Karim, a smoker, had cough with phlegm for 4 months without a break last year and for 3 months this year. His neighbour Mr Rafiq had cough with phlegm for 3 weeks after catching a cold. According to the rule in your book, who may have chronic bronchitis?
+Given: Mr Karim: 4 months and 3 months in two years running; Mr Rafiq: 3 weeks, once
+Formula: chronic bronchitis = cough with phlegm for at least 3 months at a stretch, in 2 years running
+Calculation: Mr Karim: 4 ≥ 3 and 3 ≥ 3, in two successive years, so the rule is satisfied. Mr Rafiq: 3 weeks is less than 3 months, and only once, so the rule is not satisfied.
+Answer: Mr Karim may have chronic bronchitis and should see a doctor and stop smoking. Mr Rafiq's illness does not fit the rule for chronic bronchitis.
+## example
+Q: Two men work in a ship-breaking yard. Tests show that in the first man the cells of the lungs are dividing without control. In the second man a disease has spread from the lungs to the intestine and bones, and germs are found in his sputum. Name the two diseases. Which one is comparatively easier to cure, and why?
+Solution: Identify each disease, then compare how it is treated.
+Step: Uncontrolled division of lung cells is **lung cancer**. Old ships contain asbestos and metal dust, which the book lists among its causes.
+Step: A germ disease that affects the lungs and also the intestine and bones is **tuberculosis**.
+Step: TB is caused by a bacterium. Medicines taken regularly for the full, long course kill the bacteria, and the patient is cured.
+Step: In cancer the body's own cells are multiplying. Treatment (such as radiation therapy) helps most when the disease is caught early; later it is much harder.
+Answer: The first man has lung cancer and the second has tuberculosis. Tuberculosis is comparatively easier to cure, because its cause is a bacterium that the full course of medicine can destroy, while cancer can be controlled well only if it is found early.
+## example
+Q: Mina's uncle has been coughing for four weeks. He has mild fever in the evening, sweats at night and is losing weight. (a) Which disease should be suspected and what should the family do? (b) After two months of medicine he feels well and wants to stop. Is that right?
+Solution: Use the signs and the rules of treatment from your book.
+Step: (a) Cough for more than three weeks, evening fever, night sweats and loss of weight are signs of tuberculosis. He should go to a health centre, where the sputum is tested.
+Step: Until then, and during treatment, his things should be kept separate and his phlegm buried in the soil, because TB spreads through the air.
+Step: (b) TB treatment is long. Feeling well does not mean that all the bacteria are dead. If he stops, the survivors can multiply and the disease can return in a form that is much harder to treat.
+Answer: (a) Tuberculosis should be suspected; he must see a doctor and have his sputum tested. (b) No. He must not stop the medicine without the doctor's instruction and must finish the full course.
+## mistakes
+x Asthma spreads from one person to another.
+v Asthma is neither contagious nor caused by a germ. It comes from an over-reaction of the body's own defence system.
+x Tuberculosis is a disease of the lungs only.
+v TB can occur in almost any part of the body, such as the intestine and the bones.
+x A child who has had the BCG vaccine is protected from TB for life.
+v BCG protects children from deadly TB, but it usually does not remain effective in adults.
+x When a TB patient feels well, the medicine can be stopped.
+v The medicine must never be stopped without the doctor's instruction; the full course must be finished.
+x Only the smoker is harmed by smoking, and only smokers get lung cancer.
+v Smoke also harms the people nearby. Polluted air, asbestos, arsenic, chromium and nickel can cause lung cancer too.
+x Pneumonia is just a bad cold.
+v Pneumonia is a serious infection of the lungs, dangerous for children and the elderly, and needs a doctor's treatment.
+## remember
+- Asthma: over-reaction of the defence system; not contagious, no germ; sudden breathlessness, whistling sound, usually no fever, skin between ribs drawn in; not fully curable but controlled with medicine.
+- Bronchitis: inflammation of the lining of the bronchi; the book names bacteria; main causes smoking, dust and smoke. Chronic: cough with phlegm for 3 months at a stretch in 2 years running.
+- Pneumonia: lung infection, mainly by Pneumococcus; high fever, cough, phlegm, rattling sound in the chest; dangerous for children and the elderly.
+- Tuberculosis: airborne, caused by *Mycobacterium tuberculosis*; can affect any organ; cough for more than 3 weeks, evening fever, night sweats, weight loss; long treatment that must be completed; BCG vaccine within one year of birth.
+- Lung cancer: uncontrolled division of lung cells; smoking is a main cause, also asbestos, arsenic, chromium, nickel; early detection matters; radiation therapy.
+- Best protection: no smoking, clean air, an airy home, nutritious food, vaccination and early treatment.
+## think
+A tea-stall owner says, "I have smoked for twenty years and I am fine. And my smoke harms nobody but me." Using what you have learnt about cilia, bronchitis and lung cancer, how would you answer him politely?
+## quiz
+? Which of these diseases is NOT caused by a germ and is not contagious?
+- Tuberculosis
+- Pneumonia
+* Asthma
+- Bronchitis
+= Asthma comes from an over-reaction of the body's own defence system, so it cannot spread to others.
+? According to your textbook, infection by which kind of organism causes bronchitis?
+- Fungus
+* Bacteria
+- Amoeba
+- Virus
+= The book names bacteria. (Doctors find that viruses also often start short attacks of bronchitis.)
+? Pneumococcus is one of the main causes of:
+- Asthma
+- Lung cancer
+- Tuberculosis
+* Pneumonia
+= Pneumonia is caused mainly by Pneumococcus bacteria; other bacteria, viruses and fungi can also cause it.
+? Cough for more than three weeks, mild fever in the evening, night sweats and loss of weight suggest:
+* Tuberculosis
+- Asthma
+- Bronchitis
+- A common cold
+= These are the typical signs of TB. The sputum should be tested without delay.
+? Which is counted as one of the main causes of lung cancer?
+- Eating vegetables
+- Regular exercise
+- BCG vaccine
+* Smoking
+= Smoking is a main cause; pollutants such as asbestos, arsenic, chromium and nickel are others.
+== bn
+## what
+রোগজীবাণু, বাতাসের ধুলা ও ধোঁয়া, আর ধূমপানের মতো অভ্যাসে ফুসফুস ও শ্বাসপথ ক্ষতিগ্রস্ত হতে পারে। এই পাঠে শ্বসনতন্ত্রের পাঁচটি পরিচিত রোগ নিয়ে জানবে: **হাঁপানি (অ্যাজমা)**, **ব্রংকাইটিস**, **নিউমোনিয়া**, **যক্ষ্মা** ও **ফুসফুসের ক্যান্সার**। এদের কারণ, লক্ষণ, প্রতিকার ও প্রতিরোধ জানা থাকলে অনেক কষ্ট, এমনকি মৃত্যুঝুঁকিও অনেকটা কমানো যায়।
+## simple
+**ফুসফুসের এত সহজে ক্ষতি হয় কেন?** প্রতিদিন তোমার ফুসফুসের ভেতর দিয়ে দশ হাজার লিটারেরও বেশি বাতাস যাওয়া-আসা করে। সেই বাতাসের সাথে আসে ভাইরাস, ব্যাকটেরিয়া, ভাসমান ধূলিকণা, ধোঁয়া আর নানা রাসায়নিক। নাক আর সিলিয়া অনেকটাই আটকায়, কিন্তু সবটা নয়। অজ্ঞতা আর অসাবধানতা অবস্থা আরও খারাপ করে। তাই পরিচিত রোগগুলো ভালোভাবে জেনে রাখা দরকার।
+
+| রোগ | কী সমস্যা হয় | জীবাণুঘটিত? |
+| হাঁপানি | শ্বাসপথ অতিরিক্ত প্রতিক্রিয়া দেখিয়ে সরু হয়ে যায় | না |
+| ব্রংকাইটিস | ব্রংকাসের ভেতরের আবরণে প্রদাহ হয় | হ্যাঁ (বইয়ে ব্যাকটেরিয়ার কথা আছে); প্রধান কারণ ধোঁয়া ও ধুলা |
+| নিউমোনিয়া | ফুসফুসের বায়ুথলিতে তরল জমে | হ্যাঁ (ব্যাকটেরিয়া, এছাড়া ভাইরাস ও ছত্রাক) |
+| যক্ষ্মা | যক্ষ্মার ব্যাকটেরিয়া ধীরে ধীরে ফুসফুস বা অন্য অঙ্গের ক্ষতি করে | হ্যাঁ (ব্যাকটেরিয়া); বায়ুবাহিত |
+| ফুসফুসের ক্যান্সার | ফুসফুসের কোষ অনিয়ন্ত্রিতভাবে বিভাজিত হয় | না |
+
+**১. হাঁপানি বা অ্যাজমা**
+
+হাঁপানি সাধারণত **রোগ প্রতিরোধ-ব্যবস্থার অতিরিক্ত প্রতিক্রিয়ার** ফলে হয়। বাইরের কোনো পদার্থ ফুসফুসে ঢুকলে প্রতিরোধ-ব্যবস্থার যতটুকু প্রতিক্রিয়া দেখানোর কথা, তার চেয়ে অনেক তীব্র প্রতিক্রিয়া দেখায়, আর ছোট ছোট শ্বাসপথ সংকুচিত ও সরু হয়ে যায়। অনেক ক্ষেত্রেই রোগীর বংশে হাঁপানি বা অ্যালার্জির ইতিহাস থাকে। হাঁপানি **ছোঁয়াচে নয়**, **জীবাণুবাহিত রোগও নয়**।
+- **কারণ:** যেসব খাবারে ওই ব্যক্তির অ্যালার্জি হয় (কারও কারও ক্ষেত্রে চিংড়ি, গরুর মাংস, ইলিশ মাছ), আর বাতাসের সাথে ফুসফুসে ঢোকা ধোঁয়া, ধুলাবালি বা ফুলের রেণু। শিশুদের ক্ষেত্রে সর্দি-কাশি থেকে হাঁপানি হওয়ার আশঙ্কা থাকে। বছরের বিশেষ ঋতুতে বা ঋতু পরিবর্তনের সময় এ রোগ বেড়ে যেতে পারে।
+- **লক্ষণ:** হঠাৎ শ্বাসকষ্ট বেড়ে যায়; দম বন্ধ হওয়ার মতো অবস্থা হয়, ঠোঁট নীল হয়ে যেতে পারে, গলার শিরা ফুলে ওঠে; রোগী জোরে জোরে শ্বাস নেওয়ার চেষ্টা করে আর বুকের ভেতর **বাঁশির মতো আওয়াজ** হয়; কাশির সাথে কখনো কখনো সাদা কফ বের হয়; **সাধারণত জ্বর থাকে না**; শ্বাস নেওয়ার সময় **পাঁজরের মাঝের চামড়া ভেতরের দিকে ঢুকে যায়**; রোগী দুর্বল হয়ে পড়ে।
+- **প্রতিকার:** চিকিৎসায় এ রোগ সম্পূর্ণ নিরাময় হয় না, তবে ঔষধে রোগী আরাম পায়। যেসব খাবারে শ্বাসকষ্ট বাড়ে তা না খাওয়া; আলো-বাতাসপূর্ণ ঘরে বাস করা; যেসব জিনিসের সংস্পর্শে হাঁপানি বাড়ে (যেমন পশুর লোম, কৃত্রিম আঁশ) তা এড়িয়ে চলা; ডাক্তারের পরামর্শ অনুযায়ী চিকিৎসা নেওয়া; ধূমপান, গুল, সাদা পাতা, জর্দা পরিহার করা; শ্বাসকষ্টের সময় রোগীকে তরল খাবার দেওয়া।
+- **প্রতিরোধ:** স্বাস্থ্যকর পরিবেশে বাস করা; বায়ুদূষণ এবং বাসস্থান বা কর্মক্ষেত্রে যা যা শ্বাসকষ্ট ঘটাতে পারে তা এড়িয়ে চলা; ডাক্তারের দেওয়া ঔষধ সব সময় সাথে রাখা আর প্রয়োজনমতো ব্যবহার করা।
+
+> তোমার বইয়ে একটি সতর্কবার্তা আছে: হাতুড়ে চিকিৎসকেরা অনেক সময় উচ্চমাত্রার ক্ষতিকর স্টেরয়েড দিয়ে হাঁপানির চিকিৎসা করে। এতে রোগীর কষ্ট তখনই কমে, কিন্তু দীর্ঘমেয়াদি ও অপূরণীয় ক্ষতি হয়ে যায়। এই সতর্কতা অযোগ্য লোকের চিকিৎসা নিয়ে; নিবন্ধিত ডাক্তারের দেওয়া ঔষধ বা ইনহেলার নিয়ে নয়।
+
+**২. ব্রংকাইটিস**
+
+**ব্রংকাসের ভেতরের আবরণের প্রদাহকে** ব্রংকাইটিস বলে। তোমার বইয়ে আছে, ব্যাকটেরিয়ার আক্রমণে এই ঝিল্লিতে প্রদাহ হতে পারে। একবার ব্রংকাইটিস হলে বারবার হওয়ার আশঙ্কা থাকে। শিশু ও বয়স্ক ব্যক্তিরা এ রোগে বেশি আক্রান্ত হয়।
+- **কারণ:** ধূমপান, অস্বাস্থ্যকর পরিবেশ ও দূষণ (যেমন কলকারখানার ধুলাবালি ও ধোঁয়া) এ রোগের প্রধান কারণ হিসেবে গণ্য হয়। স্যাঁতসেঁতে, ধূলিকণা মেশা আবহাওয়া আর ঠান্ডা লাগা থেকেও এ রোগ হতে পারে।
+- **লক্ষণ:** কাশি, বুকে ব্যথা ও শ্বাসকষ্ট; কাশির সময় বুকে প্রচণ্ড ব্যথা; জ্বর ও দুর্বলতা; রোগী শক্ত খাবার খেতে পারে না; কাশির সাথে অনেক সময় কফ বের হয়। যদি **একটানা কমপক্ষে ৩ মাস** কাশির সাথে কফ থাকে এবং এমন অসুস্থতা **পরপর ২ বছর** দেখা যায়, তবে রোগীর **ক্রনিক ব্রংকাইটিস** হয়ে থাকতে পারে।
+- **প্রতিকার:** ধূমপান, মদ্যপান ও সব রকম তামাক সেবন বন্ধ করা; ডাক্তারের পরামর্শ অনুযায়ী চিকিৎসা করানো; রোগীকে সহনীয় উষ্ণতা ও শুষ্ক পরিবেশে রাখা; পুষ্টিকর তরল ও গরম খাবার (যেমন গরম দুধ, স্যুপ) খাওয়ানো; পূর্ণ বিশ্রাম।
+- **প্রতিরোধ:** ধূমপান ও তামাক সেবন ত্যাগ করা; ধুলাবালি ও ধোঁয়াপূর্ণ পরিবেশে কাজ না করা; শিশু ও বয়স্কদের যেন ঠান্ডা না লাগে সেদিকে নজর রাখা।
+
+> তোমার বইয়ে ব্রংকাইটিসের জীবাণু হিসেবে ব্যাকটেরিয়ার নাম আছে, পরীক্ষায় সেটিই লিখবে। ডাক্তাররা দেখেছেন, স্বল্পমেয়াদি ব্রংকাইটিস অনেক সময় ভাইরাস থেকেও শুরু হয়।
+
+**৩. নিউমোনিয়া**
+
+নিউমোনিয়া খোদ **ফুসফুসের** রোগ। বায়ুথলিতে সংক্রমণ হয়ে সেগুলো শ্লেষ্মা-জাতীয় তরলে ভরে যায়, ফলে রক্তে কম অক্সিজেন যেতে পারে। তোমার বইয়ে আছে, অত্যধিক ঠান্ডা লাগলে এ রোগ হতে পারে, আর হাম বা ব্রংকাইটিসের পর ঠান্ডা লেগে নিউমোনিয়া হতে দেখা যায়। **শিশু ও বয়স্কদের** জন্য এটি একটি মারাত্মক রোগ।
+- **কারণ:** **নিউমোকক্কাস** নামের ব্যাকটেরিয়া (বৈজ্ঞানিক নাম *Streptococcus pneumoniae*) এ রোগের অন্যতম প্রধান কারণ। এছাড়া অন্য নানা ব্যাকটেরিয়া, ভাইরাস ও ছত্রাকের আক্রমণেও নিউমোনিয়া হতে পারে। এমনকি বিষম খেয়ে খাদ্যনালির রস শ্বাসনালিতে ঢুকলে তা থেকেও হতে পারে।
+- **লক্ষণ:** ফুসফুসে শ্লেষ্মা-জাতীয় তরল জমে কফ সৃষ্টি হয়; কাশি ও শ্বাসকষ্ট; **বেশি জ্বর**; বুকে ব্যথা; চূড়ান্ত পর্যায়ে বুকের মধ্যে **ঘড়ঘড় আওয়াজ** আর মারাত্মক শ্বাসকষ্ট।
+- **প্রতিকার:** দেরি না করে ডাক্তারের পরামর্শ অনুযায়ী সুচিকিৎসা; তরল, গরম, পুষ্টিকর খাবার; বেশি করে পানি পান করানো।
+- **প্রতিরোধ:** শিশু ও বয়স্কদের যেন ঠান্ডা না লাগে সেদিকে সতর্ক থাকা; ধূমপান পরিহার করা; আলো-বাতাসপূর্ণ ঘরে বাস করা; রোগীকে সহনীয় উষ্ণতায় ও শুষ্ক পরিবেশে রাখা।
+
+> ঠান্ডা আবহাওয়া নিজে নিউমোনিয়া তৈরি করে না; করে জীবাণু। তবে ঠান্ডায় কাবু, দুর্বল দেহ জীবাণুর সাথে ভালো লড়তে পারে না, তাই বইয়ে নিউমোনিয়ার সাথে ঠান্ডা লাগার কথা বলা হয়েছে।
+
+**৪. যক্ষ্মা (টিবি)**
+
+যক্ষ্মা একটি পরিচিত **বায়ুবাহিত সংক্রামক রোগ**। ক্ষেত্রবিশেষে যক্ষ্মার জীবাণুযুক্ত ত্বকের ক্ষতের সংস্পর্শে এলে কিংবা সংক্রমিত গরুর দুধ খেয়েও এ রোগ হতে পারে। যে কেউ যেকোনো সময় সংক্রমিত হতে পারে, তবে যারা অধিক পরিশ্রম করে, দুর্বল বা অপুষ্টিতে ভোগে, স্যাঁতসেঁতে অস্বাস্থ্যকর পরিবেশে থাকে, অথবা যক্ষ্মা রোগীর সাথে বাস করে, তারা সহজে আক্রান্ত হয়।
+- **শুধু ফুসফুসে নয়:** আমাদের অনেকের ধারণা, যক্ষ্মা শুধু ফুসফুসের রোগ। ধারণাটি ভুল। যক্ষ্মা দেহের প্রায় যেকোনো স্থানে হতে পারে, যেমন অন্ত্র ও হাড়।
+- **লক্ষণ দেরিতে প্রকাশ পায়:** দেহে জীবাণু ঢোকার পরপরই লক্ষণ প্রকাশ পায় না। জীবাণুগুলো যখন দেহের রোগ প্রতিরোধক শ্বেত রক্তকণিকাকে পরাস্ত করে দেহকে দুর্বল করে ফেলে, তখনই লক্ষণ প্রকাশ পায়।
+- **কারণ:** সাধারণত *Mycobacterium tuberculosis* নামের একটি ব্যাকটেরিয়া। তবে *Mycobacterium* গণের আরও কিছু ব্যাকটেরিয়া যক্ষ্মা সৃষ্টি করতে পারে। অস্বাস্থ্যকর পরিবেশে বাস করলে অতি সহজে দেহে এই জীবাণুর বিস্তার ঘটে।
+- **রোগ নির্ণয়:** কফ পরীক্ষা, চামড়ার পরীক্ষা (MT test), সাইটো ও হিস্টোপ্যাথলজি পরীক্ষা এবং এক্স-রে। কোন অঙ্গ আক্রান্ত, তার ওপর নির্ভর করে কোন পরীক্ষা করতে হবে। কফসহ বিভিন্ন নমুনায় যক্ষ্মার জীবাণু আছে কি না তা জানতে এখন আমাদের দেশে DNA-ভিত্তিক পরীক্ষাও চালু হয়েছে।
+- **লক্ষণ:** ওজন কমতে থাকে, শরীর আস্তে আস্তে দুর্বল হয়; **সাধারণত তিন সপ্তাহের বেশি সময় কাশি থাকে**; খুসখুসে কাশি, কখনো কখনো **কাশির সাথে রক্ত** যায়; রাতে ঘাম হয়, বিকেলের দিকে জ্বর আসে, তবে তাপমাত্রা খুব বেশি বাড়ে না; বুকে ও পিঠে ব্যথা; অজীর্ণ ও পেটের পীড়া।
+- **প্রতিকার:** ডাক্তারের পরামর্শ অনুযায়ী চিকিৎসা। এ রোগের চিকিৎসা দীর্ঘমেয়াদি, আর নিয়মগুলো কঠোরভাবে মানতে হয়। প্রয়োজনে রোগীকে হাসপাতালে বা স্যানাটোরিয়ামে পাঠানো; রোগীর ব্যবহারের সবকিছু আলাদা রাখা; রোগীর কফ ও থুতু মাটিতে পুঁতে ফেলা; উপযুক্ত চিকিৎসা ও পরিমিত পুষ্টিকর খাবারের ব্যবস্থা করা; **ডাক্তারের নির্দেশ ছাড়া কোনো অবস্থাতেই ঔষধ বন্ধ না করা**।
+- **প্রতিরোধ:** শিশুদের যক্ষ্মার প্রতিষেধক **বিসিজি টিকা** দিতে হবে, জন্মের পর এক বছর বয়সের মধ্যে। বিসিজি টিকা শিশুদের প্রাণঘাতী যক্ষ্মা থেকে সুরক্ষা দেয়, কিন্তু বড় হয়ে গেলে সাধারণত আর কার্যকর থাকে না; তাই শিশু বয়সের টিকা আজীবনের সুরক্ষা নয়। দেশের বিভিন্ন টিকাদান কেন্দ্রে এ টিকা দেওয়া হয়।
+
+**৫. ফুসফুসের ক্যান্সার**
+
+ক্যান্সারে কোষ অনিয়ন্ত্রিতভাবে বিভাজিত হতে শুরু করে ([[3.2|মাইটোসিস]] পাঠে এ কথা পেয়েছ)। ফুসফুসে এমন ঘটলে তা ফুসফুসের ক্যান্সার। তোমার বইয়ে আছে, সব ধরনের ক্যান্সারের মধ্যে ফুসফুস ক্যান্সারের প্রাদুর্ভাব সবচেয়ে বেশি, আর আমাদের দেশে পুরুষের ক্যান্সারজনিত মৃত্যুর প্রধান কারণ এটিই। বইয়ে আরও আছে, যক্ষ্মা বা কোনো কোনো ধরনের নিউমোনিয়া ফুসফুসে এক ধরনের ক্ষত সৃষ্টি করে, যা পরে ক্যান্সারে রূপ নিতে পারে। সহজ কথায়: ফুসফুসের দীর্ঘদিনের ক্ষতি ঝুঁকি বাড়ায়।
+- **কারণ:** **ধূমপান** এর অন্যতম প্রধান কারণ। বায়ু ও পরিবেশদূষণ, আর বাসস্থান বা কর্মক্ষেত্রে অ্যাসবেস্টস, আর্সেনিক, ক্রোমিয়াম, নিকেল, কঠিন ধাতুর গুঁড়ার মতো ক্ষতিকর বস্তুর সংস্পর্শে আসার কারণেও ফুসফুসে ক্যান্সার হয়।
+- **প্রাথমিক লক্ষণ:** দীর্ঘদিন ধরে খুসখুসে কাশি ও বুকে ব্যথা; ভগ্নস্বর, ওজন কমে যাওয়া ও ক্ষুধামান্দ্য; হাঁপানির মতো শ্বাসকষ্ট ও ঘন ঘন জ্বর; বারবার ব্রংকাইটিস বা নিউমোনিয়ায় আক্রান্ত হওয়া।
+- **রোগ নির্ণয়:** প্রাথমিকভাবে থুতু বা শ্লেষ্মা বিশ্লেষণ, বুকের এক্স-রে, সিটি স্ক্যান, এমআরআই। চূড়ান্ত রোগনির্ণয়ের জন্য সাইটো ও হিস্টোপ্যাথলজিক্যাল পরীক্ষা।
+- **প্রতিকার:** লক্ষণ দেখা দিলে অনতিবিলম্বে ডাক্তারের পরামর্শ নেওয়া; রোগ নির্ণয়ের পর পরামর্শ অনুযায়ী সুচিকিৎসা; প্রয়োজনে **রেডিয়েশন থেরাপি**, যেখানে বিকিরণের মাধ্যমে ক্যান্সার কোষ ধ্বংস করা হয়। রোগ যত তাড়াতাড়ি ধরা পড়ে ও চিকিৎসা শুরু হয়, বেশি দিন বেঁচে থাকার সম্ভাবনা তত বাড়ে।
+- **প্রতিরোধ:** ধূমপান ও মদ্যপান না করা; অতিরিক্ত চর্বিজাতীয় খাবার না খাওয়া; নিয়মিত ব্যায়াম করা; পরিমাণমতো শাকসবজি খাওয়ার অভ্যাস গড়ে তোলা।
+
+**ফুসফুস ভালো রাখার পাঁচটি অভ্যাস**
+- কখনো ধূমপান শুরু কোরো না, আর অন্যের ধোঁয়া থেকেও দূরে থাকো।
+- নির্মল বাতাসে শ্বাস নাও: ঘরে আলো-বাতাস ঢুকতে দাও, ধুলা ও ধোঁয়া এড়িয়ে চলো।
+- পুষ্টিকর খাবার খাও, যাতে দেহের রোগ প্রতিরোধ ক্ষমতা ভালো থাকে।
+- পরিবারের প্রতিটি শিশু যেন বিসিজি টিকা পায়, তা নিশ্চিত করো।
+- তিন সপ্তাহের বেশি কাশি থাকলে বা শ্বাস নিতে কষ্ট হলে ডাক্তারের কাছে যাও, আর যে চিকিৎসা দেওয়া হয় তা শেষ করো।
+## analogy
+বাগানে পানি দেওয়ার একটা পাইপের কথা ভাবো, যার মাথায় একটা স্পঞ্জ লাগানো। **হাঁপানিতে** কেউ পাইপটা চেপে ধরে, তাই পানি কম যায়, আবার ছেড়েও দেয়। **ব্রংকাইটিসে** পাইপের ভেতরের গা ফুলে গেছে আর পিচ্ছিল আস্তরণে ঢেকে গেছে। **নিউমোনিয়ায়** পাইপ ঠিকই আছে, কিন্তু মাথার স্পঞ্জটা আগে থেকেই ভিজে চুপচুপে, তাই আর কিছু টেনে নিতে পারে না। পাইপটা তোমার শ্বাসপথ, আর স্পঞ্জটা ফুসফুসের বায়ুথলির গুচ্ছ।
+## definition
+**হাঁপানি (অ্যাজমা)**: একটি অসংক্রামক রোগ, যাতে ধুলা, ধোঁয়া বা ফুলের রেণুর মতো পদার্থের প্রতি দেহের রোগ প্রতিরোধ-ব্যবস্থার অতিরিক্ত প্রতিক্রিয়ায় শ্বাসপথ সরু হয়ে যায় এবং থেকে থেকে শ্বাসকষ্ট হয়।
+
+**ব্রংকাইটিস**: ব্রংকাসের ভেতরের আবরণের প্রদাহ।
+
+**নিউমোনিয়া**: ফুসফুসের সংক্রমণ, যার অন্যতম প্রধান কারণ নিউমোকক্কাস ব্যাকটেরিয়া এবং যাতে ফুসফুসে শ্লেষ্মা-জাতীয় তরল জমে।
+
+**যক্ষ্মা**: *Mycobacterium tuberculosis* ব্যাকটেরিয়ার আক্রমণে সৃষ্ট বায়ুবাহিত সংক্রামক রোগ, যা ফুসফুসসহ দেহের অন্য অঙ্গেও হতে পারে।
+
+**ফুসফুসের ক্যান্সার**: যে রোগে ফুসফুসের কোষ অনিয়ন্ত্রিতভাবে বিভাজিত হয়।
+## why
+**ধোঁয়া এত ক্ষতিকর কেন?** প্রথমত, ধোঁয়া শ্বাসপথের সিলিয়ার নড়াচড়া থামিয়ে দেয়, কালক্রমে সেগুলো নষ্ট করে ফেলে। তখন ধুলা, জীবাণু ও শ্লেষ্মা আর বাইরে বেরোতে পারে না; জমে থেকে কাশি ঘটায় আর সংক্রমণ ডেকে আনে। দ্বিতীয়ত, গরম ও উত্তেজক ধোঁয়া আবরণে প্রদাহ জিইয়ে রাখে, আর সেটাই ব্রংকাইটিস। তৃতীয়ত, তামাকের ধোঁয়ায় এমন রাসায়নিক থাকে যা কোষ বিভাজনের নিয়ন্ত্রণ নষ্ট করে, আর নিয়ন্ত্রণ হারানো কোষ থেকে ক্যান্সার হতে পারে। একই ধোঁয়া ধূমপায়ীর পাশে বসা মানুষেরও ক্ষতি করে।
+
+**যক্ষ্মার ঔষধ শেষ পর্যন্ত খেতে হয় কেন?** কয়েক সপ্তাহ চিকিৎসার পর বেশির ভাগ ব্যাকটেরিয়া মরে যায়, রোগী ভালো বোধ করে। কিন্তু কিছু শক্তপোক্ত ব্যাকটেরিয়া তখনো বেঁচে থাকে। এ সময় ঔষধ বন্ধ করলে এরা আবার বংশবৃদ্ধি করে, আর রোগ এমন রূপে ফিরতে পারে যা আগের ঔষধে আর সারে না। পুরো কোর্স শেষ করলে সব জীবাণু মরে।
+
+**হাঁপানি ছোঁয়াচে নয় কেন?** এতে কোনো জীবাণু জড়িত নয়। সমস্যাটা রোগীর নিজের প্রতিরোধ-ব্যবস্থার অতিরিক্ত প্রতিক্রিয়া, তাই অন্যের দেহে যাওয়ার মতো কিছুই নেই।
+## terms
+হাঁপানি বা অ্যাজমা (Asthma) | সরু হয়ে যাওয়া শ্বাসপথের কারণে থেকে থেকে শ্বাসকষ্ট; সংক্রামক নয়
+ব্রংকাইটিস (Bronchitis) | ব্রংকাসের ভেতরের আবরণের প্রদাহ
+ক্রনিক ব্রংকাইটিস | একটানা কমপক্ষে ৩ মাস কফসহ কাশি, পরপর ২ বছর
+নিউমোনিয়া (Pneumonia) | ফুসফুসের সংক্রমণ, যাতে ফুসফুসে তরল জমে
+নিউমোকক্কাস (Pneumococcus) | নিউমোনিয়ার অন্যতম প্রধান কারণ যে ব্যাকটেরিয়া
+যক্ষ্মা (Tuberculosis, TB) | *Mycobacterium tuberculosis* ব্যাকটেরিয়াঘটিত বায়ুবাহিত সংক্রামক রোগ
+বিসিজি (BCG) | যক্ষ্মা থেকে সুরক্ষার জন্য শিশুদের দেওয়া টিকা
+ফুসফুসের ক্যান্সার (Lung cancer) | ফুসফুসের কোষের অনিয়ন্ত্রিত বিভাজন
+কফ (Sputum) | শ্বাসপথ থেকে কাশির সাথে উঠে আসা শ্লেষ্মা
+প্রদাহ (Inflammation) | ক্ষতির প্রতিক্রিয়ায় টিস্যুর লাল হওয়া, ফুলে যাওয়া ও ব্যথা
+সংক্রামক রোগ | জীবাণুঘটিত রোগ, যা একজন থেকে অন্যজনে ছড়াতে পারে
+রেডিয়েশন থেরাপি | বিকিরণের মাধ্যমে ক্যান্সার কোষ ধ্বংস করা
+হাতুড়ে চিকিৎসক | যথাযথ চিকিৎসা-শিক্ষা ছাড়াই যে ব্যক্তি রোগীর চিকিৎসা করে
+## visual
+একটি রোগ বেছে নিয়ে দেখো সুস্থ অবস্থার তুলনায় শ্বাসপথ বা ফুসফুস কীভাবে বদলে যায়, তারপর "কারণ", "লক্ষণ", "প্রতিকার" ও "প্রতিরোধ" চেপে দেখো। তৈরি হলে "কোন রোগ?" খুলে সূত্র দেখে রোগ চিনে নাও।
+## real
+শীতকালে আমাদের হাসপাতালের শিশু ওয়ার্ডগুলো নিউমোনিয়ার রোগীতে ভরে যায়; এ জন্যই মায়েদের বলা হয় শিশুকে গরম রাখতে, আর শিশু ঘন ঘন ও কষ্ট করে শ্বাস নিলে সাথে সাথে ডাক্তারের কাছে নিতে। গ্রামের অনেক রান্নাঘরে এখনো কাঠ, শুকনো পাতা বা গোবরের খোলা আগুনে রান্না হয়, আর যিনি রাঁধেন তিনি প্রতিদিন ঘণ্টার পর ঘণ্টা সেই ধোঁয়ায় শ্বাস নেন; চিমনিওয়ালা চুলা আর খোলামেলা রান্নাঘর তাঁর ফুসফুসকে রক্ষা করে। শহরে রাস্তা, নির্মাণকাজ আর ইটভাটার ধুলা একই রকম ক্ষতি করে, তাই অনেকে মাস্ক পরেন।
+
+সহপাঠীর বাম বাহুর ওপরের দিকে তাকালে সম্ভবত একটা ছোট গোল দাগ দেখতে পাবে। ওটা জন্মের পরপর দেওয়া বিসিজি টিকার চিহ্ন। আর মনে রেখো, যক্ষ্মা ভালো হয়: বাংলাদেশে সরকারি স্বাস্থ্যকেন্দ্রে বিনা মূল্যে এর পরীক্ষা ও চিকিৎসা হয়, শর্ত একটাই, রোগীকে ঔষধের পুরো কোর্স শেষ করতে হবে।
+## example
+প্রশ্ন: রিতুর কাশি, শ্বাসকষ্ট, বেশি জ্বর, আর বুকের মধ্যে ঘড়ঘড় আওয়াজ হচ্ছে। তার ভাই শুভর প্রতি বসন্তে হঠাৎ শ্বাসকষ্ট শুরু হয়: বুকের ভেতর বাঁশির মতো আওয়াজ হয়, শ্বাস নেওয়ার সময় পাঁজরের মাঝের চামড়া ভেতরে ঢুকে যায়, কিন্তু জ্বর থাকে না। কার সম্ভবত কোন রোগ হয়েছে? এদের কোনো রোগ কি একজন থেকে অন্যজনে ছড়াতে পারে?
+সমাধান: লক্ষণগুলো রোগের সাথে মিলিয়ে দেখো।
+ধাপ: রিতু: কাশি + শ্বাসকষ্ট + বেশি জ্বর + বুকে ঘড়ঘড় আওয়াজ, এগুলো **নিউমোনিয়ার** লক্ষণ।
+ধাপ: শুভ: হঠাৎ শ্বাসকষ্ট + বাঁশির মতো আওয়াজ + পাঁজরের মাঝের চামড়া ভেতরে ঢোকা + জ্বর নেই + বিশেষ ঋতুতে বাড়ে, এগুলো **হাঁপানির** লক্ষণ।
+ধাপ: নিউমোনিয়া জীবাণুঘটিত (নিউমোকক্কাস ও অন্যান্য)। হাঁপানি হয় দেহের নিজের প্রতিরোধ-ব্যবস্থার অতিরিক্ত প্রতিক্রিয়ায়, জীবাণু থেকে নয়।
+উত্তর: রিতুর সম্ভবত নিউমোনিয়া আর শুভর হাঁপানি হয়েছে। হাঁপানি ছোঁয়াচে নয়, তাই শুভর থেকে কারও হবে না। রিতুর জীবাণু ছড়াতে পারে, তাই তার দ্রুত ডাক্তারের চিকিৎসা আর বাড়িতে পরিচ্ছন্নতা দরকার।
+> আসল রোগ নির্ণয় কেবল ডাক্তারই করতে পারেন। পরীক্ষায় তুমি বইয়ে দেওয়া লক্ষণ দেখে রোগ চিহ্নিত করবে।
+## example
+প্রশ্ন: করিম সাহেব ধূমপায়ী। গত বছর একটানা ৪ মাস আর এ বছর ৩ মাস তাঁর কফসহ কাশি ছিল। তাঁর প্রতিবেশী রফিক সাহেবের ঠান্ডা লাগার পর ৩ সপ্তাহ কফসহ কাশি ছিল। বইয়ের নিয়ম অনুযায়ী কার ক্রনিক ব্রংকাইটিস হয়ে থাকতে পারে?
+দেওয়া আছে: করিম সাহেব: পরপর দুই বছরে ৪ মাস ও ৩ মাস; রফিক সাহেব: ৩ সপ্তাহ, একবার
+সূত্র: ক্রনিক ব্রংকাইটিস = একটানা কমপক্ষে ৩ মাস কফসহ কাশি, পরপর ২ বছর
+হিসাব: করিম সাহেব: ৪ ≥ ৩ এবং ৩ ≥ ৩, পরপর দুই বছরে, তাই শর্ত পূরণ হয়। রফিক সাহেব: ৩ সপ্তাহ ৩ মাসের চেয়ে কম, আর মাত্র একবার, তাই শর্ত পূরণ হয় না।
+উত্তর: করিম সাহেবের ক্রনিক ব্রংকাইটিস হয়ে থাকতে পারে; তাঁর ডাক্তার দেখানো ও ধূমপান ছেড়ে দেওয়া উচিত। রফিক সাহেবের অসুস্থতা ক্রনিক ব্রংকাইটিসের নিয়মে পড়ে না।
+## example
+প্রশ্ন: দুজন লোক জাহাজ-ভাঙা শিল্পে কাজ করেন। পরীক্ষায় দেখা গেল, প্রথমজনের ফুসফুসের কোষ অনিয়ন্ত্রিতভাবে বিভাজিত হচ্ছে। দ্বিতীয়জনের একটি রোগ ফুসফুস ছাড়িয়ে অন্ত্র ও হাড়ে ছড়িয়েছে, আর তাঁর কফে জীবাণু পাওয়া গেছে। রোগ দুটির নাম লেখো। কোনটির নিরাময় তুলনামূলকভাবে সহজ, এবং কেন?
+সমাধান: আগে প্রতিটি রোগ চিহ্নিত করো, তারপর চিকিৎসা তুলনা করো।
+ধাপ: ফুসফুসের কোষের অনিয়ন্ত্রিত বিভাজন হলো **ফুসফুসের ক্যান্সার**। পুরোনো জাহাজে অ্যাসবেস্টস ও ধাতুর গুঁড়া থাকে, বইয়ে যেগুলোকে এ রোগের কারণের মধ্যে ধরা হয়েছে।
+ধাপ: জীবাণুঘটিত যে রোগ ফুসফুসের পাশাপাশি অন্ত্র ও হাড়েও হয়, তা **যক্ষ্মা**।
+ধাপ: যক্ষ্মার কারণ একটি ব্যাকটেরিয়া। দীর্ঘ পুরো মেয়াদে নিয়মিত ঔষধ খেলে ব্যাকটেরিয়া মরে যায়, রোগী সুস্থ হয়।
+ধাপ: ক্যান্সারে দেহের নিজের কোষই বেড়ে চলে। রোগ শুরুতে ধরা পড়লে চিকিৎসা (যেমন রেডিয়েশন থেরাপি) সবচেয়ে বেশি কাজে দেয়; দেরি হলে অনেক কঠিন হয়ে পড়ে।
+উত্তর: প্রথমজনের ফুসফুসের ক্যান্সার আর দ্বিতীয়জনের যক্ষ্মা হয়েছে। যক্ষ্মার নিরাময় তুলনামূলকভাবে সহজ, কারণ এর কারণ একটি ব্যাকটেরিয়া, যাকে পুরো মেয়াদের ঔষধ ধ্বংস করতে পারে; অথচ ক্যান্সার শুরুতে ধরা পড়লেই কেবল ভালোভাবে নিয়ন্ত্রণ করা যায়।
+## example
+প্রশ্ন: মিনার চাচার চার সপ্তাহ ধরে কাশি। সন্ধ্যার দিকে হালকা জ্বর আসে, রাতে ঘাম হয়, আর ওজন কমে যাচ্ছে। (ক) কোন রোগ সন্দেহ করা উচিত, আর পরিবারের কী করা উচিত? (খ) দুই মাস ঔষধ খাওয়ার পর তিনি ভালো বোধ করছেন, ঔষধ বন্ধ করতে চান। এটা কি ঠিক?
+সমাধান: বইয়ের লক্ষণ আর চিকিৎসার নিয়ম কাজে লাগাও।
+ধাপ: (ক) তিন সপ্তাহের বেশি কাশি, সন্ধ্যায় জ্বর, রাতে ঘাম আর ওজন কমা যক্ষ্মার লক্ষণ। তাঁকে স্বাস্থ্যকেন্দ্রে নিতে হবে, সেখানে কফ পরীক্ষা করা হবে।
+ধাপ: তার আগে এবং চিকিৎসা চলার সময় তাঁর জিনিসপত্র আলাদা রাখতে হবে আর কফ মাটিতে পুঁতে ফেলতে হবে, কারণ যক্ষ্মা বায়ুবাহিত।
+ধাপ: (খ) যক্ষ্মার চিকিৎসা দীর্ঘমেয়াদি। ভালো বোধ করা মানে সব ব্যাকটেরিয়া মরে গেছে তা নয়। ঔষধ বন্ধ করলে বেঁচে থাকা জীবাণু আবার বাড়তে পারে, আর রোগ এমন রূপে ফিরতে পারে যার চিকিৎসা অনেক কঠিন।
+উত্তর: (ক) যক্ষ্মা সন্দেহ করা উচিত; তাঁকে ডাক্তার দেখাতে ও কফ পরীক্ষা করাতে হবে। (খ) না। ডাক্তারের নির্দেশ ছাড়া ঔষধ বন্ধ করা যাবে না, পুরো কোর্স শেষ করতে হবে।
+## mistakes
+x হাঁপানি একজন থেকে অন্যজনে ছড়ায়।
+v হাঁপানি ছোঁয়াচে নয়, জীবাণুবাহিত রোগও নয়। এটি হয় দেহের নিজের প্রতিরোধ-ব্যবস্থার অতিরিক্ত প্রতিক্রিয়ায়।
+x যক্ষ্মা শুধু ফুসফুসের রোগ।
+v যক্ষ্মা দেহের প্রায় যেকোনো স্থানে হতে পারে, যেমন অন্ত্র ও হাড়।
+x যে শিশু বিসিজি টিকা পেয়েছে সে আজীবন যক্ষ্মা থেকে সুরক্ষিত।
+v বিসিজি শিশুদের প্রাণঘাতী যক্ষ্মা থেকে সুরক্ষা দেয়, কিন্তু বড় হলে সাধারণত আর কার্যকর থাকে না।
+x যক্ষ্মা রোগী ভালো বোধ করলে ঔষধ বন্ধ করা যায়।
+v ডাক্তারের নির্দেশ ছাড়া কোনো অবস্থাতেই ঔষধ বন্ধ করা যাবে না; পুরো কোর্স শেষ করতে হবে।
+x ধূমপানে শুধু ধূমপায়ীরই ক্ষতি হয়, আর ফুসফুসের ক্যান্সার শুধু ধূমপায়ীদেরই হয়।
+v ধোঁয়া আশপাশের মানুষেরও ক্ষতি করে। দূষিত বায়ু, অ্যাসবেস্টস, আর্সেনিক, ক্রোমিয়াম, নিকেল থেকেও ফুসফুসের ক্যান্সার হতে পারে।
+x নিউমোনিয়া মানে একটু বেশি সর্দি-কাশি।
+v নিউমোনিয়া ফুসফুসের গুরুতর সংক্রমণ, শিশু ও বয়স্কদের জন্য মারাত্মক, আর এতে ডাক্তারের চিকিৎসা লাগে।
+## remember
+- হাঁপানি: প্রতিরোধ-ব্যবস্থার অতিরিক্ত প্রতিক্রিয়া; ছোঁয়াচে নয়, জীবাণু নেই; হঠাৎ শ্বাসকষ্ট, বাঁশির মতো আওয়াজ, সাধারণত জ্বর থাকে না, পাঁজরের মাঝের চামড়া ভেতরে ঢোকে; সম্পূর্ণ সারে না, তবে ঔষধে নিয়ন্ত্রণে থাকে।
+- ব্রংকাইটিস: ব্রংকাসের ভেতরের আবরণের প্রদাহ; বইয়ে ব্যাকটেরিয়ার কথা আছে; প্রধান কারণ ধূমপান, ধুলা ও ধোঁয়া। ক্রনিক: একটানা ৩ মাস কফসহ কাশি, পরপর ২ বছর।
+- নিউমোনিয়া: ফুসফুসের সংক্রমণ, প্রধানত নিউমোকক্কাস; বেশি জ্বর, কাশি, কফ, বুকে ঘড়ঘড় আওয়াজ; শিশু ও বয়স্কদের জন্য মারাত্মক।
+- যক্ষ্মা: বায়ুবাহিত, কারণ *Mycobacterium tuberculosis*; যেকোনো অঙ্গে হতে পারে; ৩ সপ্তাহের বেশি কাশি, বিকেলে জ্বর, রাতে ঘাম, ওজন কমা; চিকিৎসা দীর্ঘমেয়াদি ও শেষ করতেই হবে; জন্মের এক বছরের মধ্যে বিসিজি টিকা।
+- ফুসফুসের ক্যান্সার: ফুসফুসের কোষের অনিয়ন্ত্রিত বিভাজন; অন্যতম প্রধান কারণ ধূমপান, এছাড়া অ্যাসবেস্টস, আর্সেনিক, ক্রোমিয়াম, নিকেল; শুরুতে ধরা পড়া জরুরি; রেডিয়েশন থেরাপি।
+- সেরা সুরক্ষা: ধূমপান না করা, নির্মল বাতাস, আলো-বাতাসপূর্ণ ঘর, পুষ্টিকর খাবার, টিকা আর দ্রুত চিকিৎসা।
+## think
+এক চায়ের দোকানি বললেন, "বিশ বছর ধরে ধূমপান করছি, দিব্যি আছি। আর আমার ধোঁয়ায় আমার ছাড়া কারও ক্ষতি নেই।" সিলিয়া, ব্রংকাইটিস আর ফুসফুসের ক্যান্সার সম্পর্কে যা শিখেছ, তা দিয়ে তাঁকে ভদ্রভাবে কী উত্তর দেবে?
+## quiz
+? নিচের কোন রোগটি জীবাণুঘটিত নয় এবং ছোঁয়াচেও নয়?
+- যক্ষ্মা
+- নিউমোনিয়া
+* হাঁপানি
+- ব্রংকাইটিস
+= হাঁপানি হয় দেহের নিজের প্রতিরোধ-ব্যবস্থার অতিরিক্ত প্রতিক্রিয়ায়, তাই এটি অন্যের দেহে ছড়াতে পারে না।
+? তোমার পাঠ্যবই অনুযায়ী কোনটির সংক্রমণে ব্রংকাইটিস হয়?
+- ছত্রাক
+* ব্যাকটেরিয়া
+- অ্যামিবা
+- ভাইরাস
+= বইয়ে ব্যাকটেরিয়ার নাম আছে। (ডাক্তাররা দেখেছেন, স্বল্পমেয়াদি ব্রংকাইটিস অনেক সময় ভাইরাস থেকেও শুরু হয়।)
+? নিউমোকক্কাস কোন রোগের অন্যতম প্রধান কারণ?
+- হাঁপানি
+- ফুসফুসের ক্যান্সার
+- যক্ষ্মা
+* নিউমোনিয়া
+= নিউমোনিয়া প্রধানত নিউমোকক্কাস ব্যাকটেরিয়ার আক্রমণে হয়; অন্য ব্যাকটেরিয়া, ভাইরাস ও ছত্রাক থেকেও হতে পারে।
+? তিন সপ্তাহের বেশি কাশি, সন্ধ্যায় হালকা জ্বর, রাতে ঘাম আর ওজন কমে যাওয়া কোন রোগের ইঙ্গিত দেয়?
+* যক্ষ্মা
+- হাঁপানি
+- ব্রংকাইটিস
+- সাধারণ সর্দি
+= এগুলো যক্ষ্মার পরিচিত লক্ষণ। দেরি না করে কফ পরীক্ষা করানো উচিত।
+? কোনটিকে ফুসফুসের ক্যান্সারের অন্যতম প্রধান কারণ ধরা হয়?
+- শাকসবজি খাওয়া
+- নিয়মিত ব্যায়াম
+- বিসিজি টিকা
+* ধূমপান
+= ধূমপান অন্যতম প্রধান কারণ; অ্যাসবেস্টস, আর্সেনিক, ক্রোমিয়াম, নিকেলের মতো দূষকও কারণ।
