@@ -2,5 +2,10 @@
   "name": "lets-learn",
   "private": true,
   "description": "Let's Learn: Class 9-10 science in Bangla and English",
-  "engines": { "node": ">=18" }
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
 }
