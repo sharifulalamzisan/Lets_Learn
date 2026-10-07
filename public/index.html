@@ -15,6 +15,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@500;650;750&family=Hind+Siliguri:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
 <style>
 /* Layout: a ruled exercise-book page. One reading column; sticky top bar; each subject wears its textbook cover colour. */
 :root{
@@ -534,7 +535,7 @@ const UI = {
     home:"হোম", chapter:"অধ্যায়", chapters:"অধ্যায়", lessons:"পাঠ", lesson:"পাঠ", soon:"শিগগির আসছে", done:"শেষ",
     intro:"এই অধ্যায়ে কী আছে", objectives:"অধ্যায় শেষে তুমি পারবে", keyf:"গুরুত্বপূর্ণ সূত্র ও ধারণা", list:"এই অধ্যায়ের পাঠগুলো",
     markDone:"পড়া শেষ হিসেবে চিহ্নিত করো", marked:"পড়া শেষ ✓", prev:"আগের পাঠ", next:"পরের পাঠ", book:"বইয়ে", pages:"বইয়ের পৃষ্ঠা",
-    notReady:"এই পাঠটি লেখা হচ্ছে। এতে যা যা থাকবে:", noResult:"কিছু পাওয়া যায়নি। ছোট করে লেখো, বা অন্য ভাষায় খুঁজে দেখো।",
+    notReady:"এই পাঠটি লেখা হচ্ছে। এতে যা যা থাকবে:", noResult:"কিছু পাওয়া যায়নি। ছো��� করে লেখো, বা অন্য ভাষায় খুঁজে দেখো।",
     s:{what:"এটা কী?", simple:"সহজভাবে বুঝি", definition:"বৈজ্ঞানিক সংজ্ঞা", why:"কেন এমন হয়?", terms:"গুরুত্বপূর্ণ শব্দ",
        formula:"সূত্র", visual:"চোখে দেখি", real:"বাস্তব জীবনে", example:"উদাহরণ", mistakes:"সাধারণ ভুল", remember:"মনে রাখো",
        think:"ভেবে দেখো", quiz:"নিজেকে যাচাই করো", related:"সম্পর্কিত বিষয়", media:"দেখো ও ঘুরে এসো", points:"মূল পয়েন্টগুলো", matters:"কেন গুরুত্বপূর্ণ?", facts:"গুরুত্বপূর্ণ তথ্য"},
@@ -946,7 +947,7 @@ W.stopwatch = (el) => {
     else { running=false; cancelAnimationFrame(raf); const t=(performance.now()-t0)/1000; tEl.textContent = bnNum(t.toFixed(2),LANG)+" s"; b.textContent=L2("Try again","আবার চেষ্টা করো");
       const err=Math.abs(t-5); const o=$("#swo",el); o.hidden=false;
       o.innerHTML = L2(`You were off by <b>${err.toFixed(2)} s</b>. The watch measures to 0.01 s, but your hand is much less accurate. That is the book's point: the instrument is precise, the human is the limit.`,
-        `তুমি <b>${bnNum(err.toFixed(2),"bn")} s</b> এদিক-ওদিক হয়েছ। ঘড়ি ০.০১ সেকেন্ড পর্যন্ত মাপতে পারে, কিন্তু আমাদের হাত এত নিখুঁত নয়। বইয়ের কথাটাই এটা: যন্ত্র নিখুঁত, সীমাবদ্ধতা মানুষের।`); }
+        `তুমি <b>${bnNum(err.toFixed(2),"bn")} s</b> এদিক-ওদিক হয়েছ। ঘড়ি ০.০১ সেকেন্ড পর্যন্ত মাপতে পারে, কিন্তু আম���দের হাত এত নিখুঁত নয়। বইয়ের কথাটাই এটা: যন্ত্র নিখুঁত, সীমাবদ্ধতা মানুষের।`); }
   });
 };
 
