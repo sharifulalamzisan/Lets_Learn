@@ -30,11 +30,11 @@ This repo is the user's Class 9–10 study website (Bangla + English): Physics, 
   Every topic explained like a good teacher sitting beside the student, in the fixed lesson structure
   (what / simple / analogy / definition / why / terms / formula / visual / real / example / mistakes / remember / think / quiz).
   Accuracy first, never copy the book verbatim, correct book errors gently, student-friendly Bangla titles.
-- Done: Physics ch1–13, Chemistry ch1–12, Biology ch1, BGS ch3–5 (39 lessons, 35 map/diagram widgets),
+- Done: Physics ch1–13, Chemistry ch1–12, Biology ch1–14 (87 lessons, 84 widgets; finished 2026-10-07), BGS ch3–5 (39 lessons, 35 map/diagram widgets),
   landing page + logo, accounts code (login stays hidden until the
   owner connects Upstash Redis in Vercel Storage and redeploys).
 - Pending: owner's list of observations/fixes for Physics and Chemistry (he sends them one by one);
-  Biology ch2–14 (needs the book PDFs/OCR again); BGS ch1–2 and ch6–15 (shown as "coming soon"; plan in
+  BGS ch1–2 and ch6–15 (shown as "coming soon"; plan in
   `src/site/BGS_PLAN.md`; needs both BGS PDFs again, they have no text layer so OCR them, Bangla with tesseract `ben`);
   optional email verification, password reset, Privacy/Terms pages.
 
@@ -49,6 +49,9 @@ This repo is the user's Class 9–10 study website (Bangla + English): Physics, 
   (`src/site/shot2.js`). Check every worked number by calculation.
 - The `AGENT_BRIEF*.md` files still mention old paths: `/home/claude/site10/` = `src/site/`, `/home/claude/map/` = `src/map/`,
   `/home/claude/ocr/` = book OCR that is not in the repo.
+- Several chats and bots push to this repo. Before committing: `git fetch origin main`; if the remote is ahead, move onto it
+  first, then rebuild (`public/` is generated, never merge it by hand). After any automated commit (for example a Vercel
+  integration PR) check `src/site/app.html` for broken Bangla letters: `grep -c $'\xef\xbf\xbd' src/site/app.html` must be 0.
 - Shell gotchas: start local servers with `setsid nohup ... &`; do not use `pkill -f`; run at most 2–3 subagents at once.
 
 ## Bangladesh and Global Studies (BGS)
