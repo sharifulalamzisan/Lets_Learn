@@ -1,0 +1,1311 @@
+@@chapter
+== en
+## intro
+When a spoonful of old doi turns a pot of warm milk into fresh doi overnight, living bacteria are working for you. People have used living things in this way for thousands of years, long before anyone had seen a microbe. Using living organisms, their cells, or parts of their cells to make useful things is called **biotechnology**.
+
+In the last hundred years, and especially after the structure of DNA was worked out, this old craft has become a powerful science. In this last chapter you will see how thousands of identical, disease-free plantlets are raised from a tiny piece of a plant (**tissue culture**), and how a gene can be cut out of one organism and put into another (**genetic engineering**) to give insulin for diabetic patients, insect-resistant crops and bacteria that clean up oil. You will also see why this technology has to be used with care and under biosafety rules.
+## objectives
+- explain the idea and the importance of biotechnology
+- explain tissue culture and its steps
+- describe how tissue culture is used to raise and improve crops
+- explain the aims of genetic engineering
+- describe the steps of making recombinant DNA
+- describe the use of genetic engineering in developing crops
+- describe the use of genetic engineering in making insulin and other hormones
+- describe the use of biotechnology for animals, fisheries, healthcare and the environment
+- judge the usefulness of biotechnology, with its benefits and its risks
+- recognise the place of biotechnology in everyday life
+== bn
+## intro
+এক চামচ পুরোনো দই যখন এক হাঁড়ি কুসুম গরম দুধকে রাতারাতি টাটকা দই বানিয়ে ফেলে, তখন আসলে জীবন্ত ব্যাকটেরিয়া তোমার হয়ে কাজ করে। মানুষ হাজার হাজার বছর ধরে জীবকে এভাবে কাজে লাগাচ্ছে, অথচ তখন কেউ অণুজীব চোখেই দেখেনি। জীব, জীবের কোষ বা কোষের কোনো অংশকে কাজে লাগিয়ে দরকারি জিনিস তৈরি করাকেই বলে **জীবপ্রযুক্তি** বা বায়োটেকনোলজি।
+
+গত একশ বছরে, বিশেষ করে DNA-এর গঠন জানার পর, এই পুরোনো কৌশল এক শক্তিশালী বিজ্ঞানে পরিণত হয়েছে। বইয়ের এই শেষ অধ্যায়ে তুমি দেখবে উদ্ভিদের ছোট্ট এক টুকরো থেকে কীভাবে হাজার হাজার হুবহু একই রকম, রোগমুক্ত চারা তৈরি হয় (**টিস্যু কালচার**), আর কীভাবে এক জীবের একটি জিন কেটে নিয়ে অন্য জীবে বসানো হয় (**জেনেটিক ইঞ্জিনিয়ারিং** বা জিন প্রকৌশল), যা থেকে পাওয়া যায় ডায়াবেটিস রোগীর ইনসুলিন, পোকা প্রতিরোধী ফসল আর তেল পরিষ্কার করা ব্যাকটেরিয়া। সাথে এটাও দেখবে, এই প্রযুক্তি কেন সাবধানে এবং জীবনিরাপত্তা নীতিমালা মেনে ব্যবহার করতে হয়।
+## objectives
+- জীবপ্রযুক্তির ধারণা ও গুরুত্ব ব্যাখ্যা করতে পারবে
+- টিস্যু কালচার ও এর ধাপগুলো ব্যাখ্যা করতে পারবে
+- শস্য উৎপাদন ও উন্নয়নে টিস্যু কালচারের ব্যবহার বর্ণনা করতে পারবে
+- জেনেটিক ইঞ্জিনিয়ারিংয়ের উদ্দেশ্য ব্যাখ্যা করতে পারবে
+- রিকম্বিনেন্ট DNA তৈরির ধাপগুলো বর্ণনা করতে পারবে
+- শস্য উন্নয়নে জেনেটিক ইঞ্জিনিয়ারিংয়ের ব্যবহার বর্ণনা করতে পারবে
+- ইনসুলিন ও অন্যান্য হরমোন উৎপাদনে জেনেটিক ইঞ্জিনিয়ারিংয়ের ব্যবহার বর্ণনা করতে পারবে
+- প্রাণী, মৎস্য, চিকিৎসা ও পরিবেশ সুরক্ষায় জীবপ্রযুক্তির ব্যবহার বর্ণনা করতে পারবে
+- সুবিধা ও ঝুঁকি দুটোই বিবেচনা করে জীবপ্রযুক্তির উপযোগিতা মূল্যায়ন করতে পারবে
+- প্রতিদিনের জীবনে জীবপ্রযুক্তির অবদান উপলব্ধি করতে পারবে
+
+@@ 14.1
+@visual b14bio
+@related 4.3 12.1 14.2 14.3
+== en
+## what
+**Biotechnology** is the use of living things (whole organisms, their cells, or parts of their cells) to make useful products or to develop organisms with new characters. It runs from the age-old making of doi and bread to modern **tissue culture** and **genetic engineering**.
+## simple
+**You have already used it.** Last night someone in your house may have stirred a spoonful of old doi into a bowl of warm milk and covered it. By morning the milk had set into doi. Nobody cooked it and nobody added a chemical. Millions of **bacteria** from the old doi did the work. They fed on the milk sugar (lactose) and turned it into **lactic acid**. The acid makes the milk protein set, and it gives doi its sour taste.
+
+A living thing was put to work to make something we want. That, in one line, is biotechnology.
+
+**The word.** *Bio* comes from biology, the knowledge of living things, and *technology* means a practical way of getting a job done. The Hungarian engineer **Karl Ereky** first used the word "biotechnology" in **1919**.
+
+**Three things are always there.** Whenever you meet a piece of biotechnology, look for:
+
+- a **living worker**: an organism, a cell, or a part of a cell such as an enzyme or a piece of DNA;
+- a **technique** that people control;
+- a **useful result**: a product, or a new and better kind of organism.
+
+| What we get | Living worker | What the worker does |
+| Doi | lactic acid bacteria | turn milk sugar into lactic acid |
+| Bread | yeast (a one-celled fungus) | breaks down sugar and gives off carbon dioxide, which puffs up the dough |
+| Vinegar | *Acetobacter* bacteria | turn alcohol into acetic acid |
+| Disease-free potato plantlets | the potato's own cells, grown in a flask | divide and grow into whole plants |
+| Insulin for diabetes | *E. coli* bacteria or yeast carrying a human gene | make human insulin |
+
+The first three rows are thousands of years old. The last two are only a few decades old. So biotechnology comes in two kinds.
+
+**Traditional (old) biotechnology.** Biotechnology is not a new arrival in science. Your book says people learned **fermentation** and brewing about **8000 years ago**. They made bread, curd, cheese, vinegar and alcoholic drinks without knowing that microbes even existed. They only knew that the method worked. In the same way, farmers kept the seeds of their best plants and bred their best cattle year after year, and slowly changed crops and animals to suit themselves. In all of this people used whole organisms as nature gave them.
+
+You have met fermentation before: it is the [[4.3|anaerobic respiration]] of yeast and some bacteria. The microbe gets a little energy for itself, and we collect what it leaves behind.
+
+**Modern biotechnology.** Three steps in science changed everything:
+
+1. **Gregor Mendel** found the laws of heredity, and genetics was born.
+2. In **1953 Watson and Crick** described the double helix of DNA (you studied it in [[12.1|lesson 12.1]]).
+3. Scientists then understood that a gene is a stretch of DNA, and they asked a bold question: *can a gene be moved from one living cell into another?*
+
+The answer was yes. Modern biotechnology works at the level of **cells and DNA**. Its two most widely used methods are:
+
+- **tissue culture**: growing whole plants from a small piece of tissue in a sterile nutrient medium ([[14.2|next lesson]]);
+- **genetic engineering**: moving a chosen gene from one organism into another ([[14.3|lesson 14.3]]).
+
+The [[12.1.2|DNA test]] you learned about and the reading of whole genomes also belong here. Your book adds a very recent helper, **nanotechnology**: extremely tiny carriers can take a medicine straight to the diseased cells, so the cure is quicker.
+
+> Your book prints 1863 for Mendel's discovery. Mendel finished his pea experiments in 1863 and published the results in 1866, which is why lesson 12.1 gives 1866.
+
+| | Traditional | Modern |
+| Since when | thousands of years | mainly after 1953 |
+| Works with | whole organisms as they are | single cells, genes and DNA |
+| Knowledge needed | experience, trial and error | genetics, cell biology, biochemistry |
+| Examples | doi, bread, vinegar, cheese, choosing the best seeds | tissue culture, insulin from bacteria, Bt brinjal, DNA test |
+
+**Where is it used?** Your book names four big jobs: better **healthcare**, better **crop varieties**, more and better **food**, and **protecting the environment**. You will see examples of each in the next two lessons.
+
+**A proud moment for Bangladesh.** The picture at the start of this chapter in your book is about the **jute genome**. A genome is the complete set of DNA of an organism. In 2010 a team of Bangladeshi scientists led by **Dr Maqsudul Alam** read the full genome of tossa jute, and later that of deshi jute as well. Reading a genome does not change the plant. It is like getting the full map of a country: now breeders can look for the genes for finer fibre, or for standing up to pests and salty soil.
+
+**A tool, not magic.** Biotechnology is powerful, so it must be used with care. Organisms changed by genetic engineering are tested and handled under **biosafety** rules, as you will see in [[14.3|lesson 14.3]].
+## analogy
+Think of biotechnology as *hiring very tiny workers*. A sweet-maker in Bogura cannot turn milk into doi with his own hands, so he hires bacteria and gives them what good workers need: food (milk) and a comfortable warm room. That is the old way: take the workers as they come. The modern way goes one step further and *trains* the worker. Scientists hand a bacterium a new instruction sheet, a human gene, and the bacterium, which never made insulin in its life, starts making it.
+## definition
+**Biotechnology**: the technology in which a living organism, its cells, a microorganism or a part of it is used to develop a new organism (plant, animal or microorganism) with new characters, or to make processed products or by-products from that organism.
+
+**Traditional biotechnology**: the old uses of whole organisms, such as fermentation by microbes and the selective breeding of crops and animals.
+
+**Modern biotechnology**: biotechnology that works with cells and DNA, mainly tissue culture and genetic engineering.
+
+**Fermentation**: the breakdown of sugar by microbes such as yeast and bacteria, without using oxygen, into products like alcohol, carbon dioxide or lactic acid.
+## why
+**Why do microbes make these things for us?** They do not do it for us. A yeast cell deep inside dough has very little oxygen, so it gets its energy by fermentation. Sugar is broken into alcohol and carbon dioxide, and a little energy is released for the yeast. The gas is only its waste. We are the ones who find the waste useful: the bubbles raise the bread.
+
+**Why must the milk for doi be warm, not hot and not cold?** The bacteria work with enzymes, and enzymes work best at a comfortable warmth. Very hot milk kills the bacteria. In cold milk they work too slowly. That is why doi sets poorly on a cold winter night unless the pot is wrapped up.
+
+**Why did modern biotechnology have to wait for DNA?** You cannot move a gene before you know what a gene is. Only after the structure of DNA was known could scientists find a gene, cut it out and join it somewhere else.
+
+**Why is biotechnology called an applied branch of biology?** It does not study life just to understand it. It takes what genetics, microbiology, cell biology and biochemistry have found out and *applies* it to practical problems: food, medicine, and a clean environment.
+## terms
+Biotechnology | Using living things, their cells or parts of cells to make useful products or new kinds of organisms
+Traditional biotechnology | Old uses of whole organisms: fermentation, selective breeding
+Modern biotechnology | Work at the level of cells and DNA: tissue culture, genetic engineering
+Fermentation | Breakdown of sugar by microbes without oxygen, giving alcohol, carbon dioxide or lactic acid
+Brewing | Making alcoholic drinks by fermentation with yeast
+Microorganism (microbe) | A living thing too small to see without a microscope, such as a bacterium or yeast
+Yeast | A one-celled fungus used in making bread and alcohol
+Selective breeding | Choosing the best plants or animals as parents, generation after generation
+Tissue culture | Growing plant tissue in a sterile nutrient medium to get whole plants
+Genetic engineering | Changing the DNA of an organism, for example by moving a gene into it from another organism
+Genome | The complete set of DNA of an organism
+Nanotechnology | Technology of extremely tiny particles; used to carry medicine straight to diseased cells
+Biosafety | Rules for testing and handling biotechnology products so that people and the environment stay safe
+## visual
+In "Timeline", tap the dots (or press Next) to walk from the first fermented foods to Bt brinjal. In "Old or modern?", decide whether each job belongs to traditional or modern biotechnology. In "Who does the work?", pick the living worker behind each product.
+## real
+**Bogura's doi.** The famous doi of Bogura is made by a very old piece of biotechnology. Milk is boiled down, cooled until it is just warm, mixed with a little of yesterday's doi (the "seed", full of live bacteria) and left in earthen pots in a warm place. The makers are really managing a population of bacteria: feeding them, keeping them warm, and stopping them at the right time by cooling.
+
+**Gas from cow dung.** In a village biogas plant, cow dung and water are kept in a closed pit with no air. Microbes that live without oxygen break the dung down and give off a gas rich in methane, which burns in the kitchen stove. The leftover slurry is a good fertiliser. A waste has become fuel and manure, with microbes as the workers.
+
+**Friendly bacteria for pulses.** *Rhizobium* bacteria live in the root nodules of lentil, gram and soybean plants and fix nitrogen from the air. Agricultural institutes prepare these bacteria as a **biofertiliser**. Seeds are coated with it before sowing, and the farmer needs less urea.
+## example
+Q: Sort these into traditional and modern biotechnology, with a reason for each: (i) making vinegar, (ii) raising thousands of banana plantlets in flasks from one sucker tip, (iii) keeping the seeds of the best brinjal plants for next year, (iv) getting human insulin from bacteria.
+Solution: Ask one question each time: does the method use whole organisms as they are, or does it work with separated cells or with DNA?
+Step: (i) Vinegar is made by *Acetobacter* bacteria used just as they are. Traditional.
+Step: (ii) A tiny piece of tissue is grown in a sterile medium in the laboratory. This is tissue culture. Modern.
+Step: (iii) Choosing parents is selective breeding; no cell or DNA is handled. Traditional.
+Step: (iv) A human gene has been put into the bacteria. This is genetic engineering. Modern.
+Answer: Traditional: (i) and (iii). Modern: (ii) and (iv).
+## example
+Q: A baker mixes flour, water, a little sugar and yeast, and leaves the dough covered for an hour. It swells to double its size. Name the living worker, the process and the products, and explain why bread is full of small holes.
+Solution: Look for the three parts of biotechnology: worker, technique, result.
+Step: The living worker is **yeast**, a one-celled fungus.
+Step: Inside the dough there is little oxygen, so the yeast breaks down sugar by **fermentation**: sugar → alcohol + carbon dioxide + a little energy.
+Step: The carbon dioxide gas cannot escape from the sticky dough. It collects as bubbles and the dough swells.
+Step: In the oven the heat kills the yeast, the alcohol evaporates, and the bubbles stay behind as holes.
+Answer: Worker: yeast. Process: fermentation. Products: carbon dioxide (which raises the dough) and alcohol (which is lost in baking). The holes in bread are the gas bubbles made by yeast.
+> The baker leaves the dough in a warm place for the same reason that doi needs warm milk: the enzymes of the microbe work best there.
+## mistakes
+x Biotechnology is a brand-new science of the computer age.
+v People have used it for about 8000 years, in fermentation and brewing. Only the modern methods are new.
+x Biotechnology and genetic engineering mean the same thing.
+v Genetic engineering is one method of biotechnology. Tissue culture and fermentation are biotechnology too.
+x Doi sets because of a chemical added to the milk.
+v Living bacteria from the old doi turn milk sugar into lactic acid, and the acid sets the milk.
+x Only bacteria are used in biotechnology.
+v Yeast and other fungi, plant cells, animal cells, enzymes and pieces of DNA are all used.
+x Watson and Crick invented the word "biotechnology".
+v Karl Ereky coined the word in 1919. Watson and Crick described the DNA double helix in 1953.
+x Reading the genome of jute produced a genetically modified jute.
+v Reading a genome only tells us the order of the bases in the DNA. It changes nothing in the plant.
+## remember
+- Biotechnology = using living things, their cells or parts of cells to make useful products or organisms with new characters.
+- The word was coined by the Hungarian engineer Karl Ereky in 1919.
+- Traditional biotechnology: fermentation and brewing (about 8000 years old), selective breeding.
+- Modern biotechnology grew after Mendel's laws and the DNA double helix (1953).
+- Two main modern methods: tissue culture and genetic engineering.
+- Doi: lactic acid bacteria. Bread and alcohol: yeast. Vinegar: *Acetobacter* bacteria.
+- Uses: healthcare, better crops, more and better food, protecting the environment.
+- Nanotechnology can carry medicine directly to diseased cells.
+- Biotechnology is an applied branch of biology.
+## think
+Doi-makers always keep a little of today's doi as the "seed" for tomorrow. Suppose one day the seed doi is boiled by mistake before it is added to the milk. What will happen to the milk, and why? What does this tell you about the difference between a chemical and a living worker?
+## quiz
+? Who first used the word "biotechnology", and when?
+- Gregor Mendel, 1866
+* Karl Ereky, 1919
+- Watson and Crick, 1953
+- Louis Pasteur, 1919
+= The Hungarian engineer Karl Ereky coined the word in 1919. Watson and Crick described the structure of DNA in 1953.
+? Which of these is traditional biotechnology?
+- Making insulin with bacteria that carry a human gene
+- Raising orchid plantlets by tissue culture
+* Setting doi with lactic acid bacteria
+- Developing Bt brinjal
+= Doi-making uses bacteria just as they are, and is thousands of years old. The other three work with separated cells or with genes.
+? Which living thing raises bread dough?
+* Yeast
+- *Acetobacter* bacteria
+- Lactic acid bacteria
+- *Rhizobium* bacteria
+= Yeast ferments sugar and gives off carbon dioxide; the gas bubbles make the dough swell.
+? Which two methods of modern biotechnology are most widely used in agriculture and other fields?
+- Fermentation and brewing
+- Grafting and layering
+- Pollination and fertilisation
+* Tissue culture and genetic engineering
+= Your book names tissue culture and genetic engineering as the widely used methods of biotechnology today.
+? Why is biotechnology called an applied branch of biology?
+- Because it studies only plants
+* Because it uses the knowledge of biology to solve practical problems and make useful products
+- Because it needs no laboratory
+- Because it was discovered before biology
+= It applies what genetics, cell biology and microbiology have found out to food, medicine and the environment.
+== bn
+## what
+**জীবপ্রযুক্তি** বা বায়োটেকনোলজি হলো জীবকে (পুরো জীব, তার কোষ বা কোষের কোনো অংশকে) কাজে লাগিয়ে দরকারি দ্রব্য তৈরি করা বা নতুন বৈশিষ্ট্যের জীব উদ্ভাবন করার প্রযুক্তি। প্রাচীনকালের দই-পাউরুটি তৈরি থেকে শুরু করে আধুনিক **টিস্যু কালচার** ও **জেনেটিক ইঞ্জিনিয়ারিং**, সবই এর মধ্যে পড়ে।
+## simple
+**তুমি নিজেও এটা ব্যবহার করেছ।** গত রাতে হয়তো তোমার বাড়িতে কেউ এক বাটি কুসুম গরম দুধে এক চামচ পুরোনো দই মিশিয়ে ঢেকে রেখেছিলেন। সকালে দেখা গেল দুধ জমে দই হয়ে গেছে। কেউ রান্না করেনি, কোনো রাসায়নিকও মেশায়নি। কাজটা করেছে পুরোনো দইয়ের লক্ষ লক্ষ **ব্যাকটেরিয়া**। তারা দুধের চিনি (ল্যাকটোজ) খেয়ে তাকে **ল্যাকটিক অ্যাসিডে** বদলে দিয়েছে। এই অ্যাসিডই দুধের আমিষকে জমিয়ে দেয়, আর দইয়ে টক স্বাদ আনে।
+
+একটি জীবকে কাজে লাগিয়ে আমাদের দরকারি একটি জিনিস তৈরি হলো। এক লাইনে এটাই জীবপ্রযুক্তি।
+
+**শব্দটির অর্থ।** Biology মানে জীব সম্পর্কে বিশেষ জ্ঞান, আর technology মানে প্রযুক্তি, অর্থাৎ কোনো কাজ করার ব্যবহারিক কৌশল। এ দুইয়ের মিলনেই biotechnology বা জীবপ্রযুক্তি। হাঙ্গেরীয় প্রকৌশলী **কার্ল এরেকি** (Karl Ereky) **১৯১৯** সালে প্রথম এই শব্দটি ব্যবহার করেন।
+
+**তিনটি জিনিস সব সময় থাকবে।** যেখানেই জীবপ্রযুক্তি দেখবে, খুঁজে নিয়ো:
+
+- একজন **জীবন্ত কর্মী**: কোনো জীব, কোষ, বা কোষের কোনো অংশ, যেমন এনজাইম বা DNA-এর টুকরো;
+- মানুষের নিয়ন্ত্রণে থাকা একটি **কৌশল**;
+- একটি **দরকারি ফল**: কোনো দ্রব্য, অথবা নতুন ও উন্নত বৈশিষ্ট্যের কোনো জীব।
+
+| আমরা যা পাই | জীবন্ত কর্মী | কর্মী যা করে |
+| দই | ল্যাকটিক অ্যাসিড ব্যাকটেরিয়া | দুধের চিনিকে ল্যাকটিক অ্যাসিডে বদলায় |
+| পাউরুটি | ইস্ট (এককোষী ছত্রাক) | চিনি ভেঙে কার্বন ডাইঅক্সাইড ছাড়ে, তাতে ময়দার তাল ফুলে ওঠে |
+| ভিনেগার | *Acetobacter* ব্যাকটেরিয়া | অ্যালকোহলকে অ্যাসিটিক অ্যাসিডে বদলায় |
+| রোগমুক্ত আলুর চারা | ফ্লাস্কে রাখা আলুগাছের নিজের কোষ | বিভাজিত হয়ে পূর্ণাঙ্গ গাছে পরিণত হয় |
+| ডায়াবেটিসের ইনসুলিন | মানুষের জিন বহনকারী *E. coli* ব্যাকটেরিয়া বা ইস্ট | মানুষের ইনসুলিন তৈরি করে |
+
+প্রথম তিনটি সারি হাজার হাজার বছরের পুরোনো। শেষ দুটির বয়স মাত্র কয়েক দশক। তাই জীবপ্রযুক্তিকে দুই ভাগে ভাবা যায়।
+
+**প্রাচীন বা প্রচলিত জীবপ্রযুক্তি।** বিজ্ঞানের অগ্রযাত্রায় জীবপ্রযুক্তি নতুন কিছু নয়। তোমার বই বলছে, **গাঁজন** (fermentation) ও চোলাইয়ের কৌশল মানুষ প্রায় **৮০০০ বছর আগেই** রপ্ত করেছিল। অণুজীব বলে যে কিছু আছে, তা না জেনেই মানুষ রুটি, দই, পনির, ভিনেগার আর অ্যালকোহলজাতীয় পানীয় বানিয়েছে। তারা শুধু জানত, এভাবে করলে কাজ হয়। একইভাবে কৃষকেরা বছরের পর বছর সবচেয়ে ভালো গাছের বীজ রেখে দিয়েছেন, সবচেয়ে ভালো গরু থেকে বাচ্চা নিয়েছেন, আর ধীরে ধীরে ফসল ও পশুকে নিজেদের সুবিধামতো বদলে নিয়েছেন। এসব কাজে মানুষ পুরো জীবকে তার প্রাকৃতিক অবস্থাতেই ব্যবহার করেছে।
+
+গাঁজনের সাথে তোমার আগেই পরিচয় হয়েছে: এটি ইস্ট ও কিছু ব্যাকটেরিয়ার [[4.3|অবাত শ্বসন]]। অণুজীবটি নিজের জন্য একটু শক্তি পায়, আর সে যা ফেলে রাখে আমরা তা কাজে লাগাই।
+
+**আধুনিক জীবপ্রযুক্তি।** বিজ্ঞানের তিনটি ধাপ সবকিছু বদলে দেয়:
+
+1. **গ্রেগর মেন্ডেল** বংশগতির সূত্র আবিষ্কার করলেন, জন্ম হলো জেনেটিক্সের।
+2. **১৯৫৩ সালে ওয়াটসন ও ক্রিক** DNA-এর ডাবল হেলিক্স মডেল দিলেন (এটি তুমি [[12.1|১২.১ পাঠে]] পড়েছ)।
+3. এরপর বিজ্ঞানীরা বুঝলেন জিন হলো DNA-এর একটি অংশ, আর একটি সাহসী প্রশ্ন তুললেন: *একটি জিনকে কি এক জীবকোষ থেকে অন্য জীবকোষে নিয়ে যাওয়া যায়?*
+
+উত্তর হলো, যায়। আধুনিক জীবপ্রযুক্তি কাজ করে **কোষ ও DNA-এর স্তরে**। এর সবচেয়ে বেশি ব্যবহৃত দুটি পদ্ধতি:
+
+- **টিস্যু কালচার**: জীবাণুমুক্ত পুষ্টি মাধ্যমে উদ্ভিদের ছোট্ট এক টুকরো টিস্যু থেকে পূর্ণাঙ্গ গাছ তৈরি ([[14.2|পরের পাঠ]]);
+- **জেনেটিক ইঞ্জিনিয়ারিং** বা জিন প্রকৌশল: বাছাই করা একটি জিন এক জীব থেকে অন্য জীবে স্থানান্তর ([[14.3|১৪.৩ পাঠ]])।
+
+তোমার পড়া [[12.1.2|DNA টেস্ট]] আর পুরো জিনোমের তথ্য পড়ে ফেলাও আধুনিক জীবপ্রযুক্তির অংশ। তোমার বই আরও একটি নতুন সহায়কের কথা বলেছে, **ন্যানোটেকনোলজি**: অতি ক্ষুদ্র বাহকের সাহায্যে ওষুধকে সরাসরি আক্রান্ত কোষে পৌঁছে দেওয়া যায়, ফলে রোগ দ্রুত সারে।
+
+> তোমার বইয়ে মেন্ডেলের আবিষ্কারের সাল ১৮৬৩ ছাপা আছে। মেন্ডেল ১৮৬৩ সালে মটরশুঁটির পরীক্ষা শেষ করেন এবং ফলাফল প্রকাশ করেন ১৮৬৬ সালে; তাই ১২.১ পাঠে ১৮৬৬ লেখা হয়েছে।
+
+| | প্রাচীন | আধুনিক |
+| কবে থেকে | হাজার হাজার বছর | মূলত ১৯৫৩ সালের পর |
+| কী নিয়ে কাজ | পুরো জীব, যেমন আছে তেমন | আলাদা কোষ, জিন ও DNA |
+| কী জ্ঞান লাগে | অভিজ্ঞতা, বারবার চেষ্টা | জেনেটিক্স, কোষবিদ্যা, প্রাণরসায়ন |
+| উদাহরণ | দই, পাউরুটি, ভিনেগার, পনির, ভালো বীজ বাছাই | টিস্যু কালচার, ব্যাকটেরিয়া থেকে ইনসুলিন, বিটি বেগুন, DNA টেস্ট |
+
+**কোথায় কাজে লাগে?** তোমার বই চারটি বড় কাজের কথা বলেছে: উন্নত **স্বাস্থ্যসেবা**, উন্নত **ফসলের জাত**, ফসলের **পরিমাণ ও গুণ বাড়ানো**, আর **পরিবেশ সুরক্ষা**। পরের দুই পাঠে প্রতিটির উদাহরণ পাবে।
+
+**বাংলাদেশের গর্বের একটি মুহূর্ত।** তোমার বইয়ে এই অধ্যায়ের শুরুর ছবিটি **পাটের জিনোম** নিয়ে। কোনো জীবের সম্পূর্ণ DNA-কে একসাথে বলে জিনোম। ২০১০ সালে **ড. মাকসুদুল আলমের** নেতৃত্বে বাংলাদেশি বিজ্ঞানীদের একটি দল তোষা পাটের পুরো জিনোমের তথ্য উন্মোচন করেন, পরে দেশি পাটেরও। জিনোম পড়ে ফেললে গাছটি বদলে যায় না। ব্যাপারটা একটি দেশের সম্পূর্ণ মানচিত্র হাতে পাওয়ার মতো: এখন গবেষকেরা খুঁজে দেখতে পারেন কোন জিন আঁশকে মিহি করে, কোনটি পোকা বা লবণাক্ত মাটি সহ্য করতে সাহায্য করে।
+
+**এটি একটি হাতিয়ার, জাদু নয়।** জীবপ্রযুক্তি শক্তিশালী, তাই এর ব্যবহারে সাবধানতা দরকার। জেনেটিক ইঞ্জিনিয়ারিংয়ে বদলানো জীবকে **জীবনিরাপত্তা** (biosafety) নীতিমালা মেনে পরীক্ষা ও ব্যবহার করা হয়; এ নিয়ে জানবে [[14.3|১৪.৩ পাঠে]]।
+## analogy
+জীবপ্রযুক্তিকে ভাবো *খুব ছোট ছোট কর্মী কাজে লাগানো* হিসেবে। বগুড়ার দইওয়ালা নিজের হাতে দুধকে দই বানাতে পারেন না, তাই তিনি ব্যাকটেরিয়াকে কাজে লাগান, আর ভালো কর্মীর যা দরকার তা-ই দেন: খাবার (দুধ) আর আরামদায়ক উষ্ণ ঘর। এটা পুরোনো পদ্ধতি: কর্মী যেমন আছে তেমনই নেওয়া। আধুনিক পদ্ধতি আরও এক ধাপ এগিয়ে কর্মীকে *নতুন কাজ শিখিয়ে* দেয়। বিজ্ঞানীরা একটি ব্যাকটেরিয়ার হাতে নতুন একটি নির্দেশনাপত্র, মানুষের একটি জিন, তুলে দেন; আর যে ব্যাকটেরিয়া জীবনে কখনো ইনসুলিন বানায়নি, সে তা বানাতে শুরু করে।
+## definition
+**জীবপ্রযুক্তি** (Biotechnology): যে প্রযুক্তিতে কোনো জীবকোষ, অণুজীব বা তার অংশবিশেষ ব্যবহার করে নতুন বৈশিষ্ট্যসম্পন্ন কোনো জীব (উদ্ভিদ, প্রাণী বা অণুজীব) উদ্ভাবন করা হয়, অথবা সেই জীব থেকে প্রক্রিয়াজাত বা উপজাত দ্রব্য প্রস্তুত করা হয়।
+
+**প্রাচীন (প্রচলিত) জীবপ্রযুক্তি**: পুরো জীবকে কাজে লাগানোর পুরোনো কৌশল, যেমন অণুজীব দিয়ে গাঁজন এবং বাছাই করে ফসল ও পশুর প্রজনন।
+
+**আধুনিক জীবপ্রযুক্তি**: কোষ ও DNA নিয়ে কাজ করা জীবপ্রযুক্তি, প্রধানত টিস্যু কালচার ও জেনেটিক ইঞ্জিনিয়ারিং।
+
+**গাঁজন** (Fermentation): ইস্ট ও ব্যাকটেরিয়ার মতো অণুজীব অক্সিজেন ছাড়া চিনি ভেঙে অ্যালকোহল, কার্বন ডাইঅক্সাইড বা ল্যাকটিক অ্যাসিডের মতো দ্রব্য তৈরি করার প্রক্রিয়া।
+## why
+**অণুজীবেরা আমাদের জন্য এসব বানায় কেন?** আমাদের জন্য বানায় না। ময়দার তালের ভেতরে থাকা ইস্ট কোষ খুব কম অক্সিজেন পায়, তাই সে শক্তি পায় গাঁজনের মাধ্যমে। চিনি ভেঙে অ্যালকোহল ও কার্বন ডাইঅক্সাইড হয়, আর ইস্টের জন্য সামান্য শক্তি বের হয়। গ্যাসটি তার বর্জ্য মাত্র। সেই বর্জ্য কাজে লাগে আমাদের: গ্যাসের বুদবুদেই পাউরুটি ফোলে।
+
+**দই পাততে দুধ কুসুম গরম হতে হয় কেন, খুব গরম বা ঠান্ডা নয় কেন?** ব্যাকটেরিয়া কাজ করে এনজাইম দিয়ে, আর এনজাইম সবচেয়ে ভালো কাজ করে আরামদায়ক উষ্ণতায়। খুব গরম দুধে ব্যাকটেরিয়া মরে যায়। ঠান্ডা দুধে তারা খুব ধীরে কাজ করে। তাই শীতের রাতে হাঁড়ি মুড়ে না রাখলে দই ভালো জমে না।
+
+**আধুনিক জীবপ্রযুক্তিকে DNA আবিষ্কার পর্যন্ত অপেক্ষা করতে হলো কেন?** জিন কী, তা না জানলে জিন সরানো যায় না। DNA-এর গঠন জানার পরেই বিজ্ঞানীরা একটি জিন খুঁজে বের করা, কেটে আলাদা করা এবং অন্য জায়গায় জুড়ে দেওয়ার কৌশল বের করতে পেরেছেন।
+
+**জীবপ্রযুক্তিকে জীববিজ্ঞানের ফলিত শাখা বলা হয় কেন?** এটি শুধু জানার জন্য জীবনকে পড়ে না। জেনেটিক্স, অণুজীববিজ্ঞান, কোষবিদ্যা ও প্রাণরসায়ন যা জেনেছে, জীবপ্রযুক্তি তা বাস্তব সমস্যার সমাধানে *প্রয়োগ* করে: খাদ্য, ওষুধ আর পরিচ্ছন্ন পরিবেশ।
+## terms
+জীবপ্রযুক্তি (Biotechnology) | জীব, তার কোষ বা কোষের অংশ কাজে লাগিয়ে দরকারি দ্রব্য বা নতুন বৈশিষ্ট্যের জীব তৈরি
+প্রাচীন জীবপ্রযুক্তি | পুরো জীবের পুরোনো ব্যবহার: গাঁজন, বাছাই করে প্রজনন
+আধুনিক জীবপ্রযুক্তি | কোষ ও DNA-এর স্তরে কাজ: টিস্যু কালচার, জেনেটিক ইঞ্জিনিয়ারিং
+গাঁজন (Fermentation) | অণুজীবের সাহায্যে অক্সিজেন ছাড়া চিনি ভেঙে অ্যালকোহল, কার্বন ডাইঅক্সাইড বা ল্যাকটিক অ্যাসিড তৈরি
+চোলাইকরণ (Brewing) | ইস্টের গাঁজন কাজে লাগিয়ে অ্যালকোহলজাতীয় পানীয় তৈরি
+অণুজীব (Microorganism) | অণুবীক্ষণযন্ত্র ছাড়া দেখা যায় না এমন জীব, যেমন ব্যাকটেরিয়া বা ইস্ট
+ইস্ট (Yeast) | এককোষী ছত্রাক; পাউরুটি ও অ্যালকোহল তৈরিতে লাগে
+বাছাই করে প্রজনন (Selective breeding) | প্রজন্মের পর প্রজন্ম সবচেয়ে ভালো গাছ বা পশুকে জনক হিসেবে বেছে নেওয়া
+টিস্যু কালচার (Tissue culture) | জীবাণুমুক্ত পুষ্টি মাধ্যমে উদ্ভিদের টিস্যু বাড়িয়ে পূর্ণাঙ্গ গাছ তৈরি
+জেনেটিক ইঞ্জিনিয়ারিং (Genetic engineering) | কোনো জীবের DNA-তে পরিবর্তন ঘটানো, যেমন অন্য জীবের জিন তাতে স্থানান্তর করা
+জিনোম (Genome) | কোনো জীবের সম্পূর্ণ DNA
+ন্যানোটেকনোলজি (Nanotechnology) | অতি ক্ষুদ্র কণার প্রযুক্তি; ওষুধকে সরাসরি আক্রান্ত কোষে পৌঁছাতে ব্যবহৃত হয়
+জীবনিরাপত্তা (Biosafety) | মানুষ ও পরিবেশ নিরাপদ রাখতে জীবপ্রযুক্তির পণ্য পরীক্ষা ও ব্যবহারের নিয়ম
+## visual
+"সময়রেখা" অংশে বিন্দুগুলোতে চাপ দাও (বা "পরেরটি" চাপো) আর প্রথম গাঁজানো খাবার থেকে বিটি বেগুন পর্যন্ত হেঁটে এসো। "প্রাচীন না আধুনিক?" অংশে ঠিক করো প্রতিটি কাজ প্রাচীন না আধুনিক জীবপ্রযুক্তি। "কাজটা কে করে?" অংশে প্রতিটি দ্রব্যের পেছনের জীবন্ত কর্মীকে বেছে নাও।
+## real
+**বগুড়ার দই।** বগুড়ার বিখ্যাত দই তৈরি হয় খুব পুরোনো এক জীবপ্রযুক্তিতে। দুধ জ্বাল দিয়ে ঘন করা হয়, কুসুম গরম হওয়া পর্যন্ত ঠান্ডা করা হয়, তাতে আগের দিনের একটু দই (জীবন্ত ব্যাকটেরিয়ায় ভরা "বীজ দই") মেশানো হয়, তারপর মাটির সরায় ঢেলে উষ্ণ জায়গায় রেখে দেওয়া হয়। কারিগরেরা আসলে এক দল ব্যাকটেরিয়াকে সামলাচ্ছেন: খাওয়াচ্ছেন, উষ্ণ রাখছেন, আর ঠিক সময়ে ঠান্ডা করে থামিয়ে দিচ্ছেন।
+
+**গোবর থেকে গ্যাস।** গ্রামের বায়োগ্যাস প্ল্যান্টে গোবর ও পানি বাতাস ঢোকে না এমন বদ্ধ গর্তে রাখা হয়। অক্সিজেন ছাড়া বাঁচে এমন অণুজীব গোবরকে ভেঙে মিথেন-সমৃদ্ধ গ্যাস তৈরি করে, যা রান্নার চুলায় জ্বলে। পড়ে থাকা তরল অংশটি ভালো সার। একটি বর্জ্য হয়ে গেল জ্বালানি আর সার, কর্মী হলো অণুজীব।
+
+**ডাল ফসলের বন্ধু ব্যাকটেরিয়া।** মসুর, ছোলা ও সয়াবিন গাছের মূলের গুটিতে *Rhizobium* ব্যাকটেরিয়া বাস করে এবং বাতাসের নাইট্রোজেন সংবন্ধন করে। কৃষি গবেষণা প্রতিষ্ঠানগুলো এই ব্যাকটেরিয়া দিয়ে **জীবাণু সার** তৈরি করে। বোনার আগে বীজে তা মাখিয়ে নিলে কৃষকের ইউরিয়া কম লাগে।
+## example
+প্রশ্ন: নিচের কাজগুলোকে প্রাচীন ও আধুনিক জীবপ্রযুক্তিতে ভাগ করো এবং প্রতিটির কারণ লেখো: (i) ভিনেগার তৈরি, (ii) কলার একটি তেউড়ের ডগা থেকে ফ্লাস্কে হাজার হাজার চারা তৈরি, (iii) সবচেয়ে ভালো বেগুনগাছের বীজ পরের বছরের জন্য রেখে দেওয়া, (iv) ব্যাকটেরিয়া থেকে মানুষের ইনসুলিন পাওয়া।
+সমাধান: প্রতিবার একটি প্রশ্ন করো: পদ্ধতিটি কি পুরো জীবকে যেমন আছে তেমন ব্যবহার করছে, নাকি আলাদা করা কোষ বা DNA নিয়ে কাজ করছে?
+ধাপ: (i) ভিনেগার তৈরি করে *Acetobacter* ব্যাকটেরিয়া, যেমন আছে তেমন অবস্থায়। প্রাচীন।
+ধাপ: (ii) ল্যাবরেটরিতে জীবাণুমুক্ত মাধ্যমে ছোট্ট এক টুকরো টিস্যু বাড়ানো হচ্ছে। এটি টিস্যু কালচার। আধুনিক।
+ধাপ: (iii) জনক বেছে নেওয়া হলো বাছাই করে প্রজনন; এখানে কোষ বা DNA নিয়ে কোনো কাজ নেই। প্রাচীন।
+ধাপ: (iv) ব্যাকটেরিয়ার মধ্যে মানুষের একটি জিন ঢোকানো হয়েছে। এটি জেনেটিক ইঞ্জিনিয়ারিং। আধুনিক।
+উত্তর: প্রাচীন: (i) ও (iii)। আধুনিক: (ii) ও (iv)।
+## example
+প্রশ্ন: একজন রুটির কারিগর ময়দা, পানি, একটু চিনি আর ইস্ট মিশিয়ে তালটি এক ঘণ্টা ঢেকে রাখলেন। তালটি ফুলে দ্বিগুণ হয়ে গেল। জীবন্ত কর্মী, প্রক্রিয়া ও উৎপন্ন দ্রব্যের নাম লেখো, আর ব্যাখ্যা করো পাউরুটির ভেতরে এত ছোট ছোট ছিদ্র কেন।
+সমাধান: জীবপ্রযুক্তির তিনটি অংশ খুঁজে নাও: কর্মী, কৌশল, ফল।
+ধাপ: জীবন্ত কর্মী হলো **ইস্ট**, একটি এককোষী ছত্রাক।
+ধাপ: তালের ভেতরে অক্সিজেন কম, তাই ইস্ট **গাঁজন** প্রক্রিয়ায় চিনি ভাঙে: চিনি → অ্যালকোহল + কার্বন ডাইঅক্সাইড + সামান্য শক্তি।
+ধাপ: আঠালো তাল থেকে কার্বন ডাইঅক্সাইড গ্যাস বের হতে পারে না। তা বুদবুদ হয়ে জমে, আর তাল ফুলে ওঠে।
+ধাপ: চুলার তাপে ইস্ট মরে যায়, অ্যালকোহল উবে যায়, আর বুদবুদগুলো ছিদ্র হয়ে থেকে যায়।
+উত্তর: কর্মী: ইস্ট। প্রক্রিয়া: গাঁজন। উৎপন্ন দ্রব্য: কার্বন ডাইঅক্সাইড (যা তালকে ফোলায়) ও অ্যালকোহল (যা সেঁকার সময় উবে যায়)। পাউরুটির ছিদ্রগুলো ইস্টের তৈরি গ্যাসের বুদবুদ।
+> কারিগর তালটি উষ্ণ জায়গায় রাখেন ঠিক সেই কারণে, যে কারণে দই পাততে কুসুম গরম দুধ লাগে: অণুজীবের এনজাইম সেখানে সবচেয়ে ভালো কাজ করে।
+## mistakes
+x জীবপ্রযুক্তি কম্পিউটার যুগের একেবারে নতুন এক বিজ্ঞান।
+v গাঁজন ও চোলাইয়ের মাধ্যমে মানুষ প্রায় ৮০০০ বছর ধরে এটি ব্যবহার করছে। নতুন শুধু আধুনিক পদ্ধতিগুলো।
+x জীবপ্রযুক্তি আর জেনেটিক ইঞ্জিনিয়ারিং একই কথা।
+v জেনেটিক ইঞ্জিনিয়ারিং জীবপ্রযুক্তির একটি পদ্ধতি। টিস্যু কালচার আর গাঁজনও জীবপ্রযুক্তি।
+x দুধে কোনো রাসায়নিক মেশানো হয় বলে দই জমে।
+v পুরোনো দইয়ের জীবন্ত ব্যাকটেরিয়া দুধের চিনিকে ল্যাকটিক অ্যাসিডে বদলায়, আর সেই অ্যাসিড দুধকে জমায়।
+x জীবপ্রযুক্তিতে শুধু ব্যাকটেরিয়া ব্যবহৃত হয়।
+v ইস্ট ও অন্যান্য ছত্রাক, উদ্ভিদকোষ, প্রাণিকোষ, এনজাইম এবং DNA-এর টুকরো, সবই ব্যবহৃত হয়।
+x "বায়োটেকনোলজি" শব্দটি ওয়াটসন ও ক্রিকের দেওয়া।
+v শব্দটি ১৯১৯ সালে কার্ল এরেকি প্রবর্তন করেন। ওয়াটসন ও ক্রিক ১৯৫৩ সালে DNA-এর ডাবল হেলিক্স মডেল দেন।
+x পাটের জিনোম পড়ে ফেলায় জিন বদলানো নতুন পাট তৈরি হয়ে গেছে।
+v জিনোম পড়া মানে শুধু DNA-তে বেসগুলোর ক্রম জেনে নেওয়া। এতে গাছের কিছুই বদলায় না।
+## remember
+- জীবপ্রযুক্তি = জীব, তার কোষ বা কোষের অংশ কাজে লাগিয়ে দরকারি দ্রব্য বা নতুন বৈশিষ্ট্যের জীব তৈরি।
+- শব্দটি প্রবর্তন করেন হাঙ্গেরীয় প্রকৌশলী কার্ল এরেকি, ১৯১৯ সালে।
+- প্রাচীন জীবপ্রযুক্তি: গাঁজন ও চোলাই (প্রায় ৮০০০ বছরের পুরোনো), বাছাই করে প্রজনন।
+- মেন্ডেলের সূত্র আর DNA ডাবল হেলিক্সের (১৯৫৩) ধারাবাহিকতায় আধুনিক জীবপ্রযুক্তির শুরু।
+- আধুনিক জীবপ্রযুক্তির প্রধান দুটি পদ্ধতি: টিস্যু কালচার ও জেনেটিক ইঞ্জিনিয়ারিং।
+- দই: ল্যাকটিক অ্যাসিড ব্যাকটেরিয়া। পাউরুটি ও অ্যালকোহল: ইস্ট। ভিনেগার: *Acetobacter* ব্যাকটেরিয়া।
+- ব্যবহার: স্বাস্থ্যসেবা, উন্নত ফসলের জাত, ফসলের পরিমাণ ও গুণ বাড়ানো, পরিবেশ সুরক্ষা।
+- ন্যানোটেকনোলজি দিয়ে ওষুধ সরাসরি আক্রান্ত কোষে পৌঁছানো যায়।
+- জীবপ্রযুক্তি জীববিজ্ঞানের একটি ফলিত শাখা।
+## think
+দইয়ের কারিগরেরা সব সময় আজকের দইয়ের একটু অংশ কালকের "বীজ" হিসেবে রেখে দেন। ধরো একদিন ভুল করে বীজ দইটুকু দুধে মেশানোর আগে ফুটিয়ে ফেলা হলো। দুধের কী হবে, আর কেন? একটি রাসায়নিক পদার্থ আর একজন জীবন্ত কর্মীর তফাত নিয়ে এ থেকে কী বোঝা যায়?
+## quiz
+? "বায়োটেকনোলজি" শব্দটি প্রথম কে, কবে ব্যবহার করেন?
+- গ্রেগর মেন্ডেল, ১৮৬৬
+* কার্ল এরেকি, ১৯১৯
+- ওয়াটসন ও ক্রিক, ১৯৫৩
+- লুই পাস্তুর, ১৯১৯
+= হাঙ্গেরীয় প্রকৌশলী কার্ল এরেকি ১৯১৯ সালে শব্দটি প্রবর্তন করেন। ওয়াটসন ও ক্রিক ১৯৫৩ সালে DNA-এর গঠন বর্ণনা করেন।
+? নিচের কোনটি প্রাচীন জীবপ্রযুক্তি?
+- মানুষের জিন বহনকারী ব্যাকটেরিয়া দিয়ে ইনসুলিন তৈরি
+- টিস্যু কালচারে অর্কিডের চারা তৈরি
+* ল্যাকটিক অ্যাসিড ব্যাকটেরিয়া দিয়ে দই পাতা
+- বিটি বেগুন উদ্ভাবন
+= দই পাতায় ব্যাকটেরিয়াকে যেমন আছে তেমনই ব্যবহার করা হয়, আর এটি হাজার বছরের পুরোনো। বাকি তিনটি আলাদা কোষ বা জিন নিয়ে কাজ করে।
+? পাউরুটির তাল ফোলায় কোন জীব?
+* ইস্ট
+- *Acetobacter* ব্যাকটেরিয়া
+- ল্যাকটিক অ্যাসিড ব্যাকটেরিয়া
+- *Rhizobium* ব্যাকটেরিয়া
+= ইস্ট গাঁজন প্রক্রিয়ায় চিনি ভেঙে কার্বন ডাইঅক্সাইড ছাড়ে; সেই গ্যাসের বুদবুদে তাল ফুলে ওঠে।
+? আধুনিক জীবপ্রযুক্তির কোন দুটি পদ্ধতি কৃষি ও অন্যান্য ক্ষেত্রে সবচেয়ে বেশি ব্যবহৃত হয়?
+- গাঁজন ও চোলাইকরণ
+- জোড় কলম ও দাবা কলম
+- পরাগায়ন ও নিষেক
+* টিস্যু কালচার ও জেনেটিক ইঞ্জিনিয়ারিং
+= তোমার বই বর্তমানে ব্যাপকভাবে ব্যবহৃত পদ্ধতি হিসেবে টিস্যু কালচার ও জিন প্রকৌশলের নাম বলেছে।
+? জীবপ্রযুক্তিকে জীববিজ্ঞানের ফলিত শাখা বলা হয় কেন?
+- কারণ এটি শুধু উদ্ভিদ নিয়ে কাজ করে
+* কারণ এটি জীববিজ্ঞানের জ্ঞানকে বাস্তব সমস্যার সমাধানে ও দরকারি দ্রব্য তৈরিতে প্রয়োগ করে
+- কারণ এতে ল্যাবরেটরি লাগে না
+- কারণ এটি জীববিজ্ঞানের আগে আবিষ্কৃত হয়েছে
+= জেনেটিক্স, কোষবিদ্যা ও অণুজীববিজ্ঞান যা জেনেছে, জীবপ্রযুক্তি তা খাদ্য, ওষুধ ও পরিবেশের কাজে প্রয়োগ করে।
+
+@@ 14.2
+@visual b14culture
+@related 2.3.1 3.2 10.1 14.3
+== en
+## what
+**Tissue culture** is the technique of growing a small piece of plant tissue in a germ-free nutrient medium so that it develops into whole new plants. From one good mother plant it gives a huge number of identical, disease-free plantlets in a short time.
+## simple
+**The farmer's problem.** A farmer has one banana plant that gives large, sweet bunches. She wants a whole garden just like it. In nature a banana plant gives only a few suckers in a year, and if the mother plant carries a virus, every sucker carries it too. Is there a way to get thousands of healthy copies in a few months?
+
+There is. It is done in a laboratory, inside glass flasks, and it is called tissue culture.
+
+**The secret is in the plant cell.** You have seen a new plant grow from a rose cutting, and tiny plantlets appear on the edge of a pathorkuchi leaf. Plants can regrow themselves from a part. The reason is that a living plant cell holds the full set of DNA of the plant, and under the right conditions it can divide and form *every* kind of tissue again. This ability is called **totipotency**. Your book puts it this way: because totipotent cells are present in the different parts of a plant, almost any part can grow into a complete plant exactly like the first one. **This is the principle of tissue culture.**
+
+A **tissue**, as you learned in [[2.3.1|plant tissues]], is a group of cells of the same origin that do the same work together. In tissue culture a tissue is separated from the plant and grown in a nutrient medium. The piece that is taken is called the **explant**. It may be a shoot tip or a side bud, a node, a bit of root, or even a pollen grain.
+
+**The five steps.** Your book gives the steps as (a) to (e).
+
+**(a) Choosing the mother plant.** A healthy, disease-free plant of good quality is chosen. Every plantlet will be a copy of it, good points and bad points alike, so the choice matters.
+
+**(b) Preparing the culture medium.** A tiny explant in a flask has no roots and no soil, and it cannot make enough food for itself. So everything is supplied in the **culture medium**:
+
+| Ingredient | Its job |
+| Mineral nutrients | the elements a plant normally takes from the soil |
+| Vitamins | help the enzymes of the cells to work |
+| Sucrose (sugar) | food and energy, since the explant can do very little photosynthesis |
+| Phytohormones | tell the cells what to do: divide, form shoots or form roots |
+| Agar | a jelly-forming substance that turns the liquid into a semi-solid, so the tissue can sit on top |
+
+You have met two of these before: [[5.1|mineral nutrients]] and [[10.1|phytohormones]].
+
+**(c) Setting up a germ-free culture.** The medium is poured into glass vessels (test tubes or conical flasks) and the mouth is closed with cotton wool or a plastic cap. The vessels then go into an **autoclave**, where they are kept at **121 °C** under a pressure of **15 lb per square inch** for **20 minutes**. This kills every germ in the medium.
+
+> An autoclave works like a big pressure cooker. At normal pressure water boils at 100 °C. Under an extra pressure of 15 lb per square inch (about one more atmosphere) it boils at about 121 °C, hot enough to kill even tough spores.
+
+When the medium has cooled and set, the explant is placed on it. The explant itself is first cleaned of germs, and the work is done in germ-free air. The vessel is closed again and kept in a room with controlled light and a temperature of **25 ± 2 °C**.
+
+Now the cells of the explant divide again and again. Two things can happen:
+
+- tiny plants, called **plantlets**, grow directly from the explant; or
+- the cells form a **callus**, a shapeless lump of cells that have no special job yet. Later, many plantlets arise from the callus one after another.
+
+**(d) Moving to a root-forming medium.** Often the plantlets have shoots but no roots. When the shoots reach a certain height they are cut off and placed in another medium that makes roots grow (a root-inducing medium).
+
+**(e) Moving to the natural environment (the field).** The rooted plantlets are taken out, the agar is washed off with water, and they are planted in small pots of soil inside the laboratory. The pots are then kept outside the room from time to time, so that the plantlets slowly get used to the outside world. When they are fresh and strong, they are planted in the field.
+
+**Why are all the plantlets alike?** In the flask the cells multiply only by [[3.2|mitosis]], and mitosis gives daughter cells with exactly the same DNA. So every plantlet is a copy (a **clone**) of the mother plant. No gene is added and none is taken away.
+
+**What tissue culture is used for.** Your book lists many uses:
+
+- A very large number of plantlets with the same characters can be made from a small part of a plant in a short time.
+- Disease-free, and especially **virus-free**, plantlets are easily made.
+- Plantlets can be raised in any season.
+- Many plantlets are made in a small space, and the problem of storing planting material is avoided.
+- Plants that do not reproduce by seed can be multiplied, and the plantlets can be sent to distant places quickly, fresh and at low cost.
+- Plants that are about to become extinct can be multiplied and conserved.
+- An embryo that has no endosperm (stored food) can be cultured and grown directly into a plant.
+- Plants that have no sexual reproduction, or that multiply very slowly in nature, can be multiplied quickly.
+- It is used in developing plants of new kinds.
+
+**The meristem trick.** A **meristem** is the growing part of a plant, such as the very tip of a shoot. Its cells have no special job yet, and with the right signal they can make branches, leaves or roots. Viruses that have spread through the rest of a plant have usually not reached this tiny tip. So if only the meristem is cultured, the new plants are free of the virus even when the mother plant was infected. In 1952 the scientists Morel and Martin got disease-free dahlia in this way, and potato was freed of viruses by the same method soon after (your book names Martin). Today cleaning virus-infected flower, fruit and vegetable plants by meristem culture is routine work; potato is a good example.
+
+**Examples from around the world** (from your book):
+
+- The French scientist **Georges Morel** (1964) showed that about **40 thousand** plantlets can be got in one year from a single meristem of the orchid *Cymbidium*. In the ordinary way a *Cymbidium* plant gives only a few new plants a year.
+- **Thailand** produces about 50 million plantlets a year by tissue culture, most of them orchids. Thailand, Singapore and Malaysia earn a great deal of foreign currency by exporting the flowers.
+- In **Malaysia** the oil palm is multiplied by tissue culture.
+- Crores of chrysanthemum plantlets can be got in a year from one small vegetative piece.
+- In several countries the fragrant *atar* of jasmine is produced commercially from jasmine cells grown in a liquid (suspension) culture.
+- The oil of the **jojoba** plant can be used in place of sperm-whale oil for the heavy engines of aeroplanes and rockets, which helps a whale that is disappearing. Jojoba grows only in special desert conditions (as in Arizona and California) and multiplies slowly. By tissue culture it has been multiplied quickly and also made suitable for the climate of India.
+
+**In Bangladesh.** Tissue culture has already given plantlets of many local and foreign **orchids**; disease-resistant, high-yielding plantlets of **banana**, **bael** (wood apple) and **jackfruit**; flowers such as chrysanthemum, gladiolus, lily, gerbera and carnation; and pulses, groundnut, mustard, brinjal and **jute**. For **potato**, disease-free plantlets and **microtubers** are produced. A microtuber is a potato tuber much smaller than an ordinary one, which can be sown to grow a potato crop. Medicinal plants such as ashwagandha and sarpagandha are also multiplied this way.
+
+**What it cannot do.** Tissue culture needs a laboratory, electricity, costly chemicals and trained hands, so the plantlets are not free. And because all the plantlets are copies of one plant, a disease that can attack one of them can attack all of them.
+## analogy
+Think of a baby born too early. It cannot yet feed itself or fight germs, so it is kept in an incubator: a clean, warm, closed box where food reaches it directly. As it grows stronger it is moved to the ordinary ward, and at last it goes home. An explant is such a tiny patient. The sealed flask is its incubator: germ-free, at 25 °C, with food supplied in the jelly. The pots in the laboratory are the ward. The field is home. Skip a stage, and the patient may not survive.
+## definition
+**Tissue culture**: the process of separating a tissue from a plant and growing it in a germ-free nutrient medium.
+
+**Explant**: the part of a plant that is separated and used for tissue culture.
+
+**Totipotency**: the ability of a living plant cell to divide and develop into a complete plant.
+
+**Culture medium**: a germ-free mixture of mineral nutrients, vitamins, phytohormones and sucrose, usually made semi-solid with agar, on which the explant grows.
+
+**Callus**: a shapeless mass of dividing cells without any special job, formed from the explant, from which plantlets arise later.
+
+**Plantlet**: a very small young plant produced in culture.
+
+**Meristem**: the growing part of a plant, whose unspecialised cells can form different organs and tissues.
+## why
+**Why must everything be germ-free?** The medium is rich in sugar, vitamins and minerals. That is perfect food for bacteria and fungi as well. Their cells multiply far faster than plant cells. One spore is enough: within days it would cover the medium and the explant would die. So the medium, the vessels, the tools and the surface of the explant are all freed of germs.
+
+**Why sugar, when plants make their own food?** A tiny explant has little chlorophyll, the light in the room is weak, and the closed flask holds little carbon dioxide. Photosynthesis cannot keep up, so sucrose is supplied ready-made.
+
+**Why a separate medium for roots?** Phytohormones decide what the dividing cells become. As a rule, relatively more **cytokinin** pushes them to form shoots, and relatively more **auxin** pushes them to form roots; a balance of the two gives callus. So the hormone mix is changed when roots are wanted. (The exact amounts differ from plant to plant.)
+
+**Why can't rooted plantlets go straight to the field?** Inside the flask the air is very damp, the light is gentle and there are no germs. The leaves have a thin waxy layer and their stomata are not used to closing. In dry, sunny outdoor air such a plantlet loses water quickly and wilts. Given time, it grows tougher leaves and working roots.
+
+**Why does the number grow so fast?** Each shoot can be cut up and every piece grows into shoots again. If one shoot gives 3 shoots in a month, the numbers run 1, 3, 9, 27, 81 … Multiplying again and again is far quicker than adding.
+## terms
+Tissue culture | Growing a separated plant tissue in a germ-free nutrient medium to get whole plants
+Explant | The piece of the plant taken for culture (shoot tip, side bud, node, root piece, pollen grain)
+Totipotency | Ability of a living plant cell to grow into a complete plant
+Mother plant | The healthy, disease-free, good-quality plant from which the explant is taken
+Culture medium | The germ-free food on which the explant grows: minerals, vitamins, phytohormones, sucrose, agar
+Agar | Jelly-forming substance that makes the medium semi-solid
+Sucrose | Sugar that supplies food and energy to the explant
+Phytohormone | Plant hormone; in the medium it directs cells to divide and to form shoots or roots
+Autoclave | A machine that sterilises with steam under pressure: 121 °C, 15 lb per square inch, 20 minutes
+Sterilisation | Making something completely free of germs
+Callus | Shapeless mass of unspecialised cells formed from the explant
+Plantlet | A very small plant produced in culture
+Root-inducing medium | Medium in which rootless shoots are placed to form roots
+Meristem | Growing part of a plant with unspecialised, dividing cells
+Clone | An organism with exactly the same DNA as its parent
+Microtuber | A very small potato tuber produced by tissue culture and used as seed
+## formula
+$$ N = m^{n}
+N | number of shoots after n rounds, starting from one shoot | no unit
+m | number of shoots obtained from each shoot in one round | no unit
+n | number of rounds of cutting and re-culturing | no unit
+! This is a simple model: it assumes every shoot survives and multiplies equally in every round.
+! Real laboratories lose some cultures, so the real number is smaller, but it still grows very fast.
+## visual
+In "Step by step", press Next to follow one bud from the mother plant to the field. In "Put in order", tap the steps in the right sequence. In "Shoot or root?", slide the hormone balance and watch what the cells form. In "How many?", set how many shoots each shoot gives and how many rounds are done, and see how fast the number grows.
+## real
+**Clean seed for potato.** Potato is grown from tubers, not from true seed. If the mother plant has a virus, the virus sits in the tuber and passes to the next crop, and the yield falls year after year. In Bangladesh, laboratories raise virus-free potato plantlets from meristems, multiply them in flasks, and produce small seed tubers from them. Farmers who plant this clean seed get healthier plants and more potatoes.
+
+**Banana plantlets by the thousand.** Many banana growers now buy tissue-cultured plantlets in small poly bags. All the plants are the same age and the same variety, so they flower and ripen together, which makes selling the crop easier. And they start free of the diseases that suckers often carry.
+
+**Flowers for the market.** Gerbera, orchid and chrysanthemum are slow or difficult to multiply in the ordinary way. Tissue culture gives growers large numbers of uniform plantlets, and flower farming, as in the well-known flower villages of Jashore, can then expand quickly.
+## example
+Q: A laboratory starts with one banana shoot tip. Every 4 weeks each shoot gives 3 shoots, which are separated and put on fresh medium. (a) How many shoots are there after 8 rounds, and how long does this take? (b) After how many rounds does the number pass 40 thousand, the figure Morel reported for one orchid meristem in a year?
+Given: m = 3 shoots from each shoot in a round; one round = 4 weeks
+Formula: N = m^{n}
+Calculation: (a) N = 3^{8} = 6561; time = 8 × 4 = 32 weeks
+(b) 3^{9} = 19 683, which is less than 40 000; 3^{10} = 59 049, which is more than 40 000. So 10 rounds are needed: 10 × 4 = 40 weeks.
+Answer: (a) 6561 shoots in 32 weeks. (b) After 10 rounds (40 weeks, less than a year) there are 59 049 shoots, more than 40 thousand.
+> A single banana plant in the field gives only a few suckers in the same time. This is why the book says tissue culture gives "innumerable" plantlets in a short period.
+## example
+Q: Anuradha found a bael tree of very good quality at her friend's house. To get plants with exactly the same characters she brought a side bud of the tree to the botany laboratory of her university and raised plantlets from it. (a) Which process did she use? (b) Write the steps she followed, in the correct order.
+Solution: She grew a separated piece of a plant in the laboratory to get identical plants, so the process is tissue culture. The side bud is the explant.
+Step: (a) Tissue culture.
+Step: (b) First the mother plant is chosen: here, the good bael tree.
+Step: Next the culture medium is prepared and sterilised.
+Step: The explant (the side bud) is placed on the medium, and plantlets develop, directly or through a callus.
+Step: Shoots without roots go to a root-inducing medium.
+Step: The rooted plantlets are hardened and moved to the natural environment.
+Answer: (a) Tissue culture. (b) Selection of mother plant → preparation of culture medium → placement of explant → formation of plantlets → (root formation) → transfer to the natural environment.
+> The explant can only be placed *after* the medium is ready and sterilised, and a callus can only form *after* the explant is placed. Use these two facts to reject wrong sequences in an MCQ.
+## example
+Q: A farmer's potato plants are infected with a virus, and the yield is falling every year. He wants to keep the same variety. Which part of the plant should a laboratory culture, and why will the new plants be healthy?
+Solution: Think about where the virus is, and where it is not.
+Step: The virus has spread through most of the plant and into the tubers, so planting the tubers passes it on.
+Step: The meristem at the very tip of the shoot is usually free of the virus.
+Step: The laboratory cuts out this tiny meristem and uses it as the explant. All the cells of the new plantlets come from it by mitosis.
+Step: The plantlets are multiplied, and microtubers or small seed tubers are produced from them.
+Answer: The meristem (the growing tip of the shoot) should be cultured. The plants raised from it are copies of the same variety but free of the virus, so they give clean seed tubers.
+## mistakes
+x Tissue culture puts new genes into a plant.
+v The plantlets are clones with the same DNA as the mother plant. Putting in a gene is genetic engineering, a different technique.
+x The explant is planted in soil inside the flask.
+v It is placed on a sterile culture medium made semi-solid with agar. Soil comes only at the end.
+x Agar is the food of the explant.
+v Agar only sets the medium like jelly. The food is sucrose, with minerals and vitamins.
+x A callus is a small plant with roots and leaves.
+v A callus is a shapeless lump of unspecialised cells. Plantlets arise from it later.
+x The medium is sterilised by boiling it at 100 °C.
+v It is sterilised in an autoclave at 121 °C under 15 lb per square inch pressure for 20 minutes.
+x Rooted plantlets can be planted in the field straight from the flask.
+v They are first grown in pots and slowly made used to the outside environment.
+x Any plant will do as the mother plant.
+v It must be healthy, disease-free and of good quality, because every plantlet copies it.
+## remember
+- Tissue culture = growing a separated plant tissue in a germ-free nutrient medium.
+- Principle: totipotency. Almost any part of a plant can grow into a whole plant like the first one.
+- Explant = the part taken for culture (shoot tip, side bud, node, root piece, pollen grain).
+- Steps: (a) select mother plant, (b) prepare culture medium, (c) set up germ-free culture, (d) transfer to root-inducing medium, (e) transfer to the natural environment.
+- Medium: mineral nutrients, vitamins, phytohormones, sucrose, and agar to make it semi-solid.
+- Autoclave: 121 °C, 15 lb per square inch, 20 minutes. Growth room: 25 ± 2 °C with controlled light.
+- The explant gives plantlets directly, or a callus (shapeless cell mass) first.
+- All plantlets are identical because the cells divide by mitosis.
+- Meristem culture gives virus-free plants (dahlia in 1952, then potato).
+- Morel (1964): about 40 thousand plantlets from one *Cymbidium* meristem in a year.
+- Bangladesh: orchids, banana, bael, jackfruit, flowers, pulses, jute, virus-free potato and microtubers, medicinal plants.
+## think
+A whole district plants one variety of banana, all raised by tissue culture from a single mother plant. In what way is this good for the farmers? Now suppose a new disease arrives to which this variety has no resistance. What might happen, and what would you advise the district to do differently? (Remember what you learned about [[13.5|biodiversity]].)
+## quiz
+? In tissue culture, the part of the plant that is separated and used is called the
+- callus
+- plantlet
+* explant
+- meristem
+= The explant is the piece taken from the mother plant. A callus and plantlets form from it later.
+? Under which conditions is the culture medium sterilised in an autoclave?
+* 121 °C, 15 lb per square inch, 20 minutes
+- 100 °C, normal pressure, 20 minutes
+- 25 °C, 15 lb per square inch, 2 hours
+- 121 °C, normal pressure, 2 minutes
+= The book gives 121 °C at 15 lb per square inch for 20 minutes. The culture is later grown at 25 ± 2 °C.
+? What is the job of agar in the culture medium?
+- It supplies energy
+- It kills germs
+- It makes roots grow
+* It makes the medium semi-solid
+= Agar is a jelly-forming substance. Energy comes from sucrose, and the autoclave kills the germs.
+? Which sequence of steps is correct?
+- Preparation of culture medium → formation of plantlets → root formation → placement of explant → transfer to the natural environment
+* Selection of mother plant → preparation of culture medium → placement of explant → formation of plantlets → transfer to the natural environment
+- Selection of mother plant → preparation of culture medium → callus formation → placement of explant → transfer to the natural environment
+- Placement of explant → selection of mother plant → preparation of culture medium → root formation → transfer to the natural environment
+= The mother plant comes first, the medium must be ready before the explant is placed, and plantlets or callus can form only after that.
+? Why is the meristem of a virus-infected potato plant cultured?
+- Because the meristem contains the most starch
+* Because the meristem is usually free of the virus, so the new plants are virus-free
+- Because the meristem has roots
+- Because the meristem contains genes from another plant
+= The virus has usually not reached the tiny growing tip, so plants raised from it are clean copies of the same variety.
+== bn
+## what
+**টিস্যু কালচার** হলো উদ্ভিদের ছোট্ট এক টুকরো টিস্যুকে জীবাণুমুক্ত পুষ্টি মাধ্যমে বাড়িয়ে তা থেকে পূর্ণাঙ্গ নতুন গাছ তৈরির কৌশল। এতে একটি ভালো মাতৃ উদ্ভিদ থেকে অল্প সময়ে বিপুল সংখ্যক হুবহু একই রকম, রোগমুক্ত চারা পাওয়া যায়।
+## simple
+**কৃষকের সমস্যা।** একজন কৃষকের একটি কলাগাছে খুব বড় আর মিষ্টি কাঁদি হয়। তিনি চান পুরো বাগানটাই এ রকম হোক। কিন্তু প্রকৃতিতে একটি কলাগাছ বছরে মাত্র কয়েকটি তেউড় দেয়, আর মা-গাছে ভাইরাস থাকলে প্রতিটি তেউড়েই তা চলে যায়। কয়েক মাসে হাজার হাজার সুস্থ, একই রকম চারা পাওয়ার কোনো উপায় কি আছে?
+
+আছে। কাজটা হয় ল্যাবরেটরিতে, কাচের ফ্লাস্কের ভেতরে, আর এর নাম টিস্যু কালচার।
+
+**রহস্যটা উদ্ভিদকোষের ভেতরে।** গোলাপের ডাল কেটে লাগালে নতুন গাছ হয়, পাথরকুচির পাতার কিনারায় ছোট ছোট চারা গজায়, এ তুমি দেখেছ। উদ্ভিদ তার একটি অংশ থেকে নিজেকে আবার গড়ে নিতে পারে। কারণ, উদ্ভিদের একটি জীবন্ত কোষে পুরো গাছের সম্পূর্ণ DNA থাকে, আর উপযুক্ত পরিবেশ পেলে সে বিভাজিত হয়ে *সব ধরনের* টিস্যু আবার তৈরি করতে পারে। এই ক্ষমতাকে বলে **টোটিপোটেন্সি** (totipotency)। তোমার বই বলছে: উদ্ভিদের বিভিন্ন অংশে টোটিপোটেন্ট কোষ থাকায় এর প্রায় যেকোনো অংশ থেকে হুবহু আরেকটি পূর্ণাঙ্গ উদ্ভিদ জন্মানো সম্ভব। **এটিই টিস্যু কালচারের মূলনীতি।**
+
+[[2.3.1|উদ্ভিদ টিস্যু]] পাঠে তুমি জেনেছ, **টিস্যু** বা কলা হলো উৎপত্তিগতভাবে অভিন্ন এক গুচ্ছ কোষ, যারা মিলে একই কাজ করে। টিস্যু কালচারে একটি টিস্যুকে উদ্ভিদ থেকে আলাদা করে পুষ্টি মাধ্যমে বাড়ানো হয়। যে অংশটি আলাদা করে নেওয়া হয় তাকে বলে **এক্সপ্ল্যান্ট** (explant)। এটি হতে পারে শীর্ষমুকুল বা পার্শ্বমুকুল, পর্ব, মূলের অংশ, এমনকি পরাগরেণুও।
+
+**পাঁচটি ধাপ।** তোমার বইয়ে ধাপগুলো (a) থেকে (e) পর্যন্ত দেওয়া আছে।
+
+**(a) মাতৃ উদ্ভিদ নির্বাচন।** উন্নত গুণসম্পন্ন, স্বাস্থ্যবান ও রোগমুক্ত একটি উদ্ভিদ বেছে নেওয়া হয়। প্রতিটি চারা হবে এরই নকল, ভালো-মন্দ সব গুণসহ; তাই বাছাইটা খুব গুরুত্বপূর্ণ।
+
+**(b) কালচার মাধ্যম তৈরি।** ফ্লাস্কের ভেতরের ছোট্ট এক্সপ্ল্যান্টের মূল নেই, মাটি নেই, নিজের জন্য যথেষ্ট খাদ্যও সে তৈরি করতে পারে না। তাই সবকিছু জোগানো হয় **কালচার মাধ্যমে** (আবাদ মাধ্যম):
+
+| উপাদান | কাজ |
+| খনিজ পুষ্টি | উদ্ভিদ সাধারণত মাটি থেকে যেসব উপাদান নেয় |
+| ভিটামিন | কোষের এনজাইমগুলোকে কাজ করতে সাহায্য করে |
+| সুক্রোজ (চিনি) | খাদ্য ও শক্তি, কারণ এক্সপ্ল্যান্ট সালোকসংশ্লেষণ করতে পারে খুব সামান্য |
+| ফাইটোহরমোন | কোষকে বলে দেয় কী করতে হবে: বিভাজন, বিটপ তৈরি নাকি মূল তৈরি |
+| অ্যাগার | জমাট বাঁধার উপাদান; তরলকে প্রায় কঠিন (semi-solid) করে, যাতে টিস্যু তার ওপরে বসে থাকতে পারে |
+
+এর দুটির সাথে তোমার আগেই পরিচয় হয়েছে: [[5.1|খনিজ পুষ্টি]] ও [[10.1|ফাইটোহরমোন]]।
+
+**(c) জীবাণুমুক্ত কালচার প্রতিষ্ঠা।** কালচার মাধ্যমকে কাচের পাত্রে (টেস্টটিউব বা কনিক্যাল ফ্লাস্ক) নিয়ে তুলা বা প্লাস্টিকের ঢাকনা দিয়ে মুখ বন্ধ করা হয়। এরপর পাত্রগুলো **অটোক্লেভ** যন্ত্রে **১২১ °C** তাপমাত্রায়, প্রতি বর্গইঞ্চিতে **১৫ পাউন্ড** (15 lb/sq. inch) চাপে **২০ মিনিট** রাখা হয়। এতে মাধ্যমের সব জীবাণু মরে যায়।
+
+> অটোক্লেভ কাজ করে বড় একটি প্রেশার কুকারের মতো। স্বাভাবিক চাপে পানি ফোটে ১০০ °C তাপমাত্রায়। প্রতি বর্গইঞ্চিতে ১৫ পাউন্ড বাড়তি চাপে (প্রায় আরও এক বায়ুমণ্ডলীয় চাপ) পানি ফোটে প্রায় ১২১ °C তাপমাত্রায়, যা শক্ত স্পোরকেও মেরে ফেলার মতো গরম।
+
+মাধ্যম ঠান্ডা হয়ে জমে গেলে তার ওপর এক্সপ্ল্যান্ট স্থাপন করা হয়। এক্সপ্ল্যান্টকেও আগে জীবাণুমুক্ত করে নেওয়া হয়, আর কাজটা করা হয় জীবাণুমুক্ত বাতাসে। পাত্রের মুখ আবার বন্ধ করে তা নিয়ন্ত্রিত আলো ও **২৫ ± ২ °C** তাপমাত্রার কক্ষে রাখা হয়।
+
+এবার এক্সপ্ল্যান্টের কোষগুলো বারবার বিভাজিত হয়। দুটি ঘটনা ঘটতে পারে:
+
+- এক্সপ্ল্যান্ট থেকে সরাসরি ছোট ছোট গাছ, অর্থাৎ **অণুচারা** (plantlet) তৈরি হয়; অথবা
+- কোষগুলো **ক্যালাস** (callus) তৈরি করে, যা নির্দিষ্ট কোনো কাজ না পাওয়া কোষের অবয়বহীন একটি টিস্যুমণ্ড। পরে এই ক্যালাস থেকে পর্যায়ক্রমে অনেক অণুচারা উৎপন্ন হয়।
+
+**(d) মূল উৎপাদক মাধ্যমে স্থানান্তর।** অনেক সময় চারাগুলোতে বিটপ থাকে, কিন্তু মূল থাকে না। তখন বিটপগুলো একটি নির্দিষ্ট উচ্চতায় পৌঁছালে সেগুলো কেটে নিয়ে মূল উৎপাদনকারী আরেকটি মাধ্যমে স্থাপন করা হয়।
+
+**(e) প্রাকৃতিক পরিবেশে তথা মাঠপর্যায়ে স্থানান্তর।** মূলযুক্ত চারাগুলো বের করে পানিতে ধুয়ে অ্যাগারমুক্ত করা হয়, তারপর ল্যাবরেটরির ভেতরেই মাটিভরা ছোট ছোট পাত্রে লাগানো হয়। পাত্রগুলো মাঝে মাঝে কক্ষের বাইরে রাখা হয়, যাতে চারাগুলো ধীরে ধীরে বাইরের পরিবেশের সাথে খাপ খাইয়ে নেয়। চারা সজীব ও সবল হয়ে উঠলে মাঠে মাটিতে লাগানো হয়।
+
+**সব চারা একই রকম হয় কেন?** ফ্লাস্কের ভেতরে কোষের সংখ্যা বাড়ে শুধু [[3.2|মাইটোসিস]] বিভাজনে, আর মাইটোসিসে অপত্য কোষের DNA হুবহু মাতৃকোষের মতো থাকে। তাই প্রতিটি চারা মাতৃ উদ্ভিদের একটি নকল (**ক্লোন**)। এতে কোনো জিন যোগও হয় না, বাদও যায় না।
+
+**টিস্যু কালচারের ব্যবহার।** তোমার বই অনেকগুলো ব্যবহারের কথা বলেছে:
+
+- উদ্ভিদের ছোট একটি অংশ থেকে কম সময়ে একই বৈশিষ্ট্যসম্পন্ন অসংখ্য চারা তৈরি করা যায়।
+- সহজেই রোগমুক্ত, বিশেষ করে **ভাইরাসমুক্ত** চারা উৎপাদন করা যায়।
+- যেকোনো ঋতুতে চারা উৎপাদন করা যায়।
+- কম জায়গায় অনেক চারা তৈরি হয়, ফলে চারা মজুদের সমস্যা এড়ানো যায়।
+- যেসব উদ্ভিদ বীজের মাধ্যমে বংশবিস্তার করে না, সেগুলোর চারা পাওয়া যায়, এবং চারা স্বল্প ব্যয়ে দ্রুত, সতেজ অবস্থায় দূরে পাঠানো যায়।
+- বিলুপ্তপ্রায় উদ্ভিদ উৎপাদন ও সংরক্ষণ করা যায়।
+- যে ভ্রূণে শস্যকলা (জমানো খাদ্য) থাকে না, সেই ভ্রূণ কালচার করে সরাসরি উদ্ভিদ তৈরি করা যায়।
+- যেসব উদ্ভিদে যৌন জনন নেই, বা প্রাকৃতিকভাবে জননের হার কম, সেগুলোর সংখ্যা দ্রুত বাড়ানো যায়।
+- নতুন প্রকৃতির উদ্ভিদ উদ্ভাবনে এটি ব্যবহৃত হচ্ছে।
+
+**মেরিস্টেমের কৌশল।** **মেরিস্টেম** হলো উদ্ভিদের বর্ধিষ্ণু অংশ, যেমন কাণ্ডের একেবারে ডগা। এর কোষগুলো এখনো কোনো বিশেষ কাজ পায়নি (অবিশেষায়িত), আর উপযুক্ত উদ্দীপনা পেলে তারা শাখা-প্রশাখা, পাতা বা মূল তৈরি করতে পারে। গাছের বাকি অংশে ছড়িয়ে পড়া ভাইরাস সাধারণত এই ছোট্ট ডগা পর্যন্ত পৌঁছায় না। তাই শুধু মেরিস্টেম কালচার করলে মা-গাছ আক্রান্ত হলেও নতুন গাছগুলো ভাইরাসমুক্ত হয়। ১৯৫২ সালে বিজ্ঞানী মোরেল ও মার্টিন এভাবে রোগমুক্ত ডালিয়া পান, আর এর পরপরই একই পদ্ধতিতে আলুকেও ভাইরাসমুক্ত করা হয় (তোমার বইয়ে মার্টিনের নাম আছে)। এখন মেরিস্টেম কালচার করে ভাইরাস আক্রান্ত ফুল, ফল ও সবজি গাছকে রোগমুক্ত করা একটি নিয়মিত কাজ; আলু এর ভালো উদাহরণ।
+
+**সারা বিশ্বের উদাহরণ** (তোমার বই থেকে):
+
+- ফরাসি বিজ্ঞানী **জর্জ মোরেল** (Georges Morel, ১৯৬৪) দেখান যে *Cymbidium* (সিম্বিডিয়াম) নামের অর্কিডের একটি মেরিস্টেম থেকে এক বছরে প্রায় **৪০ হাজার** চারা পাওয়া সম্ভব। সাধারণ নিয়মে একটি সিম্বিডিয়াম গাছ থেকে বছরে মাত্র অল্প কয়েকটি চারা হয়।
+- **থাইল্যান্ড** টিস্যু কালচার পদ্ধতিতে বছরে প্রায় ৫ কোটি (৫০ মিলিয়ন) অণুচারা উৎপাদন করে, যার বেশির ভাগই অর্কিড। এই ফুল রপ্তানি করে থাইল্যান্ড, সিঙ্গাপুর, মালয়েশিয়া প্রচুর বৈদেশিক মুদ্রা আয় করে।
+- **মালয়েশিয়ায়** অয়েল পাম গাছের বংশবৃদ্ধি করা হয় টিস্যু কালচারে।
+- চন্দ্রমল্লিকার একটি ছোট অঙ্গজ টুকরা থেকে বছরে কোটি কোটি চারা পাওয়া সম্ভব।
+- বিভিন্ন দেশে তরল (সাসপেনশন) কালচারে রাখা জুঁইয়ের কোষ থেকে বাণিজ্যিকভাবে সুগন্ধি আতর উৎপাদিত হচ্ছে।
+- উড়োজাহাজ ও রকেটের ভারী ইঞ্জিনে স্পার্ম তিমির তেলের বদলে **জোজোবা** গাছের তেল ব্যবহার করা যায়, যা বিলুপ্ত হতে বসা এই তিমিকে বাঁচাতে সাহায্য করে। জোজোবা বিশেষ মরু পরিবেশ ছাড়া (যেমন অ্যারিজোনা, ক্যালিফোর্নিয়া) জন্মায় না, বংশবৃদ্ধিও খুব ধীর। টিস্যু কালচারে এর দ্রুত বংশবৃদ্ধি করা গেছে, এমনকি একে ভারতবর্ষের জলবায়ুর উপযোগীও করা হয়েছে।
+
+**বাংলাদেশে।** টিস্যু কালচারে ইতোমধ্যে নানা দেশি ও বিদেশি **অর্কিডের** চারা; রোগ প্রতিরোধী ও অধিক উৎপাদনশীল **কলা**, **বেল** ও **কাঁঠালের** চারা; চন্দ্রমল্লিকা, গ্লাডিওলাস, লিলি, জারবেরা ও কার্নেশনের মতো ফুলের চারা; এবং বিভিন্ন ডাল, বাদাম, সরিষা, বেগুন ও **পাটের** চারা উৎপাদন করা হয়েছে। **আলুর** ক্ষেত্রে রোগমুক্ত চারা ও **মাইক্রোটিউবার** তৈরি হচ্ছে। মাইক্রোটিউবার হলো সাধারণ আলুর (টিউবারের) চেয়ে অনেক ছোট আকারের টিউবার, যা বপন করে আলু উৎপাদন করা যায়। অশ্বগন্ধা, সর্পগন্ধার মতো ঔষধি উদ্ভিদের চারাও এভাবে তৈরি হচ্ছে।
+
+**যা এটি পারে না।** টিস্যু কালচারে ল্যাবরেটরি, বিদ্যুৎ, দামি রাসায়নিক আর দক্ষ হাত লাগে, তাই চারা তৈরিতে খরচ আছে। আর সব চারা একই গাছের নকল বলে, যে রোগ একটিকে আক্রমণ করতে পারে সে সবগুলোকেই আক্রমণ করতে পারে।
+## analogy
+সময়ের আগে জন্মানো একটি শিশুর কথা ভাবো। সে এখনো নিজে খেতে পারে না, জীবাণুর সাথে লড়তেও পারে না; তাই তাকে রাখা হয় ইনকিউবেটরে: পরিষ্কার, উষ্ণ, বদ্ধ একটি বাক্স, যেখানে খাবার সরাসরি তার কাছে পৌঁছায়। একটু শক্ত হলে তাকে সাধারণ ওয়ার্ডে নেওয়া হয়, আর সবশেষে সে বাড়ি যায়। এক্সপ্ল্যান্টও এ রকম এক খুদে রোগী। মুখবন্ধ ফ্লাস্কটি তার ইনকিউবেটর: জীবাণুমুক্ত, ২৫ °C উষ্ণতা, জেলির ভেতরে খাবার জোগানো। ল্যাবরেটরির টবগুলো হলো ওয়ার্ড। মাঠ হলো বাড়ি। কোনো ধাপ বাদ দিলে রোগী না-ও বাঁচতে পারে।
+## definition
+**টিস্যু কালচার** (Tissue culture): উদ্ভিদ থেকে একটি টিস্যুকে আলাদা করে জীবাণুমুক্ত পুষ্টি মাধ্যমে বর্ধিত করার প্রক্রিয়া।
+
+**এক্সপ্ল্যান্ট** (Explant): টিস্যু কালচারের উদ্দেশ্যে উদ্ভিদের যে অংশ পৃথক করে নিয়ে ব্যবহার করা হয়।
+
+**টোটিপোটেন্সি** (Totipotency): উদ্ভিদের একটি জীবন্ত কোষের বিভাজিত হয়ে পূর্ণাঙ্গ উদ্ভিদে পরিণত হওয়ার ক্ষমতা।
+
+**কালচার মাধ্যম** (Culture medium): খনিজ পুষ্টি, ভিটামিন, ফাইটোহরমোন ও সুক্রোজের জীবাণুমুক্ত মিশ্রণ, যা সাধারণত অ্যাগার দিয়ে প্রায় কঠিন করা হয় এবং যার ওপর এক্সপ্ল্যান্ট বাড়ে।
+
+**ক্যালাস** (Callus): এক্সপ্ল্যান্ট থেকে তৈরি বিভাজনরত, অবিশেষায়িত কোষের অবয়বহীন টিস্যুমণ্ড, যা থেকে পরে অণুচারা উৎপন্ন হয়।
+
+**অণুচারা** (Plantlet): কালচারে উৎপন্ন খুব ছোট চারাগাছ।
+
+**মেরিস্টেম** (Meristem): উদ্ভিদের বর্ধিষ্ণু অংশ, যার অবিশেষায়িত কোষ বিভিন্ন অঙ্গ ও টিস্যু তৈরি করতে পারে।
+## why
+**সবকিছু জীবাণুমুক্ত হতে হয় কেন?** মাধ্যমটি চিনি, ভিটামিন আর খনিজে ভরা। ব্যাকটেরিয়া ও ছত্রাকের জন্যও এটি আদর্শ খাবার। তাদের কোষ উদ্ভিদকোষের চেয়ে অনেক দ্রুত বাড়ে। একটি স্পোরই যথেষ্ট: কয়েক দিনের মধ্যে তা পুরো মাধ্যম ছেয়ে ফেলবে, আর এক্সপ্ল্যান্ট মরে যাবে। তাই মাধ্যম, পাত্র, যন্ত্রপাতি আর এক্সপ্ল্যান্টের গা, সবই জীবাণুমুক্ত করা হয়।
+
+**উদ্ভিদ তো নিজের খাদ্য নিজে বানায়, তবে চিনি কেন?** ছোট্ট এক্সপ্ল্যান্টে ক্লোরোফিল কম, ঘরের আলো মৃদু, আর বদ্ধ ফ্লাস্কে কার্বন ডাইঅক্সাইডও সামান্য। সালোকসংশ্লেষণে চাহিদা মেটে না, তাই তৈরি খাদ্য হিসেবে সুক্রোজ দেওয়া হয়।
+
+**মূলের জন্য আলাদা মাধ্যম কেন?** বিভাজনরত কোষ কী হবে তা ঠিক করে ফাইটোহরমোন। সাধারণ নিয়মে তুলনামূলকভাবে **সাইটোকাইনিন** বেশি থাকলে কোষ বিটপ তৈরির দিকে যায়, আর **অক্সিন** বেশি থাকলে মূল তৈরির দিকে যায়; দুটির ভারসাম্য থাকলে তৈরি হয় ক্যালাস। তাই মূল চাইলে হরমোনের অনুপাত বদলে দেওয়া হয়। (সঠিক মাত্রা উদ্ভিদভেদে আলাদা।)
+
+**মূলযুক্ত চারা সরাসরি মাঠে লাগানো যায় না কেন?** ফ্লাস্কের ভেতরের বাতাস খুব ভেজা, আলো মৃদু, জীবাণু নেই। সেখানে চারার পাতার মোমের আবরণ পাতলা, আর পত্ররন্ধ্র বন্ধ হতে অভ্যস্ত নয়। বাইরের শুষ্ক, রোদেলা বাতাসে এমন চারা দ্রুত পানি হারিয়ে নেতিয়ে পড়ে। সময় পেলে তার পাতা শক্ত হয়, মূলও কাজ শুরু করে।
+
+**সংখ্যা এত দ্রুত বাড়ে কেন?** প্রতিটি বিটপ কেটে টুকরো করা যায়, আর প্রতিটি টুকরো আবার বিটপ দেয়। একটি বিটপ থেকে মাসে ৩টি বিটপ পেলে সংখ্যা দাঁড়ায় ১, ৩, ৯, ২৭, ৮১ …। বারবার যোগ করার চেয়ে বারবার গুণ করা অনেক দ্রুত বাড়ায়।
+## terms
+টিস্যু কালচার (Tissue culture) | উদ্ভিদ থেকে আলাদা করা টিস্যুকে জীবাণুমুক্ত পুষ্টি মাধ্যমে বাড়িয়ে পূর্ণাঙ্গ গাছ তৈরি
+এক্সপ্ল্যান্ট (Explant) | কালচারের জন্য নেওয়া উদ্ভিদের অংশ (শীর্ষমুকুল, পার্শ্বমুকুল, পর্ব, মূলের অংশ, পরাগরেণু)
+টোটিপোটেন্সি (Totipotency) | উদ্ভিদের জীবন্ত কোষের পূর্ণাঙ্গ উদ্ভিদে পরিণত হওয়ার ক্ষমতা
+মাতৃ উদ্ভিদ (Mother plant) | যে স্বাস্থ্যবান, রোগমুক্ত, উন্নত গুণের উদ্ভিদ থেকে এক্সপ্ল্যান্ট নেওয়া হয়
+কালচার মাধ্যম বা আবাদ মাধ্যম (Culture medium) | এক্সপ্ল্যান্টের জীবাণুমুক্ত খাদ্য: খনিজ, ভিটামিন, ফাইটোহরমোন, সুক্রোজ, অ্যাগার
+অ্যাগার (Agar) | জমাট বাঁধার উপাদান; মাধ্যমকে প্রায় কঠিন করে
+সুক্রোজ (Sucrose) | চিনি; এক্সপ্ল্যান্টকে খাদ্য ও শক্তি দেয়
+ফাইটোহরমোন (Phytohormone) | উদ্ভিদ হরমোন; মাধ্যমে থেকে কোষকে বিভাজন এবং বিটপ বা মূল তৈরির নির্দেশ দেয়
+অটোক্লেভ (Autoclave) | চাপযুক্ত বাষ্প দিয়ে জীবাণুমুক্ত করার যন্ত্র: ১২১ °C, 15 lb/sq. inch, ২০ মিনিট
+জীবাণুমুক্তকরণ (Sterilisation) | কোনো কিছুকে সম্পূর্ণ জীবাণুশূন্য করা
+ক্যালাস (Callus) | এক্সপ্ল্যান্ট থেকে তৈরি অবিশেষায়িত কোষের অবয়বহীন টিস্যুমণ্ড
+অণুচারা (Plantlet) | কালচারে উৎপন্ন খুব ছোট চারা
+মূল উৎপাদক মাধ্যম | যে মাধ্যমে মূলহীন বিটপ রাখলে মূল গজায়
+মেরিস্টেম (Meristem) | উদ্ভিদের বর্ধিষ্ণু অংশ, যার কোষ অবিশেষায়িত ও বিভাজনক্ষম
+ক্লোন (Clone) | জনকের সাথে হুবহু একই DNA-সম্পন্ন জীব
+মাইক্রোটিউবার (Microtuber) | টিস্যু কালচারে তৈরি খুব ছোট আলুর টিউবার; বীজ হিসেবে বপন করা হয়
+## formula
+$$ N = m^{n}
+N | একটি বিটপ দিয়ে শুরু করে n দফা পরে বিটপের সংখ্যা | একক নেই
+m | এক দফায় প্রতিটি বিটপ থেকে পাওয়া বিটপের সংখ্যা | একক নেই
+n | কেটে নতুন মাধ্যমে বসানোর দফার সংখ্যা | একক নেই
+! এটি একটি সরল হিসাব: ধরে নেওয়া হয়েছে প্রতি দফায় সব বিটপ বেঁচে থাকে ও সমানভাবে বাড়ে।
+! বাস্তবে কিছু কালচার নষ্ট হয়, তাই প্রকৃত সংখ্যা কিছুটা কম; তবু তা খুব দ্রুত বাড়ে।
+## visual
+"ধাপে ধাপে" অংশে "পরের ধাপ" চেপে একটি মুকুলকে মাতৃ উদ্ভিদ থেকে মাঠ পর্যন্ত অনুসরণ করো। "ক্রমে সাজাও" অংশে ধাপগুলোতে ঠিক ক্রমে চাপ দাও। "বিটপ না মূল?" অংশে হরমোনের ভারসাম্য সরাও আর দেখো কোষগুলো কী তৈরি করে। "কতগুলো?" অংশে ঠিক করো প্রতিটি বিটপ থেকে কয়টি বিটপ হয় আর কয় দফা কাজ হয়, তারপর দেখো সংখ্যা কত দ্রুত বাড়ে।
+## real
+**আলুর জন্য পরিষ্কার বীজ।** আলু চাষ হয় টিউবার থেকে, প্রকৃত বীজ থেকে নয়। মা-গাছে ভাইরাস থাকলে তা টিউবারে থেকে যায় এবং পরের ফসলে চলে যায়, ফলে বছর বছর ফলন কমে। বাংলাদেশে ল্যাবরেটরিতে মেরিস্টেম থেকে ভাইরাসমুক্ত আলুর চারা তৈরি করা হয়, ফ্লাস্কে তাদের সংখ্যা বাড়ানো হয় এবং তা থেকে ছোট বীজ-টিউবার উৎপাদন করা হয়। এই পরিষ্কার বীজ লাগিয়ে কৃষক সুস্থ গাছ আর বেশি আলু পান।
+
+**হাজার হাজার কলার চারা।** অনেক কলাচাষি এখন ছোট পলিব্যাগে টিস্যু কালচারের চারা কেনেন। সব গাছ একই বয়সের ও একই জাতের, তাই একসাথে ফুল আসে ও ফল পাকে, বিক্রি করাও সহজ হয়। আর তেউড়ের সাথে যেসব রোগ প্রায়ই চলে আসে, এরা শুরু থেকেই সেগুলো থেকে মুক্ত।
+
+**বাজারের জন্য ফুল।** জারবেরা, অর্কিড ও চন্দ্রমল্লিকার বংশবৃদ্ধি সাধারণ উপায়ে ধীর বা কঠিন। টিস্যু কালচার চাষিদের হাতে একসাথে অনেক, একই রকম চারা তুলে দেয়; ফলে যশোরের পরিচিত ফুলের গ্রামগুলোর মতো জায়গায় ফুল চাষ দ্রুত বাড়তে পারে।
+## example
+প্রশ্ন: একটি ল্যাবরেটরি কলার একটি শীর্ষমুকুল দিয়ে কাজ শুরু করল। প্রতি ৪ সপ্তাহে প্রতিটি বিটপ থেকে ৩টি বিটপ পাওয়া যায়, যেগুলো আলাদা করে নতুন মাধ্যমে বসানো হয়। (ক) ৮ দফা পরে বিটপের সংখ্যা কত হবে, আর এতে কত সময় লাগবে? (খ) কত দফা পরে সংখ্যাটি ৪০ হাজার ছাড়াবে, যা মোরেল অর্কিডের একটি মেরিস্টেম থেকে এক বছরে পাওয়া সম্ভব বলে দেখিয়েছিলেন?
+দেওয়া আছে: m = এক দফায় প্রতিটি বিটপ থেকে ৩টি বিটপ; এক দফা = ৪ সপ্তাহ
+সূত্র: N = m^{n}
+হিসাব: (ক) N = ৩^{৮} = ৬৫৬১; সময় = ৮ × ৪ = ৩২ সপ্তাহ
+(খ) ৩^{৯} = ১৯ ৬৮৩, যা ৪০ ০০০-এর কম; ৩^{১০} = ৫৯ ০৪৯, যা ৪০ ০০০-এর বেশি। অর্থাৎ ১০ দফা লাগবে: ১০ × ৪ = ৪০ সপ্তাহ।
+উত্তর: (ক) ৩২ সপ্তাহে ৬৫৬১টি বিটপ। (খ) ১০ দফা পরে (৪০ সপ্তাহ, এক বছরের কম) বিটপ হয় ৫৯ ০৪৯টি, যা ৪০ হাজারের বেশি।
+> মাঠের একটি কলাগাছ একই সময়ে মাত্র কয়েকটি তেউড় দেয়। এ কারণেই বই বলছে, টিস্যু কালচারে কম সময়ে "অসংখ্য" চারা পাওয়া যায়।
+## example
+প্রশ্ন: অনুরাধা তার বন্ধুর বাড়িতে খুব ভালো জাতের একটি বেলগাছের সন্ধান পেল। হুবহু একই বৈশিষ্ট্যের চারা পেতে সে গাছটির পার্শ্বমুকুল তার বিশ্ববিদ্যালয়ের উদ্ভিদবিজ্ঞান বিভাগের ল্যাবরেটরিতে নিয়ে এলো এবং তা থেকে চারা উৎপাদন করল। (ক) সে কোন প্রক্রিয়া ব্যবহার করেছিল? (খ) তার কাজের ধাপগুলো সঠিক ক্রমে লেখো।
+সমাধান: সে উদ্ভিদের আলাদা করা একটি অংশকে ল্যাবরেটরিতে বাড়িয়ে হুবহু একই রকম গাছ পেয়েছে, তাই প্রক্রিয়াটি টিস্যু কালচার। পার্শ্বমুকুলটি হলো এক্সপ্ল্যান্ট।
+ধাপ: (ক) টিস্যু কালচার।
+ধাপ: (খ) প্রথমে মাতৃ উদ্ভিদ নির্বাচন: এখানে ভালো জাতের বেলগাছটি।
+ধাপ: এরপর কালচার মাধ্যম (আবাদ মাধ্যম) তৈরি করে জীবাণুমুক্ত করা।
+ধাপ: মাধ্যমে এক্সপ্ল্যান্ট (পার্শ্বমুকুল) স্থাপন; তা থেকে সরাসরি বা ক্যালাসের মাধ্যমে অণুচারা উৎপাদন।
+ধাপ: মূলহীন বিটপকে মূল উৎপাদক মাধ্যমে স্থানান্তর।
+ধাপ: মূলযুক্ত চারাকে খাপ খাইয়ে প্রাকৃতিক পরিবেশে স্থানান্তর।
+উত্তর: (ক) টিস্যু কালচার। (খ) মাতৃ উদ্ভিদ নির্বাচন → আবাদ মাধ্যম তৈরি → এক্সপ্ল্যান্ট স্থাপন → অণুচারা উৎপাদন → (মূল উৎপাদন) → প্রাকৃতিক পরিবেশে স্থানান্তর।
+> মাধ্যম তৈরি ও জীবাণুমুক্ত হওয়ার *পরেই* কেবল এক্সপ্ল্যান্ট স্থাপন করা যায়, আর এক্সপ্ল্যান্ট স্থাপনের *পরেই* কেবল ক্যালাস তৈরি হতে পারে। বহুনির্বাচনি প্রশ্নে ভুল ক্রম বাদ দিতে এই দুটি কথা কাজে লাগাও।
+## example
+প্রশ্ন: একজন কৃষকের আলুগাছ ভাইরাসে আক্রান্ত, তাই প্রতি বছর ফলন কমছে। তিনি জাতটি বদলাতে চান না। ল্যাবরেটরিতে গাছের কোন অংশ কালচার করা উচিত, আর নতুন গাছগুলো সুস্থ হবে কেন?
+সমাধান: ভাবো ভাইরাস কোথায় আছে, আর কোথায় নেই।
+ধাপ: ভাইরাস গাছের বেশির ভাগ অংশে এবং টিউবারে ছড়িয়ে গেছে, তাই টিউবার লাগালে তা পরের ফসলে চলে যায়।
+ধাপ: কাণ্ডের একেবারে ডগার মেরিস্টেম সাধারণত ভাইরাসমুক্ত থাকে।
+ধাপ: ল্যাবরেটরিতে এই ছোট্ট মেরিস্টেম কেটে নিয়ে এক্সপ্ল্যান্ট হিসেবে ব্যবহার করা হয়। নতুন অণুচারার সব কোষ এটি থেকেই মাইটোসিসে তৈরি।
+ধাপ: অণুচারার সংখ্যা বাড়ানো হয়, আর তা থেকে মাইক্রোটিউবার বা ছোট বীজ-টিউবার উৎপাদন করা হয়।
+উত্তর: মেরিস্টেম (কাণ্ডের বর্ধিষ্ণু ডগা) কালচার করা উচিত। এ থেকে পাওয়া গাছগুলো একই জাতের নকল, কিন্তু ভাইরাসমুক্ত; তাই এরা পরিষ্কার বীজ-টিউবার দেয়।
+## mistakes
+x টিস্যু কালচারে উদ্ভিদে নতুন জিন ঢোকানো হয়।
+v চারাগুলো ক্লোন; এদের DNA মাতৃ উদ্ভিদের মতোই। জিন ঢোকানো হলো জেনেটিক ইঞ্জিনিয়ারিং, যা আলাদা কৌশল।
+x এক্সপ্ল্যান্টকে ফ্লাস্কের ভেতরে মাটিতে লাগানো হয়।
+v একে বসানো হয় অ্যাগার দিয়ে প্রায় কঠিন করা জীবাণুমুক্ত কালচার মাধ্যমে। মাটি আসে একেবারে শেষে।
+x অ্যাগারই এক্সপ্ল্যান্টের খাদ্য।
+v অ্যাগার শুধু মাধ্যমকে জেলির মতো জমায়। খাদ্য হলো সুক্রোজ, সাথে খনিজ ও ভিটামিন।
+x ক্যালাস হলো মূল ও পাতাসহ একটি ছোট গাছ।
+v ক্যালাস অবিশেষায়িত কোষের অবয়বহীন একটি পিণ্ড। এ থেকে পরে অণুচারা তৈরি হয়।
+x মাধ্যমকে ১০০ °C তাপমাত্রায় ফুটিয়ে জীবাণুমুক্ত করা হয়।
+v অটোক্লেভে ১২১ °C তাপমাত্রায়, প্রতি বর্গইঞ্চিতে ১৫ পাউন্ড চাপে ২০ মিনিট রেখে জীবাণুমুক্ত করা হয়।
+x মূলযুক্ত চারা ফ্লাস্ক থেকে বের করে সরাসরি মাঠে লাগানো যায়।
+v আগে টবে লাগিয়ে ধীরে ধীরে বাইরের পরিবেশের সাথে খাপ খাইয়ে নিতে হয়।
+x যেকোনো গাছকেই মাতৃ উদ্ভিদ করা যায়।
+v মাতৃ উদ্ভিদকে স্বাস্থ্যবান, রোগমুক্ত ও উন্নত গুণের হতে হয়, কারণ প্রতিটি চারা তারই নকল।
+## remember
+- টিস্যু কালচার = উদ্ভিদ থেকে আলাদা করা টিস্যুকে জীবাণুমুক্ত পুষ্টি মাধ্যমে বর্ধিত করা।
+- মূলনীতি: টোটিপোটেন্সি। উদ্ভিদের প্রায় যেকোনো অংশ থেকে হুবহু আরেকটি পূর্ণাঙ্গ উদ্ভিদ জন্মানো সম্ভব।
+- এক্সপ্ল্যান্ট = কালচারের জন্য নেওয়া অংশ (শীর্ষমুকুল, পার্শ্বমুকুল, পর্ব, মূলাংশ, পরাগরেণু)।
+- ধাপ: (a) মাতৃ উদ্ভিদ নির্বাচন, (b) কালচার মাধ্যম তৈরি, (c) জীবাণুমুক্ত কালচার প্রতিষ্ঠা, (d) মূল উৎপাদক মাধ্যমে স্থানান্তর, (e) প্রাকৃতিক পরিবেশে স্থানান্তর।
+- মাধ্যম: খনিজ পুষ্টি, ভিটামিন, ফাইটোহরমোন, সুক্রোজ, আর প্রায় কঠিন করার জন্য অ্যাগার।
+- অটোক্লেভ: ১২১ °C, 15 lb/sq. inch, ২০ মিনিট। বর্ধন কক্ষ: ২৫ ± ২ °C ও নিয়ন্ত্রিত আলো।
+- এক্সপ্ল্যান্ট থেকে সরাসরি অণুচারা হয়, অথবা আগে ক্যালাস (অবয়বহীন টিস্যুমণ্ড) হয়।
+- কোষ মাইটোসিসে বিভাজিত হয় বলে সব চারা হুবহু একই রকম।
+- মেরিস্টেম কালচারে ভাইরাসমুক্ত গাছ পাওয়া যায় (১৯৫২ সালে ডালিয়া, এরপর আলু)।
+- মোরেল (১৯৬৪): *Cymbidium*-এর একটি মেরিস্টেম থেকে বছরে প্রায় ৪০ হাজার চারা।
+- বাংলাদেশ: অর্কিড, কলা, বেল, কাঁঠাল, নানা ফুল, ডাল, পাট, ভাইরাসমুক্ত আলুর চারা ও মাইক্রোটিউবার, ঔষধি উদ্ভিদ।
+## think
+পুরো একটি জেলায় কলার একটিই জাত লাগানো হলো, আর সব চারা একটিমাত্র মাতৃ উদ্ভিদ থেকে টিস্যু কালচারে তৈরি। কৃষকদের জন্য এটা কোন দিক থেকে ভালো? এবার ধরো এমন একটি নতুন রোগ এলো যার বিরুদ্ধে এই জাতের কোনো প্রতিরোধক্ষমতা নেই। কী হতে পারে, আর জেলাটিকে তুমি কী ভিন্নভাবে করতে বলবে? ([[13.5|জীববৈচিত্র্য]] নিয়ে যা শিখেছ তা মনে করো।)
+## quiz
+? টিস্যু কালচারে উদ্ভিদের যে অংশ পৃথক করে নিয়ে ব্যবহার করা হয় তাকে বলে
+- ক্যালাস
+- অণুচারা
+* এক্সপ্ল্যান্ট
+- মেরিস্টেম
+= মাতৃ উদ্ভিদ থেকে নেওয়া অংশটিই এক্সপ্ল্যান্ট। এ থেকে পরে ক্যালাস ও অণুচারা তৈরি হয়।
+? অটোক্লেভে কালচার মাধ্যম কোন অবস্থায় জীবাণুমুক্ত করা হয়?
+* ১২১ °C, 15 lb/sq. inch চাপ, ২০ মিনিট
+- ১০০ °C, স্বাভাবিক চাপ, ২০ মিনিট
+- ২৫ °C, 15 lb/sq. inch চাপ, ২ ঘণ্টা
+- ১২১ °C, স্বাভাবিক চাপ, ২ মিনিট
+= বইয়ে আছে ১২১ °C তাপমাত্রায় 15 lb/sq. inch চাপে ২০ মিনিট। পরে কালচার বাড়ানো হয় ২৫ ± ২ °C তাপমাত্রায়।
+? কালচার মাধ্যমে অ্যাগারের কাজ কী?
+- শক্তি জোগানো
+- জীবাণু মারা
+- মূল গজানো
+* মাধ্যমকে প্রায় কঠিন করা
+= অ্যাগার জমাট বাঁধার উপাদান। শক্তি আসে সুক্রোজ থেকে, আর জীবাণু মারে অটোক্লেভ।
+? ধাপগুলোর কোন ক্রমটি সঠিক?
+- আবাদ মাধ্যম তৈরি → অণুচারা উৎপাদন → মূল উৎপাদন → এক্সপ্ল্যান্ট স্থাপন → প্রাকৃতিক পরিবেশে স্থানান্তর
+* মাতৃ উদ্ভিদ নির্বাচন → আবাদ মাধ্যম তৈরি → এক্সপ্ল্যান্ট স্থাপন → অণুচারা উৎপাদন → প্রাকৃতিক পরিবেশে স্থানান্তর
+- মাতৃ উদ্ভিদ নির্বাচন → আবাদ মাধ্যম তৈরি → ক্যালাস তৈরি → এক্সপ্ল্যান্ট স্থাপন → প্রাকৃতিক পরিবেশে স্থানান্তর
+- এক্সপ্ল্যান্ট স্থাপন → মাতৃ উদ্ভিদ নির্বাচন → আবাদ মাধ্যম তৈরি → মূল উৎপাদন → প্রাকৃতিক পরিবেশে স্থানান্তর
+= সবার আগে মাতৃ উদ্ভিদ; এক্সপ্ল্যান্ট স্থাপনের আগে মাধ্যম তৈরি থাকতে হয়; আর অণুচারা বা ক্যালাস তৈরি হয় তার পরে।
+? ভাইরাস আক্রান্ত আলুগাছের মেরিস্টেম কালচার করা হয় কেন?
+- কারণ মেরিস্টেমে শ্বেতসার সবচেয়ে বেশি
+* কারণ মেরিস্টেম সাধারণত ভাইরাসমুক্ত, তাই নতুন গাছগুলো ভাইরাসমুক্ত হয়
+- কারণ মেরিস্টেমে মূল থাকে
+- কারণ মেরিস্টেমে অন্য গাছের জিন থাকে
+= ভাইরাস সাধারণত ছোট্ট বর্ধিষ্ণু ডগা পর্যন্ত পৌঁছায় না, তাই তা থেকে তৈরি গাছ একই জাতের পরিষ্কার নকল।
+
+@@ 14.3
+@visual b14gene
+@related 12.1 12.1.2 10.5 14.2
+== en
+## what
+**Genetic engineering** is the technique of taking a piece of DNA that carries a chosen gene out of one organism and putting it into another organism, so that the second one gets a new character. The DNA made by joining the two is **recombinant DNA**, and an organism changed in this way is a **genetically modified organism (GMO)**.
+## simple
+**A medicine that was hard to get.** In [[10.5|diabetes]] the body does not make enough insulin, or cannot use it properly, and many patients need an insulin injection every day. For a long time insulin was taken from the pancreas of slaughtered cattle and pigs. The supply was limited, and animal insulin is not exactly the same as human insulin.
+
+Now think of a bacterium. It can divide every 20 minutes, and it grows happily in a big tank of cheap food. If only a bacterium could make *human* insulin! But it has no gene for insulin. So scientists gave it one.
+
+**Why this can work at all.** Remember [[12.1|lesson 12.1]]: a gene is a stretch of DNA, and it is the recipe for one protein. DNA is written with the same four bases, A, T, G and C, in a bacterium, a rice plant and a human being, and all cells read it in the same way. So if a human gene is placed inside a bacterium, the bacterium can read it and build the human protein.
+
+**The names.** Your book defines them like this:
+
+- **Genetic engineering**: the technique of separating a piece of DNA that carries a particular gene from one organism and transferring it to a different organism. More simply, changing the DNA of an organism to produce a desired new character.
+- **Recombinant DNA technique**: all the techniques used for transferring the gene, taken together.
+- **Recombinant DNA**: the new DNA molecule formed when the desired part is cut out of one DNA molecule and placed into another.
+- The process of making recombinant DNA is called **recombinant DNA technology** or **gene cloning**.
+
+**The tool kit.** Four things are needed.
+
+| Tool | What it is | Its job |
+| Restriction enzyme | an enzyme found in bacteria | the "scissors": cuts DNA at one particular sequence of bases |
+| Ligase | an enzyme | the "glue": joins the cut ends of DNA |
+| Plasmid | a small ring of DNA in a bacterium, separate from its chromosome, that can copy itself | the "carrier" (vector): takes the gene into a cell |
+| Host cell | usually the bacterium *Escherichia coli* (*E. coli*) | the "factory": copies the plasmid and makes the product |
+
+*E. coli* lives in the human intestine. Most of the techniques of genetic engineering were worked out by research on this one bacterium.
+
+**The five steps.** Your book gives them as (a) to (e). Follow them with insulin as the example.
+
+**(a) Getting the two DNAs.** DNA carrying the desired gene (here, the gene for human insulin) is separated from the **donor** organism. Plasmid DNA is separated from a bacterium, to be used as the carrier of the gene.
+
+**(b) Cutting.** The plasmid DNA and the donor DNA are both cut with a special enzyme, the **restriction enzyme**. The donor DNA falls into pieces, and one of the pieces carries the desired gene. The ring of the plasmid opens. The cut ends are not flat. A few unpaired bases stick out, so they are called **sticky ends**, and they are ready to pair with a matching end by the rule A with T, G with C.
+
+**(c) Joining.** With the enzyme **ligase**, the piece of donor DNA is fixed between the two cut ends of the plasmid. Ligase works like glue. The ring closes again, but now it carries the gene. This is the **recombinant plasmid**, a recombinant DNA.
+
+**(d) Putting it into a cell.** The recombinant plasmid is made to enter a bacterium. The method of getting a piece of DNA into a recipient cell is called **transformation**. The bacterium (or any organism) that now carries the new gene is a **transgenic organism**.
+
+**(e) Selecting and multiplying.** Not every bacterium takes up a plasmid. So the bacteria that hold the recombinant plasmid are identified and separated, and then they are allowed to multiply in enormous numbers. Every one of them carries the desired gene. Making many copies of a gene in this way is **gene cloning**. To use the gene elsewhere, the plasmid can be separated again. For insulin, the bacteria themselves read the gene and make insulin, which is collected and purified.
+
+> The English edition of your book prints "lipase" in step (c), and in step (d) it calls the method "transgenic organism". Both are slips. The joining enzyme is **ligase**, as the figure in the book and the Bangla edition say (lipase is the enzyme that digests fat), and the method of entry is **transformation**.
+
+**GMO and transgenic are not the same.** Your book makes a careful difference:
+
+- Any change in the genes of an organism, by mutation or in any other way, is **genetic modification**. In the widest sense people have done this for thousands of years by artificial selection, and nature has done it for crores of years through [[12.4|biological evolution]].
+- Biotechnology can now do it in a controlled way and in a short time. An organism made like this is a **GMO**, a genetically modified organism.
+- A **transgenic** organism is one whose genome has received one or more genes taken from **another species or variety**.
+
+So every transgenic organism is a GMO, but a GMO need not be transgenic. A bacterium that carries the human insulin gene is both.
+
+**Why not simply breed, as farmers always have?** Your book compares the two ways:
+
+| | Conventional breeding | Genetic engineering |
+| Between which organisms | only the same or very closely related species | any species, near or distant |
+| Time needed | long | short |
+| What is moved | unwanted genes may travel with the wanted one, and the result is uncertain | only the chosen gene or genes, with a much better chance of success |
+| Biosafety rules | not controlled by them | controlled by biosafety rules accepted worldwide |
+| Toxicity test | not done | done |
+
+**What it has given us.** Genetic engineering is the most modern biotechnology. Its aim is to produce organisms with new and better characters for the benefit of people.
+
+**(a) Crops.**
+
+- **Insect resistance.** The soil bacterium *Bacillus thuringiensis* (Bt) has a gene for a protein that kills certain insect larvae when they eat it. This gene has been put into crops, which are then called **Bt crops**: Bt corn, Bt cotton, Bt rice (in China). **Bt cotton and Bt brinjal are grown in Bangladesh.** These crops resist harmful insects of the moth group (Lepidoptera) and the beetle group (Coleoptera). Bt brinjal protects itself from the borer that tunnels into brinjal shoots and fruits, so far less insecticide has to be sprayed.
+- **Virus resistance.** By transferring a gene for the coat protein of a virus, crop varieties have been made that resist tomato mosaic virus (ToMV), tobacco mosaic virus (TMV) and tobacco mild green mosaic virus (TMGMV). A papaya that resists ringspot virus (PRSV) has been developed, and work is going on for a potato that resists late blight.
+- **Herbicide tolerance.** With a gene from a bacterium, varieties of tomato, soybean, corn, cotton and canola have been made that are not harmed by a weedkiller, so the weeds die and the crop stays.
+- **More than one character.** Corn and cotton that are both herbicide tolerant and insect resistant are sold commercially.
+- **Better nutrition.** Genes for making **beta-carotene** have been put into rice. Our body turns beta-carotene into vitamin A. The grain is yellow, so it is known as Golden Rice. Your book says that people who eat this rice need not take vitamin A separately; think of it as one more source of vitamin A, together with coloured vegetables and fruits ([[5.3|deficiency diseases]]). Efforts to add iron to rice, and to make crops that stand salinity and drought, are continuing.
+
+**(b) Animals.** To raise the protein in cow's milk, the Protein C gene has been transferred to cattle; this is still at the research stage. The gene for human growth hormone has been put into sheep to increase their size and meat. Two bacterial genes, CysE and CysM, have been transferred to the genome of sheep to improve the amount and quality of wool.
+
+**(c) Fish.** The growth hormone gene of salmon has been transferred to magur (catfish), common carp, loitta and tilapia. Your book reports that the fish grew about 60 percent bigger.
+
+**(d) Healthcare.**
+
+- **Insulin** for diabetes is produced commercially from genetically modified *E. coli* and yeast that carry the human insulin gene.
+- The **hepatitis B vaccine** is made in genetically modified yeast, and **interferon**, a medicine used against viral diseases such as hepatitis B, is also made by this technology.
+- **Human growth hormone**, used to treat dwarfism, and **GM-CSF** (granulocyte macrophage colony stimulating factor), used in the treatment of viral diseases, cancer and AIDS, are produced from genetically modified *E. coli* and yeast.
+
+**(e) Protecting the environment.** The technology is used to make environmental management easier and faster: cleaning up pollution around petroleum works and coal mines, treating industrial waste and sewage. A new strain of *Pseudomonas* bacteria has been developed that quickly breaks down oil and hydrocarbons. The scientist who made the first such oil-eating strain was Ananda Mohan Chakrabarty, a Bengali working in the United States.
+
+**Handle with care.** A product can be recalled from the shops. A living organism reproduces and spreads. Your book states clearly that GMOs carry a risk of harmful effects on the environment, on nature and on human health. Scientists look at questions like these: Could the new gene pass through pollen to wild relatives or to a neighbour's crop? Could helpful insects be harmed along with the pest? Will the pest become resistant after some years? Could the new protein cause an allergy? Will farmers come to depend on seed they must buy?
+
+To assess such risks, and to use the technology successfully, internationally agreed **biosafety guidelines** are followed all over the world, including Bangladesh. Each GMO is tested case by case, including for toxicity, before it may be released. People weigh the benefits and the risks differently, and research goes on. As a science student your job is to know both sides and to ask for evidence.
+## analogy
+Go back to the *recipe library* of lesson 12.1. Human DNA is a huge library, and the insulin gene is one recipe in it. A bacterium also keeps a small ring-bound notebook, the **plasmid**, and it photocopies this notebook every time it divides. The scientist cuts the insulin recipe out of the library with scissors (**restriction enzyme**), opens the ring notebook with the same scissors, glues the recipe page in (**ligase**), and slips the notebook back into the bacterium (**transformation**). The bacterium is a cook that makes whatever is written in its notebook. Now it cooks insulin, and so do all its descendants.
+## definition
+**Genetic engineering**: the technique of separating a piece of DNA carrying a particular gene from one organism and transferring it to another organism; or, changing the DNA of an organism to produce a desired new character.
+
+**Recombinant DNA**: the new DNA molecule formed when a desired part cut from one DNA molecule is placed into another DNA molecule.
+
+**Restriction enzyme**: an enzyme that cuts DNA at a particular sequence of bases.
+
+**Ligase**: an enzyme that joins cut ends of DNA.
+
+**Plasmid**: a separate, self-replicating DNA molecule in a bacterial cell, outside its chromosome; used as the carrier (vector) of a gene.
+
+**Transformation**: the method of getting a piece of DNA into a recipient cell.
+
+**Gene cloning**: making many copies of a gene by multiplying the cells that carry it.
+
+**GMO (genetically modified organism)**: an organism whose genes have been changed in a controlled way by biotechnology.
+
+**Transgenic organism**: an organism whose genome has received one or more genes from another species or variety.
+
+**Biosafety**: the internationally agreed rules for assessing the risks of biotechnology and using it safely.
+## why
+**Why can a bacterium read a human gene?** The language of DNA is common to living things. The same four bases are used, and the same group of bases stands for the same building block of a protein. A recipe copied into another kitchen's notebook is still the same recipe.
+
+**Why must both DNAs be cut with the same restriction enzyme?** Each restriction enzyme cuts at its own sequence and leaves its own sticky ends. If the plasmid and the donor DNA are cut by the same enzyme, their sticky ends match base for base, so the gene piece can sit exactly in the gap of the plasmid. Ends made by different enzymes would not pair.
+
+**Why is ligase still needed, if the sticky ends pair by themselves?** Pairing is by weak hydrogen bonds, which hold the piece in place only loosely. The sugar-phosphate rails of the two DNAs are still broken. Ligase joins the rails with strong bonds and makes one continuous molecule.
+
+**Why a plasmid?** It is small and easy to take out of a bacterium. It enters bacteria readily. And above all it copies itself inside the cell, so whatever is joined to it gets copied too, every time the bacterium divides.
+
+**How are the right bacteria picked out?** A plasmid used as a carrier usually has a marker gene as well, for example one that lets the cell survive an antibiotic. When the bacteria are grown with that antibiotic, only the cells that took up the plasmid live.
+
+**Why are biosafety rules needed?** Because a GMO is alive. Once released it can multiply and may pass its genes on, so mistakes are hard to undo. Testing before release is far safer than repairing afterwards.
+## terms
+Genetic engineering | Transferring a chosen gene from one organism to another, or changing an organism's DNA to get a new character
+Recombinant DNA | DNA made by joining pieces of DNA from two sources
+Gene cloning | Making many copies of a gene by multiplying the cells that carry it
+Donor | The organism from which the desired gene is taken
+Restriction enzyme | Enzyme that cuts DNA at a particular base sequence ("scissors")
+Sticky end | A cut end of DNA where a few unpaired bases stick out
+Ligase | Enzyme that joins cut ends of DNA ("glue")
+Plasmid | Small self-copying ring of DNA in a bacterium, outside the chromosome
+Vector (carrier) | The DNA, such as a plasmid, that carries a gene into a cell
+Transformation | Entry of a piece of DNA into a recipient cell
+Transgenic organism | Organism carrying one or more genes from another species or variety
+GMO | Genetically modified organism: its genes have been changed in a controlled way by biotechnology
+Bt crop | Crop carrying a gene from the bacterium *Bacillus thuringiensis* that makes it resist certain insects
+Herbicide tolerant | Not harmed by a weedkiller
+Insulin | Hormone that lowers blood glucose; used to treat diabetes
+Interferon | A protein used as a medicine against viral diseases
+Biosafety | Rules for testing and using biotechnology so that people and the environment are safe
+## formula
+$$ N = N_{0} × 2^{n}
+N | number of bacteria after n divisions | no unit
+N_{0} | number of bacteria at the start | no unit
+n | number of divisions = total time ÷ time for one division | no unit
+! In ideal conditions *E. coli* can divide about once every 20 minutes.
+! The plasmid is copied at each division, so the number of copies of the gene grows in the same way.
+! In a real tank the growth slows down when food runs short.
+## visual
+In "Step by step", press Next to follow the insulin gene from a human cell into a bacterium. In "Sticky ends", cut the plasmid with the restriction enzyme, choose the piece of donor DNA that fits, and seal it with ligase. In "Sort the uses", decide which field each success of genetic engineering belongs to.
+## real
+**Insulin without animals.** Insulin made by genetically modified bacteria reached patients in the early 1980s, and today almost all the insulin used by diabetic patients is made by modified bacteria or yeast. It is human insulin, because the gene is human. It can be produced in any amount needed, and it does not depend on the supply of animal pancreas.
+
+**Bt brinjal in Bangladesh.** The brinjal shoot and fruit borer is the worst enemy of brinjal. Its larva hides inside the shoot and the fruit, where a spray hardly reaches it, so farmers used to spray again and again. Bangladesh released Bt brinjal varieties, developed with the Bangladesh Agricultural Research Institute, in 2013 and farmers began to grow them the next year. The plant makes the Bt protein itself, the larva that feeds on it dies, and much less insecticide is needed. As with every GM crop, its use is supervised under biosafety rules, and scientists keep watching for any resistance in the pest.
+
+**Bacteria that eat oil.** When oil spills on water or soil, it harms fish, birds and plants for years. Some bacteria can use the hydrocarbons of oil as food. Strains of *Pseudomonas* have been improved to break down several of these compounds, and such microbes are used to help clean polluted sites.
+## example
+Q: A restriction enzyme recognises the sequence G A A T T C and cuts each strand between G and A. A piece of DNA has the upper strand A C G A A T T C G T. (a) Write the lower strand. (b) Show the two pieces after the cut and name the sticky ends.
+Solution: Use the pairing rule A–T, G–C for (a). For (b), remember that the two strands run in opposite directions, so the lower strand has to be read from right to left.
+Step: (a) Upper: A C G A A T T C G T
+Lower: T G C T T A A G C A
+Step: (b) The upper strand has G A A T T C in the middle. It is cut after that G: A C G | A A T T C G T.
+Step: Read the lower strand from right to left: A C G A A T T C G T. It has the same sequence. It is also cut after that G, which in the left-to-right picture is T G C T T A A | G C A.
+Step: Left piece: upper A C G, lower T G C T T A A. The four bases T T A A of the lower strand have no partner.
+Step: Right piece: upper A A T T C G T, lower G C A. The four bases A A T T of the upper strand have no partner.
+Answer: (a) T G C T T A A G C A. (b) The pieces end in the sticky ends T T A A and A A T T. They are complementary, so they can pair with each other, or with any other DNA cut by the same enzyme.
+> This is why the plasmid and the donor DNA are cut with the same enzyme: the gene piece then has ends that fit the opened plasmid.
+## example
+Q: Dr Arup wants to produce a life-saving medicine. He separates DNA from two sources, a donor cell and *E. coli*. (a) Name the method he is following. (b) Write the remaining steps in order, with the enzyme used wherever one is needed. (c) What is the DNA called after the two are joined?
+Solution: DNA from two sources is going to be joined, so this is recombinant DNA technology (genetic engineering). He has already done step (a) of the book.
+Step: (a) Recombinant DNA technology.
+Step: (b) Cut the donor DNA and the plasmid of *E. coli* with a **restriction enzyme**.
+Step: Join the piece that carries the desired gene to the opened plasmid with **ligase**.
+Step: Put the recombinant plasmid into a bacterium (**transformation**); no cutting or joining enzyme is needed here.
+Step: Identify and separate the bacteria that carry the recombinant plasmid, and multiply them (**gene cloning**). They make the medicine, which is then collected.
+Answer: (a) Recombinant DNA technology. (b) Cutting (restriction enzyme) → joining (ligase) → transformation → selection and cloning. (c) Recombinant DNA; here, a recombinant plasmid.
+## example
+Q: Say for each organism whether it is a GMO, a transgenic organism, both or neither, using the meanings in your book: (i) Bt brinjal, which carries a gene of the bacterium *Bacillus thuringiensis*; (ii) a tomato in which scientists have switched off one of the tomato's own genes in the laboratory, adding no gene from outside; (iii) a rice variety made by crossing two rice plants and selecting the best offspring for several years.
+Solution: Ask two questions. Were the genes changed in a controlled way by biotechnology? If yes, it is a GMO. Did it receive a gene from another species or variety? If yes, it is transgenic.
+Step: (i) The change was made by gene technology, and the gene came from a bacterium. GMO and transgenic.
+Step: (ii) The change was made by gene technology, but no foreign gene was added. GMO, not transgenic.
+Step: (iii) The genes of the variety have changed, but by crossing and selection, not by gene technology. It is not transgenic, and it is not what we call a GMO.
+Answer: (i) both; (ii) GMO only; (iii) neither. Every transgenic organism is a GMO, but not every GMO is transgenic.
+> Case (iii) is still "genetic modification" in the widest sense used by your book, which is why the book says people have modified organisms for thousands of years.
+## example
+Q: One *E. coli* cell carrying a recombinant plasmid is put into a rich food solution. It divides once every 20 minutes. How many cells carrying the gene are there after 4 hours?
+Given: N_{0} = 1; time for one division = 20 minutes; total time = 4 hours = 240 minutes
+Formula: N = N_{0} × 2^{n}, where n = total time ÷ time for one division
+Calculation: n = 240 ÷ 20 = 12
+N = 1 × 2^{12} = 4096
+Answer: 4096 cells, each with the gene.
+> In 10 hours there would be 2^{30} cells, more than 100 crore, if the food did not run out. This speed is the reason bacteria are used as factories.
+## mistakes
+x Ligase cuts DNA and the restriction enzyme joins it.
+v The restriction enzyme cuts ("scissors"). Ligase joins ("glue").
+x Lipase is the enzyme that joins DNA.
+v Lipase digests fat. The enzyme that joins DNA is ligase.
+x A plasmid is the chromosome of a bacterium.
+v A plasmid is a small extra ring of DNA outside the chromosome, and it copies itself.
+x Recombinant DNA and GMO mean the same thing.
+v Recombinant DNA is the joined DNA molecule. A GMO is the organism whose genes have been changed.
+x GMO and transgenic organism are exactly the same.
+v A transgenic organism has a gene from another species or variety. Every transgenic organism is a GMO, but not every GMO is transgenic.
+x Insulin made by bacteria is bacterial insulin.
+v It is human insulin, because the bacteria carry and read the human insulin gene.
+x Bt brinjal is brinjal with bacteria living inside it.
+v It carries only one gene taken from the bacterium. The plant itself makes the protein.
+x Genetic engineering has no risk, so it needs no rules.
+v GMOs may affect the environment and health, so they are tested and used under biosafety guidelines.
+## remember
+- Genetic engineering = transferring a piece of DNA with a particular gene from one organism to another; changing DNA to get a desired new character.
+- Recombinant DNA = new DNA formed when a piece of one DNA is placed into another DNA. Making it = recombinant DNA technology or gene cloning.
+- Steps: (a) separate donor DNA and plasmid, (b) cut both with a restriction enzyme, (c) join with ligase, (d) transformation, (e) select and multiply (gene cloning).
+- Restriction enzyme cuts; ligase joins; the plasmid is the carrier; *E. coli* is the usual host.
+- Transformation = entry of the DNA into the recipient cell. The result is a transgenic organism.
+- GMO: genes changed in a controlled way by biotechnology. Transgenic: has a gene from another species or variety.
+- Crops: Bt corn, Bt cotton, Bt rice, Bt brinjal (gene from *Bacillus thuringiensis*); virus-resistant and herbicide-tolerant crops; rice with beta-carotene.
+- Bt cotton and Bt brinjal are grown in Bangladesh.
+- Animals and fish: growth hormone genes in sheep and fish; CysE and CysM genes for wool.
+- Healthcare: insulin, hepatitis B vaccine, interferon, human growth hormone, GM-CSF from modified *E. coli* and yeast.
+- Environment: *Pseudomonas* bacteria that break down oil and hydrocarbons.
+- GMOs carry possible risks, so biosafety guidelines are followed in Bangladesh and worldwide.
+## think
+A company offers farmers of your area a new GM rice that tolerates salty soil. Before it is approved, what would you want to know about it? Write three questions about benefits and three about possible risks. Who should answer them, and with what kind of evidence?
+## quiz
+? Which enzyme is used to cut DNA at a particular place?
+- Ligase
+* Restriction enzyme
+- Lactase
+- Lipase
+= The restriction enzyme is the "scissors". Ligase joins DNA; lactase and lipase are digestive enzymes.
+? What is the job of the plasmid in recombinant DNA technology?
+* It carries the desired gene into the bacterium
+- It cuts the donor DNA
+- It joins the cut ends of DNA
+- It kills the bacteria that have no gene
+= The plasmid is the carrier (vector). The gene is joined to it, and it takes the gene into the cell and copies it there.
+? The method of getting the recombinant plasmid into a bacterium is called
+- gene cloning
+- fermentation
+* transformation
+- tissue culture
+= Entry of a piece of DNA into a recipient cell is transformation. Gene cloning is the multiplying that follows.
+? Bt brinjal and Bt cotton carry a gene taken from
+- the yeast used in bread
+- *Escherichia coli*
+- salmon
+* *Bacillus thuringiensis*
+= "Bt" stands for the bacterium *Bacillus thuringiensis*. Its gene makes the plant resist certain insects.
+? Which statement agrees with your book?
+- GMO and transgenic organism mean exactly the same
+* A transgenic organism has received a gene from another species or variety
+- A GMO is always made by crossing two plants
+- A transgenic organism has no change in its genes
+= Transgenic organisms carry a gene from another species or variety. They are GMOs, but a GMO need not be transgenic.
+== bn
+## what
+**জেনেটিক ইঞ্জিনিয়ারিং** বা **জিন প্রকৌশল** হলো একটি জীব থেকে নির্দিষ্ট জিন বহনকারী DNA খণ্ড আলাদা করে অন্য একটি জীবে স্থানান্তরের কৌশল, যাতে দ্বিতীয় জীবটি একটি নতুন বৈশিষ্ট্য পায়। দুটি DNA জুড়ে যে DNA তৈরি হয় তা **রিকম্বিনেন্ট DNA**, আর এভাবে বদলানো জীবকে বলে **জিএমও** (GMO: genetically modified organism)।
+## simple
+**যে ওষুধ পাওয়া কঠিন ছিল।** [[10.5|ডায়াবেটিস]] রোগে দেহ যথেষ্ট ইনসুলিন তৈরি করে না, বা তা ঠিকমতো ব্যবহার করতে পারে না; অনেক রোগীকে প্রতিদিন ইনসুলিন ইনজেকশন নিতে হয়। অনেক দিন পর্যন্ত ইনসুলিন নেওয়া হতো জবাই করা গরু ও শূকরের অগ্ন্যাশয় থেকে। জোগান ছিল সীমিত, আর প্রাণীর ইনসুলিন মানুষের ইনসুলিনের সাথে হুবহু মেলে না।
+
+এবার একটি ব্যাকটেরিয়ার কথা ভাবো। সে প্রতি ২০ মিনিটে একবার বিভাজিত হতে পারে, আর সস্তা খাবারভরা বড় ট্যাংকে দিব্যি বাড়ে। ব্যাকটেরিয়া যদি *মানুষের* ইনসুলিন বানাতে পারত! কিন্তু তার তো ইনসুলিনের জিনই নেই। তাই বিজ্ঞানীরা তাকে একটি জিন দিয়ে দিলেন।
+
+**এটা আদৌ সম্ভব কেন।** [[12.1|১২.১ পাঠের]] কথা মনে করো: জিন হলো DNA-এর একটি অংশ, আর তা একটি প্রোটিন তৈরির রেসিপি। ব্যাকটেরিয়া, ধানগাছ আর মানুষ, সবার DNA লেখা একই চারটি বেস দিয়ে: A, T, G ও C; আর সব কোষ তা একই নিয়মে পড়ে। তাই মানুষের একটি জিন ব্যাকটেরিয়ার ভেতরে বসিয়ে দিলে ব্যাকটেরিয়া তা পড়ে মানুষের প্রোটিনটিই তৈরি করতে পারে।
+
+**নামগুলো।** তোমার বই এভাবে সংজ্ঞা দিয়েছে:
+
+- **জেনেটিক ইঞ্জিনিয়ারিং বা জিন প্রকৌশল**: একটি জীব থেকে একটি নির্দিষ্ট জিন বহনকারী DNA খণ্ড পৃথক করে ভিন্ন একটি জীবে স্থানান্তরের কৌশল। আরও সহজভাবে, কাঙ্ক্ষিত নতুন একটি বৈশিষ্ট্য সৃষ্টির জন্য কোনো জীবের DNA-এর পরিবর্তন ঘটানো।
+- **রিকম্বিনেন্ট DNA কৌশল**: জিন স্থানান্তরে যেসব কৌশল লাগে, সব একত্রে।
+- **রিকম্বিনেন্ট DNA**: একটি DNA অণুর কাঙ্ক্ষিত অংশ কেটে আলাদা করে অন্য একটি DNA অণুতে প্রতিস্থাপন করলে যে নতুন DNA অণু তৈরি হয়।
+- রিকম্বিনেন্ট DNA তৈরির প্রক্রিয়াকে বলে **রিকম্বিনেন্ট DNA প্রযুক্তি** বা **জিন ক্লোনিং**।
+
+**যন্ত্রপাতির বাক্স।** চারটি জিনিস লাগে।
+
+| হাতিয়ার | এটি কী | কাজ |
+| রেস্ট্রিকশন এনজাইম | ব্যাকটেরিয়ায় পাওয়া এক ধরনের এনজাইম | "কাঁচি": বেসের একটি নির্দিষ্ট ক্রম যেখানে আছে সেখানে DNA কাটে |
+| লাইগেজ | এক ধরনের এনজাইম | "আঠা": DNA-এর কাটা প্রান্ত জুড়ে দেয় |
+| প্লাজমিড | ব্যাকটেরিয়া কোষে ক্রোমোজোমের বাইরে থাকা ছোট, গোল একটি DNA অণু, যা নিজের নকল তৈরি করতে পারে | "বাহক" (ভেক্টর): জিনকে কোষের ভেতরে নিয়ে যায় |
+| পোষক কোষ | সাধারণত *Escherichia coli* (*E. coli*) ব্যাকটেরিয়া | "কারখানা": প্লাজমিডের নকল করে এবং কাঙ্ক্ষিত দ্রব্য তৈরি করে |
+
+*E. coli* মানুষের অন্ত্রে বাস করে। এই একটি ব্যাকটেরিয়ার ওপর গবেষণা করেই জেনেটিক ইঞ্জিনিয়ারিংয়ের অধিকাংশ কৌশল আবিষ্কৃত হয়েছে।
+
+**পাঁচটি ধাপ।** তোমার বইয়ে ধাপগুলো (a) থেকে (e) পর্যন্ত দেওয়া আছে। ইনসুলিনকে উদাহরণ ধরে সেগুলো অনুসরণ করো।
+
+**(a) দুটি DNA সংগ্রহ।** **দাতা** জীব থেকে কাঙ্ক্ষিত জিনসহ (এখানে মানুষের ইনসুলিন তৈরির জিন) DNA পৃথক করা হয়। আর এই জিনের বাহক হিসেবে ব্যবহারের জন্য ব্যাকটেরিয়া থেকে প্লাজমিড DNA পৃথক করা হয়।
+
+**(b) কাটা।** প্লাজমিড DNA ও দাতা DNA, দুটিকেই এক বিশেষ ধরনের এনজাইম, **রেস্ট্রিকশন এনজাইম**, দিয়ে খণ্ডিত করা হয়। দাতা DNA কয়েকটি খণ্ডে ভাগ হয়, আর তার কোনো একটিতে কাঙ্ক্ষিত জিনটি থাকে। গোল প্লাজমিডটি খুলে যায়। কাটা প্রান্তগুলো সমান হয় না। কয়েকটি জোড়াহীন বেস বেরিয়ে থাকে, তাই এদের বলে **আঠালো প্রান্ত** (sticky end); এরা A-এর সাথে T, G-এর সাথে C নিয়মে মানানসই আরেকটি প্রান্তের সাথে জোড় বাঁধতে তৈরি থাকে।
+
+**(c) জোড়া লাগানো।** **লাইগেজ** নামের এনজাইম দিয়ে দাতা DNA-এর খণ্ডটিকে প্লাজমিডের কাটা প্রান্ত দুটোর মাঝখানে স্থাপন করা হয়। লাইগেজ এখানে আঠার মতো কাজ করে। প্লাজমিড আবার গোল হয়ে যায়, তবে এখন তাতে জিনটি আছে। এটিই **রিকম্বিনেন্ট প্লাজমিড**, একটি রিকম্বিনেন্ট DNA।
+
+**(d) কোষে প্রবেশ করানো।** রিকম্বিনেন্ট প্লাজমিডকে ব্যাকটেরিয়ার ভেতরে প্রবেশ করানো হয়। DNA খণ্ডকে গ্রাহক কোষে প্রবেশ করানোর পদ্ধতিকে বলে **ট্রান্সফরমেশন** (transformation)। নতুন জিন নিয়ে যে ব্যাকটেরিয়া (বা যেকোনো জীব) তৈরি হয়, সে একটি **ট্রান্সজেনিক জীব**।
+
+**(e) বাছাই ও বংশবৃদ্ধি।** সব ব্যাকটেরিয়া প্লাজমিড গ্রহণ করে না। তাই রিকম্বিনেন্ট প্লাজমিড ধারণ করা ব্যাকটেরিয়াগুলোকে শনাক্ত করে আলাদা করা হয়, তারপর তাদের ব্যাপক বংশবৃদ্ধি ঘটানো হয়। এদের প্রত্যেকটিতে এখন কাঙ্ক্ষিত জিন আছে। এভাবে একটি জিনের অসংখ্য নকল তৈরি করাই **জিন ক্লোনিং**। জিনটিকে অন্যত্র ব্যবহার করতে চাইলে প্লাজমিডকে আবার আলাদা করে নেওয়া যায়। ইনসুলিনের বেলায় ব্যাকটেরিয়াগুলো নিজেরাই জিনটি পড়ে ইনসুলিন তৈরি করে, যা সংগ্রহ করে বিশুদ্ধ করা হয়।
+
+> তোমার বইয়ের ইংরেজি সংস্করণে (c) ধাপে "lipase" ছাপা আছে, আর (d) ধাপে পদ্ধতিটির নাম লেখা হয়েছে "transgenic organism"। দুটিই ছাপার ভুল। জোড়া লাগানোর এনজাইমটি **লাইগেজ** (ligase), যেমনটি বাংলা সংস্করণে ও বইয়ের চিত্রে আছে (লাইপেজ চর্বি পরিপাকের এনজাইম); আর প্রবেশ করানোর পদ্ধতিটি **ট্রান্সফরমেশন**।
+
+**জিএমও আর ট্রান্সজেনিক জীব এক নয়।** তোমার বই এখানে একটি সূক্ষ্ম পার্থক্য করেছে:
+
+- মিউটেশনের মাধ্যমে বা অন্য যেকোনো উপায়ে জীবের জিনে যেকোনো ধরনের পরিবর্তন ঘটলেই তা **জেনেটিক মডিফিকেশন**। ব্যাপক অর্থে মানুষ হাজার হাজার বছর ধরে কৃত্রিম নির্বাচনের মাধ্যমে এ কাজ করে আসছে, আর প্রকৃতি করে আসছে লক্ষ-কোটি বছর ধরে, [[12.4|জৈব অভিব্যক্তির]] মাধ্যমে।
+- জীবপ্রযুক্তির কল্যাণে কাজটি এখন নিয়ন্ত্রিতভাবে এবং কম সময়ে করা যায়। এভাবে যে জীব উৎপন্ন হয় সেটি **জিএমও**, অর্থাৎ জেনেটিক্যালি মডিফাইড অর্গানিজম।
+- **ট্রান্সজেনিক** জীব হলো সেই জীব, যার জিনোমে **অন্য কোনো প্রজাতি বা প্রকরণ** থেকে নেওয়া এক বা একাধিক জিন ঢুকিয়ে দেওয়া হয়েছে।
+
+তাই প্রতিটি ট্রান্সজেনিক জীবই জিএমও, কিন্তু সব জিএমও ট্রান্সজেনিক না-ও হতে পারে। মানুষের ইনসুলিন জিন বহনকারী ব্যাকটেরিয়া একই সাথে দুটোই।
+
+**কৃষকেরা যেভাবে চিরকাল প্রজনন করেছেন, সেভাবে করলেই তো হয়?** তোমার বই দুই পদ্ধতির তুলনা করেছে:
+
+| | প্রচলিত প্রজনন | জিন প্রকৌশল |
+| কোন কোন জীবের মধ্যে | শুধু একই বা খুব নিকটবর্তী প্রজাতির মধ্যে | নিকটবর্তী বা দূরবর্তী যেকোনো প্রজাতির মধ্যে |
+| সময় | দীর্ঘ | অল্প |
+| কী স্থানান্তরিত হয় | কাঙ্ক্ষিত জিনের সাথে অনাকাঙ্ক্ষিত জিনও চলে যেতে পারে; ফল অনেকটা অনিশ্চিত | শুধু বাছাই করা এক বা একাধিক জিন; সফল হওয়ার সম্ভাবনা অনেক বেশি |
+| জীবনিরাপত্তা নিয়ম | এ দিয়ে নিয়ন্ত্রিত নয় | আন্তর্জাতিকভাবে স্বীকৃত জীবনিরাপত্তা নিয়ম-নীতি দিয়ে নিয়ন্ত্রিত |
+| বিষাক্ততা পরীক্ষা | করা হয় না | করা হয় |
+
+**এ থেকে আমরা কী পেয়েছি।** জেনেটিক ইঞ্জিনিয়ারিং হলো সর্বাধুনিক জীবপ্রযুক্তি। এর মূল উদ্দেশ্য নতুন ও উন্নত বৈশিষ্ট্যসম্পন্ন জীব সৃষ্টি, যা থেকে মানুষ উপকৃত হতে পারে।
+
+**(a) শস্য উন্নয়নে।**
+
+- **পোকা প্রতিরোধ।** মাটির ব্যাকটেরিয়া *Bacillus thuringiensis*-এর (Bt) এমন একটি জিন আছে, যা থেকে তৈরি প্রোটিন খেলে নির্দিষ্ট কিছু পোকার কীড়া মারা যায়। এই জিন শস্যে প্রবেশ করানো হয়েছে; এমন শস্যকে বলে **বিটি শস্য**: বিটি ভুট্টা, বিটি তুলা (বিটি কটন), বিটি ধান (চীনে)। **বাংলাদেশে বর্তমানে বিটি তুলা ও বিটি বেগুন চাষ হচ্ছে।** এসব ফসল লেপিডোপটেরা (মথবর্গীয়) ও কলিওপটেরা (গুবরে পোকাবর্গীয়) ক্ষতিকর কীটপতঙ্গের বিরুদ্ধে প্রতিরোধক্ষম। বিটি বেগুন নিজেই ডগা ও ফল ছিদ্রকারী পোকা থেকে নিজেকে রক্ষা করে, তাই কীটনাশক অনেক কম ছিটাতে হয়।
+- **ভাইরাস প্রতিরোধ।** ভাইরাসের কোট প্রোটিনের জিন স্থানান্তর করে টমেটো মোজাইক ভাইরাস (ToMV), টোবাকো মোজাইক ভাইরাস (TMV) ও টোবাকো মাইল্ড গ্রিন মোজাইক ভাইরাস (TMGMV) প্রতিরোধী ফসলের জাত উদ্ভাবন করা হয়েছে। রিং স্পট ভাইরাস (PRSV) প্রতিরোধী পেঁপের জাত তৈরি হয়েছে, আর লেট ব্লাইট প্রতিরোধী আলুর জাত উদ্ভাবনের গবেষণা চলছে।
+- **আগাছানাশক সহিষ্ণুতা।** এক ধরনের ব্যাকটেরিয়ার জিন ব্যবহার করে টমেটো, সয়াবিন, ভুট্টা, তুলা ও ক্যানোলার এমন জাত তৈরি হয়েছে, আগাছানাশকে যাদের ক্ষতি হয় না; ফলে আগাছা মরে, ফসল টিকে থাকে।
+- **একসাথে একাধিক বৈশিষ্ট্য।** একই সাথে আগাছানাশক সহিষ্ণু ও পোকামাকড় প্রতিরোধী তুলা ও ভুট্টা বাণিজ্যিকভাবে পাওয়া যায়।
+- **পুষ্টিমান উন্নয়ন।** ধানে **বিটা-ক্যারোটিন** তৈরির জিন স্থানান্তর করা হয়েছে। আমাদের দেহ বিটা-ক্যারোটিন থেকে ভিটামিন A তৈরি করে। এই চালের রং হলদে, তাই একে গোল্ডেন রাইস বলা হয়। তোমার বই বলছে, এই চালের ভাত খেলে আলাদা করে ভিটামিন A খেতে হবে না; একে রঙিন শাকসবজি ও ফলের পাশাপাশি ভিটামিন A-এর আরেকটি উৎস হিসেবে ভাবাই ভালো ([[5.3|অভাবজনিত রোগ]])। ধানে আয়রন যোগ করার এবং লবণাক্ততা ও খরা সহনশীল ফসলের জাত তৈরির চেষ্টা চলছে।
+
+**(b) প্রাণীর ক্ষেত্রে।** গরুর দুধে আমিষের পরিমাণ বাড়াতে Protein C জিন স্থানান্তর করা হয়েছে; এটি এখনো গবেষণা পর্যায়ে আছে। আকার ও মাংসের উৎপাদন বাড়াতে মানুষের বৃদ্ধি হরমোনের জিন ভেড়ায় স্থানান্তর করা হয়েছে। ভেড়ার পশমের পরিমাণ ও গুণগত মান বাড়াতে ব্যাকটেরিয়ার দুটি জিন, CysE ও CysM, ভেড়ার জিনোমে স্থানান্তর করা হয়েছে।
+
+**(c) মৎস্য উন্নয়নে।** স্যামন মাছের বৃদ্ধি হরমোনের জিন মাগুর, কমন কার্প, লইট্টা ও তেলাপিয়া মাছে স্থানান্তর করা হয়েছে। তোমার বই জানাচ্ছে, এতে এসব মাছের আকার প্রায় ৬০ ভাগ বড় হয়েছে।
+
+**(d) চিকিৎসা ক্ষেত্রে।**
+
+- মানুষের ইনসুলিন তৈরির জিন বহনকারী, জেনেটিকভাবে পরিবর্তিত *E. coli* ব্যাকটেরিয়া ও ইস্ট থেকে বাণিজ্যিকভাবে **ইনসুলিন** তৈরি হচ্ছে, যা ডায়াবেটিস (বহুমূত্র) রোগের চিকিৎসায় লাগে।
+- জেনেটিকভাবে পরিবর্তিত ইস্ট থেকে **হেপাটাইটিস বি-এর টিকা** তৈরি হয়; আর হেপাটাইটিস বি-এর মতো ভাইরাসজনিত রোগের ওষুধ **ইন্টারফেরনও** এই প্রযুক্তিতে তৈরি হয়।
+- জেনেটিকভাবে পরিবর্তিত *E. coli* ও ইস্ট থেকে তৈরি হচ্ছে **মানুষের বৃদ্ধি হরমোন**, যা অস্বাভাবিক খাটো হওয়া রোগের (বামনত্ব) চিকিৎসায় লাগে, এবং **GM-CSF** (গ্র্যানুলোসাইট ম্যাক্রোফাজ কলোনি স্টিমুলেটিং ফ্যাক্টর), যা ভাইরাসজনিত রোগ, ক্যানসার, এইডস ইত্যাদির চিকিৎসায় ব্যবহৃত হয়।
+
+**(e) পরিবেশ সুরক্ষায়।** পরিবেশ ব্যবস্থাপনাকে সহজ ও দ্রুত করতে এই প্রযুক্তি ব্যবহার করা হয়: পেট্রোলিয়াম ও কয়লাখনি এলাকা দূষণমুক্ত করা, শিল্পবর্জ্য শোধন, পয়ঃনিষ্কাশন। নতুন এক জাতের *Pseudomonas* ব্যাকটেরিয়া তৈরি করা সম্ভব হয়েছে, যা তেল ও হাইড্রোকার্বনকে দ্রুত ভেঙে পরিবেশকে দূষণমুক্ত করতে পারে। প্রথম এ রকম তেলখেকো জাতটি তৈরি করেছিলেন যুক্তরাষ্ট্রে কর্মরত বাঙালি বিজ্ঞানী আনন্দমোহন চক্রবর্তী।
+
+**সাবধানে ব্যবহার।** দোকানের পণ্য ফিরিয়ে নেওয়া যায়। কিন্তু জীব বংশবৃদ্ধি করে, ছড়িয়ে পড়ে। তোমার বই স্পষ্ট বলেছে, জিএমও-র পরিবেশ, প্রকৃতি ও মানবস্বাস্থ্যের ওপর ক্ষতিকর প্রভাব বিস্তারের ঝুঁকি রয়েছে। বিজ্ঞানীরা এ রকম প্রশ্ন খতিয়ে দেখেন: নতুন জিনটি কি পরাগরেণুর মাধ্যমে বুনো আত্মীয় উদ্ভিদে বা পাশের জমির ফসলে চলে যেতে পারে? ক্ষতিকর পোকার সাথে উপকারী পোকারও কি ক্ষতি হতে পারে? কয়েক বছর পর পোকাটি কি প্রতিরোধী হয়ে উঠবে? নতুন প্রোটিনটি কি কারও অ্যালার্জি ঘটাতে পারে? কৃষক কি কেনা বীজের ওপর নির্ভরশীল হয়ে পড়বেন?
+
+এসব সম্ভাব্য ক্ষতিকর প্রভাব নিরূপণ এবং প্রযুক্তিটির সফল প্রয়োগের জন্য বাংলাদেশসহ সারা বিশ্বে আন্তর্জাতিকভাবে নির্ধারিত **জীবনিরাপত্তা নীতিমালা** (biosafety guidelines) অনুসরণ করা হয়। প্রতিটি জিএমও-কে ছাড়পত্র দেওয়ার আগে আলাদাভাবে পরীক্ষা করা হয়, বিষাক্ততার পরীক্ষাসহ। সুবিধা ও ঝুঁকিকে সবাই একভাবে মাপেন না, গবেষণাও চলছে। বিজ্ঞানের শিক্ষার্থী হিসেবে তোমার কাজ দুই দিকই জানা এবং প্রমাণ চাওয়া।
+## analogy
+১২.১ পাঠের *রেসিপির লাইব্রেরিতে* ফিরে যাও। মানুষের DNA বিশাল এক লাইব্রেরি, আর ইনসুলিনের জিন তার একটি রেসিপি। ব্যাকটেরিয়ার কাছে রিং দিয়ে বাঁধা ছোট একটি খাতাও থাকে, সেটিই **প্লাজমিড**; প্রতিবার বিভাজনের সময় সে খাতাটির ফটোকপি করে নেয়। বিজ্ঞানী কাঁচি (**রেস্ট্রিকশন এনজাইম**) দিয়ে লাইব্রেরি থেকে ইনসুলিনের রেসিপিটি কেটে নেন, একই কাঁচি দিয়ে রিং-খাতাটি খোলেন, আঠা (**লাইগেজ**) দিয়ে রেসিপির পাতাটি তাতে জুড়ে দেন, আর খাতাটি আবার ব্যাকটেরিয়ার ভেতরে ঢুকিয়ে দেন (**ট্রান্সফরমেশন**)। ব্যাকটেরিয়া এমন এক রাঁধুনি, যে তার খাতায় যা লেখা থাকে তা-ই রাঁধে। এখন সে ইনসুলিন রাঁধে, তার সব বংশধরও তা-ই করে।
+## definition
+**জেনেটিক ইঞ্জিনিয়ারিং বা জিন প্রকৌশল** (Genetic engineering): একটি জীব থেকে একটি নির্দিষ্ট জিন বহনকারী DNA খণ্ড পৃথক করে ভিন্ন একটি জীবে স্থানান্তরের কৌশল; অথবা, কাঙ্ক্ষিত নতুন বৈশিষ্ট্য সৃষ্টির জন্য কোনো জীবের DNA-এর পরিবর্তন ঘটানো।
+
+**রিকম্বিনেন্ট DNA** (Recombinant DNA): একটি DNA অণুর কাঙ্ক্ষিত অংশ কেটে অন্য একটি DNA অণুতে প্রতিস্থাপন করার ফলে যে নতুন DNA অণু তৈরি হয়।
+
+**রেস্ট্রিকশন এনজাইম** (Restriction enzyme): যে এনজাইম বেসের একটি নির্দিষ্ট ক্রম যেখানে আছে সেখানে DNA কাটে।
+
+**লাইগেজ** (Ligase): যে এনজাইম DNA-এর কাটা প্রান্ত জুড়ে দেয়।
+
+**প্লাজমিড** (Plasmid): ব্যাকটেরিয়া কোষে ক্রোমোজোমের বাইরে থাকা আরেকটি স্বতন্ত্র DNA অণু, যা স্ববিভাজনে সক্ষম; জিনের বাহক (ভেক্টর) হিসেবে ব্যবহৃত হয়।
+
+**ট্রান্সফরমেশন** (Transformation): DNA খণ্ডকে গ্রাহক কোষে প্রবেশ করানোর পদ্ধতি।
+
+**জিন ক্লোনিং** (Gene cloning): কোনো জিন বহনকারী কোষের বংশবৃদ্ধি ঘটিয়ে সেই জিনের অসংখ্য নকল তৈরি।
+
+**জিএমও** (GMO, genetically modified organism): জীবপ্রযুক্তির সাহায্যে নিয়ন্ত্রিতভাবে যে জীবের জিনে পরিবর্তন ঘটানো হয়েছে।
+
+**ট্রান্সজেনিক জীব** (Transgenic organism): যে জীবের জিনোমে অন্য কোনো প্রজাতি বা প্রকরণ থেকে নেওয়া এক বা একাধিক জিন ঢোকানো হয়েছে।
+
+**জীবনিরাপত্তা** (Biosafety): জীবপ্রযুক্তির ঝুঁকি নিরূপণ ও তা নিরাপদে ব্যবহারের জন্য আন্তর্জাতিকভাবে নির্ধারিত নিয়ম-নীতি।
+## why
+**ব্যাকটেরিয়া মানুষের জিন পড়তে পারে কেন?** DNA-এর ভাষা জীবজগতে অভিন্ন। সবাই একই চারটি বেস ব্যবহার করে, আর বেসের একই গুচ্ছ প্রোটিনের একই গাঠনিক এককটিকে বোঝায়। একটি রেসিপি অন্য রান্নাঘরের খাতায় টুকে নিলেও তা একই রেসিপি থাকে।
+
+**দুটি DNA-কে একই রেস্ট্রিকশন এনজাইম দিয়ে কাটতে হয় কেন?** প্রতিটি রেস্ট্রিকশন এনজাইম তার নিজস্ব বেসক্রমে কাটে এবং নিজস্ব ধরনের আঠালো প্রান্ত রেখে যায়। প্লাজমিড ও দাতা DNA একই এনজাইমে কাটা হলে তাদের আঠালো প্রান্ত বেসে বেসে মিলে যায়, ফলে জিনের খণ্ডটি প্লাজমিডের ফাঁকে ঠিকঠাক বসে। ভিন্ন এনজাইমে তৈরি প্রান্ত জোড় বাঁধত না।
+
+**আঠালো প্রান্ত নিজেরাই জোড় বাঁধলে আবার লাইগেজ লাগে কেন?** জোড় বাঁধে দুর্বল হাইড্রোজেন বন্ধনে, যা খণ্ডটিকে শুধু আলগাভাবে ধরে রাখে। দুই DNA-এর চিনি-ফসফেটের রেলিং তখনো ভাঙা। লাইগেজ শক্ত বন্ধন দিয়ে রেলিং জুড়ে দেয়, আর একটি টানা অণু তৈরি হয়।
+
+**প্লাজমিডই কেন?** এটি ছোট, ব্যাকটেরিয়া থেকে সহজে বের করা যায়। ব্যাকটেরিয়ার ভেতরে সহজে ঢোকে। আর সবচেয়ে বড় কথা, এটি কোষের ভেতরে নিজের নকল তৈরি করে; তাই এর সাথে যা জোড়া থাকে, ব্যাকটেরিয়ার প্রতিটি বিভাজনে তারও নকল হয়।
+
+**ঠিক ব্যাকটেরিয়াগুলো বেছে নেওয়া হয় কীভাবে?** বাহক হিসেবে ব্যবহৃত প্লাজমিডে সাধারণত একটি চিহ্নিতকারী জিনও থাকে, যেমন এমন জিন যা কোষকে কোনো অ্যান্টিবায়োটিকের মধ্যেও বাঁচিয়ে রাখে। ব্যাকটেরিয়াগুলোকে সেই অ্যান্টিবায়োটিকসহ বাড়তে দিলে শুধু প্লাজমিড গ্রহণ করা কোষগুলোই বেঁচে থাকে।
+
+**জীবনিরাপত্তা নীতিমালা দরকার কেন?** কারণ জিএমও জীবন্ত। একবার ছাড়া পেলে সে বংশবৃদ্ধি করতে পারে, জিনও অন্যত্র ছড়াতে পারে; তাই ভুল শোধরানো কঠিন। পরে মেরামতের চেয়ে ছাড়ার আগে পরীক্ষা করা অনেক নিরাপদ।
+## terms
+জেনেটিক ইঞ্জিনিয়ারিং বা জিন প্রকৌশল (Genetic engineering) | বাছাই করা জিন এক জীব থেকে অন্য জীবে স্থানান্তর, বা নতুন বৈশিষ্ট্যের জন্য জীবের DNA-তে পরিবর্তন
+রিকম্বিনেন্ট DNA (Recombinant DNA) | দুটি উৎসের DNA খণ্ড জুড়ে তৈরি DNA
+জিন ক্লোনিং (Gene cloning) | জিন বহনকারী কোষের বংশবৃদ্ধি ঘটিয়ে জিনের অসংখ্য নকল তৈরি
+দাতা (Donor) | যে জীব থেকে কাঙ্ক্ষিত জিন নেওয়া হয়
+রেস্ট্রিকশন এনজাইম (Restriction enzyme) | নির্দিষ্ট বেসক্রমে DNA কাটার এনজাইম ("কাঁচি")
+আঠালো প্রান্ত (Sticky end) | DNA-এর এমন কাটা প্রান্ত, যেখানে কয়েকটি জোড়াহীন বেস বেরিয়ে থাকে
+লাইগেজ (Ligase) | DNA-এর কাটা প্রান্ত জোড়া লাগানোর এনজাইম ("আঠা")
+প্লাজমিড (Plasmid) | ব্যাকটেরিয়ায় ক্রোমোজোমের বাইরে থাকা, স্ববিভাজনে সক্ষম ছোট গোল DNA
+বাহক বা ভেক্টর (Vector) | প্লাজমিডের মতো যে DNA জিনকে কোষের ভেতরে বয়ে নেয়
+ট্রান্সফরমেশন (Transformation) | DNA খণ্ডের গ্রাহক কোষে প্রবেশ
+ট্রান্সজেনিক জীব (Transgenic organism) | অন্য প্রজাতি বা প্রকরণের এক বা একাধিক জিন বহনকারী জীব
+জিএমও (GMO) | জেনেটিক্যালি মডিফাইড অর্গানিজম: জীবপ্রযুক্তিতে নিয়ন্ত্রিতভাবে যার জিন বদলানো হয়েছে
+বিটি শস্য (Bt crop) | *Bacillus thuringiensis* ব্যাকটেরিয়ার জিন বহনকারী শস্য, যা নির্দিষ্ট পোকা প্রতিরোধ করে
+আগাছানাশক সহিষ্ণু (Herbicide tolerant) | আগাছানাশকে যার ক্ষতি হয় না
+ইনসুলিন (Insulin) | রক্তের গ্লুকোজ কমানোর হরমোন; ডায়াবেটিসের চিকিৎসায় লাগে
+ইন্টারফেরন (Interferon) | ভাইরাসজনিত রোগের ওষুধ হিসেবে ব্যবহৃত এক ধরনের প্রোটিন
+জীবনিরাপত্তা (Biosafety) | মানুষ ও পরিবেশ নিরাপদ রাখতে জীবপ্রযুক্তি পরীক্ষা ও ব্যবহারের নিয়ম
+## formula
+$$ N = N_{0} × 2^{n}
+N | n বার বিভাজনের পর ব্যাকটেরিয়ার সংখ্যা | একক নেই
+N_{0} | শুরুতে ব্যাকটেরিয়ার সংখ্যা | একক নেই
+n | বিভাজনের সংখ্যা = মোট সময় ÷ একবার বিভাজনের সময় | একক নেই
+! আদর্শ পরিবেশে *E. coli* প্রায় প্রতি ২০ মিনিটে একবার বিভাজিত হতে পারে।
+! প্রতি বিভাজনে প্লাজমিডেরও নকল হয়, তাই জিনের নকলের সংখ্যাও একইভাবে বাড়ে।
+! বাস্তবের ট্যাংকে খাবার কমে এলে বৃদ্ধি ধীর হয়ে যায়।
+## visual
+"ধাপে ধাপে" অংশে "পরের ধাপ" চেপে ইনসুলিনের জিনটিকে মানুষের কোষ থেকে ব্যাকটেরিয়া পর্যন্ত অনুসরণ করো। "আঠালো প্রান্ত" অংশে রেস্ট্রিকশন এনজাইম দিয়ে প্লাজমিড কাটো, দাতা DNA-এর যে খণ্ডটি মানায় সেটি বেছে নাও, তারপর লাইগেজ দিয়ে জুড়ে দাও। "ব্যবহার সাজাও" অংশে ঠিক করো জেনেটিক ইঞ্জিনিয়ারিংয়ের প্রতিটি সাফল্য কোন ক্ষেত্রের।
+## real
+**প্রাণী ছাড়াই ইনসুলিন।** জেনেটিকভাবে পরিবর্তিত ব্যাকটেরিয়ার তৈরি ইনসুলিন রোগীদের হাতে পৌঁছায় ১৯৮০-র দশকের শুরুতে, আর এখন ডায়াবেটিস রোগীদের প্রায় সব ইনসুলিনই তৈরি হয় পরিবর্তিত ব্যাকটেরিয়া বা ইস্ট দিয়ে। এটি মানুষেরই ইনসুলিন, কারণ জিনটি মানুষের। যত দরকার তত উৎপাদন করা যায়, প্রাণীর অগ্ন্যাশয়ের জোগানের ওপর নির্ভর করতে হয় না।
+
+**বাংলাদেশে বিটি বেগুন।** ডগা ও ফল ছিদ্রকারী পোকা বেগুনের সবচেয়ে বড় শত্রু। এর কীড়া ডগা ও ফলের ভেতরে লুকিয়ে থাকে, যেখানে ছিটানো কীটনাশক প্রায় পৌঁছায়ই না; তাই কৃষকেরা বারবার কীটনাশক ছিটাতেন। বাংলাদেশ কৃষি গবেষণা ইনস্টিটিউটের সাথে উদ্ভাবিত বিটি বেগুনের জাত বাংলাদেশে ছাড়পত্র পায় ২০১৩ সালে, আর পরের বছর থেকে কৃষকেরা তা চাষ শুরু করেন। গাছ নিজেই বিটি প্রোটিন তৈরি করে, তা খেয়ে কীড়া মারা যায়, ফলে কীটনাশক অনেক কম লাগে। অন্য সব জিএম ফসলের মতো এর ব্যবহারও জীবনিরাপত্তা নীতিমালার অধীনে তদারক করা হয়, আর পোকাটি প্রতিরোধী হয়ে উঠছে কি না, বিজ্ঞানীরা সেদিকে নজর রাখেন।
+
+**তেল খাওয়া ব্যাকটেরিয়া।** পানিতে বা মাটিতে তেল ছড়িয়ে পড়লে তা বছরের পর বছর মাছ, পাখি ও উদ্ভিদের ক্ষতি করে। কিছু ব্যাকটেরিয়া তেলের হাইড্রোকার্বনকে খাদ্য হিসেবে ব্যবহার করতে পারে। *Pseudomonas*-এর কিছু জাতকে এমনভাবে উন্নত করা হয়েছে যে তারা এ রকম কয়েক ধরনের যৌগ ভাঙতে পারে; দূষিত জায়গা পরিষ্কারে এ ধরনের অণুজীবের সাহায্য নেওয়া হয়।
+## example
+প্রশ্ন: একটি রেস্ট্রিকশন এনজাইম G A A T T C বেসক্রমটি চেনে এবং প্রতিটি সূত্রকে G ও A-এর মাঝখানে কাটে। এক টুকরো DNA-এর ওপরের সূত্রটি হলো A C G A A T T C G T। (ক) নিচের সূত্রটি লেখো। (খ) কাটার পর খণ্ড দুটি দেখাও এবং আঠালো প্রান্তগুলো চিহ্নিত করো।
+সমাধান: (ক)-এর জন্য জোড় বাঁধার নিয়ম A–T, G–C ব্যবহার করো। (খ)-এর জন্য মনে রেখো সূত্র দুটি বিপরীত দিকে চলে, তাই নিচের সূত্রটি পড়তে হবে ডান থেকে বাঁয়ে।
+ধাপ: (ক) ওপরের সূত্র: A C G A A T T C G T
+নিচের সূত্র: T G C T T A A G C A
+ধাপ: (খ) ওপরের সূত্রের মাঝখানে G A A T T C আছে। এটি কাটা পড়ে সেই G-এর পরে: A C G | A A T T C G T।
+ধাপ: নিচের সূত্রটি ডান থেকে বাঁয়ে পড়ো: A C G A A T T C G T। এতেও একই ক্রম আছে। এটিও কাটা পড়ে সেই G-এর পরে, বাঁ থেকে ডানে আঁকা ছবিতে যা দাঁড়ায়: T G C T T A A | G C A।
+ধাপ: বাঁ দিকের খণ্ড: ওপরে A C G, নিচে T G C T T A A। নিচের সূত্রের T T A A এই চারটি বেসের কোনো জোড়া নেই।
+ধাপ: ডান দিকের খণ্ড: ওপরে A A T T C G T, নিচে G C A। ওপরের সূত্রের A A T T এই চারটি বেসের কোনো জোড়া নেই।
+উত্তর: (ক) T G C T T A A G C A। (খ) খণ্ড দুটির আঠালো প্রান্ত হলো T T A A ও A A T T। এরা পরস্পরের পরিপূরক, তাই একে অন্যের সাথে, বা একই এনজাইমে কাটা অন্য যেকোনো DNA-এর সাথে জোড় বাঁধতে পারে।
+> এ কারণেই প্লাজমিড ও দাতা DNA একই এনজাইম দিয়ে কাটা হয়: তখন জিনের খণ্ডটির প্রান্ত খোলা প্লাজমিডের সাথে মিলে যায়।
+## example
+প্রশ্ন: ড. অরূপ মানুষের জীবন রক্ষাকারী একটি ওষুধ তৈরি করতে চান। তিনি দুটি উৎস থেকে DNA আলাদা করলেন: দাতা কোষ এবং *E. coli*। (ক) তিনি কোন পদ্ধতি অনুসরণ করছেন? (খ) বাকি ধাপগুলো ক্রমানুসারে লেখো, আর যেখানে এনজাইম লাগে সেখানে তার নাম দাও। (গ) দুটি DNA জোড়া লাগার পর তাকে কী বলে?
+সমাধান: দুটি উৎসের DNA জোড়া লাগানো হবে, তাই এটি রিকম্বিনেন্ট DNA প্রযুক্তি (জেনেটিক ইঞ্জিনিয়ারিং)। বইয়ের (a) ধাপটি তিনি করে ফেলেছেন।
+ধাপ: (ক) রিকম্বিনেন্ট DNA প্রযুক্তি।
+ধাপ: (খ) দাতা DNA ও *E. coli*-র প্লাজমিডকে **রেস্ট্রিকশন এনজাইম** দিয়ে কাটা।
+ধাপ: কাঙ্ক্ষিত জিন বহনকারী খণ্ডটিকে **লাইগেজ** দিয়ে খোলা প্লাজমিডের সাথে জোড়া লাগানো।
+ধাপ: রিকম্বিনেন্ট প্লাজমিডকে ব্যাকটেরিয়ার ভেতরে প্রবেশ করানো (**ট্রান্সফরমেশন**); এখানে কাটা বা জোড়ার এনজাইম লাগে না।
+ধাপ: রিকম্বিনেন্ট প্লাজমিড ধারণ করা ব্যাকটেরিয়া শনাক্ত করে আলাদা করা এবং তাদের বংশবৃদ্ধি ঘটানো (**জিন ক্লোনিং**)। এরা ওষুধটি তৈরি করে, যা পরে সংগ্রহ করা হয়।
+উত্তর: (ক) রিকম্বিনেন্ট DNA প্রযুক্তি। (খ) কাটা (রেস্ট্রিকশন এনজাইম) → জোড়া লাগানো (লাইগেজ) → ট্রান্সফরমেশন → বাছাই ও ক্লোনিং। (গ) রিকম্বিনেন্ট DNA; এখানে রিকম্বিনেন্ট প্লাজমিড।
+## example
+প্রশ্ন: তোমার বইয়ের দেওয়া অর্থ অনুযায়ী বলো, নিচের প্রতিটি জীব জিএমও, ট্রান্সজেনিক, দুটোই, নাকি কোনোটিই নয়: (i) বিটি বেগুন, যাতে *Bacillus thuringiensis* ব্যাকটেরিয়ার একটি জিন আছে; (ii) এমন একটি টমেটো, যার নিজেরই একটি জিনকে বিজ্ঞানীরা ল্যাবরেটরিতে অকেজো করে দিয়েছেন, বাইরের কোনো জিন যোগ করেননি; (iii) দুটি ধানগাছের সংকরায়ণ ঘটিয়ে কয়েক বছর ধরে সেরা গাছ বাছাই করে তৈরি একটি ধানের জাত।
+সমাধান: দুটি প্রশ্ন করো। জীবপ্রযুক্তির সাহায্যে নিয়ন্ত্রিতভাবে কি জিন বদলানো হয়েছে? হলে সেটি জিএমও। অন্য প্রজাতি বা প্রকরণের জিন কি এতে ঢুকেছে? ঢুকলে সেটি ট্রান্সজেনিক।
+ধাপ: (i) পরিবর্তন করা হয়েছে জিন প্রযুক্তিতে, আর জিনটি এসেছে ব্যাকটেরিয়া থেকে। জিএমও এবং ট্রান্সজেনিক।
+ধাপ: (ii) পরিবর্তন করা হয়েছে জিন প্রযুক্তিতে, কিন্তু বাইরের কোনো জিন যোগ হয়নি। জিএমও, তবে ট্রান্সজেনিক নয়।
+ধাপ: (iii) জাতটির জিনে পরিবর্তন এসেছে ঠিকই, তবে সংকরায়ণ ও বাছাইয়ের মাধ্যমে, জিন প্রযুক্তিতে নয়। এটি ট্রান্সজেনিক নয়, আর একে আমরা জিএমও-ও বলি না।
+উত্তর: (i) দুটোই; (ii) শুধু জিএমও; (iii) কোনোটিই নয়। প্রতিটি ট্রান্সজেনিক জীব জিএমও, কিন্তু সব জিএমও ট্রান্সজেনিক নয়।
+> (iii) নম্বরটিও তোমার বইয়ের ব্যাপক অর্থে "জেনেটিক মডিফিকেশন"; এ কারণেই বই বলছে মানুষ হাজার হাজার বছর ধরে জীবের জিনগত পরিবর্তন ঘটিয়ে আসছে।
+## example
+প্রশ্ন: রিকম্বিনেন্ট প্লাজমিড বহনকারী একটি *E. coli* কোষকে পুষ্টিসমৃদ্ধ দ্রবণে রাখা হলো। এটি প্রতি ২০ মিনিটে একবার বিভাজিত হয়। ৪ ঘণ্টা পরে জিনটি বহনকারী কোষের সংখ্যা কত হবে?
+দেওয়া আছে: N_{0} = ১; একবার বিভাজনের সময় = ২০ মিনিট; মোট সময় = ৪ ঘণ্টা = ২৪০ মিনিট
+সূত্র: N = N_{0} × 2^{n}, যেখানে n = মোট সময় ÷ একবার বিভাজনের সময়
+হিসাব: n = ২৪০ ÷ ২০ = ১২
+N = ১ × ২^{১২} = ৪০৯৬
+উত্তর: ৪০৯৬টি কোষ, প্রতিটিতেই জিনটি আছে।
+> খাবার ফুরিয়ে না গেলে ১০ ঘণ্টায় কোষ হতো ২^{৩০}টি, অর্থাৎ ১০০ কোটিরও বেশি। এই গতির জন্যই ব্যাকটেরিয়াকে কারখানা হিসেবে ব্যবহার করা হয়।
+## mistakes
+x লাইগেজ DNA কাটে আর রেস্ট্রিকশন এনজাইম জোড়া লাগায়।
+v রেস্ট্রিকশন এনজাইম কাটে ("কাঁচি")। লাইগেজ জোড়া লাগায় ("আঠা")।
+x DNA জোড়া লাগানোর এনজাইম হলো লাইপেজ।
+v লাইপেজ চর্বি পরিপাক করে। DNA জোড়া লাগায় লাইগেজ।
+x প্লাজমিড হলো ব্যাকটেরিয়ার ক্রোমোজোম।
+v প্লাজমিড ক্রোমোজোমের বাইরে থাকা ছোট, বাড়তি একটি গোল DNA, যা নিজের নকল তৈরি করে।
+x রিকম্বিনেন্ট DNA আর জিএমও একই জিনিস।
+v রিকম্বিনেন্ট DNA হলো জোড়া লাগানো DNA অণু। জিএমও হলো সেই জীব, যার জিনে পরিবর্তন ঘটানো হয়েছে।
+x জিএমও আর ট্রান্সজেনিক জীব হুবহু একই।
+v ট্রান্সজেনিক জীবে অন্য প্রজাতি বা প্রকরণের জিন থাকে। প্রতিটি ট্রান্সজেনিক জীব জিএমও, কিন্তু সব জিএমও ট্রান্সজেনিক নয়।
+x ব্যাকটেরিয়ার তৈরি ইনসুলিন হলো ব্যাকটেরিয়ার ইনসুলিন।
+v এটি মানুষেরই ইনসুলিন, কারণ ব্যাকটেরিয়া মানুষের ইনসুলিন জিন বহন করে এবং সেটিই পড়ে।
+x বিটি বেগুন মানে এমন বেগুন যার ভেতরে ব্যাকটেরিয়া বাস করে।
+v এতে ব্যাকটেরিয়া থেকে নেওয়া শুধু একটি জিন আছে। প্রোটিনটি গাছ নিজেই তৈরি করে।
+x জেনেটিক ইঞ্জিনিয়ারিংয়ে কোনো ঝুঁকি নেই, তাই নিয়মকানুনও লাগে না।
+v জিএমও পরিবেশ ও স্বাস্থ্যের ওপর প্রভাব ফেলতে পারে, তাই জীবনিরাপত্তা নীতিমালা মেনে এদের পরীক্ষা ও ব্যবহার করা হয়।
+## remember
+- জেনেটিক ইঞ্জিনিয়ারিং = নির্দিষ্ট জিন বহনকারী DNA খণ্ড এক জীব থেকে অন্য জীবে স্থানান্তর; কাঙ্ক্ষিত নতুন বৈশিষ্ট্যের জন্য DNA-এর পরিবর্তন।
+- রিকম্বিনেন্ট DNA = একটি DNA-এর খণ্ড অন্য DNA-তে প্রতিস্থাপন করে পাওয়া নতুন DNA। এটি তৈরির প্রক্রিয়া = রিকম্বিনেন্ট DNA প্রযুক্তি বা জিন ক্লোনিং।
+- ধাপ: (a) দাতা DNA ও প্লাজমিড পৃথক করা, (b) রেস্ট্রিকশন এনজাইম দিয়ে দুটিকেই কাটা, (c) লাইগেজ দিয়ে জোড়া লাগানো, (d) ট্রান্সফরমেশন, (e) বাছাই ও বংশবৃদ্ধি (জিন ক্লোনিং)।
+- রেস্ট্রিকশন এনজাইম কাটে; লাইগেজ জোড়ে; প্লাজমিড বাহক; সাধারণ পোষক *E. coli*।
+- ট্রান্সফরমেশন = DNA খণ্ডের গ্রাহক কোষে প্রবেশ। এতে তৈরি হয় ট্রান্সজেনিক জীব।
+- জিএমও: জীবপ্রযুক্তিতে নিয়ন্ত্রিতভাবে জিন বদলানো জীব। ট্রান্সজেনিক: অন্য প্রজাতি বা প্রকরণের জিন বহনকারী জীব।
+- শস্য: বিটি ভুট্টা, বিটি তুলা, বিটি ধান, বিটি বেগুন (*Bacillus thuringiensis*-এর জিন); ভাইরাস প্রতিরোধী ও আগাছানাশক সহিষ্ণু জাত; বিটা-ক্যারোটিনযুক্ত ধান।
+- বাংলাদেশে বিটি তুলা ও বিটি বেগুন চাষ হচ্ছে।
+- প্রাণী ও মাছ: ভেড়া ও মাছে বৃদ্ধি হরমোনের জিন; পশমের জন্য CysE ও CysM জিন।
+- চিকিৎসা: পরিবর্তিত *E. coli* ও ইস্ট থেকে ইনসুলিন, হেপাটাইটিস বি-এর টিকা, ইন্টারফেরন, মানুষের বৃদ্ধি হরমোন, GM-CSF।
+- পরিবেশ: তেল ও হাইড্রোকার্বন ভাঙতে সক্ষম *Pseudomonas* ব্যাকটেরিয়া।
+- জিএমও-র সম্ভাব্য ঝুঁকি আছে, তাই বাংলাদেশসহ সারা বিশ্বে জীবনিরাপত্তা নীতিমালা অনুসরণ করা হয়।
+## think
+একটি কোম্পানি তোমার এলাকার কৃষকদের লবণাক্ত মাটি সহ্য করতে পারে এমন নতুন একটি জিএম ধান দিতে চায়। অনুমোদনের আগে এটি সম্পর্কে তুমি কী কী জানতে চাইবে? সুবিধা নিয়ে তিনটি আর সম্ভাব্য ঝুঁকি নিয়ে তিনটি প্রশ্ন লেখো। প্রশ্নগুলোর উত্তর কার দেওয়া উচিত, আর কী ধরনের প্রমাণ দিয়ে?
+## quiz
+? DNA-কে নির্দিষ্ট জায়গায় কাটতে কোন এনজাইম ব্যবহৃত হয়?
+- লাইগেজ
+* রেস্ট্রিকশন এনজাইম
+- ল্যাকটেজ
+- লাইপেজ
+= রেস্ট্রিকশন এনজাইম হলো "কাঁচি"। লাইগেজ DNA জোড়া লাগায়; ল্যাকটেজ ও লাইপেজ পরিপাকের এনজাইম।
+? রিকম্বিনেন্ট DNA প্রযুক্তিতে প্লাজমিডের কাজ কী?
+* কাঙ্ক্ষিত জিনকে ব্যাকটেরিয়ার ভেতরে বহন করে নেওয়া
+- দাতা DNA কাটা
+- DNA-এর কাটা প্রান্ত জোড়া লাগানো
+- জিনবিহীন ব্যাকটেরিয়া মেরে ফেলা
+= প্লাজমিড হলো বাহক (ভেক্টর)। জিনটি এর সাথে জোড়া হয়, আর এটি জিনকে কোষে নিয়ে যায় ও সেখানে তার নকল তৈরি করে।
+? রিকম্বিনেন্ট প্লাজমিডকে ব্যাকটেরিয়ার ভেতরে প্রবেশ করানোর পদ্ধতিকে বলে
+- জিন ক্লোনিং
+- গাঁজন
+* ট্রান্সফরমেশন
+- টিস্যু কালচার
+= DNA খণ্ডের গ্রাহক কোষে প্রবেশই ট্রান্সফরমেশন। জিন ক্লোনিং হলো এর পরের বংশবৃদ্ধি।
+? বিটি বেগুন ও বিটি তুলায় কোন জীবের জিন আছে?
+- পাউরুটির ইস্টের
+- *Escherichia coli*-র
+- স্যামন মাছের
+* *Bacillus thuringiensis*-এর
+= "বিটি" (Bt) এসেছে *Bacillus thuringiensis* ব্যাকটেরিয়ার নাম থেকে। এর জিন গাছকে নির্দিষ্ট পোকা প্রতিরোধে সক্ষম করে।
+? নিচের কোন কথাটি তোমার বইয়ের সাথে মেলে?
+- জিএমও আর ট্রান্সজেনিক জীব হুবহু একই
+* ট্রান্সজেনিক জীবে অন্য প্রজাতি বা প্রকরণ থেকে নেওয়া জিন ঢোকানো হয়েছে
+- জিএমও সব সময় দুটি গাছের সংকরায়ণে তৈরি হয়
+- ট্রান্সজেনিক জীবের জিনে কোনো পরিবর্তন হয় না
+= ট্রান্সজেনিক জীব অন্য প্রজাতি বা প্রকরণের জিন বহন করে। এরা জিএমও, তবে সব জিএমও ট্রান্সজেনিক না-ও হতে পারে।
